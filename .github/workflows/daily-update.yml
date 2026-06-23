@@ -41,7 +41,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git add src/data/
+          git add src/data/generated/
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
