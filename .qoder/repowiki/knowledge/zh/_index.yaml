@@ -1,0 +1,24 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: zh-CN
+branch: Q0DeR-MaG1C-BrAnCh-Fo2-NoN-GiT-Or-No-C0MmIt
+exported_at: "2026-06-23T07:38:27Z"
+modules:
+    "":
+        dir_name: 未来组织洞察前端应用
+        title: 未来组织洞察前端应用
+        scope:
+            - .gitignore
+            - index.html
+            - package-lock.json
+            - package.json
+            - postcss.config.js
+            - tailwind.config.js
+            - tsconfig.json
+            - tsconfig.scripts.json
+            - vercel.json
+            - vite.config.ts
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []

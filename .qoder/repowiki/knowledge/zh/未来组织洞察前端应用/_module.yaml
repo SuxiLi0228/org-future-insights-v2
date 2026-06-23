@@ -1,0 +1,17 @@
+schema_version: 1
+module_path: ""
+title: 未来组织洞察前端应用
+scope:
+    - .gitignore
+    - index.html
+    - package-lock.json
+    - package.json
+    - postcss.config.js
+    - tailwind.config.js
+    - tsconfig.json
+    - tsconfig.scripts.json
+    - vercel.json
+    - vite.config.ts
+source_files: []
+depends_on: []
+related_to: []

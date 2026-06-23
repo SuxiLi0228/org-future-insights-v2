@@ -1,0 +1,55 @@
+import { ResearchPaper } from '@/types';
+
+export const researchPapers: ResearchPaper[] = [
+  {
+    id: 'res-0623-1',
+    date: '2026-06-23',
+    title: 'AI Transition and the Productivity J-Curve',
+    authors: ['Justin Wolfers', 'Erik Brynjolfsson'],
+    institution: 'NBER',
+    sourceType: 'academic',
+    summary: 'AI 投资存在"J 曲线效应"——短期生产力下降（学习成本），中期（3-5 年）才开始兑现。HR 人才规划需考虑这一时间差。',
+    keyFindings: [
+      'AI 部署的前 18 个月，企业平均生产力下降 5-8%',
+      '第 3 年开始回正，第 5 年达到 15-25% 的生产力提升',
+      '成功企业共性：有专职 AI 变革管理团队 + 高层直接参与',
+    ],
+    hrImplications: 'HR 在做 5 年人才规划时，应以 2031-2033 为 AI 生产力兑现期，避免按 VC 乐观预期激进扩张。',
+    tags: ['AI投资', '生产力', 'J曲线', '人才规划'],
+    url: 'https://www.nber.org/papers/w31645',
+  },
+  {
+    id: 'res-0622-1',
+    date: '2026-06-22',
+    title: 'The Agentic Enterprise: From Copilots to Autonomous Agents',
+    authors: ['Michael Chui', 'Roger Roberts'],
+    institution: 'McKinsey',
+    sourceType: 'consulting',
+    summary: 'McKinsey 最新报告将企业 AI 应用分为 3 阶段：Copilot → Agent → Orchestrator，目前 85% 的企业仍在第 1 阶段。',
+    keyFindings: [
+      '仅 3% 的企业进入 Agent 阶段，0.2% 达到 Orchestrator',
+      'Agent 阶段需要重新设计工作流程，而非简单叠加 AI 工具',
+      'HR 在 Agent 阶段的角色从"支持者"变为"架构师"',
+    ],
+    hrImplications: 'HR 需要从"帮员工学会用 AI"转向"重新设计人机协作的工作流程"，这是能力模型的根本性变化。',
+    tags: ['AI Agent', '企业应用', '工作流程', 'HR角色'],
+    url: 'https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-agentic-enterprise',
+  },
+  {
+    id: 'res-0621-1',
+    date: '2026-06-21',
+    title: 'Mindset > Skillset: Why AI Training Programs Fail',
+    authors: ['Amy Edmondson'],
+    institution: 'HBR',
+    sourceType: 'hr_media',
+    summary: 'HBR 最新研究指出，AI 培训失败的首要原因不是技能不足，而是心态障碍——"用 AI = 承认自己不够好"的隐性信念。',
+    keyFindings: [
+      '78% 的 AI 培训参与者表示"担心同事知道自己需要 AI 培训"',
+      '心态开放的团队，AI 工具采用率高 3.2 倍',
+      '最有效的干预不是培训课程，而是领导层的"我也在用 AI"示范',
+    ],
+    hrImplications: '培训重心应从"教 AI 使用技巧"转向"消除 AI 使用羞耻感"，领导层的公开示范比任何培训都有效。',
+    tags: ['AI培训', '心态', '心理安全', '组织文化'],
+    url: 'https://hbr.org/2026/06/mindset-skillset-why-ai-training-programs-fail',
+  },
+];
