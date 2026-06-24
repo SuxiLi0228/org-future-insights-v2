@@ -2,6 +2,30 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-this-flying-solar-powered-platform-could-deliver-better-inte-1782291600000",
+    "title": "This flying solar-powered platform could deliver better internet from the air",
+    "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+    "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-all-challenges-big-and-small-1782291600000",
+    "title": "All challenges big and small",
+    "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+    "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-heads-in-the-game-1782248400000",
     "title": "Heads in the game",
     "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
@@ -91,30 +115,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
     "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
     "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-plants-appear-to-detect-the-patter-of-falling-rain-1782248400000",
-    "title": "Plants appear to detect the patter of falling rain",
-    "link": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
-    "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-breath-test-could-diagnose-pneumonia-in-minutes-1782248400000",
-    "title": "A breath test could diagnose pneumonia in minutes",
-    "link": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
-    "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a per",
     "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -669,7 +669,7 @@ export const generatedJobs: JobPosting[] = [
       "Posted 5:04:38 PM",
       "This is a remote position",
       "Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **SUPPORT** and tag RNDIuMTIwLjc1LjU3 when applying to show you read the job post completely (#RNDIuMTIwLjc1LjU3)"
+      "Please mention the word **SUPPORT** and tag RMTcyLjIxNC4xNTUuMjMx when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMjMx)."
     ],
     "skills": [],
     "location": "United States, ",
@@ -685,7 +685,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Contact Hr 8571819484 As an Airport Ticketing Executive, you will play a crucial role in ensuring smooth ticketing operations at the airport",
-      "Your main responsibilities will include:rnrn- **Ticket Sales**: Assist passengers Please mention the word **OPTIMISM** and tag RNDIuMTIwLjc1LjU3 when applying"
+      "Your main responsibilities will include:rnrn- **Ticket Sales**: Assist passengers Please mention the word **OPTIMISM** and tag RMTcyLjIxNC4xNTUuMjMx when appl"
     ],
     "skills": [],
     "location": "Thiruvananthapuram, ",
@@ -702,7 +702,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:00:00 AM",
       "Research and Quality AssistantLocation: RemoteOrganization: Cardiovascular Associates of Americaâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **WINNABLE** and tag RNDIuMTIwLjc1LjU3 when applying to show you read the job post completely (#RNDIuMTIwLjc1LjU3)"
+      "Please mention the word **WINNABLE** and tag RMTcyLjIxNC4xNTUuMjMx when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuM"
     ],
     "skills": [],
     "location": "Remote",
@@ -727,24 +727,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
     "postedAt": "2026-06-20",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133835",
-    "title": "Administrative Assistant Research Panel",
-    "company": "RG&amp;T Solutions",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "We are seeking a motivated Part-Time Research Panel - Remote Work At Home (Administrative Assistant Welcome) to join our team in San Carlos, California",
-      "This role offers flexible hours and the opportunity to contribute to meaningful research projects from the comfort of your home",
-      "Key Responsibiliti"
-    ],
-    "skills": [],
-    "location": "San Carlos, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-research-panel-rgampt-solutions-1133835",
-    "postedAt": "2026-06-19",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-24T04:00:46.668Z';
+export const dataFetchedAt = '2026-06-24T10:37:17.499Z';
