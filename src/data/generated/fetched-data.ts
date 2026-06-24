@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-elephant-alert-ai-warning-systems-aim-to-avoid-deadly-clashe-1782205200000",
-    "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-    "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-    "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been ",
+    "id": "news-heads-in-the-game-1782248400000",
+    "title": "Heads in the game",
+    "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+    "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;",
     "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-400-million-machine-powering-the-future-of-chipmaking-1782205200000",
-    "title": "The $400 million machine powering the future of chipmaking",
-    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ",
+    "id": "news-super-mario-is-mathier-than-you-think-1782248400000",
+    "title": "Super Mario is mathier than you think",
+    "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+    "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and ",
     "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -26,11 +26,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-three-things-to-watch-amid-anthropic-s-latest-feud-with-the--1782151200000",
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
-    "publishedAt": "2026-06-22",
+    "id": "news-a-man-of-many-words-1782248400000",
+    "title": "A man of many words",
+    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+    "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition ",
+    "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -38,11 +38,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-record-breaking-subsea-tunnels-and-flexible-dat-1782130200000",
-    "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-    "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It",
-    "publishedAt": "2026-06-22",
+    "id": "news-sharing-a-love-for-calculus-1782248400000",
+    "title": "Sharing a love for calculus",
+    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+    "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned ",
+    "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -50,15 +50,140 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inside-the-world-s-deepest-and-longest-subsea-road-tunnel-1782115200000",
-    "title": "Inside the world’s deepest and longest subsea road tunnel",
-    "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
-    "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov",
-    "publishedAt": "2026-06-22",
+    "id": "news-stand-up-for-research-innovation-and-education-1782248400000",
+    "title": "Stand Up for Research, Innovation, and Education",
+    "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+    "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t",
+    "publishedAt": "2026-06-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic-1782248400000",
+    "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+    "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+    "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is ac",
+    "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-reinventing-the-zipper-1782248400000",
+    "title": "Reinventing the zipper",
+    "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+    "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD",
+    "publishedAt": "2026-06-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-engineered-mini-livers-could-be-injected-as-an-alternative-t-1782248400000",
+    "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
+    "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
+    "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin",
+    "publishedAt": "2026-06-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-plants-appear-to-detect-the-patter-of-falling-rain-1782248400000",
+    "title": "Plants appear to detect the patter of falling rain",
+    "link": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
+    "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit",
+    "publishedAt": "2026-06-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-a-breath-test-could-diagnose-pneumonia-in-minutes-1782248400000",
+    "title": "A breath test could diagnose pneumonia in minutes",
+    "link": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
+    "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a per",
+    "publishedAt": "2026-06-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-new-medicaid-work-rule-puts-verification-burden-on-employers-1782217827000",
+    "title": "New Medicaid work rule puts verification burden on employers",
+    "link": "https://hrexecutive.com/new-medicaid-work-rule-puts-verification-burden-on-employers/",
+    "summary": "New Medicaid work rule requires 80 hours of monthly activity for eligibility, and HR leaders should prepare for related employee questions. The post New Medicaid work rule puts verification burden on employers appeared first on HR Executive .",
+    "publishedAt": "2026-06-23",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-next-frontier-of-leadership-development-internal-not-ext-1782216951000",
+    "title": "The next frontier of leadership development: internal, not external",
+    "link": "https://hrexecutive.com/the-next-frontier-of-leadership-development-internal-not-external/",
+    "summary": "The author is seeing more demand for a new kind of executive coaching that lets leaders confront existential questions. The post The next frontier of leadership development: internal, not external appeared first on HR Executive .",
+    "publishedAt": "2026-06-23",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-salesforce-servicenow-workday-and-the-revenue-per-employee-r-1782216048000",
+    "title": "Salesforce, ServiceNow, Workday and the revenue-per-employee race",
+    "link": "https://hrexecutive.com/salesforce-servicenow-workday-and-the-revenue-per-employee-race/",
+    "summary": "Top software companies now generate nearly 3.5x more revenue per employee than average firms. See where HR tech orgs fit in. The post Salesforce, ServiceNow, Workday and the revenue-per-employee race appeared first on HR Executive .",
+    "publishedAt": "2026-06-23",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-do-tpas-still-lock-up-employer-claims-data-house-hearing-wit-1782215124000",
+    "title": "Do TPAs still lock up employer claims data? House hearing witness says yes",
+    "link": "https://hrexecutive.com/do-tpas-still-lock-up-employer-claims-data-house-hearing-witness-says-yes/",
+    "summary": "Some insurers and TPAs do simply refuse to provide data, but, much more often, they will put up less obvious barriers, according to one House committee witness. The post Do TPAs still lock up employer claims data? House hearing witness says yes appeared first on HR Executive .",
+    "publishedAt": "2026-06-23",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-farm-agents-accuse-company-of-8216-false-promises-8217-1782214234000",
+    "title": "State Farm agents accuse company of &#8216;false promises&#8217; after benefits overhaul",
+    "link": "https://hrexecutive.com/state-farm-agents-accuse-company-of-false-promises-after-benefits-overhaul/",
+    "summary": "The insurance giant recently axed healthcare coverage for its 19,000 sales agents and their spouses, along with compensation and other changes. The post State Farm agents accuse company of &#8216;false promises&#8217; after benefits overhaul appeared first on HR Executive .",
+    "publishedAt": "2026-06-23",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -124,182 +249,24 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "ai"
     ]
-  },
-  {
-    "id": "news-the-download-ai-bottleneck-debates-and-bci-trials-take-off-1781871000000",
-    "title": "The Download: AI bottleneck debates, and BCI trials take off",
-    "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
-    "publishedAt": "2026-06-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-startup-claims-it-broke-through-a-bottleneck-that-s-holdin-1781865624000",
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has",
-    "publishedAt": "2026-06-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-inevitable-weakness-of-metrics-1781859600000",
-    "title": "The inevitable weakness of metrics",
-    "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-    "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
-    "publishedAt": "2026-06-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-brain-computer-interface-trials-are-taking-off-1781859600000",
-    "title": "Brain-computer interface trials are taking off",
-    "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-    "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
-    "publishedAt": "2026-06-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-a-new-hunt-for-dark-matter-and-kenya-8217-s-cas-1781784600000",
-    "title": "The Download: a new hunt for dark matter and Kenya&#8217;s case for going solar",
-    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca",
-    "publishedAt": "2026-06-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-why-doomjobbing-is-overwhelming-recruiters-hurting-job-seeke-1781811028000",
-    "title": "Why ‘doomjobbing’ is overwhelming recruiters, hurting job seekers",
-    "link": "https://hrexecutive.com/why-doomjobbing-is-overwhelming-recruiters-hurting-job-seekers/",
-    "summary": "Doomjobbing reflects the practice of an applicant not reading the job description in full prior to applying; research shows 4 in 10 do this. The post Why ‘doomjobbing’ is overwhelming recruiters, hurting job seekers appeared first on HR Executive .",
-    "publishedAt": "2026-06-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-even-insured-americans-are-struggling-to-afford-healthcare-s-1781809247000",
-    "title": "Even insured Americans are struggling to afford healthcare, study finds",
-    "link": "https://hrexecutive.com/even-insured-americans-are-struggling-to-afford-healthcare-study-finds/",
-    "summary": "Among people who get insurance through an employer, 4 in 10 cited affordability challenges, while 54% of those who purchase insurance on their own. The post Even insured Americans are struggling to afford healthcare, study finds appeared first on HR Executive .",
-    "publishedAt": "2026-06-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-4-ways-chros-must-redefine-hr-s-value-as-ai-redefines-work-1781807457000",
-    "title": "4 ways CHROs must redefine HR’s value as AI redefines work",
-    "link": "https://hrexecutive.com/4-ways-chros-must-redefine-hrs-value-as-ai-redefines-work/",
-    "summary": "Organizations need HR to help determine what work humans should do in the age of AI; here are 4 ways HR leaders can help define that work. The post 4 ways CHROs must redefine HR’s value as AI redefines work appeared first on HR Executive .",
-    "publishedAt": "2026-06-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-how-the-best-hr-leaders-evaluate-benefits-1781787471000",
-    "title": "How the best HR leaders evaluate benefits",
-    "link": "https://hrexecutive.com/how-the-best-hr-leaders-evaluate-benefits/",
-    "summary": "Wednesday, July 22, 2026 at 2:00 pm ET In this panel, benefits and healthcare leaders will explore how employers can evaluate women’s and family health benefits through the lens of clinical outcomes, total cost of care, and workforce impact, while identifying what distinguishes truly integrated, out",
-    "publishedAt": "2026-06-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-google-exec-ai-isn-t-killing-jobs-copycat-layoffs-are-1781785813000",
-    "title": "Google exec: AI isn’t killing jobs—copycat layoffs are",
-    "link": "https://hrexecutive.com/google-exec-ai-isnt-killing-jobs-copycat-layoffs-are/",
-    "summary": "Nobel Prize winner Demis Hassabis says \"imitative behavior\" is prompting some orgs to view layoffs going hand-in-hand with AI advances. The post Google exec: AI isn’t killing jobs—copycat layoffs are appeared first on HR Executive .",
-    "publishedAt": "2026-06-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2606.23689v1",
-    "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+    "id": "arxiv-2606.24884v1",
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
     "authors": [
-      "Mingi Choi",
-      "Gunhee Kim",
-      "Jisoo Kim",
-      "Taeksoo Kim",
-      "Taeyun Ha",
-      "Jongbin Lim",
-      "Hanbyul Joo"
+      "Maggie Wang",
+      "Lars Osterberg",
+      "Stephen Tian",
+      "Ola Shorinwa",
+      "Jiajun Wu",
+      "Mac Schwager"
     ],
-    "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real ha",
-    "link": "http://arxiv.org/abs/2606.23689v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.RO",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23687v1",
-    "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-    "authors": [
-      "Manas Mehta",
-      "Fangcong Yin",
-      "Greg Durrett"
-    ],
-    "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a le",
-    "link": "http://arxiv.org/abs/2606.23687v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23680v1",
-    "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-    "authors": [
-      "Sikai Li",
-      "Shuning Li",
-      "Zhenyu Wei",
-      "Yunchao Yao",
-      "Chenran Li",
-      "Mingyu Ding"
-    ],
-    "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent ",
-    "link": "http://arxiv.org/abs/2606.23680v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: ",
+    "link": "http://arxiv.org/abs/2606.24884v1",
+    "publishedAt": "2026-06-23",
     "categories": [
       "cs.RO",
       "cs.AI",
@@ -307,306 +274,392 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2606.23679v1",
-    "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+    "id": "arxiv-2606.24879v1",
+    "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
     "authors": [
-      "Sara Dorfman",
-      "Maya Vishnevsky",
-      "Omer Dahary",
-      "Or Patashnik",
-      "Daniel Cohen-Or"
+      "Guglielmo Beretta",
+      "Tommaso Cesari",
+      "Roberto Colomboni",
+      "Andrea Paudice"
     ],
-    "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structur",
-    "link": "http://arxiv.org/abs/2606.23679v1",
-    "publishedAt": "2026-06-22",
+    "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing t",
+    "link": "http://arxiv.org/abs/2606.24879v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.GR",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23678v1",
-    "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
-    "authors": [
-      "Cong Han",
-      "Xiaohan Lan",
-      "Haibo Qiu",
-      "Yujie Zhong"
-    ],
-    "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically rely on predefined heuristics for visual manipulation and are inherently incapable of addressing numer",
-    "link": "http://arxiv.org/abs/2606.23678v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23676v1",
-    "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-    "authors": [
-      "Dingzhi Yu",
-      "Hongyi Tao",
-      "Yuanyu Wan",
-      "Luo Luo",
-      "Lijun Zhang"
-    ],
-    "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that",
-    "link": "http://arxiv.org/abs/2606.23676v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
       "math.OC",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23673v1",
-    "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
-    "authors": [
-      "Sunil Wanjari",
-      "Manish Thakre",
-      "Aayushi Asole",
-      "Sharwari Raut",
-      "Kwabena Adu-Duodu",
-      "Yinhao Li",
-      "Stanly Wilson"
-    ],
-    "summary": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a",
-    "link": "http://arxiv.org/abs/2606.23673v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.23672v1",
-    "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+    "id": "arxiv-2606.24874v1",
+    "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
     "authors": [
-      "Prateek Agnihotri",
-      "Sanchit Jain",
-      "Prabhat Agnihotri",
-      "Aditya Prasad",
-      "Shubham Jain"
+      "Haorui Ji",
+      "Weizhe Liu",
+      "Hongdong Li",
+      "Hengkai Guo"
     ],
-    "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Models (LLMs) notoriously struggle here; traditional methods force them to simulate complex boolean logic",
-    "link": "http://arxiv.org/abs/2606.23672v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induc",
+    "link": "http://arxiv.org/abs/2606.24874v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24855v1",
+    "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+    "authors": [
+      "Negin Raoof",
+      "Richard Zhuang",
+      "Marianna Nezhurina",
+      "Etash Guha",
+      "Atula Tejaswi",
+      "Ryan Marten",
+      "Charlie F. Ruan",
+      "Tyler Griggs",
+      "Alexander Glenn Shaw",
+      "Hritik Bansal",
+      "E. Kelly Buchanan",
+      "Artem Gazizov",
+      "Reinhard Heckel",
+      "Chinmay Hegde",
+      "Sankalp Jajee",
+      "Daanish Khazi",
+      "Emmanouil Koukoumidis",
+      "Xiangyi Li",
+      "Hange Liu",
+      "Shlok Natarajan",
+      "Harsh Raj",
+      "Nicholas Roberts",
+      "Ethan Shen",
+      "Nishad Singhi",
+      "Michael Siu",
+      "Ashima Suvarna",
+      "Hanwen Xing",
+      "Patrick Yubeaton",
+      "Robert Zhang",
+      "Leon Liangyu Chen",
+      "Xiaokun Chen",
+      "Steven Dillmann",
+      "Saadia Gabriel",
+      "Xunyi Jiang",
+      "Anurag Kashyap",
+      "Boxuan Li",
+      "Yein Park",
+      "Minh Pham",
+      "Sujay Sanghavi",
+      "Lin Shi",
+      "Ke Sun",
+      "Yixin Wang",
+      "Zhiwei Xu",
+      "Erica Zhang",
+      "Siyan Zhao",
+      "Wanjia Zhao",
+      "Jenia Jitsev",
+      "Alex Dimakis",
+      "Benjamin Feuer",
+      "Ludwig Schmidt"
+    ],
+    "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project",
+    "link": "http://arxiv.org/abs/2606.24855v1",
+    "publishedAt": "2026-06-23",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.23671v1",
-    "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+    "id": "arxiv-2606.24854v1",
+    "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
     "authors": [
-      "Quang Minh Nguyen",
-      "Uzair Ahmed",
-      "Taegyoon Kim"
+      "Blade Frisch",
+      "Will Wade",
+      "Dylan Gaines",
+      "Michelle Kinsella",
+      "Betts Peters",
+      "Tamara Broderick",
+      "Keith Vertanen"
     ],
-    "summary": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an adversarial prefill attack. Across ten open-weight instruction-tuned LLMs (3B to 70B) and four safety benchmarks, no model reliably recognizes its own compromised ",
-    "link": "http://arxiv.org/abs/2606.23671v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature o",
+    "link": "http://arxiv.org/abs/2606.24854v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.CL"
+      "cs.HC",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.23670v1",
-    "title": "Tapered Language Models",
+    "id": "arxiv-2606.24851v1",
+    "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
     "authors": [
-      "Reza Bayat",
-      "Ali Behrouz",
-      "Aaron Courville"
+      "Jason Sulskis",
+      "Sathya Ravi"
     ],
-    "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body of evidence suggests that layers contribute non-uniformly to the final output, with later layers re",
-    "link": "http://arxiv.org/abs/2606.23670v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the complex FFT carries representational redundancy through conjugate symmetry. We introduce the Hartley Neural Operator (HNO), the exact real-valued mirror of FNO: it replaces the FFT with the purely real Disc",
+    "link": "http://arxiv.org/abs/2606.24851v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.LG",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24849v1",
+    "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+    "authors": [
+      "Zixuan Li",
+      "Haokun Lin",
+      "Yicheng Xiao",
+      "Zhiwei Li",
+      "Xinyang Song",
+      "Zelong Zheng",
+      "Yong He",
+      "Heng Yao",
+      "Ke Ding",
+      "Chao Yu",
+      "Chuan Yuan",
+      "Qi Li",
+      "Zhenan Sun"
+    ],
+    "summary": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relations, attribute bindings, and coarse layouts must be preserved. We attribute this limitation in part to the entanglement of structural planning and appearance rendering within a single conditioning strea",
+    "link": "http://arxiv.org/abs/2606.24849v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24842v1",
+    "title": "World Models in Pieces: Structural Certification for General Agents",
+    "authors": [
+      "Yikai Lu",
+      "Yifei Wu",
+      "Xinyu Lu",
+      "Tongxin Li"
+    ],
+    "summary": "In the big-world regime, agents cannot be universally capable and their ability is inevitably specialized across a world model in pieces. Consequently, standard uniform guarantees fail to distinguish between the understanding of critical bottlenecks and irrelevant failures. We first formalize this limitation by proving that general agents are not universal, rendering standard worst-case analysis u",
+    "link": "http://arxiv.org/abs/2606.24842v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24841v1",
+    "title": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
+    "authors": [
+      "Ahmad Pouramini",
+      "Hesham Faili"
+    ],
+    "summary": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives duri",
+    "link": "http://arxiv.org/abs/2606.24841v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
       "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2606.23668v1",
-    "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
+    "id": "arxiv-2606.24839v1",
+    "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
     "authors": [
-      "David Mguni",
-      "Julian Ma",
-      "Jun Wang"
+      "Tian Zheng",
+      "Kai-Tai Hsu"
     ],
-    "summary": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for conveying task information. Modelling User--System interaction as a bilevel \\emph{cheap-talk} game, we analyse how latent tasks are encoded into prompts and reinte",
-    "link": "http://arxiv.org/abs/2606.23668v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is therefore necessary to distinguish genuine disagreement between an agent's output and a ground-truth answer from grading artifacts. We investigate how reliably automated graders assess such a system and wha",
+    "link": "http://arxiv.org/abs/2606.24839v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.LG"
+      "cs.AI",
+      "stat.AP"
     ]
   },
   {
-    "id": "arxiv-2606.23664v1",
-    "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+    "id": "arxiv-2606.24834v1",
+    "title": "Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment",
     "authors": [
-      "Juyang Bai",
-      "Laixi Shi"
+      "Ali Pourghasemi Fatideh",
+      "Wilder Baldwin",
+      "Maria Dhakal",
+      "Collin McMillan",
+      "Sepideh Ghanavati"
     ],
-    "summary": "Multi-agent systems (MAS) offer a scalable path forward for agentic AI, comprising multiple LLM-based agents, each assigned a system prompt and a position within a workflow that governs inter-agent coordination and output aggregation. System prompts thus form a critical and accessible optimization surface: they specify agents' roles and behaviors, enabling system-level improvements without model f",
-    "link": "http://arxiv.org/abs/2606.23664v1",
-    "publishedAt": "2026-06-22",
+    "summary": "LLM-based dialogue assistants have become mainstream tools for software developers, yet current evaluation benchmarks focus exclusively on functional correctness. This leaves a critical gap in assessing the quality and accuracy of these conversations when handling Non-Functional Requirements (NFRs), which are inherently vague, context-dependent, and involve many parts of a program. Evaluating how ",
+    "link": "http://arxiv.org/abs/2606.24834v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.LG",
-      "cs.MA"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.23662v1",
-    "title": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Objectives",
+    "id": "arxiv-2606.24832v1",
+    "title": "Difference-Making without Making a Difference",
     "authors": [
-      "Tom Rossa",
-      "Angus Phillips",
-      "Tom Rainforth"
+      "Sander Beckers"
     ],
-    "summary": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult to optimise, while customising them to particular downstream tasks of interest can also be difficult. Following first principles decision theory, we demonstrate ",
-    "link": "http://arxiv.org/abs/2606.23662v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Over a series of seven papers, Andreas & Günther have introduced seven definitions of actual causation and have classified them as belonging to three different, competing, types of accounts: factual difference-making, counterfactual difference-making, and regularity-based. I show that their most recent - factual difference-making - definition instantiates all three types, thereby proving that thes",
+    "link": "http://arxiv.org/abs/2606.24832v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "stat.ML",
-      "cs.LG"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.23655v1",
-    "title": "Dynamic estimation of slowly varying sequences",
+    "id": "arxiv-2606.24828v1",
+    "title": "Less is More: Quality-Aware Training Data Selection for Scientific Summarization",
     "authors": [
-      "Prashant Gokhale",
-      "Mikhail Khodak",
-      "Sandeep Silwal"
+      "Maria Nefeli Paraskevopoulou",
+      "Tatiana Passali",
+      "Grigorios Tsoumakas"
     ],
-    "summary": "We consider the problem of sequentially approximating functions of each element in a slowly-varying sequence, i.e. one where the magnitude $α_i$ of the difference between the elements at positions $i$ and $i-1$ is small. Recent work on implicit trace estimation shows that when $α_t$ is small, reusing queries to past sequence elements can reduce the overall cost [Dharangutte \\& Musco, NeurIPS~2021;",
-    "link": "http://arxiv.org/abs/2606.23655v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Scientific long-document summarization datasets commonly treat author-written abstracts as gold reference summaries, although their quality and alignment with the source article vary. At the same time, publicly available scientific summarization datasets remain limited in scale and structure for modern long-context models. In this work, we address both challenges by a) constructing and releasing o",
+    "link": "http://arxiv.org/abs/2606.24828v1",
+    "publishedAt": "2026-06-23",
     "categories": [
-      "cs.LG",
-      "cs.DS"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2606.23654v1",
-    "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+    "id": "arxiv-2606.24825v1",
+    "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
     "authors": [
-      "Jincheng Zhong",
-      "Weizhi Wang",
-      "Che Jiang",
-      "Kai Tian",
-      "Zhenzhao Yuan",
-      "Junlin Yang",
-      "Dianqiao Lei",
-      "Kaiyan Zhang"
+      "Hariom Ingle",
+      "Ronit Ghode",
+      "Ishwari Gondkar",
+      "Jidnyasa Harad",
+      "Raviraj Joshi"
     ],
-    "summary": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace sessions, the EnterpriseClawBench produces 852 reproducible tasks, each paired with recovered fixture",
-    "link": "http://arxiv.org/abs/2606.23654v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Part-of-Speech (POS) tagging is a foundational NLP task underpinning machine translation, information extraction, and syntactic parsing. Despite Marathi being spoken by over 83 million people and ranking among the top twenty most spoken languages worldwide, it remains severely under-resourced in annotated corpora and standardised evaluation benchmarks. Marathi presents unique challenges for comput",
+    "link": "http://arxiv.org/abs/2606.24825v1",
+    "publishedAt": "2026-06-23",
     "categories": [
       "cs.CL",
-      "cs.SE"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.23643v1",
-    "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
+    "id": "arxiv-2606.24824v1",
+    "title": "Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching",
     "authors": [
-      "Hengji Zhou",
-      "Ye Liu",
-      "Yufeng Liu",
-      "Si Wu",
-      "Lianghao Xia",
-      "Liqiang Nie"
+      "Peiyan Hu",
+      "Jian Zhang",
+      "Jiashu Pan",
+      "Ruiqi Feng",
+      "Tao Zhang",
+      "Zhi-Ming Ma",
+      "Yuan-Sen Ting",
+      "Gongjie Li",
+      "Tailin Wu"
     ],
-    "summary": "Personalized content systems depend on available UGC and struggle when suitable content is absent, delayed, or costly to create. Although multimodal generators can synthesize content on demand, how to translate behavioral traces into generation-ready preferences remains underexplored. We study personalized multimodal content generation: creating user-tailored multimodal content without existing it",
-    "link": "http://arxiv.org/abs/2606.23643v1",
-    "publishedAt": "2026-06-22",
+    "summary": "Modeling chaotic systems is crucial yet challenging. Inverse problems in chaotic dynamics, namely inferring initial conditions from final states, remain largely unsolved because of ill-posedness, non-uniqueness, instability, and potentially chaotic time-reverse dynamics. We address this open problem with Bidirectional Conditional Flow Matching (Bi-CFM), which learns bidirectional mappings between ",
+    "link": "http://arxiv.org/abs/2606.24824v1",
+    "publishedAt": "2026-06-23",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.23640v1",
-    "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+    "id": "arxiv-2606.24820v1",
+    "title": "SHERLOC: Structured Diagnostic Localization for Code Repair Agents",
     "authors": [
-      "Raymond Tsao",
-      "Andrew Wagenmaker",
-      "Sergey Levine"
+      "Hovhannes Tamoyan",
+      "Sean Narenthiran",
+      "Erik Arakelyan",
+      "Mira Mezini",
+      "Boris Ginsburg"
     ],
-    "summary": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a policy to maximize such a sparse reward requires solving a challenging credit assignment problem, leading to slow or ineffective RL improvement. We propose a simple a",
-    "link": "http://arxiv.org/abs/2606.23640v1",
-    "publishedAt": "2026-06-22",
+    "summary": "LLM agents solve repository-level coding tasks through multi-turn tool use, but utilize half their budget on locating faults before editing. Dedicated localization frameworks have emerged, yet are still evaluated as file retrieval rather than actionable diagnosis, producing locations without the diagnostic context a repair agent needs. We introduce SHERLOC (Structured Hypothesis-driven Exploration",
+    "link": "http://arxiv.org/abs/2606.24820v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24808v1",
+    "title": "Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution",
+    "authors": [
+      "Zidu Liu",
+      "Florian Marquardt"
+    ],
+    "summary": "Quantum computers could outperform classical machines on important problems, but only if the errors that pervade quantum hardware can be corrected at scale. Quantum low-density parity-check (qLDPC) codes offer a promising route to this goal by combining sparse parity checks with finite encoding rate and growing distance, but their construction remains a challenging discrete design problem. Here we",
+    "link": "http://arxiv.org/abs/2606.24808v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "quant-ph",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24799v1",
+    "title": "OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis",
+    "authors": [
+      "Chenrui Fan",
+      "Paolo Favaro"
+    ],
+    "summary": "Generic text-to-video models can be used as rich open-world scene priors. Despite the high quality of today's generated videos, they do not directly yield reliable 3D assets: camera motion is difficult to control, view coverage is partial, and frames often contain inconsistencies across time. We introduce OrbitForge, an adapter built from frozen video priors and per-prompt Gaussian Splatting recon",
+    "link": "http://arxiv.org/abs/2606.24799v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24797v1",
+    "title": "EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence",
+    "authors": [
+      "Linpeng Huang",
+      "Weixing Chen",
+      "Zexin Chen",
+      "Yang Liu",
+      "Liang Lin"
+    ],
+    "summary": "Recent advances in Video Large Language Models (Video-LLMs) have yielded promising performance on video question answering (VideoQA). Nevertheless, existing benchmarks are predominantly evaluated through answer correctness, while the grounding of predictions in relevant video evidence remains largely unexamined. This disconnect between answer generation and evidence understanding motivates the con",
+    "link": "http://arxiv.org/abs/2606.24797v1",
+    "publishedAt": "2026-06-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.24790v1",
+    "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+    "authors": [
+      "Anand Kamat",
+      "Daniel Blake",
+      "Brent M. Werness"
+    ],
+    "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet they remain prone to generating hallucinations. Detecting these hallucinations is critical for deploying LLMs reliably in high-stakes applications. We present Grad Detect, a gradient-based approach for predicting hallucinations by analyzing layer-wise gradient patterns from a single forward-backward pa",
+    "link": "http://arxiv.org/abs/2606.24790v1",
+    "publishedAt": "2026-06-23",
     "categories": [
       "cs.LG",
-      "cs.AI",
-      "cs.RO",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23637v1",
-    "title": "Muown Implicitly Performs Angular Step-size Decay",
-    "authors": [
-      "Florian Hübler",
-      "Kai Lion",
-      "Antonio Orvieto",
-      "Niao He"
-    ],
-    "summary": "Matrix-aware optimizers such as Muon and Muown have recently shown strong empirical performance for pre-training Transformers. In particular, Muown separates each weight matrix into row magnitudes and an un-normalized direction variable, updating the former with Adam and the latter with Muon. We show that the directional update of Muown is equivalent to a Riemannian step on the normalized directio",
-    "link": "http://arxiv.org/abs/2606.23637v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.LG",
-      "math.OC"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23633v1",
-    "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
-    "authors": [
-      "Campbell Lund",
-      "Thomas Euyang",
-      "Zanele Munyikwa",
-      "Marzieh Fadaee"
-    ],
-    "summary": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupational tasks a large language model can assist with. This work is a genuine methodological contribution, but as the scores travel from the time and place they we",
-    "link": "http://arxiv.org/abs/2606.23633v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
-      "cs.AI",
-      "econ.GN"
-    ]
-  },
-  {
-    "id": "arxiv-2606.23631v1",
-    "title": "AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring",
-    "authors": [
-      "Yansong Liu",
-      "Li-Hsi",
-      "Lin",
-      "Pramit Khetrapal",
-      "Ronnie Stafford",
-      "John Kelly",
-      "Ivana Drobnjak"
-    ],
-    "summary": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was designed and validated for occasional in-hospital assessment, yet remote monitoring now administers it to patients daily. In our own post-surgical deployment, only 55%",
-    "link": "http://arxiv.org/abs/2606.23631v1",
-    "publishedAt": "2026-06-22",
-    "categories": [
       "cs.AI"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1133980",
+    "title": "Biology Research Expert â $65 $95 hour",
+    "company": "24-MAG",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "This role supports current and upcoming"
+    ],
+    "skills": [
+      "Python"
+    ],
+    "location": "New York, New York, New York, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-biology-research-expert-65-95-hour-24-mag-1133980",
+    "postedAt": "2026-06-23",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1133834",
     "title": "Junior Supply Chain Analyst",
@@ -694,4 +747,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-23T09:55:39.112Z';
+export const dataFetchedAt = '2026-06-24T04:00:46.668Z';
