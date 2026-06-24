@@ -7,7 +7,16 @@ import type { DailyReport, Signal, ActionItem, SourceCoverage, SourceType } from
 const GENERATED_DIR = join(process.cwd(), 'src', 'data', 'generated');
 const DAILY_REPORTS_FILE = join(GENERATED_DIR, 'daily-reports.ts');
 
-const today = new Date().toISOString().slice(0, 10);
+function getChinaDate(): string {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(new Date());
+}
+
+const today = getChinaDate();
 
 function inferSourceType(source: string): SourceType {
   const lower = source.toLowerCase();

@@ -3,6 +3,42 @@ import { companyUpdates } from './companies';
 import { events } from './events';
 import { transformCases } from './cases';
 
+function getChinaDate(): string {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(new Date());
+}
+
+function getWeekRange(dateStr: string): { start: string; end: string; label: string } {
+  const date = new Date(dateStr);
+  const day = date.getDay();
+  const diffToMonday = (day === 0 ? -6 : 1) - day;
+  const monday = new Date(date);
+  monday.setDate(date.getDate() + diffToMonday);
+  const sunday = new Date(monday);
+  sunday.setDate(monday.getDate() + 6);
+
+  const fmt = (d: Date) => `${d.getMonth() + 1}.${d.getDate()}`;
+  return {
+    start: monday.toISOString().slice(0, 10),
+    end: sunday.toISOString().slice(0, 10),
+    label: `${fmt(monday)}-${fmt(sunday)}`,
+  };
+}
+
+const today = getChinaDate();
+const week = getWeekRange(today);
+
+export const weeklyRange = {
+  label: week.label,
+  start: week.start,
+  end: week.end,
+  fullLabel: `Week of ${new Date(week.start).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} - ${new Date(week.end).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`,
+};
+
 /** 本周关键词（用于引发思考） */
 export const weeklyKeywords = [
   { label: 'AI 招聘军备竞赛', tag: 'AI扩招', path: '/companies?tab=hiring' },
@@ -14,15 +50,15 @@ export const weeklyKeywords = [
 
 /** 本周信号统计 */
 export const weeklyStats = {
-  reportCount: dailyReports.filter((r) => r.date >= '2026-06-17').length,
-  companyMoveCount: companyUpdates.filter((c) => c.date >= '2026-06-17').length,
-  newCasesCount: transformCases.filter((c) => c.date >= '2026-06-17').length,
-  upcomingEventsCount: events.filter((e) => e.date >= '2026-06-23' && e.date <= '2026-06-30').length,
+  reportCount: dailyReports.filter((r) => r.date >= week.start).length,
+  companyMoveCount: companyUpdates.filter((c) => c.date >= week.start).length,
+  newCasesCount: transformCases.filter((c) => c.date >= week.start).length,
+  upcomingEventsCount: events.filter((e) => e.date >= today && e.date <= week.end).length,
   aiJobPostingsCount: companyUpdates.reduce((sum, c) => sum + (c.jobPostings?.length || 0), 0),
 };
 
 /** 本周核心判断 */
-export const weeklyInsight = `本周（6.17-6.23）组织与 AI 领域呈现三个明确趋势：
+export const weeklyInsight = `本周（${week.label}）组织与 AI 领域呈现三个明确趋势：
 
 1. **AI 岗位招聘进入"军备竞赛"阶段**：Anthropic 60+ AI 研究岗、Amazon 扩招 8,000 AI/ML 岗的同时裁撤 12,000 运营岗，AI 人才争夺从"增量补充"升级为"结构性换血"。
 

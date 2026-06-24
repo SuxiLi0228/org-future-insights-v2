@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowRight, Zap, Calendar, TrendingUp, Lightbulb, FileText, Shield, LightbulbIcon, Globe, ArrowUpRight } from 'lucide-react';
-import { weeklyKeywords, weeklyStats, weeklyInsights, weeklySources } from '@/data/weekly-brief';
+import { weeklyKeywords, weeklyStats, weeklyInsights, weeklySources, weeklyRange } from '@/data/weekly-brief';
 
 export default function HomePage() {
   return (
@@ -26,7 +26,7 @@ export default function HomePage() {
             className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-xs text-white/80 backdrop-blur-sm"
           >
             <Calendar size={12} />
-            Week of Jun 17 - Jun 23, 2026
+            {weeklyRange.fullLabel}
           </motion.div>
 
           <motion.h1
@@ -44,7 +44,7 @@ export default function HomePage() {
             transition={{ delay: 0.4 }}
             className="mx-auto mt-4 max-w-xl text-base text-white/70 md:text-lg"
           >
-            基于本周 15 条信号、13 家公司动向、16 个 AI 招聘岗位提炼的 HR 启示
+            基于本周 {weeklyStats.reportCount} 条信号、{weeklyStats.companyMoveCount} 家公司动向、{weeklyStats.aiJobPostingsCount} 个 AI 招聘岗位提炼的 HR 启示
           </motion.p>
         </div>
       </motion.section>

@@ -2,6 +2,88 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-06-24-auto",
+    "date": "2026-06-24",
+    "session": "auto",
+    "title": "2026-06-24 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-06-24-auto-1",
+        "emoji": "💡",
+        "title": "Heads in the game",
+        "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;",
+        "detail": "来源: MIT Technology Review。The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-24-auto-2",
+        "emoji": "💡",
+        "title": "Super Mario is mathier than you think",
+        "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and ",
+        "detail": "来源: MIT Technology Review。Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and ",
+        "priority": "low",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-24-auto-3",
+        "emoji": "💡",
+        "title": "A man of many words",
+        "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition ",
+        "detail": "来源: MIT Technology Review。Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition ",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-06-24-1",
+        "priority": "low",
+        "action": "关注「Heads in the game」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-24-2",
+        "priority": "low",
+        "action": "关注「Super Mario is mathier than you think」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-24-3",
+        "priority": "low",
+        "action": "关注「A man of many words」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 46,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-06-24 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-06-24 00:00 - 2026-06-24 23:59"
+  },
+  {
     "id": "report-2026-06-23-auto",
     "date": "2026-06-23",
     "session": "auto",
