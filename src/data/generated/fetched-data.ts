@@ -2,6 +2,30 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-what-europe-s-heat-wave-means-for-the-power-grid-1782381600000",
+    "title": "What Europe’s heat wave means for the power grid",
+    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+    "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
+    "publishedAt": "2026-06-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ibm-has-unveiled-chip-technology-that-could-help-extend-moor-1782381600000",
+    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co",
+    "publishedAt": "2026-06-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
     "title": "Europe’s extreme heat is shutting down power plants",
     "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
@@ -168,30 +192,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Super Mario is mathier than you think",
     "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
     "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and ",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-man-of-many-words-1782248400000",
-    "title": "A man of many words",
-    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-    "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition ",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-sharing-a-love-for-calculus-1782248400000",
-    "title": "Sharing a love for calculus",
-    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-    "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned ",
     "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -604,13 +604,32 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134014",
+    "title": "Mid Senior AI Cinematic Video Editor",
+    "company": "EverAI",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "WithÂ 50 mill"
+    ],
+    "skills": [
+      "LLM",
+      "AWS",
+      "Hugging Face"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
+    "postedAt": "2026-06-24",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134028",
     "title": "Halwai",
     "company": "jÃ¼STa Hotels &amp; Resorts",
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMTcyLjE4Mi4xOTUuMTc4 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc4)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMjAuMTAyLjEzNC4xMDU= when applying to show you read the job post completely (#RMjAuMTAyLjEzNC4xMDU=)",
       "This is a beta feature to avoid spam applicants",
       "Companies can sea"
     ],
@@ -657,4 +676,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-25T08:51:46.553Z';
+export const dataFetchedAt = '2026-06-25T10:30:14.112Z';
