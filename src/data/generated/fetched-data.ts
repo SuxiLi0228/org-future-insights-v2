@@ -2,6 +2,55 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
+    "title": "Europe’s extreme heat is shutting down power plants",
+    "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-introducing-the-engineering-issue-1782303000000",
+    "title": "The Download: introducing the Engineering issue",
+    "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-stripe-anthropic-and-openai-are-backing-an-effort-to-stop-re-1782302400000",
+    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+    "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-emergence-of-the-web-data-infrastructure-layer-for-ai-1782302394000",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
+    "publishedAt": "2026-06-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
     "id": "news-this-flying-solar-powered-platform-could-deliver-better-inte-1782291600000",
     "title": "This flying solar-powered platform could deliver better internet from the air",
     "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
@@ -23,6 +72,83 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-advocacy-in-action-improving-msk-outcomes-through-connected--1782321341000",
+    "title": "Advocacy in Action: Improving MSK Outcomes Through Connected Care",
+    "link": "https://hrexecutive.com/advocacy-in-action-improving-msk-outcomes-through-connected-care/",
+    "summary": "Date &#038; Time: Wednesday, July 29, 2026 at 1:00 pm ET Join leaders from Hertz, Quantum Health, Carrum Health and Sword Health for a discussion on how proactive advocacy and connected care can help employees navigate their MSK journey with confidence while improving outcomes, supporting appropriat",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-the-chro-8217-s-impossible-mandate-move-fast-on-ai-slow-down-1782304225000",
+    "title": "The CHRO&#8217;s impossible mandate: Move fast on AI, slow down on risk",
+    "link": "https://hrexecutive.com/the-chros-impossible-mandate-move-fast-on-ai-slow-down-on-risk/",
+    "summary": "Most companies haven't built the muscle to hold both AI and risk at once, which means the CHRO ends up holding it personally. The post The CHRO&#8217;s impossible mandate: Move fast on AI, slow down on risk appeared first on HR Executive .",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-states-with-too-many-workers-and-states-that-need-more-1782303338000",
+    "title": "States with too many workers—and states that need more",
+    "link": "https://hrexecutive.com/states-with-too-many-workers-and-states-that-need-more/",
+    "summary": "There is a growing imbalance between labor supply and job openings. The post States with too many workers—and states that need more appeared first on HR Executive .",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-judge-refuses-to-dismiss-most-workday-hiring-bias-allegation-1782302440000",
+    "title": "Judge refuses to dismiss most Workday hiring bias allegations",
+    "link": "https://hrexecutive.com/judge-refuses-to-dismiss-most-workday-hiring-bias-allegations/",
+    "summary": "Workday hiring bias case advances in California, keeping FEHA and ADA claims alive and raising new HR vendor risk questions. The post Judge refuses to dismiss most Workday hiring bias allegations appeared first on HR Executive .",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-data-privacy-how-to-mitigate-risk-in-distributed-work-enviro-1782301503000",
+    "title": "Data privacy: How to mitigate risk in distributed work environments",
+    "link": "https://hrexecutive.com/data-privacy-how-to-mitigate-risk-in-distributed-work-environments/",
+    "summary": "Leadership teams need to answer one question plainly: Do company data privacy practices match how people work every day? The post Data privacy: How to mitigate risk in distributed work environments appeared first on HR Executive .",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-hilton-8217-s-leadership-lessons-for-a-hybrid-anxious-workfo-1782300603000",
+    "title": "Hilton&#8217;s leadership lessons for a hybrid, anxious workforce",
+    "link": "https://hrexecutive.com/hiltons-leadership-lessons-for-a-hybrid-anxious-workforce/",
+    "summary": "Hilton's workplace culture report reveals hospitality 'hacks' that HR leaders everywhere, in every sector, can use. The post Hilton&#8217;s leadership lessons for a hybrid, anxious workforce appeared first on HR Executive .",
+    "publishedAt": "2026-06-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
     ]
   },
   {
@@ -66,55 +192,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Sharing a love for calculus",
     "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
     "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned ",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-stand-up-for-research-innovation-and-education-1782248400000",
-    "title": "Stand Up for Research, Innovation, and Education",
-    "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-    "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic-1782248400000",
-    "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
-    "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
-    "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is ac",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-reinventing-the-zipper-1782248400000",
-    "title": "Reinventing the zipper",
-    "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
-    "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD",
-    "publishedAt": "2026-06-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-engineered-mini-livers-could-be-injected-as-an-alternative-t-1782248400000",
-    "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
-    "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
-    "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin",
     "publishedAt": "2026-06-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -172,477 +249,395 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "ai"
     ]
-  },
-  {
-    "id": "news-state-farm-agents-accuse-company-of-8216-false-promises-8217-1782214234000",
-    "title": "State Farm agents accuse company of &#8216;false promises&#8217; after benefits overhaul",
-    "link": "https://hrexecutive.com/state-farm-agents-accuse-company-of-false-promises-after-benefits-overhaul/",
-    "summary": "The insurance giant recently axed healthcare coverage for its 19,000 sales agents and their spouses, along with compensation and other changes. The post State Farm agents accuse company of &#8216;false promises&#8217; after benefits overhaul appeared first on HR Executive .",
-    "publishedAt": "2026-06-23",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-face-a-ticking-clock-under-california-s-ai-layoff--1782131421000",
-    "title": "Employers face a ticking clock under California’s AI layoff order",
-    "link": "https://hrexecutive.com/employers-face-a-ticking-clock-under-californias-ai-layoff-order/",
-    "summary": "California’s new AI layoff order raises the stakes for HR leaders, signaling tougher expectations ahead, even before formal rules take effect. The post Employers face a ticking clock under California’s AI layoff order appeared first on HR Executive .",
-    "publishedAt": "2026-06-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-half-of-large-employers-plan-to-raise-employee-out-of-pocket-1782130505000",
-    "title": "Half of large employers plan to raise employee out-of-pocket healthcare costs",
-    "link": "https://hrexecutive.com/half-of-large-employers-plan-to-raise-employee-out-of-pocket-healthcare-costs/",
-    "summary": "As medical and pharmacy expenses climb, large employers are adjusting plan design, limiting drug spending growth and expanding targeted support like caregiving and financial wellness benefits. The post Half of large employers plan to raise employee out-of-pocket healthcare costs appeared first on HR",
-    "publishedAt": "2026-06-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-germany-8217-s-low-engagement-reveals-about-the-rest-of-1782129631000",
-    "title": "What Germany&#8217;s low engagement reveals about the rest of Europe (and beyond)",
-    "link": "https://hrexecutive.com/what-germanys-low-engagement-reveals-about-the-rest-of-europe-and-beyond/",
-    "summary": "Germany's workers rate their lives well but their jobs poorly. New Gallup data reveal a widening gap, and a $164 billion price tag. The post What Germany&#8217;s low engagement reveals about the rest of Europe (and beyond) appeared first on HR Executive .",
-    "publishedAt": "2026-06-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-buying-ai-training-doesn-t-buy-your-employees-ai-skills-1782128727000",
-    "title": "Buying AI training doesn’t buy your employees AI skills",
-    "link": "https://hrexecutive.com/buying-ai-training-doesnt-buy-your-employees-ai-skills/",
-    "summary": "Buying AI training is not the same as buying the mindset and behavioral changes needed to adopt and implement AI. The post Buying AI training doesn’t buy your employees AI skills appeared first on HR Executive .",
-    "publishedAt": "2026-06-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-inside-meta-layoffs-and-ai-shakeups-have-pushed-morale-to-th-1782127856000",
-    "title": "Inside Meta, layoffs and AI shakeups have pushed morale to the edge",
-    "link": "https://hrexecutive.com/inside-meta-layoffs-and-ai-shakeups-have-pushed-morale-to-the-edge/",
-    "summary": "Meta layoffs and AI shakeups have pushed staff morale to the edge, and the company's own CTO admits the damage may be hard to undo. The post Inside Meta, layoffs and AI shakeups have pushed morale to the edge appeared first on HR Executive .",
-    "publishedAt": "2026-06-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2606.24884v1",
-    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "id": "arxiv-2606.26095v1",
+    "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
     "authors": [
-      "Maggie Wang",
-      "Lars Osterberg",
-      "Stephen Tian",
-      "Ola Shorinwa",
-      "Jiajun Wu",
-      "Mac Schwager"
+      "Dong Jing",
+      "Tianqi Zhang",
+      "Jiaqi Liu",
+      "Jinman Zhao",
+      "Zelong Sun",
+      "Li Erran Li",
+      "Zhiwu Lu",
+      "Mingyu Ding"
     ],
-    "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: ",
-    "link": "http://arxiv.org/abs/2606.24884v1",
-    "publishedAt": "2026-06-23",
+    "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultane",
+    "link": "http://arxiv.org/abs/2606.26095v1",
+    "publishedAt": "2026-06-24",
     "categories": [
       "cs.RO",
       "cs.AI",
-      "cs.LG"
+      "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2606.24879v1",
-    "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+    "id": "arxiv-2606.26094v1",
+    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
     "authors": [
-      "Guglielmo Beretta",
-      "Tommaso Cesari",
-      "Roberto Colomboni",
-      "Andrea Paudice"
+      "Babak Rahmani",
+      "Sebastian Dziadzio",
+      "Joschka Strüber",
+      "Sergio Hernández-Gutiérrez",
+      "Matthias Bethge"
     ],
-    "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing t",
-    "link": "http://arxiv.org/abs/2606.24879v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "math.OC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24874v1",
-    "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-    "authors": [
-      "Haorui Ji",
-      "Weizhe Liu",
-      "Hongdong Li",
-      "Hengkai Guo"
-    ],
-    "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induc",
-    "link": "http://arxiv.org/abs/2606.24874v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24855v1",
-    "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-    "authors": [
-      "Negin Raoof",
-      "Richard Zhuang",
-      "Marianna Nezhurina",
-      "Etash Guha",
-      "Atula Tejaswi",
-      "Ryan Marten",
-      "Charlie F. Ruan",
-      "Tyler Griggs",
-      "Alexander Glenn Shaw",
-      "Hritik Bansal",
-      "E. Kelly Buchanan",
-      "Artem Gazizov",
-      "Reinhard Heckel",
-      "Chinmay Hegde",
-      "Sankalp Jajee",
-      "Daanish Khazi",
-      "Emmanouil Koukoumidis",
-      "Xiangyi Li",
-      "Hange Liu",
-      "Shlok Natarajan",
-      "Harsh Raj",
-      "Nicholas Roberts",
-      "Ethan Shen",
-      "Nishad Singhi",
-      "Michael Siu",
-      "Ashima Suvarna",
-      "Hanwen Xing",
-      "Patrick Yubeaton",
-      "Robert Zhang",
-      "Leon Liangyu Chen",
-      "Xiaokun Chen",
-      "Steven Dillmann",
-      "Saadia Gabriel",
-      "Xunyi Jiang",
-      "Anurag Kashyap",
-      "Boxuan Li",
-      "Yein Park",
-      "Minh Pham",
-      "Sujay Sanghavi",
-      "Lin Shi",
-      "Ke Sun",
-      "Yixin Wang",
-      "Zhiwei Xu",
-      "Erica Zhang",
-      "Siyan Zhao",
-      "Wanjia Zhao",
-      "Jenia Jitsev",
-      "Alex Dimakis",
-      "Benjamin Feuer",
-      "Ludwig Schmidt"
-    ],
-    "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project",
-    "link": "http://arxiv.org/abs/2606.24855v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24854v1",
-    "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
-    "authors": [
-      "Blade Frisch",
-      "Will Wade",
-      "Dylan Gaines",
-      "Michelle Kinsella",
-      "Betts Peters",
-      "Tamara Broderick",
-      "Keith Vertanen"
-    ],
-    "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature o",
-    "link": "http://arxiv.org/abs/2606.24854v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.HC",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24851v1",
-    "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
-    "authors": [
-      "Jason Sulskis",
-      "Sathya Ravi"
-    ],
-    "summary": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the complex FFT carries representational redundancy through conjugate symmetry. We introduce the Hartley Neural Operator (HNO), the exact real-valued mirror of FNO: it replaces the FFT with the purely real Disc",
-    "link": "http://arxiv.org/abs/2606.24851v1",
-    "publishedAt": "2026-06-23",
+    "summary": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment, can a learner reconstruct the underlying decision program as executable code, an",
+    "link": "http://arxiv.org/abs/2606.26094v1",
+    "publishedAt": "2026-06-24",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.24849v1",
-    "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+    "id": "arxiv-2606.26091v1",
+    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
     "authors": [
-      "Zixuan Li",
-      "Haokun Lin",
-      "Yicheng Xiao",
-      "Zhiwei Li",
-      "Xinyang Song",
-      "Zelong Zheng",
-      "Yong He",
-      "Heng Yao",
-      "Ke Ding",
-      "Chao Yu",
-      "Chuan Yuan",
-      "Qi Li",
-      "Zhenan Sun"
+      "Andrei Liviu Nicolicioiu",
+      "Mohammad Pezeshki",
+      "Aaron Courville"
     ],
-    "summary": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relations, attribute bindings, and coarse layouts must be preserved. We attribute this limitation in part to the entanglement of structural planning and appearance rendering within a single conditioning strea",
-    "link": "http://arxiv.org/abs/2606.24849v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24842v1",
-    "title": "World Models in Pieces: Structural Certification for General Agents",
-    "authors": [
-      "Yikai Lu",
-      "Yifei Wu",
-      "Xinyu Lu",
-      "Tongxin Li"
-    ],
-    "summary": "In the big-world regime, agents cannot be universally capable and their ability is inevitably specialized across a world model in pieces. Consequently, standard uniform guarantees fail to distinguish between the understanding of critical bottlenecks and irrelevant failures. We first formalize this limitation by proving that general agents are not universal, rendering standard worst-case analysis u",
-    "link": "http://arxiv.org/abs/2606.24842v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24841v1",
-    "title": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
-    "authors": [
-      "Ahmad Pouramini",
-      "Hesham Faili"
-    ],
-    "summary": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives duri",
-    "link": "http://arxiv.org/abs/2606.24841v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24839v1",
-    "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
-    "authors": [
-      "Tian Zheng",
-      "Kai-Tai Hsu"
-    ],
-    "summary": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is therefore necessary to distinguish genuine disagreement between an agent's output and a ground-truth answer from grading artifacts. We investigate how reliably automated graders assess such a system and wha",
-    "link": "http://arxiv.org/abs/2606.24839v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI",
-      "stat.AP"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24834v1",
-    "title": "Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment",
-    "authors": [
-      "Ali Pourghasemi Fatideh",
-      "Wilder Baldwin",
-      "Maria Dhakal",
-      "Collin McMillan",
-      "Sepideh Ghanavati"
-    ],
-    "summary": "LLM-based dialogue assistants have become mainstream tools for software developers, yet current evaluation benchmarks focus exclusively on functional correctness. This leaves a critical gap in assessing the quality and accuracy of these conversations when handling Non-Functional Requirements (NFRs), which are inherently vague, context-dependent, and involve many parts of a program. Evaluating how ",
-    "link": "http://arxiv.org/abs/2606.24834v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24832v1",
-    "title": "Difference-Making without Making a Difference",
-    "authors": [
-      "Sander Beckers"
-    ],
-    "summary": "Over a series of seven papers, Andreas & Günther have introduced seven definitions of actual causation and have classified them as belonging to three different, competing, types of accounts: factual difference-making, counterfactual difference-making, and regularity-based. I show that their most recent - factual difference-making - definition instantiates all three types, thereby proving that thes",
-    "link": "http://arxiv.org/abs/2606.24832v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24828v1",
-    "title": "Less is More: Quality-Aware Training Data Selection for Scientific Summarization",
-    "authors": [
-      "Maria Nefeli Paraskevopoulou",
-      "Tatiana Passali",
-      "Grigorios Tsoumakas"
-    ],
-    "summary": "Scientific long-document summarization datasets commonly treat author-written abstracts as gold reference summaries, although their quality and alignment with the source article vary. At the same time, publicly available scientific summarization datasets remain limited in scale and structure for modern long-context models. In this work, we address both challenges by a) constructing and releasing o",
-    "link": "http://arxiv.org/abs/2606.24828v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24825v1",
-    "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
-    "authors": [
-      "Hariom Ingle",
-      "Ronit Ghode",
-      "Ishwari Gondkar",
-      "Jidnyasa Harad",
-      "Raviraj Joshi"
-    ],
-    "summary": "Part-of-Speech (POS) tagging is a foundational NLP task underpinning machine translation, information extraction, and syntactic parsing. Despite Marathi being spoken by over 83 million people and ranking among the top twenty most spoken languages worldwide, it remains severely under-resourced in annotated corpora and standardised evaluation benchmarks. Marathi presents unique challenges for comput",
-    "link": "http://arxiv.org/abs/2606.24825v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24824v1",
-    "title": "Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching",
-    "authors": [
-      "Peiyan Hu",
-      "Jian Zhang",
-      "Jiashu Pan",
-      "Ruiqi Feng",
-      "Tao Zhang",
-      "Zhi-Ming Ma",
-      "Yuan-Sen Ting",
-      "Gongjie Li",
-      "Tailin Wu"
-    ],
-    "summary": "Modeling chaotic systems is crucial yet challenging. Inverse problems in chaotic dynamics, namely inferring initial conditions from final states, remain largely unsolved because of ill-posedness, non-uniqueness, instability, and potentially chaotic time-reverse dynamics. We address this open problem with Bidirectional Conditional Flow Matching (Bi-CFM), which learns bidirectional mappings between ",
-    "link": "http://arxiv.org/abs/2606.24824v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24820v1",
-    "title": "SHERLOC: Structured Diagnostic Localization for Code Repair Agents",
-    "authors": [
-      "Hovhannes Tamoyan",
-      "Sean Narenthiran",
-      "Erik Arakelyan",
-      "Mira Mezini",
-      "Boris Ginsburg"
-    ],
-    "summary": "LLM agents solve repository-level coding tasks through multi-turn tool use, but utilize half their budget on locating faults before editing. Dedicated localization frameworks have emerged, yet are still evaluated as file retrieval rather than actionable diagnosis, producing locations without the diagnostic context a repair agent needs. We introduce SHERLOC (Structured Hypothesis-driven Exploration",
-    "link": "http://arxiv.org/abs/2606.24820v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24808v1",
-    "title": "Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution",
-    "authors": [
-      "Zidu Liu",
-      "Florian Marquardt"
-    ],
-    "summary": "Quantum computers could outperform classical machines on important problems, but only if the errors that pervade quantum hardware can be corrected at scale. Quantum low-density parity-check (qLDPC) codes offer a promising route to this goal by combining sparse parity checks with finite encoding rate and growing distance, but their construction remains a challenging discrete design problem. Here we",
-    "link": "http://arxiv.org/abs/2606.24808v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "quant-ph",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24799v1",
-    "title": "OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis",
-    "authors": [
-      "Chenrui Fan",
-      "Paolo Favaro"
-    ],
-    "summary": "Generic text-to-video models can be used as rich open-world scene priors. Despite the high quality of today's generated videos, they do not directly yield reliable 3D assets: camera motion is difficult to control, view coverage is partial, and frames often contain inconsistencies across time. We introduce OrbitForge, an adapter built from frozen video priors and per-prompt Gaussian Splatting recon",
-    "link": "http://arxiv.org/abs/2606.24799v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24797v1",
-    "title": "EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence",
-    "authors": [
-      "Linpeng Huang",
-      "Weixing Chen",
-      "Zexin Chen",
-      "Yang Liu",
-      "Liang Lin"
-    ],
-    "summary": "Recent advances in Video Large Language Models (Video-LLMs) have yielded promising performance on video question answering (VideoQA). Nevertheless, existing benchmarks are predominantly evaluated through answer correctness, while the grounding of predictions in relevant video evidence remains largely unexamined. This disconnect between answer generation and evidence understanding motivates the con",
-    "link": "http://arxiv.org/abs/2606.24797v1",
-    "publishedAt": "2026-06-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.24790v1",
-    "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
-    "authors": [
-      "Anand Kamat",
-      "Daniel Blake",
-      "Brent M. Werness"
-    ],
-    "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet they remain prone to generating hallucinations. Detecting these hallucinations is critical for deploying LLMs reliably in high-stakes applications. We present Grad Detect, a gradient-based approach for predicting hallucinations by analyzing layer-wise gradient patterns from a single forward-backward pa",
-    "link": "http://arxiv.org/abs/2606.24790v1",
-    "publishedAt": "2026-06-23",
+    "summary": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding bi",
+    "link": "http://arxiv.org/abs/2606.26091v1",
+    "publishedAt": "2026-06-24",
     "categories": [
       "cs.LG",
       "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26083v1",
+    "title": "Real-Time Voice AI Hears but Does Not Listen",
+    "authors": [
+      "Martijn Bartelds",
+      "Federico Bianchi",
+      "James Zou"
+    ],
+    "summary": "Speech conveys information through both words and vocal delivery. We evaluate four leading production realtime voice systems-OpenAI's GPT Realtime 2, Google's Gemini 3.1 Flash Live, and Alibaba's Qwen3.5 Omni Plus and Omni Flash-on tasks where the words and the delivery patterns both convey meaningful information. Across three consequential scenarios, all four systems act on the words rather than ",
+    "link": "http://arxiv.org/abs/2606.26083v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26080v1",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+    "authors": [
+      "Changdae Oh",
+      "Wendi Li",
+      "Seongheon Park",
+      "Samuel Yeh",
+      "Tanwi Mallick",
+      "Sharon Li"
+    ],
+    "summary": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at scale. In this work, we show that reinforcement learning (RL) post-training already provides the ingr",
+    "link": "http://arxiv.org/abs/2606.26080v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26079v1",
+    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+    "authors": [
+      "Akshay Paruchuri",
+      "Sanmi Koyejo",
+      "Ehsan Adeli"
+    ],
+    "summary": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability property called for by emerging AI evaluation guidelines. We introduce Facet-Probe, a five-facet audit (option, evidence-chunk, document-rank, image-set, and mixed-modality ordering) of 18 frontier and open",
+    "link": "http://arxiv.org/abs/2606.26079v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26078v1",
+    "title": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
+    "authors": [
+      "Sen Li",
+      "Haichao Cui",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Xinhua Tang"
+    ],
+    "summary": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models between welding processes with distinct physical mechanisms:for instance, from arc-dominated tungsten inert gas (TIG) welding to keyhole-based laser welding. To overcome this limitation, we propose an uns",
+    "link": "http://arxiv.org/abs/2606.26078v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26071v1",
+    "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+    "authors": [
+      "Aditya Singh",
+      "Gerson Kroiz",
+      "Senthooran Rajamanoharan",
+      "Neel Nanda"
+    ],
+    "summary": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a concerning action can arise from benign causes such as confusion. This motivates model forensics: investigating whether the action was driven by malign intent. In this paper, we propose a baseline prot",
+    "link": "http://arxiv.org/abs/2606.26071v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26062v1",
+    "title": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
+    "authors": [
+      "Bo Chen"
+    ],
+    "summary": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. Analyzing 85 interviews across four public intellectuals (2016--2026), we find a robust negative-affect/emphatic-certainty lexical co-occurrence pattern under keyword-based scoring ($r = 0.72$--$0.93$",
+    "link": "http://arxiv.org/abs/2606.26062v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26059v1",
+    "title": "A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks",
+    "authors": [
+      "Sen Li",
+      "Xiaoying Liu",
+      "Xiaojian Xu",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Ling Lan",
+      "Xinhua Tang",
+      "Haichao Cui"
+    ],
+    "summary": "The laser welding full-penetration is of critical importance, as it constitutes one of the fundamental factors in achieving defect-free welded joints. Accurate prediction of the penetration state is therefore essential for ensuring weld quality. To this end, this paper introduces SimPhysNet, a novel algorithm that achieves high classification accuracy in laser welding penetration prediction using ",
+    "link": "http://arxiv.org/abs/2606.26059v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26057v1",
+    "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
+    "authors": [
+      "Seth Dobrin",
+      "Łukasz Chmiel"
+    ],
+    "summary": "AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries. Any control in the agent's address space is reachable by inputs that influence it; this generalizes to any AI system with sufficient reach into its own ru",
+    "link": "http://arxiv.org/abs/2606.26057v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26053v1",
+    "title": "When Does Synthetic Data Augmentation Improve Score-Based Imbalanced Classification?",
+    "authors": [
+      "Zhengchi Ma",
+      "Pengfei Lyu",
+      "Anru R. Zhang"
+    ],
+    "summary": "Synthetic data augmentation is widely used to mitigate class imbalance, but its theoretical effects on score-based classification remain poorly understood. This paper develops a framework for characterizing when synthetic minority augmentation can improve threshold-integrated and threshold-optimized metrics, including AUROC, AUPRC, best-threshold balanced accuracy, and best-threshold \\(\\F_1\\) scor",
+    "link": "http://arxiv.org/abs/2606.26053v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26050v1",
+    "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+    "authors": [
+      "Juliana Li",
+      "Diya Sreedhar"
+    ],
+    "summary": "Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name (\"Sue cried because\"), it resolves the next pronoun to she, generalizing to held-out probes (0.94 by step 925). By step 3,500 the same model scores near zero on the same probes, although the rule's evidence is still in the training data. We call this within-run reversal natura",
+    "link": "http://arxiv.org/abs/2606.26050v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26041v1",
+    "title": "How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations",
+    "authors": [
+      "Yuxing Cheng",
+      "Yuan Wu",
+      "Yi Chang"
+    ],
+    "summary": "Vision-language models (VLMs) have achieved strong performance on OCR-based benchmarks and increasingly focused on text-rich understanding, but their robustness under controlled visual degradation remains insufficiently understood. This gap is critical for OCR reasoning, where visual corruption can induce OCR errors and structural distortions, thereby introducing uncertainty into the reasoning tas",
+    "link": "http://arxiv.org/abs/2606.26041v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26040v1",
+    "title": "AI translation of literary texts is \"fine\", but readers still prefer human translations",
+    "authors": [
+      "Yves Ferstler",
+      "Adam Podoxin",
+      "Ty Brassington",
+      "Roman Grundkiewicz",
+      "Maite Taboada",
+      "Marzena Karpinska"
+    ],
+    "summary": "AI translation of literary works is increasingly common. While the content may be rendered adequately, we do not know enough about how readers experience it in terms of immersiveness and literary effect, aspects poorly captured by automatic machine translation metrics or human evaluation targeting fluency and adequacy. We ask 15 avid readers to compare recently published human translations (HT) to",
+    "link": "http://arxiv.org/abs/2606.26040v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26037v1",
+    "title": "FedReLa: Imbalanced Federated Learning via Re-Labeling",
+    "authors": [
+      "Guangzheng Hu",
+      "Patricia Menéndez",
+      "Feng Liu",
+      "Mingming Gong",
+      "Guanghui Wang",
+      "Liuhua Peng"
+    ],
+    "summary": "Federated learning has emerged as the foremost approach for decentralized model training with privacy preservation. The global class imbalance and cross-client data heterogeneity naturally coexist, and the mismatch between local and global imbalances exacerbates the performance degradation of the aggregated model. The agnosticism of global class distribution poses significant challenges for data-l",
+    "link": "http://arxiv.org/abs/2606.26037v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "stat.ML",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26036v1",
+    "title": "Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning",
+    "authors": [
+      "Poojitha Thota",
+      "Shirin Nilizadeh"
+    ],
+    "summary": "Training-time data poisoning during fine-tuning poses a significant threat to large language models (LLMs) deployed for abstractive text summarization, where small task-specific datasets exert disproportionate influence on model behavior. In this setting, adversaries manipulate fine-tuning data to induce persistent summarization failures, such as biased or harmful summaries, while preserving stand",
+    "link": "http://arxiv.org/abs/2606.26036v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26029v1",
+    "title": "TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs",
+    "authors": [
+      "Yu-Yang Chen",
+      "Lan-Zhe Guo"
+    ],
+    "summary": "Multimodal Large Language Models (MLLMs) demonstrate strong performance on standard visual question answering benchmarks, yet their scalability under controlled structural complexity remains poorly understood. We introduce TriViewBench, a controlled three-view visual reasoning benchmark constructed from synthetic 3D scenes with explicitly parameterized object count and occlusion. The benchmark con",
+    "link": "http://arxiv.org/abs/2606.26029v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26028v1",
+    "title": "Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem",
+    "authors": [
+      "Xihan Xiong",
+      "Zelin Li",
+      "Wei Wei",
+      "Qin Wang",
+      "William Knottenbelt",
+      "Zhipeng Wang"
+    ],
+    "summary": "As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge with the first permissionless trust layer for AI agent economies, built around three on-chain registries for Identity, Reputation, and Validation. Despite its rapi",
+    "link": "http://arxiv.org/abs/2606.26028v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2606.26027v1",
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+    "authors": [
+      "Yupu Hao",
+      "Zhuoran Jin",
+      "Huanxuan Liao",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "summary": "Tool use enables large language models (LLMs) to perform complex tasks, and recent agentic reinforcement learning (RL) methods show promise for enhancing model capabilities. However, RL alone often leads to instability or limited gains in tool-use tasks. In our experiments, some models exhibit catastrophic collapse, where performance abruptly drops and tool-invocation structures fail. The analysis",
+    "link": "http://arxiv.org/abs/2606.26027v1",
+    "publishedAt": "2026-06-24",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1134028",
+    "title": "Halwai",
+    "company": "jÃ¼STa Hotels &amp; Resorts",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Able to prepare indian sweets and snacks",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMTcyLjE4Mi4xOTUuMTc4 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc4)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can sea"
+    ],
+    "skills": [],
+    "location": "Bhuj, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
+    "postedAt": "2026-06-24",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134083",
+    "title": "Online Consumer Research Panelist Data Entry Clerk Welcome",
+    "company": "ApexFocusGroup LLC",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Apex Focus Group partners with research organizations, academic institutions, and brands seeking genuine consumer feedback",
+      "We connect individuals with flexible remote research opportunities that help shape products, services, and user experiences",
+      "Role Overview Weâre inviting individuals from all"
+    ],
+    "skills": [],
+    "location": "Nowra, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-consumer-research-panelist-data-entry-clerk-welcome-apexfocusgroup-llc-1134083",
+    "postedAt": "2026-06-23",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1133980",
     "title": "Biology Research Expert â $65 $95 hour",
@@ -659,75 +654,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-biology-research-expert-65-95-hour-24-mag-1133980",
     "postedAt": "2026-06-23",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133834",
-    "title": "Junior Supply Chain Analyst",
-    "company": "Helic & Co",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Posted 5:04:38 PM",
-      "This is a remote position",
-      "Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **SUPPORT** and tag RMTcyLjIxNC4xNTUuMjMx when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMjMx)."
-    ],
-    "skills": [],
-    "location": "United States, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133834",
-    "postedAt": "2026-06-21",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133945",
-    "title": "Hiring For Air Ticketing Executive Ground Staff",
-    "company": "MILLENNIUM GLOBAL SERVICE",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Contact Hr 8571819484 As an Airport Ticketing Executive, you will play a crucial role in ensuring smooth ticketing operations at the airport",
-      "Your main responsibilities will include:rnrn- **Ticket Sales**: Assist passengers Please mention the word **OPTIMISM** and tag RMTcyLjIxNC4xNTUuMjMx when appl"
-    ],
-    "skills": [],
-    "location": "Thiruvananthapuram, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-executive-ground-staff-millennium-global-service-1133945",
-    "postedAt": "2026-06-21",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133812",
-    "title": "Research and Quality Assistant",
-    "company": "Cardiovascular Associates of America - CVAUSA",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Posted 12:00:00 AM",
-      "Research and Quality AssistantLocation: RemoteOrganization: Cardiovascular Associates of Americaâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **WINNABLE** and tag RMTcyLjIxNC4xNTUuMjMx when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuM"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-research-and-quality-assistant-cardiovascular-associates-of-america-cvausa-1133812",
-    "postedAt": "2026-06-21",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133749",
-    "title": "Agente de Viajes Online",
-    "company": "Viajes Marchante",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This is a beta feature to avoid spam applicants"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "EspaÃ±a, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
-    "postedAt": "2026-06-20",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-24T10:37:17.499Z';
+export const dataFetchedAt = '2026-06-25T08:51:46.553Z';

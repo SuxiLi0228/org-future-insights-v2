@@ -2,6 +2,92 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-06-25-auto",
+    "date": "2026-06-25",
+    "session": "auto",
+    "title": "2026-06-25 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-06-25-auto-1",
+        "emoji": "💡",
+        "title": "Europe’s extreme heat is shutting down power plants",
+        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
+        "detail": "来源: MIT Technology Review。Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-25-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: introducing the Engineering issue",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-25-auto-3",
+        "emoji": "⚠️",
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+        "detail": "来源: MIT Technology Review。The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-06-25-1",
+        "priority": "low",
+        "action": "关注「Europe’s extreme heat is shutting down p」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-25-2",
+        "priority": "medium",
+        "action": "关注「The Download: introducing the Engineerin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-25-3",
+        "priority": "medium",
+        "action": "关注「Stripe, Anthropic, and OpenAI are backin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 43,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-06-25 生成，聚合了 20 条新闻、20 篇论文、3 个岗位。",
+    "fetchWindow": "2026-06-25 00:00 - 2026-06-25 23:59"
+  },
+  {
     "id": "report-2026-06-24-auto",
     "date": "2026-06-24",
     "session": "auto",
