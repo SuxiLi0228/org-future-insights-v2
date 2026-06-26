@@ -2,6 +2,92 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-06-26-auto",
+    "date": "2026-06-26",
+    "session": "auto",
+    "title": "2026-06-26 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-06-26-auto-1",
+        "emoji": "💡",
+        "title": "Repositioning retail for the AI era",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
+        "detail": "来源: MIT Technology Review。Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "strategy",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-26-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: Europe&#8217;s heat wave hits the grid, and IBM&#8217;s chip targets Moore&#8217;s Law",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-26-auto-3",
+        "emoji": "💡",
+        "title": "What Europe’s heat wave means for the power grid",
+        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
+        "detail": "来源: MIT Technology Review。It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
+        "priority": "low",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-06-26-1",
+        "priority": "low",
+        "action": "关注「Repositioning retail for the AI era」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-26-2",
+        "priority": "medium",
+        "action": "关注「The Download: Europe&#8217;s heat wave h」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-26-3",
+        "priority": "low",
+        "action": "关注「What Europe’s heat wave means for the po」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 45,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-06-26 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-06-26 00:00 - 2026-06-26 23:59"
+  },
+  {
     "id": "report-2026-06-25-auto",
     "date": "2026-06-25",
     "session": "auto",
