@@ -2,6 +2,93 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-brain-melting-heatwaves-and-unprecedented-opena-1782475800000",
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
+    "publishedAt": "2026-06-26",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-heat-waves-mess-with-your-brain-scientists-are-trying-to-fig-1782464400000",
+    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
+    "publishedAt": "2026-06-26",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-bottom-line-impact-of-surging-toxic-cultures-1782477057000",
+    "title": "The bottom-line impact of surging toxic cultures",
+    "link": "https://hrexecutive.com/the-bottom-line-impact-of-surging-toxic-cultures/",
+    "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
+    "publishedAt": "2026-06-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-stop-loss-costs-keep-climbing-gallagher-warns-1782476127000",
+    "title": "Stop-loss costs keep climbing, Gallagher warns",
+    "link": "https://hrexecutive.com/stop-loss-costs-keep-climbing-gallagher-warns/",
+    "summary": "\"In stop-loss, we're seeing average premium increases in the mid-teens, in some cases, above 20%,\" William Ziebell, the chief executive officer of Gallagher's employee benefits consulting and brokerage business said. The post Stop-loss costs keep climbing, Gallagher warns appeared first on HR Execut",
+    "publishedAt": "2026-06-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-amid-benefits-rollbacks-employers-face-a-summer-challenge-1782475207000",
+    "title": "Amid benefits rollbacks, employers face a summer challenge",
+    "link": "https://hrexecutive.com/amid-benefits-rollbacks-employers-face-a-summer-challenge/",
+    "summary": "For the first time, both parents in two-parent households work full time, and they're feeling squeeze. This expert says flexibility, including through low-cost offerings like Summer Fridays, is a key way to support working parents. The post Amid benefits rollbacks, employers face a summer challenge ",
+    "publishedAt": "2026-06-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-5-reasons-small-businesses-should-consider-ichras-for-health-1782474316000",
+    "title": "5 reasons small businesses should consider ICHRAs for health benefits",
+    "link": "https://hrexecutive.com/5-reasons-small-businesses-should-consider-ichras-for-health-benefits/",
+    "summary": "As employees expect more flexibility in coverage delivery, small businesses may want to consider the ICHRA. The post 5 reasons small businesses should consider ICHRAs for health benefits appeared first on HR Executive .",
+    "publishedAt": "2026-06-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-meta-8217-s-ai-training-program-sparks-new-employee-data-tru-1782473402000",
+    "title": "Meta&#8217;s AI training program sparks new employee data, trust concerns",
+    "link": "https://hrexecutive.com/metas-ai-training-program-sparks-new-employee-data-trust-concerns/",
+    "summary": "Meta suspended its keystroke tracking program after sensitive worker activity data was found accessible internally, according to reports. The post Meta&#8217;s AI training program sparks new employee data, trust concerns appeared first on HR Executive .",
+    "publishedAt": "2026-06-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-repositioning-retail-for-the-ai-era-1782397379000",
     "title": "Repositioning retail for the AI era",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
@@ -116,19 +203,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hiring-is-efficiency-worth-the-legal-risk-1782386122000",
-    "title": "AI hiring: Is efficiency worth the legal risk?",
-    "link": "https://hrexecutive.com/ai-hiring-is-efficiency-worth-the-legal-risk/",
-    "summary": "One expert says AI use in hiring is creating serious legal risks, as evidenced by a high-profile lawsuit against Workday. The post AI hiring: Is efficiency worth the legal risk? appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
     "title": "Europe’s extreme heat is shutting down power plants",
     "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
@@ -175,80 +249,6 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology",
       "organization"
-    ]
-  },
-  {
-    "id": "news-this-flying-solar-powered-platform-could-deliver-better-inte-1782291600000",
-    "title": "This flying solar-powered platform could deliver better internet from the air",
-    "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-    "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa",
-    "publishedAt": "2026-06-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-all-challenges-big-and-small-1782291600000",
-    "title": "All challenges big and small",
-    "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-    "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the",
-    "publishedAt": "2026-06-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-advocacy-in-action-improving-msk-outcomes-through-connected--1782321341000",
-    "title": "Advocacy in Action: Improving MSK Outcomes Through Connected Care",
-    "link": "https://hrexecutive.com/advocacy-in-action-improving-msk-outcomes-through-connected-care/",
-    "summary": "Date &#038; Time: Wednesday, July 29, 2026 at 1:00 pm ET Join leaders from Hertz, Quantum Health, Carrum Health and Sword Health for a discussion on how proactive advocacy and connected care can help employees navigate their MSK journey with confidence while improving outcomes, supporting appropriat",
-    "publishedAt": "2026-06-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-the-chro-8217-s-impossible-mandate-move-fast-on-ai-slow-down-1782304225000",
-    "title": "The CHRO&#8217;s impossible mandate: Move fast on AI, slow down on risk",
-    "link": "https://hrexecutive.com/the-chros-impossible-mandate-move-fast-on-ai-slow-down-on-risk/",
-    "summary": "Most companies haven't built the muscle to hold both AI and risk at once, which means the CHRO ends up holding it personally. The post The CHRO&#8217;s impossible mandate: Move fast on AI, slow down on risk appeared first on HR Executive .",
-    "publishedAt": "2026-06-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-states-with-too-many-workers-and-states-that-need-more-1782303338000",
-    "title": "States with too many workers—and states that need more",
-    "link": "https://hrexecutive.com/states-with-too-many-workers-and-states-that-need-more/",
-    "summary": "There is a growing imbalance between labor supply and job openings. The post States with too many workers—and states that need more appeared first on HR Executive .",
-    "publishedAt": "2026-06-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-judge-refuses-to-dismiss-most-workday-hiring-bias-allegation-1782302440000",
-    "title": "Judge refuses to dismiss most Workday hiring bias allegations",
-    "link": "https://hrexecutive.com/judge-refuses-to-dismiss-most-workday-hiring-bias-allegations/",
-    "summary": "Workday hiring bias case advances in California, keeping FEHA and ADA claims alive and raising new HR vendor risk questions. The post Judge refuses to dismiss most Workday hiring bias allegations appeared first on HR Executive .",
-    "publishedAt": "2026-06-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
     ]
   }
 ];
@@ -632,15 +632,31 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1134131",
+    "title": "Maintenance Technician",
+    "company": "FAVIO",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Overview: Our client is a âboutiqueâ property management organization that caters to international UHNWI (Ultra-High Net Worth Individuals) with property investment interests in the Caribbean",
+      "Due to growth, they are seeking to add a proven technician to be actively involved in the maintenance o"
+    ],
+    "skills": [],
+    "location": "Bridgetown, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-favio-1134131",
+    "postedAt": "2026-06-24",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134028",
     "title": "Halwai",
     "company": "jÃ¼STa Hotels &amp; Resorts",
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMTMuNzEuMjMyLjE0Ng== when applying to show you read the job post completely (#RMTMuNzEuMjMyLjE0Ng==)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNDAuNjUuNjEuMTQ2 when applying to show you read the job post completely (#RNDAuNjUuNjEuMTQ2)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can sea"
+      "Companies can search thes"
     ],
     "skills": [],
     "location": "Bhuj, ",
@@ -682,24 +698,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-consumer-research-panelist-data-entry-clerk-welcome-apexfocusgroup-llc-1134083",
     "postedAt": "2026-06-23",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1133980",
-    "title": "Biology Research Expert â $65 $95 hour",
-    "company": "24-MAG",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This role supports current and upcoming"
-    ],
-    "skills": [
-      "Python"
-    ],
-    "location": "New York, New York, New York, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-biology-research-expert-65-95-hour-24-mag-1133980",
-    "postedAt": "2026-06-23",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-26T04:29:08.809Z';
+export const dataFetchedAt = '2026-06-26T13:34:43.831Z';
