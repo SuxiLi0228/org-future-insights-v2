@@ -2,6 +2,91 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-06-27-auto",
+    "date": "2026-06-27",
+    "session": "auto",
+    "title": "2026-06-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-06-27-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-27-auto-2",
+        "emoji": "💡",
+        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
+        "detail": "来源: MIT Technology Review。It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-27-auto-3",
+        "emoji": "🚨",
+        "title": "The bottom-line impact of surging toxic cultures",
+        "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-06-27-1",
+        "priority": "medium",
+        "action": "关注「The Download: brain-melting heatwaves an」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-27-2",
+        "priority": "low",
+        "action": "关注「Heat waves mess with your brain. Scienti」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-27-3",
+        "priority": "high",
+        "action": "关注「The bottom-line impact of surging toxic 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 44,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-06-27 生成，聚合了 20 条新闻、20 篇论文、4 个岗位。",
+    "fetchWindow": "2026-06-27 00:00 - 2026-06-27 23:59"
+  },
+  {
     "id": "report-2026-06-26-auto",
     "date": "2026-06-26",
     "session": "auto",

@@ -55,7 +55,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-amid-benefits-rollbacks-employers-face-a-summer-challenge-1782475207000",
     "title": "Amid benefits rollbacks, employers face a summer challenge",
     "link": "https://hrexecutive.com/amid-benefits-rollbacks-employers-face-a-summer-challenge/",
-    "summary": "For the first time, both parents in two-parent households work full time, and they're feeling squeeze. This expert says flexibility, including through low-cost offerings like Summer Fridays, is a key way to support working parents. The post Amid benefits rollbacks, employers face a summer challenge ",
+    "summary": "For the first time, both parents in two-parent households work full time, and they're feeling the squeeze. This expert says flexibility is key. The post Amid benefits rollbacks, employers face a summer challenge appeared first on HR Executive .",
     "publishedAt": "2026-06-26",
     "source": "HR Executive",
     "tags": [
@@ -654,7 +654,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNDAuNjUuNjEuMTQ2 when applying to show you read the job post completely (#RNDAuNjUuNjEuMTQ2)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMjAuODMuMTU5LjE3 when applying to show you read the job post completely (#RMjAuODMuMTU5LjE3)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search thes"
     ],
@@ -681,24 +681,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
     "postedAt": "2026-06-23",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134083",
-    "title": "Online Consumer Research Panelist Data Entry Clerk Welcome",
-    "company": "ApexFocusGroup LLC",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Apex Focus Group partners with research organizations, academic institutions, and brands seeking genuine consumer feedback",
-      "We connect individuals with flexible remote research opportunities that help shape products, services, and user experiences",
-      "Role Overview Weâre inviting individuals from all"
-    ],
-    "skills": [],
-    "location": "Nowra, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-consumer-research-panelist-data-entry-clerk-welcome-apexfocusgroup-llc-1134083",
-    "postedAt": "2026-06-23",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-26T13:34:43.831Z';
+export const dataFetchedAt = '2026-06-26T20:22:56.948Z';
