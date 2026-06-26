@@ -2,8 +2,8 @@ name: Daily Data Refresh
 
 on:
   schedule:
-    # 每天北京时间早上 8 点运行 (UTC 0:00)
-    - cron: '0 0 * * *'
+    # 每 2 小时运行一次，避免 GitHub Actions schedule 触发延迟导致日报漏掉
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
