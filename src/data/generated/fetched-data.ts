@@ -710,7 +710,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNTcuMTUxLjg2LjI0Mg== when applying to show you read the job post completely (#RNTcuMTUxLjg2LjI0Mg==)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNjQuMjM2LjE0NS44MQ== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44MQ==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can sea"
     ],
@@ -720,24 +720,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
     "postedAt": "2026-06-24",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134093",
-    "title": "Retail Marketing Coordinator",
-    "company": "Crown Affair",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Role: Coordinator, Retail Marketing Department : Retail and Sales Reports to: Manager, Retail Marketing and Sales Type: Full-Time Location : LA/NY Preferred Req"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "New York City Metropolitan Area",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
-    "postedAt": "2026-06-23",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-27T15:04:37.525Z';
+export const dataFetchedAt = '2026-06-27T20:18:01.017Z';
