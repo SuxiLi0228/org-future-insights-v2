@@ -613,6 +613,46 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134173",
+    "title": "Claims Specialist",
+    "company": "DTLA Benefits",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Search by Keyword Search by Location or Remote Show More Options Loading.."
+    ],
+    "skills": [
+      "RAG",
+      "Agent",
+      "AWS"
+    ],
+    "location": "Columbus, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-claims-specialist-dtla-benefits-1134173",
+    "postedAt": "2026-06-26",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134128",
+    "title": "Vice President Supply Chain",
+    "company": "Ramp Talent",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Our client has asked us to conduct a CONFIDENTIAL SEARCH",
+      "Company name and additional details will be shared with qualified candidates as the process progresses",
+      "Details below..",
+      "VP of Supply Chain Location: California or New York (on-site/regional travel required) Reports To: President / Executive"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "New York, New York, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vice-president-supply-chain-ramp-talent-1134128",
+    "postedAt": "2026-06-25",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134014",
     "title": "Mid Senior AI Cinematic Video Editor",
     "company": "EverAI",
@@ -654,9 +694,9 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMjAuODMuMTU5LjE3 when applying to show you read the job post completely (#RMjAuODMuMTU5LjE3)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMTcyLjIxNC4xNTYuODM= when applying to show you read the job post completely (#RMTcyLjIxNC4xNTYuODM=)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search thes"
+      "Companies can sea"
     ],
     "skills": [],
     "location": "Bhuj, ",
@@ -684,4 +724,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-26T20:22:56.948Z';
+export const dataFetchedAt = '2026-06-27T08:11:24.680Z';
