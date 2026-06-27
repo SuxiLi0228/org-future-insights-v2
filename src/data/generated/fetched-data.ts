@@ -613,6 +613,22 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134178",
+    "title": "User Researcher",
+    "company": "Ministry of Housing, Communities and Local Government",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "We have over 3,500 staff who are based in 20 offices across the UK",
+      "Whether it's through th"
+    ],
+    "skills": [],
+    "location": "Wolverhampton, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-user-researcher-ministry-of-housing-communities-and-local-government-1134178",
+    "postedAt": "2026-06-26",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134173",
     "title": "Claims Specialist",
     "company": "DTLA Benefits",
@@ -694,7 +710,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RMTcyLjIxNC4xNTYuODM= when applying to show you read the job post completely (#RMTcyLjIxNC4xNTYuODM=)",
+      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNTcuMTUxLjg2LjI0Mg== when applying to show you read the job post completely (#RNTcuMTUxLjg2LjI0Mg==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can sea"
     ],
@@ -724,4 +740,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-27T08:11:24.680Z';
+export const dataFetchedAt = '2026-06-27T15:04:37.525Z';
