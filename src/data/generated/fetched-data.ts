@@ -613,6 +613,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134171",
+    "title": "Property Maintenance &amp; Operations Coordinator",
+    "company": "Dart",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "The successful candidate will deliver hands-on maintenance support while e"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "George Town, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-property-maintenance-amp-operations-coordinator-dart-1134171",
+    "postedAt": "2026-06-26",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134178",
     "title": "User Researcher",
     "company": "Ministry of Housing, Communities and Local Government",
@@ -667,60 +684,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vice-president-supply-chain-ramp-talent-1134128",
     "postedAt": "2026-06-25",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134014",
-    "title": "Mid Senior AI Cinematic Video Editor",
-    "company": "EverAI",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "WithÂ 50 mill"
-    ],
-    "skills": [
-      "LLM",
-      "AWS",
-      "Hugging Face"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
-    "postedAt": "2026-06-24",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134131",
-    "title": "Maintenance Technician",
-    "company": "FAVIO",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Overview: Our client is a âboutiqueâ property management organization that caters to international UHNWI (Ultra-High Net Worth Individuals) with property investment interests in the Caribbean",
-      "Due to growth, they are seeking to add a proven technician to be actively involved in the maintenance o"
-    ],
-    "skills": [],
-    "location": "Bridgetown, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-favio-1134131",
-    "postedAt": "2026-06-24",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134028",
-    "title": "Halwai",
-    "company": "jÃ¼STa Hotels &amp; Resorts",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Able to prepare indian sweets and snacks",
-      "food &amp; accommodation will be provided Please mention the word **STUPENDOUS** and tag RNjQuMjM2LjE0NS44MQ== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44MQ==)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can sea"
-    ],
-    "skills": [],
-    "location": "Bhuj, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
-    "postedAt": "2026-06-24",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-06-27T20:18:01.017Z';
+export const dataFetchedAt = '2026-06-28T08:35:59.532Z';
