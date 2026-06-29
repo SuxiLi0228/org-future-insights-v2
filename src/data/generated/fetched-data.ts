@@ -2,6 +2,81 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-metric-weaknesses-and-ai-elephant-warnings-1782735000000",
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+    "publishedAt": "2026-06-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-jpmorgan-the-viral-knicks-fan-and-hr-risks-of-off-duty-condu-1782736209000",
+    "title": "JPMorgan, the viral Knicks fan and HR risks of off-duty conduct",
+    "link": "https://hrexecutive.com/jpmorgan-the-viral-knicks-fan-and-hr-risks-of-off-duty-conduct/",
+    "summary": "A viral Knicks fan video put JPMorgan in the spotlight, raising questions about off duty conduct and HR implications. The post JPMorgan, the viral Knicks fan and HR risks of off-duty conduct appeared first on HR Executive .",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-u-s-healthcare-affordability-falls-to-lowest-level-since-202-1782735346000",
+    "title": "U.S. healthcare affordability falls to lowest level since 2021",
+    "link": "https://hrexecutive.com/u-s-healthcare-affordability-falls-to-lowest-level-since-2021/",
+    "summary": "New West Health–Gallup data show fewer than half of Americans can consistently afford care and prescriptions, with widening disparities across income, age, and racial groups. The post U.S. healthcare affordability falls to lowest level since 2021 appeared first on HR Executive .",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-remote-work-pays-well-for-executives-but-costs-everyone-else-1782734436000",
+    "title": "Remote work pays well for executives but costs everyone else, new study finds",
+    "link": "https://hrexecutive.com/remote-work-pays-well-for-executives-but-costs-everyone-else-new-study-finds/",
+    "summary": "New data shows remote work widens pay gaps across seniority levels. What HR leaders need to know about comp equity and talent pipeline risk. The post Remote work pays well for executives but costs everyone else, new study finds appeared first on HR Executive .",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-your-compensation-data-problem-is-about-to-get-worse-1782733500000",
+    "title": "Your compensation data problem is about to get worse",
+    "link": "https://hrexecutive.com/your-compensation-data-problem-is-about-to-get-worse/",
+    "summary": "As AI becomes more embedded in how organizations operate, the issue of compensation data is about to get significantly harder to ignore. The post Your compensation data problem is about to get worse appeared first on HR Executive .",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-volkswagen-weighs-100-000-layoffs-in-its-largest-ever-workfo-1782732641000",
+    "title": "Volkswagen weighs 100,000 layoffs in its largest-ever workforce overhaul",
+    "link": "https://hrexecutive.com/volkswagen-weighs-100000-layoffs-in-largest-ever-workforce-overhaul/",
+    "summary": "The German automaker is considering closing four German plants and surpassing earlier layoff targets as it reshapes operations. The post Volkswagen weighs 100,000 layoffs in its largest-ever workforce overhaul appeared first on HR Executive .",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
     "id": "news-the-download-brain-melting-heatwaves-and-unprecedented-opena-1782475800000",
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
     "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -139,70 +214,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-rise-of-glp-1-plus-employers-rethinking-weight-loss-drug-1782390603000",
-    "title": "The rise of ‘GLP-1 plus’: Employers rethinking weight-loss drug coverage",
-    "link": "https://hrexecutive.com/the-rise-of-glp-1-plus-employers-rethinking-weight-loss-drug-coverage/",
-    "summary": "Several new reports suggest employers are continuing to remain cautious when it comes to if, and how, they’ll cover GLP-1 drugs for weight loss. The post The rise of ‘GLP-1 plus’: Employers rethinking weight-loss drug coverage appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-change-or-repeal-employer-sponsored-health-benefits-tax-excl-1782389730000",
-    "title": "Change or repeal employer-sponsored health benefits tax exclusion, analysts say",
-    "link": "https://hrexecutive.com/change-or-repeal-employer-sponsored-health-benefits-tax-exclusion-analysts-say/",
-    "summary": "Experts at the Mercatus Center recently explored the possibility of employer health tax exclusion repeal. The post Change or repeal employer-sponsored health benefits tax exclusion, analysts say appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-peter-fasolo-former-j-038-j-chro-steps-down-from-leadership--1782388805000",
-    "title": "Peter Fasolo, former J&#038;J CHRO, steps down from leadership institute",
-    "link": "https://hrexecutive.com/peter-fasolo-former-jj-chro-steps-down-from-leadership-institute/",
-    "summary": "The Institute for Leadership and Work, formerly the HR Policy Institute, announced this week that Peter Fasolo and Connie Hadley are stepping down from their leadership roles. The post Peter Fasolo, former J&#038;J CHRO, steps down from leadership institute appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-one-question-worth-asking-every-ai-vendor-1782387912000",
-    "title": "The one question worth asking every AI vendor",
-    "link": "https://hrexecutive.com/the-one-question-worth-asking-every-ai-vendor/",
-    "summary": "If you’re asking a vendor, \"Does it use AI?,\" you’re asking the wrong question. Instead ask: \"Has the platform been built for governance?\" The post The one question worth asking every AI vendor appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-in-hiring-8216-a-risky-game-of-telephone-8217-1782387016000",
-    "title": "AI in hiring: &#8216;A risky game of telephone&#8217;",
-    "link": "https://hrexecutive.com/ai-in-hiring-a-risky-game-of-telephone/",
-    "summary": "New research warns that AI-driven “knowledge decay” can erode hiring trust, turning polished processes into unreliable decisions. The post AI in hiring: &#8216;A risky game of telephone&#8217; appeared first on HR Executive .",
-    "publishedAt": "2026-06-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
     "title": "Europe’s extreme heat is shutting down power plants",
     "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
@@ -237,381 +248,407 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology"
     ]
-  },
-  {
-    "id": "news-the-emergence-of-the-web-data-infrastructure-layer-for-ai-1782302394000",
-    "title": "The emergence of the web data infrastructure layer for AI",
-    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
-    "publishedAt": "2026-06-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2606.27377v1",
-    "title": "DanceOPD: On-Policy Generative Field Distillation",
+    "id": "arxiv-2606.28323v1",
+    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
     "authors": [
-      "Wei Zhou",
-      "Xiongwei Zhu",
-      "Zelin Xu",
-      "Bo Dong",
-      "Lixue Gong",
-      "Yongyuan Liang",
-      "Meng Chu",
-      "Leigang Qu",
-      "Lingdong Kong",
-      "Wei Liu",
-      "Tat-Seng Chua"
+      "Dihong Huang",
+      "Zhenyu Wei",
+      "Zhuxiu Xu",
+      "Yunchao Yao",
+      "Sikai Li",
+      "Mingyu Ding"
     ],
-    "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and local editing interfere with each other. Consequently, effectively composing these capabilities has be",
-    "link": "http://arxiv.org/abs/2606.27377v1",
-    "publishedAt": "2026-06-25",
+    "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference between preserving an existing manipulation outcome and executing a new one. We propos",
+    "link": "http://arxiv.org/abs/2606.28323v1",
+    "publishedAt": "2026-06-26",
     "categories": [
+      "cs.RO",
+      "cs.AI",
       "cs.CV",
-      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.27369v1",
-    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+    "id": "arxiv-2606.28309v1",
+    "title": "Surprises in Proper Positive-Only Learning",
     "authors": [
-      "Yingyu Lin",
-      "Qiyue Gao",
-      "Nikki Lijing Kuang",
-      "Xunpeng Huang",
-      "Kun Zhou",
-      "Tongtong Liang",
-      "Zhewei Yao",
-      "Yi-An Ma",
-      "Yuxiong He"
+      "Shai Ben-David",
+      "Farnam Mansouri",
+      "Anay Mehrotra",
+      "Manolis Zampetakis"
     ],
-    "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) that trains LLMs on score-based optimization tasks without ground-truth solutions, using deterministi",
-    "link": "http://arxiv.org/abs/2606.27369v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27361v1",
-    "title": "Autoregressive Boltzmann Generators",
-    "authors": [
-      "Danyal Rehman",
-      "Charlie B. Tan",
-      "Yoshua Bengio",
-      "Avishek Joey Bose",
-      "Alexander Tong"
-    ],
-    "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact likelihoods and an importance sampling correction. However, modern BGs predominantly rely on normalizi",
-    "link": "http://arxiv.org/abs/2606.27361v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27359v1",
-    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-    "authors": [
-      "Johannes Zenn",
-      "Jonas Geiping"
-    ],
-    "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the sequence level. Therefore, their success depends on a fundamental question: when does sequence probability, that is, the conditional probability of a continuation given a prompt, actually align with ",
-    "link": "http://arxiv.org/abs/2606.27359v1",
-    "publishedAt": "2026-06-25",
+    "summary": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original distribution (which places mass on both positive and negative regions). This model dates back to Natarajan [1987, STOC], and the characterization of improper learning is well-known -- it",
+    "link": "http://arxiv.org/abs/2606.28309v1",
+    "publishedAt": "2026-06-26",
     "categories": [
       "stat.ML",
+      "cs.LG",
+      "math.ST"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28308v1",
+    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+    "authors": [
+      "Luis Leal"
+    ],
+    "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different members of the Nash set, systematically as a function of the algorithm rather tha",
+    "link": "http://arxiv.org/abs/2606.28308v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.GT",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28307v1",
+    "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+    "authors": [
+      "Shuang Li",
+      "Zhihui Zhu",
+      "Qiuwei Li"
+    ],
+    "summary": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bregman kernel. This setting covers polynomial objectives arising in matrix and tensor models for which a global Lipschitz-gradient constant need not exist. We show that on an invariant ",
+    "link": "http://arxiv.org/abs/2606.28307v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "math.OC",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.27354v1",
-    "title": "Error-Conditioned Neural Solvers",
+    "id": "arxiv-2606.28301v1",
+    "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
     "authors": [
-      "Haina Jiang",
-      "Liam Wang",
-      "Peng-Chen Chen",
-      "Min Seop Kwak",
-      "Seungryong Kim",
-      "Brian Bell",
-      "Jeong Joon Park"
+      "Kijung Jeon",
+      "Thuy-Duong Vuong",
+      "Molei Tao"
     ],
-    "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods promote physical correctness by targeting the PDE residual via gradient descent or Gauss--Newton steps, ",
-    "link": "http://arxiv.org/abs/2606.27354v1",
-    "publishedAt": "2026-06-25",
+    "summary": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and introduce MDM-VGB, a discrete diffusion sampler that augments unmasking generation with theoretically principled reward-guided remasking. Inspired by the recent success of the classical ",
+    "link": "http://arxiv.org/abs/2606.28301v1",
+    "publishedAt": "2026-06-26",
     "categories": [
       "cs.LG",
-      "cs.AI",
-      "cs.CV",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27347v1",
-    "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
-    "authors": [
-      "Kirill Solovev",
-      "Jana Lasser"
-    ],
-    "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing these complex, informal, and adversarial ties at scale has historically required intensive manual coding, while automated text-as-data methods have largely been limited to simple co-occurrence. Recent lar",
-    "link": "http://arxiv.org/abs/2606.27347v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27342v1",
-    "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
-    "authors": [
-      "Nicholas Pulsone",
-      "Gregory Goren",
-      "Roee Shraga"
-    ],
-    "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems to realistic settings. While these approaches have demonstrated strong performance, it remains uncle",
-    "link": "http://arxiv.org/abs/2606.27342v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.DB",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27334v1",
-    "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
-    "authors": [
-      "Mohammad Mehdi Hosseini",
-      "Mohammad H. Mahoor",
-      "Hiroko H. Dodge"
-    ],
-    "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-invasive biomarkers. In this work, we propose a language-based digital twin framework that leverages larg",
-    "link": "http://arxiv.org/abs/2606.27334v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27330v1",
-    "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
-    "authors": [
-      "Tianyi Men",
-      "Zhuoran Jin",
-      "Pengfei Cao",
-      "Yubo Chen",
-      "Kang Liu",
-      "Jun Zhao"
-    ],
-    "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from weak planning and limited cross website generalization. To address these limitations, we introduce ",
-    "link": "http://arxiv.org/abs/2606.27330v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27326v1",
-    "title": "Hallucination in World Models is Predictable and Preventable",
-    "authors": [
-      "Nicklas Hansen",
-      "Xiaolong Wang"
-    ],
-    "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics. We hypothesize that hallucination concentrates in low-coverage regions of the state-action space, where lightweight data-centric signals can both detect it and guide mitigation. To test this, we int",
-    "link": "http://arxiv.org/abs/2606.27326v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG",
-      "cs.CV",
-      "cs.RO"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27321v1",
-    "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
-    "authors": [
-      "Nathanaël Jacquier",
-      "Maria Vakalopoulou",
-      "Mahdi S. Hosseini"
-    ],
-    "summary": "Sparse autoencoders (SAEs) have become a leading tool for interpreting the representations of vision foundation models, decomposing their polysemantic activations into a larger set of sparse, more monosemantic features. The Top-$k$ SAE, a now-standard variant, enforces sparsity architecturally through its activation function, retaining only the $k$ most active latents per input. Because it was des",
-    "link": "http://arxiv.org/abs/2606.27321v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27316v1",
-    "title": "LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank",
-    "authors": [
-      "Serhii Hamotskyi",
-      "Akash Kumar Gautam",
-      "Christian Hänig"
-    ],
-    "summary": "Verifying the eligibility of securities as collateral is a key responsibility of the German Central Bank. However, manually verifying these assets against legal and financial criteria within lengthy, semi-structured, and often bilingual prospectuses is a resource-intensive task. While previous efforts utilized traditional Named Entity Recognition (NER) for information extraction, these methods can",
-    "link": "http://arxiv.org/abs/2606.27316v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27315v1",
-    "title": "Blackwell Approachability and Gradient Equilibrium are Equivalent",
-    "authors": [
-      "Brian W. Lee",
-      "Nika Haghtalab",
-      "Michael I. Jordan",
-      "Ryan J. Tibshirani"
-    ],
-    "summary": "Gradient equilibrium (GEQ) is a recently introduced online optimization framework that generalizes first-order stationarity from offline optimization and abstracts problems like online conformal prediction. While GEQ has curious similarities with known online learning frameworks, namely regret minimization, prior work has shown that GEQ error and regret are incomparable objectives, leaving open a ",
-    "link": "http://arxiv.org/abs/2606.27315v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27314v1",
-    "title": "Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection",
-    "authors": [
-      "Hamid Reza Firoozfar",
-      "Mohammadsadegh Abolhasani",
-      "Reza Mousavi",
-      "Paul Jen-Hwa Hu"
-    ],
-    "summary": "To avoid moderation and surveillance on social media, some users routinely invent indirect linguistic expressions (ILE) that camouflage sensitive meanings. Such expressions surface as algospeak, euphemisms, and adversarial obfuscation, depending on intent and context, and they involve recurring encoding mechanisms. We propose a comprehensive, mechanism-oriented taxonomy of ILE that abstracts away ",
-    "link": "http://arxiv.org/abs/2606.27314v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27306v1",
-    "title": "Multilingual Reasoning Cascades Need More Context",
-    "authors": [
-      "Arnav Mazumder",
-      "Dengjia Zhang",
-      "Shuyue Stella Li",
-      "Yulia Tsvetkov",
-      "Niyati Bafna"
-    ],
-    "summary": "Translation cascades for reasoning translate the query from another language to English, reason in English, and translate the answer back to the original language. This is a competitive approach to multilingual reasoning, but structurally lossy, since each stage discards information later stages may need, including cues for cultural grounding, register, and disambiguation. We examine the benefits ",
-    "link": "http://arxiv.org/abs/2606.27306v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27304v1",
-    "title": "A Multi-Fidelity Convolutional Autoencoder-Transfer Learning Framework for Guided-Wave-Based Damage Diagnosis Using Large Simulated and Limited Experimental Datasets",
-    "authors": [
-      "Santosh Kapuria",
-      "Abhishek"
-    ],
-    "summary": "Guided wave-based structural health monitoring (GWSHM) with onboard transducers offers significant potential for the early diagnosis of damage in engineering structures. However, the practical deployment of deep learning models is often hindered by the limited availability of labelled experimental data and the high computational cost of generating large-scale high-fidelity simulation datasets. Thi",
-    "link": "http://arxiv.org/abs/2606.27304v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27302v1",
-    "title": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
-    "authors": [
-      "Muhammad Hassan",
-      "Ramazan Yener",
-      "Ece Gumusel",
-      "Masooda Bashir"
-    ],
-    "summary": "AI healthcare chatbots are increasingly used to support health information seeking and self-management, yet their performance and impact on users remains to be studied. This study examines over 15,000 user reviews from 59 AI healthcare chatbot apps to explore how these systems function in everyday informational and emotional contexts. Topic modeling and interpretive analysis identify three recurri",
-    "link": "http://arxiv.org/abs/2606.27302v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
-      "cs.HC",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.27298v1",
-    "title": "Fast algorithms for learning a Gaussian under halfspace truncation with optimal sample complexity",
-    "authors": [
-      "Haitong Liu",
-      "Deepak Narayanan Sridharan",
-      "David Steurer",
-      "Manuel Wiedmer"
-    ],
-    "summary": "We study the fundamental problem of learning a high-dimensional Gaussian truncated to an unknown halfspace. Lee, Mehrotra and Zampetakis (FOCS'24) recently obtained the first polynomial time algorithm for this problem, but their resulting sample and time complexity bounds are not optimal. Under non-trivial truncation, for any target accuracy $\\varepsilon > 0$ and dimension $d$ we give an efficient",
-    "link": "http://arxiv.org/abs/2606.27298v1",
-    "publishedAt": "2026-06-25",
-    "categories": [
       "cs.DS",
-      "cs.LG",
-      "math.ST",
+      "math.NA",
+      "math.PR",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2606.27294v1",
-    "title": "Generative Models on Analog Hardware with Dynamics",
+    "id": "arxiv-2606.28294v1",
+    "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
     "authors": [
-      "Yu-Neng Wang",
-      "Sara Achour"
+      "Kevin Kingslin",
+      "Anish Natekar",
+      "Ashutosh Ranjan",
+      "Vivek Srivastava",
+      "Savita Bhat",
+      "Shirish Karande"
     ],
-    "summary": "Analog hardware platforms such as coupled oscillators and Analog Ising Machines naturally solve differential equations at a fraction of the energy cost of digital computation, making them attractive for low-power generative modeling, yet a fundamental mismatch exists: modern generative models assume flexible, software-defined dynamics, whereas analog hardware imposes fixed, physics-determined diff",
-    "link": "http://arxiv.org/abs/2606.27294v1",
-    "publishedAt": "2026-06-25",
+    "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, b",
+    "link": "http://arxiv.org/abs/2606.28294v1",
+    "publishedAt": "2026-06-26",
     "categories": [
-      "cs.ET",
+      "cs.LG",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28287v1",
+    "title": "Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks",
+    "authors": [
+      "Phong Dang",
+      "Evander Espinoza",
+      "Xiaoliang Wan",
+      "Michela Negro",
+      "Jerry P. Draayer",
+      "Feng Pan",
+      "Tomas Dytrych",
+      "Daniel Langr",
+      "David Kekejian"
+    ],
+    "summary": "Ab initio modeling has established Wigner's SU(4) and Elliott's SU(3) as dominant symmetries of the nuclear force in light and intermediate-mass nuclei. We ask whether they also govern nuclear binding across the entire chart. Our aim is not high-precision prediction but physical insight, through interpretable, symmetry-based models. From the SU(3) and SU(4) Casimir operators we construct three neu",
+    "link": "http://arxiv.org/abs/2606.28287v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "nucl-th",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.27291v1",
-    "title": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search",
+    "id": "arxiv-2606.28281v1",
+    "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
     "authors": [
-      "Ping Liu",
-      "Qianqi Shen",
-      "Jianqiang Shen",
-      "Wenqiong Liu",
-      "Rajat Arora",
-      "Yunxiang Ren",
-      "Chunnan Yao",
-      "Dan Xu",
-      "Baofen Zheng",
-      "Wanjun Jiang",
-      "Andrii Soviak",
-      "Kevin Kao",
-      "Jingwei Wu",
-      "Wenjing Zhang"
+      "Domagoj Herceg"
     ],
-    "summary": "Job-search platforms rely on low-bandwidth query interfaces that often fail to capture the high-dimensional complexity of candidate profiles. We present an end-to-end RLAIF (Reinforcement Learning from AI Feedback) framework to generate \\emph{portable} job search queries, terms that abstract away seeker-specific identifiers while preserving generalizable qualifications. This task introduces a high",
-    "link": "http://arxiv.org/abs/2606.27291v1",
-    "publishedAt": "2026-06-25",
+    "summary": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Such losses are unbounded, non-Lipschitz , and lead to response-dependent Chernoff terms. We employ System Level Synthesis parameterization, which exposes the closed-loop trajectory map ",
+    "link": "http://arxiv.org/abs/2606.28281v1",
+    "publishedAt": "2026-06-26",
     "categories": [
+      "eess.SY",
       "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28279v1",
+    "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+    "authors": [
+      "Cunxi Yu",
+      "Chenhui Deng",
+      "Nathaniel Pinckney",
+      "Brucek Khailany"
+    ],
+    "summary": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and re",
+    "link": "http://arxiv.org/abs/2606.28279v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.AR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28277v1",
+    "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+    "authors": [
+      "Rajesh Jayaram",
+      "Drew Tyler",
+      "David Woodruff",
+      "Corinna Cortes",
+      "Yossi Matias",
+      "Vahab Mirrokni",
+      "Vincent Cohen-Addad"
+    ],
+    "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assisted science. Ultimately, to resolve this tension, we must also deploy AI to accelerate the verificatio",
+    "link": "http://arxiv.org/abs/2606.28277v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28274v1",
+    "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+    "authors": [
+      "Abdolazim Rezaei",
+      "Mehdi Sookhak",
+      "Mahboobeh Haghparast"
+    ],
+    "summary": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This paper introduces the Parameter-Efficient Hybrid Transformer (PEHT), a network traffic prediction framework",
+    "link": "http://arxiv.org/abs/2606.28274v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28273v1",
+    "title": "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",
+    "authors": [
+      "Niclas Lietzow",
+      "Danielle Bitterman",
+      "Carsten Eickhoff",
+      "William Rudman",
+      "Michal Golovanevsky"
+    ],
+    "summary": "Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work characterizes it behaviorally without a component-level causal account. We combine activation patching across three granularities (residual stream, attention heads, and MLP sublayers) with model-compo",
+    "link": "http://arxiv.org/abs/2606.28273v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28270v1",
+    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+    "authors": [
+      "Bo Shen",
+      "Lifeng Chang",
+      "Tianyuan Wei",
+      "Yunpeng Li",
+      "Feng Shi",
+      "Yichen Han",
+      "Peijie Gao",
+      "Shiyi Kuang",
+      "Xin Chang",
+      "Dehui Li"
+    ],
+    "summary": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly",
+    "link": "http://arxiv.org/abs/2606.28270v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28268v1",
+    "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+    "authors": [
+      "Ali Zia",
+      "Usman Ali",
+      "Abdul Rehman",
+      "Umer Ramzan",
+      "Kang Han",
+      "Muhammad Faheem",
+      "Shahnawaz Qureshi",
+      "Wei Xiang"
+    ],
+    "summary": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat",
+    "link": "http://arxiv.org/abs/2606.28268v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28252v1",
+    "title": "Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection",
+    "authors": [
+      "Akshay Bhagwan Sonawane",
+      "Sophie Choe",
+      "Lakshman Tamil"
+    ],
+    "summary": "Early detection of oral cancer markedly improves clinical outcomes, yet specialized diagnostic tools remain scarce in low-resource settings. Smartphone-based screening is a scalable alternative but needs lightweight models that run within edge-hardware constraints. Hybrid classical-quantum architectures are emerging candidates for parameter-efficient learning, yet most rely on qubit hardware that ",
+    "link": "http://arxiv.org/abs/2606.28252v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28249v1",
+    "title": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
+    "authors": [
+      "Sihang Nie",
+      "Xiaofen Xing",
+      "Rui Xing",
+      "Haoming Li",
+      "Ruitong Xiao",
+      "Jingyuan Xing",
+      "Baiji Liu",
+      "Xiangmin Xu"
+    ],
+    "summary": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically averaged prosody, limiting emotional expressiveness. While preference-driven optimization offers a promising alternative, existing approaches suffer from two structural mismatches: information conflict, w",
+    "link": "http://arxiv.org/abs/2606.28249v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "eess.AS",
+      "cs.CL",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28242v1",
+    "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+    "authors": [
+      "Julius Girardin",
+      "Emanuele Troiani",
+      "Yizhou Xu",
+      "Vittorio Erba",
+      "Florent Krzakala",
+      "Lenka Zdeborová"
+    ],
+    "summary": "Understanding how performance scales jointly with model size and data is a central problem in modern machine learning. Existing theoretical works on scaling laws typically describe generalization as a function of data or compute, often in fixed-feature or infinite-width regimes and for online SGD. Here, we instead study how generalization scales with the number of trainable parameters and the numb",
+    "link": "http://arxiv.org/abs/2606.28242v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "cs.AI",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28235v1",
+    "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+    "authors": [
+      "Daniel Russo"
+    ],
+    "summary": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate problems no single contribution accounts for. We ask whether this problem belongs to the individual age",
+    "link": "http://arxiv.org/abs/2606.28235v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28228v1",
+    "title": "Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts",
+    "authors": [
+      "Yuanyuan Wang",
+      "Wenjie Wang",
+      "Haoxuan Li",
+      "Mingming Gong",
+      "Kun Zhang"
+    ],
+    "summary": "Causal representation learning for time series has developed strong identifiability results in discrete-time latent causal models, but identifiability in continuous-time latent stochastic differential equation (SDE) models remains largely open. We address this gap using environment-induced shifts in diffusion covariance. We study additive-noise latent SDEs observed through an unknown nonlinear dif",
+    "link": "http://arxiv.org/abs/2606.28228v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2606.28226v1",
+    "title": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
+    "authors": [
+      "Guanbo Huang",
+      "Jingjia Mao",
+      "Fanding Huang",
+      "Fengkai Liu",
+      "Xiangyang Luo",
+      "Yaoyuan Liang",
+      "Jiasheng Lu",
+      "Xiaoe Wang",
+      "Pei Liu",
+      "Ruiliu Fu",
+      "Ruqi Huang",
+      "Shao-Lun Huang"
+    ],
+    "summary": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inherently contains dynamic signals that can guide its own rectification. To leverage this, we introduc",
+    "link": "http://arxiv.org/abs/2606.28226v1",
+    "publishedAt": "2026-06-26",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1134232",
+    "title": "AI Filmmaker",
+    "company": "Foxelli Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Please be informed that Foxelli Group hires exclusively in-house and doesn't work with any external recruitment agencies",
+      "Any company or individual claiming to recruit on behalf of Foxelli Group is not affiliated with us",
+      "At Foxelli, weâre building more than e-commerce brands - weâre building a"
+    ],
+    "skills": [],
+    "location": "Praha, Praha, HlavnÃ­ mÄsto Praha, Äesko",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
+    "postedAt": "2026-06-27",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1134171",
     "title": "Property Maintenance &amp; Operations Coordinator",
@@ -687,4 +724,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-28T20:38:47.300Z';
+export const dataFetchedAt = '2026-06-29T14:00:18.568Z';
