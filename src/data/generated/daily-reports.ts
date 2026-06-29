@@ -2,6 +2,93 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-06-30-auto",
+    "date": "2026-06-30",
+    "session": "auto",
+    "title": "2026-06-30 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-06-30-auto-1",
+        "emoji": "⚠️",
+        "title": "AI agents are not your &#8220;coworkers&#8221;",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-30-auto-2",
+        "emoji": "🚨",
+        "title": "Agent confidence on the technical frontier",
+        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+        "detail": "来源: MIT Technology Review。Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "agent",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      },
+      {
+        "id": "sig-2026-06-30-auto-3",
+        "emoji": "⚠️",
+        "title": "The Download: metric weaknesses and AI elephant warnings",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-06-30-1",
+        "priority": "medium",
+        "action": "关注「AI agents are not your &#8220;coworkers&」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-30-2",
+        "priority": "high",
+        "action": "关注「Agent confidence on the technical fronti」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-06-30-3",
+        "priority": "medium",
+        "action": "关注「The Download: metric weaknesses and AI e」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 45,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-06-30 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-06-30 00:00 - 2026-06-30 23:59"
+  },
+  {
     "id": "report-2026-06-29-auto",
     "date": "2026-06-29",
     "session": "auto",

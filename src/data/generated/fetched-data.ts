@@ -2,6 +2,31 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-ai-agents-are-not-your-8220-coworkers-8221-1782756000000",
+    "title": "AI agents are not your &#8220;coworkers&#8221;",
+    "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+    "publishedAt": "2026-06-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-agent-confidence-on-the-technical-frontier-1782744241000",
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+    "publishedAt": "2026-06-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
     "id": "news-the-download-metric-weaknesses-and-ai-elephant-warnings-1782735000000",
     "title": "The Download: metric weaknesses and AI elephant warnings",
     "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
@@ -11,6 +36,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-ai-for-hr-professionals-how-to-build-an-ai-first-business-th-1782758775000",
+    "title": "AI for HR Professionals: How to Build an AI-First Business That Empowers Employees",
+    "link": "https://hrexecutive.com/ai-for-hr-professionals-how-to-build-an-ai-first-business-that-empowers-employees/",
+    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful busine",
+    "publishedAt": "2026-06-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -151,19 +189,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-8217-s-ai-training-program-sparks-new-employee-data-tru-1782473402000",
-    "title": "Meta&#8217;s AI training program sparks new employee data, trust concerns",
-    "link": "https://hrexecutive.com/metas-ai-training-program-sparks-new-employee-data-trust-concerns/",
-    "summary": "Meta suspended its keystroke tracking program after sensitive worker activity data was found accessible internally, according to reports. The post Meta&#8217;s AI training program sparks new employee data, trust concerns appeared first on HR Executive .",
-    "publishedAt": "2026-06-26",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-repositioning-retail-for-the-ai-era-1782397379000",
     "title": "Repositioning retail for the AI era",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
@@ -218,30 +243,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Europe’s extreme heat is shutting down power plants",
     "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
     "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
-    "publishedAt": "2026-06-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-introducing-the-engineering-issue-1782303000000",
-    "title": "The Download: introducing the Engineering issue",
-    "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
-    "publishedAt": "2026-06-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-stripe-anthropic-and-openai-are-backing-an-effort-to-stop-re-1782302400000",
-    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-    "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
     "publishedAt": "2026-06-24",
     "source": "MIT Technology Review",
     "tags": [
@@ -724,4 +725,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-29T14:00:18.568Z';
+export const dataFetchedAt = '2026-06-29T20:32:46.851Z';
