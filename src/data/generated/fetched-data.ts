@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-building-tech-in-the-world-s-secret-r-038-d-hub-1782815010000",
+    "title": "Building tech in the world’s secret R&#038;D hub",
+    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
+    "publishedAt": "2026-06-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-ai-agents-are-not-your-8220-coworkers-8221-1782756000000",
     "title": "AI agents are not your &#8220;coworkers&#8221;",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -232,18 +244,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
     "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;",
     "publishedAt": "2026-06-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
-    "title": "Europe’s extreme heat is shutting down power plants",
-    "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
-    "publishedAt": "2026-06-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -765,4 +765,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-30T08:36:27.391Z';
+export const dataFetchedAt = '2026-06-30T10:42:18.974Z';
