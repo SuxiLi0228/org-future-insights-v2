@@ -2,6 +2,93 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-01-auto",
+    "date": "2026-07-01",
+    "session": "auto",
+    "title": "2026-07-01 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-01-auto-1",
+        "emoji": "⚠️",
+        "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
+        "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
+        "detail": "来源: MIT Technology Review。Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
+      },
+      {
+        "id": "sig-2026-07-01-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: AI “coworkers” and stratospheric internet",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
+      },
+      {
+        "id": "sig-2026-07-01-auto-3",
+        "emoji": "💡",
+        "title": "Agriculture is ready for AI, but its data isn&#8217;t",
+        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+        "detail": "来源: MIT Technology Review。Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-01-1",
+        "priority": "medium",
+        "action": "关注「Roundtables: Longevity&#8217;s Next Fron」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-01-2",
+        "priority": "medium",
+        "action": "关注「The Download: AI “coworkers” and stratos」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-01-3",
+        "priority": "low",
+        "action": "关注「Agriculture is ready for AI, but its dat」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 46,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-01 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-07-01 00:00 - 2026-07-01 23:59"
+  },
+  {
     "id": "report-2026-06-30-auto",
     "date": "2026-06-30",
     "session": "auto",

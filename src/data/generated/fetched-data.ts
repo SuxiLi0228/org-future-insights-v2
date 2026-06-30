@@ -2,6 +2,43 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-roundtables-longevity-8217-s-next-frontier-8220-reprogrammin-1782841008000",
+    "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
+    "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
+    "publishedAt": "2026-06-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-coworkers-and-stratospheric-internet-1782821400000",
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "publishedAt": "2026-06-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-agriculture-is-ready-for-ai-but-its-data-isn-8217-t-1782820800000",
+    "title": "Agriculture is ready for AI, but its data isn&#8217;t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+    "publishedAt": "2026-06-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
     "id": "news-building-tech-in-the-world-s-secret-r-038-d-hub-1782815010000",
     "title": "Building tech in the world’s secret R&#038;D hub",
     "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
@@ -11,6 +48,68 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-jpmorgan-chase-goldman-sachs-walk-back-rto-but-only-for-the--1782822649000",
+    "title": "JPMorgan Chase, Goldman Sachs walk back RTO—but only for the World Cup",
+    "link": "https://hrexecutive.com/jpmorgan-chase-goldman-sachs-walk-back-rto-but-only-for-the-world-cup/",
+    "summary": "Big firms like JPMorgan Chase and Goldman Sachs are among the employers easing their return-to-office policies in light of World Cup fever. The post JPMorgan Chase, Goldman Sachs walk back RTO—but only for the World Cup appeared first on HR Executive .",
+    "publishedAt": "2026-06-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-trump-economists-target-hospital-practices-driving-employer--1782821737000",
+    "title": "Trump economists target hospital practices driving employer costs",
+    "link": "https://hrexecutive.com/trump-economists-target-hospital-practices-driving-employer-costs/",
+    "summary": "Analysts predict more competitive contracts would cut plan sponsors' costs by an average of 6.5%. The post Trump economists target hospital practices driving employer costs appeared first on HR Executive .",
+    "publishedAt": "2026-06-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-layoffs-are-creating-cultural-freefall-here-s-how-long-it-ll-1782820845000",
+    "title": "Layoffs are creating cultural freefall: Here’s how long it’ll take to fix it",
+    "link": "https://hrexecutive.com/layoffs-are-creating-cultural-freefall-heres-how-long-itll-take-to-fix-it/",
+    "summary": "New research finds the average culture recovery time after a layoff is more than seven months. What HR can do to speed recovery. The post Layoffs are creating cultural freefall: Here’s how long it’ll take to fix it appeared first on HR Executive .",
+    "publishedAt": "2026-06-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-why-focus-time-should-be-a-workforce-metric-not-a-personal-h-1782819923000",
+    "title": "Why focus time should be a workforce metric, not a personal habit",
+    "link": "https://hrexecutive.com/why-focus-time-should-be-a-workforce-metric-not-a-personal-habit/",
+    "summary": "The next breakthrough won’t come from a status meeting or instant message. It will come from giving employees more uninterrupted time to work. The post Why focus time should be a workforce metric, not a personal habit appeared first on HR Executive .",
+    "publishedAt": "2026-06-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-korn-ferry-buys-ams-in-1-1-billion-bet-on-recruitment-outsou-1782819900000",
+    "title": "Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing",
+    "link": "https://hrexecutive.com/korn-ferry-buys-ams-in-1-1-billion-bet-on-recruitment-outsourcing/",
+    "summary": "Korn Ferry will acquire AMS for $1.1 billion, adding RPO scale and $1.5B in contracted backlog as demand for recruitment outsourcing holds The post Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing appeared first on HR Executive .",
+    "publishedAt": "2026-06-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
     ]
   },
   {
@@ -115,18 +214,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-volkswagen-weighs-100-000-layoffs-in-its-largest-ever-workfo-1782732641000",
-    "title": "Volkswagen weighs 100,000 layoffs in its largest-ever workforce overhaul",
-    "link": "https://hrexecutive.com/volkswagen-weighs-100000-layoffs-in-largest-ever-workforce-overhaul/",
-    "summary": "The German automaker is considering closing four German plants and surpassing earlier layoff targets as it reshapes operations. The post Volkswagen weighs 100,000 layoffs in its largest-ever workforce overhaul appeared first on HR Executive .",
-    "publishedAt": "2026-06-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-the-download-brain-melting-heatwaves-and-unprecedented-opena-1782475800000",
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
     "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -151,56 +238,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-bottom-line-impact-of-surging-toxic-cultures-1782477057000",
-    "title": "The bottom-line impact of surging toxic cultures",
-    "link": "https://hrexecutive.com/the-bottom-line-impact-of-surging-toxic-cultures/",
-    "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-    "publishedAt": "2026-06-26",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-stop-loss-costs-keep-climbing-gallagher-warns-1782476127000",
-    "title": "Stop-loss costs keep climbing, Gallagher warns",
-    "link": "https://hrexecutive.com/stop-loss-costs-keep-climbing-gallagher-warns/",
-    "summary": "\"In stop-loss, we're seeing average premium increases in the mid-teens, in some cases, above 20%,\" William Ziebell, the chief executive officer of Gallagher's employee benefits consulting and brokerage business said. The post Stop-loss costs keep climbing, Gallagher warns appeared first on HR Executive .",
-    "publishedAt": "2026-06-26",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-amid-benefits-rollbacks-employers-face-a-summer-challenge-1782475207000",
-    "title": "Amid benefits rollbacks, employers face a summer challenge",
-    "link": "https://hrexecutive.com/amid-benefits-rollbacks-employers-face-a-summer-challenge/",
-    "summary": "For the first time, both parents in two-parent households work full time, and they're feeling the squeeze. This expert says flexibility is key. The post Amid benefits rollbacks, employers face a summer challenge appeared first on HR Executive .",
-    "publishedAt": "2026-06-26",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-5-reasons-small-businesses-should-consider-ichras-for-health-1782474316000",
-    "title": "5 reasons small businesses should consider ICHRAs for health benefits",
-    "link": "https://hrexecutive.com/5-reasons-small-businesses-should-consider-ichras-for-health-benefits/",
-    "summary": "As employees expect more flexibility in coverage delivery, small businesses may want to consider the ICHRA. The post 5 reasons small businesses should consider ICHRAs for health benefits appeared first on HR Executive .",
-    "publishedAt": "2026-06-26",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-repositioning-retail-for-the-ai-era-1782397379000",
     "title": "Repositioning retail for the AI era",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
@@ -212,42 +249,6 @@ export const generatedNews: NewsItem[] = [
       "technology",
       "strategy",
       "ecommerce"
-    ]
-  },
-  {
-    "id": "news-the-download-europe-8217-s-heat-wave-hits-the-grid-and-ibm-8-1782389400000",
-    "title": "The Download: Europe&#8217;s heat wave hits the grid, and IBM&#8217;s chip targets Moore&#8217;s Law",
-    "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;",
-    "publishedAt": "2026-06-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-what-europe-s-heat-wave-means-for-the-power-grid-1782381600000",
-    "title": "What Europe’s heat wave means for the power grid",
-    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-    "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up&#8230;",
-    "publishedAt": "2026-06-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ibm-has-unveiled-chip-technology-that-could-help-extend-moor-1782381600000",
-    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;",
-    "publishedAt": "2026-06-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -674,6 +675,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134261",
+    "title": "Painter",
+    "company": "Ian Williams Ltd",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Our business is growing and so are the opportunities for you to thrive",
+      "We are currently looking for a skilled Painter and Decorator to join our successful Painting Plymouth business based in the Exeter area",
+      "You will specialise in carrying out Internal and External Decorations to our customers pro"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Exeter, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-painter-ian-williams-ltd-1134261",
+    "postedAt": "2026-06-29",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134232",
     "title": "AI Filmmaker",
     "company": "Foxelli Group",
@@ -765,4 +785,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-30T10:42:18.974Z';
+export const dataFetchedAt = '2026-06-30T18:23:54.811Z';
