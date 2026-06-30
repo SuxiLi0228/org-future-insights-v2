@@ -53,45 +53,9 @@ function stringify(obj: unknown, indent = 2): string {
 }
 
 function generateDashboardTs(snapshot: DashboardSnapshot): string {
-  const kpis = snapshot.kpis.map((kpi) => ({
-    id: kpi.id,
-    label: kpi.label,
-    value: kpi.value,
-    unit: kpi.unit,
-    change: kpi.change,
-    changeLabel: kpi.changeLabel,
-    color: kpi.color,
-    date: kpi.date,
-  }));
-
-  const trends = snapshot.trends.map((trend) => ({
-    label: trend.label,
-    data: trend.data.map((d) => ({ date: d.date, value: d.value })),
-  }));
-
-  const detailTables = snapshot.detailTables.map((table) => ({
-    id: table.id,
-    title: table.title,
-    emoji: table.emoji,
-    columns: table.columns,
-    rows: table.rows.map((row) => ({
-      indicator: row.indicator,
-      value: row.value,
-      yoyChange: row.yoyChange,
-      source: row.source,
-      impact: row.impact,
-    })),
-    hrInsight: table.hrInsight,
-  }));
-
   return `import { DashboardSnapshot } from '@/types';
 
-export const dashboardSnapshot: DashboardSnapshot = {
-  date: '${snapshot.date}',
-  kpis: ${stringify(kpis, 2).replace(/\n/g, '\n  ')},
-  trends: ${stringify(trends, 2).replace(/\n/g, '\n  ')},
-  detailTables: ${stringify(detailTables, 2).replace(/\n/g, '\n  ')},
-};
+export const dashboardSnapshot: DashboardSnapshot = ${stringify(snapshot, 2)};
 `;
 }
 
