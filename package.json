@@ -11,6 +11,7 @@
     "import-data": "tsx scripts/import-markdown.ts",
     "fetch-data": "tsx scripts/fetch-data.ts",
     "generate-report": "tsx scripts/generate-daily-report.ts",
+    "update:dashboard": "tsx scripts/update-dashboard.ts",
     "daily-update": "npm run fetch-data && npm run generate-report"
   },
   "dependencies": {
