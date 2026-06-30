@@ -1,11 +1,84 @@
 import { useState, useMemo } from 'react';
 import { motion } from 'framer-motion';
-import { Building2, ShoppingCart, Briefcase, MapPin, Sparkles, ExternalLink, Target, Users, TrendingUp, Linkedin, Globe } from 'lucide-react';
+import { Building2, ShoppingCart, Briefcase, MapPin, Sparkles, ExternalLink, Target, Users, TrendingUp, Linkedin, Globe, RefreshCw } from 'lucide-react';
 import { companyUpdates } from '@/data/companies';
 import { generatedJobs } from '@/data/generated/fetched-data';
 import type { CompanyUpdate, JobPosting } from '@/types';
 
 type PartKey = 'ai' | 'ecommerce' | 'hiring';
+
+// 前端实时刷新 RemoteOK 岗位用的 AI 关键词与技能匹配（与 scripts/fetchers/jobs.ts 保持一致）
+const AI_KEYWORDS = [
+  'ai', 'artificial intelligence', 'machine learning', 'ml', 'llm', 'large language model',
+  'generative ai', 'agent', 'algorithm', 'deep learning', 'recommendation', 'search', 'nlp',
+  'computer vision', 'data scientist', 'applied scientist', 'research scientist',
+];
+
+const SKILL_KEYWORDS = [
+  'Python', 'PyTorch', 'TensorFlow', 'LLM', 'RAG', 'Agent', 'Kubernetes', 'AWS', 'GCP', 'SQL',
+  'Spark', 'Hugging Face', 'OpenAI', 'LangChain', 'MLOps', 'Deep Learning', 'NLP', 'Computer Vision',
+];
+
+function isAiJob(title: string, description: string): { category: 'pure_ai' | 'hybrid_ai'; skills: string[] } {
+  const text = `${title} ${description}`.toLowerCase();
+  const matchedSkills = SKILL_KEYWORDS.filter((skill) => text.includes(skill.toLowerCase()));
+  const isPureAi =
+    text.includes('research scientist') ||
+    text.includes('research engineer') ||
+    text.includes('ai scientist') ||
+    text.includes('machine learning engineer') ||
+    text.includes('llm engineer');
+  return { category: isPureAi ? 'pure_ai' : 'hybrid_ai', skills: matchedSkills };
+}
+
+async function fetchRemoteOkJobs(): Promise<JobPosting[]> {
+  const response = await fetch('https://remoteok.com/api', {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; OrgFutureInsights/1.0)' },
+  });
+  if (!response.ok) throw new Error(`RemoteOK ${response.status}`);
+
+  const data = (await response.json()) as any[];
+  const jobs = data.slice(1);
+
+  const seen = new Set<string>();
+  return jobs
+    .filter((job) => job.position && job.company)
+    .map((job) => {
+      const title = job.position as string;
+      const description = (job.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+      const { category, skills } = isAiJob(title, description);
+      const postedAt = job.date ? new Date(job.date).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10);
+      return {
+        id: `job-remoteok-live-${job.id || Date.now()}-${Math.random().toString(36).slice(2, 7)}`,
+        title,
+        company: job.company as string,
+        category,
+        responsibilities: description
+          .split(/[.!?。！？]\s+/)
+          .map((s: string) => s.trim())
+          .filter((s: string) => s.length > 10 && s.length < 200)
+          .slice(0, 4),
+        skills,
+        location: job.location || 'Remote',
+        source: 'company_career' as const,
+        sourceUrl: (job.apply_url || job.url || '').toString(),
+        postedAt,
+        isNew: new Date().getTime() - new Date(postedAt).getTime() < 7 * 24 * 60 * 60 * 1000,
+      };
+    })
+    .filter((job) => {
+      const text = `${job.title} ${job.responsibilities.join(' ')}`.toLowerCase();
+      return AI_KEYWORDS.some((kw) => text.includes(kw.toLowerCase()));
+    })
+    .filter((job) => {
+      const key = `${job.company}-${job.title}`.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => b.postedAt.localeCompare(a.postedAt))
+    .slice(0, 30);
+}
 
 const sourceLabels: Record<JobPosting['source'], { label: string; color: string; icon: typeof Linkedin }> = {
   linkedin: { label: 'LinkedIn', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400', icon: Linkedin },
@@ -16,16 +89,43 @@ const sourceLabels: Record<JobPosting['source'], { label: string; color: string;
 
 export default function CompaniesPage() {
   const [activePart, setActivePart] = useState<PartKey>('ai');
+  const [liveJobs, setLiveJobs] = useState<JobPosting[] | null>(null);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [refreshError, setRefreshError] = useState<string | null>(null);
+  const [lastRefreshAt, setLastRefreshAt] = useState<string | null>(null);
 
   const aiCompanies = companyUpdates.filter((c) => c.category === 'ai');
   const ecommerceCompanies = companyUpdates.filter((c) => c.category === 'ecommerce');
 
-  // 合并静态岗位与自动抓取的岗位
+  const handleRefreshJobs = async () => {
+    setIsRefreshing(true);
+    setRefreshError(null);
+    try {
+      const jobs = await fetchRemoteOkJobs();
+      setLiveJobs(jobs);
+      setLastRefreshAt(
+        new Date().toLocaleString('zh-CN', {
+          timeZone: 'Asia/Shanghai',
+          month: '2-digit',
+          day: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit',
+        })
+      );
+    } catch (err) {
+      setRefreshError(err instanceof Error ? err.message : '刷新失败');
+    } finally {
+      setIsRefreshing(false);
+    }
+  };
+
+  // 合并静态岗位与自动抓取的岗位（优先使用实时刷新的数据）
   const hiringCompanies = useMemo(() => {
     const staticHiring = companyUpdates.filter((c) => c.jobPostings && c.jobPostings.length > 0);
+    const jobsToUse = liveJobs ?? generatedJobs;
 
     // 按公司名分组生成岗位
-    const generatedByCompany = generatedJobs.reduce<Record<string, JobPosting[]>>((acc, job) => {
+    const generatedByCompany = jobsToUse.reduce<Record<string, JobPosting[]>>((acc, job) => {
       const company = job.company || '其他公司';
       if (!acc[company]) acc[company] = [];
       acc[company].push(job);
@@ -57,7 +157,7 @@ export default function CompaniesPage() {
     }
 
     return merged;
-  }, []);
+  }, [liveJobs]);
 
   return (
     <div className="space-y-6">
@@ -101,7 +201,15 @@ export default function CompaniesPage() {
 
       {activePart === 'ai' && <AiCompaniesPart companies={aiCompanies} />}
       {activePart === 'ecommerce' && <EcommercePart companies={ecommerceCompanies} />}
-      {activePart === 'hiring' && <HiringPart companies={hiringCompanies} />}
+      {activePart === 'hiring' && (
+        <HiringPart
+          companies={hiringCompanies}
+          onRefresh={handleRefreshJobs}
+          isRefreshing={isRefreshing}
+          refreshError={refreshError}
+          lastRefreshAt={lastRefreshAt}
+        />
+      )}
     </div>
   );
 }
@@ -247,7 +355,19 @@ function LayerCard({
 }
 
 // ============== AI 招聘动态 ==============
-function HiringPart({ companies }: { companies: CompanyUpdate[] }) {
+function HiringPart({
+  companies,
+  onRefresh,
+  isRefreshing,
+  refreshError,
+  lastRefreshAt,
+}: {
+  companies: CompanyUpdate[];
+  onRefresh: () => void;
+  isRefreshing: boolean;
+  refreshError: string | null;
+  lastRefreshAt: string | null;
+}) {
   if (companies.length === 0) {
     return (
       <div className="rounded-xl border border-slate-200 bg-white p-12 text-center dark:border-surface-700 dark:bg-surface-800">
@@ -267,6 +387,25 @@ function HiringPart({ companies }: { companies: CompanyUpdate[] }) {
 
   return (
     <div className="space-y-4">
+      {/* Refresh control */}
+      <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-slate-200 bg-white p-4 dark:border-surface-700 dark:bg-surface-800">
+        <div>
+          <p className="text-sm font-medium text-slate-900 dark:text-slate-100">AI 招聘动态实时刷新</p>
+          <p className="text-xs text-slate-500 dark:text-slate-400">
+            {lastRefreshAt ? `上次刷新：${lastRefreshAt}` : '点击按钮从 RemoteOK 获取最新 AI 岗位'}
+          </p>
+          {refreshError && <p className="mt-1 text-xs text-red-600 dark:text-red-400">{refreshError}</p>}
+        </div>
+        <button
+          onClick={onRefresh}
+          disabled={isRefreshing}
+          className="flex items-center gap-1.5 rounded-lg bg-primary-600 px-3 py-2 text-sm font-medium text-white hover:bg-primary-700 disabled:opacity-60 disabled:cursor-not-allowed"
+        >
+          <RefreshCw size={14} className={isRefreshing ? 'animate-spin' : ''} />
+          {isRefreshing ? '刷新中...' : '刷新岗位'}
+        </button>
+      </div>
+
       {/* Summary Stats */}
       <div className="grid grid-cols-3 gap-3">
         <StatCard label="总岗位数" value={totalJobs} color="purple" />

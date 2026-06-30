@@ -150,7 +150,7 @@ export default function Layout() {
 
       {/* Main Content */}
       <main className="mx-auto max-w-7xl px-4 py-6">
-        <AnimatePresence mode="wait">
+        <AnimatePresence mode="popLayout" initial={false}>
           <motion.div
             key={location.pathname}
             initial={{ opacity: 0, y: 8 }}
