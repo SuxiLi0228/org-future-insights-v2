@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-claude-science-is-anthropic-s-newest-flagship-product-1782856204000",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+    "publishedAt": "2026-06-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-roundtables-longevity-8217-s-next-frontier-8220-reprogrammin-1782841008000",
     "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
     "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
@@ -235,20 +247,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-repositioning-retail-for-the-ai-era-1782397379000",
-    "title": "Repositioning retail for the AI era",
-    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
-    "publishedAt": "2026-06-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "strategy",
-      "ecommerce"
     ]
   }
 ];
@@ -785,4 +783,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-30T18:23:54.811Z';
+export const dataFetchedAt = '2026-06-30T23:54:04.386Z';
