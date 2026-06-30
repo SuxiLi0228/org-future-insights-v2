@@ -86,7 +86,7 @@ async function fetchFeed(feed: RssFeed): Promise<NewsItem[]> {
         const link = item.link || item.guid || '';
         const description = item.description || item.summary || '';
         const pubDate = item.pubDate || item.published || item.updated || new Date().toISOString();
-        const summary = description.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 300);
+        const summary = description.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 600);
 
         return {
           id: `news-${slugify(title)}-${new Date(pubDate).getTime()}`,

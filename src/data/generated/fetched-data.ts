@@ -5,7 +5,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ai-agents-are-not-your-8220-coworkers-8221-1782756000000",
     "title": "AI agents are not your &#8220;coworkers&#8221;",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
     "publishedAt": "2026-06-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -17,7 +17,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-agent-confidence-on-the-technical-frontier-1782744241000",
     "title": "Agent confidence on the technical frontier",
     "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
     "publishedAt": "2026-06-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -30,7 +30,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-the-download-metric-weaknesses-and-ai-elephant-warnings-1782735000000",
     "title": "The Download: metric weaknesses and AI elephant warnings",
     "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
     "publishedAt": "2026-06-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -42,7 +42,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ai-for-hr-professionals-how-to-build-an-ai-first-business-th-1782758775000",
     "title": "AI for HR Professionals: How to Build an AI-First Business That Empowers Employees",
     "link": "https://hrexecutive.com/ai-for-hr-professionals-how-to-build-an-ai-first-business-that-empowers-employees/",
-    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful busine",
+    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful business results. The post AI for HR Professionals: How to Build an AI-First Business That Empowers Employees appeared first on HR Executive .",
     "publishedAt": "2026-06-29",
     "source": "HR Executive",
     "tags": [
@@ -118,7 +118,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-the-download-brain-melting-heatwaves-and-unprecedented-opena-1782475800000",
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
     "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western&#8230;",
     "publishedAt": "2026-06-26",
     "source": "MIT Technology Review",
     "tags": [
@@ -130,7 +130,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-heat-waves-mess-with-your-brain-scientists-are-trying-to-fig-1782464400000",
     "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
     "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
+    "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in&#8230;",
     "publishedAt": "2026-06-26",
     "source": "MIT Technology Review",
     "tags": [
@@ -155,7 +155,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-stop-loss-costs-keep-climbing-gallagher-warns-1782476127000",
     "title": "Stop-loss costs keep climbing, Gallagher warns",
     "link": "https://hrexecutive.com/stop-loss-costs-keep-climbing-gallagher-warns/",
-    "summary": "\"In stop-loss, we're seeing average premium increases in the mid-teens, in some cases, above 20%,\" William Ziebell, the chief executive officer of Gallagher's employee benefits consulting and brokerage business said. The post Stop-loss costs keep climbing, Gallagher warns appeared first on HR Execut",
+    "summary": "\"In stop-loss, we're seeing average premium increases in the mid-teens, in some cases, above 20%,\" William Ziebell, the chief executive officer of Gallagher's employee benefits consulting and brokerage business said. The post Stop-loss costs keep climbing, Gallagher warns appeared first on HR Executive .",
     "publishedAt": "2026-06-26",
     "source": "HR Executive",
     "tags": [
@@ -192,7 +192,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-repositioning-retail-for-the-ai-era-1782397379000",
     "title": "Repositioning retail for the AI era",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
     "publishedAt": "2026-06-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -206,7 +206,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-the-download-europe-8217-s-heat-wave-hits-the-grid-and-ibm-8-1782389400000",
     "title": "The Download: Europe&#8217;s heat wave hits the grid, and IBM&#8217;s chip targets Moore&#8217;s Law",
     "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;",
     "publishedAt": "2026-06-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -218,7 +218,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-what-europe-s-heat-wave-means-for-the-power-grid-1782381600000",
     "title": "What Europe’s heat wave means for the power grid",
     "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-    "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
+    "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up&#8230;",
     "publishedAt": "2026-06-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -230,7 +230,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ibm-has-unveiled-chip-technology-that-could-help-extend-moor-1782381600000",
     "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
     "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co",
+    "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;",
     "publishedAt": "2026-06-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -242,7 +242,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-europe-s-extreme-heat-is-shutting-down-power-plants-1782314728000",
     "title": "Europe’s extreme heat is shutting down power plants",
     "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
+    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
     "publishedAt": "2026-06-24",
     "source": "MIT Technology Review",
     "tags": [
@@ -254,380 +254,420 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2606.28323v1",
-    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+    "id": "arxiv-2606.30645v1",
+    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
     "authors": [
-      "Dihong Huang",
-      "Zhenyu Wei",
-      "Zhuxiu Xu",
-      "Yunchao Yao",
-      "Sikai Li",
-      "Mingyu Ding"
+      "Yen-Jen Wang",
+      "Jiaman Li",
+      "Sirui Chen",
+      "Takara E. Truong",
+      "Pei Xu",
+      "Pieter Abbeel",
+      "Rocky Duan",
+      "Koushil Sreenath",
+      "Angjoo Kanazawa",
+      "Carmelo Sferrazza",
+      "Guanya Shi",
+      "Karen Liu"
     ],
-    "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference between preserving an existing manipulation outcome and executing a new one. We propos",
-    "link": "http://arxiv.org/abs/2606.28323v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to reconstruct metric-scale indoor environments, synthesizes navigation and object-interaction trajectories using privileged scene information, and renders paired egocentric observations after the fact. We produce 48,000 paired trajectories with no human intervention and train a VLK policy that predicts",
+    "link": "http://arxiv.org/abs/2606.30645v1",
+    "publishedAt": "2026-06-29",
     "categories": [
       "cs.RO",
       "cs.AI",
-      "cs.CV",
-      "cs.LG"
+      "cs.GR",
+      "eess.SY"
     ]
   },
   {
-    "id": "arxiv-2606.28309v1",
-    "title": "Surprises in Proper Positive-Only Learning",
+    "id": "arxiv-2606.30642v1",
+    "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
     "authors": [
-      "Shai Ben-David",
-      "Farnam Mansouri",
-      "Anay Mehrotra",
-      "Manolis Zampetakis"
+      "Shun Lei",
+      "Huaicheng Zhang",
+      "Dapeng Wu",
+      "Yaoxun Xu",
+      "Lishi Zuo",
+      "Wei Tan",
+      "Hangting Chen",
+      "Guangzheng Li",
+      "Jianwei Yu",
+      "Zhiyong Wu",
+      "Dong Yu"
     ],
-    "summary": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original distribution (which places mass on both positive and negative regions). This model dates back to Natarajan [1987, STOC], and the characterization of improper learning is well-known -- it",
-    "link": "http://arxiv.org/abs/2606.28309v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-length song generation. LeVo 2 formulates this trade-off as hierarchical modeling: LeLM first predicts mixed tokens for semantic planning, then predicts vocal and accompaniment tokens in parallel for track-specific refinement, while a diffusion-based Music Codec reconstructs full-length waveforms. A ce",
+    "link": "http://arxiv.org/abs/2606.30642v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "stat.ML",
-      "cs.LG",
-      "math.ST"
+      "cs.SD",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.28308v1",
-    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+    "id": "arxiv-2606.30639v1",
+    "title": "Self-Evolving World Models for LLM Agent Planning",
     "authors": [
-      "Luis Leal"
+      "Xuan Zhang",
+      "Wenxuan Zhang",
+      "See-Kiong Ng",
+      "Yang Deng"
     ],
-    "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different members of the Nash set, systematically as a function of the algorithm rather tha",
-    "link": "http://arxiv.org/abs/2606.28308v1",
-    "publishedAt": "2026-06-26",
+    "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits real action transitions through retrieval-based simulation; (ii) Semantic Memory, which extracts persistent heuristic rules from prediction-observation mismatches; and (iii) Selective Foresight, which filters low-confidence predictions before integrating them into agent reasoning context. We evalua",
+    "link": "http://arxiv.org/abs/2606.30639v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "cs.GT",
       "cs.AI",
-      "cs.LG",
-      "cs.MA"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2606.28307v1",
-    "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+    "id": "arxiv-2606.30634v1",
+    "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
     "authors": [
-      "Shuang Li",
-      "Zhihui Zhu",
-      "Qiuwei Li"
+      "Philip Zmushko",
+      "Egor Petrov",
+      "Nursultan Abdullaev",
+      "Mikhail Khrushchev",
+      "Samuel Horváth"
     ],
-    "summary": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bregman kernel. This setting covers polynomial objectives arising in matrix and tensor models for which a global Lipschitz-gradient constant need not exist. We show that on an invariant ",
-    "link": "http://arxiv.org/abs/2606.28307v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. However, its adoption remains limited due to the common belief that optimizing under staleness is fundamentally unstable. In this work, we challenge this assumption, demonstrating that degradation under one-step delay depends strongly on optimizer choice rather than being an intrinsic limitation. We pro",
+    "link": "http://arxiv.org/abs/2606.30634v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "math.OC",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.28301v1",
-    "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+    "id": "arxiv-2606.30632v1",
+    "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
     "authors": [
-      "Kijung Jeon",
-      "Thuy-Duong Vuong",
-      "Molei Tao"
+      "Yuhong Deng",
+      "Yuyao Liu",
+      "David Hsu"
     ],
-    "summary": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and introduce MDM-VGB, a discrete diffusion sampler that augments unmasking generation with theoretically principled reward-guided remasking. Inspired by the recent success of the classical ",
-    "link": "http://arxiv.org/abs/2606.28301v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchically into semantic and geometric levels, thus bypassing the need for data-heavy, end-to-end training. Semantically, GROW$^2$ harnesses the commonsense reasoning of Vision-Language Models (VLMs) to parse a natural-language task instruction, select a suitable object as the tool, and identify task-rele",
+    "link": "http://arxiv.org/abs/2606.30632v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30627v1",
+    "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+    "authors": [
+      "Subramanyam Sahoo",
+      "Aman Chadha",
+      "Vinija Jain",
+      "Divya Chaudhary"
+    ],
+    "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\times$\\,Qwen3-1.7B) while measuring true performance on GSM8K exact-answer accuracy. We find that \\emph{higher offline conservatism monotonically increases reward-hacking damage}, measured by the Goodhar",
+    "link": "http://arxiv.org/abs/2606.30627v1",
+    "publishedAt": "2026-06-29",
     "categories": [
       "cs.LG",
-      "cs.DS",
-      "math.NA",
-      "math.PR",
+      "cs.AI",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2606.28294v1",
-    "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+    "id": "arxiv-2606.30626v1",
+    "title": "DOPD: Dual On-policy Distillation",
     "authors": [
-      "Kevin Kingslin",
-      "Anish Natekar",
-      "Ashutosh Ranjan",
-      "Vivek Srivastava",
-      "Savita Bhat",
-      "Shirish Karande"
+      "Xinlei Yu",
+      "Gen Li",
+      "Qingyi Si",
+      "Guibin Zhang",
+      "Yuqi Xu",
+      "Congcong Wang",
+      "Shuai Dong",
+      "Kaiwen Tuo",
+      "Xiangyu Zeng",
+      "Kaituo Feng",
+      "Qunzhong Wang",
+      "Yang Shi",
+      "Xiaobin Hu",
+      "Xiangyu Yue",
+      "Jiaqi Wang",
+      "Shuicheng Yan"
     ],
-    "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, b",
-    "link": "http://arxiv.org/abs/2606.28294v1",
-    "publishedAt": "2026-06-26",
+    "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that students are meant to close, and the information asymmetry gap that can only be mimicked but never replicated. This issue is further amplified by the inherent non-uniformity of token-level supervision, where only a small subset of tokens carries pivotal capability-bearing signals. To this end, we propose ",
+    "link": "http://arxiv.org/abs/2606.30626v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28287v1",
-    "title": "Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks",
-    "authors": [
-      "Phong Dang",
-      "Evander Espinoza",
-      "Xiaoliang Wan",
-      "Michela Negro",
-      "Jerry P. Draayer",
-      "Feng Pan",
-      "Tomas Dytrych",
-      "Daniel Langr",
-      "David Kekejian"
-    ],
-    "summary": "Ab initio modeling has established Wigner's SU(4) and Elliott's SU(3) as dominant symmetries of the nuclear force in light and intermediate-mass nuclei. We ask whether they also govern nuclear binding across the entire chart. Our aim is not high-precision prediction but physical insight, through interpretable, symmetry-based models. From the SU(3) and SU(4) Casimir operators we construct three neu",
-    "link": "http://arxiv.org/abs/2606.28287v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "nucl-th",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28281v1",
-    "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
-    "authors": [
-      "Domagoj Herceg"
-    ],
-    "summary": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Such losses are unbounded, non-Lipschitz , and lead to response-dependent Chernoff terms. We employ System Level Synthesis parameterization, which exposes the closed-loop trajectory map ",
-    "link": "http://arxiv.org/abs/2606.28281v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "eess.SY",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28279v1",
-    "title": "Agentic Hardware Design as Repository-Level Code Evolution",
-    "authors": [
-      "Cunxi Yu",
-      "Chenhui Deng",
-      "Nathaniel Pinckney",
-      "Brucek Khailany"
-    ],
-    "summary": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and re",
-    "link": "http://arxiv.org/abs/2606.28279v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "cs.AR",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.28277v1",
-    "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+    "id": "arxiv-2606.30625v1",
+    "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
     "authors": [
-      "Rajesh Jayaram",
-      "Drew Tyler",
-      "David Woodruff",
-      "Corinna Cortes",
-      "Yossi Matias",
-      "Vahab Mirrokni",
-      "Vincent Cohen-Addad"
+      "Ziwei Su",
+      "Junyu Ren",
+      "Victor Veitch"
     ],
-    "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assisted science. Ultimately, to resolve this tension, we must also deploy AI to accelerate the verificatio",
-    "link": "http://arxiv.org/abs/2606.28277v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics, we derive an analytic formula demonstrating that embedding length naturally encodes this information as a byproduct of the training process. We also show how this gives rise to signals that can serve as \"free\" calibration tools in specific models and retrieval tasks, providing a grounded explanati",
+    "link": "http://arxiv.org/abs/2606.30625v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "cs.LG",
+      "stat.ML",
       "cs.AI",
-      "cs.CL",
-      "cs.CY"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28274v1",
-    "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
-    "authors": [
-      "Abdolazim Rezaei",
-      "Mehdi Sookhak",
-      "Mahboobeh Haghparast"
-    ],
-    "summary": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This paper introduces the Parameter-Efficient Hybrid Transformer (PEHT), a network traffic prediction framework",
-    "link": "http://arxiv.org/abs/2606.28274v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
       "cs.LG",
-      "cs.AI"
+      "math.OC"
     ]
   },
   {
-    "id": "arxiv-2606.28273v1",
-    "title": "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",
+    "id": "arxiv-2606.30616v1",
+    "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
     "authors": [
-      "Niclas Lietzow",
-      "Danielle Bitterman",
-      "Carsten Eickhoff",
-      "William Rudman",
-      "Michal Golovanevsky"
+      "Lei Bai",
+      "Zongsheng Cao",
+      "Yang Chen",
+      "Zhiyao Cui",
+      "Shangheng Du",
+      "Yue Fan",
+      "Shiyang Feng",
+      "Zijie Guo",
+      "Haonan He",
+      "Liang He",
+      "Xiaohan He",
+      "Shuyue Hu",
+      "Yusong Hu",
+      "Songtao Huang",
+      "Yichen Jiang",
+      "Hao Li",
+      "Xin Li",
+      "Dahua Lin",
+      "Weihao Lin",
+      "Fenghua Ling",
+      "Dongrui Liu",
+      "Zhuo Liu",
+      "Runmin Ma",
+      "Chunjiang Mu",
+      "Haoyang Peng",
+      "Tianshuo Peng",
+      "Jinxin Shi",
+      "Luohe Shi",
+      "Boyuan Sun",
+      "Zelin Tan",
+      "Shengji Tang",
+      "Qianyi Wang",
+      "Yiming Wu",
+      "Yi Xie",
+      "Xiangchao Yan",
+      "Jingqi Ye",
+      "Peng Ye",
+      "Fangchen Yu",
+      "Jiakang Yuan",
+      "Bihao Zhan",
+      "Bo Zhang",
+      "Chen Zhang",
+      "Shufei Zhang",
+      "Shuaiyu Zhang",
+      "Wenlong Zhang",
+      "Yiqun Zhang",
+      "Junpeng Zhao",
+      "Zhijie Zhong",
+      "Bowen Zhou",
+      "Yuhao Zhou"
     ],
-    "summary": "Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work characterizes it behaviorally without a component-level causal account. We combine activation patching across three granularities (residual stream, attention heads, and MLP sublayers) with model-compo",
-    "link": "http://arxiv.org/abs/2606.28273v1",
-    "publishedAt": "2026-06-26",
+    "summary": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspectives: scaling long-horizon trajectories and scaling heterogeneous agent abilities. To support this goal, we build a long-horizon knowledge-action infrastructure that connects external knowledge, actions, observations, and verifier outcomes, producing agentic trajectories with an average length of 45K tokens. Based on this, we train Agents-A1 with a three-stage recipe. First, we perform full-domain supervised fine-tuning to align the base model with broad agentic behaviors. Second, we train domain-level teacher models to capture specialized expertise in each domain. Third, we propose a multi-teach",
+    "link": "http://arxiv.org/abs/2606.30616v1",
+    "publishedAt": "2026-06-29",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2606.28270v1",
-    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+    "id": "arxiv-2606.30609v1",
+    "title": "C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders",
     "authors": [
-      "Bo Shen",
-      "Lifeng Chang",
-      "Tianyuan Wei",
-      "Yunpeng Li",
-      "Feng Shi",
-      "Yichen Han",
-      "Peijie Gao",
-      "Shiyi Kuang",
-      "Xin Chang",
-      "Dehui Li"
+      "Haoran Jin",
+      "Xiting Wang",
+      "Shijie Ren",
+      "Hong Xie",
+      "Defu Lian"
     ],
-    "summary": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly",
-    "link": "http://arxiv.org/abs/2606.28270v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Sparse Autoencoders (SAEs) are widely used to interpret large language models by decomposing activations into sparse, human-understandable features, but scaling to large dictionaries exposes fundamental challenges. Systematic studies reveal pervasive feature splitting that fragments coherent concepts into non-atomic latents and widespread feature absorption that creates arbitrary exceptions in general features, severely compromising latent reliability. These issues stem from inconsistent latent assignment across samples: without cross-sample constraints, per-sample optimization often allows a single underlying concept to be inconsistently distributed across multiple redundant or interfering latents. To address this, we introduce C$^2$R (\\underline{\\textbf{C}}ross-sample \\underline{\\textbf{",
+    "link": "http://arxiv.org/abs/2606.30609v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "cs.AI",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28268v1",
-    "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
-    "authors": [
-      "Ali Zia",
-      "Usman Ali",
-      "Abdul Rehman",
-      "Umer Ramzan",
-      "Kang Han",
-      "Muhammad Faheem",
-      "Shahnawaz Qureshi",
-      "Wei Xiang"
-    ],
-    "summary": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat",
-    "link": "http://arxiv.org/abs/2606.28268v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "cs.CV",
+      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2606.28252v1",
-    "title": "Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection",
+    "id": "arxiv-2606.30602v1",
+    "title": "MESA: Prioritizing Vulnerable Communication Channels for Securing Multi-Agent Systems",
     "authors": [
-      "Akshay Bhagwan Sonawane",
-      "Sophie Choe",
-      "Lakshman Tamil"
+      "Kunyang Li",
+      "Kyle Domico",
+      "Jonathan Gregory",
+      "Patrick McDaniel"
     ],
-    "summary": "Early detection of oral cancer markedly improves clinical outcomes, yet specialized diagnostic tools remain scarce in low-resource settings. Smartphone-based screening is a scalable alternative but needs lightweight models that run within edge-hardware constraints. Hybrid classical-quantum architectures are emerging candidates for parameter-efficient learning, yet most rely on qubit hardware that ",
-    "link": "http://arxiv.org/abs/2606.28252v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Multi-agent systems (MAS) are increasingly used to automate complex, distributed workflows. However, their inter-agent communication channels introduce new attack surfaces that remain poorly understood and are difficult to defend against. In this paper, we address how defenders should prioritize limited security effort to protect vulnerable communication channels before attacks are observed. This is motivated by our observation that the channel-level attack impact is highly non-uniform: a single compromised edge can account for up to 75% of total attack success. We introduce Mesa, a label-free framework for proactively ranking which MAS edges are most security-critical -- that is, most likely to affect the system's decision if compromised. Mesa combines six graph-theoretic metrics and two ",
+    "link": "http://arxiv.org/abs/2606.30602v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "quant-ph",
+      "cs.CR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30595v1",
+    "title": "Wireless Backdoor Attack and Defense for Semantic Communications over Multiple Access Channel",
+    "authors": [
+      "Yalin E. Sagduyu",
+      "Tugba Erpek",
+      "Aylin Yener",
+      "Sennur Ulukus"
+    ],
+    "summary": "Semantic communication (SemCom) aims to preserve semantic meaning and task-oriented information beyond conventional message recovery over wireless channels. The adoption of SemCom in shared-access wireless networks introduces new vulnerabilities for multi-user semantic inference. This paper considers a SemCom system for two transmitters communicating with a common receiver over a multiple access channel. Each transmitter maps source information into latent semantic representations, while the receiver jointly reconstructs and classifies the semantic information for both transmitters. A selective over-the-air backdoor (Trojan) attack is presented in which an adversary transmits a low-power trigger waveform over the air and injects it into the shared received signal during training. By transm",
+    "link": "http://arxiv.org/abs/2606.30595v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.NI",
+      "cs.CR",
+      "cs.IT",
+      "cs.LG",
+      "eess.SP"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30587v1",
+    "title": "Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection",
+    "authors": [
+      "Asif Shahriar",
+      "Hongyu Cai",
+      "Hadjer Benkraouda",
+      "Gang Wang",
+      "Z. Berkay Celik"
+    ],
+    "summary": "Researchers and practitioners increasingly apply Large Language Models (LLMs) for automated vulnerability detection. Recent work has shown that LLMs are susceptible to the same cognitive heuristics that bias human judgment. Yet, no work has investigated whether these heuristics affect a model's assessment of code vulnerabilities. In this paper, we present the first systematic exploration of cognitive heuristics in LLM-driven code vulnerability detection. We introduce a controlled framework that holds the code fixed and only varies the surrounding context to trigger three cognitive heuristics: the halo effect through author attribution, the framing effect through task objectives and consequences, and the anchoring effect through prior analysis results. Within this framework, we evaluate eig",
+    "link": "http://arxiv.org/abs/2606.30587v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30586v1",
+    "title": "A Hybrid Framework For Crypto-Ransomware Detection In Enterprise Shared Storage",
+    "authors": [
+      "Gervais Hatungimana",
+      "Abdun Naser Mahmood",
+      "Mohammad Jabed Morshed Chowdhury"
+    ],
+    "summary": "Most corporate workplace environments enforce policies and technical controls that limit the storage of sensitive data on client endpoints. Consequently, ransomware operators have evolved variants that expand their attack surface from local systems to network drives and shared storage resources. As traditional endpoint detection mechanisms focus primarily on local system behaviour, a compromised client can impact remote file servers, such as by encrypting shared data, without directly triggering behavioural changes on the servers themselves. In this paper, we propose a hybrid detection framework for detecting crypto-ransomware intrusion within integrated file server and client environments. The framework is based on a new technique referred to as Region of Interest (RoI) to analyse network",
+    "link": "http://arxiv.org/abs/2606.30586v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.CR",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.28249v1",
-    "title": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
+    "id": "arxiv-2606.30578v1",
+    "title": "Uncertainty-Aware Generation and Decision-Making Under Ambiguity",
     "authors": [
-      "Sihang Nie",
-      "Xiaofen Xing",
-      "Rui Xing",
-      "Haoming Li",
-      "Ruitong Xiao",
-      "Jingyuan Xing",
-      "Baiji Liu",
-      "Xiangmin Xu"
+      "Nico Daheim",
+      "Iryna Gurevych"
     ],
-    "summary": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically averaged prosody, limiting emotional expressiveness. While preference-driven optimization offers a promising alternative, existing approaches suffer from two structural mismatches: information conflict, w",
-    "link": "http://arxiv.org/abs/2606.28249v1",
-    "publishedAt": "2026-06-26",
+    "summary": "With rapidly improving capabilities, Large Language Models (LLMs) are increasingly used in many complex real-world tasks. Beyond requiring in-depth knowledge and reasoning skills, many of these tasks exhibit a high degree of subjectivity and require that the outputs of the model can be trusted. While a lot of progress has been made to train better models, decision-making algorithms have received less attention. In this work, we present and evaluate various uncertainty-aware decision-making algorithms based on Bayesian decision theory and risk-averse decision making on the tasks of tutoring and automatic peer reviewing. Concretely, we take uncertainty over tutoring strategies and review scores into account when generating a tutor response or review and use conformal prediction to provide gu",
+    "link": "http://arxiv.org/abs/2606.30578v1",
+    "publishedAt": "2026-06-29",
     "categories": [
-      "eess.AS",
       "cs.CL",
-      "cs.SD"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2606.28242v1",
-    "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+    "id": "arxiv-2606.30576v1",
+    "title": "Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization",
     "authors": [
-      "Julius Girardin",
-      "Emanuele Troiani",
-      "Yizhou Xu",
-      "Vittorio Erba",
-      "Florent Krzakala",
-      "Lenka Zdeborová"
+      "Liyao Wang",
+      "Ruipu Wu",
+      "Haojun Xu",
+      "Lei Shi",
+      "Linjiang Huang",
+      "Si Liu"
     ],
-    "summary": "Understanding how performance scales jointly with model size and data is a central problem in modern machine learning. Existing theoretical works on scaling laws typically describe generalization as a function of data or compute, often in fixed-feature or infinite-width regimes and for online SGD. Here, we instead study how generalization scales with the number of trainable parameters and the numb",
-    "link": "http://arxiv.org/abs/2606.28242v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "cs.LG",
-      "cond-mat.dis-nn",
-      "cs.AI",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28235v1",
-    "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
-    "authors": [
-      "Daniel Russo"
-    ],
-    "summary": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate problems no single contribution accounts for. We ask whether this problem belongs to the individual age",
-    "link": "http://arxiv.org/abs/2606.28235v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "cs.SE",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28228v1",
-    "title": "Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts",
-    "authors": [
-      "Yuanyuan Wang",
-      "Wenjie Wang",
-      "Haoxuan Li",
-      "Mingming Gong",
-      "Kun Zhang"
-    ],
-    "summary": "Causal representation learning for time series has developed strong identifiability results in discrete-time latent causal models, but identifiability in continuous-time latent stochastic differential equation (SDE) models remains largely open. We address this gap using environment-induced shifts in diffusion covariance. We study additive-noise latent SDEs observed through an unknown nonlinear dif",
-    "link": "http://arxiv.org/abs/2606.28228v1",
-    "publishedAt": "2026-06-26",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2606.28226v1",
-    "title": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
-    "authors": [
-      "Guanbo Huang",
-      "Jingjia Mao",
-      "Fanding Huang",
-      "Fengkai Liu",
-      "Xiangyang Luo",
-      "Yaoyuan Liang",
-      "Jiasheng Lu",
-      "Xiaoe Wang",
-      "Pei Liu",
-      "Ruiliu Fu",
-      "Ruqi Huang",
-      "Shao-Lun Huang"
-    ],
-    "summary": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inherently contains dynamic signals that can guide its own rectification. To leverage this, we introduc",
-    "link": "http://arxiv.org/abs/2606.28226v1",
-    "publishedAt": "2026-06-26",
+    "summary": "Cross-view object geo-localization (CVOGL) aims to locate a target object from a query view (e.g., ground or drone) within a geo-tagged reference image (e.g., satellite). Existing approaches heavily rely on 2D appearance matching and are constrained by limited datasets lacking geometric metadata, diverse prompts, and standard field-of-view imagery. To address these intertwined challenges, we first introduce \\dataset, a large-scale, high-fidelity building dataset comprising over 220,000 ground-satellite and drone-satellite pairs. It provides multi-modal prompts (points, boxes, masks) and camera poses to enable flexible target referring and explicit spatial modeling. Furthermore, we propose a novel single-stage Geometry-Aware Geo-localization framework (GAGeo), built upon the permutation-equ",
+    "link": "http://arxiv.org/abs/2606.30576v1",
+    "publishedAt": "2026-06-29",
     "categories": [
       "cs.CV",
       "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30574v1",
+    "title": "The Fundamental Limits of Valid Transport Map Estimation",
+    "authors": [
+      "Sivaraman Balakrishnan"
+    ],
+    "summary": "Many modern generative modeling methods, including diffusion models, normalizing flows, and flow matching, estimate transport maps or plans between distributions without explicitly targeting an optimal transport (OT) map. In applications like generative modeling, the transport cost itself is irrelevant, and this makes it natural to target maps which are more tractable from either a statistical or computational standpoint. In this short note, we formalize the task of estimating any valid transport map in a rigorous minimax framework. One consequence of this framing is that it yields sample complexity lower bounds for any method whose learned object is evaluated as a transport map or plan, including flow matching and diffusion-based generative models, in settings where direct analysis would ",
+    "link": "http://arxiv.org/abs/2606.30574v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.LG",
+      "math.ST",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30573v1",
+    "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+    "authors": [
+      "Mohit Raghavendra",
+      "Anisha Gunjal",
+      "Aakash Sabharwal",
+      "Yunzhong He"
+    ],
+    "summary": "We introduce SWE-Interact, a new testbed for evaluating coding agents on multi-turn, interactive, user-driven software engineering tasks. Existing frontier SWE benchmarks typically provide complete requirements upfront and evaluate agents on autonomous implementation. In contrast, SWE-Interact places agents in a realistic developer workflow: a carefully designed user simulator starts with vague or incomplete instructions, progressively reveals requirements, inspects the agent's workspace, and provides targeted feedback, revisions, and new constraints until the full task goal has been handed off. Grounded in large-scale studies of real coding-agent interactions, this setup tests whether agents can discover user intent, adapt to evolving requirements, and build on their own prior work. Acros",
+    "link": "http://arxiv.org/abs/2606.30573v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30572v1",
+    "title": "A Multi-task Mixture of Experts Framework for Malware Classification, Packing Detection, and Family Attribution",
+    "authors": [
+      "Jithin S.",
+      "Roshin Sleeba C.",
+      "Anvin Mariya P. B.",
+      "Asmitha K. A.",
+      "Vinod P.",
+      "Serena Nicolazzo",
+      "Antonino Nocera"
+    ],
+    "summary": "Malware classification remains a challenging problem due to its inherent heterogeneity, the presence of packed binaries, and the diverse distribution of malware families. Traditional single-model detection mechanisms often fail to generalize across such diverse data, leading to degraded performance, particularly on obfuscated and rare malware samples. In this work, we propose a unified multi-task malware analysis framework based on Mixture of Experts (MoE) architectures. The proposed system evaluates performance across two different input representations, i.e., high-dimensional EMBER feature sets and raw 1D byte arrays extracted from Portable Executable files. It simultaneously performs three critical tasks: malware family classification, packed versus unpacked detection, and malware versu",
+    "link": "http://arxiv.org/abs/2606.30572v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2606.30571v1",
+    "title": "Attractor States Emerge in Multi-Turn LLM Conversations",
+    "authors": [
+      "Ting-Wen Ko",
+      "Jonas Geiping"
+    ],
+    "summary": "Large language models (LLMs) are increasingly used in open-ended multi-agent settings, but the long-run dynamics of model--model interaction remain poorly understood. We study whether open-ended LLM discussions exhibit attractor-like behavior, i.e. topic-independent stable sets of behaviors which conversations settle into. Across 7 LLMs and 20 controversial topics, we compare self-play and mixed-play dyadic debates, tracking trajectories in representation space, discourse traits, and stances. We find self-play trajectories to be model-specific attractors that draw their conversation partners asymmetrically in mixed-play debates, influencing the other models' stylistic choices and behavior. For example, Claude Haiku is a strong attractor of other models in latent space, corresponding to oth",
+    "link": "http://arxiv.org/abs/2606.30571v1",
+    "publishedAt": "2026-06-29",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
     ]
   }
 ];
@@ -725,4 +765,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-06-29T20:32:46.851Z';
+export const dataFetchedAt = '2026-06-30T07:32:20.356Z';

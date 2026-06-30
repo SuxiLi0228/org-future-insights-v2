@@ -71,6 +71,7 @@ function generateSignals(): Signal[] {
       relatedCompanies: [],
       sourceType: inferSourceType(news.source),
       sourceName: news.source,
+      link: news.link,
     });
   }
 
@@ -88,6 +89,7 @@ function generateSignals(): Signal[] {
       relatedCompanies: [],
       sourceType: 'academic',
       sourceName: 'arXiv',
+      link: topPaper.link,
     });
   }
 
@@ -105,6 +107,7 @@ function generateSignals(): Signal[] {
       relatedCompanies: topJob.company ? [topJob.company] : [],
       sourceType: 'tech',
       sourceName: topJob.company || 'Company Career',
+      link: topJob.sourceUrl,
     });
   }
 

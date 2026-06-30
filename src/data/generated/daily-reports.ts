@@ -11,8 +11,8 @@ export const generatedDailyReports: DailyReport[] = [
         "id": "sig-2026-06-30-auto-1",
         "emoji": "⚠️",
         "title": "AI agents are not your &#8220;coworkers&#8221;",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
-        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
         "priority": "medium",
         "tags": [
           "ai",
@@ -20,14 +20,15 @@ export const generatedDailyReports: DailyReport[] = [
         ],
         "relatedCompanies": [],
         "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
       },
       {
         "id": "sig-2026-06-30-auto-2",
         "emoji": "🚨",
         "title": "Agent confidence on the technical frontier",
-        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
-        "detail": "来源: MIT Technology Review。Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+        "detail": "来源: MIT Technology Review。Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
         "priority": "high",
         "tags": [
           "ai",
@@ -36,21 +37,23 @@ export const generatedDailyReports: DailyReport[] = [
         ],
         "relatedCompanies": [],
         "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
       },
       {
         "id": "sig-2026-06-30-auto-3",
         "emoji": "⚠️",
         "title": "The Download: metric weaknesses and AI elephant warnings",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
-        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
         "priority": "medium",
         "tags": [
           "ai"
         ],
         "relatedCompanies": [],
         "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
       }
     ],
     "actionPlan": [
@@ -87,347 +90,6 @@ export const generatedDailyReports: DailyReport[] = [
     },
     "content": "本报告由自动化脚本于 2026-06-30 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
     "fetchWindow": "2026-06-30 00:00 - 2026-06-30 23:59"
-  },
-  {
-    "id": "report-2026-06-29-auto",
-    "date": "2026-06-29",
-    "session": "auto",
-    "title": "2026-06-29 自动日报 · AI 与 HR 情报聚合",
-    "signals": [
-      {
-        "id": "sig-2026-06-29-auto-1",
-        "emoji": "⚠️",
-        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "priority": "medium",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-29-auto-2",
-        "emoji": "💡",
-        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "detail": "来源: MIT Technology Review。It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "priority": "low",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-29-auto-3",
-        "emoji": "🚨",
-        "title": "The bottom-line impact of surging toxic cultures",
-        "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "detail": "来源: HR Executive。Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "priority": "high",
-        "tags": [
-          "ai-hr",
-          "organization"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "hr_media",
-        "sourceName": "HR Executive"
-      }
-    ],
-    "actionPlan": [
-      {
-        "id": "action-2026-06-29-1",
-        "priority": "medium",
-        "action": "关注「The Download: brain-melting heatwaves an」对 HR 组织人才的影响",
-        "timeWindow": "两周内",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-29-2",
-        "priority": "low",
-        "action": "关注「Heat waves mess with your brain. Scienti」对 HR 组织人才的影响",
-        "timeWindow": "持续关注",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-29-3",
-        "priority": "high",
-        "action": "关注「The bottom-line impact of surging toxic 」对 HR 组织人才的影响",
-        "timeWindow": "本周内",
-        "basis": "HR Executive"
-      }
-    ],
-    "sourceCoverage": {
-      "total": 44,
-      "types": [
-        "tech",
-        "academic"
-      ],
-      "baseline": 5,
-      "passed": true
-    },
-    "content": "本报告由自动化脚本于 2026-06-29 生成，聚合了 20 条新闻、20 篇论文、4 个岗位。",
-    "fetchWindow": "2026-06-29 00:00 - 2026-06-29 23:59"
-  },
-  {
-    "id": "report-2026-06-28-auto",
-    "date": "2026-06-28",
-    "session": "auto",
-    "title": "2026-06-28 自动日报 · AI 与 HR 情报聚合",
-    "signals": [
-      {
-        "id": "sig-2026-06-28-auto-1",
-        "emoji": "⚠️",
-        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "priority": "medium",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-28-auto-2",
-        "emoji": "💡",
-        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "detail": "来源: MIT Technology Review。It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "priority": "low",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-28-auto-3",
-        "emoji": "🚨",
-        "title": "The bottom-line impact of surging toxic cultures",
-        "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "detail": "来源: HR Executive。Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "priority": "high",
-        "tags": [
-          "ai-hr",
-          "organization"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "hr_media",
-        "sourceName": "HR Executive"
-      }
-    ],
-    "actionPlan": [
-      {
-        "id": "action-2026-06-28-1",
-        "priority": "medium",
-        "action": "关注「The Download: brain-melting heatwaves an」对 HR 组织人才的影响",
-        "timeWindow": "两周内",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-28-2",
-        "priority": "low",
-        "action": "关注「Heat waves mess with your brain. Scienti」对 HR 组织人才的影响",
-        "timeWindow": "持续关注",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-28-3",
-        "priority": "high",
-        "action": "关注「The bottom-line impact of surging toxic 」对 HR 组织人才的影响",
-        "timeWindow": "本周内",
-        "basis": "HR Executive"
-      }
-    ],
-    "sourceCoverage": {
-      "total": 46,
-      "types": [
-        "tech",
-        "academic"
-      ],
-      "baseline": 5,
-      "passed": true
-    },
-    "content": "本报告由自动化脚本于 2026-06-28 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
-    "fetchWindow": "2026-06-28 00:00 - 2026-06-28 23:59"
-  },
-  {
-    "id": "report-2026-06-27-auto",
-    "date": "2026-06-27",
-    "session": "auto",
-    "title": "2026-06-27 自动日报 · AI 与 HR 情报聚合",
-    "signals": [
-      {
-        "id": "sig-2026-06-27-auto-1",
-        "emoji": "⚠️",
-        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-        "priority": "medium",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-27-auto-2",
-        "emoji": "💡",
-        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "detail": "来源: MIT Technology Review。It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-        "priority": "low",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-27-auto-3",
-        "emoji": "🚨",
-        "title": "The bottom-line impact of surging toxic cultures",
-        "summary": "Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "detail": "来源: HR Executive。Businessolver research finds executives in toxic organizations are more likely to report financial growth, but warns mounting workplace risks may threaten long-term performance. The post The bottom-line impact of surging toxic cultures appeared first on HR Executive .",
-        "priority": "high",
-        "tags": [
-          "ai-hr",
-          "organization"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "hr_media",
-        "sourceName": "HR Executive"
-      }
-    ],
-    "actionPlan": [
-      {
-        "id": "action-2026-06-27-1",
-        "priority": "medium",
-        "action": "关注「The Download: brain-melting heatwaves an」对 HR 组织人才的影响",
-        "timeWindow": "两周内",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-27-2",
-        "priority": "low",
-        "action": "关注「Heat waves mess with your brain. Scienti」对 HR 组织人才的影响",
-        "timeWindow": "持续关注",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-27-3",
-        "priority": "high",
-        "action": "关注「The bottom-line impact of surging toxic 」对 HR 组织人才的影响",
-        "timeWindow": "本周内",
-        "basis": "HR Executive"
-      }
-    ],
-    "sourceCoverage": {
-      "total": 44,
-      "types": [
-        "tech",
-        "academic"
-      ],
-      "baseline": 5,
-      "passed": true
-    },
-    "content": "本报告由自动化脚本于 2026-06-27 生成，聚合了 20 条新闻、20 篇论文、4 个岗位。",
-    "fetchWindow": "2026-06-27 00:00 - 2026-06-27 23:59"
-  },
-  {
-    "id": "report-2026-06-26-auto",
-    "date": "2026-06-26",
-    "session": "auto",
-    "title": "2026-06-26 自动日报 · AI 与 HR 情报聚合",
-    "signals": [
-      {
-        "id": "sig-2026-06-26-auto-1",
-        "emoji": "💡",
-        "title": "Repositioning retail for the AI era",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
-        "detail": "来源: MIT Technology Review。Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
-        "priority": "low",
-        "tags": [
-          "ai",
-          "strategy",
-          "ecommerce"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-26-auto-2",
-        "emoji": "⚠️",
-        "title": "The Download: Europe&#8217;s heat wave hits the grid, and IBM&#8217;s chip targets Moore&#8217;s Law",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
-        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
-        "priority": "medium",
-        "tags": [
-          "ai"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      },
-      {
-        "id": "sig-2026-06-26-auto-3",
-        "emoji": "💡",
-        "title": "What Europe’s heat wave means for the power grid",
-        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
-        "detail": "来源: MIT Technology Review。It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
-        "priority": "low",
-        "tags": [
-          "ai-hr"
-        ],
-        "relatedCompanies": [],
-        "sourceType": "academic",
-        "sourceName": "MIT Technology Review"
-      }
-    ],
-    "actionPlan": [
-      {
-        "id": "action-2026-06-26-1",
-        "priority": "low",
-        "action": "关注「Repositioning retail for the AI era」对 HR 组织人才的影响",
-        "timeWindow": "持续关注",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-26-2",
-        "priority": "medium",
-        "action": "关注「The Download: Europe&#8217;s heat wave h」对 HR 组织人才的影响",
-        "timeWindow": "两周内",
-        "basis": "MIT Technology Review"
-      },
-      {
-        "id": "action-2026-06-26-3",
-        "priority": "low",
-        "action": "关注「What Europe’s heat wave means for the po」对 HR 组织人才的影响",
-        "timeWindow": "持续关注",
-        "basis": "MIT Technology Review"
-      }
-    ],
-    "sourceCoverage": {
-      "total": 45,
-      "types": [
-        "tech",
-        "academic"
-      ],
-      "baseline": 5,
-      "passed": true
-    },
-    "content": "本报告由自动化脚本于 2026-06-26 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
-    "fetchWindow": "2026-06-26 00:00 - 2026-06-26 23:59"
   },
   {
     "id": "report-2026-06-25-auto",

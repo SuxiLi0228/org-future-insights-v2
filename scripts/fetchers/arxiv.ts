@@ -28,7 +28,7 @@ export async function fetchArxivPapers(): Promise<ArxivPaper[]> {
     return rawEntries
       .map((entry: any) => {
         const title = (entry.title || '').replace(/\s+/g, ' ').trim();
-        const summary = (entry.summary || '').replace(/\s+/g, ' ').trim().slice(0, 400);
+        const summary = (entry.summary || '').replace(/\s+/g, ' ').trim().slice(0, 800);
         const link = entry.id || '';
         const published = entry.published || new Date().toISOString();
         const authors = entry.author

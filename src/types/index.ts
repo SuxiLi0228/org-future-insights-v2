@@ -23,6 +23,7 @@ export interface Signal {
   title: string;
   summary: string;
   detail: string;
+  link?: string;
   priority: Priority;
   tags: string[];
   relatedCompanies: string[];

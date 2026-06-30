@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ChevronDown, ChevronUp, Bookmark, BookmarkCheck, Building2, FileText, BarChart3 } from 'lucide-react';
+import { ChevronDown, ChevronUp, Bookmark, BookmarkCheck, Building2, FileText, BarChart3, ExternalLink } from 'lucide-react';
 import { Signal } from '@/types';
 import { useAppStore } from '@/stores/appStore';
 
@@ -73,6 +73,19 @@ export default function SignalCard({ signal, index = 0, related }: Props) {
         {signal.summary}
       </p>
 
+      {/* Source link */}
+      {signal.link && (
+        <a
+          href={signal.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-2 inline-flex items-center gap-1 text-xs font-medium text-primary-600 hover:text-primary-700 hover:underline dark:text-primary-400"
+        >
+          阅读原文
+          <ExternalLink size={12} />
+        </a>
+      )}
+
       {/* Tags */}
       <div className="mt-3 flex flex-wrap gap-1.5">
         {signal.tags.map((tag) => (
@@ -102,6 +115,17 @@ export default function SignalCard({ signal, index = 0, related }: Props) {
               className="mt-2 rounded-lg bg-slate-50 p-4 text-sm leading-relaxed text-slate-700 dark:bg-surface-700 dark:text-slate-300"
             >
               {signal.detail}
+              {signal.link && (
+                <a
+                  href={signal.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-primary-600 hover:text-primary-700 hover:underline dark:text-primary-400"
+                >
+                  阅读原文
+                  <ExternalLink size={14} />
+                </a>
+              )}
             </motion.div>
           )}
         </div>
