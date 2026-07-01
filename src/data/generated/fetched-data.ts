@@ -2,6 +2,130 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-llms-are-stuck-in-a-groupthink-groove-this-startup-is-trying-1782916516000",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+    "publishedAt": "2026-07-01",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-anthropic-launches-claude-science-and-californi-1782907800000",
+    "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
+    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;",
+    "publishedAt": "2026-07-01",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-employers-want-ai-benefits-support-but-workers-aren-8217-t-s-1782926429000",
+    "title": "Employers want AI benefits support, but workers aren&#8217;t sold yet",
+    "link": "https://hrexecutive.com/employers-want-ai-benefits-support-but-workers-arent-sold-yet/",
+    "summary": "More than 8 in 10 employers are interested in using artificial intelligence to help workers better understand their benefits. The post Employers want AI benefits support, but workers aren&#8217;t sold yet appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-gen-zs-and-millennials-are-rewriting-the-rules-of-career-1782926140000",
+    "title": "How Gen Zs and millennials are rewriting the rules of career success",
+    "link": "https://hrexecutive.com/how-gen-zs-and-millennials-are-rewriting-the-rules-of-career-success/",
+    "summary": "Singapore’s younger workforce is redefining career growth, and Deloitte’s Mark Nicholas Teoh says employers must adapt. The post How Gen Zs and millennials are rewriting the rules of career success appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-federal-court-hands-employers-potential-erc-refund-win-1782925273000",
+    "title": "Federal court hands employers potential ERC refund win",
+    "link": "https://hrexecutive.com/federal-court-hands-employers-potential-erc-refund-win/",
+    "summary": "Last month, a federal court denied the government’s motion to dismiss an employer’s ERC refund suit—possibly a significant victory for employers. The post Federal court hands employers potential ERC refund win appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-can-ai-bridge-the-soft-skills-gap-1782925227000",
+    "title": "Can AI bridge the soft skills gap?",
+    "link": "https://hrexecutive.com/can-ai-bridge-the-soft-skills-gap/",
+    "summary": "In one survey, 3 in 5 employers say soft skills matter more than ever, as more than half of US and UK leaders believe young people lack them. The post Can AI bridge the soft skills gap? appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-trump-8217-s-labor-secretary-pick-could-reshape-ai-enforceme-1782909006000",
+    "title": "Trump&#8217;s Labor Secretary pick could reshape AI enforcement",
+    "link": "https://hrexecutive.com/trumps-labor-secretary-pick-could-reshape-ai-enforcement/",
+    "summary": "A government official well-known in HR tech circles is primed to take over the U.S. Department of Labor after some major shake-ups. The post Trump&#8217;s Labor Secretary pick could reshape AI enforcement appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-demand-changes-to-no-surprises-act-arbitration-1782908153000",
+    "title": "Employers demand changes to No Surprises Act arbitration",
+    "link": "https://hrexecutive.com/employers-demand-changes-to-no-surprises-act-arbitration/",
+    "summary": "The current system weakens the ability of provider networks to control costs, benefits groups say. The post Employers demand changes to No Surprises Act arbitration appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-4-types-of-hr-leaders-who-will-absolutely-check-email-this-j-1782907219000",
+    "title": "4 types of HR leaders who will absolutely check email this July 4th",
+    "link": "https://hrexecutive.com/4-types-of-hr-leaders-who-will-absolutely-check-email-this-july-4th/",
+    "summary": "Personality science says the inability to unplug isn't a willpower problem. It's a you problem, and there's a fix or two. The post 4 types of HR leaders who will absolutely check email this July 4th appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-global-payroll-compliance-turning-a-maze-of-rules-into-a-pat-1782906300000",
+    "title": "Global payroll compliance: turning a maze of rules into a pathway to trust",
+    "link": "https://hrexecutive.com/global-payroll-compliance-turning-a-maze-of-rules-into-a-pathway-to-trust/",
+    "summary": "Navigating global payroll compliance is increasingly complex for multinational companies, with varying tax rules and evolving regulations across jurisdictions. The post Global payroll compliance: turning a maze of rules into a pathway to trust appeared first on HR Executive .",
+    "publishedAt": "2026-07-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
     "id": "news-the-death-of-the-megacorporation-may-be-a-bigger-story-than--1782905421000",
     "title": "The death of the megacorporation may be a bigger story than layoffs",
     "link": "https://hrexecutive.com/the-death-of-the-megacorporation-may-be-a-bigger-story-than-layoffs/",
@@ -88,68 +212,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jpmorgan-chase-goldman-sachs-walk-back-rto-but-only-for-the--1782822649000",
-    "title": "JPMorgan Chase, Goldman Sachs walk back RTO—but only for the World Cup",
-    "link": "https://hrexecutive.com/jpmorgan-chase-goldman-sachs-walk-back-rto-but-only-for-the-world-cup/",
-    "summary": "Big firms like JPMorgan Chase and Goldman Sachs are among the employers easing their return-to-office policies in light of World Cup fever. The post JPMorgan Chase, Goldman Sachs walk back RTO—but only for the World Cup appeared first on HR Executive .",
-    "publishedAt": "2026-06-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-trump-economists-target-hospital-practices-driving-employer--1782821737000",
-    "title": "Trump economists target hospital practices driving employer costs",
-    "link": "https://hrexecutive.com/trump-economists-target-hospital-practices-driving-employer-costs/",
-    "summary": "Analysts predict more competitive contracts would cut plan sponsors' costs by an average of 6.5%. The post Trump economists target hospital practices driving employer costs appeared first on HR Executive .",
-    "publishedAt": "2026-06-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-layoffs-are-creating-cultural-freefall-here-s-how-long-it-ll-1782820845000",
-    "title": "Layoffs are creating cultural freefall: Here’s how long it’ll take to fix it",
-    "link": "https://hrexecutive.com/layoffs-are-creating-cultural-freefall-heres-how-long-itll-take-to-fix-it/",
-    "summary": "New research finds the average culture recovery time after a layoff is more than seven months. What HR can do to speed recovery. The post Layoffs are creating cultural freefall: Here’s how long it’ll take to fix it appeared first on HR Executive .",
-    "publishedAt": "2026-06-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-why-focus-time-should-be-a-workforce-metric-not-a-personal-h-1782819923000",
-    "title": "Why focus time should be a workforce metric, not a personal habit",
-    "link": "https://hrexecutive.com/why-focus-time-should-be-a-workforce-metric-not-a-personal-habit/",
-    "summary": "The next breakthrough won’t come from a status meeting or instant message. It will come from giving employees more uninterrupted time to work. The post Why focus time should be a workforce metric, not a personal habit appeared first on HR Executive .",
-    "publishedAt": "2026-06-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-korn-ferry-buys-ams-in-1-1-billion-bet-on-recruitment-outsou-1782819900000",
-    "title": "Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing",
-    "link": "https://hrexecutive.com/korn-ferry-buys-ams-in-1-1-billion-bet-on-recruitment-outsourcing/",
-    "summary": "Korn Ferry will acquire AMS for $1.1 billion, adding RPO scale and $1.5B in contracted backlog as demand for recruitment outsourcing holds The post Korn Ferry buys AMS in $1.1 billion bet on recruitment outsourcing appeared first on HR Executive .",
-    "publishedAt": "2026-06-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-ai-agents-are-not-your-8220-coworkers-8221-1782756000000",
     "title": "AI agents are not your &#8220;coworkers&#8221;",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -180,68 +242,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
     "publishedAt": "2026-06-29",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-for-hr-professionals-how-to-build-an-ai-first-business-th-1782758775000",
-    "title": "AI for HR Professionals: How to Build an AI-First Business That Empowers Employees",
-    "link": "https://hrexecutive.com/ai-for-hr-professionals-how-to-build-an-ai-first-business-that-empowers-employees/",
-    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful business results. The post AI for HR Professionals: How to Build an AI-First Business That Empowers Employees appeared first on HR Executive .",
-    "publishedAt": "2026-06-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-jpmorgan-the-viral-knicks-fan-and-hr-risks-of-off-duty-condu-1782736209000",
-    "title": "JPMorgan, the viral Knicks fan and HR risks of off-duty conduct",
-    "link": "https://hrexecutive.com/jpmorgan-the-viral-knicks-fan-and-hr-risks-of-off-duty-conduct/",
-    "summary": "A viral Knicks fan video put JPMorgan in the spotlight, raising questions about off duty conduct and HR implications. The post JPMorgan, the viral Knicks fan and HR risks of off-duty conduct appeared first on HR Executive .",
-    "publishedAt": "2026-06-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-u-s-healthcare-affordability-falls-to-lowest-level-since-202-1782735346000",
-    "title": "U.S. healthcare affordability falls to lowest level since 2021",
-    "link": "https://hrexecutive.com/u-s-healthcare-affordability-falls-to-lowest-level-since-2021/",
-    "summary": "New West Health–Gallup data show fewer than half of Americans can consistently afford care and prescriptions, with widening disparities across income, age, and racial groups. The post U.S. healthcare affordability falls to lowest level since 2021 appeared first on HR Executive .",
-    "publishedAt": "2026-06-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-the-download-brain-melting-heatwaves-and-unprecedented-opena-1782475800000",
-    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western&#8230;",
-    "publishedAt": "2026-06-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-heat-waves-mess-with-your-brain-scientists-are-trying-to-fig-1782464400000",
-    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in&#8230;",
-    "publishedAt": "2026-06-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -622,6 +622,36 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134323",
+    "title": "Captain",
+    "company": "UICGS / Bowhead Family of Companies",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Essential functions to include"
+    ],
+    "skills": [],
+    "location": "Andros Town, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
+    "postedAt": "2026-06-30",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134325",
+    "title": "Maintenance &amp; MEP Technician",
+    "company": "Scales and Associates",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "This is a hands-on role suited to an experienced maintenance professional with st"
+    ],
+    "skills": [],
+    "location": "Nassau, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
+    "postedAt": "2026-06-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134253",
     "title": "Vehicle Repair Assessor Philippines",
     "company": "Hire with Reef",
@@ -726,4 +756,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-01T11:41:33.500Z';
+export const dataFetchedAt = '2026-07-01T18:33:05.291Z';
