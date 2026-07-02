@@ -637,6 +637,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134357",
+    "title": "Data Scientist",
+    "company": "New Flyer",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "New Flyer is North America's heavy-duty transit bus leader and offers the most advanced product line under the XcelsiorÂ® and Xcelsior CHARGEÂ® brands",
+      "It also offers infrastructure development through NFI Infrastructure Solutionsâ¢, a service dedicated to providing safe, sustainable, and reliable"
+    ],
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "location": "Winnipeg, Winnipeg, Manitoba, Canada",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
+    "postedAt": "2026-07-01",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134323",
     "title": "Captain",
     "company": "UICGS / Bowhead Family of Companies",
@@ -755,4 +774,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-02T18:17:47.772Z';
+export const dataFetchedAt = '2026-07-02T23:44:25.129Z';
