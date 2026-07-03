@@ -2,6 +2,94 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-04-auto",
+    "date": "2026-07-04",
+    "session": "auto",
+    "title": "2026-07-04 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-04-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+      },
+      {
+        "id": "sig-2026-07-04-auto-2",
+        "emoji": "💡",
+        "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+        "detail": "来源: MIT Technology Review。As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+      },
+      {
+        "id": "sig-2026-07-04-auto-3",
+        "emoji": "💡",
+        "title": "Achieving operational excellence with AI",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+        "detail": "来源: MIT Technology Review。Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-04-1",
+        "priority": "medium",
+        "action": "关注「The Download: a smoking &#8220;endgame&#」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-04-2",
+        "priority": "low",
+        "action": "关注「The UK’s generational tobacco ban might 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-04-3",
+        "priority": "low",
+        "action": "关注「Achieving operational excellence with AI」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 47,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-04 生成，聚合了 20 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-07-04 00:00 - 2026-07-04 23:59"
+  },
+  {
     "id": "report-2026-07-03-auto",
     "date": "2026-07-03",
     "session": "auto",

@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-smoking-8220-endgame-8221-and-a-new-elizabeth-1783080600000",
+    "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
+    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+    "publishedAt": "2026-07-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-uk-s-generational-tobacco-ban-might-not-work-i-m-support-1783069200000",
     "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
     "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
@@ -229,18 +241,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
     "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
     "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
-    "publishedAt": "2026-06-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-coworkers-and-stratospheric-internet-1782821400000",
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
     "publishedAt": "2026-06-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -629,6 +629,47 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134399",
+    "title": "Facility Maintenance Technician",
+    "company": "PriceSmart",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "QUALIFICATIONS &amp; EXPERIENCE: Five (5) CSEC subjects, including: English Language and Mathematics Diploma or Trade Certificate in one of the following: Elect"
+    ],
+    "skills": [],
+    "location": "Montego Bay, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
+    "postedAt": "2026-07-02",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134396",
+    "title": "Senior AI Engineer Architect",
+    "company": "Lemon.io",
+    "category": "pure_ai",
+    "responsibilities": [
+      "Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation",
+      "Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe",
+      "What we offer: The rate depends on your skills and"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "SQL",
+      "OpenAI",
+      "LangChain",
+      "MLOps"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
+    "postedAt": "2026-07-02",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134357",
     "title": "Data Scientist",
     "company": "New Flyer",
@@ -710,24 +751,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-accommodation-administrator-fifo-14-7-roster-cairns-queensland-sodexo-1134252",
     "postedAt": "2026-06-30",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134232",
-    "title": "AI Filmmaker",
-    "company": "Foxelli Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Please be informed that Foxelli Group hires exclusively in-house and doesn't work with any external recruitment agencies",
-      "Any company or individual claiming to recruit on behalf of Foxelli Group is not affiliated with us",
-      "At Foxelli, weâre building more than e-commerce brands - weâre building a"
-    ],
-    "skills": [],
-    "location": "Praha, Praha, HlavnÃ­ mÄsto Praha, Äesko",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
-    "postedAt": "2026-06-27",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-03T10:15:47.629Z';
+export const dataFetchedAt = '2026-07-03T17:02:49.107Z';
