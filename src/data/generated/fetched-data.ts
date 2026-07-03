@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-a-device-that-revives-eyeballs-from-dead-donors-could-make-e-1783100077000",
+    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+    "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;",
+    "publishedAt": "2026-07-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-a-smoking-8220-endgame-8221-and-a-new-elizabeth-1783080600000",
     "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
     "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
@@ -229,18 +241,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Claude Science is Anthropic’s newest flagship product",
     "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
     "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
-    "publishedAt": "2026-06-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-roundtables-longevity-8217-s-next-frontier-8220-reprogrammin-1782841008000",
-    "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
-    "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
     "publishedAt": "2026-06-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -754,4 +754,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-03T17:02:49.107Z';
+export const dataFetchedAt = '2026-07-03T21:44:28.703Z';
