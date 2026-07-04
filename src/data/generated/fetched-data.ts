@@ -5,7 +5,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-a-device-that-revives-eyeballs-from-dead-donors-could-make-e-1783100077000",
     "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
     "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8230;",
     "publishedAt": "2026-07-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -629,6 +629,22 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134446",
+    "title": "Special Services Associate AIRDRIE",
+    "company": "The Home Depot Canada",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects",
+      "If youâre also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot"
+    ],
+    "skills": [],
+    "location": "Airdrie, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-special-services-associate-airdrie-the-home-depot-canada-1134446",
+    "postedAt": "2026-07-03",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134454",
     "title": "Supply Chain Director",
     "company": "Novaris Search",
@@ -820,4 +836,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-04T14:50:46.764Z';
+export const dataFetchedAt = '2026-07-04T20:14:59.959Z';
