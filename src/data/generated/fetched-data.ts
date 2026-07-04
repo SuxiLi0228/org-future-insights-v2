@@ -629,6 +629,42 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134453",
+    "title": "Residential Real Estate Title Search Quality Control",
+    "company": "Pippin Title",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Who We Are Pippin Title is a venture-backed real estate tech startup that offers nationwide, comprehensive, high-quality, technology-driven title search services to clients across the US",
+      "We're bringing title search into the 21st century",
+      "Pippin is headquartered in New York City",
+      "With a remote-first"
+    ],
+    "skills": [],
+    "location": "New York, New York, New York, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-residential-real-estate-title-search-quality-control-pippin-title-1134453",
+    "postedAt": "2026-07-03",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134459",
+    "title": "VP Paid Media",
+    "company": "Kanahoma",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Reporting directly to the SVP, Marketing, the VP, Paid Media fully owns the Paid Me"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "San Diego, San Diego, California, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vp-paid-media-kanahoma-1134459",
+    "postedAt": "2026-07-02",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134399",
     "title": "Facility Maintenance Technician",
     "company": "PriceSmart",
@@ -754,4 +790,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-03T21:44:28.703Z';
+export const dataFetchedAt = '2026-07-04T08:12:27.552Z';
