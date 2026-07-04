@@ -629,6 +629,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134454",
+    "title": "Supply Chain Director",
+    "company": "Novaris Search",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Supply Chain Director New York, USA On-site / Hybrid depending on business needs About the Company Novaris Search is partnered with a growing business within th"
+    ],
+    "skills": [],
+    "location": "New York City Metropolitan Area",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
+    "postedAt": "2026-07-03",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134453",
     "title": "Residential Real Estate Title Search Quality Control",
     "company": "Pippin Title",
@@ -702,6 +717,21 @@ export const generatedJobs: JobPosting[] = [
     "location": "Remote",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
+    "postedAt": "2026-07-02",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134470",
+    "title": "Computer Aided Design Designer",
+    "company": "Indovance Inc",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Position: Design Engineer (CAD) Qualification: *BE Civil Experience: Minimum of 1 to 2 years of CAD experience Location: Narhe- Pune (Monday to Friday) for "
+    ],
+    "skills": [],
+    "location": "Pune Division, Pune Division, Maharashtra, India",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
     "postedAt": "2026-07-02",
     "isNew": true
   },
@@ -790,4 +820,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-04T08:12:27.552Z';
+export const dataFetchedAt = '2026-07-04T14:50:46.764Z';
