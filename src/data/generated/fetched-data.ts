@@ -629,6 +629,27 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134476",
+    "title": "Lead Data Scientist",
+    "company": "Brigit",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Hi, we're Brigit",
+      "A holistic financial health company helping everyday Americans build a brighter financial future",
+      "With a business model that is aligned with our customers, we create transparent, fair, and simple financial products that put money back in the hands of our members, help them spend wi"
+    ],
+    "skills": [
+      "Python",
+      "AWS",
+      "SQL"
+    ],
+    "location": "San Francisco",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+    "postedAt": "2026-07-04",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134446",
     "title": "Special Services Associate AIRDRIE",
     "company": "The Home Depot Canada",
@@ -772,4 +793,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-05T15:01:25.252Z';
+export const dataFetchedAt = '2026-07-05T20:20:51.959Z';
