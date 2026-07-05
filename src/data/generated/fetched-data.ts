@@ -769,22 +769,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
     "postedAt": "2026-07-01",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134323",
-    "title": "Captain",
-    "company": "UICGS / Bowhead Family of Companies",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Essential functions to include"
-    ],
-    "skills": [],
-    "location": "Andros Town, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
-    "postedAt": "2026-06-30",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-05T08:32:16.422Z';
+export const dataFetchedAt = '2026-07-05T15:01:25.252Z';
