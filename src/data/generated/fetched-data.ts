@@ -784,56 +784,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
     "postedAt": "2026-06-30",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134325",
-    "title": "Maintenance &amp; MEP Technician",
-    "company": "Scales and Associates",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This is a hands-on role suited to an experienced maintenance professional with st"
-    ],
-    "skills": [],
-    "location": "Nassau, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
-    "postedAt": "2026-06-30",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134253",
-    "title": "Vehicle Repair Assessor Philippines",
-    "company": "Hire with Reef",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Assure Scratch &amp; Dent are seeking an experienced Vehicle Repair Assessor to join their growing team",
-      "This is a full-time remote position based in the Philippines, supporting their Australian operations",
-      "You will assess customer-submitted vehicle photos and videos, determine repair eligibility, p"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vehicle-repair-assessor-philippines-hire-with-reef-1134253",
-    "postedAt": "2026-06-30",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134252",
-    "title": "Accommodation Administrator FIFO 14 7 Roster Cairns Queensland",
-    "company": "Sodexo",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Description Help create a home away from home 14 days on, 7 days off roster Immediate Start available Opportunity to join the 18th largest employer globally"
-    ],
-    "skills": [],
-    "location": "Queensland, Queensland, Australia",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-accommodation-administrator-fifo-14-7-roster-cairns-queensland-sodexo-1134252",
-    "postedAt": "2026-06-30",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-04T20:14:59.959Z';
+export const dataFetchedAt = '2026-07-05T08:32:16.422Z';
