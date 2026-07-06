@@ -2,6 +2,30 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-your-family-8217-s-300-stake-in-openai-1783360800000",
+    "title": "Your family&#8217;s $300 stake in OpenAI",
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+    "publishedAt": "2026-07-06",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-south-korea-8217-s-hottest-bachelors-and-advanc-1783342800000",
+    "title": "The Download: South Korea&#8217;s hottest bachelors, and advancing eye transplants",
+    "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
+    "publishedAt": "2026-07-06",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-south-korea-s-hottest-new-bachelors-are-chip-workers-1783328400000",
     "title": "South Korea’s hottest new bachelors are chip workers",
     "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
@@ -11,6 +35,33 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-microsoft-8217-s-workforce-reduction-strategy-buyouts-first--1783341957000",
+    "title": "Microsoft&#8217;s workforce reduction strategy: Buyouts first, layoffs second",
+    "link": "https://hrexecutive.com/microsofts-workforce-reduction-strategy-buyouts-first-layoffs-second/",
+    "summary": "Microsoft used a voluntary buyout to balance this week's layoffs. Here's what the sequencing reveals about workforce planning. The post Microsoft&#8217;s workforce reduction strategy: Buyouts first, layoffs second appeared first on HR Executive .",
+    "publishedAt": "2026-07-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-amazon-microsoft-help-lead-push-to-reskill-workers-displaced-1783341001000",
+    "title": "Amazon, Microsoft help lead push to reskill workers displaced by AI",
+    "link": "https://hrexecutive.com/amazon-microsoft-help-lead-push-to-reskill-workers-displaced-by-ai/",
+    "summary": "The tech giants are among the pilot partners in RAISE US, a nonpartisan nonprofit aiming set best practices in AI upskilling. The post Amazon, Microsoft help lead push to reskill workers displaced by AI appeared first on HR Executive .",
+    "publishedAt": "2026-07-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -138,30 +189,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-llms-are-stuck-in-a-groupthink-groove-this-startup-is-trying-1782916516000",
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
-    "publishedAt": "2026-07-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-anthropic-launches-claude-science-and-californi-1782907800000",
-    "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
-    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;",
-    "publishedAt": "2026-07-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
     "id": "news-employers-want-ai-benefits-support-but-workers-aren-8217-t-s-1782926429000",
     "title": "Employers want AI benefits support, but workers aren&#8217;t sold yet",
     "link": "https://hrexecutive.com/employers-want-ai-benefits-support-but-workers-arent-sold-yet/",
@@ -216,31 +243,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Trump&#8217;s Labor Secretary pick could reshape AI enforcement",
     "link": "https://hrexecutive.com/trumps-labor-secretary-pick-could-reshape-ai-enforcement/",
     "summary": "A government official well-known in HR tech circles is primed to take over the U.S. Department of Labor after some major shake-ups. The post Trump&#8217;s Labor Secretary pick could reshape AI enforcement appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-demand-changes-to-no-surprises-act-arbitration-1782908153000",
-    "title": "Employers demand changes to No Surprises Act arbitration",
-    "link": "https://hrexecutive.com/employers-demand-changes-to-no-surprises-act-arbitration/",
-    "summary": "The current system weakens the ability of provider networks to control costs, benefits groups say. The post Employers demand changes to No Surprises Act arbitration appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-4-types-of-hr-leaders-who-will-absolutely-check-email-this-j-1782907219000",
-    "title": "4 types of HR leaders who will absolutely check email this July 4th",
-    "link": "https://hrexecutive.com/4-types-of-hr-leaders-who-will-absolutely-check-email-this-july-4th/",
-    "summary": "Personality science says the inability to unplug isn't a willpower problem. It's a you problem, and there's a fix or two. The post 4 types of HR leaders who will absolutely check email this July 4th appeared first on HR Executive .",
     "publishedAt": "2026-07-01",
     "source": "HR Executive",
     "tags": [
@@ -830,4 +832,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-06T12:27:59.826Z';
+export const dataFetchedAt = '2026-07-06T20:58:39.041Z';

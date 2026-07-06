@@ -2,6 +2,91 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-07-auto",
+    "date": "2026-07-07",
+    "session": "auto",
+    "title": "2026-07-07 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-07-auto-1",
+        "emoji": "⚠️",
+        "title": "Your family&#8217;s $300 stake in OpenAI",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+      },
+      {
+        "id": "sig-2026-07-07-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: South Korea&#8217;s hottest bachelors, and advancing eye transplants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
+      },
+      {
+        "id": "sig-2026-07-07-auto-3",
+        "emoji": "⚠️",
+        "title": "South Korea’s hottest new bachelors are chip workers",
+        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
+        "detail": "来源: MIT Technology Review。Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-07-1",
+        "priority": "medium",
+        "action": "关注「Your family&#8217;s $300 stake in OpenAI」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-07-2",
+        "priority": "medium",
+        "action": "关注「The Download: South Korea&#8217;s hottes」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-07-3",
+        "priority": "medium",
+        "action": "关注「South Korea’s hottest new bachelors are 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 51,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-07 生成，聚合了 20 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-07-07 00:00 - 2026-07-07 23:59"
+  },
+  {
     "id": "report-2026-07-06-auto",
     "date": "2026-07-06",
     "session": "auto",
