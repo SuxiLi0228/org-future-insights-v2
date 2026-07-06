@@ -2,6 +2,56 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-south-korea-s-hottest-new-bachelors-are-chip-workers-1783328400000",
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
+    "publishedAt": "2026-07-06",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-house-panel-oks-hospital-price-transparency-bills-1783340119000",
+    "title": "House panel OKs hospital price transparency bills",
+    "link": "https://hrexecutive.com/house-panel-oks-hospital-price-transparency-bills/",
+    "summary": "Republicans and Democrats on the House Energy &#38; Commerce Health Subcommittee joined Thursday to approve a total of 15 health care bills by voice votes. The post House panel OKs hospital price transparency bills appeared first on HR Executive .",
+    "publishedAt": "2026-07-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-new-july-1-minimum-wage-rates-interactive-location-tracker-1783339211000",
+    "title": "New July 1 minimum wage rates: Interactive location tracker",
+    "link": "https://hrexecutive.com/new-july-1-minimum-wage-rates-interactive-location-tracker/",
+    "summary": "Minimum wage increases hit these states and jurisdictions on July 1. Check every rate by work location with our interactive tracker. The post New July 1 minimum wage rates: Interactive location tracker appeared first on HR Executive .",
+    "publishedAt": "2026-07-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-why-hr-must-lead-the-ai-culture-shift-1783338359000",
+    "title": "Why HR must lead the AI culture shift",
+    "link": "https://hrexecutive.com/why-hr-must-lead-the-ai-culture-shift/",
+    "summary": "The next step in AI is removing the friction that prevents HR leaders from spending time where they create the most value, including culture. The post Why HR must lead the AI culture shift appeared first on HR Executive .",
+    "publishedAt": "2026-07-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
     "id": "news-a-device-that-revives-eyeballs-from-dead-donors-could-make-e-1783100077000",
     "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
     "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -197,55 +247,6 @@ export const generatedNews: NewsItem[] = [
       "hr",
       "ai-hr",
       "ai"
-    ]
-  },
-  {
-    "id": "news-global-payroll-compliance-turning-a-maze-of-rules-into-a-pat-1782906300000",
-    "title": "Global payroll compliance: turning a maze of rules into a pathway to trust",
-    "link": "https://hrexecutive.com/global-payroll-compliance-turning-a-maze-of-rules-into-a-pathway-to-trust/",
-    "summary": "Navigating global payroll compliance is increasingly complex for multinational companies, with varying tax rules and evolving regulations across jurisdictions. The post Global payroll compliance: turning a maze of rules into a pathway to trust appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-the-death-of-the-megacorporation-may-be-a-bigger-story-than--1782905421000",
-    "title": "The death of the megacorporation may be a bigger story than layoffs",
-    "link": "https://hrexecutive.com/the-death-of-the-megacorporation-may-be-a-bigger-story-than-layoffs/",
-    "summary": "The CEO of HiBob predicts that leading-edge orgs need to know to redeploy talent quickly, pair human judgment with machine intelligence and out-adapt their competitors—not just build the largest workforces. The post The death of the megacorporation may be a bigger story than layoffs appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-even-with-a-record-holiday-week-summer-vacation-is-collapsin-1782904511000",
-    "title": "Even with a record holiday week, summer vacation is collapsing into one PTO day",
-    "link": "https://hrexecutive.com/even-with-a-record-holiday-week-summer-vacation-is-collapsing-into-one-pto-day/",
-    "summary": "Summer vacation is unraveling as workers spend PTO one day at a time, new Deel data shows, right as the July 4th and World Cup collide. The post Even with a record holiday week, summer vacation is collapsing into one PTO day appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-claude-science-is-anthropic-s-newest-flagship-product-1782856204000",
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
-    "publishedAt": "2026-06-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -629,6 +630,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134516",
+    "title": "Supply Chain Analyst",
+    "company": "DIVA",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Supply Chain Specialist (12m Maternity Leave Contract) Diva International Inc",
+      "(âDIVAâ) is looking for a Sr",
+      "Supply Chain Specialist (12m Maternity Leave Contract) who will be responsible supporting inventory management, forecasting, supply chain operations, purchasing, assembly coordination"
+    ],
+    "skills": [
+      "LLM"
+    ],
+    "location": "Kitchener, Kitchener, Ontario, Canada",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+    "postedAt": "2026-07-05",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134476",
     "title": "Lead Data Scientist",
     "company": "Brigit",
@@ -677,6 +697,23 @@ export const generatedJobs: JobPosting[] = [
     "location": "New York City Metropolitan Area",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
+    "postedAt": "2026-07-03",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134515",
+    "title": "Supply Chain Executive",
+    "company": "Pharmanovia",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Our mission is to improve patient health globally by revitalising niche"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Kawasan Sekitar Kuala Lumpur, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-executive-pharmanovia-1134515",
     "postedAt": "2026-07-03",
     "isNew": true
   },
@@ -793,4 +830,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-05T20:20:51.959Z';
+export const dataFetchedAt = '2026-07-06T12:27:59.826Z';
