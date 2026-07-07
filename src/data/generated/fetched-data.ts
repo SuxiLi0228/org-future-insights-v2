@@ -2,6 +2,31 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-your-stake-in-openai-and-the-treasury-8217-s-ai-1783426200000",
+    "title": "The Download: your stake in OpenAI, and the Treasury&#8217;s AI warning",
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+    "publishedAt": "2026-07-07",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-foundational-elements-of-ai-architecture-that-it-leaders-1783422652000",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "publishedAt": "2026-07-07",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
     "id": "news-why-worms-and-microbes-are-catching-on-as-a-manure-pollution-1783418400000",
     "title": "Why worms (and microbes) are catching on as a manure pollution solution",
     "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
@@ -11,6 +36,68 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-deloitte-pwc-and-accenture-lead-ranking-of-top-employers-for-1783427404000",
+    "title": "Deloitte, PwC and Accenture lead ranking of top employers for young workers",
+    "link": "https://hrexecutive.com/deloitte-pwc-and-accenture-top-list-of-companies-were-young-workers-succeed/",
+    "summary": "A new ranking highlights top employers hiring entry-level talent at scale. SAP research suggests what those companies may be getting right. The post Deloitte, PwC and Accenture lead ranking of top employers for young workers appeared first on HR Executive .",
+    "publishedAt": "2026-07-07",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-are-frontline-workers-hr-8217-s-biggest-blindspot-1783426533000",
+    "title": "Are frontline workers HR&#8217;s biggest blindspot?",
+    "link": "https://hrexecutive.com/are-frontline-workers-hrs-biggest-blindspot/",
+    "summary": "Josh Bersin Company researcher Nehal Nangia warns of undeserving frontline workers by categorizing them as one entity. The post Are frontline workers HR&#8217;s biggest blindspot? appeared first on HR Executive .",
+    "publishedAt": "2026-07-07",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-for-frontline-staff-abuse-by-customers-is-now-8216-just-part-1783425653000",
+    "title": "For frontline staff, abuse by customers is now &#8216;just part of the job&#8217;",
+    "link": "https://hrexecutive.com/for-frontline-staff-abuse-by-customers-is-now-just-part-of-the-job/",
+    "summary": "Customer abuse on the frontline is rising, and new federal and union data shows what it costs employers in retention and turnover. The post For frontline staff, abuse by customers is now &#8216;just part of the job&#8217; appeared first on HR Executive .",
+    "publishedAt": "2026-07-07",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-insurers-face-billions-in-underwriting-losses-1783424729000",
+    "title": "Insurers face billions in underwriting losses",
+    "link": "https://hrexecutive.com/insurers-face-billions-in-underwriting-losses/",
+    "summary": "Individual and small group health plans faced losses in 2025 as medical claims continued to climb, accelerating a shift toward alternative benefit models. The post Insurers face billions in underwriting losses appeared first on HR Executive .",
+    "publishedAt": "2026-07-07",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-early-career-talent-the-missing-link-in-future-ready-organiz-1783423801000",
+    "title": "Early-career talent: The missing link in future-ready organizations",
+    "link": "https://hrexecutive.com/early-career-talent-the-missing-link-in-future-ready-organizations/",
+    "summary": "The path to becoming future-ready runs through the early-career talent, but many organizations are de-prioritzing this talent population. The post Early-career talent: The missing link in future-ready organizations appeared first on HR Executive .",
+    "publishedAt": "2026-07-07",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
     ]
   },
   {
@@ -161,94 +248,6 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology",
       "organization"
-    ]
-  },
-  {
-    "id": "news-teaching-ai-to-run-with-the-turbines-1782996704000",
-    "title": "Teaching AI to run with the turbines",
-    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
-    "publishedAt": "2026-07-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-download-a-startup-has-a-solution-for-ai-s-groupthink-pr-1782994200000",
-    "title": "The Download: a startup has a solution for AI’s groupthink problem",
-    "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;",
-    "publishedAt": "2026-07-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-employers-want-ai-benefits-support-but-workers-aren-8217-t-s-1782926429000",
-    "title": "Employers want AI benefits support, but workers aren&#8217;t sold yet",
-    "link": "https://hrexecutive.com/employers-want-ai-benefits-support-but-workers-arent-sold-yet/",
-    "summary": "More than 8 in 10 employers are interested in using artificial intelligence to help workers better understand their benefits. The post Employers want AI benefits support, but workers aren&#8217;t sold yet appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-gen-zs-and-millennials-are-rewriting-the-rules-of-career-1782926140000",
-    "title": "How Gen Zs and millennials are rewriting the rules of career success",
-    "link": "https://hrexecutive.com/how-gen-zs-and-millennials-are-rewriting-the-rules-of-career-success/",
-    "summary": "Singapore’s younger workforce is redefining career growth, and Deloitte’s Mark Nicholas Teoh says employers must adapt. The post How Gen Zs and millennials are rewriting the rules of career success appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-federal-court-hands-employers-potential-erc-refund-win-1782925273000",
-    "title": "Federal court hands employers potential ERC refund win",
-    "link": "https://hrexecutive.com/federal-court-hands-employers-potential-erc-refund-win/",
-    "summary": "Last month, a federal court denied the government’s motion to dismiss an employer’s ERC refund suit—possibly a significant victory for employers. The post Federal court hands employers potential ERC refund win appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-can-ai-bridge-the-soft-skills-gap-1782925227000",
-    "title": "Can AI bridge the soft skills gap?",
-    "link": "https://hrexecutive.com/can-ai-bridge-the-soft-skills-gap/",
-    "summary": "In one survey, 3 in 5 employers say soft skills matter more than ever, as more than half of US and UK leaders believe young people lack them. The post Can AI bridge the soft skills gap? appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-trump-8217-s-labor-secretary-pick-could-reshape-ai-enforceme-1782909006000",
-    "title": "Trump&#8217;s Labor Secretary pick could reshape AI enforcement",
-    "link": "https://hrexecutive.com/trumps-labor-secretary-pick-could-reshape-ai-enforcement/",
-    "summary": "A government official well-known in HR tech circles is primed to take over the U.S. Department of Labor after some major shake-ups. The post Trump&#8217;s Labor Secretary pick could reshape AI enforcement appeared first on HR Executive .",
-    "publishedAt": "2026-07-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
     ]
   }
 ];
@@ -704,6 +703,40 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134541",
+    "title": "SCL Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Reference scsrail/TP/7304/4212 Contract Type Permanent Closing Date 19 July, 2026 Job Category Tunnels &amp; Routeway Business Unit Construction Management "
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "London, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
+    "postedAt": "2026-07-06",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134540",
+    "title": "Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Salary Competitive Frequency Monthly Job Reference scsrail/TP/76/4207 Contract Type Permanent Closing Date 27 July, 2026 Job Category Structures &amp; Earthwork"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Ruislip, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
+    "postedAt": "2026-07-06",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134543",
     "title": "Head of Hiring and Training South FL",
     "company": "7 Brew Coffee",
@@ -897,26 +930,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
     "postedAt": "2026-07-02",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134357",
-    "title": "Data Scientist",
-    "company": "New Flyer",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "New Flyer is North America's heavy-duty transit bus leader and offers the most advanced product line under the XcelsiorÂ® and Xcelsior CHARGEÂ® brands",
-      "It also offers infrastructure development through NFI Infrastructure Solutionsâ¢, a service dedicated to providing safe, sustainable, and reliable"
-    ],
-    "skills": [
-      "Python",
-      "SQL"
-    ],
-    "location": "Winnipeg, Winnipeg, Manitoba, Canada",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
-    "postedAt": "2026-07-01",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-07T10:34:00.821Z';
+export const dataFetchedAt = '2026-07-07T19:16:38.897Z';
