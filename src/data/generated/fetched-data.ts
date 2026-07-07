@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-why-worms-and-microbes-are-catching-on-as-a-manure-pollution-1783418400000",
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
+    "publishedAt": "2026-07-07",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-your-family-8217-s-300-stake-in-openai-1783360800000",
     "title": "Your family&#8217;s $300 stake in OpenAI",
     "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
@@ -177,18 +189,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-california-8217-s-carbon-manure-math-doesn-8217-t-add-up-1782982800000",
-    "title": "Why California&#8217;s carbon manure math doesn&#8217;t add up",
-    "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-    "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because&#8230;",
-    "publishedAt": "2026-07-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
     "id": "news-employers-want-ai-benefits-support-but-workers-aren-8217-t-s-1782926429000",
     "title": "Employers want AI benefits support, but workers aren&#8217;t sold yet",
     "link": "https://hrexecutive.com/employers-want-ai-benefits-support-but-workers-arent-sold-yet/",
@@ -255,53 +255,45 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.02514v1",
-    "title": "Distributed Attacks in Persistent-State AI Control",
+    "id": "arxiv-2607.05396v1",
+    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
     "authors": [
-      "Josh Hills",
-      "Ida Caspary",
-      "Asa Cooper Stickland"
+      "Wenhao Li",
+      "Xueying Jiang",
+      "Quanhao Qian",
+      "Deli Zhao",
+      "Shijian Lu",
+      "Gongjie Zhang",
+      "Ran Xu"
     ],
-    "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR with the best natural cover. To study the resulting dynamics, we introduce Iterative VibeCoding, a setting for AI control, the study of safely deploying capable but potentially untrusted AI. In Iterative VibeCoding, a coding agent builds software over a sequence of PRs in a persistent codebase while pursuing a covert side task. Our benchmark includes two task families: CLI tools and Flask web services, across 20 total task variations. We use Claude Sonnet 4.5 as the attack agent and GPT-4o as the ",
-    "link": "http://arxiv.org/abs/2607.02514v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the camera is, but rather figure it out by itself. To this end, we introduce Camera-Centric VLA (CamVLA), a new VLA model that decouples manipulation controls from camera geometry by predicting (i) a camera-centric end-effector action expressed in the local camera frame, and (ii) a 6-DoF hand-eye matrix relating cameras to the robot base. A determinis",
+    "link": "http://arxiv.org/abs/2607.05396v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02513v1",
-    "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-    "authors": [
-      "Matteo Boglioni",
-      "Thibault Rousset",
-      "Siva Reddy",
-      "Marius Mosbach",
-      "Verna Dankers"
-    ],
-    "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm that targets specific model parameters. However, existing benchmarks evaluate unlearning solely at the output level, leaving open the question of whether unlearning truly erases knowledge from a model's parameters or merely obfuscates it, a concern reinforced by the success of resurfacing attacks. To bridge this gap, we introduce LACUNA: the first unlearning testbed with ground-truth parameter-level localization. LACUNA injects PII of synthetic individuals into predefined parameters of 1B and 7B O",
-    "link": "http://arxiv.org/abs/2607.02513v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.CL",
+      "cs.CV",
       "cs.AI",
-      "cs.LG"
+      "cs.LG",
+      "cs.RO"
     ]
   },
   {
-    "id": "arxiv-2607.02512v1",
-    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "id": "arxiv-2607.05394v1",
+    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
     "authors": [
-      "Wentao Zhang",
-      "Liliana Hotsko",
-      "Woojeong Kim",
-      "Pengyu Nie",
-      "Stuart Shieber",
-      "Yuntian Deng"
+      "Shiyuan Feng",
+      "Huan-ang Gao",
+      "Haohan Chi",
+      "Hanlin Wu",
+      "Zhilong Zhang",
+      "Zheng Jiang",
+      "Bingxiang He",
+      "Wei-Ying Ma",
+      "Ya-Qin Zhang",
+      "Hao Zhou"
     ],
-    "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of",
-    "link": "http://arxiv.org/abs/2607.02512v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL weak teacher is not enough, because the teacher's final policy mixes useful RL gains with the limitations of the smaller model. We propose Direct On-Policy Distillation (Direct-OPD), which transfers the teacher's RL-induced policy shift instead. Direct-OPD compares the post-RL teacher with its own pre",
+    "link": "http://arxiv.org/abs/2607.05394v1",
+    "publishedAt": "2026-07-06",
     "categories": [
       "cs.LG",
       "cs.AI",
@@ -309,328 +301,423 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2607.02510v1",
-    "title": "Online Safety Monitoring for LLMs",
+    "id": "arxiv-2607.05393v1",
+    "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
     "authors": [
-      "Mona Schirmer",
-      "Metod Jazbec",
-      "Alexander Timans",
-      "Christian Naesseth",
-      "Maja Waldron",
-      "Eric Nalisnick"
+      "Raphaël Bonnet-Guerrini",
+      "Bruno Sanchez",
+      "Dominique Fouchez",
+      "Benjamin Racine",
+      "Maya Guy",
+      "Mariam Sabalbal",
+      "Manal Yassine",
+      "Vincenzo Piuri"
     ],
-    "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
-    "link": "http://arxiv.org/abs/2607.02510v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without human-labeled data using injected transients and bogus-dominated survey data, remains robust under strong class contamination, and provides calibrated uncertainty quantification. We combine simulated transient injections with a contaminated survey class and train a dual-network model using asymmetric co-teaching for classes with different label-noise levels. We evaluate performance on a benchmark subset and analyze the learned representation with latent-space visualization tools. For un",
+    "link": "http://arxiv.org/abs/2607.05393v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "astro-ph.IM",
+      "astro-ph.GA",
+      "astro-ph.HE",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05391v1",
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "authors": [
+      "Jacky Kwok",
+      "Shulu Li",
+      "Pranav Atreya",
+      "Yuejiang Liu",
+      "Yixing Jiang",
+      "Chelsea Finn",
+      "Marco Pavone",
+      "Ion Stoica",
+      "Azalia Mirhoseini"
+    ],
+    "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) re",
+    "link": "http://arxiv.org/abs/2607.05391v1",
+    "publishedAt": "2026-07-06",
     "categories": [
       "cs.AI",
       "cs.CL",
       "cs.LG",
-      "stat.AP",
+      "cs.MA",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05382v1",
+    "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+    "authors": [
+      "Haozhe Wang",
+      "Weijia Feng",
+      "Jinpeng Yu",
+      "Che Liu",
+      "Ping Nie",
+      "Fangzhen Lin",
+      "Jiaming Liu",
+      "Ruihua Huang",
+      "Jimmy Lin",
+      "Wenhu Chen",
+      "Cong Wei"
+    ],
+    "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed corpora, but the visual world is open-ended. We construct SearchGen-20K and SearchGen-Bench, with 20,839 prompts spanning twelve failure categories and twenty-two domains, paired with a pre-executed multimodal SearchGen-Corpus-1M to support offline, reproducible research. On SearchGen-Bench, frontier open generators score only 21 to 28 out of 100, a 40-point collapse invisible to existing benchmarks. The natural remedy is to employ search tools, enabling agentic visual generation. However, we fin",
+    "link": "http://arxiv.org/abs/2607.05382v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05381v1",
+    "title": "What Does a Discrete Diffusion Model Learn?",
+    "authors": [
+      "Rodrigo Casado Noguerales",
+      "Bernhard Schölkopf",
+      "Thomas Hofmann",
+      "Aran Raoufi"
+    ],
+    "summary": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural network in the wrong coordinate changes the process being trained and sampled. Starting with a rigorous derivation of the continuous-time Markov chain (CTMC) ELBO for any noising process, boundary terms included, we prove the \\emph{Oracle Distance} theorem: the negative ELBO is exactly equal to the data entropy plus the path KL from the oracle reverse process to the learned one, not merely a bound. Its unique optimizer is therefore the conditional expectation of the true reverse jump rate given the current noisy state, and its irreducible cost is the rate at which the forward process $Z_t$ destr",
+    "link": "http://arxiv.org/abs/2607.05381v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.IT",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2607.02509v1",
-    "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+    "id": "arxiv-2607.05380v1",
+    "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
     "authors": [
-      "Yanjun Zhao",
-      "Ruizhong Qiu",
-      "Tianxin Wei",
-      "Yuanchen Bei",
-      "Zhining Liu",
-      "Lingjie Chen",
-      "Ismini Lourentzou",
-      "Hanghang Tong",
-      "Jingrui He"
+      "Yury Gorishniy",
+      "Akim Kotelnikov",
+      "Ivan Rubachev",
+      "Artem Babenko"
     ],
-    "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer gener",
-    "link": "http://arxiv.org/abs/2607.02509v1",
-    "publishedAt": "2026-07-02",
+    "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyperparameters for all underlying MLPs, which requires hyperparameter tuning for achieving the best performance. In this work, we introduce TabPack, an efficient MLP ensemble with strong out-of-the-box performance and reduced reliance on traditional tuning. In a single run, TabPack samples and trains many MLPs with different hyperparameters efficiently in parallel and selects ensemble members on the fly during training. Thus, TabPack only requires specifying ranges from which to sample MLP hyperparameter rather than exact hyperparameter values, which naturally demands less precision for good perfo",
+    "link": "http://arxiv.org/abs/2607.05380v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02507v1",
-    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
-    "authors": [
-      "Arman Ghaffarizadeh",
-      "Danyal Mohaddes",
-      "Aliakbar Izadkhah",
-      "Shahriar Noroozizadeh"
-    ],
-    "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an off-the-record (OTR) channel elicited under the same condition. We introduce a dual-channel debate framework in which agents produce public utterances that enter the shared history alongside OTR responses that are recorded but never shown to the other participant. Across 10 models, 3 scenarios, and 5 variations within each scenario, alignment-inducing settings produce systematic public-OTR divergence in the targeted agent, with its decision divergence rising from a $\\sim$3% baseline to roughly ",
-    "link": "http://arxiv.org/abs/2607.02507v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02504v1",
-    "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
-    "authors": [
-      "Yuxuan Li",
-      "Lingxi Xie",
-      "Xinyue Huo",
-      "Jihao Qiu",
-      "Jiacheng Shao",
-      "Pengfei Chen",
-      "Jiannan Ge",
-      "Kaiwen Duan",
-      "Qi Tian"
-    ],
-    "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field through two primary contributions. (1) We introduce \\textbf{DramaSR-532K}, a large-scale benchmark comprising 532K annotated dialogue lines across more than 900 unique characters, necessitating the integration of auditory, linguistic, and visual cues for speaker recognition. (2) We propose \\textbf{DramaSR-LRM}, a robust approach built upon a large reasoning model (LRM). DramaSR-LRM is designed to autonomously aggregate contextual evidence via multimodal tool-use, synthesizing diverse inputs to achiev",
-    "link": "http://arxiv.org/abs/2607.02504v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02502v1",
-    "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
-    "authors": [
-      "Yunhe Li",
-      "Hao Shi",
-      "Wenhao Liu",
-      "Mengzhe Ruan",
-      "Hanxu Hou",
-      "Zhongxiang Dai",
-      "Shuang Qiu",
-      "Linqi Song"
-    ],
-    "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher",
-    "link": "http://arxiv.org/abs/2607.02502v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02499v1",
-    "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
-    "authors": [
-      "Gil Harari",
-      "Yoel Zimmermann",
-      "Ola Tangen Kulseng",
-      "Laura Zichi",
-      "Chuin Wei Tan",
-      "Marc L. Descoteaux",
-      "Boris Kozinsky"
-    ],
-    "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and its variants in the community. Here, we implement and systematically compare a class of recently proposed matrix-structured optimizers, including Muon, SOAP, and the hybrid SOAP-Muon, for training NequIP and Allegro MLIP models. We find that these optimizers can substantially outperform Adam in both convergence speed and final accuracy. SOAP and SOAP-Muon emerge as robust and consistently strong methods, while Muon only provides partial gains relative to Adam. The improvements are particularly pr",
-    "link": "http://arxiv.org/abs/2607.02499v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "physics.chem-ph",
-      "physics.comp-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02496v1",
-    "title": "Controllable Sim Agents with Behavior Latents",
-    "authors": [
-      "Juanwu Lu",
-      "Junyu Zhu",
-      "Ziran Wang"
-    ],
-    "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neural Variational Agents (CNeVA), a controllable simulated-agent framework that learns to infer a per-agent Gaussian behavior latent from per-channel discounted returns via a closed-form conjugate variational update, conditioning a rectified-flow trajectory generator trained on a mixed channel-mask curriculum for classifier-free guidance. To tackle scarcity in reward signals, we propose soft eligibility gates that replace hard binary thresholds with smooth exponential decay, preserving the gradient ",
-    "link": "http://arxiv.org/abs/2607.02496v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.RO",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.02494v1",
-    "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+    "id": "arxiv-2607.05378v1",
+    "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
     "authors": [
-      "Bohan Liu",
-      "Wenqian Ye",
-      "Guangzhi Xiong",
-      "Zhenghao He",
-      "Sanchit Sinha",
-      "Aidong Zhang"
+      "Yujiang Li",
+      "Zhenyu Hou",
+      "Yi Jing",
+      "Jie Tang",
+      "Yuxiao Dong"
     ],
-    "summary": "Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images confounds visual representations, biasing them toward lexical meaning rather than true visual semantics. This robustness issue, commonly described as a Typographic Attack (TA), exposes a vulnerability that poses a significant risk to safety-critical applications such as autonomous driving. To achieve interpretable and effective robustness against TA, we propose a novel, training-free mechanistic interpretability method. Our method provides sampling-based interpretations of hidden state representa",
-    "link": "http://arxiv.org/abs/2607.02494v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction offers a natural solution by summarizing previous interaction states and continuing the rollout under a compressed context, but incorporating compaction into reinforcement learning remains underexplored. We propose CompactionRL, a reinforcement learning strategy to train long-horizon agentic LLMs with context compaction. Our approach jointly optimizes task execution and summary generation with token-level loss normalization and cross-trajectory generalized advantage estimation. This design enables the LLM agents to learn from compacted long-horizon trajectories. We train CompactionRL on top of",
+    "link": "http://arxiv.org/abs/2607.05378v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.CV",
-      "cs.CL"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.02491v1",
-    "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+    "id": "arxiv-2607.05377v1",
+    "title": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
     "authors": [
-      "Timo Bertram",
-      "Sidhant Bhavnani",
-      "Richard Freinschlag",
-      "Erich Kobler",
-      "Andreas Mayr",
-      "Günter Klambauer"
+      "Jiaqi Peng",
+      "Xiqian Yu",
+      "Delin Feng",
+      "Yuqiang Yang",
+      "Wenzhe Cai",
+      "Jing Xiong",
+      "Ganlin Yang",
+      "Jinliang Zheng",
+      "Jiafei Cao",
+      "Xueyuan Wei",
+      "Jiangmiao Pang",
+      "Yuan Shen",
+      "Tai Wang"
     ],
-    "summary": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfaction problems. SE-RRMs act as neural solvers that generate full solution proposals and guide classical symbolic solvers, such as backtracking or SAT-based methods like Glucose 4.1 and CaDiCaL 3.0.0, that produce globally correct solutions. Centrally, we investigate when neural guidance with G-RRM improves the search efficiency of symbolic solvers. % Our experiments show that the efficacy of G-RRM depends on two conditions: first, the problem instances must have an expansive combinatorial search",
-    "link": "http://arxiv.org/abs/2607.02491v1",
-    "publishedAt": "2026-07-02",
+    "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current observations. Hierarchical dual-system methods address this but suffer from a gap between high-level planning semantics and low-level execution kinematics. We introduce Cortex, a bidirectionally aligned embodied agent framework with a customized planning interface that conveys executable and tractable subtask plans from high-level VLM to low-level VLA. Specifically, we standardize manipulation subtasks into 32 canonical skill primitives and inject tractability principles, such as representative object attributes and improved trajectory reachability, into the data generation pipeline. This enables",
+    "link": "http://arxiv.org/abs/2607.05377v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.02490v1",
-    "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
-    "authors": [
-      "Liyan Tang",
-      "Fangcong Yin",
-      "Greg Durrett"
-    ],
-    "summary": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual inputs during reflection, limiting their ability to translate feedback into grounded corrections, especially for out-of-distribution images. To address this issue, we propose a novel reinforcement learning training framework VRRL, with two components explicitly designed to elicit visually grounded self-reflection. First, we randomly mask trajectory prefixes during training to emphasize recovery from incorrect intermediate predictions rather than making early mistakes. Second, we introduce buffere",
-    "link": "http://arxiv.org/abs/2607.02490v1",
-    "publishedAt": "2026-07-02",
-    "categories": [
-      "cs.CL",
+      "cs.RO",
+      "cs.AI",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2607.02484v1",
-    "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+    "id": "arxiv-2607.05375v1",
+    "title": "Fitted Occupancy-Ratio Evaluation without Bellman Completeness",
     "authors": [
-      "Xuehui Wang",
-      "Xuankun Yang",
-      "Wei Shen"
+      "Lars van der Laan",
+      "Nathan Kallus"
     ],
-    "summary": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: the widespread dispersion of textual noise that corrupts dense cross-modal scoring, and the feature fragmentation inherent to standard token selection. To address these issues, we propose Entropy-Aware Dense Pruning (EADP), a framework that reformulates pruning as a structured compression problem. EADP first leverages statistical entropy to quantify and filter out textual noise, yielding a robust, fine-grained instruction relevance score. Subsequently, instead of naive Top-K selection, EADP casts ",
-    "link": "http://arxiv.org/abs/2607.02484v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Occupancy ratios correct distribution shift in offline reinforcement learning and are central to off-policy evaluation. Existing primal-dual and minimax methods typically estimate these ratios by enforcing occupancy-balance moments over a critic class. We propose fitted occupancy-ratio evaluation (FORE), a fitted fixed-point method that characterizes the discounted occupancy ratio through an adjoint Bellman recursion. At each iteration, FORE solves a single-level density-ratio objective on one-step-transition data, thereby projecting the adjoint Bellman image onto a log-ratio class in Kullback--Leibler (KL) divergence. Unlike analyses of fitted Q-evaluation, which typically require value-function realizability together with Bellman completeness or projected-operator stability, our central ",
+    "link": "http://arxiv.org/abs/2607.05375v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.CV",
-      "cs.AI"
+      "stat.ML",
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.02473v1",
-    "title": "Audio-Based Understanding of Audiobook Narration Appeal",
+    "id": "arxiv-2607.05369v1",
+    "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
     "authors": [
-      "Shahar Elisha",
-      "Mariano Beguerisse-Díaz",
-      "Emmanouil Benetos"
+      "Kaiyuan Chen",
+      "Shuangyu Xie",
+      "Letian Fu",
+      "Justin Yu",
+      "William Pacini",
+      "Sandeep Bajamahal",
+      "Hudson Kim",
+      "Jaimyn Drake",
+      "Daehwa Kim",
+      "Haoru Xue",
+      "Jonathan Francis",
+      "Christian Juette",
+      "Peter Schaldenbrand",
+      "Muhammet Yunus Seker",
+      "Ruwan Wickramarachchi",
+      "Uksang Yoo",
+      "Guanzhi Wang",
+      "Adithyavairavan Murali",
+      "Balakumar Sundaralingam",
+      "S. Shankar Sastry",
+      "Spencer Huang",
+      "Yuke Zhu",
+      "Linxi \"Jim\" Fan",
+      "Ken Goldberg"
     ],
-    "summary": "Narration is central to the audiobook listening experience, shaping how listeners engage with and understand the content. This work explores how narration qualities shape an audiobook's appeal, noting that their effects can vary by genre, title, and audience. We extract vocal and acoustic features (e.g., tone, pace, loudness) from LibriVox using pre-trained audio models and analyse their relationship with consumption data (specifically, view-rate) and their interplay with genre and title. Despite limited consumption data, we find that acoustic information alone has a robust association with appeal, even after accounting for title effects. We further validate these findings using more nuanced proprietary engagement metrics. To our knowledge, this is the first systematic computational study ",
-    "link": "http://arxiv.org/abs/2607.02473v1",
-    "publishedAt": "2026-07-02",
+    "summary": "For robots to work reliably in commercial and industrial applications, can recent advances in agentic coding systems combine interpretable robot programming with the open-world adaptability of model-free policies? We focus on \"Variational Automation\" (VA), a class of tasks that have larger variations in object geometry and pose than fixed automation. Model-free policies often struggle to close the reliability gap for VA tasks, which must be executed persistently and reliably in commercial and industrial applications. Motivated by prior work on Task and Motion Planning (TAMP) and the Robot Operating System (ROS), we introduce Graph-as-Policy (GaP), a multi-agent coding harness that generates directed computation graphs with perception, planning, and control nodes from a Modular Open Robot S",
+    "link": "http://arxiv.org/abs/2607.05369v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05365v1",
+    "title": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models",
+    "authors": [
+      "Thomas Thebaud",
+      "Yuzhe Wang",
+      "Hao Zhang",
+      "Sathvik Manikantan Napa Ugandhar",
+      "Ashish Hallur",
+      "Georgi Tinchev",
+      "Venkatesh Ravichandran",
+      "Laureano Moro-Velazquez"
+    ],
+    "summary": "Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic speech. However, standard speech and text benchmarks do not capture whether these systems behave naturally in conversations, where timing, turn-taking, prosody, interpersonal stance, language and dialect consistency, and relationship-aware appropriateness jointly shape perceived quality. We introduce SPEARBench, a benchmark for evaluating naturalness in speech-to-speech language models from question-answer interactions. SPEARBench constructs controlled dialogue prompts from the Seamless Interaction corpus, runs inference across multiple models, and evaluates generated answers using a multidimensional protocol that covers response latency, interruptions, speech quality, ASR robustness, language a",
+    "link": "http://arxiv.org/abs/2607.05365v1",
+    "publishedAt": "2026-07-06",
     "categories": [
       "cs.CL",
-      "cs.SD",
+      "cs.AI",
       "eess.AS"
     ]
   },
   {
-    "id": "arxiv-2607.02469v1",
-    "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
+    "id": "arxiv-2607.05364v1",
+    "title": "REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing",
     "authors": [
-      "Jiale Amber Wang",
-      "Kaiyuan Wang",
-      "Pengyu Nie"
+      "Cheng-Kang Chou",
+      "Ming-To Chuang",
+      "Ke-Han Lu",
+      "Chan-Jan Hsu",
+      "Hung-yi Lee"
     ],
-    "summary": "Software tests and code evolve together: a code change should be followed by new or updated tests that record the new software behavior. Yet existing test generation and update benchmarks often isolate the test from the code change, and rely on static metadata that does not verify whether a test is executable or semantically tied to the code change. This makes it difficult to evaluate whether a test automation agent understands how a code change should propagate into the test suite. We introduce TestEvo-Bench, a benchmark of test and code co-evolution tasks mined from software repositories, with two tracks: in test generation, the agent shall write new tests to capture the new software behavior; in test update, the agent shall adapt failing existing tests to the changed software behavior. ",
-    "link": "http://arxiv.org/abs/2607.02469v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated timestamps can drift across long non-speech spans: the transcript may remain plausible, but the decoded time axis drifts away from the audio. We study this non-speech-induced timestamp drift with self-built gap and long-gap benchmarks across 15 evaluated timestamp-producing ASR and audio-language systems. Naive timestamp-corrected fine-tuning improves alignment but can severely degrade non-target ASR behavior, exposing a forgetting problem. We propose REDDIT(REplay-based Distribution eDITing), a lightweight two-stage post-training framework that corrects timestamps while avoiding this catastr",
+    "link": "http://arxiv.org/abs/2607.05364v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.SE",
+      "cs.CL",
       "cs.AI",
-      "cs.CL"
+      "cs.SD"
     ]
   },
   {
-    "id": "arxiv-2607.02467v1",
-    "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting",
+    "id": "arxiv-2607.05363v1",
+    "title": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
     "authors": [
-      "Vivienne Ming"
+      "Dylan Zongmin Liu"
     ],
-    "summary": "Whether pairing people with AI helps or hurts is usually reported as a single average effect. Using a real-money prediction market (Polymarket) as an objective, externally resolved benchmark, this pilot shows that the value of human-AI collaboration depends on a specific, measurable form of human capital. Analyzed at the level of the individual forecaster, hybrid performance is trimodal: most people either deferred to the model (matching it) or used it to rubber-stamp a prior guess (performing worse than the model alone), while a minority engaged in genuine complementary reasoning and reached accuracy matching or even exceeding (i.e., lower error than) the market itself. Collaborative traits (perspective-taking, intellectual humility, and curiosity) rather than raw cognitive ability or mod",
-    "link": "http://arxiv.org/abs/2607.02467v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Personal agents are becoming persistent user-owned intermediaries: they remember preferences, filter platform-mediated information, use tools, and negotiate with services. Existing benchmarks evaluate tool use, web navigation, desktop control, personalization, recommendation, and evolving context, but rarely ask whether an agent preserves user sovereignty: advancing the user's current interests while respecting privacy, consent, evidence, user burden, and resistance to manipulative incentives. We introduce SovereignPA-Bench, an executable benchmark for evaluating user-owned personal agents under evolving intent, platform mediation, privacy boundaries, consent constraints, evidence requirements, and burden tradeoffs. The benchmark separates agent-visible ObservableState from evaluator-only ",
+    "link": "http://arxiv.org/abs/2607.05363v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.CY",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.02466v1",
-    "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+    "id": "arxiv-2607.05359v1",
+    "title": "Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning",
     "authors": [
-      "Junhao Shi",
-      "Siyin Wang",
-      "Xiaopeng Yu",
-      "Li Ji",
-      "Jingjing Gong",
-      "Xipeng Qiu"
+      "Idan Lev-Yehudi",
+      "Vadim Indelman"
     ],
-    "summary": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring physical competence (how to move) and acquiring semantic alignment (what to do). Crucially, only the latter requires language supervision. Building on this Decomposition Hypothesis, we propose Task-Agnostic Pretraining (TAP), a two-stage framework that first learns transferable motor priors from cheap, unlabeled interaction data -- including discarded off-task trajectories and autonomous robot play -- via a self-supervised Inverse Dynamics objective. A lightweight second stage then grounds these pri",
-    "link": "http://arxiv.org/abs/2607.02466v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Planning under uncertainty in continuous domains is essential for autonomous systems, yet computationally demanding. Tree-based search methods such as Monte Carlo Tree Search (MCTS) remain popular, but their branching structure can require sampling budgets that grow exponentially with lookahead depth in the worst case. From a tree perspective, continuous state or action spaces become especially challenging, since the planner must decide where to search in an infinite branching hierarchy. We propose Graph Sparse Sampling (GSS), an online planning algorithm that shares sampled futures across many candidate decisions, rather than sampling separate successors for each candidate action. This branch-free graph exposes large GPU-friendly batches, while using heuristics to focus computation. We pr",
+    "link": "http://arxiv.org/abs/2607.05359v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.RO",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.02464v1",
-    "title": "Will Scaling Improve Social Simulation with LLMs?",
+    "id": "arxiv-2607.05355v1",
+    "title": "Faithfulness to Refusal: A Causal Audit of Neuron Selectors",
     "authors": [
-      "Caleb Ziems",
-      "William Held",
-      "Su Doga Karaca",
-      "David Grusky",
-      "Tatsunori Hashimoto",
-      "Diyi Yang"
+      "Ananth Eswar",
+      "Pratinav Seth",
+      "Utsav Avaiya",
+      "Vinay Kumar Sankarapu"
     ],
-    "summary": "Large Language Model (LLM) social simulations are a promising research method, but they are not yet faithful enough to be adopted widely. In this work, we investigate whether the current scaling paradigm in language modeling is likely to close these gaps, or whether simulation fidelity is orthogonal to general capabilities and therefore deserving of more research attention. We use scaling laws to study the relationship between LLMs' compute scale, general capability benchmarks, and the fidelity of social simulation in three representative sub-domains: opinion modeling, behavioral simulation, and longitudinal forecasting. Surprisingly, we discover strong compute scaling in all three settings, using a suite of 85 transformer LLMs with the Qwen3 architecture pre-trained on the DCLM web text c",
-    "link": "http://arxiv.org/abs/2607.02464v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Attribution scores increasingly identify which neuron rows of a language model matter for applications such as pruning, interpretability, and editing for safety, yet whether they identify causally important rows is rarely tested directly. We address this with two paired audits built on one-shot neuron-row zeroing. We first audit selectors at the language-modeling level: attribution methods substantially outperform activation and magnitude-based baselines at identifying dispensable rows across five LLMs. We then adapt the same intervention into a behavior test by driving it with a contrastive harmful-versus-benign signal; the attributed rows are sufficient to install refusal on hate and crime while keeping benign over-refusal low and preserving language model fluency, and specific in that l",
+    "link": "http://arxiv.org/abs/2607.05355v1",
+    "publishedAt": "2026-07-06",
     "categories": [
-      "cs.CL"
+      "cs.CL",
+      "cs.ET",
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.02461v1",
-    "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+    "id": "arxiv-2607.05353v1",
+    "title": "Selective Disclosure Watermarking for Large Language Models",
     "authors": [
-      "Donghyun Lee",
-      "Jitesh Chavan",
-      "Duy Nguyen",
-      "Sam Huang",
-      "Liming Jiang",
-      "Priyadarshini Panda",
-      "Timo Mertens",
-      "Saurabh Shukla"
+      "Xuyang Chen",
+      "Xiang Li",
+      "Yangxinyu Xie",
+      "Qi Long"
     ],
-    "summary": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, forcing prior methods to re-fit calibration data for every new checkpoint or modality. We present OrbitQuant, a data-agnostic weight-activation quantizer that bypasses range estimation by quantizing in a normalized, rotated basis. In this basis, a randomized permuted block-Hadamard (RPBH) rotation concentrates each coordinate around one fixed, known marginal regardless of the input, so a single Lloyd-Max codebook serves all timesteps, prompts, and layers of a given input dimension. We extend the ",
-    "link": "http://arxiv.org/abs/2607.02461v1",
-    "publishedAt": "2026-07-02",
+    "summary": "Watermarking methods embed imperceptible and verifiable signals into text generated by large language models (LLMs). Existing approaches include zero-bit schemes for distinguishing synthetic text from human writing and multi-bit schemes for embedding metadata. However, current multi-bit watermarking methods do not allow selective disclosure: verifying any part of the watermark requires revealing the entire embedded message. This lack of control leads to unnecessary information exposure and raises privacy concerns. We propose Hierarchical Vocabulary Routing (HeRo), a watermarking framework that enables selective disclosure of embedded metadata. The method recursively partitions the vocabulary and distributes watermark information across hierarchical layers, so that different verifiers can d",
+    "link": "http://arxiv.org/abs/2607.05353v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05352v1",
+    "title": "Multiplayer Interactive World Models with Representation Autoencoders",
+    "authors": [
+      "Anthony Hu",
+      "Václav Volhejn",
+      "Adrien Ramanana Rahary",
+      "Chris Mulder",
+      "Aditya Makkar",
+      "Amélie Royer",
+      "Manu Orsini",
+      "Alyx Liao",
+      "Adam Jelley",
+      "Eloi Alonso",
+      "Florian Laurent",
+      "Fredrik Norén",
+      "James Swingos",
+      "Jan Hünermann",
+      "Kent Rollins",
+      "Lucas Hosseini",
+      "Matthieu Le Cauchois",
+      "Maxim Peter",
+      "Pim de Witte",
+      "Tim Brown",
+      "Vincent Micheli",
+      "Moritz Böhle",
+      "Gabriel de Marmiesse",
+      "Viktoriia Sharmanska",
+      "Lucia Specia",
+      "Michael Black",
+      "Patrick Pérez"
+    ],
+    "summary": "We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of multiple agents, learning to attribute changes in the scene to the correct player and to stay coherent under arbitrary combinations of their actions. We study this problem in the game of Rocket League, where players compete and cooperate under fast, tightly coupled dynamics. Trained on 10,000 hours of gameplay collected with publicly available bots, our 5-billion-parameter latent diffusion model generates four-player matches in real time, producing 20 frames per second on a single Nvidia B200 GPU. Although trained only on short clips, its rollou",
+    "link": "http://arxiv.org/abs/2607.05352v1",
+    "publishedAt": "2026-07-06",
     "categories": [
       "cs.CV",
       "cs.AI",
       "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05346v1",
+    "title": "OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement",
+    "authors": [
+      "Adriana Laurindo Monteiro",
+      "Nayse Fagundes",
+      "Gabriel Mattos Langeloh",
+      "Gustavo de Oliveira Kanno",
+      "Priscila Louise Aguirre",
+      "Thiago Costa Rizuti da Rocha",
+      "Victor Leme Beltran"
+    ],
+    "summary": "We propose OptiAgent, a multi-agent framework that, given a natural language description of an Operations Research problem, is able to output a solver-ready mathematical formulation as well as executable code. Our architecture prioritizes the mathematical modeling step, where dedicated agents extract structures, such as decision variables and constraints, enabling iterative self-correction. We introduce a novel multi-loop validation architecture with four specialized feedback mechanisms, each targeting a distinct failure mode such as misinterpretation, structural defects, mathematical inconsistencies, validation failures, and code errors. Alongside accuracy, our modular design improves the process of solving optimization problems by improving transparency, as each agent exposes its reasoni",
+    "link": "http://arxiv.org/abs/2607.05346v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2607.05339v1",
+    "title": "TREK: Distill to Explore, Reinforce to Refine",
+    "authors": [
+      "Yuanda Xu",
+      "Zhengze Zhou",
+      "Kayhan Behdin",
+      "Jelena Markovic-Voronov",
+      "Hejian Sang",
+      "Xiaomin Li",
+      "Wenhui Zhu",
+      "Xinchen Du",
+      "Aida Rahmattalabi",
+      "Ran He",
+      "Sen Na",
+      "Zhipeng Wang",
+      "Alborz Geramifard"
+    ],
+    "summary": "Group Relative Policy Optimization (GRPO) is effective when the current policy already samples useful reasoning trajectories, but it stalls on hard prompts whose correct solution modes lie outside the student's on-policy support. We propose TREK (Teacher-Routed Exploration via Forward KL), a simple staged procedure that uses distillation not for imitation but for exploration support expansion. A key advantage of TREK is its generality: because it only consumes verified output trajectories, it can use an external black-box teacher, a white-box teacher, or the same model given additional inference-time context, and it can efficiently identify which hard-prompt samples are most worth consolidating even when teacher internals are unavailable. TREK first identifies prompts where the unaided stu",
+    "link": "http://arxiv.org/abs/2607.05339v1",
+    "publishedAt": "2026-07-06",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1134543",
+    "title": "Head of Hiring and Training South FL",
+    "company": "7 Brew Coffee",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Head of Hiring and Training - 7Crew Enterprises 7Brew Coffee is searching for a Director of Hiring and Training to be based in Tampa FL.Â We are looking for an "
+    ],
+    "skills": [],
+    "location": "Tampa, Tampa, Florida, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
+    "postedAt": "2026-07-06",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1134516",
     "title": "Supply Chain Analyst",
@@ -832,4 +919,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-06T20:58:39.041Z';
+export const dataFetchedAt = '2026-07-07T10:34:00.821Z';
