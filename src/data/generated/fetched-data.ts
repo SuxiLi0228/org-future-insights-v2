@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-emtech-ai-2026-the-rise-of-the-ai-platform-1783527970000",
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "summary": "",
+    "publishedAt": "2026-07-08",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-worms-fight-pollution-and-geoengineering-faces--1783512600000",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
@@ -230,18 +242,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
     "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
-    "publishedAt": "2026-07-03",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-uk-s-generational-tobacco-ban-might-not-work-i-m-support-1783069200000",
-    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-    "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
     "publishedAt": "2026-07-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -833,4 +833,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-08T16:16:27.030Z';
+export const dataFetchedAt = '2026-07-08T21:48:57.849Z';
