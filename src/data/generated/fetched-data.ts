@@ -254,454 +254,394 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.05396v1",
-    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "id": "arxiv-2607.06565v1",
+    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
     "authors": [
-      "Wenhao Li",
-      "Xueying Jiang",
-      "Quanhao Qian",
-      "Deli Zhao",
-      "Shijian Lu",
-      "Gongjie Zhang",
-      "Ran Xu"
+      "Tianjiao Yu",
+      "Xinzhuo Li",
+      "Yifan Shen",
+      "Onkar Susladkar",
+      "Yuanzhe Liu",
+      "Xiaona Zhou",
+      "Ismini Lourentzou"
     ],
-    "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the camera is, but rather figure it out by itself. To this end, we introduce Camera-Centric VLA (CamVLA), a new VLA model that decouples manipulation controls from camera geometry by predicting (i) a camera-centric end-effector action expressed in the local camera frame, and (ii) a 6-DoF hand-eye matrix relating cameras to the robot base. A determinis",
-    "link": "http://arxiv.org/abs/2607.05396v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural cues and fine geometric details into one undifferentiated representation. We introduce ELSA3D, a unified 3D model that addresses this with elastic semantic anchoring, structuring language and geometric reasoning jointly along matched abstraction scales. ELSA3D represents geometry with a scale-aware octree tokenizer and introduces Anchor Tokens, sparse cross-modal units that select semantic cues, route them to the most relevant 3D scale, retrieve scale-specific geometric evidence, and write the f",
+    "link": "http://arxiv.org/abs/2607.06565v1",
+    "publishedAt": "2026-07-07",
     "categories": [
       "cs.CV",
       "cs.AI",
-      "cs.LG",
-      "cs.RO"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.05394v1",
-    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+    "id": "arxiv-2607.06546v1",
+    "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
     "authors": [
-      "Shiyuan Feng",
-      "Huan-ang Gao",
-      "Haohan Chi",
-      "Hanlin Wu",
-      "Zhilong Zhang",
-      "Zheng Jiang",
-      "Bingxiang He",
-      "Wei-Ying Ma",
-      "Ya-Qin Zhang",
-      "Hao Zhou"
+      "Shervin Khalafi",
+      "Igor Krawczuk",
+      "Sergio Rozada",
+      "Charilaos Kanatsoulis",
+      "Antonio G Marques",
+      "Alejandro Ribeiro"
     ],
-    "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL weak teacher is not enough, because the teacher's final policy mixes useful RL gains with the limitations of the smaller model. We propose Direct On-Policy Distillation (Direct-OPD), which transfers the teacher's RL-induced policy shift instead. Direct-OPD compares the post-RL teacher with its own pre",
-    "link": "http://arxiv.org/abs/2607.05394v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limited, making it unclear whether standard attention is the right mechanism for this task. Here we show that, under a denoising objective, linear attention is suboptimal and can only learn an average spectral denoising filter over the training distribution. This creates a fundamental limitation as graphs often vary spectrally across the distribution. To overcome this limitation, we introduce Spectral Attention, which directly utilizes the input graph spectrum and provably outperforms linear attention",
+    "link": "http://arxiv.org/abs/2607.06546v1",
+    "publishedAt": "2026-07-07",
     "categories": [
       "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06544v1",
+    "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "authors": [
+      "Aparna Madva",
+      "Sharath Srivatsa",
+      "Srinath Srinivasa",
+      "Tulika Saha"
+    ],
+    "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI is seen as a ''double-edged sword'' where on the one hand, it can enable access and inclusion for a large population, on the other, it can homogenize worldviews and exclude underrepresented languages and worldviews. In this paper, we try to characterize this problem by addressing the extensive characteristic nature of Indian linguistics and the way they closely connect to cultural practices and worldview. We then perform a longitudinal survey of how Natural Language Processing (NLP) techniques have evolved in this space, tracing the historical development of Indic NLP, coverin",
+    "link": "http://arxiv.org/abs/2607.06544v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
       "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.05393v1",
-    "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+    "id": "arxiv-2607.06542v1",
+    "title": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
     "authors": [
-      "Raphaël Bonnet-Guerrini",
-      "Bruno Sanchez",
-      "Dominique Fouchez",
-      "Benjamin Racine",
-      "Maya Guy",
-      "Mariam Sabalbal",
-      "Manal Yassine",
-      "Vincenzo Piuri"
+      "Ramon Ferrer-i-Cancho",
+      "Catherine Hobaiter",
+      "Thore Bergman",
+      "Morgan Gustison"
     ],
-    "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without human-labeled data using injected transients and bogus-dominated survey data, remains robust under strong class contamination, and provides calibrated uncertainty quantification. We combine simulated transient injections with a contaminated survey class and train a dual-network model using asymmetric co-teaching for classes with different label-noise levels. We evaluate performance on a benchmark subset and analyze the learned representation with latent-space visualization tools. For un",
-    "link": "http://arxiv.org/abs/2607.05393v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human languages, an unsupervised parser can be evaluated because some gold standard is usually available or can be created. For other species, a gold standard is unknown. Thus one may conclude that it is impossible to determine the accuracy of an unsupervised parser and, consequently, dependency parsing is unfeasible in other species. However, here we apply recent advances in network science to demonstrate that the proportion of correct edges retrieved by a parser must be high for the sequences of vocalizations or gestures that non-human primates produce due to the fast decay of the sequence length dis",
+    "link": "http://arxiv.org/abs/2607.06542v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "astro-ph.IM",
-      "astro-ph.GA",
-      "astro-ph.HE",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06540v1",
+    "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+    "authors": [
+      "Zhenyu Liu",
+      "Yunxin Li",
+      "Xuanyu Zhang",
+      "Qixun Teng",
+      "Shenyuan Jiang",
+      "Haolan Chen",
+      "Minjun Zhao",
+      "Fanbo Meng",
+      "Yu Xu",
+      "Yancheng He",
+      "Baotian Hu",
+      "Haizhou Li",
+      "Min Zhang"
+    ],
+    "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notable progress, recent endeavors are fundamentally constrained by severe modality interference, which causes substantial knowledge degradation and compromises semantic integrity -- ultimately making full-duplex SLMs feel unnatural and unintelligent. In this paper, through an exhaustive fine-grained analysis of model optimization dynamics, we uncover the root cause of such performance degradation, revealing that modality interference arises from inherent gradient conflicts between acoustic and semantic modeling when the two modalities are forced to share a deep parameter space. Guided by this key i",
+    "link": "http://arxiv.org/abs/2607.06540v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06532v1",
+    "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+    "authors": [
+      "Xiaolei Guo",
+      "Chenyu Zhou",
+      "Jianghao Lin",
+      "Dongdong Ge"
+    ],
+    "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and learned policies rely on. Existing general generators usually choose their generation unit from a formulation template, summary statistics, local graph edits, or blocks found after recombination. These units do not explicitly record how a local part of the MILP is coupled to the rest of the instance. We propose GraphBU, a graph-native generator whose basic unit is a local subproblem plus its interface. The method promotes coupling nodes into master constraints or boundary variables and uses the resulting block units for compatibility-checked replacement. The analysis focuses on ",
+    "link": "http://arxiv.org/abs/2607.06532v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06531v1",
+    "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+    "authors": [
+      "Ghassen Marrakchi",
+      "Basarab Matei"
+    ],
+    "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-hoc orchestration framework designed for scalable clinical decision support. - Methods: The LCA is mathematically formalized as a 7-tuple architecture grounded in the principle of Algorithmic Impermeability, ensuring the orchestration logic remains strictly independent of underlying black-box AI models. We introduce the Entry Theory, leveraging Geometric Deep Learning (GDL) to standardize multimodal patient data along distinct structural and medical axes. The system dynamically orchestrates data v",
+    "link": "http://arxiv.org/abs/2607.06531v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
       "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.05391v1",
-    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "id": "arxiv-2607.06529v1",
+    "title": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
     "authors": [
-      "Jacky Kwok",
-      "Shulu Li",
-      "Pranav Atreya",
-      "Yuejiang Liu",
-      "Yixing Jiang",
-      "Chelsea Finn",
-      "Marco Pavone",
-      "Ion Stoica",
-      "Azalia Mirhoseini"
+      "Srivatsa Kulkarni",
+      "Debarag Banerjee"
     ],
-    "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) re",
-    "link": "http://arxiv.org/abs/2607.05391v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence and deprivation. This study pro-poses a scalable, grid-based urban delineation framework using building morphology derived from open-source satellite imagery. Urban areas across 59 Indian cities and towns are partitioned into high-resolution spatial grids and characterized using interpretable morphological indicators, which are combined into a transparent, rule-based scoring framework to delineate areas with contrasting levels of urban affluence. The resulting classifications are validated through ground-level Google Street View observations, revealing a sharp contrast between the grid classes",
+    "link": "http://arxiv.org/abs/2607.06529v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG",
-      "cs.MA",
-      "cs.RO"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.05382v1",
-    "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+    "id": "arxiv-2607.06527v1",
+    "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
     "authors": [
-      "Haozhe Wang",
-      "Weijia Feng",
-      "Jinpeng Yu",
-      "Che Liu",
-      "Ping Nie",
-      "Fangzhen Lin",
-      "Jiaming Liu",
-      "Ruihua Huang",
-      "Jimmy Lin",
-      "Wenhu Chen",
-      "Cong Wei"
+      "Sambaran Bandyopadhyay",
+      "Ananth Muppidi"
     ],
-    "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed corpora, but the visual world is open-ended. We construct SearchGen-20K and SearchGen-Bench, with 20,839 prompts spanning twelve failure categories and twenty-two domains, paired with a pre-executed multimodal SearchGen-Corpus-1M to support offline, reproducible research. On SearchGen-Bench, frontier open generators score only 21 to 28 out of 100, a 40-point collapse invisible to existing benchmarks. The natural remedy is to employ search tools, enabling agentic visual generation. However, we fin",
-    "link": "http://arxiv.org/abs/2607.05382v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where intermediate nodes lack lexical overlap with the query. To address this, we propose RSF-GLLM, a framework decoupling differentiable graph reasoning from answer generation. Our Recurrent Soft-Flow (RSF) module employs a GRU-guided query updater to propagate continuous relevance scores, utilizing a dynamic gating mechanism to traverse semantically dissimilar bridge nodes via structural cues. We introduce flow sparsity regularization to theoretically guarantee convergence from soft probabilities to discrete reasoning paths. These paths are extracted and textualized to fine-tune a",
+    "link": "http://arxiv.org/abs/2607.06527v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "cs.CV",
+      "cs.CL",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.05381v1",
-    "title": "What Does a Discrete Diffusion Model Learn?",
+    "id": "arxiv-2607.06523v1",
+    "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
     "authors": [
-      "Rodrigo Casado Noguerales",
-      "Bernhard Schölkopf",
-      "Thomas Hofmann",
-      "Aran Raoufi"
+      "Anna Cordoba",
+      "Adam Puente Tercero",
+      "Nerea Angulo Hijo",
+      "Mar Linares Tercero",
+      "Julia Barrientos",
+      "Ainhoa Miranda",
+      "Jesus Olivera"
     ],
-    "summary": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural network in the wrong coordinate changes the process being trained and sampled. Starting with a rigorous derivation of the continuous-time Markov chain (CTMC) ELBO for any noising process, boundary terms included, we prove the \\emph{Oracle Distance} theorem: the negative ELBO is exactly equal to the data entropy plus the path KL from the oracle reverse process to the learned one, not merely a bound. Its unique optimizer is therefore the conditional expectation of the true reverse jump rate given the current noisy state, and its irreducible cost is the rate at which the forward process $Z_t$ destr",
-    "link": "http://arxiv.org/abs/2607.05381v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different preservation. We introduce DepthWeave-KV, a token-adaptive cache compression method that factorizes key and value states across neighboring transformer layers using shared low-rank channel bases while retaining lightweight token-specific residuals where attention behavior is sensitive. DepthWeave-KV combines cross-depth residual factorization with a token-conditional depth router that allocates higher reconstruction rank to instruction-bearing and retrieval-critical tokens, and uses calibration-fr",
+    "link": "http://arxiv.org/abs/2607.06523v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL",
-      "cs.IT",
-      "stat.ML"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.05380v1",
-    "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+    "id": "arxiv-2607.06522v1",
+    "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
     "authors": [
-      "Yury Gorishniy",
-      "Akim Kotelnikov",
-      "Ivan Rubachev",
-      "Artem Babenko"
+      "Han-Jun Ko",
+      "Jr-Jen Chen",
+      "Haobo Yuan",
+      "Hsin-Ying Lee",
+      "Tiancheng Shen",
+      "Ming-Hsuan Yang",
+      "Yu-Chiang Frank Wang"
     ],
-    "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyperparameters for all underlying MLPs, which requires hyperparameter tuning for achieving the best performance. In this work, we introduce TabPack, an efficient MLP ensemble with strong out-of-the-box performance and reduced reliance on traditional tuning. In a single run, TabPack samples and trains many MLPs with different hyperparameters efficiently in parallel and selects ensemble members on the fly during training. Thus, TabPack only requires specifying ranges from which to sample MLP hyperparameter rather than exact hyperparameter values, which naturally demands less precision for good perfo",
-    "link": "http://arxiv.org/abs/2607.05380v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that contradicts physical reality, and misalignment between the model's reasoning and actions. We present VAORA (Visual Action Outcome Reasoning Alignment), a novel reward design that directly addresses both issues. VAORA introduces two complementary rewards: Visual Alignment Reward, which anchors VLM reasoning to the visual context independent of the agent action itself, and Visual-Action Alignment Reward, which grounds reasoning in the visual outcome induced by the model's action. Together, these rewards suppress hallucinated CoT and reduce the gap between reasoning and ",
+    "link": "http://arxiv.org/abs/2607.06522v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05378v1",
-    "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
-    "authors": [
-      "Yujiang Li",
-      "Zhenyu Hou",
-      "Yi Jing",
-      "Jie Tang",
-      "Yuxiao Dong"
-    ],
-    "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction offers a natural solution by summarizing previous interaction states and continuing the rollout under a compressed context, but incorporating compaction into reinforcement learning remains underexplored. We propose CompactionRL, a reinforcement learning strategy to train long-horizon agentic LLMs with context compaction. Our approach jointly optimizes task execution and summary generation with token-level loss normalization and cross-trajectory generalized advantage estimation. This design enables the LLM agents to learn from compacted long-horizon trajectories. We train CompactionRL on top of",
-    "link": "http://arxiv.org/abs/2607.05378v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05377v1",
-    "title": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
-    "authors": [
-      "Jiaqi Peng",
-      "Xiqian Yu",
-      "Delin Feng",
-      "Yuqiang Yang",
-      "Wenzhe Cai",
-      "Jing Xiong",
-      "Ganlin Yang",
-      "Jinliang Zheng",
-      "Jiafei Cao",
-      "Xueyuan Wei",
-      "Jiangmiao Pang",
-      "Yuan Shen",
-      "Tai Wang"
-    ],
-    "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current observations. Hierarchical dual-system methods address this but suffer from a gap between high-level planning semantics and low-level execution kinematics. We introduce Cortex, a bidirectionally aligned embodied agent framework with a customized planning interface that conveys executable and tractable subtask plans from high-level VLM to low-level VLA. Specifically, we standardize manipulation subtasks into 32 canonical skill primitives and inject tractability principles, such as representative object attributes and improved trajectory reachability, into the data generation pipeline. This enables",
-    "link": "http://arxiv.org/abs/2607.05377v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.RO",
       "cs.AI",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2607.05375v1",
-    "title": "Fitted Occupancy-Ratio Evaluation without Bellman Completeness",
+    "id": "arxiv-2607.06519v1",
+    "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
     "authors": [
-      "Lars van der Laan",
-      "Nathan Kallus"
+      "Anna Córdoba",
+      "Adam Puente Tercero",
+      "Nerea Angulo Hijo",
+      "Mar Linares Tercero",
+      "Julia Barrientos",
+      "Ainhoa Miranda",
+      "Jesús Olivera"
     ],
-    "summary": "Occupancy ratios correct distribution shift in offline reinforcement learning and are central to off-policy evaluation. Existing primal-dual and minimax methods typically estimate these ratios by enforcing occupancy-balance moments over a critic class. We propose fitted occupancy-ratio evaluation (FORE), a fitted fixed-point method that characterizes the discounted occupancy ratio through an adjoint Bellman recursion. At each iteration, FORE solves a single-level density-ratio objective on one-step-transition data, thereby projecting the adjoint Bellman image onto a log-ratio class in Kullback--Leibler (KL) divergence. Unlike analyses of fitted Q-evaluation, which typically require value-function realizability together with Bellman completeness or projected-operator stability, our central ",
-    "link": "http://arxiv.org/abs/2607.05375v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "stat.ML",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05369v1",
-    "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
-    "authors": [
-      "Kaiyuan Chen",
-      "Shuangyu Xie",
-      "Letian Fu",
-      "Justin Yu",
-      "William Pacini",
-      "Sandeep Bajamahal",
-      "Hudson Kim",
-      "Jaimyn Drake",
-      "Daehwa Kim",
-      "Haoru Xue",
-      "Jonathan Francis",
-      "Christian Juette",
-      "Peter Schaldenbrand",
-      "Muhammet Yunus Seker",
-      "Ruwan Wickramarachchi",
-      "Uksang Yoo",
-      "Guanzhi Wang",
-      "Adithyavairavan Murali",
-      "Balakumar Sundaralingam",
-      "S. Shankar Sastry",
-      "Spencer Huang",
-      "Yuke Zhu",
-      "Linxi \"Jim\" Fan",
-      "Ken Goldberg"
-    ],
-    "summary": "For robots to work reliably in commercial and industrial applications, can recent advances in agentic coding systems combine interpretable robot programming with the open-world adaptability of model-free policies? We focus on \"Variational Automation\" (VA), a class of tasks that have larger variations in object geometry and pose than fixed automation. Model-free policies often struggle to close the reliability gap for VA tasks, which must be executed persistently and reliably in commercial and industrial applications. Motivated by prior work on Task and Motion Planning (TAMP) and the Robot Operating System (ROS), we introduce Graph-as-Policy (GaP), a multi-agent coding harness that generates directed computation graphs with perception, planning, and control nodes from a Modular Open Robot S",
-    "link": "http://arxiv.org/abs/2607.05369v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05365v1",
-    "title": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models",
-    "authors": [
-      "Thomas Thebaud",
-      "Yuzhe Wang",
-      "Hao Zhang",
-      "Sathvik Manikantan Napa Ugandhar",
-      "Ashish Hallur",
-      "Georgi Tinchev",
-      "Venkatesh Ravichandran",
-      "Laureano Moro-Velazquez"
-    ],
-    "summary": "Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic speech. However, standard speech and text benchmarks do not capture whether these systems behave naturally in conversations, where timing, turn-taking, prosody, interpersonal stance, language and dialect consistency, and relationship-aware appropriateness jointly shape perceived quality. We introduce SPEARBench, a benchmark for evaluating naturalness in speech-to-speech language models from question-answer interactions. SPEARBench constructs controlled dialogue prompts from the Seamless Interaction corpus, runs inference across multiple models, and evaluates generated answers using a multidimensional protocol that covers response latency, interruptions, speech quality, ASR robustness, language a",
-    "link": "http://arxiv.org/abs/2607.05365v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "eess.AS"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05364v1",
-    "title": "REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing",
-    "authors": [
-      "Cheng-Kang Chou",
-      "Ming-To Chuang",
-      "Ke-Han Lu",
-      "Chan-Jan Hsu",
-      "Hung-yi Lee"
-    ],
-    "summary": "Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated timestamps can drift across long non-speech spans: the transcript may remain plausible, but the decoded time axis drifts away from the audio. We study this non-speech-induced timestamp drift with self-built gap and long-gap benchmarks across 15 evaluated timestamp-producing ASR and audio-language systems. Naive timestamp-corrected fine-tuning improves alignment but can severely degrade non-target ASR behavior, exposing a forgetting problem. We propose REDDIT(REplay-based Distribution eDITing), a lightweight two-stage post-training framework that corrects timestamps while avoiding this catastr",
-    "link": "http://arxiv.org/abs/2607.05364v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.SD"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05363v1",
-    "title": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
-    "authors": [
-      "Dylan Zongmin Liu"
-    ],
-    "summary": "Personal agents are becoming persistent user-owned intermediaries: they remember preferences, filter platform-mediated information, use tools, and negotiate with services. Existing benchmarks evaluate tool use, web navigation, desktop control, personalization, recommendation, and evolving context, but rarely ask whether an agent preserves user sovereignty: advancing the user's current interests while respecting privacy, consent, evidence, user burden, and resistance to manipulative incentives. We introduce SovereignPA-Bench, an executable benchmark for evaluating user-owned personal agents under evolving intent, platform mediation, privacy boundaries, consent constraints, evidence requirements, and burden tradeoffs. The benchmark separates agent-visible ObservableState from evaluator-only ",
-    "link": "http://arxiv.org/abs/2607.05363v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adjacent-layer KV states into shared low-frequency depth components and sparse high-frequency residuals. A lightweight online probe assigns attention heads to shared-depth, residual-depth, or exact cache modes according to their contribution to reconstruction-sensitive attention logits, allowing the compression policy to adapt to prompt structure without retraining. Across long-context question answering, needle retrieval, summarization, and code generation benchmarks, FreqDepthKV preserves task acc",
+    "link": "http://arxiv.org/abs/2607.06519v1",
+    "publishedAt": "2026-07-07",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.05359v1",
-    "title": "Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning",
+    "id": "arxiv-2607.06514v1",
+    "title": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games",
     "authors": [
-      "Idan Lev-Yehudi",
-      "Vadim Indelman"
+      "Chase McDonald",
+      "Nathan Tsang",
+      "Wesley N. Kerr"
     ],
-    "summary": "Planning under uncertainty in continuous domains is essential for autonomous systems, yet computationally demanding. Tree-based search methods such as Monte Carlo Tree Search (MCTS) remain popular, but their branching structure can require sampling budgets that grow exponentially with lookahead depth in the worst case. From a tree perspective, continuous state or action spaces become especially challenging, since the planner must decide where to search in an infinite branching hierarchy. We propose Graph Sparse Sampling (GSS), an online planning algorithm that shares sampled futures across many candidate decisions, rather than sampling separate successors for each candidate action. This branch-free graph exposes large GPU-friendly batches, while using heuristics to focus computation. We pr",
-    "link": "http://arxiv.org/abs/2607.05359v1",
-    "publishedAt": "2026-07-06",
+    "summary": "We present FootsiesGym, an open-source environment for learning in a non-trivial two-player, zero-sum, imperfect-information game. Built on HiFight's minimalist 2D fighting game Footsies, it isolates the cyclic, non-transitive strategic interactions of fighting game neutral play while remaining simple enough for efficient analysis. We provide a vectorized simulator that enables high-throughput training on standard hardware, making the environment accessible and reproducible. We describe the design of the environment, benchmark several reinforcement learning algorithms, and discuss open research directions it enables. The code is available at https://github.com/como-research/FootsiesGym.",
+    "link": "http://arxiv.org/abs/2607.06514v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.AI",
+      "cs.GT"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06507v1",
+    "title": "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation",
+    "authors": [
+      "Yaqi Wu",
+      "Xiaolei Guo",
+      "Chenyu Zhou",
+      "Jiaqi Huang",
+      "Xianfa Zhang",
+      "Junxu Zhang",
+      "Zhuo Yu",
+      "Zhubo Shi",
+      "Jianghao Lin",
+      "Dongdong Ge"
+    ],
+    "summary": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leaves underexplored how to learn a shared state-conditioned policy that chooses among currently valid evidence operations. We introduce DynaKRAG, which formulates multi-hop evidence acquisition as state-conditioned control over atomic evidence operations. At each step, a validity layer constructs the executable action set, and a learned controller sele",
+    "link": "http://arxiv.org/abs/2607.06507v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06505v1",
+    "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
+    "authors": [
+      "Kevin Xu",
+      "Alexander Quispe"
+    ],
+    "summary": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new technologies across economic sectors. We present NAICS-GH, a publicly released corpus of 6,588 GitHub repositories drawn from source pools covering the United States, the European Union, and Australia, each labeled with a 2-digit sector from the North American Industry Classification System (NAICS 2022). Labels are produced by a retrieve-and-verify pipeline that combines BAAI/bge-large-en embeddings, FAISS retrieval, and GPT-4.1 rubric scoring. The pipeline narrows about 1.37 million source repositor",
+    "link": "http://arxiv.org/abs/2607.06505v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.DB"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06504v1",
+    "title": "RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models",
+    "authors": [
+      "Qian Sun",
+      "Yong-Ming Tian",
+      "Jia-Wei Huang",
+      "Cheng Feng",
+      "Shao-Qun Zhang"
+    ],
+    "summary": "Recent years have witnessed the emergence of multivariate modeling using time series foundation models (TSFMs), which achieve advanced zero-shot generalization. Modern multivariate TSFMs are predominantly pretrained on multivariate synthetic data, which is easier to scale but may fail to capture the complex temporal dynamics and cross-variable relationships present in real-world time series. This raises a key question: Whether and to what extent the leading TSFMs trained with the real-world corpus perform better than those trained with synthetic data? To answer this, we establish the RMISC corpus, a considerably large-scale, high-quality, openly accessible, real-world, and multivariate time series archive that contains around 200 datasets and 142 billion time points across diverse domains.",
+    "link": "http://arxiv.org/abs/2607.06504v1",
+    "publishedAt": "2026-07-07",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.05355v1",
-    "title": "Faithfulness to Refusal: A Causal Audit of Neuron Selectors",
+    "id": "arxiv-2607.06503v1",
+    "title": "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade",
     "authors": [
-      "Ananth Eswar",
-      "Pratinav Seth",
-      "Utsav Avaiya",
-      "Vinay Kumar Sankarapu"
+      "Kai Ruan",
+      "Zihe Huang",
+      "Ziqi Zhou",
+      "Qianshan Wei",
+      "Xuan Wang",
+      "Hao Sun"
     ],
-    "summary": "Attribution scores increasingly identify which neuron rows of a language model matter for applications such as pruning, interpretability, and editing for safety, yet whether they identify causally important rows is rarely tested directly. We address this with two paired audits built on one-shot neuron-row zeroing. We first audit selectors at the language-modeling level: attribution methods substantially outperform activation and magnitude-based baselines at identifying dispensable rows across five LLMs. We then adapt the same intervention into a behavior test by driving it with a contrastive harmful-versus-benign signal; the attributed rows are sufficient to install refusal on hate and crime while keeping benign over-refusal low and preserving language model fluency, and specific in that l",
-    "link": "http://arxiv.org/abs/2607.05355v1",
-    "publishedAt": "2026-07-06",
+    "summary": "Large language model (LLM) agents solving multi-step tasks frequently commit to trajectories that are doomed to fail, yet continue to consume substantial inference compute before the failure becomes observable. We show that failure is predictable early from the agent's internal representations: lightweight per-round probes on hidden activations anticipate eventual episode failure as early as the first interaction round, where scorers reading only the agent's observable behavior are barely better than chance. We turn this signal into a practical abort cascade: one distribution-free calibrated gate per round, with per-round recall budgets jointly searched so that eventually-successful episodes survive all gates at a user-specified global rate; this episode-level guarantee is the one that mat",
+    "link": "http://arxiv.org/abs/2607.06503v1",
+    "publishedAt": "2026-07-07",
     "categories": [
-      "cs.CL",
-      "cs.ET",
-      "cs.LG"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.05353v1",
-    "title": "Selective Disclosure Watermarking for Large Language Models",
+    "id": "arxiv-2607.06497v1",
+    "title": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
     "authors": [
-      "Xuyang Chen",
-      "Xiang Li",
-      "Yangxinyu Xie",
-      "Qi Long"
+      "Przemysław Rola"
     ],
-    "summary": "Watermarking methods embed imperceptible and verifiable signals into text generated by large language models (LLMs). Existing approaches include zero-bit schemes for distinguishing synthetic text from human writing and multi-bit schemes for embedding metadata. However, current multi-bit watermarking methods do not allow selective disclosure: verifying any part of the watermark requires revealing the entire embedded message. This lack of control leads to unnecessary information exposure and raises privacy concerns. We propose Hierarchical Vocabulary Routing (HeRo), a watermarking framework that enables selective disclosure of embedded metadata. The method recursively partitions the vocabulary and distributes watermark information across hierarchical layers, so that different verifiers can d",
-    "link": "http://arxiv.org/abs/2607.05353v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.CR",
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05352v1",
-    "title": "Multiplayer Interactive World Models with Representation Autoencoders",
-    "authors": [
-      "Anthony Hu",
-      "Václav Volhejn",
-      "Adrien Ramanana Rahary",
-      "Chris Mulder",
-      "Aditya Makkar",
-      "Amélie Royer",
-      "Manu Orsini",
-      "Alyx Liao",
-      "Adam Jelley",
-      "Eloi Alonso",
-      "Florian Laurent",
-      "Fredrik Norén",
-      "James Swingos",
-      "Jan Hünermann",
-      "Kent Rollins",
-      "Lucas Hosseini",
-      "Matthieu Le Cauchois",
-      "Maxim Peter",
-      "Pim de Witte",
-      "Tim Brown",
-      "Vincent Micheli",
-      "Moritz Böhle",
-      "Gabriel de Marmiesse",
-      "Viktoriia Sharmanska",
-      "Lucia Specia",
-      "Michael Black",
-      "Patrick Pérez"
-    ],
-    "summary": "We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of multiple agents, learning to attribute changes in the scene to the correct player and to stay coherent under arbitrary combinations of their actions. We study this problem in the game of Rocket League, where players compete and cooperate under fast, tightly coupled dynamics. Trained on 10,000 hours of gameplay collected with publicly available bots, our 5-billion-parameter latent diffusion model generates four-player matches in real time, producing 20 frames per second on a single Nvidia B200 GPU. Although trained only on short clips, its rollou",
-    "link": "http://arxiv.org/abs/2607.05352v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05346v1",
-    "title": "OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement",
-    "authors": [
-      "Adriana Laurindo Monteiro",
-      "Nayse Fagundes",
-      "Gabriel Mattos Langeloh",
-      "Gustavo de Oliveira Kanno",
-      "Priscila Louise Aguirre",
-      "Thiago Costa Rizuti da Rocha",
-      "Victor Leme Beltran"
-    ],
-    "summary": "We propose OptiAgent, a multi-agent framework that, given a natural language description of an Operations Research problem, is able to output a solver-ready mathematical formulation as well as executable code. Our architecture prioritizes the mathematical modeling step, where dedicated agents extract structures, such as decision variables and constraints, enabling iterative self-correction. We introduce a novel multi-loop validation architecture with four specialized feedback mechanisms, each targeting a distinct failure mode such as misinterpretation, structural defects, mathematical inconsistencies, validation failures, and code errors. Alongside accuracy, our modular design improves the process of solving optimization problems by improving transparency, as each agent exposes its reasoni",
-    "link": "http://arxiv.org/abs/2607.05346v1",
-    "publishedAt": "2026-07-06",
-    "categories": [
-      "cs.AI",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.05339v1",
-    "title": "TREK: Distill to Explore, Reinforce to Refine",
-    "authors": [
-      "Yuanda Xu",
-      "Zhengze Zhou",
-      "Kayhan Behdin",
-      "Jelena Markovic-Voronov",
-      "Hejian Sang",
-      "Xiaomin Li",
-      "Wenhui Zhu",
-      "Xinchen Du",
-      "Aida Rahmattalabi",
-      "Ran He",
-      "Sen Na",
-      "Zhipeng Wang",
-      "Alborz Geramifard"
-    ],
-    "summary": "Group Relative Policy Optimization (GRPO) is effective when the current policy already samples useful reasoning trajectories, but it stalls on hard prompts whose correct solution modes lie outside the student's on-policy support. We propose TREK (Teacher-Routed Exploration via Forward KL), a simple staged procedure that uses distillation not for imitation but for exploration support expansion. A key advantage of TREK is its generality: because it only consumes verified output trajectories, it can use an external black-box teacher, a white-box teacher, or the same model given additional inference-time context, and it can efficiently identify which hard-prompt samples are most worth consolidating even when teacher internals are unavailable. TREK first identifies prompts where the unaided stu",
-    "link": "http://arxiv.org/abs/2607.05339v1",
-    "publishedAt": "2026-07-06",
+    "summary": "We introduce EntroPath, a manifold learning method that recovers geodesic geometry from data graphs through ensembles of diffusion paths. Many existing graph-based embeddings rely either on locally normalised random walks or on shortest-path distances. The former can concentrate diffusion in densely sampled regions, while the latter are sensitive to spurious shortcut edges in the graph. EntroPath instead builds its dissimilarities from the maximum entropy random walk (MERW), which aggregates the full ensemble of k-step paths between points rather than relying on any single trajectory. We show that the resulting free-energy dissimilarity converges to squared geodesic distance in the short-time limit, via Varadhan's heat-kernel formula. The diffusion depth k interpolates smoothly between loc",
+    "link": "http://arxiv.org/abs/2607.06497v1",
+    "publishedAt": "2026-07-07",
     "categories": [
       "cs.LG",
-      "cs.AI",
+      "q-bio.QM",
       "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06495v1",
+    "title": "Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine",
+    "authors": [
+      "Juan S. Santillana"
+    ],
+    "summary": "Live sports commentary is grounded generation under a deadline: statements concern real, named athletes, the grounding state changes every few seconds, and no reference text exists at generation time. We present Pitwall, a production system that generates natural-language Formula 1 strategy briefings in English, Spanish, and Portuguese, treating faithfulness as an architectural property rather than an aspiration: every published sentence is decomposed into typed factual claims (positions, gaps, tyres, pace, overtakes, race control) and each claim is verified against the probabilistic race state that prompted it. The same verifier gates the fine-tuning data: of 3,045 model-written targets, only the 81.9% whose every claim is state-supported are retained, the rest falling back to a provably ",
+    "link": "http://arxiv.org/abs/2607.06495v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG",
+      "stat.AP"
+    ]
+  },
+  {
+    "id": "arxiv-2607.06489v1",
+    "title": "Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms",
+    "authors": [
+      "Marcos Eduardo Cruz Victorio",
+      "Karl Mason"
+    ],
+    "summary": "The dairy industry in Ireland has a large potential for the integration of renewable energy and the reduction of carbon emissions. However, researchers of distributed generation control are mainly focused on residential and commercial applications. To contribute to the effective integration of renewable energy in the dairy sector, this paper presents a multi-objective optimisation control system based on differential evolution and multi agent Deep Reinforcement Learning. The proposed control is organised in two layers: the upper layer uses dynamic pricing, and the lower layer is based on multi-agent reinforcement learning for battery management. This paper also simulates the electrical response of the proposed control system in a rural distribution circuit. The simulation results show that",
+    "link": "http://arxiv.org/abs/2607.06489v1",
+    "publishedAt": "2026-07-07",
+    "categories": [
+      "cs.AI"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1134552",
+    "title": "Paid Media Specialist Meta & Google Ads",
+    "company": "Noventra Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Noventra Group is hiring a remote Paid Media Specialist to support Meta Ads and Google Ads campaigns across selected partner-brand initiatives",
+      "This role is focused on performance marketing, campaign optimization, reporting, and paid media execution for brands and commercial partners working within"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
+    "postedAt": "2026-07-07",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134545",
+    "title": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
+    "company": "Mercier Consultancy",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Location:Â Greece (Relocation Opportunity Available) Job Type:Â Full-Time (40 hours per week) We are looking for a Dutch-Speaking Customer Service Agent to support customers on behalf of Imperial",
+      "Based remotely in Greece, you'll be responsible for answering customer enquiries via telephone, email,"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
+    "postedAt": "2026-07-07",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1134541",
     "title": "SCL Agent",
@@ -915,22 +855,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
     "postedAt": "2026-07-02",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134470",
-    "title": "Computer Aided Design Designer",
-    "company": "Indovance Inc",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Position: Design Engineer (CAD) Qualification: *BE Civil Experience: Minimum of 1 to 2 years of CAD experience Location: Narhe- Pune (Monday to Friday) for "
-    ],
-    "skills": [],
-    "location": "Pune Division, Pune Division, Maharashtra, India",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
-    "postedAt": "2026-07-02",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-07T23:31:17.996Z';
+export const dataFetchedAt = '2026-07-08T09:15:47.869Z';
