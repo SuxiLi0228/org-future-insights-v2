@@ -2,6 +2,83 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-worms-fight-pollution-and-geoengineering-faces--1783512600000",
+    "title": "The Download: worms fight pollution, and geoengineering faces reality",
+    "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
+    "publishedAt": "2026-07-08",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-accenture-most-companies-are-doing-ai-wrong-creating-8220-hu-1783513845000",
+    "title": "Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221;",
+    "link": "https://hrexecutive.com/accenture-most-companies-are-doing-ai-wrong-creating-human-debt/",
+    "summary": "Karalee Close argues that most organizations have mistaken deploying AI for transforming with it, and a small group of “Talent Reinventors” is pulling away. The post Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221; appeared first on HR Executive .",
+    "publishedAt": "2026-07-08",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-federal-dispute-process-driving-up-costs-for-planned-procedu-1783512952000",
+    "title": "Federal dispute process driving up costs for planned procedures",
+    "link": "https://hrexecutive.com/federal-dispute-process-driving-up-costs-for-planned-procedures/",
+    "summary": "\"The No Surprises Act was designed to protect patients from unexpected medical bills, not to increase healthcare costs,\" Catherine Gaffigan, president of health solutions at Elevance Health, said in a statement. The post Federal dispute process driving up costs for planned procedures appeared first on HR Executive .",
+    "publishedAt": "2026-07-08",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4-in-10-employees-admit-using-ai-to-fake-expense-reports-1783512027000",
+    "title": "4 in 10 employees admit using AI to fake expense reports",
+    "link": "https://hrexecutive.com/4-in-10-employees-admit-using-ai-to-fake-expense-reports/",
+    "summary": "Generative AI is enabling employees to create fake expense report documentation in just seconds, meaning HR needs to reimagine standard fraud protection strategies, while also looking at risk factors. The post 4 in 10 employees admit using AI to fake expense reports appeared first on HR Executive .",
+    "publishedAt": "2026-07-08",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-global-impact-of-the-eu-pay-transparency-directive-1783511135000",
+    "title": "The global impact of the EU Pay Transparency Directive",
+    "link": "https://hrexecutive.com/the-global-impact-of-the-eu-pay-transparency-directive/",
+    "summary": "With many nations across the EU still not on board, what does the EU Pay Transparency Directive mean for multinational companies? The post The global impact of the EU Pay Transparency Directive appeared first on HR Executive .",
+    "publishedAt": "2026-07-08",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-5-things-hr-pros-want-more-than-a-raise-1783510240000",
+    "title": "5 things HR pros want more than a raise",
+    "link": "https://hrexecutive.com/5-things-hr-pros-want-more-than-a-raise/",
+    "summary": "New HRCI research finds that career paths, quality training and manageable workloads predict HR fulfillment better than pay or perks. The post 5 things HR pros want more than a raise appeared first on HR Executive .",
+    "publishedAt": "2026-07-08",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-your-stake-in-openai-and-the-treasury-8217-s-ai-1783426200000",
     "title": "The Download: your stake in OpenAI, and the Treasury&#8217;s AI warning",
     "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
@@ -104,7 +181,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-your-family-8217-s-300-stake-in-openai-1783360800000",
     "title": "Your family&#8217;s $300 stake in OpenAI",
     "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
     "publishedAt": "2026-07-06",
     "source": "MIT Technology Review",
     "tags": [
@@ -134,71 +211,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-microsoft-8217-s-workforce-reduction-strategy-buyouts-first--1783341957000",
-    "title": "Microsoft&#8217;s workforce reduction strategy: Buyouts first, layoffs second",
-    "link": "https://hrexecutive.com/microsofts-workforce-reduction-strategy-buyouts-first-layoffs-second/",
-    "summary": "Microsoft used a voluntary buyout to balance this week's layoffs. Here's what the sequencing reveals about workforce planning. The post Microsoft&#8217;s workforce reduction strategy: Buyouts first, layoffs second appeared first on HR Executive .",
-    "publishedAt": "2026-07-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-amazon-microsoft-help-lead-push-to-reskill-workers-displaced-1783341001000",
-    "title": "Amazon, Microsoft help lead push to reskill workers displaced by AI",
-    "link": "https://hrexecutive.com/amazon-microsoft-help-lead-push-to-reskill-workers-displaced-by-ai/",
-    "summary": "The tech giants are among the pilot partners in RAISE US, a nonpartisan nonprofit aiming set best practices in AI upskilling. The post Amazon, Microsoft help lead push to reskill workers displaced by AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-house-panel-oks-hospital-price-transparency-bills-1783340119000",
-    "title": "House panel OKs hospital price transparency bills",
-    "link": "https://hrexecutive.com/house-panel-oks-hospital-price-transparency-bills/",
-    "summary": "Republicans and Democrats on the House Energy &#38; Commerce Health Subcommittee joined Thursday to approve a total of 15 health care bills by voice votes. The post House panel OKs hospital price transparency bills appeared first on HR Executive .",
-    "publishedAt": "2026-07-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-new-july-1-minimum-wage-rates-interactive-location-tracker-1783339211000",
-    "title": "New July 1 minimum wage rates: Interactive location tracker",
-    "link": "https://hrexecutive.com/new-july-1-minimum-wage-rates-interactive-location-tracker/",
-    "summary": "Minimum wage increases hit these states and jurisdictions on July 1. Check every rate by work location with our interactive tracker. The post New July 1 minimum wage rates: Interactive location tracker appeared first on HR Executive .",
-    "publishedAt": "2026-07-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-why-hr-must-lead-the-ai-culture-shift-1783338359000",
-    "title": "Why HR must lead the AI culture shift",
-    "link": "https://hrexecutive.com/why-hr-must-lead-the-ai-culture-shift/",
-    "summary": "The next step in AI is removing the friction that prevents HR leaders from spending time where they create the most value, including culture. The post Why HR must lead the AI culture shift appeared first on HR Executive .",
-    "publishedAt": "2026-07-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
     ]
   },
   {
@@ -235,19 +247,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-achieving-operational-excellence-with-ai-1783006628000",
-    "title": "Achieving operational excellence with AI",
-    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-    "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
-    "publishedAt": "2026-07-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
     ]
   }
 ];
@@ -609,6 +608,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134586",
+    "title": "Regional Training Supervisor",
+    "company": "Guild Garage Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Position Title: Regional Training Supervisor Location: Remote Department: Training &amp; Development Reports to: VP, Training &amp; Development Location: 100% R"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Orlando, Orlando, Florida, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
+    "postedAt": "2026-07-07",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134552",
     "title": "Paid Media Specialist Meta & Google Ads",
     "company": "Noventra Group",
@@ -814,48 +830,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vp-paid-media-kanahoma-1134459",
     "postedAt": "2026-07-02",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134399",
-    "title": "Facility Maintenance Technician",
-    "company": "PriceSmart",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "QUALIFICATIONS &amp; EXPERIENCE: Five (5) CSEC subjects, including: English Language and Mathematics Diploma or Trade Certificate in one of the following: Elect"
-    ],
-    "skills": [],
-    "location": "Montego Bay, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
-    "postedAt": "2026-07-02",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134396",
-    "title": "Senior AI Engineer Architect",
-    "company": "Lemon.io",
-    "category": "pure_ai",
-    "responsibilities": [
-      "Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation",
-      "Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe",
-      "What we offer: The rate depends on your skills and"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Agent",
-      "SQL",
-      "OpenAI",
-      "LangChain",
-      "MLOps"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
-    "postedAt": "2026-07-02",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-08T09:15:47.869Z';
+export const dataFetchedAt = '2026-07-08T16:16:27.030Z';

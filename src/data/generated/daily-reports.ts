@@ -2,6 +2,97 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-09-auto",
+    "date": "2026-07-09",
+    "session": "auto",
+    "title": "2026-07-09 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-09-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+      },
+      {
+        "id": "sig-2026-07-09-auto-2",
+        "emoji": "🚨",
+        "title": "Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221;",
+        "summary": "Karalee Close argues that most organizations have mistaken deploying AI for transforming with it, and a small group of “Talent Reinventors” is pulling away. The post Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221; appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Karalee Close argues that most organizations have mistaken deploying AI for transforming with it, and a small group of “Talent Reinventors” is pulling away. The post Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221; appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/accenture-most-companies-are-doing-ai-wrong-creating-human-debt/"
+      },
+      {
+        "id": "sig-2026-07-09-auto-3",
+        "emoji": "🚨",
+        "title": "Federal dispute process driving up costs for planned procedures",
+        "summary": "\"The No Surprises Act was designed to protect patients from unexpected medical bills, not to increase healthcare costs,\" Catherine Gaffigan, president of health solutions at Elevance Health, said in a statement. The post Federal dispute process driving up costs for planned procedures appeared first on HR Executive .",
+        "detail": "来源: HR Executive。\"The No Surprises Act was designed to protect patients from unexpected medical bills, not to increase healthcare costs,\" Catherine Gaffigan, president of health solutions at Elevance Health, said in a statement. The post Federal dispute process driving up costs for planned procedures appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/federal-dispute-process-driving-up-costs-for-planned-procedures/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-09-1",
+        "priority": "medium",
+        "action": "关注「The Download: worms fight pollution, and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-09-2",
+        "priority": "high",
+        "action": "关注「Accenture: Most companies are doing AI w」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-09-3",
+        "priority": "high",
+        "action": "关注「Federal dispute process driving up costs」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 53,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-09 生成，聚合了 20 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-07-09 00:00 - 2026-07-09 23:59"
+  },
+  {
     "id": "report-2026-07-08-auto",
     "date": "2026-07-08",
     "session": "auto",
