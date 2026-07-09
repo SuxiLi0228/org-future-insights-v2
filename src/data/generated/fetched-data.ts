@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-four-nuclear-reactors-hit-a-big-milestone-in-the-us-1783584000000",
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
+    "publishedAt": "2026-07-09",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-emtech-ai-2026-the-rise-of-the-ai-platform-1783527970000",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
@@ -236,370 +248,380 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology"
     ]
-  },
-  {
-    "id": "news-the-download-a-smoking-8220-endgame-8221-and-a-new-elizabeth-1783080600000",
-    "title": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
-    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
-    "publishedAt": "2026-07-03",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.06565v1",
-    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "id": "arxiv-2607.07708v1",
+    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
     "authors": [
-      "Tianjiao Yu",
-      "Xinzhuo Li",
-      "Yifan Shen",
-      "Onkar Susladkar",
-      "Yuanzhe Liu",
-      "Xiaona Zhou",
-      "Ismini Lourentzou"
+      "Chen Tang",
+      "Yizhou Wang",
+      "Jianyu Wu",
+      "Lintao Wang",
+      "Shixiang Tang",
+      "Pengze Li",
+      "Encheng Su",
+      "Jun Yao",
+      "Jiabei Xiao",
+      "Yuqi Shi",
+      "Jielan Li",
+      "Hongxia Hao",
+      "Zhangyang Gao",
+      "Fang Wu",
+      "Ben Fei",
+      "Xiangyu Yue",
+      "Pan Tan",
+      "Bozitao Zhong",
+      "Jinouwen Zhang",
+      "Aoran Wang",
+      "Yan Lu",
+      "Jiaheng Liu",
+      "Xinzhu Ma",
+      "Liang Hong",
+      "Mingyue Zheng",
+      "Phil Torr",
+      "Bowen Zhou",
+      "Wanli Ouyang",
+      "Lei Bai"
     ],
-    "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural cues and fine geometric details into one undifferentiated representation. We introduce ELSA3D, a unified 3D model that addresses this with elastic semantic anchoring, structuring language and geometric reasoning jointly along matched abstraction scales. ELSA3D represents geometry with a scale-aware octree tokenizer and introduces Anchor Tokens, sparse cross-modal units that select semantic cues, route them to the most relevant 3D scale, retrieve scale-specific geometric evidence, and write the f",
-    "link": "http://arxiv.org/abs/2607.06565v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06546v1",
-    "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-    "authors": [
-      "Shervin Khalafi",
-      "Igor Krawczuk",
-      "Sergio Rozada",
-      "Charilaos Kanatsoulis",
-      "Antonio G Marques",
-      "Alejandro Ribeiro"
-    ],
-    "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limited, making it unclear whether standard attention is the right mechanism for this task. Here we show that, under a denoising objective, linear attention is suboptimal and can only learn an average spectral denoising filter over the training distribution. This creates a fundamental limitation as graphs often vary spectrally across the distribution. To overcome this limitation, we introduce Spectral Attention, which directly utilizes the input graph spectrum and provably outperforms linear attention",
-    "link": "http://arxiv.org/abs/2607.06546v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06544v1",
-    "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
-    "authors": [
-      "Aparna Madva",
-      "Sharath Srivatsa",
-      "Srinath Srinivasa",
-      "Tulika Saha"
-    ],
-    "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI is seen as a ''double-edged sword'' where on the one hand, it can enable access and inclusion for a large population, on the other, it can homogenize worldviews and exclude underrepresented languages and worldviews. In this paper, we try to characterize this problem by addressing the extensive characteristic nature of Indian linguistics and the way they closely connect to cultural practices and worldview. We then perform a longitudinal survey of how Natural Language Processing (NLP) techniques have evolved in this space, tracing the historical development of Indic NLP, coverin",
-    "link": "http://arxiv.org/abs/2607.06544v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06542v1",
-    "title": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
-    "authors": [
-      "Ramon Ferrer-i-Cancho",
-      "Catherine Hobaiter",
-      "Thore Bergman",
-      "Morgan Gustison"
-    ],
-    "summary": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human languages, an unsupervised parser can be evaluated because some gold standard is usually available or can be created. For other species, a gold standard is unknown. Thus one may conclude that it is impossible to determine the accuracy of an unsupervised parser and, consequently, dependency parsing is unfeasible in other species. However, here we apply recent advances in network science to demonstrate that the proportion of correct edges retrieved by a parser must be high for the sequences of vocalizations or gestures that non-human primates produce due to the fast decay of the sequence length dis",
-    "link": "http://arxiv.org/abs/2607.06542v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06540v1",
-    "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
-    "authors": [
-      "Zhenyu Liu",
-      "Yunxin Li",
-      "Xuanyu Zhang",
-      "Qixun Teng",
-      "Shenyuan Jiang",
-      "Haolan Chen",
-      "Minjun Zhao",
-      "Fanbo Meng",
-      "Yu Xu",
-      "Yancheng He",
-      "Baotian Hu",
-      "Haizhou Li",
-      "Min Zhang"
-    ],
-    "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notable progress, recent endeavors are fundamentally constrained by severe modality interference, which causes substantial knowledge degradation and compromises semantic integrity -- ultimately making full-duplex SLMs feel unnatural and unintelligent. In this paper, through an exhaustive fine-grained analysis of model optimization dynamics, we uncover the root cause of such performance degradation, revealing that modality interference arises from inherent gradient conflicts between acoustic and semantic modeling when the two modalities are forced to share a deep parameter space. Guided by this key i",
-    "link": "http://arxiv.org/abs/2607.06540v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06532v1",
-    "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
-    "authors": [
-      "Xiaolei Guo",
-      "Chenyu Zhou",
-      "Jianghao Lin",
-      "Dongdong Ge"
-    ],
-    "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and learned policies rely on. Existing general generators usually choose their generation unit from a formulation template, summary statistics, local graph edits, or blocks found after recombination. These units do not explicitly record how a local part of the MILP is coupled to the rest of the instance. We propose GraphBU, a graph-native generator whose basic unit is a local subproblem plus its interface. The method promotes coupling nodes into master constraints or boundary variables and uses the resulting block units for compatibility-checked replacement. The analysis focuses on ",
-    "link": "http://arxiv.org/abs/2607.06532v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.LG",
-      "math.OC"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06531v1",
-    "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
-    "authors": [
-      "Ghassen Marrakchi",
-      "Basarab Matei"
-    ],
-    "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-hoc orchestration framework designed for scalable clinical decision support. - Methods: The LCA is mathematically formalized as a 7-tuple architecture grounded in the principle of Algorithmic Impermeability, ensuring the orchestration logic remains strictly independent of underlying black-box AI models. We introduce the Entry Theory, leveraging Geometric Deep Learning (GDL) to standardize multimodal patient data along distinct structural and medical axes. The system dynamically orchestrates data v",
-    "link": "http://arxiv.org/abs/2607.06531v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06529v1",
-    "title": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
-    "authors": [
-      "Srivatsa Kulkarni",
-      "Debarag Banerjee"
-    ],
-    "summary": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence and deprivation. This study pro-poses a scalable, grid-based urban delineation framework using building morphology derived from open-source satellite imagery. Urban areas across 59 Indian cities and towns are partitioned into high-resolution spatial grids and characterized using interpretable morphological indicators, which are combined into a transparent, rule-based scoring framework to delineate areas with contrasting levels of urban affluence. The resulting classifications are validated through ground-level Google Street View observations, revealing a sharp contrast between the grid classes",
-    "link": "http://arxiv.org/abs/2607.06529v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06527v1",
-    "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
-    "authors": [
-      "Sambaran Bandyopadhyay",
-      "Ananth Muppidi"
-    ],
-    "summary": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where intermediate nodes lack lexical overlap with the query. To address this, we propose RSF-GLLM, a framework decoupling differentiable graph reasoning from answer generation. Our Recurrent Soft-Flow (RSF) module employs a GRU-guided query updater to propagate continuous relevance scores, utilizing a dynamic gating mechanism to traverse semantically dissimilar bridge nodes via structural cues. We introduce flow sparsity regularization to theoretically guarantee convergence from soft probabilities to discrete reasoning paths. These paths are extracted and textualized to fine-tune a",
-    "link": "http://arxiv.org/abs/2607.06527v1",
-    "publishedAt": "2026-07-07",
+    "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information while showing how specific evidence supports predictions under these constraints. Here we introduce SciReasoner, a multimodal scientific foundation model for native structural reasoning across proteins",
+    "link": "http://arxiv.org/abs/2607.07708v1",
+    "publishedAt": "2026-07-08",
     "categories": [
       "cs.CL",
+      "cs.AI",
+      "cs.CE",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07707v1",
+    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+    "authors": [
+      "Yair Feldman",
+      "Linxi Zhao",
+      "Nathan Godey",
+      "Dongyoung Go",
+      "Yilun Hua",
+      "Kilian Q. Weinberger",
+      "Jennifer J. Sun",
+      "Yoav Artzi"
+    ],
+    "summary": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant departure from prior reliance on relational KB and queries. CO-LMLM generates flexible vector queries at minimal cost, while still integrating human-readable and attributable retrieved knowledge into its generation. We pair this design with an annotation pipeline that tags free-form factual spans in",
+    "link": "http://arxiv.org/abs/2607.07707v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07706v1",
+    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+    "authors": [
+      "Anna Kuzina",
+      "Paul N. Whatmough",
+      "Babak Ehteshami Bejnordi"
+    ],
+    "summary": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines o",
+    "link": "http://arxiv.org/abs/2607.07706v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07702v1",
+    "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+    "authors": [
+      "Ying Chang",
+      "Jiahang Xu",
+      "Xuan Feng",
+      "Chenyuan Yang",
+      "Peng Cheng",
+      "Yuqing Yang"
+    ],
+    "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signa",
+    "link": "http://arxiv.org/abs/2607.07702v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07696v1",
+    "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+    "authors": [
+      "Victor Giannakouris",
+      "Immanuel Trummer"
+    ],
+    "summary": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query execution and other driver layers that are not designed for bulk columnar analytics. We present Jailbreak, an approach that bypasses the database engine entirely by reading storage files directly and materializing data as in-memory columnar buffers. Jailbreak's key insight is that database file formats, while complex, are fully specified by their source code and documentation, artifacts that Large Language Models (LLMs) can ingest to regenerate operator-specific table reading components without human-engineered parsing logic. Jailbreak leverages LLM-assisted code synthesis for dat",
+    "link": "http://arxiv.org/abs/2607.07696v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.DB",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.06523v1",
-    "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+    "id": "arxiv-2607.07695v1",
+    "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
     "authors": [
-      "Anna Cordoba",
-      "Adam Puente Tercero",
-      "Nerea Angulo Hijo",
-      "Mar Linares Tercero",
-      "Julia Barrientos",
-      "Ainhoa Miranda",
-      "Jesus Olivera"
+      "Yujiao Chen"
     ],
-    "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different preservation. We introduce DepthWeave-KV, a token-adaptive cache compression method that factorizes key and value states across neighboring transformer layers using shared low-rank channel bases while retaining lightweight token-specific residuals where attention behavior is sensitive. DepthWeave-KV combines cross-depth residual factorization with a token-conditional depth router that allocates higher reconstruction rank to instruction-bearing and retrieval-critical tokens, and uses calibration-fr",
-    "link": "http://arxiv.org/abs/2607.06523v1",
-    "publishedAt": "2026-07-07",
+    "summary": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces. Three findings emerge. (1) Deployment rules causally alter collective safety: changing only the consequence rule moves mean fatality by 22 to 58 percentage points within every population. (2) There is no safe default, but the targeting hazard is universal: the safest rule, the least-safe rule, and",
+    "link": "http://arxiv.org/abs/2607.07695v1",
+    "publishedAt": "2026-07-08",
     "categories": [
-      "cs.AI"
+      "cs.AI",
+      "cs.GT",
+      "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2607.06522v1",
-    "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+    "id": "arxiv-2607.07693v1",
+    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
     "authors": [
-      "Han-Jun Ko",
-      "Jr-Jen Chen",
-      "Haobo Yuan",
-      "Hsin-Ying Lee",
-      "Tiancheng Shen",
-      "Ming-Hsuan Yang",
-      "Yu-Chiang Frank Wang"
+      "Eric Zhu",
+      "Abhinav Shrivastava",
+      "Soumik Mukhopadhyay"
     ],
-    "summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that contradicts physical reality, and misalignment between the model's reasoning and actions. We present VAORA (Visual Action Outcome Reasoning Alignment), a novel reward design that directly addresses both issues. VAORA introduces two complementary rewards: Visual Alignment Reward, which anchors VLM reasoning to the visual context independent of the agent action itself, and Visual-Action Alignment Reward, which grounds reasoning in the visual outcome induced by the model's action. Together, these rewards suppress hallucinated CoT and reduce the gap between reasoning and ",
-    "link": "http://arxiv.org/abs/2607.06522v1",
-    "publishedAt": "2026-07-07",
+    "summary": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficient, as existing approaches typically require large amounts of human or reward model evaluations. This limitation reduces the practicality of diffusion RLHF in realworld settings where feedback is the primary bottleneck. In this paper, we propose two complementary strategies that substantially improve the feedback efficiency of diffusion RLHF while preserving generalization to unseen prompts. Our key observation is that reward information in diffusion trajectories is unevenly distributed: not all denoising timesteps or trajectories contribute equally to learning from a reward si",
+    "link": "http://arxiv.org/abs/2607.07693v1",
+    "publishedAt": "2026-07-08",
     "categories": [
+      "cs.LG",
       "cs.AI",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2607.06519v1",
-    "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
+    "id": "arxiv-2607.07690v1",
+    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
     "authors": [
-      "Anna Córdoba",
-      "Adam Puente Tercero",
-      "Nerea Angulo Hijo",
-      "Mar Linares Tercero",
-      "Julia Barrientos",
-      "Ainhoa Miranda",
-      "Jesús Olivera"
+      "Vladislav Beliaev"
     ],
-    "summary": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adjacent-layer KV states into shared low-frequency depth components and sparse high-frequency residuals. A lightweight online probe assigns attention heads to shared-depth, residual-depth, or exact cache modes according to their contribution to reconstruction-sensitive attention logits, allowing the compression policy to adapt to prompt structure without retraining. Across long-context question answering, needle retrieval, summarization, and code generation benchmarks, FreqDepthKV preserves task acc",
-    "link": "http://arxiv.org/abs/2607.06519v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06514v1",
-    "title": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games",
-    "authors": [
-      "Chase McDonald",
-      "Nathan Tsang",
-      "Wesley N. Kerr"
-    ],
-    "summary": "We present FootsiesGym, an open-source environment for learning in a non-trivial two-player, zero-sum, imperfect-information game. Built on HiFight's minimalist 2D fighting game Footsies, it isolates the cyclic, non-transitive strategic interactions of fighting game neutral play while remaining simple enough for efficient analysis. We provide a vectorized simulator that enables high-throughput training on standard hardware, making the environment accessible and reproducible. We describe the design of the environment, benchmark several reinforcement learning algorithms, and discuss open research directions it enables. The code is available at https://github.com/como-research/FootsiesGym.",
-    "link": "http://arxiv.org/abs/2607.06514v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI",
-      "cs.GT"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06507v1",
-    "title": "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation",
-    "authors": [
-      "Yaqi Wu",
-      "Xiaolei Guo",
-      "Chenyu Zhou",
-      "Jiaqi Huang",
-      "Xianfa Zhang",
-      "Junxu Zhang",
-      "Zhuo Yu",
-      "Zhubo Shi",
-      "Jianghao Lin",
-      "Dongdong Ge"
-    ],
-    "summary": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leaves underexplored how to learn a shared state-conditioned policy that chooses among currently valid evidence operations. We introduce DynaKRAG, which formulates multi-hop evidence acquisition as state-conditioned control over atomic evidence operations. At each step, a validity layer constructs the executable action set, and a learned controller sele",
-    "link": "http://arxiv.org/abs/2607.06507v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.CL",
-      "cs.IR"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06505v1",
-    "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
-    "authors": [
-      "Kevin Xu",
-      "Alexander Quispe"
-    ],
-    "summary": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new technologies across economic sectors. We present NAICS-GH, a publicly released corpus of 6,588 GitHub repositories drawn from source pools covering the United States, the European Union, and Australia, each labeled with a 2-digit sector from the North American Industry Classification System (NAICS 2022). Labels are produced by a retrieve-and-verify pipeline that combines BAAI/bge-large-en embeddings, FAISS retrieval, and GPT-4.1 rubric scoring. The pipeline narrows about 1.37 million source repositor",
-    "link": "http://arxiv.org/abs/2607.06505v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.SE",
-      "cs.AI",
-      "cs.DB"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06504v1",
-    "title": "RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models",
-    "authors": [
-      "Qian Sun",
-      "Yong-Ming Tian",
-      "Jia-Wei Huang",
-      "Cheng Feng",
-      "Shao-Qun Zhang"
-    ],
-    "summary": "Recent years have witnessed the emergence of multivariate modeling using time series foundation models (TSFMs), which achieve advanced zero-shot generalization. Modern multivariate TSFMs are predominantly pretrained on multivariate synthetic data, which is easier to scale but may fail to capture the complex temporal dynamics and cross-variable relationships present in real-world time series. This raises a key question: Whether and to what extent the leading TSFMs trained with the real-world corpus perform better than those trained with synthetic data? To answer this, we establish the RMISC corpus, a considerably large-scale, high-quality, openly accessible, real-world, and multivariate time series archive that contains around 200 datasets and 142 billion time points across diverse domains.",
-    "link": "http://arxiv.org/abs/2607.06504v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06503v1",
-    "title": "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade",
-    "authors": [
-      "Kai Ruan",
-      "Zihe Huang",
-      "Ziqi Zhou",
-      "Qianshan Wei",
-      "Xuan Wang",
-      "Hao Sun"
-    ],
-    "summary": "Large language model (LLM) agents solving multi-step tasks frequently commit to trajectories that are doomed to fail, yet continue to consume substantial inference compute before the failure becomes observable. We show that failure is predictable early from the agent's internal representations: lightweight per-round probes on hidden activations anticipate eventual episode failure as early as the first interaction round, where scorers reading only the agent's observable behavior are barely better than chance. We turn this signal into a practical abort cascade: one distribution-free calibrated gate per round, with per-round recall budgets jointly searched so that eventually-successful episodes survive all gates at a user-specified global rate; this episode-level guarantee is the one that mat",
-    "link": "http://arxiv.org/abs/2607.06503v1",
-    "publishedAt": "2026-07-07",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.06497v1",
-    "title": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
-    "authors": [
-      "Przemysław Rola"
-    ],
-    "summary": "We introduce EntroPath, a manifold learning method that recovers geodesic geometry from data graphs through ensembles of diffusion paths. Many existing graph-based embeddings rely either on locally normalised random walks or on shortest-path distances. The former can concentrate diffusion in densely sampled regions, while the latter are sensitive to spurious shortcut edges in the graph. EntroPath instead builds its dissimilarities from the maximum entropy random walk (MERW), which aggregates the full ensemble of k-step paths between points rather than relying on any single trajectory. We show that the resulting free-energy dissimilarity converges to squared geodesic distance in the short-time limit, via Varadhan's heat-kernel formula. The diffusion depth k interpolates smoothly between loc",
-    "link": "http://arxiv.org/abs/2607.06497v1",
-    "publishedAt": "2026-07-07",
+    "summary": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot",
+    "link": "http://arxiv.org/abs/2607.07690v1",
+    "publishedAt": "2026-07-08",
     "categories": [
       "cs.LG",
-      "q-bio.QM",
-      "stat.ML"
+      "cs.AI",
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.06495v1",
-    "title": "Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine",
+    "id": "arxiv-2607.07683v1",
+    "title": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
     "authors": [
-      "Juan S. Santillana"
+      "Shreyasvi Natraj",
+      "Cyrus Achtari",
+      "Felice Gragnano",
+      "Andrea Milzi",
+      "Marco Valgimigli",
+      "Diego Paez-Granados"
     ],
-    "summary": "Live sports commentary is grounded generation under a deadline: statements concern real, named athletes, the grounding state changes every few seconds, and no reference text exists at generation time. We present Pitwall, a production system that generates natural-language Formula 1 strategy briefings in English, Spanish, and Portuguese, treating faithfulness as an architectural property rather than an aspiration: every published sentence is decomposed into typed factual claims (positions, gaps, tyres, pace, overtakes, race control) and each claim is verified against the probabilistic race state that prompted it. The same verifier gates the fine-tuning data: of 3,045 model-written targets, only the 81.9% whose every claim is state-supported are retained, the rest falling back to a provably ",
-    "link": "http://arxiv.org/abs/2607.06495v1",
-    "publishedAt": "2026-07-07",
+    "summary": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and computational capacity. As a result, vast numbers of physical ECGs obtained in remote areas still remain incapable of being accessed by contemporary artificial-intelligence (AI)-based decision support as they require high computational resources or strong high-speed internet connectivity. This causes several cases where conditions like acute coronary occlusion (ACS) is overlooked and reperfusion therapy delayed. Although prior work has tackled digitization and diagnosis separately, and utilized advanced AI models for them, there still remains a lack of a compute-light, on-device ",
+    "link": "http://arxiv.org/abs/2607.07683v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07682v1",
+    "title": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
+    "authors": [
+      "Xiangming Huang",
+      "Guannan Zhang",
+      "Lu Lu",
+      "Raphaël Pestourie"
+    ],
+    "summary": "The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for inverse design often lack robustness and transferability, whereas evolutionary strategies are robust but struggle in high-dimensional spaces. This paper introduces a Neural Operator-enabled Topology-informed Evolutionary Strategy (NOTES) that integrates dimensionality reduction, representation learning, and evolutionary optimization for efficient and transferable inverse design. NOTES couples a DeepONet-based neural operator with the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) to perform global optimization in a compact latent space that encodes topology-aware priors while discove",
+    "link": "http://arxiv.org/abs/2607.07682v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07680v1",
+    "title": "Any-Dimensional Learning by Sampling",
+    "authors": [
+      "Eitan Levin",
+      "Venkat Chandrasekaran"
+    ],
+    "summary": "Many machine learning models are defined for inputs of different sizes, such as point clouds containing different numbers of points, sequences of tokens of different lengths, and graphs on different numbers of nodes. Such models are trained on finitely-many examples of necessarily limited sizes. How well do these models generalize from inputs of small size to larger inputs of size not seen during training? Furthermore, evaluating such models on large inputs is often expensive. How can we sketch large inputs to obtain smaller ones on which the model takes similar values? At the heart of both questions is the need to compare inputs of different sizes and to approximate large inputs by small ones. We present a unified approach to address these questions by using random sampling maps to compar",
+    "link": "http://arxiv.org/abs/2607.07680v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "math.ST",
+      "cs.LG",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07678v1",
+    "title": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization",
+    "authors": [
+      "Xinyi Wu",
+      "Siyuan Liu",
+      "Ali Jadbabaie"
+    ],
+    "summary": "Rotary Position Embeddings (RoPE) provide transformers with a fixed grid of positional frequencies, yet trained models use these frequencies highly non-uniformly. We study what determines this frequency usage and propose a data-centered explanation: RoPE frequencies are selected to match the relative-distance structure of the training data. Viewing each frequency as a positional lens, we formalize a field-resolution tradeoff and show that, for a data-induced dependency profile of width $W$, the optimal frequency scales as $1/W$. This frequency-matching principle explains controlled observations on synthetic and text-based data, and suggests that the mid-low frequency bands observed in language models arise from the multi-scale dependency structure of natural language. We further connect fr",
+    "link": "http://arxiv.org/abs/2607.07678v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07676v1",
+    "title": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
+    "authors": [
+      "Tianming Sha",
+      "Yue Zhao",
+      "Lichao Sun",
+      "Yushun Dong"
+    ],
+    "summary": "Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain bundles. A SkillGate-filtered pipeline contributes 114,565 source-grounded skills from peer-reviewed journals, ArXiv, and over 24,000 technical sources, integrated with 102,373 community skills from GitHub and the ClawHub marketplace. We present the end-to-end framework that builds the pipeline subset: multi-source acquisition, an LLM-based quality gate (SkillGate), template-driven generation, iterative source-grounding, and quality-controlle",
+    "link": "http://arxiv.org/abs/2607.07676v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07674v1",
+    "title": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+    "authors": [
+      "Vladislav Beliaev"
+    ],
+    "summary": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasting the frontier examples we most want to learn from. Prepending a correct prefix of a reference solution raises the success rate, making prefix length a continuous knob on difficulty. Concurrent methods set the knob once; AdaPrefix-GRPO turns it into a feedback controller: throughout training it adjusts how much of the solution each problem gets, holding its success rate near 50%, where GRPO's gradient signal is largest, then withdraws the assistance entirely, so the deployed model solves problems unaided. On hard math, at matched training FLOPs, it more than doubles GRPO's accuracy on held-ou",
+    "link": "http://arxiv.org/abs/2607.07674v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07673v1",
+    "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+    "authors": [
+      "Hyunjae Kim",
+      "Dain Kim",
+      "Pan Xiao",
+      "Serina S. Applebaum",
+      "Younjoon Chung",
+      "Xuguang Ai",
+      "Yu Yin",
+      "Roy Jiang",
+      "Yuexi Du",
+      "Yawen Wei",
+      "Yiming Kong",
+      "Tuo Guo",
+      "Zhiyuan Cao",
+      "Mengmeng Du",
+      "Yuelei Fu",
+      "Yan Hu",
+      "Rui Shi",
+      "Gui Yang",
+      "Kevin W. Jin",
+      "Yuntian Liu",
+      "Yuxuan Tian",
+      "Jonathan Marquez",
+      "Zhen Chen",
+      "Sheng Zhang",
+      "Hoifung Poon",
+      "Hua Xu",
+      "Jaewoo Kang",
+      "Qingyu Chen"
+    ],
+    "summary": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. Although PubMed Central (PMC) offers a complementary source of expert-authored image-text data, existing PMC-derived resources remain limited in fidelity, reproducibility, and clinical validation. We introduce MedPMC, an automated, continuously updatable framework that transforms permissively licensed literature into high-fidelity infrastructure for medical multimodal models. Applied to 6.1 million PMC articles, MedPMC curated 11 million medical image-text pairs. Component evaluations showed strong performance for initial screening (F1 = 93.2), multi-pan",
+    "link": "http://arxiv.org/abs/2607.07673v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07671v1",
+    "title": "PeTeR: Post-Training Robustification of Probabilistic Circuits",
+    "authors": [
+      "Adrian Ciotinga",
+      "Yeming Dai",
+      "YooJung Choi"
+    ],
+    "summary": "Probabilistic circuits (PCs) can model complex joint distributions while supporting exact and efficient computation of many inference queries. However, standard likelihood-based PC learning is vulnerable to overfitting and fragile generalization when confronted with data noise, small sample sizes, or distribution shifts. This can be mitigated using distributionally-robust optimization which consider worst-case distributions within a Wasserstein ball of the empirical distribution, but current methods are limited to training a model from scratch in this framework. Instead, we propose PeTeR: a novel, data-free post-training framework designed to robustify pre-trained PCs against distribution shifts without retraining from scratch. Empirical evaluations across multiple density estimation bench",
+    "link": "http://arxiv.org/abs/2607.07671v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07670v1",
+    "title": "Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale",
+    "authors": [
+      "Grzegorz Brzezinka"
+    ],
+    "summary": "Large language models hallucinate most about entities they have never seen. We ask whether a model's activations betray entity familiarity before a single answer token is generated, and whether that signal predicts the factual reliability of the answers. On four Polish Bielik models (1.5B-11B parameters), we probe four entity domains (athletes, cities, writers, musicians), each with 42 well-known, 42 obscure-but-real, and 42 fabricated entities addressed by a one-sentence question (504 prompts per model). Two unsupervised, single-forward-pass dispersion measures over post-SwiGLU MLP activations, inverse participation ratio and spectral entropy, separate known from fabricated entities at AUROC 0.95-1.00 across all domains and scales; a supervised linear probe reaches 0.99-1.00. Both clear s",
+    "link": "http://arxiv.org/abs/2607.07670v1",
+    "publishedAt": "2026-07-08",
     "categories": [
       "cs.CL",
-      "cs.AI",
-      "cs.LG",
-      "stat.AP"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.06489v1",
-    "title": "Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms",
+    "id": "arxiv-2607.07669v1",
+    "title": "DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation",
     "authors": [
-      "Marcos Eduardo Cruz Victorio",
-      "Karl Mason"
+      "Jordan Painter",
+      "Dipankar Srirag",
+      "Adarsh Kappiyath",
+      "Diptesh Kanojia",
+      "Aditya Joshi",
+      "Lu Yin"
     ],
-    "summary": "The dairy industry in Ireland has a large potential for the integration of renewable energy and the reduction of carbon emissions. However, researchers of distributed generation control are mainly focused on residential and commercial applications. To contribute to the effective integration of renewable energy in the dairy sector, this paper presents a multi-objective optimisation control system based on differential evolution and multi agent Deep Reinforcement Learning. The proposed control is organised in two layers: the upper layer uses dynamic pricing, and the lower layer is based on multi-agent reinforcement learning for battery management. This paper also simulates the electrical response of the proposed control system in a rural distribution circuit. The simulation results show that",
-    "link": "http://arxiv.org/abs/2607.06489v1",
-    "publishedAt": "2026-07-07",
+    "summary": "Large language models increasingly \\emph{understand} dialectal English, yet still \\emph{produce} only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce \\textbf{DiaLLM}, which continually pretrains three open-weight language model families on the International Corpus of English and applies implicit and explicit post-training paradigms, each combined with three model alignment strategies, giving the first controlled comparison of these components across Australian, Indian, and Northern British English. Our results reveal that dialectal robustness and generation are \\emph{dissociated}: benchmarks are shaped by continual pretraining and SFT, while alignment visibly reshapes generation in ways benchmarks do not capture.",
+    "link": "http://arxiv.org/abs/2607.07669v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07665v1",
+    "title": "Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance",
+    "authors": [
+      "Shiheng Zhang"
+    ],
+    "summary": "Classifier-free guidance (CFG) is the standard way to strengthen class-conditioning in diffusion and flow-matching samplers, yet at large guidance it oversaturates and destabilizes, symptoms practitioners suppress with more steps or limited-interval schedules. We analyze CFG through an asymptotic-preserving, numerical-analysis lens. Building on a recent result that the deterministic DDIM step is the unique fitted operator for the unguided terminal layer, exact on the final small-sigma stretch of sampling, we show that guidance re-stiffens exactly the discriminative subspace to an anomalous exponent 1+w. DDIM is therefore no longer fitted there, and on coarse meshes its guided residual diverges as sigma_min goes to zero. We prove a guided clock barrier with three ordered step-size threshold",
+    "link": "http://arxiv.org/abs/2607.07665v1",
+    "publishedAt": "2026-07-08",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ]
+  },
+  {
+    "id": "arxiv-2607.07663v1",
+    "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
+    "authors": [
+      "Mingguang Chen",
+      "Licheng Wang",
+      "Bo Qu"
+    ],
+    "summary": "AI systems increasingly participate in their own improvement: revising their outputs, adapting their own harnesses during deployment, training on data they generate, and, increasingly, conducting AI research itself. This literature is described under a vocabulary (\"self-refine,\" \"self-reward,\" \"self-play,\" \"self-evolve\") that conflates fundamentally different ambitions. We survey 1,250 arXiv papers (2024-2026) along two axes: what the system improves -- its behavior in deployment, its policy through training, its evaluator, or the research process itself -- and the degree of loop closure (human-in-the-loop to fully closed). The taxonomy separates bounded self-refinement -- convergent, evaluable, and already industrial practice -- from open-ended recursive self-improvement (RSI), which rema",
+    "link": "http://arxiv.org/abs/2607.07663v1",
+    "publishedAt": "2026-07-08",
     "categories": [
       "cs.AI"
     ]
@@ -777,60 +799,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
     "postedAt": "2026-07-03",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134515",
-    "title": "Supply Chain Executive",
-    "company": "Pharmanovia",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Our mission is to improve patient health globally by revitalising niche"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Kawasan Sekitar Kuala Lumpur, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-executive-pharmanovia-1134515",
-    "postedAt": "2026-07-03",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134453",
-    "title": "Residential Real Estate Title Search Quality Control",
-    "company": "Pippin Title",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Who We Are Pippin Title is a venture-backed real estate tech startup that offers nationwide, comprehensive, high-quality, technology-driven title search services to clients across the US",
-      "We're bringing title search into the 21st century",
-      "Pippin is headquartered in New York City",
-      "With a remote-first"
-    ],
-    "skills": [],
-    "location": "New York, New York, New York, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-residential-real-estate-title-search-quality-control-pippin-title-1134453",
-    "postedAt": "2026-07-03",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134459",
-    "title": "VP Paid Media",
-    "company": "Kanahoma",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Reporting directly to the SVP, Marketing, the VP, Paid Media fully owns the Paid Me"
-    ],
-    "skills": [
-      "LLM",
-      "RAG"
-    ],
-    "location": "San Diego, San Diego, California, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vp-paid-media-kanahoma-1134459",
-    "postedAt": "2026-07-02",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-08T21:48:57.849Z';
+export const dataFetchedAt = '2026-07-09T10:33:09.491Z';
