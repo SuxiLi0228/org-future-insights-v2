@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "publishedAt": "2026-07-09",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-a-nuclear-landmark-and-china-eyes-nvidia-chips-1783599000000",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
@@ -231,18 +243,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: South Korea&#8217;s hottest bachelors, and advancing eye transplants",
     "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
-    "publishedAt": "2026-07-06",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-south-korea-s-hottest-new-bachelors-are-chip-workers-1783328400000",
-    "title": "South Korea’s hottest new bachelors are chip workers",
-    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-    "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
     "publishedAt": "2026-07-06",
     "source": "MIT Technology Review",
     "tags": [
@@ -631,6 +631,38 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134627",
+    "title": "SLT HDFC BB Chennai",
+    "company": "Aditya Birla Capital",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "ABC Sales Leadership Program Objective: The Aditya Birla Capital Sales Leadership Program (SLP) is designed to develop the next generation of sales leaders through an accelerated career path",
+      "This program is intended for post-graduate students from colleges across India, providing them with"
+    ],
+    "skills": [],
+    "location": "Tamil Nadu, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-chennai-aditya-birla-capital-1134627",
+    "postedAt": "2026-07-08",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134629",
+    "title": "SLT HDFC BB Mumbai",
+    "company": "Aditya Birla Capital",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "ABC Sales Leadership Program Objective: The Aditya Birla Capital Sales Leadership Program (SLP) is designed to develop the next generation of sales leaders through an accelerated career path",
+      "This program is intended for post-graduate students from colleges across India, providing them with"
+    ],
+    "skills": [],
+    "location": "Maharashtra, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-mumbai-aditya-birla-capital-1134629",
+    "postedAt": "2026-07-08",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134586",
     "title": "Regional Training Supervisor",
     "company": "Guild Garage Group",
@@ -772,4 +804,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-09T18:27:05.629Z';
+export const dataFetchedAt = '2026-07-09T23:53:54.196Z';
