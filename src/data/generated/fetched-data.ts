@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-nuclear-landmark-and-china-eyes-nvidia-chips-1783599000000",
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
+    "publishedAt": "2026-07-09",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-four-nuclear-reactors-hit-a-big-milestone-in-the-us-1783584000000",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
@@ -11,6 +23,69 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-fmla-and-ada-compliance-5-priorities-for-hr-leaders-1783599339000",
+    "title": "FMLA and ADA compliance: 5 priorities for HR leaders",
+    "link": "https://hrexecutive.com/fmla-and-ada-compliance-5-priorities-for-hr-leaders/",
+    "summary": "A thoughtful, thorough and documented decision-making process is not just a compliance ideal. It is the most effective risk-management strategy. The post FMLA and ADA compliance: 5 priorities for HR leaders appeared first on HR Executive .",
+    "publishedAt": "2026-07-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-why-ai-roi-could-take-years-to-show-up-in-hr-according-to-an-1783598452000",
+    "title": "Why AI ROI could take years to show up in HR, according to an economist",
+    "link": "https://hrexecutive.com/why-ai-roi-could-take-years-to-show-up-in-hr-according-to-an-economist/",
+    "summary": "AI ROI pressure is mounting, but measurable returns lag, according to this economist. Where does HR fit in the payback timeline? The post Why AI ROI could take years to show up in HR, according to an economist appeared first on HR Executive .",
+    "publishedAt": "2026-07-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-department-of-labor-may-shift-employer-health-plans-to-e-del-1783597538000",
+    "title": "Department of Labor may shift employer health plans to e-delivery",
+    "link": "https://hrexecutive.com/department-of-labor-may-shift-employer-health-plans-to-e-delivery/",
+    "summary": "About 78% of all workers surveyed supported the idea of making electronic delivery the default. The post Department of Labor may shift employer health plans to e-delivery appeared first on HR Executive .",
+    "publishedAt": "2026-07-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-meet-the-2026-top-100-hr-tech-influencers-1783597108000",
+    "title": "Meet the 2026 Top 100 HR Tech Influencers",
+    "link": "https://hrexecutive.com/meet-the-2026-top-100-hr-tech-influencers/",
+    "summary": "HR Executive's 2026 Top 100 HR Tech Influencers list honors the voices shaping workforce technology and the future of HR. The post Meet the 2026 Top 100 HR Tech Influencers appeared first on HR Executive .",
+    "publishedAt": "2026-07-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-botsitting-is-wasting-more-than-6-employee-hours-a-week-1783596623000",
+    "title": "‘Botsitting’ is wasting more than 6 employee hours a week",
+    "link": "https://hrexecutive.com/botsitting-is-wasting-more-than-6-employee-hours-a-week/",
+    "summary": "Employees spend as much time checking an AI tool's work as they do producing outcomes, creating a new HR catchprase—and a productivity drain. The post ‘Botsitting’ is wasting more than 6 employee hours a week appeared first on HR Executive .",
+    "publishedAt": "2026-07-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -140,68 +215,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deloitte-pwc-and-accenture-lead-ranking-of-top-employers-for-1783427404000",
-    "title": "Deloitte, PwC and Accenture lead ranking of top employers for young workers",
-    "link": "https://hrexecutive.com/deloitte-pwc-and-accenture-top-list-of-companies-were-young-workers-succeed/",
-    "summary": "A new ranking highlights top employers hiring entry-level talent at scale. SAP research suggests what those companies may be getting right. The post Deloitte, PwC and Accenture lead ranking of top employers for young workers appeared first on HR Executive .",
-    "publishedAt": "2026-07-07",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-are-frontline-workers-hr-8217-s-biggest-blindspot-1783426533000",
-    "title": "Are frontline workers HR&#8217;s biggest blindspot?",
-    "link": "https://hrexecutive.com/are-frontline-workers-hrs-biggest-blindspot/",
-    "summary": "Josh Bersin Company researcher Nehal Nangia warns of undeserving frontline workers by categorizing them as one entity. The post Are frontline workers HR&#8217;s biggest blindspot? appeared first on HR Executive .",
-    "publishedAt": "2026-07-07",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-for-frontline-staff-abuse-by-customers-is-now-8216-just-part-1783425653000",
-    "title": "For frontline staff, abuse by customers is now &#8216;just part of the job&#8217;",
-    "link": "https://hrexecutive.com/for-frontline-staff-abuse-by-customers-is-now-just-part-of-the-job/",
-    "summary": "Customer abuse on the frontline is rising, and new federal and union data shows what it costs employers in retention and turnover. The post For frontline staff, abuse by customers is now &#8216;just part of the job&#8217; appeared first on HR Executive .",
-    "publishedAt": "2026-07-07",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-insurers-face-billions-in-underwriting-losses-1783424729000",
-    "title": "Insurers face billions in underwriting losses",
-    "link": "https://hrexecutive.com/insurers-face-billions-in-underwriting-losses/",
-    "summary": "Individual and small group health plans faced losses in 2025 as medical claims continued to climb, accelerating a shift toward alternative benefit models. The post Insurers face billions in underwriting losses appeared first on HR Executive .",
-    "publishedAt": "2026-07-07",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-early-career-talent-the-missing-link-in-future-ready-organiz-1783423801000",
-    "title": "Early-career talent: The missing link in future-ready organizations",
-    "link": "https://hrexecutive.com/early-career-talent-the-missing-link-in-future-ready-organizations/",
-    "summary": "The path to becoming future-ready runs through the early-career talent, but many organizations are de-prioritzing this talent population. The post Early-career talent: The missing link in future-ready organizations appeared first on HR Executive .",
-    "publishedAt": "2026-07-07",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
     "id": "news-your-family-8217-s-300-stake-in-openai-1783360800000",
     "title": "Your family&#8217;s $300 stake in OpenAI",
     "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
@@ -231,18 +244,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
     "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
     "publishedAt": "2026-07-06",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-device-that-revives-eyeballs-from-dead-donors-could-make-e-1783100077000",
-    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-    "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8230;",
-    "publishedAt": "2026-07-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -768,38 +769,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
     "postedAt": "2026-07-04",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134446",
-    "title": "Special Services Associate AIRDRIE",
-    "company": "The Home Depot Canada",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects",
-      "If youâre also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot"
-    ],
-    "skills": [],
-    "location": "Airdrie, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-special-services-associate-airdrie-the-home-depot-canada-1134446",
-    "postedAt": "2026-07-03",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134454",
-    "title": "Supply Chain Director",
-    "company": "Novaris Search",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Supply Chain Director New York, USA On-site / Hybrid depending on business needs About the Company Novaris Search is partnered with a growing business within th"
-    ],
-    "skills": [],
-    "location": "New York City Metropolitan Area",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
-    "postedAt": "2026-07-03",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-09T10:33:09.491Z';
+export const dataFetchedAt = '2026-07-09T18:27:05.629Z';
