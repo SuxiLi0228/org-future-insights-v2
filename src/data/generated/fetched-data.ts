@@ -715,24 +715,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
     "postedAt": "2026-07-06",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134540",
-    "title": "Agent",
-    "company": "Skanska Costain STRABAG Joint Venture",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Salary Competitive Frequency Monthly Job Reference scsrail/TP/76/4207 Contract Type Permanent Closing Date 27 July, 2026 Job Category Structures &amp; Earthwork"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Ruislip, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
-    "postedAt": "2026-07-06",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-10T18:08:29.013Z';
+export const dataFetchedAt = '2026-07-10T23:32:18.760Z';
