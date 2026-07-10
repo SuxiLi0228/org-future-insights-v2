@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-sperm-donors-need-limits-says-a-european-fertility-group-1783674000000",
+    "title": "Sperm donors need limits, says a European fertility group",
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+    "publishedAt": "2026-07-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
@@ -237,394 +249,368 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology"
     ]
-  },
-  {
-    "id": "news-the-download-south-korea-8217-s-hottest-bachelors-and-advanc-1783342800000",
-    "title": "The Download: South Korea&#8217;s hottest bachelors, and advancing eye transplants",
-    "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;",
-    "publishedAt": "2026-07-06",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.07708v1",
-    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "id": "arxiv-2607.08768v1",
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
     "authors": [
-      "Chen Tang",
-      "Yizhou Wang",
-      "Jianyu Wu",
-      "Lintao Wang",
-      "Shixiang Tang",
-      "Pengze Li",
-      "Encheng Su",
-      "Jun Yao",
-      "Jiabei Xiao",
-      "Yuqi Shi",
-      "Jielan Li",
-      "Hongxia Hao",
-      "Zhangyang Gao",
-      "Fang Wu",
-      "Ben Fei",
-      "Xiangyu Yue",
-      "Pan Tan",
-      "Bozitao Zhong",
-      "Jinouwen Zhang",
-      "Aoran Wang",
-      "Yan Lu",
-      "Jiaheng Liu",
-      "Xinzhu Ma",
-      "Liang Hong",
-      "Mingyue Zheng",
-      "Phil Torr",
-      "Bowen Zhou",
-      "Wanli Ouyang",
-      "Lei Bai"
+      "Zhekai Chen",
+      "Chengqi Duan",
+      "Kaiyue Sun",
+      "Bohao Li",
+      "Yuqing Wang",
+      "Manyuan Zhang",
+      "Xihui Liu"
     ],
-    "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information while showing how specific evidence supports predictions under these constraints. Here we introduce SciReasoner, a multimodal scientific foundation model for native structural reasoning across proteins",
-    "link": "http://arxiv.org/abs/2607.07708v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CE",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07707v1",
-    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
-    "authors": [
-      "Yair Feldman",
-      "Linxi Zhao",
-      "Nathan Godey",
-      "Dongyoung Go",
-      "Yilun Hua",
-      "Kilian Q. Weinberger",
-      "Jennifer J. Sun",
-      "Yoav Artzi"
-    ],
-    "summary": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant departure from prior reliance on relational KB and queries. CO-LMLM generates flexible vector queries at minimal cost, while still integrating human-readable and attributable retrieved knowledge into its generation. We pair this design with an annotation pipeline that tags free-form factual spans in",
-    "link": "http://arxiv.org/abs/2607.07707v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07706v1",
-    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
-    "authors": [
-      "Anna Kuzina",
-      "Paul N. Whatmough",
-      "Babak Ehteshami Bejnordi"
-    ],
-    "summary": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines o",
-    "link": "http://arxiv.org/abs/2607.07706v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07702v1",
-    "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
-    "authors": [
-      "Ying Chang",
-      "Jiahang Xu",
-      "Xuan Feng",
-      "Chenyuan Yang",
-      "Peng Cheng",
-      "Yuqing Yang"
-    ],
-    "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signa",
-    "link": "http://arxiv.org/abs/2607.07702v1",
-    "publishedAt": "2026-07-08",
+    "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, E",
+    "link": "http://arxiv.org/abs/2607.08768v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.07696v1",
-    "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+    "id": "arxiv-2607.08763v1",
+    "title": "OpenCoF: Learning to Reason Through Video Generation",
     "authors": [
-      "Victor Giannakouris",
-      "Immanuel Trummer"
+      "Xinyan Chen",
+      "Ziyu Guo",
+      "Renrui Zhang",
+      "Dongzhi Jiang",
+      "Hongsheng Li"
     ],
-    "summary": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query execution and other driver layers that are not designed for bulk columnar analytics. We present Jailbreak, an approach that bypasses the database engine entirely by reading storage files directly and materializing data as in-memory columnar buffers. Jailbreak's key insight is that database file formats, while complex, are fully specified by their source code and documentation, artifacts that Large Language Models (LLMs) can ingest to regenerate operator-specific table reading components without human-engineered parsing logic. Jailbreak leverages LLM-assisted code synthesis for dat",
-    "link": "http://arxiv.org/abs/2607.07696v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To address this gap, we introduce OpenCoF, a framework comprising the OpenCoF-17K dataset, a reasoning video dataset spanning 11 task families, and Wan-CoF, a fine-tuned video model for studying whether diverse temporal supervision improves CoF behavior. Across four video reasoning benchmarks, Wan-CoF ach",
+    "link": "http://arxiv.org/abs/2607.08763v1",
+    "publishedAt": "2026-07-09",
     "categories": [
-      "cs.DB",
+      "cs.CV",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.07695v1",
-    "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+    "id": "arxiv-2607.08758v1",
+    "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
     "authors": [
-      "Yujiao Chen"
+      "Yifan Zhou",
+      "Qihao Yang",
+      "Yan Li",
+      "Donggang Li",
+      "Xiru Hu",
+      "Hokin Deng",
+      "Ziyang Gong",
+      "Xuanyi Zhou",
+      "Huacan Wang",
+      "Xiangchao Yan",
+      "Wanghan Xu",
+      "Wenlong Zhang",
+      "Shaofeng Zhang",
+      "Yue Zhou",
+      "Yifan Yang",
+      "Zhihang Zhong",
+      "Xue Yang"
     ],
-    "summary": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces. Three findings emerge. (1) Deployment rules causally alter collective safety: changing only the consequence rule moves mean fatality by 22 to 58 percentage points within every population. (2) There is no safe default, but the targeting hazard is universal: the safest rule, the least-safe rule, and",
-    "link": "http://arxiv.org/abs/2607.07695v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inheritance, mutation, loss, external import, and novel insertion under six operational evolutionary dynamics. The benchmark contains 1,961 golden lineage traces, 1,085 curated Idea Genome objects, and 920",
+    "link": "http://arxiv.org/abs/2607.08758v1",
+    "publishedAt": "2026-07-09",
     "categories": [
-      "cs.AI",
-      "cs.GT",
-      "cs.MA"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.07693v1",
-    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "id": "arxiv-2607.08757v1",
+    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
     "authors": [
-      "Eric Zhu",
-      "Abhinav Shrivastava",
-      "Soumik Mukhopadhyay"
+      "Yiwei Zhou"
     ],
-    "summary": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficient, as existing approaches typically require large amounts of human or reward model evaluations. This limitation reduces the practicality of diffusion RLHF in realworld settings where feedback is the primary bottleneck. In this paper, we propose two complementary strategies that substantially improve the feedback efficiency of diffusion RLHF while preserving generalization to unseen prompts. Our key observation is that reward information in diffusion trajectories is unevenly distributed: not all denoising timesteps or trajectories contribute equally to learning from a reward si",
-    "link": "http://arxiv.org/abs/2607.07693v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrarily small forward-marginal $L^2$ error. The learned reverse-time process is nonexplosive, has moments of every order, and can be arbitrarily close to the exact reverse-time process in path-space total variation. Yet its Euler--Maruyama discretizations converge in probability while every positive moment diverges. Thus weak convergence can hold even though every Wasserstein distance $W_p$, $p\\ge1$, diverges. The same failure can occur within one fixed finite neural architecture. We construct a family ",
+    "link": "http://arxiv.org/abs/2607.08757v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.NA",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08756v1",
+    "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+    "authors": [
+      "Nathan Pruyne",
+      "Benjamin Stoler",
+      "William Chen",
+      "Chien-yu Huang",
+      "Shinji Watanabe",
+      "Chris Donahue"
+    ],
+    "summary": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling 3.5 hours of audio, and contains songs from diverse genres and decades from the 1930s to 2000s. To collect this dataset, we perform metadata-based matching on song segments from the Lakh MIDI and TheoryTab datasets, manually identify an anchor beat between the audio and MIDI, then use beat tracking on the audio and warp the MIDI to match its tempo and timing. We evaluate state-of-the-art automatic music transcription models on MulTTiPop and find substantial room for improvement, with the best model achieving 38% Onset F1. More details and sound examples of MulTTiPop are ava",
+    "link": "http://arxiv.org/abs/2607.08756v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.SD",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08754v1",
+    "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+    "authors": [
+      "David González-Martínez",
+      "Shiwei Liu"
+    ],
+    "summary": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on stateful cached quantities. To address these limitations, we introduce SLORR, a simple, stateless, and architecture-preserving framework for in-training low-rank regularization, instantiated with two main variants based on the Hoyer sparsity metric and the nuclear norm. SLORR directly regularizes the original weight matrices using GPU-friendly approximations for the forward and backward passes of the",
+    "link": "http://arxiv.org/abs/2607.08754v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08748v1",
+    "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
+    "authors": [
+      "Kristina Schaaff",
+      "Quintus Stierstorfer",
+      "Valerie Heckel"
+    ],
+    "summary": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but that usage differs across demographic and structural contexts. By identifying these patterns, our study provides an empirical basis for the further development of AI-based learning support and contri",
+    "link": "http://arxiv.org/abs/2607.08748v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.AI",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08746v1",
+    "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+    "authors": [
+      "Duen Horng Chau",
+      "Donghao Ren",
+      "Fred Hohman",
+      "Dominik Moritz"
+    ],
+    "summary": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constructs internally. This graph encodes the data manifold in its original high-dimensional space, before the distortion that UMAP's 2D projection introduces. We demonstrate the untapped potential of this internal representation, showing how standard graph algorithms applied to this graph enhance data sensemaking: (1) PageRank identifies representative data points, (2) k-core decomposition reveals dense core regions versus sparse periphery, and (3) clustering coefficient detects tight-knit neighborhoods with highly-similar data points. Through quantitative and qualitative evaluation on MNIST and Fas",
+    "link": "http://arxiv.org/abs/2607.08746v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.DS",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08745v1",
+    "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+    "authors": [
+      "Siddharth Damodharan",
+      "Radhika Gupta",
+      "Ali Alshami",
+      "Ryan Rabinowitz",
+      "Jugal Kalita"
+    ],
+    "summary": "Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reason about safety-critical incidents remains challenging. To address this gap, we present AUTOPILOT-VQA, an incident-centric visual question answering benchmark for dashcam video understanding. The dataset evaluates different systems through structured questions designed around real-world driving incidents and near-incidents. The benchmark covers diverse safety-relevant categories, including weather and lighting conditions, traffic environment, road layout, road surface state, signage, involved en",
+    "link": "http://arxiv.org/abs/2607.08745v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
       "cs.AI",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2607.07690v1",
-    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "id": "arxiv-2607.08741v1",
+    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
     "authors": [
-      "Vladislav Beliaev"
+      "Kaifeng Zhao",
+      "Mathis Petrovich",
+      "Haotian Zhang",
+      "Tingwu Wang",
+      "Siyu Tang",
+      "Davis Rempe"
     ],
-    "summary": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot",
-    "link": "http://arxiv.org/abs/2607.07690v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by enabling high-fidelity motion generation controllable via online text prompts and flexible kinematic constraints. ARDY employs a hybrid representation that combines explicit root features with a latent ",
+    "link": "http://arxiv.org/abs/2607.08741v1",
+    "publishedAt": "2026-07-09",
     "categories": [
+      "cs.GR",
+      "cs.CV",
       "cs.LG",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08740v1",
+    "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+    "authors": [
+      "Emanuele Quinto",
+      "Carlo Andrea Rozzi",
+      "Francesco Zanitti"
+    ],
+    "summary": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation commitments. In this model, workflow definitions, workflow instances, inference records, context snapshots, and dependency relations are represented as persistent knowledge objects in a shared knowledge substrate. Its central semantic distinction is between derive and infer: derive is deterministic computation over available state; infer is mediated LLM judgment under declared context and executo",
+    "link": "http://arxiv.org/abs/2607.08740v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
       "cs.AI",
-      "cs.CL"
+      "cs.PL",
+      "cs.SE"
     ]
   },
   {
-    "id": "arxiv-2607.07683v1",
-    "title": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
+    "id": "arxiv-2607.08734v1",
+    "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
     "authors": [
-      "Shreyasvi Natraj",
-      "Cyrus Achtari",
-      "Felice Gragnano",
-      "Andrea Milzi",
-      "Marco Valgimigli",
-      "Diego Paez-Granados"
+      "Baha Rababah",
+      "Cuneyt Gurcan Akcora",
+      "Carson K. Leung"
     ],
-    "summary": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and computational capacity. As a result, vast numbers of physical ECGs obtained in remote areas still remain incapable of being accessed by contemporary artificial-intelligence (AI)-based decision support as they require high computational resources or strong high-speed internet connectivity. This causes several cases where conditions like acute coronary occlusion (ACS) is overlooked and reperfusion therapy delayed. Although prior work has tackled digitization and diagnosis separately, and utilized advanced AI models for them, there still remains a lack of a compute-light, on-device ",
-    "link": "http://arxiv.org/abs/2607.07683v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07682v1",
-    "title": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
-    "authors": [
-      "Xiangming Huang",
-      "Guannan Zhang",
-      "Lu Lu",
-      "Raphaël Pestourie"
-    ],
-    "summary": "The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for inverse design often lack robustness and transferability, whereas evolutionary strategies are robust but struggle in high-dimensional spaces. This paper introduces a Neural Operator-enabled Topology-informed Evolutionary Strategy (NOTES) that integrates dimensionality reduction, representation learning, and evolutionary optimization for efficient and transferable inverse design. NOTES couples a DeepONet-based neural operator with the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) to perform global optimization in a compact latent space that encodes topology-aware priors while discove",
-    "link": "http://arxiv.org/abs/2607.07682v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07680v1",
-    "title": "Any-Dimensional Learning by Sampling",
-    "authors": [
-      "Eitan Levin",
-      "Venkat Chandrasekaran"
-    ],
-    "summary": "Many machine learning models are defined for inputs of different sizes, such as point clouds containing different numbers of points, sequences of tokens of different lengths, and graphs on different numbers of nodes. Such models are trained on finitely-many examples of necessarily limited sizes. How well do these models generalize from inputs of small size to larger inputs of size not seen during training? Furthermore, evaluating such models on large inputs is often expensive. How can we sketch large inputs to obtain smaller ones on which the model takes similar values? At the heart of both questions is the need to compare inputs of different sizes and to approximate large inputs by small ones. We present a unified approach to address these questions by using random sampling maps to compar",
-    "link": "http://arxiv.org/abs/2607.07680v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "math.ST",
-      "cs.LG",
-      "math.PR"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07678v1",
-    "title": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization",
-    "authors": [
-      "Xinyi Wu",
-      "Siyuan Liu",
-      "Ali Jadbabaie"
-    ],
-    "summary": "Rotary Position Embeddings (RoPE) provide transformers with a fixed grid of positional frequencies, yet trained models use these frequencies highly non-uniformly. We study what determines this frequency usage and propose a data-centered explanation: RoPE frequencies are selected to match the relative-distance structure of the training data. Viewing each frequency as a positional lens, we formalize a field-resolution tradeoff and show that, for a data-induced dependency profile of width $W$, the optimal frequency scales as $1/W$. This frequency-matching principle explains controlled observations on synthetic and text-based data, and suggests that the mid-low frequency bands observed in language models arise from the multi-scale dependency structure of natural language. We further connect fr",
-    "link": "http://arxiv.org/abs/2607.07678v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07676v1",
-    "title": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
-    "authors": [
-      "Tianming Sha",
-      "Yue Zhao",
-      "Lichao Sun",
-      "Yushun Dong"
-    ],
-    "summary": "Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain bundles. A SkillGate-filtered pipeline contributes 114,565 source-grounded skills from peer-reviewed journals, ArXiv, and over 24,000 technical sources, integrated with 102,373 community skills from GitHub and the ClawHub marketplace. We present the end-to-end framework that builds the pipeline subset: multi-source acquisition, an LLM-based quality gate (SkillGate), template-driven generation, iterative source-grounding, and quality-controlle",
-    "link": "http://arxiv.org/abs/2607.07676v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreement, a decision-level metric that measures overlap in correct predictions between a base model and its quantized variants, independent of absolute accuracy. Across multiple models and quantization schemes from 8-bit to 2-bit, we find that behavioral divergence emerges under moderate quantization even when task performance appears preserved. To explain this effect, we analyze quantization as a structural operator on attention weights and quantify layer-wise distortions using statistical and distri",
+    "link": "http://arxiv.org/abs/2607.08734v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.07674v1",
-    "title": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+    "id": "arxiv-2607.08733v1",
+    "title": "Super Weights in LLMs and the Failure of Selective Training",
     "authors": [
-      "Vladislav Beliaev"
+      "Shreyas Subramanian",
+      "Adewale Akinfaderin",
+      "Akarsha Sehwag"
     ],
-    "summary": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasting the frontier examples we most want to learn from. Prepending a correct prefix of a reference solution raises the success rate, making prefix length a continuous knob on difficulty. Concurrent methods set the knob once; AdaPrefix-GRPO turns it into a feedback controller: throughout training it adjusts how much of the solution each problem gets, holding its success rate near 50%, where GRPO's gradient signal is largest, then withdraws the assistance entirely, so the deployed model solves problems unaided. On hard math, at matched training FLOPs, it more than doubles GRPO's accuracy on held-ou",
-    "link": "http://arxiv.org/abs/2607.07674v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be effective. We show the opposite. Training Super Weights in isolation (100 to 8,192 parameters) drops accuracy to random-guessing levels on both OLMo-1B and OLMo-7B, and expanding to local neighborhoods of up to 36K parameters provides no improvement. The failure is specific to Super Weight coordinates: training an equal number of randomly chosen positions in the same down_proj layers instead improves over the baseline, so the collapse comes from targeting Super Weights, not from spa",
+    "link": "http://arxiv.org/abs/2607.08733v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08731v1",
+    "title": "Validity of LLMs as data annotators: AMALIA on authority",
+    "authors": [
+      "Manuel Pita"
+    ],
+    "summary": "A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it agrees with trained human coders to within six F1 points of open models eight to thirteen times its size. Yet agreement is reliability, not validity. For theoretical constructs that must be inferred rather than read from surface features, the question is whether the model follows the construct's theory or reaches the right code by correlated shortcuts. We test this with the recovery gap: the loss in performance when a holistic prompt is decomposed into the codebook's atomic clauses and recombined by ",
+    "link": "http://arxiv.org/abs/2607.08731v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08725v1",
+    "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction",
+    "authors": [
+      "Ayda Eghbalian",
+      "Kevin Desai"
+    ],
+    "summary": "Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinical movement analysis require biomechanical quantities that describe how the body moves, loads, and activates. In this work, we propose BioModule, a lightweight plug-in temporal transformer that attaches downstream of any 3D pose estimator and predicts biomechanical attributes from standard 17-joint 3D skeletons. BioModule is estimator-agnostic and requires no modification of the upstream pose model, enabling existing pose estimators to be extended toward physically interpretable motion analysis.",
+    "link": "http://arxiv.org/abs/2607.08725v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08724v1",
+    "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+    "authors": [
+      "Chuning Zhu",
+      "Eva Xu",
+      "Jose Barreiros",
+      "Krishnan Srinivasan",
+      "Paarth Shah",
+      "Abhishek Gupta"
+    ],
+    "summary": "Human decision-making is highly flexible -- some actions are taken immediately; others require longer deliberation. Language models have exhibited a similar capacity for adaptive \"reasoning.\" However, transferring this capability to continuous control policies has been challenging, as directly reasoning in language space may lack the granularity for spatial understanding and precise motions. In this work, we show that reasoning for control policies can emerge by organizing information in an autoregressive latent space reminiscent of a memory palace, where retrieval is iterative and adaptive. Our method, Latent Memory Palace (LMP), formulates reasoning as variational inference with an autoregressive latent distribution. We derive a latent-space reinforcement learning technique to tractably ",
+    "link": "http://arxiv.org/abs/2607.08724v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.LG",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08717v1",
+    "title": "Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems",
+    "authors": [
+      "Emmanouil Kavvousanos",
+      "Francky Catthoor",
+      "Vassilis Paliouras"
+    ],
+    "summary": "Narrowband interference (NBI) severely degrades orthogonal frequency-division multiplexing (OFDM) systems by corrupting subcarriers and rendering classical soft demodulation ineffective. Conventional compressed-sensing (CS) mitigation exhibits high sequential latency and leaves structured, non-Gaussian residuals that cause log-likelihood ratio (LLR) unreliability, decoder saturation, and severe error floors when employing classical Gaussian demappers. We resolve this pipeline mismatch using a unified deep learning framework for joint NBI cancellation and robust soft demodulation. First, NBI-CNet employs a physics-informed convolutional architecture to estimate NBI parameters and remove multi-tone interference in a single forward pass. Without requiring prior knowledge of the active interfe",
+    "link": "http://arxiv.org/abs/2607.08717v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ]
+  },
+  {
+    "id": "arxiv-2607.08716v1",
+    "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+    "authors": [
+      "Yifan Wu",
+      "Lizhu Zhang",
+      "Yuhang Zhou",
+      "Mingyi Wang",
+      "Bo Peng",
+      "Serena Li",
+      "Xiangjun Fan",
+      "Zhuokai Zhao"
+    ],
+    "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2",
+    "link": "http://arxiv.org/abs/2607.08716v1",
+    "publishedAt": "2026-07-09",
+    "categories": [
+      "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.07673v1",
-    "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+    "id": "arxiv-2607.08711v1",
+    "title": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
     "authors": [
-      "Hyunjae Kim",
-      "Dain Kim",
-      "Pan Xiao",
-      "Serina S. Applebaum",
-      "Younjoon Chung",
-      "Xuguang Ai",
-      "Yu Yin",
-      "Roy Jiang",
-      "Yuexi Du",
-      "Yawen Wei",
-      "Yiming Kong",
-      "Tuo Guo",
-      "Zhiyuan Cao",
-      "Mengmeng Du",
-      "Yuelei Fu",
-      "Yan Hu",
-      "Rui Shi",
-      "Gui Yang",
-      "Kevin W. Jin",
-      "Yuntian Liu",
-      "Yuxuan Tian",
-      "Jonathan Marquez",
-      "Zhen Chen",
-      "Sheng Zhang",
-      "Hoifung Poon",
-      "Hua Xu",
-      "Jaewoo Kang",
-      "Qingyu Chen"
+      "Xiao Fu",
+      "Yue Hu",
+      "Meida Chen",
+      "Peter Anthony Beerel",
+      "Barath Raghavan"
     ],
-    "summary": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. Although PubMed Central (PMC) offers a complementary source of expert-authored image-text data, existing PMC-derived resources remain limited in fidelity, reproducibility, and clinical validation. We introduce MedPMC, an automated, continuously updatable framework that transforms permissively licensed literature into high-fidelity infrastructure for medical multimodal models. Applied to 6.1 million PMC articles, MedPMC curated 11 million medical image-text pairs. Component evaluations showed strong performance for initial screening (F1 = 93.2), multi-pan",
-    "link": "http://arxiv.org/abs/2607.07673v1",
-    "publishedAt": "2026-07-08",
+    "summary": "Accurate 3D terrain maps are essential for emergency response when assessing wildfire hazards. However, wildfire-prone regions often span vast areas where conventional reconstruction methods underperform. Airborne LiDAR systems provide high-resolution terrain data, but they are expensive and infrequently updated. Image-based methods offer a lower-cost alternative, but struggle due to sparse visual features and limited image overlap. We propose a multi-modal reconstruction framework leveraging outdated Digital Elevation Models (DEMs) as geometric priors for image-based 3D reconstruction. Our key innovation is physics-based pixel-pixel alignment between images and DEM data, dramatically reducing computational complexity by eliminating expensive feature matching procedures. To validate our ap",
+    "link": "http://arxiv.org/abs/2607.08711v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.CV",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.07671v1",
-    "title": "PeTeR: Post-Training Robustification of Probabilistic Circuits",
+    "id": "arxiv-2607.08703v1",
+    "title": "MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning",
     "authors": [
-      "Adrian Ciotinga",
-      "Yeming Dai",
-      "YooJung Choi"
+      "Harrison Rush",
+      "Vincent Davis",
+      "Simone Antonelli",
+      "Vikash Singh",
+      "Jesse Shrader",
+      "Emanuele Rossi"
     ],
-    "summary": "Probabilistic circuits (PCs) can model complex joint distributions while supporting exact and efficient computation of many inference queries. However, standard likelihood-based PC learning is vulnerable to overfitting and fragile generalization when confronted with data noise, small sample sizes, or distribution shifts. This can be mitigated using distributionally-robust optimization which consider worst-case distributions within a Wasserstein ball of the empirical distribution, but current methods are limited to training a model from scratch in this framework. Instead, we propose PeTeR: a novel, data-free post-training framework designed to robustify pre-trained PCs against distribution shifts without retraining from scratch. Empirical evaluations across multiple density estimation bench",
-    "link": "http://arxiv.org/abs/2607.07671v1",
-    "publishedAt": "2026-07-08",
+    "summary": "We address liquidity placement in the Bitcoin Lightning Network (LN): given a fixed budget, which channels should a node open to maximize its routing capacity? We cast this as a budget-constrained combinatorial optimization problem on graphs, selecting $k$ edge additions that maximize $s$--$t$ max-flow, a theory-grounded measure of routing capacity, and solve it with graph reinforcement learning. Our lightweight agent combines a message-passing policy network with proximal policy optimization (PPO) and action masking, and is trained under a hub-exclusion curriculum: the network's top hubs are removed from training subgraphs, forcing the policy to learn capacity-aware placement rather than hub attachment. In extensive experiments on real Lightning Network snapshots, our method consistently ",
+    "link": "http://arxiv.org/abs/2607.08703v1",
+    "publishedAt": "2026-07-09",
     "categories": [
       "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07670v1",
-    "title": "Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale",
-    "authors": [
-      "Grzegorz Brzezinka"
-    ],
-    "summary": "Large language models hallucinate most about entities they have never seen. We ask whether a model's activations betray entity familiarity before a single answer token is generated, and whether that signal predicts the factual reliability of the answers. On four Polish Bielik models (1.5B-11B parameters), we probe four entity domains (athletes, cities, writers, musicians), each with 42 well-known, 42 obscure-but-real, and 42 fabricated entities addressed by a one-sentence question (504 prompts per model). Two unsupervised, single-forward-pass dispersion measures over post-SwiGLU MLP activations, inverse participation ratio and spectral entropy, separate known from fabricated entities at AUROC 0.95-1.00 across all domains and scales; a supervised linear probe reaches 0.99-1.00. Both clear s",
-    "link": "http://arxiv.org/abs/2607.07670v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07669v1",
-    "title": "DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation",
-    "authors": [
-      "Jordan Painter",
-      "Dipankar Srirag",
-      "Adarsh Kappiyath",
-      "Diptesh Kanojia",
-      "Aditya Joshi",
-      "Lu Yin"
-    ],
-    "summary": "Large language models increasingly \\emph{understand} dialectal English, yet still \\emph{produce} only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce \\textbf{DiaLLM}, which continually pretrains three open-weight language model families on the International Corpus of English and applies implicit and explicit post-training paradigms, each combined with three model alignment strategies, giving the first controlled comparison of these components across Australian, Indian, and Northern British English. Our results reveal that dialectal robustness and generation are \\emph{dissociated}: benchmarks are shaped by continual pretraining and SFT, while alignment visibly reshapes generation in ways benchmarks do not capture.",
-    "link": "http://arxiv.org/abs/2607.07669v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07665v1",
-    "title": "Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance",
-    "authors": [
-      "Shiheng Zhang"
-    ],
-    "summary": "Classifier-free guidance (CFG) is the standard way to strengthen class-conditioning in diffusion and flow-matching samplers, yet at large guidance it oversaturates and destabilizes, symptoms practitioners suppress with more steps or limited-interval schedules. We analyze CFG through an asymptotic-preserving, numerical-analysis lens. Building on a recent result that the deterministic DDIM step is the unique fitted operator for the unguided terminal layer, exact on the final small-sigma stretch of sampling, we show that guidance re-stiffens exactly the discriminative subspace to an anomalous exponent 1+w. DDIM is therefore no longer fitted there, and on coarse meshes its guided residual diverges as sigma_min goes to zero. We prove a guided clock barrier with three ordered step-size threshold",
-    "link": "http://arxiv.org/abs/2607.07665v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.07663v1",
-    "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
-    "authors": [
-      "Mingguang Chen",
-      "Licheng Wang",
-      "Bo Qu"
-    ],
-    "summary": "AI systems increasingly participate in their own improvement: revising their outputs, adapting their own harnesses during deployment, training on data they generate, and, increasingly, conducting AI research itself. This literature is described under a vocabulary (\"self-refine,\" \"self-reward,\" \"self-play,\" \"self-evolve\") that conflates fundamentally different ambitions. We survey 1,250 arXiv papers (2024-2026) along two axes: what the system improves -- its behavior in deployment, its policy through training, its evaluator, or the research process itself -- and the degree of loop closure (human-in-the-loop to fully closed). The taxonomy separates bounded self-refinement -- convergent, evaluable, and already industrial practice -- from open-ended recursive self-improvement (RSI), which rema",
-    "link": "http://arxiv.org/abs/2607.07663v1",
-    "publishedAt": "2026-07-08",
-    "categories": [
-      "cs.AI"
     ]
   }
 ];
@@ -761,47 +747,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
     "postedAt": "2026-07-06",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134516",
-    "title": "Supply Chain Analyst",
-    "company": "DIVA",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Supply Chain Specialist (12m Maternity Leave Contract) Diva International Inc",
-      "(âDIVAâ) is looking for a Sr",
-      "Supply Chain Specialist (12m Maternity Leave Contract) who will be responsible supporting inventory management, forecasting, supply chain operations, purchasing, assembly coordination"
-    ],
-    "skills": [
-      "LLM"
-    ],
-    "location": "Kitchener, Kitchener, Ontario, Canada",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
-    "postedAt": "2026-07-05",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134476",
-    "title": "Lead Data Scientist",
-    "company": "Brigit",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Hi, we're Brigit",
-      "A holistic financial health company helping everyday Americans build a brighter financial future",
-      "With a business model that is aligned with our customers, we create transparent, fair, and simple financial products that put money back in the hands of our members, help them spend wi"
-    ],
-    "skills": [
-      "Python",
-      "AWS",
-      "SQL"
-    ],
-    "location": "San Francisco",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
-    "postedAt": "2026-07-04",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-09T23:53:54.196Z';
+export const dataFetchedAt = '2026-07-10T11:23:02.309Z';
