@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-claude-8217-s-inner-workings-and-openai-8217-s--1783685400000",
+    "title": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+    "publishedAt": "2026-07-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-sperm-donors-need-limits-says-a-european-fertility-group-1783674000000",
     "title": "Sperm donors need limits, says a European fertility group",
     "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
@@ -11,6 +23,84 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-risks-and-rewards-of-ai-leadership-development-at-scale-1783694458000",
+    "title": "Risks and Rewards of AI Leadership Development at Scale",
+    "link": "https://hrexecutive.com/ai-leadership-development-risks-and-rewards-at-scale/",
+    "summary": "Date &#038; Time: Tuesday, September 01, 2026 at 1:00 pm ET In this session, Alan Nelson of Admired Leadership and Brittany Podolak, Chief People Officer of athenahealth, discuss lessons learned from deploying AI tools to support leadership development and learning at scale inside athenahealth. The post Risks and Rewards of AI Leadership Development at Scale appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-do-you-really-have-an-hr-strategy-1783686612000",
+    "title": "Do you really have an HR strategy?",
+    "link": "https://hrexecutive.com/do-you-really-have-an-hr-strategy/",
+    "summary": "HR should have a strategy, but how can it if the business itself doesn’t have a clear or consistent strategy? The post Do you really have an HR strategy? appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-ai-fluency-is-your-top-hiring-requirement-so-why-are-bad-hir-1783685717000",
+    "title": "AI fluency is your top hiring requirement. So, why are bad hires still happening?",
+    "link": "https://hrexecutive.com/ai-fluency-is-your-top-hiring-requirement-so-why-are-bad-hires-still-happening/",
+    "summary": "Ninety-five percent of U.S. organizations have made AI fluency a hiring requirement, yet 59% report bad hires anyway. The post AI fluency is your top hiring requirement. So, why are bad hires still happening? appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-germany-moves-to-require-doctor-8217-s-notes-on-day-one-of-s-1783684814000",
+    "title": "Germany moves to require doctor&#8217;s notes on day one of sick leave",
+    "link": "https://hrexecutive.com/germany-moves-to-require-doctors-notes-on-day-one-of-sick-leave/",
+    "summary": "The plan scraps pandemic-era phone certification and cites an average of 18 sick days per employee, drawing pushback from physicians. The post Germany moves to require doctor&#8217;s notes on day one of sick leave appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-debate-do-hsas-address-healthcare-affordability-gaps-1783683938000",
+    "title": "Debate: Do HSAs address healthcare affordability gaps?",
+    "link": "https://hrexecutive.com/debate-do-hsas-address-healthcare-affordability-gaps/",
+    "summary": "Many Republicans in Congress have advocated for expanding health savings accounts as a solution to the affordability issue. The post Debate: Do HSAs address healthcare affordability gaps? appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-the-5-skills-recruiters-are-prioritizing-over-ai-1783683012000",
+    "title": "The 5 skills recruiters are prioritizing over AI",
+    "link": "https://hrexecutive.com/the-5-skills-recruiters-are-prioritizing-over-ai/",
+    "summary": "Human skills surged to the top of the list of capabilities recruiters are looking for today. But AI skills are also on the rise. The post The 5 skills recruiters are prioritizing over AI appeared first on HR Executive .",
+    "publishedAt": "2026-07-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -100,19 +190,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-botsitting-is-wasting-more-than-6-employee-hours-a-week-1783596623000",
-    "title": "‘Botsitting’ is wasting more than 6 employee hours a week",
-    "link": "https://hrexecutive.com/botsitting-is-wasting-more-than-6-employee-hours-a-week/",
-    "summary": "Employees spend as much time checking an AI tool's work as they do producing outcomes, creating a new HR catchprase—and a productivity drain. The post ‘Botsitting’ is wasting more than 6 employee hours a week appeared first on HR Executive .",
-    "publishedAt": "2026-07-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-emtech-ai-2026-the-rise-of-the-ai-platform-1783527970000",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
@@ -134,71 +211,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-accenture-most-companies-are-doing-ai-wrong-creating-8220-hu-1783513845000",
-    "title": "Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221;",
-    "link": "https://hrexecutive.com/accenture-most-companies-are-doing-ai-wrong-creating-human-debt/",
-    "summary": "Karalee Close argues that most organizations have mistaken deploying AI for transforming with it, and a small group of “Talent Reinventors” is pulling away. The post Accenture: Most companies are doing AI wrong, creating &#8220;human debt&#8221; appeared first on HR Executive .",
-    "publishedAt": "2026-07-08",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-federal-dispute-process-driving-up-costs-for-planned-procedu-1783512952000",
-    "title": "Federal dispute process driving up costs for planned procedures",
-    "link": "https://hrexecutive.com/federal-dispute-process-driving-up-costs-for-planned-procedures/",
-    "summary": "\"The No Surprises Act was designed to protect patients from unexpected medical bills, not to increase healthcare costs,\" Catherine Gaffigan, president of health solutions at Elevance Health, said in a statement. The post Federal dispute process driving up costs for planned procedures appeared first on HR Executive .",
-    "publishedAt": "2026-07-08",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4-in-10-employees-admit-using-ai-to-fake-expense-reports-1783512027000",
-    "title": "4 in 10 employees admit using AI to fake expense reports",
-    "link": "https://hrexecutive.com/4-in-10-employees-admit-using-ai-to-fake-expense-reports/",
-    "summary": "Generative AI is enabling employees to create fake expense report documentation in just seconds, meaning HR needs to reimagine standard fraud protection strategies, while also looking at risk factors. The post 4 in 10 employees admit using AI to fake expense reports appeared first on HR Executive .",
-    "publishedAt": "2026-07-08",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-global-impact-of-the-eu-pay-transparency-directive-1783511135000",
-    "title": "The global impact of the EU Pay Transparency Directive",
-    "link": "https://hrexecutive.com/the-global-impact-of-the-eu-pay-transparency-directive/",
-    "summary": "With many nations across the EU still not on board, what does the EU Pay Transparency Directive mean for multinational companies? The post The global impact of the EU Pay Transparency Directive appeared first on HR Executive .",
-    "publishedAt": "2026-07-08",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-5-things-hr-pros-want-more-than-a-raise-1783510240000",
-    "title": "5 things HR pros want more than a raise",
-    "link": "https://hrexecutive.com/5-things-hr-pros-want-more-than-a-raise/",
-    "summary": "New HRCI research finds that career paths, quality training and manageable workloads predict HR fulfillment better than pay or perks. The post 5 things HR pros want more than a raise appeared first on HR Executive .",
-    "publishedAt": "2026-07-08",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
     ]
   },
   {
@@ -232,18 +244,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
     "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
     "publishedAt": "2026-07-07",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-your-family-8217-s-300-stake-in-openai-1783360800000",
-    "title": "Your family&#8217;s $300 stake in OpenAI",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
-    "publishedAt": "2026-07-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -732,22 +732,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
     "postedAt": "2026-07-06",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134543",
-    "title": "Head of Hiring and Training South FL",
-    "company": "7 Brew Coffee",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Head of Hiring and Training - 7Crew Enterprises 7Brew Coffee is searching for a Director of Hiring and Training to be based in Tampa FL.Â We are looking for an "
-    ],
-    "skills": [],
-    "location": "Tampa, Tampa, Florida, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
-    "postedAt": "2026-07-06",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-10T11:23:02.309Z';
+export const dataFetchedAt = '2026-07-10T18:08:29.013Z';
