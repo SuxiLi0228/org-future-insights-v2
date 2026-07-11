@@ -662,24 +662,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-mumbai-aditya-birla-capital-1134629",
     "postedAt": "2026-07-08",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134586",
-    "title": "Regional Training Supervisor",
-    "company": "Guild Garage Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Position Title: Regional Training Supervisor Location: Remote Department: Training &amp; Development Reports to: VP, Training &amp; Development Location: 100% R"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Orlando, Orlando, Florida, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
-    "postedAt": "2026-07-07",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-11T11:32:41.055Z';
+export const dataFetchedAt = '2026-07-11T15:33:07.464Z';
