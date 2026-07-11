@@ -617,6 +617,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134698",
+    "title": "Australian English Voice Actor Adelaide",
+    "company": "OpsArmy Careers",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "The ideal candidate has strong vocal versatility and can deliver authentic, engagin"
+    ],
+    "skills": [],
+    "location": "Adelaide, Adelaide, South Australia, Australia",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
+    "postedAt": "2026-07-10",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134627",
     "title": "SLT HDFC BB Chennai",
     "company": "Aditya Birla Capital",
@@ -680,42 +695,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
     "postedAt": "2026-07-07",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134545",
-    "title": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
-    "company": "Mercier Consultancy",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Location:Â Greece (Relocation Opportunity Available) Job Type:Â Full-Time (40 hours per week) We are looking for a Dutch-Speaking Customer Service Agent to support customers on behalf of Imperial",
-      "Based remotely in Greece, you'll be responsible for answering customer enquiries via telephone, email,"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
-    "postedAt": "2026-07-07",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134541",
-    "title": "SCL Agent",
-    "company": "Skanska Costain STRABAG Joint Venture",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Reference scsrail/TP/7304/4212 Contract Type Permanent Closing Date 19 July, 2026 Job Category Tunnels &amp; Routeway Business Unit Construction Management "
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "London, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
-    "postedAt": "2026-07-06",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-10T23:32:18.760Z';
+export const dataFetchedAt = '2026-07-11T07:22:27.321Z';
