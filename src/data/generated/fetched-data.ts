@@ -679,23 +679,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
     "postedAt": "2026-07-07",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134552",
-    "title": "Paid Media Specialist Meta & Google Ads",
-    "company": "Noventra Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Noventra Group is hiring a remote Paid Media Specialist to support Meta Ads and Google Ads campaigns across selected partner-brand initiatives",
-      "This role is focused on performance marketing, campaign optimization, reporting, and paid media execution for brands and commercial partners working within"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
-    "postedAt": "2026-07-07",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-11T07:22:27.321Z';
+export const dataFetchedAt = '2026-07-11T11:32:41.055Z';
