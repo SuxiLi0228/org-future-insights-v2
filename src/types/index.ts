@@ -70,7 +70,7 @@ export interface JobPosting {
   id: string;
   title: string;
   company?: string;                        // 所属公司
-  category: 'pure_ai' | 'hybrid_ai';   // 纯 AI 岗 vs 业务+AI 复合岗
+  category: 'pure_ai' | 'hybrid_ai' | 'ai_hr';   // 纯 AI 岗 / 业务+AI 复合岗 / AI公司HR岗
   responsibilities: string[];            // 核心职责（用于反推战略）
   skills?: string[];                      // 技能要求
   location: string;
