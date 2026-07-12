@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Building2, ShoppingCart, Briefcase, MapPin, Sparkles, ExternalLink, Target, Users, TrendingUp, Linkedin, Globe, RefreshCw } from 'lucide-react';
 import { companyUpdates } from '@/data/companies';
@@ -93,6 +93,18 @@ export default function CompaniesPage() {
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [refreshError, setRefreshError] = useState<string | null>(null);
   const [lastRefreshAt, setLastRefreshAt] = useState<string | null>(null);
+
+  // 从 URL hash 中读取 tab 参数，支持 /companies?tab=hiring 直接跳转
+  useEffect(() => {
+    const hash = window.location.hash;
+    const match = hash.match(/[?&]tab=(\w+)/);
+    if (match) {
+      const tab = match[1] as PartKey;
+      if (tab === 'ai' || tab === 'ecommerce' || tab === 'hiring') {
+        setActivePart(tab);
+      }
+    }
+  }, []);
 
   const aiCompanies = companyUpdates.filter((c) => c.category === 'ai');
   const ecommerceCompanies = companyUpdates.filter((c) => c.category === 'ecommerce');
@@ -383,7 +395,14 @@ function HiringPart({
     (sum, c) => sum + (c.jobPostings?.filter((j) => j.category === 'pure_ai').length || 0),
     0
   );
-  const hybridJobs = totalJobs - pureAiJobs;
+  const hybridJobs = companies.reduce(
+    (sum, c) => sum + (c.jobPostings?.filter((j) => j.category === 'hybrid_ai').length || 0),
+    0
+  );
+  const aiHrJobs = companies.reduce(
+    (sum, c) => sum + (c.jobPostings?.filter((j) => j.category === 'ai_hr').length || 0),
+    0
+  );
 
   return (
     <div className="space-y-4">
@@ -407,10 +426,11 @@ function HiringPart({
       </div>
 
       {/* Summary Stats */}
-      <div className="grid grid-cols-3 gap-3">
+      <div className="grid grid-cols-4 gap-3">
         <StatCard label="总岗位数" value={totalJobs} color="purple" />
         <StatCard label="纯 AI 岗" value={pureAiJobs} color="blue" />
         <StatCard label="业务+AI 复合" value={hybridJobs} color="amber" />
+        <StatCard label="AI+HR 岗" value={aiHrJobs} color="rose" />
       </div>
 
       {/* Company-by-company */}
@@ -459,11 +479,12 @@ function HiringPart({
   );
 }
 
-function StatCard({ label, value, color }: { label: string; value: number; color: 'purple' | 'blue' | 'amber' }) {
+function StatCard({ label, value, color }: { label: string; value: number; color: 'purple' | 'blue' | 'amber' | 'rose' }) {
   const colorMap = {
     purple: 'from-purple-500 to-purple-600',
     blue: 'from-blue-500 to-blue-600',
     amber: 'from-amber-500 to-amber-600',
+    rose: 'from-rose-500 to-rose-600',
   };
   return (
     <div className={`rounded-xl bg-gradient-to-br ${colorMap[color]} p-4 text-white shadow-sm`}>
@@ -477,6 +498,7 @@ function JobPostingCard({ job }: { job: JobPosting }) {
   const src = sourceLabels[job.source];
   const SourceIcon = src.icon;
   const isHybrid = job.category === 'hybrid_ai';
+  const isAiHr = job.category === 'ai_hr';
 
   return (
     <a
@@ -499,9 +521,10 @@ function JobPostingCard({ job }: { job: JobPosting }) {
           </div>
           <div className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
             <span className={`flex items-center gap-1 rounded-full px-1.5 py-0.5 ${
+              isAiHr ? 'bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-400' :
               isHybrid ? 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400' : 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400'
             }`}>
-              {isHybrid ? '🔀 业务+AI' : '🤖 纯 AI'}
+              {isAiHr ? '🧠 AI+HR' : isHybrid ? '🔀 业务+AI' : '🤖 纯 AI'}
             </span>
             <span className="flex items-center gap-1">
               <MapPin size={11} /> {job.location}
