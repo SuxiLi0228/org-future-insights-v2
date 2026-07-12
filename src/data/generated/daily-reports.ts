@@ -2,6 +2,93 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-13-auto",
+    "date": "2026-07-13",
+    "session": "auto",
+    "title": "2026-07-13 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-13-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+      },
+      {
+        "id": "sig-2026-07-13-auto-2",
+        "emoji": "💡",
+        "title": "Sperm donors need limits, says a European fertility group",
+        "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+        "detail": "来源: MIT Technology Review。Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/"
+      },
+      {
+        "id": "sig-2026-07-13-auto-3",
+        "emoji": "🚨",
+        "title": "Risks and Rewards of AI Leadership Development at Scale",
+        "summary": "Date &#038; Time: Tuesday, September 01, 2026 at 1:00 pm ET In this session, Alan Nelson of Admired Leadership and Brittany Podolak, Chief People Officer of athenahealth, discuss lessons learned from deploying AI tools to support leadership development and learning at scale inside athenahealth. The post Risks and Rewards of AI Leadership Development at Scale appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Tuesday, September 01, 2026 at 1:00 pm ET In this session, Alan Nelson of Admired Leadership and Brittany Podolak, Chief People Officer of athenahealth, discuss lessons learned from deploying AI tools to support leadership development and learning at scale inside athenahealth. The post Risks and Rewards of AI Leadership Development at Scale appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ai-leadership-development-risks-and-rewards-at-scale/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-13-1",
+        "priority": "medium",
+        "action": "关注「The Download: Claude&#8217;s inner worki」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-13-2",
+        "priority": "low",
+        "action": "关注「Sperm donors need limits, says a Europea」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-13-3",
+        "priority": "high",
+        "action": "关注「Risks and Rewards of AI Leadership Devel」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 44,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-13 生成，聚合了 20 条新闻、20 篇论文、4 个岗位。",
+    "fetchWindow": "2026-07-13 00:00 - 2026-07-13 23:59"
+  },
+  {
     "id": "report-2026-07-12-auto",
     "date": "2026-07-12",
     "session": "auto",
