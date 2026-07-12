@@ -617,6 +617,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134707",
+    "title": "Graduate Data Scientist",
+    "company": "Work Force Nexus",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Posted 12:58:07 PM",
+      "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
+      "Please mention the word **STATELY** and tag ROS4yMzQuMTUxLjExMw== when applying to show you read the job post completely (#ROS4yMzQuMTUxLjE"
+    ],
+    "skills": [],
+    "location": "Australia, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
+    "postedAt": "2026-07-11",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134698",
     "title": "Australian English Voice Actor Adelaide",
     "company": "OpsArmy Careers",
@@ -665,4 +682,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-12T12:35:28.738Z';
+export const dataFetchedAt = '2026-07-12T15:38:54.867Z';
