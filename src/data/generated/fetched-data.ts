@@ -2,6 +2,82 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-what-anthropic-s-latest-ai-discovery-does-and-doesn-t-show-1783965600000",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+    "publishedAt": "2026-07-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-a-donor-conception-cap-and-world-models-for-ai-1783944600000",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+    "publishedAt": "2026-07-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-linkedin-ai-is-rewriting-the-first-job-and-every-job-after-i-1783945840000",
+    "title": "LinkedIn: AI is rewriting the first job—and every job after it",
+    "link": "https://hrexecutive.com/linkedin-ai-is-rewriting-the-first-job-and-every-job-after-it/",
+    "summary": "LinkedIn’s Aneesh Raman explains how AI rewrites work at every level and what it signals for how employers hire, develop and structure talent. The post LinkedIn: AI is rewriting the first job—and every job after it appeared first on HR Executive .",
+    "publishedAt": "2026-07-13",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-6-benefits-market-shifts-facing-hr-leaders-1783944931000",
+    "title": "6 benefits market shifts facing HR leaders",
+    "link": "https://hrexecutive.com/6-benefits-market-shifts-facing-hr-leaders/",
+    "summary": "What benefits market shifts should HR leaders look hard at as the second half of 2026 begins? Get ahead of the situation. The post 6 benefits market shifts facing HR leaders appeared first on HR Executive .",
+    "publishedAt": "2026-07-13",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-wharton-researchers-explain-how-cognitive-surrender-takes-ho-1783944028000",
+    "title": "Wharton researchers explain how cognitive surrender takes hold when employees lean on AI",
+    "link": "https://hrexecutive.com/wharton-researchers-explain-how-cognitive-surrender-takes-hold-when-employees-lean-on-ai/",
+    "summary": "Wharton research identifies cognitive surrender, a mode of thinking that emerges when employees rely on AI for decisions. The post Wharton researchers explain how cognitive surrender takes hold when employees lean on AI appeared first on HR Executive .",
+    "publishedAt": "2026-07-13",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-waffle-house-sued-for-5m-over-employee-tobacco-insurance-sur-1783943119000",
+    "title": "Waffle House sued for $5M over employee tobacco insurance surcharge",
+    "link": "https://hrexecutive.com/waffle-house-sued-for-5m-over-employee-tobacco-insurance-surcharge/",
+    "summary": "The lawsuit, filed in U.S. District Court for the Middle District of Georgia, said this surcharge violates a provision of the Employee Retirement Income Security Act. The post Waffle House sued for $5M over employee tobacco insurance surcharge appeared first on HR Executive .",
+    "publishedAt": "2026-07-13",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-openai-8217-s-simo-steps-back-reflects-on-health-leave-burno-1783942240000",
     "title": "OpenAI&#8217;s Simo steps back, reflects on health leave, burnout and AI",
     "link": "https://hrexecutive.com/openais-simo-steps-back-reflects-on-health-leave-burnout-and-ai/",
@@ -104,19 +180,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-5-skills-recruiters-are-prioritizing-over-ai-1783683012000",
-    "title": "The 5 skills recruiters are prioritizing over AI",
-    "link": "https://hrexecutive.com/the-5-skills-recruiters-are-prioritizing-over-ai/",
-    "summary": "Human skills surged to the top of the list of capabilities recruiters are looking for today. But AI skills are also on the rise. The post The 5 skills recruiters are prioritizing over AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
@@ -153,44 +216,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fmla-and-ada-compliance-5-priorities-for-hr-leaders-1783599339000",
-    "title": "FMLA and ADA compliance: 5 priorities for HR leaders",
-    "link": "https://hrexecutive.com/fmla-and-ada-compliance-5-priorities-for-hr-leaders/",
-    "summary": "A thoughtful, thorough and documented decision-making process is not just a compliance ideal. It is the most effective risk-management strategy. The post FMLA and ADA compliance: 5 priorities for HR leaders appeared first on HR Executive .",
-    "publishedAt": "2026-07-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-why-ai-roi-could-take-years-to-show-up-in-hr-according-to-an-1783598452000",
-    "title": "Why AI ROI could take years to show up in HR, according to an economist",
-    "link": "https://hrexecutive.com/why-ai-roi-could-take-years-to-show-up-in-hr-according-to-an-economist/",
-    "summary": "AI ROI pressure is mounting, but measurable returns lag, according to this economist. Where does HR fit in the payback timeline? The post Why AI ROI could take years to show up in HR, according to an economist appeared first on HR Executive .",
-    "publishedAt": "2026-07-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-department-of-labor-may-shift-employer-health-plans-to-e-del-1783597538000",
-    "title": "Department of Labor may shift employer health plans to e-delivery",
-    "link": "https://hrexecutive.com/department-of-labor-may-shift-employer-health-plans-to-e-delivery/",
-    "summary": "About 78% of all workers surveyed supported the idea of making electronic delivery the default. The post Department of Labor may shift employer health plans to e-delivery appeared first on HR Executive .",
-    "publishedAt": "2026-07-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-emtech-ai-2026-the-rise-of-the-ai-platform-1783527970000",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
@@ -219,31 +244,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: your stake in OpenAI, and the Treasury&#8217;s AI warning",
     "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
-    "publishedAt": "2026-07-07",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-foundational-elements-of-ai-architecture-that-it-leaders-1783422652000",
-    "title": "The foundational elements of AI architecture that IT leaders need to scale",
-    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
-    "publishedAt": "2026-07-07",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-why-worms-and-microbes-are-catching-on-as-a-manure-pollution-1783418400000",
-    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
     "publishedAt": "2026-07-07",
     "source": "MIT Technology Review",
     "tags": [
@@ -611,7 +611,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RMjAuNTUuODcuMTQ3 when applying to show you read the job post completely (#RMjAuNTUuODcuMTQ3)"
+      "Please mention the word **STATELY** and tag RMTcyLjIwMi4xMDAuNDk= when applying to show you read the job post completely (#RMTcyLjIwMi4xMDA"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -634,23 +634,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
     "postedAt": "2026-07-10",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134627",
-    "title": "SLT HDFC BB Chennai",
-    "company": "Aditya Birla Capital",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "ABC Sales Leadership Program Objective: The Aditya Birla Capital Sales Leadership Program (SLP) is designed to develop the next generation of sales leaders through an accelerated career path",
-      "This program is intended for post-graduate students from colleges across India, providing them with"
-    ],
-    "skills": [],
-    "location": "Tamil Nadu, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-chennai-aditya-birla-capital-1134627",
-    "postedAt": "2026-07-08",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-13T11:42:35.445Z';
+export const dataFetchedAt = '2026-07-13T18:19:13.640Z';

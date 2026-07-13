@@ -2,6 +2,96 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-14-auto",
+    "date": "2026-07-14",
+    "session": "auto",
+    "title": "2026-07-14 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-14-auto-1",
+        "emoji": "⚠️",
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      {
+        "id": "sig-2026-07-14-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: a donor conception cap and world models for AI",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+      },
+      {
+        "id": "sig-2026-07-14-auto-3",
+        "emoji": "🚨",
+        "title": "LinkedIn: AI is rewriting the first job—and every job after it",
+        "summary": "LinkedIn’s Aneesh Raman explains how AI rewrites work at every level and what it signals for how employers hire, develop and structure talent. The post LinkedIn: AI is rewriting the first job—and every job after it appeared first on HR Executive .",
+        "detail": "来源: HR Executive。LinkedIn’s Aneesh Raman explains how AI rewrites work at every level and what it signals for how employers hire, develop and structure talent. The post LinkedIn: AI is rewriting the first job—and every job after it appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/linkedin-ai-is-rewriting-the-first-job-and-every-job-after-it/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-14-1",
+        "priority": "medium",
+        "action": "关注「What Anthropic’s latest AI discovery doe」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-14-2",
+        "priority": "medium",
+        "action": "关注「The Download: a donor conception cap and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-14-3",
+        "priority": "high",
+        "action": "关注「LinkedIn: AI is rewriting the first job—」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 42,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-14 生成，聚合了 20 条新闻、20 篇论文、2 个岗位。",
+    "fetchWindow": "2026-07-14 00:00 - 2026-07-14 23:59"
+  },
+  {
     "id": "report-2026-07-13-auto",
     "date": "2026-07-13",
     "session": "auto",
