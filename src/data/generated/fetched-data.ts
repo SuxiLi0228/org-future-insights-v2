@@ -255,349 +255,357 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.09662v1",
-    "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+    "id": "arxiv-2607.11883v1",
+    "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
     "authors": [
-      "Ren Takahashi",
-      "Emre Yusuf",
-      "Jayabrata Bhaduri"
+      "Shikai Qiu",
+      "Marc Finzi",
+      "Yujia Zheng",
+      "Kun Zhang",
+      "Andrew Gordon Wilson"
     ],
-    "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communications). We introduce PHINN-EEG (Persistent Homology Inspired Neural Network for EEG), the first topological time-series framework for dream mentation analysis. Using sliding-window Takens delay embeddings and Vietoris-Rips filtrations on multichannel pre-awakening EEG epochs, we extract Dynamic Betti Curves that characterize the geometric architecture of neural activity, not merely its energy. These topological invariants, combined with topology-conditioned flow matching, are analytically proje",
-    "link": "http://arxiv.org/abs/2607.09662v1",
-    "publishedAt": "2026-07-10",
+    "summary": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypasses this issue by compressing the training trajectory, but codes the exact data sequence regardless of how much the model learns, yielding large codes when the data has high entropy. We introduce requential coding, where a teacher model selects training samples drawn from the student's own distributi",
+    "link": "http://arxiv.org/abs/2607.11883v1",
+    "publishedAt": "2026-07-13",
     "categories": [
-      "q-bio.NC",
-      "cs.AI",
-      "cs.LG",
-      "eess.SP",
-      "math.AT"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09657v1",
-    "title": "Scalable Visual Pretraining for Language Intelligence",
-    "authors": [
-      "Yiming Zhang",
-      "Zhonghan Zhao",
-      "Wenwei Zhang",
-      "Haiteng Zhao",
-      "Tianyang Lin",
-      "Yunhua Zhou",
-      "Demin Song",
-      "Kuikun Liu",
-      "Haochen Ye",
-      "Haian Huang",
-      "Yuzhe Gu",
-      "Haijun Lv",
-      "Qipeng Guo",
-      "Bin Liu",
-      "Gaoang Wang",
-      "Kai Chen"
-    ],
-    "summary": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or completely captured by text alone. Yet current pretraining approaches discard these visual cues by converting visually rich sources, such as documents and web pages, into plain text for learning language intelligence. This paper challenges the default assumption that language models must be trained on text-only representations and shows that Visual Pretraining is a scalable learner for foundation model intelligence. To this end, we conduct a systematic study of unsupervised visual pretraining p",
-    "link": "http://arxiv.org/abs/2607.09657v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.MM"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09654v1",
-    "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-    "authors": [
-      "Shravan Murlidaran",
-      "Miguel P. Eckstein"
-    ],
-    "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focused on understanding the model's error types. Here, we introduce the Complex Social Behavior (CSB) dataset, containing 100 images depicting complex social interactions/behaviors. We analyze the progression of scene descriptions over a decade (2017-2025) of VLMs (four pre-Multimodal Large Language Models, MLLMs, and five MLLMs). We evaluate the accuracy of the models and 20 human descriptions relative to a gold standard on the CSB dataset and on a sample from MS-COCO. We analyzed five visual-cogni",
-    "link": "http://arxiv.org/abs/2607.09654v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09653v1",
-    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-    "authors": [
-      "Katherine Swinea",
-      "Kshitiz Aryal",
-      "Lopamudra Praharaj",
-      "Maanak Gupta"
-    ],
-    "summary": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise in penetration testing and Capture-the-Flag (CTF) environments, their application to IoT specific vulnerabilities remains unexplored. This paper presents an autonomous multi-agent framework, referred to as Vulnerability EXploitation using AI Agents (VEXAIoT), for vulnerability discovery and exploitation in IoT environments using LLM-based reasoning and offensive security tools. The framework combines a vulnerability detection agent and an attack execution agent to perform reconnaissance, plan a",
-    "link": "http://arxiv.org/abs/2607.09653v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CR",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09649v1",
-    "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
-    "authors": [
-      "Mohadeseh Mollapour",
-      "Koorosh Aslansefat",
-      "Zeinab Dehghani",
-      "Bhupesh Kumar Mishra",
-      "Tejal Shah",
-      "Zhibao Mian"
-    ],
-    "summary": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework for evaluating the reliability of concept-based explanations. Rather than replacing SMILE, ConceptSMILE extends its perturbation-based logic from feature- or region-level attribution to the auditing of human-understandable concept explanations. The framework perturbs input regions, measures concept-response shifts, applies locality weighting, and fits an XGBoost surrogate to approximate local concept behaviour. Reliability is assessed through attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency. We evaluate Concept",
-    "link": "http://arxiv.org/abs/2607.09649v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09645v1",
-    "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
-    "authors": [
-      "Federico L. Perlino",
-      "Oliver Hamelijnck",
-      "Adam M. Johansen",
-      "Theodoros Damoulas"
-    ],
-    "summary": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity levels; and in gene-regulatory networks, to transcription factors. These functions are partially observed across the DAG, with noisy and heterogeneously sampled measurements, posing significant challenges for reconstruction, uncertainty propagation, and inference. To tackle these challenges, we place priors over functions and naturally arrive at Deep Gaussian Processes over DAGs. We theoretically study their prior-collapse behaviour, and the effect of graph topology and intermediate observations on the preservation of information. We obtain almost-sure lower bounds on the asym",
-    "link": "http://arxiv.org/abs/2607.09645v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "stat.ML",
-      "cs.LG",
-      "math.ST",
-      "stat.CO",
-      "stat.ME"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09641v1",
-    "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
-    "authors": [
-      "Cláudio Lúcio do Val Lopes",
-      "Lucca Machado da Silva"
-    ],
-    "summary": "Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, we propose the Semantic Pareto-DQN, a multi-objective reinforcement learning framework. Our approach synthesizes heterogeneous transaction features into cohesive natural-language narratives, encoded by large language models, thereby producing a robust, scale-invariant state representation. The agent optimizes a vectorial reward that explicitly decouples financial efficacy, operational friction, and semantic discovery. By mapping the continuous Pareto frontier, the system dynamically navigates the",
-    "link": "http://arxiv.org/abs/2607.09641v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09632v1",
-    "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
-    "authors": [
-      "Chengkai Zhu",
-      "Ziao Tang",
-      "Guocheng Zhen",
-      "Yimeng Cao",
-      "Yusheng Zhao",
-      "Ranyiliu Chen",
-      "Xuanqiang Zhao",
-      "Lei Zhang",
-      "Xin Wang"
-    ],
-    "summary": "Quantum information theory (QIT) characterizes the capabilities and fundamental limits of quantum information processing, underpinning quantum communication, computation, and error correction. Formalizing its coding theorems requires connecting finite-block protocols, analytic inequalities, and asymptotic limits within a unified machine-checked framework. Existing developments, however, lack a reusable operational layer that defines codes, error criteria, achievable rates, and capacities independently of their information-theoretic characterizations. In this work, we present LeanQIT, a Lean 4 library for finite-dimensional QIT. It provides composable, kernel-checked interfaces for quantum states and channels, source and channel codes, finite-block performance criteria, hypothesis testing, ",
-    "link": "http://arxiv.org/abs/2607.09632v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "quant-ph",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09629v1",
-    "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
-    "authors": [
-      "Xiaokai Bai",
-      "Lianqing Zheng",
-      "Runwei Guan",
-      "Songkai Wang",
-      "Siyuan Cao",
-      "Hui-liang Shen"
-    ],
-    "summary": "Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor, yet its sparse returns make radar-camera fusion necessary for comprehensive scene understanding. Existing radar-camera methods mainly optimize detection, while dual-task systems usually decode boxes and occupancy with limited interaction. To address this gap and advance radar-based multi-task learning, we propose \\method, a 4D radar-camera framework for 360$^\\circ$ full-scene perception, which models semantic occupancy as a persistent scene state rather than a terminal output. \\method{} follows a cross-modal state reasoning paradigm, where the occupancy state is modeled and propagated through",
-    "link": "http://arxiv.org/abs/2607.09629v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09623v1",
-    "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
-    "authors": [
-      "Nirjhar Das",
-      "Md. Al-Mamun Provath"
-    ],
-    "summary": "We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating under realistic efficiency constraints. The challenge consists of two distinct tasks: Tossup questions, which require deciding when to answer under uncertainty, and Bonus questions, which emphasize accurate answer selection and human adoption. To address these differing objectives, we develop a task-specific two-agent architecture. Our Tossup agent utilizes a GPT-4o-mini-class model (referred to as GPT-4.1-mini in the competition logs) with confidence-calibrated answering and a domain-specific numeric",
-    "link": "http://arxiv.org/abs/2607.09623v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09616v1",
-    "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
-    "authors": [
-      "Kangwei Xu",
-      "Bing Li",
-      "Ulf Schlichtmann"
-    ],
-    "summary": "As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic Design Automation (EDA). Beyond specification understanding, LLMs show the potential to serve as a unified intelligent interface for hardware description language (HDL) generation, testbench construction, and design space exploration. The rise of agentic AI, represented by pioneering systems such as OpenClaw, offers a strategic roadmap for the next generation EDA. From this perspective, this paper discusses the evolution of EDA from localized assistance to autonomous agentic execution. Then, we review representative advances of LLMs in front-end design, focusing on key tasks suc",
-    "link": "http://arxiv.org/abs/2607.09616v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.ET",
-      "cs.AR",
-      "cs.LG",
-      "eess.SY"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09611v1",
-    "title": "Toward Real-Time Sentence-Level Sign Language Translation",
-    "authors": [
-      "Thanh-Hoang Nguyen Doan"
-    ],
-    "summary": "Most sign language understanding systems operate at the level of isolated signs, limiting their usefulness in natural communication. We study sentence-level sign language translation (SLT) with the primary goal of real-time deployment rather than proposing a new translation architecture. We fine-tune a SHuBERT-ByT5 translation stack on a uniformly sampled 9,872-example subset of How2Sign, selected because of compute and storage constraints, using QLoRA while keeping SHuBERT frozen. The model obtains a validation BLEU of 16.7 and, on the test split, BLEU 15.9 and BLEURT 44.7. The main contribution is a hardware-aware streaming system: a Raspberry Pi 4B reference client provides camera capture, local text display, and speech output, while compute-intensive perception and translation run on a",
-    "link": "http://arxiv.org/abs/2607.09611v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09600v1",
-    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
-    "authors": [
-      "Kaiji Zhou",
-      "Ales Leonardis",
-      "Yue Feng"
-    ],
-    "summary": "Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlooking critical factors such as performance variability and cost efficiency among functionally similar alternatives. To address this, we propose Agora, a framework that introduces an incentive-compatible auction mechanism for dynamically allocating tasks to expert models and tools. By treating reasoning steps as tradeable items, Agora enables agents to bid based on their rectified competence-ensuring that critical logic is routed to the most capable solver rather than the most overconfident one. Eval",
-    "link": "http://arxiv.org/abs/2607.09600v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09598v1",
-    "title": "Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR",
-    "authors": [
-      "Sanjid Hasan",
-      "Md. Abdur Rahman"
-    ],
-    "summary": "Lightweight speech recognition models are critical for edge deployment, yet highly optimized architectures like Moonshine often fail on morphologically rich, non-Latin languages such as Bengali. This study identifies the root cause of this failure as the model's English-centric byte-level tokenizer, which fragments Bengali words into high-fertility byte chains and triggers catastrophic autoregressive collapse during inference. To resolve this, a novel vocabulary transplantation pipeline is proposed to replace the decoder vocabulary with the native-script BanglaBERT WordPiece vocabulary and resize the corresponding token embedding matrix. Experimental results demonstrate a reduction in token fertility from 9.16 to 1.30. By decreasing autoregressive sequence length by 85.8%, decoding instabi",
-    "link": "http://arxiv.org/abs/2607.09598v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09590v1",
-    "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers",
-    "authors": [
-      "Yujie Pang",
-      "Zudong Li"
-    ],
-    "summary": "Precision industrial contact manipulation requires reliable robot policies under pose perturbations and contact-force constraints. Vision-language-action models offer broad generalization but often introduce high inference latency and GPU-memory cost, while vision-action chunking policies are more suitable for real-time industrial control. However, these policies are usually trained by behavior cloning and suffer from distribution shift in contact-rich tasks. This paper proposes PAC-ACT, a reinforcement-learning post-training framework for pretrained Action Chunking Transformer policies. PAC-ACT reformulates policy optimization at the chunk level, constructs an ACT-transferred actor-critic architecture, and introduces a hybrid behavior-prior constraint to preserve the pretrained action dis",
-    "link": "http://arxiv.org/abs/2607.09590v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09586v1",
-    "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
-    "authors": [
-      "Hannah M. Liu",
-      "Rhea Saxena",
-      "Shiv Asthana"
-    ],
-    "summary": "The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that can be applied to seven types of agentic AI systems and is grounded in foundational pre-existing AI governance frameworks. At the core of the framework is a twelve-dimension scoring rubric that robustly quantifies the risk. This rubric is combined with other components, such as the GPA + IAT classification model and the five-level autonomy framework derived from existing literature. These inputs produce a three-tier governance output with mapped control recommendations. A specialised Coding Assistant",
-    "link": "http://arxiv.org/abs/2607.09586v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.09582v1",
-    "title": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
-    "authors": [
-      "Okezzi Ukorigho",
-      "Opeoluwa Owoyele"
-    ],
-    "summary": "We present a physics-constrained machine learning framework for accelerating the direct numerical simulation (DNS) of turbulent reacting flows. The model replaces the direct evaluation of detailed chemical source terms with a surrogate that predicts reaction rates from a reduced thermochemical state. To improve physical consistency, the second law of thermodynamics is incorporated as a training constraint by enforcing non-negative entropy generation, which restricts the evolution of the thermochemical state to physically admissible directions and improves stability during time integration. The approach is demonstrated on DNS of a two-dimensional planar lean premixed methane-air flame interacting with a turbulent flow field. The model reproduces detailed-chemistry results with high fidelity",
-    "link": "http://arxiv.org/abs/2607.09582v1",
-    "publishedAt": "2026-07-10",
-    "categories": [
-      "physics.flu-dyn",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.09578v1",
-    "title": "Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining",
+    "id": "arxiv-2607.11881v1",
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
     "authors": [
-      "Jan Gronewald",
-      "Andreas Emrich",
-      "Nijat Mehdiyev"
+      "Gabrielle Kaili-May Liu",
+      "Areeb Gani",
+      "Jacqueline Lu",
+      "Jordan Thomas",
+      "Mark Steyvers",
+      "Arman Cohan"
     ],
-    "summary": "Pre-demolition assessment, the regulated audit process at the heart of urban mining, is an information process in which AI support must serve qualified auditors who remain accountable for the decisions taken. The relevant unit of value is not prediction accuracy alone, but the defensibility of the supported decisions: their legibility, plausibility, sourcing, and contestability. Explainable AI techniques and domain knowledge graphs each address parts of this requirement, and existing taxonomies have catalogued their integration. The literature is descriptively rich but structurally under-specified: what remains less developed is a structural account of why specific integrations produce artefacts neither resource can provide alone. This paper offers a complementarity-theoretic interpretatio",
-    "link": "http://arxiv.org/abs/2607.09578v1",
-    "publishedAt": "2026-07-10",
+    "summary": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent ",
+    "link": "http://arxiv.org/abs/2607.11881v1",
+    "publishedAt": "2026-07-13",
     "categories": [
+      "cs.CL",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.09576v1",
-    "title": "Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach",
+    "id": "arxiv-2607.11875v1",
+    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
     "authors": [
-      "Kiran Pala",
-      "Punam Silu",
-      "Lixun Yu"
+      "Tiberiu Musat",
+      "Tiago Pimentel",
+      "Nicholas Zucchet",
+      "Thomas Hofmann"
     ],
-    "summary": "We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large majority of which are idiomatic. Each expression is annotated with binary conceptual features (containment, concealment, emotional, social, etc.) derived from cognitive-linguistic theory, and pairwise Jaccard similarities define a weighted graph. Community detection reveals that idioms cluster by conceptual schema rather than by language, producing a structure consistent with cognitive-linguistic predictions. The conceptual network captures unique semantic information not present in distributional embeddings, can be scaled via automatic annotation with LLMs, improves downstream idiom detection, a",
-    "link": "http://arxiv.org/abs/2607.09576v1",
-    "publishedAt": "2026-07-10",
+    "summary": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoretically prove that the training dynamics of attention models can be confined to a highly interpretable, low-dimensional invariant manifold. On this manifold, the learning dynamics are captured by a handful of interpretable coordinates rather than millions of parameters, making both theoretical and empirical analysis more tractable. Using this framework, we characterize how data stat",
+    "link": "http://arxiv.org/abs/2607.11875v1",
+    "publishedAt": "2026-07-13",
     "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.ET"
+      "cs.LG",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.09566v1",
-    "title": "Large-Scale Portfolio Optimization Problem Under Cardinality Constraint With Enhanced Multi-Objective Evolutionary Algorithms",
+    "id": "arxiv-2607.11874v1",
+    "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
     "authors": [
-      "Danial Ramezani",
-      "Mostafa Abouei Ardakan"
+      "Yunhai Feng",
+      "Natalie Leung",
+      "Jiaxuan Wang",
+      "Lujie Yang",
+      "Haozhi Qi",
+      "Preston Culbertson"
     ],
-    "summary": "Decision-making is posing an increasingly formidable challenge to investors because of the growing number of alternatives available in financial markets. A hot area of research over the past few decades has been portfolio optimization that seeks to determine how much an investor should invest in which asset. Introducing real-world conditions to the optimization model turns the problem into an NP-hard one for whose solution exact methods become inefficient; hence, researchers have turned to evolutionary algorithms to approximate solutions. In this paper, strengthening strategies are presented for multi-objective evolutionary algorithms that can provide a faster convergence rate and extensive search ability in the portfolio optimization problem under the cardinality constraint. To implement ",
-    "link": "http://arxiv.org/abs/2607.09566v1",
-    "publishedAt": "2026-07-10",
+    "summary": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to dexterous manipulation? The answer is not obvious, as manipulation involves complex, contact-rich dynamics and requires delicate regulation of contact modes and forces. We present REGRIND, a minimalist retargeting-guided RL pipeline that learns dexterous manipulation policies from a single human demonstration. REGRIND retargets human hand-object motion to a robot reference that preserves hand-object spatial and contact relationships, trains a residual RL policy in simulation to track object-centric keypoints along that reference, and transfers the result",
+    "link": "http://arxiv.org/abs/2607.11874v1",
+    "publishedAt": "2026-07-13",
     "categories": [
-      "cs.CE",
+      "cs.RO",
       "cs.AI",
-      "math.OC",
-      "q-fin.PM",
-      "q-fin.RM"
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11873v1",
+    "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+    "authors": [
+      "Esteban U. Vega Barajas"
+    ],
+    "summary": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, an intra-annotator reliability measurement, stratified cross-validation, and a held-out evaluation on a Spanish institutional corpus with a frozen-encoder design. Two questions limit its reuse: whether a protocol fixed to 2019-era frozen embeddings stays competitive as representation methods advance, and whether it transfers to a second language. We re-run it on the original Spanish data across three representation generations, sparse lexical features, frozen transformer embeddings, and prompted large language models, and transfer its sentiment task to E",
+    "link": "http://arxiv.org/abs/2607.11873v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11871v1",
+    "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+    "authors": [
+      "Zixiang Xu",
+      "Sixian Li",
+      "Huaxing Liu",
+      "Xiang Wang",
+      "Shuai Li",
+      "Zirui Song",
+      "Xiuying Chen"
+    ],
+    "summary": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account in the judge's hidden state, complementary to the input-output view and operationally useful in ways it does not afford. We report three findings, across seven judges, seven bias types, and nine benchmarks. Geometry: baseline judging inputs occupy a tight activation manifold while biased inputs are displaced along a low-dimensional, type-specific subspace that sharpens with depth and is recovered consistently by three families of estimators. Causal control: steering hidden states along this subspace drives scoring in both directions, forward shifts repro",
+    "link": "http://arxiv.org/abs/2607.11871v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11862v1",
+    "title": "Evidence-Backed Video Question Answering",
+    "authors": [
+      "Shijie Wang",
+      "Honglu Zhou",
+      "Ziyang Wang",
+      "Ran Xu",
+      "Caiming Xiong",
+      "Silvio Savarese",
+      "Chen Sun",
+      "Juan Carlos Niebles"
+    ],
+    "summary": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales or sparse bounding boxes, which struggle to capture complex video dynamics such as occlusions and non-rigid deformations. We propose Evidence-Backed Video Question Answering (E-VQA), a novel task requiring models to jointly output a semantic answer and precise spatio-temporal evidence: temporal segments and dense, tracked object segmentation masklets. To support this, we introduce ST-Evidence, the first human-verified benchmark for both discriminative and generative pixel-level grounding. Evaluations of state-of-the-art models reveal a critical decouplin",
+    "link": "http://arxiv.org/abs/2607.11862v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11849v1",
+    "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+    "authors": [
+      "Lingkai Kong",
+      "Zijian Wu",
+      "Yuzhe Gu",
+      "Haiteng Zhao",
+      "Wenyong Huang",
+      "Shuang Sun",
+      "Zhicheng Xiong",
+      "Xiaotian Zhang",
+      "Shuya Zhao",
+      "Yan Wang",
+      "Disheng Xu",
+      "Wenwei Zhang",
+      "Kai Chen"
+    ],
+    "summary": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing benchmarks, however, fall short in both scope and evaluation granularity: they provide limited disciplinary coverage and often rely on final-answer correctness or coarse judgments, leaving the validity of the reasoning process inadequately assessed. To bridge this gap, we introduce AdvancedMathBench, a benchmark suite designed to evaluate advanced mathematical reasoning capabilities. Its core proof-generation benchmark, ProverBench, contains 296 problems spanning undergraduate and doctoral qualifying-exam levels. To provide reliable evaluation of the proofs, we develop a dedicated automatic verific",
+    "link": "http://arxiv.org/abs/2607.11849v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11843v1",
+    "title": "Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks",
+    "authors": [
+      "Junrui Zhang",
+      "Zemin Chen",
+      "Lusi Li",
+      "Mohammad Ghasemigol",
+      "Daniel Takabi",
+      "Rui Ning"
+    ],
+    "summary": "Quantum Neural Networks (QNNs) are a promising framework for quantum machine learning on near-term quantum devices, but their security risks remain insufficiently understood. Studies have shown that QNNs are vulnerable to backdoor attacks, yet existing quantum backdoors mostly rely on a fixed trigger shared by all poisoned inputs. This fixed-trigger design is a major weakness because many defenses detect or weaken the repeated patterns such triggers leave in data representations. Although input-aware dynamic backdoors have been studied in classical neural networks, transferring them to QNNs is difficult because quantum learning introduces new obstacles. In particular, measurement compresses the post-ansatz quantum state into a limited classical output, weakening supervision for a trigger g",
+    "link": "http://arxiv.org/abs/2607.11843v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11839v1",
+    "title": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
+    "authors": [
+      "Divya Mereddy",
+      "Jeevan Beedareddy"
+    ],
+    "summary": "This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture combines parameter-efficient modality-specific adaptation with sequential fusion, enabling modalities to be integrated in stages without retraining previously learned components. Rather than assuming a fixed fusion structure, the framework first integrates more closely related modalities and then incorporates additional heterogeneous modalities, supporting scalable adaptation across datasets with different modality sets.We evaluate the framework on two healthcare-oriented training environment datasets: NurViD and the Nurse Training dataset. Across these datasets, preliminary results suggest th",
+    "link": "http://arxiv.org/abs/2607.11839v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11826v1",
+    "title": "Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search",
+    "authors": [
+      "Romain Amigon"
+    ],
+    "summary": "Neural Architecture Search (NAS) has automated the design of deep learning models but traditionally requires massive computational resources, often measured in thousands of GPU-days. In this paper, we propose a frugal and memetic NAS framework designed to democratize architecture design on consumer-grade hardware. Our approach combines the global macro-search capabilities of an autoregressive Transformer controller, trained via Reinforcement Learning (RL), with the local micro-exploitation of an Artificial Bee Colony (ABC) algorithm. To prevent premature convergence during the RL phase, we introduce a dynamic entropy mechanism that forces topological exploration upon detection of performance stagnation. Evaluated on a standard GPU (NVIDIA RTX 3060), our hybrid method effectively resolves t",
+    "link": "http://arxiv.org/abs/2607.11826v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.NE"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11818v1",
+    "title": "MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+    "authors": [
+      "Kaixin Ma",
+      "Di Feng",
+      "Alexander Metz",
+      "Jiarui Lu",
+      "Eshan Verma",
+      "Afshin Dehghan"
+    ],
+    "summary": "We introduce MM-ToolSandBox, a benchmark and evaluation framework for visually grounded tool-calling agents. The framework provides a stateful execution environment spanning 500+ tools across 16 application domains, supporting multi-image, multi-turn tasks where agents must ground progressively arriving visual inputs into executable tool calls while handling realistic conversational phenomena (goal revisions, error corrections, state mutations). An automated scenario generation pipeline produces diverse, visually grounded scenarios through information-flow-guided planning and multi-stage quality filtering, yielding 258 human-verified nominal scenarios and 50 variants targeting interactive UI applications. Evaluating 12 state-of-the-art models, from 4B open-weight to frontier proprietary sy",
+    "link": "http://arxiv.org/abs/2607.11818v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11816v1",
+    "title": "Relaxing Faithfulness with Intervention-Only Causal Discovery",
+    "authors": [
+      "Bijan Mazaheri",
+      "Jiaqi Zhang",
+      "Caroline Uhler"
+    ],
+    "summary": "Causal discovery algorithms learn a network that describes the causal dependencies among random variables. A common workflow involves first utilizing conditional independence properties on observational data to determine partially directed causal relationships, then applying interventions to orient the unknown causal directions. A critical assumption for the first step is faithfulness: a requirement that causally linked variables exhibit statistical dependence. Many natural systems include buffering and stabilizing pathways that cancel out to achieve systemic robustness. This cancellation of pathways violates faithfulness, leading causal discovery algorithms to incorrectly remove causal dependencies. In this paper, we argue that hard interventions contain information about the presence/abs",
+    "link": "http://arxiv.org/abs/2607.11816v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11808v1",
+    "title": "Introducing Human-Centeredness in AI-Assisted Lexicography",
+    "authors": [
+      "Antonio San Martin",
+      "Catherine Trekker"
+    ],
+    "summary": "This paper proposes a human-centered artificial intelligence (HCAI) framework for AI-assisted lexicography. While generative AI offers significant opportunities to enhance lexicographic work, it also raises concerns regarding the future role of lexicographers and the preservation of linguistic and cultural diversity. Drawing on HCAI principles and previous applications in other language professions, the paper identifies four interrelated dimensions through which AI integration in lexicography can be understood and critically examined: the augmented lexicographer, the sociotechnical context of AI integration, bias, and the design of AI-powered lexicographic tools. The framework argues that AI should augment rather than replace lexicographers, combining high levels of automation with meaning",
+    "link": "http://arxiv.org/abs/2607.11808v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11801v1",
+    "title": "Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models",
+    "authors": [
+      "Yu-Han Huang",
+      "Chih-Kai Yang",
+      "Ke-Han Lu",
+      "An-Yu Cheng",
+      "Hung-yi Lee"
+    ],
+    "summary": "Large audio-language models (LALMs) often underperform on fine-grained, non-semantic attributes of speech, such as a speaker's emotion, despite strong performance on speech content. Improving this without the cost of retraining calls for an effective inference-time intervention, yet most existing methods intervene only after the audio encoder and operate at a relatively coarse granularity. The encoder itself, where acoustic information is first extracted from the waveform, remains largely unexplored, especially at the level of individual neurons. We introduce IAAN, Identifying and Amplifying Acoustic Neurons, a training-free and label-free method that scores each feed-forward neuron in the audio encoder by contrasting its activation on the real waveform with that on a noise reference lacki",
+    "link": "http://arxiv.org/abs/2607.11801v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.SD",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11798v1",
+    "title": "StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description",
+    "authors": [
+      "Seung Hyun Hahm",
+      "Minh T. Dinh",
+      "SouYoung Jin"
+    ],
+    "summary": "Long-form audio description (AD) requires more than describing visible actions: it must preserve characters, events, relationships, and story context across scenes so that blind and low-vision (BLV) audiences can follow a film. Modern video-language models (VLMs) are effective on short clips, but they often treat each moment independently, producing descriptions that miss who characters are, why events matter, and how the current scene connects to earlier narrative context. We propose StoryTeller, a training-free framework for story-aware long-form AD. Instead of relying only on local visual cues, StoryTeller maintains a verified narrative memory that carries forward story-relevant information across scenes, enabling later descriptions to remain coherent, grounded, and contextually informa",
+    "link": "http://arxiv.org/abs/2607.11798v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11796v1",
+    "title": "An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals",
+    "authors": [
+      "Raktim Bhattacharya"
+    ],
+    "summary": "Selective state-space models such as Mamba route information through a bank of first-order modes whose input coupling is set by a learned selection mechanism. We give an exact instrument for measuring how a trained model uses these modes. Because the state matrix is diagonal, each channel's output decomposes exactly into per-mode contributions, and a per-(layer, channel, window) Gram tensor yields the exact output error of dropping any subset of modes, offline, at any budget. Validated against the reference implementation to a relative error of $2.3\\times10^{-7}$ on the Mamba-1 family where it is exact, the instrument predicts a layer's deployed pruning error to a median relative deviation of $5\\times10^{-7}$ over $4{,}464$ configurations, its floor set by the reconstruction. Applying the ",
+    "link": "http://arxiv.org/abs/2607.11796v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11787v1",
+    "title": "Forgetting Our Way to Shared Meaning: Effects of Forgetting on Conceptual Alignment in a Non-Partnership Coordination Game",
+    "authors": [
+      "Landon Liu",
+      "Mary Kelly",
+      "Alan Tsang"
+    ],
+    "summary": "Shared meaning in language requires people to learn and agree on categories. We ask how characteristics of agents' memories change the emergence and evolution of shared meaning. Without a coordination game, models of conceptual semantics cannot explain how shared meaning emerges and changes in groups of people; however, existing games assume that players share payoffs in a partnership setting. We model conceptual alignment as a non-partnership game and illustrate differences in actual and perceived conceptual convergence from counterfactual simulations using agents with varying levels of adaptiveness and memory degradation. We found that adaptive players achieved actual convergence faster and had closer final conceptual regions than non-adaptive players, while non-adaptive players perceive",
+    "link": "http://arxiv.org/abs/2607.11787v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.MA",
+      "cs.CL",
+      "cs.GT",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11783v1",
+    "title": "How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?",
+    "authors": [
+      "Elmira Salari",
+      "Hazem Amamou",
+      "José Victor de Souza",
+      "Shruti Kshirsagar",
+      "Maria Nunes Delfino",
+      "Anderson Avila"
+    ],
+    "summary": "Retrieval-Augmented Generation (RAG) has been increasingly adopted to reduce hallucinations and strengthen the factual grounding of large language models (LLMs). While robustness to errors in the retrieval process has been explored, the impact of ideological bias on LLM outputs has been overlooked. For instance, if the retrieved material contains ideological positions, the RAG may transmit, amplify, or suppress such ideological discourses in its outputs. In this study, we address this issue by examining the influence of the RAG framework, comprising ideological discourses, in LLM-generated answers. To this end, we applied Lexical Multidimensional Analysis (LMDA) on a corpus of 1,117 COVID-19 treatment articles, identifying three ideological discourses. This corpus is then used as the exter",
+    "link": "http://arxiv.org/abs/2607.11783v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.11771v1",
+    "title": "Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal",
+    "authors": [
+      "Umm-e- Habiba",
+      "Lucas Mauser",
+      "Jonas Fritzsch",
+      "Justus Bogner",
+      "Stefan Wagner"
+    ],
+    "summary": "Explainability has emerged as a critical requirement for AI-based systems, particularly in safety-critical and regulated domains. Although prior research has proposed frameworks, patterns, and user-centered approaches to support explainability, there is limited empirical understanding of how existing Requirements Engineering (RE) practices support explainability requirements across the RE lifecycle, especially in an industrial context. This paper reports early findings from an ongoing industry-based study investigating how explainability requirements are elicited, specified, and validated using established RE techniques. We conducted a multi-phase qualitative study with eight practitioners at Daimler Truck, employing think-aloud protocols and moderated group discussions across requirements",
+    "link": "http://arxiv.org/abs/2607.11771v1",
+    "publishedAt": "2026-07-13",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
     ]
   }
 ];
@@ -611,7 +619,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RNTIuMTc2LjEyNS4xMTg= when applying to show you read the job post completely (#RNTIuMTc2LjEyNS4"
+      "Please mention the word **STATELY** and tag RNjguMjIwLjYyLjEwMg== when applying to show you read the job post completely (#RNjguMjIwLjYyLjE"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -637,4 +645,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-13T23:16:48.456Z';
+export const dataFetchedAt = '2026-07-14T07:24:17.017Z';
