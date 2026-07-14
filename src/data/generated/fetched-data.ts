@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-claude-8217-s-inner-workings-and-the-future-of--1784031000000",
+    "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
+    "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
+    "publishedAt": "2026-07-14",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-psiquantum-has-a-plan-to-make-a-massive-quantum-computer-out-1784016000000",
     "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
     "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
@@ -11,6 +23,32 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-1784032227000",
+    "title": "Women are earning more than ever. So why is the pay gap still growing?",
+    "link": "https://hrexecutive.com/women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-growing/",
+    "summary": "Women’s weekly earnings have more than doubled since 2000, rising from $493 to approximately $1,089 in 2025, according to a recent analysis. However, the same research found that the estimated aggregate annual earnings gap between men and women still exceeded $671 billion in 2025. The research report, from MyPerfectResume.com, is based on Bureau of Labor [&#8230;] The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
+    "publishedAt": "2026-07-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-gen-z-8217-s-ai-anxiety-isn-8217-t-really-about-ai-1784031328000",
+    "title": "Gen Z&#8217;s AI anxiety isn&#8217;t really about AI",
+    "link": "https://hrexecutive.com/gen-zs-ai-anxiety-isnt-really-about-ai/",
+    "summary": "In conversations about leadership, Gen Z's AI anxiety isn't the issue. It's a symptom of an ever-widening leadership gap. The post Gen Z&#8217;s AI anxiety isn&#8217;t really about AI appeared first on HR Executive .",
+    "publishedAt": "2026-07-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -166,33 +204,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-risks-and-rewards-of-ai-leadership-development-at-scale-1783694458000",
-    "title": "Risks and Rewards of AI Leadership Development at Scale",
-    "link": "https://hrexecutive.com/ai-leadership-development-risks-and-rewards-at-scale/",
-    "summary": "Date &#038; Time: Tuesday, September 01, 2026 at 1:00 pm ET In this session, Alan Nelson of Admired Leadership and Brittany Podolak, Chief People Officer of athenahealth, discuss lessons learned from deploying AI tools to support leadership development and learning at scale inside athenahealth. The post Risks and Rewards of AI Leadership Development at Scale appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-do-you-really-have-an-hr-strategy-1783686612000",
-    "title": "Do you really have an HR strategy?",
-    "link": "https://hrexecutive.com/do-you-really-have-an-hr-strategy/",
-    "summary": "HR should have a strategy, but how can it if the business itself doesn’t have a clear or consistent strategy? The post Do you really have an HR strategy? appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
     "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
@@ -233,18 +244,6 @@ export const generatedNews: NewsItem[] = [
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
     "summary": "",
-    "publishedAt": "2026-07-08",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-worms-fight-pollution-and-geoengineering-faces--1783512600000",
-    "title": "The Download: worms fight pollution, and geoengineering faces reality",
-    "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
     "publishedAt": "2026-07-08",
     "source": "MIT Technology Review",
     "tags": [
@@ -613,6 +612,22 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134770",
+    "title": "Product Manager AI",
+    "company": "YipitData",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B",
+      "Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across"
+    ],
+    "skills": [],
+    "location": "US Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+    "postedAt": "2026-07-13",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134707",
     "title": "Graduate Data Scientist",
     "company": "Work Force Nexus",
@@ -620,7 +635,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RMjAuMjkuMjkuMTc= when applying to show you read the job post completely (#RMjAuMjkuMjkuMTc=)"
+      "Please mention the word **STATELY** and tag RNjQuMjM2LjE0Mi4xMzQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -630,20 +645,28 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
-    "id": "job-remoteok-1134698",
-    "title": "Australian English Voice Actor Adelaide",
-    "company": "OpsArmy Careers",
+    "id": "job-remoteok-1134820",
+    "title": "Python With Gen AI",
+    "company": "Capgemini",
     "category": "hybrid_ai",
     "responsibilities": [
-      "The ideal candidate has strong vocal versatility and can deliver authentic, engagin"
+      "At Capgemini Invent, we believe difference drives change",
+      "As inventive transformation consultants, we blend our strategic, creative and scientific capabilities,â¯collaborating closely with clients to deliver cutting-edge solutions",
+      "Join us to drive transformation tailored to our client's challenges"
     ],
-    "skills": [],
-    "location": "Adelaide, Adelaide, South Australia, Australia",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "RAG",
+      "Deep Learning"
+    ],
+    "location": "Bengaluru, ",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-python-with-gen-ai-capgemini-1134820",
     "postedAt": "2026-07-10",
     "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-14T12:22:15.157Z';
+export const dataFetchedAt = '2026-07-14T17:48:33.429Z';

@@ -2,6 +2,94 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-15-auto",
+    "date": "2026-07-15",
+    "session": "auto",
+    "title": "2026-07-15 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-15-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+      },
+      {
+        "id": "sig-2026-07-15-auto-2",
+        "emoji": "💡",
+        "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+        "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
+        "detail": "来源: MIT Technology Review。The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+      },
+      {
+        "id": "sig-2026-07-15-auto-3",
+        "emoji": "🚨",
+        "title": "Women are earning more than ever. So why is the pay gap still growing?",
+        "summary": "Women’s weekly earnings have more than doubled since 2000, rising from $493 to approximately $1,089 in 2025, according to a recent analysis. However, the same research found that the estimated aggregate annual earnings gap between men and women still exceeded $671 billion in 2025. The research report, from MyPerfectResume.com, is based on Bureau of Labor [&#8230;] The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Women’s weekly earnings have more than doubled since 2000, rising from $493 to approximately $1,089 in 2025, according to a recent analysis. However, the same research found that the estimated aggregate annual earnings gap between men and women still exceeded $671 billion in 2025. The research report, from MyPerfectResume.com, is based on Bureau of Labor [&#8230;] The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-growing/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-15-1",
+        "priority": "medium",
+        "action": "关注「The Download: Claude&#8217;s inner worki」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-15-2",
+        "priority": "low",
+        "action": "关注「PsiQuantum has a plan to make a massive 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-15-3",
+        "priority": "high",
+        "action": "关注「Women are earning more than ever. So why」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 43,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-15 生成，聚合了 20 条新闻、20 篇论文、3 个岗位。",
+    "fetchWindow": "2026-07-15 00:00 - 2026-07-15 23:59"
+  },
+  {
     "id": "report-2026-07-14-auto",
     "date": "2026-07-14",
     "session": "auto",
