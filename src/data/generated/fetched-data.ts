@@ -29,7 +29,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-1784032227000",
     "title": "Women are earning more than ever. So why is the pay gap still growing?",
     "link": "https://hrexecutive.com/women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-growing/",
-    "summary": "Women’s weekly earnings have more than doubled since 2000, rising from $493 to approximately $1,089 in 2025, according to a recent analysis. However, the same research found that the estimated aggregate annual earnings gap between men and women still exceeded $671 billion in 2025. The research report, from MyPerfectResume.com, is based on Bureau of Labor [&#8230;] The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
+    "summary": "The estimated annual earnings gender pay gap grew from $7,696 in 2000 to $12,324 in 2025; there are ways employers can help close that gap. The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
     "publishedAt": "2026-07-14",
     "source": "HR Executive",
     "tags": [
@@ -68,7 +68,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-aca-marketplace-insurers-propose-14-premium-hike-for-2027-1784029501000",
     "title": "ACA Marketplace insurers propose 14% premium hike for 2027",
     "link": "https://hrexecutive.com/aca-marketplace-insurers-propose-14-premium-hike-for-2027/",
-    "summary": "ACA Marketplace insurers are proposing a median premium increase of 14% for 2027, indicating a likely second consecutive year of double-digit increases, according to a new analysis of preliminary rate filings in 16 states and Washington, D.C. If these increases hold, typical premiums for insurers participating in the ACA Marketplaces would jump by more than [&#8230;] The post ACA Marketplace insurers propose 14% premium hike for 2027 appeared first on HR Executive .",
+    "summary": "Key drivers of the premium hike, according to insurers, include the rising cost of health services, the expiration of the enhanced premium tax credits, and some federal regulatory changes. The post ACA Marketplace insurers propose 14% premium hike for 2027 appeared first on HR Executive .",
     "publishedAt": "2026-07-14",
     "source": "HR Executive",
     "tags": [
@@ -612,6 +612,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134803",
+    "title": "Supply Chain Systems Analyst",
+    "company": "Wing",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Wing: Wing offers drone delivery as a safe, fast, and sustainable solution for last mile logistics",
+      "Consumer appetites for on-demand services are increasing, but current delivery methods are inefficient, costly, and contribute to road accidents and air pollution",
+      "Wingâs fleet of highly autom"
+    ],
+    "skills": [
+      "AWS"
+    ],
+    "location": "Palo Alto, Palo Alto, California, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-systems-analyst-wing-1134803",
+    "postedAt": "2026-07-13",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134770",
     "title": "Product Manager AI",
     "company": "YipitData",
@@ -635,7 +654,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RNjQuMjM2LjE0Mi4xMzQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4"
+      "Please mention the word **STATELY** and tag RNzQuMjQ5Ljc4LjM0 when applying to show you read the job post completely (#RNzQuMjQ5Ljc4LjM0)"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -669,4 +688,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-14T17:48:33.429Z';
+export const dataFetchedAt = '2026-07-14T21:32:33.216Z';
