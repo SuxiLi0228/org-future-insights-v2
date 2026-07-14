@@ -2,6 +2,57 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-psiquantum-has-a-plan-to-make-a-massive-quantum-computer-out-1784016000000",
+    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+    "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
+    "publishedAt": "2026-07-14",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-biggest-workforce-shortage-in-u-s-history-is-being-overs-1784030456000",
+    "title": "The biggest workforce shortage in U.S. history is being overshadowed by AI",
+    "link": "https://hrexecutive.com/the-biggest-workforce-shortage-in-u-s-history-is-being-overshadowed-by-ai/",
+    "summary": "New reporting projects the largest labor shortage in US history. Why HR leaders should add talent scarcity to their AI-era planning. The post The biggest workforce shortage in U.S. history is being overshadowed by AI appeared first on HR Executive .",
+    "publishedAt": "2026-07-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-aca-marketplace-insurers-propose-14-premium-hike-for-2027-1784029501000",
+    "title": "ACA Marketplace insurers propose 14% premium hike for 2027",
+    "link": "https://hrexecutive.com/aca-marketplace-insurers-propose-14-premium-hike-for-2027/",
+    "summary": "ACA Marketplace insurers are proposing a median premium increase of 14% for 2027, indicating a likely second consecutive year of double-digit increases, according to a new analysis of preliminary rate filings in 16 states and Washington, D.C. If these increases hold, typical premiums for insurers participating in the ACA Marketplaces would jump by more than [&#8230;] The post ACA Marketplace insurers propose 14% premium hike for 2027 appeared first on HR Executive .",
+    "publishedAt": "2026-07-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-how-esop-models-bring-ultieg-s-people-centric-culture-to-lif-1784028619000",
+    "title": "How ESOP models bring Ultieg’s ‘people-centric’ culture to life",
+    "link": "https://hrexecutive.com/how-esop-models-bring-ultiegs-people-centric-culture-to-life/",
+    "summary": "Ultieg's Sara Chapman shares how an Employee Stock Ownership Plan is just the foundation for the organization's people-centric culture. The post How ESOP models bring Ultieg’s ‘people-centric’ culture to life appeared first on HR Executive .",
+    "publishedAt": "2026-07-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
     "id": "news-what-anthropic-s-latest-ai-discovery-does-and-doesn-t-show-1783965600000",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
@@ -142,44 +193,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-fluency-is-your-top-hiring-requirement-so-why-are-bad-hir-1783685717000",
-    "title": "AI fluency is your top hiring requirement. So, why are bad hires still happening?",
-    "link": "https://hrexecutive.com/ai-fluency-is-your-top-hiring-requirement-so-why-are-bad-hires-still-happening/",
-    "summary": "Ninety-five percent of U.S. organizations have made AI fluency a hiring requirement, yet 59% report bad hires anyway. The post AI fluency is your top hiring requirement. So, why are bad hires still happening? appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-germany-moves-to-require-doctor-8217-s-notes-on-day-one-of-s-1783684814000",
-    "title": "Germany moves to require doctor&#8217;s notes on day one of sick leave",
-    "link": "https://hrexecutive.com/germany-moves-to-require-doctors-notes-on-day-one-of-sick-leave/",
-    "summary": "The plan scraps pandemic-era phone certification and cites an average of 18 sick days per employee, drawing pushback from physicians. The post Germany moves to require doctor&#8217;s notes on day one of sick leave appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-debate-do-hsas-address-healthcare-affordability-gaps-1783683938000",
-    "title": "Debate: Do HSAs address healthcare affordability gaps?",
-    "link": "https://hrexecutive.com/debate-do-hsas-address-healthcare-affordability-gaps/",
-    "summary": "Many Republicans in Congress have advocated for expanding health savings accounts as a solution to the affordability issue. The post Debate: Do HSAs address healthcare affordability gaps? appeared first on HR Executive .",
-    "publishedAt": "2026-07-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
@@ -233,18 +246,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;",
     "publishedAt": "2026-07-08",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-your-stake-in-openai-and-the-treasury-8217-s-ai-1783426200000",
-    "title": "The Download: your stake in OpenAI, and the Treasury&#8217;s AI warning",
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
-    "publishedAt": "2026-07-07",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -619,7 +620,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RNjguMjIwLjYyLjEwMg== when applying to show you read the job post completely (#RNjguMjIwLjYyLjE"
+      "Please mention the word **STATELY** and tag RMjAuMjkuMjkuMTc= when applying to show you read the job post completely (#RMjAuMjkuMjkuMTc=)"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -645,4 +646,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-14T07:24:17.017Z';
+export const dataFetchedAt = '2026-07-14T12:22:15.157Z';
