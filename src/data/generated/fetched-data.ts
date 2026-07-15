@@ -2,6 +2,85 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-useful-quantum-machine-and-a-record-breaking--1784117400000",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+    "publishedAt": "2026-07-15",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-harmony-is-a-design-problem-not-a-technology-one-1784118615000",
+    "title": "AI harmony is a design problem, not a technology one",
+    "link": "https://hrexecutive.com/ai-harmony-is-a-design-problem-not-a-technology-one/",
+    "summary": "The CHRO of a bank in Thailand discusses redesigning work around people—and the one capability he tells his own HR team never to lose. The post AI harmony is a design problem, not a technology one appeared first on HR Executive .",
+    "publishedAt": "2026-07-15",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-average-chro-pay-is-now-3-7m-who-are-the-top-paid-1784116812000",
+    "title": "Average CHRO pay is now $3.7M. Who are the top-paid?",
+    "link": "https://hrexecutive.com/average-chro-pay-is-now-3-7m-who-are-the-top-paid/",
+    "summary": "A new study highlights how organizations are tying HR executive compensation “heavily” to business performance. The post Average CHRO pay is now $3.7M. Who are the top-paid? appeared first on HR Executive .",
+    "publishedAt": "2026-07-15",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-no-surprises-act-claim-dispute-umpires-to-face-public-commen-1784115936000",
+    "title": "No Surprises Act claim dispute umpires to face public comment period",
+    "link": "https://hrexecutive.com/no-surprises-act-claim-dispute-umpires-to-face-public-comment-period/",
+    "summary": "The public petition process is expected to give employers, insurers and other payers a chance to tell regulators if they think an entity is too unfair to payers. The post No Surprises Act claim dispute umpires to face public comment period appeared first on HR Executive .",
+    "publishedAt": "2026-07-15",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-generative-ai-can-and-cannot-do-for-hr-according-to-a-c-1784115917000",
+    "title": "What generative AI can and cannot do for HR, according to a Cornell professor",
+    "link": "https://hrexecutive.com/what-generative-ai-can-and-cannot-do-for-hr-according-to-a-cornell-professor/",
+    "summary": "Cornell Professor Chris Collins discusses how generative AI's function in human resources has already arrived as data aggregation. The post What generative AI can and cannot do for HR, according to a Cornell professor appeared first on HR Executive .",
+    "publishedAt": "2026-07-15",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-ibm-s-really-bad-day-on-wall-street-says-about-ai-inves-1784115013000",
+    "title": "What IBM’s really bad day on Wall Street says about AI investment",
+    "link": "https://hrexecutive.com/what-ibms-really-bad-day-on-wall-street-says-about-ai-investment/",
+    "summary": "IBM's CEO issued a warning that Q2 revenue fell short of expectations, sinking stocks by up to 25% on Tuesday. The post What IBM’s really bad day on Wall Street says about AI investment appeared first on HR Executive .",
+    "publishedAt": "2026-07-15",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-claude-8217-s-inner-workings-and-the-future-of--1784031000000",
     "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
     "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
@@ -115,71 +194,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-linkedin-ai-is-rewriting-the-first-job-and-every-job-after-i-1783945840000",
-    "title": "LinkedIn: AI is rewriting the first job—and every job after it",
-    "link": "https://hrexecutive.com/linkedin-ai-is-rewriting-the-first-job-and-every-job-after-it/",
-    "summary": "LinkedIn’s Aneesh Raman explains how AI rewrites work at every level and what it signals for how employers hire, develop and structure talent. The post LinkedIn: AI is rewriting the first job—and every job after it appeared first on HR Executive .",
-    "publishedAt": "2026-07-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-6-benefits-market-shifts-facing-hr-leaders-1783944931000",
-    "title": "6 benefits market shifts facing HR leaders",
-    "link": "https://hrexecutive.com/6-benefits-market-shifts-facing-hr-leaders/",
-    "summary": "What benefits market shifts should HR leaders look hard at as the second half of 2026 begins? Get ahead of the situation. The post 6 benefits market shifts facing HR leaders appeared first on HR Executive .",
-    "publishedAt": "2026-07-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-wharton-researchers-explain-how-cognitive-surrender-takes-ho-1783944028000",
-    "title": "Wharton researchers explain how cognitive surrender takes hold when employees lean on AI",
-    "link": "https://hrexecutive.com/wharton-researchers-explain-how-cognitive-surrender-takes-hold-when-employees-lean-on-ai/",
-    "summary": "Wharton research identifies cognitive surrender, a mode of thinking that emerges when employees rely on AI for decisions. The post Wharton researchers explain how cognitive surrender takes hold when employees lean on AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-waffle-house-sued-for-5m-over-employee-tobacco-insurance-sur-1783943119000",
-    "title": "Waffle House sued for $5M over employee tobacco insurance surcharge",
-    "link": "https://hrexecutive.com/waffle-house-sued-for-5m-over-employee-tobacco-insurance-surcharge/",
-    "summary": "The lawsuit, filed in U.S. District Court for the Middle District of Georgia, said this surcharge violates a provision of the Employee Retirement Income Security Act. The post Waffle House sued for $5M over employee tobacco insurance surcharge appeared first on HR Executive .",
-    "publishedAt": "2026-07-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-openai-8217-s-simo-steps-back-reflects-on-health-leave-burno-1783942240000",
-    "title": "OpenAI&#8217;s Simo steps back, reflects on health leave, burnout and AI",
-    "link": "https://hrexecutive.com/openais-simo-steps-back-reflects-on-health-leave-burnout-and-ai/",
-    "summary": "The departing leader says she once declined a full year of medical leave and wishes she had listened when told to \"play the long game.\" The post OpenAI&#8217;s Simo steps back, reflects on health leave, burnout and AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-download-claude-8217-s-inner-workings-and-openai-8217-s--1783685400000",
     "title": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
     "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
@@ -233,18 +247,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
     "publishedAt": "2026-07-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-emtech-ai-2026-the-rise-of-the-ai-platform-1783527970000",
-    "title": "EmTech AI 2026: The Rise of the AI Platform",
-    "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-    "summary": "",
-    "publishedAt": "2026-07-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -587,6 +589,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134830",
+    "title": "Sub Agent Net Zero Teeside",
+    "company": "Balfour Beatty plc",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About The Role Do you want to be at the forefront of one of the worldâs most ambitious sustainability initiatives",
+      "Balfour Beatty have created iconic buildings and infrastructure all over the world over the past 115 years redefining excellence and setting the industry benchmark with every project."
+    ],
+    "skills": [
+      "RAG",
+      "Agent"
+    ],
+    "location": "Stockton-On-Tees, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-net-zero-teeside-balfour-beatty-plc-1134830",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134803",
     "title": "Supply Chain Systems Analyst",
     "company": "Wing",
@@ -629,7 +650,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RMTcyLjE4NC4xNzQuMTE1 when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQ"
+      "Please mention the word **STATELY** and tag RMTM1LjIzMi4yMDAuNDI= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDA"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -640,4 +661,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-15T06:29:06.641Z';
+export const dataFetchedAt = '2026-07-15T12:54:21.893Z';
