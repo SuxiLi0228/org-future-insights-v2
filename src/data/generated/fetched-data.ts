@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-mo-1784135377000",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+    "publishedAt": "2026-07-15",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-a-useful-quantum-machine-and-a-record-breaking--1784117400000",
     "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
     "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
@@ -234,18 +246,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
-    "publishedAt": "2026-07-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-four-nuclear-reactors-hit-a-big-milestone-in-the-us-1783584000000",
-    "title": "Four nuclear reactors hit a big milestone in the US",
-    "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-    "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
     "publishedAt": "2026-07-09",
     "source": "MIT Technology Review",
     "tags": [
@@ -589,6 +589,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134853",
+    "title": "Job Fair July 27 28",
+    "company": "Dexterra Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Company Description WHO ARE WE",
+      "Dexterra Group is a fast-growing, financially strong, publicly listed company (TSX:DXT)",
+      "We have a far-reaching presence across the entire continent North America with hundreds of full-time and part-time opportunities at any given time",
+      "We aim to provide our people wi"
+    ],
+    "skills": [],
+    "location": "Charlottetown, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-fair-july-27-28-dexterra-group-1134853",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134830",
     "title": "Sub Agent Net Zero Teeside",
     "company": "Balfour Beatty plc",
@@ -650,7 +668,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 12:58:07 PM",
       "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RMTM1LjIzMi4yMDAuNDI= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDA"
+      "Please mention the word **STATELY** and tag RMTA0LjIwOS41LjE1MQ== when applying to show you read the job post completely (#RMTA0LjIwOS41LjE"
     ],
     "skills": [],
     "location": "Australia, ",
@@ -661,4 +679,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-15T12:54:21.893Z';
+export const dataFetchedAt = '2026-07-15T17:59:32.545Z';

@@ -2,6 +2,95 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-16-auto",
+    "date": "2026-07-16",
+    "session": "auto",
+    "title": "2026-07-16 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-16-auto-1",
+        "emoji": "💡",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+        "detail": "来源: MIT Technology Review。OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      },
+      {
+        "id": "sig-2026-07-16-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
+      },
+      {
+        "id": "sig-2026-07-16-auto-3",
+        "emoji": "🚨",
+        "title": "AI harmony is a design problem, not a technology one",
+        "summary": "The CHRO of a bank in Thailand discusses redesigning work around people—and the one capability he tells his own HR team never to lose. The post AI harmony is a design problem, not a technology one appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The CHRO of a bank in Thailand discusses redesigning work around people—and the one capability he tells his own HR team never to lose. The post AI harmony is a design problem, not a technology one appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ai-harmony-is-a-design-problem-not-a-technology-one/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-16-1",
+        "priority": "low",
+        "action": "关注「Meet GPT-Red: an LLM super-hacker OpenAI」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-16-2",
+        "priority": "medium",
+        "action": "关注「The Download: a useful quantum machine a」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-16-3",
+        "priority": "high",
+        "action": "关注「AI harmony is a design problem, not a te」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 45,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-16 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-07-16 00:00 - 2026-07-16 23:59"
+  },
+  {
     "id": "report-2026-07-15-auto",
     "date": "2026-07-15",
     "session": "auto",
