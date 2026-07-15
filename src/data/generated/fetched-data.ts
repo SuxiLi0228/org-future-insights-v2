@@ -169,10 +169,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-esop-models-bring-ultieg-s-people-centric-culture-to-lif-1784028619000",
-    "title": "How ESOP models bring Ultieg’s ‘people-centric’ culture to life",
-    "link": "https://hrexecutive.com/how-esop-models-bring-ultiegs-people-centric-culture-to-life/",
-    "summary": "Ultieg's Sara Chapman shares how an Employee Stock Ownership Plan is just the foundation for the organization's people-centric culture. The post How ESOP models bring Ultieg’s ‘people-centric’ culture to life appeared first on HR Executive .",
+    "id": "news-how-esop-models-bring-ulteig-s-people-centric-culture-to-lif-1784028619000",
+    "title": "How ESOP models bring Ulteig’s ‘people-centric’ culture to life",
+    "link": "https://hrexecutive.com/how-esop-models-bring-ulteigs-people-centric-culture-to-life/",
+    "summary": "Ulteig's Sara Chapman shares how an Employee Stock Ownership Plan is just the foundation for the organization's people-centric culture. The post How ESOP models bring Ulteig’s ‘people-centric’ culture to life appeared first on HR Executive .",
     "publishedAt": "2026-07-14",
     "source": "HR Executive",
     "tags": [
@@ -589,6 +589,45 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134880",
+    "title": "Chain Account Manager",
+    "company": "CELSIUS",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "If your bestie has you"
+    ],
+    "skills": [
+      "RAG",
+      "AWS",
+      "Spark"
+    ],
+    "location": "Ohio, Ohio, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-chain-account-manager-celsius-1134880",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134886",
+    "title": "Junior Contact Center Agent",
+    "company": "Volkswagen Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Annual gross salary range: Min",
+      "15,732â¬ - Max",
+      "17,805â¬ (depending on experience)",
+      "Volkswagen Group Services is a Volkswagen Group company oriented towards working for Group companies worldwide"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Palmela, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134853",
     "title": "Job Fair July 27 28",
     "company": "Dexterra Group",
@@ -659,24 +698,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
     "postedAt": "2026-07-13",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134707",
-    "title": "Graduate Data Scientist",
-    "company": "Work Force Nexus",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Posted 12:58:07 PM",
-      "Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn",
-      "Please mention the word **STATELY** and tag RMTA0LjIwOS41LjE1MQ== when applying to show you read the job post completely (#RMTA0LjIwOS41LjE"
-    ],
-    "skills": [],
-    "location": "Australia, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
-    "postedAt": "2026-07-11",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-15T17:59:32.545Z';
+export const dataFetchedAt = '2026-07-15T21:32:21.851Z';
