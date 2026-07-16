@@ -2,6 +2,92 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-17-auto",
+    "date": "2026-07-17",
+    "session": "auto",
+    "title": "2026-07-17 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-17-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+      },
+      {
+        "id": "sig-2026-07-17-auto-2",
+        "emoji": "⚠️",
+        "title": "Why heat pumps are still so hot in the US",
+        "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat&#8230;",
+        "detail": "来源: MIT Technology Review。It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/"
+      },
+      {
+        "id": "sig-2026-07-17-auto-3",
+        "emoji": "🚨",
+        "title": "Invisible Learning: Building Skills at the Pace of Work",
+        "summary": "Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore how to move beyond traditional training to build skills continuously, in the flow of work. The post Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore how to move beyond traditional training to build skills continuously, in the flow of work. The post Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/invisible-learning-building-skills-at-the-pace-of-work/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-17-1",
+        "priority": "medium",
+        "action": "关注「The Download: OpenAI unveils GPT-Red and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-17-2",
+        "priority": "medium",
+        "action": "关注「Why heat pumps are still so hot in the U」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-17-3",
+        "priority": "high",
+        "action": "关注「Invisible Learning: Building Skills at t」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 47,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-17 生成，聚合了 20 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-07-17 00:00 - 2026-07-17 23:59"
+  },
+  {
     "id": "report-2026-07-16-auto",
     "date": "2026-07-16",
     "session": "auto",

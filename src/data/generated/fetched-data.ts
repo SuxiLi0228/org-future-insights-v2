@@ -26,6 +26,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-invisible-learning-building-skills-at-the-pace-of-work-1784209444000",
+    "title": "Invisible Learning: Building Skills at the Pace of Work",
+    "link": "https://hrexecutive.com/invisible-learning-building-skills-at-the-pace-of-work/",
+    "summary": "Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore how to move beyond traditional training to build skills continuously, in the flow of work. The post Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-top-economists-nobel-laureates-issue-urgent-ai-warning-for-e-1784205055000",
     "title": "Top economists, Nobel laureates issue urgent AI warning for employers",
     "link": "https://hrexecutive.com/top-economists-nobel-laureates-issue-urgent-ai-warning-for-employers/",
@@ -56,7 +69,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-meta-8217-s-ai-penalized-protected-leave-in-layoffs-accordin-1784203218000",
     "title": "Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit",
     "link": "https://hrexecutive.com/metas-ai-penalized-protected-leave-in-layoffs-according-to-lawsuit/",
-    "summary": "Twenty-six Meta workers claim AI layoff tools penalized protected leave, in what may be the first suit over AI-driven job cuts. The post Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit appeared first on HR Executive .",
+    "summary": "Twenty-six former Meta workers claim AI layoff tools penalized protected leave, in what may be the first suit over AI-driven job cuts. The post Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit appeared first on HR Executive .",
     "publishedAt": "2026-07-16",
     "source": "HR Executive",
     "tags": [
@@ -69,7 +82,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-cvs-ceo-glp-1-economics-8216-aren-8217-t-there-yet-8217-1784202353000",
     "title": "CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217;",
     "link": "https://hrexecutive.com/cvs-ceo-glp-1-economics-arent-there-yet/",
-    "summary": "David Joyner's idea about how to cope with a shrinking supply of primary care physicians got less attention. The post CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217; appeared first on HR Executive .",
+    "summary": "Employers want healthier workers—but many still can't justify covering GLP-1 weight-loss drugs. Here's why CVS says the math doesn't work. The post CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217; appeared first on HR Executive .",
     "publishedAt": "2026-07-16",
     "source": "HR Executive",
     "tags": [
@@ -160,19 +173,6 @@ export const generatedNews: NewsItem[] = [
     "title": "What generative AI can and cannot do for HR, according to a Cornell professor",
     "link": "https://hrexecutive.com/what-generative-ai-can-and-cannot-do-for-hr-according-to-a-cornell-professor/",
     "summary": "Cornell Professor Chris Collins discusses how generative AI's function in human resources has already arrived as data aggregation. The post What generative AI can and cannot do for HR, according to a Cornell professor appeared first on HR Executive .",
-    "publishedAt": "2026-07-15",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-ibm-s-really-bad-day-on-wall-street-says-about-ai-inves-1784115013000",
-    "title": "What IBM’s really bad day on Wall Street says about AI investment",
-    "link": "https://hrexecutive.com/what-ibms-really-bad-day-on-wall-street-says-about-ai-investment/",
-    "summary": "IBM's CEO issued a warning that Q2 revenue fell short of expectations, sinking stocks by up to 25% on Tuesday. The post What IBM’s really bad day on Wall Street says about AI investment appeared first on HR Executive .",
     "publishedAt": "2026-07-15",
     "source": "HR Executive",
     "tags": [
@@ -728,4 +728,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-16T13:06:00.722Z';
+export const dataFetchedAt = '2026-07-16T17:57:06.964Z';
