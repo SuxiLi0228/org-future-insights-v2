@@ -2,6 +2,95 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-t-1784203800000",
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+    "publishedAt": "2026-07-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-why-heat-pumps-are-still-so-hot-in-the-us-1784196000000",
+    "title": "Why heat pumps are still so hot in the US",
+    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+    "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat&#8230;",
+    "publishedAt": "2026-07-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-top-economists-nobel-laureates-issue-urgent-ai-warning-for-e-1784205055000",
+    "title": "Top economists, Nobel laureates issue urgent AI warning for employers",
+    "link": "https://hrexecutive.com/top-economists-nobel-laureates-issue-urgent-ai-warning-for-employers/",
+    "summary": "200-plus signatories, including economists behind automation research, signed a statement urging urgent prep for AI-driven job disruption. The post Top economists, Nobel laureates issue urgent AI warning for employers appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-to-build-an-ownership-culture-that-keeps-top-talent-1784204154000",
+    "title": "How to build an ownership culture that keeps top talent",
+    "link": "https://hrexecutive.com/how-to-build-an-ownership-culture-that-keeps-top-talent/",
+    "summary": "HR retention fails not when employees pursue a higher salary or a better schedule. They lose them to the desire for independence and control. The post How to build an ownership culture that keeps top talent appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-meta-8217-s-ai-penalized-protected-leave-in-layoffs-accordin-1784203218000",
+    "title": "Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit",
+    "link": "https://hrexecutive.com/metas-ai-penalized-protected-leave-in-layoffs-according-to-lawsuit/",
+    "summary": "Twenty-six Meta workers claim AI layoff tools penalized protected leave, in what may be the first suit over AI-driven job cuts. The post Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-cvs-ceo-glp-1-economics-8216-aren-8217-t-there-yet-8217-1784202353000",
+    "title": "CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217;",
+    "link": "https://hrexecutive.com/cvs-ceo-glp-1-economics-arent-there-yet/",
+    "summary": "David Joyner's idea about how to cope with a shrinking supply of primary care physicians got less attention. The post CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217; appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-8216-workplace-situationship-8217-future-uncertainty-reshapi-1784201439000",
+    "title": "&#8216;Workplace situationship&#8217;: Future uncertainty reshaping office dynamics",
+    "link": "https://hrexecutive.com/workplace-situationship-future-uncertainty-reshaping-office-dynamics/",
+    "summary": "Nearly six in 10 workers don’t see a long-term path with their current employer, creating a 'situationship' or professional holding pattern. The post &#8216;Workplace situationship&#8217;: Future uncertainty reshaping office dynamics appeared first on HR Executive .",
+    "publishedAt": "2026-07-16",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-mo-1784135377000",
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -117,71 +206,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-1784032227000",
-    "title": "Women are earning more than ever. So why is the pay gap still growing?",
-    "link": "https://hrexecutive.com/women-are-earning-more-than-ever-so-why-is-the-pay-gap-still-growing/",
-    "summary": "The estimated annual earnings gender pay gap grew from $7,696 in 2000 to $12,324 in 2025; there are ways employers can help close that gap. The post Women are earning more than ever. So why is the pay gap still growing? appeared first on HR Executive .",
-    "publishedAt": "2026-07-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-gen-z-8217-s-ai-anxiety-isn-8217-t-really-about-ai-1784031328000",
-    "title": "Gen Z&#8217;s AI anxiety isn&#8217;t really about AI",
-    "link": "https://hrexecutive.com/gen-zs-ai-anxiety-isnt-really-about-ai/",
-    "summary": "In conversations about leadership, Gen Z's AI anxiety isn't the issue. It's a symptom of an ever-widening leadership gap. The post Gen Z&#8217;s AI anxiety isn&#8217;t really about AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-biggest-workforce-shortage-in-u-s-history-is-being-overs-1784030456000",
-    "title": "The biggest workforce shortage in U.S. history is being overshadowed by AI",
-    "link": "https://hrexecutive.com/the-biggest-workforce-shortage-in-u-s-history-is-being-overshadowed-by-ai/",
-    "summary": "New reporting projects the largest labor shortage in US history. Why HR leaders should add talent scarcity to their AI-era planning. The post The biggest workforce shortage in U.S. history is being overshadowed by AI appeared first on HR Executive .",
-    "publishedAt": "2026-07-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-aca-marketplace-insurers-propose-14-premium-hike-for-2027-1784029501000",
-    "title": "ACA Marketplace insurers propose 14% premium hike for 2027",
-    "link": "https://hrexecutive.com/aca-marketplace-insurers-propose-14-premium-hike-for-2027/",
-    "summary": "Key drivers of the premium hike, according to insurers, include the rising cost of health services, the expiration of the enhanced premium tax credits, and some federal regulatory changes. The post ACA Marketplace insurers propose 14% premium hike for 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-07-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-how-esop-models-bring-ulteig-s-people-centric-culture-to-lif-1784028619000",
-    "title": "How ESOP models bring Ulteig’s ‘people-centric’ culture to life",
-    "link": "https://hrexecutive.com/how-esop-models-bring-ulteigs-people-centric-culture-to-life/",
-    "summary": "Ulteig's Sara Chapman shares how an Employee Stock Ownership Plan is just the foundation for the organization's people-centric culture. The post How ESOP models bring Ulteig’s ‘people-centric’ culture to life appeared first on HR Executive .",
-    "publishedAt": "2026-07-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
     "id": "news-what-anthropic-s-latest-ai-discovery-does-and-doesn-t-show-1783965600000",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
@@ -223,30 +247,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
     "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
     "publishedAt": "2026-07-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-found-a-hidden-space-where-claude-puzzles-over-con-1783628548000",
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
-    "publishedAt": "2026-07-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-a-nuclear-landmark-and-china-eyes-nvidia-chips-1783599000000",
-    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
-    "publishedAt": "2026-07-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -601,23 +601,17 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
-    "id": "job-remoteok-1134825",
-    "title": "Customer Support Agent",
-    "company": "UMAEZ LLC",
+    "id": "job-remoteok-1134861",
+    "title": "Operador de Portaria Remota Recife PE Vagas Profissionais",
+    "company": "BuscarVagas - Empregos Brasil",
     "category": "hybrid_ai",
     "responsibilities": [
-      "About Goda We are Goda, a fast-growing DTC brand in the fragrance and skincare space, selling across the US and globally",
-      "Our hero products built a loyal customer base across our markets, and we're scaling fast",
-      "We run paid social at high volume, which means a steady stream of new customers discover"
+      "O que buscamos Requisitos DesejÃ¡vel ter uma boa dicÃ§Ã£o, ter fÃ¡cil acesso a Boa Viagem"
     ],
-    "skills": [
-      "LLM",
-      "RAG",
-      "Agent"
-    ],
-    "location": "Remote",
+    "skills": [],
+    "location": "Recife, Recife, Pernambuco, Brasil",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-umaez-llc-1134825",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-vagas-profissionais-buscarvagas-empregos-brasil-1134861",
     "postedAt": "2026-07-15",
     "isNew": true
   },
@@ -734,4 +728,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-16T06:36:31.939Z';
+export const dataFetchedAt = '2026-07-16T13:06:00.722Z';
