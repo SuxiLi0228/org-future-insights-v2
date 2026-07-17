@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-perimenopause-misinformation-and-china-8217-s-l-1784290200000",
+    "title": "The Download: perimenopause misinformation and China&#8217;s latest AI leap",
+    "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;",
+    "publishedAt": "2026-07-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-there-s-a-lot-of-hype-around-perimenopause-don-t-buy-it-1784278800000",
     "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
     "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
@@ -26,10 +38,49 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-hr-state-of-the-union-understanding-ai-s-impact-on-your-busi-1784297367000",
+    "title": "HR State of the Union: Understanding AI’s Impact on Your Business",
+    "link": "https://hrexecutive.com/hr-state-of-the-union-understanding-ai-impact-on-business/",
+    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful business results. The post HR State of the Union: Understanding AI’s Impact on Your Business appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-atlassian-8217-s-new-hr-hire-will-decide-how-work-splits-bet-1784291451000",
+    "title": "Atlassian&#8217;s new HR hire will decide how work splits between humans and agents",
+    "link": "https://hrexecutive.com/atlassians-new-hr-hire-will-decide-how-work-splits-between-humans-and-agents/",
+    "summary": "Atlassian VP Alicia Lenart talks about the new HR role for planning human and AI agent capacity, and why the company rejects AI mandates. The post Atlassian&#8217;s new HR hire will decide how work splits between humans and agents appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-google-deepmind-exec-u-s-needs-urgent-action-on-ai-governanc-1784290556000",
+    "title": "Google DeepMind exec: U.S. needs ‘urgent action’ on AI governance",
+    "link": "https://hrexecutive.com/google-deepminds-exec-u-s-needs-urgent-action-on-ai-governance/",
+    "summary": "Thought leader and Google DeepMind exec Demis Hassabis says the United States should convene a standards body to advance best practices. The post Google DeepMind exec: U.S. needs ‘urgent action’ on AI governance appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
     "id": "news-layoffs-and-ai-hiring-tools-are-driving-class-action-risk-co-1784289609000",
     "title": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say",
     "link": "https://hrexecutive.com/layoffs-and-ai-hiring-tools-are-driving-class-action-risk-corporate-counsel-say/",
-    "summary": "Corporate counsel rank workforce changes a top class action trigger, with employment and AI hiring risk rising fastest at the state level. The post Layoffs and AI hiring tools are driving class action risk, corporate counsel say appeared first on HR Executive .",
+    "summary": "Corporate counsel ranks workforce changes as a top-class action trigger, with employment and AI hiring risk rising fastest at the state level. The post Layoffs and AI hiring tools are driving class action risk, corporate counsel say appeared first on HR Executive .",
     "publishedAt": "2026-07-17",
     "source": "HR Executive",
     "tags": [
@@ -103,7 +154,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-top-economists-nobel-laureates-issue-urgent-ai-warning-for-e-1784205055000",
     "title": "Top economists, Nobel laureates issue urgent AI warning for employers",
     "link": "https://hrexecutive.com/top-economists-nobel-laureates-issue-urgent-ai-warning-for-employers/",
-    "summary": "200-plus signatories, including economists behind automation research, signed a statement urging urgent prep for AI-driven job disruption. The post Top economists, Nobel laureates issue urgent AI warning for employers appeared first on HR Executive .",
+    "summary": "200-plus signatories, including economists behind automation research, signed a statement seeking urgent prep for AI-driven job disruption. The post Top economists, Nobel laureates issue urgent AI warning for employers appeared first on HR Executive .",
     "publishedAt": "2026-07-16",
     "source": "HR Executive",
     "tags": [
@@ -140,31 +191,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cvs-ceo-glp-1-economics-8216-aren-8217-t-there-yet-8217-1784202353000",
-    "title": "CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217;",
-    "link": "https://hrexecutive.com/cvs-ceo-glp-1-economics-arent-there-yet/",
-    "summary": "Employers want healthier workers—but many still can't justify covering GLP-1 weight-loss drugs. Here's why CVS says the math doesn't work. The post CVS CEO: GLP-1 economics &#8216;aren&#8217;t there yet&#8217; appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-8216-workplace-situationship-8217-future-uncertainty-reshapi-1784201439000",
-    "title": "&#8216;Workplace situationship&#8217;: Future uncertainty reshaping office dynamics",
-    "link": "https://hrexecutive.com/workplace-situationship-future-uncertainty-reshaping-office-dynamics/",
-    "summary": "Nearly six in 10 workers don’t see a long-term path with their current employer, creating a 'situationship' or professional holding pattern. The post &#8216;Workplace situationship&#8217;: Future uncertainty reshaping office dynamics appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-mo-1784135377000",
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -186,20 +212,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-ai-harmony-is-a-design-problem-not-a-technology-one-1784118615000",
-    "title": "AI harmony is a design problem, not a technology one",
-    "link": "https://hrexecutive.com/ai-harmony-is-a-design-problem-not-a-technology-one/",
-    "summary": "The CHRO of a bank in Thailand discusses redesigning work around people—and the one capability he tells his own HR team never to lose. The post AI harmony is a design problem, not a technology one appeared first on HR Executive .",
-    "publishedAt": "2026-07-15",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
     ]
   },
   {
@@ -231,18 +243,6 @@ export const generatedNews: NewsItem[] = [
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
-    "publishedAt": "2026-07-13",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-a-donor-conception-cap-and-world-models-for-ai-1783944600000",
-    "title": "The Download: a donor conception cap and world models for AI",
-    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
     "publishedAt": "2026-07-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -702,6 +702,23 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1134979",
+    "title": "AI Testing Assistant",
+    "company": "Mosaic Conseil",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Mosaic Conseil operates as a small, remote workshop dedicated to rebuilding one business artifact at a time",
+      "Whether it is a three year plan, a pricing grid, or a diligence file, we take things apart on the bench and put them back together against the evidence of the invoice ledger",
+      "The process is p"
+    ],
+    "skills": [],
+    "location": "Stockholm, Stockholm, Stockholms lÃ¤n, Sverige",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-testing-assistant-mosaic-conseil-1134979",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134830",
     "title": "Sub Agent Net Zero Teeside",
     "company": "Balfour Beatty plc",
@@ -717,6 +734,24 @@ export const generatedJobs: JobPosting[] = [
     "location": "Stockton-On-Tees, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-net-zero-teeside-balfour-beatty-plc-1134830",
+    "postedAt": "2026-07-14",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134974",
+    "title": "Job Ã©tudiant sans expÃ©rience Professeur Particulier TÃ©lÃ©travail possible",
+    "company": "TUS Media",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Vous Ãªtes Ã la recherche d'un job Ã©tudiant",
+      "Devenez professeur avec Voscours",
+      "Partagez vos connaissances avec nos Ã©lÃ¨ves : soutien scolaire, musique, sports, langues, technologieâ¦ Acceptez le dÃ©fi et commencez dÃ¨s maintenant",
+      "Nous sommes Ã la recherche de professeurs / formateurs / enseign"
+    ],
+    "skills": [],
+    "location": "Paris, Paris, Ãle-de-France, France",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-etudiant-sans-experience-professeur-particulier-teletravail-possible-tus-media-1134974",
     "postedAt": "2026-07-14",
     "isNew": true
   },
@@ -739,26 +774,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-record-your-daily-routine-amp-get-paid-ai-training-toloka-annotators-1134939",
     "postedAt": "2026-07-14",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134803",
-    "title": "Supply Chain Systems Analyst",
-    "company": "Wing",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About Wing: Wing offers drone delivery as a safe, fast, and sustainable solution for last mile logistics",
-      "Consumer appetites for on-demand services are increasing, but current delivery methods are inefficient, costly, and contribute to road accidents and air pollution",
-      "Wingâs fleet of highly autom"
-    ],
-    "skills": [
-      "AWS"
-    ],
-    "location": "Palo Alto, Palo Alto, California, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-systems-analyst-wing-1134803",
-    "postedAt": "2026-07-13",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-17T12:03:15.384Z';
+export const dataFetchedAt = '2026-07-17T17:45:07.118Z';

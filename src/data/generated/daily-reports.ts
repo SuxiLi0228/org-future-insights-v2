@@ -2,6 +2,91 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-18-auto",
+    "date": "2026-07-18",
+    "session": "auto",
+    "title": "2026-07-18 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-18-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: perimenopause misinformation and China&#8217;s latest AI leap",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+      },
+      {
+        "id": "sig-2026-07-18-auto-2",
+        "emoji": "💡",
+        "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+        "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that&#8230;",
+        "detail": "来源: MIT Technology Review。Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/"
+      },
+      {
+        "id": "sig-2026-07-18-auto-3",
+        "emoji": "💡",
+        "title": "The risk of weather data sabotage is rising",
+        "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
+        "detail": "来源: MIT Technology Review。Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-18-1",
+        "priority": "medium",
+        "action": "关注「The Download: perimenopause misinformati」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-18-2",
+        "priority": "low",
+        "action": "关注「There’s a lot of hype around perimenopau」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-18-3",
+        "priority": "low",
+        "action": "关注「The risk of weather data sabotage is ris」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 48,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-18 生成，聚合了 20 条新闻、20 篇论文、8 个岗位。",
+    "fetchWindow": "2026-07-18 00:00 - 2026-07-18 23:59"
+  },
+  {
     "id": "report-2026-07-17-auto",
     "date": "2026-07-17",
     "session": "auto",
