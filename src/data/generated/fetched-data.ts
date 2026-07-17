@@ -2,6 +2,67 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-there-s-a-lot-of-hype-around-perimenopause-don-t-buy-it-1784278800000",
+    "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+    "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+    "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that&#8230;",
+    "publishedAt": "2026-07-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-risk-of-weather-data-sabotage-is-rising-1784278652000",
+    "title": "The risk of weather data sabotage is rising",
+    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
+    "publishedAt": "2026-07-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-layoffs-and-ai-hiring-tools-are-driving-class-action-risk-co-1784289609000",
+    "title": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say",
+    "link": "https://hrexecutive.com/layoffs-and-ai-hiring-tools-are-driving-class-action-risk-corporate-counsel-say/",
+    "summary": "Corporate counsel rank workforce changes a top class action trigger, with employment and AI hiring risk rising fastest at the state level. The post Layoffs and AI hiring tools are driving class action risk, corporate counsel say appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-hr-needs-a-bigger-role-in-m-038-a-success-1784288757000",
+    "title": "Why HR needs a bigger role in M&#038;A success",
+    "link": "https://hrexecutive.com/why-hr-needs-a-bigger-role-in-ma-success/",
+    "summary": "In M&#038;A, deal value is realized through execution, and execution is fundamentally a people challenge. HR needs to be involved sooner. The post Why HR needs a bigger role in M&#038;A success appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-3-span-of-control-questions-hr-leaders-need-to-ask-1784287807000",
+    "title": "3 span-of-control questions HR leaders need to ask",
+    "link": "https://hrexecutive.com/3-span-of-control-questions-hr-leaders-need-to-ask/",
+    "summary": "HR leaders can help the business make better span-of-control decisions by asking a different set of questions around management layers and more. The post 3 span-of-control questions HR leaders need to ask appeared first on HR Executive .",
+    "publishedAt": "2026-07-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
     "id": "news-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-t-1784203800000",
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
@@ -142,46 +203,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-average-chro-pay-is-now-3-7m-who-are-the-top-paid-1784116812000",
-    "title": "Average CHRO pay is now $3.7M. Who are the top-paid?",
-    "link": "https://hrexecutive.com/average-chro-pay-is-now-3-7m-who-are-the-top-paid/",
-    "summary": "A new study highlights how organizations are tying HR executive compensation “heavily” to business performance. The post Average CHRO pay is now $3.7M. Who are the top-paid? appeared first on HR Executive .",
-    "publishedAt": "2026-07-15",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-no-surprises-act-claim-dispute-umpires-to-face-public-commen-1784115936000",
-    "title": "No Surprises Act claim dispute umpires to face public comment period",
-    "link": "https://hrexecutive.com/no-surprises-act-claim-dispute-umpires-to-face-public-comment-period/",
-    "summary": "The public petition process is expected to give employers, insurers and other payers a chance to tell regulators if they think an entity is too unfair to payers. The post No Surprises Act claim dispute umpires to face public comment period appeared first on HR Executive .",
-    "publishedAt": "2026-07-15",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-generative-ai-can-and-cannot-do-for-hr-according-to-a-c-1784115917000",
-    "title": "What generative AI can and cannot do for HR, according to a Cornell professor",
-    "link": "https://hrexecutive.com/what-generative-ai-can-and-cannot-do-for-hr-according-to-a-cornell-professor/",
-    "summary": "Cornell Professor Chris Collins discusses how generative AI's function in human resources has already arrived as data aggregation. The post What generative AI can and cannot do for HR, according to a Cornell professor appeared first on HR Executive .",
-    "publishedAt": "2026-07-15",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-download-claude-8217-s-inner-workings-and-the-future-of--1784031000000",
     "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
     "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
@@ -223,30 +244,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
     "publishedAt": "2026-07-13",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-claude-8217-s-inner-workings-and-openai-8217-s--1783685400000",
-    "title": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
-    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
-    "publishedAt": "2026-07-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-sperm-donors-need-limits-says-a-european-fertility-group-1783674000000",
-    "title": "Sperm donors need limits, says a European fertility group",
-    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-    "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
-    "publishedAt": "2026-07-10",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -764,4 +761,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-17T06:28:38.477Z';
+export const dataFetchedAt = '2026-07-17T12:03:15.384Z';
