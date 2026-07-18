@@ -637,7 +637,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RMjAuNTcuMjE0LjE0NQ== when applying to show you read the job post completely (#RMjAuNTcuMjE0LjE0NQ==)",
+      "Please mention the word **PRECISE** and tag RNTIuMTczLjE2NC4xOA== when applying to show you read the job post completely (#RNTIuMTczLjE2NC4xOA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -654,7 +654,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuNTcuMjE0LjE0NQ== when applying to show you read the job post completely (#RMjAuNTcuMjE0LjE0NQ==)",
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTIuMTczLjE2NC4xOA== when applying to show you read the job post completely (#RNTIuMTczLjE2NC4xOA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
@@ -664,6 +664,23 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agente-de-reservas-hospitality-stay-u-nique-1134943",
     "postedAt": "2026-07-17",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1135012",
+    "title": "Retailgators",
+    "company": "SuperbCompanies",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Company The company provides maintenance, development, and configuration services for the Odoo system",
+      "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNTIuMTczLjE2NC4"
+    ],
+    "skills": [],
+    "location": "Houston, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retailgators-superbcompanies-1135012",
+    "postedAt": "2026-07-16",
     "isNew": true
   },
   {
@@ -719,25 +736,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886",
     "postedAt": "2026-07-14",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134853",
-    "title": "Job Fair July 27 28",
-    "company": "Dexterra Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Company Description WHO ARE WE",
-      "Dexterra Group is a fast-growing, financially strong, publicly listed company (TSX:DXT)",
-      "We have a far-reaching presence across the entire continent North America with hundreds of full-time and part-time opportunities at any given time",
-      "We aim to provide our people wi"
-    ],
-    "skills": [],
-    "location": "Charlottetown, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-fair-july-27-28-dexterra-group-1134853",
-    "postedAt": "2026-07-14",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-18T05:53:32.777Z';
+export const dataFetchedAt = '2026-07-18T10:46:44.522Z';
