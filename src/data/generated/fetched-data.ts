@@ -630,6 +630,43 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1134958",
+    "title": "Adelaide",
+    "company": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "There are no articles in this category",
+      "If subcategories display on this page, they may have articles",
+      "Please mention the word **PRECISE** and tag RMjAuNTcuMjE0LjE0NQ== when applying to show you read the job post completely (#RMjAuNTcuMjE0LjE0NQ==)",
+      "This is a beta feature to avoid spam applicants"
+    ],
+    "skills": [],
+    "location": "Adelaide, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-adelaide-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134958",
+    "postedAt": "2026-07-17",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1134943",
+    "title": "Agente de Reservas Hospitality",
+    "company": "Stay U-nique",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuNTcuMjE0LjE0NQ== when applying to show you read the job post completely (#RMjAuNTcuMjE0LjE0NQ==)",
+      "This is a beta feature to avoid spam applicants"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agente-de-reservas-hospitality-stay-u-nique-1134943",
+    "postedAt": "2026-07-17",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134861",
     "title": "Operador de Portaria Remota Recife PE Vagas Profissionais",
     "company": "BuscarVagas - Empregos Brasil",
@@ -700,81 +737,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-fair-july-27-28-dexterra-group-1134853",
     "postedAt": "2026-07-14",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134979",
-    "title": "AI Testing Assistant",
-    "company": "Mosaic Conseil",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Mosaic Conseil operates as a small, remote workshop dedicated to rebuilding one business artifact at a time",
-      "Whether it is a three year plan, a pricing grid, or a diligence file, we take things apart on the bench and put them back together against the evidence of the invoice ledger",
-      "The process is p"
-    ],
-    "skills": [],
-    "location": "Stockholm, Stockholm, Stockholms lÃ¤n, Sverige",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-testing-assistant-mosaic-conseil-1134979",
-    "postedAt": "2026-07-14",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134830",
-    "title": "Sub Agent Net Zero Teeside",
-    "company": "Balfour Beatty plc",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About The Role Do you want to be at the forefront of one of the worldâs most ambitious sustainability initiatives",
-      "Balfour Beatty have created iconic buildings and infrastructure all over the world over the past 115 years redefining excellence and setting the industry benchmark with every project."
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Stockton-On-Tees, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-net-zero-teeside-balfour-beatty-plc-1134830",
-    "postedAt": "2026-07-14",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134974",
-    "title": "Job Ã©tudiant sans expÃ©rience Professeur Particulier TÃ©lÃ©travail possible",
-    "company": "TUS Media",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Vous Ãªtes Ã la recherche d'un job Ã©tudiant",
-      "Devenez professeur avec Voscours",
-      "Partagez vos connaissances avec nos Ã©lÃ¨ves : soutien scolaire, musique, sports, langues, technologieâ¦ Acceptez le dÃ©fi et commencez dÃ¨s maintenant",
-      "Nous sommes Ã la recherche de professeurs / formateurs / enseign"
-    ],
-    "skills": [],
-    "location": "Paris, Paris, Ãle-de-France, France",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-etudiant-sans-experience-professeur-particulier-teletravail-possible-tus-media-1134974",
-    "postedAt": "2026-07-14",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134939",
-    "title": "Record Your Daily Routine &amp; Get Paid AI Training",
-    "company": "Toloka Annotators",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This is a project-based opportunity on an AI training platform â not a job",
-      "No fixed hours, no commitment beyond what fits your schedule",
-      "You record, you get paid",
-      "About The Role We're looking for people to record point-of-view videos of everyday household activities"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Montreal, Montreal, Quebec, Canada",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-record-your-daily-routine-amp-get-paid-ai-training-toloka-annotators-1134939",
-    "postedAt": "2026-07-14",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-17T20:38:58.334Z';
+export const dataFetchedAt = '2026-07-18T05:53:32.777Z';
