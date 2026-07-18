@@ -637,7 +637,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNTIuMTczLjE2NC4xOA== when applying to show you read the job post completely (#RNTIuMTczLjE2NC4xOA==)",
+      "Please mention the word **PRECISE** and tag RNDAuODQuMjE2Ljgz when applying to show you read the job post completely (#RNDAuODQuMjE2Ljgz)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -654,8 +654,9 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTIuMTczLjE2NC4xOA== when applying to show you read the job post completely (#RNTIuMTczLjE2NC4xOA==)",
-      "This is a beta feature to avoid spam applicants"
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNDAuODQuMjE2Ljgz when applying to show you read the job post completely (#RNDAuODQuMjE2Ljgz)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can se"
     ],
     "skills": [
       "Agent"
@@ -674,7 +675,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "About Company The company provides maintenance, development, and configuration services for the Odoo system",
       "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
-      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNTIuMTczLjE2NC4"
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNDAuODQuMjE2Ljg"
     ],
     "skills": [],
     "location": "Houston, ",
@@ -716,27 +717,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-chain-account-manager-celsius-1134880",
     "postedAt": "2026-07-14",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134886",
-    "title": "Junior Contact Center Agent",
-    "company": "Volkswagen Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Annual gross salary range: Min",
-      "15,732â¬ - Max",
-      "17,805â¬ (depending on experience)",
-      "Volkswagen Group Services is a Volkswagen Group company oriented towards working for Group companies worldwide"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Palmela, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886",
-    "postedAt": "2026-07-14",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-18T10:46:44.522Z';
+export const dataFetchedAt = '2026-07-18T15:32:21.500Z';
