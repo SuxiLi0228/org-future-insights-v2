@@ -637,7 +637,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNDAuODQuMjE2Ljgz when applying to show you read the job post completely (#RNDAuODQuMjE2Ljgz)",
+      "Please mention the word **PRECISE** and tag RNC4yMjcuMTM1LjE0OA== when applying to show you read the job post completely (#RNC4yMjcuMTM1LjE0OA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -654,9 +654,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNDAuODQuMjE2Ljgz when applying to show you read the job post completely (#RNDAuODQuMjE2Ljgz)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can se"
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNC4yMjcuMTM1LjE0OA== when applying to show you read the job post completely (#RNC4yMjcuMTM1LjE0OA==)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
       "Agent"
@@ -675,7 +674,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "About Company The company provides maintenance, development, and configuration services for the Odoo system",
       "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
-      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNDAuODQuMjE2Ljg"
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNC4yMjcuMTM1LjE"
     ],
     "skills": [],
     "location": "Houston, ",
@@ -683,41 +682,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retailgators-superbcompanies-1135012",
     "postedAt": "2026-07-16",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134861",
-    "title": "Operador de Portaria Remota Recife PE Vagas Profissionais",
-    "company": "BuscarVagas - Empregos Brasil",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "O que buscamos Requisitos DesejÃ¡vel ter uma boa dicÃ§Ã£o, ter fÃ¡cil acesso a Boa Viagem"
-    ],
-    "skills": [],
-    "location": "Recife, Recife, Pernambuco, Brasil",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-vagas-profissionais-buscarvagas-empregos-brasil-1134861",
-    "postedAt": "2026-07-15",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134880",
-    "title": "Chain Account Manager",
-    "company": "CELSIUS",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "If your bestie has you"
-    ],
-    "skills": [
-      "RAG",
-      "AWS",
-      "Spark"
-    ],
-    "location": "Ohio, Ohio, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-chain-account-manager-celsius-1134880",
-    "postedAt": "2026-07-14",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-18T15:32:21.500Z';
+export const dataFetchedAt = '2026-07-18T19:55:03.440Z';
