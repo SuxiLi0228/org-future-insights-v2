@@ -652,7 +652,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RMjAuNTUuMTUuNw== when applying to show you read the job post completely (#RMjAuNTUuMTUuNw==)",
+      "Please mention the word **PRECISE** and tag RNTIuMTYwLjIyNC4xMTY= when applying to show you read the job post completely (#RNTIuMTYwLjIyNC4xMTY=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -669,9 +669,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuNTUuMTUuNw== when applying to show you read the job post completely (#RMjAuNTUuMTUuNw==)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can se"
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTIuMTYwLjIyNC4xMTY= when applying to show you read the job post completely (#RNTIuMTYwLjIyNC4xMTY=)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
       "Agent"
@@ -705,7 +704,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "About Company The company provides maintenance, development, and configuration services for the Odoo system",
       "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
-      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RMjAuNTUuMTUuNw="
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNTIuMTYwLjIyNC4"
     ],
     "skills": [],
     "location": "Houston, ",
@@ -716,4 +715,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-19T15:33:04.898Z';
+export const dataFetchedAt = '2026-07-19T19:58:56.781Z';
