@@ -652,7 +652,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNTcuMTUxLjEyMi4xNDU= when applying to show you read the job post completely (#RNTcuMTUxLjEyMi4xNDU=)",
+      "Please mention the word **PRECISE** and tag RMTMuODMuMjMzLjEwMA== when applying to show you read the job post completely (#RMTMuODMuMjMzLjEwMA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -669,7 +669,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTcuMTUxLjEyMi4xNDU= when applying to show you read the job post completely (#RNTcuMTUxLjEyMi4xNDU=)",
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMTMuODMuMjMzLjEwMA== when applying to show you read the job post completely (#RMTMuODMuMjMzLjEwMA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
@@ -682,6 +682,21 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135049",
+    "title": "AIR DEFENSE",
+    "company": "Mississippi Army National Guard Biloxi Office",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Air Defense Soldiers shield Ground Forces from all threats above"
+    ],
+    "skills": [],
+    "location": "KarÄchi, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-air-defense-mississippi-army-national-guard-biloxi-office-1135049",
+    "postedAt": "2026-07-16",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135012",
     "title": "Retailgators",
     "company": "SuperbCompanies",
@@ -689,7 +704,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "About Company The company provides maintenance, development, and configuration services for the Odoo system",
       "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
-      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNTcuMTUxLjEyMi4"
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RMTMuODMuMjMzLjE"
     ],
     "skills": [],
     "location": "Houston, ",
@@ -700,4 +715,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-19T07:51:26.834Z';
+export const dataFetchedAt = '2026-07-19T11:40:22.053Z';
