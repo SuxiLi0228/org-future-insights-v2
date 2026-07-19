@@ -630,6 +630,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135037",
+    "title": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
+    "company": "BuscarVagas - Empregos Brasil",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "O que buscamos Requisitos DesejÃ¡vel ter uma boa dicÃ§Ã£o, ter fÃ¡cil acesso a Boa Viagem"
+    ],
+    "skills": [],
+    "location": "Recife, Recife, Pernambuco, Brasil",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
+    "postedAt": "2026-07-18",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1134958",
     "title": "Adelaide",
     "company": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
@@ -637,7 +652,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RMjAuMTYzLjQ3LjY3 when applying to show you read the job post completely (#RMjAuMTYzLjQ3LjY3)",
+      "Please mention the word **PRECISE** and tag RNTcuMTUxLjEyMi4xNDU= when applying to show you read the job post completely (#RNTcuMTUxLjEyMi4xNDU=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -654,9 +669,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuMTYzLjQ3LjY3 when applying to show you read the job post completely (#RMjAuMTYzLjQ3LjY3)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can se"
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTcuMTUxLjEyMi4xNDU= when applying to show you read the job post completely (#RNTcuMTUxLjEyMi4xNDU=)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
       "Agent"
@@ -675,7 +689,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "About Company The company provides maintenance, development, and configuration services for the Odoo system",
       "Odoo is a management system for all company resources, which provides opportunities for sales administr..",
-      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RMjAuMTYzLjQ3LjY"
+      "Read more about Codoo-ERP Please mention the word **WHOOA** and tag RNTcuMTUxLjEyMi4"
     ],
     "skills": [],
     "location": "Houston, ",
@@ -686,4 +700,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-18T22:33:25.271Z';
+export const dataFetchedAt = '2026-07-19T07:51:26.834Z';
