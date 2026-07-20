@@ -2,6 +2,19 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-ai-hiring-biases-and-weather-data-sabotage-1784549400000",
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
+    "publishedAt": "2026-07-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ai-hr"
+    ]
+  },
+  {
     "id": "news-ai-is-more-likely-than-humans-to-form-biases-when-hiring-1784536741000",
     "title": "AI is more likely than humans to form biases when hiring",
     "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
@@ -12,6 +25,70 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology",
       "ai-hr"
+    ]
+  },
+  {
+    "id": "news-ghost-job-postings-are-now-in-lawmakers-8217-crosshairs-1784550645000",
+    "title": "Ghost job postings are now in lawmakers&#8217; crosshairs",
+    "link": "https://hrexecutive.com/ghost-job-postings-are-now-in-lawmakers-crosshairs/",
+    "summary": "Ghost job fines are coming, ghosting is at record highs and research says discouraged candidates may not come back. The post Ghost job postings are now in lawmakers&#8217; crosshairs appeared first on HR Executive .",
+    "publishedAt": "2026-07-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-adp-ceo-maria-black-leads-through-uncertain-times-1784548853000",
+    "title": "How ADP CEO Maria Black leads through uncertain times",
+    "link": "https://hrexecutive.com/how-adp-ceo-maria-black-leads-through-uncertain-times/",
+    "summary": "CEO Maria Black, marking her 30th year at ADP, says that managing a workforce is only getting more complex, and so is HR’s role. The post How ADP CEO Maria Black leads through uncertain times appeared first on HR Executive .",
+    "publishedAt": "2026-07-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-coalition-warns-of-8216-historic-health-coverage-losses-8217-1784547912000",
+    "title": "Coalition warns of &#8216;historic health coverage losses&#8217; up to 43 million in U.S.",
+    "link": "https://hrexecutive.com/coalition-warns-of-historic-health-coverage-losses-up-to-43-million-in-u-s/",
+    "summary": "The groups, including the NAACP, estimate that sticking with the current rules will increase the number of uninsured people by 50%. The post Coalition warns of &#8216;historic health coverage losses&#8217; up to 43 million in U.S. appeared first on HR Executive .",
+    "publishedAt": "2026-07-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-faster-hiring-weaker-trust-ai-is-reshaping-identity-risk-1784547909000",
+    "title": "Faster hiring, weaker trust? AI is reshaping identity risk",
+    "link": "https://hrexecutive.com/faster-hiring-weaker-trust-ai-is-reshaping-identity-risk/",
+    "summary": "As hiring accelerates, how do you keep trust when speed outpaces verification? AI may be improving efficiency, but is introducing new risks. The post Faster hiring, weaker trust? AI is reshaping identity risk appeared first on HR Executive .",
+    "publishedAt": "2026-07-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-kyndryl-chro-3-strategies-to-become-an-ai-pacesetter-1784547057000",
+    "title": "Kyndryl CHRO: 3 strategies to become an AI ‘Pacesetter’",
+    "link": "https://hrexecutive.com/kyndryl-chro-3-strategies-to-become-an-ai-pacesetter/",
+    "summary": "A new study from Kyndryl finds a drop in AI workforce readiness, highlighting a growing problem for HR. Kyndryl's CHRO offers strategies to stay ahead and why the Human Systems Architect role could be key. The post Kyndryl CHRO: 3 strategies to become an AI ‘Pacesetter’ appeared first on HR Executive .",
+    "publishedAt": "2026-07-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -115,18 +192,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-span-of-control-questions-hr-leaders-need-to-ask-1784287807000",
-    "title": "3 span-of-control questions HR leaders need to ask",
-    "link": "https://hrexecutive.com/3-span-of-control-questions-hr-leaders-need-to-ask/",
-    "summary": "HR leaders can help the business make better span-of-control decisions by asking a different set of questions around management layers and more. The post 3 span-of-control questions HR leaders need to ask appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-t-1784203800000",
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
@@ -148,59 +213,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-invisible-learning-building-skills-at-the-pace-of-work-1784209444000",
-    "title": "Invisible Learning: Building Skills at the Pace of Work",
-    "link": "https://hrexecutive.com/invisible-learning-building-skills-at-the-pace-of-work/",
-    "summary": "Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore how to move beyond traditional training to build skills continuously, in the flow of work. The post Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-top-economists-nobel-laureates-issue-urgent-ai-warning-for-e-1784205055000",
-    "title": "Top economists, Nobel laureates issue urgent AI warning for employers",
-    "link": "https://hrexecutive.com/top-economists-nobel-laureates-issue-urgent-ai-warning-for-employers/",
-    "summary": "200-plus signatories, including economists behind automation research, signed a statement seeking urgent prep for AI-driven job disruption. The post Top economists, Nobel laureates issue urgent AI warning for employers appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-to-build-an-ownership-culture-that-keeps-top-talent-1784204154000",
-    "title": "How to build an ownership culture that keeps top talent",
-    "link": "https://hrexecutive.com/how-to-build-an-ownership-culture-that-keeps-top-talent/",
-    "summary": "HR retention fails not when employees pursue a higher salary or a better schedule. They lose them to the desire for independence and control. The post How to build an ownership culture that keeps top talent appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-meta-8217-s-ai-penalized-protected-leave-in-layoffs-accordin-1784203218000",
-    "title": "Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit",
-    "link": "https://hrexecutive.com/metas-ai-penalized-protected-leave-in-layoffs-according-to-lawsuit/",
-    "summary": "Twenty-six former Meta workers claim AI layoff tools penalized protected leave, in what may be the first suit over AI-driven job cuts. The post Meta&#8217;s AI penalized protected leave in layoffs, according to lawsuit appeared first on HR Executive .",
-    "publishedAt": "2026-07-16",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
     ]
   },
   {
@@ -232,18 +244,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
     "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
-    "publishedAt": "2026-07-14",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-psiquantum-has-a-plan-to-make-a-massive-quantum-computer-out-1784016000000",
-    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-    "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
     "publishedAt": "2026-07-14",
     "source": "MIT Technology Review",
     "tags": [
@@ -617,6 +617,26 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135061",
+    "title": "Applied AI Product Strategy & Revenue Lead",
+    "company": "Prime Intellect",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Our platform, Lab, unifies compute, environments, evaluations, secure sa"
+    ],
+    "skills": [
+      "LLM",
+      "Agent",
+      "OpenAI",
+      "LangChain"
+    ],
+    "location": "San Francisco",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+    "postedAt": "2026-07-19",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135040",
     "title": "Details",
     "company": "Majer Unternehmens-Gruppe",
@@ -659,7 +679,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNTIuMTg2LjE3NS45OA== when applying to show you read the job post completely (#RNTIuMTg2LjE3NS45OA==)",
+      "Please mention the word **PRECISE** and tag RMjAuMTY4LjEwMi4xMzY= when applying to show you read the job post completely (#RMjAuMTY4LjEwMi4xMzY=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -676,7 +696,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTIuMTg2LjE3NS45OA== when applying to show you read the job post completely (#RNTIuMTg2LjE3NS45OA==)",
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuMTY4LjEwMi4xMzY= when applying to show you read the job post completely (#RMjAuMTY4LjEwMi4xMzY=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
@@ -705,4 +725,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-20T10:33:08.783Z';
+export const dataFetchedAt = '2026-07-20T17:07:56.457Z';

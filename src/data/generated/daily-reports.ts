@@ -2,6 +2,96 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-21-auto",
+    "date": "2026-07-21",
+    "session": "auto",
+    "title": "2026-07-21 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-21-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI hiring biases, and weather data sabotage",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+      },
+      {
+        "id": "sig-2026-07-21-auto-2",
+        "emoji": "⚠️",
+        "title": "AI is more likely than humans to form biases when hiring",
+        "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+        "detail": "来源: MIT Technology Review。The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+      },
+      {
+        "id": "sig-2026-07-21-auto-3",
+        "emoji": "🚨",
+        "title": "Ghost job postings are now in lawmakers&#8217; crosshairs",
+        "summary": "Ghost job fines are coming, ghosting is at record highs and research says discouraged candidates may not come back. The post Ghost job postings are now in lawmakers&#8217; crosshairs appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Ghost job fines are coming, ghosting is at record highs and research says discouraged candidates may not come back. The post Ghost job postings are now in lawmakers&#8217; crosshairs appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ghost-job-postings-are-now-in-lawmakers-crosshairs/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-21-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI hiring biases, and weat」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-21-2",
+        "priority": "medium",
+        "action": "关注「AI is more likely than humans to form bi」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-21-3",
+        "priority": "high",
+        "action": "关注「Ghost job postings are now in lawmakers&」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 46,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-21 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-07-21 00:00 - 2026-07-21 23:59"
+  },
+  {
     "id": "report-2026-07-20-auto",
     "date": "2026-07-20",
     "session": "auto",
