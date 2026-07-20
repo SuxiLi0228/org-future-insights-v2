@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-china-s-ai-models-have-trump-s-ai-world-at-war-with-itself-1784570400000",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+    "publishedAt": "2026-07-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-ai-hiring-biases-and-weather-data-sabotage-1784549400000",
     "title": "The Download: AI hiring biases, and weather data sabotage",
     "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
@@ -233,18 +245,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
     "publishedAt": "2026-07-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-claude-8217-s-inner-workings-and-the-future-of--1784031000000",
-    "title": "The Download: Claude&#8217;s inner workings, and the future of world models",
-    "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
-    "publishedAt": "2026-07-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -679,7 +679,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RMjAuMTY4LjEwMi4xMzY= when applying to show you read the job post completely (#RMjAuMTY4LjEwMi4xMzY=)",
+      "Please mention the word **PRECISE** and tag RNTIuMjQyLjI0My40 when applying to show you read the job post completely (#RNTIuMjQyLjI0My40)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -696,8 +696,9 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMjAuMTY4LjEwMi4xMzY= when applying to show you read the job post completely (#RMjAuMTY4LjEwMi4xMzY=)",
-      "This is a beta feature to avoid spam applicants"
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNTIuMjQyLjI0My40 when applying to show you read the job post completely (#RNTIuMjQyLjI0My40)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can se"
     ],
     "skills": [
       "Agent"
@@ -725,4 +726,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-20T17:07:56.457Z';
+export const dataFetchedAt = '2026-07-20T21:50:35.200Z';
