@@ -641,6 +641,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135130",
+    "title": "Testing Recommendation Step",
+    "company": "Jacobs",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-criti"
+    ],
+    "skills": [],
+    "location": "Anchorage, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
+    "postedAt": "2026-07-20",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135104",
     "title": "Logistics & Supply Chain Management Expert",
     "company": "YO HR Consultancy",
@@ -664,7 +679,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RNDAuNzYuMjM5LjEwMA== when applying to show you read the job post completely ("
+      "Please mention the word **REVIVES** and tag RNjQuMjM2LjEzNS4xOQ== when applying to show you read the job post completely ("
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -727,25 +742,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
     "postedAt": "2026-07-18",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134958",
-    "title": "Adelaide",
-    "company": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "There are no articles in this category",
-      "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNDAuNzYuMjM5LjEwMA== when applying to show you read the job post completely (#RNDAuNzYuMjM5LjEwMA==)",
-      "This is a beta feature to avoid spam applicants"
-    ],
-    "skills": [],
-    "location": "Adelaide, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-adelaide-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134958",
-    "postedAt": "2026-07-17",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-21T18:51:20.260Z';
+export const dataFetchedAt = '2026-07-21T23:15:30.871Z';
