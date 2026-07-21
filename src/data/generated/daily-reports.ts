@@ -2,6 +2,93 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-22-auto",
+    "date": "2026-07-22",
+    "session": "auto",
+    "title": "2026-07-22 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-22-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
+      },
+      {
+        "id": "sig-2026-07-22-auto-2",
+        "emoji": "⚠️",
+        "title": "Advancing next-gen AI with materials science innovation",
+        "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+        "detail": "来源: MIT Technology Review。The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+      },
+      {
+        "id": "sig-2026-07-22-auto-3",
+        "emoji": "🚨",
+        "title": "Google employees demand severance guarantees as tech layoffs near 157,000",
+        "summary": "A petition asks Google for guaranteed severance, buyouts before mandatory cuts and an end to forced rating distributions. The post Google employees demand severance guarantees as tech layoffs near 157,000 appeared first on HR Executive .",
+        "detail": "来源: HR Executive。A petition asks Google for guaranteed severance, buyouts before mandatory cuts and an end to forced rating distributions. The post Google employees demand severance guarantees as tech layoffs near 157,000 appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/google-employees-demand-severance-guarantees-as-tech-layoffs-near-157000/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-22-1",
+        "priority": "medium",
+        "action": "关注「The Download: Chinese AI divides the Whi」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-22-2",
+        "priority": "medium",
+        "action": "关注「Advancing next-gen AI with materials sci」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-22-3",
+        "priority": "high",
+        "action": "关注「Google employees demand severance guaran」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 46,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-22 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-07-22 00:00 - 2026-07-22 23:59"
+  },
+  {
     "id": "report-2026-07-21-auto",
     "date": "2026-07-21",
     "session": "auto",

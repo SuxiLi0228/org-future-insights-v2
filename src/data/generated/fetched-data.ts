@@ -641,6 +641,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135104",
+    "title": "Logistics & Supply Chain Management Expert",
+    "company": "YO HR Consultancy",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "This is a beta feature to avoid spam applicants"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
+    "postedAt": "2026-07-20",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135076",
     "title": "Representante de Vendas Educacionais",
     "company": "Kodland",
@@ -649,7 +664,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely ("
+      "Please mention the word **REVIVES** and tag RNDAuNzYuMjM5LjEwMA== when applying to show you read the job post completely ("
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -721,7 +736,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMQ==)",
+      "Please mention the word **PRECISE** and tag RNDAuNzYuMjM5LjEwMA== when applying to show you read the job post completely (#RNDAuNzYuMjM5LjEwMA==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -730,41 +745,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-adelaide-dobinsons-spring-amp-suspension-middle-east-amp-africa-1134958",
     "postedAt": "2026-07-17",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1134943",
-    "title": "Agente de Reservas Hospitality",
-    "company": "Stay U-nique",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMQ==)",
-      "This is a beta feature to avoid spam applicants"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-agente-de-reservas-hospitality-stay-u-nique-1134943",
-    "postedAt": "2026-07-17",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135049",
-    "title": "AIR DEFENSE",
-    "company": "Mississippi Army National Guard Biloxi Office",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Air Defense Soldiers shield Ground Forces from all threats above"
-    ],
-    "skills": [],
-    "location": "KarÄchi, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-air-defense-mississippi-army-national-guard-biloxi-office-1135049",
-    "postedAt": "2026-07-16",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-21T13:03:57.955Z';
+export const dataFetchedAt = '2026-07-21T18:51:20.260Z';
