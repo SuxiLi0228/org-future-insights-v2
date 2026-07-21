@@ -2,6 +2,91 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-chinese-ai-divides-the-white-house-and-a-record-1784635800000",
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading&#8230;",
+    "publishedAt": "2026-07-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-advancing-next-gen-ai-with-materials-science-innovation-1784630254000",
+    "title": "Advancing next-gen AI with materials science innovation",
+    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+    "publishedAt": "2026-07-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-google-employees-demand-severance-guarantees-as-tech-layoffs-1784637000000",
+    "title": "Google employees demand severance guarantees as tech layoffs near 157,000",
+    "link": "https://hrexecutive.com/google-employees-demand-severance-guarantees-as-tech-layoffs-near-157000/",
+    "summary": "A petition asks Google for guaranteed severance, buyouts before mandatory cuts and an end to forced rating distributions. The post Google employees demand severance guarantees as tech layoffs near 157,000 appeared first on HR Executive .",
+    "publishedAt": "2026-07-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-what-u-s-and-uk-workforce-chiefs-want-hr-to-know-about-ai-an-1784635215000",
+    "title": "What U.S. and UK workforce chiefs want HR to know about AI and hiring",
+    "link": "https://hrexecutive.com/what-u-s-and-uk-workforce-chiefs-want-hr-to-know-about-ai-and-hiring/",
+    "summary": "U.S. Department of Labor's Taylor Stockton and UK AI Minister Kanishka Narayan say data shows heavy AI adopters have grown headcount 10%. The post What U.S. and UK workforce chiefs want HR to know about AI and hiring appeared first on HR Executive .",
+    "publishedAt": "2026-07-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-fallacy-of-the-safe-role-why-your-career-security-is-an--1784634336000",
+    "title": "The fallacy of the safe role: Why your career security is an inside job",
+    "link": "https://hrexecutive.com/the-fallacy-of-the-safe-role-why-your-career-security-is-an-inside-job/",
+    "summary": "Many professionals are hunting for a guarantee of career survival rather than confronting the more urgent questions of market relevance. The post The fallacy of the safe role: Why your career security is an inside job appeared first on HR Executive .",
+    "publishedAt": "2026-07-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-hsbc-singapore-makes-a-structural-shift-to-employee-wellbein-1784633416000",
+    "title": "HSBC Singapore makes a structural shift to employee wellbeing",
+    "link": "https://hrexecutive.com/hsbc-singapore-makes-a-structural-shift-to-employee-wellbeing/",
+    "summary": "HSBC Singapore's people head discusses moving past mere coping mechanisms to embed genuine psychological safety into everyday operations The post HSBC Singapore makes a structural shift to employee wellbeing appeared first on HR Executive .",
+    "publishedAt": "2026-07-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-drug-formulary-rejections-jump-67-1784628953000",
+    "title": "Drug formulary rejections jump 67%",
+    "link": "https://hrexecutive.com/drug-formulary-rejections-jump-67/",
+    "summary": "Formulary rejections rose sharply across payer types, often delaying—or preventing—patients from receiving prescribed medications. The post Drug formulary rejections jump 67% appeared first on HR Executive .",
+    "publishedAt": "2026-07-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
     "id": "news-china-s-ai-models-have-trump-s-ai-world-at-war-with-itself-1784570400000",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -140,70 +225,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-state-of-the-union-understanding-ai-s-impact-on-your-busi-1784297367000",
-    "title": "HR State of the Union: Understanding AI’s Impact on Your Business",
-    "link": "https://hrexecutive.com/hr-state-of-the-union-understanding-ai-impact-on-business/",
-    "summary": "Date &#038; Time: Thursday, July 23, 2026 at 2:00 pm ET In this webinar, Allie K. Miller explores what human-centered AI looks like in practice, sharing real-world examples and practical strategies for implementing AI in ways that are scalable, measurable, and focused on delivering meaningful business results. The post HR State of the Union: Understanding AI’s Impact on Your Business appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-atlassian-8217-s-new-hr-hire-will-decide-how-work-splits-bet-1784291451000",
-    "title": "Atlassian&#8217;s new HR hire will decide how work splits between humans and agents",
-    "link": "https://hrexecutive.com/atlassians-new-hr-hire-will-decide-how-work-splits-between-humans-and-agents/",
-    "summary": "Atlassian VP Alicia Lenart talks about the new HR role for planning human and AI agent capacity, and why the company rejects AI mandates. The post Atlassian&#8217;s new HR hire will decide how work splits between humans and agents appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-google-deepmind-exec-u-s-needs-urgent-action-on-ai-governanc-1784290556000",
-    "title": "Google DeepMind exec: U.S. needs ‘urgent action’ on AI governance",
-    "link": "https://hrexecutive.com/google-deepminds-exec-u-s-needs-urgent-action-on-ai-governance/",
-    "summary": "Thought leader and Google DeepMind exec Demis Hassabis says the United States should convene a standards body to advance best practices. The post Google DeepMind exec: U.S. needs ‘urgent action’ on AI governance appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-layoffs-and-ai-hiring-tools-are-driving-class-action-risk-co-1784289609000",
-    "title": "Layoffs and AI hiring tools are driving class action risk, corporate counsel say",
-    "link": "https://hrexecutive.com/layoffs-and-ai-hiring-tools-are-driving-class-action-risk-corporate-counsel-say/",
-    "summary": "Corporate counsel ranks workforce changes as a top-class action trigger, with employment and AI hiring risk rising fastest at the state level. The post Layoffs and AI hiring tools are driving class action risk, corporate counsel say appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-hr-needs-a-bigger-role-in-m-038-a-success-1784288757000",
-    "title": "Why HR needs a bigger role in M&#038;A success",
-    "link": "https://hrexecutive.com/why-hr-needs-a-bigger-role-in-ma-success/",
-    "summary": "In M&#038;A, deal value is realized through execution, and execution is fundamentally a people challenge. HR needs to be involved sooner. The post Why HR needs a bigger role in M&#038;A success appeared first on HR Executive .",
-    "publishedAt": "2026-07-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-t-1784203800000",
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
@@ -221,30 +242,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
     "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat&#8230;",
     "publishedAt": "2026-07-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-mo-1784135377000",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
-    "publishedAt": "2026-07-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-a-useful-quantum-machine-and-a-record-breaking--1784117400000",
-    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
-    "publishedAt": "2026-07-15",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -652,7 +649,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RNjQuMjM2LjEzNS4yMw== when applying to show you read the job post completely ("
+      "Please mention the word **REVIVES** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely ("
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -724,7 +721,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "There are no articles in this category",
       "If subcategories display on this page, they may have articles",
-      "Please mention the word **PRECISE** and tag RNjQuMjM2LjEzNS4yMw== when applying to show you read the job post completely (#RNjQuMjM2LjEzNS4yMw==)",
+      "Please mention the word **PRECISE** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMQ==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -741,7 +738,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Ãnete a Stay Unique y sÃ© parte de una experiencia Ãºnica",
-      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RNjQuMjM2LjEzNS4yMw== when applying to show you read the job post completely (#RNjQuMjM2LjEzNS4yMw==)",
+      "Somos Stay Unique, gestionamosâ¦ Please mention the word **MATCHLESS** and tag RMTMuODMuMTYwLjEzMQ== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMQ==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [
@@ -770,4 +767,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-21T07:41:49.987Z';
+export const dataFetchedAt = '2026-07-21T13:03:57.955Z';
