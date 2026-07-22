@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-nasa-s-new-space-telescope-and-openai-8217-s-au-1784722200000",
+    "title": "The Download: NASA’s new space telescope and OpenAI&#8217;s autonomous hacker",
+    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+    "publishedAt": "2026-07-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-shape-shifting-mirrors-on-nasa-s-new-space-telescope-could-u-1784710800000",
     "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
     "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
@@ -11,6 +23,97 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-workforce-readiness-in-the-age-of-ai-where-do-you-stand-and--1784731014000",
+    "title": "Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next?",
+    "link": "https://hrexecutive.com/workforce-readiness-in-the-age-of-ai/",
+    "summary": "Date &#038; Time: Thursday, August 20, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone workforce readiness experts and HR practitioners who will share first-hand experience building adaptive workforces inside real organizations:. The post Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next? appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-week-124-invisible-learning-building-skills-at-the-pace-o-1784728450000",
+    "title": "AI Week &#124; Invisible Learning: Building Skills at the Pace of Work",
+    "link": "https://hrexecutive.com/ai-week-invisible-learning-building-skills-pace-of-work/",
+    "summary": "Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore invisible learning and how to move beyond traditional training to build skills continuously, in the flow of work. The post AI Week | Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-s-behind-apple-s-explosive-suit-against-openai-1784723443000",
+    "title": "What’s behind Apple’s explosive suit against OpenAI?",
+    "link": "https://hrexecutive.com/whats-behind-apples-explosive-suit-against-openai/",
+    "summary": "The two tech giants are about to go head to head in court over allegations Apple poached employees and encouraged them to share trade secrets. The post What’s behind Apple’s explosive suit against OpenAI? appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-small-businesses-losing-talent-with-8216-one-size-fits-all-8-1784722524000",
+    "title": "Small businesses losing talent with &#8216;one-size-fits-all&#8217; benefits",
+    "link": "https://hrexecutive.com/small-businesses-losing-talent-with-one-size-fits-all-benefits/",
+    "summary": "\"Today's workforce needs aren't one-size-fits-all anymore, but many small businesses still feel forced into one-size-fits-all benefits,\" according to a recent report. The post Small businesses losing talent with &#8216;one-size-fits-all&#8217; benefits appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-disney-8217-s-restructuring-claims-more-layoffs-at-pixar-esp-1784721640000",
+    "title": "Disney&#8217;s restructuring claims more layoffs at Pixar, ESPN and National Geographic",
+    "link": "https://hrexecutive.com/disneys-restructuring-claims-more-layoffs-at-pixar-espn-and-national-geographic/",
+    "summary": "Disney cut several hundred jobs at Pixar, ESPN and National Geographic, following earlier 2026 cuts under CEO Josh D’Amaro. The post Disney&#8217;s restructuring claims more layoffs at Pixar, ESPN and National Geographic appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-america-8217-s-layoff-safety-net-was-built-for-a-different-e-1784720739000",
+    "title": "America&#8217;s layoff safety net was built for a different economy, and AI is about to break it",
+    "link": "https://hrexecutive.com/americas-layoff-safety-net-was-built-for-a-different-economy-and-ai-is-about-to-break-it/",
+    "summary": "The architecture for something better already exists. What is missing is the coordination and the political will to build it before the wave hits. The post America&#8217;s layoff safety net was built for a different economy, and AI is about to break it appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-sonderling-confirmation-overtime-independent-contractor-rule-1784719831000",
+    "title": "Sonderling confirmation: Overtime, independent contractor rules get big audience",
+    "link": "https://hrexecutive.com/sonderling-confirmation-overtime-independent-contractor-rules-get-big-audience/",
+    "summary": "At a recent Senate hearing, acting DOL Secretary Keith Sonderling testified about recent policy changes and his outlook for AI and the American workforce. The post Sonderling confirmation: Overtime, independent contractor rules get big audience appeared first on HR Executive .",
+    "publishedAt": "2026-07-22",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -75,30 +178,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hsbc-singapore-makes-a-structural-shift-to-employee-wellbein-1784633416000",
-    "title": "HSBC Singapore makes a structural shift to employee wellbeing",
-    "link": "https://hrexecutive.com/hsbc-singapore-makes-a-structural-shift-to-employee-wellbeing/",
-    "summary": "HSBC Singapore's people head discusses moving past mere coping mechanisms to embed genuine psychological safety into everyday operations The post HSBC Singapore makes a structural shift to employee wellbeing appeared first on HR Executive .",
-    "publishedAt": "2026-07-21",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-drug-formulary-rejections-jump-67-1784628953000",
-    "title": "Drug formulary rejections jump 67%",
-    "link": "https://hrexecutive.com/drug-formulary-rejections-jump-67/",
-    "summary": "Formulary rejections rose sharply across payer types, often delaying—or preventing—patients from receiving prescribed medications. The post Drug formulary rejections jump 67% appeared first on HR Executive .",
-    "publishedAt": "2026-07-21",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-china-s-ai-models-have-trump-s-ai-world-at-war-with-itself-1784570400000",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -137,70 +216,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ghost-job-postings-are-now-in-lawmakers-8217-crosshairs-1784550645000",
-    "title": "Ghost job postings are now in lawmakers&#8217; crosshairs",
-    "link": "https://hrexecutive.com/ghost-job-postings-are-now-in-lawmakers-crosshairs/",
-    "summary": "Ghost job fines are coming, ghosting is at record highs and research says discouraged candidates may not come back. The post Ghost job postings are now in lawmakers&#8217; crosshairs appeared first on HR Executive .",
-    "publishedAt": "2026-07-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-adp-ceo-maria-black-leads-through-uncertain-times-1784548853000",
-    "title": "How ADP CEO Maria Black leads through uncertain times",
-    "link": "https://hrexecutive.com/how-adp-ceo-maria-black-leads-through-uncertain-times/",
-    "summary": "CEO Maria Black, marking her 30th year at ADP, says that managing a workforce is only getting more complex, and so is HR’s role. The post How ADP CEO Maria Black leads through uncertain times appeared first on HR Executive .",
-    "publishedAt": "2026-07-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-coalition-warns-of-8216-historic-health-coverage-losses-8217-1784547912000",
-    "title": "Coalition warns of &#8216;historic health coverage losses&#8217; up to 43 million in U.S.",
-    "link": "https://hrexecutive.com/coalition-warns-of-historic-health-coverage-losses-up-to-43-million-in-u-s/",
-    "summary": "The groups, including the NAACP, estimate that sticking with the current rules will increase the number of uninsured people by 50%. The post Coalition warns of &#8216;historic health coverage losses&#8217; up to 43 million in U.S. appeared first on HR Executive .",
-    "publishedAt": "2026-07-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-faster-hiring-weaker-trust-ai-is-reshaping-identity-risk-1784547909000",
-    "title": "Faster hiring, weaker trust? AI is reshaping identity risk",
-    "link": "https://hrexecutive.com/faster-hiring-weaker-trust-ai-is-reshaping-identity-risk/",
-    "summary": "As hiring accelerates, how do you keep trust when speed outpaces verification? AI may be improving efficiency, but is introducing new risks. The post Faster hiring, weaker trust? AI is reshaping identity risk appeared first on HR Executive .",
-    "publishedAt": "2026-07-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-kyndryl-chro-3-strategies-to-become-an-ai-pacesetter-1784547057000",
-    "title": "Kyndryl CHRO: 3 strategies to become an AI ‘Pacesetter’",
-    "link": "https://hrexecutive.com/kyndryl-chro-3-strategies-to-become-an-ai-pacesetter/",
-    "summary": "A new study from Kyndryl finds a drop in AI workforce readiness, highlighting a growing problem for HR. Kyndryl's CHRO offers strategies to stay ahead and why the Human Systems Architect role could be key. The post Kyndryl CHRO: 3 strategies to become an AI ‘Pacesetter’ appeared first on HR Executive .",
-    "publishedAt": "2026-07-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-download-perimenopause-misinformation-and-china-8217-s-l-1784290200000",
     "title": "The Download: perimenopause misinformation and China&#8217;s latest AI leap",
     "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
@@ -230,18 +245,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
     "publishedAt": "2026-07-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-t-1784203800000",
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
-    "publishedAt": "2026-07-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -637,6 +640,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135144",
+    "title": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE",
+    "company": "Portal Vagas Terceiro Setor",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "PJ OU MEI @Vagas Terceiro Setor Esta vaga foi visualizada por 7 pessoas",
+      "PUBLICIDADE AtenÃ§Ã£o: Leia a descriÃ§Ã£o completa",
+      "Tenha atenÃ§Ã£o aos detalhes e boa sorte",
+      "[IMPORTANTE: NÃ£o fazemos contrataÃ§Ãµes, apenas divulgamos as vagas] DescriÃ§Ã£o da Vaga em LideranÃ§a de Produtos Educacionais- Ass"
+    ],
+    "skills": [],
+    "location": "Agudos, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lideranca-de-produtos-educacionais-associacao-cactus-sp-ou-ce-portal-vagas-terceiro-setor-1135144",
+    "postedAt": "2026-07-21",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135130",
     "title": "Testing Recommendation Step",
     "company": "Jacobs",
@@ -657,8 +678,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "YO HR Consultancy",
     "category": "hybrid_ai",
     "responsibilities": [
-      "This is a beta feature to avoid spam applicants",
-      "Companies can sear"
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "Remote",
@@ -676,7 +696,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RMjAuMTYxLjMwLjU0 when applying to show you read the job post completely (#RMj"
+      "Please mention the word **REVIVES** and tag RMTcyLjE3NC4xMTAuMTMy when applying to show you read the job post completely ("
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -742,4 +762,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-22T09:17:20.667Z';
+export const dataFetchedAt = '2026-07-22T15:53:28.395Z';
