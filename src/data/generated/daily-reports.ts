@@ -2,6 +2,93 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-23-auto",
+    "date": "2026-07-23",
+    "session": "auto",
+    "title": "2026-07-23 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-23-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: NASA’s new space telescope and OpenAI&#8217;s autonomous hacker",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+      },
+      {
+        "id": "sig-2026-07-23-auto-2",
+        "emoji": "⚠️",
+        "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+        "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
+        "detail": "来源: MIT Technology Review。When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/"
+      },
+      {
+        "id": "sig-2026-07-23-auto-3",
+        "emoji": "🚨",
+        "title": "Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next?",
+        "summary": "Date &#038; Time: Thursday, August 20, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone workforce readiness experts and HR practitioners who will share first-hand experience building adaptive workforces inside real organizations:. The post Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next? appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Thursday, August 20, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone workforce readiness experts and HR practitioners who will share first-hand experience building adaptive workforces inside real organizations:. The post Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next? appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/workforce-readiness-in-the-age-of-ai/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-23-1",
+        "priority": "medium",
+        "action": "关注「The Download: NASA’s new space telescope」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-23-2",
+        "priority": "medium",
+        "action": "关注「Shape-shifting mirrors on NASA’s new spa」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-23-3",
+        "priority": "high",
+        "action": "关注「Workforce Readiness in the Age of AI: Wh」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 46,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-23 生成，聚合了 20 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-07-23 00:00 - 2026-07-23 23:59"
+  },
+  {
     "id": "report-2026-07-22-auto",
     "date": "2026-07-22",
     "session": "auto",

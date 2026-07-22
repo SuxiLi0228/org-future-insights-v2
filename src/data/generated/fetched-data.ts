@@ -56,7 +56,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-what-s-behind-apple-s-explosive-suit-against-openai-1784723443000",
     "title": "What’s behind Apple’s explosive suit against OpenAI?",
     "link": "https://hrexecutive.com/whats-behind-apples-explosive-suit-against-openai/",
-    "summary": "The two tech giants are about to go head to head in court over allegations Apple poached employees and encouraged them to share trade secrets. The post What’s behind Apple’s explosive suit against OpenAI? appeared first on HR Executive .",
+    "summary": "The two tech giants are about to go head to head in court over allegations OpenAI poached employees and encouraged them to share trade secrets. The post What’s behind Apple’s explosive suit against OpenAI? appeared first on HR Executive .",
     "publishedAt": "2026-07-22",
     "source": "HR Executive",
     "tags": [
@@ -696,7 +696,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RMTcyLjE3NC4xMTAuMTMy when applying to show you read the job post completely ("
+      "Please mention the word **REVIVES** and tag RMTM1LjIzMi4xODQuMjEx when applying to show you read the job post completely ("
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -744,22 +744,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-details-majer-unternehmens-gruppe-1135040",
     "postedAt": "2026-07-19",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135037",
-    "title": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
-    "company": "BuscarVagas - Empregos Brasil",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "O que buscamos Requisitos DesejÃ¡vel ter uma boa dicÃ§Ã£o, ter fÃ¡cil acesso a Boa Viagem"
-    ],
-    "skills": [],
-    "location": "Recife, Recife, Pernambuco, Brasil",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
-    "postedAt": "2026-07-18",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-22T15:53:28.395Z';
+export const dataFetchedAt = '2026-07-22T20:19:20.113Z';
