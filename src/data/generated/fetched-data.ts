@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-shape-shifting-mirrors-on-nasa-s-new-space-telescope-could-u-1784710800000",
+    "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+    "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+    "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
+    "publishedAt": "2026-07-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-chinese-ai-divides-the-white-house-and-a-record-1784635800000",
     "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
     "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -235,406 +247,390 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology"
     ]
-  },
-  {
-    "id": "news-why-heat-pumps-are-still-so-hot-in-the-us-1784196000000",
-    "title": "Why heat pumps are still so hot in the US",
-    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-    "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat&#8230;",
-    "publishedAt": "2026-07-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.18237v1",
-    "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+    "id": "arxiv-2607.19345v1",
+    "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
     "authors": [
-      "Sheng-Yu Wang",
-      "Yotam Nitzan",
-      "Aaron Hertzmann",
-      "Jun-Yan Zhu",
-      "Eli Shechtman",
-      "Alexei A. Efros",
-      "Richard Zhang"
+      "Lizhe Fang",
+      "Weizhou Shen",
+      "Tianyi Tang",
+      "Yisen Wang"
     ],
-    "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a large-scale dataset of human similarity judgments over image triplets, where each triplet is annotated across multiple, free-form semantic aspects of similarity. Benchmarking a broad range of frontier vision-language models (VLMs) reveals a considerable performance gap compared to human annotators' consensus. Leveraging our data, we fine-tune a VLM to produce our Text-Prompted Image Perceptual Similarity (TPIPS) metric, capturing multiple senses of visual similarity depending ",
-    "link": "http://arxiv.org/abs/2607.18237v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18236v1",
-    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-    "authors": [
-      "Gaoyue Zhou",
-      "Zichen Jeff Cui",
-      "Ada Langford",
-      "Bowen Tan",
-      "Yann LeCun",
-      "Lerrel Pinto"
-    ],
-    "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial detail and the benefits of large-scale visual pre-training. While there exist policies that do operate on dense patch features like large vision-language-action models (VLAs), they tend to be heavy and slow, inheriting the full cost of a billion-parameter vision-language model (VLM) backbone. We close this gap with Patch Policy, a minimal architectural extension that enables transformer-based policies to consume dense pre-trained patch tokens directly without the computational overhead of a full VLM",
-    "link": "http://arxiv.org/abs/2607.18236v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.RO",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18235v1",
-    "title": "Automated Discovery Has No Universally Superior Harness",
-    "authors": [
-      "Akshat Gupta",
-      "Jermaine Lei",
-      "Alexander Lu",
-      "Gopala Anumanchipalli",
-      "Leshem Choshen"
-    ],
-    "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery runs are expensive and inherently stochastic, existing harnesses are often compared using too few independent trials to distinguish key methodological improvements from run-to-run variance. We systematically decompose OpenEvolve-style evolutionary search and the TTT-Discover search harness into its constituent components and systematically evaluate 30 budget-matched harnesses across 12 model-problem pairs using more than 3.1 million LLM rollouts and repeated-trial statistical analysis. Our resu",
-    "link": "http://arxiv.org/abs/2607.18235v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive across frontier long-context LLMs and intensifies with context length. By separating each prompt into task-relevant key evidence and irrelevant distractor context, we further show that the root cause is insufficient grounding: models copy from the prompt indiscriminately, and those that fail to focus on key evidence are far more likely to answer i",
+    "link": "http://arxiv.org/abs/2607.19345v1",
+    "publishedAt": "2026-07-21",
     "categories": [
       "cs.CL",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.18232v1",
-    "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+    "id": "arxiv-2607.19344v1",
+    "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
     "authors": [
-      "Kevin Du",
-      "Clara Kümpel",
-      "Michelle Wastl",
-      "Alex Warstadt"
+      "Rahul Sajnani",
+      "Yulia Gryaditskaya",
+      "Radomír Měch",
+      "Srinath Sridhar",
+      "Matheus Gadelha"
     ],
-    "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presuppositions, evidential and certainty markers, or varied tones - each of which may have a different persuasiveness over the LLMs. We introduce a typology to systematically evaluate how different EoBs affect whether models follow context versus prior knowledge. The typology is grounded in four linguistically motivated dimensions: form, evidentiality, epistemic stance, and tone, spanning 17 fine-grained types. By pairing these EoBs with world knowledge facts, we generate controlled EoB-query pairs t",
-    "link": "http://arxiv.org/abs/2607.18232v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that guide DiTs toward the correct appearance cues at the correct spatial locations by aligning text or image inputs with user-specified masks. Appearance pointers are produced by a region correspondence network and refined through a spatial aggregation mechanism, enabling the model to handle multiple regi",
+    "link": "http://arxiv.org/abs/2607.19344v1",
+    "publishedAt": "2026-07-21",
     "categories": [
-      "cs.CL"
+      "cs.CV",
+      "cs.AI",
+      "cs.GR"
     ]
   },
   {
-    "id": "arxiv-2607.18230v1",
-    "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+    "id": "arxiv-2607.19338v1",
+    "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
     "authors": [
-      "Yi Tang",
-      "Xinyi Shang",
-      "Jiacheng Cui",
-      "Sondos Mahmoud Bsharat",
-      "Jiacheng Liu",
-      "Xiaohan Zhao",
-      "Tran Dinh Tien",
-      "Ahmed Elhagry",
-      "Salwa K. Al Khatib",
-      "Tianjun Yao",
-      "Yonina C. Eldar",
-      "Jing-Hao Xue",
-      "Hao Li",
-      "Salman Khan",
-      "Zhiqiang Shen"
+      "Qijia He",
+      "Jiayi Cheng",
+      "Chenqian Le",
+      "Rui Wang",
+      "Xunmei Liu",
+      "Yixian Chen",
+      "Jie Mei",
+      "Zhihao Wang",
+      "Xupeng Chen",
+      "Yuhuan Chen",
+      "Tao Wang"
     ],
-    "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering detection in modern VLMs like ChatGPT, Gemini, Qwen-Image, etc., aiming to learn tampering localization models that remain robust across diverse VLM-generated manipulation distributions. We propose a simple yet effective domain-generalized training framework built on two practical strategies. First, we introduce a balanced minibatch sampling scheme that strategically samples tampered and real images in each minibatch, preventing biased optimization toward either manipulated artifac",
-    "link": "http://arxiv.org/abs/2607.18230v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive model. In coding, however, execution feedback can also make further cheap-model recovery worthwhile, raising a budgeted deployment question: when should an agent spend more cheap compute, and when should it escalate? We formulate this post-failure decision as recovery routing over heterogeneous actions and train a supervised router from execution rollouts. To make the same router usable under changing budgets, we add a Conformal Risk Control (CRC) layer that selects a deployment",
+    "link": "http://arxiv.org/abs/2607.19338v1",
+    "publishedAt": "2026-07-21",
     "categories": [
-      "cs.CV",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.18228v1",
-    "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+    "id": "arxiv-2607.19336v1",
+    "title": "Agents in the Wild: Where Research Meets Deployment",
     "authors": [
-      "Brian K Chen"
+      "Grace Hui Yang",
+      "Pranav N. Venkit",
+      "Hooman Sedghamiz",
+      "Enrico Santus",
+      "Victor Dibia",
+      "Ioana Baldini"
     ],
-    "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled variations in logical form and interface. By studying which prefixes succeed and how their effects generalize, we characterize how learned contextual pressure can override correct judgments and expose limits in a model's logical stability. Across Qwen3.6-35B-A3B MoE, Qwen3-8B, and Gemma 4 31B, learned prefixes redirect many correct answers and remain effective across unseen forms and interface changes. In repeated tests with Qwen3.6 MoE and Gemma, they outperform paired random controls in all 16 mod",
-    "link": "http://arxiv.org/abs/2607.18228v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, and finance. While academic work has emphasized benchmarks and algorithmic innovation, deployment raises new challenges around robustness, safety, and reliability. This tutorial brings together researchers and practitioners to explore advances in reasoning and planning, multi agent coordination, and evaluation, highlighting open challenges arising from deployment experience. Through applied case studies in pharmaceutical discovery and financial systems, we analyze common design patterns that make ",
+    "link": "http://arxiv.org/abs/2607.19336v1",
+    "publishedAt": "2026-07-21",
     "categories": [
       "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.18226v1",
-    "title": "Causal Discovery on Irregular Time Series",
+    "id": "arxiv-2607.19335v1",
+    "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
     "authors": [
-      "Martim Penim",
-      "Ricardo Ribeiro Pereira",
-      "Jacopo Bono",
-      "Hugo Ferreira",
-      "Mário A. T. Figueiredo",
-      "Pedro Bizarro"
+      "Davide Murari",
+      "Marta Ghirardelli",
+      "Ben Adcock",
+      "Elena Celledoni",
+      "Brynjulf Owren",
+      "Carola-Bibiane Schönlieb"
     ],
-    "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as sensor streams, healthcare data, and financial transactions. In this work, we propose an extension of PCMCI+, a state-of-the-art method for causal discovery on regular multivariate time series, to allow for handling irregular time series. Instead of modelling causal relations through fixed-lag dependencies, our method aggregates causal influence over predefined temporal windows. We evaluate our method on synthetic irregular event streams with known causal structures under different signal-to-noise ra",
-    "link": "http://arxiv.org/abs/2607.18226v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are of gradient-descent type, $1$-Lipschitz, and quasi-$α$-firmly nonexpansive. The core building blocks of the proposed architecture are Busemann functions, and we exploit the properties of Busemann gradient flows to design $1$-Lipschitz geometry-preserving layers. We provide explicit constructions and examples for hyperbolic manifolds and the manifold of symmetric positive definite (SPD) matrices. We test the proposed architecture in two numerical experiments: robust classification on the Poincaré ",
+    "link": "http://arxiv.org/abs/2607.19335v1",
+    "publishedAt": "2026-07-21",
     "categories": [
-      "cs.LG",
-      "stat.ME"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18225v1",
-    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
-    "authors": [
-      "Masahiro Kato",
-      "Taka Kato"
-    ],
-    "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the generator estimates conditional expected outcomes or their contrasts, and a plug-in rule selects an action. This formulation connects action-specific vector search with nearest-neighbor matching in causal inference. We decompose the regret of the two-step method into candidate-generation regret and within-candidate choice regret, and we bound the latter using prediction-error guarantees for nearest-neighbor estimators and transformers. We evaluate the one-step method directly as a policy because its ",
-    "link": "http://arxiv.org/abs/2607.18225v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "econ.EM",
-      "cs.LG",
-      "math.ST",
-      "stat.ME",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18218v1",
-    "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
-    "authors": [
-      "Naoto Usuyama",
-      "Jeya Maria Jose Valanarasu",
-      "Sicong Yao",
-      "Hanwen Xu",
-      "Jaspreet Bagga",
-      "Guanghui Qin",
-      "Robert E. Kramer",
-      "Cliff Wong",
-      "Soohee Lee",
-      "Hao Qiu",
-      "Theodore Zhengde Zhao",
-      "Racheli Ben Shimol",
-      "Angela Crabtree",
-      "Kevin Matlock",
-      "Eduardo Alejandro Lozano Garcia",
-      "Naiteek Sangani",
-      "Alberto Santamaria-Pang",
-      "Jason Entenmann",
-      "Alexandra Q. Bartlett",
-      "Bill J. Wright",
-      "Bernard A. Fox",
-      "Brian Piening",
-      "Sheng Zhang",
-      "Sheng Wang",
-      "Tristan Naumann",
-      "Carlo Bifulco",
-      "Hoifung Poon"
-    ],
-    "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spans diverse data sources, architectures, and downstream applications. However, most pretrained models operate only at the image-tile level, use restrictive licenses, and remain computationally expensive, limiting large-scale slide-level clinical and research use. Here, we introduce GigaPath-Flash and GigaTIME-Flash, efficient models for whole-slide pathology AI and spatial proteomics prediction. GigaPath-Flash combines a 22M-parameter ViT-S tile encoder with a 21M-parameter LongNet slide encoder,",
-    "link": "http://arxiv.org/abs/2607.18218v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18213v1",
-    "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-    "authors": [
-      "Yuhang Wang",
-      "Yuling Shi",
-      "Shaoqiu Zhang",
-      "Jialiang Liang",
-      "Shilin He",
-      "Siyu Ye",
-      "Yuting Chen",
-      "Kai Cai",
-      "Xiaodong Gu"
-    ],
-    "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this finding, we propose SWE-Pruner Pro, which prunes tool outputs directly inside the agent. Concretely, a small head turns the agent's own internal representations into a keep-or-prune label for each line, with a length-aware embedding keyed to each tool output's line count. Across two open-weight backbones and four multi-turn benchmarks, SWE-Pruner Pro saves up to 39% of prompt and completion tokens while preserving task quality, with bounded inf",
-    "link": "http://arxiv.org/abs/2607.18213v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CL",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18209v1",
-    "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
-    "authors": [
-      "Yihong Gu",
-      "Katherine Liao",
-      "Tianxi Cai"
-    ],
-    "summary": "This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environments. The joint distribution of the covariates may vary across environments, whereas the latent structure is decomposed into invariant factors with shared loadings and heterogeneous factors with environment-specific loadings. Such a model is motivated by transfer learning and latent factor regression, where one seeks stable low-dimensional representations for both interpretation and robust out-of-sample prediction of the response $Y$. Leveraging the invariance principle, we show that the invariant and heterogeneous factors are disentangled under a minimal structural condition. Based on this, we",
-    "link": "http://arxiv.org/abs/2607.18209v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "math.ST",
-      "cs.LG",
-      "stat.ME",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18200v1",
-    "title": "Learning Adaptive Safety Margins for Visual Navigation",
-    "authors": [
-      "Junyi Hu",
-      "Shuaihang Yuan",
-      "Geeta Chandra Raju Bethala",
-      "Anthony Tzes",
-      "Yi Fang"
-    ],
-    "summary": "Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts, while permissive margins lead to near-boundary shortcuts under perception bias. Diffusion-based planners propose diverse trajectory candidates from egocentric RGB-D, yet reliable selection remains the bottleneck. We propose a context-conditioned safety critic that learns an adaptive clearance preference for ranking diffusion proposals, decomposed into three complementary terms: (i) a safety term with a clearance-budget penalty and a control-barrier-function residual for waypoint- and transition-wise safety, (ii) an efficiency term combining a smoothness penalty with a safety-gated detour-rat",
-    "link": "http://arxiv.org/abs/2607.18200v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18199v1",
-    "title": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
-    "authors": [
-      "Hang Zhang",
-      "Warren J. Gross"
-    ],
-    "summary": "Not all training samples contribute equally to large language model fine-tuning. Selecting informative training samples can reduce the computational cost while preserving downstream performance. Many existing data selection methods rely on indirect heuristics, such as data quality, diversity or reasoning trace length. However, the effectiveness of these fixed criteria is task-dependent and difficult to generalize across diverse downstream tasks. Perplexity-based data selection provides a simple and model-aware solution to estimate the sample difficulty, but existing approaches typically score the entire training sequence and ignore the difference in learning objectives of language modeling and reasoning tasks. In this paper, we propose PPL-Factory, a simple and interpretable data selection",
-    "link": "http://arxiv.org/abs/2607.18199v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CL",
+      "math.NA",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.18198v1",
-    "title": "Three-Body Scattering for Generative Modeling",
+    "id": "arxiv-2607.19334v1",
+    "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
     "authors": [
-      "Peng Sun",
-      "Zhenglin Cheng",
-      "Deyuan Liu",
-      "Jun Xie",
-      "Xinyi Shang",
-      "Tao Lin"
+      "Ioannis Papageorgiou",
+      "Srinivas Nomula",
+      "Ayalvadi Ganesh",
+      "Sidharth Jaggi",
+      "Parimal Parag"
     ],
-    "summary": "Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct regression supervision for a one-step generator. Three-Body Scattering Modeling (TBSM) for generation turns the energy distance into a constant-size per-projectile interaction: each projectile is attracted toward one real source and repelled from one independently generated source. Conditioned on the projectile and its condition, its expectation equals the $2$-Wasserstein gradient-flow velocity of $\\frac12D_E^2(P_θ,Q)$. A batch of $B$ frozen-target events yields $O(B)$ sample-level losses, each using one reference for its condition instead of the minibatch",
-    "link": "http://arxiv.org/abs/2607.18198v1",
-    "publishedAt": "2026-07-20",
+    "summary": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner with each agent performing a relatively straightforward task. We study the fundamental performance limits of such a classifier when the corresponding binary classifiers are hyperplanes. For a stylized Gaussian setting where the $K$ class centers are independent Gaussian points in $\\mathbb R^d$ and the observations are corrupted by Gaussian noise, we derive explicit performance bounds across several decoding and dimensional regimes. Extensive simulation experiments provide strong empirical validation of the presented theoretical results.",
+    "link": "http://arxiv.org/abs/2607.19334v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "stat.ML",
+      "cs.IT",
+      "cs.LG",
+      "math.ST"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19333v1",
+    "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+    "authors": [
+      "Yuchen Jiao",
+      "Na Li",
+      "Changxiao Cai",
+      "Yuxin Chen",
+      "Gen Li"
+    ],
+    "summary": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substantial computational overhead. We propose a simple and efficient algorithm, called \\pddim, for solving linear inverse problems with diffusion priors via a DDIM-type sampler. Our method requires only lightweight, coordinate-wise modifications to the standard DDIM update, while explicitly incorporating the measurement model. The key idea is to perform posterior sampling separately along each singular direction of the measurement operator: for each direction, the sampler follows the learned diffusion prior when the observation signal-to-noise ratio (SNR) is below the corresponding diffusion SNR, and ",
+    "link": "http://arxiv.org/abs/2607.19333v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19332v1",
+    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+    "authors": [
+      "Chirag Vashist",
+      "Ke Li"
+    ],
+    "summary": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs about what drives strong empirical performance have taken hold. Due to the success of diffusion models and flow matching, one of the more common beliefs is the importance of transforming the noise distribution to the data distribution gradually through many small transformations. We ask whether this is truly necessary, and take a minimalist approach to designing a competitive generative model. We start with the bare-bones essentials, namely just a training objective and a model. We purposefully make both simple. For the training objective, we choose Implicit Maximum Likelihood Estimation (IMLE), ",
+    "link": "http://arxiv.org/abs/2607.19332v1",
+    "publishedAt": "2026-07-21",
     "categories": [
       "cs.LG",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2607.18195v1",
-    "title": "Certified Training for Convolutional Perturbations",
+    "id": "arxiv-2607.19331v1",
+    "title": "ISO: An RLVR-Native Optimization Stack",
     "authors": [
-      "Benedikt Brückner",
-      "Alessio Lomuscio"
+      "Hanqing Zhu",
+      "Wenyan Cong",
+      "Zhizhou Sha",
+      "Sagnik Mukherjee",
+      "Xinyuan Song",
+      "David González-Martínez",
+      "Xiaoxia Wu",
+      "Yuandong Tian",
+      "Shiwei Liu",
+      "David Z. Pan",
+      "Zhangyang \"Atlas\" Wang"
     ],
-    "summary": "Vision models have been found to be susceptible to perturbations such as motion blur induced at runtime by a shaking camera. This impedes their deployment in critical applications since phenomena such as slightly blurred vision might lead to failures, for example an object detector missing objects. While methods such as data augmentation or Adversarial Training can improve empirical robustness, they lack formal safety guarantees, making it difficult to identify and mitigate hidden vulnerabilities. We introduce a novel Certified Training approach that leverages an efficient encoding of convolutional perturbations to train provably robust models. Our method significantly outperforms Adversarial Training, achieving, for example, over 80% robust accuracy against motion blur of reasonable inten",
-    "link": "http://arxiv.org/abs/2607.18195v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18187v1",
-    "title": "EVOLVE: Efficient Learned Volume Compression with Variable-Rate Encoding on a Cross-Domain Database",
-    "authors": [
-      "Kaiyuan Tang",
-      "Maizhe Yang",
-      "Chaoli Wang"
-    ],
-    "summary": "Large-scale scientific simulations generate volumetric data at rates that far outpace advances in storage and network bandwidth, making effective lossy compression increasingly critical. However, conventional compressors often struggle to preserve fine structural details at high compression ratios (CRs), and implicit neural representations (INRs) require costly per-volume optimization and produce models with fixed CRs. To respond, we present EVOLVE, an autoencoder (AE)-based volume-compression framework that targets high CRs for offline compression, with three key contributions. First, we construct a large-scale cross-domain database of 6,376 volumes from 21 scientific simulations, curated via perceptual hashing to ensure diversity, enabling the optimized model to extract features that gen",
-    "link": "http://arxiv.org/abs/2607.18187v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.GR",
-      "cs.DB",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18181v1",
-    "title": "VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design",
-    "authors": [
-      "Depeng Su",
-      "Yuyu Luo",
-      "Guobiao Hu"
-    ],
-    "summary": "Battery-free Internet of Things (IoT) requires iterative design of vibration energy harvesters (VEHs) under coupled physical constraints, while LLMs are emerging as interface layers for engineering workflows. However, existing engineering benchmarks primarily assess final artifact validity, offering limited insights into how LLMs behave across different stages of coupled physical design. We introduce VEHBench, an engineering-native diagnostic benchmark for LLM-assisted VEH design, featuring 763 literature-grounded tasks scored by an analytical physical oracle. VEHBench evaluates four design roles: specification triage, verifier-guided search, corrupted-state recovery, and policy-conditioned selection. Experimental results reveal that LLM capability is strongly stage-dependent: no single mo",
-    "link": "http://arxiv.org/abs/2607.18181v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.CL",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18171v1",
-    "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
-    "authors": [
-      "Krish Agarwal",
-      "Zhuoming Chen",
-      "Yanyuan Qin",
-      "Zhenyu Gu",
-      "Atri Rudra",
-      "Beidi Chen"
-    ],
-    "summary": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisions about placement, streaming, and intra-model parallelism. Existing serving systems and auto-parallelism compilers commit to limited transformations and fixed workload assumptions, so achieving high performance on a new application requires hand-crafting an efficient implementation. We present FlashRT, an agent harness that guides coding agents to lift simple developer-written reference implementations into optimized multi-GPU deployments that flexibly weigh target metrics like latency and throughput. Using a new chain-of-program paradigm, FlashRT directs a generic coding agent through a mult",
-    "link": "http://arxiv.org/abs/2607.18171v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18164v1",
-    "title": "A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing",
-    "authors": [
-      "Yi-Ping Chen",
-      "Ying-Kuan Tsai",
-      "Vispi Karkaria",
-      "Seul Lee",
-      "Daniel Apley",
-      "Wei Chen"
-    ],
-    "summary": "Digital Twins rely on surrogate models to mirror physical systems in real time, yet these models can degrade as operating conditions evolve, a phenomenon known as concept drift. Maintaining surrogate fidelity under drift, particularly when models must also capture aleatoric uncertainty, remains an open challenge. Existing adaptive frameworks lack principled mechanisms for detecting when updates are needed, for efficiently adapting models from limited streaming data, and for certifying that updates genuinely improve predictive performance. Here we present an adaptive Digital Twin framework that integrates a Fisher score--based multivariate drift detector, Low-Rank Adaptation (LoRA) for parameter-efficient continual learning, and a Mann--Whitney $U$ test for online statistical validation. Th",
-    "link": "http://arxiv.org/abs/2607.18164v1",
-    "publishedAt": "2026-07-20",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "math.ST"
-    ]
-  },
-  {
-    "id": "arxiv-2607.18163v1",
-    "title": "OR Else: A Differentiable Trust Region for Policy Optimization",
-    "authors": [
-      "Chinmay Rane",
-      "Kanishka Tyagi",
-      "Michael Manry"
-    ],
-    "summary": "PPO and the GRPO baseline studied here use clipped surrogate objectives whose favorable-direction saturation introduces an abrupt change in the scalar objective's derivative. We ask whether Output Reset (OR), a smooth one-sided saturation rule, offers a useful alternative for large language model post-training. PPO-OR and GRPO-OR replace the clipped policy term with an OR squared-margin loss in rollout-relative token log-ratio space; the advantage sign determines the update direction, and a token contributes zero direct OR residual after crossing the favorable margin. We compare PPO-clip with PPO-OR under generalized advantage estimation (GAE), and GRPO with GRPO-OR under group-relative advantages, using \\texttt{Llama-3.2-1B-Instruct} on Anthropic \\texttt{hh-rlhf} with one shared reward mo",
-    "link": "http://arxiv.org/abs/2607.18163v1",
-    "publishedAt": "2026-07-20",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we study this missing layer through the singular structure of model weights and identify spectral inheritance: RLVR can reuse the base model's weight spectra while acquiring new behavior through changes in the associated input and output singular frames. We operationalize spectral inheritance as Isospectral Optimization (ISO), an RLVR-native, fixed-spectrum optimization framework with complementary offline and online instantiations. Offline, ISO-Merger combines the frame changes of shared-base specialists into a",
+    "link": "http://arxiv.org/abs/2607.19331v1",
+    "publishedAt": "2026-07-21",
     "categories": [
       "cs.LG",
       "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19327v1",
+    "title": "Associative Emotional Learning in Convolutional Neural Networks",
+    "authors": [
+      "Seowung Leem",
+      "Andreas Keil",
+      "Mingzhou Ding",
+      "Ruogu Fang"
+    ],
+    "summary": "Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the limitations of these models are also known, especially when they are applied to neural data. The advent of deep neural networks has opened another avenue for modeling associative emotional learning. In this work we proposed a deep neural network model of visual valence processing, consisting of a visual module that encodes complex natural scenes and a module that recognizes their emotional significance in terms of valence, a key dimension of emotion, and tested a novel Pavlovian learning paradigm on the model. The results showed that with learn",
+    "link": "http://arxiv.org/abs/2607.19327v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19326v1",
+    "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+    "authors": [
+      "Atahan Dokme",
+      "Larry Heck"
+    ],
+    "summary": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is proposed that introduces selective state-space recurrence at two complementary granularities. At the token level, \\textbf{MaLoRA} (Mamba-modulated low-rank adaptation) makes the adapter's scaling factor a dynamic input-dependent function with recurrent state across tokens, in contrast to the stateless modulators of prior work. At the context level, \\textbf{MaRA} (Mamba Retrieval Adapter) tracks cross-segment state and selects the segments most relevant to the query, before the modulated language model generates its answer. Across three frozen backbones (Qw",
+    "link": "http://arxiv.org/abs/2607.19326v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19322v1",
+    "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+    "authors": [
+      "Xilun Chen",
+      "Zhaleh Feizollahi",
+      "Ross Goodwin",
+      "Seungwhan Moon",
+      "Scott Yih",
+      "Pinar Donmez",
+      "Babak Damavandi",
+      "Luna Dong"
+    ],
+    "summary": "Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches incorrect claims well but says little about whether a response contains all the information it should. Measuring factual completeness, the missing half of factuality, is harder: it requires enumerating the full set of facts a complete answer should contain, and these facts rarely form a flat list. They often involve open-ended sets where coverage is what matters, ordered processes, and relationships among facts that a list of independent boolean checks fails to capture. We introduce a two-level meta-rubric framework for evaluating open-ended generation, and instantiate it as Gamut (Grounded A",
+    "link": "http://arxiv.org/abs/2607.19322v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19321v1",
+    "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+    "authors": [
+      "Lena Libon",
+      "Ben Rank",
+      "Jehyeok Yeon",
+      "David Schmotz",
+      "Jeremy Qin",
+      "Daniel Donnelly",
+      "Derck Prinzhorn",
+      "Maksym Andriushchenko"
+    ],
+    "summary": "As AI agents begin to automate AI R&D, we need ways to assess whether their outputs are safe to deploy, even when the agents themselves may be untrusted. AI control offers one such approach: rather than trusting the agent, it treats it as a potential adversary and uses a monitor to detect covert sabotage before deployment. We evaluate AI control for automated AI R&D with ResearchArena, a framework spanning four long-horizon tasks: safety post-training, capabilities post-training, CUDA-kernel optimization, and inference-server optimization. Because the deliverable in AI R&D is an artifact that will be deployed and run, we pair each main task with two kinds of hidden side task: an embedded side task that sabotages the submitted model, adapter, kernel, or server itself, and an independent sid",
+    "link": "http://arxiv.org/abs/2607.19321v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19317v1",
+    "title": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability",
+    "authors": [
+      "Pratinav Seth",
+      "Hem Gosalia",
+      "Aditya Kasliwal",
+      "Vinay Kumar Sankarapu"
+    ],
+    "summary": "Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently requires stitching together separate implementations for discovery, evaluation, and intervention, as well as hand-authoring the contrastive prompts required by many discovery methods. This fragmentation makes methods difficult to compare and limits their application beyond canonical tasks. We introduce CircuitKIT, a source-available library that connects the circuit-analysis workflow through a typed, serializable representation. CircuitKIT provides a suite of discovery algorithms, declarative interfaces for mapping structured data into discovery tasks, complementary circuit diagnostics, and downs",
+    "link": "http://arxiv.org/abs/2607.19317v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.ET"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19313v1",
+    "title": "Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information",
+    "authors": [
+      "Priyank Agrawal",
+      "Ankur Samanta",
+      "Shervin Ghasemlou",
+      "Jalaj Bhandari",
+      "Kavosh Asadi",
+      "Daniel Jiang",
+      "Aditya Modi"
+    ],
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) improves reasoning in large language models. Yet, typical RLVR approaches fail on difficult problems: when a model cannot generate any correct solutions, it receives \\textit{zero} learning signal. Providing privileged guidance during training, such as solution prefixes, can help overcome this learning cliff by steering the model towards {correct solutions with non-zero reward}. {We call these rollouts \\textit{off-context}: they are generated from a training prompt that contains privileged guidance, while the target objective is defined by the original prompt without that guidance.} {We introduce} Off-Context GRPO (OC-GRPO), a minimally modified variant of GRPO that uses guided rollouts but applies an importance-corrected objective to st",
+    "link": "http://arxiv.org/abs/2607.19313v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19312v1",
+    "title": "Staypoint Detection from Noisy Trajectory Data [Experiment Paper]",
+    "authors": [
+      "Lance Kennedy",
+      "Hossein Amiri",
+      "Yueyang Liu",
+      "Riyang Bao",
+      "Hanqi Chen",
+      "Mohammad Hashemi",
+      "Ruochen Kong",
+      "Xiaotong Liu",
+      "Joon-Seok Kim",
+      "Shengpu Tang",
+      "Liang Zhao",
+      "Andreas Züfle"
+    ],
+    "summary": "Detecting staypoints from raw trajectory data is fundamental to numerous spatial computing applications. This process transforms raw numeric sequences of geolocations into semantically meaningful locations, such as homes, workplaces, or restaurants. Despite its importance for semantic trajectory analysis, staypoint detection lacks standard benchmarks, and existing algorithms have never been systematically evaluated. This gap persists because no publicly available datasets provide both raw individual trajectories and ground-truth staypoint annotations. This benchmark paper addresses this limitation with two key contributions: (1) we introduce 16 large-scale simulated datasets capturing thousands of agents with annotated staypoints across varying trajectory noise levels, and (2) we evaluate ",
+    "link": "http://arxiv.org/abs/2607.19312v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "cs.CG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19306v1",
+    "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs",
+    "authors": [
+      "Jason Stanley",
+      "Zhirui Dai",
+      "Qihao Qian",
+      "Tzu-Chin Ho",
+      "Tianxing Fan",
+      "Siddharth Saha",
+      "Christopher Barngrover",
+      "Ki Myung Brian Lee",
+      "Nikolay Atanasov"
+    ],
+    "summary": "Autonomous flight in cluttered environments requires a robot to build a geometric map of its surroundings and plan safe, dynamically feasible trajectories, all onboard and in real time. Conventional approaches treat mapping and planning as separate stages and often rely on binary occupancy for collision checking. We argue that these two stages should be co-designed around a single representation: a signed distance function (SDF). By encoding distance to the nearest obstacle, an SDF provides richer information for planning and trajectory optimization than occupancy alone. We develop an Octree REsidual Network (OREN) that pairs an explicit octree prior with an implicit neural residual to reconstruct SDFs online from point cloud observations with the efficiency of volumetric methods and the a",
+    "link": "http://arxiv.org/abs/2607.19306v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "eess.SY"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19305v1",
+    "title": "Riemannian Deep Learning:Modules, Networks, and Geometries",
+    "authors": [
+      "Chen Ziheng"
+    ],
+    "summary": "Deep neural networks on manifold-valued representations have attracted growing interest, but many basic components remain tied to specific manifolds, rely on Euclidean approximations, or require costly and numerically fragile geometric operations. This thesis develops a unified framework for Riemannian deep learning from three complementary perspectives: reusable neural modules, manifold-specific network architectures, and the design of underlying geometries. It generalizes batch normalization from Euclidean spaces and individual manifolds to broad classes of Lie groups and gyrogroups, and extends multinomial logistic regression from Euclidean space to SPD manifolds and then to general Riemannian manifolds. It further develops neural networks for several important geometric representations",
+    "link": "http://arxiv.org/abs/2607.19305v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "math.DG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19302v1",
+    "title": "Real-time optimal control with shallow recurrent decoder networks",
+    "authors": [
+      "Matteo Tomasetto",
+      "Francesco Braghin",
+      "J. Nathan Kutz",
+      "Andrea Manzoni"
+    ],
+    "summary": "Controlling dynamical systems in real-time across multiple scenarios is critical to enabling adaptive control strategies, ensuring stability and efficiency. However, to tailor control actions in response to varying scenarios, traditional optimal control problems typically require several system simulations, which are often computationally demanding due to the high-dimensionality of the underlying spatio-temporal dynamics. In this work, we exploit SHallow REcurrent Decoder networks-based Reduced Order Modeling (SHRED-ROM) to synthesize a real-time closed-loop controller for high-dimensional and parametric dynamics, relying solely on limited state sensor readings. After training the model on a few optimal examples given by an expert demonstrator, SHRED-ROM mimics the expert behavior with eff",
+    "link": "http://arxiv.org/abs/2607.19302v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ]
+  },
+  {
+    "id": "arxiv-2607.19300v1",
+    "title": "LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior",
+    "authors": [
+      "Meena Jagadeesan",
+      "Tatsunori Hashimoto",
+      "Jon Kleinberg"
+    ],
+    "summary": "As LLM adoption becomes more widespread, there is a growing interest in detecting LLM-generated content, for example through LLM detection tools and through heuristics based on language patterns. Detectors operate as an intervention that steers not only the detected attribute itself, but also downstream metrics such as LLM usage and output quality. In this work, we demonstrate how imperfect LLM detectors lead to counterintuitive impacts on these downstream metrics, by distorting how users are incentivized to use LLMs in their workflow. We develop a stylized model which captures how users strategically choose how much to use the LLM and how to post-process content to reduce the detected attribute. Using this model, we show that LLM detection can counterintuitively lead humans to increase th",
+    "link": "http://arxiv.org/abs/2607.19300v1",
+    "publishedAt": "2026-07-21",
+    "categories": [
+      "cs.AI",
+      "cs.GT"
     ]
   }
 ];
@@ -661,7 +657,8 @@ export const generatedJobs: JobPosting[] = [
     "company": "YO HR Consultancy",
     "category": "hybrid_ai",
     "responsibilities": [
-      "This is a beta feature to avoid spam applicants"
+      "This is a beta feature to avoid spam applicants",
+      "Companies can sear"
     ],
     "skills": [],
     "location": "Remote",
@@ -679,7 +676,7 @@ export const generatedJobs: JobPosting[] = [
       "Anunciada 18:30:41",
       "ð Seja um HerÃ³i da EducaÃ§Ã£o e Conquiste sua Liberdade Financeira na Kodland",
       "ðA Kodland Ã© umaâ¦ - veja esta vaga e outras semelhantes no LinkedIn",
-      "Please mention the word **REVIVES** and tag RNjQuMjM2LjEzNS4xOQ== when applying to show you read the job post completely ("
+      "Please mention the word **REVIVES** and tag RMjAuMTYxLjMwLjU0 when applying to show you read the job post completely (#RMj"
     ],
     "skills": [],
     "location": "Brasil, ",
@@ -745,4 +742,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-21T23:15:30.871Z';
+export const dataFetchedAt = '2026-07-22T09:17:20.667Z';
