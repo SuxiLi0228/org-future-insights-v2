@@ -622,22 +622,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
     "postedAt": "2026-07-20",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135104",
-    "title": "Logistics & Supply Chain Management Expert",
-    "company": "YO HR Consultancy",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This is a beta feature to avoid spam applicants"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
-    "postedAt": "2026-07-20",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-23T13:14:11.395Z';
+export const dataFetchedAt = '2026-07-23T15:52:37.934Z';
