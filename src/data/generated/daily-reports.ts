@@ -2,6 +2,92 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-24-auto",
+    "date": "2026-07-24",
+    "session": "auto",
+    "title": "2026-07-24 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-24-auto-1",
+        "emoji": "💡",
+        "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+        "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+        "detail": "来源: MIT Technology Review。When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
+      },
+      {
+        "id": "sig-2026-07-24-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: energy transmission and US threats against Chinese AI",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+      },
+      {
+        "id": "sig-2026-07-24-auto-3",
+        "emoji": "⚠️",
+        "title": "How AI helps scientists design the next generation of medicines",
+        "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
+        "detail": "来源: MIT Technology Review。Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-24-1",
+        "priority": "low",
+        "action": "关注「Supercooled kidneys have been transplant」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-24-2",
+        "priority": "medium",
+        "action": "关注「The Download: energy transmission and US」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-24-3",
+        "priority": "medium",
+        "action": "关注「How AI helps scientists design the next 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 42,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-24 生成，聚合了 20 条新闻、20 篇论文、2 个岗位。",
+    "fetchWindow": "2026-07-24 00:00 - 2026-07-24 23:59"
+  },
+  {
     "id": "report-2026-07-23-auto",
     "date": "2026-07-23",
     "session": "auto",

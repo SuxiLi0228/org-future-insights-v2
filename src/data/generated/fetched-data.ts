@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-supercooled-kidneys-have-been-transplanted-into-pigs-in-a-la-1784825908000",
+    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+    "publishedAt": "2026-07-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-energy-transmission-and-us-threats-against-chin-1784808600000",
     "title": "The Download: energy transmission and US threats against Chinese AI",
     "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
@@ -232,19 +244,6 @@ export const generatedNews: NewsItem[] = [
     "title": "The Download: AI hiring biases, and weather data sabotage",
     "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
-    "publishedAt": "2026-07-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-ai-is-more-likely-than-humans-to-form-biases-when-hiring-1784536741000",
-    "title": "AI is more likely than humans to form biases when hiring",
-    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
     "publishedAt": "2026-07-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -625,4 +624,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-23T15:52:37.934Z';
+export const dataFetchedAt = '2026-07-23T17:16:21.171Z';
