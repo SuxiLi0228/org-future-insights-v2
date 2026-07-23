@@ -590,6 +590,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135230",
+    "title": "IT Support Trainee",
+    "company": "Work Force Nexus",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Posted 11:49:43 AM",
+      "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
+      "Please mention the word **PARAMOUNT** and tag RNDAuNjUuNTguMTM4 when applying to show you read the job post completely (#RNDAuNjUuNTguMTM4)"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-it-support-trainee-work-force-nexus-1135230",
+    "postedAt": "2026-07-22",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135144",
     "title": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE",
     "company": "Portal Vagas Terceiro Setor",
@@ -606,22 +623,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lideranca-de-produtos-educacionais-associacao-cactus-sp-ou-ce-portal-vagas-terceiro-setor-1135144",
     "postedAt": "2026-07-21",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135130",
-    "title": "Testing Recommendation Step",
-    "company": "Jacobs",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-criti"
-    ],
-    "skills": [],
-    "location": "Anchorage, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
-    "postedAt": "2026-07-20",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-23T19:08:13.342Z';
+export const dataFetchedAt = '2026-07-23T20:58:11.657Z';
