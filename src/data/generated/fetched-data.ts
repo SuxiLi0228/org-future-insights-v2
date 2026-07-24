@@ -622,7 +622,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RNjQuMjM2LjEzMS4yNDI= when applying to show you read the job post completely (#RNjQuMjM2LjEzMS4yNDI="
+      "Please mention the word **PARAMOUNT** and tag RMjAuNDIuNDIuMjEz when applying to show you read the job post completely (#RMjAuNDIuNDIuMjEz)"
     ],
     "skills": [],
     "location": "Remote",
@@ -630,45 +630,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-it-support-trainee-work-force-nexus-1135230",
     "postedAt": "2026-07-22",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135321",
-    "title": "Customer Support Agent Â· Â",
-    "company": "Inspiration Commerce Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About Inspiration Commerce Group (ICG) Weâre a team of ~50 people whoâve done 6 acquisitions in 18 months and scaled from $0 to &gt;$100M in revenue",
-      "Weâre a global group with businesses across the US, UK, and EU",
-      "We buy and build companies that help people find and buy the products they love."
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Split-Dalmatia, Split-Dalmatia, Croatia",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/",
-    "postedAt": "2026-07-21",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135144",
-    "title": "LideranÃ§a de Produtos Educacionais ASSOCIAÃÃO CACTUS SP ou CE",
-    "company": "Portal Vagas Terceiro Setor",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "PJ OU MEI @Vagas Terceiro Setor Esta vaga foi visualizada por 7 pessoas",
-      "PUBLICIDADE AtenÃ§Ã£o: Leia a descriÃ§Ã£o completa",
-      "Tenha atenÃ§Ã£o aos detalhes e boa sorte",
-      "[IMPORTANTE: NÃ£o fazemos contrataÃ§Ãµes, apenas divulgamos as vagas] DescriÃ§Ã£o da Vaga em LideranÃ§a de Produtos Educacionais- Ass"
-    ],
-    "skills": [],
-    "location": "Agudos, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lideranca-de-produtos-educacionais-associacao-cactus-sp-ou-ce-portal-vagas-terceiro-setor-1135144",
-    "postedAt": "2026-07-21",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-24T06:21:57.453Z';
+export const dataFetchedAt = '2026-07-24T10:12:39.402Z';
