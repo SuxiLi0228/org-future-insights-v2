@@ -2,6 +2,83 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-an-organ-transplant-breakthrough-and-homegrown--1784895000000",
+    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+    "publishedAt": "2026-07-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-inside-the-sam-8217-s-club-hr-rule-for-adopting-ai-tools-1784896218000",
+    "title": "Inside the Sam&#8217;s Club HR rule for adopting AI tools",
+    "link": "https://hrexecutive.com/inside-the-sams-club-hr-rule-for-adopting-ai-tools/",
+    "summary": "The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-why-8216-mobley-v-workday-8217-has-far-reaching-legal-impact-1784895352000",
+    "title": "Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders",
+    "link": "https://hrexecutive.com/why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-leaders/",
+    "summary": "Courts have started reaching the merits of the first wave of AI-related discrimination cases like Mobley v. Workday, which will likely open the door for similar suits in the future. The post Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-feds-hope-new-code-list-will-cool-payer-no-surprises-act-rag-1784895331000",
+    "title": "Feds hope new code list will cool payer No Surprises Act rage",
+    "link": "https://hrexecutive.com/feds-hope-new-code-list-will-cool-payer-no-surprises-act-rage/",
+    "summary": "Regulators have posted a code list for the No Surprises Act that plans and providers can use to frame disputes. The post Feds hope new code list will cool payer No Surprises Act rage appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-ford-8217-s-rehire-wave-has-hr-leaders-rethinking-how-ai-lay-1784894431000",
+    "title": "Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided",
+    "link": "https://hrexecutive.com/fords-rehire-wave-has-hr-leaders-rethinking-how-ai-layoffs-get-decided/",
+    "summary": "Ford rehired 350 engineers after AI fell short. Two HR leaders explain what's driving the AI boomerang and how to avoid it. The post Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-uk-workplace-harassment-regs-are-about-to-change-1784892645000",
+    "title": "UK workplace harassment regs are about to change",
+    "link": "https://hrexecutive.com/uk-workplace-harassment-regs-are-about-to-change/",
+    "summary": "Organizations with a presence in the UK have three months to comply with updates to workplace harassment laws. Here's what they need to know. The post UK workplace harassment regs are about to change appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
     "id": "news-supercooled-kidneys-have-been-transplanted-into-pigs-in-a-la-1784825908000",
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
     "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
@@ -139,71 +216,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-week-124-workforce-readiness-in-the-age-of-ai-where-do-yo-1784731014000",
-    "title": "AI Week &#124; Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next?",
-    "link": "https://hrexecutive.com/workforce-readiness-in-the-age-of-ai/",
-    "summary": "Date &#038; Time: Thursday, August 20, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone workforce readiness experts and HR practitioners who will share first-hand experience building adaptive workforces inside real organizations:. The post AI Week | Workforce Readiness in the Age of AI: Where Do You Stand — and What Do You Do Next? appeared first on HR Executive .",
-    "publishedAt": "2026-07-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-ai-week-124-invisible-learning-building-skills-at-the-pace-o-1784728450000",
-    "title": "AI Week &#124; Invisible Learning: Building Skills at the Pace of Work",
-    "link": "https://hrexecutive.com/ai-week-invisible-learning-building-skills-pace-of-work/",
-    "summary": "Date &#038; Time: Tuesday, August 18, 2026 at 2:00 pm ET Part of AI Week, this session features Cornerstone’s Kelly Carmody and Mike Siano who will explore invisible learning and how to move beyond traditional training to build skills continuously, in the flow of work. The post AI Week | Invisible Learning: Building Skills at the Pace of Work appeared first on HR Executive .",
-    "publishedAt": "2026-07-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-s-behind-apple-s-explosive-suit-against-openai-1784723443000",
-    "title": "What’s behind Apple’s explosive suit against OpenAI?",
-    "link": "https://hrexecutive.com/whats-behind-apples-explosive-suit-against-openai/",
-    "summary": "The two tech giants are about to go head to head in court over allegations OpenAI poached employees and encouraged them to share trade secrets. The post What’s behind Apple’s explosive suit against OpenAI? appeared first on HR Executive .",
-    "publishedAt": "2026-07-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-small-businesses-losing-talent-with-8216-one-size-fits-all-8-1784722524000",
-    "title": "Small businesses losing talent with &#8216;one-size-fits-all&#8217; benefits",
-    "link": "https://hrexecutive.com/small-businesses-losing-talent-with-one-size-fits-all-benefits/",
-    "summary": "\"Today's workforce needs aren't one-size-fits-all anymore, but many small businesses still feel forced into one-size-fits-all benefits,\" according to a recent report. The post Small businesses losing talent with &#8216;one-size-fits-all&#8217; benefits appeared first on HR Executive .",
-    "publishedAt": "2026-07-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-disney-8217-s-restructuring-claims-more-layoffs-at-pixar-esp-1784721640000",
-    "title": "Disney&#8217;s restructuring claims more layoffs at Pixar, ESPN and National Geographic",
-    "link": "https://hrexecutive.com/disneys-restructuring-claims-more-layoffs-at-pixar-espn-and-national-geographic/",
-    "summary": "Disney cut several hundred jobs at Pixar, ESPN and National Geographic, following earlier 2026 cuts under CEO Josh D’Amaro. The post Disney&#8217;s restructuring claims more layoffs at Pixar, ESPN and National Geographic appeared first on HR Executive .",
-    "publishedAt": "2026-07-22",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-download-chinese-ai-divides-the-white-house-and-a-record-1784635800000",
     "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
     "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -238,380 +250,10 @@ export const generatedNews: NewsItem[] = [
       "ai",
       "technology"
     ]
-  },
-  {
-    "id": "news-the-download-ai-hiring-biases-and-weather-data-sabotage-1784549400000",
-    "title": "The Download: AI hiring biases, and weather data sabotage",
-    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
-    "publishedAt": "2026-07-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "ai-hr"
-    ]
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2607.21595v1",
-    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "authors": [
-      "Wenhao Li",
-      "Xueying Jiang",
-      "Quanhao Qian",
-      "Deli Zhao",
-      "Ran Xu",
-      "Shijian Lu",
-      "Gongjie Zhang"
-    ],
-    "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors from input videos, as well as complementary Explicit Geometry Tokens (EGTs) that encode detailed geometric structures from reconstructed 3D attributes. On top of that, VLM-IE3D comes with a 3D-aware adapter that effectively fuses the two types of geometric representations with 2D visual cues. This RG",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21585v1",
-    "title": "Expanding Flow Maps",
-    "authors": [
-      "Sophia Tang",
-      "Pranam Chatterjee"
-    ],
-    "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which define flows between distributions of increasing dimensionality along an expanding interpolant that grows the state by augmenting it with conditional noise. Building on this construction, we propose Expanding Flow Maps (EFMs), a new class of flow maps that distill the expanding interpolant into efficient few-step generative models. Each EFM factors the map between any two timesteps into two learnable operations: an expand operator, which augments the state space with new coordinates or tokens con",
-    "link": "http://arxiv.org/abs/2607.21585v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21580v1",
-    "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-    "authors": [
-      "Vedant Shah",
-      "Onkar Susladkar",
-      "Tushar Prakash",
-      "Kiet Nguyen",
-      "Tianjio Yu",
-      "Adheesh Juvekar",
-      "Muntasir Waheed",
-      "Ismini Lourentzou"
-    ],
-    "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks for multiple objects, which scales poorly with scene complexity and becomes ambiguous under occlusion or overlap. To enable flexible yet precise multi-subject control, we introduce $\\textbf{GraphVid}$, a graph-conditioned image-to-video generation model that enables interactive control through structured interaction graphs. We further curate $\\textbf{GraphVid-Bench}$, a large-scale interaction-centric video dataset with structured relational annotations to enable training of interaction-aware video generati",
-    "link": "http://arxiv.org/abs/2607.21580v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21579v1",
-    "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-    "authors": [
-      "Dawei Li",
-      "Xiaotian Jiang",
-      "Mingyi Hong"
-    ],
-    "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic problem and initialization. We provide a negative answer to this question. Specifically, for every finite dimension $n\\geq4$, we construct a nonempty open, hence positive-Lebesgue-measure, family of strictly convex quadratic problems and initial points for which the long Barzilai--Borwein method (BB1) converges but cannot converge root-superlinearly. More precisely, with the explicit constants $ρ_{\\min}=10^{-6},ρ_{\\max}=0.61$, every spectral component of the gradient is bounded above and below by the corresponding g",
-    "link": "http://arxiv.org/abs/2607.21579v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "math.OC",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21577v1",
-    "title": "Synthetic data generation framework for quality control automation in gravure printing",
-    "authors": [
-      "Korota Arsène Coulibaly",
-      "Mohamed Hamlich",
-      "Khalid Hmali",
-      "Andrea Trombin"
-    ],
-    "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. However, training robust deep learning models, such as YOLO or Vision Transformers, is heavily hindered by the extreme scarcity of real-world industrial defects images. To overcome this limitation, this paper introduces a novel synthetic data generation framework tailored for rotogravure printing quality control. The proposed pipeline automatically generates high-fidelity images of specific printing defects (creases, streaks, misregistration, etc.) and outputs corresponding bounding boxes and annotat",
-    "link": "http://arxiv.org/abs/2607.21577v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.LG",
-      "eess.IV"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21574v1",
-    "title": "Surprisal Theory is Tautological (without Rational Grounding)",
-    "authors": [
-      "Ryan Cotterell"
-    ],
-    "summary": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without further constraint: for any non-negative difficulty measure over units in context, there exists a language model whose surprisal is an affine function of it under mild technical conditions. Therefore, because any pattern of difficulty is consistent with some language model, without an additional constraint on the language model, surprisal theory makes no falsifiable predictions. The tautology was long obscured by an assumption implicit in two decades of psycholinguistic work---that the relevant language model is the distribution that generated the training corpus, so that improving corpus fit ",
-    "link": "http://arxiv.org/abs/2607.21574v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21573v1",
-    "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-    "authors": [
-      "Hongnan Ma",
-      "Yiwei Shi",
-      "Mengyue Yang",
-      "Weiru Liu"
-    ],
-    "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that support the prediction without being essential to the model's decision. We introduce \\textbf{TimePNS}, a necessity-aware framework for time-series explanation. Inspired by Pearl's counterfactual notion of necessity, TimePNS assesses whether a temporal factor is necessary by intervening on it and measuring whether the original prediction is disrupted. The framework adopts a two-stage design. Stage I learns an identifiable causal generative process together with a sufficiency-oriented explanation mask. ",
-    "link": "http://arxiv.org/abs/2607.21573v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21570v1",
-    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-    "authors": [
-      "Qian Wu",
-      "Xinrong Zhou",
-      "Zizhan Ma",
-      "Kai Chen",
-      "Zheyao Gao",
-      "Xun Lin",
-      "Hongqiu Wu",
-      "Longfei Gou",
-      "Yixiao Liu",
-      "Ann Sin Nga Lau",
-      "Qi Dou"
-    ],
-    "summary": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware multimodal orchestration plans rendered by our released interactive platform. We construct MedGame Bench, a 5,000-case benchmark and evaluation protocol for Medical Narrative Generation and Story Direct",
-    "link": "http://arxiv.org/abs/2607.21570v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CL",
-      "cs.HC"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21561v1",
-    "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
-    "authors": [
-      "Aaron Feller",
-      "Kris Deibler",
-      "Maxim Secor"
-    ],
-    "summary": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shared Equivariant Graph Neural Network (EGNN) layers, then pooling the resulting conformer representations with a Set Attention Block. We pretrain the model on CREMP, a cyclic peptide ensemble dataset, using a multi-task self-supervised objective combining masked token recovery, noisy-coordinate reconstruction, and pairwise distance reconstruction. On the CREMP-CycPeptMPDB dataset, training EnsembleEGNN from scratch fails entirely ($R^2=0.005$). However, the pretrained model reaches $R^2=0.477$ and",
-    "link": "http://arxiv.org/abs/2607.21561v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG",
-      "q-bio.BM"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21559v1",
-    "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-    "authors": [
-      "T. Ansah-Narh",
-      "Y. Asare Afrane"
-    ],
-    "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space and time. Ashanti and Northern Regions accounted for most recurrent anomalies, with persistent hotspots at Tamale, Kumasi, and Accra. A key finding was the spatial distinction between anomaly burden (cumulative cases during anomalous periods) and anomaly frequency (persistence of unusual behaviour). Tamale had the highest burden during anomalies, whereas the highest anomaly rates clustered in Ashanti districts, showing that high-burden areas are not necessarily those with the most frequent anomalous transmission. Anomalous months formed a statistically distinct group, with much higher case count",
-    "link": "http://arxiv.org/abs/2607.21559v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.CE",
-      "cs.ET",
-      "stat.AP",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21558v1",
-    "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
-    "authors": [
-      "Baihui Wang",
-      "Bernard Koch"
-    ],
-    "summary": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to incorporate others' perspectives from when to maintain a well-grounded moral judgment. We study the broader resistance-compliance process governing this distinction. Across three studies, we show that models' judgment revision is structured along three dimensions that parallel classic phenomena in human social psychology: the distance between an incoming view and the model's initial position, the source attribution of that view, and the coalition structure supporting it. Models are generally more receptive to nearby positions, more influenced by views presented as their own ",
-    "link": "http://arxiv.org/abs/2607.21558v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21557v1",
-    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-    "authors": [
-      "Xiao Yu",
-      "Baolin Peng",
-      "Ruize Xu",
-      "Hao Zou",
-      "Qianhui Wu",
-      "Hao Cheng",
-      "Wenlin Yao",
-      "Nikhil Singh",
-      "Zhou Yu",
-      "Jianfeng Gao"
-    ],
-    "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL stacks cannot natively express stateful, multi-process harness inference. To address this, we present OpenForgeRL, an open-source framework for training harness-based agents end-to-end in diverse environments. OpenForgeRL achieves this with a lightweight proxy that serves the harness's model calls while recording them as training data for a standard RL codebase (e.g., veRL), and a Kubernetes orchestrator that runs each rollout in its own remote container, together enabling training on any harness in any e",
-    "link": "http://arxiv.org/abs/2607.21557v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21556v1",
-    "title": "Visual Contrastive Self-Distillation",
-    "authors": [
-      "Yijun Liang",
-      "Yunjie Tian",
-      "Yijiang Li",
-      "Yuqi Jia",
-      "Furong Huang",
-      "Tianyi Zhou",
-      "Di Fu"
-    ],
-    "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the orig",
-    "link": "http://arxiv.org/abs/2607.21556v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21552v1",
-    "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
-    "authors": [
-      "Wen Ye",
-      "Yuxiao Qu",
-      "Aviral Kumar",
-      "Xuezhe Ma"
-    ],
-    "summary": "Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a model may solve a problem from text but fail on the corresponding diagram, or succeed visually while failing textually. This inconsistency suggests that different views expose complementary reasoning paths and failure modes that standard multimodal post-training does not fully exploit. To study and exploit this phenomenon, we construct ODA-Data, a high-quality paired multimodal geometry dataset with text-dominant, image-dominant, and combined image+text views of the same problems, together with s",
-    "link": "http://arxiv.org/abs/2607.21552v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21550v1",
-    "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment",
-    "authors": [
-      "Dongjie Fu",
-      "Di Cao",
-      "Xize Cheng",
-      "Zihan Zhang",
-      "Wenxu Jia",
-      "Yifu Chen",
-      "Shengpeng Ji",
-      "Yu Zhang",
-      "Tao Jin"
-    ],
-    "summary": "While large audio-language models have achieved remarkable progress in auditory perception, they still lag behind text-based large language models in deep logical reasoning, primarily due to the scarcity of high-quality audio reasoning data. To bridge this gap, we propose X$^3$-OPD, a cross-modal on-policy distillation framework that transfers reasoning capabilities from a powerful text teacher to an audio-language student. During training, the student generates reasoning trajectories conditioned on its own acoustic perception, while the teacher provides token-level guidance using matched textual inputs and verified answers. We further construct a three-tier symmetric corpus covering textual reasoning rendered into speech, audio-event reasoning grounded in complex acoustic scenes, and spok",
-    "link": "http://arxiv.org/abs/2607.21550v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21548v1",
-    "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge",
-    "authors": [
-      "Rodrigo Carmo Terin"
-    ],
-    "summary": "The coupled ghost and gluon Dyson--Schwinger equations (DSEs) of four-dimensional Landau-gauge Yang--Mills (YM) theory are solved with a neural representation trained only from renormalized equation residuals. The neural and fixed-point solutions agree at the percent level and remain stable under changes of initialization, network size, integration grid, and infrared boundary condition. Variations of the three-gluon vertex model produce substantially larger effects than the neural error. The MiniMOM ultraviolet running and the sign change of the gluon Schwinger function are also reproduced within the limitations of the truncation.",
-    "link": "http://arxiv.org/abs/2607.21548v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "hep-ph",
-      "cs.LG",
-      "hep-lat",
-      "hep-th"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21547v1",
-    "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
-    "authors": [
-      "Fares Fourati",
-      "Hinrich Schütze",
-      "Eyke Hüllermeier",
-      "Iryna Gurevych"
-    ],
-    "summary": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper challenges that assumption. Rather than asking how far automation can extend, we ask where its conceptual limits lie and argue that human participation may persist even with highly capable AI systems for three distinct reasons. Technical or complementarity grounds arise when humans contribute capabilities or perspectives unavailable to AI. Normative or developmental grounds arise when participation itself is valuable for human agency or learning. Most importantly, emergence grounds arise from targ",
-    "link": "http://arxiv.org/abs/2607.21547v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.ET",
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21542v1",
-    "title": "Zero-Flow Two-Sample Tests",
-    "authors": [
-      "Yakun Wang",
-      "Leyang Wang",
-      "Song Liu",
-      "Taiji Suzuki"
-    ],
-    "summary": "We propose a new approach to two-sample testing for deciding whether two sets of samples are drawn from the same distribution. The test is built on a statistical discrepancy based on the zero-flow criterion, termed zero-flow discrepancy (ZFD). We prove the validity of ZFD and propose a practical testing procedure, termed the zero-flow two-sample test (ZF2ST). The key idea is to learn how samples from the two distributions are locally misaligned and use the resulting directional pattern as evidence of distributional difference. By separating witness learning from hypothesis evaluation, ZF2ST can use flexible neural networks while maintaining valid statistical calibration. We develop both regression-based and power-maximized approaches for learning the witness. Experiments on synthetic and i",
-    "link": "http://arxiv.org/abs/2607.21542v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21540v1",
-    "title": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
-    "authors": [
-      "Paul Azunre"
-    ],
-    "summary": "We present DONDO, a family of open, permissively licensed automatic speech recognition (ASR) base models for African languages, built on the w2v-BERT 2.0 self-supervised speech encoder. DONDO comprises twenty-one monolingual models and five multilingual models spanning twenty-seven language varieties across Ghana, Sierra Leone, Nigeria, Senegal, Kenya and Zimbabwe. Models are fine-tuned primarily on read speech drawn from religious texts, which offer broad, license-clear and orthographically consistent coverage for languages that otherwise lack transcribed audio. We describe a two-step (and, for one family, three-step) learning-rate-annealed fine-tuning procedure that first adapts a shared multilingual model at a high learning rate and then anneals it to recover, and in several cases surpa",
-    "link": "http://arxiv.org/abs/2607.21540v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21535v1",
-    "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
-    "authors": [
-      "Alagappan Valliappan"
-    ],
-    "summary": "Speculative decoding accelerates autoregressive generation by having a cheap draft propose tokens that a target verifies in parallel. Frontier models increasingly ship a built-in Multi-Token-Prediction (MTP/NEXTN) draft head under the assumption that the draft is negligibly cheap. At million-token context this breaks: an MTP draft head typically runs full attention over the entire KV cache at every draft step, so its read grows linearly with context and comes to dominate the draft cost -- precisely where speculation is most valuable. The effect compounds with draft length (a deep native draft can turn net-negative, slower than no speculation) and sharpens under hybrid/linear-attention targets, where cheaper verification leaves the draft's full-attention read exposed. We apply a StreamingLL",
-    "link": "http://arxiv.org/abs/2607.21535v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG",
-      "cs.CL",
-      "cs.PF"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -622,7 +264,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RMjAuNDIuNDIuMjEz when applying to show you read the job post completely (#RMjAuNDIuNDIuMjEz)"
+      "Please mention the word **PARAMOUNT** and tag RNDAuODEuNi4yNDE= when applying to show you read the job post completely (#RNDAuODEuNi4yNDE=)"
     ],
     "skills": [],
     "location": "Remote",
@@ -633,4 +275,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-24T10:12:39.402Z';
+export const dataFetchedAt = '2026-07-24T13:27:21.627Z';
