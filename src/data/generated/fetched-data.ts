@@ -2,6 +2,18 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-quest-to-keep-organs-alive-outside-the-body-1784912635000",
+    "title": "The quest to keep organs alive outside the body",
+    "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+    "publishedAt": "2026-07-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-the-download-an-organ-transplant-breakthrough-and-homegrown--1784895000000",
     "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
     "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
@@ -28,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-8216-mobley-v-workday-8217-has-far-reaching-legal-impact-1784895352000",
-    "title": "Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders",
+    "id": "news-why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-l-1784895352000",
+    "title": "Why Mobley v. Workday has far-reaching legal impacts for HR leaders",
     "link": "https://hrexecutive.com/why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-leaders/",
-    "summary": "Courts have started reaching the merits of the first wave of AI-related discrimination cases like Mobley v. Workday, which will likely open the door for similar suits in the future. The post Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders appeared first on HR Executive .",
+    "summary": "Courts have started reaching the merits of the first wave of AI-related discrimination cases like Mobley v. Workday, which will likely open the door for similar suits in the future. The post Why Mobley v. Workday has far-reaching legal impacts for HR leaders appeared first on HR Executive .",
     "publishedAt": "2026-07-24",
     "source": "HR Executive",
     "tags": [
@@ -233,18 +245,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
     "publishedAt": "2026-07-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-china-s-ai-models-have-trump-s-ai-world-at-war-with-itself-1784570400000",
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
-    "publishedAt": "2026-07-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -655,7 +655,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RMTcyLjE4Mi4yNDMuNDg= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNDg="
+      "Please mention the word **PARAMOUNT** and tag RMjAuMTcxLjEyNS4yMTA= when applying to show you read the job post completely (#RMjAuMTcxLjEyNS4yMTA="
     ],
     "skills": [],
     "location": "Remote",
@@ -666,4 +666,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-24T17:25:37.550Z';
+export const dataFetchedAt = '2026-07-24T19:18:38.501Z';
