@@ -632,6 +632,22 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135372",
+    "title": "Lot Maintenance Person",
+    "company": "Galt Chrysler Dodge Jeep RAM",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Back Lot Maintenance Person If you have a valid Ontario driver's Licence with lots of energy and a basic knowlege of cars we want to talk to you",
+      "Position Details Lot Maintenance Person Job Type Full Time Category General Date Posted May 19, 2023 Location Cambridge, ON Apply Now Job ApplicationPleas"
+    ],
+    "skills": [],
+    "location": "Cambridge, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lot-maintenance-person-galt-chrysler-dodge-jeep-ram-1135372",
+    "postedAt": "2026-07-23",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135230",
     "title": "IT Support Trainee",
     "company": "Work Force Nexus",
@@ -639,7 +655,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RMTcyLjIwMy4yMDcuMjQy when applying to show you read the job post completely (#RMTcyLjIwMy4yMDcuMjQy"
+      "Please mention the word **PARAMOUNT** and tag RMTcyLjE4Mi4yNDMuNDg= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNDg="
     ],
     "skills": [],
     "location": "Remote",
@@ -650,4 +666,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-24T15:22:19.526Z';
+export const dataFetchedAt = '2026-07-24T17:25:37.550Z';

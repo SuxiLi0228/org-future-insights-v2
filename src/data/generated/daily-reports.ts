@@ -2,6 +2,97 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-25-auto",
+    "date": "2026-07-25",
+    "session": "auto",
+    "title": "2026-07-25 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-25-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+      },
+      {
+        "id": "sig-2026-07-25-auto-2",
+        "emoji": "🚨",
+        "title": "Inside the Sam&#8217;s Club HR rule for adopting AI tools",
+        "summary": "The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/inside-the-sams-club-hr-rule-for-adopting-ai-tools/"
+      },
+      {
+        "id": "sig-2026-07-25-auto-3",
+        "emoji": "🚨",
+        "title": "Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders",
+        "summary": "Courts have started reaching the merits of the first wave of AI-related discrimination cases like Mobley v. Workday, which will likely open the door for similar suits in the future. The post Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Courts have started reaching the merits of the first wave of AI-related discrimination cases like Mobley v. Workday, which will likely open the door for similar suits in the future. The post Why &#8216;Mobley v. Workday&#8217; has far-reaching legal impacts for HR leaders appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-leaders/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-25-1",
+        "priority": "medium",
+        "action": "关注「The Download: an organ transplant breakt」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-25-2",
+        "priority": "high",
+        "action": "关注「Inside the Sam&#8217;s Club HR rule for 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-25-3",
+        "priority": "high",
+        "action": "关注「Why &#8216;Mobley v. Workday&#8217; has 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 43,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-25 生成，聚合了 20 条新闻、20 篇论文、3 个岗位。",
+    "fetchWindow": "2026-07-25 00:00 - 2026-07-25 23:59"
+  },
+  {
     "id": "report-2026-07-24-auto",
     "date": "2026-07-24",
     "session": "auto",
