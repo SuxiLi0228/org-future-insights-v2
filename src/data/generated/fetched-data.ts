@@ -614,6 +614,27 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135330",
+    "title": "Manager International Customer Supply Chain rhode",
+    "company": "e.l.f. Beauty",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About the Company &nbsp; e.l.f",
+      "Beauty, Inc",
+      "stands with every eye, lip, face, paw and fin",
+      "Our deep commitment to clean, cruelty free beauty&nbsp; at an incredible value has fueled the success of our flagship brand e.l.f"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "United Kingdom - Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-manager-international-customer-supply-chain-rhode-e-l-f-beauty-1135330",
+    "postedAt": "2026-07-24",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135352",
     "title": "Gestionnaire administratif et financier F H",
     "company": "UniversitÃ© de Bordeaux",
@@ -655,7 +676,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RNDguMjExLjIxMy4zNA== when applying to show you read the job post completely (#RNDguMjExLjIxMy4zNA=="
+      "Please mention the word **PARAMOUNT** and tag RMjAuMTA2LjE4Mi4yMTA= when applying to show you read the job post completely (#RMjAuMTA2LjE4Mi4yMTA="
     ],
     "skills": [],
     "location": "Remote",
@@ -666,4 +687,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-24T22:57:40.934Z';
+export const dataFetchedAt = '2026-07-25T02:13:16.011Z';
