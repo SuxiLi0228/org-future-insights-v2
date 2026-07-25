@@ -676,7 +676,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Posted 11:49:43 AM",
       "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RMjAuNTEuMTk4LjE5Mw== when applying to show you read the job post completely (#RMjAuNTEuMTk4LjE5Mw=="
+      "Please mention the word **PARAMOUNT** and tag RNjguMjIwLjYyLjI0OA== when applying to show you read the job post completely (#RNjguMjIwLjYyLjI0OA=="
     ],
     "skills": [],
     "location": "Remote",
@@ -687,4 +687,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-25T13:15:16.044Z';
+export const dataFetchedAt = '2026-07-25T14:58:46.868Z';
