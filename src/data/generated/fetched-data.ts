@@ -667,24 +667,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-lot-maintenance-person-galt-chrysler-dodge-jeep-ram-1135372",
     "postedAt": "2026-07-23",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135230",
-    "title": "IT Support Trainee",
-    "company": "Work Force Nexus",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Posted 11:49:43 AM",
-      "Job Type: Full-TimeWork Mode: Remote (Australia)Experience: 0â2 YearsIndustry: Informationâ¦See this and similar jobs on LinkedIn",
-      "Please mention the word **PARAMOUNT** and tag RMTM1LjIzMi4xNzcuMjQ0 when applying to show you read the job post completely (#RMTM1LjIzMi4xNzcuMjQ0"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-it-support-trainee-work-force-nexus-1135230",
-    "postedAt": "2026-07-22",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-26T02:23:54.526Z';
+export const dataFetchedAt = '2026-07-26T06:32:26.671Z';
