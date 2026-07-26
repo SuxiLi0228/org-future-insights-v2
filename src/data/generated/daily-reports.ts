@@ -2,6 +2,96 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-27-auto",
+    "date": "2026-07-27",
+    "session": "auto",
+    "title": "2026-07-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-27-auto-1",
+        "emoji": "💡",
+        "title": "The quest to keep organs alive outside the body",
+        "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+        "detail": "来源: MIT Technology Review。This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+      },
+      {
+        "id": "sig-2026-07-27-auto-2",
+        "emoji": "⚠️",
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+      },
+      {
+        "id": "sig-2026-07-27-auto-3",
+        "emoji": "🚨",
+        "title": "Inside the Sam&#8217;s Club HR rule for adopting AI tools",
+        "summary": "The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/inside-the-sams-club-hr-rule-for-adopting-ai-tools/"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-27-1",
+        "priority": "low",
+        "action": "关注「The quest to keep organs alive outside t」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-27-2",
+        "priority": "medium",
+        "action": "关注「The Download: an organ transplant breakt」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-27-3",
+        "priority": "high",
+        "action": "关注「Inside the Sam&#8217;s Club HR rule for 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 43,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-27 生成，聚合了 20 条新闻、20 篇论文、3 个岗位。",
+    "fetchWindow": "2026-07-27 00:00 - 2026-07-27 23:59"
+  },
+  {
     "id": "report-2026-07-26-auto",
     "date": "2026-07-26",
     "session": "auto",
