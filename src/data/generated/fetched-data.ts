@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-how-lasers-could-help-provide-fuel-for-nuclear-reactors-1785162282000",
-    "title": "How lasers could help provide fuel for nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+    "id": "news-openai-called-the-hugging-face-attack-unprecedented-but-we-v-1785175200000",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-s-hugging-face-breach-has-reignited-the-debate-over-a-1785173322000",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "id": "news-microsoft-launches-its-first-cybersecurity-model-plus-a-new--1785177131000",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785171600000",
-    "title": " 东野圭吾：在白夜里走路的人 ",
-    "link": "https://www.huxiu.com/article/4878594.html?f=rss",
-    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心，原文标题：《【逝者系列】东野圭吾：在白夜里走路的人》 （也可能是年龄增长，最近几年越来越多发现成长过程中耳熟能详的一些名人、周围亲人、长辈陆续离世，感触良多。所以打算后续增加一个系列，有对我影响较大的名人或者普通人去世时，都会通过此频道纪念～） ··· 2026年7月27日，我看到手机推送的一则简短讣告：作家东野圭吾于7月23日凌晨因结肠癌去世，享年68岁。葬礼已由其家属低调举行。 没有公开追悼会，没有媒体通告，没有一句多余的话。 四天。从一个人离开这个世界，到全世界知道他离开的消息，中间隔了沉默的四天。这四天里，东京照常天亮，大阪依然闷热，全世界的书店里他的小说还在卖。东野圭吾用了这种方式告别：先把身后事全部处理干净，再让世界慢慢知道。确实像一个推理作家给自己安排的最后一个情节：等你读到这一行的时候，故事早就写完了。 他离开的那天，距离他的遗作《永远的记忆》——\"神探伽利略\"系列的最新长篇——出版，还有十三天。他已经把稿子交了。讲谈社说，出版计划不作更改，8月5日，书会如期出现在书店里。 只是作者不在了。 ··· 一、大阪的普通人 东野圭吾从来不是一个\"天才\"的人设。他说过一句很诚实的话：自己小时候\"最讨厌读书\"。 1958年2月4日，他出生在大阪生野区。家里开一间卖钟表和眼镜的小店，生意惨淡。父亲话不多，母亲操持家务，两个姐姐念完",
+    "id": "news-t-1785179321000",
+    "title": " 美式男孩的音乐和女人，正在被一个拉丁帅T抢走 ",
+    "link": "https://www.huxiu.com/article/4878598.html?f=rss",
+    "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功 中国市场就像中国足球，依旧自己跟自己玩？ 01 Young Miko是谁？ Young Miko（本名María Victoria Ramírez de Arellano Cardona）是来自波多黎各的现象级说唱歌手、歌手兼词曲作者。 在全职做音乐之前，她曾是波多黎各青年女子足球队队员（司职右后卫/后腰），并从事了5年的职业纹身师工作（以此筹集录音室租金）。 即使巅峰期已过，截至2026年7月，她在Spotify仍有约2080万月听众。 （早就跟Bad Bunny合作上了） （同时，给你更直观的数据，相比之下，周杰伦的月听众只有350万） 《Classy 101》让她第一次挤进Billboard Hot 100。首张正式专辑《att.》登上Billboard拉丁专辑榜第九位。 她从波多黎各的SoundCloud歌手，走到Coachella主舞台，只用了三年左右。 这类速度，很容易被解释成“身份红利”。 女同性恋，短发，纹身，中性穿搭，再加几面彩虹旗，buff似乎叠满了。 但事情远远没有这么简单。 美国作为全球移民大国，正巧在这个特殊世界时间节点，拥有大量的拉丁初代或后代移民群体。 疫情后美国服务业、建筑业、农业及物流供应链面临持续的劳动力缺口，拉丁裔移民填补了大量中低技能岗位，强劲的就业市场和高额汇率差提供了巨大的经济吸引力。",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-lasers-for-nuclear-fuel-and-organ-preservation--1785154200000",
-    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
+    "id": "news-how-lasers-could-help-provide-fuel-for-nuclear-reactors-1785162282000",
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -119,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-threads-users-can-now-chat-with-meta-ai-in-their-dms-1785170724000",
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "id": "news-apple-sued-after-alleged-app-store-crypto-scam-cost-users-1--1785176895000",
+    "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+    "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+    "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -185,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785170812000",
-    "title": " 东野圭吾为什么那么红？他写的不是推理，是人性 ",
-    "link": "https://www.huxiu.com/article/4878597.html?f=rss",
-    "summary": "本文来自微信公众号： 冰川思享号 ，作者：维舟 对他而言，案子其实只是一个载体，借此来呈现复杂深邃的人性而已，对于很多当代读者来说，这种风格极大地拓展了推理故事的人性深度，也更有吸引力 日本\"推理小说之王\"东野圭吾日前病逝，年仅68岁。 对推理小说界和广大读者来说，这都是一大损失，因为如果他能多活十几年，肯定还会有新作诞生。 自1985年推出第一部作品《放学后》以来，他以惊人的速度创作了多达106部作品。整整41年时间，期间除了1997年之外，平均每年都要推出两三部作品，是出了名的\"劳模作家\"。 这些作品合计销量在十年前就已突破恐怖的1亿册，其人气之高，世所罕见。 出版越多，当然版税收入越高，因而他在日本出版界号称\"印钞机\"。不仅在日本如此，在中国他也极为受欢迎。2011年他在华版税收入480万元，到巅峰的2018年达到4200万人民币之巨，排名\"外国作家榜\"榜首，比第二名村上春树（1800万）和第三名J.K.罗琳（1500万）加起来还多。 01 \"推理小说之王\"是怎样炼成的 东野圭吾也不是一开始就那么红的，恐怕他自己当年都想不到自己有一天会红得发紫。 他不是那种天才型作家，早年并未表现出什么过人的天赋，上中学之前根本不喜欢看书，更不看推理小说。直到有一次无意中读了小峰元的《阿基米德借刀杀人》，可能因为主角就是高中生，让他很有代入感，才第一次感到\"这样的小说实在有趣，好像我也可以写",
+    "id": "news--1785171600000",
+    "title": " 东野圭吾：在白夜里走路的人 ",
+    "link": "https://www.huxiu.com/article/4878594.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心，原文标题：《【逝者系列】东野圭吾：在白夜里走路的人》 （也可能是年龄增长，最近几年越来越多发现成长过程中耳熟能详的一些名人、周围亲人、长辈陆续离世，感触良多。所以打算后续增加一个系列，有对我影响较大的名人或者普通人去世时，都会通过此频道纪念～） ··· 2026年7月27日，我看到手机推送的一则简短讣告：作家东野圭吾于7月23日凌晨因结肠癌去世，享年68岁。葬礼已由其家属低调举行。 没有公开追悼会，没有媒体通告，没有一句多余的话。 四天。从一个人离开这个世界，到全世界知道他离开的消息，中间隔了沉默的四天。这四天里，东京照常天亮，大阪依然闷热，全世界的书店里他的小说还在卖。东野圭吾用了这种方式告别：先把身后事全部处理干净，再让世界慢慢知道。确实像一个推理作家给自己安排的最后一个情节：等你读到这一行的时候，故事早就写完了。 他离开的那天，距离他的遗作《永远的记忆》——\"神探伽利略\"系列的最新长篇——出版，还有十三天。他已经把稿子交了。讲谈社说，出版计划不作更改，8月5日，书会如期出现在书店里。 只是作者不在了。 ··· 一、大阪的普通人 东野圭吾从来不是一个\"天才\"的人设。他说过一句很诚实的话：自己小时候\"最讨厌读书\"。 1958年2月4日，他出生在大阪生野区。家里开一间卖钟表和眼镜的小店，生意惨淡。父亲话不多，母亲操持家务，两个姐姐念完",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -212,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-path-to-artificial-superintelligence-1785153600000",
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "id": "news-the-download-lasers-for-nuclear-fuel-and-organ-preservation--1785154200000",
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -224,16 +224,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-ai-search-is-rapidly-becoming-the-default-new--1785167832000",
-    "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
-    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "id": "news-amazon-8217-s-new-satellite-network-for-mobile-phones-could--1785175709000",
+    "title": "Amazon&#8217;s new satellite network for mobile phones could turn up the heat on SpaceX",
+    "link": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+    "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -292,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-1785169737000",
-    "title": " 年销20亿元的感冒灵，说明书要大改，国家药监局明确：服药期间不得开车 ",
-    "link": "https://www.huxiu.com/article/4878596.html?f=rss",
-    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《年销20亿元的感冒灵，说明书要大改！国家药监局明确：服药期间不得开车》 吃完感冒灵不能开车了！ 近日，国家药监局发布公告，根据药品不良反应评估结果，为进一步保障公众用药安全，决定对感冒灵口服制剂（颗粒、胶囊、片、茶）说明书实施统一修订，集中完善警示语、禁忌、不良反应、注意事项等四大核心板块。 《每日经济新闻》记者（以下简称每经记者）注意到，本次修订强调服药期间不得驾驶机、车、船、从事高空作业、机械作业及操作精密仪器等。 就上述修订影响等问题，部分头部感冒灵生产企业均表示暂不接受每经记者的采访。某连锁药店负责人告诉记者，本次国家药监局修订感冒灵说明书不会对终端感冒药销售造成明显影响。该类药品仅短期季节性按需服用，区别于慢性病长期用药，且市场存在无嗜睡副作用的替代感冒药，能满足司机、特殊作业人群需求，消费分流幅度可控。 感冒灵全剂型迎统一修订，期限明确 据悉，感冒灵是典型的中西药复方制剂，含有对乙酰氨基酚、马来酸氯苯那敏、咖啡因三种西药成分。湖南省药品流通行业协会原秘书长黄修祥告诉记者，马来酸氯苯那敏（氯苯那敏）属于第一代抗组胺药，具有中枢抑制作用，易引起嗜睡、乏力、注意力下降，但不属于国家管制的精神药品或麻醉药品。因此，单纯服用感冒灵目前不直接构成该条关联的违法驾驶行为。类似修订此前已有，如2024年对复方感冒灵的部分",
+    "id": "news--1785170812000",
+    "title": " 东野圭吾为什么那么红？他写的不是推理，是人性 ",
+    "link": "https://www.huxiu.com/article/4878597.html?f=rss",
+    "summary": "本文来自微信公众号： 冰川思享号 ，作者：维舟 对他而言，案子其实只是一个载体，借此来呈现复杂深邃的人性而已，对于很多当代读者来说，这种风格极大地拓展了推理故事的人性深度，也更有吸引力 日本\"推理小说之王\"东野圭吾日前病逝，年仅68岁。 对推理小说界和广大读者来说，这都是一大损失，因为如果他能多活十几年，肯定还会有新作诞生。 自1985年推出第一部作品《放学后》以来，他以惊人的速度创作了多达106部作品。整整41年时间，期间除了1997年之外，平均每年都要推出两三部作品，是出了名的\"劳模作家\"。 这些作品合计销量在十年前就已突破恐怖的1亿册，其人气之高，世所罕见。 出版越多，当然版税收入越高，因而他在日本出版界号称\"印钞机\"。不仅在日本如此，在中国他也极为受欢迎。2011年他在华版税收入480万元，到巅峰的2018年达到4200万人民币之巨，排名\"外国作家榜\"榜首，比第二名村上春树（1800万）和第三名J.K.罗琳（1500万）加起来还多。 01 \"推理小说之王\"是怎样炼成的 东野圭吾也不是一开始就那么红的，恐怕他自己当年都想不到自己有一天会红得发紫。 他不是那种天才型作家，早年并未表现出什么过人的天赋，上中学之前根本不喜欢看书，更不看推理小说。直到有一次无意中读了小峰元的《阿基米德借刀杀人》，可能因为主角就是高中生，让他很有代入感，才第一次感到\"这样的小说实在有趣，好像我也可以写",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -319,10 +320,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-closing-the-data-loop-in-ai-driven-drug-discovery-1785152416000",
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
+    "id": "news-the-path-to-artificial-superintelligence-1785153600000",
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -331,17 +332,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-power-up-your-ai-infrastructure-a-first-look-at-the-smart-sy-1785166200000",
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "id": "news-antares-raises-470m-to-build-nuclear-reactors-for-the-us-mil-1785174568000",
+    "title": "Antares raises $470M to build nuclear reactors for the US military",
+    "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+    "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -775,15 +775,31 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135442",
+    "title": "Generalist AI Trainer $35 hour",
+    "company": "LinkedIn",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
+      "Please mention the word **SAGELY** and tag RNTIuMjI2LjEyNC4yNw== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4yNw==)",
+      "This is a beta fea"
+    ],
+    "skills": [],
+    "location": "United States, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-generalist-ai-trainer-35-hour-linkedin-1135442",
+    "postedAt": "2026-07-26",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135423",
     "title": "Book recommendation",
     "company": "Level 20 Netherlands",
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RMTMuNjYuMTc0Ljgz when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgz)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can"
+      "Please mention the word **HANDY** and tag RNTIuMjI2LjEyNC4yNw== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4yNw==)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "Rushen, ",
@@ -832,4 +848,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T17:39:10.006Z';
+export const dataFetchedAt = '2026-07-27T19:20:22.756Z';
