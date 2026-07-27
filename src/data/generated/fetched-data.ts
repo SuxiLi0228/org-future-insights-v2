@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+    "id": "news-satya-nadella-says-companies-that-trust-one-ai-for-everythin-1785187031000",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -81,10 +82,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-t-1785179321000",
-    "title": " 美式男孩的音乐和女人，正在被一个拉丁帅T抢走 ",
-    "link": "https://www.huxiu.com/article/4878598.html?f=rss",
-    "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功 中国市场就像中国足球，依旧自己跟自己玩？ 01 Young Miko是谁？ Young Miko（本名María Victoria Ramírez de Arellano Cardona）是来自波多黎各的现象级说唱歌手、歌手兼词曲作者。 在全职做音乐之前，她曾是波多黎各青年女子足球队队员（司职右后卫/后腰），并从事了5年的职业纹身师工作（以此筹集录音室租金）。 即使巅峰期已过，截至2026年7月，她在Spotify仍有约2080万月听众。 （早就跟Bad Bunny合作上了） （同时，给你更直观的数据，相比之下，周杰伦的月听众只有350万） 《Classy 101》让她第一次挤进Billboard Hot 100。首张正式专辑《att.》登上Billboard拉丁专辑榜第九位。 她从波多黎各的SoundCloud歌手，走到Coachella主舞台，只用了三年左右。 这类速度，很容易被解释成“身份红利”。 女同性恋，短发，纹身，中性穿搭，再加几面彩虹旗，buff似乎叠满了。 但事情远远没有这么简单。 美国作为全球移民大国，正巧在这个特殊世界时间节点，拥有大量的拉丁初代或后代移民群体。 疫情后美国服务业、建筑业、农业及物流供应链面临持续的劳动力缺口，拉丁裔移民填补了大量中低技能岗位，强劲的就业市场和高额汇率差提供了巨大的经济吸引力。",
+    "id": "news-1000-1785191720000",
+    "title": " 长鑫科技与你有关！它可能会让你的下一台电脑贵1000块 ",
+    "link": "https://www.huxiu.com/article/4878601.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申，原文标题：《长鑫科技与你有关！它可能会让你的下一台电脑贵1000块》 7月27日，长鑫科技登陆科创板，3.28万亿市值登顶A股。 国产替代不等于降价，3笔账里有1笔很贵——16GB DDR5内存从299元涨到699元、涨幅134%，中一签浮盈2.04万元。 3万亿狂欢的背后，是每个消费者都在为国家战略悄悄买单。 今天，3万亿市值是怎么\"砸\"到你头上的 7月27日上午9点30分，上海证券交易所科创板的锣声敲响。 长鑫科技（688825）正式登陆A股，发行价8.66元每股，开盘直接报49.5元，涨幅471.59%。 证券时报的实时数据显示，开盘那一刻，长鑫科技总市值达到3.31万亿元。 这个数字是什么概念。 它超过了工商银行的2.8万亿，超过了贵州茅台的2.1万亿，直接登顶A股市值第一。 盘中最高触及55.03元，市值一度超越腾讯控股，成为中国市值最高的科技公司。 截至收盘，长鑫科技报49.00元每股，涨幅465.82%，总市值3.28万亿元。 全天成交额1411.9亿元，创下A股历史上首只单日成交破千亿的个股纪录，超过了东方财富2024年10月9日创下的900亿元历史天量。 36氪当天的报道用了一个词——\"史诗级上市\"。 但我今天不想聊资本盛宴，也不想聊谁又一夜暴富。 我想聊一个更扎心的问题。 3万亿市值狂欢，和你一个普通人，到底有什么关",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -120,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-1785184800000",
-    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-    "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
-    "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
+    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -186,16 +187,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785171600000",
-    "title": " 东野圭吾：在白夜里走路的人 ",
-    "link": "https://www.huxiu.com/article/4878594.html?f=rss",
-    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心，原文标题：《【逝者系列】东野圭吾：在白夜里走路的人》 （也可能是年龄增长，最近几年越来越多发现成长过程中耳熟能详的一些名人、周围亲人、长辈陆续离世，感触良多。所以打算后续增加一个系列，有对我影响较大的名人或者普通人去世时，都会通过此频道纪念～） ··· 2026年7月27日，我看到手机推送的一则简短讣告：作家东野圭吾于7月23日凌晨因结肠癌去世，享年68岁。葬礼已由其家属低调举行。 没有公开追悼会，没有媒体通告，没有一句多余的话。 四天。从一个人离开这个世界，到全世界知道他离开的消息，中间隔了沉默的四天。这四天里，东京照常天亮，大阪依然闷热，全世界的书店里他的小说还在卖。东野圭吾用了这种方式告别：先把身后事全部处理干净，再让世界慢慢知道。确实像一个推理作家给自己安排的最后一个情节：等你读到这一行的时候，故事早就写完了。 他离开的那天，距离他的遗作《永远的记忆》——\"神探伽利略\"系列的最新长篇——出版，还有十三天。他已经把稿子交了。讲谈社说，出版计划不作更改，8月5日，书会如期出现在书店里。 只是作者不在了。 ··· 一、大阪的普通人 东野圭吾从来不是一个\"天才\"的人设。他说过一句很诚实的话：自己小时候\"最讨厌读书\"。 1958年2月4日，他出生在大阪生野区。家里开一间卖钟表和眼镜的小店，生意惨淡。父亲话不多，母亲操持家务，两个姐姐念完",
+    "id": "news-ai-1785190995000",
+    "title": " 刚刚，北大校友翁荔官宣离职，AI 时代最好的“对齐”是照顾好自己 ",
+    "link": "https://www.huxiu.com/article/4878600.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己》 翁荔离职了。 刚刚，北大校友翁荔（Lilian Weng）在社交媒体上发布离职信，宣布明天将是她在Thinking Machines Lab的最后一天。 距离她与OpenAI前CTO Mira Murati共同创立公司，过去了整整20个月。几天前，Thinking Machines刚发布首个开源大模型Inkling，翁荔在信中称其为「公司历史上一个了不起的里程碑」。 首款模型刚刚发布，联合创始人便选择离场，多少让人意外。 一封写满「抱歉」的离职信 翁荔的离职信中，反复出现的一个词是「health」，健康。 她提到，过去7个月里，自己生病的次数超过了人生中的任何一个阶段。当整个公司都在为Inkling的发布冲刺时，她不得不请病假休息，同时还要承受无法参与工作的愧疚感。 她形容，那种一边休息、一边与负罪感对抗的状态，并不好受。 翁荔也考虑过缩小职责范围，承担一个压力和不确定性更低的角色。但她最终发现，这种安排并不适合自己。按照她的说法，只要无法对负责的事情投入全部精力，她就会认为自己没有做好这份工作。 整封信里，「sorry抱歉」「letting you down让你失望」等表达多次出现。 曾经从零组建OpenAI安全团队、带领一支80多人团队的翁荔",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -225,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-1785183582000",
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "id": "news-as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-1785184800000",
+    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+    "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+    "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -292,16 +294,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785170812000",
-    "title": " 东野圭吾为什么那么红？他写的不是推理，是人性 ",
-    "link": "https://www.huxiu.com/article/4878597.html?f=rss",
-    "summary": "本文来自微信公众号： 冰川思享号 ，作者：维舟 对他而言，案子其实只是一个载体，借此来呈现复杂深邃的人性而已，对于很多当代读者来说，这种风格极大地拓展了推理故事的人性深度，也更有吸引力 日本\"推理小说之王\"东野圭吾日前病逝，年仅68岁。 对推理小说界和广大读者来说，这都是一大损失，因为如果他能多活十几年，肯定还会有新作诞生。 自1985年推出第一部作品《放学后》以来，他以惊人的速度创作了多达106部作品。整整41年时间，期间除了1997年之外，平均每年都要推出两三部作品，是出了名的\"劳模作家\"。 这些作品合计销量在十年前就已突破恐怖的1亿册，其人气之高，世所罕见。 出版越多，当然版税收入越高，因而他在日本出版界号称\"印钞机\"。不仅在日本如此，在中国他也极为受欢迎。2011年他在华版税收入480万元，到巅峰的2018年达到4200万人民币之巨，排名\"外国作家榜\"榜首，比第二名村上春树（1800万）和第三名J.K.罗琳（1500万）加起来还多。 01 \"推理小说之王\"是怎样炼成的 东野圭吾也不是一开始就那么红的，恐怕他自己当年都想不到自己有一天会红得发紫。 他不是那种天才型作家，早年并未表现出什么过人的天赋，上中学之前根本不喜欢看书，更不看推理小说。直到有一次无意中读了小峰元的《阿基米德借刀杀人》，可能因为主角就是高中生，让他很有代入感，才第一次感到\"这样的小说实在有趣，好像我也可以写",
+    "id": "news-ai-1785190272000",
+    "title": " 物理AI驱动的组织变革 ",
+    "link": "https://www.huxiu.com/article/4878599.html?f=rss",
+    "summary": "本文来自微信公众号： 清华管理评论 ，作者：TBR，原文标题：《订阅 | 物理AI驱动的组织变革》 刊首语 重视数字时代企业创新的新范式 当前，我国经济处于新旧动能转换、结构深度优化的关键阶段，大力发展新质生产力，已成为支撑和驱动我国经济持续向好的关键动能。国家“十五五”规划着重提出要抓住新一轮科技革命和产业变革的历史机遇，提升国家创新体系整体效能。在此战略背景下，创新范式的优化成为推动高质量发展的主引擎。 长期以来，国内对创新的认知局限于工业时代的创新范式，即大家熟知的熊彼特范式。熊彼特范式是生产者导向，将创新视作大学、科研院所、企业研发部门等的工作，企业家的职责是大胆投资相关的新技术。这种“生产者中心”范式在工业时代成效显著，但在数字时代背景下，复杂多变的市场需求、分散化的知识格局以及人工智能的飞速崛起，使得该范式的短板日益凸显。科技成果转化成为我国科技创新的重大挑战。 20世纪70年代以来，美国麻省理工学院学者埃里克·冯·希佩尔推翻了制造商主导创新的传统认知，通过大量实证研究证明，具有具体产品改进和优良使用行为的用户才是诸多创新的真正源头。许多产品和服务实际上是由用户在使用场景中逐步开发或完善的，这些创意随后被整合进生产者网络中，完成原有的熊彼特创新。 以具有黑客和极客特征的用户作为各类创新的源头，这一转型不仅是数字时代创新规律的必然要求，更是落实以人民为中心的发展思想、培育",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -331,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-launches-its-first-cybersecurity-model-plus-a-new--1785177131000",
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "id": "news-psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-1785183582000",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -779,8 +782,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RNTIuMTU5LjI0NC44Mg== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC44Mg==)",
-      "This is a beta fea"
+      "Please mention the word **SAGELY** and tag RMjAuMTYxLjYwLjk2 when applying to show you read the job post completely (#RMjAuMTYxLjYwLjk2)",
+      "This is a beta feature to"
     ],
     "skills": [],
     "location": "United States, ",
@@ -796,8 +799,9 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RNTIuMTU5LjI0NC44Mg== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC44Mg==)",
-      "This is a beta feature to avoid spam applicants"
+      "Please mention the word **HANDY** and tag RMjAuMTYxLjYwLjk2 when applying to show you read the job post completely (#RMjAuMTYxLjYwLjk2)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can"
     ],
     "skills": [],
     "location": "Rushen, ",
@@ -846,4 +850,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T21:06:12.863Z';
+export const dataFetchedAt = '2026-07-27T22:57:03.621Z';
