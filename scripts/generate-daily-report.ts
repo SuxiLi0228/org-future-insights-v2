@@ -24,6 +24,7 @@ function inferSourceType(source: string): SourceType {
   if (lower.includes('hbr') || lower.includes('harvard')) return 'think_tank';
   if (lower.includes('hr')) return 'hr_media';
   if (lower.includes('wef')) return 'think_tank';
+  if (lower.includes('36kr') || lower.includes('机器之心') || lower.includes('量子位') || lower.includes('虎嗅')) return 'china_local';
   return 'tech';
 }
 
@@ -54,11 +55,22 @@ function inferPriority(title: string, summary: string): 'high' | 'medium' | 'low
   return 'low';
 }
 
+function pickDiverseNews(newsList: typeof generatedNews, maxPerSource = 1, total = 3): typeof generatedNews {
+  const sourceMap = new Map<string, (typeof generatedNews)[number]>();
+  for (const news of newsList) {
+    if (!sourceMap.has(news.source)) {
+      sourceMap.set(news.source, news);
+    }
+    if (sourceMap.size >= total) break;
+  }
+  return Array.from(sourceMap.values()).slice(0, total);
+}
+
 function generateSignals(): Signal[] {
   const signals: Signal[] = [];
 
-  // 从新闻生成信号
-  const topNews = generatedNews.slice(0, 3);
+  // 从新闻生成信号：优先保证来源多样性，避免单一来源垄断
+  const topNews = pickDiverseNews(generatedNews, 1, 3);
   for (const [index, news] of topNews.entries()) {
     signals.push({
       id: `sig-${today}-auto-${index + 1}`,

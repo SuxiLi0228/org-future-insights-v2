@@ -9,25 +9,48 @@ interface RssFeed {
 
 // 可配置的 RSS 源列表
 const RSS_FEEDS: RssFeed[] = [
+  // 国际科技
   {
     name: 'MIT Technology Review',
     url: 'https://www.technologyreview.com/feed/',
     tags: ['ai', 'technology'],
   },
   {
-    name: 'Harvard Business Review',
-    url: 'https://hbr.org/rss/topics/technology.topic',
-    tags: ['hr', 'organization', 'technology'],
+    name: 'TechCrunch',
+    url: 'https://techcrunch.com/feed/',
+    tags: ['technology', 'startup', 'ai'],
   },
-  {
-    name: 'World Economic Forum',
-    url: 'https://feeds.weforum.org/agenda',
-    tags: ['future-of-work', 'ai', 'policy'],
-  },
+  // HR 垂直媒体
   {
     name: 'HR Executive',
     url: 'https://hrexecutive.com/feed/',
     tags: ['hr', 'ai-hr'],
+  },
+  {
+    name: 'HR Dive',
+    url: 'https://www.hrdive.com/feeds/news/',
+    tags: ['hr', 'ai-hr', 'workforce'],
+  },
+  // 中国科技 / AI 媒体
+  {
+    name: '36氪',
+    url: 'https://36kr.com/feed',
+    tags: ['china', 'technology', 'startup', 'ai'],
+  },
+  {
+    name: '量子位',
+    url: 'https://www.qbitai.com/feed',
+    tags: ['china', 'ai', 'technology'],
+  },
+  {
+    name: '虎嗅',
+    url: 'https://rss.huxiu.com/',
+    tags: ['china', 'business', 'technology'],
+  },
+  {
+    name: '钛媒体',
+    url: 'https://www.tmtpost.com/rss',
+    tags: ['china', 'technology', 'business', 'ai'],
   },
 ];
 
@@ -107,16 +130,34 @@ async function fetchFeed(feed: RssFeed): Promise<NewsItem[]> {
 
 export async function fetchNews(): Promise<NewsItem[]> {
   const results = await Promise.all(RSS_FEEDS.map(fetchFeed));
-  const allNews = results.flat();
 
-  // 去重并排序
-  const seen = new Set<string>();
-  return allNews
-    .filter((item) => {
-      if (seen.has(item.link)) return false;
-      seen.add(item.link);
-      return true;
-    })
-    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, 30);
+  // 按来源去重，每个来源保留最新 5 条
+  const perSource: NewsItem[][] = results.map((items) => {
+    const seen = new Set<string>();
+    return items
+      .filter((item) => {
+        if (seen.has(item.link)) return false;
+        seen.add(item.link);
+        return true;
+      })
+      .slice(0, 5);
+  });
+
+  // 轮询混合各来源，避免单一来源垄断，同时保证来源多样性
+  const mixed: NewsItem[] = [];
+  let index = 0;
+  while (mixed.length < 30) {
+    let added = false;
+    for (const sourceItems of perSource) {
+      if (sourceItems[index]) {
+        mixed.push(sourceItems[index]);
+        added = true;
+        if (mixed.length >= 30) break;
+      }
+    }
+    if (!added) break;
+    index++;
+  }
+
+  return mixed;
 }
