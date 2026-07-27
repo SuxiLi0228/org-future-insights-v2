@@ -14,15 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-an-organ-transplant-breakthrough-and-homegrown--1784895000000",
-    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
-    "publishedAt": "2026-07-24",
-    "source": "MIT Technology Review",
+    "id": "news-are-brain-waves-the-next-unlock-for-physical-ai-1785111554000",
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "publishedAt": "2026-07-27",
+    "source": "TechCrunch",
     "tags": [
-      "ai",
-      "technology"
+      "technology",
+      "startup",
+      "ai"
     ]
   },
   {
@@ -40,6 +41,99 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-ignored-investigations-sexist-slurs-keep-hr-pro-s-bias-claim-1784927280000",
+    "title": "Ignored investigations, sexist slurs keep HR pro’s bias claims alive",
+    "link": "https://www.hrdive.com/news/ignored-investigations-sexist-slurs-keep-hr-pros-bias-claims-alive/826192/",
+    "summary": "The case details illustrate the difficulties HR professionals may face in investigating misconduct by company leaders.",
+    "publishedAt": "2026-07-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1785120210000",
+    "title": "优衣库一边关店，一边赚钱",
+    "link": "https://36kr.com/p/3913266058826880?f=rss",
+    "summary": "作者 |&nbsp; 谢芸子 编辑 | 张帆 优衣库在悄悄赚钱。 近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&amp;M集团2026财年预期营收在199亿至208亿欧元。 这意味着，迅销将取代H&amp;M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅销这一高目标的，是刚刚发布的超预期财报。 截至5月31日的2026财年前三季度，迅销集团三项核心指标均创新高——累计营收3.07万亿日元，同比增长17.1%；业务利润5927亿日元，同比增长33.6%；归母净利润达到4260亿日元，同比增长25.6%。 最引人注目的变化发生在中国市场。 前三季度，迅销大中华区销售额为5608.39亿日元，同比增长9.86%，营业利润也获得两位数增长。其中中国大陆市场恢复正增长，同店销售额有所提升。 图片截自财报 图片截自财报 这与一年前形成了鲜明对比。 2025财年，优衣库大中华区收入降至6502亿日元，同比下滑4%；营业利润大幅减少12.5%至899亿日元，成为全球市场唯一业绩负增长的区域；大中华区占集团销售总额的比例，也首次低于20%。 不到一年时间，优衣库在中国市场的业绩就实现了触底反弹，但这似乎与消费者的直观感受不符。 分析逆势发展的原因，更多来自“拆旧建新”。 优衣",
+    "publishedAt": "2026-07-27",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ling-3-0-flash-1785117446000",
+    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+    "link": "https://www.qbitai.com/2026/07/461149.html",
+    "summary": "",
+    "publishedAt": "2026-07-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785126038000",
+    "title": " 菜鸟算法的阴影：当电梯门成为社会公德的裂缝 ",
+    "link": "https://www.huxiu.com/article/4878367.html?f=rss",
+    "summary": "本文来自微信公众号： 竞合人工智能 ，作者：丽丽 这些我们亲手创造的工具，在解决旧问题的同时，正在制造新的、更复杂的社会问题。 01 那个被系统“签收”的下午 下午两点十七分，陈敏的手机震动了一下。她点开菜鸟裹裹，屏幕上跳出一条刺眼的通知：“您的包裹已由本人签收。”她愣在工位上，转头看向办公室门口——那里空空如也，没有快递员的身影，更没有她等了三天的那套进口咖啡器具。 这是2026年春天，一个普通得不能再普通的电商购物日。陈敏拨打快递员电话，对方在嘈杂的背景音里语速飞快地解释：“姐，我先点签收，下午一定送到，不然系统要扣钱的。”她还没来得及追问什么叫“系统要扣钱”，电话那头已经传来“嘟——嘟——”的忙音。 这不是陈敏一个人的遭遇。在黑猫投诉平台上，关于“虚假签收”的投诉如雪片般堆积。一位消费者详细记录了自己的维权过程：快递员在上午10点57分标记了签收，而她11点03分到达所谓的签收地点——一家菜鸟驿站——却被告知“京东的件并未送达此驿站”。物流信息与现实之间的鸿沟，正在被系统性地制造出来。 快递员们管这叫“先签收后派送”，学者们称之为“虚假签收策略”，而在这个行业的内部话语体系里，它只是一个冰冷的生存技巧。一位快递员在学术访谈中坦言：“原则是必须当天签收，最多能有2%的留在明天。我们一般从下午四点就开始打电话，最好能让今天来取了，要么就和他们协商看能不能先签收。”另一位则补充：“",
+    "publishedAt": "2026-07-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-238-679-37-1785123462000",
+    "title": "下载增238%，会话增679% ，海外短剧用户有多沉迷：日均看37分钟",
+    "link": "https://www.tmtpost.com/8078095.html",
+    "summary": "谁能够持续占据这块时间，谁就更有可能成为下一代移动内容消费的重要入口。",
+    "publishedAt": "2026-07-27",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-an-organ-transplant-breakthrough-and-homegrown--1784895000000",
+    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+    "publishedAt": "2026-07-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-can-apple-make-smart-glasses-that-aren-t-a-constant-privacy--1785100004000",
+    "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+    "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+    "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+    "publishedAt": "2026-07-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
     "id": "news-why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-l-1784895352000",
     "title": "Why Mobley v. Workday has far-reaching legal impacts for HR leaders",
     "link": "https://hrexecutive.com/why-mobley-v-workday-has-far-reaching-legal-impacts-for-hr-leaders/",
@@ -49,6 +143,98 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "hr",
       "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eeoc-drops-bid-to-press-penn-for-jewish-employee-information-1784927220000",
+    "title": "EEOC drops bid to press Penn for Jewish employee information",
+    "link": "https://www.hrdive.com/news/eeoc-drops-bid-to-press-penn-for-jewish-employee-information/826152/",
+    "summary": "The filing represents a simmering down of tensions in a case that stemmed from a 2023 commissioner&rsquo;s charge filed by Andrea Lucas.",
+    "publishedAt": "2026-07-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-36-morror-art-b-1785115217000",
+    "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+    "link": "https://36kr.com/p/3910655616521348?f=rss",
+    "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。 SonicGlass A1在Kickstarter的众筹金额突破120万美元 从透明歌词音响，走向电子家居产品矩阵 MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示、透明材料与声学系统结合，让原本只存在于手机屏幕中的歌词，成为家庭空间中可以被持续观看和感知的内容。 这一产品迅速建立了较强的辨识度，但对MORROR ART而言，歌词显示不是全部。它真正希望进入的，是",
+    "publishedAt": "2026-07-27",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-3-038-1785043821000",
+    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&#038;复旦报告三连发",
+    "link": "https://www.qbitai.com/2026/07/460962.html",
+    "summary": "项目数据模型均开源",
+    "publishedAt": "2026-07-26",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-kpi-1785125760000",
+    "title": " KPI和绩优主义，正在毁灭我们社会的创造力 ",
+    "link": "https://www.huxiu.com/article/4878377.html?f=rss",
+    "summary": "本文来自微信公众号： 张良计 ，作者：张良计 这不是危言耸听。 昨天我说王虹数学菲尔兹奖夺冠扇了绩优主义一个巴掌，很多人表示不解，那今天这篇文章我就再说深一点。 绩优主义的本质，是【一套标准的游戏规则】，这套规则要求系统里所有人都遵循规矩行事，因为只有这样才好方便管理。 制定分数，制作排行榜，实行末位淘汰制，这些制度都是保证这套规则的“正确”和“稳定”，让处在规则里头的人，心甘情愿把这个游戏继续玩下去。 取得高绩效是荣耀的，拿到低分是可耻的，夺冠就把你捧上神坛，失败就把你拉下神坛，这都是为了规范系统中每个人的行动，让大家的意识形态保持统一，不要东想西想，保证大船朝着一个方向前进，最终实现效益最大化。 并且这么做，还能杜绝对系统合理性的质疑，让身处其中的每个人，自发自愿去顺应系统的意志，为系统创造价值。 这就是绩优主义的由来。 注意，我并不是说这有错。绩优主义有其存在的合理性，我也不否认绩优主义确实能诞生出一些大结果，但它有一个天然的bug，那就是和创造力完全相悖。 什么是创造？ 首先，创造就是没有规则的，或者说，它有无数个不成文的规则。 因为创造这个行为，本身就不具备“唯一性”，更不具备“强迫性”。 大家可以回想一下，人类历史上任何可以被称得上有重大创举的成就，无一例外都是开辟了一条全新的道路出来，且都是突然灵光一闪，而不是把你关在会议室里三天三夜。 这一点你自己都能体会。 让你去",
+    "publishedAt": "2026-07-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785123452000",
+    "title": "智元、宇树扎堆开店，抢的是机器人市场的新入口",
+    "link": "https://www.tmtpost.com/8080382.html",
+    "summary": "缺渠道，就自己建渠道；缺服务，就在店里做服务；缺场景，就把场景搬进门店；缺信任，就让用户先上手摸一摸。",
+    "publishedAt": "2026-07-27",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-supercooled-kidneys-have-been-transplanted-into-pigs-in-a-la-1784825908000",
+    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+    "publishedAt": "2026-07-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-making-sense-of-the-panic-over-chinese-ai-1785094857000",
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "publishedAt": "2026-07-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
       "ai"
     ]
   },
@@ -65,41 +251,71 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ford-8217-s-rehire-wave-has-hr-leaders-rethinking-how-ai-lay-1784894431000",
-    "title": "Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided",
-    "link": "https://hrexecutive.com/fords-rehire-wave-has-hr-leaders-rethinking-how-ai-layoffs-get-decided/",
-    "summary": "Ford rehired 350 engineers after AI fell short. Two HR leaders explain what's driving the AI boomerang and how to avoid it. The post Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided appeared first on HR Executive .",
+    "id": "news-companies-aim-for-more-strategic-pay-increases-wtw-report-1784905680000",
+    "title": "Companies aim for more ‘strategic’ pay increases: WTW report",
+    "link": "https://www.hrdive.com/news/companies-aim-more-strategic-pay-increases-wtw-report/826125/",
+    "summary": "With salary budgets projected to increase 3.4% in 2027, employers are moving away from broad-based pay increases in favor of more targeted increases and spot awards.",
     "publishedAt": "2026-07-24",
-    "source": "HR Executive",
+    "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
+      "workforce",
       "ai"
     ]
   },
   {
-    "id": "news-uk-workplace-harassment-regs-are-about-to-change-1784892645000",
-    "title": "UK workplace harassment regs are about to change",
-    "link": "https://hrexecutive.com/uk-workplace-harassment-regs-are-about-to-change/",
-    "summary": "Organizations with a presence in the UK have three months to comply with updates to workplace harassment laws. Here's what they need to know. The post UK workplace harassment regs are about to change appeared first on HR Executive .",
-    "publishedAt": "2026-07-24",
-    "source": "HR Executive",
+    "id": "news--1785114000000",
+    "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+    "link": "https://36kr.com/p/3912546487637378?f=rss",
+    "summary": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。 更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。 7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。 作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间基础设施不仅需要持续提升感知能力，还要构建具备认知、推演和决策能力的智能体系。“太空大脑”是数字空间建设的核心枢纽，需要形成与真实空间环境相连接、贯通“感知-认知-行为”的大脑智能体系，推动航天器由“地面指挥、星上执行”逐步走向风险场景下有限自主和星地协同智能运行。 中国科学院院士魏奉思 所谓大脑智能，简单来说就",
+    "publishedAt": "2026-07-27",
+    "source": "36氪",
     "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
+      "china",
+      "technology",
+      "startup",
+      "ai"
     ]
   },
   {
-    "id": "news-supercooled-kidneys-have-been-transplanted-into-pigs-in-a-la-1784825908000",
-    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-    "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
-    "publishedAt": "2026-07-23",
-    "source": "MIT Technology Review",
+    "id": "news-100-agent-1784982934000",
+    "title": "100%开源！吴恩达做了个个人桌面Agent",
+    "link": "https://www.qbitai.com/2026/07/460892.html",
+    "summary": "开源、隐私、本地优先、模型无关",
+    "publishedAt": "2026-07-25",
+    "source": "量子位",
     "tags": [
+      "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-3-1785125747000",
+    "title": " 长鑫科技，可不止3万亿 ",
+    "link": "https://www.huxiu.com/article/4878353.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 长鑫科技官网 &nbsp; 今天是见证历史的时刻。 &nbsp; 7月27日长鑫科技登陆科创板，不仅仅是一场IPO，也是中国大陆DRAM存储产业的里程碑时刻。 &nbsp; 长鑫科技今日首日上市高开471.59%，报49.5元，开盘集合成交额超152亿元，公司市值3.31万亿元，位居A股第一位。 截至午盘，长鑫科技的市值已达到了3.66万亿。 &nbsp; 在长鑫科技上市之前，海外存储巨头三星、SK海力士、美光的股价出现了调整。其中，7月份以来，SK海力士、三星电子的股价分别下跌了31.3%、20.7%。 &nbsp; 资本市场原以为长鑫科技会在一场“存储超级周期”叙事里登陆，结果海外存储巨头跌成这样。不过，现在资本市场用脚投票，表达了对长鑫科技未来发展的信心。 &nbsp; 那么，长鑫科技的天花板有多高呢？长鑫科技的合理定价是多少呢？ &nbsp; 一、流动性溢价拔高估值 &nbsp; 妙投认为，当天真正影响长鑫科技股价上涨是流动性溢价，也就是关注参与长鑫科技的投资者多，但流通盘小。 &nbsp; 上市首日，长鑫科技仅6.73%股份（约45.03亿股）属于无限售流通股，超过93%股份处于限售状态；其中部分社保等战略投资者最早将于2027年7月解禁，原始股东与部分产业资本锁定期最长达36个月。 &nbsp; 此外，本",
+    "publishedAt": "2026-07-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785123444000",
+    "title": "县城人口持续流出，为何还要争抢大学落地？",
+    "link": "https://www.tmtpost.com/8080355.html",
+    "summary": "一场互利共赢的“双向奔赴”。",
+    "publishedAt": "2026-07-27",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
     ]
   },
   {
@@ -115,73 +331,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-ai-helps-scientists-design-the-next-generation-of-medici-1784808000000",
-    "title": "How AI helps scientists design the next generation of medicines",
-    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
-    "publishedAt": "2026-07-23",
-    "source": "MIT Technology Review",
+    "id": "news-inside-one-london-founder-house-rewriting-the-founder-house--1785085399000",
+    "title": "Inside one London founder house rewriting the founder-house rules",
+    "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
+    "publishedAt": "2026-07-26",
+    "source": "TechCrunch",
     "tags": [
-      "ai",
-      "technology"
+      "technology",
+      "startup",
+      "ai"
     ]
   },
   {
-    "id": "news-the-power-line-that-could-reshape-new-york-s-grid-is-hitting-1784797200000",
-    "title": "The power line that could reshape New York’s grid is hitting snags",
-    "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-    "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).&#8230;",
-    "publishedAt": "2026-07-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-research-reveals-growing-gap-between-hr-s-learning-needs-org-1784809826000",
-    "title": "Research reveals growing gap between HR’s learning needs, organizational investment",
-    "link": "https://hrexecutive.com/research-reveals-growing-gap-between-hrs-learning-needs-organizational-investment/",
-    "summary": "Eight in 10 HR professionals say their organization is not committing adequate resources to the professional development of their HR teams. The post Research reveals growing gap between HR’s learning needs, organizational investment appeared first on HR Executive .",
-    "publishedAt": "2026-07-23",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-benefits-advisors-to-cms-behavioral-health-benefits-are-8216-1784808927000",
-    "title": "Benefits advisors to CMS: Behavioral health benefits are &#8216;not optional&#8217;",
-    "link": "https://hrexecutive.com/benefits-advisors-to-cms-behavioral-health-benefits-are-not-optional/",
-    "summary": "Regulators are sifting through hundreds of comments about how a state should design its standard package. The post Benefits advisors to CMS: Behavioral health benefits are &#8216;not optional&#8217; appeared first on HR Executive .",
-    "publishedAt": "2026-07-23",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-the-readiness-trap-what-leaders-get-wrong-about-transformati-1784807112000",
-    "title": "The readiness trap: What leaders get wrong about transformation",
-    "link": "https://hrexecutive.com/the-readiness-trap-what-leaders-get-wrong-about-transformation/",
-    "summary": "Readiness isn't a gate you pass through, and it isn't a signal that arrives to tell you it's safe to begin. The post The readiness trap: What leaders get wrong about transformation appeared first on HR Executive .",
-    "publishedAt": "2026-07-23",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-aws-joins-openai-and-anthropic-in-race-to-embed-engineers-in-1784806238000",
-    "title": "AWS joins OpenAI and Anthropic in race to embed engineers inside enterprises",
-    "link": "https://hrexecutive.com/aws-joins-openai-and-anthropic-in-race-to-embed-engineers-inside-enterprises/",
-    "summary": "OpenAI, AWS and the Pentagon are racing to embed forward-deployed engineers who redesign HR systems, largely without CHROs involved. The post AWS joins OpenAI and Anthropic in race to embed engineers inside enterprises appeared first on HR Executive .",
-    "publishedAt": "2026-07-23",
+    "id": "news-ford-8217-s-rehire-wave-has-hr-leaders-rethinking-how-ai-lay-1784894431000",
+    "title": "Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided",
+    "link": "https://hrexecutive.com/fords-rehire-wave-has-hr-leaders-rethinking-how-ai-layoffs-get-decided/",
+    "summary": "Ford rehired 350 engineers after AI fell short. Two HR leaders explain what's driving the AI boomerang and how to avoid it. The post Ford&#8217;s rehire wave has HR leaders rethinking how AI layoffs get decided appeared first on HR Executive .",
+    "publishedAt": "2026-07-24",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -190,63 +357,44 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-four-big-name-ai-layoffs-four-different-explanations-1784806222000",
-    "title": "Four big-name AI layoffs, four different explanations",
-    "link": "https://hrexecutive.com/four-big-name-ai-layoffs-four-different-explanations/",
-    "summary": "Oracle, Amazon, Cloudflare and Block are all citing AI in 2026 workforce cuts. The reasoning behind each is not the same. The post Four big-name AI layoffs, four different explanations appeared first on HR Executive .",
-    "publishedAt": "2026-07-23",
-    "source": "HR Executive",
+    "id": "news-confidence-in-hr-may-hinge-on-moving-beyond-task-level-ai-us-1784905620000",
+    "title": "Confidence in HR may hinge on moving beyond task-level AI use",
+    "link": "https://www.hrdive.com/news/confidence-in-hr-may-hinge-on-moving-beyond-task-level-ai-use/826136/",
+    "summary": "As HR claims more ownership of AI strategy, belief that the technology can &ldquo;significantly improve how work gets done&rdquo; has decreased, Culture Amp said.",
+    "publishedAt": "2026-07-24",
+    "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
+      "workforce",
       "ai",
-      "ecommerce"
+      "organization",
+      "strategy"
     ]
   },
   {
-    "id": "news-the-download-nasa-s-new-space-telescope-and-openai-8217-s-au-1784722200000",
-    "title": "The Download: NASA’s new space telescope and OpenAI&#8217;s autonomous hacker",
-    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
-    "publishedAt": "2026-07-22",
-    "source": "MIT Technology Review",
+    "id": "news-8-1-51-79-1785109815000",
+    "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+    "link": "https://36kr.com/p/3913118530819457?f=rss",
+    "summary": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景，对应长鑫科技估值为1万亿元、1.5万亿元、2.3万亿元和4.25万亿元。基于上述预估的1万亿元-4万亿元市值区间，对应上市后首日涨幅落在70%-600%区间。对比8.66元的发行价，中一签的盈利空间大约",
+    "publishedAt": "2026-07-26",
+    "source": "36氪",
     "tags": [
-      "ai",
-      "technology"
+      "china",
+      "technology",
+      "startup",
+      "ai"
     ]
   },
   {
-    "id": "news-shape-shifting-mirrors-on-nasa-s-new-space-telescope-could-u-1784710800000",
-    "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-    "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-    "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
-    "publishedAt": "2026-07-22",
-    "source": "MIT Technology Review",
+    "id": "news-pi-xx-rss-2026-1784982267000",
+    "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+    "link": "https://www.qbitai.com/2026/07/460542.html",
+    "summary": "这是机器人领域最好的时代",
+    "publishedAt": "2026-07-25",
+    "source": "量子位",
     "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-chinese-ai-divides-the-white-house-and-a-record-1784635800000",
-    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading&#8230;",
-    "publishedAt": "2026-07-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-advancing-next-gen-ai-with-materials-science-innovation-1784630254000",
-    "title": "Advancing next-gen AI with materials science innovation",
-    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
-    "publishedAt": "2026-07-21",
-    "source": "MIT Technology Review",
-    "tags": [
+      "china",
       "ai",
       "technology"
     ]
@@ -701,4 +849,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T02:31:30.442Z';
+export const dataFetchedAt = '2026-07-27T04:31:51.761Z';
