@@ -1,7 +1,140 @@
 import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
-{
+  {
+    "id": "report-2026-07-28-auto",
+    "date": "2026-07-28",
+    "session": "auto",
+    "title": "2026-07-28 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-28-auto-1",
+        "emoji": "⚠️",
+        "title": "How lasers could help provide fuel for nuclear reactors",
+        "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+        "detail": "来源: MIT Technology Review。Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
+      },
+      {
+        "id": "sig-2026-07-28-auto-2",
+        "emoji": "💡",
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "detail": "来源: TechCrunch。OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
+      },
+      {
+        "id": "sig-2026-07-28-auto-3",
+        "emoji": "🚨",
+        "title": "Nike&#8217;s $7.5 million pay bias verdict a warning to HR",
+        "summary": "Federal jury finds Nike willfully violated equal pay law, awarding a former engineer back pay and over $7.5 million in punitive damages. The post Nike&#8217;s $7.5 million pay bias verdict a warning to HR appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Federal jury finds Nike willfully violated equal pay law, awarding a former engineer back pay and over $7.5 million in punitive damages. The post Nike&#8217;s $7.5 million pay bias verdict a warning to HR appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/nike-ordered-to-pay-7-5-million-after-jury-finds-gender-pay-and-promotion-bias/"
+      },
+      {
+        "id": "sig-2026-07-28-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：SM4RT: Learning Structured Motion Geometry for 4D Reconstruc...",
+        "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti",
+        "detail": "作者: Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo。Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise displacements, ignoring the structured nature of physical motion. However, real-world objects usually obey rigid-body kinematics, and points thus usually move collectively, not in isolation. Motion itself possesses geometric structure: physical objects undergo a set of rigid-body transformations governed by SE(3), rather than unstructured point-wise displacements. Building on this insight, we propose SM4RT, a Structured Motion 4D Reconstruction Transformer for end-to-end 3D reconstructio",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.22534v1"
+      },
+      {
+        "id": "sig-2026-07-28-auto-5",
+        "emoji": "💼",
+        "title": "Level 20 Netherlands 正在招募 Book recommendation",
+        "summary": "岗位类型：业务+AI 复合岗。Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
+        "detail": "技能要求: 未标注。Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys Please mention the word **HANDY** and tag RMTMuNjYuMTc0Ljgz when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgz) This is a beta feature to avoid spam applicants Companies can",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Level 20 Netherlands"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Level 20 Netherlands",
+        "link": "https://remoteOK.com/remote-jobs/remote-book-recommendation-level-20-netherlands-1135423"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-28-1",
+        "priority": "medium",
+        "action": "关注「How lasers could help provide fuel for n」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-28-2",
+        "priority": "low",
+        "action": "关注「OpenAI’s Hugging Face breach has reignit」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-07-28-3",
+        "priority": "high",
+        "action": "关注「Nike&#8217;s $7.5 million pay bias verdi」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-28-4",
+        "priority": "medium",
+        "action": "关注「研究速递：SM4RT: Learning Structured Motion G」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-07-28-5",
+        "priority": "medium",
+        "action": "关注「Level 20 Netherlands 正在招募 Book recommend」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Level 20 Netherlands"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 53,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-28 生成，聚合了 30 条新闻、20 篇论文、3 个岗位。",
+    "fetchWindow": "2026-07-28 00:00 - 2026-07-28 23:59"
+  },
+  {
     "id": "report-2026-07-27-auto",
     "date": "2026-07-27",
     "session": "auto",

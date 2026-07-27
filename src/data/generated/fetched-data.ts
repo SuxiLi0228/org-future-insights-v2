@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-lasers-for-nuclear-fuel-and-organ-preservation--1785154200000",
-    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
+    "id": "news-how-lasers-could-help-provide-fuel-for-nuclear-reactors-1785162282000",
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snapchat-now-lets-you-share-what-you-8217-re-listening-to-in-1785157200000",
-    "title": "Snapchat now lets you share what you&#8217;re listening to in real time",
-    "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-    "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+    "id": "news-openai-s-hugging-face-breach-has-reignited-the-debate-over-a-1785173322000",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -39,10 +39,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-isn-t-hr-s-biggest-challenge-confidence-is-1785142800000",
-    "title": "AI isn’t HR’s biggest challenge. Confidence is.",
-    "link": "https://www.hrdive.com/spons/ai-isnt-hrs-biggest-challenge-confidence-is/826129/",
-    "summary": "The future of HR isn&#39;t AI alone&mdash;it&#39;s confident HR professionals using AI well.",
+    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
+    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
+    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
+    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785161529000",
-    "title": " 给蟑螂开发潜水服，然后说这是为了拯救人类？ ",
-    "link": "https://www.huxiu.com/article/4878579.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 如果面临危急时刻，让一群蟑螂来救你，你能接受么？ 不少人估计会选择原地去世，结果现在突然有一批科学家说，已经试着让“半机械大蟑螂”加入灾后救援了。甚至为了让它能适应各种环境，最近科学家还给它设计了一套潜水服。 网友看完人都傻了，蟑螂本来就生存能力拉满，无孔不入，现在连水下都来去自如，这和让蚊子适应冬天有什么区别？ 01：半机械蟑螂的潜水服 这项技术背后，是新加坡南洋理工大学一支团队持续十余年的“半机械昆虫”研究。这次他们与日本早稻田大学联合研发的潜水装备，可以让6厘米长的马达加斯加发声蟑螂在水下存活并行动长达3小时。 这跟穿了一身外挂差不多，因为如果没有这身装备，蟑螂也就能在水下撑个几分钟就会窒息过去。 陆生蟑螂被活生生改成水陆两栖的机器生物了，我就说海绵宝宝是“纪录片”吧。 简单来说，所谓的“半机械蟑螂”，就是给蟑螂安装一个背包一样的电子控制器，然后通过轻微的电刺激，就能遥控它的行动。准备用来丰富灾后搜救手段，可以遥控它们在更狭小的地段参与救援工作。 其实很多年前“遥控蟑螂”就开始满地乱跑了，但问题就是以前的改造都是用在地面的，没法下水。而现实中的受灾场景往往更复杂，有大量积水区域。所以为了弥补短板，研究团队才设计了这套潜水装备。 所以这套潜水服什么样，总不至于背着个氧气瓶下水吧？ 整套潜水服的核心部件有三个，一个防水的外壳，",
+    "id": "news--1785171600000",
+    "title": " 东野圭吾：在白夜里走路的人 ",
+    "link": "https://www.huxiu.com/article/4878594.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心，原文标题：《【逝者系列】东野圭吾：在白夜里走路的人》 （也可能是年龄增长，最近几年越来越多发现成长过程中耳熟能详的一些名人、周围亲人、长辈陆续离世，感触良多。所以打算后续增加一个系列，有对我影响较大的名人或者普通人去世时，都会通过此频道纪念～） ··· 2026年7月27日，我看到手机推送的一则简短讣告：作家东野圭吾于7月23日凌晨因结肠癌去世，享年68岁。葬礼已由其家属低调举行。 没有公开追悼会，没有媒体通告，没有一句多余的话。 四天。从一个人离开这个世界，到全世界知道他离开的消息，中间隔了沉默的四天。这四天里，东京照常天亮，大阪依然闷热，全世界的书店里他的小说还在卖。东野圭吾用了这种方式告别：先把身后事全部处理干净，再让世界慢慢知道。确实像一个推理作家给自己安排的最后一个情节：等你读到这一行的时候，故事早就写完了。 他离开的那天，距离他的遗作《永远的记忆》——\"神探伽利略\"系列的最新长篇——出版，还有十三天。他已经把稿子交了。讲谈社说，出版计划不作更改，8月5日，书会如期出现在书店里。 只是作者不在了。 ··· 一、大阪的普通人 东野圭吾从来不是一个\"天才\"的人设。他说过一句很诚实的话：自己小时候\"最讨厌读书\"。 1958年2月4日，他出生在大阪生野区。家里开一间卖钟表和眼镜的小店，生意惨淡。父亲话不多，母亲操持家务，两个姐姐念完",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-path-to-artificial-superintelligence-1785153600000",
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "id": "news-the-download-lasers-for-nuclear-fuel-and-organ-preservation--1785154200000",
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -119,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adj-1785157200000",
-    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "id": "news-threads-users-can-now-chat-with-meta-ai-in-their-dms-1785170724000",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -145,17 +145,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ignored-investigations-sexist-slurs-keep-hr-pro-s-bias-claim-1784927280000",
-    "title": "Ignored investigations, sexist slurs keep HR pro’s bias claims alive",
-    "link": "https://www.hrdive.com/news/ignored-investigations-sexist-slurs-keep-hr-pros-bias-claims-alive/826192/",
-    "summary": "The case details illustrate the difficulties HR professionals may face in investigating misconduct by company leaders.",
-    "publishedAt": "2026-07-24",
+    "id": "news-week-in-review-federal-hr-office-lost-over-1-000-workers-in--1785164760000",
+    "title": "Week in review: Federal HR office lost over 1,000 workers in one year",
+    "link": "https://www.hrdive.com/news/week-in-review-federal-hr-office-lost-over-1000-workers-in-one-year/826233/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of workers who see work as a &ldquo;situationship.&rdquo;",
+    "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -186,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785161078000",
-    "title": " 从给瑞幸供货到自己开店，冷冻面包厂盯上了囤货的年轻人 ",
-    "link": "https://www.huxiu.com/article/4878578.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部 食品工厂开始走到台前卖面包，是一门好生意吗？ 本文由红餐网(ID：hongcan18)原创首发。作者：李金枝；编辑：方圆。 最近几个月，一批打着“烘焙工厂店”旗号的新品牌开始密集出现。 这些品牌首先在江浙沪落地。比如，4月在上海落店的炉边皮皮，称开业不到一个月销售额突破110万元；一焙一城烘焙工厂店在上海、常州、昆山、太仓布局了9家门店；大谓面包工厂在太仓开了6家店；莱卡尔烘焙工厂、美丽家面包工厂店、全唛大师等品牌也陆续开出门店。 部分品牌正向更多区域扩散。宁波诞生的早安咚咚，已先后落地杭州、宁波、常州、佛山等城市，并计划继续向华东、华南、华中市场铺开。 这些冷冻烘焙工厂店没有后厨，没有现烤区，没有大面积堂食空间，主打冷冻面包、甜品，单品价格几乎都压到了个位数——贝果2.9元、吐司2.9元、蛋糕切片9.9元…… 比低价更值得关注的是，这些门店背后，大多站着一家食品工厂。当越来越多食品工厂开始绕过品牌，直接把面包卖给消费者，它们究竟想做一门怎样的新生意？ 1.9元起，面包开始“按筐卖” 近日，红餐网探访了早安咚咚位于佛山的华南首店。 推门进去发现，它和印象中的面包店几乎没有关系。店里没有现烤区，没有烘焙师，只有一名工作人员在前台负责收银。 100平米左右的空间里，核心陈设只有成排冷柜，里面整齐摆放着贝果、吐司、碱水包、欧包、蛋糕切片等",
+    "id": "news--1785170812000",
+    "title": " 东野圭吾为什么那么红？他写的不是推理，是人性 ",
+    "link": "https://www.huxiu.com/article/4878597.html?f=rss",
+    "summary": "本文来自微信公众号： 冰川思享号 ，作者：维舟 对他而言，案子其实只是一个载体，借此来呈现复杂深邃的人性而已，对于很多当代读者来说，这种风格极大地拓展了推理故事的人性深度，也更有吸引力 日本\"推理小说之王\"东野圭吾日前病逝，年仅68岁。 对推理小说界和广大读者来说，这都是一大损失，因为如果他能多活十几年，肯定还会有新作诞生。 自1985年推出第一部作品《放学后》以来，他以惊人的速度创作了多达106部作品。整整41年时间，期间除了1997年之外，平均每年都要推出两三部作品，是出了名的\"劳模作家\"。 这些作品合计销量在十年前就已突破恐怖的1亿册，其人气之高，世所罕见。 出版越多，当然版税收入越高，因而他在日本出版界号称\"印钞机\"。不仅在日本如此，在中国他也极为受欢迎。2011年他在华版税收入480万元，到巅峰的2018年达到4200万人民币之巨，排名\"外国作家榜\"榜首，比第二名村上春树（1800万）和第三名J.K.罗琳（1500万）加起来还多。 01 \"推理小说之王\"是怎样炼成的 东野圭吾也不是一开始就那么红的，恐怕他自己当年都想不到自己有一天会红得发紫。 他不是那种天才型作家，早年并未表现出什么过人的天赋，上中学之前根本不喜欢看书，更不看推理小说。直到有一次无意中读了小峰元的《阿基米德借刀杀人》，可能因为主角就是高中生，让他很有代入感，才第一次感到\"这样的小说实在有趣，好像我也可以写",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -213,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-closing-the-data-loop-in-ai-driven-drug-discovery-1785152416000",
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
+    "id": "news-the-path-to-artificial-superintelligence-1785153600000",
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -225,10 +224,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-europe-got-its-own-tbpn-style-live-show-and-everyone-s-angli-1785146400000",
-    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-    "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-    "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+    "id": "news-google-8217-s-ai-search-is-rapidly-becoming-the-default-new--1785167832000",
+    "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
+    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -251,16 +250,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-drops-bid-to-press-penn-for-jewish-employee-information-1784927220000",
-    "title": "EEOC drops bid to press Penn for Jewish employee information",
-    "link": "https://www.hrdive.com/news/eeoc-drops-bid-to-press-penn-for-jewish-employee-information/826152/",
-    "summary": "The filing represents a simmering down of tensions in a case that stemmed from a 2023 commissioner&rsquo;s charge filed by Andrea Lucas.",
-    "publishedAt": "2026-07-24",
+    "id": "news-leadership-readiness-lags-behind-ai-adoption-rate-1785164700000",
+    "title": "Leadership readiness lags behind AI adoption rate",
+    "link": "https://www.hrdive.com/news/leadership-readiness-lags-behind-ai-adoption-rate/826229/",
+    "summary": "Only 3% of leaders are prepared to steer the ship on artificial intelligence adoption, research suggests.",
+    "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -291,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785160934000",
-    "title": " 人形机器人有了出口“身份证”，中国外贸“新新三样”浮出水面 ",
-    "link": "https://www.huxiu.com/article/4878576.html?f=rss",
-    "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 7月27日，央视财经将机器人、人工智能和创新药称为中国出口“新新三样”。 “新新三样”源于一组海关数据。2026年上半年，中国工业机器人出口额达到62.9亿元，同比增长18.6%，产品销往141个国家和地区；手术机器人出口额为4.8亿元，同比增长3.3倍；清洁机器人和智能仿生机器人合计出口180.9亿元。 今年，海关还为清洁机器人和智能仿生机器人新增了专门税号。人形机器人、机器狗以及仿生鱼鸟等新产品，开始拥有相对明确的贸易身份。 此前，这些产品可能被归入其他机械设备类别。市场上出现了多少订单、出口到哪些国家，很难从海关数据中单独观察。新的税号建立后，人形机器人第一次被纳入一张更清晰的出口统计表。 订单结构 在三组机器人出口数据中，180.9亿元最为醒目。不过，这个数字并非人形机器人的出口额。 按照海关总署披露的口径，180.9亿元由清洁机器人和智能仿生机器人共同贡献。前者包括已经拥有成熟消费市场的扫地机器人和割草机器人，后者才包括人形机器人、机器狗等新产品。 人形机器人现阶段只占其中一部分。具体占比尚未公布。 这也构成了当下中国机器人出口的真实结构。扫地机器人、割草机器人等产品已经进入海外家庭，工业机器人开始批量进入海外工厂，人形机器人则主要卖给高校、实验室、开发者以及商业展示和赛事运营机构。 工业机器人发展更快。 2025年，中",
+    "id": "news-20-1785169737000",
+    "title": " 年销20亿元的感冒灵，说明书要大改，国家药监局明确：服药期间不得开车 ",
+    "link": "https://www.huxiu.com/article/4878596.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《年销20亿元的感冒灵，说明书要大改！国家药监局明确：服药期间不得开车》 吃完感冒灵不能开车了！ 近日，国家药监局发布公告，根据药品不良反应评估结果，为进一步保障公众用药安全，决定对感冒灵口服制剂（颗粒、胶囊、片、茶）说明书实施统一修订，集中完善警示语、禁忌、不良反应、注意事项等四大核心板块。 《每日经济新闻》记者（以下简称每经记者）注意到，本次修订强调服药期间不得驾驶机、车、船、从事高空作业、机械作业及操作精密仪器等。 就上述修订影响等问题，部分头部感冒灵生产企业均表示暂不接受每经记者的采访。某连锁药店负责人告诉记者，本次国家药监局修订感冒灵说明书不会对终端感冒药销售造成明显影响。该类药品仅短期季节性按需服用，区别于慢性病长期用药，且市场存在无嗜睡副作用的替代感冒药，能满足司机、特殊作业人群需求，消费分流幅度可控。 感冒灵全剂型迎统一修订，期限明确 据悉，感冒灵是典型的中西药复方制剂，含有对乙酰氨基酚、马来酸氯苯那敏、咖啡因三种西药成分。湖南省药品流通行业协会原秘书长黄修祥告诉记者，马来酸氯苯那敏（氯苯那敏）属于第一代抗组胺药，具有中枢抑制作用，易引起嗜睡、乏力、注意力下降，但不属于国家管制的精神药品或麻醉药品。因此，单纯服用感冒灵目前不直接构成该条关联的违法驾驶行为。类似修订此前已有，如2024年对复方感冒灵的部分",
     "publishedAt": "2026-07-27",
     "source": "虎嗅",
     "tags": [
@@ -318,10 +319,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-building-the-enterprise-environment-for-agentic-ai-1785151978000",
-    "title": "Building the enterprise environment for agentic AI",
-    "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+    "id": "news-closing-the-data-loop-in-ai-driven-drug-discovery-1785152416000",
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
     "publishedAt": "2026-07-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -330,16 +331,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-are-brain-waves-the-next-unlock-for-physical-ai-1785111554000",
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "id": "news-power-up-your-ai-infrastructure-a-first-look-at-the-smart-sy-1785166200000",
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -356,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-companies-aim-for-more-strategic-pay-increases-wtw-report-1784905680000",
-    "title": "Companies aim for more ‘strategic’ pay increases: WTW report",
-    "link": "https://www.hrdive.com/news/companies-aim-more-strategic-pay-increases-wtw-report/826125/",
-    "summary": "With salary budgets projected to increase 3.4% in 2027, employers are moving away from broad-based pay increases in favor of more targeted increases and spot awards.",
-    "publishedAt": "2026-07-24",
+    "id": "news-ai-isn-t-hr-s-biggest-challenge-confidence-is-1785142800000",
+    "title": "AI isn’t HR’s biggest challenge. Confidence is.",
+    "link": "https://www.hrdive.com/spons/ai-isnt-hrs-biggest-challenge-confidence-is/826129/",
+    "summary": "The future of HR isn&#39;t AI alone&mdash;it&#39;s confident HR professionals using AI well.",
+    "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -779,8 +781,9 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RMTcyLjE4Mi4yMDAuMTQ5 when applying to show you read the job post completely (#RMTcyLjE4Mi4yMDAuMTQ5)",
-      "This is a beta feature to avoid spam applicants"
+      "Please mention the word **HANDY** and tag RMTMuNjYuMTc0Ljgz when applying to show you read the job post completely (#RMTMuNjYuMTc0Ljgz)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can"
     ],
     "skills": [],
     "location": "Rushen, ",
@@ -829,4 +832,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T14:23:01.477Z';
+export const dataFetchedAt = '2026-07-27T17:39:10.006Z';
