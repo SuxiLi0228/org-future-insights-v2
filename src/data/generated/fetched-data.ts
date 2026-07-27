@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-launches-its-first-cybersecurity-model-plus-a-new--1785177131000",
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
+    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -39,17 +39,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
-    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
-    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
-    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
+    "id": "news-gap-inc-opens-creator-program-to-employees-1785184980000",
+    "title": "Gap Inc. opens creator program to employees",
+    "link": "https://www.hrdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826293/",
+    "summary": "Corporate, distribution and store staff can now apply to be influencers for the retailer&rsquo;s brand portfolio, almost a year after the program&rsquo;s launch.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -119,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-sued-after-alleged-app-store-crypto-scam-cost-users-1--1785176895000",
-    "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-    "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
-    "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
+    "id": "news-as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-1785184800000",
+    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+    "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+    "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -145,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-federal-hr-office-lost-over-1-000-workers-in--1785164760000",
-    "title": "Week in review: Federal HR office lost over 1,000 workers in one year",
-    "link": "https://www.hrdive.com/news/week-in-review-federal-hr-office-lost-over-1000-workers-in-one-year/826233/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of workers who see work as a &ldquo;situationship.&rdquo;",
+    "id": "news-previous-vaccinations-shouldn-t-bar-worker-s-religious-vacci-1785184920000",
+    "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says",
+    "link": "https://www.hrdive.com/news/previous-vaccinations-shouldnt-bar-workers-religious-vaccine-exemption-re/826285/",
+    "summary": "An employer&rsquo;s initial approval of a COVID-19 vaccine mandate exemption request showed that it understood the request&rsquo;s religious nature, per the 9th Circuit.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
@@ -224,17 +225,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-8217-s-new-satellite-network-for-mobile-phones-could--1785175709000",
-    "title": "Amazon&#8217;s new satellite network for mobile phones could turn up the heat on SpaceX",
-    "link": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-    "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+    "id": "news-psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-1785183582000",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -251,18 +251,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-leadership-readiness-lags-behind-ai-adoption-rate-1785164700000",
-    "title": "Leadership readiness lags behind AI adoption rate",
-    "link": "https://www.hrdive.com/news/leadership-readiness-lags-behind-ai-adoption-rate/826229/",
-    "summary": "Only 3% of leaders are prepared to steer the ship on artificial intelligence adoption, research suggests.",
+    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
+    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
+    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
+    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -332,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-antares-raises-470m-to-build-nuclear-reactors-for-the-us-mil-1785174568000",
-    "title": "Antares raises $470M to build nuclear reactors for the US military",
-    "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-    "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+    "id": "news-microsoft-launches-its-first-cybersecurity-model-plus-a-new--1785177131000",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -358,17 +357,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-isn-t-hr-s-biggest-challenge-confidence-is-1785142800000",
-    "title": "AI isn’t HR’s biggest challenge. Confidence is.",
-    "link": "https://www.hrdive.com/spons/ai-isnt-hrs-biggest-challenge-confidence-is/826129/",
-    "summary": "The future of HR isn&#39;t AI alone&mdash;it&#39;s confident HR professionals using AI well.",
+    "id": "news-week-in-review-federal-hr-office-lost-over-1-000-workers-in--1785164760000",
+    "title": "Week in review: Federal HR office lost over 1,000 workers in one year",
+    "link": "https://www.hrdive.com/news/week-in-review-federal-hr-office-lost-over-1000-workers-in-one-year/826233/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of workers who see work as a &ldquo;situationship.&rdquo;",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -781,7 +779,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RNTIuMjI2LjEyNC4yNw== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4yNw==)",
+      "Please mention the word **SAGELY** and tag RNTIuMTU5LjI0NC44Mg== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC44Mg==)",
       "This is a beta fea"
     ],
     "skills": [],
@@ -798,7 +796,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RNTIuMjI2LjEyNC4yNw== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4yNw==)",
+      "Please mention the word **HANDY** and tag RNTIuMTU5LjI0NC44Mg== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC44Mg==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -848,4 +846,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T19:20:22.756Z';
+export const dataFetchedAt = '2026-07-27T21:06:12.863Z';
