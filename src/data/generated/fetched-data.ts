@@ -69,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ling-3-0-flash-1785117446000",
-    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-    "link": "https://www.qbitai.com/2026/07/461149.html",
-    "summary": "",
+    "id": "news--1785124547000",
+    "title": "企业出海，被中国信通院和腾讯重新定义了一次",
+    "link": "https://www.qbitai.com/2026/07/461153.html",
+    "summary": "22位AI专家率先上岗WorkBuddy",
     "publishedAt": "2026-07-27",
     "source": "量子位",
     "tags": [
@@ -174,11 +174,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-038-1785043821000",
-    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&#038;复旦报告三连发",
-    "link": "https://www.qbitai.com/2026/07/460962.html",
-    "summary": "项目数据模型均开源",
-    "publishedAt": "2026-07-26",
+    "id": "news-ling-3-0-flash-1785117446000",
+    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+    "link": "https://www.qbitai.com/2026/07/461149.html",
+    "summary": "",
+    "publishedAt": "2026-07-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -279,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-agent-1784982934000",
-    "title": "100%开源！吴恩达做了个个人桌面Agent",
-    "link": "https://www.qbitai.com/2026/07/460892.html",
-    "summary": "开源、隐私、本地优先、模型无关",
-    "publishedAt": "2026-07-25",
+    "id": "news-3-038-1785043821000",
+    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&#038;复旦报告三连发",
+    "link": "https://www.qbitai.com/2026/07/460962.html",
+    "summary": "项目数据模型均开源",
+    "publishedAt": "2026-07-26",
     "source": "量子位",
     "tags": [
       "china",
@@ -387,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pi-xx-rss-2026-1784982267000",
-    "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-    "link": "https://www.qbitai.com/2026/07/460542.html",
-    "summary": "这是机器人领域最好的时代",
+    "id": "news-100-agent-1784982934000",
+    "title": "100%开源！吴恩达做了个个人桌面Agent",
+    "link": "https://www.qbitai.com/2026/07/460892.html",
+    "summary": "开源、隐私、本地优先、模型无关",
     "publishedAt": "2026-07-25",
     "source": "量子位",
     "tags": [
@@ -778,7 +778,7 @@ export const generatedJobs: JobPosting[] = [
   {
     "id": "job-remoteok-1135451",
     "title": "Dubai UAE",
-    "company": "å¯é»ä¹å½éè´¸æï¼ä¸æµ·ï¼æéå¬å¸",
+    "company": "富默乐国际贸易（上海）有限公司",
     "category": "hybrid_ai",
     "responsibilities": [
       "Flexible Working Hours Adjust your hour"
@@ -786,7 +786,7 @@ export const generatedJobs: JobPosting[] = [
     "skills": [
       "RAG"
     ],
-    "location": "Ø¯Ø¨Ù, ",
+    "location": "دبي, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
     "postedAt": "2026-07-25",
@@ -816,7 +816,7 @@ export const generatedJobs: JobPosting[] = [
   {
     "id": "job-remoteok-1135352",
     "title": "Gestionnaire administratif et financier F H",
-    "company": "UniversitÃ© de Bordeaux",
+    "company": "Université de Bordeaux",
     "category": "hybrid_ai",
     "responsibilities": [
       "Partager sur Facebook Partager sur X (anciennement Twitter) - nouvelle fenÃªtre Parta"
@@ -849,4 +849,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T04:37:01.307Z';
+export const dataFetchedAt = '2026-07-27T04:41:51.280Z';
