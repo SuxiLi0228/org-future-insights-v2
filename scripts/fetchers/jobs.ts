@@ -1,5 +1,23 @@
 import type { JobPosting } from './types';
 
+// RemoteOK API 偶尔把 UTF-8 字节错误地按 Latin-1 返回，导致中文/阿拉伯文乱码。
+// 检测是否包含 UTF-8 continuation byte（0x80-0xBF）被单独解码后的字符，并尝试修复。
+function fixMojibake(str: string): string {
+  if (!str) return str;
+  const hasContinuationByte = Array.from(str).some((c) => {
+    const code = c.charCodeAt(0);
+    return code >= 0x80 && code <= 0xbf;
+  });
+  if (!hasContinuationByte) return str;
+  try {
+    const fixed = Buffer.from(str, 'latin1').toString('utf-8');
+    // 如果修复后产生 Unicode 替换字符，说明不是 mojibake，保持原样
+    return fixed.includes('\uFFFD') ? str : fixed;
+  } catch {
+    return str;
+  }
+}
+
 function toAppJobPosting(
   id: string,
   title: string,
@@ -139,22 +157,27 @@ async function fetchRemoteOk(): Promise<JobPosting[]> {
 
     if (!response.ok) return [];
 
-    const data = (await response.json()) as any[];
+    // RemoteOK API 偶尔返回错误的编码声明，强制按 UTF-8 解码避免中文乱码
+    const buffer = await response.arrayBuffer();
+    const text = new TextDecoder('utf-8').decode(buffer);
+    const data = JSON.parse(text) as any[];
     // 第一项是 API 元数据
     const jobs = data.slice(1);
 
     return jobs
       .filter((job) => job.position && job.company)
       .map((job) => {
-        const title = job.position as string;
-        const description = (job.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+        const title = fixMojibake(job.position as string);
+        const description = fixMojibake(
+          (job.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+        );
         const { category, skills } = isAiJob(title, description);
 
         return toAppJobPosting(
           `job-remoteok-${job.id || Date.now()}`,
           title,
-          job.company as string,
-          job.location || 'Remote',
+          fixMojibake(job.company as string),
+          fixMojibake(job.location || 'Remote'),
           description.slice(0, 300),
           job.apply_url || job.url || '',
           job.date ? new Date(job.date).toISOString().slice(0, 10) : new Date().toISOString().slice(0, 10),

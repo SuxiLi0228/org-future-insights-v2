@@ -73,6 +73,143 @@ export const generatedDailyReports: DailyReport[] = [
       {
         "id": "sig-2026-07-27-auto-5",
         "emoji": "💼",
+        "title": "富默乐国际贸易（上海）有限公司 正在招募 Dubai UAE",
+        "summary": "岗位类型：业务+AI 复合岗。Flexible Working Hours Adjust your hour",
+        "detail": "技能要求: RAG。Flexible Working Hours Adjust your hour",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "富默乐国际贸易（上海）有限公司"
+        ],
+        "sourceType": "tech",
+        "sourceName": "富默乐国际贸易（上海）有限公司",
+        "link": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-27-1",
+        "priority": "low",
+        "action": "关注「The quest to keep organs alive outside t」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-27-2",
+        "priority": "low",
+        "action": "关注「Are brain waves the next unlock for phys」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-07-27-3",
+        "priority": "high",
+        "action": "关注「Inside the Sam&#8217;s Club HR rule for 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-27-4",
+        "priority": "medium",
+        "action": "关注「研究速递：SM4RT: Learning Structured Motion G」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-07-27-5",
+        "priority": "medium",
+        "action": "关注「富默乐国际贸易（上海）有限公司 正在招募 Dubai UAE」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "富默乐国际贸易（上海）有限公司"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 54,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-27 生成，聚合了 30 条新闻、20 篇论文、4 个岗位。",
+    "fetchWindow": "2026-07-27 00:00 - 2026-07-27 23:59"
+  },
+  {
+    "id": "report-2026-07-27-auto",
+    "date": "2026-07-27",
+    "session": "auto",
+    "title": "2026-07-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-27-auto-1",
+        "emoji": "💡",
+        "title": "The quest to keep organs alive outside the body",
+        "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+        "detail": "来源: MIT Technology Review。This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+      },
+      {
+        "id": "sig-2026-07-27-auto-2",
+        "emoji": "💡",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "detail": "来源: TechCrunch。Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+      },
+      {
+        "id": "sig-2026-07-27-auto-3",
+        "emoji": "🚨",
+        "title": "Inside the Sam&#8217;s Club HR rule for adopting AI tools",
+        "summary": "The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The retailer's HR head says AI tools are working because they free associates for conversations with members. The post Inside the Sam&#8217;s Club HR rule for adopting AI tools appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/inside-the-sams-club-hr-rule-for-adopting-ai-tools/"
+      },
+      {
+        "id": "sig-2026-07-27-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：SM4RT: Learning Structured Motion Geometry for 4D Reconstruc...",
+        "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti",
+        "detail": "作者: Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo。Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise displacements, ignoring the structured nature of physical motion. However, real-world objects usually obey rigid-body kinematics, and points thus usually move collectively, not in isolation. Motion itself possesses geometric structure: physical objects undergo a set of rigid-body transformations governed by SE(3), rather than unstructured point-wise displacements. Building on this insight, we propose SM4RT, a Structured Motion 4D Reconstruction Transformer for end-to-end 3D reconstructio",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.22534v1"
+      },
+      {
+        "id": "sig-2026-07-27-auto-5",
+        "emoji": "💼",
         "title": "å¯é»ä¹å½éè´¸æï¼ä¸æµ·ï¼æéå¬å¸ 正在招募 Dubai UAE",
         "summary": "岗位类型：业务+AI 复合岗。Flexible Working Hours Adjust your hour",
         "detail": "技能要求: RAG。Flexible Working Hours Adjust your hour",
