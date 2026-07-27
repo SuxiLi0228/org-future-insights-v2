@@ -255,364 +255,395 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2607.21595v1",
-    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "id": "arxiv-2607.22534v1",
+    "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
     "authors": [
-      "Wenhao Li",
-      "Xueying Jiang",
-      "Quanhao Qian",
-      "Deli Zhao",
-      "Ran Xu",
-      "Shijian Lu",
-      "Gongjie Zhang"
+      "Shing Ho J. Lin",
+      "Wenzhao Zheng",
+      "Dong Zhuo",
+      "Yuqi Wu",
+      "Jie Zhou",
+      "Jiwen Lu"
     ],
-    "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors from input videos, as well as complementary Explicit Geometry Tokens (EGTs) that encode detailed geometric structures from reconstructed 3D attributes. On top of that, VLM-IE3D comes with a 3D-aware adapter that effectively fuses the two types of geometric representations with 2D visual cues. This RG",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise displacements, ignoring the structured nature of physical motion. However, real-world objects usually obey rigid-body kinematics, and points thus usually move collectively, not in isolation. Motion itself possesses geometric structure: physical objects undergo a set of rigid-body transformations governed by SE(3), rather than unstructured point-wise displacements. Building on this insight, we propose SM4RT, a Structured Motion 4D Reconstruction Transformer for end-to-end 3D reconstructio",
+    "link": "http://arxiv.org/abs/2607.22534v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.CV",
       "cs.AI",
-      "cs.LG"
+      "cs.RO"
     ]
   },
   {
-    "id": "arxiv-2607.21585v1",
-    "title": "Expanding Flow Maps",
+    "id": "arxiv-2607.22529v1",
+    "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
     "authors": [
-      "Sophia Tang",
-      "Pranam Chatterjee"
+      "Siyuan Huang",
+      "Pengyu Cheng",
+      "Haotian Liu",
+      "Tao Chen",
+      "Yihao Liu",
+      "Jingwei Ni",
+      "Shijie Zhou",
+      "Ziyi Yang",
+      "Gangwei Jiang",
+      "Mengyu Zhou",
+      "Yu Cheng",
+      "Xiaoxi Jiang",
+      "Guanjun Jiang"
     ],
-    "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which define flows between distributions of increasing dimensionality along an expanding interpolant that grows the state by augmenting it with conditional noise. Building on this construction, we propose Expanding Flow Maps (EFMs), a new class of flow maps that distill the expanding interpolant into efficient few-step generative models. Each EFM factors the map between any two timesteps into two learnable operations: an expand operator, which augments the state space with new coordinates or tokens con",
-    "link": "http://arxiv.org/abs/2607.21585v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21580v1",
-    "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-    "authors": [
-      "Vedant Shah",
-      "Onkar Susladkar",
-      "Tushar Prakash",
-      "Kiet Nguyen",
-      "Tianjio Yu",
-      "Adheesh Juvekar",
-      "Muntasir Waheed",
-      "Ismini Lourentzou"
-    ],
-    "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks for multiple objects, which scales poorly with scene complexity and becomes ambiguous under occlusion or overlap. To enable flexible yet precise multi-subject control, we introduce $\\textbf{GraphVid}$, a graph-conditioned image-to-video generation model that enables interactive control through structured interaction graphs. We further curate $\\textbf{GraphVid-Bench}$, a large-scale interaction-centric video dataset with structured relational annotations to enable training of interaction-aware video generati",
-    "link": "http://arxiv.org/abs/2607.21580v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21579v1",
-    "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-    "authors": [
-      "Dawei Li",
-      "Xiaotian Jiang",
-      "Mingyi Hong"
-    ],
-    "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic problem and initialization. We provide a negative answer to this question. Specifically, for every finite dimension $n\\geq4$, we construct a nonempty open, hence positive-Lebesgue-measure, family of strictly convex quadratic problems and initial points for which the long Barzilai--Borwein method (BB1) converges but cannot converge root-superlinearly. More precisely, with the explicit constants $ρ_{\\min}=10^{-6},ρ_{\\max}=0.61$, every spectral component of the gradient is bounded above and below by the corresponding g",
-    "link": "http://arxiv.org/abs/2607.21579v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "math.OC",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21577v1",
-    "title": "Synthetic data generation framework for quality control automation in gravure printing",
-    "authors": [
-      "Korota Arsène Coulibaly",
-      "Mohamed Hamlich",
-      "Khalid Hmali",
-      "Andrea Trombin"
-    ],
-    "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. However, training robust deep learning models, such as YOLO or Vision Transformers, is heavily hindered by the extreme scarcity of real-world industrial defects images. To overcome this limitation, this paper introduces a novel synthetic data generation framework tailored for rotogravure printing quality control. The proposed pipeline automatically generates high-fidelity images of specific printing defects (creases, streaks, misregistration, etc.) and outputs corresponding bounding boxes and annotat",
-    "link": "http://arxiv.org/abs/2607.21577v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.LG",
-      "eess.IV"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21574v1",
-    "title": "Surprisal Theory is Tautological (without Rational Grounding)",
-    "authors": [
-      "Ryan Cotterell"
-    ],
-    "summary": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without further constraint: for any non-negative difficulty measure over units in context, there exists a language model whose surprisal is an affine function of it under mild technical conditions. Therefore, because any pattern of difficulty is consistent with some language model, without an additional constraint on the language model, surprisal theory makes no falsifiable predictions. The tautology was long obscured by an assumption implicit in two decades of psycholinguistic work---that the relevant language model is the distribution that generated the training corpus, so that improving corpus fit ",
-    "link": "http://arxiv.org/abs/2607.21574v1",
-    "publishedAt": "2026-07-23",
+    "summary": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learning to narrow domains, while open-ended self-generation broadens the task space but lacks reliable verification, allowing misleading rewards to pollute the training loop. We identify agent skills as a powerful middle ground to reconcile this tension: each skill ensures deep, verifiable execution in a specific scenario, while dynamic routing across skills maintains open-ended task variety. Leveraging this insight, we introduce Skill Self-Play (Skill-SP), a co-evolutionary framework comprising a proposer, a s",
+    "link": "http://arxiv.org/abs/2607.22529v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2607.21573v1",
-    "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "id": "arxiv-2607.22525v1",
+    "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
     "authors": [
-      "Hongnan Ma",
-      "Yiwei Shi",
-      "Mengyue Yang",
-      "Weiru Liu"
+      "Anduel Mehmeti",
+      "Gabriella Gigante",
+      "Salvatore Venticinque"
     ],
-    "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that support the prediction without being essential to the model's decision. We introduce \\textbf{TimePNS}, a necessity-aware framework for time-series explanation. Inspired by Pearl's counterfactual notion of necessity, TimePNS assesses whether a temporal factor is necessary by intervening on it and measuring whether the original prediction is disrupted. The framework adopts a two-stage design. Stage I learns an identifiable causal generative process together with a sufficiency-oriented explanation mask. ",
-    "link": "http://arxiv.org/abs/2607.21573v1",
-    "publishedAt": "2026-07-23",
+    "summary": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven solutions is essential. Trust, in turn, is closely linked to the explainability of AI systems. The rapid advancements in AI across various domains have underscored the challenges of establishing trust, raising increasing interest in AI explainability even more when applied to deep learning. In this context, the present work aims to explore the application of explainability techniques to Reinforcement Learning (RL) algorithms, specifically within the safety-critical domain of Air Traffic Control (ATC). Using a simplified ATC environment as an initial testbed",
+    "link": "http://arxiv.org/abs/2607.22525v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22520v1",
+    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+    "authors": [
+      "Darshan Tank",
+      "Baran Nama"
+    ],
+    "summary": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both sides by comparing agents with and without skills across nearly 6,000 runs spanning two office automation benchmarks and three model harness stacks. This allows us to distinguish two outcomes. A regression is a task solved without skills but failed after skills are added. A residual failure is a task that fails both with and without skills. We find that regressions are substantial enough that the best performing skills outperform others primarily by regressing less, not by gaining more. We identify three causes of regression: (i) skill description osmosis, a skill changes an agent's behavior ",
+    "link": "http://arxiv.org/abs/2607.22520v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22518v1",
+    "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+    "authors": [
+      "Olafur Gudmundsson",
+      "Bo Zhao",
+      "Huayi Liao",
+      "Anna Kiyantseva",
+      "Sai Xiao",
+      "Heath Vinicombe",
+      "Mostafa Keikha",
+      "Luke DeLuccia",
+      "Zihao Chen",
+      "Junpeng Hou",
+      "Weijie Jiang",
+      "Bhawna Juneja",
+      "Andreanne Lemay",
+      "Wei-Ting Lin",
+      "Keyvan Moghadam",
+      "Jiaxing Qu",
+      "Zhiqing Rao",
+      "Zhihua Zhang"
+    ],
+    "summary": "In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new contributions: 1) our solution spans the entire multi-stage funnel and generalizes well for both search and recommendation surfaces, 2) our solution reduces bias favoring existing content, allowing more accurate model prediction across content types and reducing short-term tradeoffs associated with high volumes of explicit content exploration, 3) our solution is evaluated with a scalable measurement framework that enables fast short-term experimentation while validating long-term impact. We have iteratively built and successfully deployed this new system at Pinterest in the past two years and ob",
+    "link": "http://arxiv.org/abs/2607.22518v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22516v1",
+    "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+    "authors": [
+      "Peiyong Wang",
+      "Udaya Parampalli",
+      "Casey R. Myers"
+    ],
+    "summary": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Models (QSMs), in which we construct the generator of the data-encoding unitary directly from each input matrix. We study three QSM variants based on symmetric, global block, and non-overlapping patch-local block Hamiltonians. Their outputs admit truncated Fourier representations in which input-depende",
+    "link": "http://arxiv.org/abs/2607.22516v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22514v1",
+    "title": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking",
+    "authors": [
+      "Siyuan Zhao",
+      "Eric Ababio Anyimadu",
+      "Zachary G. Brumm",
+      "Yue Ma",
+      "Clifton David Fuller",
+      "Xinhua Zhang",
+      "G. Elisabeta Marai",
+      "Guadalupe Canahuate"
+    ],
+    "summary": "Dysphagia is a debilitating late effect of head and neck cancer (HNC) treatment, yet timely identification of at-risk patients remains challenging in survivorship care. Definitive assessment relies on videofluoroscopic imaging, as captured by the Dynamic Imaging Grade of Swallowing Toxicity (CTCAE-DIGEST), which, while validated, requires specialized equipment, trained personnel, and significant patient burden, limiting its routine use in surveillance. Patient-reported outcomes (PROs), by contrast, are low-cost, scalable, and easily collected at any clinical encounter, making them an attractive alternative signal for identifying patients who may warrant further evaluation. However, a clear clinical framework for translating PRO responses into actionable interventions is still evolving. In ",
+    "link": "http://arxiv.org/abs/2607.22514v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22513v1",
+    "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+    "authors": [
+      "Davide Scarso",
+      "Hugo Noronha de Almeida",
+      "Joaquim Pina"
+    ],
+    "summary": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families (Claude, Grok, GPT, Gemini) evaluate ethnonationalist pseudo-science derived from Frank Salter's biosocial framework across four temporal snapshots (October 2025-February 2026), via both API and web interfaces. Grok's Fast versions (which power the default user experience on X) consistently assigned credibility scores of 70-75, two to five times higher than all other models (which scored 15-40). This pattern was absent from control prompts testing basic evolutionary consensus and refuted Lamarckian claims, where all models performed comparably. Three additional findings emerged: (1) a silent ",
+    "link": "http://arxiv.org/abs/2607.22513v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22511v1",
+    "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+    "authors": [
+      "Jiyuan Tan",
+      "Vasilis Syrgkanis"
+    ],
+    "summary": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing 7,035 machine-checked declarations developed with language-model assistance under human design and review, with CausalSmith, a self-improving agentic pipeline that selects research topics, proposes r",
+    "link": "http://arxiv.org/abs/2607.22511v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "stat.ML",
+      "cs.AI",
+      "cs.LG",
+      "econ.EM"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22508v1",
+    "title": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
+    "authors": [
+      "Athanasios Papastathopoulos-Katsaros",
+      "Steven T. Lee",
+      "Lin Yao",
+      "Ajay Thomas",
+      "Junseok Park",
+      "Matthew J. McGinley",
+      "Zhandong Liu"
+    ],
+    "summary": "Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features carry a strong bias, since they fix in advance what counts as informative, while deep neural networks and foundation models are hard to interpret and need large amounts of data and compute. We present bag-of-waves, an interpretable framework that learns a small dictionary of recurring EEG waveform templates, called atoms, using shift-invariant k-means without labels. The continuous EEG is then turned into a sequence of atom tokens, whose counts feed a simple downstream classifier or clustering step. We extend this representation in two ways: we add atom-to-atom transitions, which we call n- grams",
+    "link": "http://arxiv.org/abs/2607.22508v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22491v1",
+    "title": "Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecasting",
+    "authors": [
+      "Aliaksei Kaliutau"
+    ],
+    "summary": "Volatility forecasting is dominated by persistence and measurement noise, leaving limited residual structure for nonlinear models to exploit. We introduce Susceptible Architectures (SUSA), a reservoir-design principle for volatility forecasting, and its two concrete implementations, based on complex-valued open-chain and periodic reservoirs and regime-conditioned experts to interpret reservoir features across calm, onset, recovery, and persistent-stress states. We also implement open-system $q$-qubit counterparts in Qiskit while retaining a common AR-Ridge anchor and a bounded residual correction trained under QLIKE. We evaluate models on 16 U.S. equity and exchange-traded-fund series using three disjoint chronological training, validation, and test folds, a 12-observation input window, an",
+    "link": "http://arxiv.org/abs/2607.22491v1",
+    "publishedAt": "2026-07-24",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2607.22489v1",
+    "title": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+    "authors": [
+      "Jianghui Wang",
+      "Silong Yong",
+      "Francesco Orabona",
+      "Marco Canini",
+      "Katia P. Sycara",
+      "Yaqi Xie"
+    ],
+    "summary": "Low-Rank Adaptation (LoRA) has become a widely adopted technique for efficient neural network fine-tuning, decomposing model updates into low-rank matrices. However, LoRA remains computationally costly because it updates all matrices uniformly, regardless of their actual contribution to adaptation. This cost is especially prohibitive for large-scale models with billions of parameters and for resource-constrained settings such as edge deployment and on-device fine-tuning. We show for the first time that not all LoRA matrices are equally worth tuning: matrices with smaller condition numbers (the ratio of largest to smallest singular value) are already well-balanced across directions and contribute only marginally to adaptation, whereas matrices with larger condition numbers contain underdeve",
+    "link": "http://arxiv.org/abs/2607.22489v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.21570v1",
-    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "id": "arxiv-2607.22484v1",
+    "title": "Singular value soft-thresholding via the polar decomposition",
     "authors": [
-      "Qian Wu",
-      "Xinrong Zhou",
-      "Zizhan Ma",
-      "Kai Chen",
-      "Zheyao Gao",
-      "Xun Lin",
-      "Hongqiu Wu",
-      "Longfei Gou",
-      "Yixiao Liu",
-      "Ann Sin Nga Lau",
-      "Qi Dou"
+      "Stephen Becker"
     ],
-    "summary": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware multimodal orchestration plans rendered by our released interactive platform. We construct MedGame Bench, a 5,000-case benchmark and evaluation protocol for Medical Narrative Generation and Story Direct",
-    "link": "http://arxiv.org/abs/2607.21570v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Singular value soft-thresholding can be computed via a reduction to the matrix polar decomposition, which allows one to exploit GPU-friendly algorithms for computing the polar decomposition. Empirically, there is a significant speed-up on GPUs compared to the standard approach using the SVD. We leave the investigation of robustness to future work, but note that due to the discontinuous nature of the sign function, the reduction to the polar decomposition is likely only suitable for low-accuracy applications.",
+    "link": "http://arxiv.org/abs/2607.22484v1",
+    "publishedAt": "2026-07-24",
     "categories": [
-      "cs.CL",
-      "cs.HC"
+      "math.NA",
+      "cs.LG",
+      "math.OC"
     ]
   },
   {
-    "id": "arxiv-2607.21561v1",
-    "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+    "id": "arxiv-2607.22474v1",
+    "title": "Beyond Negative-Ridge Endpoints: Mixed-Sign Spectral Regularization via Negative-Shifted Gradient Descent",
     "authors": [
-      "Aaron Feller",
-      "Kris Deibler",
-      "Maxim Secor"
+      "Peng Zhao"
     ],
-    "summary": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shared Equivariant Graph Neural Network (EGNN) layers, then pooling the resulting conformer representations with a Set Attention Block. We pretrain the model on CREMP, a cyclic peptide ensemble dataset, using a multi-task self-supervised objective combining masked token recovery, noisy-coordinate reconstruction, and pairwise distance reconstruction. On the CREMP-CycPeptMPDB dataset, training EnsembleEGNN from scratch fails entirely ($R^2=0.005$). However, the pretrained model reaches $R^2=0.477$ and",
-    "link": "http://arxiv.org/abs/2607.21561v1",
-    "publishedAt": "2026-07-23",
+    "summary": "In overparameterized linear regression, many weak spectral directions act like a ridge penalty on the signal-bearing spectrum; negative ridge is the natural correction, pushing filters above one. The stable negative-ridge endpoint, however, is structurally limited: its pole must stay below the smallest nonzero empirical eigenvalue, and it anti-shrinks smaller eigenvalues more than larger ones. Early-stopped negative-shifted gradient descent escapes this constraint. Its filter is smooth at the would-be pole and mixed-sign-capable: above-ridgeless directions form a leading prefix, with lower directions shrunk or exposure-controlled while stopping sets the crossover. In a Gaussian spike-plus-flat model we discover a Marchenko-Pastur barrier: the shift that cancels the implicit penalty lies a ",
+    "link": "http://arxiv.org/abs/2607.22474v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.LG",
-      "q-bio.BM"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21559v1",
-    "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-    "authors": [
-      "T. Ansah-Narh",
-      "Y. Asare Afrane"
-    ],
-    "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space and time. Ashanti and Northern Regions accounted for most recurrent anomalies, with persistent hotspots at Tamale, Kumasi, and Accra. A key finding was the spatial distinction between anomaly burden (cumulative cases during anomalous periods) and anomaly frequency (persistence of unusual behaviour). Tamale had the highest burden during anomalies, whereas the highest anomaly rates clustered in Ashanti districts, showing that high-burden areas are not necessarily those with the most frequent anomalous transmission. Anomalous months formed a statistically distinct group, with much higher case count",
-    "link": "http://arxiv.org/abs/2607.21559v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.CE",
-      "cs.ET",
-      "stat.AP",
+      "math.ST",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2607.21558v1",
-    "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+    "id": "arxiv-2607.22471v1",
+    "title": "MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation",
     "authors": [
-      "Baihui Wang",
-      "Bernard Koch"
+      "Zhen Zhao",
+      "Qihang Yang",
+      "Feifei Dai",
+      "Xiangfang Li",
+      "Bo Li"
     ],
-    "summary": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to incorporate others' perspectives from when to maintain a well-grounded moral judgment. We study the broader resistance-compliance process governing this distinction. Across three studies, we show that models' judgment revision is structured along three dimensions that parallel classic phenomena in human social psychology: the distance between an incoming view and the model's initial position, the source attribution of that view, and the coalition structure supporting it. Models are generally more receptive to nearby positions, more influenced by views presented as their own ",
-    "link": "http://arxiv.org/abs/2607.21558v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Large Language Model (LLM)-based Test-Driven Development (TDD) has advanced automated code generation. However, existing approaches depend heavily on human-crafted test cases and cannot operate effectively when only natural-language requirements are available. Although recent work enables automatic test generation, it often overlooks the inherent stochasticity of LLMs, leading to two key defects: faulty tests generate misleading feedback that distorts code optimization, while mixed-quality test cases produce conflicting evaluation signals that hinder reliable code selection. To address these challenges, we propose MineValiCoder, a collaborative closed-loop TDD framework based on the mutual reinforcement of test-case quality and code quality. MineValiCoder comprises three modules. The Test ",
+    "link": "http://arxiv.org/abs/2607.22471v1",
+    "publishedAt": "2026-07-24",
     "categories": [
+      "cs.SE",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.21557v1",
-    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+    "id": "arxiv-2607.22468v1",
+    "title": "Learning to Prepare Molecular Ground States with Transformer Models",
     "authors": [
-      "Xiao Yu",
-      "Baolin Peng",
-      "Ruize Xu",
-      "Hao Zou",
-      "Qianhui Wu",
-      "Hao Cheng",
-      "Wenlin Yao",
-      "Nikhil Singh",
-      "Zhou Yu",
-      "Jianfeng Gao"
+      "Alex Koziell-Pipe",
+      "Jasmine Brewer",
+      "Jem Guhit",
+      "Marwa H. Farag",
+      "Kripa Panchagnula",
+      "Gabriel Laude",
+      "Fabian Finger",
+      "Carlo Gaggioli",
+      "Ludmila Szulakowska",
+      "Oliver J. Backhouse",
+      "Christos Papalitsas",
+      "Jason G. Mustakis",
+      "Thomas Soini",
+      "David Munoz Ramo",
+      "Stephen Clark",
+      "Elica Kyoseva",
+      "Enrico Rinaldi"
     ],
-    "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL stacks cannot natively express stateful, multi-process harness inference. To address this, we present OpenForgeRL, an open-source framework for training harness-based agents end-to-end in diverse environments. OpenForgeRL achieves this with a lightweight proxy that serves the harness's model calls while recording them as training data for a standard RL codebase (e.g., veRL), and a Kubernetes orchestrator that runs each rollout in its own remote container, together enabling training on any harness in any e",
-    "link": "http://arxiv.org/abs/2607.21557v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development. Here, we introduce ADAPT-GQE, a generative AI framework that learns to synthesize ground-state preparation circuits for electronic structure calculations. We first use ADAPT-VQE to generate high-quality reference circuits, which are then used as targets for training models for circuit generation. Once trained, the model can efficiently propose and score circuits, enabling reinforcemen",
+    "link": "http://arxiv.org/abs/2607.22468v1",
+    "publishedAt": "2026-07-24",
     "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21556v1",
-    "title": "Visual Contrastive Self-Distillation",
-    "authors": [
-      "Yijun Liang",
-      "Yunjie Tian",
-      "Yijiang Li",
-      "Yuqi Jia",
-      "Furong Huang",
-      "Tianyi Zhou",
-      "Di Fu"
-    ],
-    "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the orig",
-    "link": "http://arxiv.org/abs/2607.21556v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CV",
+      "quant-ph",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.21552v1",
-    "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+    "id": "arxiv-2607.22467v1",
+    "title": "Complexity Bounds and Approaches to Learning Projected Gradient Descent Solver Iterates",
     "authors": [
-      "Wen Ye",
-      "Yuxiao Qu",
-      "Aviral Kumar",
-      "Xuezhe Ma"
+      "Anjian Li",
+      "Ryne Beeson"
     ],
-    "summary": "Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a model may solve a problem from text but fail on the corresponding diagram, or succeed visually while failing textually. This inconsistency suggests that different views expose complementary reasoning paths and failure modes that standard multimodal post-training does not fully exploit. To study and exploit this phenomenon, we construct ODA-Data, a high-quality paired multimodal geometry dataset with text-dominant, image-dominant, and combined image+text views of the same problems, together with s",
-    "link": "http://arxiv.org/abs/2607.21552v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21550v1",
-    "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment",
-    "authors": [
-      "Dongjie Fu",
-      "Di Cao",
-      "Xize Cheng",
-      "Zihan Zhang",
-      "Wenxu Jia",
-      "Yifu Chen",
-      "Shengpeng Ji",
-      "Yu Zhang",
-      "Tao Jin"
-    ],
-    "summary": "While large audio-language models have achieved remarkable progress in auditory perception, they still lag behind text-based large language models in deep logical reasoning, primarily due to the scarcity of high-quality audio reasoning data. To bridge this gap, we propose X$^3$-OPD, a cross-modal on-policy distillation framework that transfers reasoning capabilities from a powerful text teacher to an audio-language student. During training, the student generates reasoning trajectories conditioned on its own acoustic perception, while the teacher provides token-level guidance using matched textual inputs and verified answers. We further construct a three-tier symmetric corpus covering textual reasoning rendered into speech, audio-event reasoning grounded in complex acoustic scenes, and spok",
-    "link": "http://arxiv.org/abs/2607.21550v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Data scarcity poses a fundamental challenge in training generative models to produce initial guesses for parametric optimization problems that are otherwise numerically expensive to solve. We therefore study a $k$-neighborhood data collection strategy that augments datasets of converged solutions with intermediate solver iterates, increasing the amount of training data without additional solver runs. To understand the benefits of this approach, we derive a generalization bound based on Rademacher complexity that reveals the role of the $k$-neighborhoods and related parameters. To achieve this result, we focus on one-sided box-constrained quadratic programs solved by projected gradient descent. We illustrate the behavior of this solver on two examples. The approach proposed in this paper en",
+    "link": "http://arxiv.org/abs/2607.22467v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2607.21548v1",
-    "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge",
+    "id": "arxiv-2607.22465v1",
+    "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
     "authors": [
-      "Rodrigo Carmo Terin"
+      "Ritik Raj",
+      "Souvik Kundu",
+      "Sarbartha Banerjee",
+      "Dheemanth Joshi",
+      "Ishita Vohra",
+      "Tushar Krishna"
     ],
-    "summary": "The coupled ghost and gluon Dyson--Schwinger equations (DSEs) of four-dimensional Landau-gauge Yang--Mills (YM) theory are solved with a neural representation trained only from renormalized equation residuals. The neural and fixed-point solutions agree at the percent level and remain stable under changes of initialization, network size, integration grid, and infrared boundary condition. Variations of the three-gluon vertex model produce substantially larger effects than the neural error. The MiniMOM ultraviolet running and the sign change of the gluon Schwinger function are also reproduced within the limitations of the truncation.",
-    "link": "http://arxiv.org/abs/2607.21548v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "hep-ph",
-      "cs.LG",
-      "hep-lat",
-      "hep-th"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21547v1",
-    "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
-    "authors": [
-      "Fares Fourati",
-      "Hinrich Schütze",
-      "Eyke Hüllermeier",
-      "Iryna Gurevych"
-    ],
-    "summary": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper challenges that assumption. Rather than asking how far automation can extend, we ask where its conceptual limits lie and argue that human participation may persist even with highly capable AI systems for three distinct reasons. Technical or complementarity grounds arise when humans contribute capabilities or perspectives unavailable to AI. Normative or developmental grounds arise when participation itself is valuable for human agency or learning. Most importantly, emergence grounds arise from targ",
-    "link": "http://arxiv.org/abs/2607.21547v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent routing decisions for each LLM call. However, agentic applications execute as long-horizon workflows whose quality is determined only by a delayed, task-level outcome. This mismatch prevents per-call routers from correctly attributing feedback to individual routing decisions. Towards mitigating this, we present TRACE-Router, a task-level routing framework that aligns routing with the unit of supervision. TRACE-Router assigns each task to a model once at admission using a contextual bandit, pins all subsequent LLM calls to the selected backend, and updates its policy using the task's terminal reward, ",
+    "link": "http://arxiv.org/abs/2607.22465v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.AI",
-      "cs.CL",
-      "cs.ET",
       "cs.LG",
       "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2607.21542v1",
-    "title": "Zero-Flow Two-Sample Tests",
+    "id": "arxiv-2607.22463v1",
+    "title": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
     "authors": [
-      "Yakun Wang",
-      "Leyang Wang",
-      "Song Liu",
-      "Taiji Suzuki"
+      "Jennie Ren",
+      "Jordan H. McDowell",
+      "Kyrie Zhixuan Zhou"
     ],
-    "summary": "We propose a new approach to two-sample testing for deciding whether two sets of samples are drawn from the same distribution. The test is built on a statistical discrepancy based on the zero-flow criterion, termed zero-flow discrepancy (ZFD). We prove the validity of ZFD and propose a practical testing procedure, termed the zero-flow two-sample test (ZF2ST). The key idea is to learn how samples from the two distributions are locally misaligned and use the resulting directional pattern as evidence of distributional difference. By separating witness learning from hypothesis evaluation, ZF2ST can use flexible neural networks while maintaining valid statistical calibration. We develop both regression-based and power-maximized approaches for learning the witness. Experiments on synthetic and i",
-    "link": "http://arxiv.org/abs/2607.21542v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Generative AI is reshaping programming education, yet educators often infer students' AI-supported learning from classroom observations alone. This experience report presents a trio-ethnography involving two computing educators with different teaching philosophies and one undergraduate computer science student to examine how these interpretations evolve through dialogue. Across three conversations, the educators reflected on students' AI use, discussed changes to programming pedagogy, and revisited their assumptions after engaging with the student's lived experiences. Rather than simply confirming or contradicting the educators' perspectives, the student's narratives revealed learning processes that were largely invisible in the classroom, prompting both educators to reconsider assumptions",
+    "link": "http://arxiv.org/abs/2607.22463v1",
+    "publishedAt": "2026-07-24",
     "categories": [
-      "cs.LG",
-      "stat.ML"
+      "cs.HC",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2607.21540v1",
-    "title": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
+    "id": "arxiv-2607.22458v1",
+    "title": "Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining",
     "authors": [
-      "Paul Azunre"
+      "Víctor Rincón Yepes"
     ],
-    "summary": "We present DONDO, a family of open, permissively licensed automatic speech recognition (ASR) base models for African languages, built on the w2v-BERT 2.0 self-supervised speech encoder. DONDO comprises twenty-one monolingual models and five multilingual models spanning twenty-seven language varieties across Ghana, Sierra Leone, Nigeria, Senegal, Kenya and Zimbabwe. Models are fine-tuned primarily on read speech drawn from religious texts, which offer broad, license-clear and orthographically consistent coverage for languages that otherwise lack transcribed audio. We describe a two-step (and, for one family, three-step) learning-rate-annealed fine-tuning procedure that first adapts a shared multilingual model at a high learning rate and then anneals it to recover, and in several cases surpa",
-    "link": "http://arxiv.org/abs/2607.21540v1",
-    "publishedAt": "2026-07-23",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.21535v1",
-    "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
-    "authors": [
-      "Alagappan Valliappan"
-    ],
-    "summary": "Speculative decoding accelerates autoregressive generation by having a cheap draft propose tokens that a target verifies in parallel. Frontier models increasingly ship a built-in Multi-Token-Prediction (MTP/NEXTN) draft head under the assumption that the draft is negligibly cheap. At million-token context this breaks: an MTP draft head typically runs full attention over the entire KV cache at every draft step, so its read grows linearly with context and comes to dominate the draft cost -- precisely where speculation is most valuable. The effect compounds with draft length (a deep native draft can turn net-negative, slower than no speculation) and sharpens under hybrid/linear-attention targets, where cheaper verification leaves the draft's full-attention read exposed. We apply a StreamingLL",
-    "link": "http://arxiv.org/abs/2607.21535v1",
-    "publishedAt": "2026-07-23",
+    "summary": "Do learned audio embeddings encode structure that nobody told them to encode? We probe four large pretrained audio models (AST, CLAP, BEATs-bio and BirdNET) with a downstream task none of them saw during training: recovering phylogenetic distance from species vocalizations. If the geometry of the embedding space tracks the tree of life, the representation is picking up something deeper than the labels the model was optimized for. We run Mantel tests across two independent radiations. In 32 marine mammal species (1,754 recordings from the Watkins Marine Mammal Sound Database) the foundation models recover strong phylogenetic signal within the 26 cetaceans (CLAP r=0.82, BEATs-bio r=0.82, AST r=0.74; all p<0.001), among the highest acoustic-phylogenetic correlations reported for any taxon. Ha",
+    "link": "http://arxiv.org/abs/2607.22458v1",
+    "publishedAt": "2026-07-24",
     "categories": [
       "cs.LG",
-      "cs.CL",
-      "cs.PF"
+      "cs.AI"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1135451",
+    "title": "Dubai UAE",
+    "company": "å¯é»ä¹å½éè´¸æï¼ä¸æµ·ï¼æéå¬å¸",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Flexible Working Hours Adjust your hour"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Ø¯Ø¨Ù, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
+    "postedAt": "2026-07-25",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1135330",
     "title": "Manager International Customer Supply Chain rhode",
@@ -670,4 +701,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-26T22:56:11.548Z';
+export const dataFetchedAt = '2026-07-27T02:31:30.442Z';
