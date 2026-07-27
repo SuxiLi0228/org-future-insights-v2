@@ -123,7 +123,7 @@ function generateSignals(): Signal[] {
     });
   }
 
-  return signals.slice(0, 3);
+  return signals.slice(0, 5);
 }
 
 function generateActionPlan(signals: Signal[]): ActionItem[] {
