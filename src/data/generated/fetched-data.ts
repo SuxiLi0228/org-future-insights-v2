@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-launches-8216-upgrade-8217-device-leasing-program-in-p-1785246627000",
-    "title": "Apple launches &#8216;Upgrade&#8217; device leasing program in partnership with Klarna",
-    "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-    "summary": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.",
+    "id": "news-data-centers-may-face-temporary-power-cuts-to-prevent-blacko-1785253346000",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "summary": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -30,29 +30,28 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ai-works-better-when-hr-helps-lead-it-new-research-finds-1785241858000",
     "title": "AI works better when HR helps lead it, new research finds",
     "link": "https://hrexecutive.com/ai-divide-works-better-when-hr-helps-lead-it-new-research-finds/",
-    "summary": "Eighty-three percent of HR leaders say AI is reshaping what the business expects of them, as demand grows for more data-driven insights, faster service delivery and a larger role in workforce strategy. While nearly every HR function now uses AI in some form, new research from the Institute for Corporate Productivity (i4cp) finds that AI [&#8230;] The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
+    "summary": "A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
     "publishedAt": "2026-07-28",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
       "ai",
-      "strategy"
+      "organization"
     ]
   },
   {
-    "id": "news-gap-inc-opens-creator-program-to-employees-1785184980000",
-    "title": "Gap Inc. opens creator program to employees",
-    "link": "https://www.hrdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826293/",
-    "summary": "Corporate, distribution and store staff can now apply to be influencers for the retailer&rsquo;s brand portfolio, almost a year after the program&rsquo;s launch.",
-    "publishedAt": "2026-07-27",
+    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
+    "title": "Why manager training may be the key to AI integration",
+    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
+    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
+    "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -83,16 +82,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785246420000",
-    "title": " 没演过东野圭吾改编剧，怎么能算日本顶流？ ",
-    "link": "https://www.huxiu.com/article/4878876.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：新周刊，编辑：桃子酱 东野圭吾是个电影迷，他虽然没有当成电影导演，但他借用电影拍摄的手法，用文字完成了一部部“纸上电影”。“我写小说时，首先在脑海中形成映像，就像电影中的一幕幕场景，以我满意的形式‘拍摄’完毕，再用文字把这部分表现出来。如此反复，一本小说就写成了。” 这也是他的作品适合影视化的原因。文字之外，东野圭吾影视宇宙已然形成。 近日，东野圭吾因病去世的消息传出，福山雅治、木村拓哉、阿部宽、绫濑遥、长泽雅美等多位出演过东野圭吾影视改编作品的演员纷纷发文悼念。 福山雅治在“神探伽利略”系列中饰演汤川学，他写道：“作为曾活在东野先生作品中的众多角色之一，我切身地感受到了先生倾注在作品中的生命，我觉得先生的生命至今仍留在这里。” 东野圭吾是个电影迷，喜欢怪兽电影和《星球大战》，还一度梦想当电影导演。他虽然没有当成电影导演，但他借用电影拍摄的手法，用文字完成了一部部“纸上电影”。 纪伊国屋东京新宿店设置了东野圭吾作品专区。（图/共同社） 这也是他的作品适合影视化的原因。据不完全统计，在日本，迄今有60多部影视剧改编自其作品；而在国内，有近20部东野圭吾作品的改编版权被购入。这意味着，虽然东野圭吾的人生落幕了，但未来我们还将在“东野圭吾宇宙”——包括他的小说及其影视化作品——与他不断相遇。 东野圭吾的影视宇宙 认识东野圭吾，从来不只是阅读这种方式，",
+    "id": "news-ai-1785253299000",
+    "title": " 泡沫将裂？AI 没有意识，但它正在制造最昂贵的幻觉 ",
+    "link": "https://www.huxiu.com/article/4878889.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 过去一个月，AI叙事第一次不像神话，更像一张正在被重新报价的资产负债表。 截至2026年7月28日，SpaceX的股价已经从上市后高点跌去接近一半。它仍然是全世界最会讲未来故事的公司之一，火箭、星链、火星、AI，每一个词都能把投资人往更远的时间里推。但市场最近给出的回答很冷：故事可以继续讲，估值先回到地面。 韩国市场更像一次压力测试。KOSPI在7月28日单日暴跌超过10%，从6月高点回撤约三分之一。三星电子和SK海力士这两个AI存储周期里的核心筹码，一个单日跌十几个点，一个跌近十五个点。过去被当成AI基建胜利者的公司，突然变成了去杠杆现场。 美国市场也没有好到哪里去。Micron、AMD、Marvell、Intel等芯片股同日大跌，Nvidia前一交易日也因为和OpenAI数据中心融资相关的消息承压。更刺眼的是，《大空头》原型Michael Burry最近继续把矛头指向AI泡沫。他不只做空Nvidia、Micron这类半导体股票，还把风险指向私募信贷、保险公司资产负债表、数据中心和芯片租赁这些更深的融资结构。 所以市场现在真正问的，已经不是AI有没有泡沫。它开始问一个更危险的问题：泡沫是不是要破了？ 但如果只把这件事理解成一次科技股回调，还是太浅了。AI最贵的东西从来不只是GPU、数据中心和公司估值。真正昂贵的，是那套让",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -122,17 +122,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-recursive-superintelligence-signs-410-compute-deal-with-amaz-1785244757000",
-    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "id": "news-paypal-leaves-the-door-open-to-a-higher-takeover-offer-follo-1785251410000",
+    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+    "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+    "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -149,16 +148,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-previous-vaccinations-shouldn-t-bar-worker-s-religious-vacci-1785184920000",
-    "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says",
-    "link": "https://www.hrdive.com/news/previous-vaccinations-shouldnt-bar-workers-religious-vaccine-exemption-re/826285/",
-    "summary": "An employer&rsquo;s initial approval of a COVID-19 vaccine mandate exemption request showed that it understood the request&rsquo;s religious nature, per the 9th Circuit.",
-    "publishedAt": "2026-07-27",
+    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
+    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
+    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
+    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
+    "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -189,17 +189,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-1785246305000",
-    "title": " SpaceX已经“跌去一个特斯拉” ",
-    "link": "https://www.huxiu.com/article/4878875.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：鲍奕龙 SpaceX把一整个特斯拉的市值跌没了。 7月27日收盘，SpaceX报113.50美元，较6月16日225.64美元的高点回撤近一半，蒸发的市值超过1.2万亿美元，差不多正好是特斯拉现在的整家公司价值。 特斯拉自己也在这段时间跌到了近一年低位。 更戏剧的是时点。8月4日SpaceX将交出上市后的第一份财报，两天后的8月6日，逾9亿股内部人士持股将解除限售，涉及市值约1160亿美元。 到年底前，可流通股份总量将从当前约6.39亿股骤增至53.3亿股，增幅逾七倍。如此庞大的供应量涌入，能否找到足够的需求承接，成为横亘在多头面前最现实的问题。 100美元，是多空对AI的投票线 100美元不是一个随便的整数。它是多空对\"SpaceX到底值不值一个AI公司\"的投票线。 常被拿来当底的97美元，其实是SpaceX今年初在私募市场向内部人士要约的参考价，那时候公司整体估值还不到2000亿美元。 但是真要谈锚，100这个期权关口比97那个历史数字更硬。 据Cboe LiveVol数据，周一最受关注的大宗交易之一，是一笔收取约180万美元权利金的交易。卖出5200张行权价100美元、10月16日到期的认沽期权，同时买入7000张行权价85美元的同期认沽期权作为对冲。 这笔交易的逻辑是只要SpaceX不跌破100美元，卖方即可全收权利金。这在事实上构",
+    "id": "news--1785251835000",
+    "title": " 被赋予重任，“准万亿”省会不能再慢了 ",
+    "link": "https://www.huxiu.com/article/4878887.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：刘旭强 上半年地方经济数据陆续出炉。 辽宁GDP16227.2亿元，同比增长2.5%，低于去年同期（4.7%），也低于全国平均水平（4.7%）。 省内“双核”两极分化，大连以5.1%的增速跑出上扬曲线，沈阳则录得2.2%的增速，二者增速差达2.9个百分点，这是沈阳连续六个季度在经济增速上落后于大连。 扛起省会担当，辽宁又一次“点名”沈阳。日前，辽宁省委书记许昆林主持召开沈阳县（市、区）党政主要负责同志座谈会。许昆林强调，要以强烈的责任感紧迫感推动高质量发展，以更大气力提升城市核心竞争力。 省委书记对话沈阳各县（市、区）党政主要负责人，传递的信号非常明确——沈阳要扛起辽宁全面振兴“跳高队”作用。 回顾2025年，沈阳GDP达9100.3亿元，有望成为继大连之后，辽宁乃至东北的第二个“万亿城市”，但眼下增速偏低的现实明显制约着其突破步伐。 从上半年经济数据来看，沈阳为何“慢”了？省级层面的部署，又能否为沈阳重塑竞争力打开新局面？振兴辽宁，省内“双子星”还有哪些合作空间？ 1 沈阳“慢”了 沈阳的经济增速比预期慢了半拍。 根据沈阳市政府工作报告，2026年沈阳经济预期增速为4.5%左右，“十五五”期间年均增长5%左右。按此增速计算，沈阳有望在“十五五”中期突破“万亿”门槛。 眼下经济“半年报”公布，沈阳GDP4430.1亿元、同比增长2.2%，增",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -229,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-granola-launches-an-apple-watch-app-1785243600000",
-    "title": "Granola launches an Apple Watch app",
-    "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-    "summary": "Granola debutes an Apple Watch app for in-person notetaking",
+    "id": "news-elon-musk-8217-s-x-money-app-is-rolling-out-in-the-u-s-1785250632000",
+    "title": "Elon Musk&#8217;s X Money app is rolling out in the U.S.",
+    "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+    "summary": "The app is currently available to X Premium and Premium+ subscribers in the U.S.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -255,17 +254,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
-    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
-    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
-    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
-    "publishedAt": "2026-07-27",
+    "id": "news-how-to-make-sure-front-line-managers-are-heard-1785251580000",
+    "title": "How to make sure front-line managers are heard",
+    "link": "https://www.hrdive.com/news/how-to-make-sure-front-line-managers-are-heard/826306/",
+    "summary": "Despite knowing how important front-line managers are, employers often ignore their feedback, a study showed.",
+    "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -296,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785246068000",
-    "title": " 疯狂手搓的年轻人，想用拼豆给生活排毒 ",
-    "link": "https://www.huxiu.com/article/4878874.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：钱雨朦，编辑：|Felicia 拼豆有一种把数字世界转化为物理世界的特质。机器、算法对像素的大规模快速复制，在这里重新变成具身劳动。 如果不是主持人介绍，很少有人能在第一眼就把陆晔和她的身份——大学教授联系起来。 前不久，在上海举办的“2026拼豆学术交流大会”的活动现场，陆晔顶着一头挑染过的头发混在人群里聊天，不时举起手机左拍右拍，看参与者如何摆豆、熨烫、展示作品。她尝试过自己拼豆，但很快放弃，自嘲道：“我手残，拼豆和游戏都不行。” “2026拼豆学术交流大会”现场。（图/抖音） 直到轮到陆晔上台分享，她才换了一种身份，站在这群拼豆玩家面前，作为复旦大学新闻学院教授、复旦大学信息与传播研究中心研究员，聊起一些听起来比较学术的概念：像素艺术、数字主体性、情感公众…… 陆晔说：“在快节奏、高压力的社会环境下，年轻人用豆子把自己‘拼’起来，并在分享作品的过程中找到自己的位置。拼豆带来的掌控感，未尝不是一种微小的数字主体性。” 作为曾经的新闻传播学专业学生，我对陆晔的名字并不陌生。上学时，我读过她和美国威斯康星大学传播艺术系教授潘忠党发表于2002年的论文《成名的想象：社会转型过程中新闻从业者的专业主义话语建构》，那是中文新闻传播学领域引用量最高的论文之一。 后来，我关注了陆晔的社交媒体。虽然我们从未真正见过面，但网络不断把她的动态推送到我的时间线上",
+    "id": "news--1785250511000",
+    "title": " 长沙是如何激活服务消费的 ",
+    "link": "https://www.huxiu.com/article/4878883.html?f=rss",
+    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 此前，它还曾是新消费的样本之城。 在「给服务消费市场找增量」这道几乎所有城市都要作答的命题里，比起北上广深，长沙可能是对更多数城市来说更值得参考的一个样本——它没有政策上的稀缺资源，经济体量在29座万亿GDP城市里居于中游；它的服务消费是更日常的、平价的，但无所不入、时刻在微创新，是更适合普通城市参考和成为的样子。 这两年走红的东茅街茶馆，清早是街坊邻居喝茶过早的地方，午后和夜里挤满前来打卡的年轻人，单日客流峰值超过1.5万人次； 洗浴在被做成融合吃喝玩乐的微度假体之后，这两年又被拉进「夜经济」的范畴，官方甚至提出了「夜养」的概念； 网吧和台球行业里，长沙的连锁品牌不再突出设备、环境，而是叠加情绪价值、做重服务——网管和服务员会画动漫仿妆，或者穿着二次元风格的服饰上班。 酒吧是长沙这两年新的出圈品类。从2023年开始，在年轻游客心中，长沙的新晋「5A景区」是开在解放西路的酒吧「Hib Hub公社」，大家不是冲着调酒的创意，而是和朋友来看一场男团舞蹈表演。这两年才在北京、上海等一线城市兴起的homebar，同一时间在长沙快速冒出了上百家。 而以上这些，都可归属我们所说的「服务消费」领域。所谓服务消费，本质是买时间、体验、情绪和场景，而非实物。过去几年各地发力文旅，也是扩大服务消费的形式之一。 宏观上，服务消费已成为拉动消费越来越重要的来源。据",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -335,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lyft-and-baidu-enter-london-8217-s-robotaxi-battleground-as--1785225600000",
-    "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
-    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-    "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+    "id": "news-whatsapp-now-lets-you-make-calls-using-its-web-app-1785250402000",
+    "title": "WhatsApp now lets you make calls using its web app",
+    "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+    "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -360,23 +358,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-federal-hr-office-lost-over-1-000-workers-in--1785164760000",
-    "title": "Week in review: Federal HR office lost over 1,000 workers in one year",
-    "link": "https://www.hrdive.com/news/week-in-review-federal-hr-office-lost-over-1000-workers-in-one-year/826233/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of workers who see work as a &ldquo;situationship.&rdquo;",
+    "id": "news-gap-inc-opens-creator-program-to-employees-1785184980000",
+    "title": "Gap Inc. opens creator program to employees",
+    "link": "https://www.hrdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826293/",
+    "summary": "Corporate, distribution and store staff can now apply to be influencers for the retailer&rsquo;s brand portfolio, almost a year after the program&rsquo;s launch.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "ecommerce"
     ]
   },
   {
     "id": "news-s800-36-1785230641000",
     "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
     "link": "https://36kr.com/p/3913637793059968?f=rss",
-    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分市场。 这款车对于吉利集团而言，意义非凡。 消息人士透露，吉利核心管理层要求调集大集团的资源进行支持。“公司已经暂缓或延后银河、领克及极氪的同类项目，以确保沃尔沃'561'项目获得最优的资源倾斜。” ",
+    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分市场。 这款车对于吉利集团而言，意义非凡。 ���息人士透露，吉利核心管理层要求调集大集团的资源进行支持。“公司已经暂缓或延后银河、领克及极氪的同类项目，以确保沃尔沃'561'项目获得最优的资源倾斜。",
     "publishedAt": "2026-07-28",
     "source": "36氪",
     "tags": [
@@ -790,7 +790,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RNjguMTU0LjExNS4xODQ= when applying to show you read the job post completely (#RNjguMTU0LjExNS4xODQ=)",
+      "Please mention the word **PLAYFULLY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -825,7 +825,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RNjguMTU0LjExNS4xODQ= when applying to show you read the job post completely (#RNjguMTU0LjExNS4xODQ=)",
+      "Please mention the word **SAGELY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
       "This is a beta fea"
     ],
     "skills": [],
@@ -842,7 +842,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RNjguMTU0LjExNS4xODQ= when applying to show you read the job post completely (#RNjguMTU0LjExNS4xODQ=)",
+      "Please mention the word **HANDY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -868,23 +868,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
     "postedAt": "2026-07-25",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135516",
-    "title": "Monitor Operacional Cachoeirinha RS Vagas Profissionais",
-    "company": "BuscarVagas - Empregos Brasil",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "O que você vai fazer Atribuições: Atendimento de portaria remota",
-      "Monitorar equipe de opera"
-    ],
-    "skills": [],
-    "location": "Cachoeirinha, Cachoeirinha, Rio Grande do Sul, Brasil",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-monitor-operacional-cachoeirinha-rs-vagas-profissionais-buscarvagas-empregos-brasil-1135516",
-    "postedAt": "2026-07-25",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-28T13:54:53.543Z';
+export const dataFetchedAt = '2026-07-28T16:03:28.598Z';

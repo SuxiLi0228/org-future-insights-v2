@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-29-auto",
+    "date": "2026-07-29",
+    "session": "auto",
+    "title": "2026-07-29 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-29-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+      },
+      {
+        "id": "sig-2026-07-29-auto-2",
+        "emoji": "🚨",
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "summary": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year.",
+        "detail": "来源: TechCrunch。The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year.",
+        "priority": "high",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+      },
+      {
+        "id": "sig-2026-07-29-auto-3",
+        "emoji": "🚨",
+        "title": "AI works better when HR helps lead it, new research finds",
+        "summary": "A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
+        "detail": "来源: HR Executive。A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ai-divide-works-better-when-hr-helps-lead-it-new-research-finds/"
+      },
+      {
+        "id": "sig-2026-07-29-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：ClinFusion: A Vision-Centric Multimodal LLM System for Holis...",
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab",
+        "detail": "作者: Hangjie Yuan, Yichen Qian, Zhiwei Tang。Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical understanding that systematically addresses these limitations. We propose a compositional and cascaded vision encoder architecture featuring a Cascade Spatial-Aware Locality Fusion operator that unifies diverse 2D and native 3D medical image understanding within a fused encoder. We further introduce a",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.24743v1"
+      },
+      {
+        "id": "sig-2026-07-29-auto-5",
+        "emoji": "💼",
+        "title": "Indi Connect 正在招募 Job Details",
+        "summary": "岗位类型：业务+AI 复合岗。Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
+        "detail": "技能要求: 未标注。Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit buis dapibus ante eget turpis feugiat, uloremt dolor sit Please mention the word **PLAYFULLY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=) This is a beta feature to avo",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Indi Connect"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Indi Connect",
+        "link": "https://remoteOK.com/remote-jobs/remote-job-details-indi-connect-1135557"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-29-1",
+        "priority": "medium",
+        "action": "关注「The Download: OpenAI&#8217;s predictable」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-29-2",
+        "priority": "high",
+        "action": "关注「Data centers may face temporary power cu」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-07-29-3",
+        "priority": "high",
+        "action": "关注「AI works better when HR helps lead it, n」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-29-4",
+        "priority": "medium",
+        "action": "关注「研究速递：ClinFusion: A Vision-Centric Multim」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-07-29-5",
+        "priority": "medium",
+        "action": "关注「Indi Connect 正在招募 Job Details」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Indi Connect"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 55,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-29 生成，聚合了 30 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-07-29 00:00 - 2026-07-29 23:59"
+  },
+  {
     "id": "report-2026-07-28-auto",
     "date": "2026-07-28",
     "session": "auto",
