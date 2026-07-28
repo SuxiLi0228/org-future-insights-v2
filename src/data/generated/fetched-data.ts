@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ozlo-8217-s-sleepbuds-2-build-on-bose-8217-s-sleep-earbud-le-1785265758000",
-    "title": "Ozlo&#8217;s Sleepbuds 2 build on Bose&#8217;s sleep earbud legacy",
-    "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -39,17 +39,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
-    "title": "Why manager training may be the key to AI integration",
-    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
-    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
+    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
+    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
+    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
+    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -80,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785259385000",
-    "title": " 当它们选择放弃全自研，能否上全球新牌桌？ ",
-    "link": "https://www.huxiu.com/article/4878894.html?f=rss",
-    "summary": "本文来自微信公众号： 具身研习社 ，作者：Vincent，编辑：吕鑫燚 过去两年，在全球具身智能产业最喧嚣的日子里，融资纪录在中美之间轮流刷新，两个区域的人形机器人几乎同时开进工厂、走上发布会。不少业内人士发出感慨，具身智能或人形机器人全球范围内只有两个玩家。 在所有讨论中，那个曾经定义了\"机器人\"三个字的日本，却近乎失语。 行业研究机构统计，2025年全球人形机器人出货量前六名全部是中国公司，合计占比约85%，7月23日，日本权威科技媒体日经xTECH拆解宇树科技G1机器人，承认曾经的工业优势已然落后。相关会议文件也写明：日本在产业机器人市场握有约七成的全球份额，但在新型的服务机器人市场，份额只有一成多。 旧冠冕还在，新战场上却没有座位。 转折发生在最近这几个月。5月，自动化和机器人龙头发那科（FANUC）官宣与谷歌深度合作，用Gemini构建的智能体听得懂人类指令，能驱动多台机器人作业。消息一出，股价盘后一度暴涨近14%；两天后，它再宣布深化同英伟达的合作。5月22日，川崎重工在硅谷设立物理AI研发中心。6月，软银股东大会上，孙正义宣布要做\"压倒性的世界第一AI机器人公司\"。6月最后一天，相关部门修订\"AI机器人战略\"，抛出宏观目标：2040年前导入1000万台AI机器人。 接大脑，买席位，砸目标，机器人王国的产业界沉默两年，几乎在同一个季度里全线苏醒。 那它到底选了一条什么样",
+    "id": "news-anthropic-openai-1100-1785271633000",
+    "title": " 刚刚，来自Anthropic和OpenAI的1100名研究员联合起来向全人类发出了警告。 ",
+    "link": "https://www.huxiu.com/article/4878898.html?f=rss",
+    "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 7月28日，一份来自硅谷名为Pacing the Frontier的公开声明发布。 超过1100人在声明上签名。 他们来自OpenAI、Anthropic、Google、Meta、Microsoft、Mistral和Thinking Machines等前沿AI公司。 名单里有OpenAI首席科学家Jakub Pachocki、首席研究官Mark Chen、联合创始人Wojciech Zaremba和John Schulman，也有Anthropic联合创始人Jack Clark、Chris Olah、Ben Mann，首席科学官Jared Kaplan，以及Claude Code负责人Boris Cherny。 他们共同提出了一个要求： 美国政府应当支持建立一套国际机制，在必要时主动控制前沿AI，特别是自动化AI研发的推进速度。 这件事很反常。 过去几年，OpenAI和Anthropic争夺同一批研究人员、企业客户和算力资源，也在华盛顿争夺对AI监管规则的影响力。 它们对于开源、安全和模型发布节奏有过不少分歧。 这一次，它们内部最接近前沿模型的人，却希望政府提前准备一种能力： 让所有人一起慢下来。 PART.01 他们希望按下暂停键 THUMB STOPPING 声明里最重要的内容，并不是“AI存在",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -120,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-1785265651000",
-    "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
-    "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-    "summary": "Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.",
+    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -147,17 +146,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
-    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
-    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
-    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
+    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
+    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
+    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
+    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -188,16 +186,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785259227000",
-    "title": " 专访极智嘉联合创始人陈曦：脱离效率的泛化，没有商业价值 ",
-    "link": "https://www.huxiu.com/article/4878893.html?f=rss",
-    "summary": "本文来自微信公众号： 具身研习社 2015年，陈曦和其他核心成员一起创立极智嘉。当时，他的目标是造出一款好用的AMR产品（自主移动机器人）。 此次，「甲子光年」与极智嘉联合创始人、极智嘉具身智能CEO陈曦进行了一场对话，探讨了对当前具身智能热点问题的独到见解。 脱离效率的泛化，没有商业价值：对于行业普遍把泛化能力当成具身智能最高标尺的情况，极智嘉表示，没有效率打底的泛化能力，是演示品不是生产力，毫无商业价值。效率是1，泛化是后面的0，泛化仅解决“能不能”，效率才决定“值不值”。 进厂进店，不如进仓：对于具身智能的第一落地场景，行业最热的两个方向是进厂和进店。极智嘉认为，进厂进店，不如进仓。制造场景可复制性差、规模化难、经济性难以支撑。无人零售不需要机器人就能实现，具身进店不是真实痛点和需求。相较而言，仓储领域的拣货和分拣打包等应用，才是具身智能商业化落地的最佳第一场景。 具身智能分水岭在于场景与数据飞轮：对于技术路线之争，行业在VLA和世界模型之间激烈站队。极智嘉认为，具身智能的马拉松还在早期，技术路线还未统一，都值得探索。现在各家公司的实际能力差距不大，真正的分水岭不在于选了哪条技术路线，而在于谁先进入真实落地场景、跑通可落地的整体解决方案、让数据飞轮转起来。待到技术路线收敛时，飞轮已在高速运转、商业化能力强的玩家，才握有决胜筹码。 以下是对话实录。 甲子光年：极智嘉做具身智能是",
+    "id": "news--1785259385000",
+    "title": " 当它们选择放弃全自研，能否上全球新牌桌？ ",
+    "link": "https://www.huxiu.com/article/4878894.html?f=rss",
+    "summary": "本文来自微信公众号： 具身研习社 ，作者：Vincent，编辑：吕鑫燚 过去两年，在全球具身智能产业最喧嚣的日子里，融资纪录在中美之间轮流刷新，两个区域的人形机器人几乎同时开进工厂、走上发布会。不少业内人士发出感慨，具身智能或人形机器人全球范围内只有两个玩家。 在所有讨论中，那个曾经定义了\"机器人\"三个字的日本，却近乎失语。 行业研究机构统计，2025年全球人形机器人出货量前六名全部是中国公司，合计占比约85%，7月23日，日本权威科技媒体日经xTECH拆解宇树科技G1机器人，承认曾经的工业优势已然落后。相关会议文件也写明：日本在产业机器人市场握有约七成的全球份额，但在新型的服务机器人市场，份额只有一成多。 旧冠冕还在，新战场上却没有座位。 转折发生在最近这几个月。5月，自动化和机器人龙头发那科（FANUC）官宣与谷歌深度合作，用Gemini构建的智能体听得懂人类指令，能驱动多台机器人作业。消息一出，股价盘后一度暴涨近14%；两天后，它再宣布深化同英伟达的合作。5月22日，川崎重工在硅谷设立物理AI研发中心。6月，软银股东大会上，孙正义宣布要做\"压倒性的世界第一AI机器人公司\"。6月最后一天，相关部门修订\"AI机器人战略\"，抛出宏观目标：2040年前导入1000万台AI机器人。 接大脑，买席位，砸目标，机器人王国的产业界沉默两年，几乎在同一个季度里全线苏醒。 那它到底选了一条什么样",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -227,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency--1785265593000",
-    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-    "summary": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that follows a series of incidents in which robotaxis blocked fire trucks and impeded emergency responders.",
+    "id": "news-ozlo-8217-s-sleepbuds-2-build-on-bose-8217-s-sleep-earbud-le-1785265758000",
+    "title": "Ozlo&#8217;s Sleepbuds 2 build on Bose&#8217;s sleep earbud legacy",
+    "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -253,16 +252,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-make-sure-front-line-managers-are-heard-1785251580000",
-    "title": "How to make sure front-line managers are heard",
-    "link": "https://www.hrdive.com/news/how-to-make-sure-front-line-managers-are-heard/826306/",
-    "summary": "Despite knowing how important front-line managers are, employers often ignore their feedback, a study showed.",
+    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
+    "title": "Why manager training may be the key to AI integration",
+    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
+    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -293,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785255004000",
-    "title": " 了不起的韩国股民 ",
-    "link": "https://www.huxiu.com/article/4878892.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 成也萧何，败也萧何 近期，韩国股市经历了史无前例的剧烈震荡，大量使用杠杆的散户账户爆仓，连环踩踏，引发了严重的社会问题。 2026年上半年，韩国综合指数（KOSPI）翻了一倍，6月19日创下9385.59点的历史最高纪录。正当人们欢欣鼓舞期待它突破一万点时，它却掉头一路下挫。 据不完全统计，韩国散户杠杆交易的合计亏损约2.15万亿韩元。在爆仓人群中，20至30岁的年轻人占比62%，成为此次危机的重灾区。 爆仓散户自杀的消息不绝于耳，甚至发生杀人事件。7月13日，一名20岁左右的男子持刀刺伤了一名财经网红。此前他听信该网红的建议，将全部身家押注股市后血本无归。 7月14日，韩国金融服务委员会向青瓦台内阁会议正式提交了《经济危机家庭自杀预防对策》。该对策指出，经济危机导致的自杀是“社会性谋杀”，并计划采取多项紧急措施。政府出台政策试图阻止“经济自杀”现象，这是金融史上第二次。 第一次是在2006年，日本国会通过了《自杀对策基本法》。20世纪90年代初，日本股市和楼市泡沫破裂，随后经济长期低迷，“经济自杀”现象严重。时隔二十年，韩国推出了相似法案。 韩国自杀率一向位居世界前列。2024年韩国的自杀率创下近13年新高，2025年有所下降。 韩国生育率一向垫底。不过，在经历了长期的断崖式下跌后，近期出现了明显的触底反弹迹象。截至202",
+    "id": "news--1785259227000",
+    "title": " 专访极智嘉联合创始人陈曦：脱离效率的泛化，没有商业价值 ",
+    "link": "https://www.huxiu.com/article/4878893.html?f=rss",
+    "summary": "本文来自微信公众号： 具身研习社 2015年，陈曦和其他核心成员一起创立极智嘉。当时，他的目标是造出一款好用的AMR产品（自主移动机器人）。 此次，「甲子光年」与极智嘉联合创始人、极智嘉具身智能CEO陈曦进行了一场对话，探讨了对当前具身智能热点问题的独到见解。 脱离效率的泛化，没有商业价值：对于行业普遍把泛化能力当成具身智能最高标尺的情况，极智嘉表示，没有效率打底的泛化能力，是演示品不是生产力，毫无商业价值。效率是1，泛化是后面的0，泛化仅解决“能不能”，效率才决定“值不值”。 进厂进店，不如进仓：对于具身智能的第一落地场景，行业最热的两个方向是进厂和进店。极智嘉认为，进厂进店，不如进仓。制造场景可复制性差、规模化难、经济性难以支撑。无人零售不需要机器人就能实现，具身进店不是真实痛点和需求。相较而言，仓储领域的拣货和分拣打包等应用，才是具身智能商业化落地的最佳第一场景。 具身智能分水岭在于场景与数据飞轮：对于技术路线之争，行业在VLA和世界模型之间激烈站队。极智嘉认为，具身智能的马拉松还在早期，技术路线还未统一，都值得探索。现在各家公司的实际能力差距不大，真正的分水岭不在于选了哪条技术路线，而在于谁先进入真实落地场景、跑通可落地的整体解决方案、让数据飞轮转起来。待到技术路线收敛时，飞轮已在高速运转、商业化能力强的玩家，才握有决胜筹码。 以下是对话实录。 甲子光年：极智嘉做具身智能是",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -332,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ebay-reaches-56m-settlement-with-e-commerce-newsletter-write-1785263729000",
-    "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-    "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-    "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
+    "id": "news-the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-1785265651000",
+    "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+    "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+    "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -358,18 +358,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gap-inc-opens-creator-program-to-employees-1785184980000",
-    "title": "Gap Inc. opens creator program to employees",
-    "link": "https://www.hrdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826293/",
-    "summary": "Corporate, distribution and store staff can now apply to be influencers for the retailer&rsquo;s brand portfolio, almost a year after the program&rsquo;s launch.",
-    "publishedAt": "2026-07-27",
+    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
+    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
+    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
+    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
+    "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -808,7 +807,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
+      "Please mention the word **PLAYFULLY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -843,7 +842,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
+      "Please mention the word **SAGELY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
       "This is a beta fea"
     ],
     "skills": [],
@@ -860,7 +859,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
+      "Please mention the word **HANDY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -872,4 +871,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-28T19:17:19.640Z';
+export const dataFetchedAt = '2026-07-28T21:03:30.652Z';
