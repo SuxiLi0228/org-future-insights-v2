@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-satya-nadella-says-companies-that-trust-one-ai-for-everythin-1785187031000",
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "publishedAt": "2026-07-27",
+    "id": "news-anthropic-8217-s-dario-amodei-responds-doesn-8217-t-oppose-o-1785197613000",
+    "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ibm-ai-1785152226000",
-    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
-    "link": "https://36kr.com/p/3913320648971395?f=rss",
-    "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。 韩国交易巨头与LG CNS合作，在代币化测试中将应收账款上链 韩国最大的贸易公司",
+    "id": "news-8-1-2000-1785195405000",
+    "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+    "link": "https://36kr.com/p/3914520847570307?f=rss",
+    "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包括App Store TOP 3大新闻 蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴 7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫科技日前在上海举办了上市答谢晚宴，主题为“长铸十载 鑫启未来”，蔚来创始人李斌现身晚宴现场，手持红酒面带笑容。（界面新闻） 瑞幸打赢“泰国瑞幸”，获赔近2000万 7月27日，瑞幸官方微博转发了泰国知名律所Tilleke&amp;Gibbins发布的一则消息。消息显示，泰国专门案件上诉法院近日宣布，瑞幸咖啡诉泰国瑞幸商标侵权案二审胜诉，维持一审原判。法院认定被告恶意抢注商标和侵权行为，判令被告撤销已注册的瑞幸商标，永久禁止在与咖啡业务相关的经营活动",
     "publishedAt": "2026-07-27",
     "source": "36氪",
     "tags": [
@@ -69,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785146117000",
-    "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-    "link": "https://www.qbitai.com/2026/07/461444.html",
-    "summary": "一次技术与场景的深度耦合",
-    "publishedAt": "2026-07-27",
+    "id": "news-thinking-machines-1785201660000",
+    "title": "突发，翁荔离职Thinking Machines",
+    "link": "https://www.qbitai.com/2026/07/461517.html",
+    "summary": "20个月「像过完了一辈子」",
+    "publishedAt": "2026-07-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -82,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1000-1785191720000",
-    "title": " 长鑫科技与你有关！它可能会让你的下一台电脑贵1000块 ",
-    "link": "https://www.huxiu.com/article/4878601.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申，原文标题：《长鑫科技与你有关！它可能会让你的下一台电脑贵1000块》 7月27日，长鑫科技登陆科创板，3.28万亿市值登顶A股。 国产替代不等于降价，3笔账里有1笔很贵——16GB DDR5内存从299元涨到699元、涨幅134%，中一签浮盈2.04万元。 3万亿狂欢的背后，是每个消费者都在为国家战略悄悄买单。 今天，3万亿市值是怎么\"砸\"到你头上的 7月27日上午9点30分，上海证券交易所科创板的锣声敲响。 长鑫科技（688825）正式登陆A股，发行价8.66元每股，开盘直接报49.5元，涨幅471.59%。 证券时报的实时数据显示，开盘那一刻，长鑫科技总市值达到3.31万亿元。 这个数字是什么概念。 它超过了工商银行的2.8万亿，超过了贵州茅台的2.1万亿，直接登顶A股市值第一。 盘中最高触及55.03元，市值一度超越腾讯控股，成为中国市值最高的科技公司。 截至收盘，长鑫科技报49.00元每股，涨幅465.82%，总市值3.28万亿元。 全天成交额1411.9亿元，创下A股历史上首只单日成交破千亿的个股纪录，超过了东方财富2024年10月9日创下的900亿元历史天量。 36氪当天的报道用了一个词——\"史诗级上市\"。 但我今天不想聊资本盛宴，也不想聊谁又一夜暴富。 我想聊一个更扎心的问题。 3万亿市值狂欢，和你一个普通人，到底有什么关",
-    "publishedAt": "2026-07-27",
+    "id": "news-20-1785204005000",
+    "title": " 曾被索赔20亿，中国瑞幸告赢“泰国瑞幸”，现制饮品行业进入知识产权“清算期”？ ",
+    "link": "https://www.huxiu.com/article/4878648.html?f=rss",
+    "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的，原文标题：《曾被索赔20亿！中国瑞幸告赢“泰国瑞幸”，现制饮品行业进入知识产权“清算期”？》 现制饮品行业近段时间算是和“商标”杠上了。 7月27日中午，瑞幸官方发文，宣布打赢了泰国“假瑞幸”的商标侵权案，并获赔超9500万泰铢（约合人民币1921万元）。而这，距离茉莉奶白和LV在国内的商标侵权案一审判决公布还不足一个月。 据悉，这是泰国司法史上首例正式明确“商标恶意抢注”概念的判例，也打破了泰国知识产权案件的最高赔偿纪录。 五年拉锯 案件起点可追溯至2022年初。 彼时，一位中国网友在泰国旅游时发现了视觉高度近似瑞幸的咖啡门店。据网友描述，侵权方对瑞幸品牌商标的字体、颜色及鹿头图形进行全方位模仿，仅微调鹿头朝向、调换配色，并在“luckin coffee”字样下方增加泰文，造成消费者混淆。 针对此事，瑞幸咖啡曾在官方号辟谣，否认该门店为官方开设。2022年8月，瑞幸咖啡再度发声明称：瑞幸咖啡没有在泰国开店，在泰国的瑞幸门店是仿冒门店。并表示瑞幸相关部门已采用法律手段处理。 不过，维权之路比想象中曲折。 先看侵权方。公开资料显示，此案被告为泰国50R集团，该公司是一家从事零售、新能源、旅游业、房地产、餐饮业等的泰国本土企业。其下属子公司泰国瑞幸咖啡有限公司（下称：泰国瑞幸）于2018年在当地申请相关商标，2020年获准注册，",
+    "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -95,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5000-ai4s-1785161175000",
-    "title": "英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个\"掀桌子\"的｜首发",
-    "link": "https://www.tmtpost.com/8080916.html",
-    "summary": "团队来自Baker Lab是全球AI蛋白质设计领域的\"黄埔军校\"。",
-    "publishedAt": "2026-07-27",
+    "id": "news--1785203774000",
+    "title": "寿司郎，正在成为十年前的海底捞",
+    "link": "https://www.tmtpost.com/8081372.html",
+    "summary": "中国餐饮的下一代“版本答案”。",
+    "publishedAt": "2026-07-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -121,16 +120,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+    "id": "news-satya-nadella-says-companies-that-trust-one-ai-for-everythin-1785187031000",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -160,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-1785147569000",
-    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
-    "link": "https://36kr.com/p/3913736066028932?f=rss",
-    "summary": "文&nbsp;|&nbsp;阿至 航空新能源动力系统，正在酝酿新的变革。 36氪获悉，航空新能源动力系统解决方案供应商 「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。 本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。 过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。 氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核心优势在于，能量密度高、环境适应性更强。相对于动力电池，其航程可提高3倍以上，并且补能快、低温性能好， 更适合eVTOL“空中出租车”高频周转的商业模式。 对比传统航空煤油和SAF，从长期来看，其燃料成本更低，在兼顾性能达标与经济可行性方面具备优势。 但受限于上游技术迭代、产业配套和应用成本问题，在较长一段时间里，氢能航空这一技术路径在国内处于共识未到、需求初显的状态。 随着近些年绿电、绿氢得到很好的推广及应用，易氢动力创始人张科勋的判断是， “氢能作为燃料的使用成本，在中国会很快的低于航空煤油。氢能最终会凭借成本优势在航空业成为首选的技术路线。” 作为欧阳明高院士孵化",
+    "id": "news-ibm-ai-1785152226000",
+    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+    "link": "https://36kr.com/p/3913320648971395?f=rss",
+    "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。 韩国交易巨头与LG CNS合作，在代币化测试中将应收账款上链 韩国最大的贸易公司",
     "publishedAt": "2026-07-27",
     "source": "36氪",
     "tags": [
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785143121000",
-    "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
-    "link": "https://www.qbitai.com/2026/07/461398.html",
-    "summary": "",
+    "id": "news--1785146117000",
+    "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+    "link": "https://www.qbitai.com/2026/07/461444.html",
+    "summary": "一次技术与场景的深度耦合",
     "publishedAt": "2026-07-27",
     "source": "量子位",
     "tags": [
@@ -187,11 +187,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785190995000",
-    "title": " 刚刚，北大校友翁荔官宣离职，AI 时代最好的“对齐”是照顾好自己 ",
-    "link": "https://www.huxiu.com/article/4878600.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己》 翁荔离职了。 刚刚，北大校友翁荔（Lilian Weng）在社交媒体上发布离职信，宣布明天将是她在Thinking Machines Lab的最后一天。 距离她与OpenAI前CTO Mira Murati共同创立公司，过去了整整20个月。几天前，Thinking Machines刚发布首个开源大模型Inkling，翁荔在信中称其为「公司历史上一个了不起的里程碑」。 首款模型刚刚发布，联合创始人便选择离场，多少让人意外。 一封写满「抱歉」的离职信 翁荔的离职信中，反复出现的一个词是「health」，健康。 她提到，过去7个月里，自己生病的次数超过了人生中的任何一个阶段。当整个公司都在为Inkling的发布冲刺时，她不得不请病假休息，同时还要承受无法参与工作的愧疚感。 她形容，那种一边休息、一边与负罪感对抗的状态，并不好受。 翁荔也考虑过缩小职责范围，承担一个压力和不确定性更低的角色。但她最终发现，这种安排并不适合自己。按照她的说法，只要无法对负责的事情投入全部精力，她就会认为自己没有做好这份工作。 整封信里，「sorry抱歉」「letting you down让你失望」等表达多次出现。 曾经从零组建OpenAI安全团队、带领一支80多人团队的翁荔",
-    "publishedAt": "2026-07-27",
+    "id": "news-etf-1785203959000",
+    "title": " 外资调仓、ETF抄底、公司回购：中国资产的底部结构正在变化 ",
+    "link": "https://www.huxiu.com/article/4878644.html?f=rss",
+    "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 一个值得重视的信号出现了。 花旗在2026年下半年新兴市场投资展望中，将中国股票评级由“中性”上调至“超配”，同时将韩国股票从“超配”战术性下调至“中性”。花旗给出的背景是，2026年以来新兴市场股市虽然整体上涨，但收益高度集中于韩国、中国台湾等少数市场，以及人工智能相关产业。随着韩国股市波动加剧，全球投资者开始重新审视：由少数AI硬件赢家主导的交易，能否继续维持原有强度；此前明显落后的市场，会不会迎来资金扩散。 这当然不能被简单理解为“外资已经全面转向中国”。一家国际投行上调评级，不等于所有海外资金已经形成共识，也不意味着境外主动基金已经持续大规模加仓中国。真正的趋势性外资回流，仍需要全球基金持仓、跨境ETF申赎、互联互通资金以及港股国际中介席位等更多数据确认。但它至少说明了一件事：在全球资产配置的比较坐标中，中国资产正在重新回到投资者的视野。 过去两年，全球资本的注意力高度集中于人工智能硬件、先进制程、存储芯片和算力基础设施。美国科技巨头、韩国半导体企业以及中国台湾芯片产业链，成为资金最集中的方向。这样的配置曾经有充分的基本面基础，因为AI资本开支迅速增长，产业利润也确实向少数头部公司集中。 但是，任何正确的产业趋势，一旦演变为过度拥挤的交易，风险收益比就会改变。当估值持续上升、持仓高度集中、市场对未来增长的预期",
+    "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -201,11 +201,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785161094000",
-    "title": "长鑫“芯王”加冕，朋友圈赛博贺喜背后",
-    "link": "https://www.tmtpost.com/8081355.html",
-    "summary": "这可能并不是一次简单的同行或供应链伙伴间的客套",
-    "publishedAt": "2026-07-27",
+    "id": "news-8-1785203361000",
+    "title": "不用挖山的“矿”，凭什么值8万亿？",
+    "link": "https://www.tmtpost.com/8081581.html",
+    "summary": "从城市里“挖”出8万亿。",
+    "publishedAt": "2026-07-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-1785184800000",
-    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-    "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
-    "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
+    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -267,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-ai-1785145687000",
-    "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
-    "link": "https://36kr.com/p/3913706151400583?f=rss",
-    "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。 足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。 资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。 行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。 新逻辑之下，拥有稳健商业模型的公司，反而有了更多作为“良币”留下来的机会，拿到更好的估值。比如，最近完成了超亿元 B 轮融资的海艺，就是一家被资本看好的稳健型企业：来自成都，面向全球，以“为 C 端而生”作为商业哲学，过去几年持续做出了爆款 AI 应用，财务数据也已经比较漂亮。 潮水退去之后，更值得追问的是：什么样的 AI 应用，能“站着赚",
+    "id": "news-36-1785147569000",
+    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+    "link": "https://36kr.com/p/3913736066028932?f=rss",
+    "summary": "文&nbsp;|&nbsp;阿至 航空新能源动力系统，正在酝酿新的变革。 36氪获悉，航空新能源动力系统解决方案供应商 「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。 本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。 过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。 氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核心优势在于，能量密度高、环境适应性更强。相对于动力电池，其航程可提高3倍以上，并且补能快、低温性能好， 更适合eVTOL“空中出租车”高频周转的商业模式。 对比传统航空煤油和SAF，从长期来看，其燃料成本更低，在兼顾性能达标与经济可行性方面具备优势。 但受限于上游技术迭代、产业配套和应用成本问题，在较长一段时间里，氢能航空这一技术路径在国内处于共识未到、需求初显的状态。 随着近些年绿电、绿氢得到很好的推广及应用，易氢动力创始人张科勋的判断是， “氢能作为燃料的使用成本，在中国会很快的低于航空煤油。氢能最终会凭借成本优势在航空业成为首选的技术路线。” 作为欧阳明高院士孵化",
     "publishedAt": "2026-07-27",
     "source": "36氪",
     "tags": [
@@ -281,9 +281,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-2026-waic-1785142456000",
-    "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-    "link": "https://www.qbitai.com/2026/07/461392.html",
+    "id": "news--1785143121000",
+    "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+    "link": "https://www.qbitai.com/2026/07/461398.html",
     "summary": "",
     "publishedAt": "2026-07-27",
     "source": "量子位",
@@ -294,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785190272000",
-    "title": " 物理AI驱动的组织变革 ",
-    "link": "https://www.huxiu.com/article/4878599.html?f=rss",
-    "summary": "本文来自微信公众号： 清华管理评论 ，作者：TBR，原文标题：《订阅 | 物理AI驱动的组织变革》 刊首语 重视数字时代企业创新的新范式 当前，我国经济处于新旧动能转换、结构深度优化的关键阶段，大力发展新质生产力，已成为支撑和驱动我国经济持续向好的关键动能。国家“十五五”规划着重提出要抓住新一轮科技革命和产业变革的历史机遇，提升国家创新体系整体效能。在此战略背景下，创新范式的优化成为推动高质量发展的主引擎。 长期以来，国内对创新的认知局限于工业时代的创新范式，即大家熟知的熊彼特范式。熊彼特范式是生产者导向，将创新视作大学、科研院所、企业研发部门等的工作，企业家的职责是大胆投资相关的新技术。这种“生产者中心”范式在工业时代成效显著，但在数字时代背景下，复杂多变的市场需求、分散化的知识格局以及人工智能的飞速崛起，使得该范式的短板日益凸显。科技成果转化成为我国科技创新的重大挑战。 20世纪70年代以来，美国麻省理工学院学者埃里克·冯·希佩尔推翻了制造商主导创新的传统认知，通过大量实证研究证明，具有具体产品改进和优良使用行为的用户才是诸多创新的真正源头。许多产品和服务实际上是由用户在使用场景中逐步开发或完善的，这些创意随后被整合进生产者网络中，完成原有的熊彼特创新。 以具有黑客和极客特征的用户作为各类创新的源头，这一转型不仅是数字时代创新规律的必然要求，更是落实以人民为中心的发展思想、培育",
-    "publishedAt": "2026-07-27",
+    "id": "news-anthropic-1785203886000",
+    "title": " Anthropic为何拒签黄仁勋发起的《开源协议》？ ",
+    "link": "https://www.huxiu.com/article/4878502.html?f=rss",
+    "summary": "黄仁勋入驻X平台，牵头发起AI大模型《开源协议》，英伟达、微软、Meta、OpenAI等巨头纷纷签字，独独Anthropic死扛不签，成了全场唯一钉子户。",
+    "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -308,11 +308,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785160413000",
-    "title": "亿田智能算力狂飙之惑：一边收缩变现，一边加码扩产",
-    "link": "https://www.tmtpost.com/8081330.html",
-    "summary": "老牌集成灶龙头上演矛盾操作。",
-    "publishedAt": "2026-07-27",
+    "id": "news-gi-1785202573000",
+    "title": "低GI食品凶猛，“攻陷”中产购物车",
+    "link": "https://www.tmtpost.com/8081531.html",
+    "summary": "真健康还是智商税？",
+    "publishedAt": "2026-07-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-1785183582000",
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "id": "news-as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-1785184800000",
+    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+    "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+    "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
     "publishedAt": "2026-07-27",
     "source": "TechCrunch",
     "tags": [
@@ -373,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-evtol-at8000-1785140619000",
-    "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-    "link": "https://36kr.com/p/3912369056240772?f=rss",
-    "summary": "文 | 张卓倩 编辑 | 袁斯来 低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。 飞行重卡 AT8000&nbsp; 全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度 飞行重卡 AT8000 是牧羽天航空深耕重载货运 eVTOL 领域的全新力作，最大起飞重量达 8000 公斤（8 吨），远超同类在研机型，是目前全球公认的重载货运 eVTOL 天花板。 核心性能：最大有效载重 3500 公斤（增程），巡航速度 252 公里 / 小时，满载航程 1000 公里（增程），可覆盖市县、山村、海岛等全场景低空物流网络。 创新构型：采用18 升力旋翼（4 个倾转）+2 推进旋翼的半倾转混动架构，垂直起降更稳定、巡航效率更高，兼顾高可靠性与长续航能力。 全栈自研：从概念设计、气动布局、结构强度到航空动力电机、全机航电系统，实现自主可控，具备全复合材料整机研发制造能力，核心技术完全自主知识产权。 开启低空物流新时代，赋能多场景商业化应用 区别于传统低空物流装备，AT8000 聚焦 “重载、远距、高效” 核心需求，可广泛应用于高时效物流配送、生鲜冷链运输、应急物资投送、",
+    "id": "news-2026-ai-1785145687000",
+    "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+    "link": "https://36kr.com/p/3913706151400583?f=rss",
+    "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。 足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。 资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。 行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。 新逻辑之下，拥有稳健商业模型的公司，反而有了更多作为“良币”留下来的机会，拿到更好的估值。比如，最近完成了超亿元 B 轮融资的海艺，就是一家被资本看好的稳健型企业：来自成都，面向全球，以“为 C 端而生”作为商业哲学，过去几年持续做出了爆款 AI 应用，财务数据也已经比较漂亮。 潮水退去之后，更值得追问的是：什么样的 AI 应用，能“站着赚",
     "publishedAt": "2026-07-27",
     "source": "36氪",
     "tags": [
@@ -387,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785138959000",
-    "title": "老黄「开源协议」就剩一家没签，是谁啊好难猜啊",
-    "link": "https://www.qbitai.com/2026/07/461341.html",
-    "summary": "Denny’s和英伟达，有一项核心业务高度重叠",
+    "id": "news-ai-2026-waic-1785142456000",
+    "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+    "link": "https://www.qbitai.com/2026/07/461392.html",
+    "summary": "",
     "publishedAt": "2026-07-27",
     "source": "量子位",
     "tags": [
@@ -776,14 +776,32 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135504",
+    "title": "No positions currently available",
+    "company": "UpTye",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "JOIN THE TEAM Let's Build SomethingGreat Together We're looking for passionate people to help shape the future of global work",
+      "General Application Don't see a perfect match",
+      "Tell us about yourself and we'll find the right opportunity",
+      "Full Name * Email * Role Interest *Select a role categoryEngineer"
+    ],
+    "skills": [],
+    "location": "Oregon, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
+    "postedAt": "2026-07-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135442",
     "title": "Generalist AI Trainer $35 hour",
     "company": "LinkedIn",
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RMjAuMTYxLjYwLjk2 when applying to show you read the job post completely (#RMjAuMTYxLjYwLjk2)",
-      "This is a beta feature to"
+      "Please mention the word **SAGELY** and tag RNjguMjIwLjU5LjI0MQ== when applying to show you read the job post completely (#RNjguMjIwLjU5LjI0MQ==)",
+      "This is a beta fea"
     ],
     "skills": [],
     "location": "United States, ",
@@ -799,9 +817,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RMjAuMTYxLjYwLjk2 when applying to show you read the job post completely (#RMjAuMTYxLjYwLjk2)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can"
+      "Please mention the word **HANDY** and tag RNjguMjIwLjU5LjI0MQ== when applying to show you read the job post completely (#RNjguMjIwLjU5LjI0MQ==)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "Rushen, ",
@@ -828,6 +845,22 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135516",
+    "title": "Monitor Operacional Cachoeirinha RS Vagas Profissionais",
+    "company": "BuscarVagas - Empregos Brasil",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "O que você vai fazer Atribuições: Atendimento de portaria remota",
+      "Monitorar equipe de opera"
+    ],
+    "skills": [],
+    "location": "Cachoeirinha, Cachoeirinha, Rio Grande do Sul, Brasil",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-monitor-operacional-cachoeirinha-rs-vagas-profissionais-buscarvagas-empregos-brasil-1135516",
+    "postedAt": "2026-07-25",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135330",
     "title": "Manager International Customer Supply Chain rhode",
     "company": "e.l.f. Beauty",
@@ -850,4 +883,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-27T22:57:03.621Z';
+export const dataFetchedAt = '2026-07-28T02:06:19.785Z';
