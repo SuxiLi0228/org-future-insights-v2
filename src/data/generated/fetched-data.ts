@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "id": "news-bot-detection-startup-spur-nabs-200m-from-insight-1785274174000",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -119,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -226,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ozlo-8217-s-sleepbuds-2-build-on-bose-8217-s-sleep-earbud-le-1785265758000",
-    "title": "Ozlo&#8217;s Sleepbuds 2 build on Bose&#8217;s sleep earbud legacy",
-    "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -332,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-1785265651000",
-    "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
-    "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-    "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+    "id": "news-ozlo-8217-s-sleepbuds-2-build-on-bose-8217-s-sleep-earbud-le-1785265758000",
+    "title": "Ozlo&#8217;s Sleepbuds 2 build on Bose&#8217;s sleep earbud legacy",
+    "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -807,7 +807,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
+      "Please mention the word **PLAYFULLY** and tag RMjAuMTYxLjMwLjE5Nw== when applying to show you read the job post completely (#RMjAuMTYxLjMwLjE5Nw==)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -842,7 +842,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
+      "Please mention the word **SAGELY** and tag RMjAuMTYxLjMwLjE5Nw== when applying to show you read the job post completely (#RMjAuMTYxLjMwLjE5Nw==)",
       "This is a beta fea"
     ],
     "skills": [],
@@ -859,7 +859,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RNTIuMjUwLjI0My45OQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My45OQ==)",
+      "Please mention the word **HANDY** and tag RMjAuMTYxLjMwLjE5Nw== when applying to show you read the job post completely (#RMjAuMTYxLjMwLjE5Nw==)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -871,4 +871,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-28T21:03:30.652Z';
+export const dataFetchedAt = '2026-07-28T22:54:52.993Z';
