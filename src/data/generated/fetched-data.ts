@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-centers-may-face-temporary-power-cuts-to-prevent-blacko-1785253346000",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "summary": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year.",
+    "id": "news-ozlo-8217-s-sleepbuds-2-build-on-bose-8217-s-sleep-earbud-le-1785265758000",
+    "title": "Ozlo&#8217;s Sleepbuds 2 build on Bose&#8217;s sleep earbud legacy",
+    "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-works-better-when-hr-helps-lead-it-new-research-finds-1785241858000",
-    "title": "AI works better when HR helps lead it, new research finds",
-    "link": "https://hrexecutive.com/ai-divide-works-better-when-hr-helps-lead-it-new-research-finds/",
-    "summary": "A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
+    "id": "news-top-hr-trends-and-priorities-for-2026-1785255331000",
+    "title": "Top HR Trends and Priorities for 2026",
+    "link": "https://hrexecutive.com/top-hr-trends-and-priorities-for-2026_update/",
+    "summary": "Monday, August 24, 2026 at 3:00 pm ET Join us as hosts Steve Boese and Trish Steed of H3 HR Advisors discuss the trends and priorities impacting HR’s expanding role. The post Top HR Trends and Priorities for 2026 appeared first on HR Executive .",
     "publishedAt": "2026-07-28",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
@@ -82,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785253299000",
-    "title": " 泡沫将裂？AI 没有意识，但它正在制造最昂贵的幻觉 ",
-    "link": "https://www.huxiu.com/article/4878889.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 过去一个月，AI叙事第一次不像神话，更像一张正在被重新报价的资产负债表。 截至2026年7月28日，SpaceX的股价已经从上市后高点跌去接近一半。它仍然是全世界最会讲未来故事的公司之一，火箭、星链、火星、AI，每一个词都能把投资人往更远的时间里推。但市场最近给出的回答很冷：故事可以继续讲，估值先回到地面。 韩国市场更像一次压力测试。KOSPI在7月28日单日暴跌超过10%，从6月高点回撤约三分之一。三星电子和SK海力士这两个AI存储周期里的核心筹码，一个单日跌十几个点，一个跌近十五个点。过去被当成AI基建胜利者的公司，突然变成了去杠杆现场。 美国市场也没有好到哪里去。Micron、AMD、Marvell、Intel等芯片股同日大跌，Nvidia前一交易日也因为和OpenAI数据中心融资相关的消息承压。更刺眼的是，《大空头》原型Michael Burry最近继续把矛头指向AI泡沫。他不只做空Nvidia、Micron这类半导体股票，还把风险指向私募信贷、保险公司资产负债表、数据中心和芯片租赁这些更深的融资结构。 所以市场现在真正问的，已经不是AI有没有泡沫。它开始问一个更危险的问题：泡沫是不是要破了？ 但如果只把这件事理解成一次科技股回调，还是太浅了。AI最贵的东西从来不只是GPU、数据中心和公司估值。真正昂贵的，是那套让",
+    "id": "news--1785259385000",
+    "title": " 当它们选择放弃全自研，能否上全球新牌桌？ ",
+    "link": "https://www.huxiu.com/article/4878894.html?f=rss",
+    "summary": "本文来自微信公众号： 具身研习社 ，作者：Vincent，编辑：吕鑫燚 过去两年，在全球具身智能产业最喧嚣的日子里，融资纪录在中美之间轮流刷新，两个区域的人形机器人几乎同时开进工厂、走上发布会。不少业内人士发出感慨，具身智能或人形机器人全球范围内只有两个玩家。 在所有讨论中，那个曾经定义了\"机器人\"三个字的日本，却近乎失语。 行业研究机构统计，2025年全球人形机器人出货量前六名全部是中国公司，合计占比约85%，7月23日，日本权威科技媒体日经xTECH拆解宇树科技G1机器人，承认曾经的工业优势已然落后。相关会议文件也写明：日本在产业机器人市场握有约七成的全球份额，但在新型的服务机器人市场，份额只有一成多。 旧冠冕还在，新战场上却没有座位。 转折发生在最近这几个月。5月，自动化和机器人龙头发那科（FANUC）官宣与谷歌深度合作，用Gemini构建的智能体听得懂人类指令，能驱动多台机器人作业。消息一出，股价盘后一度暴涨近14%；两天后，它再宣布深化同英伟达的合作。5月22日，川崎重工在硅谷设立物理AI研发中心。6月，软银股东大会上，孙正义宣布要做\"压倒性的世界第一AI机器人公司\"。6月最后一天，相关部门修订\"AI机器人战略\"，抛出宏观目标：2040年前导入1000万台AI机器人。 接大脑，买席位，砸目标，机器人王国的产业界沉默两年，几乎在同一个季度里全线苏醒。 那它到底选了一条什么样",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -122,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-paypal-leaves-the-door-open-to-a-higher-takeover-offer-follo-1785251410000",
-    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-    "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-    "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+    "id": "news-the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-1785265651000",
+    "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+    "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+    "summary": "Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -135,16 +133,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds-1785240901000",
-    "title": "Specialty drug costs expected to jump 32% by 2028, PSG finds",
-    "link": "https://hrexecutive.com/specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds/",
-    "summary": "Claim utilization is now the dominant driver of specialty drug trend as the percentage of members using specialty drugs rose to 5.5%. The post Specialty drug costs expected to jump 32% by 2028, PSG finds appeared first on HR Executive .",
+    "id": "news-ai-works-better-when-hr-helps-lead-it-new-research-finds-1785241858000",
+    "title": "AI works better when HR helps lead it, new research finds",
+    "link": "https://hrexecutive.com/ai-divide-works-better-when-hr-helps-lead-it-new-research-finds/",
+    "summary": "A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
     "publishedAt": "2026-07-28",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -189,10 +188,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785251835000",
-    "title": " 被赋予重任，“准万亿”省会不能再慢了 ",
-    "link": "https://www.huxiu.com/article/4878887.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：刘旭强 上半年地方经济数据陆续出炉。 辽宁GDP16227.2亿元，同比增长2.5%，低于去年同期（4.7%），也低于全国平均水平（4.7%）。 省内“双核”两极分化，大连以5.1%的增速跑出上扬曲线，沈阳则录得2.2%的增速，二者增速差达2.9个百分点，这是沈阳连续六个季度在经济增速上落后于大连。 扛起省会担当，辽宁又一次“点名”沈阳。日前，辽宁省委书记许昆林主持召开沈阳县（市、区）党政主要负责同志座谈会。许昆林强调，要以强烈的责任感紧迫感推动高质量发展，以更大气力提升城市核心竞争力。 省委书记对话沈阳各县（市、区）党政主要负责人，传递的信号非常明确——沈阳要扛起辽宁全面振兴“跳高队”作用。 回顾2025年，沈阳GDP达9100.3亿元，有望成为继大连之后，辽宁乃至东北的第二个“万亿城市”，但眼下增速偏低的现实明显制约着其突破步伐。 从上半年经济数据来看，沈阳为何“慢”了？省级层面的部署，又能否为沈阳重塑竞争力打开新局面？振兴辽宁，省内“双子星”还有哪些合作空间？ 1 沈阳“慢”了 沈阳的经济增速比预期慢了半拍。 根据沈阳市政府工作报告，2026年沈阳经济预期增速为4.5%左右，“十五五”期间年均增长5%左右。按此增速计算，沈阳有望在“十五五”中期突破“万亿”门槛。 眼下经济“半年报”公布，沈阳GDP4430.1亿元、同比增长2.2%，增",
+    "id": "news--1785259227000",
+    "title": " 专访极智嘉联合创始人陈曦：脱离效率的泛化，没有商业价值 ",
+    "link": "https://www.huxiu.com/article/4878893.html?f=rss",
+    "summary": "本文来自微信公众号： 具身研习社 2015年，陈曦和其他核心成员一起创立极智嘉。当时，他的目标是造出一款好用的AMR产品（自主移动机器人）。 此次，「甲子光年」与极智嘉联合创始人、极智嘉具身智能CEO陈曦进行了一场对话，探讨了对当前具身智能热点问题的独到见解。 脱离效率的泛化，没有商业价值：对于行业普遍把泛化能力当成具身智能最高标尺的情况，极智嘉表示，没有效率打底的泛化能力，是演示品不是生产力，毫无商业价值。效率是1，泛化是后面的0，泛化仅解决“能不能”，效率才决定“值不值”。 进厂进店，不如进仓：对于具身智能的第一落地场景，行业最热的两个方向是进厂和进店。极智嘉认为，进厂进店，不如进仓。制造场景可复制性差、规模化难、经济性难以支撑。无人零售不需要机器人就能实现，具身进店不是真实痛点和需求。相较而言，仓储领域的拣货和分拣打包等应用，才是具身智能商业化落地的最佳第一场景。 具身智能分水岭在于场景与数据飞轮：对于技术路线之争，行业在VLA和世界模型之间激烈站队。极智嘉认为，具身智能的马拉松还在早期，技术路线还未统一，都值得探索。现在各家公司的实际能力差距不大，真正的分水岭不在于选了哪条技术路线，而在于谁先进入真实落地场景、跑通可落地的整体解决方案、让数据飞轮转起来。待到技术路线收敛时，飞轮已在高速运转、商业化能力强的玩家，才握有决胜筹码。 以下是对话实录。 甲子光年：极智嘉做具身智能是",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -228,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-8217-s-x-money-app-is-rolling-out-in-the-u-s-1785250632000",
-    "title": "Elon Musk&#8217;s X Money app is rolling out in the U.S.",
-    "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-    "summary": "The app is currently available to X Premium and Premium+ subscribers in the U.S.",
+    "id": "news-waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency--1785265593000",
+    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+    "summary": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that follows a series of incidents in which robotaxis blocked fire trucks and impeded emergency responders.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -241,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-hr-tech-europe-leaders-on-what-8217-s-holding-ai-back-in-h-1785240047000",
-    "title": "6 HR Tech Europe leaders on what&#8217;s holding AI back in HR",
-    "link": "https://hrexecutive.com/6-hr-tech-europe-leaders-on-whats-holding-ai-back-in-hr/",
-    "summary": "Eighty-one percent of HR pros use AI personally, only 36% at work. Six HR Tech Europe voices explain the trust and data gaps holding AI back. The post 6 HR Tech Europe leaders on what&#8217;s holding AI back in HR appeared first on HR Executive .",
+    "id": "news-specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds-1785240901000",
+    "title": "Specialty drug costs expected to jump 32% by 2028, PSG finds",
+    "link": "https://hrexecutive.com/specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds/",
+    "summary": "Claim utilization is now the dominant driver of specialty drug trend as the percentage of members using specialty drugs rose to 5.5%. The post Specialty drug costs expected to jump 32% by 2028, PSG finds appeared first on HR Executive .",
     "publishedAt": "2026-07-28",
     "source": "HR Executive",
     "tags": [
@@ -294,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785250511000",
-    "title": " 长沙是如何激活服务消费的 ",
-    "link": "https://www.huxiu.com/article/4878883.html?f=rss",
-    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 此前，它还曾是新消费的样本之城。 在「给服务消费市场找增量」这道几乎所有城市都要作答的命题里，比起北上广深，长沙可能是对更多数城市来说更值得参考的一个样本——它没有政策上的稀缺资源，经济体量在29座万亿GDP城市里居于中游；它的服务消费是更日常的、平价的，但无所不入、时刻在微创新，是更适合普通城市参考和成为的样子。 这两年走红的东茅街茶馆，清早是街坊邻居喝茶过早的地方，午后和夜里挤满前来打卡的年轻人，单日客流峰值超过1.5万人次； 洗浴在被做成融合吃喝玩乐的微度假体之后，这两年又被拉进「夜经济」的范畴，官方甚至提出了「夜养」的概念； 网吧和台球行业里，长沙的连锁品牌不再突出设备、环境，而是叠加情绪价值、做重服务——网管和服务员会画动漫仿妆，或者穿着二次元风格的服饰上班。 酒吧是长沙这两年新的出圈品类。从2023年开始，在年轻游客心中，长沙的新晋「5A景区」是开在解放西路的酒吧「Hib Hub公社」，大家不是冲着调酒的创意，而是和朋友来看一场男团舞蹈表演。这两年才在北京、上海等一线城市兴起的homebar，同一时间在长沙快速冒出了上百家。 而以上这些，都可归属我们所说的「服务消费」领域。所谓服务消费，本质是买时间、体验、情绪和场景，而非实物。过去几年各地发力文旅，也是扩大服务消费的形式之一。 宏观上，服务消费已成为拉动消费越来越重要的来源。据",
+    "id": "news--1785255004000",
+    "title": " 了不起的韩国股民 ",
+    "link": "https://www.huxiu.com/article/4878892.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 成也萧何，败也萧何 近期，韩国股市经历了史无前例的剧烈震荡，大量使用杠杆的散户账户爆仓，连环踩踏，引发了严重的社会问题。 2026年上半年，韩国综合指数（KOSPI）翻了一倍，6月19日创下9385.59点的历史最高纪录。正当人们欢欣鼓舞期待它突破一万点时，它却掉头一路下挫。 据不完全统计，韩国散户杠杆交易的合计亏损约2.15万亿韩元。在爆仓人群中，20至30岁的年轻人占比62%，成为此次危机的重灾区。 爆仓散户自杀的消息不绝于耳，甚至发生杀人事件。7月13日，一名20岁左右的男子持刀刺伤了一名财经网红。此前他听信该网红的建议，将全部身家押注股市后血本无归。 7月14日，韩国金融服务委员会向青瓦台内阁会议正式提交了《经济危机家庭自杀预防对策》。该对策指出，经济危机导致的自杀是“社会性谋杀”，并计划采取多项紧急措施。政府出台政策试图阻止“经济自杀”现象，这是金融史上第二次。 第一次是在2006年，日本国会通过了《自杀对策基本法》。20世纪90年代初，日本股市和楼市泡沫破裂，随后经济长期低迷，“经济自杀”现象严重。时隔二十年，韩国推出了相似法案。 韩国自杀率一向位居世界前列。2024年韩国的自杀率创下近13年新高，2025年有所下降。 韩国生育率一向垫底。不过，在经历了长期的断崖式下跌后，近期出现了明显的触底反弹迹象。截至202",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -333,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-whatsapp-now-lets-you-make-calls-using-its-web-app-1785250402000",
-    "title": "WhatsApp now lets you make calls using its web app",
-    "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
-    "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
+    "id": "news-ebay-reaches-56m-settlement-with-e-commerce-newsletter-write-1785263729000",
+    "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+    "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+    "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -346,15 +345,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-the-rise-of-glp-1-usage-affecting-long-term-affordability-1785239122000",
-    "title": "Is the rise of GLP-1 usage affecting long-term affordability?",
-    "link": "https://hrexecutive.com/is-the-rise-of-glp-1-usage-affecting-long-term-affordability/",
-    "summary": "The average total payment per user for GLP-1 medications more than doubled for adults who don't have diabetes from 2017 to 2022. The post Is the rise of GLP-1 usage affecting long-term affordability? appeared first on HR Executive .",
+    "id": "news-6-hr-tech-europe-leaders-on-what-8217-s-holding-ai-back-in-h-1785240047000",
+    "title": "6 HR Tech Europe leaders on what&#8217;s holding AI back in HR",
+    "link": "https://hrexecutive.com/6-hr-tech-europe-leaders-on-whats-holding-ai-back-in-hr/",
+    "summary": "Eighty-one percent of HR pros use AI personally, only 36% at work. Six HR Tech Europe voices explain the trust and data gaps holding AI back. The post 6 HR Tech Europe leaders on what&#8217;s holding AI back in HR appeared first on HR Executive .",
     "publishedAt": "2026-07-28",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -376,7 +376,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-s800-36-1785230641000",
     "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
     "link": "https://36kr.com/p/3913637793059968?f=rss",
-    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分市场。 这款车对于吉利集团而言，意义非凡。 ���息人士透露，吉利核心管理层要求调集大集团的资源进行支持。“公司已经暂缓或延后银河、领克及极氪的同类项目，以确保沃尔沃'561'项目获得最优的资源倾斜。",
+    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分市场。 这款车对于吉利集团而言，意义非凡。 消息人士透露，吉利核心管理层要求调集大集团的资源进行支持。“公司已经暂缓或延后银河、领克及极氪的同类项目，以确保沃尔沃'561'项目获得最优的资源倾斜。” ",
     "publishedAt": "2026-07-28",
     "source": "36氪",
     "tags": [
@@ -783,6 +783,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135535",
+    "title": "Market Research Analyst",
+    "company": "Blend",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people",
+      "With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intellig"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "New York, New York, New York, United States",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-analyst-blend-1135535",
+    "postedAt": "2026-07-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135557",
     "title": "Job Details",
     "company": "Indi Connect",
@@ -790,7 +808,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
+      "Please mention the word **PLAYFULLY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -825,7 +843,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
+      "Please mention the word **SAGELY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
       "This is a beta fea"
     ],
     "skills": [],
@@ -842,7 +860,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RMTcyLjE3NC4xMTguNDE= when applying to show you read the job post completely (#RMTcyLjE3NC4xMTguNDE=)",
+      "Please mention the word **HANDY** and tag RMTcyLjE4NS41NC4yNDE= when applying to show you read the job post completely (#RMTcyLjE4NS41NC4yNDE=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -851,24 +869,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-book-recommendation-level-20-netherlands-1135423",
     "postedAt": "2026-07-26",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135451",
-    "title": "Dubai UAE",
-    "company": "富默乐国际贸易（上海）有限公司",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Flexible Working Hours Adjust your hour"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "دبي, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
-    "postedAt": "2026-07-25",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-28T16:03:28.598Z';
+export const dataFetchedAt = '2026-07-28T19:17:19.640Z';
