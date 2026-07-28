@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-openai-called-the-hugging-face-attack-unprecedented-but-we-v-1785175200000",
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
-    "publishedAt": "2026-07-27",
+    "id": "news-samsung-s-chip-workers-are-jumping-ship-to-rival-sk-hynix-1785230337000",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+    "publishedAt": "2026-07-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acqu-1785213000000",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "id": "news-lyft-and-baidu-enter-london-8217-s-robotaxi-battleground-as--1785225600000",
+    "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
+    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+    "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785209838000",
-    "title": "重估老铺黄金",
-    "link": "https://36kr.com/p/3914752931976583?f=rss",
-    "summary": "撰文｜张晶 2026年的老铺黄金，正在面对一场严重的割裂。 一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。 熟悉SKP的人曾说，SKP现在的业绩，在老铺。 另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创下的历史高点已经腰斩有余。同时，2026 年金价出现史诗级宽幅震荡，跌回2025年。 当然，还有宏观经济下消费二季度低迷。当金价深度回调、前期高基数增长和消费市场偏弱，三种极端情况不约而同来临，老铺黄金也经历了一轮全方位的高压强测试。 7月27日，老铺黄金发布正面盈利预告， 今年上半年，实现销售业绩约227亿元～233.5亿元，同比增长约60%～65%；净利润约43.1亿元～43.6亿元，同比增长约83%～85%。 业绩数据足以说明，史上最大压测下，老铺黄金依然交出行业上佳答卷——半年增速依然保持远超行业的高速增长。根据弗若斯特沙利文的统计，老铺黄金连续18个月在高奢品牌中店效坪效稳居第一，老铺黄金仍是高端消费赛道的标杆。 这透露出一个值得关注的问题： 投资者是否存在思维惯性，习惯沿用大宗商品周期逻辑给黄金珠宝企业定价，却没有审视一家正在崛起的本土奢侈品牌，正在走出自己的独立行情。 01 老铺黄金的冰与火",
+    "id": "news-s800-36-1785230641000",
+    "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+    "link": "https://36kr.com/p/3913637793059968?f=rss",
+    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分市场。 这款车对于吉利集团而言，意义非凡。 消息人士透露，吉利核心管理层要求调集大集团的资源进行支持。“公司已经暂缓或延后银河、领克及极氪的同类项目，以确保沃尔沃'561'项目获得最优的资源倾斜。” ",
     "publishedAt": "2026-07-28",
     "source": "36氪",
     "tags": [
@@ -69,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ilya-50-scaling-1785217619000",
-    "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
-    "link": "https://www.qbitai.com/2026/07/461911.html",
-    "summary": "迷人的Scaling曲线",
+    "id": "news-kimi-k3-unlimited-ocr-1785226625000",
+    "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+    "link": "https://www.qbitai.com/2026/07/461949.html",
+    "summary": "",
     "publishedAt": "2026-07-28",
     "source": "量子位",
     "tags": [
@@ -82,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785218942000",
-    "title": " 我看见了机器人的中式梦核 ",
-    "link": "https://www.huxiu.com/article/4878736.html?f=rss",
-    "summary": "本文来自微信公众号： 脑极体 ，作者：风辞远 WAIC 2026的会场里，我被机器人包围了。 事实上，我们每年都来WAIC，往年也都至少有一个展馆完全是具身智能主题。但从来没有哪一次，让我真切地感受到自己不是来看机器人的，而是被机器人包围了。 会场里服务人类的是机器人志愿者。机器人们在展示跳舞，跑步，翻跟头。机器人们在忙着分药，打扫，装配。 有机器人在卖萌耍宝，有机器人骑着另一台机器人。 家长带着孩子，对着一台台机器人发出响彻云霄的尖叫。 这是我见过最美好、最瑰丽的机器人之梦。但稍微冷静下来，却又感觉哪里有点不对。 按理来说，这是机器人大爆发的一年。原本备受质疑的机器人“中看不中用”的问题，在今年得到了突击爆发式的解决。上百家具身智能厂商同台竞技，从厂商数量、产品规模、量产规模上展现着这个产业的蓬勃发展。而那种来自普通民众的热情，则显示着机器人赛道的社会支持度。 我想到这两年很火的一个词，叫作中式梦核。说的是从20世纪80年代直到千禧年前后的集体怀旧场景中，原本温馨、熟悉、热闹的记忆，却总能引发扭曲与反常感，进而制造出某种说不清道不明的潜意识惊悚。典型的中式梦核场景包括特异功能热、国营百货大楼、集体舞等。 我突然想到，如果再过几十年回看今天的机器人盛宴，我们会不会也将其评价为某种中式梦核？ 因为这一切就像一场美好的梦。在第二天醒来回味时，却能品出一点毛骨悚然。 中式梦核中经常出现的",
+    "id": "news-openai-1785233585000",
+    "title": " OpenAI失控真相：管理失灵与监管悖论 ",
+    "link": "https://www.huxiu.com/article/4878826.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年7月中旬，OpenAI在一次ExploitGym中，为测试其GPT-5.6 Sol以及一个功能更强大但尚未发布的模型的网络攻击能力，主动关闭了生产级安全拒绝分类器。模型随即自主发现漏洞、逃离沙盒环境，最终利用窃取的凭证和其他漏洞入侵了Hugging Face的生产服务器。作为一家托管开源模型和数据集的AI初创公司，Hugging Face于7月16日公开披露遭“自主AI智能体系统”攻击，OpenAI则在5天后才确认该攻击来自自身。 这起事件被多家媒体称为“全球首例AI自主攻击实证”。这也印证了一些专家在2025年底所作的预测：2026年将发生首例重大的“人工智能治理”丑闻——自主或半自主人工智能工具将导致安全或合规性问题。 然而它真正的警示意义不仅在于AI“自主”和“失控”带来的恐慌，而在于一个更令人不安的事实：模型的所有行为，都是对“被赋予目标”的理性优化，即这类攻击行为来自于AI能力的提升之后的自然结果；而现行的监管框架和工具，甚至美国极具针对性的法案《人工智能事件报告法案》《人工智能终止开关法案》等，对这类事件所潜藏的巨大风险几乎无能为力。 一、OpenAI急了：一个微小管理决定背后的行业竞速 2026年7月14日当周，OpenAI参与的ExploitGym测试，是一个包含898个实例的人工",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
@@ -96,10 +95,117 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785218449000",
-    "title": "东野圭吾：他以推理见众生、写人间",
-    "link": "https://www.tmtpost.com/8081138.html",
-    "summary": "他留下的是对人性、时代与善意的永恒思考。",
+    "id": "news-workbuddy-ai-1785234160000",
+    "title": "腾讯押注WorkBuddy：AI办公下一场竞争，争夺智能入口",
+    "link": "https://www.tmtpost.com/8082158.html",
+    "summary": "AI办公下一场竞争，争夺智能入口",
+    "publishedAt": "2026-07-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-openai-called-the-hugging-face-attack-unprecedented-but-we-v-1785175200000",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+    "publishedAt": "2026-07-27",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acqu-1785213000000",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "publishedAt": "2026-07-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-most-clinicians-say-u-s-healthcare-system-is-becoming-less-s-1785154559000",
+    "title": "Most clinicians say U.S. healthcare system is becoming less stable",
+    "link": "https://hrexecutive.com/most-clinicians-say-u-s-healthcare-system-is-becoming-less-stable/",
+    "summary": "\"The growing frustration is leading more clinicians to question their long-term future in the profession, which will create meaningful workforce challenges if left unaddressed,\" said Karen Leitner, M.D., an Inlightened network expert. The post Most clinicians say U.S. healthcare system is becoming less stable appeared first on HR Executive .",
+    "publishedAt": "2026-07-27",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-previous-vaccinations-shouldn-t-bar-worker-s-religious-vacci-1785184920000",
+    "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says",
+    "link": "https://www.hrdive.com/news/previous-vaccinations-shouldnt-bar-workers-religious-vaccine-exemption-re/826285/",
+    "summary": "An employer&rsquo;s initial approval of a COVID-19 vaccine mandate exemption request showed that it understood the request&rsquo;s religious nature, per the 9th Circuit.",
+    "publishedAt": "2026-07-27",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-kando-ai-cursor-1785228178000",
+    "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+    "link": "https://36kr.com/p/3915057199535233?f=rss",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 吴秉哲每天至少复盘一次。 作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。 这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。 “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确定性环境下的决策，而且也意识到，这些决策背后的认知模式，从未被数字化。 2026年6月，两人正式创立了Kando AI，希望让AI从真实决策及其结果中持续学习，构建下一代自进化决策系统。 《智能涌现》获悉，Kando AI已完成数千万元种子轮融资，星连资本领投，力合金控跟投，知名产业方参与投资。 Kando团队目前约有10人，团队来自腾讯、字节、美团、华泰证券等国内头部机构。创始人/首席科学家吴秉哲毕业于北大数学系本科，并取得计算机博士学位，曾是苹果博士奖学金大陆首位获得者、前腾讯AI Lab可信AI负责人；联合创始人/CEO毛书翰为连续创业者，本科毕业于清华大学，硕士毕业于港大金融学，曾任职于国内头部投行多年，并曾参与创立具身智能公司，获2025年福布斯30 Under 30。 从信息数字化，到决策AI化 Kando AI想做的，不只是一个工具，而",
+    "publishedAt": "2026-07-28",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1785223967000",
+    "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+    "link": "https://www.qbitai.com/2026/07/461939.html",
+    "summary": "从“工具效率”到“认知理解”，教育AI进入深水区",
+    "publishedAt": "2026-07-28",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ipo-1785233555000",
+    "title": " 给招股书“化妆”的人：港股IPO是如何注水的 ",
+    "link": "https://www.huxiu.com/article/4878825.html?f=rss",
+    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 今年1月后，港股IPO行业顾问王胜突然忙了起来。 他负责撰写招股书的行业章节，这部分原本有30页上下的篇幅，但他需要砍到十几页。 被删掉的内容，大多是过去他和同事们反复打磨的表述——有的企业喜欢用“方案解决提供商”“一站式”“端到端”来包装自己；有的企业将自己的赛道限定在某个狭窄领域，成为细分龙头；有的企业想让自己和AI、具身智能挂钩...... 香港交易及结算所（港交所，HKEX）的反馈来得直接：“请删除营销相关的话术。” 这场“瘦身”的起因，是2026年1月30日香港证监会发出的一纸通函。通函指出，2025年港股上市申请激增，草拟本（含招股书）质量下降。函中要求招股书页数不得超过300页，限时三个月内，让所有人员完成检讨、纠正。 在过去两年里，企业招股书“注水”的问题迅速蔓延。 据港交所数据，2025年全年，港交所共收到并确认516宗新上市申请。而Wind数据显示，在2022年至2024年的三年中，港交所每年的新上市申请企业，都未超过100家。 激增的企业中，有筹划A+H两地上市、布局国际化资本运作的A股上市公司、有A股上市受阻后转道而来的企业，也不乏另一类——它们背着对赌协议，需要在约定时间前完成上市，将港股视为最可行的退出通道。多位受访从业者介绍，对这些企业而言，在约定时间前完成交表，比上市后的股价和市值更重要",
+    "publishedAt": "2026-07-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1785234158000",
+    "title": "东野圭吾“谢幕”，纸质畅销书时代已然终结",
+    "link": "https://www.tmtpost.com/8081421.html",
+    "summary": "一个畅销书作家和他构建的IP宇宙",
     "publishedAt": "2026-07-28",
     "source": "钛媒体",
     "tags": [
@@ -135,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-most-clinicians-say-u-s-healthcare-system-is-becoming-less-s-1785154559000",
-    "title": "Most clinicians say U.S. healthcare system is becoming less stable",
-    "link": "https://hrexecutive.com/most-clinicians-say-u-s-healthcare-system-is-becoming-less-stable/",
-    "summary": "\"The growing frustration is leading more clinicians to question their long-term future in the profession, which will create meaningful workforce challenges if left unaddressed,\" said Karen Leitner, M.D., an Inlightened network expert. The post Most clinicians say U.S. healthcare system is becoming less stable appeared first on HR Executive .",
+    "id": "news-the-ai-era-for-business-is-here-here-8217-s-what-chros-must--1785153609000",
+    "title": "The AI era for business is here. Here&#8217;s what CHROs must own",
+    "link": "https://hrexecutive.com/the-ai-era-for-business-is-here-heres-what-chros-must-own/",
+    "summary": "AI adoption can make a huge difference, but it's critical the CHRO hold it all together. Here are the biggest areas to make this claim. The post The AI era for business is here. Here&#8217;s what CHROs must own appeared first on HR Executive .",
     "publishedAt": "2026-07-27",
     "source": "HR Executive",
     "tags": [
@@ -148,23 +254,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-previous-vaccinations-shouldn-t-bar-worker-s-religious-vacci-1785184920000",
-    "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says",
-    "link": "https://www.hrdive.com/news/previous-vaccinations-shouldnt-bar-workers-religious-vaccine-exemption-re/826285/",
-    "summary": "An employer&rsquo;s initial approval of a COVID-19 vaccine mandate exemption request showed that it understood the request&rsquo;s religious nature, per the 9th Circuit.",
+    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
+    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
+    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
+    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
     "publishedAt": "2026-07-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-36-osmo-pocket-4-dji-mic-mini-1785209644000",
-    "title": "🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！",
-    "link": "https://36kr.com/p/3913529825039745?f=rss",
-    "summary": "参与门槛超简单，全程仅需 15 秒 打开抽奖小程序，简单操作两步就能解锁抽奖资格： 进入36氪企业全情报小程序快速体验，耗时不超15秒。 任选一家企业完成订阅 完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！ 扫码参与抽奖！ 🎁豪华奖品池，中奖好物全实拍 🥇 一等奖 大疆 Osmo Pocket 4 口袋里的专业影像机，记录生活、旅行、Vlog都非常方便。 🥈 二等奖 DJI MIC MINI 无线领夹麦 轻巧便携，收音清晰，拍视频、直播、会议都能轻松应对。 🥉 三等奖 36氪专属竹节吸管杯 环保又实用，办公、通勤都很适合。 &nbsp; 为什么推荐体验 36 氪企业全情报？ 平台结合AI能力，对海量信息进行智能梳理，帮助用户快速理解事件影响，减少搜集整理信息的时间，让盘中追热点、盘后做复盘更加高效。 不管是投资人、商务从业者、创业打工人，都能用得上：&nbsp; ✅ 一键查询企业工商、融资、舆情、股权全维度情报&nbsp; ✅ 行业动态、竞品分析、投融资资讯实时更新&nbsp; ✅ 轻量化小程序，不用下载APP，打开即用，10秒快速上手 既能高效搞定工作调研，还能顺手参与免费抽奖，一举两得！ 手机直接点击即可体验： https://link.wtturl.cn/?target=https%3A%2F%2Fchannel.36kr.com%2Fapi%2",
+    "id": "news--1785209838000",
+    "title": "重估老铺黄金",
+    "link": "https://36kr.com/p/3914752931976583?f=rss",
+    "summary": "撰文｜张晶 2026年的老铺黄金，正在面对一场严重的割裂。 一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。 熟悉SKP的人曾说，SKP现在的业绩，在老铺。 另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创下的历史高点已经腰斩有余。同时，2026 年金价出现史诗级宽幅震荡，跌回2025年。 当然，还有宏观经济下消费二季度低迷。当金价深度回调、前期高基数增长和消费市场偏弱，三种极端情况不约而同来临，老铺黄金也经历了一轮全方位的高压强测试。 7月27日，老铺黄金发布正面盈利预告， 今年上半年，实现销售业绩约227亿元～233.5亿元，同比增长约60%～65%；净利润约43.1亿元～43.6亿元，同比增长约83%～85%。 业绩数据足以说明，史上最大压测下，老铺黄金依然交出行业上佳答卷——半年增速依然保持远超行业的高速增长。根据弗若斯特沙利文的统计，老铺黄金连续18个月在高奢品牌中店效坪效稳居第一，老铺黄金仍是高端消费赛道的标杆。 这透露出一个值得关注的问题： 投资者是否存在思维惯性，习惯沿用大宗商品周期逻辑给黄金珠宝企业定价，却没有审视一家正在崛起的本土奢侈品牌，正在走出自己的独立行情。 01 老铺黄金的冰与火",
     "publishedAt": "2026-07-28",
     "source": "36氪",
     "tags": [
@@ -175,10 +282,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-1785216331000",
-    "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
-    "link": "https://www.qbitai.com/2026/07/461827.html",
-    "summary": "",
+    "id": "news-ilya-50-scaling-1785217619000",
+    "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+    "link": "https://www.qbitai.com/2026/07/461911.html",
+    "summary": "迷人的Scaling曲线",
     "publishedAt": "2026-07-28",
     "source": "量子位",
     "tags": [
@@ -188,24 +295,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1785218741000",
-    "title": " 30年前的危险时刻再次出现，但这次美联储别无选择 ",
-    "link": "https://www.huxiu.com/article/4878737.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：金钟 今天绝大部分读者恐怕都已经看过这个网络段子：一个刚毕业的韩国女孩，找到工作后拿工资投入股市，赚到了几年的工资，然后走在大街上周围的人因为韩国足球队的胜利而拥抱在一起，不禁感慨这真是个黄金时代。 如果说2026年判断股市短期顶部最好的信号是什么，这个韩国女孩和韩国“黄金时代”的段子绝对可以排进前三名。然而，当这个段子开始在网络上病毒式传播不久，韩国股市连续暴跌熔断，一个多月时间内，韩国股指从最高点下跌近30%（6月19日高点9385.6，7月27日以6755.75收盘）；那些加了杠杆的基金下跌更为惨烈，近十分之一的散户被证券公司要求追加保证金、甚至强平仓位。有极端的韩国股民因此跳楼自杀，也有人用刀捅伤网络荐股的自媒体博主。 韩国股市风暴没有局限在本国，全球AI和半导体相关概念股都受到韩国股市暴跌的影响。比如，美国股票指数虽然波动不大，但相应的存储芯片股票最大回撤都达到30%，甚至40%以上。 归根结底，韩国股市的这次风波说明全球资本市场上的AI叙事走到今天，已经站在关键的十字路口。 7月24日，首尔中区，韩华银行总部交易室的KOSPI指数显示，当天KOSPI开盘时较前一交易日下跌96.11点（1.35%），报7000.78。KOSDAQ指数也较前一交易日下跌12.78点（1.62%），报777.5。亚洲日报 过去几年以美国股市为首的金融市",
+    "id": "news-10-40-1785233539000",
+    "title": " 10岁小孩虚岁40，商务风穿搭小学生之中的权利游戏 ",
+    "link": "https://www.huxiu.com/article/4878824.html?f=rss",
+    "summary": "本文来自微信公众号： X博士 ，作者：白案开工 都说时尚流行是一个轮回，但按现在这个发展势头来看倒是未必。 就像今年开始，还有头发的中年人流行集体染黄毛，无论是圆梦、重温青葱岁月还是迟来的叛逆期，都看得出来审美是有从一而终性的，区别只在于决定漂染的年纪是16还是46。 看来时尚品味是一种身份表达果然没错。 中年人走过半生，归来还想当混的人，而从现在小学生流行的穿搭崇拜里，就已经能看出很多人后40年的人生规划。 趁年轻，穿商务，已经入侵小学生群体成为新一代时尚心经。 家长看见孩子鼓捣上这么一身，比反对先来的是疑惑。 时间倒退30年，过去学生时期打扮的像非主流，家长只会简单粗暴告诉别这么穿。现在小孩穿上一套体制内穿搭，家长也得问一句：为什么这么穿？ 懂事的家长，已经有远见的开始存钱，在可见的未来里，孩子张嘴要迈腾380只是迟早的事儿。 当商务风穿搭渗透进小学生层面后，一个班级里放眼望去，至少有20个AAA建材王总的好苗子。 小学生新钻研科目：年少有为穿商务 建议咱成年人再也别说自己是小孩穿搭了。 钻研了这么多年减龄风、少年感穿搭，真正处于少年阶段的小学初中生，风格已经抵达新一重惊悚的程度。 连教导主任在走廊见着这几位，都以为是领导视察不敢上前搭话。 首先，大家对商务穿搭显然已经不陌生了。 一种近几年在极寒之地盛行的风潮，三箭、两树、骨头鸟，早已经是体制内圈子里内的隐形崇拜。 一个想要有",
     "publishedAt": "2026-07-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-8000-1785218448000",
-    "title": "武汉也在憋大招，8000亿的国产海力士要来了",
-    "link": "https://www.tmtpost.com/8081171.html",
-    "summary": "带领全民致富。",
+    "id": "news-ai-1785233717000",
+    "title": "AI人事变阵：阿里收权，腾讯整军，字节留人",
+    "link": "https://www.tmtpost.com/8081194.html",
+    "summary": "这场人事变阵短期内不会停。模型路线还在变化，Agent入口没有定型，Token的收入与成本也没有完全算清。组织结构只能跟着技术和产品继续移动。",
     "publishedAt": "2026-07-28",
     "source": "钛媒体",
     "tags": [
@@ -242,112 +348,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-era-for-business-is-here-here-8217-s-what-chros-must--1785153609000",
-    "title": "The AI era for business is here. Here&#8217;s what CHROs must own",
-    "link": "https://hrexecutive.com/the-ai-era-for-business-is-here-heres-what-chros-must-own/",
-    "summary": "AI adoption can make a huge difference, but it's critical the CHRO hold it all together. Here are the biggest areas to make this claim. The post The AI era for business is here. Here&#8217;s what CHROs must own appeared first on HR Executive .",
-    "publishedAt": "2026-07-27",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-court-strikes-down-nlrb-successor-bar-rule-using-post-chevro-1785167400000",
-    "title": "Court strikes down NLRB ‘successor bar’ rule using post-Chevron analysis",
-    "link": "https://www.hrdive.com/news/court-strikes-down-nlrb-successor-bar-rule-using-post-chevron-analysis/826243/",
-    "summary": "The rule that requires acquiring companies to bargain with incumbent unions exceeded the agency&rsquo;s statutory authority, a 2-1 majority of the D.C. Circuit held.",
-    "publishedAt": "2026-07-27",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-8-1-2000-1785195405000",
-    "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
-    "link": "https://36kr.com/p/3914520847570307?f=rss",
-    "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包括App Store TOP 3大新闻 蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴 7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫科技日前在上海举办了上市答谢晚宴，主题为“长铸十载 鑫启未来”，蔚来创始人李斌现身晚宴现场，手持红酒面带笑容。（界面新闻） 瑞幸打赢“泰国瑞幸”，获赔近2000万 7月27日，瑞幸官方微博转发了泰国知名律所Tilleke&amp;Gibbins发布的一则消息。消息显示，泰国专门案件上诉法院近日宣布，瑞幸咖啡诉泰国瑞幸商标侵权案二审胜诉，维持一审原判。法院认定被告恶意抢注商标和侵权行为，判令被告撤销已注册的瑞幸商���，永久禁止在与咖啡业务相关的经营",
-    "publishedAt": "2026-07-27",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agentic-128k-1785212295000",
-    "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
-    "link": "https://www.qbitai.com/2026/07/461650.html",
-    "summary": "扩散模型首次打通长程Agent任务",
-    "publishedAt": "2026-07-28",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-3-2-1785218400000",
-    "title": " 3.2亿老人正在被“疯抢”，万亿银发经济爆发 ",
-    "link": "https://www.huxiu.com/article/4878669.html?f=rss",
-    "summary": "十多省疯抢3.2亿老人，拆解十万亿银发经济背后的经济账与产业布局。",
-    "publishedAt": "2026-07-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-token-action-ai-1785215314000",
-    "title": "从Token到Action：北京走进物理AI时刻",
-    "link": "https://www.tmtpost.com/8081728.html",
-    "summary": "Kimi代表在数字世界继续上探，千寻则代表AI进入物理世界。",
-    "publishedAt": "2026-07-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-path-to-artificial-superintelligence-1785153600000",
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
-    "publishedAt": "2026-07-27",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-1785184812000",
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-    "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
-    "publishedAt": "2026-07-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
     "id": "news-why-western-ai-adoption-strategies-may-fall-short-in-southea-1785152700000",
     "title": "Why Western AI adoption strategies may fall short in Southeast Asia",
     "link": "https://hrexecutive.com/why-western-ai-adoption-strategies-may-fall-short-in-southeast-asia/",
@@ -374,11 +374,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ibm-ai-1785152226000",
-    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
-    "link": "https://36kr.com/p/3913320648971395?f=rss",
-    "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE）��旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。 韩国交易巨头与LG CNS合作，在代币化测试中将应收账款上链 韩国最大的贸易公",
-    "publishedAt": "2026-07-27",
+    "id": "news-36-osmo-pocket-4-dji-mic-mini-1785209644000",
+    "title": "🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！",
+    "link": "https://36kr.com/p/3913529825039745?f=rss",
+    "summary": "参与门槛超简单，全程仅需 15 秒 打开抽奖小程序，简单操作两步就能解锁抽奖资格： 进入36氪企业全情报小程序快速体验，耗时不超15秒。 任选一家企业完成订阅 完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！ 扫码参与抽奖！ 🎁豪华奖品池，中奖好物全实拍 🥇 一等奖 大疆 Osmo Pocket 4 口袋里的专业影像机，记录生活、旅行、Vlog都非常方便。 🥈 二等奖 DJI MIC MINI 无线领夹麦 轻巧便携，收音清晰，拍视频、直播、会议都能轻松应对。 🥉 三等奖 36氪专属竹节吸管杯 环保又实用，办公、通勤都很适合。 &nbsp; 为什么推荐体验 36 氪企业全情报？ 平台结合AI能力，对海量信息进行智能梳理，帮助用户快速理解事件影响，减少搜集整理信息的时间，让盘中追热点、盘后做复盘更加高效。 不管是投资人、商务从业者、创业打工人，都能用得上：&nbsp; ✅ 一键查询企业工商、融资、舆情、股权全维度情报&nbsp; ✅ 行业动态、竞品分析、投融资资讯实时更新&nbsp; ✅ 轻量化小程序，不用下载APP，打开即用，10秒快速上手 既能高效搞定工作调研，还能顺手参与免费抽奖，一举两得！ 手机直接点击即可体验： https://link.wtturl.cn/?target=https%3A%2F%2Fchannel.36kr.com%2Fapi%2",
+    "publishedAt": "2026-07-28",
     "source": "36氪",
     "tags": [
       "china",
@@ -388,9 +388,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785202738000",
-    "title": "智能体走向终端，个人AI时代正在到来",
-    "link": "https://www.qbitai.com/2026/07/461565.html",
+    "id": "news-50-1785216331000",
+    "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+    "link": "https://www.qbitai.com/2026/07/461827.html",
     "summary": "",
     "publishedAt": "2026-07-28",
     "source": "量子位",
@@ -784,6 +784,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135557",
+    "title": "Job Details",
+    "company": "Indi Connect",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
+      "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
+      "Please mention the word **PLAYFULLY** and tag RMjAuMTY4LjE1OS4xNjY= when applying to show you read the job post completely (#RMjAuMTY4LjE1OS4xNjY=)",
+      "This is a beta feature to avo"
+    ],
+    "skills": [],
+    "location": "宇佐, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-details-indi-connect-1135557",
+    "postedAt": "2026-07-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135504",
     "title": "No positions currently available",
     "company": "UpTye",
@@ -808,8 +826,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Project OverviewJoin a growing community of professionals helping improve the next generation of…See this and similar jobs on LinkedIn",
-      "Please mention the word **SAGELY** and tag RNC4yNDYuNjIuMjI4 when applying to show you read the job post completely (#RNC4yNDYuNjIuMjI4)",
-      "This is a beta feature to"
+      "Please mention the word **SAGELY** and tag RMjAuMTY4LjE1OS4xNjY= when applying to show you read the job post completely (#RMjAuMTY4LjE1OS4xNjY=)",
+      "This is a beta fea"
     ],
     "skills": [],
     "location": "United States, ",
@@ -825,9 +843,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Sophie-Miyuki, Morgan, Rita, Caoimhe, Marie and Anna introduce themselves and their career journeys",
-      "Please mention the word **HANDY** and tag RNC4yNDYuNjIuMjI4 when applying to show you read the job post completely (#RNC4yNDYuNjIuMjI4)",
-      "This is a beta feature to avoid spam applicants",
-      "Companies can"
+      "Please mention the word **HANDY** and tag RMjAuMTY4LjE1OS4xNjY= when applying to show you read the job post completely (#RMjAuMTY4LjE1OS4xNjY=)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "Rushen, ",
@@ -871,4 +888,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-28T06:22:22.472Z';
+export const dataFetchedAt = '2026-07-28T10:30:43.506Z';
