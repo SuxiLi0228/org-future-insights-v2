@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hugging-face-ai-break-in-as-told-through-an-increasingly-1785354289000",
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "id": "news-microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-1785365163000",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-opus-5-became-downright-ruthless-when-tasked-with-run-1785350727000",
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "id": "news-zuckerberg-says-meta-8217-s-enterprise-ai-opportunity-extend-1785363792000",
+    "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -226,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sorry-haters-ferrari-s-first-ev-is-doing-just-fine-1785347865000",
-    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-    "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+    "id": "news-discover-what-8217-s-next-for-ai-from-the-saas-reckoning-to--1785359799000",
+    "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -333,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-robotaxis-are-starting-to-return-to-freeways-1785347457000",
-    "title": "Waymo robotaxis are starting to return to freeways",
-    "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+    "id": "news-thinking-machines-co-founder-lilian-weng-left-the-company-ci-1785359268000",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -758,6 +758,28 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135638",
+    "title": "LLM Engineer Freelancer",
+    "company": "Monterail",
+    "category": "pure_ai",
+    "responsibilities": [
+      "We're building a network of LLM Engineers who can design, build, and integrate practical AI features into existing products",
+      "We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs",
+      "This role is focused on delivery, not ML research"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "OpenAI"
+    ],
+    "location": "Kraków, Kraków, Woj. Małopolskie, Polska",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
+    "postedAt": "2026-07-28",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135555",
     "title": "AI Intern",
     "company": "CertifyOS",
@@ -808,7 +830,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTM0LjMzLjcxLjI0MA== when applying to show you read the job post completely (#RMTM0LjMzLjcxLjI0MA==)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMTE5LjEwMy41MQ== when applying to show you read the job post completely (#RMjAuMTE5LjEwMy41MQ==)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -837,4 +859,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T20:51:10.314Z';
+export const dataFetchedAt = '2026-07-29T22:56:40.262Z';
