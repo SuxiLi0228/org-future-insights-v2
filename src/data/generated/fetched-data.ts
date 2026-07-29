@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-doordash-is-building-its-own-drone-delivery-business-1785330000000",
-    "title": "DoorDash is building its own drone delivery business",
-    "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-    "summary": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+    "id": "news-elon-musk-8217-s-x-settles-multiyear-legal-battle-with-the-w-1785339408000",
+    "title": "Elon Musk&#8217;s X settles multiyear legal battle with the World Federation of Advertisers",
+    "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -40,23 +40,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
-    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
-    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
-    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
-    "publishedAt": "2026-07-28",
+    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
+    "title": "AI use may improve engagement, but only under the right conditions",
+    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
+    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
+    "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-kimi-35-f-350-spacex-260-70-1785323092000",
-    "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
-    "link": "https://36kr.com/p/3916547493965442?f=rss",
-    "summary": "大公司： 美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台 36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。 &nbsp; 新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0% 36氪获悉，新东方发布截至2026年5月31日止第四季度及年度的未经审核财务业绩，第四财季净营收15.3亿美元，同比增长23.0%；第四财季经营利润8580万美元，上年同期亏损870万美元。 瓴羊AgentOne“四名AI员工”正式上岗，覆盖销售、客服、运营、营销四大场景 7月29日，瓴羊AgentOne四名AI员工正式上岗，分别覆盖AI销售、AI客服、AI运营和AI营销四个场景。企业也可以根据自身业务需求，基于AgentOne的能力，和瓴羊FDE（前沿部署工程师）团队一起打造专属场景的X员工。“瓴羊AgentOne以业务效果为导向，以企业数据为基座，以岗位标杆为预设，真正帮助企业在AI时代获得增长。”阿里云智能集团瓴羊CEO朋新宇表示。 联电：将在台南新建晶圆厂，以满足AI需求 联电7月29日宣布，将扩建新加坡厂区无尘室产能，并同步于台南科学园区展开",
+    "id": "news-ai-1785334907000",
+    "title": "让AI先吃，这个国民级健康难题有解了",
+    "link": "https://36kr.com/p/3916800672656773?f=rss",
+    "summary": "在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。 7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。 阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。 一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI功能，发起21天打卡挑战赛等三大行动，帮助大众科学管理体重，建立日常健康习惯。 这场“全民科学减重行动”带来的风潮超出预期。越来越多人加入“减重”大军，爬华山、游东湖、骑单车、跳单杠等场景都出现了阿福陪练、陪游的身影。目前全国已有近150万网友参与科学减重行动，减重超过200万斤。 在运动之外，吃什么，怎么吃，往往是减重中最难也是最容易忽略的一环。普通人很难持续、准确地记录自己吃了多少，热量是否超标，搭配是否合理。对大众来说，阻碍科学减重的，并非缺少意愿，而是缺少一种足够专业、低门槛、且能长期坚持和反馈的趁手工具。 “减重”这一全民健康管理场景，有望诞生出一个“国民级健康AI应用”。而能否将这一场景做深做透，正是全民AI健康入口的试金石。 战投薄荷的化学反应：“AI营养师”学成归来 让AI“看懂”中餐，其实并不简单。 在AI健康管理赛道，将饮食“数字",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -80,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fcc-1785333545000",
-    "title": " FCC 按产地封门：中国机器人被“类别化”剔除出美国市场 ",
-    "link": "https://www.huxiu.com/article/4879208.html?f=rss",
-    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年7月28日，美国联邦通信委员会（FCC）更新了其“受管制清单”，新增了两类设备——在国外生产的“先进机器人设备”以及联网电源逆变器。 FCC的文本上写的是“外国生产”，虽未点名中国，但美国销售的大多数人形机器人都是进口的，尤其是来自中国的，中国本土企业在这个蓬勃发展的行业中迅速崛起。路透援引四名知情人士称，FCC预计将豁免大多数非中国供应商，做法与之前的无人机、路由器禁令一致。 FCC禁令的本质，是用行政手段为美国本土产能争取时间，同时把中国竞争者从“AI物理层”的增量市场中剔除。 一、FCC机器人禁令的背景 1、美国产业焦虑的量化证据 2025年9月，国际机器人联合会（IFR）发布《2025世界机器人》（World Robotics 2025）报告：美国工厂机器人保有量39.37万台，中国为202.72万台——5倍差距；2024年新增安装量，美国3.42万台，中国29.5万台——近9倍差距。更关键的是产业结构：美国大部分机器人硬件依赖从日本和欧洲进口，而中国市场上57%的机器人由国内制造商供应。 高盛研究预测，到2035年，人形机器人市场规模将达到380亿美元，而花旗银行则估计，到2050年，人形机器人的数量将达到6.48亿台。 上述数据揭示了美国FCC在7月28日禁令的深层动因——当产业竞争力",
+    "id": "news-ai-1785339395000",
+    "title": " 当 AI 开始设计芯片，错误将第一次被写进硅里 ",
+    "link": "https://www.huxiu.com/article/4879227.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《当 AI 开始设计芯片，错误将第一次被写进硅里》 当错误开始拥有物理寿命 AI已经真实地参与芯片设计，但它参与的是哪一层，决定了这件事是效率故事，还是风险故事。 一、先把用词校准 关于AI与芯片，市面上流传着两种说法，都不准确。 一种说法是\"AI已经在设计芯片了\"。另一种说法是\"这还只是实验室里的尝试\"。 真实情况在两者之间，而且这个\"之间\"的位置，恰恰是全部问题的所在。 所以准确的表述是：AI已经在真实地参与芯片设计，但它今天参与的是优化层，不是决策层。 它在调参、搜索、摆放、提升覆盖率。它还没有独立决定这颗芯片应该长什么样。 这条界线看起来只是技术进度问题。实际上，它是当前整个安全结构的支点。 二、软件的可修改性，是一种历史例外 过去二十年，全世界的软件产业建立在一个前提上：错误可以被修复。 代码有Bug，发补丁。模型有偏差，重训练。智能体决策错误，停下来、改策略、发新版本。整个行业的方法论——敏捷、灰度、A/B、快速失败——都建立在\"错误的生命周期可以被压缩到很短\"这个假设之上。 而这个假设的成立，依赖一层从不被讨论的地基：计算平台本身是稳定的、由人类设计的、并且在软件之外被独立验证过的。 硅不遵守软件的规则。 一颗完成流片的芯片会进入数据中心、汽车、工业控制器、医疗设备",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -120,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-adds-a-running-mode-to-its-app-1785330000000",
-    "title": "Spotify adds a running mode to its app",
-    "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
-    "summary": "Running Mode will be available to Premium users on iOS in select countries",
+    "id": "news-hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-1785339309000",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -145,23 +146,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
-    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
-    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
-    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
-    "publishedAt": "2026-07-28",
+    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
+    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
+    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
+    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ai-1785313852000",
-    "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
-    "link": "https://36kr.com/p/3916187215408776?f=rss",
-    "summary": "导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95 后双职工父母成为母婴消费主力，育儿理念彻底摆脱传统经验主义，科学化、轻量化、低焦虑成为核心诉求。据易观《Z 世代新母婴人群消费洞察 2023》，51% Z 世代宝妈选购母婴产品优先选择智能款，44.1% 认为智能产品安全性更高，43.1% 看重便捷性。结合多份行业调研，新一代父母核心需求分为四点： 职场育儿双重压力，急需减负工具 92% Z 世代夫妻为双职工，95 后家庭母婴支出占家庭收入 30%，育儿投入更高，但夜间频繁起夜查看尿裤严重挤压休息时间，碎片化睡眠带来强烈育儿疲惫。他们不愿牺牲全部个人生活，迫切需要智能设备承接重复性看护工作，平衡工作、亲子与自我空间。 数字原住民，信奉数据化科学养育",
+    "id": "news-kimi-35-f-350-spacex-260-70-1785323092000",
+    "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
+    "link": "https://36kr.com/p/3916547493965442?f=rss",
+    "summary": "大公司： 美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台 36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。 &nbsp; 新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0% 36氪获悉，新东方发布截至2026年5月31日止第四季度及年度的未经审核财务业绩，第四财季净营收15.3亿美元，同比增长23.0%；第四财季经营利润8580万美元，上年同期亏损870万美元。 瓴羊AgentOne“四名AI员工”正式上岗，覆盖销售、客服、运营、营销四大场景 7月29日，瓴羊AgentOne四名AI员工正式上岗，分别覆盖AI销售、AI客服、AI运营和AI营销四个场景。企业也可以根据自身业务需求，基于AgentOne的能力，和瓴羊FDE（前沿部署工程师）团队一起打造专属场景的X员工。“瓴羊AgentOne以业务效果为导向，以企业数据为基座，以岗位标杆为预设，真正帮助企业在AI时代获得增长。”阿里云智能集团瓴羊CEO朋新宇表示。 联电：将在台南新建晶圆厂，以满足AI需求 联电7月29日宣布，将扩建新加坡厂区无尘室产能，并同步于台南科学园区展开",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -185,10 +188,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-48-1785333331000",
-    "title": " 二冲港股前，拓斯达“送出”5.48亿关联订单 ",
-    "link": "https://www.huxiu.com/article/4879206.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖，原文标题：《二冲港股前，拓斯达「送出」5.48亿关联订单》 在前次申请失效仅四天后，“工业机器人龙头”拓斯达（300607.SZ）于近日再次向港交所主板递交H股上市申请，华泰国际继续担任独家保荐人。 上市八年，拓斯达的业绩曲线几经起伏。翻阅公司财报，关于拓斯达“减收增利”的转型叙事已显现：公司营业收入从峰值2022年时的49.84亿元降至2025年时的25.10亿元，2026年一季度，公司归母净利润同比增长1147%。 而“减收增利”的答案，藏在公司业务结构的改变中：拓斯达最近几年的核心战略动作，是主动收缩智能能源及环境管理系统业务。2025年，该板块收入同比下降25.55%至9.15亿元，2026年一季度进一步降至营收占比仅5.6%。拓斯达表示，该业务“基本完成剥离”。 伴随业务收缩而来的，是拓斯达一系列组织与人事调整。2025年12月26日，黄代波因“个人原因”申请辞去拓斯达第四届董事会非独立董事、副总裁职务，而其原定任期届满之日为2026年7月3日。就在他辞职前一周（2025年12月19日至25日），黄代波通过集中竞价交易减持434.52万股，套现约1.31亿元。 大约一个月后的2026年1月27日，黄代波加入了苏州铂沂智能科技有限公司（下称“苏州铂沂”）、东莞钧业绿能环境科技有限公司（下称“东莞钧业”），其通过苏州",
+    "id": "news-gta6-1785338221000",
+    "title": " GTA6又创下一个纪录？ ",
+    "link": "https://www.huxiu.com/article/4879224.html?f=rss",
+    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 预购那些事儿 据IGN报道，分析机构Newzoo在本月中表示，《GTA6》目前展现出了极其强劲的预购表现，预计游戏在正式发售首周可能创造32.5亿美元至52亿美元（约合人民币220亿至352亿元）的销售收入。 Newzoo首先测算了《GTA6》预购开启后的首周在美国以及欧洲五大主要市场（英国、德国、法国、西班牙、意大利）的数字版预购收入，结果是达到了1.8亿（约合人民币12.1亿元）美元左右。 在参考了GTA 5玩家在全球各地区的分布后，该机构推算，《GTA 6》开放预购首周的全球支出约为2.6亿美元（现汇率约合17.63亿元人民币），得出结论：《GTA 6》由此创造了有记录以来最强劲的预购开局。 Newzoo管理顾问Ronan Patrick表示：“预购首周约2.6亿美元的全球数字消费，是Newzoo观察到的最大规模首发。对于一款计划于2026年11月推出的作品来说，在距离发售如此遥远的情况下仍能达到这种需求规模，非常罕见。” 根据差不多一个月前R星官宣的预购相关计划，《GTA6》标准版定价79.99美元，终极版定价99.99美元，预购通道于6月25日当地时间零点在全球同步开启，游戏定于2026年11月19日首发登陆PS5与Xbox Series X|S，PC版暂未公布发售计划。 引发争议的是，本作除PlayStati",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -224,16 +227,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fast-metals-is-treating-waste-with-more-waste-to-extract-cri-1785326400000",
-    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-    "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-    "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+    "id": "news-perplexity-employee-who-worked-on-comet-launches-an-ai-brows-1785337200000",
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -250,24 +254,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
-    "title": "Why manager training may be the key to AI integration",
-    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
-    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
+    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
+    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
+    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
+    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news--1785303526000",
-    "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
-    "link": "https://36kr.com/p/3916108853521792?f=rss",
-    "summary": "文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。 该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率InP CW激光芯片产品，为彻底解决高端光芯片领域进口依赖问题贡献力量。",
+    "id": "news-ai-1785313852000",
+    "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+    "link": "https://36kr.com/p/3916187215408776?f=rss",
+    "summary": "导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95 后双职工父母成为母婴消费主力，育儿理念彻底摆脱传统经验主义，科学化、轻量化、低焦虑成为核心诉求。据易观《Z 世代新母婴人群消费洞察 2023》，51% Z 世代宝妈选购母婴产品优先选择智能款，44.1% 认为智能产品安全性更高，43.1% 看重便捷性。结合多份行业调研，新一代父母核心需求分为四点： 职场育儿双重压力，急需减负工具 92% Z 世代夫妻为双职工，95 后家庭母婴支出占家庭收入 30%，育儿投入更高，但夜间频繁起夜查看尿裤严重挤压休息时间，碎片化睡眠带来强烈育儿疲惫。他们不愿牺牲全部个人生活，迫切需要智能设备承接重复性看护工作，平衡工作、亲子与自我空间。 数字原住民，信奉数据化科学养育",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -291,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785333231000",
-    "title": " 港股上市前夜，“光模块一哥”抛出一剂强心针 ",
-    "link": "https://www.huxiu.com/article/4879205.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖，原文标题：《港股上市前夜，「光模块一哥」抛出一剂强心针》 全球光模块龙头中际旭创，迎来了又一个资本高光时刻。 7月22日，中际旭创（3308.HK）在香港联交所启动公开招股，正式开启“A+H”双上市架构。 据港交所披露的招股章程，本次IPO由高盛、中金公司、摩根士丹利、广发证券联席保荐；7月28日，中际旭创发布最新公告，敲定本次H股全球发售定价为每股980港元，较此前招股文件披露的1010港元发行上限折价3%，募资额最高为545亿港元，成为2026年港股募资规模榜首。 2025年全年，中际旭创实现营业总收入382.40亿元，同比增长60.25%；归母净利润107.97亿元，同比增长108.78%；扣非净利润107.10亿元，同比增长111.31%。同时，公司经营活动现金流净额108.96亿元，同比增长244.31%；加权平均净资产收益率达43.84%。上述核心指标反映出公司不仅在做大规模，盈利质量与现金造血能力也在同步提升。 进入2026年，增长曲线进一步陡峭化。中际旭创第一季度归母净利润达57.35亿元，同比增速达262.28%。 一位熟悉半导体产业链中下游公司的从业人士向《凤凰WEEKLY财经》分析称，单季利润超高速的情况，放在整个光模块行业的发展历程里是较为罕见的，过往光模块行业的增长基本是跟着下游需求的迭代节奏走。",
+    "id": "news--1785337864000",
+    "title": " 大模型越来越强，还是越来越尖？ ",
+    "link": "https://www.huxiu.com/article/4879222.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 当训练目标、评测体系和商业利益共同雕刻智能的形状，我们得到的可能不是一颗不断膨胀的球，而是一束越来越锋利的尖刺。 一、一个被反复验证的直觉 过去几年，行业内部形成了一种近乎共识的叙事：参数规模持续扩大，训练数据持续增加，推理链条持续加长，人工智能正沿着一条清晰的斜坡，稳步逼近通用智能。 这种直觉并非空穴来风。语言理解、代码生成、数学推理、长文本处理、工具调用、图像与视频生成——几乎每一个方向，都在以季度为单位刷新上限。曾经需要一个专业团队工作数周的任务，今天一个模型在几分钟内就能交付一份可用的初稿。基准测试一个接一个被刷满，然后被废弃，然后被更难的测试取代。 于是一个推论被自然地接受下来：如果所有能力都在增长，那么它们最终一定会汇聚成完整的智能。 问题在于，这个推论中藏着一个未经检验的前提——所有能力都在增长，并不等于所有能力都在以同样的速度增长。 二、球体，还是尖刺 如果把一个智能系统的全部能力想象成一个球体，那么\"通用智能\"意味着球体从各个方向均匀膨胀：写代码的能力、判断歧义的能力、承认不知道的能力、在长任务中不跑偏的能力，同步变强。 但过去三年的实际轨迹更像另一种形状。 代码能力增长极快，因为它可编译、可测试、可自动打分。数学推理增长极快，因为答案唯一，反馈信号干净。工具调用日趋成熟",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -330,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-ai-content-floods-the-internet-pangram-raises-9m-to-detec-1785322800000",
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "id": "news-encore-ai-raises-30m-to-build-ai-agents-that-learn-from-cust-1785336066000",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -357,24 +360,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
-    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
-    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
-    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
+    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
+    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
+    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
+    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-neo-lab-1785298236000",
-    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
-    "link": "https://36kr.com/p/3916202023660929?f=rss",
-    "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。 几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验驱动，而静态标注数据模式已触达天花板。DeepSeek近期也把持续学习带进了更多人的视野之中，声称 Agent之后需要的解决的问题是持续学习，这也是下一代模型必须具备的能力。 可见，后训练与持续学习，越来越成为下一阶段评判模型能力的关键点。 Mind Lab在上个月发布了Macaron-V1-Preview模型，此后业务迅速被推着往前走：商业化刚开始跑2周，AR",
+    "id": "news--1785303526000",
+    "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+    "link": "https://36kr.com/p/3916108853521792?f=rss",
+    "summary": "文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。 该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率InP CW激光芯片产品，为彻底解决高端光芯片领域进口依赖问题贡献力量。",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -818,7 +820,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RNTIuMTU0LjEzMi4xODE= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xODE=)",
+      "Please mention the word **PLAYFULLY** and tag RMTM1LjIzMi4yMDAuMjE2 when applying to show you read the job post completely (#RMTM1LjIzMi4yMDAuMjE2)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -830,4 +832,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T13:59:43.633Z';
+export const dataFetchedAt = '2026-07-29T15:53:39.239Z';
