@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-opus-5-became-downright-ruthless-when-tasked-with-run-1785350727000",
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "id": "news-the-hugging-face-ai-break-in-as-told-through-an-increasingly-1785354289000",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -39,17 +39,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
-    "title": "AI use may improve engagement, but only under the right conditions",
-    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
-    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
+    "id": "news-shrm-s-insurance-carrier-says-it-s-not-on-the-hook-for-10m-j-1785357240000",
+    "title": "SHRM’s insurance carrier says it’s not on the hook for $10M jury verdict",
+    "link": "https://www.hrdive.com/news/insurance-company-sues-shrm-over-10m-race-bias-award/826513/",
+    "summary": "The insurer sued SHRM Tuesday, alleging state law prohibits it from indemnifying the organization because the jury found intentional race discrimination.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sorry-haters-ferrari-s-first-ev-is-doing-just-fine-1785347865000",
-    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-    "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+    "id": "news-claude-opus-5-became-downright-ruthless-when-tasked-with-run-1785350727000",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -146,18 +146,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
-    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
-    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
-    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "id": "news-northwestern-mutual-must-fork-over-dei-data-in-eeoc-probe-of-1785357180000",
+    "title": "Northwestern Mutual must fork over DEI data in EEOC probe of alleged failure to promote White worker",
+    "link": "https://www.hrdive.com/news/northwestern-mutual-dei-data-eeoc-probe/826508/",
+    "summary": "The company unsuccessfully claimed that the agency&rsquo;s information requests were overbroad and too indefinite, according to a Wisconsin federal judge.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -227,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-robotaxis-are-starting-to-return-to-freeways-1785347457000",
-    "title": "Waymo robotaxis are starting to return to freeways",
-    "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+    "id": "news-sorry-haters-ferrari-s-first-ev-is-doing-just-fine-1785347865000",
+    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+    "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -253,17 +252,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pulling-back-from-dei-increases-legal-risk-and-costs-organiz-1785333720000",
-    "title": "Pulling back from DEI increases legal risk — and costs organizations qualified women",
-    "link": "https://www.hrdive.com/news/pulling-back-from-dei-increases-legal-risk-women/826430/",
-    "summary": "Gender equity researcher Amy Diehl offers eight pillars for HR to keep in mind regarding diversity and inclusion at work.",
+    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
+    "title": "AI use may improve engagement, but only under the right conditions",
+    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
+    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -334,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-government-bans-new-foreign-made-humanoids-robot-dogs-and-1785346869000",
-    "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-    "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-    "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+    "id": "news-waymo-robotaxis-are-starting-to-return-to-freeways-1785347457000",
+    "title": "Waymo robotaxis are starting to return to freeways",
+    "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -361,16 +360,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
-    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
-    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
-    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
-    "publishedAt": "2026-07-28",
+    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
+    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
+    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
+    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -520,6 +521,23 @@ export const generatedPapers: ArxivPaper[] = [
     "categories": [
       "cs.LG",
       "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2607.26038v1",
+    "title": "Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling",
+    "authors": [
+      "Fan Yang",
+      "Madelyn Weller",
+      "Dimuthu Fernando",
+      "Hila Livneh",
+      "Yuxin Wen"
+    ],
+    "summary": "Time-to-event modeling provides a systematic framework for estimating time-dependent failure risk, reliability, and remaining useful life (RUL) from longitudinal condition monitoring data. However, applying these models to distributed prognostics remains challenging because sensor trajectories and failure-time records are often stored across organizations or operational sites and cannot be centrally pooled due to privacy or proprietary constraints. Moreover, the classical Cox proportional hazards model relies on a nonseparable partial likelihood involving global risk sets, making direct optimization difficult under standard federated learning protocols. This paper presents a federated longitudinal-survival modeling framework for collaborative system failure prognostics. The proposed framew",
+    "link": "http://arxiv.org/abs/2607.26038v1",
+    "publishedAt": "2026-07-28",
+    "categories": [
+      "cs.LG"
     ]
   },
   {
@@ -735,20 +753,6 @@ export const generatedPapers: ArxivPaper[] = [
       "cs.LG",
       "cs.RO"
     ]
-  },
-  {
-    "id": "arxiv-2607.25988v1",
-    "title": "Generator-Aligned Representation Interfaces for Diagnostic Soft Equivariance",
-    "authors": [
-      "Weitao Li",
-      "Gong Cheng"
-    ],
-    "summary": "Exact-equivariant architectures typically encode prescribed group actions in specialized operators, which can complicate their reuse with generic backbones and across data modalities. We introduce the Generator-Aligned Representation Interface (GARI), a representation-level design principle that exposes selected transformation generators to a generic sequence backbone through aligned canonical and generator-induced views. We formalize the resulting behavior using a probe-specific soft-equivariance residual defined over declared data and transformation distributions. This framework distinguishes representation consistency from task robustness and exact equivariance, and localizes residual mismatch to interface construction, shared stream processing, and terminal fusion. We instantiate the i",
-    "link": "http://arxiv.org/abs/2607.25988v1",
-    "publishedAt": "2026-07-28",
-    "categories": [
-      "cs.LG"
-    ]
   }
 ];
 
@@ -804,7 +808,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RNC4xNTUuNS4xODQ= when applying to show you read the job post completely (#RNC4xNTUuNS4xODQ=)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTM0LjMzLjcxLjI0MA== when applying to show you read the job post completely (#RMTM0LjMzLjcxLjI0MA==)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -830,25 +834,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-analyst-blend-1135535",
     "postedAt": "2026-07-27",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135557",
-    "title": "Job Details",
-    "company": "Indi Connect",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
-      "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RNC4xNTUuNS4xODQ= when applying to show you read the job post completely (#RNC4xNTUuNS4xODQ=)",
-      "This is a beta feature to avoid spam"
-    ],
-    "skills": [],
-    "location": "宇佐, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-details-indi-connect-1135557",
-    "postedAt": "2026-07-27",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T19:07:43.404Z';
+export const dataFetchedAt = '2026-07-29T20:51:10.314Z';
