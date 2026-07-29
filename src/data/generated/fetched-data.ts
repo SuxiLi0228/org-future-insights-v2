@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-google-brings-its-age-assurance-technology-to-android-develo-1785344400000",
-    "title": "Google brings its age-assurance technology to Android developers worldwide",
-    "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-    "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+    "id": "news-claude-opus-5-became-downright-ruthless-when-tasked-with-run-1785350727000",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -40,18 +39,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
-    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
-    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
-    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
+    "title": "AI use may improve engagement, but only under the right conditions",
+    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
+    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -110,22 +108,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-elon-musk-8217-s-x-settles-multiyear-legal-battle-with-the-w-1785339408000",
-    "title": "Elon Musk&#8217;s X settles multiyear legal battle with the World Federation of Advertisers",
-    "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
+    "id": "news-sorry-haters-ferrari-s-first-ev-is-doing-just-fine-1785347865000",
+    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+    "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -147,16 +146,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
-    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
-    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
-    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
-    "publishedAt": "2026-07-28",
+    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
+    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
+    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
+    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -214,11 +215,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-openai-8217-s-predictable-hack-and-an-ai-stock--1785240600000",
-    "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
-    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
-    "publishedAt": "2026-07-28",
+    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -226,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-1785339309000",
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "id": "news-waymo-robotaxis-are-starting-to-return-to-freeways-1785347457000",
+    "title": "Waymo robotaxis are starting to return to freeways",
+    "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -252,16 +253,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
-    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
-    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
-    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
-    "publishedAt": "2026-07-28",
+    "id": "news-pulling-back-from-dei-increases-legal-risk-and-costs-organiz-1785333720000",
+    "title": "Pulling back from DEI increases legal risk — and costs organizations qualified women",
+    "link": "https://www.hrdive.com/news/pulling-back-from-dei-increases-legal-risk-women/826430/",
+    "summary": "Gender equity researcher Amy Diehl offers eight pillars for HR to keep in mind regarding diversity and inclusion at work.",
+    "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "organization"
     ]
   },
   {
@@ -320,10 +322,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-samsung-s-chip-workers-are-jumping-ship-to-rival-sk-hynix-1785230337000",
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+    "id": "news-the-download-openai-8217-s-predictable-hack-and-an-ai-stock--1785240600000",
+    "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
+    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
     "publishedAt": "2026-07-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -332,17 +334,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-perplexity-employee-who-worked-on-comet-launches-an-ai-brows-1785337200000",
-    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+    "id": "news-us-government-bans-new-foreign-made-humanoids-robot-dogs-and-1785346869000",
+    "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+    "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+    "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -360,17 +361,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
-    "title": "Why manager training may be the key to AI integration",
-    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
-    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
+    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
+    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
+    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
+    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -804,7 +804,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMTg0LjEzNS4xOTI= when applying to show you read the job post completely (#RMjAuMTg0LjEzNS4xOTI=)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RNC4xNTUuNS4xODQ= when applying to show you read the job post completely (#RNC4xNTUuNS4xODQ=)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -839,8 +839,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RMjAuMTg0LjEzNS4xOTI= when applying to show you read the job post completely (#RMjAuMTg0LjEzNS4xOTI=)",
-      "This is a beta feature to avo"
+      "Please mention the word **PLAYFULLY** and tag RNC4xNTUuNS4xODQ= when applying to show you read the job post completely (#RNC4xNTUuNS4xODQ=)",
+      "This is a beta feature to avoid spam"
     ],
     "skills": [],
     "location": "宇佐, ",
@@ -851,4 +851,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T17:11:17.812Z';
+export const dataFetchedAt = '2026-07-29T19:07:43.404Z';
