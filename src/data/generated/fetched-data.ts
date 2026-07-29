@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-8217-s-x-settles-multiyear-legal-battle-with-the-w-1785339408000",
-    "title": "Elon Musk&#8217;s X settles multiyear legal battle with the World Federation of Advertisers",
-    "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network",
+    "id": "news-google-brings-its-age-assurance-technology-to-android-develo-1785344400000",
+    "title": "Google brings its age-assurance technology to Android developers worldwide",
+    "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+    "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -40,17 +40,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
-    "title": "AI use may improve engagement, but only under the right conditions",
-    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
-    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
+    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
+    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
+    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
+    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -81,10 +82,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785339395000",
-    "title": " 当 AI 开始设计芯片，错误将第一次被写进硅里 ",
-    "link": "https://www.huxiu.com/article/4879227.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《当 AI 开始设计芯片，错误将第一次被写进硅里》 当错误开始拥有物理寿命 AI已经真实地参与芯片设计，但它参与的是哪一层，决定了这件事是效率故事，还是风险故事。 一、先把用词校准 关于AI与芯片，市面上流传着两种说法，都不准确。 一种说法是\"AI已经在设计芯片了\"。另一种说法是\"这还只是实验室里的尝试\"。 真实情况在两者之间，而且这个\"之间\"的位置，恰恰是全部问题的所在。 所以准确的表述是：AI已经在真实地参与芯片设计，但它今天参与的是优化层，不是决策层。 它在调参、搜索、摆放、提升覆盖率。它还没有独立决定这颗芯片应该长什么样。 这条界线看起来只是技术进度问题。实际上，它是当前整个安全结构的支点。 二、软件的可修改性，是一种历史例外 过去二十年，全世界的软件产业建立在一个前提上：错误可以被修复。 代码有Bug，发补丁。模型有偏差，重训练。智能体决策错误，停下来、改策略、发新版本。整个行业的方法论——敏捷、灰度、A/B、快速失败——都建立在\"错误的生命周期可以被压缩到很短\"这个假设之上。 而这个假设的成立，依赖一层从不被讨论的地基：计算平台本身是稳定的、由人类设计的、并且在软件之外被独立验证过的。 硅不遵守软件的规则。 一颗完成流片的芯片会进入数据中心、汽车、工业控制器、医疗设备",
+    "id": "news-ai-1785343571000",
+    "title": " AI 时代，再重读《失控》 ",
+    "link": "https://www.huxiu.com/article/4879239.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 重读《失控》：它预言了机器，却错判了权力 这本书在美国出版时几乎无人问津，十六年后在中国成了圣经。今天是它的第三个时刻——而这一次，值得读的不只是它对的地方。 一、一本书的三个时刻 1994年，凯文·凯利出版《失控：机器、社会与经济的新生物学》。那一年没有Google，没有智能手机，网景公司刚刚成立，万维网上的网站数量还能被一个人数完。 书在美国的反响平平。 十六年后的2010年12月，中文版面世，然后发生了出版史上颇为罕见的一幕：一本在本土温和收场的书，在大洋彼岸被抬上神坛，被称为\"互联网圣经\"。微信创始人张小龙在腾讯内部演讲中反复提及它塑造了自己的产品观——产品上线后就有了自己的生命，会与海量用户互动，最终互动出什么结果，设计者控制不了。这本书甚至成了他团队选人的一道标准。 凯利本人对这个反差给过一个朴素的解释：1994年，把复杂科技类比蜂巢和昆虫对当时的美国读者太超前；而2010年的中国恰逢其时——社交媒体、开源、P2P正在兴起，书里的概念一下子对上了。 一本书的命运，往往不取决于它写了什么，而取决于读者站在哪一年。 现在是它的第三个时刻。而这一次值得读的，不只是它说对的地方。 二、\"失控\"从来不是机器人造反 先纠正一个几乎所有人都会犯的误读。 凯利说的\"失控\"，与科幻电影里的AI觉",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -121,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-1785339309000",
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "id": "news-elon-musk-8217-s-x-settles-multiyear-legal-battle-with-the-w-1785339408000",
+    "title": "Elon Musk&#8217;s X settles multiyear legal battle with the World Federation of Advertisers",
+    "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -146,18 +147,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
-    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
-    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
-    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
-    "publishedAt": "2026-07-29",
+    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
+    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
+    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
+    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
+    "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -188,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gta6-1785338221000",
-    "title": " GTA6又创下一个纪录？ ",
-    "link": "https://www.huxiu.com/article/4879224.html?f=rss",
-    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 预购那些事儿 据IGN报道，分析机构Newzoo在本月中表示，《GTA6》目前展现出了极其强劲的预购表现，预计游戏在正式发售首周可能创造32.5亿美元至52亿美元（约合人民币220亿至352亿元）的销售收入。 Newzoo首先测算了《GTA6》预购开启后的首周在美国以及欧洲五大主要市场（英国、德国、法国、西班牙、意大利）的数字版预购收入，结果是达到了1.8亿（约合人民币12.1亿元）美元左右。 在参考了GTA 5玩家在全球各地区的分布后，该机构推算，《GTA 6》开放预购首周的全球支出约为2.6亿美元（现汇率约合17.63亿元人民币），得出结论：《GTA 6》由此创造了有记录以来最强劲的预购开局。 Newzoo管理顾问Ronan Patrick表示：“预购首周约2.6亿美元的全球数字消费，是Newzoo观察到的最大规模首发。对于一款计划于2026年11月推出的作品来说，在距离发售如此遥远的情况下仍能达到这种需求规模，非常罕见。” 根据差不多一个月前R星官宣的预购相关计划，《GTA6》标准版定价79.99美元，终极版定价99.99美元，预购通道于6月25日当地时间零点在全球同步开启，游戏定于2026年11月19日首发登陆PS5与Xbox Series X|S，PC版暂未公布发售计划。 引发争议的是，本作除PlayStati",
+    "id": "news--1785343251000",
+    "title": " 有了《王的猜想》，媒体还需卷第三方平台吗？ ",
+    "link": "https://www.huxiu.com/article/4879238.html?f=rss",
+    "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 上一篇说机构媒体打造个人IP的文章带来了500多个新粉，基本都是媒体人，搞得我有些惶恐。 有朋友打趣说，我这账号的写作风格跟本人差异有点大，大意是指平常见我笑嘻嘻的，没想到写起文来还挺犀利。其实挺不好意思的，我这种“野生博主风”要追溯到2014年帮公司做号，职业习惯总免不了把过往从零起号的经验路径用到个人号上。 经过近一年“一天打鱼七天晒网”的佛系尝试，我怀疑平台已把我这号归类为“传媒产业自媒体”了——只要发媒体相关的推荐流量就多些，跟媒体无关的阅读量明显惨淡。 也可能因为这些年一直在这个行业，央媒、商业媒体、内容电商、广告公关……本着对读者有用的创作心态，也让账号画像跟平台算法进一步磨合，今后就少点个人的无病呻吟，多些我熟悉的领域好啦。 至于我早已厌倦了遮遮掩掩的风格，若文字间有戳中媒体人的痛处，还请诸位海涵。 这两天，广西日报凭借一篇特稿《王的猜想》引发极大关注，纸质版报纸被抢购一空、争相传阅珍藏，被称为现代版“洛阳纸贵”。 简洁双关的标题，扎实硬核的采访，温润克制的文风，《王的猜想》证明了机构媒体做深度、做质感，依然拥有直击人心的力量。 然而，如果把视野放宽到整个行业，像《王的猜想》这样的高品质产出，正成为当下媒体行业稀缺的“孤品”。 我们看到更多的机构媒体日常，是堆量、拼手速、不以标题党为耻的“碎片化”画风：",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -227,17 +226,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-perplexity-employee-who-worked-on-comet-launches-an-ai-brows-1785337200000",
-    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+    "id": "news-hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-1785339309000",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -254,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-awards-male-surgical-technician-105k-for-delivery-room--1785269760000",
-    "title": "Jury awards male surgical technician $105K for delivery room discrimination",
-    "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
-    "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
+    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
+    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
+    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
+    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
@@ -294,16 +292,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785337864000",
-    "title": " 大模型越来越强，还是越来越尖？ ",
-    "link": "https://www.huxiu.com/article/4879222.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 当训练目标、评测体系和商业利益共同雕刻智能的形状，我们得到的可能不是一颗不断膨胀的球，而是一束越来越锋利的尖刺。 一、一个被反复验证的直觉 过去几年，行业内部形成了一种近乎共识的叙事：参数规模持续扩大，训练数据持续增加，推理链条持续加长，人工智能正沿着一条清晰的斜坡，稳步逼近通用智能。 这种直觉并非空穴来风。语言理解、代码生成、数学推理、长文本处理、工具调用、图像与视频生成——几乎每一个方向，都在以季度为单位刷新上限。曾经需要一个专业团队工作数周的任务，今天一个模型在几分钟内就能交付一份可用的初稿。基准测试一个接一个被刷满，然后被废弃，然后被更难的测试取代。 于是一个推论被自然地接受下来：如果所有能力都在增长，那么它们最终一定会汇聚成完整的智能。 问题在于，这个推论中藏着一个未经检验的前提——所有能力都在增长，并不等于所有能力都在以同样的速度增长。 二、球体，还是尖刺 如果把一个智能系统的全部能力想象成一个球体，那么\"通用智能\"意味着球体从各个方向均匀膨胀：写代码的能力、判断歧义的能力、承认不知道的能力、在长任务中不跑偏的能力，同步变强。 但过去三年的实际轨迹更像另一种形状。 代码能力增长极快，因为它可编译、可测试、可自动打分。数学推理增长极快，因为答案唯一，反馈信号干净。工具调用日趋成熟",
+    "id": "news-ai-1785342902000",
+    "title": " 基因思想：如果AI没有意识，那么人类的意识又来自哪里？ ",
+    "link": "https://www.huxiu.com/article/4879236.html?f=rss",
+    "summary": "本文来自微信公众号： Nuanzhi笔记 ，作者：Nuanzhi ——从DNA、神经系统到人工智能，重新理解意识如何产生。 近年来，人工智能的发展让一个问题越来越受到关注，未来的AI会不会拥有意识？ 很多人给出了否定的答案，在他们看来，人类是真正的生命，会感受疼痛，会产生情绪，会形成记忆，也会根据环境变化调整行为。而AI只是代码，虽然能分析语言、生成内容、模拟人的表达，但终究只是程序驱动的机器。 这个观点看似合理，但如果代码无法产生意识，那人类的意识又来自哪里？ 从生物学角度看，人类同样是一套由信息驱动的复杂系统。区别在于，AI运行的是人类编写的计算机程序，而生命运行的是经过数十亿年演化形成的遗传信息系统，其中最核心的载体之一就是DNA。 一、人类并不是没有代码的生命 人们常说：AI只是代码。但很少有人意识到，生命同样依赖一套底层信息。 DNA并不是计算机意义上的代码，也不是人为设计的软件程序。它更像一套经过漫长自然选择保留下来的生命信息规则。这些遗传信息通过基因表达，影响蛋白质制造、细胞活动和生命发育。经过数十亿年的演化，生命逐渐形成越来越复杂的结构，最关键的一步便是神经系统的出现。 生命的发展路径可以大致概括为：遗传信息→基因表达→生命结构→神经系统→大脑信息处理→高级认知能力。 这里有一个关键点，DNA并没有直接编码出意识，它编码的是构建生命系统的规则。那些与意识相关的复杂认",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -333,16 +332,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-encore-ai-raises-30m-to-build-ai-agents-that-learn-from-cust-1785336066000",
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "id": "news-perplexity-employee-who-worked-on-comet-launches-an-ai-brows-1785337200000",
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -360,16 +360,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
-    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
-    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
-    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
+    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
+    "title": "Why manager training may be the key to AI integration",
+    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
+    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -795,6 +796,24 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135618",
+    "title": "Search",
+    "company": "Ardsley Facilities &amp; Outdoor Management Ltd",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "That page can’t be found",
+      "It looks like nothing was found at this location",
+      "Maybe try a search",
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMTg0LjEzNS4xOTI= when applying to show you read the job post completely (#RMjAuMTg0LjEzNS4xOTI=)"
+    ],
+    "skills": [],
+    "location": "Thorpe On The Hill, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-search-ardsley-facilities-amp-outdoor-management-ltd-1135618",
+    "postedAt": "2026-07-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135535",
     "title": "Market Research Analyst",
     "company": "Blend",
@@ -820,7 +839,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RMTM1LjIzMi4yMDAuMjE2 when applying to show you read the job post completely (#RMTM1LjIzMi4yMDAuMjE2)",
+      "Please mention the word **PLAYFULLY** and tag RMjAuMTg0LjEzNS4xOTI= when applying to show you read the job post completely (#RMjAuMTg0LjEzNS4xOTI=)",
       "This is a beta feature to avo"
     ],
     "skills": [],
@@ -832,4 +851,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T15:53:39.239Z';
+export const dataFetchedAt = '2026-07-29T17:11:17.812Z';

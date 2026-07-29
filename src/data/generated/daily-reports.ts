@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-30-auto",
+    "date": "2026-07-30",
+    "session": "auto",
+    "title": "2026-07-30 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-30-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a chip talent battle, and deflating AI hype",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
+      },
+      {
+        "id": "sig-2026-07-30-auto-2",
+        "emoji": "💡",
+        "title": "Google brings its age-assurance technology to Android developers worldwide",
+        "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+        "detail": "来源: TechCrunch。Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/"
+      },
+      {
+        "id": "sig-2026-07-30-auto-3",
+        "emoji": "🚨",
+        "title": "Employer health plans to get $6.6T in tax help over 10 years",
+        "summary": "Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/employer-health-plans-to-get-6-6t-in-tax-help-over-10-years/"
+      },
+      {
+        "id": "sig-2026-07-30-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Pass the Baton: Trajectory-Relayed On-Policy Distillation...",
+        "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g",
+        "detail": "作者: Haolei Xu, Xiaowen Xu, Haiwen Hong。On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the result",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.26057v1"
+      },
+      {
+        "id": "sig-2026-07-30-auto-5",
+        "emoji": "💼",
+        "title": "CertifyOS 正在招募 AI Intern",
+        "summary": "岗位类型：纯 AI 岗。About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare",
+        "detail": "技能要求: Python, LLM, RAG, GCP, SQL。About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare Today, healthcare organizations rely on fragmented and outdated provider data This creates unnecessary administrative work, regulatory risk, and higher costs across the system Weâre solving that problem.",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "CertifyOS"
+        ],
+        "sourceType": "tech",
+        "sourceName": "CertifyOS",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-30-1",
+        "priority": "medium",
+        "action": "关注「The Download: a chip talent battle, and 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-30-2",
+        "priority": "low",
+        "action": "关注「Google brings its age-assurance technolo」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-07-30-3",
+        "priority": "high",
+        "action": "关注「Employer health plans to get $6.6T in ta」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-30-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Pass the Baton: Trajectory-Relayed 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-07-30-5",
+        "priority": "medium",
+        "action": "关注「CertifyOS 正在招募 AI Intern」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "CertifyOS"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 55,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-30 生成，聚合了 30 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-07-30 00:00 - 2026-07-30 23:59"
+  },
+  {
     "id": "report-2026-07-29-auto",
     "date": "2026-07-29",
     "session": "auto",
