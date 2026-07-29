@@ -2,22 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-p-1785283745000",
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "summary": "The deal is Cyera's third acquisition this year.",
+    "id": "news-doordash-is-building-its-own-drone-delivery-business-1785330000000",
+    "title": "DoorDash is building its own drone delivery business",
+    "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+    "summary": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -43,6 +44,111 @@ export const generatedNews: NewsItem[] = [
     "title": "Jury awards male surgical technician $105K for delivery room discrimination",
     "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
     "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
+    "publishedAt": "2026-07-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-kimi-35-f-350-spacex-260-70-1785323092000",
+    "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
+    "link": "https://36kr.com/p/3916547493965442?f=rss",
+    "summary": "大公司： 美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台 36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。 &nbsp; 新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0% 36氪获悉，新东方发布截至2026年5月31日止第四季度及年度的未经审核财务业绩，第四财季净营收15.3亿美元，同比增长23.0%；第四财季经营利润8580万美元，上年同期亏损870万美元。 瓴羊AgentOne“四名AI员工”正式上岗，覆盖销售、客服、运营、营销四大场景 7月29日，瓴羊AgentOne四名AI员工正式上岗，分别覆盖AI销售、AI客服、AI运营和AI营销四个场景。企业也可以根据自身业务需求，基于AgentOne的能力，和瓴羊FDE（前沿部署工程师）团队一起打造专属场景的X员工。“瓴羊AgentOne以业务效果为导向，以企业数据为基座，以岗位标杆为预设，真正帮助企业在AI时代获得增长。”阿里云智能集团瓴羊CEO朋新宇表示。 联电：将在台南新建晶圆厂，以满足AI需求 联电7月29日宣布，将扩建新加坡厂区无尘室产能，并同步于台南科学园区展开",
+    "publishedAt": "2026-07-29",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-ai-1785324321000",
+    "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+    "link": "https://www.qbitai.com/2026/07/462943.html",
+    "summary": "中科院、北电数智等专家共探数学与AI边界",
+    "publishedAt": "2026-07-29",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-fcc-1785333545000",
+    "title": " FCC 按产地封门：中国机器人被“类别化”剔除出美国市场 ",
+    "link": "https://www.huxiu.com/article/4879208.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年7月28日，美国联邦通信委员会（FCC）更新了其“受管制清单”，新增了两类设备——在国外生产的“先进机器人设备”以及联网电源逆变器。 FCC的文本上写的是“外国生产”，虽未点名中国，但美国销售的大多数人形机器人都是进口的，尤其是来自中国的，中国本土企业在这个蓬勃发展的行业中迅速崛起。路透援引四名知情人士称，FCC预计将豁免大多数非中国供应商，做法与之前的无人机、路由器禁令一致。 FCC禁令的本质，是用行政手段为美国本土产能争取时间，同时把中国竞争者从“AI物理层”的增量市场中剔除。 一、FCC机器人禁令的背景 1、美国产业焦虑的量化证据 2025年9月，国际机器人联合会（IFR）发布《2025世界机器人》（World Robotics 2025）报告：美国工厂机器人保有量39.37万台，中国为202.72万台——5倍差距；2024年新增安装量，美国3.42万台，中国29.5万台——近9倍差距。更关键的是产业结构：美国大部分机器人硬件依赖从日本和欧洲进口，而中国市场上57%的机器人由国内制造商供应。 高盛研究预测，到2035年，人形机器人市场规模将达到380亿美元，而花旗银行则估计，到2050年，人形机器人的数量将达到6.48亿台。 上述数据揭示了美国FCC在7月28日禁令的深层动因——当产业竞争力",
+    "publishedAt": "2026-07-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-21-5-1785325017000",
+    "title": "减亏势头戛然而止、上市六年累亏21.5亿，百奥泰何时走出“烧钱”循环？丨看财报",
+    "link": "https://www.tmtpost.com/8084081.html",
+    "summary": "所幸，现金流安全垫还有待结转授权许可预收款、可用银行授信、贝塔宁转让尾款“三条腿支撑”。",
+    "publishedAt": "2026-07-29",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "publishedAt": "2026-07-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-spotify-adds-a-running-mode-to-its-app-1785330000000",
+    "title": "Spotify adds a running mode to its app",
+    "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+    "summary": "Running Mode will be available to Premium users on iOS in select countries",
+    "publishedAt": "2026-07-29",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-for-2027-employers-to-focus-on-8216-smarter-8217-pay-strateg-1785317417000",
+    "title": "For 2027, employers to focus on &#8216;smarter&#8217; pay strategies",
+    "link": "https://hrexecutive.com/for-2027-employers-to-focus-on-smarter-pay-strategies/",
+    "summary": "A new survey finds that employers will continue shifting toward more \"targeted, performance-driven\" pay strategies. The post For 2027, employers to focus on &#8216;smarter&#8217; pay strategies appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
+    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
+    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
+    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
@@ -79,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785320619000",
-    "title": " 这是我看过最恶劣的乒乓球场打人事件 ",
-    "link": "https://www.huxiu.com/article/4879124.html?f=rss",
-    "summary": "本文来自微信公众号： 雷叔说事 ，作者：小林 乒乓球终于有了身体对抗。 就在最近江苏国青国少省选14岁组半决赛上，曹彦灏对阵贺睿宸。前两局曹同学都输了，第三局更是一路被压着打，最终0比11结束比赛。 双方要按赛场礼仪握一下手了，但赢球的贺同学走过来，就被曹同学揍了一拳。 包括裁判在内的人都没反应过来，曹同学又爆踹了贺同学的大腿，嘴里好像还喋喋不休。 反应过来的众人把曹同学拉开，监控视频也在这时戛然而止。 网上很快也出现了贺同学的伤情照片，他脸上好像有红肿和轻微淤血痕迹，眼睛好像也肿胀了。 网友还说本来晋级下一轮的他因伤不能打了。 马上江苏乒协的通报也出来了，要对曹同学进行这些处罚： 全省通报批评； 取消本次选拔赛资格及全部成绩； 省内乒乓球赛事禁赛1年。 处罚一出来，舆论更激烈了。 网友质问，公开场合打人，还打得人打不了下一场，不违法吗？ 这种全国都知道的恶性事件，怎么只禁赛一年，还是省内禁赛，不会还可以参加省外的比赛吧？ 老实说，这些问题太专业，我也不是很懂。 另一边，很多网友也好奇为啥曹同学要打人。 一种说法是，有不成文的规定，不能剃光头，多少得在一局里让对手得一分。但偏偏最后一局，贺同学一分不让曹同学拿1分。 好像贺同学打球打得太霸道，不懂事，所以被曹同学揍了。 为此，很多网友还觉得贺同学被揍是活该。 也许以前确实有这样的潜规则，但现在，早就没有什么了。 比如巴黎奥运会的时候",
+    "id": "news-5-48-1785333331000",
+    "title": " 二冲港股前，拓斯达“送出”5.48亿关联订单 ",
+    "link": "https://www.huxiu.com/article/4879206.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖，原文标题：《二冲港股前，拓斯达「送出」5.48亿关联订单》 在前次申请失效仅四天后，“工业机器人龙头”拓斯达（300607.SZ）于近日再次向港交所主板递交H股上市申请，华泰国际继续担任独家保荐人。 上市八年，拓斯达的业绩曲线几经起伏。翻阅公司财报，关于拓斯达“减收增利”的转型叙事已显现：公司营业收入从峰值2022年时的49.84亿元降至2025年时的25.10亿元，2026年一季度，公司归母净利润同比增长1147%。 而“减收增利”的答案，藏在公司业务结构的改变中：拓斯达最近几年的核心战略动作，是主动收缩智能能源及环境管理系统业务。2025年，该板块收入同比下降25.55%至9.15亿元，2026年一季度进一步降至营收占比仅5.6%。拓斯达表示，该业务“基本完成剥离”。 伴随业务收缩而来的，是拓斯达一系列组织与人事调整。2025年12月26日，黄代波因“个人原因”申请辞去拓斯达第四届董事会非独立董事、副总裁职务，而其原定任期届满之日为2026年7月3日。就在他辞职前一周（2025年12月19日至25日），黄代波通过集中竞价交易减持434.52万股，套现约1.31亿元。 大约一个月后的2026年1月27日，黄代波加入了苏州铂沂智能科技有限公司（下称“苏州铂沂”）、东莞钧业绿能环境科技有限公司（下称“东莞钧业”），其通过苏州",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -92,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785319705000",
-    "title": "控制器只占两成营收，仙工智能凭什么撑起万亿故事？",
-    "link": "https://www.tmtpost.com/8083573.html",
-    "summary": "真实世界，才是机器人大脑最好的训练场。",
+    "id": "news--1785322381000",
+    "title": "小米大模型拿下“全球第一”，有实力也是侥幸",
+    "link": "https://www.tmtpost.com/8083875.html",
+    "summary": "小米AI的“务实生存法则”。",
     "publishedAt": "2026-07-29",
     "source": "钛媒体",
     "tags": [
@@ -118,115 +224,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bot-detection-startup-spur-nabs-200m-from-insight-1785274174000",
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "publishedAt": "2026-07-28",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-for-2027-employers-to-focus-on-8216-smarter-8217-pay-strateg-1785317417000",
-    "title": "For 2027, employers to focus on &#8216;smarter&#8217; pay strategies",
-    "link": "https://hrexecutive.com/for-2027-employers-to-focus-on-smarter-pay-strategies/",
-    "summary": "A new survey finds that employers will continue shifting toward more \"targeted, performance-driven\" pay strategies. The post For 2027, employers to focus on &#8216;smarter&#8217; pay strategies appeared first on HR Executive .",
+    "id": "news-fast-metals-is-treating-waste-with-more-waste-to-extract-cri-1785326400000",
+    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+    "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+    "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
     "publishedAt": "2026-07-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
-    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
-    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
-    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
-    "publishedAt": "2026-07-28",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1785303526000",
-    "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
-    "link": "https://36kr.com/p/3916108853521792?f=rss",
-    "summary": "文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。 该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率InP CW激光芯片产品，为彻底解决高端光芯片领域进口依赖问题贡献力量。",
-    "publishedAt": "2026-07-29",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-opus-5-24-3a-1785312290000",
-    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-    "link": "https://www.qbitai.com/2026/07/462384.html",
-    "summary": "百万网友已玩疯",
-    "publishedAt": "2026-07-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785320574000",
-    "title": " 中国游客的致命“跳岛游”，戳破东南亚旅行攻略滤镜 ",
-    "link": "https://www.huxiu.com/article/4879123.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网 ，作者：木三川 2026年7月16日深夜，印度洋比马县附近海域，36岁的中国游客刘青言蜷缩在一只正在漏气的救生筏上。 四周漆黑一片，看不见海，看不见船。筏上八九个人挤成一团，有人尿在了筏子里，有人吐到了刘青言身上。海水从筏底渗进来，湿冷黏腻。她坐不起来，只能蜷着腿，一只手死死拽着筏沿上的绳子，那是她唯一能抓住的东西。有位中国妈妈正一边发抖一边安慰自己的孩子说，“别哭、别担心”。 一个多小时前，刘青言还在一艘双层木质观光船的甲板上，悠哉拍摄夕阳，感受小红书上所说的，“人间塞尔达”“玻璃海”“人与自然共舞”。而此刻，朋友正绝望地看向她说，“死定了”。 刘青言是成都人，她英语流利，至少在6个国家自由行过，对自己的计划能力很自信。几个月前，她被小红书上的旅行攻略吸引，于是计划了一场“跳岛游”——这是近年来社交媒体上东南亚旅游最热门的玩法之一，订一艘当地的观光船，花几天时间，航行串起几个岛屿，看科莫多龙、粉红沙滩、蝙蝠归巢。 号称“千岛之国”的印度尼西亚就这样涌入了大量中国游客。数据显示，2025年，共有134.4万中国游客赴印尼旅游，稳居印尼第四大国际游客来源国。仅巴厘岛一地，2025年就接待了53.7万人次中国大陆游客。 刘青言是其中之一。她输入“印尼虎鲸科莫多”关键词，搜索量最高的是印尼黄金岛游轮公司，这家公司有从印尼龙目岛出发的特定航线，观光船途经肯纳瓦",
-    "publishedAt": "2026-07-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785319660000",
-    "title": "携程遭反垄断顶格处罚，新流量规则下酒旅或将重新洗牌",
-    "link": "https://www.tmtpost.com/8083800.html",
-    "summary": "这场持续半年的监管风暴，不仅将重塑整个酒旅OTA竞争格局，更是对各大互联网平台敲响了反垄断的警钟。",
-    "publishedAt": "2026-07-29",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-samsung-s-chip-workers-are-jumping-ship-to-rival-sk-hynix-1785230337000",
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
-    "publishedAt": "2026-07-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -262,10 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-neo-lab-1785298236000",
-    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
-    "link": "https://36kr.com/p/3916202023660929?f=rss",
-    "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。 几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验驱动，而静态标注数据模式已触达天花板。DeepSeek近期也把持续学习带进了更多人的视野之中，声称 Agent之后需要的解决的问题是持续学习，这也是下一代模型必须具备的能力。 可见，后训练与持续学习，越来越成为下一阶段评判模型能力的关键点。 Mind Lab在上个月发布了Macaron-V1-Preview模型，此后业务迅速被推着往前走：商业化刚开始跑2周，AR",
+    "id": "news--1785303526000",
+    "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+    "link": "https://36kr.com/p/3916108853521792?f=rss",
+    "summary": "文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。 该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率InP CW激光芯片产品，为彻底解决高端光芯片领域进口依赖问题贡献力量。",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -276,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oceanbase-ai-1785307183000",
-    "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-    "link": "https://www.qbitai.com/2026/07/462380.html",
-    "summary": "",
+    "id": "news-opus-5-24-3a-1785312290000",
+    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+    "link": "https://www.qbitai.com/2026/07/462384.html",
+    "summary": "百万网友已玩疯",
     "publishedAt": "2026-07-29",
     "source": "量子位",
     "tags": [
@@ -289,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785320460000",
-    "title": " 这才是黄金最大的风险 ",
-    "link": "https://www.huxiu.com/article/4879106.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 丁萍 头图 | 视觉中国 最近几个月，黄金处于一个最容易让投资者犯错的阶段。 因为市场已经进入高波动、高分歧阶段。看多的人越来越坚定，认为这轮黄金牛市远没有结束；看空的人也越来越多，觉得黄金已经涨得太高，泡沫风险正在累积。 有人2016年开始布局黄金，十年赚了近10倍，却依然选择继续持有；有人认可黄金的长期逻辑，却在一次次回调中不断怀疑自己；有人赚了50%后果断离场，等待下一次机会；也有人至今一克黄金都没有买，坚持认为市场高估了黄金。 为什么同样面对黄金，有人越跌越敢买，有人却越跌越害怕？ 我们聊了四类黄金投资者，希望通过他们不同的买入逻辑、持仓经历和心理变化，来帮助读者判断投资黄金最大的风险究竟是什么。 以下是他们的故事。 黄金信仰者，越跌越买 大飞和泽哥就是这类投资者中的典型代表。 大飞最初买黄金，并不是因为投资，是为了结婚。 2020年初，在购买结婚五金之前，他先做了一件很多人不会做的事。&quot;我把过去70年的黄金价格、美元、利率，还有一些宏观数据全部拉出来重新看了一遍。&quot; 看完之后，他得出了一个判断： &quot;黄金，就是美国国运的反对票。美国越强，黄金越弱；美国遇到挑战，黄金就开始涨。&quot; 在他看来，过去70年里，美国最强势的时候，也是黄金最弱的时候。海湾战争之后、苏联解体之后，美国一家独大。“那个时候，大家都相信",
+    "id": "news--1785333231000",
+    "title": " 港股上市前夜，“光模块一哥”抛出一剂强心针 ",
+    "link": "https://www.huxiu.com/article/4879205.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖，原文标题：《港股上市前夜，「光模块一哥」抛出一剂强心针》 全球光模块龙头中际旭创，迎来了又一个资本高光时刻。 7月22日，中际旭创（3308.HK）在香港联交所启动公开招股，正式开启“A+H”双上市架构。 据港交所披露的招股章程，本次IPO由高盛、中金公司、摩根士丹利、广发证券联席保荐；7月28日，中际旭创发布最新公告，敲定本次H股全球发售定价为每股980港元，较此前招股文件披露的1010港元发行上限折价3%，募资额最高为545亿港元，成为2026年港股募资规模榜首。 2025年全年，中际旭创实现营业总收入382.40亿元，同比增长60.25%；归母净利润107.97亿元，同比增长108.78%；扣非净利润107.10亿元，同比增长111.31%。同时，公司经营活动现金流净额108.96亿元，同比增长244.31%；加权平均净资产收益率达43.84%。上述核心指标反映出公司不仅在做大规模，盈利质量与现金造血能力也在同步提升。 进入2026年，增长曲线进一步陡峭化。中际旭创第一季度归母净利润达57.35亿元，同比增速达262.28%。 一位熟悉半导体产业链中下游公司的从业人士向《凤凰WEEKLY财经》分析称，单季利润超高速的情况，放在整个光模块行业的发展历程里是较为罕见的，过往光模块行业的增长基本是跟着下游需求的迭代节奏走。",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -302,10 +304,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workbuddy-ai-1785319211000",
-    "title": "字节阿里都没防住：腾讯WorkBuddy四个月“偷”下AI办公智能体第一",
-    "link": "https://www.tmtpost.com/8083780.html",
-    "summary": "WorkBuddy登顶之后，真正的底牌还没出。",
+    "id": "news-3-ovm-1785322336000",
+    "title": "3万亿长鑫，吞吃OVM",
+    "link": "https://www.tmtpost.com/8083510.html",
+    "summary": "OVM长期以来短视的战略眼光，以及缺少对自己米饭班主基本的敬畏，让他们在这场行业大暴风面前，没有避风港可进。",
     "publishedAt": "2026-07-29",
     "source": "钛媒体",
     "tags": [
@@ -316,11 +318,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-called-the-hugging-face-attack-unprecedented-but-we-v-1785175200000",
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
-    "publishedAt": "2026-07-27",
+    "id": "news-samsung-s-chip-workers-are-jumping-ship-to-rival-sk-hynix-1785230337000",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+    "publishedAt": "2026-07-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -328,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "publishedAt": "2026-07-28",
+    "id": "news-as-ai-content-floods-the-internet-pangram-raises-9m-to-detec-1785322800000",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -369,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-10-1785288600000",
-    "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
-    "link": "https://36kr.com/p/3915175290901889?f=rss",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。 尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理。创始人兼CEO吕莉蕴曾任国际汽车电子头部企业Harman首席架构工程师，曾主导多模态传感器融合计算平台的研发工作；核心团队成员多来自中科院、密歇根大学、北京大学等头部院校，覆盖底层传感材料到上层智能算法的全链条研发能力。 随着人形机器人本体、电机、关节控制等硬件工程逐一突破，行业竞争发生阶段性切换，深层制约来自数据供给的结构性短缺。根据《中国具身智能产业发展报告》报告显示，截至2026年初，全球高质量真实物理交互数据总量约为50万小时，而训练具备基础泛化能力的通用具身模型至少需要千万小时级数据，缺口达九成以上。 相较于视觉、文本可通过线上渠道大规模归集的训练素材，触觉模态存在独特供给瓶颈。触觉信号源于实体间直接物理接触，仿真环境可以模拟物体的形状和位置，却难以复现真实场景下压力分布、摩擦力、材质形变等复合力学特征，仿真数据集与真实触觉真值存在固有偏",
+    "id": "news-neo-lab-1785298236000",
+    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+    "link": "https://36kr.com/p/3916202023660929?f=rss",
+    "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。 几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验驱动，而静态标注数据模式已触达天花板。DeepSeek近期也把持续学习带进了更多人的视野之中，声称 Agent之后需要的解决的问题是持续学习，这也是下一代模型必须具备的能力。 可见，后训练与持续学习，越来越成为下一阶段评判模型能力的关键点。 Mind Lab在上个月发布了Macaron-V1-Preview模型，此后业务迅速被推着往前走：商业化刚开始跑2周，AR",
     "publishedAt": "2026-07-29",
     "source": "36氪",
     "tags": [
@@ -383,9 +385,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785306566000",
-    "title": "空中具身操作：让蜘蛛侠们安全落地",
-    "link": "https://www.qbitai.com/2026/07/462301.html",
+    "id": "news-oceanbase-ai-1785307183000",
+    "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+    "link": "https://www.qbitai.com/2026/07/462380.html",
     "summary": "",
     "publishedAt": "2026-07-29",
     "source": "量子位",
@@ -816,8 +818,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RNTcuMTUxLjEzMC4w when applying to show you read the job post completely (#RNTcuMTUxLjEzMC4w)",
-      "This is a beta feature to avoid spam"
+      "Please mention the word **PLAYFULLY** and tag RNTIuMTU0LjEzMi4xODE= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xODE=)",
+      "This is a beta feature to avo"
     ],
     "skills": [],
     "location": "宇佐, ",
@@ -825,25 +827,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-job-details-indi-connect-1135557",
     "postedAt": "2026-07-27",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135504",
-    "title": "No positions currently available",
-    "company": "UpTye",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "JOIN THE TEAM Let's Build SomethingGreat Together We're looking for passionate people to help shape the future of global work",
-      "General Application Don't see a perfect match",
-      "Tell us about yourself and we'll find the right opportunity",
-      "Full Name * Email * Role Interest *Select a role categoryEngineer"
-    ],
-    "skills": [],
-    "location": "Oregon, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
-    "postedAt": "2026-07-27",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T10:34:41.201Z';
+export const dataFetchedAt = '2026-07-29T13:59:43.633Z';
