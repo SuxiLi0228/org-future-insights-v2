@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-openai-8217-s-predictable-hack-and-an-ai-stock--1785240600000",
-    "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
-    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
-    "publishedAt": "2026-07-28",
+    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-top-hr-trends-and-priorities-for-2026-1785255331000",
-    "title": "Top HR Trends and Priorities for 2026",
-    "link": "https://hrexecutive.com/top-hr-trends-and-priorities-for-2026_update/",
-    "summary": "Monday, August 24, 2026 at 3:00 pm ET Join us as hosts Steve Boese and Trish Steed of H3 HR Advisors discuss the trends and priorities impacting HR’s expanding role. The post Top HR Trends and Priorities for 2026 appeared first on HR Executive .",
-    "publishedAt": "2026-07-28",
+    "id": "news-employer-health-plans-to-get-6-6t-in-tax-help-over-10-years-1785318316000",
+    "title": "Employer health plans to get $6.6T in tax help over 10 years",
+    "link": "https://hrexecutive.com/employer-health-plans-to-get-6-6t-in-tax-help-over-10-years/",
+    "summary": "Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -43,6 +43,110 @@ export const generatedNews: NewsItem[] = [
     "title": "Jury awards male surgical technician $105K for delivery room discrimination",
     "link": "https://www.hrdive.com/news/jury-awards-male-surgical-technician-105k-bentonville-arkansas/826358/",
     "summary": "According to the U.S. Equal Employment Opportunity Commission, two female obstetricians barred the technician from performing his job because of his sex.",
+    "publishedAt": "2026-07-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-ai-1785313852000",
+    "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+    "link": "https://36kr.com/p/3916187215408776?f=rss",
+    "summary": "导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95 后双职工父母成为母婴消费主力，育儿理念彻底摆脱传统经验主义，科学化、轻量化、低焦虑成为核心诉求。据易观《Z 世代新母婴人群消费洞察 2023》，51% Z 世代宝妈选购母婴产品优先选择智能款，44.1% 认为智能产品安全性更高，43.1% 看重便捷性。结合多份行业调研，新一代父母核心需求分为四点： 职场育儿双重压力，急需减负工具 92% Z 世代夫妻为双职工，95 后家庭母婴支出占家庭收入 30%，育儿投入更高，但夜间频繁起夜查看尿裤严重挤压休息时间，碎片化睡眠带来强烈育儿疲惫。他们不愿牺牲全部个人生活，迫切需要智能设备承接重复性看护工作，平衡工作、亲子与自我空间。 数字原住民，信奉数据化科学养育",
+    "publishedAt": "2026-07-29",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-openai-anthropic-ai-1785312783000",
+    "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+    "link": "https://www.qbitai.com/2026/07/462447.html",
+    "summary": "AI开始组团“挖漏洞”",
+    "publishedAt": "2026-07-29",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785320619000",
+    "title": " 这是我看过最恶劣的乒乓球场打人事件 ",
+    "link": "https://www.huxiu.com/article/4879124.html?f=rss",
+    "summary": "本文来自微信公众号： 雷叔说事 ，作者：小林 乒乓球终于有了身体对抗。 就在最近江苏国青国少省选14岁组半决赛上，曹彦灏对阵贺睿宸。前两局曹同学都输了，第三局更是一路被压着打，最终0比11结束比赛。 双方要按赛场礼仪握一下手了，但赢球的贺同学走过来，就被曹同学揍了一拳。 包括裁判在内的人都没反应过来，曹同学又爆踹了贺同学的大腿，嘴里好像还喋喋不休。 反应过来的众人把曹同学拉开，监控视频也在这时戛然而止。 网上很快也出现了贺同学的伤情照片，他脸上好像有红肿和轻微淤血痕迹，眼睛好像也肿胀了。 网友还说本来晋级下一轮的他因伤不能打了。 马上江苏乒协的通报也出来了，要对曹同学进行这些处罚： 全省通报批评； 取消本次选拔赛资格及全部成绩； 省内乒乓球赛事禁赛1年。 处罚一出来，舆论更激烈了。 网友质问，公开场合打人，还打得人打不了下一场，不违法吗？ 这种全国都知道的恶性事件，怎么只禁赛一年，还是省内禁赛，不会还可以参加省外的比赛吧？ 老实说，这些问题太专业，我也不是很懂。 另一边，很多网友也好奇为啥曹同学要打人。 一种说法是，有不成文的规定，不能剃光头，多少得在一局里让对手得一分。但偏偏最后一局，贺同学一分不让曹同学拿1分。 好像贺同学打球打得太霸道，不懂事，所以被曹同学揍了。 为此，很多网友还觉得贺同学被揍是活该。 也许以前确实有这样的潜规则，但现在，早就没有什么了。 比如巴黎奥运会的时候",
+    "publishedAt": "2026-07-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785319705000",
+    "title": "控制器只占两成营收，仙工智能凭什么撑起万亿故事？",
+    "link": "https://www.tmtpost.com/8083573.html",
+    "summary": "真实世界，才是机器人大脑最好的训练场。",
+    "publishedAt": "2026-07-29",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-openai-8217-s-predictable-hack-and-an-ai-stock--1785240600000",
+    "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
+    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+    "publishedAt": "2026-07-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-bot-detection-startup-spur-nabs-200m-from-insight-1785274174000",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "publishedAt": "2026-07-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-for-2027-employers-to-focus-on-8216-smarter-8217-pay-strateg-1785317417000",
+    "title": "For 2027, employers to focus on &#8216;smarter&#8217; pay strategies",
+    "link": "https://hrexecutive.com/for-2027-employers-to-focus-on-smarter-pay-strategies/",
+    "summary": "A new survey finds that employers will continue shifting toward more \"targeted, performance-driven\" pay strategies. The post For 2027, employers to focus on &#8216;smarter&#8217; pay strategies appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
+    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
+    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
+    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
@@ -66,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-1785303398000",
-    "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
-    "link": "https://www.qbitai.com/2026/07/462071.html",
-    "summary": "角逐全球最难右舵市场",
+    "id": "news-opus-5-24-3a-1785312290000",
+    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+    "link": "https://www.qbitai.com/2026/07/462384.html",
+    "summary": "百万网友已玩疯",
     "publishedAt": "2026-07-29",
     "source": "量子位",
     "tags": [
@@ -79,10 +183,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785305538000",
-    "title": " 长鑫上市，合肥“赌”出万亿市值 ",
-    "link": "https://www.huxiu.com/article/4878960.html?f=rss",
-    "summary": "一个城市的未来，从来不在地皮里，而在产业的命脉里。",
+    "id": "news--1785320574000",
+    "title": " 中国游客的致命“跳岛游”，戳破东南亚旅行攻略滤镜 ",
+    "link": "https://www.huxiu.com/article/4879123.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网 ，作者：木三川 2026年7月16日深夜，印度洋比马县附近海域，36岁的中国游客刘青言蜷缩在一只正在漏气的救生筏上。 四周漆黑一片，看不见海，看不见船。筏上八九个人挤成一团，有人尿在了筏子里，有人吐到了刘青言身上。海水从筏底渗进来，湿冷黏腻。她坐不起来，只能蜷着腿，一只手死死拽着筏沿上的绳子，那是她唯一能抓住的东西。有位中国妈妈正一边发抖一边安慰自己的孩子说，“别哭、别担心”。 一个多小时前，刘青言还在一艘双层木质观光船的甲板上，悠哉拍摄夕阳，感受小红书上所说的，“人间塞尔达”“玻璃海”“人与自然共舞”。而此刻，朋友正绝望地看向她说，“死定了”。 刘青言是成都人，她英语流利，至少在6个国家自由行过，对自己的计划能力很自信。几个月前，她被小红书上的旅行攻略吸引，于是计划了一场“跳岛游”——这是近年来社交媒体上东南亚旅游最热门的玩法之一，订一艘当地的观光船，花几天时间，航行串起几个岛屿，看科莫多龙、粉红沙滩、蝙蝠归巢。 号称“千岛之国”的印度尼西亚就这样涌入了大量中国游客。数据显示，2025年，共有134.4万中国游客赴印尼旅游，稳居印尼第四大国际游客来源国。仅巴厘岛一地，2025年就接待了53.7万人次中国大陆游客。 刘青言是其中之一。她输入“印尼虎鲸科莫多”关键词，搜索量最高的是印尼黄金岛游轮公司，这家公司有从印尼龙目岛出发的特定航线，观光船途经肯纳瓦",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -92,10 +196,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1785306076000",
-    "title": "猎奇智能：实控人股权低买高卖，业绩失速客户集中，资金充裕仍募资补流｜IPO观察",
-    "link": "https://www.tmtpost.com/8083506.html",
-    "summary": "猎奇智能上市前估值两年暴涨近6倍，短期估值增幅异常激进；同时实控人相关主体存在低价受让、短期内高价对外转让股权的交易情形，交易价差悬殊，股权转让定价公允性与合理性备受质疑。",
+    "id": "news--1785319660000",
+    "title": "携程遭反垄断顶格处罚，新流量规则下酒旅或将重新洗牌",
+    "link": "https://www.tmtpost.com/8083800.html",
+    "summary": "这场持续半年的监管风暴，不仅将重塑整个酒旅OTA竞争格局，更是对各大互联网平台敲响了反垄断的警钟。",
     "publishedAt": "2026-07-29",
     "source": "钛媒体",
     "tags": [
@@ -118,10 +222,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bot-detection-startup-spur-nabs-200m-from-insight-1785274174000",
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -131,30 +235,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-works-better-when-hr-helps-lead-it-new-research-finds-1785241858000",
-    "title": "AI works better when HR helps lead it, new research finds",
-    "link": "https://hrexecutive.com/ai-divide-works-better-when-hr-helps-lead-it-new-research-finds/",
-    "summary": "A recent survey shows AI's real fault line is organizational: whether HR has a formal seat at the table for AI implementation. The post AI works better when HR helps lead it, new research finds appeared first on HR Executive .",
-    "publishedAt": "2026-07-28",
+    "id": "news-why-cisco-s-cpo-says-integrated-leadership-is-hr-s-new-super-1785317410000",
+    "title": "Why Cisco’s CPO says ‘integrated leadership’ is HR’s new superpower",
+    "link": "https://hrexecutive.com/why-ciscos-cpo-says-integrated-leadership-is-hrs-new-superpower/",
+    "summary": "\"Integrated leadership is, how do you hold the technology and the human side of this at the same time without letting either one win?\" asks Cisco's Kelly Jones, the opening keynoter at HR Tech Conference. The post Why Cisco’s CPO says ‘integrated leadership’ is HR’s new superpower appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
       "organization"
     ]
   },
   {
-    "id": "news-fintech-company-violated-nlra-when-it-fired-worker-for-linke-1785269760000",
-    "title": "Fintech company violated NLRA when it fired worker for LinkedIn post, judge finds",
-    "link": "https://www.hrdive.com/news/apex-fintech-violated-nlra-when-it-fired-worker-for-linkedin-post-nlrb/826357/",
-    "summary": "The worker posted on LinkedIn that Apex Fintech Solutions &ldquo;allowed outright hate to proliferate as a demonstration of what they think DEI is.&rdquo;",
+    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
+    "title": "Why manager training may be the key to AI integration",
+    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
+    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -172,10 +276,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pc-ai-jiuwenswarm-1785295799000",
-    "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
-    "link": "https://www.qbitai.com/2026/07/462065.html",
-    "summary": "让多智能体团队随时随地为你干活",
+    "id": "news-oceanbase-ai-1785307183000",
+    "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+    "link": "https://www.qbitai.com/2026/07/462380.html",
+    "summary": "",
     "publishedAt": "2026-07-29",
     "source": "量子位",
     "tags": [
@@ -185,10 +289,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785304633000",
-    "title": " 女儿来了非洲避暑：爸爸你为什么闯红灯 ",
-    "link": "https://www.huxiu.com/article/4879022.html?f=rss",
-    "summary": "本文来自微信公众号： 小聂说非洲 ，作者：聂少锐 今年国内的夏天尤其热，各种异常气象频发。和国内相反，国内的夏天正是肯尼亚的冬天，今年肯尼亚的冬天尤其冷。在肯尼亚人看来，16摄氏度已经是严冬，虽然内罗毕最热的时候也不过28摄氏度，这在中国人看来简直就是四季如春，可肯尼亚人只要看见气温降到15度左右，羽绒服、毛线帽和围巾就全都翻了出来。这让来肯尼亚避暑的女儿非常吃惊：“她们穿那么多，不热吗？”显然，她还沉浸在国内夏天的体感里。没过几天，她自己也穿上了毛衣。她奶奶感慨道：“幸亏带了毛衣，要不然在这边想买都不好买。”她们逛了几家商场，得出的结论是：这里的不少衣服款式像国内二十年前流行的，价格却是国内的几倍。非洲并非什么都便宜，尤其是那些自己不生产、全靠进口的东西，往往带着漂洋过海的脾气和关税，穿在身上之前，先让钱包感受到温度。 女儿从小在农村长大，却也是见过世面的，对什么都不感到特别好奇。第一次坐这么久的飞机，她不但没有兴奋得睡不着，反而一路呼呼大睡；见到肯尼亚当地人，她也没有盯着别人看，很快便和当地小朋友玩到了一起。儿童是没有分别心的，他们不管对方的肤色，只管能不能一起玩得开心，语言好像也没有想象中那么重要。她一点英语基础都没有，却丝毫不怯场，连比画带猜，再配上丰富的面部表情，很快就成了孩子头儿。大人见面，先问对方是哪里人、做什么工作、住哪个小区、孩子读哪所学校；小孩子见面，只需要一个",
+    "id": "news--1785320460000",
+    "title": " 这才是黄金最大的风险 ",
+    "link": "https://www.huxiu.com/article/4879106.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 丁萍 头图 | 视觉中国 最近几个月，黄金处于一个最容易让投资者犯错的阶段。 因为市场已经进入高波动、高分歧阶段。看多的人越来越坚定，认为这轮黄金牛市远没有结束；看空的人也越来越多，觉得黄金已经涨得太高，泡沫风险正在累积。 有人2016年开始布局黄金，十年赚了近10倍，却依然选择继续持有；有人认可黄金的长期逻辑，却在一次次回调中不断怀疑自己；有人赚了50%后果断离场，等待下一次机会；也有人至今一克黄金都没有买，坚持认为市场高估了黄金。 为什么同样面对黄金，有人越跌越敢买，有人却越跌越害怕？ 我们聊了四类黄金投资者，希望通过他们不同的买入逻辑、持仓经历和心理变化，来帮助读者判断投资黄金最大的风险究竟是什么。 以下是他们的故事。 黄金信仰者，越跌越买 大飞和泽哥就是这类投资者中的典型代表。 大飞最初买黄金，并不是因为投资，是为了结婚。 2020年初，在购买结婚五金之前，他先做了一件很多人不会做的事。&quot;我把过去70年的黄金价格、美元、利率，还有一些宏观数据全部拉出来重新看了一遍。&quot; 看完之后，他得出了一个判断： &quot;黄金，就是美国国运的反对票。美国越强，黄金越弱；美国遇到挑战，黄金就开始涨。&quot; 在他看来，过去70年里，美国最强势的时候，也是黄金最弱的时候。海湾战争之后、苏联解体之后，美国一家独大。“那个时候，大家都相信",
     "publishedAt": "2026-07-29",
     "source": "虎嗅",
     "tags": [
@@ -198,10 +302,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785304320000",
-    "title": "石药创新，走出潜邸",
-    "link": "https://www.tmtpost.com/8083385.html",
-    "summary": "从庶子到太子，真正的考验才刚刚开始。",
+    "id": "news-workbuddy-ai-1785319211000",
+    "title": "字节阿里都没防住：腾讯WorkBuddy四个月“偷”下AI办公智能体第一",
+    "link": "https://www.tmtpost.com/8083780.html",
+    "summary": "WorkBuddy登顶之后，真正的底牌还没出。",
     "publishedAt": "2026-07-29",
     "source": "钛媒体",
     "tags": [
@@ -224,10 +328,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mcp-startup-runlayer-accuses-rippling-of-stealing-its-produc-1785271512000",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
     "publishedAt": "2026-07-28",
     "source": "TechCrunch",
     "tags": [
@@ -237,23 +341,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds-1785240901000",
-    "title": "Specialty drug costs expected to jump 32% by 2028, PSG finds",
-    "link": "https://hrexecutive.com/specialty-drug-costs-expected-to-jump-32-by-2028-psg-finds/",
-    "summary": "Claim utilization is now the dominant driver of specialty drug trend as the percentage of members using specialty drugs rose to 5.5%. The post Specialty drug costs expected to jump 32% by 2028, PSG finds appeared first on HR Executive .",
-    "publishedAt": "2026-07-28",
+    "id": "news-why-women-are-losing-first-in-ai-transformation-1785316528000",
+    "title": "Why women are losing first in AI transformation",
+    "link": "https://hrexecutive.com/why-women-are-losing-first-in-ai-transformation/",
+    "summary": "Women are more exposed to AI disruption and are less likely to experiment with the tools. What will this mean for women workers? The post Why women are losing first in AI transformation appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-why-manager-training-may-be-the-key-to-ai-integration-1785252780000",
-    "title": "Why manager training may be the key to AI integration",
-    "link": "https://www.hrdive.com/news/why-manager-training-may-be-the-key-to-ai-integration/826267/",
-    "summary": "Without effective managers, companies may have a hard time seeing the gains that they expect from AI investments.",
+    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
+    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
+    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
+    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
     "publishedAt": "2026-07-28",
     "source": "HR Dive",
     "tags": [
@@ -278,116 +383,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-work-1785289995000",
-    "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
-    "link": "https://www.qbitai.com/2026/07/462062.html",
-    "summary": "",
-    "publishedAt": "2026-07-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-557-1785304372000",
-    "title": " 海力士营业利润大涨557%，股价为什么跌了？ ",
-    "link": "https://www.huxiu.com/article/4879020.html?f=rss",
-    "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 收入、营业利润仍不及预期，储存周期是否已到尾声？ AIX财经（AIXcaijing）原创 一家季度营业利润同比增长557%的公司，依然可能交出一份让市场感到“不够好”的财报。 7月28日美股盘后，韩国存储芯片巨头SK海力士发布2026年Q2业绩，期内营业利润为60.54万亿韩元（约合人民币2800亿元），较去年同期的9.2万亿韩元同比增长557%，不及预期的64.22万亿韩元；收入为79万亿韩元（约合人民币3677亿元），同比增长257%，亦不及预期的84万亿韩元；净利润同比增幅高达1242%，但很大一部分原因是受到投资收益的影响。 虽然公司营业利润已经连续五个季度创出新高，并且营业利润率进一步升至76%，但财报发出后，SK海力士美股盘后一度跌超6%，此后开盘的韩股也同步下跌，截至发稿跌幅已经达到12.97%。拉长看，这家HBM龙头的股价较约195美元高点，已经回撤超过三成。 下跌的不只是海力士。7月28日美股，同为存储芯片巨头的美光科技收跌8.85%，闪迪跌14.25%，光模块公司Coherent跌超10%，AMD、英特尔跌幅均超过5%。整个AI产业链上游的硬件公司，近期都在持续回调。 作为AI产业链中最先兑现利润的环节，云厂商的资本支出源源不断流入上游基建，英伟达是最大的受益者，为其提供HBM（高带宽内存）的",
-    "publishedAt": "2026-07-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-to-anthropic-1785303960000",
-    "title": "To Anthropic：闭海无边，开源是岸",
-    "link": "https://www.tmtpost.com/8083352.html",
-    "summary": "都说AI是下个时代的水电煤，Anthropic所做的，相当于以防止有坏人往水里投毒为由，拒绝透露水管结构、拒不接受外部监督，可在外界眼中，基础设施的安全标准、风险判定、访问权限全都由运营方单方面定义，何尝不是另一种风险？",
-    "publishedAt": "2026-07-29",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-lasers-could-help-provide-fuel-for-nuclear-reactors-1785162282000",
-    "title": "How lasers could help provide fuel for nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
-    "publishedAt": "2026-07-27",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-sam-altman-is-ready-to-decelerate-1785269828000",
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "publishedAt": "2026-07-28",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-6-hr-tech-europe-leaders-on-what-8217-s-holding-ai-back-in-h-1785240047000",
-    "title": "6 HR Tech Europe leaders on what&#8217;s holding AI back in HR",
-    "link": "https://hrexecutive.com/6-hr-tech-europe-leaders-on-whats-holding-ai-back-in-hr/",
-    "summary": "Eighty-one percent of HR pros use AI personally, only 36% at work. Six HR Tech Europe voices explain the trust and data gaps holding AI back. The post 6 HR Tech Europe leaders on what&#8217;s holding AI back in HR appeared first on HR Executive .",
-    "publishedAt": "2026-07-28",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-managers-say-they-don-t-feel-ready-to-lead-an-ai-fluent-work-1785251580000",
-    "title": "Managers say they don’t feel ready to lead an AI-fluent workforce",
-    "link": "https://www.hrdive.com/news/managers-say-they-dont-feel-ready-to-lead-an-ai-fluent-workforce/826354/",
-    "summary": "Many companies aren&rsquo;t providing the necessary training to help employees learn how to use artificial intelligence, per Indeed research.",
-    "publishedAt": "2026-07-28",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-snn-36-1785284100000",
-    "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
-    "link": "https://36kr.com/p/3878652674715905?f=rss",
-    "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主流传统算力主要采用“固定窗口、持续全量采样计算”模式，无论人体信号有无异常，芯片均不间断完整运算，因此会产生无效算力损耗，带来续航缩水、设备发热、干预响应滞后等问题。 米能科技自研数模混合脉冲神经网络",
-    "publishedAt": "2026-07-29",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-alaya-token-kimi-k3-3t-token-1785289536000",
-    "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
-    "link": "https://www.qbitai.com/2026/07/462058.html",
+    "id": "news--1785306566000",
+    "title": "空中具身操作：让蜘蛛侠们安全落地",
+    "link": "https://www.qbitai.com/2026/07/462301.html",
     "summary": "",
     "publishedAt": "2026-07-29",
     "source": "量子位",
@@ -751,6 +749,30 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135555",
+    "title": "AI Intern",
+    "company": "CertifyOS",
+    "category": "pure_ai",
+    "responsibilities": [
+      "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare",
+      "Today, healthcare organizations rely on fragmented and outdated provider data",
+      "This creates unnecessary administrative work, regulatory risk, and higher costs across the system",
+      "Weâre solving that problem."
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "GCP",
+      "SQL"
+    ],
+    "location": "Pune",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "postedAt": "2026-07-28",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135589",
     "title": "Maintenance",
     "company": "Road Ranger",
@@ -794,7 +816,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Lorem ipsum dolor sit amet, consectetur adip lorem iscing elit",
       "buis dapibus ante eget turpis feugiat, uloremt dolor sit",
-      "Please mention the word **PLAYFULLY** and tag RMjAuNjIuMjA0LjIw when applying to show you read the job post completely (#RMjAuNjIuMjA0LjIw)",
+      "Please mention the word **PLAYFULLY** and tag RNTcuMTUxLjEzMC4w when applying to show you read the job post completely (#RNTcuMTUxLjEzMC4w)",
       "This is a beta feature to avoid spam"
     ],
     "skills": [],
@@ -824,4 +846,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-29T06:27:10.711Z';
+export const dataFetchedAt = '2026-07-29T10:34:41.201Z';
