@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-okta-buys-ai-security-startup-permiso-source-says-for-about--1785427782000",
-    "title": "Okta buys AI security startup Permiso; source says for about $200M",
-    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "id": "news-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the--1785437878000",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -39,18 +39,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-companies-are-accidentally-training-future-leaders-to-st-1785423060000",
-    "title": "How companies are accidentally training future leaders to stay quiet",
-    "link": "https://www.hrdive.com/news/how-companies-are-accidentally-training-future-leaders-to-stay-quiet/826515/",
-    "summary": "Organizations that encourage employees to ask the questions AI can&rsquo;t answer will thrive, writes SurveyMonkey&rsquo;s CPO.",
+    "id": "news-nearly-half-of-workers-say-they-d-let-ai-negotiate-their-pay-1785433380000",
+    "title": "Nearly half of workers say they’d let AI negotiate their pay",
+    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-theyd-let-ai-negotiate-their-pay/826476/",
+    "summary": "One-third of U.S. adults have already asked artificial intelligence about their salary, a raise, a bonus or how to negotiate, a recent report showed.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -81,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785428021000",
-    "title": " 摩根家族如何保住了百年信托 ",
-    "link": "https://www.huxiu.com/article/4879553.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 2026年离岸信托穿透式征税引发热议，不少高净值人群开始焦虑私人财富架构的永续性。 各类家族信托方案层出不穷，却难以规避监管溯源。人们再次追问：财富如何跨越时间？百年前，摩根家族已经交出过答卷，老摩根生前因“金钱托拉斯”被审判，死后却因一单“公共信托”获得不朽。 摩根这个姓氏掌管华尔街的半壁江山已逾百年：摩根大通，全美资产规模第一的银行；摩根士丹利，顶级投行——中国金融圈叫惯了“小摩”与“大摩”。大摩小摩的offer，至今仍叫金融从业者趋之若鹜。 要看懂这份信托为什么能跨越百年而不被穿透，得走一趟双城记。罗马的一家豪华酒店，是金融朱庇特老摩根陨落的地方；纽约的一座小众图书馆，是摩根家族财富开始转化为公共遗产的地方。 纽约：从私人书房到公众图书馆 一个夏日清晨，我沿着麦迪逊大道一路向南，走进摩根图书馆。这里曾是J.P.摩根的私人书房，也是那个被报纸称作“华尔街朱庇特”的男人，存放半个旧大陆的地方。 我来这里，是因为一位在华尔街工作的老同事知道我喜欢大都会博物馆，随口说了一句：你要是喜欢大都会，更该去摩根图书馆——大都会第五大道立面的两翼，和这座图书馆，出自同一家建筑事务所。 我更直接的动机是一条挂毯。我研究克什米尔披肩的历史，以及它与其他文明之间的互鉴与影响。挂毯（tapestry）与克什米尔斜纹缂织卡尼披肩同属纬线显花的织造传统，地毯",
+    "id": "news--1785433191000",
+    "title": " 张雅琪“打卡式干活”惹争议，学霸人设从流量密码走向高风险赌局 ",
+    "link": "https://www.huxiu.com/article/4879556.html?f=rss",
+    "summary": "本文来自微信公众号： 镜象娱乐 ，作者：镜象娱乐 2026年暑期，《中餐厅》第十季播出后，从职场综艺《令人心动的offer》出圈的张雅琪引发了持续不断的舆论争议，社媒上也衍生出了“打卡式干活”的热梗。 从菜单制作敷衍、财务核算失误，到服务疏漏后的应对方式，相关话题多次登上热搜，观众的批评远超普通综艺嘉宾表现不佳的范畴。这场争议并非孤例，近年从职场观察、脑力推理等垂类综艺走出的高学历素人，一边享受着快速破圈的流量红利，一边频繁遭遇口碑翻车，从火树被吐槽综艺里“输不起”“爱甩锅”，到李嘉凯因私德问题全面退圈，学霸素人的人设保质期正在大幅缩短。 过去几年，内娱悄然形成了一套完整的学霸素人造星流水线，从垂直赛道筛选高学历候选人，依托“精英自律”标签快速积累路人盘，再通过头部综艺曝光完成流量变现，最终转型全职艺人或内容创作者。 这条路径曾被视为平台降本增效的最优解，既填补了市场对“智性人设”的需求空白，又避开了成熟艺人高片酬、人设固化的普遍问题。但随着争议案例集中爆发，这套模式的结构性缺陷正在加速暴露。 垂直赛道孵化 低成本造星的红利与捷径 学霸素人批量进入综艺行业，本质是内容市场供需关系变化的产物。 传统综艺嘉宾体系下，成熟艺人片酬高昂且人设容易固化，而普通素人嘉宾又普遍缺乏镜头表现力与话题延展性，难以撑起内容厚度。与此同时，职场观察、脑力推理等垂类综艺快速崛起，这类节目需要嘉宾具备专业背",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -108,23 +107,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-tesla-made-its-10-millionth-ev-1785427225000",
-    "title": "Tesla made its 10 millionth EV",
-    "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
-    "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+    "id": "news-florida-plans-to-build-air-taxi-pads-using-200m-intended-for-1785436692000",
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -149,17 +147,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds-1785423060000",
-    "title": "1 in 4 dollars spent on AI goes to waste, report finds",
-    "link": "https://www.hrdive.com/news/control-AI-costs-spending-harness/826579/",
-    "summary": "More than half of businesses lack a dedicated owner for artificial intelligence costs, which can lead to overspend, according to a Harness report.",
+    "id": "news-how-companies-are-accidentally-training-future-leaders-to-st-1785423060000",
+    "title": "How companies are accidentally training future leaders to stay quiet",
+    "link": "https://www.hrdive.com/news/how-companies-are-accidentally-training-future-leaders-to-stay-quiet/826515/",
+    "summary": "Organizations that encourage employees to ask the questions AI can&rsquo;t answer will thrive, writes SurveyMonkey&rsquo;s CPO.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -190,10 +189,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bot-1785427658000",
-    "title": " 第一批BOT项目到期，环保行业迎来移交大考 ",
-    "link": "https://www.huxiu.com/article/4879552.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：首批环保特许经营项目正集中迈入到期节点。新规之下，资产移交不是合同尾声的程序动作，而是一场关乎合同、绩效、信用与化债的综合大考。 2000年前后，伴随市政公用事业市场化改革潮起，污水处理、垃圾焚烧、供水等领域的BOT项目蜂拥落地。 如今，时间的指针走到了“移交窗口”，按20至30年特许经营周期推算，2023年至2030年正是首批环保基础设施集中迈向合同终点的高峰时段。 2022年7月，深圳坂雪岗水质净化厂一期完成运营移交。作为深圳首座BOT水质净化厂和首个正式到期移交项目，它标志着早期市政公用事业市场化项目开始进入合同清算期。图源：深圳市水务局 与此同时，115号文重新校准PPP制度方向，17号令把移交从“交钥匙”升格为“性能测试、评估、移交、接管、验收”的全套程序，政府会计、国资管理、绩效评价、化债约束共同收紧。 特许经营合约到期不再是合同尾声的简单程序，而是项目合规的最后一关。本文沿着新规脉络，围绕国内首批BOT项目到期情况，拆解移交博弈的核心命题。 旧合同撞上新规则 移交不再只是\"交钥匙\" 早期BOT项目大多诞生于相对粗放的制度氛围中，地方政府急于补齐环保短板，社会资本急于切入公用事业赛道，至于最终的清算细节不曾是重点。 然而二十余年间，环保标准翻新、化债压力骤增、地方财政承压、绩效要求升级，旧框架已难以容纳新矛盾",
+    "id": "news--1785428021000",
+    "title": " 摩根家族如何保住了百年信托 ",
+    "link": "https://www.huxiu.com/article/4879553.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 2026年离岸信托穿透式征税引发热议，不少高净值人群开始焦虑私人财富架构的永续性。 各类家族信托方案层出不穷，却难以规避监管溯源。人们再次追问：财富如何跨越时间？百年前，摩根家族已经交出过答卷，老摩根生前因“金钱托拉斯”被审判，死后却因一单“公共信托”获得不朽。 摩根这个姓氏掌管华尔街的半壁江山已逾百年：摩根大通，全美资产规模第一的银行；摩根士丹利，顶级投行——中国金融圈叫惯了“小摩”与“大摩”。大摩小摩的offer，至今仍叫金融从业者趋之若鹜。 要看懂这份信托为什么能跨越百年而不被穿透，得走一趟双城记。罗马的一家豪华酒店，是金融朱庇特老摩根陨落的地方；纽约的一座小众图书馆，是摩根家族财富开始转化为公共遗产的地方。 纽约：从私人书房到公众图书馆 一个夏日清晨，我沿着麦迪逊大道一路向南，走进摩根图书馆。这里曾是J.P.摩根的私人书房，也是那个被报纸称作“华尔街朱庇特”的男人，存放半个旧大陆的地方。 我来这里，是因为一位在华尔街工作的老同事知道我喜欢大都会博物馆，随口说了一句：你要是喜欢大都会，更该去摩根图书馆——大都会第五大道立面的两翼，和这座图书馆，出自同一家建筑事务所。 我更直接的动机是一条挂毯。我研究克什米尔披肩的历史，以及它与其他文明之间的互鉴与影响。挂毯（tapestry）与克什米尔斜纹缂织卡尼披肩同属纬线显花的织造传统，地毯",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -217,22 +216,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
-    "publishedAt": "2026-07-29",
+    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-when-will-fusion-power-startup-commonwealth-fusion-systems-g-1785426336000",
-    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+    "id": "news-linkedin-adds-a-button-to-report-ai-generated-8216-slop-8217-1785434721000",
+    "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -256,16 +256,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-much-is-hybrid-workplace-coordination-costing-companies-1785423060000",
-    "title": "How much is hybrid workplace coordination costing companies?",
-    "link": "https://www.hrdive.com/news/hybrid-workplace-coordination-costing-companies/826575/",
-    "summary": "Navigating shifting schedules and coordinating in-person meetings may be creating friction, per a survey from an operations platform.",
+    "id": "news-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds-1785423060000",
+    "title": "1 in 4 dollars spent on AI goes to waste, report finds",
+    "link": "https://www.hrdive.com/news/control-AI-costs-spending-harness/826579/",
+    "summary": "More than half of businesses lack a dedicated owner for artificial intelligence costs, which can lead to overspend, according to a Harness report.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -296,17 +297,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-2-0-1785427374000",
-    "title": " Google升级机器人“大脑”2.0，机器人终于知道自己干到哪一步了 ",
-    "link": "https://www.huxiu.com/article/4879551.html?f=rss",
-    "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 7月30日，Google更新了Gemini Robotics开发者文档，正式开放新一代具身推理模型Gemini Robotics ER 2预览版。 与机器人行业常见的发布会不同，这次升级没有伴随一场声势浩大的产品展示。 ER 2悄然出现在Google AI Studio及Gemini API中，开发者可以直接调用两个模型端点：一个面向常规具身推理任务，另一个面向实时音视频流和低延迟机器人智能体。 这种近乎软件更新式的发布方式，恰好透露出Google对机器人生意的理解。 它没有急于推出一台属于自己的通用人形机器人，也没有将所有能力封装在某一种本体中。Google正在做的，是把Gemini原本服务于电脑和手机的多模态推理能力，延伸到真实世界，再通过API接入不同形态的机器人。 在手机时代，Google用Android连接应用、芯片和终端；在具身智能时代，它试图再次占据连接模型、本体和工具的中间位置。 这一次，它争夺的是机器人的“高层大脑”。 机器人的规则 ER是Embodied Reasoning的缩写，中文通常被译为具身推理。 它与直接输出关节动作的视觉—语言—动作模型有所不同。Google将Gemini Robotics系列大致分为两层：VLA模型负责把视觉信息和指令转化为机器人动作；ER模型负责理解环境、拆解任务、调用工具，并判",
+    "id": "news-bot-1785427658000",
+    "title": " 第一批BOT项目到期，环保行业迎来移交大考 ",
+    "link": "https://www.huxiu.com/article/4879552.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：首批环保特许经营项目正集中迈入到期节点。新规之下，资产移交不是合同尾声的程序动作，而是一场关乎合同、绩效、信用与化债的综合大考。 2000年前后，伴随市政公用事业市场化改革潮起，污水处理、垃圾焚烧、供水等领域的BOT项目蜂拥落地。 如今，时间的指针走到了“移交窗口”，按20至30年特许经营周期推算，2023年至2030年正是首批环保基础设施集中迈向合同终点的高峰时段。 2022年7月，深圳坂雪岗水质净化厂一期完成运营移交。作为深圳首座BOT水质净化厂和首个正式到期移交项目，它标志着早期市政公用事业市场化项目开始进入合同清算期。图源：深圳市水务局 与此同时，115号文重新校准PPP制度方向，17号令把移交从“交钥匙”升格为“性能测试、评估、移交、接管、验收”的全套程序，政府会计、国资管理、绩效评价、化债约束共同收紧。 特许经营合约到期不再是合同尾声的简单程序，而是项目合规的最后一关。本文沿着新规脉络，围绕国内首批BOT项目到期情况，拆解移交博弈的核心命题。 旧合同撞上新规则 移交不再只是\"交钥匙\" 早期BOT项目大多诞生于相对粗放的制度氛围中，地方政府急于补齐环保短板，社会资本急于切入公用事业赛道，至于最终的清算细节不曾是重点。 然而二十余年间，环保标准翻新、化债压力骤增、地方财政承压、绩效要求升级，旧框架已难以容纳新矛盾",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -324,30 +324,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-meta-says-ai-is-making-it-easier-to-build-new-apps-and-more--1785426076000",
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "id": "news-synthetic-user-startup-simile-raises-200m-at-2b-valuation-5--1785433811000",
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -364,24 +362,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shrm-s-insurance-carrier-says-it-s-not-on-the-hook-for-10m-j-1785357240000",
-    "title": "SHRM’s insurance carrier says it’s not on the hook for $10M jury verdict",
-    "link": "https://www.hrdive.com/news/insurance-company-sues-shrm-over-10m-race-bias-award/826513/",
-    "summary": "The insurer sued SHRM Tuesday, alleging state law prohibits it from indemnifying the organization because the jury found intentional race discrimination.",
-    "publishedAt": "2026-07-29",
+    "id": "news-how-much-is-hybrid-workplace-coordination-costing-companies-1785423060000",
+    "title": "How much is hybrid workplace coordination costing companies?",
+    "link": "https://www.hrdive.com/news/hybrid-workplace-coordination-costing-companies/826575/",
+    "summary": "Navigating shifting schedules and coordinating in-person meetings may be creating friction, per a survey from an operations platform.",
+    "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
     "id": "news-morror-art-a2-1785407123000",
     "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
     "link": "https://36kr.com/p/3917989583236738?f=rss",
-    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
+    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已���破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -905,7 +902,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjE4NC4yMTEuMTQ1 when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTQ1)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjE4NS40Ny4xMzA= when applying to show you read the job post completely (#RMTcyLjE4NS40Ny4xMzA=)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -916,4 +913,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T17:22:21.028Z';
+export const dataFetchedAt = '2026-07-30T19:19:03.616Z';
