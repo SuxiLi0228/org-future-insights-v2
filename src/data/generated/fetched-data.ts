@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the--1785437878000",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "id": "news-judge-says-trump-admin-still-lacks-evidence-for-anthropic-su-1785443198000",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -39,17 +39,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-half-of-workers-say-they-d-let-ai-negotiate-their-pay-1785433380000",
-    "title": "Nearly half of workers say they’d let AI negotiate their pay",
-    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-theyd-let-ai-negotiate-their-pay/826476/",
-    "summary": "One-third of U.S. adults have already asked artificial intelligence about their salary, a raise, a bonus or how to negotiate, a recent report showed.",
+    "id": "news-ichra-adoption-slowed-by-aca-exchange-costs-instability-1785444960000",
+    "title": "ICHRA adoption slowed by ACA exchange costs, instability",
+    "link": "https://www.hrdive.com/news/ichra-adoption-slowed-individual-market-affordability-ebri-morgan-health/826555/",
+    "summary": "Many employers are considering the coverage arrangements, but worries about the ACA marketplaces &mdash; including potentially high costs for workers &mdash; are making them hesitant to move forward, according to a survey.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ecommerce"
     ]
   },
   {
@@ -119,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-florida-plans-to-build-air-taxi-pads-using-200m-intended-for-1785436692000",
-    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-    "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+    "id": "news-carecloud-begins-to-notify-hundreds-of-thousands-after-hacke-1785442392000",
+    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+    "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+    "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -147,18 +147,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-companies-are-accidentally-training-future-leaders-to-st-1785423060000",
-    "title": "How companies are accidentally training future leaders to stay quiet",
-    "link": "https://www.hrdive.com/news/how-companies-are-accidentally-training-future-leaders-to-stay-quiet/826515/",
-    "summary": "Organizations that encourage employees to ask the questions AI can&rsquo;t answer will thrive, writes SurveyMonkey&rsquo;s CPO.",
+    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
+    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
+    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -229,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-linkedin-adds-a-button-to-report-ai-generated-8216-slop-8217-1785434721000",
-    "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "id": "news-friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-1785440656000",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -256,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds-1785423060000",
-    "title": "1 in 4 dollars spent on AI goes to waste, report finds",
-    "link": "https://www.hrdive.com/news/control-AI-costs-spending-harness/826579/",
-    "summary": "More than half of businesses lack a dedicated owner for artificial intelligence costs, which can lead to overspend, according to a Harness report.",
+    "id": "news-philadelphia-dei-officer-alleges-she-was-fired-for-reporting-1785444960000",
+    "title": "Philadelphia DEI officer alleges she was fired for reporting a Black worker’s harassment",
+    "link": "https://www.hrdive.com/news/ex-dei-officer-philadelphia-lawsuit/826633/",
+    "summary": "The officer also said she was forbidden to speak publicly about equity.&nbsp;",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
@@ -336,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-synthetic-user-startup-simile-raises-200m-at-2b-valuation-5--1785433811000",
-    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile",
+    "id": "news-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the--1785437878000",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -362,23 +361,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-much-is-hybrid-workplace-coordination-costing-companies-1785423060000",
-    "title": "How much is hybrid workplace coordination costing companies?",
-    "link": "https://www.hrdive.com/news/hybrid-workplace-coordination-costing-companies/826575/",
-    "summary": "Navigating shifting schedules and coordinating in-person meetings may be creating friction, per a survey from an operations platform.",
+    "id": "news-nearly-half-of-workers-say-they-d-let-ai-negotiate-their-pay-1785433380000",
+    "title": "Nearly half of workers say they’d let AI negotiate their pay",
+    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-theyd-let-ai-negotiate-their-pay/826476/",
+    "summary": "One-third of U.S. adults have already asked artificial intelligence about their salary, a raise, a bonus or how to negotiate, a recent report showed.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
     "id": "news-morror-art-a2-1785407123000",
     "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
     "link": "https://36kr.com/p/3917989583236738?f=rss",
-    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已���破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地",
+    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -892,25 +892,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1135589",
     "postedAt": "2026-07-28",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135618",
-    "title": "Search",
-    "company": "Ardsley Facilities &amp; Outdoor Management Ltd",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "That page can’t be found",
-      "It looks like nothing was found at this location",
-      "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjE4NS40Ny4xMzA= when applying to show you read the job post completely (#RMTcyLjE4NS40Ny4xMzA=)"
-    ],
-    "skills": [],
-    "location": "Thorpe On The Hill, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-search-ardsley-facilities-amp-outdoor-management-ltd-1135618",
-    "postedAt": "2026-07-27",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T19:19:03.616Z';
+export const dataFetchedAt = '2026-07-30T21:03:33.677Z';
