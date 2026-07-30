@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-microsoft-is-openly-competing-with-openai-anthropic-more-tha-1785370866000",
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "id": "news-ftc-sues-hims-038-hers-for-allegedly-sharing-patients-8217-m-1785418252000",
+    "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
+    "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+    "summary": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -28,15 +27,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-see-benefits-of-hybrid-work-as-workers-accept-trad-1785411012000",
-    "title": "Employers see benefits of hybrid work as workers accept tradeoffs for greater flexibility",
-    "link": "https://hrexecutive.com/employers-see-benefits-of-hybrid-work-as-workers-accept-tradeoffs-for-greater-flexibility/",
-    "summary": "The future of hybrid work depends in part on who is being asked. In late 2024, eight in 10 CEOs believed that most workers would be back in the physical workplace in the next three years, 17 percent envisioned a world where most roles were hybrid and only 4 percent expected workers to be remote. [&#8230;] The post Employers see benefits of hybrid work as workers accept tradeoffs for greater flexibility appeared first on HR Executive .",
+    "id": "news-at-pmi-culture-and-ai-transformation-go-hand-in-hand-1785414649000",
+    "title": "At PMI, culture and AI transformation go hand-in-hand",
+    "link": "https://hrexecutive.com/at-pmi-culture-and-ai-transformation-go-hand-in-hand/",
+    "summary": "Company culture is critical for AI transformation to take off, says Philip Morris International's Frederic Patitucci, a 35-year employee of the global employer. The post At PMI, culture and AI transformation go hand-in-hand appeared first on HR Executive .",
     "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization",
+      "strategy"
     ]
   },
   {
@@ -81,24 +83,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-1785411639000",
-    "title": " Meta还要给自己“加戏” ",
-    "link": "https://www.huxiu.com/article/4879484.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | AI制图 此前，Meta声称对外出租算力，引发了资本市场对算力见顶的担忧。 &nbsp; 因此，资本市场更为关注Meta等大厂的财报数据及资本开支指引。 &nbsp; 7月29日，Meta发布了财报，Q2营收增长28%，超出了市场预期。 &nbsp; 更重要的是，被视为AI投资风向标的资本开支，并没有出现市场担忧的收缩。相反，Meta将全年资本开支预期上调至1300亿至1450亿美元。 &nbsp;&nbsp; 但这都不是最大的看点。 &nbsp; 最大的看点是，在市场开始怀疑AI基础设施投资是否会放缓之际，扎克伯格还要继续放手一搏，加码算力。 &nbsp; 财报电话会上，扎克伯格表示，我明白这是一笔巨大的投资，也是一个巨大的赌注。我个人的押注是，投资于此的人将得到回报。 &nbsp; 那么，扎克伯格为何此时仍然选择豪赌算力？资本市场又会不会对此买账？ &nbsp; 为何继续加码？ &nbsp; 扎克伯格最明显的标签，就是把把All in。以前他All in 元宇宙，现在All in AI。 &nbsp; 这次，他在电话会上亲自讲了Meta AI的四条变现路径： &nbsp; 1.AI重塑广告 &nbsp; 扎克伯格反复强调“Meta广告业务同比增速高于全球所有同行广告业务，AI投入已经兑现商业回报”。本季度900万",
+    "id": "news-discouraged-1785418822000",
+    "title": " “Discouraged”，抢椅子和击鼓传花 ",
+    "link": "https://www.huxiu.com/article/4879523.html?f=rss",
+    "summary": "本文来自微信公众号： 知著网 ，作者：锡箔，原文标题：《「Discouraged」，抢椅子和击鼓传花》 「当基于恐惧的生存机制取代了基于内在价值的行为动机，社会期望与自我期望之间的界线正在变得非常模糊。」 &gt;&gt;&gt; 近日，有网友发现，抢椅子、丢手绢、击鼓传花这些小时候害怕参与的集体游戏，其实底层元素都是争抢、追赶、运气和未知，以至于长大后面对自己的好胜心，已经分不清它是真正的追求，还是只是一种被训练的本能。 许多人对这些童年游戏的畏惧和抵触，与最近引发激烈讨论的王虹教授采访中提到的“discouraged（气馁/挫败）”的状态，是否共享着同样的情感结构？ 当需要活跃气氛、迅速破冰、选出“表演节目”的小朋友时，击鼓传花这类的游戏便开始了。围坐在一起的游戏参与者们共享着同一个预设的前提，即牺牲是必要的，被选中是因为倒霉。 “击鼓传花”“丢手绢”这类游戏结构的高明之处在于，在一朵花传递出去、手帕被丢到下一个人身后的那一刻，共谋就产生了。 每个人都是这个规则的受害者，同时也是建构者。而这个结构一旦开始运转起来，甚至不需要外力的监督和压迫，仅仅依靠人的求生本能和对规则的服从就能够周而复始。 （网友发现很多集体游戏的玩法都很像规则怪谈） 在哲学上，这种个体因服从权威体制而放弃独立思考，导致道德责任缺失的行为，被称为“平庸之恶”。这是由政治哲学家汉娜·阿伦特根据对纳粹高官阿道夫·",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1785410829000",
-    "title": "兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜",
-    "link": "https://www.tmtpost.com/8085351.html",
-    "summary": "股价提前异动，受让方背景未明。",
+    "id": "news-haier-faces-a-delicate-local-balancing-act-in-thailand-after-1785418083000",
+    "title": "Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions",
+    "link": "https://www.tmtpost.com/8085651.html",
+    "summary": "When an overseas fan conflict at a Bangkok entertainment event embroiled Haier’s promotional campaign, the appliance giant found itself navigating the friction of modern fandom. The episode highlights the complex cultural and social challenges globalized manufacturers face as they transition from exporting physical goods to deep local market integration.",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -109,41 +110,44 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
-    "publishedAt": "2026-07-29",
+    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-mark-zuckerberg-predicts-that-billions-of-people-will-have-p-1785366011000",
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "publishedAt": "2026-07-29",
+    "id": "news-zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-ser-1785416943000",
+    "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+    "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+    "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
+    "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "organization"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-employer-health-plans-to-get-6-6t-in-tax-help-over-10-years-1785318316000",
-    "title": "Employer health plans to get $6.6T in tax help over 10 years",
-    "link": "https://hrexecutive.com/employer-health-plans-to-get-6-6t-in-tax-help-over-10-years/",
-    "summary": "Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
-    "publishedAt": "2026-07-29",
+    "id": "news-ai-is-erasing-the-first-rung-of-the-leadership-ladder-1785413745000",
+    "title": "AI is erasing the first rung of the leadership ladder",
+    "link": "https://hrexecutive.com/ai-is-erasing-the-first-rung-of-the-leadership-ladder/",
+    "summary": "Underneath the automation headlines, something quieter is happening, and it will prove more consequential than the job counts. The jobs AI replaces first may be the exact jobs that once taught people how to lead. The post AI is erasing the first rung of the leadership ladder appeared first on HR Executive .",
+    "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -188,10 +192,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1260-1785410637000",
-    "title": " 1260亿元大收购，这家物流巨头为何这么值钱？ ",
-    "link": "https://www.huxiu.com/article/4879490.html?f=rss",
-    "summary": "本文来自微信公众号： 物流沙龙 ，作者：小周伯通，原文标题：《1260亿元大收购！这家物流巨头为何这么值钱？》 近期，全球工业地产巨头Prologis（安博）再次向英国工业物流地产企业Segro（世格物流）发起收购要约，报价达到140亿英镑（人民币约1260亿元）。 这是Prologis过去一个多月内第四次提高报价。相比6月中旬首轮出价的126亿英镑，涨了14亿。当晚，Segro发布声明称，报价达到了可以向股东推荐的水平，并将收购谈判截止日延长至8月12日。 当然，目前交易仍存在不确定性，还有很多变数。即使双方达成共识，后续还需要经过股东批准、监管审批等多个环节。 市场上关注的重点是，Prologis为何对Segro追了一个多月，还不断提升报价？ 先来看Segro的底子。 英国最大的上市工业物流地产REIT，前身是1920年成立的Slough Trading Company。到2025年底手里有1090万平方米物业，铺在英法德等8个欧洲国家，AUM（资产管理规模）220亿英镑。截止7月29日市值为131亿英镑。 2025财年，净租赁收入为5.43亿英镑，税前调整后利润5.09亿英镑，增长8.3%，同店净租金涨了6%，客户留存率82%，出租率94.9%。同时，公司贷款价值比（LTV）约31%，财务杠杆相对稳健。 这些指标说明，Segro拥有较强的资产运营能力。 按资产价值计算，Seg",
+    "id": "news--1785417796000",
+    "title": " 极端天气下的数万座水库“升级”，如何算一笔经济账？ ",
+    "link": "https://www.huxiu.com/article/4879520.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓 2026年7月，受台风“美莎克”及其带来的强降雨影响，广西多座水库发生险情。 7月4日以来，（珠江）流域共104条河流发生超警洪水，53条河流出现有实测资料以来最大洪水，西江支流郁江发生2026年第1号洪水，多座水库发生险情。这次强降雨导致南宁、贵港等地累计降雨量均超过600毫米，多个站点降雨突破历史同期极值，部分中小型水库出现漫顶、坝体渗漏等险情。 不仅是广西。资料显示，我国水库总数、在建高坝规模均居全球首位。截至2020年，我国有水库9.8万多座，80%修建于上世纪50至70年代。中小型水库占比99%以上，土石坝占九成，坝高小于30m的低坝占92%，整体呈现“中小库多、老旧坝多、土石坝多、低坝多”的工程特点。 面对日益逼近的防洪极限，其“升级”背后是一笔庞大的经济账，且各地水库差异性大，其难题也不仅仅局限于钱。 强降雨，挑战老水库的“设计工况”极限 据水利部网站7月7日消息，7月4日以来，（珠江）流域共104条河流发生超警洪水，53条河流出现有实测资料以来最大洪水，西江支流郁江发生2026年第1号洪水，多座水库发生险情。广西日报7月7日消息称，南宁、贵港等地累计降雨量均超过600毫米，多个站点降雨突破历史同期极值，部分中小型水库出现漫顶、坝体渗漏等险情。 水利行业从业人员张平告诉界面新闻，在暴雨洪水期，水库可借助防洪库容来拦洪削峰",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -201,10 +205,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785409320000",
-    "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
-    "link": "https://www.tmtpost.com/8084639.html",
-    "summary": "医疗创新更像一场马拉松，今天成都的融资盛景，往往是过去十年，甚至二十年的科研、人才与产业建设的结果。",
+    "id": "news--1785410829000",
+    "title": "兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜",
+    "link": "https://www.tmtpost.com/8085351.html",
+    "summary": "股价提前异动，受让方背景未明。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -215,24 +219,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-1785365163000",
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "publishedAt": "2026-07-29",
+    "id": "news-spotify-adds-a-running-mode-to-its-app-1785416400000",
+    "title": "Spotify adds a running mode to its app",
+    "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+    "summary": "Running Mode will be available to Premium users on iOS in select countries",
+    "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -241,15 +244,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-for-2027-employers-to-focus-on-8216-smarter-8217-pay-strateg-1785317417000",
-    "title": "For 2027, employers to focus on &#8216;smarter&#8217; pay strategies",
-    "link": "https://hrexecutive.com/for-2027-employers-to-focus-on-smarter-pay-strategies/",
-    "summary": "A new survey finds that employers will continue shifting toward more \"targeted, performance-driven\" pay strategies. The post For 2027, employers to focus on &#8216;smarter&#8217; pay strategies appeared first on HR Executive .",
-    "publishedAt": "2026-07-29",
+    "id": "news-visa-cuts-2-600-jobs-as-ai-reshapes-how-work-gets-done-1785412817000",
+    "title": "Visa cuts 2,600 jobs as AI reshapes how work gets done",
+    "link": "https://hrexecutive.com/visa-cuts-2600-jobs-as-ai-reshapes-how-work-gets-done/",
+    "summary": "The payments giant is eliminating 7% of its workforce as it points to AI-driven efficiency and reinvests savings in growth areas. The post Visa cuts 2,600 jobs as AI reshapes how work gets done appeared first on HR Executive .",
+    "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -294,23 +298,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1785410463000",
-    "title": " 都2026了，住酒店怎么还要交押金？ ",
-    "link": "https://www.huxiu.com/article/4879485.html?f=rss",
-    "summary": "本文来自微信公众号： 酒店圈儿 ，作者：水樵 住酒店交押金，是一种生命力极其顽强的传统。 在很多人的印象里，酒店业早就进入了免押时代。快捷酒店能刷脸入住，连查房都开始取消，怎么到了某些酒店，反而还要上来先压上两千块钱？OTA已经成为主流的当下，明明房费早已在线上付清，但面对前台的一句“这边还需要做一个预授权”，不少人还是会下意识感到错愕： 这都2026了，酒店押金还「活着」啊？ 错愕之后，涌上心头的是更现实的顾虑：收费可以，收多少？退房后信用卡授权退款多久能到账？碰上周末、节假日、跨行结算，会不会平白冻结好几天？ 客人嫌它落后，酒店却不敢轻易松手。押金到底是酒店放不下的老规矩，还是消费者误会了它？ 酒店押金，到底消没消失？■ 之所以大家会产生“酒店早就不收押金”的印象，是因为消费群体占比最多的连锁酒店、快捷酒店和商务酒店，确实率先把这道流程从前台撤了下来。这类酒店讲究入住效率，客房产品相对标准化，再加上会员体系、平台订单和品牌系统已经沉淀了大量住客信息，很多风险不用再靠现场压一笔钱解决。 说得更现实一点，连锁酒店敢免押，靠的不是胆子大，而是防线厚。 高级会员的姓名、手机号、入住次数、消费记录、积分和权益都留在系统里；通过OTA信用住下单的客人，背后还有平台信用、支付账户和追偿机制替酒店站岗。毕竟没有人会为了顺走一件浴袍，把真金白银经营了几年的会员待遇一起搭进去。 但这套轻盈的玩法，",
+    "id": "news-openai-1785417630000",
+    "title": " OpenAI失控真相：管理失灵与监管悖论 ",
+    "link": "https://www.huxiu.com/article/4879519.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年7月中旬，OpenAI在一次ExploitGym中，为测试其GPT-5.6 Sol以及一个功能更强大但尚未发布的模型的网络攻击能力，主动关闭了生产级安全拒绝分类器。模型随即自主发现漏洞、逃离沙盒环境，最终利用窃取的凭证和其他漏洞入侵了Hugging Face的生产服务器。作为一家托管开源模型和数据集的AI初创公司，Hugging Face于7月16日公开披露遭“自主AI智能体系统”攻击，OpenAI则在5天后才确认该攻击来自自身。 这起事件被多家媒体称为“全球首例AI自主攻击实证”。这也印证了一些专家在2025年底所作的预测：2026年将发生首例重大的“人工智能治理”丑闻——自主或半自主人工智能工具将导致安全或合规性问题。 然而它真正的警示意义不仅在于AI“自主”和“失控”带来的恐慌，而在于一个更令人不安的事实：模型的所有行为，都是对“被赋予目标”的理性优化，即这类攻击行为来自于AI能力的提升之后的自然结果；而现行的监管框架和工具，甚至美国极具针对性的法案《人工智能事件报告法案》《人工智能终止开关法案》等，对这类事件所潜藏的巨大风险几乎无能为力。 一、OpenAI急了：一个微小管理决定背后的行业竞速 2026年7月14日当周，OpenAI参与的ExploitGym测试，是一个包含898个实例的人工",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1785409240000",
-    "title": "黄仁勋，给中国超节点带货",
-    "link": "https://www.tmtpost.com/8085024.html",
-    "summary": "被逼出来的创新。",
+    "id": "news--1785409320000",
+    "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
+    "link": "https://www.tmtpost.com/8084639.html",
+    "summary": "医疗创新更像一场马拉松，今天成都的融资盛景，往往是过去十年，甚至二十年的科研、人才与产业建设的结果。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -321,23 +326,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-hype-index-unsexy-ai-1785314577000",
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "id": "news-the-download-a-chip-talent-battle-and-deflating-ai-hype-1785327000000",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
     "publishedAt": "2026-07-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-zuckerberg-says-meta-8217-s-enterprise-ai-opportunity-extend-1785363792000",
-    "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "publishedAt": "2026-07-29",
+    "id": "news-inforcer-raises-50m-to-help-prepare-smaller-businesses-for-a-1785416400000",
+    "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+    "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+    "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
+    "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,16 +352,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-cisco-s-cpo-says-integrated-leadership-is-hr-s-new-super-1785317410000",
-    "title": "Why Cisco’s CPO says ‘integrated leadership’ is HR’s new superpower",
-    "link": "https://hrexecutive.com/why-ciscos-cpo-says-integrated-leadership-is-hrs-new-superpower/",
-    "summary": "\"Integrated leadership is, how do you hold the technology and the human side of this at the same time without letting either one win?\" asks Cisco's Kelly Jones, the opening keynoter at HR Tech Conference. The post Why Cisco’s CPO says ‘integrated leadership’ is HR’s new superpower appeared first on HR Executive .",
-    "publishedAt": "2026-07-29",
+    "id": "news-workers-are-driving-ai-adoption-faster-than-employers-1785411946000",
+    "title": "Workers are driving AI adoption faster than employers",
+    "link": "https://hrexecutive.com/workers-are-driving-ai-adoption-faster-than-employers/",
+    "summary": "Twenty-two percent of both full-time and part-time say AI is being used by individual workers for business purposes on their own initiative, without formal company-approved tools or processes. The post Workers are driving AI adoption faster than employers appeared first on HR Executive .",
+    "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -377,7 +383,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news--1785380306000",
     "title": "易方达「戒酒」",
     "link": "https://36kr.com/p/3917548470218371?f=rss",
-    "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。 目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。 7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的标杆级产品，两只基金在二季度的持仓动向，不仅反映了市场环境的变化，也呈现出头部公募机构对持有资产的最新定价与对未来投资主线的预判，对整个市场极具参考价值。 那么，在刚刚过去的二季度，张坤的投资策略发生了哪些主要变化？其背后的核心逻辑又是什么？ 01 大幅减持大消费 最新披露的基金季报显示，受基民",
+    "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 今年一骑绝尘的韩国股市在���期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。 目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。 7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的标杆级产品，两只基金在二季度的持仓动向，不仅反映了市场环境的变化，也呈现出头部公募机构对持有资产的最新定价与对未来投资主线的预判，对整个市场极具参考价值。 那么，在刚刚过去的二季度，张坤的投资策略发生了哪些主要变化？其背后的核心逻辑又是什么？ 01 大幅减持大消费 最新披露的基金季报显示，受",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -811,6 +817,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135639",
+    "title": "Télétravail Professeur Particulier",
+    "company": "TUS Media",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Vous Ãªtes Ã la recherche d'un job Ã©tudiant",
+      "Devenez professeur avec Voscours",
+      "Partagez vos connaissances avec nos Ã©lÃ¨ves: Soutien scolaire, musique, sports, langues, technologieâ¦ Acceptez le dÃ©fi et commencez dÃ¨s maintenant",
+      "DÃTAILS DE L'OFFRE Horaires de travail flexibles Lieu de travail"
+    ],
+    "skills": [],
+    "location": "Nice, Nice, Provence-Alpes-Côte d’Azur, France",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
+    "postedAt": "2026-07-29",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135638",
     "title": "LLM Engineer Freelancer",
     "company": "Monterail",
@@ -883,7 +907,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMTI3LjI0NS4xNjM= when applying to show you read the job post completely (#RMjAuMTI3LjI0NS4xNjM=)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjIxNS4yMDkuMjQy when applying to show you read the job post completely (#RMTcyLjIxNS4yMDkuMjQy)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -912,4 +936,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T11:48:27.919Z';
+export const dataFetchedAt = '2026-07-30T13:49:02.316Z';
