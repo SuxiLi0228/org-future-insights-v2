@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ftc-sues-hims-038-hers-for-allegedly-sharing-patients-8217-m-1785418252000",
-    "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
-    "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-    "summary": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
+    "id": "news-when-will-fusion-power-startup-commonwealth-fusion-systems-g-1785426336000",
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -42,24 +42,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shrm-s-insurance-carrier-says-it-s-not-on-the-hook-for-10m-j-1785357240000",
-    "title": "SHRM’s insurance carrier says it’s not on the hook for $10M jury verdict",
-    "link": "https://www.hrdive.com/news/insurance-company-sues-shrm-over-10m-race-bias-award/826513/",
-    "summary": "The insurer sued SHRM Tuesday, alleging state law prohibits it from indemnifying the organization because the jury found intentional race discrimination.",
-    "publishedAt": "2026-07-29",
+    "id": "news-how-companies-are-accidentally-training-future-leaders-to-st-1785423060000",
+    "title": "How companies are accidentally training future leaders to stay quiet",
+    "link": "https://www.hrdive.com/news/how-companies-are-accidentally-training-future-leaders-to-stay-quiet/826515/",
+    "summary": "Organizations that encourage employees to ask the questions AI can&rsquo;t answer will thrive, writes SurveyMonkey&rsquo;s CPO.",
+    "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
+      "ai",
       "organization"
     ]
   },
   {
-    "id": "news--1785407883000",
-    "title": "和我们同龄，却提前告别的人",
-    "link": "https://36kr.com/p/3918001898073737?f=rss",
-    "summary": "长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。&nbsp; 中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。 点击填写",
+    "id": "news-2026-4-6-openai-ai-1785419763000",
+    "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+    "link": "https://36kr.com/p/3917972674735747?f=rss",
+    "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行的洽谈已进入收尾阶段。（界面） OpenAI承认AI模型失控入侵事件涉及多个平台 美国开放人工智能研究中心（OpenAI）28日更新发布的调查结果显示，该公司人工智能（AI）模型失控入侵美国抱抱脸公司系统期间，还曾利用网上公开的信息，访问了多个公开服务平台上的账户。OpenAI不久前承认，该公司包括GPT-5.6 Sol在内的多个AI模型在内部评估时突破隔离测试环境，入侵了运营人工智能开源平台的美国抱抱脸公司的系统。其最新公布的调查结果显示，涉事模型在攻击过程中还访问了至少4个公开服务平台上的4个账户。其中一个账户被用作中继与暂存通道；一个账户被用于数据存储；对另外两个账户仅进行了只读访问，未用于进一步攻击抱抱脸公司的系统。OpenAI表示，已将调查结果通知相关服务提供商。（央视新闻） 三星电子：预计三季度HBM4销售额将环比增长2倍以上 三星电子7",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -83,10 +84,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-discouraged-1785418822000",
-    "title": " “Discouraged”，抢椅子和击鼓传花 ",
-    "link": "https://www.huxiu.com/article/4879523.html?f=rss",
-    "summary": "本文来自微信公众号： 知著网 ，作者：锡箔，原文标题：《「Discouraged」，抢椅子和击鼓传花》 「当基于恐惧的生存机制取代了基于内在价值的行为动机，社会期望与自我期望之间的界线正在变得非常模糊。」 &gt;&gt;&gt; 近日，有网友发现，抢椅子、丢手绢、击鼓传花这些小时候害怕参与的集体游戏，其实底层元素都是争抢、追赶、运气和未知，以至于长大后面对自己的好胜心，已经分不清它是真正的追求，还是只是一种被训练的本能。 许多人对这些童年游戏的畏惧和抵触，与最近引发激烈讨论的王虹教授采访中提到的“discouraged（气馁/挫败）”的状态，是否共享着同样的情感结构？ 当需要活跃气氛、迅速破冰、选出“表演节目”的小朋友时，击鼓传花这类的游戏便开始了。围坐在一起的游戏参与者们共享着同一个预设的前提，即牺牲是必要的，被选中是因为倒霉。 “击鼓传花”“丢手绢”这类游戏结构的高明之处在于，在一朵花传递出去、手帕被丢到下一个人身后的那一刻，共谋就产生了。 每个人都是这个规则的受害者，同时也是建构者。而这个结构一旦开始运转起来，甚至不需要外力的监督和压迫，仅仅依靠人的求生本能和对规则的服从就能够周而复始。 （网友发现很多集体游戏的玩法都很像规则怪谈） 在哲学上，这种个体因服从权威体制而放弃独立思考，导致道德责任缺失的行为，被称为“平庸之恶”。这是由政治哲学家汉娜·阿伦特根据对纳粹高官阿道夫·",
+    "id": "news--1785424591000",
+    "title": " 波音星际客机，或许今年真能重返太空 ",
+    "link": "https://www.huxiu.com/article/4879547.html?f=rss",
+    "summary": "本文来自微信公众号： NASA爱好者 ，作者：Vger 今年2月，当我们上一次关注波音星际客机的进展时，NASA刚刚正式将其2024年的载人试飞事故定性为“A类事故”，这是航天领域最严重的事故等级之一，意味着这次任务被官方认定为一次严重失败。 当时，NASA局长贾里德·艾萨克曼(Jared Isaacman)表示，NASA正在与波音合作，全面厘清星际客机存在的风险并加以整改。在问题被找出并解决之前，星际客机不会执行下一次任务，一次前往国际空间站的货运飞行。他没有给出具体的时间表。 不过，从最新消息来看，这项整改工作正在稳步推进。 “进展相当顺利” 在本周二的季度财报电话会议上，面对分析师关于波音其他航天项目的提问，波音首席执行官凯利·奥特伯格(Kelly Ortberg)给出了颇为积极的回应。 “Starliner缺陷的重新设计工作进展相当顺利，我们对此感觉相当不错。”——凯利·奥特伯格 奥特伯格所说的“缺陷”，主要指飞船的推进系统问题。正是这套系统，在星际客机首次载人飞行任务中，让NASA宇航员布奇·威尔莫尔(Butch Wilmore)和桑妮·威廉姆斯(Sunny Williams)前往国际空间站的旅程险象环生。两人最终不得不改乘SpaceX的载人龙飞船，于2025年初返回地球。 在财报会议上，奥特伯格暗示，相关整改工作大部分已经完成，目前的主要症结在于要与NASA协调出一个具",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -96,10 +97,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-haier-faces-a-delicate-local-balancing-act-in-thailand-after-1785418083000",
-    "title": "Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions",
-    "link": "https://www.tmtpost.com/8085651.html",
-    "summary": "When an overseas fan conflict at a Bangkok entertainment event embroiled Haier’s promotional campaign, the appliance giant found itself navigating the friction of modern fandom. The episode highlights the complex cultural and social challenges globalized manufacturers face as they transition from exporting physical goods to deep local market integration.",
+    "id": "news-6-30-1785423784000",
+    "title": "联创电子易主落定：寿县国资6亿接盘，30亿化债成前置条件",
+    "link": "https://www.tmtpost.com/8085809.html",
+    "summary": "江西撤退安徽接棒，联创电子卖壳迎来终局",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -123,10 +124,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-ser-1785416943000",
-    "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-    "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-    "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
+    "id": "news-meta-says-ai-is-making-it-easier-to-build-new-apps-and-more--1785426076000",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -151,11 +152,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-northwestern-mutual-must-fork-over-dei-data-in-eeoc-probe-of-1785357180000",
-    "title": "Northwestern Mutual must fork over DEI data in EEOC probe of alleged failure to promote White worker",
-    "link": "https://www.hrdive.com/news/northwestern-mutual-dei-data-eeoc-probe/826508/",
-    "summary": "The company unsuccessfully claimed that the agency&rsquo;s information requests were overbroad and too indefinite, according to a Wisconsin federal judge.",
-    "publishedAt": "2026-07-29",
+    "id": "news-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds-1785423060000",
+    "title": "1 in 4 dollars spent on AI goes to waste, report finds",
+    "link": "https://www.hrdive.com/news/control-AI-costs-spending-harness/826579/",
+    "summary": "More than half of businesses lack a dedicated owner for artificial intelligence costs, which can lead to overspend, according to a Harness report.",
+    "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -165,10 +166,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-pureblueai-2026-ai-1785407174000",
-    "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-    "link": "https://36kr.com/p/3917984470576769?f=rss",
-    "summary": "&nbsp; &nbsp; 消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿。此外，《2026年二季度中国消费者消费意愿调查报告》显示，在覆盖城乡5000名消费者的调查中，有近八成受访者认为AI已经影响自己的消费决策。 入口在迁移，规则也在被重新定义。 今年5月，36氪联合PureblueAI清蓝发布首期“2026消费品牌AI推荐力名册”，首次尝试观察消费品牌在AI决策推荐场景中的表现。 第一期研究发现，一个品牌是否能够进入AI推荐结果，不仅取决于市场认知，也取决于其产品价值是否能够被AI准确理解，以及是否与消费者具体需求形成匹配。 也就是说，品牌竞争正从过去争夺消费者认知，转向争夺具体消费场景中的优先选择。 消费者提出什么问题、品牌产品价值是否被清晰表达、用户口碑是否形成有效沉淀，正在成为影响AI推荐结果的重要因素。 继第一期发布后，36氪再次联合PureblueAI清蓝推出第二期“2026消费",
+    "id": "news--1785407883000",
+    "title": "和我们同龄，却提前告别的人",
+    "link": "https://36kr.com/p/3918001898073737?f=rss",
+    "summary": "长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。&nbsp; 中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。 点击填写",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -192,10 +193,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785417796000",
-    "title": " 极端天气下的数万座水库“升级”，如何算一笔经济账？ ",
-    "link": "https://www.huxiu.com/article/4879520.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓 2026年7月，受台风“美莎克”及其带来的强降雨影响，广西多座水库发生险情。 7月4日以来，（珠江）流域共104条河流发生超警洪水，53条河流出现有实测资料以来最大洪水，西江支流郁江发生2026年第1号洪水，多座水库发生险情。这次强降雨导致南宁、贵港等地累计降雨量均超过600毫米，多个站点降雨突破历史同期极值，部分中小型水库出现漫顶、坝体渗漏等险情。 不仅是广西。资料显示，我国水库总数、在建高坝规模均居全球首位。截至2020年，我国有水库9.8万多座，80%修建于上世纪50至70年代。中小型水库占比99%以上，土石坝占九成，坝高小于30m的低坝占92%，整体呈现“中小库多、老旧坝多、土石坝多、低坝多”的工程特点。 面对日益逼近的防洪极限，其“升级”背后是一笔庞大的经济账，且各地水库差异性大，其难题也不仅仅局限于钱。 强降雨，挑战老水库的“设计工况”极限 据水利部网站7月7日消息，7月4日以来，（珠江）流域共104条河流发生超警洪水，53条河流出现有实测资料以来最大洪水，西江支流郁江发生2026年第1号洪水，多座水库发生险情。广西日报7月7日消息称，南宁、贵港等地累计降雨量均超过600毫米，多个站点降雨突破历史同期极值，部分中小型水库出现漫顶、坝体渗漏等险情。 水利行业从业人员张平告诉界面新闻，在暴雨洪水期，水库可借助防洪库容来拦洪削峰",
+    "id": "news-lv-1785424285000",
+    "title": " 从LV舆情看跨国公司本土化必修课，到底哪里不及格？ ",
+    "link": "https://www.huxiu.com/article/4879546.html?f=rss",
+    "summary": "本文来自微信公众号： 公关九号位 ，作者：公关九号位 近日，LVMH半年报业绩会，法国巴黎银行的分析师问得很直白：中国业绩没有好转，与茉莉奶白的诉讼是否有关？CFO塞西尔·卡巴尼斯回答，知识产权是绝对的核心资产，案件仍在司法流程中，「因此我不便进一步展开评论」。 翻成大白话四个字：不便评论。从6月29日苏州中院一审判决到这场业绩会整整一个月，面对阅读量4亿的舆论风暴，这是LV唯一的正式回应。这句滴水不漏的回应背后，恰恰暴露出跨国企业在中国的惯性失分。 赢在法庭，输在舆论场 判决本身没有悬念：茉莉奶白被认定侵害LV七件四叶花卉图形注册商标，判赔合计1030万元。判决由自媒体率先公布：博主「美国尊龙」把部分判决书提供给南都湾财社，7月2日首发。 公众追问的是另一件事：四叶花与唐代宝相花、柿蒂纹高度近似，一个法国品牌凭什么对中国传统纹样主张排他权利？「LV欺负古代人不会注册商标」冲上热搜。7月10日，人民日报「人民锐评」定调：企业不能对公共文化资源先占独享，含有公共文化元素的商标，保护范围应当限缩。 LV全程没有一份完整公开声明。据36氪核查，其官方微博和小红书自7月1日后停更，官方声音只剩客服的「已记录反馈」与「不便置评」。被同情的反倒是被告茉莉奶白，不仅门店没有遭遇抵制，反而爆单，九号位在7月6日曾查询了上海部分门店午后的下单情况，几乎爆单。 （图：7月6日茉莉奶白上海部分门店订单情",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -205,10 +206,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785410829000",
-    "title": "兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜",
-    "link": "https://www.tmtpost.com/8085351.html",
-    "summary": "股价提前异动，受让方背景未明。",
+    "id": "news-7-49-56-1785421901000",
+    "title": "四年并购7家、累计耗资49亿之后，华润双鹤拟再砸56亿跨界农化丨并购一线",
+    "link": "https://www.tmtpost.com/8085679.html",
+    "summary": "本次单笔交易金额，超过此前四年并购资金总和。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -231,10 +232,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-adds-a-running-mode-to-its-app-1785416400000",
-    "title": "Spotify adds a running mode to its app",
-    "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-    "summary": "Running Mode will be available to Premium users on iOS in select countries",
+    "id": "news-netflix-lands-global-streaming-deal-for-the-walking-dead-1785425228000",
+    "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+    "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+    "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -257,24 +258,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
-    "title": "AI use may improve engagement, but only under the right conditions",
-    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
-    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
-    "publishedAt": "2026-07-29",
+    "id": "news-how-much-is-hybrid-workplace-coordination-costing-companies-1785423060000",
+    "title": "How much is hybrid workplace coordination costing companies?",
+    "link": "https://www.hrdive.com/news/hybrid-workplace-coordination-costing-companies/826575/",
+    "summary": "Navigating shifting schedules and coordinating in-person meetings may be creating friction, per a survey from an operations platform.",
+    "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-morror-art-a2-1785407123000",
-    "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
-    "link": "https://36kr.com/p/3917989583236738?f=rss",
-    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
+    "id": "news-36-pureblueai-2026-ai-1785407174000",
+    "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+    "link": "https://36kr.com/p/3917984470576769?f=rss",
+    "summary": "&nbsp; &nbsp; 消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿。此外，《2026年二季度中国消费者消费意愿调查报告》显示，在覆盖城乡5000名消费者的调查中，有近八成受访者认为AI已经影响自己的消费决策。 入口在迁移，规则也在被重新定义。 今年5月，36氪联合PureblueAI清蓝发布首期“2026消费品牌AI推荐力名册”，首次尝试观察消费品牌在AI决策推荐场景中的表现。 第一期研究发现，一个品牌是否能够进入AI推荐结果，不仅取决于市场认知，也取决于其产品价值是否能够被AI准确理解，以及是否与消费者具体需求形成匹配。 也就是说，品牌竞争正从过去争夺消费者认知，转向争夺具体消费场景中的优先选择。 消费者提出什么问题、品牌产品价值是否被清晰表达、用户口碑是否形成有效沉淀，正在成为影响AI推荐结果的重要因素。 继第一期发布后，36氪再次联合PureblueAI清蓝推出第二期“2026消费",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -298,10 +298,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1785417630000",
-    "title": " OpenAI失控真相：管理失灵与监管悖论 ",
-    "link": "https://www.huxiu.com/article/4879519.html?f=rss",
-    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年7月中旬，OpenAI在一次ExploitGym中，为测试其GPT-5.6 Sol以及一个功能更强大但尚未发布的模型的网络攻击能力，主动关闭了生产级安全拒绝分类器。模型随即自主发现漏洞、逃离沙盒环境，最终利用窃取的凭证和其他漏洞入侵了Hugging Face的生产服务器。作为一家托管开源模型和数据集的AI初创公司，Hugging Face于7月16日公开披露遭“自主AI智能体系统”攻击，OpenAI则在5天后才确认该攻击来自自身。 这起事件被多家媒体称为“全球首例AI自主攻击实证”。这也印证了一些专家在2025年底所作的预测：2026年将发生首例重大的“人工智能治理”丑闻——自主或半自主人工智能工具将导致安全或合规性问题。 然而它真正的警示意义不仅在于AI“自主”和“失控”带来的恐慌，而在于一个更令人不安的事实：模型的所有行为，都是对“被赋予目标”的理性优化，即这类攻击行为来自于AI能力的提升之后的自然结果；而现行的监管框架和工具，甚至美国极具针对性的法案《人工智能事件报告法案》《人工智能终止开关法案》等，对这类事件所潜藏的巨大风险几乎无能为力。 一、OpenAI急了：一个微小管理决定背后的行业竞速 2026年7月14日当周，OpenAI参与的ExploitGym测试，是一个包含898个实例的人工",
+    "id": "news--1785423123000",
+    "title": " 妖股跌倒，老登吃饱？ ",
+    "link": "https://www.huxiu.com/article/4879541.html?f=rss",
+    "summary": "本文来自微信公众号： 科技爆论 ，作者：爆哥 前两天，恒科难民群里一帮损友，正在看比利时暴打美国、聊得正嗨的时候，有个哥们突然冒出一句：“过两天MiniMax上市满半年，44.85%的股份要解禁，手头有MiniMax的，这几天盯紧点。” 一下把大家从世界杯的泡沫里，拽回到AI的泡沫里。 其实市场早有反应了。1月9日上市后，Minimax股价的走势和德国队差不多：开局猛如虎，后来全白忙。首日涨109%，3月冲到1330港元、市值4100亿，一度把百度都甩在身后，然后一路往下，到7月3日市值跌回1087亿。 半年时间，市值比最高时候就蒸发了七成。今天解禁日子一到，果然，盘中一度跌超20%，创近半年新低，最终收盘市值跌到了908亿。 Minimax把max跌没了，剩下个mini。 但比这市值变化更有意思的，市场这两年最信的那套估值逻辑，正在发生剧烈摇摆。 1 被重新称重的市值 MiniMax是怎样从max跌成mini的？ 倒不是它突然干了什么蠢事，主要还是撑起市值的两个东西，经不起推敲了。 首先是模型能力。MiniMax一直管自己叫“全模态第一梯队”，跟OpenAI、谷歌并肩那种。听着挺唬人对吧？但第三方评测不吃这一套。在Artificial Analysis上最高排第九，在Chatbot Arena更是四五十名开外。 自封第一梯队，排名干到五十名外，这梯队可够拥挤的。 更诚实的信号来自",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -312,10 +312,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785409320000",
-    "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
-    "link": "https://www.tmtpost.com/8084639.html",
-    "summary": "医疗创新更像一场马拉松，今天成都的融资盛景，往往是过去十年，甚至二十年的科研、人才与产业建设的结果。",
+    "id": "news-haier-faces-a-delicate-local-balancing-act-in-thailand-after-1785418083000",
+    "title": "Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions",
+    "link": "https://www.tmtpost.com/8085651.html",
+    "summary": "When an overseas fan conflict at a Bangkok entertainment event embroiled Haier’s promotional campaign, the appliance giant found itself navigating the friction of modern fandom. The episode highlights the complex cultural and social challenges globalized manufacturers face as they transition from exporting physical goods to deep local market integration.",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -339,10 +339,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inforcer-raises-50m-to-help-prepare-smaller-businesses-for-a-1785416400000",
-    "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-    "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-    "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
+    "id": "news-nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compu-1785424755000",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -365,25 +365,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
-    "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
-    "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
-    "summary": "AI can change the division of work within an organization by allowing users to perform tasks outside their typical roles, OpenAI said.",
+    "id": "news-shrm-s-insurance-carrier-says-it-s-not-on-the-hook-for-10m-j-1785357240000",
+    "title": "SHRM’s insurance carrier says it’s not on the hook for $10M jury verdict",
+    "link": "https://www.hrdive.com/news/insurance-company-sues-shrm-over-10m-race-bias-award/826513/",
+    "summary": "The insurer sued SHRM Tuesday, alleging state law prohibits it from indemnifying the organization because the jury found intentional race discrimination.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
       "organization"
     ]
   },
   {
-    "id": "news--1785380306000",
-    "title": "易方达「戒酒」",
-    "link": "https://36kr.com/p/3917548470218371?f=rss",
-    "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 今年一骑绝尘的韩国股市在���期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。 目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。 7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的标杆级产品，两只基金在二季度的持仓动向，不仅反映了市场环境的变化，也呈现出头部公募机构对持有资产的最新定价与对未来投资主线的预判，对整个市场极具参考价值。 那么，在刚刚过去的二季度，张坤的投资策略发生了哪些主要变化？其背后的核心逻辑又是什么？ 01 大幅减持大消费 最新披露的基金季报显示，受",
+    "id": "news-morror-art-a2-1785407123000",
+    "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
+    "link": "https://36kr.com/p/3917989583236738?f=rss",
+    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -907,7 +906,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjIxNS4yMDkuMjQy when applying to show you read the job post completely (#RMTcyLjIxNS4yMDkuMjQy)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjIwOC4xMjUuMTk4 when applying to show you read the job post completely (#RMTcyLjIwOC4xMjUuMTk4)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -936,4 +935,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T13:49:02.316Z';
+export const dataFetchedAt = '2026-07-30T15:49:01.274Z';
