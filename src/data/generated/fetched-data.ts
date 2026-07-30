@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-says-trump-admin-still-lacks-evidence-for-anthropic-su-1785443198000",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+    "id": "news-investors-love-ai-as-long-as-you-re-a-cloud-host-1785451301000",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -80,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785433191000",
-    "title": " 张雅琪“打卡式干活”惹争议，学霸人设从流量密码走向高风险赌局 ",
-    "link": "https://www.huxiu.com/article/4879556.html?f=rss",
-    "summary": "本文来自微信公众号： 镜象娱乐 ，作者：镜象娱乐 2026年暑期，《中餐厅》第十季播出后，从职场综艺《令人心动的offer》出圈的张雅琪引发了持续不断的舆论争议，社媒上也衍生出了“打卡式干活”的热梗。 从菜单制作敷衍、财务核算失误，到服务疏漏后的应对方式，相关话题多次登上热搜，观众的批评远超普通综艺嘉宾表现不佳的范畴。这场争议并非孤例，近年从职场观察、脑力推理等垂类综艺走出的高学历素人，一边享受着快速破圈的流量红利，一边频繁遭遇口碑翻车，从火树被吐槽综艺里“输不起”“爱甩锅”，到李嘉凯因私德问题全面退圈，学霸素人的人设保质期正在大幅缩短。 过去几年，内娱悄然形成了一套完整的学霸素人造星流水线，从垂直赛道筛选高学历候选人，依托“精英自律”标签快速积累路人盘，再通过头部综艺曝光完成流量变现，最终转型全职艺人或内容创作者。 这条路径曾被视为平台降本增效的最优解，既填补了市场对“智性人设”的需求空白，又避开了成熟艺人高片酬、人设固化的普遍问题。但随着争议案例集中爆发，这套模式的结构性缺陷正在加速暴露。 垂直赛道孵化 低成本造星的红利与捷径 学霸素人批量进入综艺行业，本质是内容市场供需关系变化的产物。 传统综艺嘉宾体系下，成熟艺人片酬高昂且人设容易固化，而普通素人嘉宾又普遍缺乏镜头表现力与话题延展性，难以撑起内容厚度。与此同时，职场观察、脑力推理等垂类综艺快速崛起，这类节目需要嘉宾具备专业背",
+    "id": "news-greed-1785451838000",
+    "title": " 【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？ ",
+    "link": "https://www.huxiu.com/article/4879558.html?f=rss",
+    "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊，原文标题：《【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？》 THE HONGJUN·ESSAY 【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？ 导语：为什么有了房子还想换大别墅？为什么赚了一百万还想赚一千万？ 贪婪，在宗教里是万恶之源，是出卖灵魂的魔鬼契约。在现实里，它是让我们终身在跑步机上疲于奔命、永远无法停下享受生活的罪魁祸首。 但如果我们回到那条唯一的生存公理——“活下去”。你就会发现，贪婪根本不是什么道德败坏。在那个没有天气预报、没有养老保险的残酷原始世界里，贪婪，是大自然赐予人类对抗“随机性死亡”的终极防御装甲。 贪婪最初是一副生存装甲，后来变成了没有终点的跑步机。 01 一、丛林生存公理：大自然没给你装“够了”的开关 想象一下，你是一个原始人，马上就要过冬了。你不知道这个冬天会有多长，也不知道大雪会不会把所有的猎物都冻死。 这时候，如果你打到了三只羊，你的想法是：“哎呀，三只羊够吃十天了，我可以休息了，做人要知足。”那么恭喜你，如果第十一天雪还没停，你就会活活饿死在山洞里。 1.唯一能对抗恐惧的，只有“过度囤积” 在残酷的自然界，灾难随时会降临：干旱、洪灾、兽群迁徙。在绝对的未知面前，没有任何一种计算能告",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -119,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-carecloud-begins-to-notify-hundreds-of-thousands-after-hacke-1785442392000",
-    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-    "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-    "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+    "id": "news-apple-says-gaming-slowdown-and-app-store-changes-hurt-servic-1785451026000",
+    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+    "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+    "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -188,16 +189,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785428021000",
-    "title": " 摩根家族如何保住了百年信托 ",
-    "link": "https://www.huxiu.com/article/4879553.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 2026年离岸信托穿透式征税引发热议，不少高净值人群开始焦虑私人财富架构的永续性。 各类家族信托方案层出不穷，却难以规避监管溯源。人们再次追问：财富如何跨越时间？百年前，摩根家族已经交出过答卷，老摩根生前因“金钱托拉斯”被审判，死后却因一单“公共信托”获得不朽。 摩根这个姓氏掌管华尔街的半壁江山已逾百年：摩根大通，全美资产规模第一的银行；摩根士丹利，顶级投行——中国金融圈叫惯了“小摩”与“大摩”。大摩小摩的offer，至今仍叫金融从业者趋之若鹜。 要看懂这份信托为什么能跨越百年而不被穿透，得走一趟双城记。罗马的一家豪华酒店，是金融朱庇特老摩根陨落的地方；纽约的一座小众图书馆，是摩根家族财富开始转化为公共遗产的地方。 纽约：从私人书房到公众图书馆 一个夏日清晨，我沿着麦迪逊大道一路向南，走进摩根图书馆。这里曾是J.P.摩根的私人书房，也是那个被报纸称作“华尔街朱庇特”的男人，存放半个旧大陆的地方。 我来这里，是因为一位在华尔街工作的老同事知道我喜欢大都会博物馆，随口说了一句：你要是喜欢大都会，更该去摩根图书馆——大都会第五大道立面的两翼，和这座图书馆，出自同一家建筑事务所。 我更直接的动机是一条挂毯。我研究克什米尔披肩的历史，以及它与其他文明之间的互鉴与影响。挂毯（tapestry）与克什米尔斜纹缂织卡尼披肩同属纬线显花的织造传统，地毯",
+    "id": "news--1785451399000",
+    "title": " 大厂调整一次组织架构，多少家庭的账本要重写？ ",
+    "link": "https://www.huxiu.com/article/4879559.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 7月30日上午，字节跳动发了一封内部邮件。 飞书产品团队并入豆包，飞书GTM团队并入火山引擎，成立\"创造力服务平台\"。 据36氪报道，这是字节2021年实行业务板块化以来，ToB业务最大的一次调整。 媒体的关注点在AI战略、在入口之争、在\"大豆包\"生态。 但没人问一个问题：这次调整，又会动多少人的工位？ 据钛媒体报道，飞书负责人谢欣向豆包负责人赵祺汇报，飞书销售负责人林婵、飞书战略及市场负责人史志隽向火山引擎负责人谭待汇报。 汇报线变了，团队边界变了，人心也变了。 据环球网报道，豆包大模型日均Token调用量已突破180万亿，字节大模型业务年化收入达40亿美元。 这些数字很漂亮，但漂亮的数字背后，是一群人在重新找自己的位置。 过去18个月，中国五大互联网公司合计裁员超13万人。 仅阿里巴巴一家，据东方财富网报道，2025年员工总数就从约19.4万降至约12.8万，一年减少6.6万人，减员比例达34%。 这13万人背后，是13万个家庭。 他们的房贷、孩子的学费、父母的医药费，都挂在那张工牌上。 大厂每次组织调整，对外讲的是战略升级、业务协同、效率提升。 对内传递的是权力重排、资源集中、人员优化。 但落到个体身上，是一个家庭的财务结构崩塌、身份认同瓦解和再就业路径断裂。 公司调一次架构，家庭的资产负债表就要重写一遍。 一、13万人的账本：五",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -228,10 +230,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-1785440656000",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "id": "news-judge-says-trump-admin-still-lacks-evidence-for-anthropic-su-1785443198000",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -296,10 +298,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bot-1785427658000",
-    "title": " 第一批BOT项目到期，环保行业迎来移交大考 ",
-    "link": "https://www.huxiu.com/article/4879552.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：首批环保特许经营项目正集中迈入到期节点。新规之下，资产移交不是合同尾声的程序动作，而是一场关乎合同、绩效、信用与化债的综合大考。 2000年前后，伴随市政公用事业市场化改革潮起，污水处理、垃圾焚烧、供水等领域的BOT项目蜂拥落地。 如今，时间的指针走到了“移交窗口”，按20至30年特许经营周期推算，2023年至2030年正是首批环保基础设施集中迈向合同终点的高峰时段。 2022年7月，深圳坂雪岗水质净化厂一期完成运营移交。作为深圳首座BOT水质净化厂和首个正式到期移交项目，它标志着早期市政公用事业市场化项目开始进入合同清算期。图源：深圳市水务局 与此同时，115号文重新校准PPP制度方向，17号令把移交从“交钥匙”升格为“性能测试、评估、移交、接管、验收”的全套程序，政府会计、国资管理、绩效评价、化债约束共同收紧。 特许经营合约到期不再是合同尾声的简单程序，而是项目合规的最后一关。本文沿着新规脉络，围绕国内首批BOT项目到期情况，拆解移交博弈的核心命题。 旧合同撞上新规则 移交不再只是\"交钥匙\" 早期BOT项目大多诞生于相对粗放的制度氛围中，地方政府急于补齐环保短板，社会资本急于切入公用事业赛道，至于最终的清算细节不曾是重点。 然而二十余年间，环保标准翻新、化债压力骤增、地方财政承压、绩效要求升级，旧框架已难以容纳新矛盾",
+    "id": "news-sloth-1785450882000",
+    "title": " 【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？ ",
+    "link": "https://www.huxiu.com/article/4879557.html?f=rss",
+    "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊，原文标题：《【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？》 THE HONGJUN·ESSAY 【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？ 导语：拖延症、摸鱼、葛优瘫……懒惰，大概是现代人最普遍的“绝症”。 在基督教里，懒惰是亵渎神明的罪；在现代社会，懒惰是被资本和成功学疯狂唾弃的残次品。我们每天都在为了“不够努力”而自我霸凌。 但如果我们把时间倒退回几十万年前，只看那条唯一的生存公理——“活下去”。你就会恍然大悟：懒惰，绝对是大自然最伟大的发明。它不是系统在罢工，而是你的大脑在极其智能地为你强行开启“省电模式”。 我们不是突然变懒，而是旧算法遇到了新任务。 01 一、丛林生存公理：乱跑乱动的人，早就饿死了 让我们回到那个吃了上顿没下顿的原始大草原。在那个世界里，没有外卖，没有冰箱。每一口肉，都是用命拼回来的；每一口野果，都要走上十几里地去摘。 在这种极端匮乏的环境下，能量（卡路里），就是唯一的硬通货。 当卡路里是硬通货，少动就是默认策略。 1.“能躺着绝不坐着”是最高级的算法 如果你是一个原始人，刚吃完一顿烤肉，肚子饱了。这时候如果你的想法是：“今天天气真好，不如我出去跑个十公里锻炼一下身体，或者去搬两块石头盖个大",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -335,10 +337,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the--1785437878000",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "id": "news-carecloud-begins-to-notify-hundreds-of-thousands-after-hacke-1785442392000",
+    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+    "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+    "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -895,4 +897,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T21:03:33.677Z';
+export const dataFetchedAt = '2026-07-30T23:01:25.290Z';
