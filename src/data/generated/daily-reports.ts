@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-07-31-auto",
+    "date": "2026-07-31",
+    "session": "auto",
+    "title": "2026-07-31 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-07-31-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: tricking LLMs, and reviving geothermal plants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
+      },
+      {
+        "id": "sig-2026-07-31-auto-2",
+        "emoji": "💡",
+        "title": "Okta buys AI security startup Permiso; source says for about $200M",
+        "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+        "detail": "来源: TechCrunch。The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      },
+      {
+        "id": "sig-2026-07-31-auto-3",
+        "emoji": "🚨",
+        "title": "Form I-9 Compliance: Meeting Audit Requirements With Confidence",
+        "summary": "Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/form-i-9-compliance-meeting-audit-requirements-with-confidence-update/"
+      },
+      {
+        "id": "sig-2026-07-31-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Do You Really Need to Pretrain Q-Functions for Online RL Fin...",
+        "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ",
+        "detail": "作者: Perry Dong, Ron Polonsky, Dorsa Sadigh。Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the Q-function be pretrained on offline data too? Conventional wisdom suggests it should, but recent results show that online RL with a randomly-initialized Q-function can result in highly performant and reliable policies without needing to pretrain the Q-function. In this paper, we systematically study whether pretraining the Q-function actually helps when fine-tuning on top of a pretrained base policy. We find, surprisingly, that naive Q-function pretraining often provides little benefit over random initialization. We show this stems from a fundamental mismatch: the Q-function",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.27203v1"
+      },
+      {
+        "id": "sig-2026-07-31-auto-5",
+        "emoji": "💼",
+        "title": "TUS Media 正在招募 Télétravail Professeur Particulier",
+        "summary": "岗位类型：业务+AI 复合岗。Vous Ãªtes Ã la recherche d'un job Ã©tudiant",
+        "detail": "技能要求: 未标注。Vous Ãªtes Ã la recherche d'un job Ã©tudiant Devenez professeur avec Voscours Partagez vos connaissances avec nos Ã©lÃ¨ves: Soutien scolaire, musique, sports, langues, technologieâ¦ Acceptez le dÃ©fi et commencez dÃ¨s maintenant DÃTAILS DE L'OFFRE Horaires de travail flexibles Lieu de travail",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "TUS Media"
+        ],
+        "sourceType": "tech",
+        "sourceName": "TUS Media",
+        "link": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-07-31-1",
+        "priority": "medium",
+        "action": "关注「The Download: tricking LLMs, and revivin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-07-31-2",
+        "priority": "low",
+        "action": "关注「Okta buys AI security startup Permiso; s」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-07-31-3",
+        "priority": "high",
+        "action": "关注「Form I-9 Compliance: Meeting Audit Requi」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-07-31-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Do You Really Need to Pretrain Q-Fu」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-07-31-5",
+        "priority": "medium",
+        "action": "关注「TUS Media 正在招募 Télétravail Professeur Pa」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TUS Media"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 55,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-07-31 生成，聚合了 30 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-07-31 00:00 - 2026-07-31 23:59"
+  },
+  {
     "id": "report-2026-07-30-auto",
     "date": "2026-07-30",
     "session": "auto",

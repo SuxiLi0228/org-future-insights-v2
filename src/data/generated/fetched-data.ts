@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-when-will-fusion-power-startup-commonwealth-fusion-systems-g-1785426336000",
-    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+    "id": "news-okta-buys-ai-security-startup-permiso-source-says-for-about--1785427782000",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -27,18 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-pmi-culture-and-ai-transformation-go-hand-in-hand-1785414649000",
-    "title": "At PMI, culture and AI transformation go hand-in-hand",
-    "link": "https://hrexecutive.com/at-pmi-culture-and-ai-transformation-go-hand-in-hand/",
-    "summary": "Company culture is critical for AI transformation to take off, says Philip Morris International's Frederic Patitucci, a 35-year employee of the global employer. The post At PMI, culture and AI transformation go hand-in-hand appeared first on HR Executive .",
+    "id": "news-form-i-9-compliance-meeting-audit-requirements-with-confiden-1785429135000",
+    "title": "Form I-9 Compliance: Meeting Audit Requirements With Confidence",
+    "link": "https://hrexecutive.com/form-i-9-compliance-meeting-audit-requirements-with-confidence-update/",
+    "summary": "Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
     "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
@@ -84,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785424591000",
-    "title": " 波音星际客机，或许今年真能重返太空 ",
-    "link": "https://www.huxiu.com/article/4879547.html?f=rss",
-    "summary": "本文来自微信公众号： NASA爱好者 ，作者：Vger 今年2月，当我们上一次关注波音星际客机的进展时，NASA刚刚正式将其2024年的载人试飞事故定性为“A类事故”，这是航天领域最严重的事故等级之一，意味着这次任务被官方认定为一次严重失败。 当时，NASA局长贾里德·艾萨克曼(Jared Isaacman)表示，NASA正在与波音合作，全面厘清星际客机存在的风险并加以整改。在问题被找出并解决之前，星际客机不会执行下一次任务，一次前往国际空间站的货运飞行。他没有给出具体的时间表。 不过，从最新消息来看，这项整改工作正在稳步推进。 “进展相当顺利” 在本周二的季度财报电话会议上，面对分析师关于波音其他航天项目的提问，波音首席执行官凯利·奥特伯格(Kelly Ortberg)给出了颇为积极的回应。 “Starliner缺陷的重新设计工作进展相当顺利，我们对此感觉相当不错。”——凯利·奥特伯格 奥特伯格所说的“缺陷”，主要指飞船的推进系统问题。正是这套系统，在星际客机首次载人飞行任务中，让NASA宇航员布奇·威尔莫尔(Butch Wilmore)和桑妮·威廉姆斯(Sunny Williams)前往国际空间站的旅程险象环生。两人最终不得不改乘SpaceX的载人龙飞船，于2025年初返回地球。 在财报会议上，奥特伯格暗示，相关整改工作大部分已经完成，目前的主要症结在于要与NASA协调出一个具",
+    "id": "news--1785428021000",
+    "title": " 摩根家族如何保住了百年信托 ",
+    "link": "https://www.huxiu.com/article/4879553.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 2026年离岸信托穿透式征税引发热议，不少高净值人群开始焦虑私人财富架构的永续性。 各类家族信托方案层出不穷，却难以规避监管溯源。人们再次追问：财富如何跨越时间？百年前，摩根家族已经交出过答卷，老摩根生前因“金钱托拉斯”被审判，死后却因一单“公共信托”获得不朽。 摩根这个姓氏掌管华尔街的半壁江山已逾百年：摩根大通，全美资产规模第一的银行；摩根士丹利，顶级投行——中国金融圈叫惯了“小摩”与“大摩”。大摩小摩的offer，至今仍叫金融从业者趋之若鹜。 要看懂这份信托为什么能跨越百年而不被穿透，得走一趟双城记。罗马的一家豪华酒店，是金融朱庇特老摩根陨落的地方；纽约的一座小众图书馆，是摩根家族财富开始转化为公共遗产的地方。 纽约：从私人书房到公众图书馆 一个夏日清晨，我沿着麦迪逊大道一路向南，走进摩根图书馆。这里曾是J.P.摩根的私人书房，也是那个被报纸称作“华尔街朱庇特”的男人，存放半个旧大陆的地方。 我来这里，是因为一位在华尔街工作的老同事知道我喜欢大都会博物馆，随口说了一句：你要是喜欢大都会，更该去摩根图书馆——大都会第五大道立面的两翼，和这座图书馆，出自同一家建筑事务所。 我更直接的动机是一条挂毯。我研究克什米尔披肩的历史，以及它与其他文明之间的互鉴与影响。挂毯（tapestry）与克什米尔斜纹缂织卡尼披肩同属纬线显花的织造传统，地毯",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -124,31 +121,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-says-ai-is-making-it-easier-to-build-new-apps-and-more--1785426076000",
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "id": "news-tesla-made-its-10-millionth-ev-1785427225000",
+    "title": "Tesla made its 10 millionth EV",
+    "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+    "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-ai-is-erasing-the-first-rung-of-the-leadership-ladder-1785413745000",
-    "title": "AI is erasing the first rung of the leadership ladder",
-    "link": "https://hrexecutive.com/ai-is-erasing-the-first-rung-of-the-leadership-ladder/",
-    "summary": "Underneath the automation headlines, something quieter is happening, and it will prove more consequential than the job counts. The jobs AI replaces first may be the exact jobs that once taught people how to lead. The post AI is erasing the first rung of the leadership ladder appeared first on HR Executive .",
+    "id": "news-at-pmi-culture-and-ai-transformation-go-hand-in-hand-1785414649000",
+    "title": "At PMI, culture and AI transformation go hand-in-hand",
+    "link": "https://hrexecutive.com/at-pmi-culture-and-ai-transformation-go-hand-in-hand/",
+    "summary": "Company culture is critical for AI transformation to take off, says Philip Morris International's Frederic Patitucci, a 35-year employee of the global employer. The post At PMI, culture and AI transformation go hand-in-hand appeared first on HR Executive .",
     "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
       "ai",
-      "organization"
+      "organization",
+      "strategy"
     ]
   },
   {
@@ -193,10 +190,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lv-1785424285000",
-    "title": " 从LV舆情看跨国公司本土化必修课，到底哪里不及格？ ",
-    "link": "https://www.huxiu.com/article/4879546.html?f=rss",
-    "summary": "本文来自微信公众号： 公关九号位 ，作者：公关九号位 近日，LVMH半年报业绩会，法国巴黎银行的分析师问得很直白：中国业绩没有好转，与茉莉奶白的诉讼是否有关？CFO塞西尔·卡巴尼斯回答，知识产权是绝对的核心资产，案件仍在司法流程中，「因此我不便进一步展开评论」。 翻成大白话四个字：不便评论。从6月29日苏州中院一审判决到这场业绩会整整一个月，面对阅读量4亿的舆论风暴，这是LV唯一的正式回应。这句滴水不漏的回应背后，恰恰暴露出跨国企业在中国的惯性失分。 赢在法庭，输在舆论场 判决本身没有悬念：茉莉奶白被认定侵害LV七件四叶花卉图形注册商标，判赔合计1030万元。判决由自媒体率先公布：博主「美国尊龙」把部分判决书提供给南都湾财社，7月2日首发。 公众追问的是另一件事：四叶花与唐代宝相花、柿蒂纹高度近似，一个法国品牌凭什么对中国传统纹样主张排他权利？「LV欺负古代人不会注册商标」冲上热搜。7月10日，人民日报「人民锐评」定调：企业不能对公共文化资源先占独享，含有公共文化元素的商标，保护范围应当限缩。 LV全程没有一份完整公开声明。据36氪核查，其官方微博和小红书自7月1日后停更，官方声音只剩客服的「已记录反馈」与「不便置评」。被同情的反倒是被告茉莉奶白，不仅门店没有遭遇抵制，反而爆单，九号位在7月6日曾查询了上海部分门店午后的下单情况，几乎爆单。 （图：7月6日茉莉奶白上海部分门店订单情",
+    "id": "news-bot-1785427658000",
+    "title": " 第一批BOT项目到期，环保行业迎来移交大考 ",
+    "link": "https://www.huxiu.com/article/4879552.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：首批环保特许经营项目正集中迈入到期节点。新规之下，资产移交不是合同尾声的程序动作，而是一场关乎合同、绩效、信用与化债的综合大考。 2000年前后，伴随市政公用事业市场化改革潮起，污水处理、垃圾焚烧、供水等领域的BOT项目蜂拥落地。 如今，时间的指针走到了“移交窗口”，按20至30年特许经营周期推算，2023年至2030年正是首批环保基础设施集中迈向合同终点的高峰时段。 2022年7月，深圳坂雪岗水质净化厂一期完成运营移交。作为深圳首座BOT水质净化厂和首个正式到期移交项目，它标志着早期市政公用事业市场化项目开始进入合同清算期。图源：深圳市水务局 与此同时，115号文重新校准PPP制度方向，17号令把移交从“交钥匙”升格为“性能测试、评估、移交、接管、验收”的全套程序，政府会计、国资管理、绩效评价、化债约束共同收紧。 特许经营合约到期不再是合同尾声的简单程序，而是项目合规的最后一关。本文沿着新规脉络，围绕国内首批BOT项目到期情况，拆解移交博弈的核心命题。 旧合同撞上新规则 移交不再只是\"交钥匙\" 早期BOT项目大多诞生于相对粗放的制度氛围中，地方政府急于补齐环保短板，社会资本急于切入公用事业赛道，至于最终的清算细节不曾是重点。 然而二十余年间，环保标准翻新、化债压力骤增、地方财政承压、绩效要求升级，旧框架已难以容纳新矛盾",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -232,10 +229,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-netflix-lands-global-streaming-deal-for-the-walking-dead-1785425228000",
-    "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-    "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-    "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+    "id": "news-when-will-fusion-power-startup-commonwealth-fusion-systems-g-1785426336000",
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -245,16 +242,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-visa-cuts-2-600-jobs-as-ai-reshapes-how-work-gets-done-1785412817000",
-    "title": "Visa cuts 2,600 jobs as AI reshapes how work gets done",
-    "link": "https://hrexecutive.com/visa-cuts-2600-jobs-as-ai-reshapes-how-work-gets-done/",
-    "summary": "The payments giant is eliminating 7% of its workforce as it points to AI-driven efficiency and reinvests savings in growth areas. The post Visa cuts 2,600 jobs as AI reshapes how work gets done appeared first on HR Executive .",
+    "id": "news-ai-is-erasing-the-first-rung-of-the-leadership-ladder-1785413745000",
+    "title": "AI is erasing the first rung of the leadership ladder",
+    "link": "https://hrexecutive.com/ai-is-erasing-the-first-rung-of-the-leadership-ladder/",
+    "summary": "Underneath the automation headlines, something quieter is happening, and it will prove more consequential than the job counts. The jobs AI replaces first may be the exact jobs that once taught people how to lead. The post AI is erasing the first rung of the leadership ladder appeared first on HR Executive .",
     "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -298,10 +296,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785423123000",
-    "title": " 妖股跌倒，老登吃饱？ ",
-    "link": "https://www.huxiu.com/article/4879541.html?f=rss",
-    "summary": "本文来自微信公众号： 科技爆论 ，作者：爆哥 前两天，恒科难民群里一帮损友，正在看比利时暴打美国、聊得正嗨的时候，有个哥们突然冒出一句：“过两天MiniMax上市满半年，44.85%的股份要解禁，手头有MiniMax的，这几天盯紧点。” 一下把大家从世界杯的泡沫里，拽回到AI的泡沫里。 其实市场早有反应了。1月9日上市后，Minimax股价的走势和德国队差不多：开局猛如虎，后来全白忙。首日涨109%，3月冲到1330港元、市值4100亿，一度把百度都甩在身后，然后一路往下，到7月3日市值跌回1087亿。 半年时间，市值比最高时候就蒸发了七成。今天解禁日子一到，果然，盘中一度跌超20%，创近半年新低，最终收盘市值跌到了908亿。 Minimax把max跌没了，剩下个mini。 但比这市值变化更有意思的，市场这两年最信的那套估值逻辑，正在发生剧烈摇摆。 1 被重新称重的市值 MiniMax是怎样从max跌成mini的？ 倒不是它突然干了什么蠢事，主要还是撑起市值的两个东西，经不起推敲了。 首先是模型能力。MiniMax一直管自己叫“全模态第一梯队”，跟OpenAI、谷歌并肩那种。听着挺唬人对吧？但第三方评测不吃这一套。在Artificial Analysis上最高排第九，在Chatbot Arena更是四五十名开外。 自封第一梯队，排名干到五十名外，这梯队可够拥挤的。 更诚实的信号来自",
+    "id": "news-google-2-0-1785427374000",
+    "title": " Google升级机器人“大脑”2.0，机器人终于知道自己干到哪一步了 ",
+    "link": "https://www.huxiu.com/article/4879551.html?f=rss",
+    "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 7月30日，Google更新了Gemini Robotics开发者文档，正式开放新一代具身推理模型Gemini Robotics ER 2预览版。 与机器人行业常见的发布会不同，这次升级没有伴随一场声势浩大的产品展示。 ER 2悄然出现在Google AI Studio及Gemini API中，开发者可以直接调用两个模型端点：一个面向常规具身推理任务，另一个面向实时音视频流和低延迟机器人智能体。 这种近乎软件更新式的发布方式，恰好透露出Google对机器人生意的理解。 它没有急于推出一台属于自己的通用人形机器人，也没有将所有能力封装在某一种本体中。Google正在做的，是把Gemini原本服务于电脑和手机的多模态推理能力，延伸到真实世界，再通过API接入不同形态的机器人。 在手机时代，Google用Android连接应用、芯片和终端；在具身智能时代，它试图再次占据连接模型、本体和工具的中间位置。 这一次，它争夺的是机器人的“高层大脑”。 机器人的规则 ER是Embodied Reasoning的缩写，中文通常被译为具身推理。 它与直接输出关节动作的视觉—语言—动作模型有所不同。Google将Gemini Robotics系列大致分为两层：VLA模型负责把视觉信息和指令转化为机器人动作；ER模型负责理解环境、拆解任务、调用工具，并判",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -339,23 +337,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compu-1785424755000",
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "id": "news-meta-says-ai-is-making-it-easier-to-build-new-apps-and-more--1785426076000",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-workers-are-driving-ai-adoption-faster-than-employers-1785411946000",
-    "title": "Workers are driving AI adoption faster than employers",
-    "link": "https://hrexecutive.com/workers-are-driving-ai-adoption-faster-than-employers/",
-    "summary": "Twenty-two percent of both full-time and part-time say AI is being used by individual workers for business purposes on their own initiative, without formal company-approved tools or processes. The post Workers are driving AI adoption faster than employers appeared first on HR Executive .",
+    "id": "news-visa-cuts-2-600-jobs-as-ai-reshapes-how-work-gets-done-1785412817000",
+    "title": "Visa cuts 2,600 jobs as AI reshapes how work gets done",
+    "link": "https://hrexecutive.com/visa-cuts-2600-jobs-as-ai-reshapes-how-work-gets-done/",
+    "summary": "The payments giant is eliminating 7% of its workforce as it points to AI-driven efficiency and reinvests savings in growth areas. The post Visa cuts 2,600 jobs as AI reshapes how work gets done appeared first on HR Executive .",
     "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
@@ -906,7 +905,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjIwOC4xMjUuMTk4 when applying to show you read the job post completely (#RMTcyLjIwOC4xMjUuMTk4)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMTcyLjE4NC4yMTEuMTQ1 when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTQ1)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -914,25 +913,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-search-ardsley-facilities-amp-outdoor-management-ltd-1135618",
     "postedAt": "2026-07-27",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135535",
-    "title": "Market Research Analyst",
-    "company": "Blend",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people",
-      "With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intellig"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "New York, New York, New York, United States",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-analyst-blend-1135535",
-    "postedAt": "2026-07-27",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T15:49:01.274Z';
+export const dataFetchedAt = '2026-07-30T17:22:21.028Z';
