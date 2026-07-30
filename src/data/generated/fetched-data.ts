@@ -2,15 +2,16 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
-    "publishedAt": "2026-07-29",
+    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -27,11 +28,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employer-health-plans-to-get-6-6t-in-tax-help-over-10-years-1785318316000",
-    "title": "Employer health plans to get $6.6T in tax help over 10 years",
-    "link": "https://hrexecutive.com/employer-health-plans-to-get-6-6t-in-tax-help-over-10-years/",
-    "summary": "Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
-    "publishedAt": "2026-07-29",
+    "id": "news-employers-see-benefits-of-hybrid-work-as-workers-accept-trad-1785411012000",
+    "title": "Employers see benefits of hybrid work as workers accept tradeoffs for greater flexibility",
+    "link": "https://hrexecutive.com/employers-see-benefits-of-hybrid-work-as-workers-accept-tradeoffs-for-greater-flexibility/",
+    "summary": "The future of hybrid work depends in part on who is being asked. In late 2024, eight in 10 CEOs believed that most workers would be back in the physical workplace in the next three years, 17 percent envisioned a world where most roles were hybrid and only 4 percent expected workers to be remote. [&#8230;] The post Employers see benefits of hybrid work as workers accept tradeoffs for greater flexibility appeared first on HR Executive .",
+    "publishedAt": "2026-07-30",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -53,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785380306000",
-    "title": "易方达「戒酒」",
-    "link": "https://36kr.com/p/3917548470218371?f=rss",
-    "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。 目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。 7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的标杆级产品，两只基金在二季度的持仓动向，不仅反映了市场环境的变化，也呈现出头部公募机构对持有资产的最新定价与对未来投资主线的预判，对整个市场极具参考价值。 那么，在刚刚过去的二季度，张坤的投资策略发生了哪些主要变化？其背后的核心逻辑又是什么？ 01 大幅减持大消费 最新披露的基金季报显示，受基民",
+    "id": "news--1785407883000",
+    "title": "和我们同龄，却提前告别的人",
+    "link": "https://36kr.com/p/3918001898073737?f=rss",
+    "summary": "长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。&nbsp; 中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。 点击填写",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -67,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pd-40-1785392083000",
-    "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
-    "link": "https://www.qbitai.com/2026/07/463012.html",
-    "summary": "最新完整技术报告出炉",
+    "id": "news-claude-code-harness-1785401875000",
+    "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+    "link": "https://www.qbitai.com/2026/07/463433.html",
+    "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
     "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
@@ -80,10 +81,117 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785398898000",
-    "title": " 代际养育困局：公婆“全包”养娃后，我彻底失去话语权 ",
-    "link": "https://www.huxiu.com/article/4879390.html?f=rss",
-    "summary": "本文来自微信公众号： 观廿 ，作者：GuanNian，编辑：黄粟，原文标题：《代际养育困局：公婆「全包」养娃后，我彻底失去话语权》 当“长辈带娃”成为当代家庭的普遍选择，这份掺杂着边界冲突、责任错位、情感绑架，以及经济依附之下话语权旁落的代际托举，在现实中往往更加复杂和沉重。 在社会支持尚不完善的育儿环境里，长辈的承揽和托底，成了年轻父母不可或缺的支撑，让他们有余力在职场站稳脚跟。但代际之间根深蒂固的生活观念、养育理念差异，早已为无数琐碎的矛盾埋下了引线。 这正是本文作者刘小云婚育后真实处境。她想挣脱束缚，却被“请不起保姆”的经济压力、“缺少平价托育资源”的现实困境、“我爸妈就我一个不能不管”的独生子孝道困住脚步。 丈夫的缺位，公婆的越界，两代人在养育问题上分歧……令她萌生了出走甚至离婚的想法。这一答案看似解脱了自己，实则将养育的责任与矛盾变相转移给了老人，让两代人都深陷疲惫与痛苦。而她也知道，围绕孩子的家庭博弈，其实是无数人无解的难题。 过度养育 “不要在这里坐，你要看着他们，这上面全都是蚂蚁。”周日难得休息，一大早我和公公一人带着一娃在楼下草地上玩。公公又一次训我没有亦步亦趋的跟着孩子。 我内心隐隐不悦，蚂蚁而已，大自然里小朋友和蚂蚁玩儿有什么好大惊小怪的。可还是硬着头皮应“好”，挪起了身子。 别人家都是婆媳矛盾，我们家是公公比婆婆还仔细，认真到较真，愁得我看见就想躲。自从公公",
+    "id": "news-meta-1785411639000",
+    "title": " Meta还要给自己“加戏” ",
+    "link": "https://www.huxiu.com/article/4879484.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | AI制图 此前，Meta声称对外出租算力，引发了资本市场对算力见顶的担忧。 &nbsp; 因此，资本市场更为关注Meta等大厂的财报数据及资本开支指引。 &nbsp; 7月29日，Meta发布了财报，Q2营收增长28%，超出了市场预期。 &nbsp; 更重要的是，被视为AI投资风向标的资本开支，并没有出现市场担忧的收缩。相反，Meta将全年资本开支预期上调至1300亿至1450亿美元。 &nbsp;&nbsp; 但这都不是最大的看点。 &nbsp; 最大的看点是，在市场开始怀疑AI基础设施投资是否会放缓之际，扎克伯格还要继续放手一搏，加码算力。 &nbsp; 财报电话会上，扎克伯格表示，我明白这是一笔巨大的投资，也是一个巨大的赌注。我个人的押注是，投资于此的人将得到回报。 &nbsp; 那么，扎克伯格为何此时仍然选择豪赌算力？资本市场又会不会对此买账？ &nbsp; 为何继续加码？ &nbsp; 扎克伯格最明显的标签，就是把把All in。以前他All in 元宇宙，现在All in AI。 &nbsp; 这次，他在电话会上亲自讲了Meta AI的四条变现路径： &nbsp; 1.AI重塑广告 &nbsp; 扎克伯格反复强调“Meta广告业务同比增速高于全球所有同行广告业务，AI投入已经兑现商业回报”。本季度900万",
+    "publishedAt": "2026-07-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1785410829000",
+    "title": "兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜",
+    "link": "https://www.tmtpost.com/8085351.html",
+    "summary": "股价提前异动，受让方背景未明。",
+    "publishedAt": "2026-07-30",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
+    "publishedAt": "2026-07-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-mark-zuckerberg-predicts-that-billions-of-people-will-have-p-1785366011000",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "publishedAt": "2026-07-29",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-employer-health-plans-to-get-6-6t-in-tax-help-over-10-years-1785318316000",
+    "title": "Employer health plans to get $6.6T in tax help over 10 years",
+    "link": "https://hrexecutive.com/employer-health-plans-to-get-6-6t-in-tax-help-over-10-years/",
+    "summary": "Budget analysts increased the federal group health tax subsidy value estimate 25% in just three years. The post Employer health plans to get $6.6T in tax help over 10 years appeared first on HR Executive .",
+    "publishedAt": "2026-07-29",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-northwestern-mutual-must-fork-over-dei-data-in-eeoc-probe-of-1785357180000",
+    "title": "Northwestern Mutual must fork over DEI data in EEOC probe of alleged failure to promote White worker",
+    "link": "https://www.hrdive.com/news/northwestern-mutual-dei-data-eeoc-probe/826508/",
+    "summary": "The company unsuccessfully claimed that the agency&rsquo;s information requests were overbroad and too indefinite, according to a Wisconsin federal judge.",
+    "publishedAt": "2026-07-29",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-36-pureblueai-2026-ai-1785407174000",
+    "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+    "link": "https://36kr.com/p/3917984470576769?f=rss",
+    "summary": "&nbsp; &nbsp; 消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿。此外，《2026年二季度中国消费者消费意愿调查报告》显示，在覆盖城乡5000名消费者的调查中，有近八成受访者认为AI已经影响自己的消费决策。 入口在迁移，规则也在被重新定义。 今年5月，36氪联合PureblueAI清蓝发布首期“2026消费品牌AI推荐力名册”，首次尝试观察消费品牌在AI决策推荐场景中的表现。 第一期研究发现，一个品牌是否能够进入AI推荐结果，不仅取决于市场认知，也取决于其产品价值是否能够被AI准确理解，以及是否与消费者具体需求形成匹配。 也就是说，品牌竞争正从过去争夺消费者认知，转向争夺具体消费场景中的优先选择。 消费者提出什么问题、品牌产品价值是否被清晰表达、用户口碑是否形成有效沉淀，正在成为影响AI推荐结果的重要因素。 继第一期发布后，36氪再次联合PureblueAI清蓝推出第二期“2026消费",
+    "publishedAt": "2026-07-30",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1785398807000",
+    "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+    "link": "https://www.qbitai.com/2026/07/463204.html",
+    "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
+    "publishedAt": "2026-07-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1260-1785410637000",
+    "title": " 1260亿元大收购，这家物流巨头为何这么值钱？ ",
+    "link": "https://www.huxiu.com/article/4879490.html?f=rss",
+    "summary": "本文来自微信公众号： 物流沙龙 ，作者：小周伯通，原文标题：《1260亿元大收购！这家物流巨头为何这么值钱？》 近期，全球工业地产巨头Prologis（安博）再次向英国工业物流地产企业Segro（世格物流）发起收购要约，报价达到140亿英镑（人民币约1260亿元）。 这是Prologis过去一个多月内第四次提高报价。相比6月中旬首轮出价的126亿英镑，涨了14亿。当晚，Segro发布声明称，报价达到了可以向股东推荐的水平，并将收购谈判截止日延长至8月12日。 当然，目前交易仍存在不确定性，还有很多变数。即使双方达成共识，后续还需要经过股东批准、监管审批等多个环节。 市场上关注的重点是，Prologis为何对Segro追了一个多月，还不断提升报价？ 先来看Segro的底子。 英国最大的上市工业物流地产REIT，前身是1920年成立的Slough Trading Company。到2025年底手里有1090万平方米物业，铺在英法德等8个欧洲国家，AUM（资产管理规模）220亿英镑。截止7月29日市值为131亿英镑。 2025财年，净租赁收入为5.43亿英镑，税前调整后利润5.09亿英镑，增长8.3%，同店净租金涨了6%，客户留存率82%，出租率94.9%。同时，公司贷款价值比（LTV）约31%，财务杠杆相对稳健。 这些指标说明，Segro拥有较强的资产运营能力。 按资产价值计算，Seg",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -93,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785398531000",
-    "title": "这家中国公司与国际工业巨头，要打通工业仿真与具身仿真",
-    "link": "https://www.tmtpost.com/8085233.html",
-    "summary": "物理AI基础设施这个层面，中国已经出现了能被国际工业巨头主动靠近的公司。",
+    "id": "news--1785409320000",
+    "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
+    "link": "https://www.tmtpost.com/8084639.html",
+    "summary": "医疗创新更像一场马拉松，今天成都的融资盛景，往往是过去十年，甚至二十年的科研、人才与产业建设的结果。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -120,17 +228,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mark-zuckerberg-predicts-that-billions-of-people-will-have-p-1785366011000",
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "id": "news-microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-1785365163000",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -146,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-northwestern-mutual-must-fork-over-dei-data-in-eeoc-probe-of-1785357180000",
-    "title": "Northwestern Mutual must fork over DEI data in EEOC probe of alleged failure to promote White worker",
-    "link": "https://www.hrdive.com/news/northwestern-mutual-dei-data-eeoc-probe/826508/",
-    "summary": "The company unsuccessfully claimed that the agency&rsquo;s information requests were overbroad and too indefinite, according to a Wisconsin federal judge.",
+    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
+    "title": "AI use may improve engagement, but only under the right conditions",
+    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
+    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
     "publishedAt": "2026-07-29",
     "source": "HR Dive",
     "tags": [
@@ -160,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785378161000",
-    "title": "希音：一家时尚品牌包裹下的科技公司",
-    "link": "https://36kr.com/p/3917513813650824?f=rss",
-    "summary": "作者 &nbsp; |&nbsp;王熠 &nbsp; 封面来源 &nbsp; |&nbsp; 企业图片&nbsp; 是时候重新认识希音了。 7月26日，希音国际（SHEIN）向港交所披露聆讯后资料集，高盛、摩根士丹利、摩根大通担任联席保荐人。从聆讯后资料集中，可以清晰地看到希音近年来的业绩表现。 2023年至2025年及2026年一季度，希音营收分别为321.03亿美元、387.48亿美元、418.47亿美元和90.52亿美元，2023年至2025年的年复合增长率达14.2%。净利润方面，同期分别为27.9亿美元、33.7亿美元、20.64亿美元以及-0.99亿美元。 2025年净利润的下滑，主因是所得税等费用的增加。去年5月，美国取消对中国进口商品的小额豁免，叠加关税上升，对2025年下半年及2026年一季度的净利润造成不利影响。 至于2026年一季度出现亏损，主要源于一笔非经营性的账面变动——今年3月，公司修改了可转换、可赎回的优先股条款，由此产生了3.28亿美元的公允亏损。这仅是会计层面的账面浮亏，不涉及真实的现金流出。 事实上，剔除短期偶发性波动的因素，希音长期增长的基础没有变。 截至2026年一季度，希音已直接服务全球约160个市场的消费者，活跃顾客达到2.81亿，主业基本盘稳固。 另据知名咨询机构GlobalData数据，2024年，希音已超越ZARA、H&amp;M和",
+    "id": "news-morror-art-a2-1785407123000",
+    "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
+    "link": "https://36kr.com/p/3917989583236738?f=rss",
+    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -174,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-alphafold-anthropic-gemini-1785392066000",
-    "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
-    "link": "https://www.qbitai.com/2026/07/463123.html",
-    "summary": "嚯，诺奖团队也被砍了",
+    "id": "news-gpt-5-6-1785397874000",
+    "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+    "link": "https://www.qbitai.com/2026/07/463297.html",
+    "summary": "OpenAI的RSI焚诀，它来了！",
     "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
@@ -187,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785398752000",
-    "title": " 女行长卸任近半年，郑州银行人事动荡结束了吗？ ",
-    "link": "https://www.huxiu.com/article/4879387.html?f=rss",
-    "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔 【正经社“银行升级战”观察之78】 2026年2月12日，郑州银行发布公告，执行董事、行长李红因个人原因辞去全部职务。这位郑州银行历史上首位女性行长，自2025年1月正式履职算起，在任仅13个月便匆匆离场。 如今，距离其卸任已近半年，这家曾因\"10人高管团队仅剩2人\"惊动业界的城商行，人事震荡是否真正告一段落？ 正经社分析师注意到，郑州银行的人事动荡并非始于李红，而是一场绵延三年的系统性调整。 时间回溯至2023年，郑州银行核心层迎来第一次大换血，执掌多年的董事长王天宇、行长申学清相继离任，赵飞升任董事长，行长职位由此进入长达18个月的空缺期，由副行长孙海刚代行。 这一阶段的调整，被市场解读为地方国资股东对银行管理层的重塑。 2024年底，从邮储银行北京分行空降的李红获批出任行长，本被寄予稳定军心、推动转型的厚望。然而上任仅两个月，便遭遇了更为剧烈的第二次震荡。2025年一季度，副行长傅春乔、郭志彬、孙海刚，行长助理刘久庆、李磊等6名核心高管集中卸任，原本10人的高管团队一度仅剩行长李红和副行长孙润华两人，多条业务线出现管理真空。 整个2025年，郑州银行董事及高级管理人员变动高达20次，累计12名董高离任，创下上市以来之最。首席信息官、总审计师等关键岗位空缺时间超过一年，至今仍未完全补齐。 作为空降的外部行长，李红在任期间未能阻止高",
+    "id": "news-2026-1785410463000",
+    "title": " 都2026了，住酒店怎么还要交押金？ ",
+    "link": "https://www.huxiu.com/article/4879485.html?f=rss",
+    "summary": "本文来自微信公众号： 酒店圈儿 ，作者：水樵 住酒店交押金，是一种生命力极其顽强的传统。 在很多人的印象里，酒店业早就进入了免押时代。快捷酒店能刷脸入住，连查房都开始取消，怎么到了某些酒店，反而还要上来先压上两千块钱？OTA已经成为主流的当下，明明房费早已在线上付清，但面对前台的一句“这边还需要做一个预授权”，不少人还是会下意识感到错愕： 这都2026了，酒店押金还「活着」啊？ 错愕之后，涌上心头的是更现实的顾虑：收费可以，收多少？退房后信用卡授权退款多久能到账？碰上周末、节假日、跨行结算，会不会平白冻结好几天？ 客人嫌它落后，酒店却不敢轻易松手。押金到底是酒店放不下的老规矩，还是消费者误会了它？ 酒店押金，到底消没消失？■ 之所以大家会产生“酒店早就不收押金”的印象，是因为消费群体占比最多的连锁酒店、快捷酒店和商务酒店，确实率先把这道流程从前台撤了下来。这类酒店讲究入住效率，客房产品相对标准化，再加上会员体系、平台订单和品牌系统已经沉淀了大量住客信息，很多风险不用再靠现场压一笔钱解决。 说得更现实一点，连锁酒店敢免押，靠的不是胆子大，而是防线厚。 高级会员的姓名、手机号、入住次数、消费记录、积分和权益都留在系统里；通过OTA信用住下单的客人，背后还有平台信用、支付账户和追偿机制替酒店站岗。毕竟没有人会为了顺走一件浴袍，把真金白银经营了几年的会员待遇一起搭进去。 但这套轻盈的玩法，",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -200,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-kimi-k3-and-open-weight-scaling-are-breaking-the-proprie-1785398523000",
-    "title": "How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence",
-    "link": "https://www.tmtpost.com/8085252.html",
-    "summary": "The release of Kimi K3, the world’s first open-weight model with 2.8 trillion parameters, has accelerated a profound shift in the artificial intelligence industry. Propelled by architectural breakthroughs and mounting commercial and regulatory pressures, the movement toward open ecosystems is eroding traditional proprietary pricing monopolies and redefining how frontier capabilities are distributed.",
+    "id": "news--1785409240000",
+    "title": "黄仁勋，给中国超节点带货",
+    "link": "https://www.tmtpost.com/8085024.html",
+    "summary": "被逼出来的创新。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -226,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-1785365163000",
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "id": "news-zuckerberg-says-meta-8217-s-enterprise-ai-opportunity-extend-1785363792000",
+    "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
     "publishedAt": "2026-07-29",
     "source": "TechCrunch",
     "tags": [
@@ -252,114 +359,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-use-may-improve-engagement-but-only-under-the-right-condi-1785335700000",
-    "title": "AI use may improve engagement, but only under the right conditions",
-    "link": "https://www.hrdive.com/news/ai-use-may-improve-engagement-but-only-under-the-right-conditions/826425/",
-    "summary": "Manager support is the key to developing enthusiastic support for artificial intelligence tools in the workplace, according to research from Gallup.",
-    "publishedAt": "2026-07-29",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-36-1785373242000",
-    "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资",
-    "link": "https://36kr.com/p/3916820073623171?f=rss",
-    "summary": "文｜张子怡 编辑｜袁斯来 硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。 蓝色涌现成立于2024年，首款产品是面向海钓场景的电助力渔轮，产品已在用户内测阶段。 相比北美、日本和欧洲等成熟市场，海钓在国内仍处于参与人群与消费市场逐步发展的阶段，但在全球有相当大的市场规模。联合国《第三次世界海洋评估》估算，全球每年约3亿人参与休闲钓鱼，其中约1.21亿人参与海洋休闲钓鱼，相关年支出至少470亿美元。 在蓝色涌现创始人兼CEO吴赛尔看来，海洋类的落地场景，虽然技术壁垒深、挑战极大，但具备极高的商业天花板和生态承载力。一旦跨越规模化门槛，海洋能容纳远超陆地的用户体量。 对海洋场景的探索，蓝色涌现选择从电助力渔轮切入。渔轮是个相当成熟的品类，不过，吴赛尔认为，传统产品主要解决机械传动和精密制造问题，而现在可以充分迁移机器人技术提升电机、电控和数据能力。 渔轮负责放线、收线和控制鱼线张力，是人与鱼直接博弈的核心装备。蓝色涌现在产品设计上，不是让机器替人钓鱼，而是增强人在海上的持久性，以及对抗环境不确定性和大鱼带来的疲劳感。电助力",
-    "publishedAt": "2026-07-30",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1785391813000",
-    "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
-    "link": "https://www.qbitai.com/2026/07/463013.html",
-    "summary": "要做硬核的事情，而非摘低垂的果实",
-    "publishedAt": "2026-07-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1785398519000",
-    "title": " AI的牛鞭效应非常诡异 ",
-    "link": "https://www.huxiu.com/article/4879386.html?f=rss",
-    "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑 01 牛鞭效应（bullwhip effect）这个词出现频率在过去两三个月里明显增加，而且大部分出现的位置都挂在算力、光模块和电力旁边。 做研究的人一碰到供需失衡、价格暴涨这类现象，尤其是发生在产业链上的，脑子里第一个蹦出来的就是它。过去几十年里每一次供需失衡，它都在场。这是一条颠扑不破的真理，每次都会起作用。 上一次是2022年。疫情期间大家过度囤货，那年上半年美国零售商的仓库全部堆满，后来的结果之一，是美联储加息加过了头，因为它看到的通胀里，有一部分是牛鞭甩的假信号。 牛鞭效应很简单：就是字面以上的图景：你拿着一条鞭子，手腕一小抖，传到鞭梢就是一大抖。供应链就是鞭子：需求的微小变化，传到供应端的时候，会层层放大。越后端，变动会越大。 拿当下举个例子（数字不严谨）。大模型应用端，需求轻微增长2%，传到大云厂商那里，可能就变成了5%；再往上游传，传到光模块、英伟达、HBM内存，可能涨到20%；再往上，传到半导体设备和能源电力，可能就是30%甚至40%。 原因也不复杂：上游供应商只能看到直接下游的订单，看不到终端的真实需求，生产又有时滞。信息不对称加上结构性时滞，每一层追求自身利益最大化的必然结果，就是信号逐级放大。 半导体是牛鞭效应的重灾区。我们耳熟能详的：三年不开锅，开锅一年顶三年；忙时忙死，闲时闲死，就是牛鞭效应的作品。 这不是道",
-    "publishedAt": "2026-07-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1785397245000",
-    "title": "中国机器人，提前经历“大疆时刻”",
-    "link": "https://www.tmtpost.com/8084201.html",
-    "summary": "当年，美国在大疆占领市场后设防；如今，中国机器人还未大规模进入，华盛顿已经决定提前关门。",
-    "publishedAt": "2026-07-30",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-openai-8217-s-predictable-hack-and-an-ai-stock--1785240600000",
-    "title": "The Download: OpenAI&#8217;s predictable hack, and an AI stock sell-off",
-    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
-    "publishedAt": "2026-07-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-zuckerberg-says-meta-8217-s-enterprise-ai-opportunity-extend-1785363792000",
-    "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "publishedAt": "2026-07-29",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-women-are-losing-first-in-ai-transformation-1785316528000",
-    "title": "Why women are losing first in AI transformation",
-    "link": "https://hrexecutive.com/why-women-are-losing-first-in-ai-transformation/",
-    "summary": "Women are more exposed to AI disruption and are less likely to experiment with the tools. What will this mean for women workers? The post Why women are losing first in AI transformation appeared first on HR Executive .",
-    "publishedAt": "2026-07-29",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
     "id": "news-hr-often-uses-chatgpt-to-complete-non-hr-tasks-according-to--1785335700000",
     "title": "HR often uses ChatGPT to complete non-HR tasks, according to OpenAI report",
     "link": "https://www.hrdive.com/news/hr-uses-chatgpt-complete-non-hr-tasks/826459/",
@@ -375,11 +374,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1-1100-ai-kimi-35-f-1785369017000",
-    "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
-    "link": "https://36kr.com/p/3917362478148993?f=rss",
-    "summary": "今日热点导览 C长鑫成交额达400亿元 国家烟草专卖局约谈爱奇迹（深圳）技术有限公司 外交部回应美国实施先进机器人进口限制 宝马拟在德国裁员数千人，通过自愿离职计划削减成本 美联储宣布维持利率不变 TOP3大新闻 Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐 超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府“支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间7月28日发布，并获得了Anthropic与OpenAI的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、OpenAI首席科学家雅各布・帕霍茨基、谷歌安全与对齐副总裁安卡・德拉根，以及Meta AI首席科学家赵晟佳。上周，在一场网络安全测试中，OpenAI模型突破内部测试系统，并入侵模型代码库平台 Hugging Face，引发人工智能行业从业人员警觉。（新浪财经） 桃酥吃出假牙冠？山姆、泸溪河回应 7月29日，“泸溪河桃酥吃出牙冠”登上热搜。一名来自大连的网友在社交平台发布视频称，自己在山姆超市购买的泸溪河桃酥中吃出了疑似金属牙冠的异物。该网友表示，已就此联系山姆客服，但双方未就赔偿达成一致，目前已向12315投诉，正在等待处理。 对此，山姆客服回应：“山姆高度重视食品安全与会员体验。在收到会员相",
-    "publishedAt": "2026-07-29",
+    "id": "news--1785380306000",
+    "title": "易方达「戒酒」",
+    "link": "https://36kr.com/p/3917548470218371?f=rss",
+    "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。 目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。 7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的标杆级产品，两只基金在二季度的持仓动向，不仅反映了市场环境的变化，也呈现出头部公募机构对持有资产的最新定价与对未来投资主线的预判，对整个市场极具参考价值。 那么，在刚刚过去的二季度，张坤的投资策略发生了哪些主要变化？其背后的核心逻辑又是什么？ 01 大幅减持大消费 最新披露的基金季报显示，受基民",
+    "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
       "china",
@@ -389,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workbuddy-ai-office-1785389406000",
-    "title": "WorkBuddy重大升级，AI时代的Office来了",
-    "link": "https://www.qbitai.com/2026/07/462979.html",
-    "summary": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
+    "id": "news--1785397657000",
+    "title": "李飞飞的世界模型，终于开始训练机器人了",
+    "link": "https://www.qbitai.com/2026/07/463217.html",
+    "summary": "李飞飞老师的World Labs，补了块关键拼图",
     "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
@@ -884,7 +883,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuOS4xODMuNTE= when applying to show you read the job post completely (#RMjAuOS4xODMuNTE=)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMTI3LjI0NS4xNjM= when applying to show you read the job post completely (#RMjAuMTI3LjI0NS4xNjM=)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -913,4 +912,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T08:17:34.696Z';
+export const dataFetchedAt = '2026-07-30T11:48:27.919Z';
