@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1785371479000",
-    "title": "这这这…翁荔光速回OpenAI上班了",
-    "link": "https://www.qbitai.com/2026/07/462947.html",
-    "summary": "6位联合创始人——只剩2名。",
+    "id": "news-pd-40-1785392083000",
+    "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+    "link": "https://www.qbitai.com/2026/07/463012.html",
+    "summary": "最新完整技术报告出炉",
     "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
@@ -80,24 +80,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785387677000",
-    "title": " 智谱、源杰身后，站着同一个投资人：要么不做，要做就做第一 ",
-    "link": "https://www.huxiu.com/article/4879343.html?f=rss",
-    "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：李艳艳 “非共识才是风险投资的魅力。” 见习编辑｜李原编辑｜何伊凡 头图摄影｜邓攀 宇宙万物都会走向混乱，这是熵增定律揭示的残酷真相。但在米磊看来，生命和技术的全部意义，恰恰在于对抗熵增。从单细胞到人类，从石器到芯片，每一次进化都是对混乱的一次反击。 2001年，西北工业大学本科毕业的米磊进入中国科学院西安光机所（以下简称“西安光机所”）继续工作和学习。若要追问这个选择背后的缘由，很大程度上是因为他选择相信光学的未来。于是，西安光机所成为他人生的转折点之一。 2013年，米磊创办了中科创星。如今，这家硬科技投资机构管理超200亿元规模的投资基金。而米磊投资的智谱从天使轮走到万亿元市值，源杰科技市值一年涨了近20倍，中科宇航、微纳星空、智元机器人、本源量子等明星项目背后都有他的身影。他2010年提出的“硬科技”理念，已成为中国科技创新的核心话语之一。 中科闻歌上市现场来源：受访者 米磊告诉我们，他的新书《硬科技浪潮》花了十几年时间去积累、去实践、去沉淀。书的内容涵盖从宇宙大爆炸到AI革命，从46亿年的演化史到以天为单位迭代的今天，米磊试图搭建一个跨越物理学、生物学和技术史的宏大框架。 核心主线只有一个：以复杂对抗熵增。生命在对抗熵增中进化，技术在对抗熵增中迭代，而今天碳基生命的复杂度已不足以应对气候变暖、环境恶化等挑战。唯一的出路，是走向",
+    "id": "news--1785398898000",
+    "title": " 代际养育困局：公婆“全包”养娃后，我彻底失去话语权 ",
+    "link": "https://www.huxiu.com/article/4879390.html?f=rss",
+    "summary": "本文来自微信公众号： 观廿 ，作者：GuanNian，编辑：黄粟，原文标题：《代际养育困局：公婆「全包」养娃后，我彻底失去话语权》 当“长辈带娃”成为当代家庭的普遍选择，这份掺杂着边界冲突、责任错位、情感绑架，以及经济依附之下话语权旁落的代际托举，在现实中往往更加复杂和沉重。 在社会支持尚不完善的育儿环境里，长辈的承揽和托底，成了年轻父母不可或缺的支撑，让他们有余力在职场站稳脚跟。但代际之间根深蒂固的生活观念、养育理念差异，早已为无数琐碎的矛盾埋下了引线。 这正是本文作者刘小云婚育后真实处境。她想挣脱束缚，却被“请不起保姆”的经济压力、“缺少平价托育资源”的现实困境、“我爸妈就我一个不能不管”的独生子孝道困住脚步。 丈夫的缺位，公婆的越界，两代人在养育问题上分歧……令她萌生了出走甚至离婚的想法。这一答案看似解脱了自己，实则将养育的责任与矛盾变相转移给了老人，让两代人都深陷疲惫与痛苦。而她也知道，围绕孩子的家庭博弈，其实是无数人无解的难题。 过度养育 “不要在这里坐，你要看着他们，这上面全都是蚂蚁。”周日难得休息，一大早我和公公一人带着一娃在楼下草地上玩。公公又一次训我没有亦步亦趋的跟着孩子。 我内心隐隐不悦，蚂蚁而已，大自然里小朋友和蚂蚁玩儿有什么好大惊小怪的。可还是硬着头皮应“好”，挪起了身子。 别人家都是婆媳矛盾，我们家是公公比婆婆还仔细，认真到较真，愁得我看见就想躲。自从公公",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1785383798000",
-    "title": "飞渡科技：一家空间智能“隐形冠军”的显性时刻",
-    "link": "https://www.tmtpost.com/8084554.html",
-    "summary": "空间智能进入产业爆发期，赛道龙头飞渡科技海外业务持续突破，正迎来新一轮成长跃迁和资本关注窗口。",
+    "id": "news--1785398531000",
+    "title": "这家中国公司与国际工业巨头，要打通工业仿真与具身仿真",
+    "link": "https://www.tmtpost.com/8085233.html",
+    "summary": "物理AI基础设施这个层面，中国已经出现了能被国际工业巨头主动靠近的公司。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -175,11 +174,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1785324321000",
-    "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-    "link": "https://www.qbitai.com/2026/07/462943.html",
-    "summary": "中科院、北电数智等专家共探数学与AI边界",
-    "publishedAt": "2026-07-29",
+    "id": "news-alphafold-anthropic-gemini-1785392066000",
+    "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+    "link": "https://www.qbitai.com/2026/07/463123.html",
+    "summary": "嚯，诺奖团队也被砍了",
+    "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -188,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785387357000",
-    "title": " 房产落，万物生：一轮新的消费升级正在发生 ",
-    "link": "https://www.huxiu.com/article/4879340.html?f=rss",
-    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 2026年上半年，中国经济仍然面临下行压力。 GDP同比增长4.7%，房地产开发投资下降18.0%，新建商品房销售额下降13.6%，社会消费品零售总额只增长1.3%。如果只看这些总量数据，当前的消费市场依然偏弱。 资料来源：国家统计局：2026年上半年经济运行数据 把社零数据拆开，消费内部的分化已经非常明显。 上半年，剔除汽车后的消费品零售额增长2.8%，高于社零整体1.5个百分点；服务零售额增长5.3%，商品零售额增长1.1%。限额以上单位粮油食品、服装鞋帽、饮料、化妆品零售额分别增长7.4%、6.7%、6.0%和6.3%；汽车、家电、家具、建筑装潢材料分别下降12.6%、7.4%、3.7%和8.8%。 资料来源：国家统计局：2026年上半年消费市场运行情况 零售额的分化说明，居民消费没有同步收缩，家庭预算正在重新分配。大额、低频、与家庭资产扩张相关的消费继续承压，食品、服装、美妆、日用品和服务消费表现相对更好。 贝恩与Worldpanel的数据提供了另一组观察视角。2025年前三季度，中国快速消费品销售额增长1.3%，其中销量增长3.8%，平均售价下降2.4%。消费者买得更多，支付的平均价格却在下降。 资料来源：贝恩与Worldpanel：2025年中国购物者报告 至少从快消市场看，当前的消费变化并不是由普遍涨价推动的。因此",
+    "id": "news--1785398752000",
+    "title": " 女行长卸任近半年，郑州银行人事动荡结束了吗？ ",
+    "link": "https://www.huxiu.com/article/4879387.html?f=rss",
+    "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔 【正经社“银行升级战”观察之78】 2026年2月12日，郑州银行发布公告，执行董事、行长李红因个人原因辞去全部职务。这位郑州银行历史上首位女性行长，自2025年1月正式履职算起，在任仅13个月便匆匆离场。 如今，距离其卸任已近半年，这家曾因\"10人高管团队仅剩2人\"惊动业界的城商行，人事震荡是否真正告一段落？ 正经社分析师注意到，郑州银行的人事动荡并非始于李红，而是一场绵延三年的系统性调整。 时间回溯至2023年，郑州银行核心层迎来第一次大换血，执掌多年的董事长王天宇、行长申学清相继离任，赵飞升任董事长，行长职位由此进入长达18个月的空缺期，由副行长孙海刚代行。 这一阶段的调整，被市场解读为地方国资股东对银行管理层的重塑。 2024年底，从邮储银行北京分行空降的李红获批出任行长，本被寄予稳定军心、推动转型的厚望。然而上任仅两个月，便遭遇了更为剧烈的第二次震荡。2025年一季度，副行长傅春乔、郭志彬、孙海刚，行长助理刘久庆、李磊等6名核心高管集中卸任，原本10人的高管团队一度仅剩行长李红和副行长孙润华两人，多条业务线出现管理真空。 整个2025年，郑州银行董事及高级管理人员变动高达20次，累计12名董高离任，创下上市以来之最。首席信息官、总审计师等关键岗位空缺时间超过一年，至今仍未完全补齐。 作为空降的外部行长，李红在任期间未能阻止高",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
@@ -201,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x9-1785381850000",
-    "title": "X9在高温中“趴窝”，小鹏的高端路还怎么走？",
-    "link": "https://www.tmtpost.com/8084178.html",
-    "summary": "多线扩张的小鹏，栽在了品控上。",
+    "id": "news-how-kimi-k3-and-open-weight-scaling-are-breaking-the-proprie-1785398523000",
+    "title": "How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence",
+    "link": "https://www.tmtpost.com/8085252.html",
+    "summary": "The release of Kimi K3, the world’s first open-weight model with 2.8 trillion parameters, has accelerated a profound shift in the artificial intelligence industry. Propelled by architectural breakthroughs and mounting commercial and regulatory pressures, the movement toward open ecosystems is eroding traditional proprietary pricing monopolies and redefining how frontier capabilities are distributed.",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -281,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-anthropic-ai-1785312783000",
-    "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-    "link": "https://www.qbitai.com/2026/07/462447.html",
-    "summary": "AI开始组团“挖漏洞”",
-    "publishedAt": "2026-07-29",
+    "id": "news--1785391813000",
+    "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
+    "link": "https://www.qbitai.com/2026/07/463013.html",
+    "summary": "要做硬核的事情，而非摘低垂的果实",
+    "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -294,23 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785386818000",
-    "title": " 光明乳业新帅接手增长考题 ",
-    "link": "https://www.huxiu.com/article/4879339.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：李烨 在上海一家超市的低温乳品货架上，光明仍然占据着最显眼的位置。优倍和致优被摆在消费者触手可及的显眼区域，但它们身旁，已经挤满了每日鲜语、悦鲜活以及商超自有品牌的鲜奶。 这几乎是光明乳业当下处境的一个缩影。它依然拥有品牌认知基础和成熟的供应链，但过去由区域优势构筑的护城河，正在面对越来越多竞争者，对这家拥有百年历史的乳企而言，如何将其重新转化为增长成为如今最为关键的事情。 这一任务交到了陆骏飞手中。 近期，1978年出生的陆骏飞正式出任光明乳业董事长，与1979年出生的总经理贲敏组成新的管理搭档。前者长期负责采购、市场与常温业务，后者参与推动公司数字化转型。这一组合，被寄予的期待是让光明在产品、渠道和组织效率上找到新的突破口。 针对新任高层未来的计划等相关事项，界面新闻向光明乳业发出问询，截至发稿暂未有回复。 从财务数据来看，光明乳业目前仍处于业务调整阶段。2021年，光明乳业营业收入一度接近300亿元，达到上市以来的阶段性高点。此后受乳制品市场需求变化、行业竞争加剧以及海外业务波动等因素影响，其收入规模尚未恢复至这一水平。 光明乳业首先需要稳住的，仍然是以低温奶为代表的核心业务。 2022年至2025年，光明乳业液态奶营业收入持续下滑。低温奶具有冷链半径较短、区域消费习惯较强的特点，光明乳业也长期依靠上海市场建立品牌和渠道优势。但随着更多",
+    "id": "news-ai-1785398519000",
+    "title": " AI的牛鞭效应非常诡异 ",
+    "link": "https://www.huxiu.com/article/4879386.html?f=rss",
+    "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑 01 牛鞭效应（bullwhip effect）这个词出现频率在过去两三个月里明显增加，而且大部分出现的位置都挂在算力、光模块和电力旁边。 做研究的人一碰到供需失衡、价格暴涨这类现象，尤其是发生在产业链上的，脑子里第一个蹦出来的就是它。过去几十年里每一次供需失衡，它都在场。这是一条颠扑不破的真理，每次都会起作用。 上一次是2022年。疫情期间大家过度囤货，那年上半年美国零售商的仓库全部堆满，后来的结果之一，是美联储加息加过了头，因为它看到的通胀里，有一部分是牛鞭甩的假信号。 牛鞭效应很简单：就是字面以上的图景：你拿着一条鞭子，手腕一小抖，传到鞭梢就是一大抖。供应链就是鞭子：需求的微小变化，传到供应端的时候，会层层放大。越后端，变动会越大。 拿当下举个例子（数字不严谨）。大模型应用端，需求轻微增长2%，传到大云厂商那里，可能就变成了5%；再往上游传，传到光模块、英伟达、HBM内存，可能涨到20%；再往上，传到半导体设备和能源电力，可能就是30%甚至40%。 原因也不复杂：上游供应商只能看到直接下游的订单，看不到终端的真实需求，生产又有时滞。信息不对称加上结构性时滞，每一层追求自身利益最大化的必然结果，就是信号逐级放大。 半导体是牛鞭效应的重灾区。我们耳熟能详的：三年不开锅，开锅一年顶三年；忙时忙死，闲时闲死，就是牛鞭效应的作品。 这不是道",
     "publishedAt": "2026-07-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-51-1785381848000",
-    "title": "携程认了51亿罚单，但杀熟的算法还在替你定价",
-    "link": "https://www.tmtpost.com/8084483.html",
-    "summary": "如果杀熟的算法不改，每一个打开App的消费者，仍然是算法案板上的鱼肉。",
+    "id": "news--1785397245000",
+    "title": "中国机器人，提前经历“大疆时刻”",
+    "link": "https://www.tmtpost.com/8084201.html",
+    "summary": "当年，美国在大疆占领市场后设防；如今，中国机器人还未大规模进入，华盛顿已经决定提前关门。",
     "publishedAt": "2026-07-30",
     "source": "钛媒体",
     "tags": [
@@ -389,11 +389,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-opus-5-24-3a-1785312290000",
-    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-    "link": "https://www.qbitai.com/2026/07/462384.html",
-    "summary": "百万网友已玩疯",
-    "publishedAt": "2026-07-29",
+    "id": "news-workbuddy-ai-office-1785389406000",
+    "title": "WorkBuddy重大升级，AI时代的Office来了",
+    "link": "https://www.qbitai.com/2026/07/462979.html",
+    "summary": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
+    "publishedAt": "2026-07-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -884,7 +884,7 @@ export const generatedJobs: JobPosting[] = [
       "That page can’t be found",
       "It looks like nothing was found at this location",
       "Maybe try a search",
-      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuMjIxLjY5LjE5 when applying to show you read the job post completely (#RMjAuMjIxLjY5LjE5)"
+      "Search For Search Please mention the word **BEAUTEOUS** and tag RMjAuOS4xODMuNTE= when applying to show you read the job post completely (#RMjAuOS4xODMuNTE=)"
     ],
     "skills": [],
     "location": "Thorpe On The Hill, ",
@@ -913,4 +913,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T05:14:58.323Z';
+export const dataFetchedAt = '2026-07-30T08:17:34.696Z';
