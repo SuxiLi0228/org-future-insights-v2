@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
+    "title": "The Download: Montana&#8217;s new experimental drug rules",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
     "publishedAt": "2026-07-31",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-says-its-own-ai-models-breached-three-companies-du-1785460014000",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "id": "news-tesla-reportedly-might-sell-its-china-business-ahead-of-a-sp-1785505553000",
+    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+    "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+    "summary": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-the-ai-revolution-8217-s-real-story-is-the-rising-import-1785492840000",
-    "title": "Why the AI revolution&#8217;s real story is the rising importance of human judgment",
-    "link": "https://hrexecutive.com/why-the-ai-revolutions-real-story-is-the-rising-importance-of-human-judgment/",
-    "summary": "As AI absorbs more of the execution in knowledge work, StarHub’s Tan Toi Chia argues the real transformation is happening in how work is designed—and in the human capabilities that never show up on a balance sheet. The post Why the AI revolution&#8217;s real story is the rising importance of human judgment appeared first on HR Executive .",
+    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
+    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
+    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
+    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
     "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
@@ -82,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785493326000",
-    "title": " 流量红利之后，半亩花田走向资本市场还有两道坎 ",
-    "link": "https://www.huxiu.com/article/4879790.html?f=rss",
-    "summary": "本文来自微信公众号： 美妆研究所SHOWCASE ，作者：美妆研究所 7月16日，港交所官网显示，半亩花田品牌运营方山东花物堂化妆品股份有限公司（以下简称“花物堂”）上市申请状态正式变更为\"失效\"。对此，公司回应称，这是港交所上市流程中的正常机制，后续上市工作仍在推进。 按照港交所规则，递表6个月内若未完成聆讯，申请将自动失效，企业可以补充材料后重新递表，通常需在三个月内补充最新财务数据即可重启程序。 真正值得关注的是：就在递表期间，花物堂收到了证监会针对境外上市备案的\"六连问\"，涉及股东结构穿透、新增股东入股价格公允性（利益输送）、股权激励合规性、特殊股东权利、业务资质及外资准入、全流通股份权属等多个问题。 对于一家被市场视为有望冲击\"港股国货个护第一股\"的企业来说，资本市场真正想知道的，并不是：半亩花田卖得好不好。而是：它未来还能不能持续增长。这也是今天更值得讨论的问题。 其实，IPO失效本身并不是大事，港交所不少企业都会重新递表。但真正值得关注的是：花物堂在IPO过程中，其实暴露出了不少问题。 第一、「六连问」先问股权：85%表决权够不够透明？ 证监会的补充问询，对拟赴港上市企业而言属于正常审核程序——这些问题并不意味着存在违法违规，其目的更多是进一步核实信息披露是否充分、公司治理是否规范，以及是否符合境外上市备案要求。 但从问询内容来看，也反映出资本市场关注的重点已经不再只",
+    "id": "news--1785505114000",
+    "title": " 以八仙之名：这一次，我们还在“我命由我”吗？ ",
+    "link": "https://www.huxiu.com/article/4879855.html?f=rss",
+    "summary": "本文来自微信公众号： 知著网 ，作者：斌道 「从“八仙过海”到“瞒天过海”，他们是你记忆中的“扒仙”吗？」 &gt;&gt;&gt; 这个夏天，动画电影《八仙！》以黑马之姿闯入大众视野，口碑与票房双收，为沉寂已久的“八仙”IP注入了不少新鲜活力。 影片将八位仙人拉回得道之前的凡人岁月，讲述了一群混迹市井的小人物们假扮神仙、最终拯救苍生的热血故事。观众在欢笑与感动中，似乎看到又一个“国漫神话宇宙”在缓缓升起。 近年来，中国传统神话是动画电影改编的重要素材。白蛇、孙悟空、哪吒、杨戬等“传统英雄”面孔反复出现。但热闹之余，一种似曾相识的恍惚感也悄然浮现。我们似乎在不同的神话IP里，反复邂逅着相似的叙事脉络： 一个桀骜的边缘主角，一群不靠谱的伙伴，一些冠冕堂皇的反派，一句“拯救苍生”的呐喊……动画电影似乎愈发落入了清一色的“反抗宿命”的套路：“拯救苍生”似乎成了神话改编的必经之路。 那么，《八仙！》这部动画电影，是否让我们看到了不一样的“过海”之路呢？ 一、从“仙人过海”到“凡人改命”：八仙怎样变成了这样？ 从童年时翻看的连环画、守在电视机前追过的经典剧集，到2026年暑期档上映的动画大电影《八仙！》——不过二十余年光景，“八仙”的故事已被演绎成了众多版本。 若将“八仙”的故事置于漫长的历史长河中，我们同样会发现一个有趣的事实：如今我们耳熟能详的“八仙”阵容，并非自古如此，而是经历了漫长的",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -95,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785493287000",
-    "title": "国产电纸书涨成理财产品，年轻人不想接盘了",
-    "link": "https://www.tmtpost.com/8087165.html",
-    "summary": "电子阅读的成本越来越高了。",
+    "id": "news--1785500963000",
+    "title": "皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解",
+    "link": "https://www.tmtpost.com/8087582.html",
+    "summary": "跨界屡败主业承压背后，顶级天使投资人的入局逻辑待解。",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
@@ -109,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
-    "publishedAt": "2026-07-30",
+    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "publishedAt": "2026-07-31",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -121,11 +119,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
-    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
-    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-    "publishedAt": "2026-07-30",
+    "id": "news-repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-start-1785499200000",
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+    "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+    "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,11 +132,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-form-i-9-compliance-meeting-audit-requirements-with-confiden-1785429135000",
-    "title": "Form I-9 Compliance: Meeting Audit Requirements With Confidence",
-    "link": "https://hrexecutive.com/form-i-9-compliance-meeting-audit-requirements-with-confidence-update/",
-    "summary": "Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
-    "publishedAt": "2026-07-30",
+    "id": "news-erisa-plans-could-escape-from-essential-health-benefits-rule-1785500155000",
+    "title": "ERISA plans could escape from essential health benefits rules",
+    "link": "https://hrexecutive.com/erisa-plans-could-escape-from-essential-health-benefits-rules/",
+    "summary": "A new House bill would free employer coverage from the standard Affordable Care Act health plan template. The post ERISA plans could escape from essential health benefits rules appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -187,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785493211000",
-    "title": " 中美电影市场，都在颠覆过往 ",
-    "link": "https://www.huxiu.com/article/4879789.html?f=rss",
-    "summary": "本文来自微信公众号： 影视独舌 ，作者：满囤儿 领先北美两天上映的《蜘蛛侠：崭新之日》在内地取得了超出预期的开门红——零点场票房2726.5万人民币，首日票房2.37亿元，两日票房3.61亿元。 进入本世纪20年代后，只有《速度与激情9》《哥斯拉大战金刚》《阿凡达：水之道》《侏罗纪世界3》《速度与激情10》《哥斯拉大战金刚2：帝国崛起》《疯狂动物城2》《阿凡达3》等不超过十部大片实现了中美同步大卖。 而好莱坞的票房爆款新贵们，如《黑豹2》《新蝙蝠侠》《超级马力欧兄弟大电影》《头脑特工队2》《魔法坏女巫》《海洋奇缘2》《星际宝贝史迪奇》《超人》《迈克尔·杰克逊：巨星之路》《穿普拉达的女王2》等，来到中国后大都显得水土不服，票房表现要么不温不火，要么无甚水花。 现在，好莱坞电影能在内地票房大爆的情况，一年很难超过两次。中美观众在审美趣味上，越来越不同步了。 然而，不同步的只是审美趣味，影响的是某一部具体作品的命运。如果我们把中美电影市场综合起来对比，会发现相似作品之间多多少少都有着命运上的相似。 作为全球唯二的超大体量电影市场，中国内地和北美有着相当大程度的同调——它们不约而同地进入了颠覆、变革的年份。 01 今年截至目前，北美票房榜前两位分别是《玩具总动员5》（4.52亿美元）和《超级马力欧银河大电影》（4.30亿美元）。 虽然这两部影片在内地的票房表现一般，但如果对比内地票房榜，它",
+    "id": "news--1785504893000",
+    "title": " 近二十位文旅从业者：暑期游客预算收紧，赚钱更难 ",
+    "link": "https://www.huxiu.com/article/4879854.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：郑淯心 在七月的末尾，经济观察报记者调研了近二十位文旅从业者，他们的共同感受是：这个暑期“旺丁不旺财”：游客出门了，预算收紧了；家庭出行了，更会比价了；流量还在，转化变难了。 往年暑期旺季，管理着长沙几家高星酒店的负责人王勇总会接到相关部门打来的电话——不要涨价太高。但今年他的电话没响，“不需要约谈了，我们自己就降了”。 在郑州，五星级酒店永和铂爵国际酒店市场总监东涛刚刚拿到7月的经营报表：出租率跟去年基本持平，仅波动一两个百分点，但平均房价降幅为8%。散客渠道的占比比去年同期下降了18个百分点。 在海南，三条线国际旅行社创始人周敏算了一笔账：公司整体暑期营收同比下降40%，其中青甘线下降40%，新疆线跌了60%。 在广西桂林，一家2022年11月成立的旅行社，熬过了疫情，却在今年4月注销了。同期注销的还有96家同行。老板周霖注销公司后买了一辆七座车，改做小包车服务。 国铁集团预计，7月1日至8月31日全国铁路发送旅客10.1亿人次，日均1629万人次，较2025年暑运实际客流量增长约7.1%。航班管家测算，今年暑期境内航司预计承运旅客量1.42亿人次，预计同比下降3.6%。 人气在涨，但行业普遍感受“钱没多赚”。国金证券研报显示，暑运第一周（6月29日到7月5日），全国酒店从经济型到豪华型各档次每房收入（RevPAR）全线下跌。去哪儿数据",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -200,24 +198,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785492924000",
-    "title": "门禁堵人，欠费曝光：数字化成了物业“跑路”元凶？",
-    "link": "https://www.tmtpost.com/8087171.html",
-    "summary": "技术越深入，信任越崩塌。",
+    "id": "news-autonomous-intelligence-and-the-end-of-productivity-software-1785497643000",
+    "title": "Autonomous Intelligence and the End of Productivity Software",
+    "link": "https://www.tmtpost.com/8087563.html",
+    "summary": "As major technology platforms dismantle independent workplace productivity tools to embed artificial intelligence directly into core organizational workflows, the traditional enterprise software market faces an abrupt reckoning. In a landscape transformed by low-cost reasoning models and hyper-accelerated agent development, the decade-long battle for the primary user screen is giving way to an invisible operational substrate. This restructuring forces a fundamental reexamination of whether artificial intelligence in the workplace constitutes a viable economic model or merely an elaborate opera",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -226,11 +225,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hedge-fund-situational-awareness-may-have-sold-its-public-1785453958000",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "publishedAt": "2026-07-30",
+    "id": "news-anthropic-says-its-own-ai-models-breached-three-companies-du-1785460014000",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -239,18 +238,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-pmi-culture-and-ai-transformation-go-hand-in-hand-1785414649000",
-    "title": "At PMI, culture and AI transformation go hand-in-hand",
-    "link": "https://hrexecutive.com/at-pmi-culture-and-ai-transformation-go-hand-in-hand/",
-    "summary": "Company culture is critical for AI transformation to take off, says Philip Morris International's Frederic Patitucci, a 35-year employee of the global employer. The post At PMI, culture and AI transformation go hand-in-hand appeared first on HR Executive .",
-    "publishedAt": "2026-07-30",
+    "id": "news-senate-committee-advances-sonderling-for-dol-secretary-vote-1785499234000",
+    "title": "Senate committee advances Sonderling for DOL Secretary vote",
+    "link": "https://hrexecutive.com/senate-committee-advances-sonderling-for-dol-secretary-vote/",
+    "summary": "A Senate committee on Thursday voted to advance Acting DOL Secretary Keith Sonderling's nomination as Secretary to the full Senate, which is expected to approve the former EEOC commissioner and HR Tech speaker. The post Senate committee advances Sonderling for DOL Secretary vote appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
@@ -295,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785493181000",
-    "title": " 全班无限包容，这个自闭症男孩反而失控了，为什么？ ",
-    "link": "https://www.huxiu.com/article/4879788.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：|Zoey_hmm，作者：探讨融合教育的 二年级男孩羊羊，能讲中国上下五千年历史，五年级数学卷子几乎满分，语文不看课文也能答对问题。 但他也会因为一个同学不经意的眼神，把对方的脸挠出血痕；因为一阵风碰倒了水杯，喊着要“带太平天国炸掉学校”。 他是阿斯伯格综合征孩子，智商超群，却活在自己的情绪世界里。班主任为了保护他，让全班同学都让着他，结果他误以为所有人都必须顺着他。 一位心理咨询师介入后指出：包容不等于没有边界，过度保护反而会加重他的偏执。 本文记录了羊羊在普通小学的真实经历，也探讨了一个现实问题——对于谱系孩子，学校该如何把握包容与规则之间的分寸？ 图|pexels秋兰 班里来了个“天才儿童” 我陪伴过不少自闭症谱系孩子，但羊羊，是最特别的一个。我没有受雇于他的家人，只是帮闺蜜分担压力，却因此走进了这个阿斯伯格男孩的内心世界。 我的闺蜜刘老师，是北京一名小学二年级班主任。班里转来一位阿斯伯格男孩后，她几乎每天都给我发消息，字里行间满是惊喜。 她说，这个孩子对中国上下五千年的历史人物都很清楚，校长和主任有空就找他聊，他说起秦始皇、唐太宗，连细节都不差，比我们这些成年人记得还牢。 五年级的数学卷子几乎满分，刘老师特意翻了他的错题，全是粗心漏写导致的，刘老师问他妈妈是不是提前找了补习班，他妈妈说他是自己翻哥哥的课本看会的，从来不用人催。 语文",
+    "id": "news--1785504627000",
+    "title": " 老牌假发巨头卖不动了 ",
+    "link": "https://www.huxiu.com/article/4879849.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：周芳颖 7月31日，瑞贝卡公告因实施其他风险警示停牌一天。公司股票将于8月3日复牌，简称由“瑞贝卡”变更为“ST瑞贝卡”。 河南证监局下发的《行政处罚事先告知书》显示，2022年至2025年上半年，瑞贝卡及其子公司多次向控股股东等关联方划转资金或代其偿债。为掩盖部分资金占用，公司还通过虚构资金入账、资金往来不记账等方式虚增货币资金，导致2022年年报、2023年年报和2024年半年报存在重大遗漏及虚假记载。河南证监局因此拟对公司罚款650万元，公司股票也将被实施其他风险警示，简称变更为“ST瑞贝卡”。 停牌和“戴帽”源于历史信披问题，但瑞贝卡需要处理的不只是合规整改。 2025年，瑞贝卡实现营业收入12.93亿元，同比增长4.38%，归母净亏损8190万元。公司已经连续两年亏损，2024年归母净亏损为1.18亿元。若扣除与主营业务无关以及不具备商业实质的收入，瑞贝卡2025年收入仅增长0.42%，主营业务基本停滞。 瑞贝卡正在从传统贴牌和批发业务转向自有品牌及直接面向消费者的渠道。2025年线上销售占营业收入的比重已经接近40%，弥补了美国线下贴牌业务的下滑，但也带来了更高的获客成本。 当年公司销售费用达到2.71亿元，同比增长19.96%，相当于营业收入的约21%。财务费用也增长7.89%至9169万元。该公司在年报问询回复中表示，其中主要",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -308,10 +304,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785492918000",
-    "title": "软壳鼻祖猛犸象可能也要越来越贵了",
-    "link": "https://www.tmtpost.com/8087191.html",
-    "summary": "户外市场越来越拥挤。",
+    "id": "news--1785495071000",
+    "title": "晶圆级芯片，正在升温",
+    "link": "https://www.tmtpost.com/8085583.html",
+    "summary": "芯片的边界，正在扩展到整片晶圆。",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
@@ -322,23 +318,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-reddit-reports-a-solid-quarter-but-shows-signs-of-ai-8217-s--1785452938000",
-    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
+    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
+    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -348,17 +343,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-is-erasing-the-first-rung-of-the-leadership-ladder-1785413745000",
-    "title": "AI is erasing the first rung of the leadership ladder",
-    "link": "https://hrexecutive.com/ai-is-erasing-the-first-rung-of-the-leadership-ladder/",
-    "summary": "Underneath the automation headlines, something quieter is happening, and it will prove more consequential than the job counts. The jobs AI replaces first may be the exact jobs that once taught people how to lead. The post AI is erasing the first rung of the leadership ladder appeared first on HR Executive .",
-    "publishedAt": "2026-07-30",
+    "id": "news-1-in-3-employees-are-learning-ai-skills-from-youtube-1785497414000",
+    "title": "1 in 3 employees are learning AI skills from YouTube",
+    "link": "https://hrexecutive.com/1-in-3-employees-are-learning-ai-skills-from-youtube/",
+    "summary": "New research finds employees are turning to YouTube and other platforms to build their AI skills, highlighting a training gap. The post 1 in 3 employees are learning AI skills from YouTube appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -914,4 +908,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T10:34:25.634Z';
+export const dataFetchedAt = '2026-07-31T13:54:20.271Z';
