@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-isn-8217-t-the-only-one-who-wants-to-pump-the-bra-1785518792000",
-    "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "id": "news-vc-backed-startups-commit-more-fraud-and-researchers-think-t-1785524400000",
+    "title": "VC-backed startups commit more fraud, and researchers think they know why",
+    "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+    "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -120,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont-1785516548000",
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "id": "news-sam-altman-isn-8217-t-the-only-one-who-wants-to-pump-the-bra-1785518792000",
+    "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -162,7 +162,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-36-b-ai-ceo-1785493658000",
     "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
     "link": "https://36kr.com/p/3910776673064073?f=rss",
-    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
+    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方���。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -212,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-siri-ai-could-come-with-a-paywall-for-power-users-1785514098000",
-    "title": "Siri AI could come with a paywall for power users",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "id": "news-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont-1785516548000",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -305,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gm-and-ford-are-talking-less-and-less-about-evs-1785512866000",
-    "title": "GM and Ford are talking less and less about EVs",
-    "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
-    "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+    "id": "news-siri-ai-could-come-with-a-paywall-for-power-users-1785514098000",
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -899,31 +899,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
     "postedAt": "2026-07-28",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135555",
-    "title": "AI Intern",
-    "company": "CertifyOS",
-    "category": "pure_ai",
-    "responsibilities": [
-      "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare",
-      "Today, healthcare organizations rely on fragmented and outdated provider data",
-      "This creates unnecessary administrative work, regulatory risk, and higher costs across the system",
-      "Weâre solving that problem."
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "GCP",
-      "SQL"
-    ],
-    "location": "Pune",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "postedAt": "2026-07-28",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T17:46:43.494Z';
+export const dataFetchedAt = '2026-07-31T19:18:17.887Z';
