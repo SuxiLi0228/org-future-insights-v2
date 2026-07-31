@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gm-and-ford-are-talking-less-and-less-about-evs-1785512866000",
-    "title": "GM and Ford are talking less and less about EVs",
-    "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
-    "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+    "id": "news-sam-altman-isn-8217-t-the-only-one-who-wants-to-pump-the-bra-1785518792000",
+    "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-may-not-be-training-workers-well-enough-for-widesp-1785509280000",
-    "title": "Employers may not be training workers well enough for widespread AI disruption",
-    "link": "https://www.hrdive.com/news/employers-may-not-be-training-workers-well-enough-for-widespread-ai-disrupt/826672/",
-    "summary": "Advanced skills, such as managing AI agents, do not tend to be the focus of employer training, The Conference Board said in a report.",
+    "id": "news-which-2-major-companies-in-the-food-space-announced-new-cpos-1785515640000",
+    "title": "Which 2 major companies in the food space announced new CPOs in July?",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-july-2026/826660/",
+    "summary": "Meanwhile, Visier netted a former CEO for its lead HR role and a Michigan energy company pulled an HR leader from the railroad industry.",
     "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
@@ -81,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ceo-1785509814000",
-    "title": " 爱马仕CEO在等猪肉涨价，但旧温度计量不了新体温 ",
-    "link": "https://www.huxiu.com/article/4879868.html?f=rss",
-    "summary": "本文来自微信公众号： 老张悄悄地商业观察 ，作者：弓长亮 7月29日，爱马仕在巴黎开二季度业绩发布会。CEO Axel Dumas没有聊Birkin包的等候名单，没有聊第25座皮具工坊，而是聊起了猪肉价格。 \"我正在等待猪肉价格反弹，这将是消费乐观情绪回升的信号。\" 同一天，爱马仕股价暴跌11.03%。 这不是一句失态的玩笑。Dumas在财报会上明确表示，相较于GDP增速，他更关注房地产市场、股票市场和猪肉价格的变化，因为\"奢侈品消费本质上更受财富效应驱动\"。他盯的两个温度计，上半年猪肉价格同比下降13.4%，创8年新低；新建商品房销售额下降13.6%，住宅销售额下降13.7%。 两个指标都在跌，爱马仕的CEO在等它们涨。 但中国消费者已经不等了。 一、三份财报，三种\"等\"法 同一周，三大奢侈品巨头集中交卷，画风高度一致：都在等中国市场自己回暖。 爱马仕二季度营收40.5亿欧元，略低于分析师预期的40.8亿欧元；上半年合并营收81.63亿欧元，按固定汇率增长6.1%，增速较上年同期的8.1%进一步放缓。亚太（不含日本）市场二季度增长2.5%，低于市场预期的3.3%。净利润22.38亿欧元，基本持平于上年同期的22.46亿欧元。利润率41%，现金储备129亿欧元，基本面堪称行业最强。但资本市场不买账，财报发布当天股价暴跌11.03%，收于1508.50欧元/股，盘中最大跌幅超过13%",
+    "id": "news--1785516067000",
+    "title": " 短剧有门槛了 ",
+    "link": "https://www.huxiu.com/article/4879877.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 昨天（7月31日），广电总局挂了一份文件。 《微短剧发展管理办法》，总局令第16号，9月1号生效；54条规定，微短剧行业第一份部门规章，是正儿八经的法规，效力不一样了。 9月1号之后，微短剧从流量生意，变成牌照生意。 以前是什么？ 2024年6月发个备案工作提示，2025年2月发个统筹发展通知，2026年1月把分类标准调一调。散装监管，东一榔头西一棒子。 现在54条收进一部法规里，从业者面对一套有法可依的管理框架，你看，信号挺明确：这个行业，正式进了正规军的序列了。 我直接讲核心的东西，第五条，微短剧按投资额和题材分三类，走不同的审批流程。 一类，投资额大，或者题材涉及政治、军事、外交、国家安全、统战、民族、宗教、司法、公安。 拍之前要先向省级以上广电部门申请备案公示，交申请表和剧情梗概。 拍完播出前，还得内容审核，拿《微短剧发行许可证》，证是广电总局统一印的。审核周期20个工作日，其中10天组织专家评审。 你想碰敏感题材，或者你投了大钱，从剧本到成片，广电全程盯着你。 二类，投资额相对不大的普通题材。 流程参照一类，但审批权下放给省级广电部门，不用走总局的许可证通道，省级部门还被鼓励优化流程、简化材料、加快审批。 三类，投资额低、普通题材。 不用走广电备案审核，播出平台自己审，标注节目编号就能上线，但平台得把剧目信息同步报到广电系统里",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -120,17 +120,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-samsung-expects-memory-shortage-to-worsen-through-2027-and-l-1785512278000",
-    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-    "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-    "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+    "id": "news-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont-1785516548000",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -146,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-managers-say-they-are-using-ai-to-make-layoff-decisions-1785509280000",
-    "title": "Managers say they are using AI to make layoff decisions",
-    "link": "https://www.hrdive.com/news/managers-are-using-ai-to-make-layoff-decisions/826697/",
-    "summary": "Some artificial intelligence models are being asked to weigh factors like sick days, age and tenure when assessing who to let go, one survey said.",
+    "id": "news-florida-employers-can-ding-workers-for-off-duty-medical-mari-1785515640000",
+    "title": "Florida employers can ding workers for off-duty medical marijuana use, state appeals court says",
+    "link": "https://www.hrdive.com/news/florida-employers-off-duty-medical-marijuana-use/826728/",
+    "summary": "Only a portion of states that have legalized medical marijuana also prohibit employers from discriminating against workers who have a valid prescription.",
     "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
@@ -187,19 +186,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785509328000",
-    "title": " 健身的尽头是“老头衫” ",
-    "link": "https://www.huxiu.com/article/4879867.html?f=rss",
-    "summary": "本文来自微信公众号： 精练GymSquare ，作者：芷若，原文标题：《健身的尽头是「老头衫」》 当都市高级健身白领，还沉浸于中产品牌的瑜伽裤、运动通勤服时，那些举铁多年的健身达人却早已对此无感。舒适、耐穿、平价成了他们选择健身服标准的「最终归宿」。 仅是一件无Logo的背心，就足以成为举铁猛男们的战袍，以至于那些「看尽千帆的举铁人士」笑道：「健身的尽头是老头衫」。 就像提到巨石强森，便会联想到他的肌肉和背心一般。穿上它不仅更直观看到肌肉的发力，也更放大肌肉线条的优势，极具力量张力。 同时「老头衫」也凭借它平价舒适的特点，大杀四方地成为「平价健身服」的代表。甚至在在面对「女性运动服越做越小」的窘况时，老头衫也深受很多女性举铁健身者的偏爱。 尤其在中高端健身品牌火热的当下，以老头衫为代表的平价健身服，无疑给更多健身者带来广阔的选择自由。 例如有性价比天堂之称的迪卡侬，在拼多多等电商平台上，诸多均价100左右的健身裤或背心的销量过万，基础款速干T恤的销量更是高达3万+。 英国品牌Gymshark，其亲民的价格、高品质及修身的设计，使其在11年间迅速发展成一家估值13亿美元的公司，并获得大批年轻健身者的青睐，更是不少举铁女孩的必备之选。 显然，从贵价健身服到老头衫的转变，并不是消费降级，而是健身适配，是健身焦点逐渐从服装回归本体的过程。 平价健身服，是健身的尽头 小红书上一条名为「便宜到",
-    "publishedAt": "2026-07-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1785500963000",
     "title": "皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解",
     "link": "https://www.tmtpost.com/8087582.html",
@@ -226,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-won-t-remove-all-of-xai-s-unpermitted-turbines-for-an-1785510977000",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "id": "news-siri-ai-could-come-with-a-paywall-for-power-users-1785514098000",
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -251,17 +237,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ichra-adoption-slowed-by-aca-exchange-costs-instability-1785444960000",
-    "title": "ICHRA adoption slowed by ACA exchange costs, instability",
-    "link": "https://www.hrdive.com/news/ichra-adoption-slowed-individual-market-affordability-ebri-morgan-health/826555/",
-    "summary": "Many employers are considering the coverage arrangements, but worries about the ACA marketplaces &mdash; including potentially high costs for workers &mdash; are making them hesitant to move forward, according to a survey.",
-    "publishedAt": "2026-07-30",
+    "id": "news-employers-may-not-be-training-workers-well-enough-for-widesp-1785509280000",
+    "title": "Employers may not be training workers well enough for widespread AI disruption",
+    "link": "https://www.hrdive.com/news/employers-may-not-be-training-workers-well-enough-for-widespread-ai-disrupt/826672/",
+    "summary": "Advanced skills, such as managing AI agents, do not tend to be the focus of employer training, The Conference Board said in a report.",
+    "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -288,19 +274,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785508401000",
-    "title": " 猛犸象终于卖掉了，接盘的不是安踏 ",
-    "link": "https://www.huxiu.com/article/4879864.html?f=rss",
-    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 中国资本又买下了一个国际户外品牌。 7月30日，中国头部私募股权投资机构之一CPE源峰宣布，已与欧洲私募股权机构Jacobs Capital正式签署股权购买协议，全资收购瑞士高端户外品牌猛犸象（Mammut Sports Group AG）。 CPE源峰董事总经理毛卫表示，能够成为猛犸象这一传承160余年瑞士品牌的新一代守护者和同行者，深感荣幸与珍视。交易财务细节未予披露，尚需履行常规监管审批程序，预计未来数月内完成交割。 如果放在三年前，没有人会怀疑猛犸象是一笔好生意；但放到今天，一个更现实的问题出现了：中国户外最大的时代红利，是不是已经过去了？ 过去几年，露营、飞盘、滑雪、徒步、Citywalk、Gorpcore等生活方式轮番成为消费热点，冲锋衣从专业装备变成都市白领的日常穿搭，几乎所有户外品牌都经历了一轮超预期增长。 而如今，行业增速开始回归理性，竞争者越来越多，消费者也越来越成熟。户外品牌竞争的重点，正从分享新增需求，转向争夺存量消费者。这意味着，CPE源峰今天收购猛犸象，赌的已经不是行业风口，而是品牌自身。 准确地说，它买下的不是增长，而是一道尚未完全兑现的品牌溢价。 在户外圈的心智排序里，“一鸟二象三鼠”中的“二象”指的正是猛犸象，它与始祖鸟长期被放在同一梯队讨论。 可就商业结果而言，它不但没有追上始祖鸟，甚至没有",
-    "publishedAt": "2026-07-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -332,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-1785509361000",
-    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-    "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-    "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year.",
+    "id": "news-gm-and-ford-are-talking-less-and-less-about-evs-1785512866000",
+    "title": "GM and Ford are talking less and less about EVs",
+    "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+    "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -357,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
-    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
-    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
-    "publishedAt": "2026-07-30",
+    "id": "news-managers-say-they-are-using-ai-to-make-layoff-decisions-1785509280000",
+    "title": "Managers say they are using AI to make layoff decisions",
+    "link": "https://www.hrdive.com/news/managers-are-using-ai-to-make-layoff-decisions/826697/",
+    "summary": "Some artificial intelligence models are being asked to weigh factors like sick days, age and tenure when assessing who to let go, one survey said.",
+    "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -395,6 +368,33 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news--1785495071000",
+    "title": "晶圆级芯片，正在升温",
+    "link": "https://www.tmtpost.com/8085583.html",
+    "summary": "芯片的边界，正在扩展到整片晶圆。",
+    "publishedAt": "2026-07-31",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "publishedAt": "2026-07-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
     ]
   }
 ];
@@ -825,6 +825,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135680",
+    "title": "AI Trainer Freelance Data Annotator",
+    "company": "Mindrift - Data annotation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Please submit your resume in English and indicate your level of English",
+      "At Toloka, we connect smart, curious people from around the world with freelance online tasks that train and improve artificial intelligence",
+      "What we do The Toloka Annotators connects individuals with Generative AI projects fro"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
+    "postedAt": "2026-07-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135691",
     "title": "Supply Chain &amp; Operations Specialist",
     "company": "Miss Amara",
@@ -909,4 +926,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T15:59:39.498Z';
+export const dataFetchedAt = '2026-07-31T17:46:43.494Z';

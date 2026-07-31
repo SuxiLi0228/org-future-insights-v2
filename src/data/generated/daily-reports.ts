@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-01-auto",
+    "date": "2026-08-01",
+    "session": "auto",
+    "title": "2026-08-01 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-01-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Montana&#8217;s new experimental drug rules",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+      },
+      {
+        "id": "sig-2026-08-01-auto-2",
+        "emoji": "💡",
+        "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+        "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+        "detail": "来源: TechCrunch。After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
+      },
+      {
+        "id": "sig-2026-08-01-auto-3",
+        "emoji": "🚨",
+        "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
+        "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
+        "detail": "来源: HR Executive。EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/"
+      },
+      {
+        "id": "sig-2026-08-01-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Learning to Trace Seiberg Dualities...",
+        "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ",
+        "detail": "作者: Jonathan J. Heckman, Shani Meynet, Alessandro Mininno。Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of supersymmetric quiver gauge theories. Mathematically, this involves establishing mutations of quivers, which is in turn a variation on the theme of \"learning to unknot\". On the one hand, this leads us to a practical tool for establishing the computational complexity of different dualities. On the othe",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.28628v1"
+      },
+      {
+        "id": "sig-2026-08-01-auto-5",
+        "emoji": "💼",
+        "title": "Mindrift - Data annotation 正在招募 AI Trainer Freelance Data Annotator",
+        "summary": "岗位类型：业务+AI 复合岗。Please submit your resume in English and indicate your level of English",
+        "detail": "技能要求: 未标注。Please submit your resume in English and indicate your level of English At Toloka, we connect smart, curious people from around the world with freelance online tasks that train and improve artificial intelligence What we do The Toloka Annotators connects individuals with Generative AI projects fro",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Mindrift - Data annotation"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Mindrift - Data annotation",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-01-1",
+        "priority": "medium",
+        "action": "关注「The Download: Montana&#8217;s new experi」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-01-2",
+        "priority": "low",
+        "action": "关注「Sam Altman isn&#8217;t the only one who 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-01-3",
+        "priority": "high",
+        "action": "关注「An upcoming deadline turns HR&#8217;s AI」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-01-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Learning to Trace Seiberg Dualities」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-01-5",
+        "priority": "medium",
+        "action": "关注「Mindrift - Data annotation 正在招募 AI Train」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Mindrift - Data annotation"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 55,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-01 生成，聚合了 30 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-08-01 00:00 - 2026-08-01 23:59"
+  },
+  {
     "id": "report-2026-07-31-auto",
     "date": "2026-07-31",
     "session": "auto",
