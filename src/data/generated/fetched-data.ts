@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
-    "publishedAt": "2026-07-30",
+    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "publishedAt": "2026-07-31",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -27,15 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-form-i-9-compliance-meeting-audit-requirements-with-confiden-1785429135000",
-    "title": "Form I-9 Compliance: Meeting Audit Requirements With Confidence",
-    "link": "https://hrexecutive.com/form-i-9-compliance-meeting-audit-requirements-with-confidence-update/",
-    "summary": "Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
-    "publishedAt": "2026-07-30",
+    "id": "news-why-the-ai-revolution-8217-s-real-story-is-the-rising-import-1785492840000",
+    "title": "Why the AI revolution&#8217;s real story is the rising importance of human judgment",
+    "link": "https://hrexecutive.com/why-the-ai-revolutions-real-story-is-the-rising-importance-of-human-judgment/",
+    "summary": "As AI absorbs more of the execution in knowledge work, StarHub’s Tan Toi Chia argues the real transformation is happening in how work is designed—and in the human capabilities that never show up on a balance sheet. The post Why the AI revolution&#8217;s real story is the rising importance of human judgment appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -53,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-209-1785477625000",
-    "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
-    "link": "https://36kr.com/p/3919137999957382?f=rss",
-    "summary": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看， 与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎 。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾斜。 利润端的改善同样值得关注 。公司披露， 2026年二季度实现净利润约0.30亿元 。上半年公司净亏损收窄至0.32亿元，降幅达89.6%；经调整净亏损由0.52亿元收窄48.5%至0.27亿元。 盈利能力改善主要来自两个方面。 首先，收入扩张及业务结构优化推动毛利润增长。 2026年上半年，公司整体毛利率为56.5%，同比提升1.5个百分点；其中，DeepexiOS AI级企业操作系统平台解决方案毛利率达到57.2%，同比提升2个百分点。在收入和毛利率同步提升的推动下，公司上半年毛利润达到1.60亿元，同比增长120.5%。 其次，规模效应开始显现。 上半年销售及营销开支、研发开支分别同比增长33.2%和23.8%，显著低于收入增速，因此销售费用率由约37.",
+    "id": "news-36-b-ai-ceo-1785493658000",
+    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+    "link": "https://36kr.com/p/3910776673064073?f=rss",
+    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -67,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-5-6-80-1785466881000",
-    "title": "GPT-5.6今起大降价，最大幅度80%！",
-    "link": "https://www.qbitai.com/2026/07/463640.html",
-    "summary": "Luna打骨折",
+    "id": "news-siggraph-ai-1785489092000",
+    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+    "link": "https://www.qbitai.com/2026/07/464328.html",
+    "summary": "开源项目GitHub狂揽8000+Star",
     "publishedAt": "2026-07-31",
     "source": "量子位",
     "tags": [
@@ -80,24 +82,128 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785478319000",
-    "title": " 安全为什么总是被绕开 ",
-    "link": "https://www.huxiu.com/article/4879680.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 当AI开始替人执行，企业真正要重新决定的，是把摩擦放在哪里 2023年4月，三星电子半导体部门的几名工程师把内部源代码和会议记录粘贴进了ChatGPT。几周后，公司向其中一个最大事业部下发内部通知，禁止在公司设备和内网上使用生成式AI工具，并写明违规可能导致纪律处分直至解雇。彭博社看到的那份通知里还提到，公司此前的内部调查中，65%的受访者认为这类服务存在安全风险。 这件事通常被当作一起数据泄露来讲。但更值得追问的是另一半：那些工程师并非不知道风险，调查数据说明大多数人都知道。他们仍然那样做了，因为把代码贴进对话框，比走内部流程快得多。 禁令处理了工具，没有处理这个落差。而落差才是问题本身。 安全曾经可以是“额外一步” 过去二十年，企业安全的基本形态是在业务流程之外再建一条路径：写完代码去另一个平台扫描，填完付款信息再到审批系统重填一遍，做完变更补一份操作记录，用一个新工具先申请权限再等管理员处理。 这种设计能成立，是因为它匹配人的工作节奏。一个财务人员一天处理十笔付款，逐笔核对是可行的；一个管理员一周做几次变更，人工确认不构成瓶颈；一个开发者一天提交几次代码，等扫描结果不算难忍。安全占用的时间被摊薄在低频操作里，看起来只是\"多花几分钟\"。 但摩擦从来不是按单次计算的。当同样的动作每天重复",
+    "id": "news--1785493326000",
+    "title": " 流量红利之后，半亩花田走向资本市场还有两道坎 ",
+    "link": "https://www.huxiu.com/article/4879790.html?f=rss",
+    "summary": "本文来自微信公众号： 美妆研究所SHOWCASE ，作者：美妆研究所 7月16日，港交所官网显示，半亩花田品牌运营方山东花物堂化妆品股份有限公司（以下简称“花物堂”）上市申请状态正式变更为\"失效\"。对此，公司回应称，这是港交所上市流程中的正常机制，后续上市工作仍在推进。 按照港交所规则，递表6个月内若未完成聆讯，申请将自动失效，企业可以补充材料后重新递表，通常需在三个月内补充最新财务数据即可重启程序。 真正值得关注的是：就在递表期间，花物堂收到了证监会针对境外上市备案的\"六连问\"，涉及股东结构穿透、新增股东入股价格公允性（利益输送）、股权激励合规性、特殊股东权利、业务资质及外资准入、全流通股份权属等多个问题。 对于一家被市场视为有望冲击\"港股国货个护第一股\"的企业来说，资本市场真正想知道的，并不是：半亩花田卖得好不好。而是：它未来还能不能持续增长。这也是今天更值得讨论的问题。 其实，IPO失效本身并不是大事，港交所不少企业都会重新递表。但真正值得关注的是：花物堂在IPO过程中，其实暴露出了不少问题。 第一、「六连问」先问股权：85%表决权够不够透明？ 证监会的补充问询，对拟赴港上市企业而言属于正常审核程序——这些问题并不意味着存在违法违规，其目的更多是进一步核实信息披露是否充分、公司治理是否规范，以及是否符合境外上市备案要求。 但从问询内容来看，也反映出资本市场关注的重点已经不再只",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785493287000",
+    "title": "国产电纸书涨成理财产品，年轻人不想接盘了",
+    "link": "https://www.tmtpost.com/8087165.html",
+    "summary": "电子阅读的成本越来越高了。",
+    "publishedAt": "2026-07-31",
+    "source": "钛媒体",
+    "tags": [
+      "china",
       "technology",
+      "business",
       "ai"
     ]
   },
   {
-    "id": "news-19-8-ipo-1785479074000",
-    "title": "佳云科技易主局：转让方“捡漏”19个月后溢价套现，接盘方8年IPO两度折戟",
-    "link": "https://www.tmtpost.com/8086636.html",
-    "summary": "交易背后是极速溢价套现和漫长寻路的故事。",
+    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "publishedAt": "2026-07-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
+    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
+    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+    "publishedAt": "2026-07-30",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-form-i-9-compliance-meeting-audit-requirements-with-confiden-1785429135000",
+    "title": "Form I-9 Compliance: Meeting Audit Requirements With Confidence",
+    "link": "https://hrexecutive.com/form-i-9-compliance-meeting-audit-requirements-with-confidence-update/",
+    "summary": "Thursday, August 27, 2026 at 3:00 pm ET When it comes to I-9 compliance, every employer in the U.S. is affected. Make sure you don’t miss this valuable conversation. The post Form I-9 Compliance: Meeting Audit Requirements With Confidence appeared first on HR Executive .",
+    "publishedAt": "2026-07-30",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
+    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
+    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
+    "publishedAt": "2026-07-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-prada-16-miu-miu-ai-1785492094000",
+    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+    "link": "https://36kr.com/p/3919378312670857?f=rss",
+    "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季度增速持平。对比其去年上半年49%的增幅，增速明显放缓。该集团2025年底收购的Versace（范思哲）上半年净收入3.05亿欧元，业绩进展符合预期。（界面） 雅克科技：公司生产经营情况正常，内部经营环境未发生重大变化 36氪获悉，雅克科技公告，公司股票交易价格连续三个交易日（2026年7月29日、2026年7月30日、2026年7月31日）收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。目前公司生产经营情况正",
+    "publishedAt": "2026-07-31",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-seedance-2-5-1785487702000",
+    "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+    "link": "https://www.qbitai.com/2026/07/464329.html",
+    "summary": "行业独家的30s视频原生直出",
+    "publishedAt": "2026-07-31",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785493211000",
+    "title": " 中美电影市场，都在颠覆过往 ",
+    "link": "https://www.huxiu.com/article/4879789.html?f=rss",
+    "summary": "本文来自微信公众号： 影视独舌 ，作者：满囤儿 领先北美两天上映的《蜘蛛侠：崭新之日》在内地取得了超出预期的开门红——零点场票房2726.5万人民币，首日票房2.37亿元，两日票房3.61亿元。 进入本世纪20年代后，只有《速度与激情9》《哥斯拉大战金刚》《阿凡达：水之道》《侏罗纪世界3》《速度与激情10》《哥斯拉大战金刚2：帝国崛起》《疯狂动物城2》《阿凡达3》等不超过十部大片实现了中美同步大卖。 而好莱坞的票房爆款新贵们，如《黑豹2》《新蝙蝠侠》《超级马力欧兄弟大电影》《头脑特工队2》《魔法坏女巫》《海洋奇缘2》《星际宝贝史迪奇》《超人》《迈克尔·杰克逊：巨星之路》《穿普拉达的女王2》等，来到中国后大都显得水土不服，票房表现要么不温不火，要么无甚水花。 现在，好莱坞电影能在内地票房大爆的情况，一年很难超过两次。中美观众在审美趣味上，越来越不同步了。 然而，不同步的只是审美趣味，影响的是某一部具体作品的命运。如果我们把中美电影市场综合起来对比，会发现相似作品之间多多少少都有着命运上的相似。 作为全球唯二的超大体量电影市场，中国内地和北美有着相当大程度的同调——它们不约而同地进入了颠覆、变革的年份。 01 今年截至目前，北美票房榜前两位分别是《玩具总动员5》（4.52亿美元）和《超级马力欧银河大电影》（4.30亿美元）。 虽然这两部影片在内地的票房表现一般，但如果对比内地票房榜，它",
+    "publishedAt": "2026-07-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785492924000",
+    "title": "门禁堵人，欠费曝光：数字化成了物业“跑路”元凶？",
+    "link": "https://www.tmtpost.com/8087171.html",
+    "summary": "技术越深入，信任越崩塌。",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
@@ -120,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
-    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
-    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+    "id": "news-ai-hedge-fund-situational-awareness-may-have-sold-its-public-1785453958000",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -148,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
-    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
-    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
+    "id": "news-philadelphia-dei-officer-alleges-she-was-fired-for-reporting-1785444960000",
+    "title": "Philadelphia DEI officer alleges she was fired for reporting a Black worker’s harassment",
+    "link": "https://www.hrdive.com/news/ex-dei-officer-philadelphia-lawsuit/826633/",
+    "summary": "The officer also said she was forbidden to speak publicly about equity.&nbsp;",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
@@ -162,10 +268,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cto-physical-ai-1785462744000",
-    "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-    "link": "https://36kr.com/p/3917874427555457?f=rss",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。 目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另一类源于Neo&nbsp;Lab，具备前沿的具身智能技术视角。而昆腾动力的创始人李强则属于第三类，此前深耕物流商业化场景，兼具AI技术理解力与全球化业务操盘经验。 公司创始人兼CEO李强在阿里巴巴集团任职17年，于淘宝天猫、菜鸟、国际化业务及无人车四个板块中，他均承担了从0到1的体系搭建与运营管理工作。他曾任菜鸟集团CTO、阿里巴巴国际数字商业板块CTO，管理分布全球的数千人研发团队；同时兼任菜鸟无人车总经理，统筹自动驾驶技术的研发与商业化推进。其团队曾与海外200个国家的邮政系统开展深度业务对接，积累了全球物流履约的一线经验。 昆腾动力创始人兼CEO李强（图源/企业） 核心团队构成覆盖了前沿",
+    "id": "news-ai-1785488339000",
+    "title": "开云的转折：在中国，做一个AI乐观派",
+    "link": "https://36kr.com/p/3919225763540611?f=rss",
+    "summary": "作者 |&nbsp; 谢芸子 黄绎达 编辑 | &nbsp;张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.57亿欧元，经常性营业利润率17%，同比提升1个百分点。 其他品牌方面，圣罗兰YSL上半年恢复增长，北美与西欧表现稳健；葆蝶家Bottega Veneta表现优于预期，所有地区环比加速；巴黎世家Balenciaga仍处于创意过渡期。 渠道方面，截至6月30日，集团直营门店总数1635家，上半年净关店84家，较2025年底减少5%。第二季度，直营零售网络同比销售增长2%，环比提升4个百分点。批发及其他收入增长5%。 受财报消息提振，次日开云集团法股开盘飙升，当日收涨17%。 而这场信心的伏笔，今年4月就已埋下。在意大利佛罗伦萨的资本日上，开云新任CEO卢卡·德·梅奥（Luca de Meo）正式提出“重塑开云（ReconKering）”战略。 该战略重点围绕重燃品",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -176,11 +282,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-code-harness-1785401875000",
-    "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-    "link": "https://www.qbitai.com/2026/07/463433.html",
-    "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
-    "publishedAt": "2026-07-30",
+    "id": "news-minimax-h3-coding-1785486510000",
+    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+    "link": "https://www.qbitai.com/2026/07/464277.html",
+    "summary": "尽显AGI黄金时代的奢华",
+    "publishedAt": "2026-07-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -189,24 +295,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785477933000",
-    "title": " 对话卢宗青：具身智能模型，中美本质上没有差距 ",
-    "link": "https://www.huxiu.com/article/4879084.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜陈伊凡、刘煊琦 编辑｜苗正卿 头图｜AI生成 “AI原生100”是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「61」篇文章，点击这段文字或扫描二维码收听“虎嗅AI 100”完整播客内容。 2026年1月，硅谷机器人大脑公司Skild AI完成14亿美元C轮融资，估值从数月前的45亿美元跳升至超过140亿美元。 &nbsp; 这家公司没有生产过一台机器人，也没有向任何工厂交付过一台机械臂——它卖的只是一个模型。 &nbsp; 这轮融资被媒体形容为&quot;2026年机器人行业最早诞生的百亿美元独角兽&quot;，理由恰恰是它什么都不造。 &nbsp; 一年前，同样的选择却让卢宗青在融资桌上被反复拷问。这位北京大学计算机学院长聘副教授、国家级青年人才，2025年创立了具身智能公司智在无界（BeingBeyond），做的也是纯模型。 卢宗青本人 图片由本人提供 在我们交流几周之后，美国当地时间7月28日，特朗普政府宣布，禁止进口中国新款机器人和电力逆变器。前一天，这家公司发布了隐式触觉世界动作模型Being-H0.8，人类视频数据达到50万小时，这个时长的第一人称人类数据做预训练，是目前全球具身模型中的头部。 &nbsp; 投资人拷问他，“为什么不做硬件？为什么要用人的数据训练模型？” &nbsp; 这两个问题几乎贯穿了他2025年大部分的时间。彼时，银",
+    "id": "news--1785493181000",
+    "title": " 全班无限包容，这个自闭症男孩反而失控了，为什么？ ",
+    "link": "https://www.huxiu.com/article/4879788.html?f=rss",
+    "summary": "本文来自微信公众号： 大米和小米 ，编辑：|Zoey_hmm，作者：探讨融合教育的 二年级男孩羊羊，能讲中国上下五千年历史，五年级数学卷子几乎满分，语文不看课文也能答对问题。 但他也会因为一个同学不经意的眼神，把对方的脸挠出血痕；因为一阵风碰倒了水杯，喊着要“带太平天国炸掉学校”。 他是阿斯伯格综合征孩子，智商超群，却活在自己的情绪世界里。班主任为了保护他，让全班同学都让着他，结果他误以为所有人都必须顺着他。 一位心理咨询师介入后指出：包容不等于没有边界，过度保护反而会加重他的偏执。 本文记录了羊羊在普通小学的真实经历，也探讨了一个现实问题——对于谱系孩子，学校该如何把握包容与规则之间的分寸？ 图|pexels秋兰 班里来了个“天才儿童” 我陪伴过不少自闭症谱系孩子，但羊羊，是最特别的一个。我没有受雇于他的家人，只是帮闺蜜分担压力，却因此走进了这个阿斯伯格男孩的内心世界。 我的闺蜜刘老师，是北京一名小学二年级班主任。班里转来一位阿斯伯格男孩后，她几乎每天都给我发消息，字里行间满是惊喜。 她说，这个孩子对中国上下五千年的历史人物都很清楚，校长和主任有空就找他聊，他说起秦始皇、唐太宗，连细节都不差，比我们这些成年人记得还牢。 五年级的数学卷子几乎满分，刘老师特意翻了他的错题，全是粗心漏写导致的，刘老师问他妈妈是不是提前找了补习班，他妈妈说他是自己翻哥哥的课本看会的，从来不用人催。 语文",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ubtech-s-humanlike-robot-bet-tests-whether-machines-can-beco-1785475322000",
-    "title": "UBTECH’s Humanlike Robot Bet Tests Whether Machines Can Become More Than Industrial Tools",
-    "link": "https://www.tmtpost.com/8086616.html",
-    "summary": "UBTECH Robotics is expanding beyond factory automation with U1, a highly anthropomorphic robot designed for consumer and service scenarios. The move reflects a broader industry search for new applications beyond industrial humanoid robots, but challenges around technology, cost, delivery, and user acceptance remain unresolved.",
+    "id": "news--1785492918000",
+    "title": "软壳鼻祖猛犸象可能也要越来越贵了",
+    "link": "https://www.tmtpost.com/8087191.html",
+    "summary": "户外市场越来越拥挤。",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
@@ -230,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hedge-fund-situational-awareness-may-have-sold-its-public-1785453958000",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "id": "news-reddit-reports-a-solid-quarter-but-shows-signs-of-ai-8217-s--1785452938000",
+    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -257,112 +362,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-philadelphia-dei-officer-alleges-she-was-fired-for-reporting-1785444960000",
-    "title": "Philadelphia DEI officer alleges she was fired for reporting a Black worker’s harassment",
-    "link": "https://www.hrdive.com/news/ex-dei-officer-philadelphia-lawsuit/826633/",
-    "summary": "The officer also said she was forbidden to speak publicly about equity.&nbsp;",
-    "publishedAt": "2026-07-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-token-ai-1785457854000",
-    "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
-    "link": "https://36kr.com/p/3918250549931394?f=rss",
-    "summary": "&nbsp; 所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。 &nbsp; &nbsp; 访谈 &nbsp;| &nbsp;巴芮 海风 文 &nbsp;| &nbsp;海风 刘思洁 编辑 &nbsp;| &nbsp;刘思洁 封面图源 | 受访者拍摄 “野蛮生长的阶段已经过去了。” 这是身处硅谷AI创业一线的马培元最近最深的感受。 2021年12月，本科毕业后，他进入号称“美版知乎”的Quora，后来转到AI聊天机器人聚合平台Poe，担任资深AI工程师。2个月前，他又加入硅谷最热门的AI Agent创业公司之一Cognition。 2026年5月，这家成立不到三年的公司宣布完成超过10亿美元融资，估值升至260亿美元。8个月前，它的估值还是102亿美元。 除了工程师，马培元还有另一个身份——投资猎头（Venture Scout）。他替投资机构寻找值得下注的AI创业项目，每年拥有50万美元的投资额度。 毕业后的这四年多的时间里，他似乎始终行动得要比AI行业共识早，在“agent”这个词还没有被任何人讲清楚定义之前，他所在的团队已经悄悄立项。在Anthropic还是无名之辈时，他们就成了Claude最早的深度用户。他是团队里第一个AI认证工程师、第一个AI agent工程师，后来又把整个工程团队“洗脑”成了使用AI编程的AI Native团队。 这种认知和行动的超前，最有意思",
-    "publishedAt": "2026-07-31",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1785398807000",
-    "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
-    "link": "https://www.qbitai.com/2026/07/463204.html",
-    "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
-    "publishedAt": "2026-07-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-kospi-20-1785477600000",
-    "title": " 韩国股市又崩了，KOSPI两天狂跌20% ",
-    "link": "https://www.huxiu.com/article/4879574.html?f=rss",
-    "summary": "7个月9次熔断，韩国这是怎么了？",
-    "publishedAt": "2026-07-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-saas-1785474025000",
-    "title": "谢欣向下汇报，字节十年SaaS梦让位大模型",
-    "link": "https://www.tmtpost.com/8086358.html",
-    "summary": "重仓豆包，重仓办公。",
-    "publishedAt": "2026-07-31",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-an-overlooked-geothermal-plant-got-a-second-chance-1785347924000",
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
-    "publishedAt": "2026-07-29",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-reddit-reports-a-solid-quarter-but-shows-signs-of-ai-8217-s--1785452938000",
-    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-    "publishedAt": "2026-07-30",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-visa-cuts-2-600-jobs-as-ai-reshapes-how-work-gets-done-1785412817000",
-    "title": "Visa cuts 2,600 jobs as AI reshapes how work gets done",
-    "link": "https://hrexecutive.com/visa-cuts-2600-jobs-as-ai-reshapes-how-work-gets-done/",
-    "summary": "The payments giant is eliminating 7% of its workforce as it points to AI-driven efficiency and reinvests savings in growth areas. The post Visa cuts 2,600 jobs as AI reshapes how work gets done appeared first on HR Executive .",
-    "publishedAt": "2026-07-30",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
     "id": "news-nearly-half-of-workers-say-they-d-let-ai-negotiate-their-pay-1785433380000",
     "title": "Nearly half of workers say they’d let AI negotiate their pay",
     "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-theyd-let-ai-negotiate-their-pay/826476/",
@@ -377,11 +376,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1-8-10-18-1785455320000",
-    "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-    "link": "https://36kr.com/p/3918776472022402?f=rss",
-    "summary": "今日热点导览 韩股创纪录的重挫，全球投资者却未进场抄底 月之暗面变更为股份公司 国内品牌金饰价格集体上涨 高通9月1日起上调芯片价格，涨幅达到两位数 特斯拉全球第1000万辆电动车下线 TOP3大新闻 宇树科技：初步询价日为8月5日，网下申购日为8月10日 7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安排下合计控制公司68.78%的表决权。(金十数据APP) 宇树科技 字节跳动启动面向AI业务的组织调整：飞书与豆包火山团队整合 36氪获悉，7月30日，字节跳动启动面向AI业务的组织调整。根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity Service Platform）”，整体负责字节MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待负责，飞书销售负责人林婵",
-    "publishedAt": "2026-07-30",
+    "id": "news-maker-tool-1785487243000",
+    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+    "link": "https://36kr.com/p/3919301778288261?f=rss",
+    "summary": "文｜张子怡 编辑｜袁斯来 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。 前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。 Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产品，是创客经济的重要基础设施。随着AI技术降低创作门槛，越来越多普通用户能够完成过去需要专业技能才能实现的设计和制作，也推动这一市场快速增长。 根据活动现场发布的行业白皮书，2025年全球DIY创客工具市场规模已达189亿美元，预计到2033年将增长至362亿美元。其中，美国仍是最大的消费市场，占据七成以上销量和销售额；德国、英国等欧洲市场则拥有活跃的创客社区，但也对产品安全、环保合规提出更高要求。 与此同时，Maker Tool行业也呈现出鲜明的产品特征。相比消费电子产品，创客工具技术迭代速度快，新产品的市场窗口期通常只有1至2年；行业还具有明显的季节性，第四季度为销售旺季，第三季度则进入销售低谷，企业需要围绕市场节奏持续进行产品创新和运营规划。 不过，在海外需求增长",
+    "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
       "china",
@@ -391,11 +390,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-5-6-1785397874000",
-    "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-    "link": "https://www.qbitai.com/2026/07/463297.html",
-    "summary": "OpenAI的RSI焚诀，它来了！",
-    "publishedAt": "2026-07-30",
+    "id": "news-ai-1785482557000",
+    "title": "米哈游蔡浩宇AI创业生变",
+    "link": "https://www.qbitai.com/2026/07/464169.html",
+    "summary": "多个项目暂停，九成资源押向Agent",
+    "publishedAt": "2026-07-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -831,6 +830,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135691",
+    "title": "Supply Chain &amp; Operations Specialist",
+    "company": "Miss Amara",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Supply Chain &amp; Operations Specialist - Join Us at Miss Amara",
+      "If you’re a natural problem-solver who loves keeping things moving in a fast-paced e-commerce world, this role is for you",
+      "As our Supply Chain &amp; Operations Specialist, you’ll be the driving force ensuring our DTC and B2B orders ar"
+    ],
+    "skills": [
+      "LLM"
+    ],
+    "location": "Metro Manila",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
+    "postedAt": "2026-07-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135639",
     "title": "Télétravail Professeur Particulier",
     "company": "TUS Media",
@@ -896,4 +914,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T06:40:16.699Z';
+export const dataFetchedAt = '2026-07-31T10:34:25.634Z';
