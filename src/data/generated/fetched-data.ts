@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-investors-love-ai-as-long-as-you-re-a-cloud-host-1785451301000",
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-    "publishedAt": "2026-07-30",
+    "id": "news-anthropic-says-its-own-ai-models-breached-three-companies-du-1785460014000",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -54,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-4-6-openai-ai-1785419763000",
-    "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-    "link": "https://36kr.com/p/3917972674735747?f=rss",
-    "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行的洽谈已进入收尾阶段。（界面） OpenAI承认AI模型失控入侵事件涉及多个平台 美国开放人工智能研究中心（OpenAI）28日更新发布的调查结果显示，该公司人工智能（AI）模型失控入侵美国抱抱脸公司系统期间，还曾利用网上公开的信息，访问了多个公开服务平台上的账户。OpenAI不久前承认，该公司包括GPT-5.6 Sol在内的多个AI模型在内部评估时突破隔离测试环境，入侵了运营人工智能开源平台的美国抱抱脸公司的系统。其最新公布的调查结果显示，涉事模型在攻击过程中还访问了至少4个公开服务平台上的4个账户。其中一个账户被用作中继与暂存通道；一个账户被用于数据存储；对另外两个账户仅进行了只读访问，未用于进一步攻击抱抱脸公司的系统。OpenAI表示，已将调查结果通知相关服务提供商。（央视新闻） 三星电子：预计三季度HBM4销售额将环比增长2倍以上 三星电子7",
-    "publishedAt": "2026-07-30",
+    "id": "news-cto-physical-ai-1785462744000",
+    "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+    "link": "https://36kr.com/p/3917874427555457?f=rss",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。 目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另一类源于Neo&nbsp;Lab，具备前沿的具身智能技术视角。而昆腾动力的创始人李强则属于第三类，此前深耕物流商业化场景，兼具AI技术理解力与全球化业务操盘经验。 公司创始人兼CEO李强在阿里巴巴集团任职17年，于淘宝天猫、菜鸟、国际化业务及无人车四个板块中，他均承担了从0到1的体系搭建与运营管理工作。他曾任菜鸟集团CTO、阿里巴巴国际数字商业板块CTO，管理分布全球的数千人研发团队；同时兼任菜鸟无人车总经理，统筹自动驾驶技术的研发与商业化推进。其团队曾与海外200个国家的邮政系统开展深度业务对接，积累了全球物流履约的一线经验。 昆腾动力创始人兼CEO李强（图源/企业） 核心团队构成覆盖了前沿",
+    "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
       "china",
@@ -81,11 +80,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-greed-1785451838000",
-    "title": " 【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？ ",
-    "link": "https://www.huxiu.com/article/4879558.html?f=rss",
-    "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊，原文标题：《【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？》 THE HONGJUN·ESSAY 【第一性原理拆解七宗罪】第五篇：贪婪（Greed）——为什么你账户里的数字，永远填不满基因里的饥荒？ 导语：为什么有了房子还想换大别墅？为什么赚了一百万还想赚一千万？ 贪婪，在宗教里是万恶之源，是出卖灵魂的魔鬼契约。在现实里，它是让我们终身在跑步机上疲于奔命、永远无法停下享受生活的罪魁祸首。 但如果我们回到那条唯一的生存公理——“活下去”。你就会发现，贪婪根本不是什么道德败坏。在那个没有天气预报、没有养老保险的残酷原始世界里，贪婪，是大自然赐予人类对抗“随机性死亡”的终极防御装甲。 贪婪最初是一副生存装甲，后来变成了没有终点的跑步机。 01 一、丛林生存公理：大自然没给你装“够了”的开关 想象一下，你是一个原始人，马上就要过冬了。你不知道这个冬天会有多长，也不知道大雪会不会把所有的猎物都冻死。 这时候，如果你打到了三只羊，你的想法是：“哎呀，三只羊够吃十天了，我可以休息了，做人要知足。”那么恭喜你，如果第十一天雪还没停，你就会活活饿死在山洞里。 1.唯一能对抗恐惧的，只有“过度囤积” 在残酷的自然界，灾难随时会降临：干旱、洪灾、兽群迁徙。在绝对的未知面前，没有任何一种计算能告",
-    "publishedAt": "2026-07-30",
+    "id": "news--1785463744000",
+    "title": " 消失的夜班车：谁来照亮打工人的归途 ",
+    "link": "https://www.huxiu.com/article/4879599.html?f=rss",
+    "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 “低收入人群是对夜班车有需求的，夜班车是温暖而又流动的家。”每周要有四至五天乘坐夜班公交通勤的天游，发觉近年来夜班公交线路正越来越少。 在全国公交车不断“瘦身”、线路裁撤与变更的大背景下，多地夜班公交线路正大幅削减。 据公共交通爱好者夜莺夜影统计，截至2026年2月，北京公交夜班车已由2025年初的34条常规夜班线路变为21条，13条线路被塞进征求意见稿的角落中，作为“低客流线路”撤销了[1]。 然而，随着社会生活节奏的变化，夜间通勤等出行需求正愈加不容小觑。 在没有被深夜加班打车报销“福利”覆盖之处，许多像天游这样的夜间通勤者，仍在与城市的夜间公共交通系统“相爱相杀”。 01 深夜下班后，怎么回家是个问题 尽管不是夜班劳动者，对于刚毕业没多久，在互联网中厂工作的瑶瑶来说，加班到深夜也基本是家常便饭。 而能否赶上18号线末班车，在什么时间范围从公司打卡出闸，选择什么方式赶车，赶不上地铁怎么办，她也形成了自己的一套“SOP”（标准操作流程）。 “18号线的末班车是23:23，要是（十一点）一刻的时候还没离开公司，那就只能打车了。”瑶瑶是后厂村往返回天地区的互联网通勤大军一员，“从公司回家，白天的话打车三四十块钱就可以，但夜里基本就要涨到五六十了。” “好希望地铁能24小时开啊，我也想下班后去过自己的生活。” 关于国内地铁为何无法",
+    "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -94,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-30-1785423784000",
-    "title": "联创电子易主落定：寿县国资6亿接盘，30亿化债成前置条件",
-    "link": "https://www.tmtpost.com/8085809.html",
-    "summary": "江西撤退安徽接棒，联创电子卖壳迎来终局",
-    "publishedAt": "2026-07-30",
+    "id": "news--1785464433000",
+    "title": "库克最后的成绩单，中国市场没给苹果“走个面儿”",
+    "link": "https://www.tmtpost.com/8086223.html",
+    "summary": "对于库克来说，这次财报会是对其作为职业经理人的一次完美收尾。但对于特努斯来说，却是一个“最差”的开局。",
+    "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -120,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-says-gaming-slowdown-and-app-store-changes-hurt-servic-1785451026000",
-    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-    "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-    "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
+    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
+    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -162,11 +161,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785407883000",
-    "title": "和我们同龄，却提前告别的人",
-    "link": "https://36kr.com/p/3918001898073737?f=rss",
-    "summary": "长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。&nbsp; 中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。 点击填写",
-    "publishedAt": "2026-07-30",
+    "id": "news-token-ai-1785457854000",
+    "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+    "link": "https://36kr.com/p/3918250549931394?f=rss",
+    "summary": "&nbsp; 所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。 &nbsp; &nbsp; 访谈 &nbsp;| &nbsp;巴芮 海风 文 &nbsp;| &nbsp;海风 刘思洁 编辑 &nbsp;| &nbsp;刘思洁 封面图源 | 受访者拍摄 “野蛮生长的阶段已经过去了。” 这是身处硅谷AI创业一线的马培元最近最深的感受。 2021年12月，本科毕业后，他进入号称“美版知乎”的Quora，后来转到AI聊天机器人聚合平台Poe，担任资深AI工程师。2个月前，他又加入硅谷最热门的AI Agent创业公司之一Cognition。 2026年5月，这家成立不到三年的公司宣布完成超过10亿美元融资，估值升至260亿美元。8个月前，它的估值还是102亿美元。 除了工程师，马培元还有另一个身份——投资猎头（Venture Scout）。他替投资机构寻找值得下注的AI创业项目，每年拥有50万美元的投资额度。 毕业后的这四年多的时间里，他似乎始终行动得要比AI行业共识早，在“agent”这个词还没有被任何人讲清楚定义之前，他所在的团队已经悄悄立项。在Anthropic还是无名之辈时，他们就成了Claude最早的深度用户。他是团队里第一个AI认证工程师、第一个AI agent工程师，后来又把整个工程团队“洗脑”成了使用AI编程的AI Native团队。 这种认知和行动的超前，最有意思",
+    "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
       "china",
@@ -189,25 +188,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785451399000",
-    "title": " 大厂调整一次组织架构，多少家庭的账本要重写？ ",
-    "link": "https://www.huxiu.com/article/4879559.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 7月30日上午，字节跳动发了一封内部邮件。 飞书产品团队并入豆包，飞书GTM团队并入火山引擎，成立\"创造力服务平台\"。 据36氪报道，这是字节2021年实行业务板块化以来，ToB业务最大的一次调整。 媒体的关注点在AI战略、在入口之争、在\"大豆包\"生态。 但没人问一个问题：这次调整，又会动多少人的工位？ 据钛媒体报道，飞书负责人谢欣向豆包负责人赵祺汇报，飞书销售负责人林婵、飞书战略及市场负责人史志隽向火山引擎负责人谭待汇报。 汇报线变了，团队边界变了，人心也变了。 据环球网报道，豆包大模型日均Token调用量已突破180万亿，字节大模型业务年化收入达40亿美元。 这些数字很漂亮，但漂亮的数字背后，是一群人在重新找自己的位置。 过去18个月，中国五大互联网公司合计裁员超13万人。 仅阿里巴巴一家，据东方财富网报道，2025年员工总数就从约19.4万降至约12.8万，一年减少6.6万人，减员比例达34%。 这13万人背后，是13万个家庭。 他们的房贷、孩子的学费、父母的医药费，都挂在那张工牌上。 大厂每次组织调整，对外讲的是战略升级、业务协同、效率提升。 对内传递的是权力重排、资源集中、人员优化。 但落到个体身上，是一个家庭的财务结构崩塌、身份认同瓦解和再就业路径断裂。 公司调一次架构，家庭的资产负债表就要重写一遍。 一、13万人的账本：五",
-    "publishedAt": "2026-07-30",
+    "id": "news-vol-01-1785463710000",
+    "title": " “城市更新”Vol.01：最终更新的是“关系” ",
+    "link": "https://www.huxiu.com/article/4879598.html?f=rss",
+    "summary": "本文来自微信公众号： 建日筑闻 ，作者：ADCNews，原文标题：《「城市更新」Vol.01：最终更新的是“关系”》 当城市进入存量更新阶段，更新的对象也从单体建筑和物质环境，延伸到人与空间、人与人之间的关系。土地紧张、资金有限、设施老化，加上生活需求不断分化，过去依靠单一主体建设、统一维护的方式，已经很难照顾真实而细碎的日常。更值得追问的是空间建成之后的生活：谁能够使用，谁可以留下，谁来持续照料，新的价值又将由谁分享。城市更新的深度，往往就藏在这些长期而具体的问题里。 公共空间是一扇窗口，让我们看见城市更新正在发生的变化。一个公共空间好不好，不只在于它是否整洁美观，也在于人们能否自在进入、参与讨论、共同维护，并从中受益，公共空间的核心问题由“谁拥有”慢慢转向“谁参与塑造”。 巴塞罗那Superblocks©Curro Palacios/barcelona.cat 城市公共资源（Urban Commons）理念为这一转向提供了观察框架。Urban Commons是指由城市居民共同使用、参与治理，并以非营利方式运行的共享资源。其核心理念在于将城市资源视为一种公共权利，通过使用者的共同参与实现资源管理与价值创造。不同于以市场收益和私人所有权为导向的商品，城市公共资源的价值更多体现在使用过程中形成的社会效益、社区联系与公共价值。公共资源理论的发展得益于奥斯特罗姆（Elinor Ostro",
+    "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-7-49-56-1785421901000",
-    "title": "四年并购7家、累计耗资49亿之后，华润双鹤拟再砸56亿跨界农化丨并购一线",
-    "link": "https://www.tmtpost.com/8085679.html",
-    "summary": "本次单笔交易金额，超过此前四年并购资金总和。",
-    "publishedAt": "2026-07-30",
+    "id": "news-2-ai-1785463941000",
+    "title": "从2亿播放到百万分账，AI短剧找到正确打开方式了？",
+    "link": "https://www.tmtpost.com/8085821.html",
+    "summary": "让观众不去讨论AI，才是AI短剧成功的第一步。",
+    "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -230,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-says-trump-admin-still-lacks-evidence-for-anthropic-su-1785443198000",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "id": "news-ai-hedge-fund-situational-awareness-may-have-sold-its-public-1785453958000",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -271,10 +269,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-pureblueai-2026-ai-1785407174000",
-    "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-    "link": "https://36kr.com/p/3917984470576769?f=rss",
-    "summary": "&nbsp; &nbsp; 消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿。此外，《2026年二季度中国消费者消费意愿调查报告》显示，在覆盖城乡5000名消费者的调查中，有近八成受访者认为AI已经影响自己的消费决策。 入口在迁移，规则也在被重新定义。 今年5月，36氪联合PureblueAI清蓝发布首期“2026消费品牌AI推荐力名册”，首次尝试观察消费品牌在AI决策推荐场景中的表现。 第一期研究发现，一个品牌是否能够进入AI推荐结果，不仅取决于市场认知，也取决于其产品价值是否能够被AI准确理解，以及是否与消费者具体需求形成匹配。 也就是说，品牌竞争正从过去争夺消费者认知，转向争夺具体消费场景中的优先选择。 消费者提出什么问题、品牌产品价值是否被清晰表达、用户口碑是否形成有效沉淀，正在成为影响AI推荐结果的重要因素。 继第一期发布后，36氪再次联合PureblueAI清蓝推出第二期“2026消费",
+    "id": "news-8-1-8-10-18-1785455320000",
+    "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
+    "link": "https://36kr.com/p/3918776472022402?f=rss",
+    "summary": "今日热点导览 韩股创纪录的重挫，全球投资者却未进场抄底 月之暗面变更为股份公司 国内品牌金饰价格集体上涨 高通9月1日起上调芯片价格，涨幅达到两位数 特斯拉全球第1000万辆电动车下线 TOP3大新闻 宇树科技：初步询价日为8月5日，网下申购日为8月10日 7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安排下合计控制公司68.78%的表决权。(金十数据APP) 宇树科技 字节跳动启动面向AI业务的组织调整：飞书与豆包火山团队整合 36氪获悉，7月30日，字节跳动启动面向AI业务的组织调整。根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity Service Platform）”，整体负责字节MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待负责，飞书销售负责人林婵",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -298,24 +296,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sloth-1785450882000",
-    "title": " 【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？ ",
-    "link": "https://www.huxiu.com/article/4879557.html?f=rss",
-    "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊，原文标题：《【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？》 THE HONGJUN·ESSAY 【第一性原理拆解七宗罪】第四篇：懒惰（Sloth）——为什么“能躺着绝不坐着”是最高级的生存智慧？ 导语：拖延症、摸鱼、葛优瘫……懒惰，大概是现代人最普遍的“绝症”。 在基督教里，懒惰是亵渎神明的罪；在现代社会，懒惰是被资本和成功学疯狂唾弃的残次品。我们每天都在为了“不够努力”而自我霸凌。 但如果我们把时间倒退回几十万年前，只看那条唯一的生存公理——“活下去”。你就会恍然大悟：懒惰，绝对是大自然最伟大的发明。它不是系统在罢工，而是你的大脑在极其智能地为你强行开启“省电模式”。 我们不是突然变懒，而是旧算法遇到了新任务。 01 一、丛林生存公理：乱跑乱动的人，早就饿死了 让我们回到那个吃了上顿没下顿的原始大草原。在那个世界里，没有外卖，没有冰箱。每一口肉，都是用命拼回来的；每一口野果，都要走上十几里地去摘。 在这种极端匮乏的环境下，能量（卡路里），就是唯一的硬通货。 当卡路里是硬通货，少动就是默认策略。 1.“能躺着绝不坐着”是最高级的算法 如果你是一个原始人，刚吃完一顿烤肉，肚子饱了。这时候如果你的想法是：“今天天气真好，不如我出去跑个十公里锻炼一下身体，或者去搬两块石头盖个大",
-    "publishedAt": "2026-07-30",
+    "id": "news--1785463332000",
+    "title": " 消失的尽调和风控 ",
+    "link": "https://www.huxiu.com/article/4879585.html?f=rss",
+    "summary": "本文来自微信公众号： 叫小宋 别叫总 ，作者：叫小宋，题图来自：AI生成 最近看到一篇主流媒体的文章，说有些机构为了抢项目额度，可以不尽调。 作为从业者，我的感受：为了抢额度，消失的不仅是尽调，还有风控。 8，9年前，我刚入行的时候，那时一级市场的样子是： 三个合伙人，负责投资的，负责募资的，负责财务、风控的，就能组一个小团队， 再招几个小朋友，做一些事务性工作，就能基金化运作了，就可以去投项目了。 风控的作用是：能提前、精准识别风险，隔离、规避，协议约定，投后治理，等等，确保基金利益，确保退得出来。 大概从什么时候，好像就有些不一样了。 我想想，应该是从GPU热的时候。 2022年左右，市场中取得过大额融资的GPU初创企业，应该有接近20家。 壁R，摩ER，沐X，燧Y，天SZX，登L，砺S，博H，海FK，象帝X，深流W，以及大厂旗下的昆仑X，平头G，等等等等。 还有一众小算力AI芯片企业，自动驾驶芯片企业，讲着GPU的故事。 于是，很多小机构面临一个问题：要不要在GPU领域布局？该布局谁？ 谁能跑出来？为什么能跑出来？ 而且是，行业已经有华为海思、寒武纪的情况下。 在我个人认知里，2022年那个时点，壁R是最亮的明星，张W总的资本运作能力高出其他企业一头。 然后，技术侧，登L，砺S的技术能力很强——仅代表我个人认知。 那时候，如果你是一家不知名的小机构，你如果想抢上面几个项目的额",
+    "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-haier-faces-a-delicate-local-balancing-act-in-thailand-after-1785418083000",
-    "title": "Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions",
-    "link": "https://www.tmtpost.com/8085651.html",
-    "summary": "When an overseas fan conflict at a Bangkok entertainment event embroiled Haier’s promotional campaign, the appliance giant found itself navigating the friction of modern fandom. The episode highlights the complex cultural and social challenges globalized manufacturers face as they transition from exporting physical goods to deep local market integration.",
-    "publishedAt": "2026-07-30",
+    "id": "news-3-etf-1785462492000",
+    "title": "动量股看起来很便宜，买入这3只ETF",
+    "link": "https://www.tmtpost.com/8086187.html",
+    "summary": "芯片股的回调为动量投资者带来了买入机会。但动量投资并不只局限于科技和人工智能领域。",
+    "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -337,10 +336,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-carecloud-begins-to-notify-hundreds-of-thousands-after-hacke-1785442392000",
-    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-    "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-    "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+    "id": "news-reddit-reports-a-solid-quarter-but-shows-signs-of-ai-8217-s--1785452938000",
+    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
     "publishedAt": "2026-07-30",
     "source": "TechCrunch",
     "tags": [
@@ -377,10 +376,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-morror-art-a2-1785407123000",
-    "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
-    "link": "https://36kr.com/p/3917989583236738?f=rss",
-    "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。 硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。 与第一代产品A1相比，A2的升级集中在三个层面： 首先是透明设计的深化。产品采用高透玻璃箱体搭配透明喇叭，搭载21.5英寸FHD TFT双透明显示面板，将发声结构与显示部件一并可视化。 其次是声学系统升级。A2配备11.5升密闭声学腔体与双4英寸全频单元，采用德国肖特超薄玻璃振膜，通过整机调音呈现人声细节与声音层次。 张俭在群访中坦言，品牌早期产品受限于成本，声学投入相对有限，随着产品价格带提升，A2新增Wi-Fi连接以改善音源传输体验。“我们不回避音质问题，也会持续在声学系统上投入。”张俭称。 更值得关注的变化在软件与内容侧。A2新增AI MV与MORROR电台两项功能。前者可根据歌曲类型、节奏和情绪生成动态视觉场景，而非沿用统一模板；后者以接近电台主持人的方式组织音乐内容，在歌曲之间补充背景介绍，建立叙事联系。内容与软件功能支持OTA持续更新。 张俭向硬氪透露，MORROR电台正在规划引入名人联动，以强化互动性与陪伴感，相关合作预计年内落地。 张俭将A2的推出视为品牌“音乐视觉系统”的正式落地。他",
+    "id": "news-2026-4-6-openai-ai-1785419763000",
+    "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+    "link": "https://36kr.com/p/3917972674735747?f=rss",
+    "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行的洽谈已进入收尾阶段。（界面） OpenAI承认AI模型失控入侵事件涉及多个平台 美国开放人工智能研究中心（OpenAI）28日更新发布的调查结果显示，该公司人工智能（AI）模型失控入侵美国抱抱脸公司系统期间，还曾利用网上公开的信息，访问了多个公开服务平台上的账户。OpenAI不久前承认，该公司包括GPT-5.6 Sol在内的多个AI模型在内部评估时突破隔离测试环境，入侵了运营人工智能开源平台的美国抱抱脸公司的系统。其最新公布的调查结果显示，涉事模型在攻击过程中还访��了至少4个公开服务平台上的4个账户。其中一个账户被用作中继与暂存通道；一个账户被用于数据存储；对另外两个账户仅进行了只读访问，未用于进一步攻击抱抱脸公司的系统。OpenAI表示，已将调查结果通知相关服务提供商。（央视新闻） 三星电子：预计三季度HBM4销售额将环比增长2倍以上 三星电子",
     "publishedAt": "2026-07-30",
     "source": "36氪",
     "tags": [
@@ -405,412 +404,7 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2607.27203v1",
-    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-    "authors": [
-      "Perry Dong",
-      "Ron Polonsky",
-      "Dorsa Sadigh",
-      "Chelsea Fin"
-    ],
-    "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the Q-function be pretrained on offline data too? Conventional wisdom suggests it should, but recent results show that online RL with a randomly-initialized Q-function can result in highly performant and reliable policies without needing to pretrain the Q-function. In this paper, we systematically study whether pretraining the Q-function actually helps when fine-tuning on top of a pretrained base policy. We find, surprisingly, that naive Q-function pretraining often provides little benefit over random initialization. We show this stems from a fundamental mismatch: the Q-function",
-    "link": "http://arxiv.org/abs/2607.27203v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27201v1",
-    "title": "Mental World Modeling",
-    "authors": [
-      "Hao Fei",
-      "Yiran Zhao"
-    ],
-    "summary": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden mental state (what a person believes, wants, intends, feels, and considers socially permissible), so a model that tracks the physical scene but not what each agent knows and believes about it predicts the wrong action for the right-looking scene. We formulate Mental World Modeling (MWM), a generic theoretical framework that makes mental variables core components of a world model rather than posthoc rationales: MWM aintains a coupled physical-mental world state, renders a target-specific partial observation, and simulates how candidate actions jointly update both components. We ",
-    "link": "http://arxiv.org/abs/2607.27201v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27196v1",
-    "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-    "authors": [
-      "Shady E. Ahmed",
-      "Panos Stinis"
-    ],
-    "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning nonlinear input-output relationships by replacing complex global surrogate models with a finite library of representative local patterns. Since scientific data often occupy limited and recurring regions of the input space, we generate predictions by measuring similarities between a query and stored patterns, then combining their associated responses through weighted reconstruction. We apply this approach to nonlinear dynamical systems, data-driven regression, and physics-informed learning using suitable embeddings and similarity measures. For dynamical systems, our offline-online w",
-    "link": "http://arxiv.org/abs/2607.27196v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27191v1",
-    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-    "authors": [
-      "Peter Kirgis",
-      "Sayash Kapoor",
-      "Andrew Schwartz",
-      "Stephan Rabanser",
-      "David Africa",
-      "Konstantinos Voudouris",
-      "Viet Nguyen",
-      "Toby Pilditch",
-      "Magda Dubois",
-      "Harry Coppock",
-      "Cozmin Ududec",
-      "Nitya Nadgir",
-      "Matilda Orona",
-      "Tilman Bayer",
-      "Derrick Chan-Sew",
-      "Yue Ling",
-      "Abhishek Shetty",
-      "Helen Toner",
-      "Gillian Hadfield",
-      "Seth Lazar",
-      "Steve Newman",
-      "Shoshannah Tekofsky",
-      "Rishi Bommasani",
-      "Arvind Narayanan"
-    ],
-    "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind peer review, which is overstretched, stochastic, and suffers from poor review quality. We introduce a third way to measure progress towards AI R\\&D automation. An agent takes on the central, open-ended research question of a high-quality unpublished paper, and the paper's original authors grade its output. We call these shadow evaluations. We ran shadow evaluations on two unpublished NeurIPS 2026 submissions, giving frontier agents six days and thousands of dollars of compute. The agents completed",
-    "link": "http://arxiv.org/abs/2607.27191v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.AI",
-      "cs.CY",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27189v1",
-    "title": "APEX-Accounting",
-    "authors": [
-      "Julien Benchek",
-      "Austin Bennett",
-      "Jasmin Kern",
-      "Ryan Stevens",
-      "Rene Sultan",
-      "Charis Ching",
-      "Hayley Popiel",
-      "Vaibhav Mittal",
-      "Felix Mercier",
-      "Brendan Foody",
-      "Bertie Vidgen"
-    ],
-    "summary": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing reports. The private eval set comprises 160 tasks, split across 10 worlds. Each world contains an accounting system, as well as spreadsheets, PDFs, and other files. Every task was authored and solved by experts in accounting and bookkeeping, who also wrote grading rubrics. Across nine frontier models, Claude-Fable-5 (Max) leads with 56.4% Mean Criteria@3, ahead of Muse-Spark-1.1 (xHigh) at 52.6%. No model scores more than 2.6% Pass^8 (GPT-5.6-Sol (Max+Pro)) and the highest Pass@8 is 21.5% (Muse-Spark-1.1 (xHigh)). We experiment with increasing the ",
-    "link": "http://arxiv.org/abs/2607.27189v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.HC"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27188v1",
-    "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
-    "authors": [
-      "Lennon J. Shikhman",
-      "Michael Galarnyk",
-      "Aadi Dash",
-      "Nicholas A. Welsh"
-    ],
-    "summary": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth densities for latent evaluation, while a chronological NIFTY benchmark tests only held-out market prices. A two-component lognormal mixture has the lowest aggregate price, $L^1$, Wasserstein, and fixed-tail errors on the synthetic benchmark. Learned operators retain narrower strengths: DeepONet reduces 1% quantile and variance error by 39.0% and 34.6% relative to the mixture, and a quote transformer reduces $L^1$ by 16.4% on the structurally misspecified Merton family. A numerical conditioning analysis explains why these rankings can differ: after enforcing mass and forward constraints, 95 of 12",
-    "link": "http://arxiv.org/abs/2607.27188v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG",
-      "q-fin.CP",
-      "q-fin.PR",
-      "q-fin.ST"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27183v1",
-    "title": "Pangram 4 Technical Report",
-    "authors": [
-      "Ben Glickenhaus",
-      "Katherine Thai",
-      "Jenna Russell",
-      "Elyas Masrour",
-      "Yue Han",
-      "Max Spero",
-      "Bradley Emi"
-    ],
-    "summary": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0.3396%. In addition to its increased overall accuracy compared with Pangram 3, Pangram 4 exhibits superior out-of-distribution generalization and robustness to adversarial attacks. Another novel contribution of Pangram 4 is its improved ability to distinguish fine-grained edits and mixed AI-human co-authored text. We demonstrate improvements to both boundary detection tasks and the detection of interleaved AI assistance. Finally, we report metrics on standard AI detection benchmarks showing that Pangram 4 achieves state-of-the-art performance on the AI text detection task across a wide variety ",
-    "link": "http://arxiv.org/abs/2607.27183v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27179v1",
-    "title": "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
-    "authors": [
-      "Nia Nixon",
-      "Jaeyoon Choi",
-      "Pedro Martins De Bastos",
-      "Mohammad Amin Samadi",
-      "Luise Mehner",
-      "Seehee Park",
-      "Spencer JaQuay"
-    ],
-    "summary": "Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive communication dynamics in team decision-making using Group Communication Analysis (GCA), team surveys, and lexical analyses of team discourse. Teams completed a high-stakes moral-dilemma decision task in a randomized controlled study: 16 teams of two students plus an AI teammate, and 17 all-human teams of three. Across six GCA dimensions and survey outcomes, we find that the AI teammate was the single most talkative and self-cohesive member of every treatment team, yet its contributions carried the least new information and the lowest density. The presence of AI also reshaped communication am",
-    "link": "http://arxiv.org/abs/2607.27179v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.HC",
-      "cs.AI",
-      "cs.CY"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27178v1",
-    "title": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
-    "authors": [
-      "Raphaël Sourty",
-      "Antoine Chaffin",
-      "Paulo Roberto Moura Junior",
-      "Amélie Chatelain"
-    ],
-    "summary": "State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English supervision transfers to multilingual retrieval through translate-train. We first reconstruct and curate 665M English contrastive pre-training pairs from 1.4B pairs across 34 public sources and build 1.88M supervised fine-tuning pairs with mined hard negatives. Training yields two 149M-parameter models: DenseOn, a single-vector dense model, and LateOn, a ColBERT-style late-interaction model. They achieve 56.20 and 57.22 average nDCG@10 on BEIR, respectively, setting new state-of-the-art results for this size class. We then translate the validated English data into eight languages, yielding 2.8B ",
-    "link": "http://arxiv.org/abs/2607.27178v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.CL",
-      "cs.IR"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27177v1",
-    "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-    "authors": [
-      "Peter Tisnikar",
-      "Maja Swieczkowska",
-      "Benteng Ma",
-      "Gerard Canal",
-      "Matteo Leonetti"
-    ],
-    "summary": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's capabilities, their ability to successfully execute the desired action, are already known. In reality, a partner's true capabilities are often hidden, and human collaborators may act sub-optimally on tasks with multiple valid strategies. To address these limitations, we extend ad-hoc teamwork into a multi-task setting by re-framing it as a problem of joint planning with decentralised execution under hidden partner capabilities. We introduce CE-CM (Capability Estimation via Contextual Models), an approximate Bayesian method that infers task-invariant capability vector",
-    "link": "http://arxiv.org/abs/2607.27177v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.AI",
-      "cs.HC",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27172v1",
-    "title": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
-    "authors": [
-      "Ji Xin",
-      "Xiao Xiao",
-      "Ishan Bhatt",
-      "Vinesh Gudla",
-      "Trace Levinson",
-      "Raochuan Fan",
-      "Shishir Kumar Prasad",
-      "Prakash Putta",
-      "Tejaswi Tenneti"
-    ],
-    "summary": "Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly grocery, this paradigm is limiting, as user satisfaction and commercial outcomes depend heavily on the discoverability of substitute, complementary, and thematically related items. In this paper, we present a scalable system for discovery-augmented search that leverages intent-conditioned recall expansion. Our approach generates implicit user intents to expand candidate recall while maintaining relevance. The system addresses the cost-quality tradeoff of generative retrieval through a two-stage hybrid architecture. First, we leverage closed-weight large language models (LLMs) to maximize discoverability for head querie",
-    "link": "http://arxiv.org/abs/2607.27172v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.IR",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27169v1",
-    "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
-    "authors": [
-      "Quang Bui",
-      "Sparsh Roy",
-      "Akash Gundimeda",
-      "Davin Yin"
-    ],
-    "summary": "Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solvable. Classical solvers answer the first well and the second only by enumeration. On that discrete decision, a candidate-conditioned repair ranker choosing among K augmentations reaches the exhaustive-search ceiling at a fraction of the calls, outperforming random (0.997 vs 0.236 balanced nonlinear menu accuracy; p < 10^-70; 0.982 +/- 0.006 across seeds) and beating a budget-matched per-candidate probe on accuracy and cost. MARC turns such a system into a factor graph, over which a graph-neural diffusion denoiser proposes assignments, descent on an exact computer-algebra energy polishes them, and an exact symbolic ",
-    "link": "http://arxiv.org/abs/2607.27169v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27167v1",
-    "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
-    "authors": [
-      "Yihao Chen",
-      "Shi Chang",
-      "Feng Lin",
-      "Khaled Chawa",
-      "Boyuan Chen",
-      "Shaowei Wang",
-      "Ahmed E. Hassan"
-    ],
-    "summary": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as a behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into a single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be a first-class phase that precedes implementation. ",
-    "link": "http://arxiv.org/abs/2607.27167v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.SE",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27155v1",
-    "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-    "authors": [
-      "Jingbo Zhou",
-      "Yusai Zhao",
-      "Qi Bao",
-      "Jingjia Cao",
-      "Zhenghai Chen",
-      "Chang Gao",
-      "Kaiqi Guo",
-      "Muxin Guo",
-      "Mingxuan Li",
-      "Xinjiang Lu",
-      "Yanru Ma",
-      "Yixiong Xiao",
-      "Zenghui Zhang",
-      "Le Zhang",
-      "Hua Wu"
-    ],
-    "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating LLM agents on long-horizon office-suite tasks with task-level economic grounding. The benchmark comprises 100 tasks derived from office-suite requests proposed by practitioners and adapted through a privacy-preserving process. On average, these tasks require 2.32 hours of human labor to complete. An important feature of the benchmark is that each task is paired with two economic signals: human labor time and task price proxy. These signals enable direct comparisons between human costs and LLM inf",
-    "link": "http://arxiv.org/abs/2607.27155v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.HC"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27154v1",
-    "title": "Anatomy Contextualized Adaption of CT Foundation Models",
-    "authors": [
-      "Roshan Kenia",
-      "Stephanie L McNamara",
-      "William Lotter"
-    ],
-    "summary": "CT vision-language foundation models have demonstrated promising performance across downstream tasks, but are typically trained with whole-volume representations that dilute fine-grained anatomical signals. Fine-grained vision-language pre-training addresses this by aligning anatomy-level visual features with anatomy-specific text, but in doing so discards the global context that whole-volume models provide. Furthermore, existing fine-grained approaches train from scratch, making them computationally expensive. We introduce Anatomy Contextualized Adaptation (ACA), a lightweight framework that adapts frozen CT foundation model representations for anatomy-level vision-language alignment while enhancing global contextualization. ACA uses TotalSegmentator to decompose CT volumes into anatomy-l",
-    "link": "http://arxiv.org/abs/2607.27154v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27152v1",
-    "title": "Skillful forecasting of offshore winds from satellite scatterometer constellations",
-    "authors": [
-      "Francesco Pinto",
-      "Luca Lanzilao",
-      "Paco Lopez Dekker",
-      "Angela Meyer"
-    ],
-    "summary": "Accurate intraday forecasts of offshore wind are becoming increasingly important for power system operation and the integration of growing shares of offshore wind energy. Operational forecasts rely predominantly on numerical weather prediction (NWP), which is not optimized for lead times of minutes to hours, where initial-condition accuracy dominates forecast skill. Although satellite scatterometer observations are routinely assimilated into NWP, they have not previously been used directly for forecasting. Here we present WindCastNet, the first satellite-based nowcasting framework for offshore wind speed and direction, introducing a new paradigm for intraday forecasting that learns from spatiotemporally irregular satellite observations. WindCastNet predicts offshore wind fields from observ",
-    "link": "http://arxiv.org/abs/2607.27152v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27146v1",
-    "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
-    "authors": [
-      "Yihao Chen",
-      "Shi Chang",
-      "Khaled Chawa",
-      "Feng Lin",
-      "Boyuan Chen",
-      "Shaowei Wang",
-      "Ahmed E. Hassan"
-    ],
-    "summary": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolve fewer than 1% of tasks. One obstacle is the lack of scalable training environments for this from-scratch setting, spanning the whole software engineering life cycle, as existing environment-construction frameworks focus only on a single phase in software development. To address this gap, we introduce MindForge, an automated pipeline that converts open-source command-line programs into source-free environments that expose only a compiled reference executable and its documentation. Using MindFor",
-    "link": "http://arxiv.org/abs/2607.27146v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.SE",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27143v1",
-    "title": "Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark",
-    "authors": [
-      "Manpreet Singh",
-      "Akshatha Srikantha",
-      "Shyamal Lakhanpal"
-    ],
-    "summary": "High-stakes decision systems in credit scoring, fraud detection, healthcare, and industrial safety require reliable uncertainty quantification under severe class imbalance and asymmetric error costs. Standard marginal conformal prediction (CP) provides valid overall coverage guarantees; however, we show that it severely under-covers rare, costly minority classes, with minority-class coverage dropping to as low as 0.5% on certain datasets. To characterize and address this limitation, we conduct a comprehensive benchmark comparing marginal CP, class-conditional (Mondrian) CP, and cost-controlled abstention mechanisms across 15 real-world imbalanced tabular datasets, 7 classification models, 3 probability calibration techniques, and 10 random seeds, resulting in 3,150 experimental runs. Our r",
-    "link": "http://arxiv.org/abs/2607.27143v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27140v1",
-    "title": "Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices",
-    "authors": [
-      "Harvey Samuel George Johnson",
-      "Sendy Phang"
-    ],
-    "summary": "This project aimed to develop a novel reservoir compute (RC) implementation framework targeting high-speed operation and integration with CMOS digital logic. With the target workload of branch prediction (BP) for multistage pipelined central pro-cessing unit (CPU) cores. For this, a novel memristor based RC design framework was developed within the context of the workload requirements. This was then implemented in simulation using industry standard modelling languages of System Verilog (SV) and Verilog-AMS (VAMS).The developed RC design framework was subsequently verified using a basic sequence detection task before further benchmarking for its effectiveness at BP. The developed RC framework was tested using the Dhrystone performance benchmark, while targeting the RISC-V RV64GC instruction",
-    "link": "http://arxiv.org/abs/2607.27140v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.AR",
-      "cs.CE",
-      "cs.ET",
-      "cs.LG",
-      "physics.app-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2607.27138v1",
-    "title": "DLAM: Distributional Latent Actions with Temporal Constraints",
-    "authors": [
-      "Zuojin Tang",
-      "Feifan Luo",
-      "Haoyun Liu",
-      "Botai Yuan",
-      "Dekang Qi",
-      "Ronghan Chen",
-      "Yandan Yang",
-      "Tong Lin",
-      "Xinyuan Chang",
-      "Mu Xu",
-      "Bin Liu",
-      "De Ma",
-      "Zhiheng Ma"
-    ],
-    "summary": "Vision-language-action (VLA) models remain constrained by scarce action-labeled robot data, whereas action-free videos offer abundant observations of physical change. Latent action models can extract such priors, but reconstruction-trained codes may predict future observations without the structure required for joint generation with robot actions. Existing structured methods add temporal constraints but retain deterministic transition points, so residual errors in locally inferred transitions may propagate and compound under recursive composition. We introduce DLAM, a distributional latent-action model that represents each transition as a diagonal Gaussian. Reconstruction conditioned on the reference frame grounds the mean in observed visual change, while normalized composition and reversa",
-    "link": "http://arxiv.org/abs/2607.27138v1",
-    "publishedAt": "2026-07-29",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -897,4 +491,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-30T23:01:25.290Z';
+export const dataFetchedAt = '2026-07-31T02:24:47.293Z';
