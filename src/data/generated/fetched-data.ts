@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-reportedly-might-sell-its-china-business-ahead-of-a-sp-1785505553000",
-    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-    "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-    "summary": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+    "id": "news-gm-and-ford-are-talking-less-and-less-about-evs-1785512866000",
+    "title": "GM and Ford are talking less and less about EVs",
+    "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+    "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -27,36 +27,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
-    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
-    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
-    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
+    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
+    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
+    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
+    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
     "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-ichra-adoption-slowed-by-aca-exchange-costs-instability-1785444960000",
-    "title": "ICHRA adoption slowed by ACA exchange costs, instability",
-    "link": "https://www.hrdive.com/news/ichra-adoption-slowed-individual-market-affordability-ebri-morgan-health/826555/",
-    "summary": "Many employers are considering the coverage arrangements, but worries about the ACA marketplaces &mdash; including potentially high costs for workers &mdash; are making them hesitant to move forward, according to a survey.",
-    "publishedAt": "2026-07-30",
+    "id": "news-employers-may-not-be-training-workers-well-enough-for-widesp-1785509280000",
+    "title": "Employers may not be training workers well enough for widespread AI disruption",
+    "link": "https://www.hrdive.com/news/employers-may-not-be-training-workers-well-enough-for-widespread-ai-disrupt/826672/",
+    "summary": "Advanced skills, such as managing AI agents, do not tend to be the focus of employer training, The Conference Board said in a report.",
+    "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-36-b-ai-ceo-1785493658000",
-    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-    "link": "https://36kr.com/p/3910776673064073?f=rss",
-    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
+    "id": "news--1785511423000",
+    "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+    "link": "https://36kr.com/p/3919386961177985?f=rss",
+    "summary": "文｜王欣逸 编辑｜张雨忻 &nbsp; 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。 融资情况 近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。 团队介绍 丘脑智能创立于2025年11月，创始人兼CEO张源毕业于北京大学，是电子与经济双学科背景，曾在一家自动驾驶公司担任COO，也有过创投行业、具身智能的工作经历。 团队平均年龄约26岁，核心人员主要来自阿里达摩院、腾讯、商汤、港中文、港中深、北大、西交大、KIT、复旦等企业和高校。 产品及业务 Memory领域的行业共识，最早于2025年底在学术界率先形成。这是一个非常新的领域，在面对投资人时，张源常常被问到一些问题，比如，基模会不会自己把记忆做了？Memory这一层到底会不会独立存在？基模和记忆企业之间应该怎么分工？ 这些问题，张源有一个坚定的回答： 记忆层一定会作为独立的基础设施长期存在。 她对此解释，不同厂商的基模基因和训练语料各有差异，擅长的任务也各有侧重，用户不断在几家模型之间切换，这导致记忆孤岛的问题长期存在。AI从通用走向个性化的过程中，缺",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -80,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785505114000",
-    "title": " 以八仙之名：这一次，我们还在“我命由我”吗？ ",
-    "link": "https://www.huxiu.com/article/4879855.html?f=rss",
-    "summary": "本文来自微信公众号： 知著网 ，作者：斌道 「从“八仙过海”到“瞒天过海”，他们是你记忆中的“扒仙”吗？」 &gt;&gt;&gt; 这个夏天，动画电影《八仙！》以黑马之姿闯入大众视野，口碑与票房双收，为沉寂已久的“八仙”IP注入了不少新鲜活力。 影片将八位仙人拉回得道之前的凡人岁月，讲述了一群混迹市井的小人物们假扮神仙、最终拯救苍生的热血故事。观众在欢笑与感动中，似乎看到又一个“国漫神话宇宙”在缓缓升起。 近年来，中国传统神话是动画电影改编的重要素材。白蛇、孙悟空、哪吒、杨戬等“传统英雄”面孔反复出现。但热闹之余，一种似曾相识的恍惚感也悄然浮现。我们似乎在不同的神话IP里，反复邂逅着相似的叙事脉络： 一个桀骜的边缘主角，一群不靠谱的伙伴，一些冠冕堂皇的反派，一句“拯救苍生”的呐喊……动画电影似乎愈发落入了清一色的“反抗宿命”的套路：“拯救苍生”似乎成了神话改编的必经之路。 那么，《八仙！》这部动画电影，是否让我们看到了不一样的“过海”之路呢？ 一、从“仙人过海”到“凡人改命”：八仙怎样变成了这样？ 从童年时翻看的连环画、守在电视机前追过的经典剧集，到2026年暑期档上映的动画大电影《八仙！》——不过二十余年光景，“八仙”的故事已被演绎成了众多版本。 若将“八仙”的故事置于漫长的历史长河中，我们同样会发现一个有趣的事实：如今我们耳熟能详的“八仙”阵容，并非自古如此，而是经历了漫长的",
+    "id": "news-ceo-1785509814000",
+    "title": " 爱马仕CEO在等猪肉涨价，但旧温度计量不了新体温 ",
+    "link": "https://www.huxiu.com/article/4879868.html?f=rss",
+    "summary": "本文来自微信公众号： 老张悄悄地商业观察 ，作者：弓长亮 7月29日，爱马仕在巴黎开二季度业绩发布会。CEO Axel Dumas没有聊Birkin包的等候名单，没有聊第25座皮具工坊，而是聊起了猪肉价格。 \"我正在等待猪肉价格反弹，这将是消费乐观情绪回升的信号。\" 同一天，爱马仕股价暴跌11.03%。 这不是一句失态的玩笑。Dumas在财报会上明确表示，相较于GDP增速，他更关注房地产市场、股票市场和猪肉价格的变化，因为\"奢侈品消费本质上更受财富效应驱动\"。他盯的两个温度计，上半年猪肉价格同比下降13.4%，创8年新低；新建商品房销售额下降13.6%，住宅销售额下降13.7%。 两个指标都在跌，爱马仕的CEO在等它们涨。 但中国消费者已经不等了。 一、三份财报，三种\"等\"法 同一周，三大奢侈品巨头集中交卷，画风高度一致：都在等中国市场自己回暖。 爱马仕二季度营收40.5亿欧元，略低于分析师预期的40.8亿欧元；上半年合并营收81.63亿欧元，按固定汇率增长6.1%，增速较上年同期的8.1%进一步放缓。亚太（不含日本）市场二季度增长2.5%，低于市场预期的3.3%。净利润22.38亿欧元，基本持平于上年同期的22.46亿欧元。利润率41%，现金储备129亿欧元，基本面堪称行业最强。但资本市场不买账，财报发布当天股价暴跌11.03%，收于1508.50欧元/股，盘中最大跌幅超过13%",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785500963000",
-    "title": "皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解",
-    "link": "https://www.tmtpost.com/8087582.html",
-    "summary": "跨界屡败主业承压背后，顶级天使投资人的入局逻辑待解。",
+    "id": "news--1785509743000",
+    "title": "从裁员到降本，宝马打响一场利润保卫战",
+    "link": "https://www.tmtpost.com/8087700.html",
+    "summary": "宝马半年报暴露盈利压力：中国少卖6.7万辆、利润率下滑、成本收缩加速，Neue Klasse 将面临巨大挑战。",
     "publishedAt": "2026-07-31",
     "source": "钛媒体",
     "tags": [
@@ -119,23 +120,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-start-1785499200000",
-    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-    "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-    "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+    "id": "news-samsung-expects-memory-shortage-to-worsen-through-2027-and-l-1785512278000",
+    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+    "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+    "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-erisa-plans-could-escape-from-essential-health-benefits-rule-1785500155000",
-    "title": "ERISA plans could escape from essential health benefits rules",
-    "link": "https://hrexecutive.com/erisa-plans-could-escape-from-essential-health-benefits-rules/",
-    "summary": "A new House bill would free employer coverage from the standard Affordable Care Act health plan template. The post ERISA plans could escape from essential health benefits rules appeared first on HR Executive .",
+    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
+    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
+    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
+    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
     "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
@@ -144,11 +146,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
-    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
-    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
-    "publishedAt": "2026-07-30",
+    "id": "news-managers-say-they-are-using-ai-to-make-layoff-decisions-1785509280000",
+    "title": "Managers say they are using AI to make layoff decisions",
+    "link": "https://www.hrdive.com/news/managers-are-using-ai-to-make-layoff-decisions/826697/",
+    "summary": "Some artificial intelligence models are being asked to weigh factors like sick days, age and tenure when assessing who to let go, one survey said.",
+    "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -158,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-prada-16-miu-miu-ai-1785492094000",
-    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-    "link": "https://36kr.com/p/3919378312670857?f=rss",
-    "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季度增速持平。对比其去年上半年49%的增幅，增速明显放缓。该集团2025年底收购的Versace（范思哲）上半年净收入3.05亿欧元，业绩进展符合预期。（界面） 雅克科技：公司生产经营情况正常，内部经营环境未发生重大变化 36氪获悉，雅克科技公告，公司股票交易价格连续三个交易日（2026年7月29日、2026年7月30日、2026年7月31日）收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。目前公司生产经营情况正",
+    "id": "news-36-b-ai-ceo-1785493658000",
+    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+    "link": "https://36kr.com/p/3910776673064073?f=rss",
+    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -185,10 +187,115 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785504893000",
-    "title": " 近二十位文旅从业者：暑期游客预算收紧，赚钱更难 ",
-    "link": "https://www.huxiu.com/article/4879854.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：郑淯心 在七月的末尾，经济观察报记者调研了近二十位文旅从业者，他们的共同感受是：这个暑期“旺丁不旺财”：游客出门了，预算收紧了；家庭出行了，更会比价了；流量还在，转化变难了。 往年暑期旺季，管理着长沙几家高星酒店的负责人王勇总会接到相关部门打来的电话——不要涨价太高。但今年他的电话没响，“不需要约谈了，我们自己就降了”。 在郑州，五星级酒店永和铂爵国际酒店市场总监东涛刚刚拿到7月的经营报表：出租率跟去年基本持平，仅波动一两个百分点，但平均房价降幅为8%。散客渠道的占比比去年同期下降了18个百分点。 在海南，三条线国际旅行社创始人周敏算了一笔账：公司整体暑期营收同比下降40%，其中青甘线下降40%，新疆线跌了60%。 在广西桂林，一家2022年11月成立的旅行社，熬过了疫情，却在今年4月注销了。同期注销的还有96家同行。老板周霖注销公司后买了一辆七座车，改做小包车服务。 国铁集团预计，7月1日至8月31日全国铁路发送旅客10.1亿人次，日均1629万人次，较2025年暑运实际客流量增长约7.1%。航班管家测算，今年暑期境内航司预计承运旅客量1.42亿人次，预计同比下降3.6%。 人气在涨，但行业普遍感受“钱没多赚”。国金证券研报显示，暑运第一周（6月29日到7月5日），全国酒店从经济型到豪华型各档次每房收入（RevPAR）全线下跌。去哪儿数据",
+    "id": "news--1785509328000",
+    "title": " 健身的尽头是“老头衫” ",
+    "link": "https://www.huxiu.com/article/4879867.html?f=rss",
+    "summary": "本文来自微信公众号： 精练GymSquare ，作者：芷若，原文标题：《健身的尽头是「老头衫」》 当都市高级健身白领，还沉浸于中产品牌的瑜伽裤、运动通勤服时，那些举铁多年的健身达人却早已对此无感。舒适、耐穿、平价成了他们选择健身服标准的「最终归宿」。 仅是一件无Logo的背心，就足以成为举铁猛男们的战袍，以至于那些「看尽千帆的举铁人士」笑道：「健身的尽头是老头衫」。 就像提到巨石强森，便会联想到他的肌肉和背心一般。穿上它不仅更直观看到肌肉的发力，也更放大肌肉线条的优势，极具力量张力。 同时「老头衫」也凭借它平价舒适的特点，大杀四方地成为「平价健身服」的代表。甚至在在面对「女性运动服越做越小」的窘况时，老头衫也深受很多女性举铁健身者的偏爱。 尤其在中高端健身品牌火热的当下，以老头衫为代表的平价健身服，无疑给更多健身者带来广阔的选择自由。 例如有性价比天堂之称的迪卡侬，在拼多多等电商平台上，诸多均价100左右的健身裤或背心的销量过万，基础款速干T恤的销量更是高达3万+。 英国品牌Gymshark，其亲民的价格、高品质及修身的设计，使其在11年间迅速发展成一家估值13亿美元的公司，并获得大批年轻健身者的青睐，更是不少举铁女孩的必备之选。 显然，从贵价健身服到老头衫的转变，并不是消费降级，而是健身适配，是健身焦点逐渐从服装回归本体的过程。 平价健身服，是健身的尽头 小红书上一条名为「便宜到",
+    "publishedAt": "2026-07-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785500963000",
+    "title": "皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解",
+    "link": "https://www.tmtpost.com/8087582.html",
+    "summary": "跨界屡败主业承压背后，顶级天使投资人的入局逻辑待解。",
+    "publishedAt": "2026-07-31",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "publishedAt": "2026-07-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-spacex-won-t-remove-all-of-xai-s-unpermitted-turbines-for-an-1785510977000",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "publishedAt": "2026-07-31",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-erisa-plans-could-escape-from-essential-health-benefits-rule-1785500155000",
+    "title": "ERISA plans could escape from essential health benefits rules",
+    "link": "https://hrexecutive.com/erisa-plans-could-escape-from-essential-health-benefits-rules/",
+    "summary": "A new House bill would free employer coverage from the standard Affordable Care Act health plan template. The post ERISA plans could escape from essential health benefits rules appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-ichra-adoption-slowed-by-aca-exchange-costs-instability-1785444960000",
+    "title": "ICHRA adoption slowed by ACA exchange costs, instability",
+    "link": "https://www.hrdive.com/news/ichra-adoption-slowed-individual-market-affordability-ebri-morgan-health/826555/",
+    "summary": "Many employers are considering the coverage arrangements, but worries about the ACA marketplaces &mdash; including potentially high costs for workers &mdash; are making them hesitant to move forward, according to a survey.",
+    "publishedAt": "2026-07-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-prada-16-miu-miu-ai-1785492094000",
+    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+    "link": "https://36kr.com/p/3919378312670857?f=rss",
+    "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季度增速持平。对比其去年上半年49%的增幅，增速明显放缓。该集团2025年底收购的Versace（范思哲）上半年净收入3.05亿欧元，业绩进展符合预期。（界面） 雅克科技：公司生产经营情况正常，内部经营环境未发生重大变化 36氪获悉，雅克科技公告，公司股票交易价格连续三个交易日（2026年7月29日、2026年7月30日、2026年7月31日）收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。目前公司生产经营情况正",
+    "publishedAt": "2026-07-31",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-minimax-h3-coding-1785486510000",
+    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+    "link": "https://www.qbitai.com/2026/07/464277.html",
+    "summary": "尽显AGI黄金时代的奢华",
+    "publishedAt": "2026-07-31",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785508401000",
+    "title": " 猛犸象终于卖掉了，接盘的不是安踏 ",
+    "link": "https://www.huxiu.com/article/4879864.html?f=rss",
+    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 中国资本又买下了一个国际户外品牌。 7月30日，中国头部私募股权投资机构之一CPE源峰宣布，已与欧洲私募股权机构Jacobs Capital正式签署股权购买协议，全资收购瑞士高端户外品牌猛犸象（Mammut Sports Group AG）。 CPE源峰董事总经理毛卫表示，能够成为猛犸象这一传承160余年瑞士品牌的新一代守护者和同行者，深感荣幸与珍视。交易财务细节未予披露，尚需履行常规监管审批程序，预计未来数月内完成交割。 如果放在三年前，没有人会怀疑猛犸象是一笔好生意；但放到今天，一个更现实的问题出现了：中国户外最大的时代红利，是不是已经过去了？ 过去几年，露营、飞盘、滑雪、徒步、Citywalk、Gorpcore等生活方式轮番成为消费热点，冲锋衣从专业装备变成都市白领的日常穿搭，几乎所有户外品牌都经历了一轮超预期增长。 而如今，行业增速开始回归理性，竞争者越来越多，消费者也越来越成熟。户外品牌竞争的重点，正从分享新增需求，转向争夺存量消费者。这意味着，CPE源峰今天收购猛犸象，赌的已经不是行业风口，而是品牌自身。 准确地说，它买下的不是增长，而是一道尚未完全兑现的品牌溢价。 在户外圈的心智排序里，“一鸟二象三鼠”中的“二象”指的正是猛犸象，它与始祖鸟长期被放在同一梯队讨论。 可就商业结果而言，它不但没有追上始祖鸟，甚至没有",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
@@ -213,10 +320,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
     "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -225,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-says-its-own-ai-models-breached-three-companies-du-1785460014000",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "id": "news-reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-1785509361000",
+    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+    "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+    "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -250,10 +357,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-philadelphia-dei-officer-alleges-she-was-fired-for-reporting-1785444960000",
-    "title": "Philadelphia DEI officer alleges she was fired for reporting a Black worker’s harassment",
-    "link": "https://www.hrdive.com/news/ex-dei-officer-philadelphia-lawsuit/826633/",
-    "summary": "The officer also said she was forbidden to speak publicly about equity.&nbsp;",
+    "id": "news-this-week-in-5-numbers-why-some-workers-aren-t-ai-upskilling-1785444960000",
+    "title": "This week in 5 numbers: Why some workers aren’t AI upskilling",
+    "link": "https://www.hrdive.com/news/why-some-workers-arent-ai-upskilling/826634/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many C-suite, CHRO and senior talent acquisition leaders think their leaders are &ldquo;highly prepared&rdquo; to lead AI adoption.",
     "publishedAt": "2026-07-30",
     "source": "HR Dive",
     "tags": [
@@ -268,112 +375,6 @@ export const generatedNews: NewsItem[] = [
     "title": "开云的转折：在中国，做一个AI乐观派",
     "link": "https://36kr.com/p/3919225763540611?f=rss",
     "summary": "作者 |&nbsp; 谢芸子 黄绎达 编辑 | &nbsp;张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.57亿欧元，经常性营业利润率17%，同比提升1个百分点。 其他品牌方面，圣罗兰YSL上半年恢复增长，北美与西欧表现稳健；葆蝶家Bottega Veneta表现优于预期，所有地区环比加速；巴黎世家Balenciaga仍处于创意过渡期。 渠道方面，截至6月30日，集团直营门店总数1635家，上半年净关店84家，较2025年底减少5%。第二季度，直营零售网络同比销售增长2%，环比提升4个百分点。批发及其他收入增长5%。 受财报消息提振，次日开云集团法股开盘飙升，当日收涨17%。 而这场信心的伏笔，今年4月就已埋下。在意大利佛罗伦萨的资本日上，开云新任CEO卢卡·德·梅奥（Luca de Meo）正式提出“重塑开云（ReconKering）”战略。 该战略重点围绕重燃品",
-    "publishedAt": "2026-07-31",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-minimax-h3-coding-1785486510000",
-    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-    "link": "https://www.qbitai.com/2026/07/464277.html",
-    "summary": "尽显AGI黄金时代的奢华",
-    "publishedAt": "2026-07-31",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785504627000",
-    "title": " 老牌假发巨头卖不动了 ",
-    "link": "https://www.huxiu.com/article/4879849.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：周芳颖 7月31日，瑞贝卡公告因实施其他风险警示停牌一天。公司股票将于8月3日复牌，简称由“瑞贝卡”变更为“ST瑞贝卡”。 河南证监局下发的《行政处罚事先告知书》显示，2022年至2025年上半年，瑞贝卡及其子公司多次向控股股东等关联方划转资金或代其偿债。为掩盖部分资金占用，公司还通过虚构资金入账、资金往来不记账等方式虚增货币资金，导致2022年年报、2023年年报和2024年半年报存在重大遗漏及虚假记载。河南证监局因此拟对公司罚款650万元，公司股票也将被实施其他风险警示，简称变更为“ST瑞贝卡”。 停牌和“戴帽”源于历史信披问题，但瑞贝卡需要处理的不只是合规整改。 2025年，瑞贝卡实现营业收入12.93亿元，同比增长4.38%，归母净亏损8190万元。公司已经连续两年亏损，2024年归母净亏损为1.18亿元。若扣除与主营业务无关以及不具备商业实质的收入，瑞贝卡2025年收入仅增长0.42%，主营业务基本停滞。 瑞贝卡正在从传统贴牌和批发业务转向自有品牌及直接面向消费者的渠道。2025年线上销售占营业收入的比重已经接近40%，弥补了美国线下贴牌业务的下滑，但也带来了更高的获客成本。 当年公司销售费用达到2.71亿元，同比增长19.96%，相当于营业收入的约21%。财务费用也增长7.89%至9169万元。该公司在年报问询回复中表示，其中主要",
-    "publishedAt": "2026-07-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785495071000",
-    "title": "晶圆级芯片，正在升温",
-    "link": "https://www.tmtpost.com/8085583.html",
-    "summary": "芯片的边界，正在扩展到整片晶圆。",
-    "publishedAt": "2026-07-31",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-apple-stockpiles-inventory-as-it-braces-for-8216-significant-1785454085000",
-    "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
-    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-    "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-    "publishedAt": "2026-07-30",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-1-in-3-employees-are-learning-ai-skills-from-youtube-1785497414000",
-    "title": "1 in 3 employees are learning AI skills from YouTube",
-    "link": "https://hrexecutive.com/1-in-3-employees-are-learning-ai-skills-from-youtube/",
-    "summary": "New research finds employees are turning to YouTube and other platforms to build their AI skills, highlighting a training gap. The post 1 in 3 employees are learning AI skills from YouTube appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nearly-half-of-workers-say-they-d-let-ai-negotiate-their-pay-1785433380000",
-    "title": "Nearly half of workers say they’d let AI negotiate their pay",
-    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-theyd-let-ai-negotiate-their-pay/826476/",
-    "summary": "One-third of U.S. adults have already asked artificial intelligence about their salary, a raise, a bonus or how to negotiate, a recent report showed.",
-    "publishedAt": "2026-07-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-maker-tool-1785487243000",
-    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-    "link": "https://36kr.com/p/3919301778288261?f=rss",
-    "summary": "文｜张子怡 编辑｜袁斯来 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。 前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。 Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产品，是创客经济的重要基础设施。随着AI技术降低创作门槛，越来越多普通用户能够完成过去需要专业技能才能实现的设计和制作，也推动这一市场快速增长。 根据活动现场发布的行业白皮书，2025年全球DIY创客工具市场规模已达189亿美元，预计到2033年将增长至362亿美元。其中，美国仍是最大的消费市场，占据七成以上销量和销售额；德国、英国等欧洲市场则拥有活跃的创客社区，但也对产品安全、环保合规提出更高要求。 与此同时，Maker Tool行业也呈现出鲜明的产品特征。相比消费电子产品，创客工具技术迭代速度快，新产品的市场窗口期通常只有1至2年；行业还具有明显的季节性，第四季度为销售旺季，第三季度则进入销售低谷，企业需要围绕市场节奏持续进行产品创新和运营规划。 不过，在海外需求增长",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -908,4 +909,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T13:54:20.271Z';
+export const dataFetchedAt = '2026-07-31T15:59:39.498Z';
