@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-nixes-its-earth-ai-feature-one-day-after-launch-amid--1785527248000",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "id": "news-openai-reportedly-finds-evidence-that-more-of-its-agents-ran-1785538046000",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -81,16 +81,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785516067000",
-    "title": " 短剧有门槛了 ",
-    "link": "https://www.huxiu.com/article/4879877.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 昨天（7月31日），广电总局挂了一份文件。 《微短剧发展管理办法》，总局令第16号，9月1号生效；54条规定，微短剧行业第一份部门规章，是正儿八经的法规，效力不一样了。 9月1号之后，微短剧从流量生意，变成牌照生意。 以前是什么？ 2024年6月发个备案工作提示，2025年2月发个统筹发展通知，2026年1月把分类标准调一调。散装监管，东一榔头西一棒子。 现在54条收进一部法规里，从业者面对一套有法可依的管理框架，你看，信号挺明确：这个行业，正式进了正规军的序列了。 我直接讲核心的东西，第五条，微短剧按投资额和题材分三类，走不同的审批流程。 一类，投资额大，或者题材涉及政治、军事、外交、国家安全、统战、民族、宗教、司法、公安。 拍之前要先向省级以上广电部门申请备案公示，交申请表和剧情梗概。 拍完播出前，还得内容审核，拿《微短剧发行许可证》，证是广电总局统一印的。审核周期20个工作日，其中10天组织专家评审。 你想碰敏感题材，或者你投了大钱，从剧本到成片，广电全程盯着你。 二类，投资额相对不大的普通题材。 流程参照一类，但审批权下放给省级广电部门，不用走总局的许可证通道，省级部门还被鼓励优化流程、简化材料、加快审批。 三类，投资额低、普通题材。 不用走广电备案审核，播出平台自己审，标注节目编号就能上线，但平台得把剧目信息同步报到广电系统里",
+    "id": "news--1785538200000",
+    "title": " 字节越来越善变了 ",
+    "link": "https://www.huxiu.com/article/4879517.html?f=rss",
+    "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜视觉中国 一封内部邮件，拉开字节跳动 B 端战线洗牌的序幕。 7 月 30 日，字节跳动启动面向 AI 业务的架构调整： 飞书产品团队与豆包产品团队整合，成立新的豆包产品团队，由豆包负责人赵祺统管，飞书负责人谢欣改向赵祺汇报。 飞书的市场、销售、客户服务（GTM）体系整体并入火山引擎，组建全新 ToB GTM 组织“创造力服务平台”，由火山引擎负责人谭待统筹。 在此之前，飞书与抖音、TikTok、火山引擎同为一级 BU（事业部），字节跳动 CEO 梁汝波曾在内部明确，飞书与火山引擎的研发投入“不低于抖音与 TikTok”，足见当时集团对 ToB 赛道的期许。 然而，当大模型成为业务的核心内核，飞书独立作战的优先级不再， 字节的产品逻辑、商业路径与组织体系开始围绕 AI 重新排序。 不仅字节如此，这样的战略转向已然成为互联网巨头之间的新共识。 7 月 20 日，腾讯发布内部调整通知，将 QClaw 产品中心相关业务调整至云产品六部，与 WorkBuddy 归入同一管理体系；7 月 27 日，阿里发布一站式 AI 办公平台千问办公，将原本分属三条赛道的 QoderWork、悟空、MuleRun 三款产品整合，底层统一为通义千问大模型，上层绑定钉钉企业生态。 腾讯、阿里、字节相继调整 AI 办公组织架构，核心逻辑高度一致：",
     "publishedAt": "2026-07-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -120,16 +121,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fresh-off-its-wiz-payout-index-ventures-raises-2b-across-thr-1785526791000",
-    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-    "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-    "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
+    "id": "news-rivian-spinoff-also-to-start-delivering-e-bikes-after-months-1785535208000",
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+    "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -186,6 +188,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news--1785516067000",
+    "title": " 短剧有门槛了 ",
+    "link": "https://www.huxiu.com/article/4879877.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 昨天（7月31日），广电总局挂了一份文件。 《微短剧发展管理办法》，总局令第16号，9月1号生效；54条规定，微短剧行业第一份部门规章，是正儿八经的法规，效力不一样了。 9月1号之后，微短剧从流量生意，变成牌照生意。 以前是什么？ 2024年6月发个备案工作提示，2025年2月发个统筹发展通知，2026年1月把分类标准调一调。散装监管，东一榔头西一棒子。 现在54条收进一部法规里，从业者面对一套有法可依的管理框架，你看，信号挺明确：这个行业，正式进了正规军的序列了。 我直接讲核心的东西，第五条，微短剧按投资额和题材分三类，走不同的审批流程。 一类，投资额大，或者题材涉及政治、军事、外交、国家安全、统战、民族、宗教、司法、公安。 拍之前要先向省级以上广电部门申请备案公示，交申请表和剧情梗概。 拍完播出前，还得内容审核，拿《微短剧发行许可证》，证是广电总局统一印的。审核周期20个工作日，其中10天组织专家评审。 你想碰敏感题材，或者你投了大钱，从剧本到成片，广电全程盯着你。 二类，投资额相对不大的普通题材。 流程参照一类，但审批权下放给省级广电部门，不用走总局的许可证通道，省级部门还被鼓励优化流程、简化材料、加快审批。 三类，投资额低、普通题材。 不用走广电备案审核，播出平台自己审，标注节目编号就能上线，但平台得把剧目信息同步报到广电系统里",
+    "publishedAt": "2026-07-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
     "id": "news--1785500963000",
     "title": "皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解",
     "link": "https://www.tmtpost.com/8087582.html",
@@ -212,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vc-backed-startups-commit-more-fraud-and-researchers-think-t-1785524400000",
-    "title": "VC-backed startups commit more fraud, and researchers think they know why",
-    "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-    "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+    "id": "news-silicon-valley-loves-young-founders-until-it-doesn-8217-t-1785535200000",
+    "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
+    "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+    "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -305,10 +320,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-isn-8217-t-the-only-one-who-wants-to-pump-the-bra-1785518792000",
-    "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "id": "news-india-is-starting-to-pay-for-apps-not-just-download-them-1785532065000",
+    "title": "India is starting to pay for apps, not just download them",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "summary": "India's app market generated a record $345 million in Q2.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -347,7 +362,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ai-1785488339000",
     "title": "开云的转折：在中国，做一个AI乐观派",
     "link": "https://36kr.com/p/3919225763540611?f=rss",
-    "summary": "作者 |&nbsp; 谢芸子 黄绎达 编辑 | &nbsp;张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.57亿欧元，经常性营业利润率17%，同比提升1个百分点。 其他品牌方面，圣罗兰YSL上半年恢复增长，北美与西欧表现稳健；葆蝶家Bottega Veneta表现优于预期，所有地区环比加速；巴黎世家Balenciaga仍处于创意过渡期。 渠道方面，截至6月30日，集团直营门店总数1635家，上半年净关店84家，较2025年底减少5%。第二季度，直营零售网络同比销售增长2%，环比提升4个百分点。批发及其他收入增长5%。 受财报消息提振，次日开云集团法股开盘飙升，当日收涨17%。 而这场信心的伏笔，今年4月就已埋下。在意大利佛罗伦萨的资本日上，开云新任CEO卢卡·德·梅奥（Luca de Meo）正式提出“重塑开云（ReconKering）”战略。 该战略重点围绕重燃品",
+    "summary": "作者 |&nbsp; 谢芸子 黄绎达 编辑 | &nbsp;张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.57亿欧元，经常性营业利润率17%，同比提升1个百分点。 其他品牌方面，圣罗兰YSL上半年恢复增长，北美与西欧表现稳健；葆蝶家Bottega Veneta表现优于预期，所有地区环比加速；巴黎世家Balenciaga仍处于创意过渡期。 渠道方面，截至6月30日，集团直营门店总数1635家，上半年净关店84家，较2025年底减少5%。第二季度，直营零售网络同比销��增长2%，环比提升4个百分点。批发及其他收入增长5%。 受财报消息提振，次日开云集团法股开盘飙升，当日收涨17%。 而这场信心的伏笔，今年4月就已埋下。在意大利佛罗伦萨的资本日上，开云新任CEO卢卡·德·梅奥（Luca de Meo）正式提出“重塑开云（ReconKering）”战略。 该战略重点围绕重燃",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -382,19 +397,6 @@ export const generatedNews: NewsItem[] = [
       "technology",
       "business",
       "ai"
-    ]
-  },
-  {
-    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
     ]
   }
 ];
@@ -902,4 +904,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-07-31T20:59:58.801Z';
+export const dataFetchedAt = '2026-07-31T22:55:49.221Z';
