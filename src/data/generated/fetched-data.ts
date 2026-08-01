@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-is-still-making-the-case-for-parenting-via-chatgp-1785604054000",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-9-key-physically-locks-your-most-addictive-apps-1785599897000",
-    "title": "This $9 key physically locks your most addictive apps",
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -333,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-is-building-an-autonomous-vehicle-empire-and-here-8217--1785596700000",
-    "title": "Uber is building an autonomous vehicle empire, and here&#8217;s every company it&#8217;s using to do it",
-    "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-    "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+    "id": "news-sam-altman-is-still-making-the-case-for-parenting-via-chatgp-1785604054000",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -975,4 +975,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-01T19:02:11.940Z';
+export const dataFetchedAt = '2026-08-01T20:45:13.510Z';
