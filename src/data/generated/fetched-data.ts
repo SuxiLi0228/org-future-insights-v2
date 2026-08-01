@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-finds-evidence-that-more-of-its-agents-ran-1785538046000",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "publishedAt": "2026-07-31",
+    "id": "news-apps-that-help-you-break-free-from-doomscrolling-and-get-act-1785592800000",
+    "title": "Apps that help you break free from doomscrolling and get active",
+    "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+    "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+    "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -81,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-loop-ai-coding-graph-1785586081000",
-    "title": " Loop才火了六周，AI Coding为什么又开始谈Graph？ ",
-    "link": "https://www.huxiu.com/article/4879987.html?f=rss",
-    "summary": "本文来自微信公众号： 智讯智库 ，作者：施展 Graph Engineering不是Loop的替代品，而是AI Coding从“单个Agent反复执行”走向“多个节点协同工作”的下一层工程问题，本文将从以下几个视角拆解Graph Engineering： Peter Steinberger再次带火了新概念，但Graph是新瓶装旧酒，其在Agent时代有了新的定义和意义。 从Prompt到Graph，核心逻辑是AI Coding仍在向更高复杂度项目进化。 主流Coding Agent已经在用Graph，只是多数没有把图画出来。 Graph更常用于复杂任务，但“复杂”不只是步骤多，需要任务能够独立拆分、存在分支或回退、中间状态值得保存、结果能够验收、协作收益高于协调成本。 Open Claw创造者Peter Steinberger在X上问了一句：“我们还在谈Loop，还是已经转向Graph了？”截至7月28日，这条帖子获得约307万次浏览[1]。仅仅只在一个多月前，正是他用“不要再亲自提示Coding Agent，而要设计能够提示它的循环”这句话，帮Loop Engineering走红[2]。 短短六周，Loop就被宣布“过时”了。 同一天，拥有20年经验、曾在Airbnb和GitHub工作的机器学习工程师Hamel Husain，发布了一篇题为《Loop Engineering Is",
+    "id": "news-ai-1785593507000",
+    "title": " AI股神的崩塌始末：市场不在乎你有多聪明（万字重磅） ",
+    "link": "https://www.huxiu.com/article/4879999.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 2024年，后来被誉为\"AI股神\"和\"交易金童\"的利奥波德·阿什布伦纳（Leopold Aschenbrenner）上了一档热门科技播客。聊到第四个小时，主持人决定逗他一下。 主持人问他：你会不会像彼得·蒂尔（Peter Thiel）的对冲基金一样崩掉？蒂尔是PayPal的联合创始人，硅谷最成功的投资人之一，但他管理的Clarium Capital在2008年之后连亏三年，资产从八十亿美元级缩水到几乎清零。硅谷最聪明的人之一，在市场上被狠狠上了一课。 Aschenbrenner没被这个问题吓住，他带着那种聪明人特有的轻松回答了。原话是：\"Obviously not blowing up is sort of like task number one and two,or whatever.Done right,I think a lot of money could be made.\" \"不爆仓大概是第一号和第二号任务，或者类似的东西。要是做对了，我觉得能赚很多钱。\" 这句话后来成了一个巨大的flag。 不是因为狂妄，恰恰相反。它说明Aschenbrenner不是蒙着眼睛冲进斗兽场的那种人。他研究过历史。他知道Clarium是怎么倒的，知道每一个周期都有一只\"这次不一样\"的基金，最后以\"原来还是一样的\"收场。他把\"不爆仓\"",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
@@ -121,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rivian-spinoff-also-to-start-delivering-e-bikes-after-months-1785535208000",
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-    "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-    "publishedAt": "2026-07-31",
+    "id": "news-what-8217-s-the-best-handheld-mini-fan-1785591414000",
+    "title": "What&#8217;s the best handheld mini fan?",
+    "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+    "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+    "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -188,16 +188,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785586067000",
-    "title": " 终于还是有人问了，邓煜王虹的获奖研究到底有什么用？ ",
-    "link": "https://www.huxiu.com/article/4879990.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：antares，编辑：李小葵 当有些看起来宛如天书的数学问题被解决了很久之后，会以一种以提出者本人都意想不到的方式重新出现。 中国数学家获得菲尔兹奖的新闻刷屏了。在热闹的祝贺声中，也会有人好奇：邓煜研究的狭义希尔伯特第六问题和王虹研究的三维挂谷猜想，有什么用？ 菲尔兹奖获得者中国数学家邓煜（左一）、王虹（右一）、美国数学家约翰·帕登（左二）和加拿大数学家雅各布·齐默曼在美国费城举行的2026年国际数学家大会开幕式上合影丨新华社/李睿 进一步地，也有人会想知道，这些抽象的、理论的数学研究有什么用？ 数学研究不是买菜时的找零，也不止是造火箭时的计算。如果一定要问它是什么，更贴切的答案或许是：纯数学首先不是一种工具，而是一种语言，一种用来描述结构、关系，以及人类此前从未见过之物的语言。 从一根针开始的抽象工程 这几天，你大概已经听说了很多次挂谷宗一的那根针：一根针在平面上旋转一周，扫过的面积最小能有多小？ 这是个非常具体的问题，具体到你可以拿着尺子去量量看。但数学家选择不用尺子和量角器。 一根固定长度的针，在尽可能小的区域内完成180°转向，扫过的区域能有多小？图为众多结构中的一种丨wikimedia commons/Claudio Rocchini 早在1919年，贝西科维奇证明了针扫过的面积可以任意小，趋近于0。 后来的数学家并不满足于此，他们很自",
+    "id": "news-gdp3-1785593401000",
+    "title": " 人均GDP3万美元的韩国，年轻人挤爆“乞丐地图”？ ",
+    "link": "https://www.huxiu.com/article/4879998.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 韩国年轻人最近发明了一种很新的吃饭方式：先打开“乞丐地图”，把附近餐厅按价格筛一遍；一旦一餐饭卖到8000（37元人民币）韩元以上，还没有肉和蔬菜，立刻判定它“不配上榜”。 这张地图的开发者崔成洙今年34岁，他因为AI浪潮冲击丢了工作。靠补偿金生活时，他把每天的饭钱压到1万韩元。随后，他借助AI编程工具，用一个周末做出了专门寻找廉价餐厅的网站。 让他失业的是AI，帮他算出“失业后能能去哪吃点便宜的”，还是AI，主打一个闭环服务。 网站上线一个月，访问量达到131万；App推出6天，下载量超过2.1万。在人均GDP超过3.6万美元、三星和现代遍布全球的韩国，“今天去哪里吃一顿5000韩元的饭”，成了上百万人共同研究的问题。 01：韩国年轻人，把省钱玩成了竞技游戏 “乞丐地图”的正式名字叫Geoji Map。地图上没有米其林星星，只有醒目的价格数字：3000韩元的拌饭、3900韩元的意大利面、4000韩元的炸猪排。 它的规则比许多美食榜单还严格。早期多数地区以8000韩元为参考线，江南、汝矣岛等高消费地区放宽到1万韩元；价格超标，或只用一款便宜小菜引流的餐厅，都可能被用户举报清理。 便宜还不够，饭也得像饭。平台强调蛋白质和膳食纤维“乞丐也需要”。面条等高碳水菜单如果超过7000韩元，通常没有资格留下；同价的带肉雪浓汤却可能过关。平台",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -227,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-silicon-valley-loves-young-founders-until-it-doesn-8217-t-1785535200000",
-    "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
-    "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-    "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+    "id": "news-openai-reportedly-finds-evidence-that-more-of-its-agents-ran-1785538046000",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
@@ -293,16 +294,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785584464000",
-    "title": " 科伦博泰核心产品陷“举报门” ",
-    "link": "https://www.huxiu.com/article/4879983.html?f=rss",
-    "summary": "本文来自微信公众号： 科创板日报 ，作者：史士云 医药企业要想长远发展，必须严守多条合规红线：首先是坚决杜绝带金销售，相关业务开展应当坚持实质合规优先于形式合规。其次，不得开展违规招待，客情维护确有必要，但往来应当合规和适度。 随着一份涉嫌商业贿赂的举报信在业内流传，港股创新药明星企业科伦博泰（06990.HK）被卷入舆论漩涡。 举报信矛头直指科伦博泰的明星ADC产品（抗体偶联药物）芦康沙妥珠单抗，加之内容细节丰富，且直接点名国内多家顶流三甲医院及相关个人，因此迅速引发业界关注。 《科创板日报》记者就举报信相关事宜联系了科伦博泰，但截至发稿，并未得到该公司的相关回复，不过此前公司曾回应媒体称，举报信内容并不属实，将进一步核实举报人，并追究其法律责任。 ▌涉嫌多项指控 流传的举报信中，指控的中心围绕科伦博泰的拳头产品芦康沙妥珠单抗(商品名：佳泰莱)展开，这是一款自主原研的TROP2 ADC药物，于2024年11月获批上市，是国内首个获得完全批准上市的国产ADC。 截至目前，芦康沙妥珠单抗已在国内获批四项适应症，涵盖乳腺癌、肺癌等。自今年1月起，芦康沙妥珠单抗有两项适应症被纳入国家医保目录，200mg规格价格由9399元/支降至4550元/支。 举报信表示，芦康沙妥珠单抗根据2025年的终端定价，针对不同患者类型会给到不同金额的回扣。举报信除指控依托产品销售实施回扣外，还罗列了多种利益",
+    "id": "news--1785592865000",
+    "title": " 日本没有复制硅谷 ",
+    "link": "https://www.huxiu.com/article/4879997.html?f=rss",
+    "summary": "本文来自微信公众号： 雅各布的灯塔 ，作者：雅各布的灯塔 -We Are All In The Middle Of Nowhere- 该篇文章为：100%HWC（Human-Written Content）100%人类创作内容 （没有任何人工智能生成的内容） 没有任何人工智能生成，还写了很多，估计要读10-15分钟，太累了😀 近两年，雅各布去日本的次数似乎比上学（我在日本上了大学）的时候还多。 不知道为什么，去日本出差的行程变得多了起来。 当然了，一方面可以和咨询老前辈好好聊人生与未来，我之前也做过记录： 通往未来的方程式｜与安宅和人的一次对话 我喜欢到一个地方就研究当地的创业和AI生态。但其实每一次离开东京，我都很难用\"创业城市\"这四个字去概括它。 很久没有写点认真的长文了。这篇大概是我在陆陆续续的日本出差、参加朋友婚礼、看项目的过程中在笔记上记下来，然后有了那么7-8篇的小内容拼凑而成。 不是什么专业的咨询报告，大家随便读读吧。 日本的未来感，几乎从不写在巨幅广告牌、融资口号或者创始人的神话里。 它藏在别的地方——一间大学实验室的深夜、一家百年制造企业里那个刚成立三年的数字化小组、一间银行内部谁也说不清来龙去脉的审批流程，或者一台外表毫不起眼、却要连续运转十年不出错的工业设备里。 在硅谷，未来通常先被说出来。 在东京，未来往往先被悄悄嵌进流程里，很久以后你才发现它已经在那儿运",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -332,16 +334,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-is-starting-to-pay-for-apps-not-just-download-them-1785532065000",
-    "title": "India is starting to pay for apps, not just download them",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "summary": "India's app market generated a record $345 million in Q2.",
+    "id": "news-rivian-spinoff-also-to-start-delivering-e-bikes-after-months-1785535208000",
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+    "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
     "publishedAt": "2026-07-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -959,4 +962,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-01T13:09:15.025Z';
+export const dataFetchedAt = '2026-08-01T14:56:23.922Z';
