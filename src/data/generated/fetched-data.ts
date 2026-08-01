@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-9-key-physically-locks-your-most-addictive-apps-1785599897000",
-    "title": "This $9 key physically locks your most addictive apps",
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-is-building-an-autonomous-vehicle-empire-and-here-8217--1785596700000",
-    "title": "Uber is building an autonomous vehicle empire, and here&#8217;s every company it&#8217;s using to do it",
-    "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-    "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+    "id": "news-sam-altman-is-still-making-the-case-for-parenting-via-chatgp-1785604054000",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apps-that-help-you-break-free-from-doomscrolling-and-get-act-1785592800000",
-    "title": "Apps that help you break free from doomscrolling and get active",
-    "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-    "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+    "id": "news-this-9-key-physically-locks-your-most-addictive-apps-1785599897000",
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -333,17 +333,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-8217-s-the-best-handheld-mini-fan-1785591414000",
-    "title": "What&#8217;s the best handheld mini fan?",
-    "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-    "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+    "id": "news-uber-is-building-an-autonomous-vehicle-empire-and-here-8217--1785596700000",
+    "title": "Uber is building an autonomous vehicle empire, and here&#8217;s every company it&#8217;s using to do it",
+    "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+    "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -942,6 +941,21 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135836",
+    "title": "Get Paid More with Higher Minimums &amp; Better Rates",
+    "company": "Qudos Technologies Inc",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "This is a beta feature to avoid spam applicants"
+    ],
+    "skills": [],
+    "location": "More, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-get-paid-more-with-higher-minimums-amp-better-rates-qudos-technologies-inc-1135836",
+    "postedAt": "2026-07-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135639",
     "title": "Télétravail Professeur Particulier",
     "company": "TUS Media",
@@ -961,4 +975,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-01T16:55:09.815Z';
+export const dataFetchedAt = '2026-08-01T19:02:11.940Z';
