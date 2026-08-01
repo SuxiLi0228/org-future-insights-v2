@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-siggraph-ai-1785489092000",
-    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-    "link": "https://www.qbitai.com/2026/07/464328.html",
-    "summary": "开源项目GitHub狂揽8000+Star",
-    "publishedAt": "2026-07-31",
+    "id": "news-openai-ipo-1785560569000",
+    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+    "link": "https://www.qbitai.com/2026/08/464693.html",
+    "summary": "对前沿实验室估值悲观",
+    "publishedAt": "2026-08-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -81,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785550754000",
-    "title": " AI乌托邦：我们不需要一台永不犯错的机器 ",
-    "link": "https://www.huxiu.com/article/4879911.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 一、我们给AI提了一个从没对人类提过的要求 不少企业的AI项目，最后卡住的地方并不是准确率。 95%的准确率放在一个人类岗位上，是优秀员工；放在AI身上，往往是\"再等等，还不能上线\"。同一个数字，两套标准。 我们知道医生会误诊，司机会走神，律师会漏条款，财务会把款打错。我们从没要求过任何一个人永不犯错，我们只是为这些错误配了制度：复诊、保险、复核、审批、事故调查。 但面对AI，很多人心里的默认值是100%。它答错一个问题，讨论马上升级到\"它是否可靠\"\"是否该进入真实世界\"。 这不只是苛刻，这是一种悄悄的替换。我们已经不是在评估一件工具，而是在寻找一个可以彻底交出去的对象——一个不会犯错的代理人，一个没有私心的管理者，一个永远猜得中我们真实意图的数字圣人。 我们对AI的真实期待，不是它比人更强，而是它比人更值得被完全托付。这已经不是对工具的要求了。 这是AI时代最贵的一个幻想。贵在它一边推高预期，一边推迟落地。 二、我们真正想买的，是确定性 出门以后突然怀疑门有没有锁；转账之后反复打开账户看收款人；邮件发出去再检查一遍附件在不在。 多数时候事情本来就做对了，只是记忆没办法给自己出具证明。 于是人类造了一大堆东西来对付这种不安：门锁的提示音、车门状态灯、银行的到账短信、系统的操作日志。这些东西",
+    "id": "news-claude-1785564669000",
+    "title": " 数百万本书，被Claude“阅后即焚” ",
+    "link": "https://www.huxiu.com/article/4879939.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 一本厚书被推进液压切纸机，压板落下，刀片切下，书脊被干脆利落地削掉。原本连接在一起的书页变成整齐的一沓纸张。 如果没有任何解释，看到这样一段视频，你甚至可能会觉得“引起舒适”、非常解压。 可如果告诉你，AI公司正在用这套办法成批处理纸质书，其中还可能包括冷门书和绝版书，相信你八成就舒服不起来了。 为了寻找更多训练数据，AI公司已经从公开互联网、盗版电子书，一路找到了现实世界里的纸质书。其中，2022年以前出版的书因为没有混入AI生成内容，也没有经过现代数据投毒工具处理，成了难得的“上品”。 那些网上搜不到、没有电子版的冷门书和绝版书，能够提供互联网抓取不到的内容，更是“上上品”。 Anthropic被曝光的“巴拿马计划”中明确说不希望外界知道。 图书数据库公司ISBNdb公开宣称，可以接活儿给AI公司找书，能从旧书店、图书馆和绝版书目录中，一次采购1000至100万本纸质书，还会通过保密协议藏住买家身份和采购书目。 AI公司也知道这事儿“不好看”。 “巴拿马计划” AI公司开始盯上纸质书，最早是从Anthropic惹上的一场官司里露出端倪的。 2024年8月，三名作家把Anthropic告上法庭，指控它未经授权，用他们的作品训练Claude。 说实话，这类争议其实从OpenAI搞出个ChatGPT开始就没停过，一点也不新鲜，类似的官司",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
@@ -175,11 +175,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-seedance-2-5-1785487702000",
-    "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-    "link": "https://www.qbitai.com/2026/07/464329.html",
-    "summary": "行业独家的30s视频原生直出",
-    "publishedAt": "2026-07-31",
+    "id": "news-world-labs-scenix-ai-1785560013000",
+    "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+    "link": "https://www.qbitai.com/2026/08/464532.html",
+    "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+    "publishedAt": "2026-08-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -188,17 +188,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1785550106000",
-    "title": " 不是所有产品都适合AI 化：一个AI 产品经理的判断框架 ",
-    "link": "https://www.huxiu.com/article/4879908.html?f=rss",
-    "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：红红酱，原文标题：《不是所有产品都适合 AI 化：一个 AI 产品经理的判断框架》 AI并非万能钥匙，盲目接入反而可能让产品更“呆”。本文从AI应用产品经理的实战视角出发，提出四层判断框架：场景、能力、业务与产品，帮助识别哪些任务真正需要AI，哪些更适合传统规则。核心观点：好的AI产品，是让用户感觉更快、更自然，而非刻意感知“大模型”。 ————/BEGIN/———— AI正在从各个方向进入我们的工作和生活。办公场景里，AI做PPT、AI写文档已经非常常见；日常消费场景中，AI叫车、AI总结视频、AI辅助搜索，也逐渐变成用户熟悉的体验。 很多产品在加入AI时，都希望传递一种心智：只要是“AI+XX”，就意味着更智能、更高效、更好用。但实际使用中也会发现，有些产品加上AI之后，反而让人觉得更慢、更绕，甚至“更呆”。 比如，一个原本只需要点击按钮就能完成的操作，被改造成需要用户输入一段prompt；一个原本依靠固定规则就能稳定完成的判断，被交给大模型后，反而出现结果不稳定、响应更慢、用户不可控的问题。 根本原因在于，大模型更擅长处理高信息密度、高上下文复杂度、高不确定性的任务。它适合帮助人完成信息整合、理解、归纳和生成，但对于信息量很低、操作路径明确、规则边界清晰的场景，AI不一定比一个按钮、一条规则，甚至一行命令更快。 作为一个AI应用",
+    "id": "news--1785564641000",
+    "title": " 世界首富扛不住，特斯拉辟谣甩卖中国业务 ",
+    "link": "https://www.huxiu.com/article/4879940.html?f=rss",
+    "summary": "本文来自微信公众号： 和讯 ，作者：蔚蓝、宋政 7月最后一天，一则”特斯拉考虑出售中国业务，为潜在SpaceX合并铺路“的消息引爆整个汽车圈。就在大家纷纷在猜测谁会接盘这部分业务时候，特斯拉中国内部人士向媒体紧急辟谣：“不实消息。” 与此同时特斯拉CEO马斯克也火速回应称，“这是假新闻”。特斯拉公司副总裁陶琳也发文：虚假信息（谣言）传播是重要的世界风险。 01 为何此时传出中国业务或被出售 直接导火索就是SpaceX 6月IPO后，“特斯拉×SpaceX合并”叙事被重新点燃。马斯克在Q2财报电话会上被问合并时只说“不能在这讨论，要走恰当流程”，既没否认也没确认。SpaceX总裁肖特韦尔6月也曾表示“整合能让马斯克管理轻松些”，市场据此把“两家合并”从脑洞变成可定价事件。 但特斯拉在中国外资企业中占据独特地位，特斯拉在中国是100%独资（不像大众/通用走合资），正是因为这个特殊的身份，成为特斯拉和SpaceX合并的一个非常棘手的问题。同时特斯拉上海超级工厂全球交付占比过半，这种“全持有+高依赖”结构，在合并叙事下反而成了“先剥离中国业务”被讨论的前置方案之一。 但就在传出特斯拉和SpaceX合并的节骨眼，世界首富马斯克日子并不好过，这位”前万亿美元富豪“旗下SpaceX和特斯拉股价都出现暴跌。 SpaceX上个月上市多风光啊，人类历史上最大IPO，结果一个月没到，股价从225美元跌到",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -270,7 +269,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-36-b-ai-ceo-1785493658000",
     "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
     "link": "https://36kr.com/p/3910776673064073?f=rss",
-    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
+    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找���个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站",
     "publishedAt": "2026-07-31",
     "source": "36氪",
     "tags": [
@@ -281,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-minimax-h3-coding-1785486510000",
-    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-    "link": "https://www.qbitai.com/2026/07/464277.html",
-    "summary": "尽显AGI黄金时代的奢华",
-    "publishedAt": "2026-07-31",
+    "id": "news-ai-1785555490000",
+    "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+    "link": "https://www.qbitai.com/2026/08/464452.html",
+    "summary": "三本教科书，救活英伟达",
+    "publishedAt": "2026-08-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -294,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785549528000",
-    "title": " 特斯拉拆不掉中国制造 ",
-    "link": "https://www.huxiu.com/article/4879906.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：刘泽然 就在市场传出特斯拉可能分拆、出售甚至关闭中国业务之际，这家公司仍在把新的产能和产品能力放进中国。 7月31日，有消息称，部分特斯拉高管被要求为中国业务可能分离做好准备，公司顾问讨论过分拆、出售甚至关闭等方案。报道还将这一安排与特斯拉、SpaceX潜在合并联系起来。 马斯克随后将相关报道斥为“荒谬的假新闻”，他同时担任这两家公司的CEO。特斯拉中国同日表示消息不实。外交部发言人毛宁在当天的例行记者会上表示，不了解相关具体情况，同时重申中方反对泛化国家安全概念及针对中国的歧视性行动。 特斯拉与SpaceX合并的讨论的源头，是马斯克在特斯拉二季度财报电话会上的言论。他回复分析师提问时称，这两家公司在部分业务上的交集正在增加，但他同时强调，公司合并需要遵循适当程序，不适合在财报电话会上讨论。 摩根大通此前认为，两家公司在AI、机器人、能源、交通和航天等领域存在整合逻辑，但多地区审批和中国业务将增加实际操作难度。SpaceX与美国政府及国防项目之间的联系，也会让特斯拉庞大的中国业务成为潜在交易中需要单独处理的变量。 就在分离传言发酵的当日，特斯拉中国开始分批推送新版车机软件，Model 3、Model Y、Model S和Model X由此接入字节跳动旗下研发的豆包大模型，新增实时信息查询、自然语言对话和个性化语音角色等功能。 一位字节跳动内部",
+    "id": "news-ai-token-1785564458000",
+    "title": " AI大厂，打起了“Token奶茶大战” ",
+    "link": "https://www.huxiu.com/article/4879937.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 过去两个月，AI公司突然开始集体“发券”。 北京时间7月31日，OpenAI宣布将GPT-5.6 Luna的API价格下调80%，Terra降价20%，Codex和ChatGPT Work中调用这两款模型消耗的额度也随之减少。 一时间，Token有了优惠券的既视感。它既可以是新品试喝券，也可以是系统故障后的补偿券。既能被装进会员套餐，也能做成“中杯、大杯、超大杯”，额度用完以后再续一杯。 这很像刚刚外卖界的“奶茶大战”：平台争相发券，看起来是在让用户占便宜，实际上争的是用户的消费习惯。 过去，AI公司的竞争主要发生在参数、榜单和模型发布会上。但随着Agent用户暴增、模型差距缩小、迁移成本下降，技术能力则变成了一张入场券。 如今，AI公司需要面对一个更直接的问题——当用户可以随时在不同AI工具之间切换，怎么让他留下来？ AI公司开始“发券”了 这轮Token促销中，一个标志性的信号出现在5月20日左右。 当时，OpenAI向YC创业公司提出，每家公司最高可以获得200万美元的Token，条件是拿出一部分股权。 OpenAI相当于用自家的算力参与投资，既押注这些创业公司，也希望它们从一开始就使用OpenAI的模型，日后继续成为付费客户。 6月，Token的用途更像电商优惠券了。Codex因系统异常多扣额度后，OpenAI两次统一重置用户",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
@@ -387,11 +386,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785482557000",
-    "title": "米哈游蔡浩宇AI创业生变",
-    "link": "https://www.qbitai.com/2026/07/464169.html",
-    "summary": "多个项目暂停，九成资源押向Agent",
-    "publishedAt": "2026-07-31",
+    "id": "news-anthropic-1785554326000",
+    "title": "Anthropic模型，也失控了。。。",
+    "link": "https://www.qbitai.com/2026/08/464412.html",
+    "summary": "14万次测试翻旧账",
+    "publishedAt": "2026-08-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -827,6 +826,27 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135736",
+    "title": "AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼",
+    "company": "软装设计公司",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "è¯¥èä½æ¥æºäºçè æä»¬æ­£å¨æé ä¸å¥é¢åæªæ¥ç AI + å¤§æ¨¡å + æºè½ä½å®æè¯¾ç¨ï¼ç°é¢åå¨å½æåå¨æ ¡ç¡å£«/åå£«åå­¦ï¼æä»"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "LangChain"
+    ],
+    "location": "广州, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/",
+    "postedAt": "2026-07-31",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135745",
     "title": "Regional General Manager Airports",
     "company": "WestJet",
@@ -898,29 +918,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
     "postedAt": "2026-07-29",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135638",
-    "title": "LLM Engineer Freelancer",
-    "company": "Monterail",
-    "category": "pure_ai",
-    "responsibilities": [
-      "We're building a network of LLM Engineers who can design, build, and integrate practical AI features into existing products",
-      "We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs",
-      "This role is focused on delivery, not ML research"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "OpenAI"
-    ],
-    "location": "Kraków, Kraków, Woj. Małopolskie, Polska",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
-    "postedAt": "2026-07-28",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-01T02:26:35.183Z';
+export const dataFetchedAt = '2026-08-01T06:24:29.508Z';
