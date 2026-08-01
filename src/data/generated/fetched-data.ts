@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -81,17 +81,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1100-1785602445000",
-    "title": " 一封价值1100亿的道歉信 ",
-    "link": "https://www.huxiu.com/article/4880007.html?f=rss",
-    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部 一位00后天才小伙子，名叫Leopold，15岁考上哥伦比亚大学，19岁以全系第一毕业，拿了数学、统计、经济三个学位。 进过OpenAI的超级对齐团队，又因为跟领导对着干被开除。 然后，他转身做了一只全市场最猛的AI加速基金。 这只AI加速基金以两个多亿美元起家，不到两年赚到超过200亿美元，据说峰值管理规模一度超过400亿美元。然而6天后，它因为杠杆被迫平仓了。 Leopold平仓后，基金的杠杆清到了零。随后他给LP发了一封信，信里说7月单月回撤67%，年初至今仍盈利80%。 按照基金6月末约240亿美元AUM来算，这一月他大概亏掉160亿美元，约合近1100亿元人民币。我先把信放在这儿，大家可以逐字学习，看看一个亏了160亿美元的人，是怎么给投资人交代的。 各位合伙人： 这个月我们让你们失望了。我们离永久性资本减值的距离，已经近到我们无法接受。 尽管最终我们找到了一个保护基金、也保护各位投资人的方案，但我们经营这只基金的本意，是压根就不该让自己陷入这种境地。 波动是长期投资回报的代价。过去两年，尽管偶有急剧回撤，我们交出的成绩是出色的。但我们的基金必须始终这样构建：能够承受一次亏损，然后活到下一场仗。 我会把从这次经历中吸取必要的教训，当成自己的使命。 目前的情况是这样： 整个七月，组合经历了大幅回撤，过去一周核心持仓的极端",
+    "id": "news--1785623919000",
+    "title": " 当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了 ",
+    "link": "https://www.huxiu.com/article/4880009.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 2026年4月，中国社会消费品零售总额同比增速0.2%。 据国家统计局数据，这是2022年12月以来的最低值。 同一时期，汽车零售额同比-15.3%，家用电器-15.1%，建材-13.8%，家具-10.4%。 四个大宗消费品类同时两位数下滑，历史上极为罕见。 环比下降0.48%，年内首次月度负增长。 限额以上单位消费品零售额同比下降4.4%，其中商品零售下降4.9%。 规模以上零售企业的收缩幅度，远超整体数据所显示的水平。 但另一组数据完全相反。 据艾媒咨询发布的《2025—2029年中国情绪经济消费趋势洞察报告》，2025年中国情绪经济市场规模达2.72万亿元，过去三年复合增长率18.6%。 是同期社零增速的近5倍。 中航证券在《情绪经济专题报告》中预计，2026年将突破3万亿，2029年突破4.5万亿。 一边是0.2%的全面收缩。 一边是18.6%的逆势暴涨。 一边在拼命省钱，一边在拼命花钱买安慰。 这不是巧合。 这是同一枚硬币的两面。 一个被忽略的事实是：情绪经济的爆发，不是消费升级的产物，而是消费降级的伴生症状。 越省钱，越焦虑。 越焦虑，越需要安慰。 越需要安慰，越愿意为情绪买单。 而\"安慰人\"这件事，恰好是中国当下最赚钱的生意。 一、塌陷与暴增：同一个经济体里的两个平行世界 先看\"塌陷\"的那一面。 2026年4月的消费数据，",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -121,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -187,10 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785600554000",
-    "title": " 当AI模型被按下暂停键 ",
-    "link": "https://www.huxiu.com/article/4880006.html?f=rss",
-    "summary": "本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《当AI模型被按下暂停键｜深度报道》 当AI模型被按下暂停键：美国限制外国公民访问Anthropic 2款模型，AI模型开始进入出口管制视野 1模型访问权与“越狱”风险之争 2026年6月12日，美国人工智能公司Anthropic宣布，因美国政府下达国家安全指令，公司暂停客户访问Claude Fable 5和Claude Mythos 5。限制对象包括美国境外用户、身处美国的外国公民，以及Anthropic内部的外籍员工。由于短时间内无法逐一核验用户身份，公司暂时关闭了所有客户的访问权限。 这不是一次普通的产品下线。过去几年，美国对人工智能的出口限制主要针对高端芯片、先进制程设备和云算力。此次事件表明，监管对象正在进一步延伸到模型访问权。前沿模型提供的代码分析、漏洞发现和科研辅助能力，也开始被纳入国家安全审查。 Anthropic在声明中说，美国政府担心Fable 5的安全措施可能被“越狱”，从而让用户获得原本受限的网络安全能力，包括发现软件漏洞。所谓“越狱”，是指用户通过特殊提示词、多轮对话、角色扮演、任务拆解、编码转换或上下文诱导等方式，绕过模型内置的安全防护机制，使模型回答原本应当拒绝的问题，或执行原本受限的操作。与传统软件漏洞不同，大模型“越狱”往往不表现为单一代码缺陷，而是与提示词设计、模型对齐程度、上下文理解、",
+    "id": "news-1100-1785602445000",
+    "title": " 一封价值1100亿的道歉信 ",
+    "link": "https://www.huxiu.com/article/4880007.html?f=rss",
+    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部 一位00后天才小伙子，名叫Leopold，15岁考上哥伦比亚大学，19岁以全系第一毕业，拿了数学、统计、经济三个学位。 进过OpenAI的超级对齐团队，又因为跟领导对着干被开除。 然后，他转身做了一只全市场最猛的AI加速基金。 这只AI加速基金以两个多亿美元起家，不到两年赚到超过200亿美元，据说峰值管理规模一度超过400亿美元。然而6天后，它因为杠杆被迫平仓了。 Leopold平仓后，基金的杠杆清到了零。随后他给LP发了一封信，信里说7月单月回撤67%，年初至今仍盈利80%。 按照基金6月末约240亿美元AUM来算，这一月他大概亏掉160亿美元，约合近1100亿元人民币。我先把信放在这儿，大家可以逐字学习，看看一个亏了160亿美元的人，是怎么给投资人交代的。 各位合伙人： 这个月我们让你们失望了。我们离永久性资本减值的距离，已经近到我们无法接受。 尽管最终我们找到了一个保护基金、也保护各位投资人的方案，但我们经营这只基金的本意，是压根就不该让自己陷入这种境地。 波动是长期投资回报的代价。过去两年，尽管偶有急剧回撤，我们交出的成绩是出色的。但我们的基金必须始终这样构建：能够承受一次亏损，然后活到下一场仗。 我会把从这次经历中吸取必要的教训，当成自己的使命。 目前的情况是这样： 整个七月，组合经历了大幅回撤，过去一周核心持仓的极端",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -293,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785600038000",
-    "title": " AI 没有让企业变乱，它只是让旧账同时到期 ",
-    "link": "https://www.huxiu.com/article/4880003.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 当软件从\"被人使用\"变成\"替人执行\"，企业积累多年的数据债、流程债与责任债，第一次被要求同时结清。 一、Demo惊艳，落地停滞 在多数企业的想象里，AI改造是一件路径清晰的事：接入大模型，让它读取企业资料、调用几个业务接口，再在原有系统旁边加一个对话框。员工用自然语言查询订单、生成报表、发起审批，甚至让Agent自动跑通采购、客服与对账。 演示环节几乎不会出错。一句话进去，几秒钟出结果，原本需要横跨三个系统、复制五次数据的工作被压缩成一次交互。 但一旦推进到真实业务，问题会迅速集中出现。 同一个客户，在CRM、财务和售后系统里挂着三个不同的名称；同一笔订单，销售认为已经完成，仓库认为尚未出库，财务认为还没回款；一条白纸黑字写在制度里的审批规则，实际执行中存在大量从未进入系统的例外；一个接口明明成功返回了数据，却没有人能说清里面的\"完成\"\"有效\"\"已确认\"到底指什么。 企业随后往往得出一个看似合理的结论：模型还不够成熟，再等等。 但在相当多的案例中，卡住项目的并不是模型。 AI没有让企业系统变乱。它只是让那些长期依靠人工经验维持的混乱，第一次无处可藏。 二、人，是企业系统里最大的一块未记账中间件 传统企业软件给人一种高度秩序化的印象：客户有编号，订单有状态，员工有权限，流程有节点，审批有留痕",
+    "id": "news-ai-1785600554000",
+    "title": " 当AI模型被按下暂停键 ",
+    "link": "https://www.huxiu.com/article/4880006.html?f=rss",
+    "summary": "本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《当AI模型被按下暂停键｜深度报道》 当AI模型被按下暂停键：美国限制外国公民访问Anthropic 2款模型，AI模型开始进入出口管制视野 1模型访问权与“越狱”风险之争 2026年6月12日，美国人工智能公司Anthropic宣布，因美国政府下达国家安全指令，公司暂停客户访问Claude Fable 5和Claude Mythos 5。限制对象包括美国境外用户、身处美国的外国公民，以及Anthropic内部的外籍员工。由于短时间内无法逐一核验用户身份，公司暂时关闭了所有客户的访问权限。 这不是一次普通的产品下线。过去几年，美国对人工智能的出口限制主要针对高端芯片、先进制程设备和云算力。此次事件表明，监管对象正在进一步延伸到模型访问权。前沿模型提供的代码分析、漏洞发现和科研辅助能力，也开始被纳入国家安全审查。 Anthropic在声明中说，美国政府担心Fable 5的安全措施可能被“越狱”，从而让用户获得原本受限的网络安全能力，包括发现软件漏洞。所谓“越狱”，是指用户通过特殊提示词、多轮对话、角色扮演、任务拆解、编码转换或上下文诱导等方式，绕过模型内置的安全防护机制，使模型回答原本应当拒绝的问题，或执行原本受限的操作。与传统软件漏洞不同，大模型“越狱”往往不表现为单一代码缺陷，而是与提示词设计、模型对齐程度、上下文理解、",
     "publishedAt": "2026-08-01",
     "source": "虎嗅",
     "tags": [
@@ -333,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-is-still-making-the-case-for-parenting-via-chatgp-1785604054000",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -975,4 +974,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-01T20:45:13.510Z';
+export const dataFetchedAt = '2026-08-01T22:50:53.916Z';
