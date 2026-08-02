@@ -959,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-02T19:03:26.697Z';
+export const dataFetchedAt = '2026-08-02T20:49:48.412Z';
