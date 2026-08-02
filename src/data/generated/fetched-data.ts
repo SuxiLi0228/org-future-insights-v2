@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
-    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+    "id": "news-the-global-memory-shortage-hits-the-macbook-air-1785706439000",
+    "title": "The global memory shortage hits the MacBook Air",
+    "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+    "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
@@ -68,6 +68,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-200-1785581146000",
+    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+    "link": "https://www.qbitai.com/2026/08/464781.html",
+    "summary": "具身智能的τ（bushi）",
+    "publishedAt": "2026-08-01",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news--1785697127000",
     "title": " 休达偷渡潮：欧洲真的遭到“入侵”了吗？ ",
     "link": "https://www.huxiu.com/article/4880104.html?f=rss",
@@ -107,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-sam-altman-and-ai-s-decel-debate-1785704062000",
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
@@ -160,6 +173,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news--1785580727000",
+    "title": "获奖之后，王虹最想感谢的人",
+    "link": "https://www.qbitai.com/2026/08/464761.html",
+    "summary": "\"他真的给了我很大的帮助\"",
+    "publishedAt": "2026-08-01",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-ai-1785694706000",
     "title": " 汽车回血，AI烧钱，特斯拉迎来最贵的一次转身 ",
     "link": "https://www.huxiu.com/article/4880103.html?f=rss",
@@ -200,18 +226,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-these-app-store-hidden-gems-prove-there-s-still-room-for-gre-1785684199000",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
+    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -255,6 +279,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-tiktok-sora-1785580398000",
+    "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+    "link": "https://www.qbitai.com/2026/08/464713.html",
+    "summary": "狂刷3小时！",
+    "publishedAt": "2026-08-01",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-5-1785686709000",
     "title": " 餐厨厨余垃圾市场，项目闭环的5个关键 ",
     "link": "https://www.huxiu.com/article/4880102.html?f=rss",
@@ -294,11 +331,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "summary": "How one founder house is betting work-life balance can beat burnout .",
-    "publishedAt": "2026-08-01",
+    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
+    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -347,57 +384,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785686681000",
-    "title": " AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？ ",
-    "link": "https://www.huxiu.com/article/4880101.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 去年冬天，麻省理工学院的一间写作教室里，空气凝滞，只有暖气片在滋滋作响。 教授迈卡·内森（Micah Nathan）布置了一场小说研讨会。他在MIT教创意写作已经七年，见过太多STEM学霸在文学课上手足无措的样子。这些学生能解最复杂的微分方程，但一让他们写一个短篇故事，整个人的语言系统就开始结巴。 那晚他读了两个学生的作品。读了第一段，就知道不是人写的。 太干净了。每一个隐喻都恰到好处得像从模具里浇出来的。人物设定完整但没有任何意外。情节弧线精准地落在该落的地方。他后来用了一个英文词来描述这种质地：dead perfection。死掉的完美。 这两个学生被叫到全班面前，一开始很安静，然后其中一个哭了。她说她用AI不是想作弊，是害怕被嘲笑。她害怕自己写得烂，害怕同学觉得她笨。 她先把故事丢给AI做语法检查，AI建议改几行，她接受了。AI又问要不要做结构性修改，她又接受了。最后AI说我可以帮你重写整篇。等她回过神，故事已经不是她的了。 另一个男生耸耸肩，说他没有写过小说，有一个想法但不知道怎么开始。教授问他为什么不来问我。他没说话。 那晚课堂里爆发的对话，被内森后来写进了《卫报》的一篇长文里。有学生举手问：为什么AI写故事就不好，只要故事本身是基于我们的想法？还有人问：MIT从1959年就开始搞AI研究，我们为什么要在意这个？",
-    "publishedAt": "2026-08-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-loop-ai-coding-graph-1785669871000",
-    "title": "Loop才火了六周，AI Coding为什么又开始谈Graph？",
-    "link": "https://www.tmtpost.com/8088190.html",
-    "summary": "新概念Graph Engineering为什么又火爆AI Coding圈？其不是Loop的替代品，而是从“单个Agent反复执行”走向“多个节点协同工作”的问题",
-    "publishedAt": "2026-08-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-atta-1785406519000",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "id": "news-openai-ipo-1785560569000",
+    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+    "link": "https://www.qbitai.com/2026/08/464693.html",
+    "summary": "对前沿实验室估值悲观",
     "publishedAt": "2026-08-01",
-    "source": "TechCrunch",
+    "source": "量子位",
     "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "china",
+      "ai",
+      "technology"
     ]
   }
 ];
@@ -959,4 +955,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-02T20:49:48.412Z';
+export const dataFetchedAt = '2026-08-02T22:52:07.953Z';
