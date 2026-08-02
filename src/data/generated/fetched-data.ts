@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "summary": "How one founder house is betting work-life balance can beat burnout .",
-    "publishedAt": "2026-08-01",
+    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
+    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-if-1785681465000",
-    "title": " 曾被质疑“非100%椰子水”的品牌if，业绩爆雷了？ ",
-    "link": "https://www.huxiu.com/article/4880092.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：公司研究院 7月31日晚，“椰子水第一股”IFBH（06603.HK）发布的一则盈利警告，让市场对IF的发展前景产生疑虑。 公告显示，公司预计2026年上半年公司净利润同比暴跌65%至75%，收入同比下滑40%至50%，并将主要原因归结为地缘政治的紧张局势以及整个品类消费情绪疲弱。 而就在一年多前，它还顶着“46人撑起百亿市值”的轻资产神话登陆港交所，开盘首日市值一度冲至126.8亿港元，但截至7月31日收盘，IFBH市值仅约16亿港元，较最高点蒸发超110亿港元，跌幅接近九成。 曾经靠“100%天然椰子水”横扫便利店冷柜的if，为何短短一年便陷入营收大减与利润大幅缩水的困局？轻资产红利褪去后，供应链短板、品牌信任等多重问题也一并浮出水面。 01 泰国企二代的轻资产神话 if椰子水创始人彭萨克，打从出生起就自带豪门光环。 图为彭萨克图源：网络 他是泰国纺织巨头苏旺家族的二代子弟，于1980年出生，从小到大耳濡目染都是生意场上的门道，创业起点远非普通人可比。 彭萨克的父亲Kitti Pongsakdi早在1970年就创办了苏旺纺织，深耕五十多年，如今已是泰国头部纱线、面料生产商，年产纱线织物1.2万至1.5万吨，九成产品销往海外。 图为旗下的毕里斯顿苏安园景酒店图源：网络 不止纺织主业，家族生意版图铺得很广，例如地产方面，苏旺集团在曼谷无线路",
+    "id": "news-5-1785686709000",
+    "title": " 餐厨厨余垃圾市场，项目闭环的5个关键 ",
+    "link": "https://www.huxiu.com/article/4880102.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：餐厨厨余行业的下一轮机会，本质上来自城市有机废弃物供应链的重构。能够把收运、处理、收费、产品和园区协同连成闭环的企业，才可能获得长期价值。 餐厨厨余垃圾处理被视为，固废行业里最容易产生幻觉的赛道。 它看上去什么都有，垃圾分类政策、无废城市建设、资源化利用、非居民厨余计量收费、沼气、油脂、有机肥，还有一堆听起来很绿色、很循环、很未来的产业叙事。 但真正投运以后，很多项目开始走形。例如，餐饮好料被灰色渠道截流，居民端厨余杂质高，沼气产量波动，有机肥找不到出路，处置费和补贴回款慢，导致很多项目越做越拧巴。 “建设期热闹，运营期拧巴”——这是大量餐厨厨余项目的真实写照。在这一领域，应该如何识别真实机会和防范陷阱，本文将对此展开讨论。 定位不清晰 项目难成立 餐厨厨余项目最大的困境，是定位混乱。 立项时按资源化项目讲故事，运营时按公共服务项目要补贴，考核时按环保项目提要求，几套逻辑混在一起，最后谁都不舒服。 把它当环保项目，核心看减量化和无害化，收益主要来自处置费和政府购买服务。把它当能源项目，核心看油脂、沼气和生物燃料，收益来自资源化产品。把它当肥料项目，产品出路最容易卡住。把它当城市公共服务，市场化弹性又有限。 一头连着公共治理，一头又想嫁接市场化收入。身份太多，项目运营就容易走形。 但这并不是说定位本身无解，而是要先回答一个",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -107,16 +107,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "publishedAt": "2026-08-01",
+    "id": "news-these-app-store-hidden-gems-prove-there-s-still-room-for-gre-1785684199000",
+    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+    "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy",
+      "ecommerce"
     ]
   },
   {
@@ -160,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-90-ai-1785681410000",
-    "title": " 一分钟出报告、90%无需修改，影禾医脉孟滔：AI把诊断效率拉满了 ",
-    "link": "https://www.huxiu.com/article/4880091.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：AI研究院 “河图是中国上古神话中，伏羲氏看到龙马背上驮着的图卷，从中悟出八卦，理解了治理世界的法则。”上海影禾医脉智能科技有限公司首席医疗官孟滔，用这个典故向凤凰《AI研究院》阐释了他对医疗数据治理的理解：“医疗数据原本处于相对混沌的状态，我们需要一个规则，把这些数据变成标准化、可治理、可应用的数据。” “我自己也是一个医学影像医生，”孟滔说，“当我想到AI的时候，第一个设想的场景就是，它必须帮我去完成一份影像报告。但这个诉求，三年前、五年前的AI产品并没有真正满足。当时的AI更多聚焦在单病种，能告诉你的仅有一两种病变。而一张CT片从上扫到下，可能有上百个断层，里面有数十种甚至上百种病变，医生真正需要的是一份完整的报告。” 对于AI领域的竞争，孟滔则表示：“未来的差距不在模型架构，在数据。从历史的角度来看，哪家公司最后摘得皇冠，这件事没有那么重要。大家都在为科技的发展迭代贡献自己的力量。这些产品很好，也许有一天有一家变得更好，那我就会更喜欢那家的东西。AI时代的美妙之处就在于，无限可能，未来无限。” 在TiD质量竞争力大会现场，孟滔就AI医疗平权、AI医疗出海、大模型之争、人机共生等热点话题，回答了凤凰《AI研究院》的提问。 以下为凤凰《AI研究院》对话孟滔的核心要点： 01 谈模型竞争：未来的差距不在模型架构，在数据 孟滔坦言，模型层的",
+    "id": "news-ai-1785686681000",
+    "title": " AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？ ",
+    "link": "https://www.huxiu.com/article/4880101.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 去年冬天，麻省理工学院的一间写作教室里，空气凝滞，只有暖气片在滋滋作响。 教授迈卡·内森（Micah Nathan）布置了一场小说研讨会。他在MIT教创意写作已经七年，见过太多STEM学霸在文学课上手足无措的样子。这些学生能解最复杂的微分方程，但一让他们写一个短篇故事，整个人的语言系统就开始结巴。 那晚他读了两个学生的作品。读了第一段，就知道不是人写的。 太干净了。每一个隐喻都恰到好处得像从模具里浇出来的。人物设定完整但没有任何意外。情节弧线精准地落在该落的地方。他后来用了一个英文词来描述这种质地：dead perfection。死掉的完美。 这两个学生被叫到全班面前，一开始很安静，然后其中一个哭了。她说她用AI不是想作弊，是害怕被嘲笑。她害怕自己写得烂，害怕同学觉得她笨。 她先把故事丢给AI做语法检查，AI建议改几行，她接受了。AI又问要不要做结构性修改，她又接受了。最后AI说我可以帮你重写整篇。等她回过神，故事已经不是她的了。 另一个男生耸耸肩，说他没有写过小说，有一个想法但不知道怎么开始。教授问他为什么不来问我。他没说话。 那晚课堂里爆发的对话，被内森后来写进了《卫报》的一篇长文里。有学生举手问：为什么AI写故事就不好，只要故事本身是基于我们的想法？还有人问：MIT从1959年就开始搞AI研究，我们为什么要在意这个？",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -200,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -253,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785680751000",
-    "title": " 请愿复活 “第六人”？《恋与深空》社群陷入撕裂 ",
-    "link": "https://www.huxiu.com/article/4880090.html?f=rss",
-    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队，原文标题：《请愿复活 “第六人”？《恋与深空》社群陷入撕裂》 万万没想到，《恋与深空》的“第六人”事件成了连续剧。 此前小娱从出海的角度分析过，《恋与深空》为何要空降一位不符合国内女性审美的狼人男敖尹。但该角色要上线的消息引发“百媒大报”，叠纸不得不宣布永久删除该角色，并承诺不再加新人。 原以为诉求得到解决，事情就该平息。没想到还有2.0版本——先是由喜爱敖尹人设的海外玩家集体注册微博发起，后国内部分玩家跟进，集体请愿要求重新上线敖尹。甚至拿出“消费者权益”大旗，从集体停氪到相关举报一条龙起来。 这不是左右脑互搏吗？相信圈外人看到这个局面会觉得相当滑稽，而深入玩家社群会发现，“第六人”事件使得《恋与深空》的社群彻底割裂，她们自称“爱与高原”“淡与平原”和“恨与浅地”，且三方都在争夺话语权进行混战，而叠纸或是怕做多错多，官微从7月8日更新后就再无新动静，即不参与BW也不参加ChinaJoy。流水方面更是从“第六人”事件后就持续跌幅。 与端游时代走来的巨头相比，次世代厂商对于玩家社群的依赖程度更高，他们之间的关系也不再单纯是消费者与厂商的关系，而变成了一种更亲密甚至更扭曲的共生关系。《恋与深空》的社群割裂，是积怨的集中引爆，也为其他厂商敲响了警钟：爱有时候是最具备危险性的武器。 ＃本文已采访四位相关人士，他们也是「娱乐资本论」202",
+    "id": "news--1785686445000",
+    "title": " 猛犸象易主，专业户外崛起？ ",
+    "link": "https://www.huxiu.com/article/4880100.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：Brandstar 中国高端户外消费正在分化。冲锋衣成为大众服饰的同时，攀岩、冰雪与越野等运动也在形成更专业的产品需求，这为猛犸象提供了新的增长空间。 7月30日，CPE源峰与Jacobs Capital宣布达成交易，CPE源峰将收购瑞士户外品牌猛犸象（Mammut）。易主之后，猛犸象的总部、设计与研发仍将留在瑞士，现有管理团队也将继续负责品牌运营。 猛犸象上一次易主是在2021年。当时，Telemos Capital以2.3亿瑞士法郎的估值从Conzzeta手中收购猛犸象。猛犸象2020年收入为2.18亿瑞士法郎，成交估值大致相当于一年收入。 CPE源峰与Jacobs Capital在交易公告中均提到亚洲市场的增长潜力。猛犸象近两年的中国业务，也为这一判断提供了依据。CPE源峰过去投资过多个消费品牌，包括美丽田园、汉堡王中国、泡泡玛特、蜜雪冰城和老铺黄金等。 猛犸象在中国经营已有十余年，真正的转折发生在最近这一轮户外热潮中。据公开披露口径，猛犸象中国区销售额在2023年增长85%，2024年增长97%；截至2025年底，中国内地门店达到61家。此次交易金额没有公开，结合公告对亚洲市场的表述与中国区的销售增速，猛犸象在中国的扩张潜力应是本次收购的重要估值依据。 01 高端户外品牌如何获得溢价 2019年，安踏领衔的财团以46",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -292,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-you-still-buy-your-next-smartphone-or-subscribe-to-it-1785610047000",
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -345,16 +347,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-1785679983000",
-    "title": " 厄尔尼诺“冲击波”，抵达A股铜企 ",
-    "link": "https://www.huxiu.com/article/4880087.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：梁祥才 太平洋上，一场可能跻身150年来最强的厄尔尼诺事件正在形成。 对合计占全球约半数产量的南美洲和非洲铜矿区而言，暴雨洪涝威胁开采和物流，干旱缺水压制水电供给。 “冲击波”已抵达A股铜企。从互动平台的投资者提问，到矿区提前储备的柴油与发电机组，一场关于“水与电”的压力测试正在展开。有矿企布局自备水电、光伏保障体系，但新增核心水电站投产集中在2028-2029年，柴油发电作为主要应急兜底方案。 在铜矿转入短缺背景下，气候扰动边际效应或被放大，但也有声音提醒，厄尔尼诺只是影响铜价的多重变量之一，若宏观流动性不配合，铜价对天气的敏感度可能下降。 洛阳钼业位于刚果（金）的KFM铜产品生产现场来源：洛阳钼业 矿企如何应对？ 近期，A股投资者互动平台上，关于厄尔尼诺的提问指向在海外拥有铜矿资产的上市公司。 铜陵有色（000630.SZ）旗下的最大单一矿山米拉多铜矿位于南美洲厄瓜多尔。7月3日，公司在投资者互动平台表示，“对于厄尔尼诺现象带来的电力影响，米拉多铜矿将积极采取相关应对措施努力保障其生产经营的正常进行”。 财联社记者以投资者身份从铜陵有色获悉，极端天气属于不可抗力因素，对米拉多铜矿所带来具体影响难以预测，电力保障方面，公司也有相关的自备电设施储备。 有厄瓜多尔铜矿企相关人士向财联社记者表示，该国主要以水电为主，柴油发电成本较高，可作为应急兜底",
+    "id": "news-ai-ai-1785686422000",
+    "title": " AI不会成为世界的主人，但AI公司可能会。 ",
+    "link": "https://www.huxiu.com/article/4880099.html?f=rss",
+    "summary": "本文来自微信公众号： 普通人也要懂逻辑 ，作者：冬雪围城 最近AI圈接连出了几个事件，其实预示着一个更深层的危机： 2026年5月20日，Erdős单位距离猜想被推翻，AI自主生成了完整证明。 2026年7月20日，雅可比猜想被AI找出反例。 2026年7月，Dinitz-Garg-Goemans图论猜想被AI找出反例。 这类新闻，相信大家已经见怪不怪了。现在AI深度参与科研，早已是现实。 这让我不禁想起AI刚诞生时，大家的质疑无非两条： 一，AI会不会产生意识，毁灭人类？ 二，AI会抢走多少人的工作？ 但今天，这两条质疑几乎都消失了。我们接受了：现阶段的AI不会产生真正意识，真正控制它的是背后的AI公司。同时AI在工作、生活和学术研究中展现出强大能力，很多质疑声渐渐消失。 但很少有人意识到，另一个危机正在悄悄逼近：知识垄断。 真正的危机，不在AI本身，而在美国那几家顶级AI公司。 先看几条信息。 2024年12月，前OpenAI首席科学家伊利亚提出【数据峰值】概念，认为AI行业已触及可用训练数据的极限。 问题来了：人类数据走到尽头之后，后面那些更强的模型，是怎么训练出来的？ 2025年1月，马斯克表示：人类知识的累积总和，基本上在2024年已被用尽。接下来，要靠AI生成的合成数据补充。 2026年4月，奥尔特曼被问及是否已在测试完全使用合成数据训练的模型，他没有正面回应，只说了一",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -385,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-is-still-making-the-case-for-parenting-via-chatgp-1785604054000",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -956,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-02T14:58:28.885Z';
+export const dataFetchedAt = '2026-08-02T16:54:20.931Z';
