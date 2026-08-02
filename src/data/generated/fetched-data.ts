@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
+    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1785686709000",
-    "title": " 餐厨厨余垃圾市场，项目闭环的5个关键 ",
-    "link": "https://www.huxiu.com/article/4880102.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：餐厨厨余行业的下一轮机会，本质上来自城市有机废弃物供应链的重构。能够把收运、处理、收费、产品和园区协同连成闭环的企业，才可能获得长期价值。 餐厨厨余垃圾处理被视为，固废行业里最容易产生幻觉的赛道。 它看上去什么都有，垃圾分类政策、无废城市建设、资源化利用、非居民厨余计量收费、沼气、油脂、有机肥，还有一堆听起来很绿色、很循环、很未来的产业叙事。 但真正投运以后，很多项目开始走形。例如，餐饮好料被灰色渠道截流，居民端厨余杂质高，沼气产量波动，有机肥找不到出路，处置费和补贴回款慢，导致很多项目越做越拧巴。 “建设期热闹，运营期拧巴”——这是大量餐厨厨余项目的真实写照。在这一领域，应该如何识别真实机会和防范陷阱，本文将对此展开讨论。 定位不清晰 项目难成立 餐厨厨余项目最大的困境，是定位混乱。 立项时按资源化项目讲故事，运营时按公共服务项目要补贴，考核时按环保项目提要求，几套逻辑混在一起，最后谁都不舒服。 把它当环保项目，核心看减量化和无害化，收益主要来自处置费和政府购买服务。把它当能源项目，核心看油脂、沼气和生物燃料，收益来自资源化产品。把它当肥料项目，产品出路最容易卡住。把它当城市公共服务，市场化弹性又有限。 一头连着公共治理，一头又想嫁接市场化收入。身份太多，项目运营就容易走形。 但这并不是说定位本身无解，而是要先回答一个",
+    "id": "news--1785697127000",
+    "title": " 休达偷渡潮：欧洲真的遭到“入侵”了吗？ ",
+    "link": "https://www.huxiu.com/article/4880104.html?f=rss",
+    "summary": "本文来自微信公众号： 魏城看天下 ，作者：英格兰湖区 西方右派终于等到了一个可以痛击左派政策的“完美风暴”。 7月31日，如平地惊雷般，各种角度拍摄的视频在全球各种语言的社交媒体上“炸响”。我最初是在微信的各种群里看到这类视频的。视频中，数以万计的阿拉伯模样的年轻人或游泳、或奔跑，涌入一个小镇，微信里的中文标题更加耸人听闻—— “西班牙失守了！” “欧洲遭到非洲非法移民入侵！” “6万摩洛哥非法移民涌入居民只有8万人的西班牙小镇！” …… 右派迅速出击 我还没来得及查看权威媒体的新闻报道，就看到了西方右派的愤怒谴责，不过，他们谴责的不是偷渡客，而是西班牙左派政府。 因为目前在西班牙执政的是一个左翼联盟，担任首相的西班牙工人社会党领袖桑切斯还在世界政治舞台上高调反对以色列的加沙政策和特朗普的伊朗战争，所以，欧美世界的右翼政治领袖们很快抓住了这个机会，抨击西班牙“灾难性“的移民政策。 不出所料，美国总统特朗普也高调地批评了西班牙政府：“我看到了西班牙的情况，我观看了发生的这场灾难。这看起来就像是对一个国家的入侵。” 美国国务院更是直截了当地将这一事件的责任完全归咎于桑切斯的社会党政府：“这一不可接受的事件是西班牙政府故意纵容和促成大规模非法移民进入欧洲的直接后果。” 不过，特朗普和他领导的美国政府更在意的，是美国自己的国内政治，是今年11月的美国国会中期选举。特朗普批评完西班牙政府之后",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -107,18 +107,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-these-app-store-hidden-gems-prove-there-s-still-room-for-gre-1785684199000",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
+    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -162,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785686681000",
-    "title": " AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？ ",
-    "link": "https://www.huxiu.com/article/4880101.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 去年冬天，麻省理工学院的一间写作教室里，空气凝滞，只有暖气片在滋滋作响。 教授迈卡·内森（Micah Nathan）布置了一场小说研讨会。他在MIT教创意写作已经七年，见过太多STEM学霸在文学课上手足无措的样子。这些学生能解最复杂的微分方程，但一让他们写一个短篇故事，整个人的语言系统就开始结巴。 那晚他读了两个学生的作品。读了第一段，就知道不是人写的。 太干净了。每一个隐喻都恰到好处得像从模具里浇出来的。人物设定完整但没有任何意外。情节弧线精准地落在该落的地方。他后来用了一个英文词来描述这种质地：dead perfection。死掉的完美。 这两个学生被叫到全班面前，一开始很安静，然后其中一个哭了。她说她用AI不是想作弊，是害怕被嘲笑。她害怕自己写得烂，害怕同学觉得她笨。 她先把故事丢给AI做语法检查，AI建议改几行，她接受了。AI又问要不要做结构性修改，她又接受了。最后AI说我可以帮你重写整篇。等她回过神，故事已经不是她的了。 另一个男生耸耸肩，说他没有写过小说，有一个想法但不知道怎么开始。教授问他为什么不来问我。他没说话。 那晚课堂里爆发的对话，被内森后来写进了《卫报》的一篇长文里。有学生举手问：为什么AI写故事就不好，只要故事本身是基于我们的想法？还有人问：MIT从1959年就开始搞AI研究，我们为什么要在意这个？",
+    "id": "news-ai-1785694706000",
+    "title": " 汽车回血，AI烧钱，特斯拉迎来最贵的一次转身 ",
+    "link": "https://www.huxiu.com/article/4880103.html?f=rss",
+    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 特斯拉开始把造车产线让给机器人。 2026年第二季度，特斯拉拆除了弗里蒙特工厂原有的Model S/X生产线，开始安装首代Optimus人形机器人产线。7月30日，第1000万辆特斯拉又在同一座工厂下线。从汽车产量突破1000万辆，到汽车产线为机器人腾出空间，特斯拉正在完成一次极具象征意义的换轨。 这次换轨发生在一个微妙的时间点。二季度，特斯拉汽车交付量同比增长25%，营收同比增长26%，营业利润却下降57%，自由现金流转为负10.92亿美元。财报发布后的首个交易日，特斯拉股价下跌14.52%，市值蒸发约2000亿美元。 过去，特斯拉依靠扩大汽车产量摊薄成本，再用汽车业务产生的现金投入下一轮扩张。现在，汽车销量刚刚恢复，Robotaxi、Optimus和AI算力却同时进入重投入阶段。 拆掉一条汽车产线并不意味着特斯拉放弃造车，但它释放的信号已经足够明确：特斯拉正在把资金、产能和组织资源，从已经得到验证的汽车业务，转向尚未完成商业化的物理AI。真正的问题不是马斯克的新故事够不够大，而是汽车利润能不能撑到新业务接棒。 01：汽车卖回来了，利润没有跟上 经历2024年、2025年连续两年交付量下降后，特斯拉的汽车业务在2026年重新增长。 上半年，特斯拉全球交付约83.8万辆，同比增长约16.3%。其中，二季度交付超过48万辆，同比增长25%",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -202,16 +200,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "summary": "How one founder house is betting work-life balance can beat burnout .",
-    "publishedAt": "2026-08-01",
+    "id": "news-these-app-store-hidden-gems-prove-there-s-still-room-for-gre-1785684199000",
+    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+    "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy",
+      "ecommerce"
     ]
   },
   {
@@ -255,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785686445000",
-    "title": " 猛犸象易主，专业户外崛起？ ",
-    "link": "https://www.huxiu.com/article/4880100.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：Brandstar 中国高端户外消费正在分化。冲锋衣成为大众服饰的同时，攀岩、冰雪与越野等运动也在形成更专业的产品需求，这为猛犸象提供了新的增长空间。 7月30日，CPE源峰与Jacobs Capital宣布达成交易，CPE源峰将收购瑞士户外品牌猛犸象（Mammut）。易主之后，猛犸象的总部、设计与研发仍将留在瑞士，现有管理团队也将继续负责品牌运营。 猛犸象上一次易主是在2021年。当时，Telemos Capital以2.3亿瑞士法郎的估值从Conzzeta手中收购猛犸象。猛犸象2020年收入为2.18亿瑞士法郎，成交估值大致相当于一年收入。 CPE源峰与Jacobs Capital在交易公告中均提到亚洲市场的增长潜力。猛犸象近两年的中国业务，也为这一判断提供了依据。CPE源峰过去投资过多个消费品牌，包括美丽田园、汉堡王中国、泡泡玛特、蜜雪冰城和老铺黄金等。 猛犸象在中国经营已有十余年，真正的转折发生在最近这一轮户外热潮中。据公开披露口径，猛犸象中国区销售额在2023年增长85%，2024年增长97%；截至2025年底，中国内地门店达到61家。此次交易金额没有公开，结合公告对亚洲市场的表述与中国区的销售增速，猛犸象在中国的扩张潜力应是本次收购的重要估值依据。 01 高端户外品牌如何获得溢价 2019年，安踏领衔的财团以46",
+    "id": "news-5-1785686709000",
+    "title": " 餐厨厨余垃圾市场，项目闭环的5个关键 ",
+    "link": "https://www.huxiu.com/article/4880102.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：餐厨厨余行业的下一轮机会，本质上来自城市有机废弃物供应链的重构。能够把收运、处理、收费、产品和园区协同连成闭环的企业，才可能获得长期价值。 餐厨厨余垃圾处理被视为，固废行业里最容易产生幻觉的赛道。 它看上去什么都有，垃圾分类政策、无废城市建设、资源化利用、非居民厨余计量收费、沼气、油脂、有机肥，还有一堆听起来很绿色、很循环、很未来的产业叙事。 但真正投运以后，很多项目开始走形。例如，餐饮好料被灰色渠道截流，居民端厨余杂质高，沼气产量波动，有机肥找不到出路，处置费和补贴回款慢，导致很多项目越做越拧巴。 “建设期热闹，运营期拧巴”——这是大量餐厨厨余项目的真实写照。在这一领域，应该如何识别真实机会和防范陷阱，本文将对此展开讨论。 定位不清晰 项目难成立 餐厨厨余项目最大的困境，是定位混乱。 立项时按资源化项目讲故事，运营时按公共服务项目要补贴，考核时按环保项目提要求，几套逻辑混在一起，最后谁都不舒服。 把它当环保项目，核心看减量化和无害化，收益主要来自处置费和政府购买服务。把它当能源项目，核心看油脂、沼气和生物燃料，收益来自资源化产品。把它当肥料项目，产品出路最容易卡住。把它当城市公共服务，市场化弹性又有限。 一头连着公共治理，一头又想嫁接市场化收入。身份太多，项目运营就容易走形。 但这并不是说定位本身无解，而是要先回答一个",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -294,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "id": "news-inside-the-london-hacker-house-taking-a-stand-against-founde-1785618888000",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -347,10 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1785686422000",
-    "title": " AI不会成为世界的主人，但AI公司可能会。 ",
-    "link": "https://www.huxiu.com/article/4880099.html?f=rss",
-    "summary": "本文来自微信公众号： 普通人也要懂逻辑 ，作者：冬雪围城 最近AI圈接连出了几个事件，其实预示着一个更深层的危机： 2026年5月20日，Erdős单位距离猜想被推翻，AI自主生成了完整证明。 2026年7月20日，雅可比猜想被AI找出反例。 2026年7月，Dinitz-Garg-Goemans图论猜想被AI找出反例。 这类新闻，相信大家已经见怪不怪了。现在AI深度参与科研，早已是现实。 这让我不禁想起AI刚诞生时，大家的质疑无非两条： 一，AI会不会产生意识，毁灭人类？ 二，AI会抢走多少人的工作？ 但今天，这两条质疑几乎都消失了。我们接受了：现阶段的AI不会产生真正意识，真正控制它的是背后的AI公司。同时AI在工作、生活和学术研究中展现出强大能力，很多质疑声渐渐消失。 但很少有人意识到，另一个危机正在悄悄逼近：知识垄断。 真正的危机，不在AI本身，而在美国那几家顶级AI公司。 先看几条信息。 2024年12月，前OpenAI首席科学家伊利亚提出【数据峰值】概念，认为AI行业已触及可用训练数据的极限。 问题来了：人类数据走到尽头之后，后面那些更强的模型，是怎么训练出来的？ 2025年1月，马斯克表示：人类知识的累积总和，基本上在2024年已被用尽。接下来，要靠AI生成的合成数据补充。 2026年4月，奥尔特曼被问及是否已在测试完全使用合成数据训练的模型，他没有正面回应，只说了一",
+    "id": "news-ai-1785686681000",
+    "title": " AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？ ",
+    "link": "https://www.huxiu.com/article/4880101.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 去年冬天，麻省理工学院的一间写作教室里，空气凝滞，只有暖气片在滋滋作响。 教授迈卡·内森（Micah Nathan）布置了一场小说研讨会。他在MIT教创意写作已经七年，见过太多STEM学霸在文学课上手足无措的样子。这些学生能解最复杂的微分方程，但一让他们写一个短篇故事，整个人的语言系统就开始结巴。 那晚他读了两个学生的作品。读了第一段，就知道不是人写的。 太干净了。每一个隐喻都恰到好处得像从模具里浇出来的。人物设定完整但没有任何意外。情节弧线精准地落在该落的地方。他后来用了一个英文词来描述这种质地：dead perfection。死掉的完美。 这两个学生被叫到全班面前，一开始很安静，然后其中一个哭了。她说她用AI不是想作弊，是害怕被嘲笑。她害怕自己写得烂，害怕同学觉得她笨。 她先把故事丢给AI做语法检查，AI建议改几行，她接受了。AI又问要不要做结构性修改，她又接受了。最后AI说我可以帮你重写整篇。等她回过神，故事已经不是她的了。 另一个男生耸耸肩，说他没有写过小说，有一个想法但不知道怎么开始。教授问他为什么不来问我。他没说话。 那晚课堂里爆发的对话，被内森后来写进了《卫报》的一篇长文里。有学生举手问：为什么AI写故事就不好，只要故事本身是基于我们的想法？还有人问：MIT从1959年就开始搞AI研究，我们为什么要在意这个？",
     "publishedAt": "2026-08-02",
     "source": "虎嗅",
     "tags": [
@@ -388,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtuber-hank-green-says-his-ai-usage-is-not-healthy-1785613545000",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "id": "news-judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify--1785615964000",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
     "publishedAt": "2026-08-01",
     "source": "TechCrunch",
     "tags": [
@@ -959,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-02T16:54:20.931Z';
+export const dataFetchedAt = '2026-08-02T19:03:26.697Z';
