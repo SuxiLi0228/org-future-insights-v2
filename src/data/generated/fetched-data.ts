@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-reward-hacking-explained-and-suspected-iranian--1785758880000",
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+    "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-1785779161000",
-    "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
-    "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
-    "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+    "id": "news-influencers-draw-backlash-for-attending-openai-8217-s-first--1785784196000",
+    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -110,10 +110,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "id": "news-the-download-reward-hacking-explained-and-suspected-iranian--1785758880000",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -122,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sequoia-8217-s-shaun-maguire-leads-1b-round-for-nuclear-star-1785777403000",
-    "title": "Sequoia&#8217;s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-    "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-    "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+    "id": "news-apple-challenges-uk-government-s-latest-demand-for-icloud-ba-1785783249000",
+    "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+    "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+    "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -216,11 +216,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
-    "title": "The Download: Montana&#8217;s new experimental drug rules",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
-    "publishedAt": "2026-07-31",
+    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -228,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-base-power-raises-another-1b-to-save-the-grid-using-backyard-1785775617000",
-    "title": "Base Power raises another $1B to save the grid using backyard batteries",
-    "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-    "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+    "id": "news-apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-1785782623000",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -322,10 +322,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
+    "title": "The Download: Montana&#8217;s new experimental drug rules",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
     "publishedAt": "2026-07-31",
     "source": "MIT Technology Review",
     "tags": [
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-congress-8217-s-favorite-ai-tool-chatgpt-1785775255000",
-    "title": "Congress&#8217;s favorite AI tool? ChatGPT",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "id": "news-outernet-turns-your-saved-posts-into-real-world-adventures-1785780024000",
+    "title": "Outernet turns your saved posts into real-world adventures",
+    "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+    "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -377,7 +377,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-cpo-oio-1785735816000",
     "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
     "link": "https://36kr.com/p/3923374038265217?f=rss",
-    "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，��力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中心副主任，在美国和中国的半导体行业都有着丰富资源与技术积淀。 联合创始人兼CTO赵京雄曾担任CUMEC技术总监，美国思科、英特尔技术负责人，拥有多年AI GPU/NPU/Switch/硅光芯片的架构设计经验。首席科学家Craig Peterson是英特尔微电子中心总经理，在英特尔拥有多年的工作经历，参与设计了三款处理器、八代芯片组。 随着生成式AI与大模型训练需求的爆发，算力集群的规模正在经历前所未有的指数级增长，传输速率迈向1.6T乃至3.2T。这意味着，传统的信号调制方式面临着高功耗、热流密度集中以及较高的物理链路闪断风险，传统基于可插拔光模块的电传输网络正在触及物理天花板。为了打破其中的供需差，将光引擎与计算芯片或交换芯片进行深度集成，即从可插拔模式走向CPO乃至OIO已成为",
+    "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中心副主任，在美国和中国的半导体行业都有着丰富资源与技术积淀。 联合创始人兼CTO赵京雄曾担任CUMEC技术总监，美国思科、英特尔技术负责人，拥有多年AI GPU/NPU/Switch/硅光芯片的架构设计经验。首席科学家Craig Peterson是英特尔微电子中心总经理，在英特尔拥有多年的工作经历，参与设计了三款处理器、八代芯片组。 随着生成式AI与大模型训练需求的爆发，算力集群的规模正在经历前所未有的指数级增长，传输速率迈向1.6T乃至3.2T。这意味着，传统的信号调制方式面临着高功耗、热流密度集中以及较高的物理链路闪断风险，传统基于可插拔光模块的电传输网络正在触及物理天花板。为了打破其中的供需差，将光引擎与计算芯片或交换芯片进行深度集成，即从可插拔模式走向CPO乃至OIO已成为业",
     "publishedAt": "2026-08-03",
     "source": "36氪",
     "tags": [
@@ -757,6 +757,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135924",
+    "title": "Failure Breeds Success",
+    "company": "Deliberate Development",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Every leader wants to see meaningful change",
+      "The problem is that most of us overestimate what we can accomplish in a week and underestimate what we can accomplish in a year",
+      "Big goals sound inspiring at first, but they often collapse under the weight of unrealistic expectations",
+      "Real growth rarely h"
+    ],
+    "skills": [],
+    "location": "Success, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-failure-breeds-success-deliberate-development-1135924",
+    "postedAt": "2026-08-02",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135761",
     "title": "Journalist Citywire Spain",
     "company": "Citywire",
@@ -886,4 +904,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T17:47:15.816Z';
+export const dataFetchedAt = '2026-08-03T19:24:50.335Z';
