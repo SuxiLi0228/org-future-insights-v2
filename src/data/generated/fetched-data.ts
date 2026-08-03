@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-influencers-draw-backlash-for-attending-openai-8217-s-first--1785784196000",
-    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "id": "news-aws-is-helping-vibe-coding-startup-superblocks-and-the-impli-1785787200000",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -42,17 +42,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
-    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge says",
-    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
-    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
+    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
+    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
+    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
+    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -122,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-challenges-uk-government-s-latest-demand-for-icloud-ba-1785783249000",
-    "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-    "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-    "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+    "id": "news-who-8217-s-legally-to-blame-for-anthropic-and-openai-8217-s--1785786335000",
+    "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
+    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -147,17 +147,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
-    "title": "Week in review: How does HR use ChatGPT?",
-    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
+    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
+    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
+    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
+    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -228,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-1785782623000",
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "id": "news-designarena-creators-raise-7-9-million-to-bring-taste-to-ai--1785785337000",
+    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -254,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
-    "title": "Can AI make the workplace more accessible?",
-    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
-    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
+    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
+    "title": "Week in review: How does HR use ChatGPT?",
+    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-outernet-turns-your-saved-posts-into-real-world-adventures-1785780024000",
-    "title": "Outernet turns your saved posts into real-world adventures",
-    "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-    "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+    "id": "news-influencers-draw-backlash-for-attending-openai-8217-s-first--1785784196000",
+    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -360,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-linkedin-offers-the-option-to-report-ai-slop-1785769920000",
-    "title": "LinkedIn offers the option to report AI slop",
-    "link": "https://www.hrdive.com/news/linkedin-offers-the-option-to-report-ai-slop/826800/",
-    "summary": "The platform is testing a new feature that allows posts and comments to be privately flagged as being generated by artificial intelligence.",
+    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
+    "title": "Can AI make the workplace more accessible?",
+    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
+    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -904,4 +904,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T19:24:50.335Z';
+export const dataFetchedAt = '2026-08-03T20:58:45.849Z';
