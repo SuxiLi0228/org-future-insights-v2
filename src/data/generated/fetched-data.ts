@@ -2,6 +2,112 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "publishedAt": "2026-08-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-dep-1785751200000",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "publishedAt": "2026-08-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
+    "title": "New data puts a number on the great AI regret",
+    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
+    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "publishedAt": "2026-08-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-3-leadership-investments-that-help-small-businesses-grow-1785747600000",
+    "title": "3 leadership investments that help small businesses grow",
+    "link": "https://www.hrdive.com/spons/3-leadership-investments-that-help-small-businesses-grow/826278/",
+    "summary": "As small businesses grow leadership becomes one of their most valuable investments.",
+    "publishedAt": "2026-08-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-9-36-1785750271000",
+    "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+    "link": "https://36kr.com/p/3923603053686151?f=rss",
+    "summary": "图片1 &nbsp; 今日A股收盘数据 上证指数：3809.66&nbsp;点，-0.59% 深证成指：13448.29&nbsp;点，-0.96% 创业板指：3302.55&nbsp;点，-1.24% &nbsp; 德明利8月3日下跌9.56% 349.00 &nbsp;-36.90 &nbsp;-9.56% 当日开盘价373.94；交易量27.21万手； 换手率16.49%；缩量幅度0.36% 3日涨幅-1.57%；5日涨幅-13.10% 成交额：97.75亿；总市值：791.69亿 对于投资者来说，真正有价值的并不是股价下跌之后再去复盘，而是在市场情绪变化时，第一时间发现值得关注的信号。 这正是36氪企业全情报持续监测企业动态和舆情变化的价值所在。 更多德明利相关股价信息点击进入小程序查看 &nbsp; 股价异动前，企业全情报已捕捉到市场关注事件 财联社7月31日消息，有投资者询问，网传德明利第五大股东李东璘近期爆仓致股价大跌是否属实，还问及公司高管是否履职尽责保护投资者，以及公司有无回购计划。德明利在互动平台回应，前十大股东信息会按规则在定期报告披露，5%以下股东个人股份处:置及融资事宜属股东自身事务，非公司法定披露范畴。公司保持与投资者沟通畅通，将结合自身情况审慎评估举措，后续若涉及相关事项，会按规定及时披露信息。 ｜事件正负面性质分析 截止8月3日，此事件匹配的到全网舆",
+    "publishedAt": "2026-08-03",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-meta-1785741073000",
+    "title": "年薪百万抢电工，Meta急到自己办技校",
+    "link": "https://www.qbitai.com/2026/08/465223.html",
+    "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
+    "publishedAt": "2026-08-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785755454000",
+    "title": " 厦门象屿青岛仓库起火：高温暴雨频发，国企贸易公司该检查仓库了 ",
+    "link": "https://www.huxiu.com/article/4880326.html?f=rss",
+    "summary": "本文来自微信公众号： 五道口供应链研究院 ，作者：鲁顺，原文标题：《厦门象屿青岛仓库起火：高温暴雨频发，国企贸易公司该检查仓库了！》 做贸易的人说到仓库里的货出问题，先想到的是货被人放跑了。过去公开披露的一些贸易风险案件中，出现过仓储物流企业、货代与上下游串通，违规放货、重复出具仓单或者协助转移货物的情形。 但仓储风险不止这一种。还有一类风险，是货仍然在仓库里，却因为温度、湿度、进水、火灾、堆码挤压等原因，已经失去了原有价值，甚至无法继续交付。 最近，各地高温、暴雨、雷电和强对流天气多发。所有持有库存、控制货权或者承担交付责任的贸易企业，都该停下来想一想： 仓库里的货，真的安全吗？ 一、厦门象屿青岛仓库突发火灾 据官方媒体报道，8月2日17时许，青岛市黄岛区七星河路363号，青岛象屿速传供应链有限公司的仓库起火。 浓烟很快升起来，火势一度很大，当晚冲上热搜。市、区两级消防、公安、应急部门当晚持续开展灭火处置，官方通报确认无人员被困、无人员伤亡，起火原因正在调查中。 起火的青岛象屿速传供应链有限公司，成立于2014年，注册资本5000万元，是A股上市公司厦门象屿间接控股的子公司，持股比例80.76%，主要提供供应链物流和仓储服务，2024年度实现营业收入1.75亿元。 《证券日报》记者就此次火灾采访厦门象屿证券部门。工作人员表示，目前了解到的情况是，此次火灾“对公司生产经营没有重大影",
+    "publishedAt": "2026-08-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-200-1785755591000",
+    "title": "AI科研范式革命：花200美元即可攻克一道数学世纪难题",
+    "link": "https://www.tmtpost.com/8089368.html",
+    "summary": "科研的边际成本从百万美元级降至百元级，重新定义成本结构往往意味着产业变革的开始。",
+    "publishedAt": "2026-08-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
     "title": "The Download: Montana&#8217;s new experimental drug rules",
     "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
@@ -27,11 +133,117 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
-    "title": "New data puts a number on the great AI regret",
-    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
-    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "id": "news-amazon-tests-gartner-s-entry-level-jobs-warning-1785718818000",
+    "title": "Amazon tests Gartner’s entry-level jobs warning",
+    "link": "https://hrexecutive.com/amazon-tests-gartners-entry-level-jobs-warning/",
+    "summary": "Gartner says AI is shrinking entry-level hiring. AWS CEO Matt Garman's own hiring numbers say something different. The post Amazon tests Gartner’s entry-level jobs warning appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-why-skills-visibility-matters-before-the-next-workforce-deci-1785747600000",
+    "title": "Why skills visibility matters before the next workforce decision",
+    "link": "https://www.hrdive.com/spons/why-skills-visibility-matters-before-the-next-workforce-decision/826418/",
+    "summary": "Why skills visibility is becoming a workforce planning advantage.",
+    "publishedAt": "2026-08-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1785744729000",
+    "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+    "link": "https://36kr.com/p/3923465542364545?f=rss",
+    "summary": "其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。 这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？ 围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。 先说核心结论：可灵3.0更适合关键镜头的创作。 模型在构图、光影、情绪氛围和人物主体一致性上表现突出，针对目标明确的短动作镜头，可以稳定产出高质量画面。若需用可灵处理复杂叙事影片，更稳妥的思路是把长动作拆成单目标的短镜头，再通过分镜设计与后期剪辑串联为完整段落。 当任务同时涉及跨空间移动、多道具与多人物打斗场景时，最终画面效果高度依赖提示词、参考图、镜头时长和拆分方法。 这次压力测试，目的是找到更稳定的创作方法，而非对模型能力下定论。 【图1｜本次测试使用的参考图】 标题 电影感，率先在关键镜头中落地 从测试结果来看，可灵3.0的核心优势集中在关键镜头的画面完整度。 当镜头目标明确、人物关系简洁、动作时长较短时，模型能生成高质量画面。光影、构图、人物和情绪氛围均表现亮眼。 例如戏子镜前准备的画面，最能直观体现可灵的画面表现力。 【图2｜戏子",
+    "publishedAt": "2026-08-03",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-geo-1785740286000",
+    "title": "当品牌开始争夺AI的答案：翰智GEO入场",
+    "link": "https://www.qbitai.com/2026/08/465662.html",
+    "summary": "",
+    "publishedAt": "2026-08-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785755441000",
+    "title": " 头部餐饮，涨价方式变聪明了 ",
+    "link": "https://www.huxiu.com/article/4880324.html?f=rss",
+    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 喜家德、魏家凉皮… 又一波餐企“涨价潮”来临 最近，不少网友在社交平台发帖称，喜家德也开始“偷偷涨价”了。 而且涨价方式相当低调，网友戏称“不搞官宣涨价，全靠食客吃着吃着自我察觉”，部分产品、部分地区调整价格，不少消费者都是翻订单记录时，才发现价格已经变了。 从网友分享来看，各地涨价情况并不一致。比如在广东，有消费者发现，红豆黄桃西米露原来售价6元，如今已经涨到11.9元，是涨幅最令人震惊的产品。 相比之下，饺子产品调价幅度普遍只有1元左右，比如喜三鲜水饺原来31元，现在变成了31.9元；而经典菜品角瓜鸡蛋虾皮水饺，黑龙江网友称原本19.9元，如今涨至20.9元，河南的网友表示半年从18元涨到23元。 作为国内水饺连锁品牌，喜家德目前全国门店数量已超过860家，人均消费约31元。对于这样一家规模较大的连锁品牌来说，每一次价格调整很难不引发消费者关注。 也有人表示，不同城市、不同门店价格本身就存在差异，各地涨价情况都是根据门店经营情况。 说到涨价，最近魏家凉皮引发的关注就更大了。 自8月1日起，魏家凉皮全国调价，比如秘制凉皮、粉皮涨价1元，汉堡和米粉涨价3元，米饭套餐涨价2-4元不等，涨幅普遍在7-29%之间。调价之后，热销的安格斯牛肉芝士包汉堡卖18元一个，三鲜米粉15元一碗。 这次调价覆盖面广，但幅度分三档：凉皮粉皮这种招牌主食",
+    "publishedAt": "2026-08-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-spacex-72-1785753748000",
+    "title": "SpaceX解禁前72小时",
+    "link": "https://www.tmtpost.com/8089331.html",
+    "summary": "市场重新定义大模型",
+    "publishedAt": "2026-08-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+    "publishedAt": "2026-07-31",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-sam-altman-and-ai-s-decel-debate-1785704062000",
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "publishedAt": "2026-08-02",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
+    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
+    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
+    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -68,10 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-1785735722000",
-    "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
-    "link": "https://www.qbitai.com/2026/08/465225.html",
-    "summary": "",
+    "id": "news-2026-1785739767000",
+    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+    "link": "https://www.qbitai.com/2026/08/465361.html",
+    "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
     "publishedAt": "2026-08-03",
     "source": "量子位",
     "tags": [
@@ -81,23 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785739263000",
-    "title": " “无异味”承诺为何落空？：生态厕所夏季异味问题的冷思考 ",
-    "link": "https://www.huxiu.com/article/4880207.html?f=rss",
-    "summary": "本文来自微信公众号： 厕重点 ，作者：狼叔，原文标题：《“无异味”承诺为何落空？——生态厕所夏季异味问题的冷思考》 8月2日，据南充融媒报道，当地一座采用“生物菌种发酵压缩处理技术”的公厕因夏季气味浓烈引发市民不满。显然，报道中的公厕是一座免水冲生态厕所，这类厕所常以“节水、低碳环保、无异味”为卖点，但实际使用中却反差颇大，就连笔者这个从事环卫工作多年的人，对生态厕所也是敬而远之，能不用就不用。 这究竟是为什么呢？ 一、理想很丰满：宣传中的“完美工艺” 微生物发酵公厕的核心原理其实并不复杂，它通过在降解槽内接种复合微生物菌群，利用微生物的好氧代谢活动将排泄物彻底分解为二氧化碳、水蒸气和少量有机残渣。理论上，这一过程无需用水冲排，也无需建设排污管网，既能节约水资源，又能实现粪污的资源化利用。 宣传数据也令人振奋：粪污体积降解率可达96%以上甚至99%，全程无臭无味；一些产品还宣称经受过冬奥会、世博会等大型活动的检验，在极端环境下依然稳定运行。其核心技术逻辑被概括为：充足氧气+木屑/秸秆碳源+45～60℃高温+定期翻抛，好氧菌把排泄物彻底分解为CO2和水，几乎无异味产生。 然而，现实中这套工艺却屡屡翻车。 二、现实很骨感：从好氧腐熟到厌氧腐败 核心问题在于：绝大多数公厕做不到稳定的好氧发酵，直接变成了密闭厌氧腐败池。 （一）曝气通风系统严重缩水 廉价机型只配小功率排风扇，发酵仓内部无布",
+    "id": "news-ai-1785755233000",
+    "title": " 被金融黑灰产逼急的银行风控，开始用AI测谎 ",
+    "link": "https://www.huxiu.com/article/4880323.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 让银行、助贷平台没想到的是，贷款中介从个人信用修复举措中发现了“机会”——通过提供高息民间借款帮助借款人修复个人信用，然后“引导”借款人前往正规金融机构申请更大额度的贷款，进而使得贷款中介又能在后续帮借款人大幅减免贷款本息的“一条龙服务”中赚取高额回报。 自2026年7月中旬起，汪宇接到一项紧急工作，配合技术部门迅速将“智能线上面审”技术嵌入现行的个人消费信贷风控审批流程。 作为一家农商行华东地区分行的风控人员，汪宇近几日与技术部门同事待在一起，评估上述技术的具体应用成效。例如，在风控系统向借款人询问“在去年12月至今年3月，你修复个人信用所偿还的逾期贷款资金，是不是来自工作收入或家人亲友支持”后，AI（人工智能）能否捕捉借款申请人回答“是”那一刻的表情变化，准确判断其是否在撒谎。 一旦被AI判定为“撒谎”，相关个人消费贷款申请将被从严审核，有较高概率被否决。 最近两周，作为一家助贷平台的运营总监，刘伟忙着与其他助贷平台、持牌消费金融机构磋商加强逾期客户名单共享，以便能及时发现在其他金融机构已经还款逾期的借款人是否跑来他们这里申请贷款。“我们将这项工作称为撞库。当前若想防范贷款逾期风险，离不开它。”刘伟说。 自7月份以来，汪宇所在的银行与刘伟所在的助贷平台都发现了一个异常情况——刚在今年一季度修复个人信用的部分借款人在4—6月份申请个",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1785738737000",
-    "title": "测绘科学，或许是具身智能数据问题的终极解法",
-    "link": "https://www.tmtpost.com/8089121.html",
-    "summary": "具身智能数据市场需要一个独立三方的中立质量层。",
+    "id": "news-ai-1785753712000",
+    "title": "字节AI开始合围",
+    "link": "https://www.tmtpost.com/8089007.html",
+    "summary": "以豆包为圆心，重建AI时代的商业闭环",
     "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
@@ -108,11 +321,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-montana-s-new-right-to-try-law-can-t-come-soon-enough-for-so-1785488400000",
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
-    "publishedAt": "2026-07-31",
+    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
+    "publishedAt": "2026-07-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -120,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-and-ai-s-decel-debate-1785704062000",
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
+    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
@@ -133,17 +346,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-tests-gartner-s-entry-level-jobs-warning-1785718818000",
-    "title": "Amazon tests Gartner’s entry-level jobs warning",
-    "link": "https://hrexecutive.com/amazon-tests-gartners-entry-level-jobs-warning/",
-    "summary": "Gartner says AI is shrinking entry-level hiring. AWS CEO Matt Garman's own hiring numbers say something different. The post Amazon tests Gartner’s entry-level jobs warning appeared first on HR Executive .",
-    "publishedAt": "2026-08-03",
+    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
+    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
+    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
+    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
+    "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "ecommerce"
+      "ai-hr"
     ]
   },
   {
@@ -175,222 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-qwen3-8-max-claude-1785735662000",
-    "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
-    "link": "https://www.qbitai.com/2026/08/465226.html",
-    "summary": "编程、专业工作、长程任务、多模态分析统统梭哈",
-    "publishedAt": "2026-08-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-7-67-3-28-1785739025000",
-    "title": " 7.67%市占率的长鑫科技，凭什么值3.28万亿？ ",
-    "link": "https://www.huxiu.com/article/4880205.html?f=rss",
-    "summary": "本文来自微信公众号： 科技一言 ，编辑：郭老尸，作者：郭老尸 上市一周以来，关于长鑫科技的讨论铺天盖地。拿到入场券的股民在盘算到底能赚到多少，各类媒体也在深扒长鑫上下游的各种“八卦”，资本市场则顺势推出了一个市值突破3万亿（首日收盘3.28万亿的交易定价，非经营基本面），一举超越英特尔的国产芯片新“王”。 长鑫科技确实为国产存储趟出了一条新路，但在全网一片欢腾的氛围下，我们更需要把招股书和财务账本摊开，看清股市狂欢背后的实际情况，算一算从全球第四到全球前三的真实距离。 1# 7.67%市占率背后的真相 设备折旧与巨头成本壁垒 回顾长鑫十年来的发展路径，朱一明团队与合肥国资的魄力功不可没。半导体存储这个行业格局极其固化，依托奇梦达技术资产包（经Polaris受让）的专利与BWL架构打底，在朱一明的带领下，把10纳米级DRAM做出来，填补了国内主存领域的空白。 但破局归破局，其主营业务的盘子到底有多大，招股书里写得很清楚。长鑫科技2025年底，在全球DRAM市场的份额是7.67%，排名第四。这个数字放在国内是毫无疑问的龙头，但放大到全球，三星、SK海力士和美光三大原厂拿走了九成以上的份额。长鑫这7.67%，是从巨头吃剩下的市场缝隙里艰难啃下来的。 更关键的考验在于DRAM这个行业的商业本质。存储芯片是典型的重资产、高周期行业，遵循极度残酷的规模效应。 搭建一座现代化的12英寸晶圆厂，光",
-    "publishedAt": "2026-08-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-industrial-architecture-that-tesla-cannot-unplug-1785729843000",
-    "title": "The Industrial Architecture That Tesla Cannot Unplug",
-    "link": "https://www.tmtpost.com/8089055.html",
-    "summary": "As discussions surface regarding the corporate structure of Tesla’s global operations, the company’s deep integration within Shanghai’s industrial ecosystem reveals the operational limits of corporate separation.",
-    "publishedAt": "2026-08-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
-    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-    "publishedAt": "2026-08-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
-    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
-    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
-    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-may-not-be-training-workers-well-enough-for-widesp-1785509280000",
-    "title": "Employers may not be training workers well enough for widespread AI disruption",
-    "link": "https://www.hrdive.com/news/employers-may-not-be-training-workers-well-enough-for-widespread-ai-disrupt/826672/",
-    "summary": "Advanced skills, such as managing AI agents, do not tend to be the focus of employer training, The Conference Board said in a report.",
-    "publishedAt": "2026-07-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-36-ebike-4-10-1785735381000",
-    "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
-    "link": "https://36kr.com/p/3923367465266824?f=rss",
-    "summary": "文｜张子怡 编辑｜袁斯来 从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。 36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从大疆拆分独立运营。 过去三年，欧洲Ebike市场受困于高库存压力，不少整车品牌商出现过倒闭潮，市场增速显著放缓，库存去化一年又一年。但Amflow和Avinox仍然在这种惨淡中入场。 它们的诞生，带着点“任性”。 从一开始，Avinox就去切Ebike中研发门槛和难度最高的电助力山地车助力系统。他们花了3年时间才完成研发，以为好产品一定会引爆市场。2023年，Avinox团队带着产品原型去欧洲自行车展寻找和自行车整车品牌合作时，发现自行车行业和消费电子行业节奏差距非常大。有意向的客户问了一个他们没有预料到没有的问题： 你们五年以后的产品菜单和规划是怎样的？ “我们当时也不理解，为什么要问五年以后？对方解释道，自行车行业，大品牌的新产品研发周期通常在18个月以上，核心零部件的选型和测试则更需要前置长达一年时间，如果是2023年谈合作，最快只能谈2026年和2027年的项目。”Avinox团队负责人对硬氪回忆。",
-    "publishedAt": "2026-08-03",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-qwen3-8-1785733097000",
-    "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-    "link": "https://www.qbitai.com/2026/08/465215.html",
-    "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
-    "publishedAt": "2026-08-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-12-1785738655000",
-    "title": " 第12批国采内卷降温：原研药中选史上最多，大厂牌靠“复活”守住阵地 ",
-    "link": "https://www.huxiu.com/article/4880204.html?f=rss",
-    "summary": "本文来自微信公众号： 深蓝观 ，编辑：又一，作者：深蓝观团队 7月31日，第十二批国采在上海开标。 这一届集采，是最“热”的一届。热的是气温，往年集采开标时间在十月下旬，今年首次在7月开标，当天上海的气温高达38摄氏度。 但同时，也是较“冷”的一届：与盛夏的高温形成对比的是，今年现场的人少了很多。 多位现场的企业代表都有相似的感受，前几年特别是早期批次，现场都是人山人海，大家都想第一时间知道有没有中标，中标之后，来现场的医药流通公司马上就会来谈配送合作，很多“生意”可能当场就谈成了。 今年少的不只是企业代表，代理商更是锐减，有现场人士分析，主要的原因在于集采价格降幅较大，利润空间被急剧压缩，代理商失去了生存空间，自然也就退场了。 虽然参与企业减少，但中选产品反增。 从最终结果看，第十二批国采全国共4.5万家医药机构报量，和上次规模持平；纳入65个品种，高于上一届。药企参与积极：327家企业的521个产品获得拟中选资格。 值得关注的是，这次集采的最大利好是原研药：本批共有10个品种原研药中选，包括诺华公司的沙库巴曲缬沙坦、拜耳公司的碘普罗胺、卫材公司的倍他司汀、雅培公司的地屈孕酮、广州绿十字的复方氨基酸等，外资参与度显著提升。 还有一个利好是国内医疗机构使用较多的头部厂牌（下文称厂牌企业）企业。他们同样感受到了规则调整带来的变化。 张然（化名）已是第三次代表公司参加集采，但这次是他心",
-    "publishedAt": "2026-08-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-9-9-544-1785727884000",
-    "title": "“散装山姆”挤满打工人，9.9小绿瓶成断货王，单季爆卖544亿",
-    "link": "https://www.tmtpost.com/8088960.html",
-    "summary": "大卖场翻身，年轻人捧场。",
-    "publishedAt": "2026-08-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-tricking-llms-and-reviving-geothermal-plants-1785413400000",
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-mobility-two-roads-diverged-for-robotaxis-1785686700000",
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-08-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
-    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
-    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
-    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-managers-say-they-are-using-ai-to-make-layoff-decisions-1785509280000",
-    "title": "Managers say they are using AI to make layoff decisions",
-    "link": "https://www.hrdive.com/news/managers-are-using-ai-to-make-layoff-decisions/826697/",
-    "summary": "Some artificial intelligence models are being asked to weigh factors like sick days, age and tenure when assessing who to let go, one survey said.",
-    "publishedAt": "2026-07-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-36-evtol-1785732417000",
-    "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
-    "link": "https://36kr.com/p/3923317976526208?f=rss",
-    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。 亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研发制造。公司核心团队来自中国商飞体系，包括4位正高级研究员及多位运8系列改型项目骨干，平均航空从业经验超过15年。创始人任文广曾参与运8系列、ARJ21、C919等国产飞机型号研发，拥有近20年航空器设计验证经验。 （图源/企业） 任文广表示，不同于部分eVTOL企业从单点技术切入，亿维特的技术路线延续民航客机全寿命周期系统工程理念，同时结合eVTOL特点，依据局方最新政策，建立一套高效、专业的产品研制路径。团队具备完整的载人飞行器正向设计经验，能够从需求定义、总体方案设计到测试验证建立完整研发流程。同时，航空器作为复杂系统工程，对质量体系、工程管理和供应链协同能力要求较高，而商飞时期积累的系统工程经验，也成为其开发新机型的重要基础。 动力系统是eVTOL产业链中的关键环节。目前，全球成熟可选的航空电机供应商较少，部分核心部件仍依赖欧美厂商，交付周期较长。 亿维特从成立初期便确定自研电推进系统（EPS）路线",
-    "publishedAt": "2026-08-03",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1785732464000",
-    "title": "阿里“千问办公”开启公测",
-    "link": "https://www.qbitai.com/2026/08/465211.html",
-    "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
+    "id": "news-demo-1785735722000",
+    "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+    "link": "https://www.qbitai.com/2026/08/465225.html",
+    "summary": "",
     "publishedAt": "2026-08-03",
     "source": "量子位",
     "tags": [
@@ -795,6 +794,23 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1136005",
+    "title": "Field Maintenance Technician CTC_LIS",
+    "company": "Cubic Defence Australia &amp; NZ",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Our teams help create and sustain technology soluti"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Townsville, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-field-maintenance-technician-ctc-lis-cubic-defence-australia-amp-nz-1136005",
+    "postedAt": "2026-07-31",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135736",
     "title": "AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼",
     "company": "软装设计公司",
@@ -835,6 +851,21 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1135988",
+    "title": "Maintenance Fitter",
+    "company": "New World Consulting",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "2 different shifts as follows: Sunday to Friday starting at 11pm on Sunday and ending at 7"
+    ],
+    "skills": [],
+    "location": "Bendigo, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-new-world-consulting-1135988",
+    "postedAt": "2026-07-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135680",
     "title": "AI Trainer Freelance Data Annotator",
     "company": "Mindrift - Data annotation",
@@ -869,22 +900,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
     "postedAt": "2026-07-30",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135836",
-    "title": "Get Paid More with Higher Minimums &amp; Better Rates",
-    "company": "Qudos Technologies Inc",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "This is a beta feature to avoid spam applicants"
-    ],
-    "skills": [],
-    "location": "More, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-get-paid-more-with-higher-minimums-amp-better-rates-qudos-technologies-inc-1135836",
-    "postedAt": "2026-07-30",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T06:55:50.321Z';
+export const dataFetchedAt = '2026-08-03T11:18:31.780Z';
