@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
-    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
-    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
-    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
+    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
+    "title": "New data puts a number on the great AI regret",
+    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
+    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chinajoy-1785566252000",
-    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-    "link": "https://36kr.com/p/3920595518533250?f=rss",
-    "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp; 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp; 但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp; 2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp; 如今的 ChinaJoy 还只是游戏展吗？ 它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp; 过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI 从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，每一个赛道、每一天都有新公司、新产品、新模式冒出来。&nbsp; ChinaJoy 是国内极少数能把这种变化一次性摊开在你面前的现场。 如今，来逛展的不只是玩家，还有开发者、AI 工程师、硬件创业者、投资人。&nbsp; 真正值得被报道的东西，已经藏在线下。如果只",
-    "publishedAt": "2026-08-01",
+    "id": "news-agent-00-36-1785715816000",
+    "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+    "link": "https://36kr.com/p/3919025939246727?f=rss",
+    "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “ 今天，Agent已经像能力出众的个体，但它们还没有真正进入组织 ，”薛传奕介绍道。 一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。 于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版本、拼接结果，再把同一件事向不同Agent解释一遍。 这是Agent能力快速提升之后，一种颇具反差的场景。当Agent开始写代码、处理文档、调用工具，甚至连续执行长程任务，新的瓶颈也随之出现：一个",
+    "publishedAt": "2026-08-03",
     "source": "36氪",
     "tags": [
       "china",
@@ -81,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785697127000",
-    "title": " 休达偷渡潮：欧洲真的遭到“入侵”了吗？ ",
-    "link": "https://www.huxiu.com/article/4880104.html?f=rss",
-    "summary": "本文来自微信公众号： 魏城看天下 ，作者：英格兰湖区 西方右派终于等到了一个可以痛击左派政策的“完美风暴”。 7月31日，如平地惊雷般，各种角度拍摄的视频在全球各种语言的社交媒体上“炸响”。我最初是在微信的各种群里看到这类视频的。视频中，数以万计的阿拉伯模样的年轻人或游泳、或奔跑，涌入一个小镇，微信里的中文标题更加耸人听闻—— “西班牙失守了！” “欧洲遭到非洲非法移民入侵！” “6万摩洛哥非法移民涌入居民只有8万人的西班牙小镇！” …… 右派迅速出击 我还没来得及查看权威媒体的新闻报道，就看到了西方右派的愤怒谴责，不过，他们谴责的不是偷渡客，而是西班牙左派政府。 因为目前在西班牙执政的是一个左翼联盟，担任首相的西班牙工人社会党领袖桑切斯还在世界政治舞台上高调反对以色列的加沙政策和特朗普的伊朗战争，所以，欧美世界的右翼政治领袖们很快抓住了这个机会，抨击西班牙“灾难性“的移民政策。 不出所料，美国总统特朗普也高调地批评了西班牙政府：“我看到了西班牙的情况，我观看了发生的这场灾难。这看起来就像是对一个国家的入侵。” 美国国务院更是直截了当地将这一事件的责任完全归咎于桑切斯的社会党政府：“这一不可接受的事件是西班牙政府故意纵容和促成大规模非法移民进入欧洲的直接后果。” 不过，特朗普和他领导的美国政府更在意的，是美国自己的国内政治，是今年11月的美国国会中期选举。特朗普批评完西班牙政府之后",
-    "publishedAt": "2026-08-02",
+    "id": "news-2-1785723075000",
+    "title": " 李子园赌上2亿元，闯入银发市场 ",
+    "link": "https://www.huxiu.com/article/4880144.html?f=rss",
+    "summary": "本文来自微信公众号： 长青研究社 ，编辑：吴佩蔚，作者：叶凌慧 近期，“甜牛奶”龙头李子园交出了上市以来最沉重的一份年报。 全年营收12.96亿元，同比下降8.44%；归母净利润1.96亿元，同比下降12.29%；扣非净利润1.64亿元，降幅达21.10%。经营活动现金流净额2.79亿元，同比下降22.64%，四项核心指标全线告负。 就在年报发布前不到两个月，这家卖了三十年甜牛奶的老牌企业，做了一个令市场错愕的决定：全资子公司宁夏李子园与银川经济技术开发区签约，拟投资约2亿元扩建二期项目，新建奶酪及中老年人配方奶粉生产线。而仅仅半年前，它刚叫停了另一个投资2亿元的云南含乳饮料扩建项目。 一边是核心单品销量持续失血，一边是重金闯入已被巨头瓜分殆尽的中老年奶粉赛道。一瓶甜牛奶卖了30年的李子园，究竟在下怎样的一盘棋？ 李子园的故事，是一个路径依赖的经典样本。 1994年成立于浙江金华，2021年在上交所主板上市，三十年时间，“甜牛奶”三个字嵌入了华东、西南、华中无数消费者的味觉记忆。校边店、早餐摊、食堂窗口、网吧收银台，这些下沉的即时消费场景，构成了一道外人难以攻破的护城河。 但光环背后，是极致的单品依赖。 2021年，以甜牛奶为核心的含乳饮料业务贡献了公司97.12%的总营收。此后三年，收入数据在13.5亿元至13.8亿元之间反复摇摆，增长陷于停滞。到2025年，这根营收支柱骤然萎缩",
+    "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -94,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785669887000",
-    "title": "贝索斯用AI寻找下一块硅",
-    "link": "https://www.tmtpost.com/8088394.html",
-    "summary": "下一轮AI竞争，不只发生在模型里。",
-    "publishedAt": "2026-08-02",
+    "id": "news-openai-1785723108000",
+    "title": "OpenAI 不靠最贵的模型卖钱了",
+    "link": "https://www.tmtpost.com/8088845.html",
+    "summary": "Anthropic：俺也一样。",
+    "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -133,15 +133,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
-    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
-    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
-    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
+    "id": "news-amazon-tests-gartner-s-entry-level-jobs-warning-1785718818000",
+    "title": "Amazon tests Gartner’s entry-level jobs warning",
+    "link": "https://hrexecutive.com/amazon-tests-gartners-entry-level-jobs-warning/",
+    "summary": "Gartner says AI is shrinking entry-level hiring. AWS CEO Matt Garman's own hiring numbers say something different. The post Amazon tests Gartner’s entry-level jobs warning appeared first on HR Executive .",
+    "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -159,11 +161,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-1-1785544739000",
-    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-    "link": "https://36kr.com/p/3920241240419720?f=rss",
-    "summary": "今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% Anthropic称AI模型在测试期间误侵三家真实机构系统 TOP3大新闻 马斯克回应特斯拉剥离中国业务 7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“不实消息。”（第一财经） 去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省30元 36氪获悉，7月31日，去哪儿接到多家航空公司通知，自2026年8月5日（出票日期）起，成人旅客：800公里以上航线每位旅客收取70元燃油附加费，800公里（含）以下航线每位旅客收取40元燃油附加费。相较于调整前降低了30元/10元。 中国最高薪本科专业易主，电子科学与工程专业以7814元位居第一 本科生毕业半年后的月收入水平，是反映专业就业质量的重要参考指标。随着产业结构的改变，本科高薪专业也在发生变化。麦可思研究院发布的《2026年中国本科生就业报告》（就业蓝皮书）显示，今年本科毕业生毕业半年后平均月收入最高的专业，已变成微电子科学与工程。该专业以7814元位居第一，电子科学与技术、自动化分列第二、第三。信息安全则降",
-    "publishedAt": "2026-08-01",
+    "id": "news-8-1-if-126-16-1785715659000",
+    "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+    "link": "https://36kr.com/p/3923043072634498?f=rss",
+    "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞幸就此向界面新闻回应称，“公司对此事高度重视并第一时间进行内部调查。经核查，视频中两位伙伴使用当日门店打烊后废弃的奶油物料进行拍摄。该行为严重违反相关管理规范，公司将严肃处理。拍摄中涉及的奶油物料和奶",
+    "publishedAt": "2026-08-03",
     "source": "36氪",
     "tags": [
       "china",
@@ -186,25 +188,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785694706000",
-    "title": " 汽车回血，AI烧钱，特斯拉迎来最贵的一次转身 ",
-    "link": "https://www.huxiu.com/article/4880103.html?f=rss",
-    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 特斯拉开始把造车产线让给机器人。 2026年第二季度，特斯拉拆除了弗里蒙特工厂原有的Model S/X生产线，开始安装首代Optimus人形机器人产线。7月30日，第1000万辆特斯拉又在同一座工厂下线。从汽车产量突破1000万辆，到汽车产线为机器人腾出空间，特斯拉正在完成一次极具象征意义的换轨。 这次换轨发生在一个微妙的时间点。二季度，特斯拉汽车交付量同比增长25%，营收同比增长26%，营业利润却下降57%，自由现金流转为负10.92亿美元。财报发布后的首个交易日，特斯拉股价下跌14.52%，市值蒸发约2000亿美元。 过去，特斯拉依靠扩大汽车产量摊薄成本，再用汽车业务产生的现金投入下一轮扩张。现在，汽车销量刚刚恢复，Robotaxi、Optimus和AI算力却同时进入重投入阶段。 拆掉一条汽车产线并不意味着特斯拉放弃造车，但它释放的信号已经足够明确：特斯拉正在把资金、产能和组织资源，从已经得到验证的汽车业务，转向尚未完成商业化的物理AI。真正的问题不是马斯克的新故事够不够大，而是汽车利润能不能撑到新业务接棒。 01：汽车卖回来了，利润没有跟上 经历2024年、2025年连续两年交付量下降后，特斯拉的汽车业务在2026年重新增长。 上半年，特斯拉全球交付约83.8万辆，同比增长约16.3%。其中，二季度交付超过48万辆，同比增长25%",
-    "publishedAt": "2026-08-02",
+    "id": "news--1785723038000",
+    "title": " 从第一性原理来看，游戏成瘾的本质是什么？ ",
+    "link": "https://www.huxiu.com/article/4880136.html?f=rss",
+    "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊 THE HONGJUN·ESSAY 从第一性原理来看，游戏成瘾的本质是什么？ 现实里拖延的人，为什么一进游戏就成了劳模？因为游戏保证：你的每次投入都会被保存下来。这篇从第一性原理拆解游戏成瘾的底层逻辑。 假如让你从零开始设计一款游戏，你会怎样让玩家一直玩下去？ 把所有结果都死死写进代码里，行不行？玩家每按一次按钮，固定得到十枚金币；敌人永远站在同一个坐标，用同一种前摇进攻。这种游戏，玩十分钟就会让人恶心。 那就反过来，把一切都交给绝对的混沌：攻击伤害随机，敌人强弱随机，辛苦打出的神装下一秒随机消失。这种游戏连十分钟都撑不过去，玩家只会觉得制作人脑子有病。 所以，顶级游戏到底在设计什么？ 它们在设计一场“受控的混沌”。 如果我们剥开游戏所有华丽的机制（等级、装备、抽卡、赛季），往下挖到最底层的“第一性原理”，你会发现这一切根本不是什么策划技巧，而是为了极其精准地满足一种最原始的生物本能。 01 一、大公理：生存的本质，就是吞噬不确定性 宇宙的本质是走向热寂，是永恒的熵增与混乱。而生命，是宇宙中唯一的逆行者。 一个原始人走出山洞，面对的是纯粹的混沌：野兽什么时候来？果子哪里有毒？天气何时突变？如果他每次遇到危险都只能重新猜，每次找食物都靠碰运气，他活不过三天。 为了活下去，生物演化出了一种霸道的本能：在混乱中强行寻找规律，将不确",
+    "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1785669882000",
-    "title": "商业航天运力的“罗生门”",
-    "link": "https://www.tmtpost.com/8088371.html",
-    "summary": "被省略的条件，决定了火箭真正的运力。",
-    "publishedAt": "2026-08-02",
+    "id": "news-30-1785722769000",
+    "title": "量贩零食真的更贵吗？我们去三个渠道买了30款产品算了算",
+    "link": "https://www.tmtpost.com/8088595.html",
+    "summary": "缩水是真的，便宜也是真的。",
+    "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -239,15 +240,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-erisa-plans-could-escape-from-essential-health-benefits-rule-1785500155000",
-    "title": "ERISA plans could escape from essential health benefits rules",
-    "link": "https://hrexecutive.com/erisa-plans-could-escape-from-essential-health-benefits-rules/",
-    "summary": "A new House bill would free employer coverage from the standard Affordable Care Act health plan template. The post ERISA plans could escape from essential health benefits rules appeared first on HR Executive .",
+    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
+    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
+    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
+    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
     "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -265,11 +267,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785511423000",
-    "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-    "link": "https://36kr.com/p/3919386961177985?f=rss",
-    "summary": "文｜王欣逸 编辑｜张雨忻 &nbsp; 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。 融资情况 近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。 团队介绍 丘脑智能创立于2025年11月，创始人兼CEO张源毕业于北京大学，是电子与经济双学科背景，曾在一家自动驾驶公司担任COO，也有过创投行业、具身智能的工作经历。 团队平均年龄约26岁，核心人员主要来自阿里达摩院、腾讯、商汤、港中文、港中深、北大、西交大、KIT、复旦等企业和高校。 产品及业务 Memory领域的行业共识，最早于2025年底在学术界率先形成。这是一个非常新的领域，在面对投资人时，张源常常被问到一些问题，比如，基模会不会自己把记忆做了？Memory这一层到底会不会独立存在？基模和记忆企业之间应该怎么分工？ 这些问题，张源有一个坚定的回答： 记忆层一定会作为独立的基础设施长期存在。 她对此解释，不同厂商的基模基因和训练语料各有差异，擅长的任务也各有侧重，用户不断在几家模型之间切换，这导致记忆孤岛的问题长期存在。AI从通用走向个性化的过程中，缺",
-    "publishedAt": "2026-07-31",
+    "id": "news-chinajoy-1785566252000",
+    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+    "link": "https://36kr.com/p/3920595518533250?f=rss",
+    "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp; 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp; 但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp; 2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp; 如今的 ChinaJoy 还只是游戏展吗？ 它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp; 过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI 从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，每一个赛道、每一天都有新公司、新产品、新模式冒出来。&nbsp; ChinaJoy 是国内极少数能把这种变化一次性摊开在你面前的现场。 如今，来逛展的不只是玩家，还有开发者、AI 工程师、硬件创业者、投资人。&nbsp; 真正值得被报道的东西，已经藏在线下。如果只",
+    "publishedAt": "2026-08-01",
     "source": "36氪",
     "tags": [
       "china",
@@ -292,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1785686709000",
-    "title": " 餐厨厨余垃圾市场，项目闭环的5个关键 ",
-    "link": "https://www.huxiu.com/article/4880102.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：餐厨厨余行业的下一轮机会，本质上来自城市有机废弃物供应链的重构。能够把收运、处理、收费、产品和园区协同连成闭环的企业，才可能获得长期价值。 餐厨厨余垃圾处理被视为，固废行业里最容易产生幻觉的赛道。 它看上去什么都有，垃圾分类政策、无废城市建设、资源化利用、非居民厨余计量收费、沼气、油脂、有机肥，还有一堆听起来很绿色、很循环、很未来的产业叙事。 但真正投运以后，很多项目开始走形。例如，餐饮好料被灰色渠道截流，居民端厨余杂质高，沼气产量波动，有机肥找不到出路，处置费和补贴回款慢，导致很多项目越做越拧巴。 “建设期热闹，运营期拧巴”——这是大量餐厨厨余项目的真实写照。在这一领域，应该如何识别真实机会和防范陷阱，本文将对此展开讨论。 定位不清晰 项目难成立 餐厨厨余项目最大的困境，是定位混乱。 立项时按资源化项目讲故事，运营时按公共服务项目要补贴，考核时按环保项目提要求，几套逻辑混在一起，最后谁都不舒服。 把它当环保项目，核心看减量化和无害化，收益主要来自处置费和政府购买服务。把它当能源项目，核心看油脂、沼气和生物燃料，收益来自资源化产品。把它当肥料项目，产品出路最容易卡住。把它当城市公共服务，市场化弹性又有限。 一头连着公共治理，一头又想嫁接市场化收入。身份太多，项目运营就容易走形。 但这并不是说定位本身无解，而是要先回答一个",
-    "publishedAt": "2026-08-02",
+    "id": "news--1785722780000",
+    "title": " 区分两种“通货膨胀” ",
+    "link": "https://www.huxiu.com/article/4880143.html?f=rss",
+    "summary": "本文来自微信公众号： 存量规划前沿 ，作者：赵燕菁，原文标题：《区分两种 “通货膨胀”》 区分两种“通货膨胀” 赵燕菁 提到“通货膨胀”，大多数人的第一反应是：钱印多了，物价涨了。这个理解不能说全错，但有一个关键问题被忽略了——同样都是物价上涨，原因可能完全不同，甚至恰好相反。一个国家可能因为“钱太多”而通胀，另一个国家却可能因为“钱太少”而通胀。搞混了这一点，开出的药方就不是治病，而是投毒。 在主流（流行）经济学教科书中，对“通货膨胀”（Inflation）最经典的表述是：通货膨胀是指一般物价水平（General Price Level）的持续、显著上涨过程。 导致通胀的原因，主要分为两大派别。在货币主义看来，通胀是由于流通中的货币量过多，导致“过多的货币追逐过少的商品”（Too much money chasing too few goods），从而引发物价普遍上涨。例如米尔顿·弗里德曼（Milton Friedman）的经典论断：“通货膨胀无论何时何地，总是一种货币现象。”但在凯恩斯主义看来，通胀乃是由于总需求过度增长（需求拉动）或生产成本普遍上升（成本推动），导致总需求曲线或总供给曲线移动，从而引起一般物价水平的持续上升。 无论哪一派观点，其实都没有意识到“货币”这一术语在实践中的“量子性”——这一概念同时表述了两个东西，“货币”和“货币的度量”。这两个东西导致的“通货膨胀",
+    "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -305,11 +307,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-18-1785669876000",
-    "title": "这个年入18亿的男装品牌，“战术”开辟了男装新赛道",
-    "link": "https://www.tmtpost.com/8088175.html",
-    "summary": "当海澜之家和优衣库们仍在把男装卖给家里的女主人，龙牙让市场看到男性自己挑起衣服来能有多“野”。",
-    "publishedAt": "2026-08-02",
+    "id": "news-pr-fa-1785722767000",
+    "title": "当你的融资成了别人的PR：FA机构的“借光”生意与“发光”选择",
+    "link": "https://www.tmtpost.com/8088826.html",
+    "summary": "向外求走得快，但向内求走得远。 放弃“借光”，可能会倒逼出“发光”。",
+    "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -344,10 +346,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-senate-committee-advances-sonderling-for-dol-secretary-vote-1785499234000",
-    "title": "Senate committee advances Sonderling for DOL Secretary vote",
-    "link": "https://hrexecutive.com/senate-committee-advances-sonderling-for-dol-secretary-vote/",
-    "summary": "A Senate committee on Thursday voted to advance Acting DOL Secretary Keith Sonderling's nomination as Secretary to the full Senate, which is expected to approve the former EEOC commissioner and HR Tech speaker. The post Senate committee advances Sonderling for DOL Secretary vote appeared first on HR Executive .",
+    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
+    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
+    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
+    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
     "publishedAt": "2026-07-31",
     "source": "HR Executive",
     "tags": [
@@ -370,11 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-b-ai-ceo-1785493658000",
-    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-    "link": "https://36kr.com/p/3910776673064073?f=rss",
-    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的视频。 曾爱玲于香港中文大学计算机科学与工程系获得博士学位，并且曾是卡内基梅隆大学机器人研究所的访问学者。 B站一直在寻找一个能稳定下来的AI业务带头人。去年9月，前快手副总裁、可灵AI事业部技术部原负责人张迪，曾跳槽B站，并出任技术条线负责人。但仅仅两个月左右，张迪就再次出走，回归阿里，担任淘天集团未来生活实验室负责人。五个月后，张迪带领团队打造出HappyHorse-1.0。 2024年，B站上线了基础大模型Index，该模型能力主要被应用在视频内容创作、理解和分发等场景中。基于Index，B站搭建了角色扮演模型、语音生成模型、动漫视频生成模型等。 另外，在创作工具方面，2026年3月，B站推出",
-    "publishedAt": "2026-07-31",
+    "id": "news-9-1-1785544739000",
+    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+    "link": "https://36kr.com/p/3920241240419720?f=rss",
+    "summary": "今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% Anthropic称AI模型在测试期间误侵三家真实机构系统 TOP3大新闻 马斯克回应特斯拉剥离中国业务 7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“不实消息。”（第一财经） 去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省30元 36氪获悉，7月31日，去哪儿接到多家航空公司通知，自2026年8月5日（出票日期）起，成人旅客：800公里以上航线每位旅客收取70元燃油附加费，800公里（含）以下航线每位旅客收取40元燃油附加费。相较于调整前降低了30元/10元。 中国最高薪本科专业易主，电子科学与工程专业以7814元位居第一 本科生毕业半年后的月收入水平，是反映专业就业质量的重要参考指标。随着产业结构的改变，本科高薪专业也在发生变化。麦可思研究院发布的《2026年中国本科生就业报告》（就业蓝皮书）显示，今年本科毕业生毕业半年后平均月收入最高的专业，已变成微电子科学与工程。该专业以7814元位居第一，电子科学与技术、自动化分列第二、第三。信息安全则降",
+    "publishedAt": "2026-08-01",
     "source": "36氪",
     "tags": [
       "china",
@@ -955,4 +957,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-02T22:52:07.953Z';
+export const dataFetchedAt = '2026-08-03T02:25:06.894Z';
