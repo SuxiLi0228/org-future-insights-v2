@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aws-is-helping-vibe-coding-startup-superblocks-and-the-impli-1785787200000",
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+    "id": "news-snap-ceo-sidesteps-specs-preorder-questions-on-q2-earnings-c-1785795058000",
+    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+    "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+    "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -83,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785775414000",
-    "title": " 一百多年历史的“法国烹饪大师”，不仅没被取缔，还越来越有公信力了 ",
-    "link": "https://www.huxiu.com/article/4880386.html?f=rss",
-    "summary": "本文来自微信公众号： 食味艺文志 ，作者：魏水华 中国烹协宣布，即日起，历年“中国烹饪大师”的称号全部作废。 耐人寻味的是，这条新闻评论区里的风向是这样的： 不仅否定了“中国烹饪大师”从诞生以来的合理性，这是连遮羞布都不要了。 所以，当初，为什么要评“中国烹饪大师”？ 在国家最高烹饪水平的认证上，全球普遍存在一条由政府主导、以标准化考核为核心的官方技术轨道。 中国有烹饪大师，德国有Küchenmeister（厨房大师），日本有“现代の名工”（当代卓越技能者），美国有Certified Master Chef（联邦认证名厨）。 这一轨道的现代源头，可以追溯到一百年前法国的MOF（法国最佳工匠）制度。 1913年，法国艺术评论家阿尔贝·勒布尔首次提出建立国家工匠大赛的构想，旨在挽救工业革命冲击下奄奄一息的传统手工业。1924年，第一届MOF大赛在巴黎成功举办，144位工匠获得表彰，并迅速被法国劳动部确立为一项国家级赛事，上升为受法律保护的最高技术文凭。 MOF不仅是一场淘汰率极高、甚至常有空缺的地狱级现场技能考试，更是一张等同于高级工程师或硕士级技术资历的高阶文凭。自1924年创立以来的百年历史里，在全法200多个手工艺行业中，累计仅有约9,000人获得过MOF头衔；而在最受瞩目的餐饮与烹饪领域，仅有约200位主厨成功摘得这顶桂冠，如传奇名厨保罗·博古斯（Paul Bocuse）、乔尔",
+    "id": "news--1785796525000",
+    "title": " 补贴政策在催你买车，却没人管你有没有地方停车 ",
+    "link": "https://www.huxiu.com/article/4880389.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 2026年，国家以旧换新补贴总预算2500亿元，分四批投放，每批625亿。 汽车报废换新最高补2万，置换更新最高补1.5万。 据《中国青年网》报道，截至6月20日，全国以旧换新已带动消费突破1万亿元，1.36亿居民申领补贴。 财政资金拉动消费比例达到1:10.3——每花1块钱补贴，撬动10.3块钱消费。 同一年，全国停车场建设总投资预计2420亿元，其中政府主导投资占比31.5%，算下来约762亿。 一边是2500亿催你买车，一边是762亿建停车位。 前者撬动万亿消费，后者填一个永远填不上的窟窿。 据公安部数据，截至2026年6月底，全国汽车保有量达3.71亿辆。 据博研咨询发布的行业报告，全国城市停车供给总量约1.22亿个泊位，供需缺口高达2.36亿个，缺口率67.3%。 3.71亿辆车，2.36亿个缺口。 平均每3辆车，就有1辆\"无家可归\"。 政策的天平从来不往停车那边倾斜。 不是倾斜得不够，是压根没往那边放过砝码。 一、2500亿和762亿：政策天平的一边倒 先看买车这头。 2026年消费品以旧换新补贴总预算2500亿元，依托超长期特别国债统筹调配。 据《中国青年网》报道，商务部数据显示，2024年至2025年全国累计实施汽车以旧换新1830余万辆，其中新能源汽车占比接近60%。 中国汽车流通协会初步测算，2026年享受补贴的乘用",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
@@ -122,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-who-8217-s-legally-to-blame-for-anthropic-and-openai-8217-s--1785786335000",
-    "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
-    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
+    "id": "news-aws-is-helping-vibe-coding-startup-superblocks-and-the-impli-1785787200000",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -188,17 +188,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-4-1785773385000",
-    "title": " AI基建正长出新一轮环保增量，这4个方向值得关注 ",
-    "link": "https://www.huxiu.com/article/4880385.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：环保行业很少把自己看作AI基建的一部分。但算力中心越密集，水处理、节能改造、能源协同和安全退役的新甲方就越多。 过去几年，环保行业谈基建，习惯盯着污水处理厂、垃圾焚烧厂、管网和园区工程；谈AI基建，则更多盯着芯片、服务器、电力和数据中心。 两条线看起来相隔很远。 但当算力设施从建设期走向运行期，连接就出现了：高密度服务器产生的热怎样稳定带走，冷却用水从哪里来，老旧数据中心怎样降耗，绿电和余热怎样组织，设备退役以后如何清除数据、保存残值并合规处置，都要进入预算、合同和日常运营。 2025年，我国智能算力规模达到159万PFLOPS（FP16），累计建成306家国家绿色算力设施。算力继续扩张的同时，国家行动计划已经把低耗水冷却、再生水、余热、绿电协同和废旧设备循环写进同一套绿色发展安排。 政策方向已经清楚，真正需要判断的不是有没有需求，而是四类需求分别由谁采购、怎样验收、能否形成持续收费。 AI基建把环保从项目末端推向运行前端 传统环保工程大多从污染物和处理设施出发，围绕厂、站、网和设备组织投资。AI基建带来的环境需求，起点却是保障服务器持续工作。 在数据中心，水处理、冷源和备电属于动力环境系统。验收不只看排放或设备参数，还要看负载波动、故障切换和维护窗口里能否维持业务可用。环境能力因此不再只位于项目末端，而是嵌入生产系统本",
+    "id": "news--1785775414000",
+    "title": " 一百多年历史的“法国烹饪大师”，不仅没被取缔，还越来越有公信力了 ",
+    "link": "https://www.huxiu.com/article/4880386.html?f=rss",
+    "summary": "本文来自微信公众号： 食味艺文志 ，作者：魏水华 中国烹协宣布，即日起，历年“中国烹饪大师”的称号全部作废。 耐人寻味的是，这条新闻评论区里的风向是这样的： 不仅否定了“中国烹饪大师”从诞生以来的合理性，这是连遮羞布都不要了。 所以，当初，为什么要评“中国烹饪大师”？ 在国家最高烹饪水平的认证上，全球普遍存在一条由政府主导、以标准化考核为核心的官方技术轨道。 中国有烹饪大师，德国有Küchenmeister（厨房大师），日本有“现代の名工”（当代卓越技能者），美国有Certified Master Chef（联邦认证名厨）。 这一轨道的现代源头，可以追溯到一百年前法国的MOF（法国最佳工匠）制度。 1913年，法国艺术评论家阿尔贝·勒布尔首次提出建立国家工匠大赛的构想，旨在挽救工业革命冲击下奄奄一息的传统手工业。1924年，第一届MOF大赛在巴黎成功举办，144位工匠获得表彰，并迅速被法国劳动部确立为一项国家级赛事，上升为受法律保护的最高技术文凭。 MOF不仅是一场淘汰率极高、甚至常有空缺的地狱级现场技能考试，更是一张等同于高级工程师或硕士级技术资历的高阶文凭。自1924年创立以来的百年历史里，在全法200多个手工艺行业中，累计仅有约9,000人获得过MOF头衔；而在最受瞩目的餐饮与烹饪领域，仅有约200位主厨成功摘得这顶桂冠，如传奇名厨保罗·博古斯（Paul Bocuse）、乔尔",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -228,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-designarena-creators-raise-7-9-million-to-bring-taste-to-ai--1785785337000",
-    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "id": "news-who-8217-s-legally-to-blame-for-anthropic-and-openai-8217-s--1785786335000",
+    "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
+    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -295,16 +294,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785773379000",
-    "title": " 马斯克否认分拆特斯拉中国：一场中美供应链之间的走钢丝 ",
-    "link": "https://www.huxiu.com/article/4880384.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 几天前，《华尔街日报》发出一条劲爆消息：特斯拉内部曾评估过分拆、出售甚至独立中国业务的多个方案。消息一出，迅速引发全球资本市场和产业界关注。 市场开始讨论：如果真的分拆，特斯拉的估值、上海工厂的归属以及中国业务的未来将如何变化？ 随后，马斯克在X上迅速回应：“Absurdly fake news.” 特斯拉方面也否认了这一报道。舆论随即出现反转。 但如果你仔细观察那几个小时里投资人的反应，会发现一个惊人的细节：没有人感到真正的震惊。没有人说“这完全不可能”。相反，整个投资圈的第一反应是“这个消息听起来真的有可能”。为什么？ 因为所有人都心知肚明：马斯克正被卷入一场凶险的地缘政治漩涡——他的商业帝国，正同时面对美国国家安全体系的审视，以及对中国制造能力和供应链体系的深度依赖。 这种“不得不撕裂”的阵痛，正是跨国科技巨头在解耦大潮中的真实缩影。分拆或许最终不会发生，但这个传闻的出现本身，已经暴露了一个科技帝国内部最深的伤口。 悖论交汇点，当“特斯拉”遇上“SpaceX” 为了理解为什么分拆会成为一个“可信”的传闻，我们必须先理清楚马斯克帝国的两个核心支柱的真实冲突。这不是新闻学意义上的冲突，而是美国国家安全体系和商业逻辑的直接碰撞，这背后折射的，是美国国家安全要求与跨国商业效率之间越来越明显的张力。 一边是SpaceX。在大多数人的认知",
+    "id": "news-ai-4-1785773385000",
+    "title": " AI基建正长出新一轮环保增量，这4个方向值得关注 ",
+    "link": "https://www.huxiu.com/article/4880385.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：环保行业很少把自己看作AI基建的一部分。但算力中心越密集，水处理、节能改造、能源协同和安全退役的新甲方就越多。 过去几年，环保行业谈基建，习惯盯着污水处理厂、垃圾焚烧厂、管网和园区工程；谈AI基建，则更多盯着芯片、服务器、电力和数据中心。 两条线看起来相隔很远。 但当算力设施从建设期走向运行期，连接就出现了：高密度服务器产生的热怎样稳定带走，冷却用水从哪里来，老旧数据中心怎样降耗，绿电和余热怎样组织，设备退役以后如何清除数据、保存残值并合规处置，都要进入预算、合同和日常运营。 2025年，我国智能算力规模达到159万PFLOPS（FP16），累计建成306家国家绿色算力设施。算力继续扩张的同时，国家行动计划已经把低耗水冷却、再生水、余热、绿电协同和废旧设备循环写进同一套绿色发展安排。 政策方向已经清楚，真正需要判断的不是有没有需求，而是四类需求分别由谁采购、怎样验收、能否形成持续收费。 AI基建把环保从项目末端推向运行前端 传统环保工程大多从污染物和处理设施出发，围绕厂、站、网和设备组织投资。AI基建带来的环境需求，起点却是保障服务器持续工作。 在数据中心，水处理、冷源和备电属于动力环境系统。验收不只看排放或设备参数，还要看负载波动、故障切换和维护窗口里能否维持业务可用。环境能力因此不再只位于项目末端，而是嵌入生产系统本",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-influencers-draw-backlash-for-attending-openai-8217-s-first--1785784196000",
-    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "id": "news-design-arena-creators-raise-7-9-million-to-bring-taste-to-ai-1785785337000",
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -757,6 +757,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1135925",
+    "title": "L’Évolution Du Télétravail Les Enseignements Du Rapport De La DARES Novembre 2024",
+    "company": "Office Notarial des Vallons de Vilaine",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Ces Ã©tudes font un Ã©tat des lieux complet"
+    ],
+    "skills": [],
+    "location": "Gonaïves, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-levolution-du-teletravail-les-enseignements-du-rapport-de-la-dares-novembre-2024-office-notarial-des-vallons-de-vilaine-1135925",
+    "postedAt": "2026-08-02",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1135924",
     "title": "Failure Breeds Success",
     "company": "Deliberate Development",
@@ -884,24 +899,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-new-world-consulting-1135988",
     "postedAt": "2026-07-30",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135680",
-    "title": "AI Trainer Freelance Data Annotator",
-    "company": "Mindrift - Data annotation",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Please submit your resume in English and indicate your level of English",
-      "At Toloka, we connect smart, curious people from around the world with freelance online tasks that train and improve artificial intelligence",
-      "What we do The Toloka Annotators connects individuals with Generative AI projects fro"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
-    "postedAt": "2026-07-30",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T20:58:45.849Z';
+export const dataFetchedAt = '2026-08-03T22:56:18.669Z';
