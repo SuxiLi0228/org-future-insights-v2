@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "id": "news-the-download-reward-hacking-explained-and-suspected-iranian--1785758880000",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-dep-1785751200000",
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "id": "news-horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-t-1785761446000",
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
-    "title": "New data puts a number on the great AI regret",
-    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
-    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "id": "news-15-of-mid-size-employers-are-likely-to-adopt-ichras-1785759351000",
+    "title": "15% of mid-size employers are likely to adopt ICHRAs",
+    "link": "https://hrexecutive.com/15-of-mid-size-employers-are-likely-to-adopt-ichras/",
+    "summary": "The top market for \"cash-for-coverage\" plans may be employers that already offer health benefits, according to a new EBRI survey report. The post 15% of mid-size employers are likely to adopt ICHRAs appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -51,6 +50,111 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "workforce",
       "organization"
+    ]
+  },
+  {
+    "id": "news-ai-2026-chinajoy-ai-1785757153000",
+    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+    "link": "https://36kr.com/p/3923717502072969?f=rss",
+    "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。 圆桌嘉宾： 刘士武丨36氪游戏主编（主持） 吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp; 艾文丨阿里云智能集团公共云AI原生事业部副总经理 罗小我丨VAST战略负责人 杨晟丨珀乐互动科技创始人 从实验到产线——AI 工作流的规模化挑战与协作生态 以下为圆桌对话内容，经36氪整理编辑： 刘士武： 大家好！我是本场圆桌的主持人，36氪游戏主编刘士武，我们今天的圆桌主题是从实验到产线，AI工作流的规模化挑战与协作生态。我们今天圆桌四位嘉宾，Funloom AI的吴同老师、阿里云的艾文老师、VAST罗小我老师以及珀乐互动的杨晟老师，其实四位分别代表AI产线上不同的角色以及在发力不同方向。 今天我们将会聊聊大的话题下一些小细节，聊聊AI在游戏行业工作流里面应用",
+    "publishedAt": "2026-08-03",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4k-1785758372000",
+    "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+    "link": "https://www.qbitai.com/2026/08/465673.html",
+    "summary": "商汤预览了SenseNova U1.5 Lite",
+    "publishedAt": "2026-08-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-24-1785764509000",
+    "title": " 新规落地，个贷定价图谱出炉，24%红线一统江湖，但松动信号已现？ ",
+    "link": "https://www.huxiu.com/article/4880366.html?f=rss",
+    "summary": "本文来自微信公众号： 坚白客 ，作者：濠梁 8月1日，《个人贷款业务明示综合融资成本规定》（下称“个贷明示规定”）正式实施。个人贷款收费彻底透明化时代到来。 从实际效果来看，在封死个贷隐性收费空间之外，个贷明示规定还发挥了一个绝妙的“副作用”——按照规定中顺带一提的附加要求，各大银行近期密集公示了个人贷款利率上限。 不同类型的银行，尽管个贷利率上限差距显著，但年化24%仍然是绝对的天花板。 不过与此同时，也有难以忽视的信号预示着，“一统天下”的24%红线，似乎仍有松动的可能。 01 银行个贷定价图谱出炉 截至目前，6大国有大行、12家全国性股份行，以及绝大部分中小城农商行，均已在官网公示个贷定价上限，利率分布呈现出鲜明的梯度分化特征。 传统国有四大行——工商银行、农业银行、中国银行、建设银行，稳居金字塔顶，利率上限整齐划一，四家银行的个人消费贷款以及个人经营贷款，利率上限均为6%。 而另外两大国有行——邮储银行、交通银行，虽紧随其后，但利率台阶已翻倍抬升，两类贷款的利率上限均达到12%，已经跌入股份行的主流梯度。 12家股份行中，招商、中信、兴业等绝大多数，都将个人消费贷、经营贷的利率上限，统一设定为12%，从而奠定了股份行的主流梯度。 少数股份行则在12%线上下跳动，最低如华夏银行，个人经营贷的利率上限低至8%，最高如平安银行，个人消费贷上限达到18%，个人经营贷上限进一步升至2",
+    "publishedAt": "2026-08-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785759572000",
+    "title": "老股东高价套现离场，新东家用并购贷接盘：欣天科技控制权易主背后的\"冰与火\"",
+    "link": "https://www.tmtpost.com/8089630.html",
+    "summary": "东信营销实控人刘杨不惜背负并购贷、溢价九成接盘亏损的欣天科技，只为圆一个港股折戟后的上市梦么?",
+    "publishedAt": "2026-08-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "publishedAt": "2026-08-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-samsung-bans-smart-tv-apps-that-share-users-8217-internet-co-1785759041000",
+    "title": "Samsung bans smart TV apps that share users&#8217; internet connections with strangers",
+    "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+    "summary": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+    "publishedAt": "2026-08-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-productivity-claims-are-95-8216-still-to-come-8217-fed-fi-1785758400000",
+    "title": "AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds",
+    "link": "https://hrexecutive.com/ai-productivity-claims-are-95-still-to-come-fed-finds/",
+    "summary": "New Fed research on 490,000 earnings calls finds execs describe AI productivity gains as almost entirely future tense, not yet realized. The post AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds appeared first on HR Executive .",
+    "publishedAt": "2026-08-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-skills-visibility-matters-before-the-next-workforce-deci-1785747600000",
+    "title": "Why skills visibility matters before the next workforce decision",
+    "link": "https://www.hrdive.com/spons/why-skills-visibility-matters-before-the-next-workforce-decision/826418/",
+    "summary": "Why skills visibility is becoming a workforce planning advantage.",
+    "publishedAt": "2026-08-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
     ]
   },
   {
@@ -81,23 +185,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785755454000",
-    "title": " 厦门象屿青岛仓库起火：高温暴雨频发，国企贸易公司该检查仓库了 ",
-    "link": "https://www.huxiu.com/article/4880326.html?f=rss",
-    "summary": "本文来自微信公众号： 五道口供应链研究院 ，作者：鲁顺，原文标题：《厦门象屿青岛仓库起火：高温暴雨频发，国企贸易公司该检查仓库了！》 做贸易的人说到仓库里的货出问题，先想到的是货被人放跑了。过去公开披露的一些贸易风险案件中，出现过仓储物流企业、货代与上下游串通，违规放货、重复出具仓单或者协助转移货物的情形。 但仓储风险不止这一种。还有一类风险，是货仍然在仓库里，却因为温度、湿度、进水、火灾、堆码挤压等原因，已经失去了原有价值，甚至无法继续交付。 最近，各地高温、暴雨、雷电和强对流天气多发。所有持有库存、控制货权或者承担交付责任的贸易企业，都该停下来想一想： 仓库里的货，真的安全吗？ 一、厦门象屿青岛仓库突发火灾 据官方媒体报道，8月2日17时许，青岛市黄岛区七星河路363号，青岛象屿速传供应链有限公司的仓库起火。 浓烟很快升起来，火势一度很大，当晚冲上热搜。市、区两级消防、公安、应急部门当晚持续开展灭火处置，官方通报确认无人员被困、无人员伤亡，起火原因正在调查中。 起火的青岛象屿速传供应链有限公司，成立于2014年，注册资本5000万元，是A股上市公司厦门象屿间接控股的子公司，持股比例80.76%，主要提供供应链物流和仓储服务，2024年度实现营业收入1.75亿元。 《证券日报》记者就此次火灾采访厦门象屿证券部门。工作人员表示，目前了解到的情况是，此次火灾“对公司生产经营没有重大影",
+    "id": "news--1785764436000",
+    "title": " 在外企，十年工龄老员工，已属平常 ",
+    "link": "https://www.huxiu.com/article/4880367.html?f=rss",
+    "summary": "本文来自微信公众号： 外企观CHA ，作者：MK麦客 我们部门上半年办了好几场满十年员工庆祝会。 第一场是老陈，第二场是老王，第三场是隔壁Team的Lisa。 三个人同一部门，不同岗位，但都在这里待满了十年。 HR发了慰问邮件，附上印着公司logo的荣誉证书，大家在会议室吃了蛋糕，回顾了他们过去的一些照片，老板送上感谢的话，大家开玩笑说他们是「十年功臣」。 仪式感很强，气氛也很热烈，但这种仪式已经开始越来越像一场普通的日常会议了。 因为，工龄满十年这件事，在这家外企，其实已经不是什么罕见的事了，它似乎成了一种平常，一件越来越多人不久就能达到的状态。 以前的十年员工，是稀有的 记得以前进外企那会儿，2010年左右，办公室里待满十年的人是极其稀有的。 那时候的外企，跳槽像是一种职场文化。两三年一跳，跳一次涨30%，LinkedIn上的工作履历一条一条往上加，每换一次公司title或者薪资往上走一级。 那种频率和节奏，好似「职场精英」的标准路径。 反过来，如果你在一家外企待了五年以上，猎头打电话过来第一句话就是：「在这家公司这么久了，不想看看外面的机会吗？」，话里话外的暗示是，在一家外企待久了是一种不正常的状态，是缺乏进取心的表现。 老外来中国出差，看到一个员工的tenure超过八年，也会露出一种意外的疑惑表情。在他们的印象是，在欧美职场，loyalty（忠诚）是一种美德，但在当时中国那",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-ai-200-1785755591000",
-    "title": "AI科研范式革命：花200美元即可攻克一道数学世纪难题",
-    "link": "https://www.tmtpost.com/8089368.html",
-    "summary": "科研的边际成本从百万美元级降至百元级，重新定义成本结构往往意味着产业变革的开始。",
+    "id": "news--1785757689000",
+    "title": "对话博登智能赵捷：十亿订单在手，具身智能最缺的仍是高质量数据",
+    "link": "https://www.tmtpost.com/8085920.html",
+    "summary": "机器人真正的进步，有时就藏在一次失败之后：它有没有记住，人类当时是怎样把错误纠正过来的。",
     "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
@@ -120,11 +225,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-global-memory-shortage-hits-the-macbook-air-1785706439000",
-    "title": "The global memory shortage hits the MacBook Air",
-    "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-    "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-    "publishedAt": "2026-08-02",
+    "id": "news-a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-dep-1785751200000",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,30 +238,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-tests-gartner-s-entry-level-jobs-warning-1785718818000",
-    "title": "Amazon tests Gartner’s entry-level jobs warning",
-    "link": "https://hrexecutive.com/amazon-tests-gartners-entry-level-jobs-warning/",
-    "summary": "Gartner says AI is shrinking entry-level hiring. AWS CEO Matt Garman's own hiring numbers say something different. The post Amazon tests Gartner’s entry-level jobs warning appeared first on HR Executive .",
+    "id": "news-health-claims-may-change-in-second-half-of-year-says-brown-0-1785757550000",
+    "title": "Health claims may change in second half of year, says Brown &#038; Brown",
+    "link": "https://hrexecutive.com/health-claims-may-change-in-second-half-of-year-says-brown-brown/",
+    "summary": "Brown &#038; Brown spent less on claims in the first half of the year, but it's not sure that will continue. The post Health claims may change in second half of year, says Brown &#038; Brown appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-why-skills-visibility-matters-before-the-next-workforce-deci-1785747600000",
-    "title": "Why skills visibility matters before the next workforce decision",
-    "link": "https://www.hrdive.com/spons/why-skills-visibility-matters-before-the-next-workforce-decision/826418/",
-    "summary": "Why skills visibility is becoming a workforce planning advantage.",
-    "publishedAt": "2026-08-03",
+    "id": "news-which-2-major-companies-in-the-food-space-announced-new-cpos-1785515640000",
+    "title": "Which 2 major companies in the food space announced new CPOs in July?",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-july-2026/826660/",
+    "summary": "Meanwhile, Visier netted a former CEO for its lead HR role and a Michigan energy company pulled an HR leader from the railroad industry.",
+    "publishedAt": "2026-07-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -187,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785755441000",
-    "title": " 头部餐饮，涨价方式变聪明了 ",
-    "link": "https://www.huxiu.com/article/4880324.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 喜家德、魏家凉皮… 又一波餐企“涨价潮”来临 最近，不少网友在社交平台发帖称，喜家德也开始“偷偷涨价”了。 而且涨价方式相当低调，网友戏称“不搞官宣涨价，全靠食客吃着吃着自我察觉”，部分产品、部分地区调整价格，不少消费者都是翻订单记录时，才发现价格已经变了。 从网友分享来看，各地涨价情况并不一致。比如在广东，有消费者发现，红豆黄桃西米露原来售价6元，如今已经涨到11.9元，是涨幅最令人震惊的产品。 相比之下，饺子产品调价幅度普遍只有1元左右，比如喜三鲜水饺原来31元，现在变成了31.9元；而经典菜品角瓜鸡蛋虾皮水饺，黑龙江网友称原本19.9元，如今涨至20.9元，河南的网友表示半年从18元涨到23元。 作为国内水饺连锁品牌，喜家德目前全国门店数量已超过860家，人均消费约31元。对于这样一家规模较大的连锁品牌来说，每一次价格调整很难不引发消费者关注。 也有人表示，不同城市、不同门店价格本身就存在差异，各地涨价情况都是根据门店经营情况。 说到涨价，最近魏家凉皮引发的关注就更大了。 自8月1日起，魏家凉皮全国调价，比如秘制凉皮、粉皮涨价1元，汉堡和米粉涨价3元，米饭套餐涨价2-4元不等，涨幅普遍在7-29%之间。调价之后，热销的安格斯牛肉芝士包汉堡卖18元一个，三鲜米粉15元一碗。 这次调价覆盖面广，但幅度分三档：凉皮粉皮这种招牌主食",
+    "id": "news-4-1785762986000",
+    "title": " 打完减肥针一点都不饿，真的是好事吗？不想越减越虚，这4件事务必重视 ",
+    "link": "https://www.huxiu.com/article/4880364.html?f=rss",
+    "summary": "本文来自微信公众号： 食栗派ChestnutMates ，作者：食栗派 身边悄然瘦下来的人越来越多。别问，问就是仨字：打针了。 “减肥针”更准确地说，GLP-1类药物，做到了很多人靠节食始终无法做到的事。那种明明已经吃饱了、脑子里却还在不停念叨\"再吃点吧\"的声音，终于消停了。 但消失的不只是食欲，还有营养、肌肉、头发、生活质量…… 最近，欧洲肥胖研究学会、欧洲营养师协会联合会等机构发布了一份专家共识，专门讨论使用这类减重药物期间的营养、身体功能和心理健康，并针对怎么吃够营养、保护肌肉功能给出了建议。 1、注意监测 任何快速减重都会导致肌肉量减少。由于服用GLP-1类药物可导致接近减重手术后的减重效果，研究人员发现，与传统的减重药物相比，GLP-1类药物导致肌肉流失的风险更高，尤其在初期[2]。 共识建议，使用减肥针期间注意监测身体成分的变化；尤其是高风险人群，比如老年人、体重下降过快者。 测体的目标是争取让脂肪流失量与去脂体重(主要是肌肉)流失量的比例达到3:1以上。即每减4公斤体重，至少3公斤来自脂肪，肌肉流失控制在1公斤以内。 医院的双能X线体成分分析仪，或者生物电阻抗体成分分析仪，都可以监测；另外，也有一些简易的评估方法，比如 主观力量感受。问问自己：用药以来，是否感觉日常活动比以前更费力？ 握力测试。留意日常动作（拧瓶盖、拧毛巾、提重物）中是否出现以前没有的费力感。有条件可",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
@@ -200,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-72-1785753748000",
-    "title": "SpaceX解禁前72小时",
-    "link": "https://www.tmtpost.com/8089331.html",
-    "summary": "市场重新定义大模型",
+    "id": "news--1785757654000",
+    "title": "第三方线上号卡渠道全面关停：行业洗牌之后呢？",
+    "link": "https://www.tmtpost.com/8088251.html",
+    "summary": "但新规落地后，普通消费者办卡选择、便利性、使用成本同步承压，依托线上分销的众多号卡渠道商家也迎来生存洗牌。",
     "publishedAt": "2026-08-03",
     "source": "钛媒体",
     "tags": [
@@ -226,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sam-altman-and-ai-s-decel-debate-1785704062000",
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "id": "news-the-global-memory-shortage-hits-the-macbook-air-1785706439000",
+    "title": "The global memory shortage hits the MacBook Air",
+    "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+    "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
     "publishedAt": "2026-08-02",
     "source": "TechCrunch",
     "tags": [
@@ -239,122 +344,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-upcoming-deadline-turns-hr-8217-s-ai-shortcuts-into-legal-1785502821000",
-    "title": "An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk",
-    "link": "https://hrexecutive.com/an-upcoming-deadline-turns-hrs-ai-shortcuts-into-legal-risk/",
-    "summary": "EU AI Act's Aug. 2 deadline hits HR directly. New data shows most companies lack the training and governance to meet it. The post An upcoming deadline turns HR&#8217;s AI shortcuts into legal risk appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
+    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
+    "title": "New data puts a number on the great AI regret",
+    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
+    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
       "ai"
-    ]
-  },
-  {
-    "id": "news-which-2-major-companies-in-the-food-space-announced-new-cpos-1785515640000",
-    "title": "Which 2 major companies in the food space announced new CPOs in July?",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-july-2026/826660/",
-    "summary": "Meanwhile, Visier netted a former CEO for its lead HR role and a Michigan energy company pulled an HR leader from the railroad industry.",
-    "publishedAt": "2026-07-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-cpo-oio-1785735816000",
-    "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
-    "link": "https://36kr.com/p/3923374038265217?f=rss",
-    "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中心副主任，在美国和中国的半导体行业都有着丰富资源与技术积淀。 联合创始人兼CTO赵京雄曾担任CUMEC技术总监，美国思科、英特尔技术负责人，拥有多年AI GPU/NPU/Switch/硅光芯片的架构设计经验。首席科学家Craig Peterson是英特尔微电子中心总经理，在英特尔拥有多年的工作经历，参与设计了三款处理器、八代芯片组。 随着生成式AI与大模型训练需求的爆发，算力集群的规模正在经历前所未有的指数级增长，传输速率迈向1.6T乃至3.2T。这意味着，传统的信号调制方式面临着高功耗、热流密度集中以及较高的物理链路闪断风险，传统基于可插拔光模块的电传输网络正在触及物理天花板。为了打破其中的供需差，将光引擎与计算芯片或交换芯片进行深度集成，即从可插拔模式走向CPO乃至OIO已成为业",
-    "publishedAt": "2026-08-03",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-1785739767000",
-    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-    "link": "https://www.qbitai.com/2026/08/465361.html",
-    "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
-    "publishedAt": "2026-08-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1785755233000",
-    "title": " 被金融黑灰产逼急的银行风控，开始用AI测谎 ",
-    "link": "https://www.huxiu.com/article/4880323.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 让银行、助贷平台没想到的是，贷款中介从个人信用修复举措中发现了“机会”——通过提供高息民间借款帮助借款人修复个人信用，然后“引导”借款人前往正规金融机构申请更大额度的贷款，进而使得贷款中介又能在后续帮借款人大幅减免贷款本息的“一条龙服务”中赚取高额回报。 自2026年7月中旬起，汪宇接到一项紧急工作，配合技术部门迅速将“智能线上面审”技术嵌入现行的个人消费信贷风控审批流程。 作为一家农商行华东地区分行的风控人员，汪宇近几日与技术部门同事待在一起，评估上述技术的具体应用成效。例如，在风控系统向借款人询问“在去年12月至今年3月，你修复个人信用所偿还的逾期贷款资金，是不是来自工作收入或家人亲友支持”后，AI（人工智能）能否捕捉借款申请人回答“是”那一刻的表情变化，准确判断其是否在撒谎。 一旦被AI判定为“撒谎”，相关个人消费贷款申请将被从严审核，有较高概率被否决。 最近两周，作为一家助贷平台的运营总监，刘伟忙着与其他助贷平台、持牌消费金融机构磋商加强逾期客户名单共享，以便能及时发现在其他金融机构已经还款逾期的借款人是否跑来他们这里申请贷款。“我们将这项工作称为撞库。当前若想防范贷款逾期风险，离不开它。”刘伟说。 自7月份以来，汪宇所在的银行与刘伟所在的助贷平台都发现了一个异常情况——刚在今年一季度修复个人信用的部分借款人在4—6月份申请个",
-    "publishedAt": "2026-08-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1785753712000",
-    "title": "字节AI开始合围",
-    "link": "https://www.tmtpost.com/8089007.html",
-    "summary": "以豆包为圆心，重建AI时代的商业闭环",
-    "publishedAt": "2026-08-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-montana-s-plan-to-become-an-experimental-medical-hub-just-pu-1785431400000",
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the&#8230;",
-    "publishedAt": "2026-07-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-net-1785690307000",
-    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-    "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-    "publishedAt": "2026-08-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ebay-8217-s-55-7m-misconduct-settlement-a-warning-for-hr-1785501050000",
-    "title": "eBay&#8217;s $55.7M misconduct settlement: A warning for HR",
-    "link": "https://hrexecutive.com/ebays-55-7m-misconduct-settlement-a-warning-for-hr/",
-    "summary": "eBay's $55.7M settlement over employee cyberstalking shows why HR can't overlook misconduct by powerful leaders. The post eBay&#8217;s $55.7M misconduct settlement: A warning for HR appeared first on HR Executive .",
-    "publishedAt": "2026-07-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
     ]
   },
   {
@@ -372,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3d-b-36-1785735612000",
-    "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
-    "link": "https://36kr.com/p/3923371035831684?f=rss",
-    "summary": "文｜张子怡 编辑｜袁斯来 36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。 「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。 凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。 在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想要分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。 轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（人、机、料、法）。我们关注的是如何帮工厂节约一半人力、提升4倍产能、节约一半材料，最终让用户的ROI（投资回报率）提升10倍。” 为此，在产品底层硬件设计上，轻量智造做了大幅度的调整。传统的桌面3D打印机普遍使用步进电机，该方案将电机的旋转运动通过皮带转化为直线运动，但存在精度问题和皮带磨损问题。轻量智造通则过引",
+    "id": "news-cpo-oio-1785735816000",
+    "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+    "link": "https://36kr.com/p/3923374038265217?f=rss",
+    "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，��力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中心副主任，在美国和中国的半导体行业都有着丰富资源与技术积淀。 联合创始人兼CTO赵京雄曾担任CUMEC技术总监，美国思科、英特尔技术负责人，拥有多年AI GPU/NPU/Switch/硅光芯片的架构设计经验。首席科学家Craig Peterson是英特尔微电子中心总经理，在英特尔拥有多年的工作经历，参与设计了三款处理器、八代芯片组。 随着生成式AI与大模型训练需求的爆发，算力集群的规模正在经历前所未有的指数级增长，传输速率迈向1.6T乃至3.2T。这意味着，传统的信号调制方式面临着高功耗、热流密度集中以及较高的物理链路闪断风险，传统基于可插拔光模块的电传输网络正在触及物理天花板。为了打破其中的供需差，将光引擎与计算芯片或交换芯片进行深度集成，即从可插拔模式走向CPO乃至OIO已成为",
     "publishedAt": "2026-08-03",
     "source": "36氪",
     "tags": [
@@ -386,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-1785735722000",
-    "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
-    "link": "https://www.qbitai.com/2026/08/465225.html",
-    "summary": "",
+    "id": "news-2026-1785739767000",
+    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+    "link": "https://www.qbitai.com/2026/08/465361.html",
+    "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
     "publishedAt": "2026-08-03",
     "source": "量子位",
     "tags": [
@@ -881,26 +880,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
     "postedAt": "2026-07-30",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135691",
-    "title": "Supply Chain &amp; Operations Specialist",
-    "company": "Miss Amara",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Supply Chain &amp; Operations Specialist - Join Us at Miss Amara",
-      "If you’re a natural problem-solver who loves keeping things moving in a fast-paced e-commerce world, this role is for you",
-      "As our Supply Chain &amp; Operations Specialist, you’ll be the driving force ensuring our DTC and B2B orders ar"
-    ],
-    "skills": [
-      "LLM"
-    ],
-    "location": "Metro Manila",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
-    "postedAt": "2026-07-30",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T11:18:31.780Z';
+export const dataFetchedAt = '2026-08-03T14:29:04.797Z';
