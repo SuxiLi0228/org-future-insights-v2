@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-t-1785761446000",
-    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+    "id": "news-whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-1785779161000",
+    "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+    "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+    "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -27,22 +27,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-15-of-mid-size-employers-are-likely-to-adopt-ichras-1785759351000",
-    "title": "15% of mid-size employers are likely to adopt ICHRAs",
-    "link": "https://hrexecutive.com/15-of-mid-size-employers-are-likely-to-adopt-ichras/",
-    "summary": "The top market for \"cash-for-coverage\" plans may be employers that already offer health benefits, according to a new EBRI survey report. The post 15% of mid-size employers are likely to adopt ICHRAs appeared first on HR Executive .",
+    "id": "news-staying-competitive-in-a-skills-based-world-the-new-rules-fo-1785769827000",
+    "title": "Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI",
+    "link": "https://hrexecutive.com/staying-competitive-in-a-skills-based-world-the-new-rules-for-growth-and-employability-in-the-age-of-ai/",
+    "summary": "Date &#038; Time: Wednesday, September 02, 2026 at 1:00 pm ET Join Melissa Loble, Chief Learning Officer at Instructure, for a candid look at how organizations are building the judgment to grow their people on purpose and employees having a clear path to continue growing as AI rewrites which skills matter, and doing it faster than most workforce strategies can keep up. The post Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization",
+      "strategy"
     ]
   },
   {
-    "id": "news-3-leadership-investments-that-help-small-businesses-grow-1785747600000",
-    "title": "3 leadership investments that help small businesses grow",
-    "link": "https://www.hrdive.com/spons/3-leadership-investments-that-help-small-businesses-grow/826278/",
-    "summary": "As small businesses grow leadership becomes one of their most valuable investments.",
+    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
+    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge says",
+    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
+    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -80,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-24-1785764509000",
-    "title": " 新规落地，个贷定价图谱出炉，24%红线一统江湖，但松动信号已现？ ",
-    "link": "https://www.huxiu.com/article/4880366.html?f=rss",
-    "summary": "本文来自微信公众号： 坚白客 ，作者：濠梁 8月1日，《个人贷款业务明示综合融资成本规定》（下称“个贷明示规定”）正式实施。个人贷款收费彻底透明化时代到来。 从实际效果来看，在封死个贷隐性收费空间之外，个贷明示规定还发挥了一个绝妙的“副作用”——按照规定中顺带一提的附加要求，各大银行近期密集公示了个人贷款利率上限。 不同类型的银行，尽管个贷利率上限差距显著，但年化24%仍然是绝对的天花板。 不过与此同时，也有难以忽视的信号预示着，“一统天下”的24%红线，似乎仍有松动的可能。 01 银行个贷定价图谱出炉 截至目前，6大国有大行、12家全国性股份行，以及绝大部分中小城农商行，均已在官网公示个贷定价上限，利率分布呈现出鲜明的梯度分化特征。 传统国有四大行——工商银行、农业银行、中国银行、建设银行，稳居金字塔顶，利率上限整齐划一，四家银行的个人消费贷款以及个人经营贷款，利率上限均为6%。 而另外两大国有行——邮储银行、交通银行，虽紧随其后，但利率台阶已翻倍抬升，两类贷款的利率上限均达到12%，已经跌入股份行的主流梯度。 12家股份行中，招商、中信、兴业等绝大多数，都将个人消费贷、经营贷的利率上限，统一设定为12%，从而奠定了股份行的主流梯度。 少数股份行则在12%线上下跳动，最低如华夏银行，个人经营贷的利率上限低至8%，最高如平安银行，个人消费贷上限达到18%，个人经营贷上限进一步升至2",
+    "id": "news--1785775414000",
+    "title": " 一百多年历史的“法国烹饪大师”，不仅没被取缔，还越来越有公信力了 ",
+    "link": "https://www.huxiu.com/article/4880386.html?f=rss",
+    "summary": "本文来自微信公众号： 食味艺文志 ，作者：魏水华 中国烹协宣布，即日起，历年“中国烹饪大师”的称号全部作废。 耐人寻味的是，这条新闻评论区里的风向是这样的： 不仅否定了“中国烹饪大师”从诞生以来的合理性，这是连遮羞布都不要了。 所以，当初，为什么要评“中国烹饪大师”？ 在国家最高烹饪水平的认证上，全球普遍存在一条由政府主导、以标准化考核为核心的官方技术轨道。 中国有烹饪大师，德国有Küchenmeister（厨房大师），日本有“现代の名工”（当代卓越技能者），美国有Certified Master Chef（联邦认证名厨）。 这一轨道的现代源头，可以追溯到一百年前法国的MOF（法国最佳工匠）制度。 1913年，法国艺术评论家阿尔贝·勒布尔首次提出建立国家工匠大赛的构想，旨在挽救工业革命冲击下奄奄一息的传统手工业。1924年，第一届MOF大赛在巴黎成功举办，144位工匠获得表彰，并迅速被法国劳动部确立为一项国家级赛事，上升为受法律保护的最高技术文凭。 MOF不仅是一场淘汰率极高、甚至常有空缺的地狱级现场技能考试，更是一张等同于高级工程师或硕士级技术资历的高阶文凭。自1924年创立以来的百年历史里，在全法200多个手工艺行业中，累计仅有约9,000人获得过MOF头衔；而在最受瞩目的餐饮与烹饪领域，仅有约200位主厨成功摘得这顶桂冠，如传奇名厨保罗·博古斯（Paul Bocuse）、乔尔",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
@@ -119,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-samsung-bans-smart-tv-apps-that-share-users-8217-internet-co-1785759041000",
-    "title": "Samsung bans smart TV apps that share users&#8217; internet connections with strangers",
-    "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-    "summary": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+    "id": "news-sequoia-8217-s-shaun-maguire-leads-1b-round-for-nuclear-star-1785777403000",
+    "title": "Sequoia&#8217;s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+    "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+    "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -132,29 +135,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-productivity-claims-are-95-8216-still-to-come-8217-fed-fi-1785758400000",
-    "title": "AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds",
-    "link": "https://hrexecutive.com/ai-productivity-claims-are-95-still-to-come-fed-finds/",
-    "summary": "New Fed research on 490,000 earnings calls finds execs describe AI productivity gains as almost entirely future tense, not yet realized. The post AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds appeared first on HR Executive .",
+    "id": "news-15-of-mid-size-employers-are-likely-to-adopt-ichras-1785759351000",
+    "title": "15% of mid-size employers are likely to adopt ICHRAs",
+    "link": "https://hrexecutive.com/15-of-mid-size-employers-are-likely-to-adopt-ichras/",
+    "summary": "The top market for \"cash-for-coverage\" plans may be employers that already offer health benefits, according to a new EBRI survey report. The post 15% of mid-size employers are likely to adopt ICHRAs appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-why-skills-visibility-matters-before-the-next-workforce-deci-1785747600000",
-    "title": "Why skills visibility matters before the next workforce decision",
-    "link": "https://www.hrdive.com/spons/why-skills-visibility-matters-before-the-next-workforce-decision/826418/",
-    "summary": "Why skills visibility is becoming a workforce planning advantage.",
+    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
+    "title": "Week in review: How does HR use ChatGPT?",
+    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -185,17 +188,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785764436000",
-    "title": " 在外企，十年工龄老员工，已属平常 ",
-    "link": "https://www.huxiu.com/article/4880367.html?f=rss",
-    "summary": "本文来自微信公众号： 外企观CHA ，作者：MK麦客 我们部门上半年办了好几场满十年员工庆祝会。 第一场是老陈，第二场是老王，第三场是隔壁Team的Lisa。 三个人同一部门，不同岗位，但都在这里待满了十年。 HR发了慰问邮件，附上印着公司logo的荣誉证书，大家在会议室吃了蛋糕，回顾了他们过去的一些照片，老板送上感谢的话，大家开玩笑说他们是「十年功臣」。 仪式感很强，气氛也很热烈，但这种仪式已经开始越来越像一场普通的日常会议了。 因为，工龄满十年这件事，在这家外企，其实已经不是什么罕见的事了，它似乎成了一种平常，一件越来越多人不久就能达到的状态。 以前的十年员工，是稀有的 记得以前进外企那会儿，2010年左右，办公室里待满十年的人是极其稀有的。 那时候的外企，跳槽像是一种职场文化。两三年一跳，跳一次涨30%，LinkedIn上的工作履历一条一条往上加，每换一次公司title或者薪资往上走一级。 那种频率和节奏，好似「职场精英」的标准路径。 反过来，如果你在一家外企待了五年以上，猎头打电话过来第一句话就是：「在这家公司这么久了，不想看看外面的机会吗？」，话里话外的暗示是，在一家外企待久了是一种不正常的状态，是缺乏进取心的表现。 老外来中国出差，看到一个员工的tenure超过八年，也会露出一种意外的疑惑表情。在他们的印象是，在欧美职场，loyalty（忠诚）是一种美德，但在当时中国那",
+    "id": "news-ai-4-1785773385000",
+    "title": " AI基建正长出新一轮环保增量，这4个方向值得关注 ",
+    "link": "https://www.huxiu.com/article/4880385.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：环保行业很少把自己看作AI基建的一部分。但算力中心越密集，水处理、节能改造、能源协同和安全退役的新甲方就越多。 过去几年，环保行业谈基建，习惯盯着污水处理厂、垃圾焚烧厂、管网和园区工程；谈AI基建，则更多盯着芯片、服务器、电力和数据中心。 两条线看起来相隔很远。 但当算力设施从建设期走向运行期，连接就出现了：高密度服务器产生的热怎样稳定带走，冷却用水从哪里来，老旧数据中心怎样降耗，绿电和余热怎样组织，设备退役以后如何清除数据、保存残值并合规处置，都要进入预算、合同和日常运营。 2025年，我国智能算力规模达到159万PFLOPS（FP16），累计建成306家国家绿色算力设施。算力继续扩张的同时，国家行动计划已经把低耗水冷却、再生水、余热、绿电协同和废旧设备循环写进同一套绿色发展安排。 政策方向已经清楚，真正需要判断的不是有没有需求，而是四类需求分别由谁采购、怎样验收、能否形成持续收费。 AI基建把环保从项目末端推向运行前端 传统环保工程大多从污染物和处理设施出发，围绕厂、站、网和设备组织投资。AI基建带来的环境需求，起点却是保障服务器持续工作。 在数据中心，水处理、冷源和备电属于动力环境系统。验收不只看排放或设备参数，还要看负载波动、故障切换和维护窗口里能否维持业务可用。环境能力因此不再只位于项目末端，而是嵌入生产系统本",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -225,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-dep-1785751200000",
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "id": "news-base-power-raises-another-1b-to-save-the-grid-using-backyard-1785775617000",
+    "title": "Base Power raises another $1B to save the grid using backyard batteries",
+    "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+    "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
     "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
@@ -238,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-health-claims-may-change-in-second-half-of-year-says-brown-0-1785757550000",
-    "title": "Health claims may change in second half of year, says Brown &#038; Brown",
-    "link": "https://hrexecutive.com/health-claims-may-change-in-second-half-of-year-says-brown-brown/",
-    "summary": "Brown &#038; Brown spent less on claims in the first half of the year, but it's not sure that will continue. The post Health claims may change in second half of year, says Brown &#038; Brown appeared first on HR Executive .",
+    "id": "news-ai-productivity-claims-are-95-8216-still-to-come-8217-fed-fi-1785758400000",
+    "title": "AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds",
+    "link": "https://hrexecutive.com/ai-productivity-claims-are-95-still-to-come-fed-finds/",
+    "summary": "New Fed research on 490,000 earnings calls finds execs describe AI productivity gains as almost entirely future tense, not yet realized. The post AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
@@ -251,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-which-2-major-companies-in-the-food-space-announced-new-cpos-1785515640000",
-    "title": "Which 2 major companies in the food space announced new CPOs in July?",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-july-2026/826660/",
-    "summary": "Meanwhile, Visier netted a former CEO for its lead HR role and a Michigan energy company pulled an HR leader from the railroad industry.",
-    "publishedAt": "2026-07-31",
+    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
+    "title": "Can AI make the workplace more accessible?",
+    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
+    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
+    "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -292,10 +295,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-1785762986000",
-    "title": " 打完减肥针一点都不饿，真的是好事吗？不想越减越虚，这4件事务必重视 ",
-    "link": "https://www.huxiu.com/article/4880364.html?f=rss",
-    "summary": "本文来自微信公众号： 食栗派ChestnutMates ，作者：食栗派 身边悄然瘦下来的人越来越多。别问，问就是仨字：打针了。 “减肥针”更准确地说，GLP-1类药物，做到了很多人靠节食始终无法做到的事。那种明明已经吃饱了、脑子里却还在不停念叨\"再吃点吧\"的声音，终于消停了。 但消失的不只是食欲，还有营养、肌肉、头发、生活质量…… 最近，欧洲肥胖研究学会、欧洲营养师协会联合会等机构发布了一份专家共识，专门讨论使用这类减重药物期间的营养、身体功能和心理健康，并针对怎么吃够营养、保护肌肉功能给出了建议。 1、注意监测 任何快速减重都会导致肌肉量减少。由于服用GLP-1类药物可导致接近减重手术后的减重效果，研究人员发现，与传统的减重药物相比，GLP-1类药物导致肌肉流失的风险更高，尤其在初期[2]。 共识建议，使用减肥针期间注意监测身体成分的变化；尤其是高风险人群，比如老年人、体重下降过快者。 测体的目标是争取让脂肪流失量与去脂体重(主要是肌肉)流失量的比例达到3:1以上。即每减4公斤体重，至少3公斤来自脂肪，肌肉流失控制在1公斤以内。 医院的双能X线体成分分析仪，或者生物电阻抗体成分分析仪，都可以监测；另外，也有一些简易的评估方法，比如 主观力量感受。问问自己：用药以来，是否感觉日常活动比以前更费力？ 握力测试。留意日常动作（拧瓶盖、拧毛巾、提重物）中是否出现以前没有的费力感。有条件可",
+    "id": "news--1785773379000",
+    "title": " 马斯克否认分拆特斯拉中国：一场中美供应链之间的走钢丝 ",
+    "link": "https://www.huxiu.com/article/4880384.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 几天前，《华尔街日报》发出一条劲爆消息：特斯拉内部曾评估过分拆、出售甚至独立中国业务的多个方案。消息一出，迅速引发全球资本市场和产业界关注。 市场开始讨论：如果真的分拆，特斯拉的估值、上海工厂的归属以及中国业务的未来将如何变化？ 随后，马斯克在X上迅速回应：“Absurdly fake news.” 特斯拉方面也否认了这一报道。舆论随即出现反转。 但如果你仔细观察那几个小时里投资人的反应，会发现一个惊人的细节：没有人感到真正的震惊。没有人说“这完全不可能”。相反，整个投资圈的第一反应是“这个消息听起来真的有可能”。为什么？ 因为所有人都心知肚明：马斯克正被卷入一场凶险的地缘政治漩涡——他的商业帝国，正同时面对美国国家安全体系的审视，以及对中国制造能力和供应链体系的深度依赖。 这种“不得不撕裂”的阵痛，正是跨国科技巨头在解耦大潮中的真实缩影。分拆或许最终不会发生，但这个传闻的出现本身，已经暴露了一个科技帝国内部最深的伤口。 悖论交汇点，当“特斯拉”遇上“SpaceX” 为了理解为什么分拆会成为一个“可信”的传闻，我们必须先理清楚马斯克帝国的两个核心支柱的真实冲突。这不是新闻学意义上的冲突，而是美国国家安全体系和商业逻辑的直接碰撞，这背后折射的，是美国国家安全要求与跨国商业效率之间越来越明显的张力。 一边是SpaceX。在大多数人的认知",
     "publishedAt": "2026-08-03",
     "source": "虎嗅",
     "tags": [
@@ -331,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-global-memory-shortage-hits-the-macbook-air-1785706439000",
-    "title": "The global memory shortage hits the MacBook Air",
-    "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-    "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-    "publishedAt": "2026-08-02",
+    "id": "news-congress-8217-s-favorite-ai-tool-chatgpt-1785775255000",
+    "title": "Congress&#8217;s favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "publishedAt": "2026-08-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -344,10 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-data-puts-a-number-on-the-great-ai-regret-1785720645000",
-    "title": "New data puts a number on the great AI regret",
-    "link": "https://hrexecutive.com/new-data-puts-a-number-on-the-great-ai-regret/",
-    "summary": "The great AI regret: Sixty-five percent of workers miss pre-AI work and 38% would remove gen AI entirely. What the data means for HR leaders. The post New data puts a number on the great AI regret appeared first on HR Executive .",
+    "id": "news-health-claims-may-change-in-second-half-of-year-says-brown-0-1785757550000",
+    "title": "Health claims may change in second half of year, says Brown &#038; Brown",
+    "link": "https://hrexecutive.com/health-claims-may-change-in-second-half-of-year-says-brown-brown/",
+    "summary": "Brown &#038; Brown spent less on claims in the first half of the year, but it's not sure that will continue. The post Health claims may change in second half of year, says Brown &#038; Brown appeared first on HR Executive .",
     "publishedAt": "2026-08-03",
     "source": "HR Executive",
     "tags": [
@@ -357,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-florida-employers-can-ding-workers-for-off-duty-medical-mari-1785515640000",
-    "title": "Florida employers can ding workers for off-duty medical marijuana use, state appeals court says",
-    "link": "https://www.hrdive.com/news/florida-employers-off-duty-medical-marijuana-use/826728/",
-    "summary": "Only a portion of states that have legalized medical marijuana also prohibit employers from discriminating against workers who have a valid prescription.",
-    "publishedAt": "2026-07-31",
+    "id": "news-linkedin-offers-the-option-to-report-ai-slop-1785769920000",
+    "title": "LinkedIn offers the option to report AI slop",
+    "link": "https://www.hrdive.com/news/linkedin-offers-the-option-to-report-ai-slop/826800/",
+    "summary": "The platform is testing a new feature that allows posts and comments to be privately flagged as being generated by artificial intelligence.",
+    "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -883,4 +886,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-03T14:29:04.797Z';
+export const dataFetchedAt = '2026-08-03T17:47:15.816Z';

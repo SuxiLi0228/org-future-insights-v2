@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-04-auto",
+    "date": "2026-08-04",
+    "session": "auto",
+    "title": "2026-08-04 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-04-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+      },
+      {
+        "id": "sig-2026-08-04-auto-2",
+        "emoji": "💡",
+        "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+        "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+        "detail": "来源: TechCrunch。Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/"
+      },
+      {
+        "id": "sig-2026-08-04-auto-3",
+        "emoji": "🚨",
+        "title": "Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI",
+        "summary": "Date &#038; Time: Wednesday, September 02, 2026 at 1:00 pm ET Join Melissa Loble, Chief Learning Officer at Instructure, for a candid look at how organizations are building the judgment to grow their people on purpose and employees having a clear path to continue growing as AI rewrites which skills matter, and doing it faster than most workforce strategies can keep up. The post Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Wednesday, September 02, 2026 at 1:00 pm ET Join Melissa Loble, Chief Learning Officer at Instructure, for a candid look at how organizations are building the judgment to grow their people on purpose and employees having a clear path to continue growing as AI rewrites which skills matter, and doing it faster than most workforce strategies can keep up. The post Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization",
+          "strategy"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/staying-competitive-in-a-skills-based-world-the-new-rules-for-growth-and-employability-in-the-age-of-ai/"
+      },
+      {
+        "id": "sig-2026-08-04-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：TokTier: Exact Stateful Tokenization for Agentic LLM Serving...",
+        "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small",
+        "detail": "作者: Zhenyu Zhang, Zhichao Cao。LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of millions of characters. At a 94.1% fleet prompt-cache hit rate, tokenization reaches up to 64% of time to first token. TokTier is a stateful tokenization service with one contract: emitted token IDs are always identical to full reference tokenization of the request text. For a session continuation, it re-t",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2607.29678v1"
+      },
+      {
+        "id": "sig-2026-08-04-auto-5",
+        "emoji": "💼",
+        "title": "Citywire 正在招募 Journalist Citywire Spain",
+        "summary": "岗位类型：业务+AI 复合岗。We are looking for a Madrid-based Journalist to join the team behind Citywire Spain",
+        "detail": "技能要求: 未标注。We are looking for a Madrid-based Journalist to join the team behind Citywire Spain This role is for a journalist who wants to go beyond press releases You will cover the Spanish asset management and wealth management sectors, breaking exclusive news, interviewing key industry decision-makers, and",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Citywire"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Citywire",
+        "link": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-spain-citywire-1135761"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-04-1",
+        "priority": "medium",
+        "action": "关注「The Download: reward hacking explained, 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-04-2",
+        "priority": "low",
+        "action": "关注「WhatsApp says it is is fixing an issue t」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-04-3",
+        "priority": "high",
+        "action": "关注「Staying Competitive in a Skills-Based Wo」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-04-4",
+        "priority": "medium",
+        "action": "关注「研究速递：TokTier: Exact Stateful Tokenizatio」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-04-5",
+        "priority": "medium",
+        "action": "关注「Citywire 正在招募 Journalist Citywire Spain」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Citywire"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-04 生成，聚合了 30 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-08-04 00:00 - 2026-08-04 23:59"
+  },
+  {
     "id": "report-2026-08-03-auto",
     "date": "2026-08-03",
     "session": "auto",
