@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-expands-ai-remix-and-covers-project-with-merlin-part-1785858606000",
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "id": "news-waymo-opens-up-robotaxi-service-in-dallas-to-everyone-1785864661000",
+    "title": "Waymo opens up robotaxi service in Dallas to everyone",
+    "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+    "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -81,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785859236000",
-    "title": " 最近，为何互联网大厂都开始做同一件事？ ",
-    "link": "https://www.huxiu.com/article/4880659.html?f=rss",
-    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约4300字·预计阅读5分钟 中国互联网大厂不约而同地在做同一件事。 7月7日，京东零售宣布取消C4、C5两级管理职级，相关人员统一挂靠C3。管理层级直接砍掉两层。7月8日，腾讯在游戏国内发行线试点\"负责人制\"，核心动作是取消L1/L2管理职级，总监、组长不再叫总监、组长，改叫\"负责人\"和\"成员\"。同日，字节跳动启动上半年绩效评估，CEO梁汝波时隔四年更新十条领导力原则，把\"杜绝空转\"\"拒绝躺平式管理\"写进晋升和年度考核，管理者需要证明自己不是\"管了什么\"，是\"做了什么\"。往前回溯，百度4月砍掉了全部字母职级标签，T、P、E、M、Band这些符号一夜之间消失了，统一改成5到12级的数字序列。 腾讯。京东。字节。百度。四家公司，四个不同的行业位置，在同一时刻，向同一个群体同时宣战。那个群体叫中层管理者。 这不是巧合。当一个信号在不同组织里独立出现，它就不是管理决策了。它是结构性力量在推动。 今天聊聊这个结构性力量到底是什么。以及，砍掉中层，真的能解决大厂真正的问题吗？ 一、中层的价值到底是什么？以及为什么AI让你不需要它了？ 先做一个概念澄清。中层管理者在互联网公司的核心价值是什么？ 有人说是\"管人\"，也就是定目标、盯进度、打分、淘汰。没错。有人说是\"对齐\"，把上面的战略翻译成下面的任务，把下面的执行汇总成上面的汇报。没错。有人说是",
+    "id": "news-openai-1785860554000",
+    "title": " OpenAI，在制造“数学基础危机”吗 ",
+    "link": "https://www.huxiu.com/article/4880664.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究，原文标题：《OpenAI，在制造“数学基础危机”吗 | 笔记》 OpenAI的一个内部模型Astra，在数学及理论计算机科学领域，最近解出了10个悬疑多年的开放难题，或者取得了实质性的进展。这些问题涵盖了高维几何、编码理论、算术电路复杂度、群论、算子代数、量子复杂度、格密码学和极值组合学等领域。其中有些问题在整个数学领域也具有广泛的意义。 求解这些问题，至少需要10位数学家，在各自领域可能会耗费大量的时间。但Astra全部解答它们，仅用了约2000美元的token。 AI在求解数学难题方面的能力，已经超越了博士水平，并且正在加速提升。数学家陶哲轩把AI对于数学的冲击，比作一百多年前所发生的数学基础危机（crisis in foundations)。 这一次，OpenAI开始挑战数学界和整个科学界长久以来的基本价值观：科学的成果应该归于人类，应该由人类数学家和科学家对证明的正确或者谬误负责。 OpenAI反对将AI生成的证明，归于人类作者。“我们认为，署名应真实反映结果的产生方式：将完全由人工智能系统生成的证明归于人类作者，既歪曲了系统的贡献，也歪曲了真正人类智力劳动的本质。我们协助准备了论文，并在Lean中形式化了证明，我们对它们的正确性负责，而数学论证本身则由我们的系统生成。” 这里面涉及到科学研究中一个根本问题，由谁来对正确或者",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-texas-halts-new-data-centers-as-governor-calls-for-audits-1785858155000",
-    "title": "Texas halts new data centers as governor calls for audits",
-    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "summary": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
+    "id": "news-take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-1785864054000",
+    "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+    "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -187,6 +187,20 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news--1785860211000",
+    "title": " 数字流浪的未来：你住在网上，但却无家可归 ",
+    "link": "https://www.huxiu.com/article/4880663.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 硅谷这两年流行一句话：\"你还有两年时间去做个播客，否则就逃不出永久底层了。\" 这句话不是段子，我们在之前的文章中多次提到过。这是AI创业者谢里丹·克莱伯恩（Sheridan Clayborne）在接受《华尔街日报》采访时说的，他的原话是：\"这是积累代际财富的最后机会。你必须现在赚钱，否则就会沦为永久的底层阶级。\" 《纽约客》也跟进报道了在硅谷弥漫的这种焦虑。在顶级风投的会议室和黑客之家的厨房里，一种共识正在凝固：AGI会让金钱本身失去意义，在那之前，你必须抢到最后一张船票。吊桥正在升起。 硅谷之外的普罗大众不一定知道这句话，但大家感受着同一种急迫，也在有意无意之间采取了同样的行动冲动。赶紧上网，赶紧做内容，赶紧把自己变成一个\"有影响力的人\"。在算法把你的位置锁死之前，先占住一个坑。 现在看来，更多的人搬到了网上，却不能占据一席之地，也许不至于沦为永久底层，但却沦为事实上的数字流浪汉。AI进一步加剧了这种从中逃逸的难度，时间窗口还有，但机会只属于少数人。 最后的狂欢：在通往新世界的吊桥升起之前 2亿主播，1亿条狗 网上流传一个段子：\"中国有2亿自媒体，只有1亿条狗，自媒体比狗还多。\"段子的出处已经不可考了，但它被反复转发，是因为它抓到了一个被体面话语盖住的事实，在这个国家，想当主角的账号是城里狗的三倍。 中国演出行业协会20",
+    "publishedAt": "2026-08-04",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
     "id": "news-4200-1785842815000",
     "title": "业绩爆破与地缘悬疑之下，药明康德市值重返4200亿丨看财报",
     "link": "https://www.tmtpost.com/8091389.html",
@@ -213,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-walmart-completes-its-acquisition-of-tv-advertising-company--1785857902000",
-    "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-    "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-    "summary": "The acquisition, which was first announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+    "id": "news-tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-1785863148000",
+    "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+    "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+    "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -255,7 +269,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ip-1785836333000",
     "title": "从追番到下单，国风IP正在重塑硬核数码消费",
     "link": "https://36kr.com/p/3925017067862409?f=rss",
-    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
+    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，��类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -276,6 +290,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news--1785859236000",
+    "title": " 最近，为何互联网大厂都开始做同一件事？ ",
+    "link": "https://www.huxiu.com/article/4880659.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约4300字·预计阅读5分钟 中国互联网大厂不约而同地在做同一件事。 7月7日，京东零售宣布取消C4、C5两级管理职级，相关人员统一挂靠C3。管理层级直接砍掉两层。7月8日，腾讯在游戏国内发行线试点\"负责人制\"，核心动作是取消L1/L2管理职级，总监、组长不再叫总监、组长，改叫\"负责人\"和\"成员\"。同日，字节跳动启动上半年绩效评估，CEO梁汝波时隔四年更新十条领导力原则，把\"杜绝空转\"\"拒绝躺平式管理\"写进晋升和年度考核，管理者需要证明自己不是\"管了什么\"，是\"做了什么\"。往前回溯，百度4月砍掉了全部字母职级标签，T、P、E、M、Band这些符号一夜之间消失了，统一改成5到12级的数字序列。 腾讯。京东。字节。百度。四家公司，四个不同的行业位置，在同一时刻，向同一个群体同时宣战。那个群体叫中层管理者。 这不是巧合。当一个信号在不同组织里独立出现，它就不是管理决策了。它是结构性力量在推动。 今天聊聊这个结构性力量到底是什么。以及，砍掉中层，真的能解决大厂真正的问题吗？ 一、中层的价值到底是什么？以及为什么AI让你不需要它了？ 先做一个概念澄清。中层管理者在互联网公司的核心价值是什么？ 有人说是\"管人\"，也就是定目标、盯进度、打分、淘汰。没错。有人说是\"对齐\"，把上面的战略翻译成下面的任务，把下面的执行汇总成上面的汇报。没错。有人说是",
+    "publishedAt": "2026-08-04",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
@@ -305,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesl-1785856806000",
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "id": "news-hackers-steal-over-130m-by-exploiting-bug-in-offline-hardwar-1785860879000",
+    "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+    "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+    "summary": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -366,32 +394,6 @@ export const generatedNews: NewsItem[] = [
     "source": "量子位",
     "tags": [
       "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785838917000",
-    "title": "瑞幸的规模红利结束了？",
-    "link": "https://www.tmtpost.com/8089763.html",
-    "summary": "瑞幸的故事，放在更大的背景里看，是中国消费行业正在经历的一次集体转向。",
-    "publishedAt": "2026-08-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
-    "title": "The Download: Montana&#8217;s new experimental drug rules",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
-    "publishedAt": "2026-07-31",
-    "source": "MIT Technology Review",
-    "tags": [
       "ai",
       "technology"
     ]
@@ -771,7 +773,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMjAuMTY5LjkzLjE3Nw== when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -788,7 +790,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMjAuMTY5LjkzLjE3Nw== when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -832,4 +834,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T16:17:47.014Z';
+export const dataFetchedAt = '2026-08-04T19:25:08.365Z';
