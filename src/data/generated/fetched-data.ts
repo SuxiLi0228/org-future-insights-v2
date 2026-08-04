@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
-    "title": "Trump’s AI protectionism has come for robotics",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
-    "publishedAt": "2026-08-03",
+    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
+    "title": "The Download: US robot restrictions, and ICE&#8217;s DNA grab",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+    "publishedAt": "2026-08-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industr-1785799190000",
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-    "publishedAt": "2026-08-03",
+    "id": "news-spotify-now-has-over-300m-subscribers-1785851578000",
+    "title": "Spotify now has over 300M subscribers",
+    "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+    "summary": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+    "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,18 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-staying-competitive-in-a-skills-based-world-the-new-rules-fo-1785769827000",
-    "title": "Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI",
-    "link": "https://hrexecutive.com/staying-competitive-in-a-skills-based-world-the-new-rules-for-growth-and-employability-in-the-age-of-ai/",
-    "summary": "Date &#038; Time: Wednesday, September 02, 2026 at 1:00 pm ET Join Melissa Loble, Chief Learning Officer at Instructure, for a candid look at how organizations are building the judgment to grow their people on purpose and employees having a clear path to continue growing as AI rewrites which skills matter, and doing it faster than most workforce strategies can keep up. The post Staying Competitive in a Skills-Based World: The New Rules for Growth and Employability in the Age of AI appeared first on HR Executive .",
-    "publishedAt": "2026-08-03",
+    "id": "news-google-8217-s-answer-to-ai-uncertainty-15-million-real-conve-1785846602000",
+    "title": "Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped",
+    "link": "https://hrexecutive.com/googles-answer-to-ai-uncertainty-15-million-real-conversations-mapped-2/",
+    "summary": "Google's new ATLAS report maps 15 million AI interactions across jobs and tasks, revealing what HR leaders need to know about AI adoption risks. The post Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped appeared first on HR Executive .",
+    "publishedAt": "2026-08-04",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -70,6 +68,112 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-claude-science-mit-30-skills-1785849267000",
+    "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+    "link": "https://www.qbitai.com/2026/08/466386.html",
+    "summary": "北京大学&#038;元空AI Agent联合实验室",
+    "publishedAt": "2026-08-04",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-38-1785851652000",
+    "title": " 新公司开在村委会一楼，38岁的王思聪，还不想接班吗？ ",
+    "link": "https://www.huxiu.com/article/4880644.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 谁能想到“国民老公”王思聪曾经投资的公司，会和“限制高消费”这几个字连在一起。 提起王思聪，年轻人的第一反应，可能是那个为IG战队砸钱、把电竞世界冠军奖杯带回中国的“王校长”；年长一些的朋友，想到的更多是他身后那位一手缔造商业帝国的父亲——王健林。 图为万达产投董事变动情况图源：网络 据企查查披露的信息，7月27日，万达产业投资有限公司（简称“万达产投”）更新工商信息，王思聪卸任公司董事，董事张春远同步卸任，陈洪涛新晋出任董事。 凤凰网《风暴眼》梳理发现，这已经是王思聪近年来第三次从万达核心主体卸任董事，而在更早之前，他的董事身份还有过一段更曲折的来回进出，直到这次万达产投的卸任，才算彻底清空了万达体系内所有的“董事”头衔。 董事席位清空背后，38岁的王思聪，到底是不想接班，还是已经接不了班？脱离万达平台独自闯荡十余年，他一手铺展的创业路又走出了怎样一番景象？ 01 父子俩在万达的18年 接班万达的起点是一场父子间的期许。 据报道，王思聪在2009年从伦敦大学学院的哲学系毕业后，和父亲有过一次长谈。 王健林让他毕业之后就进万达，说“万达的江山将来终究是你的”，同年8月，王思聪就进了万达集团董事会。 但没过几年，这份笃定就开始松动。 图源：网络 2012年，在一档访谈节目上，主持人直接问王健林是不是准备把万达交给儿子，他这次没把话说死",
+    "publishedAt": "2026-08-04",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785847103000",
+    "title": "收购标的对赌期刚过就“变脸”，昇辉科技收购案牵出西子洁能并购往事 | 并购一线",
+    "link": "https://www.tmtpost.com/8091482.html",
+    "summary": "许建明5年前的弃权票应验，赫普能源的业绩暴雷，把昇辉科技和西子洁能一同拖入泥潭。",
+    "publishedAt": "2026-08-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "publishedAt": "2026-08-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-india-moves-to-give-its-instant-payments-network-a-business--1785850277000",
+    "title": "India moves to give its instant payments network a business model",
+    "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+    "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+    "publishedAt": "2026-08-04",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-states-put-human-guardrails-around-ai-in-healthcare-1785845733000",
+    "title": "States put human guardrails around AI in healthcare",
+    "link": "https://hrexecutive.com/states-put-human-guardrails-around-ai-in-healthcare/",
+    "summary": "New laws restrict automated insurance decisions and AI-provided therapy, with several major requirements taking effect in 2027. The post States put human guardrails around AI in healthcare appeared first on HR Executive .",
+    "publishedAt": "2026-08-04",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-after-leave-return-to-work-approaches-should-be-early-coordi-1785790380000",
+    "title": "After leave, return-to-work approaches should be ‘early, coordinated and sustained,’ DOL official says",
+    "link": "https://www.hrdive.com/news/after-leave-return-to-work-approaches-should-be-early-coordinated-and-su/826866/",
+    "summary": "The likelihood of an employee returning to work after injury drops off significantly as the weeks go on, Julie Hocker said.",
+    "publishedAt": "2026-08-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ip-1785836333000",
+    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
+    "link": "https://36kr.com/p/3925017067862409?f=rss",
+    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
+    "publishedAt": "2026-08-04",
+    "source": "36氪",
+    "tags": [
+      "china",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
     "id": "news-24-openai-ai-1785835366000",
     "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
     "link": "https://www.qbitai.com/2026/08/465792.html",
@@ -83,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785839011000",
-    "title": " 白酒上半年出口额“腰斩”，回流酒套利空间压缩所致？ ",
-    "link": "https://www.huxiu.com/article/4880585.html?f=rss",
-    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 根据中国海关发布的2026上半年白酒出口数据，今年上半年白酒出口全球的量额分别录得759万升、2.83亿美元（约合人民币19.09亿元），同比分别下滑8.67%、46.6%。整体出口量小幅下滑，而出口额则呈现近乎“腰斩”式的断崖下跌，使得出口均价同样大幅下滑41.53%至37.22美元/升。 这一数据的背后，折射出以茅台为代表的高端白酒出口自2026年开始的大幅收缩。一方面，国内需求的急剧萎缩降低了出口回流酒的市场空间；另一方面，国际市场整体白酒消费仍处于培育最初期，远不足以弥补回流酒收缩带来的规模缺口。从茅台股份公司发布的一季报也能清晰看到这一趋势——其海外营收在今年1-3月同比下滑86.41%，已从11.19亿元骤降至1.52亿元。 01 主要目的地市场全面收缩，高端市场尤为惨烈 从目的地结构来看，2026上半年白酒出口呈现“全线收缩”的态势。 中国香港作为白酒出口的第一大目的地，上半年出口量从280.31万升降至217.41万升，同比下滑22.43%；出口额从2.20亿美元骤降至1.17亿美元，同比下滑46.89%。香港作为白酒转口贸易的核心枢纽，其数据的大幅下滑不仅反映了本地需求的萎缩，更折射出经香港中转至其他市场的白酒流量正在急剧减少。 中国澳门同样未能幸免。上半年出口量从43.65万升降至40.34万升，下滑7.59%；出",
+    "id": "news--1785851344000",
+    "title": " 明星别轻易哭穷 ",
+    "link": "https://www.huxiu.com/article/4880642.html?f=rss",
+    "summary": "本文来自微信公众号： 文娱先声 ，作者：先声编辑部 这几天，“糊咖”罗正成了娱乐圈最意外的流量。 不是因为新剧爆了，也不是因为恋情曝光，而是因为一句”出道十年，银行卡里只剩4800元”。但从一开始全网心疼，到后来网友开始算账、扒收入，质疑是不是在卖惨，这场舆论反转，不过短短几天。 有人说他是真惨，也有人说他是在立人设。但如果把视角放大一点，会发现罗正身上的争议，其实折射出的是娱乐圈另一种变化：粉丝依然慕富，但也开始心疼糊咖；大众依然愿意共情，但对“卖惨”的容忍度却越来越低。 复盘一下，罗正这次翻红，几乎踩中了所有互联网最容易传播的情绪点。 “出道十年，存款4800元。” “背负百万债务。” “为了解约还债，账户资产被冻结。” 对于普通人来说，这样的故事天然具有冲击力。毕竟，在很多人的印象里，明星就意味着高收入、豪宅豪车、光鲜亮丽。一个演了十年戏的演员，最后银行卡里只剩几千块，很容易打破大众对明星行业的固有认知。 于是，第一波舆论几乎清一色都是心疼。不少网友感慨：“第一次觉得明星比我还穷。”“原来娱乐圈也有打工人。” 随着事件持续发酵，越来越多人开始了解罗正这些年的经历。和前公司长期陷入合同纠纷，资源几乎停摆；官司持续多年，个人账户被冻结；影视作品虽然不少，但大多是成本不高的网剧，工作机会断断续续。 这些信息，让很多人觉得，4800元并不是一个故意制造的话题，而是真实困境留下的结果。",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -96,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785838943000",
-    "title": "京运通：刚和乌海国资打完官司，难道又要和乐山国资起冲突？",
-    "link": "https://www.tmtpost.com/8089847.html",
-    "summary": "乐山后悔引入京运通吗？",
+    "id": "news-4200-1785842815000",
+    "title": "业绩爆破与地缘悬疑之下，药明康德市值重返4200亿丨看财报",
+    "link": "https://www.tmtpost.com/8091389.html",
+    "summary": "A股股价直线封板，总市值重回4200亿元关口，港股单日大涨11.17%，摩根大通、里昂等多家外资机构同步上调目标价。",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -122,24 +226,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snap-ceo-sidesteps-specs-preorder-questions-on-q2-earnings-c-1785795058000",
-    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-    "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-    "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
-    "publishedAt": "2026-08-03",
+    "id": "news-is-the-future-of-data-centers-portable-runware-builds-a-pod--1785848400000",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-15-of-mid-size-employers-are-likely-to-adopt-ichras-1785759351000",
-    "title": "15% of mid-size employers are likely to adopt ICHRAs",
-    "link": "https://hrexecutive.com/15-of-mid-size-employers-are-likely-to-adopt-ichras/",
-    "summary": "The top market for \"cash-for-coverage\" plans may be employers that already offer health benefits, according to a new EBRI survey report. The post 15% of mid-size employers are likely to adopt ICHRAs appeared first on HR Executive .",
-    "publishedAt": "2026-08-03",
+    "id": "news-bmw-to-shed-8-000-roles-following-volkswagen-and-mercedes-be-1785844846000",
+    "title": "BMW to shed 8,000 roles, following Volkswagen and Mercedes-Benz cuts",
+    "link": "https://hrexecutive.com/bmw-to-shed-8000-roles-following-volkswagen-and-mercedes-benz-cuts/",
+    "summary": "BMW will cut 8,000 jobs through voluntary redundancy, joining Volkswagen and Mercedes-Benz as Germany's auto sector retrenches. The post BMW to shed 8,000 roles, following Volkswagen and Mercedes-Benz cuts appeared first on HR Executive .",
+    "publishedAt": "2026-08-04",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -161,10 +266,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ip-1785836333000",
-    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
-    "link": "https://36kr.com/p/3925017067862409?f=rss",
-    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
+    "id": "news-270-2-b-1785832319000",
+    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+    "link": "https://36kr.com/p/3924953058605444?f=rss",
+    "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 &nbsp; 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮��续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -188,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785838881000",
-    "title": " 半蹲风波之后，我悟了这份电影舆情指南 ",
-    "link": "https://www.huxiu.com/article/4880583.html?f=rss",
-    "summary": "本文来自微信公众号： 四味毒叔 ，作者：四味小小编，编辑：晶晶 任何时候，代表“大多数人”的立场总能占据制高点。 普通观众就是“大多数人”。 这个群体才是舆情冲击波的右位，也意味着这个站位无惧任何解读与“流派”。 本文图片来自网络 《奥德赛》打死都没想到，自己在老家顺风顺水，到了中国搞首映礼时，因为主持人一个“半蹲递话筒”被一群网民发言抵制。 这几天关于“蹲”和“跪”的讨论也甚嚣尘上，声讨者言之凿凿，看图说话，从主持人卑躬屈膝聊到庚子之乱，大有主题升华的意味。 诺兰估计也是懵的： 我已是个用黑人演美人的导演，深谙平等之道，这电影摆明了要冲奥斯卡，怎么到了这里我成“洋大人”了？ 宣发团队更是恼火，虽然也有人客观地阐述主持人采访时的意图，但他们也知道《奥德赛》已经引来了他们最不想惹的群体： 民粹流。 民粹流在影视界搅动的能量巨大，因势利导能让一部电影赚得盆满钵满。放任自流能让一部电影无声撤档。 《奥德赛》不至于撤档，只是原本内地上映就距北美晚了近一个月，首映礼偏偏又闹出“体面”风波，多少为这部影片带来了负面印象，虽然印象本身不是主创团队造出来的。 只能说人是环境的产物，电影或其他文化产品是环境的产物。 舆情也是环境的产物。 至于环境如何，近五年来叵测的舆情大概能让旁观者一目了然。 01 舆情可控，全凭质量撑台面 今年上半年，遭到全网抵制的《监狱来的妈妈》为公众展现了一次民意汹汹的负面案",
+    "id": "news--1785851113000",
+    "title": " 阿维塔被曝“拉踩极氪”，车企暗斗再升级？ ",
+    "link": "https://www.huxiu.com/article/4880640.html?f=rss",
+    "summary": "本文来自微信公众号： 厚雪商业 ，作者：王欣 近日，一张有关阿维塔与极氪的截图，让车企之间暗地里的舆论争斗，被摆在了台面上。 7月27日，有网友曝出在一个名为“小塔创作者联盟”的社群中，有运营人员围绕“极氪跨境锁车”事件，整理出了引导创作者内容创作的话题方向，还建议创作者借机对比阿维塔车型的优势。 这一相当于官方带头拉踩其他竞争品牌的截图一经流出，舆论一片哗然，曾经一直活在企业高管抱怨中的“友商派水军拉踩”行为，这一次算是有了“铁证”。 阿维塔运营人员后续通过寻找博主沟通的方式，澄清是第三方供应商将热点素材直接分享至社群，未经官方审核，属于“乌龙事件”；阿维塔方面也用官方账号“塔塔小助理@阿维塔”，在群内补充了通知，明确要求作者严禁转发、讨论、拉踩调侃友商相关负面素材，但也没有平息舆论。 极氪的法务部随后也用“正面硬刚”的态度回应，大致意思就是：感谢用户的真实意见和批评，但对恶意编造、篡改事实和有组织误导公众的行为，将依法维护合法权益。 （图1图源极氪官方微博） 这场风波，让正在开启第二次上市冲刺的阿维塔再陷争议。这次“乌龙事件”，无论是不是因为第三方供应商的过失，其造成的影响，也需要阿维塔自己承担。 而更需要行业思考的是，在愈发激烈的淘汰赛之下，真正能打动消费者的宣传方式究竟是什么？ 官方下场拉踩？阿维塔陷入争议 整体上，阿维塔如今身陷质疑实则并不算冤。从事件的导火索，到后续的补",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -201,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785838917000",
-    "title": "瑞幸的规模红利结束了？",
-    "link": "https://www.tmtpost.com/8089763.html",
-    "summary": "瑞幸的故事，放在更大的背景里看，是中国消费行业正在经历的一次集体转向。",
+    "id": "news--1785838943000",
+    "title": "京运通：刚和乌海国资打完官司，难道又要和乐山国资起冲突？",
+    "link": "https://www.tmtpost.com/8089847.html",
+    "summary": "乐山后悔引入京运通吗？",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -227,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aws-is-helping-vibe-coding-startup-superblocks-and-the-impli-1785787200000",
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-    "publishedAt": "2026-08-03",
+    "id": "news-eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to--1785844800000",
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -240,16 +345,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-productivity-claims-are-95-8216-still-to-come-8217-fed-fi-1785758400000",
-    "title": "AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds",
-    "link": "https://hrexecutive.com/ai-productivity-claims-are-95-still-to-come-fed-finds/",
-    "summary": "New Fed research on 490,000 earnings calls finds execs describe AI productivity gains as almost entirely future tense, not yet realized. The post AI productivity claims are 95% &#8216;still to come&#8217;, Fed finds appeared first on HR Executive .",
-    "publishedAt": "2026-08-03",
+    "id": "news-why-the-frictionless-workplace-is-exhausting-employees-1785843917000",
+    "title": "Why the frictionless workplace is exhausting employees",
+    "link": "https://hrexecutive.com/why-the-frictionless-workplace-is-exhausting-employees/",
+    "summary": "Many workers do not experience change as a single event. They experience it as a continuous series of interruptions. The post Why the frictionless workplace is exhausting employees appeared first on HR Executive .",
+    "publishedAt": "2026-08-04",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -257,112 +361,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Week in review: How does HR use ChatGPT?",
     "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
     "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
-    "publishedAt": "2026-08-03",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-270-2-b-1785832319000",
-    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-    "link": "https://36kr.com/p/3924953058605444?f=rss",
-    "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 &nbsp; 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限",
-    "publishedAt": "2026-08-04",
-    "source": "36氪",
-    "tags": [
-      "china",
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-openai-1785834837000",
-    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-    "link": "https://www.qbitai.com/2026/08/466032.html",
-    "summary": "OpenAI+田园牧歌，画风属实太违和",
-    "publishedAt": "2026-08-04",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785838743000",
-    "title": " 一线业务员开始靠“摆拍”完成考核，这个市场到底怎么了？ ",
-    "link": "https://www.huxiu.com/article/4880582.html?f=rss",
-    "summary": "本文来自微信公众号： 新经销 ，作者：殷传家 “又来摆拍啊？”店老板笑着对业务员说。 “哎，对，不这样完不成任务啊。”业务员有些尴尬地回了一句。 晚上七点多，一家社区超市里，一个业务员正把车上的饮料搬进来。他熟练地把产品摆满冰箱，拉排面、调角度、补价签，然后掏出手机拍了几张照片。 拍完后，他对老板说：“我拍完就给你恢复，不耽误你卖货。”这样的场景，就发生在笔者居住的小区楼下。 老板点点头，显然早已见怪不怪。 走进一线市场，你会发现这样的场景并不少见。有些业务员带着产品进店、摆货、拍照，随后又恢复原状。 他们摆的都是自家产品，不是为了抹黑竞品，而是为了让系统里的照片过关。所谓摆拍，就是通过临时陈列制造一份符合考核要求的市场结果。 从结果上看，这与数据造假没有本质区别。 但问题在于——你不摆拍，排名落后的就是你，奖金受影响的也是你。 当越来越多的一线业务员开始在市场“做假动作”时，我们更应该问一句： 现在的市场，到底怎么了？ 摆拍，早已不是秘密 如果你在快消行业跑过一线，就会知道，摆拍并不是什么新鲜事。 美化型摆拍：为了提高冰箱纯净度，就把自家产品拉到每层最前排，拍照后再恢复原状。 任务型摆拍：为了完成堆箱指标，有业务员从经销商仓库临时拉货，在门店门口或角落搭起堆头，拍完再撤。 虚构型摆拍：同一家门店，也可以通过更换货架、冰箱和拍摄角度，被分别拍成多家终端；有些所谓的新开发网点，不过是",
-    "publishedAt": "2026-08-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-adc-1785838734000",
-    "title": "突陷商业贿赂“举报门”，千亿ADC龙头紧急否认",
-    "link": "https://www.tmtpost.com/8089768.html",
-    "summary": "让子弹飞一会儿。",
-    "publishedAt": "2026-08-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
-    "title": "The Download: Montana&#8217;s new experimental drug rules",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
-    "publishedAt": "2026-07-31",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-who-8217-s-legally-to-blame-for-anthropic-and-openai-8217-s--1785786335000",
-    "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
-    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
-    "publishedAt": "2026-08-03",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-health-claims-may-change-in-second-half-of-year-says-brown-0-1785757550000",
-    "title": "Health claims may change in second half of year, says Brown &#038; Brown",
-    "link": "https://hrexecutive.com/health-claims-may-change-in-second-half-of-year-says-brown-brown/",
-    "summary": "Brown &#038; Brown spent less on claims in the first half of the year, but it's not sure that will continue. The post Health claims may change in second half of year, says Brown &#038; Brown appeared first on HR Executive .",
-    "publishedAt": "2026-08-03",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
-    "title": "Can AI make the workplace more accessible?",
-    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
-    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -387,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hy-asr-3-0-preview-1785833901000",
-    "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-    "link": "https://www.qbitai.com/2026/08/465973.html",
-    "summary": "元宝已接入",
+    "id": "news-openai-1785834837000",
+    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+    "link": "https://www.qbitai.com/2026/08/466032.html",
+    "summary": "OpenAI+田园牧歌，画风属实太违和",
     "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
@@ -774,7 +772,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RNTIuMTkwLjE0MC4xMzM= when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMjAuNjQuMTczLjEzMA== when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -791,7 +789,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RNTIuMTkwLjE0MC4xMzM= when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMjAuNjQuMTczLjEzMA== when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -849,46 +847,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-spain-citywire-1135761",
     "postedAt": "2026-07-31",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135735",
-    "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
-    "company": "Magic Compass Limited",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Employment Type: Full-time Contractor, Remote Working Hours: 9:00 AM â 6:00 PM Â Local Time About the Role We are looking for a proactiveÂ GenAI Engineer / AI"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Agent",
-      "Spark",
-      "OpenAI"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
-    "postedAt": "2026-07-31",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136005",
-    "title": "Field Maintenance Technician CTC_LIS",
-    "company": "Cubic Defence Australia &amp; NZ",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Our teams help create and sustain technology soluti"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Townsville, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-field-maintenance-technician-ctc-lis-cubic-defence-australia-amp-nz-1136005",
-    "postedAt": "2026-07-31",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T10:33:18.353Z';
+export const dataFetchedAt = '2026-08-04T14:00:21.301Z';
