@@ -42,10 +42,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
-    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
-    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
-    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
+    "id": "news-after-leave-return-to-work-approaches-should-be-early-coordi-1785790380000",
+    "title": "After leave, return-to-work approaches should be ‘early, coordinated and sustained,’ DOL official says",
+    "link": "https://www.hrdive.com/news/after-leave-return-to-work-approaches-should-be-early-coordinated-and-su/826866/",
+    "summary": "The likelihood of an employee returning to work after injury drops off significantly as the weeks go on, Julie Hocker said.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -56,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1-deepseek-iphone-1785802684000",
-    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-    "link": "https://36kr.com/p/3924467692927369?f=rss",
-    "summary": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪卸任万达产业投资公司董事 TOP3大新闻 宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英 据天眼查显示，7月31日，杭州天杞优品食品有限公司成立，注册资本为300万元，经营范围包含互联网销售、食品进出口、食品销售等。该公司由浙江三捷投资管理有限公司、百瑞源枸杞股份有限公司共同持股。股权穿透显示，杜建英为该公司实际控制人，宗继昌任公司董事长、经理、法定代表人。 2025年7月，宗继昌与宗婕莉、宗继盛三人起诉宗馥莉，三位原告被律师确认为宗馥莉的“同父异母兄弟姐妹”，寻求阻止宗馥莉处置汇丰银行账户资产，并追讨其父宗庆后生前承诺的21亿美元信托权益。（每日经济新闻、金融界） 美国制裁洽洽瓜子、思念水饺等中国企业 美国国土安全部牵头的相关工作组更新了对中国企业的进口限制清单，将在美国当地时间8月3日生效。包括洽洽食品、思念食品、七匹狼等在内的多家中国企业纳入限制范围，对其生产的相关产品进入美国市场实施进口限制。这意味着，曾经摆上美国消费者餐桌的瓜子、饺子、汤圆等中国食品，以及进入全球市场多年的中国服装品牌，都",
+    "id": "news-3-1785812705000",
+    "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+    "link": "https://36kr.com/p/3924634192673153?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。 随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础能力。 此前，国内空间目标监测、轨道预警等任务主要由国家级科研与工程体系承担。但随着商业航天进入规模化发展阶段，大量商业卫星进入轨道运行，卫星运营方对于碰撞预警、轨道安全管理等服务的需求不断增加，市场亟需商业化空间态势感知解决方案。 清博空天成立于2025年8月，是一家专注于太空安全领域的科技服务公司，主要面向卫星运营方、星座建设方等客户，为在轨卫星提供空间态势感知、空间碎片监测以及碰撞预警服务。 空间态势感知解决的是“看清太空、预测风险”的问题，它可以类比为地面交通中的地图导航系统，高德地图关注的是城市道路中的车辆流动，而SSA关注的是近地轨道中的“星流”；天网系统通过海量数据识别风险目标，而SSA则需要在轨道环境中预测卫星之间可能发生的碰撞风险。 ",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -70,11 +70,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4k-1785758372000",
-    "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-    "link": "https://www.qbitai.com/2026/08/465673.html",
-    "summary": "商汤预览了SenseNova U1.5 Lite",
-    "publishedAt": "2026-08-03",
+    "id": "news-x-1785815198000",
+    "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+    "link": "https://www.qbitai.com/2026/08/465767.html",
+    "summary": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。",
+    "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
       "china",
@@ -83,24 +83,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1785807301000",
-    "title": " 用《狂飙》看懂AI权力之争，苹果AI入华，基模与产品谁更重要？ ",
-    "link": "https://www.huxiu.com/article/4880221.html?f=rss",
-    "summary": "AI体验不等于模型能力，就像强盛集团不能只有高启盛。苹果AI进中国换了国产模型，到底是变强了还是变弱了？",
+    "id": "news--1785823814000",
+    "title": " 今夏最恐怖的爱情故事，是“老实人”与“伪人”谈恋爱 ",
+    "link": "https://www.huxiu.com/article/4880476.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，作者：口口，编辑：陆一鸣 当观众已经被类型恐怖片吓了二十年，《痴迷》却呈现另一个惊悚故事：让人害怕的，未必是鬼怪，也可以是一个看起来再普通不过的无色无味剧毒的老实人，以及他的“伪人”完美女友。 上映10天后，《痴迷》以累计超过1亿元的票房拿下猫眼榜单“进口爱情片”赛道的内地票房冠军。 这还只是《痴迷》风靡全球的一个缩影。自5月15日在北美上映后，《痴迷》已在全球狂揽4.93亿美元的票房。作为一部制作成本仅有75万美元的小成本电影，它最初并没有被市场寄予太高期待，但凭借观众口碑不断发酵，票房一路逆袭，甚至在上映第三周创造了自1982年《E.T.外星人》以来罕见的单周票房增长纪录。 国内上映前，《痴迷》的豆瓣分为7.7，20万人看过后评分仅下滑至7.6分，证明大部分观众对于这部新片给予了肯定。不过，也有一些观众觉得故事单薄，“为愿望付出难以承受的代价”这一设定极其老套，二十分钟就能讲完的故事非要拍成一个半小时。 那么，一部没有复杂世界观、没有密集jump scare，甚至连超自然设定都有些老套的恐怖爱情片，观众为什么仍然愿意为它买单？ （以下内容包含部分剧透，敬请留意。） 一款无色无味剧毒的“老实人” 《痴迷》是以男主贝尔的视角展开的。这是一个常见但有效的叙事方法，让观众相信，贝尔似乎只是一个普通的倒霉蛋。 因为懦弱而错失了向女主妮基表白的机会后，贝尔在",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-unityceo-ai-1785807717000",
-    "title": "对话UnityCEO：AI正在改变游戏引擎的底层逻辑",
-    "link": "https://www.tmtpost.com/8090030.html",
-    "summary": "未来不见得是OPC的方式开发游戏，还是得有人懂程序，因为AI写出来的代码还是得有人兜底。",
+    "id": "news-960-meta-20-1785824160000",
+    "title": "一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？",
+    "link": "https://www.tmtpost.com/8089647.html",
+    "summary": "Meta 豪掷数千亿押注 AI 算力未来。",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -148,25 +147,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
-    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
-    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
-    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
+    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
+    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
+    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
+    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-ai-2026-chinajoy-ai-1785757153000",
-    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-    "link": "https://36kr.com/p/3923717502072969?f=rss",
-    "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。 圆桌嘉宾： 刘士武丨36氪游戏主编（主持） 吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp; 艾文丨阿里云智能集团公共云AI原生事业部副总经理 罗小我丨VAST战略负责人 杨晟丨珀乐互动科技创始人 从实验到产线——AI 工作流的规模化挑战与协作生态 以下为圆桌对话内容，经36氪整理编辑： 刘士武： 大家好！我是本场圆桌的主持人，36氪游戏主编刘士武，我们今天的圆桌主题是从实验到产线，AI工作流的规模化挑战与协作生态。我们今天圆桌四位嘉宾，Funloom AI的吴同老师、阿里云的艾文老师、VAST罗小我老师以及珀乐互动的杨晟老师，其实四位分别代表AI产线上不同的角色以及在发力不同方向。 今天我们将会聊聊大的话题下一些小细节，聊聊AI在游戏行业工作流里面应用",
-    "publishedAt": "2026-08-03",
+    "id": "news-36-10-1785812390000",
+    "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+    "link": "https://36kr.com/p/3924628805351811?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。 陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。 目前，陶世产品已进入富士康、蓝思科技、先导智能、凌云光等企业供应链，并在人形机器人领域与近百家机器人企业开展合作。其中，公司面向灵巧手推出的关节模组已签署10万台供货协议，客户包括灵心巧手、超维动力、绳肌妙算、中科硅纪等。 随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速器也是机器人产业链国产替代的重要环节之一。 与传统谐波、RV、行星减速器不同，陶世选择的是正交传动路线。“传统方案中，要实现90度转向通常需要额外增加转角器，这",
+    "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
       "china",
@@ -176,11 +175,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-1785741073000",
-    "title": "年薪百万抢电工，Meta急到自己办技校",
-    "link": "https://www.qbitai.com/2026/08/465223.html",
-    "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
-    "publishedAt": "2026-08-03",
+    "id": "news-app-75-gpu-1785806861000",
+    "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+    "link": "https://www.qbitai.com/2026/08/465732.html",
+    "summary": "出海AI，正被“三重算力锁链\"捆死",
+    "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
       "china",
@@ -189,10 +188,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785807115000",
-    "title": " 纽约东河两岸，天堂与地狱并存 ",
-    "link": "https://www.huxiu.com/article/4880418.html?f=rss",
-    "summary": "本文来自微信公众号： 不成熟研究 ，作者：罗雨翔 用一场盛夏的Citywalk，实况记录 纽约那条划分高贵和贫穷的河流， 以及这里的居民、政府以及资本之间的博弈。 在《北京人在纽约》这部古早的电视剧里，姜文有一段非常著名的开场白： “如果你爱他，就把他送到纽约去，因为那里是天堂；如果你恨他，就把他送到纽约去，因为那里是地狱。” 这句话常被用来形容纽约给予个人的极端体验。但如果沿着东河（East River）走一圈，你会发现，天堂与地狱也有具体的空间形态，甚至可以被清清楚楚地画在城市地图上。 河的一边，是曼哈顿下东区（Lower East Side）。这里有大量保障性住房和老居民，社区贫困率一度达到21%。 另一边，是布鲁克林的富人区：旧糖厂被改造成高端办公楼和住宅，“老钱”居民用自己的政治力量与政府博弈。 它们只隔着一条河，却像是两座纽约。 今年夏天，我跟纽约Asia Society 725沙龙的欧阳斌老师一起，组织了一场沿东河展开的Citywalk。路线从曼哈顿下东区出发，穿过东河公园，坐渡轮到布鲁克林大桥公园，再一路走到布鲁克林高地和Dumbo。 活动视频如下。 表面上，我们在逛公园；实际上，我们一直在讨论三个问题：纽约的公共空间是谁建的？钱从哪里来？当政府、资本与居民发生冲突时，谁的声音更容易被听见？ 以及，“天堂”真的就比“地狱”更好吗？ 走完这条路线，我才意识到：公园也许",
+    "id": "news--1785823200000",
+    "title": " 中国最被低估的省份，湖南到底有多硬？ ",
+    "link": "https://www.huxiu.com/article/4880430.html?f=rss",
+    "summary": "2.7%背后的湖南，被严重低估了。",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -202,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785807544000",
-    "title": "新能源车卷完电池，开始卷充电时速",
-    "link": "https://www.tmtpost.com/8089822.html",
-    "summary": "背后押注的是纯电时代关于“补能效率”的竞争。",
+    "id": "news-ai-1785823920000",
+    "title": "喊了好久的 “AI选秀元年”，真来了",
+    "link": "https://www.tmtpost.com/8090410.html",
+    "summary": "108进9，百里挑一的9位女爱豆不是真人，而是AI！",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -254,25 +253,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
-    "title": "Week in review: How does HR use ChatGPT?",
-    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
+    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
+    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
+    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
+    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-9-36-1785750271000",
-    "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
-    "link": "https://36kr.com/p/3923603053686151?f=rss",
-    "summary": "图片1 &nbsp; 今日A股收盘数据 上证指数：3809.66&nbsp;点，-0.59% 深证成指：13448.29&nbsp;点，-0.96% 创业板指：3302.55&nbsp;点，-1.24% &nbsp; 德明利8月3日下跌9.56% 349.00 &nbsp;-36.90 &nbsp;-9.56% 当日开盘价373.94；交易量27.21万手； 换手率16.49%；缩量幅度0.36% 3日涨幅-1.57%；5日涨幅-13.10% 成交额：97.75亿；总市值：791.69亿 对于投资者来说，真正有价值的并不是股价下跌之后再去复盘，而是在市场情绪变化时，第一时间发现值得关注的信号。 这正是36氪企业全情报持续监测企业动态和舆情变化的价值所在。 更多德明利相关股价信息点击进入小程序查看 &nbsp; 股价异动前，企业全情报已捕捉到市场关注事件 财联社7月31日消息，有投资者询问，网传德明利第五大股东李东璘近期爆仓致股价大跌是否属实，还问及公司高管是否履职尽责保护投资者，以及公司有无回购计划。德明利在互动平台回应，前十大股东信息会按规则在定期报告披露，5%以下股东个人股份处:置及融资事宜属股东自身事务，非公司法定披露范畴。公司保持与投资者沟通畅通，将结合自身情况审慎评估举措，后续若涉及相关事项，会按规定及时披露信息。 ｜事件正负面性质分析 截止8月3日，此事件匹配的到全网舆",
-    "publishedAt": "2026-08-03",
+    "id": "news-8-1-deepseek-iphone-1785802684000",
+    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+    "link": "https://36kr.com/p/3924467692927369?f=rss",
+    "summary": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪卸任万达产业投资公司董事 TOP3大新闻 宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英 据天眼查显示，7月31日，杭州天杞优品食品有限公司成立，注册资本为300万元，经营范围包含互联网销售、食品进出口、食品销售等。该公司由浙江三捷投资管理有限公司、百瑞源枸杞股份有限公司共同持股。股权穿透显示，杜建英为该公司实际控制人，宗继昌任公司董事长、经理、法定代表人。 2025年7月，宗继昌与宗婕莉、宗继盛三人起诉宗馥莉，三位原告被律师确认为宗馥莉的“同父异母兄弟姐妹”，寻求阻止宗馥莉处置汇丰银行账户资产，并追讨其父宗庆后生前承诺的21亿美元信托权益。（每日经济新闻、金融界） 美国制裁洽洽瓜子、思念水饺等中国企业 美国国土安全部牵头的相关工作组更新了对中国企业的进口限制清单，将在美国当地时间8月3日生效。包括洽洽食品、思念食品、七匹狼等在内的多家中国企业纳入限制范围，对其生产的相关产品进入美国市场实施进口限制。这意味着，曾经摆上美国消费者餐桌的瓜子、饺子、汤圆等中国食品，以及进入全球市场多年的中国服装品牌，都",
+    "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
       "china",
@@ -282,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-geo-1785740286000",
-    "title": "当品牌开始争夺AI的答案：翰智GEO入场",
-    "link": "https://www.qbitai.com/2026/08/465662.html",
-    "summary": "",
+    "id": "news-4k-1785758372000",
+    "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+    "link": "https://www.qbitai.com/2026/08/465673.html",
+    "summary": "商汤预览了SenseNova U1.5 Lite",
     "publishedAt": "2026-08-03",
     "source": "量子位",
     "tags": [
@@ -295,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785806443000",
-    "title": " 高通想用双旗舰芯扩张市场，却撞上了内存涨价 ",
-    "link": "https://www.huxiu.com/article/4880416.html?f=rss",
-    "summary": "本文来自微信公众号： 不客观实验室 ，作者：陆 按照高通公布的日程，2026年骁龙峰会将在9月22日至24日举行。虽然新一代旗舰移动平台还没有正式亮相，但围绕它的产品布局已经逐渐清晰：今年高通可能不再只推出一颗代表安卓最高性能的旗舰芯片，而是围绕2nm平台同时准备标准版和Pro版。 爆料显示，定位最高的骁龙8 Elite Gen 6 Pro将采用更激进的频率、更强的GPU，并支持LPDDR6；标准版则保留相近的CPU架构，但在GPU、缓存和内存支持等方面有所收缩。 虽然目前相关名称和具体规格仍未得到高通确认，但“双旗舰”的方向已经透露出一个明显信号：高通希望把旗舰芯片生意做得更大，而不只是把性能的天花板做得更高。 以往高通旗舰芯片基本遵循一条简单的产品逻辑：每一代只有一个真正的顶级平台，手机厂商拿到芯片之后，再通过散热、影像、屏幕和产品定位做差异化。 但当一颗旗舰芯片的价格越来越高，这种模式也越来越不划算。 最顶级的芯片当然可以支撑ProMax和Ultra两款“顶配”机型，却不一定适合普通的Pro、数字系列甚至主打性能的产品。手机厂商要么花高价购买一颗性能过剩的芯片，要么使用联发科平台，眼看着自己的新品在营销上低人一等。 所以，高通今年把旗舰平台拆成标准版和Pro版，本质上是一种扩张。 Pro版继续负责树立性能标杆，进入少数Ultra和顶级游戏手机；标准版则以相对低一些的成本，进入",
+    "id": "news--1785821104000",
+    "title": " 打开你的手机，韩国政府正在帮你亏钱 ",
+    "link": "https://www.huxiu.com/article/4880472.html?f=rss",
+    "summary": "本文来自微信公众号： 来咖智库 ，作者：AA，编辑：G3007 2026/08/04 韩国政府给散户发了一把上膛的枪 编者按 暴涨18%、暴跌5%、高开转跌，三天三变，韩国政府造的杠杆ETF正在反噬市场。 如果你刚刚打开手机，财经APP大概推送了这么一条，“KOSPI高开1.5%，冲高2%，然后翻绿。三星转跌。SK海力士转跌”。 你可能会想：等等，上周五不是还暴涨了快18%吗？ 如果你买了任何跟韩国沾边的基金，亚洲主题ETF、科技QDII、甚至重仓三星供应链的A股基金，那么过去三天，你的净值曲线大概长这样。 暴涨18%、暴跌5%、高开翻绿，三天三变。 你可能以为是市场疯了。 不是，是政府疯了。 你可能不买韩股。但这不只是一篇“别人家的故事”，它或许是全球金融市场过去十年最离谱的监管事故，没有之一。 01 政策室长被刑事举报 8月3日，韩国总统府政策室长金容范正式面临刑事指控。 前首尔市议员、在野党国民力量党保守派人士李钟培通过政府在线信访系统向检察厅提交了控告书，罪名是滥用职权、胁迫、妨碍业务。 今年1月，金容范在接受采访时说了一句\"如果纳斯达克允许这类产品，为什么韩国不能允许？\"之后不久，韩国金融服务委员会（FSC）便宣布允许推出2倍单只股票杠杆ETF。 李钟培主张，FSC自1月起已在内部审议相关计划，原定下半年建立监管框架后推出，但金容范不顾金融监管部门的风险警告，强行指示将产",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -308,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785807240000",
-    "title": "微软不赌模型",
-    "link": "https://www.tmtpost.com/8088071.html",
-    "summary": "在AI竞赛中，最大的确定性不来自模型能力的领先，而来自算力基础设施的掌控力。",
+    "id": "news--1785823380000",
+    "title": "资本加注引爆前夜，眼科手术机器人首证倒计时",
+    "link": "https://www.tmtpost.com/8090361.html",
+    "summary": "资本密集重仓，抢占全球第一梯队。",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -360,10 +359,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
-    "title": "Can AI make the workplace more accessible?",
-    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
-    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
+    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
+    "title": "Week in review: How does HR use ChatGPT?",
+    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -374,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785744729000",
-    "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
-    "link": "https://36kr.com/p/3923465542364545?f=rss",
-    "summary": "其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。 这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？ 围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。 先说核心结论：可灵3.0更适合关键镜头的创作。 模型在构图、光影、情绪氛围和人物主体一致性上表现突出，针对目标明确的短动作镜头，可以稳定产出高质量画面。若需用可灵处理复杂叙事影片，更稳妥的思路是把长动作拆成单目标的短镜头，再通过分镜设计与后期剪辑串联为完整段落。 当任务同时涉及跨空间移动、多道具与多人物打斗场景时，最终画面效果高度依赖提示词、参考图、镜头时长和拆分方法。 这次压力测试，目的是找到更稳定的创作方法，而非对模型能力下定论。 【图1｜本次测试使用的参考图】 标题 电影感，率先在关键镜头中落地 从测试结果来看，可灵3.0的核心优势集中在关键镜头的画面完整度。 当镜头目标明确、人物关系简洁、动作时长较短时，模型能生成高质量画面。光影、构图、人物和情绪氛围均表现亮眼。 例如戏子镜前准备的画面，最能直观体现可灵的画面表现力。 【图2｜戏子",
+    "id": "news-ai-2026-chinajoy-ai-1785757153000",
+    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+    "link": "https://36kr.com/p/3923717502072969?f=rss",
+    "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。 圆桌嘉宾： 刘士武丨36氪游戏主编（主持） 吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp; 艾文丨阿里云智能集团公共云AI原生事业部副总经理 罗小我丨VAST战略负责人 杨晟丨珀乐互动科技创始人 从实验到产线——AI 工作流的规模化挑战与协作生态 以下为圆桌对话内容，经36氪整理编辑： 刘士武： 大家好！我是本场圆桌的主持人，36氪游戏主编刘士武，我们今天的圆桌主题是从实验到产线，AI工作流的规模化挑战与协作生态。我们今天圆桌四位嘉宾，Funloom AI的吴同老师、阿里云的艾文老师、VAST罗小我老师以及珀乐互动的杨晟老师，其实四位分别代表AI产线上不同的角色以及在发力不同方向。 今天我们将会聊聊大的话题下一些小细节，聊聊AI在游戏行业工作流里面应用",
     "publishedAt": "2026-08-03",
     "source": "36氪",
     "tags": [
@@ -388,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1785739767000",
-    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-    "link": "https://www.qbitai.com/2026/08/465361.html",
-    "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
+    "id": "news-meta-1785741073000",
+    "title": "年薪百万抢电工，Meta急到自己办技校",
+    "link": "https://www.qbitai.com/2026/08/465223.html",
+    "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
     "publishedAt": "2026-08-03",
     "source": "量子位",
     "tags": [
@@ -404,360 +403,388 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2608.01075v1",
-    "title": "Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth",
+    "id": "arxiv-2608.02602v1",
+    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
     "authors": [
-      "Kehan Wang"
+      "Jiajun Liang",
+      "Yucheng Liao",
+      "Yukang Cao",
+      "Jiazhe Wei",
+      "Ken Li",
+      "Wende Tan",
+      "Jiankun Zhang",
+      "ZY Cui",
+      "Jingkang Yang",
+      "Liucheng Guo",
+      "Shiqi Yang",
+      "B. Yang",
+      "Caifeng Shan",
+      "Ziwei Liu",
+      "Chenyang Si"
     ],
-    "summary": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, however, use a single content-dependent depth mixture to construct the inputs to queries, keys, and values. This design couples two functionally different decisions: queries and keys determine where attention matches, whereas values determine what content is retrieved. We therefore ask whether matching and content retrieval should be forced to read from the same depth. We introduce Role-Decoupled Attention Residuals (RD-AttnRes), a minimal extension that shares one depth route between queries and keys while learning an independent value route over the same residual sources. Tying the two routing que",
-    "link": "http://arxiv.org/abs/2608.01075v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or compress autoencoded latents to ease diffusion, sacrificing token-level fidelity. Instead of simplifying the representation to suit the generative model, we preserve a high-capacity, decodable text latent and design the diffusion model to learn its distribution directly. We introduce AURORA-LM, a continuous-latent diffusion language model that separates the construction of a decodable text representation from the modeling of its distribution. A Query-based Encoder-Decoder orga",
+    "link": "http://arxiv.org/abs/2608.02602v1",
+    "publishedAt": "2026-08-03",
     "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02599v1",
+    "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+    "authors": [
+      "Junjie Yin",
+      "Buxin She",
+      "Xinyu Feng",
+      "Fangxing",
+      "Li"
+    ],
+    "summary": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researchers and practitioners, which shows 92% report at least one barrier before running an AI model and 94% want a power-specific hands-on course. This paper presents a framework consisting of open, executabl",
+    "link": "http://arxiv.org/abs/2608.02599v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "eess.SY",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.01074v1",
-    "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+    "id": "arxiv-2608.02595v1",
+    "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
     "authors": [
-      "Mayank Sharma",
-      "Rohit Kumar Mourya",
-      "Pratik Mazumder"
+      "Brandon Wang",
+      "Andrei S. Tyrin",
+      "Daniil A. Boiko"
     ],
-    "summary": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs from that of the training data. Researchers have proposed test-time adaptation approaches to deal with this problem. The fully test-time adaptation (FTTA) setting involves adapting deployed classifiers to shifted target distributions using only unlabeled test data. Leading FTTA methods inherit a batch-dependent approach from computer vision literature. This paper demonstrates for the first time that such approaches degrade sharply in strict streaming regimes where examples arrive and must be classified one at a time. This occurs because at a batch size of one, batch-level statistics become una",
-    "link": "http://arxiv.org/abs/2608.01074v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and domain-specific intuition. Existing evaluations rarely measure the capabilities required to make reliable decisions in a physical laboratory and often rely on public data that may have appeared in model training corpora. We introduce onepot-Bench 0, a proprietary benchmark suite for evaluating language models on synthetic chemistry capabilities relevant to wet-lab execution. onepot-Bench 0 comprises three complementary evaluations: ChemAbacus measures tool-free cheminformatics literacy and nume",
+    "link": "http://arxiv.org/abs/2608.02595v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.LG",
-      "cs.CV"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.01069v1",
-    "title": "Characterizing Bias in Post-Bandit Inference under Index Algorithms",
+    "id": "arxiv-2608.02588v1",
+    "title": "The Condition-Number Barrier in Sparse Least Squares",
     "authors": [
-      "Lisu Wang",
-      "Yilun Chen",
-      "Jiaqi Lu"
+      "Honghao Lin",
+      "Vahab Mirrokni",
+      "David P. Woodruff"
     ],
-    "summary": "Bandit algorithms generate data for downstream inference, but adaptive sampling biases post-bandit sample means. We analyze this bias for stable index algorithms, including UCB1 and its generalizations, and derive sharp leading-order expressions for the sample-mean bias and expected $Z$-statistic. Our characterization reveals the algorithmic origin of bias through a key index-function-dependent quantity, which we term effective exploration rate. For example, under UCB1, the effective exploration rate is of order $\\sqrt{\\log T}$, and the standardized bias of any arm (that is not uniquely optimal) decays at the extremely slow rate $1/\\sqrt{\\log T}$. We also show how the choice of the index function affects both regret and bias, which reveals a regret-bias trade-off: more exploratory algorith",
-    "link": "http://arxiv.org/abs/2608.01069v1",
-    "publishedAt": "2026-08-02",
+    "summary": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for least-squares objectives, conditional on the randomized exact-volume Small-Set Expansion Hypothesis in the weighted regular-graph formulation of Raghavendra, Steurer, and Tulsiani [RST12]. Concretely, for every fixed $γ\\in(0,1]$, there is no randomized polynomial-time algorithm that, with probability at least $2/3$, returns a vector $x$ such that, writing $s=\\lVert x\\rVert_0$, \\[ \\lVert Ax-b\\rVert_2^2 \\leq \\min_{\\lVert z\\rVert_0\\leq k}\\lVert Az-b\\rVert_2^2+\\varepsilon \\quad\\text{and}\\quad s=O\\!\\left(k\\,κ_{s+k}^{\\,1-γ}\\right), \\] where $κ_r$ is the restricted",
+    "link": "http://arxiv.org/abs/2608.02588v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.DS",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02585v1",
+    "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+    "authors": [
+      "Zhaoxin Yu",
+      "Qi Shen",
+      "Hengli Li",
+      "Zhaowei Zhang",
+      "Song-Chun Zhu",
+      "Chi Zhang",
+      "Zilong Zheng"
+    ],
+    "summary": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the reasoning trajectory through decoded tokens, making sequence-level credit assignment indirect and obscuring how latent updates shape subsequent reasoning. We introduce GradCuit (gradient through circuit), which inserts optimizable latent states at a selected Transformer layer between the hidden representations of the prompt and the generated continuation. Causal self-attention provides every continuation-token log-probability with a differentiable path to every preceding latent state through the remaining Transformer blocks, enabling reward-weighted gra",
+    "link": "http://arxiv.org/abs/2608.02585v1",
+    "publishedAt": "2026-08-03",
     "categories": [
       "cs.LG",
-      "math.PR",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02583v1",
+    "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+    "authors": [
+      "Tingyu Song",
+      "Mingxin Li",
+      "Yanzhao Zhang",
+      "Dingkun Long",
+      "Pengjun Xie",
+      "Zhijie Nie",
+      "Yilun Zhao",
+      "Shu Wu"
+    ],
+    "summary": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer semantics. Yet LSR has so far remained tied to encoder-style bidirectional architectures, and its extension to multimodal settings still relies heavily on auxiliary cross-modal modules. To address these limitations, we introduce UEmbed (Unified Embedding), a decoder-only multimodal embedding model that produces both sparse lexical and dense representations in one causal forward pass. UEmbed appends N learnable special tokens to the input and partitions the vocabulary into N disjoint subsets. Each token's causal hidden state predicts sparse weights over its assigned subset, and the",
+    "link": "http://arxiv.org/abs/2608.02583v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02578v1",
+    "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+    "authors": [
+      "Shuaijun Liu",
+      "Qifu Wen",
+      "Shuyang Hao",
+      "Qi Luo",
+      "Chenglong Zhang",
+      "Feiyang You",
+      "Chengyu Wu",
+      "Ningxin Su"
+    ],
+    "summary": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improvement; when the nominal action is also inadmissible, it invokes a predefined abstention fallback. To separate selector quality from proposal quality, all methods operate on identical candidate pools a",
+    "link": "http://arxiv.org/abs/2608.02578v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02576v1",
+    "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
+    "authors": [
+      "Shashwat Kumar",
+      "Arafat Rahman",
+      "Anuj Srivastava",
+      "P. -A. Absil"
+    ],
+    "summary": "We consider optimization problems defined on product spaces of simplices. Examples of this class of problems include learning low-rank discrete multivariate probability distributions via simplex constrained tensor decomposition and performing functional data registration under the Square Root Velocity Function (SRVF) representation. In this work, we demonstrate the feasibility of replacing the product simplex with a smooth, elementwise strictly convex reparameterization, resulting in an unconstrained optimization problem on a manifold. We show that performing such a reparameterization results in the second order Karush-Kuhn-Tucker (KKT) points on the smooth manifold being mapped to the weak second order KKT points on the product simplex. This leads to a Riemannian Gradient Descent (RGD) al",
+    "link": "http://arxiv.org/abs/2608.02576v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02575v1",
+    "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+    "authors": [
+      "Shengzhi Deng",
+      "Chenqi Ye",
+      "Yanze Guo"
+    ],
+    "summary": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random tensors while preserving the diffusion architecture and training objective, measuring whether the target system can exploit orbit structure. After controlling marginal statistics and screening out clear ",
+    "link": "http://arxiv.org/abs/2608.02575v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.LG",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2608.01056v1",
-    "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
+    "id": "arxiv-2608.02569v1",
+    "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
     "authors": [
-      "Yinghan Hou",
-      "Zongyou Yang"
+      "Qiushi Lin",
+      "Chaojie Zhang",
+      "Íñigo Goiri",
+      "Aditya Akella",
+      "Ricardo Bianchini",
+      "Jovan Stojkovic"
     ],
-    "summary": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compressing these agent control contexts (ACCs) can reduce input cost and context use, yet existing prompt-compression evaluations do not reveal whether the resulting control remains operationally reliable. We introduce CompressAgent, an environment-verified benchmark for ACC compression across nine independently constructed ACCs, three task families, three fixed Qwen API model identifiers, six retained-context budgets, and 15,525 runs. We uncover a nonlinear, method-dependent reliability frontier. At 75% retained context, generic rewriting and section-based compression achieve 92.7% and 92.4% succ",
-    "link": "http://arxiv.org/abs/2608.01056v1",
-    "publishedAt": "2026-08-02",
+    "summary": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a single policy takes months. Agentic AI promises to automate this search. Off the shelf, however, it falls short on three fronts. It is not formal: with no structured, searchable statement of the problem, the search has little structure to exploit and hard constraints are not guaranteed. It is not transferable: each task is solved from scratch, so nothing learned on one task carries to the next. Finally, it is not systematic: relying on the LLM as the sole source of candidates, it explores a narrow slice of the design space and settles into local optima. We introduce AtumAI, a",
+    "link": "http://arxiv.org/abs/2608.02569v1",
+    "publishedAt": "2026-08-03",
     "categories": [
       "cs.AI",
-      "cs.CL"
+      "cs.DC",
+      "cs.OS"
     ]
   },
   {
-    "id": "arxiv-2608.01055v1",
-    "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
+    "id": "arxiv-2608.02560v1",
+    "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
     "authors": [
-      "Xinheng Han",
-      "Jianfei Wang",
-      "Yu Chen",
-      "Xiang Wang",
-      "Shuai Li",
-      "Weixing Li",
-      "Feng Pan"
+      "Anusha Madan Gopal",
+      "Aras Pirbadian",
+      "Kristofor D. Carlson",
+      "M Anthony Lewis",
+      "Jonathan Tapson"
     ],
-    "summary": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, and precisely localized grounding and segmentation outputs. However, existing group-relative reinforcement learning methods provide only response-level supervision, creating a granularity mismatch for structured multi-object prediction: a single advantage is broadcast to all tokens in a response, without distinguishing individual box contributions. To address this mismatch, we propose MCR-GRPO, a marginal contribution assignment framework that derives box-level credit directly from each sampled response. Specifically, Marginal Contribution Reward (MCR) estimates each predicted box's contribution",
-    "link": "http://arxiv.org/abs/2608.01055v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space Models (SSMs) avoid the second cost by construction; we eliminate the first, collapsing prefill from $O(L_{context})$ to $O(1)$ per query. We introduce PRECOG (Pre-Computed Context Injection), a retrieval mechanism that exploits a property unique to SSMs: the fixed-size, position-agnostic recurrent hidden state is a complete summary of everything the model has read. PRECOG pre-encodes document corpora offline as SSM hidden states and injects the best-matching state directly at query time, bypassing in-context re-ingestion entirely. The same state-injection mechanism enables SMC (Structured Mem",
+    "link": "http://arxiv.org/abs/2608.02560v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.CV",
-      "cs.AI"
+      "cs.LG",
+      "cs.AI",
+      "cs.IR"
     ]
   },
   {
-    "id": "arxiv-2608.01050v1",
-    "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale",
+    "id": "arxiv-2608.02558v1",
+    "title": "Benchmarking Sheaf Neural Networks for Inductive Tasks",
     "authors": [
-      "Ortal Ashkenazi",
-      "Vitalii Kloz",
-      "Mykhailo Ulianchenko"
+      "Stefano Fiorini",
+      "Edoardo Coppola",
+      "Pietro Liò"
     ],
-    "summary": "Production LLM agents that select from large skill libraries face a limitation that semantic relevance alone cannot resolve: a skill may match a user's topic yet be impossible to execute in the current account state. We present a deployed three-stage selection pipeline for Helpmate, Wix's customer-care assistant. First, a recall-oriented semantic matcher identifies messages related to a ten-skill domain family without consulting account state. Second, a deterministic executability gate removes candidates whose internal hard-stop conditions hold. Because the gate and the skill evaluate the same exit predicates, every blocked candidate would be unable to complete under the same account state, provided predicate parity is preserved and both checks observe fresh authoritative state. Finally, t",
-    "link": "http://arxiv.org/abs/2608.01050v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Sheaf Neural Networks (SNNs) generalize message passing by replacing scalar edge weights of standard Graph Neural Networks (GNNs) with learnable, edge-dependent restriction maps between node stalks. Despite their strong theoretical foundations and promising transductive results, SNNs have been evaluated almost exclusively on transductive node classification, leaving their behaviour under inductive protocols unknown. We address this gap through the first systematic benchmark of the sheaf design space, evaluating three diffusion mechanisms (neural sheaf diffusion, sheaf attention, and sheaf attention with Graph Attention Network v2), three restriction-map parameterizations, three stalk dimensions, and six modern GNN architectural components, within a message-passing reformulation that never ",
+    "link": "http://arxiv.org/abs/2608.02558v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01049v1",
-    "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
-    "authors": [
-      "Kapil Wanaskar",
-      "Gaytri Jena",
-      "Aman Chadha",
-      "Vinija Jain",
-      "Vasu Sharma",
-      "Amitava Das"
-    ],
-    "summary": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Architectures (JEPA) offer a particularly compelling direction. We study a largely unexplored regime: populous, crowded, and chaotic Global South urban environments, which we call DENSEWORLD. Unlike the lower-density, lane-structured settings that dominate existing evaluations, these scenes exhibit soft spatial boundaries, extreme agent heterogeneity, persistent occlusion, and rapid social negotiation under mixed traffic. We introduce the first large-scale dataset for this regime: 1,000 hours of drive-through, walk-through, and aerial video across 22 cities. Existing JEPA formulations struggle to ",
-    "link": "http://arxiv.org/abs/2608.01049v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.AI",
-      "cs.CV",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.01046v1",
-    "title": "DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text",
+    "id": "arxiv-2608.02555v1",
+    "title": "Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation",
     "authors": [
-      "Muhammad Yousaf Rehman",
-      "Muhammad Islam"
+      "Amr Keleg",
+      "Ahmed Amine Ben Abdallah",
+      "Taha Yassine",
+      "Chadi Helwe",
+      "Imane Guellil",
+      "Nedjma Ousidhoum"
     ],
-    "summary": "The rapid spread of large language models (LLMs) across the web raises concerns about misinformation, academic integrity, automated content manipulation, and risks to vulnerable online communities. Existing transformer-based detectors, such as GPT-Sentinel, show promise but struggle to generalize to diverse model outputs and paraphrasing attacks, limiting their role in building trustworthy web ecosystems. This work introduces DeBERTa-Sentinel, a responsible AI-generated text detection framework leveraging DeBERTa-v3's disentangled attention to capture subtle structural irregularities in synthetic content. A central design principle is transparency: unlike black-box commercial detectors, DeBERTa-Sentinel exposes token-level explanations of its decisions, enabling affected stakeholders journ",
-    "link": "http://arxiv.org/abs/2608.01046v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01043v1",
-    "title": "Decoy Images Amplify Caption-Mediated Defenses Against Encoded Jailbreaks",
-    "authors": [
-      "Haoyu Zhang",
-      "Xiangchen Guan",
-      "Shibo Zheng",
-      "Mohammad Zandsalimy",
-      "Shanu Sushmita"
-    ],
-    "summary": "We report a counter-intuitive interaction between image inputs and existing black-box defenses on Vision--Language Models (VLMs): pairing an encoded jailbreak prompt with an unrelated decoy image can sharply lower attack success rate (ASR). The operative change is in the defense pipeline, not in the image. Across five frontier VLMs, two encoded-attack families, and three black-box defenses, a caption-mediated defense (ECSO) that leaves ASR essentially unchanged on text-only encoded input drops it by up to $73$pp once a content-free decoy is attached; every non-saturated contrast is significant under exact McNemar tests. We advance two hypotheses for this pattern, supported by indirect evidence rather than pipeline introspection, since a black-box threat model precludes inspecting vendor in",
-    "link": "http://arxiv.org/abs/2608.01043v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.CR",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01042v1",
-    "title": "What Could the Agent See at 19:05? Generating Temporal Enterprise Scenarios from Real Research and Replaying Them to Evaluate Agents",
-    "authors": [
-      "Tezan Sahu",
-      "Himani Arora"
-    ],
-    "summary": "Enterprise AI agents act across many apps whose data changes continuously, so an answer is correct only relative to what data existed and who could see it at the moment it was asked. Offline evaluation today grades against a single static snapshot, effectively the end of the episode. So, it can only evaluate one situation, the final one, even though every earlier moment of the episode is a different situation that invites its own realistic questions with its own correct answers. Recreating each of those moments as a separate snapshot would mean re-provisioning a whole tenant per instant, which is prohibitively costly; and even a single snapshot leaks future state hidden inside records and cannot represent the multi-app, time-ordered way real work happens. Our system closes two gaps at once",
-    "link": "http://arxiv.org/abs/2608.01042v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.SE",
-      "cs.AI",
-      "cs.HC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01041v1",
-    "title": "On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies",
-    "authors": [
-      "Yanxin Zhang",
-      "Shayne Wadle",
-      "Yuxuan Xiong",
-      "Zheyu Fu",
-      "Trivikram Krishnamurthy",
-      "Karu Sankaralingam"
-    ],
-    "summary": "Machine-learning predictors estimate processor performance far faster than cycle-level simulation. For design-space exploration, however, the valuable test is not merely reproducing the usual hardware ordering, but identifying how different hardware configurations rank on individual program phases. We evaluate four ML-predictors in two design regimes: \\emph{Structural Parameters} (SP), varying hardware resources such as issue width, ROB size, and cache capacity; and \\emph{Behavioral Policies} (BP), varying prefetching and replacement algorithms. In the SP regime, aggregate ranking is strong, yet counter-intuitive windows(CIW)---where the configuration expected to be slower is faster---constitute $22.4\\%$ of non-tied windows across five pairs with a clear architectural prior. CIW match acro",
-    "link": "http://arxiv.org/abs/2608.01041v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.AR",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01039v1",
-    "title": "Using Lower-Bound Representations for Trajectory Similarity Learning",
-    "authors": [
-      "Liwei Deng",
-      "Haotian Meng",
-      "Yupu Zhang",
-      "Yan Zhao",
-      "Torben Bach Pedersen",
-      "Kai Zheng",
-      "Christian S. Jensen"
-    ],
-    "summary": "Trajectory similarity learning is fundamental to efficient trajectory retrieval under complex distance measures. Existing learning-based methods typically rely on embeddings trained to approximate trajectory distances or rankings, but they often lack guarantees with respect to the original distances, exhibit unstable performance across distance measures, and incur substantial training costs. We revisit trajectory similarity learning from a lower-bound representation perspective and propose LB-TrajRep, a unified lower-bound representation framework independent of deep neural embeddings. This framework constructs single-vector representations from a set of lower-bound components, enabling admissible and interpretable lower bounds for multiple classical trajectory distances, including Dynamic",
-    "link": "http://arxiv.org/abs/2608.01039v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.DB",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01035v1",
-    "title": "WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA",
-    "authors": [
-      "Zhihao Zhu",
-      "Hanlin Shang",
-      "Mingwang Xu",
-      "Feipeng Cai",
-      "Zhuolin He",
-      "Yaoyi Li",
-      "Jianhua Han",
-      "Hang Xu",
-      "Siyu Zhu"
-    ],
-    "summary": "Vision-Language-Action (VLA) models have emerged as a prominent paradigm for end-to-end autonomous driving; however, their efficient deployment is severely constrained by high computational latency and exposure bias arising from sequential autoregressive decoding. Conversely, while specialized diffusion policies enable low-latency, parallel execution, training them from scratch typically yields narrow, single-task architectures that lack holistic visual-linguistic reasoning. Successfully transforming pre-trained autoregressive generalists into parallel diffusion models could combine multi-task cognitive intelligence with execution efficiency, yet this transition presents a formidable architectural challenge due to mismatched attention patterns (causal versus bidirectional) and divergent op",
-    "link": "http://arxiv.org/abs/2608.01035v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01034v1",
-    "title": "Opt.Gear Technical Report",
-    "authors": [
-      "Juneyoung Park",
-      "Youngwook Kwon"
-    ],
-    "summary": "We introduce Opt.Gear, a foundation model designed for efficient on-device deployment, real-tim inference, and strong task capability. It includes a dense model (1M, 270M, and 1B) with a context length of 64K. We designed a new hybrid architecture that combines a convolutional key-value gated mixer with local-global attention to reduce the KV-cache memory that tends to increase exponentially with long context. This architecture delivers up to X4.9 faster prefill and decoding speeds on the NPUs compared to models of a similar scale models. From a 2T tokens candidate corpus, Opt.Gear is trained on a curated 0.5T tokens subset without knowledge distillation. This is the most data-efficient of the existing foundation models. All models are released with open weights and deployment binaries for",
-    "link": "http://arxiv.org/abs/2608.01034v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Arabizi refers to Arabic written in Latin script. Although previous studies have shown that the prevalence and usage of Arabizi vary by factors such as region and age group, most NLP research on Arabic texts treats it as a temporary phenomenon resulting from limited technological support for the Arabic script. In this work, we engage with Arabic speakers to collect insights on their perceptions and usage of Arabizi. We further examine writing norms among speakers of different dialects, focusing on Algerian, Egyptian, Lebanese, Moroccan, and Tunisian Arabic. To this end, we release two resources. First, a character-level alignment of Arabic words to study inter- and intra-dialectal variation across these five dialects, based on words transliterated by survey participants, finding systematic",
+    "link": "http://arxiv.org/abs/2608.02555v1",
+    "publishedAt": "2026-08-03",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.01033v1",
-    "title": "CallScreenBench: Benchmarking On-Device Models as Phone Secretaries",
+    "id": "arxiv-2608.02553v1",
+    "title": "A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI",
     "authors": [
-      "Simiao Ren"
+      "Taye Akinrele",
+      "Sindhuja Penchala",
+      "Noorbakhsh Amiri Golilarz",
+      "Sudip Mittal",
+      "Shahram Rahimi"
     ],
-    "summary": "Language models small enough to run on a handset, quantized to a few bits, are increasingly capable of acting for their user, making on-device task automation newly plausible. One such task is answering the phone. A phone secretary takes an unknown inbound call on its owner's behalf. Unlike the agents evaluated by most benchmarks, it has no task to complete and no cooperative user: the caller holds the goal, may be an adversary, and must be judged from the opening turn with no oracle. What matters is not task success, but whether the owner would endorse how their proxy handled the call. We present CallScreenBench, which scores this setting on five quality dimensions. Each dimension is printed beside the counter-metric that bills it and is never averaged into a single number. We also report",
-    "link": "http://arxiv.org/abs/2608.01033v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Cognitive AI seeks to move beyond language generation and autonomous task execution toward systems capable of sustained reasoning, adaptive behavior, persistent memory, and self-regulation. While generative and agentic AI have demonstrated impressive capabilities across a wide range of tasks, many fundamental cognitive functions remain fragmented or weakly developed, limiting reliable operation over extended time horizons. This paper presents a taxonomy-driven survey of the major cognitive capability gaps that continue to constrain the development of Cognitive AI. The literature is organized around five dimensions: persistent state modeling, goal-directed autonomy, self-monitoring and control, environment interaction, and learning and adaptation. For each dimension, we review recent advanc",
+    "link": "http://arxiv.org/abs/2608.02553v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.CR",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.01032v1",
-    "title": "The Fourth Quadrant: A Stylized View of Benign Misfitting",
+    "id": "arxiv-2608.02551v1",
+    "title": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
     "authors": [
-      "Gireeja Ranade",
-      "Anant Sahai"
+      "Zeshen Zheng",
+      "Yujia He",
+      "Qianmian Lin",
+      "Xiangyue Huang",
+      "Wenqing Chen"
     ],
-    "summary": "Training error is what we can observe on a training set; test error is the quantity we actually care about. We study linear regression with squared-error in a deterministic $(d+1)$-dimensional single-spike model. Each stylized training vector has the same informative spike coordinate, of amplitude $\\sqrtγ$ with $γ>1$. The remaining directions are nuisance, and the nuisance components of distinct training vectors all have equal norm and are mutually orthogonal. The training labels are all $1$. Fresh test points are drawn from $\\vec{x}_{\\rm test} \\sim \\mathcal{N}(\\vec{0},\\operatorname{diag}(γ,1,\\ldots,1))$, with the noise-free test labels being the normalized spike coordinate $x_{\\rm test}[1]/\\sqrtγ$. We focus on linear predictors in the span of the training vectors, the class naturally reac",
-    "link": "http://arxiv.org/abs/2608.01032v1",
-    "publishedAt": "2026-08-02",
+    "summary": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic realization to the model. Existing group fairness definitions assume that sensitive attributes are given on the input side. Generative audits instead examine output-side demographic composition, yet the targets they compare it against are typically supplied rather than justified. The upstream question is what the target distribution should be. We formalize this missing-target problem for demographic-value-unspecified generation and decompose target construction into four commitments: the evaluative object, prior admissibility, allocation, and operationalization. In this framework, we admit the",
+    "link": "http://arxiv.org/abs/2608.02551v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.LG",
-      "cs.IT"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01028v1",
-    "title": "VLAGuard: A Framework for Evaluating and Mitigating Physical Attention Hijacking in Vision-Language-Action Robots within Wireless Sensor Networks",
-    "authors": [
-      "Dongfu Yin",
-      "Jinquan Zhang"
-    ],
-    "summary": "Deploying Vision-Language-Action (VLA) robots as mobile edge nodes within wireless sensor networks (WSNs) requires robust protection against physical adversarial threats. We present VLAGuard, a framework to assess and mitigate a critical vulnerability: policy-critical action-to-vision attention hijacking. We first introduce a stress-test module, Visuomotor Attention-guided Semantic Attack (VASA), using printable patches to severely distract the robot's action-conditioned cross-attention. To counter this, we propose Attention-Protective Fine-Tuning (APFT), a defense that stabilizes spatiotemporal attention and enforces geometric consistency with zero inference overhead. Evaluations across simulated and physical WSN-assisted smart environments demonstrate significant robustness gains. APFT r",
-    "link": "http://arxiv.org/abs/2608.01028v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.01024v1",
-    "title": "Stress-Relief Annealing: Polynomial-Time Simulation-Free Layout Optimization for Automated Warehouses",
-    "authors": [
-      "Xiangjie Luo",
-      "Yulun Zhang",
-      "Miyuki Koshimura",
-      "Makoto Yokoo",
-      "Jiaoyang Li"
-    ],
-    "summary": "We study the problem of optimizing physical layouts for automated warehouses, where hundreds to thousands of robots are coordinated to transport packages. Previous works have shown that optimizing the warehouse layout (e.g., the physical location of the storage shelves) significantly improves throughput. However, state-of-the-art layout optimization approaches are based on evolutionary optimization methods, which treat the entire warehouse as a black box and rely on random mutation to search for high-quality layouts. While the optimization outcomes are promising, these methods require a massive number of simulations to evaluate candidate solutions, making them sample-inefficient. In this paper, we present Stress-Relief Annealing (SRA), a polynomial-time simulation-free layout optimization ",
-    "link": "http://arxiv.org/abs/2608.01024v1",
-    "publishedAt": "2026-08-02",
-    "categories": [
-      "cs.MA",
+      "cs.CY",
       "cs.AI",
-      "cs.RO"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.01023v1",
-    "title": "Caliber: Cross-Architecture Extraction-Cost Control for Score-Returning APIs",
+    "id": "arxiv-2608.02539v1",
+    "title": "A Simple Approximation to the Distribution of the Ridge Regression Estimator",
     "authors": [
-      "Chi Wang",
-      "Hanwen Wang",
-      "Yu Xia",
-      "Zihan Wang",
-      "Guangdong Bai"
+      "José Luis Montiel Olea",
+      "Ryan Strong",
+      "Amilcar Velez",
+      "Zhuoheng Xu",
+      "Haomin Yu"
     ],
-    "summary": "We present Caliber, an output-perturbation defense against model extraction that formulates noise selection as a calibration problem: how much the defense degrades the supervision signal used to train a surrogate, and the provable per-input query cost of recovering the clean logits. To defend against an attacker that uses returned scores for knowledge distillation, Caliber adds independent and identically distributed Gaussian noise to the internal logits. We establish two properties of the resulting perturbed predictions. Monotone agreement degradation: When the clean logits have a unique maximizer, agreement with the clean prediction decreases strictly with the noise scale, so every target in $(1/K,1)$ corresponds to a unique positive scale; task accuracy is bounded by computable lower an",
-    "link": "http://arxiv.org/abs/2608.01023v1",
-    "publishedAt": "2026-08-02",
+    "summary": "We present a simple Gaussian approximation to the finite-sample distribution of the classical ridge regression estimator. Our approximation captures the fact that, in finite samples, the ridge regression estimator trades off bias and variance to reduce estimation and prediction error. Our approximation is based on nonstandard asymptotics where $i)$ we let the estimator's regularization parameter grow proportionally to the sample size; and $ii)$ we treat the population regression coefficients as \\emph{local} to the reference vector that defines the estimator's direction of shrinkage. In contrast to other asymptotic approximations in the literature, we allow for general forms of heteroskedasticity and autocorrelation in the data generating process (at the cost of considering a low-dimensiona",
+    "link": "http://arxiv.org/abs/2608.02539v1",
+    "publishedAt": "2026-08-03",
     "categories": [
+      "econ.EM",
       "cs.LG",
-      "cs.AI"
+      "math.ST"
     ]
   },
   {
-    "id": "arxiv-2608.01021v1",
-    "title": "Can Humans Dream of Electric Sheep? Human-Written Samples for Fine-Grained Vision-and-Language Hallucination Benchmarking",
+    "id": "arxiv-2608.02538v1",
+    "title": "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
     "authors": [
-      "Timothee Mickus",
-      "Claudio Savelli",
-      "Eduardo Calò",
-      "Emilio Raimond",
-      "Stella Frank",
-      "Hengyu Luo",
-      "Flavio Giobergia",
-      "Vincent Segonne",
-      "Chuyuan Li",
-      "Aman Sinha",
-      "Lorenzo Vaiani",
-      "Jörg Tiedemann",
-      "Raúl Vázquez"
+      "Jiachen Hu",
+      "Han Zhong"
     ],
-    "summary": "In an age of rapid model turnover, how do we make hallucination evaluation more perennial? We explore whether human-written hallucination samples could take the place of model-generated hallucinations, in order to make benchmarking detection independent of particular models. To this end, we construct a dataset of 1,600 human-written samples, spanning four languages (Chinese, English, French, Italian), and 18,400 samples from five vision-and-language models, all annotated for hallucinations using a fine-grained span-level labeling scheme. We find that human-written samples result in higher agreement and allow greater control of dataset contents, while remaining distributionally similar to samples derived from vision-and-language samples and providing a reasonable portrayal of detection capa",
-    "link": "http://arxiv.org/abs/2608.01021v1",
-    "publishedAt": "2026-08-02",
+    "summary": "This paper is concerned with one-bit mean estimation, where each independent sample is represented by a single binary message. We consider distributions on $\\mathbb{R}$ with mean in $[-λ,λ]$ and absolute $k$-th central moment at most $σ^k$, where $k>1$ is fixed. For this class, previous work attained the optimal sample complexity for general queries using a two-stage protocol. The first stage localizes the mean. The second-stage queries are chosen after localization and refine the estimate around the decoded center. We show that this interaction can be avoided by constructing a randomized fully non-adaptive protocol that fixes all queries before observing the data and matches the optimal adaptive sample complexity. For target accuracy $ε$ and confidence $1-δ$, its sample complexity scales ",
+    "link": "http://arxiv.org/abs/2608.02538v1",
+    "publishedAt": "2026-08-03",
     "categories": [
-      "cs.CV",
-      "cs.AI",
+      "stat.ML",
+      "cs.IT",
+      "cs.LG",
+      "math.ST"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02533v1",
+    "title": "Optimal Unambiguous DNFs and Alon-Saks-Seymour",
+    "authors": [
+      "Chirag Pabbaraju"
+    ],
+    "summary": "We construct unambiguous DNFs having width $O(n)$ but $0$-certificate complexity $Ω(n^2)$. By utilizing the special structure of these DNFs, we prove a lifting theorem with a constant-sized gadget that lifts the DNF to a communication problem, while losslessly translating the separation in certificate complexity to a separation in communication complexity. This leads to an optimal refutation of the Alon-Saks-Seymour conjecture, as well as an optimal communication lower bound for the Clique versus Independent Set problem, improving the previous results of Balodis, Ben-David, Göös, Jain and Kothari (FOCS 2021, SICOMP 2023) by several doubly logarithmic factors. As further applications of our construction to query complexity and learning theory, we exhibit: (a) a family of Boolean functions t",
+    "link": "http://arxiv.org/abs/2608.02533v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.CC",
+      "cs.DM",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02528v1",
+    "title": "Uncertainty Is Not Enough: Value-of-Information Routing for Mixtures of LoRA Experts",
+    "authors": [
+      "Tom Saliencro",
+      "Rohan Desai",
+      "Priya Nair",
+      "Maya Lindqvist",
+      "Daniel Whitmore"
+    ],
+    "summary": "Mixtures of low-rank adaptation experts increase parameter-efficient capacity by routing each input through a subset of adapters. Recent dynamic routers activate more experts when the router or prediction is uncertain. This rule silently equates uncertainty with useful additional computation: an uncertain example may contain complementary, unqueried expert evidence, but it may instead remain ambiguous after every expert agrees. We formulate routing as certified value-of-information allocation. VI-MoLE learns the counterfactual risk remaining after each expert prefix, converts these predictions into simultaneous upper-risk certificates on held-out calibration data, and spends a global adapter budget on the token--layer action with the largest certified marginal risk reduction per unit cost.",
+    "link": "http://arxiv.org/abs/2608.02528v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.02520v1",
+    "title": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+    "authors": [
+      "Saman Sarker Joy",
+      "Niloy Farhan"
+    ],
+    "summary": "Large language models (LLMs) are increasingly used for health-related advice. Existing research measures their safety with static questions rather than pressured patient-facing conversations. We introduce MedPRESS, a multi-turn benchmark for measuring patient-pressure-induced sycophancy in LLMs. MedPRESS contains 600 medically grounded five-turn dialogues across three scenario families: medication and treatment demand, personal health self-care, and symptom triage and care resistance. Each dialogue begins with a health query and escalates through personal experience, social proof, external evidence claims, and direct adversarial challenge. We evaluate 20 LLMs across general, medical-domain, lightweight, large, open-weight, and proprietary families using structured judging and safety-focuse",
+    "link": "http://arxiv.org/abs/2608.02520v1",
+    "publishedAt": "2026-08-03",
+    "categories": [
       "cs.CL"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1136041",
+    "title": "Julius AI",
+    "company": "Hot9ja",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
+      "All rights reserved",
+      "Please mention the word **HOLY** and tag RMjAuMTAyLjQ2LjIwMQ== when applying to show you read the job post comp"
+    ],
+    "skills": [],
+    "location": "Ajmer, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-julius-ai-hot9ja-1136041",
+    "postedAt": "2026-08-03",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1135925",
     "title": "L’Évolution Du Télétravail Les Enseignements Du Rapport De La DARES Novembre 2024",
@@ -867,26 +894,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/",
     "postedAt": "2026-07-31",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135745",
-    "title": "Regional General Manager Airports",
-    "company": "WestJet",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Why WestJet Since our story took off in 1996, WestJet has strived to enrich the lives of everyone in our world; a career with us is no exception",
-      "We’re proud to be one of Canada’s most admired and respected corporate cultures and continuously aim for the highest standards of service and success"
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Mississauga, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-    "postedAt": "2026-07-31",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T02:05:18.272Z';
+export const dataFetchedAt = '2026-08-04T06:23:35.175Z';
