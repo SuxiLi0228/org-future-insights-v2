@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-opens-up-robotaxi-service-in-dallas-to-everyone-1785864661000",
-    "title": "Waymo opens up robotaxi service in Dallas to everyone",
-    "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-    "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+    "id": "news-spacex-doubles-revenue-on-anthropic-and-google-compute-deals-1785875790000",
+    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+    "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-which-skills-can-ai-not-replace-1785857940000",
-    "title": "Which skills can AI not replace?",
-    "link": "https://www.hrdive.com/news/which-skills-can-ai-not-replace/826951/",
-    "summary": "Employers are in need of &ldquo;durable skills&rdquo; despite swift changes to workplace technology, a Resume Now report indicated.",
+    "id": "news-jury-was-inflamed-by-prejudice-shrm-appeal-argues-1785875280000",
+    "title": "Jury was ‘inflamed by prejudice,’ SHRM appeal argues",
+    "link": "https://www.hrdive.com/news/jury-was-inflamed-by-prejudice-shrm-appeal-argues/826982/",
+    "summary": "In an opening appeal, SHRM argued that a trial it lost late last year was unfair due to how the jury was directed and its &ldquo;excessive&rdquo; award of $11.5 million.",
     "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-1785864054000",
-    "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-    "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "id": "news-android-app-developers-may-be-unwittingly-sharing-their-user-1785875213000",
+    "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
+    "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+    "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -147,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-class-ceiling-what-cultural-background-has-to-do-with-salary-1785856200000",
-    "title": "Class ceiling: What cultural background has to do with salary negotiation",
-    "link": "https://www.hrdive.com/news/negotiation-cultural-background-social-class/826904/",
-    "summary": "A new study shows that social background factors into workers&rsquo; ability to negotiate &mdash; or not &mdash; and how HR professionals judge them.",
+    "id": "news-worker-alleges-lack-of-fossil-fuel-free-401-k-option-violate-1785875220000",
+    "title": "Worker alleges lack of fossil fuel-free 401(k) option violated his religious rights",
+    "link": "https://www.hrdive.com/news/worker-alleges-companys-failure-to-provide-fossil-fuel-free-401k-option/826971/",
+    "summary": "A lawsuit tying a worker&rsquo;s climate objections to his Christian beliefs could set a precedent in the post- Groff&nbsp; landscape, his attorneys argued.",
     "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-1785863148000",
-    "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-    "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-    "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+    "id": "news-open-weight-ai-models-are-catching-up-to-the-frontier-the-sa-1785873926000",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -252,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chros-say-they-are-skeptical-about-ai-readiness-1785856200000",
-    "title": "CHROs say they are skeptical about AI readiness",
-    "link": "https://www.hrdive.com/news/chros-skeptical-regarding-ai-readiness/826929/",
-    "summary": "The executives with the most insight into workforce preparedness are the ones most likely to be cautious about timelines, according to a Protiviti survey.",
+    "id": "news-which-skills-can-ai-not-replace-1785857940000",
+    "title": "Which skills can AI not replace?",
+    "link": "https://www.hrdive.com/news/which-skills-can-ai-not-replace/826951/",
+    "summary": "Employers are in need of &ldquo;durable skills&rdquo; despite swift changes to workplace technology, a Resume Now report indicated.",
     "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
@@ -269,7 +269,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-ip-1785836333000",
     "title": "从追番到下单，国风IP正在重塑硬核数码消费",
     "link": "https://36kr.com/p/3925017067862409?f=rss",
-    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，��类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月",
+    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -333,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hackers-steal-over-130m-by-exploiting-bug-in-offline-hardwar-1785860879000",
-    "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-    "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-    "summary": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+    "id": "news-anthropic-signs-10b-deal-with-ai-cloud-startup-volta-1785872920000",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -358,17 +358,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-will-ai-affect-workplace-accommodations-1785856200000",
-    "title": "How will AI affect workplace accommodations?",
-    "link": "https://www.hrdive.com/news/how-will-ai-affect-workplace-accommodations/826896/",
-    "summary": "&ldquo;AI is busting down barriers,&rdquo; said Julie Hocker, assistant secretary of labor for disability employment policy.",
+    "id": "news-class-ceiling-what-cultural-background-has-to-do-with-salary-1785856200000",
+    "title": "Class ceiling: What cultural background has to do with salary negotiation",
+    "link": "https://www.hrdive.com/news/negotiation-cultural-background-social-class/826904/",
+    "summary": "A new study shows that social background factors into workers&rsquo; ability to negotiate &mdash; or not &mdash; and how HR professionals judge them.",
     "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -773,7 +772,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuMTY5LjkzLjE3Nw== when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMjAuMTcyLjM3LjIyNQ== when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -790,7 +789,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuMTY5LjkzLjE3Nw== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMjAuMTcyLjM3LjIyNQ== when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -834,4 +833,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T19:25:08.365Z';
+export const dataFetchedAt = '2026-08-04T21:07:18.106Z';
