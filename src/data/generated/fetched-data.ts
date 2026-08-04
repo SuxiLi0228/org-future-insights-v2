@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-doubles-revenue-on-anthropic-and-google-compute-deals-1785875790000",
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-    "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+    "id": "news-elon-musk-repeatedly-one-upped-his-execs-on-spacex-8217-s-fi-1785882658000",
+    "title": "Elon Musk repeatedly one-upped his execs on SpaceX&#8217;s first earnings call",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+    "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-android-app-developers-may-be-unwittingly-sharing-their-user-1785875213000",
-    "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
-    "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-    "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+    "id": "news-lucid-8217-s-turnaround-plan-hinges-on-1-4b-in-cash-savings--1785882240000",
+    "title": "Lucid&#8217;s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+    "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+    "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-open-weight-ai-models-are-catching-up-to-the-frontier-the-sa-1785873926000",
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "id": "news-how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026-1785881910000",
+    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+    "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -333,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-signs-10b-deal-with-ai-cloud-startup-volta-1785872920000",
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "id": "news-spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this--1785877646000",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -772,7 +772,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuMTcyLjM3LjIyNQ== when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMTcyLjIxMi4xNjAuNTA= when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -789,7 +789,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuMTcyLjM3LjIyNQ== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMTcyLjIxMi4xNjAuNTA= when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -833,4 +833,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T21:07:18.106Z';
+export const dataFetchedAt = '2026-08-04T22:58:42.448Z';
