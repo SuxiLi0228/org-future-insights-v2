@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-05-auto",
+    "date": "2026-08-05",
+    "session": "auto",
+    "title": "2026-08-05 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-05-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: US robot restrictions, and ICE&#8217;s DNA grab",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "id": "sig-2026-08-05-auto-2",
+        "emoji": "⚠️",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+        "detail": "来源: TechCrunch。Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+      },
+      {
+        "id": "sig-2026-08-05-auto-3",
+        "emoji": "🚨",
+        "title": "Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped",
+        "summary": "Google's new ATLAS report maps 15 million AI interactions across jobs and tasks, revealing what HR leaders need to know about AI adoption risks. The post Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Google's new ATLAS report maps 15 million AI interactions across jobs and tasks, revealing what HR leaders need to know about AI adoption risks. The post Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/googles-answer-to-ai-uncertainty-15-million-real-conversations-mapped-2/"
+      },
+      {
+        "id": "sig-2026-08-05-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：AURORA-LM: Autoencoding Unified Representation for Continuou...",
+        "summary": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. ",
+        "detail": "作者: Jiajun Liang, Yucheng Liao, Yukang Cao。Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or compress autoencoded latents to ease diffusion, sacrificing token-level fidelity. Instead of simplifying the representation to suit the generative model, we preserve a high-capacity, decodable text latent and design the diffusion model to learn its distribution directly. We introduce AURORA-LM, a continuous-latent diffusion language model that separates the construction of a decodable text representation from the modeling of its distribution. A Query-based Encoder-Decoder orga",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.02602v1"
+      },
+      {
+        "id": "sig-2026-08-05-auto-5",
+        "emoji": "💼",
+        "title": "Kleverio 正在招募 AI Integration &amp; Automation",
+        "summary": "岗位类型：业务+AI 复合岗。Please mention the word **SWANKY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you r",
+        "detail": "技能要求: 未标注。Please mention the word **SWANKY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you r",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Kleverio"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Kleverio",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-integration-amp-automation-kleverio-1136035"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-05-1",
+        "priority": "medium",
+        "action": "关注「The Download: US robot restrictions, and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-05-2",
+        "priority": "medium",
+        "action": "关注「Spotify expands AI remix and covers proj」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-05-3",
+        "priority": "high",
+        "action": "关注「Google&#8217;s answer to AI uncertainty:」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-05-4",
+        "priority": "medium",
+        "action": "关注「研究速递：AURORA-LM: Autoencoding Unified Rep」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-05-5",
+        "priority": "medium",
+        "action": "关注「Kleverio 正在招募 AI Integration &amp; Autom」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Kleverio"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 54,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-05 生成，聚合了 30 条新闻、20 篇论文、4 个岗位。",
+    "fetchWindow": "2026-08-05 00:00 - 2026-08-05 23:59"
+  },
+  {
     "id": "report-2026-08-04-auto",
     "date": "2026-08-04",
     "session": "auto",

@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-now-has-over-300m-subscribers-1785851578000",
-    "title": "Spotify now has over 300M subscribers",
-    "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-    "summary": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+    "id": "news-spotify-expands-ai-remix-and-covers-project-with-merlin-part-1785858606000",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
-    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
-    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
-    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
-    "publishedAt": "2026-08-03",
+    "id": "news-which-skills-can-ai-not-replace-1785857940000",
+    "title": "Which skills can AI not replace?",
+    "link": "https://www.hrdive.com/news/which-skills-can-ai-not-replace/826951/",
+    "summary": "Employers are in need of &ldquo;durable skills&rdquo; despite swift changes to workplace technology, a Resume Now report indicated.",
+    "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785839241000",
-    "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-    "link": "https://36kr.com/p/3925067918227591?f=rss",
-    "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。 而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。 针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。 1.采用分布式求解技术，提高电源核签效率3-10倍 谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国",
+    "id": "news-pk-1785858382000",
+    "title": "“车企牌”电池相继上车，不只是PK宁德时代",
+    "link": "https://36kr.com/p/3925382191708552?f=rss",
+    "summary": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。 车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。 这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。 “甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。 这与过往的动力电池合作有着明显区别。据36氪了解，长期以来，头部动力电池公司如宁德时代等凭借技术实力，常常为车企供应相对成熟的系统级方案，尤其是旗舰类产品，如麒麟电池、神行电池等，车企能做的往往是提出需求，而定制开发的空间则相对有限。 但从“车企牌”电池的核心指标来看，车企往往有着更多的开发需要。比如巨鲸电池主打全温度周期的热防护标准，小米龙甲电池强调2000次循环和500J底部撞击标准等，理想汽车牌电池也追求“8年16万公里电池健康度不低于75%”，蔚来也提出过15年循环寿命的电池研发计划。 此外，动力电池做为电动汽车的心脏级零部件，常年占据30%成本结构，车企来把控电池开发和生产的全流程，从长期来看，也能确保供应链的稳定性和成本掌控力。 综合来看，车企对动力电池的全流程掌控需要，注",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -81,16 +81,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-38-1785851652000",
-    "title": " 新公司开在村委会一楼，38岁的王思聪，还不想接班吗？ ",
-    "link": "https://www.huxiu.com/article/4880644.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 谁能想到“国民老公”王思聪曾经投资的公司，会和“限制高消费”这几个字连在一起。 提起王思聪，年轻人的第一反应，可能是那个为IG战队砸钱、把电竞世界冠军奖杯带回中国的“王校长”；年长一些的朋友，想到的更多是他身后那位一手缔造商业帝国的父亲——王健林。 图为万达产投董事变动情况图源：网络 据企查查披露的信息，7月27日，万达产业投资有限公司（简称“万达产投”）更新工商信息，王思聪卸任公司董事，董事张春远同步卸任，陈洪涛新晋出任董事。 凤凰网《风暴眼》梳理发现，这已经是王思聪近年来第三次从万达核心主体卸任董事，而在更早之前，他的董事身份还有过一段更曲折的来回进出，直到这次万达产投的卸任，才算彻底清空了万达体系内所有的“董事”头衔。 董事席位清空背后，38岁的王思聪，到底是不想接班，还是已经接不了班？脱离万达平台独自闯荡十余年，他一手铺展的创业路又走出了怎样一番景象？ 01 父子俩在万达的18年 接班万达的起点是一场父子间的期许。 据报道，王思聪在2009年从伦敦大学学院的哲学系毕业后，和父亲有过一次长谈。 王健林让他毕业之后就进万达，说“万达的江山将来终究是你的”，同年8月，王思聪就进了万达集团董事会。 但没过几年，这份笃定就开始松动。 图源：网络 2012年，在一档访谈节目上，主持人直接问王健林是不是准备把万达交给儿子，他这次没把话说死",
+    "id": "news--1785859236000",
+    "title": " 最近，为何互联网大厂都开始做同一件事？ ",
+    "link": "https://www.huxiu.com/article/4880659.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约4300字·预计阅读5分钟 中国互联网大厂不约而同地在做同一件事。 7月7日，京东零售宣布取消C4、C5两级管理职级，相关人员统一挂靠C3。管理层级直接砍掉两层。7月8日，腾讯在游戏国内发行线试点\"负责人制\"，核心动作是取消L1/L2管理职级，总监、组长不再叫总监、组长，改叫\"负责人\"和\"成员\"。同日，字节跳动启动上半年绩效评估，CEO梁汝波时隔四年更新十条领导力原则，把\"杜绝空转\"\"拒绝躺平式管理\"写进晋升和年度考核，管理者需要证明自己不是\"管了什么\"，是\"做了什么\"。往前回溯，百度4月砍掉了全部字母职级标签，T、P、E、M、Band这些符号一夜之间消失了，统一改成5到12级的数字序列。 腾讯。京东。字节。百度。四家公司，四个不同的行业位置，在同一时刻，向同一个群体同时宣战。那个群体叫中层管理者。 这不是巧合。当一个信号在不同组织里独立出现，它就不是管理决策了。它是结构性力量在推动。 今天聊聊这个结构性力量到底是什么。以及，砍掉中层，真的能解决大厂真正的问题吗？ 一、中层的价值到底是什么？以及为什么AI让你不需要它了？ 先做一个概念澄清。中层管理者在互联网公司的核心价值是什么？ 有人说是\"管人\"，也就是定目标、盯进度、打分、淘汰。没错。有人说是\"对齐\"，把上面的战略翻译成下面的任务，把下面的执行汇总成上面的汇报。没错。有人说是",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -111,7 +112,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
     "title": "Trump’s AI protectionism has come for robotics",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -120,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-moves-to-give-its-instant-payments-network-a-business--1785850277000",
-    "title": "India moves to give its instant payments network a business model",
-    "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-    "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+    "id": "news-texas-halts-new-data-centers-as-governor-calls-for-audits-1785858155000",
+    "title": "Texas halts new data centers as governor calls for audits",
+    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "summary": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -146,24 +147,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-leave-return-to-work-approaches-should-be-early-coordi-1785790380000",
-    "title": "After leave, return-to-work approaches should be ‘early, coordinated and sustained,’ DOL official says",
-    "link": "https://www.hrdive.com/news/after-leave-return-to-work-approaches-should-be-early-coordinated-and-su/826866/",
-    "summary": "The likelihood of an employee returning to work after injury drops off significantly as the weeks go on, Julie Hocker said.",
-    "publishedAt": "2026-08-03",
+    "id": "news-class-ceiling-what-cultural-background-has-to-do-with-salary-1785856200000",
+    "title": "Class ceiling: What cultural background has to do with salary negotiation",
+    "link": "https://www.hrdive.com/news/negotiation-cultural-background-social-class/826904/",
+    "summary": "A new study shows that social background factors into workers&rsquo; ability to negotiate &mdash; or not &mdash; and how HR professionals judge them.",
+    "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-ip-1785836333000",
-    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
-    "link": "https://36kr.com/p/3925017067862409?f=rss",
-    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
+    "id": "news--1785839241000",
+    "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+    "link": "https://36kr.com/p/3925067918227591?f=rss",
+    "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。 而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。 针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。 1.采用分布式求解技术，提高电源核签效率3-10倍 谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -183,19 +183,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785851344000",
-    "title": " 明星别轻易哭穷 ",
-    "link": "https://www.huxiu.com/article/4880642.html?f=rss",
-    "summary": "本文来自微信公众号： 文娱先声 ，作者：先声编辑部 这几天，“糊咖”罗正成了娱乐圈最意外的流量。 不是因为新剧爆了，也不是因为恋情曝光，而是因为一句”出道十年，银行卡里只剩4800元”。但从一开始全网心疼，到后来网友开始算账、扒收入，质疑是不是在卖惨，这场舆论反转，不过短短几天。 有人说他是真惨，也有人说他是在立人设。但如果把视角放大一点，会发现罗正身上的争议，其实折射出的是娱乐圈另一种变化：粉丝依然慕富，但也开始心疼糊咖；大众依然愿意共情，但对“卖惨”的容忍度却越来越低。 复盘一下，罗正这次翻红，几乎踩中了所有互联网最容易传播的情绪点。 “出道十年，存款4800元。” “背负百万债务。” “为了解约还债，账户资产被冻结。” 对于普通人来说，这样的故事天然具有冲击力。毕竟，在很多人的印象里，明星就意味着高收入、豪宅豪车、光鲜亮丽。一个演了十年戏的演员，最后银行卡里只剩几千块，很容易打破大众对明星行业的固有认知。 于是，第一波舆论几乎清一色都是心疼。不少网友感慨：“第一次觉得明星比我还穷。”“原来娱乐圈也有打工人。” 随着事件持续发酵，越来越多人开始了解罗正这些年的经历。和前公司长期陷入合同纠纷，资源几乎停摆；官司持续多年，个人账户被冻结；影视作品虽然不少，但大多是成本不高的网剧，工作机会断断续续。 这些信息，让很多人觉得，4800元并不是一个故意制造的话题，而是真实困境留下的结果。",
-    "publishedAt": "2026-08-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -226,17 +213,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-the-future-of-data-centers-portable-runware-builds-a-pod--1785848400000",
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "id": "news-walmart-completes-its-acquisition-of-tv-advertising-company--1785857902000",
+    "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+    "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+    "summary": "The acquisition, which was first announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -252,24 +238,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
-    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
-    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
-    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
-    "publishedAt": "2026-08-03",
+    "id": "news-chros-say-they-are-skeptical-about-ai-readiness-1785856200000",
+    "title": "CHROs say they are skeptical about AI readiness",
+    "link": "https://www.hrdive.com/news/chros-skeptical-regarding-ai-readiness/826929/",
+    "summary": "The executives with the most insight into workforce preparedness are the ones most likely to be cautious about timelines, according to a Protiviti survey.",
+    "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-270-2-b-1785832319000",
-    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-    "link": "https://36kr.com/p/3924953058605444?f=rss",
-    "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 &nbsp; 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮��续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极",
+    "id": "news-ip-1785836333000",
+    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
+    "link": "https://36kr.com/p/3925017067862409?f=rss",
+    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -289,19 +275,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1785851113000",
-    "title": " 阿维塔被曝“拉踩极氪”，车企暗斗再升级？ ",
-    "link": "https://www.huxiu.com/article/4880640.html?f=rss",
-    "summary": "本文来自微信公众号： 厚雪商业 ，作者：王欣 近日，一张有关阿维塔与极氪的截图，让车企之间暗地里的舆论争斗，被摆在了台面上。 7月27日，有网友曝出在一个名为“小塔创作者联盟”的社群中，有运营人员围绕“极氪跨境锁车”事件，整理出了引导创作者内容创作的话题方向，还建议创作者借机对比阿维塔车型的优势。 这一相当于官方带头拉踩其他竞争品牌的截图一经流出，舆论一片哗然，曾经一直活在企业高管抱怨中的“友商派水军拉踩”行为，这一次算是有了“铁证”。 阿维塔运营人员后续通过寻找博主沟通的方式，澄清是第三方供应商将热点素材直接分享至社群，未经官方审核，属于“乌龙事件”；阿维塔方面也用官方账号“塔塔小助理@阿维塔”，在群内补充了通知，明确要求作者严禁转发、讨论、拉踩调侃友商相关负面素材，但也没有平息舆论。 极氪的法务部随后也用“正面硬刚”的态度回应，大致意思就是：感谢用户的真实意见和批评，但对恶意编造、篡改事实和有组织误导公众的行为，将依法维护合法权益。 （图1图源极氪官方微博） 这场风波，让正在开启第二次上市冲刺的阿维塔再陷争议。这次“乌龙事件”，无论是不是因为第三方供应商的过失，其造成的影响，也需要阿维塔自己承担。 而更需要行业思考的是，在愈发激烈的淘汰赛之下，真正能打动消费者的宣传方式究竟是什么？ 官方下场拉踩？阿维塔陷入争议 整体上，阿维塔如今身陷质疑实则并不算冤。从事件的导火索，到后续的补",
-    "publishedAt": "2026-08-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -332,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to--1785844800000",
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "id": "news-elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesl-1785856806000",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
     "publishedAt": "2026-08-04",
     "source": "TechCrunch",
     "tags": [
@@ -357,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
-    "title": "Week in review: How does HR use ChatGPT?",
-    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
-    "publishedAt": "2026-08-03",
+    "id": "news-how-will-ai-affect-workplace-accommodations-1785856200000",
+    "title": "How will AI affect workplace accommodations?",
+    "link": "https://www.hrdive.com/news/how-will-ai-affect-workplace-accommodations/826896/",
+    "summary": "&ldquo;AI is busting down barriers,&rdquo; said Julie Hocker, assistant secretary of labor for disability employment policy.",
+    "publishedAt": "2026-08-04",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -371,10 +344,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-1785831501000",
-    "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
-    "link": "https://36kr.com/p/3924913931679877?f=rss",
-    "summary": "36氪企业全情报带你发现涨停背后的机会 开篇，先给大家送个福利 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。 奖品有影石Insta360&nbsp;Luna&nbsp;Ultra、运动相机挂脖支架、36氪航天徽章。 祝大家都能中奖，点击即可参与：👇 https://lucky.nocode.com/v2/s/8VhKju6Ehgy 扫码抽奖！ 今日A股收盘数据 上证指数： 3822.28&nbsp;点，+0.33% 深证成指： 13885.71&nbsp;点，+3.25% 创业板指： 3488.97&nbsp;点，+5.64% &nbsp; 东山精密8月4日上涨10.00% 179.09 &nbsp;+16.28 &nbsp;+10.00% 当日开盘价168.76；交易量86.82万手； 换手率6.26%；放量幅度0.07% 3日涨幅+10.69%；5日涨幅-6.09% 成交额：153.29亿；总市值：3280.23亿 &nbsp; 舆情分析：积极信息占比超九成，市场关注度持续提升 近日，深市存储产业链相关公司接连释放积极信号，业界看好行业高景气度持续性。大普微发布自研SLC+QLC双模SSD方案，已进入客户灰度验证阶段，其2026年半年度预计归母净利润12亿-13.5亿元。江波龙控股股东提议回购股份",
+    "id": "news-270-2-b-1785832319000",
+    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+    "link": "https://36kr.com/p/3924953058605444?f=rss",
+    "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 &nbsp; 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -393,6 +366,32 @@ export const generatedNews: NewsItem[] = [
     "source": "量子位",
     "tags": [
       "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1785838917000",
+    "title": "瑞幸的规模红利结束了？",
+    "link": "https://www.tmtpost.com/8089763.html",
+    "summary": "瑞幸的故事，放在更大的背景里看，是中国消费行业正在经历的一次集体转向。",
+    "publishedAt": "2026-08-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-montana-8217-s-new-experimental-drug-rules-1785500160000",
+    "title": "The Download: Montana&#8217;s new experimental drug rules",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
+    "publishedAt": "2026-07-31",
+    "source": "MIT Technology Review",
+    "tags": [
       "ai",
       "technology"
     ]
@@ -772,7 +771,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuNjQuMTczLjEzMA== when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -789,7 +788,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuNjQuMTczLjEzMA== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMjAuMTYxLjQ0LjE4Mg== when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -830,24 +829,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-failure-breeds-success-deliberate-development-1135924",
     "postedAt": "2026-08-02",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135761",
-    "title": "Journalist Citywire Spain",
-    "company": "Citywire",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "We are looking for a Madrid-based Journalist to join the team behind Citywire Spain",
-      "This role is for a journalist who wants to go beyond press releases",
-      "You will cover the Spanish asset management and wealth management sectors, breaking exclusive news, interviewing key industry decision-makers, and"
-    ],
-    "skills": [],
-    "location": "Madrid, Madrid, Comunidad de Madrid, España",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-spain-citywire-1135761",
-    "postedAt": "2026-07-31",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T14:00:21.301Z';
+export const dataFetchedAt = '2026-08-04T16:17:47.014Z';
