@@ -42,10 +42,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-leave-return-to-work-approaches-should-be-early-coordi-1785790380000",
-    "title": "After leave, return-to-work approaches should be ‘early, coordinated and sustained,’ DOL official says",
-    "link": "https://www.hrdive.com/news/after-leave-return-to-work-approaches-should-be-early-coordinated-and-su/826866/",
-    "summary": "The likelihood of an employee returning to work after injury drops off significantly as the weeks go on, Julie Hocker said.",
+    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
+    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
+    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
+    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -56,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1785812705000",
-    "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
-    "link": "https://36kr.com/p/3924634192673153?f=rss",
-    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。 随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础能力。 此前，国内空间目标监测、轨道预警等任务主要由国家级科研与工程体系承担。但随着商业航天进入规模化发展阶段，大量商业卫星进入轨道运行，卫星运营方对于碰撞预警、轨道安全管理等服务的需求不断增加，市场亟需商业化空间态势感知解决方案。 清博空天成立于2025年8月，是一家专注于太空安全领域的科技服务公司，主要面向卫星运营方、星座建设方等客户，为在轨卫星提供空间态势感知、空间碎片监测以及碰撞预警服务。 空间态势感知解决的是“看清太空、预测风险”的问题，它可以类比为地面交通中的地图导航系统，高德地图关注的是城市道路中的车辆流动，而SSA关注的是近地轨道中的“星流”；天网系统通过海量数据识别风险目标，而SSA则需要在轨道环境中预测卫星之间可能发生的碰撞风险。 ",
+    "id": "news--1785839241000",
+    "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+    "link": "https://36kr.com/p/3925067918227591?f=rss",
+    "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。 而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。 针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。 1.采用分布式求解技术，提高电源核签效率3-10倍 谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -70,10 +70,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-1785815198000",
-    "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
-    "link": "https://www.qbitai.com/2026/08/465767.html",
-    "summary": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。",
+    "id": "news-24-openai-ai-1785835366000",
+    "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+    "link": "https://www.qbitai.com/2026/08/465792.html",
+    "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
     "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
@@ -83,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785823814000",
-    "title": " 今夏最恐怖的爱情故事，是“老实人”与“伪人”谈恋爱 ",
-    "link": "https://www.huxiu.com/article/4880476.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：口口，编辑：陆一鸣 当观众已经被类型恐怖片吓了二十年，《痴迷》却呈现另一个惊悚故事：让人害怕的，未必是鬼怪，也可以是一个看起来再普通不过的无色无味剧毒的老实人，以及他的“伪人”完美女友。 上映10天后，《痴迷》以累计超过1亿元的票房拿下猫眼榜单“进口爱情片”赛道的内地票房冠军。 这还只是《痴迷》风靡全球的一个缩影。自5月15日在北美上映后，《痴迷》已在全球狂揽4.93亿美元的票房。作为一部制作成本仅有75万美元的小成本电影，它最初并没有被市场寄予太高期待，但凭借观众口碑不断发酵，票房一路逆袭，甚至在上映第三周创造了自1982年《E.T.外星人》以来罕见的单周票房增长纪录。 国内上映前，《痴迷》的豆瓣分为7.7，20万人看过后评分仅下滑至7.6分，证明大部分观众对于这部新片给予了肯定。不过，也有一些观众觉得故事单薄，“为愿望付出难以承受的代价”这一设定极其老套，二十分钟就能讲完的故事非要拍成一个半小时。 那么，一部没有复杂世界观、没有密集jump scare，甚至连超自然设定都有些老套的恐怖爱情片，观众为什么仍然愿意为它买单？ （以下内容包含部分剧透，敬请留意。） 一款无色无味剧毒的“老实人” 《痴迷》是以男主贝尔的视角展开的。这是一个常见但有效的叙事方法，让观众相信，贝尔似乎只是一个普通的倒霉蛋。 因为懦弱而错失了向女主妮基表白的机会后，贝尔在",
+    "id": "news--1785839011000",
+    "title": " 白酒上半年出口额“腰斩”，回流酒套利空间压缩所致？ ",
+    "link": "https://www.huxiu.com/article/4880585.html?f=rss",
+    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 根据中国海关发布的2026上半年白酒出口数据，今年上半年白酒出口全球的量额分别录得759万升、2.83亿美元（约合人民币19.09亿元），同比分别下滑8.67%、46.6%。整体出口量小幅下滑，而出口额则呈现近乎“腰斩”式的断崖下跌，使得出口均价同样大幅下滑41.53%至37.22美元/升。 这一数据的背后，折射出以茅台为代表的高端白酒出口自2026年开始的大幅收缩。一方面，国内需求的急剧萎缩降低了出口回流酒的市场空间；另一方面，国际市场整体白酒消费仍处于培育最初期，远不足以弥补回流酒收缩带来的规模缺口。从茅台股份公司发布的一季报也能清晰看到这一趋势——其海外营收在今年1-3月同比下滑86.41%，已从11.19亿元骤降至1.52亿元。 01 主要目的地市场全面收缩，高端市场尤为惨烈 从目的地结构来看，2026上半年白酒出口呈现“全线收缩”的态势。 中国香港作为白酒出口的第一大目的地，上半年出口量从280.31万升降至217.41万升，同比下滑22.43%；出口额从2.20亿美元骤降至1.17亿美元，同比下滑46.89%。香港作为白酒转口贸易的核心枢纽，其数据的大幅下滑不仅反映了本地需求的萎缩，更折射出经香港中转至其他市场的白酒流量正在急剧减少。 中国澳门同样未能幸免。上半年出口量从43.65万升降至40.34万升，下滑7.59%；出",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -96,10 +96,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-960-meta-20-1785824160000",
-    "title": "一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？",
-    "link": "https://www.tmtpost.com/8089647.html",
-    "summary": "Meta 豪掷数千亿押注 AI 算力未来。",
+    "id": "news--1785838943000",
+    "title": "京运通：刚和乌海国资打完官司，难道又要和乐山国资起冲突？",
+    "link": "https://www.tmtpost.com/8089847.html",
+    "summary": "乐山后悔引入京运通吗？",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -147,24 +147,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-barber-school-settles-claim-it-wouldn-t-employ-more-than-one-1785790380000",
-    "title": "Barber school settles claim it wouldn’t employ more than one pregnant worker",
-    "link": "https://www.hrdive.com/news/barber-school-settles-claim-wouldnt-employ-more-than-one-pregnant-worker/826867/",
-    "summary": "Pregnancy discrimination claims have featured heavily in recent EEOC litigation despite ongoing controversy over agency regulations.",
+    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
+    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
+    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
+    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-36-10-1785812390000",
-    "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
-    "link": "https://36kr.com/p/3924628805351811?f=rss",
-    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。 陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。 目前，陶世产品已进入富士康、蓝思科技、先导智能、凌云光等企业供应链，并在人形机器人领域与近百家机器人企业开展合作。其中，公司面向灵巧手推出的关节模组已签署10万台供货协议，客户包括灵心巧手、超维动力、绳肌妙算、中科硅纪等。 随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速器也是机器人产业链国产替代的重要环节之一。 与传统谐波、RV、行星减速器不同，陶世选择的是正交传动路线。“传统方案中，要实现90度转向通常需要额外增加转角器，这",
+    "id": "news-ip-1785836333000",
+    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
+    "link": "https://36kr.com/p/3925017067862409?f=rss",
+    "summary": "当国风联名吹到硬核数码 这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。 想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。 在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。 社交平台上，催促官方赶紧售卖周边的声音也此起彼伏， “急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp; 图源@电影八仙 可见， 年轻人对国风IP是越来越上头了。 数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示， 91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。 也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。 听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。 比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。 这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。 7月2",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -175,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-app-75-gpu-1785806861000",
-    "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-    "link": "https://www.qbitai.com/2026/08/465732.html",
-    "summary": "出海AI，正被“三重算力锁链\"捆死",
+    "id": "news-harmonyos-7-1785835088000",
+    "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+    "link": "https://www.qbitai.com/2026/08/466262.html",
+    "summary": "Skill和Agent也能被封装调用",
     "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
@@ -188,10 +188,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785823200000",
-    "title": " 中国最被低估的省份，湖南到底有多硬？ ",
-    "link": "https://www.huxiu.com/article/4880430.html?f=rss",
-    "summary": "2.7%背后的湖南，被严重低估了。",
+    "id": "news--1785838881000",
+    "title": " 半蹲风波之后，我悟了这份电影舆情指南 ",
+    "link": "https://www.huxiu.com/article/4880583.html?f=rss",
+    "summary": "本文来自微信公众号： 四味毒叔 ，作者：四味小小编，编辑：晶晶 任何时候，代表“大多数人”的立场总能占据制高点。 普通观众就是“大多数人”。 这个群体才是舆情冲击波的右位，也意味着这个站位无惧任何解读与“流派”。 本文图片来自网络 《奥德赛》打死都没想到，自己在老家顺风顺水，到了中国搞首映礼时，因为主持人一个“半蹲递话筒”被一群网民发言抵制。 这几天关于“蹲”和“跪”的讨论也甚嚣尘上，声讨者言之凿凿，看图说话，从主持人卑躬屈膝聊到庚子之乱，大有主题升华的意味。 诺兰估计也是懵的： 我已是个用黑人演美人的导演，深谙平等之道，这电影摆明了要冲奥斯卡，怎么到了这里我成“洋大人”了？ 宣发团队更是恼火，虽然也有人客观地阐述主持人采访时的意图，但他们也知道《奥德赛》已经引来了他们最不想惹的群体： 民粹流。 民粹流在影视界搅动的能量巨大，因势利导能让一部电影赚得盆满钵满。放任自流能让一部电影无声撤档。 《奥德赛》不至于撤档，只是原本内地上映就距北美晚了近一个月，首映礼偏偏又闹出“体面”风波，多少为这部影片带来了负面印象，虽然印象本身不是主创团队造出来的。 只能说人是环境的产物，电影或其他文化产品是环境的产物。 舆情也是环境的产物。 至于环境如何，近五年来叵测的舆情大概能让旁观者一目了然。 01 舆情可控，全凭质量撑台面 今年上半年，遭到全网抵制的《监狱来的妈妈》为公众展现了一次民意汹汹的负面案",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -201,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785823920000",
-    "title": "喊了好久的 “AI选秀元年”，真来了",
-    "link": "https://www.tmtpost.com/8090410.html",
-    "summary": "108进9，百里挑一的9位女爱豆不是真人，而是AI！",
+    "id": "news--1785838917000",
+    "title": "瑞幸的规模红利结束了？",
+    "link": "https://www.tmtpost.com/8089763.html",
+    "summary": "瑞幸的故事，放在更大的背景里看，是中国消费行业正在经历的一次集体转向。",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -253,24 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nlrb-s-structure-is-unconstitutional-but-its-activities-may--1785775440000",
-    "title": "NLRB’s structure is unconstitutional but its activities may proceed, Texas judge rules",
-    "link": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
-    "summary": "The decision follows up on the U.S. Supreme Court&rsquo;s recent expansion of presidential power to dismiss leaders of federal agencies.",
+    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
+    "title": "Week in review: How does HR use ChatGPT?",
+    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-8-1-deepseek-iphone-1785802684000",
-    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-    "link": "https://36kr.com/p/3924467692927369?f=rss",
-    "summary": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪卸任万达产业投资公司董事 TOP3大新闻 宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英 据天眼查显示，7月31日，杭州天杞优品食品有限公司成立，注册资本为300万元，经营范围包含互联网销售、食品进出口、食品销售等。该公司由浙江三捷投资管理有限公司、百瑞源枸杞股份有限公司共同持股。股权穿透显示，杜建英为该公司实际控制人，宗继昌任公司董事长、经理、法定代表人。 2025年7月，宗继昌与宗婕莉、宗继盛三人起诉宗馥莉，三位原告被律师确认为宗馥莉的“同父异母兄弟姐妹”，寻求阻止宗馥莉处置汇丰银行账户资产，并追讨其父宗庆后生前承诺的21亿美元信托权益。（每日经济新闻、金融界） 美国制裁洽洽瓜子、思念水饺等中国企业 美国国土安全部牵头的相关工作组更新了对中国企业的进口限制清单，将在美国当地时间8月3日生效。包括洽洽食品、思念食品、七匹狼等在内的多家中国企业纳入限制范围，对其生产的相关产品进入美国市场实施进口限制。这意味着，曾经摆上美国消费者餐桌的瓜子、饺子、汤圆等中国食品，以及进入全球市场多年的中国服装品牌，都",
+    "id": "news-270-2-b-1785832319000",
+    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+    "link": "https://36kr.com/p/3924953058605444?f=rss",
+    "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 &nbsp; 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限",
     "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
@@ -281,11 +281,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4k-1785758372000",
-    "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-    "link": "https://www.qbitai.com/2026/08/465673.html",
-    "summary": "商汤预览了SenseNova U1.5 Lite",
-    "publishedAt": "2026-08-03",
+    "id": "news-openai-1785834837000",
+    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+    "link": "https://www.qbitai.com/2026/08/466032.html",
+    "summary": "OpenAI+田园牧歌，画风属实太违和",
+    "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
       "china",
@@ -294,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785821104000",
-    "title": " 打开你的手机，韩国政府正在帮你亏钱 ",
-    "link": "https://www.huxiu.com/article/4880472.html?f=rss",
-    "summary": "本文来自微信公众号： 来咖智库 ，作者：AA，编辑：G3007 2026/08/04 韩国政府给散户发了一把上膛的枪 编者按 暴涨18%、暴跌5%、高开转跌，三天三变，韩国政府造的杠杆ETF正在反噬市场。 如果你刚刚打开手机，财经APP大概推送了这么一条，“KOSPI高开1.5%，冲高2%，然后翻绿。三星转跌。SK海力士转跌”。 你可能会想：等等，上周五不是还暴涨了快18%吗？ 如果你买了任何跟韩国沾边的基金，亚洲主题ETF、科技QDII、甚至重仓三星供应链的A股基金，那么过去三天，你的净值曲线大概长这样。 暴涨18%、暴跌5%、高开翻绿，三天三变。 你可能以为是市场疯了。 不是，是政府疯了。 你可能不买韩股。但这不只是一篇“别人家的故事”，它或许是全球金融市场过去十年最离谱的监管事故，没有之一。 01 政策室长被刑事举报 8月3日，韩国总统府政策室长金容范正式面临刑事指控。 前首尔市议员、在野党国民力量党保守派人士李钟培通过政府在线信访系统向检察厅提交了控告书，罪名是滥用职权、胁迫、妨碍业务。 今年1月，金容范在接受采访时说了一句\"如果纳斯达克允许这类产品，为什么韩国不能允许？\"之后不久，韩国金融服务委员会（FSC）便宣布允许推出2倍单只股票杠杆ETF。 李钟培主张，FSC自1月起已在内部审议相关计划，原定下半年建立监管框架后推出，但金容范不顾金融监管部门的风险警告，强行指示将产",
+    "id": "news--1785838743000",
+    "title": " 一线业务员开始靠“摆拍”完成考核，这个市场到底怎么了？ ",
+    "link": "https://www.huxiu.com/article/4880582.html?f=rss",
+    "summary": "本文来自微信公众号： 新经销 ，作者：殷传家 “又来摆拍啊？”店老板笑着对业务员说。 “哎，对，不这样完不成任务啊。”业务员有些尴尬地回了一句。 晚上七点多，一家社区超市里，一个业务员正把车上的饮料搬进来。他熟练地把产品摆满冰箱，拉排面、调角度、补价签，然后掏出手机拍了几张照片。 拍完后，他对老板说：“我拍完就给你恢复，不耽误你卖货。”这样的场景，就发生在笔者居住的小区楼下。 老板点点头，显然早已见怪不怪。 走进一线市场，你会发现这样的场景并不少见。有些业务员带着产品进店、摆货、拍照，随后又恢复原状。 他们摆的都是自家产品，不是为了抹黑竞品，而是为了让系统里的照片过关。所谓摆拍，就是通过临时陈列制造一份符合考核要求的市场结果。 从结果上看，这与数据造假没有本质区别。 但问题在于——你不摆拍，排名落后的就是你，奖金受影响的也是你。 当越来越多的一线业务员开始在市场“做假动作”时，我们更应该问一句： 现在的市场，到底怎么了？ 摆拍，早已不是秘密 如果你在快消行业跑过一线，就会知道，摆拍并不是什么新鲜事。 美化型摆拍：为了提高冰箱纯净度，就把自家产品拉到每层最前排，拍照后再恢复原状。 任务型摆拍：为了完成堆箱指标，有业务员从经销商仓库临时拉货，在门店门口或角落搭起堆头，拍完再撤。 虚构型摆拍：同一家门店，也可以通过更换货架、冰箱和拍摄角度，被分别拍成多家终端；有些所谓的新开发网点，不过是",
     "publishedAt": "2026-08-04",
     "source": "虎嗅",
     "tags": [
@@ -307,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785823380000",
-    "title": "资本加注引爆前夜，眼科手术机器人首证倒计时",
-    "link": "https://www.tmtpost.com/8090361.html",
-    "summary": "资本密集重仓，抢占全球第一梯队。",
+    "id": "news-adc-1785838734000",
+    "title": "突陷商业贿赂“举报门”，千亿ADC龙头紧急否认",
+    "link": "https://www.tmtpost.com/8089768.html",
+    "summary": "让子弹飞一会儿。",
     "publishedAt": "2026-08-04",
     "source": "钛媒体",
     "tags": [
@@ -359,10 +359,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-how-does-hr-use-chatgpt-1785769980000",
-    "title": "Week in review: How does HR use ChatGPT?",
-    "link": "https://www.hrdive.com/news/week-in-review-how-does-hr-use-chatgpt/826796/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of executives who said their leaders are prepared to lead AI adoption.",
+    "id": "news-can-ai-make-the-workplace-more-accessible-1785769920000",
+    "title": "Can AI make the workplace more accessible?",
+    "link": "https://www.hrdive.com/news/can-ai-make-the-world-more-accessible/826820/",
+    "summary": "In honor of the Americans with Disabilities Act anniversary, a July report showcases the positive potential of artificial intelligence.",
     "publishedAt": "2026-08-03",
     "source": "HR Dive",
     "tags": [
@@ -373,11 +373,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-2026-chinajoy-ai-1785757153000",
-    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-    "link": "https://36kr.com/p/3923717502072969?f=rss",
-    "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。 圆桌嘉宾： 刘士武丨36氪游戏主编（主持） 吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp; 艾文丨阿里云智能集团公共云AI原生事业部副总经理 罗小我丨VAST战略负责人 杨晟丨珀乐互动科技创始人 从实验到产线——AI 工作流的规模化挑战与协作生态 以下为圆桌对话内容，经36氪整理编辑： 刘士武： 大家好！我是本场圆桌的主持人，36氪游戏主编刘士武，我们今天的圆桌主题是从实验到产线，AI工作流的规模化挑战与协作生态。我们今天圆桌四位嘉宾，Funloom AI的吴同老师、阿里云的艾文老师、VAST罗小我老师以及珀乐互动的杨晟老师，其实四位分别代表AI产线上不同的角色以及在发力不同方向。 今天我们将会聊聊大的话题下一些小细节，聊聊AI在游戏行业工作流里面应用",
-    "publishedAt": "2026-08-03",
+    "id": "news-36-1785831501000",
+    "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+    "link": "https://36kr.com/p/3924913931679877?f=rss",
+    "summary": "36氪企业全情报带你发现涨停背后的机会 开篇，先给大家送个福利 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。 奖品有影石Insta360&nbsp;Luna&nbsp;Ultra、运动相机挂脖支架、36氪航天徽章。 祝大家都能中奖，点击即可参与：👇 https://lucky.nocode.com/v2/s/8VhKju6Ehgy 扫码抽奖！ 今日A股收盘数据 上证指数： 3822.28&nbsp;点，+0.33% 深证成指： 13885.71&nbsp;点，+3.25% 创业板指： 3488.97&nbsp;点，+5.64% &nbsp; 东山精密8月4日上涨10.00% 179.09 &nbsp;+16.28 &nbsp;+10.00% 当日开盘价168.76；交易量86.82万手； 换手率6.26%；放量幅度0.07% 3日涨幅+10.69%；5日涨幅-6.09% 成交额：153.29亿；总市值：3280.23亿 &nbsp; 舆情分析：积极信息占比超九成，市场关注度持续提升 近日，深市存储产业链相关公司接连释放积极信号，业界看好行业高景气度持续性。大普微发布自研SLC+QLC双模SSD方案，已进入客户灰度验证阶段，其2026年半年度预计归母净利润12亿-13.5亿元。江波龙控股股东提议回购股份",
+    "publishedAt": "2026-08-04",
     "source": "36氪",
     "tags": [
       "china",
@@ -387,11 +387,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-1785741073000",
-    "title": "年薪百万抢电工，Meta急到自己办技校",
-    "link": "https://www.qbitai.com/2026/08/465223.html",
-    "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍",
-    "publishedAt": "2026-08-03",
+    "id": "news-hy-asr-3-0-preview-1785833901000",
+    "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+    "link": "https://www.qbitai.com/2026/08/465973.html",
+    "summary": "元宝已接入",
+    "publishedAt": "2026-08-04",
     "source": "量子位",
     "tags": [
       "china",
@@ -769,6 +769,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136035",
+    "title": "AI Integration &amp; Automation",
+    "company": "Kleverio",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Please mention the word **SWANKY** and tag RNTIuMTkwLjE0MC4xMzM= when applying to show you r"
+    ],
+    "skills": [],
+    "location": "Ajmer, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-integration-amp-automation-kleverio-1136035",
+    "postedAt": "2026-08-03",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136041",
     "title": "Julius AI",
     "company": "Hot9ja",
@@ -776,7 +791,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuMTAyLjQ2LjIwMQ== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RNTIuMTkwLjE0MC4xMzM= when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -873,28 +888,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-field-maintenance-technician-ctc-lis-cubic-defence-australia-amp-nz-1136005",
     "postedAt": "2026-07-31",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1135736",
-    "title": "AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼",
-    "company": "软装设计公司",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "è¯¥èä½æ¥æºäºçè æä»¬æ­£å¨æé ä¸å¥é¢åæªæ¥ç AI + å¤§æ¨¡å + æºè½ä½å®æè¯¾ç¨ï¼ç°é¢åå¨å½æåå¨æ ¡ç¡å£«/åå£«åå­¦ï¼æä»"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Agent",
-      "LangChain"
-    ],
-    "location": "广州, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/",
-    "postedAt": "2026-07-31",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-04T06:23:35.175Z';
+export const dataFetchedAt = '2026-08-04T10:33:18.353Z';
