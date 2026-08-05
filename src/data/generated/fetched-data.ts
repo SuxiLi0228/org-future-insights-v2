@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-reddit-aims-to-make-8216-karma-8217-less-important-for-first-1785952840000",
-    "title": "Reddit aims to make &#8216;karma&#8217; less important for first-time posters with shift to AI moderation tools",
-    "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-    "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+    "id": "news-moove-raises-250m-to-become-the-backbone-of-the-robotaxi-ind-1785963045000",
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -39,10 +39,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psychological-safety-at-work-may-depend-on-the-state-of-dei--1785945009000",
-    "title": "Psychological safety at work may depend on the state of DEI outside of work",
-    "link": "https://www.hrdive.com/news/psychological-safety-at-work-may-depend-on-the-state-of-dei-outside-of-work/827091/",
-    "summary": "Whether a worker feels their community is inclusive affects how they show up at work, an Elon University report shows.&nbsp;",
+    "id": "news-dmec-ceo-leave-should-be-a-strategic-objective-1785961620000",
+    "title": "DMEC CEO: Leave should be a strategic objective",
+    "link": "https://www.hrdive.com/news/dmec-ceo-leave-should-be-a-strategic-objective/827110/",
+    "summary": "&ldquo;We still design for the able-bodied person more than we think about the population as a whole,&rdquo; Bryon Bass told HR Dive.",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
@@ -104,10 +104,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lucid-motors-just-delayed-its-affordable-ev-now-what-1785952665000",
-    "title": "Lucid Motors just delayed its affordable EV. Now what?",
-    "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-    "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
+    "id": "news-how-lightspeed-found-their-newest-hire-via-instagram-dm-1785962936000",
+    "title": "How Lightspeed found their newest hire… via Instagram DM",
+    "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/",
+    "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -130,10 +130,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-optimism-continues-to-fade-with-job-security-on-the-1785942660000",
-    "title": "Employee optimism continues to fade with job security on the line",
-    "link": "https://www.hrdive.com/news/employee-optimism-continues-to-fade-with-job-security-on-the-line/827072/",
-    "summary": "Confidence in a positive business outlook reached another low point in July, according to Glassdoor, continuing a period of overall decline dating back to 2023.",
+    "id": "news-5th-circuit-applies-longstanding-discrimination-test-even-as-1785961560000",
+    "title": "5th Circuit applies longstanding discrimination test even as judges call it ‘wrong’",
+    "link": "https://www.hrdive.com/news/5th-circuit-applies-longstanding-discrimination-test-judges-called-wrong/827151/",
+    "summary": "A majority of the court appeared open to reconsidering the U.S. Supreme Court&rsquo;s McDonnell Douglas framework, the soundness of which has come into question in recent years.",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
@@ -196,17 +196,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-eight-startups-pitching-at-startup-battlefield-aust-1785949320000",
-    "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-    "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-    "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+    "id": "news-why-lightspeed-is-going-all-in-on-creator-led-venture-capita-1785962934000",
+    "title": "Why Lightspeed is going all-in on creator-led venture capital",
+    "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+    "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisition&#160;of TBPN.&#160;Lightspeed Venture Partners&#160;just made its own notable hire in that vein, bringing on&#160;Claire Zau, a seed investor with a major following on Instagram and [&#8230;]",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -223,10 +222,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workers-are-all-in-fight-or-flight-mode-expert-says-1785942660000",
-    "title": "Workers are all in fight-or-flight mode, expert says",
-    "link": "https://www.hrdive.com/news/workers-are-all-in-fight-or-flight-mode/826990/",
-    "summary": "Employers can improve mental health in the workplace by tuning into how workers are doing and being intentional, according to a consultant on health and productivity.&nbsp;",
+    "id": "news-psychological-safety-at-work-may-depend-on-the-state-of-dei--1785945009000",
+    "title": "Psychological safety at work may depend on the state of DEI outside of work",
+    "link": "https://www.hrdive.com/news/psychological-safety-at-work-may-depend-on-the-state-of-dei-outside-of-work/827091/",
+    "summary": "Whether a worker feels their community is inclusive affects how they show up at work, an Elon University report shows.&nbsp;",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
@@ -288,10 +287,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psa-apple-s-private-relay-can-leak-your-real-ip-address-1785948749000",
-    "title": "PSA: Apple’s Private Relay can leak your real IP address",
-    "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
-    "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+    "id": "news-klaviyo-acquires-elias-torres-agency-in-full-circle-reunion--1785960300000",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -314,18 +313,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-may-be-helping-employees-prepare-for-career-mobility-1785942660000",
-    "title": "AI may be helping employees prepare for career mobility",
-    "link": "https://www.hrdive.com/news/ai-may-be-helping-employees-prepare-for-career-mobility/827060/",
-    "summary": "Workers say they are using artificial intelligence to seek out development opportunities within their existing roles as well as outside their organizations.",
+    "id": "news-employee-optimism-continues-to-fade-with-job-security-on-the-1785942660000",
+    "title": "Employee optimism continues to fade with job security on the line",
+    "link": "https://www.hrdive.com/news/employee-optimism-continues-to-fade-with-job-security-on-the-line/827072/",
+    "summary": "Confidence in a positive business outlook reached another low point in July, according to Glassdoor, continuing a period of overall decline dating back to 2023.",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -381,17 +378,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shopify-says-ai-search-is-driving-more-traffic-and-sales-not-1785945374000",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "id": "news-jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-1785958219000",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   }
 ];
@@ -808,8 +804,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
       "Ваши шаги бесшумны, и впереди выбор, который изменит всё",
-      "Please mention the word **TENDERLY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNjQ=)",
-      "This is a beta feature to"
+      "Please mention the word **TENDERLY** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post completely (#RMjAuNTkuMjQyLjI=)",
+      "This is a beta feature to avoid sp"
     ],
     "skills": [],
     "location": "Dark Corner, ",
@@ -827,7 +823,7 @@ export const generatedJobs: JobPosting[] = [
       "The habit tracker that scores only planned days, so rest days never count against you",
       "Private by default",
       "AI insights that show which habits actually fuel each other",
-      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job"
+      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post"
     ],
     "skills": [],
     "location": "Kirkwall, ",
@@ -842,7 +838,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMjAuNTkuMjQyLjI= when applying to show you read"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -859,7 +855,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post complete"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -903,4 +899,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-05T19:23:36.726Z';
+export const dataFetchedAt = '2026-08-05T21:03:28.330Z';
