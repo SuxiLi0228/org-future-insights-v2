@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shopify-says-ai-search-is-driving-more-traffic-and-sales-not-1785945374000",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "id": "news-reddit-aims-to-make-8216-karma-8217-less-important-for-first-1785952840000",
+    "title": "Reddit aims to make &#8216;karma&#8217; less important for first-time posters with shift to AI moderation tools",
+    "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+    "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -40,10 +39,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-optimism-continues-to-fade-with-job-security-on-the-1785942660000",
-    "title": "Employee optimism continues to fade with job security on the line",
-    "link": "https://www.hrdive.com/news/employee-optimism-continues-to-fade-with-job-security-on-the-line/827072/",
-    "summary": "Confidence in a positive business outlook reached another low point in July, according to Glassdoor, continuing a period of overall decline dating back to 2023.",
+    "id": "news-psychological-safety-at-work-may-depend-on-the-state-of-dei--1785945009000",
+    "title": "Psychological safety at work may depend on the state of DEI outside of work",
+    "link": "https://www.hrdive.com/news/psychological-safety-at-work-may-depend-on-the-state-of-dei-outside-of-work/827091/",
+    "summary": "Whether a worker feels their community is inclusive affects how they show up at work, an Elon University report shows.&nbsp;",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
@@ -66,10 +65,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785943413000",
-    "title": " 别让马斯克跑了？别误读了马斯克的命门 ",
-    "link": "https://www.huxiu.com/article/4880975.html?f=rss",
-    "summary": "本文来自微信公众号： TS消费观察 ，作者：Adrianhts 美东时间7月31日清晨，《华尔街日报》甩出一篇独家报道炸开了宁静的市场：特斯拉高管被要求为剥离中国业务做准备，方案包括分拆、出售，甚至直接关掉。 马斯克在自家的在X上回了一句：\"这从来没有被讨论过。\"紧接着追加：\"荒谬的假新闻\"（Absurdly fake news）。特斯拉中国的公关部门动作也很快，回应上海本地媒体的问询：不实消息。 一套标准流程行云流水我们已经见过太多次了。老马就爱撒点儿小谎，马斯克口中承诺的保质期，很难超过两周。 1 剥离中国业务图啥 据华尔街日报报道，马斯克为防范th局势等极端风险，已筹划在2026至2027年前将特斯拉中国业务彻底剥离。此举核心目的是在美中业务间筑起“激光般清晰”（原文）的防火墙以保全美国业务，并扫清特斯拉与SpaceX潜在合并的最大障碍。 由于SpaceX身为美国主要防务承包商，若特斯拉仍深度绑定中国，合并将引发美国国家安全审查。同样的道理，如果SpaceX被中国方面列为限制或禁止的美国实体，特斯拉也会被迫两头挨打。 中国作为特斯拉第二大市场且拥有重要的上海超级工厂，如果一旦决心剥离，将损失极为惨重，但马斯克已指示高管准备分拆、出售或关闭等方案，甚至考虑设立独立销售实体并限制中国员工访问全球数据以切断运营关联。 WSJ7月31日报道 作为配套预案，特斯拉早在此前就启动了“碳计",
+    "id": "news--1785950632000",
+    "title": " 黎彼得：从香港街头写进港乐黄金时代 ",
+    "link": "https://www.huxiu.com/article/4880986.html?f=rss",
+    "summary": "本文来自微信公众号： 人间像素 ，作者：唐云路 “财神到，财神到，好心得好报。” “我哋呢班打工仔，通街走籴直头系坏肠胃。” 还有那一声声看到歌词就能唱出来的：“Thanks Thanks Thanks Thanks Monica.” 这些歌，年轻人未必都完整听过，却大多在不同场合碰见过。有人在短视频里听过《浪子心声》，有人用“半斤八两”吐槽工作，更不要提每逢春节都会单曲循环的《财神到》。 但可能已经不太有人记得，这些歌背后，都有同一个名字：黎彼得。 对许多观众来说，他更像是港剧和港产片里一张熟悉的脸，比如《唐伯虎点秋香》里的私塾先生，《爱·回家之开心速递》里的“豹叔”。 但这位常常站在镜头边缘的配角演员，年轻时曾经站在粤语流行曲最重要的起点上。他为许冠杰写过《浪子心声》《打雀英雄传》《梨涡浅笑》《财神到》，也为张国荣写下了《Monica》的中文版歌词，成为香港流行音乐史上具有里程碑意义的作品。 他很少写大江大海、家国英雄或历史兴亡，更擅长从近处落笔：一份工作、一场牌局、一段情事，以及一句街坊都听得懂的俗语。 8月6日，黎彼得逝世的消息传出，终年76岁。黎彼得的一生，几乎与港乐最重要的半个世纪重叠。 当香港人开始用自己的语言唱自己的生活时，他从街头走进录音室；当粤语歌进入巨星时代，他写下那首改变张国荣命运的快歌，却逐渐离开词坛中央；当唱片工业衰落、经典港乐成为集体怀旧的一部分，他已",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
@@ -105,10 +104,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hark-previews-its-browser-use-agent-for-completing-tasks-1785944787000",
-    "title": "Hark previews its browser use agent for completing tasks",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "id": "news-lucid-motors-just-delayed-its-affordable-ev-now-what-1785952665000",
+    "title": "Lucid Motors just delayed its affordable EV. Now what?",
+    "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+    "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -131,10 +130,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workers-are-all-in-fight-or-flight-mode-expert-says-1785942660000",
-    "title": "Workers are all in fight or flight mode, expert says",
-    "link": "https://www.hrdive.com/news/workers-are-all-in-fight-or-flight-mode/826990/",
-    "summary": "Employers can improve mental health in the workplace by tuning into how workers are doing and being intentional, according to a consultant on health and productivity.&nbsp;",
+    "id": "news-employee-optimism-continues-to-fade-with-job-security-on-the-1785942660000",
+    "title": "Employee optimism continues to fade with job security on the line",
+    "link": "https://www.hrdive.com/news/employee-optimism-continues-to-fade-with-job-security-on-the-line/827072/",
+    "summary": "Confidence in a positive business outlook reached another low point in July, according to Glassdoor, continuing a period of overall decline dating back to 2023.",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
@@ -157,10 +156,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785943019000",
-    "title": " 在模型持续进步的时代，年轻人真正应该押注什么 ",
-    "link": "https://www.huxiu.com/article/4880973.html?f=rss",
-    "summary": "本文来自微信公众号： 董科含 ，作者：N1 过去两年，大模型行业变化很快。模型能力在提升，产品边界在移动，研究热点不断重构，创业公司的PMF也可能只持续几个月。很多人看到的是新模型、新榜单、新融资和新产品。真正身处一线的人，更关心另一组问题：模型下一次升级之后，今天做的事情还剩下什么？数据、环境、训练和产品，哪一个会成为新的瓶颈？年轻人没有大算力、没有大平台，怎样进入前沿？什么样的创业方向会被模型吞掉，什么样的方向会随着模型变强一起增长？ 这篇文章整理了多位一线研究者、模型公司核心成员和AI创业者的共同判断。所有具体身份和公司信息都被去掉，只保留对年轻人长期有用的部分。 一、真正有价值的判断，往往只是比行业早半步 前沿判断很少来自预言。更多时候，它来自提前看到一条已经开始形成的趋势，并比行业早几个月解决下一阶段一定会出现的问题。真正厉害的人不会追求每次都提出完全不同的方向。他们会沿着已经被验证的scaling路径，寻找即将成为瓶颈的环节。优势很多时候只是时间差。你不需要比所有人聪明十倍，只需要更早看见问题，更快验证，更早积累解决它的能力。 二、模型结构正在变成基础设施，数据和环境正在成为新的竞争中心 模型结构仍然重要，但它的角色正在变化。过去，架构创新本身可能决定模型能不能进步。现在，架构更像保证模型能够稳定scaling的基础设施。它需要让小规模实验能可靠放大，让训练不在最大规模",
+    "id": "news-icu-1785946845000",
+    "title": " 中美打架，为什么“进ICU”的是韩国？ ",
+    "link": "https://www.huxiu.com/article/4880953.html?f=rss",
+    "summary": "本文来自微信公众号： 大湾区评论 ，作者：黄平（香港中文大学（深圳）公共政策学院副教授、助理院长，前海国际事务研究院副院长）、Kimi&nbsp;K3，原文标题：《中美打架，为什么“进ICU”的是韩国？ | 地缘科技“平”论 x 黄平》，题图来自：视觉中国 过去一周，韩国股市几乎成了全球AI泡沫风险的急诊室。 7月29日，韩国综合股价指数KOSPI盘中跌幅一度超过8%，触发熔断机制，指数盘中跌破5600点关口——这是韩国股市今年以来第九次触发熔断，也是有记录以来KOSPI与KOSDAQ两大股指整体首次连续两个交易日触发熔断；恢复交易后，跌幅一度扩大至12%以上，KOSDAQ同日亦触发熔断。更戏剧性的是，就在熔断后的7月31日，KOSPI又创纪录地单日暴涨18%，SK海力士单日上涨30%。到了8月3日，韩国股市再度大跌，KOSPI收跌5.13%，盘中最低跌至6223点，SK海力士和三星电子分别下跌8.79%和8.76%。 严格说，韩国股市过去几个月并没有整体“腰斩”：如果从6月19日盘中9385点的历史高位算起，到8月初6200点附近，最大回撤大约在三成到四成之间。但杠杆放大了伤害。据韩国官方统计，截至7月13日，全市场超过120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已被券商全额强制平仓，部分账户甚至倒欠券商资金——部分散户血本无归，甚至有人亏掉养老金。 更严重",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
@@ -197,16 +196,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-zoox-to-start-charging-for-robotaxi-rides-in-las-vegas-1785942402000",
-    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-    "link": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-    "summary": "This marks the official launch of Zoox's commercial operations.",
+    "id": "news-meet-the-eight-startups-pitching-at-startup-battlefield-aust-1785949320000",
+    "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+    "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+    "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -223,18 +223,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-may-be-helping-employees-prepare-for-career-mobility-1785942660000",
-    "title": "AI may be helping employees prepare for career mobility",
-    "link": "https://www.hrdive.com/news/ai-may-be-helping-employees-prepare-for-career-mobility/827060/",
-    "summary": "Workers say they are using artificial intelligence to seek out development opportunities within their existing roles as well as outside their organizations.",
+    "id": "news-workers-are-all-in-fight-or-flight-mode-expert-says-1785942660000",
+    "title": "Workers are all in fight-or-flight mode, expert says",
+    "link": "https://www.hrdive.com/news/workers-are-all-in-fight-or-flight-mode/826990/",
+    "summary": "Employers can improve mental health in the workplace by tuning into how workers are doing and being intentional, according to a consultant on health and productivity.&nbsp;",
     "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -251,17 +249,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785941129000",
-    "title": " 尼日利亚中企骚乱事件启示录 ",
-    "link": "https://www.huxiu.com/article/4880966.html?f=rss",
-    "summary": "本文来自微信公众号： 小聂说非洲 ，作者：聂少锐 2026年7月底，尼日利亚埃多州贝宁城附近，一家中资背景的铝业企业发生严重骚乱。厂房、车辆、摩托车和机械设备被砸毁、焚烧，中国员工紧急逃离，35名嫌疑人随后被警方逮捕。 事情起因并不复杂。当地员工David Yelsa在Rongtai Group担任叉车司机。企业方面称，他作业时叉车疑似发生故障，在沟渠边侧翻，将他压在车下，最终死亡。正常情况下，企业应当立即抢救、报警、通知家属、封锁现场，并由劳动安全部门调查，随后依法认定工亡、计算赔偿。但这次事故在最初几个小时内就失去了控制。当地员工和社区居民称，企业没有及时通知家属，便准备把遗体运出厂区，因此怀疑企业想隐瞒事故；企业律师则说，公司只是准备把遗体送往太平间，车辆却被抗议者拦截。 两种说法背后，是同一个问题：企业与家属、员工和社区之间没有可信、畅通的沟通渠道。抗议很快变成暴力。车辆、机器和厂房被纵火，电脑等物品被抢走，中国员工被迫逃离。埃多州副州长到场后公开提出疑问：发生事故的叉车为什么在调查人员到达前被移走？事故地点为什么缺少清晰痕迹和监控录像？厂区为什么没有完善的防护用品、医疗室，甚至缺少基本急救设施？ 州政府随后要求卫生、劳动、公共安全和环境部门联合调查。地方政府负责人还特别指出，企业与社区之间的误解，部分来自语言和沟通障碍。尼日利亚《Punch》对事件的报道无论企业在事故处理",
+    "id": "news--1785946241000",
+    "title": " 华为不在民间 ",
+    "link": "https://www.huxiu.com/article/4880982.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 一只几块钱的竹知了，不过是很多中国人童年里的一个小玩意儿。 两片竹片，一根绳子，摇起来发出一声“哇、哇、哇”。 谁也没想到，多年后这个童年的记忆，会和今天中国最硬核的科技巨头华为撞了个满怀。 一、品牌一旦进入民间，就不再只属于自己 7月底，网友发现竹知了发出的摩擦声，和余承东在问界M9发布会上那句标志性的“哇”高度重合。这场互联网式的二创迅速蔓延开来。 有人给竹知了配上交响乐背景音，有人把它打上“一千万以内最好玩具”的标签，甚至在电商平台上，商家顺势挂出“问界M9同款响声”的关键词。 这本是互联网最常见的现象。 如果回想，你会发现，每个时代，都会留下几个不属于官方，却属于大众的独有记忆。 王健林的“一个小目标” 雷军的”Are you OK” 马云的”悔创阿里” 余承东的”遥遥领先”和”一千万以内最好”...... 这些都不是企业设计出来的传播资产。反而成为了公众重新定义品牌之后留下来的集体记忆。 竹知了，也是类似的逻辑。 大众从众多乏味的新闻里抓到一个小乐趣，拿来调侃、玩梗。这种消解本身不带恶意，甚至是一种极其罕见的群众基础。 如果只是单纯的玩笑，竹知了无非是三天就会过时的网络热梗。 可随之而来的侵权通知、商家收到法务函以及相关二创视频的下架，强行拉长了这声“哇”的余音。 一个关于声音的玩笑，最终演变成一场关于企业、大众与互联网关系的",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -291,17 +288,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-s-real-world-ai-stage-features-robot-1785942300000",
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "id": "news-psa-apple-s-private-relay-can-leak-your-real-ip-address-1785948749000",
+    "title": "PSA: Apple’s Private Relay can leak your real IP address",
+    "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+    "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -318,17 +314,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-was-inflamed-by-prejudice-shrm-appeal-argues-1785875280000",
-    "title": "Jury was ‘inflamed by prejudice,’ SHRM appeal argues",
-    "link": "https://www.hrdive.com/news/jury-was-inflamed-by-prejudice-shrm-appeal-argues/826982/",
-    "summary": "In an opening appeal, SHRM argued that a trial it lost late last year was unfair due to how the jury was directed and its &ldquo;excessive&rdquo; award of $11.5 million.",
-    "publishedAt": "2026-08-04",
+    "id": "news-ai-may-be-helping-employees-prepare-for-career-mobility-1785942660000",
+    "title": "AI may be helping employees prepare for career mobility",
+    "link": "https://www.hrdive.com/news/ai-may-be-helping-employees-prepare-for-career-mobility/827060/",
+    "summary": "Workers say they are using artificial intelligence to seek out development opportunities within their existing roles as well as outside their organizations.",
+    "publishedAt": "2026-08-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -345,17 +342,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785940925000",
-    "title": " 为什么这些品牌还在被投资人追捧 ",
-    "link": "https://www.huxiu.com/article/4880964.html?f=rss",
-    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 在趋势赛道，在线下开店，有确定性增长空间，全球视野和鲜明的品牌识别。 尽管从大盘看，2026年的消费投资与降至冰点的2025年相比已经低位修复，但增量主要流向AI智能消费，传统品牌融资仍非常稀少。 据iBrandi品创不完全统计，2022年上半年有366个新消费项目披露融资、金额超过250亿元，2025年上半年只剩44个、近28亿元；2026年上半年回升至63笔、已披露及估算金额约53.56亿元，但其中28笔投向AI智能消费，食品、饮品、美妆个护和服饰合计只有20笔。 并购端的分化更直接，普华永道统计，2025年全球消费市场并购金额增长41%，交易数量却下降1%，增量主要来自12笔50亿美元以上的大额交易。 也就是说，回暖的不是整个消费品牌的交易广度，而是少数资产的流动。 这样的背景下，哪些围绕传统消费品牌的交易还在发生，便更有关注必要。大体上，他们可分为两类： 一类是成熟品牌资产的股权交易和并购，包括已完成的红杉中国收购高端鞋履品牌Golden Goose、珀莱雅增持少女彩妆品牌花知晓获得控股权、黑蚁资本少量入股自行车品牌Brompton，以及进行中的安踏拟收购大众运动品牌彪马、已签署协议的CPE源峰收购户外运动品牌猛犸象。 窄播制图 另一类是已有规模、仍处成长期的品牌融资：华映领投户外品牌Outopia的B轮，启承、峰尚和黑蚁先后向战术",
+    "id": "news--1785946193000",
+    "title": " 马斯克与诺兰：两种文明叙事的史诗大战 ",
+    "link": "https://www.huxiu.com/article/4880981.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼 马斯克和诺兰为什么吵起来了？ 起因是，诺兰拍了一部新片《奥德赛》，没想到选角出来后，马斯克坐不住了，连发好几条帖子开炮，话说得特别难听：找了个黑人演员演海伦，是“跪舔奥斯卡的评奖规则”，连“在荷马坟头撒尿”、骂人家是“蠕虫”都用上了。 不过，最初诺兰没吭声，一个英国历史学家辩驳了几句，也被马斯克顺手骂了一顿。 很多人的第一反应是，啊，两个完全不在一个频道的人，竟然隔空吵架。 一个是拍出了《记忆碎片》《蝙蝠侠》三部曲、《盗梦空间》《奥本海默》等一系列优秀电影的全球知名导演，另一个是造火箭、造汽车、搞人工智能、全球首富、知名大V的科技新贵；一个在好莱坞扛摄像机，另一个在硅谷做算法，完全不搭边啊。 表面看，这是科技圈和电影圈的一次意外碰撞。 但我觉得，这不仅是科技与人文的交锋，更是未来谁掌握话语权的博弈。 未来，谁有资格定义文化？是花费几年时间创作作品的人？还是掌握全球注意力入口的人？这才是马斯克和诺兰这场争论真正关注的地方。 这场在线对喷有一点很尴尬，很多参战的人其实压根就没看过《奥德赛》！ 电影没上映之前，大家就已经吵完了，吵的不是电影，是热搜标题。 一帧画面都没放出来，网上早已经吵翻天了，一半人说马斯克说得对，一半人站在诺兰的角度骂这就是找碴。 尤其是咱们国内，实际上8月中旬才正式公映，不看就喷仿佛成了约定俗成。为了写稿，我把将近3",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -385,16 +381,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-gen-z-reconsiders-dating-apps-tinder-8217-s-irl-events-ex-1785941106000",
-    "title": "As Gen Z reconsiders dating apps, Tinder&#8217;s IRL events expand to dozens more cities",
-    "link": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
-    "summary": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
+    "id": "news-shopify-says-ai-search-is-driving-more-traffic-and-sales-not-1785945374000",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   }
 ];
@@ -811,7 +808,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
       "Ваши шаги бесшумны, и впереди выбор, который изменит всё",
-      "Please mention the word **TENDERLY** and tag RNTIuMTczLjIzNy4yMg== when applying to show you read the job post completely (#RNTIuMTczLjIzNy4yMg==)",
+      "Please mention the word **TENDERLY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNjQ=)",
       "This is a beta feature to"
     ],
     "skills": [],
@@ -830,7 +827,7 @@ export const generatedJobs: JobPosting[] = [
       "The habit tracker that scores only planned days, so rest days never count against you",
       "Private by default",
       "AI insights that show which habits actually fuel each other",
-      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RNTIuMTczLjIzNy4yMg== when applying to show you read the job"
+      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job"
     ],
     "skills": [],
     "location": "Kirkwall, ",
@@ -845,7 +842,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RNTIuMTczLjIzNy4yMg== when applying to show you r"
+      "Please mention the word **SWANKY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -862,7 +859,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RNTIuMTczLjIzNy4yMg== when applying to show you read the job post comp"
+      "Please mention the word **HOLY** and tag RMTcyLjE4Mi4yNDMuNjQ= when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -906,4 +903,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-05T16:02:45.236Z';
+export const dataFetchedAt = '2026-08-05T19:23:36.726Z';
