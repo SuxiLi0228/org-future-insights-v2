@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-06-auto",
+    "date": "2026-08-06",
+    "session": "auto",
+    "title": "2026-08-06 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-06-auto-1",
+        "emoji": "💡",
+        "title": "Puzzle Corner",
+        "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
+        "detail": "来源: MIT Technology Review。Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/"
+      },
+      {
+        "id": "sig-2026-08-06-auto-2",
+        "emoji": "💡",
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+        "detail": "来源: TechCrunch。Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+      },
+      {
+        "id": "sig-2026-08-06-auto-3",
+        "emoji": "🚨",
+        "title": "What LeBron James’ 92% pay cut says about modern job hopping",
+        "summary": "The basketball legend signed with the 76ers for less than he's made throughout his career. The move highlights that pay is just part of what can motivate a new hire. The post What LeBron James’ 92% pay cut says about modern job hopping appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The basketball legend signed with the 76ers for less than he's made throughout his career. The move highlights that pay is just part of what can motivate a new hire. The post What LeBron James’ 92% pay cut says about modern job hopping appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/what-lebron-james-92-pay-cut-says-about-modern-job-hopping/"
+      },
+      {
+        "id": "sig-2026-08-06-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：ParVL: Parallel Scaling and Expandable Compute Allocation fo...",
+        "summary": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead.",
+        "detail": "作者: Yang Yang, Qinyu Zhao, Mouxiang Chen。Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model components, limiting task-specific optimization. To address this, we introduce the Parallel Vision-Language (ParVL) scaling framework for MLLMs, which scales parallel computation by reusing the existing ViT and LLM backbone parameters across multiple vision and language branches. This framework raises a central question: given a fixed backbone parameter budget, how should additional shared-backbone computation be allocated between the vision",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.04010v1"
+      },
+      {
+        "id": "sig-2026-08-06-auto-5",
+        "emoji": "💼",
+        "title": "Ouba 正在招募 What Remains",
+        "summary": "岗位类型：业务+AI 复合岗。Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
+        "detail": "技能要求: 未标注。Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов Ваши шаги бесшумны, и впереди выбор, который изменит всё Please mention the word **TENDERLY** and tag RNTIuMTczLjIzNy4yMg== when applying to show you read the job post completely (#RNTIuMTczLjIzNy4yMg==) This is a beta feature to",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Ouba"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Ouba",
+        "link": "https://remoteOK.com/remote-jobs/remote-what-remains-ouba-1136090"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-06-1",
+        "priority": "low",
+        "action": "关注「Puzzle Corner」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-06-2",
+        "priority": "low",
+        "action": "关注「Shopify says AI search is driving more t」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-06-3",
+        "priority": "high",
+        "action": "关注「What LeBron James’ 92% pay cut says abou」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-06-4",
+        "priority": "medium",
+        "action": "关注「研究速递：ParVL: Parallel Scaling and Expanda」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-06-5",
+        "priority": "medium",
+        "action": "关注「Ouba 正在招募 What Remains」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Ouba"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 56,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-06 生成，聚合了 30 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-08-06 00:00 - 2026-08-06 23:59"
+  },
+  {
     "id": "report-2026-08-05-auto",
     "date": "2026-08-05",
     "session": "auto",
