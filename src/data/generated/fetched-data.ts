@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-moove-raises-250m-to-become-the-backbone-of-the-robotaxi-ind-1785963045000",
-    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-    "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-    "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+    "id": "news-nikita-bier-steps-down-as-x-8217-s-head-of-product-1785965450000",
+    "title": "Nikita Bier steps down as X&#8217;s head of product",
+    "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+    "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -104,10 +104,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-lightspeed-found-their-newest-hire-via-instagram-dm-1785962936000",
-    "title": "How Lightspeed found their newest hire… via Instagram DM",
-    "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/",
-    "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+    "id": "news-travis-kalanick-8217-s-robotics-startup-atoms-taps-former-ub-1785965200000",
+    "title": "Travis Kalanick&#8217;s robotics startup Atoms taps former Uber finance chief as CFO",
+    "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+    "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -196,10 +196,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-lightspeed-is-going-all-in-on-creator-led-venture-capita-1785962934000",
-    "title": "Why Lightspeed is going all-in on creator-led venture capital",
-    "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-    "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisition&#160;of TBPN.&#160;Lightspeed Venture Partners&#160;just made its own notable hire in that vein, bringing on&#160;Claire Zau, a seed investor with a major following on Instagram and [&#8230;]",
+    "id": "news-meta-launches-muse-code-an-ai-agent-for-large-code-bases-1785964888000",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -287,16 +287,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-klaviyo-acquires-elias-torres-agency-in-full-circle-reunion--1785960300000",
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "id": "news-trump-8217-s-doj-gains-oversight-of-openai-s-green-card-empl-1785963937000",
+    "title": "Trump&#8217;s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -378,10 +379,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-1785958219000",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "id": "news-moove-raises-250m-to-become-the-backbone-of-the-robotaxi-ind-1785963045000",
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -797,6 +798,40 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136137",
+    "title": "Waitology",
+    "company": "MP Software",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Whether you have a clear project in mind or just know something needs to change, we'd love to hear from you",
+      "We usually get back to you within one business day",
+      "Please mention the word **RECLAIM** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjE"
+    ],
+    "skills": [],
+    "location": "Roorkee, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-waitology-mp-software-1136137",
+    "postedAt": "2026-08-04",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136150",
+    "title": "Julius AI",
+    "company": "Spore N Sprouts",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
+      "All rights reserved",
+      "Please mention the word **GENEROSITY** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you read the job pos"
+    ],
+    "skills": [],
+    "location": "Ajmer, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150",
+    "postedAt": "2026-08-04",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136090",
     "title": "What Remains",
     "company": "Ouba",
@@ -804,8 +839,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
       "Ваши шаги бесшумны, и впереди выбор, который изменит всё",
-      "Please mention the word **TENDERLY** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post completely (#RMjAuNTkuMjQyLjI=)",
-      "This is a beta feature to avoid sp"
+      "Please mention the word **TENDERLY** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjExOA==)",
+      "This is a beta feature to"
     ],
     "skills": [],
     "location": "Dark Corner, ",
@@ -823,7 +858,7 @@ export const generatedJobs: JobPosting[] = [
       "The habit tracker that scores only planned days, so rest days never count against you",
       "Private by default",
       "AI insights that show which habits actually fuel each other",
-      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post"
+      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you read the job"
     ],
     "skills": [],
     "location": "Kirkwall, ",
@@ -838,7 +873,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuNTkuMjQyLjI= when applying to show you read"
+      "Please mention the word **SWANKY** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you r"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -855,7 +890,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuNTkuMjQyLjI= when applying to show you read the job post complete"
+      "Please mention the word **HOLY** and tag RNTIuMTc5Ljg4LjExOA== when applying to show you read the job post comp"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -899,4 +934,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-05T21:03:28.330Z';
+export const dataFetchedAt = '2026-08-05T22:54:45.066Z';
