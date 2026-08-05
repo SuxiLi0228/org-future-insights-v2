@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-nasa-s-new-dark-energy-space-telescope-can-also-detect-kille-1785917200000",
-    "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+    "id": "news-the-download-nasa-8217-s-new-telescope-and-chinese-tech-impo-1785931800000",
+    "title": "The Download: NASA&#8217;s new telescope and Chinese tech import curbs",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
     "publishedAt": "2026-08-05",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wispr-flow-launches-a-granola-styled-meeting-notetaker-1785914149000",
-    "title": "Wispr Flow launches a Granola-styled meeting notetaker",
-    "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-    "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+    "id": "news-disney-looks-to-tiktok-creators-to-bring-fan-content-to-its--1785936103000",
+    "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
+    "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
+    "summary": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
     "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-answer-to-ai-uncertainty-15-million-real-conve-1785846602000",
-    "title": "Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped",
-    "link": "https://hrexecutive.com/googles-answer-to-ai-uncertainty-15-million-real-conversations-mapped-2/",
-    "summary": "Google's new ATLAS report maps 15 million AI interactions across jobs and tasks, revealing what HR leaders need to know about AI adoption risks. The post Google&#8217;s answer to AI uncertainty: 15 million real conversations, mapped appeared first on HR Executive .",
-    "publishedAt": "2026-08-04",
+    "id": "news-what-lebron-james-92-pay-cut-says-about-modern-job-hopping-1785933015000",
+    "title": "What LeBron James’ 92% pay cut says about modern job hopping",
+    "link": "https://hrexecutive.com/what-lebron-james-92-pay-cut-says-about-modern-job-hopping/",
+    "summary": "The basketball legend signed with the 76ers for less than he's made throughout his career. The move highlights that pay is just part of what can motivate a new hire. The post What LeBron James’ 92% pay cut says about modern job hopping appeared first on HR Executive .",
+    "publishedAt": "2026-08-05",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -54,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2027-ai-9-1785922729000",
-    "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-    "link": "https://www.qbitai.com/2026/08/466998.html",
-    "summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
+    "id": "news-ai-1785933798000",
+    "title": "又一家AI基金暴雷了",
+    "link": "https://www.qbitai.com/2026/08/467001.html",
+    "summary": "开源改写游戏规则",
     "publishedAt": "2026-08-05",
     "source": "量子位",
     "tags": [
@@ -67,24 +66,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-chinajoy-1785925277000",
-    "title": " “一句话生成游戏”之后：2026 ChinaJoy的四个变化 ",
-    "link": "https://www.huxiu.com/article/4880890.html?f=rss",
-    "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《“一句话生成游戏”之后：2026 ChinaJoy的四个变化｜甲子光年》 AI给游戏产业带来新的生产技术，也引发了一场围绕游戏产业新价值链的争夺。 “一句话生成游戏”是2026 ChinaJoy最常见的口号之一。 在展馆、中国国际游戏开发者大会（CIGDC）以及同期举办的多场企业发布会上，AI几乎进入了游戏产业的每一个角落：有人用自然语言生成代码和场景，有人让多个Agent分别承担策划、编程和美术工作，也有人把Agent放进游戏，让NPC获得记忆、动机和临场反应。 2026 ChinaJoy现场，图片来源：「甲子光年」拍摄 但是，“一句话生成游戏”也掩盖了一些问题。 它把游戏开发中最显眼的一刻“输入一句提示词，几分钟后得到一个可以运行的Demo”。放大成了整个生产过程。代码和画面生成之后，UI是否清晰、交互是否顺畅、玩法能否留住玩家，仍然需要大量打磨。版本管理、性能优化、测试和长期运营，也很难被压缩进一句提示词。 今年ChinaJoy主题是“与AI同游”，当AI把游戏开发时间压缩到几十个小时，AI辅助制作的游戏数量在游戏平台呈现爆发式增长，游戏开发者、游戏引擎、游戏公司、游戏平台、游戏服务商、芯片厂商的价值都面临重估。 虽然大家都在谈论AI，但是大家口中的“AI+游戏”并非同一个概念。 游戏开发者希望找到不被AI替代的能力，",
+    "id": "news--1785937980000",
+    "title": " 泡泡玛特澄清：段永平不是主动减持 ",
+    "link": "https://www.huxiu.com/article/4880950.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《泡泡玛特澄清：段永平不是主动减持！》 8月5日，港交所披露一则权益变动信息：段永平通过H&amp;H International Investment持有的泡泡玛特（09992.HK）多头仓位，于7月30日从7.65%降至5.55%，下降2.1个百分点。 文件显示，此次多头仓位下降的原因是：其交付了根据股本衍生工具须交付的股份或款项。 该信息的微妙之处在于时间点——今年7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？”对此，段永平回应称：泡泡玛特我才刚开始买啊！我猜10年内大概率是不会卖的。但仅仅过了一周之后，段永平的持仓就减少了超过2个百分点。 对此，段永平个人在雪球回应称：就是put ex­p­i­r­ed（已到期）。 泡泡玛特方面对《每日经济新闻》记者表示，本次持股比例下降并非二级市场直接抛售减持，而是期权合约履约，按交易约定交付对应股份。 一位资本市场分析人士进一步解释，段永平此次持股变动与他此前卖Put、卖Call时设置的价格区间密切相关，“主要是价格区间设置比较窄，属于短期交易行为，并非大众理解层面的主动减持”。 这指向的是段永平标志性的“期权收租”策略，持有正股的同时卖出期权赚取权利金，当",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-spacex-1785923665000",
-    "title": "特斯拉舍不得中国制造，却想把中国业务挡在SpaceX门外",
-    "link": "https://www.tmtpost.com/8090989.html",
-    "summary": "马斯克公开否认拆分中国业务，但传闻背后的矛盾没有消失，上海工厂仍是特斯拉全球最高效、最难替代的制造基地。",
+    "id": "news--1785934821000",
+    "title": "当电竞显示不再卷参数，谁在定义下一代屏幕？",
+    "link": "https://www.tmtpost.com/8090539.html",
+    "summary": "从“参数领先”走向“体验标准化”，电竞显示真正的竞争早已不只是刷新参数纪录，而是谁能够重新定义“什么才是一块好屏幕”。",
     "publishedAt": "2026-08-05",
     "source": "钛媒体",
     "tags": [
@@ -95,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
-    "title": "The Download: US robot restrictions, and ICE&#8217;s DNA grab",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
-    "publishedAt": "2026-08-04",
+    "id": "news-nasa-s-new-dark-energy-space-telescope-can-also-detect-kille-1785917200000",
+    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+    "publishedAt": "2026-08-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -107,11 +105,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-repeatedly-one-upped-his-execs-on-spacex-8217-s-fi-1785882658000",
-    "title": "Elon Musk repeatedly one-upped his execs on SpaceX&#8217;s first earnings call",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-    "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-    "publishedAt": "2026-08-04",
+    "id": "news-macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-b-1785932918000",
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -120,11 +118,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-states-put-human-guardrails-around-ai-in-healthcare-1785845733000",
-    "title": "States put human guardrails around AI in healthcare",
-    "link": "https://hrexecutive.com/states-put-human-guardrails-around-ai-in-healthcare/",
-    "summary": "New laws restrict automated insurance decisions and AI-provided therapy, with several major requirements taking effect in 2027. The post States put human guardrails around AI in healthcare appeared first on HR Executive .",
-    "publishedAt": "2026-08-04",
+    "id": "news-ftc-sues-hims-038-hers-over-billing-practices-privacy-violat-1785932119000",
+    "title": "FTC sues Hims &#038; Hers over billing practices, privacy violations",
+    "link": "https://hrexecutive.com/ftc-sues-hims-hers-over-billing-practices-privacy-violations/",
+    "summary": "The complaint alleges that Hims &#038; Hers failed to clearly disclose that it charges for prescriptions almost immediately after consumers submit an intake form. The post FTC sues Hims &#038; Hers over billing practices, privacy violations appeared first on HR Executive .",
+    "publishedAt": "2026-08-05",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -146,10 +144,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-114b-6b-sand-ai-moe-1785913541000",
-    "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-    "link": "https://www.qbitai.com/2026/08/466847.html",
-    "summary": "10秒1080P，成本只要5毛钱",
+    "id": "news-2027-ai-9-1785922729000",
+    "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+    "link": "https://www.qbitai.com/2026/08/466998.html",
+    "summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
     "publishedAt": "2026-08-05",
     "source": "量子位",
     "tags": [
@@ -159,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785925185000",
-    "title": " 晓虎：看完赛格事件官方通报，我关注的三个问题 ",
-    "link": "https://www.huxiu.com/article/4880887.html?f=rss",
-    "summary": "本文来自微信公众号： Mall先生 ，作者：晓虎 今天（8月5日）下午，“今日雁塔”微信公号发布了赛格国际购物中心坠亡事件的官方通报。 通报回应了此前舆论关注的多个问题，包括事件经过、商户与赛格之间关于1,154.6万元违约金的争议，以及双方合作终止的相关情况。 但对于关心事件的人而言，通报中涉及商业地产经营领域的一些细节，仍然值得进一步拆解。 而对于从业者而言，在事实和是非之外，这次事件与这份通报，也留下了关于购物中心经营管理和商户关系处理的更多思考。 1154万元违约金 如何过高？ 赛格事件中，最受关注的商业争议，是赛格商场向商户利和公司追讨的1,154.6万元“高额罚款”。 官方通报里，披露了赛格主张的合同依据——双方合同中约定：“如果商户违反商场规定，套取商场推广活动中的电子券，一经发现，商户需要按照“违规套取总金额”的10倍支付违约金。” 这个计算公式里面有两个关键问题： “10倍”是否合理？ “违规套取总金额”到底是多少？ 先来看第一个问题。 从商业合同角度看，设置高额违约金并不罕见。因为很多商业违规行为，很难简单用实际损失衡量。但从司法实践来看，高额违约金也并非可以无限约定。 尤其根据官方通报，《最高人民法院关于适用〈中华人民共和国民法典〉合同编通则若干问题的解释》第六十五条第二款：“约定的违约金超过造成损失的百分之三十的，人民法院一般可以认定为过分高于造成的损失”。",
+    "id": "news--1785937542000",
+    "title": " “黑水军”江湖 ",
+    "link": "https://www.huxiu.com/article/4880948.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈月芹 黑水军产业链上，上游有金主发号施令，中游有公关中介或MCN（多频道网络）机构拆解派单，还有提供基础设施的群控、号商、云机服务商等，下游才是大量兼职人员接单发帖，由此批量产出的虚假信息、刷量控评，影响着舆论走向，无数企业深陷这一泥潭。 一个常开在各地十字路口的零食店品牌，其门店招牌上的卡通头像会转动的眼睛，被描述成隐藏的监控摄像头…… 今年4月，这样荒诞的传闻，一天内在抖音衍生出数千条内容，单条视频最高获赞超5万，甚至引得不知情的消费者到门店围观拍照，惊呼“细思极恐”。随后，企业举证，平台发布辟谣通报，将相关词条纳入谣言库，处置谣言内容1500余条，清理违规评论8.8万条。 大量帖子和评论短时间内在多平台发酵、扩散，涉事企业怀疑遭遇了黑水军的攻击。这类网络水军，有组织地发布负面虚假信息、恶意控评等，以达到赚取非法流量分成或打击竞争对手的目的。 发帖人很可能并不真正理解发帖内容，也没意识到发帖抹黑某家企业、某款产品的行为涉嫌违法，他只负责复制粘贴、点击发布。 6月，一家影像公司市场部人士收到用户的举报，用户称自己原本只想动动手指赚点外快，却被一步步拉进了4个微信群：第一个群用来报名、接龙，甲方会审查每个账号的首页；通过后被拉入第二个群，每人抢任务，去指定平台发布打包好的文案，其中涉及批评该影像公司产品的内容；第三个群用来验收链接；经过这",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
@@ -172,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785922826000",
-    "title": "康师傅估值折价的根源，是对周期和赛道的错判",
-    "link": "https://www.tmtpost.com/8091883.html",
-    "summary": "无糖茶、电解质水、功能饮料，这些高增长品类，康师傅几乎全部失位。",
+    "id": "news--1785928384000",
+    "title": "暑期热浪下的冷思考：租车行业暗战升级，头部角逐全场景生态",
+    "link": "https://www.tmtpost.com/8092604.html",
+    "summary": "租车行业的竞争逻辑正在被改写。上一个时代，赢家或许是车最多、价最低的那家；但下一个时代，能为用户打造全链路省心体验的平台，才能真正站稳赛道。",
     "publishedAt": "2026-08-05",
     "source": "钛媒体",
     "tags": [
@@ -186,11 +184,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
-    "title": "Trump’s AI protectionism has come for robotics",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
-    "publishedAt": "2026-08-03",
+    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
+    "title": "The Download: US robot restrictions and ICE&#8217;s DNA grab",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+    "publishedAt": "2026-08-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -198,28 +196,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lucid-8217-s-turnaround-plan-hinges-on-1-4b-in-cash-savings--1785882240000",
-    "title": "Lucid&#8217;s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-    "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-    "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-    "publishedAt": "2026-08-04",
+    "id": "news-robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator--1785932632000",
+    "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+    "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+    "summary": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
+    "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-bmw-to-shed-8-000-roles-following-volkswagen-and-mercedes-be-1785844846000",
-    "title": "BMW to shed 8,000 roles, following Volkswagen and Mercedes-Benz cuts",
-    "link": "https://hrexecutive.com/bmw-to-shed-8000-roles-following-volkswagen-and-mercedes-benz-cuts/",
-    "summary": "BMW will cut 8,000 jobs through voluntary redundancy, joining Volkswagen and Mercedes-Benz as Germany's auto sector retrenches. The post BMW to shed 8,000 roles, following Volkswagen and Mercedes-Benz cuts appeared first on HR Executive .",
-    "publishedAt": "2026-08-04",
+    "id": "news-hugging-face-8217-s-breach-exposes-a-blind-spot-in-vetting-v-1785931233000",
+    "title": "Hugging Face&#8217;s breach exposes a blind spot in vetting vendors",
+    "link": "https://hrexecutive.com/hugging-faces-breach-exposes-a-blind-spot-in-ai-vendors-vetting/",
+    "summary": "Hugging Face's CEO says its own AI safety tool refused to act during the OpenAI hack, exposing a vendor risk blind spot HR tech buyers should know. The post Hugging Face&#8217;s breach exposes a blind spot in vetting vendors appeared first on HR Executive .",
+    "publishedAt": "2026-08-05",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -237,10 +237,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tokenmaxxing-1785911620000",
-    "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-    "link": "https://www.qbitai.com/2026/08/466739.html",
-    "summary": "内部默认用GPT-5.6",
+    "id": "news-114b-6b-sand-ai-moe-1785913541000",
+    "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+    "link": "https://www.qbitai.com/2026/08/466847.html",
+    "summary": "10秒1080P，成本只要5毛钱",
     "publishedAt": "2026-08-05",
     "source": "量子位",
     "tags": [
@@ -250,10 +250,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785925017000",
-    "title": " 除了医学，医生该会点什么才更完整 ",
-    "link": "https://www.huxiu.com/article/4880886.html?f=rss",
-    "summary": "本文来自微信公众号： 张琨随笔 ，作者：张琨，原文标题：《张琨｜除了医学，医生该会点什么才更完整》 除了医学，医生还该会点什么·才更完整 我提问——行医之外，医生怎样练就韧性人生？ 身份的脆弱性：当人生只押在「唯一卓越」上，离了白大褂便无处安放。身份韧性 我堂兄张民教授，是让我从小敬佩到大的同辈。 人大附小、人大附中、北医本、硕，再直博，他一路都是最优秀的。我妈说，当年北医校长为了留住他在本校读博，给他承诺：全北医体系的导师随他挑，只要别去协和。后来他选择了北大医院泌尿外科，又作为中国泌尿外科学会派驻美国泌尿外科学会的学术大使。他一直是我们家族这一代学习最好的。哪怕是春节，我去姑姑家串门，看到别人家团圆，他依然早早回到学校潜心钻研。 然而，后来他遇上一些人生挫折，反而表现出极度的缺乏韧性，最终成为全家记忆中的伤痕。 身份的脆弱性（Identity Fragility）这个悲剧让我极其深刻地意识到一个词。当一个人把人生全部押在「唯一卓越」上，仅仅以单一的专业立身时，一旦离开那个熟悉的舒适区，忽然面对生活的别的侧面，他就会措手不及，反而容易脆断。 所以，我今天向同行发问，除了医学，一个医生到底还要会点儿什么，才像个完整的人？ 我用在麦肯锡养成的MECE的习惯拆解： 上篇向内，延展心智的韧性；下篇向外，构建破局的杠杆。 上篇·向内 修补自己的心智韧性 01 PART 体育 把手术做到极致",
+    "id": "news--1785937152000",
+    "title": " 曾经的“核电第一省”，“加注”冲上限 ",
+    "link": "https://www.huxiu.com/article/4880947.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 核电行业正在迎来高景气周期。 国家发展改革委、国家能源局最新印发的《新型电力系统建设“十五五”规划》明确，积极安全有序发展核电，科学确定沿海核电基地布局和建设时序。到2030年，核电装机约1.1亿千瓦。 几乎同时，“十五五”期间我国首批核电项目正式获核准——4大核电项目，合计8台机组，总投资将超过1700亿元，落子沿海4省。这其中，浙江金七门核电二期工程民资参股比例首次达到20%，创下中国核电领域民间资本参与度新高。 作为典型的“能源小省、用能大省”，浙江一度被贴上最“缺电”的经济大省标签。1991年，我国第一座自行设计建造的核电站——秦山核电站在浙江嘉兴海盐并网发电，此后，秦山二期、三期，三门核电一期相继投运，浙江由此成为核电大省。 起步最早，但第一的位置却未能守住。今年上半年数据显示，浙江核能发电量居全国第三，排在前两位的分别是广东、福建。 眼下，随着新一轮核电项目落子，叠加民资持续入局，这个曾经的“核电第一省”正站在竞速赛道的新起点。 1 利好 作为抢占未来能源制高点的战略必争赛道，核能的重要性上升至空前高度。 今年政府工作报告首次写入“未来能源”，并将其与量子科技、生物制造、具身智能、脑机接口、6G等前沿领域一同列入未来产业，且位居首位。 拉长时间线看，近年来我国核电建设持续提速。 据统计，2022年至2025年，全国连续四",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
@@ -263,24 +263,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785921811000",
-    "title": "八毛发全国的申通快递，因安全问题栽跟头了",
-    "link": "https://www.tmtpost.com/8092118.html",
-    "summary": "成本可以压到末端，但责任会追到总部",
+    "id": "news-the-office-agent-race-shifts-from-chatbots-to-organizational-1785927064000",
+    "title": "The Office Agent Race Shifts From Chatbots to Organizational Work",
+    "link": "https://www.tmtpost.com/8092632.html",
+    "summary": "Traffic data and rapid product consolidations show large technology firms racing to turn AI from a personal assistant into a system that can operate inside company workflows, with Alibaba’s new platform as the latest move.",
     "publishedAt": "2026-08-05",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-the-download-reward-hacking-explained-and-suspected-iranian--1785758880000",
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+    "id": "news-trump-s-ai-protectionism-has-come-for-robotics-1785782610000",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -289,11 +290,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026-1785881910000",
-    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-    "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-    "publishedAt": "2026-08-04",
+    "id": "news-indian-ev-startup-river-raises-120m-series-c-to-scale-produc-1785929160000",
+    "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+    "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+    "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
+    "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -302,15 +303,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-the-frictionless-workplace-is-exhausting-employees-1785843917000",
-    "title": "Why the frictionless workplace is exhausting employees",
-    "link": "https://hrexecutive.com/why-the-frictionless-workplace-is-exhausting-employees/",
-    "summary": "Many workers do not experience change as a single event. They experience it as a continuous series of interruptions. The post Why the frictionless workplace is exhausting employees appeared first on HR Executive .",
-    "publishedAt": "2026-08-04",
+    "id": "news-ai-regulation-is-reshaping-the-hr-world-faster-than-most-emp-1785930315000",
+    "title": "AI regulation is reshaping the HR world faster than most employers realize",
+    "link": "https://hrexecutive.com/ai-regulation-is-reshaping-the-hr-world-faster-than-most-employers-realize/",
+    "summary": "The challenge is no longer simply adopting AI. It's building an HR ecosystem that can evolve alongside a changing regulation landscape. The post AI regulation is reshaping the HR world faster than most employers realize appeared first on HR Executive .",
+    "publishedAt": "2026-08-05",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -327,10 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-cuda-ai-10-1785909218000",
-    "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-    "link": "https://www.qbitai.com/2026/08/466553.html",
-    "summary": "CUDA又危了？",
+    "id": "news-tokenmaxxing-1785911620000",
+    "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+    "link": "https://www.qbitai.com/2026/08/466739.html",
+    "summary": "内部默认用GPT-5.6",
     "publishedAt": "2026-08-05",
     "source": "量子位",
     "tags": [
@@ -340,10 +342,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785924792000",
-    "title": " 公积金终于能花了，但花不出去从来不是制度的错 ",
-    "link": "https://www.huxiu.com/article/4880882.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 你的公积金账户里有多少钱？ 如果你跟全国1.76亿缴存职工一样，大概率那笔钱你一年都没动过。 据《全国住房公积金2024年年度报告》数据，截至2024年末，全国住房公积金缴存余额10.9万亿元，累计缴存总额32.79万亿元。 但全年提取人数只有8127万人，占实缴人数的46.1%。 超过一半的人，公积金趴在账上，看得见，摸不着。 7月31日，国务院常务会议审议通过了《住房公积金管理条例》修订草案，1999年以来的第三次系统性大修，也是近20年来幅度最大的一次。 提取情形从6种扩展到9种，2亿灵活就业者首次可以自愿缴存。 看起来是给你发福利，让你花钱更方便。 但真正的问题是：10.9万亿花不出去，从来不是制度太严，而是房子太贵。 一、10.9万亿：一半人没动过的钱 先看这笔钱有多大。 10.9万亿是什么概念？ 接近2024年全国一般公共预算收入的一半，相当于GDP的近8%。 1.76亿人缴存，人均账户沉淀超过6.2万元。 但2024年全年提取人数只有8127万人，占实缴人数的46.1%。 将近9500万人，一年到头没从公积金账户里取过一分钱。 第一财经的报道提供了更细的视角。 据行业机构对33个重点城市的统计，2025年缴存余额合计6.18万亿元，扣除贷款余额后仍有近1.59万亿元资金沉淀。 33座城市中，20座城市的提取人数占比不足50",
+    "id": "news--1785936574000",
+    "title": " 辉瑞“举白旗”，基本已停止口服减肥药的开发 ",
+    "link": "https://www.huxiu.com/article/4880944.html?f=rss",
+    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：苗苗 8月4日，行业网站Fiercebiotech一则消息将辉瑞推至风口浪尖：辉瑞又砍掉两项口服减肥药资产，分别是收购得来的MET-224o，以及自研的GIPR拮抗剂PF-07976016。 辉瑞本是全球最早布局口服GLP-1的大药厂之一，初衷是想绕过注射剂的专利壁垒和依从性痛点，抄一条近路。但这条近路走得格外坎坷。自2023年起，Danuglipron、lotiglipron、PF-06954522三款自研候选药，或因肝毒性、或因耐受性问题、或因市场窗口关闭，相继被终止。这次又停掉两个管线，导致辉瑞目前的口服GLP-1，只剩一款YP05002独撑门面。 而YP05002这个管线，正是去年辉瑞从复星医药子公司药友制药引进的，尚处早期临床。按合作协议约定，辉瑞还没有真正参与投入研发。 复星会不会成为辉瑞的最后一根救命稻草，还是说辉瑞实质上已经在为退出口服减肥药赛道做最后的铺垫？这都不好说。 口服GLP-1市场，正在崩塌？ 这次辉瑞停掉的两个品种：PF-07976016算是自研管线中坚持最久的，公司曾想让其与YP05002联用。然而最新2a期数据显示，在利拉鲁肽基础上叠加该产品，却并未带来显著增量获益，组合拳尚未出鞘便已瓦解。 MET-224o的离场更令人唏嘘。去年9月，辉瑞以最高100亿美元的对价拿下Metsera，MET-224",
     "publishedAt": "2026-08-05",
     "source": "虎嗅",
     "tags": [
@@ -353,10 +355,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785921809000",
-    "title": "AI的钱，被谁赚走了？",
-    "link": "https://www.tmtpost.com/8091813.html",
-    "summary": "钱从云厂商流出，沿着光模块、芯片、服务器一路传导。",
+    "id": "news--1785926617000",
+    "title": "顺丰终于又找到了一个单价更高的业务",
+    "link": "https://www.tmtpost.com/8092473.html",
+    "summary": "不能只卷价格战了。",
     "publishedAt": "2026-08-05",
     "source": "钛媒体",
     "tags": [
@@ -367,10 +369,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals-1785745805000",
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "id": "news-the-download-reward-hacking-explained-and-suspected-iranian--1785758880000",
+    "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
     "publishedAt": "2026-08-03",
     "source": "MIT Technology Review",
     "tags": [
@@ -379,11 +381,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this--1785877646000",
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-    "publishedAt": "2026-08-04",
+    "id": "news-saudi-aramco-backs-india-8217-s-mitti-labs-to-make-asia-8217-1785927600000",
+    "title": "Saudi Aramco backs India&#8217;s Mitti Labs to make Asia&#8217;s rice farming more water-resilient",
+    "link": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+    "summary": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business.",
+    "publishedAt": "2026-08-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -805,7 +807,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
       "Ваши шаги бесшумны, и впереди выбор, который изменит всё",
-      "Please mention the word **TENDERLY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx)",
+      "Please mention the word **TENDERLY** and tag RMjAuNTcuNDcuMjMw when applying to show you read the job post completely (#RMjAuNTcuNDcuMjMw)",
       "This is a beta feature to avoid sp"
     ],
     "skills": [],
@@ -824,7 +826,7 @@ export const generatedJobs: JobPosting[] = [
       "The habit tracker that scores only planned days, so rest days never count against you",
       "Private by default",
       "AI insights that show which habits actually fuel each other",
-      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post"
+      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMjAuNTcuNDcuMjMw when applying to show you read the job post"
     ],
     "skills": [],
     "location": "Kirkwall, ",
@@ -839,7 +841,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Kleverio",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Please mention the word **SWANKY** and tag RMjAuODAuMTA5Ljgx when applying to show you read"
+      "Please mention the word **SWANKY** and tag RMjAuNTcuNDcuMjMw when applying to show you read"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -856,7 +858,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **HOLY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post complete"
+      "Please mention the word **HOLY** and tag RMjAuNTcuNDcuMjMw when applying to show you read the job post complete"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -900,4 +902,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-05T10:30:18.387Z';
+export const dataFetchedAt = '2026-08-05T13:58:14.283Z';
