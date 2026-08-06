@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amid-legal-battles-suno-says-it-will-start-watermarking-song-1786023117000",
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+    "id": "news-openai-8217-s-new-ai-smart-speaker-will-reportedly-sell-for--1786056233000",
+    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
@@ -28,36 +28,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-compensation-decisions-compound-costing-orgs-millions-resear-1786019400000",
-    "title": "Compensation decisions compound, costing orgs millions, research finds",
-    "link": "https://hrexecutive.com/compensation-decisions-compound-costing-orgs-millions-research-finds/",
-    "summary": "A pattern of misaligned compensation decisions can surface as legal claims, regulatory inquiries or reputational damage. The post Compensation decisions compound, costing orgs millions, research finds appeared first on HR Executive .",
+    "id": "news-soaring-medical-costs-force-employers-to-tighten-benefits-1786049107000",
+    "title": "Soaring medical costs force employers to tighten benefits",
+    "link": "https://hrexecutive.com/soaring-medical-costs-force-employers-to-tighten-benefits/",
+    "summary": "Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-dmec-ceo-leave-should-be-a-strategic-objective-1785961620000",
-    "title": "DMEC CEO: Leave should be a strategic objective",
-    "link": "https://www.hrdive.com/news/dmec-ceo-leave-should-be-a-strategic-objective/827110/",
-    "summary": "&ldquo;We still design for the able-bodied person more than we think about the population as a whole,&rdquo; Bryon Bass told HR Dive.",
-    "publishedAt": "2026-08-05",
+    "id": "news-must-employers-always-wait-before-clarifying-fmla-certificat-1786049280000",
+    "title": "Must employers always wait before clarifying FMLA certifications with providers? Not necessarily, 4th Circuit says",
+    "link": "https://www.hrdive.com/news/must-employers-always-wait-before-clarifying-fmla-certifications-with-provi/827274/",
+    "summary": "The ruling suggests employers don&rsquo;t necessarily have to wait for workers to fix authenticity problems with Family and Medical Leave Act certification documents.",
+    "publishedAt": "2026-08-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news--1786023488000",
-    "title": " 拉宏桑从上海徒步到深圳：预制意义的时代，谁来大火现炒？ ",
-    "link": "https://www.huxiu.com/article/4881274.html?f=rss",
-    "summary": "本文来自微信公众号： 知著网 ，作者：回响 「锅气，或者蔡康永所说的做面包的香气，不会在菜下锅、面团进烤箱以前升起。」 &gt;&gt;&gt; 从上海到深圳，高铁要坐七小时，飞机要飞两小时。 ——靠人的两条腿徒步，要花多长时间？ 最近，博主@拉宏桑正在用行动探索这个问题的答案。 五月底，她发布了「挑战从上海走回深圳」系列的第一个视频。时至八月份，这个系列已经更新至第12集。而她与目的地深圳之间的距离，也从不可能完成的任务般遥远的1357公里，缩减到仅剩247公里。 （网友们的困惑） 然而，从拉宏桑的挑战开始，不少网友便十分不解：为什么要走？这不是没苦硬吃吗？ 诚然，作为自媒体博主，拍摄什么样的题材都可以说是为了账号服务，但拉宏桑毕竟并非专业运动博主，也从未在视频中铺展细述自己挑战徒步的理由。 就这么说走就走，走这么远的意义是什么？ 在三秒定生死的短视频时代，十分钟徒步存在的意义又是什么？ ——做一件事，又是否一定要有提前被明确的意义存在？ 从2016年开始做自媒体的拉宏桑，几次三番因幽默有趣的视频内容出圈，将my ultimate mission is to make you happy（我的终极任务是让你快乐）写进了自己的外网简介中。 人们不会期待在一家面包店中买到火锅，在公交车站等来游轮，正如人们没有意料到一位搞笑博主会做徒步运动方面的挑战。 一个人、一个背包、一个机位，拉宏",
+    "id": "news--1786059830000",
+    "title": " 泉阳泉的味道，正在成为一个都市怪谈 ",
+    "link": "https://www.huxiu.com/article/4881313.html?f=rss",
+    "summary": "本文来自微信公众号： 刺猬公社 ，作者：刺猬公社编辑部 觉得泉阳泉好喝是玄学吗？ 泉阳泉火了，我是没想到的。这瓶每次回长春我都会随手拧开倒狗盆里给我家大金毛喝的矿泉水，如今竟被网友誉为脚踢evian拳打VOSS的东北神水，让我不禁反思自己的小日子是不是过得太奢侈了。 1块多一瓶，水源自长白山。这两点已经足以让许多人在维持低恩格尔系数的同时沐浴到圣山的光辉。曾经卖到5元一瓶的恒大冰泉，也不过是与泉阳泉同根同种的天池兄弟。只不过当年喝的人都自认冤大头，现在则能喝出一股沁人心脾的清甜。山没变，水不知道变没变，价格变了，喝水的心也就变了。 在国内最爱打分的网站豆瓣虎扑上，泉阳泉的评分是9.3分，略逊于《肖申克的救赎》，和《教父》一个水平。这两年的泉阳泉，也正迅速在大众心中奠定它的「水史」地位——怡宝和农夫山泉都是大路货，百岁山总喜欢在广告里请外国模特，还得喝点中朝边境附近的山泉水，既有国情在此又彰显小众品味。 图源虎扑 都说距离产生美，这点不假。过去喝贵水的觉得法国水好、挪威水好，还不是因为单价里包含了它远渡重洋的船票。而泉阳泉的火爆，也许是人们终于发现了一个被忽略的事实：其实用不着花那么多钱，吉林省也挺远的。 东北人在祖国大地上的广泛分布与东北菜码的慷慨大方，让人们严重高估了黑土地物产的易得性。不说别的，就说旱黄瓜，山海关以南我就没吃到过满意的味儿。有人对黄瓜挑剔，就有人喝水嘴刁。这几年",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1786022756000",
-    "title": "医疗保健股遭遗忘，礼来、麦克森等11只值得买入的股票",
-    "link": "https://www.tmtpost.com/8094579.html",
-    "summary": "今年市场主要由少数几个板块领涨，而医疗保健并不在其中。该板块中的许多股票看起来已蓄势待发，有望上涨。",
+    "id": "news-2030-3-5-ipo-150-80-200-1786058400000",
+    "title": "【钛晨报】工信部印发民爆行业\"十五五\"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元",
+    "link": "https://www.tmtpost.com/8094590.html",
+    "summary": "自变量已秘密递表，估值已突破200亿人民币｜独家；DeepSeek拟上调API服务定价；DeepSeek、腾讯等获宇树科技战略配售；第八代五粮液市场批价近日持续走强；专家辟谣“车市半年发了五六百款新车”；通宇通讯：佳贤通信与英伟达不存在研发合作关系；部分银行房贷利率降至“2字头”，有银行房贷利率低于2.8%；特斯拉与SpaceX拟在得州建设Terafab芯片工厂，初期投资168亿美元",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ford-8217-s-new-electric-truck-8216-fathom-8217-starts-at-28-1786021285000",
-    "title": "Ford&#8217;s new electric truck, &#8216;Fathom&#8217;, starts at $28,350",
-    "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
-    "summary": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+    "id": "news-your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-s-1786053600000",
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
@@ -106,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-financial-stress-is-becoming-a-business-problem-for-hr-1786018554000",
-    "title": "Financial stress is becoming a business problem for HR",
-    "link": "https://hrexecutive.com/financial-stress-is-becoming-a-business-problem-for-hr/",
-    "summary": "Financial stress is no longer confined to employees&#8217; personal lives. Increasingly, it is shaping how people perform, engage and plan their future at work. New findings from the ARAG 2026 Employee Financial Stability Study reveal that nearly 6 in 10 employees (58%) experience moderate to extreme financial stress, and more than half (55%) say that [&#8230;] The post Financial stress is becoming a business problem for HR appeared first on HR Executive .",
+    "id": "news-eavesdropping-at-work-a-german-court-weighs-in-1786048210000",
+    "title": "Eavesdropping at work? A German court weighs in",
+    "link": "https://hrexecutive.com/eavesdropping-at-work-a-german-court-weighs-in/",
+    "summary": "A German labor court ruling on worker misconduct shows employers are judged by their response, not the conflict's outcome. The post Eavesdropping at work? A German court weighs in appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
@@ -118,23 +120,104 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5th-circuit-applies-longstanding-discrimination-test-even-as-1785961560000",
-    "title": "5th Circuit applies longstanding discrimination test even as judges call it ‘wrong’",
-    "link": "https://www.hrdive.com/news/5th-circuit-applies-longstanding-discrimination-test-judges-called-wrong/827151/",
-    "summary": "A majority of the court appeared open to reconsidering the U.S. Supreme Court&rsquo;s McDonnell Douglas framework, the soundness of which has come into question in recent years.",
-    "publishedAt": "2026-08-05",
+    "id": "news-employers-need-to-have-conversations-about-menopause-experts-1786049280000",
+    "title": "Employers need to have conversations about menopause, experts say",
+    "link": "https://www.hrdive.com/news/employers-need-to-have-conversations-about-menopause-experts-say/827258/",
+    "summary": "&ldquo;First and foremost, we have to have a culture that fosters safety so that people feel safe to ask for the support that they need,&rdquo; said Patty Borst from consultancy The Partners Group.&nbsp;",
+    "publishedAt": "2026-08-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-3-i8-1786023483000",
-    "title": " 去掉四驱便宜3万，理想i8这次能卖得更好？ ",
-    "link": "https://www.huxiu.com/article/4881273.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：木俞 今天，理想推出了i8的第二个版型——后驱长续航版，定价30.98万元，比之前的「标准版」便宜了3万元。 核心变化在于，后驱长续航版取消了前电机，在保持电池容量不变（97.8kWh三元锂）的前提下，CLTC续航里程做到了780km。 其还升级电动开关前备箱、符合新国标的半隐藏式门把手等，不过后排娱乐屏、高通8295P高性能版芯片需要额外选装。 除此之外，理想也同步推出了新的i8高性能四驱版，升级点与后驱长续航版看齐，价格依旧是33.98万元。 升级点就介绍到这里，但值得一提的是，这不是理想i8第一次走多版型策略。 i8上市之初，理想就将它划为Pro/Max/Ultra三个版型。但在上市七天之后，该车取消三档划分，精简为一个版型。 一年后，理想i8「重走老路」，再次迎来第二版型。为什么要这样做？相比去年的三档划分，新的分档策略有什么不同？ 更长远去看，回归多版型策略，会不会让理想i8走上更高的台阶？或者是让理想的产品覆盖变得更完整？ 我们一起来看看。 分分合合 理想i8当初精简SKU的出发点是什么？ 官方曾给出的理由很直白——98%的用户选择了Max版，其余版型几乎无人问津，过多的版型和配置选择，无形中增加了用户的决策成本。 客观来说，理想i8最早期的版型划分，更多是参考过去增程车的逻辑。这样的做法，直接将i8的核心体验分为了「高中低」三个",
+    "id": "news--1786059762000",
+    "title": " 一个孩子在公共场合的样子，就是一个家庭最真实的样子 ",
+    "link": "https://www.huxiu.com/article/4881312.html?f=rss",
+    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《一个孩子在公共场合的样子，就是一个家庭最真实的样子｜家庭教育最大的误区，不是严格，而是没有边界》 这些年，我越来越明显地感觉到，很多父母都在认真学习如何爱孩子，却越来越少有人认真学习如何教育孩子。 我们读了很多关于尊重、接纳、共情的书，也越来越重视孩子的情绪、感受和表达。 但与此同时，一个很奇怪的现象也出现了：越来越多的父母，把尊重理解成不能管，把平等理解成没有边界，把释放天性理解成不用建立规则。 我们这一代父母，比任何一代都更爱孩子，也比任何一代都更容易在教育上走向另一个极端。 在一个活动现场发生的一幕，让我突然意识到：今天教育最大的误区，不是严格，而是没有边界。 那天下午，一个朋友带着孩子来参加活动。 这个孩子很聪明，也很活泼，反应很快，表达欲很强。从父母平时的描述里，我知道他们一直很为孩子骄傲，总说孩子特别灵动、特别有想法。 但整个下午，我却看到了另一面。 别人在发言，他不断插话；主持人还没有讲完，他已经站起来表达自己的观点；现场正在进行活动，他会随意走到台前，按照自己的节奏做自己想做的事情。 真正让我印象深刻的，并不是孩子，而是坐在旁边的父母。 他们没有提醒，没有制止，也没有告诉孩子什么场合应该怎样表现，甚至还有一点欣赏这种“孩子有个性”“敢表达”的状态。 活动结束后，我脑子里一直在想这件事。 因为这些年",
+    "publishedAt": "2026-08-06",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-autonomous-driving-rebuilds-itself-around-models-that-predic-1786057923000",
+    "title": "Autonomous Driving Rebuilds Itself Around Models That Predict the Physical World",
+    "link": "https://www.tmtpost.com/8094739.html",
+    "summary": "Carmakers and suppliers are moving beyond reactive perception systems toward architectures that simulate cause and effect, combining vision-language understanding with world models in a contest that now hinges on data scale, simulation fidelity and compute.",
+    "publishedAt": "2026-08-06",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-nasa-8217-s-new-telescope-and-chinese-tech-impo-1785931800000",
+    "title": "The Download: NASA&#8217;s new telescope and Chinese tech import curbs",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+    "publishedAt": "2026-08-05",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-vogue-just-gave-another-nod-of-approval-to-the-tech-world-1786051487000",
+    "title": "Vogue just gave another nod of approval to the tech world",
+    "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+    "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+    "publishedAt": "2026-08-06",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-your-workforce-spans-generations-does-your-workforce-strateg-1786047316000",
+    "title": "Your workforce spans generations. Does your workforce strategy?",
+    "link": "https://hrexecutive.com/your-workforce-spans-generations-does-your-workforce-strategy/",
+    "summary": "The goal is not rules for different generations; it's to build a flexible workforce strategy to support workers across career and life stages. The post Your workforce spans generations. Does your workforce strategy? appeared first on HR Executive .",
+    "publishedAt": "2026-08-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-wage-compression-not-job-cuts-may-be-the-outcome-of-ai-adopt-1786032840000",
+    "title": "Wage compression — not job cuts — may be the outcome of AI adoption at work",
+    "link": "https://www.hrdive.com/news/wage-compression-not-job-cuts-may-be-the-outcome-of-ai-adoption-at-work/827220/",
+    "summary": "Employers may have to square cost savings with a workforce that is less financially secure.",
+    "publishedAt": "2026-08-06",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-1000-1786059316000",
+    "title": " 人类制药史从未有过的数字：一个靶点，两个药，一年1000亿美元营收 ",
+    "link": "https://www.huxiu.com/article/4881311.html?f=rss",
+    "summary": "本文来自微信公众号： 医曜 ，作者：颜松 本文系基于公开资料撰写，仅作为信息交流之用，不构成任何投资建议 8月5日，礼来发布了2026年上半年业绩报告。一个数字让整个制药行业屏住了呼吸：替尔泊肽——降糖版Mounjaro和减重版Zepbound——上半年合计收入276.93亿美元，同比增长88%。 一个单品，半年277亿美元，全球绝大多数制药企业全年营收都达不到这个数字，而替尔泊肽仅仅用了六个月。它的直接对手，诺和诺德的司美格鲁肽，同期成绩单约175亿美元。两款药物半年合计约452亿美元。两个基于GLP-1靶点的药物，断档领先全球所有其他药物。 将时间轴拉长到全年，替尔泊肽全年收入有望提升至550到600亿美元以上，司美格鲁肽全系列产品预计接近350到400亿美元。两者合计，2026年全年销售额将有极大概率触碰1000亿美元。 一个靶点，两个药，一年贡献千亿美元营收。这是人类制药史上从未有过的数字。 01 从半年452亿到全年千亿美元 把2026年上半年的数字摊开看：替尔泊肽277亿美元，其中降糖版Mounjaro约166亿美元、减重版Zepbound约111亿美元；司美格鲁肽合计约175亿美元，其中降糖注射剂Ozempic约96亿美元、减重注射剂Wegovy约72亿美元、口服降糖片剂Rybelsus约7亿美元。两款药物合力贡献452亿美元。 数据来源：礼来2026Q2财报、诺和诺",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -158,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-nasa-8217-s-new-telescope-and-chinese-tech-impo-1785931800000",
-    "title": "The Download: NASA&#8217;s new telescope and Chinese tech import curbs",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+    "id": "news-nasa-s-new-dark-energy-space-telescope-can-also-detect-kille-1785917200000",
+    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
     "publishedAt": "2026-08-05",
     "source": "MIT Technology Review",
     "tags": [
@@ -170,39 +253,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-re-1786021200000",
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+    "id": "news-get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-to-1786051200000",
+    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+    "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
-    "id": "news-adp-leader-most-hr-leaders-are-asking-the-wrong-ai-questions-1786017657000",
-    "title": "ADP leader: Most HR leaders are asking the wrong AI questions",
-    "link": "https://hrexecutive.com/adp-leader-most-hr-leaders-are-asking-the-wrong-ai-questions/",
-    "summary": "Far too many organizations are focused on leveraging AI to reduce inefficiencies, which deprives HR of its opportunity to be more “influential and impactful,” says ADP’s Joe DeSilva. The post ADP leader: Most HR leaders are asking the wrong AI questions appeared first on HR Executive .",
+    "id": "news-fewer-than-1-in-3-orgs-plan-peanut-butter-pay-increases-in-2-1786047042000",
+    "title": "Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027",
+    "link": "https://hrexecutive.com/fewer-than-1-in-3-orgs-planning-peanut-butter-pay-increases-in-2027/",
+    "summary": "Many employees are stuck in “pay paralysis,” according to new data from Payscale, which found a downturn in the number of organizations planning across-the-board pay increases next year. The post Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027 appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
       "organization"
     ]
   },
   {
-    "id": "news-psychological-safety-at-work-may-depend-on-the-state-of-dei--1785945009000",
-    "title": "Psychological safety at work may depend on the state of DEI outside of work",
-    "link": "https://www.hrdive.com/news/psychological-safety-at-work-may-depend-on-the-state-of-dei-outside-of-work/827091/",
-    "summary": "Whether a worker feels their community is inclusive affects how they show up at work, an Elon University report shows.&nbsp;",
-    "publishedAt": "2026-08-05",
+    "id": "news-gen-x-employees-say-they-are-burned-out-from-caregiving-resp-1786029180000",
+    "title": "Gen X employees say they are burned out from caregiving responsibilities",
+    "link": "https://www.hrdive.com/news/gen-x-employees-say-they-are-burned-out-from-caregiving-responsibilities/827194/",
+    "summary": "Caregiving demands &ldquo;inevitably spill over to the workday,&rdquo; yet a third of employees reported receiving little or no support from their employer.",
+    "publishedAt": "2026-08-06",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -211,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786023264000",
-    "title": " 关于厄尔尼诺，联合国机构发出警告 ",
-    "link": "https://www.huxiu.com/article/4881271.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 世界粮食计划署周三表示，一场强厄尔尼诺天气事件可能导致到明年年底前，全球部分最脆弱地区新增近4900万人陷入严重粮食不安全状态。 该联合国机构在一份报告中指出，今年晚些时候出现强厄尔尼诺现象的概率高达81%，海表温度将达到至少自1982年以来最高水平，这可能使其成为自1950年以来最强烈的厄尔尼诺事件。 预计厄尔尼诺现象将在2026年9月至12月间达到峰值，但由于会影响未来的作物收成周期，许多地区的影响将持续到2027年。干旱、洪水和极端高温已经使当地社区面临风险。 厄尔尼诺现象是指太平洋海表温度的周期性升高，它会改变全球天气模式，通常与南部非洲的干旱、亚洲部分地区的季风推迟以及其他地区的降雨异常有关。 “这些现象在过去曾引发过大规模饥荒事件，”世界粮食计划署粮食安全和营养分析处负责人Jean-Martin Bauer表示。 4900万人恐陷入严重粮食不安全状态 2015-2016年的厄尔尼诺现象，曾影响了6000万至1亿人的粮食安全。 而根据对45个被认为易受厄尔尼诺现象不利影响的国家的最新分析，世界粮食计划署估计，2026-2027年的厄尔尼诺现象可能导致到2027年底，至少新增4900万人陷入严重粮食不安全状态，从而使总数达到2.74亿人。 世界粮食计划署的报告称，中美洲和南部非洲预计将成为受灾最严重的地区，其中中美洲粮食不安全人口",
+    "id": "news-8-800-1786058746000",
+    "title": " 从8元到800元：流量税二十年暴涨的逻辑 ",
+    "link": "https://www.huxiu.com/article/4881310.html?f=rss",
+    "summary": "本文作者：李斌（中欧国际工商学院EMBA，近三十年零售行业从业者，前百亿零售连锁企业执行总裁，长期关注零售成本结构与平台生态演变），题图来自：视觉中国 &nbsp; 今年7月，商务部牵头九部委出了份文件，名字很长，但业内只记住了一个信号：线上线下监管要统一了。这份《关于加快零售业创新发展的意见》背后一个被忽略的信号是：电商靠规则漏洞维持的低成本优势，正在被制度抹平。宏观政策出台时间往往滞后于微观经济呈现，线上商家的真实经营成本，可能早就在另一个维度上完成了对线下的反超。 一、近三十年零售从业者的洞见 空间税与流量税在2010年后形成此消彼长。接下来，我会用数据来证明：这种此消彼长，在2020年前后已经完成了一次历史性的交叉。 基于我此前零售生意的成本测算方法，结合冷冻食品品牌扭亏为盈的实战数据，并辅以行业深度访谈交叉验证，估算得出两组综合费率： 第一组，某些头部线上平台红海类目商家：综合费率达到35～38个百分点之间； 第二组，线下门店综合费率：差不多在25至35个百分点区间。 两组数据对照不难发现：部分红海类目，线上线下商家的综合费用率已经持平，甚至线上超过传统线下。 还有一个需要注意的地方：最近一两年，几个头部平台的货币化率仅在3～5个点之间 （如阿里2025年的货币化率，行业统计口径约在4.2%左右） 。 对比过去大型零售连锁企业，总部扣点透明，但门店乱七八糟的各种费用很隐蔽",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -238,11 +319,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nasa-s-new-dark-energy-space-telescope-can-also-detect-kille-1785917200000",
-    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
-    "publishedAt": "2026-08-05",
+    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
+    "title": "The Download: US robot restrictions and ICE&#8217;s DNA grab",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+    "publishedAt": "2026-08-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -250,24 +331,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-1786021200000",
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+    "id": "news-google-says-hackers-are-calling-financial-firm-employees-to--1786045246000",
+    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+    "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+    "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-financial-stress-forces-38-of-workers-to-miss-work-1786016740000",
-    "title": "Financial stress forces 38% of workers to miss work",
-    "link": "https://hrexecutive.com/financial-stress-forces-38-of-workers-to-miss-work/",
-    "summary": "Employers may have an incentive to help workers build emergency savings as financial strain increasingly spills into attendance, productivity and retention. The post Financial stress forces 38% of workers to miss work appeared first on HR Executive .",
+    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
+    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
+    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
+    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
@@ -277,23 +358,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-optimism-continues-to-fade-with-job-security-on-the-1785942660000",
-    "title": "Employee optimism continues to fade with job security on the line",
-    "link": "https://www.hrdive.com/news/employee-optimism-continues-to-fade-with-job-security-on-the-line/827072/",
-    "summary": "Confidence in a positive business outlook reached another low point in July, according to Glassdoor, continuing a period of overall decline dating back to 2023.",
-    "publishedAt": "2026-08-05",
+    "id": "news-payscale-merit-increases-remain-popular-as-peanut-butter-rai-1786026893000",
+    "title": "Payscale: Merit increases remain popular as ‘peanut butter’ raises trend downward",
+    "link": "https://www.hrdive.com/news/payscale-merit-increases-remain-popular-as-peanut-butter-raises-trend-do/827207/",
+    "summary": "In the U.S., 30% of employers said they expect salary budgets to be higher year over year in 2027, up substantially from 16% reported last year.",
+    "publishedAt": "2026-08-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news--1786023263000",
-    "title": " 一次正常的对谈为什么会火，以及聊聊视频播客 ",
-    "link": "https://www.huxiu.com/article/4881270.html?f=rss",
-    "summary": "本文来自微信公众号： 刘言飞语 ，作者：刘飞 1 上个礼拜，诺兰在北京与知名播客主播仲树做了一次对谈，时长17分钟。 7月31日半夜，视频版发在B站。一个美国的诺兰粉丝把它搬到了YouTube，X和Reddit，后来媒体人Geoff Keighley转的那一条超过1800万浏览。B站的播放目前也破百万了。 海外评论区里，很多人说这是整个宣发期最好的一次采访，也有人甚至说是诺兰所有采访里最好的之一。很多人也第一次知道中国的B站也有这样的好内容。 而一件事情变得稀缺，可能是因为它自己变化了，也可能是因为环境变化了。 我相信这次主要是因为后者。 如果经历过纸媒时代的朋友，应该会觉得，17分钟里问的，其实是一个影评人本应做到的：《奥德赛》和青铜时代崩溃是什么关系，诺兰有没有用基督教的赎罪概念去改写希腊史诗，特洛伊战争之后的世界跟他一贯拍的那种「回不去的家」有没有关系。 并没有说仲树老师问的普通，而是她的认真准备、用心提问，本来应该是大家都得做到的。 仲树自己后来也有很朴素的解释：这是一个好的采访，就这么简单。可能只是大家对一次采访应该有的样子有个期待，她满足了这个基础期待。 好像过去这么多年，恍然间大家发现，现在不管是什么媒体的记者，还是个体户老师，在提问的时候，首先想到的已经不是内容本身了，而是问的这个问题，接下来能不能被推荐算法选中。能不能在5秒内产生冲突？能不能再10秒内引发情绪？能",
+    "id": "news--1786058656000",
+    "title": " 大厂都在说不强调职级，但员工阶级却越来越明显！ ",
+    "link": "https://www.huxiu.com/article/4881309.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申，原文标题：《大厂都在说不强调职级，但员工阶级却越来越明显！》 2026年7月8日，同一天，三家大厂同时动了刀。 字节启动上半年绩效评估，将\"领导力原则\"适用于所有管理者，半年激励发放形式从100%现金调整为25%现金加75%绩效期权。 腾讯在游戏发行线试点\"负责人制\"，取消L1/L2管理职级。 京东零售启动架构调整，原C4、C5职级管理者身份被取消，管理层级减少两级。 据36氪报道，三天后百度也跟上——中层以下专业通道和管理通道全面打通，T、P、E、Band、M等职级标签统一为5至12级的数字体系。 加上阿里2023年启动\"去P化\"，腾讯2024年不再公开显示员工专业职级，美团王兴要求减少\"登味\"——中国互联网最头部的公司们，正在集体拆除围墙。 对外讲的是\"扁平化\"、\"去官僚\"、\"效率提升\"。 对内传递的是另一套信号。 如果你在大厂待过，你会知道一个常识：墙拆了，不等于没有墙了。 有时候只是换了一种材质——从看得见的玻璃墙，换成了看不见的空气墙。 你撞不上，但也走不过去。 一、77%的真相：\"看潜力不看资历\"是一句昂贵的口号 字节跳动2025年公布的六条核心人才观里，第二条赫然写着：\"用人看本质，看潜力不看资历\"。 张一鸣曾在七周年庆上翻看了一份产品经理的招聘JD，当众一字一顿地念出要求：\"有5年以上互联网产品经验，具有日活千万量级以上",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -307,84 +389,6 @@ export const generatedNews: NewsItem[] = [
     "title": "百济神州中报超预期交卷：泽布替尼登顶全球，为何股价高开低走丨看财报",
     "link": "https://www.tmtpost.com/8094400.html",
     "summary": "泽布替尼市占率首次超越伊布替尼，成为继传奇生物西达基奥仑赛注射液之后，又一款登顶全球市场的国产BIC药物。",
-    "publishedAt": "2026-08-06",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
-    "title": "The Download: US robot restrictions and ICE&#8217;s DNA grab",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
-    "publishedAt": "2026-08-04",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-google-maps-adds-agentic-features-including-food-ordering-an-1786019400000",
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-    "publishedAt": "2026-08-06",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eeo-1-reporting-may-end-but-hr-8217-s-questions-are-just-sta-1786015859000",
-    "title": "EEO-1 reporting may end, but HR&#8217;s questions are just starting",
-    "link": "https://hrexecutive.com/eeo-1-reporting-may-end-but-hrs-questions-are-just-starting/",
-    "summary": "The Commission says the EEO-1 and related reports may violate the Constitution. A hearing on the rescission is set for Aug. 11. The post EEO-1 reporting may end, but HR&#8217;s questions are just starting appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-workers-are-all-in-fight-or-flight-mode-expert-says-1785942660000",
-    "title": "Workers are all in fight-or-flight mode, expert says",
-    "link": "https://www.hrdive.com/news/workers-are-all-in-fight-or-flight-mode/826990/",
-    "summary": "Employers can improve mental health in the workplace by tuning into how workers are doing and being intentional, according to a consultant on health and productivity.&nbsp;",
-    "publishedAt": "2026-08-05",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-3-1786023034000",
-    "title": " 成立3个半月，就对外投资了：具身智能赛道正在集体“边融边投” ",
-    "link": "https://www.huxiu.com/article/4881268.html?f=rss",
-    "summary": "本文来自微信公众号： IT桔子 ，作者：Judy，原文标题：《成立3个半月，就对外投资了：具身智能赛道正在集体「边融边投」》 一个反直觉的现象正在中国具身智能赛道上演——一批自身仍在密集融资的创业公司，已大规模开启对外投资。 破壳机器人，这家2026年3月成立的家庭机器人公司，6月24日就投了汇光创新——从公司成立到第一笔对外投资，只隔了3.8个月。彼时其自身仍在A轮融资阶段。 至简动力，2025年7月在杭州成立，2026年7月2日投了莫刻机器人，自身A轮融资也还在进行中。成立不足一年便同步推进融资与对外投资。 就在两天前（8月4日），5家具身智能企业（鹿明机器人、觅蜂科技、自变量机器人、松延动力、智元机器人）联合投资了同一家AI数据公司——恺望数据，金额数亿人民币。 看上去，这并非仅某一家企业的「激进」之举，从赛道层面看，头部玩家的集体行动趋势已较为明显。 这些案例共同指向一个趋势：2026年的具身智能赛道，「边融边投」已从个别头部企业的特殊策略，演变为赛道参与者的常态行为。 我们通过IT桔子数据库检索，梳理了所有被打上「具身智能」标签、且存在对外投资记录的企业。最终锁定29家投资主体、100多笔投资事件，覆盖近百家被投公司。 本文试图回答几个核心问题： 这些企业自身是做什么的？ 成立多久就开始做投资？ 投资频次如何？ 背后折射出怎样的产业竞争逻辑？ 一、他们是谁：29家 「边融",
-    "publishedAt": "2026-08-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-to-b-1786017653000",
-    "title": "字节年内二开全员会：承认落后，转向To B，重仓年轻人",
-    "link": "https://www.tmtpost.com/8094419.html",
-    "summary": "All in To B 生产力，字节跳动AI战略正在发生重大转向。",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -775,19 +779,83 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136269",
+    "title": "Maintenance Technician",
+    "company": "The McBride Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL)",
+      "McBride (Caribbean) Limited – a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean a"
+    ],
+    "skills": [],
+    "location": "Oistins, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269",
+    "postedAt": "2026-08-05",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136244",
+    "title": "Vibes on Rails",
+    "company": "Managing AI",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
+      "Please mention the word **OPENLY** and tag RNzQuMjM1LjExNy45Ng== when applying to show you read the job post completely (#RNzQuMjM1"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Anupgarh, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vibes-on-rails-managing-ai-1136244",
+    "postedAt": "2026-08-05",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136235",
     "title": "Supply Chain Transparency",
     "company": "Ark Intelligence",
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RNjQuMjM2LjE0Mi4xNTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4xNTI=)",
+      "Please mention the word **BARGAIN** and tag RNzQuMjM1LjExNy45Ng== when applying to show you read the job post completely (#RNzQuMjM1LjExNy45Ng==)",
       "This is a beta feature to av"
     ],
     "skills": [],
     "location": "Standard, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
+    "postedAt": "2026-08-05",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136270",
+    "title": "The quest build a better AI tutor",
+    "company": "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "(BPT) - Drones have come a long way from capturing scenic photos and videos"
+    ],
+    "skills": [],
+    "location": "Cameron, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-the-quest-build-a-better-ai-tutor-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136270",
+    "postedAt": "2026-08-05",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136272",
+    "title": "How AI is reshaping higher education program discovery",
+    "company": "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "(BPT) - Drones have come a long way from capturing scenic photos and videos"
+    ],
+    "skills": [],
+    "location": "Cameron, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-how-ai-is-reshaping-higher-education-program-discovery-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136272",
     "postedAt": "2026-08-05",
     "isNew": true
   },
@@ -814,7 +882,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound",
-      "Please mention the word **PEPS** and tag RNjQuMjM2LjE0Mi4xNTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4xNTI=)"
+      "Please mention the word **PEPS** and tag RNzQuMjM1LjExNy45Ng== when applying to show you read the job post completely (#RNzQuMjM1LjExNy45Ng==)"
     ],
     "skills": [],
     "location": "Guide Post, ",
@@ -822,41 +890,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119",
     "postedAt": "2026-08-05",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136137",
-    "title": "Waitology",
-    "company": "MP Software",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Whether you have a clear project in mind or just know something needs to change, we'd love to hear from you",
-      "We usually get back to you within one business day",
-      "Please mention the word **RECLAIM** and tag RNjQuMjM2LjE0Mi4xNTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4"
-    ],
-    "skills": [],
-    "location": "Roorkee, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-waitology-mp-software-1136137",
-    "postedAt": "2026-08-04",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136150",
-    "title": "Julius AI",
-    "company": "Spore N Sprouts",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
-      "All rights reserved",
-      "Please mention the word **GENEROSITY** and tag RNjQuMjM2LjE0Mi4xNTI= when applying to show you read the job pos"
-    ],
-    "skills": [],
-    "location": "Ajmer, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150",
-    "postedAt": "2026-08-04",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-06T13:55:33.186Z';
+export const dataFetchedAt = '2026-08-06T23:54:32.043Z';

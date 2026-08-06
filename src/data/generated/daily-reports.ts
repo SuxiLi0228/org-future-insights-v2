@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-07-auto",
+    "date": "2026-08-07",
+    "session": "auto",
+    "title": "2026-08-07 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-07-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+      },
+      {
+        "id": "sig-2026-08-07-auto-2",
+        "emoji": "⚠️",
+        "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "detail": "来源: TechCrunch。Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+      },
+      {
+        "id": "sig-2026-08-07-auto-3",
+        "emoji": "🚨",
+        "title": "Soaring medical costs force employers to tighten benefits",
+        "summary": "Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "strategy"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/soaring-medical-costs-force-employers-to-tighten-benefits/"
+      },
+      {
+        "id": "sig-2026-08-07-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Reasoning Core: Designing Broad Procedural Data for Completi...",
+        "summary": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection o",
+        "detail": "作者: Damien Sileo, Valentin Lacombe, Dimitri Kachler。Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers, difficulty controls, and task evaluators. Under a matched completion-supervised protocol, we compare Reasoning Core with Procedural Warmup, Reasoning Gym, and SynLogic across four base-model settings and multiple training durations. In the primary 3B comparison, Reasoning Core achieves the highest mean scores on DROP, LogiQA, and ARC-Challenge, exceeding both the baseline without procedural data and all three alternative procedural collect",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.05148v1"
+      },
+      {
+        "id": "sig-2026-08-07-auto-5",
+        "emoji": "💼",
+        "title": "The McBride Group 正在招募 Maintenance Technician",
+        "summary": "岗位类型：业务+AI 复合岗。Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL)",
+        "detail": "技能要求: 未标注。Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL) McBride (Caribbean) Limited – a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean a",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "The McBride Group"
+        ],
+        "sourceType": "tech",
+        "sourceName": "The McBride Group",
+        "link": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-07-1",
+        "priority": "medium",
+        "action": "关注「The Download: Google’s AI shake-up and M」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-07-2",
+        "priority": "medium",
+        "action": "关注「OpenAI&#8217;s new AI smart speaker will」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-07-3",
+        "priority": "high",
+        "action": "关注「Soaring medical costs force employers to」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-07-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Reasoning Core: Designing Broad Pro」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-07-5",
+        "priority": "medium",
+        "action": "关注「The McBride Group 正在招募 Maintenance Techn」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "The McBride Group"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-07 生成，聚合了 30 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-08-07 00:00 - 2026-08-07 23:59"
+  },
+  {
     "id": "report-2026-08-06-auto",
     "date": "2026-08-06",
     "session": "auto",
