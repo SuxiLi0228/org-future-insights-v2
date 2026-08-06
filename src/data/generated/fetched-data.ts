@@ -52,10 +52,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1785994180000",
-    "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-    "link": "https://www.qbitai.com/2026/08/467262.html",
-    "summary": "",
+    "id": "news-github-1786003365000",
+    "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+    "link": "https://www.qbitai.com/2026/08/467447.html",
+    "summary": "Jeff Dean用大脑挖比特币",
     "publishedAt": "2026-08-06",
     "source": "量子位",
     "tags": [
@@ -65,10 +65,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785996756000",
-    "title": " 美日联手救日元，“新广场协议”来了？ ",
-    "link": "https://www.huxiu.com/article/4881081.html?f=rss",
-    "summary": "美日联手干预日元汇率，美国这次亲自下场，7月30日至31日，日元被强行拉升4%。美国其实不是在帮日本，而是防止日本大规模抛售美债，转移风险到美国本土。",
+    "id": "news--1786011996000",
+    "title": " 房主任们塌房，家庭综艺为啥容易翻车？ ",
+    "link": "https://www.huxiu.com/article/4881212.html?f=rss",
+    "summary": "本文来自微信公众号： 四味毒叔 ，作者：四味小小编，编辑：晶晶 家庭综艺放大人性里最日常的部分，剪掉所有前因后果。所谓“360度无死角的真实”，从来都是被剪刀剪过的真实。 本文图片来自网络 《姐姐当家2》播出至今，贡献了两个最耐人寻味的塌房样本。一个是房主任，一个是冉莹颖。两人几乎在同一时间段被推上舆论的风口浪尖，却又塌出了截然不同的质地。 7月31日，房主任发了一条道歉视频。没有滤镜，没有BGM，她说：“姐姐当家里我对工作人员发泄情绪，我很愧疚”。 三天前，她的经纪公司刚宣布对她停演三个月，理由是她在《姐姐当家2》录制期间，在临沂罗庄区一家派出所里“态度恶劣、言语不当”。而就在一个月前，全网还在叫她“大女主”。 那个让她情绪崩掉的现场，已经被网友逐帧审判过无数遍。 51岁，离婚两年，户口还挂在前夫的本子上。她想分户，想要一块属于自己的宅基地和土地承包权。工作人员把政策掰开揉碎讲给她听，给了四种方案，条条合规，条条走不通。父母双亡，娘家回不去；净身出户，名下无房；婆家不愿再有任何牵扯。最后一刻她哭了，对着窗口里的女工作人员说：“你也是女人吧？” 一句话，塌了房。她录视频道歉，去办了迁户，户口落在沈阳。 从全网共情到全网审判，只用了一档综艺的几期节目。同一档节目里，冉莹颖也塌了，塌法却完全相反。 饭桌上，她掏出一套家庭财务方案，设立共管账户，按收入比例存钱，房贷、学费、老人医药费都从",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -78,10 +78,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1785994800000",
-    "title": "细思极恐，Agent学会给自己办假身份了……",
-    "link": "https://www.tmtpost.com/8093636.html",
-    "summary": "AI不需要“觉醒”，也可能“作恶”。",
+    "id": "news--1786011304000",
+    "title": "一扇门被关上，中国具身智能产业正破窗",
+    "link": "https://www.tmtpost.com/8093205.html",
+    "summary": "美国一道禁令关掉了出口的大门，反倒让中国具身智能产业摆脱了对单一市场的依赖，在看得到未来的新发展窗口里，既有中国制造供应链打磨的“身体”，也有在本土与非美场景中不断训练迭代的“大脑”，长期来看，中美具身产业间的这场关于智能与效率的竞争，或将进入深水区。",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -143,11 +143,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jeff-dean-1-34-1785973930000",
-    "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-    "link": "https://www.qbitai.com/2026/08/467196.html",
-    "summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
-    "publishedAt": "2026-08-05",
+    "id": "news-artificial-analysis-qwen3-8agentic-1786002236000",
+    "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+    "link": "https://www.qbitai.com/2026/08/467444.html",
+    "summary": "",
+    "publishedAt": "2026-08-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -156,10 +156,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-22-1785995832000",
-    "title": " 幻方一个月跌22%，中国量化从“印钞机”到集体回撤，问题出在哪 ",
-    "link": "https://www.huxiu.com/article/4881107.html?f=rss",
-    "summary": "本文来自微信公众号： 行业报告研究院 ，作者：玖峰，原文标题：《幻方一个月跌22%，中国量化从「印钞机」到集体回撤，问题出在哪》 这个月量化圈出了件大事。 幻方量化旗下9只展示产品，7月单月跌幅全部超过20%。跌得最狠的是幻方中证500量化进取1号，单月净值下挫22.15%。 9只里只剩1只还留着0.04%的正收益，剩下8只全年收益全部转负。 半年前大家还管量化叫「印钞机」，半年后集体亏钱。我寻思了一下，这到底算不算稳赚？ 更巧的是，就在这个月，另一家百亿量化私募，被法院判了刑。 幻方量化9只产品7月单月跌幅全部超过20%，最大回撤22.15%。 先看数字 幻方那9只产品只是缩影。这轮回撤的起点，是7月13日到17日那一周，科创综指重挫17.46%。7月24日前后，幻方、九坤、明汯、衍复四大天王，旗下多只产品单周回撤全部超10%。 私募排排网的数据，截至7月31日，明汯、九坤、衍复、世纪前沿这些头部量化全都在回撤。明汯展示的14只产品，9只年内负收益，最差的明汯精选CTA前7月亏了10.78%。九坤元嘉中证A500指增1号，年内收益本来逼近8%，7月单月回撤超11%，把前半年的涨幅几乎吐干净。稳博小盘激进择时指增1号更狠，单周净值跌了29.23%，年内收益直接干成负20.03%。 我最看重的其实是一个行业级数字。 今年上半年，有业绩展示的1236只指数增强产品，平均超额收益只有3.",
+    "id": "news--1786011977000",
+    "title": " 陪玩服务，成为新的赚钱机器？ ",
+    "link": "https://www.huxiu.com/article/4881196.html?f=rss",
+    "summary": "陪玩服务正越来越普遍，陪漂、陪爬山、恋陪剧本杀，商家把陪伴明码标价，打造成新型赚钱机器。",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -169,10 +169,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785994440000",
-    "title": "大部分中国老板都是同一类人",
-    "link": "https://www.tmtpost.com/8093659.html",
-    "summary": "在这个时代，提出批评往往比发表赞美更具价值。",
+    "id": "news--1786010851000",
+    "title": "哥伦比亚也该把山浩拉到中国溜溜了",
+    "link": "https://www.tmtpost.com/8094175.html",
+    "summary": "“捡漏”式增长?",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -234,11 +234,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1785938958000",
-    "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-    "link": "https://www.qbitai.com/2026/08/467034.html",
-    "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
-    "publishedAt": "2026-08-05",
+    "id": "news--1785997063000",
+    "title": "这人谁啊？哈萨比斯都让位了",
+    "link": "https://www.qbitai.com/2026/08/467274.html",
+    "summary": "没想到还有LeCun的事儿",
+    "publishedAt": "2026-08-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -247,10 +247,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1785995795000",
-    "title": " 穆胜：大部分中国老板都是同一类人 ",
-    "link": "https://www.huxiu.com/article/4881097.html?f=rss",
-    "summary": "题图来自：视觉中国 在咨询顾问生涯中，我接触了太多的中国老板，不少成为了朋友，不仅有了生意的合作，更有私交，当然，更多则是成为了人生的过客，大家简单交流一下，就会明白彼此话不投机。 都是中年人了，自然没有必要为理念不合的交流对象浪费时间，彼此放过是最好的选择。 越是接触更多的中国老板，越是觉得他们中的大部分都是同一个思维模式，这种思维模式很难改变，注定了与我们绝缘。不是谁好谁不好，而是彼此不适合，不能给对方带来价值。 01 发家之路 要追溯这类中国老板的思维模式，需要从他们的发家之路说起。 我相信，企业家绝对不是温室培育出来的花朵，而是在恶劣的自然环境中长出来的野草。换言之，只要大自然没有赶尽杀绝，他们就能向阳而生；如果大自然再给点红利，就会有一大批企业家百花齐放。 改革开放后，新中国迎来了制度红利，加之后发优势和庞大的市场，一大批企业家如雨后春笋般冒了出来。当时的实践里，哪有什么打法和套路？哪有什么经营和管理知识，哪有什么商业计划书，就是实践出真知，就是摸着石头过河。 这个阶段的中国老板，凭借三个法宝—— 胆子大、脑子活、路子野。 胆子大，就是别人不敢做的事情他敢做，敢于吃螃蟹。当时的环境里，自由市场初步形成，市场规律尚未摸清，制度环境诸多不明，“敢于下注”本身就需要极大的勇气。他们的想法很简单，不能一辈子碌碌无为，自己始终要折腾点不一样的事。 脑子活，就是别人想不到的事情他能想",
+    "id": "news-3d-1786011709000",
+    "title": " 再有钱的中产之家，也快被3D打印掏空 ",
+    "link": "https://www.huxiu.com/article/4881210.html?f=rss",
+    "summary": "本文来自微信公众号： 三联生活实验室 ，作者：tweety 都说中产之家的返贫三件套，是贷款买房、配偶无业、孩子上国际学校，只要沾了两样，在风险面前就会不堪一击。 当中产父母在生活的方方面面开源节流，孩子妈妈只背帆布包，爸爸的消费力已经落到不如小猫小狗，但——全家人却没防住小学生社交圈里流行起的一种最烧钱爱好，3D打印。 3D打印就像是现实版“大变活人”，把图纸、参数、耗材往机器里一丢，它就根据指令一层层打印堆叠，直到叠出一块完整的作品。 最开始，用来造火箭零件和人工器官的3D打印机，进军民间消费市场，人称中年理工男的大玩具。“入坑之前，你就要先投入一台几千上万元的打印机，不同颜色不同材质的耗材无数，还有钳子砂纸割刀等工具……简直是成年人专属的有钱有闲爱好。” 殊不知，最舍得在兴趣爱好上投资的“AAA-建材王总”们，一泡进3D打印的社群，发现跟自己分享图纸、讨论建模的网络好友们，居然是一群“三年级二班的子涵”。 3D打印已经成为曾经的少儿编程，眼见着别人家的小孩哥小孩姐，才上幼儿园，都开始满嘴的“支撑”“桥接”“Z距离”……甚至有家长开始焦虑：“你家要是还没买一台打印机，那孩子在社交圈或是脑力发育方面，可能都要落后于同龄人。” 打印机的三五千元，只是个入坑门槛，学术派的父母早就把学手绘、建模、切片软件，提上了日程，体验课一次200元，暑期营能达到2000多元。 “现在的小孩要是去应",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
@@ -260,10 +260,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-279-1785994200000",
-    "title": "卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌",
-    "link": "https://www.tmtpost.com/8093334.html",
-    "summary": "卫蓝、清陶分赴A股港股IPO，中科院与清华系固态电池赛道正面竞速。",
+    "id": "news-00-1786010843000",
+    "title": "00后坐上中国机器人牌桌之后",
+    "link": "https://www.tmtpost.com/8094155.html",
+    "summary": "一批还未远离校园的年轻CEO，正在同时学习造机器人、造公司，也学习承担一家公司的重量。",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -325,11 +325,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-minimax-h3-1785937671000",
-    "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-    "link": "https://www.qbitai.com/2026/08/467036.html",
-    "summary": "MiniMax H3也能开箱即用了",
-    "publishedAt": "2026-08-05",
+    "id": "news-minimax-h3-1785994597000",
+    "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
+    "link": "https://www.qbitai.com/2026/08/467270.html",
+    "summary": "",
+    "publishedAt": "2026-08-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -338,24 +338,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-api-1785995700000",
-    "title": " 关于DeepSeek API涨价的评论 ",
-    "link": "https://www.huxiu.com/article/4881088.html?f=rss",
-    "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培，头图来自：AI生成 DeepSeek刚刚官宣：“计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排您的使用。具体方案以正式通知为准。”目前我了解到的情况如下： 涨幅会非常大，不是10%-20%的那种大，是更大；具体数字就不乱说了，以官宣为准； 很多开发者朋友认为，涨价理所当然，“就算涨一倍也仍有竞争力”； 有人认为，先进开源大模型的Token报价在长期会趋向一致，成本也不会有很大差别，对这一点我存疑。 我不是DeepSeek的重度用户，但我和许多开发者一样，认为涨价是迟早的事情，反而疑惑为什么涨得这么晚。过去两个月，以GLM为首的一批国产大模型都进行了价格调整，总体上比以前贵了，但是相对于Claude和GPT的性价比优势仍在。从商业角度看，不涨价才不正常，大部分国产大模型的涨价也得到了用户的认可。 附带说一句：有人至今还在玩“幻方炒股赚钱、补贴DeepSeek、扰乱市场、斩杀美国大模型公司”的烂梗，如果你看到了，建议你把他们全部拉黑。早在V3推出之时，DeepSeek就是一个组织、人员、资金完全独立的公司，幻方炒股赚不赚钱与DeepSeek的定价并无关系；幻方也不是梁文锋一个人的公司。 现在DeepSeek已经完成独立融资、今后打算上市，其宗旨是维持一个自给自足的商业模式，而不是“炒股赚钱、斩杀硅",
+    "id": "news--1786011673000",
+    "title": " 匈牙利给中国企业设了个“杀猪盘”？ ",
+    "link": "https://www.huxiu.com/article/4881208.html?f=rss",
+    "summary": "本文来自微信公众号： AutoReport 汽车产经 ，编辑：甘猛，作者：徐晨曦，原文标题：《匈牙利给中国企业设了个“杀猪盘”？| 出海欧洲③》 编者按： 2025年，中国车企在欧洲全年新车销量达81.1万辆，市场份额跃升至6.1%。今年5月，中国车企欧洲月度销量更是历史性反超日系。中国制造的电动车正从“边缘参与者”成长为欧洲汽车电动化转型的核心力量。 为此，我们深入欧洲腹地，走进英国、西班牙、德国等关键市场，试图穿透数据，还原中国车企在欧洲的真实生存状态。 在德国的时候，我们和一位扎根欧洲多年的老汽车人聊天，他告诉我们应该关注下锂电隔膜龙头恩捷股份在匈牙利的近况，以及匈牙利新一届政府对于中国新能源汽车产业的态度变化，对整个汽车行业的出海都有警示意义。 现将相关情况整理报道如下，希望能给各位读者提供一些参考价值。 “恩捷在德布勒森的全部生产经营活动不再被本市接纳。” 7月1日，匈牙利第二大城市德布勒森市长帕普·拉斯洛（Papp László）对中国锂电隔膜龙头恩捷股份（Semcorp）公开下了逐客令。 此前一周，他刚刚代表市政府以“环境损害罪”的罪名对恩捷提起刑事控告；当地警方确认正式立案侦查。 恩捷不是唯一一家遇到麻烦的中国企业。5月，宁德时代德布勒森工厂因违规排放\"绿色液体\"，被吊销工业废水预处理许可、面临罚款。 7月20日，匈牙利新政府又宣布对比亚迪塞格德工厂投资项目展开全面",
     "publishedAt": "2026-08-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1785993780000",
-    "title": "谷歌AI大换血，背后究竟发生了什么？",
-    "link": "https://www.tmtpost.com/8093622.html",
-    "summary": "Gemini新模型难产，是难以解开的结。",
+    "id": "news--1786010472000",
+    "title": "国产新能源进入阵痛期",
+    "link": "https://www.tmtpost.com/8092682.html",
+    "summary": "车企的艰难，是走上坡路的艰难，中国车企在抢夺旧势力的地盘，在抢夺时代机遇，需要更超越时代的技术和体验，这是一个攀爬的过程，注定是艰难的，但最终也会熬过去，变得更加强大。",
     "publishedAt": "2026-08-06",
     "source": "钛媒体",
     "tags": [
@@ -772,6 +771,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136235",
+    "title": "Supply Chain Transparency",
+    "company": "Ark Intelligence",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
+      "Please mention the word **BARGAIN** and tag RNTIuMTc2LjMyLjE2Mg== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE2Mg==)",
+      "This is a beta feature to av"
+    ],
+    "skills": [],
+    "location": "Standard, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
+    "postedAt": "2026-08-05",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136162",
     "title": "Online Marketing Traineeship",
     "company": "Tyroola.com.au",
@@ -794,7 +810,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound",
-      "Please mention the word **PEPS** and tag RMTcyLjE4NC4yMDkuMTYz when applying to show you read the job post completely (#RMTcyLjE4NC4yMDkuMTYz)"
+      "Please mention the word **PEPS** and tag RNTIuMTc2LjMyLjE2Mg== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE2Mg==)"
     ],
     "skills": [],
     "location": "Guide Post, ",
@@ -811,7 +827,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Whether you have a clear project in mind or just know something needs to change, we'd love to hear from you",
       "We usually get back to you within one business day",
-      "Please mention the word **RECLAIM** and tag RMTcyLjE4NC4yMDkuMTYz when applying to show you read the job post completely (#RMTcyLjE4NC4yMDk"
+      "Please mention the word **RECLAIM** and tag RNTIuMTc2LjMyLjE2Mg== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE"
     ],
     "skills": [],
     "location": "Roorkee, ",
@@ -828,7 +844,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 Certified© 2026 Caesar Labs, Inc",
       "All rights reserved",
-      "Please mention the word **GENEROSITY** and tag RMTcyLjE4NC4yMDkuMTYz when applying to show you read the job pos"
+      "Please mention the word **GENEROSITY** and tag RNTIuMTc2LjMyLjE2Mg== when applying to show you read the job pos"
     ],
     "skills": [],
     "location": "Ajmer, ",
@@ -864,7 +880,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Вы, бывшая наёмница, находите своего друга Леви в плену у бандитов",
       "Ваши шаги бесшумны, и впереди выбор, который изменит всё",
-      "Please mention the word **TENDERLY** and tag RMTcyLjE4NC4yMDkuMTYz when applying to show you read the job post completely (#RMTcyLjE4NC4yMDkuMTYz)",
+      "Please mention the word **TENDERLY** and tag RNTIuMTc2LjMyLjE2Mg== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE2Mg==)",
       "This is a beta feature to"
     ],
     "skills": [],
@@ -873,41 +889,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-what-remains-ouba-1136090",
     "postedAt": "2026-08-04",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136216",
-    "title": "Market Research",
-    "company": "GROW10X",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Company Description GROW10X is a leading full-service agency specializing in helping B2B SaaS technology companies accelerate revenue growth through outbound lead generation",
-      "Utilizing a combination of cutting-edge technology, expert strategies, on-demand data, and a globally distributed team, GROW1"
-    ],
-    "skills": [],
-    "location": "Chennai, Chennai, Tamil Nadu, India",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216",
-    "postedAt": "2026-08-04",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136078",
-    "title": "LiftResume AI",
-    "company": "Myriadloop",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "The habit tracker that scores only planned days, so rest days never count against you",
-      "Private by default",
-      "AI insights that show which habits actually fuel each other",
-      "iOSAndroidOffline-first Please mention the word **PASSIONATE** and tag RMTcyLjE4NC4yMDkuMTYz when applying to show you read the job"
-    ],
-    "skills": [],
-    "location": "Kirkwall, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-liftresume-ai-myriadloop-1136078",
-    "postedAt": "2026-08-04",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-06T06:26:02.455Z';
+export const dataFetchedAt = '2026-08-06T10:34:13.562Z';
