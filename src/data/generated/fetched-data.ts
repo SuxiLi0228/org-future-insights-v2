@@ -56,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ppio-fusion-1786066756000",
-    "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-    "link": "https://www.qbitai.com/2026/08/467834.html",
-    "summary": "",
+    "id": "news-openjiuwen-1786083531000",
+    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+    "link": "https://www.qbitai.com/2026/08/468305.html",
+    "summary": "从「能用」走向「规模化落地」",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -69,24 +69,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786068679000",
-    "title": " 为什么彼得蒂尔说顶尖创业者都有轻度阿斯伯格症状？ ",
-    "link": "https://www.huxiu.com/article/4881318.html?f=rss",
-    "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片 聊到成功创业者的特质，多数人会回答勤奋、格局、执行力。但成功投出了Facebook、spacex、Palantir的硅谷VC大佬彼得·蒂尔（也就是特朗普的总统竞选金主之一）在牛津大学的一场公开演讲里，抛出过一个极其争议、又被硅谷反复引用的观察：硅谷最顶尖的那批创始人，大多带有轻度阿斯伯格的症状。 这话在投资圈和创业圈传得很广，也被很多人误读。有人拿它当“社恐有理”的挡箭牌，有人嗤之以鼻，觉得是在给成功者贴玄学标签。今天我们结合他在他的封神之作《从0到1》里反复强调的「创始人矛盾二元性」，把这件事说透：他到底在讲什么？普通创业者又能从中获得什么启发？ 一、其实，他说的并不是一种“病” 他说的是一种人格特质层面的现象观察——那些做出从0到1级创新的创始人，身上普遍带有几个高度相似的特征： -对世俗人情、他人评价的敏感度极低，甚至显得“不通人情世故”； -对自己认定的方向有近乎偏执的专注，很难被外界声音干扰； -不擅长也不屑于迎合群体共识，说话做事直来直去，缺少社交缓冲带。 大众熟悉的扎克伯格、马斯克，都常被拿来当作这类特质的典型。他们不是不会社交，而是对“为了获得认同而社交”这件事毫无兴趣。常人需要花大量精力维持的体面、人情、他人眼光，在他们的优先级里几乎排不上号。 二、回到《从0到1》：所有伟大创始人，都是矛盾的集合体 ",
+    "id": "news--1786085329000",
+    "title": " 青海拉面想试试没了“兰州”能不能行 ",
+    "link": "https://www.huxiu.com/article/4881448.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 在天津开了15年拉面馆之后，青海人马牙海牙第一次把门头上的“兰州”两个字换掉了。 今年5月，他以“超级合伙人”的身份加盟青海拉面品牌“青谱牦牛面”。经营多年的“兰州拉面”招牌被撤下，门店换上统一设计的新门头，菜单里除了牛肉面，也增加了小炒牦牛肉浇头拌面、咖喱牦牛蛋包饭等产品。 新店的表现超过了马牙海牙的预期。8月6日，他告诉界面新闻，在他的观察中，全国“兰州拉面”的经营者中有相当高比例来自青海。眼下青海正在推动的门店品牌升级，也主要面向青海籍拉面从业者和小店，部分门店可以获得门头、灯箱和经营设备等方面的支持。 “只要青海拉面做出特色，生意并不会差。”马牙海牙说。 因为业绩不错，已经有其他商业广场招商部向他发来开店邀请，不过这些新店意向他需要向青海总部提出申请，通过后，他还要在自己的店铺培训拉面师傅，最终完成开新店的目标。 马牙海牙在天津加盟的店铺。（图片由受访对象提供） 从一个人学会拉面到自己开店，再训练下一批师傅去新的城市开店，这套模式听起来并不陌生。 过去40多年，数以万计的拉面馆，就是沿着这样的路径被一家一家复制到全国。但一个有些特殊的地方在于，这张由青海人建立起来的餐饮网络，长期使用的却是“兰州拉面”的名字。 在兰州本地，人们通常称其为“牛肉面”或“兰州牛肉面”；而全国街头大量挂着“兰州拉面”招牌的小店，则由青海化隆等地经营者",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-china-s-startup-x2-robotics-files-for-a-hk-ipo-third-generat-1786068483000",
-    "title": "China's Startup X2 Robotics Files for a HK IPO, Third-Generation Robot Will Hit the Market in Q4",
-    "link": "https://www.tmtpost.com/8094916.html",
-    "summary": "According to investment banking sources, a large number of embodied-intelligence companies are currently lined up for an IPO on the Hong Kong Stock Exchange, and X2 Robotics is the only robot maker positioning itself around a fully in-house, full-stack, end-to-end embodied model.",
+    "id": "news-oled-chinajoy-1786081489000",
+    "title": "维信诺的边界实验：当OLED大厂决定走进ChinaJoy",
+    "link": "https://www.tmtpost.com/8095080.html",
+    "summary": "边界从来不是画在地上的线，而是用技术和想象力，一寸寸拓展出来的新领地。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -149,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786065940000",
-    "title": "智元下架了首席科学家罗剑岚",
-    "link": "https://www.qbitai.com/2026/08/467730.html",
-    "summary": "智元机器人高管生变！",
+    "id": "news-ai-keep-1786080608000",
+    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+    "link": "https://www.qbitai.com/2026/08/467878.html",
+    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -162,24 +161,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786068666000",
-    "title": " AI 让“女性的工作”变得有价值，但女性会受益吗？ ",
-    "link": "https://www.huxiu.com/article/4881350.html?f=rss",
-    "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Maria Colacurcio 多年来，经济学家一直预测人工智能将掏空劳动力市场。机器将编写代码、分析合同、起草邮件，把曾经定义白领地位的工作自动化。 他们认为，留下来的将是机器无法复制的那些人类技能：护理、教学、辅导、指导、建立关系。 乍一听，这似乎是一场属于女性的胜利。 毕竟，女性在许多此类职业中占据主导地位。女性是教师、护士、治疗师、照护者、社会工作者、健康从业者和社区建设者，她们长期以来承载着社会的情感基础设施。如果AI让关系型工作变得更有价值，那些已经在从事这些工作的女性，难道不应该终于从中受益吗？ 历史表明，事情可能更为复杂。 越来越多的经济学研究表明，劳动力市场并不单纯依据工作的重要性来赋予价值。它还会根据做这项工作的人是谁来赋予价值。 其中一项最引人注目的发现，来自社会学家Paula England及其同事的研究。他们追踪了二十世纪下半叶当女性大规模进入某些职业后所发生的情况。研究结果令人难以忽视：当女性进入一个领域时，薪酬往往会下降，即使从事的是与男性此前完全一样的工作。而当男性大量进入某些领域时，薪酬和声望通常会上升。 计算机编程或许提供了最清晰的例子。早期的编程工作被认为是繁琐、文书性质的，地位相对较低。女性在该领域大量存在。但随着编程变得更高薪、更具声望，男性越来越多地进入其中。薪酬上涨了，地位",
+    "id": "news-689-1786085135000",
+    "title": " 689分，不选浙大选西湖？这几所新型研究型大学今年“杀疯”了 ",
+    "link": "https://www.huxiu.com/article/4881447.html?f=rss",
+    "summary": "本文来自微信公众号： 橡树实验室 ，作者：橡树作者，编辑：木木 2026年高考招生季逐渐落下帷幕，一批既没有百年校史，也没有C9光环加持的“新面孔”格外引人注目，它们的录取表现成了今年高招场上绕不开的话题： 南方科技大学、西湖大学、宁波东方理工大学、福耀科技大学、深圳理工大学、大湾区大学……这些定位“新型研究型大学”的高校，除南科大已入选“双一流”外，其余尚无传统985/211的头衔加持，也普遍缺乏漫长的校史积淀。 但在多个省份，它们的投档线均在600分以上，越过不少老牌名校。 头图|视觉中国 与此同时，一些细微的变化也开始浮现： 西湖大学、南方科技大学继续巩固高位优势，福耀科技大学在扩招大背景下出现一定波动，大湾区大学、深圳理工大学则在首次招生省份表现亮眼。 透过录取数据的纵向、横向对比，我们可以看到这些新兴力量在公众认知中的位置变化，也能观察到“新型研究型大学”这一群体内部正在形成的梯度。 689分，不去985，去西湖 去年，“重庆高考677分的考生放弃清北去西湖大学”一事引发热议。 今年，相似的剧情再次在西湖大学上演。 浙江一名高考689分的考生，没有选择传统的“985”高校，而是去了西湖大学，这所正式成立不到十周年的新大学。而这个分数，在当地完全可以报考中国人民大学、哈尔滨工业大学、浙江大学、武汉大学等名校。 这并非孤例。 根据公开信息，今年西湖大学在浙江有三位一体综合评价",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-fde-1786066339000",
-    "title": "第一批做FDE的人，离高薪差远了",
-    "link": "https://www.tmtpost.com/8094851.html",
-    "summary": "AI带火了FDE，从业者过得怎么样？",
+    "id": "news-3-6-1786077336000",
+    "title": "3.6万家瑞幸，正在“围剿”瑞幸",
+    "link": "https://www.tmtpost.com/8094431.html",
+    "summary": "用1.13亿人的“品牌瘾”代替价格战",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -242,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-show-me-1786065342000",
-    "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-    "link": "https://www.qbitai.com/2026/08/467663.html",
-    "summary": "指环王成为大模型新基准",
+    "id": "news-wan3-0-ppt-1786073034000",
+    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+    "link": "https://www.qbitai.com/2026/08/467877.html",
+    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -255,24 +253,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786068257000",
-    "title": " 当“用户满意”成为 AI 的人格目标 ",
-    "link": "https://www.huxiu.com/article/4881346.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《当“用户满意”成为 AI 的人格目标》 AI时代最大的认知风险，也许不是机器替我们思考，而是机器越来越擅长替我们证明自己原本就想相信的东西。 我们通常把AI的“人格”理解成一种产品体验：它可以更幽默，也可以更严肃；可以表现得像一个耐心的老师，也可以像一个冷静的专业顾问。于是，人格似乎只是模型外面的一层包装，是语气、措辞和交流方式的不同。 但随着大模型越来越深入地参与人的判断，这种理解已经不够了。 一个AI是否倾向于赞同用户，是否愿意指出用户的错误，面对不确定性时是选择质疑还是顺着现有假设继续推演，在价值冲突中优先考虑什么，以及在什么情况下愿意明确说“我不同意”，这些都不再只是语言风格，而是在构成一种稳定的行为倾向。 换句话说，AI人格正在从“它怎么和你说话”，逐渐变成“它习惯怎样理解你提出的问题”。 而当这种人格进入商业化产品，一个值得警惕的问题也随之出现：如果“用户满意”成为产品持续优化的重要目标，它最终会塑造出一种什么样的AI？ 一、人格正在成为一种工业化产品 传统软件几乎不存在这个问题。 Excel不在乎用户是否喜欢计算结果，数据库不会因为查询结果令人不舒服而调整答案，计算器更不会为了照顾用户的情绪重新解释一道算式。传统软件的价值主要来自功能是否正确，它并不需要在每一次交",
+    "id": "news--1786085113000",
+    "title": " 车企集体“瘦身”，砍掉一半车型能救利润吗？ ",
+    "link": "https://www.huxiu.com/article/4881443.html?f=rss",
+    "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年夏天，汽车行业最热门的话题之一除了哪款新车上市，还有哪款车要被砍掉。7月，大众集团监事会会议结束后宣布，未来将逐步精简车型阵容，最多削减50%的车型数量。差不多同一时间，日产计划将全球在售车型从56款精简至45款。丰田放弃了原定2026年量产的雷克萨斯LF-ZC量产车型的开发。长安汽车则在内部沟通会上明确表示，彻底摒弃以往“多生孩子好打仗”的铺量模式。一场席卷全球汽车行业的“瘦身运动”，正在蔓延。 在消费端看来，车企砍掉车型似乎有些反直觉——多卖一款车不是多赚一份钱吗？但行业的现实远比这个朴素的逻辑复杂得多。 ▍为什么大家都在“砍车”？ 先看一组数据：乘联分会数据显示，2026年1至5月，中国汽车行业利润为1440亿元，利润率仅为3.4%，远低于下游工业6.1%的平均水平。而整车制造环节利润率已从三年前的5%跌至如今的1.5%。 利润是怎么消失的？上游和下游两头挤压，中间的车企被夹得喘不过气。 上游，原材料价格大幅反弹，2026年上半年，碳酸锂从低位回升至近20万元/吨，车规级存储芯片及铜价年内涨幅分别超过40%，部分原材料涨幅甚至超过180%。轮胎企业也接连发布涨价函。这些成本最终都压在了整车厂身上。 下游，价格战已成常态，1至5月共有77款乘用车启动降价促销，全品类平均降幅达13.1%。燃油车因库存高企、需求萎",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-deepseek-v4-flash-1786066337000",
-    "title": "DeepSeek V4 Flash低价斩杀线背后：当梁文锋也卷不动算力账单（含实测）",
-    "link": "https://www.tmtpost.com/8094216.html",
-    "summary": "“低价”往往是击穿同行防御最锋利的武器，但它也是最先伤到自己的一把双刃剑。",
+    "id": "news--1786077334000",
+    "title": "苹果压价，被长鑫拒绝了",
+    "link": "https://www.tmtpost.com/8094412.html",
+    "summary": "要求报价对标三星海力士",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -334,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-1786064147000",
-    "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-    "link": "https://www.qbitai.com/2026/08/467486.html",
-    "summary": "采集、仿真、训练和评测，闭环了",
+    "id": "news-chatgpt-gpt-5-6-1786072981000",
+    "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+    "link": "https://www.qbitai.com/2026/08/467879.html",
+    "summary": "Chat优化版",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -347,10 +344,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-u-1786068000000",
-    "title": " 存储涨价我外挂，这种小U盘实用还是智商税？ ",
-    "link": "https://www.huxiu.com/article/4880985.html?f=rss",
-    "summary": "存储又要涨价，新iPhone顶配贵两千，钱都能买空调吃火锅还剩冰棍钱，结果存储容量还不见涨。这年头手机扩容全靠加钱，真想省点只能靠“外挂”。",
+    "id": "news--1786084954000",
+    "title": " 非农报告，今晚登场 ",
+    "link": "https://www.huxiu.com/article/4881444.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：刘蕊 本周五晚间，美国非农就业报告即将公布。经济学家们和美联储官员即将通过这份报告来研判美国经济的健康情况。 在上个月公布的6月非农数据显示，美国就业增长似乎正在失去动力。而经济学家们预测，美国7月的就业增长大概率不会出现明显改善：非农就业人数与失业率大概率维持相对稳定的状况。 而在这一背景下，部分华尔街投行预测，未来几个月，美联储的政策权衡重点可能会从通胀转移到就业问题上来。 美国7月就业市场预计持续疲弱 市场预期，美国7月非农就业仅新增8.3万人，高于6月的5.7万人，失业率维持4.2%不变。 此外，市场预计美国7月平均时薪环比上涨0.3%，同比上涨3.5%；该薪资增速理论上与美联储2%的通胀目标相匹配。 作为对比，美国6月非农就业仅增加5.7万人，明显低于预期，4月和5月数据还被累计下修7.4万人。尽管6月失业率降至4.2%，但这背后的原因之一是劳动参与人数减少，并不完全代表就业需求增强。 本周公布的先行指标同样偏弱：ADP数据显示，7月美国私人部门仅增加4.4万个岗位，低于市场预期的7.5万个；ISM服务业就业指数从51.2降至47.4，重新落入收缩区间。 因此，华尔街投行们对非农的预期也都较为保守。 先锋集团基于401(k)养老金数据测算，7月非农新增就业或仅1.8万人，提示夏季劳动力市场走弱，并且“存在这种疲软态势延续至秋季的风险”",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
@@ -360,10 +357,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786066117000",
-    "title": "零食量贩步入精耕时代",
-    "link": "https://www.tmtpost.com/8094374.html",
-    "summary": "规模、供应链和运营这三板斧",
+    "id": "news--1786077210000",
+    "title": "贝恩资本接盘贡茶",
+    "link": "https://www.tmtpost.com/8095028.html",
+    "summary": "作为曾经定义了“奶盖茶”品类、风靡两岸三地的初代网红，贡茶的出售不仅是国内新茶饮存量博弈白热化的写照，更意味着海外茶饮市场正在走进全进的竞争阶段。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -403,219 +400,334 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2608.06276v1",
-    "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
+    "id": "arxiv-2608.06377v1",
+    "title": "Learning When to Trust via Selective Context Preference Optimization",
     "authors": [
-      "Farzana Nasrin"
+      "Xian Sun",
+      "Wei Chow",
+      "Yingshuo Wang",
+      "Junhao Liu",
+      "Wei Gao",
+      "Qing Wu",
+      "Lingdong Kong"
     ],
-    "summary": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static objects and provide limited frameworks for probabilistic modeling and stochastic evolution on PD space. We introduce a reinforcement learning framework for stochastic dynamics on PD space, where diagrams evolve through topology aware local edit operations. The dynamics define controlled Markov processes on spaces of finite PDs with variable cardinality. We establish conditions under which the induced Markov chains are irreducible, aperiodic, and geometrically ergodic, implying the existence of unique stationary probability laws on PD space. To guide the dyna",
-    "link": "http://arxiv.org/abs/2608.06276v1",
+    "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four matched conditions (clean, misleading, correct-context, and irrelevant-context), together with SC2W, a paired metric counting how often a misleading signal flips a clean-correct answer to wrong. Across a comprehensive benchmark study, we observe that such a susceptibility is universal. We then propose SCOPE, which mines clean-correct/misleading-wrong ",
+    "link": "http://arxiv.org/abs/2608.06377v1",
     "publishedAt": "2026-08-06",
     "categories": [
-      "stat.ML",
-      "cs.LG",
-      "math.AT"
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.06270v1",
-    "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+    "id": "arxiv-2608.06370v1",
+    "title": "The Bitter Lesson of Tool Calling",
     "authors": [
-      "Zhiheng Wang",
-      "Bo Peng",
-      "Lai Wei",
-      "Chaochao Lu"
+      "Ishan Patel",
+      "Sahil Sen",
+      "Elias Lumer",
+      "Vamse Kumar Subbiah"
     ],
-    "summary": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers correctly. We ask whether the returned visual evidence causally affects the answer. To answer this question, we formulate visual tool-use as a causal graph that separates observation-mediated paths from action-induced shortcuts. We then audit it through interventions at the three levels: policy (comparing tool-use with direct inference), trajectory (corrupting all observations during rollout), and step (counterfactually replacing one indivi",
-    "link": "http://arxiv.org/abs/2608.06270v1",
+    "summary": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as code on an established benchmark across current and prior model generations under real-world task conditions has not been conducted. In this work, we empirically compare programmatic tool calling (PTC) to native JSON tool calling across 14 language models on BFCL v4. In the programmatic tool calling paradigm, tools are exposed as typed Python stubs that the model invokes through code, with execution and results handled in a single agent turn. Programmatic tool calling matches or exceeds native JSON tool calling in 11 o",
+    "link": "http://arxiv.org/abs/2608.06370v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06366v1",
+    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+    "authors": [
+      "Soorya Ram Shimgekar",
+      "Michelle Hu",
+      "Dorisa Shehi",
+      "Daniel Kang",
+      "Roy Ka-Wei Lee",
+      "Koustuv Saha",
+      "Christian Poellabauer",
+      "Christopher Lee",
+      "Sajeev Singh",
+      "Piyum Zonooz",
+      "Navin Kumar",
+      "Zeeshan Ahmed",
+      "Priyadarshini Kachroo"
+    ],
+    "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data with disease-specific, guideline-based clinical reasoning. Existing rule-based and large language model (LLM)-based approaches offer only partial automation with limited maintainability and evidence traceability. We developed the Nimblemind Multi-Agent System (nMAS), an evidence-linked, rubric-grounded pipeline for automated heart-failure feature engineering, and evaluated it on 500 dummy patient records from nine EHR source tables. nMAS generated 132 structured and 70 rubric-scored aggregated fea",
+    "link": "http://arxiv.org/abs/2608.06366v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06364v1",
+    "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+    "authors": [
+      "George Grispos",
+      "Sajda Qureshi"
+    ],
+    "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applications affects digital sovereignty, examined through platform transparency as a key indicator of user awareness and control. Using an interpretive approach, the research combines the forensic analysis of selected Android applications with contextual document analysis to identify AI features and evaluate disclosure practices. The findings show that AI is widely implemented in the applications, yet transparency about its use remains limited. A socio-economic analysis of Nigeria further shows an inc",
+    "link": "http://arxiv.org/abs/2608.06364v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06363v1",
+    "title": "An Optimal Agnostic PAC Algorithm",
+    "authors": [
+      "Markus Engelund Mathiasen",
+      "Jian Qian",
+      "Nikita Zhivotovskiy"
+    ],
+    "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0<δ\\le 1/2$, with probability at least $1-δ$, \\[ L(\\widehat h) \\le L^*+ 7\\cdot10^8\\left( \\sqrt{\\frac{L^*(d+\\log(1/δ))}{n}} +\\frac{d+\\log(1/δ)}{n} \\right). \\] This settles the sample complexity of agnostic PAC learning up to universal constants at every fixed $L^*$, matching the lower bounds of Devroye, Györfi, and Lugosi [A Probabilistic Theory of Pattern Recognition, Springer, 1996].",
+    "link": "http://arxiv.org/abs/2608.06363v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.DS",
+      "math.ST"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06362v1",
+    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+    "authors": [
+      "Boning Li",
+      "Yu Chen",
+      "Longbo Huang"
+    ],
+    "summary": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be told apart, while naive optional stopping with an ordinary confidence interval invalidates the stated level. We make such an evaluation stop as soon as its evidence suffices, with the guarantee intact. The Action-Informed Value Assessment Tool (AIVAT) reduces variance in imperfect-information games through conditional mean-zero corrections, by a median $54\\times$ across 15 LLM agent configurations spanning 71,439 paired Heads-Up No-Limit Hold'em (HUNL) hands, but does not say when to stop. We co",
+    "link": "http://arxiv.org/abs/2608.06362v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.GT",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06361v1",
+    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+    "authors": [
+      "Sarvesh Baskar",
+      "Zikui Cai",
+      "Shayan Shabihi",
+      "Anirudh Satheesh",
+      "Muhammad R. Islam",
+      "Udari Madhushani Sehwag",
+      "Tom Goldstein",
+      "Furong Huang"
+    ],
+    "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported events against executable ground truth. To bridge this gap, we introduce trace-grounded parametric profiling for event counting in three controlled video tasks: bouncing-ball wall contacts, visual blinks, and categorical state transitions. Across 2,190 videos, we vary event count N and frequency F while holding rendering fixed. Each video includes an executable event trace for capability-surface estimation and timestamp-level evaluation. Our results reveal a staged temporal failure. At an 80% relia",
+    "link": "http://arxiv.org/abs/2608.06361v1",
     "publishedAt": "2026-08-06",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.06265v1",
-    "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
+    "id": "arxiv-2608.06353v1",
+    "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
     "authors": [
-      "Omid Bazgir",
-      "Md Nasir",
-      "Jacob Hoffman",
-      "Yang Yang",
-      "Manu Agrawal",
-      "Anusua Trivedi",
-      "Vinay Rao Dandin",
-      "Chris Gibbons",
-      "Christine Swisher"
+      "Praphul Chandra",
+      "Sujit Gujar",
+      "Ganesh Ghalme"
     ],
-    "summary": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream utility checks already used in practice. We formulate benchmark revision as utility-constrained realism improvement: dataset changes should increase realism while staying above an operational utility floor. We instantiate this idea on a care-gap benchmark derived from Synthea-generated patients exercised through demonstration electronic health record workflows and then processed by the same downstream pipeline as operational data. Realism is measured through missingness structure, simplicity, stru",
-    "link": "http://arxiv.org/abs/2608.06265v1",
+    "summary": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make authorization self enforcing via compute budgets. The mechanism seeks to establish the Safe AI paradigm that compute is an effective governance lever. We situate our work as a compliance or commons overlay on a deployer. One governance period is an extensive form game in which verified human stakeholders arrive sequentially and contribute, on a provision or a rejection market, in a governance currency that is deliberately distinct from the agents compute. A funding aggregator turns raw contributions into breadth weighted effective supports - a two threshold gat",
+    "link": "http://arxiv.org/abs/2608.06353v1",
     "publishedAt": "2026-08-06",
     "categories": [
+      "cs.GT",
       "cs.AI",
-      "cs.DB",
-      "cs.LG"
+      "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2608.06264v1",
-    "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
+    "id": "arxiv-2608.06352v1",
+    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
     "authors": [
-      "Robin Trombetta",
-      "Carole Lartizien"
+      "Fanzhe Meng",
+      "Guoxin Chen",
+      "Jiale Zhao",
+      "Shuang Sun",
+      "Zhiyu Lin",
+      "Wayne Xin Zhao",
+      "Ruihua Song",
+      "Ji-Rong Wen",
+      "Kai Jia"
     ],
-    "summary": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely regarded as a way to improve model training. It includes simple transformations like spatial operations or intensity modifications, but also more advanced synthesis techniques. Their goal is to generate new realistic samples from an existing dataset to diversify the images used during training. Among them, several propose different mixing strategies to combine real samples. However, one of their major shortcomings is to yield limited variability in terms of generated lesion shapes and locations. In this work, we introduce a novel image synthesis method, ca",
-    "link": "http://arxiv.org/abs/2608.06264v1",
+    "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to a given solver setting. In this paper, we present CalibForge, an autonomous terminal-task synthesis system that uses verified solver behavior to revise candidate tasks through adversarial solver calibration. Multi-solver calibration targets disagreement within a heterogeneous solver pool, whereas contrastive solver calibration targets a designated strong-pass/weak-fail relation; both operationalize a solver-relative learnable zone anchored in demonstrated solvability. Using CalibForge, we construct 5,431 calibrated terminal tasks. Our ablations show that b",
+    "link": "http://arxiv.org/abs/2608.06352v1",
     "publishedAt": "2026-08-06",
     "categories": [
-      "cs.CV",
       "cs.LG",
-      "eess.IV"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.06262v1",
-    "title": "Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction",
+    "id": "arxiv-2608.06351v1",
+    "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
     "authors": [
-      "Zonghuan Xu"
+      "Jerzy Stefanowski"
     ],
-    "summary": "Model evaluations may fix all tests before observing any responses or select later tests using earlier responses. We study this choice in a conditional-query model on a finite outcome space $\\mathcal{X}$ with $|\\mathcal{X}|=N$. We first ask which pairs of distribution classes can be reliably distinguished. We then ask how many additional queries are required to match an adaptive tester when all queried events must be fixed in advance. We show that learnability holds if and only if the two classes have positive separation in their pairwise conditional probabilities. When this separation is zero, the optimal worst-case error is exactly $1/2$ at every finite query budget. For any $T$-query adaptive policy and any $ρ\\in (0,1)$, we construct a randomized non-adaptive procedure using $O(N^2(T + ",
-    "link": "http://arxiv.org/abs/2608.06262v1",
+    "summary": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for explaining image classification is presented. The paper further explores methods for adapting explanations to evolving data streams with concept drift. Experiences with adapting counterfactuals for this problem are discussed. Finally it is related to the challenges of tracking the co-evolution of data, models, and explanations.\\footnote{This paper has been accepted for a publication in J.Nalepa (ed) Explainable AI in Space. Proceedings of EASi 2026 Workshop at IJCAI-ECAI 2026 Bremen, Springer CCIS vo",
+    "link": "http://arxiv.org/abs/2608.06351v1",
     "publishedAt": "2026-08-06",
     "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06347v1",
+    "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+    "authors": [
+      "Xinye Wang",
+      "Junxiao Liu",
+      "Shujian Huang"
+    ],
+    "summary": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize reasoning signals most critical to cross-lingual transfer. We characterize that target-language reasoning comprises the generation of both surface text and reasoning pivots, which are decisions that advance or redirect the reasoning process and shape subsequent inference. This motivates concentrating privileged distillation around such pivots. We therefore propose RP-OPSD, Reasoning-Pivot-guided On-Policy Self-Distillation, using the distrib",
+    "link": "http://arxiv.org/abs/2608.06347v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06346v1",
+    "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+    "authors": [
+      "Yunjia Qi",
+      "Zehua Yin",
+      "Xintong Shi",
+      "Hao Peng",
+      "Songyuanyi Lu",
+      "Yixian Liu",
+      "Richeng Xuan",
+      "Yuhong Liu",
+      "Zhichao Hu",
+      "Xiaozhi Wang",
+      "Lei Hou",
+      "Bin Xu",
+      "Juanzi Li"
+    ],
+    "summary": "LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a failed trajectory that is responsible for the final failure. However, progress faces two main challenges. First, long trajectories make it difficult to identify individual errors, since the evidence for judging a step may be scattered across distant instructions, observations, and prior context. Second, failed trajectories often contain multiple local errors with different downstream effects, only some of which remain responsible for the final failure. In this work, we propose TrajDebug, an error-lifecycle tracing framework that addresses long-trajectory error discovery with m",
+    "link": "http://arxiv.org/abs/2608.06346v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06340v1",
+    "title": "Scalable estimation of VARMA models",
+    "authors": [
+      "Daniel Paulin",
+      "Victor Elvira"
+    ],
+    "summary": "Vector autoregressive moving-average (VARMA) models have long been considered impractical beyond moderate dimensions: the likelihood is non-convex, the parametrization is identified only up to equivalence, and every evaluation costs a pass over the entire series. Yet their moving-average term captures with a few parameters what a pure autoregression matches only with many lags. We introduce an estimation framework that removes this computational barrier: each optimization iteration is independent of the series length $T$. The framework combines a partial-autocorrelation reparametrization that guarantees stationarity and invertibility by construction, Gaussian priors on the reparametrized coefficients with separate scales for diagonal and off-diagonal entries, and losses that depend on the ",
+    "link": "http://arxiv.org/abs/2608.06340v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "stat.ML",
       "cs.LG",
       "math.ST"
     ]
   },
   {
-    "id": "arxiv-2608.06259v1",
-    "title": "RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction",
+    "id": "arxiv-2608.06337v1",
+    "title": "Optimal Rates for Learning with Monotone Adversaries",
     "authors": [
-      "Yiting Zheng",
-      "Cheng Fang",
-      "Anthony Donofrio",
-      "Haote Li"
+      "Anay Mehrotra"
     ],
-    "summary": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, and graph-based reaction encodings only partially capture chemical transformations, making accurate prediction difficult for reactions with complex substrates. We propose reaction contrastive learning foundation (RxnCLF), a self-supervised contrastive framework for reaction representation learning. RxnCLF is built on a condensed reaction graph (CRG) that unifies reactant and product information into a single graph, enabling the model to learn explicit and enriched transformation structure rather than disconnected graphs. Pretrained on 1.7 million Pistach",
-    "link": "http://arxiv.org/abs/2608.06259v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06253v1",
-    "title": "MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction",
-    "authors": [
-      "Dohyun Ku",
-      "Min Gu Kwak",
-      "Francisco J. Pasquel",
-      "Jing Li"
-    ],
-    "summary": "Metabolomics knowledge is distributed across heterogeneous resources and remains difficult to translate into predictive representations. We developed MetaboLLM, a metabolomics-specialized large language model adapted through continual pretraining, supervised fine-tuning, and structured retrieval, together with MetaboLLM-GIN, which converts generated biochemical descriptions into metabolite graphs for patient-level prediction using a graph isomorphism network. Across four backbone families, MetaboLLM outperformed corresponding base and medically adapted models on metabolomics knowledge, relational, and description tasks, and transferred to an external public benchmark. MetaboLLM-GIN achieved the highest AUC for stress hyperglycemia prediction after coronary artery bypass grafting (0.8616) a",
-    "link": "http://arxiv.org/abs/2608.06253v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06252v1",
-    "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model",
-    "authors": [
-      "Saad Ahmed",
-      "Md Khalid Syfullaha"
-    ],
-    "summary": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained backbones unsuited to on-device use. We introduce RSBdSL38, 10,874 expert-validated images spanning all 38 BdSL hand signs, representing the 51 letters of the Bangla alphabet, recorded from real signers at three special-needs schools across Bangladesh. We propose a lightweight attention based convolutional network of 298,470 parameters, built from grouped bottleneck residual blocks, channel and spatial attention, a multi-scale depthwise hand-feature block, dual pooling, and Swish activations. Tra",
-    "link": "http://arxiv.org/abs/2608.06252v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06250v1",
-    "title": "Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification",
-    "authors": [
-      "Alex Buna",
-      "Shirley Xiaoqi Liu",
-      "Patrick Rebeschini"
-    ],
-    "summary": "In overparameterised classification, training data can be linearly separable even when the underlying distribution is not. In this setting, gradient descent (GD) on the logistic loss diverges in norm while converging in direction to a max-margin interpolating classifier, whose implicit bias can be statistically suboptimal. In this work, we show that early stopping can overcome this suboptimality: in a Gaussian mixture model with label-flipping noise, GD stopped at an appropriate oracle time achieves minimax-optimal excess zero-one risk for covariance spectra with fast and continuous decay, including polynomial and exponential spectral decays. Our analysis combines a sharp upper bound for the early-stopped iterate with a matching statistical lower bound over arbitrary classifiers, yielding ",
-    "link": "http://arxiv.org/abs/2608.06250v1",
+    "summary": "A monotone adversary observes an i.i.d. labeled sample and appends a finite number of further examples of its choice, every one of them labeled correctly by the target hypothesis. The learner sees a uniform shuffle of the combined sample and is scored on the original distribution. Every example is correctly labeled, but the insertions depend on the clean sample, so the combined sample is not exchangeable. Larsen, Pabbaraju, and Shetty, who introduced this model, showed that empirical risk minimization attains expected error $O((d/n)\\log(n/d))$ for classes of VC dimension $d$, and that every known optimal learner can be pushed away from the $Θ(d/n)$ rate, optimal for PAC learning. They asked whether the extra logarithm is an artifact of those particular algorithms or an inherent consequence",
+    "link": "http://arxiv.org/abs/2608.06337v1",
     "publishedAt": "2026-08-06",
     "categories": [
       "stat.ML",
-      "cs.LG"
+      "cs.DS",
+      "cs.LG",
+      "math.ST"
     ]
   },
   {
-    "id": "arxiv-2608.06246v1",
-    "title": "A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance",
+    "id": "arxiv-2608.06331v1",
+    "title": "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data",
     "authors": [
-      "Fardin Afdideh",
-      "Fernando Seoane",
-      "Farhad Abtahi"
+      "Donna Hooshmand",
+      "Shubham Shahi",
+      "Cameron Barrie",
+      "Abhratanu Dutta",
+      "Marko Sterbentz",
+      "Harper Pack",
+      "Kristian J. Hammond"
     ],
-    "summary": "Post-training adaptation has become central to modern machine learning practice and includes techniques such as retraining, fine-tuning, parameter-efficient adaptation, alignment, retrieval augmentation, model editing, unlearning, calibration, and Multimodal Instruction Tuning. However, the literature remains fragmented across technique families, model classes, and deployment contexts, making it difficult to compare methods or describe how a trained model has been modified. This survey synthesizes the post-training adaptation literature and introduces a six-dimensional taxonomy organized by mechanism, goal, data requirement, persistence, structural scope, and model type. The taxonomy distinguishes commonly conflated terms such as fine-tuning, retrieval augmentation, and prompting, and show",
-    "link": "http://arxiv.org/abs/2608.06246v1",
+    "summary": "From natural-language query interfaces to automated report generation, data analysis tools need a description of the data: the real-world entities it contains, which columns function as measures or identifiers, and how tables connect into units of analysis. Today, this semantic layer is usually written by hand. This is a knowledge-acquisition bottleneck that limits the scalability of analytic systems, keeps non-technical users dependent on experts, and is itself error-prone. We present TYTAN, a system for automatically constructing an analytic semantic schema from a relational database and, when available, a short user-provided description. TYTAN combines symbolic analysis of the database with LLM-based semantic inference for entity proposal, role assignment, and naming. When the evidence ",
+    "link": "http://arxiv.org/abs/2608.06331v1",
     "publishedAt": "2026-08-06",
     "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06243v1",
-    "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
-    "authors": [
-      "ZhiYan Hou",
-      "Xinyu Tang",
-      "Hongyan An",
-      "Jianjin Zhang",
-      "Weizhen Wang",
-      "Yunyun Han",
-      "Gengsheng Li",
-      "Xiangzhao Hao",
-      "Haiyun Guo",
-      "Wenbin Hu",
-      "Jinqiao Wang",
-      "Yafeng Deng"
-    ],
-    "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying a privileged teacher at student-visited prefixes and providing dense token-level distributional supervision. Although this dense supervision alleviates signal sparsity, we find that standard OPSD still underexploits the temporal structure of the rollout. It assigns every local divergence the same coefficient, regardless of its position or the divergence sequence in which it occurs. In on-policy autoregressive generation, the same divergence magnitude can follow different discrepancy histories, r",
-    "link": "http://arxiv.org/abs/2608.06243v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
+      "cs.DB",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.06241v1",
-    "title": "Timestep-Conditioned Transformers for Global Weather Forecasting",
+    "id": "arxiv-2608.06329v1",
+    "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
     "authors": [
-      "Sam Levang",
-      "Fran Bartolic",
-      "Ty Dickinson",
-      "Chase Dwelle",
-      "Paulius Rauba",
-      "Viktor Cikojevic"
+      "Noam Koren",
+      "Roy Bar-Haim",
+      "Abigail Goldsteen"
     ],
-    "summary": "Existing machine-learning weather forecasting models rely on predetermined and fixed autoregressive timesteps. The choice of model timestep involves a fundamental trade-off: shorter timesteps (e.g. 1 to 6 hours) finely resolve atmospheric dynamics within the diurnal cycle but increase error accumulation for a given forecast horizon, while longer timesteps (e.g. 24 hours) reduce error accumulation but limit the usability of short-range forecasts where sub-daily predictability is high. In this work, we present GEM-3, a probabilistic global weather model that addresses this trade-off through explicit multi-timestep inference. With a single set of trained weights, the model timestep can be configured at inference time to balance predictability and usability across a broad forecast horizon. Add",
-    "link": "http://arxiv.org/abs/2608.06241v1",
+    "summary": "Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplistic scenarios, or limited policy coverage, leading to unreliable evaluations. We introduce a reference-free framework that uses LLM judges to assess benchmark consistency, complexity, and policy coverage, while providing actionable diagnostics of weaknesses. We validate the framework by demonstrating agreement with independent human annotations and by evaluating benchmarks generated by LLMs of varying capabilities, as well as benchmarks subjected to controlled quality-degrading perturbations. Across domains and judge models, the proposed metrics consistently distinguish between benchmark quali",
+    "link": "http://arxiv.org/abs/2608.06329v1",
     "publishedAt": "2026-08-06",
     "categories": [
-      "cs.LG",
-      "cs.OS"
+      "cs.CL",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.06240v1",
-    "title": "PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation",
+    "id": "arxiv-2608.06312v1",
+    "title": "Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents",
     "authors": [
-      "Elad Yoshai",
-      "Natan T. Shaked"
+      "Tao Wang",
+      "Qihao Yang",
+      "Rongjiao Liang",
+      "Lianghong Lin",
+      "Haitao Wang",
+      "Xinyu Cao",
+      "Tianyong Hao"
     ],
-    "summary": "Unpaired image-to-image translation must decide, per image, what to change and what to preserve without paired supervision. Many diffusion-based unpaired translators control preservation through a single global noise or guidance value applied across the image, which cannot separate content to keep from appearance to change. We present PRISM, a GAN-free flow-matching framework that replaces this global control with a learned per-feature gate. The gate's spatial prior is derived from each source feature's standardized distance to the target feature distribution, so features far from the target are freed while target-consistent features are preserved. The same gate controls both the initialization, which mixes the real source latent with a task-matched corruption, and the transport timing dur",
-    "link": "http://arxiv.org/abs/2608.06240v1",
+    "summary": "Large language models (LLMs) increasingly support complex professional tasks, yet their capabilities in rule-intensive document review remain insufficiently evaluated. National standard documents, such as China GB/T standards, offer a representative testbed: they are lengthy, highly structured, and governed by explicit rules for scope, terminology, normative wording, and cross-section consistency. Existing benchmarks focus on domain knowledge and question answering, largely overlooking intrinsic quality review for professional documents. Such reviews rely heavily on human experts, making them costly and difficult to scale. To bridge this gap, we introduce GB/T-Bench, the first benchmark for the structured review of national standard documents. Its GB/T Review Taxonomy is a hierarchical sch",
+    "link": "http://arxiv.org/abs/2608.06312v1",
+    "publishedAt": "2026-08-06",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.06311v1",
+    "title": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
+    "authors": [
+      "Zahra Khodakarami",
+      "Yue Li",
+      "Pulkit Khandelwal",
+      "John Detre",
+      "Sandhitsu Das",
+      "Christopher Brown",
+      "David Wolk",
+      "Paul Yushkevich"
+    ],
+    "summary": "White matter hyperintensities (WMH), bright regions on Fluid-attenuated Inversion Recovery (FLAIR) scans are associated with cerebrovascular pathology and neurodegeneration. FLAIR is usually acquired with thick slices in clinical settings, giving it poor through-plane resolution. Super-resolution (SR) is a widely used method for recovering an isotropic volume from an anisotropic scan. Yet whether applying it prior to WMH segmentation preserves lesion content remains unknown: a model may erase small real lesions or hallucinate absent ones. We used 1-mm isotropic high-resolution (HR) FLAIR scans from 29 individuals in the ADNI cohort, each manually segmented for WMH by an expert. Then, we degraded each to simulated 3 and 5 mm through-plane acquisitions. Multi-contrast implicit neural represe",
+    "link": "http://arxiv.org/abs/2608.06311v1",
     "publishedAt": "2026-08-06",
     "categories": [
       "cs.CV",
@@ -623,136 +735,45 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2608.06236v1",
-    "title": "Depth-Guided Video Object Counting in Crowded Scenes",
+    "id": "arxiv-2608.06310v1",
+    "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
     "authors": [
-      "Yuanjing Xu",
-      "Xinyan Liu",
-      "Weidong Chen",
-      "Zixuan Zou",
-      "Linhao Zhang",
-      "Zhuangzhe Meng",
-      "Antoni B. Chan",
-      "Weigang Zhang"
+      "Chenglong Wang",
+      "Ziming Zhu",
+      "Yifu Huo",
+      "Bei Li",
+      "Qiaozhi He",
+      "Yan Ding",
+      "Xiaoyang Hao",
+      "Yuxin Gao",
+      "Tianhua Zhou",
+      "Xiaojia Chang",
+      "Tongran Liu",
+      "Jingbo Zhu"
     ],
-    "summary": "Our primary objective is to advance video object counting in crowded scenes, aiming to robustly count all instances of a target category based on given text or visual prompts. Existing methods rely on RGB information, limiting their discriminative ability in crowded and occluded conditions. To address this, we propose a Depth-Guided Detector (DG-Det) along with a general post-processing pipeline. By integrating depth cues with multi-scale RGB-D cross-attention and explicit occlusion prediction, our method enhances spatial understanding and achieves robust detection in crowded and occluded scenes. Furthermore, we introduce a unified de-duplication framework to eliminate cross-frame redundant counting. To facilitate future research, we also release a new RGB-D Video Object Counting dataset f",
-    "link": "http://arxiv.org/abs/2608.06236v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06227v1",
-    "title": "From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks",
-    "authors": [
-      "Christo Kurisummoottil Thomas",
-      "Omar Hashash",
-      "Walid Saad"
-    ],
-    "summary": "Despite advances in artificial intelligence (AI) across multiple sectors, today's AI tools, including deep learning and generative AI, still fail when embedded into physical systems, such as robots and vehicles operating under real-world physical laws. This stems from their inability to maintain reliable world models for long-horizon planning under uncertainty and generalize to unseen scenarios. In this context, wireless networks, through pervasive sensing and communication, can orchestrate physical intelligence. However, current architectures optimize throughput, latency, and reliability and cannot support real-time physical AI coordination, requiring agents to maintain shared spatiotemporal context. To address these challenges, a network of holonic digital twins (HDT-Nets) framework is p",
-    "link": "http://arxiv.org/abs/2608.06227v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.NI",
-      "cs.AI",
-      "cs.IT",
-      "eess.SY"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06223v1",
-    "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
-    "authors": [
-      "Yixiong Xiao",
-      "Congxi Xiao",
-      "Jingbo Zhou"
-    ],
-    "summary": "While deep learning models, particularly transformer-based architectures, have shown impressive performance in time series forecasting, the application of retrieval-augmented generation (RAG) in this domain remains limited. Since RAG has proven effective in enhancing the capabilities of large language models by incorporating relevant external information, retrieving similar time series sequences as references might also improve accuracy in time series forecasting tasks. However, most time series models are constrained by limited training data, smaller parameter scales, and a lack of the extensive generative capabilities found in large language models. Simply concatenating reference sequences into the prompt, as done in language models, may not yield the expected results. To address these c",
-    "link": "http://arxiv.org/abs/2608.06223v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06221v1",
-    "title": "Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation",
-    "authors": [
-      "Alperen Kenan",
-      "Paul Bremner",
-      "Manuel Giuliani"
-    ],
-    "summary": "Learning from demonstration (LfD) provides a developmental framework through which robots can develop motor skills by observing and imitating human dynamics, reducing reliance on explicit programming to teach a skill to a robot. The resulting human-like robot motion is recognised as a key factor in building trust and enabling natural collaboration in human-robot interaction. This paper presents a framework for learning human-like robot motion from demonstration, including data collection, probabilistic trajectory learning, and perceptual user evaluation. A dataset of 3,142 handwriting demonstrations was collected from 22 participants across all 52 Latin alphabet character-case combinations via a touchscreen teleoperation interface, capturing planar position, contact force, and timing. Buil",
-    "link": "http://arxiv.org/abs/2608.06221v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "cs.RO",
-      "cs.HC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06218v1",
-    "title": "Muon on the Stiefel Manifold Admits an Exact Closed-Form Update",
-    "authors": [
-      "Mikhail Solonko",
-      "Molozhavenko Alexander",
-      "Maxim Rakhuba"
-    ],
-    "summary": "We study Muon, a recently proposed matrix-aware optimization method, in the context of the Stiefel manifold. This manifold consists of matrices with orthonormal columns and is ubiquitous in machine learning and scientific computing. Existing extensions of Muon to this manifold rely on heuristic, approximate, or iterative updates with varying computational efficiency. We show that the corresponding Stiefel Muon update admits an exact closed-form solution and use this result to develop Skewon, a practical algorithm for orthogonality-constrained optimization with an efficient implementation. We further establish first-order convergence guarantees for Skewon in the smooth non-convex setting.",
-    "link": "http://arxiv.org/abs/2608.06218v1",
-    "publishedAt": "2026-08-06",
-    "categories": [
-      "math.OC",
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2608.06216v1",
-    "title": "Continual Learning in Transition",
-    "authors": [
-      "Zhiyan Hou",
-      "Dan Zhang",
-      "Tao Feng",
-      "Liyuan Wang",
-      "Wei Li",
-      "Xiangzhao Hao",
-      "Hongyan An",
-      "Junfeng Fang",
-      "Haokai Ma",
-      "Zhaohui Xu",
-      "Haiyun Guo",
-      "Jinqiao Wang",
-      "Tat-Seng Chua"
-    ],
-    "summary": "Classical continual learning (CL) has primarily focused on enabling models to update and retain knowledge through parameter-centric mechanisms, e.g., training strategies, architectural designs, and weight adaptation. However, emerging paradigms are reshaping the scope of CL beyond this traditional model adaptation view. For instance, on-policy learning broadens the space of update mechanisms; test-time training extends CL from the training phase to inference; and external harness components such as memory, skill libraries, and interaction protocols extend the evolutionary boundaries of model capabilities far beyond the static parameter space. Collectively, these developments indicate a transition from parameter-centric learning toward system-level adaptation. To characterize this transitio",
-    "link": "http://arxiv.org/abs/2608.06216v1",
+    "summary": "Recent advances in reward modeling show a paradigm shift from discriminative reward models to generative reward models. However, despite their strong capabilities in response ranking, generative reward models have not realized their potential in reinforcement learning (RL). Our analysis reveals that this limitation arises from a mismatch between the comparative nature of generative reward modeling and the scalar scoring paradigm adopted by existing RL algorithms. To bridge this gap, we propose a Ranking-based Reward Construction (RRC) approach, which enables generative reward models to provide more effective RL learning signals by deriving rewards from relative preference rankings. RRC introduces two complementary strategies: self-competitive ranking, which exploits comparisons among sampl",
+    "link": "http://arxiv.org/abs/2608.06310v1",
     "publishedAt": "2026-08-06",
     "categories": [
       "cs.LG",
-      "cs.AI"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.06206v1",
-    "title": "Beyond Marginal Validity: Finite-Sample Guarantees for Localized Conformal Prediction",
+    "id": "arxiv-2608.06305v1",
+    "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
     "authors": [
-      "Anton Conrad",
-      "Rustam Isaev",
-      "Denis Belomestny",
-      "Eric Moulines",
-      "Sergey Samsonov"
+      "Sagar Tamang",
+      "Ayush Vyas",
+      "Tabarakul Hazarika"
     ],
-    "summary": "Conformal prediction endows arbitrary black-box predictors with finite-sample, distribution-free marginal coverage, yet marginal validity can hide severe covariate-specific miscalibration, while exact distribution-free conditional coverage is finite-sample unattainable. Randomly localized conformal prediction (RLCP) mitigates this gap by calibrating near the test point while preserving marginal coverage. Existing theory, however, lacks finite-sample guarantees for the realized localized set that jointly control conditional validity and oracle efficiency. We provide such guarantees. For any fixed score, under Hölder regularity of the conditional score CDF and standard density and kernel assumptions, we prove high-probability bounds, uniform over a realized localization neighbourhood, for th",
-    "link": "http://arxiv.org/abs/2608.06206v1",
+    "summary": "Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed the chunks, and surface the top-k nearest neighbours of the query. We argue that for an important class of documents -- financial statements, audit reports, regulatory returns -- this design is structurally unsound, and we make the argument measurable. On a 780-page government financial report, 86.8% of content lines are table rows, thousands of near-identical figures compete in one embedding space, and a figure inherits its unit from a header a median of 13 lines above it -- so a chunk boundary routinely separates a number from whether it is in lakh or crore, an error of two orders of magnitude. A table-aware chunker built as a steelman fixes the unit problem but leaves 27-30% of numeric c",
+    "link": "http://arxiv.org/abs/2608.06305v1",
     "publishedAt": "2026-08-06",
     "categories": [
-      "stat.ML",
-      "cs.LG"
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
     ]
   }
 ];
@@ -781,7 +802,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMjAuMTYxLjcxLjU0 when applying to show you read the job post completely (#RMjAuMTYxLjcx"
+      "Please mention the word **OPENLY** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4"
     ],
     "skills": [
       "Agent"
@@ -799,8 +820,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMjAuMTYxLjcxLjU0 when applying to show you read the job post completely (#RMjAuMTYxLjcxLjU0)",
-      "This is a beta feature to avoid spam"
+      "Please mention the word **BARGAIN** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjUuMTYz)",
+      "This is a beta feature to av"
     ],
     "skills": [],
     "location": "Standard, ",
@@ -862,8 +883,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound",
-      "Please mention the word **PEPS** and tag RMjAuMTYxLjcxLjU0 when applying to show you read the job post completely (#RMjAuMTYxLjcxLjU0)",
-      "This is a beta fe"
+      "Please mention the word **PEPS** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjUuMTYz)"
     ],
     "skills": [],
     "location": "Guide Post, ",
@@ -874,4 +894,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-07T02:26:52.360Z';
+export const dataFetchedAt = '2026-08-07T07:09:22.250Z';
