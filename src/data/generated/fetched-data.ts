@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-new-ai-smart-speaker-will-reportedly-sell-for--1786056233000",
-    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "publishedAt": "2026-08-06",
+    "id": "news-the-founder-8217-s-guide-to-techcrunch-disrupt-2026-everythi-1786105800000",
+    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -56,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openjiuwen-1786083531000",
-    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-    "link": "https://www.qbitai.com/2026/08/468305.html",
-    "summary": "从「能用」走向「规模化落地」",
+    "id": "news-ai-cosyvoice-studio-1786088586000",
+    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+    "link": "https://www.qbitai.com/2026/08/468324.html",
+    "summary": "AI语音“听、说、创”一站式满足",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -69,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786085329000",
-    "title": " 青海拉面想试试没了“兰州”能不能行 ",
-    "link": "https://www.huxiu.com/article/4881448.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 在天津开了15年拉面馆之后，青海人马牙海牙第一次把门头上的“兰州”两个字换掉了。 今年5月，他以“超级合伙人”的身份加盟青海拉面品牌“青谱牦牛面”。经营多年的“兰州拉面”招牌被撤下，门店换上统一设计的新门头，菜单里除了牛肉面，也增加了小炒牦牛肉浇头拌面、咖喱牦牛蛋包饭等产品。 新店的表现超过了马牙海牙的预期。8月6日，他告诉界面新闻，在他的观察中，全国“兰州拉面”的经营者中有相当高比例来自青海。眼下青海正在推动的门店品牌升级，也主要面向青海籍拉面从业者和小店，部分门店可以获得门头、灯箱和经营设备等方面的支持。 “只要青海拉面做出特色，生意并不会差。”马牙海牙说。 因为业绩不错，已经有其他商业广场招商部向他发来开店邀请，不过这些新店意向他需要向青海总部提出申请，通过后，他还要在自己的店铺培训拉面师傅，最终完成开新店的目标。 马牙海牙在天津加盟的店铺。（图片由受访对象提供） 从一个人学会拉面到自己开店，再训练下一批师傅去新的城市开店，这套模式听起来并不陌生。 过去40多年，数以万计的拉面馆，就是沿着这样的路径被一家一家复制到全国。但一个有些特殊的地方在于，这张由青海人建立起来的餐饮网络，长期使用的却是“兰州拉面”的名字。 在兰州本地，人们通常称其为“牛肉面”或“兰州牛肉面”；而全国街头大量挂着“兰州拉面”招牌的小店，则由青海化隆等地经营者",
+    "id": "news--1786106750000",
+    "title": " 新鲜零食进京，门店模型跑通了吗？ ",
+    "link": "https://www.huxiu.com/article/4881575.html?f=rss",
+    "summary": "本文来自微信公众号： 灵兽 ，作者：十里 新鲜零食扎堆北京合生汇，4家店抢同一层，谁在复制谁？ 1 门店形态趋同 新鲜零食赛道，正在进入一线城市。 今年5月才在深圳开出首店的新鲜零食大口兽，不到三个月，北京首店便落地朝阳合生汇。几乎同期，青山森进入北京，门店与大口兽相距不到50米。 《灵兽》在工作日上午探访了两家门店。大口兽门店的客流还不错，门口偶尔有人排队，8个收银台开了3个，消费者排队大概5分钟。而青山森因受位置和可见度的问题，现场客流相对较少。 目前，加上此前刚刚开出的一栗，以及正在装修的薛记炒货，合生汇在同一层相距不到50米的位置，将有4家新鲜零食店。 在北京，新鲜零食仍是一个相对新的消费场景。 相比其他两家，大口兽和青山森更接近当下“标准”新鲜零食的模式，跟金粒门和几多全较为相似。 具体来说，大口兽门店面积大概是300平方米，SKU大概有100个；青山森门店大概200平方米，SKU大概150个，鲜食大概占整体SKU的一半。两家店都用定制化包装，商品通过冷藏柜、货架还有堆头来陈列，整体氛围比较接近。 现场甚至有消费者询问：“这两家店是什么关系？” 相似的不只是装修和包装，部分商品也存在重合，比如烘焙爆款麻薯、碱水面包，以及膨化食品虾片、土豆条等。 但具体在选品和占比这两件事儿上，两家店还是有一些不一样的地方。 比如，大口兽更偏向“烘焙鲜食化”。 四条冷藏柜主要摆着甜点、熟食",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
@@ -82,10 +82,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oled-chinajoy-1786081489000",
-    "title": "维信诺的边界实验：当OLED大厂决定走进ChinaJoy",
-    "link": "https://www.tmtpost.com/8095080.html",
-    "summary": "边界从来不是画在地上的线，而是用技术和想象力，一寸寸拓展出来的新领地。",
+    "id": "news-maia-active-28-67-20-72-2026-1786101000000",
+    "title": "MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报",
+    "link": "https://www.tmtpost.com/8095593.html",
+    "summary": "薇诺娜正式官宣李永钦TEN成为薇诺娜品牌倾慕大使；资生堂集团上半年销售额同比增长6.2%。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -108,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-s-1786053600000",
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
-    "publishedAt": "2026-08-06",
+    "id": "news-new-mexico-court-orders-meta-to-pay-additional-567m-in-child-1786102837000",
+    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "summary": "Meta's total fine has raked up to $942 million in this case",
+    "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -148,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-keep-1786080608000",
-    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-    "link": "https://www.qbitai.com/2026/08/467878.html",
-    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+    "id": "news-ai-bug-1786083665000",
+    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+    "link": "https://www.qbitai.com/2026/08/466738.html",
+    "summary": "",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -161,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-689-1786085135000",
-    "title": " 689分，不选浙大选西湖？这几所新型研究型大学今年“杀疯”了 ",
-    "link": "https://www.huxiu.com/article/4881447.html?f=rss",
-    "summary": "本文来自微信公众号： 橡树实验室 ，作者：橡树作者，编辑：木木 2026年高考招生季逐渐落下帷幕，一批既没有百年校史，也没有C9光环加持的“新面孔”格外引人注目，它们的录取表现成了今年高招场上绕不开的话题： 南方科技大学、西湖大学、宁波东方理工大学、福耀科技大学、深圳理工大学、大湾区大学……这些定位“新型研究型大学”的高校，除南科大已入选“双一流”外，其余尚无传统985/211的头衔加持，也普遍缺乏漫长的校史积淀。 但在多个省份，它们的投档线均在600分以上，越过不少老牌名校。 头图|视觉中国 与此同时，一些细微的变化也开始浮现： 西湖大学、南方科技大学继续巩固高位优势，福耀科技大学在扩招大背景下出现一定波动，大湾区大学、深圳理工大学则在首次招生省份表现亮眼。 透过录取数据的纵向、横向对比，我们可以看到这些新兴力量在公众认知中的位置变化，也能观察到“新型研究型大学”这一群体内部正在形成的梯度。 689分，不去985，去西湖 去年，“重庆高考677分的考生放弃清北去西湖大学”一事引发热议。 今年，相似的剧情再次在西湖大学上演。 浙江一名高考689分的考生，没有选择传统的“985”高校，而是去了西湖大学，这所正式成立不到十周年的新大学。而这个分数，在当地完全可以报考中国人民大学、哈尔滨工业大学、浙江大学、武汉大学等名校。 这并非孤例。 根据公开信息，今年西湖大学在浙江有三位一体综合评价",
+    "id": "news--1786106377000",
+    "title": " 暑假还没过完，这些酒店先撑不住了 ",
+    "link": "https://www.huxiu.com/article/4881574.html?f=rss",
+    "summary": "本文来自微信公众号： 闻旅 ，作者：吴艳蕊，编辑：Sette 1 7月中旬，西安有家青柠酒店，住客住到一半，晚上突然停电。 打电话到前台，得到的回复是酒店倒闭了。 虽然住客当晚收到了剩余房费，并在其他酒店入住。 但对于这次经历，住客还是认为太离谱。 同时，对于闭店的消息，酒店员工也认为很突然，并透露自己的工资也没要到。 近期，因酒店闭店影响出行计划的案例，不止这一个。 在投诉平台上，有不少消费者因酒店倒闭而进行维权。7月份就有两起相关维权事件。 7月末，在社交平台上，有网友分享酒店倒闭的体验。 该网友常住的酒店突然预约不上，到了现场发现酒店倒闭了。 酒店三位前台被欠了两个月的工资和社保。 不仅已经开业的酒店在闭店，有些筹备中的酒店也胎死腹中。 天眼查资料显示，酒店行业从6月1日至7月16日注册成立的公司中，有224家目前处于注销状态。 这224家酒店，甚至没能等到把招牌挂上去的那一天。 按理说，六七月份注册，筹备快的酒店，正好能赶上国庆前的预热；筹备慢的酒店，也能为来年布局。 但这些酒店老板在注册后短短不到两个月的时间就果断注销，连开业都等不到。 说明在筹备阶段，老板们就已经算不过账来了。 2 直接压垮他们最后预期的一件事，是今年暑假的生意，不够旺。 要知道，暑期收入在全年营收中占大头。 虽然寒暑假、两个黄金周，还有那些零星的小长假，对旅游业来说都是旺季。 真要论分量，七八月的暑期",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-6-1786077336000",
-    "title": "3.6万家瑞幸，正在“围剿”瑞幸",
-    "link": "https://www.tmtpost.com/8094431.html",
-    "summary": "用1.13亿人的“品牌瘾”代替价格战",
+    "id": "news--1786100499000",
+    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
+    "link": "https://www.tmtpost.com/8095008.html",
+    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -200,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vogue-just-gave-another-nod-of-approval-to-the-tech-world-1786051487000",
-    "title": "Vogue just gave another nod of approval to the tech world",
-    "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-    "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+    "id": "news-openai-8217-s-new-ai-smart-speaker-will-reportedly-sell-for--1786056233000",
+    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
@@ -240,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wan3-0-ppt-1786073034000",
-    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-    "link": "https://www.qbitai.com/2026/08/467877.html",
-    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+    "id": "news-openjiuwen-1786083531000",
+    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+    "link": "https://www.qbitai.com/2026/08/468305.html",
+    "summary": "从「能用」走向「规模化落地」",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -253,23 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786085113000",
-    "title": " 车企集体“瘦身”，砍掉一半车型能救利润吗？ ",
-    "link": "https://www.huxiu.com/article/4881443.html?f=rss",
-    "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年夏天，汽车行业最热门的话题之一除了哪款新车上市，还有哪款车要被砍掉。7月，大众集团监事会会议结束后宣布，未来将逐步精简车型阵容，最多削减50%的车型数量。差不多同一时间，日产计划将全球在售车型从56款精简至45款。丰田放弃了原定2026年量产的雷克萨斯LF-ZC量产车型的开发。长安汽车则在内部沟通会上明确表示，彻底摒弃以往“多生孩子好打仗”的铺量模式。一场席卷全球汽车行业的“瘦身运动”，正在蔓延。 在消费端看来，车企砍掉车型似乎有些反直觉——多卖一款车不是多赚一份钱吗？但行业的现实远比这个朴素的逻辑复杂得多。 ▍为什么大家都在“砍车”？ 先看一组数据：乘联分会数据显示，2026年1至5月，中国汽车行业利润为1440亿元，利润率仅为3.4%，远低于下游工业6.1%的平均水平。而整车制造环节利润率已从三年前的5%跌至如今的1.5%。 利润是怎么消失的？上游和下游两头挤压，中间的车企被夹得喘不过气。 上游，原材料价格大幅反弹，2026年上半年，碳酸锂从低位回升至近20万元/吨，车规级存储芯片及铜价年内涨幅分别超过40%，部分原材料涨幅甚至超过180%。轮胎企业也接连发布涨价函。这些成本最终都压在了整车厂身上。 下游，价格战已成常态，1至5月共有77款乘用车启动降价促销，全品类平均降幅达13.1%。燃油车因库存高企、需求萎",
+    "id": "news-ai-1786105053000",
+    "title": " AI 产品做出来不再是难题之后 ",
+    "link": "https://www.huxiu.com/article/4881570.html?f=rss",
+    "summary": "本文来自微信公众号： DARE to B2B ，作者：种&nbsp;IT&nbsp;的田 一场Builders Table的五个共识和五个独识 这场桌上，已经没有人再聊模型选型，Agent怎么做。大家开始讨论Agent进入业务之后，谁来用、怎么留、怎么收钱。 Claude Code、Cursor、Agent、RAG、Workflow，正在变成一套默认配置。 真正反复讨论的问题变成： AI怎么进入真实业务？怎么进入用户每天都在使用的软件？怎么获得第一批用户？怎么证明自己的价值？又怎么完成商业闭环？ 技术，在这里已经不是终点，而是默认前提。 桌边坐着小二十位背景完全不同的人：有长期做产品的，有软件工程师，有设计师，有内容和品牌从业者，有服务传统产业的人，也有刚刚开始做产品的年轻人。 有人已经用vibe coding上架过多款App，有人在公司内部做机器人和MCP，有人把内容生产变成自动化Workflow，有人正在做浏览器工具、个人AI助理，也有人拿AI服务传统企业。 他们未必对所有问题有一致答案。但两个小时下来，五个共识逐渐浮现。而在每个共识旁边，又出现了一些更值得继续追踪的独识。 编程构建被压薄，后续链条仍在 共识一：做出来，已经不是最难的事 过去做一个产品，中间隔着一条很长的链路：产品设计之后找UI，UI之后找前端，前端之后接后端，然后测试、部署、上线。很多想法甚至没有机会接受市场",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1786077334000",
-    "title": "苹果压价，被长鑫拒绝了",
-    "link": "https://www.tmtpost.com/8094412.html",
-    "summary": "要求报价对标三星海力士",
+    "id": "news--1786100425000",
+    "title": "谷歌的告别：大模型正在进入“车库时代”",
+    "link": "https://www.tmtpost.com/8095060.html",
+    "summary": "全栈太重，轻装才能跑得快。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -292,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-to-1786051200000",
-    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-    "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "id": "news-your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-s-1786053600000",
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
@@ -331,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-gpt-5-6-1786072981000",
-    "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-    "link": "https://www.qbitai.com/2026/08/467879.html",
-    "summary": "Chat优化版",
+    "id": "news-ai-keep-1786080608000",
+    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+    "link": "https://www.qbitai.com/2026/08/467878.html",
+    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -344,10 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786084954000",
-    "title": " 非农报告，今晚登场 ",
-    "link": "https://www.huxiu.com/article/4881444.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：刘蕊 本周五晚间，美国非农就业报告即将公布。经济学家们和美联储官员即将通过这份报告来研判美国经济的健康情况。 在上个月公布的6月非农数据显示，美国就业增长似乎正在失去动力。而经济学家们预测，美国7月的就业增长大概率不会出现明显改善：非农就业人数与失业率大概率维持相对稳定的状况。 而在这一背景下，部分华尔街投行预测，未来几个月，美联储的政策权衡重点可能会从通胀转移到就业问题上来。 美国7月就业市场预计持续疲弱 市场预期，美国7月非农就业仅新增8.3万人，高于6月的5.7万人，失业率维持4.2%不变。 此外，市场预计美国7月平均时薪环比上涨0.3%，同比上涨3.5%；该薪资增速理论上与美联储2%的通胀目标相匹配。 作为对比，美国6月非农就业仅增加5.7万人，明显低于预期，4月和5月数据还被累计下修7.4万人。尽管6月失业率降至4.2%，但这背后的原因之一是劳动参与人数减少，并不完全代表就业需求增强。 本周公布的先行指标同样偏弱：ADP数据显示，7月美国私人部门仅增加4.4万个岗位，低于市场预期的7.5万个；ISM服务业就业指数从51.2降至47.4，重新落入收缩区间。 因此，华尔街投行们对非农的预期也都较为保守。 先锋集团基于401(k)养老金数据测算，7月非农新增就业或仅1.8万人，提示夏季劳动力市场走弱，并且“存在这种疲软态势延续至秋季的风险”",
+    "id": "news-7-1786104962000",
+    "title": " 今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期 ",
+    "link": "https://www.huxiu.com/article/4881571.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦 美国7月非农就业报告将于北京时间今晚公布，市场共识预期新增就业约8万人，但多重前瞻指标发出混杂信号，部分机构给出的预测远低于共识，\"弱7月\"魔咒能否打破，成为当前市场最大悬念。 市场预期区间异常宽泛，从最高15.7万人到最低的4万人不等。高盛预测新增7.5万人，略低于共识；先锋（Vanguard）则给出仅1.8万人的极低预测，认为今年春季就业数据受天气、世界杯用工及地方政府提前招聘等因素虚抬，7月面临较大回调压力。与此同时，ADP私营部门就业数据仅增4.4万，大幅不及预期，进一步加剧了下行风险的担忧。 对美联储而言，当前政策重心已明确转向通胀，而非就业。多位官员近期均将劳动力市场描述为\"稳定\"，一份强劲的就业数据将强化\"更长时间维持高利率\"的预期，进而对利率敏感型资产形成压力；反之，若数据疲软，则可能推动市场定价向温和降息方向移动。 \"弱7月\"魔咒：近三年连续不及预期 此次报告最受市场关注的背景之一，是7月就业数据近年来持续令人失望的规律。 据高盛研究报告，过去三年，美国7月非农就业增量相较于彼时的三个月均值平均低了6.6万人，较市场共识平均低了3.5万人。这些弱于预期的数据，还伴随着前两个月数据的大幅下修，平均下修幅度达11.2万人。 高盛经济学家Ronnie Walker和Jessica Rindels在报告中将这一规律列为下行",
     "publishedAt": "2026-08-07",
     "source": "虎嗅",
     "tags": [
@@ -357,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786077210000",
-    "title": "贝恩资本接盘贡茶",
-    "link": "https://www.tmtpost.com/8095028.html",
-    "summary": "作为曾经定义了“奶盖茶”品类、风靡两岸三地的初代网红，贡茶的出售不仅是国内新茶饮存量博弈白热化的写照，更意味着海外茶饮市场正在走进全进的竞争阶段。",
+    "id": "news-12-1786100388000",
+    "title": "12万台冰箱海外召回：格兰仕的成本账算错了什么",
+    "link": "https://www.tmtpost.com/8095215.html",
+    "summary": "CPSC公告26-649号召回，格兰仕中山工厂生产的12.17万台复古冰箱因\"内部电气元件短路引发起火\"被召回，34起火灾报告、1人死亡。冰箱是诞生超百年的成熟产品，电气短路不该发生，更不该以12万台规模发生。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -383,17 +384,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-says-hackers-are-calling-financial-firm-employees-to--1786045246000",
-    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-    "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-    "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+    "id": "news-vogue-just-gave-another-nod-of-approval-to-the-tech-world-1786051487000",
+    "title": "Vogue just gave another nod of approval to the tech world",
+    "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+    "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
     "publishedAt": "2026-08-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   }
 ];
@@ -780,6 +780,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136278",
+    "title": "Junior Team Members weekdays availability",
+    "company": "Supply Coffee",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "We are looking for JUNIOR TEAM MEMBERS with WEEKDAYS AVAILABILITY to join our team at Supply Coffee",
+      "Benefits Competitive salary Training and growth opportunities Evenings off (We are only open until 2.30pm!) Work on the Coffs Harbour jetty and enjoy a beautiful view",
+      "About Us A team of doers and dr"
+    ],
+    "skills": [],
+    "location": "Coffs Harbour, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278",
+    "postedAt": "2026-08-06",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136269",
     "title": "Maintenance Technician",
     "company": "The McBride Group",
@@ -802,7 +819,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4"
+      "Please mention the word **OPENLY** and tag RMTcyLjIwMy4yMDcuMjAw when applying to show you read the job post completely (#RMTcyLjIw"
     ],
     "skills": [
       "Agent"
@@ -820,7 +837,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjUuMTYz)",
+      "Please mention the word **BARGAIN** and tag RMTcyLjIwMy4yMDcuMjAw when applying to show you read the job post completely (#RMTcyLjIwMy4yMDcuMjAw)",
       "This is a beta feature to av"
     ],
     "skills": [],
@@ -875,23 +892,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-marketing-traineeship-tyroola-com-au-1136162",
     "postedAt": "2026-08-05",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136119",
-    "title": "The AI Optimization Playbook",
-    "company": "InBrief.ai",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound",
-      "Please mention the word **PEPS** and tag RMTcyLjE4Mi4yMjUuMTYz when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjUuMTYz)"
-    ],
-    "skills": [],
-    "location": "Guide Post, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119",
-    "postedAt": "2026-08-05",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-07T07:09:22.250Z';
+export const dataFetchedAt = '2026-08-07T12:54:53.475Z';
