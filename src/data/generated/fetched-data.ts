@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-google-s-ai-shake-up-and-meta-s-rogue-model-1786018200000",
-    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
-    "publishedAt": "2026-08-06",
+    "id": "news-the-download-a-censorship-conspiracy-theory-and-the-first-vi-1786112400000",
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+    "publishedAt": "2026-08-07",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-the-founder-8217-s-guide-to-techcrunch-disrupt-2026-everythi-1786105800000",
-    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "id": "news-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents-1786119369000",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
@@ -42,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-must-employers-always-wait-before-clarifying-fmla-certificat-1786049280000",
-    "title": "Must employers always wait before clarifying FMLA certifications with providers? Not necessarily, 4th Circuit says",
-    "link": "https://www.hrdive.com/news/must-employers-always-wait-before-clarifying-fmla-certifications-with-provi/827274/",
-    "summary": "The ruling suggests employers don&rsquo;t necessarily have to wait for workers to fix authenticity problems with Family and Medical Leave Act certification documents.",
-    "publishedAt": "2026-08-06",
+    "id": "news-corporate-conversations-about-ai-productivity-are-mostly-foc-1786114920000",
+    "title": "Corporate conversations about AI productivity are mostly focused on future gains",
+    "link": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
+    "summary": "When it comes to the performance benefits of artificial intelligence, the vast majority of executives expect to realize results later on, a new report says.",
+    "publishedAt": "2026-08-07",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -69,23 +68,170 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786106750000",
-    "title": " 新鲜零食进京，门店模型跑通了吗？ ",
-    "link": "https://www.huxiu.com/article/4881575.html?f=rss",
-    "summary": "本文来自微信公众号： 灵兽 ，作者：十里 新鲜零食扎堆北京合生汇，4家店抢同一层，谁在复制谁？ 1 门店形态趋同 新鲜零食赛道，正在进入一线城市。 今年5月才在深圳开出首店的新鲜零食大口兽，不到三个月，北京首店便落地朝阳合生汇。几乎同期，青山森进入北京，门店与大口兽相距不到50米。 《灵兽》在工作日上午探访了两家门店。大口兽门店的客流还不错，门口偶尔有人排队，8个收银台开了3个，消费者排队大概5分钟。而青山森因受位置和可见度的问题，现场客流相对较少。 目前，加上此前刚刚开出的一栗，以及正在装修的薛记炒货，合生汇在同一层相距不到50米的位置，将有4家新鲜零食店。 在北京，新鲜零食仍是一个相对新的消费场景。 相比其他两家，大口兽和青山森更接近当下“标准”新鲜零食的模式，跟金粒门和几多全较为相似。 具体来说，大口兽门店面积大概是300平方米，SKU大概有100个；青山森门店大概200平方米，SKU大概150个，鲜食大概占整体SKU的一半。两家店都用定制化包装，商品通过冷藏柜、货架还有堆头来陈列，整体氛围比较接近。 现场甚至有消费者询问：“这两家店是什么关系？” 相似的不只是装修和包装，部分商品也存在重合，比如烘焙爆款麻薯、碱水面包，以及膨化食品虾片、土豆条等。 但具体在选品和占比这两件事儿上，两家店还是有一些不一样的地方。 比如，大口兽更偏向“烘焙鲜食化”。 四条冷藏柜主要摆着甜点、熟食",
-    "publishedAt": "2026-08-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-maia-active-28-67-20-72-2026-1786101000000",
     "title": "MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报",
     "link": "https://www.tmtpost.com/8095593.html",
     "summary": "薇诺娜正式官宣李永钦TEN成为薇诺娜品牌倾慕大使；资生堂集团上半年销售额同比增长6.2%。",
+    "publishedAt": "2026-08-07",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-ideas-of-a-vast-censorship-network-moved-from-the-online-1786111200000",
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+    "publishedAt": "2026-08-07",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-computer-maker-framework-notifies-8216-all-customers-8217-of-1786118944000",
+    "title": "Computer maker Framework notifies &#8216;all customers&#8217; of a data breach",
+    "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+    "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+    "publishedAt": "2026-08-07",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eavesdropping-at-work-a-german-court-weighs-in-1786048210000",
+    "title": "Eavesdropping at work? A German court weighs in",
+    "link": "https://hrexecutive.com/eavesdropping-at-work-a-german-court-weighs-in/",
+    "summary": "A German labor court ruling on worker misconduct shows employers are judged by their response, not the conflict's outcome. The post Eavesdropping at work? A German court weighs in appeared first on HR Executive .",
+    "publishedAt": "2026-08-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-july-sees-job-losses-portending-a-potential-rough-patch-for--1786114920000",
+    "title": "July sees job losses, portending a potential rough patch for employers",
+    "link": "https://www.hrdive.com/news/july-sees-job-losses-portending-a-potential-rough-patch-for-employers/827327/",
+    "summary": "&ldquo;Don&rsquo;t put too much stock in a single report, but don&rsquo;t ignore the fact that the plane is starting to shake,&rdquo; a&nbsp;senior economist said.",
+    "publishedAt": "2026-08-07",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-bug-1786083665000",
+    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+    "link": "https://www.qbitai.com/2026/08/466738.html",
+    "summary": "",
+    "publishedAt": "2026-08-07",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786100499000",
+    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
+    "link": "https://www.tmtpost.com/8095008.html",
+    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
+    "publishedAt": "2026-08-07",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-google-s-ai-shake-up-and-meta-s-rogue-model-1786018200000",
+    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+    "publishedAt": "2026-08-06",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-today-8217-s-the-last-day-to-get-up-to-400-off-your-techcrun-1786117953000",
+    "title": "Today&#8217;s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "publishedAt": "2026-08-07",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-your-workforce-spans-generations-does-your-workforce-strateg-1786047316000",
+    "title": "Your workforce spans generations. Does your workforce strategy?",
+    "link": "https://hrexecutive.com/your-workforce-spans-generations-does-your-workforce-strategy/",
+    "summary": "The goal is not rules for different generations; it's to build a flexible workforce strategy to support workers across career and life stages. The post Your workforce spans generations. Does your workforce strategy? appeared first on HR Executive .",
+    "publishedAt": "2026-08-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-employers-need-to-have-conversations-about-menopause-experts-1786049280000",
+    "title": "Employers need to have conversations about menopause, experts say",
+    "link": "https://www.hrdive.com/news/employers-need-to-have-conversations-about-menopause-experts-say/827258/",
+    "summary": "&ldquo;First and foremost, we have to have a culture that fosters safety so that people feel safe to ask for the support that they need,&rdquo; said Patty Borst from consultancy The Partners Group.&nbsp;",
+    "publishedAt": "2026-08-06",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-openjiuwen-1786083531000",
+    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+    "link": "https://www.qbitai.com/2026/08/468305.html",
+    "summary": "从「能用」走向「规模化落地」",
+    "publishedAt": "2026-08-07",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786100425000",
+    "title": "谷歌的告别：大模型正在进入“车库时代”",
+    "link": "https://www.tmtpost.com/8095060.html",
+    "summary": "全栈太重，轻装才能跑得快。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -108,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-mexico-court-orders-meta-to-pay-additional-567m-in-child-1786102837000",
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "summary": "Meta's total fine has raked up to $942 million in this case",
+    "id": "news-trump-administration-has-spent-nearly-4b-to-cancel-offshore--1786115463000",
+    "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+    "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+    "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
@@ -121,37 +267,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eavesdropping-at-work-a-german-court-weighs-in-1786048210000",
-    "title": "Eavesdropping at work? A German court weighs in",
-    "link": "https://hrexecutive.com/eavesdropping-at-work-a-german-court-weighs-in/",
-    "summary": "A German labor court ruling on worker misconduct shows employers are judged by their response, not the conflict's outcome. The post Eavesdropping at work? A German court weighs in appeared first on HR Executive .",
+    "id": "news-fewer-than-1-in-3-orgs-plan-peanut-butter-pay-increases-in-2-1786047042000",
+    "title": "Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027",
+    "link": "https://hrexecutive.com/fewer-than-1-in-3-orgs-planning-peanut-butter-pay-increases-in-2027/",
+    "summary": "Many employees are stuck in “pay paralysis,” according to new data from Payscale, which found a downturn in the number of organizations planning across-the-board pay increases next year. The post Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027 appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "organization"
     ]
   },
   {
-    "id": "news-employers-need-to-have-conversations-about-menopause-experts-1786049280000",
-    "title": "Employers need to have conversations about menopause, experts say",
-    "link": "https://www.hrdive.com/news/employers-need-to-have-conversations-about-menopause-experts-say/827258/",
-    "summary": "&ldquo;First and foremost, we have to have a culture that fosters safety so that people feel safe to ask for the support that they need,&rdquo; said Patty Borst from consultancy The Partners Group.&nbsp;",
+    "id": "news-must-employers-always-wait-before-clarifying-fmla-certificat-1786049280000",
+    "title": "Must employers always wait before clarifying FMLA certifications with providers? Not necessarily, 4th Circuit says",
+    "link": "https://www.hrdive.com/news/must-employers-always-wait-before-clarifying-fmla-certifications-with-provi/827274/",
+    "summary": "The ruling suggests employers don&rsquo;t necessarily have to wait for workers to fix authenticity problems with Family and Medical Leave Act certification documents.",
     "publishedAt": "2026-08-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-ai-bug-1786083665000",
-    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-    "link": "https://www.qbitai.com/2026/08/466738.html",
-    "summary": "",
+    "id": "news-ai-keep-1786080608000",
+    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+    "link": "https://www.qbitai.com/2026/08/467878.html",
+    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -161,23 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786106377000",
-    "title": " 暑假还没过完，这些酒店先撑不住了 ",
-    "link": "https://www.huxiu.com/article/4881574.html?f=rss",
-    "summary": "本文来自微信公众号： 闻旅 ，作者：吴艳蕊，编辑：Sette 1 7月中旬，西安有家青柠酒店，住客住到一半，晚上突然停电。 打电话到前台，得到的回复是酒店倒闭了。 虽然住客当晚收到了剩余房费，并在其他酒店入住。 但对于这次经历，住客还是认为太离谱。 同时，对于闭店的消息，酒店员工也认为很突然，并透露自己的工资也没要到。 近期，因酒店闭店影响出行计划的案例，不止这一个。 在投诉平台上，有不少消费者因酒店倒闭而进行维权。7月份就有两起相关维权事件。 7月末，在社交平台上，有网友分享酒店倒闭的体验。 该网友常住的酒店突然预约不上，到了现场发现酒店倒闭了。 酒店三位前台被欠了两个月的工资和社保。 不仅已经开业的酒店在闭店，有些筹备中的酒店也胎死腹中。 天眼查资料显示，酒店行业从6月1日至7月16日注册成立的公司中，有224家目前处于注销状态。 这224家酒店，甚至没能等到把招牌挂上去的那一天。 按理说，六七月份注册，筹备快的酒店，正好能赶上国庆前的预热；筹备慢的酒店，也能为来年布局。 但这些酒店老板在注册后短短不到两个月的时间就果断注销，连开业都等不到。 说明在筹备阶段，老板们就已经算不过账来了。 2 直接压垮他们最后预期的一件事，是今年暑假的生意，不够旺。 要知道，暑期收入在全年营收中占大头。 虽然寒暑假、两个黄金周，还有那些零星的小长假，对旅游业来说都是旺季。 真要论分量，七八月的暑期",
-    "publishedAt": "2026-08-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786100499000",
-    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
-    "link": "https://www.tmtpost.com/8095008.html",
-    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
+    "id": "news-12-1786100388000",
+    "title": "12万台冰箱海外召回：格兰仕的成本账算错了什么",
+    "link": "https://www.tmtpost.com/8095215.html",
+    "summary": "CPSC公告26-649号召回，格兰仕中山工厂生产的12.17万台复古冰箱因\"内部电气元件短路引发起火\"被召回，34起火灾报告、1人死亡。冰箱是诞生超百年的成熟产品，电气短路不该发生，更不该以12万台规模发生。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -200,29 +333,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-new-ai-smart-speaker-will-reportedly-sell-for--1786056233000",
-    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "publishedAt": "2026-08-06",
+    "id": "news-host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at--1786113000000",
+    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+    "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-your-workforce-spans-generations-does-your-workforce-strateg-1786047316000",
-    "title": "Your workforce spans generations. Does your workforce strategy?",
-    "link": "https://hrexecutive.com/your-workforce-spans-generations-does-your-workforce-strategy/",
-    "summary": "The goal is not rules for different generations; it's to build a flexible workforce strategy to support workers across career and life stages. The post Your workforce spans generations. Does your workforce strategy? appeared first on HR Executive .",
+    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
+    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
+    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
+    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
     "publishedAt": "2026-08-06",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -240,10 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openjiuwen-1786083531000",
-    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-    "link": "https://www.qbitai.com/2026/08/468305.html",
-    "summary": "从「能用」走向「规模化落地」",
+    "id": "news-wan3-0-ppt-1786073034000",
+    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+    "link": "https://www.qbitai.com/2026/08/467877.html",
+    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -253,146 +387,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786105053000",
-    "title": " AI 产品做出来不再是难题之后 ",
-    "link": "https://www.huxiu.com/article/4881570.html?f=rss",
-    "summary": "本文来自微信公众号： DARE to B2B ，作者：种&nbsp;IT&nbsp;的田 一场Builders Table的五个共识和五个独识 这场桌上，已经没有人再聊模型选型，Agent怎么做。大家开始讨论Agent进入业务之后，谁来用、怎么留、怎么收钱。 Claude Code、Cursor、Agent、RAG、Workflow，正在变成一套默认配置。 真正反复讨论的问题变成： AI怎么进入真实业务？怎么进入用户每天都在使用的软件？怎么获得第一批用户？怎么证明自己的价值？又怎么完成商业闭环？ 技术，在这里已经不是终点，而是默认前提。 桌边坐着小二十位背景完全不同的人：有长期做产品的，有软件工程师，有设计师，有内容和品牌从业者，有服务传统产业的人，也有刚刚开始做产品的年轻人。 有人已经用vibe coding上架过多款App，有人在公司内部做机器人和MCP，有人把内容生产变成自动化Workflow，有人正在做浏览器工具、个人AI助理，也有人拿AI服务传统企业。 他们未必对所有问题有一致答案。但两个小时下来，五个共识逐渐浮现。而在每个共识旁边，又出现了一些更值得继续追踪的独识。 编程构建被压薄，后续链条仍在 共识一：做出来，已经不是最难的事 过去做一个产品，中间隔着一条很长的链路：产品设计之后找UI，UI之后找前端，前端之后接后端，然后测试、部署、上线。很多想法甚至没有机会接受市场",
-    "publishedAt": "2026-08-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786100425000",
-    "title": "谷歌的告别：大模型正在进入“车库时代”",
-    "link": "https://www.tmtpost.com/8095060.html",
-    "summary": "全栈太重，轻装才能跑得快。",
+    "id": "news-7-5-609-1786100320000",
+    "title": "一签7.5万、估值609亿，机构投资人都在疯抢宇树科技？",
+    "link": "https://www.tmtpost.com/8094702.html",
+    "summary": "人形机器人面前，GPU得往后排。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nasa-s-new-dark-energy-space-telescope-can-also-detect-kille-1785917200000",
-    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
-    "publishedAt": "2026-08-05",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-s-1786053600000",
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
-    "publishedAt": "2026-08-06",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-fewer-than-1-in-3-orgs-plan-peanut-butter-pay-increases-in-2-1786047042000",
-    "title": "Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027",
-    "link": "https://hrexecutive.com/fewer-than-1-in-3-orgs-planning-peanut-butter-pay-increases-in-2027/",
-    "summary": "Many employees are stuck in “pay paralysis,” according to new data from Payscale, which found a downturn in the number of organizations planning across-the-board pay increases next year. The post Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-gen-x-employees-say-they-are-burned-out-from-caregiving-resp-1786029180000",
-    "title": "Gen X employees say they are burned out from caregiving responsibilities",
-    "link": "https://www.hrdive.com/news/gen-x-employees-say-they-are-burned-out-from-caregiving-responsibilities/827194/",
-    "summary": "Caregiving demands &ldquo;inevitably spill over to the workday,&rdquo; yet a third of employees reported receiving little or no support from their employer.",
-    "publishedAt": "2026-08-06",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-ai-keep-1786080608000",
-    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-    "link": "https://www.qbitai.com/2026/08/467878.html",
-    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
-    "publishedAt": "2026-08-07",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-7-1786104962000",
-    "title": " 今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期 ",
-    "link": "https://www.huxiu.com/article/4881571.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦 美国7月非农就业报告将于北京时间今晚公布，市场共识预期新增就业约8万人，但多重前瞻指标发出混杂信号，部分机构给出的预测远低于共识，\"弱7月\"魔咒能否打破，成为当前市场最大悬念。 市场预期区间异常宽泛，从最高15.7万人到最低的4万人不等。高盛预测新增7.5万人，略低于共识；先锋（Vanguard）则给出仅1.8万人的极低预测，认为今年春季就业数据受天气、世界杯用工及地方政府提前招聘等因素虚抬，7月面临较大回调压力。与此同时，ADP私营部门就业数据仅增4.4万，大幅不及预期，进一步加剧了下行风险的担忧。 对美联储而言，当前政策重心已明确转向通胀，而非就业。多位官员近期均将劳动力市场描述为\"稳定\"，一份强劲的就业数据将强化\"更长时间维持高利率\"的预期，进而对利率敏感型资产形成压力；反之，若数据疲软，则可能推动市场定价向温和降息方向移动。 \"弱7月\"魔咒：近三年连续不及预期 此次报告最受市场关注的背景之一，是7月就业数据近年来持续令人失望的规律。 据高盛研究报告，过去三年，美国7月非农就业增量相较于彼时的三个月均值平均低了6.6万人，较市场共识平均低了3.5万人。这些弱于预期的数据，还伴随着前两个月数据的大幅下修，平均下修幅度达11.2万人。 高盛经济学家Ronnie Walker和Jessica Rindels在报告中将这一规律列为下行",
-    "publishedAt": "2026-08-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-12-1786100388000",
-    "title": "12万台冰箱海外召回：格兰仕的成本账算错了什么",
-    "link": "https://www.tmtpost.com/8095215.html",
-    "summary": "CPSC公告26-649号召回，格兰仕中山工厂生产的12.17万台复古冰箱因\"内部电气元件短路引发起火\"被召回，34起火灾报告、1人死亡。冰箱是诞生超百年的成熟产品，电气短路不该发生，更不该以12万台规模发生。",
-    "publishedAt": "2026-08-07",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-us-robot-restrictions-and-ice-8217-s-dna-grab-1785845640000",
-    "title": "The Download: US robot restrictions and ICE&#8217;s DNA grab",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
-    "publishedAt": "2026-08-04",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-vogue-just-gave-another-nod-of-approval-to-the-tech-world-1786051487000",
-    "title": "Vogue just gave another nod of approval to the tech world",
-    "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-    "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-    "publishedAt": "2026-08-06",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
       "ai"
     ]
   }
@@ -819,7 +823,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjIwMy4yMDcuMjAw when applying to show you read the job post completely (#RMTcyLjIw"
+      "Please mention the word **OPENLY** and tag RMTM1LjIzMi4yMjQuMTEz when applying to show you read the job post completely (#RMTM1LjIz"
     ],
     "skills": [
       "Agent"
@@ -837,7 +841,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMTcyLjIwMy4yMDcuMjAw when applying to show you read the job post completely (#RMTcyLjIwMy4yMDcuMjAw)",
+      "Please mention the word **BARGAIN** and tag RMTM1LjIzMi4yMjQuMTEz when applying to show you read the job post completely (#RMTM1LjIzMi4yMjQuMTEz)",
       "This is a beta feature to av"
     ],
     "skills": [],
@@ -876,23 +880,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-how-ai-is-reshaping-higher-education-program-discovery-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136272",
     "postedAt": "2026-08-05",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136162",
-    "title": "Online Marketing Traineeship",
-    "company": "Tyroola.com.au",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About The Role Join our 3-6 month paid Online Marketing Traineeship focused on content and onsite optimization",
-      "You’ll work closely with experienced professionals, gaining hands-on experience in digital marketing while contributing to Tyroola’s rapid growth in the online tyre retail market"
-    ],
-    "skills": [],
-    "location": "Millers Point, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-marketing-traineeship-tyroola-com-au-1136162",
-    "postedAt": "2026-08-05",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-07T12:54:53.475Z';
+export const dataFetchedAt = '2026-08-07T18:51:01.931Z';
