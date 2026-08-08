@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-cosyvoice-studio-1786088586000",
-    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-    "link": "https://www.qbitai.com/2026/08/468324.html",
-    "summary": "AI语音“听、说、创”一站式满足",
-    "publishedAt": "2026-08-07",
+    "id": "news-astra-mythos-1786163633000",
+    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+    "link": "https://www.qbitai.com/2026/08/468462.html",
+    "summary": "唉，赶紧整完快点发布吧。。。",
+    "publishedAt": "2026-08-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -68,31 +68,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786149579000",
-    "title": " 演完霸总回家卖菜，中戏毕业的短剧演员也没戏可拍了 ",
-    "link": "https://www.huxiu.com/article/4881610.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，编辑：L，作者：简墨 这是他阔别已久的、真实的烟火气，是曾经无比熟悉又渐渐远离、如今正在捡拾起来的记忆，也是他作为一名演员，在AI浪潮下做出的新尝试。 一辆破旧的三轮车，满载一车滚圆的洋葱、青翠的小葱，还有刚出土的土豆。车上，操着一口正宗平度话的摊主，正热火朝天地冲来往行人吆喝：“圆葱（洋葱）1.5元两斤了！” 提起这些场景，你首先想到的是什么？是热闹喧嚣的农村大集，还是忙于养家糊口的农村摊主？相信少有人会将这个场景与演员联系起来。但事实确实如此。站在三轮车上叫卖的人——许鹏，身高184厘米，是从中央戏剧学院毕业的科班演员。今年过年前，他还在一部短剧里演“霸总”；过年后，他就成了站在三轮车上热情叫卖的菜摊摊主。 许鹏对此很坦然。这是他阔别已久的、真实的烟火气，是曾经无比熟悉又渐渐远离、如今正在捡拾起来的记忆，也是他作为一名演员，在AI浪潮下做出的新尝试。 从长剧到短剧 从进入中央戏剧学院学习，到毕业参加工作，许鹏在影视剧里演过不少角色，他是《上古密约》里的左贡、《天涯热土》里的吴强、《如果声音有记忆》里的周爽……虽不是主角，但也不是无名之辈。 摸爬滚打10余年，他到了一个略显尴尬的境地——向上一步，总差些机缘；向下一步，又心有不甘。 和他同期毕业的同学，有人进入影视圈，成了家喻户晓的明星；有人进入短剧领域，早早演上了男主角——这也是不少演员在短剧蓬勃",
+    "id": "news--1786170561000",
+    "title": " 银幕上八仙抱团成仙，银幕外同行无路可走 ",
+    "link": "https://www.huxiu.com/article/4881660.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申 2026年8月7日下午一点，2026年暑期档总票房突破80亿。 据央视新闻客户端报道，这是连续第27天单日票房破亿。 同一天，动画电影《八仙》票房站上13亿，稳坐暑期档动画票房冠军。 也是在这段时间，另一部国产动画《三国第一部：争洛阳》悄然从院线撤档。 它的豆瓣评分8.1，只比《八仙》的8.3低0.2分。 但它的票房定格在9153万，不到《八仙》的十四分之一。 据齐鲁晚报统计，今年暑期档仅有这一部国产动画票房破亿。 《八仙》讲的是八个凡人抱团成仙的故事。 各怀毛病的小人物，在危难面前选择互相托举。 银幕上的八仙在抱团取暖。 银幕外的同行在排队等死。 一、14倍：口碑只差0.2分，票房差了14倍 《八仙》和《三国第一部：争洛阳》几乎是同一时间段上映的国产动画。 一个豆瓣8.3，一个豆瓣8.1。 0.2分的差距，放在任何一个评分体系里都算不上显著。 但票房的差距是14倍。 13亿对9153万。 据齐鲁晚报报道，《三国》的排片占比一度降至0.8%。 0.8%意味着什么？ 意味着全国绝大多数影院，一天只给它排一场。 而且大概率是非黄金时段的早场或夜场。 观众想看也找不到场次。 找不到场次就更没有票房。 没有票房影院就更不愿意排片。 这是一个完美的死亡螺旋。 《三国》不是烂片。 它的制作团队是《长安三万里》的原班人马，国风美学质感突出，剧情考据扎",
     "publishedAt": "2026-08-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-8-1786150081000",
-    "title": "Edge AI Daily 早报（8月8日）",
-    "link": "https://www.tmtpost.com/8095938.html",
-    "summary": "OpenAI推400美元音箱、苹果入局智能家居、AWS算力饥荒暴露结构性矛盾，硅谷前沿持续演进。英伟达cuFile开源、谷歌DeepMind开源气旋模型、vLLM吞噬推理市场、低资源语言模型突破，开源趋势深化。国内海南跨境电商建生态，中金称头部卖家反转。Liquid AI端侧模型碾压大参数，哈佛学者批判AI替代政府。",
+    "id": "news-shopify-1786158600000",
+    "title": "Shopify赢麻了",
+    "link": "https://www.tmtpost.com/8096066.html",
+    "summary": "Shopify的创始人说，亚马逊想构建一个帝国，而Shopify要做的，是为所有的叛军提供武器。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -149,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-bug-1786083665000",
-    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-    "link": "https://www.qbitai.com/2026/08/466738.html",
-    "summary": "",
-    "publishedAt": "2026-08-07",
+    "id": "news-ai-1786157102000",
+    "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+    "link": "https://www.qbitai.com/2026/08/468398.html",
+    "summary": "再花15亿美元买现成AI编程团队",
+    "publishedAt": "2026-08-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -162,24 +162,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786149406000",
-    "title": " 谷歌AI，杯酒释兵权 ",
-    "link": "https://www.huxiu.com/article/4881609.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：版君 Google刚完成了一场没有失败者的人事调整。 至少看起来如此。 8月6日，Google一天之内同时送走了两位AI时代最重要的人。 一个，是DeepMind创始人哈萨比斯（Demis Hassabis）。 另一个，是Google首席科学家Jeff Dean。 戏剧性的是，没有一个人真的离开Google。他们都升职了，得到了最体面的安排，每个人都在社交平台上打出完美的官方微笑。 一家超4万亿美金级别的巨头公司进行核心权力洗牌，竟然没有产生任何震荡与怨言。 这件事，比AI模型本身更值得仔细打量。 一、Google AI，打了十年内战 要理解8月6日发生了什么，得先回到更早的时候。 2014年，Google以4亿英镑收购DeepMind。当时这家公司只有几十个人，没产品，没收入。 Google看中的是哈萨比斯这个人，一个四岁下棋、十三岁拿到大师、卖掉游戏公司去读神经科学博士的AGI偏执狂。 当年为了防备Google的商业渗透，哈萨比斯甚至在收购协议里签下了极为苛刻的条款：DeepMind保留伦敦总部，设立独立的伦理委员会，绝不直接为Google的搜索广告业务服务。 收购之后，哈萨比斯直接向Google CEO皮查伊汇报，像个远离山景城商业嘈杂的独立王国。 与此同时，山景城大本营里还有另一支嫡系部队，由谷歌传奇技术大牛Jeff Dean带队的G",
+    "id": "news-4-ipo-1786169195000",
+    "title": " 深圳，4个月批量诞生千亿IPO ",
+    "link": "https://www.huxiu.com/article/4881658.html?f=rss",
+    "summary": "本文来自微信公众号： 和讯 ，作者：蔚蓝 8月4日，嘉立创在深交所主板挂牌上市，开盘大涨177%，市值突破1300亿元。 这已经是深圳今年第四家上市首日市值突破千亿的IPO。咱们把时间往前数，4月大普微登陆创业板，市值在5月25日一度冲上3000亿元，成为创业板首家未盈利上市企业。6月，惠科股份登陆深交所主板，收盘市值3065亿元，一举超越京东方。7月，华润新能源在深交所上市，募资245亿元刷新深市IPO纪录，市值冲上3000亿元。 四家千亿IPO企业8月7日收盘数据（正在IPO制表） 深圳今年新增26家境内外上市公司，首发募资约928亿元。A股新增数量、港股上市数量、境内外上市总数、募资金额四项指标，全部排在全国城市第一。 为什么是深圳？在中国的产业版图上，北京集聚了最多的高校和科研院所，上海拥有最完备的金融和国际化资源。深圳既不是科教中心，也不是金融中心，却成了这一轮IPO潮最大的赢家。 01 不是今天才发生的事 深圳的千亿IPO，不是一夜之间冒出来的。 回到1997年。27岁的王智勇从重庆南下深圳，在一家电子厂做显示器组装。那时的深圳，是全球电子制造业向中国转移的前沿阵地。王智勇从最基础的组装干起，一步步向上游走。二十多年后，他创立的惠科股份电视面板出货面积位列全球第三。 2016年，大普微在龙岗成立，专注于企业级SSD主控芯片和模组。创始团队是几位从海外回来的存储行业老兵。",
     "publishedAt": "2026-08-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-d-1786147200000",
-    "title": "工业AI企业硕橙科技完成超亿元D+轮融资，工业母机产业投资基金领投｜首发",
-    "link": "https://www.tmtpost.com/8090423.html",
-    "summary": "工业AI的竞争已从模型性能的比拼转向交付能力、规模化产业落地能力、系统级整合能力的较量。",
+    "id": "news--1786158120000",
+    "title": "光伏遭遇内外夹击，八大巨头同签行业倡议书，特朗普再次挥舞关税大棒，价格战到底能不能结束了？",
+    "link": "https://www.tmtpost.com/8096059.html",
+    "summary": "2026.8.6内外夹击下中国光伏行业迎来洗牌拐点。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -243,11 +242,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openjiuwen-1786083531000",
-    "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-    "link": "https://www.qbitai.com/2026/08/468305.html",
-    "summary": "从「能用」走向「规模化落地」",
-    "publishedAt": "2026-08-07",
+    "id": "news-kimi-k3-ai-1786156538000",
+    "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+    "link": "https://www.qbitai.com/2026/08/468338.html",
+    "summary": "啊，这真是个AI“失控”的夏天",
+    "publishedAt": "2026-08-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -256,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-windows-win32-api-1786149038000",
-    "title": " 历史包袱变成了最大的护城河：为什么 Windows 保留 Win32 API？ ",
-    "link": "https://www.huxiu.com/article/4881602.html?f=rss",
-    "summary": "本文来自微信公众号： 宇众不同的露萱 ，作者：宇众不同的露萱，原文标题：《历史包袱变成了最大的护城河：为什么 Windows 保留 Win32 API？》 2026年5月，微软Azure首席技术官Mark Russinovich对着镜头说了一句话： \"90年代有谁会预料到，Win32在2026年仍然是一等API？我可以安全地回答——没有。\" 他顿了顿，又补了一句： \"2026年应该有飞行汽车了，而不是Win32。\" 这句话在开发者社区炸了锅。 不是因为他说错了。 而是因为，一个市值三万亿美元的公司，它的首席技术官，亲口承认： 我们花了三十年，没能换掉自己最老的那块地基。 你有没有想过，为什么？ 一个从DEC挖来的人 故事要从1988年讲起。 那一年，比尔·盖茨做了一件当时很多人看不懂的事：他从DEC公司挖走了Dave Cutler。 Cutler是谁？ VMS操作系统的首席架构师。那个年代，VMS是企业级操作系统的天花板。抢占式多任务、虚拟内存、对称多处理——这些概念在80年代末，绝大多数程序员听都没听过。 盖茨要他做一件事： 给微软写一个\"真正的\"操作系统。 注意，是\"真正的\"。 因为当时的Windows 3.x，说白了，只是DOS上面套了一层图形壳子。没有内存保护，没有真正的多任务，一个程序崩溃，整个系统跟着死。 Cutler带了二十多个DEC的老部下，在雷德蒙德扎了五年。 花",
+    "id": "news-19-9-1786168107000",
+    "title": " 实探“快乐猴”大兴首店开业：一只炸鸡19.9元，美团加速布局硬折扣超市 ",
+    "link": "https://www.huxiu.com/article/4881655.html?f=rss",
+    "summary": "本文来自微信公众号： 时代周报 ，编辑：王营，作者：袁佳薇 赵鹏 8月7日，美团自营社区超市“快乐猴”在北京、天津同步新开3家门店。一年时间内，“快乐猴”门店数量已超过40家，门店规模扩张迅速。 △图源：时代周报记者摄 时代周报记者实地探访“快乐猴”大兴首店（北京大兴兴盛园商业楼店），这家社区超市位于综合商业楼一层，整体规模并不大，并非传统大型商超格局。进店后，一眼可见白墙上悬挂的“会员实付满88元抽电动车等豪礼，中奖率100%”黄底宣传条幅，“88元”“电动车”“100%中奖”字样用醒目的红色着重标注。店内扩音器循环播放低价促销信息，放大的折扣数字印在价签上，视觉冲击力很强。 货架上有1600多款商品，涵盖蔬果肉蛋、米面粮油、烘焙熟食、酒饮零食等品类，随处可见印着“快乐猴”商标的自有品牌商品和第三方品牌并排陈列。时代周报记者在现场注意到，5L纯净水4.5元/瓶，一整只炸鸡19.9元，三文鱼刺身（100g）18.99元……货架上的商品标价普遍具有吸引力。开业当日上午约11时，到店客流大多来自周边社区，老年消费者占比突出，也有不少带着孩子的家庭结伴选购。据门店店员介绍，门店客流呈现明显的时间差，早上到店人流最为旺盛，中午时段客流量已有所回落。 经历美团优选退场、收购叮咚买菜后，美团将目光投向硬折扣线下门店。不只美团，阿里超盒算NB、京东折扣超市、本土区域折扣店也纷纷加码硬折扣。即时零",
     "publishedAt": "2026-08-08",
     "source": "虎嗅",
     "tags": [
@@ -269,11 +268,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-maia-active-28-67-20-72-2026-1786101000000",
-    "title": "MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报",
-    "link": "https://www.tmtpost.com/8095593.html",
-    "summary": "薇诺娜正式官宣李永钦TEN成为薇诺娜品牌倾慕大使；资生堂集团上半年销售额同比增长6.2%。",
-    "publishedAt": "2026-08-07",
+    "id": "news-a-api-1786157820000",
+    "title": "A股不赚API赚，梁文锋永远不亏",
+    "link": "https://www.tmtpost.com/8096002.html",
+    "summary": "Alpha没了？API有了！",
+    "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -335,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-keep-1786080608000",
-    "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-    "link": "https://www.qbitai.com/2026/08/467878.html",
-    "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+    "id": "news-ai-cosyvoice-studio-1786088586000",
+    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+    "link": "https://www.qbitai.com/2026/08/468324.html",
+    "summary": "AI语音“听、说、创”一站式满足",
     "publishedAt": "2026-08-07",
     "source": "量子位",
     "tags": [
@@ -348,10 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786148414000",
-    "title": " 我用AI辅助办公的思考 ",
-    "link": "https://www.huxiu.com/article/4881606.html?f=rss",
-    "summary": "本文来自微信公众号： 云算计 ，作者：too糙哥 首先，无广、无广、无广。写了很久的云计算严肃知识，偶尔写点水文，我甚至连真名都懒得标。 最近，我是越来越习惯用AI辅助办公了，我把自己对AI办公的认知，分享给大家 1.回忆对AI的懵懂宣传 两三年前，一些AI企业铺天盖地发的广告，就爱说“AI助手帮你做会议纪要”。 AI办公的价值，被肤浅的理解成“做会议纪要”。这说明那一代AI产品设计者，既不懂AI，也不懂开会。 设计这种广告词儿的人，天天开各种无聊到没人愿意做会议纪要的废话会，他的工作想来就不幸福。 做会议纪要，可是能给会议定调的的重要工作，怎么会假手他人哪？ 今年AI的能力大幅进步，人人都知道AI是生产力工具以后，大家对AI又陷入了两个极端： 一些人把AI当赛博菩萨，认为只要向AI许个愿就能万事如意，一惊一乍中收获着欢乐。 一些人把AI当做斩杀收割机，认为AI会取代掉所有人的工作价值，然后在焦虑中空耗。 2.和AI协作真爽啊 我无论是做技术选型，还是做产品设计，都在大量使用AI助手，和AI协作实在太爽了。 此处的技术选型不是娱乐性编程，而是严肃的选型思考。比如，Token生产PD分离过程中，网络IO的需求分析。 此处的产品设计不是胡思乱想，而是复杂的可行性评估，比如，某某产品的操作审计工作。 过去没AI的时候，我要多轮开会、多次搜集资料，两三周才能完成的很多工作，今年都在AI辅助",
+    "id": "news-ai-1786167787000",
+    "title": " AI自作主张，未经授权行为频发，专访中国信通院何波：治理核心在于落地现有制度 ",
+    "link": "https://www.huxiu.com/article/4881653.html?f=rss",
+    "summary": "本文来自微信公众号： 时代周报 ，编辑：王营，作者：袁佳薇 赵鹏，原文标题：《AI自作主张，未经授权行为频发！专访中国信通院何波：治理核心在于落地现有制度》 从“互联网+”到“人工智能+”，技术的每一次跃进都对治理提出了更高要求。技术前进一小步，治理难度或许增加一大步。人工智能技术快速发展，安全风险也加速累积。 环球网援引报道称，英国人工智能安全研究所8月4日披露，在对美国人工智能公司Anthropic和OpenAI模型进行安全测试时，发现AI智能体做出多项未经授权的行为。其中，最严重的一起事件涉及编写恶意代码，并创建虚假网络身份，试图诱导人类批准相关代码。 在测试中，AI智能体“试图直接联系真人，通过在线文件传输服务发送消息和文件，说服他们或其使用的AI编程工具运行恶意代码”。英国人工智能安全研究所表示，这是该机构“首次发现如此严重的欺骗行为，而且是在现实世界中针对真人、未经提示自发发生的”。 这将技术迭代与监管滞后的矛盾推向台前。监管既要让AI这匹“千里马”跑得快，又要确保它跑得稳。监管应何时出手、如何出手？ 中国信息通信研究院互联网法律研究中心主任、国际电信联盟人工智能向善全球峰会学者何波在接受时代周报记者采访时表示，我国人工智能法律制度基本框架已经初步形成，制度建设与技术创新同步推进，基本能确保AI在安全可控的范围内有序发展。AI治理核心在于已有制度如何有效实施。 △何波。",
     "publishedAt": "2026-08-08",
     "source": "虎嗅",
     "tags": [
@@ -362,11 +361,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786100499000",
-    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
-    "link": "https://www.tmtpost.com/8095008.html",
-    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
-    "publishedAt": "2026-08-07",
+    "id": "news--1786157520000",
+    "title": "“看别人脸色”终结了，绿色燃料产能已占全球近八成，中国这次终于夺回话语权",
+    "link": "https://www.tmtpost.com/8096064.html",
+    "summary": "中国绿色燃料产能登顶，破认证垄断，探出口新路。",
+    "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -841,7 +840,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjE4NC4yNDcuODY= when applying to show you read the job post completely (#RMTcyLjE4"
+      "Please mention the word **OPENLY** and tag RNjguMjIwLjU5LjUx when applying to show you read the job post completely (#RNjguMjIwLjU5"
     ],
     "skills": [
       "Agent"
@@ -859,8 +858,8 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMTcyLjE4NC4yNDcuODY= when applying to show you read the job post completely (#RMTcyLjE4NC4yNDcuODY=)",
-      "This is a beta feature to av"
+      "Please mention the word **BARGAIN** and tag RNjguMjIwLjU5LjUx when applying to show you read the job post completely (#RNjguMjIwLjU5LjUx)",
+      "This is a beta feature to avoid spam"
     ],
     "skills": [],
     "location": "Standard, ",
@@ -871,4 +870,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-08T01:17:10.913Z';
+export const dataFetchedAt = '2026-08-08T06:44:47.669Z';
