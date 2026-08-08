@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-it-slowed-astra-model-development-over-security--1786142904000",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "publishedAt": "2026-08-07",
+    "id": "news-x-replaces-misaligned-revenue-sharing-program-with-original--1786206862000",
+    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+    "summary": "X is winding down its existing Revenue Sharing program.",
+    "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786192333000",
-    "title": " 高通的第三场赌局 ",
-    "link": "https://www.huxiu.com/article/4881703.html?f=rss",
-    "summary": "本文来自微信公众号： 云见 Insight ，作者：云见&nbsp;Insight 以攻为守，押注舱驾一体。 2026财年第三季度（4月到6月），高通汽车业务收入达到15.88亿美元，同比增长61%，连续23个季度保持双位数增长。 曾经作为“副业”的汽车芯片，已然生长为这家移动芯片巨头的第二增长曲线。但要撑住这份庞大的野心，仅仅卖出更多座舱芯片已经远远不够。高通押注的下一个战场，是舱驾一体平台。 2025年年底，宝马新一代iX3量产。藏在这辆车里的，还有高通的智驾系统Snapdragon Ride。为了做好这套系统，高通和宝马用了三年时间，投入了超过1400名专业人员。 对高通来说，智驾是个陌生生意。十多年前，它可以把芯片、软件和设计打包，让一家手机厂商最快60天推出产品；后来又把这套产品能力搬进汽车，凭8155拿下智能座舱。 从手机到座舱，高通已经赢过两次。现在它想做的是，把座舱和智能驾驶装进同一套计算平台，再赢第三次。 只是这一次，要把过往的成功经验复刻到由AI驱动的新战场，难度远超以往。 一场险些失败的演示 1989年11月，高通在圣迭戈第一次公开演示CDMA移动通信。 会场外，一辆测试车准备在两座基站之间行驶，以证明通话可以连续切换。演示开始前，系统突然故障。台上，56岁的创始人艾文·雅各布斯看见工程师不断示意，只能临时延长演讲45分钟，为团队争取时间。设备最终恢复，测试车",
+    "id": "news-ai-1786205221000",
+    "title": " 没有AI聊天的童年，将成为富人孩子的特权？ ",
+    "link": "https://www.huxiu.com/article/4881717.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 阿加莎·克里斯蒂（Agatha Christie），推理小说女王，在一生卖出二十亿册书之后，晚年在自传里留下了一句话，后来被经济学家反复引用。她说，我从未想过自己有一天能富裕到买得起一辆车，也没想过会穷到连仆人都雇不起。 在她出生的1890年，汽车是顶级富豪才养得起的新鲜玩意儿。而人力，女仆、厨娘、保姆，便宜到连中产家庭都能配备齐全。等她八十岁写自传的时候，世界反了过来。福特流水线让汽车开进工薪家庭，而最低工资、教育普及和女权运动，把人力价格推到了奢侈的地步。 经济学里有个词专门说这个现象，专门说这个现象，叫鲍莫尔成本病：制造业效率可以暴涨，服务业不行。一个保姆照顾一个孩子的时间，一百年前和今天一模一样，但社会的整体工资涨了，她的工资也得跟着涨。工业品的价格往下走，纯靠人的服务价格往上走。这条线，从阿加莎的童年画到今天，方向没变过。 一百年后，一句被安在马斯克头上的名言，说出了同一条逻辑的下一个版本。大概意思是说，未来只有特权阶级才能进行数字戒断，底层阶级将被绑在智能手机上。这句话在中文互联网上流传甚广，未必是马斯克本人说的，但它捕捉到的东西是真的。 二十年前，能随时在线是身份象征。大哥大、黑莓手机，拿在手里代表你被需要、被连接、身居要位。普通人则处于失联状态。现在彻底反了。 外卖骑手、网约车司机、在微信群里随时待命的白领",
     "publishedAt": "2026-08-08",
     "source": "虎嗅",
     "tags": [
@@ -82,10 +82,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-zhbm-400-v10-nand-372-13-140-1786184265000",
-    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
-    "link": "https://www.tmtpost.com/8096279.html",
-    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
+    "id": "news-link-x-demo-day-2026-ai-1786199092000",
+    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
+    "link": "https://www.tmtpost.com/8096463.html",
+    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -109,18 +109,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-rippling-blew-millions-on-ai-in-months-it-built-an-emp-1786138211000",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "publishedAt": "2026-08-07",
+    "id": "news-the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-it-s-not-a-m-1786204800000",
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+    "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+    "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+    "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -162,24 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786191000000",
-    "title": " 杰夫·贝索斯最强叙事利器：近在眼前，却鲜有人察觉 ",
-    "link": "https://www.huxiu.com/article/4881698.html?f=rss",
-    "summary": "杰夫·贝索斯的叙事经过精心的设计，他将语言和符号结合起来，让公司的价值观变得鲜活。亚马逊从西雅图一间狭小的车库里起步，三十年后，贝索斯仍在运用那些经过验证、曾推动公司一路增长的沟通策略。本文来自微信公众号： 福 布斯 ，作者：Carmine Gallo，翻译：Elaine，头图来自：视觉中国 亚马逊不久前成为全球营收最高的公司。 为纪念这一里程碑，创始人杰夫·贝索斯拍摄了一张宣传照。他本可以置身亚马逊某一处巨大的配送中心，或者从公司上百万台机器人中挑选出一些随自己出镜。 但最终的画面，却是贝索斯靠在一张桌子旁。这并非一张普通的桌子，而是由一扇简单的木门改造而成。 如今声名远扬的亚马逊“门板桌”，是一个巧妙且有意突出的叙事工具，在亚马逊的品牌故事中扮演了重要角色。它也代表了一种常被领导者忽视的叙事技巧。 优秀的沟通者不会只会靠口头或书面分享故事。他们会创造符号，即使本人不在场，这些符号也能强化故事内核。 一、为什么杰夫·贝索斯把一扇门变成了符号 言辞和口号会告诉人们什么才重要。而符号会日复一日地提醒他们真正重要之事，即使这个符号像一扇门一样简单。 亚马逊“门板桌”的故事可以追溯到1995年，当时贝索斯的员工数量一只手就能数得过来。这家充满干劲的初创公司需要节省开支，但仍然需要基本的设备和家具。 贝索斯去了附近的家得宝（Home Depot）。据一位早期员工回忆，贝索斯“看了看在售的桌",
-    "publishedAt": "2026-08-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-610-1786183610000",
-    "title": "估值610亿元之后，宇树要卖多少台机器人？",
-    "link": "https://www.tmtpost.com/8095572.html",
-    "summary": "如果宇树未来仍然主要依靠销售硬件，610亿元大概要每年卖出10万台以上。但如果宇树能把机器人变成“持续服务入口”，那可能就是另一个答案。",
+    "id": "news-ai-zhbm-400-v10-nand-372-13-140-1786184265000",
+    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
+    "link": "https://www.tmtpost.com/8096279.html",
+    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -203,17 +187,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wacom-8217-s-movinkpad-11-is-a-fun-midpriced-entry-point-for-1786137600000",
-    "title": "Wacom&#8217;s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-    "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-    "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-    "publishedAt": "2026-08-07",
+    "id": "news-google-8217-s-top-hacker-hunter-explains-why-hacking-groups--1786201200000",
+    "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
+    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+    "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -256,23 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786189936000",
-    "title": " 为什么好生意大多数人看不上？ ",
-    "link": "https://www.huxiu.com/article/4881700.html?f=rss",
-    "summary": "本文来自微信公众号： 梁孝永康 ，作者：梁孝永康 1，当你不得不在提高产品价格之前进行祈祷，那这不是一个很好的生意。 2，我想说的是，你几乎可以通过企业在决定价格上涨能否持续时所经历的痛苦，来衡量一家企业的实力。 3，30年前的报纸，无论当地的日报是什么，都会对社区的经济产生绝对的影响，因为它有扩音器的效果，商人们必须通过它来传达信息，在哪个时候，无论是发行量还是广告价格的上涨，对大多数出版商来说几乎都是一个巨大的诱惑。 4，他们愉快地提价，并不会因此担心广告商会撤掉广告，也不会担心人们会放弃订阅这份报纸。当新闻纸价格上涨时，他们提高价格，当新闻纸价格下降时，他们也提高价格，而这是有效的。 5，现在出版商发现自己处于一种为广告发行费用上涨而苦恼的境地，因为他们担心广告客户会转投其他媒体。他们担心人们--当他们因每个月在报纸订阅费用中增加20美分而放弃订阅。而当人们取消订阅报纸后，通常不会再把它拿起来。 6，如果你能深入出版商的内心，了解他们对价格上涨的感受，你就能认识到这个世界的变化。 7，通过观察价格行为，你可以学到很多---你可以学到很多关于企业经济护城河的持久性。 ----摘自巴菲特致股东的信（对报纸的一些点评） 巴菲特在早期非常喜欢报纸这门生意，他买了很多家报纸，最有名的是华盛顿邮报和水牛城晚报。他甚至说如果只能投一个生意的话，他会选择报纸。他为什么如此喜欢报纸？ 报纸是大",
-    "publishedAt": "2026-08-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-300-1786183602000",
-    "title": "AI低俗广告，闪了300亿“中国锅王”的腰",
-    "link": "https://www.tmtpost.com/8095881.html",
-    "summary": "苏泊尔卷入低俗营销风波。",
+    "id": "news-610-1786183610000",
+    "title": "估值610亿元之后，宇树要卖多少台机器人？",
+    "link": "https://www.tmtpost.com/8095572.html",
+    "summary": "如果宇树未来仍然主要依靠销售硬件，610亿元大概要每年卖出10万台以上。但如果宇树能把机器人变成“持续服务入口”，那可能就是另一个答案。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -295,10 +265,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-security-researchers-scanned-the-polish-web-and-found-courts-1786136408000",
-    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-    "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-    "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+    "id": "news-openai-says-it-slowed-astra-model-development-over-security--1786142904000",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
@@ -348,24 +318,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20260808-1786189790000",
-    "title": " 经济和市场综述-20260808 ",
-    "link": "https://www.huxiu.com/article/4881699.html?f=rss",
-    "summary": "本文来自微信公众号： 培风客 ，作者：Odysseus，原文标题：《经济和市场综述 - 20260808》 好的机会都来自于缺少先例的判断，2022年在大部分人觉得，美国债务太高没法加息的时候，坚定看空美债的投资者是最优秀的，2023年黄金摆脱了实际利率的引力，央行购金带来了结构性行情。当然还有当时对Chatgpt和NVDA有正确理解的投资者获得了更丰厚的回报。2024年你必须遏制降息时铜在过去10次降息周期都是下跌的冲动。2025年中国Tit-for-tat战略，美国例外论的退潮都是如此。 怎么做出这样的判断每个人有不同的方法，但我比较喜欢调研，尤其是和不同市场参与者交流。举一个例子，2026年3月1日那个周末，哈梅内伊被炸死，在第一时间我觉得内塔利亚胡和特朗普战略决心真的很足，我觉得也许伊朗要蛋疼了，第一时间的类比，所有投行都是用委内瑞拉一月份的脆败做对比。难免受到影响。但3月2日在新加坡和一些石油石化的朋友聊完，我觉得好像情况就有点不对，我记得等到3月8日在上海我们做了一个线下的活动，当时我就很有信心我觉得事情不会那么简单结束。 多说一句，这也是我觉得AI是一个很好的研究工具，但在判断未来这个事情上，如果只靠生成式人工智能，我觉得是远远不够的。 站在今天8月8日，我觉得现在两个关键的，同样没有先例的难题是： -美国政府不希望长端利率太高，但赤字率又不想降低，到底是相信市场还是",
-    "publishedAt": "2026-08-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1786183597000",
-    "title": "AI没被电饿死，先被电“气”死了",
-    "link": "https://www.tmtpost.com/8096048.html",
-    "summary": "毫秒级断电杀训练、万卡集群一小时烧掉一辆车——比“电荒”更先到来的，是“电脏”。",
+    "id": "news-ai-300-1786183602000",
+    "title": "AI低俗广告，闪了300亿“中国锅王”的腰",
+    "link": "https://www.tmtpost.com/8095881.html",
+    "summary": "苏泊尔卷入低俗营销风波。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -388,16 +344,58 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents-1786119369000",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "id": "news-after-rippling-blew-millions-on-ai-in-months-it-built-an-emp-1786138211000",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
+      "ai",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
+    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
+    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
+    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
+    "publishedAt": "2026-08-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
       "ai"
+    ]
+  },
+  {
+    "id": "news-july-sees-job-losses-portending-a-potential-rough-patch-for--1786114920000",
+    "title": "July sees job losses, portending a potential rough patch for employers",
+    "link": "https://www.hrdive.com/news/july-sees-job-losses-portending-a-potential-rough-patch-for-employers/827327/",
+    "summary": "&ldquo;Don&rsquo;t put too much stock in a single report, but don&rsquo;t ignore the fact that the plane is starting to shake,&rdquo; a&nbsp;senior economist said.",
+    "publishedAt": "2026-08-07",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1786157102000",
+    "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+    "link": "https://www.qbitai.com/2026/08/468398.html",
+    "summary": "再花15亿美元买现成AI编程团队",
+    "publishedAt": "2026-08-08",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
     ]
   }
 ];
@@ -841,7 +839,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMjAuMTYxLjcwLjE2Mg== when applying to show you read the job post completely (#RMjAuMTYx"
+      "Please mention the word **OPENLY** and tag RMTcyLjIxNS4yMTcuMjQx when applying to show you read the job post completely (#RMTcyLjIx"
     ],
     "skills": [
       "Agent"
@@ -851,24 +849,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vibes-on-rails-managing-ai-1136244",
     "postedAt": "2026-08-05",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136235",
-    "title": "Supply Chain Transparency",
-    "company": "Ark Intelligence",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMjAuMTYxLjcwLjE2Mg== when applying to show you read the job post completely (#RMjAuMTYxLjcwLjE2Mg==)",
-      "This is a beta feature to av"
-    ],
-    "skills": [],
-    "location": "Standard, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
-    "postedAt": "2026-08-05",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-08T12:39:52.107Z';
+export const dataFetchedAt = '2026-08-08T18:31:35.915Z';
