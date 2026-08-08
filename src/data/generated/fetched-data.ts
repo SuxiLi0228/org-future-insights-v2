@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents-1786119369000",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "id": "news-openai-says-it-slowed-astra-model-development-over-security--1786142904000",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-corporate-conversations-about-ai-productivity-are-mostly-foc-1786114920000",
-    "title": "Corporate conversations about AI productivity are mostly focused on future gains",
-    "link": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
-    "summary": "When it comes to the performance benefits of artificial intelligence, the vast majority of executives expect to realize results later on, a new report says.",
+    "id": "news-openai-settles-doj-allegation-it-shut-us-workers-out-of-lucr-1786133880000",
+    "title": "OpenAI settles DOJ allegation it shut US workers out of lucrative jobs",
+    "link": "https://www.hrdive.com/news/openai-settles-doj-allegation-it-shut-us-workers-out-of-lucrative-jobs/827361/",
+    "summary": "OpenAI allegedly didn&rsquo;t advertise certain jobs on its external website and or let U.S. workers apply online, according to the settlement.",
     "publishedAt": "2026-08-07",
     "source": "HR Dive",
     "tags": [
@@ -68,11 +68,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-maia-active-28-67-20-72-2026-1786101000000",
-    "title": "MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报",
-    "link": "https://www.tmtpost.com/8095593.html",
-    "summary": "薇诺娜正式官宣李永钦TEN成为薇诺娜品牌倾慕大使；资生堂集团上半年销售额同比增长6.2%。",
-    "publishedAt": "2026-08-07",
+    "id": "news--1786149579000",
+    "title": " 演完霸总回家卖菜，中戏毕业的短剧演员也没戏可拍了 ",
+    "link": "https://www.huxiu.com/article/4881610.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，编辑：L，作者：简墨 这是他阔别已久的、真实的烟火气，是曾经无比熟悉又渐渐远离、如今正在捡拾起来的记忆，也是他作为一名演员，在AI浪潮下做出的新尝试。 一辆破旧的三轮车，满载一车滚圆的洋葱、青翠的小葱，还有刚出土的土豆。车上，操着一口正宗平度话的摊主，正热火朝天地冲来往行人吆喝：“圆葱（洋葱）1.5元两斤了！” 提起这些场景，你首先想到的是什么？是热闹喧嚣的农村大集，还是忙于养家糊口的农村摊主？相信少有人会将这个场景与演员联系起来。但事实确实如此。站在三轮车上叫卖的人——许鹏，身高184厘米，是从中央戏剧学院毕业的科班演员。今年过年前，他还在一部短剧里演“霸总”；过年后，他就成了站在三轮车上热情叫卖的菜摊摊主。 许鹏对此很坦然。这是他阔别已久的、真实的烟火气，是曾经无比熟悉又渐渐远离、如今正在捡拾起来的记忆，也是他作为一名演员，在AI浪潮下做出的新尝试。 从长剧到短剧 从进入中央戏剧学院学习，到毕业参加工作，许鹏在影视剧里演过不少角色，他是《上古密约》里的左贡、《天涯热土》里的吴强、《如果声音有记忆》里的周爽……虽不是主角，但也不是无名之辈。 摸爬滚打10余年，他到了一个略显尴尬的境地——向上一步，总差些机缘；向下一步，又心有不甘。 和他同期毕业的同学，有人进入影视圈，成了家喻户晓的明星；有人进入短剧领域，早早演上了男主角——这也是不少演员在短剧蓬勃",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-8-1786150081000",
+    "title": "Edge AI Daily 早报（8月8日）",
+    "link": "https://www.tmtpost.com/8095938.html",
+    "summary": "OpenAI推400美元音箱、苹果入局智能家居、AWS算力饥荒暴露结构性矛盾，硅谷前沿持续演进。英伟达cuFile开源、谷歌DeepMind开源气旋模型、vLLM吞噬推理市场、低资源语言模型突破，开源趋势深化。国内海南跨境电商建生态，中金称头部卖家反转。Liquid AI端侧模型碾压大参数，哈佛学者批判AI替代政府。",
+    "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -95,16 +109,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-computer-maker-framework-notifies-8216-all-customers-8217-of-1786118944000",
-    "title": "Computer maker Framework notifies &#8216;all customers&#8217; of a data breach",
-    "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-    "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+    "id": "news-after-rippling-blew-millions-on-ai-in-months-it-built-an-emp-1786138211000",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr",
+      "organization"
     ]
   },
   {
@@ -120,17 +136,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-july-sees-job-losses-portending-a-potential-rough-patch-for--1786114920000",
-    "title": "July sees job losses, portending a potential rough patch for employers",
-    "link": "https://www.hrdive.com/news/july-sees-job-losses-portending-a-potential-rough-patch-for-employers/827327/",
-    "summary": "&ldquo;Don&rsquo;t put too much stock in a single report, but don&rsquo;t ignore the fact that the plane is starting to shake,&rdquo; a&nbsp;senior economist said.",
+    "id": "news-kff-insurers-want-to-hike-small-businesses-premiums-by-14-ne-1786133880000",
+    "title": "KFF: Insurers want to hike small businesses’ premiums by 14% next year",
+    "link": "https://www.hrdive.com/news/small-business-health-insurance-premiums-2027-kff-rate-filings/827332/",
+    "summary": "It&rsquo;s becoming harder for small employers to offer insurance coverage, and another year of double-digit premium increases won&rsquo;t help. Insurers say their hands are tied.",
     "publishedAt": "2026-08-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -147,11 +162,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786100499000",
-    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
-    "link": "https://www.tmtpost.com/8095008.html",
-    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
-    "publishedAt": "2026-08-07",
+    "id": "news-ai-1786149406000",
+    "title": " 谷歌AI，杯酒释兵权 ",
+    "link": "https://www.huxiu.com/article/4881609.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：版君 Google刚完成了一场没有失败者的人事调整。 至少看起来如此。 8月6日，Google一天之内同时送走了两位AI时代最重要的人。 一个，是DeepMind创始人哈萨比斯（Demis Hassabis）。 另一个，是Google首席科学家Jeff Dean。 戏剧性的是，没有一个人真的离开Google。他们都升职了，得到了最体面的安排，每个人都在社交平台上打出完美的官方微笑。 一家超4万亿美金级别的巨头公司进行核心权力洗牌，竟然没有产生任何震荡与怨言。 这件事，比AI模型本身更值得仔细打量。 一、Google AI，打了十年内战 要理解8月6日发生了什么，得先回到更早的时候。 2014年，Google以4亿英镑收购DeepMind。当时这家公司只有几十个人，没产品，没收入。 Google看中的是哈萨比斯这个人，一个四岁下棋、十三岁拿到大师、卖掉游戏公司去读神经科学博士的AGI偏执狂。 当年为了防备Google的商业渗透，哈萨比斯甚至在收购协议里签下了极为苛刻的条款：DeepMind保留伦敦总部，设立独立的伦理委员会，绝不直接为Google的搜索广告业务服务。 收购之后，哈萨比斯直接向Google CEO皮查伊汇报，像个远离山景城商业嘈杂的独立王国。 与此同时，山景城大本营里还有另一支嫡系部队，由谷歌传奇技术大牛Jeff Dean带队的G",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-d-1786147200000",
+    "title": "工业AI企业硕橙科技完成超亿元D+轮融资，工业母机产业投资基金领投｜首发",
+    "link": "https://www.tmtpost.com/8090423.html",
+    "summary": "工业AI的竞争已从模型性能的比拼转向交付能力、规模化产业落地能力、系统级整合能力的较量。",
+    "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,16 +203,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-today-8217-s-the-last-day-to-get-up-to-400-off-your-techcrun-1786117953000",
-    "title": "Today&#8217;s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "id": "news-wacom-8217-s-movinkpad-11-is-a-fun-midpriced-entry-point-for-1786137600000",
+    "title": "Wacom&#8217;s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+    "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -200,18 +230,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-need-to-have-conversations-about-menopause-experts-1786049280000",
-    "title": "Employers need to have conversations about menopause, experts say",
-    "link": "https://www.hrdive.com/news/employers-need-to-have-conversations-about-menopause-experts-say/827258/",
-    "summary": "&ldquo;First and foremost, we have to have a culture that fosters safety so that people feel safe to ask for the support that they need,&rdquo; said Patty Borst from consultancy The Partners Group.&nbsp;",
-    "publishedAt": "2026-08-06",
+    "id": "news-ada-may-require-reassignment-despite-worker-s-inability-to-p-1786133880000",
+    "title": "ADA may require reassignment despite worker’s inability to perform essential functions, 4th Circuit says",
+    "link": "https://www.hrdive.com/news/ada-may-require-reassignment-inability-perform-essential-functions/827377/",
+    "summary": "The law&rsquo;s &quot;accommodation of last resort&rdquo; has historically proven difficult for employers to administer.",
+    "publishedAt": "2026-08-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -228,10 +256,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786100425000",
-    "title": "谷歌的告别：大模型正在进入“车库时代”",
-    "link": "https://www.tmtpost.com/8095060.html",
-    "summary": "全栈太重，轻装才能跑得快。",
+    "id": "news-windows-win32-api-1786149038000",
+    "title": " 历史包袱变成了最大的护城河：为什么 Windows 保留 Win32 API？ ",
+    "link": "https://www.huxiu.com/article/4881602.html?f=rss",
+    "summary": "本文来自微信公众号： 宇众不同的露萱 ，作者：宇众不同的露萱，原文标题：《历史包袱变成了最大的护城河：为什么 Windows 保留 Win32 API？》 2026年5月，微软Azure首席技术官Mark Russinovich对着镜头说了一句话： \"90年代有谁会预料到，Win32在2026年仍然是一等API？我可以安全地回答——没有。\" 他顿了顿，又补了一句： \"2026年应该有飞行汽车了，而不是Win32。\" 这句话在开发者社区炸了锅。 不是因为他说错了。 而是因为，一个市值三万亿美元的公司，它的首席技术官，亲口承认： 我们花了三十年，没能换掉自己最老的那块地基。 你有没有想过，为什么？ 一个从DEC挖来的人 故事要从1988年讲起。 那一年，比尔·盖茨做了一件当时很多人看不懂的事：他从DEC公司挖走了Dave Cutler。 Cutler是谁？ VMS操作系统的首席架构师。那个年代，VMS是企业级操作系统的天花板。抢占式多任务、虚拟内存、对称多处理——这些概念在80年代末，绝大多数程序员听都没听过。 盖茨要他做一件事： 给微软写一个\"真正的\"操作系统。 注意，是\"真正的\"。 因为当时的Windows 3.x，说白了，只是DOS上面套了一层图形壳子。没有内存保护，没有真正的多任务，一个程序崩溃，整个系统跟着死。 Cutler带了二十多个DEC的老部下，在雷德蒙德扎了五年。 花",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-maia-active-28-67-20-72-2026-1786101000000",
+    "title": "MAIA ACTIVE黑龙江首店即将启幕；东鹏饮料上半年净利润28.67亿元，同增20.72%；宝洁集团2026财年大中华区重回增长｜消研所周报",
+    "link": "https://www.tmtpost.com/8095593.html",
+    "summary": "薇诺娜正式官宣李永钦TEN成为薇诺娜品牌倾慕大使；资生堂集团上半年销售额同比增长6.2%。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -254,10 +295,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-administration-has-spent-nearly-4b-to-cancel-offshore--1786115463000",
-    "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-    "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-    "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+    "id": "news-security-researchers-scanned-the-polish-web-and-found-courts-1786136408000",
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+    "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
@@ -280,11 +321,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-must-employers-always-wait-before-clarifying-fmla-certificat-1786049280000",
-    "title": "Must employers always wait before clarifying FMLA certifications with providers? Not necessarily, 4th Circuit says",
-    "link": "https://www.hrdive.com/news/must-employers-always-wait-before-clarifying-fmla-certifications-with-provi/827274/",
-    "summary": "The ruling suggests employers don&rsquo;t necessarily have to wait for workers to fix authenticity problems with Family and Medical Leave Act certification documents.",
-    "publishedAt": "2026-08-06",
+    "id": "news-corporate-conversations-about-ai-productivity-are-mostly-foc-1786114920000",
+    "title": "Corporate conversations about AI productivity are mostly focused on future gains",
+    "link": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
+    "summary": "When it comes to the performance benefits of artificial intelligence, the vast majority of executives expect to realize results later on, a new report says.",
+    "publishedAt": "2026-08-07",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -307,10 +348,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-12-1786100388000",
-    "title": "12万台冰箱海外召回：格兰仕的成本账算错了什么",
-    "link": "https://www.tmtpost.com/8095215.html",
-    "summary": "CPSC公告26-649号召回，格兰仕中山工厂生产的12.17万台复古冰箱因\"内部电气元件短路引发起火\"被召回，34起火灾报告、1人死亡。冰箱是诞生超百年的成熟产品，电气短路不该发生，更不该以12万台规模发生。",
+    "id": "news-ai-1786148414000",
+    "title": " 我用AI辅助办公的思考 ",
+    "link": "https://www.huxiu.com/article/4881606.html?f=rss",
+    "summary": "本文来自微信公众号： 云算计 ，作者：too糙哥 首先，无广、无广、无广。写了很久的云计算严肃知识，偶尔写点水文，我甚至连真名都懒得标。 最近，我是越来越习惯用AI辅助办公了，我把自己对AI办公的认知，分享给大家 1.回忆对AI的懵懂宣传 两三年前，一些AI企业铺天盖地发的广告，就爱说“AI助手帮你做会议纪要”。 AI办公的价值，被肤浅的理解成“做会议纪要”。这说明那一代AI产品设计者，既不懂AI，也不懂开会。 设计这种广告词儿的人，天天开各种无聊到没人愿意做会议纪要的废话会，他的工作想来就不幸福。 做会议纪要，可是能给会议定调的的重要工作，怎么会假手他人哪？ 今年AI的能力大幅进步，人人都知道AI是生产力工具以后，大家对AI又陷入了两个极端： 一些人把AI当赛博菩萨，认为只要向AI许个愿就能万事如意，一惊一乍中收获着欢乐。 一些人把AI当做斩杀收割机，认为AI会取代掉所有人的工作价值，然后在焦虑中空耗。 2.和AI协作真爽啊 我无论是做技术选型，还是做产品设计，都在大量使用AI助手，和AI协作实在太爽了。 此处的技术选型不是娱乐性编程，而是严肃的选型思考。比如，Token生产PD分离过程中，网络IO的需求分析。 此处的产品设计不是胡思乱想，而是复杂的可行性评估，比如，某某产品的操作审计工作。 过去没AI的时候，我要多轮开会、多次搜集资料，两三周才能完成的很多工作，今年都在AI辅助",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1786100499000",
+    "title": "膜分离产业链调查：当\"工程商\"试图变成\"材料商\"，谁赚到了钱？",
+    "link": "https://www.tmtpost.com/8095008.html",
+    "summary": "中国膜分离产业101亿美元市场中，利润正在向上游粉体和下游材料集中，中游设备集成商的生存空间被压缩。久吾高科不是孤例，它是整个产业转型的缩影。",
     "publishedAt": "2026-08-07",
     "source": "钛媒体",
     "tags": [
@@ -333,70 +388,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at--1786113000000",
-    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+    "id": "news-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents-1786119369000",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
     "publishedAt": "2026-08-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
-    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
-    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
-    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-wage-compression-not-job-cuts-may-be-the-outcome-of-ai-adopt-1786032840000",
-    "title": "Wage compression — not job cuts — may be the outcome of AI adoption at work",
-    "link": "https://www.hrdive.com/news/wage-compression-not-job-cuts-may-be-the-outcome-of-ai-adoption-at-work/827220/",
-    "summary": "Employers may have to square cost savings with a workforce that is less financially secure.",
-    "publishedAt": "2026-08-06",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-wan3-0-ppt-1786073034000",
-    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-    "link": "https://www.qbitai.com/2026/08/467877.html",
-    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-    "publishedAt": "2026-08-07",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-7-5-609-1786100320000",
-    "title": "一签7.5万、估值609亿，机构投资人都在疯抢宇树科技？",
-    "link": "https://www.tmtpost.com/8094702.html",
-    "summary": "人形机器人面前，GPU得往后排。",
-    "publishedAt": "2026-08-07",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   }
@@ -784,6 +784,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136279",
+    "title": "CR281 Customs Agent",
+    "company": "FedEx",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Performs an advanced level of processing, coordinating, and obtaining customs clearance approval for import/export and transshipments of documents, packages, an"
+    ],
+    "skills": [
+      "Agent",
+      "AWS"
+    ],
+    "location": "Providenciales, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
+    "postedAt": "2026-08-07",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136278",
     "title": "Junior Team Members weekdays availability",
     "company": "Supply Coffee",
@@ -823,7 +841,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTM1LjIzMi4yMjQuMTEz when applying to show you read the job post completely (#RMTM1LjIz"
+      "Please mention the word **OPENLY** and tag RMTcyLjE4NC4yNDcuODY= when applying to show you read the job post completely (#RMTcyLjE4"
     ],
     "skills": [
       "Agent"
@@ -841,7 +859,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster",
-      "Please mention the word **BARGAIN** and tag RMTM1LjIzMi4yMjQuMTEz when applying to show you read the job post completely (#RMTM1LjIzMi4yMjQuMTEz)",
+      "Please mention the word **BARGAIN** and tag RMTcyLjE4NC4yNDcuODY= when applying to show you read the job post completely (#RMTcyLjE4NC4yNDcuODY=)",
       "This is a beta feature to av"
     ],
     "skills": [],
@@ -850,37 +868,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
     "postedAt": "2026-08-05",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136270",
-    "title": "The quest build a better AI tutor",
-    "company": "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "(BPT) - Drones have come a long way from capturing scenic photos and videos"
-    ],
-    "skills": [],
-    "location": "Cameron, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-the-quest-build-a-better-ai-tutor-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136270",
-    "postedAt": "2026-08-05",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136272",
-    "title": "How AI is reshaping higher education program discovery",
-    "company": "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "(BPT) - Drones have come a long way from capturing scenic photos and videos"
-    ],
-    "skills": [],
-    "location": "Cameron, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-how-ai-is-reshaping-higher-education-program-discovery-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136272",
-    "postedAt": "2026-08-05",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-07T18:51:01.931Z';
+export const dataFetchedAt = '2026-08-08T01:17:10.913Z';
