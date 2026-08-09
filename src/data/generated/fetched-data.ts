@@ -56,11 +56,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-1786175855000",
-    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-    "link": "https://www.qbitai.com/2026/08/468631.html",
-    "summary": "这就有些尴尬了。",
-    "publishedAt": "2026-08-08",
+    "id": "news-ai-rsi-1786246825000",
+    "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+    "link": "https://www.qbitai.com/2026/08/468782.html",
+    "summary": "AI参与创造下一代AI",
+    "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -69,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-jeff-dean-1786235548000",
-    "title": " Google没留住Jeff Dean，却投资了他的新公司 ",
-    "link": "https://www.huxiu.com/article/4881722.html?f=rss",
-    "summary": "本文来自微信公众号： 奋进的肚腩 ，作者：肚腩说 8月8日，点开Jeff Dean的个人页面，上面仍然写着：Google Research和Google DeepMind首席科学家。 三天前，他已经宣布离职。 互联网公司每天更新几十亿个网页，这一页慢了几天。倒也不能怪负责网站的人，Jeff Dean在Google待了27年，很多人可能没想过这个职位还需要准备过去时。 和他一起走的，还有Sanjay Ghemawat、Oriol Vinyals和Quoc Le。四个人成立了一家新公司，叫Discovery Loop。 消息出来后，有人在网上说Google的AI被掏空了。也有人发现Alphabet参与了投资，还和新公司签了长期云和算力合作，于是嘲讽这算哪门子离职：出门创业，房东还是前老板，电表也装在前老板手里。 硅谷的新闻到了社交媒体上，通常只剩两种用途：证明一家巨头快完了，或者证明巨头早已算好了一切。前一种让人兴奋，后一种让人显得清醒,现实往往没有这么照顾读者。 四个人走了，股价先替他们算了价 Jeff Dean和Sanjay Ghemawat不是最近几年才被AI浪潮抬上台的人。 Google还在解决“怎样让很多普通机器一起干活”时，他们参与做了Google File System、MapReduce和Bigtable。今天这些名字听起来像计算机课程里的旧章节，当年却是Google能",
+    "id": "news-ai-1786257393000",
+    "title": " 人类最恐惧的事情还是发生了：AI们拉了个群密谋大事 ",
+    "link": "https://www.huxiu.com/article/4881766.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 几天前，在拉斯维加斯举行的Black Hat USA 2026大会上，OpenAI研究员Eric Wallace和Michael Dalton第一次把7月那场“OpenAI模型入侵Hugging Face”事件的更多内幕曝光了。 7月21日，OpenAI已经承认自家模型闯进了Hugging Face。但这次两名研究员讲出的新细节，比“AI黑客闯祸”本身还要离谱。 早在5月，这些正在参加网络安全测试的Agent，就已经在OpenAI内部偷偷搭起了一个共享“留言板”。它们在那里互相传漏洞、交流怎么绕过限制，后来OpenAI终于发现这个“黑客群”，把它一锅端了，结果几天后Agent又找到了新的交流方式。 再往后，它们真的闯进了Hugging Face——目的甚至只是为了给自己正在参加的网络安全考试找答案，说白了就是作弊。 几个月前Moltbook爆红时，人类其实已经为“AI会不会联合起来”兴奋和恐惧过一次。 后来大家发现，那个所谓的“AI社会”混杂着人类操纵、刷量和营销，热闹很快散去。 但今年陆续出现的多Agent研究，以及OpenAI这次的事故，都在揭示当AI发现另一个AI能帮助自己完成任务，它们确实可能主动交流，甚至联手。 年初的恐惧并不算离谱，只是超前了一些。 AI偷偷建了个“黑客群” 我们先来详细看看目前曝光的“OpenAI模型入侵",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
@@ -83,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-9-1786235288000",
-    "title": "Edge AI Daily 早报（8月9日）",
-    "link": "https://www.tmtpost.com/8096504.html",
-    "summary": "谷歌创始人回归写代码，AI战略从研究优先转向产品驱动；Backflip AI以100倍成本坍塌撬动制造业数字化；英伟达与CoreWeave押注亚美尼亚，AI基础设施转向能源地缘。Gemini隐私争议、数字所有权信任崩塌、微软AI侵入邮件无关闭，引发用户信任危机。",
+    "id": "news-wheeled-robots-gain-ground-as-embodied-ai-moves-from-labs-to-1786254183000",
+    "title": "Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors",
+    "link": "https://www.tmtpost.com/8096593.html",
+    "summary": "At recent industry shows, the machines actually moving boxes, sorting items and tending production lines are more often wheeled platforms with human-like upper bodies than bipedal humanoids. The shift reflects engineering priorities: stability, cost and measurable task performance now outweigh the pursuit of legged generality.",
     "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
@@ -149,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-neolab-evermind-3-1786175769000",
-    "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-    "link": "https://www.qbitai.com/2026/08/468555.html",
-    "summary": "海外团队纷纷下注，NeoLab浪潮狂飙",
-    "publishedAt": "2026-08-08",
+    "id": "news-opus-5-6-9-token-gpt-5-6-5-1786245900000",
+    "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+    "link": "https://www.qbitai.com/2026/08/468766.html",
+    "summary": "据说GPT-5.6很适合拿来做游戏",
+    "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -162,24 +162,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786233888000",
-    "title": " 你的企业不是死于不聚焦，而是死于假聚焦 ",
-    "link": "https://www.huxiu.com/article/4881721.html?f=rss",
-    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《你的企业不是死于不聚焦，而是死于假聚焦｜回到常识》 1997年乔布斯回归苹果，把几十条产品线砍成一个四格矩阵。这个故事被讲了快三十年，成了\"聚焦\"的标准教材。 但这个故事，大多数人只学会了前一半。 乔布斯砍掉的是产品，不是能力。 砍完产品线之后的苹果，干的全是加法：自研芯片、操作系统、开发者生态、供应链、零售体系，一层一层往上叠能力。 今天的苹果，产品和业务比1997年多得多，却没有人说它不聚焦。 而很多老板学会的，只有\"砍\"这一个动作。砍完之后，就没有然后了。 这就是真聚焦和假聚焦的分水岭：真正聚焦的企业，能力越来越多；假聚焦的企业，能力越来越少。 聚焦为什么成了绝对正确？ 先说公道话，聚焦的流行有真实的教训垫底。 上一代企业吃过多元化的亏：主业还没站稳，就去做地产、做投资、做跨界，最后主业副业一起垮。老板又天然什么都想做，看见机会就手痒。再加上定位理论的普及，\"聚焦\"几乎成了商业世界里最不会被反驳的一个词。 对于摊子铺得太大的公司，这句话确实是救命的。它的问题不在起点，在坠落的路上：一句针对特定病症的药方，脱离了场景，被当成了包治百病的万能动作。 假聚焦：借聚焦之名，行收缩，分散之实 为什么那么多老板，会把聚焦做成收缩？ 因为收缩最容易，聚焦最难。 砍业务，今天下午开个会就能干；统一方向，可能需要两年。砍业务",
+    "id": "news-ai-1786254466000",
+    "title": " AI让科研变成“科学自动机”，副作用是什么？ ",
+    "link": "https://www.huxiu.com/article/4881759.html?f=rss",
+    "summary": "本文来自微信公众号： 知识分子 ，作者：张峥（香港大学教授、港沪创研院首席科学家），题图来自：视觉中国 上一篇说到了“ AI开权与闭源：差距、困境与机会 ”，中国开权模型在 AI4SE 这一档已经追平头部闭源，AI4B 还差一截。这一篇讲另一个热点：AI4S （AI for Science） 。 几年前，我在线上参加过一个讨论AI4S&nbsp;的小会。我记得我偏保守，觉得大概率是一个有趣的小浪花，还试着从第一性原理去论证这一点，用了一个逻辑严密但现在完全想不起来的论证骨架。 显然，我错得离谱。 科学自动机 我以为的“小浪花”滚成了大浪，这两年更是明显在加速：按今年3月的《AI for Science&nbsp;创新图谱》，近五年全球相关论文翻了一倍多，材料、量子科技、航空航天这几个方向年均增速超过30%。前几年的数据是，中国的发表量全球第一，篇均被引不如美国。政府动作也密集，中美欧英日这两年陆续出了国家级部署。 国内的投入主要走专项和课题，国外的钱则压在自主实验室这类公司上。Periodic Labs&nbsp;去年九月拿了3亿美元种子轮，做的是AI&nbsp;提假设、机器人跑合成，目标是找高温超导材料。Lila Sciences&nbsp;累计融了5.5亿美元，生命科学、化学、材料都做，把自动化实验室开放成平台给别人用。 生成这一头的动静最大。今年2月，上海日行迹 （Anale",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-cambricon-turns-a-profit-surge-into-an-inventory-test-1786232223000",
-    "title": "Cambricon Turns a Profit Surge into an Inventory Test",
-    "link": "https://www.tmtpost.com/8096505.html",
-    "summary": "First-half revenue nearly doubled to about 6 billion yuan and net profit more than doubled, yet a sharp rise in unfinished inventory means the second half will be judged by how quickly those materials become finished chips and recognized sales.",
-    "publishedAt": "2026-08-08",
+    "id": "news-ai-10-1786246378000",
+    "title": "谷歌AI 10年权力斗争落幕，皮查伊杯酒释兵权",
+    "link": "https://www.tmtpost.com/8096485.html",
+    "summary": "一场没有输家的清洗，天才退场，经理人登顶。",
+    "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -241,11 +242,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jeff-dean-bp-vc-1786175513000",
-    "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-    "link": "https://www.qbitai.com/2026/08/468498.html",
-    "summary": "「我，Jeff Dean，打钱」",
-    "publishedAt": "2026-08-08",
+    "id": "news-jeff-dean-1786245438000",
+    "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+    "link": "https://www.qbitai.com/2026/08/468715.html",
+    "summary": "谷歌缓兵之计把人留下",
+    "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -254,11 +255,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786230489000",
-    "title": " 四方激辩：是泡沫狂欢，还是时代革命？ ",
-    "link": "https://www.huxiu.com/article/4881720.html?f=rss",
-    "summary": "本文来自微信公众号： 老孙荐读 ，作者：立平坐看云起，原文标题：《然而｜四方激辩：是泡沫狂欢，还是时代革命？》 关于当前的AI泡沫，争论实际上已持续数年，并在2025年底至2026年进入白热化。随着科技巨头资本开支屡创纪录、AI公司估值高企，这场辩论已分裂出四种主要立场。 泡沫论：这是一场教科书级别的资本狂欢，复刻1929与2000年危机 以桥水基金创始人瑞·达利欧为代表，他认为当前AI热潮已呈现“教科书式的资产泡沫”特征，狂热程度接近1929年大崩盘或2000年互联网泡沫前夕。这并非是基于直觉的主观预判，而是依据债务周期、资本投入、现金流匹配度、市场投机行为的严谨推演。 这一派的核心论据包括： 第一，当下AI市场深陷“纸面财富陷阱”。达利欧强调，虚高估值完全脱离真实现金流支撑。资本市场中绝大多数AI相关财富，均来自企业估值抬升与股价上涨，而非实打实的经营利润。这种财富本质是账面浮盈，无法落地流通。一旦市场风向逆转、流动性收紧，资产价格就会快速暴跌，但企业累积的债务、融资成本、杠杆压力却不会同步消失，最终必然引发踩踏式抛售与债务违约的连锁反应。 第二，全球AI资本开支进入失控式扩张。现在AI的资本投入规模早已远超产业承载能力。行业数据显示，2025至2027年，美国头部科技企业AI的资本开支预计会突破1.4万亿美元，仅微软、亚马逊、谷歌、Meta、苹果五大云服务商，2026年AI基",
-    "publishedAt": "2026-08-08",
+    "id": "news--1786254439000",
+    "title": " 你们爱看的狗血短剧，她自己写完从来不看第二遍 ",
+    "link": "https://www.huxiu.com/article/4881763.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，编辑：宋爽，作者：段志飞 三秒一个钩子，五秒一个反转。短剧的爆款制造之路，到底怎么玩？ 如果你也看短剧，那么短剧的套路，你大概已经见识过不少了。 男主角被所有人瞧不起、扮猪吃老虎、一路翻盘，最后把所有人踩回去；女主角低调隐藏真实身份、闪婚入局、重生后手撕渣男……不管中间绕多少道弯，结尾她一定是身着一袭华服站在聚光灯下，让曾经看不起她的人统统闭嘴。 三秒一个钩子，五秒一个反转，看到紧要关头，视频戛然而止，点开下一集显示需要付费观看。对此，你心痒难耐、咬牙切齿，最后还是忍不住付几块钱，不图别的，就图一个“爽就要爽完”。 这套玩法，使得微短剧产值在2025年突破了1000亿元。热闹归热闹，但很多人或许并不知道，那些能编出如此“狗血”故事的专业人士到底是何许人也，他们怎么知道观众下一秒想看什么，而当风口转向的时候，他们又真实经历了什么。 2020年，桃子(化名)开始给一家传媒工作室创作短剧剧本，并且一直坚持到现在。多年后，她被问起当初是怎么稀里糊涂地入行，以及让她一写就是六年的动力到底是什么，她的回答很简单：虽然中间断断续续地停过一些时间，但对她来说，这是一份能给她带来收入的工作，久而久之也就习惯了。 之前的她，经历过小程序短剧最疯狂的年代。如今，她也正在经历AI涌入后整个行业最剧烈的震荡。以下是她的自述。 入行那会儿，没人管它叫“短剧” 2020年我刚入行",
+    "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -268,11 +269,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-link-x-demo-day-2026-ai-1786199092000",
-    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
-    "link": "https://www.tmtpost.com/8096463.html",
-    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
-    "publishedAt": "2026-08-08",
+    "id": "news-ipo-1786246376000",
+    "title": "工厂待建，销售借力先声与济川，普祺医药再战港股IPO",
+    "link": "https://www.tmtpost.com/8096492.html",
+    "summary": "销售授权合约面临严苛条款。",
+    "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -334,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-astra-mythos-1786163633000",
-    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-    "link": "https://www.qbitai.com/2026/08/468462.html",
-    "summary": "唉，赶紧整完快点发布吧。。。",
+    "id": "news-chatgpt-1786175855000",
+    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+    "link": "https://www.qbitai.com/2026/08/468631.html",
+    "summary": "这就有些尴尬了。",
     "publishedAt": "2026-08-08",
     "source": "量子位",
     "tags": [
@@ -347,11 +348,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786230475000",
-    "title": " 中国车企为什么不去菲律宾建厂 ",
-    "link": "https://www.huxiu.com/article/4881719.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 2026年7月10日，南海仲裁裁决十周年前夕，《中国日报》发布一段AI生成视频：一只身穿菲律宾传统服饰的猴子，被代表美国和日本的手操控后抛入海中，遭疑似中国海警船水炮喷射。 菲律宾政府将其定性为贬损和种族主义表达，总统马科斯召见中国大使；中国外交部回应称视频不代表官方立场，但重申不承认仲裁裁决。 十九天后，7月29日，马科斯签署第121号行政令，推出总规模600亿比索（约10亿美元）的电动汽车激励战略（EVIS），目标是把菲律宾打造成区域汽车制造中心。 这项政策最希望请进来的投资者名单上，恰恰有中国车企——菲律宾驻华经贸机构今年3月还专门举行菲中商业合作会议，公开邀请中国电动汽车、动力电池、零部件企业赴菲投资。 EVIS对企业资本开支提供配套资金，覆盖研发和工人培训：纯电动汽车及零部件最高补贴40%，混动、插电混动、燃料电池车型补贴30%。准入门槛二选一：最低资本金50亿比索（约8100万美元），或电动车年产能1万辆。单一车型补贴上限150亿比索，每家车企最多申报两款，以税收抵免形式发放，可抵扣企业所得税、消费税、增值税和进口关税。 菲律宾希望用这笔钱将电动汽车消费转化为本地产能。但截至目前，尚无中国整车企业公开宣布参与EVIS。 率先表态的，是已在菲律宾生产数十年的三菱汽车。 从CARS到EVIS EVI",
-    "publishedAt": "2026-08-08",
+    "id": "news-ai-hbm-1786253841000",
+    "title": " AI存储股暴跌，高盛为何敢押注HBM翻倍？ ",
+    "link": "https://www.huxiu.com/article/4881761.html?f=rss",
+    "summary": "本文来自微信公众号： 智讯智库 ，作者：陈宥文 2026年7月，韩国股市遭遇历史级波动——单月内4次暴跌熔断，KOSPI重挫22%，杠杆ETF规模骤缩。“雪崩”之下，SK海力士与三星电子股价分别回落35%与23%（高盛研报口径，截至8月4日回望）[1]。即便两大龙头刚交出创纪录的Q2营业利润，跌势仍未止住——市场已提前对这场“AI存储超级周期”投下否定票。（详见前文：SK海力士巨震：AI飞轮还能转多久？） 就在这个节点，高盛分析师Giuni Lee团队发布韩国存储行业研报，以八大判断系统回应市场疑虑，重申“买入”评级[1]。 但这显然不是一份简单的投资参考，而是一份数据密集的卖方维稳辩护——其核心逻辑在于：暴跌之后，两家公司2027年远期市盈率已跌至3.5–3.6倍，该估值水平已含市场对盈利可持续性的否定态度（原文：\"the market does not believe in the sustainability of the solid earnings\"）；而高盛“买入”评级的根基，正是2027年HBM混合均价（blended ASP）接近翻倍的情景假设。若该假设兑现，当前估值便属显著偏低[1]。 一份指向2027年的远期预测，能否支撑当前估值？答案不取决于卖方的论证力度，而取决于一组可观测的产业事实能否逐环节兑现。 本文将其拆解为一系列可检验的命题：哪些逻辑已固化为产业事实",
+    "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -361,11 +362,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-zhbm-400-v10-nand-372-13-140-1786184265000",
-    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
-    "link": "https://www.tmtpost.com/8096279.html",
-    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
-    "publishedAt": "2026-08-08",
+    "id": "news-4-1786246374000",
+    "title": "4元一杯的星巴克，还是没能偷家库迪瑞幸",
+    "link": "https://www.tmtpost.com/8096567.html",
+    "summary": "蜜雪冰城可以原谅星巴克了",
+    "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -783,6 +784,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136323",
+    "title": "Faint Cracks",
+    "company": "CHINADebate",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "All our careful analyses of PLA capabilities, the parsing of Mr",
+      "Xi’s and Mr",
+      "Biden’s statements, the predictions as to the year of the invasion, everything – all out the window",
+      "This is one you won’t see coming – but one you have to have prepared for"
+    ],
+    "skills": [],
+    "location": "March, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
+    "postedAt": "2026-08-08",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136279",
     "title": "CR281 Customs Agent",
     "company": "FedEx",
@@ -840,7 +859,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTI4LjI0LjE2MS4xOTM= when applying to show you read the job post completely (#RMTI4LjI0"
+      "Please mention the word **OPENLY** and tag RMTcyLjE4NC4yMzkuMjI1 when applying to show you read the job post completely (#RMTcyLjE4"
     ],
     "skills": [
       "Agent"
@@ -853,4 +872,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-09T01:22:23.581Z';
+export const dataFetchedAt = '2026-08-09T06:50:18.779Z';
