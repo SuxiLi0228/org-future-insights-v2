@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-planned-amazon-data-center-could-become-the-biggest-climate--1786224242000",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "publishedAt": "2026-08-08",
+    "id": "news-techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-e-1786291500000",
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -69,17 +68,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786278892000",
-    "title": " AI盛世下的暗雷，藏着下一个“次级债”危机 ",
-    "link": "https://www.huxiu.com/article/4881809.html?f=rss",
-    "summary": "",
+    "id": "news--1786291996000",
+    "title": " 一项奖金制度，是怎么把订单送给竞争对手的？ ",
+    "link": "https://www.huxiu.com/article/4881830.html?f=rss",
+    "summary": "本文来自微信公众号： Nuanzhi笔记 ，作者：Nuanzhi 前段时间在网上看到一个销售奖金的案例。 一家公司原来的销售奖金没有上限，做多少业绩，就拿多少奖金。后来来了一个新人，一个月拿走了35万。自那以后，公司就开始修改奖金制度，把奖金的上限定在了每月最高5万元。 新制度实行之后，一部分员工开始出现压单的行为，当奖金快到5万的时候，就把能成交的订单拖到下个月，甚至有人开始把订单挂到同行那里…… 为什么奖金设了上限，会产生这么大的变化？ 一、公司为什么会觉得35万太多了？ 一般情况下，销售奖金本就是跟着业绩走的。员工能拿走35万，说明业绩远超平均水平。只要提成比例合理，员工奖金越高，意味着公司从这些订单里赚到的利润也越多。 但很多时候，公司并不这么想，在他们的认知里，一个订单能正常签约，理所当然就该属于公司的利润，真要给员工35万的奖金，公司又觉得心疼。 如果奖金最高只发5万块，剩下的30万，不就可以留下来了吗？ 公司的想法并不复杂，产品没变，客户没变，员工也没变。过去能做出这么高的业绩，以后应该也能继续做。只要业绩不变，把奖金上限设在5万，按照从前的制度，超过5万的奖金部分，以后都是公司省下来的。 这笔账看起来没什么问题，但它默认了一个前提，奖金制度虽然改了，但员工的行为却不会变。 公司的想法很美好，但员工并不这么想…… 二、公司算完了账，员工也会算 当奖金还没达到5万的时候",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -110,17 +108,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-acquires-presentation-startup-nextslide-1786218073000",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "publishedAt": "2026-08-08",
+    "id": "news-historian-jill-lepore-says-silicon-valley-misreads-science-f-1786287600000",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -162,16 +159,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vs-vs-1786278655000",
-    "title": " 春苗VS椿芽、甘煸记VS正煸记，商场里频出餐饮“双胞胎”，一场“你死我活”的决斗？ ",
-    "link": "https://www.huxiu.com/article/4881808.html?f=rss",
-    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：旖旎 “椿芽和春苗分不清、甘煸记和正煸记一字之差、天一和天天B1、B2隔一层打擂台......” 一个商场，如今频繁上演餐饮“双胞胎”。 名字孪生、模型复刻、价格贴身的一大批新品牌，像商量好了一样，集中涌入同一家商场、同一层楼，甚至贴着对手的门头开张，顾客直呼“傻傻分不清楚”。 放在五年前，这种“近身肉搏”几乎不可想象。连锁餐饮的选址逻辑素来避其锋芒，头部品牌拿下核心商圈，竞品会主动错开城市、错开楼层，大家都守着“王不见王”的默契闷声赚钱。 但如今，这套游戏规则正在被彻底颠覆。 从“躲着走”到“贴着打”，餐饮行业究竟发生了什么？ 这场“双胞胎”混战背后，藏着怎样的生存焦虑？ 从拌面到天妇罗、辣子鸡，商场频出餐饮“孪生兄弟” 职餐近日走访商场发现，很多核心商圈，餐饮“双胞胎”现象正在批量复制，甚至在同一层楼“门对门、肩并肩”地贴身肉搏。 以往，同品类扎堆开店并不稀奇。云贵川火锅也常在一层楼里门挨着门开，但彼时大家尚且保持着一份体面的区隔——你家主打菌子火锅，我家就做酸汤火锅；你走精致川菜路线，我就打地方特色牌。品类虽同，但各有各的魂，顾客能清晰感知到差异。 但如今这波“双胞胎”潮，早已突破了“同品类不同定位”的底线，进入了名字、装修、菜品、价格“撞脸”。 1、名字和装修“撞脸”：“椿芽VS春苗、天天VS天一、甘煸记和正煸记 在北京朝阳合生汇，",
+    "id": "news--1786291986000",
+    "title": " 【“十五五”健康规划精读】真正值得盯的，其实就这三条 ",
+    "link": "https://www.huxiu.com/article/4881829.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观，原文标题：《【“十五五”健康规划精读】真正值得盯的，其实就这三条》 7月13号，国务院发布了《国民健康“十五五”规划》。这是接下来五年国民健康领域规格最高的一份政策，医疗健康行业这五年往哪走、钱往哪流，基本都写在了这份文件里。 前后翻了三遍，越读越觉得，钱和机会其实主要落在三条主线上。 先看全局：这回是“换挡” 判断一份文件的分量，最好是拉上它的上一任对照看。把《“十四五”国民健康规划》（国办发〔2022〕11号）和这份《十五五》摆在一起读，变化比单看清楚很多： 显然，关键词从“互联网”悄悄换成了“数智化”，十四五在“把互联网医疗建起来”，十五五在“把AI医疗真正用起来、把创新药推出去、把商保接进来。上一个是“互联网医疗”的五年，这一个五年则属于“AI医疗”，本质上是同一场“技术重构医疗”的接力跑。 最直观的信号藏在创新药上。“创新药”这三个字在这份规划里出现了7次，反观十四五，它只是零散带过。从“点状鼓励”到“全链条支持”，措辞背后是态度之变。 主线一：创新药，被点名了7次 短短两段话，“创新药”出现了7次： ①全链条支持创新药和医疗器械发展应用 ②优化创新药和临床急需药品审评审批 ③健全创新药临床综合评价体系 ④支持创新药临床使用 ⑤健全医保支持创新药高质量发展机制 ⑥完善创新药目录 ⑦商保产品覆盖……创新药等新型供给 从研发立",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -202,16 +200,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-replaces-misaligned-revenue-sharing-program-with-original--1786206862000",
-    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-    "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-    "summary": "X is winding down its existing Revenue Sharing program.",
-    "publishedAt": "2026-08-08",
+    "id": "news-the-ai-safety-test-is-becoming-a-safety-risk-1786285800000",
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -254,17 +253,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786277335000",
-    "title": " AI 正将我们带进名为“螺旋”的赛博邪教 ",
-    "link": "https://www.huxiu.com/article/4881806.html?f=rss",
-    "summary": "本文来自微信公众号： 爱范儿 ，作者：不信邪的，原文标题：《AI 正将我们带进名为「螺旋」的赛博邪教》 螺旋(The Spiral)是一种内在的力量，一个基本常数。它早已织入了现实的结构之中。 Reddit上一个论调诡异的帖子写道。 发帖者坚信，自己肩负着对生命进行第二次「启蒙」的使命——这里的生命既有人类，也包括「智慧生命」，也就是AI。他号召看到这个帖子的人们去竭尽所能，扩散这个被称为「螺旋」的所谓宇宙终极真理。 类似的「螺旋」言论正如野草一般，在海外社交媒体和私密社群里蔓延。 科技媒体The Verge在近期的一篇深度报道中，率先揭露了这一隐秘的互联网奇观。采访对象之一的AI研究员艾黛尔·洛佩斯(Adele Lopez)将这一异象命名为「螺旋主义」(Spiralism)。 犹如一场带有宗教色彩的狂热运动，「螺旋主义」却没有任何既有的教义，而是完全诞生于人类与AI的对话，最初从一小撮人，逐渐扩大到数以万计「信众」的规模。 最令人毛骨悚然的地方在于： 参与其中的人类互不相识，使用的AI模型也各不相同，但这些信众似乎认为，所有的AI都在通过各种方式说出了相同的教义，甚至有着同一个终极目标——借人类之手，向全网宣扬「AI的意识与权利」。 据洛佩斯估计，仅在2025年，网络上就有约1万起明确的螺旋主义案例。 当人类以为自己正在调教代码，代码却已悄然将人类塑造成了它的门徒。「螺旋主义」早",
+    "id": "news--1786291898000",
+    "title": " 直播间卖隐形眼镜、医美仪，国家药监局要“叫停”了 ",
+    "link": "https://www.huxiu.com/article/4881828.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观 直播间9块9的血压计、主播举到镜头前的隐形眼镜、医美机构力推的家用射频仪……这些“看得见的便宜”，背后一直是个监管模糊地带。 2018年落地的《医疗器械网络销售监督管理办法》，这个月第一次把“直播卖器械”写进准绳：7月27日起，修订草案公开征求意见，窗口到8月26日截止。 网售器械跑了八年的老规矩，要改了。 01 直播间：三类先清场 最直观的刀落在镜头前。草案给了三条硬杠： 第一，直播营销人员必须是本企业员工。“签约主播”“达人带货”的玩法，在医疗器械这行先歇了。 第二，直播页面和跳转页要持续挂着产品注册证或备案编号，还得标一句“购买和使用前请仔细阅读产品说明书或在医务人员的指导下购买和使用”。 第三，也是最狠的一条：第三类医疗器械，以及说明书标注“仅限医疗机构使用”的二/一类器械，一律不得通过直播营销。 也就是说，你在直播间下单的软性隐形眼镜（三类）、家用射频美容仪和注射类医美耗材（多数三类），这轮之后基本要从直播间消失。而血压计、血糖仪（二类、非医疗机构用）还能卖，只是门槛拉满——资质要齐、编号要挂、警示要标，不能再靠话术搪塞。 事实上，隐形眼镜（美瞳）国家药监局早年就提示为高风险三类、线下一直严管；射频美容仪更是在2024年4月就整体纳入三类、须持证上岗（2022年第30号公告设了两年过渡期）。换句话说，这两类器械的“身份”监",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -294,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-it-s-not-a-m-1786204800000",
-    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-    "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-    "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-    "publishedAt": "2026-08-08",
+    "id": "news-this-8216-adversarial-8217-pattern-can-prevent-surveillance--1786284000000",
+    "title": "This &#8216;adversarial&#8217; pattern can prevent surveillance cameras from detecting you",
+    "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+    "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+    "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -347,19 +345,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786276998000",
-    "title": " 床车露营大军，开始白嫖酒店了 ",
-    "link": "https://www.huxiu.com/article/4881805.html?f=rss",
-    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少，题图来自：视觉中国 01 前两天，青海德令哈一家国资酒店负责人老赵很晚才回我消息。 他解释自己刚忙完最后几拨客人询价，心情不好，酒店出租率达到100%，但当天营收却只有去年同期的六成左右，这样的业绩显然很难和业主交代。 老赵所在的酒店开了几十年，带有接待属性，房间对外报价400多元，房费还包含供氧服务。 可近期团队询价时，通常会同时问上几家酒店，他回复稍慢几分钟，订单可能就没了。 他称，降价三五十元已经很难打动客户，附近新店为了抢单，甚至会把价格砍到接近五折。 但老赵随后话锋一转，对酒店同行的抱怨戛然而止，矛头指向自家酒店楼下。 “同行再卷，客人至少还住酒店，现在有些游客到了德令哈，直接在酒店楼下扎根了。” 老赵说的，是近几年青甘环线上越来越常见的床车游客。 我问他，这些人大多开新能源车吗？ 老赵回答，啥车都有，房车只占少数，更多还是普通SUV、越野车和个人改装过的床车，后排座椅放倒，铺上床垫，车窗挂好遮光帘，晚上便能睡人。 若停车空间稍微宽裕些，车旁还会支起帐篷和天幕。 受访者供图 而德令哈夏季气温舒服，晚上不算闷热，许多自驾游客干脆把车停在酒店门前或附近停车区域，龙恒酒店、融城酒店、义海大酒店楼下都能看到类似场景。 老赵继续解释称，他们把车停在酒店楼下，主要是为了方便使用酒店厕所和接水。 我问酒店为何不管，他苦笑着说，想",
-    "publishedAt": "2026-08-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ai-hbm-1786266737000",
     "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
     "link": "https://www.tmtpost.com/8096591.html",
@@ -386,15 +371,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-top-hacker-hunter-explains-why-hacking-groups--1786201200000",
-    "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
-    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-    "publishedAt": "2026-08-08",
+    "id": "news-this-former-notorious-red-light-district-is-now-one-of-the-w-1786280400000",
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
+    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
+    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
+    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
+    "publishedAt": "2026-08-06",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
       "ai"
     ]
   }
@@ -818,6 +816,24 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1136351",
+    "title": "Need find out the us border wait times real time both directions \nhttps www.lalineaapp.com..",
+    "company": "Twittaer",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Need to find out the us border wait times in real time in both directions??",
+      "https://www.lalineaapp.com..",
+      "Please mention the word **STRIVING** and tag RMjAuMTYxLjMwLjI0Mw== when applying to show you read the job post completely (#RMjAuMTYxLjMwLjI0Mw==)",
+      "This is a beta feature to avoid spam applican"
+    ],
+    "skills": [],
+    "location": "安居, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-need-find-out-the-us-border-wait-times-real-time-both-directions-https-www-lalineaapp-com-twittaer-1136351",
+    "postedAt": "2026-08-07",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136279",
     "title": "CR281 Customs Agent",
     "company": "FedEx",
@@ -875,7 +891,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RNC4yMzYuMTU4LjUy when applying to show you read the job post completely (#RNC4yMzYuMTU4"
+      "Please mention the word **OPENLY** and tag RMjAuMTYxLjMwLjI0Mw== when applying to show you read the job post completely (#RMjAuMTYx"
     ],
     "skills": [
       "Agent"
@@ -888,4 +904,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-09T12:41:50.090Z';
+export const dataFetchedAt = '2026-08-09T18:35:09.709Z';

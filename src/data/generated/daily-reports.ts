@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-10-auto",
+    "date": "2026-08-10",
+    "session": "auto",
+    "title": "2026-08-10 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-10-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+      },
+      {
+        "id": "sig-2026-08-10-auto-2",
+        "emoji": "⚠️",
+        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "detail": "来源: TechCrunch。Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/"
+      },
+      {
+        "id": "sig-2026-08-10-auto-3",
+        "emoji": "🚨",
+        "title": "Soaring medical costs force employers to tighten benefits",
+        "summary": "Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "strategy"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/soaring-medical-costs-force-employers-to-tighten-benefits/"
+      },
+      {
+        "id": "sig-2026-08-10-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Learning When to Trust via Selective Context Preference Opti...",
+        "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides",
+        "detail": "作者: Xian Sun, Wei Chow, Yingshuo Wang。Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four matched conditions (clean, misleading, correct-context, and irrelevant-context), together with SC2W, a paired metric counting how often a misleading signal flips a clean-correct answer to wrong. Across a comprehensive benchmark study, we observe that such a susceptibility is universal. We then propose SCOPE, which mines clean-correct/misleading-wrong ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.06377v1"
+      },
+      {
+        "id": "sig-2026-08-10-auto-5",
+        "emoji": "💼",
+        "title": "PlayToMax 正在招募 Exit Searcher",
+        "summary": "岗位类型：业务+AI 复合岗。Exit Searcher - play and find your way out in puzzle games online",
+        "detail": "技能要求: 未标注。Exit Searcher - play and find your way out in puzzle games online Have you ever been put in a hopeless situation Perhaps, everyone is familiar with a feeling of hopelessness but it doesn’t apply to our Exit Searcher He works at a huge warehouse and knows perfectly all the ins and outs in puzzle g",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "PlayToMax"
+        ],
+        "sourceType": "tech",
+        "sourceName": "PlayToMax",
+        "link": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-10-1",
+        "priority": "medium",
+        "action": "关注「The Download: a censorship conspiracy th」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-10-2",
+        "priority": "medium",
+        "action": "关注「TechCrunch Mobility: Zoox prepares for l」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-10-3",
+        "priority": "high",
+        "action": "关注「Soaring medical costs force employers to」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-10-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Learning When to Trust via Selectiv」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-10-5",
+        "priority": "medium",
+        "action": "关注「PlayToMax 正在招募 Exit Searcher」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "PlayToMax"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-10 生成，聚合了 30 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-08-10 00:00 - 2026-08-10 23:59"
+  },
+  {
     "id": "report-2026-08-09-auto",
     "date": "2026-08-09",
     "session": "auto",
