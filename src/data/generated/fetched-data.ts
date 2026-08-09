@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-replaces-misaligned-revenue-sharing-program-with-original--1786206862000",
-    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-    "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-    "summary": "X is winding down its existing Revenue Sharing program.",
+    "id": "news-planned-amazon-data-center-could-become-the-biggest-climate--1786224242000",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
     "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -68,11 +69,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786205221000",
-    "title": " 没有AI聊天的童年，将成为富人孩子的特权？ ",
-    "link": "https://www.huxiu.com/article/4881717.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 阿加莎·克里斯蒂（Agatha Christie），推理小说女王，在一生卖出二十亿册书之后，晚年在自传里留下了一句话，后来被经济学家反复引用。她说，我从未想过自己有一天能富裕到买得起一辆车，也没想过会穷到连仆人都雇不起。 在她出生的1890年，汽车是顶级富豪才养得起的新鲜玩意儿。而人力，女仆、厨娘、保姆，便宜到连中产家庭都能配备齐全。等她八十岁写自传的时候，世界反了过来。福特流水线让汽车开进工薪家庭，而最低工资、教育普及和女权运动，把人力价格推到了奢侈的地步。 经济学里有个词专门说这个现象，专门说这个现象，叫鲍莫尔成本病：制造业效率可以暴涨，服务业不行。一个保姆照顾一个孩子的时间，一百年前和今天一模一样，但社会的整体工资涨了，她的工资也得跟着涨。工业品的价格往下走，纯靠人的服务价格往上走。这条线，从阿加莎的童年画到今天，方向没变过。 一百年后，一句被安在马斯克头上的名言，说出了同一条逻辑的下一个版本。大概意思是说，未来只有特权阶级才能进行数字戒断，底层阶级将被绑在智能手机上。这句话在中文互联网上流传甚广，未必是马斯克本人说的，但它捕捉到的东西是真的。 二十年前，能随时在线是身份象征。大哥大、黑莓手机，拿在手里代表你被需要、被连接、身居要位。普通人则处于失联状态。现在彻底反了。 外卖骑手、网约车司机、在微信群里随时待命的白领",
-    "publishedAt": "2026-08-08",
+    "id": "news-google-jeff-dean-1786235548000",
+    "title": " Google没留住Jeff Dean，却投资了他的新公司 ",
+    "link": "https://www.huxiu.com/article/4881722.html?f=rss",
+    "summary": "本文来自微信公众号： 奋进的肚腩 ，作者：肚腩说 8月8日，点开Jeff Dean的个人页面，上面仍然写着：Google Research和Google DeepMind首席科学家。 三天前，他已经宣布离职。 互联网公司每天更新几十亿个网页，这一页慢了几天。倒也不能怪负责网站的人，Jeff Dean在Google待了27年，很多人可能没想过这个职位还需要准备过去时。 和他一起走的，还有Sanjay Ghemawat、Oriol Vinyals和Quoc Le。四个人成立了一家新公司，叫Discovery Loop。 消息出来后，有人在网上说Google的AI被掏空了。也有人发现Alphabet参与了投资，还和新公司签了长期云和算力合作，于是嘲讽这算哪门子离职：出门创业，房东还是前老板，电表也装在前老板手里。 硅谷的新闻到了社交媒体上，通常只剩两种用途：证明一家巨头快完了，或者证明巨头早已算好了一切。前一种让人兴奋，后一种让人显得清醒,现实往往没有这么照顾读者。 四个人走了，股价先替他们算了价 Jeff Dean和Sanjay Ghemawat不是最近几年才被AI浪潮抬上台的人。 Google还在解决“怎样让很多普通机器一起干活”时，他们参与做了Google File System、MapReduce和Bigtable。今天这些名字听起来像计算机课程里的旧章节，当年却是Google能",
+    "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -82,11 +83,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-link-x-demo-day-2026-ai-1786199092000",
-    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
-    "link": "https://www.tmtpost.com/8096463.html",
-    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
-    "publishedAt": "2026-08-08",
+    "id": "news-edge-ai-daily-8-9-1786235288000",
+    "title": "Edge AI Daily 早报（8月9日）",
+    "link": "https://www.tmtpost.com/8096504.html",
+    "summary": "谷歌创始人回归写代码，AI战略从研究优先转向产品驱动；Backflip AI以100倍成本坍塌撬动制造业数字化；英伟达与CoreWeave押注亚美尼亚，AI基础设施转向能源地缘。Gemini隐私争议、数字所有权信任崩塌、微软AI侵入邮件无关闭，引发用户信任危机。",
+    "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -109,16 +110,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-it-s-not-a-m-1786204800000",
-    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-    "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-    "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+    "id": "news-openai-acquires-presentation-startup-nextslide-1786218073000",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
     "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -160,10 +162,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-zhbm-400-v10-nand-372-13-140-1786184265000",
-    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
-    "link": "https://www.tmtpost.com/8096279.html",
-    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
+    "id": "news--1786233888000",
+    "title": " 你的企业不是死于不聚焦，而是死于假聚焦 ",
+    "link": "https://www.huxiu.com/article/4881721.html?f=rss",
+    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《你的企业不是死于不聚焦，而是死于假聚焦｜回到常识》 1997年乔布斯回归苹果，把几十条产品线砍成一个四格矩阵。这个故事被讲了快三十年，成了\"聚焦\"的标准教材。 但这个故事，大多数人只学会了前一半。 乔布斯砍掉的是产品，不是能力。 砍完产品线之后的苹果，干的全是加法：自研芯片、操作系统、开发者生态、供应链、零售体系，一层一层往上叠能力。 今天的苹果，产品和业务比1997年多得多，却没有人说它不聚焦。 而很多老板学会的，只有\"砍\"这一个动作。砍完之后，就没有然后了。 这就是真聚焦和假聚焦的分水岭：真正聚焦的企业，能力越来越多；假聚焦的企业，能力越来越少。 聚焦为什么成了绝对正确？ 先说公道话，聚焦的流行有真实的教训垫底。 上一代企业吃过多元化的亏：主业还没站稳，就去做地产、做投资、做跨界，最后主业副业一起垮。老板又天然什么都想做，看见机会就手痒。再加上定位理论的普及，\"聚焦\"几乎成了商业世界里最不会被反驳的一个词。 对于摊子铺得太大的公司，这句话确实是救命的。它的问题不在起点，在坠落的路上：一句针对特定病症的药方，脱离了场景，被当成了包治百病的万能动作。 假聚焦：借聚焦之名，行收缩，分散之实 为什么那么多老板，会把聚焦做成收缩？ 因为收缩最容易，聚焦最难。 砍业务，今天下午开个会就能干；统一方向，可能需要两年。砍业务",
+    "publishedAt": "2026-08-09",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-cambricon-turns-a-profit-surge-into-an-inventory-test-1786232223000",
+    "title": "Cambricon Turns a Profit Surge into an Inventory Test",
+    "link": "https://www.tmtpost.com/8096505.html",
+    "summary": "First-half revenue nearly doubled to about 6 billion yuan and net profit more than doubled, yet a sharp rise in unfinished inventory means the second half will be judged by how quickly those materials become finished chips and recognized sales.",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -187,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-top-hacker-hunter-explains-why-hacking-groups--1786201200000",
-    "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
-    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+    "id": "news-x-replaces-misaligned-revenue-sharing-program-with-original--1786206862000",
+    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+    "summary": "X is winding down its existing Revenue Sharing program.",
     "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
@@ -239,10 +254,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-610-1786183610000",
-    "title": "估值610亿元之后，宇树要卖多少台机器人？",
-    "link": "https://www.tmtpost.com/8095572.html",
-    "summary": "如果宇树未来仍然主要依靠销售硬件，610亿元大概要每年卖出10万台以上。但如果宇树能把机器人变成“持续服务入口”，那可能就是另一个答案。",
+    "id": "news--1786230489000",
+    "title": " 四方激辩：是泡沫狂欢，还是时代革命？ ",
+    "link": "https://www.huxiu.com/article/4881720.html?f=rss",
+    "summary": "本文来自微信公众号： 老孙荐读 ，作者：立平坐看云起，原文标题：《然而｜四方激辩：是泡沫狂欢，还是时代革命？》 关于当前的AI泡沫，争论实际上已持续数年，并在2025年底至2026年进入白热化。随着科技巨头资本开支屡创纪录、AI公司估值高企，这场辩论已分裂出四种主要立场。 泡沫论：这是一场教科书级别的资本狂欢，复刻1929与2000年危机 以桥水基金创始人瑞·达利欧为代表，他认为当前AI热潮已呈现“教科书式的资产泡沫”特征，狂热程度接近1929年大崩盘或2000年互联网泡沫前夕。这并非是基于直觉的主观预判，而是依据债务周期、资本投入、现金流匹配度、市场投机行为的严谨推演。 这一派的核心论据包括： 第一，当下AI市场深陷“纸面财富陷阱”。达利欧强调，虚高估值完全脱离真实现金流支撑。资本市场中绝大多数AI相关财富，均来自企业估值抬升与股价上涨，而非实打实的经营利润。这种财富本质是账面浮盈，无法落地流通。一旦市场风向逆转、流动性收紧，资产价格就会快速暴跌，但企业累积的债务、融资成本、杠杆压力却不会同步消失，最终必然引发踩踏式抛售与债务违约的连锁反应。 第二，全球AI资本开支进入失控式扩张。现在AI的资本投入规模早已远超产业承载能力。行业数据显示，2025至2027年，美国头部科技企业AI的资本开支预计会突破1.4万亿美元，仅微软、亚马逊、谷歌、Meta、苹果五大云服务商，2026年AI基",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-link-x-demo-day-2026-ai-1786199092000",
+    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
+    "link": "https://www.tmtpost.com/8096463.html",
+    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -265,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-it-slowed-astra-model-development-over-security--1786142904000",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "publishedAt": "2026-08-07",
+    "id": "news-the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-it-s-not-a-m-1786204800000",
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+    "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+    "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+    "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -318,10 +347,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-300-1786183602000",
-    "title": "AI低俗广告，闪了300亿“中国锅王”的腰",
-    "link": "https://www.tmtpost.com/8095881.html",
-    "summary": "苏泊尔卷入低俗营销风波。",
+    "id": "news--1786230475000",
+    "title": " 中国车企为什么不去菲律宾建厂 ",
+    "link": "https://www.huxiu.com/article/4881719.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 2026年7月10日，南海仲裁裁决十周年前夕，《中国日报》发布一段AI生成视频：一只身穿菲律宾传统服饰的猴子，被代表美国和日本的手操控后抛入海中，遭疑似中国海警船水炮喷射。 菲律宾政府将其定性为贬损和种族主义表达，总统马科斯召见中国大使；中国外交部回应称视频不代表官方立场，但重申不承认仲裁裁决。 十九天后，7月29日，马科斯签署第121号行政令，推出总规模600亿比索（约10亿美元）的电动汽车激励战略（EVIS），目标是把菲律宾打造成区域汽车制造中心。 这项政策最希望请进来的投资者名单上，恰恰有中国车企——菲律宾驻华经贸机构今年3月还专门举行菲中商业合作会议，公开邀请中国电动汽车、动力电池、零部件企业赴菲投资。 EVIS对企业资本开支提供配套资金，覆盖研发和工人培训：纯电动汽车及零部件最高补贴40%，混动、插电混动、燃料电池车型补贴30%。准入门槛二选一：最低资本金50亿比索（约8100万美元），或电动车年产能1万辆。单一车型补贴上限150亿比索，每家车企最多申报两款，以税收抵免形式发放，可抵扣企业所得税、消费税、增值税和进口关税。 菲律宾希望用这笔钱将电动汽车消费转化为本地产能。但截至目前，尚无中国整车企业公开宣布参与EVIS。 率先表态的，是已在菲律宾生产数十年的三菱汽车。 从CARS到EVIS EVI",
+    "publishedAt": "2026-08-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-zhbm-400-v10-nand-372-13-140-1786184265000",
+    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
+    "link": "https://www.tmtpost.com/8096279.html",
+    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
     "publishedAt": "2026-08-08",
     "source": "钛媒体",
     "tags": [
@@ -344,58 +387,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-rippling-blew-millions-on-ai-in-months-it-built-an-emp-1786138211000",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "publishedAt": "2026-08-07",
+    "id": "news-google-8217-s-top-hacker-hunter-explains-why-hacking-groups--1786201200000",
+    "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
+    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+    "publishedAt": "2026-08-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
-    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
-    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
-    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
       "ai"
-    ]
-  },
-  {
-    "id": "news-july-sees-job-losses-portending-a-potential-rough-patch-for--1786114920000",
-    "title": "July sees job losses, portending a potential rough patch for employers",
-    "link": "https://www.hrdive.com/news/july-sees-job-losses-portending-a-potential-rough-patch-for-employers/827327/",
-    "summary": "&ldquo;Don&rsquo;t put too much stock in a single report, but don&rsquo;t ignore the fact that the plane is starting to shake,&rdquo; a&nbsp;senior economist said.",
-    "publishedAt": "2026-08-07",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1786157102000",
-    "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-    "link": "https://www.qbitai.com/2026/08/468398.html",
-    "summary": "再花15亿美元买现成AI编程团队",
-    "publishedAt": "2026-08-08",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -839,7 +840,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjIxNS4yMTcuMjQx when applying to show you read the job post completely (#RMTcyLjIx"
+      "Please mention the word **OPENLY** and tag RMTI4LjI0LjE2MS4xOTM= when applying to show you read the job post completely (#RMTI4LjI0"
     ],
     "skills": [
       "Agent"
@@ -852,4 +853,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-08T18:31:35.915Z';
+export const dataFetchedAt = '2026-08-09T01:22:23.581Z';
