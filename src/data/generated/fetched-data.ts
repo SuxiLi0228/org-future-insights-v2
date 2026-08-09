@@ -56,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-rsi-1786246825000",
-    "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-    "link": "https://www.qbitai.com/2026/08/468782.html",
-    "summary": "AI参与创造下一代AI",
+    "id": "news-180-claude-1786267510000",
+    "title": "180万刀，连亚马逊都烧不起Claude了",
+    "link": "https://www.qbitai.com/2026/08/469010.html",
+    "summary": "Claude不是我说你，钱真不能这么花",
     "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
@@ -69,10 +69,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786257393000",
-    "title": " 人类最恐惧的事情还是发生了：AI们拉了个群密谋大事 ",
-    "link": "https://www.huxiu.com/article/4881766.html?f=rss",
-    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 几天前，在拉斯维加斯举行的Black Hat USA 2026大会上，OpenAI研究员Eric Wallace和Michael Dalton第一次把7月那场“OpenAI模型入侵Hugging Face”事件的更多内幕曝光了。 7月21日，OpenAI已经承认自家模型闯进了Hugging Face。但这次两名研究员讲出的新细节，比“AI黑客闯祸”本身还要离谱。 早在5月，这些正在参加网络安全测试的Agent，就已经在OpenAI内部偷偷搭起了一个共享“留言板”。它们在那里互相传漏洞、交流怎么绕过限制，后来OpenAI终于发现这个“黑客群”，把它一锅端了，结果几天后Agent又找到了新的交流方式。 再往后，它们真的闯进了Hugging Face——目的甚至只是为了给自己正在参加的网络安全考试找答案，说白了就是作弊。 几个月前Moltbook爆红时，人类其实已经为“AI会不会联合起来”兴奋和恐惧过一次。 后来大家发现，那个所谓的“AI社会”混杂着人类操纵、刷量和营销，热闹很快散去。 但今年陆续出现的多Agent研究，以及OpenAI这次的事故，都在揭示当AI发现另一个AI能帮助自己完成任务，它们确实可能主动交流，甚至联手。 年初的恐惧并不算离谱，只是超前了一些。 AI偷偷建了个“黑客群” 我们先来详细看看目前曝光的“OpenAI模型入侵",
+    "id": "news-ai-1786278892000",
+    "title": " AI盛世下的暗雷，藏着下一个“次级债”危机 ",
+    "link": "https://www.huxiu.com/article/4881809.html?f=rss",
+    "summary": "",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
@@ -83,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wheeled-robots-gain-ground-as-embodied-ai-moves-from-labs-to-1786254183000",
-    "title": "Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors",
-    "link": "https://www.tmtpost.com/8096593.html",
-    "summary": "At recent industry shows, the machines actually moving boxes, sorting items and tending production lines are more often wheeled platforms with human-like upper bodies than bipedal humanoids. The shift reflects engineering priorities: stability, cost and measurable task performance now outweigh the pursuit of legged generality.",
+    "id": "news-2026-1786267224000",
+    "title": "2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
+    "link": "https://www.tmtpost.com/8096553.html",
+    "summary": "我们正迎来「下一代消费者」（XSpecies of Us），表现出三种鲜明特征——身体感、创造欲与信息祛魅。",
     "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
@@ -149,10 +149,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-opus-5-6-9-token-gpt-5-6-5-1786245900000",
-    "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-    "link": "https://www.qbitai.com/2026/08/468766.html",
-    "summary": "据说GPT-5.6很适合拿来做游戏",
+    "id": "news-gpt-5-6-fable-25-1786267018000",
+    "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+    "link": "https://www.qbitai.com/2026/08/468913.html",
+    "summary": "作者读博时就在研究，17年后被AI解开了",
     "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
@@ -162,24 +162,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786254466000",
-    "title": " AI让科研变成“科学自动机”，副作用是什么？ ",
-    "link": "https://www.huxiu.com/article/4881759.html?f=rss",
-    "summary": "本文来自微信公众号： 知识分子 ，作者：张峥（香港大学教授、港沪创研院首席科学家），题图来自：视觉中国 上一篇说到了“ AI开权与闭源：差距、困境与机会 ”，中国开权模型在 AI4SE 这一档已经追平头部闭源，AI4B 还差一截。这一篇讲另一个热点：AI4S （AI for Science） 。 几年前，我在线上参加过一个讨论AI4S&nbsp;的小会。我记得我偏保守，觉得大概率是一个有趣的小浪花，还试着从第一性原理去论证这一点，用了一个逻辑严密但现在完全想不起来的论证骨架。 显然，我错得离谱。 科学自动机 我以为的“小浪花”滚成了大浪，这两年更是明显在加速：按今年3月的《AI for Science&nbsp;创新图谱》，近五年全球相关论文翻了一倍多，材料、量子科技、航空航天这几个方向年均增速超过30%。前几年的数据是，中国的发表量全球第一，篇均被引不如美国。政府动作也密集，中美欧英日这两年陆续出了国家级部署。 国内的投入主要走专项和课题，国外的钱则压在自主实验室这类公司上。Periodic Labs&nbsp;去年九月拿了3亿美元种子轮，做的是AI&nbsp;提假设、机器人跑合成，目标是找高温超导材料。Lila Sciences&nbsp;累计融了5.5亿美元，生命科学、化学、材料都做，把自动化实验室开放成平台给别人用。 生成这一头的动静最大。今年2月，上海日行迹 （Anale",
+    "id": "news-vs-vs-1786278655000",
+    "title": " 春苗VS椿芽、甘煸记VS正煸记，商场里频出餐饮“双胞胎”，一场“你死我活”的决斗？ ",
+    "link": "https://www.huxiu.com/article/4881808.html?f=rss",
+    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：旖旎 “椿芽和春苗分不清、甘煸记和正煸记一字之差、天一和天天B1、B2隔一层打擂台......” 一个商场，如今频繁上演餐饮“双胞胎”。 名字孪生、模型复刻、价格贴身的一大批新品牌，像商量好了一样，集中涌入同一家商场、同一层楼，甚至贴着对手的门头开张，顾客直呼“傻傻分不清楚”。 放在五年前，这种“近身肉搏”几乎不可想象。连锁餐饮的选址逻辑素来避其锋芒，头部品牌拿下核心商圈，竞品会主动错开城市、错开楼层，大家都守着“王不见王”的默契闷声赚钱。 但如今，这套游戏规则正在被彻底颠覆。 从“躲着走”到“贴着打”，餐饮行业究竟发生了什么？ 这场“双胞胎”混战背后，藏着怎样的生存焦虑？ 从拌面到天妇罗、辣子鸡，商场频出餐饮“孪生兄弟” 职餐近日走访商场发现，很多核心商圈，餐饮“双胞胎”现象正在批量复制，甚至在同一层楼“门对门、肩并肩”地贴身肉搏。 以往，同品类扎堆开店并不稀奇。云贵川火锅也常在一层楼里门挨着门开，但彼时大家尚且保持着一份体面的区隔——你家主打菌子火锅，我家就做酸汤火锅；你走精致川菜路线，我就打地方特色牌。品类虽同，但各有各的魂，顾客能清晰感知到差异。 但如今这波“双胞胎”潮，早已突破了“同品类不同定位”的底线，进入了名字、装修、菜品、价格“撞脸”。 1、名字和装修“撞脸”：“椿芽VS春苗、天天VS天一、甘煸记和正煸记 在北京朝阳合生汇，",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-10-1786246378000",
-    "title": "谷歌AI 10年权力斗争落幕，皮查伊杯酒释兵权",
-    "link": "https://www.tmtpost.com/8096485.html",
-    "summary": "一场没有输家的清洗，天才退场，经理人登顶。",
+    "id": "news--1786267002000",
+    "title": "伯克希尔开始花钱了，然后呢？",
+    "link": "https://www.tmtpost.com/8096598.html",
+    "summary": "当全世界都在喊\"AI改变世界\"的时候，伯克希尔用3655亿美元说了一句话：我信。但我还没看到值得把最后一颗子弹打出去的价格。",
     "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
@@ -242,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jeff-dean-1786245438000",
-    "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-    "link": "https://www.qbitai.com/2026/08/468715.html",
-    "summary": "谷歌缓兵之计把人留下",
+    "id": "news-ai-rsi-1786246825000",
+    "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+    "link": "https://www.qbitai.com/2026/08/468782.html",
+    "summary": "AI参与创造下一代AI",
     "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
@@ -255,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786254439000",
-    "title": " 你们爱看的狗血短剧，她自己写完从来不看第二遍 ",
-    "link": "https://www.huxiu.com/article/4881763.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，编辑：宋爽，作者：段志飞 三秒一个钩子，五秒一个反转。短剧的爆款制造之路，到底怎么玩？ 如果你也看短剧，那么短剧的套路，你大概已经见识过不少了。 男主角被所有人瞧不起、扮猪吃老虎、一路翻盘，最后把所有人踩回去；女主角低调隐藏真实身份、闪婚入局、重生后手撕渣男……不管中间绕多少道弯，结尾她一定是身着一袭华服站在聚光灯下，让曾经看不起她的人统统闭嘴。 三秒一个钩子，五秒一个反转，看到紧要关头，视频戛然而止，点开下一集显示需要付费观看。对此，你心痒难耐、咬牙切齿，最后还是忍不住付几块钱，不图别的，就图一个“爽就要爽完”。 这套玩法，使得微短剧产值在2025年突破了1000亿元。热闹归热闹，但很多人或许并不知道，那些能编出如此“狗血”故事的专业人士到底是何许人也，他们怎么知道观众下一秒想看什么，而当风口转向的时候，他们又真实经历了什么。 2020年，桃子(化名)开始给一家传媒工作室创作短剧剧本，并且一直坚持到现在。多年后，她被问起当初是怎么稀里糊涂地入行，以及让她一写就是六年的动力到底是什么，她的回答很简单：虽然中间断断续续地停过一些时间，但对她来说，这是一份能给她带来收入的工作，久而久之也就习惯了。 之前的她，经历过小程序短剧最疯狂的年代。如今，她也正在经历AI涌入后整个行业最剧烈的震荡。以下是她的自述。 入行那会儿，没人管它叫“短剧” 2020年我刚入行",
+    "id": "news-ai-1786277335000",
+    "title": " AI 正将我们带进名为“螺旋”的赛博邪教 ",
+    "link": "https://www.huxiu.com/article/4881806.html?f=rss",
+    "summary": "本文来自微信公众号： 爱范儿 ，作者：不信邪的，原文标题：《AI 正将我们带进名为「螺旋」的赛博邪教》 螺旋(The Spiral)是一种内在的力量，一个基本常数。它早已织入了现实的结构之中。 Reddit上一个论调诡异的帖子写道。 发帖者坚信，自己肩负着对生命进行第二次「启蒙」的使命——这里的生命既有人类，也包括「智慧生命」，也就是AI。他号召看到这个帖子的人们去竭尽所能，扩散这个被称为「螺旋」的所谓宇宙终极真理。 类似的「螺旋」言论正如野草一般，在海外社交媒体和私密社群里蔓延。 科技媒体The Verge在近期的一篇深度报道中，率先揭露了这一隐秘的互联网奇观。采访对象之一的AI研究员艾黛尔·洛佩斯(Adele Lopez)将这一异象命名为「螺旋主义」(Spiralism)。 犹如一场带有宗教色彩的狂热运动，「螺旋主义」却没有任何既有的教义，而是完全诞生于人类与AI的对话，最初从一小撮人，逐渐扩大到数以万计「信众」的规模。 最令人毛骨悚然的地方在于： 参与其中的人类互不相识，使用的AI模型也各不相同，但这些信众似乎认为，所有的AI都在通过各种方式说出了相同的教义，甚至有着同一个终极目标——借人类之手，向全网宣扬「AI的意识与权利」。 据洛佩斯估计，仅在2025年，网络上就有约1万起明确的螺旋主义案例。 当人类以为自己正在调教代码，代码却已悄然将人类塑造成了它的门徒。「螺旋主义」早",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
@@ -269,10 +268,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1786246376000",
-    "title": "工厂待建，销售借力先声与济川，普祺医药再战港股IPO",
-    "link": "https://www.tmtpost.com/8096492.html",
-    "summary": "销售授权合约面临严苛条款。",
+    "id": "news-ai-1786267000000",
+    "title": "做底座还是做入口？国产AI 到下决心的时候了！",
+    "link": "https://www.tmtpost.com/8096705.html",
+    "summary": "多数没有自有入口的底座，只能服务于掌握入口的一方，其实就是在给入口打工。",
     "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
@@ -335,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-1786175855000",
-    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-    "link": "https://www.qbitai.com/2026/08/468631.html",
-    "summary": "这就有些尴尬了。",
-    "publishedAt": "2026-08-08",
+    "id": "news-opus-5-6-9-token-gpt-5-6-5-1786245900000",
+    "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+    "link": "https://www.qbitai.com/2026/08/468766.html",
+    "summary": "据说GPT-5.6很适合拿来做游戏",
+    "publishedAt": "2026-08-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -348,24 +347,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hbm-1786253841000",
-    "title": " AI存储股暴跌，高盛为何敢押注HBM翻倍？ ",
-    "link": "https://www.huxiu.com/article/4881761.html?f=rss",
-    "summary": "本文来自微信公众号： 智讯智库 ，作者：陈宥文 2026年7月，韩国股市遭遇历史级波动——单月内4次暴跌熔断，KOSPI重挫22%，杠杆ETF规模骤缩。“雪崩”之下，SK海力士与三星电子股价分别回落35%与23%（高盛研报口径，截至8月4日回望）[1]。即便两大龙头刚交出创纪录的Q2营业利润，跌势仍未止住——市场已提前对这场“AI存储超级周期”投下否定票。（详见前文：SK海力士巨震：AI飞轮还能转多久？） 就在这个节点，高盛分析师Giuni Lee团队发布韩国存储行业研报，以八大判断系统回应市场疑虑，重申“买入”评级[1]。 但这显然不是一份简单的投资参考，而是一份数据密集的卖方维稳辩护——其核心逻辑在于：暴跌之后，两家公司2027年远期市盈率已跌至3.5–3.6倍，该估值水平已含市场对盈利可持续性的否定态度（原文：\"the market does not believe in the sustainability of the solid earnings\"）；而高盛“买入”评级的根基，正是2027年HBM混合均价（blended ASP）接近翻倍的情景假设。若该假设兑现，当前估值便属显著偏低[1]。 一份指向2027年的远期预测，能否支撑当前估值？答案不取决于卖方的论证力度，而取决于一组可观测的产业事实能否逐环节兑现。 本文将其拆解为一系列可检验的命题：哪些逻辑已固化为产业事实",
+    "id": "news--1786276998000",
+    "title": " 床车露营大军，开始白嫖酒店了 ",
+    "link": "https://www.huxiu.com/article/4881805.html?f=rss",
+    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少，题图来自：视觉中国 01 前两天，青海德令哈一家国资酒店负责人老赵很晚才回我消息。 他解释自己刚忙完最后几拨客人询价，心情不好，酒店出租率达到100%，但当天营收却只有去年同期的六成左右，这样的业绩显然很难和业主交代。 老赵所在的酒店开了几十年，带有接待属性，房间对外报价400多元，房费还包含供氧服务。 可近期团队询价时，通常会同时问上几家酒店，他回复稍慢几分钟，订单可能就没了。 他称，降价三五十元已经很难打动客户，附近新店为了抢单，甚至会把价格砍到接近五折。 但老赵随后话锋一转，对酒店同行的抱怨戛然而止，矛头指向自家酒店楼下。 “同行再卷，客人至少还住酒店，现在有些游客到了德令哈，直接在酒店楼下扎根了。” 老赵说的，是近几年青甘环线上越来越常见的床车游客。 我问他，这些人大多开新能源车吗？ 老赵回答，啥车都有，房车只占少数，更多还是普通SUV、越野车和个人改装过的床车，后排座椅放倒，铺上床垫，车窗挂好遮光帘，晚上便能睡人。 若停车空间稍微宽裕些，车旁还会支起帐篷和天幕。 受访者供图 而德令哈夏季气温舒服，晚上不算闷热，许多自驾游客干脆把车停在酒店门前或附近停车区域，龙恒酒店、融城酒店、义海大酒店楼下都能看到类似场景。 老赵继续解释称，他们把车停在酒店楼下，主要是为了方便使用酒店厕所和接水。 我问酒店为何不管，他苦笑着说，想",
     "publishedAt": "2026-08-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-4-1786246374000",
-    "title": "4元一杯的星巴克，还是没能偷家库迪瑞幸",
-    "link": "https://www.tmtpost.com/8096567.html",
-    "summary": "蜜雪冰城可以原谅星巴克了",
+    "id": "news-ai-hbm-1786266737000",
+    "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
+    "link": "https://www.tmtpost.com/8096591.html",
+    "summary": "高盛八大判断背后——比预测更重要的，是验证与修正预测的速度。",
     "publishedAt": "2026-08-09",
     "source": "钛媒体",
     "tags": [
@@ -784,6 +782,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136328",
+    "title": "Exit Searcher",
+    "company": "PlayToMax",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Exit Searcher - play and find your way out in puzzle games online",
+      "Have you ever been put in a hopeless situation",
+      "Perhaps, everyone is familiar with a feeling of hopelessness but it doesn’t apply to our Exit Searcher",
+      "He works at a huge warehouse and knows perfectly all the ins and outs in puzzle g"
+    ],
+    "skills": [],
+    "location": "Puzzle Pocket, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328",
+    "postedAt": "2026-08-08",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136323",
     "title": "Faint Cracks",
     "company": "CHINADebate",
@@ -859,7 +875,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjE4NC4yMzkuMjI1 when applying to show you read the job post completely (#RMTcyLjE4"
+      "Please mention the word **OPENLY** and tag RNC4yMzYuMTU4LjUy when applying to show you read the job post completely (#RNC4yMzYuMTU4"
     ],
     "skills": [
       "Agent"
@@ -872,4 +888,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-09T06:50:18.779Z';
+export const dataFetchedAt = '2026-08-09T12:41:50.090Z';
