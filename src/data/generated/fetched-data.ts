@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-e-1786291500000",
-    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-    "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-embattled-hedge-fund-situational-awareness-invests-400m-in-c-1786307717000",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "summary": "The AI-focused hedge fund is still making some big bets.",
     "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786291996000",
-    "title": " 一项奖金制度，是怎么把订单送给竞争对手的？ ",
-    "link": "https://www.huxiu.com/article/4881830.html?f=rss",
-    "summary": "本文来自微信公众号： Nuanzhi笔记 ，作者：Nuanzhi 前段时间在网上看到一个销售奖金的案例。 一家公司原来的销售奖金没有上限，做多少业绩，就拿多少奖金。后来来了一个新人，一个月拿走了35万。自那以后，公司就开始修改奖金制度，把奖金的上限定在了每月最高5万元。 新制度实行之后，一部分员工开始出现压单的行为，当奖金快到5万的时候，就把能成交的订单拖到下个月，甚至有人开始把订单挂到同行那里…… 为什么奖金设了上限，会产生这么大的变化？ 一、公司为什么会觉得35万太多了？ 一般情况下，销售奖金本就是跟着业绩走的。员工能拿走35万，说明业绩远超平均水平。只要提成比例合理，员工奖金越高，意味着公司从这些订单里赚到的利润也越多。 但很多时候，公司并不这么想，在他们的认知里，一个订单能正常签约，理所当然就该属于公司的利润，真要给员工35万的奖金，公司又觉得心疼。 如果奖金最高只发5万块，剩下的30万，不就可以留下来了吗？ 公司的想法并不复杂，产品没变，客户没变，员工也没变。过去能做出这么高的业绩，以后应该也能继续做。只要业绩不变，把奖金上限设在5万，按照从前的制度，超过5万的奖金部分，以后都是公司省下来的。 这笔账看起来没什么问题，但它默认了一个前提，奖金制度虽然改了，但员工的行为却不会变。 公司的想法很美好，但员工并不这么想…… 二、公司算完了账，员工也会算 当奖金还没达到5万的时候",
-    "publishedAt": "2026-08-09",
+    "id": "news-98-1786324370000",
+    "title": " 98年创始人杀入男士美妆，首创两年登顶类目第一 ",
+    "link": "https://www.huxiu.com/article/4881858.html?f=rss",
+    "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：商评君，原文标题：《98年创始人杀入男士美妆，首创【修颜乳】两年登顶类目第一》 最近，我们采访了一个很有意思的新锐品牌——绿所。 有意思的地方在于，创始人William是1998年出生，在创办绿所之前，他曾在英国待了五年，发现当地男性无论年纪大小都十分注重形象管理。但是回到国内后，发现男生想要“变好看”，哪怕只是稍微倒饬一下，会被贴上“娘”的标签，甚至内心还有不安全感，怕被别人看出来。 这个观察，这份落差，成了他创业的原点。 但绿所的故事，开局并不顺利。团队最初切入的是男士护肤赛道，投入上百万元，赶在2024年618前推出了洁面和精华乳两款产品——结果成绩不理想。 大促之后，William转向了盘子更小、竞争更少、市场确定性也更低的男士面部理容赛道，并定位无感化面部理容，推出原初修颜乳。 幸运的是，这款产品很快成为爆品，之后绿所的每场达人直播，销售额几乎都突破了百万元。目前该品类在中国市场的销量第一，到了2026年，绿所还吸引了一部分女性消费者，男女用户占比达到了6:4，预计品牌销售额将突破两亿元。 （图源：本期专访现场） 但更值得研究的，是这个品牌背后的战略逻辑。从抖音起盘到主动调整渠道结构，从单品爆款到构建品牌心智，绿所的成长路径，为今天的新消费品牌提供了一个值得深思的范本： 首创【修颜乳】品类，绿所是如何完成从0-1市场验证的？",
+    "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -81,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1786267224000",
-    "title": "2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
-    "link": "https://www.tmtpost.com/8096553.html",
-    "summary": "我们正迎来「下一代消费者」（XSpecies of Us），表现出三种鲜明特征——身体感、创造欲与信息祛魅。",
-    "publishedAt": "2026-08-09",
+    "id": "news-15-airbnb-ai-1786324165000",
+    "title": "一夜暴涨15%，Airbnb靠AI“拆了重装”",
+    "link": "https://www.tmtpost.com/8096867.html",
+    "summary": "问题在于：这次重写，究竟是实质性的范式转换，还是又一次叙事包装？",
+    "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -108,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-historian-jill-lepore-says-silicon-valley-misreads-science-f-1786287600000",
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "id": "news-anthropic-is-turning-claude-code-s-auto-mode-on-by-default-1786303232000",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
     "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
@@ -159,11 +159,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786291986000",
-    "title": " 【“十五五”健康规划精读】真正值得盯的，其实就这三条 ",
-    "link": "https://www.huxiu.com/article/4881829.html?f=rss",
-    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观，原文标题：《【“十五五”健康规划精读】真正值得盯的，其实就这三条》 7月13号，国务院发布了《国民健康“十五五”规划》。这是接下来五年国民健康领域规格最高的一份政策，医疗健康行业这五年往哪走、钱往哪流，基本都写在了这份文件里。 前后翻了三遍，越读越觉得，钱和机会其实主要落在三条主线上。 先看全局：这回是“换挡” 判断一份文件的分量，最好是拉上它的上一任对照看。把《“十四五”国民健康规划》（国办发〔2022〕11号）和这份《十五五》摆在一起读，变化比单看清楚很多： 显然，关键词从“互联网”悄悄换成了“数智化”，十四五在“把互联网医疗建起来”，十五五在“把AI医疗真正用起来、把创新药推出去、把商保接进来。上一个是“互联网医疗”的五年，这一个五年则属于“AI医疗”，本质上是同一场“技术重构医疗”的接力跑。 最直观的信号藏在创新药上。“创新药”这三个字在这份规划里出现了7次，反观十四五，它只是零散带过。从“点状鼓励”到“全链条支持”，措辞背后是态度之变。 主线一：创新药，被点名了7次 短短两段话，“创新药”出现了7次： ①全链条支持创新药和医疗器械发展应用 ②优化创新药和临床急需药品审评审批 ③健全创新药临床综合评价体系 ④支持创新药临床使用 ⑤健全医保支持创新药高质量发展机制 ⑥完善创新药目录 ⑦商保产品覆盖……创新药等新型供给 从研发立",
-    "publishedAt": "2026-08-09",
+    "id": "news--1786324329000",
+    "title": " 时代原则 ",
+    "link": "https://www.huxiu.com/article/4881857.html?f=rss",
+    "summary": "本文来自微信公众号： 阿朱说 ，作者：吕建伟 我个人感觉：互联网时代-电子商务时代-云计算时代-AI时代，都是IT人的时代机会。 相比：基础设施建设时代-加入WTO时代-煤老板时代-房老板时代，那不是咱们IT人的时代机会。 （1）时代原则 过去我做企业应用软件时，我每个时代都做了一个原则： 在Web互联网时代，我做了一个原则：如果企业不搞全国铺分公司，那就不要用Web技术做企业应用。 在移动互联网时代，我做了一个原则：如果利用不上手机上的硬件特性（如摄像头/麦克风/传感器/GPS），那就不要用移动技术做企业应用。 在云时代，我做了一个原则：如果不是连接互联网-连接海量用户-有波峰波谷业务，那就不要用云技术做企业应用。 在AI时代，我又做了一个原则：如果不是非结构数据-开放性任务-无完备明确固定规则，那就不要用AI技术做企业应用。 （2）Web互联网时代 Web时代：企业应用，没有全国分公司，别上Web 如果企业不搞全国铺分公司，那就不要用Web技术做企业应用。 Web的核心禀赋：远程跨地域访问、浏览器零客户端安装。 适配场景：多地域分支机构，员工分散在全国各地，需要随时随地访问系统，不想每台电脑安装客户端。 反面场景：单一厂区、单一办公楼，所有人局域网办公。早期Web性能差、带宽有限，内网C/S胖客户端体验、稳定性、性能远强于Web；硬上Web只会增加服务器、带宽、安全成本，收益几",
+    "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786267002000",
-    "title": "伯克希尔开始花钱了，然后呢？",
-    "link": "https://www.tmtpost.com/8096598.html",
-    "summary": "当全世界都在喊\"AI改变世界\"的时候，伯克希尔用3655亿美元说了一句话：我信。但我还没看到值得把最后一颗子弹打出去的价格。",
-    "publishedAt": "2026-08-09",
+    "id": "news-9-5-gemini-1786323896000",
+    "title": "9.5亿用户也救不了Gemini",
+    "link": "https://www.tmtpost.com/8096736.html",
+    "summary": "曾经的AI之王，正在以一种近乎无声的方式，告别世界前十的位置。",
+    "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -200,17 +200,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-safety-test-is-becoming-a-safety-risk-1786285800000",
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "id": "news-techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-e-1786291500000",
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -253,24 +252,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786291898000",
-    "title": " 直播间卖隐形眼镜、医美仪，国家药监局要“叫停”了 ",
-    "link": "https://www.huxiu.com/article/4881828.html?f=rss",
-    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观 直播间9块9的血压计、主播举到镜头前的隐形眼镜、医美机构力推的家用射频仪……这些“看得见的便宜”，背后一直是个监管模糊地带。 2018年落地的《医疗器械网络销售监督管理办法》，这个月第一次把“直播卖器械”写进准绳：7月27日起，修订草案公开征求意见，窗口到8月26日截止。 网售器械跑了八年的老规矩，要改了。 01 直播间：三类先清场 最直观的刀落在镜头前。草案给了三条硬杠： 第一，直播营销人员必须是本企业员工。“签约主播”“达人带货”的玩法，在医疗器械这行先歇了。 第二，直播页面和跳转页要持续挂着产品注册证或备案编号，还得标一句“购买和使用前请仔细阅读产品说明书或在医务人员的指导下购买和使用”。 第三，也是最狠的一条：第三类医疗器械，以及说明书标注“仅限医疗机构使用”的二/一类器械，一律不得通过直播营销。 也就是说，你在直播间下单的软性隐形眼镜（三类）、家用射频美容仪和注射类医美耗材（多数三类），这轮之后基本要从直播间消失。而血压计、血糖仪（二类、非医疗机构用）还能卖，只是门槛拉满——资质要齐、编号要挂、警示要标，不能再靠话术搪塞。 事实上，隐形眼镜（美瞳）国家药监局早年就提示为高风险三类、线下一直严管；射频美容仪更是在2024年4月就整体纳入三类、须持证上岗（2022年第30号公告设了两年过渡期）。换句话说，这两类器械的“身份”监",
-    "publishedAt": "2026-08-09",
+    "id": "news-workbuddy-ai-1786323600000",
+    "title": " WorkBuddy、千问办公、豆包加速布局，AI办公市场格局将如何演变？ ",
+    "link": "https://www.huxiu.com/article/4880439.html?f=rss",
+    "summary": "文 | 杨俊 图 | AI生成 AI办公市场迎来新的变化。 飞书被整合进豆包；阿里整合QoderWork、悟空和MuleRun，推出千问办公；腾讯则通过WorkBuddy，从个人办公进一步进入企业级AI工作台。 这一次，大厂带来的不只是又一款AI工具。 模型、流量、办公入口、云服务、企业知识、组织权限和客户体系，正在被放到同一张牌桌上。 而AI办公市场还有围绕处理文档、做PPT、处理表格、搜索资料和调用工具等单独的AI产品持续发展，创业公司依然深耕这条赛道。 对于正在做AI办公产品的创业者和产品负责人，问题已经不只是“产品该怎么做”，而是： AI办公市场将如何发展？还有没有市场空间？目前在做的事会不会很快成为平台的基础功能？通用Agent可以完成大部分任务后，什么专业产品还值得客户单独付费？ 这些判断将影响是否应该继续在AI办公市场创业？一款产品应该做多广、做多深？这也将影响AI办公未来的用户需求、商业收入和创业机会。 8月18日，虎嗅第8场 AI100 闭门会将围绕“AI办公市场格局”展开讨论。 本场活动主要面向正在进行产品定位和商业化决策的AI办公创业者、产品负责人、科技SaaS赛道创业者及投资人。 本场闭门直播不做大而全的话题，也不安排几位嘉宾依次介绍产品。而是邀请来自不同产品路径的一线实践者，回答一个核心命题：大厂加速布局，AI办公的市场格局将如何发展？ （扫码报名，审核制",
+    "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1786267000000",
-    "title": "做底座还是做入口？国产AI 到下决心的时候了！",
-    "link": "https://www.tmtpost.com/8096705.html",
-    "summary": "多数没有自有入口的底座，只能服务于掌握入口的一方，其实就是在给入口打工。",
-    "publishedAt": "2026-08-09",
+    "id": "news-gpu-hbm-cerebras-1786323709000",
+    "title": "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras",
+    "link": "https://www.tmtpost.com/8096723.html",
+    "summary": "一块“不可能”的芯片。",
+    "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -292,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-8216-adversarial-8217-pattern-can-prevent-surveillance--1786284000000",
-    "title": "This &#8216;adversarial&#8217; pattern can prevent surveillance cameras from detecting you",
-    "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-    "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+    "id": "news-historian-jill-lepore-says-silicon-valley-misreads-science-f-1786287600000",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
     "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
@@ -345,11 +345,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hbm-1786266737000",
-    "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
-    "link": "https://www.tmtpost.com/8096591.html",
-    "summary": "高盛八大判断背后——比预测更重要的，是验证与修正预测的速度。",
-    "publishedAt": "2026-08-09",
+    "id": "news-openai-ai-1786323580000",
+    "title": " OpenAI都撤了，AI浏览器只剩一条窄路 ",
+    "link": "https://www.huxiu.com/article/4881855.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 Atlas退场，Tabbit们仍在继续跑这道题。 定焦One（dingjiaoone）原创 8月9日，OpenAI的AI原生浏览器ChatGPT Atlas正式停用，从上线到关停不足10个月。 2025年10月，OpenAI发布ChatGPT Atlas。这款基于Chromium内核的浏览器最初只面向macOS用户，CEO Sam Altman把它称作十年一遇的机会。2026年7月9日，OpenAI浏览业务负责人James Sun宣布Atlas将在一个月后停用。直到最后一刻，那个被反复提及的Windows原生版本也没有出现。 但要注意的是，Atlas的AI浏览器功能并没有随着产品消失。OpenAI在关停公告里表示，浏览器代理功能将并入ChatGPT和Codex，ChatGPT将获得更强的浏览器体验，用户需在8月9日前手动导出书签和重要页面数据。 从Atlas的退场方式来看，在OpenAI眼里，AI浏览器已经是ChatGPT的一个功能，不必再单独做成一款产品。 这个决定，震动了整个AI浏览器赛道。海外，Perplexity的Comet仍在更新，Dia被Atlassian收购后转向企业市场；而手握浏览器的谷歌、微软，以及没有浏览器的Anthropic，无一选择自建独立AI浏览器，都走了把AI装进已有入口的路线。至于国",
+    "publishedAt": "2026-08-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1786323656000",
+    "title": "商业火箭越造越粗，就越先进吗？",
+    "link": "https://www.tmtpost.com/8096850.html",
+    "summary": "火箭箭体粗一圈，工厂、运输和发射场都得跟着变。",
+    "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -371,29 +385,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-former-notorious-red-light-district-is-now-one-of-the-w-1786280400000",
-    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "id": "news-the-ai-safety-test-is-becoming-a-safety-risk-1786285800000",
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
     "publishedAt": "2026-08-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-8216-cheating-8217-in-hiring-it-s-a-messy-expensive-ai-world-1786046428000",
-    "title": "&#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world",
-    "link": "https://hrexecutive.com/cheating-in-hiring-its-a-messy-expensive-ai-world/",
-    "summary": "Recent research found a spike in the number of job candidates using AI to cheat in the hiring process, with most getting through undetected. The post &#8216;Cheating&#8217; in hiring: It’s a messy, expensive AI world appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   }
 ];
@@ -823,8 +825,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMjAuMTYxLjMwLjI0Mw== when applying to show you read the job post completely (#RMjAuMTYxLjMwLjI0Mw==)",
-      "This is a beta feature to avoid spam applican"
+      "Please mention the word **STRIVING** and tag RMjAuMTg5LjE4Ni4w when applying to show you read the job post completely (#RMjAuMTg5LjE4Ni4w)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "安居, ",
@@ -891,7 +893,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMjAuMTYxLjMwLjI0Mw== when applying to show you read the job post completely (#RMjAuMTYx"
+      "Please mention the word **OPENLY** and tag RMjAuMTg5LjE4Ni4w when applying to show you read the job post completely (#RMjAuMTg5LjE4"
     ],
     "skills": [
       "Agent"
@@ -904,4 +906,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-09T18:35:09.709Z';
+export const dataFetchedAt = '2026-08-10T01:23:55.879Z';
