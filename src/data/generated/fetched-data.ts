@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cool-1786363200000",
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "id": "news-aptoide-becomes-the-first-rival-app-store-to-return-to-googl-1786386714000",
+    "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+    "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+    "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
@@ -40,23 +40,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-1-size-fits-all-workforce-solutions-are-reaching-their-l-1786352400000",
-    "title": "Why 1 size fits all workforce solutions are reaching their limits",
-    "link": "https://www.hrdive.com/spons/why-1-size-fits-all-workforce-solutions-are-reaching-their-limits/827009/",
-    "summary": "Today&#39;s employers want HR, payroll, benefits, compliance and workforce solutions built around their business; not predetermined bundles.",
+    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
+    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
+    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
+    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-physical-ai-1786353650000",
-    "title": "模型路线趋同之后，Physical AI的胜负手变了",
-    "link": "https://www.qbitai.com/2026/08/469544.html",
-    "summary": "物理AI新瓶颈已出现",
+    "id": "news-ai-100-99-2-8230-1786370326000",
+    "title": "AI倒查论文100年！99.2%的顶刊都有问题&#8230;",
+    "link": "https://www.qbitai.com/2026/08/469795.html",
+    "summary": "科研人快来啊，天上掉选题了",
     "publishedAt": "2026-08-10",
     "source": "量子位",
     "tags": [
@@ -66,24 +67,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786365874000",
-    "title": " 一个人，一台电脑，往海外卖货 ",
-    "link": "https://www.huxiu.com/article/4882081.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 Kevin的手机在早上七点亮了。 推送是美客多发来的，葡萄牙语，他一个字都看不懂，但他知道那是出单了。他没有动，继续躺着，等数字跳完，昨晚七单，客单价折合人民币大概八十块。货还在广东某个供应商的仓库里，他从来没见过。是AI帮他把1688的商品信息翻成葡语，挂上了巴西的货架。 Kevin其实有本职工作，但也想着搞点副业，“启动资金不到三千块，”他告诉品牌工厂，“第一个月亏了一千多块，才搞明白定价不能只乘个倍数。” 这条路，正在被越来越多的普通人走进来。 01 把启动成本压到最低 OPC，One Person Company，一人公司。 在跨境电商圈，它早已不只是一个组织形式的名称，更像是一套方法论的简称，如何用最少的启动资源，搭出一套可以自运转的生意系统。 传统跨境创业的死穴很具体。选品要投时间，备货要占资金，仓储要空间，运营要人手，任何一环卡住，钱就先搭进去了。 很多人在跨境电商行业创业的人，都死在凑了两万块货款，却发现根本卖不动这一步。 OPC模式的核心，是尽量绕开持有资产的环节。无货源铺货（Dropshipping）是其中对普通人门槛最低的入口：你不持有库存，商品挂在平台上，有人下单了再去供应商采购，直接发给买家。你的核心工作只剩两件：把商品上架，以及处理订单。 通过OPC进入跨境电商行业的人，背景也越来",
+    "id": "news-2-1-1786378139000",
+    "title": " 北京楼市新政，不只是“2年变1年” ",
+    "link": "https://www.huxiu.com/article/4882109.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：战魔田默 五年、三年、两年、一年。 北京非京籍家庭五环内购房所需的社保或个税缴纳年限，再次缩短。 2024年9月，从5年降至3年；2025年12月，从3年降至2年；2026年8月，又从2年降至1年。 如果只看这一条，北京8月7日发布的楼市新政很容易被概括为又一次限购优化。但此次调整一共包含7项措施，除了调整非京籍家庭购房条件，还涉及父母向成年子女赠与本市商品住房、公积金贷款、再次申请公积金贷款、存量房带押过户和装修提取公积金等多个环节。 房地产政策正在调整几个醒目的大参数，进一步深入住房需求落地的具体环节。 房地产走到今天，限购、首付、利率依然重要，但需求能否顺利转化为交易，也正在成为一个关键变量。 阻碍交易的因素已经不只存在于总量层面，还分布在住房需求从产生到落地的不同节点。 北京这7项政策，正在往这些堵点里走。 门槛下降，只是第一层变化 过去很多年，理解一座城市的房地产调控，最醒目的指标往往是购房资格。有没有户口，缴了几年社保，家庭已经拥有几套住房，还能不能再买一套，这些规则首先决定谁能够进入市场。 北京此次将非京籍家庭购买五环内商品住房所需的社保或个税年限从2年缩短至1年，继续降低了一部分购房者进入市场的时间门槛。 但这并不意味着北京取消了限购。五环内住房套数等相关限制仍然存在，变化的是部分购房条件，而不是原有规则的整体退出。 这一次",
     "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-20cm-1786366109000",
-    "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
-    "link": "https://www.tmtpost.com/8098227.html",
-    "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼",
+    "id": "news-to-b-to-b-1786374832000",
+    "title": "字节高调转To B，为何回避To B主舞台？",
+    "link": "https://www.tmtpost.com/8098332.html",
+    "summary": "当战略口号、组织动作、市场行为三者错位，是转型期的正常阵痛，还是内在矛盾无法消解的显性征兆？",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -106,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-play-adds-venmo-as-a-payment-option-1786363200000",
-    "title": "Google Play adds Venmo as a payment option",
-    "link": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-    "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+    "id": "news-social-media-platforms-still-facing-thousands-of-user-addict-1786386633000",
+    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+    "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
@@ -132,23 +132,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-don-t-need-more-benefits-they-need-fewer-front-doo-1786352400000",
-    "title": "Employees don’t need more benefits. They need fewer front doors.",
-    "link": "https://www.hrdive.com/spons/employees-dont-need-more-benefits-they-need-fewer-front-doors/826436/",
-    "summary": "The next employee benefits challenge isn&#39;t offering more benefits. It&#39;s reducing complexity.",
+    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
+    "title": "While layoffs slow overall, job losses in tech soar",
+    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
+    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-agi-1786345138000",
-    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-    "link": "https://www.qbitai.com/2026/08/469520.html",
-    "summary": "“我们90天就成了独角兽”",
+    "id": "news-pdf-ara-agent-1786370002000",
+    "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+    "link": "https://www.qbitai.com/2026/08/469721.html",
+    "summary": "以后论文的第一读者不是人，而是AI？",
     "publishedAt": "2026-08-10",
     "source": "量子位",
     "tags": [
@@ -158,23 +159,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786365208000",
-    "title": " 秦焰：不止《狂飙》里的何黎明，他演了四十年配角 ",
-    "link": "https://www.huxiu.com/article/4882079.html?f=rss",
-    "summary": "本文来自微信公众号： 人间像素 ，编辑：云路，作者：唐云路 很多年轻的观众认识秦焰，可能是在他快七十岁的时候。 《狂飙》播到后半程，何黎明才真正出现。这个省政法委常务副书记此前一直藏在赵立冬身后，等他露面，故事里的权力关系又向上延伸了一层。秦焰没有给人物设计太多外显的动作，说话节奏甚至称得上和缓。越是这样，何黎明身上的分量越重：一个在体系里待了几十年的人，不需要提高声音来证明自己的位置。 那一年，秦焰68岁。 8月10日，秦焰去世，享年72岁。同行陆续发文悼念。回看他的职业生涯，更值得注意的是时间：他25岁进入专业文艺院团，37岁才凭《编辑部的故事》踏入影视圈，此后三十余年参演影视作品逾百部，是业内公认的”老戏骨”与”黄金配角”。从《城南旧事》里惊鸿一瞥的宋妈侄子，到《我爱我家》的东北穴头、《红高粱》的匪首黑眼、《知否知否应是绿肥红瘦》的老皇帝，再到《狂飙》的终极“保护伞”何黎明与《庆余年第二季》的戴公公，他的角色清单几乎就是一部中国当代影视流行史的作品清单。 四十年间，中国影视的生产方式已经换了几轮。秦焰却始终待在一个相对固定的位置上：很少成为故事中心，却需要在有限的戏份里，让一个老板、官员、父亲、皇帝或者土匪迅速拥有自己的来历。 一个配角的四十年，也由此成为观察中国影视变化的一条侧线。 37岁，走进《编辑部的故事》 秦焰成为演员的道路，如今已经很少见。 15岁时，他进入北京电子",
+    "id": "news--1786378006000",
+    "title": " 豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币 ",
+    "link": "https://www.huxiu.com/article/4882108.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 8月10日，今天，一则消息在酒店行业炸开：通过豆包入口跳转成交的酒店订单，正式执行独立费率，软件服务费11.4%，加支付手续费0.6%，综合费率约12%。 此前，豆包的订单一直被合并为抖音自然流量，按8%的平台费率抽佣。从今天起，它显示独立的“豆包”渠道来源。有酒店行业人士向媒体确认，消息属实，网传照片就是抖音来客后台的通知，“现在豆包推荐酒店已经要收佣金了。” 界面新闻做了个实测：让豆包推荐北京北四环和北三环附近的两家酒店，一家全季，一家丽亭华苑。跳转平台的预订价，均低于某大型酒店旅行平台的同款。 四个百分点的涨幅只是表面。真正变贵的，是豆包在交易里所占的位置。 以前，它回答问题，推荐酒店，把用户送到交易平台。现在，经由它产生的订单可以被单独识别、单独结算、单独定价。一个聊天框开始拥有自己的过路费。 这件事，我一点都不意外。我在去年写过一篇文章，标题叫《你的欲望就是新的货币》。当时我写道，AI以后会代替搜索引擎，替用户搜集信息、比较方案，甚至完成购买。只要这条链路打通，AI拿走的就会超过流量。它会拿走分配意图的权力。 这一次，预言已经摸到了酒店前台。 能替用户表达欲望、筛选供给、完成交易的AI，拥有了一种比流量分配更贵的权力：意图分配权。而你的欲望，就是新的货币。 一、搜索框还活着，链接分发权已死 先看两个数字。 Que",
     "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-22-18-3-49-ipo-1786361591000",
-    "title": "天广实：22年无产品商业化，累亏超18亿，两轮定增后再募资3.49亿｜IPO观察",
-    "link": "https://www.tmtpost.com/8097690.html",
-    "summary": "天广实能成功过会吗？",
+    "id": "news--1786373427000",
+    "title": "英伟达、礼来和迪士尼印证：是时候押注那些领头羊了",
+    "link": "https://www.tmtpost.com/8098338.html",
+    "summary": "投资者仍然相当谨慎，以至于他们只愿意买入那些已经被证明是赢家的标的，因此在当下押注热门强者是个明智的策略。",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -197,11 +199,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-embattled-hedge-fund-situational-awareness-invests-400m-in-c-1786307717000",
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "summary": "The AI-focused hedge fund is still making some big bets.",
-    "publishedAt": "2026-08-09",
+    "id": "news-youtube-now-requires-creators-to-have-twice-as-many-watch-ho-1786386464000",
+    "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+    "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+    "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+    "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -222,23 +224,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-small-businesses-can-grow-without-losing-what-made-them--1786352400000",
-    "title": "How small businesses can grow without losing what made them successful",
-    "link": "https://www.hrdive.com/spons/how-small-businesses-can-grow-without-losing-what-made-them-successful/826437/",
-    "summary": "Growth changes more than your business. How leaders can be prepared.",
+    "id": "news-week-in-review-the-skills-ai-can-t-replace-1786374300000",
+    "title": "Week in review: The skills AI can’t replace",
+    "link": "https://www.hrdive.com/news/the-skills-ai-cant-replace/827426/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the average percentage employers plan to increase pay in 2027.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-claude-code-5-a-1786340271000",
-    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-    "link": "https://www.qbitai.com/2026/08/469500.html",
-    "summary": "会话越长，人的表现越差",
+    "id": "news-physical-ai-1786353650000",
+    "title": "模型路线趋同之后，Physical AI的胜负手变了",
+    "link": "https://www.qbitai.com/2026/08/469544.html",
+    "summary": "物理AI新瓶颈已出现",
     "publishedAt": "2026-08-10",
     "source": "量子位",
     "tags": [
@@ -248,23 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1786363986000",
-    "title": " 两次创业亏掉500万，千万粉丝网红，再败餐饮 ",
-    "link": "https://www.huxiu.com/article/4882077.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清，原文标题：《两次创业亏掉500万！千万粉丝网红，再败餐饮》 10个月亏掉100万，千万粉丝也救不了网红火锅店。 继“上上谦”之后，又一家自带“流量光环”的餐饮店倒闭了。 近日，网红车模李凉凉在重庆开的“李嬢嬢火锅串串”正式宣告结业，从开业到关门仅10个月，连餐饮行业平均15个月的生命周期都没达到。 实际上，这已不是她第一次在餐饮赛道栽跟头。早在2022年，李凉凉就曾推出“李凉凉重庆小面”，一度开出3家门店，但去年1月全线关停，亏损超300万元。 这几百万，到底是怎么亏掉的？ 亏损超百万元， 同样的剧本演了两遍 “开店的时候有多风光，现在就有多狼狈。” 上个月底，李嬢嬢火锅串串贴出公告称，由于经营不善、连续亏损，门店在7月30日正式闭店。据李凉凉透露，这家营业仅10个月的火锅店，累计亏损超过100万元。面对镜头，她苦笑着反问自己：“到底是实体生意太难做，还是我真的就不适合做生意？” 之所以会发出这样的疑问，是因为在一年多前，李凉凉才刚经历过一次创业失败。2025年年初，李凉凉创办的三家面馆全部倒闭，损失超过300万元。算上这次火锅店的亏损，不到两年时间里，她一共烧掉了将近500万元。 △图片来源：李凉凉微博账号 把时间拉回2022年，彼时，李凉凉顶着千万粉丝的光环，创立了李凉凉重庆小面，并一口气在重庆主城开出3家门店。和",
-    "publishedAt": "2026-08-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786358795000",
-    "title": "汽水音乐翻过了网易云的那道墙",
-    "link": "https://www.tmtpost.com/8096734.html",
-    "summary": "汽水音乐月活跃用户1.56亿，网易云音乐1.47亿。",
+    "id": "news-150-1786371404000",
+    "title": "英特尔因150亿美元股票发行而股价下跌，为何现在筹集资金？",
+    "link": "https://www.tmtpost.com/8098317.html",
+    "summary": "英特尔表示，在刚刚上调今年的资本支出预测后不久，将通过股票发行筹资150亿美元。",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -287,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-is-turning-claude-code-s-auto-mode-on-by-default-1786303232000",
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "summary": "Programming with Claude Code will soon require even less human oversight.",
-    "publishedAt": "2026-08-09",
+    "id": "news-clicks-8217-power-keyboard-brings-blackberry-style-typing-to-1786384839000",
+    "title": "Clicks&#8217; Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+    "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+    "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use.",
+    "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -312,24 +302,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-settles-doj-allegation-it-shut-us-workers-out-of-lucr-1786133880000",
-    "title": "OpenAI settles DOJ allegation it shut US workers out of lucrative jobs",
-    "link": "https://www.hrdive.com/news/openai-settles-doj-allegation-it-shut-us-workers-out-of-lucrative-jobs/827361/",
-    "summary": "OpenAI allegedly didn&rsquo;t advertise certain jobs on its external website and or let U.S. workers apply online, according to the settlement.",
-    "publishedAt": "2026-08-07",
+    "id": "news-why-1-size-fits-all-workforce-solutions-are-reaching-their-l-1786352400000",
+    "title": "Why 1 size fits all workforce solutions are reaching their limits",
+    "link": "https://www.hrdive.com/spons/why-1-size-fits-all-workforce-solutions-are-reaching-their-limits/827009/",
+    "summary": "Today&#39;s employers want HR, payroll, benefits, compliance and workforce solutions built around their business; not predetermined bundles.",
+    "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-meoo-qwen-3-8-max-1786332263000",
-    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-    "link": "https://www.qbitai.com/2026/08/469493.html",
-    "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+    "id": "news-agi-1786345138000",
+    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+    "link": "https://www.qbitai.com/2026/08/469520.html",
+    "summary": "“我们90天就成了独角兽”",
     "publishedAt": "2026-08-10",
     "source": "量子位",
     "tags": [
@@ -339,24 +328,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786363743000",
-    "title": " AI 正在吃光互联网，可我们快没东西喂它了 ",
-    "link": "https://www.huxiu.com/article/4882075.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的 5年后，互联网上来自AI的流量将是人类的1000倍，人类不再是冲浪的主要用户，甚至就是赛博世界的零头。 这是Cloudflare在最近财报会议的预测，并非耸人听闻，此时此刻，AI的访问量已经正式超过了人类网民。 没有人认真想过将来那片牧场还长不长草。 据测算，语言模型的训练将在2026年到2032年间耗尽人类公开的文本数据。高质量语言数据的枯竭甚至可能提前至2026年，比公开文本整体耗尽还要早两年。 Stack Overflow的沉没 Stack Overflow曾是程序员世界的集体大脑。 从2008年建站到2014年鼎盛期，每月能吸引逾20万个新问题，形成了一座庞大的人类智识档案馆。 任何一个debug到凌晨三点的工程师都懂得那种感觉：用精准的报错信息搜索，第一条结果几乎永远是Stack Overflow上某个五年前的问答，答案还带着七八十个人的投票与反驳。 而自2022年底，ChatGPT出现后的两年间，Stack Overflow的月提问量从逾20万跌至不足5万，几乎回到2009年——也就是平台刚刚上线时的水平。 问题干涸了，人们不再去那里，因为他们去问AI了。 根据Stack Overflow自己2025年的调查，84%的开发者每天都在使用AI工具。 与此同时，46%的开发者不信任AI输出的准确性，他们最大的顾虑并非",
-    "publishedAt": "2026-08-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786358785000",
-    "title": "我们在瑞幸的二季报，看到了增速见顶的信号",
-    "link": "https://www.tmtpost.com/8097225.html",
-    "summary": "规模在涨，单店在降。",
+    "id": "news-20cm-1786366109000",
+    "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
+    "link": "https://www.tmtpost.com/8098227.html",
+    "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -380,16 +355,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-e-1786291500000",
-    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-    "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-08-09",
+    "id": "news-meta-s-new-glimmer-ai-model-offers-a-hint-at-zuckerberg-s-pe-1786378813000",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+    "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-a-new-scenario-report-puts-a-number-on-europe-8217-s-talent--1786361408000",
+    "title": "A new scenario report puts a number on Europe&#8217;s talent risk",
+    "link": "https://hrexecutive.com/a-new-scenario-report-puts-a-number-on-europes-talent-risk/",
+    "summary": "Europe risks losing the AI compute race, and a new report suggests workforce reskilling, not just chips, is a fix HR leaders need to plan for. The post A new scenario report puts a number on Europe&#8217;s talent risk appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employees-don-t-need-more-benefits-they-need-fewer-front-doo-1786352400000",
+    "title": "Employees don’t need more benefits. They need fewer front doors.",
+    "link": "https://www.hrdive.com/spons/employees-dont-need-more-benefits-they-need-fewer-front-doors/826436/",
+    "summary": "The next employee benefits challenge isn&#39;t offering more benefits. It&#39;s reducing complexity.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
     ]
   }
 ];
@@ -804,8 +805,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMjAuMy4yMzEuMTE1 when applying to show you read the job post completely (#RMjAuMy4yMzEuMTE1)",
-      "This is a beta feature to avoid spam applicants"
+      "Please mention the word **STRIVING** and tag RMTcyLjIwOC4xMjYuMTAw when applying to show you read the job post completely (#RMTcyLjIwOC4xMjYuMTAw)",
+      "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
     "location": "安居, ",
@@ -872,7 +873,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMjAuMy4yMzEuMTE1 when applying to show you read the job post completely (#RMjAuMy4yMzEu"
+      "Please mention the word **OPENLY** and tag RMTcyLjIwOC4xMjYuMTAw when applying to show you read the job post completely (#RMTcyLjIw"
     ],
     "skills": [
       "Agent"
@@ -885,4 +886,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-10T12:59:10.409Z';
+export const dataFetchedAt = '2026-08-10T18:52:07.263Z';

@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-11-auto",
+    "date": "2026-08-11",
+    "session": "auto",
+    "title": "2026-08-11 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-11-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+      },
+      {
+        "id": "sig-2026-08-11-auto-2",
+        "emoji": "💡",
+        "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+        "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+        "detail": "来源: TechCrunch。Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+      },
+      {
+        "id": "sig-2026-08-11-auto-3",
+        "emoji": "🚨",
+        "title": "Visa layoffs reach senior ranks, including six VPs and 37 senior directors",
+        "summary": "Visa cut 2,600 jobs (7% of staff) on July 28, citing AI, even as it eliminated senior engineers, directors and chief architects. The post Visa layoffs reach senior ranks, including six VPs and 37 senior directors appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Visa cut 2,600 jobs (7% of staff) on July 28, citing AI, even as it eliminated senior engineers, directors and chief architects. The post Visa layoffs reach senior ranks, including six VPs and 37 senior directors appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/visa-layoffs-reach-senior-ranks-including-six-vps-and-37-senior-directors/"
+      },
+      {
+        "id": "sig-2026-08-11-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：MirrorWorld: Taming Video Diffusion Models for Mirror Reflec...",
+        "summary": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ",
+        "detail": "作者: Youjun Zhao, Alex Warren, Gary K. L. Tam。Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the surrounding scene. Existing VDMs are not specifically designed to model scene-to-mirror relationships, which can lead to reflections with incorrect content or inconsistent spatial arrangements. We observe that mirror reflection generation involves two complementary challenges: determining what scene content should be reflected and how the reflected content should be spatially arranged within the mirror region. Motivated by this observation, we propose MirrorWorld, a reflection-aware video inpainting framework that models scene-to-mirror relationships during generation. Spec",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.07463v1"
+      },
+      {
+        "id": "sig-2026-08-11-auto-5",
+        "emoji": "💼",
+        "title": "PlayToMax 正在招募 Exit Searcher",
+        "summary": "岗位类型：业务+AI 复合岗。Exit Searcher - play and find your way out in puzzle games online",
+        "detail": "技能要求: 未标注。Exit Searcher - play and find your way out in puzzle games online Have you ever been put in a hopeless situation Perhaps, everyone is familiar with a feeling of hopelessness but it doesn’t apply to our Exit Searcher He works at a huge warehouse and knows perfectly all the ins and outs in puzzle g",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "PlayToMax"
+        ],
+        "sourceType": "tech",
+        "sourceName": "PlayToMax",
+        "link": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-11-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI agents for science, and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-11-2",
+        "priority": "low",
+        "action": "关注「Aptoide becomes the first rival app stor」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-11-3",
+        "priority": "high",
+        "action": "关注「Visa layoffs reach senior ranks, includi」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-11-4",
+        "priority": "medium",
+        "action": "关注「研究速递：MirrorWorld: Taming Video Diffusion」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-11-5",
+        "priority": "medium",
+        "action": "关注「PlayToMax 正在招募 Exit Searcher」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "PlayToMax"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-11 生成，聚合了 30 条新闻、20 篇论文、7 个岗位。",
+    "fetchWindow": "2026-08-11 00:00 - 2026-08-11 23:59"
+  },
+  {
     "id": "report-2026-08-10-auto",
     "date": "2026-08-10",
     "session": "auto",
