@@ -2,11 +2,194 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-a-censorship-conspiracy-theory-and-the-first-vi-1786112400000",
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
-    "publishedAt": "2026-08-07",
+    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
+    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "publishedAt": "2026-08-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cool-1786363200000",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "publishedAt": "2026-08-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-visa-layoffs-reach-senior-ranks-including-six-vps-and-37-sen-1786365016000",
+    "title": "Visa layoffs reach senior ranks, including six VPs and 37 senior directors",
+    "link": "https://hrexecutive.com/visa-layoffs-reach-senior-ranks-including-six-vps-and-37-senior-directors/",
+    "summary": "Visa cut 2,600 jobs (7% of staff) on July 28, citing AI, even as it eliminated senior engineers, directors and chief architects. The post Visa layoffs reach senior ranks, including six VPs and 37 senior directors appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-1-size-fits-all-workforce-solutions-are-reaching-their-l-1786352400000",
+    "title": "Why 1 size fits all workforce solutions are reaching their limits",
+    "link": "https://www.hrdive.com/spons/why-1-size-fits-all-workforce-solutions-are-reaching-their-limits/827009/",
+    "summary": "Today&#39;s employers want HR, payroll, benefits, compliance and workforce solutions built around their business; not predetermined bundles.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-physical-ai-1786353650000",
+    "title": "模型路线趋同之后，Physical AI的胜负手变了",
+    "link": "https://www.qbitai.com/2026/08/469544.html",
+    "summary": "物理AI新瓶颈已出现",
+    "publishedAt": "2026-08-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786365874000",
+    "title": " 一个人，一台电脑，往海外卖货 ",
+    "link": "https://www.huxiu.com/article/4882081.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 Kevin的手机在早上七点亮了。 推送是美客多发来的，葡萄牙语，他一个字都看不懂，但他知道那是出单了。他没有动，继续躺着，等数字跳完，昨晚七单，客单价折合人民币大概八十块。货还在广东某个供应商的仓库里，他从来没见过。是AI帮他把1688的商品信息翻成葡语，挂上了巴西的货架。 Kevin其实有本职工作，但也想着搞点副业，“启动资金不到三千块，”他告诉品牌工厂，“第一个月亏了一千多块，才搞明白定价不能只乘个倍数。” 这条路，正在被越来越多的普通人走进来。 01 把启动成本压到最低 OPC，One Person Company，一人公司。 在跨境电商圈，它早已不只是一个组织形式的名称，更像是一套方法论的简称，如何用最少的启动资源，搭出一套可以自运转的生意系统。 传统跨境创业的死穴很具体。选品要投时间，备货要占资金，仓储要空间，运营要人手，任何一环卡住，钱就先搭进去了。 很多人在跨境电商行业创业的人，都死在凑了两万块货款，却发现根本卖不动这一步。 OPC模式的核心，是尽量绕开持有资产的环节。无货源铺货（Dropshipping）是其中对普通人门槛最低的入口：你不持有库存，商品挂在平台上，有人下单了再去供应商采购，直接发给买家。你的核心工作只剩两件：把商品上架，以及处理订单。 通过OPC进入跨境电商行业的人，背景也越来",
+    "publishedAt": "2026-08-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-20cm-1786366109000",
+    "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
+    "link": "https://www.tmtpost.com/8098227.html",
+    "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼",
+    "publishedAt": "2026-08-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+    "publishedAt": "2026-08-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-google-play-adds-venmo-as-a-payment-option-1786363200000",
+    "title": "Google Play adds Venmo as a payment option",
+    "link": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+    "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+    "publishedAt": "2026-08-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-healthcare-costs-trap-millions-of-americans-in-unwanted-jobs-1786364131000",
+    "title": "Healthcare costs trap millions of Americans in unwanted jobs",
+    "link": "https://hrexecutive.com/healthcare-costs-trap-millions-of-americans-in-unwanted-jobs/",
+    "summary": "According to a study by the West Health-Gallup Center on Health in America, most \"job locked\" workers are afraid of losing health care insurance. The post Healthcare costs trap millions of Americans in unwanted jobs appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employees-don-t-need-more-benefits-they-need-fewer-front-doo-1786352400000",
+    "title": "Employees don’t need more benefits. They need fewer front doors.",
+    "link": "https://www.hrdive.com/spons/employees-dont-need-more-benefits-they-need-fewer-front-doors/826436/",
+    "summary": "The next employee benefits challenge isn&#39;t offering more benefits. It&#39;s reducing complexity.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-agi-1786345138000",
+    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+    "link": "https://www.qbitai.com/2026/08/469520.html",
+    "summary": "“我们90天就成了独角兽”",
+    "publishedAt": "2026-08-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786365208000",
+    "title": " 秦焰：不止《狂飙》里的何黎明，他演了四十年配角 ",
+    "link": "https://www.huxiu.com/article/4882079.html?f=rss",
+    "summary": "本文来自微信公众号： 人间像素 ，编辑：云路，作者：唐云路 很多年轻的观众认识秦焰，可能是在他快七十岁的时候。 《狂飙》播到后半程，何黎明才真正出现。这个省政法委常务副书记此前一直藏在赵立冬身后，等他露面，故事里的权力关系又向上延伸了一层。秦焰没有给人物设计太多外显的动作，说话节奏甚至称得上和缓。越是这样，何黎明身上的分量越重：一个在体系里待了几十年的人，不需要提高声音来证明自己的位置。 那一年，秦焰68岁。 8月10日，秦焰去世，享年72岁。同行陆续发文悼念。回看他的职业生涯，更值得注意的是时间：他25岁进入专业文艺院团，37岁才凭《编辑部的故事》踏入影视圈，此后三十余年参演影视作品逾百部，是业内公认的”老戏骨”与”黄金配角”。从《城南旧事》里惊鸿一瞥的宋妈侄子，到《我爱我家》的东北穴头、《红高粱》的匪首黑眼、《知否知否应是绿肥红瘦》的老皇帝，再到《狂飙》的终极“保护伞”何黎明与《庆余年第二季》的戴公公，他的角色清单几乎就是一部中国当代影视流行史的作品清单。 四十年间，中国影视的生产方式已经换了几轮。秦焰却始终待在一个相对固定的位置上：很少成为故事中心，却需要在有限的戏份里，让一个老板、官员、父亲、皇帝或者土匪迅速拥有自己的来历。 一个配角的四十年，也由此成为观察中国影视变化的一条侧线。 37岁，走进《编辑部的故事》 秦焰成为演员的道路，如今已经很少见。 15岁时，他进入北京电子",
+    "publishedAt": "2026-08-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-22-18-3-49-ipo-1786361591000",
+    "title": "天广实：22年无产品商业化，累亏超18亿，两轮定增后再募资3.49亿｜IPO观察",
+    "link": "https://www.tmtpost.com/8097690.html",
+    "summary": "天广实能成功过会吗？",
+    "publishedAt": "2026-08-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-these-startups-are-chasing-the-next-big-thing-in-llms-1786352400000",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+    "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -27,17 +210,105 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-soaring-medical-costs-force-employers-to-tighten-benefits-1786049107000",
-    "title": "Soaring medical costs force employers to tighten benefits",
-    "link": "https://hrexecutive.com/soaring-medical-costs-force-employers-to-tighten-benefits/",
-    "summary": "Medical benefits are at the center of employer cost, risk and workforce strategy, but the path to better results is getting less straightforward. The post Soaring medical costs force employers to tighten benefits appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
+    "id": "news-one-ceo-8217-s-hiring-test-track-down-the-references-candida-1786363204000",
+    "title": "One CEO&#8217;s hiring test: Track down the references candidates avoided",
+    "link": "https://hrexecutive.com/one-ceos-hiring-test-track-down-the-references-candidates-avoided/",
+    "summary": "Before your recruiters start calling unlisted references, HR leaders should read what one CEO's practice reveals. The post One CEO&#8217;s hiring test: Track down the references candidates avoided appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
     "source": "HR Executive",
     "tags": [
       "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-how-small-businesses-can-grow-without-losing-what-made-them--1786352400000",
+    "title": "How small businesses can grow without losing what made them successful",
+    "link": "https://www.hrdive.com/spons/how-small-businesses-can-grow-without-losing-what-made-them-successful/826437/",
+    "summary": "Growth changes more than your business. How leaders can be prepared.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
       "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-claude-code-5-a-1786340271000",
+    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+    "link": "https://www.qbitai.com/2026/08/469500.html",
+    "summary": "会话越长，人的表现越差",
+    "publishedAt": "2026-08-10",
+    "source": "量子位",
+    "tags": [
+      "china",
       "ai",
-      "strategy"
+      "technology"
+    ]
+  },
+  {
+    "id": "news-500-1786363986000",
+    "title": " 两次创业亏掉500万，千万粉丝网红，再败餐饮 ",
+    "link": "https://www.huxiu.com/article/4882077.html?f=rss",
+    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清，原文标题：《两次创业亏掉500万！千万粉丝网红，再败餐饮》 10个月亏掉100万，千万粉丝也救不了网红火锅店。 继“上上谦”之后，又一家自带“流量光环”的餐饮店倒闭了。 近日，网红车模李凉凉在重庆开的“李嬢嬢火锅串串”正式宣告结业，从开业到关门仅10个月，连餐饮行业平均15个月的生命周期都没达到。 实际上，这已不是她第一次在餐饮赛道栽跟头。早在2022年，李凉凉就曾推出“李凉凉重庆小面”，一度开出3家门店，但去年1月全线关停，亏损超300万元。 这几百万，到底是怎么亏掉的？ 亏损超百万元， 同样的剧本演了两遍 “开店的时候有多风光，现在就有多狼狈。” 上个月底，李嬢嬢火锅串串贴出公告称，由于经营不善、连续亏损，门店在7月30日正式闭店。据李凉凉透露，这家营业仅10个月的火锅店，累计亏损超过100万元。面对镜头，她苦笑着反问自己：“到底是实体生意太难做，还是我真的就不适合做生意？” 之所以会发出这样的疑问，是因为在一年多前，李凉凉才刚经历过一次创业失败。2025年年初，李凉凉创办的三家面馆全部倒闭，损失超过300万元。算上这次火锅店的亏损，不到两年时间里，她一共烧掉了将近500万元。 △图片来源：李凉凉微博账号 把时间拉回2022年，彼时，李凉凉顶着千万粉丝的光环，创立了李凉凉重庆小面，并一口气在重庆主城开出3家门店。和",
+    "publishedAt": "2026-08-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786358795000",
+    "title": "汽水音乐翻过了网易云的那道墙",
+    "link": "https://www.tmtpost.com/8096734.html",
+    "summary": "汽水音乐月活跃用户1.56亿，网易云音乐1.47亿。",
+    "publishedAt": "2026-08-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-a-censorship-conspiracy-theory-and-the-first-vi-1786112400000",
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+    "publishedAt": "2026-08-07",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-is-turning-claude-code-s-auto-mode-on-by-default-1786303232000",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "publishedAt": "2026-08-09",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hr-fought-for-a-seat-at-the-table-now-it-8217-s-slipping-awa-1786362307000",
+    "title": "HR fought for a seat at the table—now it&#8217;s slipping away",
+    "link": "https://hrexecutive.com/hr-fought-for-a-seat-at-the-table-now-its-slipping-away/",
+    "summary": "In more C-suites, the seat at the table is still in the room. HR just isn’t always invited to sit in it anymore. The post HR fought for a seat at the table—now it&#8217;s slipping away appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
     ]
   },
   {
@@ -55,10 +326,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-code-5-a-1786340271000",
-    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-    "link": "https://www.qbitai.com/2026/08/469500.html",
-    "summary": "会话越长，人的表现越差",
+    "id": "news-meoo-qwen-3-8-max-1786332263000",
+    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+    "link": "https://www.qbitai.com/2026/08/469493.html",
+    "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
     "publishedAt": "2026-08-10",
     "source": "量子位",
     "tags": [
@@ -68,23 +339,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-609-1786345629000",
-    "title": " 宇树科技的609亿元悖论：机器人越会干活，生意会不会越难做 ",
-    "link": "https://www.huxiu.com/article/4881950.html?f=rss",
-    "summary": "本文来自微信公众号： Techmo ，作者：Techmo 8月10日，宇树科技正式启动网上、网下申购。上交所披露的发行价为150.80元，发行市盈率219.23倍。按发行4044.6434万股、发行后总股本约4.04亿股计算，公司发行后市值约609.93亿元。以发行价测算，募集资金总额约60.99亿元，尚未扣除发行费用。 市场通常把宇树的下一步概括为让机器人从“会表演”走向“会干活”。这种说法解释了技术方向，却回避了一个商业问题：机器人进入工厂、仓库和服务场所后，宇树的生意一定会变得更好吗？ 答案并不确定。宇树目前已经形成的，是一门以标准化整机为主、毛利率较高的硬件生意。真正进入行业应用后，客户购买标准、交付方式和成本结构都会改变。宇树可能卖出更多机器人，却不得不承担定制开发、系统集成和售后服务；收入继续增长，利润率反而下降。 这构成了宇树上市后的一个悖论：机器人越接近“会干活”，公司现有的好生意可能越难维持。 宇树赚到的，可能是整个行业的研发钱 宇树已经证明机器人可以成为批量销售的商品。招股书显示，公司2025年实现营业收入16.99亿元，是2024年的4.33倍；主营业务毛利率为60.13%，扣非归母净利润5.91亿元。人形机器人收入8.68亿元，占主营业务收入的51.78%，第一次在全年口径上超过四足机器人。四足机器人收入6.98亿元，占比41.62%。 这些收入的来源值得进",
+    "id": "news-ai-1786363743000",
+    "title": " AI 正在吃光互联网，可我们快没东西喂它了 ",
+    "link": "https://www.huxiu.com/article/4882075.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的 5年后，互联网上来自AI的流量将是人类的1000倍，人类不再是冲浪的主要用户，甚至就是赛博世界的零头。 这是Cloudflare在最近财报会议的预测，并非耸人听闻，此时此刻，AI的访问量已经正式超过了人类网民。 没有人认真想过将来那片牧场还长不长草。 据测算，语言模型的训练将在2026年到2032年间耗尽人类公开的文本数据。高质量语言数据的枯竭甚至可能提前至2026年，比公开文本整体耗尽还要早两年。 Stack Overflow的沉没 Stack Overflow曾是程序员世界的集体大脑。 从2008年建站到2014年鼎盛期，每月能吸引逾20万个新问题，形成了一座庞大的人类智识档案馆。 任何一个debug到凌晨三点的工程师都懂得那种感觉：用精准的报错信息搜索，第一条结果几乎永远是Stack Overflow上某个五年前的问答，答案还带着七八十个人的投票与反驳。 而自2022年底，ChatGPT出现后的两年间，Stack Overflow的月提问量从逾20万跌至不足5万，几乎回到2009年——也就是平台刚刚上线时的水平。 问题干涸了，人们不再去那里，因为他们去问AI了。 根据Stack Overflow自己2025年的调查，84%的开发者每天都在使用AI工具。 与此同时，46%的开发者不信任AI输出的准确性，他们最大的顾虑并非",
     "publishedAt": "2026-08-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-7-1786345800000",
-    "title": "黄金一周暴涨7%之后，我劝你先别冲动",
-    "link": "https://www.tmtpost.com/8097415.html",
-    "summary": "方向可以看对，节奏错了照样爆仓。",
+    "id": "news--1786358785000",
+    "title": "我们在瑞幸的二季报，看到了增速见顶的信号",
+    "link": "https://www.tmtpost.com/8097225.html",
+    "summary": "规模在涨，单店在降。",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -108,97 +380,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-is-turning-claude-code-s-auto-mode-on-by-default-1786303232000",
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "summary": "Programming with Claude Code will soon require even less human oversight.",
-    "publishedAt": "2026-08-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eavesdropping-at-work-a-german-court-weighs-in-1786048210000",
-    "title": "Eavesdropping at work? A German court weighs in",
-    "link": "https://hrexecutive.com/eavesdropping-at-work-a-german-court-weighs-in/",
-    "summary": "A German labor court ruling on worker misconduct shows employers are judged by their response, not the conflict's outcome. The post Eavesdropping at work? A German court weighs in appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-kff-insurers-want-to-hike-small-businesses-premiums-by-14-ne-1786133880000",
-    "title": "KFF: Insurers want to hike small businesses’ premiums by 14% next year",
-    "link": "https://www.hrdive.com/news/small-business-health-insurance-premiums-2027-kff-rate-filings/827332/",
-    "summary": "It&rsquo;s becoming harder for small employers to offer insurance coverage, and another year of double-digit premium increases won&rsquo;t help. Insurers say their hands are tied.",
-    "publishedAt": "2026-08-07",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-meoo-qwen-3-8-max-1786332263000",
-    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-    "link": "https://www.qbitai.com/2026/08/469493.html",
-    "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-    "publishedAt": "2026-08-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-325-326-1786345200000",
-    "title": " 虎嗅【作·嗅之星】周榜第325～326期 ",
-    "link": "https://www.huxiu.com/article/4881783.html?f=rss",
-    "summary": "作·嗅之星榜单，以周榜的形式，呈现每周新鲜出炉的优秀作品。 一、2026年7月24日～2026年7月30日，虎嗅第325期，作·嗅之星的获奖文章分别是： TOP 1：《 写在消费无人问津时 》作者：沈帅波 TOP 2：《 赌对了，赚肿了，然后呢？ 》作者：叶檀财经 TOP 3：《 马斯克承认：芯片上美国封锁，中国一旦闭环就是领先者 》作者：TOP创新区研究院 TOP 4：《 黄仁勋，终于站队了 》作者：版面之外 二、2026年7月31日～2026年8月6日，虎嗅第326期，作·嗅之星的获奖文章分别是： TOP 1：《 商务部最新万字文件，信号很不寻常 》作者：TOP创新区研究院 TOP 2：《 中美打架，为什么“进ICU”的是韩国？ 》作者：大湾区评论 TOP 3：《 为什么很多情侣，都熬不过同居这一关 》作者：网易数读",
-    "publishedAt": "2026-08-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-30-9-9-1786345380000",
-    "title": "吃了30年渠道红利的旺旺，败给9.9元清仓价",
-    "link": "https://www.tmtpost.com/8097399.html",
-    "summary": "谁“杀死”了旺旺的经销商？",
-    "publishedAt": "2026-08-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-google-s-ai-shake-up-and-meta-s-rogue-model-1786018200000",
-    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
-    "publishedAt": "2026-08-06",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-e-1786291500000",
     "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
     "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
@@ -209,191 +390,6 @@ export const generatedNews: NewsItem[] = [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-your-workforce-spans-generations-does-your-workforce-strateg-1786047316000",
-    "title": "Your workforce spans generations. Does your workforce strategy?",
-    "link": "https://hrexecutive.com/your-workforce-spans-generations-does-your-workforce-strategy/",
-    "summary": "The goal is not rules for different generations; it's to build a flexible workforce strategy to support workers across career and life stages. The post Your workforce spans generations. Does your workforce strategy? appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-ada-may-require-reassignment-despite-worker-s-inability-to-p-1786133880000",
-    "title": "ADA may require reassignment despite worker’s inability to perform essential functions, 4th Circuit says",
-    "link": "https://www.hrdive.com/news/ada-may-require-reassignment-inability-perform-essential-functions/827377/",
-    "summary": "The law&rsquo;s &quot;accommodation of last resort&rdquo; has historically proven difficult for employers to administer.",
-    "publishedAt": "2026-08-07",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1786329288000",
-    "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
-    "link": "https://www.qbitai.com/2026/08/469475.html",
-    "summary": "先解决这轮内存荒！",
-    "publishedAt": "2026-08-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786345189000",
-    "title": " 广州首店背后，茶颜悦色的供应链账本 ",
-    "link": "https://www.huxiu.com/article/4881949.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐供应链指南 ，作者：专注餐饮供应链的 自有供应链的重资产投入，必须要靠更大规模来摊薄消化。 本文由红餐供应链指南（ID：cygylzn）原创 题图来源：茶颜悦色官网 7月29日，茶颜悦色正式官宣进驻广州，首店传闻将落子白鹅潭万象城，预计9月底开业。 而这个时间距离它落地深圳、撬开华南市场大门，还不到100天。 从死守长沙到接连扎进全国茶饮竞争最惨烈的两座红海城市，这家初代网红品牌的全国化步伐，突然变快了。 为什么？ 外界不少观点把茶颜悦色的扩张解读为“网红品牌终于想通了”或“再不全国化就晚了”的品牌叙事。 但这并不全面。 这场迟到的进军，其实很难算是一次主动挑选战场的扩张。门店招牌挂起的背后，可能是一场由自有供应链重资产倒逼出来的战略防守。 深圳的供应链基础为广州铺好了路 “广州是全国茶饮竞争高地，我们想把自己扔进这个热闹的‘高手局’里，看看自己的产品力和组织力到底如何。”谈及进入广州的理由，茶颜悦色并没有否认广州茶饮的饱和程度。 有数据显示，广州茶饮门店已超过12000家，稳居全国第一，本土品牌深耕多年，头部品牌也都有在这里布局。 在这样一个供给密度冠绝全国的城市，茶颜悦色首店却避开了天河核心商圈，选了一座尚未开业的新综合体。 有人说它“太保守”，也有人说它“有策略”。 两种说法都只看到了终端那一层。往上移一层看供应链，有另外的答案。 一个容易被忽略的事",
-    "publishedAt": "2026-08-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-200-1786345080000",
-    "title": "具身智能的大脑，200亿一张门票",
-    "link": "https://www.tmtpost.com/8097290.html",
-    "summary": "具身智能200亿俱乐部，一文看懂5家公司。",
-    "publishedAt": "2026-08-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-puzzle-corner-1785941789000",
-    "title": "Puzzle Corner",
-    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
-    "publishedAt": "2026-08-05",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-historian-jill-lepore-says-silicon-valley-misreads-science-f-1786287600000",
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-    "publishedAt": "2026-08-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-fewer-than-1-in-3-orgs-plan-peanut-butter-pay-increases-in-2-1786047042000",
-    "title": "Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027",
-    "link": "https://hrexecutive.com/fewer-than-1-in-3-orgs-planning-peanut-butter-pay-increases-in-2027/",
-    "summary": "Many employees are stuck in “pay paralysis,” according to new data from Payscale, which found a downturn in the number of organizations planning across-the-board pay increases next year. The post Fewer than 1 in 3 orgs plan ‘peanut butter’ pay increases in 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-08-06",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-corporate-conversations-about-ai-productivity-are-mostly-foc-1786114920000",
-    "title": "Corporate conversations about AI productivity are mostly focused on future gains",
-    "link": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
-    "summary": "When it comes to the performance benefits of artificial intelligence, the vast majority of executives expect to realize results later on, a new report says.",
-    "publishedAt": "2026-08-07",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786328755000",
-    "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-    "link": "https://www.qbitai.com/2026/08/469454.html",
-    "summary": "",
-    "publishedAt": "2026-08-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786345089000",
-    "title": " 到处停电的古巴，硬被中国光伏拉回了现代社会 ",
-    "link": "https://www.huxiu.com/article/4881933.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，题图来自：AI生成 中国光伏组件去年出口了249.8吉瓦，就是好多好多，铺到了半个地球，这个故事大家多少都听过。 但光伏这个词在中国人的日常感受里，说实话没有那么重的分量。 顶多是在自家楼顶装一排板子，白天发点电卖给电网，薅一薅太阳的羊毛，账上每年省几百块。它是一个补充，电网还在，空调照开，外卖照点，最多是万一停电了它可以顶一顶。 但同样一块中国造的太阳能板，运到古巴、运到巴基斯坦的农田边、运到非洲一座通信塔的脚下，画风完全不一样，在那些地方，光伏关乎有没有电用。 有了它能做饭、能进货、能给孩子房间的风扇充电；没有它，就可能随时回到没电可用的前工业时代。 2025年的数据很说明问题，中国光伏以前主要卖给欧美发达国家，2025年头一次反过来了，卖给发展中国家的比发达国家还多。一年之内，年进口超过1吉瓦的国家从39个增到了47个，每多一个，就多一套正在被重建的电力系统。 你卖出去的东西变成了别人日常运转的一部分，这比任何出口数字都有分量。 一、古巴街头的电动三蹦子 2026年的古巴街头，满大街跑的是中国产的电动三蹦子。 送货的、载客的、跑固定路线替代公交的，有些街区甚至用它运垃圾，一辆车折合人民币一万多到将近三万块，死贵死贵的，因为这些车不少是经巴拿马由亲属或进口商转运回来的，也有人卖掉自己的汽油车来买。很多车主还花三四千块钱在车顶",
-    "publishedAt": "2026-08-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-fintech-a-etf7-7-1-45-1786344637000",
-    "title": "【Fintech 周报】A股最年轻行长诞生；黄金ETF7月以来揽金超百亿；7月银行共罚没1.45亿元",
-    "link": "https://www.tmtpost.com/8097473.html",
-    "summary": "7月银行罚单516张、罚没1.45亿元；多家银行上线个贷成本明示表；瀚银科技收年内最大支付罚单7445万元；中国信达资产福建省分公司被罚30万元；央行否决成都摩宝五项核心变更，牌照续展希望渺茫；赛迪：2025年银行整体IT投资2814.3亿元；江苏银行上半年营收净利双增超8%；新华保险、国泰海通在北京成立私募基金；人保寿险拟开展50亿元保单质押贷款ABS；蒋宁获核准马上消费金融董事；江阴银行一日宣布两位副行长辞职；宁波银行大模型“阿波”完成员工内测；普京签署加密货币监管新法；英国监管机构正着手制定代币化黄金框架。",
-    "publishedAt": "2026-08-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-nasa-8217-s-new-telescope-and-chinese-tech-impo-1785931800000",
-    "title": "The Download: NASA&#8217;s new telescope and Chinese tech import curbs",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
-    "publishedAt": "2026-08-05",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-ai-safety-test-is-becoming-a-safety-risk-1786285800000",
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-    "publishedAt": "2026-08-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
     ]
   }
 ];
@@ -808,8 +804,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RNDAuMTE2LjczLjE4MA== when applying to show you read the job post completely (#RNDAuMTE2LjczLjE4MA==)",
-      "This is a beta feature to avoid spam applican"
+      "Please mention the word **STRIVING** and tag RMjAuMy4yMzEuMTE1 when applying to show you read the job post completely (#RMjAuMy4yMzEuMTE1)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "安居, ",
@@ -876,7 +872,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RNDAuMTE2LjczLjE4MA== when applying to show you read the job post completely (#RNDAuMTE2"
+      "Please mention the word **OPENLY** and tag RMjAuMy4yMzEuMTE1 when applying to show you read the job post completely (#RMjAuMy4yMzEu"
     ],
     "skills": [
       "Agent"
@@ -889,4 +885,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-10T07:24:56.593Z';
+export const dataFetchedAt = '2026-08-10T12:59:10.409Z';
