@@ -2,10 +2,196 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+    "publishedAt": "2026-08-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-what-comes-after-the-smartphone-amazon-8217-s-panos-panay-wi-1786451400000",
+    "title": "What comes after the smartphone? Amazon&#8217;s Panos Panay will make his case at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
+    "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
+    "publishedAt": "2026-08-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-hubspot-vp-ai-8217-s-next-big-question-isn-8217-t-adoption-i-1786451423000",
+    "title": "HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability",
+    "link": "https://hrexecutive.com/hubspot-vp-ais-next-big-question-isnt-adoption-its-accountability/",
+    "summary": "Two years into HubSpot’s AI-first journey, adoption and fluency were the easy part. Accountability and the \"missing middle\" are tougher. The post HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5-stories-from-dmec26-1786395240000",
+    "title": "5 stories from DMEC26",
+    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
+    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1786448202000",
+    "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+    "link": "https://www.qbitai.com/2026/08/470621.html",
+    "summary": "算力竞赛的天平，正在向电力倾斜",
+    "publishedAt": "2026-08-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786451263000",
+    "title": " 钟睒睒并非莽夫 ",
+    "link": "https://www.huxiu.com/article/4882355.html?f=rss",
+    "summary": "本文来自微信公众号： 尼德罗 ，作者：尼德罗，题图来自：AI生成 钟睒睒的一通暴论，激起了不少反对意见。 六神磊磊撰文评价钟睒睒，&ldquo;狠起来连自己都打&rdquo;。 科普作者项栋梁在&ldquo;基本常识&rdquo;恢复更新后，直接给了出这样的标题：《钟睒睒这个认知水平，真不知道是怎么当上首富的&hellip;&hellip;》。 当下最犀利的写手王五四则评价他：如果大自然会说话，它一定会痛斥钟睒睒这个搬运工，搬着搬着，把自己搬成了中国首富，也搬成了人与自然之间霸道的中间商。 著名财经评论员刘远举写道：&ldquo;四十多年的市场经济改革成就的首富，从思想深处仍然是反对市场的。这是一个冷笑话，冷得深入骨髓。&rdquo; 目力所限，应该还有非常多的评论人在各种渠道载体，表达对钟睒睒的批评、轻蔑与不齿。 而之所以评论界、知识界如此整齐划一地反驳钟睒睒，&ldquo;数字力场&rdquo;转发刘远举雄文时配的标题，解释了一切。 转发标题是《钟首富否定的不是平台经济，是市场经济》。 市场经济曾经在 1978 年之后历经低谷，1988 年，1991 年，2018 年，2022 年都曾有波动，但作为中国社会的基本共识，目前已处在不可挑战的位置。 钟睒睒目的是攻击平台经济，箭矢却射在市场经济上，激起一片反对，便不出意料了。 对钟睒睒，我不打算评价或批评其观点，因为水平比我高很多的",
+    "publishedAt": "2026-08-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1786444703000",
+    "title": "新消费四姐妹这一年",
+    "link": "https://www.tmtpost.com/8098990.html",
+    "summary": "核心还是短期现实与长期叙事的张力。",
+    "publishedAt": "2026-08-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-ai-professors-are-negotiating-the-new-realities-of-academic--1786392000000",
     "title": "AI professors are negotiating the new realities of academic research",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+    "publishedAt": "2026-08-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-says-it-will-watermark-text-generated-by-its-ai-mo-1786450427000",
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "publishedAt": "2026-08-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
+    "title": "State regulators turn up pressure on addiction drug coverage",
+    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
+    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nlrb-confirmations-secure-republican-majority-1786395240000",
+    "title": "NLRB confirmations secure Republican majority",
+    "link": "https://www.hrdive.com/news/nlrb-confirmations-secure-republican-majority/827418/",
+    "summary": "The three-member Republican majority will now allow the board &ldquo;to overturn prior precedential decisions,&rdquo; according to an Ogletree Deakins blog post.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-gemini-3-5-pro-1786440284000",
+    "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+    "link": "https://www.qbitai.com/2026/08/470576.html",
+    "summary": "谷歌算力分配内耗严重",
+    "publishedAt": "2026-08-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1786451203000",
+    "title": " 微信必须AI化 ",
+    "link": "https://www.huxiu.com/article/4882362.html?f=rss",
+    "summary": "本文来自微信公众号： 嗅态 ，作者：石灿，题图来自：AI生成 近日，微信灰度上线&ldquo;AI帮写&rdquo;和&ldquo;AI点评&rdquo;。发朋友圈时，AI可以根据照片和草稿生成文案；面对好友评论不知道怎么回复，AI也能给出几种建议。两项功能目前仍在小范围测试，最终发布和回复仍然需要用户手动确认。 消息出来后，争议很快出现。 有人担心朋友圈里的&ldquo;活人感&rdquo;越来越少。原本属于个人的表达，如果连文案和评论都交给机器完成，熟人社交里最重要的真实感也可能被稀释。 这样的担忧很好理解。但从商业和产品演进的角度看，微信增加AI几乎是一件必然发生的事情。因为，过去一年间，AI已经以迅雷不及掩耳之势改变了用户对软件的基本预期。CNNIC数据显示，截至2025年6月，中国生成式AI用户达到5.15亿，半年时间翻了一倍。到2026年5月，QuestMobile统计的AI原生App月活用户已经接近5亿。AI正在从少数人的新鲜工具，进入大众的软件使用习惯。 长久以来，我们使用一个软件时，首先需要理解软件。找入口、点菜单、填写信息、切换页面，再完成任务。大模型出现之后，越来越多的软件反过来理解用户。输入一句自然语言，搜索、写作、翻译、整理和执行都可以继续往下走，特别是输入法软件，现在如果哪个输入法软件还没有AI功能，会被视为落伍。 当越来越多的软件具备这样的能力，AI就",
+    "publishedAt": "2026-08-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-12-5-1786444699000",
+    "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
+    "link": "https://www.tmtpost.com/8098796.html",
+    "summary": "阿里赢在商业和生态，腾讯赢在社交粘性，但字节赢的是生态闭环无短板。",
+    "publishedAt": "2026-08-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
+    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
     "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -28,11 +214,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-visa-layoffs-reach-senior-ranks-including-six-vps-and-37-sen-1786365016000",
-    "title": "Visa layoffs reach senior ranks, including six VPs and 37 senior directors",
-    "link": "https://hrexecutive.com/visa-layoffs-reach-senior-ranks-including-six-vps-and-37-senior-directors/",
-    "summary": "Visa cut 2,600 jobs (7% of staff) on July 28, citing AI, even as it eliminated senior engineers, directors and chief architects. The post Visa layoffs reach senior ranks, including six VPs and 37 senior directors appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
+    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
+    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
+    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
+    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -41,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-stories-from-dmec26-1786395240000",
-    "title": "5 stories from DMEC26",
-    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
-    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
+    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
+    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
+    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
+    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -68,24 +254,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786431126000",
-    "title": " 如何验证“AI提效”是否真实？ ",
-    "link": "https://www.huxiu.com/article/4882230.html?f=rss",
-    "summary": "作者：娄珺，原文标题：《娄珺：我们的最新研究，可以验证&ldquo;AI提效&rdquo;是否真实》，题图来自：AI生成 &ldquo;降本增效&rdquo;是过去三年处于严苛商业环境中的中国企业最喜欢提及的四个字，到了2026年，这四个字前面又被加上了一个词&mdash;&mdash;&ldquo;用AI&rdquo;。 于是，各种各样的AI汇报材料开始在会议室里流传，每份材料里都有一个类似的&ldquo;饼&rdquo;&mdash;&mdash;提效30%。 我每次看到这句话，都有点难绷，忍不住想追问一句：这30%去哪了？ 如果它变成了利润，那报表上应该看得见；如果它变成了产品或服务，那客户应该感受得到；如果它变成了员工的时间，那大家应该可以早点下班。如果这三件事一件都没发生，那它可能是且仅是变成了PPT上的一个数字。 从本质上看，它就是一个被AI画出来的饼。 一、矛盾的数据 数据不说谎，让我们从数据角度看看&ldquo;AI化&rdquo;给企业带来的变化。 2026年第一季度，亚马逊自由现金流同比下降约95%，Alphabet下降约47%，微软下降约22%。巴克莱银行甚至预测Meta 2026全年自由现金流将下滑90%。 与此同时，猎聘CEO披露的数据是：2026年以来，全球科技行业发生363起裁员事件，波及近15万人，AI连续三个月成为裁员的首要推手，日均裁员974人。",
+    "id": "news--1786450418000",
+    "title": " 演唱会不送伴手礼，开始挨骂了？ ",
+    "link": "https://www.huxiu.com/article/4882363.html?f=rss",
+    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 一场演唱会，怎样才算办得好？ 过去的答案并不复杂：歌手状态够不够好、歌单有没有诚意、舞美是否匹配票价、现场体验是否顺畅。但现在，评价体系里又多了一项——伴手礼。 上周末，全国各地线下演出依然是属于演唱会的主场，但相比艺人舞台表现如何，互联网上也毫不意外掀起了今年线下演出的必备争议，即伴手礼是否寒酸。首当其冲的，是罗云熙“熙界无限剧场”巡回演唱会伴手礼，仅为一个方巾发圈而受到吐槽。 但相反的，周深“深深的”巡回演唱会贵阳站、BY2十七周年巡回演唱会三亚站却因伴手礼精致、量大而颇受好评，尤其是BY2伴手礼也因罕见出现一整袋琼州糟粕醋底料，而在社交平台被大赞“实在”。 有趣的是，由于十个勤天、薛之谦等艺人同样将在本周开唱，关于伴手礼的讨论也早已淹没社交平台。毕竟在上个月，薛之谦的限定生日场伴手礼、十个勤天一张明信片伴手礼均产生舆论争议。 一边因为送得少挨骂，一边因为送得多出圈。 显然，如今衡量演唱会举办是否良心，已经不仅仅局限于舞台演出本身。观众离场时手里拎着什么，也开始影响一场演出的口碑。 演唱会伴手礼， 越卷越离谱 演唱会送伴手礼，并不是什么新鲜事。 早些年，大多数演唱会能够留下的实体纪念，无非是一张票根、一根彩带或者一张明信片。它们成本不高，胜在与现场高度绑定，是一种“我来过”的证明。 但近年来，随着线下演出市场持续复苏，跨界开唱现象",
     "publishedAt": "2026-08-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-tob-1786426631000",
-    "title": "超导量子计算距离规模化、工程化落地还有多远？丨ToB产业观察",
-    "link": "https://www.tmtpost.com/8098852.html",
-    "summary": "未来的竞争力，不在于拥有最多比特的公司，而在于能让最多开发者用好每一颗比特的平台。",
+    "id": "news--1786444698000",
+    "title": "苹果的买方霸权，第一次在中国失效",
+    "link": "https://www.tmtpost.com/8098899.html",
+    "summary": "在成品市场拥有强大议价能力的苹果，实际上已被一家中国存储芯片厂的定价策略所阻碍。",
     "publishedAt": "2026-08-11",
     "source": "钛媒体",
     "tags": [
@@ -96,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
-    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
-    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -121,23 +306,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-healthcare-costs-trap-millions-of-americans-in-unwanted-jobs-1786364131000",
-    "title": "Healthcare costs trap millions of Americans in unwanted jobs",
-    "link": "https://hrexecutive.com/healthcare-costs-trap-millions-of-americans-in-unwanted-jobs/",
-    "summary": "According to a study by the West Health-Gallup Center on Health in America, most \"job locked\" workers are afraid of losing health care insurance. The post Healthcare costs trap millions of Americans in unwanted jobs appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
+    "id": "news-the-future-of-work-is-colliding-with-the-future-of-money-1786448749000",
+    "title": "The future of work is colliding with the future of money",
+    "link": "https://hrexecutive.com/the-future-of-work-is-colliding-with-the-future-of-money/",
+    "summary": "With money becoming a strategic talent tool that much of HR is still overlooking, the intersection of fintech and HR has become critical. The post The future of work is colliding with the future of money appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
-    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
-    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
-    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
+    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
+    "title": "While layoffs slow overall, job losses in tech soar",
+    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
+    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -161,103 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-npc-1786431077000",
-    "title": " 景区NPC，一门靠“演员耗材”赚钱的暴利生意 ",
-    "link": "https://www.huxiu.com/article/4882234.html?f=rss",
-    "summary": "本文来自微信公众号： 劲旅网 ，编辑：壮壮，作者：陈杰tigereat 影视演员史元庭、张恒瑞、陈明等人入职景区担任NPC的新闻日前刷屏网络。 很多人好奇，景区NPC真的很赚钱的买卖么？ 担任NPC的演员赚多赚少，是因人因名气而异。 但对于景区而言，靠着这些源源不断涌入的“耗材”，景区NPC的确是一门货真价实的暴利生意。 头图：AI生成 01 过往几年，靠着炒作景区NPC，得名获利的景区成功案例真不少。 有些景区靠着NPC一炮而红。 今年初，默默无闻的太原古县城景区靠NPC“卖货郎”爆火出圈。 这名“卖货郎”头戴虎头帽、肩挑小货担，因长相打扮酷似《熊出没》中的光头强，再加上其走街串巷，吆喝耍怪让人忍俊不禁，从而在社交媒体上走红，进而让其所在的太原古县城景区客流暴涨。 仅在3月14日至22日9天时间，“卖货郎”返场表演，景区狂揽近20万人次客流，3月15日当天更是揽得超2万人次游客，同比暴涨170.5%，其中“卖货郎”演出时段就集中吸引超过8000人次游客。 今年7月，名气不大的桐庐垂云通天河·OMG心跳乐园景区靠NPC“龟仙人”火了一把。 这名“龟仙人”白衣长须、仙风道骨，最搞笑的是他蹲在景区地下溶洞河的游览船必经之路，开口自带“天庭混响”，一句“welcome to tongtian river”让游客笑爆的同时，还能中英俄三语无缝切换，即兴接梗、幽默吐槽、及时互动，把游客惹得哈",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-10-1786425138000",
-    "title": "10万亿参数大模型，注定要被关进笼子里",
-    "link": "https://www.tmtpost.com/8098885.html",
-    "summary": "它能行的善与恶都将超出人类想象。",
-    "publishedAt": "2026-08-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
-    "title": "AI for science needs reasoning, not just data",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
-    "publishedAt": "2026-08-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-jeff-bezos-might-finally-get-his-hands-on-a-sports-team-1786403804000",
-    "title": "Jeff Bezos might finally get his hands on a sports team",
-    "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-    "publishedAt": "2026-08-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-one-ceo-8217-s-hiring-test-track-down-the-references-candida-1786363204000",
-    "title": "One CEO&#8217;s hiring test: Track down the references candidates avoided",
-    "link": "https://hrexecutive.com/one-ceos-hiring-test-track-down-the-references-candidates-avoided/",
-    "summary": "Before your recruiters start calling unlisted references, HR leaders should read what one CEO's practice reveals. The post One CEO&#8217;s hiring test: Track down the references candidates avoided appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
-    "title": "While layoffs slow overall, job losses in tech soar",
-    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
-    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
-    "publishedAt": "2026-08-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gpu-5000-1786422699000",
-    "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-    "link": "https://www.qbitai.com/2026/08/470254.html",
-    "summary": "真就把GPU当理财产品了～",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786429963000",
-    "title": " 不上市、不多元、不碰地产，王守义的祖训为何管不住后代？ ",
-    "link": "https://www.huxiu.com/article/4882158.html?f=rss",
-    "summary": "王守义十三香差点被儿孙败光，老爷子临终立下四条铁规：不能上市、不玩资本、不搞多元、不碰房地产，结果全被后代踩了个遍。",
+    "id": "news-110-1786449131000",
+    "title": " 一枚110亿美元的戒指，和「采信」这堵墙 ",
+    "link": "https://www.huxiu.com/article/4882357.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观，原文标题：《一枚110亿美元的戒指，和「采信」这堵墙》 进/圈/里/看/行/业 📖全文2730字，阅读约需8分钟 凌晨三点，你手指上的钛圈还在工作。不亮屏、不震动，整夜贴着皮肤记下心率血氧；天亮时App说「恢复得不错」。 2026年5月，做这枚戒指的公司把招股书递进了美国证监会，估值110亿美元。 一枚无屏小戒指，正从饰品往医疗器械的门口走。 01 戒指赢在哪：无感，且连续 根据Omdia数据，2025年全球智能戒指出货约400万枚，较2024年180万翻倍以上，2023年还停在85万；而同期的智能手表增速已掉到6%。 一个手指上的无屏玩意，已经将手腕上的大屏快速甩开。 把这400万拆细看，市场并没有出现多强争霸的格局。2025年上半年Oura一家吃下74%份额，Ultrahuman与三星各9%、RingConn 5%，一家品牌便定义了一个品类。 戒指凭什么跑赢手表？关键在佩戴。43%的腕式用户没有佩戴手环，其中过半明确表示不打算买，原因集中在续航和夜间异物感。戒指3到6克、无屏幕亮光、续航5到10天，戴上几乎无感。 Oura在其早期融资的材料中指出：「不到5%的人会定期锻炼，但超过95%的人每晚都需要睡眠。」 睡眠，是戒指唯一真正说圆的故事。 一项发表于《Scientific Reports》的研究给了硬数据：在临床睡眠实验室里",
     "publishedAt": "2026-08-11",
     "source": "虎嗅",
     "tags": [
@@ -267,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1200-1786424214000",
-    "title": "1200亿美元之上，中国服务器厂商重新排位",
-    "link": "https://www.tmtpost.com/8098021.html",
-    "summary": "流向AI服务器的钱越来越多，但不等于每一笔钱都会经过服务器厂商。",
+    "id": "news-ai-for-science-1786444696000",
+    "title": "晶泰控股：AI for Science的“炼金术士”",
+    "link": "https://www.tmtpost.com/8098872.html",
+    "summary": "晶泰控股底层逻辑拆解",
     "publishedAt": "2026-08-11",
     "source": "钛媒体",
     "tags": [
@@ -293,107 +384,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-now-rippling-is-counter-suing-tiny-startup-runlayer-1786400814000",
-    "title": "Now Rippling is counter-suing tiny startup Runlayer",
-    "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-    "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+    "id": "news-jeff-bezos-might-finally-get-his-hands-on-a-sports-team-1786403804000",
+    "title": "Jeff Bezos might finally get his hands on a sports team",
+    "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-fought-for-a-seat-at-the-table-now-it-8217-s-slipping-awa-1786362307000",
-    "title": "HR fought for a seat at the table—now it&#8217;s slipping away",
-    "link": "https://hrexecutive.com/hr-fought-for-a-seat-at-the-table-now-its-slipping-away/",
-    "summary": "In more C-suites, the seat at the table is still in the room. HR just isn’t always invited to sit in it anymore. The post HR fought for a seat at the table—now it&#8217;s slipping away appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-week-in-review-the-skills-ai-can-t-replace-1786374300000",
-    "title": "Week in review: The skills AI can’t replace",
-    "link": "https://www.hrdive.com/news/the-skills-ai-cant-replace/827426/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the average percentage employers plan to increase pay in 2027.",
-    "publishedAt": "2026-08-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-claude-1786420284000",
-    "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-    "link": "https://www.qbitai.com/2026/08/470228.html",
-    "summary": "大水印时代来了",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786429063000",
-    "title": " 如何在生活的海洋上找回自己：奥德赛的隐喻 ",
-    "link": "https://www.huxiu.com/article/4882226.html?f=rss",
-    "summary": "本文来自微信公众号： 培风客 ，作者：Odysseus 首先，这篇文章不包含任何剧透，因为它是关于荷马的那本奥德赛，我看完了诺兰的电影，我觉得是一个不错的作品。但我想分享的是那本原著，这样大家在看电影之前或者之后，都可以有一个对比。 奥德赛写的就是我们每个人的故事 我可以把结论写在最前面，奥德赛通过倒叙的方法，讲述了奥德修斯在海洋上的漂流和冒险，但如果你看过少年派的奇幻漂流，以及《千面英雄》这本书，你会有一种熟悉的感觉，人类很多神话，都是把自我投射在故事里面，而那些最能吸引人共鸣的故事，其实我们都从中看到了自己。 而奥德赛的故事，就是一个人走向我们自己未知的命运（波澜壮阔的大海），面对原始的暴力冲动（独眼巨人），面对虚无主义丧失斗志（食莲人），面对无法节制的欲望（喀耳刻女巫），面对致命的诱惑（塞壬海妖），面对艰难的两难选择（哈怪斯库拉和卡律布狄斯旋涡），面对生离死别（在冥界遇到自己的母亲，三次尝试拥抱但只能穿过幻影）。分别通过智慧，理性，自我约束，忍耐，一次次克服这些困难，最后回到自己的家乡，射杀那些求婚者，重新构造属于自己的秩序。 这就是人类基本上所有神话的内核，所有的神，都是我们自身内心的投射，我们走上的是人生旅途，同样是属于自己的神话故事。我们从迷茫中启程，在经历中成长，在困难中奋进，最后等到我们伤痕累累的时候，我们重新构造了自己的秩序，找回了自我。 而这个故事最精彩的部分，",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-88cm-ta-1786424152000",
-    "title": "一台88cm的机器人，凭什么让你把TA当家人？",
-    "link": "https://www.tmtpost.com/8098628.html",
-    "summary": "家里多了个赛博“小孩哥”！",
-    "publishedAt": "2026-08-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-a-censorship-conspiracy-theory-and-the-first-vi-1786112400000",
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
-    "publishedAt": "2026-08-07",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-google-co-founder-sergey-brin-has-now-spent-100-million-to-f-1786396804000",
-    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-    "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
-    "publishedAt": "2026-08-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "organization"
     ]
   }
 ];
@@ -882,7 +883,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMTI4LjI0LjE2MC4yMjY= when applying to show you read the job post completely (#RMTI4LjI0LjE2MC4yMjY=)",
+      "Please mention the word **STRIVING** and tag RMjAuODMuMTU4LjEzNw== when applying to show you read the job post completely (#RMjAuODMuMTU4LjEzNw==)",
       "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
@@ -950,7 +951,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTI4LjI0LjE2MC4yMjY= when applying to show you read the job post completely (#RMTI4LjI0"
+      "Please mention the word **OPENLY** and tag RMjAuODMuMTU4LjEzNw== when applying to show you read the job post completely (#RMjAuODMu"
     ],
     "skills": [
       "Agent"
@@ -963,4 +964,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-11T07:00:27.513Z';
+export const dataFetchedAt = '2026-08-11T12:55:25.536Z';
