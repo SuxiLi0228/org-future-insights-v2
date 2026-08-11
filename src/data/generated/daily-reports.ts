@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-12-auto",
+    "date": "2026-08-12",
+    "session": "auto",
+    "title": "2026-08-12 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-12-auto-1",
+        "emoji": "💡",
+        "title": "How the &#8220;censorship-industrial complex&#8221; is changing the Internet and US policy",
+        "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
+        "detail": "来源: MIT Technology Review。I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
+      },
+      {
+        "id": "sig-2026-08-12-auto-2",
+        "emoji": "💡",
+        "title": "Google’s Gemini app surges to one billion users",
+        "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+        "detail": "来源: TechCrunch。Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+      },
+      {
+        "id": "sig-2026-08-12-auto-3",
+        "emoji": "🚨",
+        "title": "HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability",
+        "summary": "Two years into HubSpot’s AI-first journey, adoption and fluency were the easy part. Accountability and the \"missing middle\" are tougher. The post HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Two years into HubSpot’s AI-first journey, adoption and fluency were the easy part. Accountability and the \"missing middle\" are tougher. The post HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/hubspot-vp-ais-next-big-question-isnt-adoption-its-accountability/"
+      },
+      {
+        "id": "sig-2026-08-12-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Beyond Naturalness: Probing Automated Text-To-Speech Evaluat...",
+        "summary": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h",
+        "detail": "作者: Oluwanifemi Bamgbose, Simon Rosen, Jash Shah。Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they capture the distinct aspects of speech that listeners actually perceive. We deconstruct \"naturalness\" into a linguistically grounded annotation schema spanning 10 distinct perceptual dimensions, and use it to construct the first dimension-level meta-evaluation benchmark for TTS, comprising 860 utterances annotated by trained linguist raters. Results from benchmarking four MOS predictors and four Audio-LLM judges reveal that MOS predictors collapse onto acoustic signal quality, while Audio-LLM judges show selective, prompt-dependent detection that does not generalise across all dim",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.09930v1"
+      },
+      {
+        "id": "sig-2026-08-12-auto-5",
+        "emoji": "💼",
+        "title": "U-Haul 正在招募 Detail Specialist",
+        "summary": "岗位类型：业务+AI 复合岗。U-Haul Detail Technician Are you ready to rev up your career",
+        "detail": "技能要求: RAG。U-Haul Detail Technician Are you ready to rev up your career U-Haul is looking for new team members to clean and detail the newest trucks and trailer fleet in the industry, ensuring that our equipment remains in top condition for our customers If you have the skills and passion to keep our fleet l",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "U-Haul"
+        ],
+        "sourceType": "tech",
+        "sourceName": "U-Haul",
+        "link": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-12-1",
+        "priority": "low",
+        "action": "关注「How the &#8220;censorship-industrial com」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-12-2",
+        "priority": "low",
+        "action": "关注「Google’s Gemini app surges to one billio」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-12-3",
+        "priority": "high",
+        "action": "关注「HubSpot VP: AI&#8217;s next big question」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-12-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Beyond Naturalness: Probing Automat」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-12-5",
+        "priority": "medium",
+        "action": "关注「U-Haul 正在招募 Detail Specialist」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "U-Haul"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 58,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-12 生成，聚合了 30 条新闻、20 篇论文、8 个岗位。",
+    "fetchWindow": "2026-08-12 00:00 - 2026-08-12 23:59"
+  },
+  {
     "id": "report-2026-08-11-auto",
     "date": "2026-08-11",
     "session": "auto",

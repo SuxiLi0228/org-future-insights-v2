@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+    "id": "news-how-the-8220-censorship-industrial-complex-8221-is-changing--1786471137000",
+    "title": "How the &#8220;censorship-industrial complex&#8221; is changing the Internet and US policy",
+    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+    "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
     "publishedAt": "2026-08-11",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-comes-after-the-smartphone-amazon-8217-s-panos-panay-wi-1786451400000",
-    "title": "What comes after the smartphone? Amazon&#8217;s Panos Panay will make his case at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
-    "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
+    "id": "news-google-s-gemini-app-surges-to-one-billion-users-1786474152000",
+    "title": "Google’s Gemini app surges to one billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -41,17 +40,111 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-stories-from-dmec26-1786395240000",
-    "title": "5 stories from DMEC26",
-    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
-    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
-    "publishedAt": "2026-08-10",
+    "id": "news-substantial-gaps-in-skills-are-hurting-manager-readiness-rep-1786467180000",
+    "title": "‘Substantial gaps’ in skills are hurting manager readiness, report says",
+    "link": "https://www.hrdive.com/news/substantial-gaps-in-skills-are-hurting-manager-readiness-report-says/827578/",
+    "summary": "&ldquo;The role of the manager has fundamentally changed,&rdquo; Mark Saddic, senior partner at Careerminds, said in a statement.",
+    "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
       "ai"
+    ]
+  },
+  {
+    "id": "news--1786456666000",
+    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+    "link": "https://www.qbitai.com/2026/08/470674.html",
+    "summary": "资本正从具身本体集体涌向触觉",
+    "publishedAt": "2026-08-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786464679000",
+    "title": " 当华尔街成为英伟达的销售渠道 ",
+    "link": "https://www.huxiu.com/article/4882407.html?f=rss",
+    "summary": "本文来自微信公众号： AI资本观 ，作者：沈砺 导读 8月10日，英伟达拉来六家全球金融机构，计划长期调动超过5000亿美元第三方资本，为客户建设AI算力基础设施。这意味着，芯片公司开始替客户解决“买得起”的问题。 本文要追问的是，当华尔街进入GPU销售链条，一张订单还能证明多少真实需求，融资能力又会怎样改写下一轮芯片竞争。 英伟达刚刚宣布了一个5000亿美元计划。 8月10日，它宣布分别与Apollo（阿波罗全球管理）、BlackRock（贝莱德）、Blackstone（黑石集团）、Brookfield（布鲁克菲尔德资产管理）、Goldman Sachs（高盛）和KKR（全球另类资产管理机构）建立AI算力基础设施融资平台，目标是长期调动超过5000亿美元第三方资本。 图｜真·大佬合影；图源：黄仁勋个人X页面分享。 但先别急着被这个数字带跑。英伟达没有融到5000亿美元，也没有承诺自己掏出5000亿美元。它真正做的，是让不同类型的长期资本为客户建设AI基础设施提供资金。 英伟达的公告说的是融资平台。但钱一旦接上销售链条，事情的性质就变了： 华尔街，正在变成英伟达的“销售渠道”。 对于今天英伟达的江湖地位来说，这事儿并不嚣张，甚至业内早有预期。只是能不能站住，先要把5000亿美元的账算清。 5000亿美元，先算清是谁的钱 先说这5000亿美元。六个平台彼此独立，这个数字是计划长期调动",
+    "publishedAt": "2026-08-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-mlcc-4-92-1786453077000",
+    "title": "昀冢科技定增豪赌MLCC背后：连亏4年，资产负债率超92%",
+    "link": "https://www.tmtpost.com/8099434.html",
+    "summary": "股价飙涨，“天时”已到。",
+    "publishedAt": "2026-08-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+    "publishedAt": "2026-08-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-bluesky-s-active-user-base-is-shrinking-as-its-focus-expands-1786470374000",
+    "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+    "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+    "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+    "publishedAt": "2026-08-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
+    "title": "State regulators turn up pressure on addiction drug coverage",
+    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
+    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-most-workers-said-they-ve-stayed-home-due-to-unsafe-conditio-1786461960000",
+    "title": "Most workers said they’ve stayed home due to unsafe conditions",
+    "link": "https://www.hrdive.com/news/most-workers-stayed-home-due-to-unsafe-conditions/827546/",
+    "summary": "Severe weather events and infrastructure failures can cause significant problems, but almost 40% of workers said they are left to deal with these problems on their own.",
+    "publishedAt": "2026-08-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -68,17 +161,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786451263000",
-    "title": " 钟睒睒并非莽夫 ",
-    "link": "https://www.huxiu.com/article/4882355.html?f=rss",
-    "summary": "本文来自微信公众号： 尼德罗 ，作者：尼德罗，题图来自：AI生成 钟睒睒的一通暴论，激起了不少反对意见。 六神磊磊撰文评价钟睒睒，&ldquo;狠起来连自己都打&rdquo;。 科普作者项栋梁在&ldquo;基本常识&rdquo;恢复更新后，直接给了出这样的标题：《钟睒睒这个认知水平，真不知道是怎么当上首富的&hellip;&hellip;》。 当下最犀利的写手王五四则评价他：如果大自然会说话，它一定会痛斥钟睒睒这个搬运工，搬着搬着，把自己搬成了中国首富，也搬成了人与自然之间霸道的中间商。 著名财经评论员刘远举写道：&ldquo;四十多年的市场经济改革成就的首富，从思想深处仍然是反对市场的。这是一个冷笑话，冷得深入骨髓。&rdquo; 目力所限，应该还有非常多的评论人在各种渠道载体，表达对钟睒睒的批评、轻蔑与不齿。 而之所以评论界、知识界如此整齐划一地反驳钟睒睒，&ldquo;数字力场&rdquo;转发刘远举雄文时配的标题，解释了一切。 转发标题是《钟首富否定的不是平台经济，是市场经济》。 市场经济曾经在 1978 年之后历经低谷，1988 年，1991 年，2018 年，2022 年都曾有波动，但作为中国社会的基本共识，目前已处在不可挑战的位置。 钟睒睒目的是攻击平台经济，箭矢却射在市场经济上，激起一片反对，便不出意料了。 对钟睒睒，我不打算评价或批评其观点，因为水平比我高很多的",
+    "id": "news-sea-1786464231000",
+    "title": " SEA：爆拉背后，电商终于要起跳了？ ",
+    "link": "https://www.huxiu.com/article/4882405.html?f=rss",
+    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 东南亚小腾讯Sea，8月11日晚发榜了26年第2季财报，整体表现当季表现不错，三大板块的增长全面强劲，强于预期。利润上，最重要的电商板块利润率也继续走高。但美中不足是，公司依然处于高投入期，整体利润增速仅10%出头，还是有些增收不增利，具体来看： 1、整体表现——营收强于利润：本季Sea总营收近78亿，同比高增48%，比上季继续提速，且显著高于彭博预期的35%，且是三大板块全面好于预期，没有短板。 但是利润上，整体adj.EBITDA近9.2亿，反稍稍低于彭博预期，同比增速也不到11%。相比和强劲营收增长，落差显著。 2、电商利润确认触底：本次最重要的电商板块在增长和利润上的表现都不错。首先，GMV同比增速为28.5%，虽看似环比有所降速，但实际是在同期基数大幅走高的情况下仍然增长迅猛，好于彭博预期的26%。 价量驱动上，近两个季度的增长基本全部是靠单量增长推动，也再度验证了物流等投入，对刺激购物频次的提升确实有效。 同时，本季Shopee 3P平台变现率的显著环比提升了0.8pct（近4年来幅度最大）。因而推动电商营收同比增长了48%，加速增长，比市场预期大幅高出了超10pct。体现了Shopee平台在“提升变现”上的强大把控能力。 2、Monee增长仍强，但风险依然走高？本季贷款总额达111亿（包括表内表外），比彭博一致预期高出约",
     "publishedAt": "2026-08-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -108,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-says-it-will-watermark-text-generated-by-its-ai-mo-1786450427000",
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "id": "news-what-s-scaleup-europe-the-5-7b-fund-that-just-backed-satelli-1786470109000",
+    "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+    "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+    "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
-    "title": "State regulators turn up pressure on addiction drug coverage",
-    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
-    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
+    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
+    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
+    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
+    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
     "publishedAt": "2026-08-11",
     "source": "HR Executive",
     "tags": [
@@ -134,16 +226,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nlrb-confirmations-secure-republican-majority-1786395240000",
-    "title": "NLRB confirmations secure Republican majority",
-    "link": "https://www.hrdive.com/news/nlrb-confirmations-secure-republican-majority/827418/",
-    "summary": "The three-member Republican majority will now allow the board &ldquo;to overturn prior precedential decisions,&rdquo; according to an Ogletree Deakins blog post.",
-    "publishedAt": "2026-08-10",
+    "id": "news-historic-labor-market-shrinkage-highlights-need-for-ai-econo-1786461960000",
+    "title": "‘Historic’ labor market shrinkage highlights need for AI, economist says",
+    "link": "https://www.hrdive.com/news/historic-labor-market-shrinkage-highlights-for-ai-brusuelas-jobs-employment/827550/",
+    "summary": "A pullback from employment by workers age 65 and older may partly allay concerns that demand for artificial intelligence will fall short of a coming surge in supply.",
+    "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -157,20 +250,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1786451203000",
-    "title": " 微信必须AI化 ",
-    "link": "https://www.huxiu.com/article/4882362.html?f=rss",
-    "summary": "本文来自微信公众号： 嗅态 ，作者：石灿，题图来自：AI生成 近日，微信灰度上线&ldquo;AI帮写&rdquo;和&ldquo;AI点评&rdquo;。发朋友圈时，AI可以根据照片和草稿生成文案；面对好友评论不知道怎么回复，AI也能给出几种建议。两项功能目前仍在小范围测试，最终发布和回复仍然需要用户手动确认。 消息出来后，争议很快出现。 有人担心朋友圈里的&ldquo;活人感&rdquo;越来越少。原本属于个人的表达，如果连文案和评论都交给机器完成，熟人社交里最重要的真实感也可能被稀释。 这样的担忧很好理解。但从商业和产品演进的角度看，微信增加AI几乎是一件必然发生的事情。因为，过去一年间，AI已经以迅雷不及掩耳之势改变了用户对软件的基本预期。CNNIC数据显示，截至2025年6月，中国生成式AI用户达到5.15亿，半年时间翻了一倍。到2026年5月，QuestMobile统计的AI原生App月活用户已经接近5亿。AI正在从少数人的新鲜工具，进入大众的软件使用习惯。 长久以来，我们使用一个软件时，首先需要理解软件。找入口、点菜单、填写信息、切换页面，再完成任务。大模型出现之后，越来越多的软件反过来理解用户。输入一句自然语言，搜索、写作、翻译、整理和执行都可以继续往下走，特别是输入法软件，现在如果哪个输入法软件还没有AI功能，会被视为落伍。 当越来越多的软件具备这样的能力，AI就",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -200,38 +279,36 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-completed-a-7-billion-employee-tender-offe-1786406598000",
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "summary": "San Francisco's housing market is in trouble again.",
+    "id": "news-brad-lightcap-openai-8217-s-longtime-coo-is-leaving-to-8216--1786470094000",
+    "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
-    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
-    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
-    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
       "ai"
     ]
   },
   {
-    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
-    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
-    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
-    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
-    "publishedAt": "2026-08-10",
+    "id": "news-the-future-of-work-is-colliding-with-the-future-of-money-1786448749000",
+    "title": "The future of work is colliding with the future of money",
+    "link": "https://hrexecutive.com/the-future-of-work-is-colliding-with-the-future-of-money/",
+    "summary": "With money becoming a strategic talent tool that much of HR is still overlooking, the intersection of fintech and HR has become critical. The post The future of work is colliding with the future of money appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-saying-please-or-asap-may-actually-slow-work-down-1786461960000",
+    "title": "Saying ‘please’ or ‘ASAP’ may actually slow work down",
+    "link": "https://www.hrdive.com/news/please-asap-slow-work-productivity/827565/",
+    "summary": "Additionally, deliverables without due dates were 2.5 times as likely to never be completed at all, a report said.&nbsp;",
+    "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -250,19 +327,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786450418000",
-    "title": " 演唱会不送伴手礼，开始挨骂了？ ",
-    "link": "https://www.huxiu.com/article/4882363.html?f=rss",
-    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 一场演唱会，怎样才算办得好？ 过去的答案并不复杂：歌手状态够不够好、歌单有没有诚意、舞美是否匹配票价、现场体验是否顺畅。但现在，评价体系里又多了一项——伴手礼。 上周末，全国各地线下演出依然是属于演唱会的主场，但相比艺人舞台表现如何，互联网上也毫不意外掀起了今年线下演出的必备争议，即伴手礼是否寒酸。首当其冲的，是罗云熙“熙界无限剧场”巡回演唱会伴手礼，仅为一个方巾发圈而受到吐槽。 但相反的，周深“深深的”巡回演唱会贵阳站、BY2十七周年巡回演唱会三亚站却因伴手礼精致、量大而颇受好评，尤其是BY2伴手礼也因罕见出现一整袋琼州糟粕醋底料，而在社交平台被大赞“实在”。 有趣的是，由于十个勤天、薛之谦等艺人同样将在本周开唱，关于伴手礼的讨论也早已淹没社交平台。毕竟在上个月，薛之谦的限定生日场伴手礼、十个勤天一张明信片伴手礼均产生舆论争议。 一边因为送得少挨骂，一边因为送得多出圈。 显然，如今衡量演唱会举办是否良心，已经不仅仅局限于舞台演出本身。观众离场时手里拎着什么，也开始影响一场演出的口碑。 演唱会伴手礼， 越卷越离谱 演唱会送伴手礼，并不是什么新鲜事。 早些年，大多数演唱会能够留下的实体纪念，无非是一张票根、一根彩带或者一张明信片。它们成本不高，胜在与现场高度绑定，是一种“我来过”的证明。 但近年来，随着线下演出市场持续复苏，跨界开唱现象",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -293,11 +357,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model-1786406175000",
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "publishedAt": "2026-08-10",
+    "id": "news-general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-1786470082000",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -306,10 +370,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-future-of-work-is-colliding-with-the-future-of-money-1786448749000",
-    "title": "The future of work is colliding with the future of money",
-    "link": "https://hrexecutive.com/the-future-of-work-is-colliding-with-the-future-of-money/",
-    "summary": "With money becoming a strategic talent tool that much of HR is still overlooking, the intersection of fintech and HR has become critical. The post The future of work is colliding with the future of money appeared first on HR Executive .",
+    "id": "news-first-horizon-chro-s-35-year-journey-from-frontline-to-the-c-1786447821000",
+    "title": "First Horizon CHRO’s 35-year journey: From frontline to the C-suite",
+    "link": "https://hrexecutive.com/first-horizon-chros-35-year-journey-from-frontline-to-the-c-suite/",
+    "summary": "After 35 years with First Horizon Bank, Tanya Hart is uniquely positioned to help her function meet both the needs of frontline workers and the C-suite. The post First Horizon CHRO’s 35-year journey: From frontline to the C-suite appeared first on HR Executive .",
     "publishedAt": "2026-08-11",
     "source": "HR Executive",
     "tags": [
@@ -318,10 +382,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
-    "title": "While layoffs slow overall, job losses in tech soar",
-    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
-    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
+    "id": "news-5-stories-from-dmec26-1786395240000",
+    "title": "5 stories from DMEC26",
+    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
+    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -329,72 +393,6 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "workforce",
       "ai"
-    ]
-  },
-  {
-    "id": "news--1786423370000",
-    "title": "宇树会破发吗？王兴兴回应了",
-    "link": "https://www.qbitai.com/2026/08/470307.html",
-    "summary": "200问回应一切",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-110-1786449131000",
-    "title": " 一枚110亿美元的戒指，和「采信」这堵墙 ",
-    "link": "https://www.huxiu.com/article/4882357.html?f=rss",
-    "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观，原文标题：《一枚110亿美元的戒指，和「采信」这堵墙》 进/圈/里/看/行/业 📖全文2730字，阅读约需8分钟 凌晨三点，你手指上的钛圈还在工作。不亮屏、不震动，整夜贴着皮肤记下心率血氧；天亮时App说「恢复得不错」。 2026年5月，做这枚戒指的公司把招股书递进了美国证监会，估值110亿美元。 一枚无屏小戒指，正从饰品往医疗器械的门口走。 01 戒指赢在哪：无感，且连续 根据Omdia数据，2025年全球智能戒指出货约400万枚，较2024年180万翻倍以上，2023年还停在85万；而同期的智能手表增速已掉到6%。 一个手指上的无屏玩意，已经将手腕上的大屏快速甩开。 把这400万拆细看，市场并没有出现多强争霸的格局。2025年上半年Oura一家吃下74%份额，Ultrahuman与三星各9%、RingConn 5%，一家品牌便定义了一个品类。 戒指凭什么跑赢手表？关键在佩戴。43%的腕式用户没有佩戴手环，其中过半明确表示不打算买，原因集中在续航和夜间异物感。戒指3到6克、无屏幕亮光、续航5到10天，戴上几乎无感。 Oura在其早期融资的材料中指出：「不到5%的人会定期锻炼，但超过95%的人每晚都需要睡眠。」 睡眠，是戒指唯一真正说圆的故事。 一项发表于《Scientific Reports》的研究给了硬数据：在临床睡眠实验室里",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-for-science-1786444696000",
-    "title": "晶泰控股：AI for Science的“炼金术士”",
-    "link": "https://www.tmtpost.com/8098872.html",
-    "summary": "晶泰控股底层逻辑拆解",
-    "publishedAt": "2026-08-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-these-startups-are-chasing-the-next-big-thing-in-llms-1786352400000",
-    "title": "These startups are chasing the next big thing in LLMs",
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
-    "publishedAt": "2026-08-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-jeff-bezos-might-finally-get-his-hands-on-a-sports-team-1786403804000",
-    "title": "Jeff Bezos might finally get his hands on a sports team",
-    "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-    "publishedAt": "2026-08-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
     ]
   }
 ];
@@ -840,6 +838,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136363",
+    "title": "Detail Specialist",
+    "company": "U-Haul",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "U-Haul Detail Technician Are you ready to rev up your career",
+      "U-Haul is looking for new team members to clean and detail the newest trucks and trailer fleet in the industry, ensuring that our equipment remains in top condition for our customers",
+      "If you have the skills and passion to keep our fleet l"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Windsor, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
+    "postedAt": "2026-08-10",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136328",
     "title": "Exit Searcher",
     "company": "PlayToMax",
@@ -883,8 +900,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMjAuODMuMTU4LjEzNw== when applying to show you read the job post completely (#RMjAuODMuMTU4LjEzNw==)",
-      "This is a beta feature to avoid spam applican"
+      "Please mention the word **STRIVING** and tag RNDAuNzUuMTMxLjI2 when applying to show you read the job post completely (#RNDAuNzUuMTMxLjI2)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "安居, ",
@@ -951,7 +968,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMjAuODMuMTU4LjEzNw== when applying to show you read the job post completely (#RMjAuODMu"
+      "Please mention the word **OPENLY** and tag RNDAuNzUuMTMxLjI2 when applying to show you read the job post completely (#RNDAuNzUuMTMx"
     ],
     "skills": [
       "Agent"
@@ -964,4 +981,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-11T12:55:25.536Z';
+export const dataFetchedAt = '2026-08-11T18:57:22.739Z';
