@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
-    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
-    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "id": "news-ai-professors-are-negotiating-the-new-realities-of-academic--1786392000000",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aptoide-becomes-the-first-rival-app-store-to-return-to-googl-1786386714000",
-    "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-    "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-    "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
-    "publishedAt": "2026-08-10",
+    "id": "news-openai-reportedly-completed-a-7-billion-employee-tender-offe-1786406598000",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "summary": "San Francisco's housing market is in trouble again.",
+    "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -40,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
-    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
-    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
-    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
+    "id": "news-5-stories-from-dmec26-1786395240000",
+    "title": "5 stories from DMEC26",
+    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
+    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -67,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-1-1786378139000",
-    "title": " 北京楼市新政，不只是“2年变1年” ",
-    "link": "https://www.huxiu.com/article/4882109.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：战魔田默 五年、三年、两年、一年。 北京非京籍家庭五环内购房所需的社保或个税缴纳年限，再次缩短。 2024年9月，从5年降至3年；2025年12月，从3年降至2年；2026年8月，又从2年降至1年。 如果只看这一条，北京8月7日发布的楼市新政很容易被概括为又一次限购优化。但此次调整一共包含7项措施，除了调整非京籍家庭购房条件，还涉及父母向成年子女赠与本市商品住房、公积金贷款、再次申请公积金贷款、存量房带押过户和装修提取公积金等多个环节。 房地产政策正在调整几个醒目的大参数，进一步深入住房需求落地的具体环节。 房地产走到今天，限购、首付、利率依然重要，但需求能否顺利转化为交易，也正在成为一个关键变量。 阻碍交易的因素已经不只存在于总量层面，还分布在住房需求从产生到落地的不同节点。 北京这7项政策，正在往这些堵点里走。 门槛下降，只是第一层变化 过去很多年，理解一座城市的房地产调控，最醒目的指标往往是购房资格。有没有户口，缴了几年社保，家庭已经拥有几套住房，还能不能再买一套，这些规则首先决定谁能够进入市场。 北京此次将非京籍家庭购买五环内商品住房所需的社保或个税年限从2年缩短至1年，继续降低了一部分购房者进入市场的时间门槛。 但这并不意味着北京取消了限购。五环内住房套数等相关限制仍然存在，变化的是部分购房条件，而不是原有规则的整体退出。 这一次",
-    "publishedAt": "2026-08-10",
+    "id": "news--1786409901000",
+    "title": " 麻疹大暴发之际，特朗普选择向麻疹疫苗开炮 ",
+    "link": "https://www.huxiu.com/article/4882130.html?f=rss",
+    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年8月10日，特朗普签署行政令，要求把MMR——麻腮风三联疫苗拆分，孩童应该分别接种麻疹、腮腺炎、风疹三种单独的疫苗。 这是自小肯尼迪上次试图将包括乙肝疫苗在内多个疫苗踢出接种推荐的对疫苗宣战被联邦法院叫停后，特朗普政府又一次尝试对疫苗接种开火。 而这次新的炮打公共卫生行动不仅是特朗普亲自下台，要求拆分MMR也更加极端。 MMR里的三种疫苗，麻疹疫苗（M）最初在1963年上市，腮腺炎（M）1967年，风疹（R）1969年。这些单独的疫苗都非常有效，可是为了获得针对这三种严重呼吸道传染病的保护，婴幼儿必须多次去诊所打针。 为了减少幼儿与家庭的负担，著名疫苗学家Maurice Hilleman在默沙东成功地将三者合并，开发出MMR三联疫苗，并于1971年获得FDA批准上市。 如今MMR不仅是美国也是全球免疫接种的支柱。包括美国在内很多国家进入21世纪时几乎灭绝了麻疹、风疹、腮腺炎，都是依赖MMR疫苗。 可是这个疫苗又是最早被反疫苗阴谋论盯上的对象。其中最著名的是1998年，当时的英国医生Andrew Wakefield发表了一篇《柳叶刀》论文，宣称MMR疫苗与肠炎有关，而肠炎又与自闭症有关，引发了MMR疫苗引发自闭症的争议。 但真相是Wakefield捏造、篡改了数据，并且他一边为一位起诉MMR疫苗的律师作证，另",
+    "publishedAt": "2026-08-11",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -80,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-to-b-to-b-1786374832000",
-    "title": "字节高调转To B，为何回避To B主舞台？",
-    "link": "https://www.tmtpost.com/8098332.html",
-    "summary": "当战略口号、组织动作、市场行为三者错位，是转型期的正常阵痛，还是内在矛盾无法消解的显性征兆？",
-    "publishedAt": "2026-08-10",
+    "id": "news-5000-gpu-1786410283000",
+    "title": "5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产",
+    "link": "https://www.tmtpost.com/8098476.html",
+    "summary": "黄仁勋亲赴华尔街，六家巨头无一拒绝。",
+    "publishedAt": "2026-08-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
-    "title": "AI for science needs reasoning, not just data",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
+    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
     "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -106,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-social-media-platforms-still-facing-thousands-of-user-addict-1786386633000",
-    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-    "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
-    "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+    "id": "news-as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model-1786406175000",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
@@ -132,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
-    "title": "While layoffs slow overall, job losses in tech soar",
-    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
-    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
+    "id": "news-could-climate-change-lead-to-increased-fmla-use-attorneys-ar-1786377000000",
+    "title": "Could climate change lead to increased FMLA use? Attorneys are afraid so.",
+    "link": "https://www.hrdive.com/news/could-climate-change-lead-to-increased-fmla-use/827410/",
+    "summary": "The U.S.&rsquo;s recent spate of wildfire-induced air pollution provided a view of the direct effect extreme weather events may have on leave management.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -159,25 +160,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786378006000",
-    "title": " 豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币 ",
-    "link": "https://www.huxiu.com/article/4882108.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 8月10日，今天，一则消息在酒店行业炸开：通过豆包入口跳转成交的酒店订单，正式执行独立费率，软件服务费11.4%，加支付手续费0.6%，综合费率约12%。 此前，豆包的订单一直被合并为抖音自然流量，按8%的平台费率抽佣。从今天起，它显示独立的“豆包”渠道来源。有酒店行业人士向媒体确认，消息属实，网传照片就是抖音来客后台的通知，“现在豆包推荐酒店已经要收佣金了。” 界面新闻做了个实测：让豆包推荐北京北四环和北三环附近的两家酒店，一家全季，一家丽亭华苑。跳转平台的预订价，均低于某大型酒店旅行平台的同款。 四个百分点的涨幅只是表面。真正变贵的，是豆包在交易里所占的位置。 以前，它回答问题，推荐酒店，把用户送到交易平台。现在，经由它产生的订单可以被单独识别、单独结算、单独定价。一个聊天框开始拥有自己的过路费。 这件事，我一点都不意外。我在去年写过一篇文章，标题叫《你的欲望就是新的货币》。当时我写道，AI以后会代替搜索引擎，替用户搜集信息、比较方案，甚至完成购买。只要这条链路打通，AI拿走的就会超过流量。它会拿走分配意图的权力。 这一次，预言已经摸到了酒店前台。 能替用户表达欲望、筛选供给、完成交易的AI，拥有了一种比流量分配更贵的权力：意图分配权。而你的欲望，就是新的货币。 一、搜索框还活着，链接分发权已死 先看两个数字。 Que",
-    "publishedAt": "2026-08-10",
+    "id": "news--1786409536000",
+    "title": " 一家公司最危险的时刻是“收入过亿”后的第二年 ",
+    "link": "https://www.huxiu.com/article/4882127.html?f=rss",
+    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《一家公司最危险的时刻是“收入过亿”后的第二年｜#新1亿公司》 （本文为《新一亿公司》系列首篇。这个专栏关注那些被新时代快速推到一亿元的企业，如何活下来、站稳，并继续长大。第一季主题《一亿保卫战》，聚焦新一亿企业面临的生存与成长问题。） 第一次收入过亿验证机会，第二年过亿验证公司 前不久，一位创始人拿着新一年的经营计划来找我。 他的公司成立不到五年，去年营业收入刚刚超过一亿元。在很多人眼里，这是一张相当漂亮的成绩单：产品踩中了消费趋势，内容团队做出了几条爆款，几个头部主播带来了大量订单，供应链也在最需要的时候接住了突然放大的产能。 在公司营业收入第一次过亿元时，他们开了一场很热闹的庆功宴。创始人站在台上宣布：长期主义开出花，明年目标1亿8。 但真正开始做第二年预算时，他发现所有数字都变得不再听话。 去年合作效果很好的主播，今年的报价涨了一倍；原来只要增加投放就能增加销售的平台，转化效率开始下降；为了迎接两亿元目标，公司提前扩充了团队、租下了更大的仓库、向供应商下了更多订单。 最让他不安的细节是财务的一张表：销售额准备增长50%，但库存、投放和团队费用需要先增长80%。而且财务测算显示，即使销售达成，公司至少还要准备三千万元现金去承接这一年的增长。 \"为什么从零做到一亿元，感觉没有想象中那么难；现在已经有了一亿元，第",
+    "publishedAt": "2026-08-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1786373427000",
-    "title": "英伟达、礼来和迪士尼印证：是时候押注那些领头羊了",
-    "link": "https://www.tmtpost.com/8098338.html",
-    "summary": "投资者仍然相当谨慎，以至于他们只愿意买入那些已经被证明是赢家的标的，因此在当下押注热门强者是个明智的策略。",
-    "publishedAt": "2026-08-10",
+    "id": "news-edge-ai-daily-8-11-1786407235000",
+    "title": "Edge AI Daily 早报（8月11日）",
+    "link": "https://www.tmtpost.com/8098420.html",
+    "summary": "Anthropic未发布Claude将黎曼零点下限提升至67.2%，AI首次纯数学原创贡献。Meta开源Muse Glimmer，30B参数本地运行。用户反AI情绪蔓延，平台限制AI内容，数据中心抗议致1300亿美元项目推迟。Atlassian Rovo漏洞严重。微软涨价7%-10%，PC出货下滑。美国提升阿联酋芯片准入。OpenAI研发新底座Doug。英伟达开源语音模型。GitHub Models关停。中国QDII资金1286亿押注AI。",
+    "publishedAt": "2026-08-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -187,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-these-startups-are-chasing-the-next-big-thing-in-llms-1786352400000",
-    "title": "These startups are chasing the next big thing in LLMs",
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "publishedAt": "2026-08-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -199,16 +199,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtube-now-requires-creators-to-have-twice-as-many-watch-ho-1786386464000",
-    "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
-    "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-    "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+    "id": "news-jeff-bezos-might-finally-get-his-hands-on-a-sports-team-1786403804000",
+    "title": "Jeff Bezos might finally get his hands on a sports team",
+    "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -224,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-the-skills-ai-can-t-replace-1786374300000",
-    "title": "Week in review: The skills AI can’t replace",
-    "link": "https://www.hrdive.com/news/the-skills-ai-cant-replace/827426/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the average percentage employers plan to increase pay in 2027.",
+    "id": "news-while-layoffs-slow-overall-job-losses-in-tech-soar-1786374300000",
+    "title": "While layoffs slow overall, job losses in tech soar",
+    "link": "https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/",
+    "summary": "Artificial intelligence may be to blame for year-over-year increases in technology sector job losses, according to a report from Challenger, Gray and Christmas.",
     "publishedAt": "2026-08-10",
     "source": "HR Dive",
     "tags": [
@@ -251,10 +252,115 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-150-1786371404000",
-    "title": "英特尔因150亿美元股票发行而股价下跌，为何现在筹集资金？",
-    "link": "https://www.tmtpost.com/8098317.html",
-    "summary": "英特尔表示，在刚刚上调今年的资本支出预测后不久，将通过股票发行筹资150亿美元。",
+    "id": "news--1786409412000",
+    "title": " 印度轮椅大军，为何能薅遍全球？ ",
+    "link": "https://www.huxiu.com/article/4882122.html?f=rss",
+    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少，题图来自：视觉中国 01 前两天，我搭乘的航班落地泰国清迈后，遇见了一件很神奇的事。 飞机刚停稳，我顺着人流走出舱门，远远看见廊桥口摆着一长排轮椅，旁边还站着几名泰国地勤。 我第一反应，是不是航班上有老年旅行团，或者哪位乘客身体不舒服，可当天的阵仗明显大得多，轮椅首尾相连，几乎排成了一支车队。 正琢磨着，身后突然涌过来一群印度乘客。 几个人拖着行李，脚步飞快，把我挤到廊桥边上，其中几名男性身材高大，胳膊看起来比我小腿还粗，结果到了廊桥口，他们熟练地找到自己的名字，转身便坐进轮椅。 这都给我看傻了，怎么几秒钟前还健步如飞，转眼便由工作人员推着前进？ 有位印度大叔甚至先把背包挂到轮椅后面，又起身调整了半天座位，确认坐得舒服，才挥手示意地勤可以出发。 几名泰国工作人员互相看了一眼，脸上的表情真的很难形容，像是见怪不怪，又透着几分无奈。 轮椅队伍随后一路开向入境区域。 我跟在后面走了很久，发现这群乘客几乎不用自己辨认方向，有人推行，遇到坡道和转弯，还有工作人员提前让开道路，其他旅客拖着箱子慢慢往前挪，他们则像一支被护送的特殊车队，从机场深处穿行而过。 类似场面，我这些年在国外见过不止一次。 欧洲机场、北美机场，甚至一些拉美国家的航站楼里，印度相关航班落地后，廊桥旁经常会出现数量惊人的轮椅。 有时十几张，多的时候几十张，工作人员排成队",
+    "publishedAt": "2026-08-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-9-maia-300-1786404000000",
+    "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
+    "link": "https://www.tmtpost.com/8098284.html",
+    "summary": "宇树科技：科创板IPO网上发行最终中签率0.0181%；英特尔宣布拟议的150亿美元普通股发行计划；Meta发布轻量化AI模型，单张显卡即可运行；花旗Q2持仓市值突破3000亿美元，大举增持半导体产业链；7月IPO注册批文创年内单月新高，北交所占比过半；近200家硅谷初创企业反对限制中国开源模型；《煤炭工业发展“十五五”规划》、《生态保护“十五五”规划》印发",
+    "publishedAt": "2026-08-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-these-startups-are-chasing-the-next-big-thing-in-llms-1786352400000",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+    "publishedAt": "2026-08-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-now-rippling-is-counter-suing-tiny-startup-runlayer-1786400814000",
+    "title": "Now Rippling is counter-suing tiny startup Runlayer",
+    "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+    "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+    "publishedAt": "2026-08-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hr-fought-for-a-seat-at-the-table-now-it-8217-s-slipping-awa-1786362307000",
+    "title": "HR fought for a seat at the table—now it&#8217;s slipping away",
+    "link": "https://hrexecutive.com/hr-fought-for-a-seat-at-the-table-now-its-slipping-away/",
+    "summary": "In more C-suites, the seat at the table is still in the room. HR just isn’t always invited to sit in it anymore. The post HR fought for a seat at the table—now it&#8217;s slipping away appeared first on HR Executive .",
+    "publishedAt": "2026-08-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-week-in-review-the-skills-ai-can-t-replace-1786374300000",
+    "title": "Week in review: The skills AI can’t replace",
+    "link": "https://www.hrdive.com/news/the-skills-ai-cant-replace/827426/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the average percentage employers plan to increase pay in 2027.",
+    "publishedAt": "2026-08-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agi-1786345138000",
+    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+    "link": "https://www.qbitai.com/2026/08/469520.html",
+    "summary": "“我们90天就成了独角兽”",
+    "publishedAt": "2026-08-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-200-ai-1786409333000",
+    "title": " AI带来的最大风险，200位AI专家及经济学家联名警告 ",
+    "link": "https://www.huxiu.com/article/4882126.html?f=rss",
+    "summary": "本文来自微信公众号： 深究科学 ，编译：潘展，作者：深究科学 近期，由斯坦福大学数字经济实验室发起的一份公开声明正式发布。来自全球的200多位经济学家和人工智能专家共同呼吁，各国政府、企业和社会必须立即采取行动，为人工智能可能带来的经济剧变做好准备。 这份声明的签署者已包括16位诺贝尔经济学奖得主——美国前联邦储备委员会主席本·伯南克（Ben Bernanke）、哥伦比亚大学教授约瑟夫·斯蒂格利茨（Joseph Stiglitz）、纽约市立大学教授保罗·克鲁格曼（Paul Krugman）等，以及被誉为“AI教父”之一的约书亚·本吉奥（Yoshua Bengio）。 与此同时，OpenAI、Google、Anthropic等人工智能公司的代表也参与了联署。 01 一场可能超过工业革命的变革 声明首先提出了一个大胆而严肃的判断：未来十年，人工智能能力极有可能出现跨越式提升，其对经济和社会的影响规模甚至可能超过工业革命。 工业革命推动了机器取代体力劳动，重塑了制造业和现代城市。而人工智能正在进入认知劳动领域，不仅能够完成文字写作、软件开发、图像设计和数据分析，还逐渐具备科研辅助、医学诊断、法律咨询、金融分析等复杂工作能力。 值得警惕的是，这场变化发生的速度远快于工业革命。工业革命用了数十年甚至上百年才完成产业更替，而生成式人工智能仅用了短短几年，就已经从实验室走向全球企业，并迅速进入办",
+    "publishedAt": "2026-08-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-franchise-operators-struggle-as-meituan-and-alibaba-densify--1786403102000",
+    "title": "Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots",
+    "link": "https://www.tmtpost.com/8098406.html",
+    "summary": "Individual investors pour savings into tight-knit networks of rapid-delivery stores that major platforms need for urban dominance, only to confront oversaturation, thin margins, and the steady pressure of daily survival.",
     "publishedAt": "2026-08-10",
     "source": "钛媒体",
     "tags": [
@@ -277,120 +383,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-clicks-8217-power-keyboard-brings-blackberry-style-typing-to-1786384839000",
-    "title": "Clicks&#8217; Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
-    "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
-    "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use.",
+    "id": "news-google-co-founder-sergey-brin-has-now-spent-100-million-to-f-1786396804000",
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
     "publishedAt": "2026-08-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-hr-fought-for-a-seat-at-the-table-now-it-8217-s-slipping-awa-1786362307000",
-    "title": "HR fought for a seat at the table—now it&#8217;s slipping away",
-    "link": "https://hrexecutive.com/hr-fought-for-a-seat-at-the-table-now-its-slipping-away/",
-    "summary": "In more C-suites, the seat at the table is still in the room. HR just isn’t always invited to sit in it anymore. The post HR fought for a seat at the table—now it&#8217;s slipping away appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-why-1-size-fits-all-workforce-solutions-are-reaching-their-l-1786352400000",
-    "title": "Why 1 size fits all workforce solutions are reaching their limits",
-    "link": "https://www.hrdive.com/spons/why-1-size-fits-all-workforce-solutions-are-reaching-their-limits/827009/",
-    "summary": "Today&#39;s employers want HR, payroll, benefits, compliance and workforce solutions built around their business; not predetermined bundles.",
-    "publishedAt": "2026-08-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-agi-1786345138000",
-    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-    "link": "https://www.qbitai.com/2026/08/469520.html",
-    "summary": "“我们90天就成了独角兽”",
-    "publishedAt": "2026-08-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-20cm-1786366109000",
-    "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
-    "link": "https://www.tmtpost.com/8098227.html",
-    "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼",
-    "publishedAt": "2026-08-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-ideas-of-a-vast-censorship-network-moved-from-the-online-1786111200000",
-    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-    "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
-    "publishedAt": "2026-08-07",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-meta-s-new-glimmer-ai-model-offers-a-hint-at-zuckerberg-s-pe-1786378813000",
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
-    "publishedAt": "2026-08-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-new-scenario-report-puts-a-number-on-europe-8217-s-talent--1786361408000",
-    "title": "A new scenario report puts a number on Europe&#8217;s talent risk",
-    "link": "https://hrexecutive.com/a-new-scenario-report-puts-a-number-on-europes-talent-risk/",
-    "summary": "Europe risks losing the AI compute race, and a new report suggests workforce reskilling, not just chips, is a fix HR leaders need to plan for. The post A new scenario report puts a number on Europe&#8217;s talent risk appeared first on HR Executive .",
-    "publishedAt": "2026-08-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employees-don-t-need-more-benefits-they-need-fewer-front-doo-1786352400000",
-    "title": "Employees don’t need more benefits. They need fewer front doors.",
-    "link": "https://www.hrdive.com/spons/employees-dont-need-more-benefits-they-need-fewer-front-doors/826436/",
-    "summary": "The next employee benefits challenge isn&#39;t offering more benefits. It&#39;s reducing complexity.",
-    "publishedAt": "2026-08-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   }
 ];
@@ -805,7 +807,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMTcyLjIwOC4xMjYuMTAw when applying to show you read the job post completely (#RMTcyLjIwOC4xMjYuMTAw)",
+      "Please mention the word **STRIVING** and tag RMjAuMTY4LjEwMy41MQ== when applying to show you read the job post completely (#RMjAuMTY4LjEwMy41MQ==)",
       "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
@@ -873,7 +875,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RMTcyLjIwOC4xMjYuMTAw when applying to show you read the job post completely (#RMTcyLjIw"
+      "Please mention the word **OPENLY** and tag RMjAuMTY4LjEwMy41MQ== when applying to show you read the job post completely (#RMjAuMTY4"
     ],
     "skills": [
       "Agent"
@@ -886,4 +888,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-10T18:52:07.263Z';
+export const dataFetchedAt = '2026-08-11T01:21:56.794Z';
