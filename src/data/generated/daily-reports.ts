@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-13-auto",
+    "date": "2026-08-13",
+    "session": "auto",
+    "title": "2026-08-13 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-13-auto-1",
+        "emoji": "🚨",
+        "title": "Scaling AI agents with trustworthy data",
+        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+        "detail": "来源: MIT Technology Review。Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "agent",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+      },
+      {
+        "id": "sig-2026-08-13-auto-2",
+        "emoji": "💡",
+        "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
+        "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+        "detail": "来源: TechCrunch。Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"
+      },
+      {
+        "id": "sig-2026-08-13-auto-3",
+        "emoji": "🚨",
+        "title": "Hiring rebounds in July, but AI and economic uncertainty reshape demand",
+        "summary": "July payrolls fell, but hiring plans jumped 47%. See what Challenger, BLS and ManpowerGroup data reveal about how companies are hiring now. The post Hiring rebounds in July, but AI and economic uncertainty reshape demand appeared first on HR Executive .",
+        "detail": "来源: HR Executive。July payrolls fell, but hiring plans jumped 47%. See what Challenger, BLS and ManpowerGroup data reveal about how companies are hiring now. The post Hiring rebounds in July, but AI and economic uncertainty reshape demand appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/hiring-rebounds-in-july-but-ai-and-economic-uncertainty-reshape-demand/"
+      },
+      {
+        "id": "sig-2026-08-13-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Surgical WAM: A World-Action Model for Data-Efficient Surgic...",
+        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar",
+        "detail": "作者: Wenrui Bao, Tianyun Jiang, Zhiben Chen。Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models of surgical scenes. However, existing surgical world models use video primarily for simulation or policy evaluation, and rarely translate the learned dynamics into closed-loop control. This gap raises our central question: under a fixed budget of action-labeled demonstrations, does action-free video ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.11204v1"
+      },
+      {
+        "id": "sig-2026-08-13-auto-5",
+        "emoji": "💼",
+        "title": "AI Supermarket 正在招募 Aragon AI",
+        "summary": "岗位类型：业务+AI 复合岗。Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
+        "detail": "技能要求: RAG, OpenAI。Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward Used by aspiring and experienced trader",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "AI Supermarket"
+        ],
+        "sourceType": "tech",
+        "sourceName": "AI Supermarket",
+        "link": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-13-1",
+        "priority": "high",
+        "action": "关注「Scaling AI agents with trustworthy data」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-13-2",
+        "priority": "low",
+        "action": "关注「Grubhub&#8217;s $24M FTC settlement is f」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-13-3",
+        "priority": "high",
+        "action": "关注「Hiring rebounds in July, but AI and econ」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-13-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Surgical WAM: A World-Action Model 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-13-5",
+        "priority": "medium",
+        "action": "关注「AI Supermarket 正在招募 Aragon AI」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "AI Supermarket"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-13 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-08-13 00:00 - 2026-08-13 23:59"
+  },
+  {
     "id": "report-2026-08-12-auto",
     "date": "2026-08-12",
     "session": "auto",
