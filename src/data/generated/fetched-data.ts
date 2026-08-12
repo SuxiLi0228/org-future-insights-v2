@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-gemini-app-surges-to-one-billion-users-1786474152000",
-    "title": "Google’s Gemini app surges to one billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "id": "news-phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-8216-1786484398000",
+    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing&#8217; for months",
+    "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+    "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
@@ -31,6 +31,164 @@ export const generatedNews: NewsItem[] = [
     "title": "HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability",
     "link": "https://hrexecutive.com/hubspot-vp-ais-next-big-question-isnt-adoption-its-accountability/",
     "summary": "Two years into HubSpot’s AI-first journey, adoption and fluency were the easy part. Accountability and the \"missing middle\" are tougher. The post HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-9-stories-on-the-growing-pains-of-ai-at-work-1786482240000",
+    "title": "9 stories on the growing pains of AI at work",
+    "link": "https://www.hrdive.com/news/9-stories-on-the-growing-pains-of-ai-at-work/827450/",
+    "summary": "As artificial intelligence becomes commonplace at the worksite, nearly every part of the HR department is encountering the unintended consequences of its usage.",
+    "publishedAt": "2026-08-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dei-1786498228000",
+    "title": " 游戏、DEI与玩家的愤怒 ",
+    "link": "https://www.huxiu.com/article/4882443.html?f=rss",
+    "summary": "本文来自微信公众号： 扯氮集 ，作者：魏武挥二世 最近有个电影大火，属于口碑和票房上的双丰收。那就是诺兰的《奥德赛》。这个电影确实有所谓DEI元素，主要是选角上的。总体叙事——根据我看过的评价而不是我自己的观影——其实还是比较传统的，或者说毫不DEI。标签大概有这几个：诺兰、男性英雄、战争、怪物、神祇、返乡、复仇和IMAX奇观，讲真是和DEI没半毛钱关系。 我这人对影视剧的鉴赏很庸俗，没有啥高大上的理念。所以我也没办法判断，诺兰这部电影的双丰收，究竟是DEI选角的功劳大点，还是传统叙事的功劳大点。但我是一个极其悠久的资深游戏迷，行业的信息或多或少也会关心。所以这篇文章打算聊聊DEI与游戏。 你可能经常在简中视频网站上看到一些怒喷DEI的内容，并颇有些幸灾乐祸地说这些搞DEI的游戏亏到底裤都没了，最经常被拿出来当铁证的就是数亿刀成本的《星鸣特攻》字面意思上的血本无归，但事实果真如此么？ 答案，可能会让你有点扫兴——我先叠个甲。 一 讨论游戏和DEI，首先需要解决一个概念问题：什么叫DEI游戏？ 一个游戏里有女性主角、黑人角色、同性恋人物，不能据此认定它是一款DEI游戏，最多只能说该游戏有DEI元素（就像诺兰的电影）。《方舟生存进化》中的李美盈是同性恋，她与戴安娜是伴侣，同时又是整个故事里战斗力最强、行动最果断的人物之一。但玩家一般不会认为李美盈承担了教育玩家尊重同性恋的任务。她首先是",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786498121000",
+    "title": "从排队抢购到二手商“不敢收”，“黄金爱马仕”不好卖了？",
+    "link": "https://www.tmtpost.com/8099456.html",
+    "summary": "老铺黄金正在罕见开启大规模折扣促销。",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+    "publishedAt": "2026-08-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-accel-closes-oversubscribed-550m-india-fund-within-weeks-19--1786484351000",
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "publishedAt": "2026-08-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
+    "title": "State regulators turn up pressure on addiction drug coverage",
+    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
+    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
+    "publishedAt": "2026-08-11",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-haverford-college-settles-with-group-accusing-college-of-fos-1786482180000",
+    "title": "Haverford College settles with group accusing college of fostering antisemitism",
+    "link": "https://www.hrdive.com/news/haverford-settles-with-group-accusing-college-of-fostering-antisemitism/827596/",
+    "summary": "Under the settlement terms, the private institution will bar discrimination against Zionist, Jewish and Israeli students and employees.",
+    "publishedAt": "2026-08-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-80-1786497581000",
+    "title": " “花80块吃一肚子碳水”，年轻人开始逃离比格? ",
+    "link": "https://www.huxiu.com/article/4882439.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰生活报告 ，编辑：|杜都督，作者：凤凰WEEKLY 提问，北京孩子童年过生日，最有排面的事情是什么？ 答：是能在放学前站上讲台，抬高声音，通知全班。 “周六，比格见！” 此言一出，立刻会引来高声欢呼，大家都知道，这周六，稳了！ 毕竟那时候的比格，是一顿可以提前炫耀三天的饭。 披萨刚出炉就被端空，冰淇淋自己挖，饮料喝完随便续。 哪怕再吃就要横着出去了，手里也得再拿一块，毕竟来都来了。 但二十年后，336个月的北京孩子老G再回去一趟，顿时懵了： 披萨还是披萨，但为什么多了炒饭？ 再往前，还有饺子、粽子、胡辣汤，bur，这不是披萨自助吗？ 看到酸辣芋圆、土豆泥、红薯泥、酸奶泥，来的人已经摸不着头脑了： “说好的一百多种菜，你就这样招待我的？” 虽然，你很难说它不是披萨，或者不是自助。 但它就像老板交的社保，交是交了，按不加绩效的最低系数上的。 ……奇怪，曾经的北京孩子食堂，怎么就快变成“老头饭”了？ 北京孩子的食堂，开始被碳水淹没 老G说，当年的比格，真的是年轻人的天花板。 在披萨还没被外卖软件卷成19块9单人餐，自助餐也没开满每一座商场的年代。 一张门票进去，中餐西餐、冷热甜咸全摆在眼前，已经足够让一个孩子当场失去理智。 〓图片来源小红书@桃子🍑 那时候大家判断自助餐好坏的方式，也极其朴素： 菜越多，越值。 拿得越多，越赚。 至于现磨咖啡，窑炉温度，面团是否",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-200-1786497956000",
+    "title": "智平方200亿的大脑故事，等上市称重",
+    "link": "https://www.tmtpost.com/8099467.html",
+    "summary": "冲刺 IPO 的智平方，被产业链催熟。",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-professors-are-negotiating-the-new-realities-of-academic--1786392000000",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+    "publishedAt": "2026-08-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-uber-surprised-robotics-company-serve-by-selling-its-entire--1786478522000",
+    "title": "Uber surprised robotics company Serve by selling its entire stake",
+    "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+    "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+    "publishedAt": "2026-08-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
+    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
+    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
+    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
     "publishedAt": "2026-08-11",
     "source": "HR Executive",
     "tags": [
@@ -54,24 +212,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786456666000",
-    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-    "link": "https://www.qbitai.com/2026/08/470674.html",
-    "summary": "资本正从具身本体集体涌向触觉",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786464679000",
-    "title": " 当华尔街成为英伟达的销售渠道 ",
-    "link": "https://www.huxiu.com/article/4882407.html?f=rss",
-    "summary": "本文来自微信公众号： AI资本观 ，作者：沈砺 导读 8月10日，英伟达拉来六家全球金融机构，计划长期调动超过5000亿美元第三方资本，为客户建设AI算力基础设施。这意味着，芯片公司开始替客户解决“买得起”的问题。 本文要追问的是，当华尔街进入GPU销售链条，一张订单还能证明多少真实需求，融资能力又会怎样改写下一轮芯片竞争。 英伟达刚刚宣布了一个5000亿美元计划。 8月10日，它宣布分别与Apollo（阿波罗全球管理）、BlackRock（贝莱德）、Blackstone（黑石集团）、Brookfield（布鲁克菲尔德资产管理）、Goldman Sachs（高盛）和KKR（全球另类资产管理机构）建立AI算力基础设施融资平台，目标是长期调动超过5000亿美元第三方资本。 图｜真·大佬合影；图源：黄仁勋个人X页面分享。 但先别急着被这个数字带跑。英伟达没有融到5000亿美元，也没有承诺自己掏出5000亿美元。它真正做的，是让不同类型的长期资本为客户建设AI基础设施提供资金。 英伟达的公告说的是融资平台。但钱一旦接上销售链条，事情的性质就变了： 华尔街，正在变成英伟达的“销售渠道”。 对于今天英伟达的江湖地位来说，这事儿并不嚣张，甚至业内早有预期。只是能不能站住，先要把5000亿美元的账算清。 5000亿美元，先算清是谁的钱 先说这5000亿美元。六个平台彼此独立，这个数字是计划长期调动",
-    "publishedAt": "2026-08-11",
+    "id": "news-agent-1786496806000",
+    "title": " 中国互联网的二十年，和办公Agent 的这个夏天 ",
+    "link": "https://www.huxiu.com/article/4882436.html?f=rss",
+    "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating，原文标题：《中国互联网的二十年，和办公 Agent 的这个夏天》 杭州有两栋写字楼隔街相望。一栋楼顶在2026年春节前新立起一尊红金色的孙悟空，挨着钉钉那道闪电标志。另一栋楼顶，是飞书的标志。孙悟空立起来那天，照片很快在社交媒体上传开，不少人笑称，这是最朴实的商战，钉钉的意思，大概是要比飞书高一头。 这两家已经打了十年。从谁家的消息能看见已读，打到文档、表格和客户名单，最后一路打到了屋顶上。 不过楼顶那只猴子的两只手空着，没有挥棒。它要拿出来的东西，在一个多月后的发布会上。 3月17日，杭州西溪。钉钉创始人无招站上发布会的台。2015年他造出钉钉，2021年离开，2025年又被请了回来。这一天，他要发布一套新的AI助手，名字就叫悟空，标志用的正是楼顶那只猴子。 阿里CEO吴泳铭坐在台下。无招说，要把钉钉打碎，用AI重新炼一遍。从前是人使用钉钉，往后是AI使用钉钉。 讲到标志时，他把猴子头上的金箍摘了，说因为它已经是斗战胜佛。 台下鼓掌。 大闹天宫的那只猴子，没有走到灵山。他被压在五行山下五百年，出来时头上多了一个箍，一路被咒念得满地打滚，脾气一点一点被收拾干净。真正走到灵山的，已经是另一只猴子，不再想着自己当王。 斗战胜佛，是齐天大圣走完那条路之后得到的新名字。想走到那里，先得把当初那只猴子办掉。 这个故事讲悟空",
+    "publishedAt": "2026-08-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -81,183 +226,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mlcc-4-92-1786453077000",
-    "title": "昀冢科技定增豪赌MLCC背后：连亏4年，资产负债率超92%",
-    "link": "https://www.tmtpost.com/8099434.html",
-    "summary": "股价飙涨，“天时”已到。",
-    "publishedAt": "2026-08-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
-    "publishedAt": "2026-08-11",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-bluesky-s-active-user-base-is-shrinking-as-its-focus-expands-1786470374000",
-    "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-    "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-    "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-    "publishedAt": "2026-08-11",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
-    "title": "State regulators turn up pressure on addiction drug coverage",
-    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
-    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-most-workers-said-they-ve-stayed-home-due-to-unsafe-conditio-1786461960000",
-    "title": "Most workers said they’ve stayed home due to unsafe conditions",
-    "link": "https://www.hrdive.com/news/most-workers-stayed-home-due-to-unsafe-conditions/827546/",
-    "summary": "Severe weather events and infrastructure failures can cause significant problems, but almost 40% of workers said they are left to deal with these problems on their own.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-ai-1786448202000",
-    "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-    "link": "https://www.qbitai.com/2026/08/470621.html",
-    "summary": "算力竞赛的天平，正在向电力倾斜",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-sea-1786464231000",
-    "title": " SEA：爆拉背后，电商终于要起跳了？ ",
-    "link": "https://www.huxiu.com/article/4882405.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 东南亚小腾讯Sea，8月11日晚发榜了26年第2季财报，整体表现当季表现不错，三大板块的增长全面强劲，强于预期。利润上，最重要的电商板块利润率也继续走高。但美中不足是，公司依然处于高投入期，整体利润增速仅10%出头，还是有些增收不增利，具体来看： 1、整体表现——营收强于利润：本季Sea总营收近78亿，同比高增48%，比上季继续提速，且显著高于彭博预期的35%，且是三大板块全面好于预期，没有短板。 但是利润上，整体adj.EBITDA近9.2亿，反稍稍低于彭博预期，同比增速也不到11%。相比和强劲营收增长，落差显著。 2、电商利润确认触底：本次最重要的电商板块在增长和利润上的表现都不错。首先，GMV同比增速为28.5%，虽看似环比有所降速，但实际是在同期基数大幅走高的情况下仍然增长迅猛，好于彭博预期的26%。 价量驱动上，近两个季度的增长基本全部是靠单量增长推动，也再度验证了物流等投入，对刺激购物频次的提升确实有效。 同时，本季Shopee 3P平台变现率的显著环比提升了0.8pct（近4年来幅度最大）。因而推动电商营收同比增长了48%，加速增长，比市场预期大幅高出了超10pct。体现了Shopee平台在“提升变现”上的强大把控能力。 2、Monee增长仍强，但风险依然走高？本季贷款总额达111亿（包括表内表外），比彭博一致预期高出约",
-    "publishedAt": "2026-08-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786444703000",
-    "title": "新消费四姐妹这一年",
-    "link": "https://www.tmtpost.com/8098990.html",
-    "summary": "核心还是短期现实与长期叙事的张力。",
-    "publishedAt": "2026-08-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-professors-are-negotiating-the-new-realities-of-academic--1786392000000",
-    "title": "AI professors are negotiating the new realities of academic research",
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
-    "publishedAt": "2026-08-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-what-s-scaleup-europe-the-5-7b-fund-that-just-backed-satelli-1786470109000",
-    "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-    "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-    "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
-    "publishedAt": "2026-08-11",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
-    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
-    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
-    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-historic-labor-market-shrinkage-highlights-need-for-ai-econo-1786461960000",
-    "title": "‘Historic’ labor market shrinkage highlights need for AI, economist says",
-    "link": "https://www.hrdive.com/news/historic-labor-market-shrinkage-highlights-for-ai-brusuelas-jobs-employment/827550/",
-    "summary": "A pullback from employment by workers age 65 and older may partly allay concerns that demand for artificial intelligence will fall short of a coming surge in supply.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gemini-3-5-pro-1786440284000",
-    "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-    "link": "https://www.qbitai.com/2026/08/470576.html",
-    "summary": "谷歌算力分配内耗严重",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-12-5-1786444699000",
-    "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
-    "link": "https://www.tmtpost.com/8098796.html",
-    "summary": "阿里赢在商业和生态，腾讯赢在社交粘性，但字节赢的是生态闭环无短板。",
-    "publishedAt": "2026-08-11",
+    "id": "news-110-1786497168000",
+    "title": "一枚110亿美元的戒指，和「采信」这堵墙",
+    "link": "https://www.tmtpost.com/8099402.html",
+    "summary": "智能戒指进入医疗化前夜，无屏可穿戴正在成为医疗健康玩家的必争之地。从饰品到医疗器械，这条路还要走多久？",
+    "publishedAt": "2026-08-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -279,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-brad-lightcap-openai-8217-s-longtime-coo-is-leaving-to-8216--1786470094000",
-    "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "id": "news-fbi-says-cybercriminals-are-hacking-into-victims-8217-online-1786477103000",
+    "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
+    "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+    "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
@@ -304,38 +277,39 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-saying-please-or-asap-may-actually-slow-work-down-1786461960000",
-    "title": "Saying ‘please’ or ‘ASAP’ may actually slow work down",
-    "link": "https://www.hrdive.com/news/please-asap-slow-work-productivity/827565/",
-    "summary": "Additionally, deliverables without due dates were 2.5 times as likely to never be completed at all, a report said.&nbsp;",
+    "id": "news-most-workers-said-they-ve-stayed-home-due-to-unsafe-conditio-1786461960000",
+    "title": "Most workers said they’ve stayed home due to unsafe conditions",
+    "link": "https://www.hrdive.com/news/most-workers-stayed-home-due-to-unsafe-conditions/827546/",
+    "summary": "Almost 40% of workers said they are left to deal with problems like severe weather events and infrastructure failures on their own.",
     "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-claude-1786425140000",
-    "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-    "link": "https://www.qbitai.com/2026/08/470485.html",
-    "summary": "把下界推高了一大截",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
+    "id": "news-macbook-1786496400000",
+    "title": " 一个靠修 MacBook 吃饭的老哥，为啥天天跟苹果过不去？ ",
+    "link": "https://www.huxiu.com/article/4882233.html?f=rss",
+    "summary": "科技巨头们为了所谓的效率和成本，通常会把售后维修流程简化。所以当一台电脑出现故障后，售后很难只修补某一块元件，大部分只会给你替换一整块元件组或者主板。不过，在纽约的一个电脑维修铺里，一位年轻人并不这么想。为此他开启了长达十几年的维权之路，在他的努力下，苹果等巨头终于开放了个人维修，纽约州修订了相关立法。然而，他也被迫离开了家乡纽约；事情似乎并没有那么简单...",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
     "tags": [
       "china",
-      "ai",
+      "business",
       "technology"
     ]
   },
   {
-    "id": "news--1786444698000",
-    "title": "苹果的买方霸权，第一次在中国失效",
-    "link": "https://www.tmtpost.com/8098899.html",
-    "summary": "在成品市场拥有强大议价能力的苹果，实际上已被一家中国存储芯片厂的定价策略所阻碍。",
-    "publishedAt": "2026-08-11",
+    "id": "news--1786497163000",
+    "title": "“最强大脑”与“最强小脑”相互需要",
+    "link": "https://www.tmtpost.com/8099505.html",
+    "summary": "DeepSeek战略入股宇树科技，绑定3年合作，推动具身智能发展，AI向物理世界延伸。",
+    "publishedAt": "2026-08-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -357,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-1786470082000",
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "id": "news-openai-launches-chatgpt-desktop-app-for-linux-1786475735000",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
@@ -382,16 +356,43 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-stories-from-dmec26-1786395240000",
-    "title": "5 stories from DMEC26",
-    "link": "https://www.hrdive.com/news/5-stories-from-dmec26/827430/",
-    "summary": "Artificial intelligence may present opportunities to transform how people with disabilities approach work, according to the assistant secretary of labor.",
-    "publishedAt": "2026-08-10",
+    "id": "news-historic-labor-market-shrinkage-highlights-need-for-ai-econo-1786461960000",
+    "title": "‘Historic’ labor market shrinkage highlights need for AI, economist says",
+    "link": "https://www.hrdive.com/news/historic-labor-market-shrinkage-highlights-for-ai-brusuelas-jobs-employment/827550/",
+    "summary": "A pullback from employment by workers age 65 and older may partly allay concerns that demand for artificial intelligence will fall short of a coming surge in supply.",
+    "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1786496078000",
+    "title": " 邓煜菲尔兹奖工作的物理内核：微观可逆粒子为何造就不可逆宏观世界？ ",
+    "link": "https://www.huxiu.com/article/4882433.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：吉文成 2026年菲尔兹奖得主邓煜的工作，触及了物理学中一个深刻的问题：遵循时间可逆动力学的微观粒子，为何能构成具有明确时间方向的宏观世界？更具体地说，玻尔兹曼方程能否真正从底层粒子的可逆动力学中推导出来？邓煜与合作者证明，在适当条件下，从稀薄气体的硬球动力学出发，可以严格推导玻尔兹曼方程。这意味着，在一定条件下，描述宏观不可逆演化的方程确实能够从可逆的牛顿动力学中产生。他们的工作为从可逆的粒子动力学建立玻尔兹曼动力学提供了新的严格基础。本文将回到这一成果的物理内核，尝试回答“大量可逆粒子，为何造就了不可逆世界”这一基础问题。 真正的问题是什么？ 设想一个被挡板分成两半的透明盒子，带颜色的气体最初集中在一侧。抽掉挡板后，气体很快扩散到整个盒子，几乎不会自发聚集回原处。这种只朝一个方向发生的变化，正是宏观时间箭头最直观的表现。 所谓宏观不可逆，是指在孤立系统中，密度、温度和速度分布等宏观量通常从不均匀走向均匀，从非平衡走向平衡。但这并不意味着微观动力学失去了可逆性：反向演化仍然符合微观定律，只是它几乎不会从通常的宏观初态中自发出现。 为了研究这一问题，物理学家常把稀薄气体理想化为数量极其庞大的硬球（hard spheres），即代表组成气体的粒子，一个宏观气体系统中的粒子数通常可达1023量级。硬球模型保留了物理上的关键假设：粒子硬球在碰撞之间做匀",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786497024000",
+    "title": "中创新航，还在为曾经的低价竞争买单",
+    "link": "https://www.tmtpost.com/8099408.html",
+    "summary": "“香蕉电池”风波过后，中创新航急补“安全账”。",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
     ]
   }
@@ -900,7 +901,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RNDAuNzUuMTMxLjI2 when applying to show you read the job post completely (#RNDAuNzUuMTMxLjI2)",
+      "Please mention the word **STRIVING** and tag RMjAuMTYzLjQuMzY= when applying to show you read the job post completely (#RMjAuMTYzLjQuMzY=)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -926,6 +927,23 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
     "postedAt": "2026-08-07",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136429",
+    "title": "Assistant Store Manager Macpac Adelaide",
+    "company": "Macpac Ltd.",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Step into your next move, as an Assistant Store Manager in South Adelaide",
+      "A hands-on leadership role where you’ll be front and centre with your team, driving performance, owning your results, and bringing energy to the floor",
+      "Perfect for an experienced ASM or a driven Supervisor/Team Leader ready t"
+    ],
+    "skills": [],
+    "location": "Adelaide, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-macpac-adelaide-macpac-ltd-1136429",
+    "postedAt": "2026-08-06",
     "isNew": true
   },
   {
@@ -959,7 +977,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269",
     "postedAt": "2026-08-05",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136244",
@@ -968,7 +986,7 @@ export const generatedJobs: JobPosting[] = [
     "category": "hybrid_ai",
     "responsibilities": [
       "TL;DR: Let agents act autonomously and \"do the work\", but rely on the platform to strictly enforce the success or failure of those actions based on deterministic rules",
-      "Please mention the word **OPENLY** and tag RNDAuNzUuMTMxLjI2 when applying to show you read the job post completely (#RNDAuNzUuMTMx"
+      "Please mention the word **OPENLY** and tag RMjAuMTYzLjQuMzY= when applying to show you read the job post completely (#RMjAuMTYzLjQu"
     ],
     "skills": [
       "Agent"
@@ -977,8 +995,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vibes-on-rails-managing-ai-1136244",
     "postedAt": "2026-08-05",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-11T18:57:22.739Z';
+export const dataFetchedAt = '2026-08-12T01:38:38.886Z';
