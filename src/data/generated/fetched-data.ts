@@ -2,8 +2,194 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-our-35-young-innovators-and-the-censorship-indu-1786536600000",
+    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
+    "publishedAt": "2026-08-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-code-testing-startup-blacksmith-8217-s-valuation-jumps-al-1786532400000",
+    "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "publishedAt": "2026-08-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hiring-rebounds-in-july-but-ai-and-economic-uncertainty-resh-1786537855000",
+    "title": "Hiring rebounds in July, but AI and economic uncertainty reshape demand",
+    "link": "https://hrexecutive.com/hiring-rebounds-in-july-but-ai-and-economic-uncertainty-reshape-demand/",
+    "summary": "July payrolls fell, but hiring plans jumped 47%. See what Challenger, BLS and ManpowerGroup data reveal about how companies are hiring now. The post Hiring rebounds in July, but AI and economic uncertainty reshape demand appeared first on HR Executive .",
+    "publishedAt": "2026-08-12",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-9-stories-on-the-growing-pains-of-ai-at-work-1786482240000",
+    "title": "9 stories on the growing pains of AI at work",
+    "link": "https://www.hrdive.com/news/9-stories-on-the-growing-pains-of-ai-at-work/827450/",
+    "summary": "As artificial intelligence becomes commonplace at the worksite, nearly every part of the HR department is encountering the unintended consequences of its usage.",
+    "publishedAt": "2026-08-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gmc-80-token-1786532069000",
+    "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+    "link": "https://www.qbitai.com/2026/08/471030.html",
+    "summary": "免训练、开箱即用！",
+    "publishedAt": "2026-08-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786538260000",
+    "title": " 长江面条地理：长江源、金沙江、岷江、沱江、赤水河流域 ",
+    "link": "https://www.huxiu.com/article/4882665.html?f=rss",
+    "summary": "本文首发于2026年《中国三峡》4月号及公众号&ldquo;中国三峡杂志&rdquo;，来自微信公众号： 食客江树 ，作者：我是江树，原文标题：《长江面条地理之长江源、金沙江、岷江、沱江、赤水河流域》，题图来自：AI生成 中国食俗有南米北面之说，以秦岭或是淮河划分南北，长江流域都是当然的米食区。事实上，地处长江上游流域的三星堆遗址和下游流域的良渚遗址都有稻谷遗存，证明长江流域在中华之初就已是稻作文明。 而同期中原文明的主食尚不是面，郑州商城和安阳殷墟遗址中有大量的小米、黄米和大豆，而罕有麦粒。麦在《周礼》五谷中位列第四，前面是麻籽、黄米和小米，在《诗经》的&ldquo;黍稷重穋，禾麻菽麦&rdquo;中则列最后。麦食不受重视的原因是当时缺乏脱壳手段，麦粒煮成麦饭直接食用，口感粗粝不堪。 汉代末期石磨广泛使用，麦被碾壳磨成面粉，烤饼、馒头、面条等面食粉墨登场，唐代中期面食已成为北方优势主食，此后形成南米北面的风味对峙。 尽管长江流域是传统米食区，却并不排斥面食，今天长江各段及流域均能见到馒头、包子、油条、烤饼和糕点等面制品，风味迥异的面馆更是无处不在，丝毫不逊北方甚至更为丰富。 一、长江源 长江起源于青海西南部，其正源、南源、西源和北源为唐古拉山及可可西里山的冰峰和多处高山沼泽。长江源区域的平均海拔超过4500米，只能种植耐寒的青稞，不过青海全境有151.89万亩小麦，种植面积和产量",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1786532218000",
+    "title": "主业失血、解禁临门，君逸数码算力转型“三箭齐发”，时机值得细看",
+    "link": "https://www.tmtpost.com/8101147.html",
+    "summary": "解禁大潮“撞车”算力转型，实控人的心思你别猜",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-we-picked-35-of-the-world-s-top-young-scientists-and-eng-1786525720000",
+    "title": "How we picked 35 of the world’s top young scientists and engineers",
+    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+    "publishedAt": "2026-08-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-reservoir-raises-8m-to-make-water-heaters-that-people-and-th-1786528800000",
+    "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+    "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+    "summary": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+    "publishedAt": "2026-08-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-don-t-let-your-org-chart-dictate-your-ai-strategy-1786536958000",
+    "title": "Don’t let your org chart dictate your AI strategy",
+    "link": "https://hrexecutive.com/dont-let-your-org-chart-dictate-your-ai-strategy/",
+    "summary": "Fears around the job market are mounting right now and for those actively searching after a layoff, recent graduation or life transition, the questions are urgent. Will I find work? Which majors are AI-proof? Which roles are already disappearing? For those who aren&#8217;t searching, there&#8217;s an underlying version of the same fear. The loudest one—AI [&#8230;] The post Don’t let your org chart dictate your AI strategy appeared first on HR Executive .",
+    "publishedAt": "2026-08-12",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-haverford-college-settles-with-group-accusing-college-of-fos-1786482180000",
+    "title": "Haverford College settles with group accusing college of fostering antisemitism",
+    "link": "https://www.hrdive.com/news/haverford-settles-with-group-accusing-college-of-fostering-antisemitism/827596/",
+    "summary": "Under the settlement terms, the private institution will bar discrimination against Zionist, Jewish and Israeli students and employees.",
+    "publishedAt": "2026-08-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-2026-1786519879000",
+    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+    "link": "https://www.qbitai.com/2026/08/470901.html",
+    "summary": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
+    "publishedAt": "2026-08-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786537079000",
+    "title": " 中国城市，正在全球抢大学 ",
+    "link": "https://www.huxiu.com/article/4882671.html?f=rss",
+    "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年，海外高校正在密集进入中国。 从英国到法国、新加坡、俄罗斯等国，一批高校通过合作办学项目，落地中国不同城市。 这场看似发生在教育领域的扩容，背后其实是一场围绕人才、产业和未来竞争力的城市竞赛。 今年5月，教育部更新2026年度新获批中外合作办学机构和项目名单，一次性批准219个中外合作办学单元，包括86家新机构、133个新项目。 这创下了近年来单次审批量的新高，数量接近去年同期的两倍。 最突出的就是，进入中国的海外高校阵容明显扩大。 英国高校成为最大参与者。本轮新增办学单元中，约50个由英国高校参与，涉及30所英国大学，利兹大学、利物浦大学、兰卡斯特大学、伦敦玛丽女王大学等高校均在列。 与此同时，在英美等传统合作对象之外，法国、新加坡、俄罗斯、西班牙、匈牙利、古巴等国高校也参与其中，合作对象进一步向中东欧、东南亚和拉美等地区拓展。 国内高校的参与层级也在提升。 过去，中外合作办学更多集中在部分高校的国际项目。如今，985高校正密集入局。 比如，北京理工大学与意大利都灵理工大学联手打造的北理都灵理工学院，四川大学与新西兰奥克兰大学成立的奥克兰学院，哈尔滨工业大学与法国里昂商学院合办的里昂数据科学学院‌等。 在133个新增项目中，15个由985高校参与，包括浙江大学、中国人民大学、重庆大学、同济大学等高校。 变化更明显的，是合",
+    "publishedAt": "2026-08-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-officeclaw-officeace-agent-1786530074000",
+    "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
+    "link": "https://www.tmtpost.com/8100764.html",
+    "summary": "AI办公市场正在经历一轮重新布局。",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-how-the-8220-censorship-industrial-complex-8221-is-changing--1786471137000",
-    "title": "How the &#8220;censorship-industrial complex&#8221; is changing the Internet and US policy",
+    "title": "How the &#8220;censorship-industrial complex&#8221; is changing the internet and US policy",
     "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
     "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
     "publishedAt": "2026-08-11",
@@ -27,11 +213,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hubspot-vp-ai-8217-s-next-big-question-isn-8217-t-adoption-i-1786451423000",
-    "title": "HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability",
-    "link": "https://hrexecutive.com/hubspot-vp-ais-next-big-question-isnt-adoption-its-accountability/",
-    "summary": "Two years into HubSpot’s AI-first journey, adoption and fluency were the easy part. Accountability and the \"missing middle\" are tougher. The post HubSpot VP: AI&#8217;s next big question isn&#8217;t adoption, it&#8217;s accountability appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
+    "id": "news-fortitude-re-s-ai-hiring-playbook-faster-hires-fewer-exits-1786536016000",
+    "title": "Fortitude Re’s AI hiring playbook: Faster hires, fewer exits",
+    "link": "https://hrexecutive.com/fortitude-res-ai-hiring-playbook-faster-hires-fewer-exits/",
+    "summary": "Denise Nichols, Fortitude Re’s people officer, offers HR leaders a case study in using AI to redesign TA without automating the final call. The post Fortitude Re’s AI hiring playbook: Faster hires, fewer exits appeared first on HR Executive .",
+    "publishedAt": "2026-08-12",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -40,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-stories-on-the-growing-pains-of-ai-at-work-1786482240000",
-    "title": "9 stories on the growing pains of AI at work",
-    "link": "https://www.hrdive.com/news/9-stories-on-the-growing-pains-of-ai-at-work/827450/",
-    "summary": "As artificial intelligence becomes commonplace at the worksite, nearly every part of the HR department is encountering the unintended consequences of its usage.",
+    "id": "news-substantial-gaps-in-skills-are-hurting-manager-readiness-rep-1786467180000",
+    "title": "‘Substantial gaps’ in skills are hurting manager readiness, report says",
+    "link": "https://www.hrdive.com/news/substantial-gaps-in-skills-are-hurting-manager-readiness-report-says/827578/",
+    "summary": "&ldquo;The role of the manager has fundamentally changed,&rdquo; Mark Saddic, senior partner at Careerminds, said in a statement.",
     "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
@@ -67,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786518871000",
-    "title": " AI 正在制造内容繁荣，也正在制造审美平均值 ",
-    "link": "https://www.huxiu.com/article/4882554.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 打开今天的短视频平台，一个容易被忽略的变化正在发生：AI漫剧越来越多，AI广告越来越多，AI短片越来越精致。皮肤更细腻，运镜更流畅，场景更宏大——过去需要摄影棚、演员、灯光、美术和后期团队才能完成的画面，如今一个人、一台电脑、几个模型就能做出来。 从生产效率看，这几乎是一场内容工业革命。 但如果连续看几十部AI作品，会出现另一种感受：故事一直在变，画面却越来越像。 人物换了名字，却像来自同一个世界。题材从都市爱情换到古装穿越，再换到修仙玄幻，但脸型、姿态、表情、构图、运镜乃至情绪的表达方式，都有一种难以描述的熟悉感。有人站在窗边，有人缓慢回头，有人在雨里低头，有人在逆光中走来。女孩漂亮，男人英俊，城市精致，画面没有明显错误——但看得越多，越难记住任何一部。 AI正在制造一场前所未有的内容繁荣，也正在制造一种前所未有的审美平均值。 一、被拆掉的，只是两道门槛中的一道 过去，内容生产最昂贵的部分之一，是把想法变成现实。 导演脑子里出现一个镜头，不意味着这个镜头能够出现。他需要摄影机、演员、场地、灯光、服装、美术，需要大量工作人员，还需要预算和时间。一条三十秒的广告，背后可能是几十人的团队。 所以过去的创作同时受两道门槛限制：第一道是创意——你有没有一个好想法；第二道是生产——你有没有能力把它做",
+    "id": "news-ai-1786536797000",
+    "title": " 华尔街开始质疑科技巨头的AI故事 ",
+    "link": "https://www.huxiu.com/article/4882670.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：欧阳晓红 一座今天建成的数据中心，可能要在未来十几年中回收投资；装入其中的芯片，却可能在数年内面临新一代产品的竞争。即使算力需求继续增长，算力价格、设备利用率、能源成本和技术替代，也会不断改写最初的回报测算。 “利好”也读成“利空”？前有谷歌等科技巨头交出亮眼财报，后有英伟达抛出5000亿美元的产融合作计划，市场的回答却一言难尽。 在美国另类资产金融科技平台iCapital董事总经理兼首席投资策略师Sonali Basak看来，现金流压力正在提高AI（人工智能）投资的考核门槛，但尚未构成所有超大规模厂商（hyperscalers）的系统性融资危机；真正需要区分的是资产负债表缓冲、垂直整合能力以及AI收入的兑现速度。 或许，华尔街不再纠结于AI交易是否见底，抑或泡沫是否出清。7月清算估值与仓位之后，8月的“审问”开始深入利润表、现金流量表，乃至机房、电力与芯片交付现场。宏大叙事并未消失，只是被放到了“财务＋物理”的双重显微镜下。 8月10日，英伟达收跌2.86%，盘中一度下跌逾3%，单日市值蒸发超过700亿美元；费城半导体指数下跌2.94%，光通信龙头公司Coherent和Lumentum的股价也大幅回落。 当天，英伟达宣布分别与阿波罗、贝莱德、黑石、博枫、高盛和KKR签署谅解备忘录，拟建立独立的算力融资平台，逐步动员超过5000亿美元第三方",
     "publishedAt": "2026-08-12",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786518900000",
-    "title": "做空印度的不是AI，是数字时代的能力斩杀面",
-    "link": "https://www.tmtpost.com/8100322.html",
-    "summary": "AI如何做空一个国家？",
+    "id": "news--1786530007000",
+    "title": "张一鸣的「慢」，和整个行业的「快」",
+    "link": "https://www.tmtpost.com/8100294.html",
+    "summary": "大模型的虚火还在烧。",
     "publishedAt": "2026-08-12",
     "source": "钛媒体",
     "tags": [
@@ -120,11 +306,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-state-regulators-turn-up-pressure-on-addiction-drug-coverage-1786450519000",
-    "title": "State regulators turn up pressure on addiction drug coverage",
-    "link": "https://hrexecutive.com/state-regulators-turn-up-pressure-on-addiction-drug-coverage/",
-    "summary": "Two NAIC working groups will hear presentations on how insurers cover products like Nicorette and Narcan. The post State regulators turn up pressure on addiction drug coverage appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
+    "id": "news-new-bill-targets-pto-gap-for-full-time-workers-1786535100000",
+    "title": "New bill targets PTO gap for full-time workers",
+    "link": "https://hrexecutive.com/new-bill-targets-pto-gap-for-full-time-workers/",
+    "summary": "Every full-time worker in the United States would be guaranteed at least two weeks of paid vacation under a bill introduced by Sen. Bernie Sanders, I-Vt. The post New bill targets PTO gap for full-time workers appeared first on HR Executive .",
+    "publishedAt": "2026-08-12",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -133,17 +319,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-haverford-college-settles-with-group-accusing-college-of-fos-1786482180000",
-    "title": "Haverford College settles with group accusing college of fostering antisemitism",
-    "link": "https://www.hrdive.com/news/haverford-settles-with-group-accusing-college-of-fostering-antisemitism/827596/",
-    "summary": "Under the settlement terms, the private institution will bar discrimination against Zionist, Jewish and Israeli students and employees.",
+    "id": "news-most-workers-said-they-ve-stayed-home-due-to-unsafe-conditio-1786461960000",
+    "title": "Most workers said they’ve stayed home due to unsafe conditions",
+    "link": "https://www.hrdive.com/news/most-workers-stayed-home-due-to-unsafe-conditions/827546/",
+    "summary": "Almost 40% of workers said they are left to deal with problems like severe weather events and infrastructure failures on their own.",
     "publishedAt": "2026-08-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -160,10 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-00-1786518629000",
-    "title": " 把周杰伦换成张凌赫的可比克，00后买账吗？ ",
-    "link": "https://www.huxiu.com/article/4882552.html?f=rss",
-    "summary": "本文来自微信公众号： 惊蛰青年 ，作者：良豪 北上广深杭的地铁站里，最近出现了新的“黄蓝配”撞色广告。不是广受吐槽的鱼泡直聘，是一个没露正脸的年轻男人，手里捏着一片薯片，嘴角带笑。有人认出那是张凌赫，有人只注意到左上角那个logo——可比克。 什么？可比克居然还活着啊…… “可比克新代言人是谁啊？好难猜啊，首先排除张凌赫吧。”（图/社交媒体截图） 一种“死去的记忆突然攻击我”的感觉迅速蔓延。有人想起周杰伦在海边弹钢琴、在体育馆打篮球的广告片，想起那句“快乐每一刻，我的可比克”，想起学校门口小卖部货架上那包永远黄澄澄的薯片。还有那段自带BGM的广告，动次打次的节奏，让看电视长大的90后眼里亮光，也骗走了他们的零花钱。 当年的顶流薯片，换了一个新顶流来代言。只是这一次，走进地铁站看到广告的人，第一反应不是“哇”，是感叹“今夕是何年”。 可比克上一次得到广泛关注，是三年前母公司达利集团从港交所私有化退市，当时引发了一波不小的情怀杀。当然，可比克并没有因此成为时代的眼泪，依然在公众视野之外安安静静地生产薯片，直到这一次主动现身。 此番“重出江湖”，可比克显然有复制当年爆款密码的意味，想让更年轻一代为其打call。 但二十多年前，周杰伦还没和奶茶深度绑定，薯片还在零食排行榜C位上，可比克靠着便宜和明星代言就能卖遍全国。如今不一样了，零食货架上的选择多到让人挑花眼，薯片只是其中一种——还是最不",
+    "id": "news-cpi-9-1786536701000",
+    "title": " 今晚美国CPI料温和放缓，9月加息预期或再遭一击 ",
+    "link": "https://www.huxiu.com/article/4882669.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦，原文标题：《今晚美国CPI料温和放缓，9月加息预期或再遭一击！》 美联储9月是否加息，答案或许今晚揭晓。 美国劳工统计局将于美东时间周三上午8:30（北京时间周三晚20:30）公布7月CPI数据。市场普遍预期整体CPI环比上涨0.1%，核心CPI环比上涨0.2%，年率分别降至3.4%和2.5%。 在上周非农就业数据意外走软之后，这份报告将成为检验9月加息预期的关键试金石。若数据温和，市场可能进一步压低9月加息概率；若数据超预期偏热，则将令已呈鹰派态势的美联储面临更大压力。 当前，利率期货市场将9月加息概率定价于约50%，即所谓\"硬币正反面\"。上周非农数据显示7月就业人口减少2.3万，令加息预期一度明显降温，但随后油价反弹又将概率推回至均势。 与此同时，美联储7月议息会议上三名理事投票支持加息，多位非投票委员也明确表态倾向于收紧政策，使得鹰派声音在会议内部占据相当分量。今晚的CPI数据，将直接影响这一天平的倾斜方向。 温和读数大概率落地，但仍高于目标 综合高盛、Pantheon Macroeconomics等机构预测，本次CPI数据大概率落于预期区间之内，不太可能重现上月报告中的大幅波动。 高盛预计7月核心CPI环比上涨0.19%，年率约为2.47%，均略低于市场共识；整体CPI环比上涨仅0.05%，年率约为3.35%。能源价格下跌（",
     "publishedAt": "2026-08-12",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-model-s-x-optimus-1786518660000",
-    "title": "特斯拉为什么拆Model S/ X 产线，推进Optimus量产？",
-    "link": "https://www.tmtpost.com/8100084.html",
-    "summary": "这对Optimus意味着什么？",
+    "id": "news-ai-1873-1786529738000",
+    "title": "AI重演1873年：老百姓正悄悄成为算力的接盘者",
+    "link": "https://www.tmtpost.com/8100186.html",
+    "summary": "历史不会重演，但接盘的总是同一个角色。",
     "publishedAt": "2026-08-12",
     "source": "钛媒体",
     "tags": [
@@ -203,192 +390,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
     "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-    "publishedAt": "2026-08-11",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-zuckerberg-s-ai-vision-more-jobs-fewer-workers-and-personal--1786449606000",
-    "title": "Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’",
-    "link": "https://hrexecutive.com/zuckerbergs-ai-vision-more-jobs-fewer-workers-and-personal-superintelligence/",
-    "summary": "Mark Zuckerberg's new AI manifesto argues automation won't outpace human capability, and outlines what that means for HR leaders. The post Zuckerberg’s AI vision: More jobs, fewer workers and ‘personal superintelligence’ appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-substantial-gaps-in-skills-are-hurting-manager-readiness-rep-1786467180000",
-    "title": "‘Substantial gaps’ in skills are hurting manager readiness, report says",
-    "link": "https://www.hrdive.com/news/substantial-gaps-in-skills-are-hurting-manager-readiness-report-says/827578/",
-    "summary": "&ldquo;The role of the manager has fundamentally changed,&rdquo; Mark Saddic, senior partner at Careerminds, said in a statement.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786456666000",
-    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-    "link": "https://www.qbitai.com/2026/08/470674.html",
-    "summary": "资本正从具身本体集体涌向触觉",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1786518485000",
-    "title": " 一个没有眼睛的AI，教你怎么戴美瞳 ",
-    "link": "https://www.huxiu.com/article/4882549.html?f=rss",
-    "summary": "本文来自微信公众号： 杰哥科技眼 ，作者：杰哥 挺魔幻的。 方桃子，AI短剧里的虚拟女主角，接了个美瞳广告。视频里她一脸真诚地说：\"我的美瞳戴了一天都很舒服。\" 然后就被全网下架了。安徽滁州那边已经介入调查。 为什么下架？因为方桃子根本没有眼球。她连眼睛都没有，拿什么去戴美瞳？\"戴了一天\"这种话，从她嘴里说出来，跟从一块石头嘴里说出来没区别。 但这件事有意思的地方不在于荒诞，而在于它把AI商业化里那点见不得光的灰色逻辑，翻了个底朝天。 品牌方打的什么算盘 按《广告法》的说法，广告代言人得是\"自然人、法人或者其他组织\"。AI虚拟形象三条全不占，压根算不上\"代言人\"。所以品牌方心想：我让一个虚拟人说\"这东西好用\"，法律上不构成\"代言人推荐\"，你拿我没办法。 精明吧？但也就精明到这儿了。 《广告法》第四条写得清清楚楚——广告主对内容的真实性负全部责任。你让一个不存在的人编了一句\"戴了一天很舒服\"，这就是虚假宣传，跑不了的。MCN公司作为广告发布方，审核不严，连带责任也躲不掉。 所以不是AI钻了法律的空子，是品牌方以为自己钻了。实际上法律只是没定义\"AI代言人\"，但\"虚假宣传\"四个字，定义得明明白白。 问题其实出在另一个地方。 消费者看到屏幕上有个\"人\"在说话，本能就会信。管你是真人还是AI，那张脸、那个语气、那句\"我试过了\"，在观众心里产生的效果是一样的。 但真出了问题，消费者想找\"那个",
-    "publishedAt": "2026-08-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1786518457000",
-    "title": "语音输入法，叩响AI世界大门？",
-    "link": "https://www.tmtpost.com/8100215.html",
-    "summary": "系统级入口的丝滑口感。",
-    "publishedAt": "2026-08-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-agents-for-science-and-the-8220-censorship-i-1786363800000",
-    "title": "The Download: AI agents for science, and the &#8220;censorship-industrial complex&#8221;",
-    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
-    "publishedAt": "2026-08-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-uber-surprised-robotics-company-serve-by-selling-its-entire--1786478522000",
-    "title": "Uber surprised robotics company Serve by selling its entire stake",
-    "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-    "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-    "publishedAt": "2026-08-11",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-future-of-work-is-colliding-with-the-future-of-money-1786448749000",
-    "title": "The future of work is colliding with the future of money",
-    "link": "https://hrexecutive.com/the-future-of-work-is-colliding-with-the-future-of-money/",
-    "summary": "With money becoming a strategic talent tool that much of HR is still overlooking, the intersection of fintech and HR has become critical. The post The future of work is colliding with the future of money appeared first on HR Executive .",
-    "publishedAt": "2026-08-11",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-most-workers-said-they-ve-stayed-home-due-to-unsafe-conditio-1786461960000",
-    "title": "Most workers said they’ve stayed home due to unsafe conditions",
-    "link": "https://www.hrdive.com/news/most-workers-stayed-home-due-to-unsafe-conditions/827546/",
-    "summary": "Almost 40% of workers said they are left to deal with problems like severe weather events and infrastructure failures on their own.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-ai-1786448202000",
-    "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-    "link": "https://www.qbitai.com/2026/08/470621.html",
-    "summary": "算力竞赛的天平，正在向电力倾斜",
-    "publishedAt": "2026-08-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ios27-ai-iphone-1786518309000",
-    "title": " iOS27曝光苹果AI 收费：想让iPhone 更聪明？得加钱 ",
-    "link": "https://www.huxiu.com/article/4882550.html?f=rss",
-    "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱》 国内用户等Apple Intelligence等了两年。今年7月，「Apple智能」完成手机端侧生成式AI服务备案，国行版本终于离正式上线近了一步。 只是还没正式用上，收费的消息先传出来了。 长期关注苹果生态的内容创作者Stephen Robles发现，iOS 27 beta 5的家庭App新增了Apple Intelligence页面，其中已经出现了和iCloud+套餐挂钩的AI使用限制。 目前测试版中，2TB iCloud+支持5个摄像头使用AI摘要，12TB档位则增加到15个。页面下方还有一个升级选项，写着「升级iCloud+，可以获得更多Apple Intelligence使用量」。 事实上，2TB iCloud+早就支持接入不限数量的HomeKit Secure Video摄像头，监控录像也不会占用iCloud存储空间。同一个2TB套餐，你可以接入一大堆摄像头，但能用AI摘要的只有5个。 翻译一下，苹果的意思很明确：得加钱。 苹果在今年6月WWDC介绍新一代Apple Intelligence时，其实已经确认：包括图像生成在内，部分依赖服务器模型的功能会设置每日使用上限，而升级iCloud+套餐可以获得更高的使用量。 B",
-    "publishedAt": "2026-08-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-oa-1786518316000",
-    "title": "美国丛珊机构们，提前开抢OA上市的慈善红利",
-    "link": "https://www.tmtpost.com/8100192.html",
-    "summary": "科技圈大IPO最终可能让千亿只虾死得无痛一些？",
-    "publishedAt": "2026-08-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-for-science-needs-reasoning-not-just-data-1786352400000",
-    "title": "AI for science needs reasoning, not just data",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
-    "publishedAt": "2026-08-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-fbi-says-cybercriminals-are-hacking-into-victims-8217-online-1786477103000",
-    "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
-    "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-    "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
     "publishedAt": "2026-08-11",
     "source": "TechCrunch",
     "tags": [
@@ -832,7 +833,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMjAuMjkuMjkuMjE= when applying to show you read the job post completely (#RMjAuMjkuMjkuMjE=)",
+      "Please mention the word **STRIVING** and tag RMjAuMTg5LjE4OC40 when applying to show you read the job post completely (#RMjAuMTg5LjE4OC40)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -893,23 +894,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278",
     "postedAt": "2026-08-06",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136269",
-    "title": "Maintenance Technician",
-    "company": "The McBride Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL)",
-      "McBride (Caribbean) Limited – a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean a"
-    ],
-    "skills": [],
-    "location": "Oistins, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269",
-    "postedAt": "2026-08-05",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-12T07:19:17.381Z';
+export const dataFetchedAt = '2026-08-12T13:00:35.782Z';
