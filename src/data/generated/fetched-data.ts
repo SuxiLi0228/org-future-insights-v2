@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-scaling-ai-agents-with-trustworthy-data-1786553517000",
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+    "id": "news-scientists-just-created-female-clones-of-male-mice-1786561188000",
+    "title": "Scientists just created female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
     "publishedAt": "2026-08-12",
     "source": "MIT Technology Review",
     "tags": [
@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grubhub-8217-s-24m-ftc-settlement-is-finally-reaching-diners-1786559661000",
-    "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
-    "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-    "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+    "id": "news-some-claude-users-are-mad-that-anthropic-8217-s-new-watermar-1786573597000",
+    "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
     "publishedAt": "2026-08-12",
     "source": "TechCrunch",
     "tags": [
@@ -41,17 +41,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-you-re-too-old-to-know-this-zillow-faces-bias-claim-from-whi-1786551300000",
-    "title": "‘You’re too old to know this’: Zillow faces bias claim from White man",
-    "link": "https://www.hrdive.com/news/zillow-discrimination-lawsuit-complaint/827676/",
-    "summary": "More than another lawsuit in the &ldquo;reverse discrimination&rdquo; wave, the complaint emphasized age-based mockery, from songs in meetings to bald jokes.",
+    "id": "news-court-approves-forensic-review-of-ex-flex-cfo-candidate-s-pe-1786561920000",
+    "title": "Court approves forensic review of ex-Flex CFO candidate’s personal devices",
+    "link": "https://www.hrdive.com/news/court-approves-forensic-review-ex-flex-cfo-candidates-personal-devices-tradesecrets-legalissues/827664/",
+    "summary": "A &lsquo;forensic vendor&rsquo; will look through Alex Anderson&rsquo;s personal computer and devices to secure confidential information relating to Flex, according to the order.",
     "publishedAt": "2026-08-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -68,11 +67,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786532218000",
-    "title": "主业失血、解禁临门，君逸数码算力转型“三箭齐发”，时机值得细看",
-    "link": "https://www.tmtpost.com/8101147.html",
-    "summary": "解禁大潮“撞车”算力转型，实控人的心思你别猜",
-    "publishedAt": "2026-08-12",
+    "id": "news--1786583554000",
+    "title": " 掩盖失败的艺术 ",
+    "link": "https://www.huxiu.com/article/4882736.html?f=rss",
+    "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 本轮中东危机始于2023年10月7日哈马斯袭击以色列，这是伊朗多年来试图用代理人包围以色列的一次矛盾总爆发。 战前哈马斯和真主党控制着加沙和黎巴嫩南部，伊朗支持的什叶派民兵活跃于伊拉克，还有也门胡塞武装和叙利亚阿萨德政权助阵，“什叶派之弧”声势浩大。 但另一方面，美国和以色列毕竟是中东老牌霸权，历经五次中东战争而不倒，“什叶派之弧”只是阵势很大，并未经历过任何实战检验。 从战争初衷上讲，以色列一直希望借某个机会彻底解决“抵抗之弧”和伊朗核问题，美国则显得犹豫不决，拜登时期把战略重心放在乌克兰和“第一岛链”。 哈马斯袭击事件给内塔尼亚胡提供了千载难逢的借口，以色列遂对内大规模动员，从一开始目标就不限于加沙。 经过两年多的激战，加沙逐渐沦为一个外交难题，哈马斯武装力量遭受重创；黎巴嫩真主党同样被削弱，如今黎政府军已经敢光明正大挑战它了；叙利亚变天则是美国和以色列的意外之喜，令伊朗失去了本地区最重要的盟友…… 至2025年年中，以色列方面信心爆棚，有强烈的扩大战果倾向，“十二日战争”便是在如此背景下发生的。 “十二日战争”结束后，伊朗意识到危险并未消除，导弹生产工厂开始全负荷运行，“地下导弹城市”里的储备不断增加，仅半年时间库存就超过了战前水平。 据美国国务卿鲁比奥的说法：“伊朗每月生产超过100枚弹道导弹，如果不受控制，它很快将拥有如此多",
+    "publishedAt": "2026-08-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-13-1786579831000",
+    "title": "Edge AI Daily 早报（8月13日）",
+    "link": "https://www.tmtpost.com/8101557.html",
+    "summary": "Twitch默认输出内容训练亚马逊AI引爆创作者权益争议；美国推“硅走廊”重构贸易规则；SpaceX AI收入将超主业；Anthropic审计透明度受质疑；三星用Claude加速芯片验证；OpenAI市场份额稳固，Gemini崩塌；谷歌AMIE视频问诊达专家级；OpenAI元老出走为IPO蒙阴影；亚马逊强制AI模特标签。",
+    "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -82,22 +94,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-our-35-young-innovators-and-the-censorship-indu-1786536600000",
-    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
+    "id": "news-scaling-ai-agents-with-trustworthy-data-1786553517000",
+    "title": "Scaling AI agents with trustworthy data",
+    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
     "publishedAt": "2026-08-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-ai-coding-startup-cognition-reportedly-already-in-talks-to-r-1786558752000",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "id": "news-ai-nuclear-power-firm-fermi-finally-has-a-new-ceo-1786573440000",
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+    "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
     "publishedAt": "2026-08-12",
     "source": "TechCrunch",
     "tags": [
@@ -122,16 +135,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-most-4-year-graduates-work-in-same-state-as-their-alma-mater-1786542840000",
-    "title": "Most 4-year graduates work in same state as their alma mater, report finds",
-    "link": "https://www.hrdive.com/news/most-4-year-graduates-work-in-same-state-as-their-alma-mater-report-finds/827576/",
-    "summary": "States looking to grow their college-educated workforce should focus on &ldquo;homegrown talent&rdquo; over wooing outside workers, according to the analysis.",
+    "id": "news-apple-settles-eeoc-s-claims-the-company-denied-jewish-worker-1786561680000",
+    "title": "Apple settles EEOC’s claims the company denied Jewish worker his Sabbath days off",
+    "link": "https://www.hrdive.com/news/apple-settles-eeocs-claims-the-company-denied-jewish-worker-his-sabbath-da/827703/",
+    "summary": "Despite agreeing to the consent decree, the company denies the allegations, per court documents.",
     "publishedAt": "2026-08-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -148,11 +162,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-officeclaw-officeace-agent-1786530074000",
-    "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
-    "link": "https://www.tmtpost.com/8100764.html",
-    "summary": "AI办公市场正在经历一轮重新布局。",
-    "publishedAt": "2026-08-12",
+    "id": "news--1786583464000",
+    "title": " 字幕组这次可能要彻底死透了 ",
+    "link": "https://www.huxiu.com/article/4882734.html?f=rss",
+    "summary": "本文来自微信公众号： AI故事计划 ，编辑：张霞，作者：黑佳慧 \" 因版权收紧和网盘整治而日渐凋零的字幕组，又迎来了致命一击。 字幕组曾被誉为“文化摆渡人”。在翻译还是稀缺能力的年代，他们打破语言壁垒，在国内外影视爱好者间架起交流桥。 AI出现后，墙开始坍塌。平台纷纷将大模型嵌入播放器，观众打开AI字幕就能啃完剧情。一部剧的字幕初稿，也从原先的几天压缩到几分钟，个人译者用AI跑一遍就直接上传。 活越来越少，人越来越闲。有人开始怀疑：这个世界，还需要字幕组吗？ 两个人和一个AI 凌晨四点半，闹钟响起，王闪翻身下床打开电脑。对话框里，组长刚发来一版由AI翻完的字幕初稿。 今年是王闪做字幕翻译的第十一年。她在日本留过学，回国后在上海一家日企做运营。2015年去日本读语言学校时，主动尝试加入了YouTuber字幕组，2018年回国后受邀加入一家大型字幕组，一直做到现在。期间，她还陆续给几个虚拟主播小组做过切片翻译，直到去年春天，她才落进现在这个粉丝字幕组安定下来。 这类字幕组不服务大众，只盯着一个演员或IP，把对方所有的剧集和物料都翻个遍。 她眼下跟的，是一部正火的日腐周更剧。新剧每周凌晨一点在日本更新，一集只有23分钟，许多国内粉丝会踩点追更。 这个字幕组只有两个人。准确地说，是两个人和一个AI。 王闪负责精校，组长包揽时间轴、特效、压制上传等其余事务。为了抢在官方字幕上线前放出粉丝版，",
+    "publishedAt": "2026-08-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-chinese-ai-chatbots-begin-charging-for-the-transactions-they-1786579803000",
+    "title": "Chinese AI Chatbots Begin Charging for the Transactions They Generate",
+    "link": "https://www.tmtpost.com/8101569.html",
+    "summary": "Alibaba opened its Qwen app to third-party service agents on the same day ByteDance started applying a higher commission to hotel bookings that originate inside Doubao. Both moves mark a clear turn from free conversation toward transaction-based revenue.",
+    "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -162,10 +190,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-we-picked-35-of-the-world-s-top-young-scientists-and-eng-1786525720000",
-    "title": "How we picked 35 of the world’s top young scientists and engineers",
-    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+    "id": "news-the-download-our-35-young-innovators-and-the-censorship-indu-1786536600000",
+    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
     "publishedAt": "2026-08-12",
     "source": "MIT Technology Review",
     "tags": [
@@ -174,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-1786557060000",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+    "id": "news-northrop-8217-s-robot-space-mechanic-is-a-new-way-to-keep-sa-1786568021000",
+    "title": "Northrop&#8217;s robot space mechanic is a new way to keep satellites at work longer",
+    "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+    "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
     "publishedAt": "2026-08-12",
     "source": "TechCrunch",
     "tags": [
@@ -200,18 +228,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-than-half-of-employees-say-leaders-live-in-a-different--1786542840000",
-    "title": "More than half of employees say leaders live ‘in a different world’",
-    "link": "https://www.hrdive.com/news/Employees-say-leaders-live-in-a-different-world/827648/",
-    "summary": "Workers surveyed by Howdy said company leadership was held to a lower standard and doesn&rsquo;t follow its own policies on basic professionalism.",
+    "id": "news-you-re-too-old-to-know-this-zillow-faces-bias-claim-from-whi-1786551300000",
+    "title": "‘You’re too old to know this’: Zillow faces bias claim from White man",
+    "link": "https://www.hrdive.com/news/zillow-discrimination-lawsuit-complaint/827676/",
+    "summary": "More than another lawsuit in the &ldquo;reverse discrimination&rdquo; wave, the complaint emphasized age-based mockery, from songs in meetings to bald jokes.",
     "publishedAt": "2026-08-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -228,10 +255,115 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786530007000",
-    "title": "张一鸣的「慢」，和整个行业的「快」",
-    "link": "https://www.tmtpost.com/8100294.html",
-    "summary": "大模型的虚火还在烧。",
+    "id": "news--1786583266000",
+    "title": " 希尔顿万豪们，开始给业主减负让利了 ",
+    "link": "https://www.huxiu.com/article/4882732.html?f=rss",
+    "summary": "本文来自微信公众号： 酒管财经 ，作者：大晟 今年3月，北美51位手握近千家万豪酒店的业主联名给万豪集团高层写信，把积压多年的分账矛盾摆上台面。 没人想到，仅仅五个月之后，万豪就给出回应。 在今年Q2财报电话会上，万豪宣布启动一项名为“ITR激励”（推荐意愿）的返佣计划，北美地区万豪旗下符合条件的酒店最高可以获得相当于总客房收入50个基点的费用返还，下半年起计入。 几乎同一时间，希尔顿CEO在Q2财报会上表示已经降低全球大部分酒店支付的忠诚度费用，还推出Hilton Rise，并准备更灵活地处理酒店装修和品牌标准。 两大国际头部酒店巨头近乎同步的妥协让利，似乎并非巧合。 一场由业主倒逼、品牌方让利降本的酒店加盟模式的优化调整，似乎已经在全球展开。 万豪希尔顿同步让利 最近，希尔顿、万豪先后在Q2财报电话会官宣业主扶持政策。 两套方案思路高度相似，都是以客户满意度为考核标准，达标门店直接拿到费用减免，但底层资金来源、让利幅度存在一定区别。 先讲万豪推出的ITR激励计划。 万豪CFO在财报电话会上明确全部细则，覆盖美国、加拿大所有加盟门店，核心规则有两点。 第一项规则，门店考核评判标准和ITR客人推荐评分相互绑定，入住客人离店填写调研问卷给出较高评价，门店整体客人口碑达到规定标准，酒店每年最高可以领取等同于全年】总营收五十个基点的返还补贴。 我们可以简单做一组数字换算，一家全年客房经营",
+    "publishedAt": "2026-08-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-105-1786576800000",
+    "title": "【钛晨报】央行最新定调：综合运用并适时调整货币政策工具，保持流动性充裕；二季度新AI产品影响105亿利润，腾讯总裁回应；荣耀发布首款机器人手机",
+    "link": "https://www.tmtpost.com/8101406.html",
+    "summary": "年内最贵新股频准激光：网上投资者放弃认购1.08万股；段永平对泡泡玛特持股比例从5.55%升至7.70%；李宁否认签约法国球星姆巴佩；天孚通信：拟推228.87万股限制性股票激励计划；央行将在8月14日、17日至19日开展隔夜逆回购操作；7月中国新能源汽车新车销量占比首超60%。",
+    "publishedAt": "2026-08-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-we-picked-35-of-the-world-s-top-young-scientists-and-eng-1786525720000",
+    "title": "How we picked 35 of the world’s top young scientists and engineers",
+    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+    "publishedAt": "2026-08-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-amazon-will-train-on-twitch-streamers-8217-content-by-defaul-1786565440000",
+    "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "publishedAt": "2026-08-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-new-bill-targets-pto-gap-for-full-time-workers-1786535100000",
+    "title": "New bill targets PTO gap for full-time workers",
+    "link": "https://hrexecutive.com/new-bill-targets-pto-gap-for-full-time-workers/",
+    "summary": "Every full-time worker in the United States would be guaranteed at least two weeks of paid vacation under a bill introduced by Sen. Bernie Sanders, I-Vt. The post New bill targets PTO gap for full-time workers appeared first on HR Executive .",
+    "publishedAt": "2026-08-12",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-most-4-year-graduates-work-in-same-state-as-their-alma-mater-1786542840000",
+    "title": "Most 4-year graduates work in same state as their alma mater, report finds",
+    "link": "https://www.hrdive.com/news/most-4-year-graduates-work-in-same-state-as-their-alma-mater-report-finds/827576/",
+    "summary": "States looking to grow their college-educated workforce should focus on &ldquo;homegrown talent&rdquo; over wooing outside workers, according to the analysis.",
+    "publishedAt": "2026-08-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-gmc-80-token-1786532069000",
+    "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+    "link": "https://www.qbitai.com/2026/08/471030.html",
+    "summary": "免训练、开箱即用！",
+    "publishedAt": "2026-08-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-26-gelsinger-1786582590000",
+    "title": " 26年后的重演：小美之死，为什么比Gelsinger悲剧更恶劣 ",
+    "link": "https://www.huxiu.com/article/4882730.html?f=rss",
+    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年7月23日，《科学》联合“撤稿观察”曝光上海交通大学仇子龙团队与新华医院试图用AAV基因编辑治疗，治愈6岁女孩小美的中枢神经系统遗传病，但治疗引发了严重副作用，导致小美死亡。 对基因治疗历史有了解的人很难不联想到27年前，基因治疗上一个研发热潮时的一起悲剧：1999年，18岁的Jesse Gelsinger在宾夕法尼亚大学展开的一项基因治疗临床试验中因病毒载体引发的严重免疫反应去世（这位少年之死，改变了基因治疗）。 都是试验性的基因治疗，都是年轻孩子死于病毒载体带来的副作用，一切似曾相识。 但如果我们还希望从小美的悲剧中吸取教训，一个必要的起点是认识到小美之死的性质远比Jesse Gelsinger事件更为恶劣。 第一，26年的间隔本身就是罪证。 Jesse Gelsinger事件发生在1999年，小美去世是2025年。这26年里，Jesse Gelsinger是放进医学伦理教科书的案例，是所有基因治疗从业者乃至医药研发人员都无法回避的教训。 一个教科书教了26年的悲剧教训，26年后复制一遍，本身就是属于性质极端恶劣。 第二，1999年的未知，已是2025年的常识 Jesse Gelsinger悲剧发生时基因治疗的很多风险未知。很可能导致Jesse死亡的原因，大剂量腺病毒能激发强烈的先天免疫反应，当时没人知",
+    "publishedAt": "2026-08-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786532218000",
+    "title": "主业失血、解禁临门，君逸数码算力转型“三箭齐发”，时机值得细看",
+    "link": "https://www.tmtpost.com/8101147.html",
+    "summary": "解禁大潮“撞车”算力转型，实控人的心思你别猜",
     "publishedAt": "2026-08-12",
     "source": "钛媒体",
     "tags": [
@@ -254,522 +386,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-e-1786556489000",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "id": "news-grubhub-8217-s-24m-ftc-settlement-is-finally-reaching-diners-1786559661000",
+    "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
+    "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+    "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
     "publishedAt": "2026-08-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-new-bill-targets-pto-gap-for-full-time-workers-1786535100000",
-    "title": "New bill targets PTO gap for full-time workers",
-    "link": "https://hrexecutive.com/new-bill-targets-pto-gap-for-full-time-workers/",
-    "summary": "Every full-time worker in the United States would be guaranteed at least two weeks of paid vacation under a bill introduced by Sen. Bernie Sanders, I-Vt. The post New bill targets PTO gap for full-time workers appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-9-stories-on-the-growing-pains-of-ai-at-work-1786482240000",
-    "title": "9 stories on the growing pains of AI at work",
-    "link": "https://www.hrdive.com/news/9-stories-on-the-growing-pains-of-ai-at-work/827450/",
-    "summary": "As artificial intelligence becomes commonplace at the worksite, nearly every part of the HR department is encountering the unintended consequences of its usage.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gmc-80-token-1786532069000",
-    "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-    "link": "https://www.qbitai.com/2026/08/471030.html",
-    "summary": "免训练、开箱即用！",
-    "publishedAt": "2026-08-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1873-1786529738000",
-    "title": "AI重演1873年：老百姓正悄悄成为算力的接盘者",
-    "link": "https://www.tmtpost.com/8100186.html",
-    "summary": "历史不会重演，但接盘的总是同一个角色。",
-    "publishedAt": "2026-08-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-the-next-big-thing-in-llms-and-how-ai-academic--1786450200000",
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
-    "publishedAt": "2026-08-11",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-uber-freight-reportedly-investigating-after-hacking-group-cl-1786554941000",
-    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-    "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-    "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-    "publishedAt": "2026-08-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-3-in-4-employees-have-skipped-work-over-safety-concerns-1786534207000",
-    "title": "3 in 4 employees have skipped work over safety concerns",
-    "link": "https://hrexecutive.com/3-in-4-employees-have-skipped-work-over-safety-concerns/",
-    "summary": "A workplace safety survey by Envoy reveals that three-quarters of workers surveyed have missed time due to issues such as weather or violence. The post 3 in 4 employees have skipped work over safety concerns appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-haverford-college-settles-with-group-accusing-college-of-fos-1786482180000",
-    "title": "Haverford College settles with group accusing college of fostering antisemitism",
-    "link": "https://www.hrdive.com/news/haverford-settles-with-group-accusing-college-of-fostering-antisemitism/827596/",
-    "summary": "Under the settlement terms, the private institution will bar discrimination against Zionist, Jewish and Israeli students and employees.",
-    "publishedAt": "2026-08-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-1786519879000",
-    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-    "link": "https://www.qbitai.com/2026/08/470901.html",
-    "summary": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
-    "publishedAt": "2026-08-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-12-geo-1786529734000",
-    "title": "豆包收12%佣金，第一批做GEO的酒店偷偷笑了",
-    "link": "https://www.tmtpost.com/8099531.html",
-    "summary": "越早入局新获客渠道的酒店，越早获利。",
-    "publishedAt": "2026-08-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2608.11204v1",
-    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-    "authors": [
-      "Wenrui Bao",
-      "Tianyun Jiang",
-      "Zhiben Chen",
-      "Ser-Nam Lim",
-      "Peter D. Peng",
-      "Yuzhang Shang"
-    ],
-    "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models of surgical scenes. However, existing surgical world models use video primarily for simulation or policy evaluation, and rarely translate the learned dynamics into closed-loop control. This gap raises our central question: under a fixed budget of action-labeled demonstrations, does action-free video ",
-    "link": "http://arxiv.org/abs/2608.11204v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11200v1",
-    "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-    "authors": [
-      "Chen Lyu",
-      "Xingwei Tan",
-      "Simon Cullen",
-      "Shelley Wilson",
-      "Lois Arthurs",
-      "Arshad Jhumka",
-      "Gabriele Pergola"
-    ],
-    "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversationally. Privacy and legal constraints make it difficult the release of large-scale real conversation datasets; existing work has mostly focused on sentence-level toxicity of online abuses, leaving a gap in modelling abuse as a relational and temporally unfolding phenomenon. In this work, we focus on modelling Violence Against Women and Girls (VAWG) scenarios as multi-turn dialogues. We introduce Con",
-    "link": "http://arxiv.org/abs/2608.11200v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11197v1",
-    "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-    "authors": [
-      "Nikolai Bolik",
-      "Lennart Stöpler",
-      "Artur Andrzejak"
-    ],
-    "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measure is meaningful: SAE latent sets can recover union-like compositional structure in controlled toy models and induce semantically coherent neighborhoods in natural text. Extending the human-concepts analysis to SAE set similarities, we find that SAE activation sets do not recover human category boundaries or within-category typicality more faithfully than dense embeddings or residual-stream states,",
-    "link": "http://arxiv.org/abs/2608.11197v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11195v1",
-    "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
-    "authors": [
-      "Alan Li",
-      "Rahul Saha",
-      "Anton Xue",
-      "Swarat Chaudhuri",
-      "Adam Klivans",
-      "Pravesh K Kothari",
-      "Raghu Meka"
-    ],
-    "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently tightened the best known bounds to \\[ \\frac{6π}{11} \\;\\le\\; K_G \\;\\le\\; \\fracπ{2\\log(1+\\sqrt2)} - 10^{-4}. \\] Crucially, these improvements were achieved using an AI research system that could arrive at insights deemed novel by domain experts. We give a detailed discussion of our experience using AI for mathematics research, particularly touching upon its strengths and weaknesses, as well as our exp",
-    "link": "http://arxiv.org/abs/2608.11195v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.AI",
-      "cs.CC",
-      "cs.HC",
-      "math.FA"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11191v1",
-    "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-    "authors": [
-      "Shiyu Xuan",
-      "Zechao Li"
-    ],
-    "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration. To overcome this, we propose a Test-Time Self-Evolving framework that enables models to improve after deployment without human-annotated ground truth. It constructs a closed-loop of Exploration, Evaluation, Reflection, and Internalization. Specifically, the agent first explores unseen interfaces by predicting grounding coordinates for given instructions. To evaluate these explorations, we introduce an MLLM-based Reflector to assess the generated results and provide the correspo",
-    "link": "http://arxiv.org/abs/2608.11191v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11181v1",
-    "title": "How to Verify Consistency of Probabilistic Claims",
-    "authors": [
-      "Orr Paradise",
-      "Oliver Richardson",
-      "Yoshua Bengio",
-      "Shafi Goldwasser"
-    ],
-    "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially caused by an AI action. We construct an interactive PCP as follows. Let a predictive model be specified by a probability circuit P and a circuit Q which outputs confidence in predictions. Together, P and Q implicitly specify exponentially many probabilistic claims. We show a protocol in which a polynomial-time verifier can verify the approximate consistency of (P,Q). The verifier is given the pair of circuits (P,Q), which it evaluates at only a few points; alongside them it is given a proof orac",
-    "link": "http://arxiv.org/abs/2608.11181v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CC",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11173v1",
-    "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
-    "authors": [
-      "Eric A. F. Reinhardt",
-      "Adam J. Hauser"
-    ],
-    "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by-component quantum realization. Attention scores are Hadamard-test statistics on block-encoded projections of amplitude-encoded inputs. The exponential softmax is the interior of a cosine-squared family generated by Born-rule measurement under an exact bijection, whose boundary expresses sparse attention with exact zeros at finite parameter values. The softmax temperature is a repetition count where post-selected measurement rounds realize discretized inverse temperature exactly. Value aggregati",
-    "link": "http://arxiv.org/abs/2608.11173v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "quant-ph",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11171v1",
-    "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
-    "authors": [
-      "Rahul Gupta",
-      "Abhinav Mohanty",
-      "Anaelia Ovalle",
-      "Anil Ramakrishna",
-      "Anubrata Das",
-      "Apurv Verma",
-      "Jwala Dhamala",
-      "Ninareh Mehrabi",
-      "Tharindu Kumarage",
-      "Yada Pruksachatkun",
-      "Yang Trista Cao",
-      "Kai-Wei Chang",
-      "Aram Galstyan"
-    ],
-    "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proactive control of generative systems. We synthesize insights from all 144 proceedings papers, classifying them along six trust dimensions grounded in established frameworks (TrustLLM, DecodingTrust). We observe co-occurrences with capability emergence. The release of the first high-impact chat models activated all trust dimensions simultaneously, while subsequent model generations shifted focus toward truthfulness and safety alignment. Analysis from the classification study reveals that truthfuln",
-    "link": "http://arxiv.org/abs/2608.11171v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CY"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11167v1",
-    "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
-    "authors": [
-      "Changhao Xiang",
-      "Shangyu Xing",
-      "Zhen Wu",
-      "Jianbing Zhang",
-      "Xinyu Dai"
-    ],
-    "summary": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle to infer the correspondences between multiple visual objects and textual entities from the global representation, leading to data inefficiency and suboptimal semantic grounding. To address this, we propose MultiModal Code-Switching (MMCS), a novel pretraining paradigm that provides explicit object-level supervision. Inspired by the linguistic phenomenon of code-switching, MMCS interleaves vision and language by replacing textual entities with their corresponding visual objects, enforcing local vision-language groun",
-    "link": "http://arxiv.org/abs/2608.11167v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CV",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11162v1",
-    "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
-    "authors": [
-      "Nguyen Thai Anh",
-      "Truong Viet Vu",
-      "Tran Thien Thanh",
-      "Vo Nguyen Quoc Bao",
-      "Ngo Hoang Tu"
-    ],
-    "summary": "The Naive Bayes (NB) classifier remains a standard choice for categorical data, yet its widely used smoothing rules, such as Laplace, Lidstone, Krichevsky-Trofimov, and the $m$-estimate, all prescribe a fixed smoothing strength that ignores feature cardinality, sample size, and class imbalance, inducing a non-vanishing bias on modern high-cardinality tabular data. We propose hierarchical empirical-Bayes Naive Bayes (HEB-NB), in which each class-feature conditional probability is smoothed by a Dirichlet prior whose concentration is learned data-adaptively via Type-II maximum likelihood, enabling principled information sharing across classes while retaining closed-form inference. We further introduce HEB average one-dependence estimators (HEB-AODE), showing that the adaptive smoothing transf",
-    "link": "http://arxiv.org/abs/2608.11162v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11156v1",
-    "title": "Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey",
-    "authors": [
-      "Pavel Averin",
-      "Theodoros Moysiadis",
-      "Ioannis Katakis"
-    ],
-    "summary": "Conditional Independence (CI) tests are the statistical engine of constraint-based causal discovery: in algorithms such as PC (Peter-Clark) and FCI (Fast Causal Inference), skeleton pruning and key orientations follow directly from CI decisions. This survey reviews CI testing with emphasis on assumptions, robustness, and scalability in high-dimensional and mixed-type settings common in biomedical domains. The survey organizes widely used CI methods into six families: partial-correlation, contingency-table, regression, nearest-neighbor, kernel, and machine-learning-based. Special emphasis is provided on the robustness layers that address the limitations of these families. For each family, the survey examines when CI decisions reflect the data-generating distribution and when they fail. By t",
-    "link": "http://arxiv.org/abs/2608.11156v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "stat.ML",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11154v1",
-    "title": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
-    "authors": [
-      "Shiqi Huang",
-      "Jiani He",
-      "Dingyan Shang",
-      "Yihua Xu",
-      "Jize Li",
-      "Yan Lyu",
-      "Lashimi Muraleedharan Nair"
-    ],
-    "summary": "Detecting or attributing a supply-chain disruption is not the same as selecting the intervention that maximizes recoverable net value. We present CriticalSCM-Bench v1, a controlled synthetic benchmark with causal ground truth, paired factual/counterfactual rollouts, and an explicit net-value objective. Relative to a full-information train-selected static benchmark, LambdaMART improves median normalized net value by 5.7--16.2\\%, with paired statistical support on the semiconductor and critical-material archetypes but not on digital infrastructure. On digital infrastructure, a domain-informed constant-buffer policy remains stronger, showing that greater model complexity is not uniformly justified. Across partial and delayed settings, LambdaMART retains 33--75\\% of full-clamp value. Stress te",
-    "link": "http://arxiv.org/abs/2608.11154v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11152v1",
-    "title": "Scheduling Mixed RL Rollouts Beyond Prefix Locality",
-    "authors": [
-      "Zetao Hong",
-      "Song Yuan",
-      "Yuanhao Ding",
-      "Yibo Zhu",
-      "Daxin Jiang",
-      "Zhibin Wang",
-      "Chen Tian"
-    ],
-    "summary": "Modern reinforcement learning (RL) post-training pipelines for large language models (LLMs) increasingly combine rollout workloads across multiple domains and feedback paradigms. Prefix-aware routing improves inference efficiency through cache reuse and load balancing, but it does not control how heterogeneous rollout sessions compete for KV-cache capacity. When reinforcement learning with verifiable rewards (RLVR), reinforcement learning from human feedback (RLHF), and agentic rollouts share an asynchronous inference service, their distinct sequence structures, interaction patterns, and KV-residency times create substantially different serving demands. Rollout scheduling must account for this heterogeneity without distorting the workload mixture specified by the trainer. We present MISA-T",
-    "link": "http://arxiv.org/abs/2608.11152v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.DC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11146v1",
-    "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
-    "authors": [
-      "Abigail Oppong",
-      "P Sam Sahil",
-      "Tadesse Destaw Belay",
-      "Maryam Ibrahim Mukhtar",
-      "Esmael Ahmed Abdu",
-      "Tassallah Abdullahi",
-      "Jessica Oparebea",
-      "Saminu Mohammad Aliyu",
-      "Idris Abdulmumin",
-      "Abubakar Juma Chilala",
-      "Nicholaus Dismas Ladislaus",
-      "Alfred Malengo Kondoro",
-      "Lemofouet Valdini Douglace",
-      "Shamsuddeen Hassan Muhammad",
-      "Seid Muhie Yimam"
-    ],
-    "summary": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize across multilingual settings. However, this assumption remains underexplored and exposes a vulnerability in low-resource languages. We investigate cross-lingual safety transfer in four African languages, Twi, Hausa, Amharic, and Swahili, using LoDNA, a new safety dataset that pairs literal translations with culturally localized prompts. To move beyond generation-based evaluation, we propose a latent geometric framework that probes hidden-state refusal representations in LLMs. Our experimental results show that cross-lingual safety transfer is severely limited; harmful prompts retain less than 10% of the English refusal signal across most language-model pairs. Literal and l",
-    "link": "http://arxiv.org/abs/2608.11146v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11143v1",
-    "title": "A Recommendation System Approach for Interference-Robust Sensor Subset Selection",
-    "authors": [
-      "Kaan Buyukkalayci",
-      "Kyle Pak",
-      "Merve Karakas",
-      "Christina Fragouli"
-    ],
-    "summary": "This paper develops a method for sensor-subset selection for tracking. Prior work showed that low-cost acoustic Received Signal Strength Indicator (RSSI) measurements can be used to recommend subsets of sensor nodes whose expensive sensing modalities, such as cameras, can achieve high tracking accuracy. While efficient, RSSI-based approaches are challenged by acoustic interference. We propose a recommendation-system-inspired framework that instead leverages frequency-band acoustic features and a Two-Tower Multi-Layer Perceptron (MLP) architecture to efficiently score candidate sensor subsets. Experimental results on outdoor vehicle-tracking deployments show that the proposed method can improve accuracy by around 20\\% over the RSSI baseline while maintaining the low computational overhead r",
-    "link": "http://arxiv.org/abs/2608.11143v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11138v1",
-    "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
-    "authors": [
-      "Minsoo Kim",
-      "Sungyoung Ji",
-      "Kisung Moon",
-      "Ilyong Yoon"
-    ],
-    "summary": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of its attention pathways. We instantiate this as ASMI (Attention-Subnetwork Mutual Information), a training-free estimator that masks attention heads and measures the BALD mutual information among the resulting subnetworks, with a semantic-agreement kernel to discount surface-form disagreement. The signal is not a restatement of output confidence: on grounded QA an out-of-fold test shows it adds error-predictive information beyond single-pass confidence and entropy, concentrated in \\emph{confident-but-fragile} predictions, where acting on it roughly halves the retained error of a confidence filte",
-    "link": "http://arxiv.org/abs/2608.11138v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11136v1",
-    "title": "sLTN: Structural Logic Tensor Networks",
-    "authors": [
-      "Davide Rinaldi",
-      "Luciano Serafini"
-    ],
-    "summary": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable learning. However, the original formulation of LTN is primarily suited to data represented as flat collections of individuals, and does not explicitly capture structural organization such as temporal order, sequential position, or graph connectivity. We introduce sLTN, an extension of LTN that makes structural dimensions first-class elements of the language. Structural dimensions represent named tensor axes associated with domain-specific organization, such as time steps, sequence positions, or graph nodes. They can be quantified explicitly, related through structural relations, and used to expre",
-    "link": "http://arxiv.org/abs/2608.11136v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11123v1",
-    "title": "AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations",
-    "authors": [
-      "Vladimir Iglovikov"
-    ],
-    "summary": "Augmentation can corrupt a training example when an image and its annotations receive different random changes. A crop must use the same coordinates for the image, mask, boxes, keypoints, stereo views, video frames, or volume. Code paths that choose these values separately can silently misalign the data. AlbumentationsX keeps the transform list, probabilities, annotation settings, and random seed in one Compose object. Each call chooses random values once and applies them to every supported part of the training example. The library keeps each object's mask, box, and label together and lets projects add their own transforms. It can also save the pipeline definition, show what happened in one call, and run that call again. The examples place Compose after files have been decoded into arrays ",
-    "link": "http://arxiv.org/abs/2608.11123v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11114v1",
-    "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
-    "authors": [
-      "Kiran Madhusudhanan",
-      "Christian Klötergens",
-      "Lars Schmidt-Thieme",
-      "Vijaya Krishna Yalavarthi"
-    ],
-    "summary": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative Log-Likelihood (NLL) objectives, while modern-flexible generative models, including Normalizing Flows and Diffusion Models, typically rely on costly Monte Carlo sampling and may yield suboptimal mean estimates. To address this limitation, we propose Two-stage Odd Residual Flows (TORF), a framework that decouples mean forecasting from uncertainty estimation. In the first stage, a pre-trained determi",
-    "link": "http://arxiv.org/abs/2608.11114v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.11110v1",
-    "title": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
-    "authors": [
-      "Sourabrata Mukherjee",
-      "Kalika Bali",
-      "Sunayana Sitaram"
-    ],
-    "summary": "When a tool-using agent is given the same task in a different language, does it still take the same steps? Multilingual evaluation rarely asks: it compares final answers and discards the actions. Yet those actions are the product: they fix cost and latency, decide how the system fails, and are the only auditable part of its behaviour. We make the action policy the measured object across 8 models, 6 parallel benchmarks and 41 languages (2.38M rollouts). The naive measurement fails: five confounds sit between raw trace similarity and any defensible claim, each able to flip a conclusion. Short traces score higher, empty traces score perfectly, unrelated traces agree by chance over half the time, the gap is capped by each model's reproducibility, and a model asked the same question twice in on",
-    "link": "http://arxiv.org/abs/2608.11110v1",
-    "publishedAt": "2026-08-11",
-    "categories": [
-      "cs.CL"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1136555",
+    "title": "Artificial Intelligence Specialist",
+    "company": "Modi's Boutique",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Since"
+    ],
+    "skills": [],
+    "location": "Ranchi, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
+    "postedAt": "2026-08-11",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1136388",
     "title": "Aragon AI",
@@ -869,8 +517,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMjAuODMuMTU4LjEzNQ== when applying to show you read the job post completely (#RMjAuODMuMTU4LjEzNQ==)",
-      "This is a beta feature to avoid spam applican"
+      "Please mention the word **STRIVING** and tag RNDAuODEuNDIuMTgy when applying to show you read the job post completely (#RNDAuODEuNDIuMTgy)",
+      "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
     "location": "安居, ",
@@ -896,41 +544,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
     "postedAt": "2026-08-07",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136429",
-    "title": "Assistant Store Manager Macpac Adelaide",
-    "company": "Macpac Ltd.",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Step into your next move, as an Assistant Store Manager in South Adelaide",
-      "A hands-on leadership role where you’ll be front and centre with your team, driving performance, owning your results, and bringing energy to the floor",
-      "Perfect for an experienced ASM or a driven Supervisor/Team Leader ready t"
-    ],
-    "skills": [],
-    "location": "Adelaide, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-macpac-adelaide-macpac-ltd-1136429",
-    "postedAt": "2026-08-06",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136278",
-    "title": "Junior Team Members weekdays availability",
-    "company": "Supply Coffee",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "We are looking for JUNIOR TEAM MEMBERS with WEEKDAYS AVAILABILITY to join our team at Supply Coffee",
-      "Benefits Competitive salary Training and growth opportunities Evenings off (We are only open until 2.30pm!) Work on the Coffs Harbour jetty and enjoy a beautiful view",
-      "About Us A team of doers and dr"
-    ],
-    "skills": [],
-    "location": "Coffs Harbour, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278",
-    "postedAt": "2026-08-06",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-12T18:57:31.009Z';
+export const dataFetchedAt = '2026-08-13T01:40:44.646Z';
