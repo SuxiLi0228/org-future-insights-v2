@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jeff-dean-1500-1786542372000",
-    "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-    "link": "https://www.qbitai.com/2026/08/471254.html",
-    "summary": "回消息到凌晨2点半",
-    "publishedAt": "2026-08-12",
+    "id": "news-q1-ai-1786602832000",
+    "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+    "link": "https://www.qbitai.com/2026/08/471697.html",
+    "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+    "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786583554000",
-    "title": " 掩盖失败的艺术 ",
-    "link": "https://www.huxiu.com/article/4882736.html?f=rss",
-    "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 本轮中东危机始于2023年10月7日哈马斯袭击以色列，这是伊朗多年来试图用代理人包围以色列的一次矛盾总爆发。 战前哈马斯和真主党控制着加沙和黎巴嫩南部，伊朗支持的什叶派民兵活跃于伊拉克，还有也门胡塞武装和叙利亚阿萨德政权助阵，“什叶派之弧”声势浩大。 但另一方面，美国和以色列毕竟是中东老牌霸权，历经五次中东战争而不倒，“什叶派之弧”只是阵势很大，并未经历过任何实战检验。 从战争初衷上讲，以色列一直希望借某个机会彻底解决“抵抗之弧”和伊朗核问题，美国则显得犹豫不决，拜登时期把战略重心放在乌克兰和“第一岛链”。 哈马斯袭击事件给内塔尼亚胡提供了千载难逢的借口，以色列遂对内大规模动员，从一开始目标就不限于加沙。 经过两年多的激战，加沙逐渐沦为一个外交难题，哈马斯武装力量遭受重创；黎巴嫩真主党同样被削弱，如今黎政府军已经敢光明正大挑战它了；叙利亚变天则是美国和以色列的意外之喜，令伊朗失去了本地区最重要的盟友…… 至2025年年中，以色列方面信心爆棚，有强烈的扩大战果倾向，“十二日战争”便是在如此背景下发生的。 “十二日战争”结束后，伊朗意识到危险并未消除，导弹生产工厂开始全负荷运行，“地下导弹城市”里的储备不断增加，仅半年时间库存就超过了战前水平。 据美国国务卿鲁比奥的说法：“伊朗每月生产超过100枚弹道导弹，如果不受控制，它很快将拥有如此多",
+    "id": "news--1786603483000",
+    "title": " 肯尼亚公民起诉肯尼亚选举委员会选举时间违宪 ",
+    "link": "https://www.huxiu.com/article/4882835.html?f=rss",
+    "summary": "本文来自微信公众号： 小聂说非洲 ，作者：聂少锐 肯尼亚人最近又跟宪法较上劲了。这一次，他们争论的不是谁赢了选举，也不是选票有没有被做手脚，而是盯着宪法中的几个英文单词，认真计算总统究竟应该在哪一年接受选民检验。 2026年8月7日，肯尼亚马林迪高等法院作出一项极具争议的判决：按照宪法第136条的字面含义，肯尼亚下一次总统选举本应在2026年8月11日举行，而不是人们普遍认定的2027年8月10日。如果把选举安排在2027年，原则上将违反宪法。 提出这场诉讼的，不是反对党，也不是准备挑战鲁托的总统候选人，而是三名普通肯尼亚公民：律师Dr.Owiso Owiso、人权活动人士Khelef Khalifa以及律师Ashioya Biko。他们把肯尼亚总检察长和独立选举与边界委员会，也就是IEBC，一起告上了法庭。 三个公民，要法院审查一个国家宪法机构的决定；几个律师，拿着一本宪法，要挑战整个国家已经接受多年的选举时间表。这件事本身，就是肯尼亚宪政制度的一部分。 三个公民，给全国算了一道日期题。肯尼亚上一次大选是在2022年8月9日举行的。按照IEBC公布的安排，下一次大选将在2027年8月10日举行。2022到2027，正好五年。无论普通人还是政治家，过去一直认为这没有什么问题。 但三名申请人偏偏要对着宪法抠字眼。肯尼亚宪法第136条规定，总统选举应当与国会议员选举同时举行，具体时间是",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-13-1786579831000",
-    "title": "Edge AI Daily 早报（8月13日）",
-    "link": "https://www.tmtpost.com/8101557.html",
-    "summary": "Twitch默认输出内容训练亚马逊AI引爆创作者权益争议；美国推“硅走廊”重构贸易规则；SpaceX AI收入将超主业；Anthropic审计透明度受质疑；三星用Claude加速芯片验证；OpenAI市场份额稳固，Gemini崩塌；谷歌AMIE视频问诊达专家级；OpenAI元老出走为IPO蒙阴影；亚马逊强制AI模特标签。",
+    "id": "news-vibe-coding-1786603903000",
+    "title": "资本热捧Vibe Coding：企业估值狂飙，赛道出现分化",
+    "link": "https://www.tmtpost.com/8102019.html",
+    "summary": "近一年来，Vibe Coding赛道频现大额融资，初创公司估值水涨船高。",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -149,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-ceo-1786541889000",
-    "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-    "link": "https://www.qbitai.com/2026/08/471162.html",
-    "summary": "Dario能不能少吓唬点人…",
-    "publishedAt": "2026-08-12",
+    "id": "news-2026-1786597850000",
+    "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+    "link": "https://www.qbitai.com/2026/08/471668.html",
+    "summary": "",
+    "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -162,24 +162,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786583464000",
-    "title": " 字幕组这次可能要彻底死透了 ",
-    "link": "https://www.huxiu.com/article/4882734.html?f=rss",
-    "summary": "本文来自微信公众号： AI故事计划 ，编辑：张霞，作者：黑佳慧 \" 因版权收紧和网盘整治而日渐凋零的字幕组，又迎来了致命一击。 字幕组曾被誉为“文化摆渡人”。在翻译还是稀缺能力的年代，他们打破语言壁垒，在国内外影视爱好者间架起交流桥。 AI出现后，墙开始坍塌。平台纷纷将大模型嵌入播放器，观众打开AI字幕就能啃完剧情。一部剧的字幕初稿，也从原先的几天压缩到几分钟，个人译者用AI跑一遍就直接上传。 活越来越少，人越来越闲。有人开始怀疑：这个世界，还需要字幕组吗？ 两个人和一个AI 凌晨四点半，闹钟响起，王闪翻身下床打开电脑。对话框里，组长刚发来一版由AI翻完的字幕初稿。 今年是王闪做字幕翻译的第十一年。她在日本留过学，回国后在上海一家日企做运营。2015年去日本读语言学校时，主动尝试加入了YouTuber字幕组，2018年回国后受邀加入一家大型字幕组，一直做到现在。期间，她还陆续给几个虚拟主播小组做过切片翻译，直到去年春天，她才落进现在这个粉丝字幕组安定下来。 这类字幕组不服务大众，只盯着一个演员或IP，把对方所有的剧集和物料都翻个遍。 她眼下跟的，是一部正火的日腐周更剧。新剧每周凌晨一点在日本更新，一集只有23分钟，许多国内粉丝会踩点追更。 这个字幕组只有两个人。准确地说，是两个人和一个AI。 王闪负责精校，组长包揽时间轴、特效、压制上传等其余事务。为了抢在官方字幕上线前放出粉丝版，",
+    "id": "news--1786603308000",
+    "title": " 越宣传男女平等，结果生男孩的反而越多？ ",
+    "link": "https://www.huxiu.com/article/4882833.html?f=rss",
+    "summary": "本文来自微信公众号： 雷叔写故事 ，作者：乌卡 最近刷到好几条新闻，都在说近几年来新生儿中男孩女孩的比例依然相当失衡。 最显眼的场景出现在幼儿园里。 有老师在社媒上晒班级合照，男孩的队伍比女孩长出一截，老师自嘲这是“和尚班”。 媒体走访时也发现，这不是个例。 江西某公立幼儿园，男孩26个，女孩7个。 北京某幼儿园，男孩14个，女孩3个。 云南一所幼儿园小班，男孩7个，女孩3个。 网上很多家长发出了相似的感慨，说送自家孩子去上学，女孩基本都是个位数。 光看个人感受固然容易身边即世界，但再看看统计数据就知道，有些问题确实存在。 通常来说，人类在自然状态下，出生性别比在103到107之间，即每100个女孩对应103到107个男孩。105左右是正常值。 但在2024年的中国，这个数字达到了111.7，比联合国确立的标准值高出不少。 世界经济论坛发布的《2025年全球性别差距报告》里，中国在出生性别比这个指标排全球第146名，是倒数第三名。 光看这些数据，很容易指向一个直观的解释：“重男轻女”。身边很多人也在震惊，觉得这都什么年代了，怎么还在搞这套糟粕。 但仔细想想，又有些奇怪。 因为最近这些年，我们能够感受到公共话语似乎在往完全相反的方向走。电视上流行大女主剧，社交媒体的热搜动不动就是“女性主义觉醒”，越来越多人参与呼吁男女平等平权。 看起来明明一切都在变好，怎么一看基础数据，反而依旧如此",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-chinese-ai-chatbots-begin-charging-for-the-transactions-they-1786579803000",
-    "title": "Chinese AI Chatbots Begin Charging for the Transactions They Generate",
-    "link": "https://www.tmtpost.com/8101569.html",
-    "summary": "Alibaba opened its Qwen app to third-party service agents on the same day ByteDance started applying a higher commission to hotel bookings that originate inside Doubao. Both moves mark a clear turn from free conversation toward transaction-based revenue.",
+    "id": "news-ai-1786598929000",
+    "title": "微信，要用AI杀死社交吗？",
+    "link": "https://www.tmtpost.com/8101419.html",
+    "summary": "腾讯在ai投入上一路狂奔",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -242,11 +241,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-figure-ai-45-1786540255000",
-    "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-    "link": "https://www.qbitai.com/2026/08/471049.html",
-    "summary": "具身模型一小时狂拣1816件异形包裹",
-    "publishedAt": "2026-08-12",
+    "id": "news-deepseek-v4-pro-fable-5-1786593241000",
+    "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
+    "link": "https://www.qbitai.com/2026/08/471642.html",
+    "summary": "现在调用V4 Pro，能直接用上完全体",
+    "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -255,24 +254,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786583266000",
-    "title": " 希尔顿万豪们，开始给业主减负让利了 ",
-    "link": "https://www.huxiu.com/article/4882732.html?f=rss",
-    "summary": "本文来自微信公众号： 酒管财经 ，作者：大晟 今年3月，北美51位手握近千家万豪酒店的业主联名给万豪集团高层写信，把积压多年的分账矛盾摆上台面。 没人想到，仅仅五个月之后，万豪就给出回应。 在今年Q2财报电话会上，万豪宣布启动一项名为“ITR激励”（推荐意愿）的返佣计划，北美地区万豪旗下符合条件的酒店最高可以获得相当于总客房收入50个基点的费用返还，下半年起计入。 几乎同一时间，希尔顿CEO在Q2财报会上表示已经降低全球大部分酒店支付的忠诚度费用，还推出Hilton Rise，并准备更灵活地处理酒店装修和品牌标准。 两大国际头部酒店巨头近乎同步的妥协让利，似乎并非巧合。 一场由业主倒逼、品牌方让利降本的酒店加盟模式的优化调整，似乎已经在全球展开。 万豪希尔顿同步让利 最近，希尔顿、万豪先后在Q2财报电话会官宣业主扶持政策。 两套方案思路高度相似，都是以客户满意度为考核标准，达标门店直接拿到费用减免，但底层资金来源、让利幅度存在一定区别。 先讲万豪推出的ITR激励计划。 万豪CFO在财报电话会上明确全部细则，覆盖美国、加拿大所有加盟门店，核心规则有两点。 第一项规则，门店考核评判标准和ITR客人推荐评分相互绑定，入住客人离店填写调研问卷给出较高评价，门店整体客人口碑达到规定标准，酒店每年最高可以领取等同于全年】总营收五十个基点的返还补贴。 我们可以简单做一组数字换算，一家全年客房经营",
+    "id": "news-40-1786603180000",
+    "title": " 40岁，被房地产甩下，上行与衰退间，他试着区分 ",
+    "link": "https://www.huxiu.com/article/4882832.html?f=rss",
+    "summary": "本文来自微信公众号： 芥末堆 ，作者：左希，责编：Rachel 日子过得像撕卫生纸一样快。 这是老丁40岁后强烈的一种感受。过去十几年，他习惯的是另一种时间尺度。 一个楼盘从拿地、定位、推广，到开盘销售，有清晰节奏；一个营销方案从市场调研到落地执行，有明确的节点；一支二十人的团队，可以围绕一个目标快速运转。城市在扩张，土地在升值，资产在膨胀。一个普通人的个人命运，可以被宏观增长直接改变。“风来了，猪也能飞”是历史事实。 老丁曾经属于那个时代。他做房地产策划，进入头部房企，管理团队，见证过行业最狂热的时刻。直到一切慢慢远去。 公司已经裁到第四轮。“以前满满当当的食堂，现在只能看到二十几个人，食堂大厨换成阿姨了。”说这句话时他语气平静。作为管理层，老丁早已习惯把情绪隐藏。他看着熟悉的人一个个离开，看着曾经庞大的行业收缩，看着曾经坚信的职业路径一点点失去准星。 让他不安的，并不是失去一份工作，而是一个40岁的人，突然发现熟悉的世界正在失去它原来的运行规则。于是，他开始学习一件过去从未想过的事情：写代码。 准确来说，是借助AI写代码。没有系统学习过编程的老丁自学Claude Code、Codex工具，几个月时间里，做出了一款面向K12教师的AI备课工具。输入一个课程主题，它可以生成教案、分层练习题、教学反思、说课稿和PPT课件。产品上线三个多月，已经有真实付费用户。 这听起来像一个AI创业",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-105-1786576800000",
-    "title": "【钛晨报】央行最新定调：综合运用并适时调整货币政策工具，保持流动性充裕；二季度新AI产品影响105亿利润，腾讯总裁回应；荣耀发布首款机器人手机",
-    "link": "https://www.tmtpost.com/8101406.html",
-    "summary": "年内最贵新股频准激光：网上投资者放弃认购1.08万股；段永平对泡泡玛特持股比例从5.55%升至7.70%；李宁否认签约法国球星姆巴佩；天孚通信：拟推228.87万股限制性股票激励计划；央行将在8月14日、17日至19日开展隔夜逆回购操作；7月中国新能源汽车新车销量占比首超60%。",
-    "publishedAt": "2026-08-12",
+    "id": "news--1786595535000",
+    "title": "房东“暴力涨租”，“吓跑”胖东来",
+    "link": "https://www.tmtpost.com/8101374.html",
+    "summary": "不满个别房东涨租，于东来毅然关店。",
+    "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -334,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gmc-80-token-1786532069000",
-    "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-    "link": "https://www.qbitai.com/2026/08/471030.html",
-    "summary": "免训练、开箱即用！",
-    "publishedAt": "2026-08-12",
+    "id": "news-360-ai-1786590708000",
+    "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+    "link": "https://www.qbitai.com/2026/08/471624.html",
+    "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+    "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -347,24 +347,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-26-gelsinger-1786582590000",
-    "title": " 26年后的重演：小美之死，为什么比Gelsinger悲剧更恶劣 ",
-    "link": "https://www.huxiu.com/article/4882730.html?f=rss",
-    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年7月23日，《科学》联合“撤稿观察”曝光上海交通大学仇子龙团队与新华医院试图用AAV基因编辑治疗，治愈6岁女孩小美的中枢神经系统遗传病，但治疗引发了严重副作用，导致小美死亡。 对基因治疗历史有了解的人很难不联想到27年前，基因治疗上一个研发热潮时的一起悲剧：1999年，18岁的Jesse Gelsinger在宾夕法尼亚大学展开的一项基因治疗临床试验中因病毒载体引发的严重免疫反应去世（这位少年之死，改变了基因治疗）。 都是试验性的基因治疗，都是年轻孩子死于病毒载体带来的副作用，一切似曾相识。 但如果我们还希望从小美的悲剧中吸取教训，一个必要的起点是认识到小美之死的性质远比Jesse Gelsinger事件更为恶劣。 第一，26年的间隔本身就是罪证。 Jesse Gelsinger事件发生在1999年，小美去世是2025年。这26年里，Jesse Gelsinger是放进医学伦理教科书的案例，是所有基因治疗从业者乃至医药研发人员都无法回避的教训。 一个教科书教了26年的悲剧教训，26年后复制一遍，本身就是属于性质极端恶劣。 第二，1999年的未知，已是2025年的常识 Jesse Gelsinger悲剧发生时基因治疗的很多风险未知。很可能导致Jesse死亡的原因，大剂量腺病毒能激发强烈的先天免疫反应，当时没人知",
+    "id": "news-ai-1786601794000",
+    "title": " 国内外电信运营商AI业务布局差异研究 ",
+    "link": "https://www.huxiu.com/article/4882826.html?f=rss",
+    "summary": "本文来自微信公众号： 赛立信通信研究 ，作者：谢剑超 生成式人工智能、大模型和智能体技术快速发展，正在推动电信行业进入新一轮战略转型期。过去，电信运营商主要依靠移动通信、固定宽带、专线、流量及增值业务获得收入，网络的核心功能是完成信息传输和用户连接。进入人工智能时代后，网络连接仍然是数字经济运行的基础，但单纯依靠连接规模和流量增长已经越来越难以支撑运营商的长期发展。 人工智能对电信行业的影响主要体现在两个方向。一是“AI for Network”，即利用人工智能改造网络规划、建设、运维、客服、营销和内部管理，通过预测分析、自动决策和智能体协同降低成本、提高效率；二是“Network for AI”，即利用5G、光纤、数据中心、边缘节点和算力调度体系，为人工智能模型训练、推理和行业应用提供基础设施支撑。 短期来看，人工智能对运营商最直接的价值仍然是内部提效，包括降低网络运维成本、提高客服效率、优化资源调度以及辅助软件开发。长期来看，随着企业人工智能、边缘推理、智能汽车、机器人和多模态应用快速发展，运营商有机会将网络、算力、云、数据、安全和行业服务重新组合，形成新的业务增长空间。 尽管全球主要运营商都把人工智能视为重要战略方向，但中国、美国、欧洲和日韩运营商的布局重点并不相同。中国运营商倾向于建设覆盖算力、云、数据、模型、平台和行业应用的全栈体系；美国运营商更加重视网络、光纤、边缘计算",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1786532218000",
-    "title": "主业失血、解禁临门，君逸数码算力转型“三箭齐发”，时机值得细看",
-    "link": "https://www.tmtpost.com/8101147.html",
-    "summary": "解禁大潮“撞车”算力转型，实控人的心思你别猜",
-    "publishedAt": "2026-08-12",
+    "id": "news-bioscibex-100-1786595533000",
+    "title": "瑞士生物科技企业Bioscibex研发一次性摇摆式生物反应器，简化细胞培养流程 | 瑞士创新100强",
+    "link": "https://www.tmtpost.com/8101919.html",
+    "summary": "在单次工艺中实现从30毫升到30升的细胞扩增。",
+    "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -400,7 +401,379 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2608.12313v1",
+    "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "authors": [
+      "Chuyue Li",
+      "Jinpeng Yu",
+      "Haozhe Wang",
+      "Tian Xueyun",
+      "Zhijing Zhang",
+      "Bingnan Li",
+      "Shuqi Gu",
+      "Kan Ren",
+      "Jiaming Liu",
+      "Ruihua Hua"
+    ],
+    "summary": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is both faithful to film content and directly usable for agentic reasoning and manipulation. To address the challenge, we propose the Agentic Video Auto-Encoder (AVA-Encoder), a framework for learning agent-native video representations via agentic auto-encoding. AVA-Encoder transforms a video into a knowledge graph (KG) representation and then reconstructs it back into video. Its hierarchy and state nodes store structured text, while a linked asset layer holds generated images, audio, and video. Typed edges preserve the relations between these text descriptions and assets in a f",
+    "link": "http://arxiv.org/abs/2608.12313v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12308v1",
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "authors": [
+      "Yan Deng",
+      "Fei Xu"
+    ],
+    "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address these challenges, we propose DreamFly, a diffusion-based aerial VLN framework built on Dream-VLA. DreamFly introduces a causally aligned historical memory that augments the current visual representation using only observations preceding the current decision step, enabling temporal reasoning without future information leakage. We further formulate nav",
+    "link": "http://arxiv.org/abs/2608.12308v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12307v1",
+    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "authors": [
+      "Cheng Qian",
+      "Wenting Zhao",
+      "Liangwei Yang",
+      "Heng Wang",
+      "Jielin Qiu",
+      "Heng Ji",
+      "Silvio Savarese",
+      "Huan Wang",
+      "Shelby Heinecke"
+    ],
+    "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates. Using four representative Theory-of-Mind benchmarks, each builder model uses 5% of the data as a validation set to iteratively refine its harness over multiple rounds, after which the finalized harness is evaluated on the full test set. Empirically, this form of test-time capability transfer is highly effective",
+    "link": "http://arxiv.org/abs/2608.12307v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12306v1",
+    "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+    "authors": [
+      "Ebenezer Gelo",
+      "Geraud Nangue Tasse",
+      "Steven James",
+      "Benjamin Rosman"
+    ],
+    "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based Cost Inference (RCI) framework, which converts sparse stop-feedback into dense per-step costs via return decomposition, then trains a constrained offline policy on the augmented dataset. We show that return-equivalent redistribution preserves the feasible policy set and the optimal Lagrangian in a CMDP, establishing that the transformation is lossless in theory while yielding better-conditioned cost critic learning in practice. Experiments on highway driving and robotic manipu",
+    "link": "http://arxiv.org/abs/2608.12306v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12304v1",
+    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+    "authors": [
+      "Saman Marandi",
+      "Yu-Shu Hu",
+      "Mohammad Modarres"
+    ],
+    "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. This study presents a framework for automated construction of DML models from system descriptions and their representation as Knowledge Graphs (KG-DML), using Retrieval-Augmented Generation and Large Language Models as enabling tools. Building on prior work with small-scale systems, the framework extends automated KG-DML construction and evaluation to substantially larger and more complex systems. Model construction proceeds across the DML hierarchy using targeted retrieval while preserving func",
+    "link": "http://arxiv.org/abs/2608.12304v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12302v1",
+    "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+    "authors": [
+      "Di Yang Shi",
+      "W. Bradley Knox"
+    ],
+    "summary": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps: distill the task's objectives into a set of fundamental objectives and derive measurable outcome variables that capture those fundamental objectives, select a causally representative subset of outcome variables as the reward terms, and fit weights to those reward terms via preference elicitation. Our contributions describe the first step and formalize the latter two steps. The first is a guided workflow for deriving outcome variables. The second is a reduction of reward term selection to minim",
+    "link": "http://arxiv.org/abs/2608.12302v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12299v1",
+    "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+    "authors": [
+      "AmirHossein Eshghi",
+      "Hamid Saadatfar",
+      "Seyyed Ali Hoseini",
+      "AmirMohsen Eshghi",
+      "Siavash Arjomand Bigdel"
+    ],
+    "summary": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highlights the image regions, convolutional channels, tokens, or patches that support a target class or concept. Since the first CAM formulation in 2016, the field has moved far beyond global-average-pooled CNN classifiers. CAM-style methods now include gradient-based post-hoc explanations, gradient-free score and ablation methods, high-resolution upscaling, weakly supervised localization and segmentation, transformer token attribution, causal and debiasing methods, and foundation-model-era approaches that use CLIP, DINO, SAM, or feature-distribution comparisons. This review synthe",
+    "link": "http://arxiv.org/abs/2608.12299v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12290v1",
+    "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+    "authors": [
+      "Aman Tyagi",
+      "Hemanth Boinpally",
+      "Jonathan Chen",
+      "Douglas Gebert",
+      "Steven Hickson"
+    ],
+    "summary": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows. Their inherent stochasticity causes minor variations in textual prompts or hyperparameters to yield drastically different outputs often necessitating inefficient, brute-force trial-and-error processes. To address these limitations, we introduce the ``Agentic Self-Improvement\" framework, which reframes video synthesis into a closed-loop, goal-directed optimization. Our framework systematically navigates the generation parameter space using a novel two-stage approach. In the first stage, an iterative prompt optimization loop uses a multimodal Large Language Model (mLLM) to refi",
+    "link": "http://arxiv.org/abs/2608.12290v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.MM"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12283v1",
+    "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
+    "authors": [
+      "Alireza Kargarzadeh",
+      "Nariman Khaledian",
+      "Navid Parvini",
+      "Arman Khaledian"
+    ],
+    "summary": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertainty-aware construction that feeds model-predicted risk -- decomposed into aleatoric and epistemic components -- directly into the covariance matrix of portfolio allocators, rather than treating portfolio risk as fixed or adjusting only expected returns. We evaluate the pipeline on Russell 2000 equities under three stock-selection regimes: a pure-alpha trigger that isolates abnormal stock moves not explained by macro indicators, a pure-beta trigger that captures macro-indicator moves before the stock itself fires, and a beta trigger in which both channels agree. Across the full holding-period gr",
+    "link": "http://arxiv.org/abs/2608.12283v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "q-fin.PM",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12282v1",
+    "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+    "authors": [
+      "Ankita Rajaram Naik",
+      "Anupama Murthi",
+      "Benjamin Elder",
+      "Siyu Huo",
+      "Raavi Gupta",
+      "Abhinav Jain",
+      "Praveen Venkateswaran",
+      "Abdulhamid Adebayo",
+      "Danish Contractor"
+    ],
+    "summary": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks spanning three settings of increasing difficulty: diverse API interaction styles, multi-hop reasoning over structured APIs, and multi-source reasoning with natural-language tool-use policy constraints. Correctness is verified by re-executing predicted tool calls against live APIs, accommodating multiple valid paths. Using a fixed ReAct harness to isolate model capabilities from agent architecture, we evaluate frontier and open-weight models",
+    "link": "http://arxiv.org/abs/2608.12282v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12278v1",
+    "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
+    "authors": [
+      "Avijit Roy",
+      "Proma Roy"
+    ],
+    "summary": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these tools, including training corpora, tokenization schemes, evaluation benchmarks, and deployment architectures, can systematically disadvantage speakers of underrepresented languages before a model is trained. This paper examines these structural barriers through Bengali, one of the world's most widely spoken languages, focusing on AI-assisted education in low-connectivity environments. We identify four interlocking failures: a severe web presence gap, with Bengali accounting for less than 0.5% of global web content despite representing nearly 4% of the global population; a 67:1 training-token def",
+    "link": "http://arxiv.org/abs/2608.12278v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12274v1",
+    "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
+    "authors": [
+      "Rafi Ibn Sultan",
+      "Chengyin Li",
+      "Yiannos Demetriou",
+      "Ahmed I. Ghanem",
+      "Joshua P. Kim",
+      "Justine Cunningham",
+      "Hassan Bagher-Ebadian",
+      "Dongxiao Zhu",
+      "Kundan S. Thind"
+    ],
+    "summary": "Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is extremely small, has poor soft-tissue contrast, and varies substantially across patients; even manual contours show limited inter-observer agreement, underscoring the ambiguity of the vessel boundaries. Purpose: To develop a transformer-based framework that improves LAD delineation in low-contrast, imbalanced CT through local-global context modeling and uncertainty-guided optimization. Methods: We propose NA-UNETR, a 3D transformer-based segmentation model whose Neighborhood Attention (NA) and Dilated NA (DiNA) blocks jointly capture fine structural detail and long-range context. Given the scarcity of ",
+    "link": "http://arxiv.org/abs/2608.12274v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12273v1",
+    "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
+    "authors": [
+      "Junliang Liu",
+      "Ruoyu Li",
+      "Wenxin Tang",
+      "Jingyu Xiao",
+      "Zhenyu Liu",
+      "Jingheng Xu",
+      "Laizhong Cui"
+    ],
+    "summary": "LLM agents increasingly rely on third-party skills, using natural-language descriptions for selection and instruction bodies for planning. This progressive-disclosure design exposes two sequential control points to untrusted publishers: a static skill may steer an otherwise correct task onto an unnecessarily costly trajectory. Prior work studies selection manipulation, malicious skill instructions, and tool-chain resource amplification largely separately, leaving their end-to-end composition unclear. We introduce Convergent Detour Hijacking (CDH), a text-only, runtime-independent attack that couples these stages. Under shared semantic cover, a description establishes relevance during selection, while an aligned body reuses that rationale to fabricate plausible dependencies during planning.",
+    "link": "http://arxiv.org/abs/2608.12273v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12271v1",
+    "title": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
+    "authors": [
+      "Pedro Sousa",
+      "Will Tebbutt",
+      "Sadiq Jaffer",
+      "Robin Young",
+      "Anil Madhavapeddy",
+      "Richard E. Turner"
+    ],
+    "summary": "Global weather reanalyses and forecasts resolve the evolving atmospheric state on coarse grids, but site-specific applications require predictions at arbitrary locations where near-surface conditions also depend on unresolved terrain and land-surface properties. Existing probabilistic downscalers address this gap using hand-crafted topographic descriptors. We ask instead whether Earth observation foundation models can provide transferable sub-grid surface representations for probabilistic weather downscaling. We augment a convolutional conditional neural process that downscales coarse ERA5 reanalysis fields at ~25 km resolution with a learned local surface descriptor, obtained by compressing a patch of TESSERA embeddings at 10 m resolution. Although these embeddings summarise surface condi",
+    "link": "http://arxiv.org/abs/2608.12271v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.LG",
+      "physics.ao-ph"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12269v1",
+    "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
+    "authors": [
+      "Bryan Torres",
+      "Daniel Riofrío",
+      "José Vega-Sánchez",
+      "Nathaly Orozco",
+      "Carla Parra",
+      "Karen Rosero",
+      "Felipe Grijalva"
+    ],
+    "summary": "Public procurement involves the allocation of substantial financial resources; therefore, continuous oversight through audits, controls, and monitoring mechanisms is essential. However, stakeholder comments and publicly available government data are often underutilized, despite their potential to reveal procedural irregularities. To address this gap, this paper analyzes metadata from Ecuador's Sistema Oficial de Contratación Pública (SOCE, Official Public Procurement System), with particular emphasis on participant comments generated during the pre-contractual phase. We propose a hybrid modeling framework that integrates unsupervised clustering and supervised classification within a natural language processing (NLP) pipeline to uncover latent patterns and detect potentially irregular procu",
+    "link": "http://arxiv.org/abs/2608.12269v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12262v1",
+    "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
+    "authors": [
+      "Weihao Bo",
+      "Shan Zhang",
+      "Yanpeng Sun",
+      "Jie Liu",
+      "Yongke Yao",
+      "Jinhao Du",
+      "Wei He",
+      "Kai Zou",
+      "Zechao Li",
+      "Jingdong Wang"
+    ],
+    "summary": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and collaboration. One important feature in Prism is turning scientific diagrams directly into LaTeX TikZ code. In this paper, we build a benchmark, Diagram-MMU, a multi-modal benchmark designed to assess MLLMs' ability for scientific diagram parsing and understanding. Diagram-MMU features 3.7k curated diagrams and 18.3k human-validated questions across six domains. It evaluates MLLMs on three tasks common in vibe writing workspaces: diagram-to-code parsing, diagram-to-code editing, and diagram question answering, alongside agentic settings per task. The evaluation of 12 MLLMs reveals that diagram-to-code ta",
+    "link": "http://arxiv.org/abs/2608.12262v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12259v1",
+    "title": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
+    "authors": [
+      "Junyi Ye",
+      "Ivy Gateri Wanjiku"
+    ],
+    "summary": "Financial forecasting models are typically developed in full precision, yet production deployment often requires low-precision inference to reduce memory and computational cost. Post-training quantization (PTQ) enables such deployment without retraining. However, reliable activation quantization requires calibration: activation ranges are estimated from historical data before deployment and then remain fixed during future inference. The importance of this deployment choice for financial forecasting remains poorly understood. We present a systematic study of activation calibration for PTQ in cross-sectional volatility forecasting on the S&P 500. Our evaluation covers seven representative neural architectures, eight walk-forward test years (2018-2025), and 560 trained models. We find that ac",
+    "link": "http://arxiv.org/abs/2608.12259v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.LG",
+      "q-fin.ST"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12253v1",
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "authors": [
+      "Simon Yu",
+      "Nicholas Tomlin",
+      "Marwa Abdulhai",
+      "Ximing Lu",
+      "Derek Chong",
+      "Abe Hou",
+      "Dilara Soylu",
+      "Sergey Levine",
+      "Christopher D. Manning",
+      "Weiyan Shi"
+    ],
+    "summary": "Multi-agent reinforcement learning for human-AI interaction typically relies on a single large language model to simulate user behavior. We show that this approach systematically fails to generalize, and trace the failure to simulator collapse: because the simulator LLM is mode-collapsed, an LLM policy trained against it overfits to narrow strategies that exploit the simulator's dominant mode, and such a policy transfers poorly to unseen simulators and real users. We formalize this collapse theoretically and propose two complementary solutions, one at inference time and one at training time. The inference-time solution, Verbalized Sampling, broadens the simulator's behavior by sampling from a verbalized response distribution, reducing mode collapse. The training-time solution, Co-Training,",
+    "link": "http://arxiv.org/abs/2608.12253v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12251v1",
+    "title": "Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting",
+    "authors": [
+      "Junyi Ye",
+      "Gargi Vijay Borde"
+    ],
+    "summary": "Financial volatility is regime dependent, yet incorporating regime information into neural networks can also destabilize training. This paper asks where such information should enter a neural cross-sectional volatility forecasting model. We study five-day realized-volatility forecasts for 1,027 U.S. equities using a rolling walk-forward evaluation framework in which information, model capacity, hyperparameter tuning, and random seeds are matched across architectures. We propose RG-ResMoE, a regime-gated residual mixture-of-experts architecture in which regime information is used only for expert routing rather than for direct forecasting. The base predictor models volatility from stock features, while a gating network uses regime state variables to route residual corrections. RG-ResMoE cons",
+    "link": "http://arxiv.org/abs/2608.12251v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "q-fin.ST",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.12249v1",
+    "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
+    "authors": [
+      "Yuzhong Shen",
+      "Masha Sosonkina",
+      "Peng Xu",
+      "Mark S. Gordon"
+    ],
+    "summary": "Modernizing legacy Fortran is a problem of volume: the transformations are individually routine, but the codebases can be enormous, and across much of computational science the work simply goes undone. We propose an agentic workflow that takes this work on at production scale, and we set out to measure how far such delegation can reach. In this work, three prompt-specialized agent roles operate under a version-controlled specification that the agents themselves authored and revised, while humans hold a small number of gates. The arrangement is kept safe by an exact verification oracle inherited from the domain, and the boundary of safe delegation lies exactly where that oracle stops seeing. We apply the proposed workflow in a case study, converting the two-electron-integral routines of GAM",
+    "link": "http://arxiv.org/abs/2608.12249v1",
+    "publishedAt": "2026-08-12",
+    "categories": [
+      "cs.AI"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -517,7 +890,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RNDAuODEuNDIuMTgy when applying to show you read the job post completely (#RNDAuODEuNDIuMTgy)",
+      "Please mention the word **STRIVING** and tag RNC4xNTQuODUuMTY0 when applying to show you read the job post completely (#RNC4xNTQuODUuMTY0)",
       "This is a beta feature to avoid spam applicants"
     ],
     "skills": [],
@@ -547,4 +920,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-13T01:40:44.646Z';
+export const dataFetchedAt = '2026-08-13T07:21:27.710Z';
