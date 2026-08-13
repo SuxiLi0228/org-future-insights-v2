@@ -2,23 +2,24 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
-    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "id": "news-building-a-practical-path-to-post-quantum-cryptography-1786644702000",
+    "title": "Building a practical path to post-quantum cryptography",
+    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-some-claude-users-are-mad-that-anthropic-8217-s-new-watermar-1786573597000",
-    "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "publishedAt": "2026-08-12",
+    "id": "news-anthropic-set-ai-agents-loose-on-the-same-task-they-started--1786645694000",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -40,23 +41,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-court-approves-forensic-review-of-ex-flex-cfo-candidate-s-pe-1786561920000",
-    "title": "Court approves forensic review of ex-Flex CFO candidate’s personal devices",
-    "link": "https://www.hrdive.com/news/court-approves-forensic-review-ex-flex-cfo-candidates-personal-devices-tradesecrets-legalissues/827664/",
-    "summary": "A &lsquo;forensic vendor&rsquo; will look through Alex Anderson&rsquo;s personal computer and devices to secure confidential information relating to Flex, according to the order.",
-    "publishedAt": "2026-08-12",
+    "id": "news-brookings-researchers-slam-assumptions-in-work-requirements--1786634580000",
+    "title": "Brookings researchers slam assumptions in work requirements rule",
+    "link": "https://www.hrdive.com/news/cms-medicaid-work-requirements-rule-slammed-brookings-analysis/827777/",
+    "summary": "The Centers for Medicare &amp; Medicaid Services are being accused of fudging the data at the center of a rule that makes it harder for Medicaid enrollees to prove they&rsquo;re exempt from work requirements.",
+    "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-4-8-agent-1786624482000",
-    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-    "link": "https://www.qbitai.com/2026/08/472059.html",
-    "summary": "首颗AI芯片已进入量产",
+    "id": "news-deepseek-harness-1786636999000",
+    "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+    "link": "https://www.qbitai.com/2026/08/472208.html",
+    "summary": "欢迎，为后人种点树",
     "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
@@ -66,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-4-1786624734000",
-    "title": " 关税战还要打？美国退税6.4亿，特朗普又推新关税 ",
-    "link": "https://www.huxiu.com/article/4882968.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 中国企业被特朗普政府加征的关税，从美国海关退回来了。 8月12日盘后，春风动力发布公告，累计收到美国关税退税3860.79万美元，折合人民币约2.62亿元。 图为A股上市公司收到的退税金额图源：网络 算上此前陆续披露的华海药业、贵州轮胎、银都股份等公司，截至目前已有至少9家A股上市公司公告收到退税，合计超9080万美元，折合人民币逾6.4亿元。 而这笔钱能被退回来，源于今年2月美国最高法院作出的一份判决。 美国最高法院9位大法官以6票赞成、3票反对，裁定特朗普政府依据《国际紧急经济权力法》（IEEPA）加征的“对等关税”“芬太尼关税”越权、自始无效，已征收的税款必须全额退还并加付利息。 图为美国公布的关税退款最新进展图源：网络 随后，美国海关与边境保护局（CBP）4月20日正式启动退税流程；截至7月底，已核定并送交财政部支付的退款规模已达1000亿美元。 那么中美关税战就此结束了吗？对于准备出海拓展市场的中国企业来说，这轮退税又有哪些值得借鉴的经验和教训？ 01 千亿退税，谁能领到这笔钱？ 2026年2月20日，美国最高法院就Learning Resources(学习资源公司诉特朗普案)与V.O.S.Selections(特朗普诉VOS精选案)两案作出合并判决，明确IEEPA中的“规制进口”权力不包含征收关税。 首席大法官罗伯茨在多",
+    "id": "news--1786637387000",
+    "title": " 土壤修复，“大工程时代”正在退潮 ",
+    "link": "https://www.huxiu.com/article/4883011.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：政策任务在变多，专项资金却没有同步变大。土壤治理的新增需求，正在从一类修复工程分化成三种不同的生意。 2026年7月，国务院印发的《美丽中国建设“十五五”规划》和六部门联合编制的《土壤、地下水和农业农村生态环境保护“十五五”规划》先后公布。 土壤污染重点监管单位、化工园区地下水、工业腾退地块、第二次全国土壤污染状况普查、大型污染场地和农用地重金属溯源整治，被放进了未来五年的任务清单。 如果只看政策密度，土壤修复似乎正在等一轮久违的大市场。 但另一组数字并不热闹。2026年中央土壤污染防治资金预算为41.8亿元，比2025年执行数下降5%。行业内少数专业上市公司仍在收缩传统业务、筛选付款条件，并处理历史应收账款。 政策任务变多，为什么工程收入没有一起放大？ 问题出在“土壤修复市场”这个说法本身。 它把源头防控、调查评估、风险管控、修复施工、开发协同和后期管理装进一个词里，看起来像一个市场，实际已经是客户、合同和现金流完全不同的几种生意。 美丽中国打开的 不是一张修复工程清单 美丽中国建设对土壤环境提出的目标很明确。 2024年公布的《中共中央国务院关于全面推进美丽中国建设的意见》提出，严防新增污染，逐步解决长期积累的土壤和地下水严重污染问题；到2035年，土壤环境风险得到全面管控。 2026年7月公布的《美丽中国建设“十五",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
@@ -93,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
-    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
+    "id": "news-flock-is-tightening-its-rules-in-response-to-a-growing-surve-1786628470000",
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -105,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-nuclear-power-firm-fermi-finally-has-a-new-ceo-1786573440000",
-    "title": "AI nuclear power firm Fermi finally has a new CEO",
-    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-    "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-    "publishedAt": "2026-08-12",
+    "id": "news-openai-hires-new-cro-as-executive-shake-up-continues-1786640833000",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -130,11 +132,92 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-settles-eeoc-s-claims-the-company-denied-jewish-worker-1786561680000",
-    "title": "Apple settles EEOC’s claims the company denied Jewish worker his Sabbath days off",
-    "link": "https://www.hrdive.com/news/apple-settles-eeocs-claims-the-company-denied-jewish-worker-his-sabbath-da/827703/",
-    "summary": "Despite agreeing to the consent decree, the company denies the allegations, per court documents.",
-    "publishedAt": "2026-08-12",
+    "id": "news-most-employers-say-rising-healthcare-costs-force-salary-trad-1786634580000",
+    "title": "Most employers say rising healthcare costs force salary tradeoffs",
+    "link": "https://www.hrdive.com/news/most-employers-say-rising-healthcare-costs-force-salary-tradeoffs/827495/",
+    "summary": "Employers cited high drug prices, high-cost claims and hospital prices as their biggest threats to affordability.",
+    "publishedAt": "2026-08-13",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4-8-agent-1786624482000",
+    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+    "link": "https://www.qbitai.com/2026/08/472059.html",
+    "summary": "首颗AI芯片已进入量产",
+    "publishedAt": "2026-08-13",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1786617523000",
+    "title": "罕见表态，张一鸣全面升级AI大战",
+    "link": "https://www.tmtpost.com/8102072.html",
+    "summary": "不蒸馏，练内功。",
+    "publishedAt": "2026-08-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
+    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "publishedAt": "2026-08-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev--1786639073000",
+    "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+    "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+    "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+    "publishedAt": "2026-08-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-hiring-numbers-hide-the-real-workforce-story-1786622404000",
+    "title": "Why hiring numbers hide the real workforce story",
+    "link": "https://hrexecutive.com/why-hiring-numbers-hide-the-real-workforce-story/",
+    "summary": "Peter Miscovich, global future of work leader at JLL, says mixed hiring data reflects a deliberate growth strategy at AI-mature organizations. The post Why hiring numbers hide the real workforce story appeared first on HR Executive .",
+    "publishedAt": "2026-08-13",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-empathetic-leaders-drive-whether-ai-is-seen-as-an-opportunit-1786630620000",
+    "title": "Empathetic leaders drive whether AI is seen as an opportunity or a risk, survey finds",
+    "link": "https://www.hrdive.com/news/empathetic-leaders-drive-whether-ai-is-seen-as-an-opportunity-or-a-risk/827773/",
+    "summary": "Empathy lifted every AI metric measured, including employee optimism and sense of control over their work, according to a Businessolver report.",
+    "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -157,23 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786624639000",
-    "title": " 等待下一袋血 ",
-    "link": "https://www.huxiu.com/article/4882967.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：张铃 等血，在许多血液病患者治疗过程中反复出现。白血病患者组织暖白小屋曾针对1309名白血病、淋巴瘤、骨髓瘤患者及家属发起用血调研。结果显示，37%的人曾因未能及时输血遭遇危险，包括晕倒、耽误治疗、大出血，甚至死亡。 8月9日，经过近一周的等待，吴岚的母亲终于等来了血。 因为极度贫血，母亲虚弱到无法坐起。无奈之下，吴岚联系了“血头”，支付5000元，为母亲换来两个单位的红细胞。 输血后，母亲的状态很快改善，可以坐起来吃饭，也不再吃一口就停下来喘气。吴岚没有告诉母亲这袋血是怎么得来的。 经济观察报了解到，目前，中国临床用血处于紧平衡状态，血液不足时，一些择期手术不得不延期，一些需要输血的内科患者也需要等待。 “从临床来看，用血最多的是血液科，80%的血小板是血液科用掉的。”香港大学深圳医院血液科医生王钧说，公众最熟悉的是外伤、车祸、烧伤、紧急手术等急性用血，其实血液科患者是长期、大量用血人群。急性白血病、恶性淋巴瘤、多发性骨髓瘤、重型地中海贫血以及接受造血干细胞移植的患者，在治疗时都需多次输血。 等血，在许多血液病患者治疗过程中反复出现。白血病患者组织暖白小屋曾针对1309名白血病、淋巴瘤、骨髓瘤患者及家属发起用血调研。结果显示，37%的人曾因未能及时输血遭遇危险，包括晕倒、耽误治疗、大出血，甚至死亡。 在等待之外，一些人寻找着另外的路：有人",
-    "publishedAt": "2026-08-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1786617523000",
-    "title": "罕见表态，张一鸣全面升级AI大战",
-    "link": "https://www.tmtpost.com/8102072.html",
-    "summary": "不蒸馏，练内功。",
+    "id": "news-grab-620-1786617449000",
+    "title": "Grab增长620%：好数据不等于好生意",
+    "link": "https://www.tmtpost.com/8102247.html",
+    "summary": "Grab的620%增长，本质上是会计处理放大了经营改善的信号。",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -184,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-kids-feel-about-ai-in-their-own-words-1786611600000",
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
+    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -196,11 +266,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-northrop-8217-s-robot-space-mechanic-is-a-new-way-to-keep-sa-1786568021000",
-    "title": "Northrop&#8217;s robot space mechanic is a new way to keep satellites at work longer",
-    "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-    "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
-    "publishedAt": "2026-08-12",
+    "id": "news-x-open-sources-its-ranking-algorithm-letting-users-see-if-th-1786636800000",
+    "title": "X open sources its ranking algorithm, letting users see if they&#8217;ve been &#8216;shadowbanned&#8217;",
+    "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+    "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -209,24 +279,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-hiring-numbers-hide-the-real-workforce-story-1786622404000",
-    "title": "Why hiring numbers hide the real workforce story",
-    "link": "https://hrexecutive.com/why-hiring-numbers-hide-the-real-workforce-story/",
-    "summary": "July&#8217;s jobs report showed that payrolls fell even as layoff announcements hit a two-year low and hiring plans jumped. For Peter Miscovich, global future of work leader at JLL, the numbers don’t offer a full explanation. &#8220;Workforce transformation is becoming more nuanced, and it cannot be fully captured by traditional headcount metrics in jobs reports.&#8221; [&#8230;] The post Why hiring numbers hide the real workforce story appeared first on HR Executive .",
+    "id": "news-no-surprises-act-overhaul-brings-new-rules-for-employer-heal-1786621548000",
+    "title": "No Surprises Act overhaul brings new rules for employer health plans",
+    "link": "https://hrexecutive.com/no-surprises-act-overhaul-brings-new-rules-for-employer-health-plans/",
+    "summary": "The rules are part of a major independent dispute resolution system reboot. The post No Surprises Act overhaul brings new rules for employer health plans appeared first on HR Executive .",
     "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-you-re-too-old-to-know-this-zillow-faces-bias-claim-from-whi-1786551300000",
-    "title": "‘You’re too old to know this’: Zillow faces bias claim from White man",
-    "link": "https://www.hrdive.com/news/zillow-discrimination-lawsuit-complaint/827676/",
-    "summary": "More than another lawsuit in the &ldquo;reverse discrimination&rdquo; wave, the complaint emphasized age-based mockery, from songs in meetings to bald jokes.",
-    "publishedAt": "2026-08-12",
+    "id": "news-mile-hi-foods-settles-for-1-5m-over-alleged-refusal-to-hire--1786630560000",
+    "title": "Mile Hi Foods settles for $1.5M over alleged refusal to hire women, Black and Afghan workers",
+    "link": "https://www.hrdive.com/news/mile-hi-foods-settles-for-15m-over-alleged-refusal-to-hire-women-black-a/827783/",
+    "summary": "The complaint alleged that when the HR manager opposed these practices, Mile Hi unlawfully retaliated by harassing and ultimately discharging her.",
+    "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -249,23 +318,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786624189000",
-    "title": " 一夜间，大师落幕，大王退场，餐饮“头衔营销” 时代终结 ",
-    "link": "https://www.huxiu.com/article/4882966.html?f=rss",
-    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：程三月，原文标题：《一夜间，大师落幕，大王退场！餐饮 “头衔营销” 时代终结！》 一夜之间，“大师”清零，“名店”卸匾，“大王”退位。 中国餐饮业正迎来一场声势浩大的“摘牌风暴”！ 最近，费大厨全国200余家门店陆续下架沿用近6年的“全国小炒肉大王”IP，换掉标志性上菜口号，成为行业整改最受瞩目的缩影。 而导火索，来自中国烹饪协会的一纸重磅公告：协会历年颁发的中国烹饪大师、名师等全部称号即刻失效，禁止一切商业宣传使用。 随即，内蒙古、河南、吉林、北京丰台等多地餐饮协会跟进，要求会员门店即刻摘除“名店”“示范店”等牌匾。 这绝非简单的牌匾整改，而是一场深刻的行业，靠协会头衔镀金、靠虚名溢价、靠称号造势的行业套路失灵了。 从厨师、门店到品牌，浮名退场，餐饮业“头衔式”营销的时代，彻底终结。 一夜之间，一场“摘牌风暴”席卷餐饮业 8月9日晚，费大厨辣椒炒肉北京朝阳合生汇店，“全国小炒肉大王”招牌悄然撤下。 店员上菜时的标志性口号，也从“你好，你好，全国小炒肉大王费大厨辣椒炒肉”，变更为“你好，你好，精选黑猪肉，专业大厨炒”。 创始人费良慧在内部信中坦言，自8月1日《社会组织评比表彰活动管理办法》施行后，公司即刻在8月3日确认了门店陈列升级方案。全国200余家直营门店正陆续撤下这一称号，预计8月底全部完成。 然而，这一“退位”的直接导火索是源于一个",
-    "publishedAt": "2026-08-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-grab-620-1786617449000",
-    "title": "Grab增长620%：好数据不等于好生意",
-    "link": "https://www.tmtpost.com/8102247.html",
-    "summary": "Grab的620%增长，本质上是会计处理放大了经营改善的信号。",
+    "id": "news--1786617447000",
+    "title": "宇树上市，智元递表：中国机器人按下发令枪",
+    "link": "https://www.tmtpost.com/8102269.html",
+    "summary": "聪明的脑子，灵活的身体，哪个更重要？",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -276,49 +332,48 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scientists-just-created-female-clones-of-male-mice-1786561188000",
-    "title": "Scientists just created female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
-    "publishedAt": "2026-08-12",
+    "id": "news-how-kids-feel-about-ai-in-their-own-words-1786611600000",
+    "title": "How kids feel about AI, in their own words",
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-amazon-will-train-on-twitch-streamers-8217-content-by-defaul-1786565440000",
-    "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "publishedAt": "2026-08-12",
+    "id": "news-instagram-introduces-a-redesigned-wordmark-1786635962000",
+    "title": "Instagram introduces a redesigned wordmark",
+    "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+    "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+    "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-no-surprises-act-overhaul-brings-new-rules-for-employer-heal-1786621548000",
-    "title": "No Surprises Act overhaul brings new rules for employer health plans",
-    "link": "https://hrexecutive.com/no-surprises-act-overhaul-brings-new-rules-for-employer-health-plans/",
-    "summary": "The rules are part of a major independent dispute resolution system reboot. The post No Surprises Act overhaul brings new rules for employer health plans appeared first on HR Executive .",
+    "id": "news-oracle-plans-more-layoffs-before-its-next-fiscal-quarter-rep-1786620640000",
+    "title": "Oracle plans more layoffs before its next fiscal quarter: Report",
+    "link": "https://hrexecutive.com/oracle-plans-more-layoffs-before-its-next-fiscal-quarter-report/",
+    "summary": "Cuts would follow a reduction of about 21,000 employees in fiscal 2026 and come as Oracle’s infrastructure spending reaches tens of billions. The post Oracle plans more layoffs before its next fiscal quarter: Report appeared first on HR Executive .",
     "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "organization"
     ]
   },
   {
-    "id": "news-most-4-year-graduates-work-in-same-state-as-their-alma-mater-1786542840000",
-    "title": "Most 4-year graduates work in same state as their alma mater, report finds",
-    "link": "https://www.hrdive.com/news/most-4-year-graduates-work-in-same-state-as-their-alma-mater-report-finds/827576/",
-    "summary": "States looking to grow their college-educated workforce should focus on &ldquo;homegrown talent&rdquo; over wooing outside workers, according to the analysis.",
+    "id": "news-court-approves-forensic-review-of-ex-flex-cfo-candidate-s-pe-1786561920000",
+    "title": "Court approves forensic review of ex-Flex CFO candidate’s personal devices",
+    "link": "https://www.hrdive.com/news/court-approves-forensic-review-ex-flex-cfo-candidates-personal-devices-tradesecrets-legalissues/827664/",
+    "summary": "A &lsquo;forensic vendor&rsquo; will look through Alex Anderson&rsquo;s personal computer and devices to secure confidential information relating to Flex, according to the order.",
     "publishedAt": "2026-08-12",
     "source": "HR Dive",
     "tags": [
@@ -338,60 +393,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-900-1786622882000",
-    "title": " 腾讯开始撒币了，还投了个900亿公司 ",
-    "link": "https://www.huxiu.com/article/4882961.html?f=rss",
-    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部 #coding#Lovable#Cursor#腾讯#AI应用#灵感菇智能 腾讯终于把自己的半年答卷交出来了。资本开支冲到528亿元、同比激增176%，自由现金流转负138亿元，为2005年以来首次。 腾讯终于又开始撒币了。一边在AI基建端砸出历史级capex，我关注到，腾讯还在应用端下了一个小注。 据了解，瑞典公司Lovable完成4亿美元C轮融资，估值133亿美元，约合900亿元人民币，腾讯也出现在新股东名单。 Lovable是Vibe Coding龙头之一。目前，腾讯已拥有面向普通创作者的成品Coding平台吐司、服务专业开发者的CodeBuddy、可私有化部署的开源底座OpenVibeCoding。再加上职场桌面Agent Harness WorkBuddy，及本地系统级桌面Agent Mauvis。 在此前提下，腾讯又首次投了Lovable。不声不响的，腾讯已经把AI coding的所有产品形态集齐了。 不过，Coding的赛道里最大的公司Cursor，已被马斯克的SpaceX以600亿美元签下、预计2026年三季度交割，Windsurf、Devin也分别被OpenAI和Cognition收走。 另一头是Coding公司估值的继续膨胀，Lovable这一轮就冲到133亿美元。相较上一轮翻了近一倍，时间间隔了半年多。 而且",
-    "publishedAt": "2026-08-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786617447000",
-    "title": "宇树上市，智元递表：中国机器人按下发令枪",
-    "link": "https://www.tmtpost.com/8102269.html",
-    "summary": "聪明的脑子，灵活的身体，哪个更重要？",
-    "publishedAt": "2026-08-13",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-scaling-ai-agents-with-trustworthy-data-1786553517000",
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
-    "publishedAt": "2026-08-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-grubhub-8217-s-24m-ftc-settlement-is-finally-reaching-diners-1786559661000",
-    "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
-    "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-    "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
-    "publishedAt": "2026-08-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
     ]
   }
 ];
@@ -772,6 +773,40 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136576",
+    "title": "Tunnel Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4260 Contract Type Permanent Closing Date 19 August, 2026 Job Ca"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "London, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576",
+    "postedAt": "2026-08-12",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136585",
+    "title": "Sub Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4259 Contract Type Permanent Closing Date 19 August, 2026 Job Ca"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "London, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
+    "postedAt": "2026-08-12",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136555",
     "title": "Artificial Intelligence Specialist",
     "company": "Modi's Boutique",
@@ -885,7 +920,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RMTQ1LjEzMi4xMDAuNjU= when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDAuNjU=)",
+      "Please mention the word **STRIVING** and tag RNTIuMTU5LjI0Ny43MA== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny43MA==)",
       "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
@@ -894,25 +929,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-need-find-out-the-us-border-wait-times-real-time-both-directions-https-www-lalineaapp-com-twittaer-1136351",
     "postedAt": "2026-08-07",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136279",
-    "title": "CR281 Customs Agent",
-    "company": "FedEx",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Performs an advanced level of processing, coordinating, and obtaining customs clearance approval for import/export and transshipments of documents, packages, an"
-    ],
-    "skills": [
-      "Agent",
-      "AWS"
-    ],
-    "location": "Providenciales, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
-    "postedAt": "2026-08-07",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-13T13:01:19.187Z';
+export const dataFetchedAt = '2026-08-13T18:58:48.568Z';

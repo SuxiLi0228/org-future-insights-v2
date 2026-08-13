@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-14-auto",
+    "date": "2026-08-14",
+    "session": "auto",
+    "title": "2026-08-14 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-14-auto-1",
+        "emoji": "🚨",
+        "title": "Building a practical path to post-quantum cryptography",
+        "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
+        "detail": "来源: MIT Technology Review。Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
+      },
+      {
+        "id": "sig-2026-08-14-auto-2",
+        "emoji": "⚠️",
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+        "detail": "来源: TechCrunch。Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+      },
+      {
+        "id": "sig-2026-08-14-auto-3",
+        "emoji": "🚨",
+        "title": "AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work",
+        "summary": "A recent study suggests that rather than asking how to get people to use AI, employers should ask how groups experience AI differently and tailor their approaches. The post AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work appeared first on HR Executive .",
+        "detail": "来源: HR Executive。A recent study suggests that rather than asking how to get people to use AI, employers should ask how groups experience AI differently and tailor their approaches. The post AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ai-adoption-isnt-one-size-fits-all-5-strategies-to-make-it-work/"
+      },
+      {
+        "id": "sig-2026-08-14-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：AVA-Encoder: Towards Agent-Native Video Representation Learn...",
+        "summary": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
+        "detail": "作者: Chuyue Li, Jinpeng Yu, Haozhe Wang。Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is both faithful to film content and directly usable for agentic reasoning and manipulation. To address the challenge, we propose the Agentic Video Auto-Encoder (AVA-Encoder), a framework for learning agent-native video representations via agentic auto-encoding. AVA-Encoder transforms a video into a knowledge graph (KG) representation and then reconstructs it back into video. Its hierarchy and state nodes store structured text, while a linked asset layer holds generated images, audio, and video. Typed edges preserve the relations between these text descriptions and assets in a f",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.12313v1"
+      },
+      {
+        "id": "sig-2026-08-14-auto-5",
+        "emoji": "💼",
+        "title": "Skanska Costain STRABAG Joint Venture 正在招募 Tunnel Agent",
+        "summary": "岗位类型：业务+AI 复合岗。Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4260 Contract Type Permanent Closing Date 19 August, 2026 Job Ca",
+        "detail": "技能要求: Agent。Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4260 Contract Type Permanent Closing Date 19 August, 2026 Job Ca",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Skanska Costain STRABAG Joint Venture"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Skanska Costain STRABAG Joint Venture",
+        "link": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-14-1",
+        "priority": "high",
+        "action": "关注「Building a practical path to post-quantu」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-14-2",
+        "priority": "medium",
+        "action": "关注「Anthropic set AI agents loose on the sam」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-14-3",
+        "priority": "high",
+        "action": "关注「AI adoption isn&#8217;t one-size-fits-al」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-14-4",
+        "priority": "medium",
+        "action": "关注「研究速递：AVA-Encoder: Towards Agent-Native V」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-14-5",
+        "priority": "medium",
+        "action": "关注「Skanska Costain STRABAG Joint Venture 正在」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Skanska Costain STRABAG Joint Venture"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-14 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-08-14 00:00 - 2026-08-14 23:59"
+  },
+  {
     "id": "report-2026-08-13-auto",
     "date": "2026-08-13",
     "session": "auto",
