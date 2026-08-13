@@ -2,16 +2,15 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-scientists-just-created-female-clones-of-male-mice-1786561188000",
-    "title": "Scientists just created female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
-    "publishedAt": "2026-08-12",
+    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
+    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -28,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hiring-rebounds-in-july-but-ai-and-economic-uncertainty-resh-1786537855000",
-    "title": "Hiring rebounds in July, but AI and economic uncertainty reshape demand",
-    "link": "https://hrexecutive.com/hiring-rebounds-in-july-but-ai-and-economic-uncertainty-reshape-demand/",
-    "summary": "July payrolls fell, but hiring plans jumped 47%. See what Challenger, BLS and ManpowerGroup data reveal about how companies are hiring now. The post Hiring rebounds in July, but AI and economic uncertainty reshape demand appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
+    "id": "news-ai-adoption-isn-8217-t-one-size-fits-all-5-strategies-to-mak-1786624233000",
+    "title": "AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work",
+    "link": "https://hrexecutive.com/ai-adoption-isnt-one-size-fits-all-5-strategies-to-make-it-work/",
+    "summary": "A recent study suggests that rather than asking how to get people to use AI, employers should ask how groups experience AI differently and tailor their approaches. The post AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work appeared first on HR Executive .",
+    "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -54,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-q1-ai-1786602832000",
-    "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
-    "link": "https://www.qbitai.com/2026/08/471697.html",
-    "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+    "id": "news-4-8-agent-1786624482000",
+    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+    "link": "https://www.qbitai.com/2026/08/472059.html",
+    "summary": "首颗AI芯片已进入量产",
     "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
@@ -67,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786603483000",
-    "title": " 肯尼亚公民起诉肯尼亚选举委员会选举时间违宪 ",
-    "link": "https://www.huxiu.com/article/4882835.html?f=rss",
-    "summary": "本文来自微信公众号： 小聂说非洲 ，作者：聂少锐 肯尼亚人最近又跟宪法较上劲了。这一次，他们争论的不是谁赢了选举，也不是选票有没有被做手脚，而是盯着宪法中的几个英文单词，认真计算总统究竟应该在哪一年接受选民检验。 2026年8月7日，肯尼亚马林迪高等法院作出一项极具争议的判决：按照宪法第136条的字面含义，肯尼亚下一次总统选举本应在2026年8月11日举行，而不是人们普遍认定的2027年8月10日。如果把选举安排在2027年，原则上将违反宪法。 提出这场诉讼的，不是反对党，也不是准备挑战鲁托的总统候选人，而是三名普通肯尼亚公民：律师Dr.Owiso Owiso、人权活动人士Khelef Khalifa以及律师Ashioya Biko。他们把肯尼亚总检察长和独立选举与边界委员会，也就是IEBC，一起告上了法庭。 三个公民，要法院审查一个国家宪法机构的决定；几个律师，拿着一本宪法，要挑战整个国家已经接受多年的选举时间表。这件事本身，就是肯尼亚宪政制度的一部分。 三个公民，给全国算了一道日期题。肯尼亚上一次大选是在2022年8月9日举行的。按照IEBC公布的安排，下一次大选将在2027年8月10日举行。2022到2027，正好五年。无论普通人还是政治家，过去一直认为这没有什么问题。 但三名申请人偏偏要对着宪法抠字眼。肯尼亚宪法第136条规定，总统选举应当与国会议员选举同时举行，具体时间是",
+    "id": "news-6-4-1786624734000",
+    "title": " 关税战还要打？美国退税6.4亿，特朗普又推新关税 ",
+    "link": "https://www.huxiu.com/article/4882968.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 中国企业被特朗普政府加征的关税，从美国海关退回来了。 8月12日盘后，春风动力发布公告，累计收到美国关税退税3860.79万美元，折合人民币约2.62亿元。 图为A股上市公司收到的退税金额图源：网络 算上此前陆续披露的华海药业、贵州轮胎、银都股份等公司，截至目前已有至少9家A股上市公司公告收到退税，合计超9080万美元，折合人民币逾6.4亿元。 而这笔钱能被退回来，源于今年2月美国最高法院作出的一份判决。 美国最高法院9位大法官以6票赞成、3票反对，裁定特朗普政府依据《国际紧急经济权力法》（IEEPA）加征的“对等关税”“芬太尼关税”越权、自始无效，已征收的税款必须全额退还并加付利息。 图为美国公布的关税退款最新进展图源：网络 随后，美国海关与边境保护局（CBP）4月20日正式启动退税流程；截至7月底，已核定并送交财政部支付的退款规模已达1000亿美元。 那么中美关税战就此结束了吗？对于准备出海拓展市场的中国企业来说，这轮退税又有哪些值得借鉴的经验和教训？ 01 千亿退税，谁能领到这笔钱？ 2026年2月20日，美国最高法院就Learning Resources(学习资源公司诉特朗普案)与V.O.S.Selections(特朗普诉VOS精选案)两案作出合并判决，明确IEEPA中的“规制进口”权力不包含征收关税。 首席大法官罗伯茨在多",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vibe-coding-1786603903000",
-    "title": "资本热捧Vibe Coding：企业估值狂飙，赛道出现分化",
-    "link": "https://www.tmtpost.com/8102019.html",
-    "summary": "近一年来，Vibe Coding赛道频现大额融资，初创公司估值水涨船高。",
+    "id": "news-alo-1786617590000",
+    "title": "中产三宝要加个ALO了",
+    "link": "https://www.tmtpost.com/8101691.html",
+    "summary": "比lululemon更贵的ALO，来中国抢钱了",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -94,16 +93,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scaling-ai-agents-with-trustworthy-data-1786553517000",
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
-    "publishedAt": "2026-08-12",
+    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
+    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
+    "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -120,18 +118,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-don-t-let-your-org-chart-dictate-your-ai-strategy-1786536958000",
-    "title": "Don’t let your org chart dictate your AI strategy",
-    "link": "https://hrexecutive.com/dont-let-your-org-chart-dictate-your-ai-strategy/",
-    "summary": "AI is changing work rapidly, but to get your team future ready, HR leaders have to prepare their workers and orgs in the right way. The post Don’t let your org chart dictate your AI strategy appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
+    "id": "news-understanding-the-eeoc-s-new-national-enforcement-plan-chang-1786623321000",
+    "title": "Understanding the EEOC’s new National Enforcement Plan: changing priorities, changing risks",
+    "link": "https://hrexecutive.com/understanding-the-eeocs-new-national-enforcement-plan-changing-priorities-changing-risks/",
+    "summary": "The EEOC's move toward the National Enforcement Plan comes with its own share of not only changes, but new risks, not just in DEI. The post Understanding the EEOC’s new National Enforcement Plan: changing priorities, changing risks appeared first on HR Executive .",
+    "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
@@ -149,10 +144,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1786597850000",
-    "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-    "link": "https://www.qbitai.com/2026/08/471668.html",
-    "summary": "",
+    "id": "news-grok-4-6-fable-5-cursor-1786622669000",
+    "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+    "link": "https://www.qbitai.com/2026/08/472067.html",
+    "summary": "马斯克版Workbuddy也来了",
     "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
@@ -162,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786603308000",
-    "title": " 越宣传男女平等，结果生男孩的反而越多？ ",
-    "link": "https://www.huxiu.com/article/4882833.html?f=rss",
-    "summary": "本文来自微信公众号： 雷叔写故事 ，作者：乌卡 最近刷到好几条新闻，都在说近几年来新生儿中男孩女孩的比例依然相当失衡。 最显眼的场景出现在幼儿园里。 有老师在社媒上晒班级合照，男孩的队伍比女孩长出一截，老师自嘲这是“和尚班”。 媒体走访时也发现，这不是个例。 江西某公立幼儿园，男孩26个，女孩7个。 北京某幼儿园，男孩14个，女孩3个。 云南一所幼儿园小班，男孩7个，女孩3个。 网上很多家长发出了相似的感慨，说送自家孩子去上学，女孩基本都是个位数。 光看个人感受固然容易身边即世界，但再看看统计数据就知道，有些问题确实存在。 通常来说，人类在自然状态下，出生性别比在103到107之间，即每100个女孩对应103到107个男孩。105左右是正常值。 但在2024年的中国，这个数字达到了111.7，比联合国确立的标准值高出不少。 世界经济论坛发布的《2025年全球性别差距报告》里，中国在出生性别比这个指标排全球第146名，是倒数第三名。 光看这些数据，很容易指向一个直观的解释：“重男轻女”。身边很多人也在震惊，觉得这都什么年代了，怎么还在搞这套糟粕。 但仔细想想，又有些奇怪。 因为最近这些年，我们能够感受到公共话语似乎在往完全相反的方向走。电视上流行大女主剧，社交媒体的热搜动不动就是“女性主义觉醒”，越来越多人参与呼吁男女平等平权。 看起来明明一切都在变好，怎么一看基础数据，反而依旧如此",
+    "id": "news--1786624639000",
+    "title": " 等待下一袋血 ",
+    "link": "https://www.huxiu.com/article/4882967.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：张铃 等血，在许多血液病患者治疗过程中反复出现。白血病患者组织暖白小屋曾针对1309名白血病、淋巴瘤、骨髓瘤患者及家属发起用血调研。结果显示，37%的人曾因未能及时输血遭遇危险，包括晕倒、耽误治疗、大出血，甚至死亡。 8月9日，经过近一周的等待，吴岚的母亲终于等来了血。 因为极度贫血，母亲虚弱到无法坐起。无奈之下，吴岚联系了“血头”，支付5000元，为母亲换来两个单位的红细胞。 输血后，母亲的状态很快改善，可以坐起来吃饭，也不再吃一口就停下来喘气。吴岚没有告诉母亲这袋血是怎么得来的。 经济观察报了解到，目前，中国临床用血处于紧平衡状态，血液不足时，一些择期手术不得不延期，一些需要输血的内科患者也需要等待。 “从临床来看，用血最多的是血液科，80%的血小板是血液科用掉的。”香港大学深圳医院血液科医生王钧说，公众最熟悉的是外伤、车祸、烧伤、紧急手术等急性用血，其实血液科患者是长期、大量用血人群。急性白血病、恶性淋巴瘤、多发性骨髓瘤、重型地中海贫血以及接受造血干细胞移植的患者，在治疗时都需多次输血。 等血，在许多血液病患者治疗过程中反复出现。白血病患者组织暖白小屋曾针对1309名白血病、淋巴瘤、骨髓瘤患者及家属发起用血调研。结果显示，37%的人曾因未能及时输血遭遇危险，包括晕倒、耽误治疗、大出血，甚至死亡。 在等待之外，一些人寻找着另外的路：有人",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
@@ -175,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786598929000",
-    "title": "微信，要用AI杀死社交吗？",
-    "link": "https://www.tmtpost.com/8101419.html",
-    "summary": "腾讯在ai投入上一路狂奔",
+    "id": "news-ai-1786617523000",
+    "title": "罕见表态，张一鸣全面升级AI大战",
+    "link": "https://www.tmtpost.com/8102072.html",
+    "summary": "不蒸馏，练内功。",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -189,11 +184,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-our-35-young-innovators-and-the-censorship-indu-1786536600000",
-    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
-    "publishedAt": "2026-08-12",
+    "id": "news-how-kids-feel-about-ai-in-their-own-words-1786611600000",
+    "title": "How kids feel about AI, in their own words",
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -214,16 +209,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fortitude-re-s-ai-hiring-playbook-faster-hires-fewer-exits-1786536016000",
-    "title": "Fortitude Re’s AI hiring playbook: Faster hires, fewer exits",
-    "link": "https://hrexecutive.com/fortitude-res-ai-hiring-playbook-faster-hires-fewer-exits/",
-    "summary": "Denise Nichols, Fortitude Re’s people officer, offers HR leaders a case study in using AI to redesign TA without automating the final call. The post Fortitude Re’s AI hiring playbook: Faster hires, fewer exits appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
+    "id": "news-why-hiring-numbers-hide-the-real-workforce-story-1786622404000",
+    "title": "Why hiring numbers hide the real workforce story",
+    "link": "https://hrexecutive.com/why-hiring-numbers-hide-the-real-workforce-story/",
+    "summary": "July&#8217;s jobs report showed that payrolls fell even as layoff announcements hit a two-year low and hiring plans jumped. For Peter Miscovich, global future of work leader at JLL, the numbers don’t offer a full explanation. &#8220;Workforce transformation is becoming more nuanced, and it cannot be fully captured by traditional headcount metrics in jobs reports.&#8221; [&#8230;] The post Why hiring numbers hide the real workforce story appeared first on HR Executive .",
+    "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "strategy"
     ]
   },
   {
@@ -241,10 +236,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-v4-pro-fable-5-1786593241000",
-    "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
-    "link": "https://www.qbitai.com/2026/08/471642.html",
-    "summary": "现在调用V4 Pro，能直接用上完全体",
+    "id": "news-40-2-ai-1786621982000",
+    "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+    "link": "https://www.qbitai.com/2026/08/472060.html",
+    "summary": "重新定义物理AI数据基础设施",
     "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
@@ -254,24 +249,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-40-1786603180000",
-    "title": " 40岁，被房地产甩下，上行与衰退间，他试着区分 ",
-    "link": "https://www.huxiu.com/article/4882832.html?f=rss",
-    "summary": "本文来自微信公众号： 芥末堆 ，作者：左希，责编：Rachel 日子过得像撕卫生纸一样快。 这是老丁40岁后强烈的一种感受。过去十几年，他习惯的是另一种时间尺度。 一个楼盘从拿地、定位、推广，到开盘销售，有清晰节奏；一个营销方案从市场调研到落地执行，有明确的节点；一支二十人的团队，可以围绕一个目标快速运转。城市在扩张，土地在升值，资产在膨胀。一个普通人的个人命运，可以被宏观增长直接改变。“风来了，猪也能飞”是历史事实。 老丁曾经属于那个时代。他做房地产策划，进入头部房企，管理团队，见证过行业最狂热的时刻。直到一切慢慢远去。 公司已经裁到第四轮。“以前满满当当的食堂，现在只能看到二十几个人，食堂大厨换成阿姨了。”说这句话时他语气平静。作为管理层，老丁早已习惯把情绪隐藏。他看着熟悉的人一个个离开，看着曾经庞大的行业收缩，看着曾经坚信的职业路径一点点失去准星。 让他不安的，并不是失去一份工作，而是一个40岁的人，突然发现熟悉的世界正在失去它原来的运行规则。于是，他开始学习一件过去从未想过的事情：写代码。 准确来说，是借助AI写代码。没有系统学习过编程的老丁自学Claude Code、Codex工具，几个月时间里，做出了一款面向K12教师的AI备课工具。输入一个课程主题，它可以生成教案、分层练习题、教学反思、说课稿和PPT课件。产品上线三个多月，已经有真实付费用户。 这听起来像一个AI创业",
+    "id": "news--1786624189000",
+    "title": " 一夜间，大师落幕，大王退场，餐饮“头衔营销” 时代终结 ",
+    "link": "https://www.huxiu.com/article/4882966.html?f=rss",
+    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：程三月，原文标题：《一夜间，大师落幕，大王退场！餐饮 “头衔营销” 时代终结！》 一夜之间，“大师”清零，“名店”卸匾，“大王”退位。 中国餐饮业正迎来一场声势浩大的“摘牌风暴”！ 最近，费大厨全国200余家门店陆续下架沿用近6年的“全国小炒肉大王”IP，换掉标志性上菜口号，成为行业整改最受瞩目的缩影。 而导火索，来自中国烹饪协会的一纸重磅公告：协会历年颁发的中国烹饪大师、名师等全部称号即刻失效，禁止一切商业宣传使用。 随即，内蒙古、河南、吉林、北京丰台等多地餐饮协会跟进，要求会员门店即刻摘除“名店”“示范店”等牌匾。 这绝非简单的牌匾整改，而是一场深刻的行业，靠协会头衔镀金、靠虚名溢价、靠称号造势的行业套路失灵了。 从厨师、门店到品牌，浮名退场，餐饮业“头衔式”营销的时代，彻底终结。 一夜之间，一场“摘牌风暴”席卷餐饮业 8月9日晚，费大厨辣椒炒肉北京朝阳合生汇店，“全国小炒肉大王”招牌悄然撤下。 店员上菜时的标志性口号，也从“你好，你好，全国小炒肉大王费大厨辣椒炒肉”，变更为“你好，你好，精选黑猪肉，专业大厨炒”。 创始人费良慧在内部信中坦言，自8月1日《社会组织评比表彰活动管理办法》施行后，公司即刻在8月3日确认了门店陈列升级方案。全国200余家直营门店正陆续撤下这一称号，预计8月底全部完成。 然而，这一“退位”的直接导火索是源于一个",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1786595535000",
-    "title": "房东“暴力涨租”，“吓跑”胖东来",
-    "link": "https://www.tmtpost.com/8101374.html",
-    "summary": "不满个别房东涨租，于东来毅然关店。",
+    "id": "news-grab-620-1786617449000",
+    "title": "Grab增长620%：好数据不等于好生意",
+    "link": "https://www.tmtpost.com/8102247.html",
+    "summary": "Grab的620%增长，本质上是会计处理放大了经营改善的信号。",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -282,15 +276,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-we-picked-35-of-the-world-s-top-young-scientists-and-eng-1786525720000",
-    "title": "How we picked 35 of the world’s top young scientists and engineers",
-    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+    "id": "news-scientists-just-created-female-clones-of-male-mice-1786561188000",
+    "title": "Scientists just created female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
     "publishedAt": "2026-08-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -308,16 +303,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-bill-targets-pto-gap-for-full-time-workers-1786535100000",
-    "title": "New bill targets PTO gap for full-time workers",
-    "link": "https://hrexecutive.com/new-bill-targets-pto-gap-for-full-time-workers/",
-    "summary": "Every full-time worker in the United States would be guaranteed at least two weeks of paid vacation under a bill introduced by Sen. Bernie Sanders, I-Vt. The post New bill targets PTO gap for full-time workers appeared first on HR Executive .",
-    "publishedAt": "2026-08-12",
+    "id": "news-no-surprises-act-overhaul-brings-new-rules-for-employer-heal-1786621548000",
+    "title": "No Surprises Act overhaul brings new rules for employer health plans",
+    "link": "https://hrexecutive.com/no-surprises-act-overhaul-brings-new-rules-for-employer-health-plans/",
+    "summary": "The rules are part of a major independent dispute resolution system reboot. The post No Surprises Act overhaul brings new rules for employer health plans appeared first on HR Executive .",
+    "publishedAt": "2026-08-13",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -334,10 +328,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-360-ai-1786590708000",
-    "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-    "link": "https://www.qbitai.com/2026/08/471624.html",
-    "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+    "id": "news-claude-2000-ai-1786620544000",
+    "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+    "link": "https://www.qbitai.com/2026/08/472016.html",
+    "summary": "好数学家不挑AI模型",
     "publishedAt": "2026-08-13",
     "source": "量子位",
     "tags": [
@@ -347,10 +341,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786601794000",
-    "title": " 国内外电信运营商AI业务布局差异研究 ",
-    "link": "https://www.huxiu.com/article/4882826.html?f=rss",
-    "summary": "本文来自微信公众号： 赛立信通信研究 ，作者：谢剑超 生成式人工智能、大模型和智能体技术快速发展，正在推动电信行业进入新一轮战略转型期。过去，电信运营商主要依靠移动通信、固定宽带、专线、流量及增值业务获得收入，网络的核心功能是完成信息传输和用户连接。进入人工智能时代后，网络连接仍然是数字经济运行的基础，但单纯依靠连接规模和流量增长已经越来越难以支撑运营商的长期发展。 人工智能对电信行业的影响主要体现在两个方向。一是“AI for Network”，即利用人工智能改造网络规划、建设、运维、客服、营销和内部管理，通过预测分析、自动决策和智能体协同降低成本、提高效率；二是“Network for AI”，即利用5G、光纤、数据中心、边缘节点和算力调度体系，为人工智能模型训练、推理和行业应用提供基础设施支撑。 短期来看，人工智能对运营商最直接的价值仍然是内部提效，包括降低网络运维成本、提高客服效率、优化资源调度以及辅助软件开发。长期来看，随着企业人工智能、边缘推理、智能汽车、机器人和多模态应用快速发展，运营商有机会将网络、算力、云、数据、安全和行业服务重新组合，形成新的业务增长空间。 尽管全球主要运营商都把人工智能视为重要战略方向，但中国、美国、欧洲和日韩运营商的布局重点并不相同。中国运营商倾向于建设覆盖算力、云、数据、模型、平台和行业应用的全栈体系；美国运营商更加重视网络、光纤、边缘计算",
+    "id": "news-900-1786622882000",
+    "title": " 腾讯开始撒币了，还投了个900亿公司 ",
+    "link": "https://www.huxiu.com/article/4882961.html?f=rss",
+    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部 #coding#Lovable#Cursor#腾讯#AI应用#灵感菇智能 腾讯终于把自己的半年答卷交出来了。资本开支冲到528亿元、同比激增176%，自由现金流转负138亿元，为2005年以来首次。 腾讯终于又开始撒币了。一边在AI基建端砸出历史级capex，我关注到，腾讯还在应用端下了一个小注。 据了解，瑞典公司Lovable完成4亿美元C轮融资，估值133亿美元，约合900亿元人民币，腾讯也出现在新股东名单。 Lovable是Vibe Coding龙头之一。目前，腾讯已拥有面向普通创作者的成品Coding平台吐司、服务专业开发者的CodeBuddy、可私有化部署的开源底座OpenVibeCoding。再加上职场桌面Agent Harness WorkBuddy，及本地系统级桌面Agent Mauvis。 在此前提下，腾讯又首次投了Lovable。不声不响的，腾讯已经把AI coding的所有产品形态集齐了。 不过，Coding的赛道里最大的公司Cursor，已被马斯克的SpaceX以600亿美元签下、预计2026年三季度交割，Windsurf、Devin也分别被OpenAI和Cognition收走。 另一头是Coding公司估值的继续膨胀，Lovable这一轮就冲到133亿美元。相较上一轮翻了近一倍，时间间隔了半年多。 而且",
     "publishedAt": "2026-08-13",
     "source": "虎嗅",
     "tags": [
@@ -361,10 +355,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bioscibex-100-1786595533000",
-    "title": "瑞士生物科技企业Bioscibex研发一次性摇摆式生物反应器，简化细胞培养流程 | 瑞士创新100强",
-    "link": "https://www.tmtpost.com/8101919.html",
-    "summary": "在单次工艺中实现从30毫升到30升的细胞扩增。",
+    "id": "news--1786617447000",
+    "title": "宇树上市，智元递表：中国机器人按下发令枪",
+    "link": "https://www.tmtpost.com/8102269.html",
+    "summary": "聪明的脑子，灵活的身体，哪个更重要？",
     "publishedAt": "2026-08-13",
     "source": "钛媒体",
     "tags": [
@@ -375,15 +369,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-the-8220-censorship-industrial-complex-8221-is-changing--1786471137000",
-    "title": "How the &#8220;censorship-industrial complex&#8221; is changing the internet and US policy",
-    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-    "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
-    "publishedAt": "2026-08-11",
+    "id": "news-scaling-ai-agents-with-trustworthy-data-1786553517000",
+    "title": "Scaling AI agents with trustworthy data",
+    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+    "publishedAt": "2026-08-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -890,8 +885,8 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RNC4xNTQuODUuMTY0 when applying to show you read the job post completely (#RNC4xNTQuODUuMTY0)",
-      "This is a beta feature to avoid spam applicants"
+      "Please mention the word **STRIVING** and tag RMTQ1LjEzMi4xMDAuNjU= when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDAuNjU=)",
+      "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
     "location": "安居, ",
@@ -920,4 +915,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-13T07:21:27.710Z';
+export const dataFetchedAt = '2026-08-13T13:01:19.187Z';
