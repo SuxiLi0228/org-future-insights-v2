@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-building-a-practical-path-to-post-quantum-cryptography-1786644702000",
-    "title": "Building a practical path to post-quantum cryptography",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
+    "id": "news-roundtables-inside-the-8220-censorship-industrial-complex-82-1786654800000",
+    "title": "Roundtables: Inside the &#8220;Censorship-Industrial Complex&#8221; Idea Shaping US Policy",
+    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-anthropic-set-ai-agents-loose-on-the-same-task-they-started--1786645694000",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "id": "news-investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-1786659160000",
+    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-brookings-researchers-slam-assumptions-in-work-requirements--1786634580000",
-    "title": "Brookings researchers slam assumptions in work requirements rule",
-    "link": "https://www.hrdive.com/news/cms-medicaid-work-requirements-rule-slammed-brookings-analysis/827777/",
-    "summary": "The Centers for Medicare &amp; Medicaid Services are being accused of fudging the data at the center of a rule that makes it harder for Medicaid enrollees to prove they&rsquo;re exempt from work requirements.",
+    "id": "news-alienating-and-cruel-eeoc-files-lawsuit-against-employer-for-1786653420000",
+    "title": "‘Alienating and cruel’: EEOC files lawsuit against employer for segregating DEI training by race",
+    "link": "https://www.hrdive.com/news/eeoc-lawsuit-washington-university-2026/827848/",
+    "summary": "This iteration of the U.S. Equal Employment Opportunity Commission has been vocal about cracking down on DEI in the context of Title VII.",
     "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
@@ -68,24 +67,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786637387000",
-    "title": " 土壤修复，“大工程时代”正在退潮 ",
-    "link": "https://www.huxiu.com/article/4883011.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：政策任务在变多，专项资金却没有同步变大。土壤治理的新增需求，正在从一类修复工程分化成三种不同的生意。 2026年7月，国务院印发的《美丽中国建设“十五五”规划》和六部门联合编制的《土壤、地下水和农业农村生态环境保护“十五五”规划》先后公布。 土壤污染重点监管单位、化工园区地下水、工业腾退地块、第二次全国土壤污染状况普查、大型污染场地和农用地重金属溯源整治，被放进了未来五年的任务清单。 如果只看政策密度，土壤修复似乎正在等一轮久违的大市场。 但另一组数字并不热闹。2026年中央土壤污染防治资金预算为41.8亿元，比2025年执行数下降5%。行业内少数专业上市公司仍在收缩传统业务、筛选付款条件，并处理历史应收账款。 政策任务变多，为什么工程收入没有一起放大？ 问题出在“土壤修复市场”这个说法本身。 它把源头防控、调查评估、风险管控、修复施工、开发协同和后期管理装进一个词里，看起来像一个市场，实际已经是客户、合同和现金流完全不同的几种生意。 美丽中国打开的 不是一张修复工程清单 美丽中国建设对土壤环境提出的目标很明确。 2024年公布的《中共中央国务院关于全面推进美丽中国建设的意见》提出，严防新增污染，逐步解决长期积累的土壤和地下水严重污染问题；到2035年，土壤环境风险得到全面管控。 2026年7月公布的《美丽中国建设“十五",
-    "publishedAt": "2026-08-13",
+    "id": "news-grok-4-6-1786670813000",
+    "title": " Grok 4.6上了牌桌，马斯克还差一部《奥德赛》 ",
+    "link": "https://www.huxiu.com/article/4883041.html?f=rss",
+    "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳，原文标题：《Grok 4.6上了牌桌，马斯克还差一部《奥德赛》》 Grok4.6，追平第一梯队。 AIX财经（AIXcaijing）原创 马斯克想让Grok在今年年底前拍完一部《奥德赛》。 这听起来像一个典型的马斯克式Flag：用AI挑战诺兰、好莱坞和2.5亿美元制作预算。但真正值得关注的，并不是Grok能不能在五个月里生成几千个镜头，而是它是否已经拥有把一项复杂任务从头做到尾的能力。 Grok 4.6发布后，这个问题有了更具体的答案。 在最新一轮模型竞争中，它已经挤进美国大模型的第一梯队：能力接近OpenAI和Anthropic的旗舰模型，编程成绩甚至在部分榜单领先，API价格却明显更低。与此同时，它在长链条Agent任务上的短板依然存在——会理解问题、会搭框架、会快速启动，却还不够稳定地收尾。 这恰好也是眼下大模型竞争的缩影。 当能力差距缩小、Token越来越便宜，真正决定商业价值的，已经不只是“模型有多聪明”，还要看一次任务能否稳定完成，以及完成一次到底要花多少钱。 对于一年向AI投入上百亿美元资本开支的马斯克来说，Grok也不能只是偶尔冲上一次榜单。它必须持续留在第一牌桌，并把算力、数据和分发真正变成收入。 01.Grok 4.6上了牌桌，但还拍不了《奥德赛》 诺兰的《奥德赛》上映前，马斯克已经骂了这部电",
+    "publishedAt": "2026-08-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-alo-1786617590000",
-    "title": "中产三宝要加个ALO了",
-    "link": "https://www.tmtpost.com/8101691.html",
-    "summary": "比lululemon更贵的ALO，来中国抢钱了",
-    "publishedAt": "2026-08-13",
+    "id": "news--1786671178000",
+    "title": "别了，“洋品牌”的黄金时代",
+    "link": "https://www.tmtpost.com/8102670.html",
+    "summary": "中国消费者从“仰视世界”到“平视世界”。",
+    "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -95,22 +95,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-is-tightening-its-rules-in-response-to-a-growing-surve-1786628470000",
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+    "id": "news-building-a-practical-path-to-post-quantum-cryptography-1786644702000",
+    "title": "Building a practical path to post-quantum cryptography",
+    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-openai-hires-new-cro-as-executive-shake-up-continues-1786640833000",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "id": "news-flock-says-its-new-tool-will-help-identify-police-abuse-but--1786658524000",
+    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -132,17 +133,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-most-employers-say-rising-healthcare-costs-force-salary-trad-1786634580000",
-    "title": "Most employers say rising healthcare costs force salary tradeoffs",
-    "link": "https://www.hrdive.com/news/most-employers-say-rising-healthcare-costs-force-salary-tradeoffs/827495/",
-    "summary": "Employers cited high drug prices, high-cost claims and hospital prices as their biggest threats to affordability.",
+    "id": "news-this-week-in-5-numbers-employees-say-bosses-don-t-work-as-ha-1786653420000",
+    "title": "This week in 5 numbers: Employees say bosses don’t work as hard",
+    "link": "https://www.hrdive.com/news/workers-say-bosses-dont-work-as-hard/827800/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much Apple will pay to settle U.S. Equal Employment Opportunity Commissions allegations.",
     "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -159,11 +159,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786617523000",
-    "title": "罕见表态，张一鸣全面升级AI大战",
-    "link": "https://www.tmtpost.com/8102072.html",
-    "summary": "不蒸馏，练内功。",
-    "publishedAt": "2026-08-13",
+    "id": "news--1786670269000",
+    "title": " 销量下滑，新品腰斩：这个夏天，冰淇淋“冷”了 ",
+    "link": "https://www.huxiu.com/article/4883040.html?f=rss",
+    "summary": "本文来自微信公众号： 深响 ，作者：深响 又一年“史上最热”夏天，冰淇淋生意却越来越难做。 数据显示： 2026年二季度国内雪糕/冰淇淋销售额同比下降13.1%，新品数量从去年的790个近乎腰斩至408个，行业扩张脚步明显放缓。 据马上赢，雪糕/冰淇淋均价过去三年持续下滑，截至今年5月，组合装件均价从9.14元降至8.46元、每百克均价由2.92元降至2.22元。 另据一项华东六省一市、127家区域批发商进行的联合调研，10元以上中高端雪糕销量跌幅达61.3%。 冰淇淋价格下滑 行业阵阵寒意，正传导至每一个玩家身上。 本土品牌的日子不好过，三元股份在6月的业绩说明会上承认八喜品牌业绩出现波动；茅台高层也公开表示正收缩冰淇淋业务、关闭部分线下门店。 国际大牌同样未能幸免，梦龙2025财年净利润大跌48.4%，在今年上半年的财报业绩会上，梦龙CEO Peter ter Kulve表示，由于天气条件不理想，中国市场5-6月销售额受到影响；哈根达斯线下门店客流连续四个季度出现两位数下跌，今年6月已将中国大陆线下门店和礼品业务的运营权打包出售给柠季领衔的财团。 一边是冰杯、冰饮品类持续爆火，一边是传统冰淇淋集体遇冷，强烈反差之下，一些严峻的生存问题摆到了整个行业面前：消费者夏日清凉消费需求一直都在，为什么冰淇淋反而卖不动了？高端路线走不通，低价下沉是不是唯一出路？面对健康化、理性化新趋势，品",
+    "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1-2-1786671171000",
+    "title": "1.2万亿美元顺差背后：出口竞争力与内需再平衡",
+    "link": "https://www.tmtpost.com/8102299.html",
+    "summary": "我国为什么能出口这么多，更多要从供给能力和国际竞争力寻找答案；我国为什么形成这么大的顺差，则必须认真讨论国内需求。下一步的问题，是把国内市场做得更强。",
+    "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -173,10 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
-    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "id": "news-flock-is-tightening-its-rules-in-response-to-a-growing-surve-1786628470000",
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -185,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev--1786639073000",
-    "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-    "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-    "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+    "id": "news-if-apple-sends-you-a-push-notification-alerting-you-to-a-spy-1786657811000",
+    "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+    "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+    "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -213,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-empathetic-leaders-drive-whether-ai-is-seen-as-an-opportunit-1786630620000",
-    "title": "Empathetic leaders drive whether AI is seen as an opportunity or a risk, survey finds",
-    "link": "https://www.hrdive.com/news/empathetic-leaders-drive-whether-ai-is-seen-as-an-opportunity-or-a-risk/827773/",
-    "summary": "Empathy lifted every AI metric measured, including employee optimism and sense of control over their work, according to a Businessolver report.",
+    "id": "news-columbia-faces-discrimination-lawsuit-from-palestinian-emplo-1786653420000",
+    "title": "Columbia faces discrimination lawsuit from Palestinian employees and students",
+    "link": "https://www.hrdive.com/news/columbia-faces-discrimination-lawsuit-from-palestinian-employees/827829/",
+    "summary": "Plaintiffs allege the Ivy League institution &ldquo;actively participated in and amplified&rdquo; racial and political targeting of its campus members.",
     "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
@@ -240,11 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grab-620-1786617449000",
-    "title": "Grab增长620%：好数据不等于好生意",
-    "link": "https://www.tmtpost.com/8102247.html",
-    "summary": "Grab的620%增长，本质上是会计处理放大了经营改善的信号。",
-    "publishedAt": "2026-08-13",
+    "id": "news--1786670243000",
+    "title": " 西北首家希尔顿再更名，神秘业主仍未亮相 ",
+    "link": "https://www.huxiu.com/article/4883039.html?f=rss",
+    "summary": "本文来自微信公众号： 酒管财经 ，作者：劳殿 多个OTA平台信息显示，西安富力希尔顿已经正式更名为“西安城墙希尔顿酒店”。 作为我国西北地区首家希尔顿品牌，该门店在经历万达、富力持有之后，已经迎来了第三任业主。 《酒管财经》在3个月前就已关注该项目的拍卖情况，一家位于山东的神秘业主折价拍得相关资产。只是，酒店新名字并未采取“业主+品牌”的惯用套路，反而将该项目所处的景区特色融入新名字当中。这亦能反映出该业主的低调和神秘。 事实上，当富力抛售旗下酒店资产之后，多股资本尝试抄底，而诸个酒店项目新业主的身份和背景也被行业津津乐道。 《酒管财经》更加关注的是，站在更长的时间维度来看，在这一场巨大的酒店资产腾挪中，究竟谁是最大的受益者？它又将对本土高端酒店未来的发展带来哪些改变和启发？ “西安城墙希尔顿”来了，业主神秘依旧 尽管仍未官宣，原西安富力希尔顿酒店在携程平台已经更名为“西安城墙希尔顿酒店”。在该平台上的诸多宣传图片中，仍有很多原酒店名称的身影。 《酒管财经》注意到，8月份剩余的所有日期，该酒店都不接受预定，直到9月1号之后才正式重启。接近600元的最低预定房价，对外传递着这家老牌高端酒店的竞争力。 携程平台显示的西安城墙希尔顿酒店预定价格 该酒店是我国西北地区首家希尔顿酒店，于2011年开业。最初，其业主为万达，酒店名称为“西安万达希尔顿酒店”。 后在2017年的那场“世纪交易”之",
+    "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1786670617000",
+    "title": "星途再调汇报线，奇瑞“海外掌门”张贵兵接棒李学用",
+    "link": "https://www.tmtpost.com/8102662.html",
+    "summary": "去年被纳入国内事业群，一年后，星途又换了一条汇报线，从李学用分管转到长期负责海外业务的张贵兵手中。国内销量仍在探底，海外却保持韧性，星途的未来，也因此多了一种新的可能。",
+    "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -254,10 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
-    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
+    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
+    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -266,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-open-sources-its-ranking-algorithm-letting-users-see-if-th-1786636800000",
-    "title": "X open sources its ranking algorithm, letting users see if they&#8217;ve been &#8216;shadowbanned&#8217;",
-    "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+    "id": "news-writer-introduces-new-ai-model-and-upgraded-harness-to-conta-1786655604000",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -291,10 +317,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mile-hi-foods-settles-for-1-5m-over-alleged-refusal-to-hire--1786630560000",
-    "title": "Mile Hi Foods settles for $1.5M over alleged refusal to hire women, Black and Afghan workers",
-    "link": "https://www.hrdive.com/news/mile-hi-foods-settles-for-15m-over-alleged-refusal-to-hire-women-black-a/827783/",
-    "summary": "The complaint alleged that when the HR manager opposed these practices, Mile Hi unlawfully retaliated by harassing and ultimately discharging her.",
+    "id": "news-brookings-researchers-slam-assumptions-in-work-requirements--1786634580000",
+    "title": "Brookings researchers slam assumptions in work requirements rule",
+    "link": "https://www.hrdive.com/news/cms-medicaid-work-requirements-rule-slammed-brookings-analysis/827777/",
+    "summary": "The Centers for Medicare &amp; Medicaid Services are being accused of fudging the data at the center of a rule that makes it harder for Medicaid enrollees to prove they&rsquo;re exempt from work requirements.",
     "publishedAt": "2026-08-13",
     "source": "HR Dive",
     "tags": [
@@ -318,11 +344,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786617447000",
-    "title": "宇树上市，智元递表：中国机器人按下发令枪",
-    "link": "https://www.tmtpost.com/8102269.html",
-    "summary": "聪明的脑子，灵活的身体，哪个更重要？",
-    "publishedAt": "2026-08-13",
+    "id": "news-89-1786669738000",
+    "title": " 在乌兰察布，89个数据中心跟羊抢水喝 ",
+    "link": "https://www.huxiu.com/article/4883038.html?f=rss",
+    "summary": "本文来自微信公众号： 着陆TouchBase ，编辑：国佳佳，作者：James 干旱，是乌兰察布的底色。 在这个离北京最近的草原牧区上，一直流传着一句土话：“十年九旱，九年春旱。” 水从天上落下来，还没渗进土里，就被草原上的大风和烈日无情地收走了。这不是文学修辞，而是冷酷的气象记录： 2022年，春旱接伏旱，一年连旱两回；2023年6月，大旱导致当地数十万头牲畜饮水困难，近万人临时性吃不上水。 然而，就在这片土地上，抬头望去，却是另一番图景： 华为、阿里、快手、腾讯、百度、字节乃至刚刚拿到超500亿融资的DeepSeek……89个数据中心项目签约落地乌兰察布。 华为云乌兰察布数据中心图源|华为云社区 它们不是来节水的，它们是来喝水的。 一座采用蒸发冷却的大型数据中心，夏季日耗水量可达数百万升，年耗水量相当于一个三四万人口县城的全部生活用水。 一边是牧民岌岌可危的水槽，另一边，是日夜运转的机房冷却塔。 乌兰察布牧民接生小羊图源网络 乌兰察布贫瘠的地下水系，真的能同时喂饱它们吗？ 越干旱，越适合建机房 所有人都知道AI耗水，但颠覆很多人认知的是，AI数据中心选址，几乎清一色往极度缺水的干旱地带扎。 据《卫报》2026年6月报道，美国809个规划中的数据中心项目，有517个坐落在过去一年持续干旱的地区。 为什么？因为数据中心的本质是一座巨型热量工厂，数万台高性能GPU全速运转时，热负荷堪",
+    "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-29-1786670612000",
+    "title": "单日蒸发29亿港元，股东减持承诺“惊动”沪上阿姨",
+    "link": "https://www.tmtpost.com/8102563.html",
+    "summary": "公告显示，自第一次禁售期延长届满之日（即2026年8月7日）起至2026年11月7日，公司6位股东合计减持股份数量不超过368万股，占公司总股本的约3.5%。",
+    "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -332,10 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-kids-feel-about-ai-in-their-own-words-1786611600000",
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
+    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -344,55 +384,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instagram-introduces-a-redesigned-wordmark-1786635962000",
-    "title": "Instagram introduces a redesigned wordmark",
-    "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-    "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+    "id": "news-databricks-wanted-to-raise-1b-investors-wanted-15b-it-settle-1786652079000",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-oracle-plans-more-layoffs-before-its-next-fiscal-quarter-rep-1786620640000",
-    "title": "Oracle plans more layoffs before its next fiscal quarter: Report",
-    "link": "https://hrexecutive.com/oracle-plans-more-layoffs-before-its-next-fiscal-quarter-report/",
-    "summary": "Cuts would follow a reduction of about 21,000 employees in fiscal 2026 and come as Oracle’s infrastructure spending reaches tens of billions. The post Oracle plans more layoffs before its next fiscal quarter: Report appeared first on HR Executive .",
-    "publishedAt": "2026-08-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-court-approves-forensic-review-of-ex-flex-cfo-candidate-s-pe-1786561920000",
-    "title": "Court approves forensic review of ex-Flex CFO candidate’s personal devices",
-    "link": "https://www.hrdive.com/news/court-approves-forensic-review-ex-flex-cfo-candidates-personal-devices-tradesecrets-legalissues/827664/",
-    "summary": "A &lsquo;forensic vendor&rsquo; will look through Alex Anderson&rsquo;s personal computer and devices to secure confidential information relating to Flex, according to the order.",
-    "publishedAt": "2026-08-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-claude-2000-ai-1786620544000",
-    "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-    "link": "https://www.qbitai.com/2026/08/472016.html",
-    "summary": "好数学家不挑AI模型",
-    "publishedAt": "2026-08-13",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -822,6 +823,25 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1136602",
+    "title": "Jenni AI",
+    "company": "AI Supermarket",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
+      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
+      "Used by aspiring and experienced trader"
+    ],
+    "skills": [
+      "OpenAI"
+    ],
+    "location": "Research, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+    "postedAt": "2026-08-11",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136388",
     "title": "Aragon AI",
     "company": "AI Supermarket",
@@ -920,7 +940,7 @@ export const generatedJobs: JobPosting[] = [
     "responsibilities": [
       "Need to find out the us border wait times in real time in both directions??",
       "https://www.lalineaapp.com..",
-      "Please mention the word **STRIVING** and tag RNTIuMTU5LjI0Ny43MA== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny43MA==)",
+      "Please mention the word **STRIVING** and tag RMTMyLjE5Ni4xNS4xODA= when applying to show you read the job post completely (#RMTMyLjE5Ni4xNS4xODA=)",
       "This is a beta feature to avoid spam applican"
     ],
     "skills": [],
@@ -928,8 +948,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-need-find-out-the-us-border-wait-times-real-time-both-directions-https-www-lalineaapp-com-twittaer-1136351",
     "postedAt": "2026-08-07",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-13T18:58:48.568Z';
+export const dataFetchedAt = '2026-08-14T01:39:40.348Z';
