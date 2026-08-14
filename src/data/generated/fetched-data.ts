@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-inside-the-8220-censorship-industrial-complex-82-1786654800000",
-    "title": "Roundtables: Inside the &#8220;Censorship-Industrial Complex&#8221; Idea Shaping US Policy",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
-    "publishedAt": "2026-08-13",
+    "id": "news-the-download-flock-8217-s-new-rules-cloning-8217-s-future-an-1786709841000",
+    "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+    "publishedAt": "2026-08-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-1786659160000",
-    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-    "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-    "publishedAt": "2026-08-13",
+    "id": "news-uber-and-pony-ai-plan-to-bring-2-000-robotaxis-to-europe-1786704270000",
+    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+    "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+    "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-isn-8217-t-one-size-fits-all-5-strategies-to-mak-1786624233000",
-    "title": "AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work",
-    "link": "https://hrexecutive.com/ai-adoption-isnt-one-size-fits-all-5-strategies-to-make-it-work/",
-    "summary": "A recent study suggests that rather than asking how to get people to use AI, employers should ask how groups experience AI differently and tailor their approaches. The post AI adoption isn&#8217;t one-size-fits-all. 5 strategies to make it work appeared first on HR Executive .",
-    "publishedAt": "2026-08-13",
+    "id": "news-google-insiders-warn-job-candidates-about-its-ai-hiring-filt-1786710651000",
+    "title": "Google insiders warn job candidates about its AI hiring filters",
+    "link": "https://hrexecutive.com/google-insiders-warn-job-candidates-about-its-ai-hiring-filters/",
+    "summary": "An internal document advises some job applicants on sidestepping AI screening tools, highlighting ongoing trust issues between employees and employers over AI-powered hiring processes. The post Google insiders warn job candidates about its AI hiring filters appeared first on HR Executive .",
+    "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -54,9 +54,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786688336000",
-    "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-    "link": "https://www.qbitai.com/2026/08/472718.html",
+    "id": "news-ai-ai-1786703136000",
+    "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+    "link": "https://www.qbitai.com/2026/08/473149.html",
     "summary": "",
     "publishedAt": "2026-08-14",
     "source": "量子位",
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harness-1786690800000",
-    "title": " 一切皆插件，Harness到底能改什么 ",
-    "link": "https://www.huxiu.com/article/4883107.html?f=rss",
-    "summary": "Deepseek正式放出Deepseek harness开发者预览版，直接以MIT协议开源，这个东西到底是什么？和咱们常说的skill有什么不一样？",
+    "id": "news-a6-1786709497000",
+    "title": " 一汽奥迪还没等到电动时代的“A6” ",
+    "link": "https://www.huxiu.com/article/4883257.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：武凯 北京市一家一汽奥迪4S店内，奥迪A4L仍与接替它的A5L同时销售。今年1月上市的新款Q5L旁边也有等待清库的上一代车型。店外密集停放着几十辆燃油车，奥迪A6L、Q5L占了大头。 新款奥迪A6L在今年3月上市，官方指导价较上一代下调超过10万元，接近老款此前的终端优惠幅度，这是品牌直面行业价格战的选择。界面新闻新闻了解到，目前有经销商又给出了3.5万元现金优惠；如果有旧车置换，厂家还能额外补贴3000元。 “现在A6L部分车型大概32万元可以落地。”一位销售人员向界面新闻介绍。这一促销对实际的销量提升比较有限，“以前A6L能占我个人销量的一半以上，现在已经达不到了。” 一位在店内看车的潜在客户对界面新闻称，新款奥迪A6L的设计偏向年轻化，较老款车型端庄、稳重的风格变化很大。“这可能让中老年人开起来太年轻，让年轻人开起来又太老气。” “四环标”曾经在中国市场构建起一种近乎无需解释的品牌信任。对多数消费者而言，奥迪A6是维持商务场合体面稳重的默认答案，以及一种不需要配置说明的身份识别。在相当长一段时间里，奥迪A6几乎等同于中国消费者对“豪华中大型轿车”的认知本身。 智能化和新能源改变了消费者评价豪华汽车的方式。小米、问界、理想、蔚来等品牌进入中高端市场后，智能辅助驾驶、座舱交互和软件体验成为购买决策的一部分。一汽奥迪在燃油车时代形成的产品价值",
     "publishedAt": "2026-08-14",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-glm-5-3-1786687990000",
-    "title": "GLM-5.3发布，基座没变，能力却涨了",
-    "link": "https://www.tmtpost.com/8103456.html",
-    "summary": "GLM-5.3的发布证明了后训练Scaling的潜力。",
+    "id": "news-robotruck-1786704910000",
+    "title": "Robotruck重新升温，无人货运开始算经济账",
+    "link": "https://www.tmtpost.com/8100924.html",
+    "summary": "小马智行重新押注Robotruck，无人货运正走向规模化落地，一场围绕效率、成本与商业模式的重算开始了。",
     "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
@@ -94,23 +94,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-building-a-practical-path-to-post-quantum-cryptography-1786644702000",
-    "title": "Building a practical path to post-quantum cryptography",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
-    "publishedAt": "2026-08-13",
+    "id": "news-this-scientist-is-helping-build-a-missing-map-of-childhood-1786698000000",
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+    "publishedAt": "2026-08-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-flock-says-its-new-tool-will-help-identify-police-abuse-but--1786658524000",
-    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+    "id": "news-investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-1786659160000",
+    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -120,15 +119,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-understanding-the-eeoc-s-new-national-enforcement-plan-chang-1786623321000",
-    "title": "Understanding the EEOC’s new National Enforcement Plan: changing priorities, changing risks",
-    "link": "https://hrexecutive.com/understanding-the-eeocs-new-national-enforcement-plan-changing-priorities-changing-risks/",
-    "summary": "The EEOC's move toward the National Enforcement Plan comes with its own share of not only changes, but new risks, not just in DEI. The post Understanding the EEOC’s new National Enforcement Plan: changing priorities, changing risks appeared first on HR Executive .",
-    "publishedAt": "2026-08-13",
+    "id": "news-ai-adoption-is-a-people-challenge-before-it-s-a-technology-o-1786709701000",
+    "title": "AI adoption is a people challenge before it’s a technology one",
+    "link": "https://hrexecutive.com/ai-adoption-is-a-people-challenge-before-its-a-technology-one/",
+    "summary": "\"From my vantage point as a chief people officer at the center of AI change, one thing is clear: Scaling AI is less about deploying tools and more about building the conditions for people to use them well,\" writes Ana White of Lumen. The post AI adoption is a people challenge before it’s a technology one appeared first on HR Executive .",
+    "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -145,11 +145,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-harness-1786636999000",
-    "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-    "link": "https://www.qbitai.com/2026/08/472208.html",
-    "summary": "欢迎，为后人种点树",
-    "publishedAt": "2026-08-13",
+    "id": "news-glm-5-3-coding-fable-5-40-bug-1786697271000",
+    "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+    "link": "https://www.qbitai.com/2026/08/473038.html",
+    "summary": "顺手拿下最强开源安全模型",
+    "publishedAt": "2026-08-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -158,10 +158,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-2-1786689775000",
-    "title": " Anthropic，2万亿美元估值谜局 ",
-    "link": "https://www.huxiu.com/article/4883136.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：李莹 Anthropic若实现2万亿美元IPO，最值得玩味的并非这一惊人估值，而是市场为了合理化该估值所需要的“姑且信之”的心理预设。 预测市场上，Anthropic的估值大幅波动。昨日关于其预计将于10月IPO，估值或将达到2万亿美元及以上的报道发布后，其估值曲线呈陡增态势。 一名投资者此前向媒体表示：“如果Anthropic每年增长800%，即便按极低标准，其营收倍数（市销率）也将达到30倍，对应企业估值将达到3万亿美元。” 业内指出，要认可这一估值水平，投资者必须做出多项假设：AI将以极快速度成为经济领域不可或缺的要素；少数前沿大模型开发企业将构筑坚固护城河；算力基础设施的高昂成本最终不会吞噬企业利润。 更为关键的是，投资者必须押注，在地缘竞争日趋激烈的大环境下，政治、技术与制度层面的固有风险，都要让位于AI增长叙事。 因此，投资方预测的Anthropic的天价估值可以被理解为：投资者并非是买入一家软件企业，而是在押注Anthropic获得AI战略主导权的看涨期权。 看涨期权的核心逻辑是投资者不必笃定当下就盈利，而是赌未来某件大事成真。放到AI身上，投资者赌的不是公司眼下的盈利水平，而是前沿AI未来所能掌控的战略地位。 但这份押注背后，依然潜藏着诸多不容忽视的风险。 市销率的参考价值 媒体指出，据Anthropic的内部预测报告，该公司正",
+    "id": "news-ai-1786708814000",
+    "title": " 从超级个体到组织收益，AI卡在哪？ ",
+    "link": "https://www.huxiu.com/article/4883140.html?f=rss",
+    "summary": "撰写：虎嗅智库 头图：现场拍摄 最近，龙湖集团的一场全员Agent大赛，收到了200多个参赛作品。 但对龙湖集团而言，数字倒还是其次，真正有价值的是通过比赛层层筛选，从中识别出了真正具备AI意识和业务能力的人和可落地的业务场景。 这也侧面说明当下的企业并不缺少使用AI的热情和应用涌现。 但真正困难的是，如何从大量探索中筛出值得投入的场景，再把少数人的有效方法沉淀为组织能力。 而在另一面，深耕AI企业落地多年的李少春也提醒，不少企业内部存在一类&ldquo;表演式AI&rdquo;：试点应用和Demo做了不少，却没有真正进入核心业务流程，更难在经营结果中得到价值验证。 两种现象指向的是同一个问题： AI可以快速制造局部创新，却不会自动带来组织效率。 8月7日，虎嗅智库邀请来自医药、消费、零售、供应链、地产及企业服务等领域的十余位AI实践者展开讨论。 参与者包括云南白药CIO李少春、天音控股CIO朱远刚、小仙炖CIO尤春、Lola Rose IT总监李久意、龙湖集团千丁智能产品总监卢文利、值得买科技营销FDE专家朱越、吉野家技术支持经理李宁、阿里千问办公京津冀区域总经理刘啸天、超级OPC联盟发起人黄有璨，以及特赞北区KA总监梁康毅等 讨论最终收束到同一个问题： 为什么AI已经带来大量局部提效，却还没有转化为组织效率和 经营结果。 AI项目不少，为什么经营价值仍然难以验证？ 当企业进入A",
     "publishedAt": "2026-08-14",
     "source": "虎嗅",
     "tags": [
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-82-10-96-1786680182000",
-    "title": "82亿市值、10.96亿定增，硕贝德押注三大热门赛道的激进赌局",
-    "link": "https://www.tmtpost.com/8103346.html",
-    "summary": "散热、智能眼镜、卫星通信三线扩产，前次募投“改道”前科下产能消化存疑。",
+    "id": "news-alo-nikeskims-1786704873000",
+    "title": "ALO天猫、微信官方渠道上线；NikeSKIMS品牌将于今秋登录上海；晚晚入驻淘宝创立个人女装品牌；李宁否认签约法国球星姆巴佩｜消研所周报",
+    "link": "https://www.tmtpost.com/8104054.html",
+    "summary": "PANE 携手专业网球品牌 HEAD 海德推出联名胶囊系列；宜家北京常营商场正式开业。",
     "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
@@ -186,11 +186,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-is-tightening-its-rules-in-response-to-a-growing-surve-1786628470000",
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+    "id": "news-job-titles-of-the-future-space-travel-agent-1786698000000",
+    "title": "Job titles of the future: Space travel agent",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him “the&#8230;",
+    "publishedAt": "2026-08-14",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-flock-says-its-new-tool-will-help-identify-police-abuse-but--1786658524000",
+    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
     "publishedAt": "2026-08-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-linkedin-8217-s-editor-in-chief-says-gets-a-post-flagge-1786708825000",
+    "title": "What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop",
+    "link": "https://hrexecutive.com/what-linkedins-editor-in-chief-says-gets-a-post-flagged-as-ai-slop/",
+    "summary": "LinkedIn's AI slop button flags generic content, not AI use. Get the insider scoop on what content and patterns are targeted. The post What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop appeared first on HR Executive .",
+    "publishedAt": "2026-08-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-columbia-faces-discrimination-lawsuit-from-palestinian-emplo-1786653420000",
+    "title": "Columbia faces discrimination lawsuit from Palestinian employees and students",
+    "link": "https://www.hrdive.com/news/columbia-faces-discrimination-lawsuit-from-palestinian-employees/827829/",
+    "summary": "Plaintiffs allege the Ivy League institution &ldquo;actively participated in and amplified&rdquo; racial and political targeting of its campus members.",
+    "publishedAt": "2026-08-13",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-ai-mau-2500-1786696560000",
+    "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+    "link": "https://www.qbitai.com/2026/08/473144.html",
+    "summary": "",
+    "publishedAt": "2026-08-14",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-lof-1786707886000",
+    "title": " 三类LOF的退市倒计时 ",
+    "link": "https://www.huxiu.com/article/4883252.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：洪小棠 张鹏瑞 从2004年作为创新品种问世，到如今占场内LOF超四成规模的相关产品拟被纳入退市程序，高溢价套利模式将如何走向终局？基金公司如何妥善承接投资者诉求？场内工具化产品的未来又将何去何从？ 8月10日至12日，在公募基金场内交易中，多只备受资金追捧的高溢价LOF（Listed Open-Ended Fund，即上市开放式基金）产品遭遇重挫。 8月10日，景顺长城全球芯片LOF（501225.OF）开盘即被巨量卖单封死跌停，南方原油LOF（501018.OF）、易方达原油LOF（161129.OF）、嘉实原油LOF（160723.OF）等深跌超6%至9%，全市场唯一的商品期货LOF——国投瑞银白银LOF（161226.OF）亦应声大跌6.77%。 LOF产品行情巨震的背后，是一份旨在治理场内基金高溢价炒作与流动性枯竭乱象的文件。8月7日，沪深交易所同步发布《关于就完善上市开放式基金相关安排公开征求意见的通知》（下称《通知》），拟分类明确商品期货LOF、QDII（合格境内机构投资者）LOF及小规模LOF等终止上市情形与程序。 从2004年作为创新品种问世，到如今占场内LOF超四成规模的相关产品拟被纳入退市程序，高溢价套利模式将如何走向终局？基金公司如何妥善承接投资者诉求？场内工具化产品的未来又将何去何从？ 划定退市红线 2004年8月",
+    "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-manus-ai-1786704062000",
+    "title": "重启人生的Manus，能重启AI出海的游戏规则吗？",
+    "link": "https://www.tmtpost.com/8102509.html",
+    "summary": "AI出海再不能事后“换马甲”。",
+    "publishedAt": "2026-08-14",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-cloning-could-be-used-to-save-species-or-make-human-organ-sa-1786698000000",
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.&#8230;",
+    "publishedAt": "2026-08-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -211,18 +303,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-hiring-numbers-hide-the-real-workforce-story-1786622404000",
-    "title": "Why hiring numbers hide the real workforce story",
-    "link": "https://hrexecutive.com/why-hiring-numbers-hide-the-real-workforce-story/",
-    "summary": "Peter Miscovich, global future of work leader at JLL, says mixed hiring data reflects a deliberate growth strategy at AI-mature organizations. The post Why hiring numbers hide the real workforce story appeared first on HR Executive .",
-    "publishedAt": "2026-08-13",
+    "id": "news-hr-frustrated-by-poor-employee-experience-with-hsa-vendors-1786707928000",
+    "title": "HR frustrated by poor employee experience with HSA vendors",
+    "link": "https://hrexecutive.com/hr-frustrated-by-poor-employee-experience-with-hsa-vendors/",
+    "summary": "Nearly three-quarters (73%) of HR professionals said \"employee feedback\" is the top factor they consider when reevaluating spending account providers. The post HR frustrated by poor employee experience with HSA vendors appeared first on HR Executive .",
+    "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -240,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-8-agent-1786624482000",
-    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-    "link": "https://www.qbitai.com/2026/08/472059.html",
-    "summary": "首颗AI芯片已进入量产",
-    "publishedAt": "2026-08-13",
+    "id": "news-10-1786692562000",
+    "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+    "link": "https://www.qbitai.com/2026/08/472722.html",
+    "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+    "publishedAt": "2026-08-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -253,10 +343,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786689000000",
-    "title": " 雪佛兰之后，下一个“隐退”的合资品牌会是谁？ ",
-    "link": "https://www.huxiu.com/article/4883104.html?f=rss",
-    "summary": "新能源车崛起，国产品牌迅猛发力，合资燃油车日益边缘。下一个&ldquo;隐退者&rdquo;是谁？",
+    "id": "news--1786707811000",
+    "title": " 汽车大战：赢得未来还是失去未来 ",
+    "link": "https://www.huxiu.com/article/4883251.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：高飞昌 霍婷婷 站在2026年的时间节点上，中国汽车产业面临的不是“要不要发展”的问题，而是“以什么方式发展”的抉择。是继续在恶性价格战的泥潭中消耗元气，直到利润耗尽？还是从规模上量转向价值回归，从恶性竞争转向良性整合？这个问题的答案，将关系着中国新能源汽车产业能否持续赢得未来。 2026年上半年，中国汽车产业交出了一份令人百感交集的成绩单。 据中国汽车工业协会数据，上半年新能源汽车产销分别完成743.8万辆和744.6万辆，同比分别增长6.7%和7.3%，新能源汽车新车销量占汽车新车总销量的49.6%；同期新能源汽车出口235.5万辆，同比增长1.2倍。 这组数据足以让任何一个工业强国侧目——中国汽车的产销规模已连续十多年位居全球第一，而新能源汽车的规模，更是站在了全球产业金字塔的顶端。 与规模高歌猛进形成反差的，是汽车行业利润的持续承压。2026年上半年，汽车行业营业收入约5.19万亿元，同比增长1.8%；营业成本约4.61万亿元，同比增长2.8%；利润总额约1954亿元，同比下降20%，销售利润率仅3.8%。收入微增、成本上升快、利润明显下降，形成了一道刺眼的剪刀差。 这不仅反映出汽车行业的周期性经营压力，也暴露出行业盈利模式和竞争结构中的深层次矛盾。 中国新能源汽车在电池技术和供应链成本等维度已形成显著优势。宁德时代的麒麟电池、比亚",
     "publishedAt": "2026-08-14",
     "source": "虎嗅",
     "tags": [
@@ -266,10 +356,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-600-1786676820000",
-    "title": "李健上任 600 天，荣耀造了台华为没造过的手机",
-    "link": "https://www.tmtpost.com/8103083.html",
-    "summary": "跌出前五后的绝地反击",
+    "id": "news--1786703989000",
+    "title": "康师傅，是怎么被农夫山泉反超的？",
+    "link": "https://www.tmtpost.com/8103266.html",
+    "summary": "多年前，康师傅的确是消费市场上最凶猛进攻者。",
     "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
@@ -280,10 +370,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-kids-8217-thoughts-on-ai-and-female-clones-of-m-1786623000000",
-    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "id": "news-roundtables-inside-the-8220-censorship-industrial-complex-82-1786654800000",
+    "title": "Roundtables: Inside the &#8220;Censorship-Industrial Complex&#8221; Idea Shaping US Policy",
+    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
     "publishedAt": "2026-08-13",
     "source": "MIT Technology Review",
     "tags": [
@@ -296,97 +386,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "publishedAt": "2026-08-13",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-no-surprises-act-overhaul-brings-new-rules-for-employer-heal-1786621548000",
-    "title": "No Surprises Act overhaul brings new rules for employer health plans",
-    "link": "https://hrexecutive.com/no-surprises-act-overhaul-brings-new-rules-for-employer-health-plans/",
-    "summary": "The rules are part of a major independent dispute resolution system reboot. The post No Surprises Act overhaul brings new rules for employer health plans appeared first on HR Executive .",
-    "publishedAt": "2026-08-13",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-most-employers-say-rising-healthcare-costs-force-salary-trad-1786634580000",
-    "title": "Most employers say rising healthcare costs force salary tradeoffs",
-    "link": "https://www.hrdive.com/news/most-employers-say-rising-healthcare-costs-force-salary-tradeoffs/827495/",
-    "summary": "Employers cited high drug prices, high-cost claims and hospital prices as their biggest threats to affordability.",
-    "publishedAt": "2026-08-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-grok-4-6-fable-5-cursor-1786622669000",
-    "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-    "link": "https://www.qbitai.com/2026/08/472067.html",
-    "summary": "马斯克版Workbuddy也来了",
-    "publishedAt": "2026-08-13",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786688821000",
-    "title": " “中国在骗人？”英国教授硬核反击：是你们自己不想搞清洁能源 ",
-    "link": "https://www.huxiu.com/article/4883129.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：观察者网，原文标题：《“中国在骗人？”英国教授硬核反击：是你们自己不想搞清洁能源！》 眼看着在新能源领域追不上中国，一些西方国家和媒体动起了其他心思，所谓“中国煤电悖论”、“中国气候悖论”、“中国煤炭悖论”又开始传播。 在这些西方气候保护人士和媒体的口中，中国被描述为一个两极化的实体，他们宣称即便中国已成为可再生能源的领导者，是能源转型的先锋，但中国仍是全球最大的煤炭使用国，因此也是碳排放的最大来源。 但在专业人士看来，这种说法根本是站不住脚的。长期研究中国能源产业的伦敦帝国理工学院电气与电子工程系副教授副教授乔尔达诺·斯卡乔蒂（GiordanoScarciotti）就在一则视频中，系统分析了中国可再生能源与煤电装机同步增长的工程、制度及地缘政治逻辑，并指出西方政客常以中国煤电建设为由延缓本国能源转型，实属推卸责任。 乔尔达诺·斯卡乔蒂： 在分析全球能源转型时，我们会发现，中国似乎正在表现出一种鲜明的矛盾。 一方面，国际能源报告强调，中国是可再生能源部署领域无可争议的领导者。另一方面，全球数据追踪机构的数据显示，中国仍在持续批准、资助并建设燃煤发电基础设施，其建设规模超过世界其他地区的总和。 这种鲜明的对比，已成为各国政策制定者、经济学家和政界人士争论的焦点。今年，中国还将获准新建数百座燃煤发电站。批评人士常以中国不断扩大的煤电机组为例，指出",
-    "publishedAt": "2026-08-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-16-500-1786676520000",
-    "title": "美的再花16亿“输血”合康新能， 500亿能源目标的第一步，能走稳吗？",
-    "link": "https://www.tmtpost.com/8102956.html",
-    "summary": "美的注资合康新能，家电巨头争相布局新能源。",
-    "publishedAt": "2026-08-14",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-s-behind-this-summer-s-heat-and-why-2027-could-be-worse-1786615200000",
-    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
-    "publishedAt": "2026-08-13",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-databricks-wanted-to-raise-1b-investors-wanted-15b-it-settle-1786652079000",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "publishedAt": "2026-08-13",
     "source": "TechCrunch",
     "tags": [
@@ -684,21 +683,6 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2608.13514v1",
-    "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
-    "authors": [
-      "Omar Montasser"
-    ],
-    "summary": "We revisit the problem of learning predictors robust to adversarial examples at test-time. We prove that VC classes are adversarially robustly learnable with sample complexity linear in the VC dimension $d$, providing an exponential improvement over the previous upper bound of Montasser, Hanneke, and Srebro (2019). Remarkably, this result is achieved with a simple improper algorithm that combines the classic heuristic bagging (bootstrap aggregation) of Breiman (1996) with robust empirical risk minimization (RERM). Our algorithm computes RERMs on $O(d^\\star)$ independent bootstrap samples and outputs their majority vote, where $d^\\star$ denotes the dual VC dimension. We complement this result with a lower bound showing that this is unavoidable: in general, any learner in this oracle model r",
-    "link": "http://arxiv.org/abs/2608.13514v1",
-    "publishedAt": "2026-08-13",
-    "categories": [
-      "stat.ML",
-      "cs.DS",
-      "cs.LG"
-    ]
-  },
-  {
     "id": "arxiv-2608.13515v1",
     "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
     "authors": [
@@ -717,6 +701,21 @@ export const generatedPapers: ArxivPaper[] = [
     "publishedAt": "2026-08-13",
     "categories": [
       "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.13514v1",
+    "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
+    "authors": [
+      "Omar Montasser"
+    ],
+    "summary": "We revisit the problem of learning predictors robust to adversarial examples at test-time. We prove that VC classes are adversarially robustly learnable with sample complexity linear in the VC dimension $d$, providing an exponential improvement over the previous upper bound of Montasser, Hanneke, and Srebro (2019). Remarkably, this result is achieved with a simple improper algorithm that combines the classic heuristic bagging (bootstrap aggregation) of Breiman (1996) with robust empirical risk minimization (RERM). Our algorithm computes RERMs on $O(d^\\star)$ independent bootstrap samples and outputs their majority vote, where $d^\\star$ denotes the dual VC dimension. We complement this result with a lower bound showing that this is unavoidable: in general, any learner in this oracle model r",
+    "link": "http://arxiv.org/abs/2608.13514v1",
+    "publishedAt": "2026-08-13",
+    "categories": [
+      "stat.ML",
+      "cs.DS",
+      "cs.LG"
     ]
   },
   {
@@ -1073,4 +1072,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-14T07:19:02.256Z';
+export const dataFetchedAt = '2026-08-14T12:57:31.697Z';
