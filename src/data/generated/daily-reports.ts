@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-15-auto",
+    "date": "2026-08-15",
+    "session": "auto",
+    "title": "2026-08-15 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-15-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+      },
+      {
+        "id": "sig-2026-08-15-auto-2",
+        "emoji": "⚠️",
+        "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
+        "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+        "detail": "来源: TechCrunch。Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
+      },
+      {
+        "id": "sig-2026-08-15-auto-3",
+        "emoji": "🚨",
+        "title": "Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences",
+        "summary": "Date &#038; Time: Wednesday, September 16, 2026 at 2:00 pm ET Hear from Workhuman’s own Cam Moore, VP of Strategy &#038; Operations, and Niamh Hoey, Senior Product Manager, to learn how organizations can rethink work anniversaries as strategic opportunities to strengthen belonging and reinforce culture. The post Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Wednesday, September 16, 2026 at 2:00 pm ET Hear from Workhuman’s own Cam Moore, VP of Strategy &#038; Operations, and Niamh Hoey, Senior Product Manager, to learn how organizations can rethink work anniversaries as strategic opportunities to strengthen belonging and reinforce culture. The post Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization",
+          "strategy"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/making-service-milestones-matter-transforming-work-anniversaries-meaningful-employee-experiences/"
+      },
+      {
+        "id": "sig-2026-08-15-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：AutoDesign: Meta-Harness Optimization for Long-Horizon Agent...",
+        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har",
+        "detail": "作者: Yaxin Luo, Haobin Jiang, Jialv Zou。Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design priors, where a meta-harness optimizer guides a code agent to recursively improve harness based on rollout feedback. To instantiate and evaluate this framework, we focus on the academic paper-to-poster generation task and introduce PosterBench, comprising a 100-paper Main Track spanning five discipl",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.13560v1"
+      },
+      {
+        "id": "sig-2026-08-15-auto-5",
+        "emoji": "💼",
+        "title": "Skanska 正在招募 Sub Agent",
+        "summary": "岗位类型：业务+AI 复合岗。At Skanska, we’re shaping the way we live, work and connect",
+        "detail": "技能要求: RAG, Agent。At Skanska, we’re shaping the way we live, work and connect As one of the world’s largest construction and development companies, we work together with customers, communities and partners to shape a better society You will be working in the (add in project/department/OU/EF) in where we are respons",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Skanska"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Skanska",
+        "link": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-15-1",
+        "priority": "medium",
+        "action": "关注「The Download: Flock&#8217;s new rules, c」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-15-2",
+        "priority": "medium",
+        "action": "关注「Unforgetful is a new reminders app for p」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-15-3",
+        "priority": "high",
+        "action": "关注「Making Service Milestones Matter: Transf」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-15-4",
+        "priority": "medium",
+        "action": "关注「研究速递：AutoDesign: Meta-Harness Optimizati」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-15-5",
+        "priority": "medium",
+        "action": "关注「Skanska 正在招募 Sub Agent」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Skanska"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-15 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-08-15 00:00 - 2026-08-15 23:59"
+  },
+  {
     "id": "report-2026-08-14-auto",
     "date": "2026-08-14",
     "session": "auto",
