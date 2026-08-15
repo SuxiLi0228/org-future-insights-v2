@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-qwen3-8-27b-1786722072000",
-    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-    "link": "https://www.qbitai.com/2026/08/473379.html",
-    "summary": "所有人都可免费下载部署及商用。",
-    "publishedAt": "2026-08-14",
+    "id": "news--1786767669000",
+    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+    "link": "https://www.qbitai.com/2026/08/473407.html",
+    "summary": "1.9万字全文实录",
+    "publishedAt": "2026-08-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786753131000",
-    "title": " 瑞幸咖啡：第一名有多焦虑？ ",
-    "link": "https://www.huxiu.com/article/4883305.html?f=rss",
-    "summary": "本文来自微信公众号： 好看商业 ，作者：好看商业，编辑：安心 虽然位居门店和营收规模双料第一，瑞幸仍然缺少安全感。 规模遥遥领先，这是瑞幸咖啡近几年在中国现磨咖啡市场的状态。 2021年底，瑞幸咖啡全国门店数达6024家，首次超越星巴克中国（5557家），成为国内门店最多的连锁咖啡品牌。 2023年，瑞幸咖啡营收规模超越星巴克中国，成为中国市场营收规模最大的咖啡连锁品牌。 至此，瑞幸咖啡成为中国咖啡市场门店和营收规模“双料第一”。 统计数据显示，2025年，瑞幸咖啡在我国现磨咖啡市场的份额为14.26%，位居第一；远超第二名库迪咖啡的7.65%。 但第一名的头衔并没能让瑞幸停下来给自己喘息的机会，疯狂开店，抢占市场份额始终被放在第一优先级。 2025年，瑞幸咖啡新增门店8708家，创过去三年最高纪录；2026上半年，瑞幸新增门店5262家，总门店数达到36310家。 放眼全球，拥有36310家门店的瑞幸咖啡也是规模仅次于星巴克的第二大连锁咖啡品牌。 星巴克目前在全球拥有约4.1万家门店，实现这个规模它用了55年，瑞幸的历史只有8年。 但瑞幸的管理层仍然觉得门店不够多，份额不够大。 在中国这个极“卷”的咖啡市场，瑞幸管理层对规模的执念背后，不只有信心和野心，也有不安。时至今日，瑞幸似乎需要不停地奔跑才能获得安全感。 冲规模:依然是第一优先级 在最近的财报电话会上，瑞幸管理层明确表示，",
+    "id": "news-125-1786774131000",
+    "title": " 洛杉矶湖人队125亿美元出售创纪录，重置职业运动队估值基准 ",
+    "link": "https://www.huxiu.com/article/4883337.html?f=rss",
+    "summary": "本文来自微信公众号： 福布斯 ，作者：Forbes 马克·沃尔特（Mark Walter）斥资100亿美元买下这支球队还不到一年，就像倒卖房产一样将其转手。不过，就算职业运动队买卖和估值领域存在泡沫，目前也还没有任何破裂的迹象。 高光时刻：NBA总裁亚当·萧华与湖人队准新东家——亿万富豪乔什·库什纳、迪士尼前首席执行官鲍勃·艾格合影。两人的收购仍需获得联盟批准。图片来源：XNY/STAR MAX/GC IMAGES/GETTY IMAGESXNY/Star Max/GC Images/Getty Images 美国娱乐体育节目电视网（ESPN）当地时间8月12日早间率先曝出消息称，亿万富豪风险投资家乔什·库什纳（Josh Kushner）与迪士尼前首席执行官鲍勃·艾格（Bob Iger）将以125亿美元的创纪录估值收购洛杉矶湖人队的控股权。从多个层面来看，这都是一个令人震惊的消息。 这笔交易打破了沃尔特自己创下的职业运动队收购价纪录。 去年10月，他刚以100亿美元从巴斯家族手中拿下湖人队控股权；巴斯家族选择出售前，已持有球队46年。如今时隔不到一年，这笔交易再次刷新整个NBA的市场估值基准。今年以来，美国国家橄榄球联盟（NFL）和美国职业棒球大联盟（MLB）也接连诞生创纪录的球队出售协议：8月，风险投资家维诺德·科斯拉（Vinod Khosla）牵头的投资团体同意以96亿美元收购",
     "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-15-1786754266000",
-    "title": "Edge AI Daily 早报（8月15日）",
-    "link": "https://www.tmtpost.com/8104435.html",
-    "summary": "英伟达510亿美元押注SpaceX和英特尔，转型AI基础设施总承包商。Google分层水印策略兼顾创作者体验与标准制定权，Meta开源薄模型换道德高地、闭源强模型锁商业命脉。OpenAI年化营收400亿美元但CFO警告IPO过早，同时放弃截图方案重新定义AI隐私边界。",
+    "id": "news-2026q2-1786774084000",
+    "title": "纯债基金深度掘金：济安金信2026Q2市场洞察与精选策略",
+    "link": "https://www.tmtpost.com/8104583.html",
+    "summary": "根据我国2015年修正的《证券投资基金法》的规定，我国的公募基金全部是契约型基金。遵守各种法律法规的规定和基金契约的约束是基金运作的两个刚性约束，济安评级将基金分为货币型、纯债型、一级债、二级债、股票型、混合型、封闭式、指数型、QDII、基金中基金（FOF）和REITs基金十一种类型。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -147,11 +147,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-meta-1786719565000",
-    "title": "7亿年薪留不住！余家辉离职Meta创业",
-    "link": "https://www.qbitai.com/2026/08/473261.html",
-    "summary": "真就只待了一年",
-    "publishedAt": "2026-08-14",
+    "id": "news--1786766617000",
+    "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+    "link": "https://www.qbitai.com/2026/08/473395.html",
+    "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+    "publishedAt": "2026-08-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -160,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786752290000",
-    "title": " 诺兰叔叔又把全世界骗进电影院了 ",
-    "link": "https://www.huxiu.com/article/4882633.html?f=rss",
-    "summary": "出品 | 虎嗅青年文化组 作者 | 黄瓜汽水 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 现在，诺兰应该算得上是导演界的&ldquo;世男一&rdquo;了。 如果不是诺兰，中国电影博物馆的点映票不会被炒到上千元。 被炒到火热的&ldquo;IMAX 70mm胶片&rdquo;规格，不仅在全亚洲找不到一块完美尺寸的银幕，全球仅有41家影院符合条件，观影门槛近乎苛刻。 无论是抢到票还没抢到票的，看激动的还是看睡着的，诺兰的电影永远不缺话题。 在你诺兰叔叔面前，电影行业没有寒冬。 一切要从一次对谈说起。 8月初，电子游戏媒体人、TGA创始人Geoff Keighley（他的父亲David Keighley是诺兰的IMAX导师）在推特上转发了一则对谈，视频左上角甚至还保留着B站的水印。 对谈的内容后来我们都知道了，是中国女性学者仲树对诺兰的一次17分钟干货采访。 从推特到Reddit，这则对谈视频，在外网各大平台获得了千万级别的浏览量，美国网友集体感慨： &ldquo;这是我这辈子见过最好的采访。&rdquo; 尤其是那句&ldquo;你是黄昏时代的吟游诗人吗&rdquo;，给老外兴奋得发出尖叫暴鸣，谁能忍住不大喊一句&ldquo;Holy Fuck&rdquo;。 这",
+    "id": "news--1786771933000",
+    "title": " 胖东来招聘的悖论：被前科挡在门外，还要靠前科进门 ",
+    "link": "https://www.huxiu.com/article/4883336.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 开头｜“刑期5年以上”，为什么反而成了一张求职入场券？ 8月14日，胖东来为郑州店发布提前招聘公告：计划招收100名退伍边防军人，并为“刑期5年以上刑满释放人员”单列20个名额和投递通道。两类人员的报名、面试流程与其他应聘者一致，具体岗位另行公布。 这是一条反常识的招聘条件。通常，刑期越长，意味着过去的犯罪和刑罚越重；在这份公告里，“5年以上”却变成了一张特殊的求职入场券。一个人在别处可能因此更难得到面试，在胖东来却因此获得被看见的机会。 这并非一次孤立试验。2025年新乡“三胖”店招聘时，胖东来原计划录用20名有犯罪记录者，专属通道收到30份简历，最终30人全部入职。于东来今年8月15日称，这30人“没有一个离开”，都在稳定工作。 问题恰好藏在这份成绩里：一个服完刑、重新进入社会的人，真正需要的是更多“刑释人员专岗”，还是最终不再需要凭刑释人员身份才能进入一家企业？这20个名额当然是在反歧视，但它使用的工具，恰恰还是社会最想淡化的那个身份。 01｜没有这条特殊通道，很多人连普通人的竞争都参加不了 刑释人员面对的往往不是竞争落败，而是进不了竞争。 《刑法》第一百条规定，受过刑事处罚者依法入伍、就业时，应当如实报告，不得隐瞒；仅犯罪时未满十八周岁且被判处五年有期徒刑以下刑罚者免除报告义务。部分职业还有明确禁入：受过刑事处罚者不得录",
     "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786754040000",
-    "title": "补贴退潮、AI上桌，京东讲起新故事",
-    "link": "https://www.tmtpost.com/8104076.html",
-    "summary": "边稳住利润，边押注AI。",
+    "id": "news-a-1786770455000",
+    "title": "A股资本结构百强榜：谁把融资与经营放在了更稳的位置？",
+    "link": "https://www.tmtpost.com/8104560.html",
+    "summary": "本期榜单，带你看清哪些企业具备更强的资本结构能力，以及这种优势主要集中在哪些产业与市场板块。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -238,10 +238,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepmind-1786719108000",
-    "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-    "link": "https://www.qbitai.com/2026/08/473153.html",
-    "summary": "布林亲自下场督战",
+    "id": "news-qwen3-8-27b-1786722072000",
+    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+    "link": "https://www.qbitai.com/2026/08/473379.html",
+    "summary": "所有人都可免费下载部署及商用。",
     "publishedAt": "2026-08-14",
     "source": "量子位",
     "tags": [
@@ -251,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786751794000",
-    "title": " 不是年轻人不想结婚，是婚姻市场的“流动性”干了 ",
-    "link": "https://www.huxiu.com/article/4883304.html?f=rss",
-    "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 前两天有条新闻，大部分人当段子刷了。天津河西区新启用了一个婚姻登记处，没开在民政局，直接开进了邮储银行的网点里，官方名字叫\"爱情主题空间\"。 新人进去，领证、拍照、办联名银行卡、咨询婚庆相关金融服务，一站式解决。通稿里的措辞是\"政务+金融+婚恋\"一体化服务阵地，听着特别便民，特别温馨，现场摆满了穿婚纱的小熊和写着双喜的马克杯。 但这事经不起琢磨。你得先想明白一个问题：银行是什么机构？ 银行是全社会最冷血的精算机器。它不搞浪漫，不做慈善，它只出现在三种地方——有利润的地方、有信用的地方、有资产可以抵押的地方。一家银行主动跑去给婚姻\"证婚\"，你要是没觉得哪里不对劲，只能说明你对钱的流向还不够敏感。 再看一组刚公布的数据。民政部发布2026年二季度民政统计：上半年全国结婚登记327.5万对，同比少了26.4万对，降幅7.5%，是有这项统计以来的同期最低值；同期离婚登记138.3万对，不降反升，涨了3.9%。 离结比更是冲到42.2%——每100对新人领证，就有42对旧人散伙。 而如果把时间线拉长，降幅就更扎眼。2013年全国结婚登记1346.9万对，那是历史顶点；2019年跌破1000万对，2021年跌破800万对，2024年只剩610.6万对。 2025年靠着婚姻登记\"全国通办\"、领证不要户口本这类便利政策，反弹到676.3万对，结",
-    "publishedAt": "2026-08-14",
+    "id": "news--1786771119000",
+    "title": " 十几块的退房礼，成了连锁酒店的“中产”证明 ",
+    "link": "https://www.huxiu.com/article/4883334.html?f=rss",
+    "summary": "本文来自微信公众号： 超聚焦foci ，作者：白墨 连锁酒店从卷自助早餐、卷枕头、卷洗衣机健身房，现在卷起了高奢酒店才有的“退房礼”。 小叶是某建材公司的采购，上半年入住了十几家连锁酒店，她看到网上有人分享“在酒店能薅到什么样的伴手礼”，每次退房都向酒店尝试索要，没想到收获了形色各异的礼品。 有美居酒店的整套茶具，有诺富特酒店的特产玩偶，有城际酒店的洗护套装，也有花间堂的固体香薰。 几年前，这还只是宝格丽、嘉佩乐、半岛酒店、帆船酒店等高奢酒店住客的专属权益，一晚三四千元的房价决定了参与者的圈层边界。 不过三四年时间，这套评价体系已经下沉。全季、亚朵、桔子这些房价300到600元的中端连锁酒店，正在成为“退房仪式”的新主场。 小红书上输入“退房”，跳出来的是“全季酒店薅羊毛小tips！”“住亚朵退房礼一定要大胆提”。有人把退房时能带走的东西做成清单，有人分享哪类会员能多要一份。 “退房礼”正在从奢华酒店的圈层趣味，变成中端连锁酒店的日常标配。 01 有人30块买书 有人端走一整套茶具 吴梦上个月入住全季酒店的时候，看到桌上有一本华住创始人季琦先生的著作《心生之境》，里面引言最后一句写着“很乐意将此书赠送给你”，于是便壮着胆子讨要。 结果店员表示书里那是老板真挚的祝愿，但公司有规定这本书并不是赠品，如喜欢可以折扣价购买，最终酒店30元将书卖给了她，后来她在网上吐槽这件事，有网友表示自己",
+    "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -264,10 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-harness-agent-1786753500000",
-    "title": "DeepSeek Harness，“杀死”Agent黑箱",
-    "link": "https://www.tmtpost.com/8104305.html",
-    "summary": "Model+Harness=Agent",
+    "id": "news-8-14-1786770447000",
+    "title": "价值判断：跌停板的投资机会和风险提示（8月14日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8104554.html",
+    "summary": "板块维度，传统红利、部分消费细分抗跌性突出；前期资金抱团的题材概念股持续回调。全市场赚钱效应集中在低位价值方向，高位题材股亏钱效应放大，纯情绪博弈的交易风险显著上升。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -330,10 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1786703136000",
-    "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-    "link": "https://www.qbitai.com/2026/08/473149.html",
-    "summary": "",
+    "id": "news-7-meta-1786719565000",
+    "title": "7亿年薪留不住！余家辉离职Meta创业",
+    "link": "https://www.qbitai.com/2026/08/473261.html",
+    "summary": "真就只待了一年",
     "publishedAt": "2026-08-14",
     "source": "量子位",
     "tags": [
@@ -343,24 +343,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786749091000",
-    "title": " 本田有变 ",
-    "link": "https://www.huxiu.com/article/4883303.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 最新的信号来自印度。 8月6日，彭博社援引知情人士报道称，本田技研工业株式会社将一个全新车型项目的开发外包给印度塔塔科技有限公司。这被认为是本田首次把完整整车工程项目交给一家印度工程服务公司。 报道称，相关平台将支撑多款车型，兼容燃油、混合动力与纯电动力，但没有透露具体车型、上市时间和目标市场。 本田对此表示，公司一直在考虑通过各种外部合作增强竞争力，但拒绝评论市场传闻和项目细节。 塔塔科技此前在2027财年第一季度财报中确认，一家日本主流汽车制造商选择它承担一项“完整整车工程项目”，但没有点名客户。 也就是说，截至目前，本田没有承认，塔塔科技没有点名，“本田”这个主语来自媒体报道。 如果单独看，这可能只是一笔普通的工程服务合同。真正值得关注的是它出现的时间。 7月20日，本田刚刚与广汽集团签署续约协议，将广汽本田的合资期限延长至2038年。17天后，彭博社报道本田把一项完整整车工程项目交给塔塔科技。 两件事发生在不到三个星期内。 在中国，本田保留50:50的合资结构，并让合资公司获得更多本地产品企划和研发权限；在印度，本田则被曝把一段完整车辆工程流程交给外部服务公司。 合作对象不同，让渡的权限也不同，但方向一致：过去由日本总部掌握的部分开发资源，正在向区域公司和外部工程体系移动。 此前半年，本田已经连续采",
-    "publishedAt": "2026-08-14",
+    "id": "news-ai-1786768966000",
+    "title": " AI正在批量制造“幽灵” ",
+    "link": "https://www.huxiu.com/article/4883331.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，编辑：王靖，题图来自：AI生成 8月第一周，美国时尚集团Tapestry在纽约总部办了第二届AI峰会。Tapestry这个名字不算家喻户晓，但它旗下的Coach和Kate Spade，是很多人都熟悉的品牌。 过去，Tapestry想摸清顾客的喜好，主要靠真人调研。研究人员会给真人受访者发调查问卷、做访谈，有时还会上门看看顾客平时怎么穿搭、衣柜里都放着什么款式的衣服。 而在这次的峰会上，公司的消费者洞察团队展示了一批很特别的&ldquo;顾客&rdquo;。 这些&ldquo;顾客&rdquo;是Tapestry根据过去积累的消费者调研数据，用AI生成出来的虚拟人物。他们模拟的是美国和中国的年轻消费者，Tapestry准备测试新品、价格或者营销方案时，可以先让他们回答问题，也可以像做焦点小组一样直接和他们聊天，看看年轻消费者可能会有什么反应。 一位记者也在现场和其中一个AI顾客聊了起来。话题从购物一路聊到生活，这个根本不存在的&ldquo;女孩&rdquo;甚至告诉记者，自己最近很担心就业市场。 Tapestry旗下的Kate Spade还把这些AI顾客用在了店员培训。店员可以直接和AI&ldquo;顾客&rdquo;进行语音对话，练习怎么介绍商品、回应顾客的疑问。模拟销售结束后，AI还会给店员的表现打分。 这些AI顾客从一开始就被当成",
+    "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-aibee-agi-1786714183000",
-    "title": "创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI",
-    "link": "https://www.tmtpost.com/8104183.html",
-    "summary": "本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。",
-    "publishedAt": "2026-08-14",
+    "id": "news-8-14-1786770436000",
+    "title": "价值判断：涨停板的投资机会和风险提示（8月14日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8104548.html",
+    "summary": "8月14日A股呈现震荡分化格局，资金高低切换持续演绎，上证指数窄幅震荡微涨0.01%，深证成指收涨0.45%，创业板指盘中反复拉锯，市场做多意愿出现明显分歧。两市合计成交2.14万亿元，较前一交易日有所缩量，市场涨跌家数均衡，题材轮动速度加快。高位题材博弈情绪升温，低位低估板块持续得到资金布局。",
+    "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -683,21 +684,6 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2608.13514v1",
-    "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
-    "authors": [
-      "Omar Montasser"
-    ],
-    "summary": "We revisit the problem of learning predictors robust to adversarial examples at test-time. We prove that VC classes are adversarially robustly learnable with sample complexity linear in the VC dimension $d$, providing an exponential improvement over the previous upper bound of Montasser, Hanneke, and Srebro (2019). Remarkably, this result is achieved with a simple improper algorithm that combines the classic heuristic bagging (bootstrap aggregation) of Breiman (1996) with robust empirical risk minimization (RERM). Our algorithm computes RERMs on $O(d^\\star)$ independent bootstrap samples and outputs their majority vote, where $d^\\star$ denotes the dual VC dimension. We complement this result with a lower bound showing that this is unavoidable: in general, any learner in this oracle model r",
-    "link": "http://arxiv.org/abs/2608.13514v1",
-    "publishedAt": "2026-08-13",
-    "categories": [
-      "stat.ML",
-      "cs.DS",
-      "cs.LG"
-    ]
-  },
-  {
     "id": "arxiv-2608.13515v1",
     "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
     "authors": [
@@ -716,6 +702,21 @@ export const generatedPapers: ArxivPaper[] = [
     "publishedAt": "2026-08-13",
     "categories": [
       "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.13514v1",
+    "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
+    "authors": [
+      "Omar Montasser"
+    ],
+    "summary": "We revisit the problem of learning predictors robust to adversarial examples at test-time. We prove that VC classes are adversarially robustly learnable with sample complexity linear in the VC dimension $d$, providing an exponential improvement over the previous upper bound of Montasser, Hanneke, and Srebro (2019). Remarkably, this result is achieved with a simple improper algorithm that combines the classic heuristic bagging (bootstrap aggregation) of Breiman (1996) with robust empirical risk minimization (RERM). Our algorithm computes RERMs on $O(d^\\star)$ independent bootstrap samples and outputs their majority vote, where $d^\\star$ denotes the dual VC dimension. We complement this result with a lower bound showing that this is unavoidable: in general, any learner in this oracle model r",
+    "link": "http://arxiv.org/abs/2608.13514v1",
+    "publishedAt": "2026-08-13",
+    "categories": [
+      "stat.ML",
+      "cs.DS",
+      "cs.LG"
     ]
   },
   {
@@ -949,6 +950,24 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1136707",
+    "title": "Store Manager Macpac Adelaide Airport",
+    "company": "Macpac Ltd.",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Take the lead at Macpac Adelaide Airport, where no two days look the same",
+      "We're on the hunt for a hands-on Store Manager, or an ambitious Assistant Store Manager ready to step up",
+      "Lead a supportive and established team in this busy, high-foot-traffic Harbour Town location",
+      "If you've successfully le"
+    ],
+    "skills": [],
+    "location": "Fulham Gardens, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
+    "postedAt": "2026-08-13",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136576",
     "title": "Tunnel Agent",
     "company": "Skanska Costain STRABAG Joint Venture",
@@ -1087,43 +1106,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
     "postedAt": "2026-08-10",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136328",
-    "title": "Exit Searcher",
-    "company": "PlayToMax",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Exit Searcher - play and find your way out in puzzle games online",
-      "Have you ever been put in a hopeless situation",
-      "Perhaps, everyone is familiar with a feeling of hopelessness but it doesn’t apply to our Exit Searcher",
-      "He works at a huge warehouse and knows perfectly all the ins and outs in puzzle g"
-    ],
-    "skills": [],
-    "location": "Puzzle Pocket, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328",
-    "postedAt": "2026-08-08",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136323",
-    "title": "Faint Cracks",
-    "company": "CHINADebate",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "All our careful analyses of PLA capabilities, the parsing of Mr",
-      "Xi’s and Mr",
-      "Biden’s statements, the predictions as to the year of the invasion, everything – all out the window",
-      "This is one you won’t see coming – but one you have to have prepared for"
-    ],
-    "skills": [],
-    "location": "March, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
-    "postedAt": "2026-08-08",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-15T01:01:07.923Z';
+export const dataFetchedAt = '2026-08-15T06:31:29.745Z';
