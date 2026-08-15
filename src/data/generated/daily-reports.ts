@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-16-auto",
+    "date": "2026-08-16",
+    "session": "auto",
+    "title": "2026-08-16 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-16-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+      },
+      {
+        "id": "sig-2026-08-16-auto-2",
+        "emoji": "💡",
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "detail": "来源: TechCrunch。AI coding startup Cursor is now officially a part of SpaceX.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      },
+      {
+        "id": "sig-2026-08-16-auto-3",
+        "emoji": "🚨",
+        "title": "Frontline Perspectives: Turning Workforce Insights into Action",
+        "summary": "Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/frontline-perspectives-turning-workforce-insights-into-action/"
+      },
+      {
+        "id": "sig-2026-08-16-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：AutoDesign: Meta-Harness Optimization for Long-Horizon Agent...",
+        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har",
+        "detail": "作者: Yaxin Luo, Haobin Jiang, Jialv Zou。Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design priors, where a meta-harness optimizer guides a code agent to recursively improve harness based on rollout feedback. To instantiate and evaluate this framework, we focus on the academic paper-to-poster generation task and introduce PosterBench, comprising a 100-paper Main Track spanning five discipl",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.13560v1"
+      },
+      {
+        "id": "sig-2026-08-16-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Engineering Manager Thailand",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: 未标注。About KIRA Our mission is to make money smart, reliable and within reach for everyone In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Today, we are expan",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-16-1",
+        "priority": "medium",
+        "action": "关注「The Download: Flock&#8217;s new rules, c」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-16-2",
+        "priority": "low",
+        "action": "关注「SpaceX officially closes its Cursor acqu」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-16-3",
+        "priority": "high",
+        "action": "关注「Frontline Perspectives: Turning Workforc」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-16-4",
+        "priority": "medium",
+        "action": "关注「研究速递：AutoDesign: Meta-Harness Optimizati」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-16-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Engineering Manager Thailand」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-16 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-08-16 00:00 - 2026-08-16 23:59"
+  },
+  {
     "id": "report-2026-08-15-auto",
     "date": "2026-08-15",
     "session": "auto",

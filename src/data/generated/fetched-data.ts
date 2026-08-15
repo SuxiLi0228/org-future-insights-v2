@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-talks-to-sell-paypal-to-stripe-and-advent-are-heating-up-1786747404000",
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-    "publishedAt": "2026-08-14",
+    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-0-1786796420000",
-    "title": " 王宝强和沈腾0票，冤不冤？ ",
-    "link": "https://www.huxiu.com/article/4883380.html?f=rss",
-    "summary": "本文来自微信公众号： 四味毒叔 ，作者：四味小小编，编辑：晶晶 喜剧演员，是不是天生就矮人一头？这几乎是全世界评奖体系共同的偏见。 本文图片来自网络 第38届大众电影百花奖。最佳男主角开票，大屏幕上的数字一个一个变化，易烊千玺48票，梁家辉43票，朱一龙7票，成龙2票，刘昊然1票。王宝强，0票。 一个拍了26年戏的人，首次提名百花奖最佳男主角，101位大众评委，没有一个人为他投票。 四年前，同一个赛制，沈腾凭《我和我的父辈》提名，也是0票。 在票房排行榜上，王宝强主演电影总票房229.32亿，沈腾主演电影总票房420.72亿，但这些在奖项面前没有说服力，统统清零。 这当然不是演技的问题。王宝强从《士兵突击》的许三多，到《hello！树先生》里那个封神级别的树先生，再到《八角笼中》里收着演的克制，他的演技早就免检了。可现实就是这么拧巴，任何国民度、票房成绩，真到了奖杯跟前，连一张票都要不到。 喜剧演员，是不是天生就矮人一头？这几乎是全世界评奖体系共同的偏见。 金·凯瑞靠一张全世界最赚钱的橡皮脸，全球票房50多亿美金，奥斯卡提名，一次都没有。周星驰金像奖21次提名，其中最近男主角奖7次提名，但熬到40岁，才凭借《少林足球》拿下第一座也是唯一一座金像奖影帝。 在电影里，让人笑，其实比让人哭更难。话是这么说的，奖是不给的。 有个说不明道不清的标准是，奖杯，丈量和标榜的其实是艺术的痛苦，而且",
+    "id": "news--1786812107000",
+    "title": " 当放水不再流向工资袋 ",
+    "link": "https://www.huxiu.com/article/4883403.html?f=rss",
+    "summary": "本文来自微信公众号： 三更一勾帘下斜 ，作者：三更一勾帘下斜 当“放水”不再流向工资袋：7月金融数据里的结构性真相 信贷负增、产能利用率新低、居民净还贷——这些看似矛盾的信号，指向同一个被忽视的变量：机器正在替代人，而货币流动性没有流进普通人的工资袋。 一、一组“拧巴”的数据 7月金融数据落地，市场普遍感受到较强的下行压力： 社融口径人民币贷款增量**‑5896亿元**，历史罕见转负； 工业产能利用率73.0%，创下2016年统计以来低位； PPI环比再度转负，CPI维持0.5%的低位区间。 粗看是典型总需求不足的图景，但拆开内部结构，呈现出强烈分化： 高技术制造业PMI录得53.3，持续处于扩张区间； 前7月企业中长期贷款新增5.32万亿元，保持可观扩张； 企业债券净融资同比多增1.1万亿元。 企业端仍在加杠杆、拿资金，但信贷扩张并没有等价转化为劳动者工资收入。 二、产能没扩，效率在升 2026年二季度工业产能利用率73.0%，同比回落1个百分点，制造业进一步回落至73.5%。整体产能规模并没有大规模新建扩张。 与之对照，制造业正在发生一场静悄悄的生产变革。地方税收数据显示，2025年福建企业自动化设备购进金额同比增长17.1%，数字化设备采购增长13.6%。不少实体企业投入千万级资金完成产线改造，整体厂房规模不变，但单条产线产出能力大幅提升，部分企业改造后产能提升接近80%。 ",
     "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786795464000",
-    "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-    "link": "https://www.tmtpost.com/8104508.html",
-    "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
+    "id": "news-ai-1786797087000",
+    "title": "字节AI，先慢后快？",
+    "link": "https://www.tmtpost.com/8104642.html",
+    "summary": "接受短期的落后。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -106,11 +106,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-self-driving-trucks-are-officially-testing-on-california-hig-1786739869000",
-    "title": "Self-driving trucks are officially testing on California highways",
-    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-    "publishedAt": "2026-08-14",
+    "id": "news-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked-1786810200000",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -160,24 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786795617000",
-    "title": " AI 满篇的“不是……而是……”，我开始不敢写了 ",
-    "link": "https://www.huxiu.com/article/4883379.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：糕级冻雾，编辑：沈知涵 有多少人快被AI满嘴的“不是……而是……”逼疯了？ 你问：“最近有点儿累，没去健身会掉肌肉吗？”它说：“你不是懒惰，而是身体需要休息。” 你让它讲软件的新功能，它说：“这不只是一次升级，更是一场工作方式的革命。” 哪怕问个水煮蛋要煮几分钟，它都会说：“煮蛋不是等待食物变熟，而是对时间与温度的精准管理。”鸡蛋听得都气熟了。 “不是……而是……”已经成了最出名的AI口癖之一。我愿把它和“破折号”、三段式排比、“接住你”，并称为AI的“四大名著”。 最让人难受的不是AI泔水，而是这个句式本来属于人类。（就像我写完这句话，自己都心虚。） 莎士比亚在《凯撒大帝》中写过：“亲爱的布鲁图斯，错的不是我们的星辰，而是我们自己。”今天把这句话发到社交媒体，大概很快会有人留言：“一眼AI。” 所以，AI为什么这么爱说“不是……而是……”？这事儿和莎士比亚有关系吗？ AI哪来那么多口癖？ AI爱说，是因为人类就很爱说。回顾AI出现以前的人类作品，到处都是“不是而是”这种正反对照。 它先摆出一个读者熟悉的说法，再来个反转，最后给出一个听起来更准确、更高级的答案。误会、转折、结论都有了，一句话就是一场迷你辩论。 特别是写广告文案，“我们卖的不是咖啡，而是一种生活方式”；“这不只是一块手表，更是你的健康伙伴”；“不是所有牛奶都是AAA”……经过一次转",
-    "publishedAt": "2026-08-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-14-anthropic-2-ipo-1786795461000",
-    "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
-    "link": "https://www.tmtpost.com/8104597.html",
-    "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书",
+    "id": "news--1786796897000",
+    "title": "奥德赛、龙餐馆，是电影的解药吗？",
+    "link": "https://www.tmtpost.com/8104520.html",
+    "summary": "一个时代在退潮，下一个时代还未到来。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -200,11 +186,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-thrive-8217-s-joshua-kushner-chides-silicon-valley-vcs-over--1786735980000",
-    "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-    "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-    "publishedAt": "2026-08-14",
+    "id": "news-every-fusion-startup-that-has-raised-over-100m-1786799720000",
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -252,23 +238,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786793625000",
-    "title": " 贵州茅台：业绩又塌方？仍在“手术流血” 中 ",
-    "link": "https://www.huxiu.com/article/4883376.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《贵州茅台：业绩又塌方？仍在 “手术流血” 中》 北京时间8月15日晚间，贵州茅台（600519.SH）发布了2026年Q2季度业绩，整体来说，二季度茅台的业绩并不好，收入和利润双双转负，低于市场预期，海豚君推测核心拖累还是在于年初非标产品的集体大幅调价。 1、渠道改革的“阵痛”超预期。2Q26茅台共实现营收376亿元，同比下滑5.2%。尽管3月末飞天出厂提价在二季度完整落地，但在渠道改革下，一方面高毛利非标产品主动缩减投放，另一方面i茅台代售定价相比过去经销商买断打款价明显下行，压低茅台酒综合吨价。 最终飞天提价的增量不足以抵消代售模式转型(新代销模式信息，可点击此处)引发的综合吨价下行的冲击导致整体收入仍然呈现负增长，归母净利润为172亿元，同比下滑6%，快于营收端的下滑。 2、非标酒量价齐跌，是主要拖累。分产品看： a.茅台酒实现营收317亿元、同比微降1%（市场一致预期给的是+15%，脱离实际），在飞天出厂价年内累计已上调17%的背景下收入还是微降，海豚君推测非标切换到代售模式之后，除了吨价下行这个显性因素外，实际销量情况也不是很好（代售模式上线的第一个季度，处于磨合阶段）。 b.系列酒实现营收51亿元、同比下滑25%，结合经销商的数据（上半年净减46家，核心在于系列酒经销商的下滑）——说明系列酒仍在出清阶段。 3、",
-    "publishedAt": "2026-08-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-25-1786789380000",
-    "title": "美团不开药店，却想成为25万家药店的“总店”？",
-    "link": "https://www.tmtpost.com/8104282.html",
-    "summary": "药店最终能依靠的，不是美团承诺多久不下场，而是自",
+    "id": "news-ai-1786796896000",
+    "title": "AI正在批量制造“幽灵”",
+    "link": "https://www.tmtpost.com/8104535.html",
+    "summary": "“你是gg还是mm？”“我是AI。”",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -291,10 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-we-know-about-the-alleged-iranian-hacks-on-us-water-uti-1786734272000",
-    "title": "What we know about the alleged Iranian hacks on US water utilities",
-    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-    "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+    "id": "news-talks-to-sell-paypal-to-stripe-and-advent-are-heating-up-1786747404000",
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
@@ -344,24 +317,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-08-1786793032000",
-    "title": " 《第一性思考》08｜人形机器人最大的优势，可能恰恰也是它最大的错误 ",
-    "link": "https://www.huxiu.com/article/4883374.html?f=rss",
-    "summary": "本文来自微信公众号： 0xAI机器学习 ，作者：0xAI机器学习，原文标题：《《第一性思考》08｜人形机器人最大的优势，可能恰恰也是它最大的错误》 大家好，我是X,INTJ,AI算法架构师，这里是0xAI《第一性思考》 AI业内视角，透过热点，看见未来 Hi，过去一周大家过得好吗？ 这周，人形机器人又热了一把。 宇树科技的科创板IPO获得了极其夸张的追捧：零售投资者认购倍数超过8000倍，发行估值超过600亿元人民币，对应约219倍的2025年预期市盈率。 资本市场显然已经开始给一个未来定价： 机器人会像电脑、智能手机一样进入我们的生活，而其中最重要的形态，很可能就是人形机器人。 这个故事很好理解，我们的楼梯是给人走的，门把手是给人握的，货架按照人的高度设计，工具按照五根手指设计。汽车驾驶舱、厨房、工厂、办公室，整个现代世界几乎都是围绕人的身体建出来的。 于是一个听起来非常正确的结论出现了： 既然机器人要进入人类世界，那么最通用的机器人，当然应该长得像人。 但今天，我想反过来问一个问题： 为什么机器人一定要像人？ 这可能正是人形机器人故事中，最少被质疑的那个前提。 而在我看来—— 人形机器人最大的优势，可能恰恰也是它最大的错误。 我们真正需要的不是“机器人”，而是“任务被完成” 先把机器人这三个字忘掉，从第一性原理出发，一家公司购买机器人的目的到底是什么？ 不是为了让机器看起来像人",
-    "publishedAt": "2026-08-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1786788000000",
-    "title": "从浅草寺到时代广场，影石海外开店逻辑是什么？",
-    "link": "https://www.tmtpost.com/8104118.html",
-    "summary": "如何建立全球品牌认知？",
+    "id": "news--1786795464000",
+    "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+    "link": "https://www.tmtpost.com/8104508.html",
+    "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
     "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
@@ -384,16 +343,55 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-read-it-later-app-pocket-shut-down-here-are-the-best-alterna-1786733895000",
-    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-    "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+    "id": "news-self-driving-trucks-are-officially-testing-on-california-hig-1786739869000",
+    "title": "Self-driving trucks are officially testing on California highways",
+    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-what-linkedin-8217-s-editor-in-chief-says-gets-a-post-flagge-1786708825000",
+    "title": "What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop",
+    "link": "https://hrexecutive.com/what-linkedins-editor-in-chief-says-gets-a-post-flagged-as-ai-slop/",
+    "summary": "LinkedIn's AI slop button flags generic content, not AI use. Get the insider scoop on what content and patterns are targeted. The post What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop appeared first on HR Executive .",
+    "publishedAt": "2026-08-14",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-week-in-5-numbers-employees-say-bosses-don-t-work-as-ha-1786653420000",
+    "title": "This week in 5 numbers: Employees say bosses don’t work as hard",
+    "link": "https://www.hrdive.com/news/workers-say-bosses-dont-work-as-hard/827800/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much Apple will pay to settle U.S. Equal Employment Opportunity Commissions allegations.",
+    "publishedAt": "2026-08-13",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1786767669000",
+    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+    "link": "https://www.qbitai.com/2026/08/473407.html",
+    "summary": "1.9万字全文实录",
+    "publishedAt": "2026-08-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
     ]
   }
 ];
@@ -1128,4 +1126,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-15T12:30:00.466Z';
+export const dataFetchedAt = '2026-08-15T18:22:31.933Z';
