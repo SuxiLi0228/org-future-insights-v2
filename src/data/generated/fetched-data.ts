@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-unforgetful-is-a-new-reminders-app-for-people-who-can-8217-t-1786724464000",
-    "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
-    "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-    "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+    "id": "news-talks-to-sell-paypal-to-stripe-and-advent-are-heating-up-1786747404000",
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-service-milestones-matter-transforming-work-anniversa-1786731996000",
-    "title": "Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences",
-    "link": "https://hrexecutive.com/making-service-milestones-matter-transforming-work-anniversaries-meaningful-employee-experiences/",
-    "summary": "Date &#038; Time: Wednesday, September 16, 2026 at 2:00 pm ET Hear from Workhuman’s own Cam Moore, VP of Strategy &#038; Operations, and Niamh Hoey, Senior Product Manager, to learn how organizations can rethink work anniversaries as strategic opportunities to strengthen belonging and reinforce culture. The post Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences appeared first on HR Executive .",
+    "id": "news-frontline-perspectives-turning-workforce-insights-into-actio-1786746939000",
+    "title": "Frontline Perspectives: Turning Workforce Insights into Action",
+    "link": "https://hrexecutive.com/frontline-perspectives-turning-workforce-insights-into-action/",
+    "summary": "Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
     "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "organization",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -68,25 +67,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786726120000",
-    "title": " AI时代，重看历史上的那些泡沫 ",
-    "link": "https://www.huxiu.com/article/4883299.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 每一轮技术革命最热闹的时候，人们都会问同一个问题：这是不是泡沫？ 今天，这个问题轮到了AI。 模型越来越大，算力投入越来越高，数据中心越建越多，创业公司的估值不断抬升，几乎所有软件都开始在自己的名字前加上“AI”。于是另一种声音也越来越强：AI会不会重复互联网泡沫的故事？ 但如果把时间拉回过去两百多年，会发现一个经常被忽略的事实： 泡沫与真正的技术革命，从来不是互斥的。 铁路有过狂热，电气化和汽车时代伴随着巨大的资本繁荣，互联网更经历过一次近乎教科书式的泡沫破裂。但铁路没有消失，汽车没有消失，互联网也没有消失。 真正值得研究的，从来不是“技术是不是泡沫”，而是： 泡沫破掉以后，什么东西还能留下。 一、工业革命没有“蒸汽机泡沫”，却从不缺资本狂热 讨论历史泡沫，首先要把一个概念说准确。 工业革命并不存在一个公认的“蒸汽机泡沫”。蒸汽机、纺织机械、煤炭和钢铁，是持续几十年不断演化的技术体系，而不是某一天突然爆发的单一资产狂潮。 但围绕这些新技术形成的基础设施，却很早就出现了资本过热。 18世纪末英国的运河热就是一个典型案例。工业化带来了巨大的煤炭、原料和商品运输需求，运河能够显著降低运输成本，于是大量资本迅速涌入。真实需求存在，技术价值也存在，但当资本开始把未来几十年的增长一次性押进今天的价格",
-    "publishedAt": "2026-08-14",
+    "id": "news--1786753131000",
+    "title": " 瑞幸咖啡：第一名有多焦虑？ ",
+    "link": "https://www.huxiu.com/article/4883305.html?f=rss",
+    "summary": "本文来自微信公众号： 好看商业 ，作者：好看商业，编辑：安心 虽然位居门店和营收规模双料第一，瑞幸仍然缺少安全感。 规模遥遥领先，这是瑞幸咖啡近几年在中国现磨咖啡市场的状态。 2021年底，瑞幸咖啡全国门店数达6024家，首次超越星巴克中国（5557家），成为国内门店最多的连锁咖啡品牌。 2023年，瑞幸咖啡营收规模超越星巴克中国，成为中国市场营收规模最大的咖啡连锁品牌。 至此，瑞幸咖啡成为中国咖啡市场门店和营收规模“双料第一”。 统计数据显示，2025年，瑞幸咖啡在我国现磨咖啡市场的份额为14.26%，位居第一；远超第二名库迪咖啡的7.65%。 但第一名的头衔并没能让瑞幸停下来给自己喘息的机会，疯狂开店，抢占市场份额始终被放在第一优先级。 2025年，瑞幸咖啡新增门店8708家，创过去三年最高纪录；2026上半年，瑞幸新增门店5262家，总门店数达到36310家。 放眼全球，拥有36310家门店的瑞幸咖啡也是规模仅次于星巴克的第二大连锁咖啡品牌。 星巴克目前在全球拥有约4.1万家门店，实现这个规模它用了55年，瑞幸的历史只有8年。 但瑞幸的管理层仍然觉得门店不够多，份额不够大。 在中国这个极“卷”的咖啡市场，瑞幸管理层对规模的执念背后，不只有信心和野心，也有不安。时至今日，瑞幸似乎需要不停地奔跑才能获得安全感。 冲规模:依然是第一优先级 在最近的财报电话会上，瑞幸管理层明确表示，",
+    "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-aibee-agi-1786714183000",
-    "title": "创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI",
-    "link": "https://www.tmtpost.com/8104183.html",
-    "summary": "本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。",
-    "publishedAt": "2026-08-14",
+    "id": "news-edge-ai-daily-8-15-1786754266000",
+    "title": "Edge AI Daily 早报（8月15日）",
+    "link": "https://www.tmtpost.com/8104435.html",
+    "summary": "英伟达510亿美元押注SpaceX和英特尔，转型AI基础设施总承包商。Google分层水印策略兼顾创作者体验与标准制定权，Meta开源薄模型换道德高地、闭源强模型锁商业命脉。OpenAI年化营收400亿美元但CFO警告IPO过早，同时放弃截图方案重新定义AI隐私边界。",
+    "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -108,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-will-now-allow-users-to-remove-visible-watermark-from-1786724020000",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "id": "news-self-driving-trucks-are-officially-testing-on-california-hig-1786739869000",
+    "title": "Self-driving trucks are officially testing on California highways",
+    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
@@ -121,16 +119,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-insiders-warn-job-candidates-about-its-ai-hiring-filt-1786710651000",
-    "title": "Google insiders warn job candidates about its AI hiring filters",
-    "link": "https://hrexecutive.com/google-insiders-warn-job-candidates-about-its-ai-hiring-filters/",
-    "summary": "An internal document advises some job applicants on sidestepping AI screening tools, highlighting ongoing trust issues between employees and employers over AI-powered hiring processes. The post Google insiders warn job candidates about its AI hiring filters appeared first on HR Executive .",
+    "id": "news-making-service-milestones-matter-transforming-work-anniversa-1786731996000",
+    "title": "Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences",
+    "link": "https://hrexecutive.com/making-service-milestones-matter-transforming-work-anniversaries-meaningful-employee-experiences/",
+    "summary": "Date &#038; Time: Wednesday, September 16, 2026 at 2:00 pm ET Hear from Workhuman’s own Cam Moore, VP of Strategy &#038; Operations, and Niamh Hoey, Senior Product Manager, to learn how organizations can rethink work anniversaries as strategic opportunities to strengthen belonging and reinforce culture. The post Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences appeared first on HR Executive .",
     "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "organization",
+      "strategy"
     ]
   },
   {
@@ -161,25 +160,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-harness-ai-1786723988000",
-    "title": " DeepSeek Harness 真正赌的不是插件，而是AI 能不能修改自己 ",
-    "link": "https://www.huxiu.com/article/4883295.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《DeepSeek Harness 真正赌的不是插件，而是 AI 能不能修改自己》 我看DeepSeek Harness的第一反应不太好，很失望，甚至有点不耐烦。 模型、工具、记忆、Skill、Session、Sandbox、调度、UI，连Agent loop，都被它往“插件”这个抽象里塞。再加上Cordis那套关于可逆effect、依赖关系和动态组合的理论，整件事很像一座还没住人、先把每一面墙都设计成可拆卸的房子。 有必要吗？ 普通用户不想配置插件。律师只想把一份案卷交出去，老师只想出题、改作业；企业买Agent，也不会因为“这里有七十多个可替换组件”就愿意多付钱。给开发者的自由，常常会在产品端变成一排需要用户自己理解的选项。 于是我很快把DSH归进一类熟悉的东西：底层工程师很兴奋，最终用户却未必能感到任何好处。至于Cordis用形式化语言去证明插件如何组合，我还多了一层怀疑：会不会只是给一套复杂设计披上理论外衣？ 后来读到一篇对Cordis的批评，我一度觉得自己判断得没错。 那篇批评问得很直接：一套形式模型可以在若干前提下证明组件可组合，但这些前提，谁来替真实世界担保？插件写出来的inverse真能撤销此前的操作吗？两个effect在工程里真互不影响吗？插件要是绕开框架，直接写数据库、发邮件、触发支付，定理还管得",
-    "publishedAt": "2026-08-14",
+    "id": "news--1786752290000",
+    "title": " 诺兰叔叔又把全世界骗进电影院了 ",
+    "link": "https://www.huxiu.com/article/4882633.html?f=rss",
+    "summary": "出品 | 虎嗅青年文化组 作者 | 黄瓜汽水 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 现在，诺兰应该算得上是导演界的&ldquo;世男一&rdquo;了。 如果不是诺兰，中国电影博物馆的点映票不会被炒到上千元。 被炒到火热的&ldquo;IMAX 70mm胶片&rdquo;规格，不仅在全亚洲找不到一块完美尺寸的银幕，全球仅有41家影院符合条件，观影门槛近乎苛刻。 无论是抢到票还没抢到票的，看激动的还是看睡着的，诺兰的电影永远不缺话题。 在你诺兰叔叔面前，电影行业没有寒冬。 一切要从一次对谈说起。 8月初，电子游戏媒体人、TGA创始人Geoff Keighley（他的父亲David Keighley是诺兰的IMAX导师）在推特上转发了一则对谈，视频左上角甚至还保留着B站的水印。 对谈的内容后来我们都知道了，是中国女性学者仲树对诺兰的一次17分钟干货采访。 从推特到Reddit，这则对谈视频，在外网各大平台获得了千万级别的浏览量，美国网友集体感慨： &ldquo;这是我这辈子见过最好的采访。&rdquo; 尤其是那句&ldquo;你是黄昏时代的吟游诗人吗&rdquo;，给老外兴奋得发出尖叫暴鸣，谁能忍住不大喊一句&ldquo;Holy Fuck&rdquo;。 这",
+    "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-robotruck-1786704910000",
-    "title": "Robotruck重新升温，无人货运开始算经济账",
-    "link": "https://www.tmtpost.com/8100924.html",
-    "summary": "小马智行重新押注Robotruck，无人货运正走向规模化落地，一场围绕效率、成本与商业模式的重算开始了。",
-    "publishedAt": "2026-08-14",
+    "id": "news-ai-1786754040000",
+    "title": "补贴退潮、AI上桌，京东讲起新故事",
+    "link": "https://www.tmtpost.com/8104076.html",
+    "summary": "边稳住利润，边押注AI。",
+    "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -201,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-does-mark-zuckerberg-really-believe-ai-is-8216-for-everyone--1786722208000",
-    "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "id": "news-thrive-8217-s-joshua-kushner-chides-silicon-valley-vcs-over--1786735980000",
+    "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+    "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
@@ -214,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-is-a-people-challenge-before-it-s-a-technology-o-1786709701000",
-    "title": "AI adoption is a people challenge before it’s a technology one",
-    "link": "https://hrexecutive.com/ai-adoption-is-a-people-challenge-before-its-a-technology-one/",
-    "summary": "\"From my vantage point as a chief people officer at the center of AI change, one thing is clear: Scaling AI is less about deploying tools and more about building the conditions for people to use them well,\" writes Ana White of Lumen. The post AI adoption is a people challenge before it’s a technology one appeared first on HR Executive .",
+    "id": "news-google-insiders-warn-job-candidates-about-its-ai-hiring-filt-1786710651000",
+    "title": "Google insiders warn job candidates about its AI hiring filters",
+    "link": "https://hrexecutive.com/google-insiders-warn-job-candidates-about-its-ai-hiring-filters/",
+    "summary": "An internal document advises some job applicants on sidestepping AI screening tools, highlighting ongoing trust issues between employees and employers over AI-powered hiring processes. The post Google insiders warn job candidates about its AI hiring filters appeared first on HR Executive .",
     "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
@@ -253,11 +251,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-alo-nikeskims-1786704873000",
-    "title": "ALO天猫、微信官方渠道上线；NikeSKIMS品牌将于今秋登录上海；晚晚入驻淘宝创立个人女装品牌；李宁否认签约法国球星姆巴佩｜消研所周报",
-    "link": "https://www.tmtpost.com/8104054.html",
-    "summary": "PANE 携手专业网球品牌 HEAD 海德推出联名胶囊系列；宜家北京常营商场正式开业。",
+    "id": "news--1786751794000",
+    "title": " 不是年轻人不想结婚，是婚姻市场的“流动性”干了 ",
+    "link": "https://www.huxiu.com/article/4883304.html?f=rss",
+    "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 前两天有条新闻，大部分人当段子刷了。天津河西区新启用了一个婚姻登记处，没开在民政局，直接开进了邮储银行的网点里，官方名字叫\"爱情主题空间\"。 新人进去，领证、拍照、办联名银行卡、咨询婚庆相关金融服务，一站式解决。通稿里的措辞是\"政务+金融+婚恋\"一体化服务阵地，听着特别便民，特别温馨，现场摆满了穿婚纱的小熊和写着双喜的马克杯。 但这事经不起琢磨。你得先想明白一个问题：银行是什么机构？ 银行是全社会最冷血的精算机器。它不搞浪漫，不做慈善，它只出现在三种地方——有利润的地方、有信用的地方、有资产可以抵押的地方。一家银行主动跑去给婚姻\"证婚\"，你要是没觉得哪里不对劲，只能说明你对钱的流向还不够敏感。 再看一组刚公布的数据。民政部发布2026年二季度民政统计：上半年全国结婚登记327.5万对，同比少了26.4万对，降幅7.5%，是有这项统计以来的同期最低值；同期离婚登记138.3万对，不降反升，涨了3.9%。 离结比更是冲到42.2%——每100对新人领证，就有42对旧人散伙。 而如果把时间线拉长，降幅就更扎眼。2013年全国结婚登记1346.9万对，那是历史顶点；2019年跌破1000万对，2021年跌破800万对，2024年只剩610.6万对。 2025年靠着婚姻登记\"全国通办\"、领证不要户口本这类便利政策，反弹到676.3万对，结",
     "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-deepseek-harness-agent-1786753500000",
+    "title": "DeepSeek Harness，“杀死”Agent黑箱",
+    "link": "https://www.tmtpost.com/8104305.html",
+    "summary": "Model+Harness=Agent",
+    "publishedAt": "2026-08-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -279,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-proposes-to-take-a-15-cut-of-purchases-made-outside-th-1786719288000",
-    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-    "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+    "id": "news-what-we-know-about-the-alleged-iranian-hacks-on-us-water-uti-1786734272000",
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
@@ -292,10 +303,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-linkedin-8217-s-editor-in-chief-says-gets-a-post-flagge-1786708825000",
-    "title": "What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop",
-    "link": "https://hrexecutive.com/what-linkedins-editor-in-chief-says-gets-a-post-flagged-as-ai-slop/",
-    "summary": "LinkedIn's AI slop button flags generic content, not AI use. Get the insider scoop on what content and patterns are targeted. The post What LinkedIn&#8217;s editor in chief says gets a post flagged as AI slop appeared first on HR Executive .",
+    "id": "news-ai-adoption-is-a-people-challenge-before-it-s-a-technology-o-1786709701000",
+    "title": "AI adoption is a people challenge before it’s a technology one",
+    "link": "https://hrexecutive.com/ai-adoption-is-a-people-challenge-before-its-a-technology-one/",
+    "summary": "\"From my vantage point as a chief people officer at the center of AI change, one thing is clear: Scaling AI is less about deploying tools and more about building the conditions for people to use them well,\" writes Ana White of Lumen. The post AI adoption is a people challenge before it’s a technology one appeared first on HR Executive .",
     "publishedAt": "2026-08-14",
     "source": "HR Executive",
     "tags": [
@@ -332,10 +343,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-ai-1786704062000",
-    "title": "重启人生的Manus，能重启AI出海的游戏规则吗？",
-    "link": "https://www.tmtpost.com/8102509.html",
-    "summary": "AI出海再不能事后“换马甲”。",
+    "id": "news--1786749091000",
+    "title": " 本田有变 ",
+    "link": "https://www.huxiu.com/article/4883303.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 最新的信号来自印度。 8月6日，彭博社援引知情人士报道称，本田技研工业株式会社将一个全新车型项目的开发外包给印度塔塔科技有限公司。这被认为是本田首次把完整整车工程项目交给一家印度工程服务公司。 报道称，相关平台将支撑多款车型，兼容燃油、混合动力与纯电动力，但没有透露具体车型、上市时间和目标市场。 本田对此表示，公司一直在考虑通过各种外部合作增强竞争力，但拒绝评论市场传闻和项目细节。 塔塔科技此前在2027财年第一季度财报中确认，一家日本主流汽车制造商选择它承担一项“完整整车工程项目”，但没有点名客户。 也就是说，截至目前，本田没有承认，塔塔科技没有点名，“本田”这个主语来自媒体报道。 如果单独看，这可能只是一笔普通的工程服务合同。真正值得关注的是它出现的时间。 7月20日，本田刚刚与广汽集团签署续约协议，将广汽本田的合资期限延长至2038年。17天后，彭博社报道本田把一项完整整车工程项目交给塔塔科技。 两件事发生在不到三个星期内。 在中国，本田保留50:50的合资结构，并让合资公司获得更多本地产品企划和研发权限；在印度，本田则被曝把一段完整车辆工程流程交给外部服务公司。 合作对象不同，让渡的权限也不同，但方向一致：过去由日本总部掌握的部分开发资源，正在向区域公司和外部工程体系移动。 此前半年，本田已经连续采",
+    "publishedAt": "2026-08-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-aibee-agi-1786714183000",
+    "title": "创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI",
+    "link": "https://www.tmtpost.com/8104183.html",
+    "summary": "本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。",
     "publishedAt": "2026-08-14",
     "source": "钛媒体",
     "tags": [
@@ -358,42 +382,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus-1786719011000",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "id": "news-read-it-later-app-pocket-shut-down-here-are-the-best-alterna-1786733895000",
+    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+    "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
     "publishedAt": "2026-08-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-hr-frustrated-by-poor-employee-experience-with-hsa-vendors-1786707928000",
-    "title": "HR frustrated by poor employee experience with HSA vendors",
-    "link": "https://hrexecutive.com/hr-frustrated-by-poor-employee-experience-with-hsa-vendors/",
-    "summary": "Nearly three-quarters (73%) of HR professionals said \"employee feedback\" is the top factor they consider when reevaluating spending account providers. The post HR frustrated by poor employee experience with HSA vendors appeared first on HR Executive .",
-    "publishedAt": "2026-08-14",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-week-in-5-numbers-employees-say-bosses-don-t-work-as-ha-1786653420000",
-    "title": "This week in 5 numbers: Employees say bosses don’t work as hard",
-    "link": "https://www.hrdive.com/news/workers-say-bosses-dont-work-as-hard/827800/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much Apple will pay to settle U.S. Equal Employment Opportunity Commissions allegations.",
-    "publishedAt": "2026-08-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   }
 ];
@@ -1106,7 +1104,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328",
     "postedAt": "2026-08-08",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136323",
@@ -1124,8 +1122,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
     "postedAt": "2026-08-08",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-14T18:47:57.567Z';
+export const dataFetchedAt = '2026-08-15T01:01:07.923Z';
