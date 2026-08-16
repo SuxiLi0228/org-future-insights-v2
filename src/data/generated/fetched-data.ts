@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786812107000",
-    "title": " 当放水不再流向工资袋 ",
-    "link": "https://www.huxiu.com/article/4883403.html?f=rss",
-    "summary": "本文来自微信公众号： 三更一勾帘下斜 ，作者：三更一勾帘下斜 当“放水”不再流向工资袋：7月金融数据里的结构性真相 信贷负增、产能利用率新低、居民净还贷——这些看似矛盾的信号，指向同一个被忽视的变量：机器正在替代人，而货币流动性没有流进普通人的工资袋。 一、一组“拧巴”的数据 7月金融数据落地，市场普遍感受到较强的下行压力： 社融口径人民币贷款增量**‑5896亿元**，历史罕见转负； 工业产能利用率73.0%，创下2016年统计以来低位； PPI环比再度转负，CPI维持0.5%的低位区间。 粗看是典型总需求不足的图景，但拆开内部结构，呈现出强烈分化： 高技术制造业PMI录得53.3，持续处于扩张区间； 前7月企业中长期贷款新增5.32万亿元，保持可观扩张； 企业债券净融资同比多增1.1万亿元。 企业端仍在加杠杆、拿资金，但信贷扩张并没有等价转化为劳动者工资收入。 二、产能没扩，效率在升 2026年二季度工业产能利用率73.0%，同比回落1个百分点，制造业进一步回落至73.5%。整体产能规模并没有大规模新建扩张。 与之对照，制造业正在发生一场静悄悄的生产变革。地方税收数据显示，2025年福建企业自动化设备购进金额同比增长17.1%，数字化设备采购增长13.6%。不少实体企业投入千万级资金完成产线改造，整体厂房规模不变，但单条产线产出能力大幅提升，部分企业改造后产能提升接近80%。 ",
+    "id": "news--1786834803000",
+    "title": " 亲历帮派谈判乱局，中国总裁夹缝谋变丨对话江口达雄 ",
+    "link": "https://www.huxiu.com/article/4881524.html?f=rss",
+    "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜现场拍摄 2026 年，是江口达雄执掌 SIE（索尼互动娱乐上海）的第七个年头。坐镇中国大陆市场之前，江口达雄最具代表性的履历，是在中国台湾市场六年半的渠道治理经历。 2012 年，他从索尼消费电子部门调入游戏业务板块，接手中国台湾市场。彼时，台湾主机产业已有三十余年发展历史，用户教育充分、线下门店遍布、市场高度成熟，但渠道体系长期处于无序状态，灰色利益链条与行业潜规则交织，正规经销体系的运行效率被严重拖累。 他的核心任务是打破旧有格局，重建渠道秩序。 这一过程中，不乏与台湾帮派谈判、平衡地方人情世故与行业规则的经历，考验的不仅是商业判断，更考验多方利益博弈中寻找共识的能力。 &ldquo;刚刚负责游戏板块时，我并不熟知游戏业界过去的历史默契、行业规则，慢慢融入适应只是开始。&rdquo;江口达雄坦言，成熟市场的治理，本质是对存量利益的重新分配，操刀者既要打破不合理的潜规则，又不能动摇市场根基。 六年半时间，他完成了台湾渠道的规范化改造，建立起稳定的经销商体系，也积累了在亚洲市场操盘的实战经验。但中国大陆市场的工作与台湾时期有着本质区别： 台湾是在成熟生态里修修补补，大陆要在近乎空白的土壤上搭建一整套产业体系。 PlayStation 在中国大陆市场的从零到一，由前任总裁添田武人主导完成。在江口达雄看来，前期挺过了最",
     "publishedAt": "2026-08-15",
     "source": "虎嗅",
     "tags": [
@@ -80,11 +80,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786797087000",
-    "title": "字节AI，先慢后快？",
-    "link": "https://www.tmtpost.com/8104642.html",
-    "summary": "接受短期的落后。",
-    "publishedAt": "2026-08-15",
+    "id": "news-ai-1786841520000",
+    "title": "阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？",
+    "link": "https://www.tmtpost.com/8104764.html",
+    "summary": "Al打开估值空间，盈利待验证。",
+    "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -106,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked-1786810200000",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "id": "news-anthropic-shares-more-details-about-how-claude-s-new-waterma-1786820319000",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -160,11 +160,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786796897000",
-    "title": "奥德赛、龙餐馆，是电影的解药吗？",
-    "link": "https://www.tmtpost.com/8104520.html",
-    "summary": "一个时代在退潮，下一个时代还未到来。",
+    "id": "news-ai-1786825108000",
+    "title": " 《牛来》出圈：AI 越会生成，“活人感”为何越值钱 ",
+    "link": "https://www.huxiu.com/article/4883406.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两天，《牛来》被抖音推成了一个很奇怪的样本。 人们起初围观它，恰恰因为它看起来不够好：建模粗，动作硬，镜头里有不少一眼能看出的局促。随后，吐槽变成二创，二创变成一种“我也看过这部片”的网络暗号。再往后，评论区开始出现另一种说法：它当然不好看，但看得出有人真的把它做完了。 粗糙的手工赢了虚伪的AI，人类又靠真诚扳回一城。 围绕制作成本、票房和主创经历的网传数字，仍然要等片方、平台和票房数据进一步核实。可即使先把这些精确数字放到一边，《牛来》的传播已经把一个更值得讨论的问题推到台前：为什么一部粗糙的作品，会被读成“有活人感”；许多画面更细腻、更稳定的AI短片，却常常让人说不清为什么，手指一划就过去了？ AI把“看起来不错”的画面变得越来越便宜之后，人们开始重新在意：这张图从哪里来，谁为它做过决定，谁承担了失败，又是谁真的有话要说。 过去，一张高完成度的图，通常意味着一个人花了很多时间。视觉结果、人的劳动和作者身份，常常被绑在一起。生成式AI把这三件事拆开了。结果可以很快出现，劳动可以被大幅压缩，作者性却没有自动消失，反而变成观众更想确认的东西。 《牛来》只是把这种变化照得没法轻易绕过去。 一、一部“做得不好”的电影，为什么能让人改口 一部作品被大量转发，首先仍然需要传播的燃料。《牛来》的粗糙感、反差感和可吐槽性，显然提供了这种燃",
     "publishedAt": "2026-08-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-420-neuralink-spacex-1786841280000",
+    "title": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？",
+    "link": "https://www.tmtpost.com/8104757.html",
+    "summary": "意念控制轮椅之后:脑机接口离成为“基础设施”还有多远?",
+    "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -186,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-every-fusion-startup-that-has-raised-over-100m-1786799720000",
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -238,11 +252,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786796896000",
-    "title": "AI正在批量制造“幽灵”",
-    "link": "https://www.tmtpost.com/8104535.html",
-    "summary": "“你是gg还是mm？”“我是AI。”",
+    "id": "news--1786812107000",
+    "title": " 当放水不再流向工资袋 ",
+    "link": "https://www.huxiu.com/article/4883403.html?f=rss",
+    "summary": "本文来自微信公众号： 三更一勾帘下斜 ，作者：三更一勾帘下斜 当“放水”不再流向工资袋：7月金融数据里的结构性真相 信贷负增、产能利用率新低、居民净还贷——这些看似矛盾的信号，指向同一个被忽视的变量：机器正在替代人，而货币流动性没有流进普通人的工资袋。 一、一组“拧巴”的数据 7月金融数据落地，市场普遍感受到较强的下行压力： 社融口径人民币贷款增量**‑5896亿元**，历史罕见转负； 工业产能利用率73.0%，创下2016年统计以来低位； PPI环比再度转负，CPI维持0.5%的低位区间。 粗看是典型总需求不足的图景，但拆开内部结构，呈现出强烈分化： 高技术制造业PMI录得53.3，持续处于扩张区间； 前7月企业中长期贷款新增5.32万亿元，保持可观扩张； 企业债券净融资同比多增1.1万亿元。 企业端仍在加杠杆、拿资金，但信贷扩张并没有等价转化为劳动者工资收入。 二、产能没扩，效率在升 2026年二季度工业产能利用率73.0%，同比回落1个百分点，制造业进一步回落至73.5%。整体产能规模并没有大规模新建扩张。 与之对照，制造业正在发生一场静悄悄的生产变革。地方税收数据显示，2025年福建企业自动化设备购进金额同比增长17.1%，数字化设备采购增长13.6%。不少实体企业投入千万级资金完成产线改造，整体厂房规模不变，但单条产线产出能力大幅提升，部分企业改造后产能提升接近80%。 ",
     "publishedAt": "2026-08-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-16-1786841101000",
+    "title": "Edge AI Daily 早报（8月16日）",
+    "link": "https://www.tmtpost.com/8104869.html",
+    "summary": "白宫签署网络私掠许可证框架，授权私营企业对外网络攻击，引发法律与外交风险。OpenAI设friction邮箱直通CEO，对抗规模膨胀官僚化。索尼PSSR用核预测网络替代神经网络，画质提升且训练成本骤降。NVIDIA联合印尼高校建AI中心，从GPU供应商升级为人才培养基础设施。O'Reilly警告AI大厂重蹈微软垄断覆辙，主张开源参与式架构。AWS智能体层密集更新，同日曝出云存储崩溃致50TB档案被锁，暴露可靠性隐患。",
+    "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -264,11 +291,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-talks-to-sell-paypal-to-stripe-and-advent-are-heating-up-1786747404000",
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-    "publishedAt": "2026-08-14",
+    "id": "news-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked-1786810200000",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -317,11 +344,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786795464000",
-    "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-    "link": "https://www.tmtpost.com/8104508.html",
-    "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
-    "publishedAt": "2026-08-15",
+    "id": "news--1786840920000",
+    "title": "“破戒”评论被指“开黄腔”，比格比萨老板遭流量反噬？",
+    "link": "https://www.tmtpost.com/8104754.html",
+    "summary": "比格比萨再次站上舆论风口。",
+    "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -343,11 +370,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-self-driving-trucks-are-officially-testing-on-california-hig-1786739869000",
-    "title": "Self-driving trucks are officially testing on California highways",
-    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-    "publishedAt": "2026-08-14",
+    "id": "news-every-fusion-startup-that-has-raised-over-100m-1786799720000",
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -366,32 +393,6 @@ export const generatedNews: NewsItem[] = [
       "hr",
       "ai-hr",
       "ai"
-    ]
-  },
-  {
-    "id": "news-this-week-in-5-numbers-employees-say-bosses-don-t-work-as-ha-1786653420000",
-    "title": "This week in 5 numbers: Employees say bosses don’t work as hard",
-    "link": "https://www.hrdive.com/news/workers-say-bosses-dont-work-as-hard/827800/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much Apple will pay to settle U.S. Equal Employment Opportunity Commissions allegations.",
-    "publishedAt": "2026-08-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1786767669000",
-    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-    "link": "https://www.qbitai.com/2026/08/473407.html",
-    "summary": "1.9万字全文实录",
-    "publishedAt": "2026-08-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -1126,4 +1127,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-15T18:22:31.933Z';
+export const dataFetchedAt = '2026-08-16T01:04:33.846Z';
