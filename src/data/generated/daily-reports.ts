@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-17-auto",
+    "date": "2026-08-17",
+    "session": "auto",
+    "title": "2026-08-17 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-17-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+      },
+      {
+        "id": "sig-2026-08-17-auto-2",
+        "emoji": "🚨",
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "detail": "来源: TechCrunch。Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+      },
+      {
+        "id": "sig-2026-08-17-auto-3",
+        "emoji": "🚨",
+        "title": "Frontline Perspectives: Turning Workforce Insights into Action",
+        "summary": "Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/frontline-perspectives-turning-workforce-insights-into-action/"
+      },
+      {
+        "id": "sig-2026-08-17-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：AutoDesign: Meta-Harness Optimization for Long-Horizon Agent...",
+        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har",
+        "detail": "作者: Yaxin Luo, Haobin Jiang, Jialv Zou。Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design priors, where a meta-harness optimizer guides a code agent to recursively improve harness based on rollout feedback. To instantiate and evaluate this framework, we focus on the academic paper-to-poster generation task and introduce PosterBench, comprising a 100-paper Main Track spanning five discipl",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.13560v1"
+      },
+      {
+        "id": "sig-2026-08-17-auto-5",
+        "emoji": "💼",
+        "title": "Menzies Aviation 正在招募 Cabin Cleaning Agent",
+        "summary": "岗位类型：业务+AI 复合岗。Overview People",
+        "detail": "技能要求: RAG, Agent。Overview People This is what has driven our teams since 1833 But at the he",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Menzies Aviation"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Menzies Aviation",
+        "link": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-17-1",
+        "priority": "medium",
+        "action": "关注「The Download: Flock&#8217;s new rules, c」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-17-2",
+        "priority": "high",
+        "action": "关注「Anthropic CEO says AI backlash is ‘funda」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-17-3",
+        "priority": "high",
+        "action": "关注「Frontline Perspectives: Turning Workforc」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-17-4",
+        "priority": "medium",
+        "action": "关注「研究速递：AutoDesign: Meta-Harness Optimizati」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-17-5",
+        "priority": "medium",
+        "action": "关注「Menzies Aviation 正在招募 Cabin Cleaning Age」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Menzies Aviation"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-17 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-08-17 00:00 - 2026-08-17 23:59"
+  },
+  {
     "id": "report-2026-08-16-auto",
     "date": "2026-08-16",
     "session": "auto",

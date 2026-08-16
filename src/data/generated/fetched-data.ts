@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "publishedAt": "2026-08-15",
+    "id": "news-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of--1786899231000",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786877147000",
-    "title": "李飞飞最新访谈：AI咋能代替人呢？",
-    "link": "https://www.qbitai.com/2026/08/474140.html",
-    "summary": "AI不是替代者，而是个人能力的放大镜",
+    "id": "news-95-5-1786881068000",
+    "title": "杭州95后小伙，5亿买走硅谷城堡",
+    "link": "https://www.qbitai.com/2026/08/474245.html",
+    "summary": "辞别马斯克xAI半年之后…",
     "publishedAt": "2026-08-16",
     "source": "量子位",
     "tags": [
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1786882510000",
-    "title": " 改名“库库AI”背后：百度的AI办公，为什么绕不开网盘与文库？ ",
-    "link": "https://www.huxiu.com/article/4883487.html?f=rss",
-    "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海 某种意义上说，库库AI更像是百度把自己攒了十几年的“内容家底”和“存储家底”，用AI的外壳重新打包了一遍 全文字数:约4790字 阅读时长:12分钟 8月14日百度AI Day开放日上，百度文库网盘旗下通用智能体GenFlow正式官宣中文名“库库AI”，同步交出一份颇为亮眼的成绩单：AI办公月活用户超2500万，位居通用AI办公赛道行业第一；同步上线办公独立端，覆盖PC客户端、网页端、小程序及企业版全矩阵。 通稿措辞一如既往地高调：三年抢先布局、全模态通用、全场景主动服务、国家级测评断崖式领先……一连串定语堆砌之下，一款现象级AI办公产品仿佛呼之欲出。 但拨开宣传话术的外壳，一个耐人寻味的事实始终摆在台面上：这款号称“通用AI办公赛道第一”的产品，从诞生、迭代到今天宣布独立，自始至终都没有脱离百度文库与百度网盘的母体。 别人家的AI办公，要么从办公工具里长出来，要么从协作平台里长出来，要么从通用大模型里长出来。唯独百度的AI办公，是从“文档内容池+云存储空间”里长出来的。 这既是它最独特的护城河，也可能是它最难突破的天花板。 01三年布局：从“功能插件”到“独立产品”的路径 百度做AI办公的起点，和绝大多数玩家都不一样。 2023年大模型爆发元年，WPS忙着给Office三件套加AI功能，飞书、钉钉忙着把大模型嵌进协作流",
+    "id": "news-563-1640-meme-1786901602000",
+    "title": " 牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币 ",
+    "link": "https://www.huxiu.com/article/4883520.html?f=rss",
+    "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海 当内容沦为流量赠品，我们到底在为什么狂欢？ 全文字数:约4545字 阅读时长:12分钟 如果要评选2026年暑期档最离谱的商业现象，动画电影《牛来》绝对是最有代表性的样本。 截至8月16日21点，据猫眼专业版实时数据，这部因制作水准引发全网热议的动画电影，综合票房已达563万元。 而就在同一天，BNB Chain上一枚蹭电影热度自发发行的同名Meme币，在当日盘中一度触及1640万美元市值，24小时涨幅最高达223%——导演带着家人耗时五年手搓的电影总票房，尚不及这枚无官方授权的代币单日市值波动的零头。 更具戏剧性的剧情同步上演：据九派新闻等媒体报道，大连部分影院已决定下架该片，有工作人员称担心影片口碑影响城市形象；另有网传消息称，自8月17日起全国影院将停止为该片新增排片，已排场次可照常放映，该消息尚未得到院线或主管部门的官方统一证实；导演信雨萌也于8月16日通过官方账号发文，宣布影片院线阶段正式落幕，并透露新作《羊高》已在制作中。 从上映前十天累计票房仅7711元、单日最低票房188元，到单日票房破200万、排片规模暴涨超1900倍，再到币圈蹭热度发币、观众自发玩梗打卡，《牛来》走出了中国电影史上绝无仅有的路径：它不靠工业化制作、不靠重金宣发、不靠流量明星，仅凭“极致粗糙”的话题性，就串联起了院线、社交平台、加密货币",
     "publishedAt": "2026-08-16",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-officeclaw-officeace-meta-ai-zcode-1786882121000",
-    "title": "【数智周报】  华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
-    "link": "https://www.tmtpost.com/8104888.html",
-    "summary": "（8月10日~8月15日）面壁智能启动IPO；英伟达研发万亿参数开源模型Nemotron 4；SpaceXAI推出“全天候数字同事”Grok Bot；宇树科技：网上投资者放弃认购8734股",
+    "id": "news-st-6-79-1786891210000",
+    "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
+    "link": "https://www.tmtpost.com/8105230.html",
+    "summary": "与退市“银河系”高度关联的北海资本团正通过闪电举牌悄然围猎控制权。",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -107,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-shares-more-details-about-how-claude-s-new-waterma-1786820319000",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "publishedAt": "2026-08-15",
+    "id": "news-techcrunch-mobility-the-shifting-flight-path-of-electric-air-1786896240000",
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -148,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-b-ai-90-1786876607000",
-    "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-    "link": "https://www.qbitai.com/2026/08/474064.html",
-    "summary": "“错过种一棵树最好的时间”",
+    "id": "news-ai-1786877147000",
+    "title": "李飞飞最新访谈：AI咋能代替人呢？",
+    "link": "https://www.qbitai.com/2026/08/474140.html",
+    "summary": "AI不是替代者，而是个人能力的放大镜",
     "publishedAt": "2026-08-16",
     "source": "量子位",
     "tags": [
@@ -161,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786882432000",
-    "title": " 星链之后，马斯克为什么又盯上了太空算力？ ",
-    "link": "https://www.huxiu.com/article/4883486.html?f=rss",
-    "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 星链已经铺到这个程度了，马斯克为什么还嫌不够？ 8月初，SpaceX与英伟达把Starmind AI1推到台前。英伟达确认，这套卫星计算载荷采用Vera Rubin NVL72；SpaceX官网也为Starmind单独开出页面，目标是利用太空太阳能，为地球提供低成本、高性能AI计算。 这件事放在半年前，或许还会被当成又一次“GPU上天”。现在已经很难这么理解。 今年1月，SpaceX向美国联邦通信委员会提交申请，希望建设一个最多包含100万颗卫星的非地球同步轨道数据中心系统。2月又收购xAI，把航天与AI业务纳入同一家公司的资产体系。到了6月，SpaceX以每股135美元登陆纳斯达克，募资750亿美元，发行估值约1.77万亿美元。 两个月后，Starmind来了。 SpaceX已经通过Starlink经营着全球规模最大的商业低轨卫星互联网之一，累计部署卫星超过1万颗。Starlink的核心商品是连接，Starmind则把业务继续推向计算。 如果部分AI推理、遥感图像处理和数据筛选可以在轨完成，卫星网络的价值便会从传输继续延伸到处理数据。对SpaceX来说，过去二十多年积累的火箭、卫星和网络，也由此第一次直接接到了AI基础设施市场。 01 马斯克做SpaceX以来，一直在缩短公司与最终市场之间的距离。 最初，SpaceX制造火箭，为NAS",
+    "id": "news-deepseek-1786897593000",
+    "title": " DeepSeek涨价背后：中国正在把“智能”变成一种工业品 ",
+    "link": "https://www.huxiu.com/article/4883517.html?f=rss",
+    "summary": "本文来自微信公众号： AI资本观 ，作者：林见，编辑：邵神，制图：表｜IrisVale 导读： 今天（8月17日）零点，DeepSeek V4全系列新的峰谷价格正式生效。 过去一年多，中国模型不断压低前沿智能的价格，也把自己送进了全球开发者的工作流：在OpenRouter样本中，中国模型的Token份额已经超过美国；在Vercel，开放权重模型处理29%的Token，却只对应不到4%的支出。涨价因此不只是一张价格表的变化，更是一场定价权实验。 中国正在把智能变成可规模采购的工业品，下一道更难的问题是：做了更多工作之后，能否把客户、利润和公司价值也留下来？ 制图/表｜Iris Vale 每个月，住在美国达拉斯的开发者Ruben Garcia Jr.，要为一支看不见的“AI团队”支付大约700美元。 据Rest of World今年6月的报道，其中500美元付给Claude和ChatGPT，负责最复杂的规划和复核；另外200美元付给MiniMax、Kimi和小米MiMo，承担编码、语音识别等大约90%的任务。 这张账单里，没有哪个模型包办一切。它们像一个临时组成的项目组：有的处理大量日常工作，有的只在关键时刻出场。干活最多的中国模型，只拿走不到三成预算；负责少数难题的美国模型，拿走七成多。 一张私人账单当然不能代表市场。但过去一年半，越来越多平台数据开始拼出相似的画面。 2025年1月",
     "publishedAt": "2026-08-16",
     "source": "虎嗅",
     "tags": [
@@ -175,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786847206000",
-    "title": "中国科技板块的资金偏好正在改变：为什么是硬件先拿到钱",
-    "link": "https://www.tmtpost.com/8104860.html",
-    "summary": "2026 年中国科技财报季，资金正从消费互联网平台流向 AI 硬件与算力基础设施。",
+    "id": "news-cpo-1786887094000",
+    "title": "光模块没有死，但\"可插拔\"死了：英伟达CPO量产的产业链账",
+    "link": "https://www.tmtpost.com/8104976.html",
+    "summary": "对那些做了十年可插拔光模块的厂商来说，最难回答的问题不是\"CPO什么时候上量\"，而是一个更值得担忧的问题：当全球最大的光模块买家开始自己焊光引擎了，你的下一个客户又是谁？",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -201,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -240,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workswarm-ai-1786858659000",
-    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-    "link": "https://www.qbitai.com/2026/08/473972.html",
-    "summary": "背后是四项关键能力",
+    "id": "news-b-ai-90-1786876607000",
+    "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+    "link": "https://www.qbitai.com/2026/08/474064.html",
+    "summary": "“错过种一棵树最好的时间”",
     "publishedAt": "2026-08-16",
     "source": "量子位",
     "tags": [
@@ -253,23 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786881864000",
-    "title": " “离谱私募”曝光：基金经理都是“借”来的 ",
-    "link": "https://www.huxiu.com/article/4883485.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：封其娟 近年来，中基协及多地证监局已处置多起非结构化私募杠杆比例突破200%上限案件。追溯发现，杠杆超标往往不是孤立违规，常伴随委托外部投研、信披造假、人员虚挂、关联交易等系统性治理缺陷。早期监管警示若未实质整改，极端情形下或演变为兑付暴雷甚至刑事风险。 中基协最新披露，因存在三类违规事实，私募管理人深圳鼎呈被暂停受理基金产品备案12个月，同时现任法定代表人毛宇、现任合规风控负责人张天乐、时任投资经理谢亦颖均被采取公开谴责的纪律处分。 该私募被查出197个交易日杠杆比例超过200%的监管红线，旗下部分产品投资决策交由外部人员主导，名义上的基金经理谢亦颖仅做辅助。更具欺骗性的是，该私募与谢亦颖之间并无真实劳动关系，所谓劳动合同纯属虚构，是由股东方委派而来。 穿透股权来看，深圳鼎呈具有海南省国资背景，但未能阻止该私募在投资、人事、风控上的治理失守。中基协红字提示，深圳鼎呈存在信息报送异常、三年内行政监管措施、注册地与办公地不在同一辖区的情形。 今年3月，深圳证监局已对深圳鼎呈出具警示函，查实存在两类违规行为：一是将投资管理职责委托他人行使，说明公司在管理、运用私募基金财产过程中未履行谨慎勤勉义务；二是未妥善保存部分私募基金投资者适当性管理资料。 沪上一私募人士直言，对于长期杠杆超标、内控失效的机构而言，合规整改的缓冲带已经消失。私募运作指引过渡期已",
+    "id": "news--1786896702000",
+    "title": " “烂到有趣”的《牛来》：电影好不好看已经不再重要 ",
+    "link": "https://www.huxiu.com/article/4883516.html?f=rss",
+    "summary": "本文来自微信公众号： 冰川思享号 ，作者：牛角说 这不是单方面的嘲笑，而是一场双向奔赴：观众借电影确认自己的品味，电影借观众完成了从“无人问津”到“被集体注视”的跃迁。 我承认去看《牛来》是带着猎奇心理，但影迷的本分让我保持克制没有选择屏摄。 看完出来感觉自己有点儿亏，因为这是看这部影片唯一的乐趣。 和我一起“共襄盛举”的其他观众就没有这个顾虑，他们一边疯狂屏摄一边大呼小叫地嘲笑这部电影。 网上有传言说这部电影可能会在全国下线，如果属实，那可真就把这场行为艺术的讽刺感彻底拉满。 毕竟这可是一部拿到了“龙标”的电影。 01 《牛来》这种电影，放在电影史上其实并不罕见，它们甚至有一个专有名词——“so bad it's good”（烂到有趣）。 这类电影和普通烂片不一样——普通烂片会让人感到愤怒、无聊、想退票，而这些电影烂得过于真诚、过于独特、过于荒诞，反而变成了一种奇特的观影体验。 比如电影《房间》（烂片界的《公民凯恩》），导演凭借极致的真诚打动观众——他是真的相信自己拍了一部杰作。 还有电影《群鸟》（不是希区柯克那部），凭借“史上最差特效”在社交媒体上病毒式传播，成为网络时代的必看烂片。 《牛来》正是这样一部“烂到有趣”的电影，它甚至有些励志——母子俩花费五年时间，在AI时代“手搓”出一部超级烂的动画片，这是什么精神？ 如果《牛来》只是一部普通的平庸烂片，它不会红。但它“烂到有趣”",
     "publishedAt": "2026-08-16",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-lululemon-alo-1786845763000",
-    "title": "lululemon的对手ALO来了，只是有点晚",
-    "link": "https://www.tmtpost.com/8104920.html",
-    "summary": "Alo还没有来，它的明星同款、Logo、消费者和假货已经先到了。",
+    "id": "news-oracle-1786887089000",
+    "title": "服务器订单大超预期后，联想会走上Oracle的老路吗？",
+    "link": "https://www.tmtpost.com/8105005.html",
+    "summary": "拿了Oracle剧本的联想，还有很多问题要回答。",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -292,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked-1786810200000",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "id": "news-anthropic-shares-more-details-about-how-claude-s-new-waterma-1786820319000",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -332,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-1400-115-1786858122000",
-    "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-    "link": "https://www.qbitai.com/2026/08/473947.html",
-    "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+    "id": "news-workswarm-ai-1786858659000",
+    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+    "link": "https://www.qbitai.com/2026/08/473972.html",
+    "summary": "背后是四项关键能力",
     "publishedAt": "2026-08-16",
     "source": "量子位",
     "tags": [
@@ -345,24 +346,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-harness-1786880314000",
-    "title": " DeepSeek Harness：等的是量产车，端上来的却是试验台 ",
-    "link": "https://www.huxiu.com/article/4883481.html?f=rss",
-    "summary": "本文来自微信公众号： EarlMind ，作者：张翼轸Earl 一家汽车公司预告新品，大家等着看的，通常是一辆更快、更省油、开起来更顺手的新车。 结果幕布拉开，台上放着一套发动机试验台。接口全部开放，零件可以随时更换，甚至允许汽车在行驶中给自己造一个新部件，再装回身上。 懂机械的人会兴奋，普通消费者大概只想问一句：所以，这车到底能不能开？ DeepSeek Harness发布后的两极分化，我觉得大致也是这么来的。 许多人期待的，其实是一款DeepSeek官方调校的代码Agent。过去一段时间，已经有不少第三方产品围绕DeepSeek模型修补结构化输出、优化工具调用、减少缓存消耗，比如我非常喜欢用的Reasonix——甚至在Deepseek的官方网站上，都被作为核心接入Agent的工具来介绍。 既然外部团队都能做，大家自然会期待DeepSeek亲自下场，把模型和Harness之间的配合再往前推一步。 不需要多惊艳。哪怕只是把自家模型的Agent能力稳定提高一些，同时把成本压下来，对于普通用户也已经很有吸引力。 我想，许多人对于DeepSeek自家Harness的预期，是类似对《ZCode全面升级，GLM最佳Harness，让复杂任务自主交付》中的数据那样的：智谱的模型搭配智谱自己的ZCode Agent效果比搭配Claude Code来的更好。 但DeepSeek交出来的，完全是另一",
+    "id": "news--1786896546000",
+    "title": " 不开药方的人，不封路的城，不落空的奖杯 ",
+    "link": "https://www.huxiu.com/article/4883514.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 2026年的这个夏天，有三件事值得放在一起看。 一件是莫言。百花奖的红毯上，这位写了半辈子小说的诺奖得主在演员袁泉的陪同下，对着镜头说自己是“来看热闹的”，又说“红毯没有信念感是走不到头的”。有人问他能给年轻人什么人生建议，他摆了摆手：没有建议。他说自己从来不愿意以“教师爷”的身份示人。 一件在上海。时代少年团演唱会散场，七万人涌出体育馆。以往这种规模的演出，交通管制、限流、疏散，是一套成熟的流程。但这次不一样——地铁一号线和四号线为这群深夜回家的年轻人多开了三十四分钟，隔壁球场的灯还亮着，楼下的小店还开着，安检通道里女性工作人员的比例提到了九成五。整座城市没有封路，没有断电，没有板着脸，只是默默把事情做妥帖了，然后退到一边。 还有一件，也在北京。第38届百花奖颁奖，00后的易烊千玺拿了最佳男主角，香港演员卫诗雅拿了最佳女主角。一个六年前还在拿“最佳新人”的孩子，如今站到了top的位置上。一个因为拍戏嘴部缝了五十多针的演员，拆线不久就走上红毯，领奖时说“好好享受沿途的风景”。台下，梁家辉拥抱了易烊千玺，那个拥抱里没有前辈的指点，只有祝福。 而另一段往事也在这个夜晚被重新提起。39年前，莫言的小说《红高粱》被张艺谋拍成电影，姜文演的“我爷爷”。39年后，三个人在“冰丝带”的后台聚在了一起。他们没有聊过去，聊的是当下的电影、当下的观众",
     "publishedAt": "2026-08-16",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-0-019-1786843609000",
-    "title": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技",
-    "link": "https://www.tmtpost.com/8105063.html",
-    "summary": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技",
+    "id": "news--1786886297000",
+    "title": "星链之后，马斯克为什么又盯上了太空算力？",
+    "link": "https://www.tmtpost.com/8105159.html",
+    "summary": "两万亿美元SpaceX，还需要一个比星链更大的市场。",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -385,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-every-fusion-startup-that-has-raised-over-100m-1786799720000",
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -915,6 +915,26 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136812",
+    "title": "Cabin Cleaning Agent",
+    "company": "Menzies Aviation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Overview People",
+      "This is what has driven our teams since 1833",
+      "But at the he"
+    ],
+    "skills": [
+      "RAG",
+      "Agent"
+    ],
+    "location": "Hounslow, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+    "postedAt": "2026-08-15",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136810",
     "title": "Maintenance Planner",
     "company": "The HEINEKEN Company",
@@ -1122,26 +1142,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-painter-rooster-building-group-1136684",
     "postedAt": "2026-08-11",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136363",
-    "title": "Detail Specialist",
-    "company": "U-Haul",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "U-Haul Detail Technician Are you ready to rev up your career",
-      "U-Haul is looking for new team members to clean and detail the newest trucks and trailer fleet in the industry, ensuring that our equipment remains in top condition for our customers",
-      "If you have the skills and passion to keep our fleet l"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Windsor, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
-    "postedAt": "2026-08-10",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-08-16T12:31:28.369Z';
+export const dataFetchedAt = '2026-08-16T18:22:34.659Z';
