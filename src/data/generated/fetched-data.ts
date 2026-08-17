@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-flock-8217-s-new-rules-cloning-8217-s-future-an-1786709841000",
-    "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
-    "publishedAt": "2026-08-14",
+    "id": "news-the-download-dead-robot-friends-and-the-8220-censorship-indu-1786968600000",
+    "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
+    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "publishedAt": "2026-08-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-frontline-perspectives-turning-workforce-insights-into-actio-1786746939000",
-    "title": "Frontline Perspectives: Turning Workforce Insights into Action",
-    "link": "https://hrexecutive.com/frontline-perspectives-turning-workforce-insights-into-action/",
-    "summary": "Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Frontline Perspectives: Turning Workforce Insights into Action appeared first on HR Executive .",
-    "publishedAt": "2026-08-14",
+    "id": "news-nearly-1-in-5-gen-xers-don-8217-t-expect-to-ever-fully-retir-1786968931000",
+    "title": "Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire",
+    "link": "https://hrexecutive.com/nearly-1-in-5-gen-xers-dont-expect-to-ever-fully-retire/",
+    "summary": "Nearly 1 in 5 members of Gen X don&#8217;t expect to ever fully retire. &#8220;Gen X has spent much of its working life adapting to one economic challenge after another,&#8221; said Jasmine Escalera, a career expert at Zety. &#8220;Retirement is no longer a fixed milestone but something they have to continually rethink as economic conditions [&#8230;] The post Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -40,25 +40,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-union-pacific-conductor-who-recovered-from-stroke-still-pose-1786721160000",
-    "title": "Union Pacific conductor who recovered from stroke still posed ‘direct threat’ to safety, court rules",
-    "link": "https://www.hrdive.com/news/union-pacific-conductor-who-recovered-from-stroke-still-posed-direct-threat-to-safety/827914/",
-    "summary": "Under the ADA, the railway made an &ldquo;objectively reasonable&rdquo; decision to restrict the conductor from driving a train, the 8th Circuit held.",
-    "publishedAt": "2026-08-14",
+    "id": "news-6-questions-the-c-suite-and-hr-must-align-on-1786957200000",
+    "title": "6 questions the C-suite and HR must align on",
+    "link": "https://www.hrdive.com/spons/6-questions-the-c-suite-and-hr-must-align-on/827176/",
+    "summary": "Disconnects between the C-suite and HR may be limiting HR&rsquo;s ability to operate as a key business partner. Here&rsquo;s how to close the gap.",
+    "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-95-5-1786881068000",
-    "title": "杭州95后小伙，5亿买走硅谷城堡",
-    "link": "https://www.qbitai.com/2026/08/474245.html",
-    "summary": "辞别马斯克xAI半年之后…",
-    "publishedAt": "2026-08-16",
+    "id": "news-demo-1786959049000",
+    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+    "link": "https://www.qbitai.com/2026/08/474537.html",
+    "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+    "publishedAt": "2026-08-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -67,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-101-1786948127000",
-    "title": " 阿里101亿卖掉灵犀互娱，中信资本高价“截胡” ",
-    "link": "https://www.huxiu.com/article/4883636.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 历经数月竞购拉锯，阿里巴巴集团旗下游戏品牌灵犀互娱的归属终于尘埃落定。 8月17日，灵犀互娱CEO周炳枢发布内部信确认，阿里巴巴集团与中信资本旗下信宸资本已正式达成交易协议。根据协议，阿里巴巴将出让所持有的灵犀互娱全部股份，信宸资本将成为新任股东。 据此前报道，这笔交易估值超过15亿美元（折合人民币超101亿元），高于市场预期的70亿-90亿元人民币。 内部信透露，交易全程在“友好、平稳、共赢”的氛围中达成。周炳枢在信中感谢了阿里巴巴“孕育和壮大了灵犀”，并表示管理层团队将继续与员工并肩前行，“打造出更多有灵魂、让玩家铭记的好产品”。 对此，游戏产业分析师张书乐向观察者网分析称，尽管灵犀互娱是阿里“弃子”，但对于资本机构而言，仍是一个手握多个还算稳定的吸金游戏、可以继续深挖的赚钱“香饽饽”。 出售已成必然：从爆款到动荡 灵犀互娱的前身，可追溯至阿里在游戏领域的多次落子。 2014年，阿里通过收购UC将九游游戏渠道业务收入囊中，以此切入游戏赛道。2017年，阿里成立游戏事业群，以约10亿元全资收购广州简悦。这家公司由前网易COO詹钟晖创办，被收编后成为灵犀自研的核心班底。 转折发生在2019年。凭借光荣特库摩《三国志》IP授权的SLG（模拟策略类游戏）产品《三国志·战略版》，灵犀一战成名，该游戏长期稳居iOS畅销榜前列，全球用户突破1亿",
+    "id": "news--1786969759000",
+    "title": " 消灭量化，散户终于可以喘口气了？ ",
+    "link": "https://www.huxiu.com/article/4883751.html?f=rss",
+    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 有一种说法是，量化交易薅散户的羊毛，让散户产生普遍的亏损。 是不是解决了量化，市场的公平问题、散户普遍亏损问题就解决了呢？ 这两年，关于量化交易的探讨极多，情绪也极为激烈。有人将量化交易视作洪水猛兽，是散户的亏损之源，是这两年收割游资的镰刀。 随着方前任被审查，为量化鼓与呼最大声量的喇叭在今年7月偃旗息鼓，量化基金收益下行在江湖流传，围绕量化的争议更多。 据贝壳财经报道，中国人民大学原副校长、国家金融研究院院长吴晓求认为，量化交易本质上只是交易技术的变化，并没有改变市场运行的根本规律，截至目前没有充分的证据表明散户的亏损是量化交易带来的。他强调，必须使量化交易在规则公平的前提下接受针对性监管。 中泰国际首席经济学家李迅雷认为，要辩证地看待量化，不能一味地认为量化就是割韭菜，去掉量化股市就好了。 中国政法大学商学院教授刘纪鹏则是量化交易的严厉批评者之一，根据凤凰网财经2025年4月的报道，他认为不能牺牲95%投资人的公平，去获取少数5%机构的效率。 8月，上善资本集团首席经济学家，香港城市大学商学院客座教授夏春写了《关于量化交易的几点思考》，一篇1万多字的文章，在短视频、短文时代，居然成为热点。 看来，量化交易将长期激荡市场的情绪，将是市场关注的长期焦点。 7月31日，A股量化交易的末日？ 根据澎湃新闻的报道，2026年7月31",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1786945160000",
-    "title": "Token未来更贵还是更便宜？定价权之争白热化",
-    "link": "https://www.tmtpost.com/8101913.html",
-    "summary": "中国头部模型厂商的价格战正走向精细化。",
+    "id": "news--1786968361000",
+    "title": "李书福退出吉利汽车董事会，“一个吉利”开始整合权力",
+    "link": "https://www.tmtpost.com/8106176.html",
+    "summary": "自8月18日起，李书福辞任公司董事会主席及执行董事，安聪慧接任董事会主席。",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -94,15 +93,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-scientist-is-helping-build-a-missing-map-of-childhood-1786698000000",
-    "title": "This scientist is helping build a missing map of childhood",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
-    "publishedAt": "2026-08-14",
+    "id": "news-how-much-hydrogen-awaits-us-underground-1786957200000",
+    "title": "How much hydrogen awaits us underground?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;",
+    "publishedAt": "2026-08-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -119,39 +119,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-service-milestones-matter-transforming-work-anniversa-1786731996000",
-    "title": "Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences",
-    "link": "https://hrexecutive.com/making-service-milestones-matter-transforming-work-anniversaries-meaningful-employee-experiences/",
-    "summary": "Date &#038; Time: Wednesday, September 16, 2026 at 2:00 pm ET Hear from Workhuman’s own Cam Moore, VP of Strategy &#038; Operations, and Niamh Hoey, Senior Product Manager, to learn how organizations can rethink work anniversaries as strategic opportunities to strengthen belonging and reinforce culture. The post Making Service Milestones Matter: Transforming Work Anniversaries into Meaningful Employee Experiences appeared first on HR Executive .",
-    "publishedAt": "2026-08-14",
+    "id": "news-employees-will-pay-for-job-security-new-data-shows-1786968056000",
+    "title": "Employees will pay for job security, new data shows",
+    "link": "https://hrexecutive.com/employees-will-pay-for-job-security-new-data-shows/",
+    "summary": "More than half of workers would take a pay cut for job security, per Monster's 2026 report. See what else they're willing to give up. The post Employees will pay for job security, new data shows appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "organization",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-hold-1786718220000",
-    "title": "DHS to propose end of 60-day grace period for H-1B visa holders",
-    "link": "https://www.hrdive.com/news/dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-holders/827890/",
-    "summary": "Few details are known without the rule&rsquo;s text, which has yet to be published in the Federal Register, but the change may pose difficulties for employers, one attorney said.",
-    "publishedAt": "2026-08-14",
+    "id": "news-bridging-the-employer-chasm-how-leading-hr-teams-win-in-2026-1786957200000",
+    "title": "Bridging the employer chasm: How leading HR teams win in 2026",
+    "link": "https://www.hrdive.com/spons/bridging-the-employer-chasm-how-leading-hr-teams-win-in-2026/827706/",
+    "summary": "A widening workplace divide threatens culture and retention. Learn how top leaders are closing it &mdash; and where you can learn to do the same.",
+    "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-ai-1786877147000",
-    "title": "李飞飞最新访谈：AI咋能代替人呢？",
-    "link": "https://www.qbitai.com/2026/08/474140.html",
-    "summary": "AI不是替代者，而是个人能力的放大镜",
-    "publishedAt": "2026-08-16",
+    "id": "news-11-1786957477000",
+    "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+    "link": "https://www.qbitai.com/2026/08/474518.html",
+    "summary": "没有遥控、没人喂球",
+    "publishedAt": "2026-08-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -160,23 +158,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786947533000",
-    "title": " 淡季挺价，茅台要闯这一关 ",
-    "link": "https://www.huxiu.com/article/4883632.html?f=rss",
-    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 茅台最新的业绩告诉外界，改革的过程并不轻松。 上半年，贵州茅台实现营业收入907.03亿元，同比增长1.47%；归母净利润445.17亿元，同比下降1.95%。 据半年报数据推算，二季度公司实现营业收入约367.94亿元，同比下降约5.1%；归母净利润约172.74亿元，同比下降约6.9%。 飞天500ml首次公开“随行就市”调价发生在3月31日，因此二季度也是首个完整反映飞天调价、渠道迁移和产品结构调整影响的季度。 年初以来，茅台改革的主线清晰：减少渠道囤货和价格泡沫，让产品、价格和消费者数据更多回到厂家掌控之中。 但渠道迁移只能解决“从哪里卖”，无法凭空创造终端需求；普通飞天放量、高价非标收缩，也在改善真实动销的同时拉低了产品收入结构。 进入下半年，渠道迁移的空间继续收窄，茅台却在7—8月传统消费淡季连续调整飞天和非标产品价格，在中秋、国庆之前提前稳定价盘和渠道预期。 其能否完成全年业绩修复，将越来越取决于提价后的实际销量、市场批价和非标需求。 对于白酒龙头而言，改革由公司主导的“渠道重构期”，开始进入更受白酒周期约束的“需求验证期”。 一 飞天放量，报表承压 改革的短期代价，首先反映在收入结构上。 二季度，i茅台实现收入约187.1亿元，同比增长282.6%，单季收入已占酒类收入约一半，占直销收入的比重进一步升至83.3%",
+    "id": "news--1786966732000",
+    "title": " 追逐通用人工智能，世界模型多头并进 ",
+    "link": "https://www.huxiu.com/article/4883742.html?f=rss",
+    "summary": "本文来自微信公众号： 世界科学 ，作者：编译 蒋笃绘 “桌上的玻璃杯被碰落后，会发生什么？” 将这一问题抛给ChatGPT、DeepSeek之类的聊天机器人，AI会对你侃侃而谈“重力势能”“瞬间速度”“弹性变形”“应力波”等概念，不写个七八百字的专业分析不罢休。但如果回答者是个五六岁小孩，他会朴素地告知“杯子碎了”。 AI与小孩之间的反差很有意思。我们知道，聊天机器人的核心是大语言模型(LLM)，大语言模型则依托海量文本训练而成，其唯一目标，或者说“本能”，就是预测文本序列里的下一个词汇。 相比之下，人类接受的来自真实世界的“训练素材”以及反馈世界的本能截然不同。亲眼目睹水杯掉落是任何一款大语言模型都无法拥有的真实体验，这种体验缺失可能从根本上局限了AI的能力——也是一部分科学家最关心的问题。 要将人工智能推向下一阶段，真正需要的或许不是越发庞大的LLM，而是世界模型，即能通过观察世界进行学习从而模拟现实中行为后果的系统。 “世界模型”的渊源与意义 世界模型已迅速成为AI研究的前沿，也凭借其在自主机器人领域的应用前景，收获产业界和资本的高度关注。世界模型路线最吸引人之处在于，它似乎为通用人工智能(AGI)提供了可行路径。 我们理想中的AGI就是拥有比肩人类的智能，能像人类一样，在任意领域、任意任务上都表现出灵活的问题解决能力。但不得不说，关于世界模型和AGI，目前我们还分不清行业宣",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1786944304000",
-    "title": "真正考验星巴克中国的时候到了",
-    "link": "https://www.tmtpost.com/8105625.html",
-    "summary": "星巴克中国，“断腕自救”",
+    "id": "news-vs-deepseek-1786964695000",
+    "title": "智谱 VS Deepseek，两条分叉的自进化树",
+    "link": "https://www.tmtpost.com/8105866.html",
+    "summary": "智谱精准狙击DeepSeek，跑分八项赢了七项，但自进化路线的胜负才刚刚分晓",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -187,11 +186,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-job-titles-of-the-future-space-travel-agent-1786698000000",
-    "title": "Job titles of the future: Space travel agent",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him “the&#8230;",
-    "publishedAt": "2026-08-14",
+    "id": "news-what-happens-when-a-kid-s-robot-best-friend-dies-1786957200000",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
+    "publishedAt": "2026-08-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -212,37 +211,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-insiders-warn-job-candidates-about-its-ai-hiring-filt-1786710651000",
-    "title": "Google insiders warn job candidates about its AI hiring filters",
-    "link": "https://hrexecutive.com/google-insiders-warn-job-candidates-about-its-ai-hiring-filters/",
-    "summary": "An internal document advises some job applicants on sidestepping AI screening tools, highlighting ongoing trust issues between employees and employers over AI-powered hiring processes. The post Google insiders warn job candidates about its AI hiring filters appeared first on HR Executive .",
-    "publishedAt": "2026-08-14",
+    "id": "news-ghost-jobs-are-real-but-the-story-being-told-about-them-isn--1786967135000",
+    "title": "Ghost jobs are real. But the story being told about them isn&#8217;t",
+    "link": "https://hrexecutive.com/ghost-jobs-are-real-but-the-story-being-told-about-them-isnt/",
+    "summary": "Candidates frustrated by ghost jobs deserve a real solution, one that addresses the full complexity of what is actually happening, not just the version of the story that fits in a headline. The post Ghost jobs are real. But the story being told about them isn&#8217;t appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-labor-market-exhibits-continued-resilience-the-conference-bo-1786718220000",
-    "title": "Labor market exhibits ‘continued resilience,’ The Conference Board finds",
-    "link": "https://www.hrdive.com/news/labor-market-exhibits-continued-resilience-the-conference-board/827838/",
-    "summary": "Multiple factors have made an already complex job market even more volatile this year, per a report.",
+    "id": "news-union-pacific-conductor-who-recovered-from-stroke-still-pose-1786721160000",
+    "title": "Union Pacific conductor who recovered from stroke still posed ‘direct threat’ to safety, court rules",
+    "link": "https://www.hrdive.com/news/union-pacific-conductor-who-recovered-from-stroke-still-posed-direct-threat-to-safety/827914/",
+    "summary": "Under the ADA, the railway made an &ldquo;objectively reasonable&rdquo; decision to restrict the conductor from driving a train, the 8th Circuit held.",
     "publishedAt": "2026-08-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-b-ai-90-1786876607000",
-    "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-    "link": "https://www.qbitai.com/2026/08/474064.html",
-    "summary": "“错过种一棵树最好的时间”",
-    "publishedAt": "2026-08-16",
+    "id": "news-ai-1786955767000",
+    "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+    "link": "https://www.qbitai.com/2026/08/474381.html",
+    "summary": "AI最近最出圈的数学突破，都在“找反例”",
+    "publishedAt": "2026-08-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -251,23 +250,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786946692000",
-    "title": " 中国商人在中东，听够了沈腾被说的那句“不够甜” ",
-    "link": "https://www.huxiu.com/article/4883630.html?f=rss",
-    "summary": "出品｜虎嗅商业消费组 作者｜周月明 编辑｜苗正卿 题图｜《欢迎来龙餐馆》剧照 《欢迎来龙餐馆》这几天彻底杀疯了，截至8月16日已上映6天，总票房正式突破8亿元人民币，这一成绩也帮助沈腾个人主演电影的累计票房总数突破了420亿元大关。 这部电影用一间虚构的中餐馆&rdquo;龙餐馆&rdquo;，讲了两个中国人在中东战乱国家谋生的故事，虽然情节有部分虚构，但其中的台词和心态时常让坐在电影院的我，闪回到去中东探访时的场景。 &ldquo;不够甜&rdquo;是第一课 电影里有一个细节：餐馆老板老扎第一次见徐福，批评他做的菜&ldquo;不够甜、太辣&rdquo;，不符合本地人口味，徐福当场就怼回去：&ldquo;你要是让我做美国麦当劳汉堡，那我做不出来&rdquo;。这场关于口味的争执看似是餐馆经营的小摩擦，实际上戳中了几乎所有出海中东企业都会踩的第一个坑：你以为自己带来的是正宗，对方要的却是适配。现实中的原型商人刘磊，最后也不得不妥协，把主营菜品改成迎合美军士兵口味的酸甜鸡，而不是他原本坚持的地道大锅炖菜。 本地化是所有出海企业头疼的问题，在中东这种文化差异巨大的国家尤其是。 沙特有一套被称为&ldquo;沙化率&rdquo;的强制用人政策：雇员超过20人的公司每年必须增加5%的沙特籍劳动力比例，不同行业要求差异巨大，金融行业要达到85%，物流配送只需10%，未达标的企业会被排除在政",
+    "id": "news-ebay-8-whatnot-200-1786966504000",
+    "title": " eBay翻8倍、Whatnot值200亿，美国直播电商终于打起来了 ",
+    "link": "https://www.huxiu.com/article/4883740.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 镜头前卖家手持鞋盒，倒计时一启动，出价就涌进来。60秒内翻了十几轮，落锤在180美元。整个过程没有优惠券，没有满减，就是纯粹的竞拍。这一幕发生在TikTok Shop的直播间里，地点是美国，时间是2026年的夏天。 几乎同一时期，直播购物平台Whatnot宣布完成G轮融资5.45亿美元，估值跳至200亿美元。eBay财报电话会上，管理层说直播业务这个季度GMV同比涨了约8倍。 三件事凑在一起，传递出同一个信号，美国直播电商，不再是简单复制中国的模式。 01 三强混战，各有各的打法 Whatnot、eBay Live、TikTok Shop，三个玩家定位几乎没有重叠，却在同一条赛道上越跑越快。 要说谁是这个市场里最原生的，得是Whatnot。 2019年，Grant LaFontaine和Logan Head靠Pokémon卡牌的直播拍卖起的家，LaFontaine自己就是第一个开播的卖家，两小时出了5000美元的货。 七年后，这个从收藏圈子里长出来的平台，今年上半年GMV就超过了80亿美元，追平了全年2025的总量，收入也在今年第一次破了10亿美元。 一位在Whatnot上卖了三年球星卡的卖家告诉品牌工厂，刚入驻那会儿一天能出五件已经算好日子，现在开一场两小时的直播，几百件货出去不算稀奇。 坚持日播的卖家月均",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1786944302000",
-    "title": "物理AI的操作系统战争——谁在定义机器人的「小脑」？",
-    "link": "https://www.tmtpost.com/8105533.html",
-    "summary": "物理AI没有「安卓」",
+    "id": "news-ai-1786964692000",
+    "title": "AI为主人插队踢飞第一名，千万别让黄牛知道",
+    "link": "https://www.tmtpost.com/8105869.html",
+    "summary": "主人求它收手都没用。",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -278,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloning-could-be-used-to-save-species-or-make-human-organ-sa-1786698000000",
-    "title": "Cloning could be used to save species—or make human “organ sacks”",
-    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-    "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.&#8230;",
+    "id": "news-the-download-flock-8217-s-new-rules-cloning-8217-s-future-an-1786709841000",
+    "title": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
     "publishedAt": "2026-08-14",
     "source": "MIT Technology Review",
     "tags": [
@@ -303,11 +303,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-is-a-people-challenge-before-it-s-a-technology-o-1786709701000",
-    "title": "AI adoption is a people challenge before it’s a technology one",
-    "link": "https://hrexecutive.com/ai-adoption-is-a-people-challenge-before-its-a-technology-one/",
-    "summary": "\"From my vantage point as a chief people officer at the center of AI change, one thing is clear: Scaling AI is less about deploying tools and more about building the conditions for people to use them well,\" writes Ana White of Lumen. The post AI adoption is a people challenge before it’s a technology one appeared first on HR Executive .",
-    "publishedAt": "2026-08-14",
+    "id": "news-irs-releases-proposed-trump-account-regulations-for-employer-1786966241000",
+    "title": "IRS releases proposed Trump account regulations for employer contributions",
+    "link": "https://hrexecutive.com/irs-releases-proposed-trump-account-regulations-for-employer-contributions/",
+    "summary": "The IRS unveiled new details about how employers can contribute to Trump accounts, individual retirement accounts for employees' children. The post IRS releases proposed Trump account regulations for employer contributions appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -316,11 +316,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-alienating-and-cruel-eeoc-files-lawsuit-against-employer-for-1786653420000",
-    "title": "‘Alienating and cruel’: EEOC files lawsuit against employer for segregating DEI training by race",
-    "link": "https://www.hrdive.com/news/eeoc-lawsuit-washington-university-2026/827848/",
-    "summary": "This iteration of the U.S. Equal Employment Opportunity Commission has been vocal about cracking down on DEI in the context of Title VII.",
-    "publishedAt": "2026-08-13",
+    "id": "news-dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-hold-1786718220000",
+    "title": "DHS to propose end of 60-day grace period for H-1B visa holders",
+    "link": "https://www.hrdive.com/news/dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-holders/827890/",
+    "summary": "Few details are known without the rule&rsquo;s text, which has yet to be published in the Federal Register, but the change may pose difficulties for employers, one attorney said.",
+    "publishedAt": "2026-08-14",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -330,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workswarm-ai-1786858659000",
-    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-    "link": "https://www.qbitai.com/2026/08/473972.html",
-    "summary": "背后是四项关键能力",
-    "publishedAt": "2026-08-16",
+    "id": "news-phanrouter-glm-5-3-1786955185000",
+    "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+    "link": "https://www.qbitai.com/2026/08/474361.html",
+    "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+    "publishedAt": "2026-08-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -343,24 +343,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786946400000",
-    "title": " 铁王座之下，中国AI到底需要什么样的超节点？ ",
-    "link": "https://www.huxiu.com/article/4883150.html?f=rss",
-    "summary": "中国AI的超节点争夺战，像权游里的铁王座，各家算力厂商想掌控基础设施，却带来了新的碎片化。",
+    "id": "news--1786966492000",
+    "title": " 旺旺怎么重新变旺？ ",
+    "link": "https://www.huxiu.com/article/4883739.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 旺旺创始人蔡衍明最近的一封内部信，把这家老牌食品企业推到了聚光灯下。 8月初，蔡衍明在《大团结——致全体旺旺人的一封信》中，罕见地将2026财年第一季度的业绩失速定义为“重大经营危机”，并直言，旺旺过去近30年“靠着几只拳头产品过了近30年的好日子，一直未能创新求变”。他还将问题指向经销商合作方式、客户流失以及渠道变化。 从最新业绩来看，这种焦虑并非没有依据。 2025财年（2025年4月1日至2026年3月31日）的业绩显示，中国旺旺(HK:00151)实现收入244.01亿元，同比增长3.8%，创历史新高，但公司权益持有人应占利润38.37亿元，同比下降11.5%。 而在蔡衍明公开承认危机之后，消费者也开始替旺旺寻找答案。 8月15日，“旺旺最大的对手竟是糖”等相关话题登上微博热搜，大量网友开始给旺旺“支招”。其中最集中的声音是希望旺仔牛奶等经典产品降低糖分、改善配料，也有人提出加强线上渠道、增加消费者调研、开发更符合当下健康需求的产品。 当天晚间，旺旺集团首席营运官蔡旺家公开回应称，蔡衍明一直强调“每个消费者就是我们的衣食父母”，网友提出的建议“都铭记在心”。随后，旺仔俱乐部又晒出一系列无糖、低糖产品回应消费者的减糖呼声。 一家曾经极其擅长理解中国消费者的食品公司，如今重新需要从消费者那里寻找增长答案。而从消费者的反馈来看，旺旺",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1786944299000",
-    "title": "烟蒂，腾盛博药",
-    "link": "https://www.tmtpost.com/8105585.html",
-    "summary": "高光，坠落，燃烧，赌注。",
+    "id": "news-harness-deepseek-1786964685000",
+    "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
+    "link": "https://www.tmtpost.com/8105986.html",
+    "summary": "绝对的低价终究只是梁文峰刺破商业壁垒的一柄短刃，而非能够长期持有的壁垒。",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -371,11 +370,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roundtables-inside-the-8220-censorship-industrial-complex-82-1786654800000",
-    "title": "Roundtables: Inside the &#8220;Censorship-Industrial Complex&#8221; Idea Shaping US Policy",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
-    "publishedAt": "2026-08-13",
+    "id": "news-this-scientist-is-helping-build-a-missing-map-of-childhood-1786698000000",
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+    "publishedAt": "2026-08-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -980,4 +979,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-17T06:46:12.352Z';
+export const dataFetchedAt = '2026-08-17T12:36:16.849Z';
