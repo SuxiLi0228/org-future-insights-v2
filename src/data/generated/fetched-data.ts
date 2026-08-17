@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of--1786899231000",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "id": "news-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-1786913824000",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
@@ -67,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-563-1640-meme-1786901602000",
-    "title": " 牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币 ",
-    "link": "https://www.huxiu.com/article/4883520.html?f=rss",
-    "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海 当内容沦为流量赠品，我们到底在为什么狂欢？ 全文字数:约4545字 阅读时长:12分钟 如果要评选2026年暑期档最离谱的商业现象，动画电影《牛来》绝对是最有代表性的样本。 截至8月16日21点，据猫眼专业版实时数据，这部因制作水准引发全网热议的动画电影，综合票房已达563万元。 而就在同一天，BNB Chain上一枚蹭电影热度自发发行的同名Meme币，在当日盘中一度触及1640万美元市值，24小时涨幅最高达223%——导演带着家人耗时五年手搓的电影总票房，尚不及这枚无官方授权的代币单日市值波动的零头。 更具戏剧性的剧情同步上演：据九派新闻等媒体报道，大连部分影院已决定下架该片，有工作人员称担心影片口碑影响城市形象；另有网传消息称，自8月17日起全国影院将停止为该片新增排片，已排场次可照常放映，该消息尚未得到院线或主管部门的官方统一证实；导演信雨萌也于8月16日通过官方账号发文，宣布影片院线阶段正式落幕，并透露新作《羊高》已在制作中。 从上映前十天累计票房仅7711元、单日最低票房188元，到单日票房破200万、排片规模暴涨超1900倍，再到币圈蹭热度发币、观众自发玩梗打卡，《牛来》走出了中国电影史上绝无仅有的路径：它不靠工业化制作、不靠重金宣发、不靠流量明星，仅凭“极致粗糙”的话题性，就串联起了院线、社交平台、加密货币",
-    "publishedAt": "2026-08-16",
+    "id": "news-ai-1786928189000",
+    "title": " AI成功设计全新病毒，是生化危机的前奏吗？ ",
+    "link": "https://www.huxiu.com/article/4883545.html?f=rss",
+    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 8月6号《科学》上发表的一篇论文引发了广泛关注，斯坦福大学的科学家用生成式AI成功设计了16个自然界中不存在的全新病毒： 新冠疫情期间，实验室制造病毒的阴谋论影响很大，因此，这项研究发表后也有不少人担忧这是否意味着AI将制造下一个大流行，或者至少有人可以利用AI制造一个全新、无解药的致命病毒。 大可不必，这项研究很大程度上只是验证了生成式AI用于“生成”DNA序列时还能生成部分可用的序列，距离真正制造“全新”病毒还差得很远。 研究人员的出发点实际上都不是要制造全新病毒。他们是想解决噬菌体治疗细菌感染时的缺陷：合适的噬菌体很少。 噬菌体如其名是专门寄生、消灭细菌的一类病毒。我们想到治疗细菌感染时首先会想到的都是抗生素，可是理论上噬菌体也可以帮我们消灭某个病菌。偶尔你还会看到噬菌体成功治疗细菌感染的案例，比如2015年时，加州圣地亚哥大学的一对教授夫妇在埃及度假，丈夫不幸感染了鲍曼不动杆菌： 这种细菌对很多抗生素耐药，这位丈夫还特别不走远，感染的菌株连唯一有效的抗生素组合都耐药。绝境之中，医疗团队尝试用噬菌体治疗，成功救下他的性命。 你可能好奇，既然噬菌体治疗如此厉害，抗生素救不了的人都能救，为什么我们很少听说这种治疗呢？ 其实噬菌体治疗的历史不比抗生素短，二三十年代时很流行，青霉素可是1928年被弗莱明发现，40年代才",
+    "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -81,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-st-6-79-1786891210000",
-    "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
-    "link": "https://www.tmtpost.com/8105230.html",
-    "summary": "与退市“银河系”高度关联的北海资本团正通过闪电举牌悄然围猎控制权。",
-    "publishedAt": "2026-08-16",
+    "id": "news-pony-ai-and-uber-set-their-sights-on-more-than-2-000-robotax-1786928107000",
+    "title": "Pony.ai and Uber Set Their Sights on More Than 2,000 Robotaxis in Europe",
+    "link": "https://www.tmtpost.com/8105342.html",
+    "summary": "A Chinese autonomous-driving company and a global ride-hailing platform have agreed to expand a quiet pilot in Zagreb into a multi-city fleet. The plan is ambitious on paper. Whether it can clear Europe’s regulatory thicket and cover its costs is the harder question.",
+    "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-the-shifting-flight-path-of-electric-air-1786896240000",
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "id": "news-why-people-aren-8217-t-buying-mark-zuckerberg-s-ai-future-1786912321000",
+    "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
     "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
@@ -161,25 +161,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1786897593000",
-    "title": " DeepSeek涨价背后：中国正在把“智能”变成一种工业品 ",
-    "link": "https://www.huxiu.com/article/4883517.html?f=rss",
-    "summary": "本文来自微信公众号： AI资本观 ，作者：林见，编辑：邵神，制图：表｜IrisVale 导读： 今天（8月17日）零点，DeepSeek V4全系列新的峰谷价格正式生效。 过去一年多，中国模型不断压低前沿智能的价格，也把自己送进了全球开发者的工作流：在OpenRouter样本中，中国模型的Token份额已经超过美国；在Vercel，开放权重模型处理29%的Token，却只对应不到4%的支出。涨价因此不只是一张价格表的变化，更是一场定价权实验。 中国正在把智能变成可规模采购的工业品，下一道更难的问题是：做了更多工作之后，能否把客户、利润和公司价值也留下来？ 制图/表｜Iris Vale 每个月，住在美国达拉斯的开发者Ruben Garcia Jr.，要为一支看不见的“AI团队”支付大约700美元。 据Rest of World今年6月的报道，其中500美元付给Claude和ChatGPT，负责最复杂的规划和复核；另外200美元付给MiniMax、Kimi和小米MiMo，承担编码、语音识别等大约90%的任务。 这张账单里，没有哪个模型包办一切。它们像一个临时组成的项目组：有的处理大量日常工作，有的只在关键时刻出场。干活最多的中国模型，只拿走不到三成预算；负责少数难题的美国模型，拿走七成多。 一张私人账单当然不能代表市场。但过去一年半，越来越多平台数据开始拼出相似的画面。 2025年1月",
-    "publishedAt": "2026-08-16",
+    "id": "news--1786927255000",
+    "title": " 特朗普营造“金特会”悬念 ",
+    "link": "https://www.huxiu.com/article/4883541.html?f=rss",
+    "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 特朗普是一个不断需要新闻、需要媒体流量的人。 8月15日，特朗普在个人社交平台发布了一张他跟金正恩的合影（下图），并配文道：“只看这张照片，看似我们关系不好，但我们也有不少面带笑容的照片，我与金正恩相处得很好！” 特朗普和金正恩曾会晤过三次，分别是2018年6月12日在新加坡、2019年2月27日至28日在越南河内，以及2019年6月30日在板门店会晤。 这次发布的照片摄自板门店，因“金特二会”在河内意外谈崩，所以第三次会晤的气氛没有前两次好。 在贴出照片的同时，特朗普还给战争部长赫格塞斯下命令，要求“大幅削减”正在进行的美韩联合军演规模，并指责韩国拒绝跟美国一起应对伊朗无核化问题，暗示美国也没有义务跟韩国一起应对朝鲜无核化问题…… 特朗普此时贴出跟金正恩合影并非空穴来风，因为就在8月15日当天，韩国总统李在明在纪念“光复节”庆祝仪式上发表讲话，首次提出“讨论结束朝鲜战争”。 李在明甚至没有像去年那样明确强调实现“朝鲜半岛无核化”，而是阐释了“包容、稳定、负责任的和平共处”三大方向，称着力推动把朝鲜半岛“从不稳定的停战体制转变为和平体制”。 李在明表示：“让我们放下相互威胁的意图，作为直接当事方，开始讨论结束这场旷日持久的战争吧。通过这种方式，或许也能探讨遏制朝鲜核能力发展的有效措施。” 不难体会，韩国方面早已明白让朝鲜弃核不可能，改",
+    "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-cpo-1786887094000",
-    "title": "光模块没有死，但\"可插拔\"死了：英伟达CPO量产的产业链账",
-    "link": "https://www.tmtpost.com/8104976.html",
-    "summary": "对那些做了十年可插拔光模块的厂商来说，最难回答的问题不是\"CPO什么时候上量\"，而是一个更值得担忧的问题：当全球最大的光模块买家开始自己焊光引擎了，你的下一个客户又是谁？",
-    "publishedAt": "2026-08-16",
+    "id": "news-edge-ai-daily-8-17-1786927779000",
+    "title": "Edge AI Daily 早报（8月17日）",
+    "link": "https://www.tmtpost.com/8105300.html",
+    "summary": "华盛顿大学研究证明预训练数据知识边界决定模型能力上限，挑战“更多数据更大模型”范式。加拿大首次对中资企业涉及第三国资产交易主张审查权，华联控股收购阿根廷锂矿面临长臂管辖升级。柔佛数据中心热潮受电网、审批等执行端风险制约，结构性机遇与泡沫并存。Common Earth项目联合Imec探索芯片制造中稀土替代方案，试图打破地缘材料锁定。",
+    "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -201,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "publishedAt": "2026-08-15",
+    "id": "news-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of--1786899231000",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -253,24 +252,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786896702000",
-    "title": " “烂到有趣”的《牛来》：电影好不好看已经不再重要 ",
-    "link": "https://www.huxiu.com/article/4883516.html?f=rss",
-    "summary": "本文来自微信公众号： 冰川思享号 ，作者：牛角说 这不是单方面的嘲笑，而是一场双向奔赴：观众借电影确认自己的品味，电影借观众完成了从“无人问津”到“被集体注视”的跃迁。 我承认去看《牛来》是带着猎奇心理，但影迷的本分让我保持克制没有选择屏摄。 看完出来感觉自己有点儿亏，因为这是看这部影片唯一的乐趣。 和我一起“共襄盛举”的其他观众就没有这个顾虑，他们一边疯狂屏摄一边大呼小叫地嘲笑这部电影。 网上有传言说这部电影可能会在全国下线，如果属实，那可真就把这场行为艺术的讽刺感彻底拉满。 毕竟这可是一部拿到了“龙标”的电影。 01 《牛来》这种电影，放在电影史上其实并不罕见，它们甚至有一个专有名词——“so bad it's good”（烂到有趣）。 这类电影和普通烂片不一样——普通烂片会让人感到愤怒、无聊、想退票，而这些电影烂得过于真诚、过于独特、过于荒诞，反而变成了一种奇特的观影体验。 比如电影《房间》（烂片界的《公民凯恩》），导演凭借极致的真诚打动观众——他是真的相信自己拍了一部杰作。 还有电影《群鸟》（不是希区柯克那部），凭借“史上最差特效”在社交媒体上病毒式传播，成为网络时代的必看烂片。 《牛来》正是这样一部“烂到有趣”的电影，它甚至有些励志——母子俩花费五年时间，在AI时代“手搓”出一部超级烂的动画片，这是什么精神？ 如果《牛来》只是一部普通的平庸烂片，它不会红。但它“烂到有趣”",
-    "publishedAt": "2026-08-16",
+    "id": "news--1786927104000",
+    "title": " 经开区密集摘牌，东北开始精打细算 ",
+    "link": "https://www.huxiu.com/article/4883540.html?f=rss",
+    "summary": "本文来自微信公众号： 读城记工作室 ，作者：黎广 有一个东北省份，正在大刀阔斧地“瘦身”。 近日，辽宁省政府批复同意第二批省级经济开发区（以下简称“经开区”）撤并名单，涉及13个城市、32家省级经开区。 至此，辽宁省两批次共撤并49家省级经开区，数量由高峰期的92家压减至43家，精简幅度超过50%。 但这并不是辽宁的经开区首次“瘦身”。 在2025年，辽宁便开始对省级经开区进行全面体检和量化评价，对成长性差、财政入不敷出、规划布局不合理、排名长期靠后的园区进行整合或撤销，上半年撤销4家，下半年撤并17家。 除了辽宁，时代周报记者注意到，吉林和黑龙江也在对省级经开区进行撤并优化，黑龙江甚至从2018年便发文对经开区进行优化整合。 为何东北三省都在积极对省级经开区进行“瘦身”？这会带来什么影响？ “减重”50% 目前，辽宁省级经开区已压减至43家，数量缩减过半。最直接的影响是，省级经开区土地面积缩减551万亩（约3670平方公里），管理机构人员由3969人减至2088人，减幅达47%。 中国国土经济学会理事长肖金成在接受时代周报记者采访时认为，这两次撤并，对辽宁当地工业结构和企业不会造成太大负面影响。 “不同经开区发展程度不一样，有些承担了主要的收益，但有一些经开区较难起到经济促进作用。而且这么多低效的经开区占有编制和土地，对地方财政可能会造成一些压力，所以撤并十分必要。” 辽宁省商务",
+    "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-oracle-1786887089000",
-    "title": "服务器订单大超预期后，联想会走上Oracle的老路吗？",
-    "link": "https://www.tmtpost.com/8105005.html",
-    "summary": "拿了Oracle剧本的联想，还有很多问题要回答。",
+    "id": "news-1600-8-18-1786922400000",
+    "title": "【钛晨报】跨国公司本外币跨境资金集中运营业务将推广至全国；1600亿翻倍牛股，签下超亿元芯片合同；今年以来最贵新股，定于8月18日上市",
+    "link": "https://www.tmtpost.com/8105146.html",
+    "summary": "国泰海通：中国股市将逐步迎来“金秋行情”；贵州茅台上半年净利润同比下降1.95%，商汤预计上半年转盈约5亿元至7亿元；智谱发布GLM-5.3、阿里开源Qwen3.8；中国2026暑期档票房超100亿；英伟达二季度新增持有SpaceX；Anthropic第二财季营收同比飙升至少13倍；广东首个词元经济“Token贷”发布。",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -293,11 +291,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-shares-more-details-about-how-claude-s-new-waterma-1786820319000",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "publishedAt": "2026-08-15",
+    "id": "news-techcrunch-mobility-the-shifting-flight-path-of-electric-air-1786896240000",
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "publishedAt": "2026-08-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,23 +344,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786896546000",
-    "title": " 不开药方的人，不封路的城，不落空的奖杯 ",
-    "link": "https://www.huxiu.com/article/4883514.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 2026年的这个夏天，有三件事值得放在一起看。 一件是莫言。百花奖的红毯上，这位写了半辈子小说的诺奖得主在演员袁泉的陪同下，对着镜头说自己是“来看热闹的”，又说“红毯没有信念感是走不到头的”。有人问他能给年轻人什么人生建议，他摆了摆手：没有建议。他说自己从来不愿意以“教师爷”的身份示人。 一件在上海。时代少年团演唱会散场，七万人涌出体育馆。以往这种规模的演出，交通管制、限流、疏散，是一套成熟的流程。但这次不一样——地铁一号线和四号线为这群深夜回家的年轻人多开了三十四分钟，隔壁球场的灯还亮着，楼下的小店还开着，安检通道里女性工作人员的比例提到了九成五。整座城市没有封路，没有断电，没有板着脸，只是默默把事情做妥帖了，然后退到一边。 还有一件，也在北京。第38届百花奖颁奖，00后的易烊千玺拿了最佳男主角，香港演员卫诗雅拿了最佳女主角。一个六年前还在拿“最佳新人”的孩子，如今站到了top的位置上。一个因为拍戏嘴部缝了五十多针的演员，拆线不久就走上红毯，领奖时说“好好享受沿途的风景”。台下，梁家辉拥抱了易烊千玺，那个拥抱里没有前辈的指点，只有祝福。 而另一段往事也在这个夜晚被重新提起。39年前，莫言的小说《红高粱》被张艺谋拍成电影，姜文演的“我爷爷”。39年后，三个人在“冰丝带”的后台聚在了一起。他们没有聊过去，聊的是当下的电影、当下的观众",
-    "publishedAt": "2026-08-16",
+    "id": "news-ai-1786926879000",
+    "title": " 大厂校招狂卷AI，应届生懵了 ",
+    "link": "https://www.huxiu.com/article/4883539.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，编辑：李梦冉，作者：定焦One团队 大厂抢AI人才，应届生抢实习门票。 定焦One（dingjiaoone）原创 2027届秋招正在变成一场AI浓度测试。 8月初，字节、阿里、京东相继启动校招。字节技术产品岗占比超七成，增设“AI全栈工程师”、“AI Agent开发”等新兴岗位；阿里AI相关岗位高达80%；京东首次引入AI面试......数据更直观，脉脉数据显示，2026年1至5月，新发校招AI岗位量同比增长47.3%，AI岗位渗透率从26.41%升至37.56%。大厂在用真金白银告诉应届生：未来是AI的。 但“未来是AI的”和“我能进大厂”，中间还隔着门槛。 我们和五位2026届、2027届毕业生聊了聊：有人投了四五十份简历，只拿到一次大厂面试机会；有人手握头部大厂实习，却因为不够垂直而被算法岗拒之门外；有人早早转向AI应用层，勉强接住了这波浪潮；也有人去年尝试投AI岗位，简历全挂，最后靠一段非AI的暑期实习转正留在了大厂...... 他们的背景不同、选择不同，但面对的现实一样：AI岗位占比再高，也不等于机会变多。门槛在涨，标准在变，而在这场游戏里，实习经历成了最硬的通货。 当“会用AI”和“懂AI”在求职中被区分，当一段垂直的实习经历比名校背景更管用，当面试官追问“工作流”、“落地案例”、“提效成果”，这批应届生发现，AI不是捷径，是另一场需",
+    "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1786886297000",
-    "title": "星链之后，马斯克为什么又盯上了太空算力？",
-    "link": "https://www.tmtpost.com/8105159.html",
-    "summary": "两万亿美元SpaceX，还需要一个比星链更大的市场。",
+    "id": "news-st-6-79-1786891210000",
+    "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
+    "link": "https://www.tmtpost.com/8105230.html",
+    "summary": "与退市“银河系”高度关联的北海资本团正通过闪电举牌悄然围猎控制权。",
     "publishedAt": "2026-08-16",
     "source": "钛媒体",
     "tags": [
@@ -385,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-officially-closes-its-cursor-acquisition-1786811400000",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "publishedAt": "2026-08-15",
     "source": "TechCrunch",
     "tags": [
@@ -1145,4 +1144,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-16T18:22:34.659Z';
+export const dataFetchedAt = '2026-08-17T01:02:32.305Z';
