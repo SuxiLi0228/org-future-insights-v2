@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-18-auto",
+    "date": "2026-08-18",
+    "session": "auto",
+    "title": "2026-08-18 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-18-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+      },
+      {
+        "id": "sig-2026-08-18-auto-2",
+        "emoji": "⚠️",
+        "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+        "summary": "Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+        "detail": "来源: TechCrunch。Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/"
+      },
+      {
+        "id": "sig-2026-08-18-auto-3",
+        "emoji": "🚨",
+        "title": "Employees are navigating AI disruption in the dark",
+        "summary": "While companies are diving in full on to adopt AI, workers are a bit slower in taking up the cause, and the result will be telling. The post Employees are navigating AI disruption in the dark appeared first on HR Executive .",
+        "detail": "来源: HR Executive。While companies are diving in full on to adopt AI, workers are a bit slower in taking up the cause, and the result will be telling. The post Employees are navigating AI disruption in the dark appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/employees-are-navigating-ai-disruption-in-the-dark/"
+      },
+      {
+        "id": "sig-2026-08-18-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Decoding the Past: An Uncertainty-Aware Deep Learning Framew...",
+        "summary": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor",
+        "detail": "作者: Karel Becerra, Boris Mederos, Dean Snow。Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods suffer from high structural overlap across sexes, poor cross-population generalizability, and subjective feature engineering. This study presents an uncertainty-aware deep learning framework for sex attribution in prehistoric hand stencils that explicitly models, propagates, and aggregates uncertainty throughout the analytical pipeline. The methodology combines dual image processing, dual contour extraction, structured silhouette augmentation, model architectural diversity, and ens",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.14539v1"
+      },
+      {
+        "id": "sig-2026-08-18-auto-5",
+        "emoji": "💼",
+        "title": "Menzies Aviation 正在招募 Cabin Cleaning Agent",
+        "summary": "岗位类型：业务+AI 复合岗。Overview People",
+        "detail": "技能要求: RAG, Agent。Overview People This is what has driven our teams since 1833 But at the he",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Menzies Aviation"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Menzies Aviation",
+        "link": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-18-1",
+        "priority": "medium",
+        "action": "关注「The Download: dead robot friends and the」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-18-2",
+        "priority": "medium",
+        "action": "关注「Sound-powered fire protection startup ge」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-18-3",
+        "priority": "high",
+        "action": "关注「Employees are navigating AI disruption i」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-18-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Decoding the Past: An Uncertainty-A」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-18-5",
+        "priority": "medium",
+        "action": "关注「Menzies Aviation 正在招募 Cabin Cleaning Age」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Menzies Aviation"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-18 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-08-18 00:00 - 2026-08-18 23:59"
+  },
+  {
     "id": "report-2026-08-17-auto",
     "date": "2026-08-17",
     "session": "auto",

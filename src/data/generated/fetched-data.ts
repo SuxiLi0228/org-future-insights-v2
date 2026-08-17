@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-1786913824000",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "publishedAt": "2026-08-16",
+    "id": "news-sound-powered-fire-protection-startup-gets-15m-to-snuff-out--1786991547000",
+    "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+    "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
+    "summary": "Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+    "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-1-in-5-gen-xers-don-8217-t-expect-to-ever-fully-retir-1786968931000",
-    "title": "Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire",
-    "link": "https://hrexecutive.com/nearly-1-in-5-gen-xers-dont-expect-to-ever-fully-retire/",
-    "summary": "Nearly 1 in 5 members of Gen X don&#8217;t expect to ever fully retire. &#8220;Gen X has spent much of its working life adapting to one economic challenge after another,&#8221; said Jasmine Escalera, a career expert at Zety. &#8220;Retirement is no longer a fixed milestone but something they have to continually rethink as economic conditions [&#8230;] The post Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire appeared first on HR Executive .",
+    "id": "news-employees-are-navigating-ai-disruption-in-the-dark-1786983359000",
+    "title": "Employees are navigating AI disruption in the dark",
+    "link": "https://hrexecutive.com/employees-are-navigating-ai-disruption-in-the-dark/",
+    "summary": "While companies are diving in full on to adopt AI, workers are a bit slower in taking up the cause, and the result will be telling. The post Employees are navigating AI disruption in the dark appeared first on HR Executive .",
     "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
@@ -40,16 +40,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-questions-the-c-suite-and-hr-must-align-on-1786957200000",
-    "title": "6 questions the C-suite and HR must align on",
-    "link": "https://www.hrdive.com/spons/6-questions-the-c-suite-and-hr-must-align-on/827176/",
-    "summary": "Disconnects between the C-suite and HR may be limiting HR&rsquo;s ability to operate as a key business partner. Here&rsquo;s how to close the gap.",
+    "id": "news-mailbag-do-we-need-form-i-9s-for-employees-hired-long-ago-1786985160000",
+    "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+    "link": "https://www.hrdive.com/news/need-form-i-9s-for-employees-hired-long-ago/827813/",
+    "summary": "It&rsquo;s rare to have an employee who doesn&rsquo;t need an I-9, but it&#39;s possible, according to a Littler attorney.",
     "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -66,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786969759000",
-    "title": " 消灭量化，散户终于可以喘口气了？ ",
-    "link": "https://www.huxiu.com/article/4883751.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 有一种说法是，量化交易薅散户的羊毛，让散户产生普遍的亏损。 是不是解决了量化，市场的公平问题、散户普遍亏损问题就解决了呢？ 这两年，关于量化交易的探讨极多，情绪也极为激烈。有人将量化交易视作洪水猛兽，是散户的亏损之源，是这两年收割游资的镰刀。 随着方前任被审查，为量化鼓与呼最大声量的喇叭在今年7月偃旗息鼓，量化基金收益下行在江湖流传，围绕量化的争议更多。 据贝壳财经报道，中国人民大学原副校长、国家金融研究院院长吴晓求认为，量化交易本质上只是交易技术的变化，并没有改变市场运行的根本规律，截至目前没有充分的证据表明散户的亏损是量化交易带来的。他强调，必须使量化交易在规则公平的前提下接受针对性监管。 中泰国际首席经济学家李迅雷认为，要辩证地看待量化，不能一味地认为量化就是割韭菜，去掉量化股市就好了。 中国政法大学商学院教授刘纪鹏则是量化交易的严厉批评者之一，根据凤凰网财经2025年4月的报道，他认为不能牺牲95%投资人的公平，去获取少数5%机构的效率。 8月，上善资本集团首席经济学家，香港城市大学商学院客座教授夏春写了《关于量化交易的几点思考》，一篇1万多字的文章，在短视频、短文时代，居然成为热点。 看来，量化交易将长期激荡市场的情绪，将是市场关注的长期焦点。 7月31日，A股量化交易的末日？ 根据澎湃新闻的报道，2026年7月31",
+    "id": "news-34-85-1786982852000",
+    "title": " 34.85亿元水务股权上移：宝武启动环保资产大整合 ",
+    "link": "https://www.huxiu.com/article/4883797.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：宝武这次上移的，不只是资产，还有环保业务的决策层级。资本结构搭起平台骨架，专业能力、经营效率和外部市场将决定平台成色。 2026年7月31日，马钢有限等16家股东签署增资协议，拟将宝武水务96.48%股权注入宝武环科，作价34.85亿元。 这些股东没有退出宝武的环保产业，而是把水务公司的直接持股换成上一级综合环保平台的股份。 如果交易完成，宝武水务股东将从17家减至2家，宝武环科持股96.48%，八一钢铁保留3.52%；宝武环科的股东则由9家增至22家。 17变2、9变22，看似只是两组股东数字的增减，真正变化的是：宝武水务的治理重心上移到了综合环保平台。 原来分别持有水务股权的钢铁基地继续分享环保产业的经济利益，对单一水务公司的直接治理关系则转由平台层承接。 这笔交易落在两条趋势的交汇处：央企专业化整合从资源归集走向业务融合；钢铁行业的绿色低碳转型与经营压力，也在推动环保平台提高统筹效率、复用专业能力并拓展市场。 宝武把已平台化运营的水务业务再次上移，正是从“同类资产归集”迈向“跨介质平台整合”的一步。 宝武并非个例。在青山研究院的调研中，不少央企环保都在回答同一道题： 环保资产归集后，怎样把组织规模变成经营能力。谁来决策、内部怎样算账、能力能否复用、外部客户是否买单，宝武案例正好提供了一个可以逐层拆解的样本，本文就此",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
@@ -106,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-people-aren-8217-t-buying-mark-zuckerberg-s-ai-future-1786912321000",
-    "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-    "publishedAt": "2026-08-16",
+    "id": "news-youtube-will-now-count-a-view-as-soon-as-a-video-starts-play-1786990173000",
+    "title": "YouTube will now count a view as soon as a video starts playing",
+    "link": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+    "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
+    "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -119,29 +120,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-will-pay-for-job-security-new-data-shows-1786968056000",
-    "title": "Employees will pay for job security, new data shows",
-    "link": "https://hrexecutive.com/employees-will-pay-for-job-security-new-data-shows/",
-    "summary": "More than half of workers would take a pay cut for job security, per Monster's 2026 report. See what else they're willing to give up. The post Employees will pay for job security, new data shows appeared first on HR Executive .",
+    "id": "news-ai-hiring-tools-can-invent-their-own-bias-research-finds-1786982727000",
+    "title": "AI hiring tools can invent their own bias, research finds",
+    "link": "https://hrexecutive.com/ai-hiring-tools-can-invent-their-own-bias-research-finds/",
+    "summary": "A study from Princeton University and the University of Chicago found that large language models can develop new stereotypes during repeated hiring decision-making, even when the groups have no underlying differences. &#8220;In this paper, we argue that removing existing biases is only one aspect of the problem,&#8221; the authors wrote. &#8220;Like people, LLMs can also [&#8230;] The post AI hiring tools can invent their own bias, research finds appeared first on HR Executive .",
     "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-bridging-the-employer-chasm-how-leading-hr-teams-win-in-2026-1786957200000",
-    "title": "Bridging the employer chasm: How leading HR teams win in 2026",
-    "link": "https://www.hrdive.com/spons/bridging-the-employer-chasm-how-leading-hr-teams-win-in-2026/827706/",
-    "summary": "A widening workplace divide threatens culture and retention. Learn how top leaders are closing it &mdash; and where you can learn to do the same.",
+    "id": "news-bank-of-america-won-t-let-employees-work-remotely-2-days-in--1786985040000",
+    "title": "Bank of America won’t let employees work remotely 2 days in a row",
+    "link": "https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/",
+    "summary": "The ban on taking two consecutive remote days includes Friday to Monday and takes effect in mid-September, according to a policy update workers received earlier this month.",
     "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -158,17 +159,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786966732000",
-    "title": " 追逐通用人工智能，世界模型多头并进 ",
-    "link": "https://www.huxiu.com/article/4883742.html?f=rss",
-    "summary": "本文来自微信公众号： 世界科学 ，作者：编译 蒋笃绘 “桌上的玻璃杯被碰落后，会发生什么？” 将这一问题抛给ChatGPT、DeepSeek之类的聊天机器人，AI会对你侃侃而谈“重力势能”“瞬间速度”“弹性变形”“应力波”等概念，不写个七八百字的专业分析不罢休。但如果回答者是个五六岁小孩，他会朴素地告知“杯子碎了”。 AI与小孩之间的反差很有意思。我们知道，聊天机器人的核心是大语言模型(LLM)，大语言模型则依托海量文本训练而成，其唯一目标，或者说“本能”，就是预测文本序列里的下一个词汇。 相比之下，人类接受的来自真实世界的“训练素材”以及反馈世界的本能截然不同。亲眼目睹水杯掉落是任何一款大语言模型都无法拥有的真实体验，这种体验缺失可能从根本上局限了AI的能力——也是一部分科学家最关心的问题。 要将人工智能推向下一阶段，真正需要的或许不是越发庞大的LLM，而是世界模型，即能通过观察世界进行学习从而模拟现实中行为后果的系统。 “世界模型”的渊源与意义 世界模型已迅速成为AI研究的前沿，也凭借其在自主机器人领域的应用前景，收获产业界和资本的高度关注。世界模型路线最吸引人之处在于，它似乎为通用人工智能(AGI)提供了可行路径。 我们理想中的AGI就是拥有比肩人类的智能，能像人类一样，在任意领域、任意任务上都表现出灵活的问题解决能力。但不得不说，关于世界模型和AGI，目前我们还分不清行业宣",
+    "id": "news--1786982813000",
+    "title": " 阿里卖掉了毕业班的灵犀 ",
+    "link": "https://www.huxiu.com/article/4883796.html?f=rss",
+    "summary": "本文来自微信公众号： 涌流商业 ，作者：林更 2026年8月17日，周炳枢在内部信里写下“经过多轮充分沟通与深度磋商”这句话时，距离他制作的那款游戏改变这家公司的命运，已经过去将近七年。 阿里巴巴集团与信宸资本正式达成协议，阿里出让所持灵犀互娱全部股份。彭博社消息给出的估值口径是超过15亿美元，路透社的说法是超过20亿美元，两家相差近5亿美元，交易双方没有公开价格。 《三国志·战略版》2019年9月上线，制作人是周炳枢。这款游戏让阿里第一次在游戏行业挣到姓名，也直接推动了灵犀互娱之后升级为与阿里大文娱平行的独立事业群。2024年3月，创始人詹钟晖卸任，接棒的正是周炳枢。 现在，由他宣布确认这家公司易主。 一朝毕业 2020年8月20日的季度业绩电话会上，阿里CFO吴泽明（Maggie Wu）在财务陈述环节提到了一件事。 她说，公司通过收购发展起来的在线游戏业务表现良好，现已被确认为数字媒体及娱乐分部的一部分，收入和用户规模都已成型，“已经走出了孵化器，也就是创新业务分部。” 走出了孵化器（moved out of the incubator），这在资本市场语言里是含义明确的动作。创新业务分部装的是还需要证明自己的实验性业务，通常伴随着持续亏损与不确定的前景；数字媒体及娱乐分部则是正式业务板块，意味着这项业务已经获得了独立的财务身份。 阿里在2021财年年报中以书面形式确认了这次归类",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -198,11 +198,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of--1786899231000",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-    "publishedAt": "2026-08-16",
+    "id": "news-feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot-1786986659000",
+    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+    "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+    "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -211,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ghost-jobs-are-real-but-the-story-being-told-about-them-isn--1786967135000",
-    "title": "Ghost jobs are real. But the story being told about them isn&#8217;t",
-    "link": "https://hrexecutive.com/ghost-jobs-are-real-but-the-story-being-told-about-them-isnt/",
-    "summary": "Candidates frustrated by ghost jobs deserve a real solution, one that addresses the full complexity of what is actually happening, not just the version of the story that fits in a headline. The post Ghost jobs are real. But the story being told about them isn&#8217;t appeared first on HR Executive .",
+    "id": "news-starbucks-and-bank-of-america-two-different-paths-on-glp-1-c-1786969857000",
+    "title": "Starbucks and Bank of America: two different paths on GLP-1 coverage",
+    "link": "https://hrexecutive.com/starbucks-and-bank-of-america-two-different-paths-on-glp-1-coverage/",
+    "summary": "The latest benefits rollback is happening at the coffee giant, which will end GLP-1 coverage for weight management this fall. The post Starbucks and Bank of America: two different paths on GLP-1 coverage appeared first on HR Executive .",
     "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
@@ -223,11 +223,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-union-pacific-conductor-who-recovered-from-stroke-still-pose-1786721160000",
-    "title": "Union Pacific conductor who recovered from stroke still posed ‘direct threat’ to safety, court rules",
-    "link": "https://www.hrdive.com/news/union-pacific-conductor-who-recovered-from-stroke-still-posed-direct-threat-to-safety/827914/",
-    "summary": "Under the ADA, the railway made an &ldquo;objectively reasonable&rdquo; decision to restrict the conductor from driving a train, the 8th Circuit held.",
-    "publishedAt": "2026-08-14",
+    "id": "news-1-in-5-gen-xers-don-t-think-they-ll-ever-retire-study-sugges-1786980660000",
+    "title": "1 in 5 Gen Xers don’t think they’ll ever retire, study suggests",
+    "link": "https://www.hrdive.com/news/gen-x-retirement-outlook-2026/828000/",
+    "summary": "Rising costs and inflation have derailed the retirement plans of many workers, according to a Zety report.",
+    "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -250,17 +250,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ebay-8-whatnot-200-1786966504000",
-    "title": " eBay翻8倍、Whatnot值200亿，美国直播电商终于打起来了 ",
-    "link": "https://www.huxiu.com/article/4883740.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 镜头前卖家手持鞋盒，倒计时一启动，出价就涌进来。60秒内翻了十几轮，落锤在180美元。整个过程没有优惠券，没有满减，就是纯粹的竞拍。这一幕发生在TikTok Shop的直播间里，地点是美国，时间是2026年的夏天。 几乎同一时期，直播购物平台Whatnot宣布完成G轮融资5.45亿美元，估值跳至200亿美元。eBay财报电话会上，管理层说直播业务这个季度GMV同比涨了约8倍。 三件事凑在一起，传递出同一个信号，美国直播电商，不再是简单复制中国的模式。 01 三强混战，各有各的打法 Whatnot、eBay Live、TikTok Shop，三个玩家定位几乎没有重叠，却在同一条赛道上越跑越快。 要说谁是这个市场里最原生的，得是Whatnot。 2019年，Grant LaFontaine和Logan Head靠Pokémon卡牌的直播拍卖起的家，LaFontaine自己就是第一个开播的卖家，两小时出了5000美元的货。 七年后，这个从收藏圈子里长出来的平台，今年上半年GMV就超过了80亿美元，追平了全年2025的总量，收入也在今年第一次破了10亿美元。 一位在Whatnot上卖了三年球星卡的卖家告诉品牌工厂，刚入驻那会儿一天能出五件已经算好日子，现在开一场两小时的直播，几百件货出去不算稀奇。 坚持日播的卖家月均",
+    "id": "news--1786982472000",
+    "title": " 房价跌了几年，物业费凭什么现在才开始降？ ",
+    "link": "https://www.huxiu.com/article/4883795.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 7月，广州增城连续公布的15份前期物业收费调整通知，把物业费推到聚光灯下。其中7份是在五年试行期满、成本监审认定成本低于普通住宅一级标准后，压低收费上限。国璟花园由3.10元降至2.80元/平方米/月，广州院子由3.50元降至2.80元。 2024年以来，重庆、银川、青岛、武汉四城已有百余个项目调低物业费，多数降幅在20%—35%，有的来自政府对前期收费的规范，有的由业主与物业协商，也有的在重新招标、更换物业后完成。几种路径指向同一个变化：长期几乎不动的物业费，开始被重新报价。 01｜物业费为什么比房价更难跌？ 新房阶段，物业公司的第一个客户不是单个业主 物业费的起点在房屋交付之前。《物业管理条例》规定，在业主自行选聘物业企业之前，由建设单位选聘前期物业；住宅项目原则上通过招投标完成，买卖合同还要包含前期物业合同约定。 在这段关系里，购房者能看到物业品牌、服务清单和价格，却很少参与供应商选择和最初谈价。对物业公司来说，前期阶段的获客单位也不是一户，而是整个项目。开发商交付一批新房，就同步输送一批按同一合同缴费的客户。 图1一套住宅的物业费是如何形成的？ 物业费的稳定，更多来自交易结构 二手房每成交一次，买卖双方就重新报一次价；同一套房周边还有大量可比房源，报价可以迅速反映预期。物业费没有这样的连续交易机制。它按小区统一提供，保安",
     "publishedAt": "2026-08-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -290,43 +289,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-the-shifting-flight-path-of-electric-air-1786896240000",
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "publishedAt": "2026-08-16",
+    "id": "news-amazon-which-started-off-selling-books-is-destroying-rare-te-1786984724000",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-irs-releases-proposed-trump-account-regulations-for-employer-1786966241000",
-    "title": "IRS releases proposed Trump account regulations for employer contributions",
-    "link": "https://hrexecutive.com/irs-releases-proposed-trump-account-regulations-for-employer-contributions/",
-    "summary": "The IRS unveiled new details about how employers can contribute to Trump accounts, individual retirement accounts for employees' children. The post IRS releases proposed Trump account regulations for employer contributions appeared first on HR Executive .",
+    "id": "news-nearly-1-in-5-gen-xers-don-8217-t-expect-to-ever-fully-retir-1786968931000",
+    "title": "Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire",
+    "link": "https://hrexecutive.com/nearly-1-in-5-gen-xers-dont-expect-to-ever-fully-retire/",
+    "summary": "Inflation may be the most recent challenge, but it comes after decades of setbacks that have steadily contributed to the Gen X retirement crisis. The post Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire appeared first on HR Executive .",
     "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-hold-1786718220000",
-    "title": "DHS to propose end of 60-day grace period for H-1B visa holders",
-    "link": "https://www.hrdive.com/news/dhs-to-propose-end-of-60-day-grace-period-for-h-1b-visa-holders/827890/",
-    "summary": "Few details are known without the rule&rsquo;s text, which has yet to be published in the Federal Register, but the change may pose difficulties for employers, one attorney said.",
-    "publishedAt": "2026-08-14",
+    "id": "news-week-in-review-when-saying-please-can-lead-to-late-turn-ins-1786980660000",
+    "title": "Week in review: When saying ‘please’ can lead to late turn-ins",
+    "link": "https://www.hrdive.com/news/hr-news-saying-please-late-turn-ins/828009/",
+    "summary": "We&rsquo;re rounding up the top stories from last week, including a Zillow sales executive who alleged age discrimination due in part to insults such as &ldquo;You&rsquo;re too old to know this.&rdquo;",
+    "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -339,19 +337,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786966492000",
-    "title": " 旺旺怎么重新变旺？ ",
-    "link": "https://www.huxiu.com/article/4883739.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 旺旺创始人蔡衍明最近的一封内部信，把这家老牌食品企业推到了聚光灯下。 8月初，蔡衍明在《大团结——致全体旺旺人的一封信》中，罕见地将2026财年第一季度的业绩失速定义为“重大经营危机”，并直言，旺旺过去近30年“靠着几只拳头产品过了近30年的好日子，一直未能创新求变”。他还将问题指向经销商合作方式、客户流失以及渠道变化。 从最新业绩来看，这种焦虑并非没有依据。 2025财年（2025年4月1日至2026年3月31日）的业绩显示，中国旺旺(HK:00151)实现收入244.01亿元，同比增长3.8%，创历史新高，但公司权益持有人应占利润38.37亿元，同比下降11.5%。 而在蔡衍明公开承认危机之后，消费者也开始替旺旺寻找答案。 8月15日，“旺旺最大的对手竟是糖”等相关话题登上微博热搜，大量网友开始给旺旺“支招”。其中最集中的声音是希望旺仔牛奶等经典产品降低糖分、改善配料，也有人提出加强线上渠道、增加消费者调研、开发更符合当下健康需求的产品。 当天晚间，旺旺集团首席营运官蔡旺家公开回应称，蔡衍明一直强调“每个消费者就是我们的衣食父母”，网友提出的建议“都铭记在心”。随后，旺仔俱乐部又晒出一系列无糖、低糖产品回应消费者的减糖呼声。 一家曾经极其擅长理解中国消费者的食品公司，如今重新需要从消费者那里寻找增长答案。而从消费者的反馈来看，旺旺",
-    "publishedAt": "2026-08-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -382,16 +367,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-woman-claims-her-stepfather-used-grok-to-transform-childhood-1786829359000",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "publishedAt": "2026-08-15",
+    "id": "news-groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud-1786983312000",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-employees-will-pay-for-job-security-new-data-shows-1786968056000",
+    "title": "Employees will pay for job security, new data shows",
+    "link": "https://hrexecutive.com/employees-will-pay-for-job-security-new-data-shows/",
+    "summary": "More than half of workers would take a pay cut for job security, per Monster's 2026 report. See what else they're willing to give up. The post Employees will pay for job security, new data shows appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
     ]
   }
 ];
@@ -979,4 +976,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-17T12:36:16.849Z';
+export const dataFetchedAt = '2026-08-17T18:32:50.831Z';
