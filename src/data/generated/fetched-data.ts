@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-we-still-don-t-know-how-people-are-really-using-ai-1787047603000",
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "id": "news-the-download-how-people-really-use-ai-and-flock-8217-s-desig-1787055000000",
+    "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
     "publishedAt": "2026-08-18",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-reach-capital-raises-265m-fund-v-to-back-ai-founders-buildin-1787050800000",
-    "title": "Reach Capital raises $265M Fund V to back AI founders building to &#8216;expand human potential&#8217;",
-    "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "id": "news-openai-institutes-new-safeguards-after-hugging-face-breach-1787076000000",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-premiums-out-of-pocket-costs-dominate-americans-healthcare-c-1786998660000",
-    "title": "Premiums, out-of-pocket costs dominate Americans’ healthcare concerns, survey shows",
-    "link": "https://www.hrdive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827909/",
-    "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
-    "publishedAt": "2026-08-17",
+    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
+    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
+    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
+    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
+    "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1-10-1787056201000",
-    "title": " 网红餐饮“大败局”：有人5年血亏1亿，有人10个月烧光百万离场 ",
-    "link": "https://www.huxiu.com/article/4884028.html?f=rss",
-    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：旖旎 “5年亏掉1个亿，门店从500家缩水只剩11家”； “10个月实打实亏损100多万，开店时有多风光，闭店就有多狼狈”； 靠短视频带火的“网红”品牌，如今也开始“清算”洗牌。 近期，咖啡、火锅赛道接连传来网红品牌溃败的消息。 一边是曾经靠魔性“喊麦”刷屏短视频、风头无二的T97咖啡；另一边则是790万粉丝博主的两个餐饮项目先后陷入大额亏损、黯然退场。 短视频浪潮之下，一大批网红博主、流量玩家盯上餐饮这块肥肉。 手握粉丝、流量、热度，很多人以为跨界做餐饮是降维打击，以为只要把线上的人气平移到线下，开店赚钱就是水到渠成。 但餐饮这个行当，看似门槛低，实则处处埋“坑”，哪怕手握千万流量，拥有资本加持，踩错底层逻辑，一样会被市场清算，赔光家底后黯然离场。 5年亏损1个亿， 靠魔性喊麦出圈的T97咖啡，扛不住了 “咖啡你冲不冲，冲冲冲冲冲”！ 这句魔性洗脑喊麦，在2022年风靡各大短视频平台。 T97咖啡也凭借主播大嘴妹的魔性直播，一夜爆红，成为当年最出圈的咖啡品牌。 1、一个月31场直播，累计1.93亿播放，巅峰期门店500+ 爆火之下，短短一个月，T97就做了31场直播，累计1.93亿人次观看，单月抖音账号涨粉接近90万，相关话题播放量突破10亿。 其品牌创始人还在朋友圈曾表示：只花了800块的成本，就往直播间引流了615万人，并产生超过50",
+    "id": "news--1787069378000",
+    "title": " 董明珠办技校当校长，毕业优先进格力，褪去情怀滤镜，其本质是制造业的一笔人力生意 ",
+    "link": "https://www.huxiu.com/article/4884076.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，编辑：段炼杜恒峰，作者：每经记者，原文标题：《董明珠办技校当校长，毕业优先进格力！褪去情怀滤镜，其本质是制造业的一笔人力生意丨每经热评》 8月18日，72岁的董明珠办技校当校长的消息登上热搜。珠海市格力技工学校首届招300名初中毕业生，学费9000元/年~15000元/年，首批开设制冷、模具、智能装备等九大专业，部分专业视情况开设格力特色班，实行定向培养，推行“入校即入企，毕业即适岗”办学模式，学生毕业后优先进入格力及产业链企业实习就业。 图为珠海市格力技工学校校长寄语 而就在3个月前的5月初，北京多所中职学校提前招生受到热捧，家长冒雨排了通宵，原本4天的招生窗口期，部分中职学校1天就贴出“已满”通知。 中职学校不再是“差生集中营”，但董明珠办技校也不纯粹是“情怀”。我们褪去滤镜可以看到，格力技校，本质上是上市公司直面制造业用工痛点开展的一场商业属性的产教融合试验：把部分招工与培训成本社会化，前置自建劳动力蓄水池。 根据教育部、人社部、工信部联合发布的《制造业人才发展规划指南》预测，2025年我国制造业十大重点领域人才缺口近3000万；我国高技能人才占就业人员比重约8%。 格力电器2025年末员工约71966人，较上年净减842人；生产人员49684人，较上年末减少1151人。 据媒体此前报道，有格力前员工称，2021年校招进格力做办公室技术岗",
     "publishedAt": "2026-08-18",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +80,101 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dtc-5-3-0-1787044945000",
-    "title": "DTC的5大阶段3.0：社交媒体与数字原生品牌时代",
-    "link": "https://www.tmtpost.com/8107477.html",
-    "summary": "内容种草 × 流量转化 × 流量采买。",
+    "id": "news--1787067092000",
+    "title": "汽车卖得更多、手机卖得更贵，小米却更难赚钱了",
+    "link": "https://www.tmtpost.com/8108046.html",
+    "summary": "汽车持续放量、手机加速高端化，但利润同步承压，小米新的增长接力尚未完成。",
+    "publishedAt": "2026-08-18",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-we-still-don-t-know-how-people-are-really-using-ai-1787047603000",
+    "title": "We still don’t know how people are really using AI",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "publishedAt": "2026-08-18",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-au-1787074261000",
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "publishedAt": "2026-08-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-isn-8217-t-replacing-human-decision-making-at-work-just-y-1787056178000",
+    "title": "AI isn&#8217;t replacing human decision-making at work just yet",
+    "link": "https://hrexecutive.com/ai-isnt-replacing-human-decision-making-at-work-just-yet/",
+    "summary": "\"AI is quickly becoming part of how work gets done, but these findings show workers do not want it to have the final say in workplace decisions,\" said Keith Spencer, career expert at Resume Now. The post AI isn&#8217;t replacing human decision-making at work just yet appeared first on HR Executive .",
+    "publishedAt": "2026-08-18",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-rethinking-rto-researchers-highlight-the-positive-impact-of--1787063100000",
+    "title": "Rethinking RTO? Researchers highlight the positive impact of remote work",
+    "link": "https://www.hrdive.com/news/rto-future-of-work-summer-2026/828127/",
+    "summary": "In a year where retention is top of mind for employers, conversations highlighting the benefits of remote work may be crucial.",
+    "publishedAt": "2026-08-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1787049623000",
+    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+    "link": "https://www.qbitai.com/2026/08/474868.html",
+    "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+    "publishedAt": "2026-08-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787069223000",
+    "title": " 告别惯性增长，楼市彻底变了 ",
+    "link": "https://www.huxiu.com/article/4884075.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《告别惯性增长，楼市彻底变了！》 这几年我一直在思索，中国楼市到底如何破局，未来会走向何方。 随着过去两三年调控的深入，市场也取得了比较不错的成果，头部国央企营收超过2000亿元，北上广深杭成等城市还有地王，豪宅卖得还不错，上海二手房连续几个月突破或接近3万套，大部分城市的挂牌量下降了不少。总之，市场不断被修复，好事。 今天不想谈太宏观的话题，接地气一点，谈一个大家很熟悉，但其实你不太明白的一个话题： 我们到底是如何去库存的。 以前我的老领导，讲过一个道理，楼市就是分蛋糕。 以前政府做庄，政府、银行、开发商拿大头，老百姓拿小头，甚至还要倒贴钱。 这明显不公平嘛。 于是这套运行了30多年的逻辑，需要从底层重新解构，肯定不是之前那套从上到下分配的逻辑，而是按劳分配，政府求着开发商拿地，银行哄着购房者买房，开发商必须拿出更好的产品，相应的，购房者也需要足够的首付和更加稳健的现金流。 比如去库存，其实非常复杂。 从上到下，谁都知道要去库存、要减量供地、要做好产品、要提振信心。但是很明显，这是政治正确，一旦落地，每一个角色就会出现问题，地方政府不敢真停卖地，房企不敢真不拿地，开发商不敢随便降成本，老百姓不敢真买房。 今天把这个最拧巴的死结，掰开揉碎讲清楚。 政府不卖地行不行？ 短期不行，长期可以。 不是地方政府不懂去库存，可是没钱地",
+    "publishedAt": "2026-08-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787061905000",
+    "title": "浦发银行半年报：双增的业绩，三个待解的问号",
+    "link": "https://www.tmtpost.com/8106244.html",
+    "summary": "浦发银行这份半年报，是一面镜子。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -106,110 +197,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fairphone-is-launching-its-latest-repairable-phone-in-the-us-1787050800000",
-    "title": "Fairphone is launching its latest repairable phone in the US too",
-    "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-    "summary": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+    "id": "news-etched-8217-s-valuation-doubles-to-21b-in-a-month-1787073718000",
+    "title": "Etched&#8217;s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-ai-isn-8217-t-replacing-human-decision-making-at-work-just-y-1787056178000",
-    "title": "AI isn&#8217;t replacing human decision-making at work just yet",
-    "link": "https://hrexecutive.com/ai-isnt-replacing-human-decision-making-at-work-just-yet/",
-    "summary": "\"AI is quickly becoming part of how work gets done, but these findings show workers do not want it to have the final say in workplace decisions,\" said Keith Spencer, career expert at Resume Now. The post AI isn&#8217;t replacing human decision-making at work just yet appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
       "ai"
-    ]
-  },
-  {
-    "id": "news-walgreens-gets-partial-win-over-ex-manager-it-claimed-closed-1786998600000",
-    "title": "Walgreens gets partial win over ex-manager it claimed closed stores too early",
-    "link": "https://www.hrdive.com/news/walgreens-gets-partial-win-over-ex-manager-race-bias/828072/",
-    "summary": "Neither of the two racial comparators put forth by the plaintiff to show disparate treatment were sufficiently similar, a New Mexico federal judge determined.",
-    "publishedAt": "2026-08-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787049623000",
-    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-    "link": "https://www.qbitai.com/2026/08/474868.html",
-    "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
-    "publishedAt": "2026-08-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-58-1787054719000",
-    "title": " 利润大涨58%，沪上阿姨为何遭遇资金出逃？ ",
-    "link": "https://www.huxiu.com/article/4884022.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：崔陆鹏 一份基本面向好的半年报，没能托住港股新茶饮企业沪上阿姨二级市场的股价。 日前，沪上阿姨发布2026半年报显示，报告期内，实现营业收入25.89亿元，同比增长42.4%；母公司拥有人应占期内利润3.21亿元，同比增长58.3%；同时，董事会宣派中期股息2.1亿元。 从半年报纸面数据来看，沪上阿姨的经营表现并无瑕疵，甚至领跑新茶饮下沉赛道。就在财报发出后，二级市场资金逆势出逃。自8月10日开启回调行情后，截至8月14日收盘，沪上阿姨短短四个交易日累计跌幅超24.7%，市值蒸发超30亿港元。 “资本市场交易的核心是未来预期，而非已经落地的历史业绩。”汇生国际资本总裁黄立冲接受《凤凰WEEKLY财经》采访时表示，本轮下跌是港股弱流动性下的短期情绪扰动，但深层逻辑是新茶饮行业估值体系的彻底重构。资本市场早已告别“规模即正义”的粗放定价时代，不再单纯为营收、利润、门店规模的账面增长支付溢价，转而聚焦企业增长质量、终端经营韧性与商业模式可持续性。像沪上阿姨这类加盟制茶饮企业的财报存在天然短板，账面高增长无法等同于高质量经营。 情绪杀跌还是基本面预警？ 自8月9日晚间股东限售安排公告发布后，从8月10日首个交易日算起，截至8月18日收盘，沪上阿姨股价从117.30港元跌至82.40港元，区间累计大跌29.75%，总市值合计蒸发约36.65",
-    "publishedAt": "2026-08-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-2030-1787044936000",
-    "title": "订单已排到2030年，电子织布机需求爆发，国产织机迎来窗口期",
-    "link": "https://www.tmtpost.com/8107442.html",
-    "summary": "电子布涨价只是表象，真正的瓶颈不在产线，而在织布机。",
-    "publishedAt": "2026-08-18",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-s-recursive-self-improvement-might-not-come-so-quickly-af-1787043600000",
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet-1787049000000",
-    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-    "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
-    "publishedAt": "2026-08-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
     ]
   },
   {
@@ -227,11 +224,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-new-legal-questions-being-raised-by-background-and-identit-1786998600000",
-    "title": "4 new legal questions being raised by background and identity checks",
-    "link": "https://www.hrdive.com/news/4-new-legal-questions-being-raised-by-background-and-identity-checks/828017/",
-    "summary": "Artificial intelligence and politics are some of the elements affecting how the law is applied to background and identity checks.&nbsp;",
-    "publishedAt": "2026-08-17",
+    "id": "news-jobs-exist-but-are-harder-to-fill-hiring-managers-say-1787063040000",
+    "title": "Jobs exist but are harder to fill, hiring managers say",
+    "link": "https://www.hrdive.com/news/jobs-exist-but-are-harder-to-fill-hiring-managers-say/828089/",
+    "summary": "Survey respondents said it can take four weeks to hire for available roles and that they permanently close some positions before finding the right candidate.",
+    "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -254,24 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787054479000",
-    "title": " 李飞飞对话安德鲁·休伯曼：智能的基石与未来 ",
-    "link": "https://www.huxiu.com/article/4884021.html?f=rss",
-    "summary": "本文来自微信公众号： Web3天空之城 ，作者：Web3天空之城，原文标题：《完整版| 李飞飞对话安德鲁·休伯曼：智能的基石与未来》 Web4SkyCity 李飞飞对话安德鲁·休伯曼：智能的基石与未来 当安德鲁·休伯曼教授与人工智能领域的先驱、斯坦福大学教授李飞飞坐在一起时，这场对话跨越了5亿年的生物进化史，直抵当前最炙手可热的技术前沿。作为“ImageNet'”项目的发起人和“以人为中心的人工智能研究院”的联合院长，李飞飞不仅见证了深度学习的诞生，更在思考人工智能如何回归人类本质。 目录 全局摘要和核心观点 进化、视觉与人工智能的起源 ImageNet时刻与识别性能的飞跃 听觉、自然语言与Transformer的飞跃 情境化学习与视频生成的演进 创造力、情感与AI的局限性 大脑增强与人类主体性 协作与共识：打破权力面纱 AI在医学发现与临床中的应用 直觉、动力与机器的界限 社交媒体、具身化与社会规范 学习、主体性与年轻一代 具身智能、机器人与护理的未来 AI与人文关怀：共同设计未来 World Labs与空间智能 AI与电影制作：叙事的力量 教师与家长的角色：被遗忘的群体 结语：关注科学与Protocols 全局摘要 本次对话由斯坦福大学神经科学教授Andrew Huberman主持，嘉宾是人工智能领域的先驱、斯坦福大学教授李飞飞（Dr.Fei-Fei Li）。双方深入探讨了人工",
-    "publishedAt": "2026-08-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-libtv-1787044920000",
-    "title": "字节下场“漫剧工业化”，LibTV们迎来大考？",
-    "link": "https://www.tmtpost.com/8107419.html",
-    "summary": "即梦与小云雀均都已布局漫剧赛道，字节为何还要再推一款工具？",
+    "id": "news--1787061900000",
+    "title": "闪购大战的灰烬中之二：顺丰同城拿起了扫帚和拖把",
+    "link": "https://www.tmtpost.com/8106116.html",
+    "summary": "白天给KA送单，晚上给KA打烊。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -282,11 +265,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-flock-s-defenders-are-missing-1786994169000",
-    "title": "What Flock’s defenders are missing",
-    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
-    "publishedAt": "2026-08-17",
+    "id": "news-ai-s-recursive-self-improvement-might-not-come-so-quickly-af-1787043600000",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+    "publishedAt": "2026-08-18",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -294,16 +277,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-detroit-startup-grounded-raises-5m-to-customize-electric-and-1787047200000",
-    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+    "id": "news-apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alte-1787073133000",
+    "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+    "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+    "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -320,17 +304,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mailbag-do-we-need-form-i-9s-for-employees-hired-long-ago-1786985160000",
-    "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
-    "link": "https://www.hrdive.com/news/need-form-i-9s-for-employees-hired-long-ago/827813/",
-    "summary": "It&rsquo;s rare to have an employee who doesn&rsquo;t need an I-9, but it&#39;s possible, according to a Littler attorney.",
+    "id": "news-premiums-out-of-pocket-costs-dominate-americans-healthcare-c-1786998660000",
+    "title": "Premiums, out-of-pocket costs dominate Americans’ healthcare concerns, survey shows",
+    "link": "https://www.hrdive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827909/",
+    "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
     "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -347,23 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787054223000",
-    "title": " 韩国股民，扫货美股 ",
-    "link": "https://www.huxiu.com/article/4884020.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 相关资金流向数据显示，为规避国内股市的回调风险，韩国投资者在7月掀起了一波涌入美国市场的热潮…… 韩国证券存托结算院(KSD)旗下SEIBro披露的数据显示，韩国散户上个月净买入美股约45亿美元，较6月份显著回升，并逼近了今年1月份50亿美元的净买入纪录。 与此同时，韩国本土股市在7月则遭遇了剧烈抛售。在此之前，一轮强劲的牛市行情曾吸引大量散户涌入半导体股票和杠杆产品，但随后市场急剧回调，直至8月才重新迎来阶段性反弹，回归技术性牛市。 那么，韩国投资者7月在美股市场都买了些什么呢？ SK海力士ADR居次席 韩国证券存托结算院的数据显示，在韩国投资者7月净买入的45亿美元美股中，约有8.4亿美元流向了SK海力士在美国上市的ADR。即便韩国投资者在本土就能直接购买该公司股票，SK海力士的ADR依然高居其净买入美股榜单的第二位。 值得一提的是，这些SK海力士ADR的交易价格较该公司在韩国本土市场的股票存在明显溢价，但这些溢价似乎依然并未影响韩国投资者的热情。 Acadian Asset Management高级副总裁Owen Lamont指出，这一溢价率近期高达10%左右，且ADR的波动性也更为剧烈。 “这简直太疯狂了，”Lamont在谈到韩国投资者购买SK海力士在美上市股票时说道，“韩国投资者完全没有任何理由跑到美国市场去买本土企业的ADR。",
-    "publishedAt": "2026-08-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1050-8gw-1787044914000",
-    "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
-    "link": "https://www.tmtpost.com/8107418.html",
-    "summary": "英伟达这一步，标志着一个判断被正式确认：AI竞赛的下半场，胜负手不在制程，在电力。谁先把电的问题解决，谁就先解锁下一轮算力扩张。 对供电链条上的公司来说，这既是天量的订单预期，也是一次价值重估——过去数据中心电源被当成\"配套件\"，如今它成了卡住8GW落地的关键路径。",
+    "id": "news--1787061726000",
+    "title": "雪山派第一到天下第一，影石的路有多远？",
+    "link": "https://www.tmtpost.com/8106238.html",
+    "summary": "在雪山派，他可以是第一。出了雪山派，他需要重新接受比较。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -374,10 +344,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-dead-robot-friends-and-the-8220-censorship-indu-1786968600000",
-    "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
-    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "id": "news-what-flock-s-defenders-are-missing-1786994169000",
+    "title": "What Flock’s defenders are missing",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
     "publishedAt": "2026-08-17",
     "source": "MIT Technology Review",
     "tags": [
@@ -386,15 +356,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-8217-s-annualized-revenue-surges-to-65b-1787010986000",
-    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "summary": "The model maker added $18 billion in annualized revenue in two months.",
-    "publishedAt": "2026-08-17",
+    "id": "news-comcast-adds-motion-sensing-to-millions-of-its-newer-routers-1787071145000",
+    "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+    "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+    "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+    "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-financial-wellness-is-a-transformation-too-1787052648000",
+    "title": "Financial wellness is a transformation, too",
+    "link": "https://hrexecutive.com/financial-wellness-is-a-transformation-too/",
+    "summary": "\"One thing that work has taught me is that transformation almost never happens by accident,\" writes Mary Faulkner. And financial wellness is no exception. The post Financial wellness is a transformation, too appeared first on HR Executive .",
+    "publishedAt": "2026-08-18",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-walgreens-gets-partial-win-over-ex-manager-it-claimed-closed-1786998600000",
+    "title": "Walgreens gets partial win over ex-manager it claimed closed stores too early",
+    "link": "https://www.hrdive.com/news/walgreens-gets-partial-win-over-ex-manager-race-bias/828072/",
+    "summary": "Neither of the two racial comparators put forth by the plaintiff to show disparate treatment were sufficiently similar, a New Mexico federal judge determined.",
+    "publishedAt": "2026-08-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
       "ai"
     ]
   }
@@ -764,6 +761,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136946",
+    "title": "Maintenance and Grounds Officer",
+    "company": "Department of Education and Training",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Vacancy Number: NT260117 Agency: Department of Education and Training Number of Vacancies: 1 Work Unit: Kintore St School Location: Katherine Primary Objective:"
+    ],
+    "skills": [],
+    "location": "Katherine, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
+    "postedAt": "2026-08-17",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136812",
     "title": "Cabin Cleaning Agent",
     "company": "Menzies Aviation",
@@ -943,41 +955,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
     "postedAt": "2026-08-12",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136555",
-    "title": "Artificial Intelligence Specialist",
-    "company": "Modi's Boutique",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Since"
-    ],
-    "skills": [],
-    "location": "Ranchi, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
-    "postedAt": "2026-08-11",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136602",
-    "title": "Jenni AI",
-    "company": "AI Supermarket",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
-      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
-      "Used by aspiring and experienced trader"
-    ],
-    "skills": [
-      "OpenAI"
-    ],
-    "location": "Research, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
-    "postedAt": "2026-08-11",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-18T12:37:16.600Z';
+export const dataFetchedAt = '2026-08-18T18:32:30.179Z';

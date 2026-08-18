@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-19-auto",
+    "date": "2026-08-19",
+    "session": "auto",
+    "title": "2026-08-19 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-19-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
+      },
+      {
+        "id": "sig-2026-08-19-auto-2",
+        "emoji": "⚠️",
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "detail": "来源: TechCrunch。The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+      },
+      {
+        "id": "sig-2026-08-19-auto-3",
+        "emoji": "🚨",
+        "title": "New research reveals leadership readiness gap amid rapid workplace change",
+        "summary": "Despite high levels of confidence, managers report gaps in AI readiness, change management, employee support and other critical leadership capabilities. The post New research reveals leadership readiness gap amid rapid workplace change appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Despite high levels of confidence, managers report gaps in AI readiness, change management, employee support and other critical leadership capabilities. The post New research reveals leadership readiness gap amid rapid workplace change appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/new-research-reveals-leadership-readiness-gap-amid-rapid-workplace-change/"
+      },
+      {
+        "id": "sig-2026-08-19-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Don't Drop the BATON: Long-Horizon Robot Manipulation via Ag...",
+        "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err",
+        "detail": "作者: Bingxin Xu, Yuzhang Shang, Emilio Ferrara。Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adaptation into language memory. Applied to long horizons, it breaks twice. (1) Competence comes from whole-task exploration at test time, whose cost is multiplicative in stages: if one stage needs T episodes, a K-stage task needs about T^K, and a failure does not reveal which stage caused it. (2) It has ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.16889v1"
+      },
+      {
+        "id": "sig-2026-08-19-auto-5",
+        "emoji": "💼",
+        "title": "Department of Education and Training 正在招募 Maintenance and Grounds Officer",
+        "summary": "岗位类型：业务+AI 复合岗。Vacancy Number: NT260117 Agency: Department of Education and Training Number of Vacancies: 1 Work Unit: Kintore St School Location: Katherine Primary Objective:",
+        "detail": "技能要求: 未标注。Vacancy Number: NT260117 Agency: Department of Education and Training Number of Vacancies: 1 Work Unit: Kintore St School Location: Katherine Primary Objective:",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Department of Education and Training"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Department of Education and Training",
+        "link": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-19-1",
+        "priority": "medium",
+        "action": "关注「The Download: how people really use AI, 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-19-2",
+        "priority": "medium",
+        "action": "关注「OpenAI institutes new safeguards after H」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-19-3",
+        "priority": "high",
+        "action": "关注「New research reveals leadership readines」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-19-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Don't Drop the BATON: Long-Horizon 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-19-5",
+        "priority": "medium",
+        "action": "关注「Department of Education and Training 正在招」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Department of Education and Training"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 61,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-19 生成，聚合了 30 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-08-19 00:00 - 2026-08-19 23:59"
+  },
+  {
     "id": "report-2026-08-18-auto",
     "date": "2026-08-18",
     "session": "auto",
