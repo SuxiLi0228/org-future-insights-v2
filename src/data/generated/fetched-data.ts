@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-dead-robot-friends-and-the-8220-censorship-indu-1786968600000",
-    "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
-    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "id": "news-what-flock-s-defenders-are-missing-1786994169000",
+    "title": "What Flock’s defenders are missing",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
     "publishedAt": "2026-08-17",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sound-powered-fire-protection-startup-gets-15m-to-snuff-out--1786991547000",
-    "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
-    "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
-    "summary": "Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+    "id": "news-anthropic-8217-s-annualized-revenue-surges-to-65b-1787010986000",
+    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "summary": "The model maker added $18 billion in annualized revenue in two months.",
     "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-are-navigating-ai-disruption-in-the-dark-1786983359000",
-    "title": "Employees are navigating AI disruption in the dark",
-    "link": "https://hrexecutive.com/employees-are-navigating-ai-disruption-in-the-dark/",
-    "summary": "While companies are diving in full on to adopt AI, workers are a bit slower in taking up the cause, and the result will be telling. The post Employees are navigating AI disruption in the dark appeared first on HR Executive .",
+    "id": "news-ready-or-not-the-skills-strategies-and-stakes-of-the-ai-work-1787006855000",
+    "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #1",
+    "link": "https://hrexecutive.com/ready-or-not-the-workforce-ai-wake-up-call/",
+    "summary": "Date &#038; Time: Thursday, September 24, 2026 at 2:00 pm ET In this session, we’ll share insights from UKG research capturing the voices of thousands of frontline employees around the world. Discover what matters most to today’s frontline workforce, how AI and workplace technologies are shaping their day-to-day experiences, and where expectations are evolving across pay, scheduling, well-being, recognition, and flexibility. The post Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #1 appeared first on HR Executive .",
     "publishedAt": "2026-08-17",
     "source": "HR Executive",
     "tags": [
@@ -40,17 +40,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mailbag-do-we-need-form-i-9s-for-employees-hired-long-ago-1786985160000",
-    "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
-    "link": "https://www.hrdive.com/news/need-form-i-9s-for-employees-hired-long-ago/827813/",
-    "summary": "It&rsquo;s rare to have an employee who doesn&rsquo;t need an I-9, but it&#39;s possible, according to a Littler attorney.",
+    "id": "news-premiums-out-of-pocket-costs-dominate-americans-healthcare-c-1786998660000",
+    "title": "Premiums, out-of-pocket costs dominate Americans’ healthcare concerns, survey shows",
+    "link": "https://www.hrdive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827909/",
+    "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
     "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -67,11 +66,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-34-85-1786982852000",
-    "title": " 34.85亿元水务股权上移：宝武启动环保资产大整合 ",
-    "link": "https://www.huxiu.com/article/4883797.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：宝武这次上移的，不只是资产，还有环保业务的决策层级。资本结构搭起平台骨架，专业能力、经营效率和外部市场将决定平台成色。 2026年7月31日，马钢有限等16家股东签署增资协议，拟将宝武水务96.48%股权注入宝武环科，作价34.85亿元。 这些股东没有退出宝武的环保产业，而是把水务公司的直接持股换成上一级综合环保平台的股份。 如果交易完成，宝武水务股东将从17家减至2家，宝武环科持股96.48%，八一钢铁保留3.52%；宝武环科的股东则由9家增至22家。 17变2、9变22，看似只是两组股东数字的增减，真正变化的是：宝武水务的治理重心上移到了综合环保平台。 原来分别持有水务股权的钢铁基地继续分享环保产业的经济利益，对单一水务公司的直接治理关系则转由平台层承接。 这笔交易落在两条趋势的交汇处：央企专业化整合从资源归集走向业务融合；钢铁行业的绿色低碳转型与经营压力，也在推动环保平台提高统筹效率、复用专业能力并拓展市场。 宝武把已平台化运营的水务业务再次上移，正是从“同类资产归集”迈向“跨介质平台整合”的一步。 宝武并非个例。在青山研究院的调研中，不少央企环保都在回答同一道题： 环保资产归集后，怎样把组织规模变成经营能力。谁来决策、内部怎样算账、能力能否复用、外部客户是否买单，宝武案例正好提供了一个可以逐层拆解的样本，本文就此",
-    "publishedAt": "2026-08-17",
+    "id": "news--1787014105000",
+    "title": " 《牛来》走红，因为它读懂了时代 ",
+    "link": "https://www.huxiu.com/article/4883812.html?f=rss",
+    "summary": "本文来自微信公众号： 波波夫同学 ，作者：波波夫，题图来自：视觉中国 一、无意识的喜剧 一部电影上映十天，票房只有7711元。 然后上了热搜。人们开始找排片，开车几十公里，进影院，把票根发到网上，再把别的电影海报改成&ldquo;牛版&rdquo;。院线跟着加场。票房在8月17日突破1000万元。这个数字还在上涨。 《牛来》的制作水准，观众只要看一分钟，心里就有数了。 低精度建模，动作僵硬，场景重复，穿模频发，配音缺少控制，叙事松散，人物动机时常断裂。 影片想讲成长、担当、牺牲，也安排了牛群迁徙、母子关系、异类朋友等元素 ，可这些东西没有被组织成稳定的戏剧推进。很多段落像刚学会软件的人把想法一件件摆上去，彼此之间缺少咬合。 它也缺少动画长片最基本的视觉统筹。海报给出水墨国风的预期，正片却是另一套视觉系统。观众走进影院，落差已经扑了过来。这个落差后来成了笑点，也成了传播燃料。 《牛来》的牛市票房就这样来了。 这是一部86分钟的动画电影，2026年8月5日上映。国家电影局公开信息显示，影片备案号为影动备字〔2021〕第104号，备案单位为大连璟园文化影视传媒有限公司，编剧为孙丽芳；公映许可证号为电审动字〔2024〕第33号。公开演职资料中，信雨萌担任导演、制片及配音，孙丽芳担任编剧和配音。媒体援引导演亲友说法称，两人是母子，用约五年完成影片，没有专业制作团队。 网上流传的制作成本，从1",
+    "publishedAt": "2026-08-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -80,10 +79,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786968361000",
-    "title": "李书福退出吉利汽车董事会，“一个吉利”开始整合权力",
-    "link": "https://www.tmtpost.com/8106176.html",
-    "summary": "自8月18日起，李书福辞任公司董事会主席及执行董事，安聪慧接任董事会主席。",
+    "id": "news-edge-ai-daily-8-18-1787012236000",
+    "title": "Edge AI Daily 早报（8月18日）",
+    "link": "https://www.tmtpost.com/8106366.html",
+    "summary": "谷歌地图酒店搜索全球瘫痪，AI助手Ask Maps上线仅11天即暴露系统风险；澳大利亚政府报告被ChatGPT伪造引用，引发AI信任危机；Anthropic Q2营收115亿美元，Claude Code驱动盈利，IPO估值2万亿美元；亚马逊恢复强制仲裁与集体诉讼禁令，重塑消费者法律权利。",
+    "publishedAt": "2026-08-18",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-dead-robot-friends-and-the-8220-censorship-indu-1786968600000",
+    "title": "The Download: dead robot friends and the &#8220;censorship-industrial complex&#8221;",
+    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "publishedAt": "2026-08-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-automation-startup-relay-shuts-down-staff-joins-google-82-1787002025000",
+    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "publishedAt": "2026-08-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-employees-are-navigating-ai-disruption-in-the-dark-1786983359000",
+    "title": "Employees are navigating AI disruption in the dark",
+    "link": "https://hrexecutive.com/employees-are-navigating-ai-disruption-in-the-dark/",
+    "summary": "While companies are diving in full on to adopt AI, workers are a bit slower in taking up the cause, and the result will be telling. The post Employees are navigating AI disruption in the dark appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4-new-legal-questions-being-raised-by-background-and-identit-1786998600000",
+    "title": "4 new legal questions being raised by background and identity checks",
+    "link": "https://www.hrdive.com/news/4-new-legal-questions-being-raised-by-background-and-identity-checks/828017/",
+    "summary": "Artificial intelligence and politics are some of the elements affecting how the law is applied to background and identity checks.&nbsp;",
+    "publishedAt": "2026-08-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-11-1786957477000",
+    "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+    "link": "https://www.qbitai.com/2026/08/474518.html",
+    "summary": "没有遥控、没人喂球",
+    "publishedAt": "2026-08-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787014027000",
+    "title": " “想要投诉国航空乘。” ",
+    "link": "https://www.huxiu.com/article/4883814.html?f=rss",
+    "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 刷到一篇笔记。 博主坐国航公务舱，刚上飞机，旁边来了个“中东旅客”。 他没坐下，但哐哐打开公务舱行李架，往里面塞自己的两个大包。 乘务员发现以后马上阻止，用英文告诉他这里是公务舱区域，不能放，还得往前走。 这男的肯定听明白了，但选择性失聪，乘务员说乘务员的，他放他的。 两个包塞进去，人就跑了。 乘务员面面相觑，也没再追。 飞行过程中，这人又从后面跑到公务舱，找乘务员要公务舱发的坚果。 落地以后，飞机刚停稳，这男的已经冲到公务舱，把自己的包拿下来，准备跟着公务舱旅客一起下飞机。 临走前还顺便问乘务员： 能不能把飞机上的坚果都给我？ 乘务员尴尬的说，没多少了。 下了飞机，他又准备跟公务舱旅客一起坐专用摆渡车。 这里博主忍不住了，走到地服旁边说： 后面那个不是公务舱的！ 地服这才把他拦下来了。 于是博主略有纠结： 到底该不该投诉这班乘务组？ （博主内心其实是善良的，因为她“纠结”，她之所以“纠结”，是因为她虽然不能概括出来，但也能想象到空乘的难处） 有人评论说，你要是当场发飙，所有人都会支持你，包括乘务组，这种事有人开团，有人就会秒跟。 我觉得可能会这样，但并不对。因为“发飙”不是旅客的责任，也不是旅客的义务——人家有权利因为“客舱秩序”感到不满，但没必要为我们去出这个头。 而且，舆论环境时刻在变，有时候你真开了团，可能真没人跟——因为",
+    "publishedAt": "2026-08-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-2030-6000-8-19-1787008800000",
+    "title": "【钛晨报】事关石油天然气发展，两部门最新部署；OpenAI与英伟达扩大计算机会，到2030年计算规模或达6000亿美元；宇树科技：将于8月19日科创板上市",
+    "link": "https://www.tmtpost.com/8106254.html",
+    "summary": "大疆诉美国防部案赢得关键程序性胜利；吉利汽车宣布管理层调整，以现代企业治理体系做强“一个吉利”；360调整市场组织架构：陈朝华任公关一号位，卜思南管市场部；阿里出售灵犀互娱，已与信宸资本达成交易协议；刘强东创立的独立游艇品牌Sea Expandary收购OceanWalker；阿斯利康宣布泰适卓正式在华上市；中国汽车芯片五项认证认可行业标准发布；央行新增8家数字人民币业务运营机构；寒武纪56.1万股股权激励股份将于8月20日上市流通，124名员工人均股票价值557.15万元；2026世界机器人大会主论坛议程公布；1-7月国民经济运行情况一览：社零总额同比增长1.2%，规上工业增加值增长5.3%",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -107,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtube-will-now-count-a-view-as-soon-as-a-video-starts-play-1786990173000",
-    "title": "YouTube will now count a view as soon as a video starts playing",
-    "link": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
-    "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
+    "id": "news-unprecedented-number-of-apple-users-received-recent-spyware--1786997915000",
+    "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+    "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+    "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
     "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
@@ -133,100 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bank-of-america-won-t-let-employees-work-remotely-2-days-in--1786985040000",
-    "title": "Bank of America won’t let employees work remotely 2 days in a row",
-    "link": "https://www.hrdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/828003/",
-    "summary": "The ban on taking two consecutive remote days includes Friday to Monday and takes effect in mid-September, according to a policy update workers received earlier this month.",
-    "publishedAt": "2026-08-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-11-1786957477000",
-    "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-    "link": "https://www.qbitai.com/2026/08/474518.html",
-    "summary": "没有遥控、没人喂球",
-    "publishedAt": "2026-08-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1786982813000",
-    "title": " 阿里卖掉了毕业班的灵犀 ",
-    "link": "https://www.huxiu.com/article/4883796.html?f=rss",
-    "summary": "本文来自微信公众号： 涌流商业 ，作者：林更 2026年8月17日，周炳枢在内部信里写下“经过多轮充分沟通与深度磋商”这句话时，距离他制作的那款游戏改变这家公司的命运，已经过去将近七年。 阿里巴巴集团与信宸资本正式达成协议，阿里出让所持灵犀互娱全部股份。彭博社消息给出的估值口径是超过15亿美元，路透社的说法是超过20亿美元，两家相差近5亿美元，交易双方没有公开价格。 《三国志·战略版》2019年9月上线，制作人是周炳枢。这款游戏让阿里第一次在游戏行业挣到姓名，也直接推动了灵犀互娱之后升级为与阿里大文娱平行的独立事业群。2024年3月，创始人詹钟晖卸任，接棒的正是周炳枢。 现在，由他宣布确认这家公司易主。 一朝毕业 2020年8月20日的季度业绩电话会上，阿里CFO吴泽明（Maggie Wu）在财务陈述环节提到了一件事。 她说，公司通过收购发展起来的在线游戏业务表现良好，现已被确认为数字媒体及娱乐分部的一部分，收入和用户规模都已成型，“已经走出了孵化器，也就是创新业务分部。” 走出了孵化器（moved out of the incubator），这在资本市场语言里是含义明确的动作。创新业务分部装的是还需要证明自己的实验性业务，通常伴随着持续亏损与不确定的前景；数字媒体及娱乐分部则是正式业务板块，意味着这项业务已经获得了独立的财务身份。 阿里在2021财年年报中以书面形式确认了这次归类",
-    "publishedAt": "2026-08-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-vs-deepseek-1786964695000",
-    "title": "智谱 VS Deepseek，两条分叉的自进化树",
-    "link": "https://www.tmtpost.com/8105866.html",
-    "summary": "智谱精准狙击DeepSeek，跑分八项赢了七项，但自进化路线的胜负才刚刚分晓",
-    "publishedAt": "2026-08-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-happens-when-a-kid-s-robot-best-friend-dies-1786957200000",
-    "title": "What happens when a kid’s robot best friend dies?",
-    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
-    "publishedAt": "2026-08-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot-1786986659000",
-    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-    "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
-    "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-    "publishedAt": "2026-08-17",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-starbucks-and-bank-of-america-two-different-paths-on-glp-1-c-1786969857000",
-    "title": "Starbucks and Bank of America: two different paths on GLP-1 coverage",
-    "link": "https://hrexecutive.com/starbucks-and-bank-of-america-two-different-paths-on-glp-1-coverage/",
-    "summary": "The latest benefits rollback is happening at the coffee giant, which will end GLP-1 coverage for weight management this fall. The post Starbucks and Bank of America: two different paths on GLP-1 coverage appeared first on HR Executive .",
-    "publishedAt": "2026-08-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-1-in-5-gen-xers-don-t-think-they-ll-ever-retire-study-sugges-1786980660000",
-    "title": "1 in 5 Gen Xers don’t think they’ll ever retire, study suggests",
-    "link": "https://www.hrdive.com/news/gen-x-retirement-outlook-2026/828000/",
-    "summary": "Rising costs and inflation have derailed the retirement plans of many workers, according to a Zety report.",
+    "id": "news-walgreens-gets-partial-win-over-ex-manager-it-claimed-closed-1786998600000",
+    "title": "Walgreens gets partial win over ex-manager it claimed closed stores too early",
+    "link": "https://www.hrdive.com/news/walgreens-gets-partial-win-over-ex-manager-race-bias/828072/",
+    "summary": "Neither of the two racial comparators put forth by the plaintiff to show disparate treatment were sufficiently similar, a New Mexico federal judge determined.",
     "publishedAt": "2026-08-17",
     "source": "HR Dive",
     "tags": [
@@ -250,11 +252,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1786982472000",
-    "title": " 房价跌了几年，物业费凭什么现在才开始降？ ",
-    "link": "https://www.huxiu.com/article/4883795.html?f=rss",
-    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 7月，广州增城连续公布的15份前期物业收费调整通知，把物业费推到聚光灯下。其中7份是在五年试行期满、成本监审认定成本低于普通住宅一级标准后，压低收费上限。国璟花园由3.10元降至2.80元/平方米/月，广州院子由3.50元降至2.80元。 2024年以来，重庆、银川、青岛、武汉四城已有百余个项目调低物业费，多数降幅在20%—35%，有的来自政府对前期收费的规范，有的由业主与物业协商，也有的在重新招标、更换物业后完成。几种路径指向同一个变化：长期几乎不动的物业费，开始被重新报价。 01｜物业费为什么比房价更难跌？ 新房阶段，物业公司的第一个客户不是单个业主 物业费的起点在房屋交付之前。《物业管理条例》规定，在业主自行选聘物业企业之前，由建设单位选聘前期物业；住宅项目原则上通过招投标完成，买卖合同还要包含前期物业合同约定。 在这段关系里，购房者能看到物业品牌、服务清单和价格，却很少参与供应商选择和最初谈价。对物业公司来说，前期阶段的获客单位也不是一户，而是整个项目。开发商交付一批新房，就同步输送一批按同一合同缴费的客户。 图1一套住宅的物业费是如何形成的？ 物业费的稳定，更多来自交易结构 二手房每成交一次，买卖双方就重新报一次价；同一套房周边还有大量可比房源，报价可以迅速反映预期。物业费没有这样的连续交易机制。它按小区统一提供，保安",
-    "publishedAt": "2026-08-17",
+    "id": "news--1787013884000",
+    "title": " 南极电商卖吊牌卖出了六亿官司 ",
+    "link": "https://www.huxiu.com/article/4883813.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：朱咏玲 近期，南极电商与昔日授权合作伙伴上海新和兆（全称为“上海新和兆企业发展有限公司”）的诉讼进一步升级，南极电商方面将诉请金额从8000多万元大幅提升至2.96亿元。而在上海新和兆诉南极电商案中，上海新和兆目前提出的诉请金额为3.13亿元。 换言之，无论哪一方败诉，损失都堪称惨重。 南极电商与上海新和兆本是合作关系。南极电商在2018年授权上海新和兆使用其旗下的“卡帝乐（Cartelo）”系列商标，许可期限到2027年底。 “卡帝乐”更为人熟知的形象是一只头朝左的鳄鱼，有消费者常常将它与法国品牌Lacoste的品牌logo——一只头朝右的鳄鱼相混淆。而也正是这一点，为双方后来的纠纷埋下隐患。 根据南极电商的说法，双方合作期间，上海新和兆有种种违约行为。其中影响最大的便是在知识产权管理方面做得不规范，例如擅自修改授权使用商标样式，导致被第三方起诉侵害商标权，而南极电商被列为共同被告，也承担了损失。 所谓“第三方”正是法国品牌Lacoste。界面新闻曾报道，这场拉锯数年的官司在2024年初迎来终审判决，Lacoste方面胜诉，上海新和兆和南极电商方面被判支付赔偿金约1480万元，并停止侵权。如今卡帝乐品牌的产品上已不再印着鳄鱼的logo。 然而该案落定后，南极电商和上海新和兆之间的纠纷随之开启。上海新和兆从2024年6月开始就未再向南极电商支",
+    "publishedAt": "2026-08-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -263,10 +265,101 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1786964692000",
-    "title": "AI为主人插队踢飞第一名，千万别让黄牛知道",
-    "link": "https://www.tmtpost.com/8105869.html",
-    "summary": "主人求它收手都没用。",
+    "id": "news--1786968361000",
+    "title": "李书福退出吉利汽车董事会，“一个吉利”开始整合权力",
+    "link": "https://www.tmtpost.com/8106176.html",
+    "summary": "自8月18日起，李书福辞任公司董事会主席及执行董事，安聪慧接任董事会主席。",
+    "publishedAt": "2026-08-17",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-happens-when-a-kid-s-robot-best-friend-dies-1786957200000",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
+    "publishedAt": "2026-08-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-au-1786995231000",
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "publishedAt": "2026-08-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-starbucks-and-bank-of-america-two-different-paths-on-glp-1-c-1786969857000",
+    "title": "Starbucks and Bank of America: two different paths on GLP-1 coverage",
+    "link": "https://hrexecutive.com/starbucks-and-bank-of-america-two-different-paths-on-glp-1-coverage/",
+    "summary": "The latest benefits rollback is happening at the coffee giant, which will end GLP-1 coverage for weight management this fall. The post Starbucks and Bank of America: two different paths on GLP-1 coverage appeared first on HR Executive .",
+    "publishedAt": "2026-08-17",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-mailbag-do-we-need-form-i-9s-for-employees-hired-long-ago-1786985160000",
+    "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+    "link": "https://www.hrdive.com/news/need-form-i-9s-for-employees-hired-long-ago/827813/",
+    "summary": "It&rsquo;s rare to have an employee who doesn&rsquo;t need an I-9, but it&#39;s possible, according to a Littler attorney.",
+    "publishedAt": "2026-08-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-phanrouter-glm-5-3-1786955185000",
+    "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+    "link": "https://www.qbitai.com/2026/08/474361.html",
+    "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+    "publishedAt": "2026-08-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787012975000",
+    "title": " 被蜱虫叮咬后，他们开始对吃肉过敏，而且这样的人越来越多 ",
+    "link": "https://www.huxiu.com/article/4883810.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：木木 2007年夏天，弗吉尼亚大学过敏学家Thomas Platts-Mills被蜱虫叮咬后，竟对自己吃了一辈子的羊肉产生了过敏反应。他后来发现，这种过敏的致敏原是一种糖分子，症状在进食数小时后才出现，而诱因正是蜱虫的叮咬。 这种疾病被称为α-gal综合征。2026年7月，美国疾控中心（CDC）的最新调查显示，在部分高发州，根据献血者样本推算，血清阳性率接近三分之一。但需要指出的是，抗体阳性不等于患病，因此真实的患病人数至今仍不清楚。 这种病究竟有多普遍？中国有没有？为什么被蜱虫咬了就不能吃肉？它能否被治愈？2026年7月，来自多个领域的科学家第一次坐在一起，试图回答这些问题。 Thomas Platts-Mills是弗吉尼亚大学过敏学家，研究过敏已经快五十年。2007年夏天，他在弗吉尼亚的山间徒步，回来后发现腿上爬满了蜱虫幼虫。当时，他并未在意。 几个月后的11月，他到伦敦出差，吃了两块羊排。凌晨三点，他被痒醒了，全身覆盖着荨麻疹。“凌晨三点我就开始发痒，浑身起疹子，”他后来回忆道。一个研究过敏的人，自己成了过敏患者。 Thomas Platts-Mills，摄于2010年。他既是α-gal综合征发现史上的关键研究者，也在2007年被蜱虫咬后成为患者。|图源：Itsneverlupus/Wikimedia Commons 更奇怪的是，他的免疫系",
+    "publishedAt": "2026-08-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-vs-deepseek-1786964695000",
+    "title": "智谱 VS Deepseek，两条分叉的自进化树",
+    "link": "https://www.tmtpost.com/8105866.html",
+    "summary": "智谱精准狙击DeepSeek，跑分八项赢了七项，但自进化路线的胜负才刚刚分晓",
     "publishedAt": "2026-08-17",
     "source": "钛媒体",
     "tags": [
@@ -289,106 +382,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-which-started-off-selling-books-is-destroying-rare-te-1786984724000",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "publishedAt": "2026-08-17",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-nearly-1-in-5-gen-xers-don-8217-t-expect-to-ever-fully-retir-1786968931000",
-    "title": "Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire",
-    "link": "https://hrexecutive.com/nearly-1-in-5-gen-xers-dont-expect-to-ever-fully-retire/",
-    "summary": "Inflation may be the most recent challenge, but it comes after decades of setbacks that have steadily contributed to the Gen X retirement crisis. The post Nearly 1 in 5 Gen Xers don&#8217;t expect to ever fully retire appeared first on HR Executive .",
-    "publishedAt": "2026-08-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-week-in-review-when-saying-please-can-lead-to-late-turn-ins-1786980660000",
-    "title": "Week in review: When saying ‘please’ can lead to late turn-ins",
-    "link": "https://www.hrdive.com/news/hr-news-saying-please-late-turn-ins/828009/",
-    "summary": "We&rsquo;re rounding up the top stories from last week, including a Zillow sales executive who alleged age discrimination due in part to insults such as &ldquo;You&rsquo;re too old to know this.&rdquo;",
-    "publishedAt": "2026-08-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-phanrouter-glm-5-3-1786955185000",
-    "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
-    "link": "https://www.qbitai.com/2026/08/474361.html",
-    "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
-    "publishedAt": "2026-08-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-harness-deepseek-1786964685000",
-    "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
-    "link": "https://www.tmtpost.com/8105986.html",
-    "summary": "绝对的低价终究只是梁文峰刺破商业壁垒的一柄短刃，而非能够长期持有的壁垒。",
-    "publishedAt": "2026-08-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-scientist-is-helping-build-a-missing-map-of-childhood-1786698000000",
-    "title": "This scientist is helping build a missing map of childhood",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
-    "publishedAt": "2026-08-14",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud-1786983312000",
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "id": "news-spotify-s-new-playlist-notes-let-users-and-editors-explain-t-1786994683000",
+    "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+    "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+    "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
     "publishedAt": "2026-08-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-employees-will-pay-for-job-security-new-data-shows-1786968056000",
-    "title": "Employees will pay for job security, new data shows",
-    "link": "https://hrexecutive.com/employees-will-pay-for-job-security-new-data-shows/",
-    "summary": "More than half of workers would take a pay cut for job security, per Monster's 2026 report. See what else they're willing to give up. The post Employees will pay for job security, new data shows appeared first on HR Executive .",
-    "publishedAt": "2026-08-17",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
     ]
   }
 ];
@@ -781,6 +784,25 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1136905",
+    "title": "Polisher Waldorf Astoria Ras Al Khaimah",
+    "company": "Hilton",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Description Exceptional Hospitality Starts with You Picture yourself brightening someone’s day",
+      "When you join our Hotels team, that’s exactly what you’ll do every time you come to work",
+      "As a Polisher , and finishes are well-maintained and visually appealing – you’re spreading the light and warmt"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "رأس الخيمة, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-polisher-waldorf-astoria-ras-al-khaimah-hilton-1136905",
+    "postedAt": "2026-08-14",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136670",
     "title": "Engineering Manager Thailand",
     "company": "Bjak ",
@@ -795,6 +817,26 @@ export const generatedJobs: JobPosting[] = [
     "location": "Bangkok",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+    "postedAt": "2026-08-14",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136922",
+    "title": "Aviation Maintenance Technician",
+    "company": "FedEx",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "To provide safe and efficient routine and non-routine maintenance to FedEx aircraft, under some supervision, in accordance with FedEx policies ad procedures, as well as FAA regulations",
+      "Education and Qualification: Diploma and equivalent",
+      "Qualification: Current Federal Aviation Administration Airfar"
+    ],
+    "skills": [
+      "RAG",
+      "AWS"
+    ],
+    "location": "서울 인천 지역, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-aviation-maintenance-technician-fedex-1136922",
     "postedAt": "2026-08-14",
     "isNew": true
   },
@@ -900,7 +942,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
     "postedAt": "2026-08-11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136602",
@@ -919,7 +961,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
     "postedAt": "2026-08-11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136388",
@@ -939,41 +981,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
     "postedAt": "2026-08-11",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136387",
-    "title": "Maintenance Technician",
-    "company": "Goddard Enterprises Ltd.",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL)",
-      "McBride (Caribbean) Limited – a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean a"
-    ],
-    "skills": [],
-    "location": "Christ Church, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-goddard-enterprises-ltd-1136387",
-    "postedAt": "2026-08-11",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136684",
-    "title": "painter",
-    "company": "Rooster Building Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Overview Languages English Education Secondary (high) school graduation certificate Experience No experience (will train) On site Work must be completed at the physical location",
-      "There is no option to work remotely",
-      "Work site environment Outdoors Underground At heights Odours Work setting Various lo"
-    ],
-    "skills": [],
-    "location": "Calgary, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-painter-rooster-building-group-1136684",
-    "postedAt": "2026-08-11",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-17T18:32:50.831Z';
+export const dataFetchedAt = '2026-08-18T01:00:09.315Z';
