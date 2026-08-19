@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-isn-8217-t-close-to-curing-cancer-this-startup-says-it-kn-1787140800000",
-    "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
-    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "summary": "It's the data, stupid.",
+    "id": "news-meet-the-startup-helping-wall-street-put-a-price-on-ai-compu-1787160408000",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -30,7 +30,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-10-ways-criminals-are-using-ai-to-fuel-fraud-1787141727000",
     "title": "10 ways criminals are using AI to fuel fraud",
     "link": "https://hrexecutive.com/top-10-ways-criminals-are-using-ai-scams/",
-    "summary": "Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. More than 1 in 10 successful scams in 2025 involved AI or deepfakes, which contributed to a 1,210% surge in AI-enabled scams, according to an analysis from BrokerChooser. That year, the FBI received more than 22,000 complaints involving [&#8230;] The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
+    "summary": "Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
     "publishedAt": "2026-08-19",
     "source": "HR Executive",
     "tags": [
@@ -40,17 +40,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kroger-settles-claims-it-wouldn-t-give-cashier-a-chair-or-st-1787080260000",
-    "title": "Kroger settles claims it wouldn’t give cashier a chair or stool following cancer treatment",
-    "link": "https://www.hrdive.com/news/kroger-settlement-cashier-chair-stool-cancer-treatment/828181/",
-    "summary": "Multiple attempts to contact the chain&rsquo;s management and HR staff failed, EEOC claimed, providing insight into how the ADA&rsquo;s interactive process can break down.",
-    "publishedAt": "2026-08-18",
+    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
+    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
+    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
+    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
+    "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -67,24 +66,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787142498000",
-    "title": " 袁新意：中国数学人才培养已经发生质变，但青年教师科研压力过大 ",
-    "link": "https://www.huxiu.com/article/4884367.html?f=rss",
-    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：侯慧静 8月13日，未来科学大奖委员会正式公布2026年度获奖名单。今年的“数学与计算机科学奖”授予北京大学北京国际数学研究中心教授袁新意，以表彰其在算术几何领域作出的奠基性贡献，特别是创立Arakelov几何中的算术大性理论，并将其应用于一致Bogomolov猜想和一致Mordell猜想。 就在不久前的国际数学家大会上，袁新意受邀分享学术报告。开幕式结束后，他与同伴一起等电梯，听到几个外国人在聊天。他们说，“China is taking over math.” 这句话令袁新意印象深刻。 “Taking over”就是“接管”的意思，说“中国正在接管数学”，意指大会上浓厚的中国元素——四位菲尔兹奖得主中，王虹和邓煜均为中国籍数学家。 获得未来科学大奖后，袁新意接受媒体采访，谈起中国数学的发展，思考中国应该营造怎样的学术氛围，也谈到在人工智能（AI）越来越会“解题”的今天，人为什么仍要学会提出问题。以下是主要采访内容。 袁新意。受访者供图 数学与产业日益紧密 问：像你研究的Mordell猜想、Bogomolov猜想，其实对常人来说完全看不懂，人类为什么要花费大量精力，攻克这些看似“没有现实用处”的猜想？ 袁新意： 我做这些研究多半出于自己的兴趣，因此研究时出发点简单。 历史上许多理论在提出时，无人知晓它的用处，多年后人们才能意识到",
+    "id": "news--1787157900000",
+    "title": " 《牛来》：把一坨屎吃出巧克力味 ",
+    "link": "https://www.huxiu.com/article/4884408.html?f=rss",
+    "summary": "本文来自微信公众号： 锵稿 ，编辑：徐元，作者：子戈，原文标题：《《牛来》：把一坨屎吃出巧克力味｜子戈专栏》 未来的中国电影史，不会写下《牛来》。可是，我们这一代人恐怕都不会忘记它。 关于这部电影，无论从哪个角度出发，得出哪种结论，似乎都很有道理，但显然都不够全面。 最关键的是，这部电影究竟是怎么制作和发行的，至今没有任何真正有媒体价值的新闻报道。 所以，如果说它是一面哈哈镜，那它何止照出了中国电影的窘态呢？ ——锵稿主编徐元 《牛来》占领电影院 作者介绍：影评人，锵稿主理人。不够温和的中间派，文字比本人犀利十倍。 01 《牛来》本身不值一提，谈它，是因为背后的文化现象。 从前有道题让无数人挠破了头，是选择巧克力味的屎，还是屎味巧克力。而《牛来》的出现提供了第三个选项——没有巧克力，纯屎，而且包装都没有，手捧着就端上来了（手搓五年）。十分好奇，是什么原因让无数观众自掏腰包为烂片买单？ 于是跑去影院一睹真容，过程也颇为奇特。检票员眼神异样，同场观众心照不宣，大家显然已被短视频切片充分教育过，不仅对名场面如数家珍，就连出现的时机都能精准掐算。 散场时，有个男生忽然鼓起掌，大喊道：“这绝对是划时代的作品！”也听不出是赞美还是反讽。正如这个事件本身，已经让固有的价值坐标出现紊乱。 02 现在回想起来，自己也是有点少见多怪了。置身影院，有那么一刻，我甚至感觉自己在参加中国电影的喜丧。大家都在",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ipo-1787141367000",
-    "title": "沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察",
-    "link": "https://www.tmtpost.com/8108904.html",
-    "summary": "93% 收入押注单一市场，分销模式增长成色待考。",
+    "id": "news-ai-ai-1787143798000",
+    "title": "从作业帮AI超级老师，看教育AI应用落地的更多可能",
+    "link": "https://www.tmtpost.com/8109259.html",
+    "summary": "AI可以像特级教师一样教孩子，这让AI在教育场景的落地有了全新典范。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -108,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-you-can-venmo-your-college-tuition-for-some-reason-1787140800000",
-    "title": "You can Venmo your college tuition, for some reason",
-    "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
-    "summary": "Kids these days don't know how good they have it.",
+    "id": "news-t-mobile-8216-chopped-a-cable-8217-to-expel-chinese-hackers--1787160392000",
+    "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
+    "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+    "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -134,11 +132,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-pros-summer-reading-list-2026-1787080260000",
-    "title": "HR pros’ summer reading list 2026",
-    "link": "https://www.hrdive.com/news/hr-pros-summer-reading-list-2026/828164/",
-    "summary": "These recommendations include books from our own summer reading lists as well as ones from HR Dive&rsquo;s readers.",
-    "publishedAt": "2026-08-18",
+    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
+    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
+    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
+    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
+    "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -160,10 +158,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-46025-1787142018000",
-    "title": " 净利暴增46025%，石药创新能靠“卖项目”走多远？ ",
-    "link": "https://www.huxiu.com/article/4884364.html?f=rss",
-    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：王丽，原文标题：《净利暴增46025%！石药创新能靠“卖项目”走多远？》 8月17日，石药创新交出更名后的首份半年报：上半年营业收入32.40亿元，同比增长208.72%；归母净利润12.61亿元，同比增长46025.71%。 这样炸裂的数字一般只出现在科技股，没想到医药股也行了。 石药创新业绩暴增，主要是因为子公司巨石生物的BD款兑现。今年1月，巨石生物和阿斯利康签约，双方合作开发多肽分子和长效递送产品，首付款4.2亿美元。5月底的时候这笔钱到账，按协议约定70%计入当期营业收入，所以公司生物制药业务收入才能飙升到22.62亿元，其中真正来自已上市药品的销售收入其实只有1.75亿元。 BD的一次性收入自然还会体现在今年年报中，不过未来持续性就无法保证了。 6月以来，石药创新股价有近80%的涨幅，基本兑现了业绩表现。 据国家药监局数据，2026年上半年，中国创新药对外授权达到81笔，合同潜在总额约1100亿美元。其中，海思科收到多笔授权款后，预计净利润增长5倍以上；泽璟制药确认6.62亿元许可收入，占总营收约一半以上，首次实现半年度盈利。BD收入带动公司业绩增长，带来投资机会，这是今年创新药行业的特点之一。 阿斯利康买的，不只是一款减肥药 阿斯利康今年和石药的合作非常广泛，巨石生物只是系列合作中的一部分。阿斯利康真正购买的，也不",
+    "id": "news--1787157788000",
+    "title": " 王兴很开心，王兴兴不一定 ",
+    "link": "https://www.huxiu.com/article/4884415.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 今天关于宇树IPO的讨论，最热闹的地方都在算钱。 王兴兴身家涨了多少，美团王兴赚了多少，早期投资人浮盈多少，员工又拿到了多少财富。 这些数字确实足够诱人，也很惊人。 但在上市现场，我反而注意到了另一个细节。 王兴兴看起来很平静。 当然，我们不能仅凭一张照片判断一个人的情绪。但这个细节放进今天的宇树IPO里，确实有点意味。 同一场上市，对于王兴和王兴兴来说，可能是两件完全不同的事情。 王兴押中的一笔投资，终于开始兑现。王兴兴亲手做出来的公司，则从今天开始接受另一套规则的检验。 一、王兴很开心，王兴兴很平静 8月19日，宇树科技正式登陆科创板。 发行价150.80元 盘中最高1100元 收盘价845元 较发行价涨幅+460.34% 总市值约3418亿元 王兴兴直接持有23.82%的股份。按照收盘价计算，他的持股市值已经超过800亿元。 美团系是宇树重要的早期投资者之一，目前合计持股约9.65%。此外，红杉中国、经纬创投、腾讯、阿里等机构，都在这场IPO中获得了可观的账面收益。 于是，一场标准的IPO造富故事出现了。 可王兴兴站在台上的时候，似乎没有特别兴奋。 这其实很好理解。 自从创立宇树以来，他最重要的事情一直是把机器人做出来。今天突然发现，公司已经值3400多亿元。 对于一个创业者来说，这当然值得高兴。 可与此同时，另一个事实也摆在面前",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787141140000",
-    "title": "和而泰半年报：汇兑吞掉三成利润，汽车电子难掩主业承压 | 看财报",
-    "link": "https://www.tmtpost.com/8109300.html",
-    "summary": "财务费用暴涨 335%，汽车电子高增难补缺口。",
+    "id": "news-ipo-1787141367000",
+    "title": "沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察",
+    "link": "https://www.tmtpost.com/8108904.html",
+    "summary": "93% 收入押注单一市场，分销模式增长成色待考。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -199,10 +197,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-relativity-networks-raises-22-million-to-bring-a-faster-kind-1787133600000",
-    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "id": "news-time-8217-s-running-out-save-300-on-your-techcrunch-disrupt--1787156178000",
+    "title": "Time&#8217;s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -226,16 +224,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
-    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
-    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
-    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
-    "publishedAt": "2026-08-18",
+    "id": "news-only-daily-ai-users-feel-positively-about-job-security-1787150100000",
+    "title": "Only daily AI users feel positively about job security",
+    "link": "https://www.hrdive.com/news/daily-ai-users-job-security/828242/",
+    "summary": "Unclear AI policies and a lack of training are compounding employee concerns about the technology, a SurveyMonkey and CNBC survey found.",
+    "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -252,10 +251,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mpa-ai-1787141921000",
-    "title": " 字节-MPA签订AI版权治理架构：输出侧治理、输入侧“再议” ",
-    "link": "https://www.huxiu.com/article/4884361.html?f=rss",
-    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年8月17日，字节跳动与美国电影协会（MPA）签署谅解备忘录（MOU），就字节旗下的Seedance视频模型、Seedream图像模型等平台知识产权保护建立“合作框架”。MPA主席Charles Rivkin称双方将“实施有意义的护栏”，字节跳动总法律顾问John Rogovine表示，“负责任的AI创新与对权利人的切实保护密不可分”。 值得注意的是，这是一份“输出侧的治理框架协议”，而非训练数据（输入侧）的授权合同。MPA官方稿明确，协议的目的是“在Seedance和Seedream上维护强护栏”，覆盖的产品矩阵式TikTok、CapCut、Dramina等用户触达层。公开信息中协议并未披露任何财务条款、许可费、片库授权范围等。因此，无论媒体说的“休战”还是“开放版权库”，都有所误读。 这个微妙的差异很重要，因为它揭示了AI版权治理中一个更为真实的商业诉求甚至是未来方向：输出侧护栏而非输入侧阻断才更直接地呈现了影视公司的核心利益，也有利于AI公司在发展业务的同时采取有效的保护措施。这一点，既能在近期迪士尼诉Midjourney案中找到依据和教训，又符合美国目前整个AI版权治理的大趋势。 一、美国国会立法路径：透明而非禁止 2026年6月30日，美国众议院司法委员会举行了一场“40岁中年危机”的听证",
+    "id": "news--1787156729000",
+    "title": " 如果宇宙也逃不过达尔文 ",
+    "link": "https://www.huxiu.com/article/4884414.html?f=rss",
+    "summary": "本文来自微信公众号： 范阳 ，编辑：范阳，作者：范阳 上周在短视频里面看到人们在西班牙拍摄的日全食，一位在现场的朋友说他也流泪了，人生当中能亲眼看到这样的“宇宙景象”应该会永远记得。如果有一天另一种智能生命也可以见到这样的景象而有所感，它应该会有一个awe-and-emotion bucket list，那些激发我们敬畏与情感的事物的参照系。 今天下午和一位在意大利的量子&amp;理论物理学家通电话，他除了喜欢“数学的海洋”，也迷恋地球上的海洋以及畅想有一天可以看到地球外的海洋。我们聊到“深度神经网络”被发明出来之后，它究竟能启发什么样的新科学理论？它会成为那个让人类更接近理解宇宙本质、物质本质或生命本质的“新事物”吗？ 话题又延伸到他发起的科学家合作研究小组：Emergent Geometries，这是一个聚焦时空（spacetime）本质的科学家社区，成员们会在意大利山区的夏日小屋（summer house）里围坐讨论，也在线上一起阅读、辩论、撰写论文。从这儿，我们又聊到了当下基础研究与技术开发的关系，以及围绕个人展开的基础研究课题，如今还能如何获得资金和资源的支持。我问到在欧洲现在有什么样不错的科研机构模式吗，他说理论物理周界研究所（Perimeter Institute for Theoretical Physics）很不错，是私人支持的研究机构，但是那是在加拿大。我说，巧",
+    "publishedAt": "2026-08-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787141140000",
+    "title": "和而泰半年报：汇兑吞掉三成利润，汽车电子难掩主业承压 | 看财报",
+    "link": "https://www.tmtpost.com/8109300.html",
+    "summary": "财务费用暴涨 335%，汽车电子高增难补缺口。",
+    "publishedAt": "2026-08-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-we-still-don-t-know-how-people-are-really-using-ai-1787047603000",
+    "title": "We still don’t know how people are really using AI",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "publishedAt": "2026-08-18",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-terrapower-s-nuclear-reactor-has-a-secret-weapon-for-powerin-1787154293000",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "publishedAt": "2026-08-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-95-of-ai-investments-fail-the-cfo-test-1787139031000",
+    "title": "Why 95% of AI investments fail the CFO test",
+    "link": "https://hrexecutive.com/why-95-of-ai-investments-fail-the-cfo-test/",
+    "summary": "AI investment has been built around quantitative technology while it's evaluated with qualitative HR metrics, a gap that costs billions. The post Why 95% of AI investments fail the CFO test appeared first on HR Executive .",
+    "publishedAt": "2026-08-19",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-chros-split-on-whether-managers-can-lead-through-ai-driven-c-1787150040000",
+    "title": "CHROs split on whether managers can lead through AI-driven change, Gallup finds",
+    "link": "https://www.hrdive.com/news/chros-split-on-whether-managers-can-lead-through-ai-driven-change/828244/",
+    "summary": "In addition to managerial training, HR leaders said their organizations are investing in &ldquo;centers of excellence&rdquo; and &ldquo;internal AI champions.&quot;",
+    "publishedAt": "2026-08-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-minimax-1787127785000",
+    "title": "MiniMax核心工程负责人阿岛离职",
+    "link": "https://www.qbitai.com/2026/08/475869.html",
+    "summary": "从技术研发到开发者沟通，长期活跃在开发者一线",
+    "publishedAt": "2026-08-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787155648000",
+    "title": " 机构拆出两个快手 ",
+    "link": "https://www.huxiu.com/article/4884412.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月19号晚上，快手开了二季度发布会。 财报我翻了半天；收入涨了1.4%，账面利润跌了36%，直播继续缩水，广告增速没到它自己给的指引，数字没什么可说的。 这份财报真正要说的事，可能和利润没什么关系，因为这里有一个关键，快手把自己拆开卖了。 一个月前，快手公告，把旗下的视频生成大模型可灵拆出去，独立融资。三十多家机构抢着出价，标了180亿美元。 腾讯掏了13.63亿，阿里云掏了13.63亿，百度掏了3.41亿。 这三家打了多少年，上一次一起出现在一张投资名单上，谁也记不清了，名单里还有北京国资，还有做影视的华策，跟凑份子似的。 可灵是什么？ 快手2024年6月自研的视频生成大模型，文生视频、图生视频都行，业内第一个原生4K直出，它先做的。 这半年它很火，全球用户破亿，覆盖224个国家和地区，企业客户快5万家，戛纳创意节都拿了奖。 几个月前，两个创作者用可灵做了部AI短片《纸手机》，三天做完，全网播放破亿。火，是真有作品在说话。 可是呢？反差来了，它不挣钱。 2024年亏5亿，2025年亏19亿。收入11亿，亏19亿，挣一块，亏一块七。到去年底，可灵净资产负900万，欠的比有的还多。 快手2025年全年实打实赚了206亿，可灵一年亏19亿。差不多每赚十块，就有一块被它烧掉。 这样的生意，放在哪个上市公司里都是吞金兽。 养吞金兽是要花钱的，",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -280,98 +372,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-still-don-t-know-how-people-are-really-using-ai-1787047603000",
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-cursor-capitalizes-on-github-frustration-launches-rival-host-1787091265000",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "publishedAt": "2026-08-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-95-of-ai-investments-fail-the-cfo-test-1787139031000",
-    "title": "Why 95% of AI investments fail the CFO test",
-    "link": "https://hrexecutive.com/why-95-of-ai-investments-fail-the-cfo-test/",
-    "summary": "AI investment has been built around quantitative technology while it's evaluated with qualitative HR metrics, a gap that costs billions. The post Why 95% of AI investments fail the CFO test appeared first on HR Executive .",
-    "publishedAt": "2026-08-19",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-rethinking-rto-researchers-highlight-the-positive-impact-of--1787063100000",
-    "title": "Rethinking RTO? Researchers highlight the positive impact of remote work",
-    "link": "https://www.hrdive.com/news/rto-future-of-work-summer-2026/828127/",
-    "summary": "In a year where retention is top of mind for employers, conversations highlighting the benefits of remote work may be crucial.",
-    "publishedAt": "2026-08-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-minimax-1787127785000",
-    "title": "MiniMax核心工程负责人阿岛离职",
-    "link": "https://www.qbitai.com/2026/08/475869.html",
-    "summary": "从技术研发到开发者沟通，长期活跃在开发者一线",
-    "publishedAt": "2026-08-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic15-1787141921000",
-    "title": " Anthropic15亿美元和解：案件已了，法律问题才刚开始 ",
-    "link": "https://www.huxiu.com/article/4884360.html?f=rss",
-    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖，原文标题：《Anthropic 15亿美元和解：案件已了，法律问题才刚开始》 2026年7月20日，加州北区联邦法院法官Araceli Martínez-Olguín签署最终批准令，Anthropic就使用盗版书籍训练Claude一事支付15亿美元和解金，覆盖约48.2万至50万部作品，折合每部约3000美元。这是美国版权史——也是AI时代——迄今规模最大的版权和解。 但这项裁决最重要的意义或许在于它未解决的问题：15亿美元不是”AI训练合理使用的定价”，Anthropic和版权作者都算不得这场游戏的赢家，而美国国会正在同步推进的立法，才是真正决定AI训练数据未来的那条线。 一、15亿美元标价的是”盗版获取”，不是”AI训练” 要理解这笔和解，必须回到2025年6月23日Alsup法官那份32页的简易判决裁定。这位以”软件工程师式严谨”著称的法官做了一个关键二分： 1、训练行为本身：将合法取得的书籍输入模型训练Claude，构成合理使用；购买纸质书后扫描数字化：不构成额外侵权； 2、从盗版影子图书馆下载并永久存储700多万本书：构成”固有、不可救药的侵权”。 这项和解协议并未推翻之前的裁决。相反，案件的焦点现在集中在Anthropic公司从LibGen和PiLiMi等影子图书馆中下载和存储文件的行为上。 也",
-    "publishedAt": "2026-08-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787135799000",
-    "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
-    "link": "https://www.tmtpost.com/8109017.html",
-    "summary": "任务决定能力，任务决定形态。",
-    "publishedAt": "2026-08-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-role-of-the-astronaut-is-in-flux-1787043600000",
     "title": "The role of the astronaut is in flux",
     "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
@@ -384,11 +384,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-doj-8217-s-probe-into-andreessen-horowitz-over-board-seats-b-1787085380000",
-    "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
-    "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-    "publishedAt": "2026-08-18",
+    "id": "news-rivian-spinout-also-raises-another-150m-1787153987000",
+    "title": "Rivian spinout Also raises another $150M",
+    "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+    "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+    "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -769,9 +769,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTU1LjYwLjE4Mw== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4Mw==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4xNTUuMTExLjEx when applying to show you read the job post completely (#RNC4xNTUuMTExLjEx)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -962,41 +962,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
     "postedAt": "2026-08-13",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136576",
-    "title": "Tunnel Agent",
-    "company": "Skanska Costain STRABAG Joint Venture",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4260 Contract Type Permanent Closing Date 19 August, 2026 Job Ca"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "London, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576",
-    "postedAt": "2026-08-12",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136585",
-    "title": "Sub Agent",
-    "company": "Skanska Costain STRABAG Joint Venture",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4259 Contract Type Permanent Closing Date 19 August, 2026 Job Ca"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "London, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
-    "postedAt": "2026-08-12",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-19T12:38:50.896Z';
+export const dataFetchedAt = '2026-08-19T18:29:08.872Z';

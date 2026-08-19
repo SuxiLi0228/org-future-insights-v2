@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-20-auto",
+    "date": "2026-08-20",
+    "session": "auto",
+    "title": "2026-08-20 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-20-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+      },
+      {
+        "id": "sig-2026-08-20-auto-2",
+        "emoji": "💡",
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+        "detail": "来源: TechCrunch。The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+      },
+      {
+        "id": "sig-2026-08-20-auto-3",
+        "emoji": "🚨",
+        "title": "10 ways criminals are using AI to fuel fraud",
+        "summary": "Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/top-10-ways-criminals-are-using-ai-scams/"
+      },
+      {
+        "id": "sig-2026-08-20-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：From Corpora to Co-Evolving Capabilities: Capability-Centric...",
+        "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen",
+        "detail": "作者: Xingjian Wang, Zhao Wang, Taihang Hu。Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \\textbf{capability-driven data infrastructure} that couples capability-specific supervision construction with capability-aligned curriculum scheduling. Its three specialized yet interoperable data engines build complementary relational supervision for text-image grounding, inter-image transformation, and image-knowledge association, while caption experts align T2I and editing supervision across tasks and",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.18076v1"
+      },
+      {
+        "id": "sig-2026-08-20-auto-5",
+        "emoji": "💼",
+        "title": "Power FM Bega Bay 正在招募 Maintenance Fitter",
+        "summary": "岗位类型：业务+AI 复合岗。Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4xNTUuMTExLjEx when applying to show you read the job post completely (#RNC4xNTUuMTExLjEx)",
+        "detail": "技能要求: 未标注。Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4xNTUuMTExLjEx when applying to show you read the job post completely (#RNC4xNTUuMTExLjEx) This is a beta feature to avoid spam applicants Companies can search these words to find applicants that re",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Power FM Bega Bay"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Power FM Bega Bay",
+        "link": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-20-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI’s self-improvement prob」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-20-2",
+        "priority": "low",
+        "action": "关注「Meet the startup helping Wall Street put」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-20-3",
+        "priority": "high",
+        "action": "关注「10 ways criminals are using AI to fuel f」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-20-4",
+        "priority": "medium",
+        "action": "关注「研究速递：From Corpora to Co-Evolving Capabil」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-20-5",
+        "priority": "medium",
+        "action": "关注「Power FM Bega Bay 正在招募 Maintenance Fitte」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Power FM Bega Bay"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 61,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-20 生成，聚合了 30 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-08-20 00:00 - 2026-08-20 23:59"
+  },
+  {
     "id": "report-2026-08-19-auto",
     "date": "2026-08-19",
     "session": "auto",
