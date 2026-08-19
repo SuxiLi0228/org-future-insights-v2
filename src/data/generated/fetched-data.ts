@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-b-max-10-99-14-39-1787051222000",
-    "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-    "link": "https://www.qbitai.com/2026/08/474907.html",
-    "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
-    "publishedAt": "2026-08-18",
+    "id": "news-30-1787101163000",
+    "title": "郭富城换车，30万级顶配华为全家桶",
+    "link": "https://www.qbitai.com/2026/08/475009.html",
+    "summary": "5.3米六座家用SUV",
+    "publishedAt": "2026-08-19",
     "source": "量子位",
     "tags": [
       "china",
@@ -68,25 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a2a-1787099729000",
-    "title": " A2A，未来职场新形态？ ",
-    "link": "https://www.huxiu.com/article/4884090.html?f=rss",
-    "summary": "本文来自微信公众号： 穆宁Morning ，作者：穆宁 先说一个正在发生的画面 一个AI写方案，另一个AI审方案。两个人坐在屏幕两端，负责复制、粘贴、转发，以及假装自己刚刚认真思考过。 目录 01方案是怎么在没人认真写的情况下完成的 02a2a不是协作，更像一条自动扶梯 03以后拼的，可能不是输出，是分辨率 04老板也在悄悄变成AI的用户 05最荒诞的时刻可能是大家都觉得挺好 上周，一个做品牌的朋友给我讲了个段子。 她当天要给老板提一个品牌营销策划方案。 她说，自己前前后后只花了半小时。 不是花半小时做方案，是花半小时决定让哪个AI来做。 第一个AI负责搭框架，第二个AI负责补案例，第三个AI负责把语气改得不像AI。她把内容拼好，改了几个预算数字，发给老板。 两小时后，老板回了一页修改意见：KOL选择缺少依据，线下活动预案不足，预算结构还可以细化。 她看了两眼，立刻反应过来： “这也不是老板写的。” 那天她没忍住笑了。 这大概就是未来职场最常见的画面之一。 我把它叫作a2a。 不是Agent to Agent。没那么高级。 就是AI to AI。 01 方案是怎么在没人认真写的情况下完成的 以前做方案，最难的是从零开始。 你得查资料、搭框架、想标题、补案例。写到一半还会卡住，盯着空白文档发呆，觉得自己脑子像被谁格式化了。 现在不一样了。 空白页没了。 你只需要给AI一句话：“帮我做",
+    "id": "news--1787119916000",
+    "title": " 楼市，重磅利好来袭？ ",
+    "link": "https://www.huxiu.com/article/4884222.html?f=rss",
+    "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 诺奖得主萨拉马戈在《里斯本围城记》的开篇写道：未达真实，则无法修正。然若不予修正，则无法达到真实。 如今的中国楼市，正处于萨拉马戈的真实和修正，修正与真实。 房地产整体冷淡，只有一线城市很热闹 8月17日，国家统计局公布了70大中城市的房价情况。结果，一个世界，两种面貌。 一线城市的情况，让人欣慰，甚至欣喜。二手房主导市场的时代，7月份，4个一线城市房价环比上涨0.2%，为2026年3月份以来，连续第5个月保持环比上涨。 新房表现虽然不如二手房，但并没有下跌。7月，一线城市新房价格从上个月的环比增长0.1%转为持平。 四座一线城市里，只有北京新房环比下跌，跌幅为0.3%，其他三个城市仍然是环比上涨的。或许因为表现落后于沪深广，所以北京8月8日出台了新的楼市政策，赶在金九银十前加码刺激。 据中国房地产报，北京新政最大的看点是，公积金支持力度大幅上调。调整前，首套房公积金贷款额度和新房总价中位数的比值为27%。调整后大幅提高至58% 新政后，双职工家庭公积金最多可贷340万，且利率低至2.6%。 新政出炉后，北京房地产热度明显增加。据北京商报报道，一些中介门店二手房周末（新政后首周）带看量环比增长超过四成，低总价小户型率先放量。 据pti监测数据，8月10日至8月16日，北京二手房成交量环比上扬10%。 另一个衡量一线城市冷热的核心指标—",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-5-1500-1787095200000",
-    "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
-    "link": "https://www.tmtpost.com/8107897.html",
-    "summary": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议",
-    "publishedAt": "2026-08-18",
+    "id": "news--1787116798000",
+    "title": "当开源大模型开始谈分成",
+    "link": "https://www.tmtpost.com/8107377.html",
+    "summary": "Kimi K3与Qwen3.8-Max接连引入收入分成条款，开源正从无偿使用走向免费增值。",
+    "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -147,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787049623000",
-    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-    "link": "https://www.qbitai.com/2026/08/474868.html",
-    "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+    "id": "news-b-max-10-99-14-39-1787051222000",
+    "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+    "link": "https://www.qbitai.com/2026/08/474907.html",
+    "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
     "publishedAt": "2026-08-18",
     "source": "量子位",
     "tags": [
@@ -160,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787099239000",
-    "title": " 朱雀三号回收成功，但离真正复用还有多远？ ",
-    "link": "https://www.huxiu.com/article/4884088.html?f=rss",
-    "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 朱雀三号遥二成功入轨，一级随后返回航区回收场，依靠发动机反推与着陆腿完成软着陆。 这次任务同时完成了入轨和回收。蓝箭航天由此成为我国首家完成轨道发射并成功回收一级的民营火箭企业，朱雀三号也实现了国内采用着陆腿的轨道级火箭一级回收。 中国轨道级一级可控回收的第一面旗帜，已经由长征十号乙在7月10日拿走。长十乙采用海上网系捕获，朱雀三号依靠发动机反推与着陆腿落地。两种方案各有自己的技术取舍，一次成功还不足以判定高下。朱雀三号遥二没有改写“中国首次”，它推进的是民营商业航天和着陆腿路线各自的工程进度。 这些意义都可以确认，没有必要继续拔高。 纪录之外，双成功真正改变的是蓝箭所受的评价。 此前几年，评价朱雀三号相对直接。入轨、返回和着陆都有清晰结果，一次任务结束，外界大致就能作出判断。 一级落地以后，很多判断已经不能在一次飞行里完成。回收证明它回得来，复用价值还要等拆检和复飞。 在这之前，时间属于研发。从这一天起，时间开始计入成本。 01 首先要说清楚，今天成功的究竟是哪一种朱雀三号。截至发稿，蓝箭尚未完整披露遥二相较遥一的具体构型变化，因此本次成功能够覆盖到哪些升级状态，还要以蓝箭航天后续技术披露为准。 蓝箭在2023年发布的朱雀三号设计构型全长76.6米，一级使用9台天鹊12B发动机，二级采用天鹊15B。按照公开指标，这一状态下一次性低轨运",
+    "id": "news--1787119200000",
+    "title": " 旺旺面临“重大经营危机”，真是因为太\"甜\"了吗？ ",
+    "link": "https://www.huxiu.com/article/4883997.html?f=rss",
+    "summary": "去年旺旺米果营收增长几乎停滞，旺仔牛奶也跌入存量竞争泥潭。网友集体呼吁减糖，不是要毁掉记忆的味道，而是盼望一口无负担的童年甜蜜。",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -173,17 +172,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787067092000",
-    "title": "汽车卖得更多、手机卖得更贵，小米却更难赚钱了",
-    "link": "https://www.tmtpost.com/8108046.html",
-    "summary": "汽车持续放量、手机加速高端化，但利润同步承压，小米新的增长接力尚未完成。",
-    "publishedAt": "2026-08-18",
+    "id": "news-municipal-capital-tries-to-turn-ai-tokens-into-a-metered-uti-1787115782000",
+    "title": "Municipal Capital Tries to Turn AI Tokens into a Metered Utility",
+    "link": "https://www.tmtpost.com/8108581.html",
+    "summary": "In Guangzhou, district-backed platforms are selling model inference by the token while banks experiment with loans sized to that consumption. The efforts show local state firms searching for recurring revenue from AI infrastructure as traditional development models slow.",
+    "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -239,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8221-ai-ai-1787047454000",
-    "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-    "link": "https://www.qbitai.com/2026/08/474857.html",
-    "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+    "id": "news--1787049623000",
+    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+    "link": "https://www.qbitai.com/2026/08/474868.html",
+    "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
     "publishedAt": "2026-08-18",
     "source": "量子位",
     "tags": [
@@ -252,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787098200000",
-    "title": " 发布会不是用来发布老板的 ",
-    "link": "https://www.huxiu.com/article/4883952.html?f=rss",
-    "summary": "本文来自微信公众号： 一口老炮 ，作者：杨丁Frank，题图来自：视觉中国 现在有个奇葩的现象，一场发布会下来，人们记不住企业发布了什么，但是对于台上企业家吹的牛，倒是充满了二创和吐槽的欲望，很多媒体感慨，这活妥妥的像一个又一个大型诈骗现场，拿完车马费后，姑且再坐一会，听场相声。 上周，荣耀发布了新手机，有一说一，产品有创新，但是老板李健很下头。 发布会话术，以及随后媒体采访环节，除了继承到了上一任的爱吹之外，还看到了很多油腻感，传播思维停留在上个世纪，前面雷军和余承东踩的坑，似乎一点警示没起。 这引发了一个很有趣的话题， 今天的发布会，重点到底是产品还是老板？ 反正荣耀这场发布会之后，我看到媒体关注的更多的是李健的一些&ldquo;语不惊人死不休&rdquo;，而产品本身却被忽略了，我不理解这是李健的个人诉求，还是荣耀传播团队过于内卷。 理论上，荣耀今天的江湖地位，其实不允许老板如此高调，用低调的姿态讲述一款结合云台和手机的创新产品，效果会更好。 这种老板取代产品，成为发布会后期传播核心的思路，在过去几年非常流行，主要核心手段，就是一个字&ldquo;吹&rdquo;，如果要加个前置条件，那就是&ldquo;敢吹&rdquo;，导致现在某些企业家在社交媒体只要一说话，就会有弹幕弹出来，&ldquo;全民反诈，人人有责&rdquo;。 尤其最近，整个短视频宇宙中，余承东和雷军，已经",
+    "id": "news-4000-1787119188000",
+    "title": " 宇树4000亿：王兴兴终于等来机器人觉醒 ",
+    "link": "https://www.huxiu.com/article/4884210.html?f=rss",
+    "summary": "本文来自微信公众号： 投新 ，作者：阿聪，题图来自：视觉中国 2026年8月19日，科创板开盘，宇树上市，股价直奔1100元，A股人形机器人第一股终于登场，较150.80元的发行价大幅上涨629.44%；截至发稿，市值一度拉升4000亿元左右。 过去几年，那些会翻滚、跳舞、打拳的钢铁身影，一次次闯入央视春晚和朋友圈；如今，它们跟随一家成立十年的公司，走到了上市。 站在宇树科技背后的，是王兴兴。与擅长描绘宏大未来的科技创业者不同，他更像一名始终没有离开工作台的工程师。面对镜头，他谈论最多的仍然是电机、关节、算法和成本，以及机器人什么时候才能真正走进工厂、家庭和普通人的生活。 在他的世界里，未来不是写在演讲稿里的，而是一个又一个零件、一行又一行代码，是机器人摔倒之后能不能自己站起来，也是一项曾被关在实验室里的昂贵技术，能不能被造得足够便宜。 那场红杉投决会上，王兴兴给描绘了这样一个愿景： 我希望造一个很大的机器人，比奥特曼比山还大；造一个很小的机器人，到微米级进入到人的血管常驻，治疗各种疾病；我还希望用机器人来造机器人。 从两万元的XDog，到一年营收近17亿元；从一个人的毕业设计，到数万台机器人走向全球，王兴兴走了十余年。这不是一个天才突然改变世界的故事，而是一名工程师在机器荒原里反复拆解、反复失败，最终为中国机器人造出一副身体的故事。 从两万元的机器狗出发，一个工程师走进钢铁荒原 ",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -265,11 +265,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787061905000",
-    "title": "浦发银行半年报：双增的业绩，三个待解的问号",
-    "link": "https://www.tmtpost.com/8106244.html",
-    "summary": "浦发银行这份半年报，是一面镜子。",
-    "publishedAt": "2026-08-18",
+    "id": "news-deepmind-ai-for-science-1787110875000",
+    "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
+    "link": "https://www.tmtpost.com/8107695.html",
+    "summary": "AGI的“最后一英里”",
+    "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -330,10 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-0-1787047060000",
-    "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-    "link": "https://www.qbitai.com/2026/08/474838.html",
-    "summary": "给机器人造一个更接近真实的“第二世界”",
+    "id": "news-8221-ai-ai-1787047454000",
+    "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+    "link": "https://www.qbitai.com/2026/08/474857.html",
+    "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
     "publishedAt": "2026-08-18",
     "source": "量子位",
     "tags": [
@@ -343,10 +343,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787098118000",
-    "title": " 从日本看老龄化下医疗开支四大趋势 ",
-    "link": "https://www.huxiu.com/article/4884086.html?f=rss",
-    "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 随着中国的快速老龄化，医疗开支的增长虽然会持续，但医疗开支的变化趋势将决定医疗产业的发展模式。由于日本是老龄化最严重的发达国家，从其医疗开支的演变趋势可以提供一定的借鉴意义。 日本医疗开支呈现出4个特征：老龄化对医疗开支的推动作用逐渐减弱，但共病成为增速的主要动力，门诊的占比逐步上升，药品费用增速持续维持在5%以下，医院持续大面积亏损。 首先，老龄化早期虽然对医疗开支的增速提供了主要的推动力，但随着时间的推移，老龄化对费用增长的贡献率会逐步下降。 2023财年，日本医疗总开支为48万亿日元，65岁以上的开支占比达到60%，而75岁以上的开支占比达到39.8%。 虽然65岁以上的医疗开支占比远超65岁以下，但老龄化对医疗费用的增长点贡献率已经减半，从从2010财年的1.6%降至2023财年的0.7%。相比之下，“医疗进步及其他因素”的贡献率呈上升趋势，并在2022和2023财年显著超过了老龄化因素的影响。这意味着随着新技术的发展，医疗费用开支的增速主要来自新治疗模式和药品的推动，老年人口的增长已经不是最主要的因素。 当然，老年人在整体医疗开支中占比超过60%的现状很难逆转，只是增速得到了控制。 其次，门诊的占比持续上升，与住院开支占比相差已经很小。在总医疗开支中，住院治疗占37.1%，",
+    "id": "news-4400-1787118561000",
+    "title": " 4400亿！宇树的狂欢和隐忧 ",
+    "link": "https://www.huxiu.com/article/4884214.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：阿伦，原文标题：《4400亿！宇树的狂欢和隐忧》 7.44%流通股造就的狂欢定价之下，宇树仍要回答几个高估值绕不开的问题。 定焦One（dingjiaoone）原创 8月19日，A股“人形机器人第一股”宇树科技正式登陆科创板。集合竞价阶段，公司股价大幅高开629.44%，以1100元/股开盘，较150.80元的发行价上涨949.20元，对应总市值4449亿元。 对参与打新的投资者而言，这是2026年以来最丰厚的一只“肉签”。以500股一签、7.54万元的缴款金额计算，中一签浮盈47.46万元。而根据8月13日晚间披露的发行结果公告，网上投资者缴款认购969.83万股，放弃认购8734股；网下投资者缴款认购2265.01万股，无一弃购。以开盘价计算，那些在最后时刻放弃认购的人，各自错失了将近50万元的收益。 亢奋的定价并未维持太久。开盘约十分钟后，宇树股价回落至895元附近，市值稳定在3600亿元上下。即便如此，这一水平仍超出许多一级市场投资人的预期。挂牌之前，一部分保守的投资人认为宇树至少值2000亿元，激进者看到4000亿元。 一场财富的重新分配随之完成。创始人王兴兴合计持股约1.21亿股，以开盘价计算持股市值达1335.73亿元，正式跻身千亿身家。外部股东中，账面收益最大的或许是美团：美团系合计持有宇树发行前9.6",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -356,11 +356,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787061900000",
-    "title": "闪购大战的灰烬中之二：顺丰同城拿起了扫帚和拖把",
-    "link": "https://www.tmtpost.com/8106116.html",
-    "summary": "白天给KA送单，晚上给KA打烊。",
-    "publishedAt": "2026-08-18",
+    "id": "news--1787110576000",
+    "title": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
+    "link": "https://www.tmtpost.com/8108451.html",
+    "summary": "从“生成内容”转向“理解上下文并在世界中行动”。",
+    "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -398,362 +398,364 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2608.16889v1",
-    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "id": "arxiv-2608.18076v1",
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
     "authors": [
-      "Bingxin Xu",
-      "Yuzhang Shang",
-      "Emilio Ferrara"
+      "Xingjian Wang",
+      "Zhao Wang",
+      "Taihang Hu",
+      "Jun Zheng",
+      "Qing Jin",
+      "Qinye Zhou",
+      "Zhengtao Wu",
+      "Yongchao Du",
+      "Zuan Gao",
+      "Chao Lin",
+      "Yefeng Shen",
+      "Xiaoli Xu",
+      "Zhengze Xu",
+      "Hao Yan",
+      "Yuhang Yu",
+      "Mingzhou Zhang",
+      "Mengting Chen"
     ],
-    "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adaptation into language memory. Applied to long horizons, it breaks twice. (1) Competence comes from whole-task exploration at test time, whose cost is multiplicative in stages: if one stage needs T episodes, a K-stage task needs about T^K, and a failure does not reveal which stage caused it. (2) It has ",
-    "link": "http://arxiv.org/abs/2608.16889v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \\textbf{capability-driven data infrastructure} that couples capability-specific supervision construction with capability-aligned curriculum scheduling. Its three specialized yet interoperable data engines build complementary relational supervision for text-image grounding, inter-image transformation, and image-knowledge association, while caption experts align T2I and editing supervision across tasks and",
+    "link": "http://arxiv.org/abs/2608.18076v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
+      "cs.CV",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.16888v1",
-    "title": "Q-based Variational Inverse Reinforcement Learning",
+    "id": "arxiv-2608.18072v1",
+    "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
     "authors": [
-      "Ondrej Bajgar",
-      "Peter Tisnikar",
-      "Alessandro Abate",
-      "Konstantinos Gatsis",
-      "Maike Osborne"
+      "Iryna Hartsock",
+      "Cesar Lam",
+      "Christopher Otteni",
+      "Aliya Qayyum",
+      "Robert Gatenby",
+      "Cyrillo Araujo",
+      "Ghulam Rasool"
     ],
-    "summary": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. Inverse reinforcement learning (IRL) addresses this challenge by inferring preferences, represented as reward functions, from expert behaviour. We introduce Q-based Variational IRL (QVIRL), a novel Bayesian IRL method that recovers a posterior distribution over rewards from expert demonstrations via primarily learning a variational distribution over optimal Q-values. Unlike previous approaches, QVIRL combines scalability with uncertainty quantification, important for safety-critical applications as well as active learning. We demonstrate QVIRL's strong performance in apprenticeship learning acro",
-    "link": "http://arxiv.org/abs/2608.16888v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT examinations of the chest, abdomen, and pelvis dictated by 15 board-certified radiologists in 2023 and 2024. A multi-agent AI pipeline was developed to perform report structuring and quality assurance (QA). The system structured the report into standardized anatomical sections at the sentence level using regex rules and local large language models. It also detected mismatches between the Findings and Impression sections, or within sections; gender-anatomy conflicts; and undocumented communication of critical findings. Two board-certified radiologists independently evaluated a ",
+    "link": "http://arxiv.org/abs/2608.18072v1",
+    "publishedAt": "2026-08-18",
     "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18066v1",
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "authors": [
+      "Qinyuan Ye",
+      "Yu Li",
+      "Yada Pruksachatkun",
+      "Jiaxin Zhang",
+      "Chien-Sheng Wu"
+    ],
+    "summary": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a comprehensive re-evaluation of two memory-based methods, broadening the scope of evaluation along two axes: (1) including multiple runs to quantify variance, and (2) randomly shuffling the tasks to investigate the effect of task order. Through these experiments, we make two observations that expose the fragility of current methods: First, agent evaluation is inherently noisy in complex environments and on multi-step tasks, and stacking a self-improving loop on top can further amplify this noise",
+    "link": "http://arxiv.org/abs/2608.18066v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.16884v1",
-    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "id": "arxiv-2608.18062v1",
+    "title": "TokEval: A Tokenizer Evaluation Suite",
     "authors": [
-      "Emilien Dupont",
-      "Marvin Eisenberger",
-      "Borislav Kozlovskii",
-      "Abbas Mehrabian",
-      "Francisco J. R. Ruiz",
-      "Abigail See",
-      "Renfei Zhou",
-      "Josh Alman",
-      "Virginia Vassilevska Williams",
-      "Matej Balog"
+      "Clara Meister"
     ],
-    "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several improvements. First, we reformulate the optimization problem allowing us to solve it in a larger setting than was previously possible. Second, we leverage recent advances in machine learning to design a new optimization algorithm for this problem. Finally, we refine the resulting optimization algorithm with AlphaEvolve. Our combined approach yields an upper bound of $ω$ < 2.371177, improving the previous best bound of 2.371339.",
-    "link": "http://arxiv.org/abs/2608.16884v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce TokEval, a framework of tokenizer evaluation metrics that goes beyond standard measures like fertility and compression rate to capture linguistically and structurally meaningful properties, e.g., UTF-8 character boundary integrity and digit place-value boundary alignment for mathematics. To validate whether these metrics are predictive of downstream model performance, we conduct controlled language model pretraining experiments, varying solely the tokenizers' training data mixture, pretokenizat",
+    "link": "http://arxiv.org/abs/2608.18062v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.DS",
-      "cs.AI",
-      "cs.CC",
+      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.16878v1",
-    "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
+    "id": "arxiv-2608.18061v1",
+    "title": "The concentration game: Bayesian updating, regret, and information",
     "authors": [
-      "Yunbum Kook",
-      "Santosh S. Vempala"
+      "Akshay Balsubramani"
     ],
-    "summary": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the uniform distribution $π$ over $\\mathcal{K}$. This implies that Hit-and-Run converges to a distribution within $χ^2$-divergence $\\varepsilon$ of the uniform distribution $π$ in $O(n^2 C_{\\mathsf{PI}}\\log(M/\\varepsilon))$ steps from any starting distribution $π_0$ with $M=χ^2(π_{0}\\,\\|\\,π)$, thus refining the known bound of $O(n^2 R^2 \\log(M/\\varepsilon))$ by Lovász and Vempala (2004) in terms of the outer radius $R$; for nearly isotropic bodies, together with progress on the KLS conjecture, the complexity is $O(n^2\\log n\\log(M/\\varepsilon))$, improving the dimension dependence from cubic to nea",
-    "link": "http://arxiv.org/abs/2608.16878v1",
-    "publishedAt": "2026-08-17",
+    "summary": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies the comparator-class variational form that a wide class of concentration phenomena share. The terminal payoff is the most a comparator can gain at fixed relative entropy from the prior, and the one-step constraint is an information budget on nature's move under the learner's mixed action. With the learner's move otherwise unrestricted, Gibbs/Bayes weights emerge as its unique Bellman equalizer -- the mixed action that makes the per-round loss independent of which direction nature moves -- with log-partition functions playing the role of value functions. The regret decomposes exactly into three p",
+    "link": "http://arxiv.org/abs/2608.18061v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.DS",
       "cs.LG",
+      "cs.GT",
       "math.PR",
       "math.ST"
     ]
   },
   {
-    "id": "arxiv-2608.16876v1",
-    "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "id": "arxiv-2608.18058v1",
+    "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
     "authors": [
-      "Kejia Zhang",
-      "Youran Sun",
-      "Xinyu Ren",
-      "Chugang Yi",
-      "Haizhao Yang"
+      "Daria Leshchikova",
+      "Valentina V. Kuskova",
+      "Dmitry Zaytsev",
+      "Valerii Klimov"
     ],
-    "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, yet the search typically retains little beyond the resulting formula and score, losing the scientific record, such as motivations and probes, that inform what to try next. AutoSR preserves this record in a \\textbf{Research State}, coupling each candidate equation with the reasoning, computational evi",
-    "link": "http://arxiv.org/abs/2608.16876v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We study this condition using two large-scale surveys of active users of a major dating platform (N=2,894 on generative profile features; N=2,617 on autonomous conversational agents, fielded in two languages). We develop a latent-variable measurement model of agent receptivity based on graded response models with latent regression, and show via model comparison that willingness to send and willingness to receive agent communication are distinct constructs: highly correlated (rho=0.92) but separable (D",
+    "link": "http://arxiv.org/abs/2608.18058v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.SC",
-      "cs.AI",
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16873v1",
-    "title": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
-    "authors": [
-      "Jiaming Li"
-    ],
-    "summary": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered. When the analytical model remains available at inference, it is retained as an explicit baseline and the simulation data are used to learn only the analytical-to-simulation discrepancy. When a self-contained predictor is required, the analytical mapping is first distilled from abundant low-cost evaluations into a lear",
-    "link": "http://arxiv.org/abs/2608.16873v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16870v1",
-    "title": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning",
-    "authors": [
-      "Serena Su",
-      "Yifan Wang",
-      "Senwei Liang"
-    ],
-    "summary": "Accurate classification of circulating tumor cell (CTC) phenotypes can provide valuable information for assessing metastatic potential. Label free microfluidic devices provide a hydrodynamic obstacle course that transforms subtle biophysical characteristics of CTCs, including size and deformability, into distinct kinematic trajectories. However, the highly nonlinear fluid structure interactions governing these trajectories make the inverse problem of inferring cellular phenotype from trajectory data analytically intractable. While deep neural networks (DNNs) have emerged as a powerful approach for addressing this inverse problem, their effectiveness is constrained by the limited availability of trajectory data and the lack of physical interpretability. To address these challenges, we propo",
-    "link": "http://arxiv.org/abs/2608.16870v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16868v1",
-    "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
-    "authors": [
-      "Benjamin Belay"
-    ],
-    "summary": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea in two controlled architectures: a modular feed-forward neural network and a transformer-based model. Both architectures are trained on the same arithmetic task with a mandatory pathway through two discrete intermediate states, allowing different internal paths to produce the same answer. We deliberately switch between these paths, authenticate the state actually used, and let that verified state determine a subtle statistical pattern in the generated text that can later be detected. The feed-forw",
-    "link": "http://arxiv.org/abs/2608.16868v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.CL",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.16864v1",
-    "title": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction",
+    "id": "arxiv-2608.18056v1",
+    "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
     "authors": [
-      "Shuai Huang",
-      "Zhe Qu",
-      "Zhaowei Hua",
-      "Guohao Shen",
-      "Rui Tang",
-      "Hongtu Zhu"
+      "Xiao Wang",
+      "Shun Ren Yang",
+      "Hui Nien Hung"
     ],
-    "summary": "In survival analysis the way covariates act on the risk of an event often differs between early and late failure times, yet hazard- and mean-based summaries collapse this variation into a single number. Quantile-based modeling instead describes the full conditional distribution on the original time scale, but existing censored-data methods are either inflexible or produce logically inconsistent crossing quantile curves. We propose a Censored Non-crossing Quantile (CNQ) framework for right-censored data that jointly estimates several conditional survival quantiles and guarantees valid ordering by construction, with flexibility supplied by Kolmogorov-Arnold and Transformer backbones, and we establish a finite-sample excess-risk bound holding jointly across all fitted quantile levels. Across ",
-    "link": "http://arxiv.org/abs/2608.16864v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose HLSR, a selective hybrid live--forecast vehicle rerouting framework that fuses live edge speeds with short-horizon forecasts under limited intervention scope. Building on dual-threshold congestion detection, calibrated upstream selection, and driver-tailored travel-time prediction, HLSR further introduces approaching-vehicle expansion, travel-time-weighted k-shortest-path generation, and a horizon-dependent hybrid live--forecast segment speed used in multi-cost route allocation.",
+    "link": "http://arxiv.org/abs/2608.18056v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18055v1",
+    "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "authors": [
+      "Veronika Spieker",
+      "Wenqi Huang",
+      "Cemre Ariyurek",
+      "Liam Timms",
+      "Daniel Rueckert",
+      "Onur Afacan",
+      "Julia A. Schnabel",
+      "Sila Kurugol"
+    ],
+    "summary": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have shown promising results without the need for large training datasets, but have not addressed the additional dimension of dynamic contrast. We propose a multi-dimensional, primitive based framework for dynamic contrast-enhanced MRI reconstruction that disentangles the underlying anatomy, the dynamic contrast enhancement, and residual motion into separate temporal basis functions, thereby enabling a geometrical interpretation of the representation. We show that this architecture achieves performance competitive with conventional reconstruction methods, both in reconstruction qua",
+    "link": "http://arxiv.org/abs/2608.18055v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG",
+      "eess.SP",
+      "physics.med-ph"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18050v1",
+    "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+    "authors": [
+      "Yining Hua",
+      "Hongbin Na",
+      "Yifan Zhou",
+      "Akshay Kalose",
+      "Cyrus Ayubcha",
+      "Levi Lian"
+    ],
+    "summary": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to different versions of the same work product. We formulate this as a workspace-state contract: every view should be explicitly tied to a version of the evolving workspace state. Coding agents partly address this need through repository contracts for search, diffs, and tests, whereas an analogous contract is less explicit for PDFs, spreadsheets, slides, notebooks, and mixed-format project folders. We propose StagedWorkspace, a versioned workspace for knowledge-work agents. The workspace binds par",
+    "link": "http://arxiv.org/abs/2608.18050v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18041v1",
+    "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+    "authors": [
+      "Hollis Robbins"
+    ],
+    "summary": "Language has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every writer in the corpus together. This paper claims a second parameter, phase, which signed weights learned from a corpus do not supply. Phase exists only between meanings: it determines how coactivated meanings combine, and it can reverse what a meaning contributes while that meaning stays fully present. A speaker can set phase in the signal through linguistic form; encounters install phase relations and history distributes them. Population averaging deletes history-indexed phase: agent-deindexed corpora identify the population marginal state and determine no individual or dyadic state, at any scal",
+    "link": "http://arxiv.org/abs/2608.18041v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18040v1",
+    "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "authors": [
+      "Travis Zhang",
+      "Christian Belardi",
+      "Justin Lovelace",
+      "Jin Peng Zhou",
+      "Saebyeol Shin",
+      "Carla P. Gomes",
+      "Kilian Q. Weinberger"
+    ],
+    "summary": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and samplers, comparatively little attention has been paid to selecting the sampling timesteps themselves. A recent line of work optimizes theoretically derived surrogates for sample quality rather than the quality metric itself. We propose Optimizing Your Sampling (OYS), which instead treats timestep selection as a black-box optimization problem, optimizing the target metric directly with Bayesian optimization. OYS outperforms both the default schedules and those of Align Your Steps on text-to-image generation, and improves over the default schedules on inpainting and other image tasks, in both ",
+    "link": "http://arxiv.org/abs/2608.18040v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18036v1",
+    "title": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
+    "authors": [
+      "Mahdi Saberi",
+      "Yaşar Utku Alçalar",
+      "Merve Gülle",
+      "Chetan Shenoy",
+      "Mehmet Akçakaya"
+    ],
+    "summary": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide complementary information for signal recovery. However, their use in MRI reconstruction remains largely unexplored, due to lack of practical settings where informative magnitude measurements can be obtained without additional scan time. In this work, we investigate the use of auxiliary k-space magnitude information for accelerated steady-state dynamic MRI reconstruction, and demonstrate strong consistency of k-space magnitudes across time-frames. Building on this observation, we propose $\\mathbb{C}+\\text{Mag}$, a magnitude-informed physics-driven deep learning reconstruction method. Th",
+    "link": "http://arxiv.org/abs/2608.18036v1",
+    "publishedAt": "2026-08-18",
+    "categories": [
+      "eess.IV",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG",
+      "physics.med-ph"
+    ]
+  },
+  {
+    "id": "arxiv-2608.18033v1",
+    "title": "Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry",
+    "authors": [
+      "Emma Ceccherini",
+      "Daniel Lawson",
+      "Anjulika Salhan"
+    ],
+    "summary": "Categorising invoices into the correct General Ledger (GL) code underpins financial reporting and tax compliance. This is a skilled accounting judgement rather than a routine task: the correct category depends subtly on the nature of the purchasing business, the vendor and the invoice text. Whilst AI is increasingly being adopted across industries to automate tasks, including invoice categorisation, implementations built on in-house small language models (SLMs) can simultaneously reduce cost and improve data security, confidentiality, and interpretability. We investigate this approach by first analysing the pre-trained embedding geometry of a small sentence transformer (SBERT) and classic SLM (DeBERTa). The sentence-embedding space of this financial corpus is globally anisotropic but compo",
+    "link": "http://arxiv.org/abs/2608.18033v1",
+    "publishedAt": "2026-08-18",
     "categories": [
       "stat.ML",
-      "cs.LG",
-      "stat.AP"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16861v1",
-    "title": "The canonical facets of multi-separator polytopes",
-    "authors": [
-      "Bjoern Andres",
-      "Silvia Di Gregorio",
-      "Jannik Irmai",
-      "Lucas Fabian Naumann",
-      "Shengxian Zhao"
-    ],
-    "summary": "We initiate a polyhedral study of the graph multi-separator problem proposed by Irmai et al. (2024) as an alternative to the lifted multicut problem for application to the task of image segmentation. Starting with an integer linear program (ILP) formulation and the multi-separator polytope spanned by its feasible solutions, we characterize in terms of efficiently-decidable, graph-theoretic conditions all facets induced by inequalities of the ILP. We proceed by strengthening these inequalities and describing additional facets of some multi-separator polytopes induced by the stronger inequalities. Specifically, we obtain a totally dual integral description of the multi-separator polytope for paths in the case where separation is considered for all vertex pairs. Finally, we relate the multi-s",
-    "link": "http://arxiv.org/abs/2608.16861v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.DM",
-      "cs.LG",
-      "math.CO"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16856v1",
-    "title": "zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting",
-    "authors": [
-      "Girish G N",
-      "Ashutosh Sahoo",
-      "Akshay SP",
-      "Gurukiran S",
-      "Dhanashekar Kandaswamy"
-    ],
-    "summary": "Decentralized lending lacks a credit bureau: a borrower's capacity to repay must be inferred entirely from public on-chain activity, without income verification or a liability record. This paper presents zLend, a deployed cash-flow underwriting framework that reconstructs a wallet's daily balance history from raw token transfers and derives short-duration repayment-capacity signals from it. The reconstruction is performed twice per wallet, once restricted to a fixed stablecoin basket and once over all fungible transfers, on the premise that a wallet's total token holdings and its liquid, spendable balance are distinct quantities whose conflation misprices risk. From each series we derive liquidity coverage against a fixed loan size, cash-flow volatility and regularity, a drawdown-and-recov",
-    "link": "http://arxiv.org/abs/2608.16856v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "q-fin.RM",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.16852v1",
-    "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+    "id": "arxiv-2608.18027v1",
+    "title": "Chain-of-Experience for Continual LLM Improvement",
     "authors": [
-      "Saisab Sadhu",
-      "Aadit Sengupta",
-      "Vinay Kumar Sankarapu",
-      "Pratinav Seth"
+      "Haoqin Tu",
+      "Yunhao Fang",
+      "Yizhong Wang",
+      "Cihang Xie",
+      "Shen Yan"
     ],
-    "summary": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform policy. Such monitoring is meaningful only if a detector's verdict depends on the stated rule rather than on surface features of the scenario. We show this condition fails across the current class of compliance detectors, a failure we call rule blindness. Deleting, permuting, or substituting the governing rule leaves detection accuracy unchanged for every guard and activation probe we test, including a policy-conditioned guard that correctly cites the governing clause yet barely changes its verdict when that clause is swapped for its permissive counterpart.",
-    "link": "http://arxiv.org/abs/2608.16852v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experience (CoE), where models accumulate experiential traces through iterative interactions with self or environmental feedback to form a continual improvement loop beyond zero-shot inference. We instantiate CoE with diverse feedback mechanisms, including model self-feedback and environmental signals such as correctness or public coding test pass rates, and evaluate across math, coding, and knowledge domains using 8 LLMs, including GPT-5, Gemini-2.5 Pro, Claude-4.5 Sonnet. Our study shows that leveraging",
+    "link": "http://arxiv.org/abs/2608.18027v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16844v1",
-    "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
-    "authors": [
-      "Reza Bayat",
-      "Ali Behrouz",
-      "Vahab Mirrokni",
-      "Aaron Courville"
-    ],
-    "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capacity of memory is progressively expanded as the context grows. Imposing an early bottleneck forces the model to compress history more effectively, while unlocking fresh capacity over time reduces interfe",
-    "link": "http://arxiv.org/abs/2608.16844v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.16837v1",
-    "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+    "id": "arxiv-2608.18026v1",
+    "title": "TabNSM: Neural Sparse Mixer for Tabular Regression",
     "authors": [
-      "Langzhe Gu",
-      "Chengkai Hou",
-      "Meng Li",
-      "Xinhua Wang",
-      "Jiaming Liu",
-      "Xinyuan Lv",
-      "Bowei Zhang",
-      "Shuanghao Bai",
-      "Guangrun Li",
-      "Jingyang He",
-      "Gaole Dai",
-      "Ziluo Ding",
-      "Zhiyuan Xu",
-      "Kuan Cheng",
-      "Jian Tang",
-      "Zhengping Che",
-      "Shanghang Zhang"
+      "Ali Eslamian",
+      "Qiang Cheng"
     ],
-    "summary": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid motions make it challenging for conventional single-stage VLA architectures to coordinate locomotion, waist posture, and dual-arm manipulation effectively. Moreover, policies trained through offline behavior cloning can remain suboptimal during real-world deployment. Although online reinforcement learning can refine policies through real-world interaction, directly tuning large VLA backbones demands excessive computation and may introduce safety risks during real-robot exploration. To address these bottlenecks, we ",
-    "link": "http://arxiv.org/abs/2608.16837v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Large-scale, high-dimensional tabular regression remains challenging: tree-based models are robust but lack end-to-end representation learning, while deep models enable flexible feature learning but often incur costly interaction modeling and sensitivity to noisy or redundant features. We propose TabNSM, a scalable regression framework that extends our earlier sparse-attention and mixer architectures. At its core, the Adaptive Sparse Interaction Module (ASIM) integrates foreground feature discovery, sparse local interaction encoding, and Feature-Token Mixing, providing near-linear complexity under fixed sparse configurations. For regression, TabNSM introduces three complementary components: a Multi-Stage Regression Head for progressive prediction refinement; GridLoss, an ordinal-aware soft",
+    "link": "http://arxiv.org/abs/2608.18026v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.RO",
-      "cs.AI"
+      "cs.LG",
+      "cs.CE"
     ]
   },
   {
-    "id": "arxiv-2608.16834v1",
-    "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+    "id": "arxiv-2608.18025v1",
+    "title": "Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System",
     "authors": [
-      "Enric Boix-Adsera",
-      "Benedict Tessler"
+      "Yi Wang"
     ],
-    "summary": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model hypnosis occurs across model families and scales, including in frontier reasoning models, and hypnotic prompts can transfer between models. Because the model is controlled by inconspicuous textual choices, such as paraphrases and typos, model hypnosis presents new challenges and avenues for AI safety, and is a major hurdle for AI interpretability.",
-    "link": "http://arxiv.org/abs/2608.16834v1",
-    "publishedAt": "2026-08-17",
+    "summary": "GPT-style models achieve strong performance by representing language with finite vocabularies of reusable discrete tokens. This success has motivated symbolic music tokenizations to treat recurring musical structures, such as chords, motifs, and phrases, as reusable units analogous to linguistic tokens. However, tokenization derives its advantage not from reusable combinations alone, but from compression: effective compression requires coordinates in which recurring regularities form stable and predictable conditional distributions. The key problem is therefore not to find larger musical combinations, but to discover the coordinate system in which musical facts become predictively compressible. We formulate the Effectiveness--Losslessness Framework and define tokenization as the constructi",
+    "link": "http://arxiv.org/abs/2608.18025v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.CL",
-      "cs.AI"
+      "cs.LG",
+      "cs.AI",
+      "cs.SD"
     ]
   },
   {
-    "id": "arxiv-2608.16833v1",
-    "title": "Time-Aware Validation of Machine Learning Fuel Consumption Models: Evidence from 1\\,Hz Operational Data, CCGS \\textit{Sir Wilfrid Laurier}",
+    "id": "arxiv-2608.18021v1",
+    "title": "Revisiting WEASEL 2.0: Reproduction, Sensitivity, and an Adaptive Ensemble-Size Rule",
     "authors": [
-      "Samarasimha Reddy Chittamuru",
-      "Ayhan Akinturk",
-      "Allison Kennedy",
-      "Joshua Barnes",
-      "Matthew Hamilton"
+      "Cian Higgins",
+      "Gerard Carrigan",
+      "Pinar Sungu Isiacik",
+      "Georgiana Ifrim"
     ],
-    "summary": "Ship fuel consumption (SFC) prediction supports vessel operation optimisation, emissions estimation, and decision support systems (DSS) for sustainable maritime transportation. Numerous data-driven fuel models have been developed over the past two decades, but a critical and often overlooked limitation lies in their validation practices: most studies evaluate performance using random train--test splits, which, applied to high-frequency records, admit temporal leakage and yield optimistic results that do not reflect deployment conditions. This paper examines that gap using time-aware evaluation, specifically Time Series Cross-Validation (TSCV) and Blocked TSCV (BTSCV). Using the Canadian Coast Guard Ship (CCGS) \\textit{Sir Wilfrid Laurier} as a case study, six regression models and a physic",
-    "link": "http://arxiv.org/abs/2608.16833v1",
-    "publishedAt": "2026-08-17",
+    "summary": "WEASEL 2.0 is a dictionary-based time series classifier that combines dilated sliding windows with a randomised hyperparameter ensemble and a fixed-size dense feature representation. Two of its hyperparameter choices, the maximum ensemble size and the maximum window size, are specified by simple thresholding rules whose chosen thresholds are not empirically justified in the original paper. In this work we reproduce WEASEL 2.0 on 114 UCR datasets, achieving a mean accuracy of 0.865 and median of 0.928, closely matching the published values (Wilcoxon signed-rank, p = 0.655). We then test the sensitivity of four design choices: the downstream classifier, the absence of feature weighting, the maximum window-size rule, and the maximum ensemble-size rule. The first three are robust to perturbati",
+    "link": "http://arxiv.org/abs/2608.18021v1",
+    "publishedAt": "2026-08-18",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.16831v1",
-    "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+    "id": "arxiv-2608.18017v1",
+    "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
     "authors": [
-      "Minh-Ha Nguyen",
-      "Cathy Shyr"
+      "Lu Xu",
+      "Xu Li",
+      "Linjiang Zheng",
+      "Fan Li",
+      "Riquan Zhang",
+      "Jiaxing Shang"
     ],
-    "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reasoning and tool-use trajectories to localize recurrent failures and form candidate revisions; the expert may reinterpret the evidence and retains authority over admission and rollback, while Recall@1 and ",
-    "link": "http://arxiv.org/abs/2608.16831v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable domain knowledge to translate them into operationally meaningful explanations. Large Language Models (LLMs), which excel at language reasoning, bring a promising solution to this issue. However, applying LLMs in this domain presents key challenges such as modal inconsistency, limited classification ability, scarcity of task-specific data for fine-tuning, and lack of domain knowledge. To overcome these challenges, we propose FlightLLM, a prior-guided semantic LLM-based approach for interpretable ",
+    "link": "http://arxiv.org/abs/2608.18017v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.16829v1",
-    "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
-    "authors": [
-      "Jonathan Sadeghi",
-      "Jenny Seidenschwarz",
-      "Jesse Allardice",
-      "Sirish Srinivasan",
-      "Benjamin Graham",
-      "Jeffrey Hawke"
-    ],
-    "summary": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely over a whole dataset, leaving the fine-grained aleatoric uncertainty of specific phenomena untested. We introduce CaliBench, which scores outcomes in a physically interpretable discrete space - a bin index, a die face, a suit, a colour - rather than a learned feature space such as in FID, so the distance from a known reference distribution is measured directly. We curate outcome spaces whose reference is known in closed form (binomial Galton boards, Bernoulli forks, uniform dice/cards/lottery, a skewed European-roulette colour), enabling an exact calibration test. We decompose performance into two",
-    "link": "http://arxiv.org/abs/2608.16829v1",
-    "publishedAt": "2026-08-17",
-    "categories": [
-      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.16824v1",
-    "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+    "id": "arxiv-2608.18011v1",
+    "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
     "authors": [
-      "Junjie Chu",
-      "Ye Leng",
-      "Mingjie Li",
-      "Yun Shen",
-      "Xinyue Shen",
-      "Yang Zhang"
+      "Eduardo Sánchez",
+      "Rita Berrada",
+      "Dan-Mircea Mirea",
+      "Sara Rajaee",
+      "Alexander Piperski",
+      "Ana Meta Dolinar",
+      "Boris Iomdin",
+      "Andrey Nikulin",
+      "Mariya Shmatova",
+      "Marzieh Fadaee",
+      "Julia Kreutzer"
     ],
-    "summary": "Generative Engine Optimization (GEO) modifies web content to increase its likelihood of being selected and cited by generative search engines. This can give strategically optimized pages visibility disproportionate to their authority or relevance and even make weak or false information appear well supported. Unlike conventional search, generative search synthesizes information into direct answers rather than presenting competing sources, which can further amplify these risks, as assessing source provenance and authority requires additional user interaction. Despite these concerns, systematic methods for detecting GEO-optimized webpages remain underexplored. We introduce \\texttt{GEOFlagBench}, a benchmark of 3,200 webpages spanning 400 queries, four domains, and eight GEO optimizer families",
-    "link": "http://arxiv.org/abs/2608.16824v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Reasoning in LLMs is overwhelmingly studied in domains that provide a model with rules: mathematics and code. Linguistic puzzles invert this: the solver must first discover the system before reasoning within it. We present the IOL-AI Challenge, an open-science competition run on the unseen problems of the International Linguistics Olympiad (IOL) 2026 Individual Contest, evaluated both automatically and, for the first time, by members of the official IOL Jury under the same rubrics applied to human contestants. The challenge drew 731 submissions from 46 teams under a strict compute budget (one T4, 30 mins). We additionally benchmark 15 unconstrained frontier and open models, with Claude Opus 4.8 earning a jury score equivalent to a gold medal, while both resource-constrained systems we subm",
+    "link": "http://arxiv.org/abs/2608.18011v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.LG",
-      "cs.CR",
-      "cs.IR"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.16813v1",
-    "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+    "id": "arxiv-2608.18008v1",
+    "title": "Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents",
     "authors": [
-      "Steve Brown"
+      "Christophe D. Hounwanou",
+      "John Emeka Eze",
+      "Yaé U. Gaba"
     ],
-    "summary": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept writes now and clean later, keep one time axis or none, treat every writer's facts as equally trustworthy, and leave governance to dashboards and middleware. These four defaults are individually convenient and jointly untenable under agent workloads. We present Quipu, an embeddable store that inverts all four: no fact enters except through a gate whose predicates evaluate the pending post-state; data, trust labels, verdicts, and the rules themselves are bitemporal; named graphs are the unit of authority and trust, composed under a lattice whose one invariant is that composition never widens; and the governance specification $Σ$, the trace, and signed verdicts are facts in",
-    "link": "http://arxiv.org/abs/2608.16813v1",
-    "publishedAt": "2026-08-17",
+    "summary": "Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when the LLM per-state progress score is used as a bounded potential function, the resulting shaping term preserves the optimal policy set even when the LLM scores are inaccurate. This guarantee is stronger than what general LLM-as-reward approaches provide. We verify the result numerically on a small MDP under four potential configurations, including an adversarial one scaled to twenty times the base reward magnitude.",
+    "link": "http://arxiv.org/abs/2608.18008v1",
+    "publishedAt": "2026-08-18",
     "categories": [
-      "cs.AI",
-      "cs.DB"
+      "cs.LG",
+      "cs.AI"
     ]
   }
 ];
@@ -957,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-19T01:00:59.541Z';
+export const dataFetchedAt = '2026-08-19T06:37:12.662Z';
