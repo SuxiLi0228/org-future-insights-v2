@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-how-people-really-use-ai-and-flock-8217-s-desig-1787055000000",
-    "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
-    "publishedAt": "2026-08-18",
+    "id": "news-the-download-ai-s-self-improvement-problem-and-what-s-drivin-1787141400000",
+    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+    "publishedAt": "2026-08-19",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cursor-capitalizes-on-github-frustration-launches-rival-host-1787091265000",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "publishedAt": "2026-08-18",
+    "id": "news-ai-isn-8217-t-close-to-curing-cancer-this-startup-says-it-kn-1787140800000",
+    "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
+    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "summary": "It's the data, stupid.",
+    "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,17 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-research-reveals-leadership-readiness-gap-amid-rapid-wor-1787056267000",
-    "title": "New research reveals leadership readiness gap amid rapid workplace change",
-    "link": "https://hrexecutive.com/new-research-reveals-leadership-readiness-gap-amid-rapid-workplace-change/",
-    "summary": "Despite high levels of confidence, managers report gaps in AI readiness, change management, employee support and other critical leadership capabilities. The post New research reveals leadership readiness gap amid rapid workplace change appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
+    "id": "news-10-ways-criminals-are-using-ai-to-fuel-fraud-1787141727000",
+    "title": "10 ways criminals are using AI to fuel fraud",
+    "link": "https://hrexecutive.com/top-10-ways-criminals-are-using-ai-scams/",
+    "summary": "Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. More than 1 in 10 successful scams in 2025 involved AI or deepfakes, which contributed to a 1,210% surge in AI-enabled scams, according to an analysis from BrokerChooser. That year, the FBI received more than 22,000 complaints involving [&#8230;] The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
+    "publishedAt": "2026-08-19",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1787101163000",
-    "title": "郭富城换车，30万级顶配华为全家桶",
-    "link": "https://www.qbitai.com/2026/08/475009.html",
-    "summary": "5.3米六座家用SUV",
+    "id": "news-wrc-2026-1787136847000",
+    "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+    "link": "https://www.qbitai.com/2026/08/475931.html",
+    "summary": "",
     "publishedAt": "2026-08-19",
     "source": "量子位",
     "tags": [
@@ -68,10 +67,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787119916000",
-    "title": " 楼市，重磅利好来袭？ ",
-    "link": "https://www.huxiu.com/article/4884222.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 诺奖得主萨拉马戈在《里斯本围城记》的开篇写道：未达真实，则无法修正。然若不予修正，则无法达到真实。 如今的中国楼市，正处于萨拉马戈的真实和修正，修正与真实。 房地产整体冷淡，只有一线城市很热闹 8月17日，国家统计局公布了70大中城市的房价情况。结果，一个世界，两种面貌。 一线城市的情况，让人欣慰，甚至欣喜。二手房主导市场的时代，7月份，4个一线城市房价环比上涨0.2%，为2026年3月份以来，连续第5个月保持环比上涨。 新房表现虽然不如二手房，但并没有下跌。7月，一线城市新房价格从上个月的环比增长0.1%转为持平。 四座一线城市里，只有北京新房环比下跌，跌幅为0.3%，其他三个城市仍然是环比上涨的。或许因为表现落后于沪深广，所以北京8月8日出台了新的楼市政策，赶在金九银十前加码刺激。 据中国房地产报，北京新政最大的看点是，公积金支持力度大幅上调。调整前，首套房公积金贷款额度和新房总价中位数的比值为27%。调整后大幅提高至58% 新政后，双职工家庭公积金最多可贷340万，且利率低至2.6%。 新政出炉后，北京房地产热度明显增加。据北京商报报道，一些中介门店二手房周末（新政后首周）带看量环比增长超过四成，低总价小户型率先放量。 据pti监测数据，8月10日至8月16日，北京二手房成交量环比上扬10%。 另一个衡量一线城市冷热的核心指标—",
+    "id": "news--1787142498000",
+    "title": " 袁新意：中国数学人才培养已经发生质变，但青年教师科研压力过大 ",
+    "link": "https://www.huxiu.com/article/4884367.html?f=rss",
+    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：侯慧静 8月13日，未来科学大奖委员会正式公布2026年度获奖名单。今年的“数学与计算机科学奖”授予北京大学北京国际数学研究中心教授袁新意，以表彰其在算术几何领域作出的奠基性贡献，特别是创立Arakelov几何中的算术大性理论，并将其应用于一致Bogomolov猜想和一致Mordell猜想。 就在不久前的国际数学家大会上，袁新意受邀分享学术报告。开幕式结束后，他与同伴一起等电梯，听到几个外国人在聊天。他们说，“China is taking over math.” 这句话令袁新意印象深刻。 “Taking over”就是“接管”的意思，说“中国正在接管数学”，意指大会上浓厚的中国元素——四位菲尔兹奖得主中，王虹和邓煜均为中国籍数学家。 获得未来科学大奖后，袁新意接受媒体采访，谈起中国数学的发展，思考中国应该营造怎样的学术氛围，也谈到在人工智能（AI）越来越会“解题”的今天，人为什么仍要学会提出问题。以下是主要采访内容。 袁新意。受访者供图 数学与产业日益紧密 问：像你研究的Mordell猜想、Bogomolov猜想，其实对常人来说完全看不懂，人类为什么要花费大量精力，攻克这些看似“没有现实用处”的猜想？ 袁新意： 我做这些研究多半出于自己的兴趣，因此研究时出发点简单。 历史上许多理论在提出时，无人知晓它的用处，多年后人们才能意识到",
+    "publishedAt": "2026-08-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ipo-1787141367000",
+    "title": "沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察",
+    "link": "https://www.tmtpost.com/8108904.html",
+    "summary": "93% 收入押注单一市场，分销模式增长成色待考。",
+    "publishedAt": "2026-08-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-child-monitoring-apps-might-need-a-reboot-1787130000000",
+    "title": "Child-monitoring apps might need a reboot",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
+    "publishedAt": "2026-08-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-you-can-venmo-your-college-tuition-for-some-reason-1787140800000",
+    "title": "You can Venmo your college tuition, for some reason",
+    "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+    "summary": "Kids these days don't know how good they have it.",
+    "publishedAt": "2026-08-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-anthropic-s-trust-reckoning-raises-questions-for-workplace-a-1787140845000",
+    "title": "Anthropic’s trust reckoning raises questions for workplace AI policy",
+    "link": "https://hrexecutive.com/anthropics-trust-reckoning-raises-questions-for-workplace-ai-policy/",
+    "summary": "Anthropic's CEO calls AI backlash a \"crisis of trust.\" Here's what SB 53 and Claude's new watermark mean for HR leaders. The post Anthropic’s trust reckoning raises questions for workplace AI policy appeared first on HR Executive .",
+    "publishedAt": "2026-08-19",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hr-pros-summer-reading-list-2026-1787080260000",
+    "title": "HR pros’ summer reading list 2026",
+    "link": "https://www.hrdive.com/news/hr-pros-summer-reading-list-2026/828164/",
+    "summary": "These recommendations include books from our own summer reading lists as well as ones from HR Dive&rsquo;s readers.",
+    "publishedAt": "2026-08-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-2026-1787134329000",
+    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+    "link": "https://www.qbitai.com/2026/08/475907.html",
+    "summary": "超维动力KAI全栈具身智能硬核登场",
+    "publishedAt": "2026-08-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-46025-1787142018000",
+    "title": " 净利暴增46025%，石药创新能靠“卖项目”走多远？ ",
+    "link": "https://www.huxiu.com/article/4884364.html?f=rss",
+    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：王丽，原文标题：《净利暴增46025%！石药创新能靠“卖项目”走多远？》 8月17日，石药创新交出更名后的首份半年报：上半年营业收入32.40亿元，同比增长208.72%；归母净利润12.61亿元，同比增长46025.71%。 这样炸裂的数字一般只出现在科技股，没想到医药股也行了。 石药创新业绩暴增，主要是因为子公司巨石生物的BD款兑现。今年1月，巨石生物和阿斯利康签约，双方合作开发多肽分子和长效递送产品，首付款4.2亿美元。5月底的时候这笔钱到账，按协议约定70%计入当期营业收入，所以公司生物制药业务收入才能飙升到22.62亿元，其中真正来自已上市药品的销售收入其实只有1.75亿元。 BD的一次性收入自然还会体现在今年年报中，不过未来持续性就无法保证了。 6月以来，石药创新股价有近80%的涨幅，基本兑现了业绩表现。 据国家药监局数据，2026年上半年，中国创新药对外授权达到81笔，合同潜在总额约1100亿美元。其中，海思科收到多笔授权款后，预计净利润增长5倍以上；泽璟制药确认6.62亿元许可收入，占总营收约一半以上，首次实现半年度盈利。BD收入带动公司业绩增长，带来投资机会，这是今年创新药行业的特点之一。 阿斯利康买的，不只是一款减肥药 阿斯利康今年和石药的合作非常广泛，巨石生物只是系列合作中的一部分。阿斯利康真正购买的，也不",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +173,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787116798000",
-    "title": "当开源大模型开始谈分成",
-    "link": "https://www.tmtpost.com/8107377.html",
-    "summary": "Kimi K3与Qwen3.8-Max接连引入收入分成条款，开源正从无偿使用走向免费增值。",
+    "id": "news--1787141140000",
+    "title": "和而泰半年报：汇兑吞掉三成利润，汽车电子难掩主业承压 | 看财报",
+    "link": "https://www.tmtpost.com/8109300.html",
+    "summary": "财务费用暴涨 335%，汽车电子高增难补缺口。",
+    "publishedAt": "2026-08-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-how-people-really-use-ai-and-flock-8217-s-desig-1787055000000",
+    "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+    "publishedAt": "2026-08-18",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-relativity-networks-raises-22-million-to-bring-a-faster-kind-1787133600000",
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "publishedAt": "2026-08-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-samsung-trained-employees-on-ai-did-anything-actually-change-1787139906000",
+    "title": "Samsung trained employees on AI. Did anything actually change?",
+    "link": "https://hrexecutive.com/samsung-trained-employees-on-ai-did-anything-actually-change/",
+    "summary": "As Samsung reskills its workforce from the top down, Samsung Indonesia’s Christine Josephine shares why leadership makes change believable and what it takes to make it stick. The post Samsung trained employees on AI. Did anything actually change? appeared first on HR Executive .",
+    "publishedAt": "2026-08-19",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
+    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
+    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
+    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
+    "publishedAt": "2026-08-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-idc-2026-ai50-360-1787128476000",
+    "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+    "link": "https://www.qbitai.com/2026/08/475901.html",
+    "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+    "publishedAt": "2026-08-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-mpa-ai-1787141921000",
+    "title": " 字节-MPA签订AI版权治理架构：输出侧治理、输入侧“再议” ",
+    "link": "https://www.huxiu.com/article/4884361.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖 2026年8月17日，字节跳动与美国电影协会（MPA）签署谅解备忘录（MOU），就字节旗下的Seedance视频模型、Seedream图像模型等平台知识产权保护建立“合作框架”。MPA主席Charles Rivkin称双方将“实施有意义的护栏”，字节跳动总法律顾问John Rogovine表示，“负责任的AI创新与对权利人的切实保护密不可分”。 值得注意的是，这是一份“输出侧的治理框架协议”，而非训练数据（输入侧）的授权合同。MPA官方稿明确，协议的目的是“在Seedance和Seedream上维护强护栏”，覆盖的产品矩阵式TikTok、CapCut、Dramina等用户触达层。公开信息中协议并未披露任何财务条款、许可费、片库授权范围等。因此，无论媒体说的“休战”还是“开放版权库”，都有所误读。 这个微妙的差异很重要，因为它揭示了AI版权治理中一个更为真实的商业诉求甚至是未来方向：输出侧护栏而非输入侧阻断才更直接地呈现了影视公司的核心利益，也有利于AI公司在发展业务的同时采取有效的保护措施。这一点，既能在近期迪士尼诉Midjourney案中找到依据和教训，又符合美国目前整个AI版权治理的大趋势。 一、美国国会立法路径：透明而非禁止 2026年6月30日，美国众议院司法委员会举行了一场“40岁中年危机”的听证",
+    "publishedAt": "2026-08-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dau-1787137646000",
+    "title": "支付宝何以不再执念DAU",
+    "link": "https://www.tmtpost.com/8109230.html",
+    "summary": "蚂蚁不再要求每一次服务调用都回到支付宝App，希望由此扩大跨端服务的覆盖范围，并增加服务调用和交易发生的可能。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -107,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-doj-8217-s-probe-into-andreessen-horowitz-over-board-seats-b-1787085380000",
-    "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
-    "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+    "id": "news-cursor-capitalizes-on-github-frustration-launches-rival-host-1787091265000",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -120,195 +305,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-isn-8217-t-replacing-human-decision-making-at-work-just-y-1787056178000",
-    "title": "AI isn&#8217;t replacing human decision-making at work just yet",
-    "link": "https://hrexecutive.com/ai-isnt-replacing-human-decision-making-at-work-just-yet/",
-    "summary": "\"AI is quickly becoming part of how work gets done, but these findings show workers do not want it to have the final say in workplace decisions,\" said Keith Spencer, career expert at Resume Now. The post AI isn&#8217;t replacing human decision-making at work just yet appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-pros-summer-reading-list-2026-1787080260000",
-    "title": "HR pros’ summer reading list 2026",
-    "link": "https://www.hrdive.com/news/hr-pros-summer-reading-list-2026/828164/",
-    "summary": "These recommendations include books from our own summer reading lists as well as ones from HR Dive&rsquo;s readers.",
-    "publishedAt": "2026-08-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-b-max-10-99-14-39-1787051222000",
-    "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-    "link": "https://www.qbitai.com/2026/08/474907.html",
-    "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
-    "publishedAt": "2026-08-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787119200000",
-    "title": " 旺旺面临“重大经营危机”，真是因为太\"甜\"了吗？ ",
-    "link": "https://www.huxiu.com/article/4883997.html?f=rss",
-    "summary": "去年旺旺米果营收增长几乎停滞，旺仔牛奶也跌入存量竞争泥潭。网友集体呼吁减糖，不是要毁掉记忆的味道，而是盼望一口无负担的童年甜蜜。",
+    "id": "news-why-95-of-ai-investments-fail-the-cfo-test-1787139031000",
+    "title": "Why 95% of AI investments fail the CFO test",
+    "link": "https://hrexecutive.com/why-95-of-ai-investments-fail-the-cfo-test/",
+    "summary": "AI investment has been built around quantitative technology while it's evaluated with qualitative HR metrics, a gap that costs billions. The post Why 95% of AI investments fail the CFO test appeared first on HR Executive .",
     "publishedAt": "2026-08-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-municipal-capital-tries-to-turn-ai-tokens-into-a-metered-uti-1787115782000",
-    "title": "Municipal Capital Tries to Turn AI Tokens into a Metered Utility",
-    "link": "https://www.tmtpost.com/8108581.html",
-    "summary": "In Guangzhou, district-backed platforms are selling model inference by the token while banks experiment with loans sized to that consumption. The efforts show local state firms searching for recurring revenue from AI infrastructure as traditional development models slow.",
-    "publishedAt": "2026-08-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-role-of-the-astronaut-is-in-flux-1787043600000",
-    "title": "The role of the astronaut is in flux",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-tiktok-explores-peer-to-peer-payments-via-dms-report-says-1787083436000",
-    "title": "TikTok explores peer-to-peer payments via DMs, report says",
-    "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-    "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-    "publishedAt": "2026-08-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-demand-for-this-leadership-skill-has-spiked-350-since-last-y-1787055334000",
-    "title": "Demand for this leadership skill has spiked 350% since last year",
-    "link": "https://hrexecutive.com/demand-for-this-leadership-skill-has-spiked-350-since-last-year/",
-    "summary": "A new study based on proprietary data from Heidrick &#038; Struggles highlights what organizations are looking for in interim leaders and experts as technology and other factors reshape organizational strategy. The post Demand for this leadership skill has spiked 350% since last year appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
-    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
-    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
-    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
-    "publishedAt": "2026-08-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1787049623000",
-    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-    "link": "https://www.qbitai.com/2026/08/474868.html",
-    "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
-    "publishedAt": "2026-08-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-4000-1787119188000",
-    "title": " 宇树4000亿：王兴兴终于等来机器人觉醒 ",
-    "link": "https://www.huxiu.com/article/4884210.html?f=rss",
-    "summary": "本文来自微信公众号： 投新 ，作者：阿聪，题图来自：视觉中国 2026年8月19日，科创板开盘，宇树上市，股价直奔1100元，A股人形机器人第一股终于登场，较150.80元的发行价大幅上涨629.44%；截至发稿，市值一度拉升4000亿元左右。 过去几年，那些会翻滚、跳舞、打拳的钢铁身影，一次次闯入央视春晚和朋友圈；如今，它们跟随一家成立十年的公司，走到了上市。 站在宇树科技背后的，是王兴兴。与擅长描绘宏大未来的科技创业者不同，他更像一名始终没有离开工作台的工程师。面对镜头，他谈论最多的仍然是电机、关节、算法和成本，以及机器人什么时候才能真正走进工厂、家庭和普通人的生活。 在他的世界里，未来不是写在演讲稿里的，而是一个又一个零件、一行又一行代码，是机器人摔倒之后能不能自己站起来，也是一项曾被关在实验室里的昂贵技术，能不能被造得足够便宜。 那场红杉投决会上，王兴兴给描绘了这样一个愿景： 我希望造一个很大的机器人，比奥特曼比山还大；造一个很小的机器人，到微米级进入到人的血管常驻，治疗各种疾病；我还希望用机器人来造机器人。 从两万元的XDog，到一年营收近17亿元；从一个人的毕业设计，到数万台机器人走向全球，王兴兴走了十余年。这不是一个天才突然改变世界的故事，而是一名工程师在机器荒原里反复拆解、反复失败，最终为中国机器人造出一副身体的故事。 从两万元的机器狗出发，一个工程师走进钢铁荒原 ",
-    "publishedAt": "2026-08-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-deepmind-ai-for-science-1787110875000",
-    "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
-    "link": "https://www.tmtpost.com/8107695.html",
-    "summary": "AGI的“最后一英里”",
-    "publishedAt": "2026-08-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-s-recursive-self-improvement-might-not-come-so-quickly-af-1787043600000",
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-openai-institutes-new-safeguards-after-hugging-face-breach-1787076000000",
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "publishedAt": "2026-08-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eeoc-hearing-reveals-split-over-proposed-end-to-eeo-1-report-1787054451000",
-    "title": "EEOC hearing reveals split over proposed end to EEO-1 reporting",
-    "link": "https://hrexecutive.com/eeoc-hearing-reveals-split-over-proposed-end-to-eeo-1-reporting/",
-    "summary": "EEOC hearing highlights arguments for and against ending EEO-1 reporting, offering HR leaders a closer look at what’s at stake in that rule. The post EEOC hearing reveals split over proposed end to EEO-1 reporting appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -330,11 +331,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8221-ai-ai-1787047454000",
-    "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-    "link": "https://www.qbitai.com/2026/08/474857.html",
-    "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
-    "publishedAt": "2026-08-18",
+    "id": "news-minimax-1787127785000",
+    "title": "MiniMax核心工程负责人阿岛离职",
+    "link": "https://www.qbitai.com/2026/08/475869.html",
+    "summary": "从技术研发到开发者沟通，长期活跃在开发者一线",
+    "publishedAt": "2026-08-19",
     "source": "量子位",
     "tags": [
       "china",
@@ -343,23 +344,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4400-1787118561000",
-    "title": " 4400亿！宇树的狂欢和隐忧 ",
-    "link": "https://www.huxiu.com/article/4884214.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：阿伦，原文标题：《4400亿！宇树的狂欢和隐忧》 7.44%流通股造就的狂欢定价之下，宇树仍要回答几个高估值绕不开的问题。 定焦One（dingjiaoone）原创 8月19日，A股“人形机器人第一股”宇树科技正式登陆科创板。集合竞价阶段，公司股价大幅高开629.44%，以1100元/股开盘，较150.80元的发行价上涨949.20元，对应总市值4449亿元。 对参与打新的投资者而言，这是2026年以来最丰厚的一只“肉签”。以500股一签、7.54万元的缴款金额计算，中一签浮盈47.46万元。而根据8月13日晚间披露的发行结果公告，网上投资者缴款认购969.83万股，放弃认购8734股；网下投资者缴款认购2265.01万股，无一弃购。以开盘价计算，那些在最后时刻放弃认购的人，各自错失了将近50万元的收益。 亢奋的定价并未维持太久。开盘约十分钟后，宇树股价回落至895元附近，市值稳定在3600亿元上下。即便如此，这一水平仍超出许多一级市场投资人的预期。挂牌之前，一部分保守的投资人认为宇树至少值2000亿元，激进者看到4000亿元。 一场财富的重新分配随之完成。创始人王兴兴合计持股约1.21亿股，以开盘价计算持股市值达1335.73亿元，正式跻身千亿身家。外部股东中，账面收益最大的或许是美团：美团系合计持有宇树发行前9.6",
+    "id": "news-anthropic15-1787141921000",
+    "title": " Anthropic15亿美元和解：案件已了，法律问题才刚开始 ",
+    "link": "https://www.huxiu.com/article/4884360.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖，原文标题：《Anthropic 15亿美元和解：案件已了，法律问题才刚开始》 2026年7月20日，加州北区联邦法院法官Araceli Martínez-Olguín签署最终批准令，Anthropic就使用盗版书籍训练Claude一事支付15亿美元和解金，覆盖约48.2万至50万部作品，折合每部约3000美元。这是美国版权史——也是AI时代——迄今规模最大的版权和解。 但这项裁决最重要的意义或许在于它未解决的问题：15亿美元不是”AI训练合理使用的定价”，Anthropic和版权作者都算不得这场游戏的赢家，而美国国会正在同步推进的立法，才是真正决定AI训练数据未来的那条线。 一、15亿美元标价的是”盗版获取”，不是”AI训练” 要理解这笔和解，必须回到2025年6月23日Alsup法官那份32页的简易判决裁定。这位以”软件工程师式严谨”著称的法官做了一个关键二分： 1、训练行为本身：将合法取得的书籍输入模型训练Claude，构成合理使用；购买纸质书后扫描数字化：不构成额外侵权； 2、从盗版影子图书馆下载并永久存储700多万本书：构成”固有、不可救药的侵权”。 这项和解协议并未推翻之前的裁决。相反，案件的焦点现在集中在Anthropic公司从LibGen和PiLiMi等影子图书馆中下载和存储文件的行为上。 也",
     "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787110576000",
-    "title": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
-    "link": "https://www.tmtpost.com/8108451.html",
-    "summary": "从“生成内容”转向“理解上下文并在世界中行动”。",
+    "id": "news--1787135799000",
+    "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
+    "link": "https://www.tmtpost.com/8109017.html",
+    "summary": "任务决定能力，任务决定形态。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -370,11 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-flock-s-defenders-are-missing-1786994169000",
-    "title": "What Flock’s defenders are missing",
-    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
-    "publishedAt": "2026-08-17",
+    "id": "news-the-role-of-the-astronaut-is-in-flux-1787043600000",
+    "title": "The role of the astronaut is in flux",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+    "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;",
+    "publishedAt": "2026-08-18",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -382,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-au-1787074261000",
-    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "id": "news-doj-8217-s-probe-into-andreessen-horowitz-over-board-seats-b-1787085380000",
+    "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
+    "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -762,6 +764,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136972",
+    "title": "Maintenance Fitter",
+    "company": "Power FM Bega Bay",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTU1LjYwLjE4Mw== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4Mw==)",
+      "This is a beta feature to avoid spam applicants",
+      "Companies can search these words to find applicants"
+    ],
+    "skills": [],
+    "location": "Moruya, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
+    "postedAt": "2026-08-18",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136946",
     "title": "Maintenance and Grounds Officer",
     "company": "Department of Education and Training",
@@ -773,6 +792,27 @@ export const generatedJobs: JobPosting[] = [
     "location": "Katherine, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
+    "postedAt": "2026-08-17",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136970",
+    "title": "Sales Team Member Cotton On Ballina Fair",
+    "company": "Cotton On Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Description Do you speak fashion",
+      "We're hiring",
+      "Born in Australia, loved around the world",
+      "At Cotton On, we know good style goes well beyond what's in your wardrobe"
+    ],
+    "skills": [
+      "RAG",
+      "Spark"
+    ],
+    "location": "Ballina, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970",
     "postedAt": "2026-08-17",
     "isNew": true
   },
@@ -959,4 +999,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-19T06:37:12.662Z';
+export const dataFetchedAt = '2026-08-19T12:38:50.896Z';
