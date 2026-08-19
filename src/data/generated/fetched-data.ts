@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-institutes-new-safeguards-after-hugging-face-breach-1787076000000",
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "id": "news-cursor-capitalizes-on-github-frustration-launches-rival-host-1787091265000",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -41,16 +41,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
-    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
-    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
-    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
+    "id": "news-kroger-settles-claims-it-wouldn-t-give-cashier-a-chair-or-st-1787080260000",
+    "title": "Kroger settles claims it wouldn’t give cashier a chair or stool following cancer treatment",
+    "link": "https://www.hrdive.com/news/kroger-settlement-cashier-chair-stool-cancer-treatment/828181/",
+    "summary": "Multiple attempts to contact the chain&rsquo;s management and HR staff failed, EEOC claimed, providing insight into how the ADA&rsquo;s interactive process can break down.",
     "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -67,23 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787069378000",
-    "title": " 董明珠办技校当校长，毕业优先进格力，褪去情怀滤镜，其本质是制造业的一笔人力生意 ",
-    "link": "https://www.huxiu.com/article/4884076.html?f=rss",
-    "summary": "本文来自微信公众号： 每日经济新闻 ，编辑：段炼杜恒峰，作者：每经记者，原文标题：《董明珠办技校当校长，毕业优先进格力！褪去情怀滤镜，其本质是制造业的一笔人力生意丨每经热评》 8月18日，72岁的董明珠办技校当校长的消息登上热搜。珠海市格力技工学校首届招300名初中毕业生，学费9000元/年~15000元/年，首批开设制冷、模具、智能装备等九大专业，部分专业视情况开设格力特色班，实行定向培养，推行“入校即入企，毕业即适岗”办学模式，学生毕业后优先进入格力及产业链企业实习就业。 图为珠海市格力技工学校校长寄语 而就在3个月前的5月初，北京多所中职学校提前招生受到热捧，家长冒雨排了通宵，原本4天的招生窗口期，部分中职学校1天就贴出“已满”通知。 中职学校不再是“差生集中营”，但董明珠办技校也不纯粹是“情怀”。我们褪去滤镜可以看到，格力技校，本质上是上市公司直面制造业用工痛点开展的一场商业属性的产教融合试验：把部分招工与培训成本社会化，前置自建劳动力蓄水池。 根据教育部、人社部、工信部联合发布的《制造业人才发展规划指南》预测，2025年我国制造业十大重点领域人才缺口近3000万；我国高技能人才占就业人员比重约8%。 格力电器2025年末员工约71966人，较上年净减842人；生产人员49684人，较上年末减少1151人。 据媒体此前报道，有格力前员工称，2021年校招进格力做办公室技术岗",
-    "publishedAt": "2026-08-18",
+    "id": "news-a2a-1787099729000",
+    "title": " A2A，未来职场新形态？ ",
+    "link": "https://www.huxiu.com/article/4884090.html?f=rss",
+    "summary": "本文来自微信公众号： 穆宁Morning ，作者：穆宁 先说一个正在发生的画面 一个AI写方案，另一个AI审方案。两个人坐在屏幕两端，负责复制、粘贴、转发，以及假装自己刚刚认真思考过。 目录 01方案是怎么在没人认真写的情况下完成的 02a2a不是协作，更像一条自动扶梯 03以后拼的，可能不是输出，是分辨率 04老板也在悄悄变成AI的用户 05最荒诞的时刻可能是大家都觉得挺好 上周，一个做品牌的朋友给我讲了个段子。 她当天要给老板提一个品牌营销策划方案。 她说，自己前前后后只花了半小时。 不是花半小时做方案，是花半小时决定让哪个AI来做。 第一个AI负责搭框架，第二个AI负责补案例，第三个AI负责把语气改得不像AI。她把内容拼好，改了几个预算数字，发给老板。 两小时后，老板回了一页修改意见：KOL选择缺少依据，线下活动预案不足，预算结构还可以细化。 她看了两眼，立刻反应过来： “这也不是老板写的。” 那天她没忍住笑了。 这大概就是未来职场最常见的画面之一。 我把它叫作a2a。 不是Agent to Agent。没那么高级。 就是AI to AI。 01 方案是怎么在没人认真写的情况下完成的 以前做方案，最难的是从零开始。 你得查资料、搭框架、想标题、补案例。写到一半还会卡住，盯着空白文档发呆，觉得自己脑子像被谁格式化了。 现在不一样了。 空白页没了。 你只需要给AI一句话：“帮我做",
+    "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787067092000",
-    "title": "汽车卖得更多、手机卖得更贵，小米却更难赚钱了",
-    "link": "https://www.tmtpost.com/8108046.html",
-    "summary": "汽车持续放量、手机加速高端化，但利润同步承压，小米新的增长接力尚未完成。",
+    "id": "news-5-1500-1787095200000",
+    "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
+    "link": "https://www.tmtpost.com/8107897.html",
+    "summary": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -106,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-au-1787074261000",
-    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "id": "news-doj-8217-s-probe-into-andreessen-horowitz-over-board-seats-b-1787085380000",
+    "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
+    "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -132,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rethinking-rto-researchers-highlight-the-positive-impact-of--1787063100000",
-    "title": "Rethinking RTO? Researchers highlight the positive impact of remote work",
-    "link": "https://www.hrdive.com/news/rto-future-of-work-summer-2026/828127/",
-    "summary": "In a year where retention is top of mind for employers, conversations highlighting the benefits of remote work may be crucial.",
+    "id": "news-hr-pros-summer-reading-list-2026-1787080260000",
+    "title": "HR pros’ summer reading list 2026",
+    "link": "https://www.hrdive.com/news/hr-pros-summer-reading-list-2026/828164/",
+    "summary": "These recommendations include books from our own summer reading lists as well as ones from HR Dive&rsquo;s readers.",
     "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
@@ -158,11 +160,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787069223000",
-    "title": " 告别惯性增长，楼市彻底变了 ",
-    "link": "https://www.huxiu.com/article/4884075.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《告别惯性增长，楼市彻底变了！》 这几年我一直在思索，中国楼市到底如何破局，未来会走向何方。 随着过去两三年调控的深入，市场也取得了比较不错的成果，头部国央企营收超过2000亿元，北上广深杭成等城市还有地王，豪宅卖得还不错，上海二手房连续几个月突破或接近3万套，大部分城市的挂牌量下降了不少。总之，市场不断被修复，好事。 今天不想谈太宏观的话题，接地气一点，谈一个大家很熟悉，但其实你不太明白的一个话题： 我们到底是如何去库存的。 以前我的老领导，讲过一个道理，楼市就是分蛋糕。 以前政府做庄，政府、银行、开发商拿大头，老百姓拿小头，甚至还要倒贴钱。 这明显不公平嘛。 于是这套运行了30多年的逻辑，需要从底层重新解构，肯定不是之前那套从上到下分配的逻辑，而是按劳分配，政府求着开发商拿地，银行哄着购房者买房，开发商必须拿出更好的产品，相应的，购房者也需要足够的首付和更加稳健的现金流。 比如去库存，其实非常复杂。 从上到下，谁都知道要去库存、要减量供地、要做好产品、要提振信心。但是很明显，这是政治正确，一旦落地，每一个角色就会出现问题，地方政府不敢真停卖地，房企不敢真不拿地，开发商不敢随便降成本，老百姓不敢真买房。 今天把这个最拧巴的死结，掰开揉碎讲清楚。 政府不卖地行不行？ 短期不行，长期可以。 不是地方政府不懂去库存，可是没钱地",
-    "publishedAt": "2026-08-18",
+    "id": "news--1787099239000",
+    "title": " 朱雀三号回收成功，但离真正复用还有多远？ ",
+    "link": "https://www.huxiu.com/article/4884088.html?f=rss",
+    "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 朱雀三号遥二成功入轨，一级随后返回航区回收场，依靠发动机反推与着陆腿完成软着陆。 这次任务同时完成了入轨和回收。蓝箭航天由此成为我国首家完成轨道发射并成功回收一级的民营火箭企业，朱雀三号也实现了国内采用着陆腿的轨道级火箭一级回收。 中国轨道级一级可控回收的第一面旗帜，已经由长征十号乙在7月10日拿走。长十乙采用海上网系捕获，朱雀三号依靠发动机反推与着陆腿落地。两种方案各有自己的技术取舍，一次成功还不足以判定高下。朱雀三号遥二没有改写“中国首次”，它推进的是民营商业航天和着陆腿路线各自的工程进度。 这些意义都可以确认，没有必要继续拔高。 纪录之外，双成功真正改变的是蓝箭所受的评价。 此前几年，评价朱雀三号相对直接。入轨、返回和着陆都有清晰结果，一次任务结束，外界大致就能作出判断。 一级落地以后，很多判断已经不能在一次飞行里完成。回收证明它回得来，复用价值还要等拆检和复飞。 在这之前，时间属于研发。从这一天起，时间开始计入成本。 01 首先要说清楚，今天成功的究竟是哪一种朱雀三号。截至发稿，蓝箭尚未完整披露遥二相较遥一的具体构型变化，因此本次成功能够覆盖到哪些升级状态，还要以蓝箭航天后续技术披露为准。 蓝箭在2023年发布的朱雀三号设计构型全长76.6米，一级使用9台天鹊12B发动机，二级采用天鹊15B。按照公开指标，这一状态下一次性低轨运",
+    "publishedAt": "2026-08-19",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -171,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787061905000",
-    "title": "浦发银行半年报：双增的业绩，三个待解的问号",
-    "link": "https://www.tmtpost.com/8106244.html",
-    "summary": "浦发银行这份半年报，是一面镜子。",
+    "id": "news--1787067092000",
+    "title": "汽车卖得更多、手机卖得更贵，小米却更难赚钱了",
+    "link": "https://www.tmtpost.com/8108046.html",
+    "summary": "汽车持续放量、手机加速高端化，但利润同步承压，小米新的增长接力尚未完成。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -197,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-etched-8217-s-valuation-doubles-to-21b-in-a-month-1787073718000",
-    "title": "Etched&#8217;s valuation doubles to $21B in a month",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "id": "news-tiktok-explores-peer-to-peer-payments-via-dms-report-says-1787083436000",
+    "title": "TikTok explores peer-to-peer payments via DMs, report says",
+    "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
@@ -224,17 +226,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jobs-exist-but-are-harder-to-fill-hiring-managers-say-1787063040000",
-    "title": "Jobs exist but are harder to fill, hiring managers say",
-    "link": "https://www.hrdive.com/news/jobs-exist-but-are-harder-to-fill-hiring-managers-say/828089/",
-    "summary": "Survey respondents said it can take four weeks to hire for available roles and that they permanently close some positions before finding the right candidate.",
+    "id": "news-workers-report-fobo-a-fear-of-becoming-obsolete-1787064600000",
+    "title": "Workers report ‘FOBO’ — a fear of becoming obsolete",
+    "link": "https://www.hrdive.com/news/workers-report-fobo-a-fear-of-becoming-obsolete/828115/",
+    "summary": "Most workers told ETS and The Harris Poll that upskilling &ldquo;is no longer a choice&rdquo; but also that it was hard to get employer support on the matter.",
     "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -251,10 +252,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787061900000",
-    "title": "闪购大战的灰烬中之二：顺丰同城拿起了扫帚和拖把",
-    "link": "https://www.tmtpost.com/8106116.html",
-    "summary": "白天给KA送单，晚上给KA打烊。",
+    "id": "news--1787098200000",
+    "title": " 发布会不是用来发布老板的 ",
+    "link": "https://www.huxiu.com/article/4883952.html?f=rss",
+    "summary": "本文来自微信公众号： 一口老炮 ，作者：杨丁Frank，题图来自：视觉中国 现在有个奇葩的现象，一场发布会下来，人们记不住企业发布了什么，但是对于台上企业家吹的牛，倒是充满了二创和吐槽的欲望，很多媒体感慨，这活妥妥的像一个又一个大型诈骗现场，拿完车马费后，姑且再坐一会，听场相声。 上周，荣耀发布了新手机，有一说一，产品有创新，但是老板李健很下头。 发布会话术，以及随后媒体采访环节，除了继承到了上一任的爱吹之外，还看到了很多油腻感，传播思维停留在上个世纪，前面雷军和余承东踩的坑，似乎一点警示没起。 这引发了一个很有趣的话题， 今天的发布会，重点到底是产品还是老板？ 反正荣耀这场发布会之后，我看到媒体关注的更多的是李健的一些&ldquo;语不惊人死不休&rdquo;，而产品本身却被忽略了，我不理解这是李健的个人诉求，还是荣耀传播团队过于内卷。 理论上，荣耀今天的江湖地位，其实不允许老板如此高调，用低调的姿态讲述一款结合云台和手机的创新产品，效果会更好。 这种老板取代产品，成为发布会后期传播核心的思路，在过去几年非常流行，主要核心手段，就是一个字&ldquo;吹&rdquo;，如果要加个前置条件，那就是&ldquo;敢吹&rdquo;，导致现在某些企业家在社交媒体只要一说话，就会有弹幕弹出来，&ldquo;全民反诈，人人有责&rdquo;。 尤其最近，整个短视频宇宙中，余承东和雷军，已经",
+    "publishedAt": "2026-08-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787061905000",
+    "title": "浦发银行半年报：双增的业绩，三个待解的问号",
+    "link": "https://www.tmtpost.com/8106244.html",
+    "summary": "浦发银行这份半年报，是一面镜子。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -277,17 +291,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alte-1787073133000",
-    "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-    "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-    "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+    "id": "news-openai-institutes-new-safeguards-after-hugging-face-breach-1787076000000",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -304,11 +317,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-premiums-out-of-pocket-costs-dominate-americans-healthcare-c-1786998660000",
-    "title": "Premiums, out-of-pocket costs dominate Americans’ healthcare concerns, survey shows",
-    "link": "https://www.hrdive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827909/",
-    "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
-    "publishedAt": "2026-08-17",
+    "id": "news-rethinking-rto-researchers-highlight-the-positive-impact-of--1787063100000",
+    "title": "Rethinking RTO? Researchers highlight the positive impact of remote work",
+    "link": "https://www.hrdive.com/news/rto-future-of-work-summer-2026/828127/",
+    "summary": "In a year where retention is top of mind for employers, conversations highlighting the benefits of remote work may be crucial.",
+    "publishedAt": "2026-08-18",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -330,10 +343,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787061726000",
-    "title": "雪山派第一到天下第一，影石的路有多远？",
-    "link": "https://www.tmtpost.com/8106238.html",
-    "summary": "在雪山派，他可以是第一。出了雪山派，他需要重新接受比较。",
+    "id": "news--1787098118000",
+    "title": " 从日本看老龄化下医疗开支四大趋势 ",
+    "link": "https://www.huxiu.com/article/4884086.html?f=rss",
+    "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 随着中国的快速老龄化，医疗开支的增长虽然会持续，但医疗开支的变化趋势将决定医疗产业的发展模式。由于日本是老龄化最严重的发达国家，从其医疗开支的演变趋势可以提供一定的借鉴意义。 日本医疗开支呈现出4个特征：老龄化对医疗开支的推动作用逐渐减弱，但共病成为增速的主要动力，门诊的占比逐步上升，药品费用增速持续维持在5%以下，医院持续大面积亏损。 首先，老龄化早期虽然对医疗开支的增速提供了主要的推动力，但随着时间的推移，老龄化对费用增长的贡献率会逐步下降。 2023财年，日本医疗总开支为48万亿日元，65岁以上的开支占比达到60%，而75岁以上的开支占比达到39.8%。 虽然65岁以上的医疗开支占比远超65岁以下，但老龄化对医疗费用的增长点贡献率已经减半，从从2010财年的1.6%降至2023财年的0.7%。相比之下，“医疗进步及其他因素”的贡献率呈上升趋势，并在2022和2023财年显著超过了老龄化因素的影响。这意味着随着新技术的发展，医疗费用开支的增速主要来自新治疗模式和药品的推动，老年人口的增长已经不是最主要的因素。 当然，老年人在整体医疗开支中占比超过60%的现状很难逆转，只是增速得到了控制。 其次，门诊的占比持续上升，与住院开支占比相差已经很小。在总医疗开支中，住院治疗占37.1%，",
+    "publishedAt": "2026-08-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787061900000",
+    "title": "闪购大战的灰烬中之二：顺丰同城拿起了扫帚和拖把",
+    "link": "https://www.tmtpost.com/8106116.html",
+    "summary": "白天给KA送单，晚上给KA打烊。",
     "publishedAt": "2026-08-18",
     "source": "钛媒体",
     "tags": [
@@ -356,42 +382,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-comcast-adds-motion-sensing-to-millions-of-its-newer-routers-1787071145000",
-    "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-    "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-    "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+    "id": "news-save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-au-1787074261000",
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
     "publishedAt": "2026-08-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-financial-wellness-is-a-transformation-too-1787052648000",
-    "title": "Financial wellness is a transformation, too",
-    "link": "https://hrexecutive.com/financial-wellness-is-a-transformation-too/",
-    "summary": "\"One thing that work has taught me is that transformation almost never happens by accident,\" writes Mary Faulkner. And financial wellness is no exception. The post Financial wellness is a transformation, too appeared first on HR Executive .",
-    "publishedAt": "2026-08-18",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-walgreens-gets-partial-win-over-ex-manager-it-claimed-closed-1786998600000",
-    "title": "Walgreens gets partial win over ex-manager it claimed closed stores too early",
-    "link": "https://www.hrdive.com/news/walgreens-gets-partial-win-over-ex-manager-race-bias/828072/",
-    "summary": "Neither of the two racial comparators put forth by the plaintiff to show disparate treatment were sufficiently similar, a New Mexico federal judge determined.",
-    "publishedAt": "2026-08-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
       "ai"
     ]
   }
@@ -937,7 +936,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576",
     "postedAt": "2026-08-12",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136585",
@@ -954,8 +953,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
     "postedAt": "2026-08-12",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-18T18:32:30.179Z';
+export const dataFetchedAt = '2026-08-19T01:00:59.541Z';
