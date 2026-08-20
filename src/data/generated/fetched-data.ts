@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-startup-helping-wall-street-put-a-price-on-ai-compu-1787160408000",
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+    "id": "news-stripe-didn-8217-t-really-buy-openrouter-because-of-the-8216-1787182320000",
+    "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
+    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -40,16 +40,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
-    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
-    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
-    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
+    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
+    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
+    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
+    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -66,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787157900000",
-    "title": " 《牛来》：把一坨屎吃出巧克力味 ",
-    "link": "https://www.huxiu.com/article/4884408.html?f=rss",
-    "summary": "本文来自微信公众号： 锵稿 ，编辑：徐元，作者：子戈，原文标题：《《牛来》：把一坨屎吃出巧克力味｜子戈专栏》 未来的中国电影史，不会写下《牛来》。可是，我们这一代人恐怕都不会忘记它。 关于这部电影，无论从哪个角度出发，得出哪种结论，似乎都很有道理，但显然都不够全面。 最关键的是，这部电影究竟是怎么制作和发行的，至今没有任何真正有媒体价值的新闻报道。 所以，如果说它是一面哈哈镜，那它何止照出了中国电影的窘态呢？ ——锵稿主编徐元 《牛来》占领电影院 作者介绍：影评人，锵稿主理人。不够温和的中间派，文字比本人犀利十倍。 01 《牛来》本身不值一提，谈它，是因为背后的文化现象。 从前有道题让无数人挠破了头，是选择巧克力味的屎，还是屎味巧克力。而《牛来》的出现提供了第三个选项——没有巧克力，纯屎，而且包装都没有，手捧着就端上来了（手搓五年）。十分好奇，是什么原因让无数观众自掏腰包为烂片买单？ 于是跑去影院一睹真容，过程也颇为奇特。检票员眼神异样，同场观众心照不宣，大家显然已被短视频切片充分教育过，不仅对名场面如数家珍，就连出现的时机都能精准掐算。 散场时，有个男生忽然鼓起掌，大喊道：“这绝对是划时代的作品！”也听不出是赞美还是反讽。正如这个事件本身，已经让固有的价值坐标出现紊乱。 02 现在回想起来，自己也是有点少见多怪了。置身影院，有那么一刻，我甚至感觉自己在参加中国电影的喜丧。大家都在",
-    "publishedAt": "2026-08-19",
+    "id": "news--1787186735000",
+    "title": " 业绩激增，股价腰斩，存储芯片龙头三成利润靠炒股 ",
+    "link": "https://www.huxiu.com/article/4884430.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻记者，作者：张艺，原文标题：《业绩激增，股价腰斩！存储芯片龙头三成利润靠炒股》 存储芯片龙头兆易创新（603986.SH）8月18日晚间披露中报。 上半年公司实现营业收入115.66亿元，同比增长178.67%；实现归母净利润68.57亿元，同比增长1091.50%；扣非归母净利润48.83亿元，同比增长791.90%。 兆易创新用半年时间赚出了过去5年的利润总和，验证了存储超级周期的爆发力。 单季来看，一季度归母净利润14.61亿元，二季度53.96亿元，环比增长约269%，盈利大幅放量。 市场的反应冰冷。这份中报与业绩预告相差无几，7月首披之时，如此业绩未能阻止公司股价深跌。最近虽有所反弹，但8月19日公司股价仍重挫7.56%，最新收盘价403.71元/股，较最高价腰斩。短短50天，公司市值已蒸发约3300亿元，最新市值2800亿元左右。 市场在疑虑什么？ 疑虑一：存储“超级周期”带来的高毛利能持续多久？ 兆易创新业绩暴增的核心驱动力是存储芯片的量价齐升。 兆易创新是国内存储芯片和MCU（微控制器产品）双龙头，主要产品包括存储器、微控制器、传感器和模拟芯片。由中报可见，存储芯片业务是拉动业绩增长的主因。 此前，存储芯片业务在公司营收占比为七成左右，2026年上半年这一业务占比直接上升至约85%，贡献了营收98.27亿元，同比增幅2",
+    "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -79,11 +80,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1787143798000",
-    "title": "从作业帮AI超级老师，看教育AI应用落地的更多可能",
-    "link": "https://www.tmtpost.com/8109259.html",
-    "summary": "AI可以像特级教师一样教孩子，这让AI在教育场景的落地有了全新典范。",
-    "publishedAt": "2026-08-19",
+    "id": "news-edge-ai-daily-8-20-1787185894000",
+    "title": "Edge AI Daily 早报（8月20日）",
+    "link": "https://www.tmtpost.com/8109604.html",
+    "summary": "亚马逊Alexa+免费覆盖Fire TV，推动AI上电视模式；谷歌122亿美元认股权绑定美满电子定制AI芯片，挑战博通；Anthropic拟设超级投票权备战IPO，万亿估值控制权架构受关注；李飞飞警告美国反AI情绪威胁社会许可；微软Defender更新导致全球扫描卡死，暴露安全供应链风险。",
+    "publishedAt": "2026-08-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -106,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-t-mobile-8216-chopped-a-cable-8217-to-expel-chinese-hackers--1787160392000",
-    "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
-    "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-    "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+    "id": "news-waymo-8217-s-cheaper-next-gen-robotaxi-is-now-open-to-all-ri-1787178301000",
+    "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -132,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
-    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
-    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
-    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
+    "id": "news-salesforce-worker-must-arbitrate-gender-based-discrimination-1787171280000",
+    "title": "Salesforce worker must arbitrate gender-based discrimination case",
+    "link": "https://www.hrdive.com/news/salesforce-worker-must-arbitrate-gender-based-discrimination-case/828309/",
+    "summary": "Gender-based allegations that don&#39;t involve sexual harassment cannot invoke the Ending Forced Arbitration Act, a court determined.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
@@ -158,11 +159,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787157788000",
-    "title": " 王兴很开心，王兴兴不一定 ",
-    "link": "https://www.huxiu.com/article/4884415.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 今天关于宇树IPO的讨论，最热闹的地方都在算钱。 王兴兴身家涨了多少，美团王兴赚了多少，早期投资人浮盈多少，员工又拿到了多少财富。 这些数字确实足够诱人，也很惊人。 但在上市现场，我反而注意到了另一个细节。 王兴兴看起来很平静。 当然，我们不能仅凭一张照片判断一个人的情绪。但这个细节放进今天的宇树IPO里，确实有点意味。 同一场上市，对于王兴和王兴兴来说，可能是两件完全不同的事情。 王兴押中的一笔投资，终于开始兑现。王兴兴亲手做出来的公司，则从今天开始接受另一套规则的检验。 一、王兴很开心，王兴兴很平静 8月19日，宇树科技正式登陆科创板。 发行价150.80元 盘中最高1100元 收盘价845元 较发行价涨幅+460.34% 总市值约3418亿元 王兴兴直接持有23.82%的股份。按照收盘价计算，他的持股市值已经超过800亿元。 美团系是宇树重要的早期投资者之一，目前合计持股约9.65%。此外，红杉中国、经纬创投、腾讯、阿里等机构，都在这场IPO中获得了可观的账面收益。 于是，一场标准的IPO造富故事出现了。 可王兴兴站在台上的时候，似乎没有特别兴奋。 这其实很好理解。 自从创立宇树以来，他最重要的事情一直是把机器人做出来。今天突然发现，公司已经值3400多亿元。 对于一个创业者来说，这当然值得高兴。 可与此同时，另一个事实也摆在面前",
-    "publishedAt": "2026-08-19",
+    "id": "news--1787186417000",
+    "title": " “天边”能让贾国龙重新证明自己吗？ ",
+    "link": "https://www.huxiu.com/article/4884429.html?f=rss",
+    "summary": "本文来自微信公众号： 独立思考 ，作者：潘大叔 1、经历了罗永浩引发的“预制”舆论风波和西贝大规模闭店后，贾国龙今年又重新做了新品牌“天边砂锅焖面”和“天边羊多”。 2、“天边砂锅焖面”和“天边羊多”最大的特色就是主打现制现做，这是和西贝最大的切割点，也是贾国龙和网友几轮交锋后意识到吵不明白就“服从”的结果。这没错，一个卖东西的和消费者较劲那是不会有好果子吃的。 3、至于两个“天边”能不能成功，现在只能打个问号。但是“天边”对于贾国龙的意义可能会超过西贝，这或许是他最后一次机会了。 4、毕竟，除了西贝，贾国龙从来没证明过自己。无论是走西贝子品牌路线的西贝燕麦面、西贝酸奶屋，还是新品牌路线的麦香村、满满元气枣糕、超级肉夹馍、弓长张，或是主打贾国龙个人品牌的贾国龙中国堡、贾国龙功夫菜、贾国龙小锅牛肉，无一例外的全都失败了。贾国龙没有复制出西贝的成功。而是不断的在复制失败，这最起码说明一点西贝并没有可什么可复制的方法论，他们的“军师”华与华也没有，否则不可能有“九败一胜”的贾国龙。 5、经历了舆论风波的西贝，现在也难言一胜了。如果说过往的那些新品牌是在西贝高歌猛进时寻找的第二增长曲线，那么现在“天边”品牌则是在西贝岌岌可危时救亡图存的“保命”之举了。“天边”能成吗？ 6、且不论“天边”这个品牌名称本身好坏，我最大的疑问是为什么八竿子打不着的“砂锅焖面”和“羊多”要共用一个品牌。你做“天边",
+    "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -171,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1787141367000",
-    "title": "沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察",
-    "link": "https://www.tmtpost.com/8108904.html",
-    "summary": "93% 收入押注单一市场，分销模式增长成色待考。",
+    "id": "news-460-sk-40-1787181600000",
+    "title": "【钛晨报】事关每个人看病报销，全民医保“十五五”规划发布；宇树科技上市首日收涨460%，京东也发布机器人战略；三星据悉上调芯片代工价格，SK海力士抛出40万亿韩元回购",
+    "link": "https://www.tmtpost.com/8109408.html",
+    "summary": "特斯拉上线豆包大模型；韩国QFI已买入长鑫科技；“大家电BU解散”风波四起，追觅相关人士回应；中微公司上半年净利润同比增长300%；恒瑞医药拟以10亿至20亿元回购公司A股股份；国家发改委召开“六张网”重大项目协调调度机制会，完善“六网协同”工作推进机制。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -197,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-time-8217-s-running-out-save-300-on-your-techcrunch-disrupt--1787156178000",
-    "title": "Time&#8217;s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "id": "news-openai-seeks-to-one-up-anthropic-with-new-customer-privacy-p-1787177446000",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -224,17 +225,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-only-daily-ai-users-feel-positively-about-job-security-1787150100000",
-    "title": "Only daily AI users feel positively about job security",
-    "link": "https://www.hrdive.com/news/daily-ai-users-job-security/828242/",
-    "summary": "Unclear AI policies and a lack of training are compounding employee concerns about the technology, a SurveyMonkey and CNBC survey found.",
+    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
+    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
+    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
+    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -251,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787156729000",
-    "title": " 如果宇宙也逃不过达尔文 ",
-    "link": "https://www.huxiu.com/article/4884414.html?f=rss",
-    "summary": "本文来自微信公众号： 范阳 ，编辑：范阳，作者：范阳 上周在短视频里面看到人们在西班牙拍摄的日全食，一位在现场的朋友说他也流泪了，人生当中能亲眼看到这样的“宇宙景象”应该会永远记得。如果有一天另一种智能生命也可以见到这样的景象而有所感，它应该会有一个awe-and-emotion bucket list，那些激发我们敬畏与情感的事物的参照系。 今天下午和一位在意大利的量子&amp;理论物理学家通电话，他除了喜欢“数学的海洋”，也迷恋地球上的海洋以及畅想有一天可以看到地球外的海洋。我们聊到“深度神经网络”被发明出来之后，它究竟能启发什么样的新科学理论？它会成为那个让人类更接近理解宇宙本质、物质本质或生命本质的“新事物”吗？ 话题又延伸到他发起的科学家合作研究小组：Emergent Geometries，这是一个聚焦时空（spacetime）本质的科学家社区，成员们会在意大利山区的夏日小屋（summer house）里围坐讨论，也在线上一起阅读、辩论、撰写论文。从这儿，我们又聊到了当下基础研究与技术开发的关系，以及围绕个人展开的基础研究课题，如今还能如何获得资金和资源的支持。我问到在欧洲现在有什么样不错的科研机构模式吗，他说理论物理周界研究所（Perimeter Institute for Theoretical Physics）很不错，是私人支持的研究机构，但是那是在加拿大。我说，巧",
-    "publishedAt": "2026-08-19",
+    "id": "news--1787185862000",
+    "title": " 马斯克宣称让盲人获得“超人视力”，他可能又把公众忽悠了 ",
+    "link": "https://www.huxiu.com/article/4884427.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：顾凡及 视觉占据了人类感知信息的八成以上，对失明者而言，重见光明是毕生的期盼。2025年，马斯克宣称其脑机接口公司Neuralink推出的视皮层假体“盲视”（Blindsight），将让盲人恢复视力，甚至实现“超人般”的多波段视觉。他的豪言真的可以实现吗？ 事实上，此前已有多家企业依托不同技术路线研发出多种视觉假体，并恢复了一定的视力。在这场让盲人复明的“技术竞赛”中，各家研发的进展如何？本文将深度拆解各类视觉假体的利弊得失，剥离科幻光环，回归科学本质。 人们经常说，“要像爱护眼睛那样爱护……”，足见视觉在人们心目中的重要性。确实，科学家也估算出我们所接收到的所有感觉信息中，视觉信息要占到八成。因此对盲人来说，哪怕只是恢复很小一部分视力都是天大的喜事。 现在治疗非神经性的致盲，如白内障和角膜变性，都已不再是难事。但是当致盲原因是神经性的时候，如视网膜黄斑变性（AMD），甚至整个眼球受伤，治疗依然是很大的挑战。虽然从生物学层面，研究者已研发出基因疗法等创新技术，但是目前基因疗法只能减缓病程，难以恢复已损伤的视觉。因此科学家开始探索工程技术路径，用脑机接口来恢复视觉。 其实，用脑机接口恢复视觉的思想由来已久。早在1967年，英国生理学家布林德利（Giles Brindley）就为一名盲人的视皮层中植入80个铂电极，通过电刺激使患者产生光感，患者能辨认",
+    "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -264,10 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787141140000",
-    "title": "和而泰半年报：汇兑吞掉三成利润，汽车电子难掩主业承压 | 看财报",
-    "link": "https://www.tmtpost.com/8109300.html",
-    "summary": "财务费用暴涨 335%，汽车电子高增难补缺口。",
+    "id": "news-ai-ai-1787143798000",
+    "title": "从作业帮AI超级老师，看教育AI应用落地的更多可能",
+    "link": "https://www.tmtpost.com/8109259.html",
+    "summary": "AI可以像特级教师一样教孩子，这让AI在教育场景的落地有了全新典范。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -290,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-terrapower-s-nuclear-reactor-has-a-secret-weapon-for-powerin-1787154293000",
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "id": "news-cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-1787176283000",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -316,18 +316,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chros-split-on-whether-managers-can-lead-through-ai-driven-c-1787150040000",
-    "title": "CHROs split on whether managers can lead through AI-driven change, Gallup finds",
-    "link": "https://www.hrdive.com/news/chros-split-on-whether-managers-can-lead-through-ai-driven-change/828244/",
-    "summary": "In addition to managerial training, HR leaders said their organizations are investing in &ldquo;centers of excellence&rdquo; and &ldquo;internal AI champions.&quot;",
+    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
+    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
+    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
+    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -344,11 +342,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787155648000",
-    "title": " 机构拆出两个快手 ",
-    "link": "https://www.huxiu.com/article/4884412.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月19号晚上，快手开了二季度发布会。 财报我翻了半天；收入涨了1.4%，账面利润跌了36%，直播继续缩水，广告增速没到它自己给的指引，数字没什么可说的。 这份财报真正要说的事，可能和利润没什么关系，因为这里有一个关键，快手把自己拆开卖了。 一个月前，快手公告，把旗下的视频生成大模型可灵拆出去，独立融资。三十多家机构抢着出价，标了180亿美元。 腾讯掏了13.63亿，阿里云掏了13.63亿，百度掏了3.41亿。 这三家打了多少年，上一次一起出现在一张投资名单上，谁也记不清了，名单里还有北京国资，还有做影视的华策，跟凑份子似的。 可灵是什么？ 快手2024年6月自研的视频生成大模型，文生视频、图生视频都行，业内第一个原生4K直出，它先做的。 这半年它很火，全球用户破亿，覆盖224个国家和地区，企业客户快5万家，戛纳创意节都拿了奖。 几个月前，两个创作者用可灵做了部AI短片《纸手机》，三天做完，全网播放破亿。火，是真有作品在说话。 可是呢？反差来了，它不挣钱。 2024年亏5亿，2025年亏19亿。收入11亿，亏19亿，挣一块，亏一块七。到去年底，可灵净资产负900万，欠的比有的还多。 快手2025年全年实打实赚了206亿，可灵一年亏19亿。差不多每赚十块，就有一块被它烧掉。 这样的生意，放在哪个上市公司里都是吞金兽。 养吞金兽是要花钱的，",
-    "publishedAt": "2026-08-19",
+    "id": "news--1787185138000",
+    "title": " 训练大模型的医生干不动了 ",
+    "link": "https://www.huxiu.com/article/4884422.html?f=rss",
+    "summary": "本文来自微信公众号： 健闻咨询 ，作者：健闻咨询，题图来自：AI生成 &ldquo;教会徒弟，饿死师傅&rdquo;。 在医疗AI圈，这句话的含金量还在上升。 过去几年，医疗大模型迅猛发展，除了不断迭代的技术能力外，医生群体的知识供养也必不可少。 打开招聘软件，相关岗位多如牛毛&mdash;&mdash;医疗大模型标注、预训练数据处理专员、AI医学审核、大模型专家&hellip;&hellip;薪资从10K&mdash;50K不等，薪资越高，对临床工作年限和职称的要求也越高。 帮助AI公司训练模型，医生的收获不止于一份报酬&mdash;&mdash;&ldquo;医疗+AI&rdquo;的世界充满想象，或许是下一个医学发展的前沿。 而硬币的另一面是，身处其中，他们或许会比同行更接近那个残酷的真相：一个会看病的AI到底有多强大，我们究竟是在造帮手还是造对手？ 《健闻咨询》访谈了三位有过医疗大模型工作经历的医生，他们有的是全职，有的是兼职；有人做大模型标注，也有人做产品评测；有刚毕业一两年的小医生，也有三甲医院的高年资医生。 但无一例外的是，他们都已经离开了那个曾经&ldquo;诱人&rdquo;的岗位。 上厕所要用跑的，纯纯的赛博民工 钟盛∣大模型标注三年，目前在民营医院工作 我是2019年毕业的，学的是临床医学方向。 从小我就对计算机、编程这些东西很感兴趣，但家里人一直希望我学医。",
+    "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -358,10 +356,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dau-1787137646000",
-    "title": "支付宝何以不再执念DAU",
-    "link": "https://www.tmtpost.com/8109230.html",
-    "summary": "蚂蚁不再要求每一次服务调用都回到支付宝App，希望由此扩大跨端服务的覆盖范围，并增加服务调用和交易发生的可能。",
+    "id": "news-ipo-1787141367000",
+    "title": "沃客非凡二闯港交所：一门印尼街头的好生意，却难成资本爱听的新故事 | IPO观察",
+    "link": "https://www.tmtpost.com/8108904.html",
+    "summary": "93% 收入押注单一市场，分销模式增长成色待考。",
     "publishedAt": "2026-08-19",
     "source": "钛媒体",
     "tags": [
@@ -384,10 +382,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rivian-spinout-also-raises-another-150m-1787153987000",
-    "title": "Rivian spinout Also raises another $150M",
-    "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-    "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+    "id": "news-travis-kalanick-kicks-off-another-round-of-vc-bashing-8216-1-1787176104000",
+    "title": "Travis Kalanick kicks off another round of VC bashing: &#8216;1% are helpful&#8217;",
+    "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+    "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -764,12 +762,29 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1136967",
+    "title": "Email Developer",
+    "company": "The Home Depot Canada",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Pay Range: $85,000 - $115,000 At The Home Depot Canada, we want you to feel valued and supported",
+      "The pay range you see represents base salary only",
+      "In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retiremen"
+    ],
+    "skills": [],
+    "location": "Toronto, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
+    "postedAt": "2026-08-18",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136972",
     "title": "Maintenance Fitter",
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4xNTUuMTExLjEx when applying to show you read the job post completely (#RNC4xNTUuMTExLjEx)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTg5LjE4OC41 when applying to show you read the job post completely (#RMjAuMTg5LjE4OC41)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants that re"
     ],
@@ -778,6 +793,23 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
     "postedAt": "2026-08-18",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136991",
+    "title": "Ground Staff Required Thiruvananthapuram Airport",
+    "company": "Fronix Services",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "They are the one to perform all tasks from comme"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Thiruvananthapuram, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991",
+    "postedAt": "2026-08-17",
     "isNew": true
   },
   {
@@ -814,6 +846,24 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970",
     "postedAt": "2026-08-17",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1136990",
+    "title": "Airport Ground Staff Freshers Kochi",
+    "company": "Fronix Services",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Contact Us 7082570898 We are looking for a Dynamic Candidate with good Communication Skill Roles and Responsibilities Greeting and welcoming passengers, and responding to questions",
+      "Checking in baggage",
+      "Making reservations",
+      "Selling airline tickets"
+    ],
+    "skills": [],
+    "location": "Kochi, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-freshers-kochi-fronix-services-1136990",
+    "postedAt": "2026-08-16",
     "isNew": true
   },
   {
@@ -926,7 +976,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596",
     "postedAt": "2026-08-13",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136690",
@@ -943,7 +993,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-marine-painter-amp-blaster-german-ship-repair-jamaica-limited-1136690",
     "postedAt": "2026-08-13",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136707",
@@ -961,8 +1011,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
     "postedAt": "2026-08-13",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-19T18:29:08.872Z';
+export const dataFetchedAt = '2026-08-20T01:01:01.822Z';
