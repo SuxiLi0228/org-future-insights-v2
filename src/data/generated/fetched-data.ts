@@ -2,28 +2,30 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-next-big-thing-in-hydrogen-could-be-underground-1787220000000",
-    "title": "The next big thing in hydrogen could be underground",
-    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "id": "news-debates-over-ai-consciousness-are-a-trap-1787240559000",
+    "title": "Debates over AI consciousness are a trap",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
     "publishedAt": "2026-08-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-meta-ai-8217-s-new-mac-app-wants-you-to-talk-to-your-apps-1787227917000",
-    "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "id": "news-linkdaze-s-smart-calendar-is-built-to-run-a-household-not-ju-1787250035000",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
     "publishedAt": "2026-08-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -40,17 +42,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
-    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
-    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
-    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
-    "publishedAt": "2026-08-19",
+    "id": "news-more-than-a-third-of-workers-say-their-retirement-age-has-mo-1787237460000",
+    "title": "More than a third of workers say their retirement age has moved later",
+    "link": "https://www.hrdive.com/news/workers-say-their-retirement-age-has-moved-later/827853/",
+    "summary": "Employees&rsquo; reasons for delaying retirement included the cost of living, not earning enough and not having enough savings.",
+    "publishedAt": "2026-08-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -67,16 +68,203 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787228623000",
-    "title": " 段永平又买回了没看懂的阿里 ",
-    "link": "https://www.huxiu.com/article/4884679.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 阿里刚发布了2027财年第一季度财报，整体来看，这是一季故事很漂亮、但盈利质量与资本回报确定性双降的财报。 老实说，这份财报没太多可说的。过去几个季度，阿里几乎面临的困境是一样的，高投入，利润承压，等一个还没到的拐点。 但前几天段永平的一个动作，反而提供了一个跳出财报，从侧面来看看今天的阿里。 前不久，段永平重新建仓了阿里，30.14万股，约2893万美元。 单独拎出来，这是个不小的动作。但放到他二季度持仓的191亿美元盘子里，仅占0.15%。 这个数字让人很难琢磨。 他到底是重新看好了阿里，还是，只是想再看看？ 一、他只重仓确定性 先看段永平押注的这张资产表。 根据美国证券交易委员会（SEC）披露，今年二季度末，段永平管理的H&amp;H International Investment美股持仓约191亿美元，18只股票。总市值比一季度少了将近10亿美元，且结构变了挺多。 前五大重仓，放了接近九成的钱。 苹果78.4亿美元·41.05% 伯克希尔B46.2亿美元·24.18% 拼多多19.1亿美元·9.99% 特斯拉14.2亿美元·7.44% 英伟达12.6亿美元·6.58% 苹果加伯克希尔，两家就有65%。 这不是传统意义上的资产配置表，更像一张段永平式的判断排序表。越确定，仓位越大；越没看懂，仓位越轻。 这一季度除了看段永平买了什",
+    "id": "news--1787245278000",
+    "title": " 摩尔线程这份半年报，仔细看全是问号 ",
+    "link": "https://www.huxiu.com/article/4884738.html?f=rss",
+    "summary": "本文来自微信公众号： 青澄财经 ，作者：青炯，编辑：六子 8月9日，摩尔线程发布上市后首份半年报。营收17.36亿元，同比增长147%，已超2025年全年，归母净利润亏损收窄95.73%至1156万元。 营收翻倍、亏损大幅收窄，从表面看确实是积极信号，不少市场声音认为摩尔线程“拐点将至”。但看财报不能只看增速和亏损收窄幅度，还要看营收是靠什么撑起来的？亏损收窄是经营改善还是会计因素？ 这些问题的答案，藏在这份成绩单的细节里。 01 「营收高增长，但增长质量存疑」 摩尔线程的营收增速确实漂亮，但有三个内在问题被市场质疑。 第一个被质疑的问题是基数低。 摩尔线程2022年营收仅4600万元，2023年1.24亿元，2024年4.38亿元，2025年15.06亿元，2026年上半年17.36亿元。从4600万到17亿，任何一笔大额项目确认都能制造高增长。2025年上半年其营收基数仅约7.03亿元，147%的高增速很大程度上被极低的同期基数放大；而上半年营收虽超过2025年全年，绝对增量仅2.3亿元，增长的绝对规模并不突出。 后续季度还能不能维持这个增速，取决于已签订单的实际交付节奏。财报显示待履约对应收入仅8752万元。这个数字和17.36亿元的营收规模之间存在不小差距。 *图源摩尔线程 第二个被质疑的问题是客户集中度高。 2025年全年，摩尔线程前五大客户销售占比91.36%。2026",
     "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology"
+    ]
+  },
+  {
+    "id": "news-mrna-a-1787236651000",
+    "title": "mRNA癌症疫苗首次闯过三期大关：千亿赛道启幕，A股卡位战提前打响丨行业风向标",
+    "link": "https://www.tmtpost.com/8110835.html",
+    "summary": "这场席卷两市的行情，导火索是大洋彼岸一则足以改写mRNA产业路径的临床进展。",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-polycrisis-support-networks-and-a-hydrogen-gold-1787227800000",
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-grok-keeps-sending-gibberish-responses-to-users-1787247136000",
+    "title": "Grok keeps sending gibberish responses to users",
+    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-vs-federal-ai-law-the-map-and-takeaways-every-hr-execu-1787228140000",
+    "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
+    "link": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
+    "summary": "Look into the states where direct regulation exists, where related but more limited laws have been enacted, and where legislation remains pending only. The post State vs. federal AI law: The map (and takeaways) every HR executive needs to study today appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-only-1-in-5-organizations-are-prepared-to-move-toward-autono-1787233680000",
+    "title": "Only 1 in 5 organizations are prepared to move toward autonomous AI agents, Deloitte finds",
+    "link": "https://www.hrdive.com/news/only-1-in-5-organizations-are-prepared-to-move-toward-autonomous-ai-agents/828324/",
+    "summary": "Poorly documented or misunderstood processes, fragmented data systems, and entrenched ways of working are impeding the transition, according to the report.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-openfit-2-ai-ai-1787220825000",
+    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+    "link": "https://www.qbitai.com/2026/08/476281.html",
+    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+    "publishedAt": "2026-08-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-wrc-1787243667000",
+    "title": " WRC｜触觉让世界模型更懂物理，也更难通用 ",
+    "link": "https://www.huxiu.com/article/4884735.html?f=rss",
+    "summary": "本文来自微信公众号： 先验实验室 ，作者：Vincent，编辑：吕鑫燚，原文标题：《WRC｜触觉让世界模型更懂物理，也更难通用》 今年以来，触觉赛道有了新变化。 从WRC可见，一些玩家讲的不再只是传感器硬件能力有多高，而是开始摆出自己的数据集、模型，甚至评测基准。围绕触觉的竞争，正在从从一块传感器，扩展到数据采集、模型训练和能力评估的整条链条。 这背后有一层容易被忽略的悖论：触觉能补上纯视觉模型看得见、摸不透的短板，让世界模型对物理世界的“想象”更靠谱；但同一次接触，换一个传感器、换一只手，反馈信号可能完全不同。这既是触觉眼下最大的价值，也是它最大的麻烦：它让模型更懂物理，也更容易被焊死在某一套硬件上。 如果只看出货，触觉还是一门硬件生意，但如果看2026年以来的投融资和产品消息，它却正在变成一门向着数据与模型靠拢的生意。 7月，千觉机器人同时发布数采夹爪、千小时视触觉数据集TacVerse 1k和触觉模型X-TouchMind V1。三者对应一条连续的技术链：采集设备记录操作中的画面、触觉和动作，数据集汇总这些记录，模型再从中学习如何完成任务。 类似变化也出现在其他公司。戴盟机器人4月发布含触觉的全模态数据集Daimon-Infinity，据其公开信息，首批1万小时数据已在阿里魔搭社区开源；6月又与银河通用发布触觉操作评测基准RobOmni，其亿元A轮融资也明确投向物理交互数据和",
+    "publishedAt": "2026-08-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-7-1787233536000",
+    "title": "在艰难市场环境中依然表现稳健的7只成长股",
+    "link": "https://www.tmtpost.com/8111062.html",
+    "summary": "Wolfe Research 甄选出七只股票，它们在严峻的市场环境中同时具备强劲的盈利能力、快速的销售增长以及积极的上涨动能。",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-next-big-thing-in-hydrogen-could-be-underground-1787220000000",
+    "title": "The next big thing in hydrogen could be underground",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-investor-8217-s-guide-to-techcrunch-disrupt-2026-everyth-1787246867000",
+    "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5-ways-hackers-are-targeting-employers-systems-1787227257000",
+    "title": "5 ways hackers are targeting employers’ systems",
+    "link": "https://hrexecutive.com/5-ways-hackers-are-targeting-employers-systems/",
+    "summary": "Ransomware remains a dominant concern, though hackers' tactics are shifting as artificial intelligence reshapes this landscape. The post 5 ways hackers are targeting employers’ systems appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gap-between-demand-and-hiring-widens-1787233680000",
+    "title": "Gap between demand and hiring widens",
+    "link": "https://www.hrdive.com/news/gap-between-demand-and-hiring-widens/828341/",
+    "summary": "More candidates are applying for jobs in manufacturing especially, but companies aren&rsquo;t successfully moving them into available roles, according to an ICIMS report.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-rsi-18-agent-kimi-k3-harness-opus-5-1787219183000",
+    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+    "link": "https://www.qbitai.com/2026/08/476199.html",
+    "summary": "经典RSI剧本开始动摇",
+    "publishedAt": "2026-08-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1787243231000",
+    "title": " 力量与边界：人类文明从农业革命到 AI 时代的同一个问题 ",
+    "link": "https://www.huxiu.com/article/4884732.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《力量与边界：人类文明从农业革命到 AI 时代的同一个问题》 人类文明的进步，不只是创造更强大的工具，更是在学习如何与更强大的工具共存。 从火的使用到农业的兴起，从机器的轰鸣到互联网的普及，再到今天人工智能开始参与人类的判断与行动，技术革命从来都不只是能力曲线的抬升。它同时是一部关于秩序的历史：每一次人类把新的力量握在手里，都必须重新回答同一个问题——当我们创造出比自己更强大的东西之后，如何确保它最终仍然服务于人类。 这个问题之所以反复出现，是因为它从未被真正解决过。它只是在不同的技术条件下换了一副面孔。而每一次，人类给出的答案都不在能力这一侧，而在边界这一侧。 因为真正困难的，从来不是创造力量。 而是驾驭力量。 一、农业革命：人类第一次学会与更大的力量共存 在人类漫长的历史中，最早需要面对的强大力量并非出自人手，而是来自自然。天气决定收成，季节决定生存，灾害决定命运。人类的位置是被动的：不是使用力量，而是承受力量。 农业革命改变了这种关系。通过种植、驯化与规划，人类第一次把自然中巨大的不确定性转化为一种可以管理的能力。粮食不再只是等待自然赐予的偶然，而成为可以主动创造、储存和积累的资源。城市、国家与文明由此生长出来。 但值得注意的是，农业带来的并不是一个更自由的世界，而是一个更",
+    "publishedAt": "2026-08-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
@@ -106,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-binance-now-lets-ai-agents-trade-but-keeping-them-in-check-i-1787218200000",
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "id": "news-a-third-of-web-pages-published-since-chatgpt-8217-s-launch-s-1787246338000",
+    "title": "A third of web pages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
     "publishedAt": "2026-08-20",
     "source": "TechCrunch",
     "tags": [
@@ -119,36 +307,36 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-state-vs-federal-ai-law-the-map-and-takeaways-every-hr-execu-1787228140000",
-    "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
-    "link": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
-    "summary": "As employers continue to adopt artificial intelligence across recruiting, hiring, promotion, discipline, scheduling, monitoring and workforce analytics, state lawmakers are responding in very different ways. Some states have enacted laws directly regulating employer use of AI in employment decisions, while others have focused on adjacent issues such as privacy, public-sector governance, healthcare-specific restrictions, or consumer-facing [&#8230;] The post State vs. federal AI law: The map (and takeaways) every HR executive needs to study today appeared first on HR Executive .",
+    "id": "news-employers-are-offering-cash-for-coverage-plans-to-at-least-5-1787226352000",
+    "title": "Employers are offering cash-for-coverage plans to at least 500K",
+    "link": "https://hrexecutive.com/employers-are-offering-cash-for-coverage-plans-to-at-least-500k/",
+    "summary": "The median allowance is $459 per covered life, the HRA Council reports. The post Employers are offering cash-for-coverage plans to at least 500K appeared first on HR Executive .",
     "publishedAt": "2026-08-20",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-salesforce-worker-must-arbitrate-gender-based-discrimination-1787171280000",
-    "title": "Salesforce worker must arbitrate gender-based discrimination case",
-    "link": "https://www.hrdive.com/news/salesforce-worker-must-arbitrate-gender-based-discrimination-case/828309/",
-    "summary": "Gender-based allegations that don&#39;t involve sexual harassment cannot invoke the Ending Forced Arbitration Act, a court determined.",
+    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
+    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
+    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
+    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-openfit-2-ai-ai-1787220825000",
-    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-    "link": "https://www.qbitai.com/2026/08/476281.html",
-    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+    "id": "news-wrc-1787218964000",
+    "title": "今年WRC最大展台，预告具身智能未来",
+    "link": "https://www.qbitai.com/2026/08/476141.html",
+    "summary": "从自主泛化到真生产力",
     "publishedAt": "2026-08-20",
     "source": "量子位",
     "tags": [
@@ -158,17 +346,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sk-cpo-1787227903000",
-    "title": " 英伟达、SK海力士：必须拿下CPO ",
-    "link": "https://www.huxiu.com/article/4884630.html?f=rss",
-    "summary": "作者：丰宁，题图来自：AI生成 最近，半导体行业被一个词搅得发热&mdash;&mdash;CPO。英伟达和SK海力士，一个掐着算力的命门，一个攥着存储的咽喉，这次罕见地同时坐不住了。 一、SK海力士、英伟达，加注CPO 近日，SK海力士及其全球研究团队在《自然&middot;电子学》杂志上发表了一篇论文。该论文探讨了用于高性能计算和人工智能的共封装光学器件 （CPO） 的开发，指出了关键的技术挑战，并概述了下一代光互连技术的发展轨迹。 SK 海力士人工智能基础设施团队负责人洪承勋和弗吉尼亚大学 （UVA） 电气与计算机工程系李奎相教授担任通讯作者，领导了一项与伊利诺伊大学厄巴纳-香槟分校 （UIUC） 、南洋理工大学 （NTU） 、麻省理工学院 （MIT） 和延世大学的研究人员合作的研究。 从更广泛的层面来看，该论文提出了一个全面的技术路线图，阐述了存储器、先进封装和光计算互连 （OCI） 应如何协同演进以支持下一代人工智能系统。至关重要的是，它还展示了SK海力士如何超越HBM创新，在系统层面帮助定义下一代人工智能基础设施的架构。 与此同时，研究人员为下一代人工智能基础设施设定了明确的技术目标，包括每个节点超过 100 Tb/s 的带宽、低于 1 pJ/bit 的能耗以及小于 10 纳秒的芯片间延迟。该论文还提出了一个全面的技术路线图，概述了从基于 2D 和 2.5D 中介层的配",
+    "id": "news--1787242984000",
+    "title": " 战魔田默｜不装了！《牛来》的现象级逆袭，背后是一场精心的商业操作 ",
+    "link": "https://www.huxiu.com/article/4884731.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜不装了！《牛来》的现象级逆袭，背后是一场精心的商业操作》 票房7352元，没有万。 不是7352万，是7352元。 8月14日，这个荒诞到不像真的数字，把《牛来》送上了热搜。 一部已经上映多日的院线动画电影，累计票房只有几千元，按照正常的商业逻辑，它几乎已经被市场判了死刑。但几天之后，7352元没有成为它的墓碑，反而成了它的传播起点。 短视频片段大量传播，网友涌进影院“验货”，排片迅速增加，票房连续跳涨。官方账号和商业品牌纷纷借梗，相关周边迅速进入消费市场，热度甚至外溢到资本市场。 截至8月19日15时13分，灯塔专业版实时数据显示，《牛来》累计票房已经突破2500万元。 短短几天，从7352元到2500万元。 01 7352元，失败突然变成了资产 《牛来》上映以后，前期几乎没有存在感。 如果做得差本身就能制造爆款，它应该上映第一天就火，但事实并非如此。 改变它命运的，是那个极其反常的数字突然被看见：7352元，没有万。 一部全国公映的院线电影，上映多日以后，票房甚至不够一顿商务宴请。这种失败已经远远偏离人们对于院线电影的正常经验，于是，失败不再只是失败，而变成了一个异常值。 商业世界每天都有大量失败产品，但绝大多数失败没有传播价值，因为它们只是普通地失败。只有当一个结果偏离常识足够远，才会迫使人们停下来追问：",
     "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -198,199 +385,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stripe-didn-8217-t-really-buy-openrouter-because-of-the-8216-1787182320000",
-    "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
-    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-    "publishedAt": "2026-08-19",
+    "id": "news-early-cerebras-investor-adit-singh-joins-mayfield-as-infrast-1787245493000",
+    "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+    "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+    "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+    "publishedAt": "2026-08-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5-ways-hackers-are-targeting-employers-systems-1787227257000",
-    "title": "5 ways hackers are targeting employers’ systems",
-    "link": "https://hrexecutive.com/5-ways-hackers-are-targeting-employers-systems/",
-    "summary": "Ransomware remains a dominant concern, though hackers' tactics are shifting as artificial intelligence reshapes this landscape. The post 5 ways hackers are targeting employers’ systems appeared first on HR Executive .",
-    "publishedAt": "2026-08-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
-    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
-    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
-    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-rsi-18-agent-kimi-k3-harness-opus-5-1787219183000",
-    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-    "link": "https://www.qbitai.com/2026/08/476199.html",
-    "summary": "经典RSI剧本开始动摇",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787227842000",
-    "title": " 德国的命脉，快要撑不住了 ",
-    "link": "https://www.huxiu.com/article/4884675.html?f=rss",
-    "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 今年，从莱茵河到多瑙河，整个欧洲遭遇了罕见的重度干旱。一条条黄金水道，现在随处可见裸露的河滩。 欧洲的几条大河的水位都变低了▼ 还好最近下了点雨，久旱逢甘霖，欧洲人终于熬过了最痛苦的一个月。要是再这么旱下去，德国的黄金水道和沿途吃这条河的产业，都别干了。 按照经济学家的估计，光是莱茵河的水位下降，就会使德国第三季度的GDP损失0.2%。 莱茵河流经多国，对德国荷兰尤其重要 它是德国最重要的航运河流、黄金水道▼ 这波干旱连带着大批游轮也只能搁浅在港口中，很多中国游客的豪华欧洲游，变成了人在囧途： 原本可以在船上吃着牛排、品着红酒，现在只能每天挤好几个钟头的大巴。 本是去享受的，结果又变老年吃苦旅行团了......▼ 四年前，我们就写过莱茵河干了。现在，欧洲各条大河是全线告急，情况比当时更严重。 这次，欧洲能扛过去吗？ 河里没水，啥都没了 在多瑙河沿岸，遍布各种水电站核电站。水位一下降，很多国家的电力系统马上吃紧： 塞尔维亚全国五分之一的电力，都要依靠多瑙河上的铁门水电站。水位暴跌之后，塞尔维亚的电力也宣布告急。 而罗马尼亚的切尔纳沃德核电站供应了全国五分之一的电力。为了给核电站多弄点冷却水，防止全国电力系统真完犊子，罗马尼亚人只好使出非常规手段：沉了几条旧船当堤坝，在多瑙河里多拦一些水。 上游的匈牙利人也在头疼：提供了全国一半电力",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787223471000",
-    "title": "国内游戏卷不动了，出海成为行业最后的增量战场？",
-    "link": "https://www.tmtpost.com/8110668.html",
-    "summary": "国产手游收割全球收入，但跨文化适配、IP 短板仍是绕不开的关卡。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-s-self-improvement-problem-and-what-s-drivin-1787141400000",
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
-    "publishedAt": "2026-08-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-waymo-8217-s-cheaper-next-gen-robotaxi-is-now-open-to-all-ri-1787178301000",
-    "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-    "publishedAt": "2026-08-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-are-offering-cash-for-coverage-plans-to-at-least-5-1787226352000",
-    "title": "Employers are offering cash-for-coverage plans to at least 500K",
-    "link": "https://hrexecutive.com/employers-are-offering-cash-for-coverage-plans-to-at-least-500k/",
-    "summary": "The median allowance is $459 per covered life, the HRA Council reports. The post Employers are offering cash-for-coverage plans to at least 500K appeared first on HR Executive .",
-    "publishedAt": "2026-08-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
-    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
-    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
-    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-wrc-1787218964000",
-    "title": "今年WRC最大展台，预告具身智能未来",
-    "link": "https://www.qbitai.com/2026/08/476141.html",
-    "summary": "从自主泛化到真生产力",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787227841000",
-    "title": " 暴击美债，逼财政部出手，五大巨头疯了 ",
-    "link": "https://www.huxiu.com/article/4884674.html?f=rss",
-    "summary": "本文来自微信公众号： 格隆 ，作者：哥吉拉，原文标题：《暴击美债，逼财政部出手！五大巨头疯了》 美国政府终于出手了！ 面对不断攀升的长债收益率，美国财政部宣布将长期国债回购操作规模至少扩大一倍。 消息一出，美债收益率应声下跌，其中30年期美债收益率单日下跌1.73%，终止了连日来的上升势头。 股市也松了一口气，但是，这口气能撑多久呢？ 美国财政部，真的对症下药了吗？ 01 美债真正的对手 关于这一轮全球性债券的抛售，表面的导火索很清楚： 中东局势再度恶化。 一直期待的美伊停火没有谈妥，霍尔木兹海峡又出现商船遇袭的消息，布伦特原油价格一度冲高至90美元以上，重新引发了市场对输入性通胀，以及限制美联储货币宽松的担忧。 同时，一些深层次的问题，例如美国国债规模冲破40万亿，以及英国、日本等多个发达国家同样面临债务攀升、收益率走高、汇率压力、长期的经济结构性问题，等等，也是导致抛售潮的重要原因。 还有一点，值得重点提出，那就是AI大公司发债对美债造成的冲击。 这到底是怎么一回事呢？ 背景很简单，五大超大规模数据中心运营商——微软、Alphabet、亚马逊、Meta、甲骨文2026年的资本开支规模在7500亿至8000亿美元之间，2027年有机会进一步攀升至1万亿至1.1万亿美元。 PIMCO此前测算，2026-2027年这五家公司的资本开支将相当于其经营性现金流的94%左右。 如果各家资本",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-935-1787223462000",
-    "title": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
-    "link": "https://www.tmtpost.com/8109234.html",
-    "summary": "具身智能融资，进入理性时刻。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-child-monitoring-apps-might-need-a-reboot-1787130000000",
-    "title": "Child-monitoring apps might need a reboot",
-    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-    "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
-    "publishedAt": "2026-08-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-openai-seeks-to-one-up-anthropic-with-new-customer-privacy-p-1787177446000",
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "publishedAt": "2026-08-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "organization"
     ]
   }
 ];
@@ -757,6 +762,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137017",
+    "title": "Collections Agent",
+    "company": "CRNCY Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Collections Agent provides an array of repayment solutions to customers that have reached the default stage",
+      "The Agent will ensure customers are contacted via various communication channels and negotiate terms of repayment that amicable to both the customer and the company",
+      "Primary Duties And Respon"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Bridgetown, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
+    "postedAt": "2026-08-19",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1136967",
     "title": "Email Developer",
     "company": "The Home Depot Canada",
@@ -779,7 +803,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY5LjkzLjM1 when applying to show you read the job post completely (#RMjAuMTY5LjkzLjM1)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNDkuMTMuMTc4 when applying to show you read the job post completely (#RMjAuNDkuMTMuMTc4)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants that re"
     ],
@@ -975,4 +999,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-20T12:39:53.634Z';
+export const dataFetchedAt = '2026-08-20T18:33:22.346Z';

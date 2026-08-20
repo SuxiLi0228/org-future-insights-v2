@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-21-auto",
+    "date": "2026-08-21",
+    "session": "auto",
+    "title": "2026-08-21 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-21-auto-1",
+        "emoji": "🚨",
+        "title": "Debates over AI consciousness are a trap",
+        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+        "detail": "来源: MIT Technology Review。“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "agent",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+      },
+      {
+        "id": "sig-2026-08-21-auto-2",
+        "emoji": "💡",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "detail": "来源: TechCrunch。Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+      },
+      {
+        "id": "sig-2026-08-21-auto-3",
+        "emoji": "🚨",
+        "title": "HR leaders already have the tools to make organizational change stick",
+        "summary": "Three ways to connect the HR practices you already own to the behaviors that matter most for organizational change. The post HR leaders already have the tools to make organizational change stick appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Three ways to connect the HR practices you already own to the behaviors that matter most for organizational change. The post HR leaders already have the tools to make organizational change stick appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/hr-leaders-already-have-the-tools-to-make-organizational-change-stick/"
+      },
+      {
+        "id": "sig-2026-08-21-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：SPADE: Self-Play in Adaptive Synthetic Executable Environmen...",
+        "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ",
+        "detail": "作者: Bo Liu, Simon Yu, Yiding Jiang。Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a self-play RL framework in which a single LLM plays two roles: an Environment Designer that writes complete, long-horizon training environments as executable code with an OpenAI Gym-style reset()/step() interface, and a Reasoning Agent that learns to act in them. Each is a stateful, multi-turn environment (state transitions, reward functions, and verification code), so one interface spans reasoning problems and multi-step agentic tool use. T",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.19197v1"
+      },
+      {
+        "id": "sig-2026-08-21-auto-5",
+        "emoji": "💼",
+        "title": "CRNCY Group 正在招募 Collections Agent",
+        "summary": "岗位类型：业务+AI 复合岗。Collections Agent provides an array of repayment solutions to customers that have reached the default stage",
+        "detail": "技能要求: Agent。Collections Agent provides an array of repayment solutions to customers that have reached the default stage The Agent will ensure customers are contacted via various communication channels and negotiate terms of repayment that amicable to both the customer and the company Primary Duties And Respon",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "CRNCY Group"
+        ],
+        "sourceType": "tech",
+        "sourceName": "CRNCY Group",
+        "link": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-21-1",
+        "priority": "high",
+        "action": "关注「Debates over AI consciousness are a trap」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-21-2",
+        "priority": "low",
+        "action": "关注「Linkdaze’s smart calendar is built to ru」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-21-3",
+        "priority": "high",
+        "action": "关注「HR leaders already have the tools to mak」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-21-4",
+        "priority": "medium",
+        "action": "关注「研究速递：SPADE: Self-Play in Adaptive Synthe」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-21-5",
+        "priority": "medium",
+        "action": "关注「CRNCY Group 正在招募 Collections Agent」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "CRNCY Group"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-21 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-08-21 00:00 - 2026-08-21 23:59"
+  },
+  {
     "id": "report-2026-08-20-auto",
     "date": "2026-08-20",
     "session": "auto",
