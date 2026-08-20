@@ -2,11 +2,195 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-s-self-improvement-problem-and-what-s-drivin-1787141400000",
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+    "id": "news-the-next-big-thing-in-hydrogen-could-be-underground-1787220000000",
+    "title": "The next big thing in hydrogen could be underground",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meta-ai-8217-s-new-mac-app-wants-you-to-talk-to-your-apps-1787227917000",
+    "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hr-leaders-already-have-the-tools-to-make-organizational-cha-1787229040000",
+    "title": "HR leaders already have the tools to make organizational change stick",
+    "link": "https://hrexecutive.com/hr-leaders-already-have-the-tools-to-make-organizational-change-stick/",
+    "summary": "Three ways to connect the HR practices you already own to the behaviors that matter most for organizational change. The post HR leaders already have the tools to make organizational change stick appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
+    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
+    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
+    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
     "publishedAt": "2026-08-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-wrc-ai-20-8-99-1787221067000",
+    "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+    "link": "https://www.qbitai.com/2026/08/476280.html",
+    "summary": "",
+    "publishedAt": "2026-08-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787228623000",
+    "title": " 段永平又买回了没看懂的阿里 ",
+    "link": "https://www.huxiu.com/article/4884679.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 阿里刚发布了2027财年第一季度财报，整体来看，这是一季故事很漂亮、但盈利质量与资本回报确定性双降的财报。 老实说，这份财报没太多可说的。过去几个季度，阿里几乎面临的困境是一样的，高投入，利润承压，等一个还没到的拐点。 但前几天段永平的一个动作，反而提供了一个跳出财报，从侧面来看看今天的阿里。 前不久，段永平重新建仓了阿里，30.14万股，约2893万美元。 单独拎出来，这是个不小的动作。但放到他二季度持仓的191亿美元盘子里，仅占0.15%。 这个数字让人很难琢磨。 他到底是重新看好了阿里，还是，只是想再看看？ 一、他只重仓确定性 先看段永平押注的这张资产表。 根据美国证券交易委员会（SEC）披露，今年二季度末，段永平管理的H&amp;H International Investment美股持仓约191亿美元，18只股票。总市值比一季度少了将近10亿美元，且结构变了挺多。 前五大重仓，放了接近九成的钱。 苹果78.4亿美元·41.05% 伯克希尔B46.2亿美元·24.18% 拼多多19.1亿美元·9.99% 特斯拉14.2亿美元·7.44% 英伟达12.6亿美元·6.58% 苹果加伯克希尔，两家就有65%。 这不是传统意义上的资产配置表，更像一张段永平式的判断排序表。越确定，仓位越大；越没看懂，仓位越轻。 这一季度除了看段永平买了什",
+    "publishedAt": "2026-08-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1787223920000",
+    "title": "AI 办公混战，腾讯百度抢先",
+    "link": "https://www.tmtpost.com/8109247.html",
+    "summary": "AI办公，谁与争锋？",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-unlocking-hidden-revenue-streams-with-market-models-1787219242000",
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-binance-now-lets-ai-agents-trade-but-keeping-them-in-check-i-1787218200000",
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-state-vs-federal-ai-law-the-map-and-takeaways-every-hr-execu-1787228140000",
+    "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
+    "link": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
+    "summary": "As employers continue to adopt artificial intelligence across recruiting, hiring, promotion, discipline, scheduling, monitoring and workforce analytics, state lawmakers are responding in very different ways. Some states have enacted laws directly regulating employer use of AI in employment decisions, while others have focused on adjacent issues such as privacy, public-sector governance, healthcare-specific restrictions, or consumer-facing [&#8230;] The post State vs. federal AI law: The map (and takeaways) every HR executive needs to study today appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-salesforce-worker-must-arbitrate-gender-based-discrimination-1787171280000",
+    "title": "Salesforce worker must arbitrate gender-based discrimination case",
+    "link": "https://www.hrdive.com/news/salesforce-worker-must-arbitrate-gender-based-discrimination-case/828309/",
+    "summary": "Gender-based allegations that don&#39;t involve sexual harassment cannot invoke the Ending Forced Arbitration Act, a court determined.",
+    "publishedAt": "2026-08-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-ai-openfit-2-ai-ai-1787220825000",
+    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+    "link": "https://www.qbitai.com/2026/08/476281.html",
+    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+    "publishedAt": "2026-08-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-sk-cpo-1787227903000",
+    "title": " 英伟达、SK海力士：必须拿下CPO ",
+    "link": "https://www.huxiu.com/article/4884630.html?f=rss",
+    "summary": "作者：丰宁，题图来自：AI生成 最近，半导体行业被一个词搅得发热&mdash;&mdash;CPO。英伟达和SK海力士，一个掐着算力的命门，一个攥着存储的咽喉，这次罕见地同时坐不住了。 一、SK海力士、英伟达，加注CPO 近日，SK海力士及其全球研究团队在《自然&middot;电子学》杂志上发表了一篇论文。该论文探讨了用于高性能计算和人工智能的共封装光学器件 （CPO） 的开发，指出了关键的技术挑战，并概述了下一代光互连技术的发展轨迹。 SK 海力士人工智能基础设施团队负责人洪承勋和弗吉尼亚大学 （UVA） 电气与计算机工程系李奎相教授担任通讯作者，领导了一项与伊利诺伊大学厄巴纳-香槟分校 （UIUC） 、南洋理工大学 （NTU） 、麻省理工学院 （MIT） 和延世大学的研究人员合作的研究。 从更广泛的层面来看，该论文提出了一个全面的技术路线图，阐述了存储器、先进封装和光计算互连 （OCI） 应如何协同演进以支持下一代人工智能系统。至关重要的是，它还展示了SK海力士如何超越HBM创新，在系统层面帮助定义下一代人工智能基础设施的架构。 与此同时，研究人员为下一代人工智能基础设施设定了明确的技术目标，包括每个节点超过 100 Tb/s 的带宽、低于 1 pJ/bit 的能耗以及小于 10 纳秒的芯片间延迟。该论文还提出了一个全面的技术路线图，概述了从基于 2D 和 2.5D 中介层的配",
+    "publishedAt": "2026-08-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-workbuddy-1787223833000",
+    "title": "百度搭子追WorkBuddy，不能只拼“干活”",
+    "link": "https://www.tmtpost.com/8109452.html",
+    "summary": "生成越便宜，验证能力越稀缺。",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-support-networks-aim-to-help-kids-through-the-polycrisis-1787216400000",
+    "title": "Support networks aim to help kids through the polycrisis",
+    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    "publishedAt": "2026-08-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -27,11 +211,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-ways-criminals-are-using-ai-to-fuel-fraud-1787141727000",
-    "title": "10 ways criminals are using AI to fuel fraud",
-    "link": "https://hrexecutive.com/top-10-ways-criminals-are-using-ai-scams/",
-    "summary": "Artificial intelligence is giving criminals new ways to make old scams faster, cheaper and far more convincing. The post 10 ways criminals are using AI to fuel fraud appeared first on HR Executive .",
-    "publishedAt": "2026-08-19",
+    "id": "news-5-ways-hackers-are-targeting-employers-systems-1787227257000",
+    "title": "5 ways hackers are targeting employers’ systems",
+    "link": "https://hrexecutive.com/5-ways-hackers-are-targeting-employers-systems/",
+    "summary": "Ransomware remains a dominant concern, though hackers' tactics are shifting as artificial intelligence reshapes this landscape. The post 5 ways hackers are targeting employers’ systems appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -40,24 +224,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
-    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
-    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
-    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
+    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
+    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
+    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
+    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
     "publishedAt": "2026-08-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-wrc-1787189854000",
-    "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-    "link": "https://www.qbitai.com/2026/08/476078.html",
-    "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+    "id": "news-rsi-18-agent-kimi-k3-harness-opus-5-1787219183000",
+    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+    "link": "https://www.qbitai.com/2026/08/476199.html",
+    "summary": "经典RSI剧本开始动摇",
     "publishedAt": "2026-08-20",
     "source": "量子位",
     "tags": [
@@ -67,10 +250,100 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-1787207159000",
-    "title": " 阿里100亿“卸载”游戏，灵犀互娱确定卖身信宸资本 ",
-    "link": "https://www.huxiu.com/article/4884533.html?f=rss",
-    "summary": "本文来自微信公众号： 镜象娱乐 ，作者：镜象娱乐 灵犀互娱的买方终于敲定了。 8月17日，灵犀互娱CEO周炳枢在最新发布的全员内部信中，正式确认灵犀互娱将被信宸资本收购，后者是中信资本旗下的一家私募股权投资平台。另据多家媒体援引市场信息，本次交易估值约101亿元，这个数值较之前的市场预估高出不少。 在此之前，市场对买方的猜测多停留在游戏赛道，但最终敲定的“新东家”并不是一家游戏公司，这也意味着在之后的发展中，“新东家”大概率会给灵犀互娱创造充分的独立发展空间。内部信中也提到：“信宸资本拥有丰富的产业资源和专业的赋能经验，未来将为公司发展注入全新动能，提供全方位助力。”而公司目前的管理及运营团队保持不变。 需要注意的是，在过去十多年的发展中，灵犀互娱虽然背靠阿里，但公司与阿里的关系始终比较微妙，灵犀互娱也一直未能在阿里生态中找到自己的位置。如今，伴随着阿里整体战略向AI倾斜，灵犀互娱最终还是在互联网大厂复杂的生态博弈中沦为“平台弃子”，不过，对其自身发展而言，改姓“中信”也不失为一个新的开始。 始终站在生态边缘 阿里与灵犀互娱“体面分手” 或许从一开始，双方“分手”的结局就已经注定。 早在2014年，阿里便尝试涉足游戏。不过在当时，平台主要依托电商流量，入局游戏分发。从时间线上看，阿里真正开始做游戏，还要追溯到2016年。 这一年，阿里正式成立“文化娱乐板块”，时任阿里CEO的张勇宣",
+    "id": "news--1787227842000",
+    "title": " 德国的命脉，快要撑不住了 ",
+    "link": "https://www.huxiu.com/article/4884675.html?f=rss",
+    "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 今年，从莱茵河到多瑙河，整个欧洲遭遇了罕见的重度干旱。一条条黄金水道，现在随处可见裸露的河滩。 欧洲的几条大河的水位都变低了▼ 还好最近下了点雨，久旱逢甘霖，欧洲人终于熬过了最痛苦的一个月。要是再这么旱下去，德国的黄金水道和沿途吃这条河的产业，都别干了。 按照经济学家的估计，光是莱茵河的水位下降，就会使德国第三季度的GDP损失0.2%。 莱茵河流经多国，对德国荷兰尤其重要 它是德国最重要的航运河流、黄金水道▼ 这波干旱连带着大批游轮也只能搁浅在港口中，很多中国游客的豪华欧洲游，变成了人在囧途： 原本可以在船上吃着牛排、品着红酒，现在只能每天挤好几个钟头的大巴。 本是去享受的，结果又变老年吃苦旅行团了......▼ 四年前，我们就写过莱茵河干了。现在，欧洲各条大河是全线告急，情况比当时更严重。 这次，欧洲能扛过去吗？ 河里没水，啥都没了 在多瑙河沿岸，遍布各种水电站核电站。水位一下降，很多国家的电力系统马上吃紧： 塞尔维亚全国五分之一的电力，都要依靠多瑙河上的铁门水电站。水位暴跌之后，塞尔维亚的电力也宣布告急。 而罗马尼亚的切尔纳沃德核电站供应了全国五分之一的电力。为了给核电站多弄点冷却水，防止全国电力系统真完犊子，罗马尼亚人只好使出非常规手段：沉了几条旧船当堤坝，在多瑙河里多拦一些水。 上游的匈牙利人也在头疼：提供了全国一半电力",
+    "publishedAt": "2026-08-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787223471000",
+    "title": "国内游戏卷不动了，出海成为行业最后的增量战场？",
+    "link": "https://www.tmtpost.com/8110668.html",
+    "summary": "国产手游收割全球收入，但跨文化适配、IP 短板仍是绕不开的关卡。",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-s-self-improvement-problem-and-what-s-drivin-1787141400000",
+    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
+    "publishedAt": "2026-08-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-waymo-8217-s-cheaper-next-gen-robotaxi-is-now-open-to-all-ri-1787178301000",
+    "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+    "publishedAt": "2026-08-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-are-offering-cash-for-coverage-plans-to-at-least-5-1787226352000",
+    "title": "Employers are offering cash-for-coverage plans to at least 500K",
+    "link": "https://hrexecutive.com/employers-are-offering-cash-for-coverage-plans-to-at-least-500k/",
+    "summary": "The median allowance is $459 per covered life, the HRA Council reports. The post Employers are offering cash-for-coverage plans to at least 500K appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
+    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
+    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
+    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
+    "publishedAt": "2026-08-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-wrc-1787218964000",
+    "title": "今年WRC最大展台，预告具身智能未来",
+    "link": "https://www.qbitai.com/2026/08/476141.html",
+    "summary": "从自主泛化到真生产力",
+    "publishedAt": "2026-08-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787227841000",
+    "title": " 暴击美债，逼财政部出手，五大巨头疯了 ",
+    "link": "https://www.huxiu.com/article/4884674.html?f=rss",
+    "summary": "本文来自微信公众号： 格隆 ，作者：哥吉拉，原文标题：《暴击美债，逼财政部出手！五大巨头疯了》 美国政府终于出手了！ 面对不断攀升的长债收益率，美国财政部宣布将长期国债回购操作规模至少扩大一倍。 消息一出，美债收益率应声下跌，其中30年期美债收益率单日下跌1.73%，终止了连日来的上升势头。 股市也松了一口气，但是，这口气能撑多久呢？ 美国财政部，真的对症下药了吗？ 01 美债真正的对手 关于这一轮全球性债券的抛售，表面的导火索很清楚： 中东局势再度恶化。 一直期待的美伊停火没有谈妥，霍尔木兹海峡又出现商船遇袭的消息，布伦特原油价格一度冲高至90美元以上，重新引发了市场对输入性通胀，以及限制美联储货币宽松的担忧。 同时，一些深层次的问题，例如美国国债规模冲破40万亿，以及英国、日本等多个发达国家同样面临债务攀升、收益率走高、汇率压力、长期的经济结构性问题，等等，也是导致抛售潮的重要原因。 还有一点，值得重点提出，那就是AI大公司发债对美债造成的冲击。 这到底是怎么一回事呢？ 背景很简单，五大超大规模数据中心运营商——微软、Alphabet、亚马逊、Meta、甲骨文2026年的资本开支规模在7500亿至8000亿美元之间，2027年有机会进一步攀升至1万亿至1.1万亿美元。 PIMCO此前测算，2026-2027年这五家公司的资本开支将相当于其经营性现金流的94%左右。 如果各家资本",
     "publishedAt": "2026-08-20",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +354,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-l4-1787204624000",
-    "title": "当无人驾驶开始领“工资”，AI司机订阅能成为L4的新生意吗？",
-    "link": "https://www.tmtpost.com/8110263.html",
-    "summary": "L4下一阶段，比拼的不只是技术，更是赚钱能力。",
+    "id": "news-935-1787223462000",
+    "title": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
+    "link": "https://www.tmtpost.com/8109234.html",
+    "summary": "具身智能融资，进入理性时刻。",
     "publishedAt": "2026-08-20",
     "source": "钛媒体",
     "tags": [
@@ -108,285 +381,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-8217-s-cheaper-next-gen-robotaxi-is-now-open-to-all-ri-1787178301000",
-    "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-    "publishedAt": "2026-08-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-anthropic-s-trust-reckoning-raises-questions-for-workplace-a-1787140845000",
-    "title": "Anthropic’s trust reckoning raises questions for workplace AI policy",
-    "link": "https://hrexecutive.com/anthropics-trust-reckoning-raises-questions-for-workplace-ai-policy/",
-    "summary": "Anthropic's CEO calls AI backlash a \"crisis of trust.\" Here's what SB 53 and Claude's new watermark mean for HR leaders. The post Anthropic’s trust reckoning raises questions for workplace AI policy appeared first on HR Executive .",
-    "publishedAt": "2026-08-19",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-salesforce-worker-must-arbitrate-gender-based-discrimination-1787171280000",
-    "title": "Salesforce worker must arbitrate gender-based discrimination case",
-    "link": "https://www.hrdive.com/news/salesforce-worker-must-arbitrate-gender-based-discrimination-case/828309/",
-    "summary": "Gender-based allegations that don&#39;t involve sexual harassment cannot invoke the Ending Forced Arbitration Act, a court determined.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-2026-20-q3-1787188867000",
-    "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-    "link": "https://www.qbitai.com/2026/08/476075.html",
-    "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787207104000",
-    "title": " 电子布行业：爆单、涨价、扩产 ",
-    "link": "https://www.huxiu.com/article/4884534.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：陆婷婷 “实在太缺了。有些小的CCL（覆铜板）企业根本买不到电子布。”有企业负责人向财联社记者如此感叹，AI服务器需求高增长，上游PCB（印刷电路板）基材电子纱及电子布的供应紧张态势愈演愈烈。 财联社记者近日深入产业链调研发现，行业整体产能紧张，但下游需求有增无减，当前高端电子纱仍是“一纱难求”，部分厂商将产能向超/极薄布、特种布等毛利率较高的高端品类倾斜，进而导致普通电子布产品亦现货缺价涨。 为此，多家上市公司加速产能布局，适配高频高速应用场景的石英纤维电子布（简称“Q布”“石英布”）是主要布局方向。对于后市，多位受访人士认为，随着AI算力基建浪潮持续，电子纱/布等PCB上游基材短期供应将持续紧俏，由于新增产能释放周期较长，叠加成本支撑与下游需求共振，产品价格有望上行。 “一布难求”，当前行业库存近于零 电子布由单丝直径不超过9微米的超细电子级玻璃纤维纱织造而成，是覆铜板核心增强基材，被誉为PCB“骨骼”。 今年上半年，电子布行业已完成五轮价格上调，目前厚布的价格较去年底已翻倍，电子纱价格也在上涨，但涨幅低于电子布。 卓创资讯数据显示，8月国内G75电子纱主流市场均价上行至19700-20000元/吨，较5月底的13050元/吨上涨接近53%，现货市场急单成交价格更高。电子布方面，传统7628电子布市场主流成交价格上行至10-10.2元/米，",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787204608000",
-    "title": "存储巨头集体回购，“超级周期”走到哪一步了？",
-    "link": "https://www.tmtpost.com/8110150.html",
-    "summary": "SK海力士、三星电子等存储巨头靠“分钱”提振市场信心。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-how-people-really-use-ai-and-flock-8217-s-desig-1787055000000",
-    "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
     "id": "news-openai-seeks-to-one-up-anthropic-with-new-customer-privacy-p-1787177446000",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
     "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "publishedAt": "2026-08-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-samsung-trained-employees-on-ai-did-anything-actually-change-1787139906000",
-    "title": "Samsung trained employees on AI. Did anything actually change?",
-    "link": "https://hrexecutive.com/samsung-trained-employees-on-ai-did-anything-actually-change/",
-    "summary": "As Samsung reskills its workforce from the top down, Samsung Indonesia’s Christine Josephine shares why leadership makes change believable and what it takes to make it stick. The post Samsung trained employees on AI. Did anything actually change? appeared first on HR Executive .",
-    "publishedAt": "2026-08-19",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-lowe-s-lawsuit-involving-racist-slurs-to-go-to-trial-1787155920000",
-    "title": "Lowe’s lawsuit involving racist slurs to go to trial",
-    "link": "https://www.hrdive.com/news/lowes-lawsuit-racist-slurs-will-go-to-trial/828177/",
-    "summary": "HR professionals take heed: Derogatory name-calling at work, even from customers, can embroil employers in lawsuits.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-8-agent-1787188005000",
-    "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-    "link": "https://www.qbitai.com/2026/08/476070.html",
-    "summary": "成本也正成为Agent商业化需要考虑的重要因素",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787206336000",
-    "title": " 旺旺和欧派，两个学霸考砸了？ ",
-    "link": "https://www.huxiu.com/article/4884531.html?f=rss",
-    "summary": "本文来自微信公众号： 穆胜咨询 ，作者：穆胜，原文标题：《热评 | 旺旺和欧派，两个学霸考砸了？》 2026年开年，两个不同赛道的老板，几乎同时说了一句一样的话。 旺旺集团创始人蔡衍明，在《致全体旺旺人的一封信》里写下：“没有产出、没有功劳的，都会需要被淘汰。”欧派家居董事长姚良松，在《致全体同仁书》里说得更加悲壮：“为保大船不覆、为保多数人生存，只能忍痛请部分人下船。” 一个卖雪饼和牛奶，一个做橱柜和衣柜，都是各自行业的老大，都在喊“精简机构、优化人员、压降费用”，都在悲情地请过去视若家人的员工离开。可把两份财报摊在桌上一看，你会发现一个挺尴尬的事实：他们又是减人、又是砍钱，利润却还在往下掉。 钱到底去哪了？问题到底出在哪？ 01 减的是人，流的是钱 先看旺旺。2025财年（截至2026年3月31日），旺旺营收244.01亿元，同比增长3.8%，创下历史新高；但归母净利润只有38.37亿元，同比下滑11.5%，净利率从18.4%一路收窄到15.7%。到了2026财年一季度，利润更是同比暴跌38%。 网友们给旺旺出主意，认为“多糖”是旺旺过去的杀招，但现在“减糖”的趋势下，杀招反而成了拖累。显然这是吃瓜群众的非专业看法，旺旺的产品依然有市场影响力，营收依然在增长，他们的问题不是“糖”。 回归理性，营收在涨，利润在跌，中间的钱去哪了？费用端给出了答案。这一年，旺旺的分销成本35.40",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-minimax-design-agent-1787204587000",
-    "title": "MiniMax Design用Agent串联多模型，争夺专业内容生产入口",
-    "link": "https://www.tmtpost.com/8110191.html",
-    "summary": "AI视频赛道的竞争走向了产品化落地与商业价值的深度较量。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-we-still-don-t-know-how-people-are-really-using-ai-1787047603000",
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-1787176283000",
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "publishedAt": "2026-08-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-95-of-ai-investments-fail-the-cfo-test-1787139031000",
-    "title": "Why 95% of AI investments fail the CFO test",
-    "link": "https://hrexecutive.com/why-95-of-ai-investments-fail-the-cfo-test/",
-    "summary": "AI investment has been built around quantitative technology while it's evaluated with qualitative HR metrics, a gap that costs billions. The post Why 95% of AI investments fail the CFO test appeared first on HR Executive .",
-    "publishedAt": "2026-08-19",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-more-than-three-quarters-of-front-line-managers-say-they-lac-1787150100000",
-    "title": "More than three-quarters of front-line managers say they lack necessary guidance",
-    "link": "https://www.hrdive.com/news/more-than-three-quarters-of-front-line-managers-say-they-lack-necessary-gui/828232/",
-    "summary": "A disconnect between company systems and operational needs has led to problems translating decisions into action, according to a report from Dayforce.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-wrc-2026-1787136847000",
-    "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-    "link": "https://www.qbitai.com/2026/08/475931.html",
-    "summary": "",
-    "publishedAt": "2026-08-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787205787000",
-    "title": " 存一年=存两年=存三年，银行业内首现定存利率“一条直线” ",
-    "link": "https://www.huxiu.com/article/4884528.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：彭科峰 在净息差压力下，银行持续下调存款利率仍是主流，这也导致了一些罕见事件的发生。 今日上午，上海松江富明村镇银行发布公告称，明日起调整人民币存款利率。记者注意到，本轮最新调整后，这家村镇银行的一年期、两年期、三年期整存整取类存款产品的年化均为1.65%。 依据公开市场信息，这应该是银行业内首家出现在售1、2、3年定存产品利率“一条直线”的案例。 存一年、存两年、存三年利率都一样？ 今日上午8点多，上海松江富明村镇银行在官方微信公众号发布了关于调整存款产品利率的公告。 在公告中，该行表示，根据LPR定价利率和资金市场利率变化，结合该行存款产品结构，自2026年8月21日起对人民币存款利率进行调整。调整后，该行在售的一年期、两年期、三年期整存整取的产品年利率同为1.65%，且起档金额均为50元。 记者注意到，目前这家村镇银行在售的整存整取类储蓄产品最高年限也只有3年，本次调整也意味着，这家银行在售的1年期、2年期、3年期定存产品年利率为“一条直线”，即用户无论在这家银行存一年还是存两年，或者存三年，其获得的年收益都没有区别。 从公开市场信息来看，这也应该是银行业内首个出现1年、2年、3年期整存整取类产品全部一致，没有任何利率变化的案例。 值得注意的是，从该行此前公告来看，上一次其调整存款产品利率还是在4月份——4月20日，该行通过官方微信号发文",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1787196612000",
-    "title": "狂卖10亿片“小星星”，大品牌抢着入局，年轻人带火一个新品类",
-    "link": "https://www.tmtpost.com/8110055.html",
-    "summary": "痘痘从被藏起来的瑕疵，变成了要被看见的“星星”。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-role-of-the-astronaut-is-in-flux-1787043600000",
-    "title": "The role of the astronaut is in flux",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;",
-    "publishedAt": "2026-08-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-travis-kalanick-kicks-off-another-round-of-vc-bashing-8216-1-1787176104000",
-    "title": "Travis Kalanick kicks off another round of VC bashing: &#8216;1% are helpful&#8217;",
-    "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-    "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
     "publishedAt": "2026-08-19",
     "source": "TechCrunch",
     "tags": [
@@ -781,9 +779,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTMwLjEzMS4yMzEuMjQ2 when applying to show you read the job post completely (#RMTMwLjEzMS4yMzEuMjQ2)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY5LjkzLjM1 when applying to show you read the job post completely (#RMjAuMTY5LjkzLjM1)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -974,42 +972,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596",
     "postedAt": "2026-08-13",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136690",
-    "title": "MARINE PAINTER &amp; BLASTER",
-    "company": "German Ship Repair Jamaica Limited",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "MARINE PAINTER &amp; BLASTER (local and expat) Join Our Team at German Ship Repair Jamaica",
-      "We are expanding our technical team at Jamaica's first ship repair yard with a floating dock facility in Harbour View, Kingston, and are currently recruiting for a Marine Painter &amp; Blaster",
-      "Role: Responsi"
-    ],
-    "skills": [],
-    "location": "Kingston, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-marine-painter-amp-blaster-german-ship-repair-jamaica-limited-1136690",
-    "postedAt": "2026-08-13",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136707",
-    "title": "Store Manager Macpac Adelaide Airport",
-    "company": "Macpac Ltd.",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Take the lead at Macpac Adelaide Airport, where no two days look the same",
-      "We're on the hunt for a hands-on Store Manager, or an ambitious Assistant Store Manager ready to step up",
-      "Lead a supportive and established team in this busy, high-foot-traffic Harbour Town location",
-      "If you've successfully le"
-    ],
-    "skills": [],
-    "location": "Fulham Gardens, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
-    "postedAt": "2026-08-13",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-20T06:39:07.347Z';
+export const dataFetchedAt = '2026-08-20T12:39:53.634Z';
