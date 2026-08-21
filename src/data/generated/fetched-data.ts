@@ -15,17 +15,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-linkdaze-s-smart-calendar-is-built-to-run-a-household-not-ju-1787250035000",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "publishedAt": "2026-08-20",
+    "id": "news-tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of--1787271816000",
+    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+    "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -42,50 +41,39 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-than-a-third-of-workers-say-their-retirement-age-has-mo-1787237460000",
-    "title": "More than a third of workers say their retirement age has moved later",
-    "link": "https://www.hrdive.com/news/workers-say-their-retirement-age-has-moved-later/827853/",
-    "summary": "Employees&rsquo; reasons for delaying retirement included the cost of living, not earning enough and not having enough savings.",
+    "id": "news-feds-propose-trump-account-regulations-as-older-workers-reti-1787251620000",
+    "title": "Feds propose ‘Trump Account’ regulations as older workers’ retirement hopes dwindle",
+    "link": "https://www.hrdive.com/news/irs-trump-account-regulations-2026/828401/",
+    "summary": "Trump Accounts will help eligible children &ldquo;enjoy years of compound earnings for their future college, retirement and other needs,&rdquo; an IRS leader said.",
     "publishedAt": "2026-08-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-wrc-ai-20-8-99-1787221067000",
-    "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-    "link": "https://www.qbitai.com/2026/08/476280.html",
-    "summary": "",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787245278000",
-    "title": " 摩尔线程这份半年报，仔细看全是问号 ",
-    "link": "https://www.huxiu.com/article/4884738.html?f=rss",
-    "summary": "本文来自微信公众号： 青澄财经 ，作者：青炯，编辑：六子 8月9日，摩尔线程发布上市后首份半年报。营收17.36亿元，同比增长147%，已超2025年全年，归母净利润亏损收窄95.73%至1156万元。 营收翻倍、亏损大幅收窄，从表面看确实是积极信号，不少市场声音认为摩尔线程“拐点将至”。但看财报不能只看增速和亏损收窄幅度，还要看营收是靠什么撑起来的？亏损收窄是经营改善还是会计因素？ 这些问题的答案，藏在这份成绩单的细节里。 01 「营收高增长，但增长质量存疑」 摩尔线程的营收增速确实漂亮，但有三个内在问题被市场质疑。 第一个被质疑的问题是基数低。 摩尔线程2022年营收仅4600万元，2023年1.24亿元，2024年4.38亿元，2025年15.06亿元，2026年上半年17.36亿元。从4600万到17亿，任何一笔大额项目确认都能制造高增长。2025年上半年其营收基数仅约7.03亿元，147%的高增速很大程度上被极低的同期基数放大；而上半年营收虽超过2025年全年，绝对增量仅2.3亿元，增长的绝对规模并不突出。 后续季度还能不能维持这个增速，取决于已签订单的实际交付节奏。财报显示待履约对应收入仅8752万元。这个数字和17.36亿元的营收规模之间存在不小差距。 *图源摩尔线程 第二个被质疑的问题是客户集中度高。 2025年全年，摩尔线程前五大客户销售占比91.36%。2026",
-    "publishedAt": "2026-08-20",
+    "id": "news-ai-1787273119000",
+    "title": " 黄仁勋被曝当上AI 圈“红娘”，算力大战突然换了玩法 ",
+    "link": "https://www.huxiu.com/article/4884751.html?f=rss",
+    "summary": "本文来自微信公众号： 夕小瑶科技说 ，作者：阿雅，原文标题：《黄仁勋被曝当上 AI 圈“红娘”，算力大战突然换了玩法》 真是没想象到，卖了大半辈子芯片的老黄，最近开始当起了AI圈的“红娘”。 一头是手握GPU的AI公司，一头是手握电力和机柜的数据中心。 两边都是老黄的客户。 据CNBC报道说，老黄最近正在北欧牵线，把手里有GPU、但缺部署条件的公司，介绍给北欧那些还有电力和数据中心容量的运营商。 老黄亲自下场当红娘这事表面上看是挺离谱的，但是推理5秒钟，就发现太正常不过了。 ◈老黄当上AI圈的“红娘” 牵线的双方，老黄都熟悉。 一边，是买了GPU的客户。谁买了GPU、还需要多少算力，英伟达很清楚；另一边，为了让这些GPU顺利运转，他又长期和服务器厂商、数据中心运营商打交道，知道哪里有土地、电力和机房。 要知道，GPU不是买回家插上电就能赚钱的算力。 GPU只有被装进服务器，接上电力、网络和冷却系统，再放进数据中心，最后才能变成可以出租的算力。 没有机房，再贵的GPU也只能是一堆贵金属。 现实情况是，AI公司买了英伟达的GPU，却找不到足够的电力和机柜把它们部署起来。 所以，老黄开始牵线。 据CNBC报道还透露说，英伟达曾主动找到一家数据中心企业，询问有没有靠谱的客户愿意提前签约，把未来的机房和电力先包下来。 另外，他们还帮过一家建设AI数据中心的公司，对接了美国和亚洲那些手里有GP",
+    "publishedAt": "2026-08-21",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-mrna-a-1787236651000",
-    "title": "mRNA癌症疫苗首次闯过三期大关：千亿赛道启幕，A股卡位战提前打响丨行业风向标",
-    "link": "https://www.tmtpost.com/8110835.html",
-    "summary": "这场席卷两市的行情，导火索是大洋彼岸一则足以改写mRNA产业路径的临床进展。",
-    "publishedAt": "2026-08-20",
+    "id": "news-chinese-mobile-game-publishers-capture-more-than-40-percent--1787273942000",
+    "title": "Chinese Mobile-Game Publishers Capture More Than 40 Percent of Global Top-100 Revenue",
+    "link": "https://www.tmtpost.com/8111264.html",
+    "summary": "In July 2026, thirty-eight Chinese firms ranked among the world’s hundred highest-grossing mobile-game publishers and together generated $2.3 billion, according to Sensor Tower. The figure underscores how overseas markets have become the main growth outlet for an industry whose home market is largely saturated.",
+    "publishedAt": "2026-08-21",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,11 +95,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grok-keeps-sending-gibberish-responses-to-users-1787247136000",
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-    "publishedAt": "2026-08-20",
+    "id": "news-ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-t-1787271224000",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -124,6 +112,242 @@ export const generatedNews: NewsItem[] = [
     "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
     "link": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
     "summary": "Look into the states where direct regulation exists, where related but more limited laws have been enacted, and where legislation remains pending only. The post State vs. federal AI law: The map (and takeaways) every HR executive needs to study today appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-week-in-5-numbers-employees-struggle-to-find-time-for-u-1787251620000",
+    "title": "This week in 5 numbers: Employees struggle to find time for upskilling",
+    "link": "https://www.hrdive.com/news/employees-struggle-to-find-time-for-upskilling/828304/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many consecutive business days Bank of America employees are allowed to work remotely.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-hpv-1787272479000",
+    "title": " HPV疫苗接种困在算法推荐里 ",
+    "link": "https://www.huxiu.com/article/4884750.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：黄华 8月18日，国家疾控局发布人乳头瘤病毒（HPV）疫苗（即宫颈癌疫苗）系列科普问答时表示，部分地区已将适龄女孩HPV疫苗接种纳入预防接种证查验，家长应配合查验，需要补种的及时补种，但接种与否并非入学门槛，不影响入学。 不打HPV疫苗会影响孩子入学吗？很多家长的这种担忧却从侧面反映了另一个现象，也就是当下普遍对于接种HPV疫苗依然存在顾虑。 去年9月，HPV疫苗被纳入国家免疫规划，为满13周岁女孩免费接种2剂次双价HPV疫苗计划也于当年11月中旬起，在国内各地陆续开展。而由于13周岁女孩属于限制民事行为能力人，其在接种疫苗前，需由监护人签署相关《知情同意书》。 不过，从社交媒体上的网友发言来看，不少家长在面对接种告知单时产生了犹豫，进而出现关于“要不要接种HPV疫苗”的讨论，其中又以担忧HPV疫苗影响生育者为主要顾虑。 不过，所谓的“绝育针”等说法毫无任何科学依据。不仅如此，总的来看接种疫苗后出现不良事件的概率其实也很低。 从所有品类的疫苗来看，2023年全国报告约25万例接种后不良事件，发生率约为每10万剂45例——按我国每年数亿剂的接种规模来算，占比不超过千分之几。 并且，其中超过96%的不良事件都是发热、局部红肿等轻微反应，通常无需特殊处理；真正的异常反应占比不到3%。同时，各接种点也均配备急救药品和设备，接种后留观30分钟，正是为了",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-100-10000-1787273921000",
+    "title": "AI货架上的人脸，100元到10000元",
+    "link": "https://www.tmtpost.com/8110962.html",
+    "summary": "被复制的，不只是脸。",
+    "publishedAt": "2026-08-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-next-big-thing-in-hydrogen-could-be-underground-1787220000000",
+    "title": "The next big thing in hydrogen could be underground",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-learn-what-vcs-actually-want-from-a-founder-who-8217-s-raise-1787268747000",
+    "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
+    "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5-ways-hackers-are-targeting-employers-systems-1787227257000",
+    "title": "5 ways hackers are targeting employers’ systems",
+    "link": "https://hrexecutive.com/5-ways-hackers-are-targeting-employers-systems/",
+    "summary": "Ransomware remains a dominant concern, though hackers' tactics are shifting as artificial intelligence reshapes this landscape. The post 5 ways hackers are targeting employers’ systems appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-more-than-a-third-of-workers-say-their-retirement-age-has-mo-1787237460000",
+    "title": "More than a third of workers say their retirement age has moved later",
+    "link": "https://www.hrdive.com/news/workers-say-their-retirement-age-has-moved-later/827853/",
+    "summary": "Employees&rsquo; reasons for delaying retirement included the cost of living, not earning enough and a lack of savings.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1787271663000",
+    "title": " 一个被中国制裁的美国天才军火商，在里根图书馆把中国夸上了天…… ",
+    "link": "https://www.huxiu.com/article/4884747.html?f=rss",
+    "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：新兴产业研究组 转载引用请注明出处。内容仅供交流学习，不做任何商业用途，不代表任何投资建议，如有侵权请联系后台删除。 今天我们说一个被中国制裁的美国军火商——帕尔默·洛基（Palmer Luckey） 2017年，24岁的帕尔默·洛基（Palmer Luckey）灰头土脸地离开了Facebook，离开的原因主要是因为政治右倾问题，硅谷的精英圈子客气地将他\"放逐\"了。 九年后，2026年5月，他创办的Anduril Industries完成了50亿美元的H轮融资，估值610亿美元，Anduril与OpenAI，SpaceX等一起，被称为私募市场的“神奇七侠”。 也是在同一个月，加州西米谷的里根总统图书馆，Luckey坐在胡佛研究所《Uncommon Knowledge》的镜头前，被主持人Peter Robinson问了53分钟。 这53分钟里，他谈中国的部分，我们认为，非常值得我们认真听听。 因为，这个人没有理由夸我们。 自己人夸自己，那叫宣传； 竞争对手夸你，那叫情报。 而一个正在卖武器对付你、并且被你制裁了的人，如果他坐在里根图书馆的舞台上、对着一屋子美国保守派听众夸你的工程师——那基本上只剩一种可能： 他说的是真话，而且他会做一些行动。 所以咱们先花点时间搞清楚： 这个人是谁，他手里有什么，为什么他的判断值得当情报读。 美国式天",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-21-1787272423000",
+    "title": "Edge AI Daily 早报（8月21日）",
+    "link": "https://www.tmtpost.com/8111198.html",
+    "summary": "加拿大放弃数字税换取关税豁免，AI数据主权受制约；TikTok隐瞒自杀预防实验引发伦理危机；Fetcherr市场模型重写定价权，AI从航空业向多行业渗透；ABILITY启动全球首个无电池红外脑机接口临床试验；上海交大与小红书提出Agent信用训练方案SkillGate；币安发布AI Agent交易平台，风险由用户承担。",
+    "publishedAt": "2026-08-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-unlocking-hidden-revenue-streams-with-market-models-1787219242000",
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-is-gaining-on-anthropic-with-business-users-new-data--1787265397000",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-are-offering-cash-for-coverage-plans-to-at-least-5-1787226352000",
+    "title": "Employers are offering cash-for-coverage plans to at least 500K",
+    "link": "https://hrexecutive.com/employers-are-offering-cash-for-coverage-plans-to-at-least-500k/",
+    "summary": "The median allowance is $459 per covered life, the HRA Council reports. The post Employers are offering cash-for-coverage plans to at least 500K appeared first on HR Executive .",
+    "publishedAt": "2026-08-20",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-gap-between-demand-and-hiring-widens-1787233680000",
+    "title": "Gap between demand and hiring widens",
+    "link": "https://www.hrdive.com/news/gap-between-demand-and-hiring-widens/828341/",
+    "summary": "More candidates are applying for jobs in manufacturing especially, but companies aren&rsquo;t successfully moving them into available roles, according to an ICIMS report.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5a-100-1787271388000",
+    "title": " 如果金字塔是中国5A景区，法老木乃伊还能被再榨干100遍 ",
+    "link": "https://www.huxiu.com/article/4884746.html?f=rss",
+    "summary": "本文来自微信公众号： 劲旅网 ，编辑：壮壮，作者：陈杰tigereat 没有复购率，一次性榨干就是上上策。 头图：AI生成 01 这两天“如果世界著名景点在中国”的热梗快被网友玩疯了。 大家纷纷按照国内景区的逻辑，让AI对一众世界著名景点进行“中国式爆改”，结果那真是无比欢乐。 以英国著名景点白崖为例。 经过中国式爆改之后，摇身变成“英伦白崖·海天仙境国家AAAAA级风景区”，一改“草坡+白崖+灯塔+土路”的清冷风，主打绚丽多彩热闹风： 悬崖边必修全透明玻璃栈道；崖顶必备三件套“悬崖秋千、天空之镜和云顶咖啡”；入口必有“白崖商业街”，英国大烤肠、老伦敦臭豆腐和白崖冰棍是标配；土路升级成木栈道，每隔几百米必设“我在白崖很想你”的路牌…… 整个景区人头攒动、摆渡车穿梭，提示牌林立，所有网友看完后无不拍着大腿猛夸。 这味儿，可忒对了。 有了“中国式爆改版”英国白崖打底，网友们的脑洞更大了，于是我们看到： …… 劲旅君一开始也跟着看乐子，还转发给几位景区的朋友，嘲笑他们一通。 只不过和他们越聊越深入，劲旅君却猛然发现一个事实。 “如果世界著名景点在中国”表面上是个网络热梗，骨子里却是一套成熟的景区爆款商业公式。 而且还是景区直接拿过去套用，就能迅速赚钱的那种。 如果埃及金字塔是中国5A景区，凭借这套公式，就算是干枯了几千年的法老木乃伊，中国景区操盘手都能拿出来反复榨干100遍，硬生生拧出真",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-7-9900-1-6nm-a16-q4-1787268000000",
+    "title": "【钛晨报】事关外卖骑手等劳动权益保障，工会工作“十五五”规划发布；宇树发布仿生7轴灵巧机械臂，售价9900元起；台积电1.6nm级A16工艺完成开发验证，目标Q4量产",
+    "link": "https://www.tmtpost.com/8111046.html",
+    "summary": "阿里巴巴：2027财年第一季度营收2,689.5亿元，同比增长9%；网易Q2净收入301亿元，营业利润121亿元；台积电1.6nm级A16工艺完成开发验证，目标Q4量产；奇瑞汽车：上半年实现收入1432.80亿元，同比增长1.2%；谷歌旗下Waymo为其无人出租车自研定制芯片；三星晶圆代工技术蓝图调整，1.4纳米延后至2029年量产；《2026年人形机器人产业发展报告》8月20日发布；国家药监局批准2款创新药上市；三星据悉将公布超100万亿韩元股东回报计划；中基协：7月新备案私募证券投资基金1763只，新备案规模728.09亿元；许家印被判处无期徒刑，恒大集团、恒大地产等案一审宣判；免部署一键调用，国家超算互联网上线GLM-5.3 API",
+    "publishedAt": "2026-08-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-support-networks-aim-to-help-kids-through-the-polycrisis-1787216400000",
+    "title": "Support networks aim to help kids through the polycrisis",
+    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    "publishedAt": "2026-08-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p-1787263791000",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "publishedAt": "2026-08-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-8216-great-flattening-8217-is-shrinking-management-without-p-1787225442000",
+    "title": "&#8216;Great Flattening&#8217; is shrinking management without preparing those who remain",
+    "link": "https://hrexecutive.com/great-flattening-is-shrinking-management-without-preparing-those-who-remain/",
+    "summary": "New research finds that just 6% of leaders say their middle managers companywide are ready to lead change. The post &#8216;Great Flattening&#8217; is shrinking management without preparing those who remain appeared first on HR Executive .",
     "publishedAt": "2026-08-20",
     "source": "HR Executive",
     "tags": [
@@ -148,209 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-openfit-2-ai-ai-1787220825000",
-    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-    "link": "https://www.qbitai.com/2026/08/476281.html",
-    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-wrc-1787243667000",
-    "title": " WRC｜触觉让世界模型更懂物理，也更难通用 ",
-    "link": "https://www.huxiu.com/article/4884735.html?f=rss",
-    "summary": "本文来自微信公众号： 先验实验室 ，作者：Vincent，编辑：吕鑫燚，原文标题：《WRC｜触觉让世界模型更懂物理，也更难通用》 今年以来，触觉赛道有了新变化。 从WRC可见，一些玩家讲的不再只是传感器硬件能力有多高，而是开始摆出自己的数据集、模型，甚至评测基准。围绕触觉的竞争，正在从从一块传感器，扩展到数据采集、模型训练和能力评估的整条链条。 这背后有一层容易被忽略的悖论：触觉能补上纯视觉模型看得见、摸不透的短板，让世界模型对物理世界的“想象”更靠谱；但同一次接触，换一个传感器、换一只手，反馈信号可能完全不同。这既是触觉眼下最大的价值，也是它最大的麻烦：它让模型更懂物理，也更容易被焊死在某一套硬件上。 如果只看出货，触觉还是一门硬件生意，但如果看2026年以来的投融资和产品消息，它却正在变成一门向着数据与模型靠拢的生意。 7月，千觉机器人同时发布数采夹爪、千小时视触觉数据集TacVerse 1k和触觉模型X-TouchMind V1。三者对应一条连续的技术链：采集设备记录操作中的画面、触觉和动作，数据集汇总这些记录，模型再从中学习如何完成任务。 类似变化也出现在其他公司。戴盟机器人4月发布含触觉的全模态数据集Daimon-Infinity，据其公开信息，首批1万小时数据已在阿里魔搭社区开源；6月又与银河通用发布触觉操作评测基准RobOmni，其亿元A轮融资也明确投向物理交互数据和",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-7-1787233536000",
-    "title": "在艰难市场环境中依然表现稳健的7只成长股",
-    "link": "https://www.tmtpost.com/8111062.html",
-    "summary": "Wolfe Research 甄选出七只股票，它们在严峻的市场环境中同时具备强劲的盈利能力、快速的销售增长以及积极的上涨动能。",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-next-big-thing-in-hydrogen-could-be-underground-1787220000000",
-    "title": "The next big thing in hydrogen could be underground",
-    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
-    "publishedAt": "2026-08-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-investor-8217-s-guide-to-techcrunch-disrupt-2026-everyth-1787246867000",
-    "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
-    "publishedAt": "2026-08-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5-ways-hackers-are-targeting-employers-systems-1787227257000",
-    "title": "5 ways hackers are targeting employers’ systems",
-    "link": "https://hrexecutive.com/5-ways-hackers-are-targeting-employers-systems/",
-    "summary": "Ransomware remains a dominant concern, though hackers' tactics are shifting as artificial intelligence reshapes this landscape. The post 5 ways hackers are targeting employers’ systems appeared first on HR Executive .",
-    "publishedAt": "2026-08-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gap-between-demand-and-hiring-widens-1787233680000",
-    "title": "Gap between demand and hiring widens",
-    "link": "https://www.hrdive.com/news/gap-between-demand-and-hiring-widens/828341/",
-    "summary": "More candidates are applying for jobs in manufacturing especially, but companies aren&rsquo;t successfully moving them into available roles, according to an ICIMS report.",
-    "publishedAt": "2026-08-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-rsi-18-agent-kimi-k3-harness-opus-5-1787219183000",
-    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-    "link": "https://www.qbitai.com/2026/08/476199.html",
-    "summary": "经典RSI剧本开始动摇",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1787243231000",
-    "title": " 力量与边界：人类文明从农业革命到 AI 时代的同一个问题 ",
-    "link": "https://www.huxiu.com/article/4884732.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《力量与边界：人类文明从农业革命到 AI 时代的同一个问题》 人类文明的进步，不只是创造更强大的工具，更是在学习如何与更强大的工具共存。 从火的使用到农业的兴起，从机器的轰鸣到互联网的普及，再到今天人工智能开始参与人类的判断与行动，技术革命从来都不只是能力曲线的抬升。它同时是一部关于秩序的历史：每一次人类把新的力量握在手里，都必须重新回答同一个问题——当我们创造出比自己更强大的东西之后，如何确保它最终仍然服务于人类。 这个问题之所以反复出现，是因为它从未被真正解决过。它只是在不同的技术条件下换了一副面孔。而每一次，人类给出的答案都不在能力这一侧，而在边界这一侧。 因为真正困难的，从来不是创造力量。 而是驾驭力量。 一、农业革命：人类第一次学会与更大的力量共存 在人类漫长的历史中，最早需要面对的强大力量并非出自人手，而是来自自然。天气决定收成，季节决定生存，灾害决定命运。人类的位置是被动的：不是使用力量，而是承受力量。 农业革命改变了这种关系。通过种植、驯化与规划，人类第一次把自然中巨大的不确定性转化为一种可以管理的能力。粮食不再只是等待自然赐予的偶然，而成为可以主动创造、储存和积累的资源。城市、国家与文明由此生长出来。 但值得注意的是，农业带来的并不是一个更自由的世界，而是一个更",
-    "publishedAt": "2026-08-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1787223920000",
-    "title": "AI 办公混战，腾讯百度抢先",
-    "link": "https://www.tmtpost.com/8109247.html",
-    "summary": "AI办公，谁与争锋？",
-    "publishedAt": "2026-08-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-unlocking-hidden-revenue-streams-with-market-models-1787219242000",
-    "title": "Unlocking hidden revenue streams with market models",
-    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
-    "publishedAt": "2026-08-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-third-of-web-pages-published-since-chatgpt-8217-s-launch-s-1787246338000",
-    "title": "A third of web pages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds",
-    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "publishedAt": "2026-08-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-are-offering-cash-for-coverage-plans-to-at-least-5-1787226352000",
-    "title": "Employers are offering cash-for-coverage plans to at least 500K",
-    "link": "https://hrexecutive.com/employers-are-offering-cash-for-coverage-plans-to-at-least-500k/",
-    "summary": "The median allowance is $459 per covered life, the HRA Council reports. The post Employers are offering cash-for-coverage plans to at least 500K appeared first on HR Executive .",
-    "publishedAt": "2026-08-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-meta-sued-for-allegedly-firing-manager-who-refused-to-sign-a-1787171340000",
-    "title": "Meta sued for allegedly firing manager who refused to sign an ‘inaccurate’ immigration letter",
-    "link": "https://www.hrdive.com/news/meta-sued-for-allegedly-firing-manager-who-refused-to-sign-immigration-letter/828262/",
-    "summary": "The manager&rsquo;s &ldquo;refusal was based on his objectively reasonable and good-faith belief that he should not submit materially inaccurate statements to USCIS,&rdquo; per a complaint.",
-    "publishedAt": "2026-08-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-wrc-1787218964000",
-    "title": "今年WRC最大展台，预告具身智能未来",
-    "link": "https://www.qbitai.com/2026/08/476141.html",
-    "summary": "从自主泛化到真生产力",
-    "publishedAt": "2026-08-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787242984000",
-    "title": " 战魔田默｜不装了！《牛来》的现象级逆袭，背后是一场精心的商业操作 ",
-    "link": "https://www.huxiu.com/article/4884731.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜不装了！《牛来》的现象级逆袭，背后是一场精心的商业操作》 票房7352元，没有万。 不是7352万，是7352元。 8月14日，这个荒诞到不像真的数字，把《牛来》送上了热搜。 一部已经上映多日的院线动画电影，累计票房只有几千元，按照正常的商业逻辑，它几乎已经被市场判了死刑。但几天之后，7352元没有成为它的墓碑，反而成了它的传播起点。 短视频片段大量传播，网友涌进影院“验货”，排片迅速增加，票房连续跳涨。官方账号和商业品牌纷纷借梗，相关周边迅速进入消费市场，热度甚至外溢到资本市场。 截至8月19日15时13分，灯塔专业版实时数据显示，《牛来》累计票房已经突破2500万元。 短短几天，从7352元到2500万元。 01 7352元，失败突然变成了资产 《牛来》上映以后，前期几乎没有存在感。 如果做得差本身就能制造爆款，它应该上映第一天就火，但事实并非如此。 改变它命运的，是那个极其反常的数字突然被看见：7352元，没有万。 一部全国公映的院线电影，上映多日以后，票房甚至不够一顿商务宴请。这种失败已经远远偏离人们对于院线电影的正常经验，于是，失败不再只是失败，而变成了一个异常值。 商业世界每天都有大量失败产品，但绝大多数失败没有传播价值，因为它们只是普通地失败。只有当一个结果偏离常识足够远，才会迫使人们停下来追问：",
-    "publishedAt": "2026-08-20",
+    "id": "news-74-1787271214000",
+    "title": " 巨亏百亿，74岁河北老板把两女儿推上“火线” ",
+    "link": "https://www.huxiu.com/article/4884745.html?f=rss",
+    "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：苗诗雨 周期里，市场从不关心决策者“冷静”的原因，他们只关注：谁能跨过那条河。 光伏行业里，贴在晶澳科技（以下简称“晶澳”）身上最大的标签就是“稳”。“我们不争第一，但永远在第一梯队”，各个阶段的管理层对外都在反复提这个逻辑。 这份底色在悄然改变。过去两年的市场动荡期，晶澳科技依旧稳居光伏组件出货量前五位，但一个危险的信号已摆上桌面——2026年一季度末，公司资产负债率逼近79%，而在2025年，公司年度亏损达到46.08亿元。如果加上2024年亏损的46.56亿元，以及2026年第一季度亏损的10.67亿元，晶澳这几年的亏损已破百亿元。 而令行业诧异的是，在公认的“收速期”，晶澳反而一改沉稳，在产品、品牌、组织架构等方面，开始“激进”地调整。 6月初，晶澳推出工商业光储一体机产品；7月末，工商业光储一体机产品完成首台交付。从发布到落地不到2个月，这对于晶澳来说，是罕见的急速。 几乎同时段，“一个晶澳”品牌架构落地，明确将以“JA晶澳”为统一母品牌，协同JA SOLAR（光伏）、JA ESS（储能）、JA GREEN（智慧能源）、JA CAPITAL（资本）四大业务子品牌，并迅速在越南举办了“2026光+储+X”峰会。 而就在不久前的5月，晶澳储能业务率先换帅，王君生接替金斌成为储能公司总裁。后者是被寄予厚望的“华为系”高管，任职期不足",
+    "publishedAt": "2026-08-21",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -359,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workbuddy-1787223833000",
-    "title": "百度搭子追WorkBuddy，不能只拼“干活”",
-    "link": "https://www.tmtpost.com/8109452.html",
-    "summary": "生成越便宜，验证能力越稀缺。",
+    "id": "news-mrna-a-1787236651000",
+    "title": "mRNA癌症疫苗首次闯过三期大关：千亿赛道启幕，A股卡位战提前打响丨行业风向标",
+    "link": "https://www.tmtpost.com/8110835.html",
+    "summary": "这场席卷两市的行情，导火索是大洋彼岸一则足以改写mRNA产业路径的临床进展。",
     "publishedAt": "2026-08-20",
     "source": "钛媒体",
     "tags": [
@@ -370,32 +396,6 @@ export const generatedNews: NewsItem[] = [
       "technology",
       "business",
       "ai"
-    ]
-  },
-  {
-    "id": "news-support-networks-aim-to-help-kids-through-the-polycrisis-1787216400000",
-    "title": "Support networks aim to help kids through the polycrisis",
-    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-    "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
-    "publishedAt": "2026-08-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-early-cerebras-investor-adit-singh-joins-mayfield-as-infrast-1787245493000",
-    "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-    "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-    "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-    "publishedAt": "2026-08-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
     ]
   }
 ];
@@ -803,9 +803,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNDkuMTMuMTc4 when applying to show you read the job post completely (#RMjAuNDkuMTMuMTc4)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMjQ3LjIxMC4xMTQ= when applying to show you read the job post completely (#RNTIuMjQ3LjIxMC4xMTQ=)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants that re"
+      "Companies can search these words to find applicants"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -918,7 +918,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
     "postedAt": "2026-08-14",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136905",
@@ -937,7 +937,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-polisher-waldorf-astoria-ras-al-khaimah-hilton-1136905",
     "postedAt": "2026-08-14",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136670",
@@ -955,7 +955,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
     "postedAt": "2026-08-14",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136922",
@@ -975,28 +975,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-aviation-maintenance-technician-fedex-1136922",
     "postedAt": "2026-08-14",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136596",
-    "title": "Sub Agent",
-    "company": "Skanska",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "At Skanska, we’re shaping the way we live, work and connect",
-      "As one of the world’s largest construction and development companies, we work together with customers, communities and partners to shape a better society",
-      "You will be working in the (add in project/department/OU/EF) in where we are respons"
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Norwich, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596",
-    "postedAt": "2026-08-13",
     "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-20T18:33:22.346Z';
+export const dataFetchedAt = '2026-08-21T01:04:39.907Z';
