@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-22-auto",
+    "date": "2026-08-22",
+    "session": "auto",
+    "title": "2026-08-22 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-22-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: threats from space mirrors and credit for AI drugs",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
+      },
+      {
+        "id": "sig-2026-08-22-auto-2",
+        "emoji": "💡",
+        "title": "Tesla’s solar roof is dead. Here’s what went wrong",
+        "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+        "detail": "来源: TechCrunch。Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/"
+      },
+      {
+        "id": "sig-2026-08-22-auto-3",
+        "emoji": "🚨",
+        "title": "How Kate Farms brought values, culture co-creation to life",
+        "summary": "Employees worked alongside leaders to redefine company values and, ultimately, fuel company culture at the rapidly growing organization. The post How Kate Farms brought values, culture co-creation to life appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Employees worked alongside leaders to redefine company values and, ultimately, fuel company culture at the rapidly growing organization. The post How Kate Farms brought values, culture co-creation to life appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/how-kate-farms-brought-values-culture-co-creation-to-life/"
+      },
+      {
+        "id": "sig-2026-08-22-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Information on trajectories: martingales and random times...",
+        "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ",
+        "detail": "作者: Akshay Balsubramani。Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. The tail a bound controls is itself a relative entropy, resolved by the chain rule into per-step conditional divergences. The discarded slack has an exact form in each of three geometries: a Gibbs tilt for the Azuma-Hoeffding and PAC-Bayes bounds, the crossing itself for Ville's and for pooled tests, and a dominating certificate for the $L^p$ maximal bound. That certificate's optional-stopping deficit resolves per step into Bregman divergences of the running maximum. On a path-time space, the sa",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.20337v1"
+      },
+      {
+        "id": "sig-2026-08-22-auto-5",
+        "emoji": "💼",
+        "title": "CRNCY Group 正在招募 Collections Agent",
+        "summary": "岗位类型：业务+AI 复合岗。Collections Agent provides an array of repayment solutions to customers that have reached the default stage",
+        "detail": "技能要求: Agent。Collections Agent provides an array of repayment solutions to customers that have reached the default stage The Agent will ensure customers are contacted via various communication channels and negotiate terms of repayment that amicable to both the customer and the company Primary Duties And Respon",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "CRNCY Group"
+        ],
+        "sourceType": "tech",
+        "sourceName": "CRNCY Group",
+        "link": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-22-1",
+        "priority": "medium",
+        "action": "关注「The Download: threats from space mirrors」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-22-2",
+        "priority": "low",
+        "action": "关注「Tesla’s solar roof is dead. Here’s what 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-22-3",
+        "priority": "high",
+        "action": "关注「How Kate Farms brought values, culture c」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-22-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Information on trajectories: martin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-22-5",
+        "priority": "medium",
+        "action": "关注「CRNCY Group 正在招募 Collections Agent」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "CRNCY Group"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-22 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-08-22 00:00 - 2026-08-22 23:59"
+  },
+  {
     "id": "report-2026-08-21-auto",
     "date": "2026-08-21",
     "session": "auto",

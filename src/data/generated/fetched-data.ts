@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of--1787271816000",
-    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-    "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+    "id": "news-tesla-s-solar-roof-is-dead-here-s-what-went-wrong-1787335793000",
+    "title": "Tesla’s solar roof is dead. Here’s what went wrong",
+    "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+    "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -27,29 +27,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-face-retirement-readiness-gap-in-defined-contribut-1787314532000",
-    "title": "Employers face retirement readiness gap in defined contribution plans",
-    "link": "https://hrexecutive.com/employers-face-retirement-readiness-gap-in-defined-contribution-plans/",
-    "summary": "\"Employers have invested heavily in retirement programs, but the next challenge is proving these programs are moving employees closer to retirement readiness,\" said Chris West of WTW. The post Employers face retirement readiness gap in defined contribution plans appeared first on HR Executive .",
+    "id": "news-how-kate-farms-brought-values-culture-co-creation-to-life-1787315428000",
+    "title": "How Kate Farms brought values, culture co-creation to life",
+    "link": "https://hrexecutive.com/how-kate-farms-brought-values-culture-co-creation-to-life/",
+    "summary": "Employees worked alongside leaders to redefine company values and, ultimately, fuel company culture at the rapidly growing organization. The post How Kate Farms brought values, culture co-creation to life appeared first on HR Executive .",
     "publishedAt": "2026-08-21",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-employees-struggle-to-find-time-for-u-1787251620000",
-    "title": "This week in 5 numbers: Employees struggle to find time for upskilling",
-    "link": "https://www.hrdive.com/news/employees-struggle-to-find-time-for-upskilling/828304/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many consecutive business days Bank of America employees are allowed to work remotely.",
-    "publishedAt": "2026-08-20",
+    "id": "news-skilled-labor-demand-is-exploding-ai-may-be-both-a-cause-and-1787325720000",
+    "title": "Skilled labor demand is exploding. AI may be both a cause and a solution",
+    "link": "https://www.hrdive.com/news/skilled-labor-demand-is-exploding-ai-is-both-a-cause-and-a-solution-nfpa/828486/",
+    "summary": "A survey by the National Fire Protection Association found that while AI is putting pressure on an already stretched fire and safety workforce, it is also making their jobs easier.",
+    "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -66,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787314922000",
-    "title": " 影石大疆又在近百亿的池子里贴身肉搏了 ",
-    "link": "https://www.huxiu.com/article/4885016.html?f=rss",
-    "summary": "出品｜虎嗅商业消费组 作者｜周月明 编辑｜苗正卿 题图｜视觉中国 影石和大疆又又又贴脸发新品了。 8月12日晚，影石发布新一代旗舰全景相机 X6，24小时后，大疆第二代全景相机Osmo 360 II紧随登场。 表面看，这一轮仍是熟悉的产品对打。 影石把重点放在8k一英寸全景影像、集全景相机、运动相机和 Vlog 相机于一体的&ldquo;三合一&rdquo;产品形态以及3D高斯泼溅、自研全景AI模型PanoMind等技术。 大疆则注重产品的底层能力和AI能力，把以8K 60帧为核心的更极致画质和AI近景拼接能力推到台前。 按IDC口径，2025年全球全景相机市场规模已突破12.12亿美元( 约82亿元人民币 )，同比增长88%；2026年一季度出货量增速仍超过50%。若这一增速延续，2026年全景相机市场规模大概率将突破100亿元人民币。 但全景相机在两家公司内部的位置并不相同。 对影石而言，全景相机是公司起家的基本盘 ，是他们十年的主力赛道，也是其向运动相机、云台、无人机和音频设备扩张的出发点。据IDC机构数据报道，截至2026年第一季度，影石全景相机全球销量市占率68%。 对大疆而言，全景相机被视为 Osmo 影像生态里的一块关键拼图， 大疆已通过无人机、手持云台、运动相机等产品建立起完整的影像能力，全景相机是这些能力可以复用的新出口。 但如果只比较传感器、帧率和算法，容易错过",
+    "id": "news-stripe-ai-1787331042000",
+    "title": " Stripe 为什么盯上模型路由：AI 进入“智能采购”时代 ",
+    "link": "https://www.huxiu.com/article/4885069.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 Stripe要买OpenRouter，乍看有点不合常理。 一家做支付的公司，为什么愿意为一个模型路由平台给出超过70亿美元、外界普遍估计接近或超过80亿美元的价格？OpenRouter不训练模型，没有GPU，也不卖聊天机器人。它做的是统一接口：开发者接一次，就能调用OpenAI、Anthropic、Google、DeepSeek和一批开源模型、推理供应商。 过去，这种产品很容易被一句“API wrapper”打发掉。 Stripe 8月19日宣布同意收购OpenRouter时，讲的却是另一件事。Stripe一直在替企业处理支付方式、授权成功率和欺诈风险；现在，企业还得在模型、速度、价格和效果之间做即时取舍。OpenRouter当时连接400多个模型、80多家供应商，正好卡在这道取舍之前。 Stripe给投资人的信里有一句话，很像这笔交易的底稿：过去每个开发者都需要管理收入管道，往后，每个开发者还得管理“智能管道”。 问题一下就变了。Stripe看中的不只是一段模型API，而是企业今后如何采购智能、给智能记账、约束智能，并为它结算的入口。 一、先把一个误解放下：Token不是钱 这桩交易很容易被说成“Token要成为AI时代的货币”。 不同模型的tokenizer、输入输出价格、缓存、吞吐和延迟都不同。同样是一百万token，C",
     "publishedAt": "2026-08-21",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787309517000",
-    "title": "王振辉重返京东，先接住外卖大战的沉没成本",
-    "link": "https://www.tmtpost.com/8111529.html",
-    "summary": "营收增长24%，股价大跌13%",
+    "id": "news--1787317783000",
+    "title": "“割裂”的市场：十万亿级中国银发经济的真实地图丨行业风向标",
+    "link": "https://www.tmtpost.com/8112352.html",
+    "summary": "宏大的产业叙事与微观的经营体感之间，横亘着清晰的割裂地带。",
     "publishedAt": "2026-08-21",
     "source": "钛媒体",
     "tags": [
@@ -106,10 +107,181 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-t-1787271224000",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "id": "news-waymo-hands-over-documents-in-nhtsa-8217-s-child-collision-p-1787334598000",
+    "title": "Waymo hands over documents in NHTSA&#8217;s child collision probe",
+    "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+    "summary": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+    "publishedAt": "2026-08-21",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-c-1787315406000",
+    "title": "Otter.ai ruling puts AI meeting assistants on the hook for consent",
+    "link": "https://hrexecutive.com/otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-consent/",
+    "summary": "A federal judge in California ruled Otter's meeting assistant could be an independent third party that recorded and retained data for profit. The post Otter.ai ruling puts AI meeting assistants on the hook for consent appeared first on HR Executive .",
+    "publishedAt": "2026-08-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-managers-say-they-are-using-public-ai-tools-to-prepare-for-h-1787325660000",
+    "title": "Managers say they are using public AI tools to prepare for hard conversations",
+    "link": "https://www.hrdive.com/news/managers-using-public-ai-tools-hard-conversations/828497/",
+    "summary": "That use can include inputting employee names and performance details into a public artificial intelligence platform, a survey found.",
+    "publishedAt": "2026-08-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agent-1787305473000",
+    "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+    "link": "https://www.qbitai.com/2026/08/476733.html",
+    "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+    "publishedAt": "2026-08-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787328528000",
+    "title": " 你的颠沛流离，成了张丹丹教授囗中的“特殊福利” ",
+    "link": "https://www.huxiu.com/article/4885068.html?f=rss",
+    "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 西晋大荒，百姓饥馑无粮，饿殍遍野。身居深宫的晋惠帝听闻灾情，茫然抛出一句千古笑谈：“百姓无粟米充饥，何不食肉糜？” 千百年来，我们总把这段历史当成陈旧的荒诞轶事，唏嘘帝王隔绝人间、不识民间疾苦。直到北大张丹丹教授一句“灵活就业本身就是一种福利”出圈，世人骤然看清：历史从不会消失，只是换一身体面的现代外衣，反复上演。 褪去古旧外壳，内核的傲慢，千年未变。 在张丹丹教授的劳动经济学模型里，就业是一套完美工整的等价交换：体制内之人收敛自由，换取安稳保障；灵活就业者舍弃福利，换取时间自由，双向选择、各取所需，逻辑闭环滴水不漏。 这套理论在书本里无懈可击，唯独错在：模型冰冷工整，普通人的生活，要烟火谋生。 当下国内灵活就业人数早已突破两亿，规模仍在持续扩张。就业市场的真实困境，从来不是个人选择的偏好，而是结构性的生存挤压。每年千万高校毕业生涌入社会，求职赛道极度拥挤，带五险一金的正规岗位持续缩减，企业纷纷以外包、零工模式转嫁用工成本。 无数年轻人、中年失业者，不是主动拥抱灵活，而是挤不进稳定岗位，被迫落入零工赛道。 就业的不确定，进一步拖垮了一代人的生活预期。年轻人看不到安稳未来，不敢置业、不敢消费、更不敢婚育。持续走低的结婚率、生育率，从来不是年轻人观念的矫情变迁，而是普通人对生存风险的本能避险。当生活充满动荡，所有长远的人生规划，都会向“",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787309517000",
+    "title": "王振辉重返京东，先接住外卖大战的沉没成本",
+    "link": "https://www.tmtpost.com/8111529.html",
+    "summary": "营收增长24%，股价大跌13%",
+    "publishedAt": "2026-08-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-when-ai-designs-a-drug-who-gets-the-credit-1787302800000",
+    "title": "When AI designs a drug, who gets the credit?",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
+    "publishedAt": "2026-08-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-why-is-the-doj-investigating-andreessen-horowitz-s-board-sea-1787331219000",
+    "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+    "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+    "publishedAt": "2026-08-21",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-face-retirement-readiness-gap-in-defined-contribut-1787314532000",
+    "title": "Employers face retirement readiness gap in defined contribution plans",
+    "link": "https://hrexecutive.com/employers-face-retirement-readiness-gap-in-defined-contribution-plans/",
+    "summary": "\"Employers have invested heavily in retirement programs, but the next challenge is proving these programs are moving employees closer to retirement readiness,\" said Chris West of WTW. The post Employers face retirement readiness gap in defined contribution plans appeared first on HR Executive .",
+    "publishedAt": "2026-08-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-women-are-significantly-underrepresented-in-the-ai-workforce-1787325660000",
+    "title": "Women are significantly underrepresented in the AI workforce",
+    "link": "https://www.hrdive.com/news/women-are-significantly-underrepresented-in-the-ai-workforce/828485/",
+    "summary": "The gender disparity is even more pronounced in the highest-paying jobs and top executive levels,&nbsp;according to research from LinkedIn.",
+    "publishedAt": "2026-08-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-io-ai-34g-1787302806000",
+    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+    "link": "https://www.qbitai.com/2026/08/476628.html",
+    "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+    "publishedAt": "2026-08-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-moderna-177-1787309352000",
+    "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
+    "link": "https://www.tmtpost.com/8112046.html",
+    "summary": "Moderna癌症疫苗III期临床成功。",
+    "publishedAt": "2026-08-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-company-s-plans-to-deploy-space-mirrors-could-jeopardiz-1787302800000",
+    "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+    "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The&#8230;",
+    "publishedAt": "2026-08-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-us-government-lab-is-probing-chinese-lidar-for-security-vuln-1787328114000",
+    "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+    "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+    "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -145,190 +317,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1787305473000",
-    "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-    "link": "https://www.qbitai.com/2026/08/476733.html",
-    "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
-    "publishedAt": "2026-08-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-25-1787314852000",
-    "title": " 25家平台正式缴费，外卖员、网约车司机的专属“工伤险”来了 ",
-    "link": "https://www.huxiu.com/article/4885019.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：姜鑫 自今年7月1日起，全国31个省份和新疆生产建设兵团已经开始实施新职业伤害保障，25个平台企业的外卖员、滴滴司机、同城货运、快递人员等被纳入保障。 2026年8月，成都暑气蒸腾。 在青羊区少城街道一栋居民楼内，外卖员熊先生正在家中养伤。 熊先生从事外卖配送已有五六年的时间。2025年10月，熊先生在外出取单途中意外摔倒，造成手臂和脚踝骨折。受伤之后，新就业形态人员职业伤害保障（下称“新职业伤害保障”）分四次向熊先生支付了赔款，帮他分担了受伤带来的经济压力。 如今，这个于2022年在17个省份、11家平台进行试点的新职业伤害保障，正在向全国扩容。经济观察报了解到，自今年7月1日起，全国31个省份和新疆生产建设兵团已经开始实施新职业伤害保障，25个平台企业的外卖员、滴滴司机、同城货运、快递人员等被纳入保障。 一次意外 记者来到熊先生家中时，已经在家养伤近10个月的熊先生正在侍弄鱼缸，脚踝中的钢板尚未取出。 回忆起受伤，熊先生仍然觉得不可思议：“跑了五六年外卖，大风、大雨没出事，没想到在春熙路打滑了。” 事情发生在2025年10月的一个下午，熊先生接到了4单外卖，已经取了3单，在去第四家餐厅取餐的路上，经过春熙路附近的一个水产市场，骑行速度不快的熊先生在刹车时电动车突然打滑，连人带车摔倒在地。 摔倒后，熊先生的左手和左脚都出现骨折变形。他随即",
-    "publishedAt": "2026-08-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-moderna-177-1787309352000",
-    "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
-    "link": "https://www.tmtpost.com/8112046.html",
-    "summary": "Moderna癌症疫苗III期临床成功。",
-    "publishedAt": "2026-08-21",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-when-ai-designs-a-drug-who-gets-the-credit-1787302800000",
-    "title": "When AI designs a drug, who gets the credit?",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
-    "publishedAt": "2026-08-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-learn-what-vcs-actually-want-from-a-founder-who-8217-s-raise-1787268747000",
-    "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
-    "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
-    "publishedAt": "2026-08-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-today-s-employees-need-more-than-perks-1787312705000",
-    "title": "What today’s employees need more than perks",
-    "link": "https://hrexecutive.com/what-todays-employees-need-more-than-perks/",
-    "summary": "When employees start questioning the viability of their role, declining morale and company culture affect more than HR, but the entire business. The post What today’s employees need more than perks appeared first on HR Executive .",
-    "publishedAt": "2026-08-21",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-more-than-a-third-of-workers-say-their-retirement-age-has-mo-1787237460000",
-    "title": "More than a third of workers say their retirement age has moved later",
-    "link": "https://www.hrdive.com/news/workers-say-their-retirement-age-has-moved-later/827853/",
-    "summary": "Employees&rsquo; reasons for delaying retirement included the cost of living, not earning enough and a lack of savings.",
-    "publishedAt": "2026-08-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-io-ai-34g-1787302806000",
-    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-    "link": "https://www.qbitai.com/2026/08/476628.html",
-    "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-    "publishedAt": "2026-08-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-40-1787314714000",
-    "title": " 未来科学大奖得主赵东元：40岁前别做应用，你要先创造 ",
-    "link": "https://www.huxiu.com/article/4885018.html?f=rss",
-    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：侯慧静 “40岁之前别做应用，要潜心做基础研究。”中国科学院院士、复旦大学教授赵东元常把这句话讲给团队和学生听。理由是，年轻的时候想象力最丰富，得坐得住冷板凳、耐得住寂寞。 赵东元自己就是按这句话走过来的。上世纪90年代，他扎进介孔材料研究，那时候国内没几个人听过这个名字。这种材料浑身是孔，孔径只有2~50纳米。因为孔道多、表面积大，能吸附大量分子，后来在催化、能源转化与存储、环境治理及生物医药等领域都派上了大用场。 2000年前后，当介孔材料还主要局限于无机体系时，赵东元和团队开始尝试创造有机介孔材料，一熬就是5年。2005年，他提出有机—无机自组装的新思想，并将实验方法公之于众，把介孔材料化学领进了“无人区”。 然而，真正大规模推动这些材料走向应用时，赵东元已经50多岁了。他开始与企业合作，把介孔材料带进石油炼制、储能、集成电路等领域，光是跟中石化合作推进石油炼制应用，就磨了七八年。 8月13日，赵东元凭借“在介孔材料的合成控制、机制理解和工业应用方面的开创性贡献”，拿下2026未来科学大奖物质科学奖。获奖后再次谈到基础研究和应用，他说：“你要先创造。” 赵东元。受访者供图 先创造，再谈有没有用 《中国科学报》：你曾说自己有一个“职业习惯”，看到一种材料就会想到能不能在上面“打孔”。这种习惯背后体现的是一种怎样的观察材料、理解",
-    "publishedAt": "2026-08-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787309350000",
-    "title": "吴妈劝大家别害怕",
-    "link": "https://www.tmtpost.com/8111959.html",
-    "summary": "听吴妈的话。",
-    "publishedAt": "2026-08-21",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-company-s-plans-to-deploy-space-mirrors-could-jeopardiz-1787302800000",
-    "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-    "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The&#8230;",
-    "publishedAt": "2026-08-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-openai-is-gaining-on-anthropic-with-business-users-new-data--1787265397000",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "publishedAt": "2026-08-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-leaders-already-have-the-tools-to-make-organizational-cha-1787229040000",
-    "title": "HR leaders already have the tools to make organizational change stick",
-    "link": "https://hrexecutive.com/hr-leaders-already-have-the-tools-to-make-organizational-change-stick/",
-    "summary": "Three ways to connect the HR practices you already own to the behaviors that matter most for organizational change. The post HR leaders already have the tools to make organizational change stick appeared first on HR Executive .",
-    "publishedAt": "2026-08-20",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-only-1-in-5-organizations-are-prepared-to-move-toward-autono-1787233680000",
-    "title": "Only 1 in 5 organizations are prepared to move toward autonomous AI agents, Deloitte finds",
-    "link": "https://www.hrdive.com/news/only-1-in-5-organizations-are-prepared-to-move-toward-autonomous-ai-agents/828324/",
-    "summary": "Poorly documented or misunderstood processes, fragmented data systems, and entrenched ways of working are impeding the transition, according to the report.",
-    "publishedAt": "2026-08-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news-gpt-3-3-1787296678000",
     "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
     "link": "https://www.qbitai.com/2026/08/476596.html",
@@ -342,23 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-le-labo-1787313769000",
-    "title": " Le Labo拯救了雅诗兰黛在中国的生意 ",
-    "link": "https://www.huxiu.com/article/4885014.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：周芳颖 在经历连续三年的销售下滑后，雅诗兰黛集团终于在2026财年恢复增长。但该公司旗下Le Labo却已经跑得更快。 雅诗兰黛集团最新发布的2026财年业绩显示，全年销售额增长5%至150亿美元，有机销售额增长3%。其中香水仍是表现最强的品类之一，有机销售额增长10%。中国大陆市场全年有机销售额增长9%，香水品类同样表现最好，实现双位数增长。 其中，Le Labo已经成为雅诗兰黛集团在中国市场的重要推动力。 雅诗兰黛中国告诉界面时尚，2026财年集团每个季度均跑赢中国大陆高端美妆市场，市场份额增长主要由La Mer、Le Labo和TOM FORD推动。其中，Le Labo全年销售额增长超过50%。 这一增速并不是突然出现的。2025财年，Le Labo全球销售额已经连续四个季度保持双位数增长，并在一年内增加90个销售点，包括北京旗舰店和首尔首店。到2026财年第三季度，该品牌仍保持双位数有机销售增长，同时原有门店可比销售实现高个位数增长。新品Violette 30以及经典系列共同贡献增长。 这意味着，Le Labo的增长既来自开店，也并非完全依赖开店。 但Le Labo越卖越好，也正在面对一个过去并不明显的问题。当一个依靠“小众”建立吸引力的品牌不断扩大规模，它维持原有稀缺感的空间正在被持续压缩，这种紧迫感也变得越来越明显。 一名消费者告",
-    "publishedAt": "2026-08-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787309348000",
-    "title": "硅基负极材料的“窄门”",
-    "link": "https://www.tmtpost.com/8111920.html",
-    "summary": "硅基负极的商业化落地，并非一条坦途，而是一道需要多重条件匹配的“窄门”。",
+    "id": "news--1787309350000",
+    "title": "吴妈劝大家别害怕",
+    "link": "https://www.tmtpost.com/8111959.html",
+    "summary": "听吴妈的话。",
     "publishedAt": "2026-08-21",
     "source": "钛媒体",
     "tags": [
@@ -382,16 +357,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p-1787263791000",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-    "publishedAt": "2026-08-20",
+    "id": "news-oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-1787323164000",
+    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+    "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+    "summary": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
+    "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-what-today-s-employees-need-more-than-perks-1787312705000",
+    "title": "What today’s employees need more than perks",
+    "link": "https://hrexecutive.com/what-todays-employees-need-more-than-perks/",
+    "summary": "When employees start questioning the viability of their role, declining morale and company culture affect more than HR, but the entire business. The post What today’s employees need more than perks appeared first on HR Executive .",
+    "publishedAt": "2026-08-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-this-week-in-5-numbers-employees-struggle-to-find-time-for-u-1787251620000",
+    "title": "This week in 5 numbers: Employees struggle to find time for upskilling",
+    "link": "https://www.hrdive.com/news/employees-struggle-to-find-time-for-upskilling/828304/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many consecutive business days Bank of America employees are allowed to work remotely.",
+    "publishedAt": "2026-08-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
     ]
   }
 ];
@@ -794,7 +795,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTg2LjIzNy4xMzU= when applying to show you read the job post completely (#RMjAuMTg2LjIzNy4xMzU=)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY5LjcyLjE2Mw== when applying to show you read the job post completely (#RMjAuMTY5LjcyLjE2Mw==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -910,26 +911,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
     "postedAt": "2026-08-14",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136905",
-    "title": "Polisher Waldorf Astoria Ras Al Khaimah",
-    "company": "Hilton",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Description Exceptional Hospitality Starts with You Picture yourself brightening someone’s day",
-      "When you join our Hotels team, that’s exactly what you’ll do every time you come to work",
-      "As a Polisher , and finishes are well-maintained and visually appealing – you’re spreading the light and warmt"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "رأس الخيمة, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-polisher-waldorf-astoria-ras-al-khaimah-hilton-1136905",
-    "postedAt": "2026-08-14",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-21T12:38:41.029Z';
+export const dataFetchedAt = '2026-08-21T18:31:13.562Z';
