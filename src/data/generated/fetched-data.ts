@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-michael-polansky-is-training-an-ai-model-on-skin-that-s-stil-1787362264000",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-kate-farms-brought-values-culture-co-creation-to-life-1787315428000",
-    "title": "How Kate Farms brought values, culture co-creation to life",
-    "link": "https://hrexecutive.com/how-kate-farms-brought-values-culture-co-creation-to-life/",
-    "summary": "Employees worked alongside leaders to redefine company values and, ultimately, fuel company culture at the rapidly growing organization. The post How Kate Farms brought values, culture co-creation to life appeared first on HR Executive .",
-    "publishedAt": "2026-08-21",
+    "id": "news-boosting-performance-without-the-burnout-talking-tech-benefi-1787416450000",
+    "title": "Boosting Performance Without the Burnout: Talking Tech, Benefits and the Science of Excellence With Dr. Greg Wells",
+    "link": "https://hrexecutive.com/boosting-performance-without-the-burnout-talking-tech-benefits-and-the-science-of-excellence-with-dr-greg-wells/",
+    "summary": "Thursday, July 9, 2026 at 3:00 pm ET If you want to add an exciting new dimension of leadership to your organization's culture, this webcast is one you won’t want to miss. The post Boosting Performance Without the Burnout: Talking Tech, Benefits and the Science of Excellence With Dr. Greg Wells appeared first on HR Executive .",
+    "publishedAt": "2026-08-22",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -55,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eon-lif-1787401267000",
-    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-    "link": "https://www.qbitai.com/2026/08/477090.html",
-    "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+    "id": "news-demo-1-1-wrc-1787410003000",
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "link": "https://www.qbitai.com/2026/08/477253.html",
+    "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
     "publishedAt": "2026-08-22",
     "source": "量子位",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787400254000",
-    "title": " 张丹丹失言背后，真问题是谁来缴社保 ",
-    "link": "https://www.huxiu.com/article/4885170.html?f=rss",
-    "summary": "本文来自微信公众号： 赛格大道 ，作者：张明扬 北大国发院教授张丹丹，今天可能创下了中国学者单日被怼次数的历史最高纪录。 今天一早，在各种微信群里，张丹丹和她的那句名言“灵活（就业）本身就是一种福利”，几乎成为了唯一的话题，虽然批判她的居多，但也有为她辩护的。 辩护者的一大理由是，张丹丹的这句话是有上下文和语境的，这样被单独拿出来说，既不准确也不公平。 这个辩护理由当然成立，大部分批评张丹丹的人恐怕并没有看完整个采访，但是，既然“拆条”已经成为中国互联网文化的常态，短视频（片段）也成为了国内网友接受信息的主要途径，再去纠结这个似乎也没太大意义。 如果看了采访全文，以及对张丹丹平日的学术观点有一个大致了解的话，你就知道，张丹丹这句话的确是被误读了，有违她的初衷。但是，张丹丹这句话，尤其是“福利”这个词的确过于模糊，极易引发公众误解。 既然张丹丹选择用了这样一个容易引发歧义的词，那么，她被误读、被误解，乃至被批评，自然张丹丹也要负一部分责任。 作为公共发言，张丹丹的措辞是不妥的，触及了普通公众内心最敏感的那一部分，绝对可以批评；但是，如果回到学术观点本身，张丹丹的本意其实并没有什么错。 先说公众为什么这么愤怒？ “灵活（就业）本身就是一种福利”，我想只要是正常人，都很容易将这句话理解为“灵活就业很幸福”。 按照权威口径，中国灵活就业人口超过两亿。一个流行的争议话题是：灵活就业究竟是主动",
+    "id": "news--1787420910000",
+    "title": " 灵活就业学者栽在了“剪金句”的小编手里 ",
+    "link": "https://www.huxiu.com/article/4885210.html?f=rss",
+    "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做出追问，张丹丹也进一步补充说明，算是把话题给圆回来了。 这场原本顺利结束的访谈，在进入二次剪辑时却失控了。该“金句”片段被各大媒体、自媒体截取推向短视频平台，瞬间演变为病毒式扩散。随后公知与各大V纷纷下场抨击，舆情迅速升级出圈。 在对学者排山倒海的群嘲里，偶尔看到有网友为张教授“喊冤”，说她讲的没太大问题，是媒体“掐头去尾”的剪辑手法片面化呈现了。 我不想去评价张教授的专业性和知识分子应有的良知与悲悯，如果从传媒产业角度说两句，那整件事可以概括为： “很傻很天真”的学者遇上“揣着明白装糊涂”的短视频小编。 01 金句依赖：短视频的原罪 张教授估计不清楚，这种“掐头去尾”式的剪辑手法，在当今的媒介生态中早已是公开的秘密（基操）。 老实说，过去我在带团队时也和小伙伴们这么干过…… 当一个人被按在流量KPI的流水线上，每天睁眼就是点击量、互动量等业绩指标，你很难要求这批卷生卷死的牛马去当什么道德圣人。在单位生存压力和自己的饭碗面前，媒",
     "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-japanese-space-tech-startup-letara-expands-beyond-satellite--1787360586000",
-    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+    "id": "news-frontier-ai-labs-still-won-8217-t-say-how-they-8217-d-contai-1787414400000",
+    "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -120,16 +120,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-c-1787315406000",
-    "title": "Otter.ai ruling puts AI meeting assistants on the hook for consent",
-    "link": "https://hrexecutive.com/otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-consent/",
-    "summary": "A federal judge in California ruled Otter's meeting assistant could be an independent third party that recorded and retained data for profit. The post Otter.ai ruling puts AI meeting assistants on the hook for consent appeared first on HR Executive .",
+    "id": "news-how-kate-farms-brought-values-culture-co-creation-to-life-1787315428000",
+    "title": "How Kate Farms brought values, culture co-creation to life",
+    "link": "https://hrexecutive.com/how-kate-farms-brought-values-culture-co-creation-to-life/",
+    "summary": "Employees worked alongside leaders to redefine company values and, ultimately, fuel company culture at the rapidly growing organization. The post How Kate Farms brought values, culture co-creation to life appeared first on HR Executive .",
     "publishedAt": "2026-08-21",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -146,28 +146,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-1-1-wrc-1787400683000",
-    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-    "link": "https://www.qbitai.com/2026/08/477016.html",
-    "summary": "具身智能赛道壁垒不在出货量",
+    "id": "news--1787408379000",
+    "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+    "link": "https://www.qbitai.com/2026/08/477246.html",
+    "summary": "直击WRC",
     "publishedAt": "2026-08-22",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-michael-dowling-1787399957000",
-    "title": " 财经思享汇独家｜对话德国国家工程院院士Michael Dowling：人形机器人商业化可能比想象中更慢 ",
-    "link": "https://www.huxiu.com/article/4885180.html?f=rss",
-    "summary": "本文来自微信公众号： 财经思享汇 ，作者：财经思享汇，编辑：管东生，原文标题：《财经思享汇独家｜对话德国国家工程院院士Michael Dowling：人形机器人商业化可能比想象中更慢》 “随着大规模生产，硬件会越来越便宜，真正形成差异的会是软件和服务。” 2026世界机器人大会上，人形机器人依然是最受关注的主角之一。 人形机器人热度仍在上升，但对于产业而言，更关键的问题已经不是机器人还能展示多少新动作，而是这些能力究竟有多少能够转化为真实生产力。 但在德国国家工程院院士、MÜNCHNER KREIS董事会主席、德国雷根斯堡大学教授Michael Dowling看来，热闹的展示与真正的产业价值之间，仍然存在明显距离。 “中国机器人产业现在非常重视人形机器人，但人形机器人目前在整个工业机器人中仍然只占很小一部分。”Dowling表示，未来中国机器人产业面临的一个关键问题，是这些人形机器人最终能否证明自己在工厂中“真的有用”。 在他看来，当前不少人形机器人仍处于技术展示阶段。 “很多公司喜欢展示会跳舞的机器人、跑得很快的机器人，但这些能力在工厂里都没有实际用途。”Dowling说，“没有人希望机器人在工厂里到处跑，也没有人需要机器人在工厂里跳舞。” 因此，与机器人能不能跑得更快、动作是否更像人相比，他更关心的是机器人的操作能力。“接下来一个非常重要的发展会发生在‘手’上。”Dowling",
-    "publishedAt": "2026-08-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -198,11 +185,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-s-opus-4-6-is-a-smut-machine-1787353645000",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "publishedAt": "2026-08-21",
+    "id": "news-us-battery-startups-have-found-a-lifeline-in-defense-1787412000000",
+    "title": "US battery startups have found a lifeline in defense",
+    "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+    "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -211,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-face-retirement-readiness-gap-in-defined-contribut-1787314532000",
-    "title": "Employers face retirement readiness gap in defined contribution plans",
-    "link": "https://hrexecutive.com/employers-face-retirement-readiness-gap-in-defined-contribution-plans/",
-    "summary": "\"Employers have invested heavily in retirement programs, but the next challenge is proving these programs are moving employees closer to retirement readiness,\" said Chris West of WTW. The post Employers face retirement readiness gap in defined contribution plans appeared first on HR Executive .",
+    "id": "news-otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-c-1787315406000",
+    "title": "Otter.ai ruling puts AI meeting assistants on the hook for consent",
+    "link": "https://hrexecutive.com/otter-ai-ruling-puts-ai-meeting-assistants-on-the-hook-for-consent/",
+    "summary": "A federal judge in California ruled Otter's meeting assistant could be an independent third party that recorded and retained data for profit. The post Otter.ai ruling puts AI meeting assistants on the hook for consent appeared first on HR Executive .",
     "publishedAt": "2026-08-21",
     "source": "HR Executive",
     "tags": [
@@ -238,28 +225,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787388793000",
-    "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-    "link": "https://www.qbitai.com/2026/08/476965.html",
-    "summary": "",
+    "id": "news-wrc-2026-ai-1787407880000",
+    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+    "link": "https://www.qbitai.com/2026/08/477155.html",
+    "summary": "一脑驱动多形落地",
     "publishedAt": "2026-08-22",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787398227000",
-    "title": " 谈谈茅台半年报 ",
-    "link": "https://www.huxiu.com/article/4885175.html?f=rss",
-    "summary": "本文来自微信公众号： 梁孝永康 ，作者：梁孝永康 茅台的财报，我一般不怎么看，包括年报。今年是茅台的改革年，我有一点想法，其实和半年报也没啥太大关系。在这里随便写写，我写的东西，有些人知道，有些人可能不知道。 2026年上半年，茅台公司收入907亿，上升1.47%，净利润445亿，下跌1.95%。与去年同期大体持平。 2026年1月1日，53度飞天正式在i茅台上销售，价格1499一瓶，3月31号提价至1539一瓶。飞天出厂价3.31号从1169提升至1269。这两件事都是发生在上半年，对业绩有正向作用。（7月18号的再次提价对上半年业绩无影响）。 在这两件事的正向影响下，上半年业绩依然无增长，这是为何呢？ 今年1月1日，茅台取消了市场指导价，生肖，精品，年份酒全部下调回归市场定价。精品茅台之前批发给经销商2969元，i茅台上卖3299元，下调后统一2299元（5月16涨到2359元），经销商代售的还要扣去5%，等于是2299乘以95%等于2184元。生肖茅台之前出厂价1999元，i茅台卖2499元，下调后统一1899元，经销商代售部分也要扣去5%，等于1804元。15年年份茅台以前出厂价5399元，i茅台5999元，下调后统一4279元。30年50年年份茅台量很少，就不说了。代售制度在4月份全面落实。 这些非标茅台都是高利润产品，比如精品降价达到1000左右，飞天提价100元，要多",
-    "publishedAt": "2026-08-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -290,11 +264,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-partners-with-data-center-developer-cloverleaf-1787351858000",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "publishedAt": "2026-08-21",
+    "id": "news-pixel-11-pro-xl-review-snappier-cameras-can-8217-t-hide-an-i-1787407200000",
+    "title": "Pixel 11 Pro XL review: Snappier cameras can&#8217;t hide an iterative upgrade",
+    "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+    "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+    "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -303,15 +277,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepfake-scams-are-surging-what-hr-can-do-1787312719000",
-    "title": "Deepfake scams are surging: What HR can do",
-    "link": "https://hrexecutive.com/deepfake-scams-are-surging-what-hr-can-do/",
-    "summary": "Fake videos and images of well-known public figures were involved in over half of all reported deepfake incidents in 2025. The post Deepfake scams are surging: What HR can do appeared first on HR Executive .",
+    "id": "news-employers-face-retirement-readiness-gap-in-defined-contribut-1787314532000",
+    "title": "Employers face retirement readiness gap in defined contribution plans",
+    "link": "https://hrexecutive.com/employers-face-retirement-readiness-gap-in-defined-contribution-plans/",
+    "summary": "\"Employers have invested heavily in retirement programs, but the next challenge is proving these programs are moving employees closer to retirement readiness,\" said Chris West of WTW. The post Employers face retirement readiness gap in defined contribution plans appeared first on HR Executive .",
     "publishedAt": "2026-08-21",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -329,28 +304,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787388101000",
-    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-    "link": "https://www.qbitai.com/2026/08/476930.html",
-    "summary": "让具身智能技术真正落地千行万业。",
+    "id": "news-00-token-1787406960000",
+    "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+    "link": "https://www.qbitai.com/2026/08/477094.html",
+    "summary": "采集，从一条腕带开始",
     "publishedAt": "2026-08-22",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787398226000",
-    "title": " 那些靠手艺与命运死磕的人 ",
-    "link": "https://www.huxiu.com/article/4885174.html?f=rss",
-    "summary": "本文来自微信公众号： 经观书评 ，作者：刘晗 张哲笔下的主人公皆是手艺人，那些用手活着、靠手艺跟命运死磕的苦命人，闷葫芦似的话不多，脾气倔，心里藏着火。而她捡拾着时代边缘的灰烬，为这些沉默的匠人树碑立传，纪念传统世界里留下的美好。 那些靠手艺与命运死磕的人 ——《织火焰的手》中的民间艺匠形象 在大多数人的印象里，京味儿小说是豆汁焦圈的市井烟火，是天桥的把式，是胡同里大爷提着鸟笼子、见面就招呼一句“吃了嘛您嘞”的热乎劲儿。张哲的小说集《织火焰的手》却是另一番景象：冰封的河，遍地的雪，赤裸的山，还有一群在寒夜里揣着一团火的手艺人。北京人的故乡在回忆里，那些掌心有火的人，是张哲真真切切见识过的。 《织火焰的手》 张哲|著 后浪|江苏凤凰文艺出版社 2026年1月 张哲打小生活在北京西南远郊的燕山石化，在她的小说里少有都市化的符号，没有咖啡馆和酒吧，没有职场内卷和教育焦虑。她写的是不被大多数人看见的另一种北京，是被城市灯火照不到的那一面，她的故事就生长在小时候那片田间地头。 张哲笔下的主人公皆是手艺人，那些用手活着、靠手艺跟命运死磕的苦命人，闷葫芦似的话不多，脾气倔，心里藏着火。而她捡拾着时代边缘的灰烬，为这些沉默的匠人树碑立传，纪念传统世界里留下的美好。他们的理想从来不是要改变世界，而是认真做完了一件事，轻轻放在人间的某个角落，哪怕如烟花绽放一瞬，也就足够了。 手艺与故事本质同源，都是经",
-    "publishedAt": "2026-08-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -382,16 +344,55 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-ai-accounting-startup-rillet-raised-100m-and-became-a-un-1787350201000",
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-    "publishedAt": "2026-08-21",
+    "id": "news-michael-polansky-is-training-an-ai-model-on-skin-that-s-stil-1787362264000",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+    "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-deepfake-scams-are-surging-what-hr-can-do-1787312719000",
+    "title": "Deepfake scams are surging: What HR can do",
+    "link": "https://hrexecutive.com/deepfake-scams-are-surging-what-hr-can-do/",
+    "summary": "Fake videos and images of well-known public figures were involved in over half of all reported deepfake incidents in 2025. The post Deepfake scams are surging: What HR can do appeared first on HR Executive .",
+    "publishedAt": "2026-08-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-managers-say-they-are-using-public-ai-tools-to-prepare-for-h-1787325660000",
+    "title": "Managers say they are using public AI tools to prepare for hard conversations",
+    "link": "https://www.hrdive.com/news/managers-using-public-ai-tools-hard-conversations/828497/",
+    "summary": "That use can include inputting employee names and performance details into a public artificial intelligence platform, a survey found.",
+    "publishedAt": "2026-08-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eon-lif-1787401267000",
+    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+    "link": "https://www.qbitai.com/2026/08/477090.html",
+    "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+    "publishedAt": "2026-08-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
     ]
   }
 ];
@@ -794,9 +795,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTcuMTUxLjEyOC44NQ== when applying to show you read the job post completely (#RNTcuMTUxLjEyOC44NQ==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNTEuNjEuODA= when applying to show you read the job post completely (#RMjAuNTEuNjEuODA=)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -930,4 +931,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-22T12:31:06.228Z';
+export const dataFetchedAt = '2026-08-22T18:23:44.494Z';
