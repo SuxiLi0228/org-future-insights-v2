@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-s-opus-4-6-is-a-smut-machine-1787353645000",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "publishedAt": "2026-08-21",
+    "id": "news-michael-polansky-is-training-an-ai-model-on-skin-that-s-stil-1787362264000",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+    "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -68,24 +68,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1787358173000",
-    "title": " 盘点全球具身智能30强：谁能让机器人真正工作？ ",
-    "link": "https://www.huxiu.com/article/4885074.html?f=rss",
-    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《盘点全球具身智能30强：谁能让机器人真正工作？｜#新排名》 3万辆汽车，10万个料箱。 这可能是当下具身智能行业最值得琢磨的两组数字。 第一组来自Figure。它的Figure 02在宝马美国斯帕坦堡工厂工作了11个月，运行超过1250小时，装载了9万多个零部件，参与生产了3万多辆BMW X3。 第二组来自Agility Robotics。它的双足机器人Digit，在GXO的真实仓库里，累计搬运了超过10万个料箱。 这两个数字都不如机器人翻跟头好看。翻跟头只需要十几秒，配上音乐，可以赢得满屏点赞；在流水线上把同一个动作做十万次，没有音乐，没有滤镜，甚至有点无聊。 但商业的秘密，常常就藏在这种无聊里。 一台机器人完成一次流畅的后空翻，和一台机器人在仓库里重复搬运十万个料箱，哪一个更接近具身智能的未来？ 前者赢得掌声，后者才可能产生收入。 这也是我们推出这份“全球具身智能30强”的原因。我们不准备选出全球最会表演的30台机器人，而是寻找最有可能成为“机器人劳动力供应商”的30家公司。 换句话说，这不是一份机器人颜值榜、融资榜或者武术比赛成绩单，而是一张全球机器人开始上班之前的早期座次表。 具身智能，正在结束表演赛 过去两年，具身智能行业最常见的竞争方式是发视频。 你能跑步，我就翻跟头；你能叠衣服，我就炒菜；你能端一杯",
+    "id": "news--1787375070000",
+    "title": " 磷化铟缺货真相 ",
+    "link": "https://www.huxiu.com/article/4885116.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：吴旭光 近日，多家机构预计，2026年全球磷化铟供需缺口超70%；国内所有厂商出货量仅占全球供应量约一成，产业链紧张局面持续向上下游传导。 《科创板日报》记者对锡业股份、兴福电子、云南锗业、源杰科技、仕佳光子、长光华芯、三安光电等磷化铟产业链上中下游多家上市公司致电访谈，试图厘清各环节的真实卡点所在。 从记者掌握的情况来看，国内磷化铟产业链呈“资源强、制造弱”的格局。上游精铟充足，但高纯铟产能不足；中游衬底、外延片仍在扩产爬坡，高速光芯片厂商普遍依赖进口衬底。整条产业链产能规模相较于全球需求仍有限。但2025年下半年以来，AI算力爆发驱动上中下游环节协同发力，本土化替代正在加速。 AI算力需求爆发下的刚性缺口 随着人工智能算力需求呈指数级攀升，磷化铟衬底材料正迅速跃升为全球光通信基础设施建设的市场关注焦点。 2026年7月，美国光芯片领军企业Lumentum首席执行官迈克尔•赫尔斯顿在巴黎欧洲AI峰会上公开表示，当前磷化铟衬底的供需缺口已显著超越DRAM与NAND闪存等主流存储器件。 这一信号不仅揭示了材料端的极度紧张，更凸显出磷化铟在AI时代数据中心光互连体系中日益关键的基础性地位。 国内一位磷化铟衬底企业高管对《科创板日报》记者进一步表示，AI算力市场发展提速，高速光模块激光器与光电探测器行业遇到的问题是如何实现数据快速传输，把显卡（GPU",
     "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787317783000",
-    "title": "“割裂”的市场：十万亿级中国银发经济的真实地图丨行业风向标",
-    "link": "https://www.tmtpost.com/8112352.html",
-    "summary": "宏大的产业叙事与微观的经营体感之间，横亘着清晰的割裂地带。",
-    "publishedAt": "2026-08-21",
+    "id": "news-scaling-law-1787364696000",
+    "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
+    "link": "https://www.tmtpost.com/8112064.html",
+    "summary": "参数量只是知识的仓库，真正决定智能的是FLOPs。",
+    "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-partners-with-data-center-developer-cloverleaf-1787351858000",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "publishedAt": "2026-08-21",
+    "id": "news-japanese-space-tech-startup-letara-expands-beyond-satellite--1787360586000",
+    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+    "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+    "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -159,24 +160,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787356173000",
-    "title": " 中国人为什么要拼命还钱 ",
-    "link": "https://www.huxiu.com/article/4885072.html?f=rss",
-    "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 2026年上半年的中国经济，如果只看总量，挑不出什么大毛病。 GDP同比增长4.7%，落在年初设定的预期区间里；货物进出口总额同比增长16.9%，历史同期首次突破25万亿元；规模以上高技术制造业增加值增长13.3%，新动能跑得比谁都快。 但如果你愿意把数据拆开来看，会发现里面暗藏”玄机”： 反常一：居民部门上半年贷款净减少3668亿元，为有统计以来首次半年度负增长；但居民存款余额却高达173.48万亿元，逼近历史峰值。 老百姓明明”很有钱”，却在拼命还钱、拒绝负债。 反常二：企事业单位贷款上半年增加11.13万亿元，其中中长期贷款增加5.55万亿元，金融资源大规模流向企业端。 企业明明”很有钱”，却不见对应规模的扩招。 反常三：2026届高校毕业生1270万人，同比再增48万，创历史新高；但6月份16—24岁劳动力（不含在校生）失业率仍高达14.9%，接近全国城镇调查失业率（5.0%）的三倍，与30—59岁劳动力4.0%的失业率形成近11个百分点的断层。 钱更多了，工作却更少了。 说白了就是：老百姓在拼命还钱，企业在拼命借钱，钱的总量在增加，但你我口袋里的钱没见多。 这不是一句”信心不足”就能解释的，也不是一句”结构性问题”就能搪塞过去的。三组数据对冲的背后，是一场正在发生的、关于”钱流向哪里”和”人价值多少”的迁移。 居民端：",
-    "publishedAt": "2026-08-21",
+    "id": "news-700-1787371933000",
+    "title": " 半年净利暴增700倍，江波龙红利期会持续多久？ ",
+    "link": "https://www.huxiu.com/article/4885110.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖 “存储模组王”江波龙（301308.SZ）迎来史上最佳业绩。2026年上半年营业收入240.88亿元，同比增长136.26%；归母净利润105.77亿元，同比暴增71528.66%——即715倍。 仅半年时间，净利润已超越2025年全年总额近八倍。 江波龙同步推进H股上市。公告显示，公司已于2026年5月29日向香港联交所重新递交上市申请。这已是其第二次递表，首次申请曾于2025年9月失效。若顺利挂牌，江波龙将成为国内首家“A+H”两地上市的独立存储器企业。 “江波龙这一轮的表现，很大程度上是吃到了周期上行的红利。”一位熟悉存储赛道的业内人士对《凤凰WEEKLY财经》表示，行业已连续6至8个季度处于上行通道，主流产品价格普遍翻倍。“但2026年以来，存储现货价格已出现松动迹象。” 258亿存货压顶： 经营现金流转负 巨额利润的另一面，风险正在累积。 截至2026年6月30日，江波龙存货账面价值已达257.77亿元，同比增长219.18%，占总资产的60.12%。江波龙在半年报中解释为“战略性备货”。关于备货逻辑，公司进一步说明：全球AI需求爆发后，存储原厂产能向企业级产品倾斜，晶圆供给呈现结构性紧张，公司需要通过“长协锁货（LTA）和谅解备忘录（MOU）提前锁定原材料”。 大规模备货需要资金支撑，公司债务规模随之攀升。截至",
+    "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787309517000",
-    "title": "王振辉重返京东，先接住外卖大战的沉没成本",
-    "link": "https://www.tmtpost.com/8111529.html",
-    "summary": "营收增长24%，股价大跌13%",
-    "publishedAt": "2026-08-21",
+    "id": "news-wrc2026-1787364665000",
+    "title": "WRC2026深度观察：机器人行业，正在去表演化、去差异化",
+    "link": "https://www.tmtpost.com/8112444.html",
+    "summary": "看似火热的WRC展会之下，人形机器人的创新红利正在悄悄消退。",
+    "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -198,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-ai-accounting-startup-rillet-raised-100m-and-became-a-un-1787350201000",
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+    "id": "news-anthropic-s-opus-4-6-is-a-smut-machine-1787353645000",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -251,25 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1500-1787353666000",
-    "title": " 三年不结婚就退款的AI红娘，凭什么让徐新投1500万？ ",
-    "link": "https://www.huxiu.com/article/4882908.html?f=rss",
-    "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜团队聚餐 &ldquo;用户三年没结婚全额退款，目标是让中国结婚率提升 10%。&rdquo; 良配科技创始人曾歆勋的这句话，听上去像一句狂言。 与虎嗅对谈当天，他正以 3000 万美元估值推进第二轮融资，腾讯、阿里、美团等多家大厂战投均已接触。这位 94 年的创业者是南方科技大学 2019 届毕业生，先后在微信、TikTok 负责搜索推荐业务，2025 年 5 月辞任 Kimi AI 搜索负责人，放弃千万期权下场 All in AI 婚恋。 &ldquo;入职 Kimi 第一天我就和老板说，迟早会自己创业，离开只是在等合适的时机。&rdquo; 曾歆勋的底气从天使轮便可见一斑：和今日资本徐新聊了 3 小时，直接敲定 1500 万天使轮融资。&ldquo;今日资本每年出手极少，去年大概只投了五家。我原本只想融 1000 万、出让 15% 股份，是徐新主动提出要拿 20%，最终追加到了 1500 万。&rdquo; 在曾歆勋看来，婚恋行业用户痛点十分明确，传统平台与用户利益却天然对立：订阅制模式下，用户的单身时长直接绑定平台营收&mdash;&mdash;脱单越快，用户流失越快；一直单身，反而能持续付费。这种荒诞的商业悖论，直接导致平台宁可制造无效社交、拉长决策周期，也不愿真正提升匹配效率。 &ldquo;过去的交友软",
-    "publishedAt": "2026-08-21",
+    "id": "news-3-1-5-3-1787371862000",
+    "title": " 又见定存利率倒挂，上海一银行存3年跟1年一个样，河南有银行存5年不如存3年 ",
+    "link": "https://www.huxiu.com/article/4885108.html?f=rss",
+    "summary": "本文来自微信公众号： 时代周报 ，编辑：卢泳志，作者：刘子琪，原文标题：《又见定存利率倒挂，上海一银行存3年跟1年一个样！河南有银行存5年不如存3年》 在银行存款，存一年等于存三年？ 据上海松江富明村镇银行公众号，根据LPR定价利率和资金市场利率变化，结合存款产品结构，自8月21日起，该行调整人民币存款利率。 调整后，该行在售的一年期、两年期、三年期整存整取的产品年利率同为1.65%，且起档金额均为50元。 △图源：上海松江富明村镇银行公众号 这意味着，无论消费者选择哪一档存期，对应所获的利息均一致。上海松江富明村镇银行工作人员向时代周报记者表示，现在整存整取一年期、二年期会获取积分，累积后可以兑换礼品，如一些生活用品，但整存整取三年并无积分获得。对此，该工作人员解释称，一年期、两年期整存整取的产品一直有积分，而之前三年期整存整取的产品利率较高，所以没有积分。 1—3年存款利率持平 在此之前，上海松江富明村镇银行一年期、二年期、三年期整存整取类产品的利率分别为1.65%、1.75%、1.75%。 当时，该行二年期、三年期整存整取类产品利率一致。此次调整，二年期、三年期整存整取类存款产品利率均下调至1.65%，一年期则保持不变。 此外，该行目前在售的大额存单产品期限仅有一年期，执行利率与整存整取一年期、两年期、三年期利率保持一致，同为1.65%。不过，大额存单的起存金额相对较高，为2",
+    "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-moderna-177-1787309352000",
-    "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
-    "link": "https://www.tmtpost.com/8112046.html",
-    "summary": "Moderna癌症疫苗III期临床成功。",
-    "publishedAt": "2026-08-21",
+    "id": "news-wrc-1787364661000",
+    "title": "破防了，WRC上的机器人，比我还会过日子",
+    "link": "https://www.tmtpost.com/8112486.html",
+    "summary": "中国机器人，跟中国人一样实在。",
+    "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -291,17 +292,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-visio-1787345887000",
-    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-    "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-    "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+    "id": "news-nvidia-partners-with-data-center-developer-cloverleaf-1787351858000",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -344,11 +344,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stripe-ai-1787331042000",
-    "title": " Stripe 为什么盯上模型路由：AI 进入“智能采购”时代 ",
-    "link": "https://www.huxiu.com/article/4885069.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 Stripe要买OpenRouter，乍看有点不合常理。 一家做支付的公司，为什么愿意为一个模型路由平台给出超过70亿美元、外界普遍估计接近或超过80亿美元的价格？OpenRouter不训练模型，没有GPU，也不卖聊天机器人。它做的是统一接口：开发者接一次，就能调用OpenAI、Anthropic、Google、DeepSeek和一批开源模型、推理供应商。 过去，这种产品很容易被一句“API wrapper”打发掉。 Stripe 8月19日宣布同意收购OpenRouter时，讲的却是另一件事。Stripe一直在替企业处理支付方式、授权成功率和欺诈风险；现在，企业还得在模型、速度、价格和效果之间做即时取舍。OpenRouter当时连接400多个模型、80多家供应商，正好卡在这道取舍之前。 Stripe给投资人的信里有一句话，很像这笔交易的底稿：过去每个开发者都需要管理收入管道，往后，每个开发者还得管理“智能管道”。 问题一下就变了。Stripe看中的不只是一段模型API，而是企业今后如何采购智能、给智能记账、约束智能，并为它结算的入口。 一、先把一个误解放下：Token不是钱 这桩交易很容易被说成“Token要成为AI时代的货币”。 不同模型的tokenizer、输入输出价格、缓存、吞吐和延迟都不同。同样是一百万token，C",
-    "publishedAt": "2026-08-21",
+    "id": "news-ai-1787371744000",
+    "title": " 越会用AI 的人，学习能力退化得越快 ",
+    "link": "https://www.huxiu.com/article/4885107.html?f=rss",
+    "summary": "本文来自微信公众号： 极客公园 ，作者：张勇毅，编辑：靖宇，原文标题：《越会用 AI 的人，学习能力退化得越快》 这应该是过去三年被讨论最多的一个迷思之一，从ChatGPT走红那天就有。吵了三年多，两边都拿不出像样的证据： 担心的人只有体感，不担心的人只有立场。 8月18日，《经济学人》给这场争论补上了迄今最硬的一份证据。 报道的主角是2.7万名中国中学生。用上AI之后，他们的作业分数平均涨了18%，写一份作业的时间从64分钟缩到45分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里，这批学生的成绩比不用AI的同学低了20%。 作业分曾是最可靠的「晴雨表」：作业越好，考试越好。而在用AI的学生中间，作业分越高，基本等于AI用得越深。于是曲线变成了：用得越狠的孩子，考试跌得越惨。 作业分，第一次开始撒谎。 作业分超过100的人之中，不用AI的人分数上涨到了112，用AI之后一路跳水到64。｜图片来源：经济学人 《经济学人》的数据底稿，是斯德哥尔摩大学和香港大学三位经济学家6月挂出的论文，标题就叫《生成式AI学习惩罚》。 《生成式AI学习惩罚》｜图片来源：SSRN 样本来自中国中部一个县，人口超过一百万。论文特意强调它的普通：像沿海之外的大多数中国县城。26811名初高中生，5所初中、4所高中，装下当地九成中学生，从2022年9月跟到2025年6月，整整30个月。 这个县的作业在线",
+    "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -358,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787309350000",
-    "title": "吴妈劝大家别害怕",
-    "link": "https://www.tmtpost.com/8111959.html",
-    "summary": "听吴妈的话。",
-    "publishedAt": "2026-08-21",
+    "id": "news-ai-1787364640000",
+    "title": "AI算力紧缺时代，大学生买不起电脑了",
+    "link": "https://www.tmtpost.com/8112433.html",
+    "summary": "硬件涨价将成为行业“新常态”。",
+    "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -385,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-reaches-400m-settlement-over-children-s-privacy-lawsu-1787343921000",
-    "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-    "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-    "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+    "id": "news-how-ai-accounting-startup-rillet-raised-100m-and-became-a-un-1787350201000",
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -797,7 +797,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY4LjExOS44MA== when applying to show you read the job post completely (#RMjAuMTY4LjExOS44MA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTA2LjE4Mi45Nw== when applying to show you read the job post completely (#RMjAuMTA2LjE4Mi45Nw==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -930,22 +930,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
     "postedAt": "2026-08-15",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136810",
-    "title": "Maintenance Planner",
-    "company": "The HEINEKEN Company",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Purpose We are seeking a Maintenance Planner to join our Engineering Stores team"
-    ],
-    "skills": [],
-    "location": "Kingston, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
-    "postedAt": "2026-08-14",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-22T01:00:58.496Z';
+export const dataFetchedAt = '2026-08-22T06:33:21.326Z';
