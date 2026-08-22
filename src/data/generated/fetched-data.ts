@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-s-solar-roof-is-dead-here-s-what-went-wrong-1787335793000",
-    "title": "Tesla’s solar roof is dead. Here’s what went wrong",
-    "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-    "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+    "id": "news-anthropic-s-opus-4-6-is-a-smut-machine-1787353645000",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -40,17 +40,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-skilled-labor-demand-is-exploding-ai-may-be-both-a-cause-and-1787325720000",
-    "title": "Skilled labor demand is exploding. AI may be both a cause and a solution",
-    "link": "https://www.hrdive.com/news/skilled-labor-demand-is-exploding-ai-is-both-a-cause-and-a-solution-nfpa/828486/",
-    "summary": "A survey by the National Fire Protection Association found that while AI is putting pressure on an already stretched fire and safety workforce, it is also making their jobs easier.",
+    "id": "news-amazon-worker-fired-shortly-after-disclosing-pregnancy-has-d-1787344980000",
+    "title": "Amazon worker fired shortly after disclosing pregnancy has discrimination claim, court rules",
+    "link": "https://www.hrdive.com/news/amazon-worker-fired-shortly-after-disclosing-pregnancy-has-bias-claim/828533/",
+    "summary": "The alleged close connection between her disclosure, restrictions on her overtime and her termination indicated adverse action based on the pregnancy, the court said.",
     "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -67,17 +68,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stripe-ai-1787331042000",
-    "title": " Stripe 为什么盯上模型路由：AI 进入“智能采购”时代 ",
-    "link": "https://www.huxiu.com/article/4885069.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 Stripe要买OpenRouter，乍看有点不合常理。 一家做支付的公司，为什么愿意为一个模型路由平台给出超过70亿美元、外界普遍估计接近或超过80亿美元的价格？OpenRouter不训练模型，没有GPU，也不卖聊天机器人。它做的是统一接口：开发者接一次，就能调用OpenAI、Anthropic、Google、DeepSeek和一批开源模型、推理供应商。 过去，这种产品很容易被一句“API wrapper”打发掉。 Stripe 8月19日宣布同意收购OpenRouter时，讲的却是另一件事。Stripe一直在替企业处理支付方式、授权成功率和欺诈风险；现在，企业还得在模型、速度、价格和效果之间做即时取舍。OpenRouter当时连接400多个模型、80多家供应商，正好卡在这道取舍之前。 Stripe给投资人的信里有一句话，很像这笔交易的底稿：过去每个开发者都需要管理收入管道，往后，每个开发者还得管理“智能管道”。 问题一下就变了。Stripe看中的不只是一段模型API，而是企业今后如何采购智能、给智能记账、约束智能，并为它结算的入口。 一、先把一个误解放下：Token不是钱 这桩交易很容易被说成“Token要成为AI时代的货币”。 不同模型的tokenizer、输入输出价格、缓存、吞吐和延迟都不同。同样是一百万token，C",
-    "publishedAt": "2026-08-21",
+    "id": "news-30-1787358173000",
+    "title": " 盘点全球具身智能30强：谁能让机器人真正工作？ ",
+    "link": "https://www.huxiu.com/article/4885074.html?f=rss",
+    "summary": "本文来自微信公众号： 纪中展讲决策 ，作者：纪中展讲决策，原文标题：《盘点全球具身智能30强：谁能让机器人真正工作？｜#新排名》 3万辆汽车，10万个料箱。 这可能是当下具身智能行业最值得琢磨的两组数字。 第一组来自Figure。它的Figure 02在宝马美国斯帕坦堡工厂工作了11个月，运行超过1250小时，装载了9万多个零部件，参与生产了3万多辆BMW X3。 第二组来自Agility Robotics。它的双足机器人Digit，在GXO的真实仓库里，累计搬运了超过10万个料箱。 这两个数字都不如机器人翻跟头好看。翻跟头只需要十几秒，配上音乐，可以赢得满屏点赞；在流水线上把同一个动作做十万次，没有音乐，没有滤镜，甚至有点无聊。 但商业的秘密，常常就藏在这种无聊里。 一台机器人完成一次流畅的后空翻，和一台机器人在仓库里重复搬运十万个料箱，哪一个更接近具身智能的未来？ 前者赢得掌声，后者才可能产生收入。 这也是我们推出这份“全球具身智能30强”的原因。我们不准备选出全球最会表演的30台机器人，而是寻找最有可能成为“机器人劳动力供应商”的30家公司。 换句话说，这不是一份机器人颜值榜、融资榜或者武术比赛成绩单，而是一张全球机器人开始上班之前的早期座次表。 具身智能，正在结束表演赛 过去两年，具身智能行业最常见的竞争方式是发视频。 你能跑步，我就翻跟头；你能叠衣服，我就炒菜；你能端一杯",
+    "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-hands-over-documents-in-nhtsa-8217-s-child-collision-p-1787334598000",
-    "title": "Waymo hands over documents in NHTSA&#8217;s child collision probe",
-    "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-    "summary": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+    "id": "news-nvidia-partners-with-data-center-developer-cloverleaf-1787351858000",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -133,17 +133,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-managers-say-they-are-using-public-ai-tools-to-prepare-for-h-1787325660000",
-    "title": "Managers say they are using public AI tools to prepare for hard conversations",
-    "link": "https://www.hrdive.com/news/managers-using-public-ai-tools-hard-conversations/828497/",
-    "summary": "That use can include inputting employee names and performance details into a public artificial intelligence platform, a survey found.",
+    "id": "news-feds-axe-contractor-affirmative-action-requirements-in-trio--1787344980000",
+    "title": "Feds axe contractor affirmative action requirements in trio of final rules",
+    "link": "https://www.hrdive.com/news/feds-ax-contractor-affirmative-action-requirements-in-trio-of-final-rules/828542/",
+    "summary": "The documents follow up on one of President Donald Trump&rsquo;s first orders that sought to alter the federal government&rsquo;s antidiscrimination enforcement work.",
     "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -160,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787328528000",
-    "title": " 你的颠沛流离，成了张丹丹教授囗中的“特殊福利” ",
-    "link": "https://www.huxiu.com/article/4885068.html?f=rss",
-    "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 西晋大荒，百姓饥馑无粮，饿殍遍野。身居深宫的晋惠帝听闻灾情，茫然抛出一句千古笑谈：“百姓无粟米充饥，何不食肉糜？” 千百年来，我们总把这段历史当成陈旧的荒诞轶事，唏嘘帝王隔绝人间、不识民间疾苦。直到北大张丹丹教授一句“灵活就业本身就是一种福利”出圈，世人骤然看清：历史从不会消失，只是换一身体面的现代外衣，反复上演。 褪去古旧外壳，内核的傲慢，千年未变。 在张丹丹教授的劳动经济学模型里，就业是一套完美工整的等价交换：体制内之人收敛自由，换取安稳保障；灵活就业者舍弃福利，换取时间自由，双向选择、各取所需，逻辑闭环滴水不漏。 这套理论在书本里无懈可击，唯独错在：模型冰冷工整，普通人的生活，要烟火谋生。 当下国内灵活就业人数早已突破两亿，规模仍在持续扩张。就业市场的真实困境，从来不是个人选择的偏好，而是结构性的生存挤压。每年千万高校毕业生涌入社会，求职赛道极度拥挤，带五险一金的正规岗位持续缩减，企业纷纷以外包、零工模式转嫁用工成本。 无数年轻人、中年失业者，不是主动拥抱灵活，而是挤不进稳定岗位，被迫落入零工赛道。 就业的不确定，进一步拖垮了一代人的生活预期。年轻人看不到安稳未来，不敢置业、不敢消费、更不敢婚育。持续走低的结婚率、生育率，从来不是年轻人观念的矫情变迁，而是普通人对生存风险的本能避险。当生活充满动荡，所有长远的人生规划，都会向“",
+    "id": "news--1787356173000",
+    "title": " 中国人为什么要拼命还钱 ",
+    "link": "https://www.huxiu.com/article/4885072.html?f=rss",
+    "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 2026年上半年的中国经济，如果只看总量，挑不出什么大毛病。 GDP同比增长4.7%，落在年初设定的预期区间里；货物进出口总额同比增长16.9%，历史同期首次突破25万亿元；规模以上高技术制造业增加值增长13.3%，新动能跑得比谁都快。 但如果你愿意把数据拆开来看，会发现里面暗藏”玄机”： 反常一：居民部门上半年贷款净减少3668亿元，为有统计以来首次半年度负增长；但居民存款余额却高达173.48万亿元，逼近历史峰值。 老百姓明明”很有钱”，却在拼命还钱、拒绝负债。 反常二：企事业单位贷款上半年增加11.13万亿元，其中中长期贷款增加5.55万亿元，金融资源大规模流向企业端。 企业明明”很有钱”，却不见对应规模的扩招。 反常三：2026届高校毕业生1270万人，同比再增48万，创历史新高；但6月份16—24岁劳动力（不含在校生）失业率仍高达14.9%，接近全国城镇调查失业率（5.0%）的三倍，与30—59岁劳动力4.0%的失业率形成近11个百分点的断层。 钱更多了，工作却更少了。 说白了就是：老百姓在拼命还钱，企业在拼命借钱，钱的总量在增加，但你我口袋里的钱没见多。 这不是一句”信心不足”就能解释的，也不是一句”结构性问题”就能搪塞过去的。三组数据对冲的背后，是一场正在发生的、关于”钱流向哪里”和”人价值多少”的迁移。 居民端：",
     "publishedAt": "2026-08-21",
     "source": "虎嗅",
     "tags": [
@@ -199,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-is-the-doj-investigating-andreessen-horowitz-s-board-sea-1787331219000",
-    "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-    "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+    "id": "news-how-ai-accounting-startup-rillet-raised-100m-and-became-a-un-1787350201000",
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
@@ -225,10 +224,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-women-are-significantly-underrepresented-in-the-ai-workforce-1787325660000",
-    "title": "Women are significantly underrepresented in the AI workforce",
-    "link": "https://www.hrdive.com/news/women-are-significantly-underrepresented-in-the-ai-workforce/828485/",
-    "summary": "The gender disparity is even more pronounced in the highest-paying jobs and top executive levels,&nbsp;according to research from LinkedIn.",
+    "id": "news-skilled-labor-demand-is-exploding-ai-may-be-both-a-cause-and-1787325720000",
+    "title": "Skilled labor demand is exploding. AI may be both a cause and a solution",
+    "link": "https://www.hrdive.com/news/skilled-labor-demand-is-exploding-ai-is-both-a-cause-and-a-solution-nfpa/828486/",
+    "summary": "A survey by the National Fire Protection Association found that while AI is putting pressure on an already stretched fire and safety workforce, it is also making their jobs easier.",
     "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
@@ -249,6 +248,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1500-1787353666000",
+    "title": " 三年不结婚就退款的AI红娘，凭什么让徐新投1500万？ ",
+    "link": "https://www.huxiu.com/article/4882908.html?f=rss",
+    "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜团队聚餐 &ldquo;用户三年没结婚全额退款，目标是让中国结婚率提升 10%。&rdquo; 良配科技创始人曾歆勋的这句话，听上去像一句狂言。 与虎嗅对谈当天，他正以 3000 万美元估值推进第二轮融资，腾讯、阿里、美团等多家大厂战投均已接触。这位 94 年的创业者是南方科技大学 2019 届毕业生，先后在微信、TikTok 负责搜索推荐业务，2025 年 5 月辞任 Kimi AI 搜索负责人，放弃千万期权下场 All in AI 婚恋。 &ldquo;入职 Kimi 第一天我就和老板说，迟早会自己创业，离开只是在等合适的时机。&rdquo; 曾歆勋的底气从天使轮便可见一斑：和今日资本徐新聊了 3 小时，直接敲定 1500 万天使轮融资。&ldquo;今日资本每年出手极少，去年大概只投了五家。我原本只想融 1000 万、出让 15% 股份，是徐新主动提出要拿 20%，最终追加到了 1500 万。&rdquo; 在曾歆勋看来，婚恋行业用户痛点十分明确，传统平台与用户利益却天然对立：订阅制模式下，用户的单身时长直接绑定平台营收&mdash;&mdash;脱单越快，用户流失越快；一直单身，反而能持续付费。这种荒诞的商业悖论，直接导致平台宁可制造无效社交、拉长决策周期，也不愿真正提升匹配效率。 &ldquo;过去的交友软",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
@@ -278,16 +291,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-government-lab-is-probing-chinese-lidar-for-security-vuln-1787328114000",
-    "title": "US government lab is probing Chinese lidar for security vulnerabilities",
-    "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-    "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
+    "id": "news-apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-visio-1787345887000",
+    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+    "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -303,11 +317,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-feds-propose-trump-account-regulations-as-older-workers-reti-1787251620000",
-    "title": "Feds propose ‘Trump Account’ regulations as older workers’ retirement hopes dwindle",
-    "link": "https://www.hrdive.com/news/irs-trump-account-regulations-2026/828401/",
-    "summary": "Trump Accounts will help eligible children &ldquo;enjoy years of compound earnings for their future college, retirement and other needs,&rdquo; an IRS leader said.",
-    "publishedAt": "2026-08-20",
+    "id": "news-women-are-significantly-underrepresented-in-the-ai-workforce-1787325660000",
+    "title": "Women are significantly underrepresented in the AI workforce",
+    "link": "https://www.hrdive.com/news/women-are-significantly-underrepresented-in-the-ai-workforce/828485/",
+    "summary": "The gender disparity is even more pronounced in the highest-paying jobs and top executive levels,&nbsp;according to research from LinkedIn.",
+    "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -327,6 +341,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-stripe-ai-1787331042000",
+    "title": " Stripe 为什么盯上模型路由：AI 进入“智能采购”时代 ",
+    "link": "https://www.huxiu.com/article/4885069.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 Stripe要买OpenRouter，乍看有点不合常理。 一家做支付的公司，为什么愿意为一个模型路由平台给出超过70亿美元、外界普遍估计接近或超过80亿美元的价格？OpenRouter不训练模型，没有GPU，也不卖聊天机器人。它做的是统一接口：开发者接一次，就能调用OpenAI、Anthropic、Google、DeepSeek和一批开源模型、推理供应商。 过去，这种产品很容易被一句“API wrapper”打发掉。 Stripe 8月19日宣布同意收购OpenRouter时，讲的却是另一件事。Stripe一直在替企业处理支付方式、授权成功率和欺诈风险；现在，企业还得在模型、速度、价格和效果之间做即时取舍。OpenRouter当时连接400多个模型、80多家供应商，正好卡在这道取舍之前。 Stripe给投资人的信里有一句话，很像这笔交易的底稿：过去每个开发者都需要管理收入管道，往后，每个开发者还得管理“智能管道”。 问题一下就变了。Stripe看中的不只是一段模型API，而是企业今后如何采购智能、给智能记账、约束智能，并为它结算的入口。 一、先把一个误解放下：Token不是钱 这桩交易很容易被说成“Token要成为AI时代的货币”。 不同模型的tokenizer、输入输出价格、缓存、吞吐和延迟都不同。同样是一百万token，C",
+    "publishedAt": "2026-08-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
@@ -357,42 +385,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-1787323164000",
-    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
-    "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
-    "summary": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
+    "id": "news-tiktok-reaches-400m-settlement-over-children-s-privacy-lawsu-1787343921000",
+    "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+    "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+    "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
     "publishedAt": "2026-08-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-what-today-s-employees-need-more-than-perks-1787312705000",
-    "title": "What today’s employees need more than perks",
-    "link": "https://hrexecutive.com/what-todays-employees-need-more-than-perks/",
-    "summary": "When employees start questioning the viability of their role, declining morale and company culture affect more than HR, but the entire business. The post What today’s employees need more than perks appeared first on HR Executive .",
-    "publishedAt": "2026-08-21",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-this-week-in-5-numbers-employees-struggle-to-find-time-for-u-1787251620000",
-    "title": "This week in 5 numbers: Employees struggle to find time for upskilling",
-    "link": "https://www.hrdive.com/news/employees-struggle-to-find-time-for-upskilling/828304/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many consecutive business days Bank of America employees are allowed to work remotely.",
-    "publishedAt": "2026-08-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   }
 ];
@@ -795,7 +797,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY5LjcyLjE2Mw== when applying to show you read the job post completely (#RMjAuMTY5LjcyLjE2Mw==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTY4LjExOS44MA== when applying to show you read the job post completely (#RMjAuMTY4LjExOS44MA==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -803,6 +805,23 @@ export const generatedJobs: JobPosting[] = [
     "location": "Moruya, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
+    "postedAt": "2026-08-18",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137054",
+    "title": "Mairoom Clerk",
+    "company": "TPH",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Mailroom Clerk Location: Bay Street &amp; King Street Area, Toronto Hours: 8:00 a.m",
+      "to 4:30/5:00 p.m",
+      "Schedule: Full-time, in-office, Monday to Friday We are seeking a reliable and organized Mailroom Clerk to support the daily mail and courier operations within our professional law office"
+    ],
+    "skills": [],
+    "location": "Toronto, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
     "postedAt": "2026-08-18",
     "isNew": true
   },
@@ -820,6 +839,21 @@ export const generatedJobs: JobPosting[] = [
     "location": "Thiruvananthapuram, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991",
+    "postedAt": "2026-08-17",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137056",
+    "title": "Hiring For Air Ticketing Ground Staff",
+    "company": "Fronix Services",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Dear Candidate, Greetings for the day"
+    ],
+    "skills": [],
+    "location": "Kochi, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
     "postedAt": "2026-08-17",
     "isNew": true
   },
@@ -895,7 +929,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
     "postedAt": "2026-08-15",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136810",
@@ -914,4 +948,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-21T18:31:13.562Z';
+export const dataFetchedAt = '2026-08-22T01:00:58.496Z';
