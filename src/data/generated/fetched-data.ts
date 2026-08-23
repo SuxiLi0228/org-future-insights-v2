@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "id": "news-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst-1787435216000",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787420910000",
-    "title": " 灵活就业学者栽在了“剪金句”的小编手里 ",
-    "link": "https://www.huxiu.com/article/4885210.html?f=rss",
-    "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做出追问，张丹丹也进一步补充说明，算是把话题给圆回来了。 这场原本顺利结束的访谈，在进入二次剪辑时却失控了。该“金句”片段被各大媒体、自媒体截取推向短视频平台，瞬间演变为病毒式扩散。随后公知与各大V纷纷下场抨击，舆情迅速升级出圈。 在对学者排山倒海的群嘲里，偶尔看到有网友为张教授“喊冤”，说她讲的没太大问题，是媒体“掐头去尾”的剪辑手法片面化呈现了。 我不想去评价张教授的专业性和知识分子应有的良知与悲悯，如果从传媒产业角度说两句，那整件事可以概括为： “很傻很天真”的学者遇上“揣着明白装糊涂”的短视频小编。 01 金句依赖：短视频的原罪 张教授估计不清楚，这种“掐头去尾”式的剪辑手法，在当今的媒介生态中早已是公开的秘密（基操）。 老实说，过去我在带团队时也和小伙伴们这么干过…… 当一个人被按在流量KPI的流水线上，每天睁眼就是点击量、互动量等业绩指标，你很难要求这批卷生卷死的牛马去当什么道德圣人。在单位生存压力和自己的饭碗面前，媒",
+    "id": "news-3500-1787439603000",
+    "title": " 月薪3500，想拿大结果 ",
+    "link": "https://www.huxiu.com/article/4884944.html?f=rss",
+    "summary": "出品 | 虎嗅青年文化组 作者 | 黄瓜汽水 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 人类正式进入大结果时代。 陷入绝望时我们不说&ldquo;找个有钱人嫁了&rdquo;，我们说&ldquo;有点想拿大结果了&rdquo;。 看到别人过上了好日子，我们说&ldquo;真让你小子拿到大结果了&rdquo;。 在窘迫的大环境下，每个人都有属于自己的大结果要窃取。 所谓的大结果，底层逻辑就是一句话：这次你一定要提现。 15号发工资，是打工人每个月获得的大结果。 和一对善良的中年夫妻进行博弈，最终就能获得100元零花钱的大结果。 高位供给方的间歇性撤资，其实就是父母断供了。 旧时夜场大结果，飞入寻常百姓家。 根据词源学考证，&ldquo;大结果&rdquo;的说法最早流行于夜场商K，表示&ldquo;开大单&rdquo;或&ldquo;找到金主上岸&rdquo;。后来夜场女孩们转换赛道，另谋出路，&ldquo;大结果&rdquo;经过曲曲大女人的&ldquo;金贵关系&rdquo;直播间实现破圈传播，如今成为赛博相亲、向上社交、择偶定位赛道的专用名词。 大结果面前众生平等。 无论你的性别是男是女，赛道是捞女傍金主还是博士发期刊，只要成功了，皆可用一句&ldquo;拿",
     "publishedAt": "2026-08-22",
     "source": "虎嗅",
     "tags": [
@@ -81,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787394460000",
-    "title": "王坚的“遗产”，为阿里留出后路",
-    "link": "https://www.tmtpost.com/8112848.html",
-    "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
-    "publishedAt": "2026-08-22",
+    "id": "news-firstcash-61-1787445904000",
+    "title": "我们精选的FirstCash已经上涨61%，我们依旧看好其成长逻辑",
+    "link": "https://www.tmtpost.com/8113191.html",
+    "summary": "公司受益于消费环境。其扩张计划正按预期推进。",
+    "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-frontier-ai-labs-still-won-8217-t-say-how-they-8217-d-contai-1787414400000",
-    "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "id": "news-will-the-doj-8217-s-investigation-into-a16z-spook-other-vcs-1787430260000",
+    "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
+    "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -159,11 +159,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787394380000",
-    "title": "订单跑在收入前，透过万国数据看数据中心的真相",
-    "link": "https://www.tmtpost.com/8112373.html",
-    "summary": "AI订单涨疯了，利润还在路上。",
+    "id": "news--1787420910000",
+    "title": " 灵活就业学者栽在了“剪金句”的小编手里 ",
+    "link": "https://www.huxiu.com/article/4885210.html?f=rss",
+    "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做出追问，张丹丹也进一步补充说明，算是把话题给圆回来了。 这场原本顺利结束的访谈，在进入二次剪辑时却失控了。该“金句”片段被各大媒体、自媒体截取推向短视频平台，瞬间演变为病毒式扩散。随后公知与各大V纷纷下场抨击，舆情迅速升级出圈。 在对学者排山倒海的群嘲里，偶尔看到有网友为张教授“喊冤”，说她讲的没太大问题，是媒体“掐头去尾”的剪辑手法片面化呈现了。 我不想去评价张教授的专业性和知识分子应有的良知与悲悯，如果从传媒产业角度说两句，那整件事可以概括为： “很傻很天真”的学者遇上“揣着明白装糊涂”的短视频小编。 01 金句依赖：短视频的原罪 张教授估计不清楚，这种“掐头去尾”式的剪辑手法，在当今的媒介生态中早已是公开的秘密（基操）。 老实说，过去我在带团队时也和小伙伴们这么干过…… 当一个人被按在流量KPI的流水线上，每天睁眼就是点击量、互动量等业绩指标，你很难要求这批卷生卷死的牛马去当什么道德圣人。在单位生存压力和自己的饭碗面前，媒",
     "publishedAt": "2026-08-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-23-1787445723000",
+    "title": "Edge AI Daily 早报（8月23日）",
+    "link": "https://www.tmtpost.com/8113186.html",
+    "summary": "特斯拉宣布9月3日Cybercab发布会，无方向盘自动驾驶出租车，制造效率与数据护城河之争；英伟达逆向工程揭示255纳秒指令延迟，护城河源于15年每纳秒优化；牛津大学MWM框架揭示世界模型忽略心智状态，物理与心智耦合为瓶颈；Meta发布Muse Glimmer 30B开源Agent模型，配合本地推理实现AI编程平权，推动云端与本地双世界分化。",
+    "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -185,16 +198,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-battery-startups-have-found-a-lifeline-in-defense-1787412000000",
-    "title": "US battery startups have found a lifeline in defense",
-    "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+    "id": "news-inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammat-1787425200000",
+    "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -238,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-ai-1787394373000",
-    "title": "3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？",
-    "link": "https://www.tmtpost.com/8112363.html",
-    "summary": "真实需求不能阻止泡沫，现金流才能偿还债务。",
+    "id": "news--1787394460000",
+    "title": "王坚的“遗产”，为阿里留出后路",
+    "link": "https://www.tmtpost.com/8112848.html",
+    "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
     "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
@@ -264,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pixel-11-pro-xl-review-snappier-cameras-can-8217-t-hide-an-i-1787407200000",
-    "title": "Pixel 11 Pro XL review: Snappier cameras can&#8217;t hide an iterative upgrade",
-    "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-    "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -317,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787394369000",
-    "title": "中银消金：利润暴涨的逻辑",
-    "link": "https://www.tmtpost.com/8112417.html",
-    "summary": "当前，消金行业正站在十字路口，过往大开大合、低垂的果实挂满枝头的时代已经落幕，取而代之的是缓步慢行，存量博弈的新周期。",
+    "id": "news--1787394380000",
+    "title": "订单跑在收入前，透过万国数据看数据中心的真相",
+    "link": "https://www.tmtpost.com/8112373.html",
+    "summary": "AI订单涨疯了，利润还在路上。",
     "publishedAt": "2026-08-22",
     "source": "钛媒体",
     "tags": [
@@ -344,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-michael-polansky-is-training-an-ai-model-on-skin-that-s-stil-1787362264000",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+    "id": "news-frontier-ai-labs-still-won-8217-t-say-how-they-8217-d-contai-1787414400000",
+    "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -380,19 +394,6 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "workforce",
       "ai"
-    ]
-  },
-  {
-    "id": "news-eon-lif-1787401267000",
-    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-    "link": "https://www.qbitai.com/2026/08/477090.html",
-    "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
-    "publishedAt": "2026-08-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -795,9 +796,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNTEuNjEuODA= when applying to show you read the job post completely (#RMjAuNTEuNjEuODA=)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTU5LjI0Ny41MA== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny41MA==)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants that re"
+      "Companies can search these words to find applicants"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -907,28 +908,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-freshers-kochi-fronix-services-1136990",
     "postedAt": "2026-08-16",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136812",
-    "title": "Cabin Cleaning Agent",
-    "company": "Menzies Aviation",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Overview People",
-      "This is what has driven our teams since 1833",
-      "But at the he"
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Hounslow, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
-    "postedAt": "2026-08-15",
     "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-22T18:23:44.494Z';
+export const dataFetchedAt = '2026-08-23T01:05:24.560Z';
