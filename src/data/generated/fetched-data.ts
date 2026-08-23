@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-two-years-after-launch-walmart-8217-s-flipkart-is-closing-in-1787454000000",
-    "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
-    "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+    "id": "news-techcrunch-mobility-the-custom-chip-driving-waymo-s-robotaxi-1787500980000",
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
     "publishedAt": "2026-08-23",
     "source": "TechCrunch",
     "tags": [
@@ -55,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787484013000",
-    "title": "具身创业里的香港教授们",
-    "link": "https://www.qbitai.com/2026/08/478289.html",
-    "summary": "香港的大学里冒出了一批很特别的人",
+    "id": "news-wrc-1787491200000",
+    "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+    "link": "https://www.qbitai.com/2026/08/478319.html",
+    "summary": "玩的就是真实",
     "publishedAt": "2026-08-23",
     "source": "量子位",
     "tags": [
@@ -68,23 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-25-1787487061000",
-    "title": " 从家门口到登机口要花多少时间？25所机场便利度分析 ",
-    "link": "https://www.huxiu.com/article/4885298.html?f=rss",
-    "summary": "本文来自微信公众号： 核真录 ，制图：甄润铮万辉辉，编辑：王新蔡翌希，作者：核真录2026，原文标题：《数据｜从家门口到登机口要花多少时间？25所机场便利度分析》 一段航空旅程，并不是从飞机起飞的那一刻才开始。对于旅客而言，从城市出发前往机场、进入航站楼、通过安检，再到抵达登机口，每一步都构成了实际的出行成本，也影响着他们对一座机场的第一印象。 核真录以2025年中国大陆旅客吞吐量排名前25位的民用运输机场为样本，统计旅客前往机场时公共交通、打车和自驾的时间与费用，梳理各机场轨道交通接入情况；同时，将视线延伸至航站楼内部，测量旅客通过安检后前往登机口的步行距离。 01：同样从市中心火车站出发，有人31分钟到机场，有人要110分钟 为衡量旅客前往机场的实际出行成本，本文以市中心为起点，分别测算前往机场的公共交通、自驾和打车三种方式所需的时间、距离或费用，并比较不同机场的可达性差异。 由于飞机起降需要足够的空间，机场周边不能有过高建筑物，同时还需要考虑噪声影响等因素，大多机场不像火车站、汽车站那样位于城市中心，而是与核心城区保持一定距离。对于居住在城市中心区域的旅客而言，前往机场往往意味着更长的交通距离和更早的出发时间，这也成为机场体验中最常被诟病的问题之一。 不过，“市中心”在不同城市并没有统一坐标。考虑到传统火车站通常与城市中心联系紧密[1]，且公众辨识度较高，本文统一以各城市具有",
+    "id": "news-graphworkflow-62-5-agent-1787505519000",
+    "title": " GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？ ",
+    "link": "https://www.huxiu.com/article/4885324.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《GraphWorkflow 提速 62.5% 后，Agent 蜂群真正要解决什么？》 8月19日，Swarms团队发布了一篇关于GraphWorkflow的论文。把预先定义好的多Agent任务图编译一次，再反复执行，以减少运行时的编排开销。 论文拿它和LangGraph 1.0.4比较，在10、50、200个节点的静态图上，报告了最高62.5%的加速，稳态几何平均约为7倍。 又有一个Agent框架跑得更快了。 但把论文的方法和限制一起读完，会发现更值得看的东西不在那个数字里。它测的是单机、同步、静态DAG的编排开销，节点甚至可以是no-op。它不测模型质量，不测真实token吞吐，也不意味着一个真实Agent系统会整体快7倍。真实的模型调用要几百毫秒甚至几秒，几毫秒的调度优化不会神奇地把一切压缩到十分之一。 可也正因如此，GraphWorkflow反而把一个新问题照得很清楚：当一个任务里开始有几十、上百个Agent节点时，模型可能还在思考，系统已经先忙着安排谁该等谁、谁把结果交给谁、失败从哪里续跑、共享状态怎么合并。 过去大家主要盯着模型这颗脑袋够不够聪明。现在，脑袋一多，问题开始变成：怎样让一群已经足够聪明的脑袋不互相浪费。 这就是Agent蜂群真正开始进入工程阶段的信号。 一、“蜂群”不是同时开十个聊天窗口 先",
     "publishedAt": "2026-08-23",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-2026-7-1787472893000",
-    "title": "银行理财五星管理人评级报告 （2026年7月）",
-    "link": "https://www.tmtpost.com/8113345.html",
-    "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
+    "id": "news-workbuddy-1787488260000",
+    "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
+    "link": "https://www.tmtpost.com/8113359.html",
+    "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -107,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst-1787435216000",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "publishedAt": "2026-08-22",
+    "id": "news-flock-ceo-calls-for-compromise-as-surveillance-company-faces-1787499000000",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "publishedAt": "2026-08-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -146,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-1787483842000",
-    "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-    "link": "https://www.qbitai.com/2026/08/478234.html",
-    "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+    "id": "news--1787484013000",
+    "title": "具身创业里的香港教授们",
+    "link": "https://www.qbitai.com/2026/08/478289.html",
+    "summary": "香港的大学里冒出了一批很特别的人",
     "publishedAt": "2026-08-23",
     "source": "量子位",
     "tags": [
@@ -159,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787484659000",
-    "title": " “又贵又难吃”的歹毒漂亮饭，年轻人为什么抢着买单？ ",
-    "link": "https://www.huxiu.com/article/4885295.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清 谷子餐厅扎堆开店，但和传统餐饮完全不是一套逻辑。 一家主题餐厅从开业到闭店，竟然只用了43天？ 这是GOODSLOVE在成都、广州两地为《甄嬛传》主题餐厅设定的营业时长。6月19日开业，7月31日收官，掐头去尾刚好覆盖暑期档最热的一个多月。 一家餐厅只卖43天，听起来不太常规，但在IP主题餐厅的赛道上，这算是一种计划内的周期。据行业观察，仅2026年7月，全国新开的二次元主题快闪餐饮店就有近20家，生命周期都以“天”来计算。 这些店还有另一个名字：谷子餐厅。“谷子”是英文Goods的音译，在二次元圈层里特指IP周边商品——徽章、立牌、亚克力摆件等。谷子餐厅，就是把特定IP的周边和餐饮打包出售的空间。 它们的生意逻辑到底是怎样的？ 一张“纸片”撑起一家餐厅？ 一个工作日下午，红餐网探访了位于广州的GOODSLOVE CAFE《甄嬛传》主题餐厅。正值下午茶时间，店内客人坐了个半满。门口立着写了“娘娘们的下午茶”几个字的招牌，里面随处可见“娘娘们”的画像及周边。 店在负一层，位置不算好，因为动线复杂，不是熟客需要花些功夫才能找到。但GOODSLOVECAFE似乎不在乎随机客流——进店的客人几乎都目标明确，一进门会先向店员确认限定周边还有没有货，然后才找座位坐下。 红餐网注意到，这家主题店在店铺装修和餐品运营上都花了不少心思。",
+    "id": "news--1787501340000",
+    "title": " 弄清中国的消费数据|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4885321.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《弄清中国的消费数据 || 大视野》 这是一篇探讨中国消费数据的研究型文章。 消费很重要，越来越重要，方方面面也越来越重视。 但提振消费不容易。供强需弱，外（需）强内（需）弱，是当下的口头禅。 2025年，我国社会消费品零售总额突破50万亿元大关。根据国务院批复同意的《扩大消费“十五五”规划》，到2030年，社会消费品零售总额达到60万亿元左右。据此测算，未来五年年均复合增速约为3.7%，而今年作为“十五五”开局之年，1～7月的增速仅为1.2%。（注：下文中，社会消费品零售有时简称“社零”） 中国消费到底处于什么情况？每个人都有体感。如何扩大消费？这几年政府也出台了大量政策，如“以旧换新”。 我在研究中有个感受，要把消费数据完全弄清楚，很难。本文的目的在于，通过对数据的梳理和解读，更好地认识消费，从而为如何提振消费提供一些认知上的支持。 弄清消费数据不是件容易的事 中国的消费到底如何？一看自身数据，二看国际比较。 关于数据，我做了不少功课，也和一些经济学家做了交流，到目前也没有完全清楚。 这其实很正常。国家统计局多次表示，要进一步优化消费统计，完善供给侧全口径消费统计，特别是对服务零售额（包括网上服务零售）的测算。今天消费有很多新形势、新情况，尤其是服务消费、虚拟消费，给统计工作带来了不小的挑战。 中国GDP核算主要采取生产",
     "publishedAt": "2026-08-23",
     "source": "虎嗅",
     "tags": [
@@ -172,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787472881000",
-    "title": "在试错中求索：一套本土行业分类的突围之路",
-    "link": "https://www.tmtpost.com/8113337.html",
-    "summary": "面对本土市场提出的全新命题，没有现成标准答案，不奉行拿来主义，也不幻想一步建成完美制度。",
+    "id": "news-2026-7-1787472893000",
+    "title": "银行理财五星管理人评级报告 （2026年7月）",
+    "link": "https://www.tmtpost.com/8113345.html",
+    "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -198,11 +199,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-the-doj-8217-s-investigation-into-a16z-spook-other-vcs-1787430260000",
-    "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
-    "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-    "publishedAt": "2026-08-22",
+    "id": "news-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com-1787497200000",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "publishedAt": "2026-08-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -238,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cursor-glm-1787478972000",
-    "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-    "link": "https://www.qbitai.com/2026/08/478191.html",
-    "summary": "Tokenizer、视频编码、API报错全扒一遍",
+    "id": "news-200-1787483842000",
+    "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+    "link": "https://www.qbitai.com/2026/08/478234.html",
+    "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
     "publishedAt": "2026-08-23",
     "source": "量子位",
     "tags": [
@@ -251,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tims-1787483303000",
-    "title": " Tims中国：成不了星巴克，也学不会瑞幸 ",
-    "link": "https://www.huxiu.com/article/4885293.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 不容乐观！ 连续两季度业绩下滑 Tims中国的情况越来越不妙。 一季度已经够惨，二季度还在往下探。连品牌新任CEO张国华都直言“令人失望”。 先看一季度，Tims天好中国营收2.57亿元，同比下降14.6%，净亏损为1.09亿元，同比扩大113.98%；系统销售额为3.23亿元，同比下降14.2%。 拆开来看，问题主要还是出在门店生意上。自营门店收入2.07亿元，同比下降18.7%；同店销售额同比下降12.4%，平均客单价同比下降7.5%，以及订单量同比下降11.2%。 到了二季度，这种压力进一步显现。Tims天好中国营收2.73亿元，同比下降21.67%；净亏损为9746.9万元，同比扩大28.38%；系统销售额为3.478亿元，同比下降15.1%。 而自营门店依然是下滑最明显的部分。自营门店收入2.21亿元，同比下降21.6%，同店销售额同比下降17.3%，平均客单价同比下降0.9%，订单数量更是同比下降20.7% 总的来说，客人来得少了，来了以后花的钱也少了。 门店方面，截至2026年6月30日，Tims天好中国门店总数为1028家，自营门店544家，加盟门店484家。期内净新增门店只有2家，这在最依赖规模的连锁咖啡赛道，堪称原地踏步。 Tims中国现在最尴尬的地方在于，既没有跑出增长，也没有守住原来的生意。 更麻烦的是，T",
+    "id": "news-2000-1787500832000",
+    "title": " 只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上 ",
+    "link": "https://www.huxiu.com/article/4885320.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 原本平静的高原小县城，被一条网络视频推上风口浪尖。 画面里，有人用不明液体浸泡白菜，准备装车发往外地。视频迅速扩散，“康保白菜蘸甲醛”几个字冲上热搜。一时间，质疑、谩骂涌向这座坝上小城。 8月22日，博主“渔猎齐哥”曝光河北张家口康保县部分商贩在白菜装车前违规蘸取甲醛溶液以延长保鲜期，其中确认有一车涉事白菜的目的地为江苏宿迁。 这段网络流出的暗访视频，将蔬菜流通中一条隐秘的“保鲜黑链”推至公众视野。为压低长途损耗率，部分收购商违规使用甲醛溶液浸泡白菜，这本应出现在工业领域的消毒剂，如今却渗透进农产品的运输环节。 视频引爆舆情当日，官方通报：情况属实，系收购商为蔬菜运输保鲜的违法行为，公安部门已对相关人员、车辆依法采取强制措施。 夏季气温高，白菜水分大，长途运输中缺少冷藏设备，菜商为减少经济损失铤而走险。从康保到宿迁，近一千公里，为何不用冷链保鲜？事件爆发后，当地农户生计受到多大冲击？面对这条屡禁不止的“保鲜黑链”，我们又将如何守住舌尖上的安全？ 凤凰网《风暴眼》联系到康保县当地农户、宿迁蔬菜批发商及律师，还原甲醛白菜事件全貌。 拨通多家康保县家庭农场的电话后，有商户刚听到“白菜还卖吗”，便直接回绝，匆匆挂断。 （图源:网络） 01 一颗老鼠屎 坏了康保白菜的金字招牌 康保县地处内蒙古高原东南缘，海拔约1400米，日照充足、昼夜温差大",
     "publishedAt": "2026-08-23",
     "source": "虎嗅",
     "tags": [
@@ -264,10 +265,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-21-1787472869000",
-    "title": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8113335.html",
-    "summary": "板块层面，贵金属、能源金属、算力硬件链领涨；医药生物全线重挫，农林牧渔、农产品加工跌幅靠前。高位人气股集中补跌，一鸣食品、红四方、京粮控股等前期爆炒股封死跌停，题材炒作情绪退潮特征明显。",
+    "id": "news--1787472881000",
+    "title": "在试错中求索：一套本土行业分类的突围之路",
+    "link": "https://www.tmtpost.com/8113337.html",
+    "summary": "面对本土市场提出的全新命题，没有现成标准答案，不奉行拿来主义，也不幻想一步建成完美制度。",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -290,17 +291,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammat-1787425200000",
-    "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "publishedAt": "2026-08-22",
+    "id": "news-two-years-after-launch-walmart-8217-s-flipkart-is-closing-in-1787454000000",
+    "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
+    "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+    "publishedAt": "2026-08-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -331,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-15-1gw-50-1787478709000",
-    "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-    "link": "https://www.qbitai.com/2026/08/478164.html",
-    "summary": "内存成本飙升逼涨硬件",
+    "id": "news-cursor-glm-1787478972000",
+    "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+    "link": "https://www.qbitai.com/2026/08/478191.html",
+    "summary": "Tokenizer、视频编码、API报错全扒一遍",
     "publishedAt": "2026-08-23",
     "source": "量子位",
     "tags": [
@@ -344,24 +344,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-marvell-1787483219000",
-    "title": " 迈威尔Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？ ",
-    "link": "https://www.huxiu.com/article/4885292.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《迈威尔 Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？》 迈威尔科技Marvell宣布首次向谷歌发行认股权证直接拉动Marvell10%+的股价涨幅，而与此同时博通的股价出现了明显的下挫，反映了市场对迈威尔抢夺谷歌TPU订单的可能性。 这里，海豚君和大家一起来梳理下两者的协议方案及影响： 一、Marvell与谷歌的协议方案 首先来看，Marvell本次与谷歌签的具体方案：商业协议签署在2026年7月29日，权证发行日是2026年8月18日，行权价定在206.58美元/股（8/18的收盘价为216美元，折价4%左右）。 本次授予总股数5897万股的认股权证，其中可以分为两部分： ①时间归属（直接赠予）：136万股。在本次发行后第3/6/9/12个月分别归属大约34万股。这部分是无条件的直接赠予； ②业绩归属（业绩解锁）：5761万股，被拆成240分。从2026年8月1日起（截至2033年1月29日），每实现5亿美元的合资格销售收入，对应解锁一份（24万股）。 合资格的销售收入必须满足是定制开发的产品，其中第三方代谷歌采购也计入。这也意味着，Marvell卖给谷歌的通用件（光DSP、DCI模块和通用SSD控制器）都不计入该部分销售额，只算入谷歌的定制化芯片（ASIC），包括AI推理加速器、存储控制器、网络接口控制器、",
-    "publishedAt": "2026-08-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-8-21-1787472858000",
-    "title": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8113330.html",
-    "summary": "盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块\"一日游\"特征凸显，追涨容错率急剧下降。",
+    "id": "news-8-21-1787472869000",
+    "title": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8113335.html",
+    "summary": "板块层面，贵金属、能源金属、算力硬件链领涨；医药生物全线重挫，农林牧渔、农产品加工跌幅靠前。高位人气股集中补跌，一鸣食品、红四方、京粮控股等前期爆炒股封死跌停，题材炒作情绪退潮特征明显。",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -385,16 +371,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "id": "news-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst-1787435216000",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-deepfake-scams-are-surging-what-hr-can-do-1787312719000",
+    "title": "Deepfake scams are surging: What HR can do",
+    "link": "https://hrexecutive.com/deepfake-scams-are-surging-what-hr-can-do/",
+    "summary": "Fake videos and images of well-known public figures were involved in over half of all reported deepfake incidents in 2025. The post Deepfake scams are surging: What HR can do appeared first on HR Executive .",
+    "publishedAt": "2026-08-21",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
     ]
   }
 ];
@@ -756,6 +754,25 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137073",
+    "title": "Retail Store Associate",
+    "company": "Rowan",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
+      "You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne"
+    ],
+    "skills": [
+      "RAG",
+      "AWS"
+    ],
+    "location": "Chicago, IL",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+    "postedAt": "2026-08-22",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137017",
     "title": "Collections Agent",
     "company": "CRNCY Group",
@@ -797,9 +814,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTYxLjc0LjIwMA== when applying to show you read the job post completely (#RNTIuMTYxLjc0LjIwMA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNjIuMjA0LjI1 when applying to show you read the job post completely (#RMjAuNjIuMjA0LjI1)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -892,25 +909,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970",
     "postedAt": "2026-08-17",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1136990",
-    "title": "Airport Ground Staff Freshers Kochi",
-    "company": "Fronix Services",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Contact Us 7082570898 We are looking for a Dynamic Candidate with good Communication Skill Roles and Responsibilities Greeting and welcoming passengers, and responding to questions",
-      "Checking in baggage",
-      "Making reservations",
-      "Selling airline tickets"
-    ],
-    "skills": [],
-    "location": "Kochi, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-freshers-kochi-fronix-services-1136990",
-    "postedAt": "2026-08-16",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-23T12:32:09.318Z';
+export const dataFetchedAt = '2026-08-23T18:23:40.105Z';

@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-24-auto",
+    "date": "2026-08-24",
+    "session": "auto",
+    "title": "2026-08-24 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-24-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: threats from space mirrors and credit for AI drugs",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
+      },
+      {
+        "id": "sig-2026-08-24-auto-2",
+        "emoji": "⚠️",
+        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "detail": "来源: TechCrunch。Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+      },
+      {
+        "id": "sig-2026-08-24-auto-3",
+        "emoji": "🚨",
+        "title": "Boosting Performance Without the Burnout: Talking Tech, Benefits and the Science of Excellence With Dr. Greg Wells",
+        "summary": "Thursday, July 9, 2026 at 3:00 pm ET If you want to add an exciting new dimension of leadership to your organization's culture, this webcast is one you won’t want to miss. The post Boosting Performance Without the Burnout: Talking Tech, Benefits and the Science of Excellence With Dr. Greg Wells appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Thursday, July 9, 2026 at 3:00 pm ET If you want to add an exciting new dimension of leadership to your organization's culture, this webcast is one you won’t want to miss. The post Boosting Performance Without the Burnout: Talking Tech, Benefits and the Science of Excellence With Dr. Greg Wells appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/boosting-performance-without-the-burnout-talking-tech-benefits-and-the-science-of-excellence-with-dr-greg-wells/"
+      },
+      {
+        "id": "sig-2026-08-24-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Information on trajectories: martingales and random times...",
+        "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ",
+        "detail": "作者: Akshay Balsubramani。Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. The tail a bound controls is itself a relative entropy, resolved by the chain rule into per-step conditional divergences. The discarded slack has an exact form in each of three geometries: a Gibbs tilt for the Azuma-Hoeffding and PAC-Bayes bounds, the crossing itself for Ville's and for pooled tests, and a dominating certificate for the $L^p$ maximal bound. That certificate's optional-stopping deficit resolves per step into Bregman divergences of the running maximum. On a path-time space, the sa",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.20337v1"
+      },
+      {
+        "id": "sig-2026-08-24-auto-5",
+        "emoji": "💼",
+        "title": "Rowan 正在招募 Retail Store Associate",
+        "summary": "岗位类型：业务+AI 复合岗。About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
+        "detail": "技能要求: RAG, AWS。About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Rowan"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Rowan",
+        "link": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-24-1",
+        "priority": "medium",
+        "action": "关注「The Download: threats from space mirrors」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-24-2",
+        "priority": "medium",
+        "action": "关注「TechCrunch Mobility: The custom chip dri」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-24-3",
+        "priority": "high",
+        "action": "关注「Boosting Performance Without the Burnout」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-24-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Information on trajectories: martin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-24-5",
+        "priority": "medium",
+        "action": "关注「Rowan 正在招募 Retail Store Associate」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Rowan"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-24 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-08-24 00:00 - 2026-08-24 23:59"
+  },
+  {
     "id": "report-2026-08-23-auto",
     "date": "2026-08-23",
     "session": "auto",
