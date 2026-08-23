@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst-1787435216000",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "publishedAt": "2026-08-22",
+    "id": "news-two-years-after-launch-walmart-8217-s-flipkart-is-closing-in-1787454000000",
+    "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
+    "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+    "publishedAt": "2026-08-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -55,24 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-1-1-wrc-1787410003000",
-    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-    "link": "https://www.qbitai.com/2026/08/477253.html",
-    "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-    "publishedAt": "2026-08-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-3500-1787439603000",
-    "title": " 月薪3500，想拿大结果 ",
-    "link": "https://www.huxiu.com/article/4884944.html?f=rss",
-    "summary": "出品 | 虎嗅青年文化组 作者 | 黄瓜汽水 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 人类正式进入大结果时代。 陷入绝望时我们不说&ldquo;找个有钱人嫁了&rdquo;，我们说&ldquo;有点想拿大结果了&rdquo;。 看到别人过上了好日子，我们说&ldquo;真让你小子拿到大结果了&rdquo;。 在窘迫的大环境下，每个人都有属于自己的大结果要窃取。 所谓的大结果，底层逻辑就是一句话：这次你一定要提现。 15号发工资，是打工人每个月获得的大结果。 和一对善良的中年夫妻进行博弈，最终就能获得100元零花钱的大结果。 高位供给方的间歇性撤资，其实就是父母断供了。 旧时夜场大结果，飞入寻常百姓家。 根据词源学考证，&ldquo;大结果&rdquo;的说法最早流行于夜场商K，表示&ldquo;开大单&rdquo;或&ldquo;找到金主上岸&rdquo;。后来夜场女孩们转换赛道，另谋出路，&ldquo;大结果&rdquo;经过曲曲大女人的&ldquo;金贵关系&rdquo;直播间实现破圈传播，如今成为赛博相亲、向上社交、择偶定位赛道的专用名词。 大结果面前众生平等。 无论你的性别是男是女，赛道是捞女傍金主还是博士发期刊，只要成功了，皆可用一句&ldquo;拿",
-    "publishedAt": "2026-08-22",
+    "id": "news--1787464355000",
+    "title": " 藏在宇树、长鑫和寒武纪里的市值叙事秘密 ",
+    "link": "https://www.huxiu.com/article/4885249.html?f=rss",
+    "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，原文标题：《藏在宇树、长鑫和寒武纪里的市值叙事秘密｜观察家》 市场从不惩罚故事，只惩罚没能变成数字的故事 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元——这意味着市场愿意为每一元年利润支付约1750元（扣非口径约309元）。上市后股价快速拉升，7月31日盘中一度站上4万亿元，成为A股历史上首家总市值突破4万亿元的公司；8月13日，其市值约3.54万亿元、超越腾讯，成为中国市值最大的上市公司。 市值从来不是纯粹的计算题，而是讲故事的人与听故事的人之间的一场谈判。把镜头拉回五年，可以看到中国科技公司千亿市值俱乐部完成了一次完整的叙事更替：定价的标的物、讲故事的人、估值的语法，全都换了。 标的物，从“增长的确定性”换成了“位置的必要性”；讲者，从外资与明星公募换成了国资与耐心资本；语法，从现金流折现换成了“必须存在”的主权期权式定价。 诺贝尔经济学奖得主罗伯特·席勒在其名著《叙事经济学》中提出：经济叙事像病毒一样传播，遵循感染曲线，也经历遗忘过程；叙事往往以“星座”",
+    "publishedAt": "2026-08-23",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -81,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-firstcash-61-1787445904000",
-    "title": "我们精选的FirstCash已经上涨61%，我们依旧看好其成长逻辑",
-    "link": "https://www.tmtpost.com/8113191.html",
-    "summary": "公司受益于消费环境。其扩张计划正按预期推进。",
+    "id": "news-g9-suv-1787459970000",
+    "title": "享界G9的野心：把硬派SUV卖给更多豪华车用户",
+    "link": "https://www.tmtpost.com/8112877.html",
+    "summary": "当豪华SUV开始走向户外，享界G9希望用科技、舒适与探索能力，打开旗舰SUV新的生活方式。",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -107,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-the-doj-8217-s-investigation-into-a16z-spook-other-vcs-1787430260000",
-    "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
-    "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+    "id": "news-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst-1787435216000",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -146,24 +133,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787408379000",
-    "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-    "link": "https://www.qbitai.com/2026/08/477246.html",
-    "summary": "直击WRC",
-    "publishedAt": "2026-08-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787420910000",
-    "title": " 灵活就业学者栽在了“剪金句”的小编手里 ",
-    "link": "https://www.huxiu.com/article/4885210.html?f=rss",
-    "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做出追问，张丹丹也进一步补充说明，算是把话题给圆回来了。 这场原本顺利结束的访谈，在进入二次剪辑时却失控了。该“金句”片段被各大媒体、自媒体截取推向短视频平台，瞬间演变为病毒式扩散。随后公知与各大V纷纷下场抨击，舆情迅速升级出圈。 在对学者排山倒海的群嘲里，偶尔看到有网友为张教授“喊冤”，说她讲的没太大问题，是媒体“掐头去尾”的剪辑手法片面化呈现了。 我不想去评价张教授的专业性和知识分子应有的良知与悲悯，如果从传媒产业角度说两句，那整件事可以概括为： “很傻很天真”的学者遇上“揣着明白装糊涂”的短视频小编。 01 金句依赖：短视频的原罪 张教授估计不清楚，这种“掐头去尾”式的剪辑手法，在当今的媒介生态中早已是公开的秘密（基操）。 老实说，过去我在带团队时也和小伙伴们这么干过…… 当一个人被按在流量KPI的流水线上，每天睁眼就是点击量、互动量等业绩指标，你很难要求这批卷生卷死的牛马去当什么道德圣人。在单位生存压力和自己的饭碗面前，媒",
-    "publishedAt": "2026-08-22",
+    "id": "news-80-1787462426000",
+    "title": " 80%的具身订单可能是假的，缺订单正让赛道疯狂 ",
+    "link": "https://www.huxiu.com/article/4885231.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜WRC现场拍摄 &ldquo;世界模型这个概念太抽象了，现在谁说世界模型，大概率是为了圈钱。&rdquo; &ldquo;现在市面上90%做世界模型的团队，他们连自己都不相信&lsquo;世界模型&rsquo;。&rdquo; 有多位长期看具身智能的投资人这样对虎嗅说道。2026年的世界机器人大会（ 以下简称&ldquo;WRC&rdquo; ）如约而至，今年场内场外几乎都在聊世界模型。 所以，世界模型究竟是什么？ 至少从2025年开始，在国内具身智能的语境里，我们听到的&ldquo;世界模型&rdquo;，大部分时候指的是具身智能的&ldquo;大脑&rdquo;。但为什么不直接叫&ldquo;具身大脑&rdquo;，而是一定要叫世界模型？ 从技术角度理解，世界模型的确是实现具身智能终局的一条可能路径：让机器人理解物理世界，并对下一步将要发生什么作出预测。但问题是，并不是只有世界模型才能抵达这个终局。现在具身智能的技术路线远未收敛，VLA、VLM、世界模型都还在争夺定义权，没有哪条路线已经分出胜负。 而对于另一部分团队而言，世界模型主要是讲给国内投资人听的。它比&ldquo;具身大脑&rdquo;更前沿，也更难被证伪。也就是说，从某种程度上，世界模型甚至可以被理解为一个to VC的方向。 当然，这其中也不乏少数团队真的相信世界模",
+    "publishedAt": "2026-08-23",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -172,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-23-1787445723000",
-    "title": "Edge AI Daily 早报（8月23日）",
-    "link": "https://www.tmtpost.com/8113186.html",
-    "summary": "特斯拉宣布9月3日Cybercab发布会，无方向盘自动驾驶出租车，制造效率与数据护城河之争；英伟达逆向工程揭示255纳秒指令延迟，护城河源于15年每纳秒优化；牛津大学MWM框架揭示世界模型忽略心智状态，物理与心智耦合为瓶颈；Meta发布Muse Glimmer 30B开源Agent模型，配合本地推理实现AI编程平权，推动云端与本地双世界分化。",
+    "id": "news--1787455711000",
+    "title": "阿里又到了换剑时刻",
+    "link": "https://www.tmtpost.com/8113147.html",
+    "summary": "一个门派真正困难的时刻，从来不是旧武功突然失效，而是旧武功依然能赢，却已经不足以决定下一场战争。",
     "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
@@ -198,17 +172,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammat-1787425200000",
-    "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "id": "news-will-the-doj-8217-s-investigation-into-a16z-spook-other-vcs-1787430260000",
+    "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
+    "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -239,24 +212,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wrc-2026-ai-1787407880000",
-    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-    "link": "https://www.qbitai.com/2026/08/477155.html",
-    "summary": "一脑驱动多形落地",
-    "publishedAt": "2026-08-22",
-    "source": "量子位",
+    "id": "news-ai-1787460097000",
+    "title": " 戚薇授权AI短剧，观众为什么坐不住了？ ",
+    "link": "https://www.huxiu.com/article/4885240.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，作者：刀巾，编辑：陆一鸣，题图来自：视觉中国 如果盘点AI时代的年轻人独有的消遣方式，下班后缩在被窝里刷一部末世AI短剧，绝对能提名前三。 从最初版本的《十二星座决定你的庇护所》，到完美满足囤积爱好的&ldquo;重生之我在极寒末世囤货&rdquo;，再到&ldquo;我和闺蜜在丧尸末日觉醒了超绝组合技&rdquo;的打斗爽文，末世题材已经被玩出了花。 （图/红果短剧） 无论是抽象的平面画风还是精致的3D人像，只要一看上就挪不开眼。嘴上说着AI短剧有什么好看的，手指却诚实地划开了下一集。 但近期，一条真人AI短片却难得地引发了热议。画面里，随着镜头从战斗服饰特写推近，酷炫的装甲一点点填满屏幕，正当你感叹AI画风又卷上一层楼时，结尾突然定格在一张熟悉的脸上。 这个酷似戚薇的人物名叫&ldquo;韩清夏&rdquo;。8月6日，戚薇在社交平台发布该条末世AI短剧demo，宣布推出个人官方数字分身，开放自身形象规范化授权。 戚薇数字分身角色&ldquo;韩清夏&rdquo;。（图/小红书@戚薇&nbsp;7V） 评论区一下炸开了锅。有的吐槽主角造型设计，在末世环境里穿着短裤和露腰背心，好像&ldquo;生怕敌人看不到自己的弱点&rdquo;；有的不满镜头语言，画面重点从腿到臀部再聚焦腰腹，对人物身体的凝视让人感到不适&hellip;&hellip; 但更多",
+    "publishedAt": "2026-08-23",
+    "source": "虎嗅",
     "tags": [
       "china",
-      "ai",
-      "technology"
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787394460000",
-    "title": "王坚的“遗产”，为阿里留出后路",
-    "link": "https://www.tmtpost.com/8112848.html",
-    "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
-    "publishedAt": "2026-08-22",
+    "id": "news-427-1787455710000",
+    "title": "427万辆召回，没有一款油车：第一性原理失守的车门把手",
+    "link": "https://www.tmtpost.com/8113238.html",
+    "summary": "这次召回事件最刺痛的不是\"门把手设计问题\"，而是这么多顶级企业的顶级工程师，在 IATF16949、DFMEA、APQP、第三方认证这些流程的护送下，依然做出了\"极端情况下打不开车门\"的设计。",
+    "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -278,16 +252,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "id": "news-inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammat-1787425200000",
+    "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -318,24 +293,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-00-token-1787406960000",
-    "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-    "link": "https://www.qbitai.com/2026/08/477094.html",
-    "summary": "采集，从一条腕带开始",
-    "publishedAt": "2026-08-22",
-    "source": "量子位",
+    "id": "news-physical-ai-1787459844000",
+    "title": " 从打球机器人，看Physical AI 的路线之争 ",
+    "link": "https://www.huxiu.com/article/4885248.html?f=rss",
+    "summary": "本文来自微信公众号： 42号电波 ，作者：小波，编辑：大吉，原文标题：《从打球机器人，看 Physical AI 的路线之争》 8月22日晚上，第二届世界人形机器人运动会开幕式上，银河通用把一台人形机器人带到了「冰丝带」的网球场。站在球网另一侧的是真正的人类运动员。 机器人要做的也不再是提前编排好的挥拍动作：它需要追踪高速来球，判断球未来会落在哪里，根据球的位置调整脚步，再协调腿、腰、肩和手臂完成击球。现场三轮对拉中，「银河·星仔」每轮一来一回都超过20次；在与郑洁的单打展示里，正手、反手、底线移动和连续回球都被放进了一个不断变化的真实对抗过程。 银河通用这套系统背后，是清华大学、银河通用等团队今年公开的LATENT。研究团队没有为机器人逐帧设计正手、反手和跑位，而是先从不完整的人类网球运动片段中提取运动先验，再让强化学习策略在仿真中不断修正和组合这些技能。 最终，Unitree G1可以面对不同方向和落点的来球调整全身运动，并在真实环境中和人类维持连续回合。论文特意强调，这些人类数据并不需要是一套完整、精确的比赛动作序列，只有正手、反手、侧向移动等primitive skill的片段也可以提供先验。 如果只看这部分，很容易把LATENT放进过去几年机器人研究越来越清晰的一条主线里：运动控制正在从工程师编写轨迹，走向机器人从大量经验中学习策略。以前工程师要告诉机器人手臂应该沿哪条轨",
+    "publishedAt": "2026-08-23",
+    "source": "虎嗅",
     "tags": [
       "china",
-      "ai",
-      "technology"
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787394380000",
-    "title": "订单跑在收入前，透过万国数据看数据中心的真相",
-    "link": "https://www.tmtpost.com/8112373.html",
-    "summary": "AI订单涨疯了，利润还在路上。",
-    "publishedAt": "2026-08-22",
+    "id": "news--1787454685000",
+    "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
+    "link": "https://www.tmtpost.com/8113119.html",
+    "summary": "模型需要真实场景产生数据，但真实场景又需要足够成熟的模型和能够算得过来的成本，才愿意大规模部署机器人。",
+    "publishedAt": "2026-08-23",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -358,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-frontier-ai-labs-still-won-8217-t-say-how-they-8217-d-contai-1787414400000",
-    "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "id": "news-openai-says-california-should-strengthen-its-ai-safety-bill-1787416234000",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "publishedAt": "2026-08-22",
     "source": "TechCrunch",
     "tags": [
@@ -393,6 +369,34 @@ export const generatedNews: NewsItem[] = [
       "hr",
       "ai-hr",
       "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-23-60-1787459801000",
+    "title": " 拿游戏录像训练机器人，这家公司两个月估值从23亿涨到60亿美元 ",
+    "link": "https://www.huxiu.com/article/4885247.html?f=rss",
+    "summary": "本文来自微信公众号： 42号电波 ，作者：小波，编辑：大吉，原文标题：《拿游戏录像训练机器人，这家公司两个月估值从 23 亿涨到 60 亿美元》 6月25日，31岁的Pim de Witte在General Intuition的纽约办公室安排了两个演示。 一台电脑上，AI已经连续玩了100个小时类似《Fortnite》的游戏；另一边，一只大约金毛犬大小的四足机器人沿着办公室走廊缓慢移动。机器人身上没有激光雷达，也没有预先加载办公室地图，唯一用于环境感知的传感器，是正前方的一颗摄像头。画面被传回数据中心，模型以每秒10次的频率输出下一步动作。它能绕开人、穿过走廊，也会撞到椅子腿和垃圾桶，研发人员暂时还不敢让它独自经过玻璃会议室。 真正让de Witte兴奋的不是机器狗走得多好，而是驱动它的模型来自哪里。「玩游戏的智能体和机器人用的是同一个大脑」，他对到访的记者说。为了让这个「大脑」适配机器狗，团队只补充了8分钟真实世界机器人数据，而且这些数据采集自楼下街道，不是机器人正在行走的办公室。TechCrunch对这次演示的记录显示，General Intuition想证明的是：人类玩家在虚拟世界里留下的大量行动经验，能否成为机器进入物理世界之前的预训练数据。 演示当天，General Intuition宣布完成3.2亿美元A轮融资，投后估值23亿美元。加上2025年10月成立时获得的1.3",
+    "publishedAt": "2026-08-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1787454683000",
+    "title": "捷报接二连三，迎接个性化免疫疗法的大时代",
+    "link": "https://www.tmtpost.com/8113108.html",
+    "summary": "大幕开启，期待更多答案",
+    "publishedAt": "2026-08-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
     ]
   }
@@ -796,7 +800,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTU5LjI0Ny41MA== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny41MA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTcyLjIwOC4xMjcuMjQz when applying to show you read the job post completely (#RMTcyLjIwOC4xMjcuMjQz)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -912,4 +916,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-23T01:05:24.560Z';
+export const dataFetchedAt = '2026-08-23T06:34:36.293Z';
