@@ -2,6 +2,84 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-how-to-encourage-smarter-ai-use-in-the-classroom-1787581219000",
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+    "publishedAt": "2026-08-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-instinct-s-powerful-ai-assistant-is-raising-privacy-and-secu-1787594635000",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "publishedAt": "2026-08-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-2026-top-hr-products-recap-what-this-year-s-judging-revealed-1787583700000",
+    "title": "2026 Top HR Products recap: What this year’s judging revealed about where the market is going",
+    "link": "https://hrexecutive.com/2026-top-hr-products-recap-what-years-judging-revealed-about-where-market-going/",
+    "summary": "Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
+    "publishedAt": "2026-08-24",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
+    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
+    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
+    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
+    "publishedAt": "2026-08-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-visa-1787578333000",
+    "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+    "link": "https://www.qbitai.com/2026/08/478670.html",
+    "summary": "Visa看到的AI未来",
+    "publishedAt": "2026-08-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-800-1787573923000",
+    "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
+    "link": "https://www.tmtpost.com/8113703.html",
+    "summary": "AI是印钞机，怎么最后印的是新股？",
+    "publishedAt": "2026-08-24",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-kids-outlearning-ai-and-space-travel-agents-1787573400000",
     "title": "The Download: kids outlearning AI, and space travel agents",
     "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
@@ -14,11 +92,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-who-8217-s-behind-the-new-stealth-model-ox-alpha-1787515296000",
-    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "publishedAt": "2026-08-23",
+    "id": "news-valor-point72-back-general-intuition-at-6b-valuation-as-ai-s-1787585058000",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -30,7 +108,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-competitive-salary-isn-t-the-red-flag-jobseekers-think-it-is-1787574616000",
     "title": "‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds",
     "link": "https://hrexecutive.com/competitive-salary-isnt-the-red-flag-jobseekers-think-it-is-research-finds/",
-    "summary": "Jobseekers sometimes try to read between the lines of job listings to try to determine what the employer doesn’t want them to know. But when it comes to the ubiquitous phrase “competitive salary,” the ad usually means just what it says. In fact, competitive salary usually means higher, not lower, pay, a JobLeads analysis of [&#8230;] The post ‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds appeared first on HR Executive .",
+    "summary": "A JobLeads survey finds 'competitive salary' can actually mean higher salary in most cases especially in management and engineering work. The post ‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds appeared first on HR Executive .",
     "publishedAt": "2026-08-24",
     "source": "HR Executive",
     "tags": [
@@ -40,23 +118,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-beyond-flexibility-why-partnership-is-becoming-the-new-stand-1787562000000",
-    "title": "Beyond flexibility: Why partnership is becoming the new standard in HR services",
-    "link": "https://www.hrdive.com/spons/beyond-flexibility-why-partnership-is-becoming-the-new-standard-in-hr-serv/828098/",
-    "summary": "Today&#39;s employers expect more from their HR partner. See why trust, accountability and co-employment are redefining the HR services landscape.",
+    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
+    "title": "Companies that roll back DEI don’t perform better financially, study says",
+    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
+    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1-1787558879000",
-    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-    "link": "https://www.qbitai.com/2026/08/478473.html",
-    "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+    "id": "news-ai-1787577682000",
+    "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+    "link": "https://www.qbitai.com/2026/08/478568.html",
+    "summary": "全球大厂开始押注的AI科研，终于有了统一标准",
     "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
@@ -66,23 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787574572000",
-    "title": " 降价、降价、再降价，餐饮人的焦虑，都写在上半年财报里了 ",
-    "link": "https://www.huxiu.com/article/4885612.html?f=rss",
-    "summary": "本文来自微信公众号： 职业餐饮网 ，作者：程三月，原文标题：《降价、降价、再降价！餐饮人的焦虑，都写在上半年财报里了》 降价、降价、再降价！ “东西卖得越来越便宜，生意却越来越难做。”这大概是2026年上半年，餐饮老板们最扎心的感受。 降价，已不只是街边小店的求生法则。翻开头部餐企的财报，关键词出奇一致：降价。 遇见小面，客单价从31.3元降至27.7元，降幅11.5%，连续四年下调。 小菜园，堂食客单价从57.1元降至50.5元，降幅11.6%。 百胜中国Q2客单价整体下滑8%，其中肯德基降至36元，降3%；必胜客降至68元，降11%。 从快餐到正餐，从西式到中式，仿佛一夜之间，整个行业都在用同一种方式争夺消费者——把价格打下来。 但同样是降价，有人换来了交易量的狂欢，有人却深陷同店销售额下滑的泥潭；有人利润暴涨，有人却陷入了增收不增利的困局。 当“以价换量”成为行业主旋律，降价，便不再是一句口号，而是一场关于收益与代价的精密博弈。 三家上市餐企，同一个方向：降价 上半年，全国餐饮收入28255亿元，同比仅增2.8%。当增量市场的潮水退去，存量竞争的残酷便暴露无遗。 翻开头部餐企2026年上半年的财报季，有一个关键词绕不开——客单价下滑。 1、遇见小面：从31.3元降到27.7元，连续四年降价 8月17日，遇见小面交出上市后首份半年报：营收9.39亿元，同比增长33.6%；净利润",
-    "publishedAt": "2026-08-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-800-1787573923000",
-    "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
-    "link": "https://www.tmtpost.com/8113703.html",
-    "summary": "AI是印钞机，怎么最后印的是新股？",
+    "id": "news-vision-1787573867000",
+    "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
+    "link": "https://www.tmtpost.com/8114555.html",
+    "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
@@ -105,11 +171,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-faces-fine-of-nearly-1b-over-automated-driver-suspensio-1787513400000",
-    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
-    "publishedAt": "2026-08-23",
+    "id": "news-openai-is-building-ai-agents-for-everything-will-everyone-us-1787583600000",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -131,25 +197,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-worker-fired-shortly-after-disclosing-pregnancy-has-d-1787344980000",
-    "title": "Amazon worker fired shortly after disclosing pregnancy has discrimination claim, court rules",
-    "link": "https://www.hrdive.com/news/amazon-worker-fired-shortly-after-disclosing-pregnancy-has-bias-claim/828533/",
-    "summary": "The alleged close connection between her disclosure, restrictions on her overtime and her termination indicated adverse action based on the pregnancy, the court said.",
-    "publishedAt": "2026-08-21",
+    "id": "news-week-in-review-bank-of-america-bans-consecutive-remote-days-1787585160000",
+    "title": "Week in review: Bank of America bans consecutive remote days",
+    "link": "https://www.hrdive.com/news/week-in-review-bank-of-america-bans-consecutive-remote-days/828589/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including HR Dive&rsquo;s summer reading list for 2026.",
+    "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "ecommerce"
+      "workforce"
     ]
   },
   {
-    "id": "news-hl200-1787555076000",
-    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-    "link": "https://www.qbitai.com/2026/08/478469.html",
-    "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+    "id": "news-ai-1-1787558879000",
+    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+    "link": "https://www.qbitai.com/2026/08/478473.html",
+    "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
     "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
@@ -159,24 +223,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787573671000",
-    "title": " 为什么超级个体不需要超级团队？ ",
-    "link": "https://www.huxiu.com/article/4885573.html?f=rss",
-    "summary": "本文来自微信公众号： 腾讯研究院 ，作者：王焕超（腾讯研究院高级研究员），题图来自：AI生成 1913 年，法国农业工程师马克西米利安&middot;林格尔曼，在一份关于畜力与农业机械的报告里，记录了一个他自己都没太在意的发现。 他最初想解决的，是一个很实际的问题：两匹马拉一辆车，是不是等于一匹马的两倍？农民们凭常识认为是。而林格尔曼测出来的结果是否。也就是，两匹马的合力，明显小于两倍。 出于好奇，他把测量对象换成了人。一群工人拉一根绳子，绳子另一端接着测力计。 一个人单独拉，平均出力 63 公斤。 然后他开始加人。两个人一起拉，人均出力降到 59 公斤。三个人，53 公斤。加到八个人，人均只剩 31 公斤，不到一个人单干时的一半。八个人的总力量是 248 公斤，而八个&ldquo;63 公斤&rdquo;相加，本来应该是 504 公斤。 一半的力气，凭空消失了。 这个发现，后来被命名为林格尔曼效应，也叫社会惰化。一百多年来，它被反复验证，写进了每一本组织行为学教科书。1979 年，比布&middot;拉塔内和合作者在&nbsp;Many Hand Make Light the Work&nbsp;这篇论文里，也证明了人在群体中的出力会下降。但奇怪的是，这些结论几乎从未真正影响过人们组建团队时的乐观情绪。 一百一十三年过去了。2026 年，我们造出了远比拉绳子复杂的东西，也造出了两",
-    "publishedAt": "2026-08-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787573899000",
-    "title": "汽车之家的窗口期，正在收窄",
-    "link": "https://www.tmtpost.com/8114800.html",
-    "summary": "200亿现金，和一条漫长的转型路。",
+    "id": "news--1787573862000",
+    "title": "越失败越要上，这项运动为什么反而让人留下来",
+    "link": "https://www.tmtpost.com/8114522.html",
+    "summary": "继拼豆之后，又一项能产生“心流”的游戏。",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
@@ -199,17 +249,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-linkdaze-s-smart-calendar-is-built-to-run-a-household-not-ju-1787512448000",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "publishedAt": "2026-08-23",
+    "id": "news-brake-problems-in-gm-evs-draw-greater-federal-scrutiny-1787581127000",
+    "title": "Brake problems in GM EVs draw greater federal scrutiny",
+    "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+    "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -226,11 +275,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-feds-axe-contractor-affirmative-action-requirements-in-trio--1787344980000",
-    "title": "Feds axe contractor affirmative action requirements in trio of final rules",
-    "link": "https://www.hrdive.com/news/feds-ax-contractor-affirmative-action-requirements-in-trio-of-final-rules/828542/",
-    "summary": "The documents follow up on one of President Donald Trump&rsquo;s first orders that sought to alter the federal government&rsquo;s antidiscrimination enforcement work.",
-    "publishedAt": "2026-08-21",
+    "id": "news-beyond-flexibility-why-partnership-is-becoming-the-new-stand-1787562000000",
+    "title": "Beyond flexibility: Why partnership is becoming the new standard in HR services",
+    "link": "https://www.hrdive.com/spons/beyond-flexibility-why-partnership-is-becoming-the-new-standard-in-hr-serv/828098/",
+    "summary": "Today&#39;s employers expect more from their HR partner. See why trust, accountability and co-employment are redefining the HR services landscape.",
+    "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -239,10 +288,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-25-124-afac2026-1787551393000",
-    "title": "8月25日直播预告 &#124; AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-    "link": "https://www.qbitai.com/2026/08/478447.html",
-    "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
+    "id": "news-hl200-1787555076000",
+    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+    "link": "https://www.qbitai.com/2026/08/478469.html",
+    "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
     "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
@@ -252,23 +301,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787573460000",
-    "title": " 财政修渠、货币开闸，中国宏观政策有了新思路 ",
-    "link": "https://www.huxiu.com/article/4885604.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：欧阳晓红 财政依然是预算支出的安排者，却开始更多地成为信用传导的触发者、组织者和风险分担者。财政资金越来越多地嵌入金融决策：哪些贷款可以更便宜，哪些项目能够补足资本金，哪些民企债券可以获得增信，哪些地方旧债可以被置换。 市场还在等风来，财政的齿轮已经转向真金白银。 8月21日上午10时，在国新办发布会上，财政部副部长廖岷“晒”出一份成绩单：今年财政支出预算安排首次超过30万亿元；新增政府债券规模达到11.89万亿元，为历年来力度最大；中央对地方转移支付连续第四年超过10万亿元，达到10.42万亿元。 另一组数字更具有深意。廖岷表示，中央财政专门安排了1000亿元，通过“财政引导、金融投放、市场运作”的传导链条，实现了“1+1&gt;2”的政策效果。今年1—7月，通过中小微企业贷款贴息、设备更新贷款贴息、民间投资专项担保计划、民企债券风险分担机制4项促投资的政策，服务业经营主体贷款贴息、个人消费贷款贴息2项促消费的政策，累计支持相关领域新发放信贷超20万亿元，较上年同期增长了超8800亿元，增幅为4.5%。 1000亿元与20万亿元，由此被放进了同一条政策链。 不过，比规模更值得注意的，是财政“两手抓”。一边向前发力，一边处理旧债。截至7月底，各地发行置换债券1.73万亿元，完成今年2万亿元额度的86.7%。这显示今年化债额度在快速落地。而历",
-    "publishedAt": "2026-08-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-vision-1787573867000",
-    "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
-    "link": "https://www.tmtpost.com/8114555.html",
-    "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。",
+    "id": "news--1787573858000",
+    "title": "网易云音乐不想被汽水抢走最后一个音符",
+    "link": "https://www.tmtpost.com/8113993.html",
+    "summary": "“死不了”和“活得好”之间，中间隔着一道选择题。",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
@@ -291,11 +327,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-the-custom-chip-driving-waymo-s-robotaxi-1787500980000",
-    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-    "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "publishedAt": "2026-08-23",
+    "id": "news-hugging-face-reportedly-in-talks-to-be-acquired-for-13b-1787579246000",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -316,24 +352,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-skilled-labor-demand-is-exploding-ai-may-be-both-a-cause-and-1787325720000",
-    "title": "Skilled labor demand is exploding. AI may be both a cause and a solution",
-    "link": "https://www.hrdive.com/news/skilled-labor-demand-is-exploding-ai-is-both-a-cause-and-a-solution-nfpa/828486/",
-    "summary": "A survey by the National Fire Protection Association found that while AI is putting pressure on an already stretched fire and safety workforce, it is also making their jobs easier.",
+    "id": "news-amazon-worker-fired-shortly-after-disclosing-pregnancy-has-d-1787344980000",
+    "title": "Amazon worker fired shortly after disclosing pregnancy has discrimination claim, court rules",
+    "link": "https://www.hrdive.com/news/amazon-worker-fired-shortly-after-disclosing-pregnancy-has-bias-claim/828533/",
+    "summary": "The alleged close connection between her disclosure, restrictions on her overtime and her termination indicated adverse action based on the pregnancy, the court said.",
     "publishedAt": "2026-08-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-wan3-0-1787548167000",
-    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-    "link": "https://www.qbitai.com/2026/08/478427.html",
-    "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+    "id": "news-8-25-124-afac2026-1787551393000",
+    "title": "8月25日直播预告 &#124; AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+    "link": "https://www.qbitai.com/2026/08/478447.html",
+    "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
     "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
@@ -343,54 +380,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787573293000",
-    "title": " 那些声称自己有“厌蠢症”的人，厌的到底是什么样的“蠢”？ ",
-    "link": "https://www.huxiu.com/article/4885602.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：Margaret，编辑：李小葵 真要被这个愚蠢的世界气爆了！ 😠刚来的实习生不会用电脑，你手把手教ta怎么建表格、做数据，这才刚过三天，怎么又不会了？ 😠你踩着点到高铁站，队伍最前面那个人在闸机那儿捣鼓了五分钟，机器不断传来报错提醒，ta到底会不会刷身份证进站啊？ 😠辅导一年级孩子的数学作业，你不厌其烦地教ta设未知数、列方程，为什么换来的永远是空洞无辜的眼神呢？ 你刷手机时学到一个新词：厌蠢症。网友们说，这是一种遇到蠢人蠢事就会暴怒的“病”。 图丨小红书 你释然了，原来那些人和事真的很蠢，而自己的暴怒因为“病”的缘故也完全合理。行，以后就说自己得了“厌蠢症”吧。 殊不知，厌恶蠢人蠢事的你，已经被诅咒了。 知识诅咒让你得了“厌蠢症” 有“厌蠢症”的人，往往会在心里叫喊：你怎么连这个都不知道啊！ 事实上，你认为“蠢人”应该知道的那些东西并非常识，对方表现出“蠢”很正常；反而是你被知识“诅咒”出了认知偏差，不仅拒绝承认“此非常识”，还会很难站在对方的立场去思考和沟通。 这样一来一回，低效沟通和暴怒烦躁在知识的诅咒下滋生，“厌蠢症”就出现了。 “知识的诅咒”来源于一个有趣的实验，强烈建议你找朋友一起复刻一下，或许能帮你们更深地理解“厌蠢症”。 研究者先是列了一个歌单，包含《祝你生日快乐》等25首家喻户晓的歌曲。A组的人从中任选一首，用手在桌面敲出",
-    "publishedAt": "2026-08-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787573862000",
-    "title": "越失败越要上，这项运动为什么反而让人留下来",
-    "link": "https://www.tmtpost.com/8114522.html",
-    "summary": "继拼豆之后，又一项能产生“心流”的游戏。",
+    "id": "news-game-jam-1787573850000",
+    "title": "两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》",
+    "link": "https://www.tmtpost.com/8113947.html",
+    "summary": "上阵兄弟兵。",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-when-ai-designs-a-drug-who-gets-the-credit-1787302800000",
-    "title": "When AI designs a drug, who gets the credit?",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
-    "publishedAt": "2026-08-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-flock-ceo-calls-for-compromise-as-surveillance-company-faces-1787499000000",
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-    "publishedAt": "2026-08-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
       "ai"
     ]
   }
@@ -809,9 +808,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTU5LjI0NC4xNjQ= when applying to show you read the job post completely (#RNTIuMTU5LjI0NC4xNjQ=)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4yMzYuMTY3LjEx when applying to show you read the job post completely (#RNC4yMzYuMTY3LjEx)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -907,4 +906,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-24T12:41:23.014Z';
+export const dataFetchedAt = '2026-08-24T18:34:26.907Z';

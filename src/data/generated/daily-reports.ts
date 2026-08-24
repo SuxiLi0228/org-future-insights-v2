@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-25-auto",
+    "date": "2026-08-25",
+    "session": "auto",
+    "title": "2026-08-25 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-25-auto-1",
+        "emoji": "⚠️",
+        "title": "How to encourage smarter AI use in the classroom",
+        "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+        "detail": "来源: MIT Technology Review。This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+      },
+      {
+        "id": "sig-2026-08-25-auto-2",
+        "emoji": "💡",
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+        "detail": "来源: TechCrunch。Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+      },
+      {
+        "id": "sig-2026-08-25-auto-3",
+        "emoji": "🚨",
+        "title": "2026 Top HR Products recap: What this year’s judging revealed about where the market is going",
+        "summary": "Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/2026-top-hr-products-recap-what-years-judging-revealed-about-where-market-going/"
+      },
+      {
+        "id": "sig-2026-08-25-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Primal Acceleration of Newton's Method...",
+        "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite",
+        "detail": "作者: Nikita Doikov。We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while prese",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.21359v1"
+      },
+      {
+        "id": "sig-2026-08-25-auto-5",
+        "emoji": "💼",
+        "title": "Rowan 正在招募 Retail Store Associate",
+        "summary": "岗位类型：业务+AI 复合岗。About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
+        "detail": "技能要求: RAG, AWS。About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Rowan"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Rowan",
+        "link": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-25-1",
+        "priority": "medium",
+        "action": "关注「How to encourage smarter AI use in the c」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-25-2",
+        "priority": "low",
+        "action": "关注「Instinct’s powerful AI assistant is rais」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-25-3",
+        "priority": "high",
+        "action": "关注「2026 Top HR Products recap: What this ye」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-25-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Primal Acceleration of Newton's Met」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-25-5",
+        "priority": "medium",
+        "action": "关注「Rowan 正在招募 Retail Store Associate」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Rowan"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-25 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-08-25 00:00 - 2026-08-25 23:59"
+  },
+  {
     "id": "report-2026-08-24-auto",
     "date": "2026-08-24",
     "session": "auto",
