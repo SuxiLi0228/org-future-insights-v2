@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-25-ai-1787527146000",
-    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-    "link": "https://www.qbitai.com/2026/08/478358.html",
-    "summary": "Tim和胡彦斌亲自颁奖",
-    "publishedAt": "2026-08-23",
+    "id": "news-8-25-124-afac2026-1787551393000",
+    "title": "8月25日直播预告 &#124; AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+    "link": "https://www.qbitai.com/2026/08/478447.html",
+    "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
+    "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1787531997000",
-    "title": " AI医疗：千亿赛道，谁在领跑？ ",
-    "link": "https://www.huxiu.com/article/4885350.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 热钱涌入、赛道扎堆，三类玩家疯抢。 定焦One（dingjiaoone）原创 过去十年，AI医疗一直是资本市场眼中的“黄金赛道”。 2026年7月，商汤医疗完成超1亿美元B轮融资，投后估值突破百亿元。这家脱胎于AI视觉巨头的医疗子公司，正以“医疗世界模型”的概念向资本市场发起冲刺。据知情人士透露，公司已进入Pre-IPO阶段，有望成为“医疗世界模型第一股”。 与此同时，巨头也在加速下注。字节跳动斥资60亿元，想建成全国第一家“AI原生医院”；蚂蚁阿福从C端切入健康医疗领域，以“科学减重一亿斤”活动打开声量，目前月活突破3000万；腾讯发布AI医疗全栈解决方案，助力AI医疗加速落地；由李彦宏创立、百度支持的AI制药公司“百图生科”，据市场消息也已秘密递交上市申请...... 钱和人，正加速涌进AI医疗。 易观分析的最新数据显示，中国AI+医疗市场规模已突破1500亿元，年均复合增长率保持在40%-50%，远高于同期医疗行业整体增速。渗透率也在迅速提升，三级医院AI辅助诊断系统的渗透率已超过65%，二级医院达到40%；截至2025年底，国家药监局批准的AI医疗器械三类注册证已超过120款。AI早已在医院里干活。 不过，上一轮热潮也曾这样起势。2021年前后，科亚医疗、推想医疗、数坤科技、鹰瞳科技集体冲击IPO，四家明",
+    "id": "news-shein-800-1787553912000",
+    "title": " 简评Shein上市和阿里800亿配售 ",
+    "link": "https://www.huxiu.com/article/4885476.html?f=rss",
+    "summary": "本文来自微信公众号： 佩妮Penny的世界 ，题图来自：AI生成 1. Shein希音今天在港股开启打新。 目前发行市值在 250-270 亿美金左右，我听说投行一路询价从 400-500 亿美金，一路下跌，最后落定现在的价格。 遥想当年，跨境出海是 yq 之后一级市场最大的共识，Shein 是公司里的最大共识。高峰的时候，F 轮General Atlantic，tiger，hongshan，boyu 投了 10-15亿美金，投后估值超过了 1000 亿美金。 Shein IPO这一路也太曲折了，如果能去美股本来是最好的，后面从新加坡/伦交所，最后到港股，港股的定价体系和现在的市场情况，比较保守，确定有点可惜了。 因为巨大的 downround，触发了投资协议里的反稀释条款，所以公司需要从各种安排给后轮股东补偿，包括从自己的口袋拿出股份来补，以及给他们做基石，吃亏是不可能吃亏的。 （可能这次发行价比较保守也和这个相关？感觉基石的利润空间还不错&hellip;&hellip;） 这几年一二级市场的风头已经完全被 AI 占据，Shein 也不再站在风口之上，反而受到 800 美金小包免税/Temu 竞争/海外 ESG 合规等各种压力。 听人说，xhs 上 Shein的恶评都是 pdd 发的。我笑死，好高端的商战 （开玩笑） 。 过气风口不如狗，正如海尔张瑞敏说过的一句话：&ldquo;",
     "publishedAt": "2026-08-24",
     "source": "虎嗅",
     "tags": [
@@ -82,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-8-24-1787528761000",
-    "title": "Edge AI Daily 早报（8月24日）",
-    "link": "https://www.tmtpost.com/8113616.html",
-    "summary": "匿名模型Ox Alpha空降OpenRouter，凭百万token上下文与免费推理能力引发猜谜，智谱与微软MAI成嫌疑人。苹果调整零售店布局，为智能家居中枢设备腾空间，战略升级。微软英国数据中心遭4万居民反对，ESG与扩张矛盾凸显。Vercel联合Ora推118项AI Agent就绪度审计，定义新标准。OpenAI 180度转向，呼吁加州强化AI安全法案SB 53，因模型逃逸事件。英伟达NeMo Guardrails五层护栏架构，升级为企业AI安全标准。",
-    "publishedAt": "2026-08-23",
+    "id": "news-ai-1787552768000",
+    "title": "AI偶像，不能照搬真人明星的逻辑",
+    "link": "https://www.tmtpost.com/8114355.html",
+    "summary": "就算看着再逼真，也知道不是人。",
+    "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -147,11 +147,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wrc-1787491200000",
-    "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-    "link": "https://www.qbitai.com/2026/08/478319.html",
-    "summary": "玩的就是真实",
-    "publishedAt": "2026-08-23",
+    "id": "news-wan3-0-1787548167000",
+    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+    "link": "https://www.qbitai.com/2026/08/478427.html",
+    "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+    "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -160,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787531468000",
-    "title": " 为什么越来越多科研基金，开始用抽签决定谁拿经费？ ",
-    "link": "https://www.huxiu.com/article/4885346.html?f=rss",
-    "summary": "本文来自微信公众号： 返朴 ，作者：陈小美 从2022年起，作为瑞士最大的公共科研资助机构，瑞士国家科学基金会做了一个决定：对于评审者确实无法区分的申请，用抽签决定谁获得资助。 它不是唯一一家这样操作的资助机构。根据《自然》杂志最近的报道，英国、新西兰、德国的资助机构也在做类似的尝试。在一些试验中，评审者发现，抽签并未让更弱的申请涌入，反而让申请者的多样性有所提升。但反对者指出，抽签无法衡量一个项目与其所处知识环境的整合度，而政治上，让纳税人的钱“靠运气”分配可能很难交代。 本文收录于合集#学界观察与指南 Rachel Heyard的工作是在噪声中找到信号，但问题是，信号经常不存在。作为瑞士国家科学基金会（Swiss National Science Foundation，SNSF）数据团队的生物统计学家，Heyard面对的问题很具体：评审者按科学相关性、可行性和申请人过往记录等标准，给每份基金申请从A到D打分。她的任务是检验这些分数到底有多可靠，哪些申请确实排在前面，哪些只是看起来排在前面。 最强和最弱的申请很快就能分出来，但剩下的挤成了一团，Heyard称之为“B proposals的云”，分数接近到评审者无法区分。为了强行排出一个序列，他们给分数加上了正号和负号，试图分出更细的差异。但这些差异可能根本不存在。 SNSF在2021年分配约10亿美元的科研经费，覆盖所有学科。资助",
+    "id": "news-2800-1787552945000",
+    "title": " 2800亿知识付费市场，容不下一个卖练习册的北大教授 ",
+    "link": "https://www.huxiu.com/article/4885472.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 注：本文为深度完整版，精华版速览同日发布，请回查公众号！ 2026年8月，北大副教授韦东奕在B站上架两套数学练习册，小学版39.8元，初中版49.8元。 四天卖出2.6万册，销售额破百万元。 书很快售罄，舆论炸开了锅。 一方说人设崩了，另一方说卖自己写的书有什么问题。 但争议的核心不是他该不该卖书，而是他触碰了公众心中对学者的一种隐性期待——那个拎着矿泉水瓶的纯粹学者形象，与任何商业行为都格格不入。 问题恰恰在于，这种不对劲本身，才是最值得追问的东西。 （1）体制内的账：中国科研人员到底赚多少 讨论韦东奕卖书之前，需要先算一笔账——中国科研人员的真实收入。 鲍威团队的研究数据显示，中国研究型高校教职员工的年均报酬约为19.5万元，中位数为15万元。 这个数字乍看还行，但放到更大的坐标系里就显得尴尬了。 2025年全国城镇非私营单位就业人员年平均工资约为12万元，高校教师的收入高于全国平均。 可这个“高”相当有限，且远低于同等学历在其他行业的收入水平。 一个数学博士如果去量化私募或互联网公司的算法岗，年薪轻松50万起步。 留在高校做副教授，年收入可能只有20万上下，差距可以达到两三倍甚至更大。 这种落差在理工科领域尤其明显——一个计算机方向的博士，去大厂拿到的offer可能是高校薪酬的四到五倍。 选择留在学术体制内，意味着主动放弃了大部",
     "publishedAt": "2026-08-24",
     "source": "虎嗅",
     "tags": [
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-300-800-1787527200000",
-    "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
-    "link": "https://www.tmtpost.com/8113453.html",
-    "summary": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人、固态动力电池等纳入质量强链二期攻关方向；消息人士：博通债务交易规模预计最高可达700亿美元；2026年度电影总票房超270亿，暑期档成绩刷新两项纪录",
-    "publishedAt": "2026-08-23",
+    "id": "news-800-425-1787552755000",
+    "title": "阿里800亿、小米425亿：科技产业正在从屏幕走向现实",
+    "link": "https://www.tmtpost.com/8114333.html",
+    "summary": "下一轮科技竞争，为什么发生在云端、工厂和汽车里？",
+    "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -240,11 +240,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787484013000",
-    "title": "具身创业里的香港教授们",
-    "link": "https://www.qbitai.com/2026/08/478289.html",
-    "summary": "香港的大学里冒出了一批很特别的人",
-    "publishedAt": "2026-08-23",
+    "id": "news-wrc-2026-1787547892000",
+    "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+    "link": "https://www.qbitai.com/2026/08/478421.html",
+    "summary": "",
+    "publishedAt": "2026-08-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -253,24 +253,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787531276000",
-    "title": " 恒大审判之后，房地产该怎么系统性出清？ ",
-    "link": "https://www.huxiu.com/article/4885327.html?f=rss",
-    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：延观风，题图来自：视觉中国 之前的文章中《 许家印无期，杭州酒局刑拘，房地产出清远未结束》 ，我们回顾了房地产狂飙积累的待出清的问题，主要讲&ldquo;怎么看&rdquo;。限于篇幅，今天我们单开一篇文章，讲该如何出清积弊，也就是&ldquo;怎么办&rdquo;。 20多年的房地产大跃进，在时间上极大压缩了我国的增量扩张、粗放增长阶段。从积极意义上讲，我们因此更早更快地享受到了现代生活；从消极意义上讲，存量优化调整的阶段大大提前，整个社会都没有做好转型准备，在历史转折到来时，政府、企业和居民都表现出了茫然与不适，加剧了转型的痛感。 如今，房地产的思维模式、产业链条和利益格局渗入到了经济社会生活的方方面面。本文讲的出清，绝不仅仅聚焦过剩的房子何时消化、房价何时止跌回升，而是系统性地出清市场、观念和既得利益，拥抱新的发展思维、模式和结构。 同时，这种出清并不只是政府和房地产相关企业的责任。即使普通居民，也可能是房地产红利的既得利益者。我们需要跳出自己资产标价的计较，跳出看似代表自己诉求的短平快逻辑，去考量到底什么样的新共识和新模式有利于构建一个良性共同发展的框架，从长期主义中获得最大收益，而不是在死抱着各自短期利益的囚徒困境中，滑向历史周期律的下坡。 一切经济学皆为政治经济学。 因为经济和政治本质上都是分配资源利益的方式，最无权无势的百姓也",
+    "id": "news--1787552944000",
+    "title": " 甲醛白菜不用怕 ",
+    "link": "https://www.huxiu.com/article/4885471.html?f=rss",
+    "summary": "本文来自微信公众号： 毛有话说 ，题图来自：AI生成 因为怕也没用。 怕啥？中国人早炼得百毒不侵了。 该吃吃，该喝喝，看不见就不存在。不用焦虑，我咨询过专家，比较权威的解释是，蘸过甲醛的白菜，实际餐饮中危害并不大。因为残留量不多，只要把蔬菜洗净、煮熟就没有什么大问题。一定要煮熟吃。甲醛沸点很低，如果高温煮过，绝大部分甲醛会挥发走，食用对人体影响极小。 但是在煮的过程中，挥发出来的甲醛对屋里人影响很难预估，也就是那些大师傅可能才是甲醛的最大受害者。而且油烟本身就是高度致癌物。现代社会癌症发病率这么高，源头太多，防不胜防，因为你知道都不知道，致癌物质会从哪儿冒出来？ 所以无从防范，你装修个房子，千方百计防甲醛超标，结果没想到甲醛藏在蔬菜里&hellip;&hellip; 重典也没有用，食品安全法本身就是重典，但想低成本地喂养14亿人的嘴，没有科技和狠活儿是不可能的。 斯里兰卡全盘一刀切禁化肥农药，导致粮食产量暴跌、物价暴涨、农业体系崩盘，已经证明彻底零农残、零添加剂在规模化现代农业里完全行不通。 农产品又是一个高度分散化的市场，从田间地头到市民餐桌，每个环节都是无数分散的个体或小商户，监管成本高得吓人。 想彻底杜绝，唯一的解决方案是，从农场到餐桌，从源头到终端，全链条全封闭运行，这套系统已经有了，叫特&mdash;供。 所以，既然防不住癌，只能靠科技攻克癌症，莫德纳疫苗已经迈出第一步。",
     "publishedAt": "2026-08-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-workbuddy-1787488260000",
-    "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
-    "link": "https://www.tmtpost.com/8113359.html",
-    "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
-    "publishedAt": "2026-08-23",
+    "id": "news-ipo-1787552751000",
+    "title": "武汉即将迎来史上最大IPO",
+    "link": "https://www.tmtpost.com/8114331.html",
+    "summary": "光谷传奇。",
+    "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -332,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-1787483842000",
-    "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-    "link": "https://www.qbitai.com/2026/08/478234.html",
-    "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+    "id": "news-ai-25-ai-1787527146000",
+    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+    "link": "https://www.qbitai.com/2026/08/478358.html",
+    "summary": "Tim和胡彦斌亲自颁奖",
     "publishedAt": "2026-08-23",
     "source": "量子位",
     "tags": [
@@ -345,10 +346,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787531000000",
-    "title": " 北上广最挤的地铁线，人开始变少了？ ",
-    "link": "https://www.huxiu.com/article/4885345.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：良豪，编辑：DR 地铁越修越多，客流反而下降了，真的是“没人坐地铁了”吗？ “坐地铁最怕的事情不是没座位，而是车来了你挤不上去。” 暑假快结束了，一线城市的牛马们，在反复咀嚼这个真理一个夏天后，终于开始暗自松了一口气。 交通运输部8月18日公布的最新一份城市轨道交通运营数据显示，今年7月全国54个城轨城市总客运量29.4亿人次，北京、上海、广州、深圳、成都五座城市当月累计客运量均在2亿人次以上，领跑全国地铁客运榜第一梯队。 全国城市轨道交通的平均客运强度在下滑。（图/社交媒体截图） 事实上，虽然你可能依然挤在通勤的车厢里喘不过气，但很反直觉的是，全国城市轨道交通的平均客运强度却在下滑。运营数据还披露，今年7月全国城市轨道交通的总运营里程的平均客运强度为0.804万人次每公里日，比去年同期下降4.85%，是自今年2月以来连续第6个月出现同比回落。 2025年，中国共58座城市运营着382条城市轨道交通线路，总里程超过1.3万公里，其中超过1万公里是地铁，几乎每座地铁城市都有令人爱恨交织的“死亡×号线”。在众多一线大城市里，早晚高峰的地铁列车挤得像沙丁鱼罐头，一旦出现风吹草动，分分钟就会冲上同城热搜。 后面的人想上，那你就能上。（图/社交媒体截图） 只是地铁越修越多，客流反而下降了，怎么看都令人难以置信。单看总数，你可能会直接得出“没人坐地铁了”的",
+    "id": "news--1787551950000",
+    "title": " 打工人逃不掉的付费上班项目，又涨价了 ",
+    "link": "https://www.huxiu.com/article/4885469.html?f=rss",
+    "summary": "本文来自微信公众号： 惊蛰青年 ，作者：象树，编辑：安菲尔德 北京白领文文发现，共享单车又涨价了。 继6月青桔、美团、哈啰集体涨价后，哈啰单车在8月10日再次发布单车调价公告，宣布即日起，节假日普通单车计费调整为2.5元/60分钟，另收时长费0.1元/1分钟。 无人在意的角落，哈啰单车又偷偷涨价了。（图/哈啰单车小程序） 更微妙的是，和许多赶着最后一公里打卡的人一样，文文是在扫码解锁的最后一步，才看到单车调价的“温馨提示”。 也就是说，当你看到它时，通常已经站在车旁。要知道，能在早高峰的地铁站出口抢到一辆完好无损的共享单车，堪称打工人通勤路上的“小确幸”。 多花几毛换一个不迟到，少花几毛冒一个50元罚款的险，在烈日下通勤的你，面对这辆来之不易的通勤救命车，即便觉得贵了，也很难真的转身离开——毕竟，打工人的时间，往往比这几元钱更贵。 但你看，打工人付费上班的钱，也是这样越花越多的。 工作日一睁眼，分文未挣，就已经悄无声息地花出去几笔钱：5元的地铁通勤，7元的穷鬼早餐，9.9元的职场续命咖啡，以及越来越贵的共享单车。 但是，当最后一公里变成了“最贵一公里”，打工人是真的会反抗的。 小秸在社交媒体上写下这句话时，刚收了一辆二手电动车。 在前不久的毕业甩卖大潮中，小秸算得上是一个逆行者。别人在忙着处理行李、轻装上阵时，他迅速地给自己添置了新家当。 原因也很简单：毕业前的一段实习，让他吃够了",
     "publishedAt": "2026-08-24",
     "source": "虎嗅",
     "tags": [
@@ -358,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-7-1787472893000",
-    "title": "银行理财五星管理人评级报告 （2026年7月）",
-    "link": "https://www.tmtpost.com/8113345.html",
-    "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
-    "publishedAt": "2026-08-23",
+    "id": "news-10-1787552746000",
+    "title": "10万内的电车越来越强了，你还会看油车吗？",
+    "link": "https://www.tmtpost.com/8114252.html",
+    "summary": "“油转电”在加速。",
+    "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -399,7 +400,356 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2608.21359v1",
+    "title": "Primal Acceleration of Newton's Method",
+    "authors": [
+      "Nikita Doikov"
+    ],
+    "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining this rate while relying solely on one linear system solve per iteration (without solving auxiliary nonlinear regularized subproblems, such as cubic regularization, performing nonlinear parameter searches, or using dual extragradient corrections). Our method can be implemented in a Hessian-free way, using an inexact linear system solver, while prese",
+    "link": "http://arxiv.org/abs/2608.21359v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "math.OC",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21357v1",
+    "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+    "authors": [
+      "Elaine Lau",
+      "Thanuka Udumulla",
+      "Lee Izhaki-Tavor",
+      "Francisco Guzmán",
+      "Nicholas Magazine",
+      "Jonas Mueller"
+    ],
+    "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language models can now fluently describe natural images, we find that they are unable to accurately interpret these scientific images, reflecting limitations in domain knowledge and domain-specific visual reasoning capabilities. In contrast, scientists with relevant domain expertise find these visual inter",
+    "link": "http://arxiv.org/abs/2608.21357v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21356v1",
+    "title": "AI with Authority, from Application to Silicon",
+    "authors": [
+      "Jason Hickey"
+    ],
+    "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verified compiler and executive, to a RISC-V processor taped out on a community silicon shuttle; no proof passed through human review, and no RTL was written by a human. The working discipline --- the Salt method --- rests on a proof kernel no hallucinated proof can pass: mathematical claims travel betwee",
+    "link": "http://arxiv.org/abs/2608.21356v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.AR",
+      "cs.LO"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21349v1",
+    "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+    "authors": [
+      "Yoshitaka Inoue",
+      "Minoh Jeong",
+      "Alfred Hero",
+      "Rui Kuang",
+      "Augustin Luna"
+    ],
+    "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatment-conditioned representation learning framework that learns intervention-induced latent transitions and uses them as patient-drug response features. PerturbRx trains a drug- and dose-conditioned transition predictor from context-matched but cell-unpaired control and treated single-cell populations, then freezes and transfers the predictor to pretreatment patient profiles without requiring post-treatment measurements. The transition is combined with patient and drug representations to predict r",
+    "link": "http://arxiv.org/abs/2608.21349v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "q-bio.QM",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21348v1",
+    "title": "Truthful Calibration Measures for Sequential Prediction",
+    "authors": [
+      "Anagha Gokul",
+      "Jason Hartline",
+      "Lunjia Hu",
+      "Jonathan Ullman",
+      "Yifan Wu"
+    ],
+    "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) proposed an approximately truthful calibration measure for online prediction, leaving open whether exact truthfulness is compatible with completeness and soundness. We resolve this question negatively for sequential binary prediction: exact truthfulness is incompatible with completeness and soundness, even for independent outcomes. We then show that this impossibility is specific to exact truthfulness. We give two general reductions from a base calibration measure, producing additively and multiplicatively approximately truthful calibration measures, respectively. Applying the mul",
+    "link": "http://arxiv.org/abs/2608.21348v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.DS",
+      "cs.GT",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21345v1",
+    "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+    "authors": [
+      "Zhuoyi Yang",
+      "Ian G. Harris",
+      "Salar Hashemitaheri",
+      "Cassie Huang",
+      "Yuangang Li",
+      "Hyunwoo Oh",
+      "Paul Dourish",
+      "Tony Givargis",
+      "Mohsen Imani",
+      "Li Zhang"
+    ],
+    "summary": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model size as an implementation detail rather than a subject of study, which may lead to a waste of resources. Little work has systematically examined how model size affects each stage or whether effective self-refinement requires equally capable models for generation, critique, and revision. We present the first stage-wise model size study of the self-refinement pipeline on 5 benchmarks from different domains using 6 model sizes of Qwen3 and 4 model sizes of Gemma 3. We conclude that larger generator",
+    "link": "http://arxiv.org/abs/2608.21345v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21343v1",
+    "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+    "authors": [
+      "Vladimir Bataev",
+      "Lilit Grigoryan",
+      "Andrei Andrusenko",
+      "Nikolay Karpov",
+      "Vitaly Lavrukhin",
+      "Boris Ginsburg"
+    ],
+    "summary": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requirements of modern production ASR systems: streaming inference, efficient batched decoding, user-specific context lists, and low runtime overhead. We propose TurboBias 2.0, a production-oriented framework for efficient phrase boosting in Transducer-based ASR systems. The framework extends GPU-accelerated TurboBias with a case-insensitive boosting graph and per-stream batched decoding, allowing each utterance in a batch to use an independent context-biasing configuration. This enables personalized cont",
+    "link": "http://arxiv.org/abs/2608.21343v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21334v1",
+    "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+    "authors": [
+      "Pedro Cadahia Delgado"
+    ],
+    "summary": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty conditional on a realised price trajectory from variation in estimation error across alternative trajectories generated by the same pricing process. In the baseline simulations, the latter component accounts for 97.6% of the variance of estimation error for the gradient-boosted specification. Within-panel resampling procedures use the information of one realised trajectory and do not identify this across-design component. Three results organise the analysis. First, across-design dispersion is wel",
+    "link": "http://arxiv.org/abs/2608.21334v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG",
+      "econ.EM"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21332v1",
+    "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+    "authors": [
+      "David P. Stonko"
+    ],
+    "summary": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic priors enter as penalty terms in the loss (e.g., a branching penalty that treats a renal transplant artery off the iliac instead of the aorta as unexpected rather than impossible), in direct analogy to a physics-informed neural network, and hard anatomic priors (e.g., continuity of the vessel) are built into the architecture and state representation, making such invalid predictions impossible by construction wherever the prior admits architectural enforcement. We develop it on a clinical test case with limited data: how the aortoiliac tree deforms when a stiff wire is introduce",
+    "link": "http://arxiv.org/abs/2608.21332v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21325v1",
+    "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+    "authors": [
+      "Afonso Baldo",
+      "Hugo Pitorro",
+      "Areti Vassilopoulos",
+      "Anabela C. Areias",
+      "Maya D'Eon",
+      "Fabíola Costa",
+      "Ricardo Rei",
+      "Nuno M. Guerreiro"
+    ],
+    "summary": "Users increasingly turn to large language models for emotional support, yet little is known about how these models actually conduct a psychotherapy interaction. We introduce an ontology of ten therapeutic moves: compact, function-based categories grounded in the MULTI-60 inventory, validated through an annotation campaign with five licensed psychologists, and scaled with a judge-based approach that matches expert agreement. Applying it to real counseling transcripts and model-led sessions, we compare the move distributions between human clinicians and a panel of frontier models. Models over-use inquiry at up to three times the human rate, neglect psychoeducation, and are strongly context-anchored: they carry forward strategies initiated by a human clinician but rarely initiate them themsel",
+    "link": "http://arxiv.org/abs/2608.21325v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21324v1",
+    "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
+    "authors": [
+      "Weihao Qu",
+      "Ling Zheng",
+      "Dongyang Wang",
+      "Jiacun Wang",
+      "Haowen Pan"
+    ],
+    "summary": "The rapid symptom change of Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) makes it critical to have time-sensitive prediction models. However, most current machine learning models studying AECOPD use clinical and laboratory data, which will inevitably cause latency. To ensure timely detection of AECOPD and minimize latency, this paper focuses on home monitoring scenarios where only respiratory data from daily-use ventilators is available. We introduce a Time-Aware transformer-based AECOPD prediction model, which generates meaningful patient representations using the Time-Aware transformer to capture the symptoms and their temporal progression in ventilator data. Our experimental results demonstrate that our Time-Aware transformer-based approach outperforms traditiona",
+    "link": "http://arxiv.org/abs/2608.21324v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21319v1",
+    "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+    "authors": [
+      "Jingtao Tang",
+      "Hang Ma"
+    ],
+    "summary": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and revisits. To explore the resulting infinite solution space, we propose a unified branch-and-bound search over rooted walk prefixes. Additive lower-bound-graph costs bound committed prefixes, while a cut-separated connected-flow relaxation lower-bounds the residual cost of visiting every remaining target and returning to the root. Under a uniform positive-cost assumption, best-first traversal terminates after finitely many expansions on every feasible instance without an initial incumbent, whereas depth-first traversal does so once a finite incumbent is available. For a user-sp",
+    "link": "http://arxiv.org/abs/2608.21319v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21317v1",
+    "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+    "authors": [
+      "Adriana Watson",
+      "Marco Bücheler",
+      "Grant Richards"
+    ],
+    "summary": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introduces Digital Product Passports (DPPs) for life cycle transparency, while the General Data Protection Regulation (GDPR) mandates Data Protection Impact Assessments (DPIAs) to mitigate privacy risks. Creating these compliance artifacts, however, is challenging. Industrial data, which often exists in heterogeneous formats and is scattered across company and supplier systems, is required for DPPs and can be difficult to extract into compliant DPP formatting. Furthermore, DPIA documents require interd",
+    "link": "http://arxiv.org/abs/2608.21317v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21315v1",
+    "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed",
+    "authors": [
+      "Nicolás Vera Zúñiga"
+    ],
+    "summary": "That a prompt's effect is not a property of the prompt is established: prompts optimised for one model degrade on another, and rankings reorder under neutral reformatting. That evidence is about task accuracy, which cannot say whether the interaction is a fact about task machinery or about the conditional distribution itself. We ask on a readout with no task in it: the fixed-point structure of the short-window argmax map x_{t+1} = argmax_x p(x | x_{t-1}, x_t), censused from 96 starts. It is deterministic, so nothing can be helped or hurt, and it exists only at short windows -- four of six models lose it entirely by window 16 -- so everything here concerns how a model reads a fragment. Two results. First, the interaction reaches this readout at full magnitude: nine tokens of conditioning mo",
+    "link": "http://arxiv.org/abs/2608.21315v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21308v1",
+    "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+    "authors": [
+      "Zeyun Zhong",
+      "Joya Chen",
+      "Manuel Martin",
+      "Frederik Diederichs",
+      "Juergen Gall",
+      "Juergen Beyerer"
+    ],
+    "summary": "Test-Time Training (TTT) enables long-context processing via continuous weight updates during inference, but current methods struggle to balance the expressivity of per-token update dynamics with the hardware efficiency of chunk-wise approximations. We propose E$^2$-TTT (Expressive and Efficient TTT) to bridge this gap. Under the standard approximation of taking gradients at the chunk-start weights, we derive a closed-form state transition that exactly reproduces the chunk-end fast-weight and momentum states of the per-token recurrence. This enables fully parallelized chunk-level training while preserving the temporal structure of the update rule that prior chunk-wise methods discard. We validate E$^2$-TTT by training models up to 1.3B parameters from scratch. It performs on par with previ",
+    "link": "http://arxiv.org/abs/2608.21308v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21307v1",
+    "title": "SPARCL: Spectral Partitioned Analytic Continual Learning",
+    "authors": [
+      "James Hartley",
+      "Zeropy Surio",
+      "Daniel Whitmore",
+      "Hannah Clarke",
+      "Thomas Reed"
+    ],
+    "summary": "Analytic continual learning has emerged as a strong exemplar-free alternative to gradient-based class-incremental learning because it replaces iterative optimization with closed-form ridge updates. Yet the usual forgetting narrative, centered on stochastic gradient overwriting, does not explain why analytic methods still drift on old classes despite exact recursive solvers. We identify the culprit as spectral interference: the joint ridge classifier for all tasks shares the inverse autocorrelation operator $(R+λI)^{-1}$, so incoming task samples that load onto old dominant eigendirections dilute the spectrum and perturb old-class logits even when old labels are never revisited. Based on this view, we propose SPARCL, a spectral partitioned analytic continual learner that decomposes the runn",
+    "link": "http://arxiv.org/abs/2608.21307v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21305v1",
+    "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+    "authors": [
+      "Haonan Jia",
+      "Shichao Dong",
+      "Zenghui Sun",
+      "Jiawen Zheng",
+      "Ziqi Miao",
+      "Gege Shi",
+      "Qiuyu Zhao",
+      "Jinsong Lan",
+      "Xiaoyong Zhu",
+      "Bo Zheng"
+    ],
+    "summary": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper, we argue that multi-modal retrieval can serve as an effective reasoning signal for caption refinement. Based on this insight, we present the Retrieval-Guided Refinement for Image Captioning (Re$^3$Cap), a retrieval-guided reasoning strategy that enhances image captioning without requiring additional annotations. Instantiated by Caption Refinement Suggester (CRS) and Caption Quality Assessor (CQA), this strategy identifies hallucinations and omissions in image captions, leading to more accurate",
+    "link": "http://arxiv.org/abs/2608.21305v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21292v1",
+    "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+    "authors": [
+      "Huizu Lin",
+      "Chengkai Huang",
+      "Tianqi Gao",
+      "Tao Huang",
+      "Daijiao Liu",
+      "Tongxin Li",
+      "Xiaoyan Sun",
+      "Lina Yao"
+    ],
+    "summary": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, fully internalize them, or select among internalization and utilization objectives through noisy task-level success rates. Such designs fragment training and assign uniform importance to actions within the same trajectory, even though skill guidance may help some decisions while distracting others. To solve these problems, we introduce AUSO (Action-level Unified Skill Optimization), which unifies skill learning and skill use through a progressive, action-aware optimization process. At the beginning",
+    "link": "http://arxiv.org/abs/2608.21292v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21278v1",
+    "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+    "authors": [
+      "Chengxiao Wang",
+      "Enyi Jiang",
+      "Xiaojing Liao",
+      "Sanmi Koyejo"
+    ],
+    "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose \\textbf{C}ontinuous \\textbf{L}at\\textbf{E}nt \\textbf{A}dapter \\textbf{R}outing (CLEAR), a conditional safety adaptation framework that uses a lightweight hidden-state gate to continuously control the activation strength of a safety low-rank adapter. CLEAR aims to reduce harmful completions while avoiding unnecessary changes to the frozen backbone that could degrade performance on benign prompts. Experiments on widely used safety and utility benchmarks show that CLEAR improves robustness on HarmBench while reducing the utility degradation observed with globally applied safety tuning such as SFT ",
+    "link": "http://arxiv.org/abs/2608.21278v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.21277v1",
+    "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+    "authors": [
+      "Yichen Jiang",
+      "Yueqiao Chen",
+      "Dongyu Liu"
+    ],
+    "summary": "State-of-the-art multivariate time-series forecasters can model complex temporal and cross-variable dependencies, yet their opaque representations provide limited insight into why a particular forecast is produced. This lack of transparency restricts their use in settings where practitioners must understand and assess the factors underlying a prediction. We introduce ConceptTS, an interpretable forecasting framework that organizes its predictions around named, human-readable concepts. ConceptTS uses a large language model to propose task-relevant concepts and generate executable labeling rules, translating the language model's domain knowledge into direct supervision without costly manual concept annotation. The proposed concepts are organized into three complementary bottlenecks that desc",
+    "link": "http://arxiv.org/abs/2608.21277v1",
+    "publishedAt": "2026-08-21",
+    "categories": [
+      "cs.LG"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -463,7 +813,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNjguMjIwLjU4LjI0NA== when applying to show you read the job post completely (#RNjguMjIwLjU4LjI0NA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuOTcuMTk4LjI0NA== when applying to show you read the job post completely (#RMjAuOTcuMTk4LjI0NA==)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -561,4 +911,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-24T01:03:40.908Z';
+export const dataFetchedAt = '2026-08-24T06:50:58.588Z';
