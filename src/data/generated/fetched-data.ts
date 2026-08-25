@@ -2,6 +2,283 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-smarter-ai-in-schools-and-a-robot-8220-carnival-1787659800000",
+    "title": "The Download: smarter AI in schools, and a robot &#8220;carnival&#8221; in Shanghai",
+    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-fiat-ventures-combines-venture-and-advisory-divisions-into-n-1787661457000",
+    "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+    "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+    "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+    "publishedAt": "2026-08-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-fintech-8217-s-advances-have-made-it-a-hidden-talent-ena-1787660128000",
+    "title": "Why fintech&#8217;s advances have made it a hidden talent enabler for workers",
+    "link": "https://hrexecutive.com/why-fintechs-advances-have-made-it-a-hidden-talent-enabler-for-workers/",
+    "summary": "Fintech is showing up as a rewards and recognition solution, addressing multiple use cases beyond traditional financial wellness. The post Why fintech&#8217;s advances have made it a hidden talent enabler for workers appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
+    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
+    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
+    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
+    "publishedAt": "2026-08-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-phanthymotus-1787650276000",
+    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+    "link": "https://www.qbitai.com/2026/08/479314.html",
+    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787660647000",
+    "title": " 古法电商拼多多 ",
+    "link": "https://www.huxiu.com/article/4885918.html?f=rss",
+    "summary": "本文来自微信公众号： 山上 ，作者：山上团队 老实又本分。 作者I何简 编辑I蒋浇 封面I火遮眼 中国互联网大公司们的AI投资竞赛越打越上头，阿里和腾讯都已经将单季资本开支拉高到677亿和528亿的历史最高水平，甚至腾讯的自由现金流都首次季度转负，唯有拼多多依然坚持古法手搓，任何性感的AI叙事都与它无关，任何花哨的闪购外卖也都不碰。 2026年第二季度，拼多多最新的投资动作是分别在雄安和上海买了两栋办公大楼。昨晚的财报电话会上，拼多多集团联席董事长兼联席CEO赵佳臻特意在开场发言中提及雄安的办公大楼，据称全职员工已达4000人。这是他们“锚定智能化发展新机遇”“推动传统制造业走向价值高端”的举措之一。 按照拼多多管理层此前表述，今年是他们“新十年高质量发展”的开局之年，他们要以此为契机持续聚焦供应链投入，“未来三年有机会再造一个拼多多。” 高质量发展是个大课题，因此能容纳一切战术动作。买大楼是高质量发展，做自营品牌也是为了高质量发展，合规建设和商家扶持更是高质量发展的必经之路。反正不管拼多多做了什么，管理层最终都能落脚到高质量发展中，肯定和竞争乃至处罚都没什么关联。 这么来看，拼多多刚刚发布的2026年第二季度财报也是高质量发展的一环。当季拼多多营收1124亿元，同比增长8%，略低于市场预期。当季经调整净利润虽同比下降13%至285亿元，却仍高于市场预期。昨晚财报发布后，拼多多盘中",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-330-1787657379000",
+    "title": "330天后，安世中国管理团队重磅发布，看他们带来了什么？",
+    "link": "https://www.tmtpost.com/8115056.html",
+    "summary": "安世中国:断供、突围、重构，然后重新出发。",
+    "publishedAt": "2026-08-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-welcome-to-the-spiderverse-a-world-measured-through-webs-1787648400000",
+    "title": "Welcome to the spiderverse, a world measured through webs",
+    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-fitbit-founders-launch-luffu-link-an-lte-health-and-safety-b-1787659200000",
+    "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+    "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+    "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+    "publishedAt": "2026-08-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing-1787659230000",
+    "title": "The U.S. leads AI talent by a mile, but the gap is narrowing",
+    "link": "https://hrexecutive.com/the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing/",
+    "summary": "New research shows AI talent remains concentrated in the U.S., as job postings requiring AI skills rise worldwide. The post The U.S. leads AI talent by a mile, but the gap is narrowing appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-feds-to-propose-h-1b-fee-that-would-stack-with-controversial-1787604120000",
+    "title": "Feds to propose H-1B fee that would stack with controversial $100K payment",
+    "link": "https://www.hrdive.com/news/feds-propose-new-h-1b-fee-cap-subject-visas/828647/",
+    "summary": "Employers should expect litigation against the new fee once it is finalized, a source told HR Dive, similar to what occurred after last year&rsquo;s fee was announced by President Donald Trump.",
+    "publishedAt": "2026-08-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-8b-image-2-1787640806000",
+    "title": "开源国产8B模型，比肩闭源Image 2了！",
+    "link": "https://www.qbitai.com/2026/08/479192.html",
+    "summary": "SenseNova U1.5 Lite",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787660604000",
+    "title": " 泡泡玛特被段永平青睐，但潮玩工作室却正在大批倒闭 ",
+    "link": "https://www.huxiu.com/article/4885919.html?f=rss",
+    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 “现在，设计师们都在等裁员通知，公司已经明确说了撑不到年底了”薇薇向知危表示。 中国潮玩之都东莞石排镇里，设计师薇薇（化名）所在公司的展厅，连灯都没有开。 而在石排镇的一个从业者饭局的饭桌上，潮玩从业者们纷纷向知危感叹着：“今年不好干了。” “前两年潮玩展还会出一些盲盒大娃限量款，好多人都提前几个小时去排队抢，被黄牛炒的特别火热。但这两年，就连展会都没那么热闹了。”一位从业者唏嘘道。 与此同时，市场上不断传来“段永平投资泡泡玛特”、“段永平公开表示10年内大概率不会卖泡泡玛特”的新闻，行业似乎进入了某种冰火两重天的状态，一场残酷的淘汰赛正要上演。 从工厂加班加点做订单，到各种二手潮玩被炒上天，再到现在的行业工作室开始批量倒闭，潮玩行业，到底怎么了？ “前两年公司还蒸蒸日上的时候，休息室里甚至专门配备了台球桌，老板那时候也愿意和大家一起打打球、唠唠嗑。”薇薇向知危讲述着曾经的辉煌。 2025年，LABUBU一个IP卖出了141.6亿元，毛利率高达72.1%。巅峰时候，初代收藏级Labubu玩偶卖出108万元，普通盲盒的隐藏款溢价都超过了20倍，捅破了潮玩行业的天花板。 整个行业都热了起来，设计、订货、开直播间......每个人都想分一杯羹。 然而，二手交易市场的价格暴跌，给行业撕出了一道裂痕。 2025年底，Labubu二手",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787657362000",
+    "title": "二手半导体设备成抢手货了",
+    "link": "https://www.tmtpost.com/8115046.html",
+    "summary": "当前庞大的产能需求不能再挑肥拣瘦了，物尽其用才是硬道理。",
+    "publishedAt": "2026-08-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i--1787648400000",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-8216-the-world-seems-to-be-ready-8217-an-interview-with-open-1787659200000",
+    "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "publishedAt": "2026-08-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027-1787658318000",
+    "title": "U.S. employer healthcare costs projected to climb 9.5% in 2027",
+    "link": "https://hrexecutive.com/u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027/",
+    "summary": "This projection marks the fourth consecutive year of elevated health care cost trends approaching double digits and extends one of the most sustained periods of health care inflation employers have faced in decades. The post U.S. employer healthcare costs projected to climb 9.5% in 2027 appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
+    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
+    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
+    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
+    "publishedAt": "2026-08-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-3-10-500-1787639991000",
+    "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+    "link": "https://www.qbitai.com/2026/08/479132.html",
+    "summary": "字节、汇川等已入股未来不远机器人最新一轮融资",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-05-1787660140000",
+    "title": " 战魔田默｜八问平台05：北大教授张丹丹称“灵活本身就是一种福利”，为什么那么多人不买账？ ",
+    "link": "https://www.huxiu.com/article/4885915.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜八问平台05：北大教授张丹丹称“灵活本身就是一种福利”，为什么那么多人不买账？》 一句“灵活本身就是一种福利”，把北大教授张丹丹推到了舆论中央。 在一档财经访谈节目中，谈到灵活就业群体的社会保障问题时，北京大学国家发展研究院副院长张丹丹说，从劳动经济学角度看，“灵活本身就是一种福利”。 这句话很快引发争议。 有人认为，一个没有稳定劳动合同、社会保障相对不足，甚至因为找不到更稳定工作才进入灵活就业的人，很难把这种状态理解为“福利”。 也有人认为，张丹丹讨论的只是时间自主本身具有价值。把一句话从完整语境里截出来，很容易把一个经济学判断变成一场情绪审判。 从公开的访谈上下文看，张丹丹的表达确实比一句热搜标题复杂。她讨论的是一种交换。稳定就业通常拥有相对完整的保障，也需要让渡一部分时间自由；灵活就业拥有更多时间自主，保障则可能相对不足。 问题恰恰出在这里。 如果时间自主确实具有价值，灵活也确实能够带来自由，为什么这样一句话进入现实世界以后，会让那么多人感到刺耳？ 01 张丹丹说错了吗？ 如果把张丹丹的话简单理解成“没有五险一金也是一种福利”，并不公平。 现实中确实有人主动离开固定组织，选择做独立顾问、自由设计师、内容创作者，或者同时服务多个客户。他们不愿接受朝九晚五和严格的组织约束，宁愿用一部分收入稳定性换取更多时间自",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-2027-1787657228000",
+    "title": "OpenAI 的 2027：资本周期下的上市平衡术",
+    "link": "https://www.tmtpost.com/8115750.html",
+    "summary": "市场普遍将 OpenAI 规划 2027 年 IPO 视为技术兑现与万亿估值冲刺的行业里程碑。本文以资本久期匹配 + 6000 亿表外算力负债双框架拆解：上市并非单纯的技术高光时刻，而是资本周期与产业投入节奏相互校准的结构性平衡。",
+    "publishedAt": "2026-08-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-how-to-encourage-smarter-ai-use-in-the-classroom-1787581219000",
     "title": "How to encourage smarter AI use in the classroom",
     "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -27,24 +304,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-retention-strategies-how-leaders-create-workplaces--1787609617000",
-    "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
-    "link": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
-    "summary": "Wednesday, September 30, 2026 at 3:00 pm ET Join bestselling author and workplace connection expert Erica Dhawan for an insightful conversation on what truly drives retention and how to improve employee retention in today’s evolving workplace. Drawing on extensive research, real-world case studies and her groundbreaking “four laws of digital body language,” Dhawan challenges conventional assumptions about employee engagement and explores the everyday leadership behaviors that create stronger relationships, higher trust and lasting loyalty. The post Employee Retention Strategies: How Leaders Cr",
-    "publishedAt": "2026-08-24",
+    "id": "news-flight-risk-more-workers-are-paying-to-upskill-for-their-nex-1787657452000",
+    "title": "Flight risk: More workers are paying to upskill for their next job",
+    "link": "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/",
+    "summary": "Orgs are upping their AI spend while slashing L&#038;D budgets, leaving many employees to pay for their own AI upskilling, which many are doing to support a move to a new organization. The post Flight risk: More workers are paying to upskill for their next job appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "organization",
-      "strategy"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
-    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
-    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
-    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
+    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
+    "title": "Companies that roll back DEI don’t perform better financially, study says",
+    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
+    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
@@ -68,24 +345,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787638160000",
-    "title": " 看空却做多的时代 ",
-    "link": "https://www.huxiu.com/article/4885772.html?f=rss",
-    "summary": "本文来自微信公众号： caoz的梦呓 ，作者：caoz，题图来自：视觉中国 首先，我说明一点，不是财经博主，没有财经资质，本文只是探讨投资逻辑，而非具体投资行为，其中算力行业是重资本行业，不可避免涉及金融市场动向，但本文无荐股，无投资建议，不构成任何投资决策。 前段时间在国内，拉个饭局，和几个行业内顶尖的朋友吃饭，聊了聊行业的现状和发展。结合之前在新加坡和一些资深从业者的沟通，加深了一个有趣的结论。就是 所有资深从业者都知道目前AI算力行业存在泡沫，但没人敢做空。 那么我再总结一下，就是 利空都是明确的，但利好是未知的，是偶然的，即便如此，没人敢赌利好不存在。 说一下几点利空。 1，谷歌，meta等巨头现金流吃紧，国内巨头稍好，但现金流开支增速远超利润增长。这种现金流烧法难以持续，只能靠发债维持，现金全在英伟达手里，现在要靠英伟达投资AI企业，然后AI企业拿着英伟达的投资去买英伟达芯片。这怎么看都不是可持续的过程。 这里简单解释一下，你看巨头财报，不是利润很好么，怎么现金流下降这么快，因为算力的采购成本，是按照时间摊销的，所以财务上看上去成本不算特别多，但现金流开支远大于这个财务数据，从某种意义来说，这里其实也是很多人诟病的地方，通过延展摊销周期，掩盖成本问题。 现金流吃紧，意味着后续必然被迫减少算力开支，或者不断通过发债或配股弥补。最新新闻可以看到，阿里开始配股了。 2，美国开始",
+    "id": "news-81-2026-1787660086000",
+    "title": " 81%在欧中企感到不安：欧盟2026“合规”新壁垒 ",
+    "link": "https://www.huxiu.com/article/4885917.html?f=rss",
+    "summary": "本文来自微信公众号： Internet Law Review ，作者：互联网法律评论 2025年底，欧盟及其成员国密集出台了一系列有强烈保护主义色彩的政策文件和措施，这些举措将在2026年以“欧洲优先”和“数字主权”的名义被反复讨论并执行。中国欧盟商会发布的2024/2025年度报告显示，81%的在欧中国企业感受到“不确定性加剧”，中国企业正面临着更加动荡的环境。 这些政策举措并非无迹可寻。从国际关系上，欧盟越来越感受到被中美关系强烈影响、却无法参与对话的危机感；从经济方面看，中国对欧盟的贸易顺差正持续扩大。欧盟委员会主席冯德莱恩表示，欧盟与中国的关系“已达到转折点”。 从这些已经发布以及计划中的政策举措来看，2026年欧盟的“经济安全”、“加强供应链韧性和消除依赖”，绝非老生常谈，外国投资审查、出口管制、竞争法等以往工具框架将会以新的综合性协调方式得以实现。 一、机制整合：构建跨成员国的“经济安全”统一战线 2025年12月3日，欧盟委员会发布了经济安全战略的全面更新版。从2023年开始，欧盟每年都会发布新的经济安全战略。但早期的经济安全更多被视为临时性的危机应对措施。而从2025年的版本能明显看出，欧盟正在试图建立一个更加结构化和前瞻性的框架，经济安全将会影响投资、贸易、融资和技术政策等日常决策。 欧盟委员会要解决“经济安全”的外部性问题，首先要解决其内部的权限和能力。根据欧洲",
     "publishedAt": "2026-08-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1787637993000",
-    "title": "中国商业航天，开启整星出口新节点",
-    "link": "https://www.tmtpost.com/8115859.html",
-    "summary": "从卖卫星到输出能力，中国商业航天开始走向海外。",
+    "id": "news-ai-1500-1787657225000",
+    "title": "两个“AI角斗场”加起来卖出1500亿天价，巨头图什么？",
+    "link": "https://www.tmtpost.com/8115802.html",
+    "summary": "成为最强选手之外，控制比赛场地也很香",
     "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
@@ -113,284 +389,6 @@ export const generatedNews: NewsItem[] = [
     "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
     "publishedAt": "2026-08-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-top-hr-products-recap-what-this-year-s-judging-revealed-1787583700000",
-    "title": "2026 Top HR Products recap: What this year’s judging revealed about where the market is going",
-    "link": "https://hrexecutive.com/2026-top-hr-products-recap-what-years-judging-revealed-about-where-market-going/",
-    "summary": "Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
-    "publishedAt": "2026-08-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-feds-to-propose-h-1b-fee-that-would-stack-with-controversial-1787604120000",
-    "title": "Feds to propose H-1B fee that would stack with controversial $100K payment",
-    "link": "https://www.hrdive.com/news/feds-propose-new-h-1b-fee-cap-subject-visas/828647/",
-    "summary": "Employers should expect litigation against the new fee once it is finalized, a source told HR Dive, similar to what occurred after last year&rsquo;s fee was announced by President Donald Trump.",
-    "publishedAt": "2026-08-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-tibo-1787635250000",
-    "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-    "link": "https://www.qbitai.com/2026/08/478996.html",
-    "summary": "下一代Agent天然会走向云端和更大规模的计算资源",
-    "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-535b-loss-1787637092000",
-    "title": " 535B大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺 ",
-    "link": "https://www.huxiu.com/article/4885770.html?f=rss",
-    "summary": "本文来自微信公众号： AI前线 ，作者：冬梅 当大多数模型公司还在围绕“是否开放权重”争论时，一个总参数达到5350亿的大模型，选择在训练尚未完成、甚至仍可能中途失败的时候，把训练曲线、数据配方、模型配置和技术讨论直接放到了网上。 近日，斯坦福大学计算机科学副教授、基础模型研究中心（CRFM）主任Percy Liang在x上发帖宣布，开放基础模型项目Marin已于上周启动Marin 535B-A23B的训练。 按照目前公布的计划，Marin 535B-A23B将处理18.75万亿Token，其中约80%用于预训练，20%用于中期训练；训练运行在11套NVIDIA GB200 NVL72系统上，预计持续约3个月，总计算量约为2.7×1024 FLOPs，之后还将进入后训练阶段。 据Marin项目发起公告，项目最早诞生于斯坦福大学基础模型研究中心CRFM，于2025年5月正式对外公布。发起公告的作者包括David Hall、Percy Liang，以及来自斯坦福、Open Athena和开放社区的多位研究人员。 Percy Liang曾就职于对话式AI公司Semantic Machines，担任首席科学家。该公司于2018年被微软收购，相关团队后来参与微软对话系统及语音助手技术建设。 此外，他也是大模型推理云和开源AI公司Together AI的联合创始人之一。Together AI的",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1787636951000",
-    "title": "风雪唐古拉，海尔智家AI科技走进极地考场",
-    "link": "https://www.tmtpost.com/8115136.html",
-    "summary": "设备只有在真实场景里扛住了这种“震荡”的折磨，回到普通家庭的客厅与厨房时，面对日常的气候变化或用电波动，才会具备碾压式的稳定性。这便是技术上真正的“降维打击”。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-kids-outlearn-ai-and-we-still-don-8217-t-know-why-1787562000000",
-    "title": "Kids outlearn AI—and we still don&#8217;t know why",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
-    "publishedAt": "2026-08-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-oura-is-reportedly-eyeing-a-september-ipo-that-could-value-i-1787612744000",
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
-    "publishedAt": "2026-08-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-competitive-salary-isn-t-the-red-flag-jobseekers-think-it-is-1787574616000",
-    "title": "‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds",
-    "link": "https://hrexecutive.com/competitive-salary-isnt-the-red-flag-jobseekers-think-it-is-research-finds/",
-    "summary": "A JobLeads survey finds 'competitive salary' can actually mean higher salary in most cases especially in management and engineering work. The post ‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds appeared first on HR Executive .",
-    "publishedAt": "2026-08-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
-    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
-    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
-    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
-    "publishedAt": "2026-08-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-1787634923000",
-    "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
-    "link": "https://www.qbitai.com/2026/08/478912.html",
-    "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构",
-    "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-ai-1787636294000",
-    "title": " AI 原生企业：不是“企业 + AI” ",
-    "link": "https://www.huxiu.com/article/4885767.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs，原文标题：《AI 原生企业：不是“企业 + AI”》 今天和一位做了很多年贸易的老板聊AI。 他不懂代码，也不太关心大模型到底有多少参数、上下文窗口多长、推理能力又提高了几个百分点。他每天真正关心的事情非常具体：订单从哪里来，客户为什么选择自己，渠道还能不能扩大，库存什么时候出去，货款什么时候回来。 我习惯性地从技术人的角度开始解释——提效、自动化、工作流、内容生成、智能客服、销售辅助。讲了很久以后，他突然打断我： 企业不是来省钱的，是来赚钱的。你帮我省一个剪辑师的时间有什么用？还不如帮我多卖一万块钱的货。 话说得很糙。但那一瞬间，我发现我们过去一年讨论AI的很多方式，可能从一开始就站错了位置：我们一直在计算AI能够替代多少工作，而真正经营企业的人，计算的是另一件事——AI到底能不能创造新的收入。 一、我们为什么如此迷恋\"提效\" 过去两年，企业谈AI最常见的词大概就是\"降本增效\"。这个逻辑并不奇怪：任何一项新技术进入企业，最容易被验证的价值通常都是效率。以前一个人一天写两篇文案，现在可以写二十篇；以前剪一条视频需要几个小时，现在几十分钟；以前客服需要几十个人轮班，现在机器人可以先接住大部分问题；以前整理一份行业资料需要一周，现在几个小时就能完成。这些变化当然是真的，而且非常重要。 问题在于",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1787636671000",
-    "title": "对话张朝阳：AI狂奔，为什么要做“反效率”内容",
-    "link": "https://www.tmtpost.com/8115155.html",
-    "summary": "在大模型算法追求极致效率的时代，保留一些“笨拙”的空间。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-threats-from-space-mirrors-and-credit-for-ai-dr-1787314200000",
-    "title": "The Download: threats from space mirrors and credit for AI drugs",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
-    "publishedAt": "2026-08-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo-1787606657000",
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-    "publishedAt": "2026-08-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-regulators-to-write-level-funded-plan-guidelines-1787573722000",
-    "title": "Regulators to write level-funded plan guidelines",
-    "link": "https://hrexecutive.com/regulators-to-write-level-funded-plan-guidelines/",
-    "summary": "The NAIC's ERISA and Alternative Health Coverage Working Group has formed a regulator-only group that intends to start drafting a level-funded plan guidance document soon. The post Regulators to write level-funded plan guidelines appeared first on HR Executive .",
-    "publishedAt": "2026-08-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
-    "title": "Companies that roll back DEI don’t perform better financially, study says",
-    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
-    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
-    "publishedAt": "2026-08-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1787630901000",
-    "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
-    "link": "https://www.qbitai.com/2026/08/478839.html",
-    "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
-    "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787636180000",
-    "title": " 宇树跌到位了吗？ ",
-    "link": "https://www.huxiu.com/article/4885763.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | AI制图 8月19日，&ldquo;人形机器人第一股&rdquo;宇树科技登陆科创板，发行价150.80元，开盘报1100元，暴涨629.44%，市值一度冲到4449亿元。 然后就是自由落体。 首日收845元，市值回落到3418亿元；第二天大跌18.70%；第三天跌2.12%；8月24日第四个交易日，再跌10.31%，收报603.08元，总市值2439亿元。较上市首日的盘中高点，累计回撤已经超过45%，市值蒸发了约2000亿元。 与此同时，不少股民纷纷吐槽宇树估值太高。有股民表示：&ldquo;疯狂IPO就算了，一级市场还要吃干抹净，一点汤都不给二级市场留。&rdquo; 那么，宇树到底值多少钱？跌到哪里才算到位？ 这个问题，我们可以分两个市场来回答&mdash;&mdash;二级市场一把尺，一级市场一把尺。量完你会发现，真正睡不着的，不会是二级市场的股民。 一、4449亿是流动性幻觉，不是估值 上市首日的4449亿，就不是二级市场给宇树的正常定价。 宇树总股本4.04亿股，上市初期真正可流通的无限售股份只有3008.77万股，占总股本的比例仅为7.44%。再加上新股上市前5个交易日不设涨跌幅限制，筹码稀缺叠加情绪亢奋，少量的钱就能把价格推到一个荒诞的位置。 这就像菜市场里只摆出来一筐菜，却按这一筐的成交价给整个冷库",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787636584000",
-    "title": "上海这栋楼，正在批量制造“一人公司”",
-    "link": "https://www.tmtpost.com/8115834.html",
-    "summary": "一个人就是一支队伍。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-mother-tongue-1787302800000",
-    "title": "Mother tongue",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,&#8230;",
-    "publishedAt": "2026-08-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-zillow-and-redfin-settle-ftc-antitrust-case-1787604333000",
-    "title": "Zillow and Redfin settle FTC antitrust case",
-    "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-    "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-    "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -777,6 +775,26 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137107",
+    "title": "Bell Captain",
+    "company": "Four Seasons",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Four Seasons Four Seasons is powered by our people",
+      "We are a collective of individuals who crave to become better, to push ourselves to new heights and to treat each other as we wish to be treated in return",
+      "Our team members around the world create amazing experiences for our guests, residents"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Macau, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
+    "postedAt": "2026-08-24",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137073",
     "title": "Retail Store Associate",
     "company": "Rowan",
@@ -832,12 +850,30 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
+    "id": "job-remoteok-1137116",
+    "title": "Airport Ground Staff Jobs For Freshers",
+    "company": "Fronix Services",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Dear Candidate, We are looking for a Dynamic Candidate with good Communication Skill Roles And Responsibilities Greeting and welcoming passengers, and responding to questions",
+      "Checking in baggage",
+      "Making reservations",
+      "Selling airline tickets"
+    ],
+    "skills": [],
+    "location": "Thiruvananthapuram, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-jobs-for-freshers-fronix-services-1137116",
+    "postedAt": "2026-08-18",
+    "isNew": false
+  },
+  {
     "id": "job-remoteok-1136972",
     "title": "Maintenance Fitter",
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4yMzYuMTY0LjE2NA== when applying to show you read the job post completely (#RNC4yMzYuMTY0LjE2NA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTY1LjI1MS4yNDI= when applying to show you read the job post completely (#RNTIuMTY1LjI1MS4yNDI=)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -914,4 +950,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-25T06:39:48.444Z';
+export const dataFetchedAt = '2026-08-25T12:40:04.741Z';
