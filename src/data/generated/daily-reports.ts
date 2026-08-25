@@ -2,6 +2,138 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-26-auto",
+    "date": "2026-08-26",
+    "session": "auto",
+    "title": "2026-08-26 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-26-auto-1",
+        "emoji": "⚠️",
+        "title": "Art and algorithms at Sotheby’s",
+        "summary": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing&#8230;",
+        "detail": "来源: MIT Technology Review。Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing&#8230;",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/"
+      },
+      {
+        "id": "sig-2026-08-26-auto-2",
+        "emoji": "💡",
+        "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
+        "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+        "detail": "来源: TechCrunch。The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/"
+      },
+      {
+        "id": "sig-2026-08-26-auto-3",
+        "emoji": "🚨",
+        "title": "Two-thirds of workers bypass legal channels to keep business moving",
+        "summary": "New research from Streamline AI finds that slow legal workflows are affecting revenue, deal timelines and business momentum, with 66% of professionals saying they bypass formal legal channels to keep projects moving. The post Two-thirds of workers bypass legal channels to keep business moving appeared first on HR Executive .",
+        "detail": "来源: HR Executive。New research from Streamline AI finds that slow legal workflows are affecting revenue, deal timelines and business momentum, with 66% of professionals saying they bypass formal legal channels to keep projects moving. The post Two-thirds of workers bypass legal channels to keep business moving appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/two-thirds-of-workers-bypass-legal-channels-to-keep-business-moving/"
+      },
+      {
+        "id": "sig-2026-08-26-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：How to Train a Critic Stably and Efficiently...",
+        "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
+        "detail": "作者: Penghui Qi, Xiangxin Zhou, Wee Sun Lee。Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the e",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.23566v1"
+      },
+      {
+        "id": "sig-2026-08-26-auto-5",
+        "emoji": "💼",
+        "title": "Four Seasons 正在招募 Bell Captain",
+        "summary": "岗位类型：业务+AI 复合岗。About Four Seasons Four Seasons is powered by our people",
+        "detail": "技能要求: LLM, RAG。About Four Seasons Four Seasons is powered by our people We are a collective of individuals who crave to become better, to push ourselves to new heights and to treat each other as we wish to be treated in return Our team members around the world create amazing experiences for our guests, residents",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Four Seasons"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Four Seasons",
+        "link": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-26-1",
+        "priority": "medium",
+        "action": "关注「Art and algorithms at Sotheby’s」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-26-2",
+        "priority": "low",
+        "action": "关注「SpaceX will build a second, $100B &#8216」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-26-3",
+        "priority": "high",
+        "action": "关注「Two-thirds of workers bypass legal chann」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-26-4",
+        "priority": "medium",
+        "action": "关注「研究速递：How to Train a Critic Stably and Ef」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-26-5",
+        "priority": "medium",
+        "action": "关注「Four Seasons 正在招募 Bell Captain」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Four Seasons"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-26 生成，聚合了 30 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-08-26 00:00 - 2026-08-26 23:59"
+  },
+  {
     "id": "report-2026-08-25-auto",
     "date": "2026-08-25",
     "session": "auto",

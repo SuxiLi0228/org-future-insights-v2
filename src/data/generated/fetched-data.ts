@@ -2,6 +2,98 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-art-and-algorithms-at-sotheby-s-1787680800000",
+    "title": "Art and algorithms at Sotheby’s",
+    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+    "summary": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-spacex-will-build-a-second-100b-8216-starbase-8217-spaceport-1787682415000",
+    "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
+    "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+    "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+    "publishedAt": "2026-08-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-two-thirds-of-workers-bypass-legal-channels-to-keep-business-1787661016000",
+    "title": "Two-thirds of workers bypass legal channels to keep business moving",
+    "link": "https://hrexecutive.com/two-thirds-of-workers-bypass-legal-channels-to-keep-business-moving/",
+    "summary": "New research from Streamline AI finds that slow legal workflows are affecting revenue, deal timelines and business momentum, with 66% of professionals saying they bypass formal legal channels to keep projects moving. The post Two-thirds of workers bypass legal channels to keep business moving appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-mentorship-looks-like-in-the-disconnected-era-1787672400000",
+    "title": "What mentorship looks like in the disconnected era",
+    "link": "https://www.hrdive.com/news/what-mentorship-looks-like-in-the-disconnected-era/828651/",
+    "summary": "Successful mentorship programs are often guided but not too structured and don&rsquo;t rely on managers being default mentors, experts told HR Dive.",
+    "publishedAt": "2026-08-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-phanthymotus-1787650276000",
+    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+    "link": "https://www.qbitai.com/2026/08/479314.html",
+    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787676245000",
+    "title": " 手艺还在，手工生产已不再是中心：程序员能力的三次上移 ",
+    "link": "https://www.huxiu.com/article/4885979.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 如果把过去三十年的软件开发史压缩成一条清晰的线，它并不只是语言、工具和框架的更新史，更是一部\"程序员能力不断上移\"的历史。每一次工具变得更强，程序员就把一部分原本必须亲手完成的工作交出去，同时被推向一个更靠上的位置。理解这条线的走向，比记住其中任何一个技术名词都重要，因为它决定了一个开发者在下一个十年里究竟靠什么立身。 一、机器的严肃性：从Turbo C到IDE 最早那一代人学编程，往往从Turbo C、记事本、命令行和编译器报错开始。那时所谓\"会编程\"，很大程度上意味着你必须把语言装进脑子里：变量怎么定义，指针怎么走，头文件怎么引，函数参数怎么写，语法错了一个字符，编译器都会毫不留情地把你挡在门外。开发环境几乎不提供任何理解上的帮助，程序员需要直接面对机器的严肃性。这种严肃性并不友好，却带来一个副产品：你被迫知道每一行代码落到机器上会发生什么，因为没有任何中间层替你承担误解的代价。 后来Java出现，VB的图形化编辑器让很多人第一次意识到：原来软件开发也可以更友好。再后来，JBuilder、Eclipse一类IDE普及，补全、跳转、重构、调试这些能力逐步成熟，编程的门槛被明显降低。它们并没有替程序员思考，但开始显著减少机械劳动。这一点值得注意——那一代工具的意义，不是替你写代码，而是让你",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-330-1787657379000",
+    "title": "330天后，安世中国管理团队重磅发布，看他们带来了什么？",
+    "link": "https://www.tmtpost.com/8115056.html",
+    "summary": "安世中国:断供、突围、重构，然后重新出发。",
+    "publishedAt": "2026-08-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-smarter-ai-in-schools-and-a-robot-8220-carnival-1787659800000",
     "title": "The Download: smarter AI in schools, and a robot &#8220;carnival&#8221; in Shanghai",
     "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
@@ -14,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fiat-ventures-combines-venture-and-advisory-divisions-into-n-1787661457000",
-    "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-    "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-    "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+    "id": "news-your-vote-matters-decide-which-audience-choice-sessions-will-1787682170000",
+    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
@@ -39,24 +131,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
-    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
-    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
-    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
-    "publishedAt": "2026-08-24",
+    "id": "news-healthcare-costs-could-rise-by-nearly-10-in-2027-1787670660000",
+    "title": "Healthcare costs could rise by nearly 10% in 2027",
+    "link": "https://www.hrdive.com/news/healthcare-costs-could-rise-by-nearly-10-in-2027/828688/",
+    "summary": "Employers cover more than 80% of the burden, but employees will also be hit by rising costs, an Aon report found.",
+    "publishedAt": "2026-08-25",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-phanthymotus-1787650276000",
-    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-    "link": "https://www.qbitai.com/2026/08/479314.html",
-    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+    "id": "news-8b-image-2-1787640806000",
+    "title": "开源国产8B模型，比肩闭源Image 2了！",
+    "link": "https://www.qbitai.com/2026/08/479192.html",
+    "summary": "SenseNova U1.5 Lite",
     "publishedAt": "2026-08-25",
     "source": "量子位",
     "tags": [
@@ -66,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787660647000",
-    "title": " 古法电商拼多多 ",
-    "link": "https://www.huxiu.com/article/4885918.html?f=rss",
-    "summary": "本文来自微信公众号： 山上 ，作者：山上团队 老实又本分。 作者I何简 编辑I蒋浇 封面I火遮眼 中国互联网大公司们的AI投资竞赛越打越上头，阿里和腾讯都已经将单季资本开支拉高到677亿和528亿的历史最高水平，甚至腾讯的自由现金流都首次季度转负，唯有拼多多依然坚持古法手搓，任何性感的AI叙事都与它无关，任何花哨的闪购外卖也都不碰。 2026年第二季度，拼多多最新的投资动作是分别在雄安和上海买了两栋办公大楼。昨晚的财报电话会上，拼多多集团联席董事长兼联席CEO赵佳臻特意在开场发言中提及雄安的办公大楼，据称全职员工已达4000人。这是他们“锚定智能化发展新机遇”“推动传统制造业走向价值高端”的举措之一。 按照拼多多管理层此前表述，今年是他们“新十年高质量发展”的开局之年，他们要以此为契机持续聚焦供应链投入，“未来三年有机会再造一个拼多多。” 高质量发展是个大课题，因此能容纳一切战术动作。买大楼是高质量发展，做自营品牌也是为了高质量发展，合规建设和商家扶持更是高质量发展的必经之路。反正不管拼多多做了什么，管理层最终都能落脚到高质量发展中，肯定和竞争乃至处罚都没什么关联。 这么来看，拼多多刚刚发布的2026年第二季度财报也是高质量发展的一环。当季拼多多营收1124亿元，同比增长8%，略低于市场预期。当季经调整净利润虽同比下降13%至285亿元，却仍高于市场预期。昨晚财报发布后，拼多多盘中",
+    "id": "news-ai-1787674934000",
+    "title": " 当AI开始抽佣：下一代入口的商业模式困局 ",
+    "link": "https://www.huxiu.com/article/4885978.html?f=rss",
+    "summary": "本文来自微信公众号： 沈太阳商读笔记 ，作者：沈太阳 8月10日，两件事在同一天发生。阿里旗下千问App上线付费会员，最低19元/月；字节旗下豆包宣布，通过豆包入口跳转抖音来客成交的酒店订单，综合佣金费率从8%上调至约12%。 一个向C端收订阅费，一个向B端抽交易佣金。方向不同，但指向同一个事实：中国AI助手的免费试用期，结束了。 这件事值得聊的不是\"贵不贵\"。真正值得追问的是：为什么是现在？为什么是抽佣？以及——当一个AI同时掌握你的偏好、推荐权和交易通道，它给你的那个\"答案\"，还是同一个答案吗？ △图片来源：微信公号「沈太阳商读笔记」 01 为什么会员费救不了AI公司？ 先说一个很多人没注意到的数字。 QuestMobile数据显示，豆包专业版上线次日DAU冲到1.78亿；晚点LatePost则报道，豆包日活已超2亿，但日收入不足百万。庞大的用户基数与微薄的付费收入之间，落差巨大。 这不是豆包一家的问题。ChatGPT模型能力和用户心智全球最强，绝大多数用户仍停留在免费层，OpenAI认清现实后转向猛攻B端。国内市场更明显——千问最便宜的会员19元/月，豆包专业版688元/年，价格不算贵，但普通用户就是不愿意掏这个钱。 为什么？因为C端订阅制有一个先天缺陷：它卖的是\"能力\"，而大多数人对AI能力的需求是间歇性的。你可能今天让AI写个方案、明天做个PPT，但后天可能只是问个天气。",
     "publishedAt": "2026-08-25",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-330-1787657379000",
-    "title": "330天后，安世中国管理团队重磅发布，看他们带来了什么？",
-    "link": "https://www.tmtpost.com/8115056.html",
-    "summary": "安世中国:断供、突围、重构，然后重新出发。",
+    "id": "news--1787657362000",
+    "title": "二手半导体设备成抢手货了",
+    "link": "https://www.tmtpost.com/8115046.html",
+    "summary": "当前庞大的产能需求不能再挑肥拣瘦了，物尽其用才是硬道理。",
     "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
@@ -106,10 +197,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fitbit-founders-launch-luffu-link-an-lte-health-and-safety-b-1787659200000",
-    "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-    "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-    "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+    "id": "news-tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcr-1787680890000",
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
@@ -132,104 +223,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-feds-to-propose-h-1b-fee-that-would-stack-with-controversial-1787604120000",
-    "title": "Feds to propose H-1B fee that would stack with controversial $100K payment",
-    "link": "https://www.hrdive.com/news/feds-propose-new-h-1b-fee-cap-subject-visas/828647/",
-    "summary": "Employers should expect litigation against the new fee once it is finalized, a source told HR Dive, similar to what occurred after last year&rsquo;s fee was announced by President Donald Trump.",
-    "publishedAt": "2026-08-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-8b-image-2-1787640806000",
-    "title": "开源国产8B模型，比肩闭源Image 2了！",
-    "link": "https://www.qbitai.com/2026/08/479192.html",
-    "summary": "SenseNova U1.5 Lite",
+    "id": "news-looks-matter-more-than-resume-in-first-impressions-study-say-1787670660000",
+    "title": "Looks matter more than resume in first impressions, study says",
+    "link": "https://www.hrdive.com/news/good-first-impression-at-work-advice-2026/828703/",
+    "summary": "&ldquo;People want to think that they are making really high-level analytical decisions based on effectively evaluating evidence,&rdquo; but that&rsquo;s not what is happening, one professor said.",
     "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787660604000",
-    "title": " 泡泡玛特被段永平青睐，但潮玩工作室却正在大批倒闭 ",
-    "link": "https://www.huxiu.com/article/4885919.html?f=rss",
-    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 “现在，设计师们都在等裁员通知，公司已经明确说了撑不到年底了”薇薇向知危表示。 中国潮玩之都东莞石排镇里，设计师薇薇（化名）所在公司的展厅，连灯都没有开。 而在石排镇的一个从业者饭局的饭桌上，潮玩从业者们纷纷向知危感叹着：“今年不好干了。” “前两年潮玩展还会出一些盲盒大娃限量款，好多人都提前几个小时去排队抢，被黄牛炒的特别火热。但这两年，就连展会都没那么热闹了。”一位从业者唏嘘道。 与此同时，市场上不断传来“段永平投资泡泡玛特”、“段永平公开表示10年内大概率不会卖泡泡玛特”的新闻，行业似乎进入了某种冰火两重天的状态，一场残酷的淘汰赛正要上演。 从工厂加班加点做订单，到各种二手潮玩被炒上天，再到现在的行业工作室开始批量倒闭，潮玩行业，到底怎么了？ “前两年公司还蒸蒸日上的时候，休息室里甚至专门配备了台球桌，老板那时候也愿意和大家一起打打球、唠唠嗑。”薇薇向知危讲述着曾经的辉煌。 2025年，LABUBU一个IP卖出了141.6亿元，毛利率高达72.1%。巅峰时候，初代收藏级Labubu玩偶卖出108万元，普通盲盒的隐藏款溢价都超过了20倍，捅破了潮玩行业的天花板。 整个行业都热了起来，设计、订货、开直播间......每个人都想分一杯羹。 然而，二手交易市场的价格暴跌，给行业撕出了一道裂痕。 2025年底，Labubu二手",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787657362000",
-    "title": "二手半导体设备成抢手货了",
-    "link": "https://www.tmtpost.com/8115046.html",
-    "summary": "当前庞大的产能需求不能再挑肥拣瘦了，物尽其用才是硬道理。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i--1787648400000",
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
-    "publishedAt": "2026-08-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-8216-the-world-seems-to-be-ready-8217-an-interview-with-open-1787659200000",
-    "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
-    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-    "publishedAt": "2026-08-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027-1787658318000",
-    "title": "U.S. employer healthcare costs projected to climb 9.5% in 2027",
-    "link": "https://hrexecutive.com/u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027/",
-    "summary": "This projection marks the fourth consecutive year of elevated health care cost trends approaching double digits and extends one of the most sustained periods of health care inflation employers have faced in decades. The post U.S. employer healthcare costs projected to climb 9.5% in 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
-    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
-    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
-    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
-    "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -252,10 +250,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-05-1787660140000",
-    "title": " 战魔田默｜八问平台05：北大教授张丹丹称“灵活本身就是一种福利”，为什么那么多人不买账？ ",
-    "link": "https://www.huxiu.com/article/4885915.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜八问平台05：北大教授张丹丹称“灵活本身就是一种福利”，为什么那么多人不买账？》 一句“灵活本身就是一种福利”，把北大教授张丹丹推到了舆论中央。 在一档财经访谈节目中，谈到灵活就业群体的社会保障问题时，北京大学国家发展研究院副院长张丹丹说，从劳动经济学角度看，“灵活本身就是一种福利”。 这句话很快引发争议。 有人认为，一个没有稳定劳动合同、社会保障相对不足，甚至因为找不到更稳定工作才进入灵活就业的人，很难把这种状态理解为“福利”。 也有人认为，张丹丹讨论的只是时间自主本身具有价值。把一句话从完整语境里截出来，很容易把一个经济学判断变成一场情绪审判。 从公开的访谈上下文看，张丹丹的表达确实比一句热搜标题复杂。她讨论的是一种交换。稳定就业通常拥有相对完整的保障，也需要让渡一部分时间自由；灵活就业拥有更多时间自主，保障则可能相对不足。 问题恰恰出在这里。 如果时间自主确实具有价值，灵活也确实能够带来自由，为什么这样一句话进入现实世界以后，会让那么多人感到刺耳？ 01 张丹丹说错了吗？ 如果把张丹丹的话简单理解成“没有五险一金也是一种福利”，并不公平。 现实中确实有人主动离开固定组织，选择做独立顾问、自由设计师、内容创作者，或者同时服务多个客户。他们不愿接受朝九晚五和严格的组织约束，宁愿用一部分收入稳定性换取更多时间自",
+    "id": "news-8-1787673912000",
+    "title": " 斗胆聊聊阿里老板们的8亿 ",
+    "link": "https://www.huxiu.com/article/4885977.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月25日晚，马云增持阿里的消息，估计很多人都刷到了。 说他连日买入，超过6亿港元；加上主席蔡崇信、CEO吴泳铭这两天动作，合计掏了8亿多。 时点很扎眼，就在这之前，阿里刚向市场要完800亿港元，股价被砸出一个坑，一天蒸发2000亿市值，老板们就挑这个坑，买在了配售价附近。 8月24日，是阿里这两年股价最难看的日子之一。 四天前财报刚出来，净利润同比跌了七成多，市场本来就没缓过来。 配售定价112.7港元，公告一落地，港股盘中一度跌超10%，收在112.5港元，单日市值蒸发约2000亿，成交405亿港元，全市场第一。 当天的目光，都在这只票上。 当天下午，港交所的申报表上多了两行，蔡崇信买入72万股，均价约112港元，耗资约8000万；吴泳铭买入35万股，均价约111.6港元，耗资约4000万。 两个人合计107万股，1.2亿港元；从开盘到申报，中间隔了几个小时，这半天里，你猜怎么着？股价还没爬出来。 股价最难看的一天，公司老板，自己掏钱买了。 吴泳铭这笔买得有点意思，他的成交价区间，是110.7到112.4港元；配售价是多少？112.7港元。机构拿的配售，是112.7的批发价。 老板在二级市场自己买，价格比批发价还低几毛，零售价买到批发价以下，等于自己给这次融资定了个价。 第二天，蔡崇信又买了一次，72万股，均价113.47港元，约8",
     "publishedAt": "2026-08-25",
     "source": "虎嗅",
     "tags": [
@@ -279,22 +277,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-encourage-smarter-ai-use-in-the-classroom-1787581219000",
-    "title": "How to encourage smarter AI use in the classroom",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-    "publishedAt": "2026-08-24",
+    "id": "news-i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i--1787648400000",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "publishedAt": "2026-08-25",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-india-8217-s-airbound-bags-37m-to-take-on-trucks-with-rocket-1787628600000",
-    "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-    "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+    "id": "news-claude-cowork-finally-remembers-what-you-told-the-app-in-cha-1787680233000",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
@@ -304,24 +303,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flight-risk-more-workers-are-paying-to-upskill-for-their-nex-1787657452000",
-    "title": "Flight risk: More workers are paying to upskill for their next job",
-    "link": "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/",
-    "summary": "Orgs are upping their AI spend while slashing L&#038;D budgets, leaving many employees to pay for their own AI upskilling, which many are doing to support a move to a new organization. The post Flight risk: More workers are paying to upskill for their next job appeared first on HR Executive .",
+    "id": "news-u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027-1787658318000",
+    "title": "U.S. employer healthcare costs projected to climb 9.5% in 2027",
+    "link": "https://hrexecutive.com/u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027/",
+    "summary": "This projection marks the fourth consecutive year of elevated health care cost trends approaching double digits and extends one of the most sustained periods of health care inflation employers have faced in decades. The post U.S. employer healthcare costs projected to climb 9.5% in 2027 appeared first on HR Executive .",
     "publishedAt": "2026-08-25",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
-    "title": "Companies that roll back DEI don’t perform better financially, study says",
-    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
-    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
+    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
+    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
+    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
+    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
@@ -345,19 +343,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-81-2026-1787660086000",
-    "title": " 81%在欧中企感到不安：欧盟2026“合规”新壁垒 ",
-    "link": "https://www.huxiu.com/article/4885917.html?f=rss",
-    "summary": "本文来自微信公众号： Internet Law Review ，作者：互联网法律评论 2025年底，欧盟及其成员国密集出台了一系列有强烈保护主义色彩的政策文件和措施，这些举措将在2026年以“欧洲优先”和“数字主权”的名义被反复讨论并执行。中国欧盟商会发布的2024/2025年度报告显示，81%的在欧中国企业感受到“不确定性加剧”，中国企业正面临着更加动荡的环境。 这些政策举措并非无迹可寻。从国际关系上，欧盟越来越感受到被中美关系强烈影响、却无法参与对话的危机感；从经济方面看，中国对欧盟的贸易顺差正持续扩大。欧盟委员会主席冯德莱恩表示，欧盟与中国的关系“已达到转折点”。 从这些已经发布以及计划中的政策举措来看，2026年欧盟的“经济安全”、“加强供应链韧性和消除依赖”，绝非老生常谈，外国投资审查、出口管制、竞争法等以往工具框架将会以新的综合性协调方式得以实现。 一、机制整合：构建跨成员国的“经济安全”统一战线 2025年12月3日，欧盟委员会发布了经济安全战略的全面更新版。从2023年开始，欧盟每年都会发布新的经济安全战略。但早期的经济安全更多被视为临时性的危机应对措施。而从2025年的版本能明显看出，欧盟正在试图建立一个更加结构化和前瞻性的框架，经济安全将会影响投资、贸易、融资和技术政策等日常决策。 欧盟委员会要解决“经济安全”的外部性问题，首先要解决其内部的权限和能力。根据欧洲",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ai-1500-1787657225000",
     "title": "两个“AI角斗场”加起来卖出1500亿天价，巨头图什么？",
     "link": "https://www.tmtpost.com/8115802.html",
@@ -372,10 +357,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-kids-outlearning-ai-and-space-travel-agents-1787573400000",
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;",
+    "id": "news-how-to-encourage-smarter-ai-use-in-the-classroom-1787581219000",
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
     "publishedAt": "2026-08-24",
     "source": "MIT Technology Review",
     "tags": [
@@ -384,16 +369,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-situational-awareness-star-ai-hedge-fund-that-nearly-implode-1787617392000",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "id": "news-waymo-robotaxis-are-headed-to-munich-1787679123000",
+    "title": "Waymo robotaxis are headed to Munich",
+    "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+    "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-flight-risk-more-workers-are-paying-to-upskill-for-their-nex-1787657452000",
+    "title": "Flight risk: More workers are paying to upskill for their next job",
+    "link": "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/",
+    "summary": "Orgs are upping their AI spend while slashing L&#038;D budgets, leaving many employees to pay for their own AI upskilling, which many are doing to support a move to a new organization. The post Flight risk: More workers are paying to upskill for their next job appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   }
 ];
@@ -873,7 +872,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNTIuMTY1LjI1MS4yNDI= when applying to show you read the job post completely (#RNTIuMTY1LjI1MS4yNDI=)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNDguMjExLjIxMC4xMTM= when applying to show you read the job post completely (#RNDguMjExLjIxMC4xMTM=)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -950,4 +949,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-25T12:40:04.741Z';
+export const dataFetchedAt = '2026-08-25T18:34:34.982Z';
