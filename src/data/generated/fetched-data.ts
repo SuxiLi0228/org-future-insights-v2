@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instinct-s-powerful-ai-assistant-is-raising-privacy-and-secu-1787594635000",
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-    "publishedAt": "2026-08-24",
+    "id": "news-situational-awareness-star-ai-hedge-fund-that-nearly-implode-1787617392000",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,22 +27,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-top-hr-products-recap-what-this-year-s-judging-revealed-1787583700000",
-    "title": "2026 Top HR Products recap: What this year’s judging revealed about where the market is going",
-    "link": "https://hrexecutive.com/2026-top-hr-products-recap-what-years-judging-revealed-about-where-market-going/",
-    "summary": "Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
+    "id": "news-employee-retention-strategies-how-leaders-create-workplaces--1787609617000",
+    "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
+    "link": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
+    "summary": "Wednesday, September 30, 2026 at 3:00 pm ET Join bestselling author and workplace connection expert Erica Dhawan for an insightful conversation on what truly drives retention and how to improve employee retention in today’s evolving workplace. Drawing on extensive research, real-world case studies and her groundbreaking “four laws of digital body language,” Dhawan challenges conventional assumptions about employee engagement and explores the everyday leadership behaviors that create stronger relationships, higher trust and lasting loyalty. The post Employee Retention Strategies: How Leaders Cr",
     "publishedAt": "2026-08-24",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "organization",
+      "strategy"
     ]
   },
   {
-    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
-    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
-    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
-    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
+    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
+    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
+    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
+    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
@@ -66,11 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-800-1787573923000",
-    "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
-    "link": "https://www.tmtpost.com/8113703.html",
-    "summary": "AI是印钞机，怎么最后印的是新股？",
-    "publishedAt": "2026-08-24",
+    "id": "news-1000-1787618834000",
+    "title": " 不想让中介赚差价，找网友买房的年轻人“每小时省1000块” ",
+    "link": "https://www.huxiu.com/article/4885685.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，作者：阿瑞，编辑：DR 现在社交平台上，越来越多的年轻人开始绕开中介自己买卖房子。 省钱是肯定的，省心却未必。绕开中介，意味着凡事都得亲自上。假房源得自己辨，手续得请假自己跑，银行评估价低了导致首付多掏几万，也得自己认。 中介行业在肉眼可见地萎缩，但自主交易也谈不上躺赢。省钱还是操心，至少目前没有标准答案。只是厌倦了拉扯的新买家们，越来越跃跃欲试。 “听说在小红书卖房很快，房主本人来试试看。” 如果你刷到过这样的文案，就要当心了，因为接下来，算法可能会为你推荐更多类似的帖子。你将会看到一个又一个令人心动的小家，照片往往是业主亲自拍摄的，文案字里行间洋溢着对房子的感情，或许价格还挺“香”。 但很快，你会像某些网友一样，发现自己缺的并不是欣赏房子的能力。 好看的房子各不相同，而我和网友的清贫如出一辙。（图/小红书截图） 今年年初，就有网友发帖表示疑惑：“怎么现在小红书上出现好多业主直卖的房子？你们敢买吗？” 评论区不少人现身说法，表示中介费太贵，自己买卖可以省不少钱，且并没有想象中那么不靠谱。有人指出，中介卖房总是劝业主降价，而业主自售可以卖出更理想的价格。但反过来，在潜在的买家看来，选择自卖的业主期待太高，挂牌价往往高于市场价。 今年7月15日国家统计局在相关新闻发布会上公布的数据显示，上半年，房地产市场出现了一些积极变化。3月以来，一线城市新建商品住",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-16-1787618270000",
+    "title": "顶固集创净利暴增16倍：主业亏超两千万，跨界并购同日折戟 | 看财报",
+    "link": "https://www.tmtpost.com/8114702.html",
+    "summary": "半年报“纸面富贵”难掩家居主业颓势，转型第二曲线再遇挫。",
+    "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -92,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-valor-point72-back-general-intuition-at-6b-valuation-as-ai-s-1787585058000",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "id": "news-oura-is-reportedly-eyeing-a-september-ipo-that-could-value-i-1787612744000",
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
     "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
@@ -105,23 +120,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-competitive-salary-isn-t-the-red-flag-jobseekers-think-it-is-1787574616000",
-    "title": "‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds",
-    "link": "https://hrexecutive.com/competitive-salary-isnt-the-red-flag-jobseekers-think-it-is-research-finds/",
-    "summary": "A JobLeads survey finds 'competitive salary' can actually mean higher salary in most cases especially in management and engineering work. The post ‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds appeared first on HR Executive .",
+    "id": "news-2026-top-hr-products-recap-what-this-year-s-judging-revealed-1787583700000",
+    "title": "2026 Top HR Products recap: What this year’s judging revealed about where the market is going",
+    "link": "https://hrexecutive.com/2026-top-hr-products-recap-what-years-judging-revealed-about-where-market-going/",
+    "summary": "Madeline Laurano, a judge for Top HR Products, says some of the strongest submissions were solving problems many HR leaders haven't even articulated yet. The post 2026 Top HR Products recap: What this year’s judging revealed about where the market is going appeared first on HR Executive .",
     "publishedAt": "2026-08-24",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
-    "title": "Companies that roll back DEI don’t perform better financially, study says",
-    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
-    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
+    "id": "news-feds-to-propose-h-1b-fee-that-would-stack-with-controversial-1787604120000",
+    "title": "Feds to propose H-1B fee that would stack with controversial $100K payment",
+    "link": "https://www.hrdive.com/news/feds-propose-new-h-1b-fee-cap-subject-visas/828647/",
+    "summary": "Employers should expect litigation against the new fee once it is finalized, a source told HR Dive, similar to what occurred after last year&rsquo;s fee was announced by President Donald Trump.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
@@ -145,11 +159,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vision-1787573867000",
-    "title": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
-    "link": "https://www.tmtpost.com/8114555.html",
-    "summary": "多模态这事上，梁文锋还是梁文锋，但他学会了放低姿态。",
-    "publishedAt": "2026-08-24",
+    "id": "news--1787618589000",
+    "title": " 扫描大脑能辨“善恶”？一个未确证假说，却在参与死刑审判 ",
+    "link": "https://www.huxiu.com/article/4885687.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：木木 2009年，神经科学家基尔带着一份脑扫描报告走进芝加哥法庭。一名认罪的杀人犯正在等候量刑，陪审团要在死刑和终身监禁之间做选择，基尔的任务是说服他们选后者。他的理由是：这个人的大脑天生缺少一种“道德刹车”，惩罚一个“刹车坏了”的人，说不过去。陪审团听得很认真，合议10小时，但最后还是判了死刑。15年后，基尔的长期合作者翻开了整个领域20年的数据：1573项检验，85.4%没有发现那个“刹车”和犯罪之间的稳定关联。但在这份验收报告出来之前，类似的脑科学证据已经被用于超过2800起美国刑事案件。 本文收录于合集科学与社会 2009年11月，芝加哥，一桩26年前的旧案迎来了最终裁决时刻。 布莱恩·杜根（Brian Dugan）已经认罪：1983年，他强奸并杀害了10岁的珍宁·尼卡里科（Jeanine Nicarico）。在美国的死刑案中，认罪或定罪之后还有一场单独的量刑听证，由陪审团决定被告是判死刑，还是终身监禁。杜根面对的就是这一步。 辩护律师请来了肯特·基尔（Kent Kiehl），新墨西哥大学的神经科学家，目的只有一个：说服陪审团饶杜根一命。 基尔先给杜根做了一套心理评估。这套测试叫Hare精神变态核查表，正式名称为黑尔心理变态核查表（the Hare Psychopathy Checklist-Revised,PCL-R），也可称为“黑尔量",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-25-1787616350000",
+    "title": "Edge AI Daily 早报（8月25日）",
+    "link": "https://www.tmtpost.com/8115451.html",
+    "summary": "微软Skala 1.1改写计算化学底层规则；Coherent用SiC衬底提升AI散热25%。AI伦理调查显示ChatGPT等模型高频链接反堕胎组织。英伟达涨价15%利好内存商，SK海力士利润率超英伟达。韩国修法解禁AI数据使用。OpenAI警告AI已能策划网络攻击，基于真实事件呼吁立法。英伟达数十亿美元投资Perplexity AI，估值300亿美元。",
+    "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -171,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-is-building-ai-agents-for-everything-will-everyone-us-1787583600000",
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "id": "news-trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo-1787606657000",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
     "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
@@ -184,29 +211,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-regulators-to-write-level-funded-plan-guidelines-1787573722000",
-    "title": "Regulators to write level-funded plan guidelines",
-    "link": "https://hrexecutive.com/regulators-to-write-level-funded-plan-guidelines/",
-    "summary": "The NAIC's ERISA and Alternative Health Coverage Working Group has formed a regulator-only group that intends to start drafting a level-funded plan guidance document soon. The post Regulators to write level-funded plan guidelines appeared first on HR Executive .",
+    "id": "news-competitive-salary-isn-t-the-red-flag-jobseekers-think-it-is-1787574616000",
+    "title": "‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds",
+    "link": "https://hrexecutive.com/competitive-salary-isnt-the-red-flag-jobseekers-think-it-is-research-finds/",
+    "summary": "A JobLeads survey finds 'competitive salary' can actually mean higher salary in most cases especially in management and engineering work. The post ‘Competitive salary’ isn’t the red flag jobseekers think it is, research finds appeared first on HR Executive .",
     "publishedAt": "2026-08-24",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "strategy"
     ]
   },
   {
-    "id": "news-week-in-review-bank-of-america-bans-consecutive-remote-days-1787585160000",
-    "title": "Week in review: Bank of America bans consecutive remote days",
-    "link": "https://www.hrdive.com/news/week-in-review-bank-of-america-bans-consecutive-remote-days/828589/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including HR Dive&rsquo;s summer reading list for 2026.",
+    "id": "news-efaa-covers-claims-that-emerge-during-an-arbitration-proceed-1787590440000",
+    "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
+    "link": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
+    "summary": "The parties in the case conducted arbitration proceedings for a full year &mdash; but that fact alone can&rsquo;t prevent plaintiffs from seeking arbitration exemption, the court held.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -223,10 +251,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787573862000",
-    "title": "越失败越要上，这项运动为什么反而让人留下来",
-    "link": "https://www.tmtpost.com/8114522.html",
-    "summary": "继拼豆之后，又一项能产生“心流”的游戏。",
+    "id": "news--1787618180000",
+    "title": " 湖南扶老人被索赔：法律不能和稀泥，但和稀泥已是生活常态 ",
+    "link": "https://www.huxiu.com/article/4885684.html?f=rss",
+    "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 昨天，湖南衡阳祁东县的“店主帮扶晕倒老人反遭索赔”事件上了热搜。老人因身体不适进入棋牌馆休息，随后突然晕倒，店主夫妇上前搀扶并拨打120，但老人最终因自身基础疾病抢救无效离世。老人家属起初向店主索赔10万元，并扬言若不赔偿就将遗体停放在店门口。尽管辖区派出所和司法所明确判定店家‌无过错‌，但在家属的强硬态度下，双方经两次协商，最终店主赔付1.9万元，备注为“人道主义补偿款”。 正如有评论所言：“这笔1.9万元的费用，在法律上找不到恰当的名目。它不是赔偿，因为没有过错；也不是补偿，因为没有责任；更谈不上赠与，因为支付并非自愿，而是‘耗不起’。它更像是赎金。” 事件在网络发酵后，祁东县司法局介入调查，当地社区提出愿意对该笔款项进行补贴，店主儿子则表示事件“到此为止”，并删除了此前发布的相关视频。 这无疑是一次行政层面的和稀泥事件。最高法曾强调要坚决防止“谁能闹谁有理”“谁横谁有理”等做法，但现实是“谁闹谁有理”恰恰成了基层调解的潜规则。老人家属讹人，当地相关部门觉得难管，就开始和稀泥。熟悉中国社会状态的人都知道，“调解”多半就是抹杀是非多次的和稀泥。难管确实是一定层面的客观事实，不少执法人员都说最怕无赖，特别是这类事件，尸体往那一摆，执法人员也不敢乱动，就只能看着讹人一方耍无赖，被讹的只能息事宁人。 但“难管”与否，实际上往往",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tesla-adds-a-chinese-large-model-to-its-china-cars-for-the-f-1787613843000",
+    "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+    "link": "https://www.tmtpost.com/8115448.html",
+    "summary": "The company has begun rolling out ByteDance’s Doubao model inside its China vehicle software, a rare departure from its preference for in-house systems. The move addresses cabin experience and local requirements while core driving technology remains under Tesla’s own control.",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
@@ -249,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-brake-problems-in-gm-evs-draw-greater-federal-scrutiny-1787581127000",
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+    "id": "news-zillow-and-redfin-settle-ftc-antitrust-case-1787604333000",
+    "title": "Zillow and Redfin settle FTC antitrust case",
+    "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+    "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
     "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
@@ -262,10 +303,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-who-8217-s-accountable-when-ai-blurs-hr-and-it-1787572852000",
-    "title": "Who&#8217;s accountable when AI blurs HR and IT?",
-    "link": "https://hrexecutive.com/whos-accountable-when-ai-blurs-hr-and-it/",
-    "summary": "As AI reshapes work, HR and IT face new accountability questions. Here's what Gartner recommends CHROs and CIOs do now. The post Who&#8217;s accountable when AI blurs HR and IT? appeared first on HR Executive .",
+    "id": "news-regulators-to-write-level-funded-plan-guidelines-1787573722000",
+    "title": "Regulators to write level-funded plan guidelines",
+    "link": "https://hrexecutive.com/regulators-to-write-level-funded-plan-guidelines/",
+    "summary": "The NAIC's ERISA and Alternative Health Coverage Working Group has formed a regulator-only group that intends to start drafting a level-funded plan guidance document soon. The post Regulators to write level-funded plan guidelines appeared first on HR Executive .",
     "publishedAt": "2026-08-24",
     "source": "HR Executive",
     "tags": [
@@ -275,16 +316,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-beyond-flexibility-why-partnership-is-becoming-the-new-stand-1787562000000",
-    "title": "Beyond flexibility: Why partnership is becoming the new standard in HR services",
-    "link": "https://www.hrdive.com/spons/beyond-flexibility-why-partnership-is-becoming-the-new-standard-in-hr-serv/828098/",
-    "summary": "Today&#39;s employers expect more from their HR partner. See why trust, accountability and co-employment are redefining the HR services landscape.",
+    "id": "news-companies-that-roll-back-dei-don-t-perform-better-financiall-1787585160000",
+    "title": "Companies that roll back DEI don’t perform better financially, study says",
+    "link": "https://www.hrdive.com/news/companies-dei-roll-back-dei-performance-uc-berkeley/828590/",
+    "summary": "&ldquo;Large corporations appear to have folded under pressure for no financial gain,&rdquo; a public policy scholar wrote.",
     "publishedAt": "2026-08-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -301,10 +343,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787573858000",
-    "title": "网易云音乐不想被汽水抢走最后一个音符",
-    "link": "https://www.tmtpost.com/8113993.html",
-    "summary": "“死不了”和“活得好”之间，中间隔着一道选择题。",
+    "id": "news-openai-deepseek-harness-1787618143000",
+    "title": " OpenAI 与 DeepSeek 同时开放 Harness，开源正在变成一场生态战争 ",
+    "link": "https://www.huxiu.com/article/4885682.html?f=rss",
+    "summary": "本文来自微信公众号： ZAI科技 ，作者：Zeztz，原文标题：《OpenAI 与 DeepSeek 同时开放 Harness，开源正在变成一场生态战争》 ZAI观察 本文看点：当开源威胁利益，它叫“Full AI Communism”；当开源能够扩大生意，它就叫生态。开源没有拆掉围墙，只是把围墙往更值钱的地方挪了挪，仅此而已。 Codex开放成型能力，DSH开放组装规则，两套Harness背后是两种生意。 02 开源取决于靠什么赚钱 模型继续保持稀缺，Harness则负责把收费能力送进更多产品。 03 生态战争重新划线 OpenAI希望生态围绕模型生长，DSH则想让任何模型都无法锁住生态。 AI行业的开源战火，正在从模型烧向Agent底座。 区区一周时间，DeepSeek与OpenAI争先恐后把Agent底座推向开源：前者开源DSH，后者开源Codex Harness。昨天还被视为商业护城河的封闭体系，转眼间仿佛成了两家公司都急着甩掉的历史包袱。 看上去，模型开源之后，Agent也要开源；中国公司开，美国公司也跟着开。但问题在于，大约一个月前，OpenAI战略未来负责人、前白宫AI政策顾问Dean Ball还在对中国企业开放模型的举措大放厥词。 身为OpenAI高管的Ball宣称，开放模型会削弱前沿AI的商业回报，打击企业继续投入数百亿美元的意愿，因此天然是一种“减速主义力量”。",
+    "publishedAt": "2026-08-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-340-trae-1787613600000",
+    "title": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”",
+    "link": "https://www.tmtpost.com/8115315.html",
+    "summary": "王沪宁会见第三届中美1.5轨对话美方代表；特朗普称加拿大汽车钢铁关税提至50%；全球资金流入黄金ETF，一个月大增380亿元；交易所收紧IPO？求证：要求券商从源头提升申报质量；配售800亿后，蔡崇信、吴泳铭再出手增持1.2亿港元阿里股票；小米公布玄戒O3芯片架构；欧盟六国要求对石油公司征税",
     "publishedAt": "2026-08-24",
     "source": "钛媒体",
     "tags": [
@@ -327,69 +383,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hugging-face-reportedly-in-talks-to-be-acquired-for-13b-1787579246000",
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "id": "news-showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-1787602594000",
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there&#8217;s still space",
+    "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
     "publishedAt": "2026-08-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-h-1b-grace-period-may-disappear-is-hr-ready-1787571953000",
-    "title": "The H-1B grace period may disappear. Is HR ready?",
-    "link": "https://hrexecutive.com/the-h-1b-grace-period-may-disappear-is-hr-ready/",
-    "summary": "Following a Trump administration proposal to end a 60-day grace period for H-1B visas, employers might see a once-forgiving system less so. The post The H-1B grace period may disappear. Is HR ready? appeared first on HR Executive .",
-    "publishedAt": "2026-08-24",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-amazon-worker-fired-shortly-after-disclosing-pregnancy-has-d-1787344980000",
-    "title": "Amazon worker fired shortly after disclosing pregnancy has discrimination claim, court rules",
-    "link": "https://www.hrdive.com/news/amazon-worker-fired-shortly-after-disclosing-pregnancy-has-bias-claim/828533/",
-    "summary": "The alleged close connection between her disclosure, restrictions on her overtime and her termination indicated adverse action based on the pregnancy, the court said.",
-    "publishedAt": "2026-08-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-8-25-124-afac2026-1787551393000",
-    "title": "8月25日直播预告 &#124; AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-    "link": "https://www.qbitai.com/2026/08/478447.html",
-    "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
-    "publishedAt": "2026-08-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-game-jam-1787573850000",
-    "title": "两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》",
-    "link": "https://www.tmtpost.com/8113947.html",
-    "summary": "上阵兄弟兵。",
-    "publishedAt": "2026-08-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   }
@@ -800,7 +802,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
     "postedAt": "2026-08-18",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136972",
@@ -808,16 +810,16 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNC4yMzYuMTY3LjEx when applying to show you read the job post completely (#RNC4yMzYuMTY3LjEx)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTcyLjE3NC4xNjUuMjI1 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuMjI1)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants that re"
+      "Companies can search these words to find applicants"
     ],
     "skills": [],
     "location": "Moruya, ",
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
     "postedAt": "2026-08-18",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137054",
@@ -834,7 +836,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
     "postedAt": "2026-08-18",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136991",
@@ -906,4 +908,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-24T18:34:26.907Z';
+export const dataFetchedAt = '2026-08-25T01:02:21.573Z';
