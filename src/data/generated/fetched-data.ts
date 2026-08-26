@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-art-and-algorithms-at-sotheby-s-1787680800000",
-    "title": "Art and algorithms at Sotheby’s",
-    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
-    "summary": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing&#8230;",
+    "id": "news-addressing-a-sticking-point-in-sustainable-adhesives-1787691600000",
+    "title": "Addressing a sticking point in sustainable adhesives",
+    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;",
     "publishedAt": "2026-08-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-will-build-a-second-100b-8216-starbase-8217-spaceport-1787682415000",
-    "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
-    "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-    "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
-    "publishedAt": "2026-08-25",
+    "id": "news-robotics-startup-generalist-reaches-3b-valuation-sources-say-1787704859000",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -31,6 +31,190 @@ export const generatedNews: NewsItem[] = [
     "title": "Two-thirds of workers bypass legal channels to keep business moving",
     "link": "https://hrexecutive.com/two-thirds-of-workers-bypass-legal-channels-to-keep-business-moving/",
     "summary": "New research from Streamline AI finds that slow legal workflows are affecting revenue, deal timelines and business momentum, with 66% of professionals saying they bypass formal legal channels to keep projects moving. The post Two-thirds of workers bypass legal channels to keep business moving appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4th-circuit-dismisses-some-charges-against-wells-fargo-after-1787686080000",
+    "title": "4th Circuit dismisses some charges against Wells Fargo after jury’s $22.1M fee",
+    "link": "https://www.hrdive.com/news/4th-circuit-wells-fargo-jury-award-disability-discrimination/828743/",
+    "summary": "Although the appeals court dismissed three or four charges following a worker&rsquo;s disability trial, in affirming the fourth charge, it allowed him to retain most of his award.",
+    "publishedAt": "2026-08-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-phanthymotus-1787650276000",
+    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+    "link": "https://www.qbitai.com/2026/08/479314.html",
+    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-18-1787704979000",
+    "title": " 美国“军事用途”重吊船太平洋突发进水，18名船员弃船 ",
+    "link": "https://www.huxiu.com/article/4885985.html?f=rss",
+    "summary": "一艘被美国政府列为具备军事运输用途的美国旗重吊货船，在横穿太平洋途中突发机械故障并大量进水，18名船员被迫弃船。所幸，一艘途经附近海域的中国香港旗LPG运输船迅速改变航向实施救援，将全部船员安全接走。最新航行警告显示，失事船舶已被移离此前的漂航位置，但船舶受损程度、拖带目的港以及进水原因仍未正式公布。 本文来自微信公众号： 信德海事 ，作者：陈洋，题图来自：视觉中国 当地时间8月18日，美国旗多用途重吊货船&ldquo;SLNC York&rdquo;号在从夏威夷火奴鲁鲁驶往日本那霸途中发生机械故障，随后出现严重进水。船舶运营管理方Schuyler Line Navigation Company （SLNC） 表示，船员及岸上技术团队发现险情后立即启动应急程序，试图控制进水并维持船舶稳性。 随着船舶失去自主航行能力，船上人员最终决定撤离。公开救援信息显示，&ldquo;SLNC York&rdquo;号上的18名船员全部转移至中国香港旗LPG运输船&ldquo;Pacific Yantai&rdquo;号。所有船员均安全获救，无人受伤，人员已经全部清点确认。 美国海事官员工会AMO和美国海员工会SIU随后分别证实，&ldquo;SLNC York&rdquo;号上的持证船员和普通船员均已安全离船，正搭乘救助船前往韩国，后续将安排船员遣返。 LPG船紧急改道，接走18名美国船员 实施",
+    "publishedAt": "2026-08-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-rubin-1787704860000",
+    "title": "Rubin接棒，英伟达能否终结“财报后必跌”魔咒？",
+    "link": "https://www.tmtpost.com/8114659.html",
+    "summary": "英伟达FY2027 Q2财报将首次量化Rubin周期的收入贡献，在连续四个季度“超预期即下跌”之后，能否打破魔咒的关键不在数字本身，而在Rubin爬坡的速度与毛利率的韧性。",
+    "publishedAt": "2026-08-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-youtuber-finds-niche-as-college-admissions-mentor-1787691600000",
+    "title": "YouTuber finds niche as college admissions mentor",
+    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+    "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-loses-a-top-data-center-exec-as-stream-of-high-profil-1787702780000",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "publishedAt": "2026-08-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-why-fintech-8217-s-advances-have-made-it-a-hidden-talent-ena-1787660128000",
+    "title": "Why fintech&#8217;s advances have made it a hidden talent enabler for workers",
+    "link": "https://hrexecutive.com/why-fintechs-advances-have-made-it-a-hidden-talent-enabler-for-workers/",
+    "summary": "Fintech is showing up as a rewards and recognition solution, addressing multiple use cases beyond traditional financial wellness. The post Why fintech&#8217;s advances have made it a hidden talent enabler for workers appeared first on HR Executive .",
+    "publishedAt": "2026-08-25",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-new-york-times-presses-eeoc-for-white-bias-records-in-foia-l-1787686080000",
+    "title": "New York Times presses EEOC for White bias records in FOIA lawsuit",
+    "link": "https://www.hrdive.com/news/new-york-times-eeoc-white-bias-records-foia-lawsuit/828735/",
+    "summary": "The media giant alleged the agency has dragged its feet and ignored the Times&rsquo; inquiries about when its requests for information will be met.",
+    "publishedAt": "2026-08-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-8b-image-2-1787640806000",
+    "title": "开源国产8B模型，比肩闭源Image 2了！",
+    "link": "https://www.qbitai.com/2026/08/479192.html",
+    "summary": "SenseNova U1.5 Lite",
+    "publishedAt": "2026-08-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787704506000",
+    "title": " “火车零食占座”吵翻天，买无座票的人还敢坐吗？ ",
+    "link": "https://www.huxiu.com/article/4885996.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，编辑：贾小凡，作者：洛卡来 一张空座背后，由此挤进了三个问题：它应该由谁重新分配，无座旅客究竟买到了什么，以及两个没有成年人陪伴的孩子，为什么能够坐上这趟二十多个小时的长途列车。 8月16日，在一趟上海开往成都西的K1156次列车上，两名女孩持有005号、006号、007号三张连号硬座票，并将其中一个号码为006号的座位用于放置零食和行李。途中，车厢一名持无座席号车票的旅客希望在006号空闲席位就座，遭到其中一名女孩的拒绝。无座乘客随后请求列车员协调，列车员在核实购票和席位情况后，建议旅客双方自行协商解决，并表示：“这座位是她们的，你要跟她们商量，跟我说没用。” 最终双方协商未果，有拍摄这一过程的旅客将视频发至网上，迅速发酵。一场围绕座位归属的争论一触即发。 8月21日晚，国铁成都局发布情况说明。说明称，结合《中华人民共和国民法典》《铁路旅客运输规程》等法律法规作出专业法律界定：三张车票对应的旅客中，只有两人检票乘车。由于006号座位的持票人没有检票，已经放弃该区段的席位使用权，另外两名旅客也无权占用和处置这个座位。铁路部门同时承认列车工作人员现场处置不到位并致歉。 一天后，两名女孩的母亲出面回应。她称，自己无法请假陪两个女儿返回老家，而购买儿童优惠票需要和成人票绑定。于是，她为自己也买了一张票，把孩子送上列车、安顿好后再独自下车。那张引发争议的00",
+    "publishedAt": "2026-08-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-8-26-1787704639000",
+    "title": "Edge AI Daily 早报（8月26日）",
+    "link": "https://www.tmtpost.com/8116690.html",
+    "summary": "德意志银行核心系统迁移至谷歌云，标志金融AI落地的结构性变革；OpenAI以Codex经验进军白领市场，推出ChatGPT Work及贴纸功能，意图成为社交操作系统；汤森路透以4000万美元训练垂直模型，证明数据质量可替代算力规模；ARIA全球首禁纯AI歌曲，监管红灯亮起；WikiHow起诉OpenAI，版权冲突升级。",
+    "publishedAt": "2026-08-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-launching-youth-entrepreneurship-1787691600000",
+    "title": "Launching youth entrepreneurship",
+    "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+    "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education&#8230;",
+    "publishedAt": "2026-08-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-x-sends-cease-and-desist-to-open-source-project-nitter-over--1787690652000",
+    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+    "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+    "publishedAt": "2026-08-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing-1787659230000",
+    "title": "The U.S. leads AI talent by a mile, but the gap is narrowing",
+    "link": "https://hrexecutive.com/the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing/",
+    "summary": "New research shows AI talent remains concentrated in the U.S., as job postings requiring AI skills rise worldwide. The post The U.S. leads AI talent by a mile, but the gap is narrowing appeared first on HR Executive .",
     "publishedAt": "2026-08-25",
     "source": "HR Executive",
     "tags": [
@@ -54,189 +238,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-phanthymotus-1787650276000",
-    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-    "link": "https://www.qbitai.com/2026/08/479314.html",
-    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
-    "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787676245000",
-    "title": " 手艺还在，手工生产已不再是中心：程序员能力的三次上移 ",
-    "link": "https://www.huxiu.com/article/4885979.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 如果把过去三十年的软件开发史压缩成一条清晰的线，它并不只是语言、工具和框架的更新史，更是一部\"程序员能力不断上移\"的历史。每一次工具变得更强，程序员就把一部分原本必须亲手完成的工作交出去，同时被推向一个更靠上的位置。理解这条线的走向，比记住其中任何一个技术名词都重要，因为它决定了一个开发者在下一个十年里究竟靠什么立身。 一、机器的严肃性：从Turbo C到IDE 最早那一代人学编程，往往从Turbo C、记事本、命令行和编译器报错开始。那时所谓\"会编程\"，很大程度上意味着你必须把语言装进脑子里：变量怎么定义，指针怎么走，头文件怎么引，函数参数怎么写，语法错了一个字符，编译器都会毫不留情地把你挡在门外。开发环境几乎不提供任何理解上的帮助，程序员需要直接面对机器的严肃性。这种严肃性并不友好，却带来一个副产品：你被迫知道每一行代码落到机器上会发生什么，因为没有任何中间层替你承担误解的代价。 后来Java出现，VB的图形化编辑器让很多人第一次意识到：原来软件开发也可以更友好。再后来，JBuilder、Eclipse一类IDE普及，补全、跳转、重构、调试这些能力逐步成熟，编程的门槛被明显降低。它们并没有替程序员思考，但开始显著减少机械劳动。这一点值得注意——那一代工具的意义，不是替你写代码，而是让你",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-330-1787657379000",
-    "title": "330天后，安世中国管理团队重磅发布，看他们带来了什么？",
-    "link": "https://www.tmtpost.com/8115056.html",
-    "summary": "安世中国:断供、突围、重构，然后重新出发。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-smarter-ai-in-schools-and-a-robot-8220-carnival-1787659800000",
-    "title": "The Download: smarter AI in schools, and a robot &#8220;carnival&#8221; in Shanghai",
-    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or&#8230;",
-    "publishedAt": "2026-08-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-your-vote-matters-decide-which-audience-choice-sessions-will-1787682170000",
-    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
-    "publishedAt": "2026-08-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-fintech-8217-s-advances-have-made-it-a-hidden-talent-ena-1787660128000",
-    "title": "Why fintech&#8217;s advances have made it a hidden talent enabler for workers",
-    "link": "https://hrexecutive.com/why-fintechs-advances-have-made-it-a-hidden-talent-enabler-for-workers/",
-    "summary": "Fintech is showing up as a rewards and recognition solution, addressing multiple use cases beyond traditional financial wellness. The post Why fintech&#8217;s advances have made it a hidden talent enabler for workers appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-healthcare-costs-could-rise-by-nearly-10-in-2027-1787670660000",
-    "title": "Healthcare costs could rise by nearly 10% in 2027",
-    "link": "https://www.hrdive.com/news/healthcare-costs-could-rise-by-nearly-10-in-2027/828688/",
-    "summary": "Employers cover more than 80% of the burden, but employees will also be hit by rising costs, an Aon report found.",
-    "publishedAt": "2026-08-25",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-8b-image-2-1787640806000",
-    "title": "开源国产8B模型，比肩闭源Image 2了！",
-    "link": "https://www.qbitai.com/2026/08/479192.html",
-    "summary": "SenseNova U1.5 Lite",
-    "publishedAt": "2026-08-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1787674934000",
-    "title": " 当AI开始抽佣：下一代入口的商业模式困局 ",
-    "link": "https://www.huxiu.com/article/4885978.html?f=rss",
-    "summary": "本文来自微信公众号： 沈太阳商读笔记 ，作者：沈太阳 8月10日，两件事在同一天发生。阿里旗下千问App上线付费会员，最低19元/月；字节旗下豆包宣布，通过豆包入口跳转抖音来客成交的酒店订单，综合佣金费率从8%上调至约12%。 一个向C端收订阅费，一个向B端抽交易佣金。方向不同，但指向同一个事实：中国AI助手的免费试用期，结束了。 这件事值得聊的不是\"贵不贵\"。真正值得追问的是：为什么是现在？为什么是抽佣？以及——当一个AI同时掌握你的偏好、推荐权和交易通道，它给你的那个\"答案\"，还是同一个答案吗？ △图片来源：微信公号「沈太阳商读笔记」 01 为什么会员费救不了AI公司？ 先说一个很多人没注意到的数字。 QuestMobile数据显示，豆包专业版上线次日DAU冲到1.78亿；晚点LatePost则报道，豆包日活已超2亿，但日收入不足百万。庞大的用户基数与微薄的付费收入之间，落差巨大。 这不是豆包一家的问题。ChatGPT模型能力和用户心智全球最强，绝大多数用户仍停留在免费层，OpenAI认清现实后转向猛攻B端。国内市场更明显——千问最便宜的会员19元/月，豆包专业版688元/年，价格不算贵，但普通用户就是不愿意掏这个钱。 为什么？因为C端订阅制有一个先天缺陷：它卖的是\"能力\"，而大多数人对AI能力的需求是间歇性的。你可能今天让AI写个方案、明天做个PPT，但后天可能只是问个天气。",
-    "publishedAt": "2026-08-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787657362000",
-    "title": "二手半导体设备成抢手货了",
-    "link": "https://www.tmtpost.com/8115046.html",
-    "summary": "当前庞大的产能需求不能再挑肥拣瘦了，物尽其用才是硬道理。",
-    "publishedAt": "2026-08-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-welcome-to-the-spiderverse-a-world-measured-through-webs-1787648400000",
-    "title": "Welcome to the spiderverse, a world measured through webs",
-    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-    "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the&#8230;",
-    "publishedAt": "2026-08-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcr-1787680890000",
-    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "publishedAt": "2026-08-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing-1787659230000",
-    "title": "The U.S. leads AI talent by a mile, but the gap is narrowing",
-    "link": "https://hrexecutive.com/the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing/",
-    "summary": "New research shows AI talent remains concentrated in the U.S., as job postings requiring AI skills rise worldwide. The post The U.S. leads AI talent by a mile, but the gap is narrowing appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-looks-matter-more-than-resume-in-first-impressions-study-say-1787670660000",
-    "title": "Looks matter more than resume in first impressions, study says",
-    "link": "https://www.hrdive.com/news/good-first-impression-at-work-advice-2026/828703/",
-    "summary": "&ldquo;People want to think that they are making really high-level analytical decisions based on effectively evaluating evidence,&rdquo; but that&rsquo;s not what is happening, one professor said.",
-    "publishedAt": "2026-08-25",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-3-10-500-1787639991000",
     "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
     "link": "https://www.qbitai.com/2026/08/479132.html",
@@ -250,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1787673912000",
-    "title": " 斗胆聊聊阿里老板们的8亿 ",
-    "link": "https://www.huxiu.com/article/4885977.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月25日晚，马云增持阿里的消息，估计很多人都刷到了。 说他连日买入，超过6亿港元；加上主席蔡崇信、CEO吴泳铭这两天动作，合计掏了8亿多。 时点很扎眼，就在这之前，阿里刚向市场要完800亿港元，股价被砸出一个坑，一天蒸发2000亿市值，老板们就挑这个坑，买在了配售价附近。 8月24日，是阿里这两年股价最难看的日子之一。 四天前财报刚出来，净利润同比跌了七成多，市场本来就没缓过来。 配售定价112.7港元，公告一落地，港股盘中一度跌超10%，收在112.5港元，单日市值蒸发约2000亿，成交405亿港元，全市场第一。 当天的目光，都在这只票上。 当天下午，港交所的申报表上多了两行，蔡崇信买入72万股，均价约112港元，耗资约8000万；吴泳铭买入35万股，均价约111.6港元，耗资约4000万。 两个人合计107万股，1.2亿港元；从开盘到申报，中间隔了几个小时，这半天里，你猜怎么着？股价还没爬出来。 股价最难看的一天，公司老板，自己掏钱买了。 吴泳铭这笔买得有点意思，他的成交价区间，是110.7到112.4港元；配售价是多少？112.7港元。机构拿的配售，是112.7的批发价。 老板在二级市场自己买，价格比批发价还低几毛，零售价买到批发价以下，等于自己给这次融资定了个价。 第二天，蔡崇信又买了一次，72万股，均价113.47港元，约8",
-    "publishedAt": "2026-08-25",
+    "id": "news--1787703700000",
+    "title": " 世界越来越乱，航运公司靠什么挣钱？ ",
+    "link": "https://www.huxiu.com/article/4885986.html?f=rss",
+    "summary": "本文来自微信公众号： 信德海事 ，作者：陈洋，原文标题：《高波动时代，航运公司如何把不确定性转化为利润？&mdash;&mdash;从马士基业绩反转看航运企业的判断、决策与韧性》，题图来自：视觉中国 近日，马士基公布了其今年第二季度 （半年） 业绩报告，从一季度Ocean业务亏损1.92亿美元，到二季度盈利9.35亿美元；从年初一度预计全年EBIT最低可能亏损15亿美元，到如今将全年基础EBIT预期提高至45亿～65亿美元。 马士基2026年的业绩变化，表面上是一场由运价上涨推动的利润反转，背后却指向一个更加值得航运业思考的问题： 当世界进入高波动、高不确定性时代，真正决定一家企业能否从&ldquo;风浪&rdquo;中带回高价鱼的，究竟是什么？ 马士基CEO柯文胜最新给出的答案，与信德海事网此前提出的 &ldquo;风浪越大，鱼越贵，前提是船能回来&rdquo; 高度契合&mdash;&mdash;企业需要足够坚固的船体、持续运转的动力，更需要一个能够快速获取信息、准确判断形势、果断调整航向的&ldquo;船长&rdquo;。 马士基2026年第二季度的财报，很容易被理解为一个传统的航运周期故事：需求增强、集装箱即期运价上涨，班轮公司的利润随之迅速改善。第二季度，马士基实现营收157.6亿美元，同比增长20%；EBITDA达到30亿美元，EBIT达到16亿美元，净利润达到13.1",
+    "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -263,10 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-2027-1787657228000",
-    "title": "OpenAI 的 2027：资本周期下的上市平衡术",
-    "link": "https://www.tmtpost.com/8115750.html",
-    "summary": "市场普遍将 OpenAI 规划 2027 年 IPO 视为技术兑现与万亿估值冲刺的行业里程碑。本文以资本久期匹配 + 6000 亿表外算力负债双框架拆解：上市并非单纯的技术高光时刻，而是资本周期与产业投入节奏相互校准的结构性平衡。",
+    "id": "news-ai-8-1787700000000",
+    "title": "【钛晨报】农产品相关“十五五”规划出炉，点名AI流通、农民主播、海外仓等；马云出手，与管理层合计增持阿里巴巴超8亿港元；章建平新进成为杭电股份第三大股东",
+    "link": "https://www.tmtpost.com/8116546.html",
+    "summary": "人形机器人百米竞速再次刷新纪录；中国商业航天企业首次面向东南亚整星出口；中国聚变等9家企业将协同攻关高温超导强场托卡马克磁体研制；国家发改委召开“六网协同”协调推进工作会，研究“六张网”投融资机制和支持政策；高盛重申：预计到2026年底金价将达到每盎司4900美元。",
     "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
@@ -277,23 +278,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i--1787648400000",
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "id": "news-a-new-stamp-on-cyberfraud-prevention-1787691600000",
+    "title": "A new stamp on cyberfraud prevention",
+    "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+    "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;",
     "publishedAt": "2026-08-25",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-claude-cowork-finally-remembers-what-you-told-the-app-in-cha-1787680233000",
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "id": "news-instagram-s-8216-first-draft-8217-feature-aims-to-make-editi-1787685772000",
+    "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
+    "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
@@ -316,17 +316,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-united-s-retention-of-harassing-pilot-may-have-been-criminal-1787604180000",
-    "title": "United’s retention of harassing pilot may have been criminally negligent, judge finds",
-    "link": "https://www.hrdive.com/news/united-airlines-criminal-negligence-case-pilot-harassment-flight-attendant/828508/",
-    "summary": "The airline allegedly learned of a police investigation into a pilot&rsquo;s distribution of a worker&rsquo;s intimate images in April 2024 but didn&rsquo;t act until his arrest later that year.",
-    "publishedAt": "2026-08-24",
+    "id": "news-healthcare-costs-could-rise-by-nearly-10-in-2027-1787670660000",
+    "title": "Healthcare costs could rise by nearly 10% in 2027",
+    "link": "https://www.hrdive.com/news/healthcare-costs-could-rise-by-nearly-10-in-2027/828688/",
+    "summary": "Employers cover more than 80% of the burden, but employees will also be hit by rising costs, an Aon report found.",
+    "publishedAt": "2026-08-25",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -343,10 +342,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1500-1787657225000",
-    "title": "两个“AI角斗场”加起来卖出1500亿天价，巨头图什么？",
-    "link": "https://www.tmtpost.com/8115802.html",
-    "summary": "成为最强选手之外，控制比赛场地也很香",
+    "id": "news--1787703077000",
+    "title": " 海底捞，新人驾到 ",
+    "link": "https://www.huxiu.com/article/4885994.html?f=rss",
+    "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：米娜，作者：梁宵，原文标题：《独家｜海底捞，新人驾到》 张勇的回归，要解决的不仅是海底捞眼前的发展问题，更重要的是关乎未来的交班问题。 头图摄影｜邓攀 在创始人张勇重返CEO之位7个多月后，8月25日，海底捞交出了2026年上半年的业绩报告：其中，集团营业收入223.37亿元，同比增长7.9%；核心经营利润25.13亿元，同比增长4.4%，自营海底捞餐厅翻台率由去年同期的3.8次/天提升至3.9次/天。 在看得见的业绩变化背后，更深层次的变革也在酝酿之中。《中国企业家》独家获悉，张勇之子Zhang Hanzhi（音译），今年28岁，已经完成海外留学，加入海底捞。与对其父“张大哥”的称呼对照，他被内部人称为“张小哥”。记者了解到，尽管目前他没有被正式任命具体职务，但“张小哥”已经参与多个业务条线的管理，海底捞上半年的一些门店调整也出自他的决定。 在2018年的采访中，张勇提到，他与孩子之间沟通并不多，但他特别指出后者身上有个很大的优点——“善良”。提到交接班，他则坦陈，“年纪还太小，把一个几万人、几十万人的企业决策权交给他，也是不负责任的表现。” 如今，8年过去了。那个曾经爱玩游戏，20岁出头的年轻人“张小哥”，带着自己的一番学识和抱负，加入父辈一手一脚打拼出来的餐饮帝国——根基尚稳，但也危机四伏。 张勇的回归，要解决的不仅是海底捞眼前的",
+    "publishedAt": "2026-08-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-330-1787657379000",
+    "title": "330天后，安世中国管理团队重磅发布，看他们带来了什么？",
+    "link": "https://www.tmtpost.com/8115056.html",
+    "summary": "安世中国:断供、突围、重构，然后重新出发。",
     "publishedAt": "2026-08-25",
     "source": "钛媒体",
     "tags": [
@@ -357,11 +369,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-encourage-smarter-ai-use-in-the-classroom-1787581219000",
-    "title": "How to encourage smarter AI use in the classroom",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-    "publishedAt": "2026-08-24",
+    "id": "news-agelab-research-inspires-an-a-i-startup-1787691600000",
+    "title": "AgeLab research inspires an A I startup",
+    "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;",
+    "publishedAt": "2026-08-25",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -369,30 +381,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-robotaxis-are-headed-to-munich-1787679123000",
-    "title": "Waymo robotaxis are headed to Munich",
-    "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-    "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+    "id": "news-stability-ai-maker-of-image-generator-stable-diffusion-raise-1787684627000",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "summary": "The company's new fundraising total now stands at $232 million.",
     "publishedAt": "2026-08-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-flight-risk-more-workers-are-paying-to-upskill-for-their-nex-1787657452000",
-    "title": "Flight risk: More workers are paying to upskill for their next job",
-    "link": "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/",
-    "summary": "Orgs are upping their AI spend while slashing L&#038;D budgets, leaving many employees to pay for their own AI upskilling, which many are doing to support a move to a new organization. The post Flight risk: More workers are paying to upskill for their next job appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
     ]
   }
 ];
@@ -829,7 +827,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
     "postedAt": "2026-08-19",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1136967",
@@ -872,9 +870,9 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RNDguMjExLjIxMC4xMTM= when applying to show you read the job post completely (#RNDguMjExLjIxMC4xMTM=)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuMTg2LjIzNy4w when applying to show you read the job post completely (#RMjAuMTg2LjIzNy4w)",
       "This is a beta feature to avoid spam applicants",
-      "Companies can search these words to find applicants"
+      "Companies can search these words to find applicants that re"
     ],
     "skills": [],
     "location": "Moruya, ",
@@ -949,4 +947,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-25T18:34:34.982Z';
+export const dataFetchedAt = '2026-08-26T01:04:23.871Z';
