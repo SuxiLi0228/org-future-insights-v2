@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-addressing-a-sticking-point-in-sustainable-adhesives-1787691600000",
-    "title": "Addressing a sticking point in sustainable adhesives",
-    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;",
-    "publishedAt": "2026-08-25",
+    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+    "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-8217-s-ringg-gets-backing-from-peak-xv-as-it-pushes-vo-1787715000000",
-    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "id": "news-hearing-tech-startup-legato-emerges-from-stealth-with-12m-an-1787745600000",
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-two-thirds-of-workers-bypass-legal-channels-to-keep-business-1787661016000",
-    "title": "Two-thirds of workers bypass legal channels to keep business moving",
-    "link": "https://hrexecutive.com/two-thirds-of-workers-bypass-legal-channels-to-keep-business-moving/",
-    "summary": "New research from Streamline AI finds that slow legal workflows are affecting revenue, deal timelines and business momentum, with 66% of professionals saying they bypass formal legal channels to keep projects moving. The post Two-thirds of workers bypass legal channels to keep business moving appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
+    "id": "news-universal-health-would-cut-u-s-provider-revenue-21-researche-1787747450000",
+    "title": "Universal health would cut U.S. provider revenue 21%, researchers predict",
+    "link": "https://hrexecutive.com/universal-health-would-cut-u-s-provider-revenue-21-researchers-predict/",
+    "summary": "The researchers think using a \"Medicare for All\" system to eliminate health insurance and health plans would cut the net effect to 11%. The post Universal health would cut U.S. provider revenue 21%, researchers predict appeared first on HR Executive .",
+    "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -54,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-top-ai-1787723785000",
-    "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
-    "link": "https://www.qbitai.com/2026/08/479670.html",
-    "summary": "Agnes Video 2.5 Flash",
+    "id": "news-ai-1787739490000",
+    "title": "AI视频应用井喷，美图打开新的增长空间",
+    "link": "https://www.qbitai.com/2026/08/479895.html",
+    "summary": "从图像到视频，美图找到了一门更赚钱的生意",
     "publishedAt": "2026-08-26",
     "source": "量子位",
     "tags": [
@@ -67,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787725857000",
-    "title": " 那些中看不中用的智能驾驶网红配置 ",
-    "link": "https://www.huxiu.com/article/4886102.html?f=rss",
-    "summary": "本文来自微信公众号： 脑洞汽车 ，作者：珊瑚 过去几年间，新势力车企围绕车载场景展开激烈竞争，纷纷以突破常规的功能创新作为产品卖点，车内空间的用途被无限扩展，似乎功能越猎奇，就越接近未来出行的想象。 但最近，车圈里关于智能驾驶配置的监管动作一个接一个。 今年七月初，工业和信息化部对新车公告审核提出新要求，凡原厂配备外置蓝色驾驶辅助指示灯的乘用车申报车型，将无法通过产品公告审核。几乎同期，零重力座椅的相关强制性安全规范进入公开征求意见阶段，对车辆行驶状态下座椅的可调节角度与使用姿态作出硬性约束。此外，单踏板模式的新国标已正式发布，明确规定自2027年起，在默认驾驶模式下，驾驶员松开加速踏板后，车辆不得通过能量回收等方式实现完全刹停。 从小蓝灯、零重力座椅到夺人眼球的车内淋浴、概念车取消B柱……监管的手正一个接一个地伸向那些曾经风光无限的“网红配置”。 那些被捧上神坛的创新，有多少真正服务于驾驶本身？为什么车企不卷智驾算法、三电系统等核心能力，纷纷看这些配置花架子？ 网红花架子的狂欢 故事要从几年前说起。核心三电、底盘调校、安全架构这些硬核领域突破难、成本高、见效慢，而一个脑洞大开的场景化配置，成本不高，却能在短视频平台收获百万播放。 既然拼机械素质拼不过，那就拼智能感、科技感和想象力，拼车内能玩出多少花样。于是，车上能不能煮火锅、能不能打麻将、能不能在堵车时做个SPA，反倒成了产品发",
+    "id": "news-deepseek-1787746783000",
+    "title": " DeepSeek一张涨价单，繁荣了一条产业链？ ",
+    "link": "https://www.huxiu.com/article/4886242.html?f=rss",
+    "summary": "本文来自微信公众号： 师天浩观察 ，作者：勤奋的浩子 七天里，DeepSeek调了两次价。 第一次发生在8月13日晚。与V4 Pro正式版上线同一份公告里，Deepseek给出了新价格。8月17日零时起，旗舰模型V4-Pro高峰时段的输出价从每百万Tokens 6元涨到27元，涨幅350%；缓存命中的输入价从0.025元涨到0.30元，是原来的12倍。一同引入的还有峰谷计价，也就是每天上午9点到12点、下午2点到6点算高峰，其余时段半价。 第二次在六天后。8月23日零时起，周六周日全天不再区分峰谷，统一按低谷价收费。 一周两调，一次抬价、一次变相降价，似乎自相矛盾，实则是同一件事。高峰时段的算力不够分了，要用价格这个无形的手把对时间不敏感的需求，分流去夜里和周末。 市场对价格最敏感，先读懂了第一次。8月17日新价生效当天，A股算力板块异动，太辰光20%涨停。 市场读到的不是Token\"贵了\"，是算力\"缺了\"。 但第二次调价后的第一个交易日，8月24日，市场却遇冷。收盘时，沪指跌0.61%，深成指跌2.11%，创业板指跌3.14%，其中，算力硬件领跌：中际旭创A股收跌7.44%，报872.88元，全天成交超过300亿元，主力资金净卖出超39亿元；它的港股跌超12%，报1002港元，A+H市值跌破万亿。天孚通信跌超11%，新易盛跌超9%，一周前涨停的太辰光，跌超8%。 同一天，阿里巴巴",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787724437000",
-    "title": "穿越周期的钱大妈：社区生鲜的稳健增长样本",
-    "link": "https://www.tmtpost.com/8117259.html",
-    "summary": "生鲜是一门慢生意，没有捷径可走。",
+    "id": "news-unitree-s-market-cap-evaporates-nearly-50-from-its-peak-in-s-1787745606000",
+    "title": "Unitree’s Market Cap Evaporates Nearly 50% From Its Peak in Six Days",
+    "link": "https://www.tmtpost.com/8118073.html",
+    "summary": "",
     "publishedAt": "2026-08-26",
     "source": "钛媒体",
     "tags": [
@@ -94,22 +93,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtuber-finds-niche-as-college-admissions-mentor-1787691600000",
-    "title": "YouTuber finds niche as college admissions mentor",
-    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-    "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and&#8230;",
-    "publishedAt": "2026-08-25",
+    "id": "news-raised-on-ai-1787734800000",
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-robotics-startup-generalist-reaches-3b-valuation-sources-say-1787704859000",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "id": "news-runable-hits-21m-to-bet-ai-agents-can-go-from-building-busin-1787742000000",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -119,11 +119,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-fintech-8217-s-advances-have-made-it-a-hidden-talent-ena-1787660128000",
-    "title": "Why fintech&#8217;s advances have made it a hidden talent enabler for workers",
-    "link": "https://hrexecutive.com/why-fintechs-advances-have-made-it-a-hidden-talent-enabler-for-workers/",
-    "summary": "Fintech is showing up as a rewards and recognition solution, addressing multiple use cases beyond traditional financial wellness. The post Why fintech&#8217;s advances have made it a hidden talent enabler for workers appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
+    "id": "news-the-workforce-risk-that-doesn-8217-t-show-up-in-your-engagem-1787746508000",
+    "title": "The workforce risk that doesn&#8217;t show up in your engagement survey",
+    "link": "https://hrexecutive.com/the-workforce-risk-doesnt-show-up-in-engagement-survey/",
+    "summary": "Recent data show a shift in the dominant workforce health risk and a more complicated picture of disengagement than the numbers suggest. The post The workforce risk that doesn&#8217;t show up in your engagement survey appeared first on HR Executive .",
+    "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -144,10 +144,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-10-1787723526000",
-    "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-    "link": "https://www.qbitai.com/2026/08/479634.html",
-    "summary": "",
+    "id": "news-ai-ai-ai-ai-1787739435000",
+    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+    "link": "https://www.qbitai.com/2026/08/479811.html",
+    "summary": "AI内容创作者增长187%，相关节目数量增长239%",
     "publishedAt": "2026-08-26",
     "source": "量子位",
     "tags": [
@@ -157,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787725355000",
-    "title": " 回春还是陷阱？从全球垫底到反弹，背后藏着三个真相 ",
-    "link": "https://www.huxiu.com/article/4886091.html?f=rss",
-    "summary": "恒生科技被戏称&ldquo;外卖指数&rdquo;，2026上半年它经历了什么？ 从2017年冠绝全球到2026年全球垫底，恒科跌超30%，互联网巨头蒸发四成。而最近全球市场大回调，港股反而逆势抗跌，被机构称作&ldquo;相对避风港&rdquo;。反弹还是反转？",
+    "id": "news--1787746603000",
+    "title": " 康柏西普收入大降，拖累康弘药业业绩 ",
+    "link": "https://www.huxiu.com/article/4886243.html?f=rss",
+    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：小米 8月26日，康弘药业披露公司2026半年报，公司实现营业收入21.79亿元，同比下降11.19%，归母净利润为5.65亿元，同比下降22.61%，营收、净利润双双下降。公司指出：2026上半年经营业务没有发生重大变化，专注于药品、医疗器械的研发、生产与销售。 康柏西普为核心的生物药收入萎缩是拖累业绩的主要原因。康弘药业上半年生物药实现收入11.02亿元，同比下降18.13%。这部分营收依然占到总收入的50.54%，直接拉低了整体营收水平。 去年开始，眼底领域冲进来几匹黑马：罗氏的法瑞西单抗、诺华的布西珠单抗，给中国市场传统的三大品种带来变数。康柏西普曾经是康弘药业对抗罗氏、诺华两大外企的核心品种，是公司的现金奶牛。但竞争对手在不断翻新，康弘药业在康柏西普之后却迟迟没有再有新品上市。这严重拖累了公司的业绩。 除康柏西普之外，康弘药业其他中药化药业务基本没有太大的亮点。根据康弘药业的计划，今后将布局基因治疗和创新药两大领域的研发，寄希望在康柏西普之后再造增长点。但这个计划显得有些漫长。 康柏西普收入大幅下降 康柏西普2014年正式推向市场，拜耳的同类药物阿柏西普2018年才正式进入中国。因此在国际上，阿柏西普一枝独秀，占领眼底疾病核心地位；但在中国市场上，康柏西普却能和阿柏西普掰掰手腕。 康弘药业过去十年的业绩增长主要依赖康柏",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
@@ -170,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ojo-1787722952000",
-    "title": "前剪映负责人张琪智创业，OJO拿下顺为、联想创投近亿元天使轮",
-    "link": "https://www.tmtpost.com/8117242.html",
-    "summary": "设计 Agent 团队工作平台",
+    "id": "news--1787745221000",
+    "title": "为什么核聚变和液氢都要走「矩阵式」路线丨对话科安创能姜伟",
+    "link": "https://www.tmtpost.com/8117304.html",
+    "summary": "以氢液化为技术训练场，瞄准高温超导核聚变的底层需求。",
     "publishedAt": "2026-08-26",
     "source": "钛媒体",
     "tags": [
@@ -184,11 +184,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-launching-youth-entrepreneurship-1787691600000",
-    "title": "Launching youth entrepreneurship",
-    "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-    "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education&#8230;",
-    "publishedAt": "2026-08-25",
+    "id": "news-ai-models-flub-these-intelligence-tests-can-you-fare-any-bet-1787734800000",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -196,25 +196,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-loses-a-top-data-center-exec-as-stream-of-high-profil-1787702780000",
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "id": "news-ventures-platform-goes-bigger-and-broader-with-its-second-af-1787727600000",
+    "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+    "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing-1787659230000",
-    "title": "The U.S. leads AI talent by a mile, but the gap is narrowing",
-    "link": "https://hrexecutive.com/the-u-s-leads-ai-talent-by-a-mile-but-the-gap-is-narrowing/",
-    "summary": "New research shows AI talent remains concentrated in the U.S., as job postings requiring AI skills rise worldwide. The post The U.S. leads AI talent by a mile, but the gap is narrowing appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
+    "id": "news-layoff-trackers-are-a-8216-rearview-mirror-8217-says-jason-a-1787745606000",
+    "title": "Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook",
+    "link": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
+    "summary": "Layoff numbers hide the real shift. Jason Averbook explains why HR leaders should manage workforce skills, not headcount, in 2026. The post Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook appeared first on HR Executive .",
+    "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -237,10 +236,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-falcon-tst-2-0-1787714700000",
-    "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-    "link": "https://www.qbitai.com/2026/08/479631.html",
-    "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+    "id": "news--1787738829000",
+    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+    "link": "https://www.qbitai.com/2026/08/479834.html",
+    "summary": "具身智能迈向GPT时刻",
     "publishedAt": "2026-08-26",
     "source": "量子位",
     "tags": [
@@ -250,23 +249,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787725105000",
-    "title": " 史诗级大跃迁 ",
-    "link": "https://www.huxiu.com/article/4886097.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 中国消费到底怎么样？很难用一些形容词简单概括。 说好的能找到理由，说不好的也能有足够证据。同处一栋大楼，有人坐电梯上楼，有人坐电梯下楼，彼此之间不仅隔着墙，还隔着心。 在灰度世界里，寄希望用黑白视角获得一些绝对结论，是不可能的。与其为了证明而证明，不如以包容的态度，理解好的，体察不好的，鼓励往上走的，安慰往下走的。 8月17日，国家统计局公布了前7个月的消费数据，结果不太符合预期。 此前机构普遍预计，7月社零增速能到1.3%，环比加速增长，但实际上，7月的社零增速掉到了0.6%，不仅没能加快，反而在衰减。 什么原因造成的消费回落呢？共识度最高的是两大主因： 第一，天气。 几乎所有机构都认为，7月极端天气频发，是消费不及预期的重要因素。 根据气象部门的统计，2026年7月，全国平均气温达到23.5℃，相较于往年平均高出1.3度，为历史第二热。四川、重庆等地，更是创出史上最热的7月。 台风方面，2026年7月，台风生成5个，高出平均水平31.6%，登陆台风3个，高出历史水平66.7%。超强台风在7月有4个，普通年份至多1个。 极端天气对消费有何影响？国内外都有实证研究。 中国家庭金融调查的研究显示，2013年到2019年，极端高温每出现一天，家庭总支出就会减少0.2%。 2025年韩国银行的一项研究显示，天气太热，会导致银行卡消费额下滑7",
+    "id": "news--1787746431000",
+    "title": " 北大教授被骂的原因：灵活不是福利，选择权才是 ",
+    "link": "https://www.huxiu.com/article/4886241.html?f=rss",
+    "summary": "本文来自微信公众号： 古典古少侠 ，作者：古典古少侠 8月21日，北大国发院教授张丹丹在节目中说，“灵活（用工）本身就是一种福利”，被骂上热搜： “你一个教授站着说话不腰疼，我们灵活用工都是没办法的办法。” “送个外卖，开个网约车都能是福利？真是何不食肉糜！” 为张丹丹说句公道话，她的表达被误解了： 在完整视频里，她说了“很多人没得选，因为找不到带劳工合同、五险一金的工作”；过去10年，张丹丹带队调研3万余名骑手社保意愿、主张\"非捆绑式\"参保方案、还把研究做成泉州和南通试点政策的经济学者。她一直很站骑手们。 但为什么对灵活用工的讨论，会激发这么大的讨论？ 因为未来每个人都有可能”被灵活就业“。有报告预测2026年的灵活就业者是3.2亿。全国劳动人口才7.25亿，也就是说每4个有工作的人，有1个在“灵活就业”。 加上AI进化，3年后，灵活就业会成为新常态。上班和接活，五五开。 而灵活用工的主语，从来都是企业，不是个体。 灵活用工是企业灵活用你，并不是你灵活。在议价能力不对等的交易里面，自由是定量的，对方灵活了，你就不灵活了。 这种灵活的“福利”，每个打工人都会有机会“享受”。 那该如何看待这种灵活？ 该如何脱离被动“灵活”？拿回个体的选择权？ 这是我今天写文章想聊聊的。 01 灵活用工并不灵活 困局1：貌似自由，其实被要求 假如你是一个骑手，你可以选择几点上线，但上线之后，接什么单、",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787722560000",
-    "title": "具身江湖志（三）：机器人的草根阶层",
-    "link": "https://www.tmtpost.com/8117181.html",
-    "summary": "让机器人贴近普通人的钱包，靠的就是，无数行业里的草根。",
+    "id": "news-ai-1787741880000",
+    "title": "大厂竞逐AI办公助手，蒙牛先跑出一个落地样本",
+    "link": "https://www.tmtpost.com/8118009.html",
+    "summary": "蒙牛让200名业务骨干自建AI应用。",
     "publishedAt": "2026-08-26",
     "source": "钛媒体",
     "tags": [
@@ -277,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-new-stamp-on-cyberfraud-prevention-1787691600000",
-    "title": "A new stamp on cyberfraud prevention",
-    "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-    "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;",
-    "publishedAt": "2026-08-25",
+    "id": "news-bill-gates-says-we-ve-passed-ai-s-danger-thresholds-now-what-1787727660000",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -289,11 +289,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-sends-cease-and-desist-to-open-source-project-nitter-over--1787690652000",
-    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-    "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-    "publishedAt": "2026-08-25",
+    "id": "news-india-8217-s-ringg-gets-backing-from-peak-xv-as-it-pushes-vo-1787715000000",
+    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -302,11 +302,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027-1787658318000",
-    "title": "U.S. employer healthcare costs projected to climb 9.5% in 2027",
-    "link": "https://hrexecutive.com/u-s-employer-healthcare-costs-projected-to-climb-9-5-in-2027/",
-    "summary": "This projection marks the fourth consecutive year of elevated health care cost trends approaching double digits and extends one of the most sustained periods of health care inflation employers have faced in decades. The post U.S. employer healthcare costs projected to climb 9.5% in 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-08-25",
+    "id": "news-ai-didn-t-invent-hiring-fraud-it-made-it-harder-to-see-1787744725000",
+    "title": "AI didn’t invent hiring fraud. It made it harder to see",
+    "link": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
+    "summary": "A recent panel discussed how, as job candidates use AI to prepare more effectively, the old issue of hiring fraud becomes harder to stop. The post AI didn’t invent hiring fraud. It made it harder to see appeared first on HR Executive .",
+    "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -328,10 +328,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-wrc-1787713354000",
-    "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
-    "link": "https://www.qbitai.com/2026/08/478860.html",
-    "summary": "球技丝滑、现场爆满",
+    "id": "news--1787735828000",
+    "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+    "link": "https://www.qbitai.com/2026/08/479808.html",
+    "summary": "长乐机场综保区智算中心全栈算电协同服务",
     "publishedAt": "2026-08-26",
     "source": "量子位",
     "tags": [
@@ -341,10 +341,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3000-20-ai-1787725022000",
-    "title": " 3000元博20万的时代过去了，AI漫剧不是捡钱的风口 ",
-    "link": "https://www.huxiu.com/article/4886095.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网科技 ，作者：凤凰网科技，编辑：董雨晴 摘要： 今年以来，AI生成技术的大幅成熟，让行业呼喊工业化拐点已至。AI漫剧赛道悄然升温，大量中小工作室乃至个人蜂拥而至，企图用AI漫剧分一杯羹。加之《霍去病》等爆款作品的出现，以3000元左右成本撬动数十万元收益，让不少人羡慕。但没人去真实考究，赚钱的终归是少数。 “很感谢宝宝们的喜欢，在这里要对大家说声抱歉了，因为官方业务调整，只能暂时停更了。”“停更通知，很抱歉辜负各位宝宝的喜爱……”不久前，AI漫剧、AI绘画、AI教程，一批曾经被视作“低门槛创业风口”的账号，在同一个时间窗口集中熄火。 这场突如其来的停更潮，导火索直指番茄小说8月17日正式实施的“拉新新规”，一套针对“红果免费短剧”（漫剧）的内容和版权合规要求。 但新规只是最后一根稻草。真正让这个赛道走到洗牌边缘的，是平台规则收紧、版权要求提高、成本压力上升和内容同质化在同一个夏天的叠加。 半年时间，AI漫剧从众声喧哗到集体退场。低垂的流量果实已被摘尽，真正能留下来的，终究是那些懂得让AI为己所用、坚持内容本身的人。 AI漫剧的赔率游戏 大模型的算力成本，首先是这批草根创作者创业入局的最重要船票。 一位AI漫剧创作者给凤凰网科技算了一笔账，“我制作的算力成本包含废片，约为1元一秒，剪辑成本约为0.7元一秒，而我一天最多只能制作五分钟成片。”换算下来，若日更",
+    "id": "news-500-agent-1787745897000",
+    "title": " 把500元退款交给Agent之后 ",
+    "link": "https://www.huxiu.com/article/4886235.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 今年5月，龚先生在一家二手车交易平台询问一辆车的费用。平台官方AI客服“小瓜”给出的答复很明确：2.87万元报价已经包含过户和上牌费用。得到这个答案后，龚先生支付了2000元定金。等到线下办理手续，销售人员却又要求他支付1000元过户费。 AI说费用已经包含，销售说还要另付。对消费者来说，麻烦不只在于多出1000元，而在于他已经根据平台给出的答案付了定金。 这类纠纷正在改变AI客服问题的性质。过去的主要问题是听不懂、答非所问、不肯转人工。现在，AI开始进入价格、退款、赔偿和处理资格等真实业务。它不只需要给出一个听起来合理的回答，还要把回答变成企业能够执行的处理结果。 矛盾也从这里出现。AI认为用户符合退款条件，后台系统却无法退款；AI给出明确报价，销售人员却执行另一套规则；AI已经把会话推进到下一步，人工接手后又要从头确认。模型能够完成的工作越来越多，企业原来的数据、规则、权限和人工流程却没有同步改变。 如果AI只负责给客服提供建议，这些问题还可以留给员工处理。当AI开始自己判断、调用系统和推进任务，原来围绕人设计的流程就会不断出现摩擦。 淘宝客服的两次现场实验，正好展示了这条分界线：同样是AI进入客服，一个主要提高员工效率，另一个已经开始改变整条服务流程。 01两次AI进入客服的实验 第一次实验中，AI坐在客服旁边。 2024",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
@@ -355,10 +355,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-28-1787721900000",
-    "title": "美日时隔28年再度联手\"救市\"：日元升值重塑全球大类资产定价范式",
-    "link": "https://www.tmtpost.com/8117180.html",
-    "summary": "美国核心诉求是阻断日本 “抛售美债托底日元” 的被动路径，保护美债市场稳定，同时兼顾扭转贸易逆差及地缘政治考量。它将通过套息交易去杠杆、日元债务重估和日资长线资金再平衡三条路径，系统性重塑全球大类资产定价。",
+    "id": "news-ai-1787741498000",
+    "title": "不打AI与即时零售的仗，拼多多是清醒，还是保守？",
+    "link": "https://www.tmtpost.com/8117355.html",
+    "summary": "拼多多的核心逻辑是围绕电商平台，做好服务，做大生态，没有讲出新的故事。这种战略，可以说是理性、不折腾，对于资金充盈、管理效率极高的拼多多，也可以说是过于保守。",
     "publishedAt": "2026-08-26",
     "source": "钛媒体",
     "tags": [
@@ -369,10 +369,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agelab-research-inspires-an-a-i-startup-1787691600000",
-    "title": "AgeLab research inspires an A I startup",
-    "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-    "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;",
+    "id": "news-addressing-a-sticking-point-in-sustainable-adhesives-1787691600000",
+    "title": "Addressing a sticking point in sustainable adhesives",
+    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;",
     "publishedAt": "2026-08-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -381,11 +381,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instagram-s-8216-first-draft-8217-feature-aims-to-make-editi-1787685772000",
-    "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
-    "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-    "publishedAt": "2026-08-25",
+    "id": "news-robotics-startup-generalist-reaches-3b-valuation-sources-say-1787704859000",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -744,6 +744,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137114",
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Remote - Most sales tools help you send emails",
+      "Please mention the word **EMPATHY**"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "postedAt": "2026-08-25",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137107",
     "title": "Bell Captain",
     "company": "Four Seasons",
@@ -842,7 +860,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTcyLjIwOC4xMjcuMjQy when applying to show you read the job post completely (#RMTcyLjIwOC4xMjcuMjQy)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -901,22 +919,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
     "postedAt": "2026-08-17",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136946",
-    "title": "Maintenance and Grounds Officer",
-    "company": "Department of Education and Training",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Vacancy Number: NT260117 Agency: Department of Education and Training Number of Vacancies: 1 Work Unit: Kintore St School Location: Katherine Primary Objective:"
-    ],
-    "skills": [],
-    "location": "Katherine, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
-    "postedAt": "2026-08-17",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-26T06:41:23.205Z';
+export const dataFetchedAt = '2026-08-26T12:43:29.693Z';
