@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-27-auto",
+    "date": "2026-08-27",
+    "session": "auto",
+    "title": "2026-08-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-27-auto-1",
+        "emoji": "💡",
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+        "detail": "来源: MIT Technology Review。The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+      },
+      {
+        "id": "sig-2026-08-27-auto-2",
+        "emoji": "💡",
+        "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+        "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+        "detail": "来源: TechCrunch。Consumer AI apps need to stop making users learn their product architecture.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+      },
+      {
+        "id": "sig-2026-08-27-auto-3",
+        "emoji": "🚨",
+        "title": "Universal health would cut U.S. provider revenue 21%, researchers predict",
+        "summary": "The researchers think using a \"Medicare for All\" system to eliminate health insurance and health plans would cut the net effect to 11%. The post Universal health would cut U.S. provider revenue 21%, researchers predict appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The researchers think using a \"Medicare for All\" system to eliminate health insurance and health plans would cut the net effect to 11%. The post Universal health would cut U.S. provider revenue 21%, researchers predict appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/universal-health-would-cut-u-s-provider-revenue-21-researchers-predict/"
+      },
+      {
+        "id": "sig-2026-08-27-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：What FID Hides: Detecting, Ranking, and Diagnosing Deviation...",
+        "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc",
+        "detail": "作者: Hao Chen。Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences: on ImageNet, visually unrecognizable images optimized only to match the reference Inception mean and covariance obtain FID $24.7$ versus $58.6$ for held-out real images (lower is better). Moreover, FID and KID are scalar discrepancies that are unchanged when the two samples are exchanged and therefore do not encode the direction of a dispersion change: under-dispersion, as can occur in mode collapse, versus over-dispersion. We introduce \\textbf{ZID} (\\emph{Z-resolved Integrat",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.24881v1"
+      },
+      {
+        "id": "sig-2026-08-27-auto-5",
+        "emoji": "💼",
+        "title": "Bass Pro Shops 正在招募 OVERNIGHT SHIFT Retail Merchandiser",
+        "summary": "岗位类型：业务+AI 复合岗。Summary: Reporting to the Overnight Supervisor, the Overnight Task Team Outfitter assists in the overall operational function of the retail store by reducing th",
+        "detail": "技能要求: LLM。Summary: Reporting to the Overnight Supervisor, the Overnight Task Team Outfitter assists in the overall operational function of the retail store by reducing th",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bass Pro Shops"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bass Pro Shops",
+        "link": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-27-1",
+        "priority": "low",
+        "action": "关注「The inside story on why OpenAI agents ha」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-27-2",
+        "priority": "low",
+        "action": "关注「Google&#8217;s Gemini has a branding pro」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-27-3",
+        "priority": "high",
+        "action": "关注「Universal health would cut U.S. provider」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-27-4",
+        "priority": "medium",
+        "action": "关注「研究速递：What FID Hides: Detecting, Ranking,」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-27-5",
+        "priority": "medium",
+        "action": "关注「Bass Pro Shops 正在招募 OVERNIGHT SHIFT Reta」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bass Pro Shops"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-27 生成，聚合了 30 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-08-27 00:00 - 2026-08-27 23:59"
+  },
+  {
     "id": "report-2026-08-26-auto",
     "date": "2026-08-26",
     "session": "auto",

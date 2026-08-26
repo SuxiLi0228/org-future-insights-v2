@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+    "id": "news-the-inside-story-on-why-openai-agents-hacked-hugging-face-1787770800000",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
     "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hearing-tech-startup-legato-emerges-from-stealth-with-12m-an-1787745600000",
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+    "id": "news-google-8217-s-gemini-has-a-branding-problem-and-so-does-the--1787773054000",
+    "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "summary": "Consumer AI apps need to stop making users learn their product architecture.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -39,11 +39,102 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4th-circuit-dismisses-some-charges-against-wells-fargo-after-1787686080000",
-    "title": "4th Circuit dismisses some charges against Wells Fargo after jury’s $22.1M fee",
-    "link": "https://www.hrdive.com/news/4th-circuit-wells-fargo-jury-award-disability-discrimination/828743/",
-    "summary": "Although the appeals court dismissed three or four charges following a worker&rsquo;s disability trial, in affirming the fourth charge, it allowed him to retain most of his award.",
-    "publishedAt": "2026-08-25",
+    "id": "news-mckinsey-data-sought-in-congressional-dei-probe-1787759880000",
+    "title": "McKinsey data sought in congressional DEI probe",
+    "link": "https://www.hrdive.com/news/mckinsey-company-dei-reports-republican-investigation/828834/",
+    "summary": "Brandon Gill, a Republican from Texas, decried McKinsey and Co.&rsquo;s&nbsp;&ldquo;heavy-handed&rdquo; promotion of diversity, equity and inclusion practices through its oft-cited reports.",
+    "publishedAt": "2026-08-26",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-glm-1787762892000",
+    "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+    "link": "https://www.qbitai.com/2026/08/479919.html",
+    "summary": "GLM-5.3 Flash",
+    "publishedAt": "2026-08-26",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1787768558000",
+    "title": " AI 开始直接学习物理世界：一场新的基础模型分叉 ",
+    "link": "https://www.huxiu.com/article/4886285.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 路透社8月25日报道，Anima Anandkumar和Benedikt Jenik曾被邀请加入贝索斯支持的Project Prometheus。摆在他们面前的条件很优厚：高薪、相当可观的股权，以及参与一家超级AI实验室的机会。后来两人没有加入，继续做自己的Accelerated Understanding。 贝索斯想吸纳的那条路线，到底是什么。 Prometheus想做的是一个能参与设计、实验和制造的“通用工程师”。Accelerated Understanding的切口更靠前：先让AI直接学习物理世界如何变化，再把模拟、优化和设计接在后面。 前者把AI放进工程流程。后者想把物理世界本身变成下一种基础模型的训练对象。 他们都在探索一个可能：大模型会不会不再只有一条路？ 一、会说物理，和会算物理，是两回事 过去几年，AI最耀眼的进展几乎都发生在人的表达里。 模型读文本、看图片、生成视频、写代码。它们能够复述流体力学的公式，解释芯片为什么发热，甚至替工程师调用CFD软件。但这种能力很容易让人误以为，只要语言模型继续变大，它终究会学会“理解现实”。 问题没有这么简单。 知道Navier-Stokes方程，和给定一组边界条件后，高精度地展开一团湍流未来怎样演化，是两种完全不同的能力。 前者更接近知识与符号推理。后者是模拟。 传统数值",
+    "publishedAt": "2026-08-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-st-2-7-1787748987000",
+    "title": "*ST香雪的生死关口：重整卡壳，半年亏掉2.7亿元丨看财报",
+    "link": "https://www.tmtpost.com/8118088.html",
+    "summary": "市场高度关注的预重整工作仍未取得实质性突破，公司与中选投资人广药资本迟迟未能达成投资协议。",
+    "publishedAt": "2026-08-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+    "publishedAt": "2026-08-26",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-how-do-we-explain-openai-8217-s-executive-exodus-1787772844000",
+    "title": "How do we explain OpenAI&#8217;s executive exodus?",
+    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "summary": "Was Greg Brockman the right executive all along?",
+    "publishedAt": "2026-08-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-workforce-risk-that-doesn-8217-t-show-up-in-your-engagem-1787746508000",
+    "title": "The workforce risk that doesn&#8217;t show up in your engagement survey",
+    "link": "https://hrexecutive.com/the-workforce-risk-doesnt-show-up-in-engagement-survey/",
+    "summary": "Recent data show a shift in the dominant workforce health risk and a more complicated picture of disengagement than the numbers suggest. The post The workforce risk that doesn&#8217;t show up in your engagement survey appeared first on HR Executive .",
+    "publishedAt": "2026-08-26",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-ai-related-growth-edges-out-job-cut-fears-in-finance-execs-t-1787751960000",
+    "title": "AI-related growth edges out job cut fears in finance execs’ tech outlook",
+    "link": "https://www.hrdive.com/news/ai-related-growth-edge-job-cut-fears-finance-execs-tech-outlook/828764/",
+    "summary": "In an informal CFO Dive poll, 54% said they see AI&rsquo;s biggest workforce impact being higher employee productivity. &nbsp;",
+    "publishedAt": "2026-08-26",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -66,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1787746783000",
-    "title": " DeepSeek一张涨价单，繁荣了一条产业链？ ",
-    "link": "https://www.huxiu.com/article/4886242.html?f=rss",
-    "summary": "本文来自微信公众号： 师天浩观察 ，作者：勤奋的浩子 七天里，DeepSeek调了两次价。 第一次发生在8月13日晚。与V4 Pro正式版上线同一份公告里，Deepseek给出了新价格。8月17日零时起，旗舰模型V4-Pro高峰时段的输出价从每百万Tokens 6元涨到27元，涨幅350%；缓存命中的输入价从0.025元涨到0.30元，是原来的12倍。一同引入的还有峰谷计价，也就是每天上午9点到12点、下午2点到6点算高峰，其余时段半价。 第二次在六天后。8月23日零时起，周六周日全天不再区分峰谷，统一按低谷价收费。 一周两调，一次抬价、一次变相降价，似乎自相矛盾，实则是同一件事。高峰时段的算力不够分了，要用价格这个无形的手把对时间不敏感的需求，分流去夜里和周末。 市场对价格最敏感，先读懂了第一次。8月17日新价生效当天，A股算力板块异动，太辰光20%涨停。 市场读到的不是Token\"贵了\"，是算力\"缺了\"。 但第二次调价后的第一个交易日，8月24日，市场却遇冷。收盘时，沪指跌0.61%，深成指跌2.11%，创业板指跌3.14%，其中，算力硬件领跌：中际旭创A股收跌7.44%，报872.88元，全天成交超过300亿元，主力资金净卖出超39亿元；它的港股跌超12%，报1002港元，A+H市值跌破万亿。天孚通信跌超11%，新易盛跌超9%，一周前涨停的太辰光，跌超8%。 同一天，阿里巴巴",
+    "id": "news--1787760590000",
+    "title": " 中美“新星球大战” ",
+    "link": "https://www.huxiu.com/article/4886284.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 同一个夏天，大洋两岸出现了三个颇有意味的画面。 7月10日中午，一枚63米高的长征十号乙从海南升空。大约6分钟后，它的一级从高空返回，向“领航者”号回收船快速逼近。甲板上没有SpaceX式的着陆圆盘，而是四根高强度缓冲拦阻索组成的“井”字网，火箭调整姿态、减速、对准，最终被这张网稳稳捕获。 这是中国第一次成功实施运载火箭一级可控回收，也是全球第一次海上网系回收。这次没有照抄猎鹰9号伸出着陆腿的姿势，而是选择了另一条工程路线。 就在40天后，8月19日早晨，蓝箭航天的朱雀三号遥二成功入轨。一级返回地面，展开栅格舵和着陆腿，垂直站在回收场上。这一次，中国民营火箭采用了过往更熟悉和成熟的“猎鹰式”落地，完成了中国第一次着陆腿方式的陆地可控回收。两种路线在40天内先后跑通，中国可重复使用火箭终于走到轨道级实战。 而就在朱雀三号落地的同一天，SpaceX完成了2026年的第100次发射。其中97次由猎鹰9号完成；执行这次任务的一级助推器，已经是第12次飞行。 截至2026年8月，SpaceX的猎鹰系列火箭一级助推器累计成功回收651次。这里还没有把星舰Super Heavy的塔架捕获、海上溅落，以及龙飞船和整流罩回收计算在内。真正的差距，不是会不会，而是能不能把一次壮举变成每天都在发生的工业日常。 我们可以下一个直接的判断：新的“星球大战”已",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
@@ -106,10 +197,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-runable-hits-21m-to-bet-ai-agents-can-go-from-building-busin-1787742000000",
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "id": "news-openai-releases-its-official-report-on-the-hugging-face-brea-1787771122000",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -119,28 +210,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-workforce-risk-that-doesn-8217-t-show-up-in-your-engagem-1787746508000",
-    "title": "The workforce risk that doesn&#8217;t show up in your engagement survey",
-    "link": "https://hrexecutive.com/the-workforce-risk-doesnt-show-up-in-engagement-survey/",
-    "summary": "Recent data show a shift in the dominant workforce health risk and a more complicated picture of disengagement than the numbers suggest. The post The workforce risk that doesn&#8217;t show up in your engagement survey appeared first on HR Executive .",
+    "id": "news-layoff-trackers-are-a-8216-rearview-mirror-8217-says-jason-a-1787745606000",
+    "title": "Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook",
+    "link": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
+    "summary": "Layoff numbers hide the real shift. Jason Averbook explains why HR leaders should manage workforce skills, not headcount, in 2026. The post Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook appeared first on HR Executive .",
     "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-new-york-times-presses-eeoc-for-white-bias-records-in-foia-l-1787686080000",
-    "title": "New York Times presses EEOC for White bias records in FOIA lawsuit",
-    "link": "https://www.hrdive.com/news/new-york-times-eeoc-white-bias-records-foia-lawsuit/828735/",
-    "summary": "The media giant alleged the agency has dragged its feet and ignored the Times&rsquo; inquiries about when its requests for information will be met.",
-    "publishedAt": "2026-08-25",
+    "id": "news-ai-is-evolving-faster-than-humans-can-assess-how-best-to-use-1787751960000",
+    "title": "AI is evolving faster than humans can assess how best to use it",
+    "link": "https://www.hrdive.com/news/ai-is-evolving-faster-than-humans-can-assess-how-best-to-use-it/828761/",
+    "summary": "Existing frameworks aren&rsquo;t equipped to understand what performance will look like in the artificial intelligence era, Talogy said in its report.",
+    "publishedAt": "2026-08-26",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -157,10 +250,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787746603000",
-    "title": " 康柏西普收入大降，拖累康弘药业业绩 ",
-    "link": "https://www.huxiu.com/article/4886243.html?f=rss",
-    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：小米 8月26日，康弘药业披露公司2026半年报，公司实现营业收入21.79亿元，同比下降11.19%，归母净利润为5.65亿元，同比下降22.61%，营收、净利润双双下降。公司指出：2026上半年经营业务没有发生重大变化，专注于药品、医疗器械的研发、生产与销售。 康柏西普为核心的生物药收入萎缩是拖累业绩的主要原因。康弘药业上半年生物药实现收入11.02亿元，同比下降18.13%。这部分营收依然占到总收入的50.54%，直接拉低了整体营收水平。 去年开始，眼底领域冲进来几匹黑马：罗氏的法瑞西单抗、诺华的布西珠单抗，给中国市场传统的三大品种带来变数。康柏西普曾经是康弘药业对抗罗氏、诺华两大外企的核心品种，是公司的现金奶牛。但竞争对手在不断翻新，康弘药业在康柏西普之后却迟迟没有再有新品上市。这严重拖累了公司的业绩。 除康柏西普之外，康弘药业其他中药化药业务基本没有太大的亮点。根据康弘药业的计划，今后将布局基因治疗和创新药两大领域的研发，寄希望在康柏西普之后再造增长点。但这个计划显得有些漫长。 康柏西普收入大幅下降 康柏西普2014年正式推向市场，拜耳的同类药物阿柏西普2018年才正式进入中国。因此在国际上，阿柏西普一枝独秀，占领眼底疾病核心地位；但在中国市场上，康柏西普却能和阿柏西普掰掰手腕。 康弘药业过去十年的业绩增长主要依赖康柏",
+    "id": "news--1787760484000",
+    "title": " 固废资源化的黄金五年②：磷石膏资源化的起势、困局与出路 ",
+    "link": "https://www.huxiu.com/article/4886283.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：当前，磷石膏资源化市场起势，在业内关注度骤增，但这门生意大有门道。 未来5年，固废资源化成为固废领域的核心主线。《青山产业评论》将结合近年在该领域的调研，陆续推出系列文章，逐一拆解各细分赛道的真实机会、核心堵点与商业化方向。本篇为该系列第②篇，持续更新，敬请期待！ 2026年的宜昌，几类看起来很不一样的磷石膏项目几乎同时出现。 一边是200万吨级的磷石膏制酸联产项目和100万吨级的制酸联产胶凝材料项目；另一边，是5万吨级的磷石膏基塑料空心板和包装箱项目。与此同时，当地仍在推进磷石膏堆场风险治理和无害化处理设施建设。 如果只看项目名称，这些都可以被放进“磷石膏资源化”这个大筐里。 但行内人都清楚，它们其实不是同一种生意。 堆场治理解决的是历史责任，制酸联产解决的是磷化工集团内部的物料闭环，高值复合材料争取的是产品溢价。三类项目的付费者、投资强度、消纳规模、销售难度和责任周期完全不同。 这也是理解磷石膏市场最容易被忽略的一点：所谓资源化，从来不是一条从废物直接通向利润的直线。 长期以来，行业习惯用两个数字描述进展——建了多少产能，综合利用率提高了多少。 但对经营者来说，真正有意义的问题是：一吨磷石膏离开磷化工装置以后，谁为它付钱，谁保证它被真正用掉，谁承担产品不合格、项目结束和环境风险留下来的责任。 而这个答案，如今正在发生",
     "publishedAt": "2026-08-26",
     "source": "虎嗅",
     "tags": [
@@ -196,10 +289,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ventures-platform-goes-bigger-and-broader-with-its-second-af-1787727600000",
-    "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-    "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+    "id": "news-flipboard-acquires-graze-the-feed-builder-working-to-monetiz-1787769340000",
+    "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+    "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+    "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -209,10 +302,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-layoff-trackers-are-a-8216-rearview-mirror-8217-says-jason-a-1787745606000",
-    "title": "Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook",
-    "link": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
-    "summary": "Layoff numbers hide the real shift. Jason Averbook explains why HR leaders should manage workforce skills, not headcount, in 2026. The post Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook appeared first on HR Executive .",
+    "id": "news-ai-didn-t-invent-hiring-fraud-it-made-it-harder-to-see-1787744725000",
+    "title": "AI didn’t invent hiring fraud. It made it harder to see",
+    "link": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
+    "summary": "A recent panel discussed how, as job candidates use AI to prepare more effectively, the old issue of hiring fraud becomes harder to stop. The post AI didn’t invent hiring fraud. It made it harder to see appeared first on HR Executive .",
     "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
@@ -222,17 +315,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-mentorship-looks-like-in-the-disconnected-era-1787672400000",
-    "title": "What mentorship looks like in the disconnected era",
-    "link": "https://www.hrdive.com/news/what-mentorship-looks-like-in-the-disconnected-era/828651/",
-    "summary": "Successful mentorship programs are often guided but not too structured and don&rsquo;t rely on managers being default mentors, experts told HR Dive.",
+    "id": "news-new-york-times-presses-eeoc-for-white-bias-records-in-foia-l-1787686080000",
+    "title": "New York Times presses EEOC for White bias records in FOIA lawsuit",
+    "link": "https://www.hrdive.com/news/new-york-times-eeoc-white-bias-records-foia-lawsuit/828735/",
+    "summary": "The media giant alleged the agency has dragged its feet and ignored the Times&rsquo; inquiries about when its requests for information will be met.",
     "publishedAt": "2026-08-25",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -246,20 +338,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1787746431000",
-    "title": " 北大教授被骂的原因：灵活不是福利，选择权才是 ",
-    "link": "https://www.huxiu.com/article/4886241.html?f=rss",
-    "summary": "本文来自微信公众号： 古典古少侠 ，作者：古典古少侠 8月21日，北大国发院教授张丹丹在节目中说，“灵活（用工）本身就是一种福利”，被骂上热搜： “你一个教授站着说话不腰疼，我们灵活用工都是没办法的办法。” “送个外卖，开个网约车都能是福利？真是何不食肉糜！” 为张丹丹说句公道话，她的表达被误解了： 在完整视频里，她说了“很多人没得选，因为找不到带劳工合同、五险一金的工作”；过去10年，张丹丹带队调研3万余名骑手社保意愿、主张\"非捆绑式\"参保方案、还把研究做成泉州和南通试点政策的经济学者。她一直很站骑手们。 但为什么对灵活用工的讨论，会激发这么大的讨论？ 因为未来每个人都有可能”被灵活就业“。有报告预测2026年的灵活就业者是3.2亿。全国劳动人口才7.25亿，也就是说每4个有工作的人，有1个在“灵活就业”。 加上AI进化，3年后，灵活就业会成为新常态。上班和接活，五五开。 而灵活用工的主语，从来都是企业，不是个体。 灵活用工是企业灵活用你，并不是你灵活。在议价能力不对等的交易里面，自由是定量的，对方灵活了，你就不灵活了。 这种灵活的“福利”，每个打工人都会有机会“享受”。 那该如何看待这种灵活？ 该如何脱离被动“灵活”？拿回个体的选择权？ 这是我今天写文章想聊聊的。 01 灵活用工并不灵活 困局1：貌似自由，其实被要求 假如你是一个骑手，你可以选择几点上线，但上线之后，接什么单、",
-    "publishedAt": "2026-08-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -289,10 +367,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-8217-s-ringg-gets-backing-from-peak-xv-as-it-pushes-vo-1787715000000",
-    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "id": "news-medical-device-maker-boston-scientific-says-a-cyberattack-is-1787768589000",
+    "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
+    "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+    "summary": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
     "publishedAt": "2026-08-26",
     "source": "TechCrunch",
     "tags": [
@@ -302,95 +380,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-didn-t-invent-hiring-fraud-it-made-it-harder-to-see-1787744725000",
-    "title": "AI didn’t invent hiring fraud. It made it harder to see",
-    "link": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
-    "summary": "A recent panel discussed how, as job candidates use AI to prepare more effectively, the old issue of hiring fraud becomes harder to stop. The post AI didn’t invent hiring fraud. It made it harder to see appeared first on HR Executive .",
+    "id": "news-privacy-risk-employee-monitoring-apps-sharing-worker-data-wi-1787743858000",
+    "title": "Privacy risk? Employee-monitoring apps sharing worker data with Big Tech",
+    "link": "https://hrexecutive.com/employee-monitoring-apps-send-worker-data-to-facebook-google-and-microsoft-report-finds/",
+    "summary": "A study of nine workplace-monitoring apps found worker data shared with Facebook, Google and Microsoft, often without clear disclosure. The post Privacy risk? Employee-monitoring apps sharing worker data with Big Tech appeared first on HR Executive .",
     "publishedAt": "2026-08-26",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-healthcare-costs-could-rise-by-nearly-10-in-2027-1787670660000",
-    "title": "Healthcare costs could rise by nearly 10% in 2027",
-    "link": "https://www.hrdive.com/news/healthcare-costs-could-rise-by-nearly-10-in-2027/828688/",
-    "summary": "Employers cover more than 80% of the burden, but employees will also be hit by rising costs, an Aon report found.",
-    "publishedAt": "2026-08-25",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1787735828000",
-    "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
-    "link": "https://www.qbitai.com/2026/08/479808.html",
-    "summary": "长乐机场综保区智算中心全栈算电协同服务",
-    "publishedAt": "2026-08-26",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-500-agent-1787745897000",
-    "title": " 把500元退款交给Agent之后 ",
-    "link": "https://www.huxiu.com/article/4886235.html?f=rss",
-    "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 今年5月，龚先生在一家二手车交易平台询问一辆车的费用。平台官方AI客服“小瓜”给出的答复很明确：2.87万元报价已经包含过户和上牌费用。得到这个答案后，龚先生支付了2000元定金。等到线下办理手续，销售人员却又要求他支付1000元过户费。 AI说费用已经包含，销售说还要另付。对消费者来说，麻烦不只在于多出1000元，而在于他已经根据平台给出的答案付了定金。 这类纠纷正在改变AI客服问题的性质。过去的主要问题是听不懂、答非所问、不肯转人工。现在，AI开始进入价格、退款、赔偿和处理资格等真实业务。它不只需要给出一个听起来合理的回答，还要把回答变成企业能够执行的处理结果。 矛盾也从这里出现。AI认为用户符合退款条件，后台系统却无法退款；AI给出明确报价，销售人员却执行另一套规则；AI已经把会话推进到下一步，人工接手后又要从头确认。模型能够完成的工作越来越多，企业原来的数据、规则、权限和人工流程却没有同步改变。 如果AI只负责给客服提供建议，这些问题还可以留给员工处理。当AI开始自己判断、调用系统和推进任务，原来围绕人设计的流程就会不断出现摩擦。 淘宝客服的两次现场实验，正好展示了这条分界线：同样是AI进入客服，一个主要提高员工效率，另一个已经开始改变整条服务流程。 01两次AI进入客服的实验 第一次实验中，AI坐在客服旁边。 2024",
-    "publishedAt": "2026-08-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1787741498000",
-    "title": "不打AI与即时零售的仗，拼多多是清醒，还是保守？",
-    "link": "https://www.tmtpost.com/8117355.html",
-    "summary": "拼多多的核心逻辑是围绕电商平台，做好服务，做大生态，没有讲出新的故事。这种战略，可以说是理性、不折腾，对于资金充盈、管理效率极高的拼多多，也可以说是过于保守。",
-    "publishedAt": "2026-08-26",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-addressing-a-sticking-point-in-sustainable-adhesives-1787691600000",
-    "title": "Addressing a sticking point in sustainable adhesives",
-    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;",
-    "publishedAt": "2026-08-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-robotics-startup-generalist-reaches-3b-valuation-sources-say-1787704859000",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-    "publishedAt": "2026-08-26",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "ai-hr"
     ]
   }
 ];
@@ -744,6 +742,56 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137123",
+    "title": "OVERNIGHT SHIFT Retail Merchandiser",
+    "company": "Bass Pro Shops",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Summary: Reporting to the Overnight Supervisor, the Overnight Task Team Outfitter assists in the overall operational function of the retail store by reducing th"
+    ],
+    "skills": [
+      "LLM"
+    ],
+    "location": "Winnipeg, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123",
+    "postedAt": "2026-08-25",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137132",
+    "title": "Retail Assistant Store Manager",
+    "company": "Skechers",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Who We Are Headquartered in Southern California, Skechers—the Comfort Technology Company®—has spent over 30 years helping men, women, and kids everywhere look and feel good",
+      "Comfort innovation is at the core of everything we do, driving the development of stylish, high-quality products at a great va"
+    ],
+    "skills": [],
+    "location": "Barceloneta, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
+    "postedAt": "2026-08-25",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137126",
+    "title": "Rural and Suburban Mail Carrier Allan RR1",
+    "company": "Canada Post / Postes Canada",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Requisition Id: 202867 Business Function: Rural and Suburban Mail Carriers Primary City: Allan Province: Saskatchewan Employment Type: Full-Time Employment "
+    ],
+    "skills": [
+      "AWS"
+    ],
+    "location": "Allan, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
+    "postedAt": "2026-08-25",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137114",
     "title": "Senior Backend Engineer Build AI Agents",
     "company": "Salesforge",
@@ -860,7 +908,7 @@ export const generatedJobs: JobPosting[] = [
     "company": "Power FM Bega Bay",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTcyLjIwOC4xMjcuMjQy when applying to show you read the job post completely (#RMTcyLjIwOC4xMjcuMjQy)",
+      "Location Moruya Job Type Full-time Salary $80k-90k Please mention the word **AMAZEMENT** and tag RMTcyLjE3MS4xMDcuOTI= when applying to show you read the job post completely (#RMTcyLjE3MS4xMDcuOTI=)",
       "This is a beta feature to avoid spam applicants",
       "Companies can search these words to find applicants"
     ],
@@ -870,56 +918,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
     "postedAt": "2026-08-18",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137054",
-    "title": "Mairoom Clerk",
-    "company": "TPH",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Mailroom Clerk Location: Bay Street &amp; King Street Area, Toronto Hours: 8:00 a.m",
-      "to 4:30/5:00 p.m",
-      "Schedule: Full-time, in-office, Monday to Friday We are seeking a reliable and organized Mailroom Clerk to support the daily mail and courier operations within our professional law office"
-    ],
-    "skills": [],
-    "location": "Toronto, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
-    "postedAt": "2026-08-18",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136991",
-    "title": "Ground Staff Required Thiruvananthapuram Airport",
-    "company": "Fronix Services",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "They are the one to perform all tasks from comme"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Thiruvananthapuram, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991",
-    "postedAt": "2026-08-17",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137056",
-    "title": "Hiring For Air Ticketing Ground Staff",
-    "company": "Fronix Services",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Dear Candidate, Greetings for the day"
-    ],
-    "skills": [],
-    "location": "Kochi, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
-    "postedAt": "2026-08-17",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-26T12:43:29.693Z';
+export const dataFetchedAt = '2026-08-26T19:44:20.818Z';
