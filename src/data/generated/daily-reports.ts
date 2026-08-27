@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-28-auto",
+    "date": "2026-08-28",
+    "session": "auto",
+    "title": "2026-08-28 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-28-auto-1",
+        "emoji": "⚠️",
+        "title": "A startup claims it’s found a drug to make your blood young",
+        "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+        "detail": "来源: MIT Technology Review。I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+      },
+      {
+        "id": "sig-2026-08-28-auto-2",
+        "emoji": "⚠️",
+        "title": "Rivian&#8217;s CFO is leaving the company",
+        "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+        "detail": "来源: TechCrunch。Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/"
+      },
+      {
+        "id": "sig-2026-08-28-auto-3",
+        "emoji": "🚨",
+        "title": "New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating",
+        "summary": "New hires name five onboarding frustrations, from repeat forms to lost documents. See what employees say HR keeps getting wrong. The post New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating appeared first on HR Executive .",
+        "detail": "来源: HR Executive。New hires name five onboarding frustrations, from repeat forms to lost documents. See what employees say HR keeps getting wrong. The post New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/new-hires-name-5-onboarding-icks-hr-keeps-repeating/"
+      },
+      {
+        "id": "sig-2026-08-28-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：VBVR-Pro: A Scalable and Verifiable Suite for Native Visual ...",
+        "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c",
+        "detail": "作者: Junxiang Xu, Ruisi Wang, Fanyi Pu。Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning through generation trainable, verifiable, optimizable, and experimentally controllable. 1) Task scaling. VBVR-Pro turns visual reasoning into a controlled task space of 300 procedurally generated tasks. Models trained on VBVR-Pro show strong transfer beyond the proposed suite across seven external visu",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.26105v1"
+      },
+      {
+        "id": "sig-2026-08-28-auto-5",
+        "emoji": "💼",
+        "title": "JD.COM 正在招募 Equipment Maintenance",
+        "summary": "岗位类型：业务+AI 复合岗。Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com",
+        "detail": "技能要求: 未标注。Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com Built on deep expertise in automation, smart fulfilment, and data intelligence, we operate end-to-end logistics services that empower busine",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "JD.COM"
+        ],
+        "sourceType": "tech",
+        "sourceName": "JD.COM",
+        "link": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-28-1",
+        "priority": "medium",
+        "action": "关注「A startup claims it’s found a drug to ma」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-28-2",
+        "priority": "medium",
+        "action": "关注「Rivian&#8217;s CFO is leaving the compan」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-28-3",
+        "priority": "high",
+        "action": "关注「New hires name 5 onboarding &#8216;icks&」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-28-4",
+        "priority": "medium",
+        "action": "关注「研究速递：VBVR-Pro: A Scalable and Verifiable」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-28-5",
+        "priority": "medium",
+        "action": "关注「JD.COM 正在招募 Equipment Maintenance」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "JD.COM"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-28 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-08-28 00:00 - 2026-08-28 23:59"
+  },
+  {
     "id": "report-2026-08-27-auto",
     "date": "2026-08-27",
     "session": "auto",

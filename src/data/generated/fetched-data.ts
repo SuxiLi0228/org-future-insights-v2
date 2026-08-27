@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-inside-story-on-why-openai-agents-hacked-hugging-face-1787770800000",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
-    "publishedAt": "2026-08-26",
+    "id": "news-a-startup-claims-it-s-found-a-drug-to-make-your-blood-young-1787860093000",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+    "publishedAt": "2026-08-27",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-closes-in-on-hugging-face-acquisition-1787812371000",
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "id": "news-rivian-8217-s-cfo-is-leaving-the-company-1787862190000",
+    "title": "Rivian&#8217;s CFO is leaving the company",
+    "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+    "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
     "publishedAt": "2026-08-27",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-universal-health-would-cut-u-s-provider-revenue-21-researche-1787747450000",
-    "title": "Universal health would cut U.S. provider revenue 21%, researchers predict",
-    "link": "https://hrexecutive.com/universal-health-would-cut-u-s-provider-revenue-21-researchers-predict/",
-    "summary": "The researchers think using a \"Medicare for All\" system to eliminate health insurance and health plans would cut the net effect to 11%. The post Universal health would cut U.S. provider revenue 21%, researchers predict appeared first on HR Executive .",
-    "publishedAt": "2026-08-26",
+    "id": "news-new-hires-name-5-onboarding-8216-icks-8217-hr-keeps-repeatin-1787833833000",
+    "title": "New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating",
+    "link": "https://hrexecutive.com/new-hires-name-5-onboarding-icks-hr-keeps-repeating/",
+    "summary": "New hires name five onboarding frustrations, from repeat forms to lost documents. See what employees say HR keeps getting wrong. The post New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating appeared first on HR Executive .",
+    "publishedAt": "2026-08-27",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -39,17 +39,106 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shrm-tentatively-backs-end-of-eeo-1-reports-but-investor-gro-1787775060000",
-    "title": "SHRM tentatively backs end of EEO-1 reports, but investor group calls them ‘vital’",
-    "link": "https://www.hrdive.com/news/shrm-tentatively-backs-end-of-eeo-1-reports-investor-group/828868/",
-    "summary": "The pair of public comments pushes back against EEOC&rsquo;s assertion that the data collection program is overly burdensome.",
-    "publishedAt": "2026-08-26",
+    "id": "news-this-week-in-5-numbers-healthcare-costs-per-employee-could-e-1787861760000",
+    "title": "This week in 5 numbers: Healthcare costs per employee could exceed $19K next year",
+    "link": "https://www.hrdive.com/news/healthcare-costs-per-employee-could-exceed-19k-next-year/828971/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much time The New York Times wants a court to give the U.S. Equal Employment Opportunity Commission to fulfill a records request.",
+    "publishedAt": "2026-08-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-minimax-arr-500-token-2000-agent-1787832970000",
+    "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+    "link": "https://www.qbitai.com/2026/08/480092.html",
+    "summary": "好能增长，好能商业化啊！",
+    "publishedAt": "2026-08-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787846978000",
+    "title": " 从前晒包，现在晒展：这届中产的刚需变了 ",
+    "link": "https://www.huxiu.com/article/4886597.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 8月18日，上海书展落幕的日子，一个上班日的周二。傍晚前赶到现场，人流依然相当可观，展厅里人山人海。直到华灯初上、快要毕展时，场内人流依旧未减。因为毕展前很多摊位都有一些类似收摊甩卖的优惠，收银台反倒更加热闹。 我也忍不住频频“剁手”，入手的文创里最有趣的一件，来自“宛平南路600号”——上海市精神卫生中心的帆布袋。这两年，这家医院的文创出人意料地成了出圈顶流，人们背上它，笑称自己的精神状态再次得到肯定。 一家精神卫生中心的周边，在一个书展上被欣然买走，好像对，又好像哪里不太对。 第二天，刷到新闻，今年书展又创了新高。可是，身边刷短视频的人好像越来越多，看书的人似乎越来越少，出版社也在抱怨行业越来越难，怎么书展反倒成了香饽饽？ 这，对吗？ 为了证实我的体感，不由想起还在创投机构工作时，投资行业常说的一句话：感性要结合理性——用感性做判断，再用理性去验证。 那就让我们来看看，权威报道和研究数据到底怎么说。 书展的账本：周边卖的比书好 先上本届上海书展的账本。 周六单日入场突破6.5万人次，周日再破7万，连续刷新纪录；而上一届的数据同样可观：七天入场38万余人次，同比增长近三成，图书销售码洋同比增长31.6%。 所以，这几年参加书展的体感没有骗我——书展确实在创收，而且颇为可观。 但真正耐人寻味的，是账本的另一行：文创产品销售收入同比增长",
+    "publishedAt": "2026-08-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-134-1787839564000",
+    "title": "“全球AI药物递送第一股”的半年考：134倍营收，成色几何",
+    "link": "https://www.tmtpost.com/8119542.html",
+    "summary": "美国市场贡献1.379亿元，占总收入89.35%，单一最大客户占比同样高达89.35%。",
+    "publishedAt": "2026-08-27",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-inside-openai-8217-s-hugging-face-hack-and-a-ne-1787832600000",
+    "title": "The Download: inside OpenAI&#8217;s Hugging Face hack, and a new EV takes on the US",
+    "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;",
+    "publishedAt": "2026-08-27",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-bluesky-adds-an-8216-algorithmic-opt-out-8217-feature-for-th-1787861726000",
+    "title": "Bluesky adds an &#8216;algorithmic opt-out&#8217; feature for those who don&#8217;t want to go viral",
+    "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+    "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+    "publishedAt": "2026-08-27",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-average-hsa-balances-hit-record-high-1787832926000",
+    "title": "Average HSA balances hit record high",
+    "link": "https://hrexecutive.com/average-hsa-balances-hit-record-high/",
+    "summary": "Despite average balances reaching a new high, few account holders contributed the maximum amount. The post Average HSA balances hit record high appeared first on HR Executive .",
+    "publishedAt": "2026-08-27",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-dol-other-agencies-address-questions-about-wellness-program--1787861760000",
+    "title": "DOL, other agencies address questions about wellness program surcharges",
+    "link": "https://www.hrdive.com/news/dol-guidance-tobacco-surcharge-wellness-program/828995/",
+    "summary": "Aspects of the&nbsp;Employee Retirement Income Security Act that were once seen as &ldquo;settled&rdquo; continue to be challenged, an attorney told HR Dive.",
+    "publishedAt": "2026-08-27",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
     ]
   },
   {
@@ -66,10 +155,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787814000000",
-    "title": " 开店不如做黄牛？餐饮灰色产业链有多疯狂？ ",
-    "link": "https://www.huxiu.com/article/4886153.html?f=rss",
-    "summary": "排号本是免费，却成了可以明码标价的商品，消费者不想等花钱买时间，普通顾客被迫为原本免费的服务掏腰包。 &nbsp;",
+    "id": "news--1787846971000",
+    "title": " 东方甄选、与辉同行、美丽明天：离开之后，没有赢家与输家，只有三种资产 ",
+    "link": "https://www.huxiu.com/article/4886596.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：战魔田默 董宇辉离开后的第一个完整财年，东方甄选净利润从619万元增至5.44亿元。 8月21日发布的2026财年业绩显示，东方甄选营收57.01亿元，同比增长29.8%；经调整净利润6.29亿元，同比增长262.2%。 董宇辉和与辉同行继续经营以个人表达为核心的内容与商业共同体。孙东旭、明明、天权等人组成美丽明天，重新进入直播带货市场。8月2日首播时，其直播间半小时在线人数突破10万，一度登上抖音带货总榜首位。 一边是上市公司利润修复，一边是超级个体继续放大影响力，另一边是原管理者与主播以团队方式重新创业。舆论很容易把它们写成一场胜负已分的比赛。平台似乎证明了谁都可以被替代，个人则证明离开平台依然能够成功，出走团队还要证明那场成功从来不只属于某一个人。 但三条路径面对的并不是同一种考验，也不该被压缩成一家公司的内部恩怨。 直播电商走过流量爆发期以后，平台、超级个体和创业团队正在沿着不同方向回答同一道商业命题。人的价值如何被看见，个人能力如何进入组织，一次爆发又如何沉淀为可持续的经营能力，都需要重新寻找答案。 它们背后发生的，也不只是一家公司的组织裂变。直播电商的经营范式，正在从高度依赖流量与超级主播，转向系统经营能力竞争。 一场裂变，三种能力 先看平台。 东方甄选2026财年的GMV达到102亿元，其中自营产品GMV为54亿元，占比约52",
     "publishedAt": "2026-08-27",
     "source": "虎嗅",
     "tags": [
@@ -79,10 +168,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-435-1-44-1787813569000",
-    "title": "安踏半年营收435.1亿元，迪桑特、可隆等其他品牌上涨44%",
-    "link": "https://www.tmtpost.com/8118618.html",
-    "summary": "如何激活体量最大的安踏主品牌，平衡大众规模、专业升级与盈利效率，将是决定安踏中长期价值的关键。",
+    "id": "news-27-43-88-54-1787838846000",
+    "title": "营收降27.43%、扣非降88.54%，天臣医疗进入“换挡窗口期”丨看财报",
+    "link": "https://www.tmtpost.com/8119399.html",
+    "summary": "企业步入老产品增长退坡、新产品尚未接力的换挡窗口期，多重经营压力在上半年集中显现。",
     "publishedAt": "2026-08-27",
     "source": "钛媒体",
     "tags": [
@@ -93,11 +182,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
-    "publishedAt": "2026-08-26",
+    "id": "news-is-slate-auto-8217-s-new-electric-truck-the-ev-americans-nee-1787824800000",
+    "title": "Is Slate Auto&#8217;s new electric truck the EV Americans need?",
+    "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+    "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems&#8230;",
+    "publishedAt": "2026-08-27",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -105,10 +194,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-viral-ai-startup-instinct-has-raised-350m-at-a-2-5b-valuatio-1787790297000",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "id": "news-buried-in-meta-8217-s-18b-settlement-is-a-legal-pass-on-kids-1787861066000",
+    "title": "Buried in Meta&#8217;s $18B settlement is a legal pass on kids&#8217; data",
+    "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+    "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
     "publishedAt": "2026-08-27",
     "source": "TechCrunch",
     "tags": [
@@ -118,23 +207,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-workforce-risk-that-doesn-8217-t-show-up-in-your-engagem-1787746508000",
-    "title": "The workforce risk that doesn&#8217;t show up in your engagement survey",
-    "link": "https://hrexecutive.com/the-workforce-risk-doesnt-show-up-in-engagement-survey/",
-    "summary": "Recent data show a shift in the dominant workforce health risk and a more complicated picture of disengagement than the numbers suggest. The post The workforce risk that doesn&#8217;t show up in your engagement survey appeared first on HR Executive .",
-    "publishedAt": "2026-08-26",
+    "id": "news-ai-resume-screening-is-creating-a-visibility-gap-for-recruit-1787832051000",
+    "title": "AI resume screening is creating a ‘visibility gap’ for recruiters",
+    "link": "https://hrexecutive.com/ai-resume-screening-is-creating-a-visibility-gap-for-recruiters/",
+    "summary": "Recruiters report they're getting more qualified candidates through AI resume screening but still worry the tech is cutting some applicants out too early. The post AI resume screening is creating a ‘visibility gap’ for recruiters appeared first on HR Executive .",
+    "publishedAt": "2026-08-27",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-deloitte-to-pay-21-5m-to-settle-claims-its-dei-programs-viol-1787775060000",
-    "title": "Deloitte to pay $21.5M to settle claims its DEI programs violated federal civil rights law",
-    "link": "https://www.hrdive.com/news/deloitte-to-pay-215m-to-settle-claims-its-dei-programs-violated-federal-c/828843/",
-    "summary": "&ldquo;Government contractors cannot reward or penalize employees based on race or sex,&rdquo; the attorney general said.",
-    "publishedAt": "2026-08-26",
+    "id": "news-employers-at-an-inflection-point-as-health-costs-near-double-1787848020000",
+    "title": "Employers at an ‘inflection point’ as health costs near double-digit increases",
+    "link": "https://www.hrdive.com/news/employers-inflection-point-health-costs-double-digit-increases/828965/",
+    "summary": "But many won&rsquo;t be able to take drastic cost-cutting measures until 2028 at the earliest, the Business Group on Health&#39;s president and CEO said.",
+    "publishedAt": "2026-08-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -157,23 +247,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787813997000",
-    "title": " 制度的两面：人没上车，座位归谁？ ",
-    "link": "https://www.huxiu.com/article/4886419.html?f=rss",
-    "summary": "本文来自微信公众号： Nuanzhi笔记 ，作者：Nuanzhi 最近的互联网上，一个空座引发了一场争论。三人实名买了三个相连的硬座，最终只有两个女孩检票上车，母亲并未乘车。女孩把空座用来放零食，一名持无座票的乘客想临时坐下，被女孩拒绝。 围绕这件事，公众讨论大多停留在道德与权利的表层。 一派强调公共属性，认为春运和长途列车运力紧张，人既然没来，座位空着就是浪费，理应让给站着的乘客。 另一派强调契约产权，认为票是自己花钱买的，也没退票，旅客付了对价，就拥有这个座位在这一区段的完整使用权，无论空着还是给同行人用，外界都无权干涉。 最终，铁路部门给出明确结论，未检票乘车视为放弃该区段席位使用权，同行人无权占用，由列车工作人员根据现场情况统筹安排。这个处理结果符合现行规则。 要真正理解规则背后的逻辑，其实不必急着陷入公共利益与个人权利孰轻孰重的争论。 不妨直接退一步，在逻辑上先接受后者的观点。母亲花钱买了票，就拥有这个座位的权利，也完全有权把这份权利赠予女儿。 即便在这个前提下，这个问题依然没有多少可实操性。因为一旦进入制度的实际运行，所有关于权利处分的流程，都会面临一个问题。女儿该如何向铁路证明，母亲真的把座位交给了她？ 一、私域默契，过不了公域证明 在家庭内部，母亲交代一句把座位留给你们用，女儿照做即可。 但公共系统不是家庭的延伸。 在铁路系统的底层逻辑里，没有母女，只有三个独立的实",
-    "publishedAt": "2026-08-27",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-h9-1787813530000",
-    "title": "长城H9力魂版上市，硬派越野把改装生意做回了原厂",
-    "link": "https://www.tmtpost.com/8118956.html",
-    "summary": "把越野改装进一步纳入原厂体系，也折射出硬派SUV从专业工具向家庭化“玩具”演进的新趋势。",
+    "id": "news--1787838672000",
+    "title": "新车密集接棒，理想汽车的盈利修复押在四季度",
+    "link": "https://www.tmtpost.com/8119600.html",
+    "summary": "理想汽车半年亏40亿：销量基本盘还在，利润基本盘松了。",
     "publishedAt": "2026-08-27",
     "source": "钛媒体",
     "tags": [
@@ -184,24 +261,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-raised-on-ai-1787734800000",
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "id": "news-the-inside-story-on-why-openai-agents-hacked-hugging-face-1787770800000",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
     "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-amazon-just-tripled-its-order-of-nvidia-chips-over-8216-surg-1787788038000",
-    "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-    "publishedAt": "2026-08-26",
+    "id": "news-youtube-now-lets-creators-tag-amazon-products-and-earn-commi-1787860468000",
+    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+    "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+    "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+    "publishedAt": "2026-08-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -211,11 +287,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-layoff-trackers-are-a-8216-rearview-mirror-8217-says-jason-a-1787745606000",
-    "title": "Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook",
-    "link": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
-    "summary": "Layoff numbers hide the real shift. Jason Averbook explains why HR leaders should manage workforce skills, not headcount, in 2026. The post Layoff trackers are a &#8216;rearview mirror,&#8217; says Jason Averbook appeared first on HR Executive .",
-    "publishedAt": "2026-08-26",
+    "id": "news-the-business-case-for-fair-workweek-compliance-1787831122000",
+    "title": "The business case for fair workweek compliance",
+    "link": "https://hrexecutive.com/the-business-case-for-fair-workweek-compliance/",
+    "summary": "Fair workweek rules were written to protect workers, but it turns out they protect margins too. The post The business case for fair workweek compliance appeared first on HR Executive .",
+    "publishedAt": "2026-08-27",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -224,11 +300,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mckinsey-data-sought-in-congressional-dei-probe-1787759880000",
-    "title": "McKinsey data sought in congressional DEI probe",
-    "link": "https://www.hrdive.com/news/mckinsey-company-dei-reports-republican-investigation/828834/",
-    "summary": "Brandon Gill, a Republican from Texas, decried McKinsey and Co.&rsquo;s&nbsp;&ldquo;heavy-handed&rdquo; promotion of diversity, equity and inclusion practices through its oft-cited reports.",
-    "publishedAt": "2026-08-26",
+    "id": "news-black-cfo-representation-falls-25-from-2021-peak-as-diversit-1787842200000",
+    "title": "Black CFO representation falls 25% from 2021 peak as diversity levels off",
+    "link": "https://www.hrdive.com/news/black-cfo-representation-falls-25-2021-peak-diversity-flatlines/828851/",
+    "summary": "The number of Black finance chiefs in Fortune 500 and S&amp;P 500 companies ticked down to 15 this year, according to the report from Crist Kolder Associates.",
+    "publishedAt": "2026-08-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -250,23 +326,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787813202000",
-    "title": " 系统退出即责任退出？智驾正从“拼功能”到“拼责任承担” ",
-    "link": "https://www.huxiu.com/article/4886414.html?f=rss",
-    "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年8月25日，道路交通安全法修订草案提请十四届全国人大常委会第二十四次会议初次审议。本次修订最受汽车行业关注的调整，是首次设置“自动驾驶汽车的特别规定”专章，在国家法律层面正式区分自动驾驶与辅助驾驶的不同规则。 不少舆论将此次修订解读为责任主体从驾驶人向车企的转移，但这种表述简化了责任体系的完整内涵。不过本次修法仅明确了交通违法行为的行政处理规则，并未覆盖民事赔偿、产品责任与刑事责任的全维度划分。结合2026年先后发布的两项智能网联汽车强制性国家标准，以及国内车企的商业实践，可以看到中国自动驾驶的责任体系正处于分层构建的过程中，法律划定基础边界，标准明确技术底线，市场则先行探索责任承担的具体模式。 ▍责任分层制度体系与用户端的现实矛盾 道路交通安全法修订草案对自动驾驶与辅助驾驶做出了明确的法律区分。草案规定，自动驾驶功能激活状态下发生交通违法行为的，由车辆生产与进口企业承担行政责任；仅具备辅助驾驶功能的车辆，按照普通机动车规则管理，责任由驾驶人承担，但这种转向目前只覆盖行政违法场景，没有完整覆盖民事赔偿、责任判定细则等内容。 在国家标准层面，两项强制标准已经先行补全技术层面的责任底线。2026年6月发布的《智能网联汽车组合驾驶辅助系统安全要求》，明确L2级辅助驾驶系统的安全基线，提出“驾驶员担责不代表系统免责”的核心",
-    "publishedAt": "2026-08-27",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1200-ai-1787811240000",
-    "title": "单季1200亿资本开支，中国互联网的AI千亿豪赌",
-    "link": "https://www.tmtpost.com/8117891.html",
-    "summary": "当中国云厂商的ROIC只有13%-20%，而大洋彼岸的美国同行却能赚到25%-50%时，中美AI算力投资的回报差距，最终会以什么形式收敛？",
+    "id": "news-24-1787836020000",
+    "title": "中科电气：营收增四成利润腰斩，24亿定增扩产成效待考 | 看财报",
+    "link": "https://www.tmtpost.com/8119260.html",
+    "summary": "成本挤压吞噬业绩，行业错配周期调整产能布局。",
     "publishedAt": "2026-08-27",
     "source": "钛媒体",
     "tags": [
@@ -277,10 +340,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-models-flub-these-intelligence-tests-can-you-fare-any-bet-1787734800000",
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
     "publishedAt": "2026-08-26",
     "source": "MIT Technology Review",
     "tags": [
@@ -289,11 +352,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-8217-s-18b-child-safety-deal-hinges-on-age-verification-1787784478000",
-    "title": "Meta&#8217;s $18B child-safety deal hinges on age-verification tech that doesn&#8217;t work well",
-    "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-    "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-    "publishedAt": "2026-08-26",
+    "id": "news-barret-zoph-the-thinking-machines-co-founder-ousted-before-j-1787860372000",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "publishedAt": "2026-08-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -302,11 +365,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-didn-t-invent-hiring-fraud-it-made-it-harder-to-see-1787744725000",
-    "title": "AI didn’t invent hiring fraud. It made it harder to see",
-    "link": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
-    "summary": "A recent panel discussed how, as job candidates use AI to prepare more effectively, the old issue of hiring fraud becomes harder to stop. The post AI didn’t invent hiring fraud. It made it harder to see appeared first on HR Executive .",
-    "publishedAt": "2026-08-26",
+    "id": "news-the-next-frontier-of-hr-tech-voice-video-and-multimodal-ai-1787830207000",
+    "title": "The next frontier of HR tech: Voice, video and multimodal AI",
+    "link": "https://hrexecutive.com/the-next-frontier-of-hr-tech-voice-video-and-multimodal-ai/",
+    "summary": "IEEE predicts AI will shift from text to voice and video within years, and HR tech products are already following suit. The post The next frontier of HR tech: Voice, video and multimodal AI appeared first on HR Executive .",
+    "publishedAt": "2026-08-27",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -315,81 +378,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-related-growth-edges-out-job-cut-fears-in-finance-execs-t-1787751960000",
-    "title": "AI-related growth edges out job cut fears in finance execs’ tech outlook",
-    "link": "https://www.hrdive.com/news/ai-related-growth-edge-job-cut-fears-finance-execs-tech-outlook/828764/",
-    "summary": "In an informal CFO Dive poll, 54% said they see AI&rsquo;s biggest workforce impact being higher employee productivity. &nbsp;",
-    "publishedAt": "2026-08-26",
+    "id": "news-district-hr-leaders-keep-humans-in-decision-making-as-ai-s-p-1787842200000",
+    "title": "District HR leaders: Keep humans in decision-making as AI’s presence grows",
+    "link": "https://www.hrdive.com/news/district-hr-leaders-keep-humans-in-decision-making-as-ais-presence-grows/828894/",
+    "summary": "With artificial intelligence gaining steam in school districts, some HR leaders also say the technology can help them be more efficient.",
+    "publishedAt": "2026-08-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-glm-1787762892000",
-    "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-    "link": "https://www.qbitai.com/2026/08/479919.html",
-    "summary": "GLM-5.3 Flash",
-    "publishedAt": "2026-08-26",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787812852000",
-    "title": " 全球债务周期，恐步入“凭空抹债”阶段 ",
-    "link": "https://www.huxiu.com/article/4886412.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 随着全球长债收益率节节攀升，眼下值得警惕的一个迹象是，高负债压力已在法国引发了取消部分公共债务的呼声…… 对此，知名宏观策略师、Variant Perception联合创始人Simon White在最新报告中发出警告提醒，这种思潮极具传染性。随着各国政府在债务泥潭中艰难挣扎，加上一些政客不断抛出日益激进的政策，预计其他国家很快也会出现类似的非正统诉求。 然而，所有这些方案最终可能都将指向同一个结局：通胀加剧与金融资产贬值！ 一把火把债券烧了？ White指出，全球金融危机的“经典桥段”其实正在当前不断重演。 最新的一例是法国左翼民粹主义政客梅朗雄，他近期呼吁注销该国18%的公共债务——用梅朗雄的话说，就是“把债券拿过来，直接烧掉”。类似的论调人们其实并不陌生：2009年欧元区债务危机爆发时在欧洲听过，大约同一时期美国也出现过。 但债务取消本质上不过是变相的“货币融资”，必然引发剧烈的通货膨胀，White认为，这反而将会让“实物资产优于金融资产”的逻辑更加稳固。 White指出，许多人可能还记得2011年那项(严肃的)提议——该提议后来不得不被官方否认——即由美国财政部铸造一枚1万亿美元面值的铂金币。美联储将用这枚硬币兑换1万亿美元的政府债券，随后财政部将注销这些债券。该计划旨在规避美国在雷曼危机后加速逼近的债务上限。 如今，美国距离触发债",
-    "publishedAt": "2026-08-27",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787807861000",
-    "title": "主动减产，泸州老窖高端酒毛利未伤，预收款水位已降 | 看财报",
-    "link": "https://www.tmtpost.com/8118754.html",
-    "summary": "断点时刻，白酒行业的下滑幅度已非关键，筑底与反弹才是观察的核心风向。",
-    "publishedAt": "2026-08-27",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-bill-gates-says-we-ve-passed-ai-s-danger-thresholds-now-what-1787727660000",
-    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
-    "publishedAt": "2026-08-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-continues-compute-gobbling-streak-in-45b-deal-with-1787780259000",
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "publishedAt": "2026-08-26",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
       "ai",
       "organization"
     ]
@@ -859,6 +857,96 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137151",
+    "title": "Equipment Maintenance",
+    "company": "JD.COM",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com",
+      "Built on deep expertise in automation, smart fulfilment, and data intelligence, we operate end-to-end logistics services that empower busine"
+    ],
+    "skills": [],
+    "location": "Lutterworth, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
+    "postedAt": "2026-08-26",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137139",
+    "title": "Course Director UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You've been designing long enough to have watched tools become essential and then disappear"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
+    "postedAt": "2026-08-26",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137138",
+    "title": "Education Designer UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You're a designer who has facilitated workshops or built online courses, and you noticed that Â you loved it and that you were unusually good at it",
+      "You know how to make complex skills easy to learn, and how to guide people in applying their new skills",
+      "As one of our Education Designers, you'll str"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+    "postedAt": "2026-08-26",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137136",
+    "title": "Course Writer and Editor UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You're the one people trust with the words, whether you're writing them or fixing them",
+      "You noticed thatÂ you loved it, and that you were unusually good at it",
+      "You turn rough, complex ideas into words people understand",
+      "Now you get the opportunity to work with some of the most respected designers a"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
+    "postedAt": "2026-08-26",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137168",
+    "title": "Mail Sorter",
+    "company": "Geelong Careers",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Description Sort incoming parcels Keep work area clean and organized Use RF scanner Follow all company policies and procedures related to mail handling and "
+    ],
+    "skills": [],
+    "location": "Geelong, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168",
+    "postedAt": "2026-08-26",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137123",
     "title": "OVERNIGHT SHIFT Retail Merchandiser",
     "company": "Bass Pro Shops",
@@ -983,60 +1071,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
     "postedAt": "2026-08-19",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136967",
-    "title": "Email Developer",
-    "company": "The Home Depot Canada",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Pay Range: $85,000 - $115,000 At The Home Depot Canada, we want you to feel valued and supported",
-      "The pay range you see represents base salary only",
-      "In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retiremen"
-    ],
-    "skills": [],
-    "location": "Toronto, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
-    "postedAt": "2026-08-18",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137116",
-    "title": "Airport Ground Staff Jobs For Freshers",
-    "company": "Fronix Services",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Dear Candidate, We are looking for a Dynamic Candidate with good Communication Skill Roles And Responsibilities Greeting and welcoming passengers, and responding to questions",
-      "Checking in baggage",
-      "Making reservations",
-      "Selling airline tickets"
-    ],
-    "skills": [],
-    "location": "Thiruvananthapuram, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-jobs-for-freshers-fronix-services-1137116",
-    "postedAt": "2026-08-18",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137157",
-    "title": "Captain",
-    "company": "Ocean / Océan",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "ARE YOU LOOKING TO JOIN A GREAT COMPANY WHERE YOUR CONTRIBUTION WILL BE RECOGNIZED",
-      "READ ON, THIS OFFER IS PERFECT FOR YOU",
-      "We are actively seeking a Captain to perform towing manoeuvres on tugs, manage a crew and ensure vessel maintenance management",
-      "He will be required to work in the Port of Kings"
-    ],
-    "skills": [],
-    "location": "Kingston, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captain-ocean-ocean-1137157",
-    "postedAt": "2026-08-18",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-27T07:04:11.582Z';
+export const dataFetchedAt = '2026-08-27T21:40:57.995Z';
