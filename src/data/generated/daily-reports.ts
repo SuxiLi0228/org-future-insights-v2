@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-29-auto",
+    "date": "2026-08-29",
+    "session": "auto",
+    "title": "2026-08-29 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-29-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+      },
+      {
+        "id": "sig-2026-08-29-auto-2",
+        "emoji": "💡",
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "detail": "来源: TechCrunch。Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+      },
+      {
+        "id": "sig-2026-08-29-auto-3",
+        "emoji": "🚨",
+        "title": "1 in 3 employees say retirement is out of reach",
+        "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
+        "detail": "来源: HR Executive。An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/"
+      },
+      {
+        "id": "sig-2026-08-29-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：CritICL: Inference-Time Weak-to-Strong Generalization from S...",
+        "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa",
+        "detail": "作者: Yufan Wu, Yinghui He, Zhengyi Hu。Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specifi",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.27455v1"
+      },
+      {
+        "id": "sig-2026-08-29-auto-5",
+        "emoji": "💼",
+        "title": "VirtuHire 正在招募 Programmatic Campaign Operations Specialist Trader",
+        "summary": "岗位类型：业务+AI 复合岗。Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S",
+        "detail": "技能要求: 未标注。Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "VirtuHire"
+        ],
+        "sourceType": "tech",
+        "sourceName": "VirtuHire",
+        "link": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-29-1",
+        "priority": "medium",
+        "action": "关注「The Download: a secretive antiaging drug」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-29-2",
+        "priority": "low",
+        "action": "关注「Neocloud Lambda secures $1B in debt to b」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-29-3",
+        "priority": "high",
+        "action": "关注「1 in 3 employees say retirement is out o」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-29-4",
+        "priority": "medium",
+        "action": "关注「研究速递：CritICL: Inference-Time Weak-to-Str」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-29-5",
+        "priority": "medium",
+        "action": "关注「VirtuHire 正在招募 Programmatic Campaign Ope」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "VirtuHire"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-29 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-08-29 00:00 - 2026-08-29 23:59"
+  },
+  {
     "id": "report-2026-08-28-auto",
     "date": "2026-08-28",
     "session": "auto",

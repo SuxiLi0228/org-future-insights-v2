@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-a-startup-claims-it-s-found-a-drug-to-make-your-blood-young-1787860093000",
-    "title": "A startup claims it’s found a drug to make your blood young",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
-    "publishedAt": "2026-08-27",
+    "id": "news-the-download-a-secretive-antiaging-drug-and-joining-virtual--1787920527000",
+    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+    "publishedAt": "2026-08-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york--1787882564000",
-    "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-    "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-    "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.",
+    "id": "news-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips-1787948651000",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-new-hires-name-5-onboarding-8216-icks-8217-hr-keeps-repeatin-1787833833000",
-    "title": "New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating",
-    "link": "https://hrexecutive.com/new-hires-name-5-onboarding-icks-hr-keeps-repeating/",
-    "summary": "New hires name five onboarding frustrations, from repeat forms to lost documents. See what employees say HR keeps getting wrong. The post New hires name 5 onboarding &#8216;icks&#8217; HR keeps repeating appeared first on HR Executive .",
-    "publishedAt": "2026-08-27",
+    "id": "news-1-in-3-employees-say-retirement-is-out-of-reach-1787913003000",
+    "title": "1 in 3 employees say retirement is out of reach",
+    "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/",
+    "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -39,23 +39,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-healthcare-costs-per-employee-could-e-1787861760000",
-    "title": "This week in 5 numbers: Healthcare costs per employee could exceed $19K next year",
-    "link": "https://www.hrdive.com/news/healthcare-costs-per-employee-could-exceed-19k-next-year/828971/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much time The New York Times wants a court to give the U.S. Equal Employment Opportunity Commission to fulfill a records request.",
-    "publishedAt": "2026-08-27",
+    "id": "news-employers-offer-loan-repayment-re-recruiting-to-attract-skil-1787931120000",
+    "title": "Employers offer loan repayment, ‘re-recruiting’ to attract skilled labor",
+    "link": "https://www.hrdive.com/news/employers-offer-loan-repayment-re-recruiting-to-attract-skilled-labor/829077/",
+    "summary": "The data center boom is forcing contractors and other employers to rethink how they attract and retain sought-after workers like electricians and plumbers.",
+    "publishedAt": "2026-08-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-e-1787901614000",
-    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-    "link": "https://www.qbitai.com/2026/08/480591.html",
-    "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+    "id": "news-17-1787931372000",
+    "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+    "link": "https://www.qbitai.com/2026/08/480700.html",
+    "summary": "",
     "publishedAt": "2026-08-28",
     "source": "量子位",
     "tags": [
@@ -65,23 +66,184 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787905515000",
-    "title": " 白酒新周期：从“三高”到“三低” ",
-    "link": "https://www.huxiu.com/article/4886768.html?f=rss",
-    "summary": "本文来自微信公众号： 酒周志 ，作者：木子 当高端消费受阻，商务场景萎缩，向大众市场要增量成为必然选择。于是，酒企降低产品规格以试探新人群，调低价格带以换取基本盘。 酒桌上的规矩，正在被年轻人悄悄改写。 长期以来，国内白酒行业始终遵循“高价格、高度数、大瓶装”的“三高”发展逻辑，高端定价、52度主流度数、500ml标准容量成为行业标配，这“老三样”曾是中国白酒的金科玉律，撑起了一个属于宴请与礼赠的黄金时代。 但眼下，剧本换了。从近期郎酒的“小小郎”、青花郎的小礼盒，到泸州老窖的“高光28度”迷你装，再到口子窖的亲民小酒，各大酒企纷纷放下身段，试图用更低的门槛、更轻量的姿态，敲开年轻消费群体的大门。 然而，这套“低价、低度、小瓶装”的打法，究竟是白酒酒企在市场寒冬下的权宜之计，还是通往下一个春天的必经之路？ “三低”成标配 自去年8月五粮液推出29°新品“一见倾心”，同步带来100mL小容量规格开始，白酒赛道便开启一轮新品迭代浪潮。今年618大促期间，茅台、五粮液、汾酒、泸州老窖等九大知名品牌，联合推出T9 50mL小酌瓶；而近期，郎酒、泸州老窖、口子窖等酒企的新品密集上市。 纵观这波新品浪潮，可以清晰地归纳出三个鲜明的共同特征：低度化、低容量、低价化，三大趋势共同指向同一个目标：降低白酒的消费门槛，拓宽日常饮用场景。 首先，在度数上，新品普遍告别传统52度主流高度酒标准，42度及以",
+    "id": "news-token-ai-1787933194000",
+    "title": " Token正在成为AI经济学的新尺度，但我们还不会统计它 ",
+    "link": "https://www.huxiu.com/article/4886919.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 中国日均Token（词元）调用量正在飞速增长。从2025年底的100万亿，增长至2026年一季度末的140万亿；截至二季度末，这一数字又进一步跃升至500万亿。 或许，到了三季度末，中国日均Token调用量还将迎来新一波增长。过去两个月，本土模型开始集体跨越“好用”时刻。从智谱GLM-5.2、月之暗面Kimi-K3，到深度求索DeepSeek-V4正式版，以及阿里Qwen-3.8-Max，中国模型进一步缩小了与美国前沿模型的能力差距，也开始在编码、智能体等真实场景加速渗透。 MiniMax提供了一个微观样本。公司最近披露，7月Token消耗量已经达到1月的20倍，8月ARR（年度经常性收入）超过8亿美元，而2月时这一数字约为1.5亿美元。Token消耗与商业收入几乎同步跃迁，说明这一轮模型能力提升已经开始迅速转化为真实的付费需求。 智谱的GLM-5.3-Flash，则提供了另一个微观样本。在上线前，该模型在第三方聚合平台OpenRouter进行测试，不到一周消耗了超过23万亿Token，占该平台同期Token消耗量的20%；OpenCode则称，每天有100万亿Token的推理容量可供测试。 智谱明确声明上述两个平台上的测试请求全部由国产芯片集群承载。这意味着，智谱能够调动一套足以支撑日均百万亿Token级别推理测试的国产芯片集群。",
     "publishedAt": "2026-08-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1787924764000",
+    "title": "上海医药中报利润冰火反差背后，巨头转型遇现实考题丨看财报",
+    "link": "https://www.tmtpost.com/8121190.html",
+    "summary": "公司处在结构调整的关键阶段。",
+    "publishedAt": "2026-08-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-to-sign-up-for-a-virtual-power-plant-and-decide-whether--1787907600000",
+    "title": "How to sign up for a virtual power plant—and decide whether you should",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
+    "publishedAt": "2026-08-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
       "technology"
     ]
   },
   {
-    "id": "news--1787905553000",
-    "title": "白酒新周期：从“三高”到“三低”",
-    "link": "https://www.tmtpost.com/8120687.html",
-    "summary": "能否换来年轻人的一杯酒？",
+    "id": "news-an-anthropic-researcher-just-gave-us-a-peek-at-self-improvin-1787945438000",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "publishedAt": "2026-08-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-health-leaders-scale-ai-faster-than-they-measure-it-survey-f-1787912101000",
+    "title": "Health leaders scale AI faster than they measure it, survey finds",
+    "link": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
+    "summary": "Forty-four percent of health plan and health system leaders are considered AI scalers who expand and integrate AI capabilities across an entire organization. The post Health leaders scale AI faster than they measure it, survey finds appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-aga-1787931120000",
+    "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
+    "link": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
+    "summary": "Among other claims, the plaintiff alleged she was excluded from a company-organized diversity, equity and inclusion webinar described as &ldquo;not for [W]hite folks.&rdquo;",
+    "publishedAt": "2026-08-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-100-1787915615000",
+    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+    "link": "https://www.qbitai.com/2026/08/480666.html",
+    "summary": "久久不愿来到台前的智元掌舵人",
+    "publishedAt": "2026-08-28",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1787921500000",
+    "title": "豆包工作的办公棋局：飞书与豆包的合流",
+    "link": "https://www.tmtpost.com/8121252.html",
+    "summary": "豆包工作要打造一种AI时代的生产关系。",
+    "publishedAt": "2026-08-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-a-startup-claims-it-s-found-a-drug-to-make-your-blood-young-1787860093000",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+    "publishedAt": "2026-08-27",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-brave-8217-s-browser-one-ups-chrome-with-its-new-support-for-1787943000000",
+    "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
+    "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+    "publishedAt": "2026-08-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-bill-gates-8217-new-ai-plan-tax-robots-protect-some-jobs-for-1787911207000",
+    "title": "Bill Gates&#8217; new AI plan: tax robots, protect some jobs for people",
+    "link": "https://hrexecutive.com/bill-gates-new-ai-plan-tax-robots-protect-some-jobs-for-people/",
+    "summary": "Gates calls for jobs reserved for humans and a tax on AI tokens and robots in a new essay on AI's workforce impact. The post Bill Gates&#8217; new AI plan: tax robots, protect some jobs for people appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-biotech-companies-bring-on-new-hr-talent-in-august-1787931060000",
+    "title": "Biotech companies bring on new HR talent in August",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-in-august-krispy-kreme-giant/829027/",
+    "summary": "Krispy Kreme and regional grocery chain Giant also promoted HR talent into top leadership roles.",
+    "publishedAt": "2026-08-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-agi-agent-5-token-q2-500-1787910319000",
+    "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+    "link": "https://www.qbitai.com/2026/08/480600.html",
+    "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+    "publishedAt": "2026-08-28",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-30-1-31-9-1-4-sierra-designs-1787920361000",
+    "title": "农夫山泉上半年茶饮料收入增长30.1%；古茗上半年营收增长31.9%，门店超1.4万家；滔搏获Sierra Designs中国市场独家运营权｜消研所周报",
+    "link": "https://www.tmtpost.com/8121016.html",
+    "summary": "UNIQLO SHANGHAI全球旗舰店将于10月30日焕新启幕；松鲜鲜颁布中国居民减钠白皮书。",
     "publishedAt": "2026-08-28",
     "source": "钛媒体",
     "tags": [
@@ -104,11 +266,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch--1787872605000",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "publishedAt": "2026-08-27",
+    "id": "news-open-weight-ai-companies-are-the-valley-8217-s-hottest-acqui-1787941180000",
+    "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -117,35 +279,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-average-hsa-balances-hit-record-high-1787832926000",
-    "title": "Average HSA balances hit record high",
-    "link": "https://hrexecutive.com/average-hsa-balances-hit-record-high/",
-    "summary": "Despite average balances reaching a new high, few account holders contributed the maximum amount. The post Average HSA balances hit record high appeared first on HR Executive .",
-    "publishedAt": "2026-08-27",
+    "id": "news-why-pharmacy-benefits-are-now-a-stop-loss-decision-1787910335000",
+    "title": "Why pharmacy benefits are now a stop-loss decision",
+    "link": "https://hrexecutive.com/why-pharmacy-benefits-are-now-a-stop-loss-decision/",
+    "summary": "For self-funded employers, pharmacy benefit decisions that used to be relatively contained are now directly affecting stop-loss exposure and renewal pricing. The post Why pharmacy benefits are now a stop-loss decision appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-dol-other-agencies-address-questions-about-wellness-program--1787861760000",
-    "title": "DOL, other agencies address questions about wellness program surcharges",
-    "link": "https://www.hrdive.com/news/dol-guidance-tobacco-surcharge-wellness-program/828995/",
-    "summary": "Aspects of the&nbsp;Employee Retirement Income Security Act that were once seen as &ldquo;settled&rdquo; continue to be challenged, an attorney told HR Dive.",
-    "publishedAt": "2026-08-27",
+    "id": "news-there-are-three-skilled-trade-job-openings-for-every-qualifi-1787927100000",
+    "title": "There are three skilled trade job openings for every qualified worker",
+    "link": "https://www.hrdive.com/news/there-are-three-skilled-trade-job-openings-for-every-qualified-worker/829064/",
+    "summary": "The supply of skilled workers only continues to tighten as more reach retirement age amid rising demand, a Lightcast report said.",
+    "publishedAt": "2026-08-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-300-1787898179000",
-    "title": "首款癌症疫苗，一针300万？？？",
-    "link": "https://www.qbitai.com/2026/08/480557.html",
-    "summary": "别让顶级治疗方法称为富人专属",
+    "id": "news-e-1787901614000",
+    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
+    "link": "https://www.qbitai.com/2026/08/480591.html",
+    "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
     "publishedAt": "2026-08-28",
     "source": "量子位",
     "tags": [
@@ -155,24 +319,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-saas-22-saas-1787905421000",
-    "title": " SaaS巨头一天大涨22%，SaaS的时代又回来了？ ",
-    "link": "https://www.huxiu.com/article/4886769.html?f=rss",
-    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《SaaS巨头一天大涨22%！SaaS的时代又回来了？》 昨天，Salesforce收涨超过22%。我认为，软件行业可能正在逼近重要拐点。 过去一年，SaaS行业最可怕的叙事是：模型进一步，软件退一步。模型公司不断往应用层走，软件公司则只能不断后撤，直到被大模型彻底吞噬。 这次大涨，让这个悲观叙事出现了一条很大的裂缝。 一、边界正在清晰 Salesforce的财报中有三个亮眼数据： 1、净利润达到35.3亿美元，同比增长了87%。 2、剩余履约义务（cRPO，可以理解为已签约、未来将陆续确认的收入）达到335亿美元，同比增长14%，超出了分析师预期。 这意味着Salesforce的业绩还会加速增长。 3、Agentforce和Data 360的年化订阅收入合计接近39亿美元，同比增长超过210%。 Agentforce是Salesforce的Agent产品，和原生Agent不同，它长在Salesforce的CRM里，可以准确理解和处理企业的商机、客户拜访等核心业务。 Data 360管理的则是业务上下文：客户、线索、商机甚至客户的每一次网站访问，每一次客服咨询。 所以，市场看到的不只是Salesforce业绩超出预期，而是AI正在变成它的主要增长动力。 与此同时，Salesforce宣布与Anthropic扩大战略合作，",
-    "publishedAt": "2026-08-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1787905548000",
-    "title": "哦，原来家庭机器人，就是给音箱插几条腿",
-    "link": "https://www.tmtpost.com/8120420.html",
-    "summary": "颇为滑稽的一幕是，机器人只能向更困难的场景出逃。",
+    "id": "news-18-1787920342000",
+    "title": "18个月造一款车？监管给“造车竞速”划出质量底线",
+    "link": "https://www.tmtpost.com/8120572.html",
+    "summary": "8月27日，工信部、公安部、生态环境部、市场监管总局联合启动为期一年的道路机动车辆产品生产一致性和质量提升专项行动。",
     "publishedAt": "2026-08-28",
     "source": "钛媒体",
     "tags": [
@@ -195,11 +345,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rivian-8217-s-cfo-is-leaving-the-company-1787862190000",
-    "title": "Rivian&#8217;s CFO is leaving the company",
-    "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-    "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-    "publishedAt": "2026-08-27",
+    "id": "news-how-sweden-built-one-of-europe-s-hottest-startup-ecosystems-1787936945000",
+    "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+    "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+    "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+    "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -208,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-resume-screening-is-creating-a-visibility-gap-for-recruit-1787832051000",
-    "title": "AI resume screening is creating a ‘visibility gap’ for recruiters",
-    "link": "https://hrexecutive.com/ai-resume-screening-is-creating-a-visibility-gap-for-recruiters/",
-    "summary": "Recruiters report they're getting more qualified candidates through AI resume screening but still worry the tech is cutting some applicants out too early. The post AI resume screening is creating a ‘visibility gap’ for recruiters appeared first on HR Executive .",
-    "publishedAt": "2026-08-27",
+    "id": "news-what-a-20-year-drop-in-spoken-words-means-for-workplace-conn-1787909409000",
+    "title": "What a 20-year drop in spoken words means for workplace connection",
+    "link": "https://hrexecutive.com/what-a-20-year-drop-in-spoken-words-means-for-workplace-connection/",
+    "summary": "Spoken words have declined 28% since 2005, new research finds, raising questions about connection as workplace messaging rises. The post What a 20-year drop in spoken words means for workplace connection appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -221,11 +371,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-at-an-inflection-point-as-health-costs-near-double-1787848020000",
-    "title": "Employers at an ‘inflection point’ as health costs near double-digit increases",
-    "link": "https://www.hrdive.com/news/employers-inflection-point-health-costs-double-digit-increases/828965/",
-    "summary": "But many won&rsquo;t be able to take drastic cost-cutting measures until 2028 at the earliest, the Business Group on Health&#39;s president and CEO said.",
-    "publishedAt": "2026-08-27",
+    "id": "news-why-hr-departments-run-with-ai-agents-will-still-require-hum-1787927040000",
+    "title": "Why HR departments run with AI agents will still require humans",
+    "link": "https://www.hrdive.com/news/why-hr-departments-run-with-ai-agents-will-still-require-humans/829048/",
+    "summary": "Despite flashy headlines, companies are not wiping out their HR departments &mdash; not even to implement AI, experts told HR Dive.",
+    "publishedAt": "2026-08-28",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -235,160 +385,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ukasz-kaiser-2026-1787898140000",
-    "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-    "link": "https://www.qbitai.com/2026/08/480482.html",
-    "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+    "id": "news-300-1787898179000",
+    "title": "首款癌症疫苗，一针300万？？？",
+    "link": "https://www.qbitai.com/2026/08/480557.html",
+    "summary": "别让顶级治疗方法称为富人专属",
     "publishedAt": "2026-08-28",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-68-15-1787905266000",
-    "title": " 基金净值涨68%，仅15%基民赚钱，基金中报新指标曝光，揭穿基金赚钱真相 ",
-    "link": "https://www.huxiu.com/article/4886767.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：习昂，作者：黄宇昆，原文标题：《基金净值涨68%，仅15%基民赚钱！基金中报新指标曝光，揭穿基金赚钱真相》 近日，公募基金中报陆续披露，截至发稿时，已有同泰基金、中泰证券资管、平安基金、睿远基金旗下产品发布中期报告。 与往年报告不同的是，今年的基金中报首度披露了过去一年（截至6月末）盈利投资者数量占比情况，部分基金产品这一比例超过99%。但与此同时，有一些基金产品即使过去一年净值处于上涨状态，但投资者盈利占比却只有一成左右，对基民而言持有体验可谓“冰火两重天”。 在“隐形重仓股”（持仓排名第11名至第20名）的选择上，基金经理们在具体的组合配置上各有侧重和偏好。知名基金经理傅鹏博管理的睿远成长价值混合，6月末新进联讯仪器为第十一大重仓股；中泰证券资管姜诚上半年在继续坚守“老登股”的同时，也在积极打新股。 盈利占比从13%到99%，基民体验“冰火两重天” 基金赚钱，不等于基民赚钱，那么到底有多少基民在赚钱？如今，这一指标开始在基金中报中直观展示。 按照监管要求，今年披露的基金中报中首次出现“盈利投资者占比”这一指标。时代周报记者注意到，在已披露中报的基金中，截至6月末，过去一年投资者盈利占比最低为13%，最高为99%。 这意味着，有的基金只有13%的基民赚到了钱，有的基金99%的基民都赚到了钱，基民的持有体验可谓“冰火两重天”。 上述傅鹏博管理",
-    "publishedAt": "2026-08-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787905537000",
-    "title": "美图渴望重返青春",
-    "link": "https://www.tmtpost.com/8120412.html",
-    "summary": "AI对成熟互联网公司的意义，是重新把一种创业公司的工作方式带回了大组织里。",
-    "publishedAt": "2026-08-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-inside-story-on-why-openai-agents-hacked-hugging-face-1787770800000",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
-    "publishedAt": "2026-08-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-bluesky-adds-an-8216-algorithmic-opt-out-8217-feature-for-th-1787861726000",
-    "title": "Bluesky adds an &#8216;algorithmic opt-out&#8217; feature for those who don&#8217;t want to go viral",
-    "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-    "summary": "Sometimes people just want to post to their followers, Bluesky says.",
-    "publishedAt": "2026-08-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-business-case-for-fair-workweek-compliance-1787831122000",
-    "title": "The business case for fair workweek compliance",
-    "link": "https://hrexecutive.com/the-business-case-for-fair-workweek-compliance/",
-    "summary": "Fair workweek rules were written to protect workers, but it turns out they protect margins too. The post The business case for fair workweek compliance appeared first on HR Executive .",
-    "publishedAt": "2026-08-27",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-black-cfo-representation-falls-25-from-2021-peak-as-diversit-1787842200000",
-    "title": "Black CFO representation falls 25% from 2021 peak as diversity levels off",
-    "link": "https://www.hrdive.com/news/black-cfo-representation-falls-25-2021-peak-diversity-flatlines/828851/",
-    "summary": "The number of Black finance chiefs in Fortune 500 and S&amp;P 500 companies ticked down to 15 this year, according to the report from Crist Kolder Associates.",
-    "publishedAt": "2026-08-27",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-claude-5000-1787897639000",
-    "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-    "link": "https://www.qbitai.com/2026/08/480487.html",
-    "summary": "Claude觉醒超体",
-    "publishedAt": "2026-08-28",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-4-6-63-1787905257000",
-    "title": " 老牌AI公司汉王科技4年半亏掉6.63亿元，大模型时代为何越走越难？ ",
-    "link": "https://www.huxiu.com/article/4886766.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：郭儒逸，作者：何珊珊 一家卖出销冠产品的公司，为何长期撑不起盈利？ 8月26日晚间，汉王科技（002362.SZ）发布2026年半年报。财报显示，报告期内，公司实现营业收入8.33亿元，同比微增2.43%；归母净利润亏损8619万元，亏损幅度同比扩大51.94%；扣非净利润亏损8837万元，同比扩大37.20%。 值得注意的是，自2022年陷入亏损以来，这已是汉王科技再次亏损，截至2026年上半年，累计亏损额超过6.63亿元。 更重要的，是财报数字与汉王科技市场地位之间的错位。汉王科技目前具有全场景产品矩阵，阅读器、办公本、AI智能读写本全线覆盖。洛图科技（RUNTO）数据显示，2026年上半年，汉王以19.6%的销量份额登顶中国电子纸平板线上市场，同比提升4个百分点，在头部阵营中实现量额双增长。 汉王科技1998年靠手写识别起家、一度将技术授权给微软，此后近30年布局OCR与电磁笔交互，其笔智能交互至今仍占营收超六成。2010年汉王电纸书一度迎来巅峰，不过Kindle入华后营收暴跌。借助这一轮AI浪潮，汉王科技尝试发力新业务，推出天地大模型、AI血压计、仿生扑翼飞行器等“五感AI”产品。 时代周报记者注意到，汉王科技在半年报中多次提到竞争加剧，并提到受客户预算下降、行业竞争加剧等因素影响，相关业务收入及盈利能力面临阶段性压力，同时强调要提升",
-    "publishedAt": "2026-08-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-minimax-token-1787904833000",
-    "title": "不等超级应用了，MiniMax改卖Token",
-    "link": "https://www.tmtpost.com/8119451.html",
-    "summary": "营收增长283.1%，MiniMax换引擎。",
-    "publishedAt": "2026-08-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-the-kids-issue-arrives-and-bill-gates-reveals-h-1787746200000",
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
-    "publishedAt": "2026-08-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-buried-in-meta-8217-s-18b-settlement-is-a-legal-pass-on-kids-1787861066000",
-    "title": "Buried in Meta&#8217;s $18B settlement is a legal pass on kids&#8217; data",
-    "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-    "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-    "publishedAt": "2026-08-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
     ]
   }
 ];
@@ -775,6 +781,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137169",
+    "title": "Programmatic Campaign Operations Specialist Trader",
+    "company": "VirtuHire",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
+    "postedAt": "2026-08-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137155",
     "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
     "company": "Tessera Labs",
@@ -985,26 +1006,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
     "postedAt": "2026-08-22",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137017",
-    "title": "Collections Agent",
-    "company": "CRNCY Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Collections Agent provides an array of repayment solutions to customers that have reached the default stage",
-      "The Agent will ensure customers are contacted via various communication channels and negotiate terms of repayment that amicable to both the customer and the company",
-      "Primary Duties And Respon"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Bridgetown, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
-    "postedAt": "2026-08-19",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-28T08:51:46.677Z';
+export const dataFetchedAt = '2026-08-28T21:41:53.583Z';
