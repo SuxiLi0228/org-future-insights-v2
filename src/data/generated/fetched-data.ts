@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chinese-automakers-are-following-tesla-s-bet-that-robots-are-1787959467000",
-    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-    "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-    "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-    "publishedAt": "2026-08-28",
+    "id": "news-sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campa-1788028919000",
+    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -53,23 +53,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apec-1788003473000",
-    "title": " 邱腾华：风暴中的灯塔：如何在困难时代护航APEC行稳致远 ",
-    "link": "https://www.huxiu.com/article/4887043.html?f=rss",
-    "summary": "本文来自微信公众号： IPP评论 ，作者：邱腾华，原文标题：《重磅｜邱腾华：风暴中的灯塔——如何在困难时代护航APEC行稳致远》 导语：11月，APEC领导人非正式会议将在深圳举行。会期渐近，亚太合作的议程渐次铺开：贸易投资、数字经济、绿色转型、供应链韧性……议题各有侧重，落点却殊途同归——如何让开放、包容与共享，继续成为亚太发展的底色。 APEC的独特制度基因，在于以协商一致、自愿参与和开放区域主义，在差异之中维系合作，并由此不断拓展成员基础、深化区域联结。然而，它的长处，如今恰是最受考验之处：当地缘政治不断侵入经贸领域，保护主义与阵营化持续抬头，一个依靠共识而非强制、依靠开放而非排他的合作机制，还能否在分化加深的时代继续凝聚共同利益？ 在IPP第十三届国际会议上，香港特别行政区政府前商务及经济发展局局长邱腾华在主旨演讲中，围绕APEC的现实困境与未来出路，给出了他的“诊断”与“药方”。他指出，今天的APEC正面临多重危机，数十年来积累的贸易自由化成果，正被关税、出口管制和单边制裁侵蚀。但危机之下，APEC的体量、务实灵活的合作传统、抵御危机的韧性以及区域协同能力均未消失；遍布亚太的双边和诸边贸易协定，更构成了风暴中的制度“救生衣”。面对新的现实，他主张拒绝“封闭俱乐部式格局”，以RCEP、CPTPP等现有机制重新推动区域贸易自由化。“只要我们拥抱彼此深刻的结构性相互依存，坚持开",
+    "id": "news-ai-734-1788009068000",
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "link": "https://www.qbitai.com/2026/08/481372.html",
+    "summary": "推理软件栈的微小差异，就能改变输出token",
+    "publishedAt": "2026-08-29",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1788020594000",
+    "title": " 关停五年后，虾米被阿里用AI“复活”了 ",
+    "link": "https://www.huxiu.com/article/4887069.html?f=rss",
+    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 时隔多年，虾米音乐“秽土转生”了？ 最近，阿里巴巴正式发布AI音乐模型HappyShrimp 1.0，中文名“快乐虾米”，并同步上线国内及海外PC网页端。产品上线首日，快乐虾米便宣布与太合音乐集团达成战略合作，合作范围涉及音乐产业生态、AI音乐平台和音乐人共创。 2021年2月，虾米音乐正式停止服务。五年多过去，当“虾米”两个字重新出现在阿里的音乐版图里，对于不少老用户而言，多少有一层情感上的回归。只不过，回来的是一只由AI重新定义的“虾米”。 在AI音乐平台逐渐拥挤的2026年，一个迟到的“快乐虾米”究竟还有多少新意？而已经离开在线音乐牌桌多年的阿里，为什么偏偏又在这个时候想起了“虾米”？ 虾米借AI“复活”了 单看产品形态的话，快乐虾米并没有跳出对AI音乐工具的既有想象。 其首页与Suno已经验证过的产品范式比较相似：大尺寸Prompt输入框占据视觉中心，输入框之外，平台又通过热门歌曲、新歌和个性化推荐承接消费需求。 但与国内已经迭代多轮的AI音乐平台相比，其交互方式和后续创作工具仍显得相对单一。 目前，国内主流AI音乐产品大多开始采用“低门槛生成+专业化控制”的双层设计。以Mureka为例，一方面提供“简易”模式，让普通用户描述灵感即可生成歌曲；另一方面又提供“自定义”模式，并进一步延伸出歌曲编辑、乐谱转换、分轨、续写、Remi",
     "publishedAt": "2026-08-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-minimax-1787989853000",
-    "title": "MiniMax 的中报魔术：亏损在收窄，烧钱在加速",
-    "link": "https://www.tmtpost.com/8121654.html",
-    "summary": "用30亿美元和B端转型，赢 了继续留场的资格",
+    "id": "news--1788007798000",
+    "title": "八万亿中国人寿的科技进阶",
+    "link": "https://www.tmtpost.com/8121809.html",
+    "summary": "伴随着算力成为关键生产要素和生产力，这家总资产超过8万亿元的寿险公司，正在通过数智化将规模优势持续转化为经营效率和发展韧性。",
     "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
@@ -92,11 +106,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-1787956968000",
-    "title": "Is the best way to watch a movie on a pair of sunglasses?",
-    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-    "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
-    "publishedAt": "2026-08-28",
+    "id": "news-at-techbbq-europe-8217-s-ai-conversations-kept-coming-back-t-1788025870000",
+    "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,23 +147,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788003219000",
-    "title": " 呷哺呷哺的“双重拐点” ",
-    "link": "https://www.huxiu.com/article/4887042.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 5年半，累积亏损超15个亿 总市值从巅峰300亿到3.04亿，暴跌100倍 8月27日，“火锅第一股”呷哺集团发布2026中期财报，却依旧没走出亏损的“泥沼”。 财报显示，呷哺集团2026上半年营收约14.93亿元，比2025年同期的19.42亿元减少23.1%。和往年的中期财报相比，集团上半年营收已经基本回到10年前，低于2017年上半年的15.76亿。 归属净利层面，呷哺集团上半年仍处亏损且净亏约0.36亿元，但与去年同期亏损0.81亿元相比，大幅收窄约55.2%。对比往年同期财报，呷哺集团自2020年出现亏损2.52亿，2023年上半年短暂扭亏，微弱盈利大约0.02亿元，随后持续亏损。 在报告期内，呷哺集团全球门店共计761家，包括呷哺647家，湊湊113家和呷牛排首店。上半年新增28家呷哺门店和1家呷牛排店，关闭呷哺门店139家和湊湊34家。着意味着呷哺集团上半年大量缩减门店，尤其是湊湊属于只关不增的局面。2025年年底，彼时全球门店905间。 从时间线来看，2021年，是呷哺集团的业绩分水岭。 &gt;&gt;&gt;2021年全年营收达到巅峰约61.47亿，此后营收出现波动下降，2025全年约37.89亿元； &gt;&gt;&gt;2021年首次亏损且高达2.83亿，随后一路亏损，不完全统计，近五年半时间里，呷哺集团",
+    "id": "news--1788008494000",
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "link": "https://www.qbitai.com/2026/08/481318.html",
+    "summary": "本科读车辆工程，如今教AI第一班",
+    "publishedAt": "2026-08-29",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1788019607000",
+    "title": " 大模型越烧钱，AI 研究为什么反而迎来“小机构窗口”？ ",
+    "link": "https://www.huxiu.com/article/4887067.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 今年8月，独立AI评测机构METR说，过去半年里，它获得了约7100万美元的资金承诺。 METR不训练基础模型，没有数据中心，也没有一款等待冲上应用榜的聊天产品。它做的是另一件听起来不那么热闹的事：让模型做一批尽量接近真实工作的任务，记录它用了哪些工具、在哪一步卡住、能连续完成多长时间的工作，再把方法和结果放出来。 为什么一群最有钱、最会造模型的公司旁边，会需要这样一家机构？ 一个模型能写出不错的代码，和它能否在没有人盯着的情况下跑完一个两小时的工程任务，是两回事。一个Agent演示里会订机票，和它在真实权限、真实网站、真实异常里能否稳定完成任务，也是两回事。模型公司当然会做内部测试，但当测试结果关系到发布节奏、销售承诺和监管压力时，外面总要有人再量一次。 METR拿到的那笔钱，某种程度上是在给“量一次”这件事定价。 也让我重新看了一眼另一件事：在前沿模型越来越像重工业的今天，AI研究里为什么反而冒出了小机构的机会？ 真正发生变化的，是研究的另一半开始出现了新的生产方式。 一、造模型越来越像重工业，研究模型却多出了一片空地 这几年，“AI研究”被说成了一个词，好像所有研究都在做同一件事。实际上，它已经慢慢分成了两种很不一样的工作。 一边是造能力：预训练、后训练、芯片、数据、机器人、集群、能源、工程系统。这里的门槛没有下降。Ep",
     "publishedAt": "2026-08-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1787989850000",
-    "title": "硬科技，开始拯救商场了",
-    "link": "https://www.tmtpost.com/8121664.html",
-    "summary": "有流量、没销量？",
+    "id": "news-minimax-1787989853000",
+    "title": "MiniMax 的中报魔术：亏损在收窄，烧钱在加速",
+    "link": "https://www.tmtpost.com/8121654.html",
+    "summary": "用30亿美元和B端转型，赢 了继续留场的资格",
     "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
@@ -172,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips-1787948651000",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "publishedAt": "2026-08-28",
+    "id": "news-8220-we-8217-re-not-doing-30-bets-a-year-8221-vijay-pande-on-1788025007000",
+    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -213,23 +241,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788002944000",
-    "title": " 优必选，追上了宇树？ ",
-    "link": "https://www.huxiu.com/article/4887040.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 营收打平，利润、市值差距大。 定焦One（dingjiaoone）原创 8月底，人形机器人赛道最具话题性的两份财报先后落地。 8月19日，宇树科技科创板挂牌上市，首份中报随上市公告书一并披露；8月28日，优必选交卷2026年中期业绩。两家公司的人形机器人业务在上半年双双创下历史新高，营收规模也站到同一量级，优必选12.69亿元，宇树11.52亿元。优必选在人形机器人赛道，真的追上了宇树吗？ 要回答这个问题，首先需要解释为什么这两家公司可以放在一起比较。 它们都是人形机器人上市公司，且分别是A股和港股的“人形机器人第一股”。优必选2023年底登陆港交所，宇树科技2026年8月19日挂牌科创板，从受理到上市仅用了不到五个月，创下科创板“预先审阅”机制下的最快纪录。 人形机器人也都是它们的第一大业务。优必选2026年上半年全尺寸具身智能人形机器人收入5.90亿元，同比增长1445.0%，占总收入的比重从上年同期的6.1%升至46.5%，也超过2025年全年的41.1%。宇树科技2025年人形机器人销售额达8.68亿元，已超越四足机器人成为最大业务板块，2026年上半年人形机器人收入继续保持较快增长。虽然宇树仍有四足机器人基本盘，优必选也保留教育、消费级等业务，但人形机器人都已占据两家公司的核心位置。 基于这两点，将两家",
+    "id": "news-claude-claude-4-150-1788007831000",
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "link": "https://www.qbitai.com/2026/08/481223.html",
+    "summary": "AI「自进化」，越来越近了",
     "publishedAt": "2026-08-29",
-    "source": "虎嗅",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
+      "ai",
       "technology"
     ]
   },
   {
-    "id": "news-20-1787989848000",
-    "title": "收入暴涨20倍，壁仞科技杀疯了",
-    "link": "https://www.tmtpost.com/8121667.html",
-    "summary": "壁仞科技走到扭亏前夜？",
+    "id": "news--1787989850000",
+    "title": "硬科技，开始拯救商场了",
+    "link": "https://www.tmtpost.com/8121664.html",
+    "summary": "有流量、没销量？",
     "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
@@ -252,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-anthropic-researcher-just-gave-us-a-peek-at-self-improvin-1787945438000",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "publishedAt": "2026-08-28",
+    "id": "news-hollywood-celebs-are-getting-into-microdrama-apps-1788019800000",
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+    "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -292,23 +320,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788001830000",
-    "title": " 肿瘤疫苗能治疗胃肠癌吗？ ",
-    "link": "https://www.huxiu.com/article/4887038.html?f=rss",
-    "summary": "本文来自微信公众号： 熊猫和朋友们 ，作者：小韩666 前一段时间，Moderna（莫德纳）的mRNA肿瘤疫苗在三期黑色素瘤临床研究中大获成功的消息刷屏了。消息一出，Moderna的股价应声翻倍，各路自媒体——某音、某书上又开始疯传\"肿瘤疫苗神奇疗效\"和各种\"治愈故事\"。 最近，我们患者群里，尤其是胃肠肿瘤的病友们也在不断询问：这个疫苗对我们有没有用？是不是也能试一试？ 国内尤其是海南一些机构，已经开始提供肿瘤疫苗的付费服务，不少病友很振奋，也很纠结：这种服务能不能去尝试？ 今天我就来把这件事讲清楚。 一、mRNA肿瘤疫苗到底是什么？ 先用最简单的话解释一下原理。 我们都知道，疫苗的作用是\"训练免疫系统识别敌人\"。新冠疫苗让免疫系统认识病毒，肿瘤疫苗则是让免疫系统认识癌细胞。 mRNA肿瘤疫苗的核心思路是： 从患者的肿瘤组织中提取基因信息，分析出肿瘤细胞身上特有的\"异常标记\"（也叫新抗原）； 把这些\"异常标记\"的编码信息写进一段mRNA里； 把mRNA疫苗注射到患者体内； mRNA进入细胞后，会指导细胞暂时制造出这些\"异常标记\"； 免疫系统看到这些标记，学会识别它们，训练出一批专门针对肿瘤的\"特种兵\"T细胞； 当这些T细胞在体内巡逻时，一旦遇到带有相同标记的真正肿瘤细胞，就会发起攻击。 简单说，mRNA疫苗就像是给免疫系统发了一份\"肿瘤通缉画像\"，让它学会主动搜捕癌细胞。 二、Mo",
+    "id": "news-20ms-pdf-markdown-ocr-300-1788006409000",
+    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+    "link": "https://www.qbitai.com/2026/08/481075.html",
+    "summary": "3秒可处理200份PDF",
     "publishedAt": "2026-08-29",
-    "source": "虎嗅",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
+      "ai",
       "technology"
     ]
   },
   {
-    "id": "news--1787988800000",
-    "title": "今年最好的机器人落地场景，可能在上海一家冰淇凌店",
-    "link": "https://www.tmtpost.com/8121421.html",
-    "summary": "只做真正有价值的事，而非做给别人看",
+    "id": "news-20-1787989848000",
+    "title": "收入暴涨20倍，壁仞科技杀疯了",
+    "link": "https://www.tmtpost.com/8121667.html",
+    "summary": "壁仞科技走到扭亏前夜？",
     "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
@@ -331,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-brave-8217-s-browser-one-ups-chrome-with-its-new-support-for-1787943000000",
-    "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-    "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-    "publishedAt": "2026-08-28",
+    "id": "news-the-theragun-sense-makes-everyday-recovery-surprisingly-easy-1788012000000",
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+    "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -367,33 +395,6 @@ export const generatedNews: NewsItem[] = [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788000854000",
-    "title": " “电梯门”风波未平，胜宏科技实控人把近半股权转给妻子 ",
-    "link": "https://www.huxiu.com/article/4887035.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：公司研究院 胜宏科技实控人陈涛，把大笔股权转给了妻子刘春兰。 8月28日，公司发布公告披露了这一变动，陈涛将其持有的控股股东深圳市胜华欣业投资有限公司（以下简称胜华欣业）39%股权，以及上层股东宏大投资35%股权，转让给配偶刘春兰。 凤凰网财经《公司研究院》了解到，就在两个多月前，陈涛曾因一段被称为“电梯门”的监控视频陷入舆论风波。 彼时，有网友在社交媒体发帖称与其存在感情纠纷，并附上一段电梯监控画面，画面中一男一女举止亲密，该男子被指为陈涛。 01 董事长把近半股权转给了妻子 要理解这次转让的分量，得先理一理胜宏科技的股权架构。 胜宏科技有两个主要股东。 一个是胜华欣业，直接持有上市公司约13.7%的股份，是名义上的控股股东；另一个叫胜宏科技集团（香港）有限公司（以下简称胜宏香港），持有约13.4%。 这两家公司是一致行动人，背后实际控制人都是陈涛。 再加上刘春兰直接持有的0.43%，这个一致行动人团队合计控制着胜宏科技约31%的股份。 凤凰网财经《公司研究院》梳理资料发现，胜华欣业的股东很简单，就是陈涛和刘春兰两口子。 转让之前，陈涛占90%，刘春兰占10%。 香港胜宏的上层，则是一家叫宏大投资的公司，且宏大投资是香港胜宏的唯一股东，通过香港胜宏间接持有胜宏科技的股份。 宏大投资的股东有三位：陈涛、刘春兰，以及2024年11月辞任的前董",
-    "publishedAt": "2026-08-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1787978793000",
-    "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
-    "link": "https://www.tmtpost.com/8121600.html",
-    "summary": "压力给到王兴兴",
-    "publishedAt": "2026-08-29",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   }
@@ -781,6 +782,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137212",
+    "title": "Building Maintenance Technician",
+    "company": "Dart",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "The successful candidate will be responsible for the inspection, maintenance, troubleshooting"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "George Town, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212",
+    "postedAt": "2026-08-28",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137169",
     "title": "Programmatic Campaign Operations Specialist Trader",
     "company": "VirtuHire",
@@ -1027,4 +1045,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-29T12:13:24.362Z';
+export const dataFetchedAt = '2026-08-29T20:20:55.001Z';

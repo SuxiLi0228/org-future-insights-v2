@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-08-30-auto",
+    "date": "2026-08-30",
+    "session": "auto",
+    "title": "2026-08-30 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-08-30-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+      },
+      {
+        "id": "sig-2026-08-30-auto-2",
+        "emoji": "💡",
+        "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "detail": "来源: TechCrunch。This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+      },
+      {
+        "id": "sig-2026-08-30-auto-3",
+        "emoji": "🚨",
+        "title": "1 in 3 employees say retirement is out of reach",
+        "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
+        "detail": "来源: HR Executive。An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/"
+      },
+      {
+        "id": "sig-2026-08-30-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：CritICL: Inference-Time Weak-to-Strong Generalization from S...",
+        "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa",
+        "detail": "作者: Yufan Wu, Yinghui He, Zhengyi Hu。Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specifi",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.27455v1"
+      },
+      {
+        "id": "sig-2026-08-30-auto-5",
+        "emoji": "💼",
+        "title": "Dart 正在招募 Building Maintenance Technician",
+        "summary": "岗位类型：业务+AI 复合岗。The successful candidate will be responsible for the inspection, maintenance, troubleshooting",
+        "detail": "技能要求: RAG。The successful candidate will be responsible for the inspection, maintenance, troubleshooting",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Dart"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Dart",
+        "link": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-08-30-1",
+        "priority": "medium",
+        "action": "关注「The Download: a secretive antiaging drug」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-08-30-2",
+        "priority": "low",
+        "action": "关注「Sony Music, Warner sue Anthropic, allegi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-08-30-3",
+        "priority": "high",
+        "action": "关注「1 in 3 employees say retirement is out o」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-08-30-4",
+        "priority": "medium",
+        "action": "关注「研究速递：CritICL: Inference-Time Weak-to-Str」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-08-30-5",
+        "priority": "medium",
+        "action": "关注「Dart 正在招募 Building Maintenance Technicia」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Dart"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 65,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-08-30 生成，聚合了 30 条新闻、20 篇论文、15 个岗位。",
+    "fetchWindow": "2026-08-30 00:00 - 2026-08-30 23:59"
+  },
+  {
     "id": "report-2026-08-29-auto",
     "date": "2026-08-29",
     "session": "auto",
