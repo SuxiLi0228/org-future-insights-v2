@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips-1787948651000",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "id": "news-chinese-automakers-are-following-tesla-s-bet-that-robots-are-1787959467000",
+    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
@@ -66,25 +66,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-ai-1787933194000",
-    "title": " Token正在成为AI经济学的新尺度，但我们还不会统计它 ",
-    "link": "https://www.huxiu.com/article/4886919.html?f=rss",
-    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 中国日均Token（词元）调用量正在飞速增长。从2025年底的100万亿，增长至2026年一季度末的140万亿；截至二季度末，这一数字又进一步跃升至500万亿。 或许，到了三季度末，中国日均Token调用量还将迎来新一波增长。过去两个月，本土模型开始集体跨越“好用”时刻。从智谱GLM-5.2、月之暗面Kimi-K3，到深度求索DeepSeek-V4正式版，以及阿里Qwen-3.8-Max，中国模型进一步缩小了与美国前沿模型的能力差距，也开始在编码、智能体等真实场景加速渗透。 MiniMax提供了一个微观样本。公司最近披露，7月Token消耗量已经达到1月的20倍，8月ARR（年度经常性收入）超过8亿美元，而2月时这一数字约为1.5亿美元。Token消耗与商业收入几乎同步跃迁，说明这一轮模型能力提升已经开始迅速转化为真实的付费需求。 智谱的GLM-5.3-Flash，则提供了另一个微观样本。在上线前，该模型在第三方聚合平台OpenRouter进行测试，不到一周消耗了超过23万亿Token，占该平台同期Token消耗量的20%；OpenCode则称，每天有100万亿Token的推理容量可供测试。 智谱明确声明上述两个平台上的测试请求全部由国产芯片集群承载。这意味着，智谱能够调动一套足以支撑日均百万亿Token级别推理测试的国产芯片集群。",
-    "publishedAt": "2026-08-28",
+    "id": "news--1787980711000",
+    "title": " 孙宇晨的成功法则，一直藏在那锅椰子鸡里 ",
+    "link": "https://www.huxiu.com/article/4886976.html?f=rss",
+    "summary": "本文来自微信公众号： 一点人间见识 ，作者：无梦生 一段恋爱结束以后，孙宇晨说，他和景甜之间只剩下一种联系：一场三千多万元的官司。 8月28日，媒体问他，既然两个人已经不再联系，为什么还要起诉索要彩礼？ 第一个原因，是律师的建议。 第二个原因，他说得有点讽刺： “这个可能也是我们两个之间唯一的联系了。” 这段关系已经结束。孙宇晨保留下来的联系，是一张三千多万元的账单。 一天前，他的代理律师张起淮已经把这张账单说得更加直接。孙宇晨起诉了景甜及其父母，涉案金额三千余万元，还申请了财产保全。 案件目前正在处理地域管辖权异议，没有进入实体审理，财产保全也尚未裁定。律师的诉求很简单：两个人已经分手，钱还回来就行。 记者问，还有没有别的想法？ 律师回答： “也没有什么其他更多的想法，但是钱不给是不可以的。” 几乎同一时间，孙宇晨又在社交平台发布了一篇《我的女友景甜》。里面从北大时代的遥远暗恋，一直写到彩礼、代孕和分手，情节比电视剧还完整。 孙宇晨后来告诉媒体，这篇约六千字的文章，是他花十几个小时、熬了两个晚上写出来的。发布以前，他还把文章交给Claude看过，最后没有接受对方的建议。 他认为，文章绝大多数内容都是符合自己意愿的真实陈述，自己怎么想、怎么说，他可以确认。可文章的最后，又留了一句：本文纯属虚构，如有雷同，实属巧合。 8月28日上午，景甜也第一次公开回应： “我过去、现在、未来，都不",
+    "publishedAt": "2026-08-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1787924764000",
-    "title": "上海医药中报利润冰火反差背后，巨头转型遇现实考题丨看财报",
-    "link": "https://www.tmtpost.com/8121190.html",
-    "summary": "公司处在结构调整的关键阶段。",
-    "publishedAt": "2026-08-28",
+    "id": "news--1787978793000",
+    "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
+    "link": "https://www.tmtpost.com/8121600.html",
+    "summary": "压力给到王兴兴",
+    "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -106,10 +105,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-anthropic-researcher-just-gave-us-a-peek-at-self-improvin-1787945438000",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "id": "news-is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-1787956968000",
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
@@ -160,11 +159,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1787921500000",
-    "title": "豆包工作的办公棋局：飞书与豆包的合流",
-    "link": "https://www.tmtpost.com/8121252.html",
-    "summary": "豆包工作要打造一种AI时代的生产关系。",
-    "publishedAt": "2026-08-28",
+    "id": "news-hy4-1787980371000",
+    "title": " Hy4，很好，很腾讯 ",
+    "link": "https://www.huxiu.com/article/4886959.html?f=rss",
+    "summary": "本文来自微信公众号： 翔哥趋势研究 ，作者：翔哥，题图来自：AI生成 腾讯 Hy4 preview 发布了，770B参数、1M上下文、真开源、低定价，反响不错，在包括Terminal Bench 2.1、DeepSWE等在内的12项基准测试中，比Hy3，&ldquo;可以说实现了代际飞跃&rdquo;。 和我们此前猜想的差不多，因为DeepSeek的开源，大部分开源模型都会收敛到DeepSeek路线，和Hy3比，这次Hy4换了架构，从GQA+192专家+256K切换到了DeepSeek/智谱的技术底盘上重造。 混元非常诚实，在模型卡里写到，&ldquo;inspired by DeepSeek and GLM&rdquo;。这个启发有点大，注意力是DeepSeek的DSA，MTP是DeepSeek的；推理框架兼容社区标准；索引缓存是智谱的 IndexCache （本身就是给 DeepSeek DSA 做的加速办法） ；残差侧采用 iHC，概念上脱胎于DeepSeek提出的mHC，但砍掉了Sinkhorn约束、固定为恒等映射，更轻量。 混元团队很诚实，也很腾讯，用&ldquo;拿来主义&rdquo;，搭建了一台完美的&ldquo;混元机器&rdquo;：混合别人的架构，混合社区的洞察，元入自家的产品数据，然后针对性特化。 得承认团队的选型品味非常好，混元的模型架构负责人还只是一名在读",
+    "publishedAt": "2026-08-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-app-1787978792000",
+    "title": "垂类App正在集体“消失”",
+    "link": "https://www.tmtpost.com/8121590.html",
+    "summary": "线上健身平台失宠的背后，是一部垂直类APP的消亡史。",
+    "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -186,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-brave-8217-s-browser-one-ups-chrome-with-its-new-support-for-1787943000000",
-    "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-    "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+    "id": "news-neocloud-lambda-secures-1b-in-debt-to-buy-more-chips-1787948651000",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
@@ -240,11 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1-31-9-1-4-sierra-designs-1787920361000",
-    "title": "农夫山泉上半年茶饮料收入增长30.1%；古茗上半年营收增长31.9%，门店超1.4万家；滔搏获Sierra Designs中国市场独家运营权｜消研所周报",
-    "link": "https://www.tmtpost.com/8121016.html",
-    "summary": "UNIQLO SHANGHAI全球旗舰店将于10月30日焕新启幕；松鲜鲜颁布中国居民减钠白皮书。",
-    "publishedAt": "2026-08-28",
+    "id": "news--1787980092000",
+    "title": " 电动两轮车大洗牌：雅迪收购“外卖神车”金箭 ",
+    "link": "https://www.huxiu.com/article/4886975.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：濮振宇 外界对于雅迪收购金箭的一种判断是，收购事项虽然长期利好雅迪，但短期内雅迪需要消化整合成本，而新国标给雅迪带来的业绩压力尚未见底。 8月25日，雅迪控股（01585.HK）发布公告称，其拟以10.2亿元现金收购金箭科技集团有限公司（下称“金箭”）100%股权。 就在2026年初的金箭战略营销会议上，金箭创始人祝超峰刚宣布公司2025年销量首次突破300万台，公司未来将从性价比转向“质价比”。但仅仅半年后，祝超峰就把金箭转手卖出。 更大的反差在于双方的经营处境。雅迪在2026年上半年营收同比下滑5%，归母净利润同比下滑27.2%。而金箭则增长势头凶猛。那么，一个发展势头不错的品牌，为什么创始人要选择将其卖掉？雅迪又将如何消化金箭？ 金箭的性价比模式被新国标终结 金箭是电动两轮车市场第二梯队的企业，被业内称为“外卖神车”。 2012年，祝超峰注册成立无锡金箭电动车有限公司。2018年，金箭科技集团有限公司注册成立。天眼查信息显示，祝超峰100%持有金箭科技集团股权，这也是他能够向雅迪出售全部股权的重要前提。 金箭之所以能在竞争激烈的两轮电动车市场安身立命，靠的是极致性价比策略：主攻县乡下沉市场和外卖骑手群体，同配置比雅迪、爱玛等大品牌便宜。 公开信息显示，金箭在全国布局了4000多个终端网点，其中大部分位于县乡，并拥有无锡、天津、广东三大",
+    "publishedAt": "2026-08-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-273-ai-1787978789000",
+    "title": "273号文最大的溢出效应：AI随访成「刚需」",
+    "link": "https://www.tmtpost.com/8121563.html",
+    "summary": "随访病种扩围、复杂度上升，AI可承接工作量数倍放大。这四类玩家已就位，但铺区县只是门票，专科纵深与支付闭环才是分水岭。",
+    "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -266,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-open-weight-ai-companies-are-the-valley-8217-s-hottest-acqui-1787941180000",
-    "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "id": "news-an-anthropic-researcher-just-gave-us-a-peek-at-self-improvin-1787945438000",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
@@ -319,11 +345,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-18-1787920342000",
-    "title": "18个月造一款车？监管给“造车竞速”划出质量底线",
-    "link": "https://www.tmtpost.com/8120572.html",
-    "summary": "8月27日，工信部、公安部、生态环境部、市场监管总局联合启动为期一年的道路机动车辆产品生产一致性和质量提升专项行动。",
-    "publishedAt": "2026-08-28",
+    "id": "news-ai-1787979886000",
+    "title": " AI大厂与美国政府“抢钱” 比特币黄金成“避风港” ",
+    "link": "https://www.huxiu.com/article/4886973.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 华尔街对冲基金经理普遍认为，这场资本争夺战的最大受害者，是美元、美国国债信用与美国金融市场稳定性。尤其是若美国财政部通过长期债券回购“制度化”，试图持续干预影响10年期美国国债收益率时，全球金融资产定价基准与定价逻辑都将随之发生剧烈变化，令金融市场稳定性与美元和美国国债信用遭遇重大冲击。 8月12日，张刚抛售了600万美元10年期美国国债，转而认购AMD（超威半导体）刚发行的10年期高级无担保债券。“做出这个调仓决定，我没有任何犹豫。”张刚告诉经济观察报记者。 作为一名管理逾3亿美元的华尔街多策略对冲基金经理，他说自己的投资职责是实现收益最大化。当他看到AMD拟发行的10年期债券年化利率达到5.5%时，便果断放弃年化收益率只有4.7%的同期美国国债。 “其他华尔街投资机构也在从美国国债市场撤资，转投美国AI（人工智能）企业债券。”张刚表示，华尔街资本之所以追捧AI企业债券，不只是看中后者更高的发行利率，还有AI企业偿债能力更具有“确定性”。 相比美国国债兑付的可持续性引发金融市场担忧，AI产业爆发式增长使得AI企业的营业收入节节攀升，让华尔街投资机构认为AI企业拥有更稳健的还本付息能力。 8月下旬，张刚前往一家华尔街大型资管机构调研，发现后者逾50亿美元的投资组合底仓中，AI企业债券占比从年初的10%提升至目前的30%，而美国国债占比",
+    "publishedAt": "2026-08-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-20-1787978787000",
+    "title": "农村商业下沉了20年，县城为什么又开始成为主角",
+    "link": "https://www.tmtpost.com/8121533.html",
+    "summary": "当商品可获得性问题解决大半，农村消费转向更多在地服务，“下沉市场”开始同时受到覆盖与集聚两股力量牵引。",
+    "publishedAt": "2026-08-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -345,56 +385,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-sweden-built-one-of-europe-s-hottest-startup-ecosystems-1787936945000",
-    "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-    "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-    "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+    "id": "news-brave-8217-s-browser-one-ups-chrome-with-its-new-support-for-1787943000000",
+    "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
+    "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
     "publishedAt": "2026-08-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-what-a-20-year-drop-in-spoken-words-means-for-workplace-conn-1787909409000",
-    "title": "What a 20-year drop in spoken words means for workplace connection",
-    "link": "https://hrexecutive.com/what-a-20-year-drop-in-spoken-words-means-for-workplace-connection/",
-    "summary": "Spoken words have declined 28% since 2005, new research finds, raising questions about connection as workplace messaging rises. The post What a 20-year drop in spoken words means for workplace connection appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-hr-departments-run-with-ai-agents-will-still-require-hum-1787927040000",
-    "title": "Why HR departments run with AI agents will still require humans",
-    "link": "https://www.hrdive.com/news/why-hr-departments-run-with-ai-agents-will-still-require-humans/829048/",
-    "summary": "Despite flashy headlines, companies are not wiping out their HR departments &mdash; not even to implement AI, experts told HR Dive.",
-    "publishedAt": "2026-08-28",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-300-1787898179000",
-    "title": "首款癌症疫苗，一针300万？？？",
-    "link": "https://www.qbitai.com/2026/08/480557.html",
-    "summary": "别让顶级治疗方法称为富人专属",
-    "publishedAt": "2026-08-28",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
     ]
   }
 ];
@@ -989,6 +989,24 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1137208",
+    "title": "Maintenance Operative",
+    "company": "Scape",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "OPPORTUNITY AWAITS AT SCAPE Fancy working for a global brand that is genuinely going places",
+      "Scape is a premium accommodation provider with buildings across London, Surrey, Australia and the US",
+      "As such, we're always on the lookout for passionate people to join our growing family",
+      "Alongside an excel"
+    ],
+    "skills": [],
+    "location": "Hammersmith, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208",
+    "postedAt": "2026-08-24",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137073",
     "title": "Retail Store Associate",
     "company": "Rowan",
@@ -1005,8 +1023,8 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
     "postedAt": "2026-08-22",
-    "isNew": true
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-08-28T21:41:53.583Z';
+export const dataFetchedAt = '2026-08-29T05:28:10.630Z';
