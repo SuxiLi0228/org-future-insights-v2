@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campa-1788028919000",
-    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "publishedAt": "2026-08-29",
+    "id": "news-caterpillar-is-bringing-to-ai-deployment-what-it-learned-fro-1788102000000",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "publishedAt": "2026-08-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -66,16 +66,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788086425000",
-    "title": " 中国人保的利润起伏与双杀隐忧 ",
-    "link": "https://www.huxiu.com/article/4887137.html?f=rss",
-    "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔 2026年上半年，中国人保实现净利润498.12亿元，同比增长38.8%；归属于母公司股东的净利润367.45亿元，同比增长38.5%。 但是，一季度，归母净利润却同比掉了31.4%，业绩下滑幅度这么大，大大出乎市场预料。时间再往前一点，2025年，归母净利润466.46亿元，同比增长8.8%。 这种过山车式的表现，如果单纯认为是权益市场回调导致，就会忽视中国人保资负端的结构性问题。 本质上说，中国人保是上市险企里头唯一一个以财险为核心的险企，负债端天生具有短期、高频、刚性的属性，但资产端却具有长期、波动大的特点。 正经社分析师认为，这种短钱长投的久期错配，才是它业绩坐过山车的原因，也是估值一直偏低的隐性原因。 1 负债端底色，75%财险占比下的短期浮存 要理解中国人保的资负结构，需要先明确它与其他上市保险公司的区别，这是一家以财产险为核心的保险公司，而不是以寿险为主的险企。 从保费结构来看，2026年上半年，中国人保原保险保费收入4584.35亿元，其中财险占了3275.29亿元，占比高达71.5%，寿险与健康险合计占比不足30%。 在五大上市险企中，这一结构是独一份的存在，中国人寿、新华保险为纯寿险公司，中国平安、中国太保的寿险保费占比均超60%，唯有中国人保的财险业务占据主导地位。 财险业务的负债属性与寿险大不相同。寿险保单期限",
+    "id": "news-ai-1788104433000",
+    "title": " AI 时代，当速度变成公共品：努力的价格表正在重写 ",
+    "link": "https://www.huxiu.com/article/4887170.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 我们这一代人接受的教育里，有一条几乎不需要被论证的信念：努力就会有回报。认真读书、多花时间、肯吃苦、比别人多做一点，往往就能换来更好的成绩、更稳定的工作和更体面的收入。这套逻辑今天并没有失效，它仍然解释着大多数人的处境。真正开始松动的，是它的定价方式。 AI没有取消努力的意义，却在悄悄改写努力的价格表。一些过去昂贵的能力正在迅速变得便宜，一些过去并不显眼的能力反而开始变贵。所以当我们反复讨论AI会替代多少岗位时，问的也许并不是最要紧的问题。更值得关心的是，它正在重新定义：哪一类人类能力，值得在未来被长期奖励。 未来真正有回报的，可能越来越不是付出了多少劳动，而是做出了多少正确判断。 这并不是在贬低勤奋。它只是提醒我们，努力本身也是一种被定价的东西，而这张价格表正在被重写。 一、苦劳正在贬值，判断正在升值 在很长的时间里，一个人愿意连续工作十个小时，这件事本身就具有经济价值。原因并不复杂：人的时间有限，多工作两个小时，就意味着多处理几个客户、多写几段代码、多整理一批资料、多出一份方案。投入时间与创造价值之间存在着稳定的换算关系，于是勤奋顺理成章地成了竞争力的代名词。谁工作更长，谁完成得更多，谁看上去就更值得被雇佣。 AI打破的正是这层换算关系。它最不缺的恰恰是执行时间：不会因为连续运转八小时",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -105,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-techbbq-europe-8217-s-ai-conversations-kept-coming-back-t-1788025870000",
-    "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "id": "news-sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campa-1788028919000",
+    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
@@ -159,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20km-h-1788086255000",
-    "title": " “终于有希望提速了，”电动自行车限速拟提至20km/h，九号、雅迪、小牛等回应 ",
-    "link": "https://www.huxiu.com/article/4887136.html?f=rss",
-    "summary": "本文来自微信公众号： 新浪财经 ，作者：陈思竹，原文标题：《“终于有希望提速了！”电动自行车限速拟提至20km/h，九号、雅迪、小牛等回应》 “终于有希望提速了。” 近日，道路交通安全法修订草案提请十四届全国人大常委会初次审议，其中拟将电动自行车在非机动车道内的最高时速，从15公里提升至20公里。此外，草案中还提及，电动自行车在道路上行驶不得逆向行驶、超速行驶、拨打或接听手持电话等规定。 需要说明的是，此次调整的是道路行驶限速，而非产品设计上限。根据2025年9月实施的新版国标GB17761-2024，电动自行车最高设计车速仍为25km/h，此次修订并未涉及产品标准的调整。 消息一出，立刻引起无数电动自行车车主的关注。“这条规定肯定是比以前好一些，以前限速15有时候太慢了，和自行车速度差不多。”有长期依靠“小电驴”上下班的车主如是说。 不过目前，各大电动车厂商的行动还未跟上，《BUG》栏目联系多家电动车品牌得知，当前电动车普遍在速度高于15km/h时就会触发预警。针对这一条规则是否有调整，各厂商客服均表示，目前还未接到通知，“要等红头文件真正发下来后才会有系列调整。” 超过15km/h就有报警 客服：目前没有更新通知 需要区分的是，此次政策调整的并非舆论所关注的“电动自行车最高设计车速不超过25km/h”。而是电动自行车在道路上实际行驶时的上限速度。 此前，《道路交通安全法》第五十",
+    "id": "news-828-1788101185000",
+    "title": " 带看量大幅增长，828楼市新政见效了？ ",
+    "link": "https://www.huxiu.com/article/4887164.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 8月28日，楼市迎来全链条改革。 住房城乡建设部、自然资源部、金融监管总局联合印发《关于完善商品住房销售制度的通知》，明确有力有序推进商品住房现房销售：新出让土地和已出让未取得建设工程规划许可证的商品住房项目，优先选择现房销售；已取得建设工程规划许可证的项目，鼓励实行现房销售。 同一天，中国人民银行、金融监管总局联合印发《关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见》（下简称171号文），将个人住房贷款期限由最长30年延长至最长40年；同时明确，所购新建住房实行现房销售的，个人住房贷款应在销售备案后发放；实行预售的，应严格在项目竣工备案后发放。 政策密度前所未有，但普通购房者心中仍有诸多现实疑问：推行现房销售，是否能彻底规避烂尾风险？拉长房贷年限，能否刺激楼市持续回暖？ 带着这些问题，凤凰网《风暴眼》对话上海易居房地产研究院副院长严跃进，并实地走访了北京两处新房楼盘，尝试解答买房人最关切的现实困惑。 01 带看量大幅增长，不只是新政原因 顺义区一名房产中介向凤凰网《风暴眼》表示：“从8月15号之后带看就多了，昨天我们店都要忙死了。” 但当被问及是否由8月28日新政带动时，这位中介表示，“主要是立秋了，天不热了。再有就是好房子现在少了，昨天一套房4个客户都要。” 他补充道，带看量回升的同时，成交量反而比之前略有下滑，“",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -198,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8220-we-8217-re-not-doing-30-bets-a-year-8221-vijay-pande-on-1788025007000",
-    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "id": "news-at-techbbq-europe-8217-s-ai-conversations-kept-coming-back-t-1788025870000",
+    "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
     "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
@@ -252,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-985-1788086092000",
-    "title": " 东北985重建医学院，开始动真格了 ",
-    "link": "https://www.huxiu.com/article/4887134.html?f=rss",
-    "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良，原文标题：《东北985重建医学院，开始动真格了！》 官宣建设医学院、揭牌三甲直属附属医院、将临床医学纳入拟预备案本科专业，两个多月内，东北大学接连完成医学院建设的多项布局。 跨界办医加速，东北老牌985高校坐不住了！ 在官宣筹建医学院后，8月24日，东北大学补上最关键一块拼图——发布《2026拟新增、更名、预备案本科专业公示》，临床医学被列入拟预备案本科专业。 这所以材料、机器人、自动化闻名的百年工科强校，历史上其实完整设置过医学院，只是在院系调整中被并入他校，一断就是近半个世纪。 如今，它正试图沿着原路走回去：共建医学院，揭牌首个直属附属医院，并把临床医学纳入拟预备案专业名单。而它的入局，也让本就暗流涌动的东北医学教育格局，多了一个新变量。 东北大学的医学往事 东北大学的工科底色，几乎无需赘述，材料科学与工程、控制科学与工程、冶金工程等学科长期位居全国前列，是国内公认的老牌工科强校。 但很少有人知道，这所大学的历史上，曾完整设置过医学院。 1946年，中共中央东北局在辽宁本溪创办东北大学（初名东北公学），彼时的招生简章中，医学院与自然科学院、社会科学院、文艺学院并列，是学校最初设置的四大院之一。 这段医学建制存续时间很短。1947年至1949年，受全国高校院系调整影响，医学院整体并入中国医科大学；与此同时，学校的",
+    "id": "news--1788099050000",
+    "title": " 长鑫之后，合肥押注核聚变 ",
+    "link": "https://www.huxiu.com/article/4887162.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 中国最大的“赌城”在哪里？ 很多人会说是合肥。京东方、蔚来汽车、长鑫存储，这些合肥国资押中的公司，在当时几乎都不被看好，但最后证明合肥的确有眼光和魄力。 长鑫存储最近在A股上市，市值超过3万亿，合肥国资相关主体合计持有约36.79%的股份，账面收益超过1万亿，合肥在之前的房地产大周期中累计的地方债大概3000亿，一把轻松捞回。 与其说合肥是“赌城”，不如说它是“最牛风投”。因为它的投资逻辑从来不是押注单点，而是用产业链的思维做布局：先投一个头部企业，再把上下游配套拉进来。比如，一块屏幕引出一条显示产业链，一台整车拉来一整套新能源供应链，一颗存储芯片带出一片半导体生态。 不过，合肥有一笔投资跟之前的性质不一样——可控核聚变。 显示屏、存储芯片、新能源汽车，这些赛道至少有成熟的产品和市场。核聚变没有这些，全世界到现在没有一座商业堆，发出来的电能不能覆盖成本、什么时候能并网，没人说得准。 有人说合肥这一次赌得太大了，它到底在下一盘什么棋？底气又来自哪里？ 01：合肥为什么押注核聚变，又是怎么布局的？ 很多人以为合肥搞核聚变是最近几年跟风，其实起点比绝大多数人以为的早得多。 合肥西北边有个董铺水库，水库中间有个半岛叫科学岛。岛上的等离子体物理研究所1978年就建成了，到现在快五十年。所谓等离子体，就是核聚变反应里物质存在的形态。合肥的核",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -291,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hollywood-celebs-are-getting-into-microdrama-apps-1788019800000",
-    "title": "Hollywood celebs are getting into microdrama apps",
-    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+    "id": "news-8220-we-8217-re-not-doing-30-bets-a-year-8221-vijay-pande-on-1788025007000",
+    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
     "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
@@ -344,10 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788084565000",
-    "title": " 手机正在“杀死”充电宝，它却还在偷偷涨价 ",
-    "link": "https://www.huxiu.com/article/4887129.html?f=rss",
-    "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《手机正在「杀死」充电宝，它却还在偷偷涨价》 最近想买一个充电宝，打开购物网站才发现，过去印象里几十元就能解决的东西，如今稍微像样一点，价格就到了两三百元。 第一反应当然是：充电宝怎么变得这么贵了？ 更反常的是销量。有数据显示，2026年5月，国内移动电源线上主流市场零售量312.3万台，同比下降10.6%，这已经是2026年以来连续第五个月下滑；可同期零售均价涨到了137.1元，同比上涨12%。 卖得越来越少，价格也越来越贵。 新国标：更安全，也更贵了 2025年，多家头部品牌因电芯安全风险召回部分移动电源，市场监管总局撤销、暂停了多个充电宝及电芯厂家的CCC认证。民航局随后宣布：从2025年6月28日起，没有CCC标识、标识不清晰、属于被召回型号的充电宝，一律禁止携带乘坐境内航班。 对普通人来说，这条规定的变化来得具体而直接——出差前，得把充电宝翻过来，就着灯光找底部那行小字，确认上面有没有3C认证。用了好几年的旧充电宝，只能留在家里吃灰。 安检口拦下的，不只是几只问题充电宝，更是整个行业十几年的「欠账」。 这笔账是怎么欠下的？把时间倒回十几年前：移动电源原本是一件并不便宜的数码配件。 2013年，LG推出5200mAh的PMC-510，官方售价5.9万韩元，折合人民币三百多元；2014年，索尼CP-",
+    "id": "news--1788098635000",
+    "title": " 卫星越来越像“天上的基站”，商业航天会遇见华为吗？ ",
+    "link": "https://www.huxiu.com/article/4887159.html?f=rss",
+    "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 有时候和朋友们聊起商业航天，几杯酒下肚，话题总会越扯越远。有人半开玩笑地说，华为要是哪天真进了商业航天，会不会把这个行业“碾压”一遍？ 这当然更像一句酒桌上的玩笑。可酒醒以后，我总会继续想下去。华为已经做了手机卫星通信，也研究了很多年的天地一体网络，如果再往前走，它会停在通信设备和终端这一侧，还是有一天直接参与低轨卫星星座的建设？ 于是有了这篇文章。 8月14日，新华网黑龙江频道报道，工大卫星与华为达成合作协议，将依托技术底座打造“产线式”生产模式。随后，泰伯网援引工大卫星工作人员回应称，公司确实与几家企业签订过意向协议，但相关协议与卫星批量制造无关。 现有公开信息并不足以说明华为要造卫星。但整星制造与星座建设并非同一件事。低轨星座并不要求一家企业包办所有环节。整星可以由专业卫星企业研制和批产，发射交给运载火箭企业，另一家公司则可能深度参与通信架构、地面网络和终端。 再看华为，它与卫星互联网的交集其实已经不少。 01 至少可以追溯到2020年6月。 当时，中国联通与华为签署“空天地一体化”战略合作协议，双方搭建了基于MEC的低轨卫星—5G融合业务演示平台，探索低轨卫星与5G网络融合，以及卫星物联网、卫星车联组网等应用。 2021年，北京邮电大学深圳研究生院与天仪研究院共同发起“天算星座”，华为云成为首批合作共建单位，云原生边缘计算平台K",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -383,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-theragun-sense-makes-everyday-recovery-surprisingly-easy-1788012000000",
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+    "id": "news-hollywood-celebs-are-getting-into-microdrama-apps-1788019800000",
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
     "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
@@ -1042,4 +1043,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-30T11:10:09.614Z';
+export const dataFetchedAt = '2026-08-30T15:58:25.329Z';
