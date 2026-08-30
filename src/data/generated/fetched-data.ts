@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-caterpillar-is-bringing-to-ai-deployment-what-it-learned-fro-1788102000000",
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "id": "news-liux-8217-s-big-microcar-bets-on-sustainability-to-take-on-c-1788114824000",
+    "title": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
+    "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+    "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
     "publishedAt": "2026-08-30",
     "source": "TechCrunch",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788104433000",
-    "title": " AI 时代，当速度变成公共品：努力的价格表正在重写 ",
-    "link": "https://www.huxiu.com/article/4887170.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 我们这一代人接受的教育里，有一条几乎不需要被论证的信念：努力就会有回报。认真读书、多花时间、肯吃苦、比别人多做一点，往往就能换来更好的成绩、更稳定的工作和更体面的收入。这套逻辑今天并没有失效，它仍然解释着大多数人的处境。真正开始松动的，是它的定价方式。 AI没有取消努力的意义，却在悄悄改写努力的价格表。一些过去昂贵的能力正在迅速变得便宜，一些过去并不显眼的能力反而开始变贵。所以当我们反复讨论AI会替代多少岗位时，问的也许并不是最要紧的问题。更值得关心的是，它正在重新定义：哪一类人类能力，值得在未来被长期奖励。 未来真正有回报的，可能越来越不是付出了多少劳动，而是做出了多少正确判断。 这并不是在贬低勤奋。它只是提醒我们，努力本身也是一种被定价的东西，而这张价格表正在被重写。 一、苦劳正在贬值，判断正在升值 在很长的时间里，一个人愿意连续工作十个小时，这件事本身就具有经济价值。原因并不复杂：人的时间有限，多工作两个小时，就意味着多处理几个客户、多写几段代码、多整理一批资料、多出一份方案。投入时间与创造价值之间存在着稳定的换算关系，于是勤奋顺理成章地成了竞争力的代名词。谁工作更长，谁完成得更多，谁看上去就更值得被雇佣。 AI打破的正是这层换算关系。它最不缺的恰恰是执行时间：不会因为连续运转八小时",
+    "id": "news--1788120763000",
+    "title": " “还差一点儿” ",
+    "link": "https://www.huxiu.com/article/4887179.html?f=rss",
+    "summary": "本文来自微信公众号： 硅谷VC布莱恩 ，作者：硅谷VC&nbsp;布莱恩 黄仁勋刚把皮衣穿上，英伟达的股价就跌了2.03%。 他低头看了看拉链，又抬头看了看屏幕，像在判断这件事该怪市场、怪财报，还是怪衣服。 好在这不是真跌。今天还是星期二，财报要到星期三盘后才发。−2.03%来自会议室正中的一块屏幕，是公司内部AI对明晚盘后的预测。首席财务官Colette Kress站在屏幕旁边。她习惯把数字念到小数点后两位。好消息如此，坏消息也如此。世界末日如果发生在她任内，她大概也会先确认死亡人数有没有四舍五入。 “−2.03%。”她说。 黄仁勋问：“为什么不是−2%？” “模型算的是−2.03%。” “能不能四舍五入？” “股价不归财务部。” 会议室里没有人笑。黄仁勋也没有脱皮衣。他觉得一件衣服不该在财报前背锅。 模型正式名称叫Nemotron Market Intelligence。内部的人嫌名字太长，管它叫PricedIn。华尔街经常说，好消息已经priced in。英伟达觉得，与其等别人说，不如自己先算。 黄仁勋每次介绍PricedIn，都说它基于Nemotron 3.5 Lightning，总参数300亿，每次激活30亿，支持100万token上下文。工程师们知道，PricedIn遇到复杂问题会通过NeMo Switchyard偷偷转给Fable-5，遇到数学问题会转给DeepSee",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -106,11 +106,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campa-1788028919000",
-    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "publishedAt": "2026-08-29",
+    "id": "news-musk-8217-s-faster-path-to-more-gas-turbines-comes-with-poll-1788108865000",
+    "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "publishedAt": "2026-08-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -160,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-828-1788101185000",
-    "title": " 带看量大幅增长，828楼市新政见效了？ ",
-    "link": "https://www.huxiu.com/article/4887164.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 8月28日，楼市迎来全链条改革。 住房城乡建设部、自然资源部、金融监管总局联合印发《关于完善商品住房销售制度的通知》，明确有力有序推进商品住房现房销售：新出让土地和已出让未取得建设工程规划许可证的商品住房项目，优先选择现房销售；已取得建设工程规划许可证的项目，鼓励实行现房销售。 同一天，中国人民银行、金融监管总局联合印发《关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见》（下简称171号文），将个人住房贷款期限由最长30年延长至最长40年；同时明确，所购新建住房实行现房销售的，个人住房贷款应在销售备案后发放；实行预售的，应严格在项目竣工备案后发放。 政策密度前所未有，但普通购房者心中仍有诸多现实疑问：推行现房销售，是否能彻底规避烂尾风险？拉长房贷年限，能否刺激楼市持续回暖？ 带着这些问题，凤凰网《风暴眼》对话上海易居房地产研究院副院长严跃进，并实地走访了北京两处新房楼盘，尝试解答买房人最关切的现实困惑。 01 带看量大幅增长，不只是新政原因 顺义区一名房产中介向凤凰网《风暴眼》表示：“从8月15号之后带看就多了，昨天我们店都要忙死了。” 但当被问及是否由8月28日新政带动时，这位中介表示，“主要是立秋了，天不热了。再有就是好房子现在少了，昨天一套房4个客户都要。” 他补充道，带看量回升的同时，成交量反而比之前略有下滑，“",
+    "id": "news--1788107192000",
+    "title": " 刘翔之问：一位功勋运动员的价值困境与制度反思 ",
+    "link": "https://www.huxiu.com/article/4887177.html?f=rss",
+    "summary": "本文来自微信公众号： 蓝牌纪念册 ，作者：拾信记 一、事件：十一年后的“二选一” 2026年8月26日，退役已逾十一年的奥运冠军刘翔在微博上发布了一条动态：“在线等，碰到个难题：希望广大网友给我点意见。体育局让我买断或当教练上班，我该怎么办？”配图是2004年雅典奥运会夺冠时的1363号号码布纪念照片。 当晚，上海市体育局作出回应，称刘翔是“镌刻上海历史的功勋体育人”，将依据国家及上海市运动员退役安置相关规定，通过组织安置或自主择业两条路径妥善处置。然而，刘翔并不满意。他在评论区反问：“还依规？这是依的哪一条规？十年了想起来安置我了，分广告费的时候怎么不依法依规安置我。”深夜，他再度发文：“继续搞笑吧，我一直没有离开，并不是我不想走，而是你没让我走，10年了，突然现在要‘安置’我。” 这场公开化的矛盾，揭开的不仅是一位功勋运动员的个人困境，更是一个深层的制度追问：一个为国家赢得无上荣耀的人，在退出竞技舞台之后，应当被如何对待？ 二、刘翔：超越体育的民族记忆 我出生于90年代初。2004年刘翔雅典夺冠时，我正埋头备考高考，对体育赛事的关注并不多。但即便在那个信息尚不发达的年代，“刘翔赢了”这四个字，依然无数次穿透课本与试卷，传入每一个中国人的耳中。那种鼓舞、那种自豪，至今回想仍觉热血沸腾。 2008年北京奥运会、2012年伦敦奥运会，刘翔因伤退赛。我从未怨恨过他，也从未在网络发表过任",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -199,11 +199,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-techbbq-europe-8217-s-ai-conversations-kept-coming-back-t-1788025870000",
-    "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-    "publishedAt": "2026-08-29",
+    "id": "news-techcrunch-mobility-the-hidden-human-cost-of-robotaxis-1788105780000",
+    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+    "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-08-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -253,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788099050000",
-    "title": " 长鑫之后，合肥押注核聚变 ",
-    "link": "https://www.huxiu.com/article/4887162.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 中国最大的“赌城”在哪里？ 很多人会说是合肥。京东方、蔚来汽车、长鑫存储，这些合肥国资押中的公司，在当时几乎都不被看好，但最后证明合肥的确有眼光和魄力。 长鑫存储最近在A股上市，市值超过3万亿，合肥国资相关主体合计持有约36.79%的股份，账面收益超过1万亿，合肥在之前的房地产大周期中累计的地方债大概3000亿，一把轻松捞回。 与其说合肥是“赌城”，不如说它是“最牛风投”。因为它的投资逻辑从来不是押注单点，而是用产业链的思维做布局：先投一个头部企业，再把上下游配套拉进来。比如，一块屏幕引出一条显示产业链，一台整车拉来一整套新能源供应链，一颗存储芯片带出一片半导体生态。 不过，合肥有一笔投资跟之前的性质不一样——可控核聚变。 显示屏、存储芯片、新能源汽车，这些赛道至少有成熟的产品和市场。核聚变没有这些，全世界到现在没有一座商业堆，发出来的电能不能覆盖成本、什么时候能并网，没人说得准。 有人说合肥这一次赌得太大了，它到底在下一盘什么棋？底气又来自哪里？ 01：合肥为什么押注核聚变，又是怎么布局的？ 很多人以为合肥搞核聚变是最近几年跟风，其实起点比绝大多数人以为的早得多。 合肥西北边有个董铺水库，水库中间有个半岛叫科学岛。岛上的等离子体物理研究所1978年就建成了，到现在快五十年。所谓等离子体，就是核聚变反应里物质存在的形态。合肥的核",
+    "id": "news--1788106156000",
+    "title": " 今天该怎样印钱？我在瑞金、遵义学了一课|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4887176.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《今天该怎样印钱？我在瑞金、遵义学了一课 || 大视野》 每当经济增长承压，呼吁货币宽松、财政积极的声音就会增加。 对于“直升机撒钱”“债务货币化”的现代货币理论（MMT），国内也有学者认为可以借鉴，其隐含的政策建议是——财政多发债，央行多印钱。 目前的《中国人民银行法》规定，货币政策目标是“保持货币币值的稳定，并以此促进经济增长”，不得对政府财政透支，不得直接认购、包销国债和其他政府债券。央行可以“运用货币政策工具，在公开市场上买卖国债、其他政府债券和金融债券及外汇”，保持流动性充裕，但不能直接印钱，变成财政的提款机。 我在上海高级金融学院读过EMBA和DBA，第一课是从“金融是在不同时空的价值交换”这一定义学起的。 金融到底是什么？货币到底是什么？ 最近，和新浪财经、中国邮政储蓄银行的一个摄制组在瑞金、遵义寻访90多年前的红色金融往事，对这些问题有了更深的认识。 “扁担银行” 1932年2月1日，在江西瑞金叶坪一处两层民房里，中华苏维埃共和国国家银行（下称“国家银行”）挂牌成立。最初只有5名工作人员，毛泽民任首任行长，曹菊如任会计科科长，启动资金20万银元，被称为“世界上最小的国家银行”。 两年多后，1934年10月，红军在第五次“反围剿”失利后开始长征。国家银行总行工作人员中有14人被编入军委直属纵队第十五大队，还配备",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
@@ -292,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8220-we-8217-re-not-doing-30-bets-a-year-8221-vijay-pande-on-1788025007000",
-    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-    "publishedAt": "2026-08-29",
+    "id": "news-caterpillar-is-bringing-to-ai-deployment-what-it-learned-fro-1788102000000",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "publishedAt": "2026-08-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -345,16 +345,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788098635000",
-    "title": " 卫星越来越像“天上的基站”，商业航天会遇见华为吗？ ",
-    "link": "https://www.huxiu.com/article/4887159.html?f=rss",
-    "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 有时候和朋友们聊起商业航天，几杯酒下肚，话题总会越扯越远。有人半开玩笑地说，华为要是哪天真进了商业航天，会不会把这个行业“碾压”一遍？ 这当然更像一句酒桌上的玩笑。可酒醒以后，我总会继续想下去。华为已经做了手机卫星通信，也研究了很多年的天地一体网络，如果再往前走，它会停在通信设备和终端这一侧，还是有一天直接参与低轨卫星星座的建设？ 于是有了这篇文章。 8月14日，新华网黑龙江频道报道，工大卫星与华为达成合作协议，将依托技术底座打造“产线式”生产模式。随后，泰伯网援引工大卫星工作人员回应称，公司确实与几家企业签订过意向协议，但相关协议与卫星批量制造无关。 现有公开信息并不足以说明华为要造卫星。但整星制造与星座建设并非同一件事。低轨星座并不要求一家企业包办所有环节。整星可以由专业卫星企业研制和批产，发射交给运载火箭企业，另一家公司则可能深度参与通信架构、地面网络和终端。 再看华为，它与卫星互联网的交集其实已经不少。 01 至少可以追溯到2020年6月。 当时，中国联通与华为签署“空天地一体化”战略合作协议，双方搭建了基于MEC的低轨卫星—5G融合业务演示平台，探索低轨卫星与5G网络融合，以及卫星物联网、卫星车联组网等应用。 2021年，北京邮电大学深圳研究生院与天仪研究院共同发起“天算星座”，华为云成为首批合作共建单位，云原生边缘计算平台K",
+    "id": "news-ai-1788106107000",
+    "title": " 币圈奖励事件，AI圈不断换题：什么样的人会被下一轮环境奖励？ ",
+    "link": "https://www.huxiu.com/article/4887175.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 最近，孙宇晨又一次从币圈冲进了更大的舆论场。 让我在意的是另一件事：为什么一个人持续制造事件、占住注意力、让自己成为讨论中心，在币圈看上去常常不是一种偶发的营销技巧，而像是一种很有效的商业能力？ 一个行业长期奖励什么人格，往往不是因为它偏爱某种道德，而是因为它的反馈系统让某些行为更容易变现。币圈最有意思的地方就在这里：注意力本身可以很快进入价格系统。你制造一个事件，市场开始讨论，新的买方涌进来，流动性变厚，价格和叙事继续互相推高。事件的价值不是只在媒体版面上，它可能很快写进盘口。 AI圈当然也需要注意力。尤其在2023年，AI和币圈甚至有过一段很像的时期：所有人都在谈AGI、算力、Scaling、超级模型和下一次技术爆发；资本、人才、媒体和开发者都在寻找“可能定义未来的人”。那时，会讲故事、敢下注、能调动资源的人，也确实很吃香。 可这两条路没有一直并行下去。 AI走到今天，开始要求注意力拿出别的东西来担保。模型要跑得出来，产品要有人留下来，代码要经过测试，Agent要能完成任务，企业要敢把数据和流程交给它。注意力依然能打开第一扇门，但它越来越难替代后面的验证。 回看过去三年AI变化时，觉得最有意思的一点：AI圈不是简单地从“更爱技术的人”变成“更爱产品的人”。它一直在换题。每次模型能力、成本结构、工具边界和风险边界变化，都会重",
     "publishedAt": "2026-08-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -384,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hollywood-celebs-are-getting-into-microdrama-apps-1788019800000",
-    "title": "Hollywood celebs are getting into microdrama apps",
-    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+    "id": "news-sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campa-1788028919000",
+    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "publishedAt": "2026-08-29",
     "source": "TechCrunch",
     "tags": [
@@ -1043,4 +1044,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-30T15:58:25.329Z';
+export const dataFetchedAt = '2026-08-30T20:29:35.241Z';
