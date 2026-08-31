@@ -2,6 +2,145 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-01-auto",
+    "date": "2026-09-01",
+    "session": "auto",
+    "title": "2026-09-01 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-01-auto-1",
+        "emoji": "⚠️",
+        "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+      },
+      {
+        "id": "sig-2026-09-01-auto-2",
+        "emoji": "💡",
+        "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+        "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+        "detail": "来源: TechCrunch。Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
+      },
+      {
+        "id": "sig-2026-09-01-auto-3",
+        "emoji": "🚨",
+        "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2",
+        "summary": "Cornerstone Chief People Officer Carina Cortez explains how workforce readiness is more than a skills problem. It’s a leadership challenge that includes employee experience, organizational change, tech adoption, and aligning people with business strategy. The post Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2 appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Cornerstone Chief People Officer Carina Cortez explains how workforce readiness is more than a skills problem. It’s a leadership challenge that includes employee experience, organizational change, tech adoption, and aligning people with business strategy. The post Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2 appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization",
+          "strategy"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/ready-or-not-what-workforce-readiness-really-requires/"
+      },
+      {
+        "id": "sig-2026-09-01-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：QGPINNs: A Physics-Informed Neural Network Framework for Non...",
+        "summary": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen",
+        "detail": "作者: Vaibhav Mehandiratta, Saket Ramchandra。We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorporates standard continuity and Kirchhoff-Neumann vertex conditions and Dirichlet boundary conditions into the learning process to couple the local edge-wise neural approximations into a global solution on the graph. The framework is developed for two representative classes of nonlinear models: multi",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.28589v1"
+      },
+      {
+        "id": "sig-2026-09-01-auto-5",
+        "emoji": "💼",
+        "title": "Benzinga 正在招募 AI Engineer Data APIs",
+        "summary": "岗位类型：业务+AI 复合岗。Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link",
+        "detail": "技能要求: 未标注。Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link Tell us the hardest problem you hit and how you solved it Focus on architecture decisions and tradeoffs, not a f.. Please mention th",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Benzinga"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Benzinga",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-01-1",
+        "priority": "medium",
+        "action": "关注「Hugging Face hack could indicate cultura」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-01-2",
+        "priority": "low",
+        "action": "关注「A group funded by Andreessen, Horowitz, 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-01-3",
+        "priority": "high",
+        "action": "关注「Ready or Not: The Skills Strategies and 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-01-4",
+        "priority": "medium",
+        "action": "关注「研究速递：QGPINNs: A Physics-Informed Neural 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-01-5",
+        "priority": "medium",
+        "action": "关注「Benzinga 正在招募 AI Engineer Data APIs」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Benzinga"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 68,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-01 生成，聚合了 30 条新闻、20 篇论文、18 个岗位。",
+    "fetchWindow": "2026-09-01 00:00 - 2026-09-01 23:59"
+  },
+  {
     "id": "report-2026-08-31-auto",
     "date": "2026-08-31",
     "session": "auto",

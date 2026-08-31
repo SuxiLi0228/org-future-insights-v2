@@ -2,6 +2,100 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-hugging-face-hack-could-indicate-cultural-issues-at-openai-1788199200000",
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "publishedAt": "2026-08-31",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-a-group-funded-by-andreessen-horowitz-and-brockman-plans-dat-1788214445000",
+    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+    "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+    "publishedAt": "2026-08-31",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ready-or-not-the-skills-strategies-and-stakes-of-the-ai-work-1788210697000",
+    "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2",
+    "link": "https://hrexecutive.com/ready-or-not-what-workforce-readiness-really-requires/",
+    "summary": "Cornerstone Chief People Officer Carina Cortez explains how workforce readiness is more than a skills problem. It’s a leadership challenge that includes employee experience, organizational change, tech adoption, and aligning people with business strategy. The post Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2 appeared first on HR Executive .",
+    "publishedAt": "2026-08-31",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-us-firms-plan-to-increase-employee-base-salary-budgets-by-an-1788205080000",
+    "title": "US firms plan to increase employee base salary budgets by an average 3.3% in 2027",
+    "link": "https://www.hrdive.com/news/us-firms-plan-to-increase-employee-base-salary-budgets-by-an-average-33-i/829177/",
+    "summary": "A majority of companies are also expecting incentive payouts to fall below target levels.",
+    "publishedAt": "2026-08-31",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-vc-200-4000-ai-1788182429000",
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "link": "https://www.qbitai.com/2026/08/481928.html",
+    "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+    "publishedAt": "2026-08-31",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788192625000",
+    "title": " 美联储主席沃什“最鹰”讲话，特朗普又“遇人不淑”？ ",
+    "link": "https://www.huxiu.com/article/4887467.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 沃什上台 凯文・沃什与特朗普相识，是由他的岳父、特朗普的金主好友、雅诗兰黛继承人罗纳德・劳德引荐的。 2017年，特朗普第一任期遴选美联储主席时两人正式面谈。同期候选人还有杰罗姆・鲍威尔。最终特朗普选择了鲍威尔。鲍威尔时任美联储理事，参议院通过阻力小；而且他主张放松金融监管，这很合特朗普的胃口。 然而没想到，鲍威尔2018年2月上任后不顾特朗普强烈反对，一年连续加息四次。理论上，为了维护央行货币政策的独立性，总统应该避嫌。不过，特朗普不是那种能够忍住不说的人，他骂鲍威尔是傻瓜、疯子，公开咨询能否解雇他。 2019年，鲍威尔“预防性”降息三次；2020年，疫情来袭，鲍威尔紧急降息两次；2021年，按兵不动；2022年2月任期结束。 拜登（2021年上台）提名鲍威尔连任，强调美联储独立性的重要性。从2022年3月到2023年7月，一年半不到，鲍威尔连续加息11次。美股显著走熊，纳指跌幅最深。要不是AI浪潮来解救，美股将惨不忍睹。反正拜登也不炒股。 2025年1月，特朗普第二次上任，一上任就猛烈抨击鲍威尔，强烈要求他降息，然而这次鲍威尔就是不降息。特朗普非常生气，扬言要解雇他。 有一次，特朗普可能气昏了头，对记者说，只有拜登这个白痴才会任命鲍威尔这个白痴。记者不得不提醒他，是他自己先任命鲍威尔的。 好不容易熬到鲍威尔2026年5月",
+    "publishedAt": "2026-08-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-momenta-1788185580000",
+    "title": "Momenta上市首份半年报：技术故事讲完之后，资本市场开始算账",
+    "link": "https://www.tmtpost.com/8123399.html",
+    "summary": "8月31日，Momenta上市之后发布了首份半年报，量产智驾开始成为一门“软件生意。",
+    "publishedAt": "2026-08-31",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-a-secretive-antiaging-drug-and-joining-virtual--1787920527000",
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
@@ -14,36 +108,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-u-s-is-building-barriers-around-drones-and-robots-but-ch-1788143640000",
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+    "id": "news-ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-i-1788207625000",
+    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+    "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+    "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
     "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-the-frontline-is-hr-8217-s-biggest-ai-blind-spot-1788178556000",
-    "title": "The frontline is HR&#8217;s biggest AI blind spot",
-    "link": "https://hrexecutive.com/the-frontline-is-hrs-biggest-ai-blind-spot/",
-    "summary": "A lot of AI is built around knowledge workers, but 80% of workers are on the frontline. How do you reach them? The post The frontline is HR&#8217;s biggest AI blind spot appeared first on HR Executive .",
+    "id": "news-glp-1s-what-10-years-of-experience-prescribing-them-reveals-1788207105000",
+    "title": "GLP-1s: What 10+ years of experience prescribing them reveals",
+    "link": "https://hrexecutive.com/glp-1s-what-10-years-of-experience-prescribing-them-reveals/",
+    "summary": "Date &#038; Time: Tuesday, September 29, 2026 at 2:00 pm ET Join Virta providers and business leaders for a candid, ask-me-anything session addressing the questions benefits professionals are still trying to answer as they evaluate and refine their organizations’ GLP-1 strategies. The post GLP-1s: What 10+ years of experience prescribing them reveals appeared first on HR Executive .",
     "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-your-employees-completed-compliance-training-can-they-apply--1788166800000",
-    "title": "Your employees completed compliance training. Can they apply it when it matters?",
-    "link": "https://www.hrdive.com/spons/your-employees-completed-compliance-training-can-they-apply-it-when-it-mat/828672/",
-    "summary": "New Go1 research reveals where compliance confidence and real-world readiness diverge.",
+    "id": "news-california-ban-on-workplace-ai-emotion-surveillance-heads-to-1788205020000",
+    "title": "California ban on workplace AI emotion surveillance heads to Newsom’s desk",
+    "link": "https://www.hrdive.com/news/california-ban-on-workplace-ai-emotion-surveillance-heads-to-newsom/829207/",
+    "summary": "If passed, the bill also would prohibit the collection of an employee&rsquo;s &ldquo;neural data.&rdquo;",
     "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
@@ -54,10 +149,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788179326000",
-    "title": " 一辈子当讲师的人 ",
-    "link": "https://www.huxiu.com/article/4887417.html?f=rss",
-    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：徐可莹 张青在租住了18年的“老破小”家里、教学楼废弃公厕改造的办公室里堆着几吨书。 这些年她把大部分工资都换成了专业书籍，动辄上千元的典藏版古籍、画册和艺术品，她买起来毫不心疼。最窘迫的时候，银行卡里只剩3块钱。不久前，她退休了。学校通知她移交办公室空调、书架和沙发等设备，可她手里的国家社科基金后期资助重点项目还未结项，只好被迫“无家可归”。 直到退休，她的职称一栏，写的还是“讲师”。 在高校，这不是一个人的故事。 悬浮感 如果当初没有选择回到家乡，程建或许会一直停留在讲师这个岗位上。 程建曾陪妻子在上海五角场的商圈闲逛过。他如此形容当时的感觉，“好像那个地方不会属于我”。和大多数沪漂年轻人一样，程建小两口每次去大型商场基本都在饮食区消费，那些散发着高级香水味的商铺，他们向来只是路过。 差不多10年过去了。程建如今42岁，在山东省一所省属高校当上了副院长，4年前顺利获评副教授，算得上“风生水起”。但很少有人知道，此前，他做了足足8年讲师。 程建是山东人，本科毕业于本省的一所地方院校，原本读理工科。受兴趣驱使，考研时跨考教育学方向，并于2014年从一所985师范大学拿到博士学位。 读书期间他的成绩并不差，拿过国家奖学金，毕业时手握好几份offer。其中，上海一所211大学抛来的条件格外诱人，安家费加科研启动资金合计接近30万。即便",
+    "id": "news--1788162792000",
+    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+    "link": "https://www.qbitai.com/2026/08/481923.html",
+    "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
+    "publishedAt": "2026-08-31",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788192054000",
+    "title": " 人·地·钱：大国转型中的制度、财政与空间 ",
+    "link": "https://www.huxiu.com/article/4887466.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：经观观察家 只有通过改要素配置、动利益格局、破发展瓶颈，推动这两大关联体制的渐进式、系统性、深层次协同改革，才有望将长期以来相互割裂、相互掣肘的土地、户籍、财税改革紧密咬合在一起 旧的社会时钟刻度既已停摆，便无需强求步调重新一致。探索与停滞的分野，仅在于弯路能否转化为走向下一步的经验。或许，我们亟待修复的，正是其间断裂的连接，而非对晚到或改道的恐惧。 从“分灶”到“分税” 在一个超大规模的转型国家中，央地财政关系始终是理解其经济增长模式、制度变迁轨迹以及社会治理逻辑的内核性线索。正如国务院发展研究中心王瑞民研究员在《央地之间：转移支付的政治及其他》中所指出的那样，财政是观察社会变革的最佳视角，也是理解中国经济增长模式及其动态演变的总纲。 央地之间“钱”的性质、流动及其方向，如同一条条隐秘的河流，不仅深刻塑造了地方政府的行为模式及经济发展路径选择，串起了农业经济、土地与城镇化、财政体制、住房政策等重要政策议题，更与每个国民的生活选择、财富积累乃至命运走向息息相关。 王瑞民是香港中文大学（深圳）陶然教授的学生，《央地之间》可视为陶然教授《人地之间：中国增长模式下的城乡土地改革》一书子议题的放大。《人地之间》从空间维度的土地要素切入，构建了一个考察政府与企业之间、不同产业之间、中央与地方之间三组关系的整体性理论分析框架。 如果以《央地之间》",
     "publishedAt": "2026-08-31",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788177026000",
-    "title": "雪天盐业跨界“蛇吞象”并购谋变，百亿负极标的借道突围丨并购一线",
-    "link": "https://www.tmtpost.com/8123115.html",
-    "summary": "99亿市值公司拟收购129亿估值负极材料企业，停牌前股价提前涨停引质疑。",
+    "id": "news--1788185553000",
+    "title": "中国电视的“坏日子”，还没结束",
+    "link": "https://www.tmtpost.com/8123457.html",
+    "summary": "当规模红利彻底退潮，中国电视产业真正的下半场，或许才刚刚开始。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grindr-wants-to-be-the-everything-app-for-gay-men-investors--1788142737000",
-    "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-    "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-    "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
+    "id": "news-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok-1788207225000",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
     "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
@@ -106,52 +214,48 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their--1788177641000",
-    "title": "Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers",
-    "link": "https://hrexecutive.com/workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their-co-workers/",
-    "summary": "New research finds that almost 40% of employees are concerned their co-workers have a competitive advantage because of better AI skills. The post Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers appeared first on HR Executive .",
+    "id": "news-workplace-wellbeing-the-awareness-gap-has-closed-the-executi-1788179452000",
+    "title": "Workplace wellbeing: The awareness gap has closed. The execution gap persists",
+    "link": "https://hrexecutive.com/workplace-wellbeing-the-awareness-gap-has-closed-the-execution-gap-persists/",
+    "summary": "Although the data shows that workplace wellbeing has become an accepted business priority, companies struggle to translate it into measurable outcomes. The post Workplace wellbeing: The awareness gap has closed. The execution gap persists appeared first on HR Executive .",
     "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-human-capital-management-solutions-are-everywhere-so-why-are-1788166800000",
-    "title": "Human Capital Management solutions are everywhere—so why aren’t businesses getting the expected value?",
-    "link": "https://www.hrdive.com/spons/human-capital-management-solutions-are-everywhereso-why-arent-businesses/828561/",
-    "summary": "Organizations have spent years investing in Human Capital Management technology, yet many continue to struggle with extracting meaningful value from those investments.",
+    "id": "news-settled-8-lawsuits-that-ended-in-payouts-in-august-1788193140000",
+    "title": "Settled: 8 lawsuits that ended in payouts in August",
+    "link": "https://www.hrdive.com/news/8-lawsuits-that-ended-in-payouts-in-august/829141/",
+    "summary": "The settlements ranged from $75,000 to $21.5 million, court records show.",
     "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
-    "id": "news-4-glm-5-1788177945000",
-    "title": " 大模型没有秘笈：腾讯混元4背后站着GLM-5核心研究员 ",
-    "link": "https://www.huxiu.com/article/4887411.html?f=rss",
-    "summary": "本文来自微信公众号： AI前线 ，作者：四月，原文标题：《独家｜大模型没有秘笈：腾讯混元4背后站着GLM-5核心研究员》 “做大模型其实并没有什么秘密。” 两个月前，从OpenAI空降腾讯的姚顺雨，在谈及大模型竞争时这样说道。当时很少有人真正在意这个论断。毕竟，此话由一位顶级研究员口中说出，未免有凡尔赛之嫌。 但只要看清他接手的战局，就知道此话未必是谦辞。 过去半年，智谱、月之暗面、DeepSeek、千问……群狼环伺，开源旗舰的更新周期被压到几个月，甚至数周；而腾讯，急缺一款能在行业里站稳脚跟的旗舰模型。 这位不到30岁的空降少帅，接手的从来都不是一摊慢工出细活的研究课题，而是一场容不得半点迟疑的前线救火。他要做的，是在最短时间内重组团队、更新血液，拿出一个稳站第一梯队的答案。 上周，混元交出了这份答卷。 这是混元大语言与多模态两大部门合并重组后的首次大考，混元4（Hy4 preview）各项指标直逼第一梯队，参数规模770B，支持百万上下文，距离上一代大版本发布不到四个月。 细品这份README，你会猛然回过味来：姚顺雨说的是大实话。 从官方坦诚架构设计“受到DeepSeek和GLM启发”，到注意力模块借鉴DeepSeek的DSA与智谱的IndexCache机制，再到GLM-5的核心研究员数月前出现在混元论文作者栏…… 原来大模型所谓的“独门秘笈”，早已被顶尖人才的高速流动、极度",
+    "id": "news-ai-1788161642000",
+    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+    "link": "https://www.qbitai.com/2026/08/481919.html",
+    "summary": "",
     "publishedAt": "2026-08-31",
-    "source": "虎嗅",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
-      "technology",
-      "ai"
+      "ai",
+      "technology"
     ]
   },
   {
-    "id": "news--1788175859000",
-    "title": "国补退坡后的第一次裸泳",
-    "link": "https://www.tmtpost.com/8122874.html",
-    "summary": "补贴时代比的是谁跑得快，后补贴时代比的是谁的身体好。",
+    "id": "news-ai-playstation-1788181440000",
+    "title": "独家对话江口达雄：芯片涨价与AI热夹击，PlayStation如何守主机阵地",
+    "link": "https://www.tmtpost.com/8123349.html",
+    "summary": "AI内容抢走越来越多的娱乐时间，年轻人是否还愿意在周末坐进客厅、握住手柄？江口达雄的回答并不激进，像带着某种老派的从容，但他依旧保持谨慎，因为不确定性始终存在。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -174,11 +278,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-liux-8217-s-big-microcar-bets-on-sustainability-to-take-on-c-1788114824000",
-    "title": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
-    "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-    "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-    "publishedAt": "2026-08-30",
+    "id": "news-apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026-1788204741000",
+    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+    "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -187,24 +291,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-big-employers-shop-for-new-health-benefits-vendors-1788176748000",
-    "title": "Big employers shop for new health benefits vendors",
-    "link": "https://hrexecutive.com/big-employers-shop-for-new-health-benefits-vendors/",
-    "summary": "Service providers that \"underperform\" or fail to attract enough users could be replaced, according to new Business Group on Health survey data. The post Big employers shop for new health benefits vendors appeared first on HR Executive .",
+    "id": "news-80-of-workers-doubt-leadership-8217-s-motives-new-survey-fin-1788179411000",
+    "title": "80% of workers doubt leadership&#8217;s motives, new survey finds",
+    "link": "https://hrexecutive.com/80-of-workers-doubt-leaderships-motives-new-survey-finds/",
+    "summary": "New survey data shows why employee trust falls during layoffs and AI change, and what Meta, IBM and Oracle reveal about fixing it. The post 80% of workers doubt leadership&#8217;s motives, new survey finds appeared first on HR Executive .",
     "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-employers-offer-loan-repayment-re-recruiting-to-attract-skil-1787931120000",
-    "title": "Employers offer loan repayment, ‘re-recruiting’ to attract skilled labor",
-    "link": "https://www.hrdive.com/news/employers-offer-loan-repayment-re-recruiting-to-attract-skilled-labor/829077/",
-    "summary": "The data center boom is forcing contractors and other employers to rethink how they attract and retain sought-after workers like electricians and plumbers.",
-    "publishedAt": "2026-08-28",
+    "id": "news-the-washington-post-karen-attiah-saga-raises-questions-about-1788188940000",
+    "title": "The Washington Post-Karen Attiah saga raises questions about worker social media policies",
+    "link": "https://www.hrdive.com/news/the-washington-post-karen-attiah-saga-raises-questions-about-worker-social/829172/",
+    "summary": "An arbitrator ordered the Post to reinstate Attiah and provide back pay after firing her for social media posts. Here&rsquo;s what HR can learn from the situation.",
+    "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -214,23 +319,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-1788176746000",
-    "title": " 从“大连没有湖南台”到甘肃卫视四省退网，落地费博弈20年浮沉 ",
-    "link": "https://www.huxiu.com/article/4887408.html?f=rss",
-    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 6月底，家住广州的王先生想关注老家甘肃的“中华人文始祖伏羲大典”，却发现，他可以在各种视频号等甘肃融媒体观看，却死活在电视上搜不到甘肃卫视。 原来，像这样搜不到甘肃卫视的情况不仅仅发生在广东省。 在甘肃省广播电视局的政务公开页面，有人在5月19日提了这样一个问题： 最近一段时间，一些省份（黑龙江，江苏，广东，广西）的有线网络的甘肃卫视信号突然停播下线了……这个是什么原因？ 三天后，甘肃台总编室给出回复： 近年来，甘肃卫视省外落地覆盖财政扶持资金大幅缩减，叠加频道自身经营承压，难以承担较高的省外覆盖传输费用。经综合研判，目前已暂停与黑龙江、江苏、广东、广西广电网络公司的落地传输合作。 翻译一下，就是连落地费都付不起了。 虽然对最终用户也就是我们观众而言，国内主办的电视台大多数都是“免费”的，至少卫视频道有各种方法可以看，但实际上这些频道有不少都需要错综复杂的授权费用，只是有的一次性缴费就够了，有的是别的出资方“代缴”了，等等。这个卫视频道的“落地费”就是由想要落地的电视台（比如甘肃卫视），交给目标地域的有线网络的（比如广东）。 卫视想要让你看到它，是要花钱的。这是一个很少被公众讨论的行业内幕，而且这笔钱，越来越多的卫视已经掏不出来了。比如在去年，吉林当地就已经看不到5家省级卫视了。 难不成以后省外务工的人员，想要看老家的新闻直播，",
+    "id": "news-gpt-6-demo-1788151646000",
+    "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+    "link": "https://www.qbitai.com/2026/08/481893.html",
+    "summary": "核弹爆炸",
     "publishedAt": "2026-08-31",
-    "source": "虎嗅",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
+      "ai",
       "technology"
     ]
   },
   {
-    "id": "news-50-1788175513000",
-    "title": "主动调整夯实经营基础，水井坊渠道库存同比下降约50%  | 看财报",
-    "link": "https://www.tmtpost.com/8122894.html",
-    "summary": "现金流大幅度改善，渠道去库存效果显著。",
+    "id": "news--1788177026000",
+    "title": "雪天盐业跨界“蛇吞象”并购谋变，百亿负极标的借道突围丨并购一线",
+    "link": "https://www.tmtpost.com/8123115.html",
+    "summary": "99亿市值公司拟收购129亿估值负极材料企业，停牌前股价提前涨停引质疑。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -253,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-musk-8217-s-faster-path-to-more-gas-turbines-comes-with-poll-1788108865000",
-    "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-    "publishedAt": "2026-08-30",
+    "id": "news-instagram-puts-new-limits-on-undisclosed-ai-profiles-1788203819000",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -266,139 +371,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-in-3-employees-say-retirement-is-out-of-reach-1787913003000",
-    "title": "1 in 3 employees say retirement is out of reach",
-    "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/",
-    "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-aga-1787931120000",
-    "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
-    "link": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
-    "summary": "Among other claims, the plaintiff alleged she was excluded from a company-organized diversity, equity and inclusion webinar described as &ldquo;not for [W]hite folks.&rdquo;",
-    "publishedAt": "2026-08-28",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788176604000",
-    "title": " 我们不该逼着所有人都上班，很多工作已经没有实际意义 ",
-    "link": "https://www.huxiu.com/article/4887410.html?f=rss",
-    "summary": "本文来自微信公众号： 知危 ，编辑：Rick、大饼，作者：知危编辑部 今年4月，知危编辑部曾就“起点收入”话题与经济与人口学者黄文政进行过一次深度专访。 在那次对话中，黄文政详细阐述了其核心观点：人工智能的快速发展正在重塑就业市场，“工作不是人的全部价值所在”，社会需要通过新的分配机制来消除人们对“没工作”的恐惧。 他将这套构想称为“起点收入”，即给每个人发钱。其逻辑不是低保的兜底思路，而是认为每个公民都是国家的股东，理应获得分红。 专访发出后引发了广泛讨论。实际上黄文政关于起点收入的系统思考最早可追溯到2020年，当时他已完成一篇完整的论文，但因认为想法尚不成熟而未公开发表。此次黄文政博士向我们投稿这篇修改后的文稿，希望为读者呈现这一构想更完整的理论框架。 需要说明的是，这篇文章反映的是黄文政截至2020年5月的思考，不包含他后期更完整的推演，但已加入对近年生育率与AI迅猛发展的因素考量，本次刊发的版本有所删调，大部分均维持原文不变。 文章提出的“全民起点收入机制”与翟东升教授后来推广的“未来起点收入方案”在底层逻辑上有所不同——前者更偏向思想实验层面的机制探讨，后者则是一套更具体的政策方案。 此外，知危要强调的是，本文讨论的是一种理论上的可能性，而非具体的政策建议。正如黄文政在文中所言，希望读者将其视为“有关社会未来演化路径的思想实验”，而非某种顶层设计。 以下为黄文政博士的《",
+    "id": "news-the-frontline-is-hr-8217-s-biggest-ai-blind-spot-1788178556000",
+    "title": "The frontline is HR&#8217;s biggest AI blind spot",
+    "link": "https://hrexecutive.com/the-frontline-is-hrs-biggest-ai-blind-spot/",
+    "summary": "A lot of AI is built around knowledge workers, but 80% of workers are on the frontline. How do you reach them? The post The frontline is HR&#8217;s biggest AI blind spot appeared first on HR Executive .",
     "publishedAt": "2026-08-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-coco-matrix-1788175241000",
-    "title": "对话COCO Matrix高宇翔：难以提前穷举世界，不如「学习适应」世界",
-    "link": "https://www.tmtpost.com/8122885.html",
-    "summary": "ICL走红",
-    "publishedAt": "2026-08-31",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-is-slate-auto-8217-s-new-electric-truck-the-ev-americans-nee-1787824800000",
-    "title": "Is Slate Auto&#8217;s new electric truck the EV Americans need?",
-    "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-    "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems&#8230;",
-    "publishedAt": "2026-08-27",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-mobility-the-hidden-human-cost-of-robotaxis-1788105780000",
-    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-    "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-08-30",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-health-leaders-scale-ai-faster-than-they-measure-it-survey-f-1787912101000",
-    "title": "Health leaders scale AI faster than they measure it, survey finds",
-    "link": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
-    "summary": "Forty-four percent of health plan and health system leaders are considered AI scalers who expand and integrate AI capabilities across an entire organization. The post Health leaders scale AI faster than they measure it, survey finds appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-biotech-companies-bring-on-new-hr-talent-in-august-1787931060000",
-    "title": "Biotech companies bring on new HR talent in August",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-in-august-krispy-kreme-giant/829027/",
-    "summary": "Krispy Kreme and regional grocery chain Giant also promoted HR talent into top leadership roles.",
-    "publishedAt": "2026-08-28",
+    "id": "news-week-in-review-healthcare-costs-may-rise-nearly-10-next-year-1788188940000",
+    "title": "Week in review: Healthcare costs may rise nearly 10% next year",
+    "link": "https://www.hrdive.com/news/healthcare-costs-may-rise-nearly-10-in-2027/829170/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a new H-1B visa fee proposed by the U.S. Department of Homeland Security.",
+    "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news--1788176115000",
-    "title": " “牛来末世”开始批量复制了，这是好事儿么？ ",
-    "link": "https://www.huxiu.com/article/4887407.html?f=rss",
-    "summary": "本文来自微信公众号： 非凡油条 ，作者：豆腐乳儿 不知不觉间《牛来》票房突破5000万元了。 《牛来》成本仅数万元左右，仅靠两个人就撬动了几千万的票房，自然就会有后来者跟风。 最近有一部叫作《目不转睛》的电影即将上映，一查发现，主创也就两个人。 《目不转睛》应该是真人电影，肯定和动画电影不一样，具体拍摄的时候显然不是只有两人，剧组还是有不到20个人的，但据称拍摄周期也就18天。 导演吴星星也坦承《牛来》给电影市场带来了信心，他决定“冲一下”。 而且这位导演并不是新手，在此之前就拍过一些作品，今年初甚至在小红书上发帖称“诞生首部票房破亿电影，送我老粉10台宝马”。 《牛来》的上映说明，只要创作者能承担亏钱的风险，拍出过审的电影似乎不难。可以预见的是，会有更多人，尤其是业内人士，快速拍摄低成本（质量如何不好说）电影上映，赌个回本甚至赚钱。 所以未来会有海量“牛来”涌入电影院。 这种事情早就发生在门槛更低的短剧领域了。 《牛来》在国外也受到了一定欢迎，原因是外国人认为此片虽然粗制滥造，但好歹是纯人工手搓，不是AI产物，而外国人如今反AI才是政治正确，所以更看重《牛来》这种人工作品。 但中国人对AI抵触情绪低很多，起码愿意接受AI短剧涌入短剧App。 2026年第一季度，上线微短剧里超过95%是AI微短剧。 显然AI微短剧比真人短剧成本低很多，省了演员、服装、道具、灯光、布景等成本，只需要",
-    "publishedAt": "2026-08-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hy4preview-1788174807000",
-    "title": "Hy4Preview，更“姚顺雨”了",
-    "link": "https://www.tmtpost.com/8122948.html",
-    "summary": "Hy4 preview不只是模型升级，是姚顺雨的转正宣言",
-    "publishedAt": "2026-08-31",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
+      "workforce"
     ]
   }
 ];
@@ -744,6 +739,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137224",
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link",
+      "Tell us the hardest problem you hit and how you solved it",
+      "Focus on architecture decisions and tradeoffs, not a f..",
+      "Please mention th"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "postedAt": "2026-08-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137219",
     "title": "Customer Service Agent",
     "company": "Thrifty Car and Van Rental",
@@ -1039,4 +1052,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-31T12:35:18.060Z';
+export const dataFetchedAt = '2026-08-31T22:22:47.553Z';
