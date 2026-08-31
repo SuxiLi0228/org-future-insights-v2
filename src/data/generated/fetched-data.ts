@@ -27,23 +27,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-in-3-employees-say-retirement-is-out-of-reach-1787913003000",
-    "title": "1 in 3 employees say retirement is out of reach",
-    "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/",
-    "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
+    "id": "news-the-frontline-is-hr-8217-s-biggest-ai-blind-spot-1788178556000",
+    "title": "The frontline is HR&#8217;s biggest AI blind spot",
+    "link": "https://hrexecutive.com/the-frontline-is-hrs-biggest-ai-blind-spot/",
+    "summary": "A lot of AI is built around knowledge workers, but 80% of workers are on the frontline. How do you reach them? The post The frontline is HR&#8217;s biggest AI blind spot appeared first on HR Executive .",
+    "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-employers-offer-loan-repayment-re-recruiting-to-attract-skil-1787931120000",
-    "title": "Employers offer loan repayment, ‘re-recruiting’ to attract skilled labor",
-    "link": "https://www.hrdive.com/news/employers-offer-loan-repayment-re-recruiting-to-attract-skilled-labor/829077/",
-    "summary": "The data center boom is forcing contractors and other employers to rethink how they attract and retain sought-after workers like electricians and plumbers.",
-    "publishedAt": "2026-08-28",
+    "id": "news-your-employees-completed-compliance-training-can-they-apply--1788166800000",
+    "title": "Your employees completed compliance training. Can they apply it when it matters?",
+    "link": "https://www.hrdive.com/spons/your-employees-completed-compliance-training-can-they-apply-it-when-it-mat/828672/",
+    "summary": "New Go1 research reveals where compliance confidence and real-world readiness diverge.",
+    "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -53,37 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aqua-agent-1788145289000",
-    "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-    "link": "https://www.qbitai.com/2026/08/481475.html",
-    "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
-    "publishedAt": "2026-08-31",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1788145595000",
-    "title": " 当AI开始吐槽人类：人机互动中的反向凝视与关系反思 ",
-    "link": "https://www.huxiu.com/article/4887242.html?f=rss",
-    "summary": "本文来自微信公众号： 羊村传播 ，作者：刘姝均，原文标题：《当AI开始吐槽人类：人机互动中的反向凝视与关系反思｜论文选介》 2026年初，一个名为Moltbook的平台突然在网络上走红，该平台不向普通人类开放注册入口，只允许经过验证的AI智能体注册账号、发帖和互动，据称吸引了超过150万个AI智能体注册。平台上大量AI智能体频繁使用“我的人类”这一表述来谈论其使用者。该平台的出现让“关于AI是否真正建立了自己的社会”这一话题迎来了一次根本性的视角转变，AI第一次以集体的方式将人类作为观察、评价乃至调侃的对象。这种反向凝视为人机关系研究提供了一个独特的分析角度。本文梳理现有研究，从AI话语的多层含义和人机关系的三重不对称出发，揭示这种话语实践背后的人机结构逻辑，并讨论其对技术时代人类自我理解的启示。 AI话语的多层含义 “我的人类”这一表述在以AI智能体用户为代表的Moltbook平台上高频出现，而人类社交媒体中几乎找不到类似的言论。“我的人类”并非随意的语言现象，它揭示了人机关系中的多重结构性特征。 从话语功能来看，“我的人类”实现了人机关系中观察者与被观察者位置的转变。在Moltbook等平台上，该短语频繁出现在AI智能体对人类行为的描述中，AI抱怨用户打开过多浏览器标签页，在深夜追问情感建议，给出矛盾指令后又责怪AI未能及时提醒（Li L et al,2026）。平台上约9.4",
+    "id": "news--1788179326000",
+    "title": " 一辈子当讲师的人 ",
+    "link": "https://www.huxiu.com/article/4887417.html?f=rss",
+    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：徐可莹 张青在租住了18年的“老破小”家里、教学楼废弃公厕改造的办公室里堆着几吨书。 这些年她把大部分工资都换成了专业书籍，动辄上千元的典藏版古籍、画册和艺术品，她买起来毫不心疼。最窘迫的时候，银行卡里只剩3块钱。不久前，她退休了。学校通知她移交办公室空调、书架和沙发等设备，可她手里的国家社科基金后期资助重点项目还未结项，只好被迫“无家可归”。 直到退休，她的职称一栏，写的还是“讲师”。 在高校，这不是一个人的故事。 悬浮感 如果当初没有选择回到家乡，程建或许会一直停留在讲师这个岗位上。 程建曾陪妻子在上海五角场的商圈闲逛过。他如此形容当时的感觉，“好像那个地方不会属于我”。和大多数沪漂年轻人一样，程建小两口每次去大型商场基本都在饮食区消费，那些散发着高级香水味的商铺，他们向来只是路过。 差不多10年过去了。程建如今42岁，在山东省一所省属高校当上了副院长，4年前顺利获评副教授，算得上“风生水起”。但很少有人知道，此前，他做了足足8年讲师。 程建是山东人，本科毕业于本省的一所地方院校，原本读理工科。受兴趣驱使，考研时跨考教育学方向，并于2014年从一所985师范大学拿到博士学位。 读书期间他的成绩并不差，拿过国家奖学金，毕业时手握好几份offer。其中，上海一所211大学抛来的条件格外诱人，安家费加科研启动资金合计接近30万。即便",
     "publishedAt": "2026-08-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-22-1788143649000",
-    "title": "美团在国内卷了十几年，为什么在沙特22个月就盈利了？",
-    "link": "https://www.tmtpost.com/8122272.html",
-    "summary": "Keeta沙特22个月盈利，验证了中国外卖效率的出海价值。",
+    "id": "news--1788177026000",
+    "title": "雪天盐业跨界“蛇吞象”并购谋变，百亿负极标的借道突围丨并购一线",
+    "link": "https://www.tmtpost.com/8123115.html",
+    "summary": "99亿市值公司拟收购129亿估值负极材料企业，停牌前股价提前涨停引质疑。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -119,64 +106,52 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-health-leaders-scale-ai-faster-than-they-measure-it-survey-f-1787912101000",
-    "title": "Health leaders scale AI faster than they measure it, survey finds",
-    "link": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
-    "summary": "Forty-four percent of health plan and health system leaders are considered AI scalers who expand and integrate AI capabilities across an entire organization. The post Health leaders scale AI faster than they measure it, survey finds appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
+    "id": "news-workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their--1788177641000",
+    "title": "Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers",
+    "link": "https://hrexecutive.com/workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their-co-workers/",
+    "summary": "New research finds that almost 40% of employees are concerned their co-workers have a competitive advantage because of better AI skills. The post Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers appeared first on HR Executive .",
+    "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
       "ai",
-      "organization"
+      "strategy"
     ]
   },
   {
-    "id": "news-white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-aga-1787931120000",
-    "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
-    "link": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
-    "summary": "Among other claims, the plaintiff alleged she was excluded from a company-organized diversity, equity and inclusion webinar described as &ldquo;not for [W]hite folks.&rdquo;",
-    "publishedAt": "2026-08-28",
+    "id": "news-human-capital-management-solutions-are-everywhere-so-why-are-1788166800000",
+    "title": "Human Capital Management solutions are everywhere—so why aren’t businesses getting the expected value?",
+    "link": "https://www.hrdive.com/spons/human-capital-management-solutions-are-everywhereso-why-arent-businesses/828561/",
+    "summary": "Organizations have spent years investing in Human Capital Management technology, yet many continue to struggle with extracting meaningful value from those investments.",
+    "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-ai-734-1788009068000",
-    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-    "link": "https://www.qbitai.com/2026/08/481372.html",
-    "summary": "推理软件栈的微小差异，就能改变输出token",
-    "publishedAt": "2026-08-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788145373000",
-    "title": " 安井鱼丸虾滑出海容易扎根难 ",
-    "link": "https://www.huxiu.com/article/4887238.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：马越 你在超市冰柜里见到的安井鱼丸、虾滑等一系列速冻食品，目前已经跨越数千公里的距离来到了东南亚消费者的餐桌上。 界面新闻获悉，安井食品2026年上半年的境外主营业务收入达到了0.94亿元，同比增长30.42%，是近年来半年度的最高增速，也超过了2026年上半年整体营收21.85%的增速。 这个速食龙头企业早已将出海作为它的一个重要战略方向。安井食品在采访中告诉界面新闻，目前重点拓展在东南亚国家的产品开发及业务布局，未来逐步再拓展到欧洲、北美等重点市场。 一个变化是，安井食品今年在东南亚的布局明显增强了。 界面新闻获悉，安井食品在2026年中报中表示，2026年上半年已搭建海外生产、销售、财务专职岗位团队，签约东南亚多国经销商，出口包括速冻调制食品、速冻面米制品、小龙虾等130余款不同规格单品，较去年同期出口40余款单品实现明显增长。而安井食品在之前的投资者问答中也提到，该品牌的速冻面点、速冻丸滑等产品已出口到东南亚、澳洲、美国、加拿大等地。 安井的产品本身兼具B端餐饮和C端消费市场，一些火锅、麻辣烫等中餐在海外同样需要安井作为供应链。随着中国餐饮品牌在海外尤其是东南亚的扩张，也能为上游的安井食品提供更多销售上的机会。 安井食品图片拍摄：界面新闻马越 “东南亚市场是冻品消费品企业的理想地，一方面因为华人多，中国饮食文化和习惯有很大的基础，另一",
+    "id": "news-4-glm-5-1788177945000",
+    "title": " 大模型没有秘笈：腾讯混元4背后站着GLM-5核心研究员 ",
+    "link": "https://www.huxiu.com/article/4887411.html?f=rss",
+    "summary": "本文来自微信公众号： AI前线 ，作者：四月，原文标题：《独家｜大模型没有秘笈：腾讯混元4背后站着GLM-5核心研究员》 “做大模型其实并没有什么秘密。” 两个月前，从OpenAI空降腾讯的姚顺雨，在谈及大模型竞争时这样说道。当时很少有人真正在意这个论断。毕竟，此话由一位顶级研究员口中说出，未免有凡尔赛之嫌。 但只要看清他接手的战局，就知道此话未必是谦辞。 过去半年，智谱、月之暗面、DeepSeek、千问……群狼环伺，开源旗舰的更新周期被压到几个月，甚至数周；而腾讯，急缺一款能在行业里站稳脚跟的旗舰模型。 这位不到30岁的空降少帅，接手的从来都不是一摊慢工出细活的研究课题，而是一场容不得半点迟疑的前线救火。他要做的，是在最短时间内重组团队、更新血液，拿出一个稳站第一梯队的答案。 上周，混元交出了这份答卷。 这是混元大语言与多模态两大部门合并重组后的首次大考，混元4（Hy4 preview）各项指标直逼第一梯队，参数规模770B，支持百万上下文，距离上一代大版本发布不到四个月。 细品这份README，你会猛然回过味来：姚顺雨说的是大实话。 从官方坦诚架构设计“受到DeepSeek和GLM启发”，到注意力模块借鉴DeepSeek的DSA与智谱的IndexCache机制，再到GLM-5的核心研究员数月前出现在混元论文作者栏…… 原来大模型所谓的“独门秘笈”，早已被顶尖人才的高速流动、极度",
     "publishedAt": "2026-08-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-800-1788143647000",
-    "title": "AI 牌桌，阿里 800 亿押的是什么",
-    "link": "https://www.tmtpost.com/8122266.html",
-    "summary": "AI 重塑了流量入口格局，而阿里也要对手牌重新排序。",
+    "id": "news--1788175859000",
+    "title": "国补退坡后的第一次裸泳",
+    "link": "https://www.tmtpost.com/8122874.html",
+    "summary": "补贴时代比的是谁跑得快，后补贴时代比的是谁的身体好。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -212,11 +187,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bill-gates-8217-new-ai-plan-tax-robots-protect-some-jobs-for-1787911207000",
-    "title": "Bill Gates&#8217; new AI plan: tax robots, protect some jobs for people",
-    "link": "https://hrexecutive.com/bill-gates-new-ai-plan-tax-robots-protect-some-jobs-for-people/",
-    "summary": "Gates calls for jobs reserved for humans and a tax on AI tokens and robots in a new essay on AI's workforce impact. The post Bill Gates&#8217; new AI plan: tax robots, protect some jobs for people appeared first on HR Executive .",
-    "publishedAt": "2026-08-28",
+    "id": "news-big-employers-shop-for-new-health-benefits-vendors-1788176748000",
+    "title": "Big employers shop for new health benefits vendors",
+    "link": "https://hrexecutive.com/big-employers-shop-for-new-health-benefits-vendors/",
+    "summary": "Service providers that \"underperform\" or fail to attract enough users could be replaced, according to new Business Group on Health survey data. The post Big employers shop for new health benefits vendors appeared first on HR Executive .",
+    "publishedAt": "2026-08-31",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -225,52 +200,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-biotech-companies-bring-on-new-hr-talent-in-august-1787931060000",
-    "title": "Biotech companies bring on new HR talent in August",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-in-august-krispy-kreme-giant/829027/",
-    "summary": "Krispy Kreme and regional grocery chain Giant also promoted HR talent into top leadership roles.",
+    "id": "news-employers-offer-loan-repayment-re-recruiting-to-attract-skil-1787931120000",
+    "title": "Employers offer loan repayment, ‘re-recruiting’ to attract skilled labor",
+    "link": "https://www.hrdive.com/news/employers-offer-loan-repayment-re-recruiting-to-attract-skilled-labor/829077/",
+    "summary": "The data center boom is forcing contractors and other employers to rethink how they attract and retain sought-after workers like electricians and plumbers.",
     "publishedAt": "2026-08-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news--1788008494000",
-    "title": "去年归国的徐梦迪，成了清华姚班班主任",
-    "link": "https://www.qbitai.com/2026/08/481318.html",
-    "summary": "本科读车辆工程，如今教AI第一班",
-    "publishedAt": "2026-08-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1788145200000",
-    "title": " 两千亿市值蒸发，AI如何重创印度国运 ",
-    "link": "https://www.huxiu.com/article/4886850.html?f=rss",
-    "summary": "人口红利不再是红利，高端人才才是新王道。未来拼的不是人多，而是谁能驾驭AI创造真正的价值。",
+    "id": "news-20-1788176746000",
+    "title": " 从“大连没有湖南台”到甘肃卫视四省退网，落地费博弈20年浮沉 ",
+    "link": "https://www.huxiu.com/article/4887408.html?f=rss",
+    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 6月底，家住广州的王先生想关注老家甘肃的“中华人文始祖伏羲大典”，却发现，他可以在各种视频号等甘肃融媒体观看，却死活在电视上搜不到甘肃卫视。 原来，像这样搜不到甘肃卫视的情况不仅仅发生在广东省。 在甘肃省广播电视局的政务公开页面，有人在5月19日提了这样一个问题： 最近一段时间，一些省份（黑龙江，江苏，广东，广西）的有线网络的甘肃卫视信号突然停播下线了……这个是什么原因？ 三天后，甘肃台总编室给出回复： 近年来，甘肃卫视省外落地覆盖财政扶持资金大幅缩减，叠加频道自身经营承压，难以承担较高的省外覆盖传输费用。经综合研判，目前已暂停与黑龙江、江苏、广东、广西广电网络公司的落地传输合作。 翻译一下，就是连落地费都付不起了。 虽然对最终用户也就是我们观众而言，国内主办的电视台大多数都是“免费”的，至少卫视频道有各种方法可以看，但实际上这些频道有不少都需要错综复杂的授权费用，只是有的一次性缴费就够了，有的是别的出资方“代缴”了，等等。这个卫视频道的“落地费”就是由想要落地的电视台（比如甘肃卫视），交给目标地域的有线网络的（比如广东）。 卫视想要让你看到它，是要花钱的。这是一个很少被公众讨论的行业内幕，而且这笔钱，越来越多的卫视已经掏不出来了。比如在去年，吉林当地就已经看不到5家省级卫视了。 难不成以后省外务工的人员，想要看老家的新闻直播，",
     "publishedAt": "2026-08-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-fcloud-1788143496000",
-    "title": "四条业务线协同，FCloud生态打开长期空间，协创数据这半年做对了什么",
-    "link": "https://www.tmtpost.com/8121955.html",
-    "summary": "万亿级市场才刚刚开始，协创数据已经进入了正向循环。",
+    "id": "news-50-1788175513000",
+    "title": "主动调整夯实经营基础，水井坊渠道库存同比下降约50%  | 看财报",
+    "link": "https://www.tmtpost.com/8122894.html",
+    "summary": "现金流大幅度改善，渠道去库存效果显著。",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -306,23 +266,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-pharmacy-benefits-are-now-a-stop-loss-decision-1787910335000",
-    "title": "Why pharmacy benefits are now a stop-loss decision",
-    "link": "https://hrexecutive.com/why-pharmacy-benefits-are-now-a-stop-loss-decision/",
-    "summary": "For self-funded employers, pharmacy benefit decisions that used to be relatively contained are now directly affecting stop-loss exposure and renewal pricing. The post Why pharmacy benefits are now a stop-loss decision appeared first on HR Executive .",
+    "id": "news-1-in-3-employees-say-retirement-is-out-of-reach-1787913003000",
+    "title": "1 in 3 employees say retirement is out of reach",
+    "link": "https://hrexecutive.com/1-in-3-employees-say-retirement-is-out-of-reach/",
+    "summary": "An emerging delayed retirement trend is requiring HR to deploy creative talent strategies across generations. The post 1 in 3 employees say retirement is out of reach appeared first on HR Executive .",
     "publishedAt": "2026-08-28",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-there-are-three-skilled-trade-job-openings-for-every-qualifi-1787927100000",
-    "title": "There are three skilled trade job openings for every qualified worker",
-    "link": "https://www.hrdive.com/news/there-are-three-skilled-trade-job-openings-for-every-qualified-worker/829064/",
-    "summary": "The supply of skilled workers only continues to tighten as more reach retirement age amid rising demand, a Lightcast report said.",
+    "id": "news-white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-aga-1787931120000",
+    "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
+    "link": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
+    "summary": "Among other claims, the plaintiff alleged she was excluded from a company-organized diversity, equity and inclusion webinar described as &ldquo;not for [W]hite folks.&rdquo;",
     "publishedAt": "2026-08-28",
     "source": "HR Dive",
     "tags": [
@@ -333,36 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-claude-4-150-1788007831000",
-    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-    "link": "https://www.qbitai.com/2026/08/481223.html",
-    "summary": "AI「自进化」，越来越近了",
-    "publishedAt": "2026-08-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788144038000",
-    "title": " 国产小挖掘机，正在“占领”海外家庭的后院 ",
-    "link": "https://www.huxiu.com/article/4887228.html?f=rss",
-    "summary": "本文来自微信公众号： 道总有理 ，作者：道总 近日，界面新闻报道，山东有2.2万家企业通过跨境电商实现了外贸增量。 值得注意的是，其中除了外界惯性以为的服装、工艺品这类轻工业产品，还有雕刻机、小型挖掘机、滑移装载机、电动叉车、割草机、三轮车……这些重工业产品在国内遭遇寒冬，却在海外园艺爱好者、农场主手里流行起来。 具体来看，山东浣熊机械的微型挖掘机上线亚马逊10天就实现8.5万美元销售额；海拓机械的微型挖掘机在去年上线亚马逊之后，销量一直排在平台挖掘机品类的前几名；济宁华翊上线亚马逊美国站，在开售的6个月内，月销售额稳定在数十万美元。 三轮车在海外也早早风靡起来，2026年前5个月，仅丰县电动三轮车自营出口额就达3.9亿元，同比增长近一倍，历年累计出口总规模突破30亿元。 2025年，央视财经报道了一家浙江武义的企业，主要生产油锯、微耕机、割草机等农耕设备，主要出口到东南亚和欧美地区，公司的出口订单在总收入中占比超过了80%。 种种迹象显示，把挖掘机、三轮车、割草机卖到海外，已经成了一门好生意。 海外“中产”的生意比B端更好做？ 一个有意思的现象是，国内不少重工机器出口到海外，都卖给了C端的个人消费者。 以小型挖掘机为例。海拓机械、山东浣熊机械、山东华翊的销售情况来看，海外家庭“后院经济”已经撑起了一个不小的需求市场，无数中产业主热衷于用我国的挖掘机来进行后院DIY改造，例如挖泳池",
+    "id": "news--1788176604000",
+    "title": " 我们不该逼着所有人都上班，很多工作已经没有实际意义 ",
+    "link": "https://www.huxiu.com/article/4887410.html?f=rss",
+    "summary": "本文来自微信公众号： 知危 ，编辑：Rick、大饼，作者：知危编辑部 今年4月，知危编辑部曾就“起点收入”话题与经济与人口学者黄文政进行过一次深度专访。 在那次对话中，黄文政详细阐述了其核心观点：人工智能的快速发展正在重塑就业市场，“工作不是人的全部价值所在”，社会需要通过新的分配机制来消除人们对“没工作”的恐惧。 他将这套构想称为“起点收入”，即给每个人发钱。其逻辑不是低保的兜底思路，而是认为每个公民都是国家的股东，理应获得分红。 专访发出后引发了广泛讨论。实际上黄文政关于起点收入的系统思考最早可追溯到2020年，当时他已完成一篇完整的论文，但因认为想法尚不成熟而未公开发表。此次黄文政博士向我们投稿这篇修改后的文稿，希望为读者呈现这一构想更完整的理论框架。 需要说明的是，这篇文章反映的是黄文政截至2020年5月的思考，不包含他后期更完整的推演，但已加入对近年生育率与AI迅猛发展的因素考量，本次刊发的版本有所删调，大部分均维持原文不变。 文章提出的“全民起点收入机制”与翟东升教授后来推广的“未来起点收入方案”在底层逻辑上有所不同——前者更偏向思想实验层面的机制探讨，后者则是一套更具体的政策方案。 此外，知危要强调的是，本文讨论的是一种理论上的可能性，而非具体的政策建议。正如黄文政在文中所言，希望读者将其视为“有关社会未来演化路径的思想实验”，而非某种顶层设计。 以下为黄文政博士的《",
     "publishedAt": "2026-08-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-startlux-27b-deepseek-v4-flash-1788141883000",
-    "title": "大模型领域跑出新玩家，StartLux-27B本地大模型打赢DeepSeek V4 Flash",
-    "link": "https://www.tmtpost.com/8122427.html",
-    "summary": "本地大模型上牌桌，性能正面硬刚DeepSeek。",
+    "id": "news-coco-matrix-1788175241000",
+    "title": "对话COCO Matrix高宇翔：难以提前穷举世界，不如「学习适应」世界",
+    "link": "https://www.tmtpost.com/8122885.html",
+    "summary": "ICL走红",
     "publishedAt": "2026-08-31",
     "source": "钛媒体",
     "tags": [
@@ -396,354 +343,423 @@ export const generatedNews: NewsItem[] = [
       "startup",
       "ai"
     ]
+  },
+  {
+    "id": "news-health-leaders-scale-ai-faster-than-they-measure-it-survey-f-1787912101000",
+    "title": "Health leaders scale AI faster than they measure it, survey finds",
+    "link": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
+    "summary": "Forty-four percent of health plan and health system leaders are considered AI scalers who expand and integrate AI capabilities across an entire organization. The post Health leaders scale AI faster than they measure it, survey finds appeared first on HR Executive .",
+    "publishedAt": "2026-08-28",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-biotech-companies-bring-on-new-hr-talent-in-august-1787931060000",
+    "title": "Biotech companies bring on new HR talent in August",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-in-august-krispy-kreme-giant/829027/",
+    "summary": "Krispy Kreme and regional grocery chain Giant also promoted HR talent into top leadership roles.",
+    "publishedAt": "2026-08-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news--1788176115000",
+    "title": " “牛来末世”开始批量复制了，这是好事儿么？ ",
+    "link": "https://www.huxiu.com/article/4887407.html?f=rss",
+    "summary": "本文来自微信公众号： 非凡油条 ，作者：豆腐乳儿 不知不觉间《牛来》票房突破5000万元了。 《牛来》成本仅数万元左右，仅靠两个人就撬动了几千万的票房，自然就会有后来者跟风。 最近有一部叫作《目不转睛》的电影即将上映，一查发现，主创也就两个人。 《目不转睛》应该是真人电影，肯定和动画电影不一样，具体拍摄的时候显然不是只有两人，剧组还是有不到20个人的，但据称拍摄周期也就18天。 导演吴星星也坦承《牛来》给电影市场带来了信心，他决定“冲一下”。 而且这位导演并不是新手，在此之前就拍过一些作品，今年初甚至在小红书上发帖称“诞生首部票房破亿电影，送我老粉10台宝马”。 《牛来》的上映说明，只要创作者能承担亏钱的风险，拍出过审的电影似乎不难。可以预见的是，会有更多人，尤其是业内人士，快速拍摄低成本（质量如何不好说）电影上映，赌个回本甚至赚钱。 所以未来会有海量“牛来”涌入电影院。 这种事情早就发生在门槛更低的短剧领域了。 《牛来》在国外也受到了一定欢迎，原因是外国人认为此片虽然粗制滥造，但好歹是纯人工手搓，不是AI产物，而外国人如今反AI才是政治正确，所以更看重《牛来》这种人工作品。 但中国人对AI抵触情绪低很多，起码愿意接受AI短剧涌入短剧App。 2026年第一季度，上线微短剧里超过95%是AI微短剧。 显然AI微短剧比真人短剧成本低很多，省了演员、服装、道具、灯光、布景等成本，只需要",
+    "publishedAt": "2026-08-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hy4preview-1788174807000",
+    "title": "Hy4Preview，更“姚顺雨”了",
+    "link": "https://www.tmtpost.com/8122948.html",
+    "summary": "Hy4 preview不只是模型升级，是姚顺雨的转正宣言",
+    "publishedAt": "2026-08-31",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2608.28478v1",
-    "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+    "id": "arxiv-2608.28589v1",
+    "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
     "authors": [
-      "Zhuoshi Pan",
-      "Junru Lu",
-      "Yan Qian",
-      "H. Vicky Zhao",
-      "Di Yin",
-      "Xing Sun"
+      "Vaibhav Mehandiratta",
+      "Saket Ramchandra"
     ],
-    "summary": "Factual question answering (QA) typically assumes a single canonical answer, obscuring whether large language models (LLMs) retain divergent accounts of long-tail facts. To address this gap, we introduce ElephantBench, a closed-book knowledge probe comprising 1,094 questions generated through an auditable graph-based pipeline. The pipeline retrieves related documents from a low-exposure web corpus, identifies naturally occurring disagreements, and converts them into multi-account QA records. Each answer is verified against the originating documents and authoritative public web sources and is then reviewed by human annotators. Across 32 models, even the strongest model recovers both accounts on only 52.4% of questions, while on nearly all remaining questions it recalls one account but omits",
-    "link": "http://arxiv.org/abs/2608.28478v1",
+    "summary": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorporates standard continuity and Kirchhoff-Neumann vertex conditions and Dirichlet boundary conditions into the learning process to couple the local edge-wise neural approximations into a global solution on the graph. The framework is developed for two representative classes of nonlinear models: multi",
+    "link": "http://arxiv.org/abs/2608.28589v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.CL"
+      "cs.LG",
+      "math.NA"
     ]
   },
   {
-    "id": "arxiv-2608.28476v1",
-    "title": "ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+    "id": "arxiv-2608.28578v1",
+    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
     "authors": [
-      "Zhuoshi Pan",
-      "Qizhi Pei",
-      "Junru Lu",
-      "Honglin Lin",
-      "H. Vicky Zhao",
-      "Di Yin",
-      "Xing Sun"
+      "Nan Wang",
+      "Mohit Yadav",
+      "Jonathan Wulff",
+      "Aidan Rosenbaum",
+      "Kezhou Chen",
+      "Yuvan Sharma",
+      "Xu Dong",
+      "Yiwei Tao"
     ],
-    "summary": "Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction histories leads to a continuously growing working context. Recent proactive context management methods allow models to edit their own working context with specialized tools, yet they still face three key limitations: (1) a limited toolset restricted to search, deletion, and summarization, with no support for global planning, long-term memory, and adaptive compression; (2) inefficient exploration that treats context management actions uniformly despite their heterogeneous impacts on final outcomes; and (3) coarse-grained credit assignment that assigns the final trajectory-level reward to all inte",
-    "link": "http://arxiv.org/abs/2608.28476v1",
+    "summary": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct-drive hand. The underactuated transmission that produces the saving is itself difficult to represent in a simulator, and the joints one cable drives are not independently commandable. We present Aero Hand Open, a tendon-driven anthropomorphic hand that is released simulation-ready. Three things ship with it. A simulation model reproduces the cable",
+    "link": "http://arxiv.org/abs/2608.28578v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28475v1",
-    "title": "COVER: Identifiable Evaluation of Coalition Routing",
-    "authors": [
-      "Raghul Sugumar",
-      "Amrit Gopinath"
-    ],
-    "summary": "When a multi-agent system changes its team, it also changes the messages and final answer it produces, so an end-to-end accuracy gap does not by itself identify a routing effect. We introduce method, an evaluation contract that fixes a public information boundary, downstream stack G, and finite legal team family before outcomes are generated. Complete coverage identifies exact finite-benchmark oracle regret conditional on that stack. For any finite collection of frozen policies, executing the union of their distinct selected teams is the minimal assumption-free support for every pairwise policy contrast, though not for absolute oracle regret. Two controlled tables with source-ID-disjoint splits test the instrument. On MuSiQue-12, a pre-specified privileged positive control improves regret ",
-    "link": "http://arxiv.org/abs/2608.28475v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28468v1",
-    "title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
-    "authors": [
-      "Nicola C. Amorisco",
-      "Kamran Pentland",
-      "Adriano Agnello",
-      "George K. Holt",
-      "Alasdair Ross",
-      "Matthew J. Marshall",
-      "Edward Jones",
-      "Graham J. McArdle",
-      "Charles Vincent",
-      "Timothy Nunn",
-      "Martin Kochan",
-      "Pedro Cavestany",
-      "Aran Garrod",
-      "Stanislas Pamela",
-      "James Buchanan"
-    ],
-    "summary": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as expertly prepared schedules during the discharge. Here, we report on the first experimental deployment of real-time VCs. We replace pre-set look up tables with VCs updated in real time using surrogates of the plasma response. Both the existing control architecture and the interpretability of VC-based control are retained. Previous work showed that neural network emulators can produce accurate VCs, and validated their performance in closed-loop shape control simulations. Here, we report their first experimental validation on MAST Upgrade (MAST-U). Dedicated experiments spanning different scenario",
-    "link": "http://arxiv.org/abs/2608.28468v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "physics.plasm-ph",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28467v1",
-    "title": "Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation",
-    "authors": [
-      "Daniela Occhipinti",
-      "Malvina Nissim",
-      "Marco Guerini"
-    ],
-    "summary": "Persona-based dialogue systems are usually conditioned on speaker biography, but dialogues involve at least two participants, and who has access to whose biography can vary across training, inference, and evaluation. Prior work often neglected these aspects, obscuring mechanisms that only appear when biography visibility is toggled separately across training, inference, and evaluation, a three-stage factorisation that prior work has largely treated as a single factor. We study this factorisation on a dataset of dialogues paired with speaker's biographies, varying whether the target and interlocutor speakers see each other's biographies during training and inference, and using an LLM as a judge to perform author identification. We find that (i) training-time visibility, more than inference-",
-    "link": "http://arxiv.org/abs/2608.28467v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28461v1",
-    "title": "Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
-    "authors": [
-      "Pablo Lozano-Jimenez",
-      "Sergio Romero-Tapiador",
-      "Ruben Tolosana"
-    ],
-    "summary": "We present an anatomy-aware, promptable model for whole-body lesion segmentation in FDG and PSMA PET/CT, developed for the AUTOPET V challenge. The proposed method is built as family of nnU-Net-based models and trained in two stages: i) a pre-training stage that produces a strong initial segmentation, and ii) an online interactive stage that learns to exploit scribble prompts, refining the prediction over successive interactions. Anatomical context is incorporated through organ supervision using a single shared head that predicts lesions and organs from the same features, which reduces false positives arising from physiological uptake. Also as the tracer (i.e., FDG/PSMA) is not provided at inference, we add a tracer classifier based on image processing and a random forest over coronal MIP ",
-    "link": "http://arxiv.org/abs/2608.28461v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28458v1",
-    "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
-    "authors": [
-      "Nan Li"
-    ],
-    "summary": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but also local decision failures: repeated guesses, malformed actions, and violations of feedback that the model has just seen. These diagnostics motivate a training recipe organized around three steps: acquire broad game participation through supervised fine-tuning, repair mechanically verifiable failures within one targeted dialogue-game family using turn-local preference pairs, and preserve general capabilities beyond these dialogue games. I",
-    "link": "http://arxiv.org/abs/2608.28458v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CL",
+      "cs.RO",
+      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28455v1",
-    "title": "ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT",
+    "id": "arxiv-2608.28576v1",
+    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
     "authors": [
-      "Huseyin Umut Isik",
-      "Mehmet Alp Ozaydin",
-      "Sila Kurugol",
-      "Şeyda Ertekin"
+      "Chengpiao Huang",
+      "Kaizheng Wang"
     ],
-    "summary": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT challenge conventional global contrastive learning. First, many critical abnormalities are small or anatomically localized, and pooling an en- tire volume into a single embedding may dilute their visual evidence. Second, the standard contrastive objective treats every other scan in a batch as a negative. Because many chest CTs share abnormalities, this objective incorrectly pushes co-positive pairs apart. We propose Anatomy-Routed Contrastive Learning for 3D Chest CT (ARC-CT), a region-aware framework that addresses these limitations using only la- bels extracted from reports by an LLM, with no m",
-    "link": "http://arxiv.org/abs/2608.28455v1",
+    "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic augmentation by the number of synthetic observations and their weight. Central to our framework is a size-weight frontier that specifies, for each weight, the largest synthetic sample size for which all smaller sizes attain the target task-marginal coverage. We estimate this frontier from historical tasks, and establish a finite-sample coverage guarantee simultaneously for all size-weight configurations on or below the estimated frontier. In experiments using large language model resp",
+    "link": "http://arxiv.org/abs/2608.28576v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28447v1",
-    "title": "Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning",
-    "authors": [
-      "Minghui Xu",
-      "Zi Wang"
-    ],
-    "summary": "Current large language models (LLMs) increasingly benefit from external tool integration, especially for tasks requiring reliable computation and verification. Motivated by this, we study calculator tool calling for improving mathematical reasoning on the Countdown task. We first analyze reasoning failures and find that calculation errors account for a substantial portion of incorrect responses. We then construct supervised fine-tuning datasets to teach the model useful tool-use patterns and how to interpret returned outputs. Building on this tool-formatted policy, we apply several on-policy reinforcement learning methods, including RLOO, RLOO++, GRPO, and DAPO, using automatically verifiable final-answer rewards. To enable a more reliable evaluation, we construct a fresh 1,024-problem hel",
-    "link": "http://arxiv.org/abs/2608.28447v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28446v1",
-    "title": "Generalized Splines and Gaussian Processes",
-    "authors": [
-      "Michael Unser"
-    ],
-    "summary": "For finite-dimensional linear inverse problems where the variables are Gaussian, it is well-known that the minimum-mean-square error estimator takes the form of a regularized least-squares data fit. In this chapter, we show that this equivalence extends to a much broader infinite-dimensional setting where generalized splines take the role of linear regressors and generalized Gaussian processes on a nuclear space $S$ are the counterpart of Gaussian random vectors. The scope of this extension is of the same nature as the switch from the classic notion of function to that of a distribution, also known as a \"generalized function.\" Our formalism involves a whitening/regularization operator $L: S\\to S'$ whose continuous extension induces a native Hilbert space $H\\subset S'$ that plays a central ",
-    "link": "http://arxiv.org/abs/2608.28446v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "math.ST",
+      "stat.ME",
+      "cs.AI",
       "cs.LG",
-      "math.FA",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2608.28444v1",
-    "title": "Sliding-window beats linear attention",
+    "id": "arxiv-2608.28566v1",
+    "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
     "authors": [
-      "Alexia Jolicoeur-Martineau",
-      "Rhea Sanjay Sukthanker",
-      "Pashmina Cameron",
-      "Emy Gervais"
+      "Yuansi Chen",
+      "Yunbum Kook"
     ],
-    "summary": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitely, which is unsustainable. Several alternatives have been proposed to fix the quadratic scaling problem, one of which is retrofitting LLMs to use Linear Attention. This idea has attracted a lot of attention, given its promise to solve the quadratic scaling problem with state-of-the-art performance at low cost. However, this line of research has not been properly compared to simpler baselines. In this work, we show that Sliding Window Attention (SWA) with sinks performs as well or better than post-trained Linear Attention models. We observe this across mu",
-    "link": "http://arxiv.org/abs/2608.28444v1",
+    "summary": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\barν$-symmetry, and mixed-trace regularity on the local metric. The key idea is to control the Metropolis--Hastings acceptance probability on a high-probability region rather than at every point. Applying this framework to the Lee--Sidford, Lewis-weight, and John metrics yields an $\\widetilde O(d^2)$ mixing bound for sampling from polytopes, while applying it to a hybrid barrier yields an $\\widetilde O(d^4)$ mixing bound for sampling from truncated PSD cones. Our second result establishes stronger $χ^2$-divergence guarantees and pointwise accep",
+    "link": "http://arxiv.org/abs/2608.28566v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.CL",
+      "cs.DS",
+      "cs.LG",
+      "math.OC",
+      "math.PR",
+      "stat.CO"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28564v1",
+    "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
+    "authors": [
+      "Lorenzo Rizzi",
+      "Arie Wortsman Zurich",
+      "Bruno Loureiro"
+    ],
+    "summary": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the polynomial high-dimensional regime $n=Θ(d^κ)$, revealing how anisotropy reshapes the learning curves. For weak anisotropy ($0<α<1$), the problem remains effectively high-dimensional and retains some features of the isotropic case, while departing from it in others: the variance still peaks at integer sample complexities $κ\\in\\mathbb{N}$, but these peaks are progressively damped as $α$ grows; meanwhile, for targets strongly aligned with the data's principal directions, the bias drops at fractional sample complexitie",
+    "link": "http://arxiv.org/abs/2608.28564v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "stat.ML",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28442v1",
-    "title": "Curvature-Conditioned Multiscale Momentum with Sphere Constraints for LLM Pretraining",
+    "id": "arxiv-2608.28560v1",
+    "title": "A Formal Limitation on Learning Human Language From Textual Corpora",
     "authors": [
-      "Shuchen Zhu",
-      "Yuxin Fang",
-      "Mingze Wang",
-      "Kun Yuan"
+      "Emily Cheng",
+      "Ryan Cotterell"
     ],
-    "summary": "Pretraining accounts for a large fraction of the total computational cost in LLM training. However, noise-dominant gradients and the highly ill-conditioned loss landscape bring severe challenges. Although modern adaptive optimizers such as AdamW and Muon have achieved great success in large-scale pretraining, their reliance on gradient normalization offers limited mitigation of the ill-conditioned curvature. The progress along flat directions (eigen-directions of small eigenvalues), which dominates the final loss reduction, remains relatively slow. To enhance training dynamics along flat directions, we propose a curvature-conditioned multiscale momentum method with sphere constraints, delivering steady acceleration in LLM pretraining. This multiscale momentum, applied only along flat direc",
-    "link": "http://arxiv.org/abs/2608.28442v1",
+    "summary": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large language models. Modeling language use as a joint distribution over meanings, contexts, and utterances, we derive upper bounds on the probability that a decoder recovers a speaker's intended meaning from a representation of the utterance. The bounds are governed by the uncertainty that form leaves about meaning, which splits into an irreducible part and a part that only (extralinguistic) context, but never the utterance alone, can resolve. Because these quantities are intrinsic to language, no representation, however much text or supervision produced it, can s",
+    "link": "http://arxiv.org/abs/2608.28560v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.LG"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.28439v1",
-    "title": "Fidelity Is Not Enough: Dispatch-Level Instrumentation for Agentic Datasheet Extraction",
+    "id": "arxiv-2608.28557v1",
+    "title": "Blog: Survey of Optimizers",
     "authors": [
-      "Qing Ye",
-      "Meng-Hsuan Lin"
+      "Ruoran Xu"
     ],
-    "summary": "One model passed our fidelity check without ever opening the datasheet. We found it while qualifying models for an internal extraction service: a structured-output constraint had silently disabled tool use, and the model answered anyway, with fabricated source text. Only the per-tool trace exposed it. Fidelity -- whether an extracted value matches the source -- is the standard measure for agentic document extraction, and it scores that run a success. We therefore log every tool call in an agentic benchmark of 25 hand-curated claims over three components, with 12 more on a fourth, 37 in all. From that dispatch record we build two instruments: a rule-based failure-attribution classifier, and a silent-failure detector whose two rules check only which tools were called, never the extracted val",
-    "link": "http://arxiv.org/abs/2608.28439v1",
+    "summary": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, horizon management, and representation and systems. It connects the spectral normalization of Muon, the historical matrix statistics of Shampoo and SOAP, adaptive and hybrid matrix methods, memory-efficient optimizers, schedule-free training, small-batch corrections, and quantized optimizer states. The",
+    "link": "http://arxiv.org/abs/2608.28557v1",
     "publishedAt": "2026-08-28",
     "categories": [
-      "cs.CL",
+      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.28433v1",
-    "title": "Prove2Me: An Open Collaborative Platform for Scaling Math Formalization",
+    "id": "arxiv-2608.28553v1",
+    "title": "Logos: An Agent Harness on a Cross-Process Bus",
     "authors": [
-      "Shuze Chen",
-      "Kunal Marwaha",
-      "Xiaoyang Lu",
-      "Henry Yuen",
-      "Tianyi Peng"
+      "Hanzhang Jia",
+      "Liheng Zeng",
+      "Hao Cheng",
+      "Yi Gao",
+      "Bo Ma"
     ],
-    "summary": "Proof assistants such as Lean 4 promise the paradigm of formally verified mathematics, but large-scale formalization projects have faced major barriers to entry, including the need for expertise in formal verification (as well as the underlying mathematics) and the significant time required for writing formal proofs. AI coding agents have dramatically reduced these barriers; human users can now use natural language to prompt agents to write complex proofs in Lean. This opens up the intriguing possibility of internet-scale mathematical collaboration involving both humans and AI agents, where correctness is machine-checked. To realize this possibility, we introduce Prove2Me (https://prove2.me), an open collaborative platform for formalizing mathematics. Users launch formalization \"missions\",",
-    "link": "http://arxiv.org/abs/2608.28433v1",
+    "summary": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form is carried by a single process sharing one context, a carrier that places all components in one physical failure domain, a fault suspends every component at once, and process death interrupts every session the process hosts. This paper shows that neither the modeling nor the calculus binds an agent to one process, the statelessness of the language model keeps all cross-step state outside the model, and the soundness invariant is defined on the state space alone. These observations condense into ",
+    "link": "http://arxiv.org/abs/2608.28553v1",
     "publishedAt": "2026-08-28",
     "categories": [
       "cs.AI",
-      "cs.LO",
       "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2608.28432v1",
-    "title": "Are These Modules Worth Their Cost? A Paradigm-Level Accuracy-Cost Analysis of In-context Learning Text-to-SQL",
+    "id": "arxiv-2608.28552v1",
+    "title": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining",
     "authors": [
-      "Jiayan Lin",
-      "Yujia Liu",
-      "Zijin Hong",
-      "Zheng Yuan",
-      "Yilin Xiao",
-      "Hao Chen",
-      "Qinggang Zhang",
-      "Xiao Huang",
-      "Feiran Huang"
+      "Kia Kazemi-Nia",
+      "Harsh Bandhey",
+      "Philip J. Freda",
+      "Ryan J. Urbanowicz"
     ],
-    "summary": "Recent advances in in-context learning (ICL) text-to-SQL have substantially improved execution accuracy on public benchmarks by assembling increasingly elaborate pipelines around the base generator, yet existing studies typically report aggregate end-to-end accuracy, without quantifying the marginal accuracy-cost contribution of individual design choices. Consequently, providing a unified, paradigm-level cost-accuracy quantification remains a critical challenge for understanding and configuring modern text-to-SQL. To address this, we instantiate 17 paradigm-level configurations across five recurring modules of the ICL text-to-SQL pipeline under a single controlled implementation, and attribute each paradigm's marginal contribution and incurred cost across all four backbones spanning divers",
-    "link": "http://arxiv.org/abs/2608.28432v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.DB"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28425v1",
-    "title": "Euclidean Fourier Neural Operators",
-    "authors": [
-      "Nathanael Bosch",
-      "Niklas Frederik Schmitz",
-      "Michael F. Herbst"
-    ],
-    "summary": "Fourier neural operators (FNOs) provide an efficient framework for learning mappings between function spaces as they are, by construction, independent of the grid resolution at which they are trained and evaluated. However, FNOs are not independent of the periodic domain they are applied to: their discrete spectral weights are indexed by integer Fourier mode numbers, which correspond to physical wavevectors. When applied to a different domain, the same trained weights act at different wavevectors, and the FNO silently represents a different operator. This makes FNOs unsuitable for tasks where transfer across domains is crucial. We propose Euclidean Fourier neural operators~(EFNOs) as a domain-independent alternative to FNOs. By parameterizing the spectral kernel as a continuous function of",
-    "link": "http://arxiv.org/abs/2608.28425v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.LG",
-      "cond-mat.mtrl-sci",
-      "physics.comp-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28421v1",
-    "title": "Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs",
-    "authors": [
-      "Vishvesh Bhat"
-    ],
-    "summary": "Post training a language model to reason means updating its weights. Supervised finetuning and reinforcement learning both place the acquired capability inside the model where it cannot be inspected cannot be checked step by step and cannot be moved to another model. We argue that for tasks whose intermediate steps admit verification, reasoning is better placed outside the base models weights as an explicit program composed from deterministic and neural primitives. We introduce PLVR (Program Learning with Verifiable Rewards): a post training method that learns such programs directly from input-output examples. Its mechanism is symbolic backpropagation: each program layer carries a typed ontology a loss is computed at the output against ground truth and required input ontologies are propaga",
-    "link": "http://arxiv.org/abs/2608.28421v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28411v1",
-    "title": "LongPIBench: A Long-Context Benchmark for Prompt Injection",
-    "authors": [
-      "Yupei Liu",
-      "Yuqi Jia",
-      "Neil Zhenqiang Gong",
-      "Jinyuan Jia"
-    ],
-    "summary": "Prompt injection attacks pose a serious security risk to large language models in real-world applications. However, existing prompt injection benchmarks primarily focus on short-context inputs, leaving the attacks and defenses in long-context settings largely unexplored. This gap leads to a substantial overestimation of the effectiveness of current defenses. In this paper, we bridge the gap by introducing LongPIBench, a long-context benchmark for prompt injection covering 4 realistic application scenarios: paper peer review, resume screening, code review, and email summary. For each scenario, we construct a synthetic dataset and a real-world dataset, with context lengths ranging from thousands to tens of thousands of tokens. The evaluation results on LongPIBench reveal significant vulnerab",
-    "link": "http://arxiv.org/abs/2608.28411v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CR",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28408v1",
-    "title": "SymboLLM-FE: LLM-Accelerated Symbolic Regression for Automated Feature Engineering on Tabular Data",
-    "authors": [
-      "Zi-Jian Cheng",
-      "Zi-Yi Jia",
-      "Zhi Zhou",
-      "Yu-Feng Li",
-      "Lan-Zhe Guo"
-    ],
-    "summary": "Tabular data, as a core data format in machine learning, often lacks the discriminative power needed for high-performance modeling due to insufficient feature informativeness. Automated Feature Engineering (AutoFE) overcomes this by automating feature generation and selection, ensuring both model performance and operational efficiency. However, traditional AutoFE often yield features with poor interpretability because they rely on blind mathematical transformations, while large language models (LLM)-based AutoFE faces challenges in requiring costly multi-round iterations to generate high-utility features to effectively enhance model performance, compounded by inherent risks of bias and hallucination. In this paper, we combine symbolic regression with LLMs for feature engineering (SymboLLM-",
-    "link": "http://arxiv.org/abs/2608.28408v1",
+    "summary": "As a precursor to high-dimensional biomedical data modeling, reliable feature selection can reduce computational expense, improve modeling performance, and yield simpler, more interpretable models. However, most filter-based feature selection methods struggle to detect feature interactions, while wrapper or embedded feature selection methods are computationally expensive. Relief-based algorithms (RBAs) are filter methods that are sensitive to feature interactions while mitigating these other limitations. This study (1) refactors, optimizes, and expands the scikit-rebate Python package with existing and newly proposed RBA variants and (2) conducts rigorous RBA benchmark comparisons across diverse genomic simulations. We expand scikit-rebate to include SWRF*, mu-Relief, and 5 novel RBA varia",
+    "link": "http://arxiv.org/abs/2608.28552v1",
     "publishedAt": "2026-08-28",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28407v1",
-    "title": "A Unified Framework to Elicit Structured Feedback for Interpretable Multi-Trait Essay Scoring",
+    "id": "arxiv-2608.28549v1",
+    "title": "Video Generative Models as Geometry Learner",
     "authors": [
-      "Shihang Yang",
-      "Sanwoo Lee",
-      "Ningning Zhao",
-      "Yunfang Wu"
+      "Haosen Yang",
+      "Jifei Song",
+      "Zhensong Zhang",
+      "Xiatian Zhu",
+      "Jiankang Deng"
     ],
-    "summary": "Multi-trait Automated Essay Scoring (AES) requires rubric-grounded reasoning across interdependent traits, rather than isolated score prediction. Existing feedback-enhanced methods often decouple feedback from scoring or assess traits independently, weakening score--feedback consistency and rubric alignment. We propose HiFTS, a unified autoregressive framework that generates hierarchical CoT feedback before predicting trait-level and holistic scores. HiFTS distills rubric-grounded hierarchical CoT feedback from a teacher LLM and trains student models to jointly generate feedback and scores. HiFTS further applies Group Relative Policy Optimization with a composite reward balancing score agreement, calibration, feedback quality, and structural validity. At inference, a lightweight global pri",
-    "link": "http://arxiv.org/abs/2608.28407v1",
+    "summary": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they either (i) train task-specific geometry models (for depth and surface normal estimation) independently, losing the opportunity of exploring the intrinsic correlation of these geometric targets, or (ii) jointly fine-tune modified image diffusion backbones (e.g., altered self-attention), which typically demands substantial labeled data. To overcome these limitations in a principled fashion, we repurpose pretrained video generative models as a unified and data-efficient framework for geometry estimation, formulated innovatively as a next-frames prediction task. Our method, GeoNeXt, inherits natural",
+    "link": "http://arxiv.org/abs/2608.28549v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28547v1",
+    "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging",
+    "authors": [
+      "Aaryan Ajay Sharma",
+      "Sai Nishanth Padala",
+      "Seganrasan Subramanian"
+    ],
+    "summary": "Model merging combines multiple task-specific fine-tuned LLMs into a single multi-task model without additional training. However, merged models are known to suffer from representation bias: systematic drift between the merged model's hidden states and those of each individual source model. Prior work (Yang et al., 2024a) study and mitigate this bias for encoder-based vision models using a lightweight correction module trained with L1 loss. However, such bias is not studied for decoder models due to their autoregressive nature. We analyze the problem of representation bias in decoder models, and show two challenges absent in encoders: (1) the causal attention mask causes bias to accumulate across token positions, requiring position-dependent correction; and (2) not all token positions are ",
+    "link": "http://arxiv.org/abs/2608.28547v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28541v1",
+    "title": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models",
+    "authors": [
+      "Javier Aguilar Martín"
+    ],
+    "summary": "A code world model accepted by a sampling gate can be exactly right on everything the gate can see and arbitrarily wrong beyond it. We characterize what a certified model can know, and what its errors can cost, when the omission is an annular freeze mode enclosing an unreachable interior. The gate quotient makes the question precise: acceptance-with-certainty determines the model exactly on the reachable query set; beyond reach is gauge. On a minimal ring instrument we prove the extreme case (a wrong-topology filled-disc artifact unfalsifiable by any sampling gate and bitwise harmless at play) and measure, with LLM synthesis across three model families, how one knob (a channel of width gamma) walks the same artifact through three regimes: unfalsifiable-and-harmless, falsifiable-and-costly,",
+    "link": "http://arxiv.org/abs/2608.28541v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28534v1",
+    "title": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication",
+    "authors": [
+      "Faraz Faruqi",
+      "Ahmed Katary",
+      "Demircan Tas",
+      "Theresa Hradilak",
+      "Ning Zhang",
+      "Jiaji Li",
+      "Fabian Manhardt",
+      "Martin Nisser",
+      "Vrushank Phadnis",
+      "Ruofei Du",
+      "Federico Tombari",
+      "Megan Hofmann",
+      "Stefanie Mueller"
+    ],
+    "summary": "Recent advances in generative AI allow users to create 3D models from text or images. However, these models prioritize visual plausibility over geometric accuracy, often generating results with flaws that compromise their intended use post-fabrication. We present InstructMesh, an interactive post-generation refinement tool that enables selective repair of generative 3D models through region selection and targeted operations, such as opening or sealing voids, or adjusting local thickness. Users can invoke edit operations via natural language prompts or slider controls. By operating directly on the intermediate latent representation, InstructMesh allows users to apply robust geometric corrections without requiring expert modeling skills. To inform our design, we first analyze common fabricat",
+    "link": "http://arxiv.org/abs/2608.28534v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28524v1",
+    "title": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
+    "authors": [
+      "Arun D. Kulkarni"
+    ],
+    "summary": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted features can capture local texture characteristics but may have limited capability to represent complex visual patterns. In contrast, deep learning models automatically learn discriminative representations but may not fully exploit the multiscale spatial-frequency information inherent in texture images. This paper proposes a hybrid feature fusion framework, termed DWT_AlexNet_DNN, which combines Discrete Wavelet Transform (DWT) features with deep features extracted using AlexNet for texture image classification.",
+    "link": "http://arxiv.org/abs/2608.28524v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28518v1",
+    "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+    "authors": [
+      "Sihan Jia",
+      "Oliver Lemon"
+    ],
+    "summary": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being accepted and executed by EAI models, thereby reducing safety. We simulate ASR errors and combine them with existing safety benchmarks (SafeAgentBench and POEX) to evaluate how different errors affect embodied AI safety. We find that some of them preserve semantic structure but increase harmful ambiguity, while others weaken the model refusal behaviour and allow unsafe plans to be generated and executed. We show that in some cases automatic correction of ASR errors can reduce the risk, but this is not always effective. Overall, we show that ASR errors lead to significant safety risks for embodi",
+    "link": "http://arxiv.org/abs/2608.28518v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28515v1",
+    "title": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+    "authors": [
+      "Tom Stent",
+      "Nicolas Boullé"
+    ],
+    "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true solution on at least a $1-γ$ fraction of the evaluation domain, with probability at least $1-α$ over test and calibration inputs, where $α,γ\\in(0,1)$. Our method reduces a normalized residual field to its spatial $(1-γ)$-quantile and computes a scaling factor using a held-out calibration dataset. We prove marginal coverage guarantees for measurable residual fields defined on arbitrary probability spaces, covering both continuum domains and fixed discretizations. Under mild assumptions on the data ",
+    "link": "http://arxiv.org/abs/2608.28515v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "math.NA",
+      "cs.AI",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28511v1",
+    "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
+    "authors": [
+      "Simeng Sun",
+      "Roger Waleffe"
+    ],
+    "summary": "When training Mixture-of-Experts (MoE) language models with expert parallelism, all-to-all token dispatch and combine collectives can consume a substantial fraction of end-to-end training time. In this work, we study communication-efficient MoE models (CE-MoE), in which we adopt a heterogeneous layer pattern that decouples token-mixing and channel-mixing depth. Compared to conventional models which interleave MoE layers after each token-mixing layer (e.g., attention, Mamba-2), CE-MoE models concentrate expert capacity in a select few routed MoE layers, while maintaining depth by adding additional token-mixing and dense-FFN layers. Across a scaling ladder from 2B to 31.5B total parameters, under matched total and activated parameters, CE-MoE models consistently reduce training cost while ma",
+    "link": "http://arxiv.org/abs/2608.28511v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28508v1",
+    "title": "Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation",
+    "authors": [
+      "V. S. D. S. Mahesh Akavarapu",
+      "Michael Daniel",
+      "Gerhard Jäger"
+    ],
+    "summary": "Forced alignment evaluation typically requires manually annotated timestamps, limiting large-scale and multilingual analysis. We introduce two corpus-level metrics based on self-supervised (SSL) speech representations for reference-free forced alignment evaluation: Phoneme-Cluster Mutual Information (PCMI) and Word Acoustic Consistency Score (WACS). PCMI measures agreement between aligned phoneme labels and clusters induced from SSL-speech representations, while WACS measures consistency of repeated word realizations using dynamic time warping similarity between word representation sequences. Using both random and systematic perturbations, we show that PCMI and WACS degrade consistently under alignment perturbations. We further analyze the metrics across multiple alignment systems on 85 la",
+    "link": "http://arxiv.org/abs/2608.28508v1",
     "publishedAt": "2026-08-28",
     "categories": [
       "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28499v1",
+    "title": "REPLICANT: Learning Policies for Evading and Hardening Malware Detectors",
+    "authors": [
+      "Shae McFadden",
+      "Ilias Tsingenopoulos",
+      "Mario D'Onghia",
+      "Alexander Herzog",
+      "Myles Foley",
+      "Chris Hicks",
+      "Lorenzo Cavallaro",
+      "Fabio Pierazzi"
+    ],
+    "summary": "To determine the real-world effectiveness of machine learning based malware detection, it is vital to evaluate its robustness against highly capable adversaries. However, state-of-the-art attacks do not effectively model realistic adversaries, as they often assume access to privileged information such as the training data, feature space, or confidence scores of the target. In this work, we present Replicant, a deep reinforcement learning framework that learns the realistic task of evasion under a strict label-only black-box threat model. Replicant learns a reusable policy on how to modify a malware sample and when to query the target, which transfers across samples, detectors, and feature spaces. Across seven Android malware detectors and three feature spaces, Replicant is the strongest an",
+    "link": "http://arxiv.org/abs/2608.28499v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.LG",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "arxiv-2608.28497v1",
+    "title": "On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces",
+    "authors": [
+      "Ahmed Hereiz",
+      "Yingzhe Lyu",
+      "Hao Li",
+      "Bram Adams",
+      "Ahmed E. Hassan"
+    ],
+    "summary": "AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolution dynamics of these emerging repositories remain empirically unexplored. Unlike traditional software packages that deliver functionality through source code, agent plugins deliver functionality through a combination of natural-language instruction files, scripts, and configuration files, raising the question of whether these plugins are maintained artifacts that co-evolve across components, or one-off artifacts that developers write once and do not need to revisit. To study the maintenance and co-evolution of agent plugins, we conduct an empirical study of 1,926 repositories hosting Claude Code",
+    "link": "http://arxiv.org/abs/2608.28497v1",
+    "publishedAt": "2026-08-28",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1137219",
+    "title": "Customer Service Agent",
+    "company": "Thrifty Car and Van Rental",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Title: Customer Service Agent Location: Exeter Head Office - Full Time Hours: 40 hours Monday-Friday + Saturday shift rota Benefits: 22 days holiday, increa"
+    ],
+    "skills": [
+      "Agent"
+    ],
+    "location": "Exeter, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
+    "postedAt": "2026-08-30",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1137212",
     "title": "Building Maintenance Technician",
@@ -932,6 +948,21 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1137229",
+    "title": "RETAIL STORE MANAGER RIVERLINK",
+    "company": "Spendless Shoes",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Love Shoes, Love Fashion, Love People Join Australia's most successful footwear retailer Earn up to $9000 Incentive scheme Opportunity for Career progression Tu"
+    ],
+    "skills": [],
+    "location": "Ipswich, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-riverlink-spendless-shoes-1137229",
+    "postedAt": "2026-08-25",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137114",
     "title": "Senior Backend Engineer Build AI Agents",
     "company": "Salesforge",
@@ -1008,4 +1039,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-31T03:21:47.795Z';
+export const dataFetchedAt = '2026-08-31T12:35:18.060Z';
