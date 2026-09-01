@@ -2,8 +2,8 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-hugging-face-hack-could-indicate-cultural-issues-at-openai-1788199200000",
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
     "publishedAt": "2026-08-31",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-group-funded-by-andreessen-horowitz-and-brockman-plans-dat-1788214445000",
-    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-    "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-    "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-    "publishedAt": "2026-08-31",
+    "id": "news-lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-alo-1788222600000",
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+    "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788192625000",
-    "title": " 美联储主席沃什“最鹰”讲话，特朗普又“遇人不淑”？ ",
-    "link": "https://www.huxiu.com/article/4887467.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 沃什上台 凯文・沃什与特朗普相识，是由他的岳父、特朗普的金主好友、雅诗兰黛继承人罗纳德・劳德引荐的。 2017年，特朗普第一任期遴选美联储主席时两人正式面谈。同期候选人还有杰罗姆・鲍威尔。最终特朗普选择了鲍威尔。鲍威尔时任美联储理事，参议院通过阻力小；而且他主张放松金融监管，这很合特朗普的胃口。 然而没想到，鲍威尔2018年2月上任后不顾特朗普强烈反对，一年连续加息四次。理论上，为了维护央行货币政策的独立性，总统应该避嫌。不过，特朗普不是那种能够忍住不说的人，他骂鲍威尔是傻瓜、疯子，公开咨询能否解雇他。 2019年，鲍威尔“预防性”降息三次；2020年，疫情来袭，鲍威尔紧急降息两次；2021年，按兵不动；2022年2月任期结束。 拜登（2021年上台）提名鲍威尔连任，强调美联储独立性的重要性。从2022年3月到2023年7月，一年半不到，鲍威尔连续加息11次。美股显著走熊，纳指跌幅最深。要不是AI浪潮来解救，美股将惨不忍睹。反正拜登也不炒股。 2025年1月，特朗普第二次上任，一上任就猛烈抨击鲍威尔，强烈要求他降息，然而这次鲍威尔就是不降息。特朗普非常生气，扬言要解雇他。 有一次，特朗普可能气昏了头，对记者说，只有拜登这个白痴才会任命鲍威尔这个白痴。记者不得不提醒他，是他自己先任命鲍威尔的。 好不容易熬到鲍威尔2026年5月",
-    "publishedAt": "2026-08-31",
+    "id": "news--1788231602000",
+    "title": " 对话宋峻教授②：现代人正在逐渐失去感知身体的能力 ",
+    "link": "https://www.huxiu.com/article/4886446.html?f=rss",
+    "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo;九叶刀研究&rdquo;首发，头图来自Pixabay。全文约4500字。 我们生活在一个更容易获得健康知识的世界。 专业医生的书籍，健康博主的视频，AI随手一搜，&ldquo;如何吃得健康&rdquo;&ldquo;如何快速减肥&rdquo;之类的信息便铺天盖地而来。 但我们也很容易陷入这样的困惑：为什么很多科普知识都和我的生活习惯相悖？遵循健康建议的时间和金钱成本为什么越来越高，越来越数学化和数字化？ 这是&ldquo;九叶刀&rdquo;与宋峻教授的第二篇健康对话谈到的主题。 在本篇中，我们和宋教授就&ldquo;生活方式和健康饮食&rdquo;展开讨论。本部分偏重健康理念的纠正探讨，你将读到： 为什么需要&ldquo;认真吃饭&rdquo;，这主张背后有何深意？ 如何以最低代价吃&ldquo;真食物&rdquo;，让生活慢下来？ 如何以正确心态使用可计算食物热量的App？ 膳食指南可信吗，如何对待？ 能不能通过饮食实现抗衰？ 九叶刀团队 宋峻（上海市疾病预防控制中心食品与营养卫生主任技师、教授） 很多健康博主，也和《我的血糖我做主》（《血糖》）一样，都提到了专心吃饭的问题，但这似乎是个非常主观和形而上的概念，现在社交媒体和短视频让人越来越难以集中注意力了，对于专心吃饭来说，的确是一种奢侈，普通人很难意识到它的重要性，也很难主动作出改",
+    "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -82,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-momenta-1788185580000",
-    "title": "Momenta上市首份半年报：技术故事讲完之后，资本市场开始算账",
-    "link": "https://www.tmtpost.com/8123399.html",
-    "summary": "8月31日，Momenta上市之后发布了首份半年报，量产智驾开始成为一门“软件生意。",
-    "publishedAt": "2026-08-31",
+    "id": "news-ai-ai-1788231549000",
+    "title": "AI办公的终局，真的是“AI办公”吗？",
+    "link": "https://www.tmtpost.com/8123999.html",
+    "summary": "AI办公能活多久？",
+    "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -108,17 +108,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-i-1788207625000",
-    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-    "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-    "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-    "publishedAt": "2026-08-31",
+    "id": "news-apple-shares-8216-shocking-evidence-8217-against-former-empl-1788221580000",
+    "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "ecommerce"
+      "ai-hr"
     ]
   },
   {
@@ -162,11 +162,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788192054000",
-    "title": " 人·地·钱：大国转型中的制度、财政与空间 ",
-    "link": "https://www.huxiu.com/article/4887466.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：经观观察家 只有通过改要素配置、动利益格局、破发展瓶颈，推动这两大关联体制的渐进式、系统性、深层次协同改革，才有望将长期以来相互割裂、相互掣肘的土地、户籍、财税改革紧密咬合在一起 旧的社会时钟刻度既已停摆，便无需强求步调重新一致。探索与停滞的分野，仅在于弯路能否转化为走向下一步的经验。或许，我们亟待修复的，正是其间断裂的连接，而非对晚到或改道的恐惧。 从“分灶”到“分税” 在一个超大规模的转型国家中，央地财政关系始终是理解其经济增长模式、制度变迁轨迹以及社会治理逻辑的内核性线索。正如国务院发展研究中心王瑞民研究员在《央地之间：转移支付的政治及其他》中所指出的那样，财政是观察社会变革的最佳视角，也是理解中国经济增长模式及其动态演变的总纲。 央地之间“钱”的性质、流动及其方向，如同一条条隐秘的河流，不仅深刻塑造了地方政府的行为模式及经济发展路径选择，串起了农业经济、土地与城镇化、财政体制、住房政策等重要政策议题，更与每个国民的生活选择、财富积累乃至命运走向息息相关。 王瑞民是香港中文大学（深圳）陶然教授的学生，《央地之间》可视为陶然教授《人地之间：中国增长模式下的城乡土地改革》一书子议题的放大。《人地之间》从空间维度的土地要素切入，构建了一个考察政府与企业之间、不同产业之间、中央与地方之间三组关系的整体性理论分析框架。 如果以《央地之间》",
-    "publishedAt": "2026-08-31",
+    "id": "news--1788231053000",
+    "title": " 第二届世界人形机器人运动会，宇树垫底比赢了还开心 ",
+    "link": "https://www.huxiu.com/article/4887497.html?f=rss",
+    "summary": "第二届世界人形机器人运动会，宇树机器人这次垫底了，冲线时慢了好几秒，连小组第三都沦为了&ldquo;倒数第一&rdquo;。",
+    "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -175,11 +175,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788185553000",
-    "title": "中国电视的“坏日子”，还没结束",
-    "link": "https://www.tmtpost.com/8123457.html",
-    "summary": "当规模红利彻底退潮，中国电视产业真正的下半场，或许才刚刚开始。",
-    "publishedAt": "2026-08-31",
+    "id": "news-ai-token-ai-1788231544000",
+    "title": "从\"用了多少AI\"到\"Token效\"：企业AI投入正在换尺子",
+    "link": "https://www.tmtpost.com/8124014.html",
+    "summary": "企业AI化的人效新口径。",
+    "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -201,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok-1788207225000",
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "id": "news-polymarket-reportedly-raises-300-million-from-donald-trump-j-1788219670000",
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.&#8217;s investment fund",
+    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+    "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
     "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
@@ -252,11 +252,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-playstation-1788181440000",
-    "title": "独家对话江口达雄：芯片涨价与AI热夹击，PlayStation如何守主机阵地",
-    "link": "https://www.tmtpost.com/8123349.html",
-    "summary": "AI内容抢走越来越多的娱乐时间，年轻人是否还愿意在周末坐进客厅、握住手柄？江口达雄的回答并不激进，像带着某种老派的从容，但他依旧保持谨慎，因为不确定性始终存在。",
-    "publishedAt": "2026-08-31",
+    "id": "news-0-1788231040000",
+    "title": " 让所有基民都亏钱，市场惊现“0盈利比”基金 ",
+    "link": "https://www.huxiu.com/article/4887523.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：吴雨其 盈利投资者占比为0，意味着过去一年里，没有一名投资者能在这只基金上实现赚到钱。 Wind数据显示，在目前已经披露相关数据的基金中，共有8只基金盈利投资者数量占比为0。一个共同点是，这8只基金全部采用定期开放运作模式，封闭期从6个月到3年不等。 从净值表现看，8只基金过去一年也全部下跌，但跌幅差距很大。信澳博见成长一年定开A跌幅最大，过去一年下跌34.98%；国投瑞银港股通6个月定开、中信建投北交所精选两年定开A分别下跌16.72%、13.08%。富国远见精选三年定开过去一年仅下跌1.01%，盈利投资者占比同样为0。 除了这8只“零盈利”基金外，还有多只基金的盈利投资者占比已经接近于零。Wind数据显示，招商远见回报3年定开盈利投资者占比仅0.07%，中欧远见两年定开为0.70%，万家鑫动力、恒越匠心优选一年持有A、申万菱信乐融一年持有A、中欧产业优选A等基金的盈利投资者占比也仅在1%左右。 8只“零盈利”产品，全部是定开 目前披露的基金中，共有8只产品盈利投资者占比为0，清一色都是定期开放基金。 按照基金业协会发布的半年度报告XBRL模板，盈利投资者数量占比的计算公式为盈利投资者数量除以投资者总数。这里的“投资者”并非仅指今年6月底仍持有基金的人，而是统计区间内曾持有过基金份额的投资者；投资者区间净收益还需扣除认申购费、赎回费、转换费等",
+    "publishedAt": "2026-09-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-e-mein-ai-1788231262000",
+    "title": "E MEIN依明科技首次公开AI经营系统：从结果数据到行为数据",
+    "link": "https://www.tmtpost.com/8123517.html",
+    "summary": "一件衣服从设计稿到顾客手中第一次有了贯穿始终的数据记录",
+    "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -278,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026-1788204741000",
-    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-    "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+    "id": "news-a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1-1788218054000",
+    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+    "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
     "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
@@ -305,17 +318,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-washington-post-karen-attiah-saga-raises-questions-about-1788188940000",
-    "title": "The Washington Post-Karen Attiah saga raises questions about worker social media policies",
-    "link": "https://www.hrdive.com/news/the-washington-post-karen-attiah-saga-raises-questions-about-worker-social/829172/",
-    "summary": "An arbitrator ordered the Post to reinstate Attiah and provide back pay after firing her for social media posts. Here&rsquo;s what HR can learn from the situation.",
+    "id": "news-week-in-review-healthcare-costs-may-rise-nearly-10-next-year-1788188940000",
+    "title": "Week in review: Healthcare costs may rise nearly 10% next year",
+    "link": "https://www.hrdive.com/news/healthcare-costs-may-rise-nearly-10-in-2027/829170/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a new H-1B visa fee proposed by the U.S. Department of Homeland Security.",
     "publishedAt": "2026-08-31",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -332,11 +344,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788177026000",
-    "title": "雪天盐业跨界“蛇吞象”并购谋变，百亿负极标的借道突围丨并购一线",
-    "link": "https://www.tmtpost.com/8123115.html",
-    "summary": "99亿市值公司拟收购129亿估值负极材料企业，停牌前股价提前涨停引质疑。",
-    "publishedAt": "2026-08-31",
+    "id": "news--1788230920000",
+    "title": " 三家上市公司的命，绑在了一盘“菜”上？ ",
+    "link": "https://www.huxiu.com/article/4887519.html?f=rss",
+    "summary": "本文来自微信公众号： 红餐供应链指南 ，作者：专注餐饮供应链的 谁能赶在下一个低谷到来之前，走出“金针菇围城”？ 本文由红餐供应链指南（ID：cygylzn）原创 题图来源：摄图网 在农产品的版图里，金针菇是一个特殊的存在。 它早已跳出了农户散种的阶段，进入到重资产、高周转的工业化时代。但工业化的另一面是：供给端高度集中、扩产容易、退出的沉没成本极高，周期性的价格与产能波动也由此如影随形。 这种周期性波动在相关企业的财报中体现得尤为明显。今年上半年，金针菇赛道的三家头部企业均迎来业绩回暖：华绿生物的净利润同增185.85%，众兴菌业的净利润大涨176.51%；雪榕生物的净利润也实现了翻倍增长，增幅达117.41%。 但去年同期，这三家公司里有两家处于亏损状态。一年之内从亏损到大幅盈利，背后驱动因素并非企业基本面的突变，而源于食用菌市场价格曲线的周期性回升。 净利暴涨近2倍，都是价格的功劳 今年上半年，华绿生物、众兴菌业、雪榕生物都交出了营利双增的成绩单。 透视这三家企业的半年报，增长逻辑出奇的一致——都吃到了金针菇涨价的红利。 华绿生物是典型的金针菇概念股。近几年，金针菇为其贡献超6成收入。上半年，公司的营收同比增长近4成，达到6.94亿元，净利润达4609.63万元，实现了扭亏为盈。其中，金针菇产品价格同比上涨，收入同增30.17%。利润端的变化也很明显，主要产品涨价，拉高了毛利",
+    "publishedAt": "2026-09-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788231257000",
+    "title": "养奶牛的，都想卖牛奶",
+    "link": "https://www.tmtpost.com/8123822.html",
+    "summary": "奶源过剩局面已扭转。",
+    "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -358,10 +383,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instagram-puts-new-limits-on-undisclosed-ai-profiles-1788203819000",
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "id": "news-a-group-funded-by-andreessen-horowitz-and-brockman-plans-dat-1788214445000",
+    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+    "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
     "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
@@ -369,369 +394,353 @@ export const generatedNews: NewsItem[] = [
       "startup",
       "ai"
     ]
-  },
-  {
-    "id": "news-the-frontline-is-hr-8217-s-biggest-ai-blind-spot-1788178556000",
-    "title": "The frontline is HR&#8217;s biggest AI blind spot",
-    "link": "https://hrexecutive.com/the-frontline-is-hrs-biggest-ai-blind-spot/",
-    "summary": "A lot of AI is built around knowledge workers, but 80% of workers are on the frontline. How do you reach them? The post The frontline is HR&#8217;s biggest AI blind spot appeared first on HR Executive .",
-    "publishedAt": "2026-08-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-week-in-review-healthcare-costs-may-rise-nearly-10-next-year-1788188940000",
-    "title": "Week in review: Healthcare costs may rise nearly 10% next year",
-    "link": "https://www.hrdive.com/news/healthcare-costs-may-rise-nearly-10-in-2027/829170/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a new H-1B visa fee proposed by the U.S. Department of Homeland Security.",
-    "publishedAt": "2026-08-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2608.28589v1",
-    "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+    "id": "arxiv-2608.30662v1",
+    "title": "MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines",
     "authors": [
-      "Vaibhav Mehandiratta",
-      "Saket Ramchandra"
+      "Alireza Bayat Makou",
+      "Emirhan Böge",
+      "Phu Gia Hoang",
+      "Federico Tiblias",
+      "Jingcheng Niu",
+      "Subhabrata Dutta",
+      "Richard Eckart de Castilho",
+      "Iryna Gurevych"
     ],
-    "summary": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorporates standard continuity and Kirchhoff-Neumann vertex conditions and Dirichlet boundary conditions into the learning process to couple the local edge-wise neural approximations into a global solution on the graph. The framework is developed for two representative classes of nonlinear models: multi",
-    "link": "http://arxiv.org/abs/2608.28589v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28578v1",
-    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
-    "authors": [
-      "Nan Wang",
-      "Mohit Yadav",
-      "Jonathan Wulff",
-      "Aidan Rosenbaum",
-      "Kezhou Chen",
-      "Yuvan Sharma",
-      "Xu Dong",
-      "Yiwei Tao"
-    ],
-    "summary": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct-drive hand. The underactuated transmission that produces the saving is itself difficult to represent in a simulator, and the joints one cable drives are not independently commandable. We present Aero Hand Open, a tendon-driven anthropomorphic hand that is released simulation-ready. Three things ship with it. A simulation model reproduces the cable",
-    "link": "http://arxiv.org/abs/2608.28578v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28576v1",
-    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-    "authors": [
-      "Chengpiao Huang",
-      "Kaizheng Wang"
-    ],
-    "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic augmentation by the number of synthetic observations and their weight. Central to our framework is a size-weight frontier that specifies, for each weight, the largest synthetic sample size for which all smaller sizes attain the target task-marginal coverage. We estimate this frontier from historical tasks, and establish a finite-sample coverage guarantee simultaneously for all size-weight configurations on or below the estimated frontier. In experiments using large language model resp",
-    "link": "http://arxiv.org/abs/2608.28576v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "stat.ME",
-      "cs.AI",
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28566v1",
-    "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
-    "authors": [
-      "Yuansi Chen",
-      "Yunbum Kook"
-    ],
-    "summary": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\barν$-symmetry, and mixed-trace regularity on the local metric. The key idea is to control the Metropolis--Hastings acceptance probability on a high-probability region rather than at every point. Applying this framework to the Lee--Sidford, Lewis-weight, and John metrics yields an $\\widetilde O(d^2)$ mixing bound for sampling from polytopes, while applying it to a hybrid barrier yields an $\\widetilde O(d^4)$ mixing bound for sampling from truncated PSD cones. Our second result establishes stronger $χ^2$-divergence guarantees and pointwise accep",
-    "link": "http://arxiv.org/abs/2608.28566v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.DS",
-      "cs.LG",
-      "math.OC",
-      "math.PR",
-      "stat.CO"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28564v1",
-    "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
-    "authors": [
-      "Lorenzo Rizzi",
-      "Arie Wortsman Zurich",
-      "Bruno Loureiro"
-    ],
-    "summary": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the polynomial high-dimensional regime $n=Θ(d^κ)$, revealing how anisotropy reshapes the learning curves. For weak anisotropy ($0<α<1$), the problem remains effectively high-dimensional and retains some features of the isotropic case, while departing from it in others: the variance still peaks at integer sample complexities $κ\\in\\mathbb{N}$, but these peaks are progressively damped as $α$ grows; meanwhile, for targets strongly aligned with the data's principal directions, the bias drops at fractional sample complexitie",
-    "link": "http://arxiv.org/abs/2608.28564v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "stat.ML",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28560v1",
-    "title": "A Formal Limitation on Learning Human Language From Textual Corpora",
-    "authors": [
-      "Emily Cheng",
-      "Ryan Cotterell"
-    ],
-    "summary": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large language models. Modeling language use as a joint distribution over meanings, contexts, and utterances, we derive upper bounds on the probability that a decoder recovers a speaker's intended meaning from a representation of the utterance. The bounds are governed by the uncertainty that form leaves about meaning, which splits into an irreducible part and a part that only (extralinguistic) context, but never the utterance alone, can resolve. Because these quantities are intrinsic to language, no representation, however much text or supervision produced it, can s",
-    "link": "http://arxiv.org/abs/2608.28560v1",
-    "publishedAt": "2026-08-28",
+    "summary": "This paper presents Murano, an open source framework for designing, running, and reproducing mechanistic interpretability studies of large language models, intended for researchers across disciplines. These studies often combine loading, recording, attribution, intervention, and evaluation, while existing libraries tend to focus on different parts of this workflow. As a result, researchers using several libraries may need to adapt outputs from one for use by another. To bridge this gap, Murano represents operations from these five areas as composable steps. Steps exchange named result artifacts and declare the inputs they require and the outputs they produce. A pipeline executes its steps in the order supplied, and Murano uses canonical addresses when component identities pass between oper",
+    "link": "http://arxiv.org/abs/2608.30662v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.28557v1",
-    "title": "Blog: Survey of Optimizers",
+    "id": "arxiv-2608.30661v1",
+    "title": "SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?",
     "authors": [
-      "Ruoran Xu"
+      "Jinshan Gao",
+      "Zhuoran Jin",
+      "Tianyi Men",
+      "Kang Liu",
+      "Jun Zhao"
     ],
-    "summary": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, horizon management, and representation and systems. It connects the spectral normalization of Muon, the historical matrix statistics of Shampoo and SOAP, adaptive and hybrid matrix methods, memory-efficient optimizers, schedule-free training, small-batch corrections, and quantized optimizer states. The",
-    "link": "http://arxiv.org/abs/2608.28557v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Large language model-based multi-agent systems are evolving from fixed interaction topologies toward dynamically orchestrated Agent Swarms. However, existing benchmarks are still largely based on single-agent or general-purpose agent tasks, making it difficult to systematically evaluate key orchestration capabilities. We propose SwarmBench, a benchmark that evaluates model performance from multiple perspectives, including accuracy, efficiency, cost, and process quality. Experimental results show that current models exhibit substantial differences in orchestration capability. These differences are reflected not only in final accuracy, efficiency, and cost, but also in the overall quality of the orchestration process itself. Based on these findings, we further propose SwarmExp, a simple yet ",
+    "link": "http://arxiv.org/abs/2608.30661v1",
+    "publishedAt": "2026-08-31",
     "categories": [
-      "cs.LG",
-      "cs.AI"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.28553v1",
-    "title": "Logos: An Agent Harness on a Cross-Process Bus",
+    "id": "arxiv-2608.30654v1",
+    "title": "Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting",
     "authors": [
-      "Hanzhang Jia",
-      "Liheng Zeng",
-      "Hao Cheng",
-      "Yi Gao",
-      "Bo Ma"
+      "Danyang Li",
+      "John Taylor",
+      "Thang Bui",
+      "Quanling Deng"
     ],
-    "summary": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form is carried by a single process sharing one context, a carrier that places all components in one physical failure domain, a fault suspends every component at once, and process death interrupts every session the process hosts. This paper shows that neither the modeling nor the calculus binds an agent to one process, the statelessness of the language model keeps all cross-step state outside the model, and the soundness invariant is defined on the state space alone. These observations condense into ",
-    "link": "http://arxiv.org/abs/2608.28553v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.AI",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28552v1",
-    "title": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining",
-    "authors": [
-      "Kia Kazemi-Nia",
-      "Harsh Bandhey",
-      "Philip J. Freda",
-      "Ryan J. Urbanowicz"
-    ],
-    "summary": "As a precursor to high-dimensional biomedical data modeling, reliable feature selection can reduce computational expense, improve modeling performance, and yield simpler, more interpretable models. However, most filter-based feature selection methods struggle to detect feature interactions, while wrapper or embedded feature selection methods are computationally expensive. Relief-based algorithms (RBAs) are filter methods that are sensitive to feature interactions while mitigating these other limitations. This study (1) refactors, optimizes, and expands the scikit-rebate Python package with existing and newly proposed RBA variants and (2) conducts rigorous RBA benchmark comparisons across diverse genomic simulations. We expand scikit-rebate to include SWRF*, mu-Relief, and 5 novel RBA varia",
-    "link": "http://arxiv.org/abs/2608.28552v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Antarctic sea ice concentration (SIC) forecasting is an important yet challenging task due to the coexistence of complex spatial structure, long-range temporal dependencies, and strong seasonal variability. Conventional convolution-based models are effective at capturing local spatial patterns, but often have limited ability to model long-term temporal evolution. To address these challenges, we build on a hybrid Convolutional-Transformer forecasting framework for monthly Antarctic SIC forecasting. This framework combines convolutional encoding for spatial feature extraction with factorised self-attention for spatio-temporal dependency modelling. We further introduce two seasonal prior mechanisms: a month-aware positional encoding that injects calendar-month information into the token repre",
+    "link": "http://arxiv.org/abs/2608.30654v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28549v1",
-    "title": "Video Generative Models as Geometry Learner",
+    "id": "arxiv-2608.30653v1",
+    "title": "Fine-Grained Multi Image Object Hallucination Benchmark",
     "authors": [
-      "Haosen Yang",
-      "Jifei Song",
-      "Zhensong Zhang",
-      "Xiatian Zhu",
-      "Jiankang Deng"
+      "Joonki Min",
+      "Chaeyun Kim",
+      "Hyungwook Choi",
+      "Yejin Kim",
+      "Kihyun Kim",
+      "Yohan Jo",
+      "Joonseok Lee"
     ],
-    "summary": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they either (i) train task-specific geometry models (for depth and surface normal estimation) independently, losing the opportunity of exploring the intrinsic correlation of these geometric targets, or (ii) jointly fine-tune modified image diffusion backbones (e.g., altered self-attention), which typically demands substantial labeled data. To overcome these limitations in a principled fashion, we repurpose pretrained video generative models as a unified and data-efficient framework for geometry estimation, formulated innovatively as a next-frames prediction task. Our method, GeoNeXt, inherits natural",
-    "link": "http://arxiv.org/abs/2608.28549v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Multimodal Large Language Models (MLLMs) are increasingly deployed in multi-image scenarios requiring complex reasoning across visual contexts. However, current MLLMs remain fundamentally limited by object hallucination-generating plausible yet factually inconsistent descriptions about objects. Existing benchmarks, designed primarily for single-image settings or providing only high-level multi-image assessments, cannot systematically diagnose how visual complexity and reasoning demands trigger hallucination. To address this gap, we introduce MIOH, a fine-grained multi-image object hallucination benchmark that systematically evaluates object hallucination across four foundational tasks (existence, counting, attribute, position) through three multi-image reasoning patterns (comprehensive, co",
+    "link": "http://arxiv.org/abs/2608.30653v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28547v1",
-    "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging",
-    "authors": [
-      "Aaryan Ajay Sharma",
-      "Sai Nishanth Padala",
-      "Seganrasan Subramanian"
-    ],
-    "summary": "Model merging combines multiple task-specific fine-tuned LLMs into a single multi-task model without additional training. However, merged models are known to suffer from representation bias: systematic drift between the merged model's hidden states and those of each individual source model. Prior work (Yang et al., 2024a) study and mitigate this bias for encoder-based vision models using a lightweight correction module trained with L1 loss. However, such bias is not studied for decoder models due to their autoregressive nature. We analyze the problem of representation bias in decoder models, and show two challenges absent in encoders: (1) the causal attention mask causes bias to accumulate across token positions, requiring position-dependent correction; and (2) not all token positions are ",
-    "link": "http://arxiv.org/abs/2608.28547v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
+      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28541v1",
-    "title": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models",
+    "id": "arxiv-2608.30652v1",
+    "title": "PyKEEN-NSX: A Modular Framework for Static, Dynamic and Schema-Aware Negative Sampling in PyKEEN",
     "authors": [
-      "Javier Aguilar Martín"
+      "Ivan Diliso",
+      "Nicola Fanizzi",
+      "Claudia d'Amato"
     ],
-    "summary": "A code world model accepted by a sampling gate can be exactly right on everything the gate can see and arbitrarily wrong beyond it. We characterize what a certified model can know, and what its errors can cost, when the omission is an annular freeze mode enclosing an unreachable interior. The gate quotient makes the question precise: acceptance-with-certainty determines the model exactly on the reachable query set; beyond reach is gauge. On a minimal ring instrument we prove the extreme case (a wrong-topology filled-disc artifact unfalsifiable by any sampling gate and bitwise harmless at play) and measure, with LLM synthesis across three model families, how one knob (a channel of width gamma) walks the same artifact through three regimes: unfalsifiable-and-harmless, falsifiable-and-costly,",
-    "link": "http://arxiv.org/abs/2608.28541v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28534v1",
-    "title": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication",
-    "authors": [
-      "Faraz Faruqi",
-      "Ahmed Katary",
-      "Demircan Tas",
-      "Theresa Hradilak",
-      "Ning Zhang",
-      "Jiaji Li",
-      "Fabian Manhardt",
-      "Martin Nisser",
-      "Vrushank Phadnis",
-      "Ruofei Du",
-      "Federico Tombari",
-      "Megan Hofmann",
-      "Stefanie Mueller"
-    ],
-    "summary": "Recent advances in generative AI allow users to create 3D models from text or images. However, these models prioritize visual plausibility over geometric accuracy, often generating results with flaws that compromise their intended use post-fabrication. We present InstructMesh, an interactive post-generation refinement tool that enables selective repair of generative 3D models through region selection and targeted operations, such as opening or sealing voids, or adjusting local thickness. Users can invoke edit operations via natural language prompts or slider controls. By operating directly on the intermediate latent representation, InstructMesh allows users to apply robust geometric corrections without requiring expert modeling skills. To inform our design, we first analyze common fabricat",
-    "link": "http://arxiv.org/abs/2608.28534v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Embedding methods have become popular due to their scalability on link prediction and/or triple classification tasks on Knowledge Graphs (KGs). Embedding models are trained relying on both positive and negative samples of triples. However, since KGs generally contain only positive assertions, negative samples are artificially generated through negative sampling strategies, ranging from simple random corruption to more sophisticated approaches that exploit structural, semantic, or embedding information. The design and implementation of advanced negative samplers remains challenging, as most popular Knowledge Graph Embedding (KGE) libraries provide support only for basic strategies and lack a unified framework for developing more advanced and customized solutions. To address this gap, we int",
+    "link": "http://arxiv.org/abs/2608.30652v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.28524v1",
-    "title": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
+    "id": "arxiv-2608.30650v1",
+    "title": "Geometry of Divergence: Tracking Hidden-State Trajectories for Adaptive Multi-Turn Reasoning",
     "authors": [
-      "Arun D. Kulkarni"
+      "Jie Liang",
+      "Zhengxin Yu",
+      "Hamid Nasiri",
+      "Peter Garraghan"
     ],
-    "summary": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted features can capture local texture characteristics but may have limited capability to represent complex visual patterns. In contrast, deep learning models automatically learn discriminative representations but may not fully exploit the multiscale spatial-frequency information inherent in texture images. This paper proposes a hybrid feature fusion framework, termed DWT_AlexNet_DNN, which combines Discrete Wavelet Transform (DWT) features with deep features extracted using AlexNet for texture image classification.",
-    "link": "http://arxiv.org/abs/2608.28524v1",
-    "publishedAt": "2026-08-28",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2608.28518v1",
-    "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
-    "authors": [
-      "Sihan Jia",
-      "Oliver Lemon"
-    ],
-    "summary": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being accepted and executed by EAI models, thereby reducing safety. We simulate ASR errors and combine them with existing safety benchmarks (SafeAgentBench and POEX) to evaluate how different errors affect embodied AI safety. We find that some of them preserve semantic structure but increase harmful ambiguity, while others weaken the model refusal behaviour and allow unsafe plans to be generated and executed. We show that in some cases automatic correction of ASR errors can reduce the risk, but this is not always effective. Overall, we show that ASR errors lead to significant safety risks for embodi",
-    "link": "http://arxiv.org/abs/2608.28518v1",
-    "publishedAt": "2026-08-28",
+    "summary": "LLM agents need to sustain goal-consistent reasoning across long multi-turn interactions under strict resource constraints. However, as the multi-turn context accumulates, it can destabilize the underlying LLM's internal representation of task-relevant information from earlier turns, blurring the boundary between constructive reasoning and representation drift. We formulate multi-turn reasoning as a hidden-state trajectory of the underlying LLM that is characterized via two complementary signals: temporal curvature that captures the directional consistency of turn-to-turn updates, and variance slope which measures the expansion or contraction of the exploration space. Across four tasks and three underlying LLMs, we observed that these geometric signals distinguish between correct and incor",
+    "link": "http://arxiv.org/abs/2608.30650v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30649v1",
+    "title": "Where Identity Lives: Localized, Retain-Free Identity Unlearning in Multimodal Large Language Models",
+    "authors": [
+      "Kangwook Ko",
+      "Jaehyuk Jang",
+      "Wonjun Lee",
+      "Hee-Seon Kim",
+      "Changick Kim"
+    ],
+    "summary": "Removing a specific individual's information from multimodal large language models (MLLMs) is often needed after deployment, but existing methods rely on a retain set, which is hardest to obtain at that point, and rebuilding it recreates the privacy exposure that unlearning aims to remove. Forgetting from the forget set alone instead damages the shared visual-language computation, harming perception. We cast retain-free unlearning as a localization problem: causal tracing, weight transplant, and Fisher overlap all point to early-to-mid decoder MLPs as the layers where identity information is stored and, unlike other module families, can be modified without substantially disrupting vision. We turn this into Pathway-Aware Visual-attribute Anchoring (PAVA), which confines updates to these lay",
+    "link": "http://arxiv.org/abs/2608.30649v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
       "cs.CL",
-      "cs.RO"
+      "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2608.28515v1",
-    "title": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+    "id": "arxiv-2608.30647v1",
+    "title": "What It Costs to Compose, Rebuild, and Correct Precomputed Memory",
     "authors": [
-      "Tom Stent",
-      "Nicolas Boullé"
+      "Asa Shepard"
     ],
-    "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true solution on at least a $1-γ$ fraction of the evaluation domain, with probability at least $1-α$ over test and calibration inputs, where $α,γ\\in(0,1)$. Our method reduces a normalized residual field to its spatial $(1-γ)$-quantile and computes a scaling factor using a held-out calibration dataset. We prove marginal coverage guarantees for measurable residual fields defined on arbitrary probability spaces, covering both continuum domains and fixed discretizations. Under mild assumptions on the data ",
-    "link": "http://arxiv.org/abs/2608.28515v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Language models can answer from precomputed memory, a model's saved reading of a body of material, reused across requests instead of read again at each. This paper maps where that practice preserves correctness and the conditions under which it fails. Across experiments on Llama-3.1-8B-Instruct using both saved key-value caches and trained compressions of them, precomputed memory degrades when assembled from separately prepared parts, stays current only through rebuilds costing a large fraction of full preparation in our measurements, and ignores corrections served beside it conditional on phrasing. If precomputed memories can be served alongside one another, be cost-efficiently rebuilt, and be superseded by new information arriving in real-time, they can serve as a way to avoid re-feeding",
+    "link": "http://arxiv.org/abs/2608.30647v1",
+    "publishedAt": "2026-08-31",
     "categories": [
-      "math.NA",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30646v1",
+    "title": "BiG-SURE - Bipartite Graph for Semantic Uncertainty and Reliability Estimation of LLMs",
+    "authors": [
+      "Debarpan Bhattacharya",
+      "Malay Phadke",
+      "Sriram Ganapathy"
+    ],
+    "summary": "Reliable uncertainty estimation is a crucial requirement for deploying large language models (LLMs) and vision-language models (VLMs) in safety-critical settings, especially when the model parameters are not accessible (black-box). We propose BiG-SURE, an uncertainty estimator based on cross-temperature semantic agreement. The method samples low-temperature responses as stable semantic anchors and high-temperature responses as probes under meaning-preserving input transformations. It then constructs an anchor-probe Bipartite Graph (BiG) using NLI-based entailment scores and defines confidence through the normalized squared spectral energy of this matrix, with uncertainty given by its complement. This bipartite graph-based Semantic Uncertainty and Reliability Estimation (SURE) score measure",
+    "link": "http://arxiv.org/abs/2608.30646v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CL",
       "cs.AI",
-      "math.PR"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28511v1",
-    "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
+    "id": "arxiv-2608.30640v1",
+    "title": "Three Steps at a Time: Learning Representations from Action Sequences in Contrastive RL",
     "authors": [
-      "Simeng Sun",
-      "Roger Waleffe"
+      "Michal Korniak",
+      "Kamil Dybek",
+      "Benjamin Eysenbach",
+      "Marco Bagatella",
+      "Michał Bortkiewicz"
     ],
-    "summary": "When training Mixture-of-Experts (MoE) language models with expert parallelism, all-to-all token dispatch and combine collectives can consume a substantial fraction of end-to-end training time. In this work, we study communication-efficient MoE models (CE-MoE), in which we adopt a heterogeneous layer pattern that decouples token-mixing and channel-mixing depth. Compared to conventional models which interleave MoE layers after each token-mixing layer (e.g., attention, Mamba-2), CE-MoE models concentrate expert capacity in a select few routed MoE layers, while maintaining depth by adding additional token-mixing and dense-FFN layers. Across a scaling ladder from 2B to 31.5B total parameters, under matched total and activated parameters, CE-MoE models consistently reduce training cost while ma",
-    "link": "http://arxiv.org/abs/2608.28511v1",
-    "publishedAt": "2026-08-28",
+    "summary": "While self-supervised approaches to reinforcement learning have achieved strong results by learning representations of states and actions, a key open question is the time scale over which actions should be modeled. Departing from the standard formulation relying on single-step actions, we extend contrastive reinforcement learning (CRL), a prototypical self-supervised method, to operate over action chunks, and find that this results in large, pervasive gains across established offline and online benchmarks: +31.7% and +93.1% across 18 and 11 environments respectively. While action-chunking-driven gains are generally explained through the ability to model non-Markovian, temporally extended policies, and to propagate unbiased multi-step returns, interestingly, we find that these arguments onl",
+    "link": "http://arxiv.org/abs/2608.30640v1",
+    "publishedAt": "2026-08-31",
     "categories": [
-      "cs.AI"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2608.28508v1",
-    "title": "Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation",
+    "id": "arxiv-2608.30636v1",
+    "title": "MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions",
     "authors": [
-      "V. S. D. S. Mahesh Akavarapu",
-      "Michael Daniel",
-      "Gerhard Jäger"
+      "Christina X. Ji"
     ],
-    "summary": "Forced alignment evaluation typically requires manually annotated timestamps, limiting large-scale and multilingual analysis. We introduce two corpus-level metrics based on self-supervised (SSL) speech representations for reference-free forced alignment evaluation: Phoneme-Cluster Mutual Information (PCMI) and Word Acoustic Consistency Score (WACS). PCMI measures agreement between aligned phoneme labels and clusters induced from SSL-speech representations, while WACS measures consistency of repeated word realizations using dynamic time warping similarity between word representation sequences. Using both random and systematic perturbations, we show that PCMI and WACS degrade consistently under alignment perturbations. We further analyze the metrics across multiple alignment systems on 85 la",
-    "link": "http://arxiv.org/abs/2608.28508v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Optimizing absorption, distribution, metabolism, and excretion (ADME) is an important part of small molecule drug discovery. Many machine learning models have been built to predict ADME properties to facilitate this optimization process, but explaining model predictions is challenging. We propose a new graph neural network architecture with built-in meaningful per-atom attributions. Our model MolLedger outputs predictions that are the sum of per-atom scores. MolLedger's additive framework obtains exact interpretability at no cost to performance because the global context vector gives the additive head enough context to produce good per-atom scores. Furthermore, MolLedger produces attributions that are more faithful to chemical properties than other interpretability methods because the auxi",
+    "link": "http://arxiv.org/abs/2608.30636v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30633v1",
+    "title": "Quantum-Grassmann-Plucker Token Mixing for Deep Learning-Based Post-Disaster Damage Assessment",
+    "authors": [
+      "Kooroush Farahkhah",
+      "Umut Lagap",
+      "Taha Rezaei",
+      "Saman Ghaffarian"
+    ],
+    "summary": "Timely post-disaster building damage assessment from satellite imagery is a critical engineering decision support task, yet it remains constrained by class imbalance, ambiguous intermediate damage states, and limited cross-event transferability. This study presents, to our knowledge, the first application of Grassmann-Plucker (GP) token mixing to computer vision and introduces two extensions for image classification: the Quantum-inspired Grassmann-Plucker (QGP) head and the Hybrid Quantum Machine Learning Grassmann-Plucker (HQML-GP) head. The GP head represents multiscale relationships among image patch tokens by encoding subspaces formed by token pairs with Plucker coordinates; QGP enriches these coordinates with amplitude-derived probability features, whereas HQML-GP incorporates expecta",
+    "link": "http://arxiv.org/abs/2608.30633v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30632v1",
+    "title": "GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning",
+    "authors": [
+      "Outongyi Lv",
+      "Yuanwei Zhang",
+      "Xiaoqun Zhang"
+    ],
+    "summary": "Reinforcement learning (RL), particularly RL with Verifiable Rewards (RLVR), has recently emerged as a central paradigm for enhancing large language models' (LLMs) reasoning abilities, demonstrating remarkable effectiveness across reasoning tasks. Recent studies suggest that high-entropy tokens play an exceptionally important role in model training, since training with only the highest 20% entropy tokens yields significant performance gains. However, why such high-entropy tokens are beneficial remains insufficiently understood. In this work, we find that although high-entropy tokens within one answer tend to correlate with large gradient magnitude, entropy alone fails to consistently reflect token importance across different answers, considering the variations in the answer-level reward si",
+    "link": "http://arxiv.org/abs/2608.30632v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30627v1",
+    "title": "REER-PT: Reverse-Engineered Reasoning for Perplexity-Guided Pre-training Data Augmentation",
+    "authors": [
+      "Haoran Que",
+      "Jiajun Shi",
+      "Ting Huang",
+      "Renming Pang",
+      "Jiaheng Liu",
+      "Ge Zhang",
+      "Wenhao Huang",
+      "Shen Yan",
+      "Wei Ye",
+      "Shikun Zhang"
+    ],
+    "summary": "As language-model compute continues to scale, high-quality training data is becoming an increasingly important bottleneck. Conventional next-token prediction supervises what follows a context but leaves the intermediate reasoning behind that continuation implicit. We introduce \\textbf{REER-PT}, a scalable framework that extends Reverse-Engineered Reasoning (REER) to raw pre-training data. REER-PT identifies continuations that are difficult to predict but can still be inferred from the preceding context, and inserts concise reasoning annotations that reconstruct the missing connection between context and continuation. Candidate annotations are generated and refined offline, with perplexity serving as the optimization signal. Constraints on length and target leakage filter out unhelpful or t",
+    "link": "http://arxiv.org/abs/2608.30627v1",
+    "publishedAt": "2026-08-31",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2608.28499v1",
-    "title": "REPLICANT: Learning Policies for Evading and Hardening Malware Detectors",
+    "id": "arxiv-2608.30621v1",
+    "title": "Cost-efficient Active Learning for Referring Image Segmentation and Grounding",
     "authors": [
-      "Shae McFadden",
-      "Ilias Tsingenopoulos",
-      "Mario D'Onghia",
-      "Alexander Herzog",
-      "Myles Foley",
-      "Chris Hicks",
-      "Lorenzo Cavallaro",
-      "Fabio Pierazzi"
+      "Junbeom Hong",
+      "Seonghoon Yu",
+      "Hyung Rok Jung",
+      "Sundong Kim",
+      "Jeany Son"
     ],
-    "summary": "To determine the real-world effectiveness of machine learning based malware detection, it is vital to evaluate its robustness against highly capable adversaries. However, state-of-the-art attacks do not effectively model realistic adversaries, as they often assume access to privileged information such as the training data, feature space, or confidence scores of the target. In this work, we present Replicant, a deep reinforcement learning framework that learns the realistic task of evasion under a strict label-only black-box threat model. Replicant learns a reusable policy on how to modify a malware sample and when to query the target, which transfers across samples, detectors, and feature spaces. Across seven Android malware detectors and three feature spaces, Replicant is the strongest an",
-    "link": "http://arxiv.org/abs/2608.28499v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Collecting natural-language referring expressions along with region annotations, such as masks or boxes, is a major bottleneck in visual grounding (VG), as annotators must write descriptions that distinguish target regions from visually similar ones. We tackle this by formulating active learning (AL) for VG under the realistic setting where only raw images are available without accompanying text. Since ground-truth text is unavailable, sample selection must estimate which images contain ambiguous regions that would require discriminative referring expressions. To address this, we generate auxiliary region-text pairs using foundation models, and introduce Referred Region Ambiguity, a new acquisition function that measures whether the model's confidence collapses onto a single region or disp",
+    "link": "http://arxiv.org/abs/2608.30621v1",
+    "publishedAt": "2026-08-31",
     "categories": [
-      "cs.LG",
-      "cs.CR"
+      "cs.CV",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2608.28497v1",
-    "title": "On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces",
+    "id": "arxiv-2608.30619v1",
+    "title": "Hidden Threat in Synthetic Data: Covert Targeted Bias Injection through Benign Text",
     "authors": [
-      "Ahmed Hereiz",
-      "Yingzhe Lyu",
-      "Hao Li",
-      "Bram Adams",
-      "Ahmed E. Hassan"
+      "Minkyung Cho",
+      "Jihyo Kim",
+      "SeungWoo Song",
+      "Junghun Yuk",
+      "Minjoon Kee",
+      "Hoyun Song",
+      "KyungTae Lim"
     ],
-    "summary": "AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolution dynamics of these emerging repositories remain empirically unexplored. Unlike traditional software packages that deliver functionality through source code, agent plugins deliver functionality through a combination of natural-language instruction files, scripts, and configuration files, raising the question of whether these plugins are maintained artifacts that co-evolve across components, or one-off artifacts that developers write once and do not need to revisit. To study the maintenance and co-evolution of agent plugins, we conduct an empirical study of 1,926 repositories hosting Claude Code",
-    "link": "http://arxiv.org/abs/2608.28497v1",
-    "publishedAt": "2026-08-28",
+    "summary": "Synthetic data is increasingly used to train large language models (LLMs), yet its security implications remain poorly understood. Prior work on subliminal learning suggests that models can inherit behavioral traits from seemingly unrelated training data. In this work, we investigate whether such mechanisms can be exploited to inject targeted social biases into aligned models through semantically benign synthetic data. We construct a pipeline in which a misaligned teacher model generates filtered synthetic datasets across domains such as creative writing and code generation, which are then used to fine-tune aligned student models. Our experiments show that benign-looking synthetic data can act as a covert channel for transmitting targeted biases while largely preserving the student model's",
+    "link": "http://arxiv.org/abs/2608.30619v1",
+    "publishedAt": "2026-08-31",
     "categories": [
-      "cs.SE",
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30614v1",
+    "title": "TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale",
+    "authors": [
+      "Sandeep Sricharan Mukku",
+      "Albert Aristotle Nanda",
+      "Rohit Pyati"
+    ],
+    "summary": "Organizing unstructured feedback text into hierarchical taxonomy is a fundamental challenge in NLP, particularly in domains where feedback arrives at massive scale in varied forms such as reviews, transcripts, and surveys. Existing approaches either produce shallow hierarchies, neglect long-tail topics, or lack rigorous evaluation frameworks. We present TaxCE, a fully automated framework that constructs multi-level hierarchical taxonomies from raw text through progressive condensation of corpus content into actionable segments, deduplicated semantic units, and granular topics with definitions, which are then organized bottom-up into a hierarchy with corpus-groundedness. We also introduce three corpus-grounded evaluation metrics, Exclusivity, Exhaustivity, and Granularity (EEG), and integra",
+    "link": "http://arxiv.org/abs/2608.30614v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30609v1",
+    "title": "Reading the News: Adapting Large Language Models to Swedish Journalism Through Continued Pre-Training",
+    "authors": [
+      "Lukas Borggren",
+      "Jenny Kunz",
+      "Marco Kuhlmann"
+    ],
+    "summary": "Large language models are increasingly capable in general, but their utility can remain modest in niche or understudied areas. One approach to address this limitation is to specialise existing models through additional training on target-domain corpora. In this work, we investigate such continued pre-training for adapting large language models to Swedish journalism, using a high-quality dataset that we curate from millions of news articles. To evaluate the adaptation efficacy, we also construct a novel domain-specific benchmark that covers six editorial tasks. Through full and parameter-efficient fine-tuning across two model sizes, we find that continued pre-training yields benefits in the target domain, but only when paired with experience replay to mitigate forgetting. We observe consist",
+    "link": "http://arxiv.org/abs/2608.30609v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30606v1",
+    "title": "Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster",
+    "authors": [
+      "Songtao Fang",
+      "Zihao Xu",
+      "Shaowei Wei",
+      "Jin Zhang",
+      "Zhuojun Wang"
+    ],
+    "summary": "With the development of large language models (LLMs), generative retrieval is becoming increasingly important in e-commerce scenarios. Current mainstream approaches typically use a two-stage training strategy: first train a product embedding model, and then learn a codebook that maps embeddings to product IDs. This cascaded approach suffers from two major issues: (1) error accumulation-if the embedding model in the first stage produces biased representations, the codebook in the second stage cannot correct these errors, degrading final retrieval performance; and (2) codebook learning relies solely on product embeddings and lacks modeling of query-to-product and product-to-product interactions. As a result, products belonging to the same cluster may be assigned inconsistent IDs by the codeb",
+    "link": "http://arxiv.org/abs/2608.30606v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2608.30603v1",
+    "title": "DiffSAC: Diffusion-guided Sampling for Consensus-based Robust Estimation",
+    "authors": [
+      "Chang Nie",
+      "Guangming Wang",
+      "Zhe Liu",
+      "Hesheng Wang"
+    ],
+    "summary": "Robust estimation is a core computer vision task frequently tackled using sample consensus. However, traditional methods suffer from inefficient sampling as they struggle to identify effective minimum sets before hypothesis evaluation. To address these challenges, we propose a novel Diffusion-guided Sampling for Consensus-based Robust Estimation (DiffSAC) framework. DiffSAC introduces a diffusion model to learn the distribution of effective minimum sets. It refines the confidence for each data point, indicating whether it belongs to a good minimum set, rather than ranking the data points as in previous work. This significantly reduces the need to process numerous bad sets. To constrain the refinement direction, geometric features are incorporated as conditions within our diffusion model. C",
+    "link": "http://arxiv.org/abs/2608.30603v1",
+    "publishedAt": "2026-08-31",
+    "categories": [
+      "cs.CV",
       "cs.AI"
     ]
   }
@@ -896,21 +905,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
-    "id": "job-remoteok-1137168",
-    "title": "Mail Sorter",
-    "company": "Geelong Careers",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Description Sort incoming parcels Keep work area clean and organized Use RF scanner Follow all company policies and procedures related to mail handling and "
-    ],
-    "skills": [],
-    "location": "Geelong, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168",
-    "postedAt": "2026-08-26",
-    "isNew": true
-  },
-  {
     "id": "job-remoteok-1137123",
     "title": "OVERNIGHT SHIFT Retail Merchandiser",
     "company": "Bass Pro Shops",
@@ -925,7 +919,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123",
     "postedAt": "2026-08-25",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137132",
@@ -941,7 +935,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
     "postedAt": "2026-08-25",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137126",
@@ -958,7 +952,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
     "postedAt": "2026-08-25",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137229",
@@ -973,7 +967,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-riverlink-spendless-shoes-1137229",
     "postedAt": "2026-08-25",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137114",
@@ -991,7 +985,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
     "postedAt": "2026-08-25",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137107",
@@ -1052,4 +1046,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-08-31T22:22:47.553Z';
+export const dataFetchedAt = '2026-09-01T03:23:04.218Z';
