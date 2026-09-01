@@ -2,36 +2,36 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-making-the-ai-powered-case-for-legacy-modernization-1788271200000",
-    "title": "Making the AI-powered case for legacy modernization",
-    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+    "id": "news-how-ai-plotted-an-interstellar-journey-to-alpha-centauri-1788289836000",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
     "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-gopro-to-be-acquired-for-285m-will-remain-a-public-company-1788278243000",
-    "title": "GoPro to be acquired for $285M, will remain a public company",
-    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-    "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+    "id": "news-john-ternus-hypes-8216-huge-launch-next-week-8217-in-first-m-1788291928000",
+    "title": "John Ternus hypes &#8216;huge launch next week&#8217; in first memo as Apple CEO",
+    "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+    "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
     "id": "news-what-gen-z-means-when-they-say-they-want-a-global-career-1788265828000",
     "title": "What Gen Z means when they say they want a global career",
     "link": "https://hrexecutive.com/what-gen-z-means-when-they-say-they-want-a-global-career/",
-    "summary": "New survey finds Gen Z wants global careers, cross-border work, and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
+    "summary": "New survey finds Gen Z wants global careers, cross-border work and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
     "publishedAt": "2026-09-01",
     "source": "HR Executive",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-worker-personality-may-matter-more-than-skills-hiring-manage-1788276060000",
-    "title": "Worker personality may matter more than skills, hiring managers say",
-    "link": "https://www.hrdive.com/news/worker-personality-matters-more-than-skills-hiring-managers-say/829270/",
-    "summary": "Hiring managers and job seekers agreed that the traits with the highest value are reliability, honesty, adaptability, flexibility and self-motivation.",
+    "id": "news-worker-fired-shortly-after-turning-60-sues-for-age-bias-1788293520000",
+    "title": "Worker fired shortly after turning 60 sues for age bias",
+    "link": "https://www.hrdive.com/news/worker-fired-shortly-after-turning-60-sues-for-age-bias/829332/",
+    "summary": "The former employee of Southern Company Services alleged a supervisor had said there were &ldquo;too many people over 60&rdquo; and that those over 60 &ldquo;get sick.&rdquo;",
     "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788277238000",
-    "title": " 超强厄尔尼诺预期，“点燃”种业板块 ",
-    "link": "https://www.huxiu.com/article/4887784.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：刘建 超强厄尔尼诺预期持续升温，A股农业板块今日再次全线爆发，其中种业概念最为突出。 截至今日收盘，万向德农（600371.SH）收获6连板，神农种业（300189.SZ）、农发种业（600313.SH）、敦煌种业（600354.SH）、登海种业（002041.SZ）等多股涨停。 与二级市场的火热形成对比的是，企业对厄尔尼诺影响的判断存在分歧，有企业对财联社记者表示已受到一定影响，但也有企业表示影响有限。 总体而言，业内人士对相关影响的传导时间、程度均表态谨慎，承认存在不确定性。 厄尔尼诺升温国际粮价创三年新高 超强厄尔尼诺引发国际粮价上涨预期，是此轮农业股走势的核心催化。 据国家气候中心预测，当前赤道中东太平洋海表温度持续升高，预计将于11-12月前后达到峰值，形成一次超强厄尔尼诺事件。 国际农产品价格近期则持续火热，CBOT小麦、玉米期价双双创逾三年新高。另外，截至上周五（8月28日），追踪10种主要农产品的彭博农业现货指数8月累计涨超13%，是自2012年7月以来最猛烈的单月攻势。 国内券商机构近期也密集发布研报。中信证券在2026年下半年投资策略中明确提出，2026年就是大宗农产品价格磨底、蓄势向上的元年；在国际冲突与气候扰动下，种植链玉米、大豆等价格先行上涨，粮食安全属性凸显，种业的估值重估在即；中信建投证券则指出，厄尔尼诺加剧全球农",
+    "id": "news--1788282792000",
+    "title": " 中国太阳能发电，历史性突破 ",
+    "link": "https://www.huxiu.com/article/4887792.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《中国太阳能发电，历史性突破！》 9月1日，国家能源局公布的最新数据显示，截至2026年7月底，全国光伏发电装机容量达到12.86亿千瓦。这一数据首次超越了同期煤电12.85亿千瓦的装机容量。 截至今年上半年的光伏累计装机容量 至此，光伏首次在装机规模上登顶，成为中国装机规模最大的电源品类，在全国40.8亿千瓦的发电总装机中占比达31.5%。 今年以来各月度累计新增光伏装机容量 具体来看，今年前7个月，全国光伏发电量突破8024亿千瓦时，同比增长15.5%，高出全社会用电量增速约10个百分点。一个更为直观的换算是：全国每消耗的8度电中，就有约1度电来自光伏发电。 然而，《每日经济新闻》记者（以下简称每经记者）注意到，在光伏成为中国第一大电源的发展背景下，微观的光伏企业仍面临周期调整的压力。一方面是绿色能源的快速发展，另一方面则是产业链条利润收窄、消纳不足的现实。如何平衡装机快速增长与消纳之间的矛盾，探寻高质量发展的新路径，成为当下整个资本市场和产业界必须直面的问题。 光伏度电成本 可降至0.25元/千瓦时以下 光伏装机规模的超越，是产业技术持续迭代与成本下降的结果。回顾过去几年的数据，我国全社会用电量呈现持续稳健增长，到2025年已突破10万亿千瓦时大关。 在庞大的新增电力需求面前，中国发电装机结构发生了显著变化。20",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
@@ -94,50 +94,49 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-engineered-microbes-for-crops-and-openai-s-cult-1788264600000",
-    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "id": "news-making-the-ai-powered-case-for-legacy-modernization-1788271200000",
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
     "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-amazon-alexa-can-now-alert-you-when-something-new-might-temp-1788277915000",
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "id": "news-anthropic-8217-s-new-fable-release-is-cheaper-less-restricti-1788291562000",
+    "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
     "id": "news-when-disruption-is-the-operating-environment-bouncing-back-i-1788264913000",
     "title": "When disruption is the operating environment, ‘bouncing back’ isn’t the whole job",
     "link": "https://hrexecutive.com/when-disruption-is-the-operating-environment-bouncing-back-isnt-the-whole-job/",
-    "summary": "Organisations have long treated resilience as the ability to recover from a discrete shock. Dr Athenais Sivaloganthan of International SOS argues that the definition no longer fits. The post When disruption is the operating environment, ‘bouncing back’ isn’t the whole job appeared first on HR Executive .",
+    "summary": "Organizations have long treated resilience as the ability to recover from a discrete shock. Athenais Sivaloganthan of International SOS argues that the definition no longer fits. The post When disruption is the operating environment, ‘bouncing back’ isn’t the whole job appeared first on HR Executive .",
     "publishedAt": "2026-09-01",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-as-costs-mount-employees-say-they-want-financial-not-wellnes-1788275100000",
-    "title": "As costs mount, employees say they want financial, not wellness benefits",
-    "link": "https://www.hrdive.com/news/employees-want-financial-not-wellness-benefits/829253/",
-    "summary": "Pay growth and long-term incentives matter most to employees at the moment as well as spot bonuses with increased frequency, Gartner said.",
+    "id": "news-manager-who-demanded-doctor-s-note-on-new-year-s-eve-was-not-1788293520000",
+    "title": "Manager who demanded doctor’s note on New Year’s Eve was not reasonable, EEOC says",
+    "link": "https://www.hrdive.com/news/manager-who-demanded-doctors-note-on-new-years-eve-was-not-reasonable-ee/829335/",
+    "summary": "A Family Dollar store manager demanded a pregnant worker produce a doctor&rsquo;s note the same holiday evening she was told via phone to take a few days&rsquo; leave from work, a complaint alleged.",
     "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
@@ -161,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788274915000",
-    "title": " 多地社保缴费基数微涨 ",
-    "link": "https://www.huxiu.com/article/4887780.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：田进 2025年，31个省份社保缴费基数下限的增幅与增速均出现大面积回落，24个省份月缴费基数下限上调不足100元。2026年社保缴费基数下限的涨幅整体呈现进一步收缩的特征。已公布数据的13个省份中，9个省份的涨幅相比去年进一步下滑。 8月21日，北京市人社局公布的信息显示，2026年北京每月社保缴费基数下限为7270元，结束了此前几年的较快上涨趋势，同比增长1.5%。 2021—2024年，受社平工资上涨、社保合规等因素影响，多数省份社保缴费基数下限迎来了一轮较高上涨。其中，21个省份2024年的社保缴费基数下限同比增速超5%。2025年，社保缴费基数下限终于结束了此前连续四年的较高增长，31个省份社保缴费基数下限增速大多集中在2%左右。 进入2026年，社保缴费基数涨幅放缓的特征更加明显。据经济观察报统计，截至8月30日，已有13个省份公布了2026年社保缴费基数下限（如表一），其中北京、上海、湖南、天津等8个省份的社保缴费基数下限增速已下跌至1.5%及以下，进入“1时代”。 武汉大学社会保障研究中心教授向运华表示，从积极的角度看，社保缴费基数下限低增长，能明显降低中小微企业和中低收入群体的社保缴费压力。但近期部分省份正在夯实社保缴费基数，随着社保缴费走向合规化，接下来企业与个人的社保缴费负担变化及其深远影响还需要进一步观察。 经济观察",
+    "id": "news-ipo-1788279573000",
+    "title": " 香港食安抽检不合格，与君乐宝冲击港股IPO撞了个满怀 ",
+    "link": "https://www.huxiu.com/article/4887788.html?f=rss",
+    "summary": "本文来自微信公众号： 青澄财经 ，作者：方诗意，编辑：六子 国民品牌君乐宝，这次尴尬了。 据中国新闻网报道，香港特区政府食物环境卫生署食物安全中心于8月26日通报一起食品安全事件，一批内地进口的君乐宝预先包装纯牛奶样本菌落计数超出当地法例标准。而不巧的是，君乐宝正好在6天前，也就是8月20日才刚刚更新了赴港上市的申报材料。在此之前，其上市资料已经失效过一次。 *图源中国新闻网 数据显示，常温奶仍占据君乐宝营收的半壁江山，低温奶领域则面临激烈的市场竞争。在这个前往香港募集弹药的关键期，突遇供应链与品控问题，无疑会影响外界的印象。从招股书失效后的二次递表，到行业整体需求收缩、龙头巨头价格战夹击下的份额争夺，留给君乐宝化解杂音、补足弹药去打硬仗的时间窗口，确实变得越来越紧迫。 01 「更新招股书仅六天，遭遇抽检不合格」 8月26日，香港特区政府食物环境卫生署食物安全中心发布了涉及食安的公告。 公告显示，食安中心透过日常食物监测计划，抽取了一批次预先包装的纯牛奶样本进行检测。结果显示，该批次“君乐宝纯牛奶”抽检的四个样本中，菌落计数均达到了十个或多于十个，超出了香港《奶业规例》所设定的法定标准限值。 *图源香港政府一站通 涉事产品每盒容量为一公升，标明“此日期前最佳为2026年12月6日”，进口商为君乐宝（香港）国际贸易有限公司。天眼查显示，这是君乐宝于2025年注册的子公司。香港食安中心",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
@@ -188,22 +187,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-engineered-microbes-could-help-feed-the-world-s-crops-1788253200000",
-    "title": "How engineered microbes could help feed the world’s crops",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+    "id": "news-the-download-engineered-microbes-for-crops-and-openai-s-cult-1788264600000",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
     "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-air-raises-50m-to-help-companies-vet-the-skills-and-add-ons--1788277551000",
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+    "id": "news-thrive-8217-s-kushner-defends-involvement-in-fifa-mess-hires-1788291024000",
+    "title": "Thrive&#8217;s Kushner defends involvement in FIFA mess, hires Elon&#8217;s go-to lawyer",
+    "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+    "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
@@ -225,17 +225,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-22-songs-about-work-to-jam-to-this-labor-day-1788275100000",
-    "title": "22 songs about work to jam to this Labor Day",
-    "link": "https://www.hrdive.com/news/22-songs-about-work-to-jam-to-this-labor-day/829285/",
-    "summary": "This upcoming long weekend, stream the following songs about labor and the joys and pains that come with it.",
+    "id": "news-ey-earmarks-100m-in-rewards-for-future-focused-employees-1788293520000",
+    "title": "EY earmarks $100M in rewards for ‘future-focused’ employees",
+    "link": "https://www.hrdive.com/news/ey-puts-100m-push-future-ready-workforce-compensation/829338/",
+    "summary": "The Big Four accounting firm is looking to reward employees who drive &ldquo;meaningful change&rdquo; through innovation, disruption, technology or growth.",
     "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -252,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-1788274915000",
-    "title": " 一年融7轮，人人都爱「卖水人」 ",
-    "link": "https://www.huxiu.com/article/4887779.html?f=rss",
-    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部，原文标题：《一年融7轮，人人都爱「卖水人」》 #具身智能#数据#简智机器人#光轮智能 具身智能这阵风，舆论的聚光灯几乎全打在机器人本体上。哪家又翻跟头了，哪家速度又超过人了，哪家叠衣服了。 机器人运动会一开，那些比人跑得快，跳得高的铁疙瘩，演示视频天天刷屏，是真火，物理上的那种火。 但真正决定胜负的，是镜头之外的数据。 本体是台前的演员，大脑才是是幕后的剧本，但大脑再聪明，也得靠数据喂，没有高质量真机数据，再漂亮的本体也只是空壳一台，或者只能靠遥操。 采数设备、动作捕捉、标注清洗，这些看似不起眼的卖「铲子」公司，才是喂大模型真正的粮食。 而且卖水、卖铲子的，往往是整条链上最先收到现金的一拨，不赌本体量产，也不用纠结场景，按小时、按条收钱，变现反而最快。 北京简智机器人（GenRobot）宣布完成A轮融资，由Momenta领投、老股东追投，成立刚满一年已经走完7轮，累计融资超2亿美元，约合13.6亿元人民币，刷新了具身智能无本体数据赛道的累计融资纪录。 所谓无本体数据，就是不用机器人采集数据，真人戴上数据采集工具，把人的动作、视觉、触觉采集成数据，再喂给机器人和世界模型。 不过，简智机器人中文名字我认为起得不太好，全名是简智新创，问题简单智力怎么新创…… 扯远了。 简智机器人创始人陈建兴是自动驾驶十年的老兵，先后在小鹏、Momen",
+    "id": "news--1788278954000",
+    "title": " 从环保跨界光伏失利，仕净科技面临重整 ",
+    "link": "https://www.huxiu.com/article/4887787.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：从制程污染领域的专精“小状元”，到112亿元光伏项目，再到4.06亿元未结涉诉与预重整，仕净科技走了五年。 2026年8月，仕净科技披露过去十二个月的诉讼清单：34起诉讼、仲裁，公司及子公司均为被告，未结涉案金额约4.06亿元。 今年6月，苏州中院已决定对公司启动预重整。 4.06亿元是原告诉请，不是法院确认的欠款或损失；预重整也不等于正式重整。但连续两年亏损和经营现金净流出已经表明，光伏制造没有兑现增长预期，这次扩张在经营上已经失利。 光伏配套业务曾是仕净科技成长的重要基础。 2021年上市时，公司上一年度营收6.68亿元，向光伏等工厂提供废气、废水、纯水和特气系统。随着光伏扩产，营收从2021年7.95亿元增至2022年14.33亿元，2023年达到34.43亿元。 快速增长也推动公司跨出原有业务边界。2023年1月，仕净科技宣布在安徽宁国投资最高112亿元，建设24GW TOPCon电池片项目，由环保设备供应商进一步成为电池片制造商，进入一期投资约75亿元的重资产制造。 2023年10月，安徽仕净光能宁国项目厂房建设现场。图源：安徽仕净光能科技有限公司。 光伏红利带来的客户、技术和工程经验为何没有继续支撑制造业务？ 仕净科技从光伏制程污染领域的“小状元”走到预重整，值得复盘的不只是它为何跨界失利，更是所有谋求第二曲",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
@@ -280,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
-    "publishedAt": "2026-08-31",
+    "id": "news-how-engineered-microbes-could-help-feed-the-world-s-crops-1788253200000",
+    "title": "How engineered microbes could help feed the world’s crops",
+    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+    "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -292,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-365-outage-drags-on-but-things-are-improving-1788276195000",
-    "title": "Microsoft 365 outage drags on, but things are improving",
-    "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-    "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+    "id": "news-who-is-john-ternus-the-new-apple-ceo-1788285720000",
+    "title": "Who is John Ternus, the new Apple CEO?",
+    "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
@@ -305,10 +304,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-challenge-ai-may-help-most-with-helping-workers-move-bet-1788263148000",
-    "title": "The challenge AI may help most with? Helping workers move between job opportunities",
+    "id": "news-how-ai-can-help-workers-move-between-job-opportunities-1788263148000",
+    "title": "How AI can help workers move between job opportunities",
     "link": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
-    "summary": "HR must be able to identify talent and connect workers with opportunities they may never have otherwise considered. This is where AI can help. The post The challenge AI may help most with? Helping workers move between job opportunities appeared first on HR Executive .",
+    "summary": "HR must be able to identify talent and connect workers with opportunities they may never have otherwise considered. This is where AI can help. The post How AI can help workers move between job opportunities appeared first on HR Executive .",
     "publishedAt": "2026-09-01",
     "source": "HR Executive",
     "tags": [
@@ -318,18 +317,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-williams-sonoma-to-spread-tariff-refunds-to-vendors-employee-1788275040000",
-    "title": "Williams-Sonoma to spread tariff refunds to vendors, employees",
-    "link": "https://www.hrdive.com/news/williams-sonoma-to-spread-tariff-refunds-to-vendors-employees/829280/",
-    "summary": "The kitchenware retailer is funneling $10 million toward the retirement accounts of workers who helped it navigate tariffs while also reimbursing vendors for discounts.&nbsp;",
+    "id": "news-worker-personality-may-matter-more-than-skills-hiring-manage-1788276060000",
+    "title": "Worker personality may matter more than skills, hiring managers say",
+    "link": "https://www.hrdive.com/news/worker-personality-matters-more-than-skills-hiring-managers-say/829270/",
+    "summary": "Hiring managers and job seekers agreed that the traits with the highest value are reliability, honesty, adaptability, flexibility and self-motivation.",
     "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -346,16 +344,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788274069000",
-    "title": " 追觅回应放弃整车量产 ",
-    "link": "https://www.huxiu.com/article/4887774.html?f=rss",
-    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者 “汽车相关业务将并入公司产业研究院管理，未来主要聚焦通用技术的探索与研究，持续做好相关技术产投研落地。”9月1日，针对追觅科技造车项目终止的传闻，追觅科技相关人士向《每日经济新闻》记者表示，追觅汽车业务已经放弃量产计划，只做相应技术储备。 8月31日，记者在苏州一处产业园6号楼内看到，追觅科技（以下简称追觅）“星空计划”造车业务的主要办公场地已经显露出“退潮”迹象。办公区内工位大面积闲置，桌面空空荡荡，仅有零星人员进出，楼层指引牌上已经找不到“星空计划”的标识。 追觅“星空计划”办公地图片来源：每经记者孙桐桐摄 但距离该产业园2公里的追觅科技总部，集团大本营整体运转似乎并未有明显改变。记者看到，上下班时段员工往来络绎不绝，地下及地面停车场车位全部占满，不少员工车辆只能够停靠在园区外的路边，各办公区域工位均处于正常办公状态。 追觅科技总部园区地面停车场图片来源：每经记者孙桐桐摄 整车量产终止 底层技术寻求复用 事实上，追觅的这一轮业务收缩，是其对此前快速多元化布局的一次业务纠偏。此前该公司推行内部孵化、事业部赛马机制，业务单元一度扩张至200余个，业务边界快速向外延伸，除扫地机器人、洗地机等看家品类之外，造车、手机、潮玩、多类消费孵化项目密集上马，员工规模快速扩张。 其中，最受市场关注的便是“星空计划”造车项目。2025年8月，追",
+    "id": "news-159-1788278844000",
+    "title": " 让一部分人先活到159岁 ",
+    "link": "https://www.huxiu.com/article/4887786.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 过去，我们喜欢用“长命百岁”来祝福亲朋好友。 确实在人类漫长的发展历程里，活到100岁，已经是人们对于生命长度最美好的想象。 但放在今天，百岁人生是不是有点保守了？癌症疫苗已经出现，基因编辑过的猪肾可以移植进人体，AI开始从影像和血液蛋白中寻找疾病尚未发生的信号，一次注射修改慢性病相关基因的疗法也进入了人体试验。医学领域正在发生很重要的变化，过去主要是在身体出现问题后治病，今天则开始提前发现、清除、修补、替换和编辑。 我们对寿命的想象也在不断的拓宽，100岁不再像一道遥不可及的天花板，人们已经开始讨论活到120岁，甚至150岁。 而且那些真正激进的人，已经把目标写出来了。哈佛大学遗传学教授David Sinclair曾公开说，第一位活到150岁的人可能已经出生；企业家兼未来学家Peter Diamandis专门做过一期《活到156岁》的播客；科技富豪Bryan Johnson把自己变成一座24小时运行的人体实验室，口号干脆就是“Don’t Die”；Ray Kurzweil则一直等待所谓的“长寿逃逸速度”，也就是当医学每前进一年，能够为人增加的预期寿命超过一年，人就有可能一边变老，一边把生命的终点继续往后推。 综合以上，我把目前人类对于预期可以实现的寿命长度初步确定为“159岁”。159岁当然不是一个严谨的医学预测，而是一个有点荒诞",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -373,11 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-secretive-antiaging-drug-and-joining-virtual--1787920527000",
-    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
-    "publishedAt": "2026-08-28",
+    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "publishedAt": "2026-08-31",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -385,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fambot-introduces-an-8216-ai-chief-of-staff-8217-for-familie-1788275458000",
-    "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "id": "news-google-8217-s-answer-to-canva-is-an-ai-tool-where-you-prompt-1788284137000",
+    "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
@@ -796,6 +795,21 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1137254",
+    "title": "Airport Ground Staff Customer Service Associate",
+    "company": "Fronix Services",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Contact Us 7082570898 We are Hiring for Airport Ground Staff / Customer Service Associate for Leading Airlines @ IGI Thiruvananthapuram Airport for Both Males a"
+    ],
+    "skills": [],
+    "location": "Thiruvananthapuram, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
+    "postedAt": "2026-08-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137219",
     "title": "Customer Service Agent",
     "company": "Thrifty Car and Van Rental",
@@ -1036,25 +1050,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
     "postedAt": "2026-08-24",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137208",
-    "title": "Maintenance Operative",
-    "company": "Scape",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "OPPORTUNITY AWAITS AT SCAPE Fancy working for a global brand that is genuinely going places",
-      "Scape is a premium accommodation provider with buildings across London, Surrey, Australia and the US",
-      "As such, we're always on the lookout for passionate people to join our growing family",
-      "Alongside an excel"
-    ],
-    "skills": [],
-    "location": "Hammersmith, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208",
-    "postedAt": "2026-08-24",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-01T16:00:23.538Z';
+export const dataFetchedAt = '2026-09-01T20:29:08.904Z';
