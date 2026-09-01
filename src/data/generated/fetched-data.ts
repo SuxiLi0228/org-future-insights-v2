@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-how-engineered-microbes-could-help-feed-the-world-s-crops-1788253200000",
-    "title": "How engineered microbes could help feed the world’s crops",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+    "id": "news-making-the-ai-powered-case-for-legacy-modernization-1788271200000",
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
     "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-if-space-data-centers-feel-far-fetched-why-not-interstellar--1788256800000",
-    "title": "If space data centers feel far-fetched, why not interstellar travel?",
-    "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
-    "summary": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+    "id": "news-gopro-to-be-acquired-for-285m-will-remain-a-public-company-1788278243000",
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
@@ -28,31 +28,123 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ready-or-not-the-skills-strategies-and-stakes-of-the-ai-work-1788210697000",
-    "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2",
-    "link": "https://hrexecutive.com/ready-or-not-what-workforce-readiness-really-requires/",
-    "summary": "Cornerstone Chief People Officer Carina Cortez explains how workforce readiness is more than a skills problem. It’s a leadership challenge that includes employee experience, organizational change, tech adoption, and aligning people with business strategy. The post Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2 appeared first on HR Executive .",
-    "publishedAt": "2026-08-31",
+    "id": "news-what-gen-z-means-when-they-say-they-want-a-global-career-1788265828000",
+    "title": "What Gen Z means when they say they want a global career",
+    "link": "https://hrexecutive.com/what-gen-z-means-when-they-say-they-want-a-global-career/",
+    "summary": "New survey finds Gen Z wants global careers, cross-border work, and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
+    "publishedAt": "2026-09-01",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-us-firms-plan-to-increase-employee-base-salary-budgets-by-an-1788205080000",
-    "title": "US firms plan to increase employee base salary budgets by an average 3.3% in 2027",
-    "link": "https://www.hrdive.com/news/us-firms-plan-to-increase-employee-base-salary-budgets-by-an-average-33-i/829177/",
-    "summary": "A majority of companies are also expecting incentive payouts to fall below target levels.",
-    "publishedAt": "2026-08-31",
+    "id": "news-worker-personality-may-matter-more-than-skills-hiring-manage-1788276060000",
+    "title": "Worker personality may matter more than skills, hiring managers say",
+    "link": "https://www.hrdive.com/news/worker-personality-matters-more-than-skills-hiring-managers-say/829270/",
+    "summary": "Hiring managers and job seekers agreed that the traits with the highest value are reliability, honesty, adaptability, flexibility and self-motivation.",
+    "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-3-minimax-ai-1788264159000",
+    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+    "link": "https://www.qbitai.com/2026/09/482512.html",
+    "summary": "",
+    "publishedAt": "2026-09-01",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788277238000",
+    "title": " 超强厄尔尼诺预期，“点燃”种业板块 ",
+    "link": "https://www.huxiu.com/article/4887784.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：刘建 超强厄尔尼诺预期持续升温，A股农业板块今日再次全线爆发，其中种业概念最为突出。 截至今日收盘，万向德农（600371.SH）收获6连板，神农种业（300189.SZ）、农发种业（600313.SH）、敦煌种业（600354.SH）、登海种业（002041.SZ）等多股涨停。 与二级市场的火热形成对比的是，企业对厄尔尼诺影响的判断存在分歧，有企业对财联社记者表示已受到一定影响，但也有企业表示影响有限。 总体而言，业内人士对相关影响的传导时间、程度均表态谨慎，承认存在不确定性。 厄尔尼诺升温国际粮价创三年新高 超强厄尔尼诺引发国际粮价上涨预期，是此轮农业股走势的核心催化。 据国家气候中心预测，当前赤道中东太平洋海表温度持续升高，预计将于11-12月前后达到峰值，形成一次超强厄尔尼诺事件。 国际农产品价格近期则持续火热，CBOT小麦、玉米期价双双创逾三年新高。另外，截至上周五（8月28日），追踪10种主要农产品的彭博农业现货指数8月累计涨超13%，是自2012年7月以来最猛烈的单月攻势。 国内券商机构近期也密集发布研报。中信证券在2026年下半年投资策略中明确提出，2026年就是大宗农产品价格磨底、蓄势向上的元年；在国际冲突与气候扰动下，种植链玉米、大豆等价格先行上涨，粮食安全属性凸显，种业的估值重估在即；中信建投证券则指出，厄尔尼诺加剧全球农",
+    "publishedAt": "2026-09-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-3-2-glp-1-1788272454000",
+    "title": "歌礼制药半年亏3.2亿：押注GLP‑1赛道，烧钱阵痛与专利风险双双袭来丨看财报",
+    "link": "https://www.tmtpost.com/8124983.html",
+    "summary": "核心候选药ASC30正遭遇石药专利挑战。",
+    "publishedAt": "2026-09-01",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-engineered-microbes-for-crops-and-openai-s-cult-1788264600000",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "publishedAt": "2026-09-01",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-amazon-alexa-can-now-alert-you-when-something-new-might-temp-1788277915000",
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "publishedAt": "2026-09-01",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-when-disruption-is-the-operating-environment-bouncing-back-i-1788264913000",
+    "title": "When disruption is the operating environment, ‘bouncing back’ isn’t the whole job",
+    "link": "https://hrexecutive.com/when-disruption-is-the-operating-environment-bouncing-back-isnt-the-whole-job/",
+    "summary": "Organisations have long treated resilience as the ability to recover from a discrete shock. Dr Athenais Sivaloganthan of International SOS argues that the definition no longer fits. The post When disruption is the operating environment, ‘bouncing back’ isn’t the whole job appeared first on HR Executive .",
+    "publishedAt": "2026-09-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-as-costs-mount-employees-say-they-want-financial-not-wellnes-1788275100000",
+    "title": "As costs mount, employees say they want financial, not wellness benefits",
+    "link": "https://www.hrdive.com/news/employees-want-financial-not-wellness-benefits/829253/",
+    "summary": "Pay growth and long-term incentives matter most to employees at the moment as well as spot bonuses with increased frequency, Gartner said.",
+    "publishedAt": "2026-09-01",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -69,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-1788259551000",
-    "title": " 50年玩具代工巨头倒下，传统玩具厂开启批量退场 ",
-    "link": "https://www.huxiu.com/article/4887686.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王玮 2026年8月4日，港交所一则公告，宣告了一家五十年玩具代工巨头的落幕。南华集团控股确认，旗下华盛玩具有限公司全部生产厂房停止运营，全面退出重资产OEM制造业务。这家曾位列全球玩具代工前三的巨头，正式从生产端退场。 几乎同时，两份清盘呈请正等待香港高等法院的聆讯——两家供应商因合计约872万港元的未付货款，将华盛推向了法律程序。 这家1976年于香港创立、1981年进入内地建厂的玩具巨头，鼎盛时期拥有11座生产基地、超200万平方米厂房、约2万名员工，长期为美泰、孩之宝、迪士尼等国际头部品牌代工。2021年，其代工收入一度高达41.29亿港元。 华盛用五十年时间搭建起一个代工王国，而这座王国从崩塌到化为废墟，前后不过八个月。 更令人触目惊心的是，华盛玩具并不是孤例。广州雨禾、深圳丰达、深圳达琦华声、深圳燊力……仅2025至2026年关闭的传统玩具工厂就不在少数。 这条溃败线，从广东东莞、深圳，广西玉林、北流，一直延伸到东南亚。这是一场结构性的坍塌。而坍塌背后是新的崛起：属于代工厂的时代已经过去，随着泡泡玛特在海外爆火，玩具行业已经进入另一种叙事模式。 01 被时代逼到死角的老厂 崩塌的信号在2025年底就已经亮起。 2025年12月23日，华盛旗下东莞旗舰工厂，有着26年历史、巅峰时期员工超万人的长荣玩具（东莞",
+    "id": "news--1788274915000",
+    "title": " 多地社保缴费基数微涨 ",
+    "link": "https://www.huxiu.com/article/4887780.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：田进 2025年，31个省份社保缴费基数下限的增幅与增速均出现大面积回落，24个省份月缴费基数下限上调不足100元。2026年社保缴费基数下限的涨幅整体呈现进一步收缩的特征。已公布数据的13个省份中，9个省份的涨幅相比去年进一步下滑。 8月21日，北京市人社局公布的信息显示，2026年北京每月社保缴费基数下限为7270元，结束了此前几年的较快上涨趋势，同比增长1.5%。 2021—2024年，受社平工资上涨、社保合规等因素影响，多数省份社保缴费基数下限迎来了一轮较高上涨。其中，21个省份2024年的社保缴费基数下限同比增速超5%。2025年，社保缴费基数下限终于结束了此前连续四年的较高增长，31个省份社保缴费基数下限增速大多集中在2%左右。 进入2026年，社保缴费基数涨幅放缓的特征更加明显。据经济观察报统计，截至8月30日，已有13个省份公布了2026年社保缴费基数下限（如表一），其中北京、上海、湖南、天津等8个省份的社保缴费基数下限增速已下跌至1.5%及以下，进入“1时代”。 武汉大学社会保障研究中心教授向运华表示，从积极的角度看，社保缴费基数下限低增长，能明显降低中小微企业和中低收入群体的社保缴费压力。但近期部分省份正在夯实社保缴费基数，随着社保缴费走向合规化，接下来企业与个人的社保缴费负担变化及其深远影响还需要进一步观察。 经济观察",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
@@ -82,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2000-1788257082000",
-    "title": "2000亿，淄博首富刚刚敲钟了",
-    "link": "https://www.tmtpost.com/8124157.html",
-    "summary": "来自广州。",
+    "id": "news-token-ai-sea-frontline-1788271639000",
+    "title": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
+    "link": "https://www.tmtpost.com/8124037.html",
+    "summary": "当 AI 落地沿着产业链往下游走，账会越算越重。",
     "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
@@ -96,11 +188,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
-    "publishedAt": "2026-08-31",
+    "id": "news-how-engineered-microbes-could-help-feed-the-world-s-crops-1788253200000",
+    "title": "How engineered microbes could help feed the world’s crops",
+    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+    "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -108,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-magna-increases-bet-on-battery-swapping-in-india-with-35m-fo-1788238800000",
-    "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-    "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-    "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+    "id": "news-air-raises-50m-to-help-companies-vet-the-skills-and-add-ons--1788277551000",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
     "publishedAt": "2026-09-01",
     "source": "TechCrunch",
     "tags": [
@@ -121,24 +213,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-glp-1s-what-10-years-of-experience-prescribing-them-reveals-1788207105000",
-    "title": "GLP-1s: What 10+ years of experience prescribing them reveals",
-    "link": "https://hrexecutive.com/glp-1s-what-10-years-of-experience-prescribing-them-reveals/",
-    "summary": "Date &#038; Time: Tuesday, September 29, 2026 at 2:00 pm ET Join Virta providers and business leaders for a candid, ask-me-anything session addressing the questions benefits professionals are still trying to answer as they evaluate and refine their organizations’ GLP-1 strategies. The post GLP-1s: What 10+ years of experience prescribing them reveals appeared first on HR Executive .",
-    "publishedAt": "2026-08-31",
+    "id": "news-4-hurdles-european-companies-face-with-their-first-u-s-hire-1788264001000",
+    "title": "4 hurdles European companies face with their first U.S. hire",
+    "link": "https://hrexecutive.com/4-hurdles-european-companies-face-with-their-first-u-s-hire/",
+    "summary": "The real timeline behind a European company's first U.S. hire, and why it might take longer than founders expect. The post 4 hurdles European companies face with their first U.S. hire appeared first on HR Executive .",
+    "publishedAt": "2026-09-01",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "organization"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-california-ban-on-workplace-ai-emotion-surveillance-heads-to-1788205020000",
-    "title": "California ban on workplace AI emotion surveillance heads to Newsom’s desk",
-    "link": "https://www.hrdive.com/news/california-ban-on-workplace-ai-emotion-surveillance-heads-to-newsom/829207/",
-    "summary": "If passed, the bill also would prohibit the collection of an employee&rsquo;s &ldquo;neural data.&rdquo;",
-    "publishedAt": "2026-08-31",
+    "id": "news-22-songs-about-work-to-jam-to-this-labor-day-1788275100000",
+    "title": "22 songs about work to jam to this Labor Day",
+    "link": "https://www.hrdive.com/news/22-songs-about-work-to-jam-to-this-labor-day/829285/",
+    "summary": "This upcoming long weekend, stream the following songs about labor and the joys and pains that come with it.",
+    "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -161,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-98-4s-1788259517000",
-    "title": " “98元门票根本抢不到”机器人4S店突然走红，专家却劝“千万别押重注” ",
-    "link": "https://www.huxiu.com/article/4887685.html?f=rss",
-    "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《「98元门票根本抢不到」机器人4S店突然走红，专家却劝「千万别押重注」》 “团体参观，4000元！还要预约到20天之后？太火了吧！” 近日，由亦庄投资控股有限公司（亦庄控股）100%控股公司操盘的“Robot Mall机器人4S店”宣布，自去年8月成立至今的1年时间内，门店营业额已突破6000万元。这一直观的数据，回应了外界对于机器人产业“烧钱作秀”但“盈利困难”的固有印象。 在社交平台上，很多网友似乎嗅到了商机，纷纷认为机器人4S店是个稳赚不赔的新生意。 实际上，开机器人4S店看似新潮，但盈利模式很难复制。目前全国范围内已落地的机器人4S/6S/7S门店约20家，已有门店陷入亏损状态，且不同城市项目的经营处境，呈现出明显分化。 有专家向《BUG》栏目直言，直接独立开设大型综合机器人4S店风险很高，单纯依靠散客体验零售大概率难以覆盖运营成本。同时，也不建议小体量民营资本重资产自建大店，民营更适合以轻资产模式切入。 体验店都人满为患了？ 在不久前的2026世界机器人大会上，来自全球各地的55.7万参展人走进展馆——较上届增长106%，体验了人形机器人乃至于整个具身智能产业热潮与前沿成果。 而在世界机器人大会展馆3公里外，同样由北京亦庄国资下属平台操盘的“Robot Mall机器人4s店”，也处于“人满为患”的爆火状态",
+    "id": "news-7-1788274915000",
+    "title": " 一年融7轮，人人都爱「卖水人」 ",
+    "link": "https://www.huxiu.com/article/4887779.html?f=rss",
+    "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部，原文标题：《一年融7轮，人人都爱「卖水人」》 #具身智能#数据#简智机器人#光轮智能 具身智能这阵风，舆论的聚光灯几乎全打在机器人本体上。哪家又翻跟头了，哪家速度又超过人了，哪家叠衣服了。 机器人运动会一开，那些比人跑得快，跳得高的铁疙瘩，演示视频天天刷屏，是真火，物理上的那种火。 但真正决定胜负的，是镜头之外的数据。 本体是台前的演员，大脑才是是幕后的剧本，但大脑再聪明，也得靠数据喂，没有高质量真机数据，再漂亮的本体也只是空壳一台，或者只能靠遥操。 采数设备、动作捕捉、标注清洗，这些看似不起眼的卖「铲子」公司，才是喂大模型真正的粮食。 而且卖水、卖铲子的，往往是整条链上最先收到现金的一拨，不赌本体量产，也不用纠结场景，按小时、按条收钱，变现反而最快。 北京简智机器人（GenRobot）宣布完成A轮融资，由Momenta领投、老股东追投，成立刚满一年已经走完7轮，累计融资超2亿美元，约合13.6亿元人民币，刷新了具身智能无本体数据赛道的累计融资纪录。 所谓无本体数据，就是不用机器人采集数据，真人戴上数据采集工具，把人的动作、视觉、触觉采集成数据，再喂给机器人和世界模型。 不过，简智机器人中文名字我认为起得不太好，全名是简智新创，问题简单智力怎么新创…… 扯远了。 简智机器人创始人陈建兴是自动驾驶十年的老兵，先后在小鹏、Momen",
     "publishedAt": "2026-09-01",
     "source": "虎嗅",
     "tags": [
@@ -174,10 +265,104 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788257071000",
-    "title": "智飞生物这次可能抱不上默沙东的大腿了",
-    "link": "https://www.tmtpost.com/8124758.html",
-    "summary": "终究要靠自己。",
+    "id": "news-a-moment-of-truth-for-sony-in-china-after-black-myth-wukong-1788267243000",
+    "title": "A Moment of Truth for Sony in China After Black Myth: Wukong",
+    "link": "https://www.tmtpost.com/8125008.html",
+    "summary": "The breakout success of Black Myth: Wukong reshaped Sony Group’s strategy in China, sparking an unprecedented surge in hardware sales and forcing headquarters to re-evaluate the market’s potential. A year after the blockbuster title’s debut, PlayStation China faces the challenge of turning a single cultural phenomenon into a sustainable console ecosystem. Facing a home market dominated by mobile games and developer hesitation over triple-A production, Sony Interactive Entertainment Shanghai President Tatsuo Eguchi outlines how the company leveraged global supply chains to capture demand and wh",
+    "publishedAt": "2026-09-01",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "publishedAt": "2026-08-31",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-microsoft-365-outage-drags-on-but-things-are-improving-1788276195000",
+    "title": "Microsoft 365 outage drags on, but things are improving",
+    "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+    "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+    "publishedAt": "2026-09-01",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-challenge-ai-may-help-most-with-helping-workers-move-bet-1788263148000",
+    "title": "The challenge AI may help most with? Helping workers move between job opportunities",
+    "link": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
+    "summary": "HR must be able to identify talent and connect workers with opportunities they may never have otherwise considered. This is where AI can help. The post The challenge AI may help most with? Helping workers move between job opportunities appeared first on HR Executive .",
+    "publishedAt": "2026-09-01",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-williams-sonoma-to-spread-tariff-refunds-to-vendors-employee-1788275040000",
+    "title": "Williams-Sonoma to spread tariff refunds to vendors, employees",
+    "link": "https://www.hrdive.com/news/williams-sonoma-to-spread-tariff-refunds-to-vendors-employees/829280/",
+    "summary": "The kitchenware retailer is funneling $10 million toward the retirement accounts of workers who helped it navigate tariffs while also reimbursing vendors for discounts.&nbsp;",
+    "publishedAt": "2026-09-01",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-a-a-claude-25-17-1788250540000",
+    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "link": "https://www.qbitai.com/2026/09/482406.html",
+    "summary": "主打一个明升暗降，理直气壮",
+    "publishedAt": "2026-09-01",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788274069000",
+    "title": " 追觅回应放弃整车量产 ",
+    "link": "https://www.huxiu.com/article/4887774.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者 “汽车相关业务将并入公司产业研究院管理，未来主要聚焦通用技术的探索与研究，持续做好相关技术产投研落地。”9月1日，针对追觅科技造车项目终止的传闻，追觅科技相关人士向《每日经济新闻》记者表示，追觅汽车业务已经放弃量产计划，只做相应技术储备。 8月31日，记者在苏州一处产业园6号楼内看到，追觅科技（以下简称追觅）“星空计划”造车业务的主要办公场地已经显露出“退潮”迹象。办公区内工位大面积闲置，桌面空空荡荡，仅有零星人员进出，楼层指引牌上已经找不到“星空计划”的标识。 追觅“星空计划”办公地图片来源：每经记者孙桐桐摄 但距离该产业园2公里的追觅科技总部，集团大本营整体运转似乎并未有明显改变。记者看到，上下班时段员工往来络绎不绝，地下及地面停车场车位全部占满，不少员工车辆只能够停靠在园区外的路边，各办公区域工位均处于正常办公状态。 追觅科技总部园区地面停车场图片来源：每经记者孙桐桐摄 整车量产终止 底层技术寻求复用 事实上，追觅的这一轮业务收缩，是其对此前快速多元化布局的一次业务纠偏。此前该公司推行内部孵化、事业部赛马机制，业务单元一度扩张至200余个，业务边界快速向外延伸，除扫地机器人、洗地机等看家品类之外，造车、手机、潮玩、多类消费孵化项目密集上马，员工规模快速扩张。 其中，最受市场关注的便是“星空计划”造车项目。2025年8月，追",
+    "publishedAt": "2026-09-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788266779000",
+    "title": "当玛雅与安第斯来到北京#万千气象看北京#",
+    "link": "https://www.tmtpost.com/8123551.html",
+    "summary": "北京刚刚用800件文物完成了一次关于文明接纳能力的演示",
     "publishedAt": "2026-09-01",
     "source": "钛媒体",
     "tags": [
@@ -200,196 +385,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-alo-1788222600000",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+    "id": "news-fambot-introduces-an-8216-ai-chief-of-staff-8217-for-familie-1788275458000",
+    "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
     "publishedAt": "2026-09-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-workplace-wellbeing-the-awareness-gap-has-closed-the-executi-1788179452000",
-    "title": "Workplace wellbeing: The awareness gap has closed. The execution gap persists",
-    "link": "https://hrexecutive.com/workplace-wellbeing-the-awareness-gap-has-closed-the-execution-gap-persists/",
-    "summary": "Although the data shows that workplace wellbeing has become an accepted business priority, companies struggle to translate it into measurable outcomes. The post Workplace wellbeing: The awareness gap has closed. The execution gap persists appeared first on HR Executive .",
-    "publishedAt": "2026-08-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-settled-8-lawsuits-that-ended-in-payouts-in-august-1788193140000",
-    "title": "Settled: 8 lawsuits that ended in payouts in August",
-    "link": "https://www.hrdive.com/news/8-lawsuits-that-ended-in-payouts-in-august/829141/",
-    "summary": "The settlements ranged from $75,000 to $21.5 million, court records show.",
-    "publishedAt": "2026-08-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-a-a-claude-25-17-1788250540000",
-    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-    "link": "https://www.qbitai.com/2026/09/482406.html",
-    "summary": "主打一个明升暗降，理直气壮",
-    "publishedAt": "2026-09-01",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788258454000",
-    "title": " 微创半年报难产，当未公开的“账本”站在阳光下 ",
-    "link": "https://www.huxiu.com/article/4887677.html?f=rss",
-    "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 从最好看的盈警，到财报难产停牌，微创医疗只用了19天。 8月12日，微创医疗发布盈利预警，经营数据是五年来最好看的一次。持续经营业务收入增长约12%到14%，出海业务增速约140%，经营性净利润不低于2400万美元——去年同期还是1300万美元的经营性净亏损。 产品在卖，市场在扩，账面在改善，正当所有人都以为一切在走向正轨时，财报忽然“难产”了。 8月31日晚，微创医疗发布公告：无法在法定期限内刊发2026年中期业绩，董事会会议延后，股份及债务证券自9月1日上午9时起停牌。随后，微创机器人、微创脑科学、微创心通接连停牌，整个“微创系”全线熄火。 财报延迟的原因，归结为三个问题：一份五年前签下的租约、一笔2.96亿元的保证金，和一个审计师追问至今没有答案的问题——房东到底是不是“自己人”。 表面上，微创现在停牌等待的只是一份财报，但实质上是其赖以扩张的庞杂架构运行二十年后，第一次被强行摊开所有底牌，把隐秘的账本放到同一张桌子上。 /01/ “提前打过的预防针” 微创的问题，并不会令人倍感意外。原因很简单，8月20日的公告，已经提前给市场打过了“预防针”。 2021年，微创与出租方\"上海微创投资管理有限公司\"（后更名为\"上海回青橙投资管理有限公司\"）签订租赁协议，租下后者12.63万平方米的工业设施，作为办公和制造用途。 原租赁协议于20",
-    "publishedAt": "2026-09-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788256837000",
-    "title": "美团终于赚钱了，但有一半或是友商“送”的",
-    "link": "https://www.tmtpost.com/8123622.html",
-    "summary": "只要阿里、京东还在牌桌上，美团就再难回到以前的位置。",
-    "publishedAt": "2026-09-01",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-to-sign-up-for-a-virtual-power-plant-and-decide-whether--1787907600000",
-    "title": "How to sign up for a virtual power plant—and decide whether you should",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
-    "publishedAt": "2026-08-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-apple-shares-8216-shocking-evidence-8217-against-former-empl-1788221580000",
-    "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "publishedAt": "2026-09-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-80-of-workers-doubt-leadership-8217-s-motives-new-survey-fin-1788179411000",
-    "title": "80% of workers doubt leadership&#8217;s motives, new survey finds",
-    "link": "https://hrexecutive.com/80-of-workers-doubt-leaderships-motives-new-survey-finds/",
-    "summary": "New survey data shows why employee trust falls during layoffs and AI change, and what Meta, IBM and Oracle reveal about fixing it. The post 80% of workers doubt leadership&#8217;s motives, new survey finds appeared first on HR Executive .",
-    "publishedAt": "2026-08-31",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-washington-post-karen-attiah-saga-raises-questions-about-1788188940000",
-    "title": "The Washington Post-Karen Attiah saga raises questions about worker social media policies",
-    "link": "https://www.hrdive.com/news/the-washington-post-karen-attiah-saga-raises-questions-about-worker-social/829172/",
-    "summary": "An arbitrator ordered the Post to reinstate Attiah and provide back pay after firing her for social media posts. Here&rsquo;s what HR can learn from the situation.",
-    "publishedAt": "2026-08-31",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-wam-air-in-context-causal-learning-1788239550000",
-    "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-    "link": "https://www.qbitai.com/2026/09/482337.html",
-    "summary": "参数冻结，能力暴涨",
-    "publishedAt": "2026-09-01",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788258321000",
-    "title": " 利好突袭，英伟达宣布史上最大海外直接投资，黄仁勋最新发声，被投公司股价暴涨 ",
-    "link": "https://www.huxiu.com/article/4887678.html?f=rss",
-    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《利好突袭！英伟达宣布史上最大海外直接投资，黄仁勋最新发声！被投公司股价暴涨》 随着AI算力需求持续增长，全球科技巨头对AI芯片的掌控正在从“采购”走向“自研”。谷歌、亚马逊、微软等公司近年来持续推出自研AI芯片，希望针对自身AI业务优化芯片架构，在性能、功耗和成本之间取得更好的平衡。因此，对拥有庞大算力需求的企业而言，定制ASIC（专用芯片）或XPU正成为英伟达GPU之外的重要选择。 在自研芯片逐渐成为全球科技巨头的一项普遍战略时，一个新的问题也随之出现：自己设计AI芯片，是否意味着必须与英伟达的软硬件生态彻底“分道扬镳”？ 英伟达给出的答案是否定的。8月31日晚间，英伟达宣布斥资35亿美元认购联发科发行的可转债，同时双方进一步深化长期合作。联发科将采用英伟达NVLink Fusion及最新的NVHBM技术，为客户开发定制化AI芯片，并使这些芯片能够接入英伟达的机架级AI计算系统。 据财联社报道，这笔交易是英伟达迄今为止在美国以外地区最大的一笔直接投资。这笔联发科史上最大海外可转债发行总额为39亿美元，Alphabet也参与投资，但未披露具体金额。 可以看到，英伟达希望让这些定制芯片继续运行在自己的互联、内存和系统生态之中。换句话说，定制XPU与英伟达的通用AI生态并非简单的竞争关系，二者可以共存——客户可以集中资源",
-    "publishedAt": "2026-09-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788256831000",
-    "title": "比亚迪终于等来业绩拐点？",
-    "link": "https://www.tmtpost.com/8123435.html",
-    "summary": "虽然上半年的整体业绩持续承压，但分季度来看，比亚迪或已迎来业绩拐点。",
-    "publishedAt": "2026-09-01",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-startup-claims-it-s-found-a-drug-to-make-your-blood-young-1787860093000",
-    "title": "A startup claims it’s found a drug to make your blood young",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
-    "publishedAt": "2026-08-27",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-polymarket-reportedly-raises-300-million-from-donald-trump-j-1788219670000",
-    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.&#8217;s investment fund",
-    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-    "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-    "publishedAt": "2026-08-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -1054,26 +1054,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208",
     "postedAt": "2026-08-24",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137073",
-    "title": "Retail Store Associate",
-    "company": "Rowan",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
-      "You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne"
-    ],
-    "skills": [
-      "RAG",
-      "AWS"
-    ],
-    "location": "Chicago, IL",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-    "postedAt": "2026-08-22",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-01T11:01:48.967Z';
+export const dataFetchedAt = '2026-09-01T16:00:23.538Z';

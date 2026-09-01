@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-02-auto",
+    "date": "2026-09-02",
+    "session": "auto",
+    "title": "2026-09-02 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-02-auto-1",
+        "emoji": "⚠️",
+        "title": "Making the AI-powered case for legacy modernization",
+        "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+        "detail": "来源: MIT Technology Review。For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+      },
+      {
+        "id": "sig-2026-09-02-auto-2",
+        "emoji": "💡",
+        "title": "GoPro to be acquired for $285M, will remain a public company",
+        "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+        "detail": "来源: TechCrunch。GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
+      },
+      {
+        "id": "sig-2026-09-02-auto-3",
+        "emoji": "🚨",
+        "title": "What Gen Z means when they say they want a global career",
+        "summary": "New survey finds Gen Z wants global careers, cross-border work, and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
+        "detail": "来源: HR Executive。New survey finds Gen Z wants global careers, cross-border work, and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/what-gen-z-means-when-they-say-they-want-a-global-career/"
+      },
+      {
+        "id": "sig-2026-09-02-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Context-Aware Interleaved Batching for WhisperX...",
+        "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve",
+        "detail": "作者: Carlos Bain, Max Bain。While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard Whisper retains context sequentially but suffers from slow inference and hallucination loops. To achieve the best of both worlds, we propose Context-Aware Interleaved Batching. By using VAD-derived segment boundaries, our algorithm stabilizes Whisper's text conditioning, allowing us to safely maintain continuous historical context across batched audio segments. As demonstrated on long-form audio benchmarks, this approach reduces Word Error Rate (WER) and improves proper noun transcription, all while maintaining high-throughput inference speeds.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2608.31170v1"
+      },
+      {
+        "id": "sig-2026-09-02-auto-5",
+        "emoji": "💼",
+        "title": "Benzinga 正在招募 AI Engineer Data APIs",
+        "summary": "岗位类型：业务+AI 复合岗。Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link",
+        "detail": "技能要求: 未标注。Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link Tell us the hardest problem you hit and how you solved it Focus on architecture decisions and tradeoffs, not a f.. Please mention th",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Benzinga"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Benzinga",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-02-1",
+        "priority": "medium",
+        "action": "关注「Making the AI-powered case for legacy mo」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-02-2",
+        "priority": "low",
+        "action": "关注「GoPro to be acquired for $285M, will rem」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-02-3",
+        "priority": "high",
+        "action": "关注「What Gen Z means when they say they want」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-02-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Context-Aware Interleaved Batching 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-02-5",
+        "priority": "medium",
+        "action": "关注「Benzinga 正在招募 AI Engineer Data APIs」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Benzinga"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 66,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-02 生成，聚合了 30 条新闻、20 篇论文、16 个岗位。",
+    "fetchWindow": "2026-09-02 00:00 - 2026-09-02 23:59"
+  },
+  {
     "id": "report-2026-09-01-auto",
     "date": "2026-09-01",
     "session": "auto",
