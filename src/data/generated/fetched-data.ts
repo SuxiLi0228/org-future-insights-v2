@@ -2,6 +2,170 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "publishedAt": "2026-09-02",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-1788361283000",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "publishedAt": "2026-09-02",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-adoption-lessons-from-the-nation-s-first-ai-native-health-sy-1788352202000",
+    "title": "Adoption lessons from the nation’s first AI-native health system",
+    "link": "https://hrexecutive.com/adoption-lessons-from-the-nations-first-ai-native-health-system/",
+    "summary": "Jim McGee, chief people officer at health network Akido, shares how the organization navigated physician resistance to AI adoption, and what other industries can learn. The post Adoption lessons from the nation’s first AI-native health system appeared first on HR Executive .",
+    "publishedAt": "2026-09-02",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-eeoc-wants-to-end-demographic-reporting-smart-companies-won--1788359520000",
+    "title": "EEOC wants to end demographic reporting. Smart companies won’t stop measuring.",
+    "link": "https://www.hrdive.com/news/eeo-form-rescission-what-now/829331/",
+    "summary": "As the U.S. Equal Employment Opportunity Commission moves to end demographic data reporting, employers must decide if data collection is a matter of compliance or leadership, Catalyst leaders say.",
+    "publishedAt": "2026-09-02",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news--1788364346000",
+    "title": " 共享算力紧缺红利，本土芯片走向分化 ",
+    "link": "https://www.huxiu.com/article/4888109.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 半年报披露窗口落幕，在算力紧缺的大环境下，本土AI芯片终于迎来了最好的收入增长期。多家厂商实现同比翻倍甚至数倍增长，而且，从一季度到二季度也是一个加速的过程。 这对应了本土算力建设的飞速增长。据工信部，截至上半年，中国智能算力规模达2185 EFLOPS（FP16），同比增长177%，而按照此前披露的数据计算，仅二季度全国智能算力规模就增加了约303 EFLOPS。 就行业而言，这样的好日子还会持续下去。这是供需矛盾所决定的。美国仍然卡住中国的模型厂商获得英伟达最先进的AI芯片，甚至计划从“管实物”延伸到“管算力使用权”；而本土芯片的产能仍在爬坡，与模型和云厂商的适配与运维也需要进一步磨合。按照信通院的数据，中国AI算力需求的增长速度，差不多是供给增速的3倍多。 云厂商与模型厂商都在抓紧融资。面对AI芯片供给不足，比融资速度更快的，是把钱赶紧花出去。阿里巴巴与腾讯在最近一个季度花掉了超过1200亿元人民币，DeepSeek今年已经向AI算力投入了100多亿。梁文锋认为，国产AI芯片正面临历史机遇，以往短板的CUDA生态可以通过AI编码解决，未来两年的核心瓶颈还是在产能。而吴泳铭则认为紧缺至少持续到2030年。 如果需求和产能继续按照目前的节奏增长，领先的AI芯片企业有望在2027年前后陆续跨过盈亏平衡线。连续大幅亏损的寒武纪，已经在",
+    "publishedAt": "2026-09-02",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-15-1788356948000",
+    "title": "渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报",
+    "link": "https://www.tmtpost.com/8125053.html",
+    "summary": "“轻装上阵”获市场重估。",
+    "publishedAt": "2026-09-02",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-puzzles-and-a-path-to-our-nearest-star-syste-1788351000000",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
+    "publishedAt": "2026-09-02",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-psa-amazon-8217-s-shopping-ai-can-now-tell-you-if-that-messa-1788360994000",
+    "title": "PSA: Amazon&#8217;s shopping AI can now tell you if that message is a scam",
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "publishedAt": "2026-09-02",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-what-happens-when-people-stop-thinking-the-case-for-behavior-1788351357000",
+    "title": "What happens when people stop thinking: The case for behavioral AI literacy",
+    "link": "https://hrexecutive.com/what-happens-when-people-stop-thinking-the-case-for-behavioral-ai-literacy/",
+    "summary": "Without behavioral AI literacy, AI may not replace human thinking, but if we are not intentional, people may slowly choose to do less of it. The post What happens when people stop thinking: The case for behavioral AI literacy appeared first on HR Executive .",
+    "publishedAt": "2026-09-02",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-wavering-economy-ticks-up-as-a-factor-in-executive-benef-1788359460000",
+    "title": "The wavering economy ticks up as a factor in executive benefits decisions",
+    "link": "https://www.hrdive.com/news/the-wavering-economy-ticks-up-as-a-factor-in-executive-benefits-decisions/829408/",
+    "summary": "Retention and succession planning remain the key priorities, although many companies have no benefits strategies designed to support leadership transition.",
+    "publishedAt": "2026-09-02",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news--1788360517000",
+    "title": " “新势力”除了造车，还在干啥？ ",
+    "link": "https://www.huxiu.com/article/4888102.html?f=rss",
+    "summary": "本文来自微信公众号： 豹变 ，作者：陈法善，编辑：刘杨，原文标题：《「新势力」除了造车，还在干啥？》 都在找“第二曲线”，但造车的主业还得做扎实。 零跑10.3万辆、小鹏3.9万辆、蔚来3.6万辆、理想3.8万辆。这是8月四家造车“新势力”的销量数据，前三家销量与7月基本持平，理想因7月基数较低，8月多卖了约7200辆。 当造车“新势力”的位次逐渐稳定，能让资本市场兴奋的，已经不是每月销量，而是在卖车之外，车企还能做什么。 近日，这四家车企相继发布半年报，折射出各自不同的野心和焦虑。小鹏和零跑同一天交卷，在财报会上，分析师对小鹏追问最多的是机器人；而零跑管理层，则用不少篇幅去介绍出海节奏和Stellantis协同。 四家中，理想是现金储备最多的那个，试图在造车之外，强调自身的AI属性，但分析师的问题最终绕回销量。而刚于9月1日交卷的蔚来，则依靠多品牌矩阵，持续做深造车主业。 新势力的分化，已经从销量，进入到比拼“第二曲线”。 不一样的财报会 这是一场非典型的汽车公司财报电话会。如果不知道这是小鹏汽车的主场，或许会以为这是哪家机器人公司在解读财报。 一开场，摩根士丹利、美银美林等投行分析师就接连追问，全都与小鹏机器人Iron有关：2027年交付目标是多少？量产版单台成本处于什么水平？毛利率多少？什么样的客户会买Iron？ 也不能怪分析师跑题。财报发布当天，小鹏机器人业务官宣完成9亿美",
+    "publishedAt": "2026-09-02",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-china-s-humanoid-robots-industry-enters-the-era-of-public-in-1788356226000",
+    "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
+    "link": "https://www.tmtpost.com/8126318.html",
+    "summary": "China's robotics industry is changing the way it survives and operates.",
+    "publishedAt": "2026-09-02",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai",
+      "organization"
+    ]
+  },
+  {
     "id": "news-how-ai-plotted-an-interstellar-journey-to-alpha-centauri-1788289836000",
     "title": "How AI plotted an interstellar journey to Alpha Centauri",
     "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
@@ -15,11 +179,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-larry-page-8217-s-flying-car-company-pivotal-loses-its-ceo-1788307199000",
-    "title": "Larry Page&#8217;s flying car company Pivotal loses its CEO",
-    "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-    "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
-    "publishedAt": "2026-09-01",
+    "id": "news-adobe-acquires-indian-market-intelligence-startup-rilo-1788357837000",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -28,11 +192,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-gen-z-means-when-they-say-they-want-a-global-career-1788265828000",
-    "title": "What Gen Z means when they say they want a global career",
-    "link": "https://hrexecutive.com/what-gen-z-means-when-they-say-they-want-a-global-career/",
-    "summary": "New survey finds Gen Z wants global careers, cross-border work and even outer space experience. Here's the retention risk to watch. The post What Gen Z means when they say they want a global career appeared first on HR Executive .",
-    "publishedAt": "2026-09-01",
+    "id": "news-nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-the-1788350431000",
+    "title": "Nearly 3 in 4 HR job seekers are looking for roles below their career level",
+    "link": "https://hrexecutive.com/nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-their-career-level/",
+    "summary": "HR has the highest 'downleveling' rate of any industry tracked, with senior job seekers applying below their level and losing pay. The post Nearly 3 in 4 HR job seekers are looking for roles below their career level appeared first on HR Executive .",
+    "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -40,37 +204,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-worker-fired-shortly-after-turning-60-sues-for-age-bias-1788293520000",
-    "title": "Worker fired shortly after turning 60 sues for age bias",
-    "link": "https://www.hrdive.com/news/worker-fired-shortly-after-turning-60-sues-for-age-bias/829332/",
-    "summary": "The former employee of Southern Company Services alleged a supervisor had said there were &ldquo;too many people over 60&rdquo; and that those over 60 &ldquo;get sick.&rdquo;",
-    "publishedAt": "2026-09-01",
+    "id": "news-schedule-flexibility-may-be-key-in-keeping-mothers-in-the-wo-1788359460000",
+    "title": "Schedule flexibility may be key in keeping mothers in the workforce",
+    "link": "https://www.hrdive.com/news/schedule-flexibility-may-be-key-in-keeping-mothers-in-the-workforce/829373/",
+    "summary": "New research questions the belief that what working mothers want most is remote work.",
+    "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-skyproduction-1788340936000",
-    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-    "link": "https://www.qbitai.com/2026/09/483274.html",
-    "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-    "publishedAt": "2026-09-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-832-1788344286000",
-    "title": " 汽车出口832万辆后，海外竞争开始不只是企业自己的事 ",
-    "link": "https://www.huxiu.com/article/4888015.html?f=rss",
-    "summary": "本文来自微信公众号： 飞常洞察 ，作者：防冷涂的蜡 2026年9月，商务部、工业和信息化部、市场监管总局联合印发《汽车行业境外竞争行为与合规建设指引》。与过去常见的出口支持或风险提示相比，这份指引把要求延伸到了到车企在海外的市场策略和企业经营层面。例如，文件建议零售价要形成清晰梯度，避免多频次、大幅度波动；不同国家的价差需要考虑税费、物流和当地市场；还要尊重境外经销商的自主定价权，明确返利与促销规则。 2025年，中国汽车出口达到832万辆，销往200多个国家和地区，成为中国制造的一张名片。与此同时，政策的关注范围也越来越大。为什么中国企业做到今天这个海外规模以后，“怎么竞争”开始变成一个政府政策关注的问题？ ▌不只是汽车，政策开始关心企业出去以后怎么竞争 过去支持企业国际化的政策工具，主要解决商品如何进入海外市场，以及企业怎样控制投资风险。出口信贷、信用保险、通关便利、展会、物流和海外仓帮助企业找到客户、完成交付；对外投资管理、安全风险和一般合规，则围绕一家企业、一个项目建立基本边界。 最近一年，政策视线越过商品离境和项目落地，进入企业在海外的长期经营。2025年10月，五部门发布完善海外综合服务体系的指导意见，提出建立与中国对外投资贸易规模和发展态势相匹配的服务体系，把原“走出去”公共服务平台升级为国家层面的“1+N”平台，整合外事、法律、财税、金融、物流、海关和知识产权等服务",
+    "id": "news-drg3-0-1788359813000",
+    "title": " DRG3.0官宣：常见病“贬值”、肿瘤重症更值钱，多位医保专家、三甲一线医生独家解读 ",
+    "link": "https://www.huxiu.com/article/4888097.html?f=rss",
+    "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队，原文标题：《DRG 3.0官宣：常见病“贬值”、肿瘤重症更值钱，多位医保专家、三甲一线医生独家解读》 大医院丢掉的，是常见病的钱；拿到的，是复杂病种更高的权重——DRG 3.0，让\"大小通吃\"的日子结束了，但没让大医院的日子变差。 9月2日上午，国家医保局召开新闻发布会，正式发布按病组（DRG）付费、按病种分值（DIP）付费3.0版分组方案——比原定的7月发布时间，晚了一个多月。 DRG核心分组由2.0版的409个增至492个，细分组由634个增至825个；DIP核心病种则从9520个压缩至5125个，接近腰斩。落地时间表一并后移——各地原则上须在2026年12月31日前完成切换准备，2027年3月底前落地应用。 此次国家医保局发布的《关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知》（以下简称“文件”）里，第一次出现了一张国家版清单：158个基层病种。 其中DRG基层病组31个，覆盖高血压、糖尿病、呼吸系统感染等27个内科病组，以及阑尾切除术、腹股沟疝手术、骨科固定装置去除术等技术成熟的一、二级手术。 DIP基层病种127个，包括97个保守治疗组和30个手术操作病种，覆盖呼吸、消化、循环、泌尿等系统的常见病。 清单之外，是一条只有四个字的规则：同病同付。同一个统筹地区内，这些病种无论由一、二、三",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +230,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788343104000",
-    "title": "AI公司请达人说好话，得加钱了",
-    "link": "https://www.tmtpost.com/8125729.html",
-    "summary": "美国网友对AI的怒火，正在烧向每一个与AI公司合作的人。",
+    "id": "news-ai-30-70-aimx-singapore-2026-1788356052000",
+    "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
+    "link": "https://www.tmtpost.com/8124464.html",
+    "summary": "上海证明的是中国 AI 能站上多高的舞台，金沙检验的是它能不能进别人的预算表。",
     "publishedAt": "2026-09-02",
     "source": "钛媒体",
     "tags": [
@@ -106,11 +256,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-reliance-8217-s-jiohotstar-takes-its-streaming-empire-global-1788303600000",
-    "title": "Reliance&#8217;s JioHotstar takes its streaming empire global — without sports",
-    "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-    "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-    "publishedAt": "2026-09-01",
+    "id": "news-norway-considers-ban-on-camera-enabled-wearable-8216-pervert-1788354707000",
+    "title": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
+    "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+    "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+    "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -119,25 +269,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-when-disruption-is-the-operating-environment-bouncing-back-i-1788264913000",
-    "title": "When disruption is the operating environment, ‘bouncing back’ isn’t the whole job",
-    "link": "https://hrexecutive.com/when-disruption-is-the-operating-environment-bouncing-back-isnt-the-whole-job/",
-    "summary": "Organizations have long treated resilience as the ability to recover from a discrete shock. Athenais Sivaloganthan of International SOS argues that the definition no longer fits. The post When disruption is the operating environment, ‘bouncing back’ isn’t the whole job appeared first on HR Executive .",
-    "publishedAt": "2026-09-01",
+    "id": "news-healthcare-costs-ai-adoption-drive-employee-benefits-strateg-1788349504000",
+    "title": "Healthcare costs, AI adoption drive employee benefits strategy",
+    "link": "https://hrexecutive.com/healthcare-costs-ai-adoption-drive-employee-benefits-strategy/",
+    "summary": "The employee benefits market is increasingly shaped by trends that include regulatory volatility, shifting compliance priorities, accelerated cost pressures and ever-evolving workplace demands. The post Healthcare costs, AI adoption drive employee benefits strategy appeared first on HR Executive .",
+    "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
       "ai",
-      "organization"
+      "strategy"
     ]
   },
   {
-    "id": "news-manager-who-demanded-doctor-s-note-on-new-year-s-eve-was-not-1788293520000",
-    "title": "Manager who demanded doctor’s note on New Year’s Eve was not reasonable, EEOC says",
-    "link": "https://www.hrdive.com/news/manager-who-demanded-doctors-note-on-new-years-eve-was-not-reasonable-ee/829335/",
-    "summary": "A Family Dollar store manager demanded a pregnant worker produce a doctor&rsquo;s note the same holiday evening she was told via phone to take a few days&rsquo; leave from work, a complaint alleged.",
-    "publishedAt": "2026-09-01",
+    "id": "news-almost-half-the-time-spent-on-ai-is-on-fixing-its-output-bam-1788359400000",
+    "title": "Almost half the time spent on AI is on fixing its output, BambooHR says",
+    "link": "https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/",
+    "summary": "U.S. employees still remain largely positive about the technology at work, though younger workers are wary that it could limit their growth potential.",
+    "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -147,23 +297,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vldb-35pb-5-6-1788330017000",
-    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-    "link": "https://www.qbitai.com/2026/09/483104.html",
-    "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-    "publishedAt": "2026-09-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-130-1788344284000",
-    "title": " 被噪音“逼疯”的人：协商无果，一年报警130次 ",
-    "link": "https://www.huxiu.com/article/4888017.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网 ，作者：木三川 “咚咚咚”的节奏响起，广场舞又开始了。 8月27日晚6点多，住在福州的李艺淘一家被窗外声音吵得心慌。她走到离家50米开外的小区中心广场。六十多岁的大爷大妈们排着队形，围着一个黑色行李箱大小的音响，跟着音乐跳舞。 一旁的噪声检测仪屏幕显示：68.8分贝，世界卫生组织（WHO）及多项研究表明，人们若长期暴露于60-70分贝的噪声环境，可能会对睡眠、听力及心血管健康产生不利影响。 这个仪器是李艺淘向当地公安局、生态环境局等多部门连续投诉3年，拨打了上百个电话换来的。 检测仪安装以后，小区一度恢复安静。可没过5个月，2026年4月，广场舞队伍带着音响卷土重来，每晚检测仪数字都飙升到60分贝以上。 尽管2026年1月1日起施行的《中华人民共和国治安管理处罚法》第八十八条明确表示，产生社会生活噪音的，经劝阻未能制止、持续干扰他人正常生活的，可处拘留或罚款。但李艺淘始终没等来对噪音制造者的行政处罚。 在她推进立案并向警方反复追问案件进展的过程中，警方以第三方机构检测到李艺淘家中分贝为58.1为由，终止了案件调查。她随后又对派出所提起了行政诉讼，被法院驳回。 和李艺淘有一样经历的人不在少数。“投诉无门”把噪音维权变成了一场旷日持久的拉锯战，甚至引发激烈冲突。2025年，江苏盱眙一广场舞爱好者因音响声音太大，被附近奶茶店负责人扇击脸部致脑震荡、面部擦伤，",
+    "id": "news--1788359362000",
+    "title": " 冲击“工业三万亿俱乐部”，又一座地级市来了 ",
+    "link": "https://www.huxiu.com/article/4888096.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 对手凶猛，谁先过线？ 又一座城市明确了冲击“工业三万亿俱乐部”的时间表。 据当地媒体报道，东莞“十五五”规划纲要正式公布，其中明确：到2030年，力争地区生产总值突破1.7万亿元；全市规模以上工业总产值超3万亿元。 “工业3万亿”是什么概念？作为衡量头部城市制造业发展水平的重要指标，这一体量超过全国约一半的省份，含金量不言而喻。 梳理公开报道，这不是东莞第一次喊出“3万亿”目标。 早在2024年初，兄弟城市佛山曾官宣成为全国第二个、广东首个“工业3万亿”地级市，同期东莞2024年市政府一号文明确提出：力争到2027年底，规上工业总产值超过3万亿元。 对比两次目标制定，从力争2027年底到最新明确的“十五五”期末，东莞瞄准的“工业3万亿”，将短期冲刺调整为一个更长期稳步达成的目标，压力同样不容小觑。 放眼全国，包括武汉、常州、无锡等在内，同步争夺下一个“工业3万亿”的城市不在少数。新一轮工业能级追逐战“打响”，东莞能否在激烈竞争中突围？又将如何推动“世界工厂”价值重塑？ 1 压力 作为广东省内两大制造业重镇，东莞与佛山常年“贴身肉搏”，从工业实力到经济规模均是两地比拼的焦点。也因此，早在佛山官宣达成“工业3万亿”时，外界就开始关注东莞的时间表。 如今两年多过去，东莞的追赶交出阶段性“答卷”——2025年，东莞规上工业总产值跃居广东全省",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +310,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-fable-5-1-1788343101000",
-    "title": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子",
-    "link": "https://www.tmtpost.com/8125528.html",
-    "summary": "跑分翻倍防蒸馏机制同步上线",
+    "id": "news-humanoid-robots-still-can-t-prop-up-geek-1788355863000",
+    "title": "Humanoid Robots Still Can’t Prop up Geek+",
+    "link": "https://www.tmtpost.com/8126302.html",
+    "summary": "The core business remains solid, but the second growth driver hasn’t worked yet.",
     "publishedAt": "2026-09-02",
     "source": "钛媒体",
     "tags": [
@@ -200,11 +337,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-follows-google-in-adopting-trump-s-lake-america-name-1788300814000",
-    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-    "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-    "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-    "publishedAt": "2026-09-01",
+    "id": "news-adobe-is-making-its-tools-available-in-slack-1788354567000",
+    "title": "Adobe is making its tools available in Slack",
+    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+    "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -213,11 +350,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-hurdles-european-companies-face-with-their-first-u-s-hire-1788264001000",
-    "title": "4 hurdles European companies face with their first U.S. hire",
-    "link": "https://hrexecutive.com/4-hurdles-european-companies-face-with-their-first-u-s-hire/",
-    "summary": "The real timeline behind a European company's first U.S. hire, and why it might take longer than founders expect. The post 4 hurdles European companies face with their first U.S. hire appeared first on HR Executive .",
-    "publishedAt": "2026-09-01",
+    "id": "news-why-more-young-workers-are-saying-no-thanks-to-becoming-mana-1788348656000",
+    "title": "Why more young workers are saying ‘no thanks’ to becoming managers",
+    "link": "https://hrexecutive.com/why-more-young-workers-are-saying-no-thanks-to-becoming-managers/",
+    "summary": "Recent research finds that individual contributors increasingly want to avoid moving into management. How can HR turn the trend around? The post Why more young workers are saying ‘no thanks’ to becoming managers appeared first on HR Executive .",
+    "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -225,102 +362,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ey-earmarks-100m-in-rewards-for-future-focused-employees-1788293520000",
-    "title": "EY earmarks $100M in rewards for ‘future-focused’ employees",
-    "link": "https://www.hrdive.com/news/ey-puts-100m-push-future-ready-workforce-compensation/829338/",
-    "summary": "The Big Four accounting firm is looking to reward employees who drive &ldquo;meaningful change&rdquo; through innovation, disruption, technology or growth.",
-    "publishedAt": "2026-09-01",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-qwen3-8-max-1788329426000",
-    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-    "link": "https://www.qbitai.com/2026/09/483101.html",
-    "summary": "",
-    "publishedAt": "2026-09-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1788344141000",
-    "title": " 芒果超媒涨停背后：卫视播出《后西游记》证明AI长剧成了？ ",
-    "link": "https://www.huxiu.com/article/4888016.html?f=rss",
-    "summary": "本文来自微信公众号： 电厂 ，编辑：高宇雷，作者：何畅，原文标题：《电厂 | 芒果超媒涨停背后：卫视播出《后西游记》证明AI长剧成了？》 8月31日和9月1日，芒果超媒连续两个交易日20CM涨停，AI短剧、游戏和传媒概念股也出现明显上涨。神话题材季播剧《后西游记》的首播表现以及“首部上星AI长剧”的标签，大概是最直接的催化剂。按照平台官方的说法，首播当晚该剧实时收视率位居省级卫视同时段第一。 资本市场给出的答案非常干脆，但如果把股价和“首部”两个标签暂时放下，结论或许没有那么确定。从观众反馈来看，《后西游记》呈现出比较明显的两面性。一部分观众对画面完成度感到意外，认为角色动作流畅，摆脱了AI视频常被诟病的粗糙感；另一部分观众则把注意力放在故事本身，对情节推进、人物塑造等细节提出了质疑。 某种程度上来说，《后西游记》证明了AI长剧已具备“可以被正常观看”的基础，但难点在于能否在40分钟一集、30集一季的长度里保持叙事质量。资本市场交易的基础是前一个变化，影视行业最终要验证的却是后一个问题。 不谈AI，《后西游记》是一部什么剧？ 《后西游记》并非直接翻拍经典《西游记》，而是取材于明末清初的同名神魔小说，将故事放到了孙悟空成佛之后，从封圣千年庆典开始，围绕新的石猴孙小圣以及唐半偈、猪一戒、沙弥等角色展开。 “西游”是一个相当适合以AI手段进行尝试的题材，花果山、云海、妖怪、法术等元素本身",
-    "publishedAt": "2026-09-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788342765000",
-    "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
-    "link": "https://www.tmtpost.com/8125160.html",
-    "summary": "从早期的手工梳理本体，到现在的平台化积累，工业大模型的落地正在从演示走向生产。",
-    "publishedAt": "2026-09-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-engineered-microbes-could-help-feed-the-world-s-crops-1788253200000",
-    "title": "How engineered microbes could help feed the world’s crops",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
-    "publishedAt": "2026-09-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-afterquery-reportedly-becomes-y-combinator-8217-s-fastest-ev-1788300504000",
-    "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "publishedAt": "2026-09-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-ai-can-help-workers-move-between-job-opportunities-1788263148000",
-    "title": "How AI can help workers move between job opportunities",
-    "link": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
-    "summary": "HR must be able to identify talent and connect workers with opportunities they may never have otherwise considered. This is where AI can help. The post How AI can help workers move between job opportunities appeared first on HR Executive .",
-    "publishedAt": "2026-09-01",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-worker-personality-may-matter-more-than-skills-hiring-manage-1788276060000",
-    "title": "Worker personality may matter more than skills, hiring managers say",
-    "link": "https://www.hrdive.com/news/worker-personality-matters-more-than-skills-hiring-managers-say/829270/",
-    "summary": "Hiring managers and job seekers agreed that the traits with the highest value are reliability, honesty, adaptability, flexibility and self-motivation.",
+    "id": "news-worker-fired-shortly-after-turning-60-sues-for-age-bias-1788293520000",
+    "title": "Worker fired shortly after turning 60 sues for age bias",
+    "link": "https://www.hrdive.com/news/worker-fired-shortly-after-turning-60-sues-for-age-bias/829332/",
+    "summary": "The former employee of Southern Company Services alleged a supervisor had said there were &ldquo;too many people over 60&rdquo; and that those over 60 &ldquo;get sick.&rdquo;",
     "publishedAt": "2026-09-01",
     "source": "HR Dive",
     "tags": [
@@ -331,23 +376,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-physical-ai-1788329210000",
-    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-    "link": "https://www.qbitai.com/2026/09/483097.html",
-    "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-    "publishedAt": "2026-09-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788344012000",
-    "title": " 长剧泄劲，中剧的爆发之年就要来了？ ",
-    "link": "https://www.huxiu.com/article/4888014.html?f=rss",
-    "summary": "本文来自微信公众号： 毒眸 ，编辑：刘南豆，作者：毒眸编辑部 从夹缝求生，到坐上牌桌。 相比于长剧的不温不火，中剧似乎即将迎来最好的时刻。 直观的分账成绩上，年初播出的《繁华落尽》累计分账3200万、《荣华令》2300万、《遮云》2830万。暑期档更是突出，《灵魂摆渡：十年》和《凛冬下的罪恶》两部中剧，云合市占率都超过了50%——让大多数长剧流口水的数据。 不只是眼前的结果，更多蓄势待发的动作，也在共同指向中剧的爆发。自上而下来看，广电总局公示的7月网络剧备案中，中剧的数量多达33部，其中包括不少原来的长剧、网大制片方。平台里爱奇艺力推中剧，不久前成立了中短剧悬疑厂牌“暗流剧场”，定位是“短而烈、强直给”，为激励创作最高分账130%；不少长剧的中腰部、甚至头部流量演员也陆续加入中剧赛道，比如最近传出要演中剧、被粉丝质疑资源降级的敖瑞鹏。 更直接的信号来自于“长改中”，也就是长剧改中剧，根据班宇小说改编、马伊琍主演的悬疑剧《余红》，陈晓和张新成主演的历史传奇剧《秦谜》，据传都将改为单集20分钟左右的中剧播放，这些都是平台今年的重点项目。 在眼下的剧集产业里，中剧已经是少数能调动起平台、制片方、演员和观众各方积极性的内容形态。同时，它有可能成为整合长剧产能、AI影视创作力的产业交汇点。 中剧正在从一种时长概念，变成剧集产业重新配置产能的新支点。力推中剧，或许可以激活国产影视剧的创作活力",
+    "id": "news-ai-agent-1788358307000",
+    "title": " 从好人政治到好制度：AI Agent 也必须经历一次现代化 ",
+    "link": "https://www.huxiu.com/article/4888094.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 人类很长一段历史，都在寻找\"正确的人\"。一个国家希望遇到明君，一个组织希望拥有忠诚的管理者，一个商业体系希望找到值得信任的代理人，一个家庭希望把重要的事情交给可靠的人。只要这个人足够聪明、足够善良、足够克制，许多复杂的问题似乎都会自然得到解决。 这种思维并没有消失，只是今天我们把那个被期待的\"完美主体\"换成了AI。我们希望模型更聪明、更对齐，希望它准确理解指令，不产生幻觉，不被诱导，懂得什么事情该做、什么事情不该做。随着AI Agent开始获得工具、账户、API、资金乃至现实设备的操作能力，这种期待变得越来越强烈，并逐渐凝结成一个看起来非常合理的目标：我们需要一个足够安全、足够可靠、足够听话的Agent。 但如果把时间尺度拉长，这个目标背后其实隐藏着一套非常古老的治理逻辑——我们又一次试图通过寻找\"好主体\"，来解决\"坏结果\"的问题。而现代制度之所以成为现代制度，恰恰始于人类逐渐放弃了这种幻想。 一、早期治理最自然的答案，是寻找一个\"好人\" 当社会规模很小的时候，把秩序建立在个人品德之上并非没有道理。一个部落只有几十个人，一个商业组织只有几个核心成员，决策链只有两三层，人与人之间存在高度重复的长期关系。在这样的环境里，信誉、道德、忠诚和个人判断力本身就是有效的治理机制：领导者足够克制，很多规",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -358,41 +390,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788342343000",
-    "title": "AI公司终于赚钱了，商汤做对了什么？",
-    "link": "https://www.tmtpost.com/8125570.html",
-    "summary": "一套模型+一座Token工厂+一套智能体管控系统，这“三个一”正在成为支撑商汤主营业务持续增长的新型AI生产体系。",
+    "id": "news--1788346537000",
+    "title": "库克和特努斯谁更难？",
+    "link": "https://www.tmtpost.com/8124886.html",
+    "summary": "对于普通人来说，可以喜欢天才的偏执与傲慢，但库克的故事，也许更有参考价值。",
     "publishedAt": "2026-09-02",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-hugging-face-hack-could-indicate-cultural-issues-at-open-1788199200000",
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
-    "publishedAt": "2026-08-31",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-openai-8217-s-astra-model-is-on-the-way-and-very-good-at-bre-1788296784000",
-    "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "publishedAt": "2026-09-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
       "ai"
     ]
   }
@@ -780,6 +787,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137257",
+    "title": "Maintenance Technician 40hrs week",
+    "company": "Delta Hotels by Marriott Edinburgh",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "At Delta Hotels by Marriott, we like to keep things simple and get them done right",
+      "We’re a busy, friendly team, and we’re looking for a handy, reliable Maintenance Team Member to help us keep the hotel looking sharp and running smoothly",
+      "We are looking for a highly motivated person with real \"can d"
+    ],
+    "skills": [],
+    "location": "Edinburgh, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
+    "postedAt": "2026-09-01",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137224",
     "title": "AI Engineer Data APIs",
     "company": "Benzinga",
@@ -1019,40 +1043,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
     "postedAt": "2026-08-25",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137229",
-    "title": "RETAIL STORE MANAGER RIVERLINK",
-    "company": "Spendless Shoes",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Love Shoes, Love Fashion, Love People Join Australia's most successful footwear retailer Earn up to $9000 Incentive scheme Opportunity for Career progression Tu"
-    ],
-    "skills": [],
-    "location": "Ipswich, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-riverlink-spendless-shoes-1137229",
-    "postedAt": "2026-08-25",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137114",
-    "title": "Senior Backend Engineer Build AI Agents",
-    "company": "Salesforge",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Remote - Most sales tools help you send emails",
-      "Please mention the word **EMPATHY**"
-    ],
-    "skills": [
-      "Agent"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-    "postedAt": "2026-08-25",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-02T10:32:32.062Z';
+export const dataFetchedAt = '2026-09-02T15:54:15.966Z';
