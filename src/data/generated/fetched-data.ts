@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-1788361283000",
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "id": "news-openai-s-new-reasoning-technique-alarms-ai-safety-experts-1788380354000",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
     "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
@@ -27,38 +27,50 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adoption-lessons-from-the-nation-s-first-ai-native-health-sy-1788352202000",
-    "title": "Adoption lessons from the nation’s first AI-native health system",
-    "link": "https://hrexecutive.com/adoption-lessons-from-the-nations-first-ai-native-health-system/",
-    "summary": "Jim McGee, chief people officer at health network Akido, shares how the organization navigated physician resistance to AI adoption, and what other industries can learn. The post Adoption lessons from the nation’s first AI-native health system appeared first on HR Executive .",
+    "id": "news-countdown-to-unbundling-what-you-need-to-know-for-2027-1788364629000",
+    "title": "Countdown to Unbundling: What You Need to Know for 2027",
+    "link": "https://hrexecutive.com/countdown-to-unbundling-what-you-need-to-know-for-2027/",
+    "summary": "Date &#038; Time: Wednesday, September 23, 2026 at 2:00 pm ET Join Maven’s Chief Medical Officer and Chief Revenue Officer for an AMA examining how the proposed maternity billing changes could affect employer healthcare costs, 2027 benefits planning and the strategies organizations use to manage maternity care. The post Countdown to Unbundling: What You Need to Know for 2027 appeared first on HR Executive .",
     "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
       "organization"
     ]
   },
   {
-    "id": "news-eeoc-wants-to-end-demographic-reporting-smart-companies-won--1788359520000",
-    "title": "EEOC wants to end demographic reporting. Smart companies won’t stop measuring.",
-    "link": "https://www.hrdive.com/news/eeo-form-rescission-what-now/829331/",
-    "summary": "As the U.S. Equal Employment Opportunity Commission moves to end demographic data reporting, employers must decide if data collection is a matter of compliance or leadership, Catalyst leaders say.",
+    "id": "news-4th-circuit-backs-worker-who-cited-the-bible-in-abstaining-f-1788376320000",
+    "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
+    "link": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
+    "summary": "Federal courts have closely scrutinized the nature of plaintiffs&rsquo; religious beliefs in challenges to employers&rsquo; COVID-19 vaccination mandates.",
     "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news--1788364346000",
-    "title": " 共享算力紧缺红利，本土芯片走向分化 ",
-    "link": "https://www.huxiu.com/article/4888109.html?f=rss",
-    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 半年报披露窗口落幕，在算力紧缺的大环境下，本土AI芯片终于迎来了最好的收入增长期。多家厂商实现同比翻倍甚至数倍增长，而且，从一季度到二季度也是一个加速的过程。 这对应了本土算力建设的飞速增长。据工信部，截至上半年，中国智能算力规模达2185 EFLOPS（FP16），同比增长177%，而按照此前披露的数据计算，仅二季度全国智能算力规模就增加了约303 EFLOPS。 就行业而言，这样的好日子还会持续下去。这是供需矛盾所决定的。美国仍然卡住中国的模型厂商获得英伟达最先进的AI芯片，甚至计划从“管实物”延伸到“管算力使用权”；而本土芯片的产能仍在爬坡，与模型和云厂商的适配与运维也需要进一步磨合。按照信通院的数据，中国AI算力需求的增长速度，差不多是供给增速的3倍多。 云厂商与模型厂商都在抓紧融资。面对AI芯片供给不足，比融资速度更快的，是把钱赶紧花出去。阿里巴巴与腾讯在最近一个季度花掉了超过1200亿元人民币，DeepSeek今年已经向AI算力投入了100多亿。梁文锋认为，国产AI芯片正面临历史机遇，以往短板的CUDA生态可以通过AI编码解决，未来两年的核心瓶颈还是在产能。而吴泳铭则认为紧缺至少持续到2030年。 如果需求和产能继续按照目前的节奏增长，领先的AI芯片企业有望在2027年前后陆续跨过盈亏平衡线。连续大幅亏损的寒武纪，已经在",
+    "id": "news-skyproduction-1788340936000",
+    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+    "link": "https://www.qbitai.com/2026/09/483274.html",
+    "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+    "publishedAt": "2026-09-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-kimi-ipo-1788366602000",
+    "title": " Kimi 启动IPO，赶在市场不再按梦想定价之前 ",
+    "link": "https://www.huxiu.com/article/4888116.html?f=rss",
+    "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating，原文标题：《Kimi 启动 IPO，赶在市场不再按梦想定价之前》 据晚点报道，月之暗面已经以保密形式向港交所递交A1文件，正式启动港股IPO流程。A1是企业申请在港交所上市时提交的正式申请表之一。 几乎同一时间，它还在以500亿美元投前估值推进新一轮融资。这很可能是Kimi上市前的最后一轮私募。 这两个动作放在一起看，事情就不只是「又一家大模型公司要上市了」这么简单了。 2026年很可能是独立大模型公司最后一个还能按科技梦想定价的上市窗口。 让我们回顾一下这一年发生了什么。 1月8日，智谱在港交所挂牌。第二天，MiniMax上市。6月1日，Anthropic秘密向SEC提交S-1注册声明草案，最新计划最快在9月底至10月初上市。6月8日，OpenAI也秘密递交了IPO文件，不过随后倾向把上市时间推迟至2027年。6月12日，SpaceX正式登陆纳斯达克。现在轮到Kimi。 一级市场现在仍然可以按照「基础模型未来会变成什么」给Kimi定价。可一旦上市文件铺开，价格会进入另一套语系。决定它值多少钱的人，从少数几个长期下注的私募投资人，变成公开市场里的机构和散户。 上市前最后一轮的500亿美元估值，可能是Kimi最后一次主要由相信未来的人来定价。 过去三年，价格是怎么被打上去的 从2023年到2026年，独立基础模型公",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -95,59 +107,70 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psa-amazon-8217-s-shopping-ai-can-now-tell-you-if-that-messa-1788360994000",
-    "title": "PSA: Amazon&#8217;s shopping AI can now tell you if that message is a scam",
-    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "id": "news-mapquest-is-now-the-no-1-u-s-app-after-bucking-trump-8217-s--1788379961000",
+    "title": "MapQuest is now the No. 1 U.S. app after bucking Trump&#8217;s &#8216;Lake America&#8217; renaming",
+    "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+    "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
     "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-what-happens-when-people-stop-thinking-the-case-for-behavior-1788351357000",
-    "title": "What happens when people stop thinking: The case for behavioral AI literacy",
-    "link": "https://hrexecutive.com/what-happens-when-people-stop-thinking-the-case-for-behavioral-ai-literacy/",
-    "summary": "Without behavioral AI literacy, AI may not replace human thinking, but if we are not intentional, people may slowly choose to do less of it. The post What happens when people stop thinking: The case for behavioral AI literacy appeared first on HR Executive .",
+    "id": "news-adoption-lessons-from-the-nation-s-first-ai-native-health-sy-1788352202000",
+    "title": "Adoption lessons from the nation’s first AI-native health system",
+    "link": "https://hrexecutive.com/adoption-lessons-from-the-nations-first-ai-native-health-system/",
+    "summary": "Jim McGee, chief people officer at health network Akido, shares how the organization navigated physician resistance to AI adoption, and what other industries can learn. The post Adoption lessons from the nation’s first AI-native health system appeared first on HR Executive .",
     "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-the-wavering-economy-ticks-up-as-a-factor-in-executive-benef-1788359460000",
-    "title": "The wavering economy ticks up as a factor in executive benefits decisions",
-    "link": "https://www.hrdive.com/news/the-wavering-economy-ticks-up-as-a-factor-in-executive-benefits-decisions/829408/",
-    "summary": "Retention and succession planning remain the key priorities, although many companies have no benefits strategies designed to support leadership transition.",
+    "id": "news-cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recrui-1788376320000",
+    "title": "Cotopaxi repays workers at Taiwan mills for predatory recruitment fees",
+    "link": "https://www.hrdive.com/news/cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recruitment-fees/829417/",
+    "summary": "The outdoor apparel and accessories brand has been working to remediate unethical recruitment practices initially identified at two fabric mills in 2024.",
     "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news--1788360517000",
-    "title": " “新势力”除了造车，还在干啥？ ",
-    "link": "https://www.huxiu.com/article/4888102.html?f=rss",
-    "summary": "本文来自微信公众号： 豹变 ，作者：陈法善，编辑：刘杨，原文标题：《「新势力」除了造车，还在干啥？》 都在找“第二曲线”，但造车的主业还得做扎实。 零跑10.3万辆、小鹏3.9万辆、蔚来3.6万辆、理想3.8万辆。这是8月四家造车“新势力”的销量数据，前三家销量与7月基本持平，理想因7月基数较低，8月多卖了约7200辆。 当造车“新势力”的位次逐渐稳定，能让资本市场兴奋的，已经不是每月销量，而是在卖车之外，车企还能做什么。 近日，这四家车企相继发布半年报，折射出各自不同的野心和焦虑。小鹏和零跑同一天交卷，在财报会上，分析师对小鹏追问最多的是机器人；而零跑管理层，则用不少篇幅去介绍出海节奏和Stellantis协同。 四家中，理想是现金储备最多的那个，试图在造车之外，强调自身的AI属性，但分析师的问题最终绕回销量。而刚于9月1日交卷的蔚来，则依靠多品牌矩阵，持续做深造车主业。 新势力的分化，已经从销量，进入到比拼“第二曲线”。 不一样的财报会 这是一场非典型的汽车公司财报电话会。如果不知道这是小鹏汽车的主场，或许会以为这是哪家机器人公司在解读财报。 一开场，摩根士丹利、美银美林等投行分析师就接连追问，全都与小鹏机器人Iron有关：2027年交付目标是多少？量产版单台成本处于什么水平？毛利率多少？什么样的客户会买Iron？ 也不能怪分析师跑题。财报发布当天，小鹏机器人业务官宣完成9亿美",
+    "id": "news-vldb-35pb-5-6-1788330017000",
+    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+    "link": "https://www.qbitai.com/2026/09/483104.html",
+    "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+    "publishedAt": "2026-09-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788365352000",
+    "title": " 从创业国度到战争国度：以色列的战争经济学 ",
+    "link": "https://www.huxiu.com/article/4888115.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一，原文标题：《从创业国度到战争国度——以色列的战争经济学》 从2023年10月开始，以色列已经在战争状态中度过了接近三年。加沙、黎巴嫩、红海、伊朗，战线一轮轮扩大，军费、预备役、重建、疏散和债务融资也随之堆高。 按照以色列银行2026年的估算，2023～2026年的战争财政成本约为3500亿谢克尔，而且这一数字还没有完全计入2026年2月底以后新增的对伊军事开支。 2025年底，以色列公共债务占GDP的比重已经升至68.5%，明显高于战前约60%的水平。 如果只看这些数字，这是一场越来越昂贵的战争。但另一组数字放在一起，画面就变得很不一样。2025年，以色列高科技企业私募融资达到156亿美元，较2024年的122亿美元继续上升；全年科技并购金额达到743亿美元，谷歌以320亿美元收购网络安全公司Wiz，Palo Alto Networks以约250亿美元收购另一家网络安全公司CyberArk。军工出口同样创下纪录，2025年达到192亿美元，比上一年增长接近30%。 于是出现了一个很有意思的财经问题——战争让这个国家越来越贵，为什么它的一部分科技资产也越来越贵？ 答案藏在以色列经济内部越来越明显的分化里。战争给财政、家庭和普通企业留下的是成本，却同时扩大了全球对网络安全、防空、无人系统、人工智能安全和情报技术的需求。更关键的是，以色列",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -179,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adobe-acquires-indian-market-intelligence-startup-rilo-1788357837000",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "id": "news-it-sure-looks-like-hackers-breached-a-major-id-card-verifica-1788377709000",
+    "title": "It sure looks like hackers breached a major ID card verification service",
+    "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+    "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
     "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
@@ -192,35 +215,50 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-the-1788350431000",
-    "title": "Nearly 3 in 4 HR job seekers are looking for roles below their career level",
-    "link": "https://hrexecutive.com/nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-their-career-level/",
-    "summary": "HR has the highest 'downleveling' rate of any industry tracked, with senior job seekers applying below their level and losing pay. The post Nearly 3 in 4 HR job seekers are looking for roles below their career level appeared first on HR Executive .",
+    "id": "news-what-happens-when-people-stop-thinking-the-case-for-behavior-1788351357000",
+    "title": "What happens when people stop thinking: The case for behavioral AI literacy",
+    "link": "https://hrexecutive.com/what-happens-when-people-stop-thinking-the-case-for-behavioral-ai-literacy/",
+    "summary": "Without behavioral AI literacy, AI may not replace human thinking, but if we are not intentional, people may slowly choose to do less of it. The post What happens when people stop thinking: The case for behavioral AI literacy appeared first on HR Executive .",
     "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
-    "id": "news-schedule-flexibility-may-be-key-in-keeping-mothers-in-the-wo-1788359460000",
-    "title": "Schedule flexibility may be key in keeping mothers in the workforce",
-    "link": "https://www.hrdive.com/news/schedule-flexibility-may-be-key-in-keeping-mothers-in-the-workforce/829373/",
-    "summary": "New research questions the belief that what working mothers want most is remote work.",
+    "id": "news-former-golden-state-warriors-employees-allege-retaliation-fo-1788376320000",
+    "title": "Former Golden State Warriors employees allege retaliation for engagement survey responses",
+    "link": "https://www.hrdive.com/news/golden-state-warriors-employees-allege-retaliation-for-engagement-surveys/829425/",
+    "summary": "The plaintiffs said they &ldquo;encountered a workplace marked by discrimination, hostility, and retaliation,&rdquo; while GSW said the allegations were &ldquo;without merit.&rdquo;",
     "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-drg3-0-1788359813000",
-    "title": " DRG3.0官宣：常见病“贬值”、肿瘤重症更值钱，多位医保专家、三甲一线医生独家解读 ",
-    "link": "https://www.huxiu.com/article/4888097.html?f=rss",
-    "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队，原文标题：《DRG 3.0官宣：常见病“贬值”、肿瘤重症更值钱，多位医保专家、三甲一线医生独家解读》 大医院丢掉的，是常见病的钱；拿到的，是复杂病种更高的权重——DRG 3.0，让\"大小通吃\"的日子结束了，但没让大医院的日子变差。 9月2日上午，国家医保局召开新闻发布会，正式发布按病组（DRG）付费、按病种分值（DIP）付费3.0版分组方案——比原定的7月发布时间，晚了一个多月。 DRG核心分组由2.0版的409个增至492个，细分组由634个增至825个；DIP核心病种则从9520个压缩至5125个，接近腰斩。落地时间表一并后移——各地原则上须在2026年12月31日前完成切换准备，2027年3月底前落地应用。 此次国家医保局发布的《关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知》（以下简称“文件”）里，第一次出现了一张国家版清单：158个基层病种。 其中DRG基层病组31个，覆盖高血压、糖尿病、呼吸系统感染等27个内科病组，以及阑尾切除术、腹股沟疝手术、骨科固定装置去除术等技术成熟的一、二级手术。 DIP基层病种127个，包括97个保守治疗组和30个手术操作病种，覆盖呼吸、消化、循环、泌尿等系统的常见病。 清单之外，是一条只有四个字的规则：同病同付。同一个统筹地区内，这些病种无论由一、二、三",
+    "id": "news-qwen3-8-max-1788329426000",
+    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+    "link": "https://www.qbitai.com/2026/09/483101.html",
+    "summary": "",
+    "publishedAt": "2026-09-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788365210000",
+    "title": " 工程退潮之后，环保技术如何变成产品？ ",
+    "link": "https://www.huxiu.com/article/4888113.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：未来更有胜算的路径，公司可以不大，产品必须足够深；工程可以少做，产品必须多卖；边界可以很窄，但在这条边界内必须做到难以替代。 环保行业正在从“项目供给”走向“效率供给”。 用户越来越少为“再建一套东西”买单，却越来越愿意为“少用多少电、少加多少药、少占多少地、多回收多少资源、少配多少人”买单。 于是，一个长期被工程模式遮蔽的问题开始浮出水面： 环保企业掌握的大量技术，到底能不能变成产品？ 对于大量技术型民营环保企业而言，这可能是未来几年最值得认真研究的一条转型路径。 青山研究院长期跟踪环保技术商业化与企业转型案例，我们越来越明显地看到：下一轮环保产业创新，竞争的重点未必是谁还能设计出一套更复杂的工程，而是谁能够把复杂的问题，封装成一个更简单、更稳定、更容易复制的产品。 工程时代退潮 环保企业必须摆脱“一单一做” 工程模式的核心单位是“项目”。 因此，企业的收入增长基本依赖于项目增长。要做到10亿元收入，就需要持续承接足够多的项目，同时配置更多设计人员、项目经理、采购人员、施工人员和区域销售团队。规模越大，组织往往越重。 而产品模式的核心单位是“产品”。 第一次投入大量研发成本以后，第二套、第一百套甚至第一千套产品，可以在较低边际成本下复制。研发一次，销售多次。设计一次，复制多次。解决一类问题，而不是只解决一个项目。 这也",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -256,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-norway-considers-ban-on-camera-enabled-wearable-8216-pervert-1788354707000",
-    "title": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
-    "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-    "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+    "id": "news-delivery-hero-board-backs-uber-8217-s-15b-takeover-bid-1788377135000",
+    "title": "Delivery Hero board backs Uber&#8217;s $15B takeover bid",
+    "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
     "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
@@ -269,38 +307,49 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-healthcare-costs-ai-adoption-drive-employee-benefits-strateg-1788349504000",
-    "title": "Healthcare costs, AI adoption drive employee benefits strategy",
-    "link": "https://hrexecutive.com/healthcare-costs-ai-adoption-drive-employee-benefits-strategy/",
-    "summary": "The employee benefits market is increasingly shaped by trends that include regulatory volatility, shifting compliance priorities, accelerated cost pressures and ever-evolving workplace demands. The post Healthcare costs, AI adoption drive employee benefits strategy appeared first on HR Executive .",
+    "id": "news-nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-the-1788350431000",
+    "title": "Nearly 3 in 4 HR job seekers are looking for roles below their career level",
+    "link": "https://hrexecutive.com/nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-their-career-level/",
+    "summary": "HR has the highest 'downleveling' rate of any industry tracked, with senior job seekers applying below their level and losing pay. The post Nearly 3 in 4 HR job seekers are looking for roles below their career level appeared first on HR Executive .",
     "publishedAt": "2026-09-02",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-almost-half-the-time-spent-on-ai-is-on-fixing-its-output-bam-1788359400000",
-    "title": "Almost half the time spent on AI is on fixing its output, BambooHR says",
-    "link": "https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/",
-    "summary": "U.S. employees still remain largely positive about the technology at work, though younger workers are wary that it could limit their growth potential.",
+    "id": "news-eeoc-wants-to-end-demographic-reporting-smart-companies-won--1788359520000",
+    "title": "EEOC wants to end demographic reporting. Smart companies won’t stop measuring.",
+    "link": "https://www.hrdive.com/news/eeo-form-rescission-what-now/829331/",
+    "summary": "As the U.S. Equal Employment Opportunity Commission moves to end demographic data reporting, employers must decide if data collection is a matter of compliance or leadership, Catalyst leaders say.",
     "publishedAt": "2026-09-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news--1788359362000",
-    "title": " 冲击“工业三万亿俱乐部”，又一座地级市来了 ",
-    "link": "https://www.huxiu.com/article/4888096.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 对手凶猛，谁先过线？ 又一座城市明确了冲击“工业三万亿俱乐部”的时间表。 据当地媒体报道，东莞“十五五”规划纲要正式公布，其中明确：到2030年，力争地区生产总值突破1.7万亿元；全市规模以上工业总产值超3万亿元。 “工业3万亿”是什么概念？作为衡量头部城市制造业发展水平的重要指标，这一体量超过全国约一半的省份，含金量不言而喻。 梳理公开报道，这不是东莞第一次喊出“3万亿”目标。 早在2024年初，兄弟城市佛山曾官宣成为全国第二个、广东首个“工业3万亿”地级市，同期东莞2024年市政府一号文明确提出：力争到2027年底，规上工业总产值超过3万亿元。 对比两次目标制定，从力争2027年底到最新明确的“十五五”期末，东莞瞄准的“工业3万亿”，将短期冲刺调整为一个更长期稳步达成的目标，压力同样不容小觑。 放眼全国，包括武汉、常州、无锡等在内，同步争夺下一个“工业3万亿”的城市不在少数。新一轮工业能级追逐战“打响”，东莞能否在激烈竞争中突围？又将如何推动“世界工厂”价值重塑？ 1 压力 作为广东省内两大制造业重镇，东莞与佛山常年“贴身肉搏”，从工业实力到经济规模均是两地比拼的焦点。也因此，早在佛山官宣达成“工业3万亿”时，外界就开始关注东莞的时间表。 如今两年多过去，东莞的追赶交出阶段性“答卷”——2025年，东莞规上工业总产值跃居广东全省",
+    "id": "news-physical-ai-1788329210000",
+    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+    "link": "https://www.qbitai.com/2026/09/483097.html",
+    "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+    "publishedAt": "2026-09-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788365200000",
+    "title": " 我想知道：安检设备不报警，旅客还要不要人工再检？ ",
+    "link": "https://www.huxiu.com/article/4888112.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔 我经常出差，坐飞机，安检。过去一直以为，通过人身安检设备进行检查而没有报警，就可以直接走了，无须人工再检。多数时候安检设备都会响，基本都是皮带引致，这时人工检查员就用手工再检。 有时我通过了安检设备，没有报警，也会有人工来查。但这种情况极少，无论国内还是国外。 8月26日，我从华东某市机场出发，该市GDP在省里排第二，去年为5000多亿元。 我穿着T恤和没有皮带的运动长裤、运动鞋，安检设备没有报警声，但人身检查员让我过去，检得特别仔细。 我说：不报警还需要检查吗？ 她回答：100%要检。 检完，我随口问了下千问，“在飞机场过安检的时候，如果身上一点点都没有响，也需要摸身检查吗？” 千问回答：通常情况下，如果过安检门时设备没有报警，安检人员不需要对您进行摸身（手工人身）检查。 千问说，根据《民用航空安全检查规则》及相关安检操作规范，人身检查的具体流程如下： 1.常规过检：旅客依次通过人身安检设备（如金属探测门或毫米波门）。如果设备检查不报警，旅客通常可以直接放行； 2.随机抽查：虽然设备没有报警，但安检机构仍有权对不报警的旅客进行随机抽查，这是为了防范未知风险而设立的机制，并非针对个人。 3.必须摸身检查的情况：只有当通过人身安检设备检查报警时，安检员才会采取手持金属探测器复查或手工人身检查的方法，排除疑点后方可放行。 我给检查员读了几",
     "publishedAt": "2026-09-02",
     "source": "虎嗅",
     "tags": [
@@ -337,69 +386,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adobe-is-making-its-tools-available-in-slack-1788354567000",
-    "title": "Adobe is making its tools available in Slack",
-    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-    "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+    "id": "news-pangram-8217-s-max-spero-on-why-ai-detection-is-harder-than--1788369493000",
+    "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
     "publishedAt": "2026-09-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-more-young-workers-are-saying-no-thanks-to-becoming-mana-1788348656000",
-    "title": "Why more young workers are saying ‘no thanks’ to becoming managers",
-    "link": "https://hrexecutive.com/why-more-young-workers-are-saying-no-thanks-to-becoming-managers/",
-    "summary": "Recent research finds that individual contributors increasingly want to avoid moving into management. How can HR turn the trend around? The post Why more young workers are saying ‘no thanks’ to becoming managers appeared first on HR Executive .",
-    "publishedAt": "2026-09-02",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-worker-fired-shortly-after-turning-60-sues-for-age-bias-1788293520000",
-    "title": "Worker fired shortly after turning 60 sues for age bias",
-    "link": "https://www.hrdive.com/news/worker-fired-shortly-after-turning-60-sues-for-age-bias/829332/",
-    "summary": "The former employee of Southern Company Services alleged a supervisor had said there were &ldquo;too many people over 60&rdquo; and that those over 60 &ldquo;get sick.&rdquo;",
-    "publishedAt": "2026-09-01",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-agent-1788358307000",
-    "title": " 从好人政治到好制度：AI Agent 也必须经历一次现代化 ",
-    "link": "https://www.huxiu.com/article/4888094.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 人类很长一段历史，都在寻找\"正确的人\"。一个国家希望遇到明君，一个组织希望拥有忠诚的管理者，一个商业体系希望找到值得信任的代理人，一个家庭希望把重要的事情交给可靠的人。只要这个人足够聪明、足够善良、足够克制，许多复杂的问题似乎都会自然得到解决。 这种思维并没有消失，只是今天我们把那个被期待的\"完美主体\"换成了AI。我们希望模型更聪明、更对齐，希望它准确理解指令，不产生幻觉，不被诱导，懂得什么事情该做、什么事情不该做。随着AI Agent开始获得工具、账户、API、资金乃至现实设备的操作能力，这种期待变得越来越强烈，并逐渐凝结成一个看起来非常合理的目标：我们需要一个足够安全、足够可靠、足够听话的Agent。 但如果把时间尺度拉长，这个目标背后其实隐藏着一套非常古老的治理逻辑——我们又一次试图通过寻找\"好主体\"，来解决\"坏结果\"的问题。而现代制度之所以成为现代制度，恰恰始于人类逐渐放弃了这种幻想。 一、早期治理最自然的答案，是寻找一个\"好人\" 当社会规模很小的时候，把秩序建立在个人品德之上并非没有道理。一个部落只有几十个人，一个商业组织只有几个核心成员，决策链只有两三层，人与人之间存在高度重复的长期关系。在这样的环境里，信誉、道德、忠诚和个人判断力本身就是有效的治理机制：领导者足够克制，很多规",
-    "publishedAt": "2026-09-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788346537000",
-    "title": "库克和特努斯谁更难？",
-    "link": "https://www.tmtpost.com/8124886.html",
-    "summary": "对于普通人来说，可以喜欢天才的偏执与傲慢，但库克的故事，也许更有参考价值。",
-    "publishedAt": "2026-09-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   }
@@ -804,6 +799,23 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
+    "id": "job-remoteok-1137283",
+    "title": "Rural and Suburban Mail Carrier",
+    "company": "Canada Post / Postes Canada",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Job Requisition Id: 203143 Business Function: Rural and Suburban Mail Carriers Primary City: Blind River Province: Ontario Employment Type: Full-Time Employment"
+    ],
+    "skills": [
+      "AWS"
+    ],
+    "location": "Blind River, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283",
+    "postedAt": "2026-08-31",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137224",
     "title": "AI Engineer Data APIs",
     "company": "Benzinga",
@@ -1026,24 +1038,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
     "postedAt": "2026-08-25",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137126",
-    "title": "Rural and Suburban Mail Carrier Allan RR1",
-    "company": "Canada Post / Postes Canada",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Requisition Id: 202867 Business Function: Rural and Suburban Mail Carriers Primary City: Allan Province: Saskatchewan Employment Type: Full-Time Employment "
-    ],
-    "skills": [
-      "AWS"
-    ],
-    "location": "Allan, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
-    "postedAt": "2026-08-25",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-02T15:54:15.966Z';
+export const dataFetchedAt = '2026-09-02T20:27:57.924Z';

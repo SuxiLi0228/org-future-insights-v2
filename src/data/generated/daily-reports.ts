@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-03-auto",
+    "date": "2026-09-03",
+    "session": "auto",
+    "title": "2026-09-03 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-03-auto-1",
+        "emoji": "💡",
+        "title": "Facilitating AI integration with simplicity at scale",
+        "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+        "detail": "来源: MIT Technology Review。As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+      },
+      {
+        "id": "sig-2026-09-03-auto-2",
+        "emoji": "⚠️",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "detail": "来源: TechCrunch。OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+      },
+      {
+        "id": "sig-2026-09-03-auto-3",
+        "emoji": "🚨",
+        "title": "Countdown to Unbundling: What You Need to Know for 2027",
+        "summary": "Date &#038; Time: Wednesday, September 23, 2026 at 2:00 pm ET Join Maven’s Chief Medical Officer and Chief Revenue Officer for an AMA examining how the proposed maternity billing changes could affect employer healthcare costs, 2027 benefits planning and the strategies organizations use to manage maternity care. The post Countdown to Unbundling: What You Need to Know for 2027 appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Wednesday, September 23, 2026 at 2:00 pm ET Join Maven’s Chief Medical Officer and Chief Revenue Officer for an AMA examining how the proposed maternity billing changes could affect employer healthcare costs, 2027 benefits planning and the strategies organizations use to manage maternity care. The post Countdown to Unbundling: What You Need to Know for 2027 appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/countdown-to-unbundling-what-you-need-to-know-for-2027/"
+      },
+      {
+        "id": "sig-2026-09-03-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Su...",
+        "summary": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai",
+        "detail": "作者: Himil Vasava, Ming Jiang。LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturbation taxonomy across the Readability and Adequacy dimensions of NLG quality, a generation pipeline that produces paired clean and corrupt summaries with controlled error intensity and explicit token-level modification maps, and a four-experiment battery of causal tracing, logit-lens vocabulary projection, and attention-head knockout applied to Themis (Llama-3-8B) and Prometheus (Mistral-7B). Both evaluators implement a structured, coherent evaluation pipeline operating in two stages: below layer",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.01604v1"
+      },
+      {
+        "id": "sig-2026-09-03-auto-5",
+        "emoji": "💼",
+        "title": "Delta Hotels by Marriott Edinburgh 正在招募 Maintenance Technician 40hrs week",
+        "summary": "岗位类型：业务+AI 复合岗。At Delta Hotels by Marriott, we like to keep things simple and get them done right",
+        "detail": "技能要求: 未标注。At Delta Hotels by Marriott, we like to keep things simple and get them done right We’re a busy, friendly team, and we’re looking for a handy, reliable Maintenance Team Member to help us keep the hotel looking sharp and running smoothly We are looking for a highly motivated person with real \"can d",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Delta Hotels by Marriott Edinburgh"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Delta Hotels by Marriott Edinburgh",
+        "link": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-03-1",
+        "priority": "low",
+        "action": "关注「Facilitating AI integration with simplic」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-03-2",
+        "priority": "medium",
+        "action": "关注「OpenAI’s new reasoning technique alarms 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-03-3",
+        "priority": "high",
+        "action": "关注「Countdown to Unbundling: What You Need t」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-03-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Beyond Scores: Understanding LLM-as」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-03-5",
+        "priority": "medium",
+        "action": "关注「Delta Hotels by Marriott Edinburgh 正在招募 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Delta Hotels by Marriott Edinburgh"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 65,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-03 生成，聚合了 30 条新闻、20 篇论文、15 个岗位。",
+    "fetchWindow": "2026-09-03 00:00 - 2026-09-03 23:59"
+  },
+  {
     "id": "report-2026-09-02-auto",
     "date": "2026-09-02",
     "session": "auto",
