@@ -2,6 +2,98 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-rethinking-child-safety-and-fossil-fueled-farmi-1788437400000",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
+    "publishedAt": "2026-09-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-google-8217-s-latest-ai-weather-model-gives-you-no-excuse-to-1788447600000",
+    "title": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding [&#8230;]",
+    "publishedAt": "2026-09-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-uber-cuts-10-of-workforce-tightens-return-to-office-rules-1788438600000",
+    "title": "Uber cuts 10% of workforce, tightens return-to-office rules",
+    "link": "https://hrexecutive.com/uber-cuts-10-of-workforce-tightens-return-to-office-rules/",
+    "summary": "Uber lays off 3,300 employees in its third 2026 restructuring, cutting management layers and reinforcing its in-office policy. The post Uber cuts 10% of workforce, tightens return-to-office rules appeared first on HR Executive .",
+    "publishedAt": "2026-09-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-data-center-employers-face-acute-shortage-of-skilled-workers-1788445260000",
+    "title": "Data center employers face acute shortage of skilled workers, report finds",
+    "link": "https://www.hrdive.com/news/data-center-employers-face-acute-shortage-of-skilled-workers/829537/",
+    "summary": "Recruiting from adjacent sectors like telecommunications and utility grid operations can help build a sustainable talent pipeline, Kelly Services said.",
+    "publishedAt": "2026-09-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-token-cs-1788435128000",
+    "title": "“没有Token的CS学生，应立即退学”",
+    "link": "https://www.qbitai.com/2026/09/483839.html",
+    "summary": "禁止古法编程、Token自费",
+    "publishedAt": "2026-09-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788445225000",
+    "title": " 医药公司，别再扎堆港股上市了 ",
+    "link": "https://www.huxiu.com/article/4888414.html?f=rss",
+    "summary": "本文来自微信公众号： Bio新势力 ，作者：张远航 晚上十一点多，一位医药投资人给我发来一张截图。 不是临床数据，也不是License-out的首付款。 是一只港股医药公司的分时图。 一整天，成交额两千多万港元。 “这家公司一级市场最后一轮融资的时候，多少机构抢着进。”他说，“现在上市了，一天成交的钱，还没有以前一个基金想投它的钱多。” 这可能是中国Biotech最荒诞的一幕。 一边，是越来越长的港股IPO队伍。 截至2026年7月底，港交所年内累计处理838宗IPO申请。钟声已经为131宗申请敲响，但还有485宗仍在处理中，另有12宗已经通过上市委员会、等待敲钟。 Biotech也在往这扇门里挤。 2018年，18A第一次为尚未满足传统财务资格测试的Biotech打开港股的大门。八年过去，截至2026年初，已经有超过80家公司从这扇门走进二级市场。 问题是，当越来越多公司挤进来以后，市场的钱和注意力，够不够分？ 另一边，则是上市之后迅速降温的现实。 公司终于有了股票代码。创始人敲了钟。投资人拿到了“退出通道”。但几个月以后，大家突然发现，门是打开了，路却没有想象中那么宽。 这也是《Bio新势力》想对准备赴港上市的医药公司说的一句话：如果不是非上不可，2026年的这个时间点，真的没必要再扎堆去香港上市。 问题不在于港股好不好，而是对很多Biotech而言，“能上市”和“应该上市”，",
+    "publishedAt": "2026-09-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1-3-1788438611000",
+    "title": "被1.3亿张弃权票终止后，华峰化学带着更贵的收购方案二度“闯关” | 并购一线",
+    "link": "https://www.tmtpost.com/8127852.html",
+    "summary": "倘若本次再度在股东大会折戟，2019年作出的同业竞争注入承诺将面临二次违约。",
+    "publishedAt": "2026-09-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-agriculture-relies-on-fossil-fuels-it-s-costing-us-1788429600000",
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
@@ -15,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-builders-stage-brings-practical-strategies-for-scaling-s-1788390060000",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-    "publishedAt": "2026-09-02",
+    "id": "news-volunteer-at-techcrunch-founder-summit-in-boston-1788440400000",
+    "title": "Volunteer at TechCrunch Founder Summit in Boston",
+    "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "summary": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get [&#8230;]",
+    "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -28,16 +120,105 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-countdown-to-unbundling-what-you-need-to-know-for-2027-1788364629000",
-    "title": "Countdown to Unbundling: What You Need to Know for 2027",
-    "link": "https://hrexecutive.com/countdown-to-unbundling-what-you-need-to-know-for-2027/",
-    "summary": "Date &#038; Time: Wednesday, September 23, 2026 at 2:00 pm ET Join Maven’s Chief Medical Officer and Chief Revenue Officer for an AMA examining how the proposed maternity billing changes could affect employer healthcare costs, 2027 benefits planning and the strategies organizations use to manage maternity care. The post Countdown to Unbundling: What You Need to Know for 2027 appeared first on HR Executive .",
-    "publishedAt": "2026-09-02",
+    "id": "news-dol-warns-employers-of-tobacco-wellness-program-rule-conflic-1788437736000",
+    "title": "DOL warns employers of tobacco wellness program rule conflict",
+    "link": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
+    "summary": "Regulators will hold off from punishing employers that made a reasonable effort to follow the rules. The post DOL warns employers of tobacco wellness program rule conflict appeared first on HR Executive .",
+    "publishedAt": "2026-09-03",
     "source": "HR Executive",
     "tags": [
       "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-employees-say-only-60-of-onboarding-materials-are-necessary-1788445200000",
+    "title": "Employees say only 60% of onboarding materials are necessary",
+    "link": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
+    "summary": "Workers receive an average of 13 onboarding documents in their first week, an Adobe survey found.",
+    "publishedAt": "2026-09-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
       "ai-hr",
-      "organization"
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-workbuddy-100-1788434729000",
+    "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+    "link": "https://www.qbitai.com/2026/09/483786.html",
+    "summary": "眼镜、耳机、麦克风都来了",
+    "publishedAt": "2026-09-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788444633000",
+    "title": " 中国製の進撃，从救命电源到机器人，日本人靠上中国制造 ",
+    "link": "https://www.huxiu.com/article/4888412.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，原文标题：《中国製の進撃！从救命电源到机器人，日本人靠上中国制造》 去过日本的人可能都有一种感受： 这地方有一种机械朋克的质感：回转寿司的传送带可以设计得飞快，找零机数硬币又快又准，那种极致的机械感，让人觉得很精密。 但一说到智能化，又差了不是一点半点。 但有一件事是例外，对待机器人，日本的接受速度快得惊人。 日本最大的家庭餐厅连锁集团，从2022年起就往全日本的门店里配机器人，约2100家门店，铺了3000台配餐机器人。收盘快了，高峰期的翻台率上去了，店员每天也少走了很多路，老板和店员都挺开心。 而这些帮他们送餐、收盘子的机器人，来自中国。 卖这些机器人的渠道商也很有意思。 日本软银，曾经的机器人狂热爱好者：自己造过Pepper，一度是日本机器人的门面；还买下过美国的波士顿动力，就是那个启蒙了王兴兴等一代机器人创业者的传奇公司。 现在，它自己不造了，转身做起了中国机器人的日本经销商。 图｜软银机器人代理了包括普渡、众擎两家中国机器人公司在日本的销售，其他机器人产品来自日本和挪威等 连最新的人形机器人都用上了。 2026年5月，日本航空在羽田机场引入人形机器人，在大型客机机腹下面搬行李，往传送带上装货。人形机器人产业眼下最愁的就是落地场景，全世界都在找，日本却把它放进了机场这种不能出错的地方，这还是全球最繁忙的机场之一。 这次上",
+    "publishedAt": "2026-09-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-otc-1788436181000",
+    "title": "创新药概念点火、两连板后迅速降温，小方制药底色仍是OTC老生意",
+    "link": "https://www.tmtpost.com/8127757.html",
+    "summary": "一家主打开塞露、甘油灌肠剂、炉甘石洗剂等家庭常备OTC外用药的传统药企，因为一项尚处在临床前阶段的在研项目，被市场贴上创新药标签，引来资金蜂拥入场。",
+    "publishedAt": "2026-09-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-scaling-agentic-ai-pilots-across-the-enterprise-1788427832000",
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
+    "publishedAt": "2026-09-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tiktok-comments-are-getting-more-interactive-with-voice-comm-1788440400000",
+    "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+    "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+    "summary": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
+    "publishedAt": "2026-09-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-match-group-8217-s-cpo-rebuilt-talent-growth-after-flatt-1788436805000",
+    "title": "How Match Group&#8217;s CPO rebuilt talent growth after flattening the org",
+    "link": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
+    "summary": "This HR head removed a quarter of his managers, then watched employees redesign how skill, not time in role, earns pay and growth at work. The post How Match Group&#8217;s CPO rebuilt talent growth after flattening the org appeared first on HR Executive .",
+    "publishedAt": "2026-09-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
     ]
   },
   {
@@ -68,24 +249,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-01-1788431759000",
-    "title": " 中国大模型简史01：模型越做越大，却没人知道它该变成什么 ",
-    "link": "https://www.huxiu.com/article/4888341.html?f=rss",
-    "summary": "本文来自微信公众号： AI资本观 ，作者：邵神 2026年夏末，AI早已无处不在。 站在今天回头看，很多事情已经显得顺理成章。大模型当然要越做越大，公司当然要抢算力、做产品、争用户；模型越来越便宜以后，当然会有人做开放生态、做Agent，再把AI带进真正的工作。 可这些“当然”，曾经都不是当然。 把时间拨回几年前，有人把大模型想成一座“发电厂”，希望把数据变成智能，再输送给无数应用；有人想把AI从“作坊式”带进工业生产；有人相信知识应该成为模型理解世界的基础；还有人已经决定拿钱创业，却连第一款产品究竟应该做什么都不知道。 今天看，他们像是在走向同一个未来。 当时不是。 他们面对的是一片还没有名字的地方。有人后来站到了牌桌中央，有人改了方向，有人离开了牌桌；一些当时很有道理的判断后来错了，一些并不被看好的选择却活了下来。 这已经足够精彩。所以我们想重新梳理一遍，写一遍，就叫《中国大模型简史》。 不是做一张大事记，也不是几家明星公司的胜负录。我们更想知道，一个模型为什么会在那个时候被做出来，一个人为什么会做出那样的选择，而新的技术、算力、资本和用户，又怎样一次次改变这些选择。 这当然也不是一部英雄史。 真正值得留下的，是人在还不知道答案的时候，怎样理解眼前正在发生的事情，为什么会那样相信、那样下注，又怎样被后来出现的新事实逼着重新选择。 真正开始研究以后，我们发现，资料其实并不缺。更容",
+    "id": "news--1788444162000",
+    "title": " 退休人员上山下乡，广阔天地大有作为 ",
+    "link": "https://www.huxiu.com/article/4888410.html?f=rss",
+    "summary": "本文来自微信公众号： 纯科学 ，作者：纯科学 中国经济过去几十年的持续增长基础是城市化。 中国经济未来几十年的持续增长基础是郊区化。 中国当前经济中存在的大量问题，例如消费不足、内卷、人口问题等，全都是与中国没有顺应“郊区化”和“逆城市化”客观发展趋势而导致的。解决这个卡点的重要路径之一，就是以“退休人员上山下乡”为主流的郊区化方案。 著名学者钱文忠曾有一个非常重要的观点：中国改革开放后最核心的一批骨干正是当年上山下乡的知青，包括第一批创业者甚至我们今天的领导人都是知青出身。他们通过这段经历了解了真正中国的国情，锻炼了综合的能力，是中国改革开放后大发展的重大红利之一。 今天，一场新的退休人员上山下乡，将再造中国新时期的发展红利。 一切经济学都应当是发展经济学，如果不是，那就是没找到进一步发展的方向。所谓发展经济学就是发展到哪个阶段，对应的经济学规律是不一样的，必须顺应这个阶段的发展规律来考虑经济政策。如果违背或无视当前的发展阶段，就必然带来严重的问题。中国明摆着已经走到“郊区化”和“逆城市化”的阶段了，无论学术界还是政府层面却对此几乎完全无视，总在其他方面乱转，这是找不到解决办法的根本原因所在。 所谓“消费不足”纯属假象，不是没钱消费，也不是没有消费的欲望，而是城市根本就没有消费的物理空间。这不是什么经济学问题，而已经是几何学问题了。 奇怪的是，中国学术界从20世纪80年代就开始研",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-1000-1788430340000",
-    "title": "市值蒸发超1000亿，芯原股份，遭遇“戴维斯双杀”",
-    "link": "https://www.tmtpost.com/8126525.html",
-    "summary": "故事还能讲多久？",
+    "id": "news-latr-1788435672000",
+    "title": "LATR模式之外，希音的产业创新飞轮",
+    "link": "https://www.tmtpost.com/8126986.html",
+    "summary": "港交所上市为希音打开了新的发展阶段，下一阶段衡量其增长的维度，不仅是能够触达多少消费者，也包括这套技术能力能够服务多少工厂、品牌与区域市场。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -96,11 +276,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scaling-agentic-ai-pilots-across-the-enterprise-1788427832000",
-    "title": "Scaling agentic AI pilots across the enterprise",
-    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
-    "publishedAt": "2026-09-03",
+    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "publishedAt": "2026-09-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -108,11 +288,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-palo-alto-networks-paid-500m-for-thrive-backed-console-sourc-1788389096000",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "publishedAt": "2026-09-02",
+    "id": "news-nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion-1788439365000",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -121,17 +301,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adoption-lessons-from-the-nation-s-first-ai-native-health-sy-1788352202000",
-    "title": "Adoption lessons from the nation’s first AI-native health system",
-    "link": "https://hrexecutive.com/adoption-lessons-from-the-nations-first-ai-native-health-system/",
-    "summary": "Jim McGee, chief people officer at health network Akido, shares how the organization navigated physician resistance to AI adoption, and what other industries can learn. The post Adoption lessons from the nation’s first AI-native health system appeared first on HR Executive .",
-    "publishedAt": "2026-09-02",
+    "id": "news-performance-measurement-may-be-missing-your-best-workers-1788435954000",
+    "title": "Performance measurement may be missing your best workers",
+    "link": "https://hrexecutive.com/performance-measurement-may-be-missing-your-best-workers/",
+    "summary": "Sometimes, performance management systems miss workers who are unchallenged and need a chance; managers should be aware of it. The post Performance measurement may be missing your best workers appeared first on HR Executive .",
+    "publishedAt": "2026-09-03",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
@@ -162,10 +340,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788430735000",
-    "title": " 多家洋酒巨头年报的秘密：“扩张型架构”正在消失 ",
-    "link": "https://www.huxiu.com/article/4888339.html?f=rss",
-    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 近年来，保乐力加、帝亚吉欧、人头马君度等洋酒巨头相继推出全新转型计划，涉及架构重整、战略优化、资产剥离和人员精简等多个层面。此番调整力度之大、范围之广，为近十年所罕见。 “大象转身”牵一发而动全身，每家企业的战略选择都折射出其对行业走向的深层判断。而当多家头部公司几乎同步启动转型，便不再是个案，而是昭示着整个行业的深度调整。 01 转型两大关键词：聚焦和精简 烈酒商业在梳理了三家公司的转型策略后发现，虽然转向路径各有侧重，但均指向2个方向：重新梳理业务板块，将资源向确定性更高的业务集中；进行运营效率提升，精简优化非核心业务。 保乐力加率先开启转型，以“Fit for Future”效率提升计划为主线，目标是到2029财年实现10亿欧元的降本增效。 该计划的重要动作包括，2025年中期将旗下品牌拆分为黄金Gold与水晶Crystal两大事业部。Gold事业部囊括了马爹利、芝华士、尊美醇等陈年烈酒及高端香槟，这些品牌在关键市场的渠道根基和品牌溢价能力经过多年积累，是集团利润的基本盘。Crystal事业部则聚焦绝对伏特加、金酒及即饮产品线，瞄准年轻消费群体和即饮场景。两条线切割清晰，各自按不同的商业逻辑运转。此外，保乐力加也在接连出售美国玛姆纳帕起泡酒、肯伍德酒庄、杰卡斯等非核心资产。 据了解，马爹利将更加偏向亲民价格和新兴价格的产品，从而",
+    "id": "news--1788443763000",
+    "title": " 网吧“悄然”复兴 ",
+    "link": "https://www.huxiu.com/article/4888407.html?f=rss",
+    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 你多久没去过网吧了？ 你多久没去过网吧了？ 对很多人来说，这个问题甚至需要想上一会儿。上一次推开网吧的玻璃门，可能还是学生时代：几十台电脑挤在一间屋子里，键盘声此起彼伏，空气里混着泡面、香烟和汗味。有人通宵打《英雄联盟》，有人和朋友开黑，也有人只是因为家里没有一台性能足够好的电脑，才花几块钱买上两个小时。 后来，电脑逐渐走进普通家庭，智能手机又把游戏、社交和视频塞进了口袋。曾经遍布学校、商业街和居民区附近的网吧开始一批批消失。对很多人而言，“网吧”也像街机厅、录像厅一样，慢慢变成了一种带着年代感的记忆。 照常理说，这应该是一个已经写到结尾的故事。可最近几年，剧情却悄悄拐了个弯。 你可能已经很久没去网吧，却会发现一些城市里重新冒出了电竞馆、电竞酒店和装修越来越精致的网咖；商场里出现电竞专区，热门游戏上线时，一些门店甚至重新出现满座。更值得注意的是，这并不只是体感上的“回暖”。 中国互联网上网服务行业协会发布的数据显示，2023年至2025年，我国网吧数量从约7.77万家增长至12.26万家，行业营收规模也从534亿元增长至1016.8亿元。全国上网服务市场主体数量达到12.26万家，同比增长12.68%，全年总消费人次达到55.71亿次。 而在此之前，2016年至2023年，全国网吧数量曾从15.2万家锐减至7.7万家，折",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
@@ -175,104 +353,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-57-95-ai3d-minimax-1788430325000",
-    "title": "半年狂揽57亿，95后创业做AI3D，曾是商汤、MiniMax元老",
-    "link": "https://www.tmtpost.com/8127562.html",
-    "summary": "VAST完成30亿元B轮和B+轮融资。",
-    "publishedAt": "2026-09-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
-    "title": "Facilitating AI integration with simplicity at scale",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
-    "publishedAt": "2026-09-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-n-1788387849000",
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "publishedAt": "2026-09-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-what-happens-when-people-stop-thinking-the-case-for-behavior-1788351357000",
-    "title": "What happens when people stop thinking: The case for behavioral AI literacy",
-    "link": "https://hrexecutive.com/what-happens-when-people-stop-thinking-the-case-for-behavioral-ai-literacy/",
-    "summary": "Without behavioral AI literacy, AI may not replace human thinking, but if we are not intentional, people may slowly choose to do less of it. The post What happens when people stop thinking: The case for behavioral AI literacy appeared first on HR Executive .",
-    "publishedAt": "2026-09-02",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-former-golden-state-warriors-employees-allege-retaliation-fo-1788376320000",
-    "title": "Former Golden State Warriors employees allege retaliation for engagement survey responses",
-    "link": "https://www.hrdive.com/news/golden-state-warriors-employees-allege-retaliation-for-engagement-surveys/829425/",
-    "summary": "The plaintiffs said they &ldquo;encountered a workplace marked by discrimination, hostility, and retaliation,&rdquo; while GSW said the allegations were &ldquo;without merit.&rdquo;",
-    "publishedAt": "2026-09-02",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-awe3-7-1788405403000",
-    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-    "link": "https://www.qbitai.com/2026/09/483565.html",
-    "summary": "从工厂一路干到家庭",
-    "publishedAt": "2026-09-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788430571000",
-    "title": " 一个反常现象：外国科技圈开始往中国跑 ",
-    "link": "https://www.huxiu.com/article/4888336.html?f=rss",
-    "summary": "本文来自微信公众号： 凌霄-科技投资人 ，作者：凌霄 二十年前，中国企业家去美国，最重要的一站是硅谷。去Google看互联网，去苹果看产品，去斯坦福看创新，去Sand Hill Road看风险投资。 那时候，全世界对科技产业有一套非常清晰的分工：美国负责发明，中国负责制造。 但二十年后，一个很有意思的现象出现了，方向开始反过来。路透社9月3日报道，越来越多海外投资人、创业者和企业高管正在专程前往深圳、杭州、上海、北京、合肥，参观中国的人工智能、机器人、电动车和先进制造企业，而且这已经不是零散的个人旅行，甚至开始形成一门生意。 上海研究机构Baiguan组织的五天科技考察，收费最高达到1.5万美元；另一家上海科技考察机构GloPen表示，2026年的咨询量增长了50%，客户主要来自欧洲和新加坡，目前每个月要组织超过100场单日企业参访。甚至连参观工厂本身，都变成了一种稀缺资源。小米北京汽车工厂从2024年3月至今，已经接待超过25万名访客，一些通过抽签获得的参观名额，在网上甚至被炒到了2000元人民币。 这些人花几千甚至上万美元飞到中国，不是为了参观一座普通工厂。他们真正想知道的是：为什么中国科技公司的速度这么快？ 这可能才是今天全球科技竞争正在发生的最大变化之一。因为过去大家研究中国，研究的是为什么中国能把东西造得这么便宜；今天越来越多人研究的却是，为什么中国能把一个想法这么快变成",
-    "publishedAt": "2026-09-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1788430184000",
-    "title": "星宇股份国内第二大竞争对手，强势出手",
-    "link": "https://www.tmtpost.com/8126090.html",
-    "summary": "借机弯道超车?",
+    "id": "news-ai-ai-1788434771000",
+    "title": "中国儒意连推三款AI产品，首次打通AI创作链路｜独家",
+    "link": "https://www.tmtpost.com/8127550.html",
+    "summary": "战投爱诗科技后，中国儒意三款AI产品集中曝光，AI内容生成赛道迎来“游戏系”玩家。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -295,108 +379,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-spared-from-ad-business-breakup-but-judge-orders-chan-1788385114000",
-    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-    "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-    "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-    "publishedAt": "2026-09-02",
+    "id": "news-amazon-8217-s-zoox-expands-its-robotaxi-service-to-las-vegas-1788437576000",
+    "title": "Amazon&#8217;s Zoox expands its robotaxi service to Las Vegas airport",
+    "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+    "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-the-1788350431000",
-    "title": "Nearly 3 in 4 HR job seekers are looking for roles below their career level",
-    "link": "https://hrexecutive.com/nearly-3-in-4-hr-job-seekers-are-looking-for-roles-below-their-career-level/",
-    "summary": "HR has the highest 'downleveling' rate of any industry tracked, with senior job seekers applying below their level and losing pay. The post Nearly 3 in 4 HR job seekers are looking for roles below their career level appeared first on HR Executive .",
-    "publishedAt": "2026-09-02",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-eeoc-wants-to-end-demographic-reporting-smart-companies-won--1788359520000",
-    "title": "EEOC wants to end demographic reporting. Smart companies won’t stop measuring.",
-    "link": "https://www.hrdive.com/news/eeo-form-rescission-what-now/829331/",
-    "summary": "As the U.S. Equal Employment Opportunity Commission moves to end demographic data reporting, employers must decide if data collection is a matter of compliance or leadership, Catalyst leaders say.",
-    "publishedAt": "2026-09-02",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-demo-1788399105000",
-    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-    "link": "https://www.qbitai.com/2026/09/483552.html",
-    "summary": "",
-    "publishedAt": "2026-09-03",
-    "source": "量子位",
-    "tags": [
-      "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788430457000",
-    "title": " 鸿蒙智行“优等生”问界由盈转亏：一场叠加行业共性问题的困境 ",
-    "link": "https://www.huxiu.com/article/4888338.html?f=rss",
-    "summary": "本文来自微信公众号： 电厂 ，作者：花子健，原文标题：《电厂 | 鸿蒙智行“优等生”问界由盈转亏：一场叠加行业共性问题的困境》 今年上半年，中国汽车工业协会数据显示，中国汽车行业乘用车销量为1272万辆，同比下降6%；如果只看国内销量，累计992.1万辆，同比下降21.1%。其中，今年上半年新能源汽车国内销量为只有509万辆，同比下降13.4%。 在国内汽车市场承压的情况下，国内第三家实现年度盈利的新能源汽车企业赛力斯出现巨亏，即使今年第一季度实现了7.54亿元净利润。 8月19日，赛力斯公布的2026年中期财报数据显示，净亏损17.17亿元，比去年上半年29.41亿元净利润由盈转亏，扣非后归母净亏损更是高达23.79亿元。 但赛力斯的销量并没有下滑。今年上半年，赛力斯交付了17.88万辆汽车，同比增长3.87%，增长主要来自问界，销量16.08万辆，同比增幅5.6%。拆开来看，第二季度比第一季度卖出更多的车，但一季度盈利7.54亿元，二季度直接亏了24.71亿元。 赛力斯解释称，业绩下滑主要因产品销售结构阶段性变动，2026年二季度主力车型进入迭代过渡期，产能与销售规模效应无法充分释放，叠加电池、芯片等核心零部件阶段性涨价，以及相关存量资产减值计提，共同拖累公司整体盈利能力。 销量上升但是净利润暴跌，两根曲线的方向严重背离，也有观点认为赛力斯从盈利转向巨亏，原因是问界交给鸿蒙的“",
-    "publishedAt": "2026-09-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788430155000",
-    "title": "酒店集团，正集体盯上大学生？",
-    "link": "https://www.tmtpost.com/8127540.html",
-    "summary": "酒店业正在用不同的方式靠近年轻人。",
-    "publishedAt": "2026-09-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-ai-plotted-an-interstellar-journey-to-alpha-centauri-1788289836000",
-    "title": "How AI plotted an interstellar journey to Alpha Centauri",
-    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
-    "publishedAt": "2026-09-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-openai-s-new-reasoning-technique-alarms-ai-safety-experts-1788380354000",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "publishedAt": "2026-09-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "ecommerce"
     ]
   }
 ];
@@ -1024,4 +1017,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-03T10:37:21.354Z';
+export const dataFetchedAt = '2026-09-03T15:43:20.100Z';
