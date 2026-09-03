@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-latest-ai-weather-model-gives-you-no-excuse-to-1788447600000",
-    "title": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella",
-    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding [&#8230;]",
+    "id": "news-the-cybercab-is-tesla-8217-s-fork-in-the-road-moment-1788464568000",
+    "title": "The Cybercab is Tesla&#8217;s ‘fork in the road’ moment",
+    "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
     "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
@@ -40,17 +40,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-center-employers-face-acute-shortage-of-skilled-workers-1788445260000",
-    "title": "Data center employers face acute shortage of skilled workers, report finds",
-    "link": "https://www.hrdive.com/news/data-center-employers-face-acute-shortage-of-skilled-workers/829537/",
-    "summary": "Recruiting from adjacent sectors like telecommunications and utility grid operations can help build a sustainable talent pipeline, Kelly Services said.",
+    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
+    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
+    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
+    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
     "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -67,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788445225000",
-    "title": " 医药公司，别再扎堆港股上市了 ",
-    "link": "https://www.huxiu.com/article/4888414.html?f=rss",
-    "summary": "本文来自微信公众号： Bio新势力 ，作者：张远航 晚上十一点多，一位医药投资人给我发来一张截图。 不是临床数据，也不是License-out的首付款。 是一只港股医药公司的分时图。 一整天，成交额两千多万港元。 “这家公司一级市场最后一轮融资的时候，多少机构抢着进。”他说，“现在上市了，一天成交的钱，还没有以前一个基金想投它的钱多。” 这可能是中国Biotech最荒诞的一幕。 一边，是越来越长的港股IPO队伍。 截至2026年7月底，港交所年内累计处理838宗IPO申请。钟声已经为131宗申请敲响，但还有485宗仍在处理中，另有12宗已经通过上市委员会、等待敲钟。 Biotech也在往这扇门里挤。 2018年，18A第一次为尚未满足传统财务资格测试的Biotech打开港股的大门。八年过去，截至2026年初，已经有超过80家公司从这扇门走进二级市场。 问题是，当越来越多公司挤进来以后，市场的钱和注意力，够不够分？ 另一边，则是上市之后迅速降温的现实。 公司终于有了股票代码。创始人敲了钟。投资人拿到了“退出通道”。但几个月以后，大家突然发现，门是打开了，路却没有想象中那么宽。 这也是《Bio新势力》想对准备赴港上市的医药公司说的一句话：如果不是非上不可，2026年的这个时间点，真的没必要再扎堆去香港上市。 问题不在于港股好不好，而是对很多Biotech而言，“能上市”和“应该上市”，",
+    "id": "news--1788452571000",
+    "title": " 车企扎堆造机器人：四个轮子的焦虑与两条腿的赌局 ",
+    "link": "https://www.huxiu.com/article/4888423.html?f=rss",
+    "summary": "本文来自微信公众号： 青澄财经 ，作者：青风，编辑：六子 2026年的夏天，中国汽车工业的目光正在从方向盘移向两条腿。 8月24日，小鹏集团宣布旗下人形机器人业务完成首轮超9亿美元融资，投后估值突破63亿美元，腾讯与阿里巴巴罕见联手入局。几乎同期，比亚迪首款商用服务人形机器人“小迪”完成真机首秀。奇瑞宣布旗下墨甲机器人全球累计交付突破3000台，其中海外市场占2000台，业务覆盖60多个国家和地区，并已启动IPO筹备。 从奇瑞、小鹏到比亚迪，从理想、小米到蔚来，短短时间内，国内已有十多家主流车企以自研、孵化、投资等方式杀入人形机器人赛道。 从造车到“造人”，这场集体转向的速度之快、决心之大，远超外界预期。但很少有人追问：用造车的逻辑造机器人，真的行得通吗？ 01 「卖车已经养不活车企了」 要理解这场集体迁徙，得先看清一组触目惊心的数字。 乘联分会秘书长崔东树8月27日披露的数据显示，2026年1至7月，汽车行业收入60780亿元，但利润仅2162亿元，利润率只有3.6%。而下游工业企业的平均利润率是6.5%。更刺眼的是年初——1至2月，行业利润率一度跌至2.9%，创下近十年最差开局。 *图源崔东树公众号 这意味着什么？一台20万元的车，整车厂净赚不过三四千块。博主吴佩整理的2026上半年单车利润数据显示：吉利5.2%的利润率已是车企中的“尖子生”，单车利润6389元；长安利润率仅0",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
@@ -80,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-3-1788438611000",
-    "title": "被1.3亿张弃权票终止后，华峰化学带着更贵的收购方案二度“闯关” | 并购一线",
-    "link": "https://www.tmtpost.com/8127852.html",
-    "summary": "倘若本次再度在股东大会折戟，2019年作出的同业竞争注入承诺将面临二次违约。",
+    "id": "news-six-years-three-cities-one-ipo-shein-finally-lands-in-hong-k-1788451444000",
+    "title": "Six Years, Three Cities, One IPO: SHEIN Finally Lands in Hong Kong",
+    "link": "https://www.tmtpost.com/8128080.html",
+    "summary": "From Guangzhou.",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -107,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-volunteer-at-techcrunch-founder-summit-in-boston-1788440400000",
-    "title": "Volunteer at TechCrunch Founder Summit in Boston",
-    "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-    "summary": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get [&#8230;]",
+    "id": "news-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach-1788464189000",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
     "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
@@ -132,16 +131,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-say-only-60-of-onboarding-materials-are-necessary-1788445200000",
-    "title": "Employees say only 60% of onboarding materials are necessary",
-    "link": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
-    "summary": "Workers receive an average of 13 onboarding documents in their first week, an Adobe survey found.",
+    "id": "news-company-s-inability-to-explain-one-manager-s-firing-over-ano-1788463980000",
+    "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
+    "link": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
+    "summary": "Comparators can make or break many types of employment lawsuits, including those involving protected leave.",
     "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -158,23 +158,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788444633000",
-    "title": " 中国製の進撃，从救命电源到机器人，日本人靠上中国制造 ",
-    "link": "https://www.huxiu.com/article/4888412.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，原文标题：《中国製の進撃！从救命电源到机器人，日本人靠上中国制造》 去过日本的人可能都有一种感受： 这地方有一种机械朋克的质感：回转寿司的传送带可以设计得飞快，找零机数硬币又快又准，那种极致的机械感，让人觉得很精密。 但一说到智能化，又差了不是一点半点。 但有一件事是例外，对待机器人，日本的接受速度快得惊人。 日本最大的家庭餐厅连锁集团，从2022年起就往全日本的门店里配机器人，约2100家门店，铺了3000台配餐机器人。收盘快了，高峰期的翻台率上去了，店员每天也少走了很多路，老板和店员都挺开心。 而这些帮他们送餐、收盘子的机器人，来自中国。 卖这些机器人的渠道商也很有意思。 日本软银，曾经的机器人狂热爱好者：自己造过Pepper，一度是日本机器人的门面；还买下过美国的波士顿动力，就是那个启蒙了王兴兴等一代机器人创业者的传奇公司。 现在，它自己不造了，转身做起了中国机器人的日本经销商。 图｜软银机器人代理了包括普渡、众擎两家中国机器人公司在日本的销售，其他机器人产品来自日本和挪威等 连最新的人形机器人都用上了。 2026年5月，日本航空在羽田机场引入人形机器人，在大型客机机腹下面搬行李，往传送带上装货。人形机器人产业眼下最愁的就是落地场景，全世界都在找，日本却把它放进了机场这种不能出错的地方，这还是全球最繁忙的机场之一。 这次上",
-    "publishedAt": "2026-09-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-otc-1788436181000",
-    "title": "创新药概念点火、两连板后迅速降温，小方制药底色仍是OTC老生意",
-    "link": "https://www.tmtpost.com/8127757.html",
-    "summary": "一家主打开塞露、甘油灌肠剂、炉甘石洗剂等家庭常备OTC外用药的传统药企，因为一项尚处在临床前阶段的在研项目，被市场贴上创新药标签，引来资金蜂拥入场。",
+    "id": "news-3c-ai-1788444657000",
+    "title": "价值真相 · 财报季｜美股中概3C巨头的“端侧 AI”溢价：硬件更迭周期里的毛利真相",
+    "link": "https://www.tmtpost.com/8128007.html",
+    "summary": "2026年，利润表正在改写估值坐标。当联想的AI服务器订单储备飙至540亿美元、百度的GPU云连续四季度三位数增长，中国科技资产的估值锚点正从“流量与GMV”转向“AI硬件渗透率与毛利率”。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -197,10 +184,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-comments-are-getting-more-interactive-with-voice-comm-1788440400000",
-    "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-    "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-    "summary": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
+    "id": "news-utilities-are-racing-to-link-up-with-fusion-startups-with-re-1788463756000",
+    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+    "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
     "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
@@ -222,17 +209,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4th-circuit-backs-worker-who-cited-the-bible-in-abstaining-f-1788376320000",
-    "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
-    "link": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
-    "summary": "Federal courts have closely scrutinized the nature of plaintiffs&rsquo; religious beliefs in challenges to employers&rsquo; COVID-19 vaccination mandates.",
-    "publishedAt": "2026-09-02",
+    "id": "news-this-week-in-5-numbers-the-right-personality-could-make-up-f-1788463980000",
+    "title": "This week in 5 numbers: The right personality could make up for a skills gap",
+    "link": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many work-related jams HR Dive compiled for readers to listen to this Labor Day weekend.",
+    "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -249,23 +235,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788444162000",
-    "title": " 退休人员上山下乡，广阔天地大有作为 ",
-    "link": "https://www.huxiu.com/article/4888410.html?f=rss",
-    "summary": "本文来自微信公众号： 纯科学 ，作者：纯科学 中国经济过去几十年的持续增长基础是城市化。 中国经济未来几十年的持续增长基础是郊区化。 中国当前经济中存在的大量问题，例如消费不足、内卷、人口问题等，全都是与中国没有顺应“郊区化”和“逆城市化”客观发展趋势而导致的。解决这个卡点的重要路径之一，就是以“退休人员上山下乡”为主流的郊区化方案。 著名学者钱文忠曾有一个非常重要的观点：中国改革开放后最核心的一批骨干正是当年上山下乡的知青，包括第一批创业者甚至我们今天的领导人都是知青出身。他们通过这段经历了解了真正中国的国情，锻炼了综合的能力，是中国改革开放后大发展的重大红利之一。 今天，一场新的退休人员上山下乡，将再造中国新时期的发展红利。 一切经济学都应当是发展经济学，如果不是，那就是没找到进一步发展的方向。所谓发展经济学就是发展到哪个阶段，对应的经济学规律是不一样的，必须顺应这个阶段的发展规律来考虑经济政策。如果违背或无视当前的发展阶段，就必然带来严重的问题。中国明摆着已经走到“郊区化”和“逆城市化”的阶段了，无论学术界还是政府层面却对此几乎完全无视，总在其他方面乱转，这是找不到解决办法的根本原因所在。 所谓“消费不足”纯属假象，不是没钱消费，也不是没有消费的欲望，而是城市根本就没有消费的物理空间。这不是什么经济学问题，而已经是几何学问题了。 奇怪的是，中国学术界从20世纪80年代就开始研",
-    "publishedAt": "2026-09-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-latr-1788435672000",
-    "title": "LATR模式之外，希音的产业创新飞轮",
-    "link": "https://www.tmtpost.com/8126986.html",
-    "summary": "港交所上市为希音打开了新的发展阶段，下一阶段衡量其增长的维度，不仅是能够触达多少消费者，也包括这套技术能力能够服务多少工厂、品牌与区域市场。",
+    "id": "news-1-3-1788438611000",
+    "title": "被1.3亿张弃权票终止后，华峰化学带着更贵的收购方案二度“闯关” | 并购一线",
+    "link": "https://www.tmtpost.com/8127852.html",
+    "summary": "倘若本次再度在股东大会折戟，2019年作出的同业竞争注入承诺将面临二次违约。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -288,10 +261,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion-1788439365000",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "id": "news-abliteration-ai-is-making-a-business-out-of-removing-ai-guar-1788460677000",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
     "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
@@ -313,11 +286,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recrui-1788376320000",
-    "title": "Cotopaxi repays workers at Taiwan mills for predatory recruitment fees",
-    "link": "https://www.hrdive.com/news/cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recruitment-fees/829417/",
-    "summary": "The outdoor apparel and accessories brand has been working to remediate unethical recruitment practices initially identified at two fabric mills in 2024.",
-    "publishedAt": "2026-09-02",
+    "id": "news-employers-predict-moderate-pay-increases-for-fourth-consecut-1788450240000",
+    "title": "Employers predict moderate pay increases for fourth consecutive year",
+    "link": "https://www.hrdive.com/news/employers-predict-moderate-pay-increases-for-fourth-consecutive-year/829188/",
+    "summary": "But compensation decisions often &ldquo;continue well beyond the annual merit cycle,&rdquo; Marsh said.",
+    "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -340,23 +313,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788443763000",
-    "title": " 网吧“悄然”复兴 ",
-    "link": "https://www.huxiu.com/article/4888407.html?f=rss",
-    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 你多久没去过网吧了？ 你多久没去过网吧了？ 对很多人来说，这个问题甚至需要想上一会儿。上一次推开网吧的玻璃门，可能还是学生时代：几十台电脑挤在一间屋子里，键盘声此起彼伏，空气里混着泡面、香烟和汗味。有人通宵打《英雄联盟》，有人和朋友开黑，也有人只是因为家里没有一台性能足够好的电脑，才花几块钱买上两个小时。 后来，电脑逐渐走进普通家庭，智能手机又把游戏、社交和视频塞进了口袋。曾经遍布学校、商业街和居民区附近的网吧开始一批批消失。对很多人而言，“网吧”也像街机厅、录像厅一样，慢慢变成了一种带着年代感的记忆。 照常理说，这应该是一个已经写到结尾的故事。可最近几年，剧情却悄悄拐了个弯。 你可能已经很久没去网吧，却会发现一些城市里重新冒出了电竞馆、电竞酒店和装修越来越精致的网咖；商场里出现电竞专区，热门游戏上线时，一些门店甚至重新出现满座。更值得注意的是，这并不只是体感上的“回暖”。 中国互联网上网服务行业协会发布的数据显示，2023年至2025年，我国网吧数量从约7.77万家增长至12.26万家，行业营收规模也从534亿元增长至1016.8亿元。全国上网服务市场主体数量达到12.26万家，同比增长12.68%，全年总消费人次达到55.71亿次。 而在此之前，2016年至2023年，全国网吧数量曾从15.2万家锐减至7.7万家，折",
-    "publishedAt": "2026-09-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-ai-1788434771000",
-    "title": "中国儒意连推三款AI产品，首次打通AI创作链路｜独家",
-    "link": "https://www.tmtpost.com/8127550.html",
-    "summary": "战投爱诗科技后，中国儒意三款AI产品集中曝光，AI内容生成赛道迎来“游戏系”玩家。",
+    "id": "news-otc-1788436181000",
+    "title": "创新药概念点火、两连板后迅速降温，小方制药底色仍是OTC老生意",
+    "link": "https://www.tmtpost.com/8127757.html",
+    "summary": "一家主打开塞露、甘油灌肠剂、炉甘石洗剂等家庭常备OTC外用药的传统药企，因为一项尚处在临床前阶段的在研项目，被市场贴上创新药标签，引来资金蜂拥入场。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -379,17 +339,55 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-8217-s-zoox-expands-its-robotaxi-service-to-las-vegas-1788437576000",
-    "title": "Amazon&#8217;s Zoox expands its robotaxi service to Las Vegas airport",
-    "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-    "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+    "id": "news-meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-1788459596000",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-chros-are-increasingly-external-hires-at-large-companies-ind-1788435029000",
+    "title": "CHROs are increasingly external hires at large companies, index shows",
+    "link": "https://hrexecutive.com/chros-are-increasingly-external-hires-at-large-companies-index-shows/",
+    "summary": "CHRO appointments rose in 2025, but S&#038;P 500 firms are increasingly hiring experienced outsiders instead of promoting first-timers. The post CHROs are increasingly external hires at large companies, index shows appeared first on HR Executive .",
+    "publishedAt": "2026-09-03",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-data-center-employers-face-acute-shortage-of-skilled-workers-1788445260000",
+    "title": "Data center employers face acute shortage of skilled workers, report finds",
+    "link": "https://www.hrdive.com/news/data-center-employers-face-acute-shortage-of-skilled-workers/829537/",
+    "summary": "Recruiting from adjacent sectors like telecommunications and utility grid operations can help build a sustainable talent pipeline, Kelly Services said.",
+    "publishedAt": "2026-09-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-awe3-7-1788405403000",
+    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+    "link": "https://www.qbitai.com/2026/09/483565.html",
+    "summary": "从工厂一路干到家庭",
+    "publishedAt": "2026-09-03",
+    "source": "量子位",
+    "tags": [
+      "china",
       "ai",
-      "ecommerce"
+      "technology"
     ]
   }
 ];
@@ -1017,4 +1015,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-03T15:43:20.100Z';
+export const dataFetchedAt = '2026-09-03T20:26:45.296Z';

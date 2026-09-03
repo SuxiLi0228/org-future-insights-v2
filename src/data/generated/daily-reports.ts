@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-04-auto",
+    "date": "2026-09-04",
+    "session": "auto",
+    "title": "2026-09-04 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-04-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: rethinking child safety and fossil-fueled farming",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+      },
+      {
+        "id": "sig-2026-09-04-auto-2",
+        "emoji": "⚠️",
+        "title": "The Cybercab is Tesla&#8217;s ‘fork in the road’ moment",
+        "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+        "detail": "来源: TechCrunch。The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+      },
+      {
+        "id": "sig-2026-09-04-auto-3",
+        "emoji": "🚨",
+        "title": "Uber cuts 10% of workforce, tightens return-to-office rules",
+        "summary": "Uber lays off 3,300 employees in its third 2026 restructuring, cutting management layers and reinforcing its in-office policy. The post Uber cuts 10% of workforce, tightens return-to-office rules appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Uber lays off 3,300 employees in its third 2026 restructuring, cutting management layers and reinforcing its in-office policy. The post Uber cuts 10% of workforce, tightens return-to-office rules appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/uber-cuts-10-of-workforce-tightens-return-to-office-rules/"
+      },
+      {
+        "id": "sig-2026-09-04-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：A Common Measure of Communication for Speech Brain-Computer ...",
+        "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu",
+        "detail": "作者: Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones。Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress because systems use different datasets, recording methods, types of speech, and vocabularies, so their reported scores are rarely comparable. Underlying this measurement problem are two unresolved questions: (i) what distribution of words should a speech BCI enable a user to communicate, and (ii) how much information from this distribution can a system convey. We address both by deriving open-vocabulary mutual information (OVMI), an information-theoretic quantity that measures the information con",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.02887v1"
+      },
+      {
+        "id": "sig-2026-09-04-auto-5",
+        "emoji": "💼",
+        "title": "Sigma 正在招募 Multi Skilled Maintenance Technician",
+        "summary": "岗位类型：业务+AI 复合岗。Maintenance Technicians - Why You Should Apply £45,500: Shift allowance and a small amount of guaranteed overtime are already included in the figure",
+        "detail": "技能要求: 未标注。Maintenance Technicians - Why You Should Apply £45,500: Shift allowance and a small amount of guaranteed overtime are already included in the figure No Saturday Working: The three-shift rota leaves every Saturday free Two Sundays in three are yours too, with the third starting at 10pm on your nigh",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Sigma"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Sigma",
+        "link": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-04-1",
+        "priority": "medium",
+        "action": "关注「The Download: rethinking child safety an」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-04-2",
+        "priority": "medium",
+        "action": "关注「The Cybercab is Tesla&#8217;s ‘fork in t」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-04-3",
+        "priority": "high",
+        "action": "关注「Uber cuts 10% of workforce, tightens ret」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-04-4",
+        "priority": "medium",
+        "action": "关注「研究速递：A Common Measure of Communication f」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-04-5",
+        "priority": "medium",
+        "action": "关注「Sigma 正在招募 Multi Skilled Maintenance Tec」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Sigma"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 66,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-04 生成，聚合了 30 条新闻、20 篇论文、16 个岗位。",
+    "fetchWindow": "2026-09-04 00:00 - 2026-09-04 23:59"
+  },
+  {
     "id": "report-2026-09-03-auto",
     "date": "2026-09-03",
     "session": "auto",
