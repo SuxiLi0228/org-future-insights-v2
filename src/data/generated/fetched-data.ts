@@ -2,15 +2,16 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
-    "title": "Facilitating AI integration with simplicity at scale",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
-    "publishedAt": "2026-09-02",
+    "id": "news-agriculture-relies-on-fossil-fuels-it-s-costing-us-1788429600000",
+    "title": "Agriculture relies on fossil fuels. It’s costing us.",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a&#8230;",
+    "publishedAt": "2026-09-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-1788399105000",
-    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-    "link": "https://www.qbitai.com/2026/09/483552.html",
-    "summary": "",
+    "id": "news-3d-1788430716000",
+    "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+    "link": "https://www.qbitai.com/2026/09/483189.html",
+    "summary": "单图直出场景，顶会最佳论文落地",
     "publishedAt": "2026-09-03",
     "source": "量子位",
     "tags": [
@@ -67,23 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788403130000",
-    "title": " 除了回家开空调，城市哪里还能避暑？ ",
-    "link": "https://www.huxiu.com/article/4888179.html?f=rss",
-    "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 当城市气温冲破40℃，关窗开空调，是大多数人对抗热浪最简单的解法。但这份清凉，并非人人可得。 今年7月，全国平均气温23.5℃，较常年同期偏高1.3℃，创下历史同期第二高纪录。[1]重庆、福州、杭州高温日数突破20天；重庆、乌鲁木齐、石家庄最高温超过40℃。[2] 从西南盆地到西北干旱区，极端高温已不再是偶发的自然现象，而演变为居民每年都要直面的生存挑战。 空调也正在变得越来越普及。2024年，我国平均每百户家庭拥有150.6台空调，平均每户超过1.5台。[3] 但并不是每个人家里，都有一台空调。 在青海，每百户家庭仅拥有4.8台空调——平均21户家庭才有1台；而甘肃、西藏、黑龙江、云南等地每百户空调拥有量均不足20台。[3] 当夏天越来越热，而“回家开空调”并不是每个人都拥有的选项，城市里的清凉，还能从哪里来？ 重庆地铁站纳凉区开放，市民驻足休憩消暑。 （图源：重庆发布） 01 居家纳凉，并非人人都能轻松享受 2025年全国平均气温达到10.9℃，与2024年并列为1951年以来最高；全国平均高温日数达16.5天，比1991—2020年平均水平多出7.4天，刷新了历史最多纪录。[4][5] 这意味着，相比过去，人们需要面对的不只是某一天突然袭来的热浪，而是越来越多的高温日。 即使是传统印象中的避暑胜地，近年来高温也愈发频繁。",
+    "id": "news-01-1788431759000",
+    "title": " 中国大模型简史01：模型越做越大，却没人知道它该变成什么 ",
+    "link": "https://www.huxiu.com/article/4888341.html?f=rss",
+    "summary": "本文来自微信公众号： AI资本观 ，作者：邵神 2026年夏末，AI早已无处不在。 站在今天回头看，很多事情已经显得顺理成章。大模型当然要越做越大，公司当然要抢算力、做产品、争用户；模型越来越便宜以后，当然会有人做开放生态、做Agent，再把AI带进真正的工作。 可这些“当然”，曾经都不是当然。 把时间拨回几年前，有人把大模型想成一座“发电厂”，希望把数据变成智能，再输送给无数应用；有人想把AI从“作坊式”带进工业生产；有人相信知识应该成为模型理解世界的基础；还有人已经决定拿钱创业，却连第一款产品究竟应该做什么都不知道。 今天看，他们像是在走向同一个未来。 当时不是。 他们面对的是一片还没有名字的地方。有人后来站到了牌桌中央，有人改了方向，有人离开了牌桌；一些当时很有道理的判断后来错了，一些并不被看好的选择却活了下来。 这已经足够精彩。所以我们想重新梳理一遍，写一遍，就叫《中国大模型简史》。 不是做一张大事记，也不是几家明星公司的胜负录。我们更想知道，一个模型为什么会在那个时候被做出来，一个人为什么会做出那样的选择，而新的技术、算力、资本和用户，又怎样一次次改变这些选择。 这当然也不是一部英雄史。 真正值得留下的，是人在还不知道答案的时候，怎样理解眼前正在发生的事情，为什么会那样相信、那样下注，又怎样被后来出现的新事实逼着重新选择。 真正开始研究以后，我们发现，资料其实并不缺。更容",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1788400791000",
-    "title": "上市旅企半年报“真假盈利”：谁在凭本事赚钱，谁在靠会计魔术？",
-    "link": "https://www.tmtpost.com/8126486.html",
-    "summary": "财务重整、主业失速、多元布局、转型阵痛：拆解上市旅企半年报里的“温差”真相。",
+    "id": "news-1000-1788430340000",
+    "title": "市值蒸发超1000亿，芯原股份，遭遇“戴维斯双杀”",
+    "link": "https://www.tmtpost.com/8126525.html",
+    "summary": "故事还能讲多久？",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -94,11 +96,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-puzzles-and-a-path-to-our-nearest-star-syste-1788351000000",
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
-    "publishedAt": "2026-09-02",
+    "id": "news-scaling-agentic-ai-pilots-across-the-enterprise-1788427832000",
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
+    "publishedAt": "2026-09-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -147,10 +149,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-mpv-iphone-1788398825000",
-    "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-    "link": "https://www.qbitai.com/2026/09/483462.html",
-    "summary": "4激光雷达+双M100上车",
+    "id": "news--1788430404000",
+    "title": "陈大年复出，入局大模型",
+    "link": "https://www.qbitai.com/2026/09/483600.html",
+    "summary": "首秀逼近DeepSeek万亿旗舰",
     "publishedAt": "2026-09-03",
     "source": "量子位",
     "tags": [
@@ -160,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788402876000",
-    "title": " 亚朵的枕头是否吃掉了酒店？ ",
-    "link": "https://www.huxiu.com/article/4888173.html?f=rss",
-    "summary": "本文来自微信公众号： TS消费观察 ，作者：Adrianhts 中国人的睡眠问题与焦虑情绪，往往比你我想象中更为严重。偏偏越来越多人把它当成了一项KPI：几点入睡、要睡够几小时甚至智能手表还要给睡眠打分。 越想越焦虑，越焦虑越睡不着。这种焦虑很快变成了生意，各大家纺品牌纷纷推出自己的睡眠产品。但这里面做得最出圈的，反而是一家酒店。 亚朵一边经营着自己的中端酒店，一边源源不断地生产各种睡眠周边产品，尤其是枕头，仿佛非要把酒店的体验也塞进你的小床不可。8月20日亚朵公布2026年二季度财报，零售业务（亚朵星球等家纺产品）收入15.75亿元，加盟酒店业务收入17.25亿元。这两者之间的差距，只剩不到两亿元。 1 亚朵的现状 8月20日亚朵交出了2026年二季度的成绩单：总营收34.9亿元，同比增长41.4%，归母净利润5.48亿元。数字都挺好看，管理层把全年收入指引也上调了一档，预计同比增长30%。但目前内部业务条线的收入结构，已然发生改变。 酒店这一头仍然是大众最熟悉的那个亚朵，截至二季度末，在营酒店2175家，还有811家储备项目，其中超过99%都是加盟或管理加盟的模式。亚朵集团出品牌、出标准、出会员体系，加盟商掏钱租项目搞装修。 这套酒店加盟拓店的模式已经玩了几十年近百年了，这套模式最卓越的优点就是效率高得惊人：2025年净增403家店，整个上市公司全年资本开支只花了8600万元。",
+    "id": "news--1788430735000",
+    "title": " 多家洋酒巨头年报的秘密：“扩张型架构”正在消失 ",
+    "link": "https://www.huxiu.com/article/4888339.html?f=rss",
+    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 近年来，保乐力加、帝亚吉欧、人头马君度等洋酒巨头相继推出全新转型计划，涉及架构重整、战略优化、资产剥离和人员精简等多个层面。此番调整力度之大、范围之广，为近十年所罕见。 “大象转身”牵一发而动全身，每家企业的战略选择都折射出其对行业走向的深层判断。而当多家头部公司几乎同步启动转型，便不再是个案，而是昭示着整个行业的深度调整。 01 转型两大关键词：聚焦和精简 烈酒商业在梳理了三家公司的转型策略后发现，虽然转向路径各有侧重，但均指向2个方向：重新梳理业务板块，将资源向确定性更高的业务集中；进行运营效率提升，精简优化非核心业务。 保乐力加率先开启转型，以“Fit for Future”效率提升计划为主线，目标是到2029财年实现10亿欧元的降本增效。 该计划的重要动作包括，2025年中期将旗下品牌拆分为黄金Gold与水晶Crystal两大事业部。Gold事业部囊括了马爹利、芝华士、尊美醇等陈年烈酒及高端香槟，这些品牌在关键市场的渠道根基和品牌溢价能力经过多年积累，是集团利润的基本盘。Crystal事业部则聚焦绝对伏特加、金酒及即饮产品线，瞄准年轻消费群体和即饮场景。两条线切割清晰，各自按不同的商业逻辑运转。此外，保乐力加也在接连出售美国玛姆纳帕起泡酒、肯伍德酒庄、杰卡斯等非核心资产。 据了解，马爹利将更加偏向亲民价格和新兴价格的产品，从而",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788400786000",
-    "title": "欢乐家，一心要做大椰子",
-    "link": "https://www.tmtpost.com/8126573.html",
-    "summary": "罐头不好卖了",
+    "id": "news-57-95-ai3d-minimax-1788430325000",
+    "title": "半年狂揽57亿，95后创业做AI3D，曾是商汤、MiniMax元老",
+    "link": "https://www.tmtpost.com/8127562.html",
+    "summary": "VAST完成30亿元B轮和B+轮融资。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -187,16 +189,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-ai-plotted-an-interstellar-journey-to-alpha-centauri-1788289836000",
-    "title": "How AI plotted an interstellar journey to Alpha Centauri",
-    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
-    "publishedAt": "2026-09-01",
+    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "publishedAt": "2026-09-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -241,10 +242,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-demo-0-1788396676000",
-    "title": "今年最难的机器人Demo，“机器人含量”为0",
-    "link": "https://www.qbitai.com/2026/09/483351.html",
-    "summary": "遥操，可能真的危险了",
+    "id": "news-awe3-7-1788405403000",
+    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+    "link": "https://www.qbitai.com/2026/09/483565.html",
+    "summary": "从工厂一路干到家庭",
     "publishedAt": "2026-09-03",
     "source": "量子位",
     "tags": [
@@ -254,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-atlas-1788402300000",
-    "title": " 李飞飞发布首个世界模型Atlas：先被颠覆的是导演还是机器人？ ",
-    "link": "https://www.huxiu.com/article/4888090.html?f=rss",
-    "summary": "AI理解空间，第一个被颠覆的是拍电影还是造机器人？",
+    "id": "news--1788430571000",
+    "title": " 一个反常现象：外国科技圈开始往中国跑 ",
+    "link": "https://www.huxiu.com/article/4888336.html?f=rss",
+    "summary": "本文来自微信公众号： 凌霄-科技投资人 ，作者：凌霄 二十年前，中国企业家去美国，最重要的一站是硅谷。去Google看互联网，去苹果看产品，去斯坦福看创新，去Sand Hill Road看风险投资。 那时候，全世界对科技产业有一套非常清晰的分工：美国负责发明，中国负责制造。 但二十年后，一个很有意思的现象出现了，方向开始反过来。路透社9月3日报道，越来越多海外投资人、创业者和企业高管正在专程前往深圳、杭州、上海、北京、合肥，参观中国的人工智能、机器人、电动车和先进制造企业，而且这已经不是零散的个人旅行，甚至开始形成一门生意。 上海研究机构Baiguan组织的五天科技考察，收费最高达到1.5万美元；另一家上海科技考察机构GloPen表示，2026年的咨询量增长了50%，客户主要来自欧洲和新加坡，目前每个月要组织超过100场单日企业参访。甚至连参观工厂本身，都变成了一种稀缺资源。小米北京汽车工厂从2024年3月至今，已经接待超过25万名访客，一些通过抽签获得的参观名额，在网上甚至被炒到了2000元人民币。 这些人花几千甚至上万美元飞到中国，不是为了参观一座普通工厂。他们真正想知道的是：为什么中国科技公司的速度这么快？ 这可能才是今天全球科技竞争正在发生的最大变化之一。因为过去大家研究中国，研究的是为什么中国能把东西造得这么便宜；今天越来越多人研究的却是，为什么中国能把一个想法这么快变成",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
@@ -268,10 +269,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-160-1788400782000",
-    "title": "一枚估值160亿美元的戒指，正被诉讼和质疑包围",
-    "link": "https://www.tmtpost.com/8126704.html",
-    "summary": "OuraRing 、智能戒指、可穿戴设备、消费科技、硬件订阅、AI健康、IPO。",
+    "id": "news--1788430184000",
+    "title": "星宇股份国内第二大竞争对手，强势出手",
+    "link": "https://www.tmtpost.com/8126090.html",
+    "summary": "借机弯道超车?",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -282,11 +283,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-the-ai-powered-case-for-legacy-modernization-1788271200000",
-    "title": "Making the AI-powered case for legacy modernization",
-    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
-    "publishedAt": "2026-09-01",
+    "id": "news-the-download-ai-puzzles-and-a-path-to-our-nearest-star-syste-1788351000000",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
+    "publishedAt": "2026-09-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -333,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-skyproduction-1788340936000",
-    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-    "link": "https://www.qbitai.com/2026/09/483274.html",
-    "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-    "publishedAt": "2026-09-02",
+    "id": "news-demo-1788399105000",
+    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+    "link": "https://www.qbitai.com/2026/09/483552.html",
+    "summary": "",
+    "publishedAt": "2026-09-03",
     "source": "量子位",
     "tags": [
       "china",
@@ -346,24 +347,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788401974000",
-    "title": " 昨晚，硅谷经历了AI诸神之战。 ",
-    "link": "https://www.huxiu.com/article/4888169.html?f=rss",
-    "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 昨天夜里的硅谷发生了三件大事。 Google发布了Gemini 3.8 Flash，Meta发布了Muse Spark 1.3，一家此前没人讨论过的初创公司Mostik则登上了权威媒体WIRED的专访。 如果只看前两件，这很像又一个普通的AI刷榜之夜。 Google刚刚把Gemini推上DeepSWE榜首，几个小时之后，Meta又公布了更高的成绩，世界第一的头衔甚至只维持了几个小时。 这种事情到了2026年，大家甚至已经快麻木了。 模型发布、benchmark刷新、X上庆祝几个小时，然后等待下一家公司继续刷新。 但如果把昨天晚上这三件事连起来看，我觉得真正值得关注的东西完全不在那些榜单上。 AI的经济学正在发生突变。 过去几年，我们讨论AI成本，最常看的数字都是每百万token多少钱。 但Agent出现以后，这套计量方式正在变得越来越不够用。 未来真正重要的问题可能不是“一百万token多少钱”，而是修好一个Bug多少钱、完成一份研究多少钱、让一个Agent连续工作三个小时到底多少钱。 而昨天晚上，推理成本正在从几个完全不同的方向同时往下降。 Google在把frontier级别的能力塞进越来越便宜的模型，Meta在让Agent用更少的token和工具调用完成同一个任务，而Mostik更进一步，他们",
+    "id": "news--1788430457000",
+    "title": " 鸿蒙智行“优等生”问界由盈转亏：一场叠加行业共性问题的困境 ",
+    "link": "https://www.huxiu.com/article/4888338.html?f=rss",
+    "summary": "本文来自微信公众号： 电厂 ，作者：花子健，原文标题：《电厂 | 鸿蒙智行“优等生”问界由盈转亏：一场叠加行业共性问题的困境》 今年上半年，中国汽车工业协会数据显示，中国汽车行业乘用车销量为1272万辆，同比下降6%；如果只看国内销量，累计992.1万辆，同比下降21.1%。其中，今年上半年新能源汽车国内销量为只有509万辆，同比下降13.4%。 在国内汽车市场承压的情况下，国内第三家实现年度盈利的新能源汽车企业赛力斯出现巨亏，即使今年第一季度实现了7.54亿元净利润。 8月19日，赛力斯公布的2026年中期财报数据显示，净亏损17.17亿元，比去年上半年29.41亿元净利润由盈转亏，扣非后归母净亏损更是高达23.79亿元。 但赛力斯的销量并没有下滑。今年上半年，赛力斯交付了17.88万辆汽车，同比增长3.87%，增长主要来自问界，销量16.08万辆，同比增幅5.6%。拆开来看，第二季度比第一季度卖出更多的车，但一季度盈利7.54亿元，二季度直接亏了24.71亿元。 赛力斯解释称，业绩下滑主要因产品销售结构阶段性变动，2026年二季度主力车型进入迭代过渡期，产能与销售规模效应无法充分释放，叠加电池、芯片等核心零部件阶段性涨价，以及相关存量资产减值计提，共同拖累公司整体盈利能力。 销量上升但是净利润暴跌，两根曲线的方向严重背离，也有观点认为赛力斯从盈利转向巨亏，原因是问界交给鸿蒙的“",
     "publishedAt": "2026-09-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1788400488000",
-    "title": "库克退到幕后，特努斯接下的苹果有点烫手",
-    "link": "https://www.tmtpost.com/8126448.html",
-    "summary": "现在说苹果进入“特努斯时代”为时尚早。",
+    "id": "news--1788430155000",
+    "title": "酒店集团，正集体盯上大学生？",
+    "link": "https://www.tmtpost.com/8127540.html",
+    "summary": "酒店业正在用不同的方式靠近年轻人。",
     "publishedAt": "2026-09-03",
     "source": "钛媒体",
     "tags": [
@@ -374,10 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-engineered-microbes-for-crops-and-openai-s-cult-1788264600000",
-    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "id": "news-how-ai-plotted-an-interstellar-journey-to-alpha-centauri-1788289836000",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
     "publishedAt": "2026-09-01",
     "source": "MIT Technology Review",
     "tags": [
@@ -401,9 +401,365 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2609.02887v1",
+    "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+    "authors": [
+      "Dulhan Jayalath",
+      "Benjamin Ballyk",
+      "Oiwi Parker Jones"
+    ],
+    "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress because systems use different datasets, recording methods, types of speech, and vocabularies, so their reported scores are rarely comparable. Underlying this measurement problem are two unresolved questions: (i) what distribution of words should a speech BCI enable a user to communicate, and (ii) how much information from this distribution can a system convey. We address both by deriving open-vocabulary mutual information (OVMI), an information-theoretic quantity that measures the information con",
+    "link": "http://arxiv.org/abs/2609.02887v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG",
+      "q-bio.NC"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02885v1",
+    "title": "Discriminative World Models for Web Agents",
+    "authors": [
+      "Kelvin Li",
+      "Dhruv Pendharkar",
+      "Anish Pahilajani",
+      "Chuyi Shang",
+      "Leon Oks",
+      "Leonid Karlinsky",
+      "Rogerio Feris",
+      "Trevor Darrell",
+      "Roei Herzig"
+    ],
+    "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately score them. To address this, we introduce predicted-state matching, a training objective where the predicted representation must distinguish the true resulting state from those reached by alternative actions. We train these models using a branching web-agent dataset derived from WebArena Go-Browse tr",
+    "link": "http://arxiv.org/abs/2609.02885v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02881v1",
+    "title": "Graph Machine: Towards Better Pretraining via Edges",
+    "authors": [
+      "Lintai Hou"
+    ],
+    "summary": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially accessible state size to $O(1)$. Instead, GM uses edges - pointer-like objects updated differentiably by a referral mechanism resembling pointer chasing. We replace 75% of the dense Transformer layers in Qwen3-0.6B with GM sparse layers and pretrain from scratch on 15.7B tokens. With only 2 of 4,096 tokens retrieved per KV head in each sparse layer, loss degrades only slightly; with 4, the best model marginally improves loss.",
+    "link": "http://arxiv.org/abs/2609.02881v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02876v1",
+    "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+    "authors": [
+      "Alessio Spurio Mancini"
+    ],
+    "summary": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradient at the speed of a fused-kernel solve. We present GRADSOLVE, an open-source JAX library for solving and reverse-mode differentiating low-dimensional ODE ensembles on NVIDIA GPUs. It records the steps an adaptive solver accepts and differentiates a fixed-step replay of them; the returned gradient is",
+    "link": "http://arxiv.org/abs/2609.02876v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.MS",
+      "cs.DC",
+      "cs.LG",
+      "math.NA"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02861v1",
+    "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+    "authors": [
+      "Cagri Temel"
+    ],
+    "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision framework that ensures every autonomous action can be traced back to sensor evidence through documented causal chains. The framework organizes decision-making into four auditable layers: Semantic Perception for evidence-grounded entity recognition, Belief Reasoning for probabilistic state estimation with causal graphs, Action Synthesis for constraint-aware planning with counterfactual documentation, and Execution Verification for compliance monitoring. TRACE is model-agnostic yet designed to integrate learning-based",
+    "link": "http://arxiv.org/abs/2609.02861v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02859v1",
+    "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+    "authors": [
+      "Shachar Don-Yehiya",
+      "Leshem Choshen",
+      "Omri Abend"
+    ],
+    "summary": "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy and difficult to leverage effectively. We challenge this conception by demonstrating that user feedback is a highly actionable signal for improvement, and that its perceived ineffectiveness stems from a systematic bias in current evaluation paradigms. To isolate the usefulness of feedback, we construct synthetic data with a definitive ground truth, alongside naturalistic data to validate that our findings hold in real-world scenarios. By comparing model revisions generated with and without access to feedback across both settings, we show that feedback-informed revisions resolve targeted issues a",
+    "link": "http://arxiv.org/abs/2609.02859v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02855v1",
+    "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
+    "authors": [
+      "Yuhan Ye",
+      "Kaizhao Liu"
+    ],
+    "summary": "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $Ω(n^{-1.6342})$ non-anytime lower bound and an $Ω(n^{-1.2408})$ anytime lower bound. These improve the recent $Ω(n^{-1.932})$ non-anytime lower bound of Ma and Chen and the $Ω(n^{-4/3})$ anytime lower bound of Tsai et al., respectively. Together with the non-anytime $O(n^{-\\log_2(1+\\sqrt{2})})$ rate achieved by silver schedules, our anytime lower bound establishes a strict separation between the achievable convergence exponents in the two settings.",
+    "link": "http://arxiv.org/abs/2609.02855v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "math.OC",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02852v1",
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "authors": [
+      "James Mickens"
+    ],
+    "summary": "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic illegibility'' to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of linguistic illegibility is unavoidable for LLMs whose internal computations are not directly expressed via language, but rather math over activation spaces (with lossy translations between activation spaces and natural language happening at the bookends). If linguistic illegibility is always possible, th",
+    "link": "http://arxiv.org/abs/2609.02852v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02849v1",
+    "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+    "authors": [
+      "Aleksander Ficek",
+      "Sean Narenthiran",
+      "Mehrzad Samadi",
+      "Somshubra Majumdar",
+      "Boris Ginsburg"
+    ],
+    "summary": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generates, evaluates, and refines diverse solutions. On IOI 2025, Nano-CC improves from 130 points to 291 after post-training and to 468 with GenCorrect, exceeding the gold threshold of 438.3 while Ultra-CC rea",
+    "link": "http://arxiv.org/abs/2609.02849v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.MA",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02846v1",
+    "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
+    "authors": [
+      "Robert Hu",
+      "Carlo Luschi",
+      "Paul Balanca"
+    ],
+    "summary": "Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work outside the FP4 matrix multiplications. We instead pair E2M1 payloads with unsigned E5M3 (\\ue{}) block scales. Their wider range permits periodic tensor scaling, while our recipe applies selective stochastic rounding to backward gradients, omits RHT, and uses FP4 in all eligible internal linears. We pretrain a Nemotron-H 8B model for nearly 190 billion tokens. Compared with Transformer Engine \\nv{}, the proposed block-16 recipe finishes with lower final-window training loss and, under their resp",
+    "link": "http://arxiv.org/abs/2609.02846v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02833v1",
+    "title": "Learning Spectral-Like Mesh-Free Discretisations",
+    "authors": [
+      "Lucas Gerken Starepravo",
+      "Henry Broadley",
+      "Steven Lind",
+      "Jack R. C. King"
+    ],
+    "summary": "Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct discrete differential operators by imposing polynomial consistency on a local stencil. For stencils containing more nodes than there are consistency constraints, the resulting linear system is underdetermined, and the remaining degrees of freedom are fixed implicitly by the choice of kernel, basis preconditioning, or a minimum-norm condition. Polynomial consistency constrains the operator only in the low-wavenumber limit, and no part of the construction selects for accuracy at the wavenumbers where fine-scale content resides. We introduce Spectral-like Neural Discretisation (Spe",
+    "link": "http://arxiv.org/abs/2609.02833v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02821v1",
+    "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
+    "authors": [
+      "Wenxin Jiang",
+      "Xuyang Wang",
+      "Yuxiao Wu"
+    ],
+    "summary": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can recover individual and group-level effects in contextual models. The key idea is that an AI measure constructed at the respondent level can be used to derive its group-level aggregate and its individual deviation, allowing researchers to estimate both between-group and within-group associations rather than treating AI measurement as response prediction alone. We validate the framework using the 2022 China Family Panel Studies (CFPS), where occupations provide the empirical grouping structure and",
+    "link": "http://arxiv.org/abs/2609.02821v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02817v1",
+    "title": "Cliff: Learning Process Rewards from the First Mistake",
+    "authors": [
+      "Peixuan Han",
+      "Runhui Wang",
+      "Ketan Ramaneti",
+      "Jie Hao",
+      "Gerald Friedland",
+      "Chris Kong"
+    ],
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guidance on intermediate reasoning processes. Existing approaches such as process reward modeling and on-policy distillation introduce additional constraints, such as reliance on a specialized reward model or assuming identical reasoning patterns between teacher and student. Nevertheless, we observe that once a reasoning process first goes wrong, evaluating the subsequent reasoning provides limited additional information, as it is already conditioned on an invalid prefix. Therefore, we propose Cliff, a reward shaping strategy that utilizes an off-the-shelf LLM as a teacher to identify the first mis",
+    "link": "http://arxiv.org/abs/2609.02817v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02805v1",
+    "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
+    "authors": [
+      "Hao Zhou",
+      "Mandar Kulkarni",
+      "Hao Chen",
+      "Yan Xin",
+      "Charlie",
+      "Zhang"
+    ],
+    "summary": "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex cross-layer dependencies. While large language models (LLMs) offer promising capabilities for reasoning and knowledge integration, directly applying vanilla LLMs to telecom RCA often leads to hallucination, unstable reasoning, and poor alignment with structured network evidence. This work first reviews the evolution of telecom RCA from rule-based and machine learning (ML) approaches to emerging LLM-enabled techniques, and provides an overview of recent paradigms, including structured reasoning, retrieval-augmented knowledge grounding, agentic orchestration, and verifiable reasoning. Building upon these i",
+    "link": "http://arxiv.org/abs/2609.02805v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02804v1",
+    "title": "frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study",
+    "authors": [
+      "Onur Uğurlu"
+    ],
+    "summary": "For more than 20 years, the Model-RB benchmark frb100-40 remained an open challenge; since 2014, its public record had stood at 99 of 100 variables. We give a directly checkable 100-vertex independent set for its 4,000-vertex graph. Together with a verified partition into 100 cliques of size 40, the witness proves that the maximum independent-set size is 100 and the minimum vertex-cover size is 3,900. The stochastic run that found the witness is kept separate from this proof. We evaluated its added pair and triple repair operators in a preregistered campaign comprising 8,668 valid runs. The primary comparison found no detectable acceleration over base ULSA (hazard ratio 0.967, 95% confidence interval 0.915-1.023; p=0.248), and the factorial ablation reached the same conclusion. On a smalle",
+    "link": "http://arxiv.org/abs/2609.02804v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.DM",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02797v1",
+    "title": "Dutch Books for Language Models",
+    "authors": [
+      "Isaiah Andrews",
+      "Suproteem Sarkar"
+    ],
+    "summary": "People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? Users of language models may implicitly trust that these forecasts fall out of a coherent world model. In this paper, we evaluate the coherence of language model probabilistic forecasts through a procedure that builds on a theorem due to de Finetti. We elicit forecasts from language models across events generated from stock returns data. We then use linear programs to compute the largest Dutch-book profit - the profit an arbitrageur could guarantee by betting against model-generated probabilities - which we use as a measure of incoherence. Our procedure does not require outcome labels, so we ca",
+    "link": "http://arxiv.org/abs/2609.02797v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "econ.GN",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02796v1",
+    "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+    "authors": [
+      "Vasileios Baltatzis",
+      "Mert Inan",
+      "Connor Gillis",
+      "Raja Kushalnagar",
+      "Lorna Quandt",
+      "Leah Findlater",
+      "Colin Lea"
+    ],
+    "summary": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for discourse-aware text to sign language gloss translation grounded in linguistic research. We address three key phenomena within our modular Large Language Model (LLM)-based translation framework: (i) spatial coreference resolution, where entities maintain consistent spatial locations throughout discourse; (ii) Question-Answer Clauses (QACs), pseudocleft structures serving specific discourse functions; and (iii) concept-gloss consistency, ensuring stable mappings between English concepts and American Sign Language (ASL) signs. Traditional translation metrics fail to capture di",
+    "link": "http://arxiv.org/abs/2609.02796v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02790v1",
+    "title": "Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing",
+    "authors": [
+      "Zhaoming Li",
+      "Paul Hand"
+    ],
+    "summary": "Generative models have been studied experimentally and theoretically as priors for inverse problems such as compressed sensing. Recent work by Gunn et al. studied the use of generative priors with tunable complexity, where a family of generative priors with varying complexity is maintained and a specific complexity can be selected at inversion time. They demonstrated that lower reconstruction errors can be experimentally attained for a variety of inverse problems by appropriately tuning the complexity of the generative prior. In the present paper, we establish theory for compressed sensing in the setting of a tunable family of linear generative priors naturally related through their singular value decompositions. We prove that in noiseless Gaussian compressed sensing, the full-dimensional ",
+    "link": "http://arxiv.org/abs/2609.02790v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02786v1",
+    "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
+    "authors": [
+      "Qinghua Mao",
+      "Wanying Qu",
+      "Dadi Guo",
+      "Leitao Yuan",
+      "Qingyu Liu",
+      "Yu Li",
+      "Guanxu Chen",
+      "Yanwei Fu",
+      "Xi Lin",
+      "Xia Hu",
+      "Dongrui Liu"
+    ],
+    "summary": "The performance of LLM-based agents is jointly shaped by the base model and the harness used when interacting with the environment. This exposes them to safety risks in both harmful final responses and multi-step execution trajectories. Existing safety alignment mechanisms often rely on either external harness updates or policy optimization, yet applying either paradigm in isolation fails to bridge runtime control with intrinsic safety. We propose SafeEvolve, an experience-driven self-evolving framework for agent safety alignment. SafeEvolve leverages safety experience from completed on-policy trajectories to drive a continual loop of harness-policy co-evolution. On the harness side, SafeEvolve converts trajectory-level safety evidence into bounded, component-level updates across safety pr",
+    "link": "http://arxiv.org/abs/2609.02786v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.02783v1",
+    "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+    "authors": [
+      "Yuling Shi",
+      "Zhensu Sun",
+      "Junsen Dong",
+      "Chengcheng Wan",
+      "David Lo",
+      "Xiaodong Gu"
+    ],
+    "summary": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands of dollars, a price paid repeatedly across iterative development cycles. Prior efforts, centered on benchmark distillation, reduce the number of evaluation tasks but leave the cost of executing each retained task untouched. In this work, we introduce early outcome prediction, a complementary axis of efficiency that instead cuts cost within each task. Our key insight is that an agent's final outcome is often evident from its intermediate behavior well before execution completes. We instantiate this idea in EarlyEval, a lightweight framework that trains a pair of LightGBM success and failure clas",
+    "link": "http://arxiv.org/abs/2609.02783v1",
+    "publishedAt": "2026-09-02",
+    "categories": [
+      "cs.CL"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1137273",
+    "title": "Multi Skilled Maintenance Technician",
+    "company": "Sigma",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Maintenance Technicians - Why You Should Apply £45,500: Shift allowance and a small amount of guaranteed overtime are already included in the figure",
+      "No Saturday Working: The three-shift rota leaves every Saturday free",
+      "Two Sundays in three are yours too, with the third starting at 10pm on your nigh"
+    ],
+    "skills": [],
+    "location": "Newport, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273",
+    "postedAt": "2026-09-02",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1137277",
     "title": "Detailer",
@@ -668,4 +1024,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-03T02:46:32.523Z';
+export const dataFetchedAt = '2026-09-03T10:37:21.354Z';
