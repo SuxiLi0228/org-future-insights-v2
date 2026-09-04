@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-05-auto",
+    "date": "2026-09-05",
+    "session": "auto",
+    "title": "2026-09-05 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-05-auto-1",
+        "emoji": "💡",
+        "title": "Architecting memory and storage in the AI era",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+        "detail": "来源: MIT Technology Review。The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+      },
+      {
+        "id": "sig-2026-09-05-auto-2",
+        "emoji": "⚠️",
+        "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
+        "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+        "detail": "来源: TechCrunch。A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
+      },
+      {
+        "id": "sig-2026-09-05-auto-3",
+        "emoji": "🚨",
+        "title": "August job cuts up nearly 60%—but it’s not all bad news",
+        "summary": "Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/august-job-cuts-up-nearly-60-but-its-not-all-bad-news/"
+      },
+      {
+        "id": "sig-2026-09-05-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Compile by Training: Turning Natural-Language Specifications...",
+        "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
+        "detail": "作者: Yuntian Deng, Pengyu Nie, Stuart Shieber。Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.04199v1"
+      },
+      {
+        "id": "sig-2026-09-05-auto-5",
+        "emoji": "💼",
+        "title": "Hacksaw Gaming 正在招募 Office Maid",
+        "summary": "岗位类型：业务+AI 复合岗。At Hacksaw Gaming, we believe that a clean, organized, and welcoming workplace helps create a great environment for everyone",
+        "detail": "技能要求: 未标注。At Hacksaw Gaming, we believe that a clean, organized, and welcoming workplace helps create a great environment for everyone We are looking for a reliable, trustworthy, and hardworking Office Maid to help maintain our office and support the team with light day-to-day tasks Job Description: This po",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Hacksaw Gaming"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Hacksaw Gaming",
+        "link": "https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-05-1",
+        "priority": "low",
+        "action": "关注「Architecting memory and storage in the A」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-05-2",
+        "priority": "medium",
+        "action": "关注「Judge blocks X rival from using Twitter 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-05-3",
+        "priority": "high",
+        "action": "关注「August job cuts up nearly 60%—but it’s n」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-05-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Compile by Training: Turning Natura」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-05-5",
+        "priority": "medium",
+        "action": "关注「Hacksaw Gaming 正在招募 Office Maid」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Hacksaw Gaming"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-05 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-09-05 00:00 - 2026-09-05 23:59"
+  },
+  {
     "id": "report-2026-09-04-auto",
     "date": "2026-09-04",
     "session": "auto",

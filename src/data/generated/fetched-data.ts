@@ -2,23 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
+    "id": "news-architecting-memory-and-storage-in-the-ai-era-1788547159000",
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology",
-      "ecommerce"
+      "organization"
     ]
   },
   {
-    "id": "news-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-1788534000000",
-    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-    "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-    "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+    "id": "news-judge-blocks-x-rival-from-using-twitter-name-but-allows-8216-1788544325000",
+    "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
+    "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-another-whiplash-month-for-the-labor-market-as-august-beats--1788535140000",
-    "title": "Another ‘whiplash’ month for the labor market as August beats expectations",
-    "link": "https://www.hrdive.com/news/another-whiplash-month-for-the-labor-market-as-august-beats-expectations/829684/",
-    "summary": "The market remains in a &ldquo;fragile&rdquo; state, one economist said, as sensitivity to inflation, interest rates and geopolitical tensions remains high.",
+    "id": "news-race-bias-claims-tied-to-drug-test-can-go-to-jury-11th-circu-1788551700000",
+    "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
+    "link": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
+    "summary": "Evidence showed an employer rehired a White employee but not two Black employees after firing all three for the same conduct, the court said.",
     "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
@@ -67,16 +67,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788533675000",
-    "title": " 练背不如攀岩，都市健身新思路 ",
-    "link": "https://www.huxiu.com/article/4888728.html?f=rss",
-    "summary": "本文来自微信公众号： 精练GymSquare ，作者：Yan 继「练背防垮脸」风之后，都市人又有了练背新思路——练背不如攀岩。 社交媒体上，攀岩人常常随地大小展背，在岩馆灯光加持下，雕刻出深深浅浅的背花；一旦在墙上动起来，肌肉层次随着攀爬者的手脚移动变得丰富，呈现出动态的美感；更有健身人转攀岩，几乎无痛解锁引体向上。 据《2023中国攀岩行业分析报告》显示，2023年，小红书与「攀岩」相关的笔记达到65万+，2019-2023年间笔记数量增长了30倍。截至9月29日，#上墙吧攀岩人的话题浏览量已高达7.5亿，讨论量319万。 比起健身房里的孤立训练，攀岩是一项全身调动的运动，踩点、推髋、侧身、跳跃等，弥补了健身房里专注矢状面和冠状面发力的短板，调动全身动力链，找回人体在行走、跑跳中本来的身体功能。 除此外，攀岩也是更有目标性的运动——完成一条线，摸到下一个点，反馈比臂围增大1厘米、硬拉再加20公斤更即时，既有及时反馈的多巴胺，也有延迟满足的内啡肽；而攀岩中高度的专注会让攀爬者进入心流状态，全神贯注于自己与岩壁的关系，不用在意任何评价与标准，获得大梦一场般酣畅淋漓的体验；更不必谈攀岩馆里的独特氛围，不论是i人还是e人，只要同磕一条线，就能很自然成为朋友。 从追求肌肉维度的形体美，到追求运动表现；从忍受「重复的折磨」，到享受「身体解题」的乐趣，攀岩馆成了都市人健身与修行的游乐场。 练背",
+    "id": "news-graphrag-agent-1788538484000",
+    "title": " GraphRAG 可能会过时，Agent 的“外部世界”才刚刚开始 ",
+    "link": "https://www.huxiu.com/article/4888739.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 过去两年，企业Agent有一个很奇怪的处境。 模型越来越强，能塞进上下文的文档越来越多，RAG方案也越来越复杂。但真到了“替我查一笔订单为什么延迟、判断能否调货、找出受影响客户、再提交一个排程申请”这种任务，很多Agent还是像一个知识面很广的实习生。 它会搜，也会总结，偶尔说得头头是道。 但它并不真正知道：这家公司里“客户”“订单”“库存”到底分别是什么；这些对象此刻处于什么状态；谁可以看、谁可以改；哪一条规则是正式规则；更重要的是，它能不能把答案变成一个受约束的行动。参见AI知识基础正在重写：原始来源、维基、检索、记忆要分开 微软的GraphRAG项目已经明确进入维护模式，不再接收新功能或新PR。 正在成形的，是另一层东西：Agent的Context正从一摞临时塞进Prompt的文本，变成一套有对象、关系、状态、权限、来源和动作的外部世界。 我暂且把它叫作：Structured Context Infrastructure，结构化上下文基础设施。 GraphRAG只是它早期的一种形态。 一、GraphRAG没输，问题是它从来不是“RAG的高级版” GraphRAG当年火起来，有很现实的原因。 普通向量检索擅长回答：“哪一段文本和我的问题最像？”但企业里很多问题不是找一句话，而是找关系。 比如，“过去一个季度，导致交付延期的",
     "publishedAt": "2026-09-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -94,10 +96,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
     "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
@@ -107,10 +109,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-krafton-doubles-down-on-india-with-another-250m-bet-beyond-g-1788533240000",
-    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-    "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-    "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+    "id": "news-what-will-apple-8217-s-john-ternus-era-look-like-1788542280000",
+    "title": "What will Apple&#8217;s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -133,10 +135,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
-    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
-    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
-    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
+    "id": "news-amtrak-s-relaxed-covid-era-fmla-policy-didn-t-cover-plaintif-1788551700000",
+    "title": "Amtrak’s ‘relaxed’ COVID-era FMLA policy didn’t cover plaintiff’s unexplained absences, judge rules",
+    "link": "https://www.hrdive.com/news/amtrak-relaxed-covid-era-fmla-policy-unexplained-absences/829728/",
+    "summary": "The court&rsquo;s analysis demonstrates the importance of thorough documentation in intermittent Family and Medical Leave Act compliance.",
     "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
@@ -160,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788531143000",
-    "title": " 套上 “药中茅台” 的光环后，片仔癀忘了自己是一味药 ",
-    "link": "https://www.huxiu.com/article/4888718.html?f=rss",
-    "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海，原文标题：《套上 “药中茅台” 的光环后，片仔癀忘了自己是一味药》 2021年，买一粒片仔癀要排队。2026年，卖一粒片仔癀要求人。 四年。这粒药从590元涨到760元，股价却从473元跌到122元。市值蒸发2100亿，五根年线全绿。 2026年8月31日的半年报是最后一记闷棍：营收45.73亿，同比降14.98%；净利润10.93亿，大跌24.22%。这是连续第二年\"双降\"。单看二季度，净利润3.49亿，比一季度直接腰斩还多。 曾经的\"神药\"，到底怎么了？ 760元，压垮一切 片仔癀的价格史，就是一部涨价史。2005年130元，2012年320元，2020年590元，2023年跳到760元。十八年翻了近六倍。 过去这套路走得通，是因为三股力量托底：送礼的要面子，囤货的赌升值，吃药的咬牙认。三力叠加，片仔癀从药品异化成了硬通货。 760元是最后一根稻草。 送礼场景下，两粒1520元，快赶上一瓶飞天茅台。面子是有了，性价比彻底崩了。囤货的更惨，黄牛回收价跌到460元，终端严重倒挂，库存成了烫手山芋。真正需要吃药的人直接被挡在门外，一个疗程几千块，医保还不报——这吃的是药，还是金子？ 数据很残酷：2025年底渠道库存暴增265.53%，经销商库房堆满，终端动销放缓。公司被迫控货消化。760元把片仔癀从\"必需品\"变成\"奢侈品\"",
+    "id": "news-chatgpt-1788538300000",
+    "title": " 具身智能等不来自己的“ChatGPT时刻” ",
+    "link": "https://www.huxiu.com/article/4888736.html?f=rss",
+    "summary": "本文来自微信公众号： 智讯智库 ，作者：陈宥文 从上市即巅峰，到股价近乎腰斩——可能只用“12.41秒”[1]。 8月22日，第二届世界人形机器人运动会百米大型组预赛，宇树跑出12.41秒的成绩，小组垫底[1]——一年前，这项赛事的400米冠军，正是宇树。就在此前两天，王兴兴刚在WRC主论坛上重申了他对具身智能“ChatGPT时刻”的预判：快则2到3年、慢则5到10年——届时，机器人的泛化能力将使其在80%的陌生场景中，通过语音或文字指令完成约80%的任务[2]。 愿景很大，但赛场表现的巨大落差，迅速将宇树科技推上了资本市场和公众舆论的风口浪尖[3]——“具身智能骗局论”再度升温：宇树还配不配“领衔者”的位置？大模型驱动的技术路线到底走不走得通？具身智能的“ChatGPT时刻”究竟会不会来？ 层层追问，最终落在一个词上——“ChatGPT时刻”。 人们翘首以盼的，或许是一个划时代的机器人横空出世，或许是一个带着英雄光环、能一锤定音整个具身智能行业未来的“中国马斯克”。 但，事实真会如此吗？ 本文要点速览 定义偏差：所谓“ChatGPT时刻”，本质是能力涌现、成本骤降、病毒式传播三条曲线同时触达阈值的共振产物。具身智能的物理交互属性决定其难度远高于大语言模型，直接套用C端一夜爆红的叙事属于根本性范畴误判。 发展现状：具身智能的能力、成本和扩散三条曲线分别卡在不同节点。其中，能力卡在跨",
     "publishedAt": "2026-09-04",
     "source": "虎嗅",
     "tags": [
@@ -187,23 +189,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-rethinking-child-safety-and-fossil-fueled-farmi-1788437400000",
-    "title": "The Download: rethinking child safety and fossil-fueled farming",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
-    "publishedAt": "2026-09-03",
+    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology",
-      "strategy"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-google-8217-s-gemini-spark-can-now-manage-your-google-photos-1788533231000",
-    "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
-    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "id": "news-no-little-kids-allowed-and-other-new-info-about-tesla-8217-s-1788540683000",
+    "title": "No little kids allowed, and other new info about Tesla&#8217;s Cybercab",
+    "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+    "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -225,16 +227,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
-    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
-    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
-    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
-    "publishedAt": "2026-09-03",
+    "id": "news-another-whiplash-month-for-the-labor-market-as-august-beats--1788535140000",
+    "title": "Another ‘whiplash’ month for the labor market as August beats expectations",
+    "link": "https://www.hrdive.com/news/another-whiplash-month-for-the-labor-market-as-august-beats-expectations/829684/",
+    "summary": "The market remains in a &ldquo;fragile&rdquo; state, one economist said, as sensitivity to inflation, interest rates and geopolitical tensions remains high.",
+    "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -248,20 +251,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1788531053000",
-    "title": " 黄仁勋与杨小凯 ",
-    "link": "https://www.huxiu.com/article/4888708.html?f=rss",
-    "summary": "本文来自微信公众号： 智本社 ，作者：清和社长，题图来自：视觉中国 英伟达在干什么？ 它试图为AI产业链融资。2026年8月，英伟达联合Apollo、BlackRock、Blackstone、Brookfield、高盛和KKR，拟建立融资平台，长期撬动超过5000亿美元第三方资金。 它为上游托底。数据显示，截至2026年7月，英伟达采购承诺从上一季度的1190亿美元升至2790亿美元，主要增量来自存储。 它还向下游注入信用。数据显示，截至7月26日，英伟达应收账款631亿美元，应付账款151亿美元，差额480亿美元。销售回款天数由上一季度的45天升至60天。公司披露，对部分投资级客户提供90天至一年的付款期限，以配合大型数据中心建设。这一操作与中国大厂完全相反。 对上游存储厂商承诺高价采购和需求扩张，对下游云厂商提供照付不议和最低收入承诺，英伟达为此牺牲部分利润率。公司预计毛利率将从二季度的75%降至四季度的71%&mdash;72%，之后随着已执行提价生效，回到72%&mdash;73%。 具体事件：英伟达为SB Energy俄亥俄州项目提供分阶段生效的担保，最大名义敞口1050亿美元；购买联发科发行的35亿美元可转债，合作范围覆盖云端AI、端侧计算和汽车。 英伟达像是一个AI产业链的组织者和&ldquo;准央行&rdquo;。它正在利用自己的信用为产业链创造流动性，将融资信用传",
-    "publishedAt": "2026-09-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -279,23 +268,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agriculture-relies-on-fossil-fuels-it-s-costing-us-1788429600000",
-    "title": "Agriculture relies on fossil fuels. It’s costing us.",
-    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-    "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a&#8230;",
+    "id": "news-the-download-rethinking-child-safety-and-fossil-fueled-farmi-1788437400000",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
     "publishedAt": "2026-09-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology",
-      "organization"
+      "strategy"
     ]
   },
   {
-    "id": "news-less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-1788530400000",
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "id": "news-another-swarm-of-openai-agents-reached-the-open-internet-wit-1788538871000",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -319,16 +308,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-the-right-personality-could-make-up-f-1788463980000",
-    "title": "This week in 5 numbers: The right personality could make up for a skills gap",
-    "link": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many work-related jams HR Dive compiled for readers to listen to this Labor Day weekend.",
-    "publishedAt": "2026-09-03",
+    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
+    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
+    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
+    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
+    "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -341,19 +331,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788530918000",
-    "title": " 法国人把死人脑子接上机械手，三天后它学会了弹钢琴 ",
-    "link": "https://www.huxiu.com/article/4888719.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 今年六月，法国蒙彼利埃大学的一间实验室里，一台钢琴被奏响了。 弹琴的是一只机械手，这不稀奇，这种机器人弹琴的视频你可能刷到过几百个。 奇怪的是控制这只手的东西，顺着线缆往回找，穿过电脑，来到一个恒温恒湿的培养箱，最后停在一个培养皿上，培养皿里泡着一小片灰白色的组织，那是一块人脑。 当初得到它的时候，它的主人已经去世好几个小时了，现在，主人早已不在，这片脑子还在培养皿里练琴。 这块脑子的主人生前会不会弹琴，咱不知道。 他去世之后，被切片出来的脑子倒是学会了，而且是花了三天时间自己学的。 这不是科幻电影的画面，而是一项最近的科研成果。 团队把整件事写成了论文，题目是《离体人脑组织的无监督感觉-运动关联学习，使机器人实现动作模仿》。 论文发布在Research Square预印本平台 更让人坐不住的是，这片脑子学完之后还能记一段时间。 有的脑片在训练结束17天后还记得怎么弹。 一块没有意识、没有奖赏回路、主人已经不在的脑组织，只要听到声音，就能动对手指。 01一块脑子是怎么自己去学弹琴的 这里先说一个背景知识：人死之后，脑子里的神经元不是立马“关机”的。 死后数小时内取出脑组织，切成薄片放在合适条件下培养，神经元还能继续放电。这件事神经科学界早就知道，但以前大家拿这种离体脑片多数只干一件事：看它放电，记录信号。 法国这个团队突发奇想：",
-    "publishedAt": "2026-09-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -372,28 +349,54 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scaling-agentic-ai-pilots-across-the-enterprise-1788427832000",
-    "title": "Scaling agentic AI pilots across the enterprise",
-    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
+    "id": "news-agriculture-relies-on-fossil-fuels-it-s-costing-us-1788429600000",
+    "title": "Agriculture relies on fossil fuels. It’s costing us.",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a&#8230;",
     "publishedAt": "2026-09-03",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-us-military-disabled-ad-tracking-on-troops-8217-devices-foll-1788528097000",
-    "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
-    "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-    "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
+    "id": "news-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-1788534000000",
+    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+    "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+    "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-marsh-health-benefits-costs-to-see-biggest-jump-in-24-years-1788521446000",
+    "title": "Marsh: Health benefits costs to see biggest jump in 24 years",
+    "link": "https://hrexecutive.com/marsh-health-benefits-costs-to-see-biggest-jump-in-24-years/",
+    "summary": "According to Marsh, the jump is the highest since 2003, and is being driven by a number of factors—from healthcare consolidation to GLP-1s. The post Marsh: Health benefits costs to see biggest jump in 24 years appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
+    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
+    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
+    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
+    "publishedAt": "2026-09-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
     ]
   }
 ];
@@ -1240,38 +1243,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
     "postedAt": "2026-08-27",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137155",
-    "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
-    "company": "Tessera Labs",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Oracle Fusion Cloud Lead — Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting e"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-    "postedAt": "2026-08-27",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137151",
-    "title": "Equipment Maintenance",
-    "company": "JD.COM",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Who We Are At JINGDONG Logistics (JD Logistics), part of JD.com, we are a leading technology-driven supply chain and logistics solutions provider under JD.com",
-      "Built on deep expertise in automation, smart fulfilment, and data intelligence, we operate end-to-end logistics services that empower busine"
-    ],
-    "skills": [],
-    "location": "Lutterworth, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
-    "postedAt": "2026-08-26",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-04T15:42:06.422Z';
+export const dataFetchedAt = '2026-09-04T20:13:30.653Z';
