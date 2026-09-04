@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
     "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-sameness-problem-behind-those-unappetizing-ai-generated--1788495663000",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "id": "news-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-1788534000000",
+    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+    "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+    "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -28,11 +28,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-cuts-10-of-workforce-tightens-return-to-office-rules-1788438600000",
-    "title": "Uber cuts 10% of workforce, tightens return-to-office rules",
-    "link": "https://hrexecutive.com/uber-cuts-10-of-workforce-tightens-return-to-office-rules/",
-    "summary": "Uber lays off 3,300 employees in its third 2026 restructuring, cutting management layers and reinforcing its in-office policy. The post Uber cuts 10% of workforce, tightens return-to-office rules appeared first on HR Executive .",
-    "publishedAt": "2026-09-03",
+    "id": "news-august-job-cuts-up-nearly-60-but-it-s-not-all-bad-news-1788525054000",
+    "title": "August job cuts up nearly 60%—but it’s not all bad news",
+    "link": "https://hrexecutive.com/august-job-cuts-up-nearly-60-but-its-not-all-bad-news/",
+    "summary": "Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -40,16 +40,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
-    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
-    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
-    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
-    "publishedAt": "2026-09-03",
+    "id": "news-another-whiplash-month-for-the-labor-market-as-august-beats--1788535140000",
+    "title": "Another ‘whiplash’ month for the labor market as August beats expectations",
+    "link": "https://www.hrdive.com/news/another-whiplash-month-for-the-labor-market-as-august-beats-expectations/829684/",
+    "summary": "The market remains in a &ldquo;fragile&rdquo; state, one economist said, as sensitivity to inflation, interest rates and geopolitical tensions remains high.",
+    "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -66,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-55-1788517028000",
-    "title": " 踢群、停活、只发55元工资：软裁员这套把戏，为什么屡禁不止？ ",
-    "link": "https://www.huxiu.com/article/4888636.html?f=rss",
-    "summary": "本文来自微信公众号： 风声OPINION ，作者：金宏伟，原文标题：《风声｜踢群、停活、只发55元工资：软裁员这套把戏，为什么屡禁不止？》 凤凰网原创小古的际遇之所以引发全网共鸣，不在于它有多么离奇，恰恰相反，在于它太“标准”——标准到像一本软裁员的案例教科书，每一步都是精密计算过的法律规避术。 法律工作者 近日，重庆女子小古的职场维权事件登上热搜。2019年小古入职某公司，工作了六年半后，自2025年9月无故被搬走电脑、被踢出845个工作群，坐了一个月冷板凳，无奈被迫离职，最后半月工资只拿到55元。经过自己从社交媒体控诉到劳动仲裁、一审、二审等长达近一年的维权努力，终于在上月底二审胜诉后，公司才支付判决款项，但仍拖欠6个月社保和公积金，小古将继续依法维权。‌‌ 她的工作遭遇和维权经历，之所以能够冲上热搜，实乃每个打工者都或多或少遭遇过类似不同程度的工作经历。在成为律师之前，我同样遭遇着这样的荒诞事情。 2000年，本科毕业。那时正是初代互联网热潮，我不免俗地找了一家美资互联网公司。为了证明自己，每天早八点到公司，晚上九点左右才离开。在完成日常工作的同时，我还忙着恶补IT知识，内心满是感激，特别想把这份工作做好。 然而，就在我即将走完FESCO流程之际，收到离职通知。午饭时还和HR有说有笑地逛超市，四点便被HR通知离职，要我五点前离开公司。甚至，连备份学习资料的时间都不给，要求我立",
+    "id": "news--1788533675000",
+    "title": " 练背不如攀岩，都市健身新思路 ",
+    "link": "https://www.huxiu.com/article/4888728.html?f=rss",
+    "summary": "本文来自微信公众号： 精练GymSquare ，作者：Yan 继「练背防垮脸」风之后，都市人又有了练背新思路——练背不如攀岩。 社交媒体上，攀岩人常常随地大小展背，在岩馆灯光加持下，雕刻出深深浅浅的背花；一旦在墙上动起来，肌肉层次随着攀爬者的手脚移动变得丰富，呈现出动态的美感；更有健身人转攀岩，几乎无痛解锁引体向上。 据《2023中国攀岩行业分析报告》显示，2023年，小红书与「攀岩」相关的笔记达到65万+，2019-2023年间笔记数量增长了30倍。截至9月29日，#上墙吧攀岩人的话题浏览量已高达7.5亿，讨论量319万。 比起健身房里的孤立训练，攀岩是一项全身调动的运动，踩点、推髋、侧身、跳跃等，弥补了健身房里专注矢状面和冠状面发力的短板，调动全身动力链，找回人体在行走、跑跳中本来的身体功能。 除此外，攀岩也是更有目标性的运动——完成一条线，摸到下一个点，反馈比臂围增大1厘米、硬拉再加20公斤更即时，既有及时反馈的多巴胺，也有延迟满足的内啡肽；而攀岩中高度的专注会让攀爬者进入心流状态，全神贯注于自己与岩壁的关系，不用在意任何评价与标准，获得大梦一场般酣畅淋漓的体验；更不必谈攀岩馆里的独特氛围，不论是i人还是e人，只要同磕一条线，就能很自然成为朋友。 从追求肌肉维度的形体美，到追求运动表现；从忍受「重复的折磨」，到享受「身体解题」的乐趣，攀岩馆成了都市人健身与修行的游乐场。 练背",
     "publishedAt": "2026-09-04",
     "source": "虎嗅",
     "tags": [
@@ -79,10 +80,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-45-16-helly-hansen-1788515790000",
-    "title": "皇家中国在华首条罐装湿粮产线揭晓；锦江酒店2026上半年扣非净利增长45.16%；Helly Hansen 发布五年增长战略｜消研所周报",
-    "link": "https://www.tmtpost.com/8128855.html",
-    "summary": "巴黎朵梵小珍珠精华油II代焕新；lululemon携手陶身体剧场创作主题短片。",
+    "id": "news-chinese-professor-takes-underwater-robotics-from-lab-to-mark-1788528903000",
+    "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
+    "link": "https://www.tmtpost.com/8129165.html",
+    "summary": "Underwater robots have spawned a “new species.”",
+    "publishedAt": "2026-09-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "publishedAt": "2026-09-04",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-krafton-doubles-down-on-india-with-another-250m-bet-beyond-g-1788533240000",
+    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+    "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+    "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+    "publishedAt": "2026-09-04",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-gain-opportunity-to-shape-cms-drug-cost-survey-pro-1788524124000",
+    "title": "Employers gain opportunity to shape CMS drug cost survey program",
+    "link": "https://hrexecutive.com/employers-gain-opportunity-to-shape-cms-drug-cost-survey-program/",
+    "summary": "The National Average Drug Acquisition Cost program is part of the machinery inside many employers' prescription benefits. The post Employers gain opportunity to shape CMS drug cost survey program appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
+    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
+    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
+    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
+    "publishedAt": "2026-09-04",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-smoothrl-1788513569000",
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "link": "https://www.qbitai.com/2026/09/484437.html",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "publishedAt": "2026-09-04",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788531143000",
+    "title": " 套上 “药中茅台” 的光环后，片仔癀忘了自己是一味药 ",
+    "link": "https://www.huxiu.com/article/4888718.html?f=rss",
+    "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海，原文标题：《套上 “药中茅台” 的光环后，片仔癀忘了自己是一味药》 2021年，买一粒片仔癀要排队。2026年，卖一粒片仔癀要求人。 四年。这粒药从590元涨到760元，股价却从473元跌到122元。市值蒸发2100亿，五根年线全绿。 2026年8月31日的半年报是最后一记闷棍：营收45.73亿，同比降14.98%；净利润10.93亿，大跌24.22%。这是连续第二年\"双降\"。单看二季度，净利润3.49亿，比一季度直接腰斩还多。 曾经的\"神药\"，到底怎么了？ 760元，压垮一切 片仔癀的价格史，就是一部涨价史。2005年130元，2012年320元，2020年590元，2023年跳到760元。十八年翻了近六倍。 过去这套路走得通，是因为三股力量托底：送礼的要面子，囤货的赌升值，吃药的咬牙认。三力叠加，片仔癀从药品异化成了硬通货。 760元是最后一根稻草。 送礼场景下，两粒1520元，快赶上一瓶飞天茅台。面子是有了，性价比彻底崩了。囤货的更惨，黄牛回收价跌到460元，终端严重倒挂，库存成了烫手山芋。真正需要吃药的人直接被挡在门外，一个疗程几千块，医保还不报——这吃的是药，还是金子？ 数据很残酷：2025年底渠道库存暴增265.53%，经销商库房堆满，终端动销放缓。公司被迫控货消化。760元把片仔癀从\"必需品\"变成\"奢侈品\"",
+    "publishedAt": "2026-09-04",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-keep-cut-its-way-to-profit-now-it-needs-ai-to-find-growth-1788528124000",
+    "title": "Keep Cut Its Way to Profit. Now It Needs AI to Find Growth",
+    "link": "https://www.tmtpost.com/8129155.html",
+    "summary": "Over those eight years in between, Keepland shut down, big-ticket equipment offerings were scaled back, headcount shrank, and monthly active users kept sliding year after year.",
     "publishedAt": "2026-09-04",
     "source": "钛媒体",
     "tags": [
@@ -106,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-crusoe-reportedly-raises-3b-at-a-30b-valuation-1788482922000",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "id": "news-google-8217-s-gemini-spark-can-now-manage-your-google-photos-1788533231000",
+    "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -119,11 +213,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-warns-employers-of-tobacco-wellness-program-rule-conflic-1788437736000",
-    "title": "DOL warns employers of tobacco wellness program rule conflict",
-    "link": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
-    "summary": "Regulators will hold off from punishing employers that made a reasonable effort to follow the rules. The post DOL warns employers of tobacco wellness program rule conflict appeared first on HR Executive .",
-    "publishedAt": "2026-09-03",
+    "id": "news-gen-x-and-millennials-feel-least-positive-after-work-new-res-1788523258000",
+    "title": "Gen X and millennials feel least positive after work, new research finds",
+    "link": "https://hrexecutive.com/gen-x-and-millennials-feel-least-positive-after-work-new-research-finds/",
+    "summary": "Employee engagement varies by generation, with Gen X and millennials reporting lower shift-work sentiment while Gen Z shows mixed results. The post Gen X and millennials feel least positive after work, new research finds appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
     "source": "HR Executive",
     "tags": [
       "hr",
@@ -131,24 +225,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-company-s-inability-to-explain-one-manager-s-firing-over-ano-1788463980000",
-    "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
-    "link": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
-    "summary": "Comparators can make or break many types of employment lawsuits, including those involving protected leave.",
+    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
+    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
+    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
+    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
     "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-smoothrl-1788513569000",
-    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-    "link": "https://www.qbitai.com/2026/09/484437.html",
-    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "id": "news-sciencediscovery-rsi-1788512234000",
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "link": "https://www.qbitai.com/2026/09/484293.html",
+    "summary": "不训练模型、不调参数",
     "publishedAt": "2026-09-04",
     "source": "量子位",
     "tags": [
@@ -158,23 +251,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-60-1788516000000",
-    "title": " 都2026年了，为什么还有游戏锁60帧？“解帧”真的是开挂吗？ ",
-    "link": "https://www.huxiu.com/article/4888333.html?f=rss",
-    "summary": "游戏帧数越高，画面越流畅，打起来也就越爽。但有些游戏，不管你显卡多高端、屏幕多高刷，最高就只能跑60帧&mdash;&mdash;因为帧率上限被厂商牢牢&ldquo;锁&rdquo;死了～ 厂商给游戏&ldquo;锁帧&rdquo;到底图什么？为什么玩家&ldquo;解帧&rdquo;会被当成开挂？把游戏帧率上限调高点，到底有多难？我们这期会从游戏的帧数原理入手，找出到底是什么&ldquo;锁&rdquo;住了玩家的游戏体验",
+    "id": "news--1788531053000",
+    "title": " 黄仁勋与杨小凯 ",
+    "link": "https://www.huxiu.com/article/4888708.html?f=rss",
+    "summary": "本文来自微信公众号： 智本社 ，作者：清和社长，题图来自：视觉中国 英伟达在干什么？ 它试图为AI产业链融资。2026年8月，英伟达联合Apollo、BlackRock、Blackstone、Brookfield、高盛和KKR，拟建立融资平台，长期撬动超过5000亿美元第三方资金。 它为上游托底。数据显示，截至2026年7月，英伟达采购承诺从上一季度的1190亿美元升至2790亿美元，主要增量来自存储。 它还向下游注入信用。数据显示，截至7月26日，英伟达应收账款631亿美元，应付账款151亿美元，差额480亿美元。销售回款天数由上一季度的45天升至60天。公司披露，对部分投资级客户提供90天至一年的付款期限，以配合大型数据中心建设。这一操作与中国大厂完全相反。 对上游存储厂商承诺高价采购和需求扩张，对下游云厂商提供照付不议和最低收入承诺，英伟达为此牺牲部分利润率。公司预计毛利率将从二季度的75%降至四季度的71%&mdash;72%，之后随着已执行提价生效，回到72%&mdash;73%。 具体事件：英伟达为SB Energy俄亥俄州项目提供分阶段生效的担保，最大名义敞口1050亿美元；购买联发科发行的35亿美元可转债，合作范围覆盖云端AI、端侧计算和汽车。 英伟达像是一个AI产业链的组织者和&ldquo;准央行&rdquo;。它正在利用自己的信用为产业链创造流动性，将融资信用传",
     "publishedAt": "2026-09-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-2026-1788513893000",
-    "title": "2026年二季度手机市场：华为第一、苹果躺赢，小米跌两成",
-    "link": "https://www.tmtpost.com/8128198.html",
-    "summary": "国内难，海外更难。",
+    "id": "news-500-39-1788526528000",
+    "title": "从500家店缩到39家：嗨特购闭店潮背后，折扣零售迎来模式分水岭",
+    "link": "https://www.tmtpost.com/8129043.html",
+    "summary": "仅仅短短两年时间，全国营业门店收缩近90%。",
     "publishedAt": "2026-09-04",
     "source": "钛媒体",
     "tags": [
@@ -198,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-files-to-go-public-1788474941000",
-    "title": "Oura files to go public",
-    "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-    "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
-    "publishedAt": "2026-09-03",
+    "id": "news-less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-1788530400000",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -211,15 +305,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-match-group-8217-s-cpo-rebuilt-talent-growth-after-flatt-1788436805000",
-    "title": "How Match Group&#8217;s CPO rebuilt talent growth after flattening the org",
-    "link": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
-    "summary": "This HR head removed a quarter of his managers, then watched employees redesign how skill, not time in role, earns pay and growth at work. The post How Match Group&#8217;s CPO rebuilt talent growth after flattening the org appeared first on HR Executive .",
-    "publishedAt": "2026-09-03",
+    "id": "news-psychological-capital-is-a-business-advantage-here-s-why-it--1788522358000",
+    "title": "Psychological capital is a business advantage. Here’s why it matters",
+    "link": "https://hrexecutive.com/psychological-capital-is-a-business-advantage-heres-why-it-matters/",
+    "summary": "How can organizations navigate sustained disruption without worsening employee disengagement? Psychological capital begins to explain this. The post Psychological capital is a business advantage. Here’s why it matters appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -236,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sciencediscovery-rsi-1788512234000",
-    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-    "link": "https://www.qbitai.com/2026/09/484293.html",
-    "summary": "不训练模型、不调参数",
+    "id": "news-ai-2-30-1788505783000",
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "link": "https://www.qbitai.com/2026/09/484203.html",
+    "summary": "5000支队伍同台做题，写尽行业四年变化",
     "publishedAt": "2026-09-04",
     "source": "量子位",
     "tags": [
@@ -249,10 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788515636000",
-    "title": " 追觅造车始末：一场无法量产的狂欢 ",
-    "link": "https://www.huxiu.com/article/4888630.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻何苗，作者：王臻周姝祺李家琦，原文标题：《追觅造车始末：一场无法量产的狂欢 | 商业头条No.142》 7月初，俞浩最后一次出现在追觅核心造车主体星空计划的月度会议上。 那场会议照例由各业务单元（BU）汇报工作，部分相关员工列席。李向阳在线上参加了会议。他于2024年加入追觅汽车团队。此后近两年，他几乎见证了追觅造车从扩张到收缩的全部过程。 按照他的回忆，俞浩很少让一场会议平静地开完。过去听取汇报时，他会突然打断发言，直接指出数据和方案中的问题；如果一名负责人没有达到他的预期，批评往往来得尖锐而具体。会议的节奏由他控制，情绪也跟随他的判断迅速升降。 但那一天，这位一手推动追觅造车的年轻创始人少了往日的锋芒。大部分时间里，他只是安静地听着汇报，其间谈了几句海外渠道的搭建。 会议持续了大约两个小时，依照原有流程结束。没有人宣布这是一场告别会，但此后，星空计划再也没有召开下一次月度例会。 裁员在这场会议前已经开始。6月底，星空计划陆续进行人员调整，进入7月，离开的人突然多了起来。一位当时仍在职的工程师告诉界面新闻，大部分一线工程师在7月或8月初离开。李向阳也成为了裁员大军中的一人，他所在的团队随之解散。 这距离俞浩上一次公开给出量产时间表，仅仅过去三个月。 2026年5月下旬，俞浩在央视采访中坐进一辆追觅样车。主持人问，这辆车距离量产还有多",
+    "id": "news--1788530918000",
+    "title": " 法国人把死人脑子接上机械手，三天后它学会了弹钢琴 ",
+    "link": "https://www.huxiu.com/article/4888719.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 今年六月，法国蒙彼利埃大学的一间实验室里，一台钢琴被奏响了。 弹琴的是一只机械手，这不稀奇，这种机器人弹琴的视频你可能刷到过几百个。 奇怪的是控制这只手的东西，顺着线缆往回找，穿过电脑，来到一个恒温恒湿的培养箱，最后停在一个培养皿上，培养皿里泡着一小片灰白色的组织，那是一块人脑。 当初得到它的时候，它的主人已经去世好几个小时了，现在，主人早已不在，这片脑子还在培养皿里练琴。 这块脑子的主人生前会不会弹琴，咱不知道。 他去世之后，被切片出来的脑子倒是学会了，而且是花了三天时间自己学的。 这不是科幻电影的画面，而是一项最近的科研成果。 团队把整件事写成了论文，题目是《离体人脑组织的无监督感觉-运动关联学习，使机器人实现动作模仿》。 论文发布在Research Square预印本平台 更让人坐不住的是，这片脑子学完之后还能记一段时间。 有的脑片在训练结束17天后还记得怎么弹。 一块没有意识、没有奖赏回路、主人已经不在的脑组织，只要听到声音，就能动对手指。 01一块脑子是怎么自己去学弹琴的 这里先说一个背景知识：人死之后，脑子里的神经元不是立马“关机”的。 死后数小时内取出脑组织，切成薄片放在合适条件下培养，神经元还能继续放电。这件事神经科学界早就知道，但以前大家拿这种离体脑片多数只干一件事：看它放电，记录信号。 法国这个团队突发奇想：",
     "publishedAt": "2026-09-04",
     "source": "虎嗅",
     "tags": [
@@ -262,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1788513891000",
-    "title": "阿里又多了一个Agent赛马",
-    "link": "https://www.tmtpost.com/8128120.html",
-    "summary": "阿里手里的马，已经越来越多 了",
+    "id": "news--1788526497000",
+    "title": "鸭脖卖不动了，卤味三巨头主业集体失速",
+    "link": "https://www.tmtpost.com/8129094.html",
+    "summary": "鸭脖不再是消费者解馋的唯一选择，休闲卤味赛道增速放缓，行业进入存量争夺战。",
     "publishedAt": "2026-09-04",
     "source": "钛媒体",
     "tags": [
@@ -288,102 +384,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab--1788473910000",
-    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-    "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-    "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-    "publishedAt": "2026-09-03",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-performance-measurement-may-be-missing-your-best-workers-1788435954000",
-    "title": "Performance measurement may be missing your best workers",
-    "link": "https://hrexecutive.com/performance-measurement-may-be-missing-your-best-workers/",
-    "summary": "Sometimes, performance management systems miss workers who are unchallenged and need a chance; managers should be aware of it. The post Performance measurement may be missing your best workers appeared first on HR Executive .",
-    "publishedAt": "2026-09-03",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-employers-predict-moderate-pay-increases-for-fourth-consecut-1788450240000",
-    "title": "Employers predict moderate pay increases for fourth consecutive year",
-    "link": "https://www.hrdive.com/news/employers-predict-moderate-pay-increases-for-fourth-consecutive-year/829188/",
-    "summary": "But compensation decisions often &ldquo;continue well beyond the annual merit cycle,&rdquo; Marsh said.",
-    "publishedAt": "2026-09-03",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-2-30-1788505783000",
-    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-    "link": "https://www.qbitai.com/2026/09/484203.html",
-    "summary": "5000支队伍同台做题，写尽行业四年变化",
+    "id": "news-us-military-disabled-ad-tracking-on-troops-8217-devices-foll-1788528097000",
+    "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
+    "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+    "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
     "publishedAt": "2026-09-04",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-lululemon-1788515417000",
-    "title": " 长城上的那面鼓，击碎了lululemon的高增长 ",
-    "link": "https://www.huxiu.com/article/4888628.html?f=rss",
-    "summary": "本文来自微信公众号： 涌流商业 ，作者：林耕 新CEO Heidi O’Neill还没有正式上任，lululemon股价先跌了18%。 9月3日，公司公布2026财年第二季度业绩：收入24.156亿美元，同比下降4%；按固定汇率计算下降5%。北美收入下降8%，中国大陆市场按固定汇率计算也转为下滑。更扎眼的是可比销售额，北美下降12%，中国下降8%。 盘后股价大跌18%，直接跌破100美元关口；2025年初股价还在400美元左右。 原Nike高管O’Neill将在9月8日正式成为lululemon CEO，这不是一份体面的欢迎礼。 更麻烦的是，公司还没有触底。lululemon预计三季度收入会再下降10%-11%，北美降幅可能达到十几个百分点。8月已经过去，临时联席CEO兼CFO Meghan Frank在电话会上承认，开局有些缓慢。 lululemon最经典的产品拖后腿了。二季度，女装legging销售下降约20%。消费者不那么爱紧身裤了，开始穿得更宽松，新版Dance Studio Pants等承接一部分需求，但不够抵消legging的下滑，女装下装业务整体下降中个位数。 中国市场情况急转直下，这里原本是lululemon最稳定的增长引擎，也是在北美失速时最重要的缓冲。一个季度前，大陆市场收入按固定汇率还增长23%，二季度突然转为下降2%；可比销售按固定汇率下降8%。 管理层没有",
-    "publishedAt": "2026-09-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-geo-1788513890000",
-    "title": "劝你别做GEO了",
-    "link": "https://www.tmtpost.com/8128703.html",
-    "summary": "GEO并非适合所有行业，需结合自身条件理性布局",
-    "publishedAt": "2026-09-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-facilitating-ai-integration-with-simplicity-at-scale-1788357600000",
-    "title": "Facilitating AI integration with simplicity at scale",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
-    "publishedAt": "2026-09-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-startup-arr-is-less-secure-than-ever-new-research-shows-1788469163000",
-    "title": "Startup ARR is less secure than ever, new research shows",
-    "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-    "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-    "publishedAt": "2026-09-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -1031,6 +1036,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137306",
+    "title": "Office Maid",
+    "company": "Hacksaw Gaming",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "At Hacksaw Gaming, we believe that a clean, organized, and welcoming workplace helps create a great environment for everyone",
+      "We are looking for a reliable, trustworthy, and hardworking Office Maid to help maintain our office and support the team with light day-to-day tasks",
+      "Job Description: This po"
+    ],
+    "skills": [],
+    "location": "Msida, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306",
+    "postedAt": "2026-09-03",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137273",
     "title": "Multi Skilled Maintenance Technician",
     "company": "Sigma",
@@ -1252,4 +1274,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-04T10:30:29.646Z';
+export const dataFetchedAt = '2026-09-04T15:42:06.422Z';
