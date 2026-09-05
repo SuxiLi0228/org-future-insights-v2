@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-blocks-x-rival-from-using-twitter-name-but-allows-8216-1788544325000",
-    "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
-    "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+    "id": "news-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri-1788564974000",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -54,39 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-token-1788513804000",
-    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-    "link": "https://www.qbitai.com/2026/09/484547.html",
-    "summary": "国产卡跑出高品质 AI Token 生产级性能",
-    "publishedAt": "2026-09-04",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-graphrag-agent-1788538484000",
-    "title": " GraphRAG 可能会过时，Agent 的“外部世界”才刚刚开始 ",
-    "link": "https://www.huxiu.com/article/4888739.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 过去两年，企业Agent有一个很奇怪的处境。 模型越来越强，能塞进上下文的文档越来越多，RAG方案也越来越复杂。但真到了“替我查一笔订单为什么延迟、判断能否调货、找出受影响客户、再提交一个排程申请”这种任务，很多Agent还是像一个知识面很广的实习生。 它会搜，也会总结，偶尔说得头头是道。 但它并不真正知道：这家公司里“客户”“订单”“库存”到底分别是什么；这些对象此刻处于什么状态；谁可以看、谁可以改；哪一条规则是正式规则；更重要的是，它能不能把答案变成一个受约束的行动。参见AI知识基础正在重写：原始来源、维基、检索、记忆要分开 微软的GraphRAG项目已经明确进入维护模式，不再接收新功能或新PR。 正在成形的，是另一层东西：Agent的Context正从一摞临时塞进Prompt的文本，变成一套有对象、关系、状态、权限、来源和动作的外部世界。 我暂且把它叫作：Structured Context Infrastructure，结构化上下文基础设施。 GraphRAG只是它早期的一种形态。 一、GraphRAG没输，问题是它从来不是“RAG的高级版” GraphRAG当年火起来，有很现实的原因。 普通向量检索擅长回答：“哪一段文本和我的问题最像？”但企业里很多问题不是找一句话，而是找关系。 比如，“过去一个季度，导致交付延期的",
-    "publishedAt": "2026-09-04",
+    "id": "news--1788576068000",
+    "title": " 节约成本数百万，无人车带来的麻烦谁买单？ ",
+    "link": "https://www.huxiu.com/article/4888769.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰 今年7月1日，公安部《智能网联汽车道路测试与示范应用安全通行规范》正式施行。 这份被业内称为“全国统一交规”的文件，结束了无人配送车长达数年的身份模糊期，首次在国家层面划定了通行规则、车辆标准和保险底线。 两个月后，深圳交出了新规落地后的首份月度成绩单。 深圳市智能网联交通协会日前发布的功能型无人车7月月报显示，全市无人配送网络首次实现行政区全覆盖，单月运营里程突破20万公里，交通事故率降至0.35次/万公里，主责事故延续走低态势。 这份成绩单足够亮眼，但藏在其中的几个数字更值得细读：车辆规范率98.9%，运行合规率91.8%，市民投诉60单且集中在停车点位。 要知道，目前全国已有200多个城市陆续开放路权，行业保有量突破5万台。 这些看似微小的缺口，恰恰暴露了“能上路”之后真正的行业难题。 当前无人车赛道的主力是无人物流车，竞争格局高度集中：九识智能（含菜鸟）以近3万台保有量占据超过52%的国内市场份额，新石器以1.7万台（不含海外）占约36%，两家合计约九成，白犀牛位列第三，京东、美团、顺丰等大厂均有布局，网传近日字节也下场参与，但规模相对小很多，行业呈双寡头格局。 同一赛道的另外两个分支面临相似的制度课题。Robotaxi（无人驾驶出租车）方面，百度萝卜快跑已在全国22个城市全无人运营，小马智行、文远知行紧随其后，但运营范围被限",
+    "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-chinese-professor-takes-underwater-robotics-from-lab-to-mark-1788528903000",
-    "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
-    "link": "https://www.tmtpost.com/8129165.html",
-    "summary": "Underwater robots have spawned a “new species.”",
-    "publishedAt": "2026-09-04",
+    "id": "news-gpt-6-astra-agi-1788573543000",
+    "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
+    "link": "https://www.tmtpost.com/8128178.html",
+    "summary": "限量开放，普通用户还要再“仰望”一会儿。",
+    "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -109,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-will-apple-8217-s-john-ternus-era-look-like-1788542280000",
-    "title": "What will Apple&#8217;s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "id": "news-openai-8217-s-rogue-agents-keep-escaping-with-no-formal-proc-1788563711000",
+    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -149,37 +134,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-smoothrl-1788513569000",
-    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-    "link": "https://www.qbitai.com/2026/09/484437.html",
-    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-    "publishedAt": "2026-09-04",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-chatgpt-1788538300000",
-    "title": " 具身智能等不来自己的“ChatGPT时刻” ",
-    "link": "https://www.huxiu.com/article/4888736.html?f=rss",
-    "summary": "本文来自微信公众号： 智讯智库 ，作者：陈宥文 从上市即巅峰，到股价近乎腰斩——可能只用“12.41秒”[1]。 8月22日，第二届世界人形机器人运动会百米大型组预赛，宇树跑出12.41秒的成绩，小组垫底[1]——一年前，这项赛事的400米冠军，正是宇树。就在此前两天，王兴兴刚在WRC主论坛上重申了他对具身智能“ChatGPT时刻”的预判：快则2到3年、慢则5到10年——届时，机器人的泛化能力将使其在80%的陌生场景中，通过语音或文字指令完成约80%的任务[2]。 愿景很大，但赛场表现的巨大落差，迅速将宇树科技推上了资本市场和公众舆论的风口浪尖[3]——“具身智能骗局论”再度升温：宇树还配不配“领衔者”的位置？大模型驱动的技术路线到底走不走得通？具身智能的“ChatGPT时刻”究竟会不会来？ 层层追问，最终落在一个词上——“ChatGPT时刻”。 人们翘首以盼的，或许是一个划时代的机器人横空出世，或许是一个带着英雄光环、能一锤定音整个具身智能行业未来的“中国马斯克”。 但，事实真会如此吗？ 本文要点速览 定义偏差：所谓“ChatGPT时刻”，本质是能力涌现、成本骤降、病毒式传播三条曲线同时触达阈值的共振产物。具身智能的物理交互属性决定其难度远高于大语言模型，直接套用C端一夜爆红的叙事属于根本性范畴误判。 发展现状：具身智能的能力、成本和扩散三条曲线分别卡在不同节点。其中，能力卡在跨",
-    "publishedAt": "2026-09-04",
+    "id": "news-hugging-face-1788574985000",
+    "title": " Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者 ",
+    "link": "https://www.huxiu.com/article/4888767.html?f=rss",
+    "summary": "本文来自微信公众号： InfoQ ，编译：褚杏娟，作者：褚杏娟 当地时间周四，英伟达正式宣布已与Hugging Face达成最终收购协议，将以129亿美元买下这家全球最重要的开放模型平台之一。交易预计将在2027年上半年完成，但仍需获得监管批准并满足其他惯常交割条件。 表面看，这笔交易的商业逻辑并不复杂：开放基础模型以及基于它们构建的应用，会持续拉动GPU、推理软件和AI基础设施需求；而Hugging Face恰好位于开放模型发现、分发、部署和社区协作的核心位置。拿下Hugging Face，意味着英伟达不再只是站在AI产业最底层卖算力，而是进一步向模型分发、开发者生态和社区入口延伸。 但有外媒对这比收购的评价是：“监管机构应该阻止这笔交易。” The Register认为，这可能是AI行业迄今最值得认真审查的一笔并购之一。“你不会允许一家汽车制造商收购主要的燃料分销渠道，也不会允许它把培训维修技师的主要体系一并买下，但英伟达收购Hugging Face，本质上几乎同时做了这两件事。” 英伟达已经通过GPU、CUDA、网络、推理软件和AI框架占据极强位置，如今又进一步掌握开放模型生态最重要的入口之一，纵向整合程度正在明显加深。真正的问题是当一个原本被视为“AI界瑞士”的中立平台变成行业最强势基础设施公司的资产之后，它还能在多大程度上保持真正的中立。 尽管如此，Hugging Fac",
+    "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-keep-cut-its-way-to-profit-now-it-needs-ai-to-find-growth-1788528124000",
-    "title": "Keep Cut Its Way to Profit. Now It Needs AI to Find Growth",
-    "link": "https://www.tmtpost.com/8129155.html",
-    "summary": "Over those eight years in between, Keepland shut down, big-ticket equipment offerings were scaled back, headcount shrank, and monthly active users kept sliding year after year.",
-    "publishedAt": "2026-09-04",
+    "id": "news-agi-1788573521000",
+    "title": "AGI，真的来了？",
+    "link": "https://www.tmtpost.com/8129208.html",
+    "summary": "GPT-6 Astra来了，OpenAI还要追Anthropic。",
+    "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -202,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-no-little-kids-allowed-and-other-new-info-about-tesla-8217-s-1788540683000",
-    "title": "No little kids allowed, and other new info about Tesla&#8217;s Cybercab",
-    "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-    "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+    "id": "news-ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-fi-1788556331000",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -241,24 +214,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sciencediscovery-rsi-1788512234000",
-    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-    "link": "https://www.qbitai.com/2026/09/484293.html",
-    "summary": "不训练模型、不调参数",
-    "publishedAt": "2026-09-04",
-    "source": "量子位",
+    "id": "news-cybercab-1788574894000",
+    "title": " 特斯拉赌数据，中国赌标准：一辆Cybercab背后的两条路 ",
+    "link": "https://www.huxiu.com/article/4888765.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 当地时间9月3日，得州奥斯汀。 马斯克把一辆没有方向盘、没有踏板、连后视镜都没有的双座车开上发布会舞台——全球首款专为无人驾驶打造的量产车，发布后正式投入运营。 一周多以前，上海嘉定。 一辆同样没有方向盘的智己测试车，在园区道路上被路人拍下，主驾位置只剩一块横向大屏，网友叫它“中国版Cybercab”。 两辆车隔着太平洋，指向同一个问题：中国自己的Cybercab，什么时候来。 答案不在车库里，在时间表里。 ⑴奥斯汀先接了单，嘉定还挂着测试牌 先看奥斯汀这辆车。 据中国经济网报道，特斯拉9月3日在得州奥斯汀发布Cybercab，这是全球第一款专为无人驾驶场景打造的量产车：没有方向盘，没有踏板，没有传统后视镜，座舱里只有两张长椅式座椅和一块中控触摸屏。 它2024年10月以概念车身份亮相，2026年2月在得州超级工厂下线首台量产车，4月启动正式量产。 从概念到投产，大约18个月。 传统车企开发一款全新车型，周期通常是四到五年。 支撑这个速度的是“拆箱式”制造工艺：零部件先在子组件里并行生产，最后一次性总装。 马斯克的说法是，这套产线未来有望做到每10秒甚至5秒下线一辆车。 作为参照，特斯拉上海超级工厂平均30多秒下线一台Model Y，已经是行业里出了名的快。 参数同样激进。 据美国环保署数据，Cybercab整备质量1412公斤，搭载",
+    "publishedAt": "2026-09-05",
+    "source": "虎嗅",
     "tags": [
       "china",
-      "ai",
+      "business",
       "technology"
     ]
   },
   {
-    "id": "news-500-39-1788526528000",
-    "title": "从500家店缩到39家：嗨特购闭店潮背后，折扣零售迎来模式分水岭",
-    "link": "https://www.tmtpost.com/8129043.html",
-    "summary": "仅仅短短两年时间，全国营业门店收缩近90%。",
-    "publishedAt": "2026-09-04",
+    "id": "news--1788573515000",
+    "title": "越来越贵的方便面，拯救统一们？",
+    "link": "https://www.tmtpost.com/8129027.html",
+    "summary": "复购率才是检验方便面高端化成色最重要的标尺。",
+    "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -281,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-another-swarm-of-openai-agents-reached-the-open-internet-wit-1788538871000",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "id": "news-judge-blocks-x-rival-from-using-twitter-name-but-allows-8216-1788544325000",
+    "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
+    "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -322,24 +295,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-2-30-1788505783000",
-    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-    "link": "https://www.qbitai.com/2026/09/484203.html",
-    "summary": "5000支队伍同台做题，写尽行业四年变化",
-    "publishedAt": "2026-09-04",
-    "source": "量子位",
+    "id": "news--1788574678000",
+    "title": " 一张假发票掀翻百亿美元贸易巨头，海外版“开票经济”暴雷 ",
+    "link": "https://www.huxiu.com/article/4888761.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 我有个做大宗的朋友，这几年靠着跟非洲的易货贸易发达了，撇开我们跑去了新加坡定居。昨天我张罗着几个圈里的老铁拉了一个腾会，把这小子炮轰了一小时，嬉笑怒骂之间，他给我们讲起了最近发生在新加坡的一件事，让我们深有感触。 新加坡有个做铁矿石的贸易商，叫Radiant World。年营业额120亿美元，在全球铁矿石圈都是排得上号的玩家。但就是这样一家公司，最近却被一张假发票给轻易击穿了。 不是黑客攻击，不是做空狙击。就是一张纸，上面印了一个根本不存在的交易，最终因一个偶然的事件导致了暴雷，结果德意志银行跑了，工行标准银行跑了，力拓跑了，淡水河谷跑了。嘉能可、维多、嘉吉——全球最大的几家大宗商品贸易商，集体跑路。 8月20号，新加坡警方已正式介入调查。一家百亿美元级的贸易商，就这么被一张假发票干翻了。 而这件事最魔幻的地方在于：它那套操作手法，国内早就玩烂了。 年营业额120亿美元，被一张假发票干翻了 Radiant World这家年流水百亿美元的新加坡铁矿石贸易商是怎么爆的呢？ 用句中国的俗话叫做“情理之中、意料之外”。意大利联合圣保罗银行拿着它的发票去找维多集团核实，维多看了一眼，回了一句：“这些交易，我们从来没做过。” 也就是说，Radiant World拿着伪造的\"交易发票\"向银行套融资，银行一核实，底层交易是空的。Intesa对其风险敞",
+    "publishedAt": "2026-09-05",
+    "source": "虎嗅",
     "tags": [
       "china",
-      "ai",
+      "business",
       "technology"
     ]
   },
   {
-    "id": "news--1788526497000",
-    "title": "鸭脖卖不动了，卤味三巨头主业集体失速",
-    "link": "https://www.tmtpost.com/8129094.html",
-    "summary": "鸭脖不再是消费者解馋的唯一选择，休闲卤味赛道增速放缓，行业进入存量争夺战。",
-    "publishedAt": "2026-09-04",
+    "id": "news-mac-openai-1788573510000",
+    "title": "Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈",
+    "link": "https://www.tmtpost.com/8129072.html",
+    "summary": "并非代替文学，而是各司其职。",
+    "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -362,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-1788534000000",
-    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-    "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-    "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+    "id": "news-what-will-apple-8217-s-john-ternus-era-look-like-1788542280000",
+    "title": "What will Apple&#8217;s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -397,6 +370,33 @@ export const generatedNews: NewsItem[] = [
       "hr",
       "ai-hr",
       "workforce"
+    ]
+  },
+  {
+    "id": "news--1788574134000",
+    "title": " 教师节免门票，景区为何被群嘲？ ",
+    "link": "https://www.huxiu.com/article/4888760.html?f=rss",
+    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 老师上课，景区作秀。 01 这两天，我注意到很多原本想借教师节收获掌声的景区，先在评论区里被老师们骂惨了。 最典型的是四川四姑娘山。 9月1日，四姑娘山景区发布教师节免门票通告，先用颇为抒情的文字向辛勤耕耘的教育工作者致敬，宣布全国教师可以免费游览双桥沟和长坪沟。 公告显示，老师们享受免票的时间只有9月10日至11日，恰好是周四和周五，观光车票、旅游保险仍需另行购买，游客还要提前预约，带上身份证和教师资格证前往景区核验。 免票自然是好事，但对老师们来说，整份公告最刺眼的四个字莫过于过期作废。 因为即使对成都游客来说，去趟四姑娘山也很难当天往返，更远地方的老师若想享受这份福利，需要提前安排交通和住宿，还得先向学校请假。 类似的还有九寨沟，该景区称，9月10日教师节当天，老师凭有效教师资格证，可以带着一名亲友同行，两个人都免门票，而景区观光车仍需单独付费，双方必须同时入园。 四川其他景区也纷纷跟上，达古冰川、中国古羌城把优惠锁定在9月10日，剑门关和海螺沟选择了同样的日期，公告中的祝福各不相同，留给老师的出游时间却大多只有短短几小时。 事实上，今年教师节是周四，按照相关规定并不放假，中小学刚开学不久，普通教师白天需要上课，班主任还要处理新学期的各种事务。 所以，景区官宣之后，评论区没有出现预想中的感谢，网友们开始集体研究如何在上",
+    "publishedAt": "2026-09-05",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788573505000",
+    "title": "豆包终于想明白了",
+    "link": "https://www.tmtpost.com/8129097.html",
+    "summary": "有比定机票、酒店更早的客户触点。",
+    "publishedAt": "2026-09-05",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
     ]
   }
 ];
@@ -1246,4 +1246,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-04T20:13:30.653Z';
+export const dataFetchedAt = '2026-09-05T02:46:08.942Z';
