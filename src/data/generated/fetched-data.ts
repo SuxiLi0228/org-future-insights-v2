@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri-1788564974000",
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "publishedAt": "2026-09-04",
+    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-1788582265000",
-    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-    "link": "https://www.qbitai.com/2026/09/484649.html",
-    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "id": "news-gpt-6-transformer-1788620828000",
+    "title": "GPT-6带火循环Transformer，阿里早已布局",
+    "link": "https://www.qbitai.com/2026/09/484726.html",
+    "summary": "手握两篇顶会论文",
     "publishedAt": "2026-09-05",
     "source": "量子位",
     "tags": [
@@ -67,23 +67,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788614674000",
-    "title": " “国民品牌”珍视明，爆出滴眼液产品大面积不合格 ",
-    "link": "https://www.huxiu.com/article/4888850.html?f=rss",
-    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：王丽 一家以“护眼”为立身之本的药企，偏偏在眼药水上出了质量问题。 9月4日，国家药监局通报37批次不符合规定药品，其中23批次为妥布霉素地塞米松滴眼液，涉及珍视明和成都青山利康两家企业。其中珍视明药业10个不同批号、不同销售渠道的产品均被北京市药监局检查出不同程度的质量问题；青山利康则有13个批号出问题。 多个批次产品出现问题，这在以往的药品检查中比较罕见。青山利康是一家以肾病透析药物为主的企业，眼科并非擅长；但珍视明则不同，这是一家以“眼部健康专家”品牌形象示人的企业，产品线几乎全部围绕眼科，核心产品珍视明滴眼液在1988年就上市了，前身工厂可以追溯到1968年。 一家历史悠久的明星药企，出现这样的问题很不正常。 就在两天前，国家药监局刚刚正式启动滴眼剂仿制药一致性评价，药审中心同步发布两项技术指导原则。新规意味着滴眼剂今后将在质量和疗效上全面与参比制剂对齐，大量眼科药品将从“有批文、能生产”进入“拼工艺、拼质量、拼持续稳定性”的阶段。 靠眼药起家的老牌企业珍视明，如今被查出滴眼液的质量都不过关，还能不能守住自己最核心的眼科专业标签？ 先丢的是信任 妥布霉素地塞米松滴眼液主要治疗细菌性眼部感染，是药店里常会推荐的眼药水之一。原研药由爱尔康生产，国内共有9个仿制药批文，齐鲁、杭州民生、杭州国光、珍视明等多家企业竞争。 共研产业",
+    "id": "news-5-1788637449000",
+    "title": " “硬科技”提出者米磊：5万亿英伟达收的是“智商税” ",
+    "link": "https://www.huxiu.com/article/4887895.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜AI生成 今年，中科创星创始合伙人米磊，已经四次站上港交所的敲钟台。 其中投资时间最长的是驭势科技，2016&nbsp;年投，2026&nbsp;年上市，刚好十年，精确落在他说过的那个硬科技投资回报周期上：9&nbsp;到&nbsp;10&nbsp;年，最长&nbsp;11&nbsp;年。 也是在今年&nbsp;7&nbsp;月，他的新书《硬科技浪潮：技术趋势、投资机遇与文明演进》出版。距离他&nbsp;2010&nbsp;年提出&ldquo;硬科技&rdquo;概念，过去了16年。 如今的米磊，比过去更忙了，我们只能从他的两个会面之间，挤出交谈的时间。但他眉头舒展了不少，笑容也多了。 米磊本人 图片由中科创星提供 与其说是投资人，米磊更像一位硬科技的布道者。我问他，这本书可以算作中科创星这些年的投资手册吗？他给出的答案是否定的：他希望的读者是普通人，让不做投资的人也能看懂硬科技。 16年前，他提出了&ldquo;硬科技&rdquo;的概念，以人工智能、基因技术、航空航天、脑科学、光子芯片、新材料等为代表的高精尖科技。区别于由互联网模式创新，硬科技是需要长期研发投入、持续积累才能形成的原创技术。具有极高技术门槛和技术壁垒，难以被复制和模仿。是对人类经济社会产生深远而广泛影响的革命性技术，是推动世界进步的动力和源泉。 在这本书中，米",
     "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-workbuddy-1788607161000",
-    "title": "生态开放越容易，WorkBuddy越“廉价”",
-    "link": "https://www.tmtpost.com/8129337.html",
-    "summary": "100家伙伴站台，WorkBuddy能圈住几个？",
+    "id": "news--1788624386000",
+    "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
+    "link": "https://www.tmtpost.com/8129844.html",
+    "summary": "这不是实验室里的概念演示，而是科沃斯窗宝面向欧洲市场的实景秀场。",
     "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
@@ -107,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-rogue-agents-keep-escaping-with-no-formal-proc-1788563711000",
-    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "publishedAt": "2026-09-04",
+    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -147,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788581934000",
-    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-    "link": "https://www.qbitai.com/2026/09/484611.html",
-    "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+    "id": "news-spacex-1788619575000",
+    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+    "link": "https://www.qbitai.com/2026/09/484683.html",
+    "summary": "当AI开始“预演”一场暴雨",
     "publishedAt": "2026-09-05",
     "source": "量子位",
     "tags": [
@@ -160,23 +161,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788613771000",
-    "title": " 从惊吓到惊喜，太刺激了 ",
-    "link": "https://www.huxiu.com/article/4888848.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：叶檀财经团队 生命是重一点好，还是轻一点好？对大多数人来说，似乎越重越好。 米兰昆德拉在《不能承受生命之轻》中写道，最沉重的负担也是生命力最旺盛的影像，负担越重，生命就越贴近大地，也就越真切实在。 如果负担完全消失，人将变得比空气还轻……自由也将失去意义， 上面这段表述像极了司马迁的，人固有一死，或重于泰山，或轻于鸿毛。 2026年，不少人在重新定义生命轻重。3.5微克的生命重量，2.5吨20元一张的美金，0.2克的麦当劳票据，人类生活在两个世界。 前者是古老财富交易的当代行为艺术，后者是生命的第一现场。 马玉江是名艺术家，2014年去香港，刚去的时候极不适应，整宿整宿睡不着觉。趁着失眠，他开始在麦当劳收集小票（消费单据）。 一年时间，一共捡了1259张。 每次捡到小票，马玉江都会扫描下来，并用非常精密的称，给单据称重。他发现，如果只买5块钱的可乐，或者类似的单品，重量大概是0.3克到0.5克。 如果是买汉堡包或者套餐，重量大约在0.5—0.7克。普通人的小票多为0.5—0.7克，而低收入群体，以麦当劳为家的人，手里攥着0.3克到0.5克。低收入群体没什么钱，但为了抵饿，会时不时买一些最便宜的东西。 马玉江说夜晚的麦当劳，就像一个小社会，常去的大佬会占据最里面的卡座，能躺能睡，新来的人，只能在光线最亮的地方，干巴巴坐着。 三百多个晚上，最让马",
+    "id": "news--1788627791000",
+    "title": " 董秘越来越难当了 ",
+    "link": "https://www.huxiu.com/article/4888868.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 现在上市公司跟股民说话，渠道多了去了，互动易、公众号、业绩说明会，隔三差五就有动静。 2026年，这些动静开始挨罚了。1300万一张，950万一张，还有的吃了监管警示。 罚单贴出来，股民都看愣了，这些公司说的话，拆开看句句属实。句句属实还挨罚，凭啥？这事得从头说。先说最近这一桩。 8月26日，龙版传媒在半年报里写了一句话。 首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万。 股价的反应比什么解读都快，8月31日到9月4日，五个交易日，五个涨停板，累计涨幅61.14%，市值69.11亿。 一家以教材教辅为主业的出版公司，一夜之间成了AI概念里最亮的仔。 第五个涨停那天，监管来了。9月4日盘后，上交所对公司和时任董秘孙福军予以监管警示，公司当天跟着发风险提示。 风险提示里有一行字，AI视频业务6月产生营收约80元，7月约7.5万元，占经审计2025年公司营业收入不足0.01%。 80元，一家奶茶店半个小时的流水都不止这个数。 这80元还是被一步步问出来的，9月2日、9月3日，公司两度发公告，口径统一是AI视频业务未产生营业收入。 9月4日，监管警示落地当天，口径变了，有营收，80元，三天三次说法，最后一次把家底交了出来。 回头看半年报那句话，没有一个字是假的，播放量是真的，170集是真的，热度",
     "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-1-5-1788607134000",
-    "title": "五粮液拿出1.5亿“酿”电池，这家白酒巨头在固态电池赛道的豪赌能赢么？",
-    "link": "https://www.tmtpost.com/8129560.html",
-    "summary": "五粮液跨界押注全固态电池，主业承压转型面临考验。",
+    "id": "news-workbuddy-1788607161000",
+    "title": "生态开放越容易，WorkBuddy越“廉价”",
+    "link": "https://www.tmtpost.com/8129337.html",
+    "summary": "100家伙伴站台，WorkBuddy能圈住几个？",
     "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
@@ -200,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-fi-1788556331000",
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "publishedAt": "2026-09-04",
+    "id": "news-clucky-8217-s-new-alarm-app-wakes-you-up-with-a-crowing-roos-1788627600000",
+    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
+    "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+    "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -239,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-1788571076000",
-    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-    "link": "https://www.qbitai.com/2026/09/484551.html",
-    "summary": "最后靠Harness救回来",
+    "id": "news-gpt-6-1788582265000",
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "link": "https://www.qbitai.com/2026/09/484649.html",
+    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
     "publishedAt": "2026-09-05",
     "source": "量子位",
     "tags": [
@@ -252,23 +254,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788613672000",
-    "title": " 特斯拉无人出租车，为什么偏偏长这样？ ",
-    "link": "https://www.huxiu.com/article/4888826.html?f=rss",
-    "summary": "原文标题：《特斯拉正式启动Cybercab商业运行：拿掉了驾驶员的出租车，为什么被设计成了这个样子？》，头图来自：视觉中国 很难形容Tesla在奥斯汀举行的Cybercab活动，究竟算一场什么性质的发布会。 说它是发布会，Tesla却没有安排官方直播，也没有邀请常规新闻媒体入场，更何况也没有什么真正的新车需要揭晓。受邀参加活动的主要是Tesla车主和内容创作者，其中一些人还被要求签署NDA （保密协议） ，在活动结束前不得发布现场图片和视频。过去习惯守着直播观看Tesla发布会的人，这一次只能对着活动页面的海报焦急等待，或者在社交媒体上听着同样傻眼的科技、汽车媒体编辑们，对着同一张活动海报一脸狐疑地尬聊&hellip;&hellip; 但问题是，活动结束以后，情况也没有清楚多少。 截至发稿，我们没有在Tesla官网或投资者关系页面找到一篇完整介绍此次发布内容的正式新闻稿。Tesla更新了Robotaxi网页和乘客指南，在X上陆续放出几段视频，受邀者也开始发布试乘内容，但关于这辆车的技术参数、产品定位和商业安排，依然散落在不同网页、认证文件、现场视频和媒体报道中。 幸亏，爱来自Google。借助搜索引擎的力量，我们从这些零散的信息中，一点点拼出Cybercab大概是什么模样。只可惜拼出来的结果，并不像这辆车本身的线条那样协调流畅。 它看上去像一辆缩短了前舱的第二代Roadster，同",
+    "id": "news-token-1788624747000",
+    "title": " 算力出海是终局，token出海是愿景，模型出海是路径 ",
+    "link": "https://www.huxiu.com/article/4888866.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 中国的开源模型开始服务全球市场，但是短缺的算力仍然主要以本土市场为基本盘。 如果将中国AI生态按照算力所在地与市场所在地划分为四个象限，那么中国AI全球化的理想路径，应该是从“本土算力、本土市场”，经过“本土算力、海外市场”，最终走向“海外算力、海外市场”。但现实并没有沿着这条路径线性发展。 （未尽研究、Workbuddy制图） 本土算力、海外市场，即年初翻炒过几轮的“token出海”，商业模式上已经初步获得了验证。但是，边际上新增的算力，正在越来越多地转向满足本土需求。就更别提实体“算力出海”了。 token出海，是愿景，不是现实 2026/4/16完整阅读&gt; MiniMax的半年报揭示了这一现实趋势。今年上半年，它的商业模式从直接面向消费者的AI原生产品，转向开放平台、API和企业服务。它的开放平台及其基于AI的企业服务收入，同比增长了703%，占比从去年同期的30%提升至当前的63%；但是，它的海外收入占比却从72%降至了61%。这并不意味着海外业务在收缩，但说明了中国大陆收入增长得更快。随着开放平台和企业服务收入爆发，MiniMax的增长重心正在更多回到本土市场。 智谱则经历了另一种转变，商业模式从以私有化部署为主，转向持续的模型调用。云端API的收入占比，从去年同期的15%提升至87%。但与MiniMax不同，智谱并",
     "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1788607084000",
-    "title": "具身智能的冰与火之歌：热在展台，冷在产线",
-    "link": "https://www.tmtpost.com/8129186.html",
-    "summary": "冰与火的试炼才刚开始。",
+    "id": "news-1-5-1788607134000",
+    "title": "五粮液拿出1.5亿“酿”电池，这家白酒巨头在固态电池赛道的豪赌能赢么？",
+    "link": "https://www.tmtpost.com/8129560.html",
+    "summary": "五粮液跨界押注全固态电池，主业承压转型面临考验。",
     "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
@@ -292,11 +295,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-blocks-x-rival-from-using-twitter-name-but-allows-8216-1788544325000",
-    "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
-    "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-    "publishedAt": "2026-09-04",
+    "id": "news-oura-is-going-public-but-these-smart-ring-companies-are-comi-1788620400000",
+    "title": "Oura is going public, but these smart ring companies are coming for its crown",
+    "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+    "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -333,11 +336,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-token-1788513804000",
-    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-    "link": "https://www.qbitai.com/2026/09/484547.html",
-    "summary": "国产卡跑出高品质 AI Token 生产级性能",
-    "publishedAt": "2026-09-04",
+    "id": "news--1788581934000",
+    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+    "link": "https://www.qbitai.com/2026/09/484611.html",
+    "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+    "publishedAt": "2026-09-05",
     "source": "量子位",
     "tags": [
       "china",
@@ -346,10 +349,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788613578000",
-    "title": " AI 编程，正在变成甲方压价的新武器 ",
-    "link": "https://www.huxiu.com/article/4888847.html?f=rss",
-    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 大家发现没有？随着AI越来越强大，内卷也越来越严重。 最近一位FDE朋友，帮助一家大型软件企业，把软件编程成本降低了50%（包含旧软件项目的迭代）。但真正有意思的是：这家企业降低研发成本的驱动力，是来自客户的硬性要求。 他们的一个大客户明确表示：你们必须证明自己具备AI编程的能力，才能参与我们的项目投标。其暗含的意思是：供应商必须具备AI编程能力，从而显著降低人天报价。 不能AI编程=不能参与投标，能够AI编程=必须降低报价。 这就是软件行业越来越普遍的现象：AI编程，正在变成甲方压价的新武器。 以前，一家软件公司利用新技术提效，是自己的竞争优势。现在，它正在变成一张准入证。 精通新技术，不代表你能多赚钱。相反，甲方会拿着这件事要求你降低人天报价。 说白了，软件公司辛苦提升的效率，成果全被客户拿走了。 一、AI提效越多，为什么越内卷 大模型刚出来时，很多人都乐观预期：由于AI提效，我们的工作时间有望从8小时变成5小时。 但真实情况是怎样的呢？工作效率确实提升了，但随之而来的是更多任务，而薪酬还在稳步下降，甚至还有人要自费购买AI上班。 对只按人天卖项目的软件公司来说，情况更残酷：研发成本是降了，可客户也会要求报价跟着降。 如果一家公司的收入主要来自人天，AI就会把它推入一个很尴尬的位置。 不用AI，成本比竞争对手高，拿不到项目。 ",
+    "id": "news--1788624382000",
+    "title": " 下一代媒体，不再卖内容，而是决定什么值得打断你 ",
+    "link": "https://www.huxiu.com/article/4888865.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两年，媒体圈最常见的一种产品想象，是给新闻装上一个聊天框。 用户输入“今天AI圈发生了什么”，系统抓取、排序、摘要，再配上几条来源链接；再往前一步，它可以按时推送、语音播报、把内容变成待办。看上去很完整，也很像下一代媒体。 但每次看到这种产品，我都会有一个不太舒服的感觉：它把大模型已经在做、而且注定会越做越好的能力，郑重其事地包装成了一门新生意。 事情没那么简单。 Reuters Institute在2026年覆盖48个市场的调查里，有54%的受访者每周会通过社交与视频网络获取新闻，媒体自有网站和App是51%；使用AI聊天机器人获取新闻的人，已经从上一年的7%涨到10%。 这组数据同时说明了两件看似矛盾的事。 第一，AI还没有成为大众获取新闻的主入口。至少现在，大多数人不是早上打开ChatGPT问“世界怎么了”。他们还是在刷视频、看信息流、跟着创作者和社群走。 第二，媒体自己的首页已经不再是默认入口了。 更准确地说，AI没有杀死媒体，它先把媒体过去捆在一个首页里的那些能力，拆给了不同的界面。 信息流负责让你撞见一条新闻；搜索负责定位；聊天机器人负责解释；邮件和推送负责提醒；原始报道、领域专家和数据库负责告诉你，这件事能不能信。 媒体首页以前把这些事都做了。现在，它只剩下其中一部分。 一、媒体首页，正在被拆零出售 过去，一个",
     "publishedAt": "2026-09-05",
     "source": "虎嗅",
     "tags": [
@@ -360,10 +363,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788607078000",
-    "title": "从能用到抢入口，AI办公大考才刚开始",
-    "link": "https://www.tmtpost.com/8129098.html",
-    "summary": "没有终局，只有持续进化。",
+    "id": "news--1788607084000",
+    "title": "具身智能的冰与火之歌：热在展台，冷在产线",
+    "link": "https://www.tmtpost.com/8129186.html",
+    "summary": "冰与火的试炼才刚开始。",
     "publishedAt": "2026-09-05",
     "source": "钛媒体",
     "tags": [
@@ -387,10 +390,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-will-apple-8217-s-john-ternus-era-look-like-1788542280000",
-    "title": "What will Apple&#8217;s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "id": "news-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri-1788564974000",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "publishedAt": "2026-09-04",
     "source": "TechCrunch",
     "tags": [
@@ -1246,4 +1249,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-05T14:29:59.429Z';
+export const dataFetchedAt = '2026-09-05T19:52:54.290Z';
