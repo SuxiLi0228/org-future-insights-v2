@@ -15,16 +15,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -67,25 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1788637449000",
-    "title": " “硬科技”提出者米磊：5万亿英伟达收的是“智商税” ",
-    "link": "https://www.huxiu.com/article/4887895.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜AI生成 今年，中科创星创始合伙人米磊，已经四次站上港交所的敲钟台。 其中投资时间最长的是驭势科技，2016&nbsp;年投，2026&nbsp;年上市，刚好十年，精确落在他说过的那个硬科技投资回报周期上：9&nbsp;到&nbsp;10&nbsp;年，最长&nbsp;11&nbsp;年。 也是在今年&nbsp;7&nbsp;月，他的新书《硬科技浪潮：技术趋势、投资机遇与文明演进》出版。距离他&nbsp;2010&nbsp;年提出&ldquo;硬科技&rdquo;概念，过去了16年。 如今的米磊，比过去更忙了，我们只能从他的两个会面之间，挤出交谈的时间。但他眉头舒展了不少，笑容也多了。 米磊本人 图片由中科创星提供 与其说是投资人，米磊更像一位硬科技的布道者。我问他，这本书可以算作中科创星这些年的投资手册吗？他给出的答案是否定的：他希望的读者是普通人，让不做投资的人也能看懂硬科技。 16年前，他提出了&ldquo;硬科技&rdquo;的概念，以人工智能、基因技术、航空航天、脑科学、光子芯片、新材料等为代表的高精尖科技。区别于由互联网模式创新，硬科技是需要长期研发投入、持续积累才能形成的原创技术。具有极高技术门槛和技术壁垒，难以被复制和模仿。是对人类经济社会产生深远而广泛影响的革命性技术，是推动世界进步的动力和源泉。 在这本书中，米",
-    "publishedAt": "2026-09-05",
+    "id": "news--1788662236000",
+    "title": " 内裤爆改是穷鬼文化的最后一块拼图 ",
+    "link": "https://www.huxiu.com/article/4888881.html?f=rss",
+    "summary": "本文来自微信公众号： 娱乐硬糖 ，作者：刘小土，编辑：李春晖 “内裤爆改小背心”“内裤变口罩，只需三步”“这么改一下，内裤变娃衣”……有的人内裤日抛，有的人内裤变传家宝。 一裤破，万物生。点开这些内裤改造视频的评论区，各路穷鬼留下敏而好学的背影：“大环境不好，刷到什么学什么”“这才是我应该看的东西”“老穷风才是最飒的”。 面对奢侈品开箱视频，年轻人说，没有给有钱人提供情绪价值的义务。面对穷鬼生活攻略，甭管多冷门偏门乃至邪门，年轻人逐帧学习、转发收藏，并第一时间摇来穷朋友组队补课。 虽说数年前互联网就在反消费主义，两年前“穷鬼套餐”就已风靡一时，但如今越来越多年轻人选择以最直白、最不绕弯子的方式向全世界大声宣告“我是穷鬼”，抽象玩梗、模拟体验、整顿消费，俨然是一种新青年文化了。 有句话怎么说的，“从自发革命到自觉革命”。今天的穷鬼们穷得理直气壮，穷得众所周知，穷得自娱自乐，穷得创意迭出，穷出了道路自信。如果说当年日本在泡沫经济后形成了“极简、克制、素雅”的性冷淡美学风格，自有其民族文化根源；那么现在的青年穷鬼文化，则自有我们中国人的热闹、欢乐、人多力量大。 穷鬼生活，主打抽象 此时此刻，那些还敢说自己天生就穷、并不用学习如何当穷鬼的人，应该是还没见识过同伴们的厉害。 早前，省钱玩家们也曾围绕“挂面的一百种吃法”、“维持生命体征要花多少钱”等方向，展开过系统性的思考与研究。这些话题虽说",
+    "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1788624386000",
-    "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
-    "link": "https://www.tmtpost.com/8129844.html",
-    "summary": "这不是实验室里的概念演示，而是科沃斯窗宝面向欧洲市场的实景秀场。",
-    "publishedAt": "2026-09-05",
+    "id": "news-ai-1788662480000",
+    "title": "AI时代，最稀缺的不是知识，而是系统思维",
+    "link": "https://www.tmtpost.com/8082672.html",
+    "summary": "当AI能瞬间完成你一周的工作，你的价值是什么？本文作者用一份极其硬核的答案，击碎了我们最后的职业安全感：单点技能已死，但系统思维永生。 这不是一句口号，而是一个由“划界、约束、残差”三大公理构成的、可以被学习和实践的认知操作系统。它将是区分未来领袖与庸才的唯一物理分水岭。",
+    "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -108,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
@@ -161,11 +161,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788627791000",
-    "title": " 董秘越来越难当了 ",
-    "link": "https://www.huxiu.com/article/4888868.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 现在上市公司跟股民说话，渠道多了去了，互动易、公众号、业绩说明会，隔三差五就有动静。 2026年，这些动静开始挨罚了。1300万一张，950万一张，还有的吃了监管警示。 罚单贴出来，股民都看愣了，这些公司说的话，拆开看句句属实。句句属实还挨罚，凭啥？这事得从头说。先说最近这一桩。 8月26日，龙版传媒在半年报里写了一句话。 首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万。 股价的反应比什么解读都快，8月31日到9月4日，五个交易日，五个涨停板，累计涨幅61.14%，市值69.11亿。 一家以教材教辅为主业的出版公司，一夜之间成了AI概念里最亮的仔。 第五个涨停那天，监管来了。9月4日盘后，上交所对公司和时任董秘孙福军予以监管警示，公司当天跟着发风险提示。 风险提示里有一行字，AI视频业务6月产生营收约80元，7月约7.5万元，占经审计2025年公司营业收入不足0.01%。 80元，一家奶茶店半个小时的流水都不止这个数。 这80元还是被一步步问出来的，9月2日、9月3日，公司两度发公告，口径统一是AI视频业务未产生营业收入。 9月4日，监管警示落地当天，口径变了，有营收，80元，三天三次说法，最后一次把家底交了出来。 回头看半年报那句话，没有一个字是假的，播放量是真的，170集是真的，热度",
-    "publishedAt": "2026-09-05",
+    "id": "news-token-1788660417000",
+    "title": " 没自带Token，就不配上大学了？ ",
+    "link": "https://www.huxiu.com/article/4888878.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《没自带 Token，就不配上大学了？》 我信任的，交心的，交流的，心与心的，我爱的大学，嫌我没有token了。 「没有Token的CS学生应该立即退学。」 这句话出现在南京大学计算机学院副教授蒋炎岩开设的《生成式软件工程》课程PPT上。 听起来像故意找骂。 @比特罐罐 果不其然，被上传至社交媒体讨论了，说这句话的蒋炎岩老师还关注了知乎上的问题：如何评价南大副教授蒋炎岩在课件中提出「没有Token的CS学生应该立即退学」？ 蒋炎岩老师想表达的并不是学生手头没有token就该被劝退，而是token本身正在变成一种需要被认真对待的资源。 资源是能力的一部分吗 CS学生该不该接触AI，这个问题已经没什么讨论空间。今天的软件行业里，很难再找到完全不借助AI辅助的编程岗位，用人单位也早已习惯招进来的新人能直接上手，不再花时间从零培养。一个学生如果在校期间就摸清楚怎么和AI一起写代码，走出校门时自然比同龄人多一点从容。 不过，token让能力如此赤裸地和一个人的钱包挂上了钩，那接触AI所带来的成本究竟在多大程度上要由学生负担？ 有的学生家境允许，随手订阅几个模型接口毫无压力，用起来毫不犹豫，敢于反复试错。有的学生要精打细算，甚至要在生活费和token之间做取舍。 买得起token、用得高效的学生，被认为是懂得成本意识，买不起或",
+    "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -175,11 +175,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workbuddy-1788607161000",
-    "title": "生态开放越容易，WorkBuddy越“廉价”",
-    "link": "https://www.tmtpost.com/8129337.html",
-    "summary": "100家伙伴站台，WorkBuddy能圈住几个？",
-    "publishedAt": "2026-09-05",
+    "id": "news--1788661992000",
+    "title": "车企的焦虑，都在押注机器人",
+    "link": "https://www.tmtpost.com/8129734.html",
+    "summary": "车企集体“造人”能否改变现状？",
+    "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -202,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-clucky-8217-s-new-alarm-app-wakes-you-up-with-a-crowing-roos-1788627600000",
-    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
-    "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
@@ -254,25 +254,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1788624747000",
-    "title": " 算力出海是终局，token出海是愿景，模型出海是路径 ",
-    "link": "https://www.huxiu.com/article/4888866.html?f=rss",
-    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 中国的开源模型开始服务全球市场，但是短缺的算力仍然主要以本土市场为基本盘。 如果将中国AI生态按照算力所在地与市场所在地划分为四个象限，那么中国AI全球化的理想路径，应该是从“本土算力、本土市场”，经过“本土算力、海外市场”，最终走向“海外算力、海外市场”。但现实并没有沿着这条路径线性发展。 （未尽研究、Workbuddy制图） 本土算力、海外市场，即年初翻炒过几轮的“token出海”，商业模式上已经初步获得了验证。但是，边际上新增的算力，正在越来越多地转向满足本土需求。就更别提实体“算力出海”了。 token出海，是愿景，不是现实 2026/4/16完整阅读&gt; MiniMax的半年报揭示了这一现实趋势。今年上半年，它的商业模式从直接面向消费者的AI原生产品，转向开放平台、API和企业服务。它的开放平台及其基于AI的企业服务收入，同比增长了703%，占比从去年同期的30%提升至当前的63%；但是，它的海外收入占比却从72%降至了61%。这并不意味着海外业务在收缩，但说明了中国大陆收入增长得更快。随着开放平台和企业服务收入爆发，MiniMax的增长重心正在更多回到本土市场。 智谱则经历了另一种转变，商业模式从以私有化部署为主，转向持续的模型调用。云端API的收入占比，从去年同期的15%提升至87%。但与MiniMax不同，智谱并",
-    "publishedAt": "2026-09-05",
+    "id": "news--1788658307000",
+    "title": " 汽车船不够用了 ",
+    "link": "https://www.huxiu.com/article/4888871.html?f=rss",
+    "summary": "本文来自微信公众号： 信德海事 ，作者：信德海事 陈洋，原文标题：《汽车船不够用了！ 中远海运将13，052辆奇瑞汽车装进集装箱》，题图来自：视觉中国 从第一批4，275辆到第三批4，454辆，中远海运通过三个批次，将13，052辆奇瑞汽车从太仓港运往意大利瓦多港。车辆先被装入集装箱，再搭乘集装箱船和多用途船驶往欧洲。2026年前7个月，中国汽车出口已经达到614万辆，同比增长66.8%；专业汽车运输船新增运力继续被货量增长和远距离航线吸收，集装箱船、多用途船和RoCon正在承接快速外溢的汽车出口需求。 中远海运完成了一项规模超过一艘中型汽车运输船运力的整车出口项目。 近日，随着第三批4，454辆汽车完成发运，中远海运集运奇瑞商品车太仓港集装箱出口项目正式收官。三个批次累计发运13，052辆汽车，其中首批为4，275辆，平均每批超过4，350辆，相当于一艘4，000车位级中型汽车运输船的名义装载规模。 公开报道显示，这批奇瑞汽车从各地集结至太仓港，完成装箱、送港和装船后，搭乘集装箱船和多用途船驶往欧洲，并开辟了直达意大利瓦多港的运输通道。中远海运集运旗下上海集运负责统筹箱源、舱位、码头、车队、船方和车企，中远海运特运则提供多用途船运力。 此次披露的是三个批次的累计数量，并非一艘船单次装载13，052辆。中远海运尚未公布各航次的承运船名、集装箱总数、具体车型及每个集装箱的实际装车数量",
+    "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-1-5-1788607134000",
-    "title": "五粮液拿出1.5亿“酿”电池，这家白酒巨头在固态电池赛道的豪赌能赢么？",
-    "link": "https://www.tmtpost.com/8129560.html",
-    "summary": "五粮液跨界押注全固态电池，主业承压转型面临考验。",
-    "publishedAt": "2026-09-05",
+    "id": "news--1788660233000",
+    "title": "宇树上市后的“冰火两重天”",
+    "link": "https://www.tmtpost.com/8129676.html",
+    "summary": "为什么行业如此关注宇树上市动态",
+    "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -295,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-is-going-public-but-these-smart-ring-companies-are-comi-1788620400000",
-    "title": "Oura is going public, but these smart ring companies are coming for its crown",
-    "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+    "id": "news-clucky-8217-s-new-alarm-app-wakes-you-up-with-a-crowing-roos-1788627600000",
+    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
+    "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
@@ -349,25 +348,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788624382000",
-    "title": " 下一代媒体，不再卖内容，而是决定什么值得打断你 ",
-    "link": "https://www.huxiu.com/article/4888865.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两年，媒体圈最常见的一种产品想象，是给新闻装上一个聊天框。 用户输入“今天AI圈发生了什么”，系统抓取、排序、摘要，再配上几条来源链接；再往前一步，它可以按时推送、语音播报、把内容变成待办。看上去很完整，也很像下一代媒体。 但每次看到这种产品，我都会有一个不太舒服的感觉：它把大模型已经在做、而且注定会越做越好的能力，郑重其事地包装成了一门新生意。 事情没那么简单。 Reuters Institute在2026年覆盖48个市场的调查里，有54%的受访者每周会通过社交与视频网络获取新闻，媒体自有网站和App是51%；使用AI聊天机器人获取新闻的人，已经从上一年的7%涨到10%。 这组数据同时说明了两件看似矛盾的事。 第一，AI还没有成为大众获取新闻的主入口。至少现在，大多数人不是早上打开ChatGPT问“世界怎么了”。他们还是在刷视频、看信息流、跟着创作者和社群走。 第二，媒体自己的首页已经不再是默认入口了。 更准确地说，AI没有杀死媒体，它先把媒体过去捆在一个首页里的那些能力，拆给了不同的界面。 信息流负责让你撞见一条新闻；搜索负责定位；聊天机器人负责解释；邮件和推送负责提醒；原始报道、领域专家和数据库负责告诉你，这件事能不能信。 媒体首页以前把这些事都做了。现在，它只剩下其中一部分。 一、媒体首页，正在被拆零出售 过去，一个",
-    "publishedAt": "2026-09-05",
+    "id": "news--1788656903000",
+    "title": " 燃油车的末日已经近在眼前 ",
+    "link": "https://www.huxiu.com/article/4888872.html?f=rss",
+    "summary": "本文来自微信公众号： 纯科学 ，作者：纯科学，题图来自：视觉中国 2026年的夏天，中国汽车市场正在发生一件很多人还没有充分意识到的事情：燃油车的消亡，已经从&ldquo;未来趋势&rdquo;变成了\"当下进行时\"。 我在2015年开始研究并撰写《纯电动一统天下》一书时，就判断不需要太长时间，大约从那时起十年多一点，纯电动就可以一统天下。后来我不断跟踪研究，对具体时间节点反复校准，大的方向始终不变，最终锁定2026年&mdash;&mdash;国内新能源车渗透率超过80%，燃油车渗透率低于20%，并在2027年低于5%。 十年前提出这个观点时，很少有人理解，甚至很多学术界非常支持我的朋友也觉得过于激进。到2022年比亚迪全面停产燃油车时，我写文章明确说过：还在继续投入燃油车的企业，都将破产。当时这句话被很多人认为是危言耸听。 四年过去了，2026年1-8月的数据出来了。让我们用最硬的数字，看看燃油车到底走到了哪一步。 一、2026年1-8月：燃油车正在以同比40%左右的速度崩塌 先看最核心的零售数据。根据乘联分会 （中国汽车流通协会乘用车市场信息联席分会） 发布的月度数据，2026年1-8月，国内乘用车市场零售累计1179.9万辆，同比下降20%。其中，新能源乘用车累计零售673.7万辆，同比下降11%；燃油乘用车累计零售约506万辆，降幅远大于市场整体。 表1：2026年1-8月",
+    "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1788607084000",
-    "title": "具身智能的冰与火之歌：热在展台，冷在产线",
-    "link": "https://www.tmtpost.com/8129186.html",
-    "summary": "冰与火的试炼才刚开始。",
-    "publishedAt": "2026-09-05",
+    "id": "news-02-1788660230000",
+    "title": "中国大模型简史02：一张突然值钱的船票",
+    "link": "https://www.tmtpost.com/8129912.html",
+    "summary": "一个骤然加速的时代，一群雕琢未来的人",
+    "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -390,11 +388,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri-1788564974000",
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "publishedAt": "2026-09-04",
+    "id": "news-oura-is-going-public-but-these-smart-ring-companies-are-comi-1788620400000",
+    "title": "Oura is going public, but these smart ring companies are coming for its crown",
+    "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+    "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -1162,7 +1160,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
     "postedAt": "2026-08-30",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137254",
@@ -1177,7 +1175,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
     "postedAt": "2026-08-30",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137219",
@@ -1194,7 +1192,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
     "postedAt": "2026-08-30",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137212",
@@ -1249,4 +1247,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-05T19:52:54.290Z';
+export const dataFetchedAt = '2026-09-06T02:43:52.317Z';
