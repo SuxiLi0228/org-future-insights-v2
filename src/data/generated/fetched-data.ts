@@ -15,17 +15,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "publishedAt": "2026-09-05",
+    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -68,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8000-1788704112000",
-    "title": " 8000万养宠人，见证“它经济”从狂热到崩塌 ",
-    "link": "https://www.huxiu.com/article/4888967.html?f=rss",
-    "summary": "本文来自微信公众号： 表外表里 ，编辑：杨静曹宾玲，作者：洞见数据研究院 “这个时代最大的逆周期行业，被资本拉黑了。”观察宠物行业十年后，艾伦发现变天了。 去年，盒马创始人侯毅带着1.78个小目标高调进军宠物鲜食，结果18家门店撑了9个月就全部关停，单店月均亏损超20万。那位身经百战的零售老将事后反思：“当初想法太天真。” 曾被视为“垂类电商标杆”的易宠科技，跟1300多家宠业品牌、30000多家宠物门店建立合作，被多家投资机构“追着打钱”，如今创始团队已被列入失信名单。 还有主打宠物服务的“宠物家”、亚洲最大宠物店“极宠家”、网红品牌“布卡星”，这些名噪一时的玩家，如今纷纷从资本的“宠儿”沦为“弃儿”。整个行业融资不是缩水，而是近乎干涸。 “连头部宠物食品企业也难以幸免。”艾伦说，中宠、乖宝、佩蒂等公司营收虽然在涨，利润却一路下滑，陷入“卖得越多，赚得越少”的困境，部分公司股价在年内近乎腰斩。 宠物还在，需求还在。国内宠物犬猫1.26亿只，每年至少创造3000亿消费蛋糕，相当于“6个婴儿奶粉市场”。随着人类对“情感家人”愈发重视，单只宠物年均消费金额仍在上涨。 到底是什么，让这条最具确定性的赛道，突然长满了不确定？ 换个包装，十几块的猫砂卖到上百块 如何做出一个年销10亿的头部猫粮品牌？ 放在四五年前，李鑫的答案很简单：把铁罐换成铝箔袋装，把零食猫条改成主食猫条，包装高级一点，适",
+    "id": "news--1788714699000",
+    "title": " 富豪为什么要亲手写万字小作文：孙宇晨这次玩砸的，是他吃了十年的老本 ",
+    "link": "https://www.huxiu.com/article/4888978.html?f=rss",
+    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 孙宇晨和景甜这事，热闹了快两个星期了。 时间线、聊天记录、各路大佬下场站队、一次又一次的反转，该被扒的细节早被扒烂了，该站的队大家也都站过了。这个点上再来复盘一遍谁对谁错、谁又爆了什么料，说实话没什么意思，网上已经有几百篇了，不缺我这一篇。 所以这篇不打算再加一盘瓜。我更好奇的是另一件事：一个身价以亿计的加密富豪，为什么要花十几个小时，亲手写一篇上万字的长文，把自己一段私人感情的种种细节摊开，发到全网面前？文末还特意标注\"纯属虚构\"，却又配上大量精准到日期、地点、金额的细节。 等吃瓜的热度退下去，再看这件事，你会发现它一点都不像失态，反而像一次熟练的操作，只是这一次，操作的人玩砸了。 孙宇晨是靠什么起家的 他是区块链项目波场TRON的创始人，2017年创立，是全球主流公链里唯一一条华人背景的公链。但在大众的认知里，孙宇晨更响亮的身份是另一个，就是“币圈营销第一人”， 这个称号是用一连串烧钱的名场面堆出来的。2019年，他以456.7万美元拍下了与“股神”巴菲特共进午餐的机会，而就在午餐前夕，他突然宣布因故暂缓，让这个话题在全球社交平台上反复发酵了大半年，最后才在2020年补上这顿饭。他花2800万美元买下过太空探索公司蓝色起源的首飞船票。他花624万美元买下那件把一根香蕉用胶带黏在墙上的艺术品《喜剧演员》，然后当着",
     "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
@@ -108,11 +107,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "publishedAt": "2026-09-05",
+    "id": "news-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag-1788710880000",
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+    "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -161,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gta6-1788703796000",
-    "title": " 《GTA6》泄露罗生门背后，游戏业大变局 ",
-    "link": "https://www.huxiu.com/article/4888966.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，原文标题：《《GTA 6》泄露罗生门背后，游戏业大变局》 一段视频的长度，一分半钟。 3A游戏大作的收入，百亿美元。 黑客在宣言中威胁游戏厂商毁掉的是后者，泄露的是前者。 就在北京时间8月28日，总成本号称比世界最高建筑哈利法塔还要高的游戏《GTA 6》（《侠盗猎车手6》）公布了一段26分钟实机演示视频《分量十足的一瞥》，作为上市前的宣发重头戏，一经上线便登顶全球热搜，可就在视频发布前的十天，一次孙割附体的黑客泄露罗生门，却差点让这笔价值百亿的买卖打了水漂，而这场闹剧的背景，是游戏产业正在酝酿一场有史以来最大的变革，与你我息息相关。 01：《GTA》被一种很GTA的方式 打劫了 8月18日，全球游戏玩家都在传阅一段打篮球的视频。 并非他们变身小黑子，而是一个叫Cyberleek的神秘账号放出了一段《GTA 6》新玩法的视频：主角Jason在住宅外面打篮球，球进后界面提示——“专注属性增加2%”。 游戏行业最怕的资源泄露发生了，更何况这是三个月后就将上市，万众期待的《GTA》系列最新作品。 《GTA》是一款开放世界犯罪题材游戏，玩家在虚拟世界里横行霸道、逃避追捕，享受着现实中无法企及的自由，作为游戏工业皇冠上的明珠，“《GTA》系列的累计总销量已超4.7亿份，是游戏界最成功、最具标志性的IP之一”。 光是前作《GTA 5》一部作品",
+    "id": "news-3600-1788713824000",
+    "title": " 国家这3600亿补的不是现在 ",
+    "link": "https://www.huxiu.com/article/4888977.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 9月6日，周日，晚上八点多。 工行、农行、国寿、人保、太平，八家中央金融企业，公告前后脚挂了出来。财政部要给它们补资本，加起来3600亿。 很多人第一反应，国家队也缺钱了？ 补资本这词，听着就像出事，翻成大白话，就是给机构补本钱。 机构手里的钱分两堆，存款、保费是借来的货，迟早要还，不算数。自己的本钱才是压箱底的家当，出了事先拿它扛。监管盯着家当和贷款盘子的比例，不够数，就不许再往外放。 补本钱，是把家当垫厚。按老剧本，家当见底才轮到补；这回补钱的八家，先查家当。 家当里有最硬的一层，叫核心一级资本。它占贷款盘子的比例，行话叫核心一级资本充足率，新闻里常简称为资本充足率。 工行13.21%，监管要求是9%，多出四个多点，搁过去够它再放一大轮贷款。 保险行当有另一本账，叫偿付能力充足率，管家当够不够赔保单。国寿197.78%，监管线100%，快翻了一倍，人保比它还高，246.6%。 按说补钱总得有个理由，八家公告翻遍，找不出一个窟窿，市场半天缓不过神，一个都不缺钱，那为什么还补？ 我查了一下，保险行当里真出过掉到线下的，不在八家里头。 偿付能力充足率分宽严两档，国寿那种是宽档，严的那档叫核心偿付能力充足率，红线50%，今年一季度，有公司跌到过45%。 那种才叫真缺钱，补起来得先停新业务、限制股东分红，一样一样来。 去年财政部刚拿5000亿",
     "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
@@ -201,16 +200,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -253,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788703757000",
-    "title": " 减肥焦虑的年轻人，困在热量数值里 ",
-    "link": "https://www.huxiu.com/article/4888965.html?f=rss",
-    "summary": "本文来自微信公众号： 精练GymSquare ，作者：陈五花 一部分减脂人，正在被热量“绑架”。 吃饭前要一定要先查阅食材热量，饮料要喝零卡无糖的，哪怕运动也要仔细计算出消耗的卡路里……这种计算卡路里的狂热，正在社交媒体上成为流行。 此类风潮，来源于减肥最底层的逻辑：摄入热量要少于消耗热量，制造热量缺口。 然而，减肥并不是简单的数字计算。 一方面，严格的数值计算往往带来更大的心理压力，反而更容易导致暴饮暴食。 另一方面，卡路里这一概念本身的计算方法与人体对热量的吸收原理并不一致。而食物之间的热效应差异更会导致即使是同样卡路里的不同食物，也会在体内转换为不同的热量值，再加上个人体质的不同，种种因素都会使严格计算卡路里成为幻影。 某卡路里app的数据 实际上，在减脂过程中，营养与饮食结构或许才是更需要被关注的因素。 2018年一项来自斯坦福大学的研究曾证明，痴迷地计算卡路里并不是削减腰围的关键。研究人员监测了600多名超重成年人的饮食。尽管受试者没有专注于减少卡路里，但基于低脂或低碳饮食，他们在一年中平均减掉了约12磅。 对食物而言，热量实际上只是与之相关的极小部分。当我们把食物简化成一个个数字，反而切断了我们与食物的内在联系。 与其在严格的计算中增加焦虑，相信自己身体的信号，聚焦于吃什么而非吃的热量，或许才是减肥更优的方式。 当代减脂人 困在卡路里数值里 每次吃饭前，阿诺必须要打开自",
+    "id": "news--1788710970000",
+    "title": " 茶与国运：一片树叶里的大国博弈|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4888976.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《茶与国运：一片树叶里的大国博弈 || 大视野》 中国有几亿人喝茶，全世界有数以十亿计的人喝茶。茶起于中国，由药入饮，传至世界，是中国文化和生活方式的最重要载体之一。 最近，我和著名经济学家、《茶与咖啡：杯中的全球贸易与资本博弈》一书主要作者之一魏尚进教授做了一次对谈。他1986年从复旦大学世界经济专业本科毕业时，我进入新闻系就读。80年代的复旦校园，充满了思想启蒙、心系天下的气息，深刻影响了我们那代人。 从茶和咖啡的历史，魏教授看到了大国财富的流转和全球贸易的经纬。我则萌生了把茶作为国运载体的一些思考。 为什么茶与国运相关？ 中美两个大国的历史，都和茶有关。 今年是美国建国250周年。美国独立战争（1775-1783）的导火索是1773年12月16日晚上发生的“波士顿倾茶事件”。342箱被倒掉的茶是英国东印度公司向北美殖民地出口的，而茶的原产地则是中国。 1773年英国出台了《茶税法》，北美殖民地进口茶叶，每磅（0.454千克）要缴纳3便士关税。同时，英国政府批准东印度公司将茶叶运到北美时，可以不经殖民地的进口商这一中间环节，而直接卖给零售商。其好处是零售价可以更便宜，茶叶卖得更多，殖民地人民更愿意购买，这就变相坐实了“英国议会有权进行茶税的征收”。 这一做法触怒了当时一直通过走私荷兰茶叶牟利的中间商们，荷兰茶叶也来自中国",
     "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
@@ -266,10 +266,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788683728000",
-    "title": "计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI",
-    "link": "https://www.tmtpost.com/8129811.html",
-    "summary": "一个维持18年运行的自主决策系统——物理AI的打造过程和公理体系提炼",
+    "id": "news--1788687048000",
+    "title": "美团守城，快手攻擂：港股互联网盈利韧性大考",
+    "link": "https://www.tmtpost.com/8130102.html",
+    "summary": "谁是港股互联网的“确定性资产”？美团与快手都试图证明：宏观波动与竞争加剧的叠加期，港股互联网平台仍能凭借差异化资产壁垒，构建具备长期价值的ROIC护城河。",
     "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
@@ -293,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-clucky-8217-s-new-alarm-app-wakes-you-up-with-a-crowing-roos-1788627600000",
-    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
-    "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
@@ -347,10 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788703203000",
-    "title": " 中国保险业，又行了？ ",
-    "link": "https://www.huxiu.com/article/4888963.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 最近，财政部一口气向中国人寿注资350亿、中国太平70亿，人保同步抛出150亿的定增预案，再加上进出口银行300亿、出口信保100亿、中国再保30亿，以及工行1000亿、农行1600亿的资本补充计划，单日披露的注资总规模，超过3600亿。 这个数字意味着什么？放在五年前，你很难想象国家会在一天之内给金融机构开出这么大一张资本支票。而且，有意思的是，就在这轮注资官宣前一周，几大保险巨头刚刚亮出半年报，利润数字一个比一个亮眼。中国人寿净利润同比增长228.6%，中国太平增长90.3%，中国人保增长38.5%。 一边是利润暴增，一边是国家注资。这几个情况放在一起，很多人本能地认为，保险业是不是又行了？连我自己也是第一时间萌生这样的念头…… 利润从哪里来，要不要鼓掌？ 保险公司的利润里，有一个科目经常被外行人忽略，叫做“公允价值变动损益”。 这个词的意思就是持有的股票、基金等资产，只要价格涨了，哪怕还没卖出，也会直接计入当期利润。 所以当股市走强，保险公司的利润表就会变得异常漂亮。 注意，这里是“变得漂亮”，不是“经营得漂亮”。 这两个评价之间的差距，正是我们需要较真的地方。 看几个具体数字。 中国人寿上半年总投资收益3145亿元，比去年同期多了1869.98亿元，几乎相当于一天多赚20亿。总投资收益率从去年同期的3.29%一路飙到5.58",
+    "id": "news-3-1788710896000",
+    "title": " 环保央企回归各自主场，3种新格局正在形成 ",
+    "link": "https://www.huxiu.com/article/4888975.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：环保行业的下一轮洗牌，不只是央企走向分化，整个行业也到了重新看清各自主场的时候。 把央企体系里的环保企业排在一起，会得到一张很长的名单。 中国节能、中国资环、长江环保，中电建生态环境、葛洲坝生态环保、中建生态环境、中冶生态环保，还有钢铁、石油、化工等产业集团内部的环保平台。 它们来路不同。 在市政环保增量最醒目的阶段，外界更容易把它们放进同一套增长叙事：依靠央企信用、融资和工程组织能力，拿大项目、延长产业链、做大资产与业务边界。 这套共同叙事之所以能够成立，是因为市政环保的集中建设，曾让项目规模、投资规模和业务版图成为观察不同平台的共同尺度。 只要这些外在规模仍在扩大，企业为什么存在、主要服务谁、由谁为结果付费，就不必立刻分得很清楚。 过去可以被规模掩盖的差异，当下开始在资产归属、客户选择、经营考核和产业边界上显现。 同一个“央企环保”的标签之下，企业的去向也由此开始分化。 共同扩张 曾经遮住了不同的存在逻辑 这种分化并非凭空发生。“央企环保企业”从来就不是一个统一的制度类别。 中国节能的主业是节能环保。中国资源循环集团在2024年组建，承担建设全国性资源回收再利用平台的任务。长江生态环保集团则由三峡集团在2018年设立，是共抓长江大保护的实施主体。这些平台从成立之初，就带有国家功能或跨区域系统治理任务。 另一类环保企业",
     "publishedAt": "2026-09-06",
     "source": "虎嗅",
     "tags": [
@@ -360,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1788683726000",
-    "title": "Token上架天猫，智谱在盘算什么？",
-    "link": "https://www.tmtpost.com/8130024.html",
-    "summary": "Token上架天猫，智谱在盘算什么",
+    "id": "news-ai-1788683728000",
+    "title": "计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI",
+    "link": "https://www.tmtpost.com/8129811.html",
+    "summary": "一个维持18年运行的自主决策系统——物理AI的打造过程和公理体系提炼",
     "publishedAt": "2026-09-06",
     "source": "钛媒体",
     "tags": [
@@ -387,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-is-going-public-but-these-smart-ring-companies-are-comi-1788620400000",
-    "title": "Oura is going public, but these smart ring companies are coming for its crown",
-    "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
@@ -1246,4 +1246,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-06T14:52:25.645Z';
+export const dataFetchedAt = '2026-09-06T19:56:35.556Z';
