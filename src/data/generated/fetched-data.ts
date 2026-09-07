@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
-    "title": "What we expect from the upcoming Apple launch",
-    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "id": "news-opaque-recurrence-and-other-ai-terms-that-you-should-probabl-1788809040000",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
@@ -109,11 +109,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
-    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-    "publishedAt": "2026-09-06",
+    "id": "news-a-secret-new-elizabeth-holmes-documentary-stuns-telluride-1788804149000",
+    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+    "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -204,11 +204,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "publishedAt": "2026-09-06",
+    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
+    "title": "What we expect from the upcoming Apple launch",
+    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -284,10 +284,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -363,10 +363,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag-1788710880000",
-    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-    "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -1000,4 +1000,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-07T17:09:44.335Z';
+export const dataFetchedAt = '2026-09-07T21:03:53.047Z';
