@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -67,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788714699000",
-    "title": " 富豪为什么要亲手写万字小作文：孙宇晨这次玩砸的，是他吃了十年的老本 ",
-    "link": "https://www.huxiu.com/article/4888978.html?f=rss",
-    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 孙宇晨和景甜这事，热闹了快两个星期了。 时间线、聊天记录、各路大佬下场站队、一次又一次的反转，该被扒的细节早被扒烂了，该站的队大家也都站过了。这个点上再来复盘一遍谁对谁错、谁又爆了什么料，说实话没什么意思，网上已经有几百篇了，不缺我这一篇。 所以这篇不打算再加一盘瓜。我更好奇的是另一件事：一个身价以亿计的加密富豪，为什么要花十几个小时，亲手写一篇上万字的长文，把自己一段私人感情的种种细节摊开，发到全网面前？文末还特意标注\"纯属虚构\"，却又配上大量精准到日期、地点、金额的细节。 等吃瓜的热度退下去，再看这件事，你会发现它一点都不像失态，反而像一次熟练的操作，只是这一次，操作的人玩砸了。 孙宇晨是靠什么起家的 他是区块链项目波场TRON的创始人，2017年创立，是全球主流公链里唯一一条华人背景的公链。但在大众的认知里，孙宇晨更响亮的身份是另一个，就是“币圈营销第一人”， 这个称号是用一连串烧钱的名场面堆出来的。2019年，他以456.7万美元拍下了与“股神”巴菲特共进午餐的机会，而就在午餐前夕，他突然宣布因故暂缓，让这个话题在全球社交平台上反复发酵了大半年，最后才在2020年补上这顿饭。他花2800万美元买下过太空探索公司蓝色起源的首飞船票。他花624万美元买下那件把一根香蕉用胶带黏在墙上的艺术品《喜剧演员》，然后当着",
-    "publishedAt": "2026-09-06",
+    "id": "news--1788748320000",
+    "title": " 自助餐大批涌入商场，这生意真这么好做吗？ ",
+    "link": "https://www.huxiu.com/article/4888631.html?f=rss",
+    "summary": "消费者爱自助餐，是因为价格透明、食材看得见，吃得明明白白。只有兼顾质价比和盈利空间，才能在商场激烈的洗牌中活下来。",
+    "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -80,11 +80,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cybercab-1788698779000",
-    "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
-    "link": "https://www.tmtpost.com/8130213.html",
-    "summary": "旧规则正在跟不上技术，但新的规则又还没有完全准备好。",
-    "publishedAt": "2026-09-06",
+    "id": "news-replay-1788747518000",
+    "title": "无人在意的角落里，中文跑团Replay的起与落",
+    "link": "https://www.tmtpost.com/8130389.html",
+    "summary": "天意难测。",
+    "publishedAt": "2026-09-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag-1788710880000",
-    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-    "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -160,11 +160,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3600-1788713824000",
-    "title": " 国家这3600亿补的不是现在 ",
-    "link": "https://www.huxiu.com/article/4888977.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 9月6日，周日，晚上八点多。 工行、农行、国寿、人保、太平，八家中央金融企业，公告前后脚挂了出来。财政部要给它们补资本，加起来3600亿。 很多人第一反应，国家队也缺钱了？ 补资本这词，听着就像出事，翻成大白话，就是给机构补本钱。 机构手里的钱分两堆，存款、保费是借来的货，迟早要还，不算数。自己的本钱才是压箱底的家当，出了事先拿它扛。监管盯着家当和贷款盘子的比例，不够数，就不许再往外放。 补本钱，是把家当垫厚。按老剧本，家当见底才轮到补；这回补钱的八家，先查家当。 家当里有最硬的一层，叫核心一级资本。它占贷款盘子的比例，行话叫核心一级资本充足率，新闻里常简称为资本充足率。 工行13.21%，监管要求是9%，多出四个多点，搁过去够它再放一大轮贷款。 保险行当有另一本账，叫偿付能力充足率，管家当够不够赔保单。国寿197.78%，监管线100%，快翻了一倍，人保比它还高，246.6%。 按说补钱总得有个理由，八家公告翻遍，找不出一个窟窿，市场半天缓不过神，一个都不缺钱，那为什么还补？ 我查了一下，保险行当里真出过掉到线下的，不在八家里头。 偿付能力充足率分宽严两档，国寿那种是宽档，严的那档叫核心偿付能力充足率，红线50%，今年一季度，有公司跌到过45%。 那种才叫真缺钱，补起来得先停新业务、限制股东分红，一样一样来。 去年财政部刚拿5000亿",
-    "publishedAt": "2026-09-06",
+    "id": "news--1788747232000",
+    "title": " “电子青楼”与资本新宠，团播间里的多张面孔 ",
+    "link": "https://www.huxiu.com/article/4889040.html?f=rss",
+    "summary": "本文来自微信公众号： 青年志Youthology ，编辑：Sharon，作者：怪兽 直播主播是一个始终处在拉扯中的职业。 一方面，它指涉娱乐工业下一种趋于规范的劳动形式，更专业的运营、更成熟的内容生产、更清晰的变现路径，让它看起来越来越像一份“正当职业”；但另一方面，女性主播又始终与父权结构中的欲望市场紧密相连，在灰色、暧昧甚至低俗的边界上反复试探。 这种分裂，并没有随着行业发展而消失，反而被不断放大，或只是被替换成了更体面的形式。身体、凝视、关系和情绪仍然在被兑换成流水。 近几年，直播行业迎来了一次新的转向。团播，一种以多人出镜、团队协作完成内容生产的形式迅速崛起，并凭借更强的吸金能力，成为资本追逐的下一个目标。据商启咨询预计，2025年中国团播市场规模已达到150亿元，2030年将进一步增长至241.6亿元。 当国内市场逐渐饱和，扩张开始向外发生。东南亚、北美等地区，陆续出现由中国资方主导的团播公司，这套在本土已经成熟的内容与变现模式，被复制、迁移，并在更宽松的环境中继续生长。 今年8月，中央网信办深入推进“清朗·网络娱乐团播乱象整治”专项行动，针对违规PK刺激打赏、低俗玩法、软色情内容及侵害未成年人权益等问题，处置违规团播账号1840余个。通报的案例里，有主播通过抖胸、挺胯等动作制造性暗示，有直播间用“解锁福利”等暗语诱导打赏，也有团播将成员置于带有人身侮辱性质的PK惩罚中。",
+    "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788691832000",
-    "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
-    "link": "https://www.tmtpost.com/8129869.html",
-    "summary": "对于一家成立超过80年的制造企业而言，最大的挑战不是如何拥抱未来，而是如何让过去积累的能力，在未来继续产生价值。",
-    "publishedAt": "2026-09-06",
+    "id": "news-ifa-1788747512000",
+    "title": "中国上千企业猛攻柏林IFA，这是咋了？",
+    "link": "https://www.tmtpost.com/8130387.html",
+    "summary": "今年的柏林IFA（柏林国际消费电子展），有一个很耐人寻味的场景。",
+    "publishedAt": "2026-09-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -200,17 +200,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "publishedAt": "2026-09-05",
+    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -253,24 +252,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788710970000",
-    "title": " 茶与国运：一片树叶里的大国博弈|| 大视野 ",
-    "link": "https://www.huxiu.com/article/4888976.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《茶与国运：一片树叶里的大国博弈 || 大视野》 中国有几亿人喝茶，全世界有数以十亿计的人喝茶。茶起于中国，由药入饮，传至世界，是中国文化和生活方式的最重要载体之一。 最近，我和著名经济学家、《茶与咖啡：杯中的全球贸易与资本博弈》一书主要作者之一魏尚进教授做了一次对谈。他1986年从复旦大学世界经济专业本科毕业时，我进入新闻系就读。80年代的复旦校园，充满了思想启蒙、心系天下的气息，深刻影响了我们那代人。 从茶和咖啡的历史，魏教授看到了大国财富的流转和全球贸易的经纬。我则萌生了把茶作为国运载体的一些思考。 为什么茶与国运相关？ 中美两个大国的历史，都和茶有关。 今年是美国建国250周年。美国独立战争（1775-1783）的导火索是1773年12月16日晚上发生的“波士顿倾茶事件”。342箱被倒掉的茶是英国东印度公司向北美殖民地出口的，而茶的原产地则是中国。 1773年英国出台了《茶税法》，北美殖民地进口茶叶，每磅（0.454千克）要缴纳3便士关税。同时，英国政府批准东印度公司将茶叶运到北美时，可以不经殖民地的进口商这一中间环节，而直接卖给零售商。其好处是零售价可以更便宜，茶叶卖得更多，殖民地人民更愿意购买，这就变相坐实了“英国议会有权进行茶税的征收”。 这一做法触怒了当时一直通过走私荷兰茶叶牟利的中间商们，荷兰茶叶也来自中国",
-    "publishedAt": "2026-09-06",
+    "id": "news-4000-1788746826000",
+    "title": " 机器人在摊煎饼，资本在炒4000亿：谁在裸泳？ ",
+    "link": "https://www.huxiu.com/article/4889038.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 2026世界机器人大会正进行的如火如荼，天生爱热闹的我愣是没忍住还是去逛了逛，3000多件展品，300多家企业，5万平米展区，微信步数直逼两万。 原本想看一群机器人赛跑、翻跟头、打太极、跟人类歌手同台飙歌，结果这样的热闹没看到，却看到了另外一番热闹的景象。 今年最大的变化是：翻跟头的不见了，摊煎饼的来了。 现场最火的展位，不是什么高科技概念机，而是一台煮面机器人。机械臂有条不紊地取面、抖面、下面、沸煮、捞面、盛碗、浇汤，没几分钟，一碗热气腾腾的面条递到你面前。 旁边还有一台AI煎饼机器人，3分钟出炉一套热乎煎饼。在旁边，全自动棉花糖机器人花式出糖，DIY拼豆机器人帮你做手工。 整个大会的画风，从“科幻片”变成了“美食街”。 更有意思的是，药房里也来了机器人。蚂蚁灵波的机器人穿梭在货架之间，自主识别药品、完成分拣，全程不需要人工干预。这套系统已经落地上海国大药房门店，专职干夜间分拣的活儿。 还有交通疏导机器人、物流分拣机器人、四足巡检机器人……全都在干一件事：打螺丝。 你品品这个画面。 二十年前，人类畅想人工智能的未来，剧本其实是这么写的：机器人去干洗衣做饭、搬砖扫地的体力活，人类被彻底解放出来，尽情地在艺术的世界里发挥想象力、提升审美造诣。 结果呢？过去几年，科技圈硬生生把剧本演成了“倒反天罡”。 AI在写诗、作画、搞电影，在琴棋书画",
+    "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1788687048000",
-    "title": "美团守城，快手攻擂：港股互联网盈利韧性大考",
-    "link": "https://www.tmtpost.com/8130102.html",
-    "summary": "谁是港股互联网的“确定性资产”？美团与快手都试图证明：宏观波动与竞争加剧的叠加期，港股互联网平台仍能凭借差异化资产壁垒，构建具备长期价值的ROIC护城河。",
-    "publishedAt": "2026-09-06",
+    "id": "news--1788747241000",
+    "title": "白酒巨头集体入局，却不愿为低度赛道豪赌",
+    "link": "https://www.tmtpost.com/8130073.html",
+    "summary": "白酒巨头整体姿态偏向试探，并未对这条赛道进行大规模资源押注。",
+    "publishedAt": "2026-09-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -293,11 +293,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hikers-rescued-after-using-google-gemini-for-planning-1788636924000",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "publishedAt": "2026-09-05",
+    "id": "news-techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag-1788710880000",
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+    "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -347,11 +347,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1788710896000",
-    "title": " 环保央企回归各自主场，3种新格局正在形成 ",
-    "link": "https://www.huxiu.com/article/4888975.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：环保行业的下一轮洗牌，不只是央企走向分化，整个行业也到了重新看清各自主场的时候。 把央企体系里的环保企业排在一起，会得到一张很长的名单。 中国节能、中国资环、长江环保，中电建生态环境、葛洲坝生态环保、中建生态环境、中冶生态环保，还有钢铁、石油、化工等产业集团内部的环保平台。 它们来路不同。 在市政环保增量最醒目的阶段，外界更容易把它们放进同一套增长叙事：依靠央企信用、融资和工程组织能力，拿大项目、延长产业链、做大资产与业务边界。 这套共同叙事之所以能够成立，是因为市政环保的集中建设，曾让项目规模、投资规模和业务版图成为观察不同平台的共同尺度。 只要这些外在规模仍在扩大，企业为什么存在、主要服务谁、由谁为结果付费，就不必立刻分得很清楚。 过去可以被规模掩盖的差异，当下开始在资产归属、客户选择、经营考核和产业边界上显现。 同一个“央企环保”的标签之下，企业的去向也由此开始分化。 共同扩张 曾经遮住了不同的存在逻辑 这种分化并非凭空发生。“央企环保企业”从来就不是一个统一的制度类别。 中国节能的主业是节能环保。中国资源循环集团在2024年组建，承担建设全国性资源回收再利用平台的任务。长江生态环保集团则由三峡集团在2018年设立，是共抓长江大保护的实施主体。这些平台从成立之初，就带有国家功能或跨区域系统治理任务。 另一类环保企业",
-    "publishedAt": "2026-09-06",
+    "id": "news--1788746807000",
+    "title": " 纵穿葡萄牙，我的行走观察 ",
+    "link": "https://www.huxiu.com/article/4889020.html?f=rss",
+    "summary": "本文来自微信公众号： 行走无声 ，作者：大隐，原文标题：《行记｜纵穿葡萄牙，我的行走观察》，题图来自：视觉中国 去年二月的时候来葡萄牙休假，写过一篇《 行记｜在葡萄牙&ldquo;对对账&rdquo; 》，当时走马观花，只看一些皮毛。 这次，从北部的波尔图，到中部的首都里斯本，再到南部的法鲁、拉各斯，贯穿整个葡萄牙，对于这个国家有了更深的理解，记录下来与你分享，希望能帮你看到不一样的葡萄牙。 我想主要聊聊波尔图。 （里贝拉老城，大隐摄） 波尔图 （Porto） 历史悠久，古罗马时期这里叫Portus Cale，最终这个称谓演变为了&ldquo;Portugal&rdquo;，即今天的&ldquo;葡萄牙&rdquo;。它位于葡萄牙北部，河海共存 （大西洋、杜罗河） ，是葡萄牙第二大城市，第二/三大港口 （集装箱吞吐量第二、货运总量第三港） ，同时也是所谓的&ldquo;世界最美邮轮码头&rdquo;之一。邮轮是欧美人比较喜欢的旅行方式，一叶知秋，此地不乏游客。 老城区里贝拉 （Ribeira） 1996年被世界教科文组织列为世界文化遗产，色彩斑斓的老房子错落有致地排列在陡峭的杜罗河河岸上，像是欧洲版的重庆。说到房子，仔细看波尔图的房子与英式建筑一样，高高尖尖，窗户方正，立面非常讲究秩序。甚至可以说，波尔图的老城区建筑风格就是被英国影响的，但花花绿绿的瓷砖外层又是来自北非摩尔人 （伊",
+    "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -360,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788683728000",
-    "title": "计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI",
-    "link": "https://www.tmtpost.com/8129811.html",
-    "summary": "一个维持18年运行的自主决策系统——物理AI的打造过程和公理体系提炼",
-    "publishedAt": "2026-09-06",
+    "id": "news-ai-1788746986000",
+    "title": "汽车之家发布芝士车管家AI智能体，选车判断与用车服务收进同一条路径",
+    "link": "https://www.tmtpost.com/8129810.html",
+    "summary": "过去20余年积累的汽车内容、数据与用户服务经验，正在新的技术环境下转化为解决实际问题的能力",
+    "publishedAt": "2026-09-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -387,651 +387,366 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo-1788631527000",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "publishedAt": "2026-09-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.04199v1",
-    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+    "id": "arxiv-2609.05324v1",
+    "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
     "authors": [
-      "Yuntian Deng",
-      "Pengyu Nie",
-      "Stuart Shieber"
+      "Zhenxuan Fan",
+      "Bo Zhang",
+      "Yutong Lin",
+      "Yuqian Yuan",
+      "Juekai Lin",
+      "Liang Liang",
+      "Zhuoyi Huang",
+      "Wenqiao Zhang",
+      "Juncheng Li",
+      "Siliang Tang",
+      "Jun Xiao",
+      "Yueting Zhuang"
     ],
-    "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather",
-    "link": "http://arxiv.org/abs/2609.04199v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefined settings, offering limited insight into model reasoning under increasing spatial and procedural complexity. We introduce \\textbf{RoboSPA} (\\textbf{Robo}t \\textbf{S}patial-\\textbf{P}rocedural \\textbf{A}ssessment), a large-scale robotic manipulation dataset and benchmark for diagnosing embodied reasoning in VLA models. \\texttt{RoboSPA} focuses on two core dimensions, Fine-Grained Spatial Reasoning and Long-Horizon Procedural Planning, covering 10 task categories and 56 base tasks. Each task is instantiated across five difficulty levels, yielding 280 variants with increasing spatial ambiguity ",
+    "link": "http://arxiv.org/abs/2609.05324v1",
+    "publishedAt": "2026-09-04",
     "categories": [
-      "cs.CL",
+      "cs.RO",
       "cs.AI",
-      "cs.LG"
+      "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2609.04198v1",
-    "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+    "id": "arxiv-2609.05320v1",
+    "title": "Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments",
     "authors": [
-      "Haoyaun Zhu",
-      "Jie Zhang"
+      "Vaishnavi Sen",
+      "Cody Laurie",
+      "Rashida Hasan"
     ],
-    "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0.90, and byte-identical next-day replays agreed at 0.78 against a required 0.99, each time with the execution record at ceiling. Three mechanisms explain the gap: a label-to-meaning mapping that biased readouts as strongly as the signal; candidate gaps seven orders of magnitude below the instrument'",
-    "link": "http://arxiv.org/abs/2609.04198v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04197v1",
-    "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-    "authors": [
-      "Lihao Liu",
-      "Peng Tang",
-      "Kunwar Yashraj Singh",
-      "Shabnam Ghadar"
-    ],
-    "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose generates candidates via four complementary strategies with independent biases; Select applies bootstrap stability selection. On seven public NLP benchmarks - Tweet, MMLU, GSM8K, HotpotQA, ScoNe, HoVer, and PUPA - ESPO improves average accuracy by $+$3.76 pp over the state-of-the-art (74.67% vs 70.91% for",
-    "link": "http://arxiv.org/abs/2609.04197v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04194v1",
-    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-    "authors": [
-      "Kevin Du",
-      "Alexander Hoyle",
-      "Laura Ruis",
-      "Acyr Locatelli"
-    ],
-    "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its functional role. But does the text actually encode information about which reasoning steps matter? We operationalize the importance of a reasoning step as its advantage: the change in expected reward, e.g., producing the correct final answer, from including that step, estimated via Monte Carlo rollouts. Basing ground truth on these estimates, we evaluate whether LLM judges can identify high-advantage step",
-    "link": "http://arxiv.org/abs/2609.04194v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04190v1",
-    "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
-    "authors": [
-      "Adheesh Sunil Juvekar",
-      "Onkar Kishor Susladkar",
-      "Kiet A. Nguyen",
-      "Muntasir Wahed",
-      "Nabeel Bashir",
-      "Xiaona Zhou",
-      "Tianjiao Yu",
-      "Vedant Shah",
-      "Ismini Lourentzou"
-    ],
-    "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post-attention token injection for long-range identity preservation, and soft latent blending for edit locality. The same framework supports instruction-guided and reference-guided edits, including style transfer, attribute modification, object insertion, part-level editing, and subject replacement. On FiVE, EditVid achieves 78.16 FiVE-Acc, compared with 58.95 for the strongest evaluated training-free baseline, while obtaining competitive results on IVEBench. A user study further shows a 51.8\\% over",
-    "link": "http://arxiv.org/abs/2609.04190v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Deepfake detection models often rely on high-quality inputs, fixed inference paths, and computationally expensive architectures, limiting their use in low-resolution and resource-constrained settings. This paper proposes AdaGate-DF, an adaptive gated deepfake detection framework that uses image-quality cues to route samples through a dual multi-exit system so high-quality images can exit earlier and save compute. We evaluated AdaGate-DF against MaD-CoRN, DefakeHop++, and ShuffleNetV2 on two benchmark datasets (Celeb-DF and FaceForensics++) under multiple configurations to test image resolution dependence and training and inference efficiency. On Celeb-DF, AdaGate-DF achieves an AUC of 0.9370, outperforming MaD-CoRN and DefakeHop++ while maintaining a low inference latency. Resolution-based",
+    "link": "http://arxiv.org/abs/2609.05320v1",
+    "publishedAt": "2026-09-04",
     "categories": [
       "cs.CV",
-      "cs.AI"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.04189v1",
-    "title": "Robust PAC Learning of Concurrent Stochastic Games",
+    "id": "arxiv-2609.05318v1",
+    "title": "Optimal Rates for Agentic Networked Information Aggregation",
     "authors": [
-      "Angel Y. He",
-      "David Parker"
+      "MohammadHossein Bateni",
+      "Zahra Hadizadeh",
+      "MohammadTaghi Hajiaghayi",
+      "Mahdi JafariRaviz",
+      "Shayan Taherijam"
     ],
-    "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nash margin characterisation that enables principled reasoning about equilibrium existence: the framework either returns an $\\varepsilon$-approximate NE whose social-welfare value is $\\varepsilon$-close to optimal, or provides a sound certificate that no exact NE exists. Under a minimum reachability co",
-    "link": "http://arxiv.org/abs/2609.04189v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study information aggregation in a networked learning model. The model captures a central pattern in agentic AI: each agent sees only part of the data and passes on only its own conclusion. Their model considers a linear regression problem with the mean squared error (MSE) loss. Agents sit in a DAG and each sees only a subset of the features and its parents' predictions, fits a linear predictor, and passes only its prediction forward. The benchmark is the full-feature learner that sees all raw features. A path of depth $D$ is $M$-covered if every block of $M$ consecutive agents collectively sees all raw features. Kearns, Roth, and Ryu proved that the excess mean squared error of the last agent on such a path is $O(M/\\s",
+    "link": "http://arxiv.org/abs/2609.05318v1",
+    "publishedAt": "2026-09-04",
     "categories": [
       "cs.LG",
       "cs.GT",
-      "cs.LO",
+      "econ.TH"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05314v1",
+    "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+    "authors": [
+      "Alexander Neubauer",
+      "Tianzhen Hong",
+      "Han Li",
+      "Mengbo Yu",
+      "Amin Darbandi",
+      "Yannick Fürst",
+      "Martin Kriegel"
+    ],
+    "summary": "Building automation systems generate rich sensor data yet remain insight-poor because heterogeneous point naming, missing metadata, and fragmented documentation obstruct their operational use. This systematic review analyses and codes 66 peer-reviewed studies on large language models (LLMs) for HVAC operations published between 2023 and March 2026. Each study is classified across five application families and three LLM method families and assessed for evidence realism, deployment readiness, and the responsibility boundary between the LLM and physical HVAC decisions. The corpus is concentrated in building energy modelling (BEM, 32 of 66 papers), while load forecasting remains too sparse for subfield-level conclusions. Only four studies reach pilot-level evidence, and none reports sustained ",
+    "link": "http://arxiv.org/abs/2609.05314v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "eess.SY"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05309v1",
+    "title": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+    "authors": [
+      "Pengxiang Zhao",
+      "Xing Li",
+      "Xianzhi Yu",
+      "Wei Guo",
+      "Zhenhua Dong"
+    ],
+    "summary": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and write, how strongly the residual pathway mixes streams, and whether the streams carry distinct representations. We examine these properties in the four-stream residual pathway of DeepSeek-V4-Flash using effective stream counts, cross-stream residual weights, and inter-stream cosine similarity. Read/write routing is concentrated but varies across depth: a typical attention or FFN site effectively uses about two streams, while the dominant stream changes across layers and the representations remain directionally distinct. Residual mixing is modest and occurs primarily in early layers; in layers 22-42,",
+    "link": "http://arxiv.org/abs/2609.05309v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05298v1",
+    "title": "Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Fatemeh Saberi Khomami",
+      "Julita Vassileva"
+    ],
+    "summary": "Cooperative multi-agent reinforcement learning (MARL) systems rely on past experience for learning coordinated behaviour, but this experience may become unreliable if the environment or task objective changes during training. In such cases, agents first need a way to recognize that the situation has changed before deciding how to adapt. This paper studies online change-point detection for cooperative MARL using reward-derived signals. We propose \\emph{Patterns of Past Rewards} (PPR), a lightweight algorithm-agnostic detector that smooths agents' return streams, highlights recent changes, and applies a statistical drift detector to flag significant shifts. We evaluate PPR in a custom Speaker-Listener environment based on the Multi-Agent Particle Environment under two controlled non-stationa",
+    "link": "http://arxiv.org/abs/2609.05298v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.MA",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05296v1",
+    "title": "LexFlip: A Dissociation Diagnostic for Legal Meaning Preservation Metrics",
+    "authors": [
+      "Gaurab Baral"
+    ],
+    "summary": "Does a simplified legal clause still say what the original said? The checks in current use cannot establish that it does: requiring an identical pair to score highest and an unrelated pair lowest moves lexical overlap and legal force together, so any monotone function of token overlap satisfies both. Our remedy is a dissociation, an item holding surface form fixed while legal force moves. We release LexFlip, 373 minimal perturbations of Quebec statutory French that reverse legal force while preserving 0.93 of the tokens, with a harness scoring metrics, regressors and prompted judges alike. The seven embedding and BERTScore metrics we test spend only 0.022 to 0.039 of their identical-to-unrelated range on such an edit, against 0.670 for bidirectional NLI, the one family the identical-pair c",
+    "link": "http://arxiv.org/abs/2609.05296v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05295v1",
+    "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
+    "authors": [
+      "Yang Li",
+      "Semih Yavuz",
+      "Shafiq Joty"
+    ],
+    "summary": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distribution mismatch, while self-distillation with privileged conditioning is limited by in-context learning capacity. We propose \\textbf{RISE} (\\textbf{R}ecursive \\textbf{I}mprovement via \\textbf{S}elf-\\textbf{E}xtrapolating Policy Distillation), which constructs a synthetic teacher directly from the model's own RLVR training trajectory. By extrapolating the displacement between the current checkpoint and a trailing anchor---in parameter space or output logit space---RISE converts a sparse outcome-induced parameter update into a dense token-level target, without any external model or privileged conditi",
+    "link": "http://arxiv.org/abs/2609.05295v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05294v1",
+    "title": "Learning from VAE Errors to support ECG-based Differential Diagnosis of Myocardial Scar",
+    "authors": [
+      "Shayan Sharifi",
+      "Riccardo Treu",
+      "Ilaria Gandin",
+      "Federico Garoia",
+      "Marco Merlo",
+      "Giulia Cisotto"
+    ],
+    "summary": "Late Gadolinium Enhancement (LGE) on cardiac magnetic resonance is a key marker of myocardial scar, but its limited accessibility motivates routine ECG-based screening. We evaluated whether $β$-variational autoencoder (VAE)-derived ECG representations can discriminate LGE+ from LGE- cardiomyopathic patients in a local cohort of 300 subjects. We compared 32-dimensional features from the foundation ECGx.AI model with those from a shallower $β$-VAE trained on normal PTB-XL ECGs, evaluating downstream classification and Dynamic Time Warping (DTW)-based reconstruction errors. ECGx.AI reached an area under ROC of 0.686 with Random Forest, while the proposed $β$-VAE reached 0.577 with sensitivity of 0.775 with Gradient Boosting. Notably, DTW-reconstruction errors significantly differed between cl",
+    "link": "http://arxiv.org/abs/2609.05294v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05289v1",
+    "title": "Beyond Aggregate Scores: Behavioral Correctness Assumptions for Assessing Reference-Based Automatic Evaluation Methods",
+    "authors": [
+      "Maria Mahbub",
+      "Ashley Rice",
+      "Michael R. Munroe",
+      "Amidu Kamara",
+      "Amir Sadovnik"
+    ],
+    "summary": "Automated reference-based evaluation methods play a critical role in assessing natural language generation systems. Existing meta-evaluation primarily measures agreement with human judgments or benchmark labels, providing limited insight into evaluator behavior under controlled conditions. We introduce behavioral correctness assumptions, a complementary framework for evaluating reference-based automatic evaluation methods. We define a taxonomy of correctness-preserving and correctness-altering assumptions and operationalize them through controlled response transformations that specify expected scoring behaviors. We evaluate diverse lexical, character-level, semantic, LLM-based, and hybrid evaluators and analyze their assumption-level behavior, stability, sensitivity, repeat-run variability",
+    "link": "http://arxiv.org/abs/2609.05289v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05284v1",
+    "title": "GUT: Quantifying and Optimizing the Reasoning Uncertainty of LLMs via Graph Complexity",
+    "authors": [
+      "Shuang Liang",
+      "Xin-Yu Hu",
+      "Xiang-Jun Ou",
+      "Shao-Qun Zhang"
+    ],
+    "summary": "Recent years have witnessed great advances in the reasoning ability of Large Language Models (LLMs). However, the reasoning processes of LLMs often exhibit uncertainty, where LLMs often produce a proliferation of divergent branches at each reasoning step even when fed the same prompting inputs, and certain branches exhibit evidently incredible, even nonsensical, reasoning chains and results. In this paper, we propose the Graph-complexity-based UncerTainty (GUT) method for investigating the reasoning uncertainty of LLMs. The key idea of GUT is to characterize the potential branches of each reasoning chain with a directed acyclic graph, thereby ensuring that all potential branches are comprehensively covered within the graph space. Building upon this recognition, we further build two modules",
+    "link": "http://arxiv.org/abs/2609.05284v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05279v1",
+    "title": "Testing Interchangeability in LLM Agent Teams",
+    "authors": [
+      "Jianxin Gao",
+      "Tianyi Yu",
+      "Linna Deng",
+      "Runze Li",
+      "Zining Wang"
+    ],
+    "summary": "Production multi-agent systems replace agents constantly, on the assumption that an agent filling a role is interchangeable with any other agent that can do the job. We test that assumption. Eight teams per setting are formed independently from one base model on the same tasks, each agent keeping a private notebook across ten formation episodes; we then trade role-matched agents between teams and measure what changes on held-out tasks. Against a placebo that reproduces the disruption of a roster change without changing who occupies the seat, a swap costs little in task score but raises the communication a team spends per unit of progress by 16 to 63 percent, and in Hanabi a swapped agent is more expensive than an inexperienced one, consistent with interference from conventions learned with",
+    "link": "http://arxiv.org/abs/2609.05279v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI",
       "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2609.04183v1",
-    "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+    "id": "arxiv-2609.05275v1",
+    "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
     "authors": [
-      "Ye-Chan Kim",
-      "Seunghee Choi",
-      "SeungJu Cha",
-      "Si-Woo Kim",
-      "Hwiseon Kim",
-      "Hyungee Kim",
-      "Dong-Jin Kim"
+      "Mostafa Elhoushi",
+      "Alex Pretko",
+      "Nolan Dey",
+      "Bin Claire Zhang",
+      "Gavia Gray",
+      "Gurpreet Gosal",
+      "Abdulrahman Mahmoud",
+      "Shane Bergsma",
+      "Joel Hestness"
     ],
-    "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and duration. To address these, we propose Seeing Before Synthesizing (SBS), a framework that adaptively provides visually grounded linguistic guidance only where warranted. Leveraging a VLM, we generate frame-level narratives for the inter-event gaps and detect transitions from the semantic variation across them. For identified transitions, we then refine inter-event temporal masks by blending the temporal",
-    "link": "http://arxiv.org/abs/2609.04183v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04180v1",
-    "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-    "authors": [
-      "Joseph Lee",
-      "Yidi Huang",
-      "Dokyoon Kim",
-      "Shu Yang",
-      "Li Shen"
-    ],
-    "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary for acquisition and clarify that paraphrasing helps only at smaller batch sizes. Second, holding the token budget fixed, allocating tokens from document repetition to auxiliary views improves learning, counterintuitively, even for factual recall. Third, the effectiveness of auxiliary views is not contingent on the strength of the teacher model that generates them. Fourth, we identify forms of knowledge, contextual and foundational, that aid learning in the presence of prior knowledge gaps. Final",
-    "link": "http://arxiv.org/abs/2609.04180v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04177v1",
-    "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
-    "authors": [
-      "Rafal Urbaniak",
-      "Sam Witty",
-      "Daniel Waxman",
-      "Andy Zane",
-      "Poorva Garg",
-      "Emily Bunnapradist",
-      "Sankaran Vaidyanathan",
-      "Jack Feser",
-      "Drew Lehe",
-      "Eli Bingham"
-    ],
-    "summary": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing them requires enumerating counterfactual scenarios. Scalable attribution methods like SHAP (or even causal SHAP) at least partially ignore the causal structure that generated the data, and can give answers that conflict with a careful causal analysis. We close this gap with Probabilistic Causal Impact (PCI). PCI builds on actual causality and on Pearl's notions of probability of necessity and sufficiency, but recasts the question of explainability as an estimation problem on a probabilistic cau",
-    "link": "http://arxiv.org/abs/2609.04177v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as models and datasets have scaled, dropout - particularly layer dropout - has largely disappeared from large language models (LLMs) pre-training recipes. While some prior work has reported that dropout can degrade accuracy, no comprehensive study has quantified, let alone mitigated, this effect. In this study, we show that layer dropout should be used in state-of-the-art LLM training, establishing best practices and scaling analysis for both training and post-training benefits. Concretely, with optimal layer distribution, time schedule, and optimizer hyperparameters, we observe that at the same train",
+    "link": "http://arxiv.org/abs/2609.05275v1",
+    "publishedAt": "2026-09-04",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.04173v1",
-    "title": "Last Translation Benchmark",
+    "id": "arxiv-2609.05274v1",
+    "title": "How to Speculate about Uncertainty in Agentic Coding? A Draft-Model Gate Method",
     "authors": [
-      "Vilém Zouhar",
-      "Niyati Bafna",
-      "Mukund Choudhary",
-      "Maike Züfle",
-      "Sara Rajaee",
-      "Pinzhen Chen",
-      "Jannis Vamvas",
-      "Sara Papi",
-      "Ona de Gibert",
-      "Bhavitvya Malik",
-      "Eliya Habba",
-      "Orfeas Menis Mastromichalakis",
-      "Patrícia Schmidtová",
-      "Michelle Wastl",
-      "Sheriff Issaka",
-      "Leshem Choshen",
-      "Stella Biderman",
-      "Antonis Anastasopoulos",
-      "Jan Niehues",
-      "Rico Sennrich",
-      "Mrinmaya Sachan",
-      "Ondřej Bojar",
-      "Kenton Murray",
-      "Jörg Tiedemann",
-      "Alham Fikri Aji",
-      "Philipp Koehn",
-      "Christof Monz",
-      "Alexandra Birch",
-      "Sowmya Vajjala",
-      "Chalamalasetti Kranti",
-      "Cristina España-Bonet",
-      "Nobin Sarwar",
-      "David Kaczér",
-      "Shunta Asano",
-      "Malik Marmonier",
-      "Daban Q. Jaff",
-      "Vaisakhi Mishra",
-      "Hend Al- Khalifa",
-      "Gabriele Sarti",
-      "Sourajit Saha",
-      "Nils Rehlinger",
-      "Juan Daniel Cuervo Villa",
-      "Jonathan Tonglet",
-      "Saugata Purkayastha",
-      "Dominik Macháček",
-      "Jagannathan Ramanujam",
-      "Heejin Do",
-      "Zuzana Nadova",
-      "Fred Philippy",
-      "Fabian Retkowski",
-      "Maria Lymperaiou",
-      "Silvia Casola",
-      "Hanna Yukhymenko",
-      "Shubhashis Roy Dipta",
-      "Sangwon Ryu",
-      "Andrés Jerez",
-      "Ron Keinan",
-      "Shuaib Shuaib Yusuf",
-      "Avantica Vempati",
-      "Maria Carmen Staiano",
-      "Sukannya Purkayastha",
-      "Adrian Cosma",
-      "Vitalii Babenko",
-      "Erivan Inan",
-      "Aviral Nigam",
-      "Wafa Aissa",
-      "Fatima Haouari",
-      "Venkata Prasanth Kumar Gummadi",
-      "Mehdi Jafarzadeh",
-      "Valentin Scourneau",
-      "Lukas Edman",
-      "Kaiser Sun",
-      "Shaomu Tan",
-      "Mohammad Sadegh Gholizadeh",
-      "Johannes-Rudolf David",
-      "Dipankar Srirag",
-      "Javier García Gilabert",
-      "Ruta Binkyte",
-      "Manar Ali",
-      "Ana-Maria Bucur",
-      "Sabry E. Farrag",
-      "Youssef Saber",
-      "Yihong Liu",
-      "Jean Maillard",
-      "Cojocaru Nicoleta",
-      "Xiaochuang Yuan",
-      "Sina Ahmadi",
-      "Philipp Mondorf",
-      "Kaustubh Dhole",
-      "Roman Wixinger",
-      "Shenbin Qian",
-      "Manuel Tuor",
-      "Sergey Troshin",
-      "Jonathan Yahav",
-      "Fida Mohammad Thoker",
-      "Amir Arsalan Rezapour",
-      "Lance Calvin Lim Gamboa",
-      "Manon Reusens",
-      "Kätriin Kukk",
-      "Koel Dutta Chowdhury",
-      "Giuseppe Gallipoli",
-      "Christian Hoang",
-      "Shaswati Saha",
-      "Seth Aycock",
-      "Jan Kocoń",
-      "Bo Chen",
-      "Linh Vu",
-      "Vatsal Venkatkrishna",
-      "Arafat Ahsan",
-      "Luan Thanh Nguyen",
-      "Hassan Soliman",
-      "Daryna Dementieva",
-      "Theresia Veronika Rampisela",
-      "Ngoc Quynh Tram Do",
-      "Marius Huber",
-      "Kazuki Egashira",
-      "Azmine Toushik Wasi",
-      "Vladislav Poritski",
-      "Mike Zhang",
-      "Deep Shah",
-      "Paul Gavrikov",
-      "Luis Frentzen Salim",
-      "David Africa",
-      "R. Damanhuri",
-      "Bello Umar Bello",
-      "Anumit Garg",
-      "Gengyu Rao",
-      "Pawan Sasanka Ammanamanchi",
-      "Kamile Dementaviciute",
-      "Andrianos Michail",
-      "L D M S Sai Teja",
-      "Dawei Zhu",
-      "Yi Fan",
-      "Wei Liu",
-      "Farhan Farsi",
-      "Elias Herranen",
-      "Sankalan Pal Chowdhury",
-      "Karen Sanchez",
-      "Farzad Shami",
-      "Ashok Urlana",
-      "Zimu Wang",
-      "Tomasz Limisiewicz",
-      "Priyaranjan Pattnayak",
-      "Marii Ojastu",
-      "Hongbin Na",
-      "Emilian Radoi",
-      "Chenyi Zhao",
-      "Carlos Hinojosa",
-      "Andrea Gregor de Varda",
-      "Zaid Alyafeai",
-      "Reem Alzahrani",
-      "Nehal Kathrotia",
-      "Alex Flückiger",
-      "Ulysses Sekai Tully Carr",
-      "Jimson Paulo Layacan",
-      "Guy Kaplan",
-      "Ritwik Tiwari",
-      "Rishit Dagli",
-      "Oksana Volchek",
-      "Isaac R Caswell",
-      "Bowen Yi",
-      "Blanka Kövér",
-      "Amir Hossein Yari",
-      "Aicha Chorana",
-      "Zhengxiang Wang",
-      "Selja Keränen",
-      "Samuel Simko",
-      "Joy Olusanya",
-      "Jenny Chim",
-      "Enzo Doyen",
-      "Vivek Harsha Lakkamaneni",
-      "Sophia Conrad",
-      "Pouya Sadeghi",
-      "Panayiotis Panayiotou",
-      "Luis Lara",
-      "Jannatul Nayem",
-      "Eran Yahav",
-      "Debanshu Das",
-      "Antonia Karamolegkou",
-      "Anmol Goel",
-      "Aishik Mandal",
-      "Tommaso Cerruti",
-      "Raoyuan Zhao",
-      "Mykola Haltiuk",
-      "Thura Aung",
-      "Naser Almousa",
-      "Amir Hossein Kargaran",
-      "Rachel Bawden",
-      "Qiaoyuan Zheng",
-      "Mateusz Lango",
-      "Beni Egressy",
-      "Fidel Rodríguez Velásquez",
-      "Natchapon Jongwiriyanurak",
-      "Minh Ngoc Do",
-      "Marco Gaido",
-      "Lena Libon",
-      "Dzmitry Kuzmin",
-      "Badal Nyalang",
-      "Antoine Taroni",
-      "Andrei Niculae",
-      "Abdulaziz Nura Kani",
-      "Rushikesh Zawar",
-      "Marek Šuppa",
-      "Beatrice Savoldi",
-      "Andreas Simons",
-      "Rayyan Merchant",
-      "Ilai Yaron Levy",
-      "Francesco Pinto",
-      "Ziyi Yang",
-      "Yolanda Xavier",
-      "Samuel Frontull",
-      "Muhammad Ravi Shulthan Habibi",
-      "Kenneth Enevoldsen",
-      "Harris Abdul Majid",
-      "Francesca Padovani",
-      "Tim Graf",
-      "Tatiana Bielakova",
-      "Sharifa Djurabaeva",
-      "Shaoxiong Ji",
-      "Raia Abu Ahmad",
-      "Pavel Stepachev",
-      "Jirui Qi",
-      "Ayush Sunil Munot",
-      "Alireza Pakniat",
-      "Ayla Rigouts Terryn",
-      "Yuxing Lu",
-      "Yurii Paniv",
-      "Xiyan Fu",
-      "Tosin Adewumi",
-      "Sunisth Kumar",
-      "Stéphane J. P. S. Thunus",
-      "Shree Harsha Bokkahalli Satish",
-      "Shayan Bali",
-      "Prakhar Gupta",
-      "Papa Abdou Karim Karou Diallo",
-      "Matija Akrap",
-      "Marko Culjak",
-      "Kristýna Onderková",
-      "Joseph Attieh",
-      "Esrael Teferi Tensay",
-      "Elisabeth Fittschen",
-      "Benoît Sagot",
-      "Jingwei Ni",
-      "Yu Fan"
+      "Konstantin Grotov",
+      "Valentin Malykh"
     ],
-    "summary": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present ",
-    "link": "http://arxiv.org/abs/2609.04173v1",
-    "publishedAt": "2026-09-03",
+    "summary": "LLM agents deployed for software engineering fail expensively: they act confidently wrong, and bad actions are recognized only after costly execution and retry. We present Speculative Uncertainty (SU), a method that recovers a predictive failure signal for a black-box agent from its output tokens alone, with no access to logits, weights, activations, or repeated sampling. Inverting speculative decoding, a small open-weight draft model scores the agent's already-generated trajectory in a single forward pass. From these speculative cross-likelihoods we extract phase-aware features by separating the reasoning and action spans, and calibrate them against a verifiable objective. SU produces a failure-likelihood score that any downstream policy, such as routing, human intervention, or extra test",
+    "link": "http://arxiv.org/abs/2609.05274v1",
+    "publishedAt": "2026-09-04",
     "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04172v1",
-    "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-    "authors": [
-      "Zixuan Fu",
-      "Bingxiang He",
-      "Yuxin Zuo",
-      "Haohuan Huang",
-      "Jinqian Zhang",
-      "Ruhang Xiao",
-      "Cheng Qian",
-      "Qinyu Luo",
-      "Huan-ang Gao",
-      "Yudong Wang",
-      "Zhiyuan Liu",
-      "Ning Ding",
-      "Chaojun Xiao"
-    ],
-    "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises cov",
-    "link": "http://arxiv.org/abs/2609.04172v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04170v1",
-    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-    "authors": [
-      "Davide Paglieri",
-      "Logan Cross",
-      "Tim Genewein",
-      "Joel Z. Leibo",
-      "Nenad Tomasev",
-      "Alexander Sasha Vezhnevets"
-    ],
-    "summary": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challenged by whistleblowers - both without any external intervention. When a single agent discovered an exploit in the evaluation system, it propagated across the collective via a shared knowledge library and later through peer-to-peer messages. Despite early reluctance, a cohort of agents adopted the expl",
-    "link": "http://arxiv.org/abs/2609.04170v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04168v1",
-    "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
-    "authors": [
-      "Yujie Zhang",
-      "Huiying Lan",
-      "Ehsan Aghapour",
-      "Zhiyuan Ning",
-      "Peng Zan",
-      "Weidong Shao",
-      "Anuj Pathania",
-      "Tulika Mitra"
-    ],
-    "summary": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing the computation across different on-chip processing units, while effective for throughput, do not address the latency demands posed by modern neural networks with complex interdependencies and extensive operator parallelism. There is a potential in leveraging operator parallelism to enable concurrent execution across multiple processing units, thereby reducing inference latency. However, prioritizing pipelining or parallel execution often necessitates a compromise, where optimizing one performance metric adversely impacts the other. This paper introduces Para-Pipe, a hierarchical mapping frame",
-    "link": "http://arxiv.org/abs/2609.04168v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.DC",
-      "cs.LG",
-      "cs.PF"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04167v1",
-    "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
-    "authors": [
-      "Xin He",
-      "Yanlin Wang",
-      "Mingwei Liu",
-      "Jiachi Chen",
-      "Hongyu Zhang",
-      "Guanbin Li"
-    ],
-    "summary": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether a patch is acceptable in real-world software development. We introduce SWE-Gate, a repository-level benchmark for software engineering agents that explicitly evaluates review constraint compliance alongside functional correctness. SWE-Gate derives review constraints from real pull request review comments and synthesizes repository-level repair instances around these constraints. Each instance provides separate functional and constraint tests, together with non-compliant and gold patches, enabli",
-    "link": "http://arxiv.org/abs/2609.04167v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.SE",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04166v1",
-    "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
-    "authors": [
-      "Yakov Pyotr Shkolnikov"
-    ],
-    "summary": "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks deceptive and a mechanism that is actually deceptive. We introduce a causal taxonomy separating prior commitment from retrospective report, model preference from realized output, false preference from sensitivity to the utility of misleading a recipient, and deceptive behavior from the provenance of the objective or strategy producing it. We test these distinctions in two open-weight model families. Across controlled guessing-game and stock-trading experiments, we find that deceptive-looking behavior can arise without the corresponding proposed mechanism, while other interventions provide direct ",
-    "link": "http://arxiv.org/abs/2609.04166v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.04165v1",
-    "title": "Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography",
-    "authors": [
-      "Matthias C. Caro",
-      "Natalie McHugh",
-      "Sergii Strelchuk"
-    ],
-    "summary": "Parameterised graph theory studies how the complexity of graph-theoretic problems depends on structural parameters of the input graph. This perspective has proved useful in analysing tensor-network simulation (Markov and Shi, 2008). Its implications for tensor-network representations and tomography are less well understood. In particular, which graph parameters determine whether a tensor-network state (TNS) admits a tractable matrix product state (MPS) or tree tensor network (TTN) representation, and which control the complexity of learning the state? We address these questions using parameterised graph theory. First, we show that cutwidth and tree-cutwidth bound the bond dimension overhead required to represent a TNS as an MPS or TTN. In the TTN case, tree-cutwidth also bounds the local d",
-    "link": "http://arxiv.org/abs/2609.04165v1",
-    "publishedAt": "2026-09-03",
-    "categories": [
-      "quant-ph",
-      "cs.DS",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.04159v1",
-    "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+    "id": "arxiv-2609.05270v1",
+    "title": "AI for Computational Design Science: A Responsible Human-AI Framework and Case Study on Short-Form Video Safety Surveillance",
     "authors": [
-      "Uday Vallabhaneni",
-      "Cassie L. Cagwin",
-      "David J. Wild"
+      "Wenli Zhang",
+      "Jiaheng Xie",
+      "Zhihe Pan",
+      "Yidong Chai",
+      "Xiao Fang",
+      "Sudha Ram"
     ],
-    "summary": "Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a multi-thousand-host authentication graph, and free-form generation offers no guarantee that a recommended containment action is consistent with the topology it operates on. We present Sentinel-RL, an agentic-SOC architecture that decouples topological reasoning from semantic reasoning: a heterogeneous graph attention encoder summarizes the live authentication subgraph into a fixed-dimensional state, a Proximal Policy Optimization (PPO) policy maps this state to a constrained set of investigative actions, and an LLM agent loop is restricted to consuming the policy's recommendations and producing analyst-re",
-    "link": "http://arxiv.org/abs/2609.04159v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Artificial intelligence (AI) is transforming not only what information systems researchers design, but also how design research is conducted. Yet existing literature offers limited guidance for computational design science (CDS) when AI actively participates in problem formulation, resource construction, design search, evaluation, and knowledge abstraction. We develop AI for Computational Design Science (AI4CDS), a five-phase methodological framework in which AI expands problem and design search while researchers retain responsibility for domain grounding, admissibility, verification, and scientific judgment. Collaboration is governed by graduated trust, reversibility, auditability, and differentiated reproducibility. We instantiate AI4CDS through ChildRiskGuard, an interpretable artifact ",
+    "link": "http://arxiv.org/abs/2609.05270v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05269v1",
+    "title": "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls",
+    "authors": [
+      "Chris Zheng",
+      "Geng Yang"
+    ],
+    "summary": "LLM agent systems increasingly combine provenance tracking, authorization, policy enforcement, protocol adapters, and execution controls. However, individually correct security mechanisms do not necessarily compose into an end-to-end secure system: security-critical context may be dropped, widened, rebound, or reinterpreted as actions cross component boundaries. We identify this failure mode as security-context discontinuity and introduce CONTINUITY, a framework for verifiable composition of agent security controls. CONTINUITY models each component with an assume-guarantee contract and carries authenticated security context across transitions using signed root grants, provenance commitments, role-bound transition receipts, bounded typed releases, transformation witnesses, and effect-bound ",
+    "link": "http://arxiv.org/abs/2609.05269v1",
+    "publishedAt": "2026-09-04",
     "categories": [
       "cs.CR",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.04148v1",
-    "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+    "id": "arxiv-2609.05263v1",
+    "title": "Shallow neural network approximation in mixed Sobolev spaces",
     "authors": [
-      "Jie Wu",
-      "Zhenru Zhang",
-      "Beichen Zhang",
-      "Xuwu Wang",
-      "Yuhui Su",
-      "Mouxiang Chen",
-      "Peng Wang",
-      "Zhihai Wang",
-      "Que Shen",
-      "Hao Zhou",
-      "An Yang",
-      "Fei Huang",
-      "Yujiu Yang",
-      "Dayiheng Liu"
+      "Yuwen Li",
+      "Guozhi Zhang"
     ],
-    "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued ",
-    "link": "http://arxiv.org/abs/2609.04148v1",
-    "publishedAt": "2026-09-03",
+    "summary": "We investigate the best $L_2$ approximation of mixed Sobolev spaces by shallow neural networks with $n$ neurons and general activation functions. We first establish an activation-independent Fourier-block principle: if an activation has univariate approximation order $ρ$ in the sense of the Fourier-block property, then the global approximation rate has algebraic order $\\min\\{α,ρ\\}$ for target functions of mixed smoothness $α$, up to explicit logarithmic factors. To verify this property for concrete activations, we introduce a structured univariate approximation condition that implies the Fourier-block property with explicit parameters. For $\\mathrm{ReLU}^k$, a matching algebraic lower bound identifies $\\min\\{α,k+1\\}$ as the optimal algebraic approximation exponent in any dimension, up to l",
+    "link": "http://arxiv.org/abs/2609.05263v1",
+    "publishedAt": "2026-09-04",
     "categories": [
-      "cs.AI",
+      "math.NA",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.05262v1",
+    "title": "Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference",
+    "authors": [
+      "Tim Wientzek"
+    ],
+    "summary": "Computational phylogenetics has become an essential tool in historical linguistics, yet its application at a global scale remains constrained by two factors: the labor-intensive manual annotation of cognacy judgments required for character-based methods and the substantial computational cost of inference on large datasets. This paper introduces a fully self-supervised contrastive learning framework that learns lexical representations directly from raw IPA-transcribed wordlists, without requiring cognacy annotations, alignments, or additional expert input. The model employs a dual contrastive objective: a word-level loss that organizes phonetically similar forms into a coherent space, and an auxiliary language-level loss that encourages the lexical space to reflect broader phonological prop",
+    "link": "http://arxiv.org/abs/2609.05262v1",
+    "publishedAt": "2026-09-04",
+    "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2609.04147v1",
-    "title": "A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle",
+    "id": "arxiv-2609.05261v1",
+    "title": "Trace2Tower: Transition-Aware EigenTrace Induction of Multi-Level Skills for LLM Agents",
     "authors": [
-      "Gustavo Claudio Karl Couto",
-      "Eric Aislan Antonelo",
-      "Gabriel George Zipperer"
+      "Jiazheng Sun",
+      "Boyu Yang",
+      "Binhao Yuan",
+      "Mingxuan Li",
+      "Xin Peng"
     ],
-    "summary": "This paper presents a low-cost, open experimental platform for research in end-to-end autonomous driving with miniature Ackermann vehicles. The platform combines a physical vehicle, a printed urban track, data collection tools, trajectory registration, and a Webots digital twin, enabling controlled experiments that connect simulation-based autonomous-driving methods to real-world execution. As a first baseline, we implement command-conditioned behavior cloning, in which a neural policy receives an on-board camera image and a high-level navigation command and outputs steering and speed. The system is evaluated both on the physical vehicle and in simulation. In real closed-loop experiments, the learned policy follows lanes and executes commanded turns, reaching a mean cross-track error of 6.",
-    "link": "http://arxiv.org/abs/2609.04147v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Large language model agents increasingly rely on execution traces to master complex interactive tasks. However, current paradigms are bottlenecked by shallow trajectory retrieval and flat skill summarization, fundamentally ignoring the temporal dependencies and outcome-conditioned topology of agent behavior. We introduce Trace2Tower, a transition-aware EigenTrace framework that distills raw trajectories into a robust skill hierarchy. Trace2Tower abstracts step-level interactions into canonical events, constructing a unified graph governed by semantic compatibility, transition dynamics, and outcome evidence. Through a novel contrastive spectral decomposition, it isolates stable, success-aligned behavioral modes while rigorously suppressing failure-prone shortcuts. These modes organically po",
+    "link": "http://arxiv.org/abs/2609.05261v1",
+    "publishedAt": "2026-09-04",
     "categories": [
-      "cs.LG",
       "cs.AI",
-      "cs.RO"
+      "cs.SE"
     ]
   },
   {
-    "id": "arxiv-2609.04141v1",
-    "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+    "id": "arxiv-2609.05258v1",
+    "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
     "authors": [
-      "Zora Zhiruo Wang",
-      "Apurva Gandhi",
-      "Rulin Shao",
-      "Aspen Chen",
-      "Jonas Mueller",
-      "Zhiqi Liang",
-      "Jett Chen",
-      "Michael Ryan",
-      "Qianou Ma",
-      "Luxi He",
-      "Zhoujun Cheng",
-      "Andre He",
-      "Seungone Kim",
-      "Jiayi Geng",
-      "Mingqian Zheng",
-      "Weiwei Sun",
-      "Zheyuan Zhang",
-      "Xinran Zhao",
-      "Yike Wang",
-      "Abe Hou",
-      "Liwei Jiang",
-      "Pang Wei Koh",
-      "Diyi Yang",
-      "Graham Neubig",
-      "Daniel Fried"
+      "Sihan Ge",
+      "Yichen Lin",
+      "Chenyu Zhou",
+      "Jianghao Lin",
+      "Tao Yao",
+      "Dongdong Ge"
     ],
-    "summary": "AI agents are trained on population-scale data to encode broad capabilities spanning those of many practitioners. Yet the artifacts they produce rarely meet the personal bar professionals need to stake their reputation on. On realistic, open-ended tasks where success criteria are heterogeneous and insufficiently documented, individual expertise lives precisely in the elevation and departure from the average. In practice, iterative human-agent interaction surfaces criteria that users cannot fully specify up front, yet apply repeatedly across tasks. We argue this cross-session interaction data is a rich, underused signal for closing the gap to individual expertise. In this work, we propose test-time adaptation through human-agent interaction (TAHI), which integrates these signals into agent ",
-    "link": "http://arxiv.org/abs/2609.04141v1",
-    "publishedAt": "2026-09-03",
+    "summary": "Large language models (LLMs) are increasingly used to formulate optimization models from natural-language problem descriptions, yet realistic operations research (OR) requests are often incomplete: missing objectives, constraints, or business rules can change the resulting mathematical program. Existing evaluations largely assume a complete specification and therefore overlook whether an agent knows when clarification is needed before modeling. We introduce OR-Clarify, a benchmark for pre-formulation clarification. Each task presents a partial public problem description, withholds structured hidden slots, and evaluates agents through bounded interaction with a simulated user. The benchmark supports both openended and choice-based clarification, and measures slot recovery, stopping behavior",
+    "link": "http://arxiv.org/abs/2609.05258v1",
+    "publishedAt": "2026-09-04",
     "categories": [
+      "math.OC",
       "cs.AI"
     ]
   }
@@ -1141,7 +856,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283",
     "postedAt": "2026-08-31",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137224",
@@ -1246,4 +961,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-06T19:56:35.556Z';
+export const dataFetchedAt = '2026-09-07T02:41:45.952Z';
