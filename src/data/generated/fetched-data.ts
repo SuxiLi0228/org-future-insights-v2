@@ -2,24 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-architecting-memory-and-storage-in-the-ai-era-1788547159000",
-    "title": "Architecting memory and storage in the AI era",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
-    "publishedAt": "2026-09-04",
+    "id": "news-the-download-the-hunt-for-underground-hydrogen-and-more-rogu-1788783000000",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
+    "publishedAt": "2026-09-07",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
-    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-    "publishedAt": "2026-09-06",
+    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
+    "title": "What we expect from the upcoming Apple launch",
+    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -28,15 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-august-job-cuts-up-nearly-60-but-it-s-not-all-bad-news-1788525054000",
-    "title": "August job cuts up nearly 60%—but it’s not all bad news",
-    "link": "https://hrexecutive.com/august-job-cuts-up-nearly-60-but-its-not-all-bad-news/",
-    "summary": "Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
-    "publishedAt": "2026-09-04",
+    "id": "news-recruiting-and-hiring-where-ai-delegation-meets-exposure-and-1788784240000",
+    "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
+    "link": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
+    "summary": "AI hiring issues don't come from rogue algorithms; instead, they may occur when a hiring team uses an AI system but doesn't completely understand it. The post Recruiting and hiring: Where AI delegation meets exposure and exclusion appeared first on HR Executive .",
+    "publishedAt": "2026-09-07",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -67,16 +68,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788779243000",
-    "title": " 遍地都是“山野风” ",
-    "link": "https://www.huxiu.com/article/4889232.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 最近，内参君在长沙万象城转了一圈，发现了一个很有意思的现象。 商场某层楼上，胡恰、Need、野果、麻布食堂等五六家“山野风”餐厅扎堆开在一起，在1楼，还有个新开的o'eat。 这些门店都采用了清一色的黑色店招、白色logo，并且在极简设计之外，店里和店外都增加了不少绿植，突出“山野自然”，即使在工作日，门口仍然排着长队。 这并非个例。实际上，从商场到街边，“山野”元素，已经成了餐饮行业集体押注的方向。 抖音生活数据显示，2025年上半年，“山野自然”类餐厅的订单量同比增长102%，“森林、庭院、绿植”类餐厅的支付GMV同比增长86%。同期，相关商户的数量增长了47.2%，带“山野场景”的内容互动率是普通餐饮内容的2.3倍。 热度之下，各个品类都开始向山野风靠拢。 火锅赛道仍然是山野风的主战场。2021年成立的三出山，如今已经在北上广深等城市布局51家门店，最近还推出了板前模式，将山野审美推向精细化；同期成立的芸山季，在营门店数达122家，2023年成立的山缓缓，也开出了180家，发展势头极其迅猛。 近年来大火的地方菜，也开始向山野风“进化”。仅云贵菜系，从名字上看，就有各类“上山、下山、山里、山外”，“梅果、野果、安纳果”层出不穷；江西菜很快追随而上，如小江溪、野山桐、胡恰等品牌的热度也在持续上涨。 与此同时，曾经的小众地方菜如宁",
+    "id": "news--1788799639000",
+    "title": " “易中天”集体大涨，光又回来了？ ",
+    "link": "https://www.huxiu.com/article/4889305.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | AI制图 两周前，市场还在抛售光模块。 8月24日，&ldquo;易中天&rdquo;三家中报全部出炉。三家合计归母净利润223.84亿元，创历史新高。而资本市场并未买账。当天中际旭创跌7.72%，新易盛跌6.79%，天孚通信跌8.63%。 当时，市场担心的是CPO会不会颠覆可插拔光模块，担心美国政策会不会切断中国光模块的海外市场，也担心AI资本开支还能不能继续维持。 两周过去，担忧没有完全消失，股价却先涨回来了。 9月7日，股价表现大反转。中际旭创A股一度涨超10%，港股涨幅接近20%；新易盛、天孚通信也同步走强。&ldquo;易中天&rdquo;重新成为市场最拥挤的交易之一。 （图片来源：Choice金融终端） 消息面上，高盛最新研报称，看好未来光模块市场增长前景，并将2026-2028年全球1.6T及以上出货量分别上调29%、61%、50%。上调驱动在于其认为AI服务器正在从单机柜走向机架级扩张，ASIC服务器增加、单GPU使用的光模块数量提升以及规格升级。 此情况下，市场开始重新评估CPO对可插拔光模块的替代节奏。即便CPO开始替代，AI算力扩张带来的新增光互联需求，也可能暂时覆盖其对传统可插拔方案的替代影响。 这也解释了，为什么仅仅两周，市场对&ldquo;易中天&rdquo;的态度就发生了180度转变。 ",
     "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -94,23 +96,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
+    "id": "news-architecting-memory-and-storage-in-the-ai-era-1788547159000",
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology",
-      "ecommerce"
+      "organization"
     ]
   },
   {
-    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -120,16 +122,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-gain-opportunity-to-shape-cms-drug-cost-survey-pro-1788524124000",
-    "title": "Employers gain opportunity to shape CMS drug cost survey program",
-    "link": "https://hrexecutive.com/employers-gain-opportunity-to-shape-cms-drug-cost-survey-program/",
-    "summary": "The National Average Drug Acquisition Cost program is part of the machinery inside many employers' prescription benefits. The post Employers gain opportunity to shape CMS drug cost survey program appeared first on HR Executive .",
-    "publishedAt": "2026-09-04",
+    "id": "news-8216-you-cannot-sue-an-ai-8217-why-adoption-comes-down-to-pe-1788783332000",
+    "title": "&#8216;You cannot sue an AI&#8217;: Why adoption comes down to people, not platforms",
+    "link": "https://hrexecutive.com/you-cannot-sue-an-ai-why-adoption-comes-down-to-people-not-platforms/",
+    "summary": "Deploying AI is the part most organizations have mastered. One Asian bank shows why the human shift, not the technology, decides whether adoption sticks. The post &#8216;You cannot sue an AI&#8217;: Why adoption comes down to people, not platforms appeared first on HR Executive .",
+    "publishedAt": "2026-09-07",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -160,17 +163,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788779185000",
-    "title": " 被AI判“死刑”两年后，招聘股竟然集体翻倍了 ",
-    "link": "https://www.huxiu.com/article/4889231.html?f=rss",
-    "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君 今年AI应用的最大赢家，居然是招聘股。 Meridian Capital跟踪的13家全球招聘服务上市公司中，有8家在美国上市，截至8月底，还是这8家公司，年内平均涨幅已经达到约85%，中位数涨幅接近94%，几乎集体翻倍。 过去两年，周期下行叠加AI对招聘人员的替代，让招聘公司一度成了资本市场最嫌弃的公司。2024—2025年，这8只招聘股平均累计下跌约48%。 当然，这波行情离不开周期的功劳——美国用工周期回暖，招聘公司本身就是高杠杆生意，收入一反转，利润和股价的弹性都极其夸张。 但周期，只能解释一半。另一半，恰恰是AI。 一方面，AI把大量标准化工作自动化，把交付成本压下来；另一方面，AI又让公开简历越来越不可靠，把经过真实招聘结果验证的数据变得更稀缺。 也就是说，AI不仅压低了“人力”的价值，还抬高了“效率”和“真实数据”的价值。 今年，硅基君就来聊聊，招聘股到底是如何在AI时代\"翻身\"的。 /01/ AI时代，招聘公司反而越值钱了 很多人可能不清楚，传统的人力招聘是一个典型堆人的生意。客户越多、岗位越多，筛选、沟通、验证、跟进的人就要跟着加。 招一个岗位，收到几百份简历，招聘顾问先筛一轮，再逐个联系候选人、确认意愿、问基本情况、安排面试。这些重复劳动，过去只能靠人。 现在AI一下子把聘公司的人力成本彻底打下来了。 Adec",
+    "id": "news--1788796964000",
+    "title": " 小米再次背水一战 ",
+    "link": "https://www.huxiu.com/article/4889313.html?f=rss",
+    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 小米做了15年生意，被外界关注的核心标签只有一项： 把别人卖得贵的东西卖便宜。 手机、电视、空调皆是如此，连汽车的第一仗也没有例外。2024年SU7上市定价21.59万元，雷军当场承认亏钱，24小时大定88898台。 15年来，这个飞轮运转的前提从未变过：成本必须由小米说了算。 2026年，这个前提消失了。 同版本手机内存价格涨了近四倍，小米手机的物料账被外力改写。新能源购置税补贴腰斩，增程赛道正在萎缩。手机出货在跌，汽车月交付停在三万台，IoT因国补退坡连续两个季度收缩。 上半年经调整净利润同比下降42.8%，小米的利润表正在经历2022年以来最剧烈的收缩。 9月7日晚7点，雷军站上了小米秋季旗舰新品发布会的舞台。 一上台，他先用了整整40分钟讲三颗自研玄戒芯片，过去五年1055亿元的研发投入，未来五年超过2000亿元的研发规划。 “只要开始追赶，小米就走在赢的路上。”他说。 然后是价格。小米18 Fold起售10999元，小米历史上最贵的手机。四款澎程增程SUV的正式售价分别是20.99万、23.99万、26.99万元、29.99万元。 销量方面，澎程系列四分钟锁单突破10000辆。 一台手机站到了小米从未到过的高度，四辆车又用了小米最熟悉的招数。 这场发布会浓缩了小米此刻最核心的矛盾，它一只手在尝试建立定价权，另一只手还在",
     "publishedAt": "2026-09-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -189,10 +191,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
     "publishedAt": "2026-09-04",
     "source": "MIT Technology Review",
     "tags": [
@@ -202,10 +204,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
@@ -215,15 +217,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gen-x-and-millennials-feel-least-positive-after-work-new-res-1788523258000",
-    "title": "Gen X and millennials feel least positive after work, new research finds",
-    "link": "https://hrexecutive.com/gen-x-and-millennials-feel-least-positive-after-work-new-research-finds/",
-    "summary": "Employee engagement varies by generation, with Gen X and millennials reporting lower shift-work sentiment while Gen Z shows mixed results. The post Gen X and millennials feel least positive after work, new research finds appeared first on HR Executive .",
-    "publishedAt": "2026-09-04",
+    "id": "news-employee-hsa-participation-jumps-to-83-report-1788782420000",
+    "title": "Employee HSA participation jumps to 83%: Report",
+    "link": "https://hrexecutive.com/employee-hsa-participation-jumps-to-83-report/",
+    "summary": "However, nearly two-thirds of employers cite employee education as the most common HSA concern while just half provide HSA education only during open enrollment. The post Employee HSA participation jumps to 83%: Report appeared first on HR Executive .",
+    "publishedAt": "2026-09-07",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai"
     ]
   },
   {
@@ -254,24 +257,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788779122000",
-    "title": " AI算力芯片盯上家庭市场，会是一门好生意么？ ",
-    "link": "https://www.huxiu.com/article/4889229.html?f=rss",
-    "summary": "本文来自微信公众号： ZAI科技 ，作者：Kevin QUOTE 资本市场可以为想象力估值，消费市场只会为用途付款。 本文看点 01 家庭需要独立算力吗？ 02 家庭有算力需求，但不一定是大算力需求 03 好故事≠好生意 01 OPENING “10999元内最好的闹钟” 前阵子，一段拍摄自WAIC活动现场的视频流传于各大微信群里，很是给吃瓜群众提供了一大波笑料。在视频中，几位参观者围着摩尔线程展出的一台名叫AI Cube而且售价高达10999元的家庭AI算力产品，向现场的工作人员抛出了一道送命题：“这个东西买回家，到底有什么用？” 正常来说，一般遇到如此不给面子的问题，由营销口儿或者公关口儿同事伪装的产品经理已经开始按照提前写好的台本儿开始和提问者用片儿汤话兜圈子了，但是显然摩尔线程作为一家工程师导向的企业（至少从现场人员安排而言应该如此）并不打算采用这么保守的策略，现场的几个小伙子立刻进入研发状态，认认真真和对方探讨起使用场景来，在连续被噎回去两个回合后，小伙子们终于用一句话回答了整场的碾压式反问：“但是他比闹钟好”。 02 PRODUCT 端侧算力平台：AI硬件新品类 “10999元以内最好的闹钟”当然只是开个玩笑，这只售价过万的小金属盒子，配置确实并不简单。AI Cube搭载了摩尔线程自研的“长江”智能SoC，将CPU、GPU、NPU以及视频处理单元塞进一颗芯片，CPU最高",
-    "publishedAt": "2026-09-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1788776500000",
     "title": "广东神秘老板，闷声买下欧洲卫浴龙头",
     "link": "https://www.tmtpost.com/8105371.html",
     "summary": "收购只是开始。",
+    "publishedAt": "2026-09-07",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "publishedAt": "2026-09-04",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b-1788713100000",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "publishedAt": "2026-09-06",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-august-job-cuts-up-nearly-60-but-it-s-not-all-bad-news-1788525054000",
+    "title": "August job cuts up nearly 60%—but it’s not all bad news",
+    "link": "https://hrexecutive.com/august-job-cuts-up-nearly-60-but-its-not-all-bad-news/",
+    "summary": "Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
+    "publishedAt": "2026-09-04",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
+    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
+    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
+    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
+    "publishedAt": "2026-09-04",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4b-qwen-glm-arc-agi-3-1788770190000",
+    "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+    "link": "https://www.qbitai.com/2026/09/485108.html",
+    "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+    "publishedAt": "2026-09-07",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1788776417000",
+    "title": "理想不会是最后一个增资欣旺达的车企",
+    "link": "https://www.tmtpost.com/8130319.html",
+    "summary": "车企需要一个“不那么强”的宁德时代。",
     "publishedAt": "2026-09-07",
     "source": "钛媒体",
     "tags": [
@@ -308,98 +376,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-psychological-capital-is-a-business-advantage-here-s-why-it--1788522358000",
-    "title": "Psychological capital is a business advantage. Here’s why it matters",
-    "link": "https://hrexecutive.com/psychological-capital-is-a-business-advantage-heres-why-it-matters/",
-    "summary": "How can organizations navigate sustained disruption without worsening employee disengagement? Psychological capital begins to explain this. The post Psychological capital is a business advantage. Here’s why it matters appeared first on HR Executive .",
+    "id": "news-employers-gain-opportunity-to-shape-cms-drug-cost-survey-pro-1788524124000",
+    "title": "Employers gain opportunity to shape CMS drug cost survey program",
+    "link": "https://hrexecutive.com/employers-gain-opportunity-to-shape-cms-drug-cost-survey-program/",
+    "summary": "The National Average Drug Acquisition Cost program is part of the machinery inside many employers' prescription benefits. The post Employers gain opportunity to shape CMS drug cost survey program appeared first on HR Executive .",
     "publishedAt": "2026-09-04",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
-    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
-    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
-    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
-    "publishedAt": "2026-09-04",
+    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
+    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
+    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
+    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
+    "publishedAt": "2026-09-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4b-qwen-glm-arc-agi-3-1788770190000",
-    "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-    "link": "https://www.qbitai.com/2026/09/485108.html",
-    "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-    "publishedAt": "2026-09-07",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788778628000",
-    "title": " 缺斤短两的赵一鸣们，缺的不是秤 ",
-    "link": "https://www.huxiu.com/article/4889227.html?f=rss",
-    "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 8月10日，河北沧州青县，一位顾客在赵一鸣零食门店买了4块牛肉干。店内电子秤显示0.299公斤，价款64.58元。他觉得不对劲，拿到别处复称，实际只有0.08公斤，应付17.29元。一块秤，称出了近4倍的差价。面对质疑，门店先说「系统识别异常」，随后改口「新店员操作失误」。青县市场监管部门已立案调查。 类似的剧情在过去一个多月里密集上演。河南周口，好想来门店一单收了111.35元，顾客坚持复称后，实际只要64.8元；四川广安武胜县，另一家好想来门店的结算单打出111.71元，复称后缩水到60多元，店长承认一台收银秤有问题，涉及9名顾客。9月4日，包头市市场监管局发文，宣布对全市连锁零食门店开展计量专项整治，涉及赵一鸣、好想来、七篓零食、采栗人等多个品牌，共检查门店123家次、电子计价秤284台次。山西运城、江苏盐城的部分县区也跟进开展了专项检查。 把这几起事件放在一起看，再纠结于某个店员、某台秤已经没有意义。真正值得追问的是：为什么被反复曝光的是同一个业态，为什么「操作失误」成了量贩零食行业最高频的解释词。答案不在秤上，在这门生意的底层逻辑里。 01 秤是这门生意最古老的信任装置 零售业发展了上千年，有一个装置始终没变：秤。它不产生价值，只负责一件事，让陌生人之间的交易不必依赖人品。你信的不是店主，是那杆秤。 量贩零食的特殊之处在于，它把",
-    "publishedAt": "2026-09-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788776417000",
-    "title": "理想不会是最后一个增资欣旺达的车企",
-    "link": "https://www.tmtpost.com/8130319.html",
-    "summary": "车企需要一个“不那么强”的宁德时代。",
-    "publishedAt": "2026-09-07",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agriculture-relies-on-fossil-fuels-it-s-costing-us-1788429600000",
-    "title": "Agriculture relies on fossil fuels. It’s costing us.",
-    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-    "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a&#8230;",
-    "publishedAt": "2026-09-03",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-seattle-times-and-newsday-are-the-latest-publications-to-sue-1788648595000",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "publishedAt": "2026-09-05",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
+      "workforce"
     ]
   }
 ];
@@ -1001,4 +1000,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-07T11:29:05.515Z';
+export const dataFetchedAt = '2026-09-07T17:09:44.335Z';

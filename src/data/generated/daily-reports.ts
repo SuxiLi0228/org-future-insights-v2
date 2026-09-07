@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-08-auto",
+    "date": "2026-09-08",
+    "session": "auto",
+    "title": "2026-09-08 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-08-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+      },
+      {
+        "id": "sig-2026-09-08-auto-2",
+        "emoji": "⚠️",
+        "title": "What we expect from the upcoming Apple launch",
+        "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+        "detail": "来源: TechCrunch。While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+      },
+      {
+        "id": "sig-2026-09-08-auto-3",
+        "emoji": "🚨",
+        "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
+        "summary": "AI hiring issues don't come from rogue algorithms; instead, they may occur when a hiring team uses an AI system but doesn't completely understand it. The post Recruiting and hiring: Where AI delegation meets exposure and exclusion appeared first on HR Executive .",
+        "detail": "来源: HR Executive。AI hiring issues don't come from rogue algorithms; instead, they may occur when a hiring team uses an AI system but doesn't completely understand it. The post Recruiting and hiring: Where AI delegation meets exposure and exclusion appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/"
+      },
+      {
+        "id": "sig-2026-09-08-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：UniMate: One Unified Model to Animate Diverse Skeletons...",
+        "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ",
+        "detail": "作者: Linzhan Mou, Jiahui Lei, Zhiyang Dou。Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.05415v1"
+      },
+      {
+        "id": "sig-2026-09-08-auto-5",
+        "emoji": "💼",
+        "title": "iMerit Technology 正在招募 AI Response Analyst",
+        "summary": "岗位类型：业务+AI 复合岗。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts",
+        "detail": "技能要求: 未标注。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit Technology"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit Technology",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-08-1",
+        "priority": "medium",
+        "action": "关注「The Download: the hunt for underground h」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-08-2",
+        "priority": "medium",
+        "action": "关注「What we expect from the upcoming Apple l」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-08-3",
+        "priority": "high",
+        "action": "关注「Recruiting and hiring: Where AI delegati」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-08-4",
+        "priority": "medium",
+        "action": "关注「研究速递：UniMate: One Unified Model to Anima」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-08-5",
+        "priority": "medium",
+        "action": "关注「iMerit Technology 正在招募 AI Response Analy」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit Technology"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-08 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-09-08 00:00 - 2026-09-08 23:59"
+  },
+  {
     "id": "report-2026-09-07-auto",
     "date": "2026-09-07",
     "session": "auto",
