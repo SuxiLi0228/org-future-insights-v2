@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-opaque-recurrence-and-other-ai-terms-that-you-should-probabl-1788809040000",
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "publishedAt": "2026-09-07",
+    "id": "news-eric-wu-8217-s-newest-company-out-of-stealth-since-may-is-go-1788833799000",
+    "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
+    "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+    "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+    "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -68,25 +68,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788799639000",
-    "title": " “易中天”集体大涨，光又回来了？ ",
-    "link": "https://www.huxiu.com/article/4889305.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | AI制图 两周前，市场还在抛售光模块。 8月24日，&ldquo;易中天&rdquo;三家中报全部出炉。三家合计归母净利润223.84亿元，创历史新高。而资本市场并未买账。当天中际旭创跌7.72%，新易盛跌6.79%，天孚通信跌8.63%。 当时，市场担心的是CPO会不会颠覆可插拔光模块，担心美国政策会不会切断中国光模块的海外市场，也担心AI资本开支还能不能继续维持。 两周过去，担忧没有完全消失，股价却先涨回来了。 9月7日，股价表现大反转。中际旭创A股一度涨超10%，港股涨幅接近20%；新易盛、天孚通信也同步走强。&ldquo;易中天&rdquo;重新成为市场最拥挤的交易之一。 （图片来源：Choice金融终端） 消息面上，高盛最新研报称，看好未来光模块市场增长前景，并将2026-2028年全球1.6T及以上出货量分别上调29%、61%、50%。上调驱动在于其认为AI服务器正在从单机柜走向机架级扩张，ASIC服务器增加、单GPU使用的光模块数量提升以及规格升级。 此情况下，市场开始重新评估CPO对可插拔光模块的替代节奏。即便CPO开始替代，AI算力扩张带来的新增光互联需求，也可能暂时覆盖其对传统可插拔方案的替代影响。 这也解释了，为什么仅仅两周，市场对&ldquo;易中天&rdquo;的态度就发生了180度转变。 ",
-    "publishedAt": "2026-09-07",
+    "id": "news--1788835714000",
+    "title": " 撕番的风吹到了商业代言 ",
+    "link": "https://www.huxiu.com/article/4889387.html?f=rss",
+    "summary": "本文来自微信公众号： 眸娱 ，作者：眸娱 撕番的风从影视剧吹到了商业代言。 最近，一场围绕科颜氏“全球title”的粉丝维权，在网上闹得沸沸扬扬。 蔡徐坤粉丝因不满科颜氏在官宣合作前，给另一位合作艺人宋雨琦升title，发起了“非全球代言人不买”的集体抵制。 后援会紧急刹车，品牌方礼貌回应，但粉丝依然不买账，这场三方角力，撕开的远不止一个代言title的问题。 粉丝争的到底是什么？ 今年8月，科颜氏宣布宋雨琦从品牌大使升级为品牌代言人。 双方自2024年开启合作，历经大使阶段的长线磨合，此次晋升将代言范围拓展至白泥面膜等核心单品，这本来是一次再正常不过的商业进阶，是合作成熟后的自然升级。 但不到一个月，9月初，网传蔡徐坤将与科颜氏达成新的代言合作，事情陡然转向。 消息传出后，蔡徐坤粉丝的反应不是欢呼，而是愤怒，因为粉丝认为两位艺人之间存在咖位差距，明确表示如果品牌不给蔡徐坤全球title，将不会支持该合作。 社交媒体上，“非全球不买”的刷屏式抗议在品牌官博及相关话题下铺天盖地，有粉丝甚至提出“要么给蔡徐坤全球title，要么给宋雨琦降title”。 显而易见，粉丝反对的并不是蔡徐坤代言科颜氏本身，而是与宋雨琦同一title。 在粉丝的认知框架里，title是一张偶像行业坐标的排名表，同title意味着平起平坐，她们无法接受偶像身份降级，甚至认为会损害到未来的商业价值，这种逻辑背后的",
+    "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-video-generation-crosses-real-time-threshold-enabling-con-1788777843000",
-    "title": "AI Video Generation Crosses Real-Time Threshold, Enabling Continuous Streams and Interactive Stories",
-    "link": "https://www.tmtpost.com/8131491.html",
-    "summary": "Faster-than-playback generation from models such as MiniMax H3 Max is shifting AI video from batch production to continuous, interactive media. Early experiments show chat-driven infinite livestreams and near-zero-latency narrative games, though consistency, cost and safety remain open constraints.",
-    "publishedAt": "2026-09-07",
+    "id": "news-chinese-tech-giants-race-to-monetize-ai-office-agents-after--1788835263000",
+    "title": "Chinese Tech Giants Race to Monetize AI Office Agents After Free-Usage Era",
+    "link": "https://www.tmtpost.com/8132164.html",
+    "summary": "ByteDance, Alibaba, Tencent and Baidu have launched or expanded AI productivity agents in mid-2026, shifting from free consumer chatbots toward paid office workflows. Differing strategies—subscriptions, transaction embedding, desktop agents and product matrices—reflect the shared challenge of converting scale into sustainable revenue.",
+    "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -109,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-secret-new-elizabeth-holmes-documentary-stuns-telluride-1788804149000",
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+    "id": "news-opaque-recurrence-and-other-ai-terms-that-you-should-probabl-1788809040000",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
@@ -163,11 +162,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788796964000",
-    "title": " 小米再次背水一战 ",
-    "link": "https://www.huxiu.com/article/4889313.html?f=rss",
-    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 小米做了15年生意，被外界关注的核心标签只有一项： 把别人卖得贵的东西卖便宜。 手机、电视、空调皆是如此，连汽车的第一仗也没有例外。2024年SU7上市定价21.59万元，雷军当场承认亏钱，24小时大定88898台。 15年来，这个飞轮运转的前提从未变过：成本必须由小米说了算。 2026年，这个前提消失了。 同版本手机内存价格涨了近四倍，小米手机的物料账被外力改写。新能源购置税补贴腰斩，增程赛道正在萎缩。手机出货在跌，汽车月交付停在三万台，IoT因国补退坡连续两个季度收缩。 上半年经调整净利润同比下降42.8%，小米的利润表正在经历2022年以来最剧烈的收缩。 9月7日晚7点，雷军站上了小米秋季旗舰新品发布会的舞台。 一上台，他先用了整整40分钟讲三颗自研玄戒芯片，过去五年1055亿元的研发投入，未来五年超过2000亿元的研发规划。 “只要开始追赶，小米就走在赢的路上。”他说。 然后是价格。小米18 Fold起售10999元，小米历史上最贵的手机。四款澎程增程SUV的正式售价分别是20.99万、23.99万、26.99万元、29.99万元。 销量方面，澎程系列四分钟锁单突破10000辆。 一台手机站到了小米从未到过的高度，四辆车又用了小米最熟悉的招数。 这场发布会浓缩了小米此刻最核心的矛盾，它一只手在尝试建立定价权，另一只手还在",
-    "publishedAt": "2026-09-07",
+    "id": "news-vs-1788835308000",
+    "title": " 小绿盒VS小蓝机，巨头角逐线下支付入口 ",
+    "link": "https://www.huxiu.com/article/4889385.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：何柳颖 线下支付硝烟再起。 历经2年，支付宝“碰一下”用户突破4亿，迅速占得市场一席之地，对于收银台上的蓝色“碰一下”设备，消费者已经不再陌生。 近期也有越来越多消费者发现，在“小蓝机”隔壁，还多了一个“小绿盒”，这是微信支付今年推出的一款扫码盒子。 从“两码并行”到如今的“双机并行”，线下支付的竞争仍在上演。 扫码盒子铺设“进行时” 在北京的莹莹（化名）近日留意到，在超市的收银台上，除了传统的绿码、蓝码，还出现了两台并列的设备，左边是支付宝“碰一下”，右边，是微信的“小绿盒”。 “老板说刚安装的，直接扣码就行。”莹莹告诉界面新闻记者。 这个“小绿盒”就是微信支付扫码盒子。界面新闻记者多方了解到，围绕扫码盒子的市场推广活动正在陆续落地，目前已有多家支付服务商参与其中。 “我们采购了几万台。”有第三方支付机构工作人员告诉界面新闻记者。 “机器拿货一台是79元，直接给商家说是微信官方新品，使用可以拿奖励，不改变原来的收款费率，只是通过绿盒扫码收款。”界面新闻记者以地推人员身份咨询某支付服务商时，工作人员如是介绍。 在目前的一线推广中，作为后来者的“小绿盒”奖励力度颇大。界面新闻记者获得的一份推广奖励文件显示，铺设微信扫码盒子，代理商以及商户两端都有相应奖励。 代理商奖励包括落地奖，200元/台，需要同时满足“安装当月该设备交易笔数&gt;300笔",
+    "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -176,18 +175,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-and-the-evolution-of-value-investing-a-conversation-with--1788777604000",
-    "title": "AI and the Evolution of Value Investing: A Conversation with Zhong Zhaomin",
-    "link": "https://www.tmtpost.com/8131485.html",
-    "summary": "The breakout of generative artificial intelligence is reshaping corporate models and global markets. As information becomes ubiquitous and technological iterations accelerate, established competitive moats face constant redefinition. Yet for Zhong Zhaomin, founder of Oriental Marathon Investment Management, the AI revolution does not render value investing obsolete; it transforms its methods while leaving its core principles intact.",
-    "publishedAt": "2026-09-07",
+    "id": "news-ir-1788833340000",
+    "title": "摩尔线程的IR，该向智谱取取经",
+    "link": "https://www.tmtpost.com/8131887.html",
+    "summary": "A/B test都在眼前，沐曦该行动起来了。",
+    "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -204,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
-    "title": "What we expect from the upcoming Apple launch",
-    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "id": "news-a-secret-new-elizabeth-holmes-documentary-stuns-telluride-1788804149000",
+    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
     "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
@@ -257,11 +255,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788776500000",
-    "title": "广东神秘老板，闷声买下欧洲卫浴龙头",
-    "link": "https://www.tmtpost.com/8105371.html",
-    "summary": "收购只是开始。",
-    "publishedAt": "2026-09-07",
+    "id": "news-china-gt-1788835238000",
+    "title": " 小米冠名、国家级配置，CHINA GT为什么还是办成了草台班子？ ",
+    "link": "https://www.huxiu.com/article/4889364.html?f=rss",
+    "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·汽车观察 91号赛车被侧面撞击之后，几乎就在一瞬间被大火包围。英国车手Ollie Millroy被困在座舱里。 最先赶到现场的并不是消防人员和医疗救援队，而是一名正在参加比赛的79号车手Loek Hartog。 他把车停到缓冲区，放弃比赛，往火场里跑。他从赶来的赛道工作人员手中接过灭火器，压制车身周围的火势，又从另一侧把Millroy拖出座舱。 Motorsport.com根据车载画面计算，从Hartog离开自己的赛车到救人出来，大约用了49秒。 Millroy后来在医院说：“今晚我还能活着，完全归功于一个人。” 他断了5根肋骨，锁骨、手和手指骨折，还有肺部挫伤。但他活了下来。 Hartog的救援让人肃然起敬。 可这场大火，也让中国赛车难堪。 因为当一名参赛车手必须放弃比赛、冲进火场，去完成本该由专业救援人员完成的工作时，我们看到的就不只是英雄，而是一套赛事系统在最关键时刻留下的空位。 草台班子办的比赛，你还期待中国赛车事业有进步吗？ 瞰见Lab AI生成主题插画，非事故现场还原 01 一、车手成了英雄，是因为本该救人的人没有出现 Hartog当然值得所有掌声。 成熟的赛事不应该把这样的掌声当成故事的终点。 赛车本身就有危险。车手签订参赛协议、坐进赛车，并不是把性命交给运气，也不是发生起火后只能依靠另一名车手担任消防员。 比赛存在的意",
+    "publishedAt": "2026-09-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-85-1788832860000",
+    "title": "河北储能大清洗，近85个储能项目被取消建设或延期，储能圈而不建，化作“纸上富贵”",
+    "link": "https://www.tmtpost.com/8131675.html",
+    "summary": "河北山西清理储能项目，国内挤泡沫，海外抢订单成出路。",
+    "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -284,11 +296,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
-    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-    "publishedAt": "2026-09-06",
+    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
+    "title": "What we expect from the upcoming Apple launch",
+    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "publishedAt": "2026-09-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -336,11 +348,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788776417000",
-    "title": "理想不会是最后一个增资欣旺达的车企",
-    "link": "https://www.tmtpost.com/8130319.html",
-    "summary": "车企需要一个“不那么强”的宁德时代。",
-    "publishedAt": "2026-09-07",
+    "id": "news--1788835060000",
+    "title": " 桥下的银发部落，自建的老年社区 ",
+    "link": "https://www.huxiu.com/article/4889380.html?f=rss",
+    "summary": "本文来自微信公众号： 新潮 ，指导老师：白净，编辑：黄圣依，作者：十二岁的新潮，原文标题：《桥下的银发部落 自建的老年社区》 本文为南京大学2024级专硕黄江波的毕业设计选编。 图文|黄江波 指导老师|白净 文靖西路隶属于南京市江宁区东山街道,位于南京主城区的最南端。秦淮河南段在此分汊，汊口一公里范围内，多座桥梁密集排布，其中最年轻的一座是文靖西路跨秦淮河桥。这是一片典型的城市住宅区。道路东西两头，1号线和5号线地铁呼啸而过，为这片区域带来了喧哗的人声和不息的车流。 根据第七次人口普查，东山街道常住人口35162人，其中本地户籍人口142886人，占比仅四成。而在常住人口中，60岁以上人口约为40800人，人口老龄化率（60岁+）约11.6%，也显著低于南京全市均值的18.98%。数据显示这是一条典型的人口流入型街道，生活在这里的老人相当一部分都来自于外省市。他们中，有人为了照顾子辈孙辈，有人需要大城市的医疗资源，有人缺乏自理能力需要子女照顾……因为各种各样的原因，这些外地老人最终汇集在这个陌生城市的陌生区域。 2023年1月18日，文靖西路跨秦淮河桥正式通车。同一时间，桥下有人搬来两张牌桌，从此和桥梁一同生根，最终自发演变成为一个相当规模的活动中心。桥上日日车流如注，跨河而去，从不停留。桥下总是人声鼎沸，人们来到这里，一坐就是大半天。 如今，这块桥下空间有一个正式名称——文靖西路",
+    "publishedAt": "2026-09-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-400-1788832613000",
+    "title": "AI短剧规模冲向400亿：一半是成本坍塌，一半是九成陪跑",
+    "link": "https://www.tmtpost.com/8131830.html",
+    "summary": "平均不到一分钟，就有一部新的AI短剧进入市场。",
+    "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -363,42 +388,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-authors-push-back-as-publishers-and-agents-make-claims-on-an-1788727657000",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
     "publishedAt": "2026-09-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-employers-gain-opportunity-to-shape-cms-drug-cost-survey-pro-1788524124000",
-    "title": "Employers gain opportunity to shape CMS drug cost survey program",
-    "link": "https://hrexecutive.com/employers-gain-opportunity-to-shape-cms-drug-cost-survey-program/",
-    "summary": "The National Average Drug Acquisition Cost program is part of the machinery inside many employers' prescription benefits. The post Employers gain opportunity to shape CMS drug cost survey program appeared first on HR Executive .",
-    "publishedAt": "2026-09-04",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-finance-is-leaning-in-to-manage-healthcare-costs-wtw-exec-sa-1788464100000",
-    "title": "Finance is ‘leaning in’ to manage healthcare costs, WTW exec says",
-    "link": "https://www.hrdive.com/news/finance-leaning-manage-healthcare-costs-wtw-exec-says/829536/",
-    "summary": "CFOs are increasingly partnering with HR executives to help trim rising healthcare costs, WTW&rsquo;s Tim Stawicki says.",
-    "publishedAt": "2026-09-03",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   }
 ];
@@ -827,7 +826,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
     "postedAt": "2026-09-01",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137278",
@@ -846,7 +845,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
     "postedAt": "2026-09-01",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137257",
@@ -863,7 +862,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
     "postedAt": "2026-09-01",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137283",
@@ -1000,4 +999,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-07T21:03:53.047Z';
+export const dataFetchedAt = '2026-09-08T02:53:38.362Z';
