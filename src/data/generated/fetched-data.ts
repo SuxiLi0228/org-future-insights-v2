@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-the-hunt-for-underground-hydrogen-and-more-rogu-1788783000000",
-    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
-    "publishedAt": "2026-09-07",
+    "id": "news-the-download-our-35-innovators-under-35-this-year-1788869400000",
+    "title": "The Download: our 35 Innovators Under 35 this year",
+    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
+    "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eric-wu-8217-s-newest-company-out-of-stealth-since-may-is-go-1788833799000",
-    "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
-    "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-    "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+    "id": "news-google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us--1788881135000",
+    "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+    "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-recruiting-and-hiring-where-ai-delegation-meets-exposure-and-1788784240000",
-    "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
-    "link": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
-    "summary": "AI hiring issues don't come from rogue algorithms; instead, they may occur when a hiring team uses an AI system but doesn't completely understand it. The post Recruiting and hiring: Where AI delegation meets exposure and exclusion appeared first on HR Executive .",
-    "publishedAt": "2026-09-07",
+    "id": "news-fintech-is-helping-shift-global-payroll-away-from-traditiona-1788870608000",
+    "title": "Fintech is helping shift global payroll away from traditional processing",
+    "link": "https://hrexecutive.com/fintech-helping-shift-global-payroll-away-traditional-processing/",
+    "summary": "Payroll is essentially becoming unbundled, split into layers, enabled by tech and repackaged by solution providers The post Fintech is helping shift global payroll away from traditional processing appeared first on HR Executive .",
+    "publishedAt": "2026-09-08",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
@@ -68,23 +66,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1788862578000",
-    "title": " 5万店的赵一鸣、好想来，管不住一台秤？ ",
-    "link": "https://www.huxiu.com/article/4889550.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 量贩零食开始补“管理课”。 定焦One（dingjiaoone）原创 最近，量贩零食行业最受关注的，是一台电子秤。 赵一鸣、好想来接连被消费者曝出称重异常。河北沧州一名消费者在“赵一鸣零食”买了四块牛肉干，小票显示重0.299公斤、售价64.58元，复秤后却只有0.08公斤、17.29元；河南周口一位消费者在“好想来”购买散装零食，第一次结账显示111.35元，重新称重后变成64.8元。争议发酵后，多地市场监管部门开始对量贩零食门店的电子计价秤展开专项检查，两家量贩零食巨头被推上了风口浪尖。 这两天，涉事品牌相继作出回应。 河南周口的涉事订单，好想来母公司万辰集团对外解释，是收银机关闭重启之后，秤盘没有完成清零，加上设备灵敏度高，托盘夹缝夹住电线都可能造成称重偏差；河北沧州的涉事订单，监管部门确认系店员操作不当导致称重严重偏差，并已正式立案调查。 9月7日，鸣鸣很忙就近期门店称重问题致歉，称已成立专项赔付基金，今后消费者遇到称重问题，将按照称错商品差价的10倍赔付。同时，公司要求全国门店配备标准砝码，每天开业前完成校秤，并上线全国门店秤具监控系统，对每笔称重信息留痕并回传总部；门店负责人和督导如果执行不到位，也将被追责。 好想来也宣布，自9月7日起，若门店出现称重计价误差问题，经核实后，在行业三倍差价赔偿基础上，",
+    "id": "news--1788878333000",
+    "title": " 讨论英语教育的改革，根本不需要上纲上线 ",
+    "link": "https://www.huxiu.com/article/4889642.html?f=rss",
+    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 这两天网上关于知名考研数学老师汤家凤“取消英语主科”的观点吵飞了。其实这个问题确实很值得来场大讨论，虽然关于英语的主科地位该不该取消在近十年的舆论中一直有人提出，但显然这次引发大争论的现实基础和以往是截然不同的。 在AI爆发带来的全面冲击和就业形式的急剧变化下，远不止英语这一个科目要重新讨论怎么学怎么教，学了干什么的问题，英语不过是首当其冲。 但这两天的网络舆论中，从汤家凤到胡锡进到很多人，大量“保守排外——开放包容”或“崇洋媚外——自主自信”的对立命题就比较跑偏了。我们现在基础教育改革中，最重要的议题应该着眼于全国各地的教育现状，尽力促进教育资源分配的平衡性和可持续性。对英语主科地位的讨论也应该建立在这个出发点上。 今天看到一个常看的左翼公众号是从这个出发点讨论的，立意很好，不少观点也有价值。不过文里说英语教育的地域和阶层差距没有数理化大，这点从我这个干过基层教育的人来说就不太认同。该文以浙江省内城乡英语高考差距和其他省份英语类比赛成绩差距来说明英语学科的城乡差距没其他科大，然而浙江省内情况没法说明欠发达地区的城乡英语教育差距，其他省份的英语竞赛成绩也没法说明这点。 实际上竞赛，比赛这些只能衡量竞赛教练的水平，像欠发达地区的竞赛省会集中部是远高于东部的，经常是学生学籍在当地，而竞赛训练在省会学校，有的西部城市的小伙伴应该会了解这个情",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-minimax-1788861754000",
-    "title": "确定的智谱，不确定的MiniMax",
-    "link": "https://www.tmtpost.com/8131557.html",
-    "summary": "市值是模型在商业层面的延伸。",
+    "id": "news-8-9-st-1788877211000",
+    "title": "杰华特董事长携新设平台8.9亿入局，*ST沐邦迎来储能新猜想",
+    "link": "https://www.tmtpost.com/8133409.html",
+    "summary": "目前真正的考验，还是在法院、债权人和历史遗留风险这一侧。",
     "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
@@ -95,24 +94,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-architecting-memory-and-storage-in-the-ai-era-1788547159000",
-    "title": "Architecting memory and storage in the AI era",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
-    "publishedAt": "2026-09-04",
+    "id": "news-this-founder-is-teaching-chips-how-to-recycle-their-energy-1788863760000",
+    "title": "This founder is teaching chips how to recycle (their energy)",
+    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;",
+    "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
       "technology",
-      "organization"
+      "strategy"
     ]
   },
   {
-    "id": "news-opaque-recurrence-and-other-ai-terms-that-you-should-probabl-1788809040000",
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "publishedAt": "2026-09-07",
+    "id": "news-chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-t-1788879849000",
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+    "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -121,17 +120,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8216-you-cannot-sue-an-ai-8217-why-adoption-comes-down-to-pe-1788783332000",
-    "title": "&#8216;You cannot sue an AI&#8217;: Why adoption comes down to people, not platforms",
-    "link": "https://hrexecutive.com/you-cannot-sue-an-ai-why-adoption-comes-down-to-people-not-platforms/",
-    "summary": "Deploying AI is the part most organizations have mastered. One Asian bank shows why the human shift, not the technology, decides whether adoption sticks. The post &#8216;You cannot sue an AI&#8217;: Why adoption comes down to people, not platforms appeared first on HR Executive .",
-    "publishedAt": "2026-09-07",
+    "id": "news-volkswagen-agrees-to-cut-100-000-jobs-in-restructuring-plan-1788869714000",
+    "title": "Volkswagen agrees to cut 100,000 jobs in restructuring plan",
+    "link": "https://hrexecutive.com/volkswagen-agrees-to-cut-100000-jobs-in-restructuring-plan/",
+    "summary": "As part of Volkswagen's Future Plan 2030, the cuts would bring the total by the end of the decade to 100,000 and cloud four plants' future. The post Volkswagen agrees to cut 100,000 jobs in restructuring plan appeared first on HR Executive .",
+    "publishedAt": "2026-09-08",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
@@ -162,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788862500000",
-    "title": " 离开互联网的程序员，走向工厂车间：月入过万，全年出差 ",
-    "link": "https://www.huxiu.com/article/4889547.html?f=rss",
-    "summary": "本文来自微信公众号： 深圳微时光 ，作者：黄小邪 8月中旬，28岁的李闻在社交账号上发布了一张图片，画面仅有四个字：“前端已死”。当天他刚刚拿到低压电工证，计划第二天就去培训机构系统学习PLC课程。 李闻毕业于一所普通本科院校的计算机专业，毕业后在重庆的互联网行业做了五年前端工程师。这五年间，他辗转五家公司，经历过两次裁员，薪资仅涨了两三千元，最后一份工作的月收入是9000多元。今年4月失业后，他经历了四个月的空窗期。期间他努力刷新知识，持续投递简历，但能收到的面试机会，大多是外包岗位。最终，他决定离开这个行业，另谋出路。 在程序员群体中，李闻的转行经历并不罕见。PLC工程师与上位机工程师，是现代工业中两个需要编程知识的岗位，程序员在编程上的积累，构成了他们转行的天然优势。 两者的区别在于：PLC工程师，业内称为自动化控制工程师，是懂编程的电气工程师；而上位机工程师，则是懂工业场景的纯软件程序员。 除了工作内容有所差异，两者的工作状态几乎高度一致。他们大多数时候扎在车间，日常工作多与工业设备、机器调试打交道。全年奔波于全国各地的工厂，人与工作深度绑定，需24小时响应现场需求，个人生活空间被严重压缩，是这两个岗位的工作常态。 相比互联网程序员，这两个岗位更辛苦，对体力有较高要求。但它们的优势也很明显：不易失业，入行后月薪普遍过万，收入稳定，经验是加分项，年龄歧视相对较轻，能提供互联网",
+    "id": "news--1788878246000",
+    "title": " 健身最大的变化，就是没有变化 ",
+    "link": "https://www.huxiu.com/article/4889641.html?f=rss",
+    "summary": "本文来自微信公众号： 精练GymSquare ，作者：Jting 社交平台上，通过健身「脱胎换骨」的对比照片无疑是最激励人心的精神氮泵。但生活中大部分坚持锻炼的人面对的真相是，没有变化。 体型没有瘦没有胖，体质浮动不明显，更没有想象中的重返年轻态。期待满满的训练计划在残酷现实面前一败涂地，「感觉练个了寂寞」。 长此以往，不少人的训练热情消退，一边佛系训练一边深陷自我怀疑，甚至索性转移爱好放弃了健身。 图源小红书话题页 事实上，很多长期健身者的共识是，健身最大的变化就是没有变化。 这一方面与年龄增长体能断崖的客观现实有关，规律的训练对体能下降的遏制所形成的抵消作用，往往难以被人察觉； 同时，对长期健身者来，训练量和肌肉量的增长并非保持同步，明显存在的边际递减现象反而让「没有变化」成了常态。 另一方面也与精神方面的提升效果没有被大众纳入「改变」的评判标准有关，但某种程度上来说，这也算一种隐形训练痕迹。 无论是刚开始训练的新手还是富有经验的健身老手，肉眼可见的训练痕迹固然是一种鼓励。但调整期待值、将视线收回用心感受当下，聆听自己身体发出的信号，或许才是更直接且良性的动力来源。 更重要的是，这种与健身和解的过程也并非妥协，而是认识到「健身不仅是改变身体形态，更是改变生活方式，一种以年为单位的毅力计量单位」之后的自洽，是让自己与运动松弛相处的最佳方式。 训练多年 毫无训练痕迹 运动风潮之下不",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
@@ -175,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1788861748000",
-    "title": "大模型的Token生意，终究没绕过天猫",
-    "link": "https://www.tmtpost.com/8132584.html",
-    "summary": "模型能力被放上同一张价签。",
+    "id": "news--1788875103000",
+    "title": "神剑股份又有高管遭立案背后：元老吴德清学历成谜，国资入主难挽颓势",
+    "link": "https://www.tmtpost.com/8133374.html",
+    "summary": "公司治理、经营发展双重难题摆在台前。",
     "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
@@ -189,24 +186,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-selling-battlefield-drone-data-and-ai-reshaping-1788523800000",
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
-    "publishedAt": "2026-09-04",
+    "id": "news-this-ai-entrepreneur-is-developing-agents-that-can-plan-ahea-1788863640000",
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+    "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ecommerce"
+      "technology"
     ]
   },
   {
-    "id": "news-a-secret-new-elizabeth-holmes-documentary-stuns-telluride-1788804149000",
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-    "publishedAt": "2026-09-07",
+    "id": "news-mistral-raises-3b-as-sovereign-ai-becomes-big-business-1788877068000",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -215,16 +211,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-hsa-participation-jumps-to-83-report-1788782420000",
-    "title": "Employee HSA participation jumps to 83%: Report",
-    "link": "https://hrexecutive.com/employee-hsa-participation-jumps-to-83-report/",
-    "summary": "However, nearly two-thirds of employers cite employee education as the most common HSA concern while just half provide HSA education only during open enrollment. The post Employee HSA participation jumps to 83%: Report appeared first on HR Executive .",
-    "publishedAt": "2026-09-07",
+    "id": "news-after-cigna-dropped-glp-1-coverage-employees-started-a-petit-1788868833000",
+    "title": "After Cigna dropped GLP-1 coverage, employees started a petition",
+    "link": "https://hrexecutive.com/after-cigna-dropped-glp-1-coverage-employees-started-a-petition/",
+    "summary": "About 450 employees signed a petition calling on the insurance giant to walk back its decision to cut coverage for the popular weight loss drug. The post After Cigna dropped GLP-1 coverage, employees started a petition appeared first on HR Executive .",
+    "publishedAt": "2026-09-08",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -255,23 +250,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-70-68-1788862425000",
-    "title": " 科技IPO冲上70%背后：68%的钱，流向了前五家公司 ",
-    "link": "https://www.huxiu.com/article/4889546.html?f=rss",
-    "summary": "本文来自微信公众号： 和讯 ，作者：和讯财经研究 2026年的科技IPO，正在出现一个耐人寻味的变化。 前八个月，科技IPO募资约1331亿元，占全市场IPO募资的70.1%，创下2016年以来新高。 但另一组数字却没那么“热”，真正完成上市的科技公司只有53家，仍处历史低位。更关键的是，1331亿元中，前五大项目合计拿走68.3%。科技IPO看起来越来越热，但热度并没有平均分配。 把2016年以来近三千条A股IPO明细拉通，从募资规模、上市数量、资金集中度、科技占比和资金面五个维度拆开看，2026年的科技IPO到底是全面回暖，还是少数项目带动下的结构性升温？ 01 总量坐标：科技IPO正在修复，但距离上一轮高峰仍有明显差距 2026年的科技IPO确实在明显回暖。2024年，科技IPO募资规模降至446.1亿元；2026年前八个月，这一数字已经回升至1331.1亿元，较2024年低点已经修复约3倍。 但如果放到更长的时间维度观察，1331.1亿元仍不能简单理解为科技IPO已经进入新一轮高景气周期。 2022年是此前一轮科技IPO融资高点，全年募资达到3749.4亿元。2020年至2023年，科技IPO年度募资规模均处于2280亿元至3749亿元的较高区间。相比之下，2026年前八个月的1331.1亿元仍有明显差距。 因此，从总量来看，2026年的关键词更适合定义为“修复”，而不是“",
+    "id": "news--1788877638000",
+    "title": " 关键拐点已至，中部大省“硬气”起来了 ",
+    "link": "https://www.huxiu.com/article/4889640.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 近日，国内首个年产能超40万克拉的智能切磨工厂在郑州正式投产。 项目落地，“标志着我国培育钻石产业成功补齐中游切磨加工这一关键短板”。 几乎同时，河南超硬材料行业上半年经营情况出炉：7家超硬材料上市公司及新三板企业中，6家实现营业收入、净利润双增长。 其中，力量钻石营收同比增长超80%，归母净利润暴涨247.61%，领跑行业。 投资与资本市场捷报频传并非巧合。 这背后，金刚石凭借其超高热导率被视为AI芯片散热的“理想材料”，有望带来千亿级市场蓝海。 而在这场新赛道竞逐中，手握全国80%人造金刚石产量的河南，已率先完成战略卡位。 这一空前机遇，对于郑州来说尤其关键。 放眼中部地区，相比武汉在光电子信息产业，合肥在集成电路、新能源汽车等赛道的快速突围，眼下的郑州，亟需一张无可替代的“产业王牌”。 01 红利 “经历近3年去产能阵痛，2026年上半年超硬材料行业整体回暖。”一句简短的表述，透露出河南超硬材料产业正经历的艰难转型。 时间回到去年上半年，受全球经济波动及下游需求结构性调整影响，超硬材料市场需求量下降，力量钻石、黄河旋风、四方达等多家企业净利润大幅下滑，培育钻石毛利率断崖式下滑。 一年过去，行业大盘分化加剧，业界更是用“冰火两重天”形容各家企业交出的半年报业绩。这其中，河南企业交出一份整体回暖的成绩单，含金量不言而喻。 上半年河",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1788861726000",
-    "title": "端侧 AI“小时代”",
-    "link": "https://www.tmtpost.com/8132618.html",
-    "summary": "大时代，还得等等。",
+    "id": "news-17-st-1788875003000",
+    "title": "17亿占用落定，*ST利达易主：罚单是终点还是跳板？",
+    "link": "https://www.tmtpost.com/8133239.html",
+    "summary": "旧账了结，新账开始。",
     "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
@@ -282,24 +278,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marke-1788513919000",
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
-    "publishedAt": "2026-09-04",
+    "id": "news-this-founder-is-making-cheaper-cleaner-steel-1788863580000",
+    "title": "This founder is making cheaper, cleaner steel",
+    "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+    "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It&#8230;",
+    "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ecommerce"
+      "technology"
     ]
   },
   {
-    "id": "news-what-we-expect-from-the-upcoming-apple-launch-1788796680000",
-    "title": "What we expect from the upcoming Apple launch",
-    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-    "publishedAt": "2026-09-07",
+    "id": "news-a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of--1788876689000",
+    "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+    "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+    "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+    "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -308,15 +303,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-august-job-cuts-up-nearly-60-but-it-s-not-all-bad-news-1788525054000",
-    "title": "August job cuts up nearly 60%—but it’s not all bad news",
-    "link": "https://hrexecutive.com/august-job-cuts-up-nearly-60-but-its-not-all-bad-news/",
-    "summary": "Job cuts were up between July and August but significantly lower than this time last year. What does this signal for HR? The post August job cuts up nearly 60%—but it’s not all bad news appeared first on HR Executive .",
-    "publishedAt": "2026-09-04",
+    "id": "news-remote-working-is-reshaping-presenteeism-study-finds-1788867954000",
+    "title": "Remote working is reshaping presenteeism, study finds",
+    "link": "https://hrexecutive.com/remote-working-is-reshaping-presenteeism-study-finds/",
+    "summary": "New research argues that remote work and always-on digital tools have outgrown the standard definition of presenteeism and proposes eight distinct forms of it. The post Remote working is reshaping presenteeism, study finds appeared first on HR Executive .",
+    "publishedAt": "2026-09-08",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "strategy"
     ]
   },
   {
@@ -347,24 +343,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1788862337000",
-    "title": " 全国500座智算中心：一半是海水，一半是火焰 ",
-    "link": "https://www.huxiu.com/article/4889543.html?f=rss",
-    "summary": "本文来自微信公众号： 赛格大道 ，作者：刘溪禾 阿里巴巴CEO吴泳铭在财报会上说，阿里云服务器内几乎没有一张卡是闲置的；但中国在运营的500余座算力中心，却有一半以上处在空置状态。 这不是玩笑，而是现实。 中国算力的图景，正呈现出一半是海水，一半是火焰的反差现象。 据国家数据局发布数据，截至2026年6月，中国在用智算中心超500个，另有在建及规划项目近400个，总数可达1000个左右，算力总规模达245万PFLOPS，高居全球第二位。 不过，根据中国信息通信研究院公布数据，2025年国内智算共算量约38亿卡时，用算量仅14亿卡时，用算占比36.8%。另据算力龙头企业浪潮旗下人工智能研究院测算，目前全国智算中心平均算力使用率仅约30%。 以某西部智算园区为例，全年综合算力利用率不足五成，新建十万卡国产机房上架率不足20%，年亏损额在千万级。这也是大多数地方算力园区的真实写照。 但在另一边，以乌兰察布、庆阳、中卫为代表的多个城市，正在集体遇见DeepSeek、字节、华为、阿里、苹果、腾讯等一众科技大厂。 高盛亚洲称，“乌兰察布已崛起为亚太规模最大、增长最快的AI算力集群之一”。截至2026年6月，乌兰察布的数据中心已投运及规划容量合计约12.5GW，较2025年约1.2GW在线产能达十倍以上扩张。 然而，更疯狂的是海外算力中心投入。 在马来西亚柔佛州，算力总投资已达490亿美元，其中",
+    "id": "news--1788876636000",
+    "title": " 救援队不会用灭火器，照出了中国汽车最后的短板 ",
+    "link": "https://www.huxiu.com/article/4889638.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 一场车祸，让全世界觉得中国赛车是个“草台班子”。 国内顶级的汽车赛事之一，China GT，9月5日发生重大事故，7号与33号赛车在缠斗中失控冲出赛道，随后撞上91号赛车的侧面，后者疑似油箱被撞破，瞬间变成了一团火球，万幸的是，车手勉强保住了一条命。 作为一项对抗极其激烈的运动，赛车碰撞并不是什么稀罕事，但主办方在事故发生后的神级操作，足以载入历史。 01闹剧式救援 话说91号车爆燃之后，瘫在了赛道边上，上面的英国车手奥利·米尔罗伊几乎失去意识，没法第一时间逃生，直接被烈火包围，起火约10秒后，仍然没有任何赛道工作人员到达现场，留奥利一个人在车里被炙烤。而赛车标配的全套防护服装，大约能为车手提供11到20秒的抗火保护，已经濒临极限。 反而是另一名车手，来自荷兰的洛克·哈托格，看到前方发生事故之后，毫不犹豫放弃了比赛，主动下车救援，通过赛场的排行榜秒差计算，他停车时，应该也是距离碰撞已经过了10秒以上。洛克先尝试从主驾一侧接近，但火势过于迅猛，然后他又换到副驾一侧，快速拆下了车门，试图把奥利拖出来，但此时车身已经被烧得滚烫了，根本无处下手，洛克非常焦急，在围栏边大声呼喊想找个灭火器。 这时候，才有一个工作人员慢悠悠跑过来，距离洛克停车，已经过去了30秒，距离碰撞起火已经过了至少40秒。他把灭火器递给洛克，然后又调头跑开了，不知道去",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-pc-ai-ifa-2026-1788861531000",
-    "title": "从AI PC到个人AI，联想敲定新赛道｜IFA 2026",
-    "link": "https://www.tmtpost.com/8132045.html",
-    "summary": "携手英伟达，联想将千亿参数大模型装进笔记本。",
+    "id": "news-ipo-1788867655000",
+    "title": "永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？",
+    "link": "https://www.tmtpost.com/8133007.html",
+    "summary": "在餐饮品牌上市难的今天，快乐蜂能获得资本市场的青睐吗？",
     "publishedAt": "2026-09-08",
     "source": "钛媒体",
     "tags": [
@@ -375,24 +370,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-rethinking-child-safety-and-fossil-fueled-farmi-1788437400000",
-    "title": "The Download: rethinking child safety and fossil-fueled farming",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
-    "publishedAt": "2026-09-03",
+    "id": "news-this-geneticist-s-age-reversal-tech-could-help-restore-sight-1788863520000",
+    "title": "This geneticist’s age-reversal tech could help restore sight",
+    "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+    "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own&#8230;",
+    "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-1788730866000",
-    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-    "publishedAt": "2026-09-06",
+    "id": "news-nuclear-startup-bluecore-energy-raises-50m-seed-round-just-t-1788876617000",
+    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+    "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+    "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+    "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -999,4 +993,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-08T10:31:14.159Z';
+export const dataFetchedAt = '2026-09-08T15:55:42.674Z';
