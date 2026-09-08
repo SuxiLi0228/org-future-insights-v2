@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us--1788881135000",
-    "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-    "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+    "id": "news-meta-debuts-its-muse-ai-agent-will-consumers-trust-it-1788894000000",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -39,17 +39,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-race-bias-claims-tied-to-drug-test-can-go-to-jury-11th-circu-1788551700000",
-    "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
-    "link": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
-    "summary": "Evidence showed an employer rehired a White employee but not two Black employees after firing all three for the same conduct, the court said.",
-    "publishedAt": "2026-09-04",
+    "id": "news-4-stories-on-crafting-a-good-onboarding-experience-1788888540000",
+    "title": "4 stories on crafting a good onboarding experience",
+    "link": "https://www.hrdive.com/news/design-a-good-onboarding-experience/829574/",
+    "summary": "Employers need to focus on grounding new workers in the organization and preparing them for the work to come, various reports show.",
+    "publishedAt": "2026-09-08",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -66,17 +66,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788878333000",
-    "title": " 讨论英语教育的改革，根本不需要上纲上线 ",
-    "link": "https://www.huxiu.com/article/4889642.html?f=rss",
-    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 这两天网上关于知名考研数学老师汤家凤“取消英语主科”的观点吵飞了。其实这个问题确实很值得来场大讨论，虽然关于英语的主科地位该不该取消在近十年的舆论中一直有人提出，但显然这次引发大争论的现实基础和以往是截然不同的。 在AI爆发带来的全面冲击和就业形式的急剧变化下，远不止英语这一个科目要重新讨论怎么学怎么教，学了干什么的问题，英语不过是首当其冲。 但这两天的网络舆论中，从汤家凤到胡锡进到很多人，大量“保守排外——开放包容”或“崇洋媚外——自主自信”的对立命题就比较跑偏了。我们现在基础教育改革中，最重要的议题应该着眼于全国各地的教育现状，尽力促进教育资源分配的平衡性和可持续性。对英语主科地位的讨论也应该建立在这个出发点上。 今天看到一个常看的左翼公众号是从这个出发点讨论的，立意很好，不少观点也有价值。不过文里说英语教育的地域和阶层差距没有数理化大，这点从我这个干过基层教育的人来说就不太认同。该文以浙江省内城乡英语高考差距和其他省份英语类比赛成绩差距来说明英语学科的城乡差距没其他科大，然而浙江省内情况没法说明欠发达地区的城乡英语教育差距，其他省份的英语竞赛成绩也没法说明这点。 实际上竞赛，比赛这些只能衡量竞赛教练的水平，像欠发达地区的竞赛省会集中部是远高于东部的，经常是学生学籍在当地，而竞赛训练在省会学校，有的西部城市的小伙伴应该会了解这个情",
+    "id": "news--1788884374000",
+    "title": " 洋河“失守”江苏大本营 ",
+    "link": "https://www.huxiu.com/article/4889652.html?f=rss",
+    "summary": "本文来自微信公众号： 青澄财经 ，作者：青辰，编辑：六子 近日，洋河股份发布2026年半年报，营业收入105.4亿元，同比下降28.76%；归母净利润26.02亿元，同比下降40.10%。 这份年中报一发布，当下白酒行业处境“最尴尬”候选人评选，洋河股份恐怕是要上榜了。因为其不仅丢掉了坚守多年的行业老三之位，还丢得相当狼狈。 数据显示，2023年洋河股份的总营收为331.26亿元，净利润为100.16亿元，紧随其后的山西汾酒分别为319.28亿元和104.38亿元，两者相差无几。而到了今年年中报，山西汾酒的业绩虽也有所下滑，但营收和净利润仍分别达到210.44亿元和64.39亿元。 三年时间，洋河股份的业绩已不到老对手一半，被远远甩出第一阵营，情何以堪？ *图源公司年中报 但你以为这就足够尴尬了吗？并不是，因为这家一度成功全国化的“江苏酒王”，省内大本营的地位却岌岌可危。 半年报显示，洋河在江苏省内实现营收43.91亿元，同比下滑38.34%。同期，江苏酒企今世缘的省内营收56.68亿元，同比仅下滑9.36%，成功反超洋河。 当前洋河业绩下滑并不奇怪，很好理解，但省内省外全面失利让追问变得难以回避：公司究竟真的是“主动撤退”还是“全面崩盘”？江苏大本营为什么跌的如此严重？未来还有机会吗？ 01 「经销商用脚投票，年中报拉响“警报”」 上半年洋河股份业绩如此“拉胯”，省内市场要负主要",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -107,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-t-1788879849000",
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+    "id": "news-how-to-watch-apple-8217-s-foldable-iphone-announcement-1788889613000",
+    "title": "How to watch Apple&#8217;s foldable iPhone announcement",
+    "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+    "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -132,17 +131,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amtrak-s-relaxed-covid-era-fmla-policy-didn-t-cover-plaintif-1788551700000",
-    "title": "Amtrak’s ‘relaxed’ COVID-era FMLA policy didn’t cover plaintiff’s unexplained absences, judge rules",
-    "link": "https://www.hrdive.com/news/amtrak-relaxed-covid-era-fmla-policy-unexplained-absences/829728/",
-    "summary": "The court&rsquo;s analysis demonstrates the importance of thorough documentation in intermittent Family and Medical Leave Act compliance.",
-    "publishedAt": "2026-09-04",
+    "id": "news-study-business-leaders-underestimate-future-work-disruptions-1788885840000",
+    "title": "Study: Business leaders underestimate future work disruptions",
+    "link": "https://www.hrdive.com/news/leaders-underestimate-future-work-disruptions-2026/829805/",
+    "summary": "From workforce reduction to emerging technologies, leaders have a lot on their plate &mdash; and HR can step up to help lead the change.",
+    "publishedAt": "2026-09-08",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -159,10 +157,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788878246000",
-    "title": " 健身最大的变化，就是没有变化 ",
-    "link": "https://www.huxiu.com/article/4889641.html?f=rss",
-    "summary": "本文来自微信公众号： 精练GymSquare ，作者：Jting 社交平台上，通过健身「脱胎换骨」的对比照片无疑是最激励人心的精神氮泵。但生活中大部分坚持锻炼的人面对的真相是，没有变化。 体型没有瘦没有胖，体质浮动不明显，更没有想象中的重返年轻态。期待满满的训练计划在残酷现实面前一败涂地，「感觉练个了寂寞」。 长此以往，不少人的训练热情消退，一边佛系训练一边深陷自我怀疑，甚至索性转移爱好放弃了健身。 图源小红书话题页 事实上，很多长期健身者的共识是，健身最大的变化就是没有变化。 这一方面与年龄增长体能断崖的客观现实有关，规律的训练对体能下降的遏制所形成的抵消作用，往往难以被人察觉； 同时，对长期健身者来，训练量和肌肉量的增长并非保持同步，明显存在的边际递减现象反而让「没有变化」成了常态。 另一方面也与精神方面的提升效果没有被大众纳入「改变」的评判标准有关，但某种程度上来说，这也算一种隐形训练痕迹。 无论是刚开始训练的新手还是富有经验的健身老手，肉眼可见的训练痕迹固然是一种鼓励。但调整期待值、将视线收回用心感受当下，聆听自己身体发出的信号，或许才是更直接且良性的动力来源。 更重要的是，这种与健身和解的过程也并非妥协，而是认识到「健身不仅是改变身体形态，更是改变生活方式，一种以年为单位的毅力计量单位」之后的自洽，是让自己与运动松弛相处的最佳方式。 训练多年 毫无训练痕迹 运动风潮之下不",
+    "id": "news--1788883899000",
+    "title": " 老百姓心里有杆秤 ",
+    "link": "https://www.huxiu.com/article/4889651.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：版君 量贩零食最怕什么？ 可能不是卖贵了，而是让消费者觉得，连自己买了多少都不知道。 64.58元的牛肉干，复秤只有17.29元。 河南还有消费者结账时看到111元，觉得不对劲，要求重新称重，价格变成了64.8元。 这两笔账，差的都不是几毛钱。 偏偏事情发生在赵一鸣、好想来这样的连锁量贩零食店里。 这个行业最成功的一件事，就是把便宜做成了一种消费习惯。货架上密密麻麻的零食，统一的价格体系，自己挑、自己选，消费者不用想太多，拎着袋子走一圈就能结账。 可一旦那台秤出了问题，整个消费逻辑就突然变了。 几起投诉接连出现，更多人开始翻出类似经历，监管部门也迅速跟进，对多家主流量贩零食门店开展计量专项整治。 一杆秤，突然成了这个行业最值得看的东西。 一、一杆秤，撑起一门生意 赵一鸣、好想来等量贩零食卖的是低价，低价背后靠的是一套高度标准化的系统，从选品采购、仓储周转，到门店陈列、收银结算，每个环节都在算效率。 但这套复杂系统落到消费者面前，往往只剩下一杆秤。消费者看不见背后的供应链，他只看显示屏上的数字信不信得过。 这门生意有个很有意思的矛盾，货品高度非标，但零售体验却必须高度标准化。消费者进店，选货、装袋、上秤、付款，几步走完，整个过程简单得像买瓶水。 这种简单，背后是采购、仓储、门店管理、价格体系和数字化系统共同撑起来的。 对于包装食品，价格早就印好",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
@@ -198,10 +196,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mistral-raises-3b-as-sovereign-ai-becomes-big-business-1788877068000",
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "id": "news-openai-fought-dirty-on-career-making-math-problem-says-nyu-m-1788888735000",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -223,11 +221,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-another-whiplash-month-for-the-labor-market-as-august-beats--1788535140000",
-    "title": "Another ‘whiplash’ month for the labor market as August beats expectations",
-    "link": "https://www.hrdive.com/news/another-whiplash-month-for-the-labor-market-as-august-beats-expectations/829684/",
-    "summary": "The market remains in a &ldquo;fragile&rdquo; state, one economist said, as sensitivity to inflation, interest rates and geopolitical tensions remains high.",
-    "publishedAt": "2026-09-04",
+    "id": "news-employers-that-only-talk-the-talk-on-ai-may-jeopardize-worke-1788885840000",
+    "title": "Employers that only ‘talk the talk’ on AI may jeopardize worker trust",
+    "link": "https://www.hrdive.com/news/employers-that-only-talk-the-talk-on-ai-may-jeopardize-worker-trust/829804/",
+    "summary": "Businesses may need to watch for a gap between corporate AI promises and actual implementation, research indicates.",
+    "publishedAt": "2026-09-08",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -250,10 +248,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788877638000",
-    "title": " 关键拐点已至，中部大省“硬气”起来了 ",
-    "link": "https://www.huxiu.com/article/4889640.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 近日，国内首个年产能超40万克拉的智能切磨工厂在郑州正式投产。 项目落地，“标志着我国培育钻石产业成功补齐中游切磨加工这一关键短板”。 几乎同时，河南超硬材料行业上半年经营情况出炉：7家超硬材料上市公司及新三板企业中，6家实现营业收入、净利润双增长。 其中，力量钻石营收同比增长超80%，归母净利润暴涨247.61%，领跑行业。 投资与资本市场捷报频传并非巧合。 这背后，金刚石凭借其超高热导率被视为AI芯片散热的“理想材料”，有望带来千亿级市场蓝海。 而在这场新赛道竞逐中，手握全国80%人造金刚石产量的河南，已率先完成战略卡位。 这一空前机遇，对于郑州来说尤其关键。 放眼中部地区，相比武汉在光电子信息产业，合肥在集成电路、新能源汽车等赛道的快速突围，眼下的郑州，亟需一张无可替代的“产业王牌”。 01 红利 “经历近3年去产能阵痛，2026年上半年超硬材料行业整体回暖。”一句简短的表述，透露出河南超硬材料产业正经历的艰难转型。 时间回到去年上半年，受全球经济波动及下游需求结构性调整影响，超硬材料市场需求量下降，力量钻石、黄河旋风、四方达等多家企业净利润大幅下滑，培育钻石毛利率断崖式下滑。 一年过去，行业大盘分化加剧，业界更是用“冰火两重天”形容各家企业交出的半年报业绩。这其中，河南企业交出一份整体回暖的成绩单，含金量不言而喻。 上半年河",
+    "id": "news-token-1788883880000",
+    "title": " 在三季度token数据公布前，搞懂这几个问题 ",
+    "link": "https://www.huxiu.com/article/4889650.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 三季度已经进入尾声。中国日均Token调用数据又将迎来一次更新。 今年，中国官方已经两次披露了全国日均token消耗，均为季末数据，6月底为500万亿token，相较去年年底增长了5倍，是去年同期的16倍。 但这个数字，可能还没有反映中国AI需求最新一轮的变化。在7月至今，中国模型迎来了一段“好用”时刻；以GPT-6 Astra为代表的新一代模型，进一步证明了Computer Use在复杂任务完成上的价值，国内模型或快速跟进，开启一条新的token调用跃升的路径。它们究竟会把三季度的Token调用量推到哪里，可能是接下来最值得关注的数据。 （来源：国家数据局等；“年初”“年末”等表述统一简化为Q1、Q4。WorkBuddy制图） 但是，且慢，我们最好在该数据披露前，搞清楚以下几个问题，至少把它们先写在案头： 当前的500万亿Token，到底统计了什么？ 中国的Token消耗真的超过美国了吗？ 如果超过了，为什么中国AI收入仍比美国低一个数量级？ 背后的国产算力，以及token出口 统计口径 粗略地看，Token的一生并不复杂。某地用户通过某款应用发起请求，应用调用某个模型，模型运行在某地的算力基础设施上，最终生成Token并返回结果。同一个请求，可能在不同环节留下不同的Token统计数字。 Token正在成为AI经济学的新尺度，但我",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
@@ -290,10 +288,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of--1788876689000",
-    "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-    "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-    "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+    "id": "news-google-cloud-races-to-catch-up-in-the-ai-deployment-wars-wit-1788884431000",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -316,10 +314,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lowe-s-foundation-launches-skilled-trades-coalition-to-train-1788535140000",
-    "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
-    "link": "https://www.hrdive.com/news/lowes-foundation-launches-skilled-trades-coalition-to-train-1m-workers-by/829662/",
-    "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
+    "id": "news-race-bias-claims-tied-to-drug-test-can-go-to-jury-11th-circu-1788551700000",
+    "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
+    "link": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
+    "summary": "Evidence showed an employer rehired a White employee but not two Black employees after firing all three for the same conduct, the court said.",
     "publishedAt": "2026-09-04",
     "source": "HR Dive",
     "tags": [
@@ -343,10 +341,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788876636000",
-    "title": " 救援队不会用灭火器，照出了中国汽车最后的短板 ",
-    "link": "https://www.huxiu.com/article/4889638.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 一场车祸，让全世界觉得中国赛车是个“草台班子”。 国内顶级的汽车赛事之一，China GT，9月5日发生重大事故，7号与33号赛车在缠斗中失控冲出赛道，随后撞上91号赛车的侧面，后者疑似油箱被撞破，瞬间变成了一团火球，万幸的是，车手勉强保住了一条命。 作为一项对抗极其激烈的运动，赛车碰撞并不是什么稀罕事，但主办方在事故发生后的神级操作，足以载入历史。 01闹剧式救援 话说91号车爆燃之后，瘫在了赛道边上，上面的英国车手奥利·米尔罗伊几乎失去意识，没法第一时间逃生，直接被烈火包围，起火约10秒后，仍然没有任何赛道工作人员到达现场，留奥利一个人在车里被炙烤。而赛车标配的全套防护服装，大约能为车手提供11到20秒的抗火保护，已经濒临极限。 反而是另一名车手，来自荷兰的洛克·哈托格，看到前方发生事故之后，毫不犹豫放弃了比赛，主动下车救援，通过赛场的排行榜秒差计算，他停车时，应该也是距离碰撞已经过了10秒以上。洛克先尝试从主驾一侧接近，但火势过于迅猛，然后他又换到副驾一侧，快速拆下了车门，试图把奥利拖出来，但此时车身已经被烧得滚烫了，根本无处下手，洛克非常焦急，在围栏边大声呼喊想找个灭火器。 这时候，才有一个工作人员慢悠悠跑过来，距离洛克停车，已经过去了30秒，距离碰撞起火已经过了至少40秒。他把灭火器递给洛克，然后又调头跑开了，不知道去",
+    "id": "news--1788883831000",
+    "title": " 南北经济失衡的惯性，终于被打破了 ",
+    "link": "https://www.huxiu.com/article/4889649.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼 中国经济不再只有“孔雀东南飞”。 长久以来，大家都有一个思维惯性：孔雀东南飞。 在宏大的中国经济版图中，这已经形成了一套固定的叙事模式：人口拼命奔赴东南沿海，南北经济失衡、东中西经济失衡，内陆的优势只有廉价劳动力、原材料，想要挣钱、挣大钱，很多人只能背井离乡，奔赴长三角、珠三角，甚至固化到上海、深圳、杭州、广州、厦门、宁波等极少数城市中。 但是，这套固化的叙事模式太单薄，无法完整表述中国经济版图的多样性和纵深性。 我从不否认，东南沿海依旧聚集高端产业链，持续吸纳外来人口，上海、深圳、杭州、广州等资源优势短时间内无法被撼动。但我十几年来跑过了国内大大小小数十个城市，更跑过不少中西部、北方城市，翻看近几年各地经济数据，再结合身边亲友的真实就业选择，我越来越确定，这套单一叙事早就跟不上当下中国经济的真实状况，更不适配未来均衡发展的良性循环。 中国经济需要一群“以下克上”的鲶鱼群。 宜宾动力电池工厂整夜灯火通明，哈密新能源装备整车源源不断外运，鄂尔多斯的零碳产业园落地，贵阳贵安的算力机房昼夜运转，格尔木锂资源产业链完整落地，郑州留住上百万中原劳动力，酒泉、金昌财政收入连年大幅攀升…… 一批过去被贴上“产业落后、人口外流”标签的城市，正在悄悄重构全国生产力布局。 中国经济的“鲶鱼群”是？ 最浅显的变化，反映在全国GDP数据、财政收入上，沿海独",
     "publishedAt": "2026-09-08",
     "source": "虎嗅",
     "tags": [
@@ -382,10 +380,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nuclear-startup-bluecore-energy-raises-50m-seed-round-just-t-1788876617000",
-    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-    "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-    "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+    "id": "news-google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us--1788881135000",
+    "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+    "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -993,4 +991,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-08T15:55:42.674Z';
+export const dataFetchedAt = '2026-09-08T20:39:38.332Z';

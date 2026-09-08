@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-09-auto",
+    "date": "2026-09-09",
+    "session": "auto",
+    "title": "2026-09-09 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-09-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: our 35 Innovators Under 35 this year",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+      },
+      {
+        "id": "sig-2026-09-09-auto-2",
+        "emoji": "⚠️",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "detail": "来源: TechCrunch。Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+      },
+      {
+        "id": "sig-2026-09-09-auto-3",
+        "emoji": "🚨",
+        "title": "Fintech is helping shift global payroll away from traditional processing",
+        "summary": "Payroll is essentially becoming unbundled, split into layers, enabled by tech and repackaged by solution providers The post Fintech is helping shift global payroll away from traditional processing appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Payroll is essentially becoming unbundled, split into layers, enabled by tech and repackaged by solution providers The post Fintech is helping shift global payroll away from traditional processing appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/fintech-helping-shift-global-payroll-away-traditional-processing/"
+      },
+      {
+        "id": "sig-2026-09-09-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：UniMate: One Unified Model to Animate Diverse Skeletons...",
+        "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ",
+        "detail": "作者: Linzhan Mou, Jiahui Lei, Zhiyang Dou。Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-skeleton retraining. UniMate introduces a topology-aware diffusion transformer, which integrates skeletal topology into attention via three mechanisms: (1) a graph-aware attention bias from pairwise joint relations and geodesic distances; (2) a spectral rotary position embedding generalizing RoPE to",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.05415v1"
+      },
+      {
+        "id": "sig-2026-09-09-auto-5",
+        "emoji": "💼",
+        "title": "iMerit Technology 正在招募 AI Response Analyst",
+        "summary": "岗位类型：业务+AI 复合岗。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts",
+        "detail": "技能要求: 未标注。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit Technology"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit Technology",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-09-1",
+        "priority": "medium",
+        "action": "关注「The Download: our 35 Innovators Under 35」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-09-2",
+        "priority": "medium",
+        "action": "关注「Meta debuts its Muse AI agent. Will cons」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-09-3",
+        "priority": "high",
+        "action": "关注「Fintech is helping shift global payroll 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-09-4",
+        "priority": "medium",
+        "action": "关注「研究速递：UniMate: One Unified Model to Anima」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-09-5",
+        "priority": "medium",
+        "action": "关注「iMerit Technology 正在招募 AI Response Analy」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit Technology"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-09 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-09-09 00:00 - 2026-09-09 23:59"
+  },
+  {
     "id": "report-2026-09-08-auto",
     "date": "2026-09-08",
     "session": "auto",
