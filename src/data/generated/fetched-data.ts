@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-viral-ai-assistant-instinct-now-has-its-own-email-address-1788966792000",
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "id": "news-everything-apple-announced-at-its-fall-iphone-event-from-the-1788984223000",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -55,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x2-5-61-bug-1788948174000",
-    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-    "link": "https://www.qbitai.com/2026/09/486374.html",
-    "summary": "",
+    "id": "news-15999-ai-1788981862000",
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "link": "https://www.qbitai.com/2026/09/486450.html",
+    "summary": "一比根号二的小胖折叠",
     "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
@@ -68,17 +68,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-anthropic-1788965737000",
-    "title": " AI十年内会杀死全人类？Anthropic研究员发出最严重警报 ",
-    "link": "https://www.huxiu.com/article/4889956.html?f=rss",
-    "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 如果只看AI公司最近的动作，不会有人觉得这场疯狂的竞赛有任何慢下来的意思。 新模型还在一个接一个地发布，公司估值越抬越高，OpenAI和Anthropic都已经开始为上市做准备。 但与此同时，AI公司内部呼吁整个行业“慢一点”的人也越来越多了。 而且之前发出这种警告更多来自负责安全和对齐的人。然而如今OpenAI首席科学家开始公开呼吁减速，更有意思的是，一名先后在OpenAI和Anthropic做预训练的研究员，干脆辞了职，并且发出了“诸神黄昏”般的预言。 负责踩油门的人，也觉得必须要到踩刹车的时候了。 AI十年内会杀死全人类？ 9月9日，Jacob Coxon在X上发了7条帖子，宣布自己从Anthropic辞职。 但他发的内容并非含泪挥别之类，而更像是忧心忡忡的喊话所有AI从业者，正如开头所写： “过去三年，我先后在OpenAI和Anthropic从事预训练研究。这两家公司都没有负责任地行动。它们正径直冲向自我改进的超级智能，拿我们的生命作赌注。” 他甚至直接写道，正在构建AI的人真心相信，这项技术可能在本十年结束前杀死所有人。“这绝不是营销噱头。” 据Jacob说，一些高管和资深研究员公开面对媒体时，会尽量把话说得稳妥一些，但在私下交流中，他听到同一批人表达过真实的恐惧。 这样的判断当然非常激进。值得注意的是，说出这些话的人并不在",
+    "id": "news-3-1788970164000",
+    "title": " 上市公司的话市场一般要定价3次 ",
+    "link": "https://www.huxiu.com/article/4889960.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月31日下午，华泰证券开半年报发布会。 上半年净利116亿，同比涨五成多，自家上市以来最好的半年报。提问环节，股东头一个问题是：你这个股价长期破净，打算怎么办？ 破净是行话，股价跌到每股净资产下面，就叫破净。净资产，是公司账上属于自己的家底；破净等于说，市场给这家公司的定价，比它自己的家底还低。 哎，中报季里这么被问的券商，不止华泰一家。 我查了下，中信、光大、国泰海通都没被放过，这些券商业绩都不差，有的利润还创了新高光大那边的话更直，五年十年投下来，算上分红还是亏的。 搁以前，这画面没人敢信，业绩好，股价不该好么？可今年，业绩这头，好像失灵了。 探路者也是，这家做户外用品的公司，预告上半年利润同比翻倍还多。公告出来，股价连着两个跌停，两天市值蒸发近60亿。 翻倍钱哪来的？ 两家刚收购的芯片公司贡献了大头，再加一笔汇率收益。自家户外主业的经营利润，反而在下滑。利润是真的，可这利润长在别人身上，明年还在不在，没人知道。 市场不傻，它看这利润能不能自己长出来，长不出来，预增得再漂亮，也不认。 嗯，那换个思路，故事总该有人信吧？ 今年A股热闹得邪门。京蓝科技，早年并购埋下的财务造假，2025年罚单落地，股票被打上ST的记号。年初，它宣布改名铟靶新材，蹭稀有金属概念，18个交易日，股价翻了一倍多。 8月底，它刚摘帽，市值180亿上下。可今年上",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -108,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-rival-indrive-scales-beyond-ride-hailing-to-capture-mor-1788966641000",
-    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-    "summary": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+    "id": "news-there-are-new-shiny-iphones-so-apple-is-making-you-pay-more--1788983778000",
+    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+    "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+    "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -149,9 +148,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai4s-2026-1788947874000",
-    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-    "link": "https://www.qbitai.com/2026/09/486370.html",
+    "id": "news-x2-5-61-bug-1788948174000",
+    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+    "link": "https://www.qbitai.com/2026/09/486374.html",
     "summary": "",
     "publishedAt": "2026-09-09",
     "source": "量子位",
@@ -162,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-1788965485000",
-    "title": " 9月之后，手机行业还能卷什么？ ",
-    "link": "https://www.huxiu.com/article/4889955.html?f=rss",
-    "summary": "本文来自微信公众号： 科技爆论 ，作者：爆哥 9月的手机圈，是早高峰的地铁口。 9月7日下午，华为发MateXT2；四个半小时后，小米在同一天开秋季发布会，端出阔折叠和自研玄戒O3；9月10日凌晨，苹果首款折叠屏iPhoneUltra登场。三场重磅发布会，压进了短暂的72小时。 往年各家躲苹果躲得像躲债主，今年全员贴脸开大——6家厂商、20多款新机挤进30天。 热闹是真的热闹。但热闹背后的真相很残酷：之所以放弃时间差，是因为这个行业能卷的东西不多了。 1 涨价、涨价、再涨价 涨价是消费者体感最明显的领域。 以往企业比的是降价，谁能在同一性能下实现价格更低，就能拿到更大的市场。但今年逻辑反过来了，年内连续出现了3次手机行业的涨价浪潮。 仅仅在9月密集的发布会里，涨价也是主基调。9月1日就涨了一波，发布会这几天，小米18 Fold价格是10999元起，相比于上一代大折叠MIX Fold4的8999元起涨了2000元，华为Mate XT 2相比于2024年的Mate XT价格似乎没变，19999元元起，但相比于苹果所要掀起的折叠屏大众化潮流下，这一价格以当下同行为锚点，依旧是高位。据说接下来密集的发布会里，Mate90系列、vivo X500系列均会出现价格上调。 但涨价不是厂商想卷，是被卷。 源头在存储。2026年一季度，DRAM合约价环比涨超80%，NAND涨55%到90%。一根12",
+    "id": "news--1788970140000",
+    "title": " 越来越多的老板，不再想把公司做大了 ",
+    "link": "https://www.huxiu.com/article/4889959.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 中国企业以规模论英雄的时代结束了。 这句话放在十年前，我相信没有几个老板会同意。那时的共识是：公司只有大和更大两种状态，不大就是失败的开始。今天，越来越多老板不再把“做大”当成理所当然的目标。 最近三年，作为战略顾问和总裁教练，我接触的创始人里，主动谈“做大”的人明显少了，谈“小而美”“做久”的人多了。 但“不想做大”这四个字底下，其实是三种完全不同的人和状态。 第一种老板，是被周期打伤了。过去赚钱的生意和能力不在了，几经折腾，事越做越多越杂，摊子越铺越大，账上的钱反而越来越少。两三个回合下来，心气散了。他们不是不想做大，是不再相信做大这件事还会有回报。做大成了一个奢侈的念头，能守住现在就已经不错。他们嘴边最常挂的两句话是“先苟着”，和“拼命奔跑还在往后退”。 第二种老板，是认清现实了。他们想明白了一件事：先赚钱，再谈别的，比如远方和梦想。不再像过去那样大规模投入，去讲一个改变世界的故事，去做一家“值钱的公司”以换取资本市场更大的想象空间，而是集中精力把现有的生意做成一台每年都能产出现金和利润的机器。 他们最常说的是：公司小一点没关系，但要合规，要赚钱，要有利润。他们不是放弃了雄心，而是把雄心从估值表收回到了利润表上。 第三种老板，是真正看清了“大”和“强”不是一回事。营业收入做大不等于利润变厚，员工人数增加不等于组织变强，规模可以",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
@@ -201,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8216-gambling-with-our-lives-8217-anthropic-researcher-quits-1788966167000",
-    "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
-    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "id": "news-the-hinge-for-apple-8217-s-new-foldable-phone-was-built-with-1788981708000",
+    "title": "The hinge for Apple&#8217;s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -240,28 +239,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788930150000",
-    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-    "link": "https://www.qbitai.com/2026/09/486288.html",
-    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "id": "news-ai4s-2026-1788947874000",
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "link": "https://www.qbitai.com/2026/09/486370.html",
+    "summary": "",
     "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-tme-1788965158000",
-    "title": " 月活狂飙之后，汽水音乐终于逼TME出手了 ",
-    "link": "https://www.huxiu.com/article/4889954.html?f=rss",
-    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 最近，“红果日活超爱优腾芒总和”的消息登上热搜，再次把免费流量的价值推到行业面前。 数据显示，截至2026年7月，红果短剧的日活跃用户（DAU）已达到1.68亿，同比增长高达107%，超过“爱优腾芒”约1.55亿的日活用户之和；其月人均单日使用时长已达到125分钟，约等于每天连看两部标准长剧的时长，同样远超长视频平台。 红果的崛起至少证明了一件事：当互联网进入存量竞争，免费并没有失去吸引力。相反，只要产品足够轻、内容供给足够丰富、商业模式能够跑通，免费依然可以成为制造新增用户和使用时长的高效工具。 类似的变化，也正在在线音乐行业发生。 近期，腾讯音乐在华为应用市场上线了一款名为“免费音乐”的独立App。与QQ音乐、酷狗音乐这些已经高度成熟的综合音乐平台不同，新产品几乎把定位直接写进了名字里：免费。 这并非腾讯音乐今年第一次加码免费市场。 今年第二季度，其还推出了酷狗免费版，同时通过微信支付等腾讯生态入口，为波点音乐、酷狗概念版等轻量化产品导流，持续争夺对价格敏感、付费意愿有限的用户。 那么，在付费体系日趋成熟、版权壁垒逐步固化的当下，腾讯音乐为什么重新争夺轻度免费用户？这究竟只是内部又一次常规“赛马”，还是在线音乐告别单一付费增长、重新开启免费流量竞争的一个信号？ 腾讯音乐悄悄上线“免费音乐” 从目前的产品界面来看，“免费音乐”并没有",
-    "publishedAt": "2026-09-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -292,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-as-1788965505000",
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+    "id": "news-apple-watch-s-new-feature-listens-to-your-chats-and-recaps-t-1788980939000",
+    "title": "Apple Watch’s new feature listens to your chats and recaps them",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+    "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -332,28 +318,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788929532000",
-    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-    "link": "https://www.qbitai.com/2026/09/486280.html",
-    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "id": "news-ai-1788930150000",
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "link": "https://www.qbitai.com/2026/09/486288.html",
+    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
     "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1788964288000",
-    "title": " 存量时代，又一座城市的地铁要涨价了 ",
-    "link": "https://www.huxiu.com/article/4889953.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：杨弃非 9月7日，备受关注的上海地铁调价听证会举行。 根据当天讨论的两套调价方案，“涨价”大概率已难以避免——两个方案平均每人次票价均提高约1元，涨幅接近，区别主要在于票价结构。 这是上海地铁21年来首次启动票价机制优化调整，也意味着又一座城市加入地铁“涨价”行列。 去年，重庆、昆明地铁调价就曾引发关注；广州也在酝酿之中，根据计划，今年12月前广州将完成“地铁票价机制优化”，其现行票价机制同样已沿用20年之久。 此轮调价背后，是地铁行业长期面临的“入不敷出”难题。 从各地地铁集团披露的数据看，除广州等少数城市外，大部分城市的运营高度依赖政府补贴。 而近年来，有关补贴是否应该持续的讨论不断发酵，本质上是公共服务属性与企业可持续经营之间的一场“拉锯战”。 涨价 最近几年，地铁涨价的声音渐强。 昆明和重庆是此轮较早推动地铁调价的城市。重庆与上海类似，于去年5月举行听证会，就地铁2005年以来的首次票价调整公开征求意见。 从最终执行的方案来看，有人按普通市民每月22个工作日、出行44次计算，其人均地铁月支出增加24.2元；更早之前，昆明于当年4月实施新地铁票价方案，减少了单位价格可乘坐的公里数。 比起直接调价，更多城市采取更为隐形的方式“节流”。 2023年，广州地铁告别“满15次6折优惠”，转而采取“一个自然月内支出款满80元不满200元部分8折",
-    "publishedAt": "2026-09-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -384,16 +357,43 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-val-1788964721000",
-    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-    "link": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-    "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+    "id": "news-harvey-hits-15-5b-valuation-months-after-reaching-11b-1788978864000",
+    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-guiding-hibob-through-high-growth-hr-leader-of-distinction-n-1788951950000",
+    "title": "Guiding HiBob through high growth: HR Leader of Distinction Nirit Peled-Muntz",
+    "link": "https://hrexecutive.com/guiding-hibob-through-high-growth-hr-leader-of-distinction-nirit-peled-muntz/",
+    "summary": "The chief people officer helped grow the organization from 130 employees to more than 1,400, while annual recurring revenue jumped from $10 million to $320 million. The post Guiding HiBob through high growth: HR Leader of Distinction Nirit Peled-Muntz appeared first on HR Executive .",
+    "publishedAt": "2026-09-09",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-4-stories-on-crafting-a-good-onboarding-experience-1788888540000",
+    "title": "4 stories on crafting a good onboarding experience",
+    "link": "https://www.hrdive.com/news/design-a-good-onboarding-experience/829574/",
+    "summary": "Employers need to focus on grounding new workers in the organization and preparing them for the work to come, various reports show.",
+    "publishedAt": "2026-09-08",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
     ]
   }
 ];
@@ -761,6 +761,56 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137339",
+    "title": "General Practitioner Cairns",
+    "company": "Ausdocs Holdings Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Ausdocs Group , has medical clinics in Cairns that are providing local families with high quality medical care",
+      "If you're an AHPRA registered General Practitioner , we would love to speak with you about local opportunities we have available to meet patient demand",
+      "What we can offer you",
+      "Flexibility"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "Cairns, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339",
+    "postedAt": "2026-09-08",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137340",
+    "title": "Maintenance Specialist",
+    "company": "Kapsch Group",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Kapsch is one of Austria's most successful global technology companies"
+    ],
+    "skills": [],
+    "location": "Sydney, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340",
+    "postedAt": "2026-09-07",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137344",
+    "title": "RETAIL STORE MANAGER TAMWORTH",
+    "company": "Spendless Shoes",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Love Shoes, Love Fashion, Love People Join Australia's most successful footwear retailer Earn up to $9000 Incentive scheme Opportunity for Career progression Tu"
+    ],
+    "skills": [],
+    "location": "Tamworth, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344",
+    "postedAt": "2026-09-06",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137309",
     "title": "AI Response Analyst",
     "company": "iMerit Technology",
@@ -966,22 +1016,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captains-capitanes-copa-airlines-1137271",
     "postedAt": "2026-08-28",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137169",
-    "title": "Programmatic Campaign Operations Specialist Trader",
-    "company": "VirtuHire",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-    "postedAt": "2026-08-27",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-09T15:51:31.581Z';
+export const dataFetchedAt = '2026-09-09T20:21:01.824Z';

@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-10-auto",
+    "date": "2026-09-10",
+    "session": "auto",
+    "title": "2026-09-10 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-10-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: OpenAI’s turning point for math and a battery record",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+      },
+      {
+        "id": "sig-2026-09-10-auto-2",
+        "emoji": "💡",
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "detail": "来源: TechCrunch。The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+      },
+      {
+        "id": "sig-2026-09-10-auto-3",
+        "emoji": "🚨",
+        "title": "Beyond Hiring: Solving HR’s Leadership Crisis",
+        "summary": "Date &#038; Time: Thursday, October 22, 2026 at 2:00 pm ET Explore the challenges organizations face in identifying future leaders, how a new generation of AI is helping close those gaps, why rich behavioral data from employee recognition provides a stronger picture of how leadership emerges across an organization, and how AI can transform these signals into actionable insights. The post Beyond Hiring: Solving HR’s Leadership Crisis appeared first on HR Executive .",
+        "detail": "来源: HR Executive。Date &#038; Time: Thursday, October 22, 2026 at 2:00 pm ET Explore the challenges organizations face in identifying future leaders, how a new generation of AI is helping close those gaps, why rich behavioral data from employee recognition provides a stronger picture of how leadership emerges across an organization, and how AI can transform these signals into actionable insights. The post Beyond Hiring: Solving HR’s Leadership Crisis appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/beyond-hiring-solving-hrs-leadership-crisis/"
+      },
+      {
+        "id": "sig-2026-09-10-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：TANGO: Humanoid Navigation in Cluttered Environments with a ...",
+        "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered",
+        "detail": "作者: Anqi Li, Yuxin Chen, Zhaobo Li。We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditioned humanoid traversal in cluttered environments. Given a natural-language instruction and egocentric RGB observations, TANGO directly predicts 29-DoF joint-space actions for downstream whole-body control. We train TANGO entirely in simulation by synthesizing diverse collision-free traversal behavi",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.09158v1"
+      },
+      {
+        "id": "sig-2026-09-10-auto-5",
+        "emoji": "💼",
+        "title": "Ausdocs Holdings Group 正在招募 General Practitioner Cairns",
+        "summary": "岗位类型：业务+AI 复合岗。Ausdocs Group , has medical clinics in Cairns that are providing local families with high quality medical care",
+        "detail": "技能要求: RAG。Ausdocs Group , has medical clinics in Cairns that are providing local families with high quality medical care If you're an AHPRA registered General Practitioner , we would love to speak with you about local opportunities we have available to meet patient demand What we can offer you Flexibility",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Ausdocs Holdings Group"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Ausdocs Holdings Group",
+        "link": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-10-1",
+        "priority": "medium",
+        "action": "关注「The Download: OpenAI’s turning point for」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-10-2",
+        "priority": "low",
+        "action": "关注「Everything Apple announced at its fall i」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-10-3",
+        "priority": "high",
+        "action": "关注「Beyond Hiring: Solving HR’s Leadership C」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-10-4",
+        "priority": "medium",
+        "action": "关注「研究速递：TANGO: Humanoid Navigation in Clutt」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-10-5",
+        "priority": "medium",
+        "action": "关注「Ausdocs Holdings Group 正在招募 General Prac」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Ausdocs Holdings Group"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 65,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-10 生成，聚合了 30 条新闻、20 篇论文、15 个岗位。",
+    "fetchWindow": "2026-09-10 00:00 - 2026-09-10 23:59"
+  },
+  {
     "id": "report-2026-09-09-auto",
     "date": "2026-09-09",
     "session": "auto",
