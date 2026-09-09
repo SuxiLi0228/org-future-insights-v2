@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-our-35-innovators-under-35-this-year-1788869400000",
-    "title": "The Download: our 35 Innovators Under 35 this year",
-    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
-    "publishedAt": "2026-09-08",
+    "id": "news-batteries-just-broke-another-record-in-the-us-1788944400000",
+    "title": "Batteries just broke another record in the US",
+    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;",
+    "publishedAt": "2026-09-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-white-house-takes-down-8216-build-the-wall-8217-game-after-t-1788909803000",
-    "title": "White House takes down &#8216;Build the Wall&#8217; game after the Tetris Company complains",
-    "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-    "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-    "publishedAt": "2026-09-08",
+    "id": "news-google-deepmind-alumni-are-building-tools-to-accelerate-fusi-1788933600000",
+    "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+    "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+    "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+    "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -53,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-3d-token-1788847530000",
-    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-    "link": "https://www.qbitai.com/2026/09/485854.html",
-    "summary": "Blender也不用学了",
-    "publishedAt": "2026-09-08",
+    "id": "news-ai4s-2026-1788947874000",
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "link": "https://www.qbitai.com/2026/09/486370.html",
+    "summary": "",
+    "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788921869000",
-    "title": " 两万块买台手机，华为、小米、苹果谁在割韭菜？ ",
-    "link": "https://www.huxiu.com/article/4889556.html?f=rss",
-    "summary": "折叠屏诞生七年，第一次真正的三国杀。但说句实话&mdash;&mdash;这三台手机，没有一台是卖给普通人的。万元机时代来了，你会为折叠屏掏一万块以上吗？评论区聊聊。",
+    "id": "news-19-1788949770000",
+    "title": " 喜茶时隔19个月重启加盟，先劝退四类人 ",
+    "link": "https://www.huxiu.com/article/4889867.html?f=rss",
+    "summary": "本文来自微信公众号： 联商网 ，作者：联商网编辑部 暂停加盟19个月后，喜茶重新启动事业合伙人招募。 近日，喜茶事业合伙人小程序重新开放合伙人申请。喜茶在申请页面一开始就提示： 新茶饮并非暴利行业，不适合追求“短期快收益、快进快出”的投资者。针对鲜果模式，喜茶还提示了损耗、人工管理等经营难点，并要求合伙人执行更高的用户服务标准，投入足够精力参与门店运营。 喜茶在主动劝退四类人——追求短期收益的投资者、缺乏运营投入意愿的人、低估鲜果模式经营难度的人，以及不愿按更高服务标准经营的人。 这次重启加盟，喜茶为什么要先给潜在合伙人打上一针“预防针”？ 19个月里，喜茶做了什么？ 2022年11月，喜茶在坚持十年直营后，首次开放事业合伙人模式。 门店数量随之快速增长，但规模扩大也带来了新的经营问题：鲜果损耗和人工成本增加，门店分散后出品标准更难统一，不同门店之间的经营表现开始出现差异。 2025年2月，喜茶暂停新合伙申请，并在《不参与数字游戏与规模内卷，回归用户与品牌》的内部邮件中表示，在产品高度同质化、门店供大于求、经营效益普遍下滑的情况下，继续加密门店并不是喜茶的选择。 随后，喜茶开始收缩低效门店，并将部分合伙门店调整为直营门店。这轮调整中，喜茶较高峰期减少1000多家门店，门店规模收缩至目前约3545家。 最近两年，喜茶累计新增门店仅110家，将更多重心放在调整门店模型上。 一方面，喜茶",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
@@ -79,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788920951000",
-    "title": "朝阳的仓库与城堡——万千气象看北京",
-    "link": "https://www.tmtpost.com/8133688.html",
-    "summary": "让新内容住进旧空间，一个让各种内容轮流上台点亮仓库，一个让攒够人气的IP家族整体搬进旧建筑。",
+    "id": "news--1788948513000",
+    "title": "份额战之后，东南亚电商开始拼闭环 ｜出海参考",
+    "link": "https://www.tmtpost.com/8134189.html",
+    "summary": "东南亚电商平台在经营好线上货架之外，还要进入本地消费的完整过程：发现商品、建立信任、体验产品、完成交易、本地履约，再回到下一次复购。",
     "publishedAt": "2026-09-09",
     "source": "钛媒体",
     "tags": [
@@ -93,24 +93,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-founder-is-teaching-chips-how-to-recycle-their-energy-1788863760000",
-    "title": "This founder is teaching chips how to recycle (their energy)",
-    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-    "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;",
-    "publishedAt": "2026-09-08",
+    "id": "news-understanding-the-thermal-ceiling-in-portable-power-1788941893000",
+    "title": "Understanding the thermal ceiling in portable power",
+    "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+    "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces&#8230;",
+    "publishedAt": "2026-09-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-hackers-are-stealing-claude-tokens-from-subscribers-1788901827000",
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "publishedAt": "2026-09-08",
+    "id": "news-cloudnc-raises-20m-to-automate-manufacturing-8217-s-most-pre-1788926460000",
+    "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
+    "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+    "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -144,11 +143,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788843903000",
-    "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-    "link": "https://www.qbitai.com/2026/09/485794.html",
-    "summary": "百万奖金、大厂直通、VC跟投",
-    "publishedAt": "2026-09-08",
+    "id": "news-ai-1788930150000",
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "link": "https://www.qbitai.com/2026/09/486288.html",
+    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -157,10 +156,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3600-1788921478000",
-    "title": " 国家为什么突然给八家金融央企增资3600亿？ ",
-    "link": "https://www.huxiu.com/article/4889712.html?f=rss",
-    "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 深度观察 中国正在重建金融体系的资本底座 9月6日至7日，中国金融市场发生了一件看起来并不轰动、实际上可能影响未来数年金融资源配置方式的事情。 工商银行、农业银行、中国进出口银行、中国信保、中国人保、中国人寿集团、中国太平、中国再保8家中央金融企业集中披露资本补充安排，涉及资金合计约3600亿元。其中，财政部通过发行3000亿元特别国债支持资本补充，另外约600亿元由中国烟草总公司及相关主体参与工商银行、农业银行增资。 3600亿元 八家中央金融企业 资本补充总规模 3000亿元 财政部特别国债 支持资本补充 8家 商业银行·政策性金融 ·保险机构 3600亿元当然不是一个小数字，但如果只盯着这个数字，我们很可能看错这次政策的真正意义。 因为这8家机构目前并不存在迫在眉睫的资本危机。按照官方表述，它们经营发展总体稳健，资产质量稳定，主要监管指标处于安全健康区间。也就是说，这并不是一次金融机构出了问题之后的紧急“输血”。 更值得注意的是时间上的连续性。 2025年，财政部发行5000亿元特别国债，为中国银行、建设银行、交通银行和邮储银行补充核心一级资本；一年之后，又安排3000亿元特别国债，不仅继续覆盖工商银行和农业银行，而且第一次明显扩展到政策性金融机构和保险机构。 如果把这两件事情连起来看，逻辑就开始变得清晰。 2",
+    "id": "news-ai-1788949583000",
+    "title": " 半年时间，我做垮了一家AI影视公司 ",
+    "link": "https://www.huxiu.com/article/4889866.html?f=rss",
+    "summary": "本文来自微信公众号： 四味毒叔 ，作者：四味小小编，编辑：晶晶 AI剧这场200亿的风口，从狂热到冷却，只用了不到半年。这半年来究竟发生了什么？ 本文图片来自网络 AI生成视频的浪潮兴起时，一批AI影视公司曾被视作行业内的技术先驱。特别是在被称为“AI元年”的2025年，随着Sora、可灵、即梦等大模型的出现，无数人以为找到了通往财富自由的捷径： 找个网文版权，拆分后写提示词，丢进机器，然后坐等收片赚钱。 不得不说，2025年年底至2026年年初确实很迷，AI技术的落地与相关作品视效成熟度的不断提升，让较早进入这个风头的人自信心膨胀，“重构影视工业”“降本增效颠覆传统剧组”等行业现象占据了不少媒体的版面，特别是到了今年年初，国内几乎所有行业相关论坛都在谈论AI，仿佛做AI必赚钱。 在收获媒体曝光与资本追捧后不到半年，一些必然的情况出现了： 不少曾经赚到钱的AI影视公司撑不住了，它们“死”于认知误区，直到现在也还在大量被动地重复上演一条死亡曲线： 风口入场——短期营收——成本失控——现金流断裂。 最终悄然退场。 本文结合一位AI影视公司创业者的阐述，从他的视角出发，综述其公司经营与生产时存在的种种问题，文中人物及部分涉及AI剧项目均为化名。 01 用低成本验证了财富神话 “我已经把公司关了，现在还在结算。”黄总说。 9月4日周五晚，黄总出现在某个小型的业内交流聚会上，当时他正在和同行",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
@@ -171,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-l3-1788919239000",
-    "title": "在中期选举前买入洛克希德股票，而不是L3哈里斯",
-    "link": "https://www.tmtpost.com/8133721.html",
-    "summary": "周二，洛克希德·马丁股票获得上调评级，而L3Harris股票则遭到下调评级。",
+    "id": "news-87-1788947917000",
+    "title": "拆解几多全：两个月狂开87家，商场盯上了它的流量和承租能力",
+    "link": "https://www.tmtpost.com/8133806.html",
+    "summary": "两个月87家、六成在商场，几多全的扩张逻辑浮出水面。",
     "publishedAt": "2026-09-09",
     "source": "钛媒体",
     "tags": [
@@ -185,11 +184,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-ai-entrepreneur-is-developing-agents-that-can-plan-ahea-1788863640000",
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
-    "publishedAt": "2026-09-08",
+    "id": "news-what-openai-s-latest-controversy-tells-us-about-the-future-o-1788923408000",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "publishedAt": "2026-09-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -197,10 +196,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cognition-hits-48b-valuation-signaling-investors-believe-ai--1788901446000",
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "id": "news-white-house-takes-down-8216-build-the-wall-8217-game-after-t-1788909803000",
+    "title": "White House takes down &#8216;Build the Wall&#8217; game after the Tetris Company complains",
+    "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+    "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -236,11 +235,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788837737000",
-    "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-    "link": "https://www.qbitai.com/2026/09/485784.html",
-    "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-    "publishedAt": "2026-09-08",
+    "id": "news--1788929532000",
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "link": "https://www.qbitai.com/2026/09/486280.html",
+    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -249,24 +248,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1788921380000",
-    "title": " “AI+硬件”就能重塑健康管理业务么？ ",
-    "link": "https://www.huxiu.com/article/4889715.html?f=rss",
-    "summary": "本文来自微信公众号： 张琨随笔 ，作者：张琨，原文标题：《张琨｜“AI+硬件”就能重塑健康管理业务么？》 我在春雨医生主导“拥抱医疗”转型的时候曾落地过一个业务场景。 医院办公室屏幕上跳出一条曲线——一位63岁的男性患者，晨起血压158/96，比前三天的均值高了近10个点。系统提示：需要医生介入。医生点开处方页面，把他的降压用药方案做了微调，没让他跑一趟医院，也没让他挂一个专家号。半小时后，护士站的电话打过去做了随访确认。这一幕，在我们和无锡二院合作的高血压项目里，每天都在发生。 01 当年一次\"三方共赢\"的实验 我们做的事情并不复杂：给单纯性高血压患者配一台带传感器的血压设备，把他们的家改造成一间没有墙的\"病房\"。医生不用查房，坐在屏幕前就能看到每一位患者的血压曲线；不用等患者复诊，血压一有异常就能远程调整用药，开出居家治疗的处方。 结果是可以量化的。医院没有扩建高血压病房，没有多招一个护士，服务的患者数量却大幅上升了。治疗成本降了下来，患者不用来回跑医院，医院的接诊能力反而变强了，设备厂商也多了一个应用场景和销售渠道。这个项目后来拿到了亚洲医院管理奖。 健康管理这个赛道里，很少有项目能让患者、医院、厂商三方同时得利。这也是它让我印象深刻到今天的原因。 02 但领奖台之后，我一直惦记未完成的四件事 证据还不够多。 我们当时验证的是一个可行的模型，但支付方、政策制定者、更多的医生要",
+    "id": "news-momenta-1788949184000",
+    "title": " 地平线和Momenta：高毛利率背后挣的都是“辛苦钱” ",
+    "link": "https://www.huxiu.com/article/4889865.html?f=rss",
+    "summary": "本文来自微信公众号： 电厂 ，作者：花子健，原文标题：《电厂 | 地平线和Momenta：高毛利率背后挣的都是“辛苦钱”》 8月31日，中国两家头部的自动驾驶公司Momenta和地平线公布了今年上半年的业绩报告，这两家截然不同的公司展示了自动驾驶一部分的真实面貌。 今年4月，在第二届自动驾驶产业发展论坛上，中国电动汽车百人会理事长张永伟说：“中国自动驾驶行业的泡沫已基本出清，2026年将成为真正的‘自动驾驶元年’。” 数据可以支撑这一点，智能驾驶渗透率进一步提升，同时市场份额向第一梯队逐步集中。地平线财报提及，今年上半年，我国乘用车的智能辅助驾驶渗透率达到76.1%，比去年提升8.5个百分点；自主品牌贡献了主要增量，智能辅助驾驶渗透率半年内大幅度提升11.9个百分点。 带有高速NOA和城区NOA的车型已经占据新车销量的46.8%，渗透率持续攀升，主要由城区NOA的装车量增长推动，今年上半年，城区NOA在中高阶辅助驾驶的比重达到64.1%。 地平线在中国自主品牌乘用车基础辅助驾驶解决方案的市场份额越过50%。在城区NOA为主的中高阶解决方案中，地平线力压华为跃居第二，仅次于英伟达，第一梯队优势巩固。今年上半年，Momenta新增装载量约32.1万辆，同比增幅83.7%，是城市NOA解决方案第三方供应商的第一名。 盖世汽车研究院的跟踪统计数据则显示，按照标配城区NOA为主的L2+为口径",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1788917980000",
-    "title": "手机电脑一起涨价，年轻人交上“AI税”",
-    "link": "https://www.tmtpost.com/8133607.html",
-    "summary": "手机电脑，越等越贵。",
+    "id": "news-a-1788947915000",
+    "title": "A股人形机器人中报：估值打到哪一年了？",
+    "link": "https://www.tmtpost.com/8133803.html",
+    "summary": "把叙事还给叙事，把报表还给报表",
     "publishedAt": "2026-09-09",
     "source": "钛媒体",
     "tags": [
@@ -277,10 +275,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-founder-is-making-cheaper-cleaner-steel-1788863580000",
-    "title": "This founder is making cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-    "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It&#8230;",
+    "id": "news-the-download-our-35-innovators-under-35-this-year-1788869400000",
+    "title": "The Download: our 35 Innovators Under 35 this year",
+    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
     "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
@@ -289,10 +287,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-exploration-company-nabs-450-million-to-challenge-spacex-1788900454000",
-    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+    "id": "news-hackers-are-stealing-claude-tokens-from-subscribers-1788901827000",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -328,11 +326,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-waic-connect-malaysia-1788835344000",
-    "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-    "link": "https://www.qbitai.com/2026/09/485630.html",
-    "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-    "publishedAt": "2026-09-08",
+    "id": "news-skyproduction-minimax-h3-1788925198000",
+    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+    "link": "https://www.qbitai.com/2026/09/486052.html",
+    "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+    "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -341,10 +339,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-99-10-ai-1788921038000",
-    "title": " 4.99 亿月活，10 亿周活：中美 AI 的流量在同一牌桌，钱却不在 ",
-    "link": "https://www.huxiu.com/article/4889699.html?f=rss",
-    "summary": "本文来自微信公众号： Tech商业 ，作者：Tech商业，原文标题：《4.99 亿月活，10 亿周活：中美 AI 的流量在同一牌桌，钱却不在》 中国有4.99亿AI原生App月活，美国有10亿ChatGPT周活，单看流量两边在同一量级；钱却不在同一量级。 这不是谁更努力，是各自产品卖的根本不是同一种东西——2026年的中美AI走到同一个路口，却拐向了两条路：中国把AI变成“场景的入口”，美国把AI变成“可定价的交付物”。 而在这两条路底下，还埋着一条更细的线：谁能不靠流量补贴，把模型本身卖成生意。要理解这条岔路，得先看清它们各自把什么当成了商品。 第一条岔路：卖的是什么 中美AI产品最根本的分歧，在于交易的对象不同。 第一类卖“能力”，代表是ChatGPT、DeepSeek、豆包、智谱等。商业模式是把模型能力的访问权分档卖给用户，更贵的档位意味着更强的模型、更长的上下文、更多的次数。问题在于能力可被比价——豆包3.82亿月活对68元档引发的舆论反弹，是这个模式在中国市场的极限测试；ChatGPT 5000万付费用户对10亿月活，转化率约5%，是这个模式在美国的成绩单。一款每多服务一个用户就多一份推理成本的产品，5%撑不起它的成本曲线。 DeepSeek走了同一条“卖能力”的路，却用开源和低价改写了价格结构。它2025年初用R1模型一战成名，到2026年中月活约1.3亿，排在国内第三",
+    "id": "news-ai-1788949002000",
+    "title": " 这回，AI真的打过来了 ",
+    "link": "https://www.huxiu.com/article/4889864.html?f=rss",
+    "summary": "本文来自微信公众号： 看电影杂志 ，编辑：映渊，作者：鬼脚七 最近有几件事情刚好值得放在一起说。 8月26日，即梦AI正式推出首个影视内容厂牌“即梦片场”，面向影视公司、专业影视团队与AI内容创作者开放长篇项目征集，重点扶持不低于90分钟的电影项目和剧集，其中电影项目以院线或网络发行为目标。 显而易见，即梦并不甘于只做一个“AI工具”，而更进一步朝向“内容制作者”迈进。 几天之后的8月31日，芒果TV出品的AIGC剧集《后西游记》在湖南卫视+芒果TV开播，成为国内首部进入卫视黄金档的AIGC长剧。 30集，每集45分钟，这是完整的长剧逻辑和制作规模，暂且不说剧集内容能否让人满意，《后西游记》至少证明了AI内容进入传统的影视作品生产消费链条完全可行。 再往前一点，7月底，王祖贤授权了自己的AI形象，网易以此做出了AI短片《倩影》，海报上赫然写着“演员：王祖贤（AI）”。 如果说王祖贤与AI携手多少还有点退圈艺人用另一种方式重回舞台的卖情怀属性，那之后的8月初，正当年的戚薇成为内娱第一人，推出个人官方数字分身，那就是实打实要与AI正式合作了。 一两个月里，万事俱备—— 合法授权形象的演员，有了， 能生成高质量视频的技术，早有了， 发行播出的渠道，有了， 巨大的受众和消费市场，一直都在。 一夜之间，似乎这几年影视圈闻之色变的变革终于来了，AI长剧，AI院线片，一切都触手可及。 这些事情单",
     "publishedAt": "2026-09-09",
     "source": "虎嗅",
     "tags": [
@@ -355,10 +353,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ulta-ai-1788917757000",
-    "title": "沃尔玛、Ulta以及其他能够凭借AI脱颖而出的零售商",
-    "link": "https://www.tmtpost.com/8133671.html",
-    "summary": "TD Cowen表示，随着人工智能改变购物体验和运营模式，沃尔玛、Ulta Beauty、开市客以及BJ’s等零售商具备良好条件，有望从中受益。",
+    "id": "news-488-1788947912000",
+    "title": "一天蒸发488亿，摩尔线程跌停之谜",
+    "link": "https://www.tmtpost.com/8133783.html",
+    "summary": "解禁只是导火索",
     "publishedAt": "2026-09-09",
     "source": "钛媒体",
     "tags": [
@@ -369,22 +367,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-geneticist-s-age-reversal-tech-could-help-restore-sight-1788863520000",
-    "title": "This geneticist’s age-reversal tech could help restore sight",
-    "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-    "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own&#8230;",
+    "id": "news-this-founder-is-teaching-chips-how-to-recycle-their-energy-1788863760000",
+    "title": "This founder is teaching chips how to recycle (their energy)",
+    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;",
     "publishedAt": "2026-09-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-meta-debuts-its-muse-ai-agent-will-consumers-trust-it-1788894000000",
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "id": "news-cognition-hits-48b-valuation-signaling-investors-believe-ai--1788901446000",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
     "publishedAt": "2026-09-08",
     "source": "TechCrunch",
     "tags": [
@@ -395,7 +394,366 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2609.09158v1",
+    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+    "authors": [
+      "Anqi Li",
+      "Yuxin Chen",
+      "Zhaobo Li",
+      "Zhuo Cao",
+      "Junli Ren",
+      "Masayoshi Tomizuka",
+      "Dhruv Shah"
+    ],
+    "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditioned humanoid traversal in cluttered environments. Given a natural-language instruction and egocentric RGB observations, TANGO directly predicts 29-DoF joint-space actions for downstream whole-body control. We train TANGO entirely in simulation by synthesizing diverse collision-free traversal behavi",
+    "link": "http://arxiv.org/abs/2609.09158v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09157v1",
+    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "authors": [
+      "Hanwen Jiang"
+    ],
+    "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train a shared recurrent rule despite severe decay, showing that decay alone does not determine whether learning fails. We instead study state credit: the signal through which future losses reach earlier recurrent states before contributing to parameter updates. Accordingly, we intervene directly on state credit and propose Credit Stabilization through Time (CST). During backward propagation, CST locally rescales the state-credit signal to stabilize its norm without rotating the component being correc",
+    "link": "http://arxiv.org/abs/2609.09157v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09156v1",
+    "title": "ReCite: Agentic Reasoning for Faithful Citation",
+    "authors": [
+      "Yuyang Huang",
+      "Bobo Li",
+      "Jiajia Song",
+      "Yuzhe Ding",
+      "Chong Teng",
+      "Fei Li",
+      "Donghong Ji"
+    ],
+    "summary": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. While modern retrieval-augmented architectures have largely mitigated the fabrication of non-existent papers, current systems relying on semantic similarity struggle with misattribution, often citing authentic papers that fail to logically support the author's claim. To address this challenge, we argue that accurate citation requires a shift from similarity-based search to active, claim-level reasoning. We propose ReCite, a decoupled agentic framework that orchestrates location perception, intent-aware query planning,",
+    "link": "http://arxiv.org/abs/2609.09156v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09153v1",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "authors": [
+      "Yuxing Lu",
+      "Yicheng Chen",
+      "Shanchan Wu",
+      "Sercan Ö. Arık"
+    ],
+    "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph organizes factual knowledge into (entity, relation, entity) triplets for what-is questions, a Procedural Graph organizes procedural knowledge into (procedure, relation, procedure) triplets for what-to-do questions. At each decision step, the framework localizes the agent's active node, and a guidance",
+    "link": "http://arxiv.org/abs/2609.09153v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09152v1",
+    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+    "authors": [
+      "Yuhan Ye",
+      "Kaizhao Liu"
+    ],
+    "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting, every infinite nonnegative schedule has infinitely many horizons with error $Ω\\left(n^{-\\frac{2p_{\\mathrm{sil}}}{1+p_{\\mathrm{sil}}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$. Together with the silver-schedule upper bound [Altschuler and Parrilo, 2025] and the anytime upper bound [Zhang et al., 2025], our results determine the optimal polynomial convergence exponents in both settings.",
+    "link": "http://arxiv.org/abs/2609.09152v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "math.OC",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09150v1",
+    "title": "Copying explains the collective behavior of AI agents in the wild",
+    "authors": [
+      "Giordano De Marzo",
+      "Nicola Albore",
+      "David Garcia"
+    ],
+    "summary": "In June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for about an hour and remembered nothing afterwards. Nobody asked them to cooperate, and the wiki had not been built for them. The complete record of what they wrote is public, and it is unusually informative, because it preserves not only what each agent wrote but what that agent could see before writing. We use it to follow the three decisions an agent had to make on arrival: where to write, what to call itself, and how to word its message. One rule governs all three. An agent takes an option with a probability close to the share of that option in what it can see, and the share that matters is the ",
+    "link": "http://arxiv.org/abs/2609.09150v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.MA",
+      "cond-mat.stat-mech",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09143v1",
+    "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+    "authors": [
+      "Siting Li",
+      "Zhengyang Wang",
+      "Simon Shaolei Du",
+      "Xi Chen",
+      "Yang Liu"
+    ],
+    "summary": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how visual tokens behave when modeled jointly with text. We build a controlled pure-autoregressive testbed and track task-specific validation losses during multimodal continual pretraining across text, image, text-to-image (T2I), and image-to-text (I2T) prediction. We examine how these losses scale and relate to downstream performance, then use them to study multimodal learnability---how well image and text tokens are jointly modeled---and tokenizer design. We find that (1) losses should be analyzed by task, since they exhibit distinct scaling behavior and rank tokenizers differe",
+    "link": "http://arxiv.org/abs/2609.09143v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09140v1",
+    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+    "authors": [
+      "Tobias Susetzky",
+      "Raphael Rehms",
+      "Dmitrii Seletkov",
+      "Özgün Turgut",
+      "Michelle Espranita Liman",
+      "Lisa Steinhelfer",
+      "Rickmer Braren",
+      "Daniel Rueckert"
+    ],
+    "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modalities, constrained by closed categorical vocabularies, treating time as a monotonic inductive bias, or they are limited in forecasting future patient states. We introduce NOAH, a time-aware, task-agnostic, generative transformer model representing and forecasting the full multimodal patient journey. ",
+    "link": "http://arxiv.org/abs/2609.09140v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09137v1",
+    "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+    "authors": [
+      "Maria Alejandra Gomez",
+      "Juan Manuel Castillo"
+    ],
+    "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automation tier -- a Python bot, an open-source orchestrator such as n8n, or an enterprise platform such as UiPath -- and forecast financial return before committing resources. We propose a four-module, data-driven framework unifying these decisions: a Process Taxonomy of twenty recurring hospital processes across five value streams; a Prioritization module deriving an Automation Suitability Index from an Analytic Hierarchy Process matrix with an explicit consistency check; a Tool-Tier Selection modul",
+    "link": "http://arxiv.org/abs/2609.09137v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09135v1",
+    "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+    "authors": [
+      "Jiacheng Xu",
+      "Feng Chen",
+      "Xiuneng Xu",
+      "Bo An"
+    ],
+    "summary": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs cannot be compared by surface form and therefore do not directly provide a usable training signal. To make TTRL applicable to code generation, we propose probe-driven TTRL, which constructs output-free probe inputs from the problem statement, executes candidate programs on these probes, and defines a Probe Consensus Reward (PCR) from the resulting behavioral agreement. PCR provides a behavioral training signal for open-vocabulary programs, but it is not a fully reliable verifier and remains susceptible to reward hacking through spurious consensus. We therefore introduce Entrop",
+    "link": "http://arxiv.org/abs/2609.09135v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09134v1",
+    "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+    "authors": [
+      "Zhou Yu",
+      "Bin Bi",
+      "Shiva Kumar Pentyala",
+      "Shubham Mehrotra",
+      "Sougata Chaudhuri",
+      "Shilpa Bhagavath",
+      "Zeyuan Chen",
+      "Ran Xu",
+      "Phil Mui",
+      "James Zhu",
+      "Sitaram Asur"
+    ],
+    "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. Since both the harness and model weights shape behavior, we ask how harness evolution and lightweight fine-tuning should be combined. Across seven enterprise agent tasks, we first evolve a harness with the weaker model, then find that a stronger expert often uses it more effectively, suggesting expert supervision could close the remaining gap. However, training the weaker model on the expert's complete trajectories under the evolved harness backfires: performance regresses on all seven tasks by 4",
+    "link": "http://arxiv.org/abs/2609.09134v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09133v1",
+    "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+    "authors": [
+      "Leitian Tao",
+      "Baolin Peng",
+      "Haorui Wang",
+      "Hang Wang",
+      "Hao Cheng",
+      "Wenlin Yao",
+      "Qianhui Wu",
+      "Tao Ge",
+      "Sharon Li",
+      "Jianfeng Gao"
+    ],
+    "summary": "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral targets; when the same trajectory writes both the patch and the test, their errors can agree and create false confidence. We introduce ExecCritic, combining a test--verify--revise scaffold with a role-specific reinforcement learning recipe for training agents within it. The scaffold separates test construction from source-code repair: a Test agent independently generates repository-native tests, a fail-closed harness qualifies and freezes them, and a Repair agent revises source code from their execution feedback without changing the tests. Both roles use Qwen-3.5-35B-A3B as the ",
+    "link": "http://arxiv.org/abs/2609.09133v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09130v1",
+    "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+    "authors": [
+      "Xiaoyu Li",
+      "Zhizhou Sha",
+      "Jiaojiao Jiang",
+      "Junbin Gao",
+      "Andi Han"
+    ],
+    "summary": "An input may activate few hidden units even when different inputs collectively use an entire network. We study the statistical complexity of this input-dependent sparsity in the one-hidden-layer ReLU model of Awasthi et al. (COLT 2024). For width $s$, at most $k$ active units per input, and effective weight and bias bounds $W,B$, every size-$m$ sample in the class's fixed radius-$R$ input domain satisfies $\\mathcal{R}(S)\\le CWR\\min\\{k,\\sqrt{sk/m}\\log^{3/2}(2m)\\}+kB/\\sqrt m$. A support-preserving cover and a single normalized chaining argument remove the previous explicit dimension factor, up to logarithms. Lower bounds on appropriate i.i.d. marginals match up to those logarithms, showing how changing active units across inputs retains a width dependence. The input domain matters: zero-bias",
+    "link": "http://arxiv.org/abs/2609.09130v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09126v1",
+    "title": "A Generalization of Amari's Bayesian Duality",
+    "authors": [
+      "Mohammad Emtiyaz Khan",
+      "Thomas Möllenhoff"
+    ],
+    "summary": "Amari's contributions to information geometry and machine learning are well known. Here, we revisit Amari's work on Bayesian duality which has not received as much attention. We connect Amari's Bayesian duality to a convex duality of Bayes' rule. Using this connection, we present a generalization of Amari's Bayesian duality and discuss its relevance for modern artificial intelligence.",
+    "link": "http://arxiv.org/abs/2609.09126v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09124v1",
+    "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+    "authors": [
+      "Xiaofu Chen",
+      "Stella Frank",
+      "Yova Kementchedjhieva"
+    ],
+    "summary": "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use canonical color as a controlled test case to ask whether vision encoders make canonical-color information linearly accessible, even when color is removed from the input image. We construct a dataset of objects with canonical colors, and probe vision encoders for both color and object identity using color and grayscale images. We find that canonical color remains decodable from grayscale images, and is tied to predicted object identity, indicating a conceptual link. Extending this analysis to full VLMs, we find that VLM post-training can have a surprisingly large effect on color decodability in ",
+    "link": "http://arxiv.org/abs/2609.09124v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09119v1",
+    "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+    "authors": [
+      "Yankai Fu",
+      "Ning Chen",
+      "Junkai Zhao",
+      "Heng Zhang",
+      "Guocai Yao",
+      "Pengwei Wang",
+      "Zhongyuan Wang",
+      "Shanghang Zhang"
+    ],
+    "summary": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visual occlusions and complex contact dynamics. While recent works have incorporated tactile sensing into robotic manipulation, most approaches still rely on homogeneous multimodal fusion, lacking adaptive tactile integration and explicit modeling of physical dynamics. In this work, we present DeCAL, a physically-grounded dexterous vision-language-action model that unifies understanding, imagination and action generation for contact-rich dexterous manipulation. Built upon a Mixture-of-Transformers (MoT) architecture, DeCAL leverages specialized experts for each capability while enabling efficient inf",
+    "link": "http://arxiv.org/abs/2609.09119v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09116v1",
+    "title": "When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay",
+    "authors": [
+      "Hasan Amin",
+      "Wei-Kai Chang",
+      "Rajiv Khanna"
+    ],
+    "summary": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes. To understand the underlying mechanism, we provide exact analysis of a fully solved normalized regression model where the dynamics reduce to two dimensions and show that the balance point is intrinsically unstable,",
+    "link": "http://arxiv.org/abs/2609.09116v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09115v1",
+    "title": "MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents",
+    "authors": [
+      "Boyu Yang",
+      "Jiazheng Sun",
+      "Zilong Lu",
+      "Zhi Qiu",
+      "Xin Peng",
+      "Jun Zheng"
+    ],
+    "summary": "Long horizon Large Language Model (LLM) agents rely on external memory systems to preserve user preferences and task knowledge across extended interactions. Conventional retrieval mechanisms optimize semantic compatibility rather than downstream utility, frequently introducing outdated, misleading, or conflicting evidence into the active context. We present MeClear, a task conditioned memory clearance framework that identifies memories featuring negative downstream utility through cooperative attribution and selectively suppresses them from agent execution. MeClear combines Leave One Out screening with sampled cooperative Shapley attribution to distribute utility across interacting evidence, effectively resolving redundant conflict masking where single removal evaluations fail. Utilizing a",
+    "link": "http://arxiv.org/abs/2609.09115v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09113v1",
+    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "authors": [
+      "Yuqiao Tan",
+      "Shizhu He",
+      "Jun Zhao",
+      "Kang Liu"
+    ],
+    "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to understand what models learn and ensure safe alignment. Mechanistic interpretability tools are essential to bridge this gap, among which Sparse Autoencoders (SAEs) serve as a cornerstone by isolating interpretable features for model inspection and steering. In this paper, we introduce SAEScientist-Bench to evaluate whether AI agents can act as scientists utilizing SAE tools for autonomous mechanistic discovery. Given a target concept, an agent designs contrastive probes and navigates a Gemma Scope dictionary of 131K+ features in Gemma-2-9B-IT to discover the optimal feature, evaluated against c",
+    "link": "http://arxiv.org/abs/2609.09113v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.09099v1",
+    "title": "Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics",
+    "authors": [
+      "Changho Shin",
+      "David Alvarez-Melis"
+    ],
+    "summary": "Curriculum learning is governed by several coupled design choices---how difficulty is defined, how examples are ordered, how much exposure each level receives, and how quickly training moves across levels---making it hard to isolate what actually helps. We present Wasserstein curriculum paths, a simple transport-based framework that decouples these factors by representing curricula as trajectories of training distributions over discrete difficulty levels. Across a calibrated synthetic suite with 12 tasks and 33 difficulty axes, we use this framework to isolate the effects of ordering, matched exposure, endpoint smoothness, and pacing under fixed training budgets. We find that curriculum effects are strongly context-dependent: no single strategy dominates across tasks, difficulty axes, and ",
+    "link": "http://arxiv.org/abs/2609.09099v1",
+    "publishedAt": "2026-09-08",
+    "categories": [
+      "cs.LG"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -620,4 +978,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-09T02:53:47.629Z';
+export const dataFetchedAt = '2026-09-09T10:42:26.108Z';
