@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-boring-company-raises-3b-in-round-led-by-uae-1789052847000",
-    "title": "The Boring Company raises $3B in round led by UAE",
-    "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-    "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+    "id": "news-meta-8217-s-ai-agent-muse-is-now-the-no-2-app-in-the-us-1789069804000",
+    "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-for-women-in-the-workforce-can-ai-be-the-great-equalizer-1789043444000",
-    "title": "For women in the workforce, can AI be the ‘great equalizer’?",
-    "link": "https://hrexecutive.com/for-women-in-the-workforce-can-ai-be-the-great-equalizer/",
-    "summary": "The new AI Leadership Council looks to uncover data about AI and women, and offer practical frameworks that can open up opportunities for women in the workforce. The post For women in the workforce, can AI be the ‘great equalizer’? appeared first on HR Executive .",
+    "id": "news-25-years-later-how-9-11-changed-hr-1789062046000",
+    "title": "25 years later, how 9/11 changed HR",
+    "link": "https://hrexecutive.com/25-years-later-how-911-changed-hr/",
+    "summary": "The terrorist attacks happened as the HR Tech conference was getting underway in 2001. Former and current staffers share their experiences. The post 25 years later, how 9/11 changed HR appeared first on HR Executive .",
     "publishedAt": "2026-09-10",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai",
-      "organization"
+      "ai-hr"
     ]
   },
   {
@@ -68,18 +66,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789052073000",
-    "title": " 名创优品，为什么总在调整定位 ",
-    "link": "https://www.huxiu.com/article/4890248.html?f=rss",
-    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 成本与效率决定它能做什么，品类判断决定它做什么，两者相加带来的品牌定位，则负责名创的「增长故事」。 在增长普遍放缓的零售业里，潮玩是少数还在高增长的品类，潮玩店在商场招商中的能见度、重要性也越来越高。 2026年上半年，全国社会消费品零售总额同比只增长1.3%。同一时间，潮玩行业两大巨头泡泡玛特和名创优品，尽管海外受阻，但各自国内收入仍在高增。尤其定位更偏「零售商」的名创优品，国内收入增长26.2%，收获近三年最快的上半年增速，国内同店销售也实现中个位数增长。 与更早深入自研IP、定位内容公司的泡泡玛特不同，名创找增长的方式也一直与泡泡玛特有差异。今年3月发布2025年全年业绩时，名创换了一个新的自我介绍：「一家提供以独特IP设计为特色的丰富多样的潮流生活产品的全球高增长价值零售商。」 对应英文是：「a global high-growth value retailer offering a variety of trendy lifestyle products featuring distinctive IP designs.」 回溯发现，上市以来名创财报中的自我介绍一直在换，大致包括以下几个版本： 2020年赴美上市时，它是一家提供丰富多样的「设计引领型生活产品的快速增长全球价值零售商」； 此后「快速增长」一度退出，「价值」也曾在其中",
+    "id": "news--1789056302000",
+    "title": " 迎接被深度“去权”的未来：你已不再是地球上最聪明的存在了 ",
+    "link": "https://www.huxiu.com/article/4890252.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 一、房间里最聪明的人，已经被AI吓坏了 9月6日，OpenAI首席科学家雅库布·帕霍基（Jakub Pachocki）发表了一篇文章，标题只有三个词：《An Alien Mind》，一种异类心智。 这个标题更像一句供词。他写道，AI“更多是生长出来的，而非设计出来的”，大规模训练的结果连创造者也会感到意外。按照OpenAI的内部结果，能力增长可能延伸到递归自我改进。他最后承认，目前没有一家实验室把对齐和监控解决到足以长期负责任地全速扩张的程度。 同一周，Anthropic的预训练研究员雅各布·考克森（Jacob Coxon）辞职。他转述同事的判断：未来一两年是人类的“决胜时刻”。随后，Anthropic负责AI对齐研究的埃文·胡宾格（Evan Hubinger）估计，未来十年AI导致全人类灭绝的概率超过10%。 10%只是个人预测。硅谷也有动机把自己包装成危险技术的唯一看护者。但这次拉响警报的，是造模型的人、负责给模型装刹车的人，以及最后选择离开的人。你可以不接受他们的概率，却很难再把AI威胁当成圈外人的科幻想象。 这也让奥特曼此前的一段对话，突然有了新的分量。 山姆·奥特曼去年接受了《金融时报》的一次专访，当时chatgpt-o3模型刚刚发布。在访谈的最后，记者问他，“在（未来）这个人类不再最聪明的世界中，他是否感到威胁",
     "publishedAt": "2026-09-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -109,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-agents-are-flooding-public-services-with-new-requests-1789052030000",
-    "title": "AI agents are flooding public services with new requests",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "id": "news-proxima-fusion-bets-140m-on-a-critical-fusion-ingredient-dom-1789065480000",
+    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+    "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+    "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -122,15 +119,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-supplemental-health-benefits-boost-employee-retention-1789042511000",
-    "title": "Supplemental health benefits boost employee retention",
-    "link": "https://hrexecutive.com/supplemental-health-benefits-boost-employee-retention/",
-    "summary": "The benefits can also help fill the gaps created by shrinking major medical coverage, insurers say. The post Supplemental health benefits boost employee retention appeared first on HR Executive .",
+    "id": "news-for-women-in-the-workforce-can-ai-be-the-great-equalizer-1789043444000",
+    "title": "For women in the workforce, can AI be the ‘great equalizer’?",
+    "link": "https://hrexecutive.com/for-women-in-the-workforce-can-ai-be-the-great-equalizer/",
+    "summary": "The new AI Leadership Council looks to uncover data about AI and women, and offer practical frameworks that can open up opportunities for women in the workforce. The post For women in the workforce, can AI be the ‘great equalizer’? appeared first on HR Executive .",
     "publishedAt": "2026-09-10",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -157,19 +156,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789051611000",
-    "title": " 白酒半年报集体低迷，“老四”之争暗流涌动，行业触底了吗？ ",
-    "link": "https://www.huxiu.com/article/4890246.html?f=rss",
-    "summary": "本文来自微信公众号： 湾酒观察 ，编辑：马建忠，作者：贝贝 2026年上半年，可以说是白酒板块陷入“至暗时刻”的半年。 随着半年报持续披露完毕，南都湾财社-酒水新消费指数课题组统计后了解到，今年19家白酒上市企业（不包含牛栏山以及退市的岩石股份）上半年合计营收约1950.62亿元，同比下降17.96%，归母净利润合计736.41亿元，同比下降22.46%。 从报表数据来看，白酒上市公司在深度调整期内首次集体陷入低谷：仅三家企业保持营收归母净利润双增，两家增收不增利，两家增利不增收（其中一家为亏损收窄）。 （制图南都湾财社记者贝贝） 整体来看，白酒企业在深度调整中持续走低，但是行业集中度仍在不断提升，龙头酒企依然占据较大的市场份额，但与之相对，部分二、三线酒企则是走出不同的方向，有的在收缩中进行市场出清，而有的则是借助新渠道寻求新的增长空间。 白酒集体下滑的背后，多家券商看来，行业已经进入了“出清”进入底部阶段，但由于消费场景变化和修复缓慢，白酒可能并未到触底反弹的时机。 龙头酒企“一超两强”格局形成 在行业深度调整期内，贵州茅台、五粮液、山西汾酒、洋河股份、泸州老窖和古井贡酒的“白酒上市公司六强”格局没有发生太大变化，但是在业绩表现上，除了贵州茅台外，其他企业都出现了不同程度的“松动与变化”。 具体来看，贵州茅台营收907.03亿元，归母净利润445.17亿元，虽然增收不增利，但排",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -201,29 +187,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-3-1789050849000",
-    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-    "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-    "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+    "id": "news-amazon-makes-it-easier-to-buy-what-you-see-on-prime-video-1789063836000",
+    "title": "Amazon makes it easier to buy what you see on Prime Video",
+    "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-california-bill-would-ban-ai-tools-that-read-employees-8217--1789041619000",
-    "title": "California bill would ban AI tools that read employees&#8217; emotions",
-    "link": "https://hrexecutive.com/california-bill-would-ban-ai-tools-that-read-employees-emotions/",
-    "summary": "California passed a bill barring employers from using AI to track employee emotions or neural data at work. The post California bill would ban AI tools that read employees&#8217; emotions appeared first on HR Executive .",
+    "id": "news-supplemental-health-benefits-boost-employee-retention-1789042511000",
+    "title": "Supplemental health benefits boost employee retention",
+    "link": "https://hrexecutive.com/supplemental-health-benefits-boost-employee-retention/",
+    "summary": "The benefits can also help fill the gaps created by shrinking major medical coverage, insurers say. The post Supplemental health benefits boost employee retention appeared first on HR Executive .",
     "publishedAt": "2026-09-10",
     "source": "HR Executive",
     "tags": [
       "hr",
-      "ai-hr",
-      "ai"
+      "ai-hr"
     ]
   },
   {
@@ -254,19 +240,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789051378000",
-    "title": " 恐怖片是当下电影市场最后一张安全牌吗 ",
-    "link": "https://www.huxiu.com/article/4890244.html?f=rss",
-    "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 一个门槛很低但做到及格也很难的类型。 最近你或许在社交媒体看到过这几个画面： 一个人悬空抓着悬崖上几根断裂的栈道钢筋，脚下是望不到底的深渊；你许愿女神成为世上最爱你的人，愿望成真后她半夜猫在房间墙角一动不动地注视着你；或者几个人在一个无限延伸的黄色房间里，始终找不到出口。 以上名场面分别来自上周五正式上映的《坠落2：死点》，暑期档黑马《痴迷》和《后室》。近一个月内，待映片单上还有共15部恐怖片即将上院线，题材涵盖都市传说、民国传奇、中式民俗等多个方向。行业内一直强调的系列化、IP化也在这一类型上形成稳定产出。 在整体电影市场趋于保守、中等成本影片大量停摆的环境下，恐怖片逆势扩容并非偶然。它凭借低成本、低风险、受众稳固的特质，成为行业最「抗摔耐打」的类型，给投资方带来足够的安全感，也承接了市场的确定性需求。一些恐怖片也开始触及当下的集体恐惧和社会情绪，成为电影院里最能够连接人类原始情感的阵地。 正因如此，这条赛道也成为当下为数不多还能持续让新人崭露头角的创作领域。同在上周五上映的《怪屋》导演王博伦认为，「恐怖片是一个很好的展现导演能力、类型化很明确的题材。」它不依赖大演员、大制作，视听能力和氛围营造成为核心竞争力。 一边是海量传统产能持续填充档期，一边是新生代创作者用全新视听语言、当代情绪视角重塑恐怖类型。产能暴涨、新旧交替的当下，未来真",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-xiaomi-presses-huawei-and-apple-in-china-s-crowded-premium-p-1789043403000",
     "title": "Xiaomi Presses Huawei and Apple in China’s Crowded Premium Phone Market",
     "link": "https://www.tmtpost.com/8135693.html",
@@ -293,10 +266,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-maven-robotics-wants-to-steal-your-robot-deployment-deal-1789049857000",
-    "title": "Maven Robotics wants to steal your robot deployment deal",
-    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+    "id": "news-anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-yo-1789062884000",
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -306,10 +279,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-building-fair-hiring-under-real-regulation-taught-us-an-1789040702000",
-    "title": "What building fair hiring under real regulation taught us, and why the U.S. is next",
-    "link": "https://hrexecutive.com/what-building-fair-hiring-under-real-regulation-taught-us-and-why-the-u-s-is-next/",
-    "summary": "The EU AI Act does not care where your company is headquartered; companies will have to abide by the rules when it comes to fair hiring. The post What building fair hiring under real regulation taught us, and why the U.S. is next appeared first on HR Executive .",
+    "id": "news-california-bill-would-ban-ai-tools-that-read-employees-8217--1789041619000",
+    "title": "California bill would ban AI tools that read employees&#8217; emotions",
+    "link": "https://hrexecutive.com/california-bill-would-ban-ai-tools-that-read-employees-emotions/",
+    "summary": "California passed a bill barring employers from using AI to track employee emotions or neural data at work. The post California bill would ban AI tools that read employees&#8217; emotions appeared first on HR Executive .",
     "publishedAt": "2026-09-10",
     "source": "HR Executive",
     "tags": [
@@ -346,19 +319,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789050805000",
-    "title": " 大学“一床难求”，高教大省出手了 ",
-    "link": "https://www.huxiu.com/article/4890240.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 高校扩招VS校舍不足，难题何解？ 作为全国高教资源大省，近日，江苏印发《省属高校学生宿舍提质扩容三年攻坚行动省级资金补助方案》（以下简称《方案》），提出支持高校综合采取“改、租、买、建、调”等方式，有针对性地配置学生宿舍资源。 其中还提到，支持在徐州、淮安、连云港等房价相对较低地区开展宿舍购置工作，省财政补助30%。 近年来，高校扩招与校舍不足的矛盾愈演愈烈。2024年初，国家发展改革委、教育部等七部门联合印发《关于加强高校学生宿舍建设的指导意见》（以下简称《意见》），首次提出“推动高校招生计划安排与宿舍面积达标挂钩”。 此后，湖北、安徽、湖南、广东等地相继出台政策，支持高校通过购房、租赁等方式扩充学生宿舍资源。 但另一方面，据官方测算，高等教育学龄人口2032年达峰已近在眼前。当下的缺口压力与达峰后的闲置风险，又该如何平衡？ 01 缺口 不久前，国务院发布的《教育发展“十五五”规划》强调，完善适应学龄人口变化的教育资源前瞻布局，对扩大优质高等教育资源供给着墨颇多—— 持续改善高校学生宿舍等基本办学条件。扎实推进优质本科扩容，支持建设若干“双一流”高校新校区，“双一流”高校本科招生数增加10万人以上。 新建若干所新型研究型大学，以理工农医类专业为主有序扩大优质本科教育招生规模和研究生培养规模。 仅从2026年来看，据此前各高校披露，",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1789037406000",
     "title": "无人车拐点：中国供应链降维打击",
     "link": "https://www.tmtpost.com/8135479.html",
@@ -385,16 +345,55 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-signs-its-biggest-rice-methane-carbon-credit-deal-wit-1789047241000",
-    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-    "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-    "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+    "id": "news-india-8217-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-a-1789062300000",
+    "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
+    ]
+  },
+  {
+    "id": "news-what-building-fair-hiring-under-real-regulation-taught-us-an-1789040702000",
+    "title": "What building fair hiring under real regulation taught us, and why the U.S. is next",
+    "link": "https://hrexecutive.com/what-building-fair-hiring-under-real-regulation-taught-us-and-why-the-u-s-is-next/",
+    "summary": "The EU AI Act does not care where your company is headquartered; companies will have to abide by the rules when it comes to fair hiring. The post What building fair hiring under real regulation taught us, and why the U.S. is next appeared first on HR Executive .",
+    "publishedAt": "2026-09-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-schedule-changes-transfers-may-be-retaliation-under-userra-f-1788986160000",
+    "title": "Schedule changes, transfers may be retaliation under USERRA, feds caution",
+    "link": "https://www.hrdive.com/news/userra-retaliation-changes/829958/",
+    "summary": "The warning follows a 2025 amendment that expanded the law&rsquo;s coverage.",
+    "publishedAt": "2026-09-09",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-agi-chatgpt-images-2-5-1789025139000",
+    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+    "link": "https://www.qbitai.com/2026/09/486684.html",
+    "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+    "publishedAt": "2026-09-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
     ]
   }
 ];
@@ -895,25 +894,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137073",
-    "title": "Retail Store Associate",
-    "company": "Rowan",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
-      "You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne"
-    ],
-    "skills": [
-      "RAG",
-      "AWS"
-    ],
-    "location": "Chicago, IL",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-    "postedAt": "2026-08-22",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1136670",
     "title": "Engineering Manager Thailand",
     "company": "Bjak ",
@@ -929,45 +909,6 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
     "postedAt": "2026-08-14",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136602",
-    "title": "Jenni AI",
-    "company": "AI Supermarket",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
-      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
-      "Used by aspiring and experienced trader"
-    ],
-    "skills": [
-      "OpenAI"
-    ],
-    "location": "Research, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
-    "postedAt": "2026-08-11",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136388",
-    "title": "Aragon AI",
-    "company": "AI Supermarket",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
-      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
-      "Used by aspiring and experienced trader"
-    ],
-    "skills": [
-      "RAG",
-      "OpenAI"
-    ],
-    "location": "Good Design, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
-    "postedAt": "2026-08-11",
     "isNew": false
   },
   {
@@ -1007,4 +948,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-10T15:46:20.101Z';
+export const dataFetchedAt = '2026-09-10T20:23:16.979Z';

@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-11-auto",
+    "date": "2026-09-11",
+    "session": "auto",
+    "title": "2026-09-11 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-11-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a &#8220;God-driven&#8221; cryptocurrency and a solar engineering roadmap",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+      },
+      {
+        "id": "sig-2026-09-11-auto-2",
+        "emoji": "⚠️",
+        "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "detail": "来源: TechCrunch。Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+      },
+      {
+        "id": "sig-2026-09-11-auto-3",
+        "emoji": "🚨",
+        "title": "25 years later, how 9/11 changed HR",
+        "summary": "The terrorist attacks happened as the HR Tech conference was getting underway in 2001. Former and current staffers share their experiences. The post 25 years later, how 9/11 changed HR appeared first on HR Executive .",
+        "detail": "来源: HR Executive。The terrorist attacks happened as the HR Tech conference was getting underway in 2001. Former and current staffers share their experiences. The post 25 years later, how 9/11 changed HR appeared first on HR Executive .",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Executive",
+        "link": "https://hrexecutive.com/25-years-later-how-911-changed-hr/"
+      },
+      {
+        "id": "sig-2026-09-11-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Rese...",
+        "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im",
+        "detail": "作者: Yiling Ma, Yilun Zhao, Sihong Wu。A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported resolutions from papers, codebases, issue threads, and reproduction artifacts. We introduce IdeaAMBIG, a benchmark of 660 evidence-grounded instances: 163 real-world gaps from reproducibility reports and GitHub issues, and 497 controlled synthetic gaps injected into codification-ready references. Idea",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.10539v1"
+      },
+      {
+        "id": "sig-2026-09-11-auto-5",
+        "emoji": "💼",
+        "title": "iMerit Technology 正在招募 AI Response Analyst",
+        "summary": "岗位类型：业务+AI 复合岗。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts",
+        "detail": "技能要求: 未标注。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit Technology"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit Technology",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-11-1",
+        "priority": "medium",
+        "action": "关注「The Download: a &#8220;God-driven&#8221;」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-11-2",
+        "priority": "medium",
+        "action": "关注「Meta&#8217;s AI agent Muse is now the No」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-11-3",
+        "priority": "high",
+        "action": "关注「25 years later, how 9/11 changed HR」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Executive"
+      },
+      {
+        "id": "action-2026-09-11-4",
+        "priority": "medium",
+        "action": "关注「研究速递：IdeaAMBIG: Benchmarking Implementat」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-11-5",
+        "priority": "medium",
+        "action": "关注「iMerit Technology 正在招募 AI Response Analy」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit Technology"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 61,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-11 生成，聚合了 30 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-09-11 00:00 - 2026-09-11 23:59"
+  },
+  {
     "id": "report-2026-09-10-auto",
     "date": "2026-09-10",
     "session": "auto",
