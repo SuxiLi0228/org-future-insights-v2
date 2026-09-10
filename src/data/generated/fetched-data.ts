@@ -2,6 +2,285 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-8220-god-driven-8221-cryptocurrency-and-a-sol-1789042200000",
+    "title": "The Download: a &#8220;God-driven&#8221; cryptocurrency and a solar engineering roadmap",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-boring-company-raises-3b-in-round-led-by-uae-1789052847000",
+    "title": "The Boring Company raises $3B in round led by UAE",
+    "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+    "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-for-women-in-the-workforce-can-ai-be-the-great-equalizer-1789043444000",
+    "title": "For women in the workforce, can AI be the ‘great equalizer’?",
+    "link": "https://hrexecutive.com/for-women-in-the-workforce-can-ai-be-the-great-equalizer/",
+    "summary": "The new AI Leadership Council looks to uncover data about AI and women, and offer practical frameworks that can open up opportunities for women in the workforce. The post For women in the workforce, can AI be the ‘great equalizer’? appeared first on HR Executive .",
+    "publishedAt": "2026-09-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-8-stories-on-the-healthcare-affordability-crunch-1789053840000",
+    "title": "8 stories on the healthcare affordability crunch",
+    "link": "https://www.hrdive.com/news/8-stories-on-the-healthcare-affordability-crunch/829533/",
+    "summary": "A vice president at the Business Group on Health recently said employers are at &ldquo;an inflection point.&rdquo;",
+    "publishedAt": "2026-09-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eccv-ai-1789035466000",
+    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+    "link": "https://www.qbitai.com/2026/09/486934.html",
+    "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+    "publishedAt": "2026-09-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789052073000",
+    "title": " 名创优品，为什么总在调整定位 ",
+    "link": "https://www.huxiu.com/article/4890248.html?f=rss",
+    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 成本与效率决定它能做什么，品类判断决定它做什么，两者相加带来的品牌定位，则负责名创的「增长故事」。 在增长普遍放缓的零售业里，潮玩是少数还在高增长的品类，潮玩店在商场招商中的能见度、重要性也越来越高。 2026年上半年，全国社会消费品零售总额同比只增长1.3%。同一时间，潮玩行业两大巨头泡泡玛特和名创优品，尽管海外受阻，但各自国内收入仍在高增。尤其定位更偏「零售商」的名创优品，国内收入增长26.2%，收获近三年最快的上半年增速，国内同店销售也实现中个位数增长。 与更早深入自研IP、定位内容公司的泡泡玛特不同，名创找增长的方式也一直与泡泡玛特有差异。今年3月发布2025年全年业绩时，名创换了一个新的自我介绍：「一家提供以独特IP设计为特色的丰富多样的潮流生活产品的全球高增长价值零售商。」 对应英文是：「a global high-growth value retailer offering a variety of trendy lifestyle products featuring distinctive IP designs.」 回溯发现，上市以来名创财报中的自我介绍一直在换，大致包括以下几个版本： 2020年赴美上市时，它是一家提供丰富多样的「设计引领型生活产品的快速增长全球价值零售商」； 此后「快速增长」一度退出，「价值」也曾在其中",
+    "publishedAt": "2026-09-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-ai-1789046397000",
+    "title": "AI无限拉低创作门槛，内容平台怎么讲新故事",
+    "link": "https://www.tmtpost.com/8135602.html",
+    "summary": "AI让想法到产品的距离缩短近乎为零，也催生出新型创作者Builder（建造者）。他们既非传统开发者，也非传统内容创作者，而是把想法做出来，并且把过程公开的人。B站正试图把他们的“创造力”变成一门可以计价的生意。",
+    "publishedAt": "2026-09-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-powering-ai-is-an-architecture-problem-1789038000000",
+    "title": "Powering AI is an architecture problem",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-agents-are-flooding-public-services-with-new-requests-1789052030000",
+    "title": "AI agents are flooding public services with new requests",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-supplemental-health-benefits-boost-employee-retention-1789042511000",
+    "title": "Supplemental health benefits boost employee retention",
+    "link": "https://hrexecutive.com/supplemental-health-benefits-boost-employee-retention/",
+    "summary": "The benefits can also help fill the gaps created by shrinking major medical coverage, insurers say. The post Supplemental health benefits boost employee retention appeared first on HR Executive .",
+    "publishedAt": "2026-09-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-hr-says-its-job-demands-have-grown-but-without-needed-suppor-1789051980000",
+    "title": "HR says its job demands have grown — but without needed support",
+    "link": "https://www.hrdive.com/news/hr-says-its-job-demands-have-risen-but-without-needed-support/830027/",
+    "summary": "People teams are tasked with driving the conversation at work, but they&rsquo;re not being offered corresponding resources, says Lattice.",
+    "publishedAt": "2026-09-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-3d-abot-earth-0-7-ai-1789028225000",
+    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+    "link": "https://www.qbitai.com/2026/09/486900.html",
+    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+    "publishedAt": "2026-09-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789051611000",
+    "title": " 白酒半年报集体低迷，“老四”之争暗流涌动，行业触底了吗？ ",
+    "link": "https://www.huxiu.com/article/4890246.html?f=rss",
+    "summary": "本文来自微信公众号： 湾酒观察 ，编辑：马建忠，作者：贝贝 2026年上半年，可以说是白酒板块陷入“至暗时刻”的半年。 随着半年报持续披露完毕，南都湾财社-酒水新消费指数课题组统计后了解到，今年19家白酒上市企业（不包含牛栏山以及退市的岩石股份）上半年合计营收约1950.62亿元，同比下降17.96%，归母净利润合计736.41亿元，同比下降22.46%。 从报表数据来看，白酒上市公司在深度调整期内首次集体陷入低谷：仅三家企业保持营收归母净利润双增，两家增收不增利，两家增利不增收（其中一家为亏损收窄）。 （制图南都湾财社记者贝贝） 整体来看，白酒企业在深度调整中持续走低，但是行业集中度仍在不断提升，龙头酒企依然占据较大的市场份额，但与之相对，部分二、三线酒企则是走出不同的方向，有的在收缩中进行市场出清，而有的则是借助新渠道寻求新的增长空间。 白酒集体下滑的背后，多家券商看来，行业已经进入了“出清”进入底部阶段，但由于消费场景变化和修复缓慢，白酒可能并未到触底反弹的时机。 龙头酒企“一超两强”格局形成 在行业深度调整期内，贵州茅台、五粮液、山西汾酒、洋河股份、泸州老窖和古井贡酒的“白酒上市公司六强”格局没有发生太大变化，但是在业绩表现上，除了贵州茅台外，其他企业都出现了不同程度的“松动与变化”。 具体来看，贵州茅台营收907.03亿元，归母净利润445.17亿元，虽然增收不增利，但排",
+    "publishedAt": "2026-09-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-4-0-1789046087000",
+    "title": "九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代",
+    "link": "https://www.tmtpost.com/8135640.html",
+    "summary": "从股道领航到股道智航，变的是技术形态，不变的是“以客户为中心”的初心。",
+    "publishedAt": "2026-09-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-road-map-could-help-us-decide-whether-to-deploy-solar-g-1789038000000",
+    "title": "This road map could help us decide whether to deploy solar geoengineering",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-3-1789050849000",
+    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+    "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-california-bill-would-ban-ai-tools-that-read-employees-8217--1789041619000",
+    "title": "California bill would ban AI tools that read employees&#8217; emotions",
+    "link": "https://hrexecutive.com/california-bill-would-ban-ai-tools-that-read-employees-emotions/",
+    "summary": "California passed a bill barring employers from using AI to track employee emotions or neural data at work. The post California bill would ban AI tools that read employees&#8217; emotions appeared first on HR Executive .",
+    "publishedAt": "2026-09-10",
+    "source": "HR Executive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-personality-traits-that-drive-success-can-derail-employees-u-1789051980000",
+    "title": "Personality traits that drive success can derail employees under pressure, study finds",
+    "link": "https://www.hrdive.com/news/personality-traits-that-drive-success-can-derail-employees-under-pressure/829966/",
+    "summary": "The goal should be to help workers develop a &ldquo;strategic self-awareness&rdquo; of what triggers their personality &ldquo;derailers,&rdquo; Hogan Assessment said.",
+    "publishedAt": "2026-09-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hsimul3r-1789027075000",
+    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+    "link": "https://www.qbitai.com/2026/09/486747.html",
+    "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+    "publishedAt": "2026-09-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789051378000",
+    "title": " 恐怖片是当下电影市场最后一张安全牌吗 ",
+    "link": "https://www.huxiu.com/article/4890244.html?f=rss",
+    "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 一个门槛很低但做到及格也很难的类型。 最近你或许在社交媒体看到过这几个画面： 一个人悬空抓着悬崖上几根断裂的栈道钢筋，脚下是望不到底的深渊；你许愿女神成为世上最爱你的人，愿望成真后她半夜猫在房间墙角一动不动地注视着你；或者几个人在一个无限延伸的黄色房间里，始终找不到出口。 以上名场面分别来自上周五正式上映的《坠落2：死点》，暑期档黑马《痴迷》和《后室》。近一个月内，待映片单上还有共15部恐怖片即将上院线，题材涵盖都市传说、民国传奇、中式民俗等多个方向。行业内一直强调的系列化、IP化也在这一类型上形成稳定产出。 在整体电影市场趋于保守、中等成本影片大量停摆的环境下，恐怖片逆势扩容并非偶然。它凭借低成本、低风险、受众稳固的特质，成为行业最「抗摔耐打」的类型，给投资方带来足够的安全感，也承接了市场的确定性需求。一些恐怖片也开始触及当下的集体恐惧和社会情绪，成为电影院里最能够连接人类原始情感的阵地。 正因如此，这条赛道也成为当下为数不多还能持续让新人崭露头角的创作领域。同在上周五上映的《怪屋》导演王博伦认为，「恐怖片是一个很好的展现导演能力、类型化很明确的题材。」它不依赖大演员、大制作，视听能力和氛围营造成为核心竞争力。 一边是海量传统产能持续填充档期，一边是新生代创作者用全新视听语言、当代情绪视角重塑恐怖类型。产能暴涨、新旧交替的当下，未来真",
+    "publishedAt": "2026-09-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-xiaomi-presses-huawei-and-apple-in-china-s-crowded-premium-p-1789043403000",
+    "title": "Xiaomi Presses Huawei and Apple in China’s Crowded Premium Phone Market",
+    "link": "https://www.tmtpost.com/8135693.html",
+    "summary": "Xiaomi faces intense competition from Huawei’s domestic strength and Apple’s brand loyalty in China’s smartphone market. Self-developed chips and a new foldable aim to lift its premium presence, yet shipment declines and margin pressure highlight the difficulty of closing the gap with the two leaders.",
+    "publishedAt": "2026-09-10",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-can-the-us-battery-market-untangle-from-china-1789034400000",
     "title": "Can the US battery market untangle from China?",
     "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
@@ -14,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-roun-1788998437000",
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "id": "news-maven-robotics-wants-to-steal-your-robot-deployment-deal-1789049857000",
+    "title": "Maven Robotics wants to steal your robot deployment deal",
+    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +306,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-beyond-hiring-solving-hr-s-leadership-crisis-1788958551000",
-    "title": "Beyond Hiring: Solving HR’s Leadership Crisis",
-    "link": "https://hrexecutive.com/beyond-hiring-solving-hrs-leadership-crisis/",
-    "summary": "Date &#038; Time: Thursday, October 22, 2026 at 2:00 pm ET Explore the challenges organizations face in identifying future leaders, how a new generation of AI is helping close those gaps, why rich behavioral data from employee recognition provides a stronger picture of how leadership emerges across an organization, and how AI can transform these signals into actionable insights. The post Beyond Hiring: Solving HR’s Leadership Crisis appeared first on HR Executive .",
-    "publishedAt": "2026-09-09",
+    "id": "news-what-building-fair-hiring-under-real-regulation-taught-us-an-1789040702000",
+    "title": "What building fair hiring under real regulation taught us, and why the U.S. is next",
+    "link": "https://hrexecutive.com/what-building-fair-hiring-under-real-regulation-taught-us-and-why-the-u-s-is-next/",
+    "summary": "The EU AI Act does not care where your company is headquartered; companies will have to abide by the rules when it comes to fair hiring. The post What building fair hiring under real regulation taught us, and why the U.S. is next appeared first on HR Executive .",
+    "publishedAt": "2026-09-10",
     "source": "HR Executive",
     "tags": [
       "hr",
       "ai-hr",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -55,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3d-abot-earth-0-7-ai-1789028225000",
-    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-    "link": "https://www.qbitai.com/2026/09/486900.html",
-    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+    "id": "news-1-3b-1789026240000",
+    "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+    "link": "https://www.qbitai.com/2026/09/486716.html",
+    "summary": "轻量版LingBot-World 2.0",
     "publishedAt": "2026-09-10",
     "source": "量子位",
     "tags": [
@@ -68,10 +346,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-1789036161000",
-    "title": " 我在深圳，卖小区的流浪猫，一只50元 ",
-    "link": "https://www.huxiu.com/article/4890175.html?f=rss",
-    "summary": "本文来自微信公众号： 深圳微时光 ，作者：白粥 \"路边的流浪猫，随机获取，颜色随机，公母随机，绝育不知道。一只50，拍下就去抓。\" 这是闲鱼上一位深圳卖家的商品简介。没有精美的宠物写真，没有血统证书，甚至没有一张确定的猫咪照片，卖得像“盲盒”。 商品详情页写得像一份免责声明：收货后自己打疫苗，自己做驱虫，不包售后。但就是这样一条看起来极其\"简陋\"的卖猫信息，却吸引了不少人前来询问。 卖家说，小区的流浪猫已经被自己\"卖完了\"。如果有人再购买，他得去隔壁小区抓。 在深圳，流浪猫从来不是新鲜话题。但当它们从绿化带里窜出来，变成二手平台上的明码标价，这个城市的\"猫问题\"，似乎正在以一种令人意外的方式，进入更多人的视野。 01 50元流浪猫盲盒 在这个隐秘的交易角落里，卖家阿伟显得十分坦然。 “有好心人想领养、又不想花大价钱去宠物店，只要在平台上下了单，我就会带上工具下楼抓，抓到哪只算哪只。” 最初，他只是抓自己小区里的猫，生意居然还不错。 “自己小区的猫都被我卖完了，”他有些尴尬地笑了笑，“现在如果有人拍下，我得溜到隔壁小区去抓。” 阿伟并非纯粹的“黑心猫贩子”，为了赚钱才卖猫。 图释：阿伟的售猫帖 他的家里，其实养着一只从楼下捡来的异瞳猫。为了治病、打预防针、做驱虫，他前前后后搭进去两千多块钱。 然而，个人的善意总有触及天花板的时候。小区里的幼猫源源不断地出生，他的出租屋实在塞不下了。 ",
+    "id": "news--1789050805000",
+    "title": " 大学“一床难求”，高教大省出手了 ",
+    "link": "https://www.huxiu.com/article/4890240.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 高校扩招VS校舍不足，难题何解？ 作为全国高教资源大省，近日，江苏印发《省属高校学生宿舍提质扩容三年攻坚行动省级资金补助方案》（以下简称《方案》），提出支持高校综合采取“改、租、买、建、调”等方式，有针对性地配置学生宿舍资源。 其中还提到，支持在徐州、淮安、连云港等房价相对较低地区开展宿舍购置工作，省财政补助30%。 近年来，高校扩招与校舍不足的矛盾愈演愈烈。2024年初，国家发展改革委、教育部等七部门联合印发《关于加强高校学生宿舍建设的指导意见》（以下简称《意见》），首次提出“推动高校招生计划安排与宿舍面积达标挂钩”。 此后，湖北、安徽、湖南、广东等地相继出台政策，支持高校通过购房、租赁等方式扩充学生宿舍资源。 但另一方面，据官方测算，高等教育学龄人口2032年达峰已近在眼前。当下的缺口压力与达峰后的闲置风险，又该如何平衡？ 01 缺口 不久前，国务院发布的《教育发展“十五五”规划》强调，完善适应学龄人口变化的教育资源前瞻布局，对扩大优质高等教育资源供给着墨颇多—— 持续改善高校学生宿舍等基本办学条件。扎实推进优质本科扩容，支持建设若干“双一流”高校新校区，“双一流”高校本科招生数增加10万人以上。 新建若干所新型研究型大学，以理工农医类专业为主有序扩大优质本科教育招生规模和研究生培养规模。 仅从2026年来看，据此前各高校披露，",
     "publishedAt": "2026-09-10",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +359,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iphone-1789036202000",
-    "title": "当iPhone终于“折”起来，谁能抢到下一代手机定义权？",
-    "link": "https://www.tmtpost.com/8135480.html",
-    "summary": "万元折叠密集出场，有人骂贵，有人真想买",
+    "id": "news--1789037406000",
+    "title": "无人车拐点：中国供应链降维打击",
+    "link": "https://www.tmtpost.com/8135479.html",
+    "summary": "自动驾驶的竞争，已经从技术验证阶段，进入了制度效率与成本结构的对决。",
     "publishedAt": "2026-09-10",
     "source": "钛媒体",
     "tags": [
@@ -107,295 +385,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-automattic-8217-s-board-forces-ceo-matt-mullenweg-into-leave-1788995669000",
-    "title": "Automattic&#8217;s board forces CEO Matt Mullenweg into leave of absence",
-    "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-    "summary": "Mullenweg said in a company Slack message that it was against his will.",
-    "publishedAt": "2026-09-09",
+    "id": "news-google-signs-its-biggest-rice-methane-carbon-credit-deal-wit-1789047241000",
+    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+    "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+    "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+    "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-who-owns-the-risk-when-the-machine-makes-a-mistake-1788957039000",
-    "title": "Who owns the risk when the machine makes a mistake?",
-    "link": "https://hrexecutive.com/who-owns-the-risk-when-the-machine-makes-a-mistake/",
-    "summary": "As insurers consider AI risk, it's useful to look at how advanced analytics evolved in insurance. The post Who owns the risk when the machine makes a mistake? appeared first on HR Executive .",
-    "publishedAt": "2026-09-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-schedule-changes-transfers-may-be-retaliation-under-userra-f-1788986160000",
-    "title": "Schedule changes, transfers may be retaliation under USERRA, feds caution",
-    "link": "https://www.hrdive.com/news/userra-retaliation-changes/829958/",
-    "summary": "The warning follows a 2025 amendment that expanded the law&rsquo;s coverage.",
-    "publishedAt": "2026-09-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-hsimul3r-1789027075000",
-    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-    "link": "https://www.qbitai.com/2026/09/486747.html",
-    "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-    "publishedAt": "2026-09-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-gpt-6-agi-1789035061000",
-    "title": " GPT-6已经这么强，为什么我们还不肯叫它AGI？ ",
-    "link": "https://www.huxiu.com/article/4890170.html?f=rss",
-    "summary": "本文来自微信公众号： 胡说成理 ，作者：胡喆，原文标题：《GPT-6 已经这么强，为什么我们还不肯叫它 AGI？》 9月3日下午，闭门媒体沟通会快结束的时候，OpenAI总裁Greg Brockman说了一句话： 欢迎来到AGI时代。 有记者追问：这是在正式宣布你们达成AGI了吗？ 他说，AGI这个词已经不再和公司与微软之间的协议挂钩了，它现在更像是一个使命层面、精神层面的概念。 这句话听着像句套话，其实是整件事的钥匙。 ——导语 01 这个词是谁发明的 AGI这个词的诞生，比大多数人以为的要早得多。 1956年，约翰·麦卡锡在达特茅斯会议的提案里造出了“人工智能”这个词。那时，他们想让机器具备人的全部智能。 可接下来五十年，这个词被用滥了。下棋程序叫人工智能，垃圾邮件过滤器叫人工智能，商场里的语音导购也叫人工智能。到2000年前后，“人工智能”已经沦为一个什么都能装的筐。 2001年，一批研究者受不了了。他们决定回到最初的野心，合写一本书。关键问题是这本书该叫什么。他们试过叫《真正的人工智能》，被否了；也试过叫《合成智能》，但没人满意。 后来刚拿到硕士学位的Shane Legg在邮件组里提议：既然说的是有通用能力的机器，那就叫Artificial General Intelligence吧，缩写AGI，好念。 参与那轮讨论的还有王培、Peter Voss，以及后来以担忧AI风险著",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gpt6-agi-1789036200000",
-    "title": "GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来",
-    "link": "https://www.tmtpost.com/8135077.html",
-    "summary": "GPT6 Astra 最强模型正式上线。一期封存 3 个月的深度对谈，终于可以放出来了。嘉宾赵迪，现任 OpenAI Infra 工程师，曾与马斯克共事 7 年。这一期，我们聊 X、Codex、Grok、大模型 Infra、世界模型，也聊他眼中的前老板“世界上最混蛋的人”马斯克，以及 OpenAI 所追求的“智能平权”。",
-    "publishedAt": "2026-09-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-healthcare-ai-s-next-test-is-integration-1789030681000",
-    "title": "Healthcare AI’s next test is integration",
-    "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-    "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors-1788992722000",
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-    "publishedAt": "2026-09-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-benefits-debt-the-liability-employers-create-before-open-enr-1788956120000",
-    "title": "Benefits debt: The liability employers create before open enrollment",
-    "link": "https://hrexecutive.com/benefits-debt-the-liability-employers-create-before-open-enrollment/",
-    "summary": "Employers are adding more to benefits plans and employees aren’t using it. That's money leaking out of the plan. The post Benefits debt: The liability employers create before open enrollment appeared first on HR Executive .",
-    "publishedAt": "2026-09-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-14-minute-walk-to-break-area-didn-t-necessarily-create-flsa--1788986160000",
-    "title": "14-minute walk to break area didn’t necessarily create FLSA violations, DOL says",
-    "link": "https://www.hrdive.com/news/pay-workers-for-walk-to-lunch/829952/",
-    "summary": "The department weighed in on several wage-and-hour questions in a trio of opinion letters made public Tuesday.",
-    "publishedAt": "2026-09-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-1-3b-1789026240000",
-    "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-    "link": "https://www.qbitai.com/2026/09/486716.html",
-    "summary": "轻量版LingBot-World 2.0",
-    "publishedAt": "2026-09-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-cepr-ai-1789034832000",
-    "title": " 作业分数越高，考试成绩越差？CEPR调研预警生成式AI的学习代价 ",
-    "link": "https://www.huxiu.com/article/4890169.html?f=rss",
-    "summary": "本文来自微信公众号： EnsightEdu ，编译：临渊，作者：看教育编辑部 【编辑推荐】生成式AI工具能帮学生更快完成作业，拿到更高的作业分数。但完成作业本身不是目的，从作业中收获知识才是。本斯德哥尔摩大学经济学系教授大卫·斯特伦贝里、香港大学经济学系博士生雷维克多、香港大学经济系、管理与战略系教授吴彦辉关注到学生自主使用生成式AI对学习产生的影响。研究发现：使用AI的学生写作业的时间减少，作业分数上升，但考试成绩却出现下滑。这种影响起初并不明显，但随着学生对AI工具越来越熟练、学习内容不断深入，负面影响会逐步扩大。这意味着，现有的短期研究，可能低估了使用生成式AI的长期学习成本。 本文基于欧洲政策研究中心（CEPR）第21577号讨论稿《生成式AI的学习代价：来自中国中学教育的证据》整理。 以ChatGPT、Claude、deepseek为代表的生成式AI工具，能在几秒内帮学生解题、讲解知识点、润色写作。这就带来了效率提升：学生能更快完成作业，成绩也更好。但在校园里，完成作业从来不是最终目的，而是要学有所成。民主与技术中心近期的一项调查显示，超过70%的家长和教师担心，学生使用AI可能会削弱自身的学业能力（莱尔德、德怀尔，2025）。多个经合组织（OECD）成员国正在制定相关指引或政策，规范生成式AI在教育领域的使用（经合组织，2026）。要制定科学的政策，首先要清晰认识生成式",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gpt-6-astra-v2fun-3d-ai-1789035164000",
-    "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
-    "link": "https://www.tmtpost.com/8134523.html",
-    "summary": "从代码生成，走向模型协同",
-    "publishedAt": "2026-09-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-openai-s-turning-point-for-math-and-a-battery-r-1788955800000",
-    "title": "The Download: OpenAI’s turning point for math and a battery record",
-    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;",
-    "publishedAt": "2026-09-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-massachusetts-hits-data-centers-with-new-clean-power-rules-1788990214000",
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-    "publishedAt": "2026-09-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-and-remote-work-put-the-spotlight-on-interpersonal-skills-1788955233000",
-    "title": "AI and remote work put the spotlight on interpersonal skills",
-    "link": "https://hrexecutive.com/ai-and-remote-work-put-the-spotlight-on-interpersonal-skills/",
-    "summary": "Two of the biggest workplace issues in recent years are highlighting the value of human skills. The post AI and remote work put the spotlight on interpersonal skills appeared first on HR Executive .",
-    "publishedAt": "2026-09-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-generative-ai-overuse-may-hurt-leaders-judgment-researchers--1788965400000",
-    "title": "Generative AI overuse may hurt leaders’ judgment, researchers warn",
-    "link": "https://www.hrdive.com/news/generative-ai-overuse-may-hurt-leaders-judgment/829898/",
-    "summary": "The technology lacks the context or moral judgment needed to make complex decisions, meaning relying on it too much can degrade managers&rsquo; skills.",
-    "publishedAt": "2026-09-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agi-chatgpt-images-2-5-1789025139000",
-    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-    "link": "https://www.qbitai.com/2026/09/486684.html",
-    "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-    "publishedAt": "2026-09-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-deepseek-1789034716000",
-    "title": " DeepSeek降价，马斯克为何急着建电厂？ ",
-    "link": "https://www.huxiu.com/article/4890167.html?f=rss",
-    "summary": "本文来自微信公众号： 凌霄-科技投资人 ，作者：凌霄 如果把大模型当成一门生意，我今天最想做的，是把两条看似无关的消息贴到同一张成本表上。 一条来自DeepSeek：9月10日起，Flash模型低峰期缓存命中输入价降至每百万token 0.02元，降幅60%。 另一条来自马斯克：xAI相关园区正在建设1.2吉瓦天然气电站，SpaceX甚至开始把部分燃机关键零部件纳入自制范围。 一边把“智能”卖得越来越便宜，一边不断加码电站、设备和厂房。这并不矛盾。恰恰相反，它说明AI产业已经从比模型能力，走到了比交付成本。 与此同时，多家媒体报道DeepSeek已与中信证券接触，科创板IPO前期尽调启动，但尚未签署正式辅导协议。苹果中国官网则在新品发布后上调了iPhone 17、Air和17e的价格。 苹果没有解释调价原因，因此不能简单归因于AI或存储涨价；但这种价格反差依然值得注意。 ●数字智能越便宜，支撑它大规模交付的电力、设备和高利用率算力反而越值钱。 01 上市以后参数要换成现金流 如果DeepSeek真递交招股书，我最先看的不会是参数量，而是三个更俗的问题：用户每月花多少钱？一百万token还剩多少毛利？扩建算力要吞掉多少现金？ 媒体披露的一轮融资约500亿元、投后估值超过3500亿元，都没有得到公司正式确认。相比猜市值，我更关心降价后，调用量能不能跑得比单价降得更快。 奶茶从20元降到",
-    "publishedAt": "2026-09-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1789034189000",
-    "title": "一支笔、一只狗、一套能力：京东的AI硬件爆款方法论",
-    "link": "https://www.tmtpost.com/8135125.html",
-    "summary": "线上的入口早已成型，物理世界的入口，京东正打算一支笔、一盏灯、一台烤箱、一架轮椅地去攒。",
-    "publishedAt": "2026-09-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-batteries-just-broke-another-record-in-the-us-1788944400000",
-    "title": "Batteries just broke another record in the US",
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;",
-    "publishedAt": "2026-09-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-apple-s-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-ye-1788987489000",
-    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-    "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-    "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-    "publishedAt": "2026-09-09",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
     ]
   }
 ];
@@ -1008,4 +1007,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-10T10:31:36.161Z';
+export const dataFetchedAt = '2026-09-10T15:46:20.101Z';
