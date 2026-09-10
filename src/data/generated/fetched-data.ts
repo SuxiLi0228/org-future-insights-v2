@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-everything-apple-announced-at-its-fall-iphone-event-from-the-1788984223000",
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-    "publishedAt": "2026-09-09",
+    "id": "news-ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-roun-1788998437000",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-generative-ai-overuse-may-hurt-leaders-judgment-researchers--1788965400000",
-    "title": "Generative AI overuse may hurt leaders’ judgment, researchers warn",
-    "link": "https://www.hrdive.com/news/generative-ai-overuse-may-hurt-leaders-judgment/829898/",
-    "summary": "The technology lacks the context or moral judgment needed to make complex decisions, meaning relying on it too much can degrade managers&rsquo; skills.",
+    "id": "news-eeoc-asks-judge-to-assist-in-probe-of-san-francisco-governme-1788986280000",
+    "title": "EEOC asks judge to assist in probe of San Francisco government’s DEI trainings",
+    "link": "https://www.hrdive.com/news/eeoc-asks-judge-to-assist-in-probe-of-san-francisco-governments-dei-traini/829959/",
+    "summary": "The City and County of San Francisco allegedly required attendance of a seminar series featuring &ldquo;derogatory and vitriolic statements&rdquo; about White people and White women.",
     "publishedAt": "2026-09-09",
     "source": "HR Dive",
     "tags": [
@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-15999-ai-1788981862000",
-    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-    "link": "https://www.qbitai.com/2026/09/486450.html",
-    "summary": "一比根号二的小胖折叠",
-    "publishedAt": "2026-09-09",
+    "id": "news-x2-5-61-bug-1789000926000",
+    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+    "link": "https://www.qbitai.com/2026/09/486350.html",
+    "summary": "赶上了API限时五折",
+    "publishedAt": "2026-09-10",
     "source": "量子位",
     "tags": [
       "china",
@@ -68,24 +68,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1788970164000",
-    "title": " 上市公司的话市场一般要定价3次 ",
-    "link": "https://www.huxiu.com/article/4889960.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 8月31日下午，华泰证券开半年报发布会。 上半年净利116亿，同比涨五成多，自家上市以来最好的半年报。提问环节，股东头一个问题是：你这个股价长期破净，打算怎么办？ 破净是行话，股价跌到每股净资产下面，就叫破净。净资产，是公司账上属于自己的家底；破净等于说，市场给这家公司的定价，比它自己的家底还低。 哎，中报季里这么被问的券商，不止华泰一家。 我查了下，中信、光大、国泰海通都没被放过，这些券商业绩都不差，有的利润还创了新高光大那边的话更直，五年十年投下来，算上分红还是亏的。 搁以前，这画面没人敢信，业绩好，股价不该好么？可今年，业绩这头，好像失灵了。 探路者也是，这家做户外用品的公司，预告上半年利润同比翻倍还多。公告出来，股价连着两个跌停，两天市值蒸发近60亿。 翻倍钱哪来的？ 两家刚收购的芯片公司贡献了大头，再加一笔汇率收益。自家户外主业的经营利润，反而在下滑。利润是真的，可这利润长在别人身上，明年还在不在，没人知道。 市场不傻，它看这利润能不能自己长出来，长不出来，预增得再漂亮，也不认。 嗯，那换个思路，故事总该有人信吧？ 今年A股热闹得邪门。京蓝科技，早年并购埋下的财务造假，2025年罚单落地，股票被打上ST的记号。年初，它宣布改名铟靶新材，蹭稀有金属概念，18个交易日，股价翻了一倍多。 8月底，它刚摘帽，市值180亿上下。可今年上",
-    "publishedAt": "2026-09-09",
+    "id": "news-ai-1789008416000",
+    "title": " 「不是，而是」：AI写作留给文字世界的特洛伊木马 ",
+    "link": "https://www.huxiu.com/article/4890032.html?f=rss",
+    "summary": "本文来自微信公众号： 显影笔记 ，作者：Meng&nbsp;Zhi，原文标题：《「不是，而是」：AI写作留给文字世界的特洛伊木马》 上个月24日，投资人Druckenmiller在《华尔街日报》发表了一篇对于美国财政部债务回购政策的评论文章，反复使用的\"不是，而是\"让读者嗅到了AI写作的讯号。随后，Druckenmiller被迫承认使用了AI工具。承载了审慎思考的句式被AI占用，而人类编辑的把控在失效。一个新的问题出现：谁来为内容的可信度负责？ 01 一个正在被察觉的AI写作“诡计” 最近，我开始在写作中有意识的避免使用“不是…而是…”的句式，甚至还减少了文章中的破折号。这两个形式正在快速成为AI写作的标识。根据巴伦周刊报道，过去2年，“不是，而是”的句式，在美国大型企业文件中的使用频率忽然翻倍增长，已达到历年的4倍以上。 上个月24日，投资人Stanley Druckenmiller发布在《华尔街日报》Opinion版面的署名文章，可谓对这一数据变化的亲身演绎，开篇即塞进了3次否定排比与并列句，也让读者察觉出AI写作痕迹。 “没有流拍，没有交易商资产负债表挤兑，没有强制平仓，没有任何类似2020年3月美债或2022年9月英国国债那种真正功能失调的情形，那种情形才配得上官方出手。波动得到了控制，交易井然有序——不是故障，而是机器在完成它的工作。” 学者Claudia Sahm使用检",
+    "publishedAt": "2026-09-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1788965259000",
-    "title": "创始人出局、前妻接掌控制权，我武生物“天价分手费”后市场悬念未止",
-    "link": "https://www.tmtpost.com/8134619.html",
-    "summary": "虽然公告特意强调“经营不受影响”，但这种不确定性素来是市场最忌讳的。",
-    "publishedAt": "2026-09-09",
+    "id": "news--1789006393000",
+    "title": "全球第一的梅卡曼德，遇上一道无解的“估值题”",
+    "link": "https://www.tmtpost.com/8134499.html",
+    "summary": "一个高增长叙事与盈利现实之间的拉扯",
+    "publishedAt": "2026-09-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,10 +108,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-there-are-new-shiny-iphones-so-apple-is-making-you-pay-more--1788983778000",
-    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-    "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-    "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+    "id": "news-automattic-8217-s-board-forces-ceo-matt-mullenweg-into-leave-1788995669000",
+    "title": "Automattic&#8217;s board forces CEO Matt Mullenweg into leave of absence",
+    "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "summary": "Mullenweg said in a company Slack message that it was against his will.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -133,25 +134,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-technology-employment-is-growing-despite-tech-sector-layoffs-1788965400000",
-    "title": "Technology employment is growing despite tech sector layoffs",
-    "link": "https://www.hrdive.com/news/technology-employment-is-growing-despite-tech-sector-layoffs/829894/",
-    "summary": "As companies across industries prioritize artificial intelligence, tech job openings are coming from an increasing variety of organizations.",
+    "id": "news-schedule-changes-transfers-may-be-retaliation-under-userra-f-1788986160000",
+    "title": "Schedule changes, transfers may be retaliation under USERRA, feds caution",
+    "link": "https://www.hrdive.com/news/userra-retaliation-changes/829958/",
+    "summary": "The warning follows a 2025 amendment that expanded the law&rsquo;s coverage.",
     "publishedAt": "2026-09-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
-    "id": "news-x2-5-61-bug-1788948174000",
-    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-    "link": "https://www.qbitai.com/2026/09/486374.html",
-    "summary": "",
+    "id": "news-15999-ai-1788981862000",
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "link": "https://www.qbitai.com/2026/09/486450.html",
+    "summary": "一比根号二的小胖折叠",
     "publishedAt": "2026-09-09",
     "source": "量子位",
     "tags": [
@@ -161,24 +160,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1788970140000",
-    "title": " 越来越多的老板，不再想把公司做大了 ",
-    "link": "https://www.huxiu.com/article/4889959.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 中国企业以规模论英雄的时代结束了。 这句话放在十年前，我相信没有几个老板会同意。那时的共识是：公司只有大和更大两种状态，不大就是失败的开始。今天，越来越多老板不再把“做大”当成理所当然的目标。 最近三年，作为战略顾问和总裁教练，我接触的创始人里，主动谈“做大”的人明显少了，谈“小而美”“做久”的人多了。 但“不想做大”这四个字底下，其实是三种完全不同的人和状态。 第一种老板，是被周期打伤了。过去赚钱的生意和能力不在了，几经折腾，事越做越多越杂，摊子越铺越大，账上的钱反而越来越少。两三个回合下来，心气散了。他们不是不想做大，是不再相信做大这件事还会有回报。做大成了一个奢侈的念头，能守住现在就已经不错。他们嘴边最常挂的两句话是“先苟着”，和“拼命奔跑还在往后退”。 第二种老板，是认清现实了。他们想明白了一件事：先赚钱，再谈别的，比如远方和梦想。不再像过去那样大规模投入，去讲一个改变世界的故事，去做一家“值钱的公司”以换取资本市场更大的想象空间，而是集中精力把现有的生意做成一台每年都能产出现金和利润的机器。 他们最常说的是：公司小一点没关系，但要合规，要赚钱，要有利润。他们不是放弃了雄心，而是把雄心从估值表收回到了利润表上。 第三种老板，是真正看清了“大”和“强”不是一回事。营业收入做大不等于利润变厚，员工人数增加不等于组织变强，规模可以",
-    "publishedAt": "2026-09-09",
+    "id": "news-ai-1789008298000",
+    "title": " 方老大谈AI：模型不是终点，物理与人性才是边界 ",
+    "link": "https://www.huxiu.com/article/4890034.html?f=rss",
+    "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮，原文标题：《深夜私局｜方老大谈AI：模型不是终点，物理与人性才是边界》 昨晚亚运村，一场老友小聚。 都是一路从门户、搜索、社交，走过移动互联网、短视频周期的老兵。席间没人喝酒。雄杰吃饭时电话不断，中途有事提前离场；童佟迟到一个多小时才赶来，说是从京东亦庄骑电动车赶过来。从头到尾坐满全程的，只有我、老王还有老大三个人。没有录音、没有PPT，不谈路演和KPI，就是几个人抽空闲谈，想到哪聊到哪。聊起AI时，话题慢慢沉了下来。席间方老大的不少观点，没有行业文章那种笃定的预言，只是一群亲历多轮浪潮的人，当下真实的思考，有些判断未来回头看或许会被证伪，但这种不带包装的思考本身，很值得琢磨。 现在全网聊AI，张口就是大模型参数、多模态、Agent能力。但方老大提了一个很底层的视角：普通人看AI看算法，往深处看，看的是物理。 Transformer架构核心就是海量数据反复搬运与计算。模型规模越大、任务越复杂，内存带宽、数据吞吐就越关键。好比一台发动机马力拉满，但通行的道路宽度有限，最终瓶颈不在引擎，而在传输通道。AI看着是软件革命，底层却是一场重工业。芯片、服务器、机房、土地、散热，还有源源不断的电力，所有虚拟智能，全部扎根在现实世界的实体资源之上。算力的尽头，本质是能源。席间也聊到可控核聚变，如果低成本民用核聚变落地，今天很多AI产业的约束条件都",
+    "publishedAt": "2026-09-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-1-58-1788961710000",
-    "title": "慕思股份实控人1.58亿受让华脉科技股权，跨界交易照见两公司冷暖",
-    "link": "https://www.tmtpost.com/8134556.html",
-    "summary": "两相对照，照见经营差距，也照见行业冷暖。",
-    "publishedAt": "2026-09-09",
+    "id": "news-momenta-l3-1789005408000",
+    "title": "Momenta接近盈利后：L3新规出炉，曹旭东的“工程哲学”会失灵吗？",
+    "link": "https://www.tmtpost.com/8134392.html",
+    "summary": "Momenta做了八年标准化，但新规之下客户的“痛”点变了",
+    "publishedAt": "2026-09-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -200,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hinge-for-apple-8217-s-new-foldable-phone-was-built-with-1788981708000",
-    "title": "The hinge for Apple&#8217;s new foldable phone was built with AI",
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "id": "news-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors-1788992722000",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -226,11 +226,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fact-or-fiction-deepfakes-complicate-harassment-investigatio-1788901680000",
-    "title": "Fact or fiction? Deepfakes complicate harassment investigations",
-    "link": "https://www.hrdive.com/news/fact-or-fiction-deepfakes-complicate-harassment-investigations/829580/",
-    "summary": "As technology evolves, employers must consider new issues when conducting harassment investigations, writes&nbsp;Tracey Diamond, a partner at Troutman Pepper Locke.",
-    "publishedAt": "2026-09-08",
+    "id": "news-14-minute-walk-to-break-area-didn-t-necessarily-create-flsa--1788986160000",
+    "title": "14-minute walk to break area didn’t necessarily create FLSA violations, DOL says",
+    "link": "https://www.hrdive.com/news/pay-workers-for-walk-to-lunch/829952/",
+    "summary": "The department weighed in on several wage-and-hour questions in a trio of opinion letters made public Tuesday.",
+    "publishedAt": "2026-09-09",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -252,11 +252,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agi-1788951551000",
-    "title": "AGI 怎样才算真的来了？",
-    "link": "https://www.tmtpost.com/8133380.html",
-    "summary": "技术进步是连续的，历史叙事却总想选定一个瞬间",
-    "publishedAt": "2026-09-09",
+    "id": "news--1789007855000",
+    "title": " 顶级律师的沟通课：涨薪/谈判/向上沟通，高手从来不是靠话术 ",
+    "link": "https://www.huxiu.com/article/4889958.html?f=rss",
+    "summary": "本期是我和君合律师事务所合伙人、《令人心动的 offer》带教律师史欣悦在北京线下对话的下集。 史欣悦是君合律师事务所合伙人，北大法学院毕业，《令人心动的 offer》第二季带教律师，也是《自洽》《有言以对》的作者。他天天在做跨境谈判，还把这套本事提炼成了一门沟通课和「六角沟通法」&mdash;&mdash;聊「怎么沟通」，他是真的有发言权。 这期我们把沟通拆到了具体场景：怎么开口谈涨薪、电梯里碰见大领导说什么、遇到难缠的人怎么办。他给的方法都很好上手，如果你也总觉得自己不太会沟通，这期会帮到你。 【本期话题】： 1、怎么开口跟老板谈涨薪，才不尴尬又有效？ 2、为什么学了一堆沟通技巧，真到场还是不会说？ 3、电梯里碰见大领导，这 30 秒到底该说什么？ 4、遇到特别难缠、爱抬杠的人，高手是怎么应对的？ 5、真正的沟通高手，平时都在练哪几种能力？ 6、为什么有的人一开口，就让人信服、愿意听？ 7、从社恐到侃侃而谈，沟通到底是天生的还是练出来的？ 希望对你有启发！",
+    "publishedAt": "2026-09-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789005406000",
+    "title": "小米的悬念",
+    "link": "https://www.tmtpost.com/8134448.html",
+    "summary": "二季报看到了底，上限在哪里？",
+    "publishedAt": "2026-09-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -278,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-watch-s-new-feature-listens-to-your-chats-and-recaps-t-1788980939000",
-    "title": "Apple Watch’s new feature listens to your chats and recaps them",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-    "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+    "id": "news-massachusetts-hits-data-centers-with-new-clean-power-rules-1788990214000",
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
@@ -304,11 +317,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rodeo-tickets-and-nude-dancers-dol-details-alleged-policy-vi-1788901680000",
-    "title": "Rodeo tickets and nude dancers: DOL details alleged policy violations under former secretary",
-    "link": "https://www.hrdive.com/news/rodeo-tickets-and-nude-dancers-dol-details-recurring-policy-violations-und/829837/",
-    "summary": "The Office of Inspector General recommended the department strengthen whistleblower protections and mandate annual training on inappropriate workplace relationships.",
-    "publishedAt": "2026-09-08",
+    "id": "news-generative-ai-overuse-may-hurt-leaders-judgment-researchers--1788965400000",
+    "title": "Generative AI overuse may hurt leaders’ judgment, researchers warn",
+    "link": "https://www.hrdive.com/news/generative-ai-overuse-may-hurt-leaders-judgment/829898/",
+    "summary": "The technology lacks the context or moral judgment needed to make complex decisions, meaning relying on it too much can degrade managers&rsquo; skills.",
+    "publishedAt": "2026-09-09",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -331,11 +344,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-ai-1788951549000",
-    "title": "比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困",
-    "link": "https://www.tmtpost.com/8133506.html",
-    "summary": "利润和经营现金流背离。",
-    "publishedAt": "2026-09-09",
+    "id": "news-ai-1789007600000",
+    "title": " AI的说服，靠的不是懂你，是把你淹没 ",
+    "link": "https://www.huxiu.com/article/4890014.html?f=rss",
+    "summary": "本文来自微信公众号： 扯氮集 ，作者：魏武挥二世，题图来自：AI生成 一位朋友给我发来一篇文章，标题为《Powers of Persuasion》，大概可以翻译为说服的力量。副标题翻译过来是《AI聊天机器人越来越会说服人了。它们的优势究竟从何而来》。 这是一篇相当有意思的文章。本文分为两个部分，第一个部分就是对这篇文章进行一次我的&ldquo;蒸馏&rdquo;，第二个部分则是我对这篇文章的一些看法&mdash;&mdash;这部分我也利用了我的专属AI阅读工具，因为涉及到要调用这篇文章所引用的一些学术论文。 本文提及该文章的时候，都用&ldquo;报道&rdquo;来替代。 一 在蒸馏之前，非常有必要把这个长篇文章的背景介绍一下。 这是一篇于8月20日在顶级学术期刊《Science》发表的......新闻报道。对，虽然是Science，但它本身不是一篇学术论文。但也正因为是Science，所以它具有相当的严谨性。 准确的定位是：Science的科学新闻长篇特写，基于多项学术研究和研究者采访，对&ldquo;AI persuasion&rdquo;这个新兴领域做的一篇综述式报道。 它不仅不是原创学术论文，甚至连review paper （综述论文） 都不是。它的作者是科学记者而不是学者，没有方法论，不存在自己的样本、统计方法、原始数据或模型设定，没有同行评议环节，不提供新的可验证研",
+    "publishedAt": "2026-09-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-iphone-1000-15999-1789004774000",
+    "title": "iPhone涨1000、折叠屏15999元，苹果更大、更贵、更能打？",
+    "link": "https://www.tmtpost.com/8134795.html",
+    "summary": "国行AI还要等，旧款17也涨价了。",
+    "publishedAt": "2026-09-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -357,459 +384,360 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harvey-hits-15-5b-valuation-months-after-reaching-11b-1788978864000",
-    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-    "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "id": "news-apple-s-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-ye-1788987489000",
+    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+    "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+    "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
     "publishedAt": "2026-09-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-guiding-hibob-through-high-growth-hr-leader-of-distinction-n-1788951950000",
-    "title": "Guiding HiBob through high growth: HR Leader of Distinction Nirit Peled-Muntz",
-    "link": "https://hrexecutive.com/guiding-hibob-through-high-growth-hr-leader-of-distinction-nirit-peled-muntz/",
-    "summary": "The chief people officer helped grow the organization from 130 employees to more than 1,400, while annual recurring revenue jumped from $10 million to $320 million. The post Guiding HiBob through high growth: HR Leader of Distinction Nirit Peled-Muntz appeared first on HR Executive .",
-    "publishedAt": "2026-09-09",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-4-stories-on-crafting-a-good-onboarding-experience-1788888540000",
-    "title": "4 stories on crafting a good onboarding experience",
-    "link": "https://www.hrdive.com/news/design-a-good-onboarding-experience/829574/",
-    "summary": "Employers need to focus on grounding new workers in the organization and preparing them for the work to come, various reports show.",
-    "publishedAt": "2026-09-08",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "organization"
+      "ai",
+      "strategy"
     ]
   }
 ];
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.09158v1",
-    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+    "id": "arxiv-2609.10364v1",
+    "title": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
     "authors": [
-      "Anqi Li",
-      "Yuxin Chen",
-      "Zhaobo Li",
-      "Zhuo Cao",
-      "Junli Ren",
-      "Masayoshi Tomizuka",
-      "Dhruv Shah"
+      "Ayush Debnath",
+      "Ruelia Saha",
+      "Sudip Misra"
     ],
-    "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditioned humanoid traversal in cluttered environments. Given a natural-language instruction and egocentric RGB observations, TANGO directly predicts 29-DoF joint-space actions for downstream whole-body control. We train TANGO entirely in simulation by synthesizing diverse collision-free traversal behavi",
-    "link": "http://arxiv.org/abs/2609.09158v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhile, compliance with HIPAA and GDPR can constrain centralized aggregation of sensitive patient data. This leaves a crucial void of secure fusion of visual and textual context across distant networks. Thus, we present OmniMed-FL, a controlled systems study of multimodal federated learning for five-class clinical condition classification (Normal, Pneumonia, COVID-19, Pleural Effusion, Cardiomegaly). Our proxy corpus pairs 3,000 public chest radiographs with 3,000 class-conditioned synthetic notes, matched by class, not by patient. The framework benchmarks eight fusion strategies, three initializat",
+    "link": "http://arxiv.org/abs/2609.10364v1",
+    "publishedAt": "2026-09-09",
     "categories": [
-      "cs.RO",
+      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.09157v1",
-    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "id": "arxiv-2609.10357v1",
+    "title": "A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out",
     "authors": [
-      "Hanwen Jiang"
+      "Mahdi Naser Moghadasi",
+      "Faezeh Ghaderi"
     ],
-    "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train a shared recurrent rule despite severe decay, showing that decay alone does not determine whether learning fails. We instead study state credit: the signal through which future losses reach earlier recurrent states before contributing to parameter updates. Accordingly, we intervene directly on state credit and propose Credit Stabilization through Time (CST). During backward propagation, CST locally rescales the state-credit signal to stabilize its norm without rotating the component being correc",
-    "link": "http://arxiv.org/abs/2609.09157v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Time-series foundation models are evaluated almost exclusively on public archives that predate them, so a strong score cannot be separated from having seen the test set during pretraining. The obvious remedy is a hold-out that postdates the models. We build one: thirteen forecasters -- four classical, three trained per dataset, six pretrained -- on seven groups drawn from five domains, every observation published after the last model was released, and every dataset rebuildable without an API key. Under this protocol pretrained models win 5 of 7 groups, lose one to a Theta baseline, and on daily exchange rates are indistinguishable from a seasonal naive forecast, along with every other method tested. We then ask what separates the wins from the losses, and report a negative result: the two ",
+    "link": "http://arxiv.org/abs/2609.10357v1",
+    "publishedAt": "2026-09-09",
     "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09156v1",
-    "title": "ReCite: Agentic Reasoning for Faithful Citation",
-    "authors": [
-      "Yuyang Huang",
-      "Bobo Li",
-      "Jiajia Song",
-      "Yuzhe Ding",
-      "Chong Teng",
-      "Fei Li",
-      "Donghong Ji"
-    ],
-    "summary": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. While modern retrieval-augmented architectures have largely mitigated the fabrication of non-existent papers, current systems relying on semantic similarity struggle with misattribution, often citing authentic papers that fail to logically support the author's claim. To address this challenge, we argue that accurate citation requires a shift from similarity-based search to active, claim-level reasoning. We propose ReCite, a decoupled agentic framework that orchestrates location perception, intent-aware query planning,",
-    "link": "http://arxiv.org/abs/2609.09156v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09153v1",
-    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-    "authors": [
-      "Yuxing Lu",
-      "Yicheng Chen",
-      "Shanchan Wu",
-      "Sercan Ö. Arık"
-    ],
-    "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph organizes factual knowledge into (entity, relation, entity) triplets for what-is questions, a Procedural Graph organizes procedural knowledge into (procedure, relation, procedure) triplets for what-to-do questions. At each decision step, the framework localizes the agent's active node, and a guidance",
-    "link": "http://arxiv.org/abs/2609.09153v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09152v1",
-    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
-    "authors": [
-      "Yuhan Ye",
-      "Kaizhao Liu"
-    ],
-    "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting, every infinite nonnegative schedule has infinitely many horizons with error $Ω\\left(n^{-\\frac{2p_{\\mathrm{sil}}}{1+p_{\\mathrm{sil}}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$. Together with the silver-schedule upper bound [Altschuler and Parrilo, 2025] and the anytime upper bound [Zhang et al., 2025], our results determine the optimal polynomial convergence exponents in both settings.",
-    "link": "http://arxiv.org/abs/2609.09152v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "math.OC",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.09150v1",
-    "title": "Copying explains the collective behavior of AI agents in the wild",
+    "id": "arxiv-2609.10355v1",
+    "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
     "authors": [
-      "Giordano De Marzo",
-      "Nicola Albore",
-      "David Garcia"
+      "Killian Steunou",
+      "Yannis Tevissen",
+      "Mounîm A. El Yacoubi"
     ],
-    "summary": "In June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for about an hour and remembered nothing afterwards. Nobody asked them to cooperate, and the wiki had not been built for them. The complete record of what they wrote is public, and it is unusually informative, because it preserves not only what each agent wrote but what that agent could see before writing. We use it to follow the three decisions an agent had to make on arrival: where to write, what to call itself, and how to word its message. One rule governs all three. An agent takes an option with a probability close to the share of that option in what it can see, and the share that matters is the ",
-    "link": "http://arxiv.org/abs/2609.09150v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.MA",
-      "cond-mat.stat-mech",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09143v1",
-    "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
-    "authors": [
-      "Siting Li",
-      "Zhengyang Wang",
-      "Simon Shaolei Du",
-      "Xi Chen",
-      "Yang Liu"
-    ],
-    "summary": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how visual tokens behave when modeled jointly with text. We build a controlled pure-autoregressive testbed and track task-specific validation losses during multimodal continual pretraining across text, image, text-to-image (T2I), and image-to-text (I2T) prediction. We examine how these losses scale and relate to downstream performance, then use them to study multimodal learnability---how well image and text tokens are jointly modeled---and tokenizer design. We find that (1) losses should be analyzed by task, since they exhibit distinct scaling behavior and rank tokenizers differe",
-    "link": "http://arxiv.org/abs/2609.09143v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Video understanding has rapidly evolved toward video large language models (VideoLLMs): systems that couple video representations with pretrained large language models and condition generation on a textual prompt. Their strong performance on captioning, question answering, retrieval and temporal grounding comes at a computation and memory cost that grows with frame count and context length, limiting deployment in real-time, mobile and resource-constrained settings. This survey covers inference-efficiency mechanisms for visual and audiovisual VideoLLMs that report concrete reductions in parameter count, FLOPs per input, latency, memory, or visual and audio token count. We analyze bottlenecks across frame sampling, modality encoding, connector-level token reduction, and LLM prefilling and de",
+    "link": "http://arxiv.org/abs/2609.10355v1",
+    "publishedAt": "2026-09-09",
     "categories": [
       "cs.CV",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09140v1",
-    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-    "authors": [
-      "Tobias Susetzky",
-      "Raphael Rehms",
-      "Dmitrii Seletkov",
-      "Özgün Turgut",
-      "Michelle Espranita Liman",
-      "Lisa Steinhelfer",
-      "Rickmer Braren",
-      "Daniel Rueckert"
-    ],
-    "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modalities, constrained by closed categorical vocabularies, treating time as a monotonic inductive bias, or they are limited in forecasting future patient states. We introduce NOAH, a time-aware, task-agnostic, generative transformer model representing and forecasting the full multimodal patient journey. ",
-    "link": "http://arxiv.org/abs/2609.09140v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09137v1",
-    "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
-    "authors": [
-      "Maria Alejandra Gomez",
-      "Juan Manuel Castillo"
-    ],
-    "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automation tier -- a Python bot, an open-source orchestrator such as n8n, or an enterprise platform such as UiPath -- and forecast financial return before committing resources. We propose a four-module, data-driven framework unifying these decisions: a Process Taxonomy of twenty recurring hospital processes across five value streams; a Prioritization module deriving an Automation Suitability Index from an Analytic Hierarchy Process matrix with an explicit consistency check; a Tool-Tier Selection modul",
-    "link": "http://arxiv.org/abs/2609.09137v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09135v1",
-    "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
-    "authors": [
-      "Jiacheng Xu",
-      "Feng Chen",
-      "Xiuneng Xu",
-      "Bo An"
-    ],
-    "summary": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs cannot be compared by surface form and therefore do not directly provide a usable training signal. To make TTRL applicable to code generation, we propose probe-driven TTRL, which constructs output-free probe inputs from the problem statement, executes candidate programs on these probes, and defines a Probe Consensus Reward (PCR) from the resulting behavioral agreement. PCR provides a behavioral training signal for open-vocabulary programs, but it is not a fully reliable verifier and remains susceptible to reward hacking through spurious consensus. We therefore introduce Entrop",
-    "link": "http://arxiv.org/abs/2609.09135v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09134v1",
-    "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-    "authors": [
-      "Zhou Yu",
-      "Bin Bi",
-      "Shiva Kumar Pentyala",
-      "Shubham Mehrotra",
-      "Sougata Chaudhuri",
-      "Shilpa Bhagavath",
-      "Zeyuan Chen",
-      "Ran Xu",
-      "Phil Mui",
-      "James Zhu",
-      "Sitaram Asur"
-    ],
-    "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. Since both the harness and model weights shape behavior, we ask how harness evolution and lightweight fine-tuning should be combined. Across seven enterprise agent tasks, we first evolve a harness with the weaker model, then find that a stronger expert often uses it more effectively, suggesting expert supervision could close the remaining gap. However, training the weaker model on the expert's complete trajectories under the evolved harness backfires: performance regresses on all seven tasks by 4",
-    "link": "http://arxiv.org/abs/2609.09134v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09133v1",
-    "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
-    "authors": [
-      "Leitian Tao",
-      "Baolin Peng",
-      "Haorui Wang",
-      "Hang Wang",
-      "Hao Cheng",
-      "Wenlin Yao",
-      "Qianhui Wu",
-      "Tao Ge",
-      "Sharon Li",
-      "Jianfeng Gao"
-    ],
-    "summary": "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral targets; when the same trajectory writes both the patch and the test, their errors can agree and create false confidence. We introduce ExecCritic, combining a test--verify--revise scaffold with a role-specific reinforcement learning recipe for training agents within it. The scaffold separates test construction from source-code repair: a Test agent independently generates repository-native tests, a fail-closed harness qualifies and freezes them, and a Repair agent revises source code from their execution feedback without changing the tests. Both roles use Qwen-3.5-35B-A3B as the ",
-    "link": "http://arxiv.org/abs/2609.09133v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.AI",
       "cs.CL",
-      "cs.SE"
+      "cs.MM"
     ]
   },
   {
-    "id": "arxiv-2609.09130v1",
-    "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+    "id": "arxiv-2609.10350v1",
+    "title": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
     "authors": [
-      "Xiaoyu Li",
-      "Zhizhou Sha",
-      "Jiaojiao Jiang",
-      "Junbin Gao",
-      "Andi Han"
+      "Alex Leytes"
     ],
-    "summary": "An input may activate few hidden units even when different inputs collectively use an entire network. We study the statistical complexity of this input-dependent sparsity in the one-hidden-layer ReLU model of Awasthi et al. (COLT 2024). For width $s$, at most $k$ active units per input, and effective weight and bias bounds $W,B$, every size-$m$ sample in the class's fixed radius-$R$ input domain satisfies $\\mathcal{R}(S)\\le CWR\\min\\{k,\\sqrt{sk/m}\\log^{3/2}(2m)\\}+kB/\\sqrt m$. A support-preserving cover and a single normalized chaining argument remove the previous explicit dimension factor, up to logarithms. Lower bounds on appropriate i.i.d. marginals match up to those logarithms, showing how changing active units across inputs retains a width dependence. The input domain matters: zero-bias",
-    "link": "http://arxiv.org/abs/2609.09130v1",
-    "publishedAt": "2026-09-08",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2609.09126v1",
-    "title": "A Generalization of Amari's Bayesian Duality",
-    "authors": [
-      "Mohammad Emtiyaz Khan",
-      "Thomas Möllenhoff"
-    ],
-    "summary": "Amari's contributions to information geometry and machine learning are well known. Here, we revisit Amari's work on Bayesian duality which has not received as much attention. We connect Amari's Bayesian duality to a convex duality of Bayes' rule. Using this connection, we present a generalization of Amari's Bayesian duality and discuss its relevance for modern artificial intelligence.",
-    "link": "http://arxiv.org/abs/2609.09126v1",
-    "publishedAt": "2026-09-08",
+    "summary": "The banking system now depends on a small set of shared artificial intelligence vendors for fraud screening, credit decisioning, anti-money-laundering triage, customer analytics, and internal decision support. This paper studies how a compromise inside one of those vendors can propagate along a chain of operational, informational, and financial linkages until it triggers losses that look, from the outside, like a classical banking crisis. We build a four-layer heterogeneous network that couples AI vendors, financial institutions, interbank exposures, and customer accounts, and we propose CFC-Prop, a stochastic epidemic-and-clearing model that runs on that network. On a synthetic dataset with 60 vendors, 220 banks, roughly 2,500 vendor-bank service edges, and 1,400 interbank exposures, CFC-",
+    "link": "http://arxiv.org/abs/2609.10350v1",
+    "publishedAt": "2026-09-09",
     "categories": [
       "cs.AI",
-      "cs.LG",
-      "stat.ML"
+      "cs.CY",
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.09124v1",
-    "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+    "id": "arxiv-2609.10346v1",
+    "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
     "authors": [
-      "Xiaofu Chen",
-      "Stella Frank",
-      "Yova Kementchedjhieva"
+      "Haiji Liang",
+      "Pengfei Zhou",
+      "Zhenglin Wan",
+      "Wei Wang",
+      "Yang You",
+      "Wangbo Zhao"
     ],
-    "summary": "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use canonical color as a controlled test case to ask whether vision encoders make canonical-color information linearly accessible, even when color is removed from the input image. We construct a dataset of objects with canonical colors, and probe vision encoders for both color and object identity using color and grayscale images. We find that canonical color remains decodable from grayscale images, and is tied to predicted object identity, indicating a conceptual link. Extending this analysis to full VLMs, we find that VLM post-training can have a surprisingly large effect on color decodability in ",
-    "link": "http://arxiv.org/abs/2609.09124v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this overhead, they implicitly assume that a single fixed pruning strategy can be applied uniformly across all inputs. Our analysis further reveals that ranking pruning methods by average benchmark accuracy conceals substantial sample-wise complementarity: although the average-best strategy excels overall, alternative strategies prove superior on a significant fraction of individual samples. To harness this diversity, we propose VIP-Router, a lightweight VIsion Pruning Router that adaptively selects the pruning strategy predicted to be best suited to each input at a specified pruning level. Conditioned",
+    "link": "http://arxiv.org/abs/2609.10346v1",
+    "publishedAt": "2026-09-09",
     "categories": [
       "cs.CV",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.09119v1",
-    "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+    "id": "arxiv-2609.10338v1",
+    "title": "TimeCues Studio: A Workspace for Music Annotation and Algorithm Prototyping",
     "authors": [
-      "Yankai Fu",
-      "Ning Chen",
-      "Junkai Zhao",
-      "Heng Zhang",
-      "Guocai Yao",
-      "Pengwei Wang",
-      "Zhongyuan Wang",
-      "Shanghang Zhang"
+      "Sapir Caduri",
+      "Yoav Goldberg"
     ],
-    "summary": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visual occlusions and complex contact dynamics. While recent works have incorporated tactile sensing into robotic manipulation, most approaches still rely on homogeneous multimodal fusion, lacking adaptive tactile integration and explicit modeling of physical dynamics. In this work, we present DeCAL, a physically-grounded dexterous vision-language-action model that unifies understanding, imagination and action generation for contact-rich dexterous manipulation. Built upon a Mixture-of-Transformers (MoT) architecture, DeCAL leverages specialized experts for each capability while enabling efficient inf",
-    "link": "http://arxiv.org/abs/2609.09119v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Multimedia applications require precise music annotation-labeled positions, segments, or loops-placed by hand or algorithmically. Machine-learning algorithms are scalable and effective but need annotated training data, scarce for many tasks. TimeCues Studio is an open-source workspace where algorithm-development teams annotate a music corpus, compare detection algorithms against those annotations, and prototype new ones. Unlike existing tools built for a single track at a time, TimeCues targets teams annotating whole collections, tightly integrated with algorithm development. Annotators place several marker types-each supporting ambiguity-aware labeling-on a grid-locked timeline that visualizes many music features, including separated audio stems. The same timeline drives an algorithm-comp",
+    "link": "http://arxiv.org/abs/2609.10338v1",
+    "publishedAt": "2026-09-09",
     "categories": [
-      "cs.RO",
+      "cs.SD",
+      "cs.HC",
+      "cs.LG",
+      "cs.MM"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10335v1",
+    "title": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
+    "authors": [
+      "Weichen Dai",
+      "Rafael Medeiros Cabral",
+      "Ziyi Shou",
+      "Yan Cao",
+      "Xin Shen",
+      "Dongcai Lu",
+      "Yi Zhou"
+    ],
+    "summary": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Language Model (LLM), when equipped with specialized modules, can rival state-of-the-art LMMs on complex geometry problems. Our framework integrates a Geometric Vision Parser, which translates diagrams into symbolic form, with a Symbolic Solver that performs formal deductions, thereby mitigating hallucinations and promoting interpretable reasoning. To enable rigorous evaluation, we curate a benchmark of challenging problems from the 2025 Chinese Zhongkao examinations, ensuring data novelty and testing",
+    "link": "http://arxiv.org/abs/2609.10335v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10321v1",
+    "title": "On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data",
+    "authors": [
+      "Hongyuan Zhang",
+      "Xianda Guo",
+      "Yanlun Peng",
+      "Qianlong Yang",
+      "Yubin Guo",
+      "Pinhan Fu",
+      "Mulin Chen",
+      "Xiaozhen Qiao",
+      "Ping Luo"
+    ],
+    "summary": "Knowledge distillation offers an efficient route to transfer a task-adapted vision-language teacher to a compact student. The training target in current vision-language distillation methods is typically constructed from the teacher prediction and applied uniformly to all training samples, making it unreliable under class and domain shifts. In this paper, we argue that distillation target construction should be treated as a dynamic training decision rather than a fixed recipe. To this end, we propose OnPoKD, an on-policy distillation framework for vision-language model adaptation. To the best of our knowledge, OnPoKD is the first framework that applies on-policy distillation to vision-language model adaptation by learning target construction as a policy decision. OnPoKD learns a lightweight",
+    "link": "http://arxiv.org/abs/2609.10321v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10315v1",
+    "title": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
+    "authors": [
+      "Rui Sun",
+      "Zhan Shi",
+      "Bing He"
+    ],
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reasoning over complex data lacks this advantage: establishing the true cause of an anomaly often requires costly expert investigation and may remain ambiguous after the fact. We ask whether this asymmetry of verification can instead be engineered. We sample an intervention, inject it into a controlled simulator, and generate the observations it would produce. The hidden intervention provides an oracle label and objective reward, while the agent must still investigate noisy, confounded, and distributed evidence. We instantiate this approach in TRACE, a digital-advertising diagnostic environment with",
+    "link": "http://arxiv.org/abs/2609.10315v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10311v1",
+    "title": "One Loop, Two Gains: Can Active Learning win the Lottery for Free?",
+    "authors": [
+      "Benedikt Tscheschner",
+      "Eduardo Veas",
+      "Marc Masana"
+    ],
+    "summary": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense network. The predominant method for discovering such tickets, iterative magnitude pruning, alternates pruning with full retraining from scratch until convergence over many cycles. Similarly, deep active learning also retrains a model from scratch after each acquisition round as new labels become available. Despite this shared reliance on iterative retraining with a substantial computational overhead, the two paradigms have been studied separately. We observe that the iterative training loop inherent to pool-based active learning already provides the exact computational structure that iterative magn",
+    "link": "http://arxiv.org/abs/2609.10311v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10307v1",
+    "title": "View-Structured Conformal Prediction for 3D Gaussian Splatting",
+    "authors": [
+      "Junzheng Chu",
+      "Bin Pan",
+      "Zhenwei Shi"
+    ],
+    "summary": "3D Gaussian Splatting (3DGS) renders novel views in real time, but an uncertainty heatmap does not certify that a rendered view meets a certain prediction coverage. We treat novel-view synthesis as structured regression and ask that, with probability at least $1-α$, RGB prediction boxes cover at least a $1-β$ fraction of pixels in a new view. We propose View-Structured Conformal Prediction (VSCP). It splits the pre-calibration scale into a spatial shape from the renderer and a transferable view-difficulty factor, which predicts the smallest view-wise multiplier that shape needs. A held-out quantile over views (View-CP) then gives finite-sample validity even when transferring to new scenes. The same factorization makes the analysis exact: a conformity score is the ratio of oracle to predict",
+    "link": "http://arxiv.org/abs/2609.10307v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10305v1",
+    "title": "RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding",
+    "authors": [
+      "Fang Li"
+    ],
+    "summary": "Language models under one million parameters matter for edge deployment, domain adaptation, and reproducible research, yet a two-layer LSTM or Transformer at embedding width d = 128 still spends roughly one third of its capacity on the output matrix W_out in R^(d x |V|). We propose Riemannian Language Models (RiLM), which remove that layer entirely: context unfolds as a trajectory on a Riemannian manifold, and next-token probabilities arise from squared geodesic distance between the current state and vocabulary embeddings. The same embedding map serves input and output -- decoding is geometry. We instantiate the framework on flat R^d (Flat RiLM) and the Poincare ball H^d (HypRiLM) with a shared MLP composition map phi (~290k parameters, d = 128, |V| = 2000). Across five seeds on WikiText-2",
+    "link": "http://arxiv.org/abs/2609.10305v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.CL",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.09116v1",
-    "title": "When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay",
+    "id": "arxiv-2609.10299v1",
+    "title": "A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram",
     "authors": [
-      "Hasan Amin",
-      "Wei-Kai Chang",
-      "Rajiv Khanna"
+      "Alexis D. Plascencia"
     ],
-    "summary": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes. To understand the underlying mechanism, we provide exact analysis of a fully solved normalized regression model where the dynamics reduce to two dimensions and show that the balance point is intrinsically unstable,",
-    "link": "http://arxiv.org/abs/2609.09116v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Sparse autoencoders (SAEs) are increasingly used to recover interpretable features from neural-network activations, yet systematic feature co-occurrence can cause distinct features to be absorbed or merged. The MAIS-O43 open problem proposes a controlled experiment to characterize when recovery of a true synthetic dictionary gives way to feature merging as the nesting fraction $γ$, sparsity penalty $λ$, and dictionary size $M$ vary. We implement the specified protocol and evaluate 200 independently initialized fits across ten of the 165 grid cells. We observe zero full-dictionary recoveries and zero merges. Instead, every run converges to a reproducible diffuse phase: reconstruction is nearly perfect, but learned atoms typically remain far from the true features (median best cosine 0.5-0.7",
+    "link": "http://arxiv.org/abs/2609.10299v1",
+    "publishedAt": "2026-09-09",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.09115v1",
-    "title": "MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents",
+    "id": "arxiv-2609.10298v1",
+    "title": "Learning Intrusion Response Strategies for OT Systems",
     "authors": [
-      "Boyu Yang",
-      "Jiazheng Sun",
-      "Zilong Lu",
-      "Zhi Qiu",
-      "Xin Peng",
-      "Jun Zheng"
+      "Duc Huy Le",
+      "Rolf Stadler"
     ],
-    "summary": "Long horizon Large Language Model (LLM) agents rely on external memory systems to preserve user preferences and task knowledge across extended interactions. Conventional retrieval mechanisms optimize semantic compatibility rather than downstream utility, frequently introducing outdated, misleading, or conflicting evidence into the active context. We present MeClear, a task conditioned memory clearance framework that identifies memories featuring negative downstream utility through cooperative attribution and selectively suppresses them from agent execution. MeClear combines Leave One Out screening with sampled cooperative Shapley attribution to distribute utility across interacting evidence, effectively resolving redundant conflict masking where single removal evaluations fail. Utilizing a",
-    "link": "http://arxiv.org/abs/2609.09115v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Cyberattacks against Operational Technology (OT) systems, which monitor and control industrial processes, pose an increasing threat to essential societal services. For this reason, developing automated intrusion response strategies is highly important. In this paper, we present a formal model of an OT intrusion response use case using the POMDP framework. It includes a realistic model of partial observability that is based on traffic measurements. This approach allows us to develop tractable, learning-based solution methods for automated intrusion response, which are based on PPO. We evaluate the obtained response strategies on an emulated OT system and find that they are effective against several types of MITRE attacks for the studied use case.",
+    "link": "http://arxiv.org/abs/2609.10298v1",
+    "publishedAt": "2026-09-09",
     "categories": [
-      "cs.AI",
-      "cs.SE"
+      "cs.CR",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.09113v1",
-    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "id": "arxiv-2609.10296v1",
+    "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
     "authors": [
-      "Yuqiao Tan",
-      "Shizhu He",
-      "Jun Zhao",
-      "Kang Liu"
+      "Gilad D. Landau",
+      "Dulhan Jayalath",
+      "Oiwi Parker Jones"
     ],
-    "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to understand what models learn and ensure safe alignment. Mechanistic interpretability tools are essential to bridge this gap, among which Sparse Autoencoders (SAEs) serve as a cornerstone by isolating interpretable features for model inspection and steering. In this paper, we introduce SAEScientist-Bench to evaluate whether AI agents can act as scientists utilizing SAE tools for autonomous mechanistic discovery. Given a target concept, an agent designs contrastive probes and navigates a Gemma Scope dictionary of 131K+ features in Gemma-2-9B-IT to discover the optimal feature, evaluated against c",
-    "link": "http://arxiv.org/abs/2609.09113v1",
-    "publishedAt": "2026-09-08",
+    "summary": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by neuroscientific evidence that high-level semantic representations are distributed across cortical regions and evolve over slower temporal scales, we hypothesize that semantic content may provide a more suitable target for non-invasive decoding than low-level acoustic or lexical features. We introduce Brain2Semantics2Text, a method that reconstructs text through an intermediate semantic embedding space. Our model maps sentence-level MEG responses into a semantic manifold and then inverts the predicted embeddings into natural language. This semantic bottleneck enables recovery of high-level mean",
+    "link": "http://arxiv.org/abs/2609.10296v1",
+    "publishedAt": "2026-09-09",
     "categories": [
-      "cs.AI",
       "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.09099v1",
-    "title": "Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics",
+    "id": "arxiv-2609.10293v1",
+    "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
     "authors": [
-      "Changho Shin",
-      "David Alvarez-Melis"
+      "Chen Qian",
+      "Yimeng Wang",
+      "Yu Chen",
+      "Lingfei Wu",
+      "Andreas Stathopoulos"
     ],
-    "summary": "Curriculum learning is governed by several coupled design choices---how difficulty is defined, how examples are ordered, how much exposure each level receives, and how quickly training moves across levels---making it hard to isolate what actually helps. We present Wasserstein curriculum paths, a simple transport-based framework that decouples these factors by representing curricula as trajectories of training distributions over discrete difficulty levels. Across a calibrated synthetic suite with 12 tasks and 33 difficulty axes, we use this framework to isolate the effects of ordering, matched exposure, endpoint smoothness, and pacing under fixed training budgets. We find that curriculum effects are strongly context-dependent: no single strategy dominates across tasks, difficulty axes, and ",
-    "link": "http://arxiv.org/abs/2609.09099v1",
-    "publishedAt": "2026-09-08",
+    "summary": "In high-stakes domains such as legal practice, a language-model answer is only useful to the extent that a reader can verify each claim against the source the system cites. Current grounded-generation pipelines score the answer as a whole, so a correct conclusion can rest on fabricated or loosely matched citations and still score well. Closing this gap requires both a system built for per-claim verification and an evaluation that measures it. We introduce GANDR (Grounded ANswer DRafter), a two-agent system in which a Drafter writes an answer in a structured legal-reasoning format and a separate Critic, with the same view as a human verifier, audits each claim against its cited source and emits a per-claim audit trace on every round. We pair it with a strict correctness criterion requiring ",
+    "link": "http://arxiv.org/abs/2609.10293v1",
+    "publishedAt": "2026-09-09",
     "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10287v1",
+    "title": "Training Trajectories Determine Circuit Removability in Annealable Soft-Prior Transformers",
+    "authors": [
+      "Zonglin Yang",
+      "Ziming Zhao",
+      "Wei Tang",
+      "Xunyu Jiang",
+      "Yihong Liu",
+      "Tailin Chen",
+      "Zifu Yu",
+      "Jiayu Liu"
+    ],
+    "summary": "Soft positional priors can help small Transformers learn retrieval circuits, but it is unclear whether the resulting circuits remain functional once the prior is removed. We test this with an annealable soft-prior Transformer whose attention biases can be learned, faded, or zeroed during training and evaluation. On associative recall, unforced models perform well with the prior active ($0.772 \\pm 0.020$) but collapse at zero gate ($0.095 \\pm 0.009$). Smooth fade-to-zero training preserves high zero-gate accuracy ($0.734 \\pm 0.028$), whereas forced-zero training, hard switching, and post hoc continuation fail to recover the same effect. The pattern also appears on Markov induction. Linear regression ICL provides a boundary case because zero-gate training can learn that task directly. Mechan",
+    "link": "http://arxiv.org/abs/2609.10287v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.LG",
+      "cs.NE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10276v1",
+    "title": "Structural Fusion of Bayesian Networks with Limited Treewidth Using Genetic Algorithms",
+    "authors": [
+      "Pablo Torrijos",
+      "José A. Gámez",
+      "José M. Puerta"
+    ],
+    "summary": "This paper introduces an evolutionary computation approach for consensus in structural Bayesian Network (BN) fusion under the constraint of limited treewidth. The consensus BN aims to reconcile multiple input BNs into a single one that retains key structural features present in the original networks. Treewidth, a graph-based parameter associated with computationally tractable inference, is utilized to restrict the complexity of the resulting network. A genetic algorithm is proposed to look for a BN that codifies as much information about the unrestricted fusion as possible while ensuring the treewidth restriction. Experimental evaluation demonstrates the genetic algorithm's ability to obtain consensus BNs with limited treewidth, providing a valuable tool for aggregating information from di",
+    "link": "http://arxiv.org/abs/2609.10276v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.NE",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10266v1",
+    "title": "KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints",
+    "authors": [
+      "Xi Shi",
+      "Qian Lou"
+    ],
+    "summary": "LLM serving systems already reuse KV caches, but only when the reused text sits at the very start of the prompt. Two growing workloads break this condition: a retrieval-augmented generation server assembles a different set of retrieved chunks for every query, and a multi-agent coordinator reads reports written by other agents. Reused inside a new prompt, a cache carries the wrong positions and never attended to the other sources. The cache may also have been written by a different checkpoint of the same model family, which changes the stored values. Repair methods for such caches have appeared in three separate communities, each measured on its own terms, and existing benchmarks test only exact-prefix reuse, where nothing is lost. KVShareArena benchmarks KV-cache reuse across prompt contex",
+    "link": "http://arxiv.org/abs/2609.10266v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.10264v1",
+    "title": "Maverick: Private and Verifiable LLM Inference Made Practical via Matrix-Vector Multiplication Delegation",
+    "authors": [
+      "Ben Merbaum",
+      "Mohammad Amin Raeisi",
+      "Wenhao Wang",
+      "Charalampos Papamanthou",
+      "Katerina Sotiraki",
+      "Fan Zhang"
+    ],
+    "summary": "Open-source large language models (LLMs) are increasingly competitive with closed-source models while offering transparency and the ability to run inference without exposing user inputs to a service provider. However, running large-scale models locally requires substantial computational resources. In practice, users may still resort to a third-party provider, giving rise to privacy and correctness concerns. Existing solutions that address these problems often impose substantial server overhead or introduce additional trust assumptions. In this paper, we present Maverick, a novel approach to private and verifiable LLM inference based on a protocol for delegating matrix-vector multiplication, a dominant operation in LLMs. At its core, Maverick provides, to our knowledge, the first informatio",
+    "link": "http://arxiv.org/abs/2609.10264v1",
+    "publishedAt": "2026-09-09",
+    "categories": [
+      "cs.CR",
       "cs.LG"
     ]
   }
 ];
 
 export const generatedJobs: JobPosting[] = [
-  {
-    "id": "job-remoteok-1137339",
-    "title": "General Practitioner Cairns",
-    "company": "Ausdocs Holdings Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Ausdocs Group , has medical clinics in Cairns that are providing local families with high quality medical care",
-      "If you're an AHPRA registered General Practitioner , we would love to speak with you about local opportunities we have available to meet patient demand",
-      "What we can offer you",
-      "Flexibility"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Cairns, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339",
-    "postedAt": "2026-09-08",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137340",
-    "title": "Maintenance Specialist",
-    "company": "Kapsch Group",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Kapsch is one of Austria's most successful global technology companies"
-    ],
-    "skills": [],
-    "location": "Sydney, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340",
-    "postedAt": "2026-09-07",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137344",
-    "title": "RETAIL STORE MANAGER TAMWORTH",
-    "company": "Spendless Shoes",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Love Shoes, Love Fashion, Love People Join Australia's most successful footwear retailer Earn up to $9000 Incentive scheme Opportunity for Career progression Tu"
-    ],
-    "skills": [],
-    "location": "Tamworth, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344",
-    "postedAt": "2026-09-06",
-    "isNew": true
-  },
   {
     "id": "job-remoteok-1137309",
     "title": "AI Response Analyst",
@@ -825,111 +753,6 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
     "postedAt": "2026-09-06",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137322",
-    "title": "Air Traffic Engineering Technician",
-    "company": "Bermuda Airport Authority",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "The Bermuda Airport Authority is responsible for delivering a range of essential air navigation services at the L.F",
-      "Wade International Airport including air traffic control, ground electronics, meteorological and aeronautical information services",
-      "On behalf of the Government of Bermuda, the Authori"
-    ],
-    "skills": [],
-    "location": "Saint George's Parish, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-air-traffic-engineering-technician-bermuda-airport-authority-1137322",
-    "postedAt": "2026-09-04",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137273",
-    "title": "Multi Skilled Maintenance Technician",
-    "company": "Sigma",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Maintenance Technicians - Why You Should Apply £45,500: Shift allowance and a small amount of guaranteed overtime are already included in the figure",
-      "No Saturday Working: The three-shift rota leaves every Saturday free",
-      "Two Sundays in three are yours too, with the third starting at 10pm on your nigh"
-    ],
-    "skills": [],
-    "location": "Newport, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273",
-    "postedAt": "2026-09-02",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137277",
-    "title": "Detailer",
-    "company": "Go Auto",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Description Detailer — Southtown Hyundai Some people clean cars",
-      "Real detailers take pride in making a vehicle look better than the day it rolled off the lot",
-      "Southtown Hyundai is hiring Detailers, and we’re looking for people who actually care about the finished product",
-      "The kind of person who"
-    ],
-    "skills": [],
-    "location": "Edmonton, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
-    "postedAt": "2026-09-01",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137278",
-    "title": "Vehicle Detailer",
-    "company": "Clutch",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About Clutch At Clutch, we are reinventing the way Canadians buy and own cars",
-      "We had enough of traditional dealerships that took advantage of customers and knew that we could build an incredible car-buying experience while leaving a positive impact on the communities we serve",
-      "Clutch is looking for"
-    ],
-    "skills": [
-      "RAG"
-    ],
-    "location": "Etobicoke, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
-    "postedAt": "2026-09-01",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137257",
-    "title": "Maintenance Technician 40hrs week",
-    "company": "Delta Hotels by Marriott Edinburgh",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "At Delta Hotels by Marriott, we like to keep things simple and get them done right",
-      "We’re a busy, friendly team, and we’re looking for a handy, reliable Maintenance Team Member to help us keep the hotel looking sharp and running smoothly",
-      "We are looking for a highly motivated person with real \"can d"
-    ],
-    "skills": [],
-    "location": "Edinburgh, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
-    "postedAt": "2026-09-01",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137283",
-    "title": "Rural and Suburban Mail Carrier",
-    "company": "Canada Post / Postes Canada",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Job Requisition Id: 203143 Business Function: Rural and Suburban Mail Carriers Primary City: Blind River Province: Ontario Employment Type: Full-Time Employment"
-    ],
-    "skills": [
-      "AWS"
-    ],
-    "location": "Blind River, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283",
-    "postedAt": "2026-08-31",
-    "isNew": false
   },
   {
     "id": "job-remoteok-1137224",
@@ -950,73 +773,223 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137254",
-    "title": "Airport Ground Staff Customer Service Associate",
-    "company": "Fronix Services",
+    "id": "job-remoteok-1137169",
+    "title": "Programmatic Campaign Operations Specialist Trader",
+    "company": "VirtuHire",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Contact Us 7082570898 We are Hiring for Airport Ground Staff / Customer Service Associate for Leading Airlines @ IGI Thiruvananthapuram Airport for Both Males a"
+      "Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S"
     ],
     "skills": [],
-    "location": "Thiruvananthapuram, ",
+    "location": "Remote",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
-    "postedAt": "2026-08-30",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
+    "postedAt": "2026-08-27",
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137219",
-    "title": "Customer Service Agent",
-    "company": "Thrifty Car and Van Rental",
+    "id": "job-remoteok-1137155",
+    "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
+    "company": "Tessera Labs",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Job Title: Customer Service Agent Location: Exeter Head Office - Full Time Hours: 40 hours Monday-Friday + Saturday shift rota Benefits: 22 days holiday, increa"
+      "Oracle Fusion Cloud Lead — Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting e"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+    "postedAt": "2026-08-27",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1137139",
+    "title": "Course Director UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You've been designing long enough to have watched tools become essential and then disappear"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
+    "postedAt": "2026-08-26",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1137138",
+    "title": "Education Designer UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You're a designer who has facilitated workshops or built online courses, and you noticed that Â you loved it and that you were unusually good at it",
+      "You know how to make complex skills easy to learn, and how to guide people in applying their new skills",
+      "As one of our Education Designers, you'll str"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+    "postedAt": "2026-08-26",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1137136",
+    "title": "Course Writer and Editor UX UI and AI",
+    "company": "Interaction Design Foundation",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You're the one people trust with the words, whether you're writing them or fixing them",
+      "You noticed thatÂ you loved it, and that you were unusually good at it",
+      "You turn rough, complex ideas into words people understand",
+      "Now you get the opportunity to work with some of the most respected designers a"
+    ],
+    "skills": [
+      "LLM",
+      "RAG"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
+    "postedAt": "2026-08-26",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1137114",
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Remote - Most sales tools help you send emails",
+      "Please mention the word **EMPATHY**"
     ],
     "skills": [
       "Agent"
     ],
-    "location": "Exeter, ",
+    "location": "Remote",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
-    "postedAt": "2026-08-30",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "postedAt": "2026-08-25",
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137212",
-    "title": "Building Maintenance Technician",
-    "company": "Dart",
+    "id": "job-remoteok-1137073",
+    "title": "Retail Store Associate",
+    "company": "Rowan",
     "category": "hybrid_ai",
     "responsibilities": [
-      "The successful candidate will be responsible for the inspection, maintenance, troubleshooting"
+      "About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location",
+      "You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine and enthusiastic manne"
     ],
     "skills": [
-      "RAG"
+      "RAG",
+      "AWS"
     ],
-    "location": "George Town, ",
+    "location": "Chicago, IL",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212",
-    "postedAt": "2026-08-28",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+    "postedAt": "2026-08-22",
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137271",
-    "title": "Captains Capitanes",
-    "company": "Copa Airlines",
+    "id": "job-remoteok-1136670",
+    "title": "Engineering Manager Thailand",
+    "company": "Bjak ",
     "category": "hybrid_ai",
     "responsibilities": [
-      "We are seeking B737 Captains who share our commitment to safety and customer service, our Captains are passionate leaders driving results and encouraging a teamwork environment",
-      "This position will be based in Panama",
-      "Requirements Airline Transport Pilot (ATP) license Medical Certificate: current unr"
+      "About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+      "In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region",
+      "Today, it's the leading insurance platform in Southeast Asia",
+      "Today, we are expan"
+    ],
+    "skills": [],
+    "location": "Bangkok",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+    "postedAt": "2026-08-14",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1136602",
+    "title": "Jenni AI",
+    "company": "AI Supermarket",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
+      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
+      "Used by aspiring and experienced trader"
     ],
     "skills": [
-      "RAG"
+      "OpenAI"
     ],
-    "location": "Panamá, ",
+    "location": "Research, ",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-captains-capitanes-copa-airlines-1137271",
-    "postedAt": "2026-08-28",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+    "postedAt": "2026-08-11",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1136388",
+    "title": "Aragon AI",
+    "company": "AI Supermarket",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free",
+      "Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward",
+      "Used by aspiring and experienced trader"
+    ],
+    "skills": [
+      "RAG",
+      "OpenAI"
+    ],
+    "location": "Good Design, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
+    "postedAt": "2026-08-11",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1136216",
+    "title": "Market Research",
+    "company": "GROW10X",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Company Description GROW10X is a leading full-service agency specializing in helping B2B SaaS technology companies accelerate revenue growth through outbound lead generation",
+      "Utilizing a combination of cutting-edge technology, expert strategies, on-demand data, and a globally distributed team, GROW1"
+    ],
+    "skills": [],
+    "location": "Chennai, Chennai, Tamil Nadu, India",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216",
+    "postedAt": "2026-08-04",
+    "isNew": false
+  },
+  {
+    "id": "job-remoteok-1135745",
+    "title": "Regional General Manager Airports",
+    "company": "WestJet",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Why WestJet Since our story took off in 1996, WestJet has strived to enrich the lives of everyone in our world; a career with us is no exception",
+      "We’re proud to be one of Canada’s most admired and respected corporate cultures and continuously aim for the highest standards of service and success"
+    ],
+    "skills": [
+      "RAG",
+      "Agent"
+    ],
+    "location": "Mississauga, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
+    "postedAt": "2026-07-31",
     "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-09T20:21:01.824Z';
+export const dataFetchedAt = '2026-09-10T02:55:18.091Z';
