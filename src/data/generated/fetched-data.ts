@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-8217-s-ai-agent-muse-is-now-the-no-2-app-in-the-us-1789069804000",
-    "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "id": "news-thrive-capital-led-vcs-into-pro-sports-ownership-collaborati-1789079400000",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -27,22 +27,88 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-25-years-later-how-9-11-changed-hr-1789062046000",
-    "title": "25 years later, how 9/11 changed HR",
-    "link": "https://hrexecutive.com/25-years-later-how-911-changed-hr/",
-    "summary": "The terrorist attacks happened as the HR Tech conference was getting underway in 2001. Former and current staffers share their experiences. The post 25 years later, how 9/11 changed HR appeared first on HR Executive .",
+    "id": "news-this-week-in-5-numbers-tech-employment-grew-in-august-despit-1789071840000",
+    "title": "This week in 5 numbers: Tech employment grew in August, despite layoffs",
+    "link": "https://www.hrdive.com/news/this-week-in-5-numbers-tech-employment-grew-in-august-despite-layoffs/830097/",
+    "summary": "Here&rsquo;s a roundup of numbers from the past week &mdash; including what percentage of workers may become attention-seeking or have difficulty sharing the spotlight under pressure.",
     "publishedAt": "2026-09-10",
-    "source": "HR Executive",
+    "source": "HR Dive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "workforce"
     ]
   },
   {
-    "id": "news-8-stories-on-the-healthcare-affordability-crunch-1789053840000",
-    "title": "8 stories on the healthcare affordability crunch",
-    "link": "https://www.hrdive.com/news/8-stories-on-the-healthcare-affordability-crunch/829533/",
-    "summary": "A vice president at the Business Group on Health recently said employers are at &ldquo;an inflection point.&rdquo;",
+    "id": "news-runninghub-minimax-h3-12-1789088101000",
+    "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+    "link": "https://www.qbitai.com/2026/09/487055.html",
+    "summary": "15秒视频，50秒出片",
+    "publishedAt": "2026-09-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-110-1789093617000",
+    "title": " 油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=股债双杀 ",
+    "link": "https://www.huxiu.com/article/4890305.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：董静，原文标题：《油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=股债双杀！》 多重利空同步引爆，美国金融市场遭遇罕见冲击。 油价飙升至四个月高位、财政部债券回购操作令市场大失所望、特朗普豪掷逾万亿美元\"派钱\"承诺——三重压力叠加，美债收益率全线急升，30年期美债收益率触及19年新高，10年期收益率逼近5%关键心理关口，股市同步下挫，上演\"股债双杀\"。 周四，美债市场遭遇多重打击。布伦特原油结算价单日暴涨6.3%至每桶107.63美元，盘后进一步升至109美元。 华尔街见闻文章写道，周四公布的数据显示，美国生产者价格指数（PPI）同比升至5.4%，高于预期；财政部长Scott Bessent主导的债券回购操作未能达到60亿美元上限，实际购入仅52亿美元，令市场对其稳定长端利率的能力产生严重质疑。 与此同时，华尔街见闻文章提及，据CCTV国际时讯，当地时间9月9日，美国总统特朗普在达拉斯出席共和党中期选举大会时说，如果共和党人在中期选举中成功获得美国国会参众两院的多数席位，他承诺向所有美国成年人发放5000美元。 据多家媒体测算，方案总成本约1.2万亿至1.3万亿美元，远超关税年均约1900亿美元的收入规模，或加剧债务与通胀压力。 市场反应迅速而剧烈。30年期美债收益率单日跳升8个基点至5.37%，创2007年以来最高；10年期收益率攀升1",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-gpu-1789094197000",
+    "title": "燧原上市：国产GPU的硬仗，在第二个大客户里",
+    "link": "https://www.tmtpost.com/8136289.html",
+    "summary": "收入经不经得起细看、产能跟不跟得上？",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-powering-ai-is-an-architecture-problem-1789038000000",
+    "title": "Powering AI is an architecture problem",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70--1789077119000",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-korn-ferry-leaders-have-to-rethink-how-work-gets-done-1789071840000",
+    "title": "Korn Ferry: Leaders have to rethink how work gets done",
+    "link": "https://www.hrdive.com/news/korn-ferry-2026-workplace-insights-productivity/830090/",
+    "summary": "High activity does not mean high productivity, consultants for the firm said.",
     "publishedAt": "2026-09-10",
     "source": "HR Dive",
     "tags": [
@@ -66,105 +132,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789056302000",
-    "title": " 迎接被深度“去权”的未来：你已不再是地球上最聪明的存在了 ",
-    "link": "https://www.huxiu.com/article/4890252.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 一、房间里最聪明的人，已经被AI吓坏了 9月6日，OpenAI首席科学家雅库布·帕霍基（Jakub Pachocki）发表了一篇文章，标题只有三个词：《An Alien Mind》，一种异类心智。 这个标题更像一句供词。他写道，AI“更多是生长出来的，而非设计出来的”，大规模训练的结果连创造者也会感到意外。按照OpenAI的内部结果，能力增长可能延伸到递归自我改进。他最后承认，目前没有一家实验室把对齐和监控解决到足以长期负责任地全速扩张的程度。 同一周，Anthropic的预训练研究员雅各布·考克森（Jacob Coxon）辞职。他转述同事的判断：未来一两年是人类的“决胜时刻”。随后，Anthropic负责AI对齐研究的埃文·胡宾格（Evan Hubinger）估计，未来十年AI导致全人类灭绝的概率超过10%。 10%只是个人预测。硅谷也有动机把自己包装成危险技术的唯一看护者。但这次拉响警报的，是造模型的人、负责给模型装刹车的人，以及最后选择离开的人。你可以不接受他们的概率，却很难再把AI威胁当成圈外人的科幻想象。 这也让奥特曼此前的一段对话，突然有了新的分量。 山姆·奥特曼去年接受了《金融时报》的一次专访，当时chatgpt-o3模型刚刚发布。在访谈的最后，记者问他，“在（未来）这个人类不再最聪明的世界中，他是否感到威胁",
-    "publishedAt": "2026-09-10",
+    "id": "news-agi-ai-1789093493000",
+    "title": " 当硅谷狂炒AGI末日，李飞飞可能是最不怕AI的那一个 ",
+    "link": "https://www.huxiu.com/article/4890302.html?f=rss",
+    "summary": "本文来自微信公众号： 思策智库 ，作者：张自炯 今天，聊聊8月20“AI教母”李飞飞接受彭博士采访的事儿。 2006年，李飞飞在普林斯顿一间不算宽敞的办公室里，跟学生说了一句当时听起来有点“反算法”的话：计算机视觉的瓶颈不在模型，在数据。那时主流圈子里大家都在调特征、改分类器，谁要提“给机器喂1400万张图、两万多个类别”，大概率被当成外行。 她后来真把这个数据库做出来了——ImageNet，1419万张图，21841个WordNet层级类别，靠Amazon Mechanical Turk众包标注。2012年，辛顿团队的AlexNet在这个库上把Top-5错误率从将近28%砸到15.3%，深度学习从此出圈。 这是技术史里少有的干净拐点：不是某句宣言改变了行业，是1400万张被认真标过的图片，把“机器能不能看懂世界”从哲学问题拽成了工程问题。 但有意思的是，机器越看得清，人越看不清自己该怎么跟机器相处。李飞飞8月20日接受彭博社采访时，并没有甩出新模型跑分，倒是先把账算到了硅谷自己头上：一边喊“人类灭绝”“AGI统治人类”，一边把算力、数据、方向锁在少数人手里。 是的，公众怕的不是算法，是这种叙事和权力叠在一起。 李飞飞接受《The Circuit》采访图源：彭博社 从1400万张图到3D世界：她把“看”往前推了一格 ImageNet解决的是“这是什么”——一张图进来，机器告诉你里面",
+    "publishedAt": "2026-09-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1789046397000",
-    "title": "AI无限拉低创作门槛，内容平台怎么讲新故事",
-    "link": "https://www.tmtpost.com/8135602.html",
-    "summary": "AI让想法到产品的距离缩短近乎为零，也催生出新型创作者Builder（建造者）。他们既非传统开发者，也非传统内容创作者，而是把想法做出来，并且把过程公开的人。B站正试图把他们的“创造力”变成一门可以计价的生意。",
-    "publishedAt": "2026-09-10",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-powering-ai-is-an-architecture-problem-1789038000000",
-    "title": "Powering AI is an architecture problem",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
       "ai",
-      "technology"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-proxima-fusion-bets-140m-on-a-critical-fusion-ingredient-dom-1789065480000",
-    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-    "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-for-women-in-the-workforce-can-ai-be-the-great-equalizer-1789043444000",
-    "title": "For women in the workforce, can AI be the ‘great equalizer’?",
-    "link": "https://hrexecutive.com/for-women-in-the-workforce-can-ai-be-the-great-equalizer/",
-    "summary": "The new AI Leadership Council looks to uncover data about AI and women, and offer practical frameworks that can open up opportunities for women in the workforce. The post For women in the workforce, can AI be the ‘great equalizer’? appeared first on HR Executive .",
-    "publishedAt": "2026-09-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-hr-says-its-job-demands-have-grown-but-without-needed-suppor-1789051980000",
-    "title": "HR says its job demands have grown — but without needed support",
-    "link": "https://www.hrdive.com/news/hr-says-its-job-demands-have-risen-but-without-needed-support/830027/",
-    "summary": "People teams are tasked with driving the conversation at work, but they&rsquo;re not being offered corresponding resources, says Lattice.",
-    "publishedAt": "2026-09-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-3d-abot-earth-0-7-ai-1789028225000",
-    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-    "link": "https://www.qbitai.com/2026/09/486900.html",
-    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-    "publishedAt": "2026-09-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-4-0-1789046087000",
-    "title": "九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代",
-    "link": "https://www.tmtpost.com/8135640.html",
-    "summary": "从股道领航到股道智航，变的是技术形态，不变的是“以客户为中心”的初心。",
-    "publishedAt": "2026-09-10",
+    "id": "news-ai-1789094182000",
+    "title": "AI时代，谁在做游戏？",
+    "link": "https://www.tmtpost.com/8136177.html",
+    "summary": "人人皆可做游戏，正在变成现实。",
+    "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -187,36 +174,104 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-makes-it-easier-to-buy-what-you-see-on-prime-video-1789063836000",
-    "title": "Amazon makes it easier to buy what you see on Prime Video",
-    "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-    "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
+    "id": "news-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wa-1789076100000",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-supplemental-health-benefits-boost-employee-retention-1789042511000",
-    "title": "Supplemental health benefits boost employee retention",
-    "link": "https://hrexecutive.com/supplemental-health-benefits-boost-employee-retention/",
-    "summary": "The benefits can also help fill the gaps created by shrinking major medical coverage, insurers say. The post Supplemental health benefits boost employee retention appeared first on HR Executive .",
+    "id": "news-work-in-the-age-of-ai-we-re-all-getting-in-the-waymo-for-the-1789071780000",
+    "title": "Work in the age of AI: ‘We’re all getting in the Waymo for the first time’",
+    "link": "https://www.hrdive.com/news/work-in-the-age-of-ai-were-all-getting-in-the-waymo-for-the-first-time/830088/",
+    "summary": "The artificial intelligence shift &ldquo;will be one of the greatest transformations of our society and our businesses ever,&rdquo; the CEO and co-founder at Salesforce said.&nbsp;",
     "publishedAt": "2026-09-10",
-    "source": "HR Executive",
+    "source": "HR Dive",
     "tags": [
       "hr",
-      "ai-hr"
+      "ai-hr",
+      "workforce",
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-personality-traits-that-drive-success-can-derail-employees-u-1789051980000",
-    "title": "Personality traits that drive success can derail employees under pressure, study finds",
-    "link": "https://www.hrdive.com/news/personality-traits-that-drive-success-can-derail-employees-under-pressure/829966/",
-    "summary": "The goal should be to help workers develop a &ldquo;strategic self-awareness&rdquo; of what triggers their personality &ldquo;derailers,&rdquo; Hogan Assessment said.",
+    "id": "news-3d-abot-earth-0-7-ai-1789028225000",
+    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+    "link": "https://www.qbitai.com/2026/09/486900.html",
+    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+    "publishedAt": "2026-09-10",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1789093489000",
+    "title": " 比尔·盖茨希望AI慢一点：谁来为“慢方案”买单？ ",
+    "link": "https://www.huxiu.com/article/4890301.html?f=rss",
+    "summary": "本文来自微信公众号： 思策智库 ，作者：张自炯 如果说之前大家关注的是AI模型和芯片的迭代速度，我认为如今已经到了不得不关注AI风险管控的阶段。 而且，这种管控是系统性的。 2026年9月6日，OpenAI首席科学家发表了题为“An Alien Mind”的长文。文章警告称，AI正逼近“递归自我改进”的门槛，但“没有人准备好应对后果”。他在文中极力呼吁行业主动放缓高风险部署，并做更广泛的干预措施——不仅限于技术方案。 同样，8月26日，比尔·盖茨在他创办的Gates Notes上发了一篇5784字的长文，标题叫“The turbulent AI era is here.The choices we make now are critical.”。 其核心判断是：AI要么成为有史以来最强大的均衡器，要么成为最严重的不公之源，解决AI带来的社会问题，美国和中国需要进行合作。这是他三年来第一次就人工智能发表系统性论述。 这位曾经对技术革命“兴奋程度不亚于互联网和个人电脑普及”的微软创始人，说出了从业以来最克制的一句话：“这是我第一次面对一种新技术，希望它发展得慢一点。” 深入看，盖茨指出的问题与Open AI首席科学家的问题十分相似。可盖茨开出的药方——对AI征税、设立“人类保留”岗位、指望中美像管控核武器一样合作——在现实面前却显得单薄。 如果说首席科学家的论述过于技术派，接下来，我们",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1789093133000",
+    "title": "“扫把星男主”被审判，虐女套路为何不香了？",
+    "link": "https://www.tmtpost.com/8136007.html",
+    "summary": "当深情不再天然等于好男主，观众的评价标准，又发生了怎样的变化？",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-can-the-us-battery-market-untangle-from-china-1789034400000",
+    "title": "Can the US battery market untangle from China?",
+    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+    "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-puts-pro-subscriptions-on-hold-due-to-astra-demand-1789073991000",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-8-stories-on-the-healthcare-affordability-crunch-1789053840000",
+    "title": "8 stories on the healthcare affordability crunch",
+    "link": "https://www.hrdive.com/news/8-stories-on-the-healthcare-affordability-crunch/829533/",
+    "summary": "A vice president at the Business Group on Health recently said employers are at &ldquo;an inflection point.&rdquo;",
     "publishedAt": "2026-09-10",
     "source": "HR Dive",
     "tags": [
@@ -240,11 +295,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xiaomi-presses-huawei-and-apple-in-china-s-crowded-premium-p-1789043403000",
-    "title": "Xiaomi Presses Huawei and Apple in China’s Crowded Premium Phone Market",
-    "link": "https://www.tmtpost.com/8135693.html",
-    "summary": "Xiaomi faces intense competition from Huawei’s domestic strength and Apple’s brand loyalty in China’s smartphone market. Self-developed chips and a new foldable aim to lift its premium presence, yet shipment declines and margin pressure highlight the difficulty of closing the gap with the two leaders.",
-    "publishedAt": "2026-09-10",
+    "id": "news--1789093257000",
+    "title": " 贫困者溢价 ",
+    "link": "https://www.huxiu.com/article/4890299.html?f=rss",
+    "summary": "本文来自微信公众号： caoz的梦呓 ，作者：caoz，题图来自：视觉中国 最近学了个词，叫做贫困者溢价。有点反常识，但也很现实。 很多时候， 富裕人群反而容易享受非常多免费福利，而贫困的人反而要支付更多成本。 比如高铁站或者机场，普通人买瓶水要花钱，饿了吃顿饭要花钱，但是拿着各种高端卡和贵宾卡的可以去贵宾厅享受免费吃喝。 普通人想要约重要客户，安排一次重要约谈，需要去找个咖啡厅消费，但有钱人呢，用各种酒店集团的白金卡，直接把客人拉到酒店行政酒廊，环境高大上，酒水点心全免费。而且，这种待遇对高阶酒店会员来说，并不需要预订昂贵的行政客房。 信用卡消费也是，高端信用卡有大量的积分和里程回馈，相当于日常消费打折，还经常有各种额外的商家促销，但普通人消费就是实打实的支出，甚至因为资金匮乏，还要支付额外分期的利息。 我直播的时候没少提及，讲述自己这些年旅游出行其实花销非常节省，但这里有一个省钱秘诀是别人无法复制的，我这些年海外出行的往来机票，大约一半是信用卡积分兑换出来的，而这些信用卡积分就是日常家庭开支和旅游开支，并没有什么额外骚操作。 还有另一种富有，是时间上的富有，普通人只能在节假日出行，机票酒店价格都是平时的2-3倍，而时间富有的人可以选择错峰出行，随便就可以节省一半以上甚至2/3的费用，而且体验会更好，比如景区排队更少，路上拥堵时间更短，获取服务的效率更高。时间贫困的人，则只能用更",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789093121000",
+    "title": "优地机器人，困在酒店舒适区",
+    "link": "https://www.tmtpost.com/8135803.html",
+    "summary": "空间智能的故事不好讲。",
+    "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -254,10 +322,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-can-the-us-battery-market-untangle-from-china-1789034400000",
-    "title": "Can the US battery market untangle from China?",
-    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-    "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,&#8230;",
+    "id": "news-god-told-them-to-sell-crypto-their-investors-lost-everything-1789030800000",
+    "title": "God told them to sell crypto. Their investors lost everything.",
+    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+    "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a&#8230;",
     "publishedAt": "2026-09-10",
     "source": "MIT Technology Review",
     "tags": [
@@ -266,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-yo-1789062884000",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "id": "news-anthropic-details-distillation-campaigns-from-alibaba-moonsh-1789073850000",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -279,24 +347,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-california-bill-would-ban-ai-tools-that-read-employees-8217--1789041619000",
-    "title": "California bill would ban AI tools that read employees&#8217; emotions",
-    "link": "https://hrexecutive.com/california-bill-would-ban-ai-tools-that-read-employees-emotions/",
-    "summary": "California passed a bill barring employers from using AI to track employee emotions or neural data at work. The post California bill would ban AI tools that read employees&#8217; emotions appeared first on HR Executive .",
+    "id": "news-personality-traits-that-drive-success-can-derail-employees-u-1789051980000",
+    "title": "Personality traits that drive success can derail employees under pressure, study finds",
+    "link": "https://www.hrdive.com/news/personality-traits-that-drive-success-can-derail-employees-under-pressure/829966/",
+    "summary": "The goal should be to help workers develop a &ldquo;strategic self-awareness&rdquo; of what triggers their personality &ldquo;derailers,&rdquo; Hogan Assessment said.",
     "publishedAt": "2026-09-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eeoc-asks-judge-to-assist-in-probe-of-san-francisco-governme-1788986280000",
-    "title": "EEOC asks judge to assist in probe of San Francisco government’s DEI trainings",
-    "link": "https://www.hrdive.com/news/eeoc-asks-judge-to-assist-in-probe-of-san-francisco-governments-dei-traini/829959/",
-    "summary": "The City and County of San Francisco allegedly required attendance of a seminar series featuring &ldquo;derogatory and vitriolic statements&rdquo; about White people and White women.",
-    "publishedAt": "2026-09-09",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -319,11 +374,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789037406000",
-    "title": "无人车拐点：中国供应链降维打击",
-    "link": "https://www.tmtpost.com/8135479.html",
-    "summary": "自动驾驶的竞争，已经从技术验证阶段，进入了制度效率与成本结构的对决。",
-    "publishedAt": "2026-09-10",
+    "id": "news-40-1789093130000",
+    "title": " 40万亿美债，一场”不还钱的游戏“：一口气了解美债 ",
+    "link": "https://www.huxiu.com/article/4890113.html?f=rss",
+    "summary": "本期视频一口气拆解美债核心概念，并用GDP、利息收入等硬核指标，和你一起建立观察框架，看完你会有自己的判断。",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789093106000",
+    "title": "英特尔挥刀：巨头的艰难取舍",
+    "link": "https://www.tmtpost.com/8135988.html",
+    "summary": "瘦身之后，昔日优势还能不能稳住？",
+    "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -331,425 +399,10 @@ export const generatedNews: NewsItem[] = [
       "business",
       "ai"
     ]
-  },
-  {
-    "id": "news-god-told-them-to-sell-crypto-their-investors-lost-everything-1789030800000",
-    "title": "God told them to sell crypto. Their investors lost everything.",
-    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-    "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-india-8217-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-a-1789062300000",
-    "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-building-fair-hiring-under-real-regulation-taught-us-an-1789040702000",
-    "title": "What building fair hiring under real regulation taught us, and why the U.S. is next",
-    "link": "https://hrexecutive.com/what-building-fair-hiring-under-real-regulation-taught-us-and-why-the-u-s-is-next/",
-    "summary": "The EU AI Act does not care where your company is headquartered; companies will have to abide by the rules when it comes to fair hiring. The post What building fair hiring under real regulation taught us, and why the U.S. is next appeared first on HR Executive .",
-    "publishedAt": "2026-09-10",
-    "source": "HR Executive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-schedule-changes-transfers-may-be-retaliation-under-userra-f-1788986160000",
-    "title": "Schedule changes, transfers may be retaliation under USERRA, feds caution",
-    "link": "https://www.hrdive.com/news/userra-retaliation-changes/829958/",
-    "summary": "The warning follows a 2025 amendment that expanded the law&rsquo;s coverage.",
-    "publishedAt": "2026-09-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-agi-chatgpt-images-2-5-1789025139000",
-    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-    "link": "https://www.qbitai.com/2026/09/486684.html",
-    "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-    "publishedAt": "2026-09-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2609.10539v1",
-    "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-    "authors": [
-      "Yiling Ma",
-      "Yilun Zhao",
-      "Sihong Wu",
-      "Manasi Patwardhan",
-      "Arman Cohan"
-    ],
-    "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported resolutions from papers, codebases, issue threads, and reproduction artifacts. We introduce IdeaAMBIG, a benchmark of 660 evidence-grounded instances: 163 real-world gaps from reproducibility reports and GitHub issues, and 497 controlled synthetic gaps injected into codification-ready references. Idea",
-    "link": "http://arxiv.org/abs/2609.10539v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10534v1",
-    "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
-    "authors": [
-      "Phil Assheton"
-    ],
-    "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum average KL-divergence of its $p$-values versus uniform and we argue that it can be expected to have good power when the dimension of the statistic equals the dimension of the parameter. It is able to incorporate prior knowledge about group invariances such as translation and scale. It can discover the one-sample $t$-test almost exactly, outperforms the Welch test in terms of worst-case size over a constrained variance-ratio range and achieves good calibration on partial biserial",
-    "link": "http://arxiv.org/abs/2609.10534v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "stat.ME",
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10529v1",
-    "title": "A positive resolution of the gap-entropy conjecture",
-    "authors": [
-      "P. M. Aronow",
-      "Nathan Kallus",
-      "Patrick Lopatto"
-    ],
-    "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of $H$ contributed by arms with $2^{-(r+1)}<Δ_i\\le2^{-r}$, and let $\\mathrm{Ent}(I)=\\sum_{r:p_r>0} p_r\\log(1/p_r)$. Among all algorithms that identify the optimal arm with probability at least $1-δ$ on every Gaussian instance, the optimal expected number of samples on a given instance, averaged over all permutations of the arm labels, is within absolute constant factors of $H(\\log(1/δ)+\\mathrm{Ent}(I))$. Moreover, there is an algorithm, independent of the instance, whose expected ",
-    "link": "http://arxiv.org/abs/2609.10529v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10525v1",
-    "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-    "authors": [
-      "Xiaoyu Li",
-      "Andi Han",
-      "Jiaojiao Jiang",
-      "Junbin Gao"
-    ],
-    "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large compatible witnesses must be. Positive separation width records the smallest uniform size bound, with two further levels for unbounded finite witnesses and the absence of any compatible finite-witness",
-    "link": "http://arxiv.org/abs/2609.10525v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.FL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10522v1",
-    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-    "authors": [
-      "Yanzhe Chen",
-      "Zechen Bai",
-      "Zhijun Cao",
-      "Wenzheng Zeng",
-      "Kevin Qinghong Lin",
-      "Yiqi Lin",
-      "Guoqiang Liang",
-      "Kevin Yuchen Ma",
-      "Qiming Huang",
-      "Mike Zheng Shou"
-    ],
-    "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few G",
-    "link": "http://arxiv.org/abs/2609.10522v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV",
-      "cs.MM"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10514v1",
-    "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
-    "authors": [
-      "Ashwin Nayak",
-      "Xingyu Zhou"
-    ],
-    "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant success probability requires, and is achievable with, $$ Θ\\left( \\frac{dr}{\\varepsilon^2} \\max\\left\\{1,\\frac r{\\sqrt t}\\right\\} \\right)$$ samples. The lower bound allows the protocol to choose each joint measurement adaptively using all previous classical outcomes; the matching upper bound is nonadaptive. Thus joint measurements on at most $t$ samples improve the complexity of algorithms making single-sample measurements by at most a factor $\\sqrt t$. Further, measuring order $r^2$ samples jointly is ",
-    "link": "http://arxiv.org/abs/2609.10514v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "quant-ph",
-      "cs.DS",
-      "cs.IT",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10505v1",
-    "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
-    "authors": [
-      "Menachem Finkelstein",
-      "Diana Legziel Levy",
-      "Zohar Yakhini",
-      "Sarel Cohen"
-    ],
-    "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Kernel PCA - the strongest unsupervised classical non-linear alternative - at an equal feature budget. The dataset provides 23 financial attributes per client; for an n-qubit circuit we select n of them, encode each as a rotation angle, and read 2n expectation values back out as new features. The motivation for using a quantum circuit is computational: an n-qubit IQP circuit runs in constant depth and encodes feature correlations in a 2^n-dimensional Hilbert space, whereas classical simulation of ",
-    "link": "http://arxiv.org/abs/2609.10505v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "quant-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10495v1",
-    "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
-    "authors": [
-      "Siddharth Gupta",
-      "Jitin Singla"
-    ],
-    "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained referee on the same image. RBQE is evaluated on a standardized 1,223-image external benchmark drawn from four public datasets, using four referee configurations chosen to separate two design axes: referee independence and architectural diversity. Using a common Agreement Dice descriptor, a same-architecture referee differing from the primary model only in random initialization already yields a useful reliability signal (ROC-AUC = 0.923), showing that independent training alone is sufficient. Cross-arc",
-    "link": "http://arxiv.org/abs/2609.10495v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10494v1",
-    "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
-    "authors": [
-      "Blake Stenstrom",
-      "Charangan Vasantharajan",
-      "Brian Sathianathan"
-    ],
-    "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has three parts. A gold-blind capability-binding preflight verifies that a route can execute the evaluation contract before any task reaches it; a reliability-inclusive first-pass scoring rule keeps failure in the score while keeping unsupported capability out; and adjudication is structurally score-blind. We call the protocol IB2 and release its algorithms, classification tables, request contract, and manifest schemas. Its reference instantiation, 128 locked tasks and 987 assertions over document,",
-    "link": "http://arxiv.org/abs/2609.10494v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10490v1",
-    "title": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs",
-    "authors": [
-      "Saurabh Sihag",
-      "Andrea Cavallo",
-      "Elvin Isufi",
-      "Gonzalo Mateos",
-      "Alejandro Ribeiro"
-    ],
-    "summary": "This feature article provides an overview of the theoretical foundations for coVariance neural networks (VNNs), i.e., graph neural networks (GNNs) operating on covariance matrices as graphs. Covariance matrices are ubiquitous across domains, and hence, the deployment of GNNs often leverages graphs of pairwise statistical dependencies. Existing theoretical contributions on GNNs consider abstract graph representations and cannot accommodate the data-driven nuances associated with covariance matrices. This tutorial brings into focus various novel theoretical insights via mathematical analyses of VNNs that have broad signal processing implications, including: (i) a conceptual equivalence between VNNs and principal component analysis (PCA)-based information processing; (ii) refined stability bo",
-    "link": "http://arxiv.org/abs/2609.10490v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "eess.SP"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10487v1",
-    "title": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint qualification",
-    "authors": [
-      "Weifeng Yang"
-    ],
-    "summary": "We construct counterexamples to Rockafellar's sum conjecture in which two maximally monotone operators satisfy the interior-domain condition but their sum is not maximally monotone. We give one counterexample on $c_0$ and another on $\\ell^1$ with its usual norm. We establish a general construction theorem that computes the entire monotone polar of a class of graphs, gives a necessary and sufficient condition for their maximal monotonicity, and shows how a positive rank-one perturbation yields a nonmaximal sum under this condition. We verify the theorem's hypotheses and its maximality criterion on $c_0$, thereby obtaining a counterexample to the conjecture. Furthermore, we construct a bounded linear surjection from $\\ell^1$ onto $c_0$ and use it to obtain the counterexample on $\\ell^1$.",
-    "link": "http://arxiv.org/abs/2609.10487v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "math.FA"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10479v1",
-    "title": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems",
-    "authors": [
-      "Ian C. Guzmán",
-      "Radu Babiceanu",
-      "Berker Peköz"
-    ],
-    "summary": "More Electric Aircraft require fast and reliable monitoring of high-frequency electrical networks, yet most power quality disturbance and fault diagnosis methods are developed for conventional 50 or 60 Hz grids. This work presents a hardware-aware deep learning framework for multiclass detection of electrical faults and power quality disturbances in a 400 Hz aerospace power system. A high-fidelity simulation model inspired by the Boeing 787 electrical architecture generates voltage and current waveforms for 21 normal, disturbance, switching, open-circuit, and short-circuit conditions. Two datasets, each containing 73,500 samples, are formed from one-dimensional time-series signals and short-time Fourier transform time-frequency representations. Signal-processing augmentation, domain random",
-    "link": "http://arxiv.org/abs/2609.10479v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "eess.SP",
-      "cs.LG",
-      "eess.SY"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10464v1",
-    "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
-    "authors": [
-      "Andy Zeyi Liu",
-      "Haoran Sun",
-      "Lucas Baker",
-      "Randall Balestriero",
-      "John Sous"
-    ],
-    "summary": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA (SG-JEPA), which extends the LeWorldModel framework by supplying the parameter governing the physics to the temporal model via action-conditioning and jointly training an encoder and predictor through an autoregressive latent rollout. To evaluate the model's ability to generalize out of distribution, we design dynamical tasks under different gravitational fields that, despite obeying the same physical law, exhibit qualitatively different dynamics, ranging from floating motion in weak gravitation",
-    "link": "http://arxiv.org/abs/2609.10464v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10451v1",
-    "title": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
-    "authors": [
-      "Zixiang Chen",
-      "Yuheng Lu",
-      "Zihao Cheng",
-      "Zeming Liu",
-      "Jizeng Bai",
-      "Ziye Huang",
-      "Zhiyin Lin",
-      "Zihan Li",
-      "Yuhang Guo",
-      "Yunhong Wang",
-      "Haifeng Wang"
-    ],
-    "summary": "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-device, statically defined tasks, thus leaving such cross-device capabilities largely unexamined, resulting in an overly optimistic assessment of agents' readiness for real-world usage. We introduce JarvisGUI, a dynamic benchmark that evaluates GUI agents on cross-device workflows requiring coordinated interaction across heterogeneous platforms, including Android, Windows, and Ubuntu. Specifically, JarvisGUI formulates GUI tasks as input-output transformations under a lightweight type system, which ",
-    "link": "http://arxiv.org/abs/2609.10451v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10445v1",
-    "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-    "authors": [
-      "Mehrnaz Mofakhami",
-      "Ananya Sahu",
-      "Alejandro R. Salamanca",
-      "Daniel D'souza",
-      "Alexandre Berard",
-      "Thomas Euyang",
-      "Marzieh Fadaee",
-      "Julia Kreutzer"
-    ],
-    "summary": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in. This is inaccessible for non-English-speaking users, risks losing the intent of the original question, and forgoes knowledge more readily expressed in the target language. In this work, we advance L2 reasoning, the ability of a model to reason consistently in the language of the user's prompt, thus building an in-language bridge between the prompt and the answer. We approach this problem from a data-centric angle, investigating how to optimize data composition and scheduling in SFT for reasoning generalization. Building Tiny Aya L2-Thinker at 3.35B scale, we a",
-    "link": "http://arxiv.org/abs/2609.10445v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10441v1",
-    "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
-    "authors": [
-      "Hongming Zhang",
-      "Zhaozhen Gu",
-      "Fengshuo Bai",
-      "Ming Hao",
-      "Qingyang Zhang",
-      "Yuanyuan Wang",
-      "Shiyang Tang",
-      "Yanna Wang",
-      "Bo Xu"
-    ],
-    "summary": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-size memory. However, this sequential paradigm suffers from high latency and requires costly reinforcement learning (RL) training, which can lead to overfitting on specific datasets. To overcome these limitations, we propose ConvMem, a training-free, highly parallelizable framework that reformulates long-context reasoning as a hierarchical convolution. Inspired by CNNs, ConvMem treats an LLM prompted with a specific query as a convolutional kernel. This kernel summarizes text segments hierarchica",
-    "link": "http://arxiv.org/abs/2609.10441v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10439v1",
-    "title": "Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs",
-    "authors": [
-      "Ravi Ranjan",
-      "Olivera Kotevska",
-      "Agoritsa Polyzou"
-    ],
-    "summary": "Large Language Models (LLMs) can memorize and reproduce sensitive, copyrighted, or otherwise undesirable training content, creating privacy, safety, and regulatory concerns. Machine unlearning offers a practical alternative to full retraining, but many existing methods apply broad or fixed parameter updates that can degrade utility and remain brittle under deployment changes such as post-training quantization, where forgotten knowledge may partially re-emerge. We propose Forgetting Only What Matters via Unlearning Layers (FOM-UL), a layer-level unlearning framework that selects transformer layers using a forget-to-retain significance score. This score identifies layers with high influence on the forget set and low sensitivity to the retain set, allowing FOM-UL to concentrate updates where ",
-    "link": "http://arxiv.org/abs/2609.10439v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10434v1",
-    "title": "Do speech foundation models really learn words?",
-    "authors": [
-      "Robin Huo",
-      "Ewan Dunbar"
-    ],
-    "summary": "Self-supervised speech foundation models are now used in a wide array of downstream applications, including traditional speech recognition and as the basis for tokens in speech-aware language models. Attempts to understand their usefulness have largely focused on probing their representations' ability to discriminate phonemes and words. However, discriminative ability for words need not imply specialized representation of words per se. Good discrimination of words may be explained by good encoding of word form (phonemes) rather than form-independent word representations encoding identity or syntactic/semantic properties. By partialling out phoneme information using residualization, we show that, in later layers, HuBERT and wav2vec 2.0 do in general learn representations which encode words ",
-    "link": "http://arxiv.org/abs/2609.10434v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.CL",
-      "cs.SD"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10433v1",
-    "title": "Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response",
-    "authors": [
-      "Caden Chandra",
-      "Jerry Ng"
-    ],
-    "summary": "This study develops a deep reinforcement learning framework for training Unmanned Aerial Vehicle (UAV) agents to navigate and monitor simulated wildfire environments. Results show that agents learn increasingly stable and effective behaviors over time, as demonstrated by converging loss trends, improved reward signals, and more consistent navigation patterns such as fire-boundary tracking. Overall, these findings highlight the potential of deep reinforcement learning (DRL) based UAV systems for autonomous wildfire monitoring and suggest that environmental structure and reward design influence policy effectiveness.",
-    "link": "http://arxiv.org/abs/2609.10433v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "cs.RO",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.10428v1",
-    "title": "Algorithmic stability via ensembling",
-    "authors": [
-      "Rina Foygel Barber",
-      "Richard J. Samworth"
-    ],
-    "summary": "Algorithmic stability refers to the property of an algorithm being insensitive to perturbations of the input data, where the type of perturbation may vary depending on the setting. In this work, we develop a general framework to quantify the extent to which any ensembling strategy defined via averaging can yield stability guarantees for any type of data perturbation. Our main theoretical result is a guarantee on the stability of this ensembled algorithm, given in terms of the norm of a certain covariance operator that describes the ensembling process. We show how our general framework yields interpretable and intuitive insights in several examples of perturbations of practical interest, and provides much sharper guarantees than those obtained from privacy considerations.",
-    "link": "http://arxiv.org/abs/2609.10428v1",
-    "publishedAt": "2026-09-09",
-    "categories": [
-      "math.ST",
-      "cs.LG"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -945,7 +598,31 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
     "postedAt": "2026-07-31",
     "isNew": false
+  },
+  {
+    "id": "job-remoteok-1135555",
+    "title": "AI Intern",
+    "company": "CertifyOS",
+    "category": "pure_ai",
+    "responsibilities": [
+      "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare",
+      "Today, healthcare organizations rely on fragmented and outdated provider data",
+      "This creates unnecessary administrative work, regulatory risk, and higher costs across the system",
+      "Weâre solving that problem."
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "GCP",
+      "SQL"
+    ],
+    "location": "Pune",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "postedAt": "2026-07-28",
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-10T20:23:16.979Z';
+export const dataFetchedAt = '2026-09-11T02:49:25.525Z';
