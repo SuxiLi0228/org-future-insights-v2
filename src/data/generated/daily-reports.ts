@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-12-auto",
+    "date": "2026-09-12",
+    "session": "auto",
+    "title": "2026-09-12 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-12-auto-1",
+        "emoji": "🚨",
+        "title": "Roundtables: Will AI really kill us all?",
+        "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+        "detail": "来源: MIT Technology Review。Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+      },
+      {
+        "id": "sig-2026-09-12-auto-2",
+        "emoji": "💡",
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+        "detail": "来源: TechCrunch。While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+      },
+      {
+        "id": "sig-2026-09-12-auto-3",
+        "emoji": "💡",
+        "title": "Hemorrhoid pain can be a disability, EEOC argues to court",
+        "summary": "In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
+        "detail": "来源: HR Dive。In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/eeoc-amicus-brief-hemorrhoids-disability/830201/"
+      },
+      {
+        "id": "sig-2026-09-12-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：GPU-CFR: 80x Faster Counterfactual Regret Minimization by Co...",
+        "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil",
+        "detail": "作者: Boning Li, Longbo Huang。Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed game, everything about a CFR iteration except the numerical values is known before the first iteration runs. We propose GPU-CFR, a compiler and runtime built on this observation. It compiles any game once into static dataflow: flat edge and information-set arrays, precomputed indices, and depth-lev",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.11923v1"
+      },
+      {
+        "id": "sig-2026-09-12-auto-5",
+        "emoji": "💼",
+        "title": "iMerit Technology 正在招募 AI Response Analyst",
+        "summary": "岗位类型：业务+AI 复合岗。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts",
+        "detail": "技能要求: 未标注。The work iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit Technology"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit Technology",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-12-1",
+        "priority": "high",
+        "action": "关注「Roundtables: Will AI really kill us all?」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-12-2",
+        "priority": "low",
+        "action": "关注「Kimi-maker Moonshot AI targets $2B in an」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-12-3",
+        "priority": "low",
+        "action": "关注「Hemorrhoid pain can be a disability, EEO」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-12-4",
+        "priority": "medium",
+        "action": "关注「研究速递：GPU-CFR: 80x Faster Counterfactual 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-12-5",
+        "priority": "medium",
+        "action": "关注「iMerit Technology 正在招募 AI Response Analy」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit Technology"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-12 生成，聚合了 28 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-09-12 00:00 - 2026-09-12 23:59"
+  },
+  {
     "id": "report-2026-09-11-auto",
     "date": "2026-09-11",
     "session": "auto",

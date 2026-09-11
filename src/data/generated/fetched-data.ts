@@ -2,49 +2,50 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-biotech-8217-s-future-and-cheaper-cleaner-steel-1789128600000",
-    "title": "The Download: biotech&#8217;s future and cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
+    "id": "news-roundtables-will-ai-really-kill-us-all-1789157106000",
+    "title": "Roundtables: Will AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
     "publishedAt": "2026-09-11",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-matt-mullenweg-tells-automattic-staff-in-slack-he-8217-s-bac-1789139940000",
-    "title": "Matt Mullenweg tells Automattic staff in Slack he&#8217;s back in control after CEO ouster",
-    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+    "id": "news-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-1789155354000",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
-    "id": "news-dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-bu-1789138620000",
-    "title": "DHS proposes end to 60-day H-1B grace period, calling it a ‘burden’",
-    "link": "https://www.hrdive.com/news/dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-burden/830160/",
-    "summary": "The move would leave some workers with no cushion period in which to depart the U.S.&nbsp;",
+    "id": "news-hemorrhoid-pain-can-be-a-disability-eeoc-argues-to-court-1789156260000",
+    "title": "Hemorrhoid pain can be a disability, EEOC argues to court",
+    "link": "https://www.hrdive.com/news/eeoc-amicus-brief-hemorrhoids-disability/830201/",
+    "summary": "In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
     "publishedAt": "2026-09-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-anthropic-320-meta-1789135516000",
-    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-    "link": "https://www.qbitai.com/2026/09/487573.html",
-    "summary": "原来你俩互相下单呢",
+    "id": "news-agent-4200-1789149756000",
+    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+    "link": "https://www.qbitai.com/2026/09/487631.html",
+    "summary": "看清「一个真正的人」",
     "publishedAt": "2026-09-11",
     "source": "量子位",
     "tags": [
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6tb-ai-context-1789141037000",
-    "title": " “中转站6TB”泄露：AI 安全的边界，正在从数据迁到Context ",
-    "link": "https://www.huxiu.com/article/4890596.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《“中转站6TB”泄露：AI 安全的边界，正在从数据迁到 Context》 9月10号，一条“6TB LLM Router数据”说法最近在技术圈流传。 一名安全研究员从一批约6TB的LLM Router数据中，发现了可能用于访问多家机构的高权限凭证，包括密钥、VPN配置、代码托管Token等，仅凭这些凭证足以接管19家头部科技公司（包括华为、小米、蔚来、MiniMax等）以及7个国家级科研/重点机构（如张江实验室、中国科技大学等）的内部系统，合计约26家校企单位。 它把一个长期被忽略的问题掀开了：当企业开始把工作交给Agent，真正聚集风险的地方，已经不只是数据库和云盘，而是Agent此刻正在处理的那一整段Context。 它可能同时装着：代码、日志、用户身份、权限、密钥、内部文档、工具返回结果，以及“下一步准备做什么”。 数据库保存的是企业知道什么。 Context暴露的，是企业此刻正在做什么。 一、中转站为什么能看到这么多东西？ 很多人对Router的理解，仍停留在“帮我转发一下模型请求”。 但只要中转站承担的是API代理，它通常就不只是路由器。 用户到Router之间有HTTPS，Router到模型厂商之间也可能有HTTPS；可为了把请求转发、改写、计费、重试，它必须在中间终止连接、读取JSON，再重新发出去。",
+    "id": "news-ai-1789145099000",
+    "title": " 交付物贬值时代：AI 正在制造一个“能力可观察性”问题 ",
+    "link": "https://www.huxiu.com/article/4890599.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 过去很长一段时间里，企业判断一个人是否有能力，其实并没有想象中那么复杂。工程师交出一段结构清晰、运行稳定的代码，我们会倾向于相信他懂设计、懂实现，也知道如何处理异常；产品经理写出一份逻辑完整的方案，我们会默认他理解业务、用户与约束；咨询顾问在很短时间里拿出一份漂亮的分析报告，我们通常把这种产出视为信息搜集、结构化思考与表达能力共同作用的结果。 代码、文档、PPT、方案、邮件、原型、研究报告，表面上都是工作成果，实际上还承担着另一个更重要的功能。 它们是能力留下来的痕迹。 企业并不能直接看见一个人的理解力、判断力、经验与专业训练，只能通过这些可观察的产出来反推。一个人过去做出了什么，大致能够帮助我们判断，他下一次可能做出什么。这套逻辑过去一直成立，而AI正在改变的，可能正是这层关系。 一、企业过去看到的，从来不只是\"结果\" 假设两个人同时交上来一份非常优秀的技术方案。在过去，我们看到的其实不只是一份方案。一份完整的架构设计背后，通常意味着这个人查阅过资料、理解过需求、比较过不同路径，知道哪些地方存在风险，也知道为什么最终选择这一条路线。方案本身，只是这个思考过程最后被压缩出来的一个结果。 于是企业天然会完成一次隐含推理：能够稳定生产这种结果的人，大概率拥有生产这种结果所需要的能力。这种推理未",
     "publishedAt": "2026-09-11",
     "source": "虎嗅",
     "tags": [
@@ -82,6 +83,86 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-the-download-biotech-8217-s-future-and-cheaper-cleaner-steel-1789128600000",
+    "title": "The Download: biotech&#8217;s future and cheaper, cleaner steel",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
+    "publishedAt": "2026-09-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-roblox-is-making-it-easier-to-build-games-with-ai-and-play-t-1789153200000",
+    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+    "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+    "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+    "publishedAt": "2026-09-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-jury-should-decide-if-university-s-hiring-process-was-tainte-1789156260000",
+    "title": "Jury should decide if university’s hiring process was tainted by diversity goals, court rules",
+    "link": "https://www.hrdive.com/news/jury-should-decide-if-universitys-hiring-process-was-tainted-by-diversity/830177/",
+    "summary": "A White former associate director for Rochester Institute of Technology claimed the university used race-based criteria to select a Black candidate as director instead of promoting her.",
+    "publishedAt": "2026-09-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-anthropic-320-meta-1789135516000",
+    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+    "link": "https://www.qbitai.com/2026/09/487573.html",
+    "summary": "原来你俩互相下单呢",
+    "publishedAt": "2026-09-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1789142760000",
+    "title": " AI 正把文化变成黑暗森林：谁先暴露想法，谁先被狩猎 ",
+    "link": "https://www.huxiu.com/article/4890598.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 刘慈欣在《三体》里提出了著名的黑暗森林理论，大部分人记住的是猎人：每个文明都带枪，猜疑链锁死，谁先暴露谁先死。这个词先是被借用到互联网，现在轮到了知识生产，猎人手里拿的是ai大杀器。 “你为什么要毁掉自己的职业生涯？” 纽约大学数学家特里斯坦·巴克马斯特（Tristan Buckmaster），在一份公开声明提到这句话。按照他的记述，9月6日，当他表示可能公开与OpenAI的争执时，对方是这么回应他的。 一场数学研究的讨论，怎么走到了谈论职业生涯会不会被毁掉的地步？ 事情要从他的合作者说起。莱文特·阿尔珀格（Levent Alpöge）也是数学家，供职于Anthropic，openai的死对头。但两人强调，这是他们的私人合作。他们沿着前人开辟的流体爆破研究路线，借助Claude、Codex等模型工作了近一年。巴克马斯特自己还在用研究经费支付AI工具的账单。 到了8月，他们在带光滑外力的Euler方程等问题上取得了进展，却还没有交出纳维尔－斯托克斯千禧年问题的完整解答。简单说，这一类研究要追问：描述流体运动的方程，在怎样的条件下会出现有限时间内的“爆破”？他们已经登上重要的台阶，也看到了继续向前的方向，但还在把模型生成的证明整理成人能读懂的论文。 这个消息先泄露了出去。 OpenAI后来在自己的公告里承认，9月1日听到了有人",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-lv-hyrox-1789132569000",
+    "title": "LV旗下基金投资Hyrox，下一步将冲击奥运会？",
+    "link": "https://www.tmtpost.com/8135717.html",
+    "summary": "普通健身爱好者与职业精英运动员可同场参赛，成绩全球互通可比，这也是Hyrox与其他体能赛事的根本区别。",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-meet-the-under-35s-shaping-the-future-of-biotech-1789117200000",
     "title": "Meet the under-35s shaping the future of biotech",
     "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
@@ -94,10 +175,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scammers-target-hundreds-of-thousands-of-crypto-owners-after-1789133574000",
-    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-    "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-    "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+    "id": "news-central-eurasia-names-its-2026-road-to-battlefield-winners-c-1789153081000",
+    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+    "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+    "publishedAt": "2026-09-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-bu-1789138620000",
+    "title": "DHS proposes end to 60-day H-1B grace period, calling it a ‘burden’",
+    "link": "https://www.hrdive.com/news/dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-burden/830160/",
+    "summary": "The move would leave some workers with no cushion period in which to depart the U.S.&nbsp;",
+    "publishedAt": "2026-09-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1789135149000",
+    "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+    "link": "https://www.qbitai.com/2026/09/487415.html",
+    "summary": "把开发、交付和接单全打通了",
+    "publishedAt": "2026-09-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-aadp-agent-1789142460000",
+    "title": " AADP 出现之后：AGENT 安全开始把“能做”和“该做”真正分开 ",
+    "link": "https://www.huxiu.com/article/4890597.html?f=rss",
+    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 权限体系解决了一个问题，Agent带来了另一个 过去几十年，计算机安全大体建立在一个稳定的基本问题之上：谁可以访问什么。Identity回答你是谁，Authentication确认这个身份为真，Authorization决定这个身份拥有哪些权限，IAM、RBAC、ABAC、OAuth、API Token与Cloud IAM则把这套原则逐步变成了现代软件基础设施的默认结构。即使后来出现Zero Trust，本质上也仍然是在不断收缩信任半径，让每一次访问接受更严格的验证。这套体系成熟、有效，直到今天依然重要。 但当AI Agent真正进入业务流程之后，一个长期被权限体系掩盖的问题开始暴露出来：一个主体拥有某项能力，并不意味着它此刻产生的每一个具体动作都应该被执行。这两件事过去几乎可以等同，现在却正在迅速分开。最近几周的一系列动作显示，这已经不再只是一个理论判断——安全行业似乎正在同时意识到，Agent带来的变化并不是系统里多了一种新的Identity，而是系统里出现了一种能够持续产生Action的主体。当Action本身成为风险单位，安全体系就必须重新寻找自己的控制点。 一份Internet-Draft选择的问题 2026年8月，一份名为Agent Action Decision Protoc",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1000-1789132537000",
+    "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+    "link": "https://www.tmtpost.com/8135323.html",
+    "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-a-8220-god-driven-8221-cryptocurrency-and-a-sol-1789042200000",
+    "title": "The Download: a &#8220;God-driven&#8221; cryptocurrency and a solar engineering roadmap",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-1789145185000",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -121,85 +281,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789135149000",
-    "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-    "link": "https://www.qbitai.com/2026/09/487415.html",
-    "summary": "把开发、交付和接单全打通了",
-    "publishedAt": "2026-09-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ceo-1789140808000",
-    "title": " 梅卡曼德CEO炮轰银河通用，真相是什么？ ",
-    "link": "https://www.huxiu.com/article/4890595.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 一条朋友圈，戳向具身智能估值泡沫。 定焦One（dingjiaoone）原创 数采循环生意，是具身智能行业一个隐秘、但圈内人尽皆知的现象。 9月10日，梅卡曼德创始人、董事长兼CEO邵天兰在朋友圈接连发文，公开炮轰行业内的“攒局型创业”，某些公司靠数采中心、租赁公司等各种关联交易做出虚假、不可持续的收入，没有PMF，只有各种发布“大新闻”炒作，通过国资绑架地方政府支持，成立两三年就要上市。 “二级市场不是‘风险投资’市场，不应该一级化，上市公司也要承担起更广泛投资者的更大责任。”在邵天兰看来，这是对创新创业生态的巨大破坏，对资本市场健康发展的巨大破坏，也是对国资和健康政商关系的破坏。 事情并未就此打住。在随后一条朋友圈的评论区，他直接点名了银河通用，一家估值超过200亿元、以“具身通用大脑”为核心竞争力的具身智能头部企业，并质疑其虚张声势。 银河通用很快作出反应。9月10日傍晚，其官方微信公众号发布《具身智能是一场长跑，我们只与时间赛跑》。文中并未正面回应邵天兰的质疑，只表示：公司将坚持初心，以具身智能技术为核心、以真实应用落地为长期目标，不参与无谓的口水战，不被短期噪音干扰。我们要做的，是把产品做好、把场景做实、把技术做深。 机器人本体公司把机器人卖给数采中心再回购数据，这在行业内已是较为普遍的合作模式。某国内",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-lv-hyrox-1789132569000",
-    "title": "LV旗下基金投资Hyrox，下一步将冲击奥运会？",
-    "link": "https://www.tmtpost.com/8135717.html",
-    "summary": "普通健身爱好者与职业精英运动员可同场参赛，成绩全球互通可比，这也是Hyrox与其他体能赛事的根本区别。",
-    "publishedAt": "2026-09-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-a-8220-god-driven-8221-cryptocurrency-and-a-sol-1789042200000",
-    "title": "The Download: a &#8220;God-driven&#8221; cryptocurrency and a solar engineering roadmap",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-thrive-capital-led-vcs-into-pro-sports-ownership-collaborati-1789079400000",
-    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-    "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-korn-ferry-leaders-have-to-rethink-how-work-gets-done-1789071840000",
-    "title": "Korn Ferry: Leaders have to rethink how work gets done",
-    "link": "https://www.hrdive.com/news/korn-ferry-2026-workplace-insights-productivity/830090/",
-    "summary": "High activity does not mean high productivity, consultants for the firm said.",
-    "publishedAt": "2026-09-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-ai-1789117168000",
     "title": "不简单，“吃货快乐榜”也全面AI化了",
     "link": "https://www.qbitai.com/2026/09/487282.html",
@@ -213,23 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789139445000",
-    "title": " 万万想不通，编造这种谣言的人到底是图啥…… ",
-    "link": "https://www.huxiu.com/article/4890594.html?f=rss",
-    "summary": "本文来自微信公众号： 建设性意见 ，作者：项栋梁 首先要向大家道歉，昨天我在文章中引用的一条新闻被公安机关查证系虚假信息，我的传播误导了大家，非常抱歉。 虽然我在文章中有提到“真假暂时还没有定论”，但也基于经验做出了主观判断“倾向于认为是真的”。判断错了，是我的能力问题。 今天，据嘉峪关市公安局通报，该事件系姚某自编自导、虚构伪造，目的是为了吸粉引流。 造谣一时爽，等待姚某的将是看守所的漫长反思，留给社会的则是早已遍体鳞伤又被踩上一脚的公益氛围，和原本就所剩无几如今再一次被摧残蹂躏的网络信任环境。 没有任何人获益。 这正是我万万想不通的地方，也是昨天主观判断失误的主要原因： 我看不到他的动机是什么。 你可能会觉得我太天真，编造这种谣言当然是为了博取流量然后直播打赏带货一条龙啊，公安蓝底白字通报也是这么说的。 但你仔细想想，这合理吗？ 第一，姚某就算成功涨粉了也很难变现 姚某在网上给自己立的人设是高考辅导名师，还是高中数学老师。在无数种虚假人设里，这几乎是最难最难假装的一种了。别的学科你还可以装模作样糊弄一下，但数学不会就是不会，完全不存在滥竽充数的可能性，一场直播，马上就原地露馅儿了。 就算凭借编造争议事件出圈了，涨粉了，接下来要怎么变现呢？一个完全立不住的人设，难道还能变成下一个张雪峰不成？ 而且姚某的账号还有一条几年前“接受CCTV中学生频道采访”的视频。 我当时特意查了下，发",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1000-1789132537000",
-    "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-    "link": "https://www.tmtpost.com/8135323.html",
-    "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
+    "id": "news-gpu-1789131548000",
+    "title": "GPU五小龙，燧原科技排第几？",
+    "link": "https://www.tmtpost.com/8136874.html",
+    "summary": "上市首日市值1700亿，超过摩尔、仅次沐曦。",
     "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
@@ -252,29 +320,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70--1789077119000",
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-    "publishedAt": "2026-09-10",
+    "id": "news-matt-mullenweg-tells-trolls-automattic-staff-saying-he-8217--1789139940000",
+    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
+    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+    "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-tech-employment-grew-in-august-despit-1789071840000",
-    "title": "This week in 5 numbers: Tech employment grew in August, despite layoffs",
-    "link": "https://www.hrdive.com/news/this-week-in-5-numbers-tech-employment-grew-in-august-despite-layoffs/830097/",
-    "summary": "Here&rsquo;s a roundup of numbers from the past week &mdash; including what percentage of workers may become attention-seeking or have difficulty sharing the spotlight under pressure.",
+    "id": "news-korn-ferry-leaders-have-to-rethink-how-work-gets-done-1789071840000",
+    "title": "Korn Ferry: Leaders have to rethink how work gets done",
+    "link": "https://www.hrdive.com/news/korn-ferry-2026-workplace-insights-productivity/830090/",
+    "summary": "High activity does not mean high productivity, consultants for the firm said.",
     "publishedAt": "2026-09-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -291,106 +361,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789138311000",
-    "title": " 战魔田默｜AI本来是软件生意，为什么正在变成资本密集型产业？ ",
-    "link": "https://www.huxiu.com/article/4890588.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜AI本来是软件生意，为什么正在变成资本密集型产业？》 如果只看产品形态，AI仍然很像软件。 ChatGPT、Gemini、Claude、DeepSeek都运行在屏幕和云端，一次模型升级甚至不需要用户更换任何硬件。和汽车、钢铁、化工相比，它看起来仍然属于最典型的数字产业。 但如果把视线转到这些产品背后，看到的却是另一幅景象。 国际能源署数据显示，五家大型科技公司2025年的资本开支已经超过4000亿美元，2026年预计还将大幅增长。数据中心持续扩张，先进芯片成为战略资源，电力开始制约算力部署。 Google、Microsoft、Amazon、Meta等科技巨头不仅在采购GPU，也在布局自研芯片、能源供应和长期基础设施。 一家AI公司今天想扩大生产能力，面对的已经不只是算法，还包括芯片、数据中心、网络、冷却、电力以及长期资本投入。这样的生产体系，在过去的软件产业并不常见。 更值得注意的是，AI技术本身正在迅速提高效率。模型架构持续优化，推理成本不断下降，DeepSeek也已经证明，更高的算法和工程效率可以显著降低单位计算成本。 按照传统逻辑，技术效率提高以后，产业应该变轻。 现实却恰恰相反。 单位计算成本在下降，全球AI基础设施投资仍在上升；芯片性能不断增强，科技公司对电力和数据中心的需求却持续扩大；模型调用门槛不",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-ai-1789132325000",
-    "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
-    "link": "https://www.tmtpost.com/8137504.html",
-    "summary": "与新技术相关的末日式设想，已经是延续了一个多世纪的传统。但这一次，也许真的会不一样。",
-    "publishedAt": "2026-09-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-road-map-could-help-us-decide-whether-to-deploy-solar-g-1789038000000",
-    "title": "This road map could help us decide whether to deploy solar geoengineering",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wa-1789076100000",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-work-in-the-age-of-ai-we-re-all-getting-in-the-waymo-for-the-1789071780000",
-    "title": "Work in the age of AI: ‘We’re all getting in the Waymo for the first time’",
-    "link": "https://www.hrdive.com/news/work-in-the-age-of-ai-were-all-getting-in-the-waymo-for-the-first-time/830088/",
-    "summary": "The artificial intelligence shift &ldquo;will be one of the greatest transformations of our society and our businesses ever,&rdquo; the CEO and co-founder at Salesforce said.&nbsp;",
-    "publishedAt": "2026-09-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-meet2027-1789099052000",
-    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-    "link": "https://www.qbitai.com/2026/09/487176.html",
-    "summary": "今年12月，北京，MEET2027智能未来大会！",
-    "publishedAt": "2026-09-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-deepseek-1789138050000",
-    "title": " 战魔田默｜DeepSeek要上市了？梁文锋为什么最终还是走向资本市场 ",
-    "link": "https://www.huxiu.com/article/4890587.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜DeepSeek要上市了？梁文锋为什么最终还是走向资本市场》 两年前，梁文锋曾经谈到过融资和上市。 当时有人问，DeepSeek未来是否会从幻方量化中独立出来，甚至引入外部资本。他的回答很明确：短期没有融资计划，DeepSeek面临的主要问题从来不是钱，而是高端芯片受到限制。 这很符合当时的DeepSeek。 它没有持续融资的新闻，也很少主动制造市场声量，商业化并不是最优先的任务。 幻方量化提供的资金和算力基础，让梁文锋有条件把更多精力放在模型研发上，而不必像许多创业公司那样，一边做技术，一边寻找下一轮资金。 如今情况正在变化。 9月9日，路透援引知情人士报道称，DeepSeek已经聘请中信证券，为可能登陆上海科创板做准备，并计划于年内启动相关流程。 具体上市时间、募资规模和目标估值尚未确定，但DeepSeek走向资本市场的路径已经比此前清晰得多。 报道还提到，公司需要更多资本扩充计算基础设施、推进模型研发，并在日益激烈的人才竞争中留住核心研究人员。 与此同时，DeepSeek已经不再只是融资传闻中的公司。路透报道称，它近期完成了约74亿美元融资，投后估值超过500亿美元，腾讯、宁德时代等成为外部投资者。 另一个变化同样值得注意。 8月，DeepSeek大幅调整V4系列API价格，并引入峰谷定价机制，高峰时段部",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-gpu-1789131548000",
-    "title": "GPU五小龙，燧原科技排第几？",
-    "link": "https://www.tmtpost.com/8136874.html",
-    "summary": "上市首日市值1700亿，超过摩尔、仅次沐曦。",
+    "id": "news-7-iphone-duo-1789131535000",
+    "title": "迟到7年的iPhone Duo，一上来就想“终结”比赛",
+    "link": "https://www.tmtpost.com/8136428.html",
+    "summary": "苹果不需要第一个到，它只需要最后赢。",
     "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
@@ -984,31 +958,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
     "postedAt": "2026-07-31",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1135555",
-    "title": "AI Intern",
-    "company": "CertifyOS",
-    "category": "pure_ai",
-    "responsibilities": [
-      "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare",
-      "Today, healthcare organizations rely on fragmented and outdated provider data",
-      "This creates unnecessary administrative work, regulatory risk, and higher costs across the system",
-      "Weâre solving that problem."
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "GCP",
-      "SQL"
-    ],
-    "location": "Pune",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "postedAt": "2026-07-28",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-11T15:48:03.098Z';
+export const dataFetchedAt = '2026-09-11T20:23:49.835Z';
