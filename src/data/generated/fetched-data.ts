@@ -2,6 +2,86 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-biotech-8217-s-future-and-cheaper-cleaner-steel-1789128600000",
+    "title": "The Download: biotech&#8217;s future and cheaper, cleaner steel",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
+    "publishedAt": "2026-09-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-matt-mullenweg-tells-automattic-staff-in-slack-he-8217-s-bac-1789139940000",
+    "title": "Matt Mullenweg tells Automattic staff in Slack he&#8217;s back in control after CEO ouster",
+    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+    "publishedAt": "2026-09-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-bu-1789138620000",
+    "title": "DHS proposes end to 60-day H-1B grace period, calling it a ‘burden’",
+    "link": "https://www.hrdive.com/news/dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-burden/830160/",
+    "summary": "The move would leave some workers with no cushion period in which to depart the U.S.&nbsp;",
+    "publishedAt": "2026-09-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-anthropic-320-meta-1789135516000",
+    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+    "link": "https://www.qbitai.com/2026/09/487573.html",
+    "summary": "原来你俩互相下单呢",
+    "publishedAt": "2026-09-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-6tb-ai-context-1789141037000",
+    "title": " “中转站6TB”泄露：AI 安全的边界，正在从数据迁到Context ",
+    "link": "https://www.huxiu.com/article/4890596.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《“中转站6TB”泄露：AI 安全的边界，正在从数据迁到 Context》 9月10号，一条“6TB LLM Router数据”说法最近在技术圈流传。 一名安全研究员从一批约6TB的LLM Router数据中，发现了可能用于访问多家机构的高权限凭证，包括密钥、VPN配置、代码托管Token等，仅凭这些凭证足以接管19家头部科技公司（包括华为、小米、蔚来、MiniMax等）以及7个国家级科研/重点机构（如张江实验室、中国科技大学等）的内部系统，合计约26家校企单位。 它把一个长期被忽略的问题掀开了：当企业开始把工作交给Agent，真正聚集风险的地方，已经不只是数据库和云盘，而是Agent此刻正在处理的那一整段Context。 它可能同时装着：代码、日志、用户身份、权限、密钥、内部文档、工具返回结果，以及“下一步准备做什么”。 数据库保存的是企业知道什么。 Context暴露的，是企业此刻正在做什么。 一、中转站为什么能看到这么多东西？ 很多人对Router的理解，仍停留在“帮我转发一下模型请求”。 但只要中转站承担的是API代理，它通常就不只是路由器。 用户到Router之间有HTTPS，Router到模型厂商之间也可能有HTTPS；可为了把请求转发、改写、计费、重试，它必须在中间终止连接、读取JSON，再重新发出去。",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-1-0-1789132600000",
+    "title": "高德回应“扫雷榜”传闻：推出“避雷指南 1.0”",
+    "link": "https://www.tmtpost.com/8135728.html",
+    "summary": "此次避雷指南的上线，可以被视为是对去年上线的“扫街榜”产品的补充升级。",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-meet-the-under-35s-shaping-the-future-of-biotech-1789117200000",
     "title": "Meet the under-35s shaping the future of biotech",
     "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
@@ -14,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-thrive-capital-led-vcs-into-pro-sports-ownership-collaborati-1789079400000",
-    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-    "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-    "publishedAt": "2026-09-10",
+    "id": "news-scammers-target-hundreds-of-thousands-of-crypto-owners-after-1789133574000",
+    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+    "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+    "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+    "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,23 +107,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-tech-employment-grew-in-august-despit-1789071840000",
-    "title": "This week in 5 numbers: Tech employment grew in August, despite layoffs",
-    "link": "https://www.hrdive.com/news/this-week-in-5-numbers-tech-employment-grew-in-august-despite-layoffs/830097/",
-    "summary": "Here&rsquo;s a roundup of numbers from the past week &mdash; including what percentage of workers may become attention-seeking or have difficulty sharing the spotlight under pressure.",
-    "publishedAt": "2026-09-10",
+    "id": "news-poor-talent-retention-continues-to-throttle-company-growth-1789138620000",
+    "title": "Poor talent retention continues to throttle company growth",
+    "link": "https://www.hrdive.com/news/poor-talent-retention-continues-to-throttle-company-growth/830147/",
+    "summary": "A disconnect persists between employers&rsquo; desire to improve retention and their inability&nbsp;to prevent attrition, Gallagher said in its report.",
+    "publishedAt": "2026-09-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1789117168000",
-    "title": "不简单，“吃货快乐榜”也全面AI化了",
-    "link": "https://www.qbitai.com/2026/09/487282.html",
-    "summary": "",
+    "id": "news--1789135149000",
+    "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+    "link": "https://www.qbitai.com/2026/09/487415.html",
+    "summary": "把开发、交付和接单全打通了",
     "publishedAt": "2026-09-11",
     "source": "量子位",
     "tags": [
@@ -53,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789122124000",
-    "title": " 库克承认了，苹果是看华为等出折叠机才做的 ",
-    "link": "https://www.huxiu.com/article/4890519.html?f=rss",
-    "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《库克承认了！苹果是看华为等出折叠机才做的》 今日，话题词“库克承认是看华为等厂家出折叠机才出的”登上微博热搜。 据外媒苹果首席记者古尔曼透露，苹果公司决定认真开发折叠屏手机的节点大约在2020年前后。当时，苹果前CEO库克刚结束亚洲行，回来后对折叠屏手机感到“异常兴奋”——他在中国等亚洲国家看到越来越多的消费者开始使用华为、三星等竞品推出的折叠屏手机，因此确信苹果需要推出自己的折叠屏手机。 今年，距离三星发布初代折叠机已经七年。在过去七年时间里，三星折叠机都迭代到了第八代，华为更是把折叠形态推进到了三折，小米、荣耀、OPPO也都各自推出了多代产品。苹果现在入场，很难说会抢走多少份额。 违背祖训的手写笔 iPhone Duo展开后7.6英寸内屏，是iPhone史上最大的屏幕；折叠后5.4英寸外屏，可单手操作。两块屏幕均为Super Retina XDR，苹果称二者采用相同的显示比例，支持ProMotion、常亮显示，峰值亮度达3000尼特。值得一提的是，内屏的前置摄像头隐藏在屏下，需要时才出现。 芯片是苹果最新的A20 Pro。存储从256GB起，另有512GB、1TB和2TB四档，售价分为1999，2199，2599和3199美元。最值得注意的一个差异化功能是，两块屏幕均支持Apple Pencil（不是Pro版，",
+    "id": "news-ceo-1789140808000",
+    "title": " 梅卡曼德CEO炮轰银河通用，真相是什么？ ",
+    "link": "https://www.huxiu.com/article/4890595.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 一条朋友圈，戳向具身智能估值泡沫。 定焦One（dingjiaoone）原创 数采循环生意，是具身智能行业一个隐秘、但圈内人尽皆知的现象。 9月10日，梅卡曼德创始人、董事长兼CEO邵天兰在朋友圈接连发文，公开炮轰行业内的“攒局型创业”，某些公司靠数采中心、租赁公司等各种关联交易做出虚假、不可持续的收入，没有PMF，只有各种发布“大新闻”炒作，通过国资绑架地方政府支持，成立两三年就要上市。 “二级市场不是‘风险投资’市场，不应该一级化，上市公司也要承担起更广泛投资者的更大责任。”在邵天兰看来，这是对创新创业生态的巨大破坏，对资本市场健康发展的巨大破坏，也是对国资和健康政商关系的破坏。 事情并未就此打住。在随后一条朋友圈的评论区，他直接点名了银河通用，一家估值超过200亿元、以“具身通用大脑”为核心竞争力的具身智能头部企业，并质疑其虚张声势。 银河通用很快作出反应。9月10日傍晚，其官方微信公众号发布《具身智能是一场长跑，我们只与时间赛跑》。文中并未正面回应邵天兰的质疑，只表示：公司将坚持初心，以具身智能技术为核心、以真实应用落地为长期目标，不参与无谓的口水战，不被短期噪音干扰。我们要做的，是把产品做好、把场景做实、把技术做深。 机器人本体公司把机器人卖给数采中心再回购数据，这在行业内已是较为普遍的合作模式。某国内",
     "publishedAt": "2026-09-11",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789117835000",
-    "title": "抖音即将“上架”AI应用，大厂抢滩下一代分发入口",
-    "link": "https://www.tmtpost.com/8136749.html",
-    "summary": "谁掌握了更多的用户场景与注意力入口，谁就掌握了下一代应用分发的主动权。",
+    "id": "news-lv-hyrox-1789132569000",
+    "title": "LV旗下基金投资Hyrox，下一步将冲击奥运会？",
+    "link": "https://www.tmtpost.com/8135717.html",
+    "summary": "普通健身爱好者与职业精英运动员可同场参赛，成绩全球互通可比，这也是Hyrox与其他体能赛事的根本区别。",
     "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
@@ -92,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70--1789077119000",
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "id": "news-thrive-capital-led-vcs-into-pro-sports-ownership-collaborati-1789079400000",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
     "publishedAt": "2026-09-10",
     "source": "TechCrunch",
     "tags": [
@@ -119,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-inclusion-ai-1789107543000",
-    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-    "link": "https://www.qbitai.com/2026/09/487273.html",
-    "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+    "id": "news-ai-1789117168000",
+    "title": "不简单，“吃货快乐榜”也全面AI化了",
+    "link": "https://www.qbitai.com/2026/09/487282.html",
+    "summary": "",
     "publishedAt": "2026-09-11",
     "source": "量子位",
     "tags": [
@@ -132,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-14-1789121998000",
-    "title": " 4岁男童被指“摸臀”上热搜，14岁自闭症男孩爸爸却说：越是这样，越要带他出门 ",
-    "link": "https://www.huxiu.com/article/4890518.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：|Jarvis，作者：勇敢走出去的，原文标题：《4岁男童被指“摸臀”上热搜，14岁自闭症男孩爸爸却说：越是这样，越要带他出门！》 这几天，“长沙4岁男童摸臀”一事很火，我看了也有点火大。 缘由是：8月26日，一名4岁男童手持玩具枪，在餐厅拥挤的过道里奔跑，失去平衡后碰到了旁边的熊女士。一瞬之间，孩子甚至都没有回头。熊女士则认为男孩“摸了自己的屁股”，当即喝止并追上去，拉住孩子，一边反复喊“谁家的孩子”。 大约30秒后，男孩母亲赶到现场，与熊女士理论。之后，双方先后三次报警，调解未果。女方把此事搬上短视频平台，宣布将起诉男孩一方。 4岁男孩也会性骚扰？但当完整版监控出现以后，舆论迅速逆转。大量媒体和网友评论认为，熊女士“摸臀”的表述与事实不符。 从监控看，男孩是在奔跑中意外碰到熊女士，没有回头，也没有任何带有性意味的主动动作，何来充满猥亵意味的“摸臀”？ 更有人翻检熊女士过往视频，质疑她有制造冲突、博取流量之嫌。此后，平台停止了她账号的关注和盈利功能。 同一件事实，因为表述不同，指向的道德色彩和法律责任也大相径庭。让法律的归法律吧，我更想作为一个14岁自闭症男孩的父亲，谈谈两个一直深扎我心的问题： 公共场所究竟属于谁？ 我们的孩子，如何才能自由行走于中国大地？ 文|皮皮爸 编辑|Jarvis 图源|pexels网络 有一种病，叫“厌婴症” “",
+    "id": "news--1789139445000",
+    "title": " 万万想不通，编造这种谣言的人到底是图啥…… ",
+    "link": "https://www.huxiu.com/article/4890594.html?f=rss",
+    "summary": "本文来自微信公众号： 建设性意见 ，作者：项栋梁 首先要向大家道歉，昨天我在文章中引用的一条新闻被公安机关查证系虚假信息，我的传播误导了大家，非常抱歉。 虽然我在文章中有提到“真假暂时还没有定论”，但也基于经验做出了主观判断“倾向于认为是真的”。判断错了，是我的能力问题。 今天，据嘉峪关市公安局通报，该事件系姚某自编自导、虚构伪造，目的是为了吸粉引流。 造谣一时爽，等待姚某的将是看守所的漫长反思，留给社会的则是早已遍体鳞伤又被踩上一脚的公益氛围，和原本就所剩无几如今再一次被摧残蹂躏的网络信任环境。 没有任何人获益。 这正是我万万想不通的地方，也是昨天主观判断失误的主要原因： 我看不到他的动机是什么。 你可能会觉得我太天真，编造这种谣言当然是为了博取流量然后直播打赏带货一条龙啊，公安蓝底白字通报也是这么说的。 但你仔细想想，这合理吗？ 第一，姚某就算成功涨粉了也很难变现 姚某在网上给自己立的人设是高考辅导名师，还是高中数学老师。在无数种虚假人设里，这几乎是最难最难假装的一种了。别的学科你还可以装模作样糊弄一下，但数学不会就是不会，完全不存在滥竽充数的可能性，一场直播，马上就原地露馅儿了。 就算凭借编造争议事件出圈了，涨粉了，接下来要怎么变现呢？一个完全立不住的人设，难道还能变成下一个张雪峰不成？ 而且姚某的账号还有一条几年前“接受CCTV中学生频道采访”的视频。 我当时特意查了下，发",
     "publishedAt": "2026-09-11",
     "source": "虎嗅",
     "tags": [
@@ -145,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789117829000",
-    "title": "人形机器人是噱头？国产已完成手术",
-    "link": "https://www.tmtpost.com/8136870.html",
-    "summary": "手术台上，来了个新“人”。",
+    "id": "news-ai-1000-1789132537000",
+    "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+    "link": "https://www.tmtpost.com/8135323.html",
+    "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
     "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
@@ -168,6 +249,87 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70--1789077119000",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "publishedAt": "2026-09-10",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-week-in-5-numbers-tech-employment-grew-in-august-despit-1789071840000",
+    "title": "This week in 5 numbers: Tech employment grew in August, despite layoffs",
+    "link": "https://www.hrdive.com/news/this-week-in-5-numbers-tech-employment-grew-in-august-despite-layoffs/830097/",
+    "summary": "Here&rsquo;s a roundup of numbers from the past week &mdash; including what percentage of workers may become attention-seeking or have difficulty sharing the spotlight under pressure.",
+    "publishedAt": "2026-09-10",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-2026-inclusion-ai-1789107543000",
+    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+    "link": "https://www.qbitai.com/2026/09/487273.html",
+    "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+    "publishedAt": "2026-09-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1789138311000",
+    "title": " 战魔田默｜AI本来是软件生意，为什么正在变成资本密集型产业？ ",
+    "link": "https://www.huxiu.com/article/4890588.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜AI本来是软件生意，为什么正在变成资本密集型产业？》 如果只看产品形态，AI仍然很像软件。 ChatGPT、Gemini、Claude、DeepSeek都运行在屏幕和云端，一次模型升级甚至不需要用户更换任何硬件。和汽车、钢铁、化工相比，它看起来仍然属于最典型的数字产业。 但如果把视线转到这些产品背后，看到的却是另一幅景象。 国际能源署数据显示，五家大型科技公司2025年的资本开支已经超过4000亿美元，2026年预计还将大幅增长。数据中心持续扩张，先进芯片成为战略资源，电力开始制约算力部署。 Google、Microsoft、Amazon、Meta等科技巨头不仅在采购GPU，也在布局自研芯片、能源供应和长期基础设施。 一家AI公司今天想扩大生产能力，面对的已经不只是算法，还包括芯片、数据中心、网络、冷却、电力以及长期资本投入。这样的生产体系，在过去的软件产业并不常见。 更值得注意的是，AI技术本身正在迅速提高效率。模型架构持续优化，推理成本不断下降，DeepSeek也已经证明，更高的算法和工程效率可以显著降低单位计算成本。 按照传统逻辑，技术效率提高以后，产业应该变轻。 现实却恰恰相反。 单位计算成本在下降，全球AI基础设施投资仍在上升；芯片性能不断增强，科技公司对电力和数据中心的需求却持续扩大；模型调用门槛不",
+    "publishedAt": "2026-09-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-ai-1789132325000",
+    "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
+    "link": "https://www.tmtpost.com/8137504.html",
+    "summary": "与新技术相关的末日式设想，已经是延续了一个多世纪的传统。但这一次，也许真的会不一样。",
+    "publishedAt": "2026-09-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-this-road-map-could-help-us-decide-whether-to-deploy-solar-g-1789038000000",
+    "title": "This road map could help us decide whether to deploy solar geoengineering",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;",
+    "publishedAt": "2026-09-10",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
     ]
   },
   {
@@ -212,171 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789121829000",
-    "title": " AI正在批量制造海景房 ",
-    "link": "https://www.huxiu.com/article/4890514.html?f=rss",
-    "summary": "本文来自微信公众号： 商业DNA ，作者：三鱼 8月，广西阳朔一家酒店因为两张照片出了名。 据媒体报道，在预订平台的宣传图里，该酒店顶层的泳池仿佛与阳朔山水无缝相接，池畔还伫立着一座古雅凉亭。然而，当消费者满怀期待地入住后，眼前的现实却是塔吊、裸露的砖墙和一片施工工地。 顾客投诉后，两张楼顶照片被撤下。平台客服转述称，两家酒店均已删除被质疑过度处理的图片，其中一家更是直言：曾用AI工具“豆包”美化过宣传图。 调查发现，酒店修图，早已成为一门廉价的流水线生意。在服务商的报价单中，基础精修单张仅需10到15元，AI合成精修20到50元。调亮房间、替换窗景、增加绿植，甚至“抹除”周边的道路和工地，一切皆可定制。 酒店行业“照骗”早已有之，但这在过去往往受限于人力和技术成本。如今，AI工具的普及让不懂专业设计的商家也能轻松“改天换地”。换一套窗景，出一批神图，只需几句提示词，制作成本无限趋近于零。 当造假的门槛降至冰点，仅靠顾客的“事后投诉”，显然已经难以约束这种疯狂的获客游戏。 01 假图的生意 今年8月，有记者在社交平台上发现了一个荒诞的现象：同一张“溪边木屋加长滑梯”的民宿神图，被不同账号分别挂在了长白山、莫干山、安吉、清远和惠州的房源推文中。 帖子里套餐价格极具诱惑力，却刻意隐去了民宿的具体名称和地址。当记者发去截图询价时，客服甚至连入住日期都不问，便直接回复“该房间已订满”，顺势",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-88-vs90-ai-1789117815000",
-    "title": "88小时vs90年，当AI暴力给出答案，人类研究是否还有意义？",
-    "link": "https://www.tmtpost.com/8136959.html",
-    "summary": "当解题被加速，理解与发现的价值该如何衡量?",
-    "publishedAt": "2026-09-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-road-map-could-help-us-decide-whether-to-deploy-solar-g-1789038000000",
-    "title": "This road map could help us decide whether to deploy solar geoengineering",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-openai-puts-pro-subscriptions-on-hold-due-to-astra-demand-1789073991000",
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-8-stories-on-the-healthcare-affordability-crunch-1789053840000",
-    "title": "8 stories on the healthcare affordability crunch",
-    "link": "https://www.hrdive.com/news/8-stories-on-the-healthcare-affordability-crunch/829533/",
-    "summary": "A vice president at the Business Group on Health recently said employers are at &ldquo;an inflection point.&rdquo;",
-    "publishedAt": "2026-09-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-3-ai-1789095047000",
-    "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-    "link": "https://www.qbitai.com/2026/09/487163.html",
-    "summary": "",
-    "publishedAt": "2026-09-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1-5-ai-1789121733000",
-    "title": " 蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血 ",
-    "link": "https://www.huxiu.com/article/4890516.html?f=rss",
-    "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 2026年9月10日，上海外滩大会。 蚂蚁集团副总裁、蚂蚁健康事业群总裁张俊杰公布了一组数据：蚂蚁阿福App用户数达1.5亿，单日健康咨询人次近2000万。一年前，这款应用还叫AQ，只是支付宝里的小程序。 外滩大会现场集结了华为、苹果、小米、鱼跃等多家穿戴、体脂硬件厂商高管，意在构建体征数据入口。但当前跨品牌健康数据孤岛仍普遍存在，硬件大多只能上传体重、步数这类浅层指标，难以支撑深度慢病干预。 一、1.5亿是累计用户，还是活跃用户？ 1.5亿的口径从未被清晰定义。在互联网产品领域，累计用户数天然容易做大——尤其是依托支付宝流量入口导流的应用。 第三方数据给出了一组更清晰的轨迹。据QuestMobile：2026年3月月活2715万，6月2897万。8月蚂蚁方披露月活超3000万、日均健康咨询超1000万次——注意，8月数据来自蚂蚁方，不是QuestMobile。 Q2季度均值2517.5万，低于3月单点值2715万，降幅约7.3%。要同时成立Q2均值2517.5万和6月2897万，4-5月均值须约2328万——即3月2715万→4月跌至约2328万（-14%）→6月回升至2897万。这是一条深V轨迹，不是断崖式下滑，但也不是简单的回升。 关于口径，有三种可能的解释：8月是日均处理超1000万次，9月是单日近2000万——单日可",
-    "publishedAt": "2026-09-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1789117808000",
-    "title": "成功率只有千分之一，AI短剧几乎全员亏损",
-    "link": "https://www.tmtpost.com/8136816.html",
-    "summary": "AI短剧，对普通人来说，是已死的风口。",
-    "publishedAt": "2026-09-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-can-the-us-battery-market-untangle-from-china-1789034400000",
-    "title": "Can the US battery market untangle from China?",
-    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-    "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,&#8230;",
-    "publishedAt": "2026-09-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-details-distillation-campaigns-from-alibaba-moonsh-1789073850000",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-    "publishedAt": "2026-09-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-personality-traits-that-drive-success-can-derail-employees-u-1789051980000",
-    "title": "Personality traits that drive success can derail employees under pressure, study finds",
-    "link": "https://www.hrdive.com/news/personality-traits-that-drive-success-can-derail-employees-under-pressure/829966/",
-    "summary": "The goal should be to help workers develop a &ldquo;strategic self-awareness&rdquo; of what triggers their personality &ldquo;derailers,&rdquo; Hogan Assessment said.",
-    "publishedAt": "2026-09-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-openai-benchmark-1789091215000",
-    "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-    "link": "https://www.qbitai.com/2026/09/487092.html",
-    "summary": "爆料直指霍奇猜想",
-    "publishedAt": "2026-09-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789121502000",
-    "title": " 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌 ",
-    "link": "https://www.huxiu.com/article/4890515.html?f=rss",
-    "summary": "本文来自微信公众号： 忽左忽右Leftright ，编辑：思钊，作者：忽友功德箱，原文标题：《播客｜晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌》 晋江陈埭，一个不到40平方公里的福建小镇，却汇集了7000多家制鞋相关企业，全球每五双运动鞋中就有一双来自这里。晋江鞋业如何从侨乡「闲钱、闲房、闲人」的条件中起步？又如何经历星期鞋、亚洲金融危机和北京奥运会后的库存危机？陈埭丁氏有着怎样的历史，又为何走出了安踏、特步、361度等多家运动品牌的创始人？聚焦安踏个案，传统家族企业又如何在市场变化中适应职业经理人与现代管理制度？请听本期嘉宾黄子懿和李鸿谷带来的分享。 内容节选 本文为基于节目录音的口述稿，仅对语法与用词做部分修改。 闲钱、闲房、闲人催生出的晋江鞋业 黄子懿 当地工业起步的阶段有一个说法，叫“三闲起步”。一个很重要的就是侨民源源不断汇回来的闲钱。另一个是闲房，因为很多居民下南洋离开了，在当地留下自己原来的房子。他们又有安土重迁的情怀，有些侨民汇回来的钱还会拿来装修房子，但是没有人住，这些房子质量还挺好，就是闲房。第三个是闲人，因为这个地方宗族文化比较浓厚，人口又非常多，但是当地没有农业，也没有工业，这么多人能干什么呢？所以当地当时就有闲钱、闲房、闲人“三闲”的情况。你换成现在产业或者商业的角度来看，这其实就是产业发展非常优渥的原始土壤：闲钱是原始的启动资金，闲房可以做原始的厂",
+    "id": "news-deepseek-1789138050000",
+    "title": " 战魔田默｜DeepSeek要上市了？梁文锋为什么最终还是走向资本市场 ",
+    "link": "https://www.huxiu.com/article/4890587.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜DeepSeek要上市了？梁文锋为什么最终还是走向资本市场》 两年前，梁文锋曾经谈到过融资和上市。 当时有人问，DeepSeek未来是否会从幻方量化中独立出来，甚至引入外部资本。他的回答很明确：短期没有融资计划，DeepSeek面临的主要问题从来不是钱，而是高端芯片受到限制。 这很符合当时的DeepSeek。 它没有持续融资的新闻，也很少主动制造市场声量，商业化并不是最优先的任务。 幻方量化提供的资金和算力基础，让梁文锋有条件把更多精力放在模型研发上，而不必像许多创业公司那样，一边做技术，一边寻找下一轮资金。 如今情况正在变化。 9月9日，路透援引知情人士报道称，DeepSeek已经聘请中信证券，为可能登陆上海科创板做准备，并计划于年内启动相关流程。 具体上市时间、募资规模和目标估值尚未确定，但DeepSeek走向资本市场的路径已经比此前清晰得多。 报道还提到，公司需要更多资本扩充计算基础设施、推进模型研发，并在日益激烈的人才竞争中留住核心研究人员。 与此同时，DeepSeek已经不再只是融资传闻中的公司。路透报道称，它近期完成了约74亿美元融资，投后估值超过500亿美元，腾讯、宁德时代等成为外部投资者。 另一个变化同样值得注意。 8月，DeepSeek大幅调整V4系列API价格，并引入峰谷定价机制，高峰时段部",
     "publishedAt": "2026-09-11",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789117799000",
-    "title": "医疗AI投资人，正在香港抢博士",
-    "link": "https://www.tmtpost.com/8136878.html",
-    "summary": "香港博士，在一级市场上杀疯了。",
+    "id": "news-gpu-1789131548000",
+    "title": "GPU五小龙，燧原科技排第几？",
+    "link": "https://www.tmtpost.com/8136874.html",
+    "summary": "上市首日市值1700亿，超过摩尔、仅次沐曦。",
     "publishedAt": "2026-09-11",
     "source": "钛媒体",
     "tags": [
@@ -1010,4 +1011,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-11T10:32:29.473Z';
+export const dataFetchedAt = '2026-09-11T15:48:03.098Z';
