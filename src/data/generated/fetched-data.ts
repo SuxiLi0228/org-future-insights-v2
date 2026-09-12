@@ -2,8 +2,8 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-will-ai-really-kill-us-all-1789157106000",
-    "title": "Roundtables: Will AI really kill us all?",
+    "id": "news-roundtables-ai-s-apocalypse-crisis-1789157106000",
+    "title": "Roundtables: AI’s apocalypse crisis",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
     "publishedAt": "2026-09-11",
@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-1789155354000",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+    "id": "news-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush--1789167497000",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789145099000",
-    "title": " 交付物贬值时代：AI 正在制造一个“能力可观察性”问题 ",
-    "link": "https://www.huxiu.com/article/4890599.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 过去很长一段时间里，企业判断一个人是否有能力，其实并没有想象中那么复杂。工程师交出一段结构清晰、运行稳定的代码，我们会倾向于相信他懂设计、懂实现，也知道如何处理异常；产品经理写出一份逻辑完整的方案，我们会默认他理解业务、用户与约束；咨询顾问在很短时间里拿出一份漂亮的分析报告，我们通常把这种产出视为信息搜集、结构化思考与表达能力共同作用的结果。 代码、文档、PPT、方案、邮件、原型、研究报告，表面上都是工作成果，实际上还承担着另一个更重要的功能。 它们是能力留下来的痕迹。 企业并不能直接看见一个人的理解力、判断力、经验与专业训练，只能通过这些可观察的产出来反推。一个人过去做出了什么，大致能够帮助我们判断，他下一次可能做出什么。这套逻辑过去一直成立，而AI正在改变的，可能正是这层关系。 一、企业过去看到的，从来不只是\"结果\" 假设两个人同时交上来一份非常优秀的技术方案。在过去，我们看到的其实不只是一份方案。一份完整的架构设计背后，通常意味着这个人查阅过资料、理解过需求、比较过不同路径，知道哪些地方存在风险，也知道为什么最终选择这一条路线。方案本身，只是这个思考过程最后被压缩出来的一个结果。 于是企业天然会完成一次隐含推理：能够稳定生产这种结果的人，大概率拥有生产这种结果所需要的能力。这种推理未",
-    "publishedAt": "2026-09-11",
+    "id": "news-ai-1789181310000",
+    "title": " “AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆 ",
+    "link": "https://www.huxiu.com/article/4890624.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：鲍奕龙 杨宸 “AI股神”的Situational Awareness基金在一个月前创下了对冲基金史上单只基金的最大亏损额，并因此崩溃。如今，它正在卷土重来。 9月11日，据《金融时报》报道，Situational Awareness基金创始人Leopold Aschenbrenner近日已开始在AMD、英特尔、SK海力士、闪迪及AI初创公司CoreWeave等科技股中重建大规模交易头寸。 报道援引消息人士透露，由于此前的经纪商关系几乎全部断裂，Aschenbrenner已转而与鲜为人知的专业经纪商Clear Street建立合作，借此重返市场。此举引发市场高度关注，因为其交易手法与今年7月酿成巨亏的操作高度雷同。 野村证券策略师Charlie McElligott此前已捕捉到异常信号。他指出，上周五及劳工节假期后的周二，市场出现了一系列大规模弹性看涨期权（Flex Call）交易，集中于多只AI及半导体相关个股，\"神秘买家\"合计花费3.15亿美元期权权利金，涉及Delta敞口11亿美元、Vega敞口580万美元。 这一\"现货涨、波动率也涨\"的联动模式，与今年7月市场动荡前的行情特征如出一辙。 同样的股票，同样的打法 报道援引据知情人士透露，Situational Awareness近日建立的新头寸均通过弹性期权完成，标的涵盖此前爆仓的核心",
+    "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -69,11 +69,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-0-1789132600000",
-    "title": "高德回应“扫雷榜”传闻：推出“避雷指南 1.0”",
-    "link": "https://www.tmtpost.com/8135728.html",
-    "summary": "此次避雷指南的上线，可以被视为是对去年上线的“扫街榜”产品的补充升级。",
-    "publishedAt": "2026-09-11",
+    "id": "news-1-5-ai-1789180981000",
+    "title": "蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血",
+    "link": "https://www.tmtpost.com/8137230.html",
+    "summary": "蚂蚁阿福、健康AI 、AI医疗、用户留存 、烧钱换增长、蚂蚁保、阿里健康、好大夫在线",
+    "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -95,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roblox-is-making-it-easier-to-build-games-with-ai-and-play-t-1789153200000",
-    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-    "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-    "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+    "id": "news-khosla-ventures-is-opening-a-new-york-office-this-fall-its-f-1789161545000",
+    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -135,25 +135,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789142760000",
-    "title": " AI 正把文化变成黑暗森林：谁先暴露想法，谁先被狩猎 ",
-    "link": "https://www.huxiu.com/article/4890598.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 刘慈欣在《三体》里提出了著名的黑暗森林理论，大部分人记住的是猎人：每个文明都带枪，猜疑链锁死，谁先暴露谁先死。这个词先是被借用到互联网，现在轮到了知识生产，猎人手里拿的是ai大杀器。 “你为什么要毁掉自己的职业生涯？” 纽约大学数学家特里斯坦·巴克马斯特（Tristan Buckmaster），在一份公开声明提到这句话。按照他的记述，9月6日，当他表示可能公开与OpenAI的争执时，对方是这么回应他的。 一场数学研究的讨论，怎么走到了谈论职业生涯会不会被毁掉的地步？ 事情要从他的合作者说起。莱文特·阿尔珀格（Levent Alpöge）也是数学家，供职于Anthropic，openai的死对头。但两人强调，这是他们的私人合作。他们沿着前人开辟的流体爆破研究路线，借助Claude、Codex等模型工作了近一年。巴克马斯特自己还在用研究经费支付AI工具的账单。 到了8月，他们在带光滑外力的Euler方程等问题上取得了进展，却还没有交出纳维尔－斯托克斯千禧年问题的完整解答。简单说，这一类研究要追问：描述流体运动的方程，在怎样的条件下会出现有限时间内的“爆破”？他们已经登上重要的台阶，也看到了继续向前的方向，但还在把模型生成的证明整理成人能读懂的论文。 这个消息先泄露了出去。 OpenAI后来在自己的公告里承认，9月1日听到了有人",
-    "publishedAt": "2026-09-11",
+    "id": "news--1789180441000",
+    "title": " “铁头”一审获刑八年：专业打假，为什么注定不是一门好生意？ ",
+    "link": "https://www.huxiu.com/article/4890613.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约3500字·预计阅读5分钟 9月11日，杭州市滨江区人民法院一审宣判：打假网红“铁头”董某某敲诈勒索案，数罪并罚，决定执行有期徒刑八年。 案情只有一句话。2024年5月，他伙同几个人合谋，以曝光黑料相威胁，向一位带货主播索要数百克黄金，还许诺“交付之后提供保护”，几次交涉下来，对方把钱转进了他指定的账户。 很多人心里别扭的地方在这儿：他不是打过假吗？三亚海鲜市场的“五两秤”，老年保健品的骗局，都是他捅到台面上的。一个曾经站在“对”那边的人，怎么就走到了被告席上？ 打假是好事，把打假做成生意是另一回事。这门生意最要命的地方在于：它的收入从来不来自“假货被清掉”，而来自“商家怕不怕被曝光”。 今天想仔细拆解一下：为什么专业打假，注定不是一门好生意？ 一、他确实打过真的假 先把话说明白：2023年那阵子，他做的很多事是真事。 那年3月，他开始拍打假视频，三亚海鲜市场的“五两秤”、金镶玉抽奖的套路、专骗老人的保健品，一件件被镜头怼到台面上。这些事，本来是普通人投诉无门、只能吃哑巴亏的事。他拍出来，几百万人看见，市场被查，商家被罚。这一段，是有价值的，不必否认。三亚那次最典型：海鲜市场的秤，一斤的东西称出来只有五两，普通游客人生地不熟，吵也吵不赢，只能认栽。他把那杆秤怼到镜头前，市场很快被查。这样的视频，观众看得解气，也真的管用。 他的名",
+    "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-lv-hyrox-1789132569000",
-    "title": "LV旗下基金投资Hyrox，下一步将冲击奥运会？",
-    "link": "https://www.tmtpost.com/8135717.html",
-    "summary": "普通健身爱好者与职业精英运动员可同场参赛，成绩全球互通可比，这也是Hyrox与其他体能赛事的根本区别。",
-    "publishedAt": "2026-09-11",
+    "id": "news-minimax-1789180973000",
+    "title": "智谱和MiniMax，进入“低价增长”时代",
+    "link": "https://www.tmtpost.com/8137263.html",
+    "summary": "DeepSeek再降价，模型公司的高增长被打折。",
+    "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -175,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-central-eurasia-names-its-2026-road-to-battlefield-winners-c-1789153081000",
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+    "id": "news-y-combinator-8217-s-garry-tan-wants-us-open-weight-ai-labs-t-1789160387000",
+    "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -214,11 +213,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aadp-agent-1789142460000",
-    "title": " AADP 出现之后：AGENT 安全开始把“能做”和“该做”真正分开 ",
-    "link": "https://www.huxiu.com/article/4890597.html?f=rss",
-    "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 权限体系解决了一个问题，Agent带来了另一个 过去几十年，计算机安全大体建立在一个稳定的基本问题之上：谁可以访问什么。Identity回答你是谁，Authentication确认这个身份为真，Authorization决定这个身份拥有哪些权限，IAM、RBAC、ABAC、OAuth、API Token与Cloud IAM则把这套原则逐步变成了现代软件基础设施的默认结构。即使后来出现Zero Trust，本质上也仍然是在不断收缩信任半径，让每一次访问接受更严格的验证。这套体系成熟、有效，直到今天依然重要。 但当AI Agent真正进入业务流程之后，一个长期被权限体系掩盖的问题开始暴露出来：一个主体拥有某项能力，并不意味着它此刻产生的每一个具体动作都应该被执行。这两件事过去几乎可以等同，现在却正在迅速分开。最近几周的一系列动作显示，这已经不再只是一个理论判断——安全行业似乎正在同时意识到，Agent带来的变化并不是系统里多了一种新的Identity，而是系统里出现了一种能够持续产生Action的主体。当Action本身成为风险单位，安全体系就必须重新寻找自己的控制点。 一份Internet-Draft选择的问题 2026年8月，一份名为Agent Action Decision Protoc",
-    "publishedAt": "2026-09-11",
+    "id": "news-25-openai-ai-1789179538000",
+    "title": " 25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界 ",
+    "link": "https://www.huxiu.com/article/4890620.html?f=rss",
+    "summary": "本文来自微信公众号： Tech商业 ，作者：Tech商业 数学家们说：AI公司负责宣布“突破”，而数学家负责免费验证、修补，甚至收拾烂摊子。这笔账，他们不想再忍了。 过去一周，数学界和AI公司之间的紧张关系彻底爆发了。 先是纽约大学数学家Tristan Buckmaster公开指责OpenAI向他施压，要求他将一位在Anthropic工作的合作者从论文中剔除。随后，25位菲尔兹奖得主——数学界的最高荣誉获得者——联名签署公开信，警告AI实验室为了争夺“解决著名数学难题”的头条，正在威胁学术研究本身。 本周四，OpenAI撤回对加州理工学院一项数学活动的赞助。此前，该校数学家发表公开信，称这项活动“可能对数学界造成破坏性影响”。 事情闹大了。 “我只是这些小把戏里的旁观者” 事情要从劳动节周末说起。 整个八月，Buckmaster和合作者Levent Alpöge在纳维-斯托克斯方程上取得了重大进展。这是克雷数学研究所2000年提出的七个“千禧年大奖难题”之一，悬赏100万美元。 然后OpenAI来了。 不到一周，OpenAI宣布其AI智能体找到了答案。这是AI首次攻克千禧年难题级别的数学问题，消息震动全球。 但Buckmaster发现事情不对劲。他和Alpöge在研究中使用了OpenAI的Codex工具——一个用于编写和管理代码的AI助手——来帮助整理和简化数学推导。而OpenAI",
+    "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -228,11 +227,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1000-1789132537000",
-    "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-    "link": "https://www.tmtpost.com/8135323.html",
-    "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
-    "publishedAt": "2026-09-11",
+    "id": "news-openai-codex-1789180970000",
+    "title": "OpenAI把Codex“拆开卖了”",
+    "link": "https://www.tmtpost.com/8137691.html",
+    "summary": "Agent = Model + Harness",
+    "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -254,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-1789145185000",
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "id": "news-openai-8217-s-feud-with-mathematicians-is-only-escalating-1789160256000",
+    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -294,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpu-1789131548000",
-    "title": "GPU五小龙，燧原科技排第几？",
-    "link": "https://www.tmtpost.com/8136874.html",
-    "summary": "上市首日市值1700亿，超过摩尔、仅次沐曦。",
-    "publishedAt": "2026-09-11",
+    "id": "news-put-put-1789179045000",
+    "title": " 当年阻击英国政府put 的贝森特现在有了自己的put ",
+    "link": "https://www.huxiu.com/article/4890619.html?f=rss",
+    "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑，原文标题：《当年阻击英国政府put 的贝森特现在有了自己的 put》 01 美债继续被抛售，财政部自己下场做买家（详细内容请听《墙裂坛》新一期播客“全球长债大紧张时刻”）：市场迅速给这套操作起了一个名字，叫“贝森特put”。 当年格林斯潘put横空出世：股市一跌到让人难受的程度，联储就会出来降息救场，所以大家尽可放心大胆地冒险。如今市场从财政部的动作里读出了同样的承诺：长债收益率一涨到让人难受的位置，财政部就会掏钱回购把它压下去。 见财长把收益率当成自己的KPI，市场彼此对视一眼，开始推推收益率，看看守不守得住。如果财政部出手了，市场秒get底线在哪里，接着推推；如果不出手，说明承诺是空的，那就更要卖。反正不管是哪种结果，测试都是零成本。 那么问题来了，贝森特，这位当年几乎是发明了这个“零成本挑逗底线”游戏的人，为什么自己去当了靶子？ 这也是全市场对贝森特的行为大吃一惊的地方。而说到为什么这么吃惊，就必须把1992年狙击英镑这场举世闻名的“对赌官方底线”行动再回顾一下了——如今坐在被测试位置上的贝森特，当年恰恰是发起测试的那个人。 02 我们在《投资大师系列》德鲁肯米勒的那一期，曾经把这个故事讲得非常详细。 1990年10月，英国加入了欧洲汇率机制（ERM），把英镑钉在2.95马克，官方承诺的下限是一个非常具体精确的数字，一堆小数点：2",
+    "publishedAt": "2026-09-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-minimax-agi-1789178535000",
+    "title": "MiniMax寻路AGI",
+    "link": "https://www.tmtpost.com/8137218.html",
+    "summary": "技术水准才是硬通货。",
+    "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -320,17 +332,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-matt-mullenweg-tells-trolls-automattic-staff-saying-he-8217--1789139940000",
-    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
-    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+    "id": "news-one-week-left-to-book-your-exhibit-table-at-techcrunch-disru-1789158798000",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -361,11 +372,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-iphone-duo-1789131535000",
-    "title": "迟到7年的iPhone Duo，一上来就想“终结”比赛",
-    "link": "https://www.tmtpost.com/8136428.html",
-    "summary": "苹果不需要第一个到，它只需要最后赢。",
-    "publishedAt": "2026-09-11",
+    "id": "news-3-1789178194000",
+    "title": " 具身新贵，3个月成为独角兽 ",
+    "link": "https://www.huxiu.com/article/4890616.html?f=rss",
+    "summary": "本文来自微信公众号： 东四十条资本 ，作者：韦香惠 明星机构押下重注。 就在国内一级市场对具身智能的投资逐渐收紧之时，海外一家做机器人数据训练的公司，三个月融两轮，已经跻身百亿独角兽行列。 不久前，机器人数据公司XDOF传出新一轮融资消息，估值约12亿美元，折合人民币超过百亿元。距离公司今年6月宣布完成7000万美元A轮融资，仅仅过去约三个月。 XDOF成立于2024年，由Philipp Wu、Fred Shentu和Nemo Jin共同创立。公司的技术基础之一，是伯克利机器人学习研究中发展出来的GELLO远程操作系统。 让我产生兴趣的是，这家公司既不做模型，也不造人形机器人，而是做着一门看上去并不性感的数据生意——为机器人收集、整理和处理真实世界中的交互数据。但就是这样一家“卖数据”的公司，却获得了a16z、Thrive Capital等明星机构的青睐。 目前XDOF的这笔融资仍属于拟议交易，具体融资金额、估值是否包含新资金等细节尚未得到公开确认。但无论最终交易如何落地，这笔融资至少释放出了一个值得关注的信号：随着大模型和机器人产业进入新的发展阶段，曾经被视为人力密集型、缺乏想象空间的数据生意，正在被资本重新审视。 机器人领域的Scale AI “数据质量往往是深度学习中被忽视的功臣。”这句话是Phililp Wu在推特转发团队的一篇研究文章时所写下的。 Phillp Wu是XD",
+    "publishedAt": "2026-09-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1789178533000",
+    "title": "AI正在批量制造海景房",
+    "link": "https://www.tmtpost.com/8137190.html",
+    "summary": "低成本造假，不该由消费者买单。",
+    "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -961,4 +986,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-11T20:23:49.835Z';
+export const dataFetchedAt = '2026-09-12T02:57:09.697Z';
