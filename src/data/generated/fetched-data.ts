@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush--1789167497000",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "publishedAt": "2026-09-11",
+    "id": "news-revolut-confirms-customer-data-breach-through-fake-governmen-1789224000000",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -42,10 +42,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rsi-1789200931000",
-    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-    "link": "https://www.qbitai.com/2026/09/487752.html",
-    "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+    "id": "news--1789213096000",
+    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+    "link": "https://www.qbitai.com/2026/09/487860.html",
+    "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
     "publishedAt": "2026-09-12",
     "source": "量子位",
     "tags": [
@@ -55,24 +55,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789207198000",
-    "title": " AI的吹哨人：辞职信有人收，但是警报呢？ ",
-    "link": "https://www.huxiu.com/article/4890692.html?f=rss",
-    "summary": "本文来自微信公众号： 奋进的肚腩 ，作者：肚腩说 9月9日，Jacob Coxon宣布从Anthropic辞职。过去三年，他先后在OpenAI和Anthropic做模型预训练。他参与过的，是这个行业最受瞩目的工作之一。 如今，他公开警告，两家公司正在进行一场他认为不负责任的竞赛。 离开公司，本来可以是一件私人事务。他却把自己为什么不愿继续做下去，讲给了公司以外的人。 这是这次辞职让我在意的地方。有人从实验室里走出来，没有带来又一份产品介绍，而是提醒我们，里面正在发生的事，需要外面的人认真过问。 “吹哨人”的意味，由此而来。 他把担忧带出了实验室 Coxon并非站在实验室门口劝人少上网。他参与过模型研发，OpenAI公布的GPT-4.5研究贡献者名单里，有他的名字。 这份履历让他的警告值得认真听，却不能保证他对未来的判断一定正确。参与过研发的人，也会高估风险或看错方向。核查他的说法，与尊重他公开表达，并不矛盾。 他担心的是，企业正在竞相推进能够不断改进自身的强大AI，而安全上的把握并没有跟上。他还描述了一种理由：既然不相信竞争对手会更负责，就必须由自己抢先做出来。 这部分是他的判断和观察，不是已经被独立调查证实的行业全景。尤其是最惊人的灾难预测，不能因为说话的人辞了职，就从担忧升级为预报。2026年《国际人工智能安全报告》同样指出，研究者对于未来失控的可能性存在很大分歧。 但我仍然尊",
+    "id": "news--1789222825000",
+    "title": " 当一个时刻在线的打工人“瞬间消失” ",
+    "link": "https://www.huxiu.com/article/4890716.html?f=rss",
+    "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 刷到一条新闻：北京一小伙骑车开视频会议导致撞车，右手鲜血直流，第一件事却是要手机坐在地上继续开会。对方司机跟他说啥他都不搭理，交警判小伙主责。 心中甚是愤懑。想起程序员高广辉的事来。这篇文章是当时写就，因为种种原因未能发出，又是一个周六，今天贴出来，希望打工人都好好爱护自己。 死亡通知VS工作消息 星期六的清晨，你还在回工作消息吗？ 程序员高广辉就倒在这样一个周末的清晨，当他在医院抢救时，工作群还在不断弹出消息：“高工帮忙处理一下这个订单”。 简直是“阎王要你三更死、工作留你到五更”的残酷现实。 年仅32岁的程序员被宣告死亡八小时后，还收到不知情同事的私聊工作信息：“周一有急任务....要把这个改下”。 系统不知道它的用户已经死了，它只知道这个账号还没有被注销。 而公司做了什么？第一时间删掉了他的企业微信账号，清空了他的工位，扔掉了他的个人物品。一个活生生的人，七年的付出，就这么被迅速地从系统中彻底抹去。 这就是程序员、或者是每一个打工人要面对的荒诞现实：你被要求时刻在线，却可以瞬间消失。 谁还记得，劳动者是拥有尊严、创造力和不可替代生命价值的人，绝非系统里可以随意替换和丢弃的物品。 “不把员工当人”，就是悲剧的源头。 至于那些在他死后还在@他的同事……其实他们未必是冷血，他们大概率也在加班，也被deadline追着跑。在这",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-openai-1200-5-1789188079000",
-    "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
-    "link": "https://www.tmtpost.com/8137561.html",
-    "summary": "AI私建留言板互通，OpenAI被调查",
+    "id": "news-iphone-duo-9-1789210416000",
+    "title": "iPhone Duo炒到9万，黄牛贷款百万欲囤货",
+    "link": "https://www.tmtpost.com/8137843.html",
+    "summary": "苹果折叠屏的造富效应。",
     "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
@@ -95,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-khosla-ventures-is-opening-a-new-york-office-this-fall-its-f-1789161545000",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+    "id": "news-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush--1789167497000",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -122,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-gpt-6-astra-frontiermath-tier-4-1789198434000",
-    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-    "link": "https://www.qbitai.com/2026/09/487701.html",
-    "summary": "FrontierMath Tier 4，饱和了",
+    "id": "news-a-claude-1789202942000",
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "link": "https://www.qbitai.com/2026/09/487796.html",
+    "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
     "publishedAt": "2026-09-12",
     "source": "量子位",
     "tags": [
@@ -135,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-43-28-1789206535000",
-    "title": " 净利润大跌43%，28度低度酒是泸州老窖的解药吗？ ",
-    "link": "https://www.huxiu.com/article/4890691.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：周琦 泸州老窖的2026年半年报里，有一句不太起眼的话，“低度品鉴推广全面落地，28°高光完成品牌体系搭建。” 放在过去，一家靠52度国窖1573打天下的浓香酒企，把28度产品写进半年报，多少会被解读为“不务正业”。 但如今，这反而成了白酒行业最主流的姿势，低度化、年轻化、场景化，泸州老窖在半年报风险章节里写下的九字战略，几乎是整个行业的标准答案。 问题在于，标准答案未必是正确答案。 低度酒到底是泸州老窖的突围方向，还是一张讲给市场的叙事牌。 分层推进 泸州老窖的低度化布局其实是分层推进的。 最上层是38度国窖1573，公司2025年6月披露，该产品在国窖系列销售占比已达50%左右。 中间是2025年宣布研发成功、择机投放的28度国窖1573，16度、6度等更低度数的产品据称也在测试，只是“择机”至今，离宣布已逾一年，这款产品始终没有摆上货架。 最外层是2020年推出的独立品牌“高光”，主打“新轻奢”，28°高光于2026年6月上市，成为超低度产品的承接载体。 场景端，公司上半年推进“浪潮计划”、银河左岸音乐节等营销活动。 值得注意的是，28度产品最终没有进入国窖体系，而是放进了副牌，姓的是“高光”。 酒业评论人肖竹青对此评价颇为正面，泸州老窖采用独立品牌运作28°高光、不挂靠国窖IP，“这个打法非常聪明，既能放开手脚做年轻化营销、调饮、小瓶",
+    "id": "news--1789221125000",
+    "title": " 韦世豪被罚启示：足球文化治理需要实事求是 ",
+    "link": "https://www.huxiu.com/article/4890715.html?f=rss",
+    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近国内足球圈又出了个吵翻天的事。9月6日中超第26轮，成都蓉城客场0比0战平河南队，无缘提前夺冠。这场球的火气赛前就点着了，郑州航海体育场外面，两队球迷隔着大巴对骂、互比手势，有人朝客队方向扔水瓶。进了场也没消停，看台对韦世豪的骂声没断过，主裁判沈寅豪全场掏出10张黄牌，蓉城一家吃了7张。 散场时，看台上骂声和水瓶一起朝退场的球员砸下来。几秒钟后，韦世豪朝着看台比出了一个圆圈。按成都一方球迷的说法，队友胡荷韬先去找赛区工作人员反映，工作人员抬手比了个圆圈，意思是扔东西的行为已经拍下留证，所以成都方球迷认为随后韦世豪也是在学工作人员那个动作，嘴里的口型也是在告诉看台“拍照了”。可这个圆落到河南球迷的眼里，就成了暗指“偷井盖”的烂梗。 随后视频迅速发酵，河南球迷向中国足协实名举报韦世豪搞地域侮辱。网络上大量极端球迷涌入韦世豪的社交媒体和私信，对他本人、妻子乃至年仅2岁的女儿进行恶毒诅咒。情绪失控的韦世豪连发六条动态，一小时后全删。他妻子在评论区只回了一句已报警。 网暴没有只朝一个方向。第二天下午，成都这边的极端球迷用同样的方式，把辱骂和死亡威胁灌进了河南队长王上源的私信，挨骂的还是孩子。王上源晒出截图；他妻子也表了态，说再有人冲孩子来，一样走法律程序。 9月8日下午，中足联就这件事开了线上听证会。韦世豪到场交了书面检讨，程序走完，没有当",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ab-1789188077000",
-    "title": "中国人寿利润暴涨背后的业绩AB面",
-    "link": "https://www.tmtpost.com/8137602.html",
-    "summary": "投资驱动利润暴涨",
+    "id": "news-25-openai-ai-1789210414000",
+    "title": "25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界",
+    "link": "https://www.tmtpost.com/8137883.html",
+    "summary": "数学家们说：AI公司负责宣布“突破”，而数学家负责免费验证、修补，甚至收拾烂摊子。这笔账，他们不想再忍了。",
     "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
@@ -174,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-y-combinator-8217-s-garry-tan-wants-us-open-weight-ai-labs-t-1789160387000",
-    "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "id": "news-khosla-ventures-is-opening-a-new-york-office-this-fall-its-f-1789161545000",
+    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -200,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-k2-8-k3-1789192721000",
-    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-    "link": "https://www.qbitai.com/2026/09/487688.html",
-    "summary": "冲刺港股IPO",
+    "id": "news-rsi-1789200931000",
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "link": "https://www.qbitai.com/2026/09/487752.html",
+    "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
     "publishedAt": "2026-09-12",
     "source": "量子位",
     "tags": [
@@ -213,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789204054000",
-    "title": " 迈克尔·哈特：后霸权时代的全球战争体制与政治想象 ",
-    "link": "https://www.huxiu.com/article/4890683.html?f=rss",
-    "summary": "本文来自微信公众号： 读书杂志 ，作者：迈克尔·哈特，原文标题：《《读书》新刊 | 迈克尔·哈特：后霸权时代的全球战争体制与政治想象》 编者按 本文原系迈克尔·哈特在清华大学文科高研所的演讲，经译者整理成文。演讲原题“帝国主义与国际主义”，而哈特针对美国霸权主义进入衰落期，提出了两个核心概念：后霸权权力、全球战争体制。在他看来，特朗普第二任期内，美国的软实力机构被系统性摧毁，其全球统治越来越多地依赖暴力、恐惧与直接军事侵略，而非“二战”后那种以“同意”为基础的霸权治理。这种通过战争制造恐惧的权力形态，并非美国力量的彰显，而是其衰弱的征兆，因其缺乏霸权所必需的持久性与稳定性。最后，文章转向国际主义的可能性，主张超越“阵营主义”的二元逻辑，在民族国家、区域联盟与基层解放运动三个层次上构筑一种非中心化的跨国联结力量。 本次推送，除第9期《读书》刊发的整理文字外，也配发学者与哈特对话问答的实录，以丰富读者对其所思所想的认识。 后霸权时代的全球战争体制与政治想象 （《读书》2026年9期新刊） 今天我想呈现的，不是一套关于当代帝国主义的完整理论，而是几条相互关联的思路，希望以此打开讨论的空间。 理解美国帝国主义——或者说美国当前的地缘政治处境与对外政策——我想先从内部切入，将内部与外部联系起来。两场危机正在同时发生：一场是美国宪政秩序的危机，另一场是美国主导的自由主义国际秩序的危机。在我看来",
+    "id": "news--1789219252000",
+    "title": " “玩不起就别玩，” ",
+    "link": "https://www.huxiu.com/article/4890713.html?f=rss",
+    "summary": "本文来自微信公众号： 智先生 ，作者：Isidore，原文标题：《“玩不起就别玩！”》 “选举结果让我们所有人都深感震惊”，这是德国总理默茨在萨安州议会选举结束后的回应。 也不知道他是为选择党以43.8%选票，获得胜利感到震惊，还是基民盟只拿到18.5%感到难以置信。 要知道上次该州选举，基民盟可是赢下37.1%的选票的。短短几年过去，家底直接被腰斩。 过去德国传统大党总有种迷之自信，觉得极端政党之所以冒头，是因为大部分沉默良民没有出门，只要他们动员大家去投票，自然能把异端的得票率稀释干净。 结果萨安州这趟大选，全州选民跟过节一样涌向投票站，投票率一路飙升到78%，创下两德统一以来的历史天花板。 选择党表现如此亮眼，被称为“人间清醒”的魏德尔功不可没。 首先是她的履历。 拜罗伊特大学经济学最高荣誉博士，博士论文研究的是中国养老金体制；早年任职于高盛集团资产管理部，后来去安联全球投资，是顶尖金融精英； 入党不到两年跻身高层，并在2017年带领选择党重回议会，2022年担任选择党联合主席，成为该党成立12年来首位总理候选人。 更让欧洲人抓狂的是，魏德尔是一名公开的“同性恋女性”，与伴侣在瑞士共同抚养两个孩子，按照西方白左那套身份政治打法，这完全是一个叠满女性精英和性少数Buff的完美典范。 就是她冲在与建制派对抗的前线，还是有“法西斯大本营”之称的选择党一把手。 魏德尔给选择党带来的最",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789188076000",
-    "title": "种草，开始被清算",
-    "link": "https://www.tmtpost.com/8137652.html",
-    "summary": "种草没有消失，它正在被清算",
+    "id": "news--1789210412000",
+    "title": "中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？",
+    "link": "https://www.tmtpost.com/8137851.html",
+    "summary": "一套被验证得零售操作系统",
     "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
@@ -252,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-feud-with-mathematicians-is-only-escalating-1789160256000",
-    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "id": "news-y-combinator-8217-s-garry-tan-wants-us-open-weight-ai-labs-t-1789160387000",
+    "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -279,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789188838000",
-    "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-    "link": "https://www.qbitai.com/2026/09/487653.html",
-    "summary": "25位菲尔兹奖得主联名吹哨",
+    "id": "news-ai-gpt-6-astra-frontiermath-tier-4-1789198434000",
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "link": "https://www.qbitai.com/2026/09/487701.html",
+    "summary": "FrontierMath Tier 4，饱和了",
     "publishedAt": "2026-09-12",
     "source": "量子位",
     "tags": [
@@ -292,23 +291,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789204044000",
-    "title": " 百万粉丝博主涉黑被抓，打假还是假打？ ",
-    "link": "https://www.huxiu.com/article/4890682.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：张钰馨 职业打假人，曾主要瞄准假冒伪劣产品，通过投诉、诉讼等维权手段追究商家责任，一度被视作消费市场中的“啄木鸟”。 职业打假自出现起就争议不断。近来，一则百万粉丝网红打假博主涉嫌黑恶犯罪的通报，再次将这一群体推至争议中心。2026年8月28日，吉林省长春市公安局发布公告称，近期该局依法打掉一个以打假博主“松哥打虎”为首的涉嫌黑恶组织，此犯罪组织以曝光商品瑕疵名义维权打假，对全国百余名商家实施敲诈勒索。 惩罚性赔偿制度鼓励消费者举报违法行为，职业打假人的群体也因此扩大，内部良莠不齐。“中国打假第一人”王海打假逾30年，他向界面新闻表示，职业打假的人数一直在增加，但远不及职业“假打”人数增多的速度。 与此同时，现行制度对职业索赔行为的规制不断细化，正常维权与不当索赔之间的界限也愈发清晰。 另一面是，一些厂商的非法添加手段与欺诈行为也愈发隐蔽，普通消费者往往难以识别，举证维权需要付出更大的成本，职业打假仍有现实需求。 昔日网红打假博主涉黑 自媒体打假博主“松哥打虎”曾在多个平台开设账号，截止2026年8月28日，其抖音账号粉丝约153万、累计获赞670.7万。目前，界面新闻已无法检索到该账号。 2025年10月27日，他最后一次更新，他称自己打假广东康力降压糖“属实”，安徽省市场监督管理局对生产商予以行政处罚。 “松哥打虎”曾因打假良品铺子在网络",
+    "id": "news-500-1789218390000",
+    "title": " 估值狂飙至500亿美元，月之暗面突然遭遇暗剑 ",
+    "link": "https://www.huxiu.com/article/4890711.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰AI研究院 9月11日深夜，一张没有信源、仅有几句文字的微信群聊截图，在国内创投圈、AI从业者社群飞速扩散。 一夜之间，消息从封闭的投资人群聊溢出，全网刷屏，引发外界猜测。接近12日中午时分，月之暗面官方微博发布法务声明：“网传关于创始人及员工的信息纯属虚构，系恶意造谣，公司已第一时间向公安机关报案，将依法追究相关造谣者的法律责任。” 站在风暴中心的月之暗面，是国内生成式AI浪潮当中成长速度最快、资本热度最高的创业独角兽之一。在短短三年时间，它从一家初创公司，成长为估值数百亿美元、站在上市前夜的行业玩家。 谣言风波来去，背后是资本市场的高度敏感、行业竞争的暗流涌动，以及AI初创企业与生俱来的舆情脆弱性。 01 “谣言，已报案” 复盘谣言传播的时间线，始发载体仅仅是一张微信群聊截图。 最初，这条消息仅仅活跃在数十人、数百人的垂直行业微信群，里面聚集着投资人、AI行业从业者。 随后，消息在小圈层当中迅速发酵。随着社群成员转发扩散，消息扩散到抖音、小红书、微博等公共社交平台。 投资人开始互相求证，关于公司融资、上市计划是否会中断等讨论，此起彼伏。 公司的回应也十分迅速。12日中午11时20分前后，月之暗面通过法务部正式发布辟谣声明，直接将网传信息定性为“恶意造谣”，并表示已第一时间向公安机关报案，将依法追究造谣者法律责任。 图片来源于网络 如",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-i-ceo-1789188073000",
-    "title": "i人特努斯，会手抖的苹果CEO",
-    "link": "https://www.tmtpost.com/8137758.html",
-    "summary": "一个人的性格偶尔会从细节里露出来。",
+    "id": "news--1789210411000",
+    "title": "潮宏基，落子豫园",
+    "link": "https://www.tmtpost.com/8137853.html",
+    "summary": "黄金的品牌溢价",
     "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
@@ -331,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-one-week-left-to-book-your-exhibit-table-at-techcrunch-disru-1789158798000",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+    "id": "news-openai-8217-s-feud-with-mathematicians-is-only-escalating-1789160256000",
+    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -358,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-4200-1789149756000",
-    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-    "link": "https://www.qbitai.com/2026/09/487631.html",
-    "summary": "看清「一个真正的人」",
-    "publishedAt": "2026-09-11",
+    "id": "news-kimi-k2-8-k3-1789192721000",
+    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+    "link": "https://www.qbitai.com/2026/09/487688.html",
+    "summary": "冲刺港股IPO",
+    "publishedAt": "2026-09-12",
     "source": "量子位",
     "tags": [
       "china",
@@ -371,23 +371,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789203600000",
-    "title": " “纯过日子”的年轻人，为啥不穿匡威了？ ",
-    "link": "https://www.huxiu.com/article/4890505.html?f=rss",
-    "summary": "穿匡威、听摇滚、搞朋克，新时代银发经济",
+    "id": "news--1789218039000",
+    "title": " 智谱上市后募资，大模型战场变了 ",
+    "link": "https://www.huxiu.com/article/4890703.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜视觉中国 智谱又开始募资了。 最近，从DeepSeek到Kimi再到智谱，大模型战场硝烟四起。Kimi正在谋求上市，DeepSeek开始把注意力放在上游的算力基础设施，已经上市的智谱则再次从资本市场拿钱。海外，OpenAI和Anthropic也在奔向IPO。 这些多重信号都在说明一个问题，虽然现在留在牌桌上的公司少了，但这场战争变得激烈了。 9月11日，据路透报道，智谱启动新一轮融资，包括约20亿美元的股票配售，以及30亿美元的可转换债券发行，总规模达到50亿美元，折合人民币超过350亿元。 距离智谱上一次从资本市场拿钱，只过去两个月。今年7月，智谱刚刚通过配售募集约40亿美元。再往前，今年1月，智谱登陆港交所。从上市到两次再融资，智谱从资本市场募集资金的速度明显加快。 钱主要流向了同一个地方。 根据此次披露，智谱募集资金将用于研发、算力资源及相关基础设施、业务扩张、战略投资和潜在并购等。今年7月的40亿美元融资中，算力、研发和人才同样是主要用途。 一家已经上市的大模型公司，仍然在如此密集地从资本市场拿钱。这背后发生的变化是，大模型正在变成一门越来越重的生意。最直接的变化发生在算力上。 今年7月，有消息称智谱已经建成一座1GW级数据中心并开始部分投入运营，主要用于GLM系列模型研发，全部采用国产AI芯片。除此之外，智谱还运营着多个",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ip-1789188071000",
-    "title": "素人 IP 批量走红：热度易得，变现很难",
-    "link": "https://www.tmtpost.com/8137813.html",
-    "summary": "流量红利过后，更难的是跨过“专业化”这道坎。",
+    "id": "news-ai-1789210408000",
+    "title": "日薪千元的AI实习生，在焦虑什么？",
+    "link": "https://www.tmtpost.com/8137900.html",
+    "summary": "AI抢人大战烧到了实习生。",
     "publishedAt": "2026-09-12",
     "source": "钛媒体",
     "tags": [
@@ -984,4 +985,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-12T10:00:49.908Z';
+export const dataFetchedAt = '2026-09-12T14:55:52.841Z';
