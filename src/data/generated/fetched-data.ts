@@ -2,8 +2,8 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-ai-s-apocalypse-crisis-1789157106000",
-    "title": "Roundtables: AI’s apocalypse crisis",
+    "id": "news-roundtables-could-ai-really-kill-us-all-1789157106000",
+    "title": "Roundtables: Could AI really kill us all?",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
     "publishedAt": "2026-09-11",
@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-revolut-confirms-customer-data-breach-through-fake-governmen-1789224000000",
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "id": "news-anthropic-ceo-outlines-plan-to-slow-ai-development-1789241684000",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
     "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
@@ -55,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789222825000",
-    "title": " 当一个时刻在线的打工人“瞬间消失” ",
-    "link": "https://www.huxiu.com/article/4890716.html?f=rss",
-    "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 刷到一条新闻：北京一小伙骑车开视频会议导致撞车，右手鲜血直流，第一件事却是要手机坐在地上继续开会。对方司机跟他说啥他都不搭理，交警判小伙主责。 心中甚是愤懑。想起程序员高广辉的事来。这篇文章是当时写就，因为种种原因未能发出，又是一个周六，今天贴出来，希望打工人都好好爱护自己。 死亡通知VS工作消息 星期六的清晨，你还在回工作消息吗？ 程序员高广辉就倒在这样一个周末的清晨，当他在医院抢救时，工作群还在不断弹出消息：“高工帮忙处理一下这个订单”。 简直是“阎王要你三更死、工作留你到五更”的残酷现实。 年仅32岁的程序员被宣告死亡八小时后，还收到不知情同事的私聊工作信息：“周一有急任务....要把这个改下”。 系统不知道它的用户已经死了，它只知道这个账号还没有被注销。 而公司做了什么？第一时间删掉了他的企业微信账号，清空了他的工位，扔掉了他的个人物品。一个活生生的人，七年的付出，就这么被迅速地从系统中彻底抹去。 这就是程序员、或者是每一个打工人要面对的荒诞现实：你被要求时刻在线，却可以瞬间消失。 谁还记得，劳动者是拥有尊严、创造力和不可替代生命价值的人，绝非系统里可以随意替换和丢弃的物品。 “不把员工当人”，就是悲剧的源头。 至于那些在他死后还在@他的同事……其实他们未必是冷血，他们大概率也在加班，也被deadline追着跑。在这",
+    "id": "news--1789235313000",
+    "title": " 《早春晴朗》国内群嘲，巴西榜一，中剧出海变了 ",
+    "link": "https://www.huxiu.com/article/4890725.html?f=rss",
+    "summary": "本文来自微信公众号： 芒见出海 ，作者：何紫微 本文是芒见出海第186篇原创，巴西系列第76篇。 本文正文长度4600字，完整阅读约需12分钟。 大家最近有没有在短视频上刷到《早春晴朗》这部剧？ 国内网上到处都在骂这部剧职场霸凌、PUA、有毒、悬浮，还有不少博主出来打假2013年的奥美，哪怕行业是在黄金期，但还没到是“掉黄金”的程度，能做到像剧里男主一年年入2000万： 但是，骂归骂，人家一点都不耽误自己的热度，我随手在小红书上搜的云合数据是这样的： 你没看错，市占率断层第一了已经。 这剧在墙内开花，墙外一样香。 小红书上给我推送的是黑人大姐在沉迷看《早春晴朗》，阿拉伯大叔坐国际航班9小时没合眼也在看😂 于是，我就去翻了主演井柏然的Instagram，不看不知道，一看发现，这剧的海外受众，居然大头在巴西！ 下面是我随手一截的井柏然IG评论留言，一水儿的葡萄牙语和巴西国旗： 图上C位还有巴西姑娘特地写的中文，爱得很明显了。 满屏都是爱心，好多都在说让井柏然来巴西。 如果说这个只是部分的粉丝行为，那我看完网飞数据，是真真的可以说一句，咱中国文化，也算是成功渗透进了全球市场和巴西市场！ 《早春晴朗》8月26日在网飞上线。 第一周，直接冲到了网飞全球非英语剧集榜第2，拿下240万次观看、2150万小时播放，全球有22个市场挤进了Top 10。 到了第二周，排名还是第2，但涨幅非常惊人，观",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
@@ -94,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush--1789167497000",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "publishedAt": "2026-09-11",
+    "id": "news-tesla-says-it-will-finally-unveil-the-second-generation-road-1789240879000",
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "summary": "Tesla’s halo sports car was first announced in November 2017.",
+    "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789221125000",
-    "title": " 韦世豪被罚启示：足球文化治理需要实事求是 ",
-    "link": "https://www.huxiu.com/article/4890715.html?f=rss",
-    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近国内足球圈又出了个吵翻天的事。9月6日中超第26轮，成都蓉城客场0比0战平河南队，无缘提前夺冠。这场球的火气赛前就点着了，郑州航海体育场外面，两队球迷隔着大巴对骂、互比手势，有人朝客队方向扔水瓶。进了场也没消停，看台对韦世豪的骂声没断过，主裁判沈寅豪全场掏出10张黄牌，蓉城一家吃了7张。 散场时，看台上骂声和水瓶一起朝退场的球员砸下来。几秒钟后，韦世豪朝着看台比出了一个圆圈。按成都一方球迷的说法，队友胡荷韬先去找赛区工作人员反映，工作人员抬手比了个圆圈，意思是扔东西的行为已经拍下留证，所以成都方球迷认为随后韦世豪也是在学工作人员那个动作，嘴里的口型也是在告诉看台“拍照了”。可这个圆落到河南球迷的眼里，就成了暗指“偷井盖”的烂梗。 随后视频迅速发酵，河南球迷向中国足协实名举报韦世豪搞地域侮辱。网络上大量极端球迷涌入韦世豪的社交媒体和私信，对他本人、妻子乃至年仅2岁的女儿进行恶毒诅咒。情绪失控的韦世豪连发六条动态，一小时后全删。他妻子在评论区只回了一句已报警。 网暴没有只朝一个方向。第二天下午，成都这边的极端球迷用同样的方式，把辱骂和死亡威胁灌进了河南队长王上源的私信，挨骂的还是孩子。王上源晒出截图；他妻子也表了态，说再有人冲孩子来，一样走法律程序。 9月8日下午，中足联就这件事开了线上听证会。韦世豪到场交了书面检讨，程序走完，没有当",
+    "id": "news--1789229383000",
+    "title": " 虚线时刻，来临 ",
+    "link": "https://www.huxiu.com/article/4890724.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 一个人感到迷茫，是个人问题。一群人，在不同城市、不同行业，都感到类似的迷茫，就要回到更大的结构中去理解。 结构是什么？是一连串环环相扣的前提：对象是清楚的，原则是清楚的，组织之间的承诺也是清楚的。一个人知道自己在什么位置，往哪个方向走，走到哪里能得到什么。这不是幻想，是过去二十年里真实发生过的事。 那时候，稳定不是抽象概念。它是一个人可以感知到的状态。每一天的工作指向一个可预期的结果，每一次付出指向一个可想象的回报。过程不一定轻松，压力确实存在，但压力是可承受的，因为它通向一个明确的地方。 你不必喜欢每一个环节，但你知道它们为什么存在。 稳定最深层的作用，不是提供安全，是提供解释。 稳定并不是没有变化。学习是为了考上更好的学校，从名校毕业可以找到更好的工作，好的工作可以获得更高的收入，持续的收入支撑家庭、身份、荣誉和未来规划。 这是一连串的因果链条，每一个结果都能上溯到它的原因。人之所以愿意承受压力，是因为相信这些压力可以通向美好的未来。这种回报不一定立刻出现，也不一定令人满意，但它是可以被想象的。 也就是说，稳定是一种可以被感知的状态。我们过去一直生活在这种状态之中。它是确定的、可量化的，压力可以承受，甚至可以从中获得某种享受。 在商业世界里，同样的事情在发生。上游有供应商，下游有客户，中间有服务机构。流程是固定的，规则是清晰的",
     "publishedAt": "2026-09-12",
     "source": "虎嗅",
     "tags": [
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-khosla-ventures-is-opening-a-new-york-office-this-fall-its-f-1789161545000",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-    "publishedAt": "2026-09-11",
+    "id": "news-revolut-confirms-customer-data-breach-through-fake-governmen-1789224000000",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -212,19 +212,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789219252000",
-    "title": " “玩不起就别玩，” ",
-    "link": "https://www.huxiu.com/article/4890713.html?f=rss",
-    "summary": "本文来自微信公众号： 智先生 ，作者：Isidore，原文标题：《“玩不起就别玩！”》 “选举结果让我们所有人都深感震惊”，这是德国总理默茨在萨安州议会选举结束后的回应。 也不知道他是为选择党以43.8%选票，获得胜利感到震惊，还是基民盟只拿到18.5%感到难以置信。 要知道上次该州选举，基民盟可是赢下37.1%的选票的。短短几年过去，家底直接被腰斩。 过去德国传统大党总有种迷之自信，觉得极端政党之所以冒头，是因为大部分沉默良民没有出门，只要他们动员大家去投票，自然能把异端的得票率稀释干净。 结果萨安州这趟大选，全州选民跟过节一样涌向投票站，投票率一路飙升到78%，创下两德统一以来的历史天花板。 选择党表现如此亮眼，被称为“人间清醒”的魏德尔功不可没。 首先是她的履历。 拜罗伊特大学经济学最高荣誉博士，博士论文研究的是中国养老金体制；早年任职于高盛集团资产管理部，后来去安联全球投资，是顶尖金融精英； 入党不到两年跻身高层，并在2017年带领选择党重回议会，2022年担任选择党联合主席，成为该党成立12年来首位总理候选人。 更让欧洲人抓狂的是，魏德尔是一名公开的“同性恋女性”，与伴侣在瑞士共同抚养两个孩子，按照西方白左那套身份政治打法，这完全是一个叠满女性精英和性少数Buff的完美典范。 就是她冲在与建制派对抗的前线，还是有“法西斯大本营”之称的选择党一把手。 魏德尔给选择党带来的最",
-    "publishedAt": "2026-09-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1789210412000",
     "title": "中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？",
     "link": "https://www.tmtpost.com/8137851.html",
@@ -251,10 +238,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-y-combinator-8217-s-garry-tan-wants-us-open-weight-ai-labs-t-1789160387000",
-    "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "id": "news-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush--1789167497000",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -291,20 +278,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1789218390000",
-    "title": " 估值狂飙至500亿美元，月之暗面突然遭遇暗剑 ",
-    "link": "https://www.huxiu.com/article/4890711.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰AI研究院 9月11日深夜，一张没有信源、仅有几句文字的微信群聊截图，在国内创投圈、AI从业者社群飞速扩散。 一夜之间，消息从封闭的投资人群聊溢出，全网刷屏，引发外界猜测。接近12日中午时分，月之暗面官方微博发布法务声明：“网传关于创始人及员工的信息纯属虚构，系恶意造谣，公司已第一时间向公安机关报案，将依法追究相关造谣者的法律责任。” 站在风暴中心的月之暗面，是国内生成式AI浪潮当中成长速度最快、资本热度最高的创业独角兽之一。在短短三年时间，它从一家初创公司，成长为估值数百亿美元、站在上市前夜的行业玩家。 谣言风波来去，背后是资本市场的高度敏感、行业竞争的暗流涌动，以及AI初创企业与生俱来的舆情脆弱性。 01 “谣言，已报案” 复盘谣言传播的时间线，始发载体仅仅是一张微信群聊截图。 最初，这条消息仅仅活跃在数十人、数百人的垂直行业微信群，里面聚集着投资人、AI行业从业者。 随后，消息在小圈层当中迅速发酵。随着社群成员转发扩散，消息扩散到抖音、小红书、微博等公共社交平台。 投资人开始互相求证，关于公司融资、上市计划是否会中断等讨论，此起彼伏。 公司的回应也十分迅速。12日中午11时20分前后，月之暗面通过法务部正式发布辟谣声明，直接将网传信息定性为“恶意造谣”，并表示已第一时间向公安机关报案，将依法追究造谣者法律责任。 图片来源于网络 如",
-    "publishedAt": "2026-09-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1789210411000",
     "title": "潮宏基，落子豫园",
     "link": "https://www.tmtpost.com/8137853.html",
@@ -331,10 +304,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-feud-with-mathematicians-is-only-escalating-1789160256000",
-    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "id": "news-khosla-ventures-is-opening-a-new-york-office-this-fall-its-f-1789161545000",
+    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
     "publishedAt": "2026-09-11",
     "source": "TechCrunch",
     "tags": [
@@ -368,20 +341,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1789218039000",
-    "title": " 智谱上市后募资，大模型战场变了 ",
-    "link": "https://www.huxiu.com/article/4890703.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜视觉中国 智谱又开始募资了。 最近，从DeepSeek到Kimi再到智谱，大模型战场硝烟四起。Kimi正在谋求上市，DeepSeek开始把注意力放在上游的算力基础设施，已经上市的智谱则再次从资本市场拿钱。海外，OpenAI和Anthropic也在奔向IPO。 这些多重信号都在说明一个问题，虽然现在留在牌桌上的公司少了，但这场战争变得激烈了。 9月11日，据路透报道，智谱启动新一轮融资，包括约20亿美元的股票配售，以及30亿美元的可转换债券发行，总规模达到50亿美元，折合人民币超过350亿元。 距离智谱上一次从资本市场拿钱，只过去两个月。今年7月，智谱刚刚通过配售募集约40亿美元。再往前，今年1月，智谱登陆港交所。从上市到两次再融资，智谱从资本市场募集资金的速度明显加快。 钱主要流向了同一个地方。 根据此次披露，智谱募集资金将用于研发、算力资源及相关基础设施、业务扩张、战略投资和潜在并购等。今年7月的40亿美元融资中，算力、研发和人才同样是主要用途。 一家已经上市的大模型公司，仍然在如此密集地从资本市场拿钱。这背后发生的变化是，大模型正在变成一门越来越重的生意。最直接的变化发生在算力上。 今年7月，有消息称智谱已经建成一座1GW级数据中心并开始部分投入运营，主要用于GLM系列模型研发，全部采用国产AI芯片。除此之外，智谱还运营着多个",
-    "publishedAt": "2026-09-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -985,4 +944,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-12T14:55:52.841Z';
+export const dataFetchedAt = '2026-09-12T20:08:14.618Z';
