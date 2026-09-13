@@ -2,6 +2,118 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-14-auto",
+    "date": "2026-09-14",
+    "session": "auto",
+    "title": "2026-09-14 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-14-auto-1",
+        "emoji": "🚨",
+        "title": "Roundtables: Could AI really kill us all?",
+        "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+        "detail": "来源: MIT Technology Review。Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+      },
+      {
+        "id": "sig-2026-09-14-auto-2",
+        "emoji": "💡",
+        "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+        "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "detail": "来源: TechCrunch。On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+      },
+      {
+        "id": "sig-2026-09-14-auto-3",
+        "emoji": "💡",
+        "title": "Hemorrhoid pain can be a disability, EEOC argues to court",
+        "summary": "In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
+        "detail": "来源: HR Dive。In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/eeoc-amicus-brief-hemorrhoids-disability/830201/"
+      },
+      {
+        "id": "sig-2026-09-14-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Lead AI Finance App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-14-1",
+        "priority": "high",
+        "action": "关注「Roundtables: Could AI really kill us all」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-14-2",
+        "priority": "low",
+        "action": "关注「What&#8217;s behind the AI industry’s la」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-14-3",
+        "priority": "low",
+        "action": "关注「Hemorrhoid pain can be a disability, EEO」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-14-4",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Lead AI Fin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 39,
+      "types": [
+        "tech"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-14 生成，聚合了 27 条新闻、0 篇论文、12 个岗位。",
+    "fetchWindow": "2026-09-14 00:00 - 2026-09-14 23:59"
+  },
+  {
     "id": "report-2026-09-13-auto",
     "date": "2026-09-13",
     "session": "auto",
