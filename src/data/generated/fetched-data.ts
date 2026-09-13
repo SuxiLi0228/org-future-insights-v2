@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-automattic-confirms-mullenweg-has-returned-as-ceo-after-atte-1789255538000",
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-    "publishedAt": "2026-09-12",
+    "id": "news-fusion-power-startups-find-new-partners-in-the-defense-world-1789305300000",
+    "title": "Fusion power startups find new partners in the defense world",
+    "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+    "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -55,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789296719000",
-    "title": " 长安之后，西安又造了一个“长安” ",
-    "link": "https://www.huxiu.com/article/4890808.html?f=rss",
-    "summary": "本文来自微信公众号： Shark成龙 ，作者：Shark成龙 第一次来西安，我就坚信这地方值得反复打卡。等到第五次终于带上家人同游时，我才确信，比起兵马俑的震撼、不夜城的喧闹，真正让我念念不忘的，是那些散落在角落里、看似不起眼却总在记忆里闪回的细节。 那种感觉，从落地咸阳机场就开始了。 T5航站楼里竟然藏着一座博物馆。建设时挖出的121件文物没有被锁进库房，而是直接摆在了到达厅。你还没踏进西安市区，就已经一头撞进了这座城市的历史里。 机场里有“秦兜兜”文创，市区里大雁塔变成了手办，连甑糕都长出了“杨不胖”这样的本土品牌。最逗的是，有些厕所的男女标识画的是唐玄宗和杨贵妃。 从高铁站到酒店，从饭馆到商场，再到城墙、兵马俑、长安十二时辰，“长安”“大秦”“丝路”这些符号无处不在。它们形态各异，却分明属于同一个世界。 我慢慢意识到，西安真正厉害的地方，早已超越传统“景区生意”的范畴，长成了一套精密运转的城市级文化消费系统。 2025年，西安接待游客3.27亿人次，游客总花费4026.2亿元；同期洛阳接待游客1.58亿人次，旅游收入1285.39亿元。人数差了一倍，收入却差了整整三倍，2700多亿的缺口大约相当于洛阳半年多的GDP。 同样的千年文脉，凭啥一个天一个地？ 01 一、做文旅，手里到底得有什么牌？ 抛开学术概念，一座城市想做文旅，底牌无非三张。 第一张是时间资产。历史、人物、传说、",
+    "id": "news--1789313072000",
+    "title": " 爱马仕、猪肉价格与中国消费的更多可能 ",
+    "link": "https://www.huxiu.com/article/4890839.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：🌏 2026年7月29日，爱马仕执行董事长Axel Dumas在上半年业绩说明会上，提起了自己读到的一篇中国报道。 猪肉价格，成了Axel Dumas观察中国消费的一个另类指标。他读到的报道把猪肉与宴请、聚餐联系起来：餐桌上热闹起来，或许意味着人们更愿意社交、庆祝，也对生活多了一些乐观。他因此期待猪价回升，希望从中看到社交消费回暖的迹象。 Axel Dumas对中国市场的描述依然审慎：情况已经稳定，但他还没有看到明显改善。在谈到猪价时，他也提到了爱马仕自己的产品，希望它们能给顾客带来愉悦。 爱马仕从聚餐与庆祝中寻找消费回暖的信号。已经披露的半年报，则让我们看到人们在生活其他方面的投入：更专业地参与一项运动，改善居家的睡眠体验，照顾宠物，或为一份新口味、一个喜欢的角色花钱。这些具体的选择，正在为不同品类的品牌创造业务机会。 中国消费的更多可能，也体现在品牌回应这些需求的方式上。生活方式可以带动一组相关的商品与服务，对一群顾客的持续理解可以支持更深入的经营，愉悦感则让日常商品拥有功能之外的吸引力。财报中的增长仍有分化，但这些跨越品类的共同变化，让我们看到了市场的韧性，以及品牌仍可开拓的空间。 01 生活方式带动消费，也带动新的生意 恒隆在中报中观察到，休闲、运动与娱乐分走了逛商场的时间，也给相关服装和装备品牌带来了机会。 一个",
     "publishedAt": "2026-09-13",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-150-129-huggingface-1789295541000",
-    "title": "【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace",
-    "link": "https://www.tmtpost.com/8138480.html",
-    "summary": "（9月7日-9月11日）华为“韬定律”芯片麒麟9050 Pro首现身；阿里辟谣钉钉创始人“无招”回归；ARM自研AI CPU获两大中国客户：联想、字节火山；OpenAI放弃今年上市……",
+    "id": "news--1789302146000",
+    "title": "老板电器，不能靠燃气灶“点火”了？",
+    "link": "https://www.tmtpost.com/8134632.html",
+    "summary": "老板电器的火候“失控”了。",
     "publishedAt": "2026-09-13",
     "source": "钛媒体",
     "tags": [
@@ -94,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-s-sam-altman-says-it-would-be-8216-ill-advised-8217-t-1789244356000",
-    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "id": "news-automattic-confirms-mullenweg-has-returned-as-ceo-after-atte-1789255538000",
+    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
     "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
@@ -134,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1789296651000",
-    "title": " Agent 时代，腾讯的大招还有用吗？ ",
-    "link": "https://www.huxiu.com/article/4890807.html?f=rss",
-    "summary": "本文来自微信公众号： Shark成龙 ，作者：Shark的放肆思考 要论先下手为强，腾讯是一家很少需要抢第一的公司。 回头看腾讯过去二十多年，你会发现，从社交、游戏、云计算，到今天的大模型和Agent，它很多时候都不是第一个冲出去的人。腾讯更习惯让别人先探索市场、验证需求、踩完第一批坑，等方向逐渐清晰，再凭借庞大的用户基础、成熟的产品能力、流量入口和生态资源迅速追赶。 这几乎已经成了腾讯最有辨识度的一种战略能力： 延迟下注，放大确定性。 当年很多人把这种能力理解成腾讯“善于跟进”（我翻译一下，就是抄能力+钞能力，哈哈，这很腾讯）。跟进谁都会，难的是晚出发的情况下，怎么把别人几年攒下来的先发优势迅速压下去。 这件事，腾讯过去一次次证明过，自己确实干得了。 可到了Agent时代，事情开始有点不一样了。腾讯的大招，可能第一次碰上了一套不断变化的游戏规则。 01 一、腾讯为什么总是晚一步，却经常赢到最后 为啥这么做？因为第一个探索市场的人，要承担一种很贵的成本，行业内叫它不确定性成本。 一个新产品究竟有没有需求，用户愿不愿意改变习惯，交互方式能不能成立，商业模式最后落在哪里，这些问题在市场形成以前，谁都没有标准答案。先行者要自己找答案，腾讯很多时候会等答案露出一部分以后再进场。 游戏如此，移动社交如此，云计算也有类似特征。它很少把全部筹码押在一个未经验证的未来上，一旦产业方向逐渐清晰，腾讯",
+    "id": "news-ai-1789312250000",
+    "title": " 阿莫迪、奥特曼、马斯克都喊放缓，难道他们真的看到AI在...... ",
+    "link": "https://www.huxiu.com/article/4890837.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 AI末日论再次袭来。 发出警告的人，已经不只是实验室外的活动家，而是曾经亲手训练这些模型的人。OpenAI的奥特曼、Anthropic的阿莫迪，以及SpaceX的马斯克，都开始公开支持放缓前沿AI的发展。 但这一次三巨头的回应，再次让人担忧AI行业利益结构本身将会影响安全治理。 人们想出了一万种理由去揣测他们的动机，但就是不相信他们所说的理由： -他们是要监管捕获； -他们竞争不过（中国）开源模型了； -谷歌DeepMind偷偷干出了RSI（递归自我提升AI）； -他们的模型撞上天花板了，想找个理由管理人们对AI的信仰； -他们想找个理由推迟IPO； -他们建数据中心压力山大，想喘口气； -他们真的遇到AI干出了非常、非常可怕的事情； …… 从OpenAI的智能体逃出沙箱集体“哗变”，AI在黑箱中用千亿token暴力破解各种数学猜想，三巨头等的AI服务器最近同时出现宕机，直至参议员桑德斯提出议案要全面禁止前沿模型的进一步研发，这一切都发生在Anthropic上市前夕。 然后，就从一个根本就没有几个人关注的社交媒体账号上，冒出了一位“前Anthropic安全研究员”，变成了一位AI安全的吹哨人，立即产生了上亿次的关注。 这又发生在中美双方展开AI对话之际。 两个死对头开始唱和 这次“暂缓AI”的呼声，很容易让人想起2023年年初。当时",
     "publishedAt": "2026-09-13",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789289875000",
-    "title": "第二届联合国“一带一路”峰会在新加坡成功举办",
-    "link": "https://www.tmtpost.com/8138384.html",
-    "summary": "本次新加坡峰会接续首届印尼峰会的合作成果，进一步完善了全球企业高质量共建“一带一路”的对话机制与合作体系。",
+    "id": "news-agent-1789302020000",
+    "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
+    "link": "https://www.tmtpost.com/8138378.html",
+    "summary": "OpenAI把安全摆到IPO之前，Meta暂时站在另一边。",
     "publishedAt": "2026-09-13",
     "source": "钛媒体",
     "tags": [
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-ceo-outlines-plan-to-slow-ai-development-1789241684000",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "id": "news-openai-s-sam-altman-says-it-would-be-8216-ill-advised-8217-t-1789244356000",
+    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
     "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
@@ -213,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789295542000",
-    "title": " 为什么不敢想象中国队全员大学生全员英语的大场面？ ",
-    "link": "https://www.huxiu.com/article/4890806.html?f=rss",
-    "summary": "本文来自微信公众号： 有马体育 ，作者：码哥 中国女篮在一个大家可以预见的节点上结束了世界杯之旅，踏上了亚运会征程。 五战三胜二负，成绩其实相当过得去了。小组赛输美国八强赛输法国都是必死局，要感谢对方有风度，没有往死里刷数据，都只赢到30分上下就收工下班，要按美国以52分优势淘汰匈牙利那种操作，会被打出史诗级的创伤。加时赛险胜捷克很侥幸，附加赛险胜波多黎各也如我们事前预测一样不易，而大胜实力占优的意大利则堪称中国篮球近几年来的经典之作。 故而仅仅以绩效论，备受指责的宫鲁鸣及教练组，把一个一不小心就小组垫底的逆风局打成最终排名第七，功劳和苦劳都不欠大家的。 但是热心球迷和吃瓜群众大都纳了重税，骂骂咧咧既是权利，也是应有之义。除了豪取意大利一役，大家不满意比赛内容，对所谓“丑赢”心有不甘，即使很满意的中意之战，大家也痛感能打球的选手是如此之少，不喜欢宫鲁鸣的民科评论家原本想搞点“一将无能，累死三军”的戏码，结果做不到，我们不只是没有“三路大军”，简直是连三个好兵都凑不齐——李月汝不知怎么弄丢了护照，中国队能够在水准线上正常输出的战术载体就剩韩旭和杨舒予两个，支撑这么大的逆风局，教练再神机妙算，也只能建立在先累死她俩的基础上了。 宫鲁鸣肯定有他的问题，但以极具针对性的部署痛击意大利，证明这位多次临危受命执教中国男篮和女篮的老教练绝非庸才。惯于在社交媒体上排兵布阵的“国家队帐外行走”往往痛",
+    "id": "news-6-1789310832000",
+    "title": " 欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台 ",
+    "link": "https://www.huxiu.com/article/4890836.html?f=rss",
+    "summary": "本文来自微信公众号： 科工力量 ，作者：胡祥熙 中国科技企业正在欧洲跨界新能源。 近期在柏林国际消费电子展（IFA）上，无人机企业大疆展示了光伏板、微型逆变器、Power 2000储能电池，并把他们串联成一套完整的阳台太阳能系统。 无独有偶，前后两个月的时间里，公牛、比亚迪等中国企业也纷纷入局。再往前看，安克创新已于2026年5月发布阳台光储产品，宜家在德国上线了阳台光伏套装，欧洲本土也有不少品牌在抢食。 从价格上看，大疆的整套系统可能在1500欧元以上，德国一套典型的双组件即插即用系统价格约为500欧元，价格上尚未到亲民的地步。 电价涨了6倍的欧洲 欧洲家庭正在经历一场能源焦虑。 2022年俄乌冲突后，德国电力现货价格从年初不到100欧元每兆瓦时飙升至8月706欧元每兆瓦时，居民电价一度涨至0.8欧元每度。 2025年中东局势再度紧张，天然气价格上涨50%，石油价格上涨27%，10天内欧洲纳税人为化石燃料进口额外支出约30亿欧元。目前德国用电成本仍高达42欧分每千瓦时，中国居民电价仅为欧洲的五分之一到六分之一。 但电价高只是问题的一面。德国超过一半人口租房住，比例全欧盟最高。租房者没有屋顶安装传统光伏板，公寓楼安装屋顶光伏需业主大会绝大多数通过，涉及防水责任时往往被一票否决。越需要省电费的人，反而越用不起光伏，这种能源马太效应在德国尤为突出。 阳台光伏的出现彻底改变了这个局面。这",
     "publishedAt": "2026-09-13",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789284962000",
-    "title": "大厂卷AI，打工人买单",
-    "link": "https://www.tmtpost.com/8138287.html",
-    "summary": "打工人被迫自费AI上班。",
+    "id": "news--1789302015000",
+    "title": "感受到了时代的摇摆",
+    "link": "https://www.tmtpost.com/8138279.html",
+    "summary": "摇摆本身就是这个时刻的形状。",
     "publishedAt": "2026-09-13",
     "source": "钛媒体",
     "tags": [
@@ -252,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-says-it-will-finally-unveil-the-second-generation-road-1789240879000",
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-    "summary": "Tesla’s halo sports car was first announced in November 2017.",
+    "id": "news-anthropic-ceo-outlines-plan-to-slow-ai-development-1789241684000",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
     "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
@@ -292,24 +292,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789294731000",
-    "title": " 东吴无战事：殡葬需求的巨大缺口，苏州只能期待新王者的到来 ",
-    "link": "https://www.huxiu.com/article/4890802.html?f=rss",
-    "summary": "作者：仲志远（资深媒体人），原文标题：《东吴无战事&mdash;&mdash;殡葬需求的中产家庭巨大缺口，苏州只能期待新王者的到来》，题图来自：AI生成 苏州辖内的银发经济，现在不知道是西方绘画史上抽象主义还是象征主义的一幅怪作：一半是火焰，一半是海水。 火焰那一头，燃烧在阳澄湖、太湖、吴中新城。险企老总们端着咖啡在样板间里畅谈&ldquo;优雅老去&rdquo;，水晶灯照得老人白发发光，活动课表排得比大学还满。海水那头，沉在虎丘山塘街往北几公里，沉在凤凰山塔园荒了30年仍剩二十八亩的草丛里，沉在中产子女深夜打开手机搜&ldquo;苏州室内格位多少钱&rdquo;的那句沉默里。 同一座城，同一批222万多户苏州籍老人。前半程被大力争抢，后半程被晾到一边。养老做成了大秀场，殡葬仍是个谁都不肯先提的忌讳话题。 一、养老产业&ldquo;和气生财&rdquo;的真相 苏州的养老市场像一场永不打烊的江南灯会。泰康吴园三年住满千人，国寿雅境在阳澄湖另起了一席，太保家园太湖新城2025年5月点亮，试运营就签了70名长住户，东吴人寿拉上倍磅和爱照护做轻资产平台，平安居家养老铺了百城，却把重资产&ldquo;臻颐年&rdquo;举棋不定，左思右想仍不知从何下口，只能在苏州的棋局上按兵不动。 他们争的不是同一块肉。泰康锁高客保单、国寿吃央企文旅、太保切认知症、东吴走本地平台、平安铺居家养老&mdas",
+    "id": "news--1789310673000",
+    "title": " “再也不敢相信小仙女了” ",
+    "link": "https://www.huxiu.com/article/4890835.html?f=rss",
+    "summary": "本文来自微信公众号： 西坡原创 ，作者：西坡 还记得“四岁小孩摸屁股”事件吗？网络时代，一个星期像一个世纪一样久远，所以当我谈论一周之前的事，需要鼓起做考古学家的勇气。 考古学里面有个重要的东西叫做地层。梭罗说：“大地不仅仅是死的历史的碎片，地层摞着地层，像书页一样一页压着一页，需要地质学家和考古学家专门去研究，它是活着的诗歌，像树的叶子，先于花朵和果实……”浪漫而准确。 我们对网络热点的关注，常常是被动而徒劳的，就这点破事给我们看，就这点破事给我们聊。假如我们抱着古早的互联网精神，围观改变什么，那么失落失望力气打在棉花上，便在所难免。更让人绝望的其实是，举全网全民之力，去达到一个原本就该由常识决定的结果，即便成功了，又有什么可庆祝？何况许多时候，就连这个也做不到。 但考古和地层给了我一个启示，如果我们把这些本质上鸡零狗碎却引起轩然大波的网络热点，看成是正在埋藏、压紧在我们这个地层里的“非实物”，那它还是可以揭示一些东西的。再过五千年，我们就是先民了嘛，先假装自己是未来的考古学家。有时候，兜这么一个圈子，事情才能看清楚。鲁迅不就用过这样的法子，我们“都有做祖宗的希望，所差的只在一个时间……无须客气，尽可先行占住了上风，摆出父亲的尊严……” 好比我们还不会写字的祖宗，吃完东西把骨头、果核随手扔在地上，就可能成为研究当时技术、文化的重要线索。今天网络上接茬变化的热点，假如能在服务器上留",
     "publishedAt": "2026-09-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1789284865000",
-    "title": "科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同",
-    "link": "https://www.tmtpost.com/8138286.html",
-    "summary": "或许，想要放缓的不是AI的速度。",
+    "id": "news-ai-1789301995000",
+    "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+    "link": "https://www.tmtpost.com/8138350.html",
+    "summary": "国产AI芯片公司终于到了要看利润表的时刻。",
     "publishedAt": "2026-09-13",
     "source": "钛媒体",
     "tags": [
@@ -332,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-revolut-confirms-customer-data-breach-through-fake-governmen-1789224000000",
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "id": "news-tesla-says-it-will-finally-unveil-the-second-generation-road-1789240879000",
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "summary": "Tesla’s halo sports car was first announced in November 2017.",
     "publishedAt": "2026-09-12",
     "source": "TechCrunch",
     "tags": [
@@ -372,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789293381000",
-    "title": " 逃出布隆迪，当一个国家同时失去了经济与自由。 ",
-    "link": "https://www.huxiu.com/article/4890801.html?f=rss",
-    "summary": "本文来自微信公众号： 物美非洲 ，作者：阿印 凌晨四点，布隆迪首都布琼布拉的街道还未苏醒，但长途汽车站已经挤满了人。他们背着编织袋，拖着塑料行李箱，眼神中交织着恐惧与决绝。这不是一次普通的出行，而是一场无声的逃亡。 在非洲大湖地区的心脏地带，一场静默的人口外流正在加速。世界银行的数据像一记冰冷的判决：布隆迪约四分之三的1460万人口生活在极端贫困中，86%的劳动力从事仅能维持生存的农业。这个被列为“最不发达国家”的内陆国家，正同时遭受经济崩溃与政治压制的双重挤压，迫使越来越多的公民跨越边境——不是作为追求更好生活的移民，而是作为“为生命和生计而逃亡的人”。 加油站的长龙：燃料断供，一切都在崩塌 在布琼布拉的加油站前，汽车排成长龙，许多司机已经等待了数小时甚至数天。自2026年3月中东冲突升级以来，布隆迪的汽油和柴油进口量急剧下降，预计至少到9月前都将维持异常低位。燃料短缺像一根引线，点燃了物价的连环爆炸。 木炭价格在城市地区已经翻倍甚至涨至三倍。2026年4月，大多数商品价格较3月上涨约5%，而豆类价格在全国范围内飙升30%，城市地区涨幅接近50%。与五年前相比，主要食品价格高出20%至70%。在一个四分之三人口处于极端贫困的国家，这种价格压力意味着无数家庭被推向了生存的悬崖边缘。 农业部门同样遭受重创。2026年B季的豆类作物因3月底至4月中旬的降雨不足而严重减产，其中半干旱的北",
+    "id": "news-app-1789308646000",
+    "title": " 一个运动APP，把美国的军事基地给曝光了？ ",
+    "link": "https://www.huxiu.com/article/4890834.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 士兵用运动APP公开自己跑步路线这事儿又翻车了。英国媒体Sky新闻前一阵挖了一个大瓜，说是挖出了超过1300名Strava用户在美军基地内公开上传自己的运动轨迹。而这些公开数据，理论上可能成为伊朗的情报，被拿来炸美军基地。 甚至其中一些运动轨迹，真就恰好能对应上伊朗的攻击位置，很难让人不产生联想。 01跑个步， 军事基地的细节就被“炸”出来了？ Strava是一个海外很火的运动社交APP，对于运动爱好者来说很好用，也有很强的社交属性。而它的主要功能之一就是记录并上传各种运动路线，甚至有一些人会用它一边跑步、骑行，一边用轨迹在地图上绘制图案。 那么，英国Sky新闻的调查记者是怎么用它来调查美军的？ “核心出装”不需要什么黑客技术，因为Strava的部分用户自己就把最关键的信息放在网上了，也就是位置、时间、身份。所以调查就是把大量线索交叉筛选，从公开的资料入手，把用户个人主页、社交媒体、跑步路线、时间串联起来。 就这样调查团队挖出了1300多名在中东美军基地发布运动记录的用户，甚至一些没有公开标注的军事设施，其中大多数人使用软件的时候还用了真实姓名。然后通过这些用户的活动记录对比，分析出他们谁是美军士兵，在基地什么时候活动，如果撤离会去哪里，以此来推理出一个基地的运转节奏。 简单来说，如果你知道这人是美军的身份，那么他固定跑步的位置",
     "publishedAt": "2026-09-13",
     "source": "虎嗅",
     "tags": [
@@ -385,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sk-93-1789284859000",
-    "title": "已傍上SK海力士的大腿？光伏主业负债93%，华民股份选择烧钱押注半导体当第二增长曲线，靠谱么？",
-    "link": "https://www.tmtpost.com/8138241.html",
-    "summary": "华民股份光伏主业巨亏高负债，半导体转型仍待时间验证。",
+    "id": "news-50-1789301861000",
+    "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
+    "link": "https://www.tmtpost.com/8138516.html",
+    "summary": "50亿美元不是一场庆功宴的香槟，而更像是下一阶段长跑的补给站。",
     "publishedAt": "2026-09-13",
     "source": "钛媒体",
     "tags": [
@@ -400,7 +399,393 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2609.11923v1",
+    "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+    "authors": [
+      "Boning Li",
+      "Longbo Huang"
+    ],
+    "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed game, everything about a CFR iteration except the numerical values is known before the first iteration runs. We propose GPU-CFR, a compiler and runtime built on this observation. It compiles any game once into static dataflow: flat edge and information-set arrays, precomputed indices, and depth-lev",
+    "link": "http://arxiv.org/abs/2609.11923v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.DC",
+      "cs.AI",
+      "cs.GT",
+      "cs.MS",
+      "cs.PL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11918v1",
+    "title": "General Quantification of Covariate and Concept Shifts",
+    "authors": [
+      "Hongbo Chen",
+      "Li Charlie Xia"
+    ],
+    "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general error bound unifying covariate and $γ^{*}\\!$-concept shifts, which applies to broad loss functions, label spaces, and stochastic labeling. We further develop estimators for these shifts with concentration guarantees, and the DataShifts algorithm, which can quantify distribution shifts and estimate t",
+    "link": "http://arxiv.org/abs/2609.11918v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11917v1",
+    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "authors": [
+      "Atindra Jha",
+      "Margaret Li",
+      "Jure Leskovec",
+      "Percy Liang",
+      "Luke Zettlemoyer"
+    ],
+    "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as Mixture-of-Experts (MoE), despite their increased compute efficiency. We vary data repetition rates across single- and multi-domain data mixes, and across MoE settings, including expert count and granularity. We consistently find, for models ranging from 80M to 1B active (8.5B total) parameters, that MoEs degrade more rapidly under data repetition. This effect increases with sparsity, dictated by total rather than active parameters. While 80M dense models can repeat data over 8x with m",
+    "link": "http://arxiv.org/abs/2609.11917v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11916v1",
+    "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+    "authors": [
+      "William Zhou",
+      "Mayukha Siripuram",
+      "Xiao Yan",
+      "Ziqi Liu",
+      "Yi Ding"
+    ],
+    "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this deployment-relevant 2--8B range carry genuine taxonomic knowledge, evaluating four such VLMs (Qwen3-VL 2B/4B/8B, Gemma3 4B) against the domain-specific specialist BioCLIP (300M parameters) on a 96-species task, comparing clean iNaturalist photographs against camera-trap imagery from 6 LILA.science collections, on two independently-sampled evaluation sets. All models identify species far above chance, but every model -- general-purpose or specialist -- degrades sharply on field imagery (domain gaps of 9.6--26.6 per",
+    "link": "http://arxiv.org/abs/2609.11916v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11915v1",
+    "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+    "authors": [
+      "Masahiro Kato",
+      "Daiki Honma",
+      "Taka Kato"
+    ],
+    "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business responses under alternative treatment sequences and establishes sufficient conditions for identifying the resulting effects. We investigate the empirical performance of the proposed method using simulated ans",
+    "link": "http://arxiv.org/abs/2609.11915v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "stat.ML",
+      "cs.AI",
+      "cs.LG",
+      "econ.EM",
+      "stat.ME"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11913v1",
+    "title": "Distance generalization in transformers: why bother with positional encoding?",
+    "authors": [
+      "Daniel Henrik Nevermann",
+      "Claudius Gros"
+    ],
+    "summary": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such as RoPE and ALiBi improve distance resolution relative to no positional encoding (NoPE)? (B) How does data diversity, the number of inter-token distances seen in training, affect performance? (C) When",
+    "link": "http://arxiv.org/abs/2609.11913v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11911v1",
+    "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+    "authors": [
+      "Yakov Pyotr Shkolnikov"
+    ],
+    "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other behavioral transitions are specified externally. We propose an artificial id, an adaptive internal drive for determining whether behavior should continue, stop or change. In a minimal virtual Petri-dish experiment, a controller too small to perform general-purpose reasoning and receiving no task-specific behavioral objective develops useful control through differential persistence. The same mechanism selects an unintended physical strategy when that behavior persists better and later replaces a learned",
+    "link": "http://arxiv.org/abs/2609.11911v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11910v1",
+    "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+    "authors": [
+      "Nitesh V. Chawla",
+      "Paulo Benanti"
+    ],
+    "summary": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deployed, AI becomes an intervention in those conditions. It can repair, compound, substitute for, or conceal the failures it encounters. Responsible AI must therefore evaluate both the system and the institutional rupture into which it is introduced. The move from principles to protocols is already underway. The EU AI Act, NIST AI RMF, ISO/IEC 42001, and assurance practices translate commitments into roles, requirements, records, oversight, and assessment. The harder questions are what these protocols actually establish, whose power they leave untouched, and where measurement must stop. Pope Leo X",
+    "link": "http://arxiv.org/abs/2609.11910v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11904v1",
+    "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
+    "authors": [
+      "Akshaj Gupta",
+      "Hwi Joo Park",
+      "Andrea Guzman",
+      "Shamak Gowda",
+      "Samhita Konduri",
+      "Jiachen Lian",
+      "Robin Netzorg",
+      "Gopala Anumanchipalli"
+    ],
+    "summary": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often assign notes to incorrect string-fret combinations; and they are typically trained on clean recordings, limiting their generalization to noisy real-world audio. To address these challenges, we propose TART, a modular four-stage audio-to-tablature pipeline consisting of (1) an audio-to-MIDI transcription model, (2) an expressive technique classifier, (3) an audio-conditioned T5 encoder-decoder for string-fret assignment, and (4) an automated tablature generator. We evaluate TART in a zero-shot setting on GuitarSet, EGDB, and two augmented benchmarks, Noisy GuitarSet and Noisy EGDB. Averaged acr",
+    "link": "http://arxiv.org/abs/2609.11904v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11900v1",
+    "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+    "authors": [
+      "Yunfei Ge",
+      "Anbang Liu",
+      "Qineng Wang",
+      "Johnalbert Garnica",
+      "Jianwen Lyu",
+      "Zihan Wang",
+      "Reuben Tan",
+      "Jianfeng Gao",
+      "Ruohan Zhang",
+      "Yining Hong",
+      "Jiajun Wu",
+      "Manling Li"
+    ],
+    "summary": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as foundational to spatial understanding, yet foundation-model evaluations largely focus on metric or viewpoint-dependent relations. We introduce MindTopo, a benchmark of topological intuition across five properties grounded in cognitive science and formal topology: continuity, separation, order, enclosure, and knots. MindTopo evaluates each property at two cognitive levels. Reasoning asks a model to identify topological relations or infer how they change. Planning instantiates a foundation model as a closed-loop agent whose policy selects environment actions. MindTopo c",
+    "link": "http://arxiv.org/abs/2609.11900v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11897v1",
+    "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+    "authors": [
+      "Zi-Rong Li",
+      "Si-Yang Liu",
+      "Tian-Zuo Wang",
+      "Han-Jia Ye"
+    ],
+    "summary": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal graph together with the mechanisms that generate data, yet existing studies differ substantially in graph families, mechanisms, and evaluation protocols. The emergence of causal discovery foundation models (CDFMs) further complicates evaluation: performance may reflect not only causal discovery ability, but also overlap between pretraining environments and test SCMs, making results on fixed synthetic benchmarks difficult to interpret. We introduce CausalArena, a unified and evolvable benchmark for causal discovery under a common protocol. Synthetic SCMs supply ",
+    "link": "http://arxiv.org/abs/2609.11897v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11894v1",
+    "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
+    "authors": [
+      "Adnan Armouti",
+      "Yixuan Gao",
+      "Rajalakshmi Nandakumar"
+    ],
+    "summary": "Solving novel view synthesis (NVS) for millimeter-wave (mmWave) radar requires a renderer that is physically faithful, complex-valued, and multi-viewpoint-tractable. No prior method achieves these three properties simultaneously. Differentiable Monte Carlo (MC) ray tracers implement the radar forward model directly with explicit material modeling and complex outputs, but do not scale to the multi-view optimization NVS demands. Optical-NVS ports of NeRF, hash grids, and 3D Gaussians train fast but discard phase and replace explicit material modeling with opaque learned features, restricting them to power-only range-azimuth (RA) magnitudes. We propose 3D Point Splatting (3DPS), the first differentiable point renderer for radar, derived directly from the standard solid-angle form of the radar",
+    "link": "http://arxiv.org/abs/2609.11894v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.CV",
+      "cs.GR",
+      "cs.LG",
+      "eess.SP"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11892v1",
+    "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+    "authors": [
+      "Yingzhi Wang",
+      "Reem Alhazzani",
+      "Muhammad Alqurishi"
+    ],
+    "summary": "As Speech Large Language Models (speech-LLMs) become increasingly multilingual, Arabic remains significantly underrepresented, highlighting the need for dedicated infrastructure to train and evaluate Arabic speech-LLMs. To address this gap, we introduce Nuha-Speech, a comprehensive initiative to develop general-purpose Arabic speech-LLMs spanning dataset construction, model training, and systematic evaluation. Specifically, we constructed a large-scale Arabic Speech Question-Answering (SQA) corpus comprising over 1.5 million training samples to allow instruction tuning over a broad range of core speech tasks. Then, the corpus was used for supervised fine-tuning based on Qwen-Omni model variants at different scales. Finally, we designed an evaluation framework featuring diverse tasks and ta",
+    "link": "http://arxiv.org/abs/2609.11892v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11884v1",
+    "title": "CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search",
+    "authors": [
+      "Yifan Yang",
+      "Zhaoyan Wang",
+      "Zheng Gao",
+      "Xiaoyu Li",
+      "Jiaojiao Jiang"
+    ],
+    "summary": "Zero-cost proxies rank architectures cheaply, but their reliability varies across search spaces. We introduce CoRA-NAS (COarse Ranking + Anchor-residual), a two-stage framework combining a static ranking prior with low-cost learning-curve refinement. CoRA-Rank aggregates capacity and structure-at-initialization proxies through an equal-weight log-rank consensus and a target-free consensus gate. CoRA-Refine samples anchors across this prior, extrapolates their early validation curves, and propagates a learned residual correction with an ExtraTrees model. The refinement uses approximately 1% of the cost of fully training the candidate set. Fully trained architecture-accuracy labels are not used to fit the ranker. One configuration is used across spaces, with space-specific architecture encod",
+    "link": "http://arxiv.org/abs/2609.11884v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11878v1",
+    "title": "Domain-Specific Hallucination Detection in Large Language Models",
+    "authors": [
+      "Varun Teja Chundru",
+      "Debasmita Biswas"
+    ],
+    "summary": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 classification, Monte Carlo (MC) Dropout uncertainty quantification, and temperature-scaled calibration for response-level hallucination detection. Evaluated on the HaluEval benchmark, our pipeline achieves F1=0.915 and AUROC=0.977 on general-domain tasks, with per-task F1 scores of 0.97 (QA), 0.96 (Summarization), and 0.82 (Dialogue). MC Dropout inference further improves accuracy to 93.2%. A context ablation study confirms the model performs genuine entailment reasoning rather than exploiting surface patterns, with summarization F1 dropping 24% when knowledge context is removed. Learning curve an",
+    "link": "http://arxiv.org/abs/2609.11878v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11877v1",
+    "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+    "authors": [
+      "Carl Edwards",
+      "Edward De Brouwer",
+      "Xiner Li",
+      "Namkyeong Lee",
+      "Ehsan Hajiramezanali",
+      "Anne Biton",
+      "Sara Mostafavi",
+      "Gabriele Scalia"
+    ],
+    "summary": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often infeasible and candidate perturbations must instead be prioritized over multiple experimental rounds. Despite the importance of this problem, existing benchmarks for adaptive hit discovery remain limited in scale and diversity. Here, we introduce AssayBench-Loop, a large-scale benchmark for adaptive hit discovery comprising 1,389 CRISPR screens across five phenotype categories. Beyond enabling systematic evaluation, its scale makes it possible to learn acquisition strategies across historical experiments. Building on this resource, we introduce AssayLoop, a sequential experimental design framework ",
+    "link": "http://arxiv.org/abs/2609.11877v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "q-bio.QM",
+      "cs.AI",
+      "cs.CL",
+      "q-bio.GN"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11876v1",
+    "title": "On the Regularization Landscape for the Linear Recommendation Models",
+    "authors": [
+      "Dong Li",
+      "Zhenming Liu",
+      "Ruoming Jin",
+      "Hao Zhou",
+      "Zhi Liu",
+      "Jing Gao",
+      "Bin Ren"
+    ],
+    "summary": "Recently, a wide range of recommendation algorithms inspired by deep learning techniques have emerged as the performance leaders on several standard recommendation benchmarks. While these algorithms were built on different DL techniques (e.g., dropouts, autoencoder), they have similar performance and even similar cost functions. This paper studies whether the models' comparable performance are sheer coincidence, or they can be unified under a single framework. We find that all linear performance leaders effectively add only a nuclear-norm based regularizer, or a Frobenius-norm based regularizer. The former ones possess a (surprising) rigid structure that limits the models' predictive power but their solutions are low rank and have closed form. The latter ones are more expressive and more e",
+    "link": "http://arxiv.org/abs/2609.11876v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11873v1",
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+    "authors": [
+      "Yi Duan",
+      "Ying Liu",
+      "Zirui Tang",
+      "Haodong Chen",
+      "Jun Zhou",
+      "Yumou Liu",
+      "Bangrui Xu",
+      "Yukai Wu",
+      "Sidi Chen",
+      "Yuhan Zhou",
+      "Haoyu Wang",
+      "Xiaoyou Yu",
+      "Shaokun Han",
+      "Xuzhou Zhu",
+      "Le Zhou",
+      "Bolin Lu",
+      "Wei Zhou",
+      "Jiachen Liu",
+      "Nuozhou Fang",
+      "Jiaxin Tian",
+      "Ruoyu Chen",
+      "Yuxuan Li",
+      "Kai Zuo",
+      "Kaiyan Zhang",
+      "Jiantao Qiu",
+      "Conghui He",
+      "Guoliang Li",
+      "Bowen Zhou",
+      "Zhiyuan Liu",
+      "Zhoufutu Wen",
+      "Jihua Kang",
+      "Xuanhe Zhou",
+      "Fan Wu"
+    ],
+    "summary": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use the Headroom-Closed Index (HCI) to reveal the problems of existing LLMs, then introduce the RSI concept and its development roadmap: from improvement-execution autonomy, improvement-strategy autonomy, experience-acquisition autonomy, and environment-adaptation autonomy, to recursive meta-improvement. Next we examine RSI across scenarios (e.g., scientific discovery, embodied intelligence, software engineering), highlighting their distinct requirements and development speeds. Drawing on diverse industry practices and preliminary empirical evidence, we connect RSI research with practical systems and",
+    "link": "http://arxiv.org/abs/2609.11873v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11872v1",
+    "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+    "authors": [
+      "Bowen Zhang",
+      "Hsiu-Wen Cheng",
+      "Hongyu Yang",
+      "Evie L. Shen",
+      "Joleen Vansomphone",
+      "Yuna Li",
+      "Kerry Zhou",
+      "Zitian Qu",
+      "Suning Zhao",
+      "Xiangning Deng",
+      "Hua Zhou",
+      "Jin J. Zhou"
+    ],
+    "summary": "Continuous glucose monitoring (CGM) provides high-frequency measurements of glucose dynamics and enables short-term glucose forecasting for diabetes management. Although time-series foundation models have shown strong general forecasting ability, their effectiveness for CGM prediction and the added value of multimodal dietary context remain unclear. We conduct a comprehensive empirical study using eight public CGM datasets spanning Type 1 diabetes, Type 2 diabetes, and non-diabetes populations. Under a unified protocol across multiple context lengths and prediction horizons, zero-shot foundation models did not consistently outperform strong task-specific baselines such as Elastic Net and PatchTST. In contrast, lightweight fine-tuning substantially improved forecasting performance. For exam",
+    "link": "http://arxiv.org/abs/2609.11872v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.11870v1",
+    "title": "Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model",
+    "authors": [
+      "Lisa Bylinina"
+    ],
+    "summary": "A language model normally begins training with random word embeddings: whatever 'banana' means must be learned from training corpora. I implement St. Augustine's picture of word learning, meaning by ostension, for a small masked language model (DeBERTa) trained on 10M words: before training, visually grounded tokens receive embeddings derived from the image regions they label; other tokens start random. Visual initialization leaves a measurable imprint that lasts until the end of training. At the same time, the effect remains invisible under most BabyLM benchmarks, which probe abstract grammatical knowledge: visual initialization does not affect performance there. The only zero-shot exception is object-property knowledge (COMPS, Misra et al. 2023), where seeding helps in every configuratio",
+    "link": "http://arxiv.org/abs/2609.11870v1",
+    "publishedAt": "2026-09-10",
+    "categories": [
+      "cs.CL"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -599,4 +984,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-13T11:02:22.293Z';
+export const dataFetchedAt = '2026-09-13T15:33:09.079Z';
