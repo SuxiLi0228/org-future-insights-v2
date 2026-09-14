@@ -28,24 +28,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hemorrhoid-pain-can-be-a-disability-eeoc-argues-to-court-1789156260000",
-    "title": "Hemorrhoid pain can be a disability, EEOC argues to court",
-    "link": "https://www.hrdive.com/news/eeoc-amicus-brief-hemorrhoids-disability/830201/",
-    "summary": "In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
-    "publishedAt": "2026-09-11",
+    "id": "news-healthcare-was-built-around-specialties-patients-experience--1789376400000",
+    "title": "Healthcare was built around specialties. Patients experience it as one journey.",
+    "link": "https://www.hrdive.com/spons/healthcare-was-built-around-specialties-patients-experience-it-as-one-jour/829367/",
+    "summary": "Responsible spending starts with timely access, informed choices and more connected care.",
+    "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-glm-6-0-1789345856000",
-    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-    "link": "https://www.qbitai.com/2026/09/488694.html",
-    "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+    "id": "news--1789379227000",
+    "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+    "link": "https://www.qbitai.com/2026/09/489105.html",
+    "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
     "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789355235000",
-    "title": " 一人创业时代：组织能力依托AI压缩至个体 ",
-    "link": "https://www.huxiu.com/article/4890924.html?f=rss",
-    "summary": "本文来自微信公众号： 清华管理评论 ，责编：高菁阳，作者：贾迎亚 周昊阳 AI让“一人创业”成为大规模可行的商业现实。OPC的本质并非传统公司的缩小版，而是组织能力向个体的压缩。通过比较专才、通才与T型人才的差异，本文指出，真正能跑通OPC商业闭环的，是兼具专业深度、跨界广度与价值翻译能力，并能将AI嵌入生产系统的T型人才。文章进一步提炼出AITL飞轮模型——作为AI原生OPC的组织能力系统，为个体创业实践与组织形态变革提供参考。 曼谷的一家青年旅社里，荷兰程序员皮特·莱弗斯（Pieter Levels）用一台二手笔记本电脑，写下了Nomad List——一个帮助全球数字游民筛选城市的网站——的第一行代码。十二年后，这个由他一人维护的网站，每月仍能为他带来数万美元收入。在同一时期，YouTube上拥有500万粉丝的英国医生阿里·阿卜杜勒（Ali Abdaal）从剑桥医学院毕业，构建起横跨内容创作、效率工具与付费课程的商业版图；法国独立开发者马克·卢（Marc Lou）在3年内连续启动25个项目，2025年总收入突破103万美元；国内，前互联网大厂算法工程师卢冠男离职创办Just AI，以一人公司模式为中小商家提供AI营销内容生成服务，创业数月即实现稳定盈利；杭州一名建筑师胡政涛以独立开发者身份埋头写下14万行代码，从零构建AI原生的3D建筑设计平台，获得5万美元启动资金。这些跨越国",
+    "id": "news-keep-1789385850000",
+    "title": " 当卖货成主业，Keep的双重错位 ",
+    "link": "https://www.huxiu.com/article/4891108.html?f=rss",
+    "summary": "本文来自微信公众号： 财经无忌 ，作者：向光 当热爱健身的人，打开今天的Keep(03650.HK)，会有一种错乱感：工具、会员专区、直播课、社区、AI课程，一个运动App，用户需要花点时间，才能找到“运动”在哪。 顶着“运动科技第一股”上市，今天的Keep甚至都无法说清自己的定位。 在业绩电话会上，Keep创始人王宁说，Keep要做“运动健康行业的AI解决方案供给方”。 也就是说，Keep想做一家靠AI技术吃饭、按科技公司逻辑估值的公司。 但财报里的Keep却是另一个样子： 今年上半年58.5%的收入来自自有品牌消费品，线上会员收入同比下滑26.9%，卖货成了Keep的主业。 两个Keep，到底哪一个才是真的？这一问题的答案无疑决定了Keep未来的想象力。 理想丰满、现实骨感，过去三年，Keep的市值从160亿港元跌至不足8亿，蒸发约95%。 从一家靠内容生态和会员崛起的平台型公司转型为一家靠产品和AI撑起增长的公司，频繁换活法的Keep，始终困在自己的“错位”里。 Keep不是今天才开始卖货。时间拨回2018年，Keep就发布了自己的第一款智能硬件，那是一台售价1999元的跑步机。 8年后，Keep的卖货生意越做越大。 从收入看，Keep已是一家卖货多于卖内容的公司，自有品牌消费品贡献了Keep超半数的收入； 从品类看，从跑步机、爬楼机、运动装备、运动服饰到健康食品，全方位覆盖",
     "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
@@ -69,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-ai-1789353611000",
-    "title": "仅仅半年，6亿人“中毒”AI短剧",
-    "link": "https://www.tmtpost.com/8138598.html",
-    "summary": "台风口上的生意，像极了2018年的短视频。",
+    "id": "news--1789385137000",
+    "title": "轮到宁德时代管理市值了",
+    "link": "https://www.tmtpost.com/8139286.html",
+    "summary": "管理的对象，从一门电池生意，慢慢扩展到了资本本身。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -108,25 +107,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jury-should-decide-if-university-s-hiring-process-was-tainte-1789156260000",
-    "title": "Jury should decide if university’s hiring process was tainted by diversity goals, court rules",
-    "link": "https://www.hrdive.com/news/jury-should-decide-if-universitys-hiring-process-was-tainted-by-diversity/830177/",
-    "summary": "A White former associate director for Rochester Institute of Technology claimed the university used race-based criteria to select a Black candidate as director instead of promoting her.",
-    "publishedAt": "2026-09-11",
+    "id": "news-the-future-of-talent-sourcing-is-more-than-clicks-1789376400000",
+    "title": "The future of talent sourcing is more than clicks",
+    "link": "https://www.hrdive.com/spons/the-future-of-talent-sourcing-is-more-than-clicks/830132/",
+    "summary": "Three shifts are redefining how talent acquisition teams source and hire quality candidates.",
+    "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-2000-1789285100000",
-    "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-    "link": "https://www.qbitai.com/2026/09/488672.html",
-    "summary": "亮源新创的Physical Al路线清晰了",
-    "publishedAt": "2026-09-13",
+    "id": "news-aidc-5a-1789379200000",
+    "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+    "link": "https://www.qbitai.com/2026/09/489106.html",
+    "summary": "业界首个5A算电协同认证",
+    "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -135,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-43-1160-1789354800000",
-    "title": " 43亿只鸭、产值1160亿，为啥却养不出一个\"鸭王\"? ",
-    "link": "https://www.huxiu.com/article/4890775.html?f=rss",
-    "summary": "鸭肉市场巨大，鸭子却未能像猪有牧原、鸡有圣农那样诞生百亿巨头。说到底，鸭行业天生就不长在资本的审美上。",
+    "id": "news--1789385831000",
+    "title": " 中国摇滚伤心往事 ",
+    "link": "https://www.huxiu.com/article/4891107.html?f=rss",
+    "summary": "本文来自微信公众号： 宅总有理 ，作者：宅少 并且一去不复返。” ——作家·菲茨杰拉德 「死于1940年12月21日」 出自小说：《了不起的盖茨比》 …… 这是本公号的第一篇推送， 写于2019年6月， 何勇走了，谨以此文纪念 01. 1985年，刚出道的李宗盛与张艾嘉合作出演《最想念的季节》。帮张艾嘉制作完专辑后，小李终于得到属于自己的发片机会。 在老爸瓦斯行的阁楼上，想起前女友，李宗盛写下《生命中的精灵》。那时他身边有个好基友，整天打电动游戏陪他写歌。每写完一曲，小李就唱给好基友听，唱到动情处，潸然泪下。 对于小李的才华，基友张培仁自然钦佩，但那时，他心中有更宏伟的蓝图。 张培仁自幼痴迷摇滚，是鲍勃·迪伦的脑残粉。为表景仰，他和一位音乐人把Bob Dylan的名字拿去用，一个叫Landy，一个叫Bobby，后者就是陈升。 1980年约翰·列侬遇刺身亡后，台湾许多热爱摇滚的青年表示哀悼。张培仁觉得还不够，真刀真枪地跑去找乐队、拉赞助，搞了场轰轰烈烈的演唱会。演出台上，有后来给《笨小孩》编曲的江建民，还有唱《情非得已》的庾澄庆。 经历过校园民歌运动的洗礼，李宗盛脱颖而出，把凡人琐碎的情感带入华语乐坛，树立起新时代的高标。不过混到滚石唱片国语事业部副总的张培仁还是整日忧心忡忡。彼时，台湾音乐只有偶像、抒情，“靡靡之音”大行其道。张培仁心想这不行，表达太单一，审美太趋同，再过20年，怎",
     "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789353609000",
-    "title": "“围攻”白癜风，自免新战场的浮现",
-    "link": "https://www.tmtpost.com/8138760.html",
-    "summary": "白癜风的下一轮竞争，不会只看谁先进入临床后期。",
+    "id": "news-deepseek-1789384427000",
+    "title": "DeepSeek“推倒重来”",
+    "link": "https://www.tmtpost.com/8139302.html",
+    "summary": "入口，才是梁文锋的秘密武器",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -187,24 +186,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-bu-1789138620000",
-    "title": "DHS proposes end to 60-day H-1B grace period, calling it a ‘burden’",
-    "link": "https://www.hrdive.com/news/dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-burden/830160/",
-    "summary": "The move would leave some workers with no cushion period in which to depart the U.S.&nbsp;",
+    "id": "news-hemorrhoid-pain-can-be-a-disability-eeoc-argues-to-court-1789156260000",
+    "title": "Hemorrhoid pain can be a disability, EEOC argues to court",
+    "link": "https://www.hrdive.com/news/eeoc-amicus-brief-hemorrhoids-disability/830201/",
+    "summary": "In an amicus brief filed Wednesday, the agency supported a FedEx worker&rsquo;s appeal, arguing pain can amount to a substantial limitation under the Americans with Disabilities Act.",
     "publishedAt": "2026-09-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-github-1789284019000",
-    "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-    "link": "https://www.qbitai.com/2026/09/488519.html",
-    "summary": "出身寒微不是耻辱，放弃自己才是。",
-    "publishedAt": "2026-09-13",
+    "id": "news-rsi-1789378588000",
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "link": "https://www.qbitai.com/2026/09/489037.html",
+    "summary": "",
+    "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -213,24 +213,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-200-1789354717000",
-    "title": " Kimi实习生开公司，估值快200亿了 ",
-    "link": "https://www.huxiu.com/article/4890915.html?f=rss",
-    "summary": "本文来自微信公众号： 投中网 ，编辑：刘燕秋，作者：韦香惠 年轻人的第一桶金。 作者韦香惠 本文字数5212 手搓量丨100%AI含量丨0% 大模型数据公司，很长一段时间并不在VC的视野中，不过这种境况有所变化。我最近听说，几个有阿里通义、月之暗面等模型大厂实习经历的年轻人创立了一家数据公司，颇受资本青睐。 这家公司以AI训练数据为切入口，在不到一年时间里便拿下千万美元级订单，完成约三轮融资，估值也是水涨船高。外媒最新消息显示，这家公司即将完成一轮3亿美元融资，投资方阵容豪华，囊括了红杉、阿里和腾讯这些明星机构，估值达到25亿美元。 当然，国内此前并非没有数据服务公司，但在今年之前，这样的公司很少会被风险投资关注到。原因在于，这个模式主要做的是现金流生意，创业门槛在AI领域内也不高。更早些时候，三四线小城市有一批数据公司利用廉价劳动力为模型训练提供语料。随着大模型智力水平的提升，数据质量要求同步提高，越来越多名校背景的高学历从业者加入。各行各业的资深人士，比如法律、医生、记者、编剧等开始入驻一些数据服务公司的平台。作为一份兼职，数据标注的收入在每小时500-1000元。 但如果只是做专家网络，在国内很难顶到百亿估值。卖数据这个模式，在不少投资人眼里，仍然是一个阶段性的可持续性存疑的生意。 一位接触过前述项目的投资人告诉我，在2亿美金轮次以前，投资人还是从对创始人的判断层面去下注的。",
+    "id": "news-bot-1789385798000",
+    "title": " 人形机器人都被上市逼成了“武bot” ",
+    "link": "https://www.huxiu.com/article/4891106.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：薛亚萍 邵天兰质疑行业“虚假收入”的朋友圈，算是将具身智能的乱象彻底推到了台前。 不仅如此，具身智能行业的萧墙之风，越来越猛烈了。 据第一财经报道，有网传消息称，千寻智能、星海图、星动纪元遭遇某同行向“主考官”举报。不过，举报内容尚未公开。 针对传闻，这三家公司有的回应称消息不实，有的暂不回应。而据此前报道，这三家均已秘密向港交所递交申请书，估值均超过200亿元。 截至目前，这些争议都没有实质性结果。但可以确定的是，当人形机器人扎堆进入资本市场，行业的竞争已愈发激烈。 恒业资本创始合伙人江一告诉字母榜，一级市场对人形机器人的估值已经比较充分甚至偏热，后续融资难度和估值倒挂风险在上升。对于还没有稳定订单和现金流的企业，IPO是续命的关键，错过这一轮资本市场的热度，再融资成本会明显抬高。 过去三年，这个行业成为最“吸金”的赛道之一，但商业化落地的质疑也越来越多，如今到了检验时刻，它开始遭遇最严厉的拷问。 9月9日和10日，梅卡曼德创始人邵天兰，在其朋友圈质疑一些具身智能公司，利用“数采中心”的关联交易来制造虚假、不可持续的收入。他称这些公司为“攒局型”具身智能企业。 一位机器人行业七年从业者告诉“字母榜”：“这是行业里公开的秘密”。 那么，所谓的利用“数采中心”做关联交易，到底是怎么一回事儿？ 数据，是今年具身智能行业最火的概念之一。今年，甚至被行",
     "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1789349564000",
-    "title": "用了AI，大厂牛马更累更卷了",
-    "link": "https://www.tmtpost.com/8138506.html",
-    "summary": "大厂牛马，给AI下指令，也被AI“鞭打”。",
+    "id": "news--1789383969000",
+    "title": "豆包手机选择了弹幕最多的打法",
+    "link": "https://www.tmtpost.com/8139300.html",
+    "summary": "折叠屏只是手机大战的前菜",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -266,10 +265,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-poor-talent-retention-continues-to-throttle-company-growth-1789138620000",
-    "title": "Poor talent retention continues to throttle company growth",
-    "link": "https://www.hrdive.com/news/poor-talent-retention-continues-to-throttle-company-growth/830147/",
-    "summary": "A disconnect persists between employers&rsquo; desire to improve retention and their inability&nbsp;to prevent attrition, Gallagher said in its report.",
+    "id": "news-jury-should-decide-if-university-s-hiring-process-was-tainte-1789156260000",
+    "title": "Jury should decide if university’s hiring process was tainted by diversity goals, court rules",
+    "link": "https://www.hrdive.com/news/jury-should-decide-if-universitys-hiring-process-was-tainted-by-diversity/830177/",
+    "summary": "A White former associate director for Rochester Institute of Technology claimed the university used race-based criteria to select a Black candidate as director instead of promoting her.",
     "publishedAt": "2026-09-11",
     "source": "HR Dive",
     "tags": [
@@ -280,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1789281625000",
-    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-    "link": "https://www.qbitai.com/2026/09/488447.html",
-    "summary": "Agent的下一步是关系型生产力",
-    "publishedAt": "2026-09-13",
+    "id": "news-quantamind-science-advances-ai-8221-8221-1789373842000",
+    "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
+    "link": "https://www.qbitai.com/2026/09/489023.html",
+    "summary": "AI 蛋白质设计迈入“动态时代”",
+    "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,23 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789354559000",
-    "title": " 中金终于算明白了三笔账 ",
-    "link": "https://www.huxiu.com/article/4890912.html?f=rss",
-    "summary": "本文来自微信公众号： 半镜 ，作者：方尧 9月7日晚间，中金公司（601995.SH）发布公告，换股吸收合并东兴证券（601198.SH）、信达证券（601059.SH）事项正式获得证监会核准批复。三家公司股票将于9月15日开市起连续停牌，其中东兴证券与信达证券将停牌直至终止上市，彻底退出A股舞台。中金公司将新增31.04亿股股份用于本次合并，监管层同时要求公司在一年内制定并上报具体整合方案。 从去年11月首次披露合并意向到正式获批，这场备受瞩目的券商“三合一”历时九个多月尘埃落定。合并完成后，新中金公司总资产将突破万亿元大关，营业收入跃居行业第三，营业网点数量从第十四位飙升至第三位。纸面数据的跃升足够亮眼，但市场真正关心的问题始终没有答案：三家出身、文化、业务结构截然不同的券商捏合在一起，规模迅速膨胀之后，成本能不能真正下降，收入能不能产生协同，最终能不能从“做大”走向“做强”。 规模账：数字上的三级跳 按照2025年末财务数据测算，这是一场不折不扣的规模盛宴。 合并前的中金公司总资产7828.26亿元，全年营业收入284.81亿元，归母净利润97.91亿元。加上东兴证券总资产1141.98亿元、营收47.11亿元，以及信达证券总资产1299.51亿元、营收40.44亿元，合并后的新中金总资产将达到约1.03万亿元，营业收入约372亿元，分别位列行业第四和第三。净资本从481亿元",
+    "id": "news-150-1789384798000",
+    "title": " 国恩股份拟担保150亿元押注算力，胜算几何 ",
+    "link": "https://www.huxiu.com/article/4891101.html?f=rss",
+    "summary": "本文来自微信公众号： 财经思享汇 ，作者：财经思享汇，编辑：管东生 国恩股份于2026年2月在香港联交所发行H股上市，募集资金净额约9.18亿元，使得2026年上半年末公司现金及现金等价物余额增加至20.18亿元，较上年同期增长63.53%。 2026年上半年，国恩股份(002768.SZ)实现营业收入115.14亿元，同比增长18.05%；营业利润达7.74亿元，同比增长100.82%，利润增速远超营收增速。作为改性材料的龙头，公司在主业稳健增长的同时，正踏入另一条新赛道。 公司营业收入及营业利润同比增长率情况 2026年7月，公司设立控股子公司国恩九尺科技（上海）有限公司，开始进军AI算力。根据规划，未来将围绕算力硬件、智算中心、绿电协同等环节进行大规模投入。公司表示，拟为国恩九尺提供不超过人民币150亿元的担保额度，而截至2026年上半年末，公司账上净资产为91.55亿元，此次拟担保额度上限是公司净资产规模的1.64倍。 这场豪赌，胜算几何？ 壹｜担保150亿的底气 敢于这样的大手笔，公司传统业务的造血能力功不可没。 2026年上半年，国恩股份不仅营收利润双增，盈利能力也有所提升。公司销售净利率从去年同期的3.56%提升至6.29%，平均净资产收益率（ROE）从6.78%提升至10.19%。 深入剖析其业务构成可以发现，增长并非均匀分布，不同业务间呈现出明显分化。 目前公司的",
     "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-anthropic-1789349562000",
-    "title": "Anthropic为安全踩刹车：减硅谷的速，断中企的路",
-    "link": "https://www.tmtpost.com/8138511.html",
-    "summary": "Anthropic吹警笛，OpenAI推迟 IPO，马斯克点赞：硅谷AI大厂齐踩刹车。",
+    "id": "news--1789383418000",
+    "title": "《旅行青蛙》寄来的最后一张明信片",
+    "link": "https://www.tmtpost.com/8139305.html",
+    "summary": "我们不会再收到青蛙的明信片了。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -345,25 +345,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-korn-ferry-leaders-have-to-rethink-how-work-gets-done-1789071840000",
-    "title": "Korn Ferry: Leaders have to rethink how work gets done",
-    "link": "https://www.hrdive.com/news/korn-ferry-2026-workplace-insights-productivity/830090/",
-    "summary": "High activity does not mean high productivity, consultants for the firm said.",
-    "publishedAt": "2026-09-10",
+    "id": "news-dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-bu-1789138620000",
+    "title": "DHS proposes end to 60-day H-1B grace period, calling it a ‘burden’",
+    "link": "https://www.hrdive.com/news/dhs-proposes-end-to-60-day-h-1b-grace-period-calling-it-a-burden/830160/",
+    "summary": "The move would leave some workers with no cushion period in which to depart the U.S.&nbsp;",
+    "publishedAt": "2026-09-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-openai-dario-ai-1789269180000",
-    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-    "link": "https://www.qbitai.com/2026/09/488380.html",
-    "summary": "RSI太危险，得管！",
-    "publishedAt": "2026-09-13",
+    "id": "news-ai-1789373309000",
+    "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+    "link": "https://www.qbitai.com/2026/09/488933.html",
+    "summary": "让模型和设备共同进化",
+    "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -372,23 +371,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-f4-1789354372000",
-    "title": " 首次覆盖 | 东方甄选：F4散场这一年 ",
-    "link": "https://www.huxiu.com/article/4890911.html?f=rss",
-    "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的，原文标题：《首次覆盖 | 东方甄选：F4散场这一年》 8月末，东方甄选交出了一份很让人意外的财报：全年总营收57.01亿元，同比增长29.8%；经营利润从上一财年亏损1.10亿元，扭转为盈利6.63亿元，归母净利润5.44亿元，均超市场预期。 这是董宇辉出走后的首个完整财年，也是初代核心主播“F4”全部离场后的第一份完整答卷。2024年7月董宇辉正式离职独立运营“与辉同行”。2025年6月顿顿合约到期离开，2026年4月明明、天权、中灿、林林四位核心主播在数日内相继官宣离职，告别长文里直言不适应新任管理层的运营变化，6月志胜也走了。 一年时间，东方甄选从直播电商第一股的神坛上，摔成了主播流失重灾区。但财报给出的答案，出乎所有人意料，失去主播光环的东方甄选，其实过得还不错。 （财报一图流如下，单位亿元，数据均来源于Wind，下同） 我们的核心观点如下： 1.东方甄选完成了从“流量驱动”到“产品驱动”的战略转身，把不可入表的人，换成可入表的SKU，自营产品GMV占比首次突破半数达到52.6%，成为公司真正的核心底盘。 2.主播出走带来的薪酬开支骤降，叠加上游供应链利润留存，共同构成了利润暴增的双重来源。 3.失去主播IP后，东方甄选加大了平台侧的投流和营销，目前来看能够阶段性弥补流量损失。 4.东方甄选正在努力从直播带货公司进化为品",
+    "id": "news-anthony-vaccarello-saint-laurent-1789384495000",
+    "title": " 传Anthony Vaccarello将离任，Saint Laurent的增长密码失灵了吗？ ",
+    "link": "https://www.huxiu.com/article/4891100.html?f=rss",
+    "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 传Anthony Vaccarello将离任，Saint Laurent的增长密码失灵了吗？》 Saint Laurent收入过去三年连跌 在今天的奢侈品市场，能定义风格不等于能创造增长。 社交媒体账号BoringNotCom上周在Instagram连发多条消息，称创意总监Anthony Vaccarello即将离开Saint Laurent，而目前担任Chloé创意总监的Chemena Kamali将接替他的职位。 美国媒体Puck、法国媒体Glitz等也发布消息称，随着Luca de Meo出任开云集团新任CEO，集团核心品牌的创意管理层将迎来重大调整，9月即将发布的2027春夏系列或将是Anthony Vaccarello在任的最后一场秀。 截至目前，Saint Laurent、Chloé与开云集团均未就此作任何回应。 但是不能忽视的事，BoringNotCom过去在创意总监变动上的预判记录，使这一次猜测无法被简单忽略，该账号曾提前一个月预告Olivier Rousteing离开Balmain并转投Rabanne，也曾在数月前预测Adrian Appiolaza离开Moschino、Jonathan Anderson告别Loewe等。 与此同时深有意味的是，美国时装设计师协会CFDA宣布，An",
     "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-q2-1789348081000",
-    "title": "蔚来Q2财报：连续三季盈利后，经营重心转向效率与组织",
-    "link": "https://www.tmtpost.com/8130664.html",
-    "summary": "一家曾经以“大投入”著称的新势力，开始重新学习怎么做一门更有效率的生意。",
+    "id": "news-biotech-1789381026000",
+    "title": "纳入港股通后，谁是Biotech最大赢家？",
+    "link": "https://www.tmtpost.com/8139265.html",
+    "summary": "港股通名单调整，对Biotech而言从来不只是流动性事件那么简单。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -400,7 +400,375 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2609.13144v1",
+    "title": "Type Diversity Enables Transformers to Generalise Compositionally",
+    "authors": [
+      "Anssi Moisio",
+      "Mathias Creutz",
+      "Mikko Kurimo"
+    ],
+    "summary": "Compositional generalisation has been divided into lexical and structural generalisation. Previous work has found that structural generalisation is harder than lexical for Transformers. We propose that this difference is not inherent to Transformers, but due to the high diversity of lexical types and low diversity of structural types in the specific datasets of these previous works. By type diversity we mean the number of different constructors of that type, instead of, for example, the specific word combinations that might populate the structure. To test this, we vary the amounts of type diversity of lexical and structural types in previously published datasets. We create linguistically diverse variants of the COGS and SLOG datasets using Grammatical Framework. We find that type diversity",
+    "link": "http://arxiv.org/abs/2609.13144v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13141v1",
+    "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+    "authors": [
+      "Zhiwei Li",
+      "Lei Zhu",
+      "Hao Gu",
+      "Xiang Hu",
+      "Yan Wang",
+      "Haitao Mi",
+      "Sirui Han",
+      "Leo Liang",
+      "Zhijiang Guo"
+    ],
+    "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing trainable methods usually use a lightweight selector to score context units, followed by hard Top-K selection that blocks gradients from the language modeling loss. Consequently, these methods commonly distill layer-wise dense attention distributions. Although this encourages the selector to rank context units by dense attention weights in the original model, the ranking is not directly aligned with their impact on predictions under a fixed attention budget (i.e., the number of attended context units per query), potentially wasting the limited budget on less useful units. To address this misal",
+    "link": "http://arxiv.org/abs/2609.13141v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13134v1",
+    "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+    "authors": [
+      "Arya Tschand",
+      "Yaosheng Fu",
+      "Vikram Sharma Mailthody",
+      "Nicolai Oswald",
+      "Po-An Tsai",
+      "Ritchie Zhao",
+      "Oreste Villa",
+      "Vijay Janapa Reddi",
+      "Karu Sankaralingam"
+    ],
+    "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we show that disaggregating inference around the unique arithmetic intensity and memory footprint of subquadratic attention LLMs can achieve significant throughput and energy efficiency gains on emerging DRAM-based and SRAM-only heterogeneous systems. We introduce SQD (SubQuadratic Disaggregation), a fine-grained heterogeneous disaggregation scheme that splits decode by quadratic and subquadratic attention rather than by operator type, and that applies across subquadratic attention variants. For sparse attention LLMs, ",
+    "link": "http://arxiv.org/abs/2609.13134v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13125v1",
+    "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+    "authors": [
+      "Seif ElDein Mostafa",
+      "Yahia Ahmed",
+      "Farah Datwish",
+      "Marwa Solayman"
+    ],
+    "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversified panel of 14 U.S. equities spanning six industry sectors. The LSTM component, comprising two stacked layers with 64 hidden units, processes 60-day sliding windows of five sequential market features to produce 64-dimensional temporal embeddings that encode learned sequential market dynamics. These embeddings are concatenated with 14 hand-crafted technical indicators to form a 78-dimensional hybrid",
+    "link": "http://arxiv.org/abs/2609.13125v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13118v1",
+    "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
+    "authors": [
+      "Jinting Wang",
+      "Chenxing Li",
+      "Dong Yu",
+      "Li Liu"
+    ],
+    "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music composition, including structure, instrumentation, and expressive dynamics. Existing methods typically rely on these sparse cues and supervise only the final audio output, resulting in poorly learned music representations and generated music with limited musicality and structural coherence. To address these issues, we propose Curriculum-guided Multi-scale representation Alignment with scale-aware Optimal Transport (CMA-OT), a novel paradigm that leverages an external music expert to provide hierarchical supervision for the ",
+    "link": "http://arxiv.org/abs/2609.13118v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13117v1",
+    "title": "Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents",
+    "authors": [
+      "Yunqi Lu",
+      "Tyler Baumgartner",
+      "Nikhil Johri",
+      "Brandon Tai",
+      "Candice Fan",
+      "Luc Debaupte",
+      "Ruben Aguilar",
+      "Bill Wang",
+      "Yi Zhong"
+    ],
+    "summary": "Full-duplex evaluation often emphasizes whether an agent keeps speaking or stops. That binary cannot express a third response humans use routinely: continuing to speak while incorporating what the listener just contributed. The contribution may be a missing word, a correction or a clarification. We introduce Duplex Cue, an evaluation of this \\emph{in-turn adaptation} in full-duplex voice agents. Duplex Cue separates listener intent (backchannel, collaboration, or interruption) from speaker behavior: continuing unchanged, adapting within the turn, or yielding. Adaptation includes acknowledgment as well as content revision. In a single-model case study using 300 human-confirmed cues from unscripted English conversations, we compare recorded human responses with PersonaPlex continuations gene",
+    "link": "http://arxiv.org/abs/2609.13117v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13100v1",
+    "title": "A Ranking Approach for Measuring Calibration",
+    "authors": [
+      "Anirban Chatterjee",
+      "Rina Foygel Barber"
+    ],
+    "summary": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the forecasted probability $f(X)$. In practice, models inevitably exhibit calibration error, and it is therefore important to be able to measure this miscalibration to assess a model's reliability. The Expected Calibration Error (ECE) is the most widely used measure of miscalibration, but is known to be impossible to estimate the ECE with guaranteed accuracy in an assumption-free setting. In this work, we propose an alternative measure, the rankECE, that is based on comparing points with neighboring values of the predicted probability $f(X)$. Our theoretical guarantees and empirical results establ",
+    "link": "http://arxiv.org/abs/2609.13100v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "stat.ME",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13083v1",
+    "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
+    "authors": [
+      "Zhenfeng Gan",
+      "Yanbo Chen",
+      "Lirong Che",
+      "Junbo Tan",
+      "Xueqian Wang"
+    ],
+    "summary": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neural kinematics model predictive control (MPC) framework for autonomous traversal. A learned kinematics model predicts short-horizon task-state increments from a height sequence and recent trajectories; NMPC plans with multi-objective costs and strict feasibility constraints; and a large language model (LLM) proposes bounded updates to selected weights and bounds through a safety-checked interface wi",
+    "link": "http://arxiv.org/abs/2609.13083v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13082v1",
+    "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
+    "authors": [
+      "Baoyang Jiang",
+      "Fengchun Zhang",
+      "Leyuan Wang",
+      "Haotian Li",
+      "Yida Wang",
+      "Zhe Ji",
+      "Jinshan Lai",
+      "Xi Ren",
+      "Danyang Li",
+      "Zheng Yang",
+      "Jianwei Hu",
+      "Qiang Ma"
+    ],
+    "summary": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More importantly, multi-step construction produces dependent intermediate artifacts that are often passed downstream without artifact-specific verification, allowing local defects to propagate into the final benchmark. We present Embodied-BenchForge, an agentic framework that transforms user-specified evaluation intents into complete embodied benchmark artifacts. It formulates construction as Closed-Loop Benchmark Synthesis, integrating forward artifact synthesis with backward verification and repair. Skill-Orchestrated Artifact Synthesis composes typed and reusable skills into executab",
+    "link": "http://arxiv.org/abs/2609.13082v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13076v1",
+    "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
+    "authors": [
+      "Yi-Jen Shih",
+      "Shih-Yun Shan Kuan",
+      "Guan-Ting Lin",
+      "Kai-Wei Chang",
+      "Siddhant Arora",
+      "Shu-wen Yang",
+      "Abdelrahman Mohamed",
+      "Shinji Watanabe",
+      "Hung-yi Lee",
+      "David Harwath"
+    ],
+    "summary": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evaluate dyadic interactions and passive audio comprehension, they largely overlook a prevalent real-world scenario: multi-party conversations. Evaluating agents in these settings is fundamentally more challenging than in dyadic interactions due to the exponentially greater conversational complexity. For voice agents to integrate seamlessly into human group dynamics, they must not only generate contextually appropriate responses but also demonstrate a nuanced understanding of open turn-taking. To address this gap, we introduce Multiparty Bench (MP-Bench), the first benchmark specifi",
+    "link": "http://arxiv.org/abs/2609.13076v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13073v1",
+    "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
+    "authors": [
+      "Junghyun Min",
+      "Huseyin Uzunalioglu",
+      "Mohamed Trabelsi"
+    ],
+    "summary": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. However, while several frameworks of fully autonomous end-to-end ML research have been proposed, successful implementations of them are often limited to problems with narrow search spaces, like language modeling or biomedical ML benchmarks. In this paper, we explore how autonomous research can be adapted to solve open-ended, industry-grade ML problems, by considering a case study: telecom ticket retrieval, an open-ended task with degrees of freedom in representation, architecture, and training data generation. We discover that autonomous research for open-ended problems with com",
+    "link": "http://arxiv.org/abs/2609.13073v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13072v1",
+    "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
+    "authors": [
+      "Divya Appapogu",
+      "Freya Behrens",
+      "Yonatan Belinkov",
+      "Aaron Mueller"
+    ],
+    "summary": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple instances. For these concepts, the search space over possible representation geometries is far larger than for binary concepts; it is thus not clear what geometries are most appropriate, nor what methods are most effective at recovering them. In this work, we introduce MAxBench, a geometry-agnostic evaluation framework for multinomial concept representations based on sampling from the recovered concept representation. We use MAxBench to compare 10 l",
+    "link": "http://arxiv.org/abs/2609.13072v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13071v1",
+    "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
+    "authors": [
+      "Kérian Fiter",
+      "Adil Lagrou",
+      "Franck Dervault",
+      "Bentley Oakes"
+    ],
+    "summary": "Enterprise Digital Twins (EDTs) promise data-driven decision support at organizational scale, but realizing them requires navigating siloed departments, tacit knowledge, and high-stakes decisions with long-horizon consequences. Existing approaches involve domain experts during model development but focus less on early organizational buy-in in EDTs. We present a vision for trustworthy EDT engineering grounded in an `involving before evolving' paradigm: rapidly involving stakeholders through a working prototype before evolving toward federation and full interoperability. Our three-stage approach combines foundation models for rapid prototyping, an ontological backbone for federated interoperability, and observability tooling for stakeholder trust. We ground our vision in an ongoing collabora",
+    "link": "http://arxiv.org/abs/2609.13071v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13062v1",
+    "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
+    "authors": [
+      "Sayantan Kumar",
+      "Nicolas Grimaldi",
+      "Jack Cummins",
+      "Jeremy C. Weiss"
+    ],
+    "summary": "Clinical timelines support treatment-window analysis and leakage-free modeling, but discharge summaries often obscure chronology and structured EHR tables describe only part of the patient course. We present a UID-preserving framework that links each narrative event occurrence to its source span and retains that identity through text-only estimation, structured-evidence retrieval, timestamped source-row grounding, and joint revision. We also present GAVEL, an LLM judge that compares two UID-aligned timelines against the narrative and structured record, to augment prior matching and temporal assessments. Across six open-weight models and 40 mixed-critical-care summaries, the GLM 5.2 multimodal revision, as compared to its text-only variant, improved temporal agreement without reducing event",
+    "link": "http://arxiv.org/abs/2609.13062v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13060v1",
+    "title": "CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models",
+    "authors": [
+      "Blake Olson",
+      "Yuhang Song",
+      "Emmett McQuinn",
+      "Yuan Shangguan"
+    ],
+    "summary": "Diffusion Language Models (DLMs) offer promising parallel generation capabilities but lag behind autoregressive models in complex reasoning and tool-use tasks. While Reinforcement Learning (RL) has recently been applied to enhance DLMs, standard RL approaches suffer from an exploration bottleneck. To address this, we inject reasoning priors from a stronger teacher model to guide RL exploration. In this paper, we introduce CanvasAnneal, a curriculum-guided diffusion RL framework. During the initial RL phase, we warm-start exploration by injecting teacher-generated reasoning traces into the initial diffusion canvas. As training progresses, we gradually remove this guidance and require the model to generate more of the reasoning trajectory independently. Across mathematical reasoning and tool",
+    "link": "http://arxiv.org/abs/2609.13060v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13058v1",
+    "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+    "authors": [
+      "Hongyi He",
+      "Zhenghao Lin",
+      "Xiao Liu",
+      "Peng Cheng",
+      "Yan Lu",
+      "Yeyun Gong"
+    ],
+    "summary": "Reinforcement learning (RL) has become central to post-training of large language models. Recent advances in RL for Mixture-of-Experts (MoE) models have primarily focused on improving optimization stability and training efficiency, while treating the expert selection as a fixed component. Since routing determines the sparse computation paths that induce output distributions, expert selection offers an additional source of rollout diversity. Through empirical analysis, we find that perturbing expert routing effectively alters model output and increases rollout diversity, which is similar to increasing the decoding temperature. However, direct perturbation can activate unsuitable experts and substantially degrade rollout quality. Motivated by these observations, we introduce Expert-Space Exp",
+    "link": "http://arxiv.org/abs/2609.13058v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13057v1",
+    "title": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
+    "authors": [
+      "Zach Furman",
+      "Stephan Wäldchen",
+      "Yangda Bei",
+      "Liam Hodgkinson"
+    ],
+    "summary": "Deep neural networks are expressive enough to contain worst-case targets that can be evaluated in polynomial time but cannot be learned in polynomial time by gradient descent. For practical tasks they nonetheless learn well, raising the question of what non-generic structure of real-world targets enables this. Existing surrogate models cannot pose this question because they either lack hard-to-learn targets entirely (deep linear networks) or cannot evaluate such targets efficiently (kernel methods, infinite-width limits). We study tree tensor networks (TTNs), a model class that generalizes deep linear networks and Tucker decompositions. We show they embed arbitrary read-once Boolean formulas, and thus contain polynomial-size targets that cannot be learned by gradient descent in polynomial ",
+    "link": "http://arxiv.org/abs/2609.13057v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13053v1",
+    "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
+    "authors": [
+      "Hoeun Lee",
+      "Jaeik Kim",
+      "Jusang Oh",
+      "Jinhyeok Kim",
+      "Geon Choi",
+      "Hyeonggeun Kim",
+      "Jaeyoung Do"
+    ],
+    "summary": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into action generation and selection through a shared trajectory model. Dynin-Robotics implements this formulation on Dynin-Omni, an omnimodal masked-diffusion backbone, representing language, visual observations, goals, and actions as discrete tokens. By varying conditioning and target spans, the same model learns action prediction, action-conditioned next-observation prediction, terminal goal-state prediction, and trajectory-to-instruction reconstruction. These interfaces support test-time scaling through goal prediction, action-candidate evaluation, and joint refinement of action and future-state",
+    "link": "http://arxiv.org/abs/2609.13053v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13050v1",
+    "title": "A Unified and Constrained View of Regularization-Based Robust Reinforcement Learning",
+    "authors": [
+      "Amine Andam",
+      "Jamal Bentahar",
+      "Mustapha Hedabou"
+    ],
+    "summary": "Regularization-based methods have become a standard approach for training Deep Reinforcement Learning policies against adversarial input perturbations. In this paper, we unify these methods by deriving new upper bounds on the performance gap between the nominal and worst-case policies. Each upper bound is expressed as an existing regularization objective plus a KL-divergence penalty between the nominal and worst-case policies, which further explains why adding a KL penalty improves robustness in practice. Building on these bounds, we formulate robust training as a constrained optimization problem, showing that existing methods correspond to the special case of a fixed Lagrange multiplier. We instead update the multiplier jointly with the policy to automatically tune the regularization weig",
+    "link": "http://arxiv.org/abs/2609.13050v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13048v1",
+    "title": "MCRL2: Multi-resource Cross-attention-based Representation Learning-augmented Reinforcement Learning for Cloud Microservice Scheduling",
+    "authors": [
+      "Tiangang Li",
+      "Shi Ying",
+      "Xiangbo Tian",
+      "Chuan Shi",
+      "Ding Xiao"
+    ],
+    "summary": "Efficient microservice scheduling is crucial for maintaining load balance across nodes in data centers and ensuring high quality of service. However, achieving this in practice remains challenging due to dynamic resource imbalance under fluctuating workloads, nonlinear coupling across multiple resource dimensions, and the heterogeneity of microservice resource demands. While reinforcement learning-based approaches have shown promise, they struggle to capture the complex interdependencies among heterogeneous resources and neglect the importance of learning informative system representations. To address these limitations, we propose MCRL2, a novel reinforcement learning approach augmented with multi-resource cross-attention-based representation learning for microservice scheduling. Specifica",
+    "link": "http://arxiv.org/abs/2609.13048v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -619,4 +987,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-14T03:10:41.989Z';
+export const dataFetchedAt = '2026-09-14T11:41:08.160Z';
