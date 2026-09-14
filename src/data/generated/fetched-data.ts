@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-8217-s-behind-the-ai-industry-s-latest-warnings-of-doom-1789328415000",
-    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "id": "news-insight-partners-8217-deven-parekh-on-why-the-firm-is-divers-1789335000000",
+    "title": "Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+    "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
     "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
@@ -42,11 +42,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2000-1789285100000",
-    "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-    "link": "https://www.qbitai.com/2026/09/488672.html",
-    "summary": "亮源新创的Physical Al路线清晰了",
-    "publishedAt": "2026-09-13",
+    "id": "news-glm-6-0-1789345856000",
+    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+    "link": "https://www.qbitai.com/2026/09/488694.html",
+    "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+    "publishedAt": "2026-09-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -55,24 +55,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789315778000",
-    "title": " 秦朔：消费这件事，不用太悲观|| 大视野 ",
-    "link": "https://www.huxiu.com/article/4890846.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《秦朔：消费这件事，不用太悲观 || 大视野》 前一段写了《弄清中国的消费数据》，有两点结论： 一是从实物消费量和服务消费水平看，中国的消费并不差，和发达国家的差距不像人均消费金额显示的差距那么大。 二是中国的居民消费率确实比较低，这个问题不解决，中国的经济增长会被困住。 提振消费是当下热词，但面临的约束不少：房地产滑坡，就业和居民增收压力较大，民生保障有不少短板弱项，人口呈现老龄化、少子化趋势。指望消费上一个大台阶，不太现实。 很多机构都在研究中国的消费趋势，以下是它们的一些结论： 1.全民节俭常态化：如主动延长产品使用周期，选择维修替代换新，选择二手交易、自助服务； 2.重视实用性和理性支出，尤其是在下沉市场，即三线及以下城市、县镇和农村地区市场，其人口大概有8.8亿； 3.服务消费占比将不断提高，人们愿意为情绪价值、放松、陪伴、即时满足而付费，从追求“更多”到追求“更值”“更有意义”； 4.向内消费崛起：从过去注重向外展示，转向向内关照自我，无论是身体还是情绪。 中国消费往何处去？除了研究影响消费的外部因素，也可以从消费者偏好的变化入手。 最近一两个月，我从一些细小的切口出发，有些观察和感受。结论是，消费这件事，不用太悲观。 自我创造型消费 8月26日。江西赣州于都县。绿聚科技有限公司。 创始人萧总对我说，从2023年",
-    "publishedAt": "2026-09-13",
+    "id": "news-ai-1789355235000",
+    "title": " 一人创业时代：组织能力依托AI压缩至个体 ",
+    "link": "https://www.huxiu.com/article/4890924.html?f=rss",
+    "summary": "本文来自微信公众号： 清华管理评论 ，责编：高菁阳，作者：贾迎亚 周昊阳 AI让“一人创业”成为大规模可行的商业现实。OPC的本质并非传统公司的缩小版，而是组织能力向个体的压缩。通过比较专才、通才与T型人才的差异，本文指出，真正能跑通OPC商业闭环的，是兼具专业深度、跨界广度与价值翻译能力，并能将AI嵌入生产系统的T型人才。文章进一步提炼出AITL飞轮模型——作为AI原生OPC的组织能力系统，为个体创业实践与组织形态变革提供参考。 曼谷的一家青年旅社里，荷兰程序员皮特·莱弗斯（Pieter Levels）用一台二手笔记本电脑，写下了Nomad List——一个帮助全球数字游民筛选城市的网站——的第一行代码。十二年后，这个由他一人维护的网站，每月仍能为他带来数万美元收入。在同一时期，YouTube上拥有500万粉丝的英国医生阿里·阿卜杜勒（Ali Abdaal）从剑桥医学院毕业，构建起横跨内容创作、效率工具与付费课程的商业版图；法国独立开发者马克·卢（Marc Lou）在3年内连续启动25个项目，2025年总收入突破103万美元；国内，前互联网大厂算法工程师卢冠男离职创办Just AI，以一人公司模式为中小商家提供AI营销内容生成服务，创业数月即实现稳定盈利；杭州一名建筑师胡政涛以独立开发者身份埋头写下14万行代码，从零构建AI原生的3D建筑设计平台，获得5万美元启动资金。这些跨越国",
+    "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1789302146000",
-    "title": "老板电器，不能靠燃气灶“点火”了？",
-    "link": "https://www.tmtpost.com/8134632.html",
-    "summary": "老板电器的火候“失控”了。",
-    "publishedAt": "2026-09-13",
+    "id": "news-6-ai-1789353611000",
+    "title": "仅仅半年，6亿人“中毒”AI短剧",
+    "link": "https://www.tmtpost.com/8138598.html",
+    "summary": "台风口上的生意，像极了2018年的短视频。",
+    "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-1789317000000",
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "id": "news-larry-ellison-cancels-7-5-billion-sale-of-oracle-stock-1789332578000",
+    "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+    "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+    "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
     "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
@@ -121,10 +122,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-github-1789284019000",
-    "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-    "link": "https://www.qbitai.com/2026/09/488519.html",
-    "summary": "出身寒微不是耻辱，放弃自己才是。",
+    "id": "news-2000-1789285100000",
+    "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+    "link": "https://www.qbitai.com/2026/09/488672.html",
+    "summary": "亮源新创的Physical Al路线清晰了",
     "publishedAt": "2026-09-13",
     "source": "量子位",
     "tags": [
@@ -134,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789315618000",
-    "title": " 王坚：不完美是完美不可分割的一部分 ",
-    "link": "https://www.huxiu.com/article/4890845.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：王坚 编者按：2026年9月10日下午，外滩大会广场的露天舞台被围得水泄不通。之江实验室主任、阿里云创始人王坚在此做了题为《以青年人的方式思考人工智能》的分享。以下是主编通过演讲原文提炼的精华观点部分供读者参考了解。 这是人类历史上年青人最多的时候 我们天天讲老龄化、人口减少，但不管你信不信，这是人类历史上年青人最多的时候——联合国的统计只算到24岁，而今天我们恨不得把45岁都叫年青人，真实的数字要大得多。 这件事，差不多快被忘掉了。 我们的挑战也比大家想象的多。一个月前联合国刚发的报告：可持续发展目标只有大约15%完成了，另有15%是严重的倒退——两个数字居然是对称的。 我们干了十年，离2030年只剩下不到五年。所以联合国秘书长专门讲了这件事，他认为唯一的手段是技术，没有别的手段。 1950年那条上升的线，和今天这道分水岭 十年前我讲“城市大脑”，你们可能忘掉了，我还在做。做它的初心其实很朴素：大家都谈碳排放，却很少有人多问一句，碳排放是从哪里来的。 从蒸汽机出现开始，其实碳排放并没有那么多。它是从1950年开始往上爬的——恰恰是我们最引以为豪、科技发展最快的那五六十年。 所以作为一个科技工作者，我有时候蛮内疚：我们科技发展背后的逻辑，是让人类大规模、无止境地使用自然资源的能力大大增加。 如果要在2050年或2060年把这条曲线压下来，唯",
-    "publishedAt": "2026-09-13",
+    "id": "news-43-1160-1789354800000",
+    "title": " 43亿只鸭、产值1160亿，为啥却养不出一个\"鸭王\"? ",
+    "link": "https://www.huxiu.com/article/4890775.html?f=rss",
+    "summary": "鸭肉市场巨大，鸭子却未能像猪有牧原、鸡有圣农那样诞生百亿巨头。说到底，鸭行业天生就不长在资本的审美上。",
+    "publishedAt": "2026-09-14",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -147,11 +148,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1789302020000",
-    "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
-    "link": "https://www.tmtpost.com/8138378.html",
-    "summary": "OpenAI把安全摆到IPO之前，Meta暂时站在另一边。",
-    "publishedAt": "2026-09-13",
+    "id": "news--1789353609000",
+    "title": "“围攻”白癜风，自免新战场的浮现",
+    "link": "https://www.tmtpost.com/8138760.html",
+    "summary": "白癜风的下一轮竞争，不会只看谁先进入临床后期。",
+    "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -173,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-lyft-has-entered-the-robotaxi-chat-1789315440000",
-    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-    "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+    "id": "news-the-9-buzziest-startups-from-y-combinator-s-latest-demo-day--1789331280000",
+    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+    "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+    "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
     "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
@@ -199,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1789281625000",
-    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-    "link": "https://www.qbitai.com/2026/09/488447.html",
-    "summary": "Agent的下一步是关系型生产力",
+    "id": "news-github-1789284019000",
+    "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+    "link": "https://www.qbitai.com/2026/09/488519.html",
+    "summary": "出身寒微不是耻辱，放弃自己才是。",
     "publishedAt": "2026-09-13",
     "source": "量子位",
     "tags": [
@@ -212,11 +213,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789302015000",
-    "title": "感受到了时代的摇摆",
-    "link": "https://www.tmtpost.com/8138279.html",
-    "summary": "摇摆本身就是这个时刻的形状。",
-    "publishedAt": "2026-09-13",
+    "id": "news-kimi-200-1789354717000",
+    "title": " Kimi实习生开公司，估值快200亿了 ",
+    "link": "https://www.huxiu.com/article/4890915.html?f=rss",
+    "summary": "本文来自微信公众号： 投中网 ，编辑：刘燕秋，作者：韦香惠 年轻人的第一桶金。 作者韦香惠 本文字数5212 手搓量丨100%AI含量丨0% 大模型数据公司，很长一段时间并不在VC的视野中，不过这种境况有所变化。我最近听说，几个有阿里通义、月之暗面等模型大厂实习经历的年轻人创立了一家数据公司，颇受资本青睐。 这家公司以AI训练数据为切入口，在不到一年时间里便拿下千万美元级订单，完成约三轮融资，估值也是水涨船高。外媒最新消息显示，这家公司即将完成一轮3亿美元融资，投资方阵容豪华，囊括了红杉、阿里和腾讯这些明星机构，估值达到25亿美元。 当然，国内此前并非没有数据服务公司，但在今年之前，这样的公司很少会被风险投资关注到。原因在于，这个模式主要做的是现金流生意，创业门槛在AI领域内也不高。更早些时候，三四线小城市有一批数据公司利用廉价劳动力为模型训练提供语料。随着大模型智力水平的提升，数据质量要求同步提高，越来越多名校背景的高学历从业者加入。各行各业的资深人士，比如法律、医生、记者、编剧等开始入驻一些数据服务公司的平台。作为一份兼职，数据标注的收入在每小时500-1000元。 但如果只是做专家网络，在国内很难顶到百亿估值。卖数据这个模式，在不少投资人眼里，仍然是一个阶段性的可持续性存疑的生意。 一位接触过前述项目的投资人告诉我，在2亿美金轮次以前，投资人还是从对创始人的判断层面去下注的。",
+    "publishedAt": "2026-09-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1789349564000",
+    "title": "用了AI，大厂牛马更累更卷了",
+    "link": "https://www.tmtpost.com/8138506.html",
+    "summary": "大厂牛马，给AI下指令，也被AI“鞭打”。",
+    "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -238,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fusion-power-startups-find-new-partners-in-the-defense-world-1789305300000",
-    "title": "Fusion power startups find new partners in the defense world",
-    "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+    "id": "news-what-8217-s-behind-the-ai-industry-s-latest-warnings-of-doom-1789328415000",
+    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
     "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
@@ -265,10 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-dario-ai-1789269180000",
-    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-    "link": "https://www.qbitai.com/2026/09/488380.html",
-    "summary": "RSI太危险，得管！",
+    "id": "news-agent-1789281625000",
+    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+    "link": "https://www.qbitai.com/2026/09/488447.html",
+    "summary": "Agent的下一步是关系型生产力",
     "publishedAt": "2026-09-13",
     "source": "量子位",
     "tags": [
@@ -278,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789301995000",
-    "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-    "link": "https://www.tmtpost.com/8138350.html",
-    "summary": "国产AI芯片公司终于到了要看利润表的时刻。",
-    "publishedAt": "2026-09-13",
+    "id": "news--1789354559000",
+    "title": " 中金终于算明白了三笔账 ",
+    "link": "https://www.huxiu.com/article/4890912.html?f=rss",
+    "summary": "本文来自微信公众号： 半镜 ，作者：方尧 9月7日晚间，中金公司（601995.SH）发布公告，换股吸收合并东兴证券（601198.SH）、信达证券（601059.SH）事项正式获得证监会核准批复。三家公司股票将于9月15日开市起连续停牌，其中东兴证券与信达证券将停牌直至终止上市，彻底退出A股舞台。中金公司将新增31.04亿股股份用于本次合并，监管层同时要求公司在一年内制定并上报具体整合方案。 从去年11月首次披露合并意向到正式获批，这场备受瞩目的券商“三合一”历时九个多月尘埃落定。合并完成后，新中金公司总资产将突破万亿元大关，营业收入跃居行业第三，营业网点数量从第十四位飙升至第三位。纸面数据的跃升足够亮眼，但市场真正关心的问题始终没有答案：三家出身、文化、业务结构截然不同的券商捏合在一起，规模迅速膨胀之后，成本能不能真正下降，收入能不能产生协同，最终能不能从“做大”走向“做强”。 规模账：数字上的三级跳 按照2025年末财务数据测算，这是一场不折不扣的规模盛宴。 合并前的中金公司总资产7828.26亿元，全年营业收入284.81亿元，归母净利润97.91亿元。加上东兴证券总资产1141.98亿元、营收47.11亿元，以及信达证券总资产1299.51亿元、营收40.44亿元，合并后的新中金总资产将达到约1.03万亿元，营业收入约372亿元，分别位列行业第四和第三。净资本从481亿元",
+    "publishedAt": "2026-09-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-1789349562000",
+    "title": "Anthropic为安全踩刹车：减硅谷的速，断中企的路",
+    "link": "https://www.tmtpost.com/8138511.html",
+    "summary": "Anthropic吹警笛，OpenAI推迟 IPO，马斯克点赞：硅谷AI大厂齐踩刹车。",
+    "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -304,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-automattic-confirms-mullenweg-has-returned-as-ceo-after-atte-1789255538000",
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-    "publishedAt": "2026-09-12",
+    "id": "news-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-1789317000000",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "publishedAt": "2026-09-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -331,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789213096000",
-    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-    "link": "https://www.qbitai.com/2026/09/487860.html",
-    "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
-    "publishedAt": "2026-09-12",
+    "id": "news-openai-dario-ai-1789269180000",
+    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+    "link": "https://www.qbitai.com/2026/09/488380.html",
+    "summary": "RSI太危险，得管！",
+    "publishedAt": "2026-09-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -344,11 +372,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-1789301861000",
-    "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
-    "link": "https://www.tmtpost.com/8138516.html",
-    "summary": "50亿美元不是一场庆功宴的香槟，而更像是下一阶段长跑的补给站。",
-    "publishedAt": "2026-09-13",
+    "id": "news-f4-1789354372000",
+    "title": " 首次覆盖 | 东方甄选：F4散场这一年 ",
+    "link": "https://www.huxiu.com/article/4890911.html?f=rss",
+    "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的，原文标题：《首次覆盖 | 东方甄选：F4散场这一年》 8月末，东方甄选交出了一份很让人意外的财报：全年总营收57.01亿元，同比增长29.8%；经营利润从上一财年亏损1.10亿元，扭转为盈利6.63亿元，归母净利润5.44亿元，均超市场预期。 这是董宇辉出走后的首个完整财年，也是初代核心主播“F4”全部离场后的第一份完整答卷。2024年7月董宇辉正式离职独立运营“与辉同行”。2025年6月顿顿合约到期离开，2026年4月明明、天权、中灿、林林四位核心主播在数日内相继官宣离职，告别长文里直言不适应新任管理层的运营变化，6月志胜也走了。 一年时间，东方甄选从直播电商第一股的神坛上，摔成了主播流失重灾区。但财报给出的答案，出乎所有人意料，失去主播光环的东方甄选，其实过得还不错。 （财报一图流如下，单位亿元，数据均来源于Wind，下同） 我们的核心观点如下： 1.东方甄选完成了从“流量驱动”到“产品驱动”的战略转身，把不可入表的人，换成可入表的SKU，自营产品GMV占比首次突破半数达到52.6%，成为公司真正的核心底盘。 2.主播出走带来的薪酬开支骤降，叠加上游供应链利润留存，共同构成了利润暴增的双重来源。 3.失去主播IP后，东方甄选加大了平台侧的投流和营销，目前来看能够阶段性弥补流量损失。 4.东方甄选正在努力从直播带货公司进化为品",
+    "publishedAt": "2026-09-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-q2-1789348081000",
+    "title": "蔚来Q2财报：连续三季盈利后，经营重心转向效率与组织",
+    "link": "https://www.tmtpost.com/8130664.html",
+    "summary": "一家曾经以“大投入”著称的新势力，开始重新学习怎么做一门更有效率的生意。",
+    "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -578,4 +619,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-13T20:15:34.215Z';
+export const dataFetchedAt = '2026-09-14T03:10:41.989Z';
