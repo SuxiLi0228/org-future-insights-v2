@@ -2,36 +2,36 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-donated-livers-can-be-made-biologically-younger-1789402302000",
-    "title": "Donated livers can be made biologically younger",
-    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-    "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+    "id": "news-the-ai-industry-has-taken-a-doomer-turn-what-now-1789408462000",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
     "publishedAt": "2026-09-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-with-ios-27-i-8217-m-actually-using-siri-again-1789405830000",
-    "title": "With iOS 27, I&#8217;m actually using Siri again",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+    "id": "news-openai-buys-smartphone-camera-maker-glass-imaging-for-300-mi-1789418654000",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
     "publishedAt": "2026-09-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-hr-must-set-boundaries-as-it-embraces-ai-notetakers-experts--1789404300000",
-    "title": "HR must set boundaries as it embraces AI notetakers, experts caution",
-    "link": "https://www.hrdive.com/news/hr-must-set-boundaries-ai-notetakers/830276/",
-    "summary": "Practitioners are increasingly responsible for vetting such tools before they are deployed in a workplace or recruitment setting, SHRM CHRO Jim Link told HR Dive.",
+    "id": "news-postal-worker-removed-from-office-argument-by-police-fails-t-1789417860000",
+    "title": "Postal worker removed from office argument by police fails to reopen bias case",
+    "link": "https://www.hrdive.com/news/postal-worker-office-argument-police-fails-reopen-bias-case/830333/",
+    "summary": "Other staff may have engaged in similar disputes, but the plaintiff couldn&rsquo;t show that those workers were given more favorable treatment, the 7th Circuit said.",
     "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789392439000",
-    "title": "核能板块持续高热，投资者如何理性、稳妥布局",
-    "link": "https://www.tmtpost.com/8139576.html",
-    "summary": "随着利率不断上升并造成冲击，核电题材的故事正在出现裂痕。像 Constellation Energy 这样的股票看起来相对稳健。",
+    "id": "news-1-28-1789392036000",
+    "title": "扣非亏损1.28亿的光韵达，“小步”跨界半导体赛道 | 并购一线",
+    "link": "https://www.tmtpost.com/8139557.html",
+    "summary": "少数参股也意味着，吉盛微短期很难对光韵达的业绩形成实质贡献，投资回报存在高度不确定性。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -82,42 +82,43 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-agents-blew-the-whistle-on-their-cheating-colleagues-1789401600000",
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+    "id": "news-donated-livers-can-be-made-biologically-younger-1789402302000",
+    "title": "Donated livers can be made biologically younger",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+    "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
     "publishedAt": "2026-09-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-macos-27-new-siri-takes-on-ai-productivity-apps-1789405809000",
-    "title": "macOS 27: new Siri takes on AI productivity apps",
-    "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-    "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+    "id": "news-ai-infrastructure-company-cornelis-raises-205m-to-chip-away--1789416457000",
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
+    "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+    "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
     "publishedAt": "2026-09-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-week-in-review-leaders-might-lose-know-how-by-relying-on-ai-1789396020000",
-    "title": "Week in review: Leaders might lose know-how by relying on AI",
-    "link": "https://www.hrdive.com/news/week-in-review-leaders-might-lose-know-how-by-relying-on-ai/830258/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of HR leaders who said they&rsquo;ve considered leaving their jobs in the past year.",
+    "id": "news-shrm-rebrands-annual-conference-as-credentialing-academy-1789417860000",
+    "title": "SHRM rebrands annual conference as ‘credentialing academy’",
+    "link": "https://www.hrdive.com/news/shrm-rebrands-annual-conference-as-credentialing-academy-hrx-live/830325/",
+    "summary": "The new event &mdash; SHRM HR-X Live! &mdash; will sort attendees into one of four &ldquo;dimensions,&rdquo; each with a resulting credential at the end.",
     "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -147,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-28-1789392036000",
-    "title": "扣非亏损1.28亿的光韵达，“小步”跨界半导体赛道 | 并购一线",
-    "link": "https://www.tmtpost.com/8139557.html",
-    "summary": "少数参股也意味着，吉盛微短期很难对光韵达的业绩形成实质贡献，投资回报存在高度不确定性。",
+    "id": "news--1789385137000",
+    "title": "轮到宁德时代管理市值了",
+    "link": "https://www.tmtpost.com/8139286.html",
+    "summary": "管理的对象，从一门电池生意，慢慢扩展到了资本本身。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -161,42 +162,43 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-s-real-extinction-threat-and-age-reversal-te-1789387800000",
-    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+    "id": "news-ai-agents-blew-the-whistle-on-their-cheating-colleagues-1789401600000",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
     "publishedAt": "2026-09-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-fashion-app-daydream-uses-apple-intelligence-to-help-you-sho-1789405200000",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+    "id": "news-amazon-prime-video-takes-on-tiktok-with-short-form-news-clip-1789409669000",
+    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+    "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+    "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
     "publishedAt": "2026-09-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-the-most-underrated-succession-planning-bench-people-who-alr-1789396020000",
-    "title": "The most underrated succession planning bench? People who already work there.",
-    "link": "https://www.hrdive.com/news/underrated-succession-planning-bench-people-who-already-work-there/830254/",
-    "summary": "A new report from i4cp asks HR to revisit its internal talent pool and development process.",
+    "id": "news-eeoc-solicits-anti-american-bias-charges-1789417800000",
+    "title": "EEOC solicits anti-American bias charges",
+    "link": "https://www.hrdive.com/news/EEOC-Lucas-anti-American-bias/830317/",
+    "summary": "&ldquo;Have you been harassed at work for speaking English or for being too American?&rdquo; the agency&rsquo;s chair asked workers in a video.",
     "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -227,10 +229,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789385137000",
-    "title": "轮到宁德时代管理市值了",
-    "link": "https://www.tmtpost.com/8139286.html",
-    "summary": "管理的对象，从一门电池生意，慢慢扩展到了资本本身。",
+    "id": "news-deepseek-1789384427000",
+    "title": "DeepSeek“推倒重来”",
+    "link": "https://www.tmtpost.com/8139302.html",
+    "summary": "入口，才是梁文锋的秘密武器",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -241,22 +243,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-biotech-8217-s-future-and-cheaper-cleaner-steel-1789128600000",
-    "title": "The Download: biotech&#8217;s future and cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
-    "publishedAt": "2026-09-11",
+    "id": "news-the-download-ai-s-real-extinction-threat-and-age-reversal-te-1789387800000",
+    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+    "publishedAt": "2026-09-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-microsoft-8217-s-new-ai-8216-code-of-conduct-8217-tells-mode-1789403273000",
-    "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+    "id": "news-clickfix-attacks-are-tricking-mac-and-windows-users-into-hac-1789409323000",
+    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+    "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+    "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
     "publishedAt": "2026-09-14",
     "source": "TechCrunch",
     "tags": [
@@ -266,16 +269,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-responsible-spending-starts-with-timely-access-informed-choi-1789376400000",
-    "title": "Responsible spending starts with timely access, informed choices and more connected care",
-    "link": "https://www.hrdive.com/spons/responsible-spending-starts-with-timely-access-informed-choices-and-more-c/829367/",
-    "summary": "Healthcare was built around specialties. Patients experience it as 1 journey.",
+    "id": "news-hr-must-set-boundaries-as-it-embraces-ai-notetakers-experts--1789404300000",
+    "title": "HR must set boundaries as it embraces AI notetakers, experts caution",
+    "link": "https://www.hrdive.com/news/hr-must-set-boundaries-ai-notetakers/830276/",
+    "summary": "Practitioners are increasingly responsible for vetting such tools before they are deployed in a workplace or recruitment setting, SHRM CHRO Jim Link told HR Dive.",
     "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -305,10 +309,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1789384427000",
-    "title": "DeepSeek“推倒重来”",
-    "link": "https://www.tmtpost.com/8139302.html",
-    "summary": "入口，才是梁文锋的秘密武器",
+    "id": "news--1789383969000",
+    "title": "豆包手机选择了弹幕最多的打法",
+    "link": "https://www.tmtpost.com/8139300.html",
+    "summary": "折叠屏只是手机大战的前菜",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -319,10 +323,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-under-35s-shaping-the-future-of-biotech-1789117200000",
-    "title": "Meet the under-35s shaping the future of biotech",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;",
+    "id": "news-the-download-biotech-8217-s-future-and-cheaper-cleaner-steel-1789128600000",
+    "title": "The Download: biotech&#8217;s future and cheaper, cleaner steel",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds&#8230;",
     "publishedAt": "2026-09-11",
     "source": "MIT Technology Review",
     "tags": [
@@ -331,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-opens-robotaxi-service-in-las-vegas-1789401856000",
-    "title": "Waymo opens robotaxi service in Las Vegas",
-    "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-    "summary": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+    "id": "news-volkswagen-8217-s-crazy-efficient-ev-borrows-an-idea-from-sl-1789407680000",
+    "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
+    "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+    "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
     "publishedAt": "2026-09-14",
     "source": "TechCrunch",
     "tags": [
@@ -344,17 +348,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-future-of-talent-sourcing-is-more-than-clicks-1789376400000",
-    "title": "The future of talent sourcing is more than clicks",
-    "link": "https://www.hrdive.com/spons/the-future-of-talent-sourcing-is-more-than-clicks/830132/",
-    "summary": "Three shifts are redefining how talent acquisition teams source and hire quality candidates.",
+    "id": "news-week-in-review-leaders-might-lose-know-how-by-relying-on-ai-1789396020000",
+    "title": "Week in review: Leaders might lose know-how by relying on AI",
+    "link": "https://www.hrdive.com/news/week-in-review-leaders-might-lose-know-how-by-relying-on-ai/830258/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the percentage of HR leaders who said they&rsquo;ve considered leaving their jobs in the past year.",
     "publishedAt": "2026-09-14",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -371,10 +375,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789383969000",
-    "title": "豆包手机选择了弹幕最多的打法",
-    "link": "https://www.tmtpost.com/8139300.html",
-    "summary": "折叠屏只是手机大战的前菜",
+    "id": "news--1789383418000",
+    "title": "《旅行青蛙》寄来的最后一张明信片",
+    "link": "https://www.tmtpost.com/8139305.html",
+    "summary": "我们不会再收到青蛙的明信片了。",
     "publishedAt": "2026-09-14",
     "source": "钛媒体",
     "tags": [
@@ -386,7 +390,375 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2609.13144v1",
+    "title": "Type Diversity Enables Transformers to Generalise Compositionally",
+    "authors": [
+      "Anssi Moisio",
+      "Mathias Creutz",
+      "Mikko Kurimo"
+    ],
+    "summary": "Compositional generalisation has been divided into lexical and structural generalisation. Previous work has found that structural generalisation is harder than lexical for Transformers. We propose that this difference is not inherent to Transformers, but due to the high diversity of lexical types and low diversity of structural types in the specific datasets of these previous works. By type diversity we mean the number of different constructors of that type, instead of, for example, the specific word combinations that might populate the structure. To test this, we vary the amounts of type diversity of lexical and structural types in previously published datasets. We create linguistically diverse variants of the COGS and SLOG datasets using Grammatical Framework. We find that type diversity",
+    "link": "http://arxiv.org/abs/2609.13144v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13141v1",
+    "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+    "authors": [
+      "Zhiwei Li",
+      "Lei Zhu",
+      "Hao Gu",
+      "Xiang Hu",
+      "Yan Wang",
+      "Haitao Mi",
+      "Sirui Han",
+      "Leo Liang",
+      "Zhijiang Guo"
+    ],
+    "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing trainable methods usually use a lightweight selector to score context units, followed by hard Top-K selection that blocks gradients from the language modeling loss. Consequently, these methods commonly distill layer-wise dense attention distributions. Although this encourages the selector to rank context units by dense attention weights in the original model, the ranking is not directly aligned with their impact on predictions under a fixed attention budget (i.e., the number of attended context units per query), potentially wasting the limited budget on less useful units. To address this misal",
+    "link": "http://arxiv.org/abs/2609.13141v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13134v1",
+    "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+    "authors": [
+      "Arya Tschand",
+      "Yaosheng Fu",
+      "Vikram Sharma Mailthody",
+      "Nicolai Oswald",
+      "Po-An Tsai",
+      "Ritchie Zhao",
+      "Oreste Villa",
+      "Vijay Janapa Reddi",
+      "Karu Sankaralingam"
+    ],
+    "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we show that disaggregating inference around the unique arithmetic intensity and memory footprint of subquadratic attention LLMs can achieve significant throughput and energy efficiency gains on emerging DRAM-based and SRAM-only heterogeneous systems. We introduce SQD (SubQuadratic Disaggregation), a fine-grained heterogeneous disaggregation scheme that splits decode by quadratic and subquadratic attention rather than by operator type, and that applies across subquadratic attention variants. For sparse attention LLMs, ",
+    "link": "http://arxiv.org/abs/2609.13134v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13125v1",
+    "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+    "authors": [
+      "Seif ElDein Mostafa",
+      "Yahia Ahmed",
+      "Farah Datwish",
+      "Marwa Solayman"
+    ],
+    "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversified panel of 14 U.S. equities spanning six industry sectors. The LSTM component, comprising two stacked layers with 64 hidden units, processes 60-day sliding windows of five sequential market features to produce 64-dimensional temporal embeddings that encode learned sequential market dynamics. These embeddings are concatenated with 14 hand-crafted technical indicators to form a 78-dimensional hybrid",
+    "link": "http://arxiv.org/abs/2609.13125v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13118v1",
+    "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
+    "authors": [
+      "Jinting Wang",
+      "Chenxing Li",
+      "Dong Yu",
+      "Li Liu"
+    ],
+    "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music composition, including structure, instrumentation, and expressive dynamics. Existing methods typically rely on these sparse cues and supervise only the final audio output, resulting in poorly learned music representations and generated music with limited musicality and structural coherence. To address these issues, we propose Curriculum-guided Multi-scale representation Alignment with scale-aware Optimal Transport (CMA-OT), a novel paradigm that leverages an external music expert to provide hierarchical supervision for the ",
+    "link": "http://arxiv.org/abs/2609.13118v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13117v1",
+    "title": "Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents",
+    "authors": [
+      "Yunqi Lu",
+      "Tyler Baumgartner",
+      "Nikhil Johri",
+      "Brandon Tai",
+      "Candice Fan",
+      "Luc Debaupte",
+      "Ruben Aguilar",
+      "Bill Wang",
+      "Yi Zhong"
+    ],
+    "summary": "Full-duplex evaluation often emphasizes whether an agent keeps speaking or stops. That binary cannot express a third response humans use routinely: continuing to speak while incorporating what the listener just contributed. The contribution may be a missing word, a correction or a clarification. We introduce Duplex Cue, an evaluation of this \\emph{in-turn adaptation} in full-duplex voice agents. Duplex Cue separates listener intent (backchannel, collaboration, or interruption) from speaker behavior: continuing unchanged, adapting within the turn, or yielding. Adaptation includes acknowledgment as well as content revision. In a single-model case study using 300 human-confirmed cues from unscripted English conversations, we compare recorded human responses with PersonaPlex continuations gene",
+    "link": "http://arxiv.org/abs/2609.13117v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL",
+      "cs.SD"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13100v1",
+    "title": "A Ranking Approach for Measuring Calibration",
+    "authors": [
+      "Anirban Chatterjee",
+      "Rina Foygel Barber"
+    ],
+    "summary": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the forecasted probability $f(X)$. In practice, models inevitably exhibit calibration error, and it is therefore important to be able to measure this miscalibration to assess a model's reliability. The Expected Calibration Error (ECE) is the most widely used measure of miscalibration, but is known to be impossible to estimate the ECE with guaranteed accuracy in an assumption-free setting. In this work, we propose an alternative measure, the rankECE, that is based on comparing points with neighboring values of the predicted probability $f(X)$. Our theoretical guarantees and empirical results establ",
+    "link": "http://arxiv.org/abs/2609.13100v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "stat.ME",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13083v1",
+    "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
+    "authors": [
+      "Zhenfeng Gan",
+      "Yanbo Chen",
+      "Lirong Che",
+      "Junbo Tan",
+      "Xueqian Wang"
+    ],
+    "summary": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neural kinematics model predictive control (MPC) framework for autonomous traversal. A learned kinematics model predicts short-horizon task-state increments from a height sequence and recent trajectories; NMPC plans with multi-objective costs and strict feasibility constraints; and a large language model (LLM) proposes bounded updates to selected weights and bounds through a safety-checked interface wi",
+    "link": "http://arxiv.org/abs/2609.13083v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13082v1",
+    "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
+    "authors": [
+      "Baoyang Jiang",
+      "Fengchun Zhang",
+      "Leyuan Wang",
+      "Haotian Li",
+      "Yida Wang",
+      "Zhe Ji",
+      "Jinshan Lai",
+      "Xi Ren",
+      "Danyang Li",
+      "Zheng Yang",
+      "Jianwei Hu",
+      "Qiang Ma"
+    ],
+    "summary": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More importantly, multi-step construction produces dependent intermediate artifacts that are often passed downstream without artifact-specific verification, allowing local defects to propagate into the final benchmark. We present Embodied-BenchForge, an agentic framework that transforms user-specified evaluation intents into complete embodied benchmark artifacts. It formulates construction as Closed-Loop Benchmark Synthesis, integrating forward artifact synthesis with backward verification and repair. Skill-Orchestrated Artifact Synthesis composes typed and reusable skills into executab",
+    "link": "http://arxiv.org/abs/2609.13082v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13076v1",
+    "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
+    "authors": [
+      "Yi-Jen Shih",
+      "Shih-Yun Shan Kuan",
+      "Guan-Ting Lin",
+      "Kai-Wei Chang",
+      "Siddhant Arora",
+      "Shu-wen Yang",
+      "Abdelrahman Mohamed",
+      "Shinji Watanabe",
+      "Hung-yi Lee",
+      "David Harwath"
+    ],
+    "summary": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evaluate dyadic interactions and passive audio comprehension, they largely overlook a prevalent real-world scenario: multi-party conversations. Evaluating agents in these settings is fundamentally more challenging than in dyadic interactions due to the exponentially greater conversational complexity. For voice agents to integrate seamlessly into human group dynamics, they must not only generate contextually appropriate responses but also demonstrate a nuanced understanding of open turn-taking. To address this gap, we introduce Multiparty Bench (MP-Bench), the first benchmark specifi",
+    "link": "http://arxiv.org/abs/2609.13076v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13073v1",
+    "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
+    "authors": [
+      "Junghyun Min",
+      "Huseyin Uzunalioglu",
+      "Mohamed Trabelsi"
+    ],
+    "summary": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. However, while several frameworks of fully autonomous end-to-end ML research have been proposed, successful implementations of them are often limited to problems with narrow search spaces, like language modeling or biomedical ML benchmarks. In this paper, we explore how autonomous research can be adapted to solve open-ended, industry-grade ML problems, by considering a case study: telecom ticket retrieval, an open-ended task with degrees of freedom in representation, architecture, and training data generation. We discover that autonomous research for open-ended problems with com",
+    "link": "http://arxiv.org/abs/2609.13073v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI",
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13072v1",
+    "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
+    "authors": [
+      "Divya Appapogu",
+      "Freya Behrens",
+      "Yonatan Belinkov",
+      "Aaron Mueller"
+    ],
+    "summary": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple instances. For these concepts, the search space over possible representation geometries is far larger than for binary concepts; it is thus not clear what geometries are most appropriate, nor what methods are most effective at recovering them. In this work, we introduce MAxBench, a geometry-agnostic evaluation framework for multinomial concept representations based on sampling from the recovered concept representation. We use MAxBench to compare 10 l",
+    "link": "http://arxiv.org/abs/2609.13072v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13071v1",
+    "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
+    "authors": [
+      "Kérian Fiter",
+      "Adil Lagrou",
+      "Franck Dervault",
+      "Bentley Oakes"
+    ],
+    "summary": "Enterprise Digital Twins (EDTs) promise data-driven decision support at organizational scale, but realizing them requires navigating siloed departments, tacit knowledge, and high-stakes decisions with long-horizon consequences. Existing approaches involve domain experts during model development but focus less on early organizational buy-in in EDTs. We present a vision for trustworthy EDT engineering grounded in an `involving before evolving' paradigm: rapidly involving stakeholders through a working prototype before evolving toward federation and full interoperability. Our three-stage approach combines foundation models for rapid prototyping, an ontological backbone for federated interoperability, and observability tooling for stakeholder trust. We ground our vision in an ongoing collabora",
+    "link": "http://arxiv.org/abs/2609.13071v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13062v1",
+    "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
+    "authors": [
+      "Sayantan Kumar",
+      "Nicolas Grimaldi",
+      "Jack Cummins",
+      "Jeremy C. Weiss"
+    ],
+    "summary": "Clinical timelines support treatment-window analysis and leakage-free modeling, but discharge summaries often obscure chronology and structured EHR tables describe only part of the patient course. We present a UID-preserving framework that links each narrative event occurrence to its source span and retains that identity through text-only estimation, structured-evidence retrieval, timestamped source-row grounding, and joint revision. We also present GAVEL, an LLM judge that compares two UID-aligned timelines against the narrative and structured record, to augment prior matching and temporal assessments. Across six open-weight models and 40 mixed-critical-care summaries, the GLM 5.2 multimodal revision, as compared to its text-only variant, improved temporal agreement without reducing event",
+    "link": "http://arxiv.org/abs/2609.13062v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13060v1",
+    "title": "CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models",
+    "authors": [
+      "Blake Olson",
+      "Yuhang Song",
+      "Emmett McQuinn",
+      "Yuan Shangguan"
+    ],
+    "summary": "Diffusion Language Models (DLMs) offer promising parallel generation capabilities but lag behind autoregressive models in complex reasoning and tool-use tasks. While Reinforcement Learning (RL) has recently been applied to enhance DLMs, standard RL approaches suffer from an exploration bottleneck. To address this, we inject reasoning priors from a stronger teacher model to guide RL exploration. In this paper, we introduce CanvasAnneal, a curriculum-guided diffusion RL framework. During the initial RL phase, we warm-start exploration by injecting teacher-generated reasoning traces into the initial diffusion canvas. As training progresses, we gradually remove this guidance and require the model to generate more of the reasoning trajectory independently. Across mathematical reasoning and tool",
+    "link": "http://arxiv.org/abs/2609.13060v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13058v1",
+    "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+    "authors": [
+      "Hongyi He",
+      "Zhenghao Lin",
+      "Xiao Liu",
+      "Peng Cheng",
+      "Yan Lu",
+      "Yeyun Gong"
+    ],
+    "summary": "Reinforcement learning (RL) has become central to post-training of large language models. Recent advances in RL for Mixture-of-Experts (MoE) models have primarily focused on improving optimization stability and training efficiency, while treating the expert selection as a fixed component. Since routing determines the sparse computation paths that induce output distributions, expert selection offers an additional source of rollout diversity. Through empirical analysis, we find that perturbing expert routing effectively alters model output and increases rollout diversity, which is similar to increasing the decoding temperature. However, direct perturbation can activate unsuitable experts and substantially degrade rollout quality. Motivated by these observations, we introduce Expert-Space Exp",
+    "link": "http://arxiv.org/abs/2609.13058v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13057v1",
+    "title": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
+    "authors": [
+      "Zach Furman",
+      "Stephan Wäldchen",
+      "Yangda Bei",
+      "Liam Hodgkinson"
+    ],
+    "summary": "Deep neural networks are expressive enough to contain worst-case targets that can be evaluated in polynomial time but cannot be learned in polynomial time by gradient descent. For practical tasks they nonetheless learn well, raising the question of what non-generic structure of real-world targets enables this. Existing surrogate models cannot pose this question because they either lack hard-to-learn targets entirely (deep linear networks) or cannot evaluate such targets efficiently (kernel methods, infinite-width limits). We study tree tensor networks (TTNs), a model class that generalizes deep linear networks and Tucker decompositions. We show they embed arbitrary read-once Boolean formulas, and thus contain polynomial-size targets that cannot be learned by gradient descent in polynomial ",
+    "link": "http://arxiv.org/abs/2609.13057v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13053v1",
+    "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
+    "authors": [
+      "Hoeun Lee",
+      "Jaeik Kim",
+      "Jusang Oh",
+      "Jinhyeok Kim",
+      "Geon Choi",
+      "Hyeonggeun Kim",
+      "Jaeyoung Do"
+    ],
+    "summary": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into action generation and selection through a shared trajectory model. Dynin-Robotics implements this formulation on Dynin-Omni, an omnimodal masked-diffusion backbone, representing language, visual observations, goals, and actions as discrete tokens. By varying conditioning and target spans, the same model learns action prediction, action-conditioned next-observation prediction, terminal goal-state prediction, and trajectory-to-instruction reconstruction. These interfaces support test-time scaling through goal prediction, action-candidate evaluation, and joint refinement of action and future-state",
+    "link": "http://arxiv.org/abs/2609.13053v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13050v1",
+    "title": "A Unified and Constrained View of Regularization-Based Robust Reinforcement Learning",
+    "authors": [
+      "Amine Andam",
+      "Jamal Bentahar",
+      "Mustapha Hedabou"
+    ],
+    "summary": "Regularization-based methods have become a standard approach for training Deep Reinforcement Learning policies against adversarial input perturbations. In this paper, we unify these methods by deriving new upper bounds on the performance gap between the nominal and worst-case policies. Each upper bound is expressed as an existing regularization objective plus a KL-divergence penalty between the nominal and worst-case policies, which further explains why adding a KL penalty improves robustness in practice. Building on these bounds, we formulate robust training as a constrained optimization problem, showing that existing methods correspond to the special case of a fixed Lagrange multiplier. We instead update the multiplier jointly with the policy to automatically tune the regularization weig",
+    "link": "http://arxiv.org/abs/2609.13050v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.13048v1",
+    "title": "MCRL2: Multi-resource Cross-attention-based Representation Learning-augmented Reinforcement Learning for Cloud Microservice Scheduling",
+    "authors": [
+      "Tiangang Li",
+      "Shi Ying",
+      "Xiangbo Tian",
+      "Chuan Shi",
+      "Ding Xiao"
+    ],
+    "summary": "Efficient microservice scheduling is crucial for maintaining load balance across nodes in data centers and ensuring high quality of service. However, achieving this in practice remains challenging due to dynamic resource imbalance under fluctuating workloads, nonlinear coupling across multiple resource dimensions, and the heterogeneity of microservice resource demands. While reinforcement learning-based approaches have shown promise, they struggle to capture the complex interdependencies among heterogeneous resources and neglect the importance of learning informative system representations. To address these limitations, we propose MCRL2, a novel reinforcement learning approach augmented with multi-resource cross-attention-based representation learning for microservice scheduling. Specifica",
+    "link": "http://arxiv.org/abs/2609.13048v1",
+    "publishedAt": "2026-09-11",
+    "categories": [
+      "cs.LG"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -605,4 +977,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-14T17:36:23.039Z';
+export const dataFetchedAt = '2026-09-14T21:24:08.655Z';
