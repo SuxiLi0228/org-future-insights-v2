@@ -2,6 +2,118 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-15-auto",
+    "date": "2026-09-15",
+    "session": "auto",
+    "title": "2026-09-15 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-15-auto-1",
+        "emoji": "💡",
+        "title": "Donated livers can be made biologically younger",
+        "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+        "detail": "来源: MIT Technology Review。Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+        "priority": "low",
+        "tags": [
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
+      },
+      {
+        "id": "sig-2026-09-15-auto-2",
+        "emoji": "💡",
+        "title": "With iOS 27, I&#8217;m actually using Siri again",
+        "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+        "detail": "来源: TechCrunch。Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+      },
+      {
+        "id": "sig-2026-09-15-auto-3",
+        "emoji": "💡",
+        "title": "HR must set boundaries as it embraces AI notetakers, experts caution",
+        "summary": "Practitioners are increasingly responsible for vetting such tools before they are deployed in a workplace or recruitment setting, SHRM CHRO Jim Link told HR Dive.",
+        "detail": "来源: HR Dive。Practitioners are increasingly responsible for vetting such tools before they are deployed in a workplace or recruitment setting, SHRM CHRO Jim Link told HR Dive.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/hr-must-set-boundaries-ai-notetakers/830276/"
+      },
+      {
+        "id": "sig-2026-09-15-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Lead AI Finance App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-15-1",
+        "priority": "low",
+        "action": "关注「Donated livers can be made biologically 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-15-2",
+        "priority": "low",
+        "action": "关注「With iOS 27, I&#8217;m actually using Si」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-15-3",
+        "priority": "low",
+        "action": "关注「HR must set boundaries as it embraces AI」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-15-4",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Lead AI Fin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 41,
+      "types": [
+        "tech"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-15 生成，聚合了 29 条新闻、0 篇论文、12 个岗位。",
+    "fetchWindow": "2026-09-15 00:00 - 2026-09-15 23:59"
+  },
+  {
     "id": "report-2026-09-14-auto",
     "date": "2026-09-14",
     "session": "auto",
