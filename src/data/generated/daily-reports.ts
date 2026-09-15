@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-16-auto",
+    "date": "2026-09-16",
+    "session": "auto",
+    "title": "2026-09-16 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-16-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+      },
+      {
+        "id": "sig-2026-09-16-auto-2",
+        "emoji": "💡",
+        "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+        "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+        "detail": "来源: TechCrunch。From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+        "priority": "low",
+        "tags": [
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/"
+      },
+      {
+        "id": "sig-2026-09-16-auto-3",
+        "emoji": "💡",
+        "title": "Is AI killing worker cognition?",
+        "summary": "Employees have reported in various surveys that AI tool use has worsened their critical thinking skills, affected their judgment and even made them less intelligent.",
+        "detail": "来源: HR Dive。Employees have reported in various surveys that AI tool use has worsened their critical thinking skills, affected their judgment and even made them less intelligent.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/is-ai-killing-worker-cognition/830303/"
+      },
+      {
+        "id": "sig-2026-09-16-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monito...",
+        "summary": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, de",
+        "detail": "作者: Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis。Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misalignment. We find that planting harmful but benign-sounding reasoning in the actor's context can steer it to perform adversarial actions while evading monitors, an attack we term \"plan injection\". We initially discover this attack in the multiple-choice question-answering monitorability setting proposed by Lanham et al. (2023), using the investigator-agent elicitation framework of Li et al. (2025). We generalize the attack and show that the discovered behavior scales to harder tasks (achieving 25-33% monitor evasion rates across different monitorability benchmarks) and larger m",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.15989v1"
+      },
+      {
+        "id": "sig-2026-09-16-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Lead AI Finance App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-16-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI doomers, whistleblowing」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-16-2",
+        "priority": "low",
+        "action": "关注「Leaks, data breaches, and ransom notes: 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-16-3",
+        "priority": "low",
+        "action": "关注「Is AI killing worker cognition?」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-16-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Corrupt Plans, Clean Traces: Evadin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-16-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Lead AI Fin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-16 生成，聚合了 25 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-09-16 00:00 - 2026-09-16 23:59"
+  },
+  {
     "id": "report-2026-09-15-auto",
     "date": "2026-09-15",
     "session": "auto",
