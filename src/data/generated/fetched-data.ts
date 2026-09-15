@@ -2,43 +2,44 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-doomers-whistleblowing-agents-and-de-aged-li-1789474200000",
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+    "id": "news-roundtables-could-ai-really-kill-us-all-1789494471000",
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
     "publishedAt": "2026-09-15",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-leaks-data-breaches-and-ransom-notes-the-worst-hacks-of-2026-1789488000000",
-    "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-    "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+    "id": "news-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp--1789503173000",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
     "publishedAt": "2026-09-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-is-ai-killing-worker-cognition-1789487700000",
-    "title": "Is AI killing worker cognition?",
-    "link": "https://www.hrdive.com/news/is-ai-killing-worker-cognition/830303/",
-    "summary": "Employees have reported in various surveys that AI tool use has worsened their critical thinking skills, affected their judgment and even made them less intelligent.",
+    "id": "news-judge-says-disability-bias-lawsuit-against-shrm-must-proceed-1789498740000",
+    "title": "Judge says disability bias lawsuit against SHRM must proceed",
+    "link": "https://www.hrdive.com/news/judge-says-disability-bias-lawsuit-against-shrm-must-proceed/830439/",
+    "summary": "A candidate previously alleged that the HR organization rescinded a job offer after she requested to have her trained service dog accompany her to the office as a reasonable accommodation.",
     "publishedAt": "2026-09-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -55,10 +56,102 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-ai-1789495344000",
+    "title": " AI最危险的地方，不是让最强的人失业 ",
+    "link": "https://www.huxiu.com/article/4891469.html?f=rss",
+    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 DeepSeek的算子工程师刘胜与昨夜发了篇长文，今天上了热搜，标签是“顶尖工程师也有AI焦虑”、“必须转业”。 评论区最高赞是一句自嘲：那我们现在岂不是49年入国军。 但他原文里最狠的一句话，几乎没人转：“一个工程能力很差的人，在搭配上AI后，产出屎山的效率可以达到先前的数倍，进而给系统埋下各式祸患，让这个世界变得更加草台。” 所有人都在讨论AI把天花板拆了。他真正担心的是，地板正在被抬起来。AI抬起来的不是水平，是产量。 这是两件完全不同的事。 先说他放弃的是什么 得先知道他的位置，才知道这篇文章的分量。 刘胜与是2021级北大图灵班，当过未名超算队队长，代表学校打过国际超算竞赛SC23，本科阶段就进了DeepSeek。2025年2月的DeepGEMM算子库开源，他深度参与了底层FP8的GEMM算子优化；今年4月DeepEP V2专家并行通信库升级，他参与了通信算子重构；这个月，他独立负责并实现了V4.1的主Attention算子，head dim=512的MQA attention。 这活儿在业内有个共识，是人类程序员最难被取代的手艺之一。你不光要懂上层的高性能计算逻辑，还得吃透GPU微架构、内存层次结构，深挖到PTX汇编和SASS机器码那一层，去分析硬件流水线为什么停顿，做寄存器分配和共享内存调度。 这不是",
+    "publishedAt": "2026-09-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
     "id": "news-1-125-1789479161000",
     "title": "募投项目终止后改道并购：播恩集团1.125亿接盘希杰资产，主业造血困局待解丨并购一线",
     "link": "https://www.tmtpost.com/8140634.html",
     "summary": "希杰此次出售的部分资产是否能够帮助播恩集团改善疲软的业绩表现，还要等待时间的验证。",
+    "publishedAt": "2026-09-15",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-doomers-whistleblowing-agents-and-de-aged-li-1789474200000",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+    "publishedAt": "2026-09-15",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1789498800000",
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "publishedAt": "2026-09-15",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-safety-risk-insufficient-to-show-religious-accommodation-pos-1789498740000",
+    "title": "Safety risk insufficient to show religious accommodation posed undue hardship, court rules",
+    "link": "https://www.hrdive.com/news/safety-risk-insufficient-to-show-religious-accommodation-undue-hardship/830451/",
+    "summary": "The case adds to the 9th Circuit&rsquo;s analysis of COVID-19 vaccine mandates and religious accommodation, a topic on which the court has sometimes sided with employers.",
+    "publishedAt": "2026-09-15",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-1500-id-aura-t6-hsd-v2-1-1789479174000",
+    "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+    "link": "https://www.qbitai.com/2026/09/489698.html",
+    "summary": "首发全场景倒车能力，体验再进一步",
+    "publishedAt": "2026-09-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789489554000",
+    "title": " 企业该买模型还是养上下文？ ",
+    "link": "https://www.huxiu.com/article/4891467.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型？ 问的人很认真，被问的人心里有点慌，钱不少花，方向看不清。 这个词从哪一年开始流行的，已经记不清了，反正到了今天，方案里、标书里、发布会的舞台上，到处都能听见「专有模型」四个字，听得越多，心里越没底。 这四个字，现在被用成了一个筐，什么都往里装；倒出来看，四样。 第一件，自己训。 从零开始，把模型的权重一点点练出来，费卡、费电、费人。这几年动过念头的企业不少，理由也都好听，数据自主，不受制于人。 这条路的入场券，是一亿到十亿美元的学费，外加一支几百人的团队，真干成的，一只手数得过来。 第二件，微调。 拿一个开源模型，喂上自家的数据，改改脾气。一张卡，几天功夫，就能有一个像模像样的「自家模型」；改完的模型，说起自家行话来，比通用模型顺耳得多。 客服问答、合同审查、文档处理，这几年属它被提得最多，也最容易被当成「自建」。 第三件，私有部署。 模型还是人家的，只是搬进了自家机房，数据不出门。一台一体机往机房里一摆，验收单上写的，也是「专有」。 银行内网问答，跑的往往不是最聪明的模型，属于最不出门的那个。这个需求是实的，数据不出门，这本身就值钱。 第四件，上下文。 自家数据、自家的口径、自家规矩，还有老师傅脑子里那些没说出口的判断，同样是「降本」，这家企业和那家企业，背后的算法",
+    "publishedAt": "2026-09-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-8-1789474332000",
+    "title": "香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌 | 并购一线",
+    "link": "https://www.tmtpost.com/8141095.html",
+    "summary": "香山股份此次的跨界，协同有想象空间，但兑现难度很高。",
     "publishedAt": "2026-09-15",
     "source": "钛媒体",
     "tags": [
@@ -81,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nitter-and-xcancel-are-dead-again-after-x-8217-s-latest-lega-1789487358000",
-    "title": "Nitter and XCancel are dead (again) after X&#8217;s latest legal actions",
-    "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-    "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+    "id": "news-us-data-centers-could-consume-more-natural-gas-than-germany--1789496960000",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
     "publishedAt": "2026-09-15",
     "source": "TechCrunch",
     "tags": [
@@ -94,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-engineers-say-they-know-ai-s-ethical-risks-but-workplace--1789484580000",
-    "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them",
-    "link": "https://www.hrdive.com/news/ai-ethics-jacob-coxon-tech-culture/830399/",
-    "summary": "Research on the topic was presented the same week an ex-Anthropic engineer warned that his peers &ldquo;earnestly believe that it could kill us all by the end of the decade.&rdquo;",
+    "id": "news-alleged-dei-motivated-hirings-and-promotions-cost-accenture--1789498740000",
+    "title": "Alleged DEI-motivated hirings and promotions cost Accenture $25M in DOJ settlement",
+    "link": "https://www.hrdive.com/news/alleged-dei-motivated-hirings-promotions-cost-accenture-25m-in-doj-settlement/830448/",
+    "summary": "The U.S. Department of Justice said certain candidates were highlighted to leadership and directed into a &ldquo;pipeline&rdquo; due to their race and sex characteristics.",
     "publishedAt": "2026-09-15",
     "source": "HR Dive",
     "tags": [
@@ -109,10 +202,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1500-id-aura-t6-hsd-v2-1-1789479174000",
-    "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
-    "link": "https://www.qbitai.com/2026/09/489698.html",
-    "summary": "首发全场景倒车能力，体验再进一步",
+    "id": "news-ai-100-1789476436000",
+    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+    "link": "https://www.qbitai.com/2026/09/489466.html",
+    "summary": "一句话，YOYO全面接管我的生活",
     "publishedAt": "2026-09-15",
     "source": "量子位",
     "tags": [
@@ -122,10 +215,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1789474332000",
-    "title": "香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌 | 并购一线",
-    "link": "https://www.tmtpost.com/8141095.html",
-    "summary": "香山股份此次的跨界，协同有想象空间，但兑现难度很高。",
+    "id": "news--1789488578000",
+    "title": " 我在哈萨克斯坦看中企大出海 ",
+    "link": "https://www.huxiu.com/article/4891464.html?f=rss",
+    "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍｜我在哈萨克斯坦看中企大出海》 夏天8月，哈萨克斯坦南部城市阿拉木图的街头，四处都能看到“快递小哥”。很多人是走路送外卖，也有的踩着滑板车，个别的也会骑着摩托车。这里时针缓慢地移动，无人着急，人们有足够的时间穿过斑马线，汽车司机也一定会耐心地等待。司机抬起头偶尔能看见驶过的奇瑞汽车和路边海尔家电的招牌。再远一点，他会看见天际线的雪山尖峰。阿拉木图，是一个夏天看得见雪的中亚城市。在我们潜意识以为是沙漠的地方，密布着林荫小道。 中国与俄罗斯的进退之间 哈萨克斯坦在中亚五国是一个巨头，经济体量超过其他四个国家。实际上它的国土面积则是其他四国总和的两倍还多。而在吸引外资和对外出口方面，哈萨克斯坦在五国的占比呈现了两个70%的结构。中亚五国其实是一个被平均化的说法，就经济而言，它是一个“1+4”的结构。 哈萨克斯坦2025年的贸易总额是1440亿美元，贸易顺差140亿美元。出口790亿美元的商品中，一半以上都是原油（意大利是重要买家）。尽管它的第一大贸易伙伴国是中国，但它的最大进口国和出口国分别是俄罗斯和意大利。 这种三个方向的贸易结构，代表了哈萨克斯坦独特的经济与文化特征。传统的经济高度依赖俄罗斯，而当下的经济则同时向东（中国）和向西（欧洲）看齐。 然而中国正在打破这种结构，预计很快将在进口国和出口国方面同时成为第一。 2",
+    "publishedAt": "2026-09-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-agent-1789471625000",
+    "title": "当Agent进入组织 飞书重新设计了一遍协同办公",
+    "link": "https://www.tmtpost.com/8141020.html",
+    "summary": "飞书披露，2026年上半年，其年度经常性收入增速达到去年同期的2.5倍，超过九成新增客户同步采购飞书AI产品。",
     "publishedAt": "2026-09-15",
     "source": "钛媒体",
     "tags": [
@@ -148,77 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-anthropic-google-have-been-in-talks-on-ai-safety-for--1789487223000",
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "publishedAt": "2026-09-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-amazon-invests-230m-in-benefits-pay-for-whole-foods-store-em-1789484580000",
-    "title": "Amazon invests $230M in benefits, pay for Whole Foods store employees",
-    "link": "https://www.hrdive.com/news/amazon-whole-foods-market-employee-benefits-pay-labor/830389/",
-    "summary": "As the company continues to merge its operations with the specialty grocer, this next investment focuses on its front-line workers.",
-    "publishedAt": "2026-09-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-ai-100-1789476436000",
-    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
-    "link": "https://www.qbitai.com/2026/09/489466.html",
-    "summary": "一句话，YOYO全面接管我的生活",
-    "publishedAt": "2026-09-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-agent-1789471625000",
-    "title": "当Agent进入组织 飞书重新设计了一遍协同办公",
-    "link": "https://www.tmtpost.com/8141020.html",
-    "summary": "飞书披露，2026年上半年，其年度经常性收入增速达到去年同期的2.5倍，超过九成新增客户同步采购飞书AI产品。",
-    "publishedAt": "2026-09-15",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-ai-industry-has-taken-a-doomer-turn-what-now-1789408462000",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
-    "publishedAt": "2026-09-14",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-aeo-startup-profound-hits-unicorn-valuation-raises-180m-seri-1789485768000",
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "id": "news-spacex-will-try-to-put-starship-in-orbit-for-the-first-time--1789496167000",
+    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+    "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
     "publishedAt": "2026-09-15",
     "source": "TechCrunch",
     "tags": [
@@ -228,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hasn-t-significantly-improved-the-speed-of-hiring-report--1789484580000",
-    "title": "AI hasn’t significantly improved the speed of hiring, report finds",
-    "link": "https://www.hrdive.com/news/ai-hasnt-significantly-improved-the-speed-of-hiring/830316/",
-    "summary": "A quarter of employers reported a slowdown in time-to-hire in the fourth quarter compared to a year ago.",
+    "id": "news-is-ai-killing-worker-cognition-1789487700000",
+    "title": "Is AI killing worker cognition?",
+    "link": "https://www.hrdive.com/news/is-ai-killing-worker-cognition/830303/",
+    "summary": "Employees have reported in various surveys that AI tool use has worsened their critical thinking skills, affected their judgment and even made them less intelligent.",
     "publishedAt": "2026-09-15",
     "source": "HR Dive",
     "tags": [
@@ -255,6 +294,19 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news--1789488432000",
+    "title": " 新股上市的“宇树现象”何时了？ ",
+    "link": "https://www.huxiu.com/article/4891463.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：黄凡 在国内A股发行与上市一直有一个非常奇特的现象：发行时中签率奇低，现在普遍在万分之一上下，认购者一签难求，很显然是新股发行极端供不应求。 然而，过去很长一段时间，二级市场又视新股发行如洪水猛兽，拼命呼吁不能敞开供应新股。于是，A股市场新股以超低的中签率高价发行，然后更高价开盘，之后？当然就是长期反复阴跌了。 那么这样一场场的新股IPO盛宴，最终谁在买单？ 为何A股的新股发行如此奇特？ 显然，最终“买单”的是二级市场的接盘侠们。我们就以最近发行上市的科技明日之星“宇树科技”为典型来看一下—— 2026年最受关注的新股之一无疑是宇树科技。公开资料显示：宇树成为A股首家人形机器人龙头上市公司，无论是发行还是上市都受到投资人的热捧，发行价确定为150.8元，发行市值约610亿元，市盈率约219倍。上市后，市场更是出现疯狂追捧，开盘一度冲到1100元附近，较发行价上涨超过600%。但随后发生了什么？ 高价新股的漫漫回归之路 新股超高估值发行，再加上更高的估值开盘，二级市场的接盘者就几乎没有胜算了。事实上，“浓眉大眼”的宇树上市首日冲高后即回落；次日继续大跌18.7%；之后反复下跌，仅用9个交易日就实现了开盘价的“五折优惠”，高点买入者亏损50%。 宇树科技上市时610亿元的估值，相比其2025年Pre-IPO约127亿元的估值，短时间内被资本市场",
+    "publishedAt": "2026-09-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
     "id": "news--1789469757000",
     "title": "在北京的西北角新开了一家科技馆——万千气象看北京",
     "link": "https://www.tmtpost.com/8140653.html",
@@ -269,23 +321,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-donated-livers-can-be-made-biologically-younger-1789402302000",
-    "title": "Donated livers can be made biologically younger",
-    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-    "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+    "id": "news-the-ai-industry-has-taken-a-doomer-turn-what-now-1789408462000",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
     "publishedAt": "2026-09-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-wonder-scores-a-425-million-partnership-with-doordash-as-it--1789485670000",
-    "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-    "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-    "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+    "id": "news-ai-agents-now-have-a-place-to-snitch-1789494179000",
+    "title": "AI agents now have a place to snitch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
     "publishedAt": "2026-09-15",
     "source": "TechCrunch",
     "tags": [
@@ -295,17 +346,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-postal-worker-removed-from-office-argument-by-police-fails-t-1789417860000",
-    "title": "Postal worker removed from office argument by police fails to reopen bias case",
-    "link": "https://www.hrdive.com/news/postal-worker-office-argument-police-fails-reopen-bias-case/830333/",
-    "summary": "Other staff may have engaged in similar disputes, but the plaintiff couldn&rsquo;t show that those workers were given more favorable treatment, the 7th Circuit said.",
-    "publishedAt": "2026-09-14",
+    "id": "news-ai-engineers-say-they-know-ai-s-ethical-risks-but-workplace--1789484580000",
+    "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them",
+    "link": "https://www.hrdive.com/news/ai-ethics-jacob-coxon-tech-culture/830399/",
+    "summary": "Research on the topic was presented the same week an ex-Anthropic engineer warned that his peers &ldquo;earnestly believe that it could kill us all by the end of the decade.&rdquo;",
+    "publishedAt": "2026-09-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -927,4 +979,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-15T16:10:02.890Z';
+export const dataFetchedAt = '2026-09-15T20:49:33.855Z';
