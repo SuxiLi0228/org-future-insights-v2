@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hear-why-neuralink-co-founder-max-hodak-says-the-screen-era--1789574400000",
-    "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-    "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+    "id": "news-after-accusations-of-selling-8216-perv-glasses-8217-meta-pre-1789589520000",
+    "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -27,18 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-completely-absent-from-most-organizations-ethics-codes-su-1789571640000",
-    "title": "AI completely absent from most organizations’ ethics codes, survey finds",
-    "link": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
-    "summary": "Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
+    "id": "news-more-than-half-of-young-workers-want-to-switch-jobs-soon-for-1789590480000",
+    "title": "More than half of young workers want to switch jobs soon for better pay, benefits",
+    "link": "https://www.hrdive.com/news/young-workers-want-to-switch-jobs-soon-for-better-pay-benefits/830538/",
+    "summary": "The share of Generation Z employees looking for greener pastures is on the rise, Robert Half found.",
     "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -51,6 +49,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789583189000",
+    "title": " 广西能靠平陆运河“逆袭”吗？ ",
+    "link": "https://www.huxiu.com/article/4891838.html?f=rss",
+    "summary": "本文来自微信公众号： 元淦恭说 ，作者：元淦恭 昨天（9月16日），平陆运河正式开通。这条造价727亿元的运河，全长134.2公里，其土石方开挖量达到3.15亿立方米，相当于三峡工程的三倍。其通航能力按内河1级航道建设，可通行5000万吨船舶，这一通航标准在全国范围内仅有长江、珠江干流航道能够达到。 这被官方定义为“新中国成立以来第一条通江达海大运河”。短短四年施工即告竣工的速度，更是中国这个“基建狂魔”建设“超级工程”的又一范本。 对广西这个相对落后的省份而言，这条运河承载着“逆天改命”的希望。 广西虽然是个沿海省份，但在这条运河开通之前，滨海的钦州、北海、防城港三市与其它内陆市之间，并没有水路联通。其它地处西江流域沿线的城市，如果货物需要通过水路进出，都需要绕行珠三角。对于那些对运输成本敏感的工业品而言，出海绕行珠三角不仅意味着更长的距离、更高的成本，也意味着广西坐拥的“出海口”优势无从发挥。 然而，随着平陆运河的通航，广西非沿海城市的工业发展条件发生了明显的变化。相较绕行珠三角，广西货物从平陆运河直接出海可以缩短560公里的航程，运输成本显著降低。南宁等沿西江流域城市发展制造业的比较优势将显著增强。 变化已经开始发生。2022年，比亚迪决定在南宁投资广西弗迪45GWh动力电池项目，当时平陆运河对于比亚迪来说，还只是一个远期利好。然而到了决定横州（属南宁）六景工业园3万吨碳酸锂",
+    "publishedAt": "2026-09-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -82,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-may-mobility-is-going-public-in-a-1-4b-spac-deal-1789572433000",
-    "title": "May Mobility is going public in a $1.4B SPAC deal",
-    "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-    "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+    "id": "news-x-will-now-let-us-users-trade-via-cashtags-1789588642000",
+    "title": "X will now let US users trade via Cashtags",
+    "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+    "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -95,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
-    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
-    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
-    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
+    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
+    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
+    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
+    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
     "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
@@ -121,10 +132,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-ipo-1789570657000",
-    "title": "贝斯特：毛利率两年下滑20个百分点，超额分红后仍拟募资补流｜IPO观察",
-    "link": "https://www.tmtpost.com/8136847.html",
-    "summary": "笔者注意到，贝斯特自2024年开始毛利率持续下行，2026年上半年相比2024年下滑幅度高达20个百分点，产品盈利能力明显减弱。",
+    "id": "news-1050-1789578983000",
+    "title": " 张一鸣的1050亿，是市场预支给他的 ",
+    "link": "https://www.huxiu.com/article/4891837.html?f=rss",
+    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 今天彭博亿万富豪指数更新，43岁的张一鸣身家突破1050亿美元，首次成为亚洲首富，超过了印度的高塔姆·阿达尼。2019年3月彭博开始追踪他的时候，这个数字是130亿，七年涨了大约七倍。 几乎所有报道的框架都一样：AI热潮创造了巨额新财富，传统行业的富豪被超越了。 这个说法听起来顺理成章，但它和字节自己的财务数字对不上。 字节跳动2026年上半年营收约1200亿美元，同比增长约30%；净利润约200亿美元，同比是下降的。 一家公司利润在下滑，创始人身家涨到了亚洲第一。这两件事同时发生，说明的不是AI在创造财富，而是市场换了一套计价方式，它现在给的不是你赚到的钱，是你押上的筹码。 利润是被什么吃掉的 净利润下降的原因不复杂，报道里说得很很清楚：字节正在扩大AI基础设施、云服务和大模型方面的投入。 也就是说，这不是生意变差了。营收还在以30%的速度增长，海外收入占比已经超过30%，广告和TikTok电商都在拉动。是公司主动把赚来的钱花掉了。 这里有个关键的会计事实，AI投入在财报上是当期费用和资本开支，而它对应的收益在遥远的未来，甚至不确定会不会来。所以任何一家转向AI的公司账本上，财务账本都长得一样，收入曲线往上，利润曲线往下，中间的缺口就是它对未来的下注。 按传统的估值逻辑，一家利润下滑的公司，估值应该承压。但字节的",
+    "publishedAt": "2026-09-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-etf-1789571510000",
+    "title": "这只ETF有望在利率上升时走强，现在上车还来得及吗？",
+    "link": "https://www.tmtpost.com/8142452.html",
+    "summary": "ProShares Rising Rates 环境受益股票 ETF 因持有石油股而受到提振。但该基金在科技和金融板块的持仓，应能帮助这股上涨势头延续下去。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -147,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robots-are-waiting-for-a-chatgpt-moment-nvidia-s-les-karpas--1789570800000",
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "id": "news-automattic-8217-s-interim-ceo-and-legal-chief-signed-recipro-1789587329000",
+    "title": "Automattic&#8217;s interim CEO and legal chief signed reciprocal severance deals during Mullenweg&#8217;s brief ouster",
+    "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+    "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -187,10 +212,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1789570610000",
-    "title": "御康诺国际：利润大幅缩水，靠过期套餐创收，用高额分红抵偿股东欠款｜IPO观察",
-    "link": "https://www.tmtpost.com/8140457.html",
-    "summary": "笔者注意到，报告期内，御康诺国际营收小幅抬升，但溢利大幅缩水，2025财年溢利同比腰斩，人力、场地及营销等运营成本持续走高，不断挤压利润空间。",
+    "id": "news-10-1789575928000",
+    "title": " 互联网医疗10年落幕，智能体时代开启，硬核产品是核心 ",
+    "link": "https://www.huxiu.com/article/4891834.html?f=rss",
+    "summary": "本文来自微信公众号： AI医界 ，作者：AI医界 核心观点： 1.过去十年的增长，本质是吃公立医院存量溢出红利 2.医院从\"放水溢出\"转向\"收权自保\"，存量入口全面关闸 3.智能体不是产品，专病结果型产品才是下半场的壁垒 互联网医疗圈有个所有人都心照不宣、却很少有人愿意直面的真相：过去十年所谓的\"互联网医疗高速增长\"，剥开概念外衣，本质上就是一门吃公立医院存量溢出红利的生意。 一支六七十人的BD运营团队，一年就能做到接近5亿的线上医疗服务收入，用户季度活跃度冲到57.22%，转化率达14%。这份成绩单曾经被全行业奉为神话，可神话的底色从来不是什么模式创新，而是踩中了两个时代缺口：一是公立医院数字化能力弱，院后精细化管理顾不过来，存量患者大量溢出；二是医师执业环境宽松，医生院外时间可以灵活变现。 说白了，你赚的每一分钱，都不是你创造的增量，而是医院顾不上也不愿意做的板块。 而今天，这两个缺口正在被彻底焊死。更扎心的现实是：当年分你蛋糕的那家医院，现在自己的日子都不好过了。 DRG/DIP支付方式改革持续深化，按病种付费持续压缩医保收益空间；医药领域腐败问题集中整治持续收紧灰色空间；医保控费持续深入——公立医院生存压力陡增，被逼着亲自下场补齐院后服务，自己吃完整块增量蛋糕。你曾经赖以生存的存量，现在成了医院要守住的生存基本盘。 01 存量红利时代彻底终结：医院从\"放水溢出\"到\"收权自保",
+    "publishedAt": "2026-09-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-20-ipo-1789570657000",
+    "title": "贝斯特：毛利率两年下滑20个百分点，超额分红后仍拟募资补流｜IPO观察",
+    "link": "https://www.tmtpost.com/8136847.html",
+    "summary": "笔者注意到，贝斯特自2024年开始毛利率持续下行，2026年上半年相比2024年下滑幅度高达20个百分点，产品盈利能力明显减弱。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -214,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-says-some-pixel-phone-owners-were-hacked-in-zero-day--1789570027000",
-    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-    "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-    "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+    "id": "news-former-waymo-cfo-jumps-to-self-driving-startup-wayve-1789585369000",
+    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+    "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -227,18 +266,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-alleged-dei-motivated-hirings-and-promotions-cost-accenture--1789498740000",
-    "title": "Alleged DEI-motivated hirings and promotions cost Accenture $25M in DOJ settlement",
-    "link": "https://www.hrdive.com/news/alleged-dei-motivated-hirings-promotions-cost-accenture-25m-in-doj-settlement/830448/",
-    "summary": "The U.S. Department of Justice said certain candidates were highlighted to leadership and directed into a &ldquo;pipeline&rdquo; due to their race and sex characteristics.",
-    "publishedAt": "2026-09-15",
+    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
+    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
+    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
+    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
+    "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -255,10 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cgt-1789570426000",
-    "title": "中源协和收监管警示函：仓促起落的关联租约，与CGT老兵的现实课题",
-    "link": "https://www.tmtpost.com/8142349.html",
-    "summary": "涉事物业并非上海延藜自有产权，该主体在本次交易中实际扮演“二房东”角色。",
+    "id": "news-ipo-anthropic-ai-1789575545000",
+    "title": " 万亿 IPO 前夜，Anthropic 突然扎进医疗：全球 AI 巨头，为啥全往医疗里钻？ ",
+    "link": "https://www.huxiu.com/article/4891832.html?f=rss",
+    "summary": "本文来自微信公众号： AI医界 ，作者：平头哥，原文标题：《万亿 IPO 前夜，Anthropic 突然扎进医疗：全球 AI 巨头，为啥全往医疗里钻？》 先给两组数字，看清今天AI行业真实的底层情绪。 一组是往下的。过去18个月，通用大模型的Token价格出现了约九成的跌幅：早期GPT-4时期，每百万Token的输入价格折合人民币约60元；到今天，主流模型的公开报价已普遍进入个位数量级，开源模型本地部署之后，边际成本还能被进一步摊薄。 另一组是往上的。多家第三方机构预测，全球医疗AI市场有望在未来数年从百亿美元级迈向千亿美元级，年复合增速在主流AI垂直赛道中位居前列。（不同机构口径存在差异，此处仅作量级参考。） 一边是价格一路向下，一边是需求曲线一路向上。 于是就有了最近这条新闻：在IPO传闻密集的关口，Anthropic宣布收购员工数只有9人的生物公司Coefficient Bio，交易对价约4亿美元。 谷歌、OpenAI、英伟达，国内的字节、阿里、蚂蚁、京东、平安、微医、百川……几乎所有头部玩家，都在往医疗里钻。 这不是一窝蜂。这是把账算清楚之后，大概率会走出的一步。 通用大模型这条路，如果只剩下价格、客户和利润的存量博弈，就需要一个新的故事载体；而医疗，是当下最能承接长期叙事的场景之一。 01 通用大模型：越「万能」，越难定价 很多人以为大模型很赚钱。恰恰相反：越通用，越难定",
+    "publishedAt": "2026-09-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ipo-1789570610000",
+    "title": "御康诺国际：利润大幅缩水，靠过期套餐创收，用高额分红抵偿股东欠款｜IPO观察",
+    "link": "https://www.tmtpost.com/8140457.html",
+    "summary": "笔者注意到，报告期内，御康诺国际营收小幅抬升，但溢利大幅缩水，2025财年溢利同比腰斩，人力、场地及营销等运营成本持续走高，不断挤压利润空间。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -281,30 +332,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-gives-its-workers-a-raise-of-1-per-hour-1789569128000",
-    "title": "Amazon gives its workers a raise of $1 per hour",
-    "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-    "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+    "id": "news-hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-e-1789584335000",
+    "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+    "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-safety-risk-insufficient-to-show-religious-accommodation-pos-1789498740000",
-    "title": "Safety risk insufficient to show religious accommodation posed undue hardship, court rules",
-    "link": "https://www.hrdive.com/news/safety-risk-insufficient-to-show-religious-accommodation-undue-hardship/830451/",
-    "summary": "The case adds to the 9th Circuit&rsquo;s analysis of COVID-19 vaccine mandates and religious accommodation, a topic on which the court has sometimes sided with employers.",
-    "publishedAt": "2026-09-15",
+    "id": "news-ai-completely-absent-from-most-organizations-ethics-codes-su-1789571640000",
+    "title": "AI completely absent from most organizations’ ethics codes, survey finds",
+    "link": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
+    "summary": "Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
+    "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -321,10 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789568172000",
-    "title": "独家对话曹力：没赢在起跑线，零跑靠什么赢下去？",
-    "link": "https://www.tmtpost.com/8142246.html",
-    "summary": "从后来者到月销10万辆，零跑正在用全域自研、智能化和下一代技术，回答下一程怎么走。",
+    "id": "news--1789574993000",
+    "title": " 二代在接更难的班：浙苏闽粤有啥不同？ ",
+    "link": "https://www.huxiu.com/article/4891831.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 中国民营经济已经进入一轮真正意义上的代际交接期。 过去四十多年，沿海地区第一代民营企业家完成了从个体经营、乡镇工业、外贸加工到产业集群崛起的历史跨越。他们中的许多人出生于上世纪五六十年代，经历过计划经济尾声、改革开放初期、集体企业改制、民营经济扩张、加入世贸组织后的外贸红利，以及房地产和工业资产共同升值的周期。 今天，这一代人正在集中老去。摆在他们和下一代面前的问题，已经不只是“孩子愿不愿意回来”，而是企业、家族财富、产业能力和地方经济如何完成有序交接。 如果把浙江、江苏、福建、广东放在一起看，会发现民营企业接班并没有一个统一剧本。四个省份同处中国沿海，也都拥有发达的民营经济和制造业基础，但企业传承的方式明显带有地方性。 浙江接班更重“可交接性”，江苏更重“治理化”，福建更重“家族资本网络”，广东则更早把接班问题放入职业经理人、供应链重组和市场化渠道之中。 同样是父辈建厂、二代接班，四个地方讲出来的是四种语言。接班表面是权力交接，深层则是区域产业基因、家族结构、地方政府角色、市场开放程度和财富观念共同作用的结果。 浙江：争当创二代 浙江民营经济的基本底色，是高度发达的块状经济和小微制造网络。台州的汽摩配、泵阀、模具、医药化工和机床，温州的电气、鞋服和轻工，义乌的小商品，绍兴的纺织和布艺，宁波的外贸制造和精密配套，都呈现出类似特点：产",
+    "publishedAt": "2026-09-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-cgt-1789570426000",
+    "title": "中源协和收监管警示函：仓促起落的关联租约，与CGT老兵的现实课题",
+    "link": "https://www.tmtpost.com/8142349.html",
+    "summary": "涉事物业并非上海延藜自有产权，该主体在本次交易中实际扮演“二房东”角色。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -963,4 +1028,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-16T16:02:53.337Z';
+export const dataFetchedAt = '2026-09-16T20:49:31.503Z';
