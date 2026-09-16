@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-17-auto",
+    "date": "2026-09-17",
+    "session": "auto",
+    "title": "2026-09-17 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-17-auto-1",
+        "emoji": "💡",
+        "title": "Meet a mouse whose brain cortex is made up of human cells",
+        "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+        "detail": "来源: MIT Technology Review。Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+      },
+      {
+        "id": "sig-2026-09-17-auto-2",
+        "emoji": "💡",
+        "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+        "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+        "detail": "来源: TechCrunch。At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "id": "sig-2026-09-17-auto-3",
+        "emoji": "💡",
+        "title": "AI completely absent from most organizations’ ethics codes, survey finds",
+        "summary": "Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
+        "detail": "来源: HR Dive。Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/"
+      },
+      {
+        "id": "sig-2026-09-17-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Agentic Societies Need a Social Harness...",
+        "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall",
+        "detail": "作者: Tapan Chugh, Vidushi Singh, Krish Jain。An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in communication (``speech''). We argue that agentic societies need a \\emph{social harness} for inter-agent interactions, in addition to each agent's \\emph{personal harness}, which manages its private context and communication with its principal. We propose a layered architecture for social harnesses which ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.17527v1"
+      },
+      {
+        "id": "sig-2026-09-17-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Lead AI Finance App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-17-1",
+        "priority": "low",
+        "action": "关注「Meet a mouse whose brain cortex is made 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-17-2",
+        "priority": "low",
+        "action": "关注「Hear why Neuralink co-founder Max Hodak 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-17-3",
+        "priority": "low",
+        "action": "关注「AI completely absent from most organizat」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-17-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Agentic Societies Need a Social Har」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-17-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Lead AI Fin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-17 生成，聚合了 25 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-09-17 00:00 - 2026-09-17 23:59"
+  },
+  {
     "id": "report-2026-09-16-auto",
     "date": "2026-09-16",
     "session": "auto",

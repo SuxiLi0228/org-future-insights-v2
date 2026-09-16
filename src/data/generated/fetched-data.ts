@@ -2,38 +2,104 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-could-ai-really-kill-us-all-1789494471000",
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
-    "publishedAt": "2026-09-15",
+    "id": "news-meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells-1789570800000",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+    "publishedAt": "2026-09-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "ai-hr"
+      "technology"
     ]
   },
   {
-    "id": "news-amazon-launches-alexa-in-india-with-hindi-support-1789554887000",
-    "title": "Amazon launches Alexa+ in India with Hindi support",
-    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+    "id": "news-hear-why-neuralink-co-founder-max-hodak-says-the-screen-era--1789574400000",
+    "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+    "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-safety-risk-insufficient-to-show-religious-accommodation-pos-1789498740000",
-    "title": "Safety risk insufficient to show religious accommodation posed undue hardship, court rules",
-    "link": "https://www.hrdive.com/news/safety-risk-insufficient-to-show-religious-accommodation-undue-hardship/830451/",
-    "summary": "The case adds to the 9th Circuit&rsquo;s analysis of COVID-19 vaccine mandates and religious accommodation, a topic on which the court has sometimes sided with employers.",
-    "publishedAt": "2026-09-15",
+    "id": "news-ai-completely-absent-from-most-organizations-ethics-codes-su-1789571640000",
+    "title": "AI completely absent from most organizations’ ethics codes, survey finds",
+    "link": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
+    "summary": "Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
+    "publishedAt": "2026-09-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-zdtaichu5-0-9b-1789564100000",
+    "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+    "link": "https://www.qbitai.com/2026/09/490839.html",
+    "summary": "九大空间测试10B规模通用模型中8项第一",
+    "publishedAt": "2026-09-16",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-st-1789573712000",
+    "title": "“白衣骑士”入局背后，*ST沐邦虚假陈述案开审：五高管齐称“与我无关”",
+    "link": "https://www.tmtpost.com/8142445.html",
+    "summary": "被处罚高管齐否认参与造假，白衣骑士难解信任危机",
+    "publishedAt": "2026-09-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-building-the-materials-foundation-for-ai-1789562854000",
+    "title": "Building the materials foundation for AI",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "publishedAt": "2026-09-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-may-mobility-is-going-public-in-a-1-4b-spac-deal-1789572433000",
+    "title": "May Mobility is going public in a $1.4B SPAC deal",
+    "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+    "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+    "publishedAt": "2026-09-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
+    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
+    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
+    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
+    "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -55,24 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789554989000",
-    "title": " “抖音们”都在做的AI互动空间，能否重写爆款逻辑？ ",
-    "link": "https://www.huxiu.com/article/4891746.html?f=rss",
-    "summary": "本文来自微信公众号： 锌刻度 ，编辑：李季，作者：锌刻度 2026年9月初，人工智能生成合成内容标识办法正式施行。这意味着，国内所有AI生成内容此后都必须明确打上“AI制造”的烙印，合规的紧箍咒骤然收紧。 而2026年下半年，国内内容赛道也迎来一轮集中式战略洗牌。抖音持续迭代内测已久的互动空间广场、小红书加码AI小工具生态并开放全域创作权限、B站持续放大Toy互动平台流量入口、快手开启专属创作者招募，短短两个月内，主流内容平台集体押注同一条新赛道——AI互动空间。 最近的消息是，近期有内测信息显示，抖音正在创作者中心小范围上线“AI工坊”工具，配套产出的“兴趣卡”已进入首页推荐流灰度测试。 这股浪潮，是否会催生继图文、视频、直播之后的“第四类内容形态”？ 各大平台密集落子 AI互动内容意味着怎样的内容消费趋势？或许从现象级的案例中能窥得一二。 2026年4月，一款名为SBTI的恶搞型人格测试突然席卷全网。它由B站UP主“Q肉儿串儿”借助AI技术在几天内完成，初衷竟是劝友人戒酒。全程31道题目、5分钟出结果，结果标签却是“吗喽”“送钱者ATM-er”“尤物”“伪人”等自嘲式命名，精准击中了年轻人在社交场域中的玩梗需求。 从4月7日的10万参与量开始，短短数日，访问量数次挤崩服务器，明星自发晒图，腾讯公关总监、天猫微博官号纷纷下场，瑞幸咖啡、多邻国、星巴克等品牌在24小时内火速跟进推出",
-    "publishedAt": "2026-09-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1789553211000",
-    "title": "AI办公，集体盯上「养宠物」",
-    "link": "https://www.tmtpost.com/8141972.html",
-    "summary": "能成为新的用户入口吗？",
+    "id": "news-20-ipo-1789570657000",
+    "title": "贝斯特：毛利率两年下滑20个百分点，超额分红后仍拟募资补流｜IPO观察",
+    "link": "https://www.tmtpost.com/8136847.html",
+    "summary": "笔者注意到，贝斯特自2024年开始毛利率持续下行，2026年上半年相比2024年下滑幅度高达20个百分点，产品盈利能力明显减弱。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -83,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-doomers-whistleblowing-agents-and-de-aged-li-1789474200000",
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
-    "publishedAt": "2026-09-15",
+    "id": "news-the-download-ai-s-trillion-dollar-gamble-and-openai-8217-s-b-1789560600000",
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
+    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+    "publishedAt": "2026-09-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -95,10 +147,77 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-don-8217-t-need-ai-regulation-leave-safety-to-us-nvidia-8-1789518039000",
-    "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "id": "news-robots-are-waiting-for-a-chatgpt-moment-nvidia-s-les-karpas--1789570800000",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "publishedAt": "2026-09-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-chipotle-to-place-apprentice-managers-in-all-company-owned-l-1789571640000",
+    "title": "Chipotle to place apprentice managers in all company-owned locations",
+    "link": "https://www.hrdive.com/news/chipotle-expands-apprentice-program-leadership/830510/",
+    "summary": "These high-performing employees are working toward a general manager role and will be a key part of staffing newly opened restaurants, the company said.",
+    "publishedAt": "2026-09-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1789546724000",
+    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+    "link": "https://www.qbitai.com/2026/09/490756.html",
+    "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+    "publishedAt": "2026-09-16",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ipo-1789570610000",
+    "title": "御康诺国际：利润大幅缩水，靠过期套餐创收，用高额分红抵偿股东欠款｜IPO观察",
+    "link": "https://www.tmtpost.com/8140457.html",
+    "summary": "笔者注意到，报告期内，御康诺国际营收小幅抬升，但溢利大幅缩水，2025财年溢利同比腰斩，人力、场地及营销等运营成本持续走高，不断挤压利润空间。",
+    "publishedAt": "2026-09-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-roundtables-could-ai-really-kill-us-all-1789494471000",
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+    "publishedAt": "2026-09-15",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-google-says-some-pixel-phone-owners-were-hacked-in-zero-day--1789570027000",
+    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+    "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+    "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -123,87 +242,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789546724000",
-    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-    "link": "https://www.qbitai.com/2026/09/490756.html",
-    "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
-    "publishedAt": "2026-09-16",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-deepseek-token-1789554964000",
-    "title": " 乌兰察布，DeepSeek在这寻找最便宜的Token ",
-    "link": "https://www.huxiu.com/article/4891747.html?f=rss",
-    "summary": "本文来自微信公众号： IT时报 ，作者：郝俊慧 DeepSeek的消息，最近总与内蒙古乌兰察布连在一起。 先是人。今年4月，DeepSeek挂出一则招聘启事，招数据中心高级运维工程师，月薪最高3万元，工作地点写着内蒙古乌兰察布，社交平台上一片调侃：蓝天白云大草原，月入三万看星星。 紧接着是一个更大的计划。9月初，有消息称DeepSeek计划在乌兰察布建设规模约1GW的数据中心，并至少部署16万颗华为下一代昇腾950DT AI加速芯片。如果按照9月10日媒体透露的消息，华为昇腾950DT加速卡的报价已经提高至25万元以上，那么，这个项目仅芯片名义投资金额就超过400亿元。不过，这个项目的最终交易价格和交付节奏均尚未公开。 接下来的故事便很顺理成章。9月9日，路透援引知情人士报道称，DeepSeek已聘请中信证券，为登陆上交所科创板做准备，计划年内启动IPO流程；9月10日，DeepSeek V4.1 Flash模型正式发布，新模型的推理速度、吞吐能力都进一步提升，而且还比上一代便宜了，空闲时段每百万Token缓存命中输入价格降至0.02元，缓存未命中输入降至1元，输出价格降至4元，高峰时段翻倍。 将这几件事集合起来看，便很容易看懂DeepSeek在AI下半场的意图：Token必须越来越便宜，生产Token的工厂却越来越贵，竞争的重点不再只是一个更好的模型，而是如何以更低成本生产海量T",
-    "publishedAt": "2026-09-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-b7-h3-adc-1789553209000",
-    "title": "B7-H3，一个被ADC“拯救”的明星靶点",
-    "link": "https://www.tmtpost.com/8142013.html",
-    "summary": "B7-H3靶点的沉浮，是肿瘤药物研发史上最富戏剧性的叙事之一。",
-    "publishedAt": "2026-09-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-models-need-more-data-about-biology-and-openai-is-paying--1789473600000",
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She&#8230;",
-    "publishedAt": "2026-09-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-ai-data-center-boom-is-colliding-with-cities-scarred-by--1789508858000",
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-    "publishedAt": "2026-09-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-judge-says-disability-bias-lawsuit-against-shrm-must-proceed-1789498740000",
-    "title": "Judge says disability bias lawsuit against SHRM must proceed",
-    "link": "https://www.hrdive.com/news/judge-says-disability-bias-lawsuit-against-shrm-must-proceed/830439/",
-    "summary": "A candidate previously alleged that the HR organization rescinded a job offer after she requested to have her trained service dog accompany her to the office as a reasonable accommodation.",
-    "publishedAt": "2026-09-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news-token-1789546193000",
     "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
     "link": "https://www.qbitai.com/2026/09/490750.html",
@@ -217,23 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-6-985-1789554850000",
-    "title": " 毕业20年后，我同宿舍的6个985金融男，再也聚不上了 ",
-    "link": "https://www.huxiu.com/article/4890848.html?f=rss",
-    "summary": "毕业20年后，你和当年的大学好友还能聚上吗？",
-    "publishedAt": "2026-09-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1700-1789553207000",
-    "title": "沉寂1700天后，字节挖来华尔街大牛，重新杀回一级市场？",
-    "link": "https://www.tmtpost.com/8142045.html",
-    "summary": "前Coatue高管蒋恺加入字节跳动，AI是其重点投资方向",
+    "id": "news-cgt-1789570426000",
+    "title": "中源协和收监管警示函：仓促起落的关联租约，与CGT老兵的现实课题",
+    "link": "https://www.tmtpost.com/8142349.html",
+    "summary": "涉事物业并非上海延藜自有产权，该主体在本次交易中实际扮演“二房东”角色。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -244,10 +269,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-8217-s-at-stake-in-ai-s-trillion-dollar-gamble-1789466400000",
-    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+    "id": "news-the-download-ai-doomers-whistleblowing-agents-and-de-aged-li-1789474200000",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
     "publishedAt": "2026-09-15",
     "source": "MIT Technology Review",
     "tags": [
@@ -256,30 +281,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp--1789503173000",
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-    "publishedAt": "2026-09-15",
+    "id": "news-amazon-gives-its-workers-a-raise-of-1-per-hour-1789569128000",
+    "title": "Amazon gives its workers a raise of $1 per hour",
+    "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+    "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+    "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-is-ai-killing-worker-cognition-1789487700000",
-    "title": "Is AI killing worker cognition?",
-    "link": "https://www.hrdive.com/news/is-ai-killing-worker-cognition/830303/",
-    "summary": "Employees have reported in various surveys that AI tool use has worsened their critical thinking skills, affected their judgment and even made them less intelligent.",
+    "id": "news-safety-risk-insufficient-to-show-religious-accommodation-pos-1789498740000",
+    "title": "Safety risk insufficient to show religious accommodation posed undue hardship, court rules",
+    "link": "https://www.hrdive.com/news/safety-risk-insufficient-to-show-religious-accommodation-undue-hardship/830451/",
+    "summary": "The case adds to the 9th Circuit&rsquo;s analysis of COVID-19 vaccine mandates and religious accommodation, a topic on which the court has sometimes sided with employers.",
     "publishedAt": "2026-09-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -296,103 +321,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-36-1789554276000",
-    "title": " 石四药、振东等36个重磅品种被“红黄标”，降价后申诉遭冰冷否决 ",
-    "link": "https://www.huxiu.com/article/4891739.html?f=rss",
-    "summary": "本文来自微信公众号： 健识局 ，编辑：江芸贾亭，作者：王丽 一款药从16.30元降到11.44元，降幅接近三成，企业称新价格已经进入“绿区”，申请取消价格预警，结果被拒绝。 这是康芝药业尼美舒利分散片在云南遇到的情况。类似的疑问也出现在石家庄四药的申诉中：企业称部分产品已降至平台给出的红标线以下，申请调整预警颜色，得到的仍是“不通过”。 9月14日，云南省政府采购和出让中心公布第二批其他药品价格风险预警标识申诉、质疑处理结果，公开了79条申诉、质疑记录，其中有36条申诉未通过，涉及25家递交企业，包括石家庄四药、康芝药业、振东制药、赛升药业、赛诺菲（杭州）等。 各家企业提出的申诉理由不同，“不通过”的备注却完全相同：“根据全国深化医药价格治理工作安排及云南省医保局相关函件要求，维持风险预警标识。” 红黄标规则实施以来，各省都在定期公布超标品种和整改措施，但很少见到这些药品超出红黄线之后，到底是怎么调整价格的。云南公布的申诉信息，正好给了行业另一种应对政策约束的视角。 价格降了，为什么还没“过关”？ 云南否决的36条申诉中，石家庄四药占了两条：格列齐特片80mg×30片，企业称平台红标包装限价26.721元，自己已降至26.72元，差了一厘钱；葡萄糖酸钙注射液从红标限价1.62元/支降至1.60元/支，差了两分钱。 石四药还附了挂网截图，证明自己已经在红标以内，但两项请求均未通过。不",
-    "publishedAt": "2026-09-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-huawei-scales-back-full-support-for-aito-as-seres-takes-the--1789549326000",
-    "title": "Huawei Scales Back Full Support for AITO as Seres Takes the Lead",
-    "link": "https://www.tmtpost.com/8141991.html",
-    "summary": "Huawei is shifting its partnership with Seres from comprehensive smart-selection support to a lighter empowerment model. Seres will assume primary responsibility for product, marketing, sales and service of the AITO brand, freeing Huawei resources for other Harmony Intelligent Mobility nameplates while raising questions about AITO’s independent momentum.",
-    "publishedAt": "2026-09-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-ai-industry-has-taken-a-doomer-turn-what-now-1789408462000",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
-    "publishedAt": "2026-09-14",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1789498800000",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "publishedAt": "2026-09-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-engineers-say-they-know-ai-s-ethical-risks-but-workplace--1789484580000",
-    "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them",
-    "link": "https://www.hrdive.com/news/ai-ethics-jacob-coxon-tech-culture/830399/",
-    "summary": "Research on the topic was presented the same week an ex-Anthropic engineer warned that his peers &ldquo;earnestly believe that it could kill us all by the end of the decade.&rdquo;",
-    "publishedAt": "2026-09-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news--1789544298000",
-    "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-    "link": "https://www.qbitai.com/2026/09/490416.html",
-    "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
-    "publishedAt": "2026-09-16",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789553923000",
-    "title": " 临床外包，陷入内卷式互杀 ",
-    "link": "https://www.huxiu.com/article/4891736.html?f=rss",
-    "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 今年的行业繁荣，似乎绕开了临床CRO和SMO公司。 不少公司的体感越发沉重。曾背靠昆翎的SMO企业方腾医药去年年初开始全员降薪，到年中被爆出欠薪数月。一名业内人士也称，这两年SMO企业都不太好过。“去年就有很多公司取消了年终奖，今年也不太可能恢复。” 而在产业链的另一端，由于申办方拖欠款项或是指责交付不达标，CRO企业同样焦头烂额。2025年下半年，老牌CRO美迪西发布公告，其全资子公司因技术服务合同纠纷，被医药企业告上法庭，涉案金额高达惊人的1.59亿元人民币。 仅2026年上半年，上海尚睿医药科技有限公司就新增两起服务合同纠纷开庭公告。而诺思格2025年年报披露，公司涉及合同纠纷诉讼涉案金额达1.799亿元，虽该案已结案，但也折射出行业高速扩张期埋下的法律隐患正在集中显现。 这些案例并非偶然。多名业内人士表示，临床CRO与SMO公司的合同纠纷在最近一年内数量达到顶峰。大量企业一边在低价抢单的红海里厮杀，一边在法庭上为尾款、质量、工期争执不休。 过去几年，这些公司被迫卷入一场漫长的价格战中，在极度压缩的利润空间和苛刻的里程碑付款双重挤压下，行业标准产生了巨大分歧。更令人担忧的是，当生存成为第一要务时，由价格战引发的交付质量下滑，正悄然威胁着新药临床试验的生命线，即数据真实性与合规底线。 -01- 潮水退去之后 在201",
-    "publishedAt": "2026-09-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1789548825000",
-    "title": "物理 AI 的大结果何时到来？",
-    "link": "https://www.tmtpost.com/8141849.html",
-    "summary": "只要敢于向上接触 Physical AI，总有机会被长择。",
+    "id": "news--1789568172000",
+    "title": "独家对话曹力：没赢在起跑线，零跑靠什么赢下去？",
+    "link": "https://www.tmtpost.com/8142246.html",
+    "summary": "从后来者到月销10万辆，零跑正在用全域自研、智能化和下一代技术，回答下一程怎么走。",
     "publishedAt": "2026-09-16",
     "source": "钛媒体",
     "tags": [
@@ -1031,4 +963,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-16T10:47:25.738Z';
+export const dataFetchedAt = '2026-09-16T16:02:53.337Z';
