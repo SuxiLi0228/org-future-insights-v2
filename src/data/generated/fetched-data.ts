@@ -14,29 +14,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roku-8217-s-new-labs-hub-brings-experimental-apps-to-the-big-1789660229000",
-    "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
-    "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-    "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+    "id": "news-the-fix-for-rogue-ai-agents-could-be-more-ai-1789677287000",
+    "title": "The fix for rogue AI agents could be more AI",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-may-not-know-how-to-explain-their-pay-decisions-ao-1789658220000",
-    "title": "Employers may not know how to explain their pay decisions, Aon says",
-    "link": "https://www.hrdive.com/news/employers-explain-pay-decisions-aon-transparency/830657/",
-    "summary": "Only a third of those surveyed said they have conducted a pay remediation analysis, and only 5% could say that remediation is largely complete.",
-    "publishedAt": "2026-09-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
       "ai"
     ]
   },
@@ -50,6 +36,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789675821000",
+    "title": " 告天下母亲同盟书 ",
+    "link": "https://www.huxiu.com/article/4892143.html?f=rss",
+    "summary": "本文来自微信公众号： 王小一和她的朋友们 ，作者：王小一 前几天我看到一句话：亲子关系是人格的试金石。稍微想了一下，挺有道理。孩子在进入亲子关系的时候是一片空白，所以不承担关系责任；亲子关系的质量和走向在六岁以前基本确定，那个阶段几乎都是父母在施加影响，而孩子没有任何防御的无条件吸收。所以简单点说，孩子长大一些以后，进入青春期和成年早期，和父母的关系不好，那就说明父母人格有较大问题。 这样简单粗暴的结论听起来很过瘾但是对父母不免太过严苛——毕竟想想“无知之幕”，你既可能是受害的子女，同时也是施害的父母。但我认真思考了一下，认为接受如下的结论是客观和理智的：为人父母，需要承担亲子关系以及孩子人格健康的责任，也就是说，无论你获得/缺失过什么资源，你对孩子的影响，由你个人承担。 这句话本身可能就是越来越多的人选择不生孩子的原因——这是个注定亏本的买卖。如此巨大的责任，与如此虚无缥缈的收获对照，合理的逻辑结论简单明了。备注一下，以我所处的阶层，时代，亚文化来看，传统的亲子关系最需要改进的就是个人界限。以上和以下全部的论述都是基于西方个人主义的观念。 一 我儿子马上十二岁了，这两年和他的相处越发的具有挑战性。我也是第一次当青春期孩子的家长，无论如何道听途说的知道青春期少年有多难管理，自己真的面对这个问题的时候，还是常常沮丧，挫败感十足。我发现真正的挑战还不是他的自主意志越来越强硬，需要占据主",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -81,29 +80,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-last-call-disrupt-volunteer-application-closes-soon-1789657320000",
-    "title": "Last call: Disrupt volunteer application closes soon",
-    "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-    "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
+    "id": "news-openai-caught-its-models-leaving-notes-to-successors-to-hide-1789677264000",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-makes-a-mess-of-the-tech-job-market-1789658220000",
-    "title": "AI makes a mess of the tech job market",
-    "link": "https://www.hrdive.com/news/ai-makes-a-mess-of-the-tech-job-market/830636/",
-    "summary": "An Andela analysis of almost 50,000 postings for engineering roles found mismatched skills and a proliferation of titles.",
-    "publishedAt": "2026-09-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
       "ai"
     ]
   },
@@ -117,6 +102,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-10-1789662903000",
+    "title": " 经营贷利率涨了？记者探访沪深两地银行：实际并没有提高，但有客户经理称10月会上调 ",
+    "link": "https://www.huxiu.com/article/4892142.html?f=rss",
+    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者 近期，有市场消息称经营贷利率上扬，从以前的“2%”出头上涨至3%左右，银行经营贷不“卷”了？目前经营贷实际贷款利率究竟如何？ 9月16日下午，《每日经济新闻》记者（以下简称“每经记者”）走访并致电深圳、上海多家银行了解到，多家银行目前经营贷利率仍处于“2字头”低位，贷款利率并没有实际提高。不过，也有银行工作人员透露了贷款利率可能将自10月起上调的消息，还有工作人员称“目前贷款已经收紧了”。 每经记者了解到，目前深圳经营贷利率最低可至2.35%，上海经营贷利率普遍维持在2.4%—2.7%区间，银行大多将企业资质、经营流水、征信状况作为利率核定的核心依据。 深圳经营贷年化利率 最低可至2.35% 目前经营贷实际贷款利率究竟如何？9月16日下午，每经记者以客户的身份走访深圳多家银行。农业银行深圳某网点工作人员告诉记者，目前抵押贷和信用贷都可以做。“公寓、厂房、住宅都能做抵押贷，不过公寓和厂房抵押的利率会低一些，住宅抵押的利率最高，抵押贷利率目前是年化2.5%，可以贷5年。”记者了解到，除了抵押贷，也能做信用贷款，不过利率会更高一些。上述工作人员指出：“信用贷如果借款超过100万元，可以配优惠券，年化利率是2.9%，如果没有优惠券，一般是年化3.45%左右，只能贷1年。” 记者在沟通中了解到，部分银行针对小微企业只做带“科技标签”的，比",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -147,29 +145,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-tried-tovala-8217-s-smart-oven-for-two-weeks-here-8217-s-w-1789657200000",
-    "title": "I tried Tovala&#8217;s smart oven for two weeks — here&#8217;s whether it beats takeout",
-    "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-    "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
+    "id": "news-is-the-ai-safety-debate-about-safety-or-control-1789676377000",
+    "title": "Is the AI safety debate about safety or control?",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-why-job-descriptions-should-focus-on-workplace-experience-1789658220000",
-    "title": "Why job descriptions should focus on workplace experience",
-    "link": "https://www.hrdive.com/news/why-job-descriptions-should-focus-on-workplace-experience/830612/",
-    "summary": "Qualified candidates looking to move into a role with the same title at another company may not find simply a list of basic tasks in a job opening&nbsp;persuasive, analysis from Monster found.",
-    "publishedAt": "2026-09-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   },
   {
@@ -182,6 +167,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789661485000",
+    "title": " 镀金时代“老登”生存指南 ",
+    "link": "https://www.huxiu.com/article/4892140.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 老登俨然已经成了中国社会一个被围观的物种。 濒危，但不受保护。 整个社会都在忙着给它定义、调侃、审判。企业家发个内部信，要先自查有没有“登味”；名导演接受采访，要先声明“我只是说我认为是这样的”，以免被贴上“登味十足”的标签。搞得整个中年以上的企业家群体都有点紧张，生怕一开口就被贴上“老登”两个字——那东西像苍蝇贴，粘上了就撕不下来，越挣扎粘得越牢。 审判甚至不是比喻。 今年夏天，一位00后员工离职后在朋友圈称前老板为“四十岁的老登”，老板真的告到了法院。这算是目前因“老登”两个字打官司、闹上社会新闻的首例。 这个词的出身至今说不清。东北话、山东话、登徒子、长明灯，各有各的祖宗，谁也拿不出铁证。倒是“四十岁就够格”这一条颇有意思：它说明，登味与年龄无关，和做派更相关。 二十多岁，也可以登得四平八稳；六七十岁，也有人始终不登。 所以与其忙着排雷，不如看看历史上的老登们是怎么一路走过来的。 一百多年前，美国也有过一批这样的人：钱来得比人长得快，财富增长得比社会的接受速度还快，被全国报纸骂了二十多年。 那个时代后来有了一个很妙的名字——“镀金时代”。 1873年，马克·吐温和查尔斯·达德利·华纳合著的小说《镀金时代：今日故事》出版。金子只有薄薄一层，下面却是铅。这个名字原本带着明显的讽刺意味，后来却变成了一个时代的历史称谓。 当年被骂的人，",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -213,29 +211,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nv-1789653974000",
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+    "id": "news-un-turns-to-google-to-make-its-global-data-ready-for-ai-agen-1789675200000",
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-more-than-half-of-young-workers-want-to-switch-jobs-soon-for-1789590480000",
-    "title": "More than half of young workers want to switch jobs soon for better pay, benefits",
-    "link": "https://www.hrdive.com/news/young-workers-want-to-switch-jobs-soon-for-better-pay-benefits/830538/",
-    "summary": "The share of Generation Z employees looking for greener pastures is on the rise, Robert Half found.",
-    "publishedAt": "2026-09-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   },
   {
@@ -249,6 +234,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1789661238000",
+    "title": " 奇迹与恐惧的年代：啊啊啊啊啊啊啊啊啊啊AI ",
+    "link": "https://www.huxiu.com/article/4892139.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 2009年，美国一个叫Bloggingheads的谈话节目网站上，两个顶尖聪明的人吵了一架。吵的是AI什么时候会达到人类水平。 一位是埃利泽·尤德科斯基（Eliezer Yudkowsky）。他去年出来一本书，标题大意是，任何人造出来，所有人都得死。他说的这个东西就是ai。这个人没有正经上过大学，靠自学和写博客成了硅谷理性主义圈子的精神领袖。他一辈子的工作可以压缩成一句话：警告所有人，你们对AI危险性的想象，严重不足。 另一个叫斯科特·阿伦森（Scott Aaronson）。当时不到三十岁，在麻省理工学院当教授，研究的是量子计算和计算复杂性理论。这两个领域离\"AI马上要毁灭人类\"这种说法，是全学术圈最远的地方。 尤德科斯基问他：超人类AI到底什么时候来？ 尤德科斯基相信，超级智能可能在并不遥远的未来出现。阿伦森不买账。他承认，没有哪条科学原理能够排除超人类AI，可要等多久，谁也不知道。他说自己的“不确定性是指数级的”。据他所知，这事可能在一千年之后，也可能要几千年。 尤德科斯基当场表示难以置信。阿伦森反而加倍坚持。 那时的阿伦森觉得自己很严谨。他没有断言AI永远不可能出现，只是拒绝把科幻想象当预测。十四年后，2023年，他专门写了一篇文章，标题就叫《对AI判断错误的反思》。 今年9月，阿伦森又写了一篇文章，题目是《奇迹与恐",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   },
   {
@@ -278,29 +277,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-days-left-to-exhibit-at-techcrunch-disrupt-2026-1789653600000",
-    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "id": "news-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-1789674368000",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
-    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
-    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
-    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
-    "publishedAt": "2026-09-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
     ]
   },
   {
@@ -985,4 +971,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-17T16:10:04.536Z';
+export const dataFetchedAt = '2026-09-17T20:55:16.585Z';
