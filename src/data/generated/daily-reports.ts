@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-18-auto",
+    "date": "2026-09-18",
+    "session": "auto",
+    "title": "2026-09-18 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-18-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: mice with part-human brains and climate tech innovators",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+      },
+      {
+        "id": "sig-2026-09-18-auto-2",
+        "emoji": "⚠️",
+        "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
+        "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+        "detail": "来源: TechCrunch。Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/"
+      },
+      {
+        "id": "sig-2026-09-18-auto-3",
+        "emoji": "💡",
+        "title": "Employers may not know how to explain their pay decisions, Aon says",
+        "summary": "Only a third of those surveyed said they have conducted a pay remediation analysis, and only 5% could say that remediation is largely complete.",
+        "detail": "来源: HR Dive。Only a third of those surveyed said they have conducted a pay remediation analysis, and only 5% could say that remediation is largely complete.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/employers-explain-pay-decisions-aon-transparency/830657/"
+      },
+      {
+        "id": "sig-2026-09-18-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Objective vs. Search: Decomposing What Makes a Good Tokenise...",
+        "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l",
+        "detail": "作者: Ahmetcan Yavuz, Clara Meister, Tiago Pimentel。Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. mul",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.19145v1"
+      },
+      {
+        "id": "sig-2026-09-18-auto-5",
+        "emoji": "💼",
+        "title": "Sticker Mule 正在招募 AI agent engineer",
+        "summary": "岗位类型：业务+AI 复合岗。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
+        "detail": "技能要求: Agent, GCP, OpenAI。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers Work performed I",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Sticker Mule"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Sticker Mule",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-18-1",
+        "priority": "medium",
+        "action": "关注「The Download: mice with part-human brain」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-18-2",
+        "priority": "medium",
+        "action": "关注「Roku&#8217;s new Labs hub brings experim」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-18-3",
+        "priority": "low",
+        "action": "关注「Employers may not know how to explain th」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-18-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Objective vs. Search: Decomposing W」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-18-5",
+        "priority": "medium",
+        "action": "关注「Sticker Mule 正在招募 AI agent engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Sticker Mule"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-18 生成，聚合了 25 条新闻、20 篇论文、14 个岗位。",
+    "fetchWindow": "2026-09-18 00:00 - 2026-09-18 23:59"
+  },
+  {
     "id": "report-2026-09-17-auto",
     "date": "2026-09-17",
     "session": "auto",

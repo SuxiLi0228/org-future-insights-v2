@@ -2,6 +2,72 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
+    "title": "The Download: mice with part-human brains and climate tech innovators",
+    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
+    "publishedAt": "2026-09-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-roku-8217-s-new-labs-hub-brings-experimental-apps-to-the-big-1789660229000",
+    "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
+    "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+    "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+    "publishedAt": "2026-09-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employers-may-not-know-how-to-explain-their-pay-decisions-ao-1789658220000",
+    "title": "Employers may not know how to explain their pay decisions, Aon says",
+    "link": "https://www.hrdive.com/news/employers-explain-pay-decisions-aon-transparency/830657/",
+    "summary": "Only a third of those surveyed said they have conducted a pay remediation analysis, and only 5% could say that remediation is largely complete.",
+    "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-vivo-ai-1789646604000",
+    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+    "link": "https://www.qbitai.com/2026/09/491649.html",
+    "summary": "构建个体专属AI助理",
+    "publishedAt": "2026-09-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-5-61-1789659702000",
+    "title": "从过山车到机器人：金马游乐5.61亿定增的战略转向与风险",
+    "link": "https://www.tmtpost.com/8143448.html",
+    "summary": "上半年收入不足800万元、占公司营收约2%的机器人业务，将获得金马游乐本轮逾六成的募资安排。",
+    "publishedAt": "2026-09-17",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
     "title": "Meet the innovators under 35 shaping climate tech",
     "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
@@ -15,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iceland-based-treble-raises-18-million-for-its-voice-simulat-1789621200000",
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "id": "news-last-call-disrupt-volunteer-application-closes-soon-1789657320000",
+    "title": "Last call: Disrupt volunteer application closes soon",
+    "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
+    "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -28,23 +94,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-than-half-of-young-workers-want-to-switch-jobs-soon-for-1789590480000",
-    "title": "More than half of young workers want to switch jobs soon for better pay, benefits",
-    "link": "https://www.hrdive.com/news/young-workers-want-to-switch-jobs-soon-for-better-pay-benefits/830538/",
-    "summary": "The share of Generation Z employees looking for greener pastures is on the rise, Robert Half found.",
-    "publishedAt": "2026-09-16",
+    "id": "news-ai-makes-a-mess-of-the-tech-job-market-1789658220000",
+    "title": "AI makes a mess of the tech job market",
+    "link": "https://www.hrdive.com/news/ai-makes-a-mess-of-the-tech-job-market/830636/",
+    "summary": "An Andela analysis of almost 50,000 postings for engineering roles found mismatched skills and a proliferation of titles.",
+    "publishedAt": "2026-09-17",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-meshy-ai-for-fun-1789638132000",
-    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
-    "link": "https://www.qbitai.com/2026/09/491522.html",
-    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+    "id": "news-claude-code-1789646173000",
+    "title": "Claude Code团队讲究啊，这都往外说",
+    "link": "https://www.qbitai.com/2026/09/491596.html",
+    "summary": "工程师的核心永远是Problem Solving。",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -54,23 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789641533000",
-    "title": " 香港兄弟双亡案提醒自闭症家庭：“托孤”不能只找一个照顾者 ",
-    "link": "https://www.huxiu.com/article/4892068.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：JarvisZoey，作者：关注照顾者 “如果有一天我突然不在了，孩子怎么办？” 对许多自闭症孩子的父母来说，这是“终极问题”。父母可能因病住院，也可能突然失去照顾能力；孩子可能早已成年，却仍需要别人帮他准备食物、管理药物、理解信息或向外求助。 如果发生意外，真正决定他能否度过最初24小时的，往往是谁会发现异常，谁能进门，谁知道怎样照顾他。 2026年9月14日，香港鸭脷洲利东邨一间公共屋邨单位内，一对同住多年的兄弟被发现死亡。哥哥55岁，弟弟53岁。初步检查估计，弟弟可能已去世数周，哥哥死亡不超过一周，两人死因仍待验尸确定，媒体报道称哥哥有“社交恐惧症”。 这个家庭的照护关系与许多自闭症家庭高度相似：兄弟同住23年，父母每月转账，水电自动扣款，姐姐定期到访，但实际维持哥哥日常生活和对外联系的，只有弟弟。 这起案件把很多自闭症家庭担心的“终极问题”，变成了一个现在就应该去回答和反思的问题： 为什么一个看似稳定的托付体系，仍可能因为一个意想不到的的情况，导致被照顾者马上面临绝境？ 文|Nicole 编辑|Jarvis Zoey 图源｜港媒，unsplash 转账和水电照常，兄弟俩已先后离世 9月14日下午2时32分，香港警方接到利东邨东业楼保安员报案，指一个单位传出异味。消防员破门后，在厕所和房间内分别发现两名男子，救护人员当场确认死亡。 警",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-2026-itvalue-summit-1789641689000",
-    "title": "当AI开始算账：一家算力企业的“智企”实践样本丨2026 ITValue Summit 数字价值年会",
-    "link": "https://www.tmtpost.com/8143846.html",
-    "summary": "刘宏云的发言里，最有个性的一个判断是：企业架构正在迎来换代。",
+    "id": "news--1789658829000",
+    "title": "重资产举债入局，又一老牌药企签下十亿级算力大单丨行业风向标",
+    "link": "https://www.tmtpost.com/8144031.html",
+    "summary": "开展此类业务，除企业自有资金外，还需依托股东借款、金融机构融资等渠道完成履约。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -93,25 +147,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insi-1789615800000",
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "id": "news-i-tried-tovala-8217-s-smart-oven-for-two-weeks-here-8217-s-w-1789657200000",
+    "title": "I tried Tovala&#8217;s smart oven for two weeks — here&#8217;s whether it beats takeout",
+    "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
+    "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
-    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
-    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
-    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
-    "publishedAt": "2026-09-16",
+    "id": "news-why-job-descriptions-should-focus-on-workplace-experience-1789658220000",
+    "title": "Why job descriptions should focus on workplace experience",
+    "link": "https://www.hrdive.com/news/why-job-descriptions-should-focus-on-workplace-experience/830612/",
+    "summary": "Qualified candidates looking to move into a role with the same title at another company may not find simply a list of basic tasks in a job opening&nbsp;persuasive, analysis from Monster found.",
+    "publishedAt": "2026-09-17",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -120,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-idc-1789637959000",
-    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-    "link": "https://www.qbitai.com/2026/09/491454.html",
-    "summary": "中国电信，TeleAgent",
+    "id": "news-meshy-ai-for-fun-1789638132000",
+    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+    "link": "https://www.qbitai.com/2026/09/491522.html",
+    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -133,23 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789641288000",
-    "title": " 最“憋屈”的能源大区，终于等来了出海口 ",
-    "link": "https://www.huxiu.com/article/4892066.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 西煤东运迎来一条新通道。 近日，“疆煤入冀”哈密煤炭万吨首发专列抵达河北港口集团唐山港京唐港区，标志着这条疆煤外运铁水联运通道正式落地运行。 这一通道以疆煤入海为主，通过疆煤入晋，组装万吨大列，再转入唐山港京唐港区，最终通过水路运输将新疆煤炭运往华东、华南沿海区域。相较于过去走铁路通道，疆煤入冀的运输时间从往返28天缩短至10天左右。 事实上，不同于其他煤炭大区几乎都已拥有较为成熟的铁海联运通道，新疆的“憋屈”就在于资源在手，但却未能转化为沿海市场的竞争力—— 中国煤炭消费重心始终在东南沿海，而疆煤外运主要依赖铁路，运距远、成本高，使得疆煤在西北尚具竞争力，到了沿海则综合成本最高，难以打开市场。 就在不久前，国家发展改革委运行局召开专题会议强调，下一步将加强统筹协调，及时研究解决疆煤外运中的突出问题，发挥疆煤对保障全国煤炭供应的作用。《煤炭工业发展“十五五”规划》（以下简称《规划》）提出，加快“疆煤外运”通道能力建设，构建形成“一轴两翼多联”疆煤出区铁路通道体系。 作为全国煤炭产量增长重心，新疆实现“疆煤外运”量达1.44亿吨（2025年），年均增长33.7%，辐射全国19个省区市。而今，随着铁海联运大通道的建成，新疆煤炭将借助唐山港拓展疆煤的运输半径和市场腹地。 这将如何影响中国能源版图？新疆又将如何重新定位自身角色？ 1 增长重",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1789639378000",
-    "title": "宠物AI硬件，最天然的“钉子”，最难验证的答案",
-    "link": "https://www.tmtpost.com/8143737.html",
-    "summary": "宠物不会说话，让主人产生了理解它的需求；同样因为宠物不会说话，没有人能轻易证明AI的解释究竟对不对。",
+    "id": "news-ai-1789644975000",
+    "title": "万亿市场背后，AI数据基础设施的竞赛已经开始",
+    "link": "https://www.tmtpost.com/8143760.html",
+    "summary": "模型能力快速逼近应用需求的同时，数据正在成为企业AI规模化落地的新瓶颈。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -173,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snap-tries-to-make-the-case-again-for-its-2-200-smart-glasse-1789606729000",
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "id": "news-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nv-1789653974000",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -186,24 +226,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chipotle-to-place-apprentice-managers-in-all-company-owned-l-1789571640000",
-    "title": "Chipotle to place apprentice managers in all company-owned locations",
-    "link": "https://www.hrdive.com/news/chipotle-expands-apprentice-program-leadership/830510/",
-    "summary": "These high-performing employees are working toward a general manager role and will be a key part of staffing newly opened restaurants, the company said.",
+    "id": "news-more-than-half-of-young-workers-want-to-switch-jobs-soon-for-1789590480000",
+    "title": "More than half of young workers want to switch jobs soon for better pay, benefits",
+    "link": "https://www.hrdive.com/news/young-workers-want-to-switch-jobs-soon-for-better-pay-benefits/830538/",
+    "summary": "The share of Generation Z employees looking for greener pastures is on the rise, Robert Half found.",
     "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-claude-office-ai-1789636045000",
-    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-    "link": "https://www.qbitai.com/2026/09/491391.html",
-    "summary": "文档和PPT都能做了",
+    "id": "news-agent-idc-1789637959000",
+    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+    "link": "https://www.qbitai.com/2026/09/491454.html",
+    "summary": "中国电信，TeleAgent",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -213,23 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789640979000",
-    "title": " 坠楼医学生的事反转了，有人给王老师道歉吗？ ",
-    "link": "https://www.huxiu.com/article/4892063.html?f=rss",
-    "summary": "本文来自微信公众号： 雷叔写故事 ，作者：雷斯林&amp;小林 最近发生了一起悲剧，南方医科大学有一名医学生坠楼身亡。 网上流传的一份截图里，说他们家里出了车祸，父母都进ICU。他想请假回去照顾，导师却只批三天假。 还说爸爸去世的那天，导师都不让他回家，还在科室里骂他。 意思是，这个学生是导师逼死的。 所以，昨天“正义”的网友们跑去痛骂导师，说他不配当医生。 还说他被“取消明年招生资格”了。 接着一群人去人肉这个老师，曝光他简历，公开他邮箱。 可能王老师已经收到不少的辱骂邮件了。 昨天看了一连串转发，一个比一个义愤填膺。 但你有没有想过，网上传的有鼻子有眼的那些“消息”，万一是假的呢？ 现在看来，事实和网传的说法有很大出入。 先是死者陈同学的二姐发声。 她说，家里父母确实遭遇了车祸，父亲去世了，但母亲从未进ICU，只是手臂脱臼。 所以“父母双双进ICU”是谣言。 她还说，翻找弟弟和导师的聊天记录，发现导师没有不批假，也没有“只给三天”。 7月出事当天就让他赶回去，之后各种请假也批了。 所以“导师不批假”也是谣言。 她说，弟弟从没在家里说过导师不好，弟弟常说导师很好。 聊天记录里还显示这个导师很关心弟弟和他家的，还说了很多安慰的话。 特别是他先后两次转了2000元和2万元给陈同学应急。 而陈同学跟他才两个月，之前是在其他导师名下的。 （陈同学本来博六了，后年毕业； 不是网传截图里说的",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789634691000",
-    "title": "厨房掀起“钛革命”：风口之下，谁来给钛材定规矩？",
-    "link": "https://www.tmtpost.com/8143130.html",
-    "summary": "这是厨房消费一次从“功能满足”走向“品质引领”的代际跃迁，代表着消费者对于品质厨房、健康烹饪的需求上升到了一个新的高度。",
+    "id": "news--1789644971000",
+    "title": "机器人企业还没拿到“大结果”",
+    "link": "https://www.tmtpost.com/8143738.html",
+    "summary": "一边失血，一边前行。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -252,11 +278,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-musk-8217-s-long-time-backer-is-giving-spacex-stock-to-its-i-1789602607000",
-    "title": "Musk&#8217;s long-time backer is giving SpaceX stock to its investors",
-    "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-    "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-    "publishedAt": "2026-09-16",
+    "id": "news-2-days-left-to-exhibit-at-techcrunch-disrupt-2026-1789653600000",
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -265,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
-    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
-    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
-    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
+    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
+    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
+    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
+    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
     "publishedAt": "2026-09-16",
     "source": "HR Dive",
     "tags": [
@@ -278,10 +304,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rsi-1789633703000",
-    "title": "刚刚，唐杰发布智谱RSI首个成果",
-    "link": "https://www.qbitai.com/2026/09/491357.html",
-    "summary": "GLM已经开始参与构建GLM了",
+    "id": "news-claude-office-ai-1789636045000",
+    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+    "link": "https://www.qbitai.com/2026/09/491391.html",
+    "summary": "文档和PPT都能做了",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -291,104 +317,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-svip-1789640942000",
-    "title": " SVIP线下权益，爱优腾芒哪家强？ ",
-    "link": "https://www.huxiu.com/article/4892033.html?f=rss",
-    "summary": "本文来自微信公众号： 骨朵网络影视 ，作者：GuDuo骨朵编辑部 《早春晴朗》的热度，正在从线上剧集流量蔓延至线下粉丝经济。 9月13日，优酷在北京举办剧集收官粉丝见面会，井柏然、孙千领衔，齐天晴、刘小北、张晔子、彭杨等全阵容主创集体亮相，成为该剧收官后规模最大、阵容最完整的一次线下公开活动。 不同于常规演出“公开售票、先到先得”的逻辑，本次见面会采用高门槛会员专属秒杀机制：用户必须先行购买788元600天SVIP套餐，才能获得一次秒杀入场资格。 对比平台常规定价，优酷SVIP年均充值成本仅200元左右，低价渠道月卡更是仅需十元出头。而粉丝为一场见面会，需要一次性溢价预存近两年会员时长。更关键的是，本次活动仅放出360个线下名额，即便完成高额开卡，最终秒杀到的概率依旧极低。 同时，活动采用专属链接独立限购规则，即便用户账号已有数百天会员时长，也必须在专属页面再次续费叠加时长，才能解锁秒杀资格。 这是一场典型的粉丝向活动。它不面向大众，甚至不面向普通会员，而是精准触达核心粉丝。平台将《早春晴朗》的播出期热度直接转化为会员续费与活动收入，粉丝花788元想要买到的也不是更长的会员期限，而是一张“大概率抢不到”的入场资格。 《早春晴朗》并非个案。在普通观众的感知之外，爱优腾芒四大长视频平台的会员权益线下化布局，早已成为常态化战略动作。 当传统“免广告、抢先看”的线上权益彻底陷入同质化，会员",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789633724000",
-    "title": "智谱融资背后：一场没有枪声的卡位战",
-    "link": "https://www.tmtpost.com/8143610.html",
-    "summary": "一场空间与时间的交换。",
-    "publishedAt": "2026-09-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-roundtables-could-ai-really-kill-us-all-1789494471000",
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
-    "publishedAt": "2026-09-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-al-gore-says-the-real-ai-risk-isn-8217-t-data-centers-1789602189000",
-    "title": "Al Gore says the real AI risk isn&#8217;t data centers",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-    "publishedAt": "2026-09-16",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-completely-absent-from-most-organizations-ethics-codes-su-1789571640000",
-    "title": "AI completely absent from most organizations’ ethics codes, survey finds",
-    "link": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
-    "summary": "Additionally, fewer employees say they cite their codes of conduct or use them as a resource, according to LRN, even as workplace misconduct reports increase.",
-    "publishedAt": "2026-09-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-ai-1789619846000",
-    "title": "马斯克睡进工地！为AI基建拼了",
-    "link": "https://www.qbitai.com/2026/09/491280.html",
-    "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
-    "publishedAt": "2026-09-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789640571000",
-    "title": " 在上海纽约大学\"长寿与韧性发展大会\"圆桌论坛上的发言 ",
-    "link": "https://www.huxiu.com/article/4892060.html?f=rss",
-    "summary": "本文来自微信公众号： 张琨随笔 ，作者：张琨，原文标题：《张琨｜在上海纽约大学\"长寿与韧性发展大会\"圆桌论坛上的发言》 今天在上海纽大，参加长寿与韧性发展研究院成立大会。我参与的是麦肯锡老领导，麦肯锡中国的创始人，劳拉·华洛薇主持的“健康金融、银发经济和社会韧性”圆桌论坛。 讨论中随着她抛了好几个问题，我发现，这其中都是一条主线。 健康的银发经济怎么定义、指标是什么；技术创新的钱该往哪投；生态体系该怎么进化；各方合作卡在哪一环；个人怎么规划自己的养老钱。我认为这几个问题瞄着一个核心目标：重新定义高龄人群在社会经济中的地位，从纯粹的经济消费者到可持续经济的价值创造者，从消费存量社会资源到共创、共享社会经济增量。 圆桌论坛嘉宾是信息技术、经济界学的大神，他们关注的是风险怎么定价、可持续性怎么度量。我做了二十多年医疗管理和信息化，视角反而特别：这个行业创新丰富，不缺硬技术，但缺底层基础设施和一套彼此都认账的信任机制。 我职业经历中积累的医疗数据标准化和医疗认证经验恰好是“长寿经济”里急需的经验。也许能碰撞出许多高价值研究课题。以下是当时我发言的要点，分享给分享。 指标：床位数量说明不了健康度 行业里评价养老实体运营机构最常见的一套指标——床位数、机构数量、市场规模——放在\"健康的银发经济\"这个题目下，其实答非所问。这些规模性指标能说明产业有多大，说明不了产业健不健康。 我觉得应该多一些质",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-altman-benioff-1789633285000",
-    "title": "Altman 对话 Benioff：开源模型会不会失控",
-    "link": "https://www.tmtpost.com/8143199.html",
-    "summary": "当开源模型的能力逼近闭源，而监管还没准备好，下一次逃逸，谁负责？",
+    "id": "news--1789644966000",
+    "title": "“外卖大战”后：第三方配送全面洗牌",
+    "link": "https://www.tmtpost.com/8143727.html",
+    "summary": "接下来如无意外，第三方配送公司将会有一轮重大的洗牌，强者恒强的趋势将更加明显。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -802,6 +734,27 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137399",
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
+      "We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers",
+      "Work performed I"
+    ],
+    "skills": [
+      "Agent",
+      "GCP",
+      "OpenAI"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "postedAt": "2026-09-16",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137398",
     "title": "AI Trainer Image QA Evaluator",
     "company": "iMerit Technology",
@@ -1032,4 +985,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-17T10:53:57.773Z';
+export const dataFetchedAt = '2026-09-17T16:10:04.536Z';
