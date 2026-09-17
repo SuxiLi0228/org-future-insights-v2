@@ -2,22 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells-1789570800000",
-    "title": "Meet a mouse whose brain cortex is made up of human cells",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
-    "publishedAt": "2026-09-16",
+    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
+    "title": "Meet the innovators under 35 shaping climate tech",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
+    "publishedAt": "2026-09-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-snap-tries-to-make-the-case-again-for-its-2-200-smart-glasse-1789606729000",
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "id": "news-iceland-based-treble-raises-18-million-for-its-voice-simulat-1789621200000",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1789607365000",
-    "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-    "link": "https://www.qbitai.com/2026/09/490950.html",
-    "summary": "奖励曲线、显卡故障全公开",
+    "id": "news-meshy-ai-for-fun-1789638132000",
+    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+    "link": "https://www.qbitai.com/2026/09/491522.html",
+    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -53,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hyrox-1789614698000",
-    "title": " HYROX失禁夺冠、赵雷演唱会求婚：在陌生人组成的场合里，个人的自由到哪儿为止？ ",
-    "link": "https://www.huxiu.com/article/4891897.html?f=rss",
-    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约3000字·预计阅读5分钟 9月12日，北京有两件事，看着好似八竿子打不着。 第一件在国家速滑馆，HYROX北京站。女子精英组里，澳大利亚选手乔安娜·薇崔克，世界纪录保持者，比赛中突发腹泻失禁，她没有退赛，坚持跑完近一个小时，拿了冠军。赛后她的回应只是：赢了就是赢了。 真正让事情炸开的不是成绩，是后面的处理。主办方当时没有叫停比赛，事后被质疑失职；HYROX中国发了整改公告，同时说了一句：愤怒不应指向运动员本人，网暴运动员将被永久禁赛。转得最多的一句评论是：体育拼搏不能罔顾他人权益。 第二件在鸟巢。赵雷演唱会进行到大约四十分钟，他正在唱《南方姑娘》。前排一名男观众突然起身向女友求婚，女方穿着婚纱站了起来，还撒了喜糖。后排观众一声接一声地喊：坐下。视频传上网，骂声一片。 一个是身体的失控，一个是人生的喜事，看起来毫无关系。 但把这两件事摆在一起，你会发现故事的主人公的想法出奇地一致：在一个谁都不认识谁的场合里，我个人的事，凭什么要顾着别人？ 今天想聊的，就是这个\"凭什么\"背后，到底有没有一把尺子。 讨论一个问题：在一个陌生人组成的场合里，个人的自由到哪儿为止？ 一、权利有两种，公德是让出来的那一种 人的权利大体分两种。 第一种是天生的。活下去的权利，说话的权利，不被伤害的权利。这些不需要谁批准，也不因为你在哪儿而改变。 但人是群居",
+    "id": "news--1789641533000",
+    "title": " 香港兄弟双亡案提醒自闭症家庭：“托孤”不能只找一个照顾者 ",
+    "link": "https://www.huxiu.com/article/4892068.html?f=rss",
+    "summary": "本文来自微信公众号： 大米和小米 ，编辑：JarvisZoey，作者：关注照顾者 “如果有一天我突然不在了，孩子怎么办？” 对许多自闭症孩子的父母来说，这是“终极问题”。父母可能因病住院，也可能突然失去照顾能力；孩子可能早已成年，却仍需要别人帮他准备食物、管理药物、理解信息或向外求助。 如果发生意外，真正决定他能否度过最初24小时的，往往是谁会发现异常，谁能进门，谁知道怎样照顾他。 2026年9月14日，香港鸭脷洲利东邨一间公共屋邨单位内，一对同住多年的兄弟被发现死亡。哥哥55岁，弟弟53岁。初步检查估计，弟弟可能已去世数周，哥哥死亡不超过一周，两人死因仍待验尸确定，媒体报道称哥哥有“社交恐惧症”。 这个家庭的照护关系与许多自闭症家庭高度相似：兄弟同住23年，父母每月转账，水电自动扣款，姐姐定期到访，但实际维持哥哥日常生活和对外联系的，只有弟弟。 这起案件把很多自闭症家庭担心的“终极问题”，变成了一个现在就应该去回答和反思的问题： 为什么一个看似稳定的托付体系，仍可能因为一个意想不到的的情况，导致被照顾者马上面临绝境？ 文|Nicole 编辑|Jarvis Zoey 图源｜港媒，unsplash 转账和水电照常，兄弟俩已先后离世 9月14日下午2时32分，香港警方接到利东邨东业楼保安员报案，指一个单位传出异味。消防员破门后，在厕所和房间内分别发现两名男子，救护人员当场确认死亡。 警",
     "publishedAt": "2026-09-17",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +67,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789613618000",
-    "title": "奢华双品牌酒店，会是大体量物业的新选择么？",
-    "link": "https://www.tmtpost.com/8142860.html",
-    "summary": "理性看待双品牌酒店项目。",
+    "id": "news-ai-2026-itvalue-summit-1789641689000",
+    "title": "当AI开始算账：一家算力企业的“智企”实践样本丨2026 ITValue Summit 数字价值年会",
+    "link": "https://www.tmtpost.com/8143846.html",
+    "summary": "刘宏云的发言里，最有个性的一个判断是：企业架构正在迎来换代。",
+    "publishedAt": "2026-09-17",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells-1789570800000",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+    "publishedAt": "2026-09-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insi-1789615800000",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "publishedAt": "2026-09-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
+    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
+    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
+    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
+    "publishedAt": "2026-09-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-agent-idc-1789637959000",
+    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+    "link": "https://www.qbitai.com/2026/09/491454.html",
+    "summary": "中国电信，TeleAgent",
+    "publishedAt": "2026-09-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789641288000",
+    "title": " 最“憋屈”的能源大区，终于等来了出海口 ",
+    "link": "https://www.huxiu.com/article/4892066.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 西煤东运迎来一条新通道。 近日，“疆煤入冀”哈密煤炭万吨首发专列抵达河北港口集团唐山港京唐港区，标志着这条疆煤外运铁水联运通道正式落地运行。 这一通道以疆煤入海为主，通过疆煤入晋，组装万吨大列，再转入唐山港京唐港区，最终通过水路运输将新疆煤炭运往华东、华南沿海区域。相较于过去走铁路通道，疆煤入冀的运输时间从往返28天缩短至10天左右。 事实上，不同于其他煤炭大区几乎都已拥有较为成熟的铁海联运通道，新疆的“憋屈”就在于资源在手，但却未能转化为沿海市场的竞争力—— 中国煤炭消费重心始终在东南沿海，而疆煤外运主要依赖铁路，运距远、成本高，使得疆煤在西北尚具竞争力，到了沿海则综合成本最高，难以打开市场。 就在不久前，国家发展改革委运行局召开专题会议强调，下一步将加强统筹协调，及时研究解决疆煤外运中的突出问题，发挥疆煤对保障全国煤炭供应的作用。《煤炭工业发展“十五五”规划》（以下简称《规划》）提出，加快“疆煤外运”通道能力建设，构建形成“一轴两翼多联”疆煤出区铁路通道体系。 作为全国煤炭产量增长重心，新疆实现“疆煤外运”量达1.44亿吨（2025年），年均增长33.7%，辐射全国19个省区市。而今，随着铁海联运大通道的建成，新疆煤炭将借助唐山港拓展疆煤的运输半径和市场腹地。 这将如何影响中国能源版图？新疆又将如何重新定位自身角色？ 1 增长重",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1789639378000",
+    "title": "宠物AI硬件，最天然的“钉子”，最难验证的答案",
+    "link": "https://www.tmtpost.com/8143737.html",
+    "summary": "宠物不会说话，让主人产生了理解它的需求；同样因为宠物不会说话，没有人能轻易证明AI的解释究竟对不对。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -93,89 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-musk-8217-s-long-time-backer-is-giving-spacex-stock-to-its-i-1789602607000",
-    "title": "Musk&#8217;s long-time backer is giving SpaceX stock to its investors",
-    "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-    "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-    "publishedAt": "2026-09-16",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-veterans-caught-in-the-middle-on-anti-dei-efforts-research-s-1789575598000",
-    "title": "Veterans caught in the middle on anti-DEI efforts, research says",
-    "link": "https://www.hrdive.com/news/veterans-retention-2026/830566/",
-    "summary": "The veteran cause typically attracts bipartisan support, but President Donald Trump&rsquo;s anti-DEI agenda may have hurt veteran well-being overall, Rand researchers determined.&nbsp;",
-    "publishedAt": "2026-09-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-zdtaichu5-0-9b-1789564100000",
-    "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-    "link": "https://www.qbitai.com/2026/09/490839.html",
-    "summary": "九大空间测试10B规模通用模型中8项第一",
-    "publishedAt": "2026-09-16",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789614638000",
-    "title": " 地方国资酒店集团，为何集体“发牌”？ ",
-    "link": "https://www.huxiu.com/article/4891899.html?f=rss",
-    "summary": "本文来自微信公众号： 增长会 ，作者：Eleven 八月底，上海东湖集团在一场美食节上亮出了一个酝酿多年的品牌——东琮D'CONG。9月9日，东琮酒店及度假村正式发布。 东琮不是孤例。今年以来，广西酒店集团揭牌、贵旅千山系列落地、湖北文旅推出丹籁、南京文旅发布泊金长乐，地方国资酒店集团正在集体“发牌”。 地方国资酒店集团 动作频频 先来看东湖集团的东琮D'CONG。品牌取名于良渚玉琮，以“GRACE·雅致”为核心价值，规划旗舰、历史典藏、精选、度假、特许五大产品序列，强调“一店一境”，尊重各物业原有的历史建筑底色。 发布会现场，上海汾阳花园酒店、上海朱家角宽璟酒店、璟源露香园酒店、江南船苑四家酒店获品牌授权牌，成为品牌首批成员酒店。 品牌形象片同步首映，没有停留于酒店硬件的简单展示，还对准了旅人在酒店发生的城市探访、亲友相聚、独处休憩等场景。 而在此之前，地方国资酒店集团已经在密集出牌。 2月，宜宾三江集团发布“宜著”品牌，定位宜宾规模最大的本土酒店品牌，旗下已有竹韵里等6家自营酒店及3家品牌管理酒店。 4月，贵州花江峡谷大桥之畔，贵旅酒店旗下高端度假品牌“千山”系列的首店——千山奕境酒店正式开门迎客。1.56万平方米体量、83间客房，户户推窗即见世界第一高桥与峡谷，独创“三山十境”服务体系。 5月，广西酒店集团有限公司正式揭牌，定位为广旅集团旗下文旅住宿产业核心平台，将省内分散的",
+    "id": "news-snap-tries-to-make-the-case-again-for-its-2-200-smart-glasse-1789606729000",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
     "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-13-1789613613000",
-    "title": "六年造假套现13个亿，一家四口把无锡国资坑惨了",
-    "link": "https://www.tmtpost.com/8142841.html",
-    "summary": "康欣新材借壳上市后，郭志先家族六年虚增营收利润，精准完成对赌，随后溢价卖壳给无锡国资，套现超10亿。造假停后业绩暴亏，立案时人已离场。",
-    "publishedAt": "2026-09-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-s-trillion-dollar-gamble-and-openai-8217-s-b-1789560600000",
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
-    "publishedAt": "2026-09-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-al-gore-says-the-real-ai-risk-isn-8217-t-data-centers-it-821-1789602189000",
-    "title": "Al Gore says the real AI risk isn&#8217;t data centers — it&#8217;s what industry leaders are warning about",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-    "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -198,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-2026-ai-1789548662000",
-    "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-    "link": "https://www.qbitai.com/2026/09/490760.html",
-    "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-    "publishedAt": "2026-09-16",
+    "id": "news-claude-office-ai-1789636045000",
+    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+    "link": "https://www.qbitai.com/2026/09/491391.html",
+    "summary": "文档和PPT都能做了",
+    "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -211,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789614000000",
-    "title": " 美联储利率决议落地在即，三个重要的事你需要知道 ",
-    "link": "https://www.huxiu.com/article/4891770.html?f=rss",
-    "summary": "美联储议息会议影响几何？",
+    "id": "news--1789640979000",
+    "title": " 坠楼医学生的事反转了，有人给王老师道歉吗？ ",
+    "link": "https://www.huxiu.com/article/4892063.html?f=rss",
+    "summary": "本文来自微信公众号： 雷叔写故事 ，作者：雷斯林&amp;小林 最近发生了一起悲剧，南方医科大学有一名医学生坠楼身亡。 网上流传的一份截图里，说他们家里出了车祸，父母都进ICU。他想请假回去照顾，导师却只批三天假。 还说爸爸去世的那天，导师都不让他回家，还在科室里骂他。 意思是，这个学生是导师逼死的。 所以，昨天“正义”的网友们跑去痛骂导师，说他不配当医生。 还说他被“取消明年招生资格”了。 接着一群人去人肉这个老师，曝光他简历，公开他邮箱。 可能王老师已经收到不少的辱骂邮件了。 昨天看了一连串转发，一个比一个义愤填膺。 但你有没有想过，网上传的有鼻子有眼的那些“消息”，万一是假的呢？ 现在看来，事实和网传的说法有很大出入。 先是死者陈同学的二姐发声。 她说，家里父母确实遭遇了车祸，父亲去世了，但母亲从未进ICU，只是手臂脱臼。 所以“父母双双进ICU”是谣言。 她还说，翻找弟弟和导师的聊天记录，发现导师没有不批假，也没有“只给三天”。 7月出事当天就让他赶回去，之后各种请假也批了。 所以“导师不批假”也是谣言。 她说，弟弟从没在家里说过导师不好，弟弟常说导师很好。 聊天记录里还显示这个导师很关心弟弟和他家的，还说了很多安慰的话。 特别是他先后两次转了2000元和2万元给陈同学应急。 而陈同学跟他才两个月，之前是在其他导师名下的。 （陈同学本来博六了，后年毕业； 不是网传截图里说的",
     "publishedAt": "2026-09-17",
     "source": "虎嗅",
     "tags": [
@@ -224,10 +226,88 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-80-ai-1789613609000",
-    "title": "演员拍摄需求下滑80%，AI正在冲击好莱坞微短剧就业",
-    "link": "https://www.tmtpost.com/8142809.html",
-    "summary": "微短剧，曾经是好莱坞从业者的“救命稻草”。",
+    "id": "news--1789634691000",
+    "title": "厨房掀起“钛革命”：风口之下，谁来给钛材定规矩？",
+    "link": "https://www.tmtpost.com/8143130.html",
+    "summary": "这是厨房消费一次从“功能满足”走向“品质引领”的代际跃迁，代表着消费者对于品质厨房、健康烹饪的需求上升到了一个新的高度。",
+    "publishedAt": "2026-09-17",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-s-trillion-dollar-gamble-and-openai-8217-s-b-1789560600000",
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
+    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+    "publishedAt": "2026-09-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-musk-8217-s-long-time-backer-is-giving-spacex-stock-to-its-i-1789602607000",
+    "title": "Musk&#8217;s long-time backer is giving SpaceX stock to its investors",
+    "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+    "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+    "publishedAt": "2026-09-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
+    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
+    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
+    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
+    "publishedAt": "2026-09-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-rsi-1789633703000",
+    "title": "刚刚，唐杰发布智谱RSI首个成果",
+    "link": "https://www.qbitai.com/2026/09/491357.html",
+    "summary": "GLM已经开始参与构建GLM了",
+    "publishedAt": "2026-09-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-svip-1789640942000",
+    "title": " SVIP线下权益，爱优腾芒哪家强？ ",
+    "link": "https://www.huxiu.com/article/4892033.html?f=rss",
+    "summary": "本文来自微信公众号： 骨朵网络影视 ，作者：GuDuo骨朵编辑部 《早春晴朗》的热度，正在从线上剧集流量蔓延至线下粉丝经济。 9月13日，优酷在北京举办剧集收官粉丝见面会，井柏然、孙千领衔，齐天晴、刘小北、张晔子、彭杨等全阵容主创集体亮相，成为该剧收官后规模最大、阵容最完整的一次线下公开活动。 不同于常规演出“公开售票、先到先得”的逻辑，本次见面会采用高门槛会员专属秒杀机制：用户必须先行购买788元600天SVIP套餐，才能获得一次秒杀入场资格。 对比平台常规定价，优酷SVIP年均充值成本仅200元左右，低价渠道月卡更是仅需十元出头。而粉丝为一场见面会，需要一次性溢价预存近两年会员时长。更关键的是，本次活动仅放出360个线下名额，即便完成高额开卡，最终秒杀到的概率依旧极低。 同时，活动采用专属链接独立限购规则，即便用户账号已有数百天会员时长，也必须在专属页面再次续费叠加时长，才能解锁秒杀资格。 这是一场典型的粉丝向活动。它不面向大众，甚至不面向普通会员，而是精准触达核心粉丝。平台将《早春晴朗》的播出期热度直接转化为会员续费与活动收入，粉丝花788元想要买到的也不是更长的会员期限，而是一张“大概率抢不到”的入场资格。 《早春晴朗》并非个案。在普通观众的感知之外，爱优腾芒四大长视频平台的会员权益线下化布局，早已成为常态化战略动作。 当传统“免广告、抢先看”的线上权益彻底陷入同质化，会员",
+    "publishedAt": "2026-09-17",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789633724000",
+    "title": "智谱融资背后：一场没有枪声的卡位战",
+    "link": "https://www.tmtpost.com/8143610.html",
+    "summary": "一场空间与时间的交换。",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -251,89 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-automakers-could-soon-be-forced-to-include-am-radio-for-f-1789598228000",
-    "title": "US automakers could soon be forced to include AM radio for free",
-    "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-    "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-    "publishedAt": "2026-09-16",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-adjusting-personality-to-fit-in-at-work-is-a-key-skill-hirin-1789571640000",
-    "title": "Adjusting personality to fit in at work is a key skill, hiring managers say",
-    "link": "https://www.hrdive.com/news/adjusting-personality-to-fit-in-at-work-is-a-key-skill-hiring-managers/830527/",
-    "summary": "Despite stereotypes, the most adaptable workers were Generation Z, with 80% saying they changed themselves for the workplace.",
-    "publishedAt": "2026-09-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-ai-1789546724000",
-    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-    "link": "https://www.qbitai.com/2026/09/490756.html",
-    "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
-    "publishedAt": "2026-09-16",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1789613606000",
-    "title": " 人类距离AI失控还有多远？ ",
-    "link": "https://www.huxiu.com/article/4891907.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 2026年9月，Anthropic的研究员雅各布·考克森辞职了。 他在X上发了一条推文，说他工作了三年，越来越害怕。 他怕的不是AI突然变成电影里的终结者，他怕的是两家公司赛跑的速度太快，安全研究根本追不上。 这条推文浏览量超过1.6亿。 几乎同一时间，Anthropic的对齐科学负责人埃文·胡宾格公开说了一句话：未来十年内，AI导致人类灭绝的概率超过10%。 他还补了一句更让人后背发凉的话，Anthropic到现在也没有解决超级智能对齐问题的方案，甚至没有走在能解决这个问题的路上。 10%是什么概念？坐飞机失事的概率大约是千万分之一，10%意味着你每坐十次飞机，就有一次可能掉下来。 胡宾格是搞AI安全研究的人，他不是在写科幻小说，他是在给自己的公司敲警钟。 但就在这些警告发出的同时，Anthropic正在冲刺IPO，计划募资最高1000亿美元，估值可能达到2万亿美元。 英伟达考虑投资最多100亿美元做基石投资者。 OpenAI虽然宣布今年不上市，但此前已经提交了IPO申请，估值8520亿美元。 国际清算银行9月10日警告，全球五大科技公司2025到2026年在AI领域的投资预计超过1万亿美元，而且越来越多靠借债。 就连特朗普，也被问到担不担心AI灭绝人类，他的回答是不担心，他反而担心的是AI发展不够快，美国赢不了这场竞赛。他说美国",
-    "publishedAt": "2026-09-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-745-1789613483000",
-    "title": "745万罚单，撕开进口食材的灰色生意",
-    "link": "https://www.tmtpost.com/8142771.html",
-    "summary": "写上“进口”容易，验证“是否进口”很难。",
-    "publishedAt": "2026-09-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-doomers-whistleblowing-agents-and-de-aged-li-1789474200000",
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
-    "publishedAt": "2026-09-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-noise-wants-to-help-everyday-people-become-paid-content-crea-1789594500000",
-    "title": "Noise wants to help everyday people  become paid content creators",
-    "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-    "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+    "id": "news-al-gore-says-the-real-ai-risk-isn-8217-t-data-centers-1789602189000",
+    "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
     "publishedAt": "2026-09-16",
     "source": "TechCrunch",
     "tags": [
@@ -358,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1789546193000",
-    "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-    "link": "https://www.qbitai.com/2026/09/490750.html",
-    "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
-    "publishedAt": "2026-09-16",
+    "id": "news-ai-1789619846000",
+    "title": "马斯克睡进工地！为AI基建拼了",
+    "link": "https://www.qbitai.com/2026/09/491280.html",
+    "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+    "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -371,10 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789613444000",
-    "title": " 广西，终于变成沿海省份了 ",
-    "link": "https://www.huxiu.com/article/4891908.html?f=rss",
-    "summary": "本文来自微信公众号： 冰川思享号 ，作者：维舟 当广西向南出海，经济活动围绕着沿海地带重组，它才可以说是真正“靠海吃海”了，才可说是名副其实的“沿海省份”。 这个标题，可能让一些读者感到惊愕，“难道广西以前不是沿海省份吗？” 地理上，广西确实有海岸线，然而深入到社会心理、经济结构、发展动力这些层面来说，那广西却谈不上是“沿海省份”。 我们所知的东南沿海省份之所以发达，并不只是因为它们靠海而已，而是因为这些地方通过港口与广阔的外部世界建立起经济联系，进而由港口贸易带动本地产业结构重组，经济也就得以繁荣起来了。 相比起来，广西还远远谈不上由沿海城市来带动。直到今天，投资727亿、全长134公里的平陆运河通航，才第一次真正有可能打通西南腹地与广西北部湾港口之间的交通阻隔，成就西南出海大通道。 01 “西南出海大通道”，其实也喊了很多年了，但一直进展缓慢，很大一个原因就在于无法突破地理阻隔。 常有人感叹，广西简直是个“假的沿海省份”——“沿海”在一般人心目中就是“经济发达”的代名词，但广西的人均GDP却多年来一直都是全国倒数，只及广东的一半，比全国平均值都低了40%。 广西也确实是个“假的沿海省份”，因为它虽然名义上靠海，但全境除了北部湾三个港口城市之外，绝大部分地区都属于珠江流域，而珠江却是由西向东流的，因而一直以来，广西的物资、人口顺着水路向东前往珠三角显得极为自然，而向南前往近在咫尺",
+    "id": "news--1789640571000",
+    "title": " 在上海纽约大学\"长寿与韧性发展大会\"圆桌论坛上的发言 ",
+    "link": "https://www.huxiu.com/article/4892060.html?f=rss",
+    "summary": "本文来自微信公众号： 张琨随笔 ，作者：张琨，原文标题：《张琨｜在上海纽约大学\"长寿与韧性发展大会\"圆桌论坛上的发言》 今天在上海纽大，参加长寿与韧性发展研究院成立大会。我参与的是麦肯锡老领导，麦肯锡中国的创始人，劳拉·华洛薇主持的“健康金融、银发经济和社会韧性”圆桌论坛。 讨论中随着她抛了好几个问题，我发现，这其中都是一条主线。 健康的银发经济怎么定义、指标是什么；技术创新的钱该往哪投；生态体系该怎么进化；各方合作卡在哪一环；个人怎么规划自己的养老钱。我认为这几个问题瞄着一个核心目标：重新定义高龄人群在社会经济中的地位，从纯粹的经济消费者到可持续经济的价值创造者，从消费存量社会资源到共创、共享社会经济增量。 圆桌论坛嘉宾是信息技术、经济界学的大神，他们关注的是风险怎么定价、可持续性怎么度量。我做了二十多年医疗管理和信息化，视角反而特别：这个行业创新丰富，不缺硬技术，但缺底层基础设施和一套彼此都认账的信任机制。 我职业经历中积累的医疗数据标准化和医疗认证经验恰好是“长寿经济”里急需的经验。也许能碰撞出许多高价值研究课题。以下是当时我发言的要点，分享给分享。 指标：床位数量说明不了健康度 行业里评价养老实体运营机构最常见的一套指标——床位数、机构数量、市场规模——放在\"健康的银发经济\"这个题目下，其实答非所问。这些规模性指标能说明产业有多大，说明不了产业健不健康。 我觉得应该多一些质",
     "publishedAt": "2026-09-17",
     "source": "虎嗅",
     "tags": [
@@ -384,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-1789613478000",
-    "title": "两面针半年卖了7亿支酒店牙膏，为什么还是不赚钱？",
-    "link": "https://www.tmtpost.com/8142768.html",
-    "summary": "酒店用品还能怎么卖？",
+    "id": "news-altman-benioff-1789633285000",
+    "title": "Altman 对话 Benioff：开源模型会不会失控",
+    "link": "https://www.tmtpost.com/8143199.html",
+    "summary": "当开源模型的能力逼近闭源，而监管还没准备好，下一次逃逸，谁负责？",
     "publishedAt": "2026-09-17",
     "source": "钛媒体",
     "tags": [
@@ -801,6 +802,21 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137398",
+    "title": "AI Trainer Image QA Evaluator",
+    "company": "iMerit Technology",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "You will review images and assess their qualit"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+    "postedAt": "2026-09-16",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137388",
     "title": "Technical Product Lead AI Finance App",
     "company": "Bjak ",
@@ -1016,4 +1032,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-17T03:13:56.861Z';
+export const dataFetchedAt = '2026-09-17T10:53:57.773Z';
