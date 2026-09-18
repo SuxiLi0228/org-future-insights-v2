@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-u-1789746249000",
-    "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
-    "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-    "summary": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
+    "id": "news-world-model-companies-are-keeping-a-lot-of-secrets-1789762694000",
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789737393000",
-    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-    "link": "https://www.qbitai.com/2026/09/492238.html",
-    "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
+    "id": "news-ai-1789747101000",
+    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+    "link": "https://www.qbitai.com/2026/09/492426.html",
+    "summary": "协同布局AI基础设施",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789744958000",
-    "title": " AI制药，到哪一步了？ ",
-    "link": "https://www.huxiu.com/article/4892387.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：武超 于淼 过去两年，AI制药在研发前端展现出效率优势，尤其在算法迭代、BD交易、估值融资这些环节推进很快。但另一端还存在节奏错位，临床验证、数据打通、复合人才、监管完善，这些决定AI制药最终能否成立的环节，仍需更长时间积累。 在2026张江药谷大会暨上海国际生物医药产业周，AI制药的现实瓶颈也被企业和专家多次提及。不过，多位专家表示，AI在早期安全性预测、分子生成效率上已有明确提升，产业界也在尝试推动数据标准化和干湿闭环的落地。这些进展能否提升临床成功率，是行业下一阶段需要回答的问题。 临床成功率尚待验证 西湖大学、西湖实验室、西湖制药联合研发的盐酸伊司特韦片（商品名：艾普司韦）近期获得国家药监局附条件批准上市，据公开资料，这是国内首款依托AI辅助研发实现上市的新药。 而完全由AI驱动研发的药物，最快的则是进入III期临床。9月10日，英矽智能（03696.HK）研发的Rentosertib分别在北京协和医院和上海市肺科医院完成首例患者入组并给药，预计2029年读出顶线数据。公开资料显示，Rentosertib是全球首个由AI完成靶点发现与分子设计的候选药物，针对特发性肺纤维化（IPF）。 英矽智能联席CEO兼CSO任峰向财联社记者介绍，AI在医药研发前端有降本增效的作用，“AI将候选药物从靶点发现推进至PCC确认平均需12至18个月，传统药",
+    "id": "news-ai-1789753544000",
+    "title": " AI 怎么当餐厅的“隐形店长” ",
+    "link": "https://www.huxiu.com/article/4892392.html?f=rss",
+    "summary": "本文来自微信公众号： Claire观市 ，作者：Claire观市 红餐产业研究院的调研数据显示，目前中国餐饮行业的AI应用渗透率仅为15%。与此同时，上海市商务委等五部门2025年11月印发的《上海市促进餐饮业智能化布局行动计划（2026—2028年）》提出：团餐、快餐、茶饮咖啡企业全链条智能化渗透率要超过70%，正餐企业关键环节智能化应用率超过50%。 从15%到70%，如何提升？ 要填补这巨大的空白，有个问题很值得关注：现在那15%的AI，到底用在了餐饮的哪一层？ 答案有点反常。当下餐饮行业热闹的AI应用——店门口的送餐机器人、后厨的炒菜机器人、小程序里的智能客服——全部出现在消费者看得见的地方。而真正决定一家餐厅这个月赚不赚钱的环节：门店人力的精准排班、特定食材的备货预测、新店选址的智能决策、冷链配送的路径优化，反而最冷清。 这不是技术做不到，是这一层AI天生难开发布会。 一、四层餐饮AI：三层热闹，一层安静 把餐饮AI拆开看，大致是四层。 感知层最热闹。海底捞自研的AI智慧巡检系统已经实现全国门店100%覆盖，依托计算机视觉和边缘计算，实现2小时闭环管理，识别准确率超过95%，门店好评率稳定在98%以上。这一层的产品供应商最多、标准最成熟——镜头一扫，画面上跳出识别结果，观众立刻懂。 执行层也不冷清。2026年6月链博会上，百胜中国首发了“全链AI+机器人运营体系”：零下1",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
@@ -94,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-open-or-closed-ai-nvidia-8217-s-nader-khalil-and-sydney-syke-1789745400000",
-    "title": "Open or closed AI? Nvidia&#8217;s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "id": "news-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling--1789757370000",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -121,28 +121,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agi-limix-2-1789734167000",
-    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-    "link": "https://www.qbitai.com/2026/09/492175.html",
-    "summary": "LimiX让模型理解数据背后的因果机制",
+    "id": "news-2-0-2026-1789746620000",
+    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+    "link": "https://www.qbitai.com/2026/09/492421.html",
+    "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-glp-1-1789744359000",
-    "title": " GLP-1变天：减肥药大战，开始不比减肥了 ",
-    "link": "https://www.huxiu.com/article/4892385.html?f=rss",
-    "summary": "本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：张小漫 一支被叫了多年“减肥针”的药，正在悄悄换身份。 近日，诺和诺德的Wegovy（司美格鲁肽，中国商品名诺和盈）在中国获批用于治疗伴中重度肝纤维化（F2-F3期）的非肝硬化成人MASH患者。 这是中国首个获批用于治疗MASH的GLP-1受体激动剂。 要知道，对于普通消费者来说，Wegovy最鲜明的标签依然是“减肥针”。 但在药企手中，这支药的边界正在迅速向外延伸。 2025年12月，Wegovy已经在中国拿下心血管适应证，用于降低已确诊心血管疾病且BMI≥27kg/㎡成人患者发生主要心血管不良事件的风险。 更早之前，2024年12月，美国FDA批准Zepbound（替尔泊肽）用于治疗合并肥胖的成人中重度阻塞性睡眠呼吸暂停。 到了2026年，礼来的下一代三靶点药物retatrutide，同时研究肥胖、2型糖尿病、睡眠呼吸暂停、膝骨关节炎疼痛、心肾结局等多个方向。 而在过去一段时间，GLP-1最激烈的竞争还发生在减重率上，10%、15%、20%……每一个百分点，都可能成为一款新药最醒目的卖点。 到如今，减重率的纪录仍在刷新，赛场已经变了。 01 GLP-1拐点： 当减重率不再决定一切 GLP-1上一阶段的竞争，聚焦在把减重率持续往上推。 2021年发表在《新英格兰医学杂志》的STEP 1研究显示，在不合并糖",
-    "publishedAt": "2026-09-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -173,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-8217-s-muse-hits-mac-letting-the-ai-take-actions-on-you-1789744968000",
-    "title": "Meta&#8217;s Muse hits Mac, letting the AI take actions on your computer",
-    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "id": "news-disney-8217-s-first-cto-led-an-ai-startup-it-once-accused-of-1789754393000",
+    "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -201,28 +188,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789723177000",
-    "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-    "link": "https://www.qbitai.com/2026/09/492015.html",
-    "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
+    "id": "news--1789737393000",
+    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+    "link": "https://www.qbitai.com/2026/09/492238.html",
+    "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789740947000",
-    "title": " 没有“单项第一”，这座长三角城市凭什么当支点？ ",
-    "link": "https://www.huxiu.com/article/4892379.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：刘旭强 前几天，南京紫金山创新带建设指挥部第一次会议召开，市委书记周红波主持，市长李忠军讲话。会议强调，要扛起上海（长三角）国际科技创新中心关键支点建设使命担当，增强科技创新策源和高端产业引领功能。 事实上，近段时间南京动作密集，这条创新带从7月的顶层设计落定，到8月各片区项目签约、领导密集调研，再到9月指挥部第一次会议召开，推进节奏不断加快。 一个背景是国家层面的部署——上海国际科技创新中心扩围至长三角，从单一城市的“单点突破”，到跨省域的“集团作战”，每个支点城市都必须找到自己不可替代的定位。 南京的不可替代性在哪？拆开看，南京似乎没有一个单项能力在长三角拔尖：论基础研究不如上海的投入强度，论制造转化不如苏州的效率，论数字经济不如杭州的生态，论大科学装置不如合肥的集中度。 如当地媒体所言，其独特优势在于“长三角稀缺的均衡创新全链条——高校集群夯实基础研究，完备制造承接技术转化”。基于此，南京要补齐的是整个区域创新体系里“基础研究难以落地量产”的关键空白。 但目光向内，一份来自民革南京市委员会的政协提案指出，尽管南京拥有众多高水平的科研院所和高校，其科技资源的有效整合与产业发展之间的对接仍存短板。 从区位上看，作为上海（长三角）国际科技创新中心关键支点，南京地处沪宁廊道中段，一头对接上海研发需求，一头辐射南京都市圈。紫金山创新带被寄望为南",
-    "publishedAt": "2026-09-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -253,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-m-so-mad-that-i-love-orion-8217-s-2-195-ai-mattress-pad-1789744936000",
-    "title": "I’m so mad that I love Orion&#8217;s $2,195 AI mattress pad",
-    "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-    "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your whole entire bed is the cool side.",
+    "id": "news-in-india-the-new-iphone-can-arrive-faster-than-a-pizza-1789753500000",
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+    "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -280,28 +254,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agi-ai-science-1789711866000",
-    "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-    "link": "https://www.qbitai.com/2026/09/491875.html",
-    "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+    "id": "news-agi-limix-2-1789734167000",
+    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+    "link": "https://www.qbitai.com/2026/09/492175.html",
+    "summary": "LimiX让模型理解数据背后的因果机制",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-36-1789740476000",
-    "title": " 问界从华为“分网”36小时后，车主、门店怎么说？ ",
-    "link": "https://www.huxiu.com/article/4892375.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：木俞，原文标题：《问界从华为「分网」 36 小时后，车主、门店怎么说？》 9月15日，鸿蒙智行与问界汽车，先后发布了关于合作模式变更的说明。 简单来说，问界品牌仍属于鸿蒙智行，既有权益和后续服务不受影响，华为也会继续「赋能」。但从产品定义、产品设计，到品牌营销、渠道零售和服务体系，主导方已经转为赛力斯。 后续的报道仍在持续，根据每日经济新闻报道，一位接近赛力斯的知情人士称，明年1月1日起，华为专营店将正式分成「专卖问界」和「混卖其他四界」两种。 《21汽车·一见Auto》引用知情人士说法，称华为终端中国区总裁徐钦松在一次内部讲话中提到，部分华为商超门店的授权主体将从华为切换至赛力斯。 于赛力斯及其用户，积极的一面是能通过这次合作模式的探索，前者获得更高的自主权，同时以「智选车」的身份继续立足，后者也能继续享有相同的服务权益与售后体系。 而随着新探索模式开启，华为的资源或将聚焦到其他四界，这个最早为鸿蒙智行「开疆拓土」的品牌，今后要走上自己的道路。 也正是因为这样，即便官方发布了公告，关于「含华量」的解读和「分手」的情绪，仍在外界传开。 甚至，在官方正式发布公告之前，一位博主就分享了客户退订问界M9 Ultimate并等待尊界SUV的经历。 这似乎在说，问界背后的变化，一定程度上给市场带来了影响。顺着这个方向去看，问界与其他四界的分网，车主、潜",
-    "publishedAt": "2026-09-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -333,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robinhood-s-abhishek-fatehpuria-on-winning-the-modern-financ-1789743600000",
-    "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-    "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+    "id": "news-google-8217-s-new-8216-cc-8217-is-an-ai-agent-that-helps-fam-1789752830000",
+    "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -361,28 +322,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-17-1789691833000",
-    "title": "Manus重生第17天，估值居然就翻倍了",
-    "link": "https://www.qbitai.com/2026/09/491764.html",
-    "summary": "作价40亿美元推进新融资",
+    "id": "news--1789723177000",
+    "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
+    "link": "https://www.qbitai.com/2026/09/492015.html",
+    "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-71-1789739463000",
-    "title": " 巴菲特71岁的儿子，接任董事长 ",
-    "link": "https://www.huxiu.com/article/4892370.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：夏军雄 有“股神”之称的传奇投资人沃伦·巴菲特正式卸任伯克希尔·哈撒韦董事长，结束长达56年的董事长任期，也标志着这家万亿美元巨头持续多年的最高层交接基本完成。 伯克希尔周五宣布，现年96岁的巴菲特将立即转任名誉董事长，同时继续担任公司董事。他的儿子、71岁的霍华德·巴菲特将按照公司长期制定的接班计划立即接任董事长。 巴菲特在致股东信中写道：“时间老人终究会赢。不过，他一直待我不薄。” 他表示，自己有机会看到伯克希尔发展到今天，而对于公司的未来，“从未像现在这样有信心”。 此次卸任董事长，是伯克希尔近年来接班计划的又一关键步骤。 巴菲特此前已经于2025年底卸任首席执行官，格雷格·阿贝尔自2026年初起正式接管伯克希尔日常经营。巴菲特最早在2025年5月伯克希尔年度股东大会上宣布将卸任CEO，当时这一消息令现场数千名股东感到意外。 在完成CEO交棒后，巴菲特继续担任董事长约9个月，如今这一职务也正式交给霍华德。 巴菲特在信中明确划定了两位接班人的角色分工。“格雷格负责经营公司；霍华德将守护公司的文化和价值观——这两样东西比我们资产负债表上的任何东西都更有价值，”他写道。 霍华德接班早已筹划多年 霍华德是巴菲特三个子女中的第二个，自1993年以来一直担任伯克希尔董事，至今已有30多年。 巴菲特多年来一直公开表示，希望由霍华德最终接任伯克希尔董事长",
-    "publishedAt": "2026-09-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1048,4 +996,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-18T15:45:20.282Z';
+export const dataFetchedAt = '2026-09-18T20:20:34.284Z';
