@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-fix-for-rogue-ai-agents-could-be-more-ai-1789677287000",
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
-    "publishedAt": "2026-09-17",
+    "id": "news-khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-1789689756000",
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+    "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+    "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,11 +27,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vivo-ai-1789646604000",
-    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-    "link": "https://www.qbitai.com/2026/09/491649.html",
-    "summary": "构建个体专属AI助理",
+    "id": "news-activision-blizzard-hit-with-new-sexual-assault-harassment-c-1789673400000",
+    "title": "Activision Blizzard hit with new sexual assault, harassment claims in lawsuit",
+    "link": "https://www.hrdive.com/news/activision-blizzard-hit-with-new-sexual-assault-harassment-claims/830702/",
+    "summary": "The video game publisher&rsquo;s HR department &mdash; previously alleged to have condoned a &ldquo;frat boy culture&rdquo; &mdash; was dismissive of the plaintiff&rsquo;s complaints, she claimed.",
     "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-manus-17-1789691833000",
+    "title": "Manus重生第17天，估值居然就翻倍了",
+    "link": "https://www.qbitai.com/2026/09/491764.html",
+    "summary": "作价40亿美元推进新融资",
+    "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
@@ -40,24 +55,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789675821000",
-    "title": " 告天下母亲同盟书 ",
-    "link": "https://www.huxiu.com/article/4892143.html?f=rss",
-    "summary": "本文来自微信公众号： 王小一和她的朋友们 ，作者：王小一 前几天我看到一句话：亲子关系是人格的试金石。稍微想了一下，挺有道理。孩子在进入亲子关系的时候是一片空白，所以不承担关系责任；亲子关系的质量和走向在六岁以前基本确定，那个阶段几乎都是父母在施加影响，而孩子没有任何防御的无条件吸收。所以简单点说，孩子长大一些以后，进入青春期和成年早期，和父母的关系不好，那就说明父母人格有较大问题。 这样简单粗暴的结论听起来很过瘾但是对父母不免太过严苛——毕竟想想“无知之幕”，你既可能是受害的子女，同时也是施害的父母。但我认真思考了一下，认为接受如下的结论是客观和理智的：为人父母，需要承担亲子关系以及孩子人格健康的责任，也就是说，无论你获得/缺失过什么资源，你对孩子的影响，由你个人承担。 这句话本身可能就是越来越多的人选择不生孩子的原因——这是个注定亏本的买卖。如此巨大的责任，与如此虚无缥缈的收获对照，合理的逻辑结论简单明了。备注一下，以我所处的阶层，时代，亚文化来看，传统的亲子关系最需要改进的就是个人界限。以上和以下全部的论述都是基于西方个人主义的观念。 一 我儿子马上十二岁了，这两年和他的相处越发的具有挑战性。我也是第一次当青春期孩子的家长，无论如何道听途说的知道青春期少年有多难管理，自己真的面对这个问题的时候，还是常常沮丧，挫败感十足。我发现真正的挑战还不是他的自主意志越来越强硬，需要占据主",
-    "publishedAt": "2026-09-17",
+    "id": "news--1789699940000",
+    "title": " 全球算力大逃杀：四个高地，四种代价，同一个结构性困局 ",
+    "link": "https://www.huxiu.com/article/4892196.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 写完乌兰察布算力那篇深度复盘后，很多读者有个疑问： 是不是只有我们的北方草原算力城，存在“国家拿战略、资本拿利润、地方扛成本”的结构性悖论？ 把视野拉高到全球，答案很残酷：这不是一城一地的特例，是席卷全球的全新产业宿命。 从北欧雪原到中东沙漠，从美国南部电网到东南亚沿海，一场疯狂的全球算力选址竞赛，正在无声上演。 所有国家、所有地区，都在抢同一件事：落地智算中心、抢夺AI算力产能、抢占数字时代的基础设施席位。 全网舆论清一色都是亢奋叙事： 算力=新石油、算力=数字主权、算力=未来十年的经济增量。 但和我们五年前深耕IDC行业、跟踪全球算力基建的亲历认知完全不同： 全世界都在抢算力，却极少有人算清，算力狂欢背后，每一座城市、每一个国家，默默扛下的资源账、财政账、民生账。 算力红利是公开的、短暂的、属于资本的； 算力代价是隐性的、长期的、属于土地和民生的。 一、全球共识：算力早已不是生意，是国家主权底盘 放在三年前，全球算力选址逻辑极其简单、纯粹商业化： 哪里电价低、气温低、土地便宜、政策宽松，资本就涌向哪里。 那时候的算力，只是一门低成本套利生意。 但从2024年开始，全球逻辑彻底改写。中美博弈、AI军备竞赛、数据封锁、技术制裁叠加，全世界突然达成统一共识： 算力不再是普通产业，是数字时代的电网、油田、军工基建，是国家级战略资产。 于是",
+    "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-5-61-1789659702000",
-    "title": "从过山车到机器人：金马游乐5.61亿定增的战略转向与风险",
-    "link": "https://www.tmtpost.com/8143448.html",
-    "summary": "上半年收入不足800万元、占公司营收约2%的机器人业务，将获得金马游乐本轮逾六成的募资安排。",
-    "publishedAt": "2026-09-17",
+    "id": "news-10-1789698958000",
+    "title": "一家清华系具身公司撬开车厂产线，部署效率提升10倍",
+    "link": "https://www.tmtpost.com/8143328.html",
+    "summary": "成立17个月，用部署效率10倍、真机数据100小时、零基建质检进入豪华车厂真实产线，押注“年底机器人上岗”。",
+    "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -80,10 +96,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-caught-its-models-leaving-notes-to-successors-to-hide-1789677264000",
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "id": "news-crusoe-raises-3-9b-to-build-massive-data-centers-and-small-m-1789687552000",
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "summary": "The round values the data center giant at $30.9 billion.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -93,11 +109,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-code-1789646173000",
-    "title": "Claude Code团队讲究啊，这都往外说",
-    "link": "https://www.qbitai.com/2026/09/491596.html",
-    "summary": "工程师的核心永远是Problem Solving。",
+    "id": "news-ignoring-a-doctor-s-note-can-be-costly-eeoc-reminds-employer-1789673400000",
+    "title": "Ignoring a doctor’s note can be costly, EEOC reminds employers",
+    "link": "https://www.hrdive.com/news/pregnancy-discrimination-doctors-notes/830692/",
+    "summary": "Employers should &ldquo;leave the work of identifying pregnancy-related risks and limitations to qualified medical professionals,&rdquo; the agency said in conciliating two separate cases.",
     "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-claude-code-3-agent-1789691674000",
+    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "link": "https://www.qbitai.com/2026/09/491711.html",
+    "summary": "Git白学了？？？",
+    "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
@@ -106,11 +136,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-1789662903000",
-    "title": " 经营贷利率涨了？记者探访沪深两地银行：实际并没有提高，但有客户经理称10月会上调 ",
-    "link": "https://www.huxiu.com/article/4892142.html?f=rss",
-    "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者 近期，有市场消息称经营贷利率上扬，从以前的“2%”出头上涨至3%左右，银行经营贷不“卷”了？目前经营贷实际贷款利率究竟如何？ 9月16日下午，《每日经济新闻》记者（以下简称“每经记者”）走访并致电深圳、上海多家银行了解到，多家银行目前经营贷利率仍处于“2字头”低位，贷款利率并没有实际提高。不过，也有银行工作人员透露了贷款利率可能将自10月起上调的消息，还有工作人员称“目前贷款已经收紧了”。 每经记者了解到，目前深圳经营贷利率最低可至2.35%，上海经营贷利率普遍维持在2.4%—2.7%区间，银行大多将企业资质、经营流水、征信状况作为利率核定的核心依据。 深圳经营贷年化利率 最低可至2.35% 目前经营贷实际贷款利率究竟如何？9月16日下午，每经记者以客户的身份走访深圳多家银行。农业银行深圳某网点工作人员告诉记者，目前抵押贷和信用贷都可以做。“公寓、厂房、住宅都能做抵押贷，不过公寓和厂房抵押的利率会低一些，住宅抵押的利率最高，抵押贷利率目前是年化2.5%，可以贷5年。”记者了解到，除了抵押贷，也能做信用贷款，不过利率会更高一些。上述工作人员指出：“信用贷如果借款超过100万元，可以配优惠券，年化利率是2.9%，如果没有优惠券，一般是年化3.45%左右，只能贷1年。” 记者在沟通中了解到，部分银行针对小微企业只做带“科技标签”的，比",
-    "publishedAt": "2026-09-17",
+    "id": "news--1789699251000",
+    "title": " 先升后降：毁掉一个职场人，只要两纸任命 ",
+    "link": "https://www.huxiu.com/article/4892193.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 周一早上九点，一封系统邮件弹进收件箱。 标题很客气：组织架构调整通知。 第三行写着你的名字，原某部门负责人，转任资深专家，即日生效。 没有约谈，没有解释，工资分文未动。 但所有人都看得懂这行字：人留着，管理收走。 过去三年，这样的通知在科技公司里批量发出，名字很体面，叫“扁平化”。 被通知的人后来怎么样了，很少有人追问。 想说的正是这件事：毁掉一个职场人，未必需要打压，升他一次就够了。 剩下的一半，交给时间。 ⑴升职那天，报废流程就启动了 升职从来不是加薪，是一次手艺置换。 公司收走你吃饭的家伙，发给你一副新的：会议、预算、汇报、人。 新手艺的用法没人系统教，旧手艺的功力却在天天退化，这是所有管理岗的默认设置。 想想一个新经理的头一年都在干什么。 学着给跟了自己两年的老下属打绩效，一个数字要斟酌一晚上。 学着看预算表，在投入产出比的表格里练习一种陌生的诚实。 学着在老板面前讲团队的坏消息，措辞比谈恋爱还小心。 这些事做得越多，离原来的手艺就越远。 更隐蔽的置换发生在知识结构上。 管理岗的日常输入是汇报、报表和办公室政治，执行岗的日常输入是行业动态、工具迭代和一线手感。 三年下来，他对行业的认知停在升职那年，对工具的熟练停在下属替他干活的时候。 面试官问起一个具体的细节，他只能回答，这块当时是我团队负责的。 这句话在人才市场上的翻译是：",
+    "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -119,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789658829000",
-    "title": "重资产举债入局，又一老牌药企签下十亿级算力大单丨行业风向标",
-    "link": "https://www.tmtpost.com/8144031.html",
-    "summary": "开展此类业务，除企业自有资金外，还需依托股东借款、金融机构融资等渠道完成履约。",
-    "publishedAt": "2026-09-17",
+    "id": "news-ai-1789698060000",
+    "title": "AI 减速倡议没能砸垮芯片股：市场似乎只认订单",
+    "link": "https://www.tmtpost.com/8143983.html",
+    "summary": "暂不信警钟。",
+    "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -145,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-the-ai-safety-debate-about-safety-or-control-1789676377000",
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "id": "news-google-deepmind-launches-institute-to-widen-the-agi-debate-1789687277000",
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -158,10 +188,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meshy-ai-for-fun-1789638132000",
-    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
-    "link": "https://www.qbitai.com/2026/09/491522.html",
-    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+    "id": "news-this-week-in-5-numbers-amazon-will-give-grocery-benefits-to--1789673400000",
+    "title": "This week in 5 numbers: Amazon will give grocery benefits to workers",
+    "link": "https://www.hrdive.com/news/amazon-will-give-grocery-benefits-to-workers/830686/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many employers say artificial intelligence is actually slowing down the hiring process.",
+    "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-vivo-ai-1789646604000",
+    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+    "link": "https://www.qbitai.com/2026/09/491649.html",
+    "summary": "构建个体专属AI助理",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -171,11 +216,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789661485000",
-    "title": " 镀金时代“老登”生存指南 ",
-    "link": "https://www.huxiu.com/article/4892140.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 老登俨然已经成了中国社会一个被围观的物种。 濒危，但不受保护。 整个社会都在忙着给它定义、调侃、审判。企业家发个内部信，要先自查有没有“登味”；名导演接受采访，要先声明“我只是说我认为是这样的”，以免被贴上“登味十足”的标签。搞得整个中年以上的企业家群体都有点紧张，生怕一开口就被贴上“老登”两个字——那东西像苍蝇贴，粘上了就撕不下来，越挣扎粘得越牢。 审判甚至不是比喻。 今年夏天，一位00后员工离职后在朋友圈称前老板为“四十岁的老登”，老板真的告到了法院。这算是目前因“老登”两个字打官司、闹上社会新闻的首例。 这个词的出身至今说不清。东北话、山东话、登徒子、长明灯，各有各的祖宗，谁也拿不出铁证。倒是“四十岁就够格”这一条颇有意思：它说明，登味与年龄无关，和做派更相关。 二十多岁，也可以登得四平八稳；六七十岁，也有人始终不登。 所以与其忙着排雷，不如看看历史上的老登们是怎么一路走过来的。 一百多年前，美国也有过一批这样的人：钱来得比人长得快，财富增长得比社会的接受速度还快，被全国报纸骂了二十多年。 那个时代后来有了一个很妙的名字——“镀金时代”。 1873年，马克·吐温和查尔斯·达德利·华纳合著的小说《镀金时代：今日故事》出版。金子只有薄薄一层，下面却是铅。这个名字原本带着明显的讽刺意味，后来却变成了一个时代的历史称谓。 当年被骂的人，",
-    "publishedAt": "2026-09-17",
+    "id": "news-52-1789699224000",
+    "title": " 携程罚单52天，差价照旧 ",
+    "link": "https://www.huxiu.com/article/4892192.html?f=rss",
+    "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 9月1日，一位上海消费者在小红书记录了一次投诉：通过携程购买春秋航空的机票，实付1158元，春秋航空系统里显示的票面价只有880元，中间278元的差价，平台从未告知。笔记里还提到，订单在本人不知情的情况下被操作了退票改签。发布者给这条笔记挂上了「退一赔三维权」的标签。 这条笔记发布时，距离市场监管总局对携程开出51.79亿元反垄断罚单，过去38天。 278元差价，相当于票面价的31.6%。这个比例，与一位互联网从业者近期在朋友圈里私下提醒的「中间被平台多收了30%的差价」几乎重合。公开投诉与私下提醒指向同一套机制：用户不打开航空公司官网或航旅纵横逐单核对，很难发现差价；发现了找客服，可以退；没发现的那些，就成了利润。 一张创纪录的罚单之后，这类问题是否还在，罚单又究竟管住了什么。我们做了核查。 01 核查：差价是真的， 「30%」只是个案说法 先说结论：机票「实付价高于出票价」的现象真实存在，且有判决书、航司公告和大量投诉交叉印证。它同时也是一个行业性问题，并非携程一家独有，代理商出票环节在其中扮演了重要角色。 2025年3月，南方航空、国航、东航、海航在一周内先后发布公告，确认第三方购票渠道存在「机票价格与行程单不一致」的情况。南航承诺，一经核实，先行垫付旅客的差价损失。同月，新华网记者在黑猫投诉平台以「机票加价」为关键词检索，得到11",
+    "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -184,11 +229,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789644975000",
-    "title": "万亿市场背后，AI数据基础设施的竞赛已经开始",
-    "link": "https://www.tmtpost.com/8143760.html",
-    "summary": "模型能力快速逼近应用需求的同时，数据正在成为企业AI规模化落地的新瓶颈。",
-    "publishedAt": "2026-09-17",
+    "id": "news--1789696435000",
+    "title": "抖省省跑通了，但字节的考验才刚开始",
+    "link": "https://www.tmtpost.com/8143762.html",
+    "summary": "字节又做了个APP，这次是团购版拼多多。",
+    "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -211,23 +256,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-un-turns-to-google-to-make-its-global-data-ready-for-ai-agen-1789675200000",
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+    "id": "news-amazon-owned-zoox-8217-s-100-robotaxi-limit-in-nevada-is-abo-1789686504000",
+    "title": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
+    "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+    "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-agent-idc-1789637959000",
-    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-    "link": "https://www.qbitai.com/2026/09/491454.html",
-    "summary": "中国电信，TeleAgent",
+    "id": "news-how-can-employers-boost-workers-401-k-s-student-loan-matchin-1789662540000",
+    "title": "How can employers boost workers’ 401(k)s? Student loan matching.",
+    "link": "https://www.hrdive.com/news/how-can-employers-boost-workers-401ks-student-loan-matching/830450/",
+    "summary": "The SECURE 2.0 Act of 2022 for the first time allowed employers to match eligible employee payments on student loans.",
+    "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-claude-code-1789646173000",
+    "title": "Claude Code团队讲究啊，这都往外说",
+    "link": "https://www.qbitai.com/2026/09/491596.html",
+    "summary": "工程师的核心永远是Problem Solving。",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -237,11 +296,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789661238000",
-    "title": " 奇迹与恐惧的年代：啊啊啊啊啊啊啊啊啊啊AI ",
-    "link": "https://www.huxiu.com/article/4892139.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 2009年，美国一个叫Bloggingheads的谈话节目网站上，两个顶尖聪明的人吵了一架。吵的是AI什么时候会达到人类水平。 一位是埃利泽·尤德科斯基（Eliezer Yudkowsky）。他去年出来一本书，标题大意是，任何人造出来，所有人都得死。他说的这个东西就是ai。这个人没有正经上过大学，靠自学和写博客成了硅谷理性主义圈子的精神领袖。他一辈子的工作可以压缩成一句话：警告所有人，你们对AI危险性的想象，严重不足。 另一个叫斯科特·阿伦森（Scott Aaronson）。当时不到三十岁，在麻省理工学院当教授，研究的是量子计算和计算复杂性理论。这两个领域离\"AI马上要毁灭人类\"这种说法，是全学术圈最远的地方。 尤德科斯基问他：超人类AI到底什么时候来？ 尤德科斯基相信，超级智能可能在并不遥远的未来出现。阿伦森不买账。他承认，没有哪条科学原理能够排除超人类AI，可要等多久，谁也不知道。他说自己的“不确定性是指数级的”。据他所知，这事可能在一千年之后，也可能要几千年。 尤德科斯基当场表示难以置信。阿伦森反而加倍坚持。 那时的阿伦森觉得自己很严谨。他没有断言AI永远不可能出现，只是拒绝把科幻想象当预测。十四年后，2023年，他专门写了一篇文章，标题就叫《对AI判断错误的反思》。 今年9月，阿伦森又写了一篇文章，题目是《奇迹与恐",
-    "publishedAt": "2026-09-17",
+    "id": "news--1789698817000",
+    "title": " 字节错过千亿盛宴 ",
+    "link": "https://www.huxiu.com/article/4892191.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：彦飞 43岁的张一鸣，刚刚成为亚洲首富。 最新的彭博全球富豪榜显示，字节跳动创始人张一鸣以1050亿美元身家，超越印度首富阿达尼，首次登顶亚洲首富，全球排名第18位。 但与此同时，在席卷全球的AI造富浪潮中，字节没能成为赢家。 在资本热钱的托举下，AI明星企业的估值飞速攀升，背后的投资方赚得盆满钵丰。今年以来，字节的两大对手都拿到了可观的账面浮盈。 据“镜相工作室”统计，截至9月初，阿里依靠投资获得的总浮盈约1687亿元，腾讯约为524亿元，就连美团也有约199亿元。 智谱、MiniMax等模型公司拿了阿里或腾讯投资后，上市后股价暴涨，成为大厂账面盈利的主要来源。 阿里、腾讯都热衷于在AI公司提前下注。 特别是腾讯，过去几年在一级市场频频出手，入股一大批AI初创企业。在不少被投项目中，腾讯是最大股东之一。 随着一家又一家AI明星公司投入帐下，腾讯几乎“买下”了中国AI行业的半壁江山。如今，这些投资开始贡献百亿级别的账面回报。 相比之下，字节投资五年前踩下刹车，几乎错过了整条AI赛道，存在不小的失策。 2018年之后，字节投资一度狂飙突进，2021年出手次数达到顶峰。但在多种因素影响下，2022年初，字节以“加强业务聚焦，减小协同性低的投资”为由，基本舍弃了战投业务，只做零星财务投资。 同一时期，全球AI资本盛宴逐渐开启，字节没有参与其中。整体来",
+    "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -251,11 +310,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789644971000",
-    "title": "机器人企业还没拿到“大结果”",
-    "link": "https://www.tmtpost.com/8143738.html",
-    "summary": "一边失血，一边前行。",
-    "publishedAt": "2026-09-17",
+    "id": "news-iphone18-pro-1789696342000",
+    "title": "直击iPhone18 Pro系列开售：部分版本已破发，还有人为苹果整晚“守夜”",
+    "link": "https://www.tmtpost.com/8144280.html",
+    "summary": "iPhone18 Pro开售便破发，全民都在等待iPhone Duo。",
+    "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -277,10 +336,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-1789674368000",
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "id": "news-prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-1789684449000",
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
     "publishedAt": "2026-09-17",
     "source": "TechCrunch",
     "tags": [
@@ -290,10 +349,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-office-ai-1789636045000",
-    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-    "link": "https://www.qbitai.com/2026/09/491391.html",
-    "summary": "文档和PPT都能做了",
+    "id": "news-amazon-ups-minimum-hourly-starting-wage-to-20-1789662360000",
+    "title": "Amazon ups minimum hourly starting wage to $20",
+    "link": "https://www.hrdive.com/news/amazon-boosts-minimum-hourly-starting-wage/830677/",
+    "summary": "The e-commerce company increased pay by $1 an hour for full-time employees in core operations and added new grocery discounts.",
+    "publishedAt": "2026-09-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-meshy-ai-for-fun-1789638132000",
+    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+    "link": "https://www.qbitai.com/2026/09/491522.html",
+    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -303,11 +376,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789644966000",
-    "title": "“外卖大战”后：第三方配送全面洗牌",
-    "link": "https://www.tmtpost.com/8143727.html",
-    "summary": "接下来如无意外，第三方配送公司将会有一轮重大的洗牌，强者恒强的趋势将更加明显。",
-    "publishedAt": "2026-09-17",
+    "id": "news--1789698576000",
+    "title": " 宁德时代伤有多深？ ",
+    "link": "https://www.huxiu.com/article/4892188.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：高菁，原文标题：《宁德时代伤有多深？| 商业头条No.144》 宁德时代(300750.SZ)正在经历至暗时刻。 理想汽车(下称理想)宣布全系采用自研电池至今短短十天，宁德时代股价下探至年内新低，一度失守300元关口，相较今年5月高点回调超35%，市值蒸发超7000亿元。 股价急挫的导火索，是一连串来自下游车企的供应链调整。 9月7日15:00起，在理想App上锁单的新一代MEGA，电池将改为理想自研5C电池。9月16日上市的理想i9，首批用宁德时代，产能爬坡后全量切换自研电池。 更彻底的切换发生在四季度，届时推出的i6将无宁德时代版本。 “后续，理想自研电池将全面搭载到我们所有的车型。” 没有发布会上的豪言壮语，没有“不再合作”的公开表态。理想用一则推文，完成了对宁德时代从默认选项到过渡方案的角色重置。 “他们两家肯定出现矛盾了。” 针对此次理想的“去宁德化”动作，多位业内人士向界面新闻如此表示。 两家公司曾有过长达十年的蜜月期。 2015年理想创立时，宁德时代就是其核心电池供应商，并维持了十年，从理想ONE到L系列，直至去年第100万台理想专属电池包下线。 一位长期观察动力电池行业的分析人士向界面新闻表示，两家的裂痕在蜜月期时已埋下。 理想MEGA搭载的5C麒麟电池，是双方最紧密的合作之一。这款电池由双方共同开发，研发人员超1000名，于",
+    "publishedAt": "2026-09-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789694837000",
+    "title": "全产业链产能竞速、订单落地、政策加码，钠电迎来磷酸铁锂时刻？｜行业风向标",
+    "link": "https://www.tmtpost.com/8144274.html",
+    "summary": "目前只看到一个清晰的起跑信号。",
+    "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -320,400 +406,393 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.19145v1",
-    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "id": "arxiv-2609.20822v1",
+    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
     "authors": [
-      "Ahmetcan Yavuz",
-      "Clara Meister",
-      "Tiago Pimentel"
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
     ],
-    "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. mul",
-    "link": "http://arxiv.org/abs/2609.19145v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19144v1",
-    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
-    "authors": [
-      "Peter Chen",
-      "Xi Chen",
-      "Wotao Yin",
-      "Tianyi Lin"
-    ],
-    "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margins. In this paper, we propose and analyze Comparison-based Preference Optimization (ComPO), a zeroth-order alignment method based on comparison oracles. ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them. We establish a convergence guarantee for its basic offline scheme under smoothness, gradient sparsity, and compatibility between the oracle and a latent objective. We further introduce online ComPO, which retains the offli",
-    "link": "http://arxiv.org/abs/2609.19144v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19143v1",
-    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
-    "authors": [
-      "Sara Pieri",
-      "Evangelos Kazakos",
-      "Shizhe Chen",
-      "Josef Sivic",
-      "Cordelia Schmid"
-    ],
-    "summary": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions",
-    "link": "http://arxiv.org/abs/2609.19143v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CV",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19137v1",
-    "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
-    "authors": [
-      "Guanhua Ji",
-      "Tianyu Li",
-      "Dayoon Suh",
-      "Yuqian Zhang",
-      "Boyan Zhang",
-      "Nadia Figueroa"
-    ],
-    "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. In this work, we explore augmenting generated video with audio to shape a bounded, time-varying desired-force profile using the loudness of generated contact sounds. We present a pipeline that jointly leverages generated video and audio to derive motion trajectories and corresponding desired-force profiles from a structured natural-language task prompt. We execute these force-aware trajectories on a Franka Panda robot using a closed-loop force regulator that tracks the audio-shaped force profile ",
-    "link": "http://arxiv.org/abs/2609.19137v1",
-    "publishedAt": "2026-09-16",
+    "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By dec",
+    "link": "http://arxiv.org/abs/2609.20822v1",
+    "publishedAt": "2026-09-17",
     "categories": [
       "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19135v1",
-    "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
-    "authors": [
-      "Pranaya Jajoo"
-    ],
-    "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at confidence $1-δ$, for $0 < δ\\le 1/4$, even when both candidate models are known. The mechanism is simple: a reset erases the unknown transition that determines the target value. We characterize the res",
-    "link": "http://arxiv.org/abs/2609.19135v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19134v1",
-    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
-    "authors": [
-      "Hejia Geng",
-      "Zesen Huang",
-      "Haoyang Li",
-      "Wenbin Li",
-      "Koutian Wu",
-      "Zihan Zhou",
-      "Yuanbo Pang",
-      "Weihao Liu",
-      "Zigong Xu",
-      "Zhiping Li",
-      "Zongzheng Zhang",
-      "Chuanfei Dong",
-      "Jiankai Sun",
-      "Tianzhe Zheng",
-      "Fengyu Xie",
-      "Yue Ma",
-      "Yueheng Shi",
-      "Tong Xie",
-      "Zonglin Di",
-      "Xianrong Liu",
-      "Qucheng Gao",
-      "Yimin Liu",
-      "Jiaming Pan",
-      "Sheng Huang",
-      "Xiao-Han Ma",
-      "Lanqing Yuan",
-      "Zhenlin Zhu",
-      "Ziang Liu",
-      "Ziyang Xu",
-      "Junkai Wang",
-      "Kangkai Liang",
-      "Jiayi Xian",
-      "Zehong Zhao",
-      "Liuwei Xu",
-      "Jingxu Xie",
-      "Peijin Zhang",
-      "Qiang Gao",
-      "Chengyi Xing",
-      "Zhe Zhao",
-      "Xi Wang",
-      "Yaopeng Xing",
-      "Xing Meng",
-      "Zhenfei Yin",
-      "Yingcheng Wu",
-      "Ling Yang"
-    ],
-    "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that support task generation, execution, and scientific verification. These environments provide a shared foundation for supervised fine-tuning, reinforcement learning, and evaluation. Using verified interacti",
-    "link": "http://arxiv.org/abs/2609.19134v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL",
-      "cs.CY"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19128v1",
-    "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
-    "authors": [
-      "João Meneses dos Santos",
-      "Arlindo L. Oliveira"
-    ],
-    "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive extensions: an Adaptive Memory Module (AMM) for salience-gated episodic storage and trigger-driven retrieval, and a Self-Reflection Module (SRM) for bounded execution-time validation and corrective intervention. Both modules are implemented as feature-flagged extensions over the same execution substrate, enabling controlled ablations on ScienceWorld. Across four configurations---baseline, baseline+AMM, baseline+SRM, and the full system---the full system achieves the best mean final score (64.62), ",
-    "link": "http://arxiv.org/abs/2609.19128v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.AI",
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19125v1",
-    "title": "Affora: A Design System for Agent-Friendly Interfaces",
-    "authors": [
-      "Jin Gao"
-    ],
-    "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies examine component implementations, visual variation, and interaction-design principles. Their findings inform guidance from individual components to complete sites, supported by reusable implementations and executable checks. Agent performance depends on the interaction meaning available through its interface representation; substantial visual variation remains possible when that meaning is preserved. Evaluation on independently authored interfaces shows gains where Affora addresses existing defici",
-    "link": "http://arxiv.org/abs/2609.19125v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.HC",
-      "cs.AI",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19124v1",
-    "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
-    "authors": [
-      "Elizabeth Pavlova",
-      "Hidenori Tanaka"
-    ],
-    "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic understanding is crucial for collective alignment. To this end, we introduce the Flag Game, a toy model for studying the mechanisms of collective belief formation. Concretely, a hidden country flag defines the ground truth, and each bounded agent directly observes only a private crop but can exchange beliefs and weigh social evidence from peers. Despite its simplicity, the Flag Game reproduces rich collective phenomenology: non-monotonic scaling of performance with population size, accuracy gains from social-awareness prompting and team diversity, and strong effects of organizational",
-    "link": "http://arxiv.org/abs/2609.19124v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.AI",
-      "cond-mat.dis-nn",
-      "cond-mat.stat-mech",
-      "cs.MA",
-      "physics.soc-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19113v1",
-    "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
-    "authors": [
-      "Peter Potash"
-    ],
-    "summary": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ yes/no questions. An answerer sees only the target and the question, and replies with one word. Both roles run on the same provider, so the game measures how well a model communicates with itself across an information asymmetry. We run 408 games over document sets of 4 to 1024 paragraphs at a total API cost of \\$363. One model finishes well behind the others: Claude Opus 5 wins 28 of 68 games, against 45 to 56 for GLM-5.3, GPT-5.6 Sol, Grok 4.6, Gemini 3.8 Flash and Kimi K3. The leading five are only marginally separable. Pooling those five, win rate declines with set size at $r=-0.973$ and is",
-    "link": "http://arxiv.org/abs/2609.19113v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19107v1",
-    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
-    "authors": [
-      "Zixi Chen",
-      "Akshay Vegesna",
-      "Samip Dahal",
-      "Andrew Gordon Wilson"
-    ],
-    "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with increases in computation. As an anchoring point, we consider the architectural formulation of looped transformers. Although not typically used in this way, looping, also known as recursive depth, provides a mechanism for model growth, by increasing the number of loops during training. Model growth, with and without shared weights, provides the biggest changes to the scaling exponents. In particular, a 7.4B model growth architecture matches GPT-3 13B on CORE with roughly $20\\times$ less compute, and has compute efficiency gains that increase with ",
-    "link": "http://arxiv.org/abs/2609.19107v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19104v1",
-    "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
-    "authors": [
-      "Kaijun Zhou",
-      "Zhiyang Li",
-      "Le Chen",
-      "Jinyu Gu"
-    ],
-    "summary": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies. Vision-Language-Action (VLA) models now dominate as the policy paradigm for these robots. The inference latency of VLA models directly affects robot responsiveness and motion smoothness. However, existing VLA inference frameworks do not fully exploit the characteristics of embodied workloads or account for the distinct bottlenecks across different stages of VLA inference. In this paper, we first characterize embodied workloads and identify substantial task similarity across repeated robot executions. We further find that such similarity extends beyond observations and action trajectories to ",
-    "link": "http://arxiv.org/abs/2609.19104v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19101v1",
-    "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
-    "authors": [
-      "Leon Bergen",
-      "Usha Bhalla",
-      "Andrew Lee",
-      "Barak Widawsky",
-      "Linas Nasvytis",
-      "Connor Watts",
-      "Siddharth Boppana",
-      "Sidharth Baskaran",
-      "Dron Hazra",
-      "Michael Byun",
-      "Atticus Geiger",
-      "Owen Lewis",
-      "Matthew Kowal",
-      "Vasudev Shyam",
-      "Thomas Fel",
-      "Thomas McGrath",
-      "Ekdeep Singh Lubana",
-      "Jack Merullo"
-    ],
-    "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is represented internally in frontier open source LLMs, and how those representations can be used to understand and discover the range of hacking behaviors a model displays. In particular, we find that simple difference of means vectors coherently represent reward hacking in Kimi K3, GLM 5.2, and Qwen 3.8 Max across a variety of behaviors in common evaluations. Despite their simplicity, these vectors are both generalizable and interpretable, and we can use them to reliably detect reward hacking. We first evaluate reward hacking in commonly reported benchmarks like DeepSWE and SWE-bench, finding ",
-    "link": "http://arxiv.org/abs/2609.19101v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19099v1",
-    "title": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
-    "authors": [
-      "Michael M. Craig",
-      "Riley J. Hickman",
-      "Yingshan Ma",
-      "Rémi Piché-Taillefer",
-      "Christine Allen",
-      "Pauric Bannigan"
-    ],
-    "summary": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present Andromeda 2, an agentic system that reasons over structured in-house experimental evidence and invokes computational and experimental tools to design and execute successive formulation batches. Using a miniaturized automated laboratory at a matched budget, we benchmark it against Andromeda 1, a probabilistic optimization model deployed across dozens of live development projects, and a wet-lab design-of-experiments (DoE) campaign. For paclitaxel, Andromeda 2 achieved a 50% high-performance hit rate versus 17% for Andromeda 1 and 2% for DoE, and identified 12 formulations meeting all four target ",
-    "link": "http://arxiv.org/abs/2609.19099v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19096v1",
-    "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
-    "authors": [
-      "Abbas M. Rabiu",
-      "Abdulrazaq A. Zubair",
-      "Um-mulkhairi Ibrahim",
-      "Tolulope Olusuyi",
-      "Shaheeda Farouq",
-      "Safwan M. Dafi",
-      "Adaobi C. Emegoakor",
-      "Yewande Gbadamosi",
-      "Maruf Adewole"
-    ],
-    "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, validated questionnaire. Overall awareness of AI in healthcare was high (92.6%); however, objective knowledge and self-reported preparedness remained limited, with 40.9% reporting low or very low knowledge and only 63.0% feeling adequately prepared",
-    "link": "http://arxiv.org/abs/2609.19096v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CY",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19093v1",
-    "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
-    "authors": [
-      "Daniel P. Jeong",
-      "Charles Q. Li",
-      "Hossein Hosseiny",
-      "Nitya M. Bhalla",
-      "Fatma Uyar Morency",
-      "Pradeep Ravikumar",
-      "Zachary C. Lipton",
-      "Michael Oberst"
-    ],
-    "summary": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports, varying in terminology, shorthand, formatting, and level of detail. These variations in reporting norms represent an under-appreciated obstacle in efforts to evaluate AI-based radiology report generation (RRG) models, where machine-generated reports are typically assessed based on their concordance with human-generated references. In this paper, we quantify the sensitivity of established evaluation metrics to variations in reporting practices, revealing impacts large enough to alter the rankings of models. We introduce a radiologist-informed taxonomy of variations in radiology reporting practic",
-    "link": "http://arxiv.org/abs/2609.19093v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19090v1",
-    "title": "Securing quantum error correction against misleading advice from AI agents",
-    "authors": [
-      "A. Barış Özgüler"
-    ],
-    "summary": "Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs recovery selection, then show how additional calibration measurements support certified recovery updates under uncertainty and drift. In an odd-distance square toric code with error-free preparation, syndrome measurements, and recovery operations, opposite coherent $X$ rotations produce identical passive syndrome-history distributions. Yet a fixed phase correction can help at one sign and harm at the other. A terminal logical measurement on known encoded calibration states supplies the missing sign information. A separate evaluator accepts an update only when calibration uncertainty and a justified dr",
-    "link": "http://arxiv.org/abs/2609.19090v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
-      "quant-ph",
-      "cs.AI",
-      "cs.CR",
-      "eess.SY"
-    ]
-  },
-  {
-    "id": "arxiv-2609.19088v1",
-    "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
-    "authors": [
-      "Luyao Zhu",
-      "Xun Wei Yee",
-      "Wei Li",
-      "Mun Thye Mak",
-      "Wee Siong Ng"
-    ],
-    "summary": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural content, and reason about visual context to support meaningful interaction. However, existing benchmarks primarily focus on real-world images or domain-specific educational reasoning, providing limited coverage of artistic educational content. To address this gap, we introduce MUSE, a benchmark for evaluating large vision-language models on artistic image understanding in situated educational applications. MUSE decouples image annotation from question generation, enabling diverse tasks with controll",
-    "link": "http://arxiv.org/abs/2609.19088v1",
-    "publishedAt": "2026-09-16",
-    "categories": [
       "cs.AI",
       "cs.CL",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2609.19083v1",
-    "title": "A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings",
+    "id": "arxiv-2609.20821v1",
+    "title": "Embedding Models Measure in Peculiar Ways",
     "authors": [
-      "Marcus M. Noack",
-      "Maher B. Alghalayini",
-      "Mark D. Risser"
+      "Juri Opitz",
+      "Andrianos Michail"
     ],
-    "summary": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness (PSD) of the kernel matrix; a condition that fails for many natural input spaces, including smooth manifolds and spaces of probability distributions. We propose the Sparse Landmark Embedding (SLE) kernel, which eliminates this requirement entirely. Each input is embedded into a sparse feature vector via compactly supported bump functions centered at all |D| training points; applying any standard PSD kernel in this embedding space yields a kernel that is provably PSD for arbitrary distance measures. The compact support automatically controls embedding sparsity, keeping kernel matrices well-cond",
-    "link": "http://arxiv.org/abs/2609.19083v1",
-    "publishedAt": "2026-09-16",
+    "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
+    "link": "http://arxiv.org/abs/2609.20821v1",
+    "publishedAt": "2026-09-17",
     "categories": [
-      "stat.ML",
-      "cs.LG",
-      "math.PR"
+      "cs.CL",
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.19077v1",
-    "title": "Probabilistic Linear Explanations",
+    "id": "arxiv-2609.20820v1",
+    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
     "authors": [
-      "Frederic Koriche",
-      "Jean-Marie Lagniez",
-      "Chi Tran"
+      "Nitish Dashora",
+      "Douglas Chen",
+      "Idan Shenfeld",
+      "John Marangola",
+      "Pulkit Agrawal",
+      "Max Simchowitz"
     ],
-    "summary": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, while probabilistic relaxations have remained largely limited to categorical classification. We present a unified framework for probabilistic explainability based on sparse, anchored linear models, applicable to both binary classification and continuous regression. By mapping instances to the Boolean hypercube, our linear explanations strictly generalize subset-based approaches: they capture both the magnitude and direction of feature contributions while enforcing a prescribed sparsity budget $k$. We show that minimizing the relevance error for such explanations is \\ClassNPPP-hard when the under",
-    "link": "http://arxiv.org/abs/2609.19077v1",
-    "publishedAt": "2026-09-16",
+    "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace",
+    "link": "http://arxiv.org/abs/2609.20820v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20817v1",
+    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+    "authors": [
+      "Kevin Qu",
+      "Tao Sun",
+      "Massimiliano Viola",
+      "Liyuan Zhu",
+      "Zhizhuo Zhou",
+      "Sayan Deb Sarkar",
+      "Konrad Schindler",
+      "Iro Armeni"
+    ],
+    "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises t",
+    "link": "http://arxiv.org/abs/2609.20817v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20816v1",
+    "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+    "authors": [
+      "Ji Xie",
+      "Dewei Zhou",
+      "Xinyu Huang",
+      "Zhennan Chen",
+      "Xun Wang"
+    ],
+    "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-prompt interface for generation and editing through object-level color supervision. We develop a data pipeline that constructs Paint-500K from real images through object grounding, perceptual color labeling, and editing-pair synthesis. Since shadows make real-image labels only approximate colors, we",
+    "link": "http://arxiv.org/abs/2609.20816v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20815v1",
+    "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+    "authors": [
+      "Zahra Ghaffari",
+      "Massih Bahar",
+      "Mojgan Forootan",
+      "Ali Darvishi",
+      "Hamidreza Bolhasani"
+    ],
+    "summary": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted surveillance strategies for affected families. However, public endoscopic datasets are largely organized around the individual sporadic polyp, and none links the polyposis phenotype to histopathology and germline findings at the patient level. Here, we present ERCPMP-Gx, an endoscopic, histopathological, and genomic dataset developed to support the application of artificial intelligence (AI) in the recognition, characterization, and classification of colorectal polyposis. Most procedures were performe",
+    "link": "http://arxiv.org/abs/2609.20815v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20814v1",
+    "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+    "authors": [
+      "Pochinapeddi Sai Bhargav",
+      "Nithin Somasekharan",
+      "Rohit Sunil Kanchi",
+      "Sicheng He",
+      "Shaowu Pan"
+    ],
+    "summary": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained model matches the accuracy of a model trained from scratch on $3.25\\times$ as many samples for the same-SA target, but $2.58\\times$ as many for the transition-modeled target. By $N=5000$, this ordering reverses ($1.56\\times$ versus $1.86\\times$). At $N=1000$, sampling more distinct airfoils lowers error",
+    "link": "http://arxiv.org/abs/2609.20814v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "physics.flu-dyn"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20812v1",
+    "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+    "authors": [
+      "Nolan Smyth",
+      "Yorguin-Jose Mantilla-Ramos",
+      "Pascal Jr Tikeng Notsawo",
+      "Saskia Helbling",
+      "Alberto Tosato",
+      "Mohamed Amine Merzouk",
+      "Nouha Dziri",
+      "Gauthier Gidel",
+      "Tommaso Tosato"
+    ],
+    "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \\emph{OverclaimBench}, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurements, and registered planted defects. We evaluate eight proprietary frontier models in their own production command-line interfaces, and four open-weight models under a single fixed harness on Overcla",
+    "link": "http://arxiv.org/abs/2609.20812v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20808v1",
+    "title": "Unifying Models of Intergroup Hostility in Online Discourse",
+    "authors": [
+      "Patrick Gerard",
+      "Julia Mendelsohn",
+      "Kristina Lerman"
+    ],
+    "summary": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in online speech draw on foundational theories in social and moral psychology, and political science. However, these theories were developed largely in parallel, often propose different and sometimes conflicting accounts of how hostility develops, and have rarely been tested against each other in real discourse. The result is a fragmented understanding of the rhetorical mechanisms of hostility, without a clear sense of how they appear, and relate to each other, in real-world discourse. Using 2.86 million posts from TikTok, Truth Social, and Twitter/X during the 2024 U.S. presidential election, we mo",
+    "link": "http://arxiv.org/abs/2609.20808v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CL",
+      "cs.SI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20807v1",
+    "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+    "authors": [
+      "Martin Marek",
+      "Max Ryabinin"
+    ],
+    "summary": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout efficiency. In this paper, we show that the instability of RL under TIM is primarily caused by drift: a persistent bias between training and inference engines that accumulates with every training step. We derive an additive \"score centering\" correction term that stabilizes RL under TIM by canceling drift. When training models from 0.6B to 30B parameters, score centering alone matches or outperforms methods based on importance sampling under quantization, with the gap growing as the mismatch becomes m",
+    "link": "http://arxiv.org/abs/2609.20807v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20804v1",
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "authors": [
+      "Run-Ze Fan",
+      "Zihao Zhang",
+      "Simin Ma",
+      "Yebowen Hu",
+      "Shouju Wang",
+      "Kaiqiang Song",
+      "Fei Liu",
+      "Hamed Zamani",
+      "Xiaoyang Wang"
+    ],
+    "summary": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window bud",
+    "link": "http://arxiv.org/abs/2609.20804v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20800v1",
+    "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+    "authors": [
+      "Taoyong Cui",
+      "Zhongyao Wang",
+      "Xinyue Xu",
+      "Weiyang Liu",
+      "Zhaochen Yu",
+      "Yuying Zhang",
+      "Qiang Gao",
+      "Mengyue Yang",
+      "Wanli Ouyang",
+      "Pheng Ann Heng",
+      "Yingcheng Wu",
+      "Zhenfei Yin",
+      "Ling Yang"
+    ],
+    "summary": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We introduce JEPA-Anything, a domain-agnostic framework based on orthogonal predictive factorization (OPF). Extending joint-embedding predictive architectures, OPF decomposes latent targets into complementary factors, learns them through dedicated pathways, and recombines them within a shared predictive design. We evaluate JEPA-Anything across seven domains: vision, biology, clinical trajectories, control, molecular dynamics, physical fields, and weather. Experiments span representation learning, intervention prediction, out-of-distribution gen",
+    "link": "http://arxiv.org/abs/2609.20800v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20794v1",
+    "title": "PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers",
+    "authors": [
+      "Jiachen Yao",
+      "Zi-Siang Hsu",
+      "Xi Deng",
+      "Aditi Gupta",
+      "Xin Ju",
+      "Sally M Benson",
+      "Gege Wen",
+      "Anima Anandkumar"
+    ],
+    "summary": "Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is insufficient for ill-posed problems, where multiple solutions may be consistent with the same sparse or noisy observations. In these settings, a method can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse, overconfident uncertainty, or averaging incompatible solutions. We introduce PosteriorBench, a benchmark for evaluating the distributional accuracy of generative inverse solvers. PosteriorBench evaluates four physics-based inverse problems: Darcy flow inversion, Poisson source recovery, carbon capture and storage, and light transport m",
+    "link": "http://arxiv.org/abs/2609.20794v1",
+    "publishedAt": "2026-09-17",
     "categories": [
       "cs.LG",
+      "cs.CE"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20784v1",
+    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+    "authors": [
+      "Yan Yu",
+      "Zhengxi Lu",
+      "Yizhou Liu",
+      "Yichen Pan",
+      "Aozhe Wang",
+      "Qipeng Chen",
+      "Hua Yang",
+      "Wenqi Zhang",
+      "Weiming Lu",
+      "Qianglong Chen",
+      "Yongliang Shen"
+    ],
+    "summary": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This recipe, however, is undermined by two findings in agentic tasks: privileged information alone does not always make a teacher reliable, and the benefit of teacher supervision is stage-dependent. We therefore propose RetireOPD (Self-Retiring On-Policy Distillation), which first optimizes a decoupled, skill-conditioned teacher with environment rewards and then trains a skill-free student jointly with RL and OPD. Rather than following a predefined distillation schedule, RetireOPD adopts Adaptive Retire",
+    "link": "http://arxiv.org/abs/2609.20784v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CL",
       "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20779v1",
+    "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+    "authors": [
+      "Sarah Wyer",
+      "Sue Black",
+      "Noura Al Moubayed"
+    ],
+    "summary": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations. We provide evidence that this methodology is systematically incomplete: explicit discriminatory content is transformed rather than removed. We call this \\emph{harm laundering}. Analysing 450,000 gender-directed completions across 15 models spanning GPT-2 through to GPT-5 (OpenAI GPT lineage; three demographic conditions), we show that sexual violence clusters prevalent in GPT-2 women-directed output disappear by GPT-4, while men-directed completions gain positive representational territory (caregiving, emotional range, ally identity) that women-directed completions do not. The pattern is most visible at GPT-5: Topic~5 (1,997~documents) frames breast canc",
+    "link": "http://arxiv.org/abs/2609.20779v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20776v1",
+    "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
+    "authors": [
+      "Xin Chen",
+      "Sen Chen",
+      "Yujuan Ding",
+      "Jian Liu",
+      "Guoqing Wang",
+      "Wei Ye",
+      "Heng Tao Shen",
+      "Yi Bin"
+    ],
+    "summary": "Action chunking is widely used for action generation and execution in Vision-Language-Action (VLA) policies, yet existing approaches commonly use a fixed action horizon. During a rollout, different task stages may require different levels of action continuity, control precision, and closed-loop feedback, making a fixed horizon unable to accommodate changing control requirements. We propose \\textbf{GeoAAC}, a geometry-based adaptive action chunking method for flow-based VLA policies that adjusts the action horizon according to the reliability of the current action prediction. We show that the geometry of Flow Matching denoising trajectories provides process-level information for characterizing prediction reliability, with geometric variation across action prefixes remaining positively corre",
+    "link": "http://arxiv.org/abs/2609.20776v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20768v1",
+    "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights",
+    "authors": [
+      "Tica Lin",
+      "Deepak Chandran",
+      "Gauri Jagatap",
+      "Chen Chen",
+      "Andrea Fanelli",
+      "David Gunawan",
+      "Josh Kimball"
+    ],
+    "summary": "Generative agents are increasingly used to select and narrate video highlights, but they typically operate over unstructured or frame-level representations. Their output is consequently difficult for a viewer to verify and steer toward individual preferences. We present the semantic action graph, a lightweight domain schema that represents a sports match as performer, action, recipient, moment, and state nodes connected by role, temporal, and outcome edges. The schema demonstrates three key properties: 1) connected event sequences, 2) a shared, closed vocabulary, and 3) frame-addressable moments, making it suitable to serve two consumers at once: an agentic pipeline that composes narrated highlights, and a visual interface through which viewers query and inspect the same structure. We inst",
+    "link": "http://arxiv.org/abs/2609.20768v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20765v1",
+    "title": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols",
+    "authors": [
+      "Tariq Abdul-Quddoos",
+      "Xiangfang Li",
+      "Lijun Qian"
+    ],
+    "summary": "Radio Frequency(RF)-Fingerprinting is a spectrum monitoring technique that identifies specific transmitters based on hardware impairments imprinted within the emitted signal. Although widely researched, studies almost exclusively consider scenarios where only one transmitter is emitting at a time, limiting real world applicability. In this work, we further the study of RF-Fingerprinting by considering co-channel interference, with multiple emitted signals interfering with each other, overlapping in time and frequency. Specifically, we formulate this problem as a multi-label classification problem and employ a 1D convolutional neural network (CNN). Furthermore, the models are calibrated such that the confidence thresholds for the label probabilities are derived, with guarantees on the upper",
+    "link": "http://arxiv.org/abs/2609.20765v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20761v1",
+    "title": "Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control",
+    "authors": [
+      "Hanchu Zhou",
+      "Brendan Lynch",
+      "Raman Goyal",
+      "Dechen Gao",
+      "Begum Kasap",
+      "Boqi Zhao",
+      "Junshan Zhang"
+    ],
+    "summary": "World Action Models (WAMs) advance beyond conventional visuomotor policies by jointly predicting future world states and robot actions, enabling the policy to learn physical dynamics that support effective control. However, recent tactile WAMs often rely on large-scale pretrained generative backbones to capture contact-rich physical dynamics, which limit their inference efficiency and flexible deployment. In this paper, we present \\ABBR{}, an agile tactile World Action Model for contact-rich robot control. \\ABBR{} encodes visual and tactile observations into a shared latent that serves as the source of a direct vision-tactile-to-action flow-matching process, which can jointly generate latent representations of action chunks and future visual/tactile latents. A key observation is that visio",
+    "link": "http://arxiv.org/abs/2609.20761v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.20758v1",
+    "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+    "authors": [
+      "Sho Kawano",
+      "Zehang Richard Li",
+      "Paul A. Parker"
+    ],
+    "summary": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates of each domain mean. Direct estimators, including prediction-powered inference (PPI), use only a domain's own labels and are imprecise where labels are few. Small area estimation addresses this problem, and we build on it to develop an integrated workflow for estimation and validation. For estimation, we propose prediction-powered smoothing (PP-S), a Bayesian model fit to each domain's prediction-powered estimate, with an extension that borrows str",
+    "link": "http://arxiv.org/abs/2609.20758v1",
+    "publishedAt": "2026-09-17",
+    "categories": [
+      "stat.ML",
+      "cs.AI",
+      "cs.LG",
+      "stat.AP",
+      "stat.ME"
     ]
   }
 ];
@@ -971,4 +1050,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-17T20:55:16.585Z';
+export const dataFetchedAt = '2026-09-18T03:00:11.930Z';
