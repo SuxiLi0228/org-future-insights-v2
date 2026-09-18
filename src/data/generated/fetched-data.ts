@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
-    "title": "The Download: mice with part-human brains and climate tech innovators",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
-    "publishedAt": "2026-09-17",
+    "id": "news-the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-b-1789722000000",
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
+    "publishedAt": "2026-09-18",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -42,10 +42,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-17-1789691833000",
-    "title": "Manus重生第17天，估值居然就翻倍了",
-    "link": "https://www.qbitai.com/2026/09/491764.html",
-    "summary": "作价40亿美元推进新融资",
+    "id": "news--1789723177000",
+    "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
+    "link": "https://www.qbitai.com/2026/09/492015.html",
+    "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
@@ -55,24 +55,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789699940000",
-    "title": " 全球算力大逃杀：四个高地，四种代价，同一个结构性困局 ",
-    "link": "https://www.huxiu.com/article/4892196.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 写完乌兰察布算力那篇深度复盘后，很多读者有个疑问： 是不是只有我们的北方草原算力城，存在“国家拿战略、资本拿利润、地方扛成本”的结构性悖论？ 把视野拉高到全球，答案很残酷：这不是一城一地的特例，是席卷全球的全新产业宿命。 从北欧雪原到中东沙漠，从美国南部电网到东南亚沿海，一场疯狂的全球算力选址竞赛，正在无声上演。 所有国家、所有地区，都在抢同一件事：落地智算中心、抢夺AI算力产能、抢占数字时代的基础设施席位。 全网舆论清一色都是亢奋叙事： 算力=新石油、算力=数字主权、算力=未来十年的经济增量。 但和我们五年前深耕IDC行业、跟踪全球算力基建的亲历认知完全不同： 全世界都在抢算力，却极少有人算清，算力狂欢背后，每一座城市、每一个国家，默默扛下的资源账、财政账、民生账。 算力红利是公开的、短暂的、属于资本的； 算力代价是隐性的、长期的、属于土地和民生的。 一、全球共识：算力早已不是生意，是国家主权底盘 放在三年前，全球算力选址逻辑极其简单、纯粹商业化： 哪里电价低、气温低、土地便宜、政策宽松，资本就涌向哪里。 那时候的算力，只是一门低成本套利生意。 但从2024年开始，全球逻辑彻底改写。中美博弈、AI军备竞赛、数据封锁、技术制裁叠加，全世界突然达成统一共识： 算力不再是普通产业，是数字时代的电网、油田、军工基建，是国家级战略资产。 于是",
+    "id": "news--1789726564000",
+    "title": " 抓水军，悬赏纯金拖鞋 ",
+    "link": "https://www.huxiu.com/article/4892318.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网 ，作者：张木亭 一周之内，几千条针对上市公司A的负面评论，铺满了抖音、快手、小红书。“避雷！这些商品专坑老实人”“黑心商家出炉”，它们标题雷同、话术统一，背后涉及到800多个账号。而在两三天后，这些帖子又集体消失。 “黑水军又来了。”吴易欣判断。她是A公司的法务负责人。这起发生在几个月前的攻击事件，至今困扰着她和公司。 这不是第一次，也不是最严重的一次。最严重一次的“黑水军”抹黑行为，直接针对公司A的负评有数十万条，让这家企业的年度营收下滑超过15%。 为了搜集过去一年多两度被“黑水军”围猎的证据，A公司已经投入了数十万元。搜集证据期间，一家参与组织“黑水军”的机构B浮出水面。 A公司的遭遇并不是个例。商业世界正处于一个能被网络舆论轻易左右的时代，一名工作20年的企业公关告诉凤凰网，社交媒体兴起后，企业间开启了用水军互相攻击的舆论战，借“黑水军”诋毁对手正成为一种常见的竞争手段。 在这个过程中，被攻击的企业付出了高昂的代价。据财联社电厂（2026年2月12日），理想2024年MEGA上市期间曾被水军抹黑为“棺材车”，仅10余天，市值蒸发超过1800亿元。“几十万雇一个水军团队，就可以抹黑一个品牌。”吴易欣感慨。 也因此，“抓水军”成了许多企业面临的新命题。2021年12月，比亚迪成立了“新闻打假办公室”；2025年4月，蔚来在App中设置了“一键上报”",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-10-1789698958000",
-    "title": "一家清华系具身公司撬开车厂产线，部署效率提升10倍",
-    "link": "https://www.tmtpost.com/8143328.html",
-    "summary": "成立17个月，用部署效率10倍、真机数据100小时、零基建质检进入豪华车厂真实产线，押注“年底机器人上岗”。",
+    "id": "news--1789727055000",
+    "title": "外卖“御三家”：狂热开始，理性收敛",
+    "link": "https://www.tmtpost.com/8144061.html",
+    "summary": "外卖战场“没赢家”，战略博弈“无输家”。",
     "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
@@ -83,16 +82,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
-    "title": "Meet the innovators under 35 shaping climate tech",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
+    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
+    "title": "The Download: mice with part-human brains and climate tech innovators",
+    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
     "publishedAt": "2026-09-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -123,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-code-3-agent-1789691674000",
-    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-    "link": "https://www.qbitai.com/2026/09/491711.html",
-    "summary": "Git白学了？？？",
+    "id": "news-agi-ai-science-1789711866000",
+    "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+    "link": "https://www.qbitai.com/2026/09/491875.html",
+    "summary": "用通用AI去啃最硬的骨头，这条路走得通",
     "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
@@ -136,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789699251000",
-    "title": " 先升后降：毁掉一个职场人，只要两纸任命 ",
-    "link": "https://www.huxiu.com/article/4892193.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 周一早上九点，一封系统邮件弹进收件箱。 标题很客气：组织架构调整通知。 第三行写着你的名字，原某部门负责人，转任资深专家，即日生效。 没有约谈，没有解释，工资分文未动。 但所有人都看得懂这行字：人留着，管理收走。 过去三年，这样的通知在科技公司里批量发出，名字很体面，叫“扁平化”。 被通知的人后来怎么样了，很少有人追问。 想说的正是这件事：毁掉一个职场人，未必需要打压，升他一次就够了。 剩下的一半，交给时间。 ⑴升职那天，报废流程就启动了 升职从来不是加薪，是一次手艺置换。 公司收走你吃饭的家伙，发给你一副新的：会议、预算、汇报、人。 新手艺的用法没人系统教，旧手艺的功力却在天天退化，这是所有管理岗的默认设置。 想想一个新经理的头一年都在干什么。 学着给跟了自己两年的老下属打绩效，一个数字要斟酌一晚上。 学着看预算表，在投入产出比的表格里练习一种陌生的诚实。 学着在老板面前讲团队的坏消息，措辞比谈恋爱还小心。 这些事做得越多，离原来的手艺就越远。 更隐蔽的置换发生在知识结构上。 管理岗的日常输入是汇报、报表和办公室政治，执行岗的日常输入是行业动态、工具迭代和一线手感。 三年下来，他对行业的认知停在升职那年，对工具的熟练停在下属替他干活的时候。 面试官问起一个具体的细节，他只能回答，这块当时是我团队负责的。 这句话在人才市场上的翻译是：",
+    "id": "news-10-30-1789726168000",
+    "title": " 烧烤店倒闭10万家，谁跑出了30年第一股？ ",
+    "link": "https://www.huxiu.com/article/4892316.html?f=rss",
+    "summary": "本文来自微信公众号： 和讯 ，作者：蔚蓝 今年9月，很久以前羊肉串完成股份制改造，主体更名为“北京很久以前餐饮管理集团股份有限公司”。市场随即传出消息：这家拥有超过140家直营门店的烧烤品牌，计划冲刺“烧烤第一股”。若成功，它将成为A股与港股市场第一家以烧烤为主营业务的连锁餐饮上市公司。 但比IPO更先出圈的，是另一个标签。 在韩国游客之间，一份上海旅游路线几乎成了标配：先去南京路第一百货的很久以前羊肉串吃一顿烤肉，去新天地看看大韩民国临时政府旧址，再去外滩看夜景。有门店工作人员透露，近期80%的顾客都是韩国游客。一位在复旦就读的韩国留学生说，这家店在韩国留学生圈子里“人气爆棚”，“服务好、干净，价格只有韩国的一半”。 很久以前真正卖的，显然不只是羊肉串。 01 夜店里最会烤串的 烧烤市场足够大，但大市场一直没有长出大品牌。 2025年，全国烧烤市场规模达到2680亿元，同比增长4.3%，是仅次于火锅的第二大餐饮品类。但与此同时，过去一年半全国超过10万家烧烤店关门，闭店率20.9%，平均每天180多家门店停业。更关键的是，门店数前十的烧烤品牌合计只占市场1.02%的份额，近八成品牌的门店数量在10家及以下，100家以上的品牌仅占1%。 这意味着，烧烤生意看起来热闹，真正能让消费者记住的品牌却并不多。 丰茂烤串就是一个典型。这个1991年创立的品牌，曾经凭借室内无烟烤炉、自动旋转烤",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
@@ -149,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789698060000",
-    "title": "AI 减速倡议没能砸垮芯片股：市场似乎只认订单",
-    "link": "https://www.tmtpost.com/8143983.html",
-    "summary": "暂不信警钟。",
+    "id": "news--1789726986000",
+    "title": "罗福莉压力有多大？都给小米模型训练整上直播了",
+    "link": "https://www.tmtpost.com/8144556.html",
+    "summary": "成本动态滚动，不到两天花掉130万美元",
     "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
@@ -163,15 +161,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells-1789570800000",
-    "title": "Meet a mouse whose brain cortex is made up of human cells",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
-    "publishedAt": "2026-09-16",
+    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
+    "title": "Meet the innovators under 35 shaping climate tech",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
+    "publishedAt": "2026-09-17",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -203,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vivo-ai-1789646604000",
-    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-    "link": "https://www.qbitai.com/2026/09/491649.html",
-    "summary": "构建个体专属AI助理",
-    "publishedAt": "2026-09-17",
+    "id": "news-manus-17-1789691833000",
+    "title": "Manus重生第17天，估值居然就翻倍了",
+    "link": "https://www.qbitai.com/2026/09/491764.html",
+    "summary": "作价40亿美元推进新融资",
+    "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
@@ -216,10 +215,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-52-1789699224000",
-    "title": " 携程罚单52天，差价照旧 ",
-    "link": "https://www.huxiu.com/article/4892192.html?f=rss",
-    "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 9月1日，一位上海消费者在小红书记录了一次投诉：通过携程购买春秋航空的机票，实付1158元，春秋航空系统里显示的票面价只有880元，中间278元的差价，平台从未告知。笔记里还提到，订单在本人不知情的情况下被操作了退票改签。发布者给这条笔记挂上了「退一赔三维权」的标签。 这条笔记发布时，距离市场监管总局对携程开出51.79亿元反垄断罚单，过去38天。 278元差价，相当于票面价的31.6%。这个比例，与一位互联网从业者近期在朋友圈里私下提醒的「中间被平台多收了30%的差价」几乎重合。公开投诉与私下提醒指向同一套机制：用户不打开航空公司官网或航旅纵横逐单核对，很难发现差价；发现了找客服，可以退；没发现的那些，就成了利润。 一张创纪录的罚单之后，这类问题是否还在，罚单又究竟管住了什么。我们做了核查。 01 核查：差价是真的， 「30%」只是个案说法 先说结论：机票「实付价高于出票价」的现象真实存在，且有判决书、航司公告和大量投诉交叉印证。它同时也是一个行业性问题，并非携程一家独有，代理商出票环节在其中扮演了重要角色。 2025年3月，南方航空、国航、东航、海航在一周内先后发布公告，确认第三方购票渠道存在「机票价格与行程单不一致」的情况。南航承诺，一经核实，先行垫付旅客的差价损失。同月，新华网记者在黑猫投诉平台以「机票加价」为关键词检索，得到11",
+    "id": "news--1789725406000",
+    "title": " 国内金融业作为高薪行业的历史，要结束了吗？ ",
+    "link": "https://www.huxiu.com/article/4892313.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 作者注：本文首次发表于2023年9月，当时正好是公募基金管理费和券商佣金下降的时间节点，以及整个金融业的降薪周期的开始。三年过去，虽然金融业仍是社会上待遇比较好、受人尊重的一个行业，但其薪酬优势确实已经大幅缩水，并仍处于震荡之中。希望这篇文章仍能给大家带来一些参考，尽管其中部分内容可能过时了。 开宗明义：本文所讨论的“金融业”，主要是指券商、基金、保险资管等机构，尤其是其中的投行、投研、固定收益、机构销售等高薪岗位。金融业是一个很大的行业，从业人数最多的其实是银行，其次可能是保险经纪；但这两个细分行业的薪酬显然没有达到打工人的顶尖水平。在全世界范围内，金融业最高薪的部分都是跟资本市场打交道的部分，在美国是“华尔街”，在中国则往往被戏称为“中国华尔街”。 过去二十年，国内高薪白领有三大来源和聚集地：金融业，互联网大厂，以及部分外企。它们固然都吃到了时代的红利，不过总体看来，金融业吃到红利的方式更“奇怪”，高薪基础更“脆弱”一些。与其他两大高薪职业相比，我们可以很容易地发现违和之处： 部分外企，例如外资咨询、IT企业以及大型跨国集团，其母公司待遇本来就很高，其中国分支从事的往往是高附加值业务，高薪是理所当然的。而且外企普遍比较守法（怂），注重劳动者权益，从而成为了性价比极高的打工人胜地。 互联网是过去二十年国内增长最快的行业，",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
@@ -229,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789696435000",
-    "title": "抖省省跑通了，但字节的考验才刚开始",
-    "link": "https://www.tmtpost.com/8143762.html",
-    "summary": "字节又做了个APP，这次是团购版拼多多。",
+    "id": "news-kimi-1789726570000",
+    "title": "月之暗面递表之后，Kimi 的成色要被验算三遍",
+    "link": "https://www.tmtpost.com/8144610.html",
+    "summary": "Anthropic 的 30 万次指控，会成为招股书的第几页？",
     "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
@@ -243,16 +242,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-building-the-materials-foundation-for-ai-1789562854000",
-    "title": "Building the materials foundation for AI",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "id": "news-meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells-1789570800000",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
     "publishedAt": "2026-09-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -283,11 +281,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-code-1789646173000",
-    "title": "Claude Code团队讲究啊，这都往外说",
-    "link": "https://www.qbitai.com/2026/09/491596.html",
-    "summary": "工程师的核心永远是Problem Solving。",
-    "publishedAt": "2026-09-17",
+    "id": "news-claude-code-3-agent-1789691674000",
+    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "link": "https://www.qbitai.com/2026/09/491711.html",
+    "summary": "Git白学了？？？",
+    "publishedAt": "2026-09-18",
     "source": "量子位",
     "tags": [
       "china",
@@ -296,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789698817000",
-    "title": " 字节错过千亿盛宴 ",
-    "link": "https://www.huxiu.com/article/4892191.html?f=rss",
-    "summary": "本文来自微信公众号： 字母榜 ，作者：彦飞 43岁的张一鸣，刚刚成为亚洲首富。 最新的彭博全球富豪榜显示，字节跳动创始人张一鸣以1050亿美元身家，超越印度首富阿达尼，首次登顶亚洲首富，全球排名第18位。 但与此同时，在席卷全球的AI造富浪潮中，字节没能成为赢家。 在资本热钱的托举下，AI明星企业的估值飞速攀升，背后的投资方赚得盆满钵丰。今年以来，字节的两大对手都拿到了可观的账面浮盈。 据“镜相工作室”统计，截至9月初，阿里依靠投资获得的总浮盈约1687亿元，腾讯约为524亿元，就连美团也有约199亿元。 智谱、MiniMax等模型公司拿了阿里或腾讯投资后，上市后股价暴涨，成为大厂账面盈利的主要来源。 阿里、腾讯都热衷于在AI公司提前下注。 特别是腾讯，过去几年在一级市场频频出手，入股一大批AI初创企业。在不少被投项目中，腾讯是最大股东之一。 随着一家又一家AI明星公司投入帐下，腾讯几乎“买下”了中国AI行业的半壁江山。如今，这些投资开始贡献百亿级别的账面回报。 相比之下，字节投资五年前踩下刹车，几乎错过了整条AI赛道，存在不小的失策。 2018年之后，字节投资一度狂飙突进，2021年出手次数达到顶峰。但在多种因素影响下，2022年初，字节以“加强业务聚焦，减小协同性低的投资”为由，基本舍弃了战投业务，只做零星财务投资。 同一时期，全球AI资本盛宴逐渐开启，字节没有参与其中。整体来",
+    "id": "news-ai-1789725386000",
+    "title": " AI制造的文字垃圾已经把互联网淹没啦 ",
+    "link": "https://www.huxiu.com/article/4892311.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 我的一大业余爱好是看体育新闻，尤其是欧洲足球和NBA方面的新闻。如果条件允许，我当然也爱看球赛，可惜这些球赛经常安排在深夜或清早，不可能每场都看；再说，就算看了直播，也总想看看相关的新闻评论的。网易、头条、腾讯的体育板块，我经常都刷一刷，反正它们的信息来源大同小异，都是同一批体育媒体和自媒体，就连分发时间也差不多。 刷的体育资讯越多，我就越感觉不对劲。最近几天，我连续看到好几篇分析英超的文章，信誓旦旦地宣称：曼城主帅是瓜迪奥拉，“瓜迪奥拉的球队今年能否夺回阔别两年的英超冠军，还要看阿森纳和利物浦的脸色”。其实瓜迪奥拉今年不执教任何球队，不会从任何人手里夺回英超冠军。 前一段时间，梅西宣布退出阿根廷国家队，其中一个重要原因是其父亲去世。奇怪的是，我却刷到不止一家自媒体宣称，梅西的父亲“在医院外遭到了抢劫”，导致梅西心灰意冷、不再为国效力。可是一个已经去世了的人怎么可能被抢劫？ 穆里尼奥重返皇马之后已经吞下第一次失利，客场0-1负于贝蒂斯；前几天则在最后时刻以3-2险胜埃尔切。奇怪的是我不停地刷到资讯，宣称这两场比赛的比分是1-1和2-2，说的有鼻子有眼的，所以皇马至今还一场没输，积分却少了1分，因为两场平局的价值不如一胜一负，呃…… 毫无疑问，上述文字垃圾全是AI制造的，我从行文方式中能看出浓浓的AI味，甚至能想象AI幻觉是",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
@@ -310,10 +308,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iphone18-pro-1789696342000",
-    "title": "直击iPhone18 Pro系列开售：部分版本已破发，还有人为苹果整晚“守夜”",
-    "link": "https://www.tmtpost.com/8144280.html",
-    "summary": "iPhone18 Pro开售便破发，全民都在等待iPhone Duo。",
+    "id": "news-gelato-1789726569000",
+    "title": "东方Gelato，野人先生真正的护城河",
+    "link": "https://www.tmtpost.com/8144654.html",
+    "summary": "野人先生的对手，不是罗永浩",
     "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
@@ -324,15 +322,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-s-trillion-dollar-gamble-and-openai-8217-s-b-1789560600000",
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+    "id": "news-building-the-materials-foundation-for-ai-1789562854000",
+    "title": "Building the materials foundation for AI",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
     "publishedAt": "2026-09-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -363,10 +362,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meshy-ai-for-fun-1789638132000",
-    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
-    "link": "https://www.qbitai.com/2026/09/491522.html",
-    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+    "id": "news-vivo-ai-1789646604000",
+    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+    "link": "https://www.qbitai.com/2026/09/491649.html",
+    "summary": "构建个体专属AI助理",
     "publishedAt": "2026-09-17",
     "source": "量子位",
     "tags": [
@@ -376,23 +375,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789698576000",
-    "title": " 宁德时代伤有多深？ ",
-    "link": "https://www.huxiu.com/article/4892188.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：高菁，原文标题：《宁德时代伤有多深？| 商业头条No.144》 宁德时代(300750.SZ)正在经历至暗时刻。 理想汽车(下称理想)宣布全系采用自研电池至今短短十天，宁德时代股价下探至年内新低，一度失守300元关口，相较今年5月高点回调超35%，市值蒸发超7000亿元。 股价急挫的导火索，是一连串来自下游车企的供应链调整。 9月7日15:00起，在理想App上锁单的新一代MEGA，电池将改为理想自研5C电池。9月16日上市的理想i9，首批用宁德时代，产能爬坡后全量切换自研电池。 更彻底的切换发生在四季度，届时推出的i6将无宁德时代版本。 “后续，理想自研电池将全面搭载到我们所有的车型。” 没有发布会上的豪言壮语，没有“不再合作”的公开表态。理想用一则推文，完成了对宁德时代从默认选项到过渡方案的角色重置。 “他们两家肯定出现矛盾了。” 针对此次理想的“去宁德化”动作，多位业内人士向界面新闻如此表示。 两家公司曾有过长达十年的蜜月期。 2015年理想创立时，宁德时代就是其核心电池供应商，并维持了十年，从理想ONE到L系列，直至去年第100万台理想专属电池包下线。 一位长期观察动力电池行业的分析人士向界面新闻表示，两家的裂痕在蜜月期时已埋下。 理想MEGA搭载的5C麒麟电池，是双方最紧密的合作之一。这款电池由双方共同开发，研发人员超1000名，于",
+    "id": "news-llm-ps5-linux-1789725226000",
+    "title": " “只剩一群用LLM 的菜鸟”：顶级黑客怒退PS5 Linux 项目，几个月心血全打水漂 ",
+    "link": "https://www.huxiu.com/article/4892309.html?f=rss",
+    "summary": "本文来自微信公众号： InfoQ ，作者：Tina，原文标题：《“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂》 “这个圈子过去聚集着一批才华横溢的研究人员，如今却只剩下一群使用LLM的新手，写着一些连自己都不理解的破解代码。” 9月16日，PS5 Linux核心开发者Andy Nguyen在X上写下这段话，随后宣布退出整个PS5圈子，停止自己在PS5 Linux上的全部开发工作。PS5 Linux是一个开源项目，其加载器代码已采用GPL 3.0许可证发布在GitHub。 “我为这个项目倾注了全部心血，投入了几个月的人生，原本还计划完成对PS5 Pro的支持，并在2027年发布。现在这一切都打了水漂。” 让他彻底放弃的，是一群被他称作“slop kiddies”（AI垃圾小鬼）的人。他们用LLM找到了PS5仅存的那个虚拟机监控器漏洞，然后把它报告给了索尼，领走了赏金。这个漏洞，Nguyen自己也早就发现了。他一直没有上报，想把它留到《GTA 6》发售之后——让玩家有机会合法买到新游戏，同时还能继续用Linux。 Nguyen称，他曾请求对方至少等到《GTA 6》发售，对方也答应了。 “连一天都没过去，他们就决定把这个漏洞白白浪费掉。” 1开喷的人，真的有资格看不起“AI菜鸟” Andy Nguyen在安全研究圈的名字是TheFlow，在P",
     "publishedAt": "2026-09-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1789694837000",
-    "title": "全产业链产能竞速、订单落地、政策加码，钠电迎来磷酸铁锂时刻？｜行业风向标",
-    "link": "https://www.tmtpost.com/8144274.html",
-    "summary": "目前只看到一个清晰的起跑信号。",
+    "id": "news--1789726567000",
+    "title": "赛力斯的真正考验，来了",
+    "link": "https://www.tmtpost.com/8144771.html",
+    "summary": "赛力斯面临哪些真正考验？又该如何应对？",
     "publishedAt": "2026-09-18",
     "source": "钛媒体",
     "tags": [
@@ -1050,4 +1050,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-18T03:00:11.930Z';
+export const dataFetchedAt = '2026-09-18T10:29:44.238Z';
