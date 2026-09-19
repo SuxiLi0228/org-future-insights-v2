@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos-1789779600000",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-ai-1789806875000",
-    "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-    "link": "https://www.qbitai.com/2026/09/492501.html",
-    "summary": "1000万，把才华送上真正的大舞台",
+    "id": "news-ai-1789818792000",
+    "title": "“留给人类阻止AI的时间不多了”",
+    "link": "https://www.qbitai.com/2026/09/492755.html",
+    "summary": "AI有可能终结我们所有人",
     "publishedAt": "2026-09-19",
     "source": "量子位",
     "tags": [
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789812024000",
-    "title": " 罗永浩说野人先生难吃，这次为什么没有像西贝那么火？ ",
-    "link": "https://www.huxiu.com/article/4892481.html?f=rss",
-    "summary": "本文来自微信公众号： 郭静的互联网圈 ，作者：郭静的互联网圈 距离罗永浩发布针对西贝的热辣点评一年后，西贝已失去了昔日的锐气。2026年年初，西贝即宣布关闭102家门店，而西贝在全国各地的关店，仍在零零散散地继续，西贝的官网首页，仍然挂着它们在2025年9月15日写的《西贝致歉信》。一年时间，西贝从370家门店，到现在只剩下200多家门店。 可能很多人都跟我一样，每次在商场里遇到西贝餐厅的时候，都会多看它一眼，似乎去年罗永浩与西贝贾国龙话题的影子会倏然而过，当时，人为什么会那样？ 配图为路过西贝餐厅时拍摄 毫无疑问，一切都回不去了，哪怕贾国龙再怎么努力，人们也回不到过去，毕竟，人不会主动承认自己“错了”，西贝成了当时流量狂欢和情绪上头的牺牲品，人们把对情绪上头的愧疚留在了心头。 2026年9月12日，罗永浩又在社交网络上发了一段评价：“在机场试了一下，暴得大名的野人先生很一般啊，考虑到价格，甚至可以说难吃。它是怎么火起来的？【善意提示：这是一个消费者的正常评价和疑问，请千万不要惹我，然后说我下黑手之类的】感觉比钟薛高难吃多了，怀念钟薛高。” 作为一位拥有510.9万粉丝的大V，罗永浩的热辣点评又一次让冰淇淋品牌野人先生上了热搜。不过，这次与去年西贝所不同的是，罗永浩的点评刚发出没多久，就有一众网友提醒野人先生，“不要回答，不要回答，不要回答”。 去年罗永浩点评西贝，全网爆火，多家媒",
+    "id": "news-ai-1789827771000",
+    "title": " “出错是生命的特征”：一场不完美的AI音乐会，打开了什么？ ",
+    "link": "https://www.huxiu.com/article/4892505.html?f=rss",
+    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 AI虚拟偶像已经进化到可以开线下音乐会了。 2026年9月11日晚，上海外滩大会。百米巨幕亮起，10K AI影像铺展在舞台上。AI虚拟偶像Yuri站在光影中央，与独立民谣组合“房东的猫”、上海惠立幼儿园合唱团、民乐演奏家、即梦AI数字人Aura同台表演。 没有椅子，没有座位号，几千名观众几乎是站着看完了一个多小时的演出。这场活动被称为“国内首场AI艺人线下音乐会”，也是国内首位获得官方数字人身份认证的AI虚拟偶像的全球线下首演。 它有一个极具象征意义的开场白。Yuri对全场观众说：“今天如果有错漏的地方，请尽情地、放开地笑。完美是机器的本分，出错是生命的特征。” 演出确实“不完美”。Yuri的创造者赵汗青坦承了多处失误：开场视频中AI生成的六指画面、舞蹈机器人临场“罢工”、仿真机器人因信号问题拒绝开口唱歌。音乐会开始当天凌晨四点半，主创们还在现场为节目效果争执。临开场前，赵汗青临时给了一段Prompt：“Yuri你自己想一个结尾吧，说一句上海话。”全程只花了15分钟。 AI虚拟偶像开线下音乐会并非孤例。今年7月北京国家体育馆“2026无限共鸣·纯蓝幻乐”演唱会，以5个篇章、35首歌曲与万人同唱，嘉宾龚琳娜与洛天依共同演绎《唱山》，成为虚拟偶像登上万人体育馆的标志性事件。 据Global Market Insights报告，全球",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1789810507000",
-    "title": "下一个赛道，AI手机？",
-    "link": "https://www.tmtpost.com/8145785.html",
-    "summary": "全民AI手机，尚未可知。",
+    "id": "news--1789814005000",
+    "title": "自变量机器人，还没证明自己",
+    "link": "https://www.tmtpost.com/8145140.html",
+    "summary": "过度标榜，不太明智。",
     "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tilly-norwood-8217-s-press-tour-is-going-about-as-well-as-yo-1789776727000",
-    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "id": "news-ai-safety-conversations-have-gotten-unbelievable-1789830000000",
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -120,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789806531000",
-    "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-    "link": "https://www.qbitai.com/2026/09/492476.html",
-    "summary": "CANN跨过拐点，华为补上软件生态",
+    "id": "news-ing-1789818486000",
+    "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+    "link": "https://www.qbitai.com/2026/09/492661.html",
+    "summary": "老马想买倒闭公司数据为哪般",
     "publishedAt": "2026-09-19",
     "source": "量子位",
     "tags": [
@@ -133,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-97-1789810885000",
-    "title": " 五年暴跌97%，全市场最差的赛道 ",
-    "link": "https://www.huxiu.com/article/4892478.html?f=rss",
-    "summary": "本文来自微信公众号： 格隆汇APP ，作者：独行侠 2026年9月17日，港股上市公司九毛九盘中最低下探至0.985港元，与公司名字形成了一种让人笑不出来的巧合。截至收盘，股价报1.03港元，总市值仅剩13.78亿港元。 五年前，2021年初，这只股票突破38港元，市值超过500亿港元。 从38块到9毛9，从500亿市值到13.78亿市值，跌幅超过97%。即使是以IPO发行价6.6港元来算，跌幅也达到了85%。 这不是九毛九一家的故事。 呷哺呷哺，巅峰期近300亿港元市值，到2026年3月股价在0.6港元附近徘徊，市值缩水超98%，沦为仙股。五年连续亏损，累计亏损额超15亿元，资产负债率高达92%。 海底捞，巅峰市值超4500亿港元，2026年9月9日因创始人张勇的妻子舒萍通过大宗交易减持2.59亿股、套现约27.5亿港元，当日股价暴跌9.14%，市值降至576亿港元。 一级市场同样冰封。2026年截至8月26日，港股共有103家公司完成上市，科技公司占比超过一半，餐饮类企业年内尚无一家成功上市。老乡鸡、袁记食品、巴奴国际、钱大妈、极物思维、比格披萨六家餐饮企业，三家招股书失效，三家重新递表。 这可以算是一个全股市找不出比它更差劲，即使股神巴菲特来了，也要连夜提桶跑路的行业了。 01 所有行业的估值天花板，都由宏观环境和用户习惯决定，餐饮更是如此。 此前资本市场给连锁餐饮高估值，核",
+    "id": "news--1789826885000",
+    "title": " 中国人爱护草坪才踢不进世界杯？老外意林令老中一脸问号 ",
+    "link": "https://www.huxiu.com/article/4892503.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 中国男足大概这辈子都想不到，有朝一日，会有一群老外认真为他们辩护：中国踢不进世界杯，是因为他们不想。 在流传的外网评论截图里，有人说，中国人从小被教育不能践踏草坪；也有人认为，中国要成为世界第一经济强国，足球没那么重要。 甚至还有老外搬出了阴谋论：中国足球实力太强，被禁止参赛了！ 在很多老外心目中，中国综合国力那么强，又有14亿人口，怎么可能找不出几个会踢足球的人。所以踢不进世界杯，一定是另有原因。 “待我入关，自有大儒为我辩经”，果然，还是实力决定话语权啊！ 01.老外的意林文学 美国博主Cyrus Janssen在广州吃了一顿21.6元的烧味饭。餐盘里有米饭、几样肉和蔬菜，旁边放着小票。他拍下照片，发到X上，称赞这顿饭新鲜、便宜、分量适中，能提供碳水、蛋白质和蔬菜。 接着，他谈到了美国的肥胖问题。他把中式饮食与中美平均寿命联系起来，认为改善饮食习惯，就能让美国的肥胖问题一夜之间得到解决。 翻看他的其他文章，会发现这并非一次偶然的感慨。去年，他在社交平台发表了《我从中国学到的五课》，总结自己两个月中国之行的见闻。从空气质量、电动车，写到中国品牌和科技创新，几乎每一项后面，都跟着对美国的比较。 他注意到街上的新能源车越来越多，想到美国道路上依然常见的燃油车；他逛中国咖啡店，又谈起自己曾经长期持有的星巴克股票。在他看来，中国品牌口",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789810502000",
-    "title": "AI入侵危机的安全深思",
-    "link": "https://www.tmtpost.com/8145786.html",
-    "summary": "AI安全，刻不容缓。",
+    "id": "news--1789813999000",
+    "title": "重金请“顶流”王一博代言，扬子江药业的增长焦虑藏不住？",
+    "link": "https://www.tmtpost.com/8145193.html",
+    "summary": "高调的品牌动作背后，是老牌药企的转型压力。",
     "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
@@ -172,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-startup-that-builds-other-startups-raised-100m-and-is-all--1789773901000",
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-    "publishedAt": "2026-09-18",
+    "id": "news-vals-backed-by-andreessen-horowitz-is-looking-to-become-the--1789822800000",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -199,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sair-foundation-1789800242000",
-    "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-    "link": "https://www.qbitai.com/2026/09/492467.html",
-    "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+    "id": "news-27b-qwen-3-8-1789818192000",
+    "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+    "link": "https://www.qbitai.com/2026/09/492573.html",
+    "summary": "设计、前端一口气全干了，结果后端没来上班",
     "publishedAt": "2026-09-19",
     "source": "量子位",
     "tags": [
@@ -212,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789809407000",
-    "title": " 把空置的学校改成养老院，真的是一个“天才”设计吗？ ",
-    "link": "https://www.huxiu.com/article/4892477.html?f=rss",
-    "summary": "本文来自微信公众号： 飞常洞察 ，作者：防冷涂的蜡 最近，闲置学校、幼儿园转为养老设施，正在成为公共资产盘活的一条路径。把两组人口数据放在一起，这个方案几乎有一种令人难以拒绝的合理性。 教育部数据显示，2025年全国普通小学12.83万所，当年招生1461.74万人，毕业生却达到1860.51万人。一年里，离开小学的孩子比新入学的多了近400万。随着规模更小的出生人口陆续进入学龄阶段，一批过去围绕儿童配置的教育设施，开始面对新的利用问题。 另一端，2025年全国60岁及以上人口已经达到3.23亿，占总人口23%。老年人口继续增加，家庭对助餐、康复、护理和日常照料的需求也在扩大。孩子越来越少，老人越来越多，两条人口曲线恰好把闲置校舍和养老需求推到了一起。 更巧的是，学校本身就很适合拿来改。土地、教学楼、食堂、操场和公共空间都已经存在，不少幼儿园、小学就在居民区内部。与重新拿地、重新建设相比，利用现有校舍，可以省下一部分土地和主体建筑投入，也能让一项闲置公共资产重新进入使用。 政策也在为这种转换创造条件。2026年的自然资源要素保障政策鼓励利用闲置学校等存量房屋增加养老设施，符合条件的项目可以享受五年过渡期，继续沿用原来的土地用途和权利类型。少了一批孩子，多了一批老人；空出一所学校，刚好又多了一处可以承接养老服务的空间。 如果只看人口和资产，这确实像一个近乎完美的设计。但真正进入改造和",
+    "id": "news--1789826309000",
+    "title": " 孟学者：绕开印度之后，“中缅孟经济走廊”为何仍难推进？ ",
+    "link": "https://www.huxiu.com/article/4892501.html?f=rss",
+    "summary": "本文来自微信公众号： 南亚研究通讯 ，编译：|王娇杨，作者：希梅尔·拉赫曼，原文标题：《编译 | 孟学者：绕开印度之后，“中缅孟经济走廊”为何仍难推进？》 编者按 2026年6月，中孟领导人在北京会晤，会晤官方通稿中明确写入：“推进中缅孟经济走廊建设，加强地区互联互通”。本文据此追问一个更基础的问题：在缅甸政治与安全高度碎片化的环境下，这条走廊能否成为稳定运行的跨境通道？作者结论明确：短期内尚不具备条件。真正的制约不在基础设施建设能力，而在持续内战、领土控制碎片化、族群冲突、大国介入和罗兴亚人问题。“中缅孟经济走廊”虽排除印度，减少了中印战略竞争造成的一重摩擦，却仍无法绕过缅甸这一“破碎带”。当前，缅甸内部权威高度碎片化，又叠加外部大国竞争，国家难以对领土实施稳定有效的控制。军方目前仅控制约20%—33%的国土，佤邦、果敢、钦邦、若开等地则由不同武装力量控制，而走廊规划路线又需经过若开、掸邦等冲突活跃地区。与此同时，罗兴亚人问题构成缅孟关系中的另一重政治障碍。归根结底，跨境基础设施首先是政治秩序问题，其次才是工程和经济问题。南亚研究通讯特编译此文，供各位读者批判参考。 2026年6月26日，孟加拉国总理塔里克·拉赫曼（Tarique Rahman）与中方领导人举行会晤。会上，中方提议建设“中缅孟经济走廊”（BCMEC）。这是一条区域性互联互通网络，将作为“一带一路”倡议的重要组成部",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
@@ -225,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-anthropic-10-ipo-openai-1-2-1789809380000",
-    "title": "【数智周报】智谱AI道歉；Anthropic被曝选定纳斯达克上市，目标10月IPO；OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元",
-    "link": "https://www.tmtpost.com/8145775.html",
-    "summary": "（9 月 14 日-19 日）华为郭平：对于ICT业务及计算领域，华为的目标是成为英伟达；华为汪涛：10万卡以上超节点集群在2027年将成为基础配置；字节跳动CEO梁汝波：豆包、飞书与火山引擎整合后，将加大企业市场投入；英伟达黄仁勋：预计明年芯片销量约为今年两倍......",
+    "id": "news-118-tiktok-1789813920000",
+    "title": "半年卖了118亿美元，TikTok正在美国再造“抖音电商”",
+    "link": "https://www.tmtpost.com/8145553.html",
+    "summary": "TikTok电商增长潜力巨大。",
     "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
@@ -251,11 +252,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-is-operating-a-lab-that-conducts-biology-experimen-1789773211000",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "publishedAt": "2026-09-18",
+    "id": "news-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos-1789779600000",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -278,10 +279,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789799972000",
-    "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-    "link": "https://www.qbitai.com/2026/09/492429.html",
-    "summary": "同一预测核心，跨七类系统验证",
+    "id": "news-nature-ai-1900-1789817771000",
+    "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+    "link": "https://www.qbitai.com/2026/09/492550.html",
+    "summary": "AI能否提出相对论？",
     "publishedAt": "2026-09-19",
     "source": "量子位",
     "tags": [
@@ -291,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789805794000",
-    "title": " 国产面板激战正酣：从替代到分岔 ",
-    "link": "https://www.huxiu.com/article/4892473.html?f=rss",
-    "summary": "本文来自微信公众号： 科工力量 ，作者：科工力量 显示面板产业传了几个月的涨价预期，在9月正式落地。 9月14日至16日，TCL华星、京东方、惠科先后向客户正式发出调价通知。TCL华星决定上调部分显示面板产品价格，惠科对部分LCD面板提价，京东方则计划从第四季度开始调整报价。三星、LG、索尼等全球电视厂商，都在这轮调价涉及的客户范围内。 惠科调价通知（来源网络） 如果只看成本，这并不难理解。三家公司给出的理由大致相同：玻璃基板、驱动芯片、PCB等上游材料上涨，已经很难完全由面板厂自行消化。AVC统计，今年一季度PCB上涨约5%，化学品和靶材上涨5%—10%，带动面板整体BOM成本环比增加约2%；二、三季度，PCB和驱动IC仍有涨价压力。 但更值得注意的是涨价发生的时点。奥维睿沃预计，世界杯备货结束后，2026年第三季度全球电视出货量将同比下降约3%。需求并不强，头部面板厂却开始向下游传导成本，说明行业的供给格局已经和十年前不同。 2026年上半年，京东方、TCL华星、惠科在全球LCD电视面板市场的份额分别达到27%、24.5%和15.8%，三家合计超过三分之二；中国大陆面板厂整体份额达到72.4%。涨价的底气，是过去长期靠扩产和价格战抢订单的LCD产业，正在进入一个更集中、也更看重产能纪律的阶段。 涨价的资格，是三星退场者们让出来的 这轮涨价的直接触发器是成本，但把成本传给客户的底",
+    "id": "news-3-13-6-1789826093000",
+    "title": " “请3休13”火了，国庆多出来的6天游客这样过 ",
+    "link": "https://www.huxiu.com/article/4892500.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：陈怡轩 今年中秋和国庆之间，只隔了三个工作日。 中秋假期结束后，请9月28日-30日三天年假，可以直接接上国庆假期。“请3休13”成为今年双节最热门的拼假方式之一。 已经有人真的这样做了。 携程数据显示，每十位游客中就有一位将中秋、国庆合并连休，近半数连休游客出游时长超过8天。连休人群目的地榜单中，上海、北京、广州等一线及区域中心城市仍位居前列，昆明、乌鲁木齐等远途城市跻身前十。 途牛的数据也显示，在已预订的双节行程中，10天及以上行程占比达到26%；超过35%的国庆团期游客选择提前出发。 多出来的6天，游客准备怎么花？ 把时间换成距离 今年中秋国庆，长距离旅行率先升温。 去哪儿旅行告诉界面新闻，截至9月16日，热门2000公里以上航线预订量同比翻番。其中，西宁至广州、乌鲁木齐至南京航线票量同比增长超过2倍，昆明至大连也实现翻倍增长。 新疆是其中一个典型目的地。有游客计划利用13天假期，从乌鲁木齐一路自驾到喀什。“过去受假期长度限制，一直想走的独库公路没有成行，今年终于可以安排完整线路。” 租车自驾也火了。租租车发布的《2026国庆自驾出行风向标》显示，今年平台取车高峰从去年的10月1日前移至9月25日，峰值日取车量同比增长六成。新疆、四川、云南、贵州等西部省份成为长途自驾热门地区。 还有人把多出来的时间，换成了一趟更远的出境游旅行。过去需要",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
@@ -304,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789806486000",
-    "title": "姚星丞之后，AI人才的中间层开始掉价",
-    "link": "https://www.tmtpost.com/8145649.html",
-    "summary": "AI人才的价值正在向两端集中，中间层的稀缺性开始消退。",
+    "id": "news--1789813654000",
+    "title": "宇树上市满月，终于止跌了",
+    "link": "https://www.tmtpost.com/8145787.html",
+    "summary": "虽然止跌了，但想回归还需要时间和契机。",
     "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
@@ -331,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-hallucination-nearly-triggers-us-military-operation-1789773152000",
-    "title": "AI hallucination nearly triggers US military operation",
-    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-    "publishedAt": "2026-09-18",
+    "id": "news-tilly-norwood-8217-s-press-tour-is-going-about-as-well-as-yo-1789776727000",
+    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -359,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789747101000",
-    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-    "link": "https://www.qbitai.com/2026/09/492426.html",
-    "summary": "协同布局AI基础设施",
-    "publishedAt": "2026-09-18",
+    "id": "news-200-ai-1789806875000",
+    "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+    "link": "https://www.qbitai.com/2026/09/492501.html",
+    "summary": "1000万，把才华送上真正的大舞台",
+    "publishedAt": "2026-09-19",
     "source": "量子位",
     "tags": [
       "china",
@@ -372,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789805565000",
-    "title": " “不是观众抛弃了电影, 是电影先抛弃了观众”: 一位文艺批评者的反戈一击 ",
-    "link": "https://www.huxiu.com/article/4892472.html?f=rss",
-    "summary": "本文来自微信公众号： 文化纵横 ，编辑：郑亦祐标题｜渡波，作者：刘复生 【导读】这些年，中国电影并不缺大投资、大制作和成熟的工业流程，真正稀缺的，或许恰恰是生活。 在刘复生看来，《给阿嬷的情书》的意外走红，值得关注的并不只是票房意义上的“以小博大”。它更像一次对既有电影生产逻辑的反拨：当行业越来越相信数据、IP、流量和已经被验证过的成功模式，电影也越来越容易陷入套路与复制之中，与普通人的真实经验渐行渐远。作者将这种状态称为电影产业的“中等发展陷阱”，并认为《阿嬷》的出现，提供了另一种突围的可能。 这条路首先回到了“人”。电影里的南洋移民、家书、邻里互助和普通人的悲欢，并没有依靠强烈的戏剧奇观推动。刘复生将“情义、共情和侠义”概括为理解影片的重要线索，并由此追溯到中国传统中关于仁义、责任和人与人之间关系的价值想象。在他的理解中，《阿嬷》真正接续的，并不仅是一种地方文化，而是一套曾经深深存在于中国电影中的情感传统。 文章由此回望百年中国电影。过去的中国电影曾经长期把镜头对准小人物、家庭与基层社会，从20世纪三四十年代的左翼电影，到后来不同阶段的现实主义创作，普通人的生活一直是重要的叙事资源。而在作者看来，90年代以来，随着文化工业的发展，银幕上的主人公越来越远离普通人的生活，《阿嬷》恰恰重新把摄影机放回了人群之中。 但刘复生讨论的并不只是“拍什么”，还有“怎么拍”。方言、实景、非职业演",
+    "id": "news--1789823293000",
+    "title": " 又一内地明星被造黄谣，这次全网却在吃瓜 ",
+    "link": "https://www.huxiu.com/article/4892496.html?f=rss",
+    "summary": "本文来自微信公众号： 独立鱼电影 ，作者：鱼叔 又一个内地明星，被造黄谣了。 只是这一次，很多人的第一反应，不是愤怒。 而是，哈哈哈哈哈哈。 最近网上突然流传一批所谓「聊天记录」。 内容非常私密。 大意是，有一名当红男明星在上海接受私密部位医美注射，结果发生严重医疗事故。 随后，网友开始根据各种所谓「线索」猜人。 最后，矛头指向了王鹤棣。 然后，热搜来了。 段子来了，表情包来了。 各种黄色玩笑，也来了。 事情很快发展到一个很荒诞的程度。 没有病历，没有影像，没有当事医生。 甚至一开始连名字都没有，只有几张不知道从哪来的聊天截图。 但一个人的私密身体状况，已经被全网讨论得像公开财报。 更重要的是，目前公开信息已经相当明确。 王鹤棣工作室称相关聊天记录系恶意捏造，已经完成取证并报警； 被卷入传闻的上海医疗机构也公开表示，王鹤棣从未在该机构就医。 所以，这件事真正值得聊的，已经不是王鹤棣到底有没有怎样。 而是，为什么一个男人被造黄谣，大家会觉得这么好笑？ 这事，其实很有意思。 因为如果把性别换一下，舆论氛围很可能完全不同。 一个女明星，突然被人造谣做了某种私密手术。 再编造她的性经历、身体细节、私生活。 下面如果还有几十万人哈哈大笑，大部分人就会意识到「这不对」。 这是荡妇羞辱，这是性骚扰。 这是侵犯隐私，这是黄谣。 但对象换成男明星，整个事情会突然发生一次奇妙的「降级」。 从网络暴力，",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
@@ -385,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-300-1789806480000",
-    "title": "AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位",
-    "link": "https://www.tmtpost.com/8145624.html",
-    "summary": "风口之上的AI猎头赚麻了。",
+    "id": "news-ai-1789810507000",
+    "title": "下一个赛道，AI手机？",
+    "link": "https://www.tmtpost.com/8145785.html",
+    "summary": "全民AI手机，尚未可知。",
     "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
@@ -1046,4 +1047,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-19T10:14:56.933Z';
+export const dataFetchedAt = '2026-09-19T15:17:10.777Z';
