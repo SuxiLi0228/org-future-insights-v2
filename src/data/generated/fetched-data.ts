@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "id": "news-trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also--1789847867000",
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -54,17 +54,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789827771000",
-    "title": " “出错是生命的特征”：一场不完美的AI音乐会，打开了什么？ ",
-    "link": "https://www.huxiu.com/article/4892505.html?f=rss",
-    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 AI虚拟偶像已经进化到可以开线下音乐会了。 2026年9月11日晚，上海外滩大会。百米巨幕亮起，10K AI影像铺展在舞台上。AI虚拟偶像Yuri站在光影中央，与独立民谣组合“房东的猫”、上海惠立幼儿园合唱团、民乐演奏家、即梦AI数字人Aura同台表演。 没有椅子，没有座位号，几千名观众几乎是站着看完了一个多小时的演出。这场活动被称为“国内首场AI艺人线下音乐会”，也是国内首位获得官方数字人身份认证的AI虚拟偶像的全球线下首演。 它有一个极具象征意义的开场白。Yuri对全场观众说：“今天如果有错漏的地方，请尽情地、放开地笑。完美是机器的本分，出错是生命的特征。” 演出确实“不完美”。Yuri的创造者赵汗青坦承了多处失误：开场视频中AI生成的六指画面、舞蹈机器人临场“罢工”、仿真机器人因信号问题拒绝开口唱歌。音乐会开始当天凌晨四点半，主创们还在现场为节目效果争执。临开场前，赵汗青临时给了一段Prompt：“Yuri你自己想一个结尾吧，说一句上海话。”全程只花了15分钟。 AI虚拟偶像开线下音乐会并非孤例。今年7月北京国家体育馆“2026无限共鸣·纯蓝幻乐”演唱会，以5个篇章、35首歌曲与万人同唱，嘉宾龚琳娜与洛天依共同演绎《唱山》，成为虚拟偶像登上万人体育馆的标志性事件。 据Global Market Insights报告，全球",
+    "id": "news--1789835438000",
+    "title": " 宁德时代，被理想小米塞回车底 ",
+    "link": "https://www.huxiu.com/article/4892512.html?f=rss",
+    "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 理想刚刚换掉电池供应商，还没等到新电池完成产能爬坡，消费者的反弹就先一步到来。 9月，一位河南消费者花5000元锁定了一辆售价50.98万元的新款理想MEGA。后来得知这辆车搭载的已经不是宁德时代电池，她决定退订，并要求退还5000元定金。 理想没有同意，理由也很简单。理想官方已经公告，9月7日当天15点以后锁单的新一代MEGA，将从宁德时代5C三元锂电池切换至理想自研5C三元锂电池。后者由理想负责电芯、Pack和BMS体系研发，电芯交由合作伙伴制造。 消费者不愿接受这个变化，双方因为一块电池，把一笔50万元的汽车订单推到了媒体面前。协商未果后，消费者找到河南经济报旗下“小莉帮忙”介入协调。 这场围绕电池的争议，正在出现车企没有预料到的一面。 理想郑州工作人员解释称，“电池品牌不算核心卖点，不知道用户在意。”截至报道时，双方仍在协商。 单看这次纷争，不难理解双方的立场。车企认为，消费者买的是理想，不是宁德时代。整车的性能、质量和售后，也都应该由理想负责。 但市场给出的反馈，和车企想的不太一样。 尼尔森IQ近期发布的《2026年全球新能源车消费者研究报告》，经上观新闻等媒体转述，在中国消费者的购车因素中，动力电池权重达到13.8%，仅次于整车安全；37.1%的中国受访者表示，如果看中的车型没有搭载宁德时代电池，会放弃购买。 原本",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -94,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-safety-conversations-have-gotten-unbelievable-1789830000000",
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -134,16 +133,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789826885000",
-    "title": " 中国人爱护草坪才踢不进世界杯？老外意林令老中一脸问号 ",
-    "link": "https://www.huxiu.com/article/4892503.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 中国男足大概这辈子都想不到，有朝一日，会有一群老外认真为他们辩护：中国踢不进世界杯，是因为他们不想。 在流传的外网评论截图里，有人说，中国人从小被教育不能践踏草坪；也有人认为，中国要成为世界第一经济强国，足球没那么重要。 甚至还有老外搬出了阴谋论：中国足球实力太强，被禁止参赛了！ 在很多老外心目中，中国综合国力那么强，又有14亿人口，怎么可能找不出几个会踢足球的人。所以踢不进世界杯，一定是另有原因。 “待我入关，自有大儒为我辩经”，果然，还是实力决定话语权啊！ 01.老外的意林文学 美国博主Cyrus Janssen在广州吃了一顿21.6元的烧味饭。餐盘里有米饭、几样肉和蔬菜，旁边放着小票。他拍下照片，发到X上，称赞这顿饭新鲜、便宜、分量适中，能提供碳水、蛋白质和蔬菜。 接着，他谈到了美国的肥胖问题。他把中式饮食与中美平均寿命联系起来，认为改善饮食习惯，就能让美国的肥胖问题一夜之间得到解决。 翻看他的其他文章，会发现这并非一次偶然的感慨。去年，他在社交平台发表了《我从中国学到的五课》，总结自己两个月中国之行的见闻。从空气质量、电动车，写到中国品牌和科技创新，几乎每一项后面，都跟着对美国的比较。 他注意到街上的新能源车越来越多，想到美国道路上依然常见的燃油车；他逛中国咖啡店，又谈起自己曾经长期持有的星巴克股票。在他看来，中国品牌口",
+    "id": "news--1789833998000",
+    "title": " 结论别太满 ",
+    "link": "https://www.huxiu.com/article/4892513.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 当AI能在一分钟内给出十个看起来都对的答案，人真正稀缺的能力，开始变成看见答案成立的条件。 -- 现在最容易生产出来的东西，可能就是结论。 问AI要不要换工作，它可以给你一套职业分析；问一段关系要不要结束，它能把“离开”和“再等等”的理由都写得很充分；问一个行业值不值得做，它会迅速列出机会、风险、趋势和建议。 每一套都像对的。 这才是问题。 过去，我们以为判断失误，是因为信息不够，知识太少，没问到专家。 现在，信息极多，观点极多，模型极多。AI甚至能替你把每一种观点都说圆。 可人没有因此更容易做决定。 相反，很多人第一次感觉到：答案多到一定程度，答案本身就不再稀缺了。 真正昂贵的，是另一个问题： 这个答案，到底在什么条件下成立？ 写完上篇文章之后，我忽然想到了一个金句： 结论别太满。 不是因为人应该永远谦虚、永远不表态。 而是因为每一个看起来斩钉截铁的结论背后，都藏着一组没写出来的条件。 而那些条件，往往才决定了结论是否还有效。 01人生不是一道求最优解的题 我们受过的教育，很容易让人误以为：只要足够聪明、足够努力、足够多看资料，总能找到一个最优解。 这在一部分问题里是成立的。 规则清楚，选项清楚，概率大致稳定，结果也能被衡量。比如算账、考试、流程优化、工程计算。这类问题可以不断逼近最优。 可人生中真正让人犹豫的问题，通常不是",
     "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -173,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vals-backed-by-andreessen-horowitz-is-looking-to-become-the--1789822800000",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "id": "news-the-us-navy-just-told-us-what-8217-s-on-its-tech-wish-list-f-1789837200000",
+    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
+    "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -213,19 +213,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789826309000",
-    "title": " 孟学者：绕开印度之后，“中缅孟经济走廊”为何仍难推进？ ",
-    "link": "https://www.huxiu.com/article/4892501.html?f=rss",
-    "summary": "本文来自微信公众号： 南亚研究通讯 ，编译：|王娇杨，作者：希梅尔·拉赫曼，原文标题：《编译 | 孟学者：绕开印度之后，“中缅孟经济走廊”为何仍难推进？》 编者按 2026年6月，中孟领导人在北京会晤，会晤官方通稿中明确写入：“推进中缅孟经济走廊建设，加强地区互联互通”。本文据此追问一个更基础的问题：在缅甸政治与安全高度碎片化的环境下，这条走廊能否成为稳定运行的跨境通道？作者结论明确：短期内尚不具备条件。真正的制约不在基础设施建设能力，而在持续内战、领土控制碎片化、族群冲突、大国介入和罗兴亚人问题。“中缅孟经济走廊”虽排除印度，减少了中印战略竞争造成的一重摩擦，却仍无法绕过缅甸这一“破碎带”。当前，缅甸内部权威高度碎片化，又叠加外部大国竞争，国家难以对领土实施稳定有效的控制。军方目前仅控制约20%—33%的国土，佤邦、果敢、钦邦、若开等地则由不同武装力量控制，而走廊规划路线又需经过若开、掸邦等冲突活跃地区。与此同时，罗兴亚人问题构成缅孟关系中的另一重政治障碍。归根结底，跨境基础设施首先是政治秩序问题，其次才是工程和经济问题。南亚研究通讯特编译此文，供各位读者批判参考。 2026年6月26日，孟加拉国总理塔里克·拉赫曼（Tarique Rahman）与中方领导人举行会晤。会上，中方提议建设“中缅孟经济走廊”（BCMEC）。这是一条区域性互联互通网络，将作为“一带一路”倡议的重要组成部",
-    "publishedAt": "2026-09-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-118-tiktok-1789813920000",
     "title": "半年卖了118亿美元，TikTok正在美国再造“抖音电商”",
     "link": "https://www.tmtpost.com/8145553.html",
@@ -252,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos-1789779600000",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -292,19 +279,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-13-6-1789826093000",
-    "title": " “请3休13”火了，国庆多出来的6天游客这样过 ",
-    "link": "https://www.huxiu.com/article/4892500.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：陈怡轩 今年中秋和国庆之间，只隔了三个工作日。 中秋假期结束后，请9月28日-30日三天年假，可以直接接上国庆假期。“请3休13”成为今年双节最热门的拼假方式之一。 已经有人真的这样做了。 携程数据显示，每十位游客中就有一位将中秋、国庆合并连休，近半数连休游客出游时长超过8天。连休人群目的地榜单中，上海、北京、广州等一线及区域中心城市仍位居前列，昆明、乌鲁木齐等远途城市跻身前十。 途牛的数据也显示，在已预订的双节行程中，10天及以上行程占比达到26%；超过35%的国庆团期游客选择提前出发。 多出来的6天，游客准备怎么花？ 把时间换成距离 今年中秋国庆，长距离旅行率先升温。 去哪儿旅行告诉界面新闻，截至9月16日，热门2000公里以上航线预订量同比翻番。其中，西宁至广州、乌鲁木齐至南京航线票量同比增长超过2倍，昆明至大连也实现翻倍增长。 新疆是其中一个典型目的地。有游客计划利用13天假期，从乌鲁木齐一路自驾到喀什。“过去受假期长度限制，一直想走的独库公路没有成行，今年终于可以安排完整线路。” 租车自驾也火了。租租车发布的《2026国庆自驾出行风向标》显示，今年平台取车高峰从去年的10月1日前移至9月25日，峰值日取车量同比增长六成。新疆、四川、云南、贵州等西部省份成为长途自驾热门地区。 还有人把多出来的时间，换成了一趟更远的出境游旅行。过去需要",
-    "publishedAt": "2026-09-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1789813654000",
     "title": "宇树上市满月，终于止跌了",
     "link": "https://www.tmtpost.com/8145787.html",
@@ -332,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tilly-norwood-8217-s-press-tour-is-going-about-as-well-as-yo-1789776727000",
-    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "id": "news-ai-safety-conversations-have-gotten-unbelievable-1789830000000",
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -369,19 +343,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789823293000",
-    "title": " 又一内地明星被造黄谣，这次全网却在吃瓜 ",
-    "link": "https://www.huxiu.com/article/4892496.html?f=rss",
-    "summary": "本文来自微信公众号： 独立鱼电影 ，作者：鱼叔 又一个内地明星，被造黄谣了。 只是这一次，很多人的第一反应，不是愤怒。 而是，哈哈哈哈哈哈。 最近网上突然流传一批所谓「聊天记录」。 内容非常私密。 大意是，有一名当红男明星在上海接受私密部位医美注射，结果发生严重医疗事故。 随后，网友开始根据各种所谓「线索」猜人。 最后，矛头指向了王鹤棣。 然后，热搜来了。 段子来了，表情包来了。 各种黄色玩笑，也来了。 事情很快发展到一个很荒诞的程度。 没有病历，没有影像，没有当事医生。 甚至一开始连名字都没有，只有几张不知道从哪来的聊天截图。 但一个人的私密身体状况，已经被全网讨论得像公开财报。 更重要的是，目前公开信息已经相当明确。 王鹤棣工作室称相关聊天记录系恶意捏造，已经完成取证并报警； 被卷入传闻的上海医疗机构也公开表示，王鹤棣从未在该机构就医。 所以，这件事真正值得聊的，已经不是王鹤棣到底有没有怎样。 而是，为什么一个男人被造黄谣，大家会觉得这么好笑？ 这事，其实很有意思。 因为如果把性别换一下，舆论氛围很可能完全不同。 一个女明星，突然被人造谣做了某种私密手术。 再编造她的性经历、身体细节、私生活。 下面如果还有几十万人哈哈大笑，大部分人就会意识到「这不对」。 这是荡妇羞辱，这是性骚扰。 这是侵犯隐私，这是黄谣。 但对象换成男明星，整个事情会突然发生一次奇妙的「降级」。 从网络暴力，",
-    "publishedAt": "2026-09-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1047,4 +1008,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-19T15:17:10.777Z';
+export const dataFetchedAt = '2026-09-19T19:59:29.727Z';
