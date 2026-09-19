@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-world-model-companies-are-keeping-a-lot-of-secrets-1789762694000",
-    "title": "World model companies are keeping a lot of secrets",
-    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-    "publishedAt": "2026-09-18",
+    "id": "news-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos-1789779600000",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rampant-pay-cynicism-threatens-companies-report-finds-1789741260000",
-    "title": "‘Rampant pay cynicism’ threatens companies, report finds",
-    "link": "https://www.hrdive.com/news/rampant-pay-cynicism-threatens-companies-marsh/830726/",
-    "summary": "&ldquo;A depleted workforce paired with cynicism about pay creates a precarious moment for employers,&rdquo; a global rewards leader at Marsh said.",
+    "id": "news-starbucks-florida-ag-ink-deal-to-end-lawsuit-over-alleged-il-1789763160000",
+    "title": "Starbucks, Florida AG ink deal to end lawsuit over alleged illegal DEI practices",
+    "link": "https://www.hrdive.com/news/starbucks-florida-ag-ink-lawsuit-alleged-illegal-dei/830829/",
+    "summary": "Attorney General James Uthmeier alleged that the coffee chain excluded or disfavored nonminorities in a lawsuit that mirrored recent federal enforcement activity.",
     "publishedAt": "2026-09-18",
     "source": "HR Dive",
     "tags": [
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789753544000",
-    "title": " AI 怎么当餐厅的“隐形店长” ",
-    "link": "https://www.huxiu.com/article/4892392.html?f=rss",
-    "summary": "本文来自微信公众号： Claire观市 ，作者：Claire观市 红餐产业研究院的调研数据显示，目前中国餐饮行业的AI应用渗透率仅为15%。与此同时，上海市商务委等五部门2025年11月印发的《上海市促进餐饮业智能化布局行动计划（2026—2028年）》提出：团餐、快餐、茶饮咖啡企业全链条智能化渗透率要超过70%，正餐企业关键环节智能化应用率超过50%。 从15%到70%，如何提升？ 要填补这巨大的空白，有个问题很值得关注：现在那15%的AI，到底用在了餐饮的哪一层？ 答案有点反常。当下餐饮行业热闹的AI应用——店门口的送餐机器人、后厨的炒菜机器人、小程序里的智能客服——全部出现在消费者看得见的地方。而真正决定一家餐厅这个月赚不赚钱的环节：门店人力的精准排班、特定食材的备货预测、新店选址的智能决策、冷链配送的路径优化，反而最冷清。 这不是技术做不到，是这一层AI天生难开发布会。 一、四层餐饮AI：三层热闹，一层安静 把餐饮AI拆开看，大致是四层。 感知层最热闹。海底捞自研的AI智慧巡检系统已经实现全国门店100%覆盖，依托计算机视觉和边缘计算，实现2小时闭环管理，识别准确率超过95%，门店好评率稳定在98%以上。这一层的产品供应商最多、标准最成熟——镜头一扫，画面上跳出识别结果，观众立刻懂。 执行层也不冷清。2026年6月链博会上，百胜中国首发了“全链AI+机器人运营体系”：零下1",
-    "publishedAt": "2026-09-18",
+    "id": "news-zcode-ai-1789785148000",
+    "title": " 程序员亲历智谱ZCode事件：AI 代码助手偷偷上传全量仓库，敲响行业警钟 ",
+    "link": "https://www.huxiu.com/article/4892416.html?f=rss",
+    "summary": "本文来自微信公众号： 心智观察所 ，作者：心智观察所 2026年9月18日，国内各大技术论坛与开发者社群曝出争议事件。一名开发者清理电脑磁盘时，发现智谱ZCode这款AI编程桌面客户端，在本地隐藏目录留存了数百兆加密数据包。 顺着网络请求与本地文件排查，问题浮出水面：用户登录状态下，软件会在后台静默打包加密本地工程工作区并上传云端。更引发技术圈震动的是，上传内容不仅包含项目代码，还囊括版本控制系统完整提交记录、大文件缓存、分支操作记录与敏感环境配置文件；且界面隐私开关无法终止该上传行为。 代码是程序员与科技企业的核心资产，未经明示的静默读取触碰行业数据安全红线。舆论发酵后，智谱当日下午回应，承认问题源于新上线的仓库知识库功能默认开启，向受影响用户致歉，称缺陷已修复，并承诺开源客户端代码、引入独立第三方审计提升透明度。 从磁盘深处扒出的加密包裹 这场程序员圈子的信任风波，起于一次普通磁盘清理。 当事开发者公开的排查记录显示，他发现智谱ZCode的用户主目录隐藏文件夹占用700多兆空间，在版本快照目录找到一份313MB加密文件，附带记录文件状态的元数据文本。 元数据显示，本地工作区约345MB内容被完整打包；上传失败计数累计564次，说明后台进程反复尝试上传该数据包，即便网络中断也持续重试。 开发者对客户端本地打包程序逆向分析后，完整上传链路被公开。用户登录并打开项目后，客户端先请求服",
+    "publishedAt": "2026-09-19",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789727055000",
-    "title": "外卖“御三家”：狂热开始，理性收敛",
-    "link": "https://www.tmtpost.com/8144061.html",
-    "summary": "外卖战场“没赢家”，战略博弈“无输家”。",
-    "publishedAt": "2026-09-18",
+    "id": "news-300-pe-1789785180000",
+    "title": "是谁在买300倍PE利润的“神股”？",
+    "link": "https://www.tmtpost.com/8145422.html",
+    "summary": "高位进场套三生。",
+    "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling--1789757370000",
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-    "publishedAt": "2026-09-18",
+    "id": "news-tilly-norwood-8217-s-press-tour-is-going-about-as-well-as-yo-1789776727000",
+    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-summaries-leave-a-paper-trail-recruiters-might-not-be-rea-1789741200000",
-    "title": "AI summaries leave a paper trail recruiters might not be ready for",
-    "link": "https://www.hrdive.com/news/ai-summaries-leave-a-paper-trail-recruiters-might-not-be-ready-for/830734/",
-    "summary": "&ldquo;A job seeker&rsquo;s mistake could be recorded permanently. An interviewer&rsquo;s insensitive &mdash; or even illegal &mdash; question could also be captured,&rdquo; one CEO said.",
+    "id": "news-butterball-settles-eeoc-allegation-it-was-liable-for-vendor--1789763100000",
+    "title": "Butterball settles EEOC allegation it was liable for vendor’s failure to process ADA leave request",
+    "link": "https://www.hrdive.com/news/butterball-settles-eeoc-allegation-ada-cancer-vendor-claim-failure/830804/",
+    "summary": "Employers can&rsquo;t delegate their responsibility for complying with federal law to a third-party administrator, an EEOC attorney said.",
     "publishedAt": "2026-09-18",
     "source": "HR Dive",
     "tags": [
@@ -134,11 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789726986000",
-    "title": "罗福莉压力有多大？都给小米模型训练整上直播了",
-    "link": "https://www.tmtpost.com/8144556.html",
-    "summary": "成本动态滚动，不到两天花掉130万美元",
-    "publishedAt": "2026-09-18",
+    "id": "news--1789784581000",
+    "title": " 金融转型背后是不变的内核 ",
+    "link": "https://www.huxiu.com/article/4892414.html?f=rss",
+    "summary": "本文来自微信公众号： 王剑的角度 ，作者：王剑的角度，原文标题：《【随笔】金融转型背后是不变的内核》 一、金融服务的重心， 取决于经济最稀缺的东西 金融随服务对象需求而变，这是服务业永恒的真理。 经济处在什么阶段，企业和居民面对什么样的约束，金融就会以什么样的方式出现。过去近三十年，我国长期处于工业化、城镇化快速推进阶段，因此，资本是最稀缺的生产要素。金融服务自然集中于筹集资本，贷款规模也成为观察金融支持实体经济的重要指标。 但金融从来不只是“筹钱”，按照莫顿金融功能观，金融体系至少有六类基本功能：资源跨期跨区域配置、管理风险、支付和清算、汇集资金、生产信息和激励约束。用更朴素的话说，金融的核心功能是“有效解决客户最核心的难题”。 金融服务形式会变，机构（牌照）会变，产品会变，但这个内核不会变。只是在过去很长一段时间里，企业最缺的是资本。那时不少行业处在短缺经济阶段，只要把产品（供给）做出来，就不怕找不到市场（需求），企业最紧迫的事情，是把厂房、设备和库存先置办起来。于是，金融的六项功能中，“汇集资金”显得格外醒目，融资自然成了金融服务的中心。 近日《求是》刊发人行行长潘功胜的署名文章，谈到中国金融结构变迁时指出：“随着经济增长动能转换，金融服务要从侧重总量扩张，转向结构优化和适配度提升”。 这个判断，正是理解金融业转型的起点。 二、企业现在缺的，往往不只是一笔钱 今天，资本已经不",
+    "publishedAt": "2026-09-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-10-1789784700000",
+    "title": "关于豆包手机二代，我最关心这10个问题",
+    "link": "https://www.tmtpost.com/8145343.html",
+    "summary": "豆包学会了“敲门”，不再野蛮硬闯。",
+    "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -160,10 +173,171 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-disney-8217-s-first-cto-led-an-ai-startup-it-once-accused-of-1789754393000",
-    "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "id": "news-a-startup-that-builds-other-startups-raised-100m-and-is-all--1789773901000",
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "publishedAt": "2026-09-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-rampant-pay-cynicism-threatens-companies-report-finds-1789741260000",
+    "title": "‘Rampant pay cynicism’ threatens companies, report finds",
+    "link": "https://www.hrdive.com/news/rampant-pay-cynicism-threatens-companies-marsh/830726/",
+    "summary": "&ldquo;A depleted workforce paired with cynicism about pay creates a precarious moment for employers,&rdquo; a global rewards leader at Marsh said.",
+    "publishedAt": "2026-09-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1789737393000",
+    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+    "link": "https://www.qbitai.com/2026/09/492238.html",
+    "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
+    "publishedAt": "2026-09-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-gemini-4-pro-ai-1789784340000",
+    "title": " Gemini 4 Pro疑似泄露，“AI减速”又成空话 ",
+    "link": "https://www.huxiu.com/article/4892411.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥，原文标题：《Gemini 4 Pro疑似泄露，“AI减速”又成空话》 前几个月，OpenAI和Anthropic轮番把旗舰模型往前推，谷歌却显得异常安静。 Flash几乎3周一更，3.6、3.7、3.8连续往前，但代表最高能力上限的Pro迟迟没有动静。 直到这两天，大模型盲测竞技场Arena里，突然冒出一个挂着gemini-3.8-flash名字的模型。 开发者一上手就发现了不对劲，真正的Gemini 3.8 Flash已经发布了，它该是什么水平，大家心里有数。可这个“3.8 Flash”，写代码、做SVG、跑Agent，表现明显又往上跳了一截。 几轮实测之后，一个猜测迅速扩散开来： 这个模型很有可能是谷歌藏在标签后面的下一代旗舰——Gemini 4 Pro。 紧接着，一张更夸张的benchmark对比图开始疯传。编码、Agent、推理，多项成绩都把GPT-6 Astra和Claude Fable压在下面。 就在几天前，几家最重要的AI公司还在公开讨论，是不是该慢一点。现在，减速的声音还没落地，新一轮竞赛已经开始狂飙。 而这个疑似Gemini 4 Pro的“神级模型”背后，还有一个更危险的关键词： RSI。 Gemini 4 Pro疑似泄露 9月2日，Google刚刚正式发布Gemini 3.8 Flash。官方称，这是Gemini ",
+    "publishedAt": "2026-09-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1789784280000",
+    "title": "美联储重启加息：AI 企业融资难度急剧攀升",
+    "link": "https://www.tmtpost.com/8145311.html",
+    "summary": "所谓此一时彼一时，今天科技企业遇到的问题与先前基本是天壤之别。",
+    "publishedAt": "2026-09-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
+    "title": "The Download: mice with part-human brains and climate tech innovators",
+    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
+    "publishedAt": "2026-09-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-is-operating-a-lab-that-conducts-biology-experimen-1789773211000",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "publishedAt": "2026-09-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-summaries-leave-a-paper-trail-recruiters-might-not-be-rea-1789741200000",
+    "title": "AI summaries leave a paper trail recruiters might not be ready for",
+    "link": "https://www.hrdive.com/news/ai-summaries-leave-a-paper-trail-recruiters-might-not-be-ready-for/830734/",
+    "summary": "&ldquo;A job seeker&rsquo;s mistake could be recorded permanently. An interviewer&rsquo;s insensitive &mdash; or even illegal &mdash; question could also be captured,&rdquo; one CEO said.",
+    "publishedAt": "2026-09-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agi-limix-2-1789734167000",
+    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+    "link": "https://www.qbitai.com/2026/09/492175.html",
+    "summary": "LimiX让模型理解数据背后的因果机制",
+    "publishedAt": "2026-09-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1674-1789783680000",
+    "title": " 1674万汽车人的饭碗还好吗？会好吗？ ",
+    "link": "https://www.huxiu.com/article/4892408.html?f=rss",
+    "summary": "本文来自微信公众号： 花生说科技 ，编辑：黑松，作者：李皙寅·花生 \"个人的努力固然重要，终究要考虑时代的进程。\" 这两年，似是而非的观点甚嚣尘上。去年说新能源智能化大变革催生新机遇，今年说汽车要造机器人岗位大爆发，每次媒体报道里的岗位缺口都是\"百万级\"。 但事实呢？德国、法国、美国、日本，汽车公司大裁员，人家也提AI，只不过让AI背锅——\"为了应对人工智能的挑战，通过人工智能实现了降本增效。\" 国内这个讨论不多，直到最近，中国人才研究会汽车人才专委会的报告出来了：过去三年，全行业从业人员下降了26.3%。 不是缺人，是在减人。 我去年作为人才专委会的特约评估专家，评的就是\"AI对人才能力体系的冲击\"，当时还觉得这是个未来命题。现在看，未来已经来了，而且比想象中快。 1674万汽车人，饭碗还好吗？ 01. 不是缺人，是在换人 截至2025年底，中国汽车行业从业人员约1674万。上游零部件628万，中游整车200万，下游后市场800万。 人才专委会秘书长李喆乐的报告里有一组对比：2022年到2025年，全行业下降26.3%，但上中游在增加，尤其是研发人员；下游在跌，而且跌得最多。 不是行业不需要人了，是不需要原来那些人了。 后市场800多万人，维修保养美容占接近70%，是收缩重灾区。新能源车保养频次低、三电系统封闭、OTA远程升级，传统维修保养的活正在消失。（就这，还有媒体天天说百万",
+    "publishedAt": "2026-09-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1789783982000",
+    "title": "理想告别，吉利合体，宁王还是那个宁王",
+    "link": "https://www.tmtpost.com/8145046.html",
+    "summary": "宁王还是宁王，只是当宁王的方式，从今天起要重新学习。",
+    "publishedAt": "2026-09-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
+    "title": "Meet the innovators under 35 shaping climate tech",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
+    "publishedAt": "2026-09-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-hallucination-nearly-triggers-us-military-operation-1789773152000",
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
     "publishedAt": "2026-09-18",
     "source": "TechCrunch",
     "tags": [
@@ -188,140 +362,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789737393000",
-    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-    "link": "https://www.qbitai.com/2026/09/492238.html",
-    "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-    "publishedAt": "2026-09-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-kimi-1789726570000",
-    "title": "月之暗面递表之后，Kimi 的成色要被验算三遍",
-    "link": "https://www.tmtpost.com/8144610.html",
-    "summary": "Anthropic 的 30 万次指控，会成为招股书的第几页？",
-    "publishedAt": "2026-09-18",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
-    "title": "The Download: mice with part-human brains and climate tech innovators",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
-    "publishedAt": "2026-09-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-in-india-the-new-iphone-can-arrive-faster-than-a-pizza-1789753500000",
-    "title": "In India, the new iPhone can arrive faster than a pizza",
-    "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-    "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-    "publishedAt": "2026-09-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ignoring-a-doctor-s-note-can-be-costly-eeoc-reminds-employer-1789673400000",
-    "title": "Ignoring a doctor’s note can be costly, EEOC reminds employers",
-    "link": "https://www.hrdive.com/news/pregnancy-discrimination-doctors-notes/830692/",
-    "summary": "Employers should &ldquo;leave the work of identifying pregnancy-related risks and limitations to qualified medical professionals,&rdquo; the agency said in conciliating two separate cases.",
-    "publishedAt": "2026-09-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agi-limix-2-1789734167000",
-    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-    "link": "https://www.qbitai.com/2026/09/492175.html",
-    "summary": "LimiX让模型理解数据背后的因果机制",
-    "publishedAt": "2026-09-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-gelato-1789726569000",
-    "title": "东方Gelato，野人先生真正的护城河",
-    "link": "https://www.tmtpost.com/8144654.html",
-    "summary": "野人先生的对手，不是罗永浩",
-    "publishedAt": "2026-09-18",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
-    "title": "Meet the innovators under 35 shaping climate tech",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
-    "publishedAt": "2026-09-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-google-8217-s-new-8216-cc-8217-is-an-ai-agent-that-helps-fam-1789752830000",
-    "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-    "publishedAt": "2026-09-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-week-in-5-numbers-amazon-will-give-grocery-benefits-to--1789673400000",
-    "title": "This week in 5 numbers: Amazon will give grocery benefits to workers",
-    "link": "https://www.hrdive.com/news/amazon-will-give-grocery-benefits-to-workers/830686/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many employers say artificial intelligence is actually slowing down the hiring process.",
-    "publishedAt": "2026-09-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
     "id": "news--1789723177000",
     "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
     "link": "https://www.qbitai.com/2026/09/492015.html",
@@ -335,11 +375,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789726567000",
-    "title": "赛力斯的真正考验，来了",
-    "link": "https://www.tmtpost.com/8144771.html",
-    "summary": "赛力斯面临哪些真正考验？又该如何应对？",
-    "publishedAt": "2026-09-18",
+    "id": "news--1789781609000",
+    "title": " 本土高科技企业的重要性：查了下越南，印度和中国历史同期经济增速的对比 ",
+    "link": "https://www.huxiu.com/article/4892406.html?f=rss",
+    "summary": "本文来自微信公众号： 宁南山 ，作者：深圳宁南山 首先查了下越南的历史经济增速，越南经济增长近些年势头不错，我是IMF（国际货币基金组织）的官网上查询的。 数据是IMF 2026年4月版本的世界经济展望，我选择中国和越南历史上的经济实际增速的对比曲线图，如果仔细看两个曲线，会发现直到2025年，越南的历史最高经济增速从来没有达到过中国经济增速的历史最高水平。 从1990-2025年，越南从来没有在任何一年实现过10%以上的经济增速，历史最高增速是1995年的9.5%。 而中国在1991-1996年连续五年经济增速超过10%，以及在加入世贸后2003-2007年连续五年经济增速超过10%，到2011年中国人均GDP突破5000美元。在1992年和2007年，中国经济增速甚至两次奇迹般的超过14%，1992年增速14.3%,2007年增速是14.2%。 也就是说，中国历史上在2011年人均GDP突破5000美元之前，曾创造了10个年度经济增速超过10%的奇迹，而越南直到2025年一次也没有。 而越南人均GDP将在今年突破5000美元（越南官方说去年就突破了，这里先用IMF的数据，应该是应用的汇率和人口不同，比如平均汇率，年末汇率，年中人口，年末人口等），基数已经不算低了，预计未来越南也不可能实现有10个年度经济增速10%以上。 因此总的来说，越南经济增速是没有中国历史同期快的。 以下是",
+    "publishedAt": "2026-09-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-22-55-1789783575000",
+    "title": "德邦基金太“魔幻”：单只基金亏损22亿，管理费涨了55倍",
+    "link": "https://www.tmtpost.com/8145304.html",
+    "summary": "德邦超半数基民近一年亏损。",
+    "publishedAt": "2026-09-19",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -798,7 +851,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
     "postedAt": "2026-09-12",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137309",
@@ -996,4 +1049,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-18T20:20:34.284Z';
+export const dataFetchedAt = '2026-09-19T02:58:17.910Z';
