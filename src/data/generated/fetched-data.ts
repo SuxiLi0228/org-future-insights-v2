@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-reportedly-tries-to-shrink-workforce-with-employee-buy-1789850353000",
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "publishedAt": "2026-09-19",
+    "id": "news-a-small-but-growing-number-of-founders-are-betting-on-bringi-1789916400000",
+    "title": "A small but growing number of founders are betting on bringing people together offline",
+    "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+    "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. [&#8230;]",
+    "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -42,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apus-jev-1789893032000",
-    "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-    "link": "https://www.qbitai.com/2026/09/492939.html",
-    "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+    "id": "news-ai-ai-1789914626000",
+    "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+    "link": "https://www.qbitai.com/2026/09/492973.html",
+    "summary": "剪映Hub+剪映助手，好用",
     "publishedAt": "2026-09-20",
     "source": "量子位",
     "tags": [
@@ -55,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-anthropic-1789900128000",
-    "title": " IPO前遭中美模型施压，Anthropic不减速了？ ",
-    "link": "https://www.huxiu.com/article/4892676.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：赖家琪 IPO（首次公开募股）在即，Anthropic被曝正考虑推出新一代模型。 英国路透社9月19日援引3名知情人士消息称，在OpenAI发布GPT-6 Astra模型并迅速获得企业用户青睐后，Anthropic正考虑推出新一代模型，以应对来自竞争对手的压力。 这一动向的微妙之处在于，该公司首席执行官（CEO）达里奥·阿莫代伊日前刚发公开信呼吁AI行业放慢前沿AI的研发速度，还得到了OpenAI CEO山姆·奥特曼和xAI创始人马斯克的支持。 而与此同时，Anthropic正在筹备IPO，其不仅需要与OpenAI展开竞争，还要与之一起应对中国开放权重模型崛起带来的挑战。种种因素都让投资者开始质疑，Anthropic上市后能否维持此前的惊人增速。 OpenAI追赶 本月初，OpenAI正式发布GPT-6 Astra，重点强调其在计算机操作、软件工程、网络安全以及专业工作等方面的能力提升。该模型发布后随即获得企业用户和开发者的积极反馈，并在企业市场迅速扩大影响力。 一些投资者日前向路透社表示，他们开始重新评估Anthropic在企业级AI工具领域的领先地位。 过去数月，Anthropic一直被视为企业级AI市场的领先者，但这一格局正在出现变化。根据企业支出管理平台Ramp的最新数据，GPT-6 Astra模型目前约占其追踪的企业AI支出的13%",
+    "id": "news--1789917090000",
+    "title": " 无醇啤酒赢了增速，却还没赢下中国人的餐桌 ",
+    "link": "https://www.huxiu.com/article/4892724.html?f=rss",
+    "summary": "本文来自微信公众号： 中国酒业杂志 ，作者：吴勇毅 欧盟产量占比首破6%、中国年增45%，纸面数据一片欢腾；但0.02%的线下铺货率和“开车救急”的刻板印象，把这个赛道死死摁在半空。无醇啤酒时代来了吗？答案可能让你扫兴：方向来了，时代还早。 同一瓶无醇啤酒，在两个市场过着两种人生。 周五晚上八点，居酒屋的灯光刚刚好。有客人把车钥匙往桌上一放，对服务员摆摆手：“不喝了，一会儿要开车。”这样的对话，每天都在中国的餐桌上重复。它几乎概括了无醇啤酒的全部尴尬——在这个市场里，无醇被需要的方式，是充当一句“不喝”的借口，而不是一个“想喝”的理由。 欧盟统计局最新数据，把一个老话题重新推上头条：2025年，无醇啤酒在欧盟啤酒总产量中的占比首次突破6%。别小看这个数字——在把啤酒当“液体面包”的欧洲，6%意味着无醇已经从小众尝鲜，正式跻身主流品类。 全球大盘同样耐人寻味：传统啤酒销量承压多年，无醇赛道却一路逆势上扬。中国市场的故事更性感——过去几年市场规模年均增速高达45%，几乎是啤酒行业里唯一还在“涨”的故事。 但先给这45%泼点冷水。增速高，往往是因为基数低。0.02%的线下铺货率摆在那里，任何一个品类从零起步，都能跑出吓人的百分比。真正该问的不是“涨得多快”，而是“涨在了哪里、能不能留住”。答案是：涨在线上，且很难留住。眼下的无醇啤酒，正处于典型的“半熟状态”——海外逐步常态化，国内还在高",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-rsi-1789898324000",
-    "title": "AI巨头集体踩“刹车”，但距离真正的RSI还很遥远",
-    "link": "https://www.tmtpost.com/8146082.html",
-    "summary": "AI 自进化走到哪一步了？离真正的 RSI 还有多远？",
+    "id": "news-pc-7-15-1789909370000",
+    "title": "低毛利PC承压，亿道信息7.15亿收购成为信息谋升级",
+    "link": "https://www.tmtpost.com/8146525.html",
+    "summary": "对亿道信息而言，这是一次以并购补工业识别与数据采集能力、对冲PC低毛利困局的升级尝试",
     "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
@@ -95,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-says-it-8217-s-time-to-rebrand-ai-with-a-new-name-and--1789847867000",
-    "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "publishedAt": "2026-09-19",
+    "id": "news-6-days-left-to-get-ahead-at-techcrunch-disrupt-2026-1789912800000",
+    "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -122,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789891273000",
-    "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-    "link": "https://www.qbitai.com/2026/09/492912.html",
-    "summary": "亚马逊云科技给企业安全用Agent打了个样",
+    "id": "news-ai-ai-1789914232000",
+    "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+    "link": "https://www.qbitai.com/2026/09/493068.html",
+    "summary": "AI越来越能干，企业该怎么用",
     "publishedAt": "2026-09-20",
     "source": "量子位",
     "tags": [
@@ -135,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789899874000",
-    "title": " 留给中国商业航天的时间，可能真的不够了 ",
-    "link": "https://www.huxiu.com/article/4892674.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 9月15日和16日，24小时内，蓝箭航天朱雀二号改进型遥七和东方空间引力一号遥三先后发射，将19颗千帆星座组网卫星送入轨道。这是中国民营火箭首次批量承担规模化星座组网任务。行业欢呼“量产元年”到来。 但欢呼声里有一个被忽略的数字：千帆星座目前在轨256颗，年底目标324颗。而ITU的规则是，中国需要在7年内完成约2万颗卫星部署。 256颗vs 2万颗。缺口是78倍。 一、ITU的7年窗口期，不是建议，是死线 国际电信联盟的频轨规则写得很清楚：申报后7年内必须完成首批10%部署，9年完成50%，14年完成全部。逾期未达标，频轨资源顺位排在后面的国家瞬间获得。 2025年12月，中国向ITU一次性申报了20.3万颗卫星的频轨资源。其中仅无线电创新院一家就申报了CTC-1和CTC-2两个星座，各96714颗。中国需要在7年内完成约2万颗卫星部署。 这是一个刚性的国际法约束。申报了20万颗，7年内发射不到2万颗，剩下的18万颗的频轨资源就会释放给后来者。而“后来者”大概率是SpaceX。 二、真正的卡点不在卫星，在火箭 卫星不是造不出来。中国已有55个卫星工厂，设计总产能约7360颗/年。海南文昌的卫星超级工厂设计年产能1000颗，已进入试生产。台州星空智联的卫星超级工厂，一颗卫星从总装到出厂最快只要28天，年产能达到500颗。 问题在于送不",
+    "id": "news-3d-1789913543000",
+    "title": " 蚊子最有用的一集，嘴被拔下来爆改3D打印喷头了 ",
+    "link": "https://www.huxiu.com/article/4892719.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 没想到真能等到蚊子有用的一天。 就在前几天，一项关于蚊子的研究获得了第36届“搞笑诺贝尔奖”。这项研究发表于2025年11月，来自麦吉尔大学的科学家用雌性蚊子的口器当高精度3D打印喷嘴，并且把这种操作方法称之为3D necroprinting，也就是“死灵打印”。 因为面对技术需求，他们没有费劲去模仿蚊子，而是直接把死蚊子的嘴拆下来当机器零件用。 正所谓“仿生哪有原生强”，难怪网友都说妖族是炼器的上好材料，但其实这几年被用来“炼器”的也不只有蚊子。 01蚊子这辈子最体面的工作 所以，为什么非得薅蚊子的“嘴”？ 在生物打印这块儿，常用的是直接墨水书写（DIW）打印技术，也就是用针头挤出生物墨水，就像给蛋糕裱花一样。 那么打印的精度就取决于针头内径的粗细，越细精度越高，当然也就越贵。目前商用金属针头做到35微米就是顶配了，但是每根80美元以上，而且是消耗品。 想要解决这个问题，其实可以换其他材质的针头。但是塑料材质不够细，商用的内径大约在150微米。玻璃材质最好，最细能小于1微米，也够硬。但是制作难度大，批次影响大，非常脆，怕震动，使用的时候要求多，价格也不便宜。 细的贵，便宜的粗，好用的又麻烦复杂。研究团队中的曹长宏教授表示，面对这些问题，他们开始思考其他出路。如果大自然中天然就有一种完美零件，那就没必要自己再造一个了。 也就是想",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789898322000",
-    "title": "最近上天的卫星，为什么越来越“聪明”了？",
-    "link": "https://www.tmtpost.com/8146192.html",
-    "summary": "商业遥感开始同时改轨道、加算力、提速度。",
+    "id": "news--1789900754000",
+    "title": "“蓝芩”只是注册商标，蓝芩喉糖到底是不是虚假宣传？",
+    "link": "https://www.tmtpost.com/8144554.html",
+    "summary": "本次蓝芩代言舆情风波，看似是单一品牌的宣传争议，实则折射出大健康、食品快消行业普遍存在的营销乱象与合规痛点。",
     "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
@@ -174,16 +172,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "id": "news-flock-reportedly-tries-to-shrink-workforce-with-employee-buy-1789850353000",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -201,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-31-98-38-98-z9s-166-334-1789890669000",
-    "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-    "link": "https://www.qbitai.com/2026/09/492873.html",
-    "summary": "腾势Z9S迎来成都车展首秀",
+    "id": "news-3090-ai-1789906961000",
+    "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+    "link": "https://www.qbitai.com/2026/09/492946.html",
+    "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
     "publishedAt": "2026-09-20",
     "source": "量子位",
     "tags": [
@@ -214,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iphone-1789899638000",
-    "title": " 最逼死强迫症的一代iPhone，出现了 ",
-    "link": "https://www.huxiu.com/article/4892662.html?f=rss",
-    "summary": "本文来自微信公众号： 蓝字计划 ，作者：Hayward 上周五，iPhone 18 Pro系列新机首批正式开始发货。根据往年的经验，轰轰烈烈的“iPhone屏幕抽奖活动”“拿着放大镜找瑕疵活动”，大概率会在各种社交平台展开。 但有意思的是，今年换了个主角。iPhone18系列最先被关心的不是用了哪家供应商的屏幕，而是所有型号的屏幕左上角，多了一个圆形的“斑点”。 从用户晒出的照片来看，这个“斑点”刚好位于手机左上角显示时间的位置上。强光下，那个圆点区域会比周围的画面暗一些，像是平整的屏幕上留下了一小块淡淡的印子。 还有一些照片里，它泛出了彩色的像素点，在周围正常显示的画面中格外显眼，堪称“最逼死强迫症的一代”。 难道，这代iPhone18 Pro，有了新的翻车方式？ 灵动岛变小的代价 这个小印子，和今年iPhone 18 Pro变小的灵动岛有关。 如果把新旧两代iPhone手机放在一起，可以很明显地看到屏幕顶部的黑色区域明显收窄了。今年的iPhone 18 Pro系列灵动岛变小了，也是核心卖点之一。 不过，灵动岛里面原本就挤着不少东西，除了自拍用的前置摄像头，还有一套负责Face ID面容识别的组件。 平时拿起手机、看一眼屏幕就能解锁，背后其实是几个硬件在相互协作：点阵投影器向人脸投射肉眼看不见的光点，红外摄像头接收返回的光线，系统据此获取面部的深度信息和红外图像，再与已经录入的面",
+    "id": "news-cxo-1789912750000",
+    "title": " CXO行业的“三级温差”，还要持续多久？ ",
+    "link": "https://www.huxiu.com/article/4892718.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：卢阿峰 今年以来，全球生物医药投融资回暖，国内创新药BD出海爆发，带动CXO行业景气回升，订单持续增长，部分公司新签订单增速甚至达到30%至50%以上。然而，相关上市公司上半年净利润增速普遍不及订单、营收增速，部分中型CXO企业甚至收入个位数增长、利润承压。 投资者关心的是，这些新签订单何时“落袋”？相关上市公司今年的业绩能否更好增长？下游需求高增长能否持续？行业格局将怎样变化？ 多位业内人士向财联社记者表示，不同项目的交付周期、收入确认周期不同，对当期业绩的影响不一。有头部企业人士向财联社记者透露，年内约有40%在手订单能够确认收入。随着前期行业低价竞争订单逐渐消化，以及高毛利订单的增加，头部企业的毛利率或将有所提高。“订单所处阶段、项目价格、客户结构以及从交付到收入确认的周期，都将决定订单能有多少最终转化为利润。” 同时，CXO行业普遍海外收入占比高，汇率波动已成为影响相关上市公司业绩的重要因素之一，具备自然对冲能力（如海外建厂、本地采购）或套保体系完善的企业，汇兑损失明显低于同行业。 一笔订单，要跨几个季度？ “三四季度尤其是第四季度交付量非常大，在手订单约40%今年确认，剩下60%排到2027—2028年。”一位头部CXO企业人士对财联社记者说。 这也是今年CXO行业上半年里一个颇有代表性的现象：订单已经明显升温，但新签订单与当期收入、",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789898320000",
-    "title": "铬铁扩产困局：成本倒挂下，丰镇矿热炉为何停不下来？",
-    "link": "https://www.tmtpost.com/8146323.html",
-    "summary": "中国最大的铬铁生产基地——内蒙古丰镇，不少企业在亏损中持续扩产。上游海外矿山波动，下游国内钢厂持续压价，夹在中间的冶炼企业焦灼寻路。",
+    "id": "news--1789900713000",
+    "title": "新鲜零食，狂飙背后",
+    "link": "https://www.tmtpost.com/8146440.html",
+    "summary": "高损耗、高成本、标准化难、品控不稳定等问题，成为制约行业规模化发展的核心瓶颈。",
     "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
@@ -253,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-us-navy-just-told-us-what-8217-s-on-its-tech-wish-list-f-1789837200000",
-    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-    "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+    "id": "news-trump-says-it-8217-s-time-to-rebrand-ai-with-a-new-name-and--1789847867000",
+    "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -280,10 +279,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1789872498000",
-    "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-    "link": "https://www.qbitai.com/2026/09/492849.html",
-    "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+    "id": "news-apus-jev-1789893032000",
+    "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+    "link": "https://www.qbitai.com/2026/09/492939.html",
+    "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
     "publishedAt": "2026-09-20",
     "source": "量子位",
     "tags": [
@@ -293,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-heart-machine-polyarc-2026-1789899625000",
-    "title": " 从Heart Machine到Polyarc：2026年海外游戏业裁员与关停仍在继续 ",
-    "link": "https://www.huxiu.com/article/4892672.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏茶馆 ，作者：小台 2026年进入9月中旬以来，海外知名游戏工作室的裁员与关闭消息接连不断，频率之高令人瞩目。而这并非偶然现象——将时间线拉长至整个2026年，一场被业内称为\"Crash 2.0\"的行业大收缩正在持续蔓延。 ASGC数据显示，2026年初全年裁员预测为8,025人，7月26日上调至14,259人，8月11日达到14,666人的阶段高点。预测值的多次调整显示，全年规模仍存在较大不确定性。 九月中旬：裁员与工作室关闭事件密集爆发 9月中旬，海外游戏行业又传来开发团队大规模裁撤的消息。《Hyper Light Drifter》开发商Heart Machine创始人Alx Preston于9月16日确认，由于一家负责资助其未公布新作的发行商决定停止推进该项目，工作室“几乎所有员工”都被迫离职。就在此前几天，《Moss》开发商Polyarc已宣布结束近12年的开发历程，而《MindsEye》开发商Build a Rocket Boy也被多家媒体报道正经历新一轮裁员并进入收尾阶段。 以下是2026年9月1日至9月16日期间海外游戏行业的主要裁员与关闭事件： 据观察，2026年9月中旬游戏行业出现了一轮较为密集的裁员及项目收缩消息，依据现有公开资料，我们更适合将其理解为“此前裁员计划集中落地、项目商业可行性重新评估以及融资环境趋紧”的叠加，而非单一原因导",
+    "id": "news-400-1789912580000",
+    "title": " 月销400万的新鲜零食，为什么越做越像一场“新鲜感骗局”？ ",
+    "link": "https://www.huxiu.com/article/4892716.html?f=rss",
+    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 9月19日，薛记新鲜零食（原薛记炒货门店焕新）全国首店在北京朝阳合生汇B1开业。算上一栗、大口兽、清山森后，合生汇B1层已经聚集了四家新鲜零食品牌。 北京朝阳合生汇B1层仅是一个行业缩影，今年以来新鲜零食正在替代网红面包和奶茶店，入驻北上广深各大核心商圈，成为新晋排队王。 上海五角场合生汇同样开出了大口兽首店；深圳各大核心商圈更是成为金粒门、一栗、几多全等品牌南下布局的第一站。 这些零食店主打短保、现烤、鲜卤、少添加，有一些甚至被称为“平价小山姆”。原生品牌们率先验证了新鲜零食的商业模式：金粒门平均单店月销150万，优质门店达400万；在首店效应加持下，一栗合生汇首月销售额超620万，几多全合肥首店更是突破600万。 据剁椒Spicy不完全统计，当前赛道品牌已超过40个，大致可归为两大阵营：原生品牌，以及各大零售、奶茶品牌跨界入局的新业务。品类也从早期的炒货、奶茶、糕点，扩展到鸭货、卤味。 2026年，新鲜零食赛道集体开启了规模化扩张。头部玩家之一“几多全”已经全面开放加盟，公开信息显示，2026年其计划新增600-1000家；蒲妈妈则计划新开200家，将重点布局华东；金粒门、一栗也逐渐从区域走向全国。据媒体报道，金粒门、几多全、一栗均在接洽A轮融资，估值区间20-30亿元，红杉等头部机构在关注。 原生品牌们跑马圈地之际，零食",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
@@ -306,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-work-the-machines-are-still-not-trusted-with-1789896126000",
-    "title": "The Work the Machines Are Still Not Trusted With",
-    "link": "https://www.tmtpost.com/8146331.html",
-    "summary": "Analysts and product managers now turn research frameworks into usable reports in hours rather than days, yet the most valuable assessments and sensitive internal data remain outside the systems the major platforms are rushing to supply.",
+    "id": "news-opus-5-2-gemini-4-pro-1789899948000",
+    "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
+    "link": "https://www.tmtpost.com/8145908.html",
+    "summary": "没人开发布会。可硅谷这一周，比任何发布会都热闹。",
     "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
@@ -333,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -361,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789818792000",
-    "title": "“留给人类阻止AI的时间不多了”",
-    "link": "https://www.qbitai.com/2026/09/492755.html",
-    "summary": "AI有可能终结我们所有人",
-    "publishedAt": "2026-09-19",
+    "id": "news-ai-1789891273000",
+    "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+    "link": "https://www.qbitai.com/2026/09/492912.html",
+    "summary": "亚马逊云科技给企业安全用Agent打了个样",
+    "publishedAt": "2026-09-20",
     "source": "量子位",
     "tags": [
       "china",
@@ -374,24 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-steam-1789899544000",
-    "title": " 被中国挤出的韩国游戏厂商，重新在Steam发了财 ",
-    "link": "https://www.huxiu.com/article/4892669.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏茶馆 ，作者：茶馆小二儿 导语 中韩新时期的竞合关系 据韩媒《朝鲜日报》报道，两家知名韩厂Krafton（PUBG）和Pearl Abyss（黑色沙漠）今年上半年的Steam手续费突破1000亿韩元（约人民币4.93亿元）。 《朝鲜日报》引用Alinea Analytics的数据显示，上半年《红色沙漠》（Pearl Abyss）累计流水约1.9亿美元，《深海迷航2》（Krafton）流水1.34亿美元。按Steam的分成比例倒推，仅这两款游戏就需向Steam分成达1000亿韩元。 财报同样印证了手续费的暴涨。上半年Krafton手续费支出同比增长254.6%，Pearl Abyss手续费增长179.0%。手续费的大头就是支付给各渠道的分成。 大涨的手续费，都指向一个明显事实：韩厂的单机游戏，卖爆了。 印象里和我们一样擅长做F2P游戏的邻国厂商，怎么突然集体跑到Steam上发财了？ 01 韩国网游曾是国内启蒙产品 二十多年前，中国的网吧是韩国游戏的地盘。 那时进入任何一间国内的网吧，屋子里一整排屏幕上，大多都呈现韩国网游的画面，不是在玩《传奇》，就是在玩《劲舞团》。点卡一度都是紧俏货，据报道当年不少点卡经销商是拿着麻袋去进《传奇》点卡的。 在《魔兽世界》上线前，韩国网游占据国内约四成市场。盛大、世纪天成和久游等老牌游戏厂商，都是依靠代理韩国游戏起家。四大门户",
+    "id": "news--1789912539000",
+    "title": " 曾经“接手即盈利”的深圳便利店，正在被批量转让 ",
+    "link": "https://www.huxiu.com/article/4892717.html?f=rss",
+    "summary": "本文来自微信公众号： 深圳微时光 ，作者：白粥 深圳曾以“中国便利店之都”闻名，但根据最新的《2026年城市便利店发展指数》数据，深圳约每3252人拥有一间便利店，密度排列第六。 这座城市，街头巷尾，招牌密密麻麻，24小时亮着光。美宜佳、天福、罗森、7-Eleven，还有数不清的无名夫妻店。 然而，在这座高密度、快节奏的城市表象之下，一波特殊的转让潮正在悄然涌动。 社交平台上，一条条转让信息折射出无数普通人的创业幻觉：“宝安沙井老店转让，无转让费，接手直接盈利……”“投小几万当个工作干，比上班清闲自在……”“适合刚创业和老人家，就是赚个人工钱。” 今年7月，CCFA（中国连锁经营协会）发布了《2026上半年便利店企业发展情况简报》，数据显示，71.7%的便利店企业来客数下降。 当超过七成便利店企业遭遇来客数下滑时，问题已经不是某一家企业经营出了问题，而是整个行业都在发生变化。 当怀揣数万积蓄的普通人满怀期待地走进这个行业时，等待他们的往往不是自由的创业老板梦，而是一份每天连轴转十几个小时、还要自掏腰包倒贴的“亏本长期工”。 01 幻觉的起点 “买”个稳定的工作 如今，各大社交平台随处可见深圳便利店转让的帖子： “宝安沙井一家做了七八年的老便利店转租，无转让费，直接点货，有烟证，有固定的顾客，接手可以直接盈利……” “找不到工作，投小几万当个工作干也可以，宝妈带孩子看店也可以，看店比",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1789893454000",
-    "title": "对话徐直军：被低估的灵衢，重新理解AI算力",
-    "link": "https://www.tmtpost.com/8146244.html",
-    "summary": "灵衢的故事，就藏在这些连接里。",
+    "id": "news-ai-rsi-1789898324000",
+    "title": "AI巨头集体踩“刹车”，但距离真正的RSI还很遥远",
+    "link": "https://www.tmtpost.com/8146082.html",
+    "summary": "AI 自进化走到哪一步了？离真正的 RSI 还有多远？",
     "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
@@ -1049,4 +1047,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-20T10:33:20.772Z';
+export const dataFetchedAt = '2026-09-20T15:21:57.553Z';
