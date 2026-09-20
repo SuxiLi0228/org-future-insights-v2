@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-21-auto",
+    "date": "2026-09-21",
+    "session": "auto",
+    "title": "2026-09-21 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-21-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI’s extinction risk and bioweapons threat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
+      },
+      {
+        "id": "sig-2026-09-21-auto-2",
+        "emoji": "💡",
+        "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+        "summary": "Many of The Boring Company's announced project have not materialized.",
+        "detail": "来源: TechCrunch。Many of The Boring Company's announced project have not materialized.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/"
+      },
+      {
+        "id": "sig-2026-09-21-auto-3",
+        "emoji": "💡",
+        "title": "Starbucks, Florida AG ink deal to end lawsuit over alleged illegal DEI practices",
+        "summary": "Attorney General James Uthmeier alleged that the coffee chain excluded or disfavored nonminorities in a lawsuit that mirrored recent federal enforcement activity.",
+        "detail": "来源: HR Dive。Attorney General James Uthmeier alleged that the coffee chain excluded or disfavored nonminorities in a lawsuit that mirrored recent federal enforcement activity.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/starbucks-florida-ag-ink-lawsuit-alleged-illegal-dei/830829/"
+      },
+      {
+        "id": "sig-2026-09-21-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Coding Agents with an Obstacle-Aware Harness for Safe Robot ...",
+        "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec",
+        "detail": "作者: Bingxin Xu, Yuzhang Shang, Zhen Dong。Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By dec",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.20822v1"
+      },
+      {
+        "id": "sig-2026-09-21-auto-5",
+        "emoji": "💼",
+        "title": "Sticker Mule 正在招募 AI agent engineer",
+        "summary": "岗位类型：业务+AI 复合岗。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
+        "detail": "技能要求: Agent, GCP, OpenAI。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers Work performed I",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Sticker Mule"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Sticker Mule",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-21-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI’s extinction risk and b」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-21-2",
+        "priority": "low",
+        "action": "关注「Elon Musk’s latest Boring Company pitch 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-21-3",
+        "priority": "low",
+        "action": "关注「Starbucks, Florida AG ink deal to end la」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-21-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Coding Agents with an Obstacle-Awar」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-21-5",
+        "priority": "medium",
+        "action": "关注「Sticker Mule 正在招募 AI agent engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Sticker Mule"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-21 生成，聚合了 26 条新闻、20 篇论文、14 个岗位。",
+    "fetchWindow": "2026-09-21 00:00 - 2026-09-21 23:59"
+  },
+  {
     "id": "report-2026-09-20-auto",
     "date": "2026-09-20",
     "session": "auto",

@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-small-but-growing-number-of-founders-are-betting-on-bringi-1789916400000",
-    "title": "A small but growing number of founders are betting on bringing people together offline",
-    "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-    "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. [&#8230;]",
+    "id": "news-elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-1789933128000",
+    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+    "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+    "summary": "Many of The Boring Company's announced project have not materialized.",
     "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789917090000",
-    "title": " 无醇啤酒赢了增速，却还没赢下中国人的餐桌 ",
-    "link": "https://www.huxiu.com/article/4892724.html?f=rss",
-    "summary": "本文来自微信公众号： 中国酒业杂志 ，作者：吴勇毅 欧盟产量占比首破6%、中国年增45%，纸面数据一片欢腾；但0.02%的线下铺货率和“开车救急”的刻板印象，把这个赛道死死摁在半空。无醇啤酒时代来了吗？答案可能让你扫兴：方向来了，时代还早。 同一瓶无醇啤酒，在两个市场过着两种人生。 周五晚上八点，居酒屋的灯光刚刚好。有客人把车钥匙往桌上一放，对服务员摆摆手：“不喝了，一会儿要开车。”这样的对话，每天都在中国的餐桌上重复。它几乎概括了无醇啤酒的全部尴尬——在这个市场里，无醇被需要的方式，是充当一句“不喝”的借口，而不是一个“想喝”的理由。 欧盟统计局最新数据，把一个老话题重新推上头条：2025年，无醇啤酒在欧盟啤酒总产量中的占比首次突破6%。别小看这个数字——在把啤酒当“液体面包”的欧洲，6%意味着无醇已经从小众尝鲜，正式跻身主流品类。 全球大盘同样耐人寻味：传统啤酒销量承压多年，无醇赛道却一路逆势上扬。中国市场的故事更性感——过去几年市场规模年均增速高达45%，几乎是啤酒行业里唯一还在“涨”的故事。 但先给这45%泼点冷水。增速高，往往是因为基数低。0.02%的线下铺货率摆在那里，任何一个品类从零起步，都能跑出吓人的百分比。真正该问的不是“涨得多快”，而是“涨在了哪里、能不能留住”。答案是：涨在线上，且很难留住。眼下的无醇啤酒，正处于典型的“半熟状态”——海外逐步常态化，国内还在高",
+    "id": "news--1789920442000",
+    "title": " 弄清中国的就业数据|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4892729.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《弄清中国的就业数据 || 大视野》 就业是最基本的民生，再怎么强调也不为过。 回顾历史，中国的改革开放，在农村是饥饿所倒逼，在城市则受到了就业压力的倒逼。从1979年起，上山下乡的知识青年纷纷返城，加上新增的劳动力，就业成了难题，必须从全民所有制单一渠道就业转向全民、集体和个体经济等多渠道就业。 1981年，党中央、国务院发布了《关于广开门路，搞活经济，解决城镇就业问题的若干决定》，指出“实行多种经济形式和多种经营方式长期并存，是我党的一项战略决策，决不是一种权宜之计”。就业的考虑，是经济体制改革的重要推手。 上世纪90年代后半期，中国再次面临严峻的就业压力。那一轮压力的化解，主要靠三个通路：一是中国“入世”，为世界而生产，吸纳了大量农村剩余劳动力；二是城市化进程加速，建筑业和第三产业成为就业蓄水池；三是互联网特别是电子商务、物流快递等兴起，创造了大量新型就业机会。 近年来，就业压力再次加大，灵活就业、裁员、补偿金、劳动仲裁等均是网络热词。今年6月，国务院印发了《实施就业优先战略“十五五”规划》的通知，聚焦促进高质量充分就业，以“劳动者自主就业、市场调节就业、政府促进就业和鼓励创业”为总体方针。 像之前所写的《弄清中国的消费数据》一样，本文也旨在梳理一些基于数据的事实。这是进行严肃讨论的前提，于我也是一种学习。 中国有多少",
     "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-days-left-to-get-ahead-at-techcrunch-disrupt-2026-1789912800000",
-    "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "id": "news-is-the-ai-industry-really-ready-to-slow-down-1789930564000",
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
     "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
@@ -133,19 +133,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3d-1789913543000",
-    "title": " 蚊子最有用的一集，嘴被拔下来爆改3D打印喷头了 ",
-    "link": "https://www.huxiu.com/article/4892719.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 没想到真能等到蚊子有用的一天。 就在前几天，一项关于蚊子的研究获得了第36届“搞笑诺贝尔奖”。这项研究发表于2025年11月，来自麦吉尔大学的科学家用雌性蚊子的口器当高精度3D打印喷嘴，并且把这种操作方法称之为3D necroprinting，也就是“死灵打印”。 因为面对技术需求，他们没有费劲去模仿蚊子，而是直接把死蚊子的嘴拆下来当机器零件用。 正所谓“仿生哪有原生强”，难怪网友都说妖族是炼器的上好材料，但其实这几年被用来“炼器”的也不只有蚊子。 01蚊子这辈子最体面的工作 所以，为什么非得薅蚊子的“嘴”？ 在生物打印这块儿，常用的是直接墨水书写（DIW）打印技术，也就是用针头挤出生物墨水，就像给蛋糕裱花一样。 那么打印的精度就取决于针头内径的粗细，越细精度越高，当然也就越贵。目前商用金属针头做到35微米就是顶配了，但是每根80美元以上，而且是消耗品。 想要解决这个问题，其实可以换其他材质的针头。但是塑料材质不够细，商用的内径大约在150微米。玻璃材质最好，最细能小于1微米，也够硬。但是制作难度大，批次影响大，非常脆，怕震动，使用的时候要求多，价格也不便宜。 细的贵，便宜的粗，好用的又麻烦复杂。研究团队中的曹长宏教授表示，面对这些问题，他们开始思考其他出路。如果大自然中天然就有一种完美零件，那就没必要自己再造一个了。 也就是想",
-    "publishedAt": "2026-09-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1789900754000",
     "title": "“蓝芩”只是注册商标，蓝芩喉糖到底是不是虚假宣传？",
     "link": "https://www.tmtpost.com/8144554.html",
@@ -172,17 +159,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-reportedly-tries-to-shrink-workforce-with-employee-buy-1789850353000",
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "publishedAt": "2026-09-19",
+    "id": "news-vocci-8217-s-ring-adds-a-new-form-factor-to-meeting-note-tak-1789929172000",
+    "title": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -213,19 +199,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cxo-1789912750000",
-    "title": " CXO行业的“三级温差”，还要持续多久？ ",
-    "link": "https://www.huxiu.com/article/4892718.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：卢阿峰 今年以来，全球生物医药投融资回暖，国内创新药BD出海爆发，带动CXO行业景气回升，订单持续增长，部分公司新签订单增速甚至达到30%至50%以上。然而，相关上市公司上半年净利润增速普遍不及订单、营收增速，部分中型CXO企业甚至收入个位数增长、利润承压。 投资者关心的是，这些新签订单何时“落袋”？相关上市公司今年的业绩能否更好增长？下游需求高增长能否持续？行业格局将怎样变化？ 多位业内人士向财联社记者表示，不同项目的交付周期、收入确认周期不同，对当期业绩的影响不一。有头部企业人士向财联社记者透露，年内约有40%在手订单能够确认收入。随着前期行业低价竞争订单逐渐消化，以及高毛利订单的增加，头部企业的毛利率或将有所提高。“订单所处阶段、项目价格、客户结构以及从交付到收入确认的周期，都将决定订单能有多少最终转化为利润。” 同时，CXO行业普遍海外收入占比高，汇率波动已成为影响相关上市公司业绩的重要因素之一，具备自然对冲能力（如海外建厂、本地采购）或套保体系完善的企业，汇兑损失明显低于同行业。 一笔订单，要跨几个季度？ “三四季度尤其是第四季度交付量非常大，在手订单约40%今年确认，剩下60%排到2027—2028年。”一位头部CXO企业人士对财联社记者说。 这也是今年CXO行业上半年里一个颇有代表性的现象：订单已经明显升温，但新签订单与当期收入、",
-    "publishedAt": "2026-09-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1789900713000",
     "title": "新鲜零食，狂飙背后",
     "link": "https://www.tmtpost.com/8146440.html",
@@ -252,11 +225,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-says-it-8217-s-time-to-rebrand-ai-with-a-new-name-and--1789847867000",
-    "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "publishedAt": "2026-09-19",
+    "id": "news-scrolled-wants-to-turn-textbooks-into-tiktok-1789927200000",
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -292,19 +265,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-400-1789912580000",
-    "title": " 月销400万的新鲜零食，为什么越做越像一场“新鲜感骗局”？ ",
-    "link": "https://www.huxiu.com/article/4892716.html?f=rss",
-    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 9月19日，薛记新鲜零食（原薛记炒货门店焕新）全国首店在北京朝阳合生汇B1开业。算上一栗、大口兽、清山森后，合生汇B1层已经聚集了四家新鲜零食品牌。 北京朝阳合生汇B1层仅是一个行业缩影，今年以来新鲜零食正在替代网红面包和奶茶店，入驻北上广深各大核心商圈，成为新晋排队王。 上海五角场合生汇同样开出了大口兽首店；深圳各大核心商圈更是成为金粒门、一栗、几多全等品牌南下布局的第一站。 这些零食店主打短保、现烤、鲜卤、少添加，有一些甚至被称为“平价小山姆”。原生品牌们率先验证了新鲜零食的商业模式：金粒门平均单店月销150万，优质门店达400万；在首店效应加持下，一栗合生汇首月销售额超620万，几多全合肥首店更是突破600万。 据剁椒Spicy不完全统计，当前赛道品牌已超过40个，大致可归为两大阵营：原生品牌，以及各大零售、奶茶品牌跨界入局的新业务。品类也从早期的炒货、奶茶、糕点，扩展到鸭货、卤味。 2026年，新鲜零食赛道集体开启了规模化扩张。头部玩家之一“几多全”已经全面开放加盟，公开信息显示，2026年其计划新增600-1000家；蒲妈妈则计划新开200家，将重点布局华东；金粒门、一栗也逐渐从区域走向全国。据媒体报道，金粒门、几多全、一栗均在接洽A轮融资，估值区间20-30亿元，红杉等头部机构在关注。 原生品牌们跑马圈地之际，零食",
-    "publishedAt": "2026-09-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-opus-5-2-gemini-4-pro-1789899948000",
     "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
     "link": "https://www.tmtpost.com/8145908.html",
@@ -332,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "publishedAt": "2026-09-19",
+    "id": "news-new-california-law-will-penalize-influencers-who-don-8217-t--1789921800000",
+    "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
+    "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+    "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+    "publishedAt": "2026-09-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -369,19 +329,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789912539000",
-    "title": " 曾经“接手即盈利”的深圳便利店，正在被批量转让 ",
-    "link": "https://www.huxiu.com/article/4892717.html?f=rss",
-    "summary": "本文来自微信公众号： 深圳微时光 ，作者：白粥 深圳曾以“中国便利店之都”闻名，但根据最新的《2026年城市便利店发展指数》数据，深圳约每3252人拥有一间便利店，密度排列第六。 这座城市，街头巷尾，招牌密密麻麻，24小时亮着光。美宜佳、天福、罗森、7-Eleven，还有数不清的无名夫妻店。 然而，在这座高密度、快节奏的城市表象之下，一波特殊的转让潮正在悄然涌动。 社交平台上，一条条转让信息折射出无数普通人的创业幻觉：“宝安沙井老店转让，无转让费，接手直接盈利……”“投小几万当个工作干，比上班清闲自在……”“适合刚创业和老人家，就是赚个人工钱。” 今年7月，CCFA（中国连锁经营协会）发布了《2026上半年便利店企业发展情况简报》，数据显示，71.7%的便利店企业来客数下降。 当超过七成便利店企业遭遇来客数下滑时，问题已经不是某一家企业经营出了问题，而是整个行业都在发生变化。 当怀揣数万积蓄的普通人满怀期待地走进这个行业时，等待他们的往往不是自由的创业老板梦，而是一份每天连轴转十几个小时、还要自掏腰包倒贴的“亏本长期工”。 01 幻觉的起点 “买”个稳定的工作 如今，各大社交平台随处可见深圳便利店转让的帖子： “宝安沙井一家做了七八年的老便利店转租，无转让费，直接点货，有烟证，有固定的顾客，接手可以直接盈利……” “找不到工作，投小几万当个工作干也可以，宝妈带孩子看店也可以，看店比",
-    "publishedAt": "2026-09-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1047,4 +994,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-20T15:21:57.553Z';
+export const dataFetchedAt = '2026-09-20T20:15:41.802Z';
