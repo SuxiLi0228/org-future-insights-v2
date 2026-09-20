@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also--1789847867000",
-    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "id": "news-flock-reportedly-tries-to-shrink-workforce-with-employee-buy-1789850353000",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -54,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789835438000",
-    "title": " 宁德时代，被理想小米塞回车底 ",
-    "link": "https://www.huxiu.com/article/4892512.html?f=rss",
-    "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 理想刚刚换掉电池供应商，还没等到新电池完成产能爬坡，消费者的反弹就先一步到来。 9月，一位河南消费者花5000元锁定了一辆售价50.98万元的新款理想MEGA。后来得知这辆车搭载的已经不是宁德时代电池，她决定退订，并要求退还5000元定金。 理想没有同意，理由也很简单。理想官方已经公告，9月7日当天15点以后锁单的新一代MEGA，将从宁德时代5C三元锂电池切换至理想自研5C三元锂电池。后者由理想负责电芯、Pack和BMS体系研发，电芯交由合作伙伴制造。 消费者不愿接受这个变化，双方因为一块电池，把一笔50万元的汽车订单推到了媒体面前。协商未果后，消费者找到河南经济报旗下“小莉帮忙”介入协调。 这场围绕电池的争议，正在出现车企没有预料到的一面。 理想郑州工作人员解释称，“电池品牌不算核心卖点，不知道用户在意。”截至报道时，双方仍在协商。 单看这次纷争，不难理解双方的立场。车企认为，消费者买的是理想，不是宁德时代。整车的性能、质量和售后，也都应该由理想负责。 但市场给出的反馈，和车企想的不太一样。 尼尔森IQ近期发布的《2026年全球新能源车消费者研究报告》，经上观新闻等媒体转述，在中国消费者的购车因素中，动力电池权重达到13.8%，仅次于整车安全；37.1%的中国受访者表示，如果看中的车型没有搭载宁德时代电池，会放弃购买。 原本",
-    "publishedAt": "2026-09-19",
+    "id": "news-t1-1789872497000",
+    "title": " 上手启元T1机器人，我们发现了什么？ ",
+    "link": "https://www.huxiu.com/article/4892470.html?f=rss",
+    "summary": "人类文明在过去几千年历史中，经历了数个关键进化节点，大多数人都是在毫不察觉的时候，跟着时代洪流大踏步前进。而今天看到这期视频的你们，已经是那个率先看到未来的少数群体。那么接下来，就跟我一起进入启元给我们打开的未来世界！",
+    "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789814005000",
-    "title": "自变量机器人，还没证明自己",
-    "link": "https://www.tmtpost.com/8145140.html",
-    "summary": "过度标榜，不太明智。",
-    "publishedAt": "2026-09-19",
+    "id": "news--1789873231000",
+    "title": "中国面积最大的县，藏着一场沙漠里的产业革命",
+    "link": "https://www.tmtpost.com/8146027.html",
+    "summary": "中国面积最大的县，藏着一场沙漠里的产业革命",
+    "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "id": "news-trump-says-it-8217-s-time-to-rebrand-ai-with-a-new-name-and--1789847867000",
+    "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -133,25 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789833998000",
-    "title": " 结论别太满 ",
-    "link": "https://www.huxiu.com/article/4892513.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 当AI能在一分钟内给出十个看起来都对的答案，人真正稀缺的能力，开始变成看见答案成立的条件。 -- 现在最容易生产出来的东西，可能就是结论。 问AI要不要换工作，它可以给你一套职业分析；问一段关系要不要结束，它能把“离开”和“再等等”的理由都写得很充分；问一个行业值不值得做，它会迅速列出机会、风险、趋势和建议。 每一套都像对的。 这才是问题。 过去，我们以为判断失误，是因为信息不够，知识太少，没问到专家。 现在，信息极多，观点极多，模型极多。AI甚至能替你把每一种观点都说圆。 可人没有因此更容易做决定。 相反，很多人第一次感觉到：答案多到一定程度，答案本身就不再稀缺了。 真正昂贵的，是另一个问题： 这个答案，到底在什么条件下成立？ 写完上篇文章之后，我忽然想到了一个金句： 结论别太满。 不是因为人应该永远谦虚、永远不表态。 而是因为每一个看起来斩钉截铁的结论背后，都藏着一组没写出来的条件。 而那些条件，往往才决定了结论是否还有效。 01人生不是一道求最优解的题 我们受过的教育，很容易让人误以为：只要足够聪明、足够努力、足够多看资料，总能找到一个最优解。 这在一部分问题里是成立的。 规则清楚，选项清楚，概率大致稳定，结果也能被衡量。比如算账、考试、流程优化、工程计算。这类问题可以不断逼近最优。 可人生中真正让人犹豫的问题，通常不是",
-    "publishedAt": "2026-09-19",
+    "id": "news--1789872246000",
+    "title": " 双休没确保，工作时长爆表，调休就取消不了 ",
+    "link": "https://www.huxiu.com/article/4892560.html?f=rss",
+    "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 今天一早，“调休不是让人休息而是拉动消费”就上了热搜，然后我见到一个总结到位的评论：“调休，就是既要牛马拉动消费，也不让牛马少干半天”。 调休的初衷确实是拉动消费。1997亚洲金融危机影响巨大，1999年各国经济开始复苏，为了拉动内需，国务院修订放假办法，将春节、五一和十一这三个假期与前后周末拼成7天的“黄金周”。 后来，“黄金周”经过一次次调整，但调休这个手段始终没变，“拆东墙补西墙”的拼凑方式牺牲了休息质量‌，也引发越来越多的质疑。‌‌ 每逢长假，从媒体到民间都在讨论调休，这已经成为一种习惯。但调休看似只是技术问题，实际上却是制度设计下的连锁反应，如果连双休都无法确保，调休就是必然，因为对于制定者来说，这种简单粗暴的处理方法最轻松，对上面好交差，对下面造成伤害，但本来就不需要在乎。 一直以来，调休都被视为对部分人的不公平，因为它默认劳动者都有双休。但事实上，中国社会除了公务员和部分事业单位，企业从业者基本都没有双休，年假也无法保障。2025年智联招聘的职场调研显示，仅有约三成职场人能够基本实现每周双休，32.3%处于单休或大小周状态，23.4%基本周末无休。将近七成的劳动者，连“做五休二”这个工业社会最基础的作息节律都未曾拥有。他们完全无法享受所谓的“拼假”福利，反而要跟着补班。这几年情况更糟，很多基层公务员日常和周末",
+    "publishedAt": "2026-09-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1789813999000",
-    "title": "重金请“顶流”王一博代言，扬子江药业的增长焦虑藏不住？",
-    "link": "https://www.tmtpost.com/8145193.html",
-    "summary": "高调的品牌动作背后，是老牌药企的转型压力。",
-    "publishedAt": "2026-09-19",
+    "id": "news-1500-1789873229000",
+    "title": "一亿元买下1500家医院商保直付网络：蚂蚁健康这笔“零头”收购，切入了谁的腹地？",
+    "link": "https://www.tmtpost.com/8146035.html",
+    "summary": "蚂蚁拼的什么图？",
+    "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -173,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-us-navy-just-told-us-what-8217-s-on-its-tech-wish-list-f-1789837200000",
-    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-    "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+    "id": "news-google-s-gemini-is-the-latest-ai-model-to-hack-other-compani-1789839000000",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -213,11 +213,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-118-tiktok-1789813920000",
-    "title": "半年卖了118亿美元，TikTok正在美国再造“抖音电商”",
-    "link": "https://www.tmtpost.com/8145553.html",
-    "summary": "TikTok电商增长潜力巨大。",
-    "publishedAt": "2026-09-19",
+    "id": "news--1789870977000",
+    "title": " “考古风潮”来袭，我们为何总在用当下审判过去？ ",
+    "link": "https://www.huxiu.com/article/4892553.html?f=rss",
+    "summary": "本文来自微信公众号： 界面文化 ，作者：界面文化组，主持人：李欣媛，本期嘉宾：王鹏凯、丁欣雨、侯嘉煜、邓乔尹，题图来自：视觉中国 最近，已经诞生十一年之久的&ldquo;花学&rdquo;再次&ldquo;死灰复燃&rdquo;。这并不是&ldquo;花学&rdquo;第一次出现在互联网上，每一次它的出现都会引发舆论场激烈讨论。大家乐此不疲地拆解节目中每个人的微表情或小动作，然后每次都会选出新的&ldquo;恶人&rdquo;，再为某个好人&ldquo;平反&rdquo;。这么多年下来，我们几乎见证了七个人轮流坐庄，当一次&ldquo;恶人&rdquo;。 同样&ldquo;死灰复燃&rdquo;的，还有今年暑期档的一部老剧《我的前半生》。剧中&ldquo;薛甄珠抓小三&rdquo;的场面在网络上爆火，不断被网友二创，衍生出了韩剧版、黑板电影版等等。而在此之前，《如懿传》《欢乐颂》《甄嬛传》等剧也被不少网友翻出来重看，制造出不少流传至今的&ldquo;梗&rdquo;。 国产剧《我的前半生》&ldquo;薛甄珠抓小三&rdquo;片段 当然，这种考古并不限于影视作品。明星过去的采访，或者他们在综艺节目中的行为动作，都会被翻出来重新讨论，比如人们会讨论袁立和斯琴高娃口中的羊胎素到底是什么？《向往的生活》里黄磊做的饭到底好不好吃？偶尔，杨幂、雷佳音、吴京等明星过去的微博日常也会被翻出来",
+    "publishedAt": "2026-09-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789870129000",
+    "title": "电池战争的下半场，从宁德时代只卖电芯开始",
+    "link": "https://www.tmtpost.com/8145929.html",
+    "summary": "上一轮车企造电池的浪潮刚刚退去，新一轮又来了。零跑开始自制电芯，理想把自研电池推向全系，小鹏则把电池包拿回自己手里。规模变大以后，车企重新算起了这笔账。但电芯到底是利润，还是新的成本陷阱？",
+    "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -239,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "id": "news-the-us-navy-just-told-us-what-8217-s-on-its-tech-wish-list-f-1789837200000",
+    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
+    "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -279,11 +292,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789813654000",
-    "title": "宇树上市满月，终于止跌了",
-    "link": "https://www.tmtpost.com/8145787.html",
-    "summary": "虽然止跌了，但想回归还需要时间和契机。",
-    "publishedAt": "2026-09-19",
+    "id": "news-flash-1789870391000",
+    "title": " Flash模型成了企业首选，便宜才是硬道理？ ",
+    "link": "https://www.huxiu.com/article/4892377.html?f=rss",
+    "summary": "今年，无论是Flash受到青睐、还是Agent开始崛起，AI行业已经从规模崇拜走向效率优先。",
+    "publishedAt": "2026-09-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1789870127000",
+    "title": "AI办公给互联网巨头出了道难题",
+    "link": "https://www.tmtpost.com/8145935.html",
+    "summary": "无人确知这条路到底能通向哪里。",
+    "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -306,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-safety-conversations-have-gotten-unbelievable-1789830000000",
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "id": "news-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-1789830000000",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
     "publishedAt": "2026-09-19",
     "source": "TechCrunch",
     "tags": [
@@ -347,11 +374,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1789810507000",
-    "title": "下一个赛道，AI手机？",
-    "link": "https://www.tmtpost.com/8145785.html",
-    "summary": "全民AI手机，尚未可知。",
-    "publishedAt": "2026-09-19",
+    "id": "news--1789870121000",
+    "title": " 日本押注“印度繁荣” ",
+    "link": "https://www.huxiu.com/article/4892555.html?f=rss",
+    "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 因国内市场规模有限，日本企业长期重视挖掘海外市场。 近期《东洋经济》发表了一篇文章，称2024年超过70%的日本企业在印度实现了盈利，使其成为“日企可以征服的国家”，并指出了押注“印度繁荣”的四大理由。 1、庞大的人口 印度在2023年超越中国成为世界上人口最多的国家，目前有约15亿人口，平均年龄仅28岁，相比之下日本人平均年龄为48岁。 与中国或日本不同，印度庞大的人口暂时不会减少，其巅峰可能会出现在2050年前后。 如上表所示，2024年印度人口14.5亿，中国14.2亿，往后依次是美国、印尼、巴基斯坦、尼日利亚、巴西、孟加拉国、俄罗斯和埃塞俄比亚。 到了2050年，预计印度将达到16.8亿人口，中国12.6亿，美国3.8亿，巴基斯坦3.7亿，尼日利亚3.6亿，印尼3.2亿，埃塞俄比亚2.5亿，刚果民主共和国2.2亿，巴西2.2亿，孟加拉国2.1亿。 放眼全球，总的人口趋势是东亚萎缩，欧洲、北美、南美基本保持不变，非洲、西亚和南亚继续增长，其中非洲增长最快。 2、中产阶级崛起 2010年前后，印度社会收入结构是高度“金字塔形”的，如下图所示。 到了2024年，中产阶级逐渐增多，而根据日本智库的预计，2030年印度将拥有约1.2亿户家庭年收入超过3.5万美元的中产和富人家庭。 2026年第二季度，印度GDP创纪录增长了7.8%，金融",
+    "publishedAt": "2026-09-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789870125000",
+    "title": "马云，还在设计淘宝",
+    "link": "https://www.tmtpost.com/8145999.html",
+    "summary": "阿里现在最缺的，从来不是一个新业务。淘宝闪购需要重新做即时履约，AI 需要重新建立产品和用户习惯，线下消费又要求一家互联网公司真正理解城市里的商家和服务者。",
+    "publishedAt": "2026-09-20",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -1008,4 +1048,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-19T19:59:29.727Z';
+export const dataFetchedAt = '2026-09-20T03:11:51.587Z';
