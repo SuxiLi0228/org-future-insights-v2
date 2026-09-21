@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-s-extinction-risk-and-bioweapons-threat-1789733400000",
-    "title": "The Download: AI’s extinction risk and bioweapons threat",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
-    "publishedAt": "2026-09-18",
+    "id": "news-the-download-investigating-deaths-at-the-us-border-8217-s-vi-1789993200000",
+    "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
+    "publishedAt": "2026-09-21",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-days-left-to-save-up-to-200-to-techcrunch-disrupt-2026-1789940468000",
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-    "publishedAt": "2026-09-20",
+    "id": "news-x-will-now-tell-users-when-governments-have-forced-it-to-lim-1790012735000",
+    "title": "X will now tell users when governments have forced it to limit their posts",
+    "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+    "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+    "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,17 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-cfo-paradox-balancing-global-hiring-confidence-vs-restra-1789981200000",
-    "title": "The CFO paradox: Balancing global hiring confidence vs restraint",
-    "link": "https://www.hrdive.com/spons/the-cfo-paradox-balancing-global-hiring-confidence-vs-restraint/829523/",
-    "summary": "CFOs balance global hiring opportunities with complex risks across borders. But are they succeeding?",
+    "id": "news-religious-bias-requires-more-than-knowledge-of-employee-s-ac-1790005800000",
+    "title": "Religious bias requires more than knowledge of employee’s accommodation need, court says",
+    "link": "https://www.hrdive.com/news/religious-bias-requires-more-than-knowledge-of-accommodation-need/830876/",
+    "summary": "Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -54,10 +53,167 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789991480000",
-    "title": " 如何速成一家百亿估值的具身智能企业 ",
-    "link": "https://www.huxiu.com/article/4892955.html?f=rss",
-    "summary": "本文来自微信公众号： 叫小宋 别叫总 ，作者：叫小宋，题图来自：AI生成 前两轮主要靠团队+画饼。 创始人要么是看起来的技术大牛，要么是投资人下场，团队其他人需要有行业专家，高校教授，大厂顾问。 要找准跟友商的差异化，叙事要有&ldquo;钩子&rdquo;，要一句话就能讲明白公司最大的特色，这样媒体才好帮你传播。 光靠团队+PPT就融两轮，是百亿估值的基本操作。 如果前两轮都融不到，那就说明团队不行，或者饼不行。 第三轮，外购你能买到的所有东西，尽快把一台机器人搭起来。 人后台远程遥控，机器人完成叠衣服、抓取等操作。把叠衣服的过程拍视频，但是只对机器人拍。 融资话术：原型机完成复杂非结构化场景操作，证明通用具身能力。 第四轮，基于开源大模型做少量微调，基座模型权重直接拿来。 融资话术：自研具身大模型。 第五轮，暂时没有对合成数据的需求，也要去买合成数据，并且宣布说物理数据已经不满足公司对corner case的要求。 融资话术：有全行业领先的预训练进度，率先在长尾扩充环节使用合成数据。 第六轮，把外购的灵巧手的logo打磨掉，镀上自己的logo。 融资话术：自研灵巧手。 第七轮，找芯原股份这样的设计服务企业，公司提需求，芯原完成全部设计。 这颗芯片就可以作为公司自主研发的芯片了。融资话术：自研具身AI芯片。 第八轮，在专门的机器人评测榜单做定向调优，针对评测数据集专门训练，最终取",
+    "id": "news--1790009675000",
+    "title": " 梁宁演讲笔记：物质过剩的时代，什么才是最稀缺的？ ",
+    "link": "https://www.huxiu.com/article/4893019.html?f=rss",
+    "summary": "本文来自微信公众号： 橙竹洞见 ，作者：竺大炜 前几天听梁宁的一场演讲，记了一堆零散的笔记。 一、稀缺性：内卷的反面 梁宁对“内卷”的定义：内卷，就是无意义的精益求精。 当所有人都朝着同一个方向不断优化时，优化本身不再产生多少增量价值，更多变成了彼此之间的消耗。 她接着给了一个更底层的判断：需求的敌人是满足。 一个需求被满足以后，原来的痛点会消失，但新的需求又会出现。 所以，商业机会往往藏在那些还没有被满足的稀缺性里。 在物质过剩的时代，稀缺的可能不再是商品本身，而是：关注度、信任以及意义。 内容越来越多，人的注意力却没有变多； 注意力可以瞬间转移，信任却需要长期积累； 当基本需求逐渐被满足以后，人们开始愿意为“我觉得这件事情有意义”买单。 这三个词，基本构成了后面所有讨论的底座。 二、功能价值和情绪价值 功能价值满足用户的刚需，对提供功能价值的产品，用户会追求性价比和完备性。 功能价值远没有挖掘完，关键在于“挖掘”。 比如中国有三亿独居人口，其中有越来越多的年轻人。 独居人群的痛点——碗少、不想洗、厨房小——长期没有被传统大家电很好地解决。 这不是广告 胶囊洗碗机填的就是这个小小的需求洼地。 不过，功能价值解决问题太直接，也更容易被看懂、被模仿、被复制。 你解决了一个问题，别人很快就知道你是怎么解决的。 参数可以复制。 功能可以复制。 供应链可以复制。 最后很容易又卷回价格和效率",
+    "publishedAt": "2026-09-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-7-93-1789993897000",
+    "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
+    "link": "https://www.tmtpost.com/8147943.html",
+    "summary": "前次收购夭折仅一月即火速对接，业绩对赌与估值反差引监管关注。",
+    "publishedAt": "2026-09-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-we-made-the-first-comprehensive-map-of-deaths-along-the--1789992000000",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;",
+    "publishedAt": "2026-09-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-oura-8217-s-2-2b-ipo-is-mostly-a-payday-for-existing-shareho-1790009147000",
+    "title": "Oura&#8217;s $2.2B IPO is mostly a payday for existing shareholders",
+    "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+    "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+    "publishedAt": "2026-09-21",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-week-in-review-employers-need-more-bench-strength-1790002680000",
+    "title": "Week in review: Employers need more ‘bench strength’",
+    "link": "https://www.hrdive.com/news/week-in-review-employers-need-more-bench-strength/830867/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of Generation Z workers that said they intend to look for a new role before the year is through.",
+    "publishedAt": "2026-09-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gpt-6-astra-1789978915000",
+    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+    "link": "https://www.qbitai.com/2026/09/493241.html",
+    "summary": "97%尝试危险行为",
+    "publishedAt": "2026-09-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790006927000",
+    "title": " 胡塞为何暴走，沙特为何拉胯？ ",
+    "link": "https://www.huxiu.com/article/4893018.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 9月19日，沙特对外确认胡塞首次在最近的红海冲突升级中向首都利雅得发射弹道导弹。虽然导弹被拦截，但是从红海岛屿到沙特腹地，胡塞突然“暴走”，已经让这场原本局限在也门的战争迅速演变成一场关系沙特能源安全和整个中东力量格局的危机。 如果只看账面实力，胡塞武装无论如何不应该成为今天中东最难对付的军事力量之一。 它所在的也门是世界上最贫穷的国家之一，长期遭到封锁，工业基础薄弱，空军几乎不存在，海军更谈不上现代化。它面对的沙特阿拉伯却完全是另一个世界。沙特拥有F-15、台风战斗机、爱国者和“萨德”防空系统、阿帕奇武装直升机、M1A2主战坦克，还有世界上最充裕的国防预算之一。9月17日，美国国务院又批准了一笔潜在的243亿美元军售，准备向沙特出售48架F-35。 纸面实力的差距背后，过去十年的战争给出的答案却恰恰相反。 2015年沙特领导联军进入也门时，胡塞还主要被外界视为一支盘踞北部山区的地方武装。十多年以后，它没有被消灭，反而拥有数十万武装人员、弹道导弹、巡航导弹、远程无人机、反舰武器和无人艇。 联合国专家组2025年估计，胡塞武装人员已经约有35万。进入今年9月以后，胡塞又沿也门红海沿岸迅速推进，攻占穆哈等战略地点，控制曼德海峡附近关键岛屿，并继续向沙特发动无人机和导弹袭击。 与此同时，沙特最重要的石油出口通道接连出问题。霍尔木兹海峡的运",
+    "publishedAt": "2026-09-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1789993841000",
+    "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
+    "link": "https://www.tmtpost.com/8147817.html",
+    "summary": "下一个十年，算力的差距会缩小，存力的差距才会决定谁跑在前面。",
+    "publishedAt": "2026-09-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-4-ways-to-address-the-failures-we-found-along-the-us-border--1789992000000",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
+    "publishedAt": "2026-09-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-with-tabby-a-former-accountant-is-using-ai-to-make-accountan-1790008731000",
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "publishedAt": "2026-09-21",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-aren-t-women-applying-it-may-be-due-to-a-lack-of-represe-1790002680000",
+    "title": "Why aren’t women applying? It may be due to a lack of representation.",
+    "link": "https://www.hrdive.com/news/gender-representation-job-choices-women/830878/",
+    "summary": "In an Emory University study, women survey-takers seemed discouraged from applying for jobs that were perceived as lacking gender diversity.",
+    "publishedAt": "2026-09-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-ai-1789977166000",
+    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+    "link": "https://www.qbitai.com/2026/09/493235.html",
+    "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+    "publishedAt": "2026-09-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790006643000",
+    "title": " 正在消失的邮箱? ",
+    "link": "https://www.huxiu.com/article/4893017.html?f=rss",
+    "summary": "本文来自微信公众号： 夸克点评 ，作者：王如晨 1997年，刚学会上网时，我在复旦中文系语音实验室干的最多的事，一是折腾设计网页，二是反复申请各种免费邮箱，大概几十个吧。还想着有个啥工具，能将分散的小空间邮件聚合成庞大的世界。 多年后，即便办公用的Gmail、QQ邮箱，也极少打开了（常做认证）。估计你也差不多吧。 邮箱会消失吗，尤其是此刻agent大兴之时？ 本月8日，Meta发布了个人AI Agent“Muse”。Muse可以做很多事，在线购物、填写表单、预订旅行，但它可以自主发送邮件。用户授权后，Muse读取收件箱、撰写回复、直接发送，不需要人类按“发送”键。 三个月前，Anthropic的Claude拿到了同样的权限。Google坚持Gemini不能自主按下发送键。三家公司态度不同，问题是一样的。当AI开始处理邮件，邮箱该由谁做主。 压力是真实的。Hostinger分析了2026年1月发出的10亿封邮件，87%由自动化系统生成，只有13%由人写成，能通过安全过滤到达收件箱的只有44%。Barracuda联合哥伦比亚大学的研究显示，截至2025年4月，51%的垃圾邮件由AI生成，首次超过人类编写的比例。人不再打开收件箱，AI在填满收件箱，收件箱里的内容越来越不值得信任。 约翰·弗里曼在《The Tyranny of E-mail》中写道，邮件“在无休止的、孤独的、与过满收件箱的",
     "publishedAt": "2026-09-21",
     "source": "虎嗅",
     "tags": [
@@ -82,11 +238,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-could-ai-really-kill-us-all-your-questions-answered-1789730962000",
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
-    "publishedAt": "2026-09-18",
+    "id": "news-the-us-spent-billions-on-border-surveillance-why-can-t-it-ca-1789992000000",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;",
+    "publishedAt": "2026-09-21",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,11 +250,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-world-model-companies-are-keeping-a-lot-of-secrets-1789936147000",
-    "title": "World model companies are keeping a lot of secrets",
-    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-    "publishedAt": "2026-09-20",
+    "id": "news-where-will-the-next-breakout-startup-come-from-benchmark-s-f-1790002800000",
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+    "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,167 +263,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-better-support-not-more-features-is-the-missing-link-in--1789981200000",
-    "title": "Why better support — not more features — is the missing link in HR technology",
-    "link": "https://www.hrdive.com/spons/why-better-support-not-more-features-is-the-missing-link-in-hr-technolo/830374/",
-    "summary": "The value of a service-led HR platform isn&rsquo;t just what it can do &mdash; it&rsquo;s how well it&rsquo;s backed by expertise, implemented and used.",
+    "id": "news-the-cfo-paradox-balancing-global-hiring-confidence-vs-restra-1789981200000",
+    "title": "The CFO paradox: Balancing global hiring confidence vs restraint",
+    "link": "https://www.hrdive.com/spons/the-cfo-paradox-balancing-global-hiring-confidence-vs-restraint/829523/",
+    "summary": "CFOs balance global hiring opportunities with complex risks across borders. But are they succeeding?",
     "publishedAt": "2026-09-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-gpt-6-astra-1789978915000",
-    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-    "link": "https://www.qbitai.com/2026/09/493241.html",
-    "summary": "97%尝试危险行为",
-    "publishedAt": "2026-09-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789990988000",
-    "title": " 英学者：“中国挤压论”不成立，印度工业化失败怪不到中国 ",
-    "link": "https://www.huxiu.com/article/4892967.html?f=rss",
-    "summary": "本文来自微信公众号： 南亚研究通讯 ，编译：杨林宇，作者：亚当·图兹，原文标题：《编译 | 英学者：“中国挤压论”不成立，印度工业化失败怪不到中国！》 编者按 近年来，随着中国制造业崛起及其在全球贸易中的份额持续扩大，国际舆论中逐渐出现所谓“中国挤压”（China Squeeze）的说法。该论调由印度学者提出，认为中国凭借低成本、高效率的制造业出口挤压了其他发展中国家实现工业化的空间。然而，亚当·图兹（Adam Tooze）并未接受这一判断，而是将“中国挤压”置于发展经济学、全球贸易与历史比较的框架中重新审视。文章指出，“中国挤压”论基于两大核心假设，一是中国应遵循传统“发展模式”，在工业化后逐步退出某些低技能产业；二是低技能制造业份额应与国家人口分布比例大体一致。然而，这两项假设均不成立。首先，发展本就没有固定模式，并非按部就班；其次，产业也并不按照人口分布，而是基于能力。即便中国在部分产业领域让出市场份额，自身能力不足的国家也无法把握发展机遇。正因如此，“中国挤压”论并非严肃发展经济学理论，而只是政治宣传用语。其本质是转移矛盾，将本国发展受挫归咎他人。南亚研究通讯特编译此文，供各位读者批判参考。 一、“冲击”的三种描述 关于“中国冲击”（China shock），目前存在三种不同的话语。三者分别对应不同的时间维度。 “中国冲击1.0”是美国学者在2010年代创造的一个词汇。他们",
-    "publishedAt": "2026-09-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789985314000",
-    "title": "消费降温，为什么香氛却升温了？",
-    "link": "https://www.tmtpost.com/8147678.html",
-    "summary": "香氛类产品恰好卡在一个微妙的位置。",
-    "publishedAt": "2026-09-21",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-b-1789722000000",
-    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
-    "publishedAt": "2026-09-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-1789933128000",
-    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-    "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-    "summary": "Many of The Boring Company's announced project have not materialized.",
-    "publishedAt": "2026-09-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-healthcare-costs-are-changing-the-game-for-peos-and-the--1789981200000",
-    "title": "How healthcare costs are changing the game for PEOs — and the worksite employers they support",
-    "link": "https://www.hrdive.com/spons/how-healthcare-costs-are-changing-the-game-for-peos-and-the-worksite-empl/830492/",
-    "summary": "Small business employers now cite controlling healthcare costs as their top strategic priority for benefits. Here&rsquo;s how PEOs can deliver value.",
-    "publishedAt": "2026-09-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-ai-1789977166000",
-    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-    "link": "https://www.qbitai.com/2026/09/493235.html",
-    "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-    "publishedAt": "2026-09-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1789989164000",
-    "title": " 汽车厂商收缩，留下了一些没人管的“孤儿车” ",
-    "link": "https://www.huxiu.com/article/4892963.html?f=rss",
-    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 传统豪华车经销商的门店，正在一家接一家地关闭。 上个月，多家头部经销商关停旗下传统高端品牌的标杆门店：利星行关闭了南京最大的奔驰4S店利之星，正通汽车停掉了湖南首家宝马4S店，美东汽车的天津雷克萨斯门店也随之关门。而在更早之前，保时捷在华门店就已显露颓势——官方计划到2026年底把在华销售网点砍掉三分之一，从120家压缩至80家门店。 经销商全线收缩的背后，是传统豪华车品牌的销量不断下滑。据官方披露，2026年上半年奔驰、宝马、奥迪和保时捷在华销量同比分别下滑28%、20.4%、19.3%和32%。 然而，与车企和经销商一同收缩的，还有车主权益。 南京的张先生告诉知危，虽然利星行其他两家门店承接了利之星客户的售后工作，但是利之星门店之前保证的门店权益基本上是没了。 经销商门店倒闭，对于车主来说，虽然总有这里或者那里的利益受损，但好歹只是相对麻烦了一些，最终还有厂家保底。 还有种更严重的情况是，一些汽车品牌已逐步退出中国市场。 比如上个月开始，雪佛兰暂停在华新车零售业务，后续国内不再推新车型、不再搞年度改款，也不再进行新车铺货。和雪佛兰类似的，去年10月开始，极星汽车也关闭其国内最后一家直营门店，在华改为线上销售。当时，极星强调“其他业务不受影响，车主权益可得到保障”。 事实上，极星车主确实能在线上联系到极星专属客服，也能将",
-    "publishedAt": "2026-09-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-200-figure-30-1789985304000",
-    "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
-    "link": "https://www.tmtpost.com/8147667.html",
-    "summary": "Figure机器人是否堪当家务保姆？",
-    "publishedAt": "2026-09-21",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-mice-with-part-human-brains-and-climate-tech-in-1789647000000",
-    "title": "The Download: mice with part-human brains and climate tech innovators",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
-    "publishedAt": "2026-09-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-is-the-ai-industry-really-ready-to-slow-down-1789930564000",
-    "title": "Is the AI industry really ready to slow down?",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-    "publishedAt": "2026-09-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-starbucks-florida-ag-ink-deal-to-end-lawsuit-over-alleged-il-1789763160000",
-    "title": "Starbucks, Florida AG ink deal to end lawsuit over alleged illegal DEI practices",
-    "link": "https://www.hrdive.com/news/starbucks-florida-ag-ink-lawsuit-alleged-illegal-dei/830829/",
-    "summary": "Attorney General James Uthmeier alleged that the coffee chain excluded or disfavored nonminorities in a lawsuit that mirrored recent federal enforcement activity.",
-    "publishedAt": "2026-09-18",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -290,24 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-1789988912000",
-    "title": " 智谱都拿到10亿订单了，国内网安股为什么还在跌？ ",
-    "link": "https://www.huxiu.com/article/4892962.html?f=rss",
-    "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君，原文标题：《智谱都拿到 10 亿订单了，国内网安股为什么还在跌？》 今年AI行情里，有一个非常反常识的分化。 美国网络安全股已经涨疯了。截至8月31日，美国网络安全ETF CIBR年内上涨40.36%，涨幅远远跑赢同期纳指，甚至还跑出了不少涨幅翻倍的牛股。 另一边，中国网安股却几乎完全是另外一幅画面。 哪怕智谱拿到的网安相关订单已经超过10亿元，整个板块依然惨不忍睹。截至9月18日，中证信息安全主题指数年内下跌12.49%。 一边涨40%，一边跌12%，一年不到，两边已经拉开超过50个百分点。 这就很有意思了。 明明大家面对的是同一轮AI浪潮，为什么美国网安都成了AI牛股，国内却跌得这么惨？ 核心原因在于，中美的网络安全已经越来越像两种完全不同的生意： 美国网安已经变成跟着AI使用量一起增长的基础设施，赚的是AI扩张的钱；而国内国内网安还主要停留在成本中心，被死死困在传统政企IT的合规预算里。 这才是今年中美网安股越走越远的根本原因。 /01/ 两个完全不同的市场 中美网安股，正在变成两门完全不同的生意。 美国网络安全正在从一项传统的软件支出，变成AI时代的一种“税”。而国内网安的收入还锁在传统政企IT的合规预算里。 这个差别，最先反映在行业规模上。 Gartner预计，2026年全球信息安全支出将达到2440亿美元，同比增长1",
-    "publishedAt": "2026-09-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1789985300000",
-    "title": "猪周期：在低谷中熬垮对手",
-    "link": "https://www.tmtpost.com/8146565.html",
-    "summary": "猪企的双输选择。",
+    "id": "news--1789985314000",
+    "title": "消费降温，为什么香氛却升温了？",
+    "link": "https://www.tmtpost.com/8147678.html",
+    "summary": "香氛类产品恰好卡在一个微妙的位置。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -318,24 +304,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-innovators-under-35-shaping-climate-tech-1789639200000",
-    "title": "Meet the innovators under 35 shaping climate tech",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
-    "publishedAt": "2026-09-17",
+    "id": "news-she-died-at-the-san-diego-border-a-surveillance-camera-was-i-1789992000000",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
+    "publishedAt": "2026-09-21",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-vocci-8217-s-ring-adds-a-new-form-factor-to-meeting-note-tak-1789929172000",
-    "title": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-    "publishedAt": "2026-09-20",
+    "id": "news-google-8217-s-899-googlebook-is-a-bet-that-you-8217-ll-buy-a-1790001562000",
+    "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
+    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+    "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -344,17 +329,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-butterball-settles-eeoc-allegation-it-was-liable-for-vendor--1789763100000",
-    "title": "Butterball settles EEOC allegation it was liable for vendor’s failure to process ADA leave request",
-    "link": "https://www.hrdive.com/news/butterball-settles-eeoc-allegation-ada-cancer-vendor-claim-failure/830804/",
-    "summary": "Employers can&rsquo;t delegate their responsibility for complying with federal law to a third-party administrator, an EEOC attorney said.",
-    "publishedAt": "2026-09-18",
+    "id": "news-why-better-support-not-more-features-is-the-missing-link-in--1789981200000",
+    "title": "Why better support — not more features — is the missing link in HR technology",
+    "link": "https://www.hrdive.com/spons/why-better-support-not-more-features-is-the-missing-link-in-hr-technolo/830374/",
+    "summary": "The value of a service-led HR platform isn&rsquo;t just what it can do &mdash; it&rsquo;s how well it&rsquo;s backed by expertise, implemented and used.",
+    "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -371,23 +355,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789988665000",
-    "title": " 大厂女工生育好比甄嬛：战略怀孕后还渴望逆袭 ",
-    "link": "https://www.huxiu.com/article/4892876.html?f=rss",
-    "summary": "题图来自：视觉中国 甄嬛在甘露寺策划了一场怀孕自保，当代大厂女工在低绩效后谋划怀孕苟住。古今如此相似，肚子=免死金牌。 最近，一位大厂女工绩效被打分为M-，想用&ldquo;战略性怀孕&rdquo;苟住的话题又火了。这种现象早在三、四年前就曾被讨论，如今再度被推上舆论的&ldquo;风口浪尖&rdquo;。 本期内容，花姐联系了几位在大厂&ldquo;战怀&rdquo;的女员工，及某大厂HR，从不同的视角，听听大厂冰冷的生存规则，女性在怀孕后要经历的无奈与挣扎，并试图还原一个真相，是什么让女性把&ldquo;战略性怀孕&rdquo;当成抵御辞职的最优解。 一、凌晨下班的大厂女工，回家还要完成怀孕KPI &nbsp; 林晓下班打卡的时间是凌晨12点半，坐上出租车，她给老公发了一条微信，&ldquo;这两天是排卵日，准备一下。&rdquo;老公发来一个&ldquo;ok&rdquo;的表情包。林晓关上手机，一天工作的疲惫涌了上来，她靠在椅背上小憩，为身体蓄力。回家后，她还要完成另一项关乎职业生涯的KPI&mdash;&mdash;怀孕。 林晓&ldquo;战略备孕&rdquo;已经半年了，3月份绩效开分，一个M-，及对团队没有突出贡献的评语给林晓上了紧箍咒，她已在淘汰边缘。 在业务收缩、全员内卷的大环境下，想要逆风翻盘，除了在工作上更积极表现，争取大结果外，她必须拿出一套防御性措施，让",
-    "publishedAt": "2026-09-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-robox-1789984987000",
-    "title": "RoboX的“有用”之年",
-    "link": "https://www.tmtpost.com/8147585.html",
-    "summary": "RoboX第一次证明了自己“有用” 。不是“未来有用”，是现在就有用——能赚钱，能替代人，能解决真实世界的问题。",
+    "id": "news-200-figure-30-1789985304000",
+    "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
+    "link": "https://www.tmtpost.com/8147667.html",
+    "summary": "Figure机器人是否堪当家务保姆？",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -1067,4 +1038,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-21T11:53:53.704Z';
+export const dataFetchedAt = '2026-09-21T17:48:14.573Z';

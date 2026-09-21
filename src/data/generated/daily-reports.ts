@@ -2,6 +2,137 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-22-auto",
+    "date": "2026-09-22",
+    "session": "auto",
+    "title": "2026-09-22 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-22-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+      },
+      {
+        "id": "sig-2026-09-22-auto-2",
+        "emoji": "💡",
+        "title": "X will now tell users when governments have forced it to limit their posts",
+        "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+        "detail": "来源: TechCrunch。X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"
+      },
+      {
+        "id": "sig-2026-09-22-auto-3",
+        "emoji": "💡",
+        "title": "Religious bias requires more than knowledge of employee’s accommodation need, court says",
+        "summary": "Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
+        "detail": "来源: HR Dive。Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/religious-bias-requires-more-than-knowledge-of-accommodation-need/830876/"
+      },
+      {
+        "id": "sig-2026-09-22-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Designer-RSI: Evolving Procedural Memory from User Traffic f...",
+        "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro",
+        "detail": "作者: Hongyang Du, Lan Yan, Christian Flores。Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 au",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.22086v1"
+      },
+      {
+        "id": "sig-2026-09-22-auto-5",
+        "emoji": "💼",
+        "title": "Sticker Mule 正在招募 AI agent engineer",
+        "summary": "岗位类型：业务+AI 复合岗。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
+        "detail": "技能要求: Agent, GCP, OpenAI。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers Work performed I",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Sticker Mule"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Sticker Mule",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-22-1",
+        "priority": "medium",
+        "action": "关注「The Download: investigating deaths at th」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-22-2",
+        "priority": "low",
+        "action": "关注「X will now tell users when governments h」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-22-3",
+        "priority": "low",
+        "action": "关注「Religious bias requires more than knowle」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-22-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Designer-RSI: Evolving Procedural M」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-22-5",
+        "priority": "medium",
+        "action": "关注「Sticker Mule 正在招募 AI agent engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Sticker Mule"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-22 生成，聚合了 28 条新闻、20 篇论文、14 个岗位。",
+    "fetchWindow": "2026-09-22 00:00 - 2026-09-22 23:59"
+  },
+  {
     "id": "report-2026-09-21-auto",
     "date": "2026-09-21",
     "session": "auto",
