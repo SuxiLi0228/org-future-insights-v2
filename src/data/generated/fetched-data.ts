@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-will-now-tell-users-when-governments-have-forced-it-to-lim-1790012735000",
-    "title": "X will now tell users when governments have forced it to limit their posts",
-    "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-    "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+    "id": "news-openai-forms-math-advisory-group-as-its-ai-resolves-more-tha-1790021758000",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
     "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-religious-bias-requires-more-than-knowledge-of-employee-s-ac-1790005800000",
-    "title": "Religious bias requires more than knowledge of employee’s accommodation need, court says",
-    "link": "https://www.hrdive.com/news/religious-bias-requires-more-than-knowledge-of-accommodation-need/830876/",
-    "summary": "Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
+    "id": "news-teen-s-therapeutic-dj-classes-did-not-entitle-mother-to-fmla-1790020680000",
+    "title": "Teen’s ‘therapeutic’ DJ classes did not entitle mother to FMLA leave, court finds",
+    "link": "https://www.hrdive.com/news/teens-therapeutic-dj-classes-did-not-entitle-mother-to-fmla-leave-mattress-firm/830933/",
+    "summary": "While the mother, a Mattress Firm manager, said the classes were related to her son&rsquo;s mental health, the court noted they had not been prescribed.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -66,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-93-1789993897000",
-    "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
-    "link": "https://www.tmtpost.com/8147943.html",
-    "summary": "前次收购夭折仅一月即火速对接，业绩对赌与估值反差引监管关注。",
+    "id": "news-ai-1790002827000",
+    "title": "AI发展放缓对能源股意味着什么",
+    "link": "https://www.tmtpost.com/8148083.html",
+    "summary": "如果人工智能建设热潮放缓，投资者可能面临的三种情景。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -92,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-8217-s-2-2b-ipo-is-mostly-a-payday-for-existing-shareho-1790009147000",
-    "title": "Oura&#8217;s $2.2B IPO is mostly a payday for existing shareholders",
-    "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-    "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+    "id": "news-discover-what-s-next-5-days-left-to-save-up-to-200-on-your-t-1790018700000",
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
     "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
@@ -105,17 +106,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-employers-need-more-bench-strength-1790002680000",
-    "title": "Week in review: Employers need more ‘bench strength’",
-    "link": "https://www.hrdive.com/news/week-in-review-employers-need-more-bench-strength/830867/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of Generation Z workers that said they intend to look for a new role before the year is through.",
+    "id": "news-colorado-judge-doctor-s-burnout-wasn-t-a-disability-1790020680000",
+    "title": "Colorado judge: Doctor’s burnout wasn’t a disability",
+    "link": "https://www.hrdive.com/news/doctors-burnout-didnt-count-as-disability-colorado-judge/830932/",
+    "summary": "The Americans with Disabilities Act and related federal laws define disability broadly, but recent federal court decisions demonstrate the statute&rsquo;s limits.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -145,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789993841000",
-    "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
-    "link": "https://www.tmtpost.com/8147817.html",
-    "summary": "下一个十年，算力的差距会缩小，存力的差距才会决定谁跑在前面。",
+    "id": "news-7-93-1789993897000",
+    "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
+    "link": "https://www.tmtpost.com/8147943.html",
+    "summary": "前次收购夭折仅一月即火速对接，业绩对赌与估值反差引监管关注。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -171,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-with-tabby-a-former-accountant-is-using-ai-to-make-accountan-1790008731000",
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "id": "news-meta-8217-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-1790018361000",
+    "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
     "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
@@ -184,10 +184,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-aren-t-women-applying-it-may-be-due-to-a-lack-of-represe-1790002680000",
-    "title": "Why aren’t women applying? It may be due to a lack of representation.",
-    "link": "https://www.hrdive.com/news/gender-representation-job-choices-women/830878/",
-    "summary": "In an Emory University study, women survey-takers seemed discouraged from applying for jobs that were perceived as lacking gender diversity.",
+    "id": "news-religious-bias-requires-more-than-knowledge-of-employee-s-ac-1790005800000",
+    "title": "Religious bias requires more than knowledge of employee’s accommodation need, court says",
+    "link": "https://www.hrdive.com/news/religious-bias-requires-more-than-knowledge-of-accommodation-need/830876/",
+    "summary": "Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
@@ -224,10 +224,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-6-ai-1789985472000",
-    "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
-    "link": "https://www.tmtpost.com/8147676.html",
-    "summary": "当安全事件变成定期披露，AI公司就从\"出了大事再解释\"转向\"持续被审计\"。",
+    "id": "news--1789993841000",
+    "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
+    "link": "https://www.tmtpost.com/8147817.html",
+    "summary": "下一个十年，算力的差距会缩小，存力的差距才会决定谁跑在前面。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -250,10 +250,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-where-will-the-next-breakout-startup-come-from-benchmark-s-f-1790002800000",
-    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+    "id": "news-kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuc-1790014985000",
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+    "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
     "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
@@ -263,17 +263,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-cfo-paradox-balancing-global-hiring-confidence-vs-restra-1789981200000",
-    "title": "The CFO paradox: Balancing global hiring confidence vs restraint",
-    "link": "https://www.hrdive.com/spons/the-cfo-paradox-balancing-global-hiring-confidence-vs-restraint/829523/",
-    "summary": "CFOs balance global hiring opportunities with complex risks across borders. But are they succeeding?",
+    "id": "news-why-aren-t-women-applying-it-may-be-due-to-a-lack-of-represe-1790002680000",
+    "title": "Why aren’t women applying? It may be due to a lack of representation.",
+    "link": "https://www.hrdive.com/news/gender-representation-job-choices-women/830878/",
+    "summary": "In an Emory University study, women survey-takers seemed discouraged from applying for jobs that were perceived as lacking gender diversity.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -290,10 +289,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1789985314000",
-    "title": "消费降温，为什么香氛却升温了？",
-    "link": "https://www.tmtpost.com/8147678.html",
-    "summary": "香氛类产品恰好卡在一个微妙的位置。",
+    "id": "news-openai-6-ai-1789985472000",
+    "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
+    "link": "https://www.tmtpost.com/8147676.html",
+    "summary": "当安全事件变成定期披露，AI公司就从\"出了大事再解释\"转向\"持续被审计\"。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -316,29 +315,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-899-googlebook-is-a-bet-that-you-8217-ll-buy-a-1790001562000",
-    "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
-    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+    "id": "news-meta-8217-s-ai-agent-has-been-blocked-from-using-amazon-com-1790013318000",
+    "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
+    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
     "publishedAt": "2026-09-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-why-better-support-not-more-features-is-the-missing-link-in--1789981200000",
-    "title": "Why better support — not more features — is the missing link in HR technology",
-    "link": "https://www.hrdive.com/spons/why-better-support-not-more-features-is-the-missing-link-in-hr-technolo/830374/",
-    "summary": "The value of a service-led HR platform isn&rsquo;t just what it can do &mdash; it&rsquo;s how well it&rsquo;s backed by expertise, implemented and used.",
+    "id": "news-week-in-review-employers-need-more-bench-strength-1790002680000",
+    "title": "Week in review: Employers need more ‘bench strength’",
+    "link": "https://www.hrdive.com/news/week-in-review-employers-need-more-bench-strength/830867/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of Generation Z workers that said they intend to look for a new role before the year is through.",
     "publishedAt": "2026-09-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -355,10 +356,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-figure-30-1789985304000",
-    "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
-    "link": "https://www.tmtpost.com/8147667.html",
-    "summary": "Figure机器人是否堪当家务保姆？",
+    "id": "news--1789985314000",
+    "title": "消费降温，为什么香氛却升温了？",
+    "link": "https://www.tmtpost.com/8147678.html",
+    "summary": "香氛类产品恰好卡在一个微妙的位置。",
     "publishedAt": "2026-09-21",
     "source": "钛媒体",
     "tags": [
@@ -1038,4 +1039,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-21T17:48:14.573Z';
+export const dataFetchedAt = '2026-09-21T21:40:05.280Z';
