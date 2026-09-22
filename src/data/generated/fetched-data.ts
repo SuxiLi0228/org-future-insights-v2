@@ -14,24 +14,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stolen-passwords-are-exposing-america-8217-s-water-providers-1790092258000",
-    "title": "Stolen passwords are exposing America&#8217;s water providers to hackers",
-    "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-    "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+    "id": "news-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on--1790107200000",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
-    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
+    "id": "news-maryland-governor-s-ai-framework-focuses-on-regulation-and-r-1790106120000",
+    "title": "Maryland governor’s AI framework focuses on regulation and reskilling",
+    "link": "https://www.hrdive.com/news/maryland-governor-ai-framework-focuses-on-regulation-and-reskilling/831016/",
+    "summary": "While the framework Gov. Wes Moore established begins with forming committees and gathering stakeholders, Maryland already has one law regulating the technology at work.",
     "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
@@ -42,15 +41,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790087339000",
-    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-    "link": "https://www.qbitai.com/2026/09/494420.html",
-    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+    "id": "news--1790092775000",
+    "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+    "link": "https://www.qbitai.com/2026/09/494429.html",
+    "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790093342000",
+    "title": " 中国商业航天“新”在哪里？ ",
+    "link": "https://www.huxiu.com/article/4893333.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：陈旭钦 9月20日12时03分，中科宇航技术股份有限公司力箭一号遥十八运载火箭在酒泉东风商业航天创新试验区发射，采用“一箭九星”的方式，将“超智算一号”等九颗卫星成功送入预定轨道。 同时，力箭一号首次海上发射即将启程，将执行“一箭三星”发射任务。陆海协同发射，提供更加灵活的空间运输能力。 事实上，最近一周之内（9月15日至20日），快舟十一号、朱雀二号改进型、引力一号、长征十二号、长征二号丁、力箭一号……我国商业航天几乎上演日均一发火箭升空的盛况。 然而，在这热闹、高频、“一箭多星”发射景象背后，一个更深层的问题浮出水面：中国商业航天的新时代究竟“新”在哪里？将对我们的经济与生活带来何种影响？这关乎经济逻辑、产业哲学与全球竞争格局的时代命题。 从“任务型”到“服务型”的产业革命 过去，火箭、卫星是稀罕物。每颗造价数亿元，发射一次要筹备数年，服务对象也仅限于国防、勘探、应急等“国之大事”。那时的卫星应用，是典型的“项目制”。国家立项、专项拨款、定制卫星、交付验收，然后各回各家。 但如今，火箭、卫星不再是稀缺的战略资源。比如，银河航天公司已累计成功发射自主研制卫星53颗，其中SAR卫星10余颗；长光卫星的0.75米光学卫星质量从第一代400公斤降至20公斤，单星制造成本仅400万元，已接近美国“星链”单星成本。火箭、卫星制造正在从精雕细琢的“工",
+    "publishedAt": "2026-09-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -81,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-noble-carbon-will-show-how-it-s-making-ev-charger-installs-p-1790089200000",
-    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-    "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-    "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+    "id": "news-apple-could-take-on-whoop-with-a-new-fitness-tracker-report--1790105277000",
+    "title": "Apple could take on Whoop with a new fitness tracker, report says",
+    "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+    "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -94,23 +106,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-older-workers-struggle-to-showcase-their-true-skills-on-free-1790088420000",
-    "title": "Older workers struggle to showcase their true skills on freelancing platforms, study says",
-    "link": "https://www.hrdive.com/news/older-workers-struggle-to-showcase-their-true-skills-on-freelancing-platfor/831001/",
-    "summary": "As the workforce ages, HR may need to go the extra mile to connect with talent that has the skills they need.",
+    "id": "news-judge-tosses-former-purdue-diversity-chief-s-race-bias-and-r-1790106060000",
+    "title": "Judge tosses former Purdue diversity chief’s race bias and retaliation claims",
+    "link": "https://www.hrdive.com/news/judge-tosses-purdue-former-diversity-chief-race-bias-and-retaliation-claim/831051/",
+    "summary": "The executive offered up three colleagues as similarly situated comparators &mdash; and the judge dismissed all three.",
     "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-ai-1790085430000",
-    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-    "link": "https://www.qbitai.com/2026/09/494263.html",
-    "summary": "商汤U1 Pro，正式发布",
+    "id": "news-agent-cpu-1790092014000",
+    "title": "Agent时代，CPU的价值该重估了",
+    "link": "https://www.qbitai.com/2026/09/494430.html",
+    "summary": "CPU与GPU趋近1∶1",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -146,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-five-ai-safety-sessions-every-founder-should-have-on-their-t-1790089200000",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+    "id": "news-meta-admits-muse-8217-s-likeness-to-openclaw-isn-8217-t-a-co-1790104151000",
+    "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -159,25 +172,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-leaders-worry-about-the-loss-of-critical-leadership-skill-1790088420000",
-    "title": "HR leaders worry about the loss of critical leadership skill development",
-    "link": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
-    "summary": "The entry-level worker pipeline is shrinking and more tasks are being given to artificial intelligence, resulting in fewer learning opportunities for younger workers, a report found.",
+    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
+    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
+    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
+    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
     "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-webarena-shuyan-zhou-meta-1790078333000",
-    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-    "link": "https://www.qbitai.com/2026/09/493653.html",
-    "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+    "id": "news-ai-1790087339000",
+    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+    "link": "https://www.qbitai.com/2026/09/494420.html",
+    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -213,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-astroforge-is-putting-ai-in-command-of-its-next-spacecraft-1790089200000",
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "id": "news-hacking-group-shinyhunters-claims-it-breached-the-fbi-stole--1790102430000",
+    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
+    "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+    "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -226,24 +238,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-teen-s-therapeutic-dj-classes-did-not-entitle-mother-to-fmla-1790020680000",
-    "title": "Teen’s ‘therapeutic’ DJ classes did not entitle mother to FMLA leave, court finds",
-    "link": "https://www.hrdive.com/news/teens-therapeutic-dj-classes-did-not-entitle-mother-to-fmla-leave-mattress-firm/830933/",
-    "summary": "While the mother, a Mattress Firm manager, said the classes were related to her son&rsquo;s mental health, the court noted they had not been prescribed.",
-    "publishedAt": "2026-09-21",
+    "id": "news-older-workers-struggle-to-showcase-their-true-skills-on-free-1790088420000",
+    "title": "Older workers struggle to showcase their true skills on freelancing platforms, study says",
+    "link": "https://www.hrdive.com/news/older-workers-struggle-to-showcase-their-true-skills-on-freelancing-platfor/831001/",
+    "summary": "As the workforce ages, HR may need to go the extra mile to connect with talent that has the skills they need.",
+    "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-6-2000-1790077828000",
-    "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-    "link": "https://www.qbitai.com/2026/09/494179.html",
-    "summary": "Hugging Face CEO：「太棒了」",
+    "id": "news-ai-ai-1790085430000",
+    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+    "link": "https://www.qbitai.com/2026/09/494263.html",
+    "summary": "商汤U1 Pro，正式发布",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -279,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robot-s--1790087400000",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "id": "news-a16z-is-challenging-silicon-valley-8217-s-love-for-drop-outs-1790101474000",
+    "title": "a16z is challenging Silicon Valley&#8217;s love for drop-outs by launching a school",
+    "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -292,23 +303,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-colorado-judge-doctor-s-burnout-wasn-t-a-disability-1790020680000",
-    "title": "Colorado judge: Doctor’s burnout wasn’t a disability",
-    "link": "https://www.hrdive.com/news/doctors-burnout-didnt-count-as-disability-colorado-judge/830932/",
-    "summary": "The Americans with Disabilities Act and related federal laws define disability broadly, but recent federal court decisions demonstrate the statute&rsquo;s limits.",
-    "publishedAt": "2026-09-21",
+    "id": "news-hr-leaders-worry-about-the-loss-of-critical-leadership-skill-1790088420000",
+    "title": "HR leaders worry about the loss of critical leadership skill development",
+    "link": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
+    "summary": "The entry-level worker pipeline is shrinking and more tasks are being given to artificial intelligence, resulting in fewer learning opportunities for younger workers, a report found.",
+    "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-agent-1790071594000",
-    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-    "link": "https://www.qbitai.com/2026/09/494120.html",
-    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+    "id": "news-webarena-shuyan-zhou-meta-1790078333000",
+    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+    "link": "https://www.qbitai.com/2026/09/493653.html",
+    "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -981,4 +994,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-22T16:12:09.170Z';
+export const dataFetchedAt = '2026-09-22T20:50:08.756Z';
