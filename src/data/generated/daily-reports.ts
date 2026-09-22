@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-23-auto",
+    "date": "2026-09-23",
+    "session": "auto",
+    "title": "2026-09-23 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-23-auto-1",
+        "emoji": "💡",
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+        "detail": "来源: MIT Technology Review。The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+      },
+      {
+        "id": "sig-2026-09-23-auto-2",
+        "emoji": "💡",
+        "title": "Stolen passwords are exposing America&#8217;s water providers to hackers",
+        "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+        "detail": "来源: TechCrunch。Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+        "priority": "low",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/"
+      },
+      {
+        "id": "sig-2026-09-23-auto-3",
+        "emoji": "💡",
+        "title": "Workers say they are frustrated by bait-and-switch job descriptions",
+        "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
+        "detail": "来源: HR Dive。When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/"
+      },
+      {
+        "id": "sig-2026-09-23-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：GameHorizon Suite: Multi-Horizon Data and Evaluation in Game...",
+        "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ",
+        "detail": "作者: Yiran Wang, Xingyilang Yin, Junfu Pu。Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.25001v1"
+      },
+      {
+        "id": "sig-2026-09-23-auto-5",
+        "emoji": "💼",
+        "title": "Sticker Mule 正在招募 AI agent engineer",
+        "summary": "岗位类型：业务+AI 复合岗。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
+        "detail": "技能要求: Agent, GCP, OpenAI。Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers Work performed I",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Sticker Mule"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Sticker Mule",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-23-1",
+        "priority": "low",
+        "action": "关注「Roundtables: The Deadly Failures of The 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-23-2",
+        "priority": "low",
+        "action": "关注「Stolen passwords are exposing America&#8」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-23-3",
+        "priority": "low",
+        "action": "关注「Workers say they are frustrated by bait-」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-23-4",
+        "priority": "medium",
+        "action": "关注「研究速递：GameHorizon Suite: Multi-Horizon Da」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-23-5",
+        "priority": "medium",
+        "action": "关注「Sticker Mule 正在招募 AI agent engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Sticker Mule"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-23 生成，聚合了 25 条新闻、20 篇论文、14 个岗位。",
+    "fetchWindow": "2026-09-23 00:00 - 2026-09-23 23:59"
+  },
+  {
     "id": "report-2026-09-22-auto",
     "date": "2026-09-22",
     "session": "auto",

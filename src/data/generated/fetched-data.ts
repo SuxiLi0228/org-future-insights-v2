@@ -2,6 +2,205 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-stolen-passwords-are-exposing-america-8217-s-water-providers-1790092258000",
+    "title": "Stolen passwords are exposing America&#8217;s water providers to hackers",
+    "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+    "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+    "publishedAt": "2026-09-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
+    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
+    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
+    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
+    "publishedAt": "2026-09-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1790087339000",
+    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+    "link": "https://www.qbitai.com/2026/09/494420.html",
+    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+    "publishedAt": "2026-09-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-arm-android-1790086411000",
+    "title": "从卖芯片到做平台，地平线押注“Arm+Android”模式",
+    "link": "https://www.tmtpost.com/8148860.html",
+    "summary": "地平线征程芯片突破1500万颗，Arm+Android模式正成为其进入车企自研体系的新支点。",
+    "publishedAt": "2026-09-22",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
+    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-noble-carbon-will-show-how-it-s-making-ev-charger-installs-p-1790089200000",
+    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+    "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+    "publishedAt": "2026-09-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-older-workers-struggle-to-showcase-their-true-skills-on-free-1790088420000",
+    "title": "Older workers struggle to showcase their true skills on freelancing platforms, study says",
+    "link": "https://www.hrdive.com/news/older-workers-struggle-to-showcase-their-true-skills-on-freelancing-platfor/831001/",
+    "summary": "As the workforce ages, HR may need to go the extra mile to connect with talent that has the skills they need.",
+    "publishedAt": "2026-09-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-ai-ai-1790085430000",
+    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+    "link": "https://www.qbitai.com/2026/09/494263.html",
+    "summary": "商汤U1 Pro，正式发布",
+    "publishedAt": "2026-09-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790081122000",
+    "title": "从单点获客到全渠道经营，出海商家如何打开增长新空间？| 出海参考",
+    "link": "https://www.tmtpost.com/8149186.html",
+    "summary": "六大增长方向向下扎根平台，向上打开生长空间。",
+    "publishedAt": "2026-09-22",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-don-t-be-fooled-by-this-summer-of-ai-hype-1790075091000",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-five-ai-safety-sessions-every-founder-should-have-on-their-t-1790089200000",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+    "publishedAt": "2026-09-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hr-leaders-worry-about-the-loss-of-critical-leadership-skill-1790088420000",
+    "title": "HR leaders worry about the loss of critical leadership skill development",
+    "link": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
+    "summary": "The entry-level worker pipeline is shrinking and more tasks are being given to artificial intelligence, resulting in fewer learning opportunities for younger workers, a report found.",
+    "publishedAt": "2026-09-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-webarena-shuyan-zhou-meta-1790078333000",
+    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+    "link": "https://www.qbitai.com/2026/09/493653.html",
+    "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+    "publishedAt": "2026-09-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790081049000",
+    "title": "卖废品上瘾的年轻人，遍地开花的回收机",
+    "link": "https://www.tmtpost.com/8148919.html",
+    "summary": "当年轻人潜入废品江湖",
+    "publishedAt": "2026-09-22",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-investigating-deaths-at-the-us-border-8217-s-vi-1789993200000",
     "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
     "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
@@ -14,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-morphotonics-raises-40m-to-expand-its-display-tech-into-data-1790056800000",
-    "title": "Morphotonics raises €40M to expand its display tech into data centers",
-    "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-    "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+    "id": "news-astroforge-is-putting-ai-in-command-of-its-next-spacecraft-1790089200000",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790066952000",
-    "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-    "link": "https://www.qbitai.com/2026/09/493865.html",
-    "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+    "id": "news-6-2000-1790077828000",
+    "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+    "link": "https://www.qbitai.com/2026/09/494179.html",
+    "summary": "Hugging Face CEO：「太棒了」",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -54,24 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790073988000",
-    "title": " 中国体育为啥这么爱写检讨 ",
-    "link": "https://www.huxiu.com/article/4893253.html?f=rss",
-    "summary": "本文来自微信公众号： 雷叔说事 ，作者：小林 老许曾经很爱足球，也爱官僚主义。 2011年10月，广州恒大足球队已经提前夺冠了，但球队又马上输了个2比5，创造了建队以来最大惨败。 许家印很生气，后果很严重。 以韩国人李章洙为首的教练组连夜写了检讨，还把这2000字的长文亲手“呈送”，里面说球队得了夺冠后遗症，有的球员故意留力了，要踢国家队比赛。 特别是，千不该万不该，没有彻底贯彻老许的精神要求。 为了平息一场赢球就发500万的老许的怒火，教练组还说，每个教练，每个球员都要写。 这检讨公文味道很足，小标题前有数字，也加粗了，但写的人似乎忘了最重要的事： 要用“仿宋_GB2312”啊！ 拿了冠还不能放松，那输球更要被追责，中国体育长久以来爱干的一件事就是：写检讨。 初衷是好的，想让运动员知耻而后勇，也顺便让他们把文化课上学到的东西表达出来。 就像这次，中国男篮参加了名古屋亚运会，没拿一块奖牌，被球迷们骂惨了，有记者爆料爆料篮协要求每人都写书面总结。 据说教练组、队员，以及视频分析、医疗、体能、科研后勤，一个岗位不落。 什么，体能教练还能管得了运动员爱不爱拼？视频分析还能左右战术布置？ 但我相信包括球员在内的这些人很懂AI了，写好了提示词后，几秒钟大模型就能给你一个满意的回答。 还可能用上靶向发力、链式突破等本身很篮球的词。 是该让体育生露一手文采了。 中国体育爱写检讨的做法主要流行于男",
-    "publishedAt": "2026-09-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790069494000",
-    "title": "当朱江明开始谈苹果，零跑的底气从哪来？",
-    "link": "https://www.tmtpost.com/8148951.html",
-    "summary": "从这次技术日释放的信息来看，零跑正在逐步形成一套更清晰的技术路径。",
+    "id": "news--1790080909000",
+    "title": "除了谈钱，银行也想和你谈谈感情",
+    "link": "https://www.tmtpost.com/8148914.html",
+    "summary": "在这个快速变化的时代，银行也在通过改变自身，去适应时代洪流的不确定性。",
     "publishedAt": "2026-09-22",
     "source": "钛媒体",
     "tags": [
@@ -94,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-man-who-built-apple-8217-s-stores-doesn-8217-t-buy-silic-1790034268000",
-    "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-    "publishedAt": "2026-09-21",
+    "id": "news-techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robot-s--1790087400000",
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -120,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790066124000",
-    "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
-    "link": "https://www.qbitai.com/2026/09/493819.html",
-    "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+    "id": "news-agent-1790071594000",
+    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+    "link": "https://www.qbitai.com/2026/09/494120.html",
+    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
     "publishedAt": "2026-09-22",
     "source": "量子位",
     "tags": [
@@ -133,260 +318,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790073475000",
-    "title": " 第一个被上传的大脑，已经变成赛博奴工了 ",
-    "link": "https://www.huxiu.com/article/4893251.html?f=rss",
-    "summary": "本文来自微信公众号： 非凡油条 ，作者：豆腐乳儿 你可能以为这是AI合成的视频，但画面中“果蝇”的行动，确实是由果蝇的“脑子”驱动的。只不过这个“脑子”也不是真实的果蝇脑子，而是一份上传的、包含166700个神经元与25582938条有向连接边的精简雄性果蝇中枢神经系统图谱。 根据上述图谱，系统对感官映射与神经动力学进行建模，人工选定的输出读数用于选择、调控脚本化躯体程序，最终形成了这只“赛博果蝇”在“我的世界”里的运动。 这一过程本质上是人类让果蝇的“脑子”作出反应，并不是果蝇真实生理机能，也无法还原果蝇的天然行为。 果蝇的“脑子”纯纯让果蝇沦为“赛博奴工”，困在四四方方的天地里，终日运动，不能逃离。 万恶之源，是9月3日发的一篇论文，它做出了完整的雄性果蝇中枢神经系统连接组数据集，集包含分布于果蝇脑部脑与腹神经索的166700个神经元。 至于被研究的果蝇，很不幸被切片了，物理意义上的。 该项研究对果蝇的脑和躯体进行超薄切片，对每一切片成像，再借助AI将数百万张二维图像拼接重构，得到三维神经元形态。 人类破坏了果蝇的肉体，掌握了它脑子和神经系统的结构，如图所示，果蝇巨大的复眼和脑子在AI形成的三维图像中非常突出，二者通过粗壮的神经索与躯体相连，躯体中的运动神经元负责调控行为。 弄清楚果蝇脑子和神经系统结构，神经科学家就能理解果蝇脑功能背后的作用机制，从而在赛博空间预测甚至操控果蝇",
-    "publishedAt": "2026-09-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-1790068997000",
-    "title": "2026年中报基金盈利投资者数量占比分析",
-    "link": "https://www.tmtpost.com/8148978.html",
-    "summary": "从全市场混合型基金的整体表现来看，盈利投资者数量占比均值为78.52%，中位数为91.97%，合计盈利投资者数量占比均值低于中位数水平，反映出绝大多数基金的投资者盈利占比处于较高水平，仅少量产品因细分品类风险暴露差异、业绩表现靠后等因素盈利占比均值显著偏低，进而拉低了全市场整体均值，基金间投资者盈利体验分化明显。",
-    "publishedAt": "2026-09-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4-ways-to-address-the-failures-we-found-along-the-us-border--1789992000000",
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
-    "publishedAt": "2026-09-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-openai-forms-math-advisory-group-as-its-ai-resolves-more-tha-1790021758000",
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-    "publishedAt": "2026-09-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-religious-bias-requires-more-than-knowledge-of-employee-s-ac-1790005800000",
-    "title": "Religious bias requires more than knowledge of employee’s accommodation need, court says",
-    "link": "https://www.hrdive.com/news/religious-bias-requires-more-than-knowledge-of-accommodation-need/830876/",
-    "summary": "Federal courts have been asked in recent months to decide what counts as sufficient disclosure of an employees&rsquo; religious beliefs, particularly in the COVID-19 vaccination context.",
-    "publishedAt": "2026-09-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-qwen4-5-5-10t-1790048885000",
-    "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-    "link": "https://www.qbitai.com/2026/09/493629.html",
-    "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-    "publishedAt": "2026-09-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1790073157000",
-    "title": " 当“减速”成为共识之后：美国AI巨头的“囚徒困境” ",
-    "link": "https://www.huxiu.com/article/4893248.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论，原文标题：《当“减速”成为共识之后：美国AI巨头的「囚徒困境」》 导语 OpenAI、Anthropic这些AI巨头站在一起，呼吁给前沿AI“减速”，同行之间出现这种默契并不多见，正因如此才值得留意。这更像是一场高段位的囚徒困境：谁都知道超速危险，但谁也不敢真把油门松开。AI逼近自我改进的临界点，安全焦虑是真的；但大国博弈下的竞争压力也是真的。这场关于“减速”的集体表态，究竟是技术伦理的觉醒，还是新一轮话语权争夺的开场白？ 原文标题：Why AI's Biggest Rivals Are Suddenly Calling for Restraint 原文来源：美国外交关系委员会（Council on Foreign Relations,CFR） 编译解读：数字经济发展评论 近日，美国几家互为对手的AI实验室罕见地站到了一起。 Anthropic的达里奥·阿莫迪、OpenAI的山姆·奥尔特曼、xAI的埃隆·马斯克，加上其他几位AI领袖，共同呼吁放慢这项技术的脚步——因为它正在逼近一个临界点：无需人类监督就能自我改进。 人们对这项技术的担忧由来已久，但围绕它的讨论，在最近一系列事件和实验室研究人员的警告之后，变得更加紧迫。引人注目的是，Anthropic前研究员雅各布·考克森（Jacob Coxon）于9月上旬警告，AI",
-    "publishedAt": "2026-09-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-top5-9-14-9-20-1790068986000",
-    "title": "上市公司TOP5济安评估（9月14日至9月20日）",
-    "link": "https://www.tmtpost.com/8148976.html",
-    "summary": "本周机构调研热度较上周环比回落，中报披露季带来的集中调研高峰已过，调研节奏从密集验证期转向常态化跟踪期。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？",
-    "publishedAt": "2026-09-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-us-spent-billions-on-border-surveillance-why-can-t-it-ca-1789992000000",
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;",
-    "publishedAt": "2026-09-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-discover-what-s-next-5-days-left-to-save-up-to-200-on-your-t-1790018700000",
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-    "publishedAt": "2026-09-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-aren-t-women-applying-it-may-be-due-to-a-lack-of-represe-1790002680000",
-    "title": "Why aren’t women applying? It may be due to a lack of representation.",
-    "link": "https://www.hrdive.com/news/gender-representation-job-choices-women/830878/",
-    "summary": "In an Emory University study, women survey-takers seemed discouraged from applying for jobs that were perceived as lacking gender diversity.",
-    "publishedAt": "2026-09-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-qwen4-1790048563000",
-    "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-    "link": "https://www.qbitai.com/2026/09/493625.html",
-    "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-    "publishedAt": "2026-09-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790072999000",
-    "title": " 音乐圈何以如此怀旧？ ",
-    "link": "https://www.huxiu.com/article/4893246.html?f=rss",
-    "summary": "本文来自微信公众号： 新音乐产业观察 ，作者：安序 距离2026年结束还有3个多月时间，但如果现在就为今年的音乐市场定调，“怀旧”二字或许已经很难绕开。 Spotify的数据显示，今年1月至4月，平台约1/3的播放量来自发行10年以上的歌曲，约1/6来的播放量自发行20年以上的歌曲，Spotify方面甚至将2026年称为平台历史上“最怀旧的一年”。 与此同时，TikTok也观察到类似的趋势，年轻用户正在把庞大的老歌曲库视为发现新音乐的来源。2025年和2026年，该平台上全球最受欢迎的夏季金曲连续两年均为发行时间超过10年的老歌，史无前例。 这并不只是几首经典老歌偶然翻红，2025年至今，老歌重新进入排行榜核心位置、歌曲生命周期持续拉长、年轻听众主动消费更早年代音乐等现象在音乐圈里愈发突出。 新歌比任何时候都多，但消费者似乎并没有因此更热衷于追逐新音乐。相反，那些已经被时间验证、积累了记忆与文化认知的作品，正在获得越来越长的生命周期和越来越多的注意力。 A 新歌越来越难获得注意力 音乐圈的怀旧，首先可能与一个趋势相关，新歌越来越难获得足够的注意力。 Spotify的数据显示，2019和2020年，Spotify全球热门歌曲前50中超过90%的歌曲发行时间不到两年。到了2026年前四个月，这个比例降到了68.8%。 娱乐数据服务商Luminate的数据则显示，2026年上半年，新歌播",
-    "publishedAt": "2026-09-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1790068975000",
-    "title": "AI概念越来越宽，行业分类为什么反而需要更细？",
-    "link": "https://www.tmtpost.com/8148965.html",
-    "summary": "行业分类本身不产生收益，却决定一家公司和谁比较、被放进哪个估值中枢，也决定投资者看到的\"行业平均值\"究竟意味着什么。",
-    "publishedAt": "2026-09-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-she-died-at-the-san-diego-border-a-surveillance-camera-was-i-1789992000000",
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
-    "publishedAt": "2026-09-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-meta-8217-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-1790018361000",
-    "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-    "publishedAt": "2026-09-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-week-in-review-employers-need-more-bench-strength-1790002680000",
-    "title": "Week in review: Employers need more ‘bench strength’",
-    "link": "https://www.hrdive.com/news/week-in-review-employers-need-more-bench-strength/830867/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s top stories, including the percentage of Generation Z workers that said they intend to look for a new role before the year is through.",
-    "publishedAt": "2026-09-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2026-east-forward-1790046824000",
-    "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-    "link": "https://www.qbitai.com/2026/09/493510.html",
-    "summary": "“潮起之时，靠岸相见”",
-    "publishedAt": "2026-09-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790072982000",
-    "title": " 美国要增加自身“韧性”，就需要吸引中国的投资 ",
-    "link": "https://www.huxiu.com/article/4893245.html?f=rss",
-    "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《美国要增加自身“韧性”，就需要吸引中国的投资｜IPP编译》 导语：正值中美元首会晤前夕，彼得森国际经济研究所所长亚当·波森在《外交事务》杂志发文，从美国对华经济政策出发，提出与近年来“脱钩”“去风险”思路明显不同的判断。 波森指出，长期以来，美国政府倾向于将关税作为强有力的博弈筹码，甚至试图推动与中国经济脱钩。然而，事实表明，中国在关键原材料（如全球占比达80%至90%的稀土）及核心制造业供应链中占据着难以替代的绝对主导地位。一旦贸易冲突升级，中方具备对美国施加更强有力反制的能力。波森认为，美国短期内仍难以摆脱对中国稀土、关键零部件等战略物资的依赖，与其通过关税和限制措施强行切断联系，不如利用现有经贸关系增加关键物资进口和储备，并重新考虑吸引中国直接投资，为调整供应链、增强产业韧性争取时间。 这一观点的提出，是在中美战略竞争持续进行的背景下，美国精英决策圈与主流智库在对华策略上所进行的某种程度上的反思与调整。这反映出美国政策界正在从最初的盲目的“脱钩”与极限施压，转向更为现实主义的“风险管理”与长期博弈主张。这一政策转向，值得中国相关部门及智库界留意及观察。 亚当·S·波森（ADAM S.POSEN） 彼得森国际经济研究所（PIIE）所长，曾担任国际货币基金组织以及美国、英国和日本政府的顾问 2025年11月，来自中",
-    "publishedAt": "2026-09-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-9-21-1790068961000",
-    "title": "价值判断：跌停板的投资机会和风险提示（9月21日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8148962.html",
-    "summary": "盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，跌停个股多源于前期涨幅透支后的估值回归，或因重大事项引发预期分歧，跌停家数有限、市场无需系统性避险。",
+    "id": "news-ub-221-ii-1790080289000",
+    "title": "UB‑221交出II期答卷：从兽药到人用创新药，申联生物的一场高成本跨界试验",
+    "link": "https://www.tmtpost.com/8149210.html",
+    "summary": "II期确证了UB-221对比安慰剂的有效性，与奥马珠单抗的组间结果属于探索性分析，其差异化优势仍有待III期大样本试验进一步确证。",
     "publishedAt": "2026-09-22",
     "source": "钛媒体",
     "tags": [
@@ -1046,4 +981,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-22T10:54:06.478Z';
+export const dataFetchedAt = '2026-09-22T16:12:09.170Z';
