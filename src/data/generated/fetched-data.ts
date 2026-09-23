@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
-    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtube-8217-s-conversational-video-editing-tool-lets-creato-1790178417000",
-    "title": "YouTube&#8217;s conversational video editing tool lets creators make edits in natural language",
-    "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-    "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+    "id": "news-vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-els-1790195717000",
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
     "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-1790174340000",
-    "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
-    "link": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
-    "summary": "It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
+    "id": "news-nearly-half-of-cfos-say-they-d-go-with-ai-over-a-gut-feeling-1790190720000",
+    "title": "Nearly half of CFOs say they’d go with AI over a gut feeling",
+    "link": "https://www.hrdive.com/news/cfo-sometimes-follow-ai-advice-even-when-it-goes-against-their-gut-board-survey/831173/",
+    "summary": "In a survey by enterprise planning firm Board, finance chiefs were likelier than CIOs and COOs to follow a recommendation from an AI tool if it &ldquo;conflicts with their instinct.&rdquo;",
     "publishedAt": "2026-09-23",
     "source": "HR Dive",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790176969000",
-    "title": " 你正在被AI收割两次，第一次是钱 ",
-    "link": "https://www.huxiu.com/article/4893620.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust，原文标题：《你正在被AI收割两次，第一次是钱｜不懂经网站》 Amanda Brown，得州塔尔顿州立大学的一名生物学助理教授，原本只是想在不教课的暑假接点零工赚外快。在一些数据标注平台上，某些任务开出了每小时60美元的高价，这听起来相当诱人。 但很快，这份看起来轻松的“睡后收入”变成了一场噩梦。她被拉进各种强制性的线上会议，为了赶截止日期不得不熬夜到凌晨两点。 更折磨人的是，她的主管总是含糊其辞地指责她的工作“不够好”，这让她感到“摧毁灵魂（soul destroying）”。仅仅做了几个月后，Amanda就受不了退出了，并在今年夏天老老实实找了一份教书的工作。 在之前的文章中，我们介绍过Amanda的故事。但她并非个例。如今每天，一家名为Mercor的AI初创公司都要向多达3万名外包人员支付超过400万美元的薪水。他们花这么多钱，并不是为了找人给图片里的汽车打标签，而是为了买下Amanda们大脑中最值钱的专业知识。 我们正处于一场史无前例的技术共谋之中。数以亿计的职场人、创业者和企业高管，每天都在狂热地为接入最新一代的AI大模型支付订阅费。我们以为自己买到了通向未来效率的门票，但事实的真相可能残酷得多： 你正在被AI收割两次。一次是你的钱，另一次，是你的命脉。 一、权力的倒转：反向信息悖论 1962年，诺贝尔经济学奖得主",
+    "id": "news--1790180123000",
+    "title": " 这些年，那些活得好的企业 ",
+    "link": "https://www.huxiu.com/article/4893625.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 2018年底，王兴在饭否上写了一句后来被反复引用的话：“2019年可能会是过去十年里最差的一年，但却是未来十年里最好的一年。” 当时多少还带一点段子的意味，但在今天再回头看，这句话之所以让人印象越来越深，并不是因为它准确预测了某一年，而是它碰巧说在了一个时代的分界线上。 2019年以后，中国企业经历的事情太密集了：三年疫情改变了消费、供应链和人的生活方式；中美关系改变了很多企业原本习以为常的全球化；房地产进入漫长的调整期，互联网流量越来越贵，税务、数据、劳动用工、环保等领域的合规性不断深入，随后生成式AI又突然出现，一边创造新的行业，一边逼着旧行业重新回答“我到底还有什么价值”。 如果这些变化在过去20年里匀速出现，企业可能还有时间慢慢适应，但它们偏偏挤在了这几年里。 于是，这一批企业家和创业者也变了。10年前，办大会搞论坛组沙龙，最容易聊的是规模：今年做到多少，明年准备翻几倍，什么时候上市。在今天坐下来，越来越多的老板谈的可能是先苟着。过去那些很容易让人兴奋的词，比如风口上的猪，做爆品等等，慢慢让位于一些听起来并不激动人心，却真正关系生死的词：活下来。 而且，“活下来”有时都显得那么积极。有人开始觉得，不扩大亏损已经不错；有人从追求财富自由变成了追求债务自由；还有一些曾经风光的创业者，在经历担保、回购、股权质押和经营失利之后，真切",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -82,6 +82,164 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
+    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "publishedAt": "2026-09-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-in-1790191888000",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "publishedAt": "2026-09-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-language-that-evoked-slavery-keeps-front-desk-worker-s-hosti-1790190720000",
+    "title": "Language that evoked slavery keeps front desk worker’s hostile work environment claim alive",
+    "link": "https://www.hrdive.com/news/hostile-work-environment-slavery-language/831149/",
+    "summary": "Courts may scrutinize ineffective employer responses to harassment in their analysis of such cases, previous rulings have shown.",
+    "publishedAt": "2026-09-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-token-1790157413000",
+    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+    "link": "https://www.qbitai.com/2026/09/496578.html",
+    "summary": "商汤大装置异构混推创新实践与技术演进",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790179892000",
+    "title": " 污水资源化研究①：磷回收的资源潜力、技术成熟度与商业化路径 ",
+    "link": "https://www.huxiu.com/article/4893624.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 2024年，纳入全国生态环境统计的15259座污水处理厂，一共去除了34.5万吨总磷。 如果把这些磷重新拿回来，既能减少污染，又能替代一部分磷矿和化肥。仅从资源量看，这很容易让人联想到一门规模可观的资源化生意。 但这34.5万吨并不是一座现成的矿山。 污水厂完成的“去除”，大多只是把磷从水里转移到了污泥。 它还不是稳定原料，更不是可以直接销售的商品。从“被去除”到“能卖出去”，中间还隔着原料归集、处理成本、产品准入和长期消纳，每一步都需要有人承担成本。 这正是污水磷回收最容易被忽略的部分。 技术回答的是“能不能把磷拿出来”，一门生意还要回答另外几个问题：为什么现在要拿，谁持续付钱，回收物以什么身份进入市场，又由谁长期接货。 磷矿是我国的战略性非金属矿产资源，关乎磷肥和重要产业链的长期供给。这能够解释磷回收为什么具有重要的公共价值，却还不能回答一个污水厂为什么今天就要为它支付额外成本。 北美、欧洲和日本已经运行多年的项目，走的也并不是同一条商业路径。 而这些差异，恰恰提供了一个更有价值的问题：中国污水磷回收的高潜力付费场景，最可能从哪里出现？哪些企业有机会布局？ 34.5万吨总磷 目前只是一张资源底图 对污水厂而言，第一任务是把出水中的磷降到排放限值以内。 在生物除磷和化学除磷过程中，原本分散在水中的磷被微生物吸收，或者与药剂结",
+    "publishedAt": "2026-09-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790163959000",
+    "title": "杀猪盘最贵的一道工序，AI 接手了",
+    "link": "https://www.tmtpost.com/8151037.html",
+    "summary": "让人心甘情愿地把钱交出去。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "publishedAt": "2026-09-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-modal-motors-is-trying-to-cut-china-out-of-electric-motors-e-1790190300000",
+    "title": "Modal Motors is trying to cut China out of electric motors entirely",
+    "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+    "publishedAt": "2026-09-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nearly-half-of-workers-say-they-don-t-want-ai-in-payroll-1790190720000",
+    "title": "Nearly half of workers say they don’t want AI in payroll",
+    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-they-dont-want-ai-in-payroll/831143/",
+    "summary": "Artificial intelligence&rsquo;s use in total rewards remains in the early stages, reports have shown.",
+    "publishedAt": "2026-09-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hellome-fde-ai-1790157026000",
+    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+    "link": "https://www.qbitai.com/2026/09/496493.html",
+    "summary": "企业AI服务迎来平台化交付时代",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-91-1790179769000",
+    "title": " 91岁的亚运会志愿者：老龄化社会，应该允许老人做什么？ ",
+    "link": "https://www.huxiu.com/article/4893623.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：毛大庆 潘展乐在名古屋亚运会男子100米自由泳决赛最后15米完成逆转，卫冕成功。比赛结束后的一个画面，比比赛本身更让我印象深刻：领奖台旁边，站着几位满头银发的老人。他们穿着志愿者服装，给这些年轻运动员颁发奖牌。 年轻运动员刚刚在泳池里拼命游完100米，转身面对的，却是几个明显已经做了爷爷奶奶的人。 这幅画面看上去完全不符合我们对于大型体育赛事的传统想象。 按照我们熟悉的剧本，奥运会、亚运会这种国际大赛的志愿者，应该是年轻人。最好是大学生，青春、热情、行动快，穿着统一的制服，站在赛场边微笑。 但日本人似乎没有特别在意这个问题。 这一次，爱知·名古屋亚运会和亚残运会共计划招募约4万名志愿者，其中亚运会约2.8万人、亚残运会约1.2万人。官方规定的报名年龄下限是18岁，但没有设置年龄上限，实际参与服务的志愿者中，最高年龄达到了91岁。 一个91岁的老人和一个18岁的年轻人，在制度上拥有同样的报名资格。真正决定他能不能站上赛场的因素与年龄无关，只要他的身体条件还允许，他就可以参与这项工作。 日本是世界上最著名的老龄化国家，日本政府和企业在针对老龄化所做的各项社会制度、工作规范和福利细节的调整上，有很多先进理念非常值得包括中国在内的其他国家借鉴。 老龄化社会老人应该如何自处？ 很多人理解的老龄化，是养老金越来越多，养老院越来越多，医院越来越忙，年轻人",
+    "publishedAt": "2026-09-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1300-1790163301000",
+    "title": "1300万辆之后，福田汽车如何在欧洲扎根？",
+    "link": "https://www.tmtpost.com/8150846.html",
+    "summary": "1300万辆之后，福田汽车把更难的一仗，放在了欧洲。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
     "title": "Smart glasses are already causing havoc in India",
     "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
@@ -94,10 +252,76 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-youtube-music-gets-more-conversational-with-new-ai-features-1790176770000",
-    "title": "YouTube Music gets more conversational with new AI features",
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized [&#8230;]",
+    "id": "news-disney-and-hulu-add-to-the-growing-trend-of-streaming-inflat-1790186787000",
+    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+    "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+    "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+    "publishedAt": "2026-09-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-1790174340000",
+    "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
+    "link": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
+    "summary": "It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
+    "publishedAt": "2026-09-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790156817000",
+    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+    "link": "https://www.qbitai.com/2026/09/496494.html",
+    "summary": "打造算电协同领域“Windows”级操作系统",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790163272000",
+    "title": "企业数据太多，AI知道得太少：千问办公的上下文生意",
+    "link": "https://www.tmtpost.com/8151019.html",
+    "summary": "一家中大型企业内部的数据规模平均约为150PB，而目前最强模型的上下文窗口多为 100 万token左右。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-old-cybersecurity-model-is-breaking-1790185442000",
+    "title": "The old cybersecurity model is breaking",
+    "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+    "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing companies like&#160;Instinct&#160;and&#160;Simile&#160;bring in nine-figure checks and valuations that&#160;wouldn&#8217;t&#160;have made sense a [&#8230;]",
     "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
@@ -122,243 +346,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1790157413000",
-    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-    "link": "https://www.qbitai.com/2026/09/496578.html",
-    "summary": "商汤大装置异构混推创新实践与技术演进",
-    "publishedAt": "2026-09-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-5-1790176935000",
-    "title": " 5万亿大市，“开抢”年轻人 ",
-    "link": "https://www.huxiu.com/article/4893618.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 过去十年，北京人口结构经历明显转变。 2015年，北京20—29岁常住人口达到461.8万人，占全市常住人口的21.3%，明显高于全国平均水平。但十年后，这一数字降至248.9万人，占比降至11.4%，回归全国平均水平。同一时期，北京老年人口比重大幅提高。 北京市“十五五”规划纲要此前坦言，人口结构变化给经济发展、社会治理等提出新课题。 作为应对，北京将“稳定就业人口规模和促进青年人口增长”，列为未来五年的重要目标。 一个最新动作是，9月20日，北京首次针对秋季招聘窗口举办大规模现场招聘活动，400多家企事业单位一次拿出超过2万个岗位，其中科创类企业占比46.2%，高精尖岗位占比达58.3%。 北京市人社局方面解释，此举旨在紧抓秋招黄金窗口期，向全社会释放就业市场“活力充盈、供需两旺”的强烈信号。 而就在上月，北京房产新政落地，非京籍家庭在北京购买商品住房的社保或个税缴纳年限进一步缩短，满足1年即可获得购房资格。 一面增加“留下来”的机会，一面降低“住下来”的门槛。北京，正试图留住更多年轻人。 01 加码“抢人” 眼下，全国各地正进入秋招季。 图片来源：北京市人民政府网站 这被视为高校应届毕业生找工作的“黄金期”，秋招规模大、企业多、岗位多，也是毕业生就业意愿较高的时间段。参与秋招的不仅有毕业生与企业，不少地方政府层面也会积极“抢人",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1790163959000",
-    "title": "杀猪盘最贵的一道工序，AI 接手了",
-    "link": "https://www.tmtpost.com/8151037.html",
-    "summary": "让人心甘情愿地把钱交出去。",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
-    "publishedAt": "2026-09-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-eight-sleep-8217-s-new-pod-6-comes-in-smaller-and-solo-sizes-1790174700000",
-    "title": "Eight Sleep&#8217;s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
-    "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-    "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-maryland-governor-s-ai-framework-focuses-on-regulation-and-r-1790106120000",
-    "title": "Maryland governor’s AI framework focuses on regulation and reskilling",
-    "link": "https://www.hrdive.com/news/maryland-governor-ai-framework-focuses-on-regulation-and-reskilling/831016/",
-    "summary": "While the framework Gov. Wes Moore established begins with forming committees and gathering stakeholders, Maryland already has one law regulating the technology at work.",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hellome-fde-ai-1790157026000",
-    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-    "link": "https://www.qbitai.com/2026/09/496493.html",
-    "summary": "企业AI服务迎来平台化交付时代",
-    "publishedAt": "2026-09-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-20-1790173346000",
-    "title": " 李巍: 南美20天, 我在美国“后院”看见中国的远方 ",
-    "link": "https://www.huxiu.com/article/4893606.html?f=rss",
-    "summary": "与中国相隔万里的拉丁美洲，坐拥顶尖资源禀赋、海量人口与广袤土地，是全球南方极具发展潜力的区域，却长期深陷发展困境、难以突破中等收入瓶颈，成为全球地缘经济中极具悖论性的特殊存在。由于拉美地理遥远、与中国国情悬殊，我们对拉美政经体系、发展困境与地缘格局的理解始终隔靴搔痒，拉美研究也成为中国区域国别研究体系的相对短板。 为打破书本知识的桎梏，深耕比较政治经济学十余年的中国人民大学李巍教授，赴巴西、智利参与长达20天调研，足迹遍布六大核心城市，深入走访当地政府、高校、企业、使领馆，并与出海中资企业深度座谈，结合政治经济学比较视角与实地调研的经验，复盘了拉美百年发展困局的深层逻辑。 本文着重解释了一组核心悖论：坐拥优质资源的拉美为什么没能完成东亚式工业化；没有大规模对外战争，却持续面临贫富分化、治安失序；中国与拉美经贸联系日益紧密，却难以转化为对等的在地影响力，而美国凭借精英网络、军政渗透和意识形态惯性维持着强大支配力。作者结合淡水河谷、巴航工业、比亚迪、华为、中广核等案例，分析了拉美产业结构缺陷、碎片化治理困境，以及中资企业出海拉美遇到的政策、法律与本土竞争挑战。 这场调研同时引发对区域国别学的反思：中国企业已经先行出海，但学术力量常常滞后于外交和市场实践。文章以行走式调研的一手感受，为理解拉美、推进中拉合作和学科人才建设提供了深刻的田野洞见。 本文来自微信公众号： 平衡学会 ，作者：李巍",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1300-1790163301000",
-    "title": "1300万辆之后，福田汽车如何在欧洲扎根？",
-    "link": "https://www.tmtpost.com/8150846.html",
-    "summary": "1300万辆之后，福田汽车把更难的一仗，放在了欧洲。",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
-    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
-    "publishedAt": "2026-09-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-youtube-releases-new-ai-features-for-creators-within-its-stu-1790173800000",
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-judge-tosses-former-purdue-diversity-chief-s-race-bias-and-r-1790106060000",
-    "title": "Judge tosses former Purdue diversity chief’s race bias and retaliation claims",
-    "link": "https://www.hrdive.com/news/judge-tosses-purdue-former-diversity-chief-race-bias-and-retaliation-claim/831051/",
-    "summary": "The executive offered up three colleagues as similarly situated comparators &mdash; and the judge dismissed all three.",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790156817000",
-    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
-    "link": "https://www.qbitai.com/2026/09/496494.html",
-    "summary": "打造算电协同领域“Windows”级操作系统",
-    "publishedAt": "2026-09-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790172610000",
-    "title": " 宁德时代也投了？这家中国公司要把空气和水炼成油？ ",
-    "link": "https://www.huxiu.com/article/4893614.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 空气也能拿来炼油了？ 今年3月，上海一家叫做碳生万物的公司对外宣称，说自己可以用空气和水生产汽油、柴油和航空燃料。消息下面，一位网友很快想起了那个熟悉的故事：“又一个水变油？希望这次是真的。” 的确听起来十分可疑。空气不要钱，水也不贵，把两样东西送进机器，另一头就能流出汽油和航油，很像上世纪轰动一时的“水变油”骗局。 更奇怪的是，给这家公司投钱的还有宁德时代和阳光电源。甚至，这家公司创始人任宇翔还曾经是特斯拉高管。 汽车行业正在想办法少烧油，这些一直在搞新能源的人和公司，怎么开始转头研究起“旧能源”了？ 01.网友还在问是不是骗局， 他们已经开工了 空气制油这件事，最容易引起误解的就是它的名字。一听这四个字，人们脑海里浮现的画面可能是这样的：一台巨大的机器，一头持续吸入空气，另一头源源不断地产出汽油。 这是《哆啦A梦》里才会出现的道具。真实的空气制油过程并没有这么神奇——空气里能够用来造油的主要原料是二氧化碳。 汽油、柴油和航油都由碳氢化合物组成，燃料在发动机里烧完，碳会以二氧化碳的形式跑进空气；空气制油相当于把这段过程倒着再走一遍：把二氧化碳捞回来，补进能量，再把它做回燃料。 另一半原料来自水。水可以还原成氢气和氧气的化学课大家都上过吧，电解槽通电以后把水分成氧气和氢气，氢气进入后续装置，与捕集到的二氧化碳继续反应。经过催化合",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1790163272000",
-    "title": "企业数据太多，AI知道得太少：千问办公的上下文生意",
-    "link": "https://www.tmtpost.com/8151019.html",
-    "summary": "一家中大型企业内部的数据规模平均约为150PB，而目前最强模型的上下文窗口多为 100 万token左右。",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-don-t-be-fooled-by-this-summer-of-ai-hype-1790075091000",
-    "title": "Don’t be fooled by this summer of AI hype",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
-    "publishedAt": "2026-09-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-youtube-s-new-short-series-feature-brings-episodic-viewing-t-1790173800000",
-    "title": "YouTube’s new ‘Short series’ feature brings episodic viewing to Shorts",
-    "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
-    "summary": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
-    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1790153644000",
     "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
     "link": "https://www.qbitai.com/2026/09/496481.html",
@@ -368,19 +355,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790172026000",
-    "title": " 从幕后到台前：三个晋江中腰部作者的流量自救之路 ",
-    "link": "https://www.huxiu.com/article/4893607.html?f=rss",
-    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 “我以为一辈子不会见到巫哲的真容。” 在三年一届的晋江作者大会现场，网文《撒野》的作者巫哲，近二十年来首次公开露面。随后，她利落干练的“高质感”形象与代表作校园文风格的反差成为了此次大会最出圈的讨论点。 另一边，作者甜画舫参会后分享自己的感受，其中关于容貌焦虑的表达引发了大量争议，读者大多数批判其“想当女明星”，把作者大会当成外貌营销的舞台。 这场大会上另一个出圈话题是头部IP的版权收入：墨香铜臭的《魔道祖师》《天官赐福》版权收入达到数亿元级别；巫哲的代表作《撒野》，版权收入也达到近亿元级别。 对当下的网文行业来说，作者早已不只是作品署名上的一个名字。笔名背后的人气、影响力，以及与读者建立的长期关系，正在成为IP开发链条中的重要一环。 这种变化，也让越来越多作者开始尝试走到台前。她们运营社交账号，分享创作日常、生活状态，与读者建立更直接的联系。比如说拥有400w+粉丝的水千丞，就成功的将188系列人物IP和自身深度绑定。 “现在不管是实体出版还是影视化，他都要看你的网络媒体声量。”一位网文行业从业者告诉娱乐资本论，作者的个人影响力，往往意味着后续版权开发中更高的溢价权和话语权。 从韩寒、郭敬明时期的“作者带书”，到今天网文作者经营个人账号，作者与作品之间的关系一直在变化。只是到了短视频和社交媒体成为主要传播入口的今天，一个新的问",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1037,4 +1011,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-23T16:01:25.995Z';
+export const dataFetchedAt = '2026-09-23T21:01:26.041Z';
