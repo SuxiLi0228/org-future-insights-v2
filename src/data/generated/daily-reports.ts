@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-24-auto",
+    "date": "2026-09-24",
+    "session": "auto",
+    "title": "2026-09-24 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-24-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
+      },
+      {
+        "id": "sig-2026-09-24-auto-2",
+        "emoji": "💡",
+        "title": "YouTube&#8217;s conversational video editing tool lets creators make edits in natural language",
+        "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+        "detail": "来源: TechCrunch。Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/"
+      },
+      {
+        "id": "sig-2026-09-24-auto-3",
+        "emoji": "💡",
+        "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
+        "summary": "It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
+        "detail": "来源: HR Dive。It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/"
+      },
+      {
+        "id": "sig-2026-09-24-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fa...",
+        "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema",
+        "detail": "作者: Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen。Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding mechanisms. Existing acceleration methods typically study KV caching and parallel decoding in isolation, overlooking the I/O bottlenecks that arise when cache reuse and parallel token verification are jointly applied. In this work, we introduce $\\textbf{Flash-dLLM}$, a training-free inference acceleration framework for fast and memory-efficient dLLMs. Flash-dLLM first identifies GPU memory I/O as a dominant bottleneck in KV-cache-enabled dLLM inference and address",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.26796v1"
+      },
+      {
+        "id": "sig-2026-09-24-auto-5",
+        "emoji": "💼",
+        "title": "Magic Eden 正在招募 Senior Growth Product Manager AI Native",
+        "summary": "岗位类型：业务+AI 复合岗。About Magic Eden and Dicey Magic Eden reached unicorn status in just 9 months after launch, one of the fastest in history",
+        "detail": "技能要求: RAG, Agent。About Magic Eden and Dicey Magic Eden reached unicorn status in just 9 months after launch, one of the fastest in history We built a category-defining NFT marketplace from scratch and proved we know how to move fast Now we're doing it again Dicey is our crypto casino and sportsbook platform, targ",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Magic Eden"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Magic Eden",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-24-1",
+        "priority": "medium",
+        "action": "关注「The Download: India&#8217;s smart glasse」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-24-2",
+        "priority": "low",
+        "action": "关注「YouTube&#8217;s conversational video edi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-24-3",
+        "priority": "low",
+        "action": "关注「IBM report warns AI could erode human sk」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-24-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Flash-dLLM: IO-Aware KV Caching and」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-24-5",
+        "priority": "medium",
+        "action": "关注「Magic Eden 正在招募 Senior Growth Product Ma」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Magic Eden"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 65,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-24 生成，聚合了 30 条新闻、20 篇论文、15 个岗位。",
+    "fetchWindow": "2026-09-24 00:00 - 2026-09-24 23:59"
+  },
+  {
     "id": "report-2026-09-23-auto",
     "date": "2026-09-23",
     "session": "auto",

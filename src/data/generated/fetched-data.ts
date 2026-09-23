@@ -2,6 +2,86 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
+    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "publishedAt": "2026-09-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-youtube-8217-s-conversational-video-editing-tool-lets-creato-1790178417000",
+    "title": "YouTube&#8217;s conversational video editing tool lets creators make edits in natural language",
+    "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+    "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+    "publishedAt": "2026-09-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-1790174340000",
+    "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
+    "link": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
+    "summary": "It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
+    "publishedAt": "2026-09-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1790159716000",
+    "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+    "link": "https://www.qbitai.com/2026/09/496609.html",
+    "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790176969000",
+    "title": " 你正在被AI收割两次，第一次是钱 ",
+    "link": "https://www.huxiu.com/article/4893620.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust，原文标题：《你正在被AI收割两次，第一次是钱｜不懂经网站》 Amanda Brown，得州塔尔顿州立大学的一名生物学助理教授，原本只是想在不教课的暑假接点零工赚外快。在一些数据标注平台上，某些任务开出了每小时60美元的高价，这听起来相当诱人。 但很快，这份看起来轻松的“睡后收入”变成了一场噩梦。她被拉进各种强制性的线上会议，为了赶截止日期不得不熬夜到凌晨两点。 更折磨人的是，她的主管总是含糊其辞地指责她的工作“不够好”，这让她感到“摧毁灵魂（soul destroying）”。仅仅做了几个月后，Amanda就受不了退出了，并在今年夏天老老实实找了一份教书的工作。 在之前的文章中，我们介绍过Amanda的故事。但她并非个例。如今每天，一家名为Mercor的AI初创公司都要向多达3万名外包人员支付超过400万美元的薪水。他们花这么多钱，并不是为了找人给图片里的汽车打标签，而是为了买下Amanda们大脑中最值钱的专业知识。 我们正处于一场史无前例的技术共谋之中。数以亿计的职场人、创业者和企业高管，每天都在狂热地为接入最新一代的AI大模型支付订阅费。我们以为自己买到了通向未来效率的门票，但事实的真相可能残酷得多： 你正在被AI收割两次。一次是你的钱，另一次，是你的命脉。 一、权力的倒转：反向信息悖论 1962年，诺贝尔经济学奖得主",
+    "publishedAt": "2026-09-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-oppo-vivo-1790165050000",
+    "title": "联发科“串场”，OPPO、vivo旗舰机换芯",
+    "link": "https://www.tmtpost.com/8151065.html",
+    "summary": "不到24小时，芯片厂商高管连飞两地，连续为两家顶级安卓手机厂商的年度旗舰重磅站台。在注重首发排他性与品牌独占权的智能手机行业，这一幕不常见。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
     "title": "Smart glasses are already causing havoc in India",
     "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
@@ -14,10 +94,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8216-we-8217-re-already-fighting-yesterday-8217-s-battle-821-1790139548000",
-    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "id": "news-youtube-music-gets-more-conversational-with-new-ai-features-1790176770000",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized [&#8230;]",
+    "publishedAt": "2026-09-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employees-use-ai-but-many-say-they-don-t-know-why-1790174340000",
+    "title": "Employees use AI, but many say they don’t know why",
+    "link": "https://www.hrdive.com/news/employees-use-ai-but-many-say-they-dont-know-why/831073/",
+    "summary": "Since workload rates remain steady across users and nonusers of artificial intelligence, companies need to reexamine their overall ROI, a vice president at Culture Amp said.",
+    "publishedAt": "2026-09-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-token-1790157413000",
+    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+    "link": "https://www.qbitai.com/2026/09/496578.html",
+    "summary": "商汤大装置异构混推创新实践与技术演进",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-5-1790176935000",
+    "title": " 5万亿大市，“开抢”年轻人 ",
+    "link": "https://www.huxiu.com/article/4893618.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：淡忠奎 过去十年，北京人口结构经历明显转变。 2015年，北京20—29岁常住人口达到461.8万人，占全市常住人口的21.3%，明显高于全国平均水平。但十年后，这一数字降至248.9万人，占比降至11.4%，回归全国平均水平。同一时期，北京老年人口比重大幅提高。 北京市“十五五”规划纲要此前坦言，人口结构变化给经济发展、社会治理等提出新课题。 作为应对，北京将“稳定就业人口规模和促进青年人口增长”，列为未来五年的重要目标。 一个最新动作是，9月20日，北京首次针对秋季招聘窗口举办大规模现场招聘活动，400多家企事业单位一次拿出超过2万个岗位，其中科创类企业占比46.2%，高精尖岗位占比达58.3%。 北京市人社局方面解释，此举旨在紧抓秋招黄金窗口期，向全社会释放就业市场“活力充盈、供需两旺”的强烈信号。 而就在上月，北京房产新政落地，非京籍家庭在北京购买商品住房的社保或个税缴纳年限进一步缩短，满足1年即可获得购房资格。 一面增加“留下来”的机会，一面降低“住下来”的门槛。北京，正试图留住更多年轻人。 01 加码“抢人” 眼下，全国各地正进入秋招季。 图片来源：北京市人民政府网站 这被视为高校应届毕业生找工作的“黄金期”，秋招规模大、企业多、岗位多，也是毕业生就业意愿较高的时间段。参与秋招的不仅有毕业生与企业，不少地方政府层面也会积极“抢人",
+    "publishedAt": "2026-09-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790163959000",
+    "title": "杀猪盘最贵的一道工序，AI 接手了",
+    "link": "https://www.tmtpost.com/8151037.html",
+    "summary": "让人心甘情愿地把钱交出去。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-eight-sleep-8217-s-new-pod-6-comes-in-smaller-and-solo-sizes-1790174700000",
+    "title": "Eight Sleep&#8217;s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+    "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+    "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation",
     "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1790157413000",
-    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-    "link": "https://www.qbitai.com/2026/09/496578.html",
-    "summary": "商汤大装置异构混推创新实践与技术演进",
+    "id": "news-hellome-fde-ai-1790157026000",
+    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+    "link": "https://www.qbitai.com/2026/09/496493.html",
+    "summary": "企业AI服务迎来平台化交付时代",
     "publishedAt": "2026-09-23",
     "source": "量子位",
     "tags": [
@@ -54,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3000-1790159884000",
-    "title": " 原料为死者皮肤组织，3000元一针“尸皮针”能安全？多平台已下架相关产品 ",
-    "link": "https://www.huxiu.com/article/4893551.html?f=rss",
-    "summary": "本文来自微信公众号： 猛犸资本局 ，编辑：宋然，作者：闫晓寒，原文标题：《原料为死者皮肤组织！3000元一针“尸皮针”能安全？多平台已下架相关产品》 近期，一款名为Elravie Re2O（下称“Re2O”）的皮肤填充剂引发争议。 Re2O是韩国生物技术公司L&amp;C BIO旗下一款重要的医美注射产品，“为return to your 20s”（重返20岁）的缩写。2024年11月，Re2O在韩国上市，公司声称能够淡化细纹、收紧毛孔，并为求美者自身细胞的再生奠定基础，单针售价约3000至4000元人民币。 Re2O引发争议的原因在于，这款产品的核心原料来自已故捐献者的皮肤组织，被网友称为“尸皮针”。也因此，该产品自推出起便备受争议。 要了解Re2O的作用原理，首先要了解衰老的成因。 L&amp;C BIO在公司官网将衰老描述为，随着年龄而减少的不仅仅是胶原蛋白，支撑它的整个支架，即ECM（细胞外基质）会一同塌陷。当弹性蛋白断裂、GAG（糖胺聚糖）耗竭、真皮密度变薄时，称之为“衰老”。 而Re2O就是通过补充ECM达到抗衰的目的。根据L&amp;C BIO官网，其通过将人源脱细胞真皮基质（hADM）注射到真皮层，皮肤环境会通过三步过程得到根本改善，包括即时支撑、成纤维细胞激活、长期重塑。 ADM可以理解为ECM的去细胞版本。兰州大学第二医院烧伤整形与创面修复外科主任刘毅此前在中国",
+    "id": "news-20-1790173346000",
+    "title": " 李巍: 南美20天, 我在美国“后院”看见中国的远方 ",
+    "link": "https://www.huxiu.com/article/4893606.html?f=rss",
+    "summary": "与中国相隔万里的拉丁美洲，坐拥顶尖资源禀赋、海量人口与广袤土地，是全球南方极具发展潜力的区域，却长期深陷发展困境、难以突破中等收入瓶颈，成为全球地缘经济中极具悖论性的特殊存在。由于拉美地理遥远、与中国国情悬殊，我们对拉美政经体系、发展困境与地缘格局的理解始终隔靴搔痒，拉美研究也成为中国区域国别研究体系的相对短板。 为打破书本知识的桎梏，深耕比较政治经济学十余年的中国人民大学李巍教授，赴巴西、智利参与长达20天调研，足迹遍布六大核心城市，深入走访当地政府、高校、企业、使领馆，并与出海中资企业深度座谈，结合政治经济学比较视角与实地调研的经验，复盘了拉美百年发展困局的深层逻辑。 本文着重解释了一组核心悖论：坐拥优质资源的拉美为什么没能完成东亚式工业化；没有大规模对外战争，却持续面临贫富分化、治安失序；中国与拉美经贸联系日益紧密，却难以转化为对等的在地影响力，而美国凭借精英网络、军政渗透和意识形态惯性维持着强大支配力。作者结合淡水河谷、巴航工业、比亚迪、华为、中广核等案例，分析了拉美产业结构缺陷、碎片化治理困境，以及中资企业出海拉美遇到的政策、法律与本土竞争挑战。 这场调研同时引发对区域国别学的反思：中国企业已经先行出海，但学术力量常常滞后于外交和市场实践。文章以行走式调研的一手感受，为理解拉美、推进中拉合作和学科人才建设提供了深刻的田野洞见。 本文来自微信公众号： 平衡学会 ，作者：李巍",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2027-1790156748000",
-    "title": "2027，零售将进入自营化元年",
-    "link": "https://www.tmtpost.com/8150812.html",
-    "summary": "市场将淘汰自营率低于30%的玩家。",
+    "id": "news-1300-1790163301000",
+    "title": "1300万辆之后，福田汽车如何在欧洲扎根？",
+    "link": "https://www.tmtpost.com/8150846.html",
+    "summary": "1300万辆之后，福田汽车把更难的一仗，放在了欧洲。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -81,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
+    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
     "publishedAt": "2026-09-22",
     "source": "MIT Technology Review",
     "tags": [
@@ -93,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-discord-8217-s-age-verification-era-is-upon-us-despite-commu-1790134272000",
-    "title": "Discord&#8217;s age verification era is upon us, despite community backlash",
-    "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-    "summary": "According to Discord, 90% of users will not have to verify their age.",
+    "id": "news-youtube-releases-new-ai-features-for-creators-within-its-stu-1790173800000",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
     "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
@@ -120,86 +280,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hellome-fde-ai-1790157026000",
-    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-    "link": "https://www.qbitai.com/2026/09/496493.html",
-    "summary": "企业AI服务迎来平台化交付时代",
-    "publishedAt": "2026-09-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-3-13-1790159884000",
-    "title": " 第一批“请3休13”的人，已经开始加班了 ",
-    "link": "https://www.huxiu.com/article/4893479.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：章鱼，编辑：闫如意，题图来自：视觉中国 2026年，咱中国人有自己的《假如给我三天光明》。 今年中秋节9月25日至27日，国庆节10月1日至7日，中间隔着9月28日、29日、30日3个工作日。也就是说，只要你成功请到3天假，就能拥有13天超长假期。 在不改变现有休假制度的前提下，咱们下次遇到这样的中秋国庆休假盛况，还需要95年。 对多数中国人来说，今年请3休13或许是自己唯一一次超长连休。 于是，这3个普通工作日，突然就变成了一种职场赎身大结果。如何拿到这种大结果，也成了一门登上热搜的显学。 毕竟，打工人能不能实现连休，基本全看领导心情。95年一遇的机会摆在这里，人人都摩拳擦掌，谁都想要向上请假，一举从工位牛马逆袭成旅途的顶美顶帅。 与此同时，咱打工人也迎来了全新的上班节奏： 上3休1、上5休3、上3休7、上3休1、上5休2。 还有几天调休、怎么休，基本每天都会在热搜实时滚动。 〓9月18日一早，上1休1这样温暖的字眼出现在了热搜之上，但不幸的是那天星期五。 作为一个合格的当代牛马，看到如此复杂的调休热搜，第一件事是辱骂，第二件事是转发，第三件就是定闹钟。 毕竟，想要给领导留下一个好印象请假成功，总不能调休第一天就迟到。 也许是为了让打工人更好上班，就连苹果日历也终于向上社交自适应调休了。 而你，我的朋友，此刻还在第一个调休日艰难挤地",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790156744000",
-    "title": "为什么突然之间，全是大环肽？",
-    "link": "https://www.tmtpost.com/8150795.html",
-    "summary": "因为它是唯一同时站在所有正确答案上的分子形态。",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
-    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
-    "publishedAt": "2026-09-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-founder-summit-s-agenda-revealed-unlock-fundraisi-1790119309000",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-    "publishedAt": "2026-09-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
-    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1790156817000",
     "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
     "link": "https://www.qbitai.com/2026/09/496494.html",
@@ -213,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nasa-1790159710000",
-    "title": " 补贴也没留住，美国电池公司带NASA技术，跑常州量产 ",
-    "link": "https://www.huxiu.com/article/4893549.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《补贴也没留住！美国电池公司带NASA技术，跑常州量产》 摘要： 如果不在中国建厂，以公司现有的资金，很难实现大规模的商业生产。中国是“工厂中的工厂”，是迈向全球生产的“重要跳板”。 →这是《环球零碳》的第2160篇原创 美国想让制造业回流，然而一家美国电池公司却取消2.64亿美元的本土建厂计划，转头把首家工厂建在了中国常州。 据路透社报道，这家初创公司EnerVenue的常州电池制造工厂已经在9月17日开始批量生产，预计到今年年底将雇用约400名员工。 当被问及为何放弃美国、选择中国时，EnerVenue首席执行官Henning Rath给了一个现实的答案：如果不在中国建厂，以公司现有的资金，很难实现大规模的商业生产。 EnerVenue成立于2020年，由斯坦福大学材料科学与工程系教授崔屹创立，主要生产源自美国宇航局（NASA）太空技术的镍氢气电池。这类电池技术曾应用于哈勃太空望远镜和国际空间站。 由于这项技术的原始成本过高，难以在民用电力市场取得成功，但EnerVenue已经用了一种低成本材料替代，其电池可循环使用3万次，性能衰减极小，使用寿命远远超过普通锂离子电池，且防火性能也更佳。 因此，该公司在2020年完成了1200万美元的种子轮融资，2021年从沙特阿美能源风险投资公司和斯伦贝谢新能源等",
+    "id": "news--1790172610000",
+    "title": " 宁德时代也投了？这家中国公司要把空气和水炼成油？ ",
+    "link": "https://www.huxiu.com/article/4893614.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 空气也能拿来炼油了？ 今年3月，上海一家叫做碳生万物的公司对外宣称，说自己可以用空气和水生产汽油、柴油和航空燃料。消息下面，一位网友很快想起了那个熟悉的故事：“又一个水变油？希望这次是真的。” 的确听起来十分可疑。空气不要钱，水也不贵，把两样东西送进机器，另一头就能流出汽油和航油，很像上世纪轰动一时的“水变油”骗局。 更奇怪的是，给这家公司投钱的还有宁德时代和阳光电源。甚至，这家公司创始人任宇翔还曾经是特斯拉高管。 汽车行业正在想办法少烧油，这些一直在搞新能源的人和公司，怎么开始转头研究起“旧能源”了？ 01.网友还在问是不是骗局， 他们已经开工了 空气制油这件事，最容易引起误解的就是它的名字。一听这四个字，人们脑海里浮现的画面可能是这样的：一台巨大的机器，一头持续吸入空气，另一头源源不断地产出汽油。 这是《哆啦A梦》里才会出现的道具。真实的空气制油过程并没有这么神奇——空气里能够用来造油的主要原料是二氧化碳。 汽油、柴油和航油都由碳氢化合物组成，燃料在发动机里烧完，碳会以二氧化碳的形式跑进空气；空气制油相当于把这段过程倒着再走一遍：把二氧化碳捞回来，补进能量，再把它做回燃料。 另一半原料来自水。水可以还原成氢气和氧气的化学课大家都上过吧，电解槽通电以后把水分成氧气和氢气，氢气进入后续装置，与捕集到的二氧化碳继续反应。经过催化合",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790156709000",
-    "title": "AI制药的火，烧到了“产业中游”",
-    "link": "https://www.tmtpost.com/8150777.html",
-    "summary": "AI制药的火，已然从“设计端”烧到了“验证端”，产业中游的蛋白试剂与验证服务商正是当下最热的风口。",
+    "id": "news-ai-1790163272000",
+    "title": "企业数据太多，AI知道得太少：千问办公的上下文生意",
+    "link": "https://www.tmtpost.com/8151019.html",
+    "summary": "一家中大型企业内部的数据规模平均约为150PB，而目前最强模型的上下文窗口多为 100 万token左右。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -252,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini-1790114203000",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "publishedAt": "2026-09-22",
+    "id": "news-youtube-s-new-short-series-feature-brings-episodic-viewing-t-1790173800000",
+    "title": "YouTube’s new ‘Short series’ feature brings episodic viewing to Shorts",
+    "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+    "summary": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
+    "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -265,16 +345,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-older-workers-struggle-to-showcase-their-true-skills-on-free-1790088420000",
-    "title": "Older workers struggle to showcase their true skills on freelancing platforms, study says",
-    "link": "https://www.hrdive.com/news/older-workers-struggle-to-showcase-their-true-skills-on-freelancing-platfor/831001/",
-    "summary": "As the workforce ages, HR may need to go the extra mile to connect with talent that has the skills they need.",
+    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
+    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
+    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
+    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
     "publishedAt": "2026-09-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -291,10 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790159690000",
-    "title": " 又是气候变化惹的祸？“飞行硫酸”入侵北方，患者激增 ",
-    "link": "https://www.huxiu.com/article/4893548.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 气候变化会影响动物和植物的迁徙，这个现象其实早就被科学家发现。我国近代气象学奠基人和物候学的创始人竺可桢，曾在一些论文中有所论述。 最近，气候变暖引发我国南方的一些昆虫开始“北上”的迹象，也频繁被报道。 一个长期被贴上“南方物种”标签的小虫子，正在以一种并不友善的方式，重新绘制自己的分布地图。 在社交媒体上，越来越多人分享了自己遭遇隐翅虫的经历。 “父亲在江边散步，被隐翅虫伤到了！”“脸上烂了一大块，担心会留疤。”“脖子火辣辣地疼，5天了还不见好转。” 而隐翅虫出现的地点，正在一路北上。河南、山东、陕西、河北、北京甚至东三省的网友，不断晒出在家中、阳台甚至高层住宅里发现隐翅虫的照片。 “家里已经打死三只！”“天天抓隐翅虫，就连32楼楼顶都有。” 据统计，目前全世界已知的隐翅虫超过六万种，真正对人类构成威胁的一支，主要以梭毒隐翅虫为代表。 这种虫子的外形并不难辨认：身体细长，红黑相间，前胸和腹部中段是鲜亮的橘红色，头和尾则是黑色。 由于隐翅虫的口器是咀嚼式的，不具备刺穿皮肤的能力，隐翅虫一般不会直接叮咬皮肤。 但问题出在它的体液上：当虫体被拍打、挤压破碎后，含有隐翅虫毒素的体液会外漏并接触皮肤，引发红肿、水疱、溃烂等症状，因此它也被称为“飞行硫酸”。 据科普中国介绍，毒隐翅虫毒素是一种接触性毒素，沾染皮肤后2-4小",
+    "id": "news--1790172026000",
+    "title": " 从幕后到台前：三个晋江中腰部作者的流量自救之路 ",
+    "link": "https://www.huxiu.com/article/4893607.html?f=rss",
+    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 “我以为一辈子不会见到巫哲的真容。” 在三年一届的晋江作者大会现场，网文《撒野》的作者巫哲，近二十年来首次公开露面。随后，她利落干练的“高质感”形象与代表作校园文风格的反差成为了此次大会最出圈的讨论点。 另一边，作者甜画舫参会后分享自己的感受，其中关于容貌焦虑的表达引发了大量争议，读者大多数批判其“想当女明星”，把作者大会当成外貌营销的舞台。 这场大会上另一个出圈话题是头部IP的版权收入：墨香铜臭的《魔道祖师》《天官赐福》版权收入达到数亿元级别；巫哲的代表作《撒野》，版权收入也达到近亿元级别。 对当下的网文行业来说，作者早已不只是作品署名上的一个名字。笔名背后的人气、影响力，以及与读者建立的长期关系，正在成为IP开发链条中的重要一环。 这种变化，也让越来越多作者开始尝试走到台前。她们运营社交账号，分享创作日常、生活状态，与读者建立更直接的联系。比如说拥有400w+粉丝的水千丞，就成功的将188系列人物IP和自身深度绑定。 “现在不管是实体出版还是影视化，他都要看你的网络媒体声量。”一位网文行业从业者告诉娱乐资本论，作者的个人影响力，往往意味着后续版权开发中更高的溢价权和话语权。 从韩寒、郭敬明时期的“作者带书”，到今天网文作者经营个人账号，作者与作品之间的关系一直在变化。只是到了短视频和社交媒体成为主要传播入口的今天，一个新的问",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -304,91 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790156705000",
-    "title": "扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导",
-    "link": "https://www.tmtpost.com/8149902.html",
-    "summary": "“铲子”往往先于金矿的发现。",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-investigating-deaths-at-the-us-border-8217-s-vi-1789993200000",
-    "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
-    "publishedAt": "2026-09-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on--1790107200000",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-    "publishedAt": "2026-09-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-leaders-worry-about-the-loss-of-critical-leadership-skill-1790088420000",
-    "title": "HR leaders worry about the loss of critical leadership skill development",
-    "link": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
-    "summary": "The entry-level worker pipeline is shrinking and more tasks are being given to artificial intelligence, resulting in fewer learning opportunities for younger workers, a report found.",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-autoomni2-0-ai-1790153122000",
-    "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
-    "link": "https://www.qbitai.com/2026/09/496471.html",
-    "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
-    "publishedAt": "2026-09-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-1790159106000",
-    "title": " 从“囤卡分租”到百亿合同，A股上市公司上演跨界算力淘金热 ",
-    "link": "https://www.huxiu.com/article/4893543.html?f=rss",
-    "summary": "本文来自微信公众号： 银莕财经 ，作者：银莕财经 2026年，A股市场跨界算力的风愈演愈烈，一场跨行业的产业迁徙正在上演。从玩具制造、环卫运维、影视传媒，到新材料、传统加工、新能源运维，大量原本与AI、算力、数据中心毫无关联的上市公司，密集公告布局算力业务。 粗略统计，年内披露算力投资、算力租赁、智算中心建设、大额算力框架订单的A股公司数量已突破70家，覆盖近二十个细分行业。 银莕财经注意到，不同于往年互联网、科技企业的常态化算力投入，本轮最大特征是传统实体企业集体跨界、重资产入局、长单锁定收益。大量上市公司通过大额资本开支采购GPU集群、租赁机房、搭建智算平台、签署3-5年期算力服务合同，快速切入AI算力租赁赛道，成为今年资本市场最具共性的产业现象之一。 然而，有人凭借先发优势与百亿级订单实现业绩狂飙、市值翻倍；也有人因供应链断裂、资金断粮或跨界水土不服，最终陷入交付违约、项目烂尾的泥潭。 实际上，算力租赁正从早期的概念炒作演变为资金、硬件资源与运维能力的多维较量。面对英伟达认证失效、国产替代加速以及大客户自建智算中心等多重变量，这场重资产、高门槛的算力淘金战，正加速迎来关键拐点。 01 多家上市公司密集跨界落子 纵观本轮算力跨界热潮，并非个别企业的题材炒作，而是具备高度一致性的产业行为。传统行业上市公司普遍呈现相同特征：原有主业增长进入平稳周期、行业天花板逐步显现，企业寻求第二",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790156640000",
-    "title": "交付缩水八成，优必选给具身智能泼了一盆冷水",
-    "link": "https://www.tmtpost.com/8150766.html",
-    "summary": "关于真实需求、产能和商业化。",
+    "id": "news--1790159894000",
+    "title": "江淮汽车，成了资本眼中的新“太子”？",
+    "link": "https://www.tmtpost.com/8150848.html",
+    "summary": "鸿蒙智行“后时代”来临。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -1037,4 +1037,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-23T10:42:23.424Z';
+export const dataFetchedAt = '2026-09-23T16:01:25.995Z';
