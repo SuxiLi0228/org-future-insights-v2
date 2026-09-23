@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
-    "publishedAt": "2026-09-22",
+    "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
+    "title": "Smart glasses are already causing havoc in India",
+    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
+    "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-founder-summit-s-agenda-revealed-unlock-fundraisi-1790119309000",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-    "publishedAt": "2026-09-22",
+    "id": "news-8216-we-8217-re-already-fighting-yesterday-8217-s-battle-821-1790139548000",
+    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -42,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-l3-mpv-42-1790125254000",
-    "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
-    "link": "https://www.qbitai.com/2026/09/495959.html",
-    "summary": "纯电120kWh大电池，18.1吨压着照样开",
+    "id": "news-token-1790157413000",
+    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+    "link": "https://www.qbitai.com/2026/09/496578.html",
+    "summary": "商汤大装置异构混推创新实践与技术演进",
     "publishedAt": "2026-09-23",
     "source": "量子位",
     "tags": [
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790132100000",
-    "title": " 百万博士存量，是未来产业升级最大的底牌？ ",
-    "link": "https://www.huxiu.com/article/4893311.html?f=rss",
-    "summary": "中国博士总量已达133万，比全国驴还多，每年招收二三十万博士，硕士数量更猛。真正的红利是把博士送进实验室、车间、无人区，撑起中国未来产业升级。",
+    "id": "news-3000-1790159884000",
+    "title": " 原料为死者皮肤组织，3000元一针“尸皮针”能安全？多平台已下架相关产品 ",
+    "link": "https://www.huxiu.com/article/4893551.html?f=rss",
+    "summary": "本文来自微信公众号： 猛犸资本局 ，编辑：宋然，作者：闫晓寒，原文标题：《原料为死者皮肤组织！3000元一针“尸皮针”能安全？多平台已下架相关产品》 近期，一款名为Elravie Re2O（下称“Re2O”）的皮肤填充剂引发争议。 Re2O是韩国生物技术公司L&amp;C BIO旗下一款重要的医美注射产品，“为return to your 20s”（重返20岁）的缩写。2024年11月，Re2O在韩国上市，公司声称能够淡化细纹、收紧毛孔，并为求美者自身细胞的再生奠定基础，单针售价约3000至4000元人民币。 Re2O引发争议的原因在于，这款产品的核心原料来自已故捐献者的皮肤组织，被网友称为“尸皮针”。也因此，该产品自推出起便备受争议。 要了解Re2O的作用原理，首先要了解衰老的成因。 L&amp;C BIO在公司官网将衰老描述为，随着年龄而减少的不仅仅是胶原蛋白，支撑它的整个支架，即ECM（细胞外基质）会一同塌陷。当弹性蛋白断裂、GAG（糖胺聚糖）耗竭、真皮密度变薄时，称之为“衰老”。 而Re2O就是通过补充ECM达到抗衰的目的。根据L&amp;C BIO官网，其通过将人源脱细胞真皮基质（hADM）注射到真皮层，皮肤环境会通过三步过程得到根本改善，包括即时支撑、成纤维细胞激活、长期重塑。 ADM可以理解为ECM的去细胞版本。兰州大学第二医院烧伤整形与创面修复外科主任刘毅此前在中国",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790131175000",
-    "title": "苹果比任何时候都需要黄牛",
-    "link": "https://www.tmtpost.com/8149510.html",
-    "summary": "产品还没到消费者手里，已经在特定渠道走完了一轮行情。",
+    "id": "news-2027-1790156748000",
+    "title": "2027，零售将进入自营化元年",
+    "link": "https://www.tmtpost.com/8150812.html",
+    "summary": "市场将淘汰自营率低于30%的玩家。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -82,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
-    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
     "publishedAt": "2026-09-22",
     "source": "MIT Technology Review",
     "tags": [
@@ -94,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini-1790114203000",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "publishedAt": "2026-09-22",
+    "id": "news-discord-8217-s-age-verification-era-is-upon-us-despite-commu-1790134272000",
+    "title": "Discord&#8217;s age verification era is upon us, despite community backlash",
+    "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+    "summary": "According to Discord, 90% of users will not have to verify their age.",
+    "publishedAt": "2026-09-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -121,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790092775000",
-    "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-    "link": "https://www.qbitai.com/2026/09/494429.html",
-    "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
-    "publishedAt": "2026-09-22",
+    "id": "news-hellome-fde-ai-1790157026000",
+    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+    "link": "https://www.qbitai.com/2026/09/496493.html",
+    "summary": "企业AI服务迎来平台化交付时代",
+    "publishedAt": "2026-09-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-2-2-1790131838000",
-    "title": " 车停得进人下不来：2米大车挤进2.2米车位，逼疯了多少中国家庭？ ",
-    "link": "https://www.huxiu.com/article/4893375.html?f=rss",
-    "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·汽车观察 KANJIAN LAB·深度观察 车停得进人下不来：2米大车挤进2.2米车位，逼疯了多少中国家庭？ 当“532巨无霸”撞上十年前的旧国标与缩水账本：一场把千万车主逼进地库斗兽场的零和博弈 视觉封面·极限逼仄 两米宽的新能源大车挤进2.2米车位，门缝不足20厘米，车主陷于下车窘境 制作源：瞰见Lab纯视觉原创制图 在如今中国城市的地下车库里，正上演着一场非常滑稽但是又十分常见的魔幻现实主义的场景。 身着体面的都市中产，开着花费数十万新添置的中大型智能新能源旗舰SUV，小心翼翼地开进了小区地下车库。经过360度全景影像、超声波雷达尖锐而密集的蜂鸣声之后，这台庞然大物终于准确无误地停到了两道白线中间。 真正让人汗流浃背的时刻，其实是在车辆挂入P档熄火之后才刚刚开始。 推开车门瞬间金属摩擦的钝响让人神经紧绷——车门仅推开一条不足20厘米的窄缝，就会和左侧的后视镜或右侧的大立柱相撞。司机要深呼吸、收腹，使出宛如瑜伽大师般的“缩骨功”，贴着门缝将身体一点点向外挪。把公文包从车窗里扔出去之后，西装裤腿必然会在灰尘飞扬的车门槛上蹭出一个白色的印记，稍有不慎，邻车光洁的漆面上就会多出一条让人心疼的划痕。 这并不是一个老旧的小社区中偶然出现的一件小事，而是一般性的二三线城市的高档小区地下车库所面临的现实状况。 在武汉武昌区的百瑞景小区内，市民刘",
+    "id": "news-3-13-1790159884000",
+    "title": " 第一批“请3休13”的人，已经开始加班了 ",
+    "link": "https://www.huxiu.com/article/4893479.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：章鱼，编辑：闫如意，题图来自：视觉中国 2026年，咱中国人有自己的《假如给我三天光明》。 今年中秋节9月25日至27日，国庆节10月1日至7日，中间隔着9月28日、29日、30日3个工作日。也就是说，只要你成功请到3天假，就能拥有13天超长假期。 在不改变现有休假制度的前提下，咱们下次遇到这样的中秋国庆休假盛况，还需要95年。 对多数中国人来说，今年请3休13或许是自己唯一一次超长连休。 于是，这3个普通工作日，突然就变成了一种职场赎身大结果。如何拿到这种大结果，也成了一门登上热搜的显学。 毕竟，打工人能不能实现连休，基本全看领导心情。95年一遇的机会摆在这里，人人都摩拳擦掌，谁都想要向上请假，一举从工位牛马逆袭成旅途的顶美顶帅。 与此同时，咱打工人也迎来了全新的上班节奏： 上3休1、上5休3、上3休7、上3休1、上5休2。 还有几天调休、怎么休，基本每天都会在热搜实时滚动。 〓9月18日一早，上1休1这样温暖的字眼出现在了热搜之上，但不幸的是那天星期五。 作为一个合格的当代牛马，看到如此复杂的调休热搜，第一件事是辱骂，第二件事是转发，第三件就是定闹钟。 毕竟，想要给领导留下一个好印象请假成功，总不能调休第一天就迟到。 也许是为了让打工人更好上班，就连苹果日历也终于向上社交自适应调休了。 而你，我的朋友，此刻还在第一个调休日艰难挤地",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +146,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-muse-1790131153000",
-    "title": "Meta Muse 爆红，为什么腾讯股价大涨？",
-    "link": "https://www.tmtpost.com/8149390.html",
-    "summary": "扎克伯格等来爆款，腾讯跟着被重估。",
+    "id": "news--1790156744000",
+    "title": "为什么突然之间，全是大环肽？",
+    "link": "https://www.tmtpost.com/8150795.html",
+    "summary": "因为它是唯一同时站在所有正确答案上的分子形态。",
+    "publishedAt": "2026-09-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be--1790079000000",
+    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
+    "publishedAt": "2026-09-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-techcrunch-founder-summit-s-agenda-revealed-unlock-fundraisi-1790119309000",
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "publishedAt": "2026-09-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
+    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
+    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
+    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
+    "publishedAt": "2026-09-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790156817000",
+    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+    "link": "https://www.qbitai.com/2026/09/496494.html",
+    "summary": "打造算电协同领域“Windows”级操作系统",
+    "publishedAt": "2026-09-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-nasa-1790159710000",
+    "title": " 补贴也没留住，美国电池公司带NASA技术，跑常州量产 ",
+    "link": "https://www.huxiu.com/article/4893549.html?f=rss",
+    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《补贴也没留住！美国电池公司带NASA技术，跑常州量产》 摘要： 如果不在中国建厂，以公司现有的资金，很难实现大规模的商业生产。中国是“工厂中的工厂”，是迈向全球生产的“重要跳板”。 →这是《环球零碳》的第2160篇原创 美国想让制造业回流，然而一家美国电池公司却取消2.64亿美元的本土建厂计划，转头把首家工厂建在了中国常州。 据路透社报道，这家初创公司EnerVenue的常州电池制造工厂已经在9月17日开始批量生产，预计到今年年底将雇用约400名员工。 当被问及为何放弃美国、选择中国时，EnerVenue首席执行官Henning Rath给了一个现实的答案：如果不在中国建厂，以公司现有的资金，很难实现大规模的商业生产。 EnerVenue成立于2020年，由斯坦福大学材料科学与工程系教授崔屹创立，主要生产源自美国宇航局（NASA）太空技术的镍氢气电池。这类电池技术曾应用于哈勃太空望远镜和国际空间站。 由于这项技术的原始成本过高，难以在民用电力市场取得成功，但EnerVenue已经用了一种低成本材料替代，其电池可循环使用3万次，性能衰减极小，使用寿命远远超过普通锂离子电池，且防火性能也更佳。 因此，该公司在2020年完成了1200万美元的种子轮融资，2021年从沙特阿美能源风险投资公司和斯伦贝谢新能源等",
+    "publishedAt": "2026-09-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790156709000",
+    "title": "AI制药的火，烧到了“产业中游”",
+    "link": "https://www.tmtpost.com/8150777.html",
+    "summary": "AI制药的火，已然从“设计端”烧到了“验证端”，产业中游的蛋白试剂与验证服务商正是当下最热的风口。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -173,89 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on--1790107200000",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-    "publishedAt": "2026-09-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-workers-say-they-are-frustrated-by-bait-and-switch-job-descr-1790088780000",
-    "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-    "link": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-    "summary": "When a role&#39;s responsibilities don&rsquo;t match hiring language or a position&rsquo;s expectations change significantly, it can lead to stress and burnout, employees reported.&nbsp;",
-    "publishedAt": "2026-09-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agent-cpu-1790092014000",
-    "title": "Agent时代，CPU的价值该重估了",
-    "link": "https://www.qbitai.com/2026/09/494430.html",
-    "summary": "CPU与GPU趋近1∶1",
-    "publishedAt": "2026-09-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790130575000",
-    "title": " 今年中秋，连月饼也卖不动了？ ",
-    "link": "https://www.huxiu.com/article/4893134.html?f=rss",
-    "summary": "月饼，为啥突然没人买了？",
-    "publishedAt": "2026-09-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790131147000",
-    "title": "二代接班后的老板电器，在找下一道“食神”招牌菜",
-    "link": "https://www.tmtpost.com/8149393.html",
-    "summary": "烟机冠军也有“生长痛”？",
-    "publishedAt": "2026-09-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-investigating-deaths-at-the-us-border-8217-s-vi-1789993200000",
-    "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
-    "publishedAt": "2026-09-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-apple-could-take-on-whoop-with-a-new-fitness-tracker-report--1790105277000",
-    "title": "Apple could take on Whoop with a new fitness tracker, report says",
-    "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
-    "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+    "id": "news-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini-1790114203000",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -278,11 +278,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790087339000",
-    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-    "link": "https://www.qbitai.com/2026/09/494420.html",
-    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
-    "publishedAt": "2026-09-22",
+    "id": "news--1790153644000",
+    "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+    "link": "https://www.qbitai.com/2026/09/496481.html",
+    "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+    "publishedAt": "2026-09-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,24 +291,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790130023000",
-    "title": " 港交所新一轮改革述评（上）丨上市一年就能分拆，港交所松绑分拆上市改革的意图何在？ ",
-    "link": "https://www.huxiu.com/article/4893385.html?f=rss",
-    "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士，原文标题：《港交所新一轮改革述评（上）丨上市一年就能分拆，港交所松绑分拆上市改革的意图何在？》 港交所近日刊发《上市机制竞争力检讨（第二阶段）》咨询文件，其中最引人关注的一项建议，是将上市公司分拆业务上市的一般等待期由三年缩短至一年。 “上市一年就能分拆”，听起来像是一次大幅度松绑，也容易让人产生疑问：一家公司刚刚完成上市，为什么这么快就可以把旗下业务再次推向资本市场？这会不会形成重复融资，甚至把优质资产从母公司剥离出去？ 这些担忧并非没有道理。但如果只把这次改革理解为“放宽分拆上市”，就低估了它的制度意义。港交所此次提出的，不只是缩短一个等待期限，而是围绕须予公布的交易、分拆上市、关联交易及“分析上市”等制度，对上市公司的交易和重组机制进行系统检讨。 改革真正试图回答的问题是：一家企业进入香港资本市场以后，能否继续利用这个平台进行并购、重组、分拆和产业整合？香港资本市场的功能，究竟只是帮助企业完成一次IPO，还是能够支持企业在上市以后持续做大？ 需要强调的是，截至目前，有关内容仍处于公开咨询阶段，并非已经生效的《上市规则》。“上市一年就能分拆”也不意味着任何公司上市满一年后都可以自动分拆。是否具备分拆条件，仍须接受业务独立性、剩余业务规模、公司治理及投资者保护等一系列规则约束。 在这个前提下，我认为这次改革方向值得",
+    "id": "news--1790159690000",
+    "title": " 又是气候变化惹的祸？“飞行硫酸”入侵北方，患者激增 ",
+    "link": "https://www.huxiu.com/article/4893548.html?f=rss",
+    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 气候变化会影响动物和植物的迁徙，这个现象其实早就被科学家发现。我国近代气象学奠基人和物候学的创始人竺可桢，曾在一些论文中有所论述。 最近，气候变暖引发我国南方的一些昆虫开始“北上”的迹象，也频繁被报道。 一个长期被贴上“南方物种”标签的小虫子，正在以一种并不友善的方式，重新绘制自己的分布地图。 在社交媒体上，越来越多人分享了自己遭遇隐翅虫的经历。 “父亲在江边散步，被隐翅虫伤到了！”“脸上烂了一大块，担心会留疤。”“脖子火辣辣地疼，5天了还不见好转。” 而隐翅虫出现的地点，正在一路北上。河南、山东、陕西、河北、北京甚至东三省的网友，不断晒出在家中、阳台甚至高层住宅里发现隐翅虫的照片。 “家里已经打死三只！”“天天抓隐翅虫，就连32楼楼顶都有。” 据统计，目前全世界已知的隐翅虫超过六万种，真正对人类构成威胁的一支，主要以梭毒隐翅虫为代表。 这种虫子的外形并不难辨认：身体细长，红黑相间，前胸和腹部中段是鲜亮的橘红色，头和尾则是黑色。 由于隐翅虫的口器是咀嚼式的，不具备刺穿皮肤的能力，隐翅虫一般不会直接叮咬皮肤。 但问题出在它的体液上：当虫体被拍打、挤压破碎后，含有隐翅虫毒素的体液会外漏并接触皮肤，引发红肿、水疱、溃烂等症状，因此它也被称为“飞行硫酸”。 据科普中国介绍，毒隐翅虫毒素是一种接触性毒素，沾染皮肤后2-4小",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-25-1790130988000",
-    "title": "合作25年老友决裂，厦门钨业与洛阳钼业对簿仲裁庭",
-    "link": "https://www.tmtpost.com/8149394.html",
-    "summary": "钨价高位下的断供罗生门。",
+    "id": "news--1790156705000",
+    "title": "扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导",
+    "link": "https://www.tmtpost.com/8149902.html",
+    "summary": "“铲子”往往先于金矿的发现。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -319,10 +318,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-we-made-the-first-comprehensive-map-of-deaths-along-the--1789992000000",
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;",
+    "id": "news-the-download-investigating-deaths-at-the-us-border-8217-s-vi-1789993200000",
+    "title": "The Download: investigating deaths at the US border&#8217;s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
     "publishedAt": "2026-09-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -331,10 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-admits-muse-8217-s-likeness-to-openclaw-isn-8217-t-a-co-1790104151000",
-    "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "id": "news-qualcomm-launches-two-new-smartphone-chips-with-emphasis-on--1790107200000",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
     "publishedAt": "2026-09-22",
     "source": "TechCrunch",
     "tags": [
@@ -359,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1790085430000",
-    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-    "link": "https://www.qbitai.com/2026/09/494263.html",
-    "summary": "商汤U1 Pro，正式发布",
-    "publishedAt": "2026-09-22",
+    "id": "news-autoomni2-0-ai-1790153122000",
+    "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+    "link": "https://www.qbitai.com/2026/09/496471.html",
+    "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+    "publishedAt": "2026-09-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -372,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790129956000",
-    "title": " 低空经济的双面真相：敦煌飞起来了，但闸门还没打开 ",
-    "link": "https://www.huxiu.com/article/4893386.html?f=rss",
-    "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 2026年9月22日，敦煌会展中心南侧广场，一架造型介于汽车与飞行器之间的飞行器缓缓升空，在三十至五十米高度完成环绕飞行与定点悬停。同一天，敦煌市政府与广汽高域签署战略合作框架协议，启动低空交旅融合枢纽示范项目。 此前一天，浙江宣布灵境星座——规划总投资约300亿元、计划2030年实现千星在轨运营的“AI+遥感”星座——将在数贸会全球首发。 两个事件，分别代表低空经济的两个层面：地面层的场景验证，天基层的基础设施布局。但如果拆开低空基础设施的三层框架，会发现一个被忽视的事实：真正卡住低空经济的，既不是飞行器能不能升空，也不是卫星能不能组网，而是夹在二者之间的低空运行管理体系——空域分类与审批规则、通信导航监视、气象情报、飞行服务、安全监管、保险与责任划分。以及一个更隐蔽的约束：需求端高度依赖政策和地方财政，真实的市场化需求尚未被验证。 一、敦煌样板与文旅账本 高域创始人苏庆鹏在签约现场说：“低空文旅当下需要的是从飞起来到融进去的变革。” 但比口号更有信息量的，是敦煌低空文旅已经跑出的真实账本——不是高域这一单，而是敦煌飞天通用航空此前积累的运营数据。据人民网甘肃频道2026年6月16日报道，飞天通航投资1.2亿元，在鸣沙山月牙泉景区、雅丹地质公园景区建成两座通用机场，配备直升机、固定翼飞机、动力悬挂滑翔机等36架航空器。202",
+    "id": "news-a-1790159106000",
+    "title": " 从“囤卡分租”到百亿合同，A股上市公司上演跨界算力淘金热 ",
+    "link": "https://www.huxiu.com/article/4893543.html?f=rss",
+    "summary": "本文来自微信公众号： 银莕财经 ，作者：银莕财经 2026年，A股市场跨界算力的风愈演愈烈，一场跨行业的产业迁徙正在上演。从玩具制造、环卫运维、影视传媒，到新材料、传统加工、新能源运维，大量原本与AI、算力、数据中心毫无关联的上市公司，密集公告布局算力业务。 粗略统计，年内披露算力投资、算力租赁、智算中心建设、大额算力框架订单的A股公司数量已突破70家，覆盖近二十个细分行业。 银莕财经注意到，不同于往年互联网、科技企业的常态化算力投入，本轮最大特征是传统实体企业集体跨界、重资产入局、长单锁定收益。大量上市公司通过大额资本开支采购GPU集群、租赁机房、搭建智算平台、签署3-5年期算力服务合同，快速切入AI算力租赁赛道，成为今年资本市场最具共性的产业现象之一。 然而，有人凭借先发优势与百亿级订单实现业绩狂飙、市值翻倍；也有人因供应链断裂、资金断粮或跨界水土不服，最终陷入交付违约、项目烂尾的泥潭。 实际上，算力租赁正从早期的概念炒作演变为资金、硬件资源与运维能力的多维较量。面对英伟达认证失效、国产替代加速以及大客户自建智算中心等多重变量，这场重资产、高门槛的算力淘金战，正加速迎来关键拐点。 01 多家上市公司密集跨界落子 纵观本轮算力跨界热潮，并非个别企业的题材炒作，而是具备高度一致性的产业行为。传统行业上市公司普遍呈现相同特征：原有主业增长进入平稳周期、行业天花板逐步显现，企业寻求第二",
     "publishedAt": "2026-09-23",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-5-61-1790130678000",
-    "title": "慧谷新材：7.5万吨电子材料落子珠海，新能源业务上半年增长61%",
-    "link": "https://www.tmtpost.com/8149750.html",
-    "summary": "理解这种变化，才可能真正评估公司的长期价值。",
+    "id": "news--1790156640000",
+    "title": "交付缩水八成，优必选给具身智能泼了一盆冷水",
+    "link": "https://www.tmtpost.com/8150766.html",
+    "summary": "关于真实需求、产能和商业化。",
     "publishedAt": "2026-09-23",
     "source": "钛媒体",
     "tags": [
@@ -1038,4 +1037,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-23T03:07:33.225Z';
+export const dataFetchedAt = '2026-09-23T10:42:23.424Z';
