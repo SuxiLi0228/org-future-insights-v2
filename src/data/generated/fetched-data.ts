@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
-    "publishedAt": "2026-09-23",
+    "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
+    "title": "AI is dominating the conversation at Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
+    "publishedAt": "2026-09-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1790210882000",
-    "title": "成立九年，中科类脑把积累装进Token工厂",
-    "link": "https://www.qbitai.com/2026/09/496615.html",
-    "summary": "",
+    "id": "news-gpt-6-glow-1790238012000",
+    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "link": "https://www.qbitai.com/2026/09/496816.html",
+    "summary": "人类演示一次，机器人即可实现跨场景任务复用",
     "publishedAt": "2026-09-24",
     "source": "量子位",
     "tags": [
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790218238000",
-    "title": " 国内承压、海外增长，携程进入调整期 ",
-    "link": "https://www.huxiu.com/article/4893680.html?f=rss",
-    "summary": "本文来自微信公众号： 透视商业 ，作者：透视商业，编辑：苏满 2021年4月，阿里因“二选一”领到182亿元罚单，被市场监管总局督导开启三年整改，直到2024年8月才被官宣“整改完成”。 现在，轮到携程了。 今年7月25日，市监总局认定携程在中国境内在线酒店预订平台服务市场滥用市场支配地位。这是我国在线旅游行业反垄断第一案。 罚单落地两个月后，影响体现在了财报上。9月16日，携程公布2026年第二季度业绩：营收157亿元，同比增速降至6%；净利润由盈转亏，单季亏损约24亿元。 罚单是一次性的，但反垄断整改是持续性的。对当下的携程来说，唯一的大事就是合规——而合规的代价，正在一点一点写进这家公司的收入结构和利润表里。 01 携程的钱，赚得没那么容易了 先看利润表。 二季度，携程净亏损约24亿元，而上年同期是净利润约49亿元，今年一季度还有约25亿元的盈利。由盈转亏的原因几乎没有悬念：约52亿元的反垄断罚没，作为一次性费用计入了这个季度。 抛开这笔罚款，携程的利润表现没有那么惨，但也没有完全稳住。 剔除处罚影响后，二季度净利润约27亿元，由巨亏转为盈利。但与此同时，经调整EBITDA为45.65亿元，同比下降6.5%，利润率从去年同期的33%降到了29%。 收入往上走，利润往下走，这意味着携程的增长还在，但变“贵”了。 钱主要花在两个地方。一个是获客和营销。二季度销售及营销费用38亿元",
+    "id": "news-ai-1790247038000",
+    "title": " 普通用户成了AI的负资产？ ",
+    "link": "https://www.huxiu.com/article/4893819.html?f=rss",
+    "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 “2亿日活的豆包成了边缘产品”，上了微博热搜。 读这个帖子，有种粉丝应援某韩团女星，让她成顶流，然后苦口婆心劝她不要去法国参加某秀，结果她来了一句，“你没有被邀请”——一种大众的应援被白费了的感觉。 其实，不只豆包，在正在举行的阿里云栖大会上，阿里也开始大唱“机器智能”文明论，并开卖899元的办公机器人。百度也开始大喊“产业智能体才是未来方向”。DeepSeek的梁文锋更早，在一个月前流传开来的谈话中，有传他讲：“甚至一度我们都不想维护那些用户了，但是用户赶都赶不走。” 不管此话是真是假，总之豆包、千问、百度、DeepSeek早就集体转B了。普通用户的人头数，变得不再那么重要。 但2023年，在这一波AI浪潮峰起时，各AI大厂都不是这么对我们的。 曾经，我们爱如潮水 2022年11月30日，第一代ChatGPT引爆全球，两个月月活用户突破1亿。2023年3月16日，百度文心大模型发布，拉开了国内这一波AI浪潮的大幕。 那些年，各大厂大佬，为了“扫盲”，没有少对大众进行“画饼喊话”。 吴泳铭在2023乌镇大会上说，“AI助理会无处不在，成为每个人工作、生活、学习中的助手。” 雷军则在次年某一个重要场合声称：“要把AI工具用好，在刚开始大部分都不会用的时候，你会用对你来说就是机会。” 李彦宏也喊话，认为普通人不必担心工作消失，因为新机会",
     "publishedAt": "2026-09-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1790217094000",
-    "title": "智能体重写手机，高通骁龙换挡“双旗舰平台”",
-    "link": "https://www.tmtpost.com/8151258.html",
-    "summary": "对于消费者来说，真正的AI手机或许还在路上，但底层的技术基石，已经在这一代芯片中悄然成型。",
+    "id": "news--1790246362000",
+    "title": "被涉黄产业链盯上，闲鱼也头疼",
+    "link": "https://www.tmtpost.com/8151895.html",
+    "summary": "被黑灰产寄生的闲鱼：流量越大，考题越难。",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -81,10 +82,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
-    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -120,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790159716000",
-    "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-    "link": "https://www.qbitai.com/2026/09/496609.html",
-    "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-    "publishedAt": "2026-09-23",
+    "id": "news-stripe-tour-ai-1790228770000",
+    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "link": "https://www.qbitai.com/2026/09/496779.html",
+    "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+    "publishedAt": "2026-09-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,23 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-n-1790217203000",
-    "title": " 绕了地球N圈的香飘飘，也下场开奶茶店了 ",
-    "link": "https://www.huxiu.com/article/4893489.html?f=rss",
-    "summary": "香飘飘这个靠&ldquo;绕地球三圈&rdquo;广告红遍全国的冲泡奶茶，最近在杭州湖州开了7家现泡奶茶店。",
+    "id": "news-ai-1790246720000",
+    "title": " AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？ ",
+    "link": "https://www.huxiu.com/article/4893826.html?f=rss",
+    "summary": "本文来自微信公众号： 针尖 ，作者：都叫兽 AI漫剧一年时间走了日本动画产业40年的路，必然承受成长的痛苦。 根据9月17日广电总局公布的数据，仅今年前8个月，全国上线了超过38万部AI漫剧。海量供给叠加平台播放收益下调，让大量团队血本无归，黯然退场——仅今年一季度，活跃承制方就从1216家暴跌至698家，退场率42%。 亏损，降本，商业化不足，成为摆在AI漫剧创业者面前的三座大山。 这三座大山，曾经也摆在八九十年代的日本动画产业面前。随着泡沫经济的破灭，电视台采购费用大幅下滑，单集动画制片成本锐减；被寄予厚望的大制作接连扑街，一批动画公司宣布破产，连庵野秀明都背上了巨额债务；导演、编剧和画师面面相觑，“除了卖动画成片，我们还能靠什么赚钱？” 站在90年代的关口，日本动画人发出了和今天漫剧人一样的呐喊。 然而仅仅数年后，日本动画产业就实现了整体盈利，产能翻倍；二次元从小众审美一跃成为日本国民文化代表，名利双收。 他们做对了什么？ （二者阶段性对比） 【AI漫剧正在重演日本动画崛起三部曲】 单纯讨论AI漫剧，似乎很难理解发展阶段。但如果把它视为一种超低成本动画，现象就会变得非常简单———AI漫剧正在重演日本动画崛起三部曲，即：技术驱动，试验动画和国际化。 和AI漫剧一样，日本动画的起点也是技术驱动。上世纪60年代，手冢治虫大幅改良了有限动画技术，凭借“一拍三”、静态镜头、复用原画等技",
     "publishedAt": "2026-09-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1790214409000",
-    "title": "这届网友，正逐渐对十级滤镜“祛魅”",
-    "link": "https://www.tmtpost.com/8151281.html",
-    "summary": "在大众审美趣味被暴力美颜调教得“活人感不足，假面感有余”的当下，很多人希望抵御软性的审美规训——哪怕真实必然伴随着缺陷。",
+    "id": "news-ras-44-1790246358000",
+    "title": "RAS成药之路：44年，从“不可成药”到胰腺癌破局",
+    "link": "https://www.tmtpost.com/8151852.html",
+    "summary": "RAS的故事，是一部人类与自身生物学极限反复较量的史诗。",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -160,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
+    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -199,11 +201,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1790157413000",
-    "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-    "link": "https://www.qbitai.com/2026/09/496578.html",
-    "summary": "商汤大装置异构混推创新实践与技术演进",
-    "publishedAt": "2026-09-23",
+    "id": "news--1790228720000",
+    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "link": "https://www.qbitai.com/2026/09/496778.html",
+    "summary": "专治人机动作对不齐",
+    "publishedAt": "2026-09-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -212,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790217188000",
-    "title": " 黄酒变天：当卖茅台的大商开始卖兰亭 ",
-    "link": "https://www.huxiu.com/article/4893684.html?f=rss",
-    "summary": "本文来自微信公众号： 酒周志 ，作者：山神 对黄酒企业来说，这些大商手里握着的是它们过去三十年最缺的东西：全国化的终端网络，和高端圈层的入场券。 会稽山董事长方朝阳大概等这一天等了很久。 9月21日，会稽山股价涨停收盘，报收36.12元‌，走出“5天4板”并创下上市以来新高。同一天，三家黄酒上市公司集体上涨，这在过去几年的行情里几乎没出现过。 就在涨停前十天，四川盛世群运董事长杨波在成都签了一份战略协议，将会稽山高端系列“兰亭”引入手里五千多个终端网点。杨波还有另一个身份：茅台四川经销商联谊会会长。 再往前数几个月，河南茅五剑、北京京糖、四川盛世群运、四川鑫源华泽、南京国策酒业、白山方大——这些名字在白酒圈如雷贯耳的大商，一个接一个地出现在了黄酒企业的签约仪式上。 卖茅台的人，开始卖黄酒了。 白酒大商为什么“下沉” 要理解这件事的分量，得先理解白酒大商过去两年经历了什么。 白酒行业深度调整已经不是新闻。2024年到2026年上半年，20家白酒上市公司的经销商数量急剧缩减；头部酒企推进直营化、数字化控盘，传统大商的生存逻辑被系统性削弱；过去靠“买断、层层分销”赚价差的日子，正在变成赚微薄的服务费和返利。 利润薄了，人就得找出路。 黄酒恰好在这个时候进入了他们的视野。理由听起来很朴素：利润空间更厚，入局门槛更低，品类还有新鲜感。高端黄酒目前的规模只有2到3个亿，而高端白酒是三四千亿的市",
+    "id": "news--1790246705000",
+    "title": " 新能源汽车维修工，薪资翻倍也抢不到 ",
+    "link": "https://www.huxiu.com/article/4893829.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：葛成 张安琪 第48届世界技能大赛汽车技术项目比赛进入第二日，中国选手李家乐正在进行ADAS（高级驾驶辅助系统）和车身电气模块的比赛。 他要完成的是雷达校准。李家乐一点点调整雷达的位置，同时观察设备反馈。雷达的安装位置一旦出现偏差，车辆对障碍物距离和方位的判断就可能失准，进而影响预警、制动等辅助驾驶功能。直到屏幕亮起代表校准通过的绿色标识，他才开始调试下一个雷达。 这是汽车维修技术正在发生变化的一个切面。发动机、变速箱、制动和转向仍然是基本功，混合动力、电动汽车和智能驾驶辅助系统也已进入考核范围。界面新闻观察到，此次汽车技术比赛项目里，还有一项专门的新能源汽车考核项目。 世界技能组织发布的本届汽车技术职业标准中，电气与机械系统的检查诊断占45%，维修与大修占20%。选手需要在限定时间内完成车辆检查、故障诊断和维修，不仅要会拆装零部件，还要使用诊断设备读取数据，分析测试结果并找到真正的故障点。 第48届世赛组委会秘书处秘书长、人社部职业能力建设司司长吴礼舵形容，这是“真刀真枪把汽车搬到了赛场”。 界面新闻从长期跟踪该项目的专业人士处了解到，汽车技术项目的的动力传动考核正在向“三电+智能诊断”延伸。新能源动力传动相关内容在第46届世赛中只有0.5小时，到第47届增加至2小时，本届进一步增加到4小时，大量涉及电池管理系统、电控单元和高压系统。 考核",
     "publishedAt": "2026-09-24",
     "source": "虎嗅",
     "tags": [
@@ -225,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790213893000",
-    "title": "中国商业火箭，开始出现“第二种公司”",
-    "link": "https://www.tmtpost.com/8151299.html",
-    "summary": "第一批火箭公司之后，第二批玩家从哪里来？",
+    "id": "news-glp-1-1790246355000",
+    "title": "诺和诺德资本日，泄露了GLP-1赛道的下一场战争",
+    "link": "https://www.tmtpost.com/8151750.html",
+    "summary": "关于定价权的最后一战",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -239,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
-    "title": "Smart glasses are already causing havoc in India",
-    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
+    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -278,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hellome-fde-ai-1790157026000",
-    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-    "link": "https://www.qbitai.com/2026/09/496493.html",
-    "summary": "企业AI服务迎来平台化交付时代",
-    "publishedAt": "2026-09-23",
+    "id": "news-5-10-rlark-1790227195000",
+    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "link": "https://www.qbitai.com/2026/09/496767.html",
+    "summary": "开源一座具身智能的新“塔台”",
+    "publishedAt": "2026-09-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-31-ipo-1790216941000",
-    "title": " 开了31年的豆浆油条店，要IPO了 ",
-    "link": "https://www.huxiu.com/article/4893682.html?f=rss",
-    "summary": "本文来自微信公众号： 东四十条资本 ，作者：黎曼，编辑：王庆武 这是一次打包IPO。 近日，菲律宾证券交易所一则公告，把永和大王、添好运、宏状元的母公司快乐蜂（Jollibee Foods）放在聚光灯下。 快乐蜂是菲律宾华裔陈觉中一手做大的快餐帝国，在菲律宾本土连麦当劳都要让它三分，全球门店过万、业务铺到33个国家和地区。集团现宣布，要分拆旗下国际业务主体JFCI赴港主板上市，预计2027年下半年完成挂牌。 这是一次打包IPO，里面包括永和大王的豆浆油条、宏状元的粥、添好运的虾饺，外加几家海外咖啡店。汉堡王、吉野家这些国人更熟悉的名字，反而留在了马尼拉，不在此次上市范围内。 早在今年1月6日，快乐蜂宣布的上市地还是美国，消息一出股价先创下五年多最大单日涨幅，但半年后却跌去约25%，还被移出了MSCI菲律宾标准指数。6月改道香港的风声传出，于近日靴子落地。 几经转手的永和大王 快乐蜂的创办人陈觉中，是祖籍福建晋江的菲籍华裔。1975年，他向父亲借钱，在马尼拉开了两家冰淇淋小作坊，很快发现顾客要的不是冰淇淋，是热食。1978年，小店改名快乐蜂，转型西式快餐厅。 上世纪80年代麦当劳进军菲律宾，本土品牌纷纷败退，陈觉中贴着麦当劳开店、做本土口味，硬是成了极少数在本土市场打赢麦当劳的快餐公司。1993年，快乐蜂登陆菲律宾证券交易所，随后走上靠并购扩张的路。 买下永和大王，是这家公司全球化的",
+    "id": "news-10-1790246540000",
+    "title": " 水量是北美五大湖10倍，新疆沙漠下发现“地下海洋” ",
+    "link": "https://www.huxiu.com/article/4893827.html?f=rss",
+    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《水量是北美五大湖10倍！新疆沙漠下发现“地下海洋”》 →这是《环球零碳》的2161篇原创 说起塔克拉玛干沙漠，很多人的第一印象肯定是寸草不生的“死亡之海”。 这片中国最大的沙漠，夏天地表能烤熟鸡蛋，全年降水量不到100毫米，蒸发量直接干到3000毫米，连维吾尔语的意思都是“进得去，出不来”。 谁能想的到，在这满是黄沙的“生命禁区”底下，居然还藏着一片体量惊人的地下水域。但立刻有人开始质疑，即便在塔克拉玛干沙漠底下有水，那肯定是又苦又咸的死水，是根本没法用的那一类水。 不过，在我国地质调查人员的努力下，这个众所周知的“常识”被打破了。 央视新闻近日报道，新疆地质局水文环境地质调查中心实施了一项南疆沙漠找水项目中，有了重大突破。在塔克拉玛干沙漠南缘的民丰县安迪尔乡，还有沙漠腹地的麻扎塔格山南区域，发现了两处大型地下水水源。 值得注意的是，两处大型地下水水源，一个位置在塔克拉玛干沙漠南部边缘地带，另一个则则深入沙漠的心脏地带，分属两个有区别且独立的地区。 更让人兴奋之处在于，它推翻了一个长期以来的“众所周知”：也就是沙漠的地下只会有死水和咸水。 图说：在沙漠下方发现了比五大湖大10倍的水储量 来源：interesting engineering 新疆地质局水文环境地质调查中心南疆沙漠找水项目负责人康剑表示，",
     "publishedAt": "2026-09-24",
     "source": "虎嗅",
     "tags": [
@@ -304,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790212436000",
-    "title": "管道赛道为AI输送能源，两大标的值得布局",
-    "link": "https://www.tmtpost.com/8151341.html",
-    "summary": "金德尔·摩根公司和威廉姆斯公司都将从天然气需求不断增长中获利。",
+    "id": "news--1790244978000",
+    "title": "为什么休息越来越贵了？",
+    "link": "https://www.tmtpost.com/8151313.html",
+    "summary": "一个社会究竟能让多少普通人，在不承担过高代价的情况下，真正停下来。",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -318,11 +320,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790084525000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
-    "publishedAt": "2026-09-22",
+    "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
+    "title": "Smart glasses are already causing havoc in India",
+    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
+    "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -358,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790156817000",
-    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
-    "link": "https://www.qbitai.com/2026/09/496494.html",
-    "summary": "打造算电协同领域“Windows”级操作系统",
-    "publishedAt": "2026-09-23",
+    "id": "news-e7s-pro-1790218278000",
+    "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+    "link": "https://www.qbitai.com/2026/09/496658.html",
+    "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+    "publishedAt": "2026-09-24",
     "source": "量子位",
     "tags": [
       "china",
@@ -371,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-930-api-1790216564000",
-    "title": " 930大限倒计时：助贷“API闭环”终结，四大营销模式重排 ",
-    "link": "https://www.huxiu.com/article/4893679.html?f=rss",
-    "summary": "本文来自微信公众号： 消金界 ，作者：徐斌 距9月30日还有一周。 由中国人民银行、工业和信息化部、市场监管总局、金融监管总局、中国证监会、国家知识产权局、国家网信办、国家外汇局八部门联合发布的《金融产品网络营销管理办法》（八部门公告〔2026〕第9号，下称《办法》），即将正式施行。 在助贷行业，过去一个季度被反复追问的问题只有一个：传统\"API模式\"还能不能做？ 此前业内流传的判断——\"《办法》并未明文禁止API模式，监管更看重业务实质和责任边界\"——如今陆续得到验证。经多家持牌机构、助贷平台调研反馈，一个相对清晰的合规框架正在浮现： 改造后的API链路可行，全流程H5可行，最终还可跳转持牌机构自营的小程序与APP。核心在于客户完整授权，以及核心风控、客户签约、资金划转与回收等环节必须留在持牌机构侧。 多家持牌机构人士透露，不同机构的风险偏好差异明显：有的更倾向于全流程H5，有的押注小程序，也有机构选择坚守合规改造后的API链路。路径不同，但方向一致——平台方转向\"信息展示+意向收集+合规转接\"，持牌机构转向核心环节自营自控。 01 API未被禁止，但\"API闭环\"已经终结 先厘清一个技术概念：H5即HTML5页面，无需下载APP，通过浏览器或微信等应用内嵌浏览器即可访问。这是目前被机构普遍看好的\"中间态\"载体。 调研发现，当前助贷业务四大营销合作模式，按资方与助贷平台的整改意愿",
+    "id": "news--1790246508000",
+    "title": " 从下海到上岸：每代人都有自己的“人生爽文” ",
+    "link": "https://www.huxiu.com/article/4893825.html?f=rss",
+    "summary": "本文来自微信公众号： 印象笔记 ，作者：大象，原文标题：《从下海到上岸：每代人都有自己的「人生爽文」》 有两种在中国流传很广的故事。 一种是主角辞去铁饭碗，只身南下，好戏才刚刚开始；另一种是主角熬过千军万马，终于考上编制，故事就此圆满。 方向完全相反的两件事，讲出来都让人觉得很爽。 是因为我们「人生爽文」的范式改变了吗？ -1- 把桌子摆出去，日子就有了别的可能 1979年，广州西华路街口，一个叫容志仁的回城知青摆了个早餐摊。 家底只有一百块，连口煮粥的大锅都买不起，是找街道文化站借的。他卖的东西便宜，一毛钱一份「学生餐」，半碟肠粉配半碗粥。薄利多销，逐渐就做起来了。 他后来接受采访说过一句实在话：「我们一天的收入是县长一个月的收入。」县长月工资105块，他一天能挣100块。 没过多久，他便攒下来人生中的第一笔「一万块钱」。 「万元户」这三个字之所以让人兴奋，重点其实不在「一万」这个数上。几十年里大家拿差不多的工资，住差不多的房子，过差不多的日子，突然有人靠卖早餐挣到了县长级别的收入——这本身就是个信号：原来，选择是能带来不同的结果。 1980年12月，温州19岁的姑娘章华妹领到了中国第一张个体工商业营业执照，编号「工商证字第10101号」。 她的生意很小，在家门口摆张桌子，卖纽扣、橡皮筋、表带。执照上的经营范围只有三个字：小百货。 同一年，北京的刘桂仙开了全北京第一家个体餐馆，长",
     "publishedAt": "2026-09-24",
     "source": "虎嗅",
     "tags": [
@@ -384,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1790212409000",
-    "title": "震荡市防御优选：11只专业人士看好的股息标的",
-    "link": "https://www.tmtpost.com/8151338.html",
-    "summary": "随着由人工智能推动的市场反弹看起来可能已接近高位，投资者或许会希望通过持有可靠的分红股票来获得一份安心。以下是专业人士精选的优质标的。",
+    "id": "news-10-1790244976000",
+    "title": "陪跑10年，绿茶集团二股东清仓离场",
+    "link": "https://www.tmtpost.com/8151376.html",
+    "summary": "更需正视来自经营端的挑战。",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -1033,4 +1035,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-24T02:58:24.799Z';
+export const dataFetchedAt = '2026-09-24T11:03:11.208Z';
