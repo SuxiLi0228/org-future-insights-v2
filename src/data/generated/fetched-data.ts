@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-1790265816000",
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+    "id": "news-nexterity-wants-to-automate-the-hard-dangerous-part-of-pipef-1790282700000",
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-workers-be-paid-for-ai-skills-1790265120000",
-    "title": "Should workers be paid for AI skills?",
-    "link": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
-    "summary": "Companies could face a &ldquo;retention time bomb&rdquo; if existing workers see new hires get paid more for tech expertise, Payscale found.",
+    "id": "news-ollie-s-bargain-discount-allegedly-refused-to-hire-deaf-work-1790282760000",
+    "title": "Ollie’s Bargain Discount allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
+    "link": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
+    "summary": "This case is one of several involving deaf job candidates that highlights the danger of assumptions about ability.",
     "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-tests-letting-gemini-call-businesses-for-you-1790265600000",
-    "title": "Google tests letting Gemini call businesses for you",
-    "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+    "id": "news-bring-your-co-founder-partner-or-colleague-and-get-50-off-a--1790277300000",
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -106,18 +106,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-in-the-ai-era-organizations-must-redesign-work-in-real-time--1790258460000",
-    "title": "In the AI era, organizations must redesign work in real time, Gartner says",
-    "link": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
-    "summary": "HR should prioritize talent mobility so skills and capabilities can be rapidly deployed where they are needed, the report recommended.",
+    "id": "news-this-week-in-5-numbers-chros-say-ai-creates-invisible-work-1790282760000",
+    "title": "This week in 5 numbers: CHROs say AI creates ‘invisible’ work",
+    "link": "https://www.hrdive.com/news/chros-say-ai-creates-invisible-work/831273/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how big the pay gap is for Black women.",
     "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -174,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shield-ai-waabi-and-general-motors-on-building-ai-when-failu-1790262000000",
-    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-    "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
+    "id": "news-prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glass-1790276442000",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -187,10 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-report-performative-ai-use-amid-role-changes-1790258400000",
-    "title": "Employees report performative AI use amid role changes",
-    "link": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
-    "summary": "Pressure to use the technology exists all across the enterprise, but employees are concerned about job loss and a lack of paths to advancement, a Visier study found.",
+    "id": "news-should-workers-be-paid-for-ai-skills-1790265120000",
+    "title": "Should workers be paid for AI skills?",
+    "link": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
+    "summary": "Companies could face a &ldquo;retention time bomb&rdquo; if existing workers see new hires get paid more for tech expertise, Payscale found.",
     "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
@@ -240,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lovable-8217-s-annualized-revenue-crosses-600m-as-vibe-codin-1790261005000",
-    "title": "Lovable&#8217;s annualized revenue crosses $600M as vibe coding takes off",
-    "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+    "id": "news-meet-feather-the-startup-building-the-8216-android-of-roboti-1790275958000",
+    "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
+    "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -253,17 +252,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-half-of-workers-say-they-don-t-want-ai-in-payroll-1790190720000",
-    "title": "Nearly half of workers say they don’t want AI in payroll",
-    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-they-dont-want-ai-in-payroll/831143/",
-    "summary": "Artificial intelligence&rsquo;s use in total rewards remains in the early stages, reports have shown.",
-    "publishedAt": "2026-09-23",
+    "id": "news-in-the-ai-era-organizations-must-redesign-work-in-real-time--1790258460000",
+    "title": "In the AI era, organizations must redesign work in real time, Gartner says",
+    "link": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
+    "summary": "HR should prioritize talent mobility so skills and capabilities can be rapidly deployed where they are needed, the report recommended.",
+    "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -306,25 +306,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ando-wants-to-take-on-slack-with-a-team-messaging-app-that-l-1790260260000",
-    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+    "id": "news-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-1790273504000",
+    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-language-that-evoked-slavery-keeps-front-desk-worker-s-hosti-1790190720000",
-    "title": "Language that evoked slavery keeps front desk worker’s hostile work environment claim alive",
-    "link": "https://www.hrdive.com/news/hostile-work-environment-slavery-language/831149/",
-    "summary": "Courts may scrutinize ineffective employer responses to harassment in their analysis of such cases, previous rulings have shown.",
-    "publishedAt": "2026-09-23",
+    "id": "news-employees-report-performative-ai-use-amid-role-changes-1790258400000",
+    "title": "Employees report performative AI use amid role changes",
+    "link": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
+    "summary": "Pressure to use the technology exists all across the enterprise, but employees are concerned about job loss and a lack of paths to advancement, a Visier study found.",
+    "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -996,4 +995,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-24T16:26:02.050Z';
+export const dataFetchedAt = '2026-09-24T21:06:22.545Z';
