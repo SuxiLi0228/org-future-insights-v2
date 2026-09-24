@@ -2,6 +2,85 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-bid-to-scrap-the-virtual-wall-and-ai-hits-cli-1790251800000",
+    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;",
+    "publishedAt": "2026-09-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-1790265816000",
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+    "publishedAt": "2026-09-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-should-workers-be-paid-for-ai-skills-1790265120000",
+    "title": "Should workers be paid for AI skills?",
+    "link": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
+    "summary": "Companies could face a &ldquo;retention time bomb&rdquo; if existing workers see new hires get paid more for tech expertise, Payscale found.",
+    "publishedAt": "2026-09-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agent-ai-workbuddy-1790259614000",
+    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+    "link": "https://www.qbitai.com/2026/09/496961.html",
+    "summary": "懂出海，能记忆，自进化",
+    "publishedAt": "2026-09-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-260-1790266308000",
+    "title": " 法国印花布凭什么火了260年？ ",
+    "link": "https://www.huxiu.com/article/4893891.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 作为克什米尔披肩研究者，我本来是去看法国披肩设计流派最重要的一位十九世纪独立设计师的个展，却在同一座小馆里，撞见了一位十八世纪给工厂画稿的院士画家。 两个人隔了四十年，留下的是同一样东西：图案。今天法国的那些奢侈品大牌，迪奥、爱马仕橱窗里的那门印花生意，源头居然在这座如今游客罕至，甚至大部分本地巴黎人都一问三不知的小镇博物馆里。 一座游客不会来的小镇 巴黎西南二十公里，茹伊昂若萨（Jouy-en-Josas）。1760年，一个德国新教徒奥贝坎普夫（Oberkampf）在这里的河边建了一座印花布厂，把印度花布变成了法国花布——“toile de Jouy”这个词，从此成了一种纹样的名字，中文时尚媒体管它叫“朱伊纹”。 1806年拿破仑视察茹伊工厂，在院子里把荣誉军团十字章授予奥贝坎普夫；后世图像与传说里，这一幕常被讲成“皇帝从自己身上取下勋章，别在了这位德国裔厂主胸前”。当时法国正和英国打贸易战，英国棉布是头号对手。据拿破仑基金会网站收录的一篇旧文转述，皇帝对这位厂主说：“没有人比您更配佩戴它。您和我都在同英国人打仗，但您那一仗打得更好。” 工厂1843年关门，纹样活到了今天。爱马仕、路易威登、香奈儿、迪奥出生的时候，茹伊的铜版已经印了近一个世纪的田园牧歌。 如今，这里有全法国唯一一座专门讲这段历史的地方博物馆。虽然只是一座镇上的小馆，",
+    "publishedAt": "2026-09-24",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790259560000",
+    "title": "具身智能的行业信用正在被机器人公司透支",
+    "link": "https://www.tmtpost.com/8152223.html",
+    "summary": "当稀缺的称号变成批量供应的标配，含金量便开始流失",
+    "publishedAt": "2026-09-24",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
     "title": "AI is dominating the conversation at Climate Week",
     "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
@@ -14,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-everything-new-coming-to-meta-8217-s-ai-agent-muse-1790212412000",
-    "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "id": "news-google-tests-letting-gemini-call-businesses-for-you-1790265600000",
+    "title": "Google tests letting Gemini call businesses for you",
+    "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +106,157 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-half-of-cfos-say-they-d-go-with-ai-over-a-gut-feeling-1790190720000",
-    "title": "Nearly half of CFOs say they’d go with AI over a gut feeling",
-    "link": "https://www.hrdive.com/news/cfo-sometimes-follow-ai-advice-even-when-it-goes-against-their-gut-board-survey/831173/",
-    "summary": "In a survey by enterprise planning firm Board, finance chiefs were likelier than CIOs and COOs to follow a recommendation from an AI tool if it &ldquo;conflicts with their instinct.&rdquo;",
+    "id": "news-in-the-ai-era-organizations-must-redesign-work-in-real-time--1790258460000",
+    "title": "In the AI era, organizations must redesign work in real time, Gartner says",
+    "link": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
+    "summary": "HR should prioritize talent mobility so skills and capabilities can be rapidly deployed where they are needed, the report recommended.",
+    "publishedAt": "2026-09-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-pcie-deepseek-7-1790259468000",
+    "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+    "link": "https://www.qbitai.com/2026/09/496925.html",
+    "summary": "1.5台6000D跑赢1台B300！",
+    "publishedAt": "2026-09-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790265896000",
+    "title": " 当“思考”开始像电一样便宜 ",
+    "link": "https://www.huxiu.com/article/4893889.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 AI的临界点，不是它什么时候足够聪明，而是我们什么时候不再需要决定“这件事值不值得让它想一下”。 -- 2025年，让AI在GPQA Diamond上达到约75%的水平，Epoch估算每题成本约为0.30美元。 不到18个月后，达到近似能力，只需要约0.0004美元。 725倍。 一种原本稀缺、昂贵、需要精打细算使用的“机器思考”，正在迅速逼近一种可以被大量调用、后台运行、甚至被浪费的资源。 9月22日，Epoch最新报告给出的中心估计是：自2023年以来，达到固定AI性能水平的最低推理成本，平均每季度下降约47%，折算下来约每年下降13倍。它覆盖数学、科学、棋类等五类benchmark；不同模型与统计口径会得出不同数字，因此47%更像一个合理的中心值，而不是自然常数。 真正值得注意的，并不是“AI便宜了13倍”。 而是人类可能第一次开始尝试回答一个此前几乎无法严肃测量的问题： 购买一个固定水平的机器认知能力，究竟要多少钱？ 电力有$/kWh。 计算有$/FLOP。 存储有$/GB。 基因测序有$/genome。 而现在，开始有人尝试画出： $/capability 固定能力水平的成本曲线。 让我们重新理解AI经济。 01不是token变便宜了，是固定能力正在变便宜 过去两年，模型厂商最爱讲的指标是：每百万token多少钱。 ",
+    "publishedAt": "2026-09-24",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790258160000",
+    "title": "构建全媒体安全体系，共建安全实验室！北京日报社与奇安信达成战略合作",
+    "link": "https://www.tmtpost.com/8152228.html",
+    "summary": "双方将发挥主流媒体传播优势与网络安全技术优势，围绕媒体数字化转型、网络安全保障、安全科普、人才培养等方面开展全方位深度合作。",
+    "publishedAt": "2026-09-24",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
+    "publishedAt": "2026-09-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-shield-ai-waabi-and-general-motors-on-building-ai-when-failu-1790262000000",
+    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
+    "publishedAt": "2026-09-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employees-report-performative-ai-use-amid-role-changes-1790258400000",
+    "title": "Employees report performative AI use amid role changes",
+    "link": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
+    "summary": "Pressure to use the technology exists all across the enterprise, but employees are concerned about job loss and a lack of paths to advancement, a Visier study found.",
+    "publishedAt": "2026-09-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1790254735000",
+    "title": "时隔十年，AI大牛署名新论文",
+    "link": "https://www.qbitai.com/2026/09/496834.html",
+    "summary": "让自动驾驶“走一步想十步”",
+    "publishedAt": "2026-09-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-74-1790251397000",
+    "title": "月内官宣74万吨扩产项目，锂电负极真的不够用了吗？｜行业风向标",
+    "link": "https://www.tmtpost.com/8152117.html",
+    "summary": "石墨化是卡点。",
+    "publishedAt": "2026-09-24",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
+    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "publishedAt": "2026-09-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-lovable-8217-s-annualized-revenue-crosses-600m-as-vibe-codin-1790261005000",
+    "title": "Lovable&#8217;s annualized revenue crosses $600M as vibe coding takes off",
+    "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+    "publishedAt": "2026-09-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nearly-half-of-workers-say-they-don-t-want-ai-in-payroll-1790190720000",
+    "title": "Nearly half of workers say they don’t want AI in payroll",
+    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-they-dont-want-ai-in-payroll/831143/",
+    "summary": "Artificial intelligence&rsquo;s use in total rewards remains in the early stages, reports have shown.",
     "publishedAt": "2026-09-23",
     "source": "HR Dive",
     "tags": [
@@ -54,24 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790247038000",
-    "title": " 普通用户成了AI的负资产？ ",
-    "link": "https://www.huxiu.com/article/4893819.html?f=rss",
-    "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 “2亿日活的豆包成了边缘产品”，上了微博热搜。 读这个帖子，有种粉丝应援某韩团女星，让她成顶流，然后苦口婆心劝她不要去法国参加某秀，结果她来了一句，“你没有被邀请”——一种大众的应援被白费了的感觉。 其实，不只豆包，在正在举行的阿里云栖大会上，阿里也开始大唱“机器智能”文明论，并开卖899元的办公机器人。百度也开始大喊“产业智能体才是未来方向”。DeepSeek的梁文锋更早，在一个月前流传开来的谈话中，有传他讲：“甚至一度我们都不想维护那些用户了，但是用户赶都赶不走。” 不管此话是真是假，总之豆包、千问、百度、DeepSeek早就集体转B了。普通用户的人头数，变得不再那么重要。 但2023年，在这一波AI浪潮峰起时，各AI大厂都不是这么对我们的。 曾经，我们爱如潮水 2022年11月30日，第一代ChatGPT引爆全球，两个月月活用户突破1亿。2023年3月16日，百度文心大模型发布，拉开了国内这一波AI浪潮的大幕。 那些年，各大厂大佬，为了“扫盲”，没有少对大众进行“画饼喊话”。 吴泳铭在2023乌镇大会上说，“AI助理会无处不在，成为每个人工作、生活、学习中的助手。” 雷军则在次年某一个重要场合声称：“要把AI工具用好，在刚开始大部分都不会用的时候，你会用对你来说就是机会。” 李彦宏也喊话，认为普通人不必担心工作消失，因为新机会",
-    "publishedAt": "2026-09-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790246362000",
-    "title": "被涉黄产业链盯上，闲鱼也头疼",
-    "link": "https://www.tmtpost.com/8151895.html",
-    "summary": "被黑灰产寄生的闲鱼：流量越大，考题越难。",
+    "id": "news-20gw-1790248743000",
+    "title": "吴泳铭首先要给20GW“找工作”",
+    "link": "https://www.tmtpost.com/8151423.html",
+    "summary": "AI竞争转向算力利用率",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -82,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
+    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -94,16 +306,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent-1790210777000",
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+    "id": "news-ando-wants-to-take-on-slack-with-a-team-messaging-app-that-l-1790260260000",
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -134,262 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790246720000",
-    "title": " AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？ ",
-    "link": "https://www.huxiu.com/article/4893826.html?f=rss",
-    "summary": "本文来自微信公众号： 针尖 ，作者：都叫兽 AI漫剧一年时间走了日本动画产业40年的路，必然承受成长的痛苦。 根据9月17日广电总局公布的数据，仅今年前8个月，全国上线了超过38万部AI漫剧。海量供给叠加平台播放收益下调，让大量团队血本无归，黯然退场——仅今年一季度，活跃承制方就从1216家暴跌至698家，退场率42%。 亏损，降本，商业化不足，成为摆在AI漫剧创业者面前的三座大山。 这三座大山，曾经也摆在八九十年代的日本动画产业面前。随着泡沫经济的破灭，电视台采购费用大幅下滑，单集动画制片成本锐减；被寄予厚望的大制作接连扑街，一批动画公司宣布破产，连庵野秀明都背上了巨额债务；导演、编剧和画师面面相觑，“除了卖动画成片，我们还能靠什么赚钱？” 站在90年代的关口，日本动画人发出了和今天漫剧人一样的呐喊。 然而仅仅数年后，日本动画产业就实现了整体盈利，产能翻倍；二次元从小众审美一跃成为日本国民文化代表，名利双收。 他们做对了什么？ （二者阶段性对比） 【AI漫剧正在重演日本动画崛起三部曲】 单纯讨论AI漫剧，似乎很难理解发展阶段。但如果把它视为一种超低成本动画，现象就会变得非常简单———AI漫剧正在重演日本动画崛起三部曲，即：技术驱动，试验动画和国际化。 和AI漫剧一样，日本动画的起点也是技术驱动。上世纪60年代，手冢治虫大幅改良了有限动画技术，凭借“一拍三”、静态镜头、复用原画等技",
-    "publishedAt": "2026-09-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ras-44-1790246358000",
-    "title": "RAS成药之路：44年，从“不可成药”到胰腺癌破局",
-    "link": "https://www.tmtpost.com/8151852.html",
-    "summary": "RAS的故事，是一部人类与自身生物学极限反复较量的史诗。",
-    "publishedAt": "2026-09-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
-    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
-    "publishedAt": "2026-09-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-meta-is-trying-vr-glasses-again-this-time-with-more-imax-1790207255000",
-    "title": "Meta is trying VR glasses (again), this time with more IMAX",
-    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-    "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nearly-half-of-workers-say-they-don-t-want-ai-in-payroll-1790190720000",
-    "title": "Nearly half of workers say they don’t want AI in payroll",
-    "link": "https://www.hrdive.com/news/nearly-half-of-workers-say-they-dont-want-ai-in-payroll/831143/",
-    "summary": "Artificial intelligence&rsquo;s use in total rewards remains in the early stages, reports have shown.",
-    "publishedAt": "2026-09-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790228720000",
-    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-    "link": "https://www.qbitai.com/2026/09/496778.html",
-    "summary": "专治人机动作对不齐",
-    "publishedAt": "2026-09-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790246705000",
-    "title": " 新能源汽车维修工，薪资翻倍也抢不到 ",
-    "link": "https://www.huxiu.com/article/4893829.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：葛成 张安琪 第48届世界技能大赛汽车技术项目比赛进入第二日，中国选手李家乐正在进行ADAS（高级驾驶辅助系统）和车身电气模块的比赛。 他要完成的是雷达校准。李家乐一点点调整雷达的位置，同时观察设备反馈。雷达的安装位置一旦出现偏差，车辆对障碍物距离和方位的判断就可能失准，进而影响预警、制动等辅助驾驶功能。直到屏幕亮起代表校准通过的绿色标识，他才开始调试下一个雷达。 这是汽车维修技术正在发生变化的一个切面。发动机、变速箱、制动和转向仍然是基本功，混合动力、电动汽车和智能驾驶辅助系统也已进入考核范围。界面新闻观察到，此次汽车技术比赛项目里，还有一项专门的新能源汽车考核项目。 世界技能组织发布的本届汽车技术职业标准中，电气与机械系统的检查诊断占45%，维修与大修占20%。选手需要在限定时间内完成车辆检查、故障诊断和维修，不仅要会拆装零部件，还要使用诊断设备读取数据，分析测试结果并找到真正的故障点。 第48届世赛组委会秘书处秘书长、人社部职业能力建设司司长吴礼舵形容，这是“真刀真枪把汽车搬到了赛场”。 界面新闻从长期跟踪该项目的专业人士处了解到，汽车技术项目的的动力传动考核正在向“三电+智能诊断”延伸。新能源动力传动相关内容在第46届世赛中只有0.5小时，到第47届增加至2小时，本届进一步增加到4小时，大量涉及电池管理系统、电控单元和高压系统。 考核",
-    "publishedAt": "2026-09-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-glp-1-1790246355000",
-    "title": "诺和诺德资本日，泄露了GLP-1赛道的下一场战争",
-    "link": "https://www.tmtpost.com/8151750.html",
-    "summary": "关于定价权的最后一战",
-    "publishedAt": "2026-09-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
-    "publishedAt": "2026-09-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-meta-introduces-camera-free-ai-glasses-1790206784000",
-    "title": "Meta introduces camera-free AI glasses",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-1790174340000",
-    "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
-    "link": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
-    "summary": "It&rsquo;s not the first time the technology&rsquo;s potential effects on employee cognition have raised alarm.",
-    "publishedAt": "2026-09-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5-10-rlark-1790227195000",
-    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-    "link": "https://www.qbitai.com/2026/09/496767.html",
-    "summary": "开源一座具身智能的新“塔台”",
-    "publishedAt": "2026-09-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1790246540000",
-    "title": " 水量是北美五大湖10倍，新疆沙漠下发现“地下海洋” ",
-    "link": "https://www.huxiu.com/article/4893827.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《水量是北美五大湖10倍！新疆沙漠下发现“地下海洋”》 →这是《环球零碳》的2161篇原创 说起塔克拉玛干沙漠，很多人的第一印象肯定是寸草不生的“死亡之海”。 这片中国最大的沙漠，夏天地表能烤熟鸡蛋，全年降水量不到100毫米，蒸发量直接干到3000毫米，连维吾尔语的意思都是“进得去，出不来”。 谁能想的到，在这满是黄沙的“生命禁区”底下，居然还藏着一片体量惊人的地下水域。但立刻有人开始质疑，即便在塔克拉玛干沙漠底下有水，那肯定是又苦又咸的死水，是根本没法用的那一类水。 不过，在我国地质调查人员的努力下，这个众所周知的“常识”被打破了。 央视新闻近日报道，新疆地质局水文环境地质调查中心实施了一项南疆沙漠找水项目中，有了重大突破。在塔克拉玛干沙漠南缘的民丰县安迪尔乡，还有沙漠腹地的麻扎塔格山南区域，发现了两处大型地下水水源。 值得注意的是，两处大型地下水水源，一个位置在塔克拉玛干沙漠南部边缘地带，另一个则则深入沙漠的心脏地带，分属两个有区别且独立的地区。 更让人兴奋之处在于，它推翻了一个长期以来的“众所周知”：也就是沙漠的地下只会有死水和咸水。 图说：在沙漠下方发现了比五大湖大10倍的水储量 来源：interesting engineering 新疆地质局水文环境地质调查中心南疆沙漠找水项目负责人康剑表示，",
-    "publishedAt": "2026-09-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790244978000",
-    "title": "为什么休息越来越贵了？",
-    "link": "https://www.tmtpost.com/8151313.html",
-    "summary": "一个社会究竟能让多少普通人，在不承担过高代价的情况下，真正停下来。",
-    "publishedAt": "2026-09-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-smart-glasses-are-already-causing-havoc-in-india-1790154000000",
-    "title": "Smart glasses are already causing havoc in India",
-    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
-    "publishedAt": "2026-09-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-vogue-sent-robots-down-the-runway-at-vogue-world-and-people--1790206402000",
-    "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-    "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-    "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-    "publishedAt": "2026-09-23",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employees-use-ai-but-many-say-they-don-t-know-why-1790174340000",
-    "title": "Employees use AI, but many say they don’t know why",
-    "link": "https://www.hrdive.com/news/employees-use-ai-but-many-say-they-dont-know-why/831073/",
-    "summary": "Since workload rates remain steady across users and nonusers of artificial intelligence, companies need to reexamine their overall ROI, a vice president at Culture Amp said.",
-    "publishedAt": "2026-09-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-e7s-pro-1790218278000",
-    "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-    "link": "https://www.qbitai.com/2026/09/496658.html",
-    "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
-    "publishedAt": "2026-09-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790246508000",
-    "title": " 从下海到上岸：每代人都有自己的“人生爽文” ",
-    "link": "https://www.huxiu.com/article/4893825.html?f=rss",
-    "summary": "本文来自微信公众号： 印象笔记 ，作者：大象，原文标题：《从下海到上岸：每代人都有自己的「人生爽文」》 有两种在中国流传很广的故事。 一种是主角辞去铁饭碗，只身南下，好戏才刚刚开始；另一种是主角熬过千军万马，终于考上编制，故事就此圆满。 方向完全相反的两件事，讲出来都让人觉得很爽。 是因为我们「人生爽文」的范式改变了吗？ -1- 把桌子摆出去，日子就有了别的可能 1979年，广州西华路街口，一个叫容志仁的回城知青摆了个早餐摊。 家底只有一百块，连口煮粥的大锅都买不起，是找街道文化站借的。他卖的东西便宜，一毛钱一份「学生餐」，半碟肠粉配半碗粥。薄利多销，逐渐就做起来了。 他后来接受采访说过一句实在话：「我们一天的收入是县长一个月的收入。」县长月工资105块，他一天能挣100块。 没过多久，他便攒下来人生中的第一笔「一万块钱」。 「万元户」这三个字之所以让人兴奋，重点其实不在「一万」这个数上。几十年里大家拿差不多的工资，住差不多的房子，过差不多的日子，突然有人靠卖早餐挣到了县长级别的收入——这本身就是个信号：原来，选择是能带来不同的结果。 1980年12月，温州19岁的姑娘章华妹领到了中国第一张个体工商业营业执照，编号「工商证字第10101号」。 她的生意很小，在家门口摆张桌子，卖纽扣、橡皮筋、表带。执照上的经营范围只有三个字：小百货。 同一年，北京的刘桂仙开了全北京第一家个体餐馆，长",
-    "publishedAt": "2026-09-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1790244976000",
-    "title": "陪跑10年，绿茶集团二股东清仓离场",
-    "link": "https://www.tmtpost.com/8151376.html",
-    "summary": "更需正视来自经营端的挑战。",
+    "id": "news-50-1790247955000",
+    "title": "从深圳一家小店，到东南亚月销50万：音频器材如何把增长做到海外？",
+    "link": "https://www.tmtpost.com/8151577.html",
+    "summary": "出海不是把国内产品简单搬到海外，而是先找到当地用户的真实需求，再围绕这些需求调整产品、营销和服务。",
     "publishedAt": "2026-09-24",
     "source": "钛媒体",
     "tags": [
@@ -1035,4 +996,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-24T11:03:11.208Z';
+export const dataFetchedAt = '2026-09-24T16:26:02.050Z';
