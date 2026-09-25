@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-pentagon-wants-30-million-to-build-an-ai-powered-lie-det-1790327785000",
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;",
+    "id": "news-the-download-the-pentagon-s-ai-powered-lie-detector-and-youn-1790338200000",
+    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;",
     "publishedAt": "2026-09-25",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lightspeed-targets-250m-for-new-india-fund-focusing-on-early-1790312400000",
-    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-    "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "id": "news-meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-o-1790353012000",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -27,8 +27,140 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ollie-s-bargain-discount-allegedly-refused-to-hire-deaf-work-1790282760000",
-    "title": "Ollie’s Bargain Discount allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
+    "id": "news-4-stories-on-the-power-of-personality-at-work-1790346960000",
+    "title": "4 stories on the power of personality at work",
+    "link": "https://www.hrdive.com/news/4-stories-on-the-power-of-personality-at-work/831333/",
+    "summary": "Despite its&nbsp;importance, personality can be difficult to quantify the effect of in the workplace.",
+    "publishedAt": "2026-09-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-alphago-140-1790342660000",
+    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+    "link": "https://www.qbitai.com/2026/09/497278.html",
+    "summary": "",
+    "publishedAt": "2026-09-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-agi-ai-1790341377000",
+    "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
+    "link": "https://www.tmtpost.com/8152613.html",
+    "summary": "宇树Dex5-S把22个主动自由度压进3.99万元，市场欢呼“人形机器人进家倒计时”。但把出货量当干活量、把自由度当灵巧、把家庭当最大市场，是三个系统性误读。灵巧手的真实逻辑是按“脑子的水位”分层变现——硬件决定能力上限，数据决定当下能做什么：工业可枚举场景不需要通用AGI，家庭复杂长尾任务才高度依赖它。",
+    "publishedAt": "2026-09-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-pentagon-wants-30-million-to-build-an-ai-powered-lie-det-1790327785000",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
+    "publishedAt": "2026-09-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-kiteworks-urges-customers-to-shut-down-their-servers-amid-82-1790351533000",
+    "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
+    "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+    "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+    "publishedAt": "2026-09-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-to-do-when-a-team-says-it-s-short-staffed-1790346960000",
+    "title": "What to do when a team says it’s short-staffed",
+    "link": "https://www.hrdive.com/news/what-to-do-when-a-team-says-its-short-staffed/831310/",
+    "summary": "Hiring is not always the answer &mdash; and it could actually invite more trouble if underlying causes of workload strain aren&rsquo;t addressed, experts said.",
+    "publishedAt": "2026-09-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-openai-gpt-1790342145000",
+    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+    "link": "https://www.qbitai.com/2026/09/497177.html",
+    "summary": "",
+    "publishedAt": "2026-09-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-cta-1790341370000",
+    "title": "CTA集体回撤：传统基本面研究，碰到极端行情就容易失灵？",
+    "link": "https://www.tmtpost.com/8151562.html",
+    "summary": "市场不是没有波动，而是波动的方式变了。",
+    "publishedAt": "2026-09-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-young-organs-may-not-be-a-fountain-of-youth-for-recipients-1790326800000",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+    "publishedAt": "2026-09-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-for-months-openai-8217-s-agent-swarms-have-been-attacking-on-1790351294000",
+    "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
+    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "publishedAt": "2026-09-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ollie-s-bargain-outlet-allegedly-refused-to-hire-deaf-worker-1790282760000",
+    "title": "Ollie’s Bargain Outlet allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
     "link": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
     "summary": "This case is one of several involving deaf job candidates that highlights the danger of assumptions about ability.",
     "publishedAt": "2026-09-24",
@@ -54,19 +186,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790333317000",
-    "title": " 男乒亚运丢冠：情绪之外，我们还应看到什么？ ",
-    "link": "https://www.huxiu.com/article/4893963.html?f=rss",
-    "summary": "本文来自微信公众号： 体育产业生态圈 ，作者：ECO氪体，题图来自：视觉中国 丢了亚运八连冠的中国男乒，走到了不得不改变的时刻。 北京时间9月24日晚，爱知&middot;名古屋亚运会乒乓球男团决赛，中国队2-3不敌东道主日本队。 随着最后一球落地，在体育产业生态圈和全场大批中国球迷的注视下，松岛辉空双手握拳、仰天呐喊。 日本男乒，就这样在中文助威声浪震天、宛若换了主场的情况下，终结了中国男乒的连冠&mdash;&mdash;而前者上一次在此规格比赛下拿到冠军，还是60年前。 对此，日本从队员到国民都难掩喜悦。 日媒延续着一贯的&ldquo;热血运动番&rdquo;风格，用&ldquo;事实上的世界顶尖对决&rdquo;形容这场比赛，给足了这块金牌关注度和排面；张本智和赛后表示：&ldquo;这一刻我已经等了10年以上，真的高兴得不得了。&rdquo; 名古屋一餐厅内播放着乒乓男团决赛 相较之下，国内社媒上的讨论，情绪就显得复杂多了。 较少关注体育的人，惊讶于国乒都开始在亚洲赛场丢金，怀疑自己是不是在新奥运周期&ldquo;少了一段记忆&rdquo;；长期关注国乒的球迷则觉得隐忧成真，替这支曾经无往不胜的队伍焦虑、遗憾。 还有一些言论呈现出两极分化，有人从队员到教练都指责一通；有人说竞技体育有赢有输，&ldquo;唯金牌论&rdquo;已然过时，情绪不该对着队员输出。 更有甚者开始",
-    "publishedAt": "2026-09-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ct-ai-1790328701000",
     "title": "CT无创筛查食管癌，达摩院AI站上临床前夜",
     "link": "https://www.tmtpost.com/8152326.html",
@@ -81,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-young-organs-may-not-be-a-fountain-of-youth-for-recipients-1790326800000",
-    "title": "Young organs may not be a fountain of youth for recipients",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
-    "publishedAt": "2026-09-25",
+    "id": "news-the-download-a-bid-to-scrap-the-virtual-wall-and-ai-hits-cli-1790251800000",
+    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;",
+    "publishedAt": "2026-09-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -93,16 +212,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-1790292273000",
-    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-    "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
-    "publishedAt": "2026-09-24",
+    "id": "news-anthropic-8217-s-founders-seek-voting-control-ahead-of-ipo-1790350803000",
+    "title": "Anthropic&#8217;s founders seek voting control ahead of IPO",
+    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -133,21 +253,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790333147000",
-    "title": " 美国“反抗浪潮”愈演愈烈，甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工 ",
-    "link": "https://www.huxiu.com/article/4893965.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：见闻君，原文标题：《美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工》 甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。 据彭博报道，甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知。 报道称，甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务。 消息公布后，甲骨文股价随即下挫，日内一度跌超7%，最终收盘仍跌约3.5%，Blue Owl Capital股价同步收跌3.6%，数据中心供能商Bloom Energy跌幅亦达3.1%。 Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。 此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。 据英国《金融时报》援引知情人士报道，即便甲骨文未能在项目首期截止日期前完成供电接入，公司仍有合同义务向投资者支",
-    "publishedAt": "2026-09-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news--1790328698000",
     "title": "华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了",
     "link": "https://www.tmtpost.com/8152605.html",
@@ -162,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-bid-to-scrap-the-virtual-wall-and-ai-hits-cli-1790251800000",
-    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;",
+    "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
+    "title": "AI is dominating the conversation at Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
     "publishedAt": "2026-09-24",
     "source": "MIT Technology Review",
     "tags": [
@@ -174,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nexterity-wants-to-automate-the-hard-dangerous-part-of-pipef-1790282700000",
-    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-    "publishedAt": "2026-09-24",
+    "id": "news-tesla-finally-moves-to-electrify-trucking-after-a-decade-of--1790349890000",
+    "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+    "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+    "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+    "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,183 +319,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-250-meta-ai-ai-100-1790332741000",
-    "title": " Muse下载250万，Meta押注AI钥匙扣，硬件创业者如何借力做爆品？｜AI 100闭门会 ",
-    "link": "https://www.huxiu.com/article/4893841.html?f=rss",
-    "summary": "作者｜黄思语 头图｜AI生成 Meta给Agent造了一块新硬件&mdash;&mdash;Muse Charm（AI钥匙扣）。在此之前，Muse上线两周下载量超过250万。 Meta有模型、有Agent、有社交生态和庞大的用户基础，但它仍然为Agent做了新的硬件载体。 这把问题重新摆到了AI硬件创业者面前 ：什么样的AI场景，值得做一块硬件？ 在中国，造出一块&ldquo;有AI的硬件&rdquo;已经越来越容易。 下游，华强北的智能机芯降到几十元，东莞、佛山的工厂能把部分AI硬件成本压到百元以内；上游，百度把大模型和Agent能力装进小度不同形态的终端，腾讯把Agent能力向AI眼镜、耳机、录音设备开放，阿里、字节也在向终端延伸。 一边是越来越成熟的供应链，一边是越来越容易获得的AI能力。夹在中间的AI硬件公司，如何做出自己的产品差异价值？ 竞争回归 &ldquo;产品第一性&rdquo;： 有没有找到一个真实且高频的场景， 这个场景为什么需要一块独立硬件， 能不能把AI能力变成 足够好的产品体验， 以及用户使用30天、半年之后是否仍然需要它。 AI能力可以借，真正的产品价值还得自己做出来。平台可以提供能力，但 什么场景值得做、产品怎么定义、用户为什么持续使用，最终还是硬件公司自己的功课。 9月28日，虎嗅AI100闭门会和硬件创业者一起寻找答案： 哪些能力可以借，哪些必须自",
-    "publishedAt": "2026-09-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1790327872000",
     "title": "阿莫迪偷师姚顺雨，奥特曼偷师梁文锋",
     "link": "https://www.tmtpost.com/8152677.html",
     "summary": "Opus 5.5和GPT-6 Luna，就是混元和DeepSeek。",
-    "publishedAt": "2026-09-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
-    "title": "AI is dominating the conversation at Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
-    "publishedAt": "2026-09-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-bring-your-co-founder-partner-or-colleague-and-get-50-off-a--1790277300000",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-    "publishedAt": "2026-09-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-in-the-ai-era-organizations-must-redesign-work-in-real-time--1790258460000",
-    "title": "In the AI era, organizations must redesign work in real time, Gartner says",
-    "link": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
-    "summary": "HR should prioritize talent mobility so skills and capabilities can be rapidly deployed where they are needed, the report recommended.",
-    "publishedAt": "2026-09-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-manus-meta-1790316670000",
-    "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-    "link": "https://www.qbitai.com/2026/09/497060.html",
-    "summary": "人工外包团队",
-    "publishedAt": "2026-09-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790332582000",
-    "title": " 现房销售地块已经有成交了 ",
-    "link": "https://www.huxiu.com/article/4893964.html?f=rss",
-    "summary": "本文来自微信公众号： 每经房产 ，作者：陈荣浩 ｜渐次推进。 全文约2200字▼ 9月24日，厦门完成“8・28”全国地产新政后的首场宅地出让，2宗涉宅用地均以底价成交，总成交金额41.95亿元。 在上述成交的两宗地块中，位于湖里区后埔片区2026P13地块在业内保持着较高关注度。该地块是新政后厦门乃至福建省首宗明确要求现房销售的涉宅用地，最终该地块以5.81万元/㎡的楼面价成交，由本土国企建发底价摘得。 作为三部门《关于完善商品住房销售制度的通知》发布后，核心城市中首个落地的强制现房销售样本，厦门本次土拍采用“岛内现售+岛外封顶预售”的差异化规则，成为观察地方新政落地路径的典型标本。 据《每日经济新闻》记者（以下简称每经记者）梳理，在厦门土拍落地强制现房销售地块之前，浙江丽水青田县已挂牌明确要求现房销售的涉宅用地；广东广州南沙推出“现房销售承诺制”试点地块。全国现房销售正从政策文件加速走向市场落地，且普遍呈现“少量试点、一地一策”的特征。 壹 厦门首宗，楼面价新高 本次出让两宗地块分属湖里、翔安，成交总价与楼面价分化明显：湖里区后埔片区2026P13地块由本土国企建发底价摘得，成交总价35.61亿元，综合楼面价约5.81万元/㎡；翔安区刘五店2026XP07地块由厦门国贸、厦门市政开发联合体拿下，成交总价6.34亿元，楼面价9135元/㎡。 根据出让文件，湖里区2026P13地块",
-    "publishedAt": "2026-09-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-4700-ai-2-5-10-1790327610000",
-    "title": "起底AI网恋：4700个AI围猎2.5万人，10元造完美情人",
-    "link": "https://www.tmtpost.com/8152653.html",
-    "summary": "新技术落地最早的地方，一定是离钱最近的地方。",
-    "publishedAt": "2026-09-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
-    "publishedAt": "2026-09-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glass-1790276442000",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "publishedAt": "2026-09-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employees-report-performative-ai-use-amid-role-changes-1790258400000",
-    "title": "Employees report performative AI use amid role changes",
-    "link": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
-    "summary": "Pressure to use the technology exists all across the enterprise, but employees are concerned about job loss and a lack of paths to advancement, a Visier study found.",
-    "publishedAt": "2026-09-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-index-1790315538000",
-    "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-    "link": "https://www.qbitai.com/2026/09/497012.html",
-    "summary": "",
-    "publishedAt": "2026-09-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-1000-ov-1790331776000",
-    "title": " 最少涨价1000元，小米OV新旗舰还有吸引力吗？ ",
-    "link": "https://www.huxiu.com/article/4893962.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 9月21日至23日，vivo、OPPO和小米连续三天发布新一代旗舰手机，三款新机的12GB+256GB版本均比上代贵了至少1000元。 vivo X500率先登场，12GB+256GB版本售价5499元，较上代上涨1100元；次日发布的OPPO Find X10同样从5499元起售，也上涨1100元；9月23日发布的小米18 Pro起售价5999元，较上代提高1000元。 小米18Pro、OPPO Find X10、vivo X500主要参数对比观察者网 6000元的国补线成为本轮旗舰定价的分界。按照2026年国补政策，单价不超过6000元的手机可获得15%、最高500元补贴。小米18 Pro将入门版本定在5999元，OPPO Find X10和vivo X500则以5499元起售，并将12GB+512GB版本定在5999元，三家均核心配置稳在补贴范围内。 但一旦越过6000元，高配版本的价格便迅速上涨：小米18 Pro的12GB+512GB、16GB+512GB和16GB+1TB版本分别比上代上涨1700元、2400元和3000元，最高达到8999元；OPPO Find X10的16GB+1TB版本也由5799元升至7499元；vivo X500的1TB版本则由上代16GB+1TB的5799元变为12GB+1TB的6999元。 价格",
-    "publishedAt": "2026-09-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790326692000",
-    "title": "银行正在抢着给普通股东“送福利”",
-    "link": "https://www.tmtpost.com/8151933.html",
-    "summary": "优先股正在退潮。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -1060,4 +992,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-25T11:02:55.999Z';
+export const dataFetchedAt = '2026-09-25T16:26:18.651Z';
