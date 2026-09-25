@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-o-1790353012000",
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+    "id": "news-meta-opens-early-access-program-for-new-muse-features-1790368493000",
+    "title": "Meta opens early access program for new Muse features",
+    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-stories-on-the-power-of-personality-at-work-1790346960000",
-    "title": "4 stories on the power of personality at work",
-    "link": "https://www.hrdive.com/news/4-stories-on-the-power-of-personality-at-work/831333/",
-    "summary": "Despite its&nbsp;importance, personality can be difficult to quantify the effect of in the workplace.",
+    "id": "news-dol-provides-guidance-to-employers-on-responding-to-opioid-o-1790366940000",
+    "title": "DOL provides guidance to employers on responding to opioid overdoses",
+    "link": "https://www.hrdive.com/news/dol-provides-guidance-to-employers-on-responding-to-opioid-overdoses/831393/",
+    "summary": "The guidance is part of the Great American Recovery Initiative, an effort by the Trump Administration focused on addiction treatment and recovery.",
     "publishedAt": "2026-09-25",
     "source": "HR Dive",
     "tags": [
@@ -79,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kiteworks-urges-customers-to-shut-down-their-servers-amid-82-1790351533000",
-    "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
-    "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-    "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+    "id": "news-the-hottest-new-hangout-for-middle-schoolers-is-npr-8217-s-c-1790368438000",
+    "title": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section?",
+    "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+    "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -92,18 +92,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-to-do-when-a-team-says-it-s-short-staffed-1790346960000",
-    "title": "What to do when a team says it’s short-staffed",
-    "link": "https://www.hrdive.com/news/what-to-do-when-a-team-says-its-short-staffed/831310/",
-    "summary": "Hiring is not always the answer &mdash; and it could actually invite more trouble if underlying causes of workload strain aren&rsquo;t addressed, experts said.",
+    "id": "news-4-stories-on-the-power-of-personality-at-work-1790346960000",
+    "title": "4 stories on the power of personality at work",
+    "link": "https://www.hrdive.com/news/4-stories-on-the-power-of-personality-at-work/831333/",
+    "summary": "It can be difficult to quantify personality&#39;s effects in the workplace despite its importance.",
     "publishedAt": "2026-09-25",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -146,30 +144,32 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-for-months-openai-8217-s-agent-swarms-have-been-attacking-on-1790351294000",
-    "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "id": "news-anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-clo-1790363618000",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ollie-s-bargain-outlet-allegedly-refused-to-hire-deaf-worker-1790282760000",
-    "title": "Ollie’s Bargain Outlet allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
-    "link": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
-    "summary": "This case is one of several involving deaf job candidates that highlights the danger of assumptions about ability.",
-    "publishedAt": "2026-09-24",
+    "id": "news-what-to-do-when-a-team-says-it-s-short-staffed-1790346960000",
+    "title": "What to do when a team says it’s short-staffed",
+    "link": "https://www.hrdive.com/news/what-to-do-when-a-team-says-its-short-staffed/831310/",
+    "summary": "Hiring is not always the answer &mdash; and it could actually invite more trouble if underlying causes of workload strain aren&rsquo;t addressed, experts said.",
+    "publishedAt": "2026-09-25",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -212,24 +212,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-8217-s-founders-seek-voting-control-ahead-of-ipo-1790350803000",
-    "title": "Anthropic&#8217;s founders seek voting control ahead of IPO",
-    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "id": "news-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wa-1790362113000",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-chros-say-ai-creates-invisible-work-1790282760000",
-    "title": "This week in 5 numbers: CHROs say AI creates ‘invisible’ work",
-    "link": "https://www.hrdive.com/news/chros-say-ai-creates-invisible-work/831273/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how big the pay gap is for Black women.",
+    "id": "news-ollie-s-bargain-outlet-allegedly-refused-to-hire-deaf-worker-1790282760000",
+    "title": "Ollie’s Bargain Outlet allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
+    "link": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
+    "summary": "This case is one of several involving deaf job candidates that highlights the danger of assumptions about ability.",
     "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
@@ -279,10 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-finally-moves-to-electrify-trucking-after-a-decade-of--1790349890000",
-    "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-    "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-    "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+    "id": "news-ahead-of-us-ipo-british-ai-neocloud-nscale-secures-3-36b-in--1790361239000",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -292,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-workers-be-paid-for-ai-skills-1790265120000",
-    "title": "Should workers be paid for AI skills?",
-    "link": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
-    "summary": "Companies could face a &ldquo;retention time bomb&rdquo; if existing workers see new hires get paid more for tech expertise, Payscale found.",
+    "id": "news-this-week-in-5-numbers-chros-say-ai-creates-invisible-work-1790282760000",
+    "title": "This week in 5 numbers: CHROs say AI creates ‘invisible’ work",
+    "link": "https://www.hrdive.com/news/chros-say-ai-creates-invisible-work/831273/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how big the pay gap is for Black women.",
     "publishedAt": "2026-09-24",
     "source": "HR Dive",
     "tags": [
@@ -992,4 +991,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-25T16:26:18.651Z';
+export const dataFetchedAt = '2026-09-25T21:03:11.120Z';
