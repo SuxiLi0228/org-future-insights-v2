@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-a-bid-to-scrap-the-virtual-wall-and-ai-hits-cli-1790251800000",
-    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;",
-    "publishedAt": "2026-09-24",
+    "id": "news-the-pentagon-wants-30-million-to-build-an-ai-powered-lie-det-1790327785000",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;",
+    "publishedAt": "2026-09-25",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-1790292273000",
-    "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
-    "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
-    "publishedAt": "2026-09-24",
+    "id": "news-lightspeed-targets-250m-for-new-india-fund-focusing-on-early-1790312400000",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-ai-workbuddy-1790259614000",
-    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-    "link": "https://www.qbitai.com/2026/09/496961.html",
-    "summary": "懂出海，能记忆，自进化",
-    "publishedAt": "2026-09-24",
+    "id": "news-ai-1790330414000",
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "link": "https://www.qbitai.com/2026/09/497108.html",
+    "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "publishedAt": "2026-09-25",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-3-7-ai-1790305518000",
-    "title": " AI 新药摸到“返老还童”门槛？3.7万名AI 员工组团开药企 ",
-    "link": "https://www.huxiu.com/article/4893924.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《AI 新药摸到「返老还童」门槛？3.7 万名 AI 员工组团开药企》 上一次看到大规模的Agent行动，还是它们集体「闯祸」，黑进各种系统。这一次有点不一样，A社召集了950个Agent让进入庞大的DNA数据库，干了件好事。 21个小时里，Agent们消耗了2.1亿Token，寻找此前没有被认识的逆转录酶系统。它们收集超过20万个逆转录酶，从中挑出3500个候选系统，再逐步缩小到20个。 就在检查其中一个候选对象附近的DNA时，一个Agent注意到一串排列整齐的重复序列。 它停了下来。这种排列，看起来很像CRISPR。 950个Claude，在DNA里寻找异样 逆转录酶的工作，是把RNA信息复制回DNA。Claude找到的这类酶存在于噬菌体，也就是感染细菌的病毒中。它并非一种从未被人见过的蛋白质：相关逆转录酶早已出现在过去的研究里，只是没有人注意到，它旁边还连着一个功能未知的基因，以及一长串间距均匀的DNA重复序列。 Claude把三者视为一个完整系统，Anthropic将它命名为ART，即「阵列相关逆转录酶」。这种结构让研究人员想到CRISPR。 CRISPR的重复阵列保存着来自外来遗传物质的间隔序列，随后可以转录成引导RNA，使系统识别和切割目标DNA。Anthropic随后的实验发现，ART阵列同样会表达出",
+    "id": "news--1790333317000",
+    "title": " 男乒亚运丢冠：情绪之外，我们还应看到什么？ ",
+    "link": "https://www.huxiu.com/article/4893963.html?f=rss",
+    "summary": "本文来自微信公众号： 体育产业生态圈 ，作者：ECO氪体，题图来自：视觉中国 丢了亚运八连冠的中国男乒，走到了不得不改变的时刻。 北京时间9月24日晚，爱知&middot;名古屋亚运会乒乓球男团决赛，中国队2-3不敌东道主日本队。 随着最后一球落地，在体育产业生态圈和全场大批中国球迷的注视下，松岛辉空双手握拳、仰天呐喊。 日本男乒，就这样在中文助威声浪震天、宛若换了主场的情况下，终结了中国男乒的连冠&mdash;&mdash;而前者上一次在此规格比赛下拿到冠军，还是60年前。 对此，日本从队员到国民都难掩喜悦。 日媒延续着一贯的&ldquo;热血运动番&rdquo;风格，用&ldquo;事实上的世界顶尖对决&rdquo;形容这场比赛，给足了这块金牌关注度和排面；张本智和赛后表示：&ldquo;这一刻我已经等了10年以上，真的高兴得不得了。&rdquo; 名古屋一餐厅内播放着乒乓男团决赛 相较之下，国内社媒上的讨论，情绪就显得复杂多了。 较少关注体育的人，惊讶于国乒都开始在亚洲赛场丢金，怀疑自己是不是在新奥运周期&ldquo;少了一段记忆&rdquo;；长期关注国乒的球迷则觉得隐忧成真，替这支曾经无往不胜的队伍焦虑、遗憾。 还有一些言论呈现出两极分化，有人从队员到教练都指责一通；有人说竞技体育有赢有输，&ldquo;唯金牌论&rdquo;已然过时，情绪不该对着队员输出。 更有甚者开始",
     "publishedAt": "2026-09-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-prompt-1790304300000",
-    "title": "prompt工程师，一个新兴职业的崛起与消失",
-    "link": "https://www.tmtpost.com/8152516.html",
-    "summary": "当机器越来越理解人，人就越来越少需要先学会机器喜欢的说话方式。",
+    "id": "news-ct-ai-1790328701000",
+    "title": "CT无创筛查食管癌，达摩院AI站上临床前夜",
+    "link": "https://www.tmtpost.com/8152326.html",
+    "summary": "算法不再是瓶颈，临床落地才是。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -82,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
-    "title": "AI is dominating the conversation at Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
-    "publishedAt": "2026-09-24",
+    "id": "news-young-organs-may-not-be-a-fountain-of-youth-for-recipients-1790326800000",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+    "publishedAt": "2026-09-25",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nexterity-wants-to-automate-the-hard-dangerous-part-of-pipef-1790282700000",
-    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+    "id": "news-waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-1790292273000",
+    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -121,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pcie-deepseek-7-1790259468000",
-    "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-    "link": "https://www.qbitai.com/2026/09/496925.html",
-    "summary": "1.5台6000D跑赢1台B300！",
-    "publishedAt": "2026-09-24",
+    "id": "news-code-kimi-skill-1790317256000",
+    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+    "link": "https://www.qbitai.com/2026/09/497075.html",
+    "summary": "Agent的手越伸越长",
+    "publishedAt": "2026-09-25",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,23 +133,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790305089000",
-    "title": " “双方可以增加直航航班” ",
-    "link": "https://www.huxiu.com/article/4893923.html?f=rss",
-    "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 当地时间9月24日，华盛顿，白宫欢迎仪式上，习近平主席的致辞里，讲了沟通、合作、和平共处，讲了人工智能和禁毒，最后分享了两个好消息： 未来5年邀请10万名美国青少年来华交流学习，大熊猫“平平”“福双”再过几天将落户亚特兰大动物园。 中间还有一句，看得颇为振奋： “双方可以增加直航航班，让双方人员和经贸往来更加便捷。” 10万个孩子要坐飞机来，两只熊猫也要坐飞机去，这些都是最直观的“往”和“来”，也让增加直航这件事，有了具体的模样。 而眼下，中美之间能安排多少直航，仍然有一道上限。 中国内地与美国之间，目前双方航司各有每周50个往返定期客运班次的额度，合计100班，中方额度已经用满，美方目前安排了48班，剩下两班也有了去处。 达美计划在10月把洛杉矶—上海从每周3班增至5班，届时，美方的50班额度也将用满。 而疫情前，两国之间每周有三百多个往返客运班次，如今即使把额度全部用完，也只有当年的三成左右。 对往返两国的旅客来说，直航少意味着选择少，时间合适的，价格未必合适，价格能接受的，又可能要绕路，最后只能把行程摊开，研究在哪里转机、等几个小时、能不能赶上下一段航班。 旅客多花了时间绕路，而属于我们自己的客源又流去了东京、首尔等枢纽，直接影响了中国民航正在推进“3+7+N”国际航空枢纽建设。 交流计划里的10万人，分到5年，平均每年两万",
+    "id": "news--1790333147000",
+    "title": " 美国“反抗浪潮”愈演愈烈，甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工 ",
+    "link": "https://www.huxiu.com/article/4893965.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：见闻君，原文标题：《美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工》 甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。 据彭博报道，甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知。 报道称，甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务。 消息公布后，甲骨文股价随即下挫，日内一度跌超7%，最终收盘仍跌约3.5%，Blue Owl Capital股价同步收跌3.6%，数据中心供能商Bloom Energy跌幅亦达3.1%。 Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。 此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。 据英国《金融时报》援引知情人士报道，即便甲骨文未能在项目首期截止日期前完成供电接入，公司仍有合同义务向投资者支",
     "publishedAt": "2026-09-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news--1790303880000",
-    "title": "豆包边缘化豆包",
-    "link": "https://www.tmtpost.com/8152161.html",
-    "summary": "豆包正在变得越来越大。",
+    "id": "news--1790328698000",
+    "title": "华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了",
+    "link": "https://www.tmtpost.com/8152605.html",
+    "summary": "华能国际新设三分支机构，谋降本扩新能源，成效待验证。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -161,11 +162,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
-    "publishedAt": "2026-09-23",
+    "id": "news-the-download-a-bid-to-scrap-the-virtual-wall-and-ai-hits-cli-1790251800000",
+    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;",
+    "publishedAt": "2026-09-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -173,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bring-your-co-founder-partner-or-colleague-and-get-50-off-a--1790277300000",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "id": "news-nexterity-wants-to-automate-the-hard-dangerous-part-of-pipef-1790282700000",
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -200,11 +201,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790254735000",
-    "title": "时隔十年，AI大牛署名新论文",
-    "link": "https://www.qbitai.com/2026/09/496834.html",
-    "summary": "让自动驾驶“走一步想十步”",
-    "publishedAt": "2026-09-24",
+    "id": "news-scaling-law-1790316847000",
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "link": "https://www.qbitai.com/2026/09/497070.html",
+    "summary": "一场物理世界的基模实验",
+    "publishedAt": "2026-09-25",
     "source": "量子位",
     "tags": [
       "china",
@@ -213,23 +214,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790304663000",
-    "title": " 三毛钱的派费，撑不起全球领先的物流快递网络 ",
-    "link": "https://www.huxiu.com/article/4893922.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 就在9月20日，中通、圆通、申通、韵达、极兔同步下发通知，江苏区域商家快递单价上调不低于0.1元/票，安徽区域最低上调0.15元/票。 有意思的是，这次涨价只针对电商发货的商家，普通人自己去寄快递，价格维持原样。 官方对外的理由很直白：旺季将至，保障末端网点生存，稳住全网寄递网络。大多数读者扫一眼新闻，第一反应是：快递公司又想借着双十一收割一波。 但如果看懂加盟快递这套底层架构，你会明白，这不是主动增收，而是一场迫不得已的前置自救。中国快递网络确实做到了世界领先，但我们每天享受几块钱包邮的网购，习惯了快递准时上门，下意识觉得这套网络坚固无比。可这套通达系主导的加盟制体系，有一个与生俱来的结构性缺陷：利润向上归集，风险全部下沉。 一、加盟制的本质：总部拿利润，网点扛风险 总部、省级中转仓拿走订单、面单、中转环节的主要收益；而片区网点老板，是独立的加盟商。房租、分拣人工、运输车辆、丢件赔付，全部由网点自己承担。 更要命的，是这套体系里的“以罚代管”规则。投诉、延误、签收率不达标、客户差评，都会触发罚款。江苏邮政管理局近期召开政企沟通座谈会，直面派费下调、考核泛滥等痛点。不少基层从业者直言，部分区域已经陷入“以罚代管”的粗放管理模式，罚款几乎成为部分省区管理末端网点的手段。 淡季还有一个更隐蔽的操作：后台静默下调派费。不提前公示，不沟通，不",
+    "id": "news-muse-250-meta-ai-ai-100-1790332741000",
+    "title": " Muse下载250万，Meta押注AI钥匙扣，硬件创业者如何借力做爆品？｜AI 100闭门会 ",
+    "link": "https://www.huxiu.com/article/4893841.html?f=rss",
+    "summary": "作者｜黄思语 头图｜AI生成 Meta给Agent造了一块新硬件&mdash;&mdash;Muse Charm（AI钥匙扣）。在此之前，Muse上线两周下载量超过250万。 Meta有模型、有Agent、有社交生态和庞大的用户基础，但它仍然为Agent做了新的硬件载体。 这把问题重新摆到了AI硬件创业者面前 ：什么样的AI场景，值得做一块硬件？ 在中国，造出一块&ldquo;有AI的硬件&rdquo;已经越来越容易。 下游，华强北的智能机芯降到几十元，东莞、佛山的工厂能把部分AI硬件成本压到百元以内；上游，百度把大模型和Agent能力装进小度不同形态的终端，腾讯把Agent能力向AI眼镜、耳机、录音设备开放，阿里、字节也在向终端延伸。 一边是越来越成熟的供应链，一边是越来越容易获得的AI能力。夹在中间的AI硬件公司，如何做出自己的产品差异价值？ 竞争回归 &ldquo;产品第一性&rdquo;： 有没有找到一个真实且高频的场景， 这个场景为什么需要一块独立硬件， 能不能把AI能力变成 足够好的产品体验， 以及用户使用30天、半年之后是否仍然需要它。 AI能力可以借，真正的产品价值还得自己做出来。平台可以提供能力，但 什么场景值得做、产品怎么定义、用户为什么持续使用，最终还是硬件公司自己的功课。 9月28日，虎嗅AI100闭门会和硬件创业者一起寻找答案： 哪些能力可以借，哪些必须自",
     "publishedAt": "2026-09-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1790303580000",
-    "title": "大厂的AI战火，攻入硬件",
-    "link": "https://www.tmtpost.com/8152015.html",
-    "summary": "从“卖设备”到“抢控制权”。",
+    "id": "news--1790327872000",
+    "title": "阿莫迪偷师姚顺雨，奥特曼偷师梁文锋",
+    "link": "https://www.tmtpost.com/8152677.html",
+    "summary": "Opus 5.5和GPT-6 Luna，就是混元和DeepSeek。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -240,11 +242,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-india-8217-s-smart-glasses-menace-and-ai-8217-s-1790165400000",
-    "title": "The Download: India&#8217;s smart glasses menace and AI&#8217;s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
-    "publishedAt": "2026-09-23",
+    "id": "news-ai-is-dominating-the-conversation-at-climate-week-1790244000000",
+    "title": "AI is dominating the conversation at Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
+    "publishedAt": "2026-09-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -252,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glass-1790276442000",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "id": "news-bring-your-co-founder-partner-or-colleague-and-get-50-off-a--1790277300000",
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -280,11 +282,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-glow-1790238012000",
-    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-    "link": "https://www.qbitai.com/2026/09/496816.html",
-    "summary": "人类演示一次，机器人即可实现跨场景任务复用",
-    "publishedAt": "2026-09-24",
+    "id": "news-manus-meta-1790316670000",
+    "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+    "link": "https://www.qbitai.com/2026/09/497060.html",
+    "summary": "人工外包团队",
+    "publishedAt": "2026-09-25",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,10 +295,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790304573000",
-    "title": " 你的路径和国家路径能重合吗？ ",
-    "link": "https://www.huxiu.com/article/4893919.html?f=rss",
-    "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑，题图来自：视觉中国 01 上周两国财长见面谈完，出来对记者说谈的very good。包括：中美要建一个人工智能对话机制、贸易委员会开始运转、甚至有了&ldquo;非敏感商品清单&rdquo; （中国的消费品、低技术产品；美国的能源、农产品、医疗产品） ，以后&ldquo;应该&rdquo;可以相对安正常地做交易，不会被政治绑架了。 Bloomberg有篇newsletter用了一个挺有意思的比喻：大家有没有发现F1赛车这些年似乎变得安全多了？主要靠升级的黑科技护栏 （能吸收冲击，也更结实） ，以及更大的缓冲区。换句话说，虽然赛车还是以死亡速度 （时速300公里） 比赛，事故也还会发生，但是因为有了这些保护措施，撞车后也不会那么容易死人了。 然后文章点题：中美关系亦是如此，虽然还在高速竞争，至少大家都开始在赛道两边装护栏了。 这个比喻乍一看很准确。但再往下想想，好像觉得哪里不对：护栏到底保护的是谁？是赛车手吗？看台上的人不危险吗？而且这种关系有点不太对称：赛车手赢了，得到的奖金也不会分到观众头上，或者很少；而一旦他输了，或者不幸撞向了观众席，成本却是足额落到每个人身上的。 02 说到这里，读博小跑又要上线了。这种不对称，有个很著名的名字，叫 非遍历性 （Non-ergodicity） 。 这个概念是塔勒布带火的，我以前也应该写过好几次，主",
+    "id": "news--1790332582000",
+    "title": " 现房销售地块已经有成交了 ",
+    "link": "https://www.huxiu.com/article/4893964.html?f=rss",
+    "summary": "本文来自微信公众号： 每经房产 ，作者：陈荣浩 ｜渐次推进。 全文约2200字▼ 9月24日，厦门完成“8・28”全国地产新政后的首场宅地出让，2宗涉宅用地均以底价成交，总成交金额41.95亿元。 在上述成交的两宗地块中，位于湖里区后埔片区2026P13地块在业内保持着较高关注度。该地块是新政后厦门乃至福建省首宗明确要求现房销售的涉宅用地，最终该地块以5.81万元/㎡的楼面价成交，由本土国企建发底价摘得。 作为三部门《关于完善商品住房销售制度的通知》发布后，核心城市中首个落地的强制现房销售样本，厦门本次土拍采用“岛内现售+岛外封顶预售”的差异化规则，成为观察地方新政落地路径的典型标本。 据《每日经济新闻》记者（以下简称每经记者）梳理，在厦门土拍落地强制现房销售地块之前，浙江丽水青田县已挂牌明确要求现房销售的涉宅用地；广东广州南沙推出“现房销售承诺制”试点地块。全国现房销售正从政策文件加速走向市场落地，且普遍呈现“少量试点、一地一策”的特征。 壹 厦门首宗，楼面价新高 本次出让两宗地块分属湖里、翔安，成交总价与楼面价分化明显：湖里区后埔片区2026P13地块由本土国企建发底价摘得，成交总价35.61亿元，综合楼面价约5.81万元/㎡；翔安区刘五店2026XP07地块由厦门国贸、厦门市政开发联合体拿下，成交总价6.34亿元，楼面价9135元/㎡。 根据出让文件，湖里区2026P13地块",
     "publishedAt": "2026-09-25",
     "source": "虎嗅",
     "tags": [
@@ -306,10 +308,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790303426000",
-    "title": "AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？",
-    "link": "https://www.tmtpost.com/8152068.html",
-    "summary": "八九十年代的日本动画产业，也曾面临和今天AI漫剧一样的困境——亏损，降本，商业化不足。然而仅仅数年后，日本动画产业就实现了整体盈利，产能翻倍；二次元从小众审美一跃成为日本国民文化代表，名利双收。 他们做对了什么？",
+    "id": "news-ai-4700-ai-2-5-10-1790327610000",
+    "title": "起底AI网恋：4700个AI围猎2.5万人，10元造完美情人",
+    "link": "https://www.tmtpost.com/8152653.html",
+    "summary": "新技术落地最早的地方，一定是离钱最近的地方。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -320,10 +322,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-hype-index-ai-loves-cheating-1790154000000",
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "id": "news-a-congressional-representative-just-proposed-killing-america-1790183411000",
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
     "publishedAt": "2026-09-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -332,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-feather-the-startup-building-the-8216-android-of-roboti-1790275958000",
-    "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
-    "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "id": "news-prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glass-1790276442000",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
     "publishedAt": "2026-09-24",
     "source": "TechCrunch",
     "tags": [
@@ -359,11 +361,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stripe-tour-ai-1790228770000",
-    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-    "link": "https://www.qbitai.com/2026/09/496779.html",
-    "summary": "Stripe Managed Payments (SMP) 现已全面上线",
-    "publishedAt": "2026-09-24",
+    "id": "news-index-1790315538000",
+    "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+    "link": "https://www.qbitai.com/2026/09/497012.html",
+    "summary": "",
+    "publishedAt": "2026-09-25",
     "source": "量子位",
     "tags": [
       "china",
@@ -372,10 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-costco-1790303360000",
-    "title": " 消费分层加剧，Costco依旧\"稳坐钓鱼台\"？ ",
-    "link": "https://www.huxiu.com/article/4893920.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 全球折扣零售王者—Costco 9月24日美股盘后，发布了截至8月30日的2026财年4季度财报（16周）。整体来看，业绩依然很稳健，收入和利润都稍好于预期，且公司把本季收到的关税退税大部分以降价形式还给了会员、兑现了“不靠退税赚钱”的承诺，具体来看： 1、关税退税到账，整体业绩稳健。收入上，本季总营收957亿美元，同比增长11.1%，连续第二个季度维持双位数增长（略好于市场预期的949亿）。 经营利润38亿，同比增长13.8%，包含了关税退税带来的0.9亿美元的一次性净收益，剔除后经营利润增长约11%、利润率同比基本持平，与上季一样没有增收不增利的迹象。整体来看表现不错。 2、同店增速仍是价格推动，但客流有所回升。核心经营指标，整体同店销售本季同比增长9.4%，环比上个季度略有放缓，剔除油气和汇率后的同店6.7%，约3个点的增长来汽油价格上涨。 价量拆分上，本季同店客流量同比增长3.3%，较上季的2.4%明显回升，是近五个季度以来首次提速；剔除油气汇率的客单价增长3.3%，较上季有所收窄。客流的回升海豚君认为一部分是高油价下加油站的引流效应（本季汽油销量创历史新高），但即便如此，客流止跌回升仍是这份财报最积极的信号。 3、美国依然最坚挺，加拿大受贸易谈判影响拖累。分地区来看，剔除汇率和油气价格的影响后，美国地区同店增长7.2%，较上",
+    "id": "news-1000-ov-1790331776000",
+    "title": " 最少涨价1000元，小米OV新旗舰还有吸引力吗？ ",
+    "link": "https://www.huxiu.com/article/4893962.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 9月21日至23日，vivo、OPPO和小米连续三天发布新一代旗舰手机，三款新机的12GB+256GB版本均比上代贵了至少1000元。 vivo X500率先登场，12GB+256GB版本售价5499元，较上代上涨1100元；次日发布的OPPO Find X10同样从5499元起售，也上涨1100元；9月23日发布的小米18 Pro起售价5999元，较上代提高1000元。 小米18Pro、OPPO Find X10、vivo X500主要参数对比观察者网 6000元的国补线成为本轮旗舰定价的分界。按照2026年国补政策，单价不超过6000元的手机可获得15%、最高500元补贴。小米18 Pro将入门版本定在5999元，OPPO Find X10和vivo X500则以5499元起售，并将12GB+512GB版本定在5999元，三家均核心配置稳在补贴范围内。 但一旦越过6000元，高配版本的价格便迅速上涨：小米18 Pro的12GB+512GB、16GB+512GB和16GB+1TB版本分别比上代上涨1700元、2400元和3000元，最高达到8999元；OPPO Find X10的16GB+1TB版本也由5799元升至7499元；vivo X500的1TB版本则由上代16GB+1TB的5799元变为12GB+1TB的6999元。 价格",
     "publishedAt": "2026-09-25",
     "source": "虎嗅",
     "tags": [
@@ -385,10 +387,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790303421000",
-    "title": "当亚运会不再热闹，中国品牌为何挤破头？",
-    "link": "https://www.tmtpost.com/8152491.html",
-    "summary": "国货集体“卷”进了名古屋赛场。",
+    "id": "news--1790326692000",
+    "title": "银行正在抢着给普通股东“送福利”",
+    "link": "https://www.tmtpost.com/8151933.html",
+    "summary": "优先股正在退潮。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -1058,4 +1060,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-25T03:15:37.993Z';
+export const dataFetchedAt = '2026-09-25T11:02:55.999Z';
