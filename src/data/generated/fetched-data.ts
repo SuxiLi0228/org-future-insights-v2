@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-opens-early-access-program-for-new-muse-features-1790368493000",
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-    "publishedAt": "2026-09-25",
+    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
+    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -53,11 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agi-ai-1790341377000",
-    "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
-    "link": "https://www.tmtpost.com/8152613.html",
-    "summary": "宇树Dex5-S把22个主动自由度压进3.99万元，市场欢呼“人形机器人进家倒计时”。但把出货量当干活量、把自由度当灵巧、把家庭当最大市场，是三个系统性误读。灵巧手的真实逻辑是按“脑子的水位”分层变现——硬件决定能力上限，数据决定当下能做什么：工业可枚举场景不需要通用AGI，家庭复杂长尾任务才高度依赖它。",
-    "publishedAt": "2026-09-25",
+    "id": "news-30-1790391875000",
+    "title": " 山姆没有捷径，中国零售平台集体追赶30%自营率 ",
+    "link": "https://www.huxiu.com/article/4894004.html?f=rss",
+    "summary": "本文来自微信公众号： 窄播 ，作者：窄播 一种从经营渠道进一步深入需求、商品和供应链的变化。 中国零售商正在强化对上游的把控，从货架时代重新回到自营时代。自营，正从少数零售商的长处，变成头部零售企业的基本配置。 山姆、盒马、奥乐齐、叮咚都已经有了一批消费者熟悉的自有商品，沃尔玛把自有品牌沃集鲜与社区新店型并置为探索卖场转型的一体两面，2023年才起步的小象超市，如今也拥有了极为可观的自有品牌比例。 不过，对照欧美20%-50%高占比的话，国内自有品牌接下来还有很大的开发空间。 据中国连锁经营协会（CCFA）联合波士顿咨询公司（BCG）今年8月发布的数据显示，中国商超自有品牌销售额渗透率约为‌8%‌，全渠道占比仅1%-2%。多重结构性力量共振之下，中国自有品牌正进入快速发展的窗口期，渗透率有望在未来五年从当前的8%提升至20%-30%。 因此有观点认为，30%自营商品率很可能成为零售业活下去的一个新标准。 自有品牌并不是一门新生意。过去，传统商超也销售纸巾、饮用水等自有商品，主要作用是减少品牌与流通的层层加价，为消费者提供低价替代，也为渠道提高毛利。 这一轮变化的重点，不只是货架上增加了更多零售商自己的品牌，而是商品供给和渠道同时过剩后，零售商开始更早进入需求研究、商品定义、生产组织和履约管理。 我们将这种从经营渠道进一步深入需求、商品和供应链的变化，称为「新自营」。 而且中国的新自",
+    "publishedAt": "2026-09-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790383104000",
+    "title": "京东，具身智能大玩家？",
+    "link": "https://www.tmtpost.com/8152876.html",
+    "summary": "不造机器人，押注机器人背后的生意。",
+    "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -79,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hottest-new-hangout-for-middle-schoolers-is-npr-8217-s-c-1790368438000",
-    "title": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section?",
-    "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-    "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+    "id": "news-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c-1790377870000",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -118,11 +132,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cta-1790341370000",
-    "title": "CTA集体回撤：传统基本面研究，碰到极端行情就容易失灵？",
-    "link": "https://www.tmtpost.com/8151562.html",
-    "summary": "市场不是没有波动，而是波动的方式变了。",
-    "publishedAt": "2026-09-25",
+    "id": "news-ai-1790389982000",
+    "title": " AI行业冒出一批高薪新岗位，不用会写代码 ",
+    "link": "https://www.huxiu.com/article/4894002.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：APPSO，题图来自：AI生成 别只盯着写代码，AI 最缺的岗位已经转移到了电力和机房。 在美国弗吉尼亚州阿什伯恩，James Waddy 每天在 Digital Realty 的数据中心里走约 3 万步。他闻设备有没有烧焦的气味，摸管道检查裂缝，还要留意屋顶设备遭鸟破坏的迹象。 我们谈论 AI 与就业，常常先想到屏幕里的变化：代码自动生成，文案几秒写完。把视线移开一点，还能看到另一份工作清单。 有些人专门找模型的麻烦，有些人设计它的性格，有些人走进机房，保证这些对话不会随着一次故障中断。 越狱负责人、数字催眠师以及...... 美国的非营利研究机构 FAR.AI 最近在招一位&ldquo;越狱负责人&rdquo;，要找的是能发现别人发现不了的通用越狱方法的人，对象是被数亿人使用的前沿模型。这些模型身上有一整套层层设防的体系：输入过滤、模型自身的拒答、对推理过程的监控、输出过滤，还有账号层面的审查。 攻击者得把环节逐个拆开，再串成一条完整的路径，涉及的领域包括化学、生物、核与爆炸物，也包括网络安全和极端说服。 有人把这份工作叫作&ldquo;数字催眠师&rdquo;，靠暗语、伪装的故事、层层嵌套的逻辑，甚至古代密码学的思路，诱使模型交出危险的配方或攻击代码，再把全过程记录下来交给防守方。 招聘平台 ZipRecruiter 在 9 月初给出",
+    "publishedAt": "2026-09-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news--1790383101000",
+    "title": "悬而未决的港股聆讯，与“非洲之王”传音的利润幻象",
+    "link": "https://www.tmtpost.com/8152889.html",
+    "summary": "在重新讲述自己的故事时，传音将自身定位从“卖手机”提升为“卖生态”。",
+    "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -144,17 +173,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-clo-1790363618000",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "id": "news-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o-1790377474000",
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -186,11 +214,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ct-ai-1790328701000",
-    "title": "CT无创筛查食管癌，达摩院AI站上临床前夜",
-    "link": "https://www.tmtpost.com/8152326.html",
-    "summary": "算法不再是瓶颈，临床落地才是。",
-    "publishedAt": "2026-09-25",
+    "id": "news--1790388169000",
+    "title": " 没有英伟达，大模型也能跑？ ",
+    "link": "https://www.huxiu.com/article/4893261.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | AI制图 中美芯片博弈，又有了新变化。 芯片管制本身并不新鲜，美国对英伟达先进AI芯片的限制已持续数年。 但新鲜的是，9月12日美国前沿AI公司Anthropic CEO 达里奥&middot;阿莫代伊谈到芯片时，把芯片管制放进了一个更大的命题里：美国可以放慢AI发展的速度，前提是不能让中国追上来。 在X平台发布的长文《We Must Pace the Frontier》中，阿莫代伊还提出，美国应继续限制向中国出售先进AI芯片和半导体制造设备，同时打击芯片走私、海外数据中心远程获取先进算力以及模型蒸馏。他认为，这些措施可以在未来3-5年显著拉大美国与中国的AI领先差距。 即， 把芯片、算力与前沿AI发展速度、中美AI竞争直接联系起来。 这意味着，过去，芯片管制解决的是中国能不能拿到最先进的卡； 现在，它开始被放进另一个问题里：中国还能不能获得支撑下一轮AI跃迁的先进算力。 而资本市场真正交易的，恰是预期链：算力受限&rarr;国产芯片接不接得住&rarr;接住的成本是多少。 问题也因此变得紧迫。 而阿莫代伊所说的未来3-5年，恰恰也是国内大模型继续迭代、推理需求持续增长的阶段。 如果高端芯片真的买不到，中国大模型能不能继续运行？ 更重要的是，谁能在算力受限的情况下，把每一张国产芯片的价值榨得更高，产生更多、更便宜的T",
+    "publishedAt": "2026-09-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1790382116000",
+    "title": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
+    "link": "https://www.tmtpost.com/8152829.html",
+    "summary": "小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲",
+    "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -212,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wa-1790362113000",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "id": "news-unsecured-openai-agents-posted-53-user-images-on-the-interne-1790374847000",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -252,11 +294,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790328698000",
-    "title": "华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了",
-    "link": "https://www.tmtpost.com/8152605.html",
-    "summary": "华能国际新设三分支机构，谋降本扩新能源，成效待验证。",
-    "publishedAt": "2026-09-25",
+    "id": "news--1790387913000",
+    "title": " 游本昌 ",
+    "link": "https://www.huxiu.com/article/4893998.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 9月24日上午，央视发布消息，游本昌在北京去世，93岁。而9月16日他刚过完生日。 前阵子提到老人家的名字，是跟何菲老师7月去外地采风，才知道她的公公就是《济公》的导演。总觉得在上海就是挺传奇的，很多人其实都在不远处，不响但很有力量。时光的深度，与水面冒泡的存在感，从来都是两回事。 有时候我在反思，我写东西是不是太旁观者视角了。想抓去用时光窨出来的味道。习惯娓娓道来，又舍不掉不少旁白。仿佛很多参天大树比小楼还高，只有在山间能够看到，但山间太孤独，空灵之外需要一点人喧闹的声音。 好吧，进入正题。1933年9月16日，他生在江苏泰州。父亲叶雨生祖籍南京，母亲祖籍苏州。三个姐姐、两个妹妹，他是唯一的男孩，从小病不断。于是，有算命的人跟家里说，这孩子活不过十三岁，除非出家。 六岁那年，父母就把他送进上海的法藏寺，拜在兴慈法师门下，法名乘培。溯源有时候是件让人快乐的事情，好让人们觉得一切都是水到渠成的。其实水到渠成之前，有多少洪水猛兽，谁又会肃然提起呢。 后来他52岁那年，演了济公。再后来他活到93岁。 他原来姓叶，叫叶本昌，后来因为家里的缘故改了姓。那不是宏大叙事里的家道中落，是乱世中一个普通江南家庭对命运的妥协、对孩子的庇护。 《说文解字》说，游，旌旗之流也。这个字的本义不是游泳，是旗子上垂下来的那几条飘带。旗杆立着，旗面写着字，飘带在最外",
+    "publishedAt": "2026-09-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790381983000",
+    "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+    "link": "https://www.tmtpost.com/8152798.html",
+    "summary": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+    "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -278,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ahead-of-us-ipo-british-ai-neocloud-nscale-secures-3-36b-in--1790361239000",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "id": "news-meta-opens-early-access-program-for-new-muse-features-1790368493000",
+    "title": "Meta opens early access program for new Muse features",
+    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -318,10 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790327872000",
-    "title": "阿莫迪偷师姚顺雨，奥特曼偷师梁文锋",
-    "link": "https://www.tmtpost.com/8152677.html",
-    "summary": "Opus 5.5和GPT-6 Luna，就是混元和DeepSeek。",
+    "id": "news--1790385866000",
+    "title": " 羽绒服品牌集体抢人过冬 ",
+    "link": "https://www.huxiu.com/article/4893996.html?f=rss",
+    "summary": "本文来自微信公众号： 眸娱 ，作者：眸娱 刚入秋，羽绒服代言就争先恐后来了。 九月，杨洋、王楚然、王一博、徐振轩、任敏、孟子义、李昀锐、吴慷仁接连预热官宣羽绒服代言，消费者几乎每隔几天就能刷到某个羽绒服品牌的新代言人海报。 这还只是九月一个月的量，从三百元价位到万元价位，从抖音爆款到高端奢品，几乎每个价格带、每个渠道类型的品牌都在这个秋天找到了自己的“面孔”。 当消费寒意与行业竞争同时逼近，羽绒服品牌为何集体押注明星？ 九月羽绒服代言潮 如果你在这个九月打开任何一个社交平台，很难不注意到羽绒服品牌的身影，从九月初到九月底，羽绒服品牌的代言官宣几乎没有断档。 杨洋官宣千仞岗全球品牌代言人，大片直接登上纽约时代广场大屏；王楚然预热波司登，车站安检口已铺满了代言海报；王一博以纯品牌全球代言人冬日TVC释出，“列车穿过城市，奔向有雪的地方”成为社交平台热门讨论；徐振轩官宣雪中飞温暖代言人、任敏官宣暖频道、孟子义官宣美力城亚太区品牌代言人、The North Face在同月官宣李昀锐为国内首位品牌代言人、加拿大奢品Moose Knuckles则签下吴慷仁演绎雪原叙事......形成了一条密集的代言官宣流水线。 事实上，这波代言潮并非某一梯队品牌的局部动作，而是覆盖了几乎所有叫得上甚至叫不上名字的羽绒服玩家，这种节奏本身就在传递一个信号：羽绒服赛道正在集体发力，没有人愿意在这个冬天沉默。 品牌",
+    "publishedAt": "2026-09-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-9-26-1790380786000",
+    "title": "Edge AI Daily 早报（9月26日）",
+    "link": "https://www.tmtpost.com/8152902.html",
+    "summary": "Meta推AI挂件绕过模型大战，OpenAI酝酿500美元套餐。Runway发布WorldPrompt，Cursor推Project模式。Anthropic与OpenAI新模型助历史研究。蓝源百亿融资，纽约设AI举报奖励。DHH弃手写代码，日本查数据中心融资。Jev对齐降本63倍，GLiNER2.5开源。普林斯顿证实coding agent碾压手工。英语令撕裂语言市场，医保AI误诊，iOS27加强儿童安全。",
     "publishedAt": "2026-09-25",
     "source": "钛媒体",
     "tags": [
@@ -991,4 +1059,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-25T21:03:11.120Z';
+export const dataFetchedAt = '2026-09-26T03:19:37.344Z';
