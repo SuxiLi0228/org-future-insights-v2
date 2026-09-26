@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-created-an-interactive-digital-avatar-of-myself-and-you-ca-1790431200000",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "id": "news-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement-1790454285000",
+    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -54,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790435929000",
-    "title": " 第一性：人口结构如何重塑世界秩序 ",
-    "link": "https://www.huxiu.com/article/4894071.html?f=rss",
-    "summary": "本文来自微信公众号： Spread Trading ，作者：Trading Dog 本周中美两国领导人在华盛顿会晤，双方同意在今年5月北京会晤确立的定位之上，进一步构建“基于尊重、公平、对等的建设性战略稳定关系”。 “战略稳定”这一措辞颇值得玩味：一个原本属于核军控领域的技术性词汇，核心诉求在于“确保双方都不会误判，从而都不会先动手”，如今，这一底线思维被平移至世界两个最大经济体的相处之道。 随后交付的清单也印证了这种务实基调：贸易休战从原定的2026年11月10日延长至2027年1月10日，300亿美元对等降税框架继续推进，更在经贸磋商机制下就人工智能展开了首次双边对话。 为什么两个拥有最强大军事与经济实力的国家，要用如此谨慎的语言、高度技术化的机制来管理双边关系？主流叙事通常将其归结为意识形态摩擦或修昔底德陷阱式的地缘博弈。 然而这些均是表象，而非“第一性”； ——真正推动这种“战略稳定”的底层逻辑，是中美两国都正在面对其国家长期资产负债表上的刚性约束：人口。 人口如何重塑国家资产负债表 在宏观维度上，人口老龄化对国家资产负债表的侵蚀是双向的： 在资产端，劳动年龄人口的见顶回落直接拖累潜在经济增速，令税基扩张承压；在负债端，养老金、医疗与长期照护支出则随着老年人口基数的膨胀而呈现出极强的政治刚性。 产业外流进一步侵蚀了税基，而试图通过“制造业回流”来修复表单，又受制于本土熟练工",
+    "id": "news-2-3-1790438827000",
+    "title": " 2.3万家健身房关门了，乐刻还嫌自己跑得慢 ",
+    "link": "https://www.huxiu.com/article/4893861.html?f=rss",
+    "summary": "出品｜虎嗅商业消费组 作者｜李佳琪 编辑｜苗正卿 题图｜乐刻运动 北京东四环芳圆里ID MALL四层西北角，一扇玻璃门后面是1000平米的健身场地。 诺德士器械整齐排列，有氧区23台设备涵盖跑步机、登山机、爬楼机、滑雪仪、滑水机、雪橇机，力量区40台器械，哑铃最重到40公斤。前台没有推销办卡的小哥，扫码进门，智能柜自动分配，淋浴间干湿分离。 这是乐刻旗下高端品牌Recore无限核子的门店。月卡499元，私教课300元一节，12次起购。&ldquo;如果买包月套餐，3090元15次课还送30天场地卡，算下来一节课172块钱&rdquo;。门店经理很笃定地告诉虎嗅，&ldquo;这是市场上最理性的价格，传统商业俱乐部同样的课成交价在450到600之间。&rdquo; RECORE芳圆里门店 三年前，乐刻的标签还是300平米小店、月付制、24小时。那时乐刻讲的故事是：一公里健身圈，把健身房开成便利店。 现在这家店，1000平米、月卡卖到499元、教练上课要给用户拍视频录像做反馈、用户画像集中在30到40岁&hellip;&hellip;这看起来一点也不&ldquo;便利店&rdquo;。 但乐刻运动联合创始人夏东不觉得矛盾。&ldquo;乐刻健身的核心逻辑是一公里、有性价比、提供丰富品类、效率最高，它不包含一定要300平米。&rdquo;夏东告诉虎嗅，&ldquo;渗透率提高了，用户进阶",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
@@ -93,17 +92,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
-    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "id": "news-meta-and-youtube-say-they-will-run-ads-for-musk-documentary--1790444640000",
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -133,20 +131,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790431885000",
-    "title": " 订单狂翻几十倍：全世界搞AI的，为啥都在抢中国电池？ ",
-    "link": "https://www.huxiu.com/article/4894068.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 这两年，AI军备竞赛打得那叫一个昏天黑地，在中美都是拉动投资的主力。 GPU、存储、光模块、液冷，算力基建的市场热点一轮接一轮地爆发。 另外，GPU芯片非常吃电，一座大型AI算力中心一年电费动辄几十个亿，顶得上一座小城市。 即便你掏得出几十亿，也不一定能抢到电。 在美国一些地区，AI算力中心接入电网要排队3到7年。于是马斯克、扎克伯格这些人都等不及了，纷纷开始购买燃气轮机自建电厂。 这使得跟AI算力貌似不搭噶的一众电力设备，燃气轮机、变压器、高压开关等等，也跟着一起鸡犬升天了。 但在一个大多数人没有注意到的角落，AI相关的储能，也就是电池业务，也在暴涨。 2026年前5个月，全球AI算力中心储能出货量达到10GWh，按电池容量计算相当于1000万度电，已经超过2025年全年。行业预计，到2030年，AIDC储能锂电池出货量将突破300GWh。按眼下的出货量级看，短短几年就是几十倍的增长空间，毫不意外的是，新增订单，大部分都流向了中国电池厂。 为啥AI计算需要这么多电池呢？今天我们就来深度聊聊。 01几万块GPU同时猛踩油门 你对数据中心的印象可能是这样的：一排排服务器安安静静闪着绿灯，嗡嗡作响，用电也相对平稳。 传统数据中心确实是这样，单个机柜功耗4到8千瓦，负荷稳稳当当，像定速巡航，电网轻轻松松，如沐春风。 但AI算力中心完全",
-    "publishedAt": "2026-09-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1790416505000",
     "title": "谷歌，准备升空",
     "link": "https://www.tmtpost.com/8153088.html",
@@ -173,11 +157,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c-1790377870000",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "publishedAt": "2026-09-25",
+    "id": "news-levoit-8217-s-new-air-purifier-is-for-the-pet-odors-that-hav-1790442000000",
+    "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
+    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+    "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+    "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,20 +198,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-ai-1790429781000",
-    "title": " 美国砸10万亿美元梭哈AI？教授预警：左脚踩右脚要“爆雷” ",
-    "link": "https://www.huxiu.com/article/4894067.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 近日，美国布鲁金斯学会发布哥伦比亚商学院教授Stijn Van Nieuwerburgh的最新研究。他在报告中测算，2025年至2032年，美国数据中心、电力设施、网络设备、GPU及其他AI基础设施累计投资可能达到约10.3万亿美元（约合69.1万亿元人民币），平均每年相当于美国GDP的3.63%。 报告指出，按这一投资强度计算，美国当前的AI建设周期已经超过历史上的多轮大型基础设施扩张。1870年至1890年的铁路建设年均投资约相当于GDP的2.24%，1956年至1973年的高速公路建设约为1.13%，1996年至2003年的通信和光纤建设约为1.10%。 巨额投资的背后，是越来越昂贵的AI数据中心。 报告以一座200兆瓦的AI训练园区为例，其初始建设成本约82亿美元（约合551亿元人民币），其中数据中心建筑约22亿美元（约合148亿元人民币），新增电力设施约4亿美元（约合27亿元人民币），GPU、网络和存储等IT设备约56亿美元（约合377亿元人民币），约三分之二的资金都投入了更新速度更快的计算设备。 按照这一标准，一座1吉瓦级AI园区的成本已经达到约410亿美元（约合2752亿元人民币）。报告测算，到2032年，美国可能新增约182.8吉瓦数据中心容量，另有117.2吉瓦项目在2032年以后投入使用。2025年至2032年发生",
-    "publishedAt": "2026-09-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news-agent-gemini-3-8-flash-tts-flash-lite-tts-anthropic-1790397979000",
     "title": "【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
     "link": "https://www.tmtpost.com/8153052.html",
@@ -254,16 +224,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o-1790377474000",
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-    "publishedAt": "2026-09-25",
+    "id": "news-i-created-an-interactive-digital-avatar-of-myself-and-you-ca-1790431200000",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -294,19 +265,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790422480000",
-    "title": " 赛力斯拿回问界主导权，然后呢？ ",
-    "link": "https://www.huxiu.com/article/4894061.html?f=rss",
-    "summary": "本文来自微信公众号： 智械岛 ，作者：曾弋 9月24日，“任正非重申华为不造车”话题冲上微博热搜，热搜榜最高位置为第五位。 华为不造车这句话已经讲了很多年，内容本身并不新鲜，新鲜的是传播方式，热搜的原文来自23日奕境汽车品牌总经理曾清林的微博，”华为不造车“被单独摘出后发酵，省去了原文后半句“帮助东风造好车”。 为什么老话又被热议？为什么前一天的微博被“挑”出来推上热搜？时间点上恰逢奕境X9上市前夕，而距离9月15日华为将问界的经营主导权还给赛力斯，刚好过去一周时间。 巧合的是，24日当天，华为常务董事、终端BG董事长余承东在合肥巡店时首次公开回应问界调整，表示是赛力斯主动提出想自己主导，并明确了问界今年上市的新车仍由华为团队主导设计，大家可以放心购买。 华为与车企的合作方式，通常分为三类：零部件及系统供应模式（Tier 1），HI模式（Huawei Inside），及智选车模式（鸿蒙智行）。 奕境和问界属于华为与车企合作项目中的境系列和界系列，是两套并行的体系。 广汽启境、东风奕境、上汽五菱华境组成的三境，属于华为车BU（引望）主导的乾崑生态，采用车企为主、华为技术赋能的合作方式，车企在品牌、制造和销售环节保留更高自主权，渠道独立，不完全依赖华为门店，境系列主打30万元以下市场； 赛力斯问界、奇瑞智界、北汽享界、江淮尊界、上汽尚界组成的五界则由华为终端BG主导，采用智选车模式，归",
-    "publishedAt": "2026-09-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-4-8-1790397266000",
     "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
     "link": "https://www.tmtpost.com/8153043.html",
@@ -333,16 +291,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-unsecured-openai-agents-posted-53-user-images-on-the-interne-1790374847000",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "publishedAt": "2026-09-25",
+    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
+    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -369,19 +328,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790422477000",
-    "title": " 酒店业人才供需错位？上海探路中职直通本科培养模式 ",
-    "link": "https://www.huxiu.com/article/4894063.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：崔逸星 上海世界技能大赛酒店接待项目的比赛现场，被布置成具有大洋洲风格的酒店场景，从9月23日开始的四天赛程内，选手们将面对来自不同国家的“宾客”，解决入住登记、房型调整、餐饮指引等方面的各种问题。 在上海商学院酒店管理学院院长、世赛酒店接待项目中国教练组组长姜红看来，项目考验的不仅是选手对流程的熟悉程度，也在考查他们是否能在服务中传递出尊重与善意。 上海商学院的大四学生王嘉艺将代表中国参赛，她在这所公办本科院校就读的酒店管理专业，被列为国家级一流本科专业。该专业历届毕业生中，进入酒店及相关领域的学生，占比超过一半。 今年，姜红在调研了华住等10个酒店品牌和集团后发现，酒店行业亟需愿意进入行业、具备专业能力并能长期发展的高素质人才。但与此同时，酒店管理专业招生吸引力有所下降，一些学生和家长仍将酒店工作简单理解为端盘子或做前台。 通过中本贯通项目拉长酒店行业的人才培养链条，被视为回应这种人才供需错位的新尝试。 中本贯通全称“中等职业教育-应用本科专业贯通培养模式”，即先在中职学校学习3年，通过转段考试后，进入对应的本科院校再学习4年，最终获得本科文凭。 2024年，上海市信息管理学校与上海商学院共同申报的酒店管理中本贯通项目迎来首届学生。曾获得第47届世界技能大赛酒店接待项目优胜奖的朱立萱，也在这一年进入上海市信息管理学校，目前担任这所中职院校",
-    "publishedAt": "2026-09-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1000,4 +946,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-26T15:41:13.486Z';
+export const dataFetchedAt = '2026-09-26T20:36:30.419Z';
