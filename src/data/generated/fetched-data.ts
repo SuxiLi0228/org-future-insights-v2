@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
-    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "id": "news-i-created-an-interactive-digital-avatar-of-myself-and-you-ca-1790431200000",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-physical-ai-fsd-simate-beta-robodojo-1790413661000",
-    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-    "link": "https://www.qbitai.com/2026/09/498271.html",
-    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+    "id": "news--1790423383000",
+    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+    "link": "https://www.qbitai.com/2026/09/498478.html",
+    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-80-1790417703000",
-    "title": " 何超琼讲的道理，谱系家庭已默默做了80年 ",
-    "link": "https://www.huxiu.com/article/4894051.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：Zoey，作者：争取权益的 最近，章泽天主持的播客《小天章》上线了与信德集团行政主席何超琼的深度对谈。节目播出后，舆论的焦点大多对准了章泽天，变着花样吐槽她采访不给力。 但说实话，对普通人而言，与其围观章泽天能否接住何超琼，不如好好听听何超琼说了什么。毕竟，赌王接班人的话语分量，绝非寻常。比如这句： “不是说你生长在一个豪门你就是很幸运，你也要去争取……不然你可能也是没有那么多的机会。” 这句话不仅打破了“出生在豪门就能拥有一切”的刻板印象，也道破了一个朴素的道理：机会不会自动降临，得开口去要，得靠自己去争取。 这个道理，自闭症谱系孩子的家庭，更需要牢记于心。 敢开口，伸手要不丢脸 先说“要”这个动作本身。 在我们的文化语境里，“向别人伸手要”几乎天然地带有负面色彩，隐含着低姿态、占便宜、麻烦别人、不够体面。 更关键的是，我们大多数人，从小受的教育也是“要懂事”，“少给人添麻烦”，“是你的早晚是你的”。 对谱系家庭来说，这份感觉更沉重。很多家庭，从孩子确诊那天起，心里就蒙上了一层自卑感：觉得孩子“不正常”，觉得自己没把孩子带好，甚至在亲友面前都矮了一截。 自卑感最直接的后果，还不是不敢争取，而是主动退让——本该属于自己的权益，也下意识地避开。 有时候甚至连带孩子出门，都成了需要先下决心的事：怕孩子在公共场合情绪失控，怕旁人的目光，怕“给人添",
+    "id": "news--1790435929000",
+    "title": " 第一性：人口结构如何重塑世界秩序 ",
+    "link": "https://www.huxiu.com/article/4894071.html?f=rss",
+    "summary": "本文来自微信公众号： Spread Trading ，作者：Trading Dog 本周中美两国领导人在华盛顿会晤，双方同意在今年5月北京会晤确立的定位之上，进一步构建“基于尊重、公平、对等的建设性战略稳定关系”。 “战略稳定”这一措辞颇值得玩味：一个原本属于核军控领域的技术性词汇，核心诉求在于“确保双方都不会误判，从而都不会先动手”，如今，这一底线思维被平移至世界两个最大经济体的相处之道。 随后交付的清单也印证了这种务实基调：贸易休战从原定的2026年11月10日延长至2027年1月10日，300亿美元对等降税框架继续推进，更在经贸磋商机制下就人工智能展开了首次双边对话。 为什么两个拥有最强大军事与经济实力的国家，要用如此谨慎的语言、高度技术化的机制来管理双边关系？主流叙事通常将其归结为意识形态摩擦或修昔底德陷阱式的地缘博弈。 然而这些均是表象，而非“第一性”； ——真正推动这种“战略稳定”的底层逻辑，是中美两国都正在面对其国家长期资产负债表上的刚性约束：人口。 人口如何重塑国家资产负债表 在宏观维度上，人口老龄化对国家资产负债表的侵蚀是双向的： 在资产端，劳动年龄人口的见顶回落直接拖累潜在经济增速，令税基扩张承压；在负债端，养老金、医疗与长期照护支出则随着老年人口基数的膨胀而呈现出极强的政治刚性。 产业外流进一步侵蚀了税基，而试图通过“制造业回流”来修复表单，又受制于本土熟练工",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
@@ -93,16 +93,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c-1790377870000",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "publishedAt": "2026-09-25",
+    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
+    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -119,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7000-glm-gpu-ssd-github-1790413260000",
-    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-    "link": "https://www.qbitai.com/2026/09/497624.html",
-    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+    "id": "news-ai-physical-ai-fsd-simate-beta-robodojo-1790413661000",
+    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+    "link": "https://www.qbitai.com/2026/09/498271.html",
+    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
@@ -132,16 +133,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790417481000",
-    "title": " 月饼不好卖，白酒不敢压，今年中秋礼盒市场降温了 ",
-    "link": "https://www.huxiu.com/article/4894050.html?f=rss",
-    "summary": "本文来自微信公众号： 新经销 ，作者：何雯 这几天，笔者陆续走访了一些商超，也和几位酒水、休食及礼盒经销商聊了聊今年中秋的生意。 一个比较明显的感受是，今年的节日气氛已经起来了，但生意启动得比想象中慢。 超市入口位置依然摆满了各式各样的月饼礼盒，红的、金的、国潮联名的，包装做得一个比一个精致，但真正停下来挑选的人并不多。反而是在旁边不起眼的散装月饼区域，陆陆续续有几位老人站在货架前，一块一块看口味、比价格，有人最后拎着几个月饼离开。 另一边，经销商对旺季的态度也明显谨慎了。一位酒水经销商告诉笔者：“以前中秋前最怕货不够，今年不一样，大家都不敢多拿，有客户要了再补。” “今年月饼礼盒和休食礼盒，动销比去年慢很多，和中秋国庆假期分开有一些原因，很多人中秋不回家，也就不送礼了。”某休食经销商提到。 月饼礼盒还摆在那里，白酒促销也没有停止，厂家依然在围绕双节投入资源，只是那个曾经高度确定的节日生意，正在变得没有那么容易。 礼盒市场的需求，变了 对于快消行业而言，中秋的价值，不只是多了几天假期，更重要的是它创造了一个集中消费的时间窗口。 很多礼赠属性的商品，在这个时间节点会迎来爆发。 一盒月饼，可以进入走亲访友、企业福利和商务往来场景；一瓶白酒，可以因为家庭团聚、宴请送礼增加需求；坚果、乳品、饮料、休闲食品，也可以通过礼盒形式进入节日消费。 节日把原本分散的需求，在短时间内集中释放了出来。 ",
+    "id": "news-ai-1790431885000",
+    "title": " 订单狂翻几十倍：全世界搞AI的，为啥都在抢中国电池？ ",
+    "link": "https://www.huxiu.com/article/4894068.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 这两年，AI军备竞赛打得那叫一个昏天黑地，在中美都是拉动投资的主力。 GPU、存储、光模块、液冷，算力基建的市场热点一轮接一轮地爆发。 另外，GPU芯片非常吃电，一座大型AI算力中心一年电费动辄几十个亿，顶得上一座小城市。 即便你掏得出几十亿，也不一定能抢到电。 在美国一些地区，AI算力中心接入电网要排队3到7年。于是马斯克、扎克伯格这些人都等不及了，纷纷开始购买燃气轮机自建电厂。 这使得跟AI算力貌似不搭噶的一众电力设备，燃气轮机、变压器、高压开关等等，也跟着一起鸡犬升天了。 但在一个大多数人没有注意到的角落，AI相关的储能，也就是电池业务，也在暴涨。 2026年前5个月，全球AI算力中心储能出货量达到10GWh，按电池容量计算相当于1000万度电，已经超过2025年全年。行业预计，到2030年，AIDC储能锂电池出货量将突破300GWh。按眼下的出货量级看，短短几年就是几十倍的增长空间，毫不意外的是，新增订单，大部分都流向了中国电池厂。 为啥AI计算需要这么多电池呢？今天我们就来深度聊聊。 01几万块GPU同时猛踩油门 你对数据中心的印象可能是这样的：一排排服务器安安静静闪着绿灯，嗡嗡作响，用电也相对平稳。 传统数据中心确实是这样，单个机柜功耗4到8千瓦，负荷稳稳当当，像定速巡航，电网轻轻松松，如沐春风。 但AI算力中心完全",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -171,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o-1790377474000",
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+    "id": "news-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c-1790377870000",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -199,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790407085000",
-    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-    "link": "https://www.qbitai.com/2026/09/497613.html",
-    "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+    "id": "news-7000-glm-gpu-ssd-github-1790413260000",
+    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+    "link": "https://www.qbitai.com/2026/09/497624.html",
+    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
@@ -212,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-qq-1790417052000",
-    "title": " QQ从未下桌，但如何成为经典 ",
-    "link": "https://www.huxiu.com/article/4893426.html?f=rss",
-    "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜作者设计 AI制图 2026年9月22日，全新QQ3摩登版在奇瑞总部安徽芜湖上市，官方指导价8.89万元。搭载8155芯片、15.6英寸2.5K中控屏与Carmind AI智能体，配备猎鹰500智驾系统&mdash;&mdash;由12颗超声波雷达和地平线J6E芯片构成，支持100+场景自动泊车和高速NOA。 外界称&ldquo;QQ复活了&rdquo;。 QQ3摩登版 需要先厘清一个前提：QQ3不存在真正意义上的&ldquo;复活&rdquo;或&ldquo;重生&rdquo;。它已经是事实上的爆款车型&mdash;&mdash;自上市以来连续5个月销量过万，8月销量达19,103台，环比增长64.07%，目前仍有10万台海内外订单待交付。 我们要讨论的，是QQ在成为经典车的历程中，如何为奇瑞国内市场建立信心？如何从平价小车，变成比肩宝马MINI的全球经典车？ QQ从未下桌 2003年，第一代QQ以不足5万元的定价切入市场，彼时国内车市仍被&ldquo;捷达、富康、桑塔纳&rdquo;老三样牢牢主导。QQ凭借小巧灵动的设计和高性价比成为自主品牌爆款，上市当年销量就突破4万辆，此后十年累计销量达154万辆。巅峰时期，QQ在小车市场的占有率超过50%，销往海内外100多个国家和地区。QQ系列累计销量已超160万辆。 2014年燃油版停产后，QQ品",
+    "id": "news-10-ai-1790429781000",
+    "title": " 美国砸10万亿美元梭哈AI？教授预警：左脚踩右脚要“爆雷” ",
+    "link": "https://www.huxiu.com/article/4894067.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 近日，美国布鲁金斯学会发布哥伦比亚商学院教授Stijn Van Nieuwerburgh的最新研究。他在报告中测算，2025年至2032年，美国数据中心、电力设施、网络设备、GPU及其他AI基础设施累计投资可能达到约10.3万亿美元（约合69.1万亿元人民币），平均每年相当于美国GDP的3.63%。 报告指出，按这一投资强度计算，美国当前的AI建设周期已经超过历史上的多轮大型基础设施扩张。1870年至1890年的铁路建设年均投资约相当于GDP的2.24%，1956年至1973年的高速公路建设约为1.13%，1996年至2003年的通信和光纤建设约为1.10%。 巨额投资的背后，是越来越昂贵的AI数据中心。 报告以一座200兆瓦的AI训练园区为例，其初始建设成本约82亿美元（约合551亿元人民币），其中数据中心建筑约22亿美元（约合148亿元人民币），新增电力设施约4亿美元（约合27亿元人民币），GPU、网络和存储等IT设备约56亿美元（约合377亿元人民币），约三分之二的资金都投入了更新速度更快的计算设备。 按照这一标准，一座1吉瓦级AI园区的成本已经达到约410亿美元（约合2752亿元人民币）。报告测算，到2032年，美国可能新增约182.8吉瓦数据中心容量，另有117.2吉瓦项目在2032年以后投入使用。2025年至2032年发生",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
@@ -252,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-unsecured-openai-agents-posted-53-user-images-on-the-interne-1790374847000",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "id": "news-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o-1790377474000",
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -279,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tpu-kimi-gpu-57-deepseek-1790406725000",
-    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-    "link": "https://www.qbitai.com/2026/09/497425.html",
-    "summary": "vLLM人马创业公司团队出品",
+    "id": "news-ai-1790407085000",
+    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+    "link": "https://www.qbitai.com/2026/09/497613.html",
+    "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
@@ -292,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3000-1790416948000",
-    "title": " 大模型价格战持续升温，智谱市值跌至3000亿港元 ",
-    "link": "https://www.huxiu.com/article/4894049.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 随着近期国内外头部大模型纷纷降价，一场大模型领域的价格战正持续升温。 9月25日，智谱港股股价继续下跌，盘中一度跌至610.5港元附近。截至收盘，跌幅收窄至0.78%，总市值回落至3000亿港元左右。 今年以来，智谱股价波动极为剧烈。公司1月8日上市时发行价仅为116.2港元，6月22日一度升至2980港元/股的历史高位，随后快速回落。7月中旬，该公司股价曾跌破1000港元，此后一度反弹至1200港元以上，近期又重新下探至600港元。 与股价调整同时发生的，是全球大模型推理价格快速下降。 9月10日，DeepSeek发布V4.1 Flash，并同步下调API价格。目前其高峰时段每百万Token缓存未命中输入价格为2元、输出8元，非高峰时段进一步减半；小米于9月22日发布MiMo-V2.6系列，旗舰Pro版本API未缓存输入、输出分别为每百万Token 3元和6元，Flash版则进一步降至1元和2元；如果命中缓存，Pro版本输入价格只有每百万Token 0.025元。 海外厂商也在向低成本推进。9月22日，Anthropic发布Claude Opus 5.5，称典型任务运行成本较Opus 5降低约40%，其中API输入和输出价格分别降至每百万Token 4美元和20美元（约合人民币26.9元和134.3元），缓存读取价格下降60%。 同",
+    "id": "news--1790422480000",
+    "title": " 赛力斯拿回问界主导权，然后呢？ ",
+    "link": "https://www.huxiu.com/article/4894061.html?f=rss",
+    "summary": "本文来自微信公众号： 智械岛 ，作者：曾弋 9月24日，“任正非重申华为不造车”话题冲上微博热搜，热搜榜最高位置为第五位。 华为不造车这句话已经讲了很多年，内容本身并不新鲜，新鲜的是传播方式，热搜的原文来自23日奕境汽车品牌总经理曾清林的微博，”华为不造车“被单独摘出后发酵，省去了原文后半句“帮助东风造好车”。 为什么老话又被热议？为什么前一天的微博被“挑”出来推上热搜？时间点上恰逢奕境X9上市前夕，而距离9月15日华为将问界的经营主导权还给赛力斯，刚好过去一周时间。 巧合的是，24日当天，华为常务董事、终端BG董事长余承东在合肥巡店时首次公开回应问界调整，表示是赛力斯主动提出想自己主导，并明确了问界今年上市的新车仍由华为团队主导设计，大家可以放心购买。 华为与车企的合作方式，通常分为三类：零部件及系统供应模式（Tier 1），HI模式（Huawei Inside），及智选车模式（鸿蒙智行）。 奕境和问界属于华为与车企合作项目中的境系列和界系列，是两套并行的体系。 广汽启境、东风奕境、上汽五菱华境组成的三境，属于华为车BU（引望）主导的乾崑生态，采用车企为主、华为技术赋能的合作方式，车企在品牌、制造和销售环节保留更高自主权，渠道独立，不完全依赖华为门店，境系列主打30万元以下市场； 赛力斯问界、奇瑞智界、北汽享界、江淮尊界、上汽尚界组成的五界则由华为终端BG主导，采用智选车模式，归",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
@@ -331,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-opens-early-access-program-for-new-muse-features-1790368493000",
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "id": "news-unsecured-openai-agents-posted-53-user-images-on-the-interne-1790374847000",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
     "publishedAt": "2026-09-25",
     "source": "TechCrunch",
     "tags": [
@@ -358,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-agent-deepseek-kimi-1790406255000",
-    "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-    "link": "https://www.qbitai.com/2026/09/497382.html",
-    "summary": "还把「密钥」叫战利品",
+    "id": "news-tpu-kimi-gpu-57-deepseek-1790406725000",
+    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+    "link": "https://www.qbitai.com/2026/09/497425.html",
+    "summary": "vLLM人马创业公司团队出品",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
@@ -371,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790415273000",
-    "title": " 天降我在天地间，总有故事后人听 ",
-    "link": "https://www.huxiu.com/article/4894047.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：新周刊，编辑：桃子酱，原文标题：《天降我在天地间，总有故事后人听｜告别刘欢》 9月26日，对外经济贸易大学发布讣告：“我们沉痛宣告：我校退休教师、全国家喻户晓的音乐家刘欢，于2026年9月25日上午9时52分在上海不幸病逝，享年63岁。” 刘欢的音乐生涯，始于1987年。这一年，他先后演唱了电视剧《雪城》主题曲《心中的太阳》、电视剧《便衣警察》主题曲《少年壮士不言愁》，歌声传遍大江南北。自此，他开启了近40年的“国民歌手”之路：《弯弯的月亮》（1989）、《亚洲雄风》（1990）、《千万次的问》（1993）、《好汉歌》（1998）、《从头再来》（1998）、《我和你》（2008）、《凤凰于飞》（2011）……在每一个时代的重要关口，他都在场。 “我欲成仙，快乐齐天/让自己对得起美丽寓言/天降我在天地之间/总有故事让后人看”，这几句歌词，来自刘欢演唱的《我欲成仙》。有评论表示：虽然歌词并非刘欢手笔，但此刻再听，总感觉这是他留给大家的话。 非科班的起点， 有着文学底色的歌手 唱响《好汉歌》的刘欢，所有乐理，都是自学的。 1985年，一个学法国文学的年轻人，先后登上法国大使馆组织的法语歌曲比赛及首届高校英语歌曲比赛的舞台。没有受过一天专业声乐训练的他，把这两个组别的冠军都拿走了。这就是年轻时的刘欢，当时他正在北京国际关系学院读大四。刘欢后来接受采访时",
+    "id": "news--1790422477000",
+    "title": " 酒店业人才供需错位？上海探路中职直通本科培养模式 ",
+    "link": "https://www.huxiu.com/article/4894063.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：崔逸星 上海世界技能大赛酒店接待项目的比赛现场，被布置成具有大洋洲风格的酒店场景，从9月23日开始的四天赛程内，选手们将面对来自不同国家的“宾客”，解决入住登记、房型调整、餐饮指引等方面的各种问题。 在上海商学院酒店管理学院院长、世赛酒店接待项目中国教练组组长姜红看来，项目考验的不仅是选手对流程的熟悉程度，也在考查他们是否能在服务中传递出尊重与善意。 上海商学院的大四学生王嘉艺将代表中国参赛，她在这所公办本科院校就读的酒店管理专业，被列为国家级一流本科专业。该专业历届毕业生中，进入酒店及相关领域的学生，占比超过一半。 今年，姜红在调研了华住等10个酒店品牌和集团后发现，酒店行业亟需愿意进入行业、具备专业能力并能长期发展的高素质人才。但与此同时，酒店管理专业招生吸引力有所下降，一些学生和家长仍将酒店工作简单理解为端盘子或做前台。 通过中本贯通项目拉长酒店行业的人才培养链条，被视为回应这种人才供需错位的新尝试。 中本贯通全称“中等职业教育-应用本科专业贯通培养模式”，即先在中职学校学习3年，通过转段考试后，进入对应的本科院校再学习4年，最终获得本科文凭。 2024年，上海市信息管理学校与上海商学院共同申报的酒店管理中本贯通项目迎来首届学生。曾获得第47届世界技能大赛酒店接待项目优胜奖的朱立萱，也在这一年进入上海市信息管理学校，目前担任这所中职院校",
     "publishedAt": "2026-09-26",
     "source": "虎嗅",
     "tags": [
@@ -945,65 +947,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137139",
-    "title": "Course Director UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "You've been designing long enough to have watched tools become essential and then disappear"
-    ],
-    "skills": [
-      "LLM",
-      "RAG"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-    "postedAt": "2026-08-26",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137138",
-    "title": "Education Designer UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "You're a designer who has facilitated workshops or built online courses, and you noticed that Â you loved it and that you were unusually good at it",
-      "You know how to make complex skills easy to learn, and how to guide people in applying their new skills",
-      "As one of our Education Designers, you'll str"
-    ],
-    "skills": [
-      "LLM",
-      "RAG"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-    "postedAt": "2026-08-26",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137136",
-    "title": "Course Writer and Editor UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "You're the one people trust with the words, whether you're writing them or fixing them",
-      "You noticed thatÂ you loved it, and that you were unusually good at it",
-      "You turn rough, complex ideas into words people understand",
-      "Now you get the opportunity to work with some of the most respected designers a"
-    ],
-    "skills": [
-      "LLM",
-      "RAG"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
-    "postedAt": "2026-08-26",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1137114",
     "title": "Senior Backend Engineer Build AI Agents",
     "company": "Salesforge",
@@ -1057,4 +1000,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-26T10:44:55.811Z';
+export const dataFetchedAt = '2026-09-26T15:41:13.486Z';
