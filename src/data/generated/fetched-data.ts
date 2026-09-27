@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-av-companies-pick-their-lanes-1790524920000",
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-anthropic-s-ceo-is-about-to-have-dinner-with-president-trump-1790541268000",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sennheiser-momentum-5-review-great-sound-incredible-battery--1790521200000",
-    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-    "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-    "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+    "id": "news-can-muse-overcome-meta-s-trust-issues-1790539050000",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pnoe-8217-s-new-face-mask-wants-to-make-lab-grade-breath-tes-1790473230000",
-    "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-    "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+    "id": "news-anthropic-8217-s-dario-amodei-gets-the-snl-treatment-1790526600000",
+    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "summary": "\"AI is the devil and I its maker.\"",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -253,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-tests-buying-from-walmart-owned-flipkart-through-gemi-1790472600000",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "id": "news-techcrunch-mobility-av-companies-pick-their-lanes-1790524920000",
+    "title": "TechCrunch Mobility: AV companies pick their lanes",
+    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -332,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-insurers-claim-ai-is-already-increasing-healthcare-costs-1790456526000",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "publishedAt": "2026-09-26",
+    "id": "news-sennheiser-momentum-5-review-great-sound-incredible-battery--1790521200000",
+    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+    "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+    "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -971,4 +971,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-27T16:19:50.086Z';
+export const dataFetchedAt = '2026-09-27T20:48:17.765Z';
