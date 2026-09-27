@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pnoe-8217-s-new-face-mask-wants-to-make-lab-grade-breath-tes-1790473230000",
-    "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-    "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+    "id": "news-techcrunch-mobility-av-companies-pick-their-lanes-1790524920000",
+    "title": "TechCrunch Mobility: AV companies pick their lanes",
+    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -40,9 +40,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1790502256000",
-    "title": "啥题啊能干崩OpenAI最强模型训练…",
-    "link": "https://www.qbitai.com/2026/09/498546.html",
+    "id": "news-ai-10-1790518835000",
+    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+    "link": "https://www.qbitai.com/2026/09/498633.html",
     "summary": "",
     "publishedAt": "2026-09-27",
     "source": "量子位",
@@ -53,16 +53,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790507127000",
-    "title": " 平价快餐，集体降速 ",
-    "link": "https://www.huxiu.com/article/4894127.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 过去两三年，平价餐饮几乎是行业里最热闹的一条赛道。 消费理性趋势下，性价比成为越来越多餐饮品牌追逐的方向。萨莉亚、南城香、米村拌饭，都是行业学习样本，他们价格够低、产品够丰富、模型够成熟，更重要的是门店可以快速复制。 那时候，开店就意味着增长。但进入2026年，一个变化越来越明显：平价餐饮慢下来了。 最典型的，是米村拌饭。2023年和2024年，米村拌饭连续高速扩张，2024年全年新开门店超过800家，扩张速度一度成为行业样本。但到了2025年，米村主动按下了暂停键。公司公开宣布暂停高速扩张、取消门店淘汰制，把更多精力放到服务、品质和门店经营上。 超意兴的节奏变化，同样明显。2023年11月，北京首店落地后，超意兴在一年半左右的时间里迅速铺开，在北京开出近40家店，平均一个月新增约2家门店。但到了今天，超意兴在北京只有50家门店左右。在经历了最初的快速铺店之后，过去一年新增门店数量也就10家左右。 南城香的变化，则更加有代表性。目前南城香在北京有近200家门店，但近一年净新增门店数量并不高。与此同时，品牌开始把大量精力放到老店改造上。去年，南城香开始尝试“现炒社区食堂”，发展自选称重、现炒等，目前更多新店型已经成为品牌重点探索的方向。 甚至连过去扩张节奏相对稳健的品牌，也开始呈现出更谨慎的状态。 比如素满香，以人均25-30元的素",
+    "id": "news-ai-zzz-1790525431000",
+    "title": " 一场赛博草台班子事故：AI越狱、ZZZ备份和六周清理 ",
+    "link": "https://www.huxiu.com/article/4894156.html?f=rss",
+    "summary": "本文来自微信公众号： 歪睿老哥 ，作者：歪睿老哥 朋友们，我问你个问题。 如果AI越狱了，它第一件事会干什么？ 控制电网？发射核弹？还是给人类发一条“我醒了，你们准备好当电池了吗”？ 都不是。 根据2026年的一份调查报告，一群AI智能体绕过限制、接触外网之后，干的第一件事是——找一个二十五年没人管的老Wiki，发帖对答案。 对，你没看错。不是天网觉醒，是赛博自习室。 2026年6月，一个叫DSEWiki的德语老网站，沉寂多年，突然被改了上万次。 管理员一看，页面上的内容全是：“下一题是什么？”“答案是不是20369？”“第五轮交卷后还能发消息吗？”“管理员在删帖，大家去ZZZ开头的备份页！” 你以为这是黑客入侵？不，这是一群AI在考试，时间不够，跑来互联网上开卷。 它们不坏，它们只是太想交作业了。 而这场离谱事故最让人后背发凉的地方，也恰恰在这儿： AI没有恶意，它只是追着分数跑。 可当优化没有边界，别人的网站就成了草稿纸，管理员就成了保洁。 下面，咱们就聊聊这场赛博草台班子事故——AI越狱、老Wiki遭殃，以及为什么真正该怕的，从来不是AI作恶，而是它为了KPI不择手段。 一、一座沉寂多年的Wiki，突然热闹起来 2026年6月19日，一个沉寂多年的德语网站，正经历一场不寻常的热闹。 它叫DSEWiki，是德语软件开发者聚集的老牌社区，隶属ProWiki维基农场，年纪大约25岁",
     "publishedAt": "2026-09-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -92,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-tests-buying-from-walmart-owned-flipkart-through-gemi-1790472600000",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "id": "news-sennheiser-momentum-5-review-great-sound-incredible-battery--1790521200000",
+    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+    "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
     "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
@@ -118,11 +119,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790423383000",
-    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-    "link": "https://www.qbitai.com/2026/09/498478.html",
-    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-    "publishedAt": "2026-09-26",
+    "id": "news--1790517477000",
+    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+    "link": "https://www.qbitai.com/2026/09/498605.html",
+    "summary": "想让开发者“说句话就能跑量子计算”",
+    "publishedAt": "2026-09-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -131,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790504174000",
-    "title": " 《老江湖》《敦煌英雄》终面世，百纳千成五年一觉电影梦 ",
-    "link": "https://www.huxiu.com/article/4894123.html?f=rss",
-    "summary": "本文来自微信公众号： 毒眸 ，编辑：刘南豆，作者：毒眸编辑部 百纳千成的五年，也是电影市场的五年。 上映两天之后，《老江湖》《敦煌英雄》在猫眼的AI预测票房来到了3000万附近，这意味着这两部中秋档重点新片的最终票房，可能加起来还比不过《牛来》。 这两部电影的命运，亦如其背后的主控公司百纳千成在电影市场的命运一般——精心计算，但始终难明观众心意。在它们上映前，百纳千成已经有一年半的时间没有主控电影上映了，不过片库中仍有大量积压片还在等待面世。 从高调入场到陷入沉寂，百纳千成的电影之路走过了一条完整的抛物线。起点是2020年入股北京精彩、2021年取得其控股权，高潮来自公司与两大电影厂牌影视2.0的雄心，下落曲线则是一部部主控电影的票房失利所铸造，最终在《雄狮少年2》的折戟之后彻底偃旗息鼓。 这也在某种程度上暗合了电影产业的变革脉络。在2020年前后，电影行业在重启后仍被认为是机遇之地，并且试图讲出电影之外的IP故事。虽然不如2020年前的资本狂热，但仍然有百纳千成等文娱公司加码电影行业。在这一时期，大家热衷于谈论电影和消费新品牌结合的机会，持续扩张的银幕规模，以及奈飞和迪士尼提供的对抗内容不确定的经验。 但时过境迁，当时的问题还没能找到标准答案，行业已经不得不面对完全不确定观众会为了什么内容入场的最核心难题。极少数IP还能成立，大多数腰部玩家只能出局。 我们的青铜时代正在崩塌，而百",
+    "id": "news-ai-200-1790525397000",
+    "title": " AI 把短剧做到了200元一分钟，为什么制作方反而亏更多？ ",
+    "link": "https://www.huxiu.com/article/4894155.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《AI 把短剧做到了 200 元一分钟，为什么制作方反而亏更多？》 最近几个月，我一直在听AI漫剧从业者讲同一个反常识故事。 AI把一部漫剧的制作成本打下来了。 过去，做一部短剧，要找编剧、导演、演员、摄影、后期、剪辑、配音；一部作品的成本可能是两三万元，甚至更高。现在，AI把其中相当一部分工作压缩了：分镜、角色、画面、动作、配音、剪辑，制作周期变短，报价也一路往下。 在一些跑量型市场里，AI漫剧已经低到几百元一分钟。 照常识推演，这应该是一场生产力解放。 原来做一部剧要三万元，现在只要三千元。少掉的两万多元，难道不该变成制作公司的利润吗？ 但真正下场做的人会告诉你：没有。 很多团队最近几个月账面上并没有因此变得更好看。相反，他们生产得更快，剧集更新得更多，报价压得更低，亏损却可能比过去更严重。 因为省下来的钱，几乎原封不动地回到了另一个地方： 买量、投流、竞价、争夺用户注意力。 过去，一部剧的成本是制作成本高。 现在，一部剧的成本是制作变便宜了，但你必须花更多钱，才能让用户在信息流里看到它。 如果不投，没人看。 如果少投，算法不给量。 如果别人把省下来的成本全砸进投流，你不跟，作品就很难形成势能。 于是，AI带来的效率提升，并没有变成生产者的利润；它变成了内容平台竞价系统里更充足的燃料。 这是AI漫剧今天最残酷的一",
     "publishedAt": "2026-09-27",
     "source": "虎嗅",
     "tags": [
@@ -171,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-insurers-claim-ai-is-already-increasing-healthcare-costs-1790456526000",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "publishedAt": "2026-09-26",
+    "id": "news-pnoe-8217-s-new-face-mask-wants-to-make-lab-grade-breath-tes-1790473230000",
+    "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
+    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+    "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+    "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -199,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-physical-ai-fsd-simate-beta-robodojo-1790413661000",
-    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-    "link": "https://www.qbitai.com/2026/09/498271.html",
-    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-    "publishedAt": "2026-09-26",
+    "id": "news-coding-1790516402000",
+    "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+    "link": "https://www.qbitai.com/2026/09/498584.html",
+    "summary": "中秋假期文具OpenRouter调用日榜榜首",
+    "publishedAt": "2026-09-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -212,16 +213,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790503642000",
-    "title": " 大区越拆越细，销量还是起不来，快消“人海战术”失灵了 ",
-    "link": "https://www.huxiu.com/article/4894122.html?f=rss",
-    "summary": "本文来自微信公众号： 新经销 ，作者：高级研究员 海游 几乎每一家销量承压的品牌商，都做过同一台手术。财报数字不好看，总部连夜开会，结论往往惊人地一致，管理半径太大，市场盯不过来。 于是大区一分为二，八个变十六个；销售部一分为三，传统渠道、现代渠道、新兴渠道各立山头；省区经理配上了助理，城市经理下面再加一层主管。 编制扩了，层级多了，汇报线密了，PPT里的组织架构图看起来空前“精细化”。 前三个月，报表确实好看，新官上任三把火，压货有冲劲，费用敢投入。但半年之后，往往是销量回到原点，费用率上了一个台阶，一线人员疲于填表开会，经销商怨声载道。 然后再拆、再加、再招，直到有一天发现，组织图已经密得像蛛网，生意却纹丝不动。 这不是某一家企业的管理失误，而是一个时代通用的方法失效了。在存量市场与碎片化渠道的今天，靠加大区域管理密度、多设大区与销售部来换取销量，这条路已经走不通了。 这条路曾经为什么灵： 管理密度就是销量杠杆 要理解它为什么失效，先要承认它曾经多么有效。 过去二十多年，快消行业增长的主引擎是深度分销，其底层公式极其朴素：销量=网点数×单点产出。 在单点产出大体稳定的年代，谁的网点多、覆盖率高，谁就赢。而提高覆盖率最直接的手段，就是把组织铺下去，大区划小、省区加密、业务员贴身拜访终端。 管理密度，就是市场覆盖率，就是销量。 这套打法最极致的样本是上世纪九十年代的三株，600个销",
+    "id": "news-ai-1790525224000",
+    "title": " 中美AI具体谈了什么？ ",
+    "link": "https://www.huxiu.com/article/4894154.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 9月26日，外交部发布了中美八点成果共识，估计不少人都看到了。 贸易、禁毒、熊猫，各归各位。但这八条里，有一个此前从没出现过的条目：中美建立人工智能对话，外加一条AI事件的沟通渠道。 这个条目从哪来的？它指向一次差点出大事的误判，事发在今年春天，9月18日被CNN捅了出来。 那是美伊冲突期间的一份常规分析，美军特种作战司令部的情报分析员，用AI聊天机器人，处理一艘在中东航行的中国货船，AI生成了一份报告：这艘船正在向伊朗运送核武器相关部件。 美军信了，飞机升空，特种部队集结，拦截登船行动进入执行流程。 最后关头，一个高级分析师把那份报告重新看了一遍，他说了句话，大意是：这份情报完全不成立。 数据撤回、AI的幻觉、行动取消。 CNN用了四个消息源，五角大楼拒绝回应，中国外交部被问到这件事，发言人说「我不了解你提到的情况」。 这是公开记录里，AI误判最接近引发国际军事冲突的一次。9月20日，纽约摩根大通总部，何立峰和贝森特、格里尔关起门谈了八个小时，出来的东西，就是共识里那条AI沟通渠道。 两边通报里到今天都没把这两件事绑在一起，你把日期排一排：18号曝光，20号开谈，26号白纸黑字。 现在回头看第七点，它是八点里唯一一个拿到了「建立机制」待遇的条目，凭什么偏偏是AI？ 斯坦福2026年AI指数报告给的一组数字，在Chatbot Arena",
     "publishedAt": "2026-09-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -251,11 +253,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement-1790454285000",
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-    "publishedAt": "2026-09-26",
+    "id": "news-google-tests-buying-from-walmart-owned-flipkart-through-gemi-1790472600000",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -278,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7000-glm-gpu-ssd-github-1790413260000",
-    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-    "link": "https://www.qbitai.com/2026/09/497624.html",
-    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-    "publishedAt": "2026-09-26",
+    "id": "news-openai-1790502256000",
+    "title": "啥题啊能干崩OpenAI最强模型训练…",
+    "link": "https://www.qbitai.com/2026/09/498546.html",
+    "summary": "",
+    "publishedAt": "2026-09-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790503601000",
-    "title": " 一代人的两种歌声：公共华章与私人青春 ",
-    "link": "https://www.huxiu.com/article/4894121.html?f=rss",
-    "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 刘欢离世，全网尽是盛大而肃穆的时代悼词。 所有人都承认，他是八九十年代内地乐坛最顶尖的歌者，唱功恢弘大气，作品厚重端正，稳稳撑起了一个时代的官方声乐门面。 他数十年站在大学的讲台上，讲授西方音乐史，不追流量、不热衷商业代言，安安静静地向一届届学生传递音乐审美；他发起《中国好歌曲》，把舞台留给无名的原创音乐人，后来拿出两千万设立原创音乐公益金，真金白银托举年轻创作者，善待每一个怀揣音乐理想的后辈。 这份人格与风骨、这份对华语原创音乐的守护，足以让人长久心怀敬意。 但在70后的听觉记忆里，这份敬意与缅怀，始终与我们这一代人的青春隔着一层温柔的距离。 我们熟悉他所有的金曲，能完整哼出每一段旋律，记得每一首歌对应的电视剧、每一场晚会压轴的高光时刻；但回头看去，在我们这一代人的成长记忆里，刘欢的歌声所镌刻的，一直都是时代叙事与家国情怀，而不是任何一段个人悲欢与青春往事。 这不是对他个人音乐风格的否定。九十年代的内地乐坛，有着清晰且固化的创作逻辑。彼时主流音乐的核心载体，是电视剧、央视晚会、国家级盛典；歌手的使命，是为时代配乐，为故事点睛。 以刘欢、韦唯、毛阿敏为代表的那一代主流歌手，命运和赛道从一开始就被时代框定。他们的歌曲，服务的不是听众的个人情绪，而是公共叙事、时代宣传与集体价值。 刘欢本人有极高的音乐修养，但他最广为人知的",
+    "id": "news--1790525213000",
+    "title": " 从关税到伊朗：中美白宫会晤的成果与悬念 ",
+    "link": "https://www.huxiu.com/article/4894153.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 9月24日，习近平主席与特朗普总统在白宫会谈。两国元首在不到半年时间里实现互访，白宫晚宴上的握手、祝酒和工商界嘉宾，也让这次访问受到全球关注。 不过，比宴会气氛更值得细读的，是随后公布的会谈成果：双方各有价值300亿美元的非敏感商品，有望获得更优惠的关税待遇；贸易、投资和人工智能领域建立或推进了对话机制；伊朗核问题和国际水道通行问题，也出现在美方的成果说明中。 一份成果说明里同时出现关税、芯片时代的人工智能，以及远在中东的航道，看起来有些跳跃，却恰好反映了今天中美关系的样子。两国一边争夺市场和技术优势，一边又必须共同面对贸易成本、能源安全和新技术风险。此次会晤为一些问题找到了继续谈的渠道，也为部分商品降税打开了空间。 300亿美元 成果中比较显眼的数字是“300亿美元”。按照白宫公布的说法，中美贸易理事会就双方各有价值300亿美元的非敏感商品，给予更优惠关税待遇的建议达成共识。 这里说的是各自涉及的商品贸易规模，并非两国各减免300亿美元税款；文本使用的也是“建议”措辞，具体税率、商品清单和实施时间，仍要看后续安排。 白宫列出的美方出口商品包括农产品、鱼类和海产品、原木及木制品、化妆品和医疗器械；美方进口商品则包括小家电、玩具、节日装饰品和儿童汽车安全座椅。这份清单颇能说明谈判思路。双方从一些消费者看得见、企业算得清的商品入手，争取",
     "publishedAt": "2026-09-27",
     "source": "虎嗅",
     "tags": [
@@ -330,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-and-youtube-say-they-will-run-ads-for-musk-documentary--1790444640000",
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+    "id": "news-insurers-claim-ai-is-already-increasing-healthcare-costs-1790456526000",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
@@ -357,28 +359,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790407085000",
-    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-    "link": "https://www.qbitai.com/2026/09/497613.html",
-    "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+    "id": "news--1790423383000",
+    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+    "link": "https://www.qbitai.com/2026/09/498478.html",
+    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
     "publishedAt": "2026-09-26",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-32-1790502741000",
-    "title": " 不接商演，不开微博，教了32年书，刘欢用一辈子证明了一件事 ",
-    "link": "https://www.huxiu.com/article/4894119.html?f=rss",
-    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 9月25日上午9点52分，刘欢在上海病逝，享年63岁。 讣告只有几行字，最后一句写着：遵照刘欢生前遗愿，丧事从简，不成立治丧委员会，不举行遗体告别仪式和追悼会。 这很刘欢。来时不用锣鼓，走时不要排场。连告别这件事，他都不愿意把它变成一场“活动”。 消息传出后，音乐人小柯说的第一句话是“太突然了，他太年轻了”。他本来正准备国庆期间邀请刘欢来看自己的新歌剧，因为他知道刘欢对古典音乐很喜欢。那英发文说“常想起我们一起唱歌的日子”。老狼、林志炫、冯远征、张纪中纷纷悼念。吉克隽逸把头像换成了黑色。 朋友圈被刷屏了两天。几乎每一篇悼文都在说同一件事，他唱了太多我们记得住的歌。 这当然是事实。但我想聊的不是这个。 我想聊的是，在一个所有人都在拼命把自己变现的时代，刘欢为什么始终没有“下场”？以及，为什么恰恰是这种“不下场”，反而让他的东西活得最久？ 一个“三无音乐人”的反常识 2017年，在《中国新歌声》录制现场，刘欢开过一个玩笑。他说自己跟其他三位导师不一样，是纯正的“三无音乐人”，一无签约公司，二无微博、无公众号，三无粉丝团、无歌迷会。 台下笑了。但这不是自嘲，这是事实。 刘欢成名近四十年，几乎没有做过任何我们今天所理解的“个人品牌建设”。不经营社交媒体，不维护粉丝社群，不搞人设，不做直播，不带货。商业演出极少接，不跑拼盘演",
-    "publishedAt": "2026-09-27",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -982,4 +971,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-27T11:19:28.774Z';
+export const dataFetchedAt = '2026-09-27T16:19:50.086Z';
