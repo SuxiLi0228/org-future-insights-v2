@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement-1790454285000",
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-    "publishedAt": "2026-09-26",
+    "id": "news-pnoe-8217-s-new-face-mask-wants-to-make-lab-grade-breath-tes-1790473230000",
+    "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
+    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+    "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+    "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -53,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-3-1790438827000",
-    "title": " 2.3万家健身房关门了，乐刻还嫌自己跑得慢 ",
-    "link": "https://www.huxiu.com/article/4893861.html?f=rss",
-    "summary": "出品｜虎嗅商业消费组 作者｜李佳琪 编辑｜苗正卿 题图｜乐刻运动 北京东四环芳圆里ID MALL四层西北角，一扇玻璃门后面是1000平米的健身场地。 诺德士器械整齐排列，有氧区23台设备涵盖跑步机、登山机、爬楼机、滑雪仪、滑水机、雪橇机，力量区40台器械，哑铃最重到40公斤。前台没有推销办卡的小哥，扫码进门，智能柜自动分配，淋浴间干湿分离。 这是乐刻旗下高端品牌Recore无限核子的门店。月卡499元，私教课300元一节，12次起购。&ldquo;如果买包月套餐，3090元15次课还送30天场地卡，算下来一节课172块钱&rdquo;。门店经理很笃定地告诉虎嗅，&ldquo;这是市场上最理性的价格，传统商业俱乐部同样的课成交价在450到600之间。&rdquo; RECORE芳圆里门店 三年前，乐刻的标签还是300平米小店、月付制、24小时。那时乐刻讲的故事是：一公里健身圈，把健身房开成便利店。 现在这家店，1000平米、月卡卖到499元、教练上课要给用户拍视频录像做反馈、用户画像集中在30到40岁&hellip;&hellip;这看起来一点也不&ldquo;便利店&rdquo;。 但乐刻运动联合创始人夏东不觉得矛盾。&ldquo;乐刻健身的核心逻辑是一公里、有性价比、提供丰富品类、效率最高，它不包含一定要300平米。&rdquo;夏东告诉虎嗅，&ldquo;渗透率提高了，用户进阶",
-    "publishedAt": "2026-09-26",
+    "id": "news--1790479029000",
+    "title": " 刘欢走了，但他为原创音乐留了一盏灯 ",
+    "link": "https://www.huxiu.com/article/4894094.html?f=rss",
+    "summary": "本文来自微信公众号： 文娱先声 ，作者：先声编辑部 9月26日，对外经济贸易大学发布讣告：刘欢于9月25日上午9时52分在上海病逝，享年63岁。 一个陪伴中国人近四十年的声音，就此停了下来。 人们当然会想起《弯弯的月亮》《好汉歌》《从头再来》，想起《北京人在纽约》《甄嬛传》，也会想起2008年北京奥运会开幕式上，他与莎拉·布莱曼共同唱起《我和你》。从电视剧、晚会到国家级舞台，这些作品让刘欢成为中国流行音乐史上少有的“国民歌手”。但如果只从这些代表作去理解刘欢，可能还不足以解释他的行业位置。 他身上还有另外一条持续了很多年的线索：原创音乐。 从策划推出原创音综《中国好歌曲》，到吉克隽逸、赵雷、霍尊、刘胡轶、涂议嘉等年轻音乐人，再到后来个人捐资2000万元发起“刘欢原创音乐公益金”，刘欢一直在做一件看起来没有那么“明星”的事情——把自己的资源、行业影响力和舞台，交给那些尚未站到聚光灯中央的人。 在今天回望刘欢，值得被记住的不只是一个国民歌手，还有一个一直在试图为中国原创音乐留下空间的人。 01 “救救中国原创音乐” 刘欢一直心怀对于原创音乐的忧虑。 2018年底，《歌手2019》公布首发阵容。已经多年鲜少参加综艺的刘欢接受邀请，一个重要原因就是原创音乐。当时他直言，随着唱片工业滑坡，原创音乐已经到了“危急时刻”，所以自己的想法就是：“救救原创音乐。” 他还说，公益金未来要寻找的音乐人“",
+    "publishedAt": "2026-09-27",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -66,11 +66,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790416516000",
-    "title": "外国人来华科技游，看见了什么？",
-    "link": "https://www.tmtpost.com/8153087.html",
-    "summary": "外国人，推开中国工厂的门。",
-    "publishedAt": "2026-09-26",
+    "id": "news-14-1790474253000",
+    "title": "星舰第14飞，为什么准备绕地球六圈？",
+    "link": "https://www.tmtpost.com/8153306.html",
+    "summary": "六圈没有魔力，近10小时才是第14飞的关键。",
+    "publishedAt": "2026-09-27",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -92,11 +92,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-and-youtube-say-they-will-run-ads-for-musk-documentary--1790444640000",
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-    "publishedAt": "2026-09-26",
+    "id": "news-google-tests-buying-from-walmart-owned-flipkart-through-gemi-1790472600000",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "publishedAt": "2026-09-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -131,11 +131,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790416505000",
-    "title": "谷歌，准备升空",
-    "link": "https://www.tmtpost.com/8153088.html",
-    "summary": "皮查伊亲自官宣，谷歌10月1日要把TPU送上轨道",
-    "publishedAt": "2026-09-26",
+    "id": "news-ai-1790478580000",
+    "title": " 如何与亲人告别，是AI 也学不会的人生课题 ",
+    "link": "https://www.huxiu.com/article/4894091.html?f=rss",
+    "summary": "本文来自微信公众号： 温度纪 ，作者：温度纪，编辑：路子甲 秋天是告别的季节，而最近一段时间，人们似乎比往常更频繁地面对离开的消息。有些名字属于公众人物，有些只是每个人生活里的父亲、母亲、伴侣、朋友。 离别从来不是新闻里的一个日期。真正漫长的，是消息过去以后，活着的人如何继续生活。 而AI正在试图进入这件事。 AI的出现让我们不再满足于保存一个人的声音和面孔，而是开始利用照片、语音和聊天记录，试着让逝去的人重新“开口”，甚至回应那些还活着的人。 想用代码和算法，留住再也回不来的人，也算是一种快社会里的慢灵魂。就像小说《弗兰肯斯坦》告诉我们的那样，征服死亡、战胜失去，是人类永恒的执念。 从2023年开始，越来越多普通人开始尝试用AI“复活”亲人。演员包小柏为离世的女儿重建“数字生命”，后来，宛在AI、2wai这样的产品又把这种能力变成普通人也能接触到的服务。 音乐人包小柏用AI复活女儿 技术让“留下一个人”变得越来越容易。 但当一个人可以被重新看见、重新听见，甚至重新和我们说话，我们真的会因此更容易告别吗？ 只要一时拥有，不必天长地久 有人说“亲人的离去不是疾风骤雨，而是一生的潮湿”。人已逝去，留给生者的痛却是无法抹平的。 活着的人究竟能做店什么，博主阿墨在一次次实践中找到了自己的答案。 阿墨最初在抖音发AI教学视频，像那些靠AI变现的博主一样，教大家用Midjourney生成图片、",
+    "publishedAt": "2026-09-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-robotaxi-1790468696000",
+    "title": "特斯拉，是Robotaxi的救星吗？",
+    "link": "https://www.tmtpost.com/8153223.html",
+    "summary": "低成本只是第一关。",
+    "publishedAt": "2026-09-27",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -157,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-levoit-8217-s-new-air-purifier-is-for-the-pet-odors-that-hav-1790442000000",
-    "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
-    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-    "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+    "id": "news-insurers-claim-ai-is-already-increasing-healthcare-costs-1790456526000",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
@@ -198,11 +212,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-gemini-3-8-flash-tts-flash-lite-tts-anthropic-1790397979000",
-    "title": "【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
-    "link": "https://www.tmtpost.com/8153052.html",
-    "summary": "（9月21日~9月26日）亚马逊官宣接入Kimi K3；超聚变发布FusionServer“无极”架构；《AI原生组织转型指南》发布",
-    "publishedAt": "2026-09-26",
+    "id": "news-pcb-293-ai-1790478549000",
+    "title": " PCB行业定增潮：293亿元投向AI，扩产新周期开启 ",
+    "link": "https://www.huxiu.com/article/4894090.html?f=rss",
+    "summary": "本文来自微信公众号： 证券市场周刊 ，编辑：承承，作者：本刊 2026年以来，PCB行业掀起史无前例的定增扩产热潮，总规模是2025年全年的4.52倍。 2026年以来至9月20日，印刷电路板（PCB）行业掀起定增扩产热潮。据不完全统计，年内已有13家PCB公司披露定增预案或完成定增，合计募资规模约293.10亿元，是2025年全年定增规模的4.52倍。 从鹏鼎控股96亿元、深南电路43.67亿元到兴森科技39亿元，头部企业几乎将全部身家押注AI算力方向——AI服务器、高速光模块、高阶HDI、封装基板。这轮定增潮背后，是AI算力需求从“预期”到“兑现”的关键拐点，也是PCB行业开启高端化扩产新周期的标志性事件。 PCB公司定增规模创新高 293亿元集中投向人工智能高端产能 据Wind统计，截至9月20日，申万PCB行业年内宣布或完成定增的公司数量达到13家，定增规模达293.10亿元。其中，发布增发预案的公司有10家，预计募集资金总额达245.71亿元；增发实施公司3家，募集资金总额约47.38亿元（见表1、表2）。 对比2025年全年，今年以来PCB行业定增公司数量和募资规模均“创新高”。2025年，PCB行业内的科翔股份、胜宏科技、东山精密完成定增，定增募集资金合计35.91亿元；发布定增预案公司（剔除停止实施公司）3家，预计募集资金规模合计29.00亿元。两者合计的定增规模为",
+    "publishedAt": "2026-09-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790468622000",
+    "title": "从“价格战”到“品质战”，餐饮品牌下半场拼什么？",
+    "link": "https://www.tmtpost.com/8152641.html",
+    "summary": "品牌力的持续积累与行业共识的不断凝聚，将为餐饮行业的高质量发展注入持久动力。",
+    "publishedAt": "2026-09-27",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -224,17 +252,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-created-an-interactive-digital-avatar-of-myself-and-you-ca-1790431200000",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "id": "news-tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement-1790454285000",
+    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -265,10 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-8-1790397266000",
-    "title": "从买东西到买体验：为什么4个周末替代不了一个8天长假？",
-    "link": "https://www.tmtpost.com/8153043.html",
-    "summary": "“请3休13”带火长线旅行，背后不只是拼假技巧。随着服务消费占比接近一半，越来越多消费需要消费者本人到场、停留和参与。钱可以储存，时间却很难跨日期合并。四个周末和一个八天长假总量相同，却对应着完全不同的消费边界。",
+    "id": "news-ai-1790478304000",
+    "title": " 王川: 让刺破AI 泡沫的加息风暴来得更猛烈些吧 ",
+    "link": "https://www.huxiu.com/article/4894089.html?f=rss",
+    "summary": "本文来自微信公众号： investguru ，作者：硅谷王川，原文标题：《王川: 让刺破 AI 泡沫的加息风暴来得更猛烈些吧》 1/在2023年四月的一篇老文章里， 王川:从chatGPT看人工智能的投资机会和风险 对于AI投资的展望，笔者写过这样一段话： “OpenAI上市，早期风投获得超过100倍的回报。早期风投出去筹集新的巨额基金；机构投资者涌入，担心错过良机。更多与AI相关的公司得到资助，尤其是基础设施公司。 估值模型逐渐变得基于恐惧（错过的恐惧、被竞争对手收购的恐惧、显得愚蠢的恐惧）的凭空捏造，而非基于现金流的现实贴现值的合理计算。 追逐趋势的操盘法一段时间内很赚钱，保守行事的人一开始看起来相当愚蠢。 风投可以根据私有市场中虚幻或不可持续的估值，对外炫耀高的内部收益率IRR，从幼稚的投资者那里筹集更多资金。 然后美联储降低利率，更多的热钱涌入。潮水涨起，所有的船只都随之上升。有一段时间，每个人都赚了很多钱。 LLM、芯片制造商、晶圆厂、设备供应商、风投、分析师、AI公司员工。任何未将其投资收益重新投入AI相关股票的人，与这样做的人相比，会觉得自己非常愚蠢。 在泡沫的顶峰，做空股票泡沫的对冲基金将遭受重创。 一直对泡沫持谨慎态度，但在五年内一直错误的分析师，在顶峰时改变观点，变得乐观。... 然后美联储收紧。然后一切都垮了。” 2/时光荏苒，转眼就到了2026年九月底。就在",
+    "publishedAt": "2026-09-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-9-27-1790467080000",
+    "title": "Edge AI Daily 早报（9月27日）",
+    "link": "https://www.tmtpost.com/8153235.html",
+    "summary": "OpenAI发布持久化智能体“o”对抗Meta Muse等；英伟达SoL-Pi使编码Agent Token消耗减半，AI诊断专利降低GPU调试门槛；Akamai与Anthropic签署116亿美元七年协议，分布式CPU支撑推理负载；微软Excel打破40年单值铁律，多值单元格为AI Copilot铺路；牛津与OpenAI合作遭内部担忧，暴露数据伦理争议。",
     "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
@@ -291,17 +332,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-meta-connect-the-company-8217-s-smart-glasses-were-everyw-1790384937000",
-    "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "id": "news-meta-and-youtube-say-they-will-run-ads-for-musk-documentary--1790444640000",
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
     "publishedAt": "2026-09-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -332,10 +372,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1790397076000",
-    "title": "山姆没有捷径，中国零售平台集体追赶30%自营率",
-    "link": "https://www.tmtpost.com/8152993.html",
-    "summary": "一种从经营渠道进一步深入需求、商品和供应链的变化。",
+    "id": "news--1790478170000",
+    "title": " 土地财政即将退场？ ",
+    "link": "https://www.huxiu.com/article/4894088.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：杜涛 中国进入了存量房时代。同样，作为流量、增量时代产物的“土地财政”，也必然面临边际收益递减的挑战。所以，适应存量时代的客观要求，研究从“土地财政”向“房地产财政”转型也是时代命题。 9月18日，财政部公布了2026年1—8月的财政收支情况。一般公共预算收入15.66万亿元，同比增长5.7%，税收收入增长6.6%，证券交易印花税更是大增82%。但是，政府性基金预算数据显示的是另一幅景象：1—8月，国有土地使用权出让收入13753亿元，同比下降28.6%。 今年1月底，财政部公布的2025年全年数据显示，土地出让收入41518亿元，同比下降14.7%，较2024年16%的降幅已经收窄，当时不少市场机构预计，2026年降幅有望继续收窄。但是，八个月过去，降幅接近翻倍；上半年，同比下降约30%。 一位东部县财政部门负责人告诉记者，今年土地出让收入持续下滑，主要是两个因素：一是国企“拍地”越来越受到相关部门的制约和监管；二是制度层面也有变化，比如38号文就要求新增建设用地原则上不用于经营性房地产开发。 38号文是指今年3月5日，自然资源部、国家林业和草原局联合印发的《关于进一步做好自然资源要素保障的通知》，其中对新增建设用地提出了全新的约束和要求。 多位县区财政部门人士以及专家，都清晰感觉到“土地财政”可能迎来根本性变化。 辽宁大学地方财政研究院",
+    "publishedAt": "2026-09-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790416516000",
+    "title": "外国人来华科技游，看见了什么？",
+    "link": "https://www.tmtpost.com/8153087.html",
+    "summary": "外国人，推开中国工厂的门。",
     "publishedAt": "2026-09-26",
     "source": "钛媒体",
     "tags": [
@@ -863,21 +916,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137169",
-    "title": "Programmatic Campaign Operations Specialist Trader",
-    "company": "VirtuHire",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Location: South Africa – Remote Hours: 14:00–23:00 SAST, Monday–Friday, aligned with U.S"
-    ],
-    "skills": [],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-    "postedAt": "2026-08-27",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1137155",
     "title": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
     "company": "Tessera Labs",
@@ -946,4 +984,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-26T20:36:30.419Z';
+export const dataFetchedAt = '2026-09-27T03:27:35.320Z';
