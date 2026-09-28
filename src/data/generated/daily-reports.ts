@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-09-29-auto",
+    "date": "2026-09-29",
+    "session": "auto",
+    "title": "2026-09-29 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-09-29-auto-1",
+        "emoji": "💡",
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+        "detail": "来源: MIT Technology Review。Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+      },
+      {
+        "id": "sig-2026-09-29-auto-2",
+        "emoji": "⚠️",
+        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+        "detail": "来源: TechCrunch。The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+      },
+      {
+        "id": "sig-2026-09-29-auto-3",
+        "emoji": "💡",
+        "title": "Insurers say AI could add billions in health costs. Billing companies disagree.",
+        "summary": "When payers shell out more for care, premiums increase and those costs cascade to employers and patients.",
+        "detail": "来源: HR Dive。When payers shell out more for care, premiums increase and those costs cascade to employers and patients.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/insurers-say-ai-could-add-billions-in-health-costs-billing-companies-disag/831530/"
+      },
+      {
+        "id": "sig-2026-09-29-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Learning to Stop without Learning to Stop: Self-Supervised C...",
+        "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me",
+        "detail": "作者: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe。Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \\textit{confidence}. Using a self-supervised procedure, we fine-tune reasoning models to predict their confidence in the answer at intermediate points along their own reasoning trajectories using only 600 training problems. Confidence is used only as a training target: the loss contains no objective for reasoning length, efficiency, or stopping. At inference, ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.31619v1"
+      },
+      {
+        "id": "sig-2026-09-29-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-09-29-1",
+        "priority": "low",
+        "action": "关注「Roundtables: The Deadly Failures of The 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-09-29-2",
+        "priority": "medium",
+        "action": "关注「Source: Inference provider Modal Labs cl」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-09-29-3",
+        "priority": "low",
+        "action": "关注「Insurers say AI could add billions in he」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-09-29-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Learning to Stop without Learning t」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-09-29-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 61,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-09-29 生成，聚合了 30 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-09-29 00:00 - 2026-09-29 23:59"
+  },
+  {
     "id": "report-2026-09-28-auto",
     "date": "2026-09-28",
     "session": "auto",

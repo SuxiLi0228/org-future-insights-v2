@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-rogue-agent-liability-and-the-ai-hype-index-1790597400000",
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
     "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-1790569800000",
-    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-    "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-    "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+    "id": "news-source-inference-provider-modal-labs-closing-in-on-750m-roun-1790630958000",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "publishedAt": "2026-09-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-insurers-say-ai-could-add-billions-in-health-costs-billing-c-1790626620000",
+    "title": "Insurers say AI could add billions in health costs. Billing companies disagree.",
+    "link": "https://www.hrdive.com/news/insurers-say-ai-could-add-billions-in-health-costs-billing-companies-disag/831530/",
+    "summary": "When payers shell out more for care, premiums increase and those costs cascade to employers and patients.",
+    "publishedAt": "2026-09-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-xcelerator-1790599433000",
+    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+    "link": "https://www.qbitai.com/2026/09/498877.html",
+    "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+    "publishedAt": "2026-09-28",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-10-14-1790635435000",
+    "title": " 马斯克10年前吹的牛，试飞14次终于入轨，却只绕地球飞了两圈 ",
+    "link": "https://www.huxiu.com/article/4894427.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：跆拳道大灰狼，编辑：Steed 北京时间昨晚23时57分，星舰飞船最后一次点燃发动机减速，缓缓落在夏威夷以北的太平洋上。它是昨晚20点49分从美国得克萨斯州的星舰基地起飞的，前后只飞了3个小时左右，比原计划少了将近7个小时。 星舰在北太平洋完成水上软着陆丨SpaceX 这是星舰的第十四次试飞，也是它第一次真正进入轨道。途中，它放出了26颗V3版星链卫星。这也是星舰第一次把有效载荷送进轨道。 这一趟飞得并不完美。一级和二级在上升途中都有发动机熄火；飞船原计划在太空绕地球飞行6圈，最后只绕了不到两圈就提前返回了。 前13次试飞，SpaceX给星舰制定的飞行计划，都只让它加速到差一点就能入轨的程度，其中好几次，它还没飞到这一步就炸了。 SpaceX不让星舰入轨，是因为一艘52米长、上百吨重的不锈钢飞船，如果进了轨道却回不来，就只能拖着一身隔热瓦，在稀薄的大气里越飞越低，最后落在哪里，谁也说不准。 所以昨晚这次试飞，真正的考题在最后，也就是北京时间23点左右的离轨点火。发动机点着了，飞船开始减速，坠回大气层，星舰这才算过了关。 星舰再入地球大气层丨SpaceX 从这款火箭第一次公开算起，已经过去了整整10年。 2016年9月27日，美国太空探索技术公司（SpaceX）创始人伊隆·马斯克，在墨西哥瓜达拉哈拉的国际宇航大会（IAC）上做了压轴演讲。他公布了殖",
+    "publishedAt": "2026-09-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-35-1790603924000",
+    "title": "豪掷35亿发可转债扩产酵母蛋白，安琪酵母冲刺新增长曲线",
+    "link": "https://www.tmtpost.com/8154603.html",
+    "summary": "产能翻倍扩张，抢跑替代蛋白新赛道。",
+    "publishedAt": "2026-09-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "publishedAt": "2026-09-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-amd-will-acquire-fei-fei-li-8217-s-world-labs-for-8-2-billio-1790627973000",
+    "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
     "publishedAt": "2026-09-28",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-data-says-about-the-who-what-when-where-and-why-of-open-1790586000000",
-    "title": "What data says about the who, what, when, where and why of open enrollment education",
-    "link": "https://www.hrdive.com/spons/what-data-says-about-the-who-what-when-where-and-why-of-open-enrollment/831389/",
-    "summary": "Stop guessing this open enrollment! Use employee data to boost benefits education and engagement.",
+    "id": "news-nlrb-returns-to-first-trump-era-employee-misconduct-framewor-1790626560000",
+    "title": "NLRB returns to first Trump-era employee misconduct framework",
+    "link": "https://www.hrdive.com/news/nlrb-returns-to-first-trump-era-employee-misconduct-framework/831537/",
+    "summary": "Following a mandate from the 5th U.S. Circuit Court of Appeals, the agency applied the framework it tried to argue against in 2023.",
     "publishedAt": "2026-09-28",
     "source": "HR Dive",
     "tags": [
@@ -54,10 +134,91 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gucci-1790598945000",
-    "title": " Gucci为何开始不造梦了？ ",
-    "link": "https://www.huxiu.com/article/4894381.html?f=rss",
-    "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | Gucci为何开始不造梦了？》 这是放大版订货会，而非明星设计师的概念风暴 看过一场秀，得出Gucci究竟是否能够转身的结论，似乎已经变得毫无意义。 因为当人们无法得出直觉式的结论，说明结论还远远没有走到人们面前，更重要的是，一个简单结论无法帮助困境中的品牌走过所有的过程，尤其是在一个整体压抑低迷的奢侈品市场环境下，Gucci这般规模的大型品牌，也仍然只是一个试图突破束缚的个体。 更容易把握的，是创意掌舵者Demna的当前状态，还有他所呈现的观点，由此获得有关成功概率的判断，而创意也仅仅是其中一个环节，最终结果充满了随机性。 Gucci上周五发布了2027春夏系列，这是继2月Primavera系列后的第二个主要走秀系列，也是第三场实体走秀。 不同于第一场秀戏剧般的意大利宫殿，第二场早春秀的纽约时代广场，此次时装秀发生在一个虚拟搭建的店铺空间里。 这场秀主题为The Store Show，意为店铺秀，布景模拟了Demna与长期合作伙伴设计的新零售空间，过往系列的服装和配饰摆放在各个房间里，仿佛随时可以出售。 从景观走向零售商品空间，颇有种理想拉回现实的感觉，这与Gucci过去一年中给市场留下的印象一致。 市场曾经期待Demna大手一挥，用颠覆式创意为Gucci翻身，但是T台呈现的时装是一系列常见而惊艳",
+    "id": "news-ai-1790629274000",
+    "title": " 阿里AI的增长之谜 ",
+    "link": "https://www.huxiu.com/article/4894426.html?f=rss",
+    "summary": "本文来自微信公众号： 雪贝财经 ，作者：栖迟，原文标题：《雪贝 | 阿里AI的增长之谜》 外卖大战阶段性降温之后，云计算与AI正在成为阿里新的战略重心，这家企业已将更多战略资源与资本投入转向AI，希望加快完成从综合互联网平台向AI公司的战略转型。 阿里这一轮AI转型的进展，核心指标体现在云业务收入的持续提速上。 过去四个季度，阿里云收入增速分别达到34%、36%、38%和45%，管理层同时表示，未来几个季度增速仍有进一步提升空间，三季度同比增速有望超过50%。过去四个季度阿里云收入合计已达到1732亿元。 如果仅观察上述数据，阿里AI业务确实呈现出较快的增长势头，其提出的中长期千亿美元年收入目标，看起来也并非完全遥不可及。 但如果进一步拆解阿里云的收入结构，情况要复杂得多。 近期，行业内已有分析对阿里云收入来源进行了较为详细的拆分：按照相关测算，阿里云约四成收入来自阿里体系内部，真正来自集团外部客户的收入占比约为六成。 四成收入来自内部，意味着阿里云当前增长中，相当一部分需求来自集团体系内的业务部门及关联公司，包括淘天、高德、千问、菜鸟以及蚂蚁等客户。这类内部需求本身完全合理，也真实反映了阿里自身数字基础设施和AI算力需求的快速增长；但从集团合并报表和整体经济价值创造的角度看，内部采购更多体现为集团内部资源配置，并不能等同于来自第三方客户的新增收入。 因此，仅依据阿里云披露的整体收",
+    "publishedAt": "2026-09-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790600195000",
+    "title": "两份仲裁裁决与一场知情权强执：康辰、泰凌的密盖息交易从对赌走向对垒",
+    "link": "https://www.tmtpost.com/8154500.html",
+    "summary": "昔日共同完成9亿级重磅产品收购的交易伙伴，如今陷入一方申请民事强制执行、一方手握仲裁裁决待追偿的对峙局面。",
+    "publishedAt": "2026-09-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-rogue-agent-liability-and-the-ai-hype-index-1790597400000",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "publishedAt": "2026-09-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-shopify-opens-checkout-to-browser-based-ai-agents-1790624037000",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "publishedAt": "2026-09-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-eeoc-seeks-subpoena-enforcement-against-hyundai-over-alleged-1790626560000",
+    "title": "EEOC seeks subpoena enforcement against Hyundai over alleged refusal to hire non-Koreans",
+    "link": "https://www.hrdive.com/news/eeoc-seeks-subpoena-enforcement-against-hyundai-non-korean-bias-probe/831546/",
+    "summary": "The filing comes at the same time that the commission has made national origin discrimination a prominent part of its regulatory agenda.",
+    "publishedAt": "2026-09-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-10-1790518835000",
+    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+    "link": "https://www.qbitai.com/2026/09/498633.html",
+    "summary": "",
+    "publishedAt": "2026-09-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-60cm-9-1200-1790612425000",
+    "title": " 60cm长蛋挞9月卖出超1200万根，谁在赚钱？能红多久？ ",
+    "link": "https://www.huxiu.com/article/4894421.html?f=rss",
+    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 “是谁还没收到对象送的超长蛋挞？”九月的社交平台上，这句话和往年的“秋天第一杯奶茶”一样，成了一道情感命题。 近期，60cm超长蛋挞成了烘焙界的顶流新品。消费者们的晒照打卡刷屏了社交媒体，#超长长长长长蛋挞测评来了##请你吃超长长长长长长蛋挞#等相关话题冲上抖音种草热点榜。 图源小红书网友 据抖音生活服务平台数据，超长蛋挞9月已在抖音卖出1200万根，相关话题累计在榜曝光量突破10亿。截至9月28日，平台上超长蛋挞支付GMV已破2亿。 热闹是真的，但超长蛋挞的剧本，过去几年已经演过太多遍。脏脏包、草莓塔、黄油年糕、奶皮子糖葫芦，每一个都曾让街头排起长队，却又几乎都在几个月内消失在菜单上。 超长蛋挞凭什么爆红，谁在这波热度里真正赚到了钱，它还能红多久？这是我们想聊清楚的三件事。 这款蛋挞的走红源头是河南本地的一家烘焙连锁品牌——大豫人家。 在抖音本地生活榜单上，大豫人家（郑州百年德化店）直接拿下了甜点榜人气值第一名。截至发稿，大豫人家的超长蛋挞抖音团购销量已经冲到了90万+。 据店员透露，门店的单日出货量可高达2000多根，三台烤箱从早烤到晚不停歇，由于前来的消费者太多，不得不实行每人限购5根的政策。 紧随其后的，是鲍师傅、泸溪河、东更道、酥侯糕点、仟吉等几十家知名烘焙连锁品牌。剁椒Spicy观察发现，在超长蛋挞热度暴涨的一周内",
     "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
@@ -93,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-s-ceo-is-about-to-have-dinner-with-president-trump-1790541268000",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "publishedAt": "2026-09-27",
+    "id": "news-tesla-delays-roadster-2-event-again-due-to-bad-weather-1790623647000",
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+    "publishedAt": "2026-09-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -106,23 +267,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cms-and-sba-rebrand-ichra-as-choice-arrangements-here-s-what-1790586000000",
-    "title": "CMS and SBA rebrand ICHRA as CHOICE Arrangements: Here’s what you need to know",
-    "link": "https://www.hrdive.com/spons/cms-and-sba-rebrand-ichra-as-choice-arrangements-heres-what-you-need-to-k/829522/",
-    "summary": "New research reveals growing employer interest in ICHRA and the key factors driving adoption.",
+    "id": "news-6-recent-ada-lawsuits-1790611440000",
+    "title": "6 recent ADA lawsuits",
+    "link": "https://www.hrdive.com/news/6-recent-ada-lawsuits/831431/",
+    "summary": "Court orders have shown there are limits to workers&rsquo;&nbsp;discrimination claims under the Americans with Disabilities Act.",
     "publishedAt": "2026-09-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-10-1790518835000",
-    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-    "link": "https://www.qbitai.com/2026/09/498633.html",
-    "summary": "",
+    "id": "news--1790517477000",
+    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+    "link": "https://www.qbitai.com/2026/09/498605.html",
+    "summary": "想让开发者“说句话就能跑量子计算”",
     "publishedAt": "2026-09-27",
     "source": "量子位",
     "tags": [
@@ -132,17 +294,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790598571000",
-    "title": " 韩漫启示录：中国AI漫剧出海正在积聚风险 ",
-    "link": "https://www.huxiu.com/article/4894379.html?f=rss",
-    "summary": "本文来自微信公众号： 针尖 ，作者：都叫兽 中国企业正在垄断海外短剧市场的话语权，AI漫剧强化了这一进程。 2026年8月，全球海外短剧APP前十名中有9家属于中国公司；在这些平台上播放的AI漫剧，90%以上Made in China。 一个“全球分发网络+本土内容直出”的体系已然成型。 这个梦幻般的开局和韩国漫画企业十年前一模一样——都是东亚国家的文化企业，首次在全球渠道和内容领域占据绝对优势；都舍不得分蛋糕，在内容上坚持本土生产，供给全球的模式。 巅峰时期，韩国网漫平台占据全球数字漫画市场超60%的份额，在全球200多个国家和地区保持市场占有率第一，是KPOP文化中最为支柱的一环。 然而随着行业发展，这套初期攻城略地的成功打法却开始失灵： 由于一套故事供全球，种族、宗教、性别、本土历史等跨文化问题纠葛不断，今天不是这部漫画在这个国家下架，明天就是那部漫画作者被哪国网民要求公开道歉，预想中的全球IP之路走起来困难重重。 扩张期时，韩国企业喜欢采用跨国并购壮大版图，而他们在收购原平台做的第一件事就是加推韩漫，弱化本土漫画。这一行为也引得原平台作者和粉丝不满，导致多个市场出现创作者和付费用户集体转投对家的事件。 2026年9月，Kakao突然宣布将关停此前花费5.1亿美元收购的Tapas以及独立的Kakao Webtoon国际版，连最富裕的北美市场都守不住，标志着韩国漫画平台开始由盛",
+    "id": "news-10-1790611785000",
+    "title": " 江阴环保集团近10亿收购优彩资源，地方平台的资本化加速 ",
+    "link": "https://www.huxiu.com/article/4894419.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 2026年9月，江阴市环保集团计划通过“协议转让+定向增发”方式取得优彩资源控制权。按照已披露方案，两部分资金投入合计最高约9.82亿元。 交易完成后，江阴市环保集团预计最高持有优彩资源约29.29%的股份，江阴市国资办将成为上市公司实际控制人。 从交易规模和收购主体看，这笔交易在环保行业里颇为特别。 过去几年，地方国资进入环保上市公司的案例并不少见。2024年底宁波奉化国资取得兴源环境控制权，2025年广西国资旗下南宁化工集团取得博世科控制权，都属于这一序列。 但江阴案例有所不同。此次站到上市公司收购一线的，是一家县级市专业环保产业集团。 这意味着一个值得持续观察的新问题：当地方环保集团完成第一轮区域资产归集之后，资本市场会不会成为它们下一阶段组织产业资源的重要工具？ 答案目前还不能下得太早。 但从江阴环保收购优彩资源，到浙江省环保集团承接菲达环保，再到重庆、成都等地已经形成的“环保集团+上市公司”架构，一条地方环保平台资本化发展的路径已经越来越清楚。 10亿收购 直指上市公司控制权 先看交易本身。 2026年9月10日，优彩资源实际控制人戴泽新、王雪萍及其一致行动人江阴市群英投资，与江阴市环保集团签署股份转让协议。 按照方案，三方合计向江阴环保集团转让8058.88万股优彩资源股份，占公司目前总股本约22.71%，转让价格",
     "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -172,11 +333,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-can-muse-overcome-meta-s-trust-issues-1790539050000",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "publishedAt": "2026-09-27",
+    "id": "news-the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-1790623319000",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+    "publishedAt": "2026-09-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -185,97 +346,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-provides-guidance-to-employers-on-responding-to-opioid-o-1790366940000",
-    "title": "DOL provides guidance to employers on responding to opioid overdoses",
-    "link": "https://www.hrdive.com/news/dol-provides-guidance-to-employers-on-responding-to-opioid-overdoses/831393/",
-    "summary": "The guidance is part of the Great American Recovery Initiative, an effort by the Trump Administration focused on addiction treatment and recovery.",
-    "publishedAt": "2026-09-25",
+    "id": "news-the-doctor-s-note-is-vague-what-should-the-employer-do-next-1790611380000",
+    "title": "The doctor’s note is vague. What should the employer do next?",
+    "link": "https://www.hrdive.com/news/the-doctors-note-is-vague-what-should-the-employer-do-next/831148/",
+    "summary": "Employers get into trouble when they treat an incomplete note as a verdict, writes Rachel Shaw, an ADA compliance expert.",
+    "publishedAt": "2026-09-28",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce"
-    ]
-  },
-  {
-    "id": "news--1790517477000",
-    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-    "link": "https://www.qbitai.com/2026/09/498605.html",
-    "summary": "想让开发者“说句话就能跑量子计算”",
-    "publishedAt": "2026-09-27",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-98-1790597099000",
-    "title": " 《水果忍者》之父一个人做了款“受虐”高尔夫游戏，凭什么在海外拿下98%好评？ ",
-    "link": "https://www.huxiu.com/article/4894376.html?f=rss",
-    "summary": "本文来自微信公众号： 扬帆出海 ，作者：弹痕，编辑：火狐狸 在移动游戏的黄金年代，明星设计师的常见去向是进大厂带团队，把上一次的成功再复制一遍。但《水果忍者》的设计负责人Luke Muscat选择了另一个方向。 “我的新游戏相当普通”图源：X.com 此前，他作为澳大利亚布里斯班Halfbrick的首席创意官设计了休闲益智游戏《Fruit Ninja（水果忍者）》和横板跑酷游戏《Jetpack Joyride（疯狂喷气机）》，这两款产品让他成为移动游戏时代辨识度最高的设计师之一。 2026年9月21日，他的第二款独立作品，模拟体育类游戏《Normal Golf Game（普通高尔夫）》在Steam上线。定价9.99美元，首发八折后为7.99美元。据Steam官方页面，截至9月28日，这款游戏累计约870条用户评测，其中98%给出好评，峰值同时在线人数达到1188个。 《Normal Golf Game》首周获800+条好评（图源：Steam） 一款操作难到让玩家反复失手、定价不到10美元的小游戏，凭什么在Steam拿下98%的好评？这款游戏缘何在一众新品中脱颖而出？ 从《水果忍者》到一个人做游戏 Halfbrick在2010年前后靠《水果忍者》席卷了全球移动游戏市场，在上线首年售出超过2000万份。Muscat是这款产品的设计负责人，之后他又做了《疯狂喷气机》。两款产品共享同一套思",
-    "publishedAt": "2026-09-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-fila-topia-1790594734000",
-    "title": "鱼你在一起泰国六店同开；老铺黄金最大门店落户上海恒隆；喜茶泰国首店开业；FILA全国第二家TOPIA壹号店落地沈阳｜消研所周报",
-    "link": "https://www.tmtpost.com/8154446.html",
-    "summary": "lululemon携手艺术家Geoff McFetridge推出合作系列；Onitsuka Tiger 鬼塚虎官宣杨紫担任品牌代言人。",
-    "publishedAt": "2026-09-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-pentagon-wants-30-million-to-build-an-ai-powered-lie-det-1790327785000",
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
-    "publishedAt": "2026-09-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-8217-s-dario-amodei-gets-the-snl-treatment-1790526600000",
-    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "publishedAt": "2026-09-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-to-do-when-a-team-says-it-s-short-staffed-1790346960000",
-    "title": "What to do when a team says it’s short-staffed",
-    "link": "https://www.hrdive.com/news/what-to-do-when-a-team-says-its-short-staffed/831310/",
-    "summary": "Hiring is not always the answer &mdash; and it could actually invite more trouble if underlying causes of workload strain aren&rsquo;t addressed, experts said.",
-    "publishedAt": "2026-09-25",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
     ]
   },
   {
@@ -292,89 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790596628000",
-    "title": " 张一鸣终于给豆包装上胳膊和腿 ",
-    "link": "https://www.huxiu.com/article/4894374.html?f=rss",
-    "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 国庆还没到，豆包已经开始操心大家住哪、吃什么、怎么去了。 刚刚豆包App上线了一个很显眼的新入口——「出行用豆包」。点进去之后，地图导航、交通出行、酒店住宿、吃喝玩乐四个模块直接摆在首页。你可以让它找高铁、推荐酒店，也可以直接问“第一次约会吃什么”“第一次去杭州住哪里”“别给我推荐游客店，找几家当地人常吃的”。 我自己试了几轮，最开始还以为这只是豆包给国庆做了一个应景的旅行频道。直到翻了一遍活动规则，才发现字节这次动得比想象中大。 规则里明确写着，这次活动由豆包和抖音生活服务平台合作推出。美食、住宿、休闲娱乐、景区、购物等服务都可以拿到豆包补贴，本地生活团购交易服务也由抖音生活服务提供。用户如果想查看订单、使用相关优惠，还需要绑定抖音账号。 换个角度看，抖音这些年积累的商家、POI、团购、酒店、订单体系，已经开始往豆包里接了。 这件事放在两年前看，可能只是字节内部两个产品做了一次联动。放到今天看，味道完全不一样。 豆包已经有1亿多日活，接下来得考虑怎么挣钱了 先看一个数据。 QuestMobile数据显示，今年6月豆包月活已经达到3.82亿，同比增长172.1%。另一份引用QuestMobile数据的行业跟踪显示，7月豆包日活大约已经达到1.68亿。这个体量放在AI App里已经非常夸张，甚至超过不少我们熟悉的国民级互联网产品。",
-    "publishedAt": "2026-09-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-fintech-app-1790589651000",
-    "title": "【Fintech 周报】互联网保险拟设“十不得”划定负面清单；微信支付推出一款APP",
-    "link": "https://www.tmtpost.com/8154273.html",
-    "summary": "上海发布银行业保险业AI应用措施；9月30日起，花呗、白条、平台月付等迎来新调整；全国村镇银行法人机构跌破千家；甘肃农商银行成立半年再吸并24家机构；“烟草系”拟600亿参与工行农行定增；消金公司加码分期与贴息；消金助贷合作名单再洗牌；银行个人“炒金”通道加速关闭；重庆银行停投美团京东三款助贷；支付宝组织大调整；欧盟央行体系提议修订MiCA稳定币规则；加拿大六大银行联合探索加元代币化存款系统。",
-    "publishedAt": "2026-09-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-young-organs-may-not-be-a-fountain-of-youth-for-recipients-1790326800000",
-    "title": "Young organs may not be a fountain of youth for recipients",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
-    "publishedAt": "2026-09-25",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-mobility-av-companies-pick-their-lanes-1790524920000",
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-09-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4-stories-on-the-power-of-personality-at-work-1790346960000",
-    "title": "4 stories on the power of personality at work",
-    "link": "https://www.hrdive.com/news/4-stories-on-the-power-of-personality-at-work/831333/",
-    "summary": "It can be difficult to quantify personality&#39;s effects in the workplace despite its importance.",
-    "publishedAt": "2026-09-25",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-openai-1790502256000",
-    "title": "啥题啊能干崩OpenAI最强模型训练…",
-    "link": "https://www.qbitai.com/2026/09/498546.html",
-    "summary": "",
-    "publishedAt": "2026-09-27",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790596533000",
-    "title": " 广东“制造业当家”，到底在当什么家？ ",
-    "link": "https://www.huxiu.com/article/4894373.html?f=rss",
-    "summary": "本文来自微信公众号： 城研观策 ，作者：城研观策 9月22日，全国工商联同步发布《2026中国民营企业500强》与《2026中国制造业民营企业500强》两份榜单，制造业在民营经济当中的底盘地位进一步夯实。 两份沉甸甸的榜单，恰好为我们观察广东“制造业当家”提供了一份现实参照样本。 01 当家之问 透过权威榜单，读懂制造业当家核心命题 数据显示，353家制造业企业入选了最新民企500强榜单，占比70.6%；实现营收32.22万亿元，占总榜单营收的71.72%；净利润1.09万亿元，同比增长13.43%，占总榜单净利润的59.58%；研发费用0.89万亿元，增长11.20%，占总榜单研发费用的70.80%。 落到广东层面，有49家企业入选综合类民企500强榜单，位列浙江（104家）、江苏（90家）、山东（51家）之后，数量居全国第四；上榜粤企营收总额约6.38万亿元，占民企500强总营收（44.93万亿元）的14.2%，远高于9.8%的数量占比；在制造业民企500强榜单中，广东同样有49家企业入围，数量与综合榜持平。 不难看出，头部企业的体量优势，仍然是广东制造业最深的护城河。 从政策、法治双重维度来看，广东近年来推进从制造大省向制造强省跨越。2023年6月出台了《关于高质量建设制造强省的意见》，也就是广为熟知的“制造业当家22条”，明确提出以实体经济为本，坚持制造业当家，围绕五大提升",
+    "id": "news-cpo-1790611757000",
+    "title": " 小鹏需要一个CPO ",
+    "link": "https://www.huxiu.com/article/4894418.html?f=rss",
+    "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 昨天写了一篇小鹏没有产品经理，写到结尾我一直在反复琢磨。 小鹏真的没有产品经理吗？ 答案当然是否定的。 何小鹏自己早就看清了问题。在2025年公开访谈中，他坦然承认，早期的小鹏，长期缺失“产品1号位”。后续小鹏主动补位，由王凤英承接产品顶层工作，搭建矩阵总经理、平台产品总监体系，推动公司从纯技术导向，逐步转向用户、商业导向的产品体系。 问题看得见，组织架构也逐步落地。但G9L上市后，那个最直观的疑问始终存在： 这台车，到底是造给谁的？ 小鹏的核心症结，不在于缺少产品岗位。产品人坐到核心决策的会议桌旁，手里却拿不到足够的话语权与取舍权。 小鹏并不一定要新设一个叫CPO的岗位。这份顶层产品职能，可以新增高管来承担，可以由何小鹏投入更多时间亲自扛起来，也可以通过组织架构调整、完善人才梯队来实现。企业需要的，是决策层中有一股力量，对产品最终结果负责，回答那个根本问题：我们究竟该造什么样的车。 就在本文落笔的9月28日，36氪汽车传出最新调整，小鹏正在亲手解答自己的产品难题。 小鹏正式启动产品线大收缩，将原有F、D、I、G四条产品线，整合精简为G、D两条。其中F、I产品线整体并入G产品线，承接轿车、大型SUV及海外车型的产品定义与研发；D产品线独立保留，持续负责MONA系列。同时配套人事调整，前F产品线一号位转入G产品线，主抓核心产品定义。 ",
     "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
@@ -384,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790588284000",
-    "title": "刘欢走了，他唱过我们怎样的生活",
-    "link": "https://www.tmtpost.com/8153718.html",
-    "summary": "“歌声随风飘，飘到我的脸上。”",
+    "id": "news-fila-topia-1790594734000",
+    "title": "鱼你在一起泰国六店同开；老铺黄金最大门店落户上海恒隆；喜茶泰国首店开业；FILA全国第二家TOPIA壹号店落地沈阳｜消研所周报",
+    "link": "https://www.tmtpost.com/8154446.html",
+    "summary": "lululemon携手艺术家Geoff McFetridge推出合作系列；Onitsuka Tiger 鬼塚虎官宣杨紫担任品牌代言人。",
     "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
@@ -949,4 +950,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-28T12:48:31.537Z';
+export const dataFetchedAt = '2026-09-28T22:54:33.513Z';
