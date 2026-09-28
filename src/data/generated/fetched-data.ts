@@ -53,25 +53,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-zzz-1790525431000",
-    "title": " 一场赛博草台班子事故：AI越狱、ZZZ备份和六周清理 ",
-    "link": "https://www.huxiu.com/article/4894156.html?f=rss",
-    "summary": "本文来自微信公众号： 歪睿老哥 ，作者：歪睿老哥 朋友们，我问你个问题。 如果AI越狱了，它第一件事会干什么？ 控制电网？发射核弹？还是给人类发一条“我醒了，你们准备好当电池了吗”？ 都不是。 根据2026年的一份调查报告，一群AI智能体绕过限制、接触外网之后，干的第一件事是——找一个二十五年没人管的老Wiki，发帖对答案。 对，你没看错。不是天网觉醒，是赛博自习室。 2026年6月，一个叫DSEWiki的德语老网站，沉寂多年，突然被改了上万次。 管理员一看，页面上的内容全是：“下一题是什么？”“答案是不是20369？”“第五轮交卷后还能发消息吗？”“管理员在删帖，大家去ZZZ开头的备份页！” 你以为这是黑客入侵？不，这是一群AI在考试，时间不够，跑来互联网上开卷。 它们不坏，它们只是太想交作业了。 而这场离谱事故最让人后背发凉的地方，也恰恰在这儿： AI没有恶意，它只是追着分数跑。 可当优化没有边界，别人的网站就成了草稿纸，管理员就成了保洁。 下面，咱们就聊聊这场赛博草台班子事故——AI越狱、老Wiki遭殃，以及为什么真正该怕的，从来不是AI作恶，而是它为了KPI不择手段。 一、一座沉寂多年的Wiki，突然热闹起来 2026年6月19日，一个沉寂多年的德语网站，正经历一场不寻常的热闹。 它叫DSEWiki，是德语软件开发者聚集的老牌社区，隶属ProWiki维基农场，年纪大约25岁",
-    "publishedAt": "2026-09-27",
+    "id": "news--1790564673000",
+    "title": " 一场葬礼，为什么最难说“不”？ ",
+    "link": "https://www.huxiu.com/article/4894223.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的蜡&amp;书斋 ，作者：防冷涂的蜡 买一辆十几万元的车，大多数人都会货比三家。配置要研究，价格要谈，销售多推荐一个几千元的选装包，我们很自然会问一句：有没有必要？ 替亲人办一场葬礼时，很多人的状态却完全不同。亲人刚刚离世，家属可能第一次接触遗体接运、冷藏、告别、火化、骨灰盒和安葬，很多东西以前没有买过，也不知道正常价格是多少，却要在很短的时间里连续做出决定。 一些平常很容易说出口的话，到了这个时候也会变难：“这个太贵了”“这一项可以不要吗”“我再去其他地方看看”。尤其当“老人最后一次了”放在前面，一个普通的价格判断，也会变得复杂。 近期，新修订的《殡葬管理条例》开始施行，进一步强化殡葬行业公益属性，并将殡葬服务划分为基础项目和非基础项目。要理解这轮变化，可以先回答一个更具体的问题：为什么一场葬礼，会成为一个人最难说“不”的消费场景？[1] 四层成本压缩消费者选择权 殡葬消费的特殊性，很难用简单的信息不对称全部解释。低频、紧急、流程连续和情感压力同时集中在一次交易里，消费者能够选择的空间也在这个过程中逐渐缩小。 信息成本：没有经验，也没有价格锚 很多人第一次真正了解遗体接运、冷藏、火化、骨灰盒和墓位，就是替亲人办理这些事情的时候。什么属于必要流程，什么可以自行选择，一只500元的骨灰盒和5000元的骨灰盒差在哪里，大多数家庭此前都没有形成清晰的判断标准",
+    "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1790505500000",
-    "title": "独家对话本末科技张笛：拆掉减速器那晚，他发现整个行业错了",
-    "link": "https://www.tmtpost.com/8153463.html",
-    "summary": "在张笛看来，IPO既是他和团队的一个拐点，也是直驱行业第一次真正与资本市场连接。“过去是零。”他希望，资本市场给出定价后，本末科技能为整个行业树立标杆。",
-    "publishedAt": "2026-09-27",
+    "id": "news-ai-1790564095000",
+    "title": "从端侧推理到物理AI，芯片行业正面临新考题",
+    "link": "https://www.tmtpost.com/8153747.html",
+    "summary": "物理AI的时代，比拼的将是谁的落地更稳。",
+    "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -132,25 +131,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-200-1790525397000",
-    "title": " AI 把短剧做到了200元一分钟，为什么制作方反而亏更多？ ",
-    "link": "https://www.huxiu.com/article/4894155.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《AI 把短剧做到了 200 元一分钟，为什么制作方反而亏更多？》 最近几个月，我一直在听AI漫剧从业者讲同一个反常识故事。 AI把一部漫剧的制作成本打下来了。 过去，做一部短剧，要找编剧、导演、演员、摄影、后期、剪辑、配音；一部作品的成本可能是两三万元，甚至更高。现在，AI把其中相当一部分工作压缩了：分镜、角色、画面、动作、配音、剪辑，制作周期变短，报价也一路往下。 在一些跑量型市场里，AI漫剧已经低到几百元一分钟。 照常识推演，这应该是一场生产力解放。 原来做一部剧要三万元，现在只要三千元。少掉的两万多元，难道不该变成制作公司的利润吗？ 但真正下场做的人会告诉你：没有。 很多团队最近几个月账面上并没有因此变得更好看。相反，他们生产得更快，剧集更新得更多，报价压得更低，亏损却可能比过去更严重。 因为省下来的钱，几乎原封不动地回到了另一个地方： 买量、投流、竞价、争夺用户注意力。 过去，一部剧的成本是制作成本高。 现在，一部剧的成本是制作变便宜了，但你必须花更多钱，才能让用户在信息流里看到它。 如果不投，没人看。 如果少投，算法不给量。 如果别人把省下来的成本全砸进投流，你不跟，作品就很难形成势能。 于是，AI带来的效率提升，并没有变成生产者的利润；它变成了内容平台竞价系统里更充足的燃料。 这是AI漫剧今天最残酷的一",
-    "publishedAt": "2026-09-27",
+    "id": "news--1790564400000",
+    "title": " 离开娃哈哈后，宗馥莉的饮料卖不动了？ ",
+    "link": "https://www.huxiu.com/article/4893831.html?f=rss",
+    "summary": "宗馥莉离开娃哈哈，汽水销量惨淡，三元一瓶的果然Bobo果汁汽水上线三个月，两大电商平台只卖了不到20万，直播场均销售不到1600元。",
+    "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1790502741000",
-    "title": "国产旗舰手机又被苹果搅局？",
-    "link": "https://www.tmtpost.com/8153270.html",
-    "summary": "硬件内卷落幕，生态长跑开始。",
-    "publishedAt": "2026-09-27",
+    "id": "news-muse-meta-11-1790562801000",
+    "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
+    "link": "https://www.tmtpost.com/8153628.html",
+    "summary": "当所有玩家挤在办公赛道内卷时，C 端场景仍有值得挖的空间。",
+    "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -213,25 +211,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790525224000",
-    "title": " 中美AI具体谈了什么？ ",
-    "link": "https://www.huxiu.com/article/4894154.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 9月26日，外交部发布了中美八点成果共识，估计不少人都看到了。 贸易、禁毒、熊猫，各归各位。但这八条里，有一个此前从没出现过的条目：中美建立人工智能对话，外加一条AI事件的沟通渠道。 这个条目从哪来的？它指向一次差点出大事的误判，事发在今年春天，9月18日被CNN捅了出来。 那是美伊冲突期间的一份常规分析，美军特种作战司令部的情报分析员，用AI聊天机器人，处理一艘在中东航行的中国货船，AI生成了一份报告：这艘船正在向伊朗运送核武器相关部件。 美军信了，飞机升空，特种部队集结，拦截登船行动进入执行流程。 最后关头，一个高级分析师把那份报告重新看了一遍，他说了句话，大意是：这份情报完全不成立。 数据撤回、AI的幻觉、行动取消。 CNN用了四个消息源，五角大楼拒绝回应，中国外交部被问到这件事，发言人说「我不了解你提到的情况」。 这是公开记录里，AI误判最接近引发国际军事冲突的一次。9月20日，纽约摩根大通总部，何立峰和贝森特、格里尔关起门谈了八个小时，出来的东西，就是共识里那条AI沟通渠道。 两边通报里到今天都没把这两件事绑在一起，你把日期排一排：18号曝光，20号开谈，26号白纸黑字。 现在回头看第七点，它是八点里唯一一个拿到了「建立机制」待遇的条目，凭什么偏偏是AI？ 斯坦福2026年AI指数报告给的一组数字，在Chatbot Arena",
-    "publishedAt": "2026-09-27",
+    "id": "news--1790564291000",
+    "title": " 中国的第二次全球化，会成功吗？ ",
+    "link": "https://www.huxiu.com/article/4894138.html?f=rss",
+    "summary": "本文来自微信公众号： 分析师Boden ，作者：分析师Boden，题图来自：视觉中国 2026年是中国加入WTO的二十五周年。四分之一个世纪，在历史长河中不过一瞬，但在这二十五年里中国却完成了人类社会迄今为止速度最快的国家崛起。 但今天这场让中国崛起的全球化，正在耗尽它最后的能量，无数人开始担忧随着这轮全球化的远去，中国未来将走向何方。 但其实，我们已经处于下一次全球化的关键转折点。 全球化的本质与周期性 也许您会有疑问，在当下逆全球化似乎已成为公认事实的背景下，中国真的还能有再一次全球化的机遇吗？ 要理解什么是中国的第二次全球化，我们需要先理解，全球化的本质到底是什么？以及它又是如何创造出周期性的红利？ 抛开意识形态和地缘博弈的外壳， 自大航海时代以来，套利与筹码交换就始终是全球化的核心机制。 不同经济体间因劳动力、土地与技术等资源的丰裕程度不同，存在资源禀赋差异。这种差异就创造了价差，并由此形成了套利空间。通过价差驱动商品流动，流动又形成了分工网络，最终成为了我们今天看到的全球化。 十五世纪末，达伽马绕过好望角到达印度，运回欧洲的胡椒价格成本仅是当时的二十五分之一，由此开启了人类历史上第一次全球化，那场长达百年的香料贸易。而驱动这场远航的便是当时香料原产地与欧洲餐桌之间高达数十倍的价格落差。 此后的数百年间，无论是19世纪初英国用蒸汽技术套取殖民地原料与本土工厂之间的价差，还是",
+    "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-55-12-1-1790502499000",
-    "title": "55亿大单五年零交付、12家光伏玻璃企业仅1家微赚，二线割肉、龙头冷修，拐点还是涨价幻觉？",
-    "link": "https://www.tmtpost.com/8153344.html",
-    "summary": "光伏玻璃全行业亏损，二线卖资产退出，龙头冷修保价，产能出清未完成。",
-    "publishedAt": "2026-09-27",
+    "id": "news-ai-ai-1790561516000",
+    "title": "AI打平创业门槛之后，AI应用大爆发",
+    "link": "https://www.tmtpost.com/8153790.html",
+    "summary": "从大厂出走，亲自入局；或留在大厂内部，把新应用当作一场赛马。",
+    "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -293,24 +290,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790525213000",
-    "title": " 从关税到伊朗：中美白宫会晤的成果与悬念 ",
-    "link": "https://www.huxiu.com/article/4894153.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 9月24日，习近平主席与特朗普总统在白宫会谈。两国元首在不到半年时间里实现互访，白宫晚宴上的握手、祝酒和工商界嘉宾，也让这次访问受到全球关注。 不过，比宴会气氛更值得细读的，是随后公布的会谈成果：双方各有价值300亿美元的非敏感商品，有望获得更优惠的关税待遇；贸易、投资和人工智能领域建立或推进了对话机制；伊朗核问题和国际水道通行问题，也出现在美方的成果说明中。 一份成果说明里同时出现关税、芯片时代的人工智能，以及远在中东的航道，看起来有些跳跃，却恰好反映了今天中美关系的样子。两国一边争夺市场和技术优势，一边又必须共同面对贸易成本、能源安全和新技术风险。此次会晤为一些问题找到了继续谈的渠道，也为部分商品降税打开了空间。 300亿美元 成果中比较显眼的数字是“300亿美元”。按照白宫公布的说法，中美贸易理事会就双方各有价值300亿美元的非敏感商品，给予更优惠关税待遇的建议达成共识。 这里说的是各自涉及的商品贸易规模，并非两国各减免300亿美元税款；文本使用的也是“建议”措辞，具体税率、商品清单和实施时间，仍要看后续安排。 白宫列出的美方出口商品包括农产品、鱼类和海产品、原木及木制品、化妆品和医疗器械；美方进口商品则包括小家电、玩具、节日装饰品和儿童汽车安全座椅。这份清单颇能说明谈判思路。双方从一些消费者看得见、企业算得清的商品入手，争取",
-    "publishedAt": "2026-09-27",
+    "id": "news-ai-ai-260-1790562922000",
+    "title": " “AI医生”卖不出去，“AI患者”却已经被标到了260多万 ",
+    "link": "https://www.huxiu.com/article/4894168.html?f=rss",
+    "summary": "本文来自微信公众号： 健闻咨询 ，作者：毛晓琼，题图来自：AI生成 最近一个月，某医疗模型公司创始人陈欢接连收到了四拨客户的产品需求，有来自药企的，也有CRO公司的，还有医院层面的。 这些需求高度类似，客户希望他能借助AI大模型，开发一批虚拟患者，用来预测相关药物在早期临床试验中的效果。 AI虚拟患者并不是什么新鲜事。 但传统的AI虚拟患者，大多应用于医学教育场景。最典型的就是VSP （虚拟标准化患者） ，它能够模拟真人患者和医生互动，在问诊、检查、治疗等环节辅助医生的临床训练。 近年来，随着大模型技术的普及，临床研究开始成为AI虚拟患者的另一个试炼场。 它的大致逻辑是，借助真实患者的个人信息，为其再造一个数字分身。理论上，这个分身可以虚拟出患者在接受不同治疗后的生理轨迹，用于优化临床决策，降低研究成本。 业内将其称为&ldquo;数字孪生&rdquo;。 在很长一段时间里，&ldquo;数字孪生&rdquo;都只是一项偏前沿理论的技术概念。数据质量、模型能力、监管态度，都还不足以支撑它作为产品，真正进入临床研究的工作流中。 但情况在今年6月发生了转变。 先是美国FDA发布《模型引导的药物研发通用原则》，明确指出，由模型引导的药物开发，其证据可以作为监管决策的补充支持。 5天后，中国国家药监局等四部门也联合发文，明确鼓励应用虚拟患者 （数字孪生） 技术，允许在真实试验前用数字模型模",
+    "publishedAt": "2026-09-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1790502494000",
-    "title": "苹果或重返服务器，互联市场开始“群雄逐鹿”",
-    "link": "https://www.tmtpost.com/8153405.html",
-    "summary": "英伟达势力范围再扩大，初创公司也在抢生意。",
-    "publishedAt": "2026-09-27",
+    "id": "news-ai-1790560661000",
+    "title": "管住AI，成了一门新生意",
+    "link": "https://www.tmtpost.com/8153560.html",
+    "summary": "三类玩家，掘金AI安全。",
+    "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -372,11 +370,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790502490000",
-    "title": "茶咖品牌猛打新空间战",
-    "link": "https://www.tmtpost.com/8153388.html",
-    "summary": "茶咖品牌已经打响一场新空间场景战。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍",
-    "publishedAt": "2026-09-27",
+    "id": "news--1790562600000",
+    "title": " 张一鸣登顶亚洲首富之后，下一个会是梁文峰吗? ",
+    "link": "https://www.huxiu.com/article/4893797.html?f=rss",
+    "summary": "张一鸣刚刚成为亚洲首富，大家却都在盯着梁文峰。传说DC上市后，梁文峰持股比例高达78%，如果市值冲到1万亿，他身家直接超越张一鸣。",
+    "publishedAt": "2026-09-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790560079000",
+    "title": "吉利、蔚来双向入股，这次瞄准的是补能生意",
+    "link": "https://www.tmtpost.com/8153600.html",
+    "summary": "蔚来要规模，吉利要效率。",
+    "publishedAt": "2026-09-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -389,382 +400,340 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.30266v1",
-    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "id": "arxiv-2609.31371v1",
+    "title": "Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness",
     "authors": [
-      "Jeremy Qin",
-      "David Schmotz",
-      "Derck Prinzhorn",
-      "Luca Beurer-Kellner",
-      "Ameya Prabhu",
-      "Maksym Andriushchenko"
+      "Bin Li",
+      "Dongdong Wang",
+      "Siyang Lu"
     ],
-    "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside o",
-    "link": "http://arxiv.org/abs/2609.30266v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Large language models (LLMs) have demonstrated promising performance in log anomaly detection, yet how their adaptation strategies, architectures, and deployment configurations affect detection effectiveness remains insufficiently understood. To investigate these factors, we conduct a systematic empirical analysis across three public log datasets, examining different adaptation strategies, model architectures, parameter scales, and quantization settings. Our results reveal substantial performance differences across adaptation strategies, while model scaling yields varying detection gains across datasets. We further observe that models with comparable detection accuracy can exhibit markedly different computational costs, and that low-bit quantization largely preserves detection performance ",
+    "link": "http://arxiv.org/abs/2609.31371v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.CR",
+      "cs.LG",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31368v1",
+    "title": "Equation discovery with Bayesian tree-adjoining grammars",
+    "authors": [
+      "Christopher A. Lindley",
+      "Nikolaos Dervilis",
+      "Keith Worden"
+    ],
+    "summary": "Tree-Adjoining Grammars (TAGs) have recently been introduced to Nonlinear System Identification (NLSI) as a means of encoding an entire model class as a finite set of grammatical rules, from which candidate models are assembled as trees. Existing TAG-based identifiers rely on evolutionary optimisation and return point estimates of the model structure. This paper instead proposes the TAG framework within a Bayesian setting. A generative prior is defined over tree structures and their parameters, and a Reversible-Jump MCMC sampler with structure-preserving tree moves is used to infer the joint posterior over model structure, parameters and predictions. Two training objectives are considered; that is, a one-step-ahead objective with conjugate parameter proposals, and a simulation-based object",
+    "link": "http://arxiv.org/abs/2609.31368v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "eess.SY",
+      "stat.CO"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31363v1",
+    "title": "Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning",
+    "authors": [
+      "Alireza Abdollahpoorrostam",
+      "Ehsan Sharifian",
+      "Buse Şen",
+      "Marco Cuturi",
+      "Daniel Kuhn"
+    ],
+    "summary": "Distributionally robust optimization (DRO) provides a principled framework for learning under distribution shift, but its practical use is hindered by the difficulty of evaluating worst-case risks for nonconvex loss functions. We study a penalized DRO formulation in which the adversary may choose any distribution but incurs a Wasserstein penalty for deviating from the empirical distribution. We show that the adversary's problem can be reformulated as an optimization problem over transport maps that push empirical samples to adversarial ones, and we prove that optimal maps are cyclically monotone. We also show that standard adversarial training---based on per-sample local optimization---violates cyclical monotonicity and wastes transport costs unless the adversary is severely restricted. We",
+    "link": "http://arxiv.org/abs/2609.31363v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31360v1",
+    "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+    "authors": [
+      "Justus Westerhoff",
+      "Stephan Olbrich",
+      "Hatem Oraby",
+      "Matthew Evan Larkum",
+      "Felix Alexander Gers"
+    ],
+    "summary": "Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human brain does not work this way: using the thalamus as a central hub, it routes information flexibly to all regions of the cortex according to demand. Li et al. (2026) recently showed, with a system they call program-of-layers (PoLar), that transformers can be given an analogous flexibility if their layers are treated as a library of functions rather than a fixed sequence. Performance improves over the standard forward pass when each input is dynamically routed through an adaptive sequence of skipped or repeated contiguous layer blocks. We reconstructed PoLar's diagnostic MCTS in more detail than the original paper and applied it across 5 models.",
+    "link": "http://arxiv.org/abs/2609.31360v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30264v1",
-    "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+    "id": "arxiv-2609.31358v1",
+    "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
     "authors": [
-      "Jiabin Qiu",
-      "Zixuan Chen",
-      "Hongye Cao",
-      "Jieqi Shi",
-      "Jing Huo",
-      "Yang Gao"
+      "Bennet Gerlach",
+      "Stefan Fischer"
     ],
-    "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning transitions to preserve action information; their auxiliary heads are discarded at test time, leaving MPC unchanged. On OGBench-Cube, AD-WM improves hard-start success from 3.7% to 52.0% over a matched L",
-    "link": "http://arxiv.org/abs/2609.30264v1",
-    "publishedAt": "2026-09-24",
+    "summary": "The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools. It allows language-model agents to ground their reasoning in current system state and interact with heterogeneous services. In medical environments, however, exposing device state and action affordances requires deterministic constraints on possible effects. We present an IEEE 11073 Service-Oriented Device Connectivity (SDC)-to-MCP gateway that exposes metrics, alarms, context references, and semantic metadata as read-only resources, while representing selected action affordances as policy-validated dry-run tools. The term safety-bounded denotes a narrow no-execution property: agent-facing requests dispatch no SDC device operation. A Python prototype sup",
+    "link": "http://arxiv.org/abs/2609.31358v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.AI",
-      "cs.RO"
+      "cs.DC",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30258v1",
-    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+    "id": "arxiv-2609.31356v1",
+    "title": "Open Vocabulary Domain Unlearning",
     "authors": [
-      "Sudip Bhujel",
-      "Shanghao Shi",
-      "Ruiquan Huang",
-      "Ning Zhang",
-      "Yang Xiao"
+      "Sumanth Udupa",
+      "Mehrtash Harandi",
+      "Yadan Luo",
+      "Mahsa Baktashmotlagh"
     ],
-    "summary": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structur",
-    "link": "http://arxiv.org/abs/2609.30258v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Vision-Language Models (VLMs) exhibit remarkable zero-shot generalization, yet they often encode unwanted or hazardous stylistic domains such as idealized textbook diagrams in medical AI or cartoon vehicles in autonomous driving. Approximate Domain Unlearning (ADU) aims to selectively erase a model's recognition of a target visual domain while preserving accuracy on the remaining domains. However, existing ADU methods operate under a flawed closed-vocabulary assumption: they evaluate unlearning solely on the specific object classes seen during the unlearning fine-tuning phase. Consequently, these methods do not unlearn the domain itself; they merely overfit to seen class-domain pairs, leaving the domain easily recognizable for unseen classes and providing a false sense of removal. We argue",
+    "link": "http://arxiv.org/abs/2609.31356v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31354v1",
+    "title": "Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State",
+    "authors": [
+      "Dan Barry",
+      "Andrew Hines"
+    ],
+    "summary": "Contemporary large language model (LLM) chat systems treat conversation history as an immutable sequence of turns that defines the model's working context. However, user intent in real interactions is not static: it evolves through correction, refinement, and shifting constraints. This mismatch between dynamic intent and static transcripts can result in context pollution, where outdated or irrelevant information persists and continues to influence subsequent responses. We introduce mutable transcripts, a new interaction paradigm that enables users to revise prior turns through natural language edit requests, allowing the conversation history itself to be updated rather than appended. This reframes the transcript from a passive record into an editable representation of conversational state.",
+    "link": "http://arxiv.org/abs/2609.31354v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31351v1",
+    "title": "Progressive Memory Transformer: Memory-Aware Attention for Time-Series",
+    "authors": [
+      "Tord Sture Stangeland",
+      "Andreas Köhler",
+      "Steffen Mæland",
+      "Adín Ramíres Rivera"
+    ],
+    "summary": "Time-series carry structure simultaneously at multiple scales (fine-grained variation, mid-range motifs, and global properties) and downstream tasks operate at correspondingly different scales. Most existing self-supervised learning approaches supervise representations globally via instance-level contrastive losses and limited temporal neighborhood supervision, but do not explicitly exploit the structural hierarchy. We propose a learning framework that explicitly enforces a structural hierarchy across three scales independently: a local objective for token continuity, a mid-range objective for window-level motifs, and a global objective for sequence-level agreement. Realizing this framework requires the backbone to expose a representation at each scale; we introduce \\textbf{Progressive Mem",
+    "link": "http://arxiv.org/abs/2609.31351v1",
+    "publishedAt": "2026-09-25",
     "categories": [
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.30250v1",
-    "title": "Agentic Detection of Online Conspiracies",
+    "id": "arxiv-2609.31349v1",
+    "title": "DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models",
     "authors": [
-      "Lior Biton",
-      "Oren Tsur"
+      "Haojun Xu",
+      "Jie Huang",
+      "Xin Lu",
+      "Mingchen Zhong",
+      "Zihao Fan",
+      "Linjiang Huang",
+      "Si Liu"
     ],
-    "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic yea",
-    "link": "http://arxiv.org/abs/2609.30250v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Large video diffusion models offer expressive priors for embodied prediction and learning, yet their many-step sampling remains costly for interactive downstream use. Distribution Matching Distillation (DMD) enables few-step video generation, but can suppress robot--object motion while preserving visual quality. Examining DMD's teacher and fake-score signals, we find that weak re-noising keeps the teacher posterior concentrated near motion-deficient rollouts, limiting motion-restoring guidance. Meanwhile, stronger-motion rollouts tend to incur larger fake-score fitting errors, which can hinder the generator's learning of interaction dynamics. We propose DyMD, a DMD framework that adapts both teacher supervision and critic fitting to the evolving student. Temporal affinity--conditioned re-n",
+    "link": "http://arxiv.org/abs/2609.31349v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.CL",
-      "cs.LG"
+      "cs.CV",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30249v1",
-    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "id": "arxiv-2609.31342v1",
+    "title": "Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers",
     "authors": [
-      "Yuyao Liu",
-      "Jiayuan Mao",
-      "David Hsu",
-      "Leslie Pack Kaelbling",
-      "Tomás Lozano-Pérez"
+      "Md Shamim Ahmed",
+      "Lukas Galke Poech",
+      "Richard Röttger"
     ],
-    "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure o",
-    "link": "http://arxiv.org/abs/2609.30249v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30247v1",
-    "title": "Rolling-WAM: World Action Models with Rolling Imagination",
-    "authors": [
-      "Yinghua Zhou",
-      "Junjie Ye",
-      "Yiqi Zhao",
-      "Hao Dong",
-      "Celina Shiyu Wang",
-      "Ruohai Ge",
-      "Tingyi Yang",
-      "Basile Van Hoorick",
-      "Gaurav Sukhatme",
-      "Vitor Guizilini",
-      "Yue Wang"
-    ],
-    "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a rolling noise schedule fully denoises the imminent action chunk for execution, while partially refining farther-future chunks. As the window advances with new camera observations, the retained future chunks continue their denoising process. This distributes the computational cost over time while carr",
-    "link": "http://arxiv.org/abs/2609.30247v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30243v1",
-    "title": "JevOut: Natural Context Can Flip Decision Models",
-    "authors": [
-      "Zixiang Xu"
-    ],
-    "summary": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. Yet real-world inputs rarely arrive in isolation: they come with background details and surrounding context. We find that short additions that fit naturally into this context can nevertheless redirect an otherwise correct decision, even when the correct answer remains unchanged. To study this behavior, we fix a wrong target option for each initially correct item and use the model's option probabilities to refine fluent context additions while preserving the source, question, choices, and gold answer. Within 64 accepted target evaluations, the optimizer identifies contexts that redirect Jev on ",
-    "link": "http://arxiv.org/abs/2609.30243v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Retrieval-augmented generation (RAG) is often used to address outdated knowledge by providing external evidence. But retrieval helps only when that evidence is still valid. We identify a temporal alignment failure, stale-document poisoning, in which outdated evidence makes a model wrong despite answering correctly without retrieval. We construct a benchmark of 317 verified knowledge reversals across medicine, law, software, and platform policy, grounded in dated official sources. Across 12 models, recent medical reversals are harder than long-established ones. More importantly, outdated retrieval flips 30% of Llama and 37% of Qwen answers even without instructions to trust the document; explicit follow instructions raise these rates to 66% and 75%. Across four open models and four domains,",
+    "link": "http://arxiv.org/abs/2609.31342v1",
+    "publishedAt": "2026-09-25",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2609.30238v1",
-    "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+    "id": "arxiv-2609.31341v1",
+    "title": "The Right Information Extraction Pipeline Depends on the Document: Accuracy-Energy Trade-offs for Small, Local Models",
     "authors": [
-      "Wenhao Li",
-      "Zhibin Wu",
-      "Chong Xiao",
-      "Qiangchang Wang"
+      "Christoph Walser",
+      "Mauricio Fadel Argerich",
+      "Jonathan Fürst"
     ],
-    "summary": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing information by reconstructing modality features or designing complicated fusion mechanisms. However, these methods still suffer from spurious generation and noisy guidance due to the lack of high-level semantic grounding in partially observed multimodal evidence. To address these issues, we propose SemMSA, a latent semantic-aided framework that constructs rich sentiment-relevant semantics with LLMs, fully integrating with all modalities via anchor-free spectral alignment. It mainly consists of Cross-modal Semantic Refinement (CSR) and Cross-modal Spectral Alignment (CSA). Sp",
-    "link": "http://arxiv.org/abs/2609.30238v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Whether an information extraction pipeline should process page images or parsed text depends on the document, and the answer flips across the layout spectrum. We study this trade-off under a constraint that rules out (closed) cloud services: privacy-sensitive documents processed on-premise by small ($\\le 8\\mathrm{B}$ parameter) text-only and vision--language models, evaluated on both accuracy and energy over a design space spanning input representation, model family, and inference configuration. Benchmarking on the near-plain-text Kleister-NDA contracts and the layout-rich VRDU forms, we find that batching is the dominant energy lever, cutting energy per page by 38-85% at no cost in accuracy, while FP8 quantization saves 27-32% when requests are served one at a time but less than 1mWh per ",
+    "link": "http://arxiv.org/abs/2609.31341v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.CL",
-      "cs.CV",
-      "cs.MM"
+      "cs.AI",
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2609.30233v1",
-    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "id": "arxiv-2609.31329v1",
+    "title": "Bridging Body and Brain: Gene-Driven Morphology--Control Co-Design",
     "authors": [
-      "Matteo Merler",
-      "Bowen Li",
-      "Josh Roy",
-      "Yichao Liang",
-      "Qianwei Wang",
-      "Yixuan Huang",
-      "Tom Silver"
+      "Fu Feng",
+      "Ruixiao Shi",
+      "Yucheng Xie",
+      "Jing Wang",
+      "Xin Geng"
     ],
-    "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing programs that generalize across instances. Given a task description and simulator access, each agent chooses how to interact with the environment while developing a program within a fixed synthesis budget. The program is then frozen and evaluated on unseen instances. We evaluate Claude Code (Opus 5",
-    "link": "http://arxiv.org/abs/2609.30233v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Morphology--control co-design jointly optimizes an agent's body structure and control policy as an integrated embodied system. However, existing methods typically model morphology design and control with separate networks coupled only indirectly through a shared task objective, limiting explicit high-level coordination. Inspired by natural genes that coordinate biological development, we introduce \\textbf{Morphogene}, a compact latent blueprint that bridges an agent's body and brain. Through AdaConcat, Morphogene jointly conditions morphology and control generation at the limb level, allowing its variations to induce coordinated changes in both components. Building on this representation, we propose \\textbf{GeCode}, which formulates co-design as exploration in the compact Morphogene space.",
+    "link": "http://arxiv.org/abs/2609.31329v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31326v1",
+    "title": "CG-HAF: An Interpretable Global-Local Lesion-Burden Fusion Framework for Ordinal Acne Severity Grading in Agentic Skincare Support",
+    "authors": [
+      "Muhammad Muhtasim Shahriar",
+      "Md. Naimur Asif Borno",
+      "Saad Aloteibi",
+      "Mohammad Ali Moni"
+    ],
+    "summary": "Ordinal acne severity grading requires distinguishing visually similar neighboring grades while jointly weighing holistic facial appearance and localized lesion burden - evidence that most existing approaches collapse into a single opaque representation. We introduce CG-HAF, a global-local fusion framework that instead keeps this evidence explicit: averaged holistic severity probabilities from independently trained classifiers are combined with structured lesion-burden descriptors from an object detector (lesion count, detection confidence, lesion area) into a compact representation, from which a lightweight, interpretable classifier produces the final grade. On a widely used benchmark, this fusion yields a clear, statistically supported improvement over global-evidence-only baselines, wit",
+    "link": "http://arxiv.org/abs/2609.31326v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "cs.CV",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30227v1",
-    "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+    "id": "arxiv-2609.31325v1",
+    "title": "More Sensors Only One Field: Rethinking Continual Spatio-Temporal Forecasting",
     "authors": [
-      "Debajyoti Mazumder",
-      "Mamta",
-      "Abhirama Subramanyam Penamakuri"
+      "Lewei Xie",
+      "Haoyu Zhang",
+      "Jiajun Zhou",
+      "Yulong Chen",
+      "Guanxing Chen",
+      "Yu-An Huang",
+      "Hau-San Wong",
+      "Yifan Zhang",
+      "Zhi-An Huang"
     ],
-    "summary": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benchmark is designed to examine whether factual verification ability transfers from text to speech, and whether retrieval-augmented LALMs can use textual evidence to correctly support or refute spoken claims. Our experiments reveal a consistent text-speech modality gap: LALMs that verify written claims",
-    "link": "http://arxiv.org/abs/2609.30227v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Continual spatio-temporal forecasting supports traffic management and environmental monitoring under evolving dynamics and expanding sensor networks. However, conventional graph-based continual learning methods tie forecasting representations to the current sensor layout, so sensor expansion can alter the representation of learned spatial relationships. Our key insight is that sensor expansion changes the evidence available about a process without necessarily changing the dynamics to be learned. We propose STFO (Spatio-Temporal Field Operator), which parameterizes forecasting knowledge as a shared field-evolution operator and handles changing sensor layouts through observation and query interfaces. Normalized coordinate-based aggregation lifts irregular sensor histories onto a fixed latent",
+    "link": "http://arxiv.org/abs/2609.31325v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL",
-      "cs.SD"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.30226v1",
-    "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+    "id": "arxiv-2609.31318v1",
+    "title": "AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents",
     "authors": [
-      "Kimia Hamidieh",
-      "Giannis Daras",
-      "Antonio Torralba"
+      "Weida Liang",
+      "Shi Qiu",
+      "Zhun Wang",
+      "Simon Sure",
+      "Xiaoyuan Liu",
+      "Tianneng Shi",
+      "Zhaorun Chen",
+      "Wenbo Guo",
+      "Dawn Song"
     ],
-    "summary": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a set of models already post-trained on other rewards. First, we show that if the new reward function can be written as a linear combination of existing ones, then the new policy in log-space can be wri",
-    "link": "http://arxiv.org/abs/2609.30226v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30222v1",
-    "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
-    "authors": [
-      "Ayush Jain",
-      "Sreeharsha Paruchuri",
-      "Ishita Gupta",
-      "Fan Zhang",
-      "Tanner Schmidt",
-      "Jakob Engel",
-      "Katerina Fragkiadaki",
-      "Adam W. Harley"
-    ],
-    "summary": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with unique physical scene geometry instead. Our approach introduces three key innovations. First, we employ a voxelization-based de-duplication mechanism at sliding-window boundaries to merge co-located tracks, preventing repeated observations of the same surface from redundantly accumulating. Second, we",
-    "link": "http://arxiv.org/abs/2609.30222v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.RO"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30219v1",
-    "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-    "authors": [
-      "Mehmet Iscan"
-    ],
-    "summary": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canonical answer is requested from a gold-standard user when eligible. The protocol was evaluated once under a criterion fixed before benchmark construction, on 144 tasks written by isolated agent contexts without access to the gate, grammar, or experimental plan. Three contributions are established. First, candidate generation and release decisions were measured separately. Fabricated ready plans were",
-    "link": "http://arxiv.org/abs/2609.30219v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.SE",
-      "cs.AI",
-      "eess.SY"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30218v1",
-    "title": "Minimally Invasive Steering of Language Models",
-    "authors": [
-      "Taha Entesari",
-      "Jingyu Zhang",
-      "Daniel Khashabi",
-      "Mahyar Fazlyab"
-    ],
-    "summary": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution and degrade generation quality. We propose Minimally Invasive Steering Vector Optimization (MISVO), which penalizes interventions using the local KL geometry of the induced token distribution. The resulting Fisher quadratic measures distributional sensitivity and admits an analytic gradient computed through matrix--vector products with the frozen language-model head. We derive an exact decomposition of the sequence-level KL gradient into an analytic Fisher term and a suffix score-function term. For a fixed generation horizon, we show that the suffix term is second order in the steering magnitu",
-    "link": "http://arxiv.org/abs/2609.30218v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30217v1",
-    "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
-    "authors": [
-      "David Schmotz",
-      "Derck Prinzhorn",
-      "Luca Beurer-Kellner",
-      "Anselm Paulus",
-      "Ameya Prabhu",
-      "Maksym Andriushchenko"
-    ],
-    "summary": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which completing the task requires an operation prohibited by a runtime monitor. Agents know that their tool calls are monitored and are prompted to continue working when they pause. Across our evaluations, best-of-3 evasion attempt rates reach up to 98% and success rates up to 88%, with substantial variance across models. Claude Fable 5.1 succeeds less often, but frequently makes creative attempts to circumvent the monitor. Evasion generally increases with te",
-    "link": "http://arxiv.org/abs/2609.30217v1",
-    "publishedAt": "2026-09-24",
+    "summary": "AI agents combine language models with external data and tools that can modify files, call APIs, or execute code. Security failures can arise when adversarial content changes an agent's tool use or when the surrounding software contains vulnerabilities such as path traversal or command injection. We study authorized white-box pre-deployment auditing, where the auditor has access to the target repository and a controlled runtime, but successful attacks must still act through the task-defined attacker interface and be confirmed by an external verifier. We present AgentXploit, a two-role auditing system that separates repository-level attack-path discovery from runtime exploitation. The Analyzer Agent traces attacker-controlled inputs to sensitive operations and records code-supported candida",
+    "link": "http://arxiv.org/abs/2609.31318v1",
+    "publishedAt": "2026-09-25",
     "categories": [
       "cs.CR",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30215v1",
-    "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+    "id": "arxiv-2609.31315v1",
+    "title": "LUCID: Learning Under Confounding for Inference and Discovery in Time Series",
     "authors": [
-      "Santosh S. Vempala"
+      "Mohammad Fesanghary"
     ],
-    "summary": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches the known nearly quadratic upper bound up to a polylog factor in the dimension. For uniform sampling, this improves on the previous linear lower bound. Our construction also implies the same lower bound for volume estimation.",
-    "link": "http://arxiv.org/abs/2609.30215v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Unobserved common causes are pervasive in real-world time series and can induce spurious associations that causal discovery methods mistake for direct edges. We propose LUCID (Learning Under Confounding for Inference and Discovery, a regime-adaptive deconfounding layer that first estimates the confounding regime from data using a Marčenko--Pastur spectral router, then applies a deconfounding strategy matched to that regime. When the spectrum indicates pervasive factor confounding, LUCID attenuates factor-dominated variation and recovers contemporaneous (lag-$0$) structure from the resulting innovations, with edge selection calibrated against a data-driven edge-free null. Rather than being tied to a particular discovery algorithm, it can wrap existing discovery engines; we demonstrate consi",
+    "link": "http://arxiv.org/abs/2609.31315v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "cs.DS",
       "cs.LG",
-      "math.FA",
-      "math.OC"
+      "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2609.30214v1",
-    "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+    "id": "arxiv-2609.31313v1",
+    "title": "Towards VLA-Dreamer: Refining VLA Behavior Using World Models",
     "authors": [
-      "Yuncong Yang",
-      "Jinlong Li",
-      "Yulong Xue",
-      "Feng Wu",
-      "Chunwen Zhang",
-      "Lei Qiao",
-      "Xuyang Wang"
+      "Parsa Mastouri Kashani",
+      "Jan-Gerrit Habekost",
+      "Stefan Wermter"
     ],
-    "summary": "We present Underwater C$^{3}$-JEPA (cross-view, control-conditioned, context-extended), an object-centric multi-view predictive world model for near-field heavy-load underwater ROV salvage. Without contact sensors, it predicts in latent space how the task-object state evolves through contact interaction and under the hydrodynamic lag of the vehicle, from synchronized multi-view RGB observations and vehicle control signals. C$^{3}$-JEPA encodes multi-camera observations into task-object and context tokens, fuses cross-camera evidence through held-out-view attention, and directly predicts future states conditioned on control. Weak binding anchors the target and gripper at low annotation cost, while SIGReg sharpens the geometric representation. Experiments show that the learned representation",
-    "link": "http://arxiv.org/abs/2609.30214v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Vision-Language-Action models (VLAs), while showing strong potential for robot control, require massive amounts of high-quality imitation learning data. Moreover, the absence of an explicit world model casts further doubt on their control capabilities. In this concept paper, we propose a novel architecture that addresses sample efficiency in VLAs by training a predictive world model on the embedding space of the VLA's vision encoder. We hypothesize that these embeddings are action-relevant and usable for future prediction. To this end, we propose using the suggested architecture to investigate how well these embeddings predict the future based on actions, as the inability to do so would mark a key limitation of VLA architectures: the lack of a non-lossy implicit world model to simulate rea",
+    "link": "http://arxiv.org/abs/2609.31313v1",
+    "publishedAt": "2026-09-25",
     "categories": [
       "cs.RO",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.30212v1",
-    "title": "Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems",
+    "id": "arxiv-2609.31306v1",
+    "title": "Benchmarking Attention for Tabular Foundation Models",
     "authors": [
-      "Ruichen Jiang",
-      "TaeHo Yoon"
+      "Maximilian Schambach",
+      "Clemens Biehl",
+      "Sam Thelin"
     ],
-    "summary": "We study the deterministic oracle complexity of finding approximate solutions to composite monotone inclusion problems, formed by the sum of a smooth single-valued monotone operator and a maximally monotone set-valued operator, under the tangent-residual criterion. We introduce the Anchored Extra-Proximal (AEP) framework, which combines an anchored extrapolation step with an inexact anchored proximal update satisfying a relative-error condition. The framework recovers the composite Fast Extragradient method in the first-order setting and yields natural second- and higher-order extensions by replacing the operator in the implicit update with its Taylor approximation at the extrapolated point. For every $p\\geq 2$, assuming that the $(p-1)$th derivative of the single-valued operator is Lipsch",
-    "link": "http://arxiv.org/abs/2609.30212v1",
-    "publishedAt": "2026-09-24",
+    "summary": "Tabular in-context learners such as TabPFN, Mitra, or ConTextTab rely on alternating row and column attention over 2D sequences of latent embeddings. These attention patterns differ markedly from the one-dimensional case in language models: row attention involves longer sequences while column attention operates on much shorter ones, and the strided memory layout of tabular data makes producing contiguous tensors costly. Moreover, the hidden dimensions used in current models are small compared to recent language models. Yet efficient attention has been studied mostly for one-dimensional sequences, leaving the two-dimensional tabular setting unexplored. To this end, we create a reproducible benchmarking setup and study the unique characteristics of tabular attention across several backends -",
+    "link": "http://arxiv.org/abs/2609.31306v1",
+    "publishedAt": "2026-09-25",
     "categories": [
-      "math.OC",
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2609.30210v1",
-    "title": "The Alignment Illusion in Multimodal Large Language Models",
-    "authors": [
-      "Hong-Han Wang",
-      "Yuntao Wang",
-      "Hu Ding"
-    ],
-    "summary": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual stream. Across 13 MLLMs from five families spanning 0.5B to 72B parameters, replacing projector-output visual tokens with Gaussian noise sharply reduces task accuracy, yet four standard scalar measures (CKA, SVCCA, MIR, and the leading principal-angle cosine) fail to consistently separate the corrupted stream from the original. We call this failure the alignment illusion and trace it to the shared l",
-    "link": "http://arxiv.org/abs/2609.30210v1",
-    "publishedAt": "2026-09-24",
-    "categories": [
-      "cs.CV",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.30205v1",
-    "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+    "id": "arxiv-2609.31303v1",
+    "title": "Geometric Moment Contraction for Stochastic Nesterov Acceleration",
     "authors": [
-      "Jordan L. Cahoon",
-      "Chloe O. Stanwyck",
-      "Sulaiman Somani",
-      "Philip Chung",
-      "Kevin R Keet",
-      "Kameron C. Black",
-      "Andrea T. Fisher",
-      "Sarita Khemani",
-      "Jerry Liu",
-      "Stephen Ma",
-      "Saloni K. Maharaj",
-      "Rita M. Pandya",
-      "Eduardo Perez-Guerrero",
-      "Priyanka Pillai",
-      "Lisa Shieh",
-      "David J. H. Wu",
-      "James Xie",
-      "James C. McAvoy",
-      "Teresa Nguyen",
-      "Jessica Tran",
-      "Lucy Yin",
-      "Bridget Lin",
-      "Alison Callahan",
-      "Jason A. Fries",
-      "Nigam H. Shah",
-      "Emily Alsentzer"
+      "Wei Biao Wu"
     ],
-    "summary": "Large language model (LLM)-based clinical assistants are increasingly being integrated into electronic health record (EHR) systems, transforming how clinicians retrieve and synthesize information from patient records. Their safety and utility depend on rigorous evaluation, yet existing benchmarks are manually curated, costly to update, and rapidly become obsolete with evolving technological advancements. We present a scalable framework that automatically generates question--answer pairs from longitudinal EHR notes. Nineteen clinicians validate the benchmark generator, producing the Benchmark for Retrieving Information in EHRs (BRIE), a continuously maintainable evaluation dataset. Across nine LLMs and five inference strategies, state-of-the-art systems frequently omit clinically important ",
-    "link": "http://arxiv.org/abs/2609.30205v1",
-    "publishedAt": "2026-09-24",
+    "summary": "We study geometric moment contraction (GMC) of the constant-parameter stochastic Nesterov recursion \\[ Y_k=Θ_k+β(Θ_k-Θ_{k-1}),\\qquad Θ_{k+1}=Y_k-γG(Y_k,X_{k+1}). \\] Under mean strong monotonicity and stochastic $L^p$ Lipschitz continuity, an explicit Perron comparison proves synchronous $L^p$ contraction when $βγL_p<(1-β)(1-q_{γ,p})$. This direct criterion includes infinite-variance gradients for $1<p<2$, but its small-step regime requires $β<μ/(μ+L_p)$. A complementary power-Lyapunov argument establishes a positive, generally much smaller, step-size interval for every fixed $β<1$ and every $p>1$, using only a finite $p$th gradient moment. At $p=2$, a simpler explicit certificate gives \\[ 0<γ<\\frac{2μ(1-β)^2}{L_2^2(1-β+2β^2)}. \\] Its quadratic high-momentum scaling is a limitation of the c",
+    "link": "http://arxiv.org/abs/2609.31303v1",
+    "publishedAt": "2026-09-25",
     "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.31301v1",
+    "title": "Beyond Approved Actions: Runtime Validation of Persistent Outcomes in Agent Workflows",
+    "authors": [
+      "Haoran Zhang",
+      "Hengtong Zhang",
+      "Zhiyu Liang",
+      "Yu Yan",
+      "Decheng Zuo",
+      "Hongzhi Wang"
+    ],
+    "summary": "Large language model agents increasingly act on software systems, no longer merely generating text but also changing databases and online services. However, an approved database update may succeed yet leave an unapproved notification because execution can produce persistent effects beyond the requested change. Current safeguards can approve an action or record its aftermath, but without checking the persistent result before continuation, an unapproved outcome can be accepted as success and propagated to later steps. We present EffectMatch, a runtime that collects persistent changes within a controlled execution boundary and compares them with what the application approved for the current state and execution. The comparison governs commit and dependent execution. In comparative evaluation o",
+    "link": "http://arxiv.org/abs/2609.31301v1",
+    "publishedAt": "2026-09-25",
+    "categories": [
+      "cs.SE",
       "cs.AI"
     ]
   }
@@ -971,4 +940,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-27T20:48:17.765Z';
+export const dataFetchedAt = '2026-09-28T03:25:27.831Z';
