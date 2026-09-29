@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
-    "publishedAt": "2026-09-28",
+    "id": "news-coming-soon-our-2026-list-of-climate-tech-companies-to-watch-1790679600000",
+    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate&#8230;",
+    "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-s-1790641800000",
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "id": "news-protego-ventures-closes-debut-125-million-fund-for-israeli-d-1790676000000",
+    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+    "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+    "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-550-1790642970000",
-    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-    "link": "https://www.qbitai.com/2026/09/499098.html",
-    "summary": "李飞飞将入职AMD首席科学家",
+    "id": "news--1790679393000",
+    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+    "link": "https://www.qbitai.com/2026/09/499239.html",
+    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -54,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1790653860000",
-    "title": " 库克为什么把5万亿苹果交给“天价打工人”？ ",
-    "link": "https://www.huxiu.com/article/4894495.html?f=rss",
-    "summary": "库克把5万亿美元的苹果交给了年薪5800万美元的&ldquo;天价打工人&rdquo;特努斯，这位新任CEO不仅是硬件高手，也是25年老苹果人。 面对AI狂潮和OpenAI挖走400多人的挑战，他要带领苹果从现有iPhone模式迈向&ldquo;智能个人中枢&rdquo;的AI时代。苹果还能带来让人&ldquo;哇&rdquo;的时刻吗？",
+    "id": "news-4000-1790681907000",
+    "title": " 战魔田默｜蔚来建了4000座换电站，为什么最后要让别人来用？ ",
+    "link": "https://www.huxiu.com/article/4894643.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜蔚来建了4000座换电站，为什么最后要让别人来用？》 2018年，蔚来建成第一座换电站。八年之后，这张网络已经扩展到4000座。 如果只看最初的商业逻辑，这些换电站当然首先应该服务蔚来。 它们由一家汽车企业投入巨额资金建设，与自己的车型、电池和用户服务体系紧密连接。 车辆怎样设计，电池采用什么规格，换电怎样完成，后台怎样调度，用户怎样获得服务，都可以在同一家公司内部完成协同。 到了2026年，事情开始朝另一个方向发展。 吉利入股蔚来能源，易易互联的营运车辆换电业务进入蔚来能源，更多汽车企业此前也已经与蔚来建立不同形式的换电合作。 如果把视线从这笔交易再向外推一步，一个更大的问题就出现了：一家企业自己花钱建出来的基础设施，为什么做到一定规模以后，反而越来越难只服务自己？ 这个问题并不属于蔚来，也不只属于新能源汽车。 过去一百多年，从铁路、电报、通信到互联网，从云计算到今天的充电、换电和算力基础设施，人类反复经历着一个相似的过程：一项新技术刚刚出现时，不同企业、不同地区甚至不同国家往往各建各的。 当网络不断扩大，彼此不能连接造成的效率损失也会越来越明显。 很多基础设施发展到后来，困难的已经不只是继续建设，而是如何把已经建出来的东西连接起来。 01 企业最初当然应该先为自己建 新产业发展早期，专属体系往往比开放体系更",
     "publishedAt": "2026-09-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1790652176000",
-    "title": "被中国资本收购后，麦当劳的“卫生神话”破灭了？",
-    "link": "https://www.tmtpost.com/8143154.html",
-    "summary": "奶昔是麦当劳今年才重新带回中国市场的产品，没想登上热搜。",
+    "id": "news-arr-1790680381000",
+    "title": "ARR真的是大模型企业的黄金指标吗？",
+    "link": "https://www.tmtpost.com/8154376.html",
+    "summary": "快速上涨的ARR，要花多少钱才能维持。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -82,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
-    "publishedAt": "2026-09-28",
+    "id": "news-making-ai-an-asset-not-an-expense-1790678625000",
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,16 +93,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-ditches-model-over-safety-concerns-1790638760000",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "publishedAt": "2026-09-28",
+    "id": "news-ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot-1790672400000",
+    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+    "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+    "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+    "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -121,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xcelerator-1790599433000",
-    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-    "link": "https://www.qbitai.com/2026/09/498877.html",
-    "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-    "publishedAt": "2026-09-28",
+    "id": "news-rl-bug-prompt-iquest-q1-1790668786000",
+    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+    "link": "https://www.qbitai.com/2026/09/499188.html",
+    "summary": "",
+    "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790653838000",
-    "title": " AI 开始“要脸”了 ",
-    "link": "https://www.huxiu.com/article/4894498.html?f=rss",
-    "summary": "本文来自微信公众号： Tech商业 ，作者：Tech商业 9月上旬，Meta Connect大会舞台上，扎克伯格展示了一段不同寻常的交互：他的Muse智能体，一个身穿托加袍、头戴桂冠、名叫“Agrippa”的卡通形象，不仅帮他生成了一份烘焙配方，还替他下单了所有食材。二十天后，Manus发布Cue，给自己的AI智能体发了邮箱、电话号码和数字钱包——它能以“自己”的身份发消息、接电话、在预算内自主付款。 两家公司，殊途同归。一个给AI一张可爱的脸，一个给AI一个独立的身份。它们共同指向同一个信号：AI正在从聊天窗口里走出来，变成一个有面孔、有名字、有“生活”的存在。 这不是一次简单的UI升级。这是AI产品竞争逻辑的根本转向——当底层模型能力趋于同质化，大厂的用户争夺战正在从“谁更聪明”转向“谁更像人”。 AI不再是一团空气 过去三年，AI产品的基本形态是一个空白对话框。你问，它答。整个交互冷冰冰的——没有面孔，没有语气，没有个性，甚至连一个“名字”都常常被忽略。 Muse和Cue代表了一种截然不同的设计哲学。 Muse的默认形象叫“Jolly”，米色系卡通身体，圆圆的黑眼睛，微微上扬的笑容——被媒体形容为“像《超能陆战队》里的大白，但更可爱一些”。用户可以为它定制外观、名字和服饰，扎克伯格自己的Muse就叫“Agrippa”。更关键的是，通过Muse Realtime Avatar模",
+    "id": "news-muse-1790681474000",
+    "title": " 小微能成为中国的Muse吗？ ",
+    "link": "https://www.huxiu.com/article/4894640.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥 不知道你们最近有没有发现，微信里的AI正在悄悄“换人”。 打开公众号，原来的“元宝总结”正在陆续变成“问AI”，点进去以后，接入的是微信自己的原生AI助手“小微”。 从聊天消息、公众号文章，到朋友圈、照片编辑、扫一扫、文件和部分生活服务，小微正在一点点长进微信的各个角落。 8月，微信官方披露的相关AI入口已经达到16个；到了9月，微信开始测试“小微AI社交”——你可以让自己的小微去找朋友的小微，两个AI先替你们把约饭之类的事情聊清楚，需要做决定时再回来找人确认。 虽然目前这些功能大多还在灰度测试，不是每个人都能看到，但方向是明显的：微信正在把小微从一个AI功能慢慢变成微信里的AI入口。 就在另一边，Meta刚刚用Muse把个人Agent做成了一个普通人也能直接用的消费产品。 Muse上线6天下载量就超过90万，10天冲上美国App Store免费榜第一，随后又登顶Google Play；到第12天，路透社援引的数据已经达到约280万次下载。 Muse背后是Meta，小微背后则是微信。后者甚至已经把社交关系、支付和庞大的小程序生态装在了同一个App里。 那么问题来了：小微能成为下一个Muse吗？ Meta把个人Agent变成了大众产品 Muse的爆火在一定程度上离不开Meta的添柴。 Muse 9月8日上线，第二天Meta就开始在Face",
     "publishedAt": "2026-09-29",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790652110000",
-    "title": "减重，大厂的下一个阳谋？",
-    "link": "https://www.tmtpost.com/8155309.html",
-    "summary": "收割全球的“小而宽”赛道。",
+    "id": "news-9-4-1790677519000",
+    "title": "9个月时间，从参股到到控股：连亏4年半的园林股份，拿华澜微赌翻身",
+    "link": "https://www.tmtpost.com/8156072.html",
+    "summary": "园林股份借道华澜微，能否完成硬科技转身？",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -162,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-rogue-agent-liability-and-the-ai-hype-index-1790597400000",
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
     "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -174,11 +174,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-8217-t--1790636315000",
-    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn&#8217;t as far-fetched as it sounds",
-    "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-    "summary": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-    "publishedAt": "2026-09-28",
+    "id": "news-anthropic-8217-s-prospectus-details-losses-growth-and-yes-a--1790658823000",
+    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -201,11 +201,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hc-aidc-1790594307000",
-    "title": "HC归来，华为正重新定义AIDC基础设施",
-    "link": "https://www.qbitai.com/2026/09/498787.html",
-    "summary": "AI基础设施下一站：算电协同",
-    "publishedAt": "2026-09-28",
+    "id": "news-openai-1790668160000",
+    "title": "OpenAI因新模型太强叫停发布",
+    "link": "https://www.qbitai.com/2026/09/499140.html",
+    "summary": "AGI计划暂停。",
+    "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -214,24 +214,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790653717000",
-    "title": " AI手机真正要消灭的，是“操作手机”这件事 ",
-    "link": "https://www.huxiu.com/article/4894503.html?f=rss",
-    "summary": "本文来自微信公众号： 防冷涂的蜡&amp;书斋 ，作者：防冷涂的蜡 现在的AI手机，正在变得越来越会“办事”。 对着手机说一句“帮我点一杯热拿铁”，然后看它自己打开外卖App、找到常去的咖啡店、完成选购，最后等你确认付款。荣耀曾用这个场景展示YOYO智能体。到了2026年的MagicOS 11，YOYO已经可以连续处理超过100步的长程任务。过去需要人亲手完成的一串动作，正在被AI接走。 这当然很先进。但把画面换个角度看，又有点奇怪：我们已经造出了能够理解自然语言和复杂意图的大模型，然后又让它努力学习怎样寻找菜单、识别图标、按下按钮，在一套原本为人的眼睛和手指设计的界面里行动。 一个已经能听懂“我要什么”的机器，为什么还要学习“下一步点哪里”？ 麦克卢汉曾用“后视镜”形容人理解新媒介时的一种惯性：我们面对新事物，最容易借过去熟悉的形式来想象它。今天的AI手机也有这种味道。手机还在，App还在，按钮还在，只是多了一个越来越聪明的AI替我们完成操作。 如果AI已经能理解“我想做什么”，未来的人为什么还需要继续告诉机器“下一步点哪里”？ 未来最初，总是长得像过去 1993年，苹果推出Newton MessagePad。它可以记录联系人、笔记和日程，最受关注的功能之一，是通过手写笔输入文字。这个设计非常自然：人已经习惯在纸上写字，新设备只要把纸变成屏幕、把墨迹变成数据，就能迅速获得一套人人",
+    "id": "news--1790681177000",
+    "title": " 几多全武汉首店开业，江城聚齐五大门派 ",
+    "link": "https://www.huxiu.com/article/4894636.html?f=rss",
+    "summary": "本文来自微信公众号： 零售商业财经 ，作者：RBF 9月29日，长沙新鲜零食品牌几多全Jidoplus武汉首店落子武昌万象城B1层。开业前一周，品牌已在万象城地铁口摆开试吃台，连续七天向过路客群“抛钩”。工作日午间，店内客流依旧稀疏。这家约300平方米的门店配置35名员工，冷柜、收银、试吃台一岗一人，高人力铺陈之下，试吃到店的转化效率尚待观察。 进门C位，不锈钢岛柜一字排开，鲜卤酱板鸭、山胡椒油魔芋干码得整齐。向内走，冻转鲜甜品与烘焙依次铺开，一侧收银台，一侧品牌标志性现调饮品档，最里侧陈列膨化威化、果干蜜饯等中长保商品。开业推出充值100送8元、充500送120元，门店员工透露，小红书打卡可兑1元奶茶，当天备货2000杯。客流午间尚在爬坡，周末收银台前会排起长队。 几多全的落地，是2026年下半年武汉商场负一层新鲜零食战局的关键落子。1月22日，鸣鸣很忙旗下新鲜零食品牌「有点推荐」进驻武商梦时代，首店单月销售突破500万元，一战打出赛道热度。5月，沈阳起家的一栗nutco南下入汉，同样落子武商梦时代。6月30日，金粒门在武汉连开三店。9月12日，本土龙头良品铺子于汉阳汉商银座推出7.0新鲜健康食品门店。及至9月29日，几多全接力入局。 短短半年，五种出身、打法迥异的新鲜零食品牌齐聚江城。本土选手有点推荐、良品铺子坐镇主场，金粒门、一栗、几多全跨城抢滩。群雄会师武汉，各家供应链模型",
     "publishedAt": "2026-09-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-550-1790651345000",
-    "title": "550亿，苏姿丰买下李飞飞的世界模型公司",
-    "link": "https://www.tmtpost.com/8155299.html",
-    "summary": "AMD宣布与World Labs达成最终收购协议。",
+    "id": "news-anthropic-1790676776000",
+    "title": "风险篇幅接近业务两倍，Anthropic招股书在测试什么",
+    "link": "https://www.tmtpost.com/8156087.html",
+    "summary": "克制的AI回报。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -242,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-who-s-liable-when-ai-agents-go-rogue-1790582782000",
-    "title": "Who’s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
     "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -254,17 +253,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-source-inference-provider-modal-labs-closing-in-on-750m-roun-1790630958000",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "publishedAt": "2026-09-28",
+    "id": "news-peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-s-1790641800000",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -282,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-10-1790518835000",
-    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-    "link": "https://www.qbitai.com/2026/09/498633.html",
-    "summary": "",
-    "publishedAt": "2026-09-27",
+    "id": "news-5-10-1790665859000",
+    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+    "link": "https://www.qbitai.com/2026/09/499135.html",
+    "summary": "诺因从Demo走向家庭",
+    "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -295,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790653558000",
-    "title": " 物理AI深海养巨鲸 ",
-    "link": "https://www.huxiu.com/article/4894505.html?f=rss",
-    "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《物理AI深海养巨鲸｜巨潮》 特斯拉是一家人工智能机器人公司，而汽车只是它暂时的躯壳。 2024年，埃隆·马斯克在特斯拉的财报电话会上如此说道。他还告诫了投资人，如果只用汽车公司的框架去估值特斯拉，那从根本上就是错的，“特斯拉未来的增长几乎全部来自Optimus人形机器人。” 自那时起，一个拥有“物理身体”的AI平台已经诞生，整个AI产业似乎从此进入到一个新的发展时期。 今年1月的拉斯维加斯CES展会，黄仁勋也抛出了一句话：“物理AI的ChatGPT时刻已经到来。” 回到国内，大量创业者和资本集体跳进了具身智能的深海，物理AI开始承载更多科技巨头的转型野心： 京东启动“物理AI加速计划”，冲刺全球六项“全球第一”； 小米集齐了芯片、AI大模型、OS和制造能力，凭借手机、汽车、智能家居完善商业落地； 阿里巴巴千问家族新增了Qwen-Robot系列，这是其首个完整的具身智能模型； 蚂蚁集团组织了一支“物理AI特工队”蚂蚁灵波； 王兴则强调，美团要“打造物理世界的AI底座”，以支撑“帮大家吃得更好，生活更好”的核心诉求。 当AI作为一个产业从虚拟空间走向真实世界，巨头们正集体跳进物理AI这片深海，似乎也只有物理AI这样的“超级深海物种”，才能满足巨鲸们的胃口。 焦虑 即便经历一轮下跌，大模型双子星之一的智谱当前的",
+    "id": "news-manus-1790681132000",
+    "title": " Manus续了一命 ",
+    "link": "https://www.huxiu.com/article/4894617.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜AI生成 Meta和Manus，成对手了。 9月28日，恢复独立不到一个月的Manus面向海外用户发布了Manus 2.0，同时推出了一款新的独立产品Cue。 Cue被定义为一款&ldquo;personal agents&rdquo;应用。它最特别的地方，是给Agent配备了一套基础设施：独立手机号、邮箱、支付账户和电脑。不同Agent还能被拉进一个群聊里，相互分工完成任务。 这听起来很像另一个产品，Meta的个人AI Agent Muse。 按照Meta官方的定义，它是一个能够真正替用户执行任务的个人Agent。Muse运行在独立的Muse Secure VM（虎嗅注：独立虚拟电脑，agent和用户数据会运行其中）上，可以打开浏览器、处理邮件、预订行程、购物，并在后台持续执行任务。 两款产品出现的时间只差20天。 但真正让整件事情变有趣的是两家公司的纠葛&mdash;&mdash;不到一年前，Meta试图花数十亿美元彻底买下Manus。 如今，收购失败，各走各的阳关道。曾经的收购方和被收购方，又在同一条赛道上相遇了。 Muse和Cue的产品哲学分野 表面上看，Muse和Cue都在做Personal Agent，但两家公司对Agent的未来，已经出现了不同的想象。 先来看Muse： Muse一直强调，通过使用记忆让Agent越来",
     "publishedAt": "2026-09-29",
     "source": "虎嗅",
     "tags": [
@@ -309,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790651340000",
-    "title": "谁在给蜜雪冰城、瑞幸供果汁？",
-    "link": "https://www.tmtpost.com/8155258.html",
-    "summary": "新茶饮追鲜，“喂”大了一家山东公司。",
+    "id": "news-app-1790676772000",
+    "title": "消失的网页，膨胀的APP",
+    "link": "https://www.tmtpost.com/8155983.html",
+    "summary": "网页关停或简洁化，APP却变得复杂。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -323,11 +321,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-the-pentagon-s-ai-powered-lie-detector-and-youn-1790338200000",
-    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;",
-    "publishedAt": "2026-09-25",
+    "id": "news-the-download-rogue-agent-liability-and-the-ai-hype-index-1790597400000",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -335,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amd-will-acquire-fei-fei-li-8217-s-world-labs-for-8-2-billio-1790627973000",
-    "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "id": "news-openai-reportedly-ditches-model-over-safety-concerns-1790638760000",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
     "publishedAt": "2026-09-28",
     "source": "TechCrunch",
     "tags": [
@@ -361,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790517477000",
-    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-    "link": "https://www.qbitai.com/2026/09/498605.html",
-    "summary": "想让开发者“说句话就能跑量子计算”",
-    "publishedAt": "2026-09-27",
+    "id": "news-550-1790642970000",
+    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+    "link": "https://www.qbitai.com/2026/09/499098.html",
+    "summary": "李飞飞将入职AMD首席科学家",
+    "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -374,10 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-50-1790652896000",
-    "title": " 广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同 ",
-    "link": "https://www.huxiu.com/article/4894500.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：刘学，作者：曹杨 宋然 停牌10天后，广汽集团（601238.SH）发布公告，对市场热议的“南北丰田合并”传闻给出正式回应。 9月28日晚间，广汽集团发布关于披露《发行股份购买资产并募集配套资金暨关联交易预案》的一般风险提示暨公司股票复牌的公告（下称“公告”）。 根据公告，公司拟以发行股份方式，收购中国第一汽车股份有限公司持有的一汽丰田汽车有限公司（下称“一汽丰田”）50%股权；同时计划向不超过35名符合条件的特定对象发行股份募集配套资金。公司股票将于2026年9月29日（星期二）开市起复牌。 时代周报记者从相关人士处了解到，本次广汽与一汽的战略合作，并非传统意义上的大规模“合并”或“整合”，而是采用全新合作路径，以资本为纽带拆除壁垒，优先聚焦核心业务协同，打造央企与地方国企战略协同的创新范式，旨在应对当前中国汽车行业特有的复杂挑战与发展机遇。 一汽丰田或成历史？ 一汽丰田由一汽股份与丰田汽车合资设立，与广汽丰田共同构成国内汽车市场的南北丰田双合资格局。 回溯本次重组进程，9月14日晚，广汽集团发布停牌公告，称已与一汽股份签署《意向协议》，筹划以发行股份方式收购一汽股份旗下某整车合资公司部分股权，并募集配套资金。 公告发布后，便有接近一汽股份的人士对时代周报记者表示，公告所涉某整车合资公司即为一汽丰田。 广汽集团在公告中表示，本次交易可充分发",
+    "id": "news--1790681105000",
+    "title": " 百亿利润背后，“化学茅”为何引来频繁追问？ ",
+    "link": "https://www.huxiu.com/article/4894637.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：崔陆鹏，原文标题：《百亿利润背后，「化学茅」为何引来频繁追问？》 在二级市场被冠以“化学茅”之称的万华化学，是全球聚氨酯行业龙头，该绰号源于其在化工赛道的龙头地位与稳定盈利属性，类比白酒行业的贵州茅台。 在上半年交出归母净利润突破百亿、同比大增64.35%的成绩单后，万华化学却在9月28日举办的线上业绩说明会上，遭遇投资者关于存货、应收账款、现金流与债务矛盾的接连追问。 提问区内，投资者的关注点集中在以下方面：当前宏观环境下，公司下半年是否面临存货跌价、资产减值的潜在风险？短期借款大幅增长资金投向是什么，是置换长债、储备原料还是支撑在建项目？面对高规模短期债务，公司现有资金储备与后续融资方案，能否覆盖潜在流动性压力？ 供给端收缩驱动的周期红利？ 万华化学的财报向来被视作化工周期的风向标。 其核心主业是聚氨酯产业链，其中最核心的产品是MDI（二苯基甲烷二异氰酸酯）。这是一种应用极广的化工基础原料，小到冰箱保温层、汽车内饰、人造合成革，大到建筑保温板材、冷链物流材料，都离不开MDI作为核心原料。由于生产技术壁垒极高、投产周期长，全球MDI行业长期处于寡头垄断格局。 据国投证券聚氨酯行业深度研报数据，全球MDI行业CR5（前五企业市占率合计）超过90%，主要企业仅万华化学、巴斯夫、科思创、亨斯迈、陶氏五家。截至2026年上半年，万华化学",
     "publishedAt": "2026-09-29",
     "source": "虎嗅",
     "tags": [
@@ -387,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1790650860000",
-    "title": "死磕年轻人的酒店，终于盯上3亿老人",
-    "link": "https://www.tmtpost.com/8155095.html",
-    "summary": "3亿老人催生万亿市场。",
+    "id": "news-manus-ai-1790676765000",
+    "title": "Manus 要做AI时代的“全家桶”",
+    "link": "https://www.tmtpost.com/8155978.html",
+    "summary": "一个AI Agent公司，为什么说自己在卖电脑？",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -404,242 +402,260 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.35177v1",
-    "title": "Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation",
+    "id": "arxiv-2609.35770v1",
+    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
     "authors": [
-      "Yueming Lyu"
+      "Srinjay Sarkar",
+      "Prakhar Kaushik",
+      "Soumava Paul",
+      "Alan Yuille"
     ],
-    "summary": "Estimating integrals of black-box, high-dimensional functions, from expectations and kernel mean embeddings to the softmax kernel in self-attention, is a basic subroutine in machine learning. Rank-1 lattice rules suit this setting: they query the integrand only at a fixed point set and need no gradients. When the $n$ points serve as a design matrix $X\\in\\mathbb{R}^{n\\times d}$ for a feature map, however, computing $Ψ(X)^\\top v$ or $Ψ(X)w$ for an elementwise nonlinearity $Ψ$ costs $O(nd)$ time and memory for any standard quasi-Monte Carlo point set. We study subgroup rank-1 lattices, whose Korobov generator $(1,t,\\dots,t^{d-1})$ uses a scalar $t$ of fixed multiplicative order $m$. Splitting $\\mathbb{F}_n^\\times$ into cosets of $\\langle t\\rangle$ reduces both maps to short cyclic correlation",
-    "link": "http://arxiv.org/abs/2609.35177v1",
+    "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditioned latent field, decoded into strand geometry via a PCA-based decoder. We reconstruct a defurred animal body using local fur-thickness cues from a surface-constrained Gaussian Frosting representation together with part-based priors. We further show that a PCA-based decoder learned from human-hair strand data can alleviate animal-data scarcity whi",
+    "link": "http://arxiv.org/abs/2609.35770v1",
     "publishedAt": "2026-09-28",
     "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35174v1",
-    "title": "ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models",
-    "authors": [
-      "Robert Lampel",
-      "Timon Klein",
-      "Sebastian Sager"
-    ],
-    "summary": "We propose a lifted reformulation of supervised classification that improves the final accuracy of standard classifiers without changing the architecture at inference time. A network $N=N_2\\circ N_1$ is split at a single semantic interface and one learnable prototype per class is inserted there. Training combines a quadratic consensus penalty that pulls $N_1(x)$ toward the prototype of its class with a classification loss of $N_2$ evaluated on samples drawn around the prototypes, whereat no gradient crosses the interface. At inference the prototypes are discarded and the unmodified network $N_2\\circ N_1$ is used. Across CIFAR-10, CIFAR-100, and TinyImageNet with ResNet and vision transformer backbones, lifted training improves test accuracy by up to five percentage points over variants wit",
-    "link": "http://arxiv.org/abs/2609.35174v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35168v1",
-    "title": "QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency",
-    "authors": [
-      "Shihao Wang",
-      "Rui Kong",
-      "Xinran Chen",
-      "Hui Wu",
-      "Qipeng Qian",
-      "Jinman Zhao",
-      "Jiashu Zhao",
-      "Yuchen Li",
-      "Jimmy Huang",
-      "Dawei Yin"
-    ],
-    "summary": "Saved checkpoints record states along a training trajectory, but generally do not determine the updates at states that would be visited under a different schedule. We study how accurately these checkpoints can reconstruct the endpoint of a sequential reference with prescribed update strengths. Under a common local transition model, two checkpoint-index moment conditions characterize all convex merges that agree with this reference through second order. We then prove an information limit that for nondegenerate profiles, no algorithm using only a fixed-length gradient-descent (GD) history with step size $h$ can achieve $o(h^3)$ endpoint error uniformly over a fixed class of smooth, strongly convex losses. The lower bound follows from two losses with identical GD checkpoint histories but sequ",
-    "link": "http://arxiv.org/abs/2609.35168v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35167v1",
-    "title": "EdgeCraft: Automated Model Crafting for Edge IoT",
-    "authors": [
-      "Genglin Wang",
-      "Kaiwei Liu",
-      "Liekang Zeng",
-      "Wangsong Yin",
-      "Shangcheng Jin",
-      "Guoliang Xing",
-      "Zhenyu Yan"
-    ],
-    "summary": "Machine learning (ML) increasingly powers Internet of Things (IoT) applications at the edge. Yet producing a deployable edge ML artifact for a specific scenario requires navigating a huge search space spanning data representation, model design, training on domain-specific data, and runtime customization. This workflow is fragmented and difficult to scale across diverse edge applications. We present EdgeCraft, an LLM-driven system that turns high-level intent into deployable edge ML artifacts. Building such a system raises two challenges: (1) How can an LLM be guided to find high-quality solutions that meet dynamic SLOs for task quality, latency, and energy? (2) How can trustworthy target-device verification be obtained at low cost? EdgeCraft addresses these challenges with two designs. (1)",
-    "link": "http://arxiv.org/abs/2609.35167v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "cs.DC"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35166v1",
-    "title": "Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion",
-    "authors": [
-      "Dmitrii Moor",
-      "Federico Tomasi",
-      "Paul N. Bennett",
-      "Alice Wang",
-      "Mounia Lalmas"
-    ],
-    "summary": "Discrete diffusion models offer the ability to re-draft, revisiting and correcting earlier tokens throughout generation. This capability depends on the forward corruption process that defines what the denoiser learns to correct. Masked diffusion models fix tokens once they are unmasked, while uniform diffusion permits revisions but relies on uniformly random token substitutions. We instead learn which substitutions are most useful for training the denoiser to re-draft. We introduce Variational Stackelberg Discrete Diffusion (VSDD), a framework for learning a semantically aware corruption process. VSDD formulates training as a leader-follower game: the leader defines a Markovian corruption process parameterized by the denoiser's token embeddings, while the follower optimizes a variational d",
-    "link": "http://arxiv.org/abs/2609.35166v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35161v1",
-    "title": "Small transformers track Bayesian evidence for latent common causes via a context-invariant mechanism",
-    "authors": [
-      "Amir Mohammadpour",
-      "Michael Franke"
-    ],
-    "summary": "We present an in-depth investigation of how a form of Bayesian reasoning about common causes can emerge as a cross-contextual generalization in small, tractable transformers. Incrementing on recent work, our set-up (i) disentangles causal mechanisms in the model from the causal structure of the true data-generating process, (ii) orients more towards natural language prediction by considering inference of latent common causes, and (iii) considers whether and how Bayesian evidence accumulation for latent common causes can be implemented in representations and mechanisms that allow for cross-context generalization to novel test cases.",
-    "link": "http://arxiv.org/abs/2609.35161v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35160v1",
-    "title": "FONDANT: Strong and Best-Effort Planning via Antichains",
-    "authors": [
-      "Benjamin Aminof",
-      "Tuan Khai Nguyen",
-      "Sasha Rubin"
-    ],
-    "summary": "A classical solution concept in fully observable nondeterministic (FOND) planning, is the strong policy (aka winning strategy in the closely related area of reactive synthesis), i.e., such a policy ensures that the goal is reached in an adversarial environment. When strong policies are not available or there is no evidence that the environment is adversarial, one can resort to best-effort policies, which always exist, and which follow the classic decision-theoretic principle that an agent should not use a dominated strategy. A typical positional best-effort policy works as follows: from every state, it follows a strong policy if one exists from that state (such states are called ``strong-winning''), else a weak policy if one exists from that state (``weak-winning''), and else is unconstrai",
-    "link": "http://arxiv.org/abs/2609.35160v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35158v1",
-    "title": "PEARL: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning",
-    "authors": [
-      "Jiaan Zhu",
-      "Wei Gao",
-      "Youhui Bai",
-      "Zewen Jin",
-      "Ju Huang",
-      "Siran Yang",
-      "Jiamang Wang",
-      "Lin Qu",
-      "Cheng Li"
-    ],
-    "summary": "Multi-turn rollout dominates the cost of agentic reinforcement learning (RL). Asynchronous execution and elastic GPU resources can accelerate this stage, but adding rollout replicas yields diminishing returns while training GPUs remain idle between updates. We observe that effective resource use also depends on the prefill--decode (PD) configuration. Both the choice between colocation and disaggregation and the optimal PD ratio vary with the workload, making resource scaling and PD configuration interdependent. Exploiting this opportunity requires selecting effective configurations and realizing their benefits within transient resource-availability windows despite reconfiguration costs. We present PEARL, an asynchronous agentic RL system that coordinates external resource elasticity, tempo",
-    "link": "http://arxiv.org/abs/2609.35158v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35152v1",
-    "title": "Coordinated Lane-Level Variable Speed Limits and Ramp Metering for Successive Weaving Segments Considering Merging/Diverging Risks: A Hybrid Model Predictive Control and Multi-Agent Reinforcement Learning Approach",
-    "authors": [
-      "Guodong Ma",
-      "Baofeng Sun",
-      "Wenyu Yang",
-      "Zhihong Yao"
-    ],
-    "summary": "Successive weaving segments (SWSs) on urban expressways are bottlenecks prone to recurrent congestion and collisions, requiring fine-grained active traffic management (ATM). Existing approaches struggle to balance the adaptive performance of data-driven optimization with the resilience and transferability of model-based control. We propose a hybrid framework to coordinate lane-level variable speed limits (VSLs) and ramp metering across SWSs. First, we reconstruct L-METANET, a lane-level macroscopic traffic flow model that captures free and forced lane changes. Second, we combine XGBoost-SHAP with a random-parameters binary logit (RPBL) model to derive analytical equations for merging and diverging collision risks and formulate system cost and reward functions. Third, we develop MPC-STMAPPO",
-    "link": "http://arxiv.org/abs/2609.35152v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "math.OC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35149v1",
-    "title": "From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale",
-    "authors": [
-      "Yaxiao Liu",
-      "Pengbo Liu",
-      "Yiwen Liu",
-      "Yihua Guan",
-      "Jiaxing Song"
-    ],
-    "summary": "Agents need calibration when deployment conditions change: replacing a driving model, including a foundation-to-post-trained transition; crossing jurisdictions; or scaling across heterogeneous markets and sources. Interface compatibility alone does not establish capability retention or target-contract satisfaction. We formulate agent calibration as constrained behavioral adaptation across three interacting layers: information preservation, harness adaptation, and user acceptance; the layers apply to every scenario, not one-to-one to the three. The basic objective is non-degradation on prespecified capability measures while satisfying target requirements; aggregate improvement is stronger. Information calibration preserves independently validated source content still applicable to the targe",
-    "link": "http://arxiv.org/abs/2609.35149v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
+      "cs.CV",
       "cs.AI",
-      "cs.MA",
+      "cs.GR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35769v1",
+    "title": "Telescopic Language Models",
+    "authors": [
+      "Zhilin Guo",
+      "Boqiao Zhang",
+      "Hakan Aktas",
+      "Kyle Fogarty",
+      "Nursena Koprucu Aslan",
+      "Wenzhao Li",
+      "Canberk Baykal",
+      "Albert Miao",
+      "Siyu Hong",
+      "Yixiao Liu",
+      "Adam Wu",
+      "Ashish Kumar Singh",
+      "Sakar Khattar",
+      "Chenliang Zhou",
+      "Weihao Xia",
+      "Cristina Nader Vasconcelos",
+      "Cengiz Oztireli"
+    ],
+    "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid language model at every depth. Two forward-backward passes per step, no architectural change, nothing extra at inference. Fixed-exit suites such as Matryoshka Language Model Suites (MLMS) occupy one point in this design space, and the point has a cost: supervising only a few fixed exits leaves the nested ",
+    "link": "http://arxiv.org/abs/2609.35769v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35768v1",
+    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "authors": [
+      "Zimo Wang",
+      "Junkun Yuan",
+      "Angtian Wang",
+      "Haotian Yang",
+      "Canyu Zhang",
+      "Siyuan Yuan",
+      "Xingchang Huang",
+      "Bo Liu",
+      "Yizhi Wang",
+      "Yiding Yang",
+      "Chongyang Ma",
+      "Gordon Guocheng Qian"
+    ],
+    "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversaturation and artifacts. We trace this instability to critic errors, which enter successive student updates and accumulate over time. We introduce Projected Distribution Matching Distillation (PDMD) to filter critic errors. PDMD projects out the component of the DMD update parallel to the student-critic endpoint residual. At a fixed noisy query, we prove that this residual is an unbiased estimate of the critic's endpoint error. Under high-dimensional assumptions, this projection removes a constant frac",
+    "link": "http://arxiv.org/abs/2609.35768v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35767v1",
+    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "authors": [
+      "Yijia Fan",
+      "Ziqi Huang",
+      "Zhongang Cai",
+      "Yan Li",
+      "Zimo Wen",
+      "Wanqi Yin",
+      "Haiwen Diao",
+      "Ziwei Liu"
+    ],
+    "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be learned jointly, over the whole loop. Supervised fine-tuning (SFT) on reflection trajectories gives a cold start but does not find the high-success repair paths, and naive RL that optimizes only the renderer or only one head leaves most of the gain untapped. We introduce UMM-Reflection, which applies reinforcement learning (RL) to complete reflection trajectories inside one unified model: sibling trajectories share one initial image, so the group-relative advantage compares r",
+    "link": "http://arxiv.org/abs/2609.35767v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35765v1",
+    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+    "authors": [
+      "András Kovács",
+      "Alexander Conroy",
+      "Daniel Hershcovich",
+      "Jens Bjerring-Hansen"
+    ],
+    "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blixen's Seven Gothic Tales. Drawing on the commentary to a critical edition, we construct a benchmark of 189 annotated references and evaluate retrieval against all 31,170 verses of historically plausible Danish Old and New Testament translations. We compare TF-IDF and BM25 with multilingual and Danish sentence encoders, examine the effect of linguistic normalization, and fine-tune a Danish encoder using hard negatives and five-fold cross-validation. We analyze performance across automatically derived lexical-overlap ",
+    "link": "http://arxiv.org/abs/2609.35765v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35763v1",
+    "title": "Unifying Distributional Training for One-Step Visual Generation",
+    "authors": [
+      "Chi Zhang",
+      "Haoyang Shi",
+      "Yueyi Liu",
+      "Ruichuan An",
+      "Junkang Zhou",
+      "Chang Li",
+      "Xiuyuan Lu",
+      "Yichi Zhang",
+      "Bo Wang",
+      "Yuhang Wu",
+      "Sen Cui",
+      "Miao Liu"
+    ],
+    "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework} that separates distribution modeling from matching discrepancy and connects global objectives to pointwise feature updates through Wasserstein gradient flow. Under this framework, FD-Loss and Gaussian-kernel Drifting are recovered through Gaussian optimal transport and kernel-density-based KL matching, respectively. The framework motivates \\textbf{MGFlow}, which models feature distributions with Gaussian mixtures at an adjustable granularity between global moments and sample-based representations. MGFlow supports both optimal transport and score-based matching, and couples m",
+    "link": "http://arxiv.org/abs/2609.35763v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35759v1",
+    "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+    "authors": [
+      "Zhennan Wan",
+      "Jianfei Chen"
+    ],
+    "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Existing story-generation methods typically focus on stories of up to about ten thousand words, leaving their ability to scale to full-length novels underexplored. In this work, we introduce Narrative State Tracking Agent (NstAgent), a training-free agentic framework that allows LLMs to track a structured narrative state including characters, past events and future requirements. We extend an existing benchmark to compare narrative consistency across lengths, and use it together with a writing-quality benchmark to systematically evaluate stories ranging from 10K to 100K words. We show that NstAge",
+    "link": "http://arxiv.org/abs/2609.35759v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35760v1",
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "authors": [
+      "Chaoqian Ouyang",
+      "Ling Yue",
+      "Libin Zheng",
+      "Huanghui Guo",
+      "Shengxiang Xu",
+      "YiShu Wang",
+      "Ran Li",
+      "Jian Yin",
+      "Shaowu Pan",
+      "Shimin Di"
+    ],
+    "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call. The total consumption of a task is therefore hard to predict before execution and the prediction must be revised as the run unfolds. In this paper, we propose TokenCast, which learns a composable cost representation for each execution segment, recording its own consumption and the context growth it introduces. Composing adjacent segments yields a cumulative estimate that captures the extra input cost incurred when context from earlier segments is re-read by every later call. As execution unfold",
+    "link": "http://arxiv.org/abs/2609.35760v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
       "cs.SE"
     ]
   },
   {
-    "id": "arxiv-2609.35143v1",
-    "title": "Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut",
+    "id": "arxiv-2609.35758v1",
+    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
     "authors": [
-      "Gunin Gupta",
-      "Nirmit Arora",
-      "Pavan Kalyan Tankala"
+      "Min Kim",
+      "José Leonardo Brenes",
+      "Fred Hadaegh",
+      "Soon-Jo Chung"
     ],
-    "summary": "AI agents increasingly carry out long-horizon professional work, but their evaluations rarely require a finished creative deliverable. To this end, we introduce Timeline-Bench, a benchmark of 56 real video-editing tasks, each asking an agent to turn raw production material into a finished video. Tasks range from selecting dialog takes and shaping interview footage into a story to cutting commercials from product shots, voiceovers and graphics. Every task provides a brief, source assets, a container and a set of tests. A task is resolved when the output passes every test. The tests check the delivery format, the content and the brief's explicit requirements, and include a quality test calibrated on 2,582 blind judgments by 43 video editors. We evaluate 16 agents that pair frontier models wi",
-    "link": "http://arxiv.org/abs/2609.35143v1",
+    "summary": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent last-layer adaptive disturbance-rejection methods. Specifically, we introduce a statistically principled hard expectation-maximization (hard-EM) procedure, with a Kalman smoother in the hard E-step, to identify dynamical representations of disturbance whose latent evolution is uniformly contractive. The learned representation evolves a latent disturbance-excitation state from measured plant features and control inputs and decodes that state into the time-varying disturbance acting on the nominal plant, thereby extending prior \"fixed-decay\" last-layer adaptive methods to a learned, pr",
+    "link": "http://arxiv.org/abs/2609.35758v1",
     "publishedAt": "2026-09-28",
     "categories": [
-      "cs.CV",
+      "eess.SY",
+      "cs.LG",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35752v1",
+    "title": "Neural Harmonic Measure Operator",
+    "authors": [
+      "Jinjin He",
+      "Sinan Wang",
+      "Yuchen Sun",
+      "Bo Zhu"
+    ],
+    "summary": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution that, integrated against any boundary data, returns the Dirichlet Laplace solution. It depends only on the geometry, not on the boundary data. NHMO parameterizes the density of this measure as a transformer-based boundary kernel supervised by Walk-on-Spheres exit samples, so one trained kernel handles different boundary values on a shape with no retraining. We extend it to Poisson via a classical decomposition, with an auxiliary network amortizing the source-induced correction and avoiding the singular volume quadrature that breaks direct evaluation. At inference, new boundary values and new sour",
+    "link": "http://arxiv.org/abs/2609.35752v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35751v1",
+    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "authors": [
+      "Shouren Wang",
+      "Chuang Ma",
+      "Mohsen Hariri",
+      "Debargha Ganguly",
+      "Wang Yang",
+      "Xiaoqing Tong",
+      "Qianying Liu",
+      "Xiaotian Han",
+      "Vipin Chaudhary"
+    ],
+    "summary": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-experts (MoE) models activate only a few of many experts for each token. Looped MoE bridges these two design philosophies and gives MoE models new potential for better expert usage, but it raises a question: how to loop a MoE? We answer it with Foil. With the expert parameters and the expert compute per token held fixed, Foil (1) flattens the experts, halving the expert layers, doubling the experts per layer and doubling the passes, so that every routing decision chooses from a larger pool, and (2) unties the attention, giving each pass its own attention parameters while the experts and routers stay",
+    "link": "http://arxiv.org/abs/2609.35751v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.LG",
       "cs.AI",
-      "cs.MM"
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2609.35139v1",
-    "title": "CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion",
+    "id": "arxiv-2609.35750v1",
+    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
     "authors": [
-      "Genglin Wang",
-      "Wangsong Yin",
-      "Yeerzhati Abudunuer",
-      "Haoxuan Xu",
-      "Guoliang Xing",
-      "Zhenyu Yan"
+      "Emiliano Penaloza",
+      "Dane Malenfant",
+      "Dheeraj Vattikonda",
+      "Roger Creus Castanyer",
+      "Siddarth Venkatraman",
+      "Abhay Puri",
+      "Jonathan Light",
+      "Matthew James Sargent",
+      "Augustine N. Mavor-Parker",
+      "Massimo Caccia",
+      "Lucas Caccia",
+      "Glen Berseth",
+      "Esmeralda S. Whitammer",
+      "Alessandro Sordoni",
+      "Minseon Kim",
+      "Marc-Alexandre Côté",
+      "Laurent Charlin",
+      "Guillaume Lajoie"
     ],
-    "summary": "Multi-document retrieval-augmented generation (RAG) requires a language model to process multiple retrieved text chunks before answering a question. Precomputing each chunk's KV cache independently and concatenating the caches when the chunks are retrieved can accelerate this step. However, the assembled cache lacks cross-chunk attention information, reducing answer quality. Selective recomputation methods recover the missing cross-chunk context by rerunning the target LLM on selected tokens, incurring substantial online computation. We introduce CacheRepair, a lightweight network that learns the difference between independently computed KV caches and those produced by processing the chunks together. The network combines compressed KV features with token embeddings and uses attention that ",
-    "link": "http://arxiv.org/abs/2609.35139v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35138v1",
-    "title": "FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales",
-    "authors": [
-      "Shidu Ren",
-      "Qilin Gu",
-      "Zhenghao Ni",
-      "Junhan Sun",
-      "Jiaqi Wang",
-      "Damien Scieur",
-      "Yunze Liu"
-    ],
-    "summary": "Latent world models predict future states for goal-directed planning using action chunks spanning multiple primitive steps. Existing methods typically use fixed-length chunks and either omit goal-conditioned action generation or limit their supervision to short goal spans. We introduce FlexiWorld, a JEPA-based world model that combines mixed-span goal supervision with variable-length action chunks to improve long-horizon control. During training, we sample varying goal spans and randomly partition the actions into variable-length chunks. We jointly train the world model with a causal action encoder that embeds variable-length chunks and an autoregressive actor that generates primitive actions sequentially. Student Forcing reduces exposure bias by training on generated action prefixes. For ",
-    "link": "http://arxiv.org/abs/2609.35138v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35130v1",
-    "title": "CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning",
-    "authors": [
-      "Junkang Liu"
-    ],
-    "summary": "Communication-efficient federated optimization commonly spends several gradient evaluations between server updates. Existing local-update methods use this computation to advance an independent model on each client. Under heterogeneous data, however, these models evaluate gradients at different locations, making the aggregated update difficult to interpret as a gradient of the global objective. We study an alternative use of the same computation budget: \\emph{evaluate the global objective along a shared, predicted path}. We propose Common-Trajectory Predictive Federated Learning (\\texttt{CTP-FL}). At each round, all clients construct the same sequence of query points from the current global model and the previous aggregated direction, evaluate $K$ stochastic gradients along this sequence, a",
-    "link": "http://arxiv.org/abs/2609.35130v1",
+    "summary": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory constant for a given trace. Unfortunately, most compaction strategies rely on prefilling the LLM context many times over, hindering training throughput. To alleviate this bottleneck and enable efficient trainable compaction, we propose KV-streams, a plug-and-play strategy compatible with any compaction strategy that substantially increases throughput while showing no evidence of hindering performance. KV-streams enable scalable compaction by streaming the KV cache forward rather than flushing it after each compaction. We show that KV-streams enable three different compaction strate",
+    "link": "http://arxiv.org/abs/2609.35750v1",
     "publishedAt": "2026-09-28",
     "categories": [
       "cs.LG",
@@ -647,118 +663,185 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2609.35128v1",
-    "title": "Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation",
+    "id": "arxiv-2609.35749v1",
+    "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
     "authors": [
-      "Ping Xiong",
-      "Shanglin Li",
-      "Yi Ding",
-      "Thomas Schnake",
-      "Shinichi Nakajima"
+      "Linxiao Gong",
+      "Yijie Xu",
+      "Tianfu Wang",
+      "Yin Wu",
+      "Yili Wang",
+      "Xingbo Yao",
+      "Huizai Yao",
+      "Xilin Xia",
+      "Haowen Yang",
+      "Hui Xiong"
     ],
-    "summary": "Hyperbolic neural networks introduce geometric operations that require explicit treatment in relevance propagation. Equivalent geometric realizations can produce different feature attributions, even when local relevance is conserved. We study this problem through Geometric Representation Invariance (GRI), a specialization of Implementation Invariance, and zero-curvature consistency, which requires identity relevance propagation when a geometric module approaches the identity. We propose LRP-radial-all for origin-centered radial modules, treating geometric scaling as modulation and assigning relevance entirely to the signal branch. The rule conserves relevance, is invariant to equivalent radial factorizations, and satisfies zero-curvature consistency, yielding GRI for a specified Poincaré-L",
-    "link": "http://arxiv.org/abs/2609.35128v1",
+    "summary": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challenging because agents must convey enough to address a partner's constraints and advance their goals without adding words that do not help the interaction. In this paper, we propose Teacher-Assisted Communication Training (TACT) to improve social goal attainment while reducing communication cost, making interactions with agents more productive and less demanding. We first characterize communication efficiency in terms of action strategy and expression, whose effects extend beyond the current utterance to the partner's response and subsequent exchanges. We design TACT to revise student-generated acti",
+    "link": "http://arxiv.org/abs/2609.35749v1",
     "publishedAt": "2026-09-28",
     "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35748v1",
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "authors": [
+      "Yichen You",
+      "Tianyu Fu",
+      "Aosong Feng",
+      "Xingtai Lv",
+      "Xuefei Ning",
+      "Ning Ding",
+      "Yu Wang"
+    ],
+    "summary": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLOPs. However, to the best of our knowledge, whether looping improves test-time scaling as outputs grow longer remains underexplored. Through post-training looped transformers, we study the accuracy-compute slope, measured as the accuracy gain per doubling of test-time decoding FLOPs. We find that existing looped transformers often yield steeper slopes than their non-looped baseline, yet underperform it at matched compute. While fixed-depth looping spends extra iterations on every token, our analysis shows that many tokens do not benefit from extra iterations. We therefore propose TaH2, which en",
+    "link": "http://arxiv.org/abs/2609.35748v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.35121v1",
-    "title": "A Multimodal Autonomic Sensing Framework for Objective Assessment of Patient Responses to Dental Pulp Stimulation",
+    "id": "arxiv-2609.35745v1",
+    "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
     "authors": [
-      "Youngsun Kong",
-      "Yubin Choi",
-      "Dongjin Song",
-      "Dong-Guk Shin",
-      "I-Ping Chen",
-      "Ki Chon"
+      "Huaiyuan Qin",
+      "Muli Yang",
+      "Gabriel James Goenawan",
+      "Shiqi Huang",
+      "Min Kass Chong",
+      "Wahyu Wiratama",
+      "Peng Hu",
+      "Chen Gong",
+      "Wu Liu",
+      "Xi Peng",
+      "Chun Jian Ho",
+      "Hongyuan Zhu"
     ],
-    "summary": "Patient responses to dental pulp testing, ranging from no sensation to intense pain, provide important information for assessing pulp status in endodontic diagnosis. However, pain is a subjective sensory and emotional experience that varies considerably across individuals and can be difficult to communicate. We investigated whether complementary autonomic signals could support objective assessment of responses during dental examination. Forty-nine patients underwent cold pulp testing, yielding no-response, mild-response, and intense-response conditions. The framework integrated ECG-derived skin nerve activity (SKNA) and R-R intervals (RRI), together with electrodermal activity (EDA), using temporal convolutional network encoders with attention-based mid-level fusion. Individual baseline si",
-    "link": "http://arxiv.org/abs/2609.35121v1",
+    "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pre-training and typically underperform the original Softmax version. How to initialize linear ViTs both efficiently and effectively still remains unclear. In this work, we explicitly ask: given that most foundation ViTs are built on the mainstream Softmax attention, can linear ViTs benefit from their pre-trained weights? Recent works on Attention Transfer show that attention is the effective transferable component between Softmax ViTs, suggesting attention alone suffices for such reuse. However, we find the opposite for Softmax-to-linear transfer. The attention weights are operator-specific: co",
+    "link": "http://arxiv.org/abs/2609.35745v1",
     "publishedAt": "2026-09-28",
     "categories": [
-      "cs.LG",
-      "eess.SP"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35117v1",
-    "title": "Tool Mediation Alters Refusal Mechanisms in Large Language Models",
-    "authors": [
-      "Abel Rodríguez",
-      "Giuseppe Garofalo",
-      "Lieven Desmet",
-      "Vera Rimmer"
-    ],
-    "summary": "Large language models (LLMs) are increasingly deployed with access to external tools, yet harmful tool-mediated interactions are less likely to be refused when compared to regular conversational ones. As this change in refusal behavior remains underexplored, we investigate its underlying mechanisms across a diverse set of open-weight language models. We find that information about the harmfulness of a request remains strongly encoded in the model's representations and transfers across conversational and tool-mediated inputs. Evidence from representation geometry and neuron-level analysis further indicates that the two interaction modes systematically distribute harm-related computation differently. Crucially, while conversational inputs can be refused at relatively low levels of perceived ",
-    "link": "http://arxiv.org/abs/2609.35117v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35115v1",
-    "title": "DuplexCadence: Exact State and Execution from a Speech Model's Declared Timelines",
-    "authors": [
-      "Haixiao Gao",
-      "Yimin Zheng",
-      "Linyou Xiao",
-      "Zeke Xie"
-    ],
-    "summary": "Full-duplex speech models support streaming interaction that listens and speaks at the same time. Serving them is governed by a strict, repeating deadline: conversation advances on a one-second cadence, and every second of input must be turned into a second of speech before the next second arrives. Because stages within a session run in strict sequence, per-invocation overhead cannot be batched away. Profiling reveals that the autoregressive stages of a duplex second already fit within the period, whereas the token-to-audio synthesis tail is what causes overruns. This tail stage suffers from orchestration slack where the GPU is left waiting as thousands of tiny, regular operations are issued one by one, while also wasting substantial memory by over-provisioning state at static implementati",
-    "link": "http://arxiv.org/abs/2609.35115v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35113v1",
-    "title": "SymbolicArena: A Unified Infrastructure for Benchmark Distillation and Dynamic Evaluation in Symbolic Regression",
-    "authors": [
-      "Ziwen Zhang",
-      "Xiju Wu",
-      "Yuheng Jing",
-      "Runxiang Wang",
-      "Boxiao Wang",
-      "Yifan Zang",
-      "Yifan Zhang",
-      "Yang Wang",
-      "Kai Li",
-      "Yifan Zhang",
-      "Huilin Xu",
-      "Jian Cheng"
-    ],
-    "summary": "Symbolic regression (SR) seeks concise and interpretable mathematical expressions from data for scientific equation discovery. Existing SR benchmarks face a tradeoff between evaluation cost and benchmark validity. Repeated evaluation of large task pools is expensive, and compact benchmarks lack systematic evidence of preserved task diversity and algorithm discriminability. SymbolicArena provides a unified infrastructure for benchmark distillation and dynamic evaluation. The framework standardizes 664 heterogeneous tasks with executable ground truth expressions and distills the Full Task Set into Core50, a validated benchmark of 50 tasks. The distillation process preserves task coverage and algorithm discrimination under explicit balance constraints. SymbolicArena applies a unified executio",
-    "link": "http://arxiv.org/abs/2609.35113v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
+      "cs.CV",
+      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.35110v1",
-    "title": "Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge",
+    "id": "arxiv-2609.35744v1",
+    "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
     "authors": [
-      "Yitong Li",
-      "Jincheng Yu",
-      "Junsong Chen",
-      "Haopeng Li",
-      "Shuchen Xue",
-      "Haozhe Liu",
-      "Ping Luo",
-      "Song Han",
-      "Enze Xie"
+      "Hoyoung Lee",
+      "Suyeol Yun",
+      "Jack Haverty",
+      "Yunju Cho",
+      "Meesong Kim",
+      "Daekyung Park",
+      "Sumin Kim",
+      "Jihoon Kwon",
+      "Jasmine Jia Geng",
+      "Andrew Chin",
+      "Yin Luo",
+      "Edward Tong",
+      "Yu Yu",
+      "Zach Golkhou",
+      "Minkyu Kim",
+      "Igor Halperin",
+      "Young Cha",
+      "Alejandro Lopez-Lira",
+      "Chanyeol Choi",
+      "Yongjae Lee"
     ],
-    "summary": "Video diffusion models are rapidly scaling and exhibiting enhanced generation capabilities. Among these recent advancements, MiniMax-H3 stands out as a highly capable, production-level open-source model. However, its 33-billion parameters and multi-step iterative denoising process introduce substantial computational overhead. Consequently, their practical production is hindered by generation latency in the cloud deployment like NVIDIA-GB200, alongside strict memory limits that pose further challenges at the edge device like DGX-Spark. To address these diverse hardware bottlenecks from cloud to edge device, we present a full-stack inference pipeline that integrates efficient algorithmic design with optimized operator implementations. Algorithmically, we introduce a cross-resolution two-stag",
-    "link": "http://arxiv.org/abs/2609.35110v1",
+    "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while agents and code carry out query-specific rubric generation, review, and validation. This expert guidance governs every agent, as prompts and as rules that code enforces, and a Task Bank of reusable criteria carries it across tasks. In long-horizon loops that follow the expert guidance, a writer agent researches every expected value and a reviewer agent verifies it, and failures escalate to a human. On three expert-authored finance benchmarks,",
+    "link": "http://arxiv.org/abs/2609.35744v1",
     "publishedAt": "2026-09-28",
     "categories": [
       "cs.AI",
-      "cs.CV",
+      "q-fin.CP"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35741v1",
+    "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+    "authors": [
+      "Jonathan Light",
+      "Christopher Zhang Cui",
+      "Jeonghye Kim",
+      "Roger Creus Castanyer",
+      "Emiliano Penaloza",
+      "Zhengyan Shi",
+      "Alessandro Sordoni",
+      "Marc-Alexandre Côté",
+      "Xingdi Yuan",
+      "Minseon Kim"
+    ],
+    "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a minimal online procedure designed to isolate the effect of explanation-only training on subsequent behavior. The agent attempts a task, observes available feedback, generates a retrospective explanation, and is fine-tuned with a next-token prediction loss on the explanation tokens alone. The procedure uses neither an external teacher nor a reward-based policy update. In software-engineering experiments with Qwen3.5-4B, ROFT is trained on",
+    "link": "http://arxiv.org/abs/2609.35741v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35738v1",
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "authors": [
+      "Alvin Zhang",
+      "Xuecheng Liu",
+      "Zixuan Wang",
+      "Fahim Tajwar",
+      "Daman Arora",
+      "Ruslan Salakhutdinov",
+      "Daniel Khashabi",
+      "Yuda Song",
+      "Andrea Zanette"
+    ],
+    "summary": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a proposer model to revise a solver's harness using execution feedback. We formulate this process as meta-learning over executable programs, with harness revisions playing the role of weight updates in gradient-based adaptation. We train the proposer with reinforcement learning, using the task performance of revised harnesses as the reward. At test time, the proposer uses feedback from successive executions on a new task to refine the harness, wit",
+    "link": "http://arxiv.org/abs/2609.35738v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.CL",
       "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35732v1",
+    "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+    "authors": [
+      "Junru Zhu",
+      "Shiming Xie",
+      "Aime Lu Fan Chen",
+      "Xiaoqing Ding",
+      "Chunxin Tang",
+      "Ruoyu Qi",
+      "Yulang Fei"
+    ],
+    "summary": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure with tool selection, recovery, and environment dynamics. We introduce Failure-Transparent Agents (FTA), a controlled benchmark that fixes the failed observation and required evidence state before generation, making post-failure claims directly auditable. FTA contains 100 tasks with deterministic failure traces spanning five failure families, a neutral control, and four user-pressure conditions, and evaluates unsupported claims alongside useful recovery. Across six models, three response policies, and 3,600 human-annotated responses, false-success rates are 22.8% under the baseline policy, 9.3% ",
+    "link": "http://arxiv.org/abs/2609.35732v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.35715v1",
+    "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+    "authors": [
+      "Prithwish Dan",
+      "Chenyang Ma",
+      "Wei Zhan"
+    ],
+    "summary": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom is difficult to discover from scratch. Prior works make exploration tractable with high-quality robot demonstrations, per-task reward shaping, or by restricting policies to narrow modes of behavior. We propose X-Reset, a framework that instead resolves exploration with human hand-object demonstrations. Rather than imitating or tracking retargeted human motion, X-Reset kinematically retargets hand-object states to noisy robot states, filters out states that are unstable in simulation, and sample",
+    "link": "http://arxiv.org/abs/2609.35715v1",
+    "publishedAt": "2026-09-28",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
     ]
   }
 ];
@@ -964,4 +1047,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-29T04:01:24.213Z';
+export const dataFetchedAt = '2026-09-29T12:03:32.916Z';
