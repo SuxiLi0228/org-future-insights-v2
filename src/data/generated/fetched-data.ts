@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-coming-soon-our-2026-list-of-climate-tech-companies-to-watch-1790679600000",
-    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate&#8230;",
+    "id": "news-the-download-climate-tech-companies-to-watch-and-ai-s-discov-1790683800000",
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
     "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-protego-ventures-closes-debut-125-million-fund-for-israeli-d-1790676000000",
-    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-    "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-    "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+    "id": "news-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-c-1790716812000",
+    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+    "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-insurers-say-ai-could-add-billions-in-health-costs-billing-c-1790626620000",
-    "title": "Insurers say AI could add billions in health costs. Billing companies disagree.",
-    "link": "https://www.hrdive.com/news/insurers-say-ai-could-add-billions-in-health-costs-billing-companies-disag/831530/",
-    "summary": "When payers shell out more for care, premiums increase and those costs cascade to employers and patients.",
-    "publishedAt": "2026-09-28",
+    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
+    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
+    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
+    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
+    "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -54,23 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4000-1790681907000",
-    "title": " 战魔田默｜蔚来建了4000座换电站，为什么最后要让别人来用？ ",
-    "link": "https://www.huxiu.com/article/4894643.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜蔚来建了4000座换电站，为什么最后要让别人来用？》 2018年，蔚来建成第一座换电站。八年之后，这张网络已经扩展到4000座。 如果只看最初的商业逻辑，这些换电站当然首先应该服务蔚来。 它们由一家汽车企业投入巨额资金建设，与自己的车型、电池和用户服务体系紧密连接。 车辆怎样设计，电池采用什么规格，换电怎样完成，后台怎样调度，用户怎样获得服务，都可以在同一家公司内部完成协同。 到了2026年，事情开始朝另一个方向发展。 吉利入股蔚来能源，易易互联的营运车辆换电业务进入蔚来能源，更多汽车企业此前也已经与蔚来建立不同形式的换电合作。 如果把视线从这笔交易再向外推一步，一个更大的问题就出现了：一家企业自己花钱建出来的基础设施，为什么做到一定规模以后，反而越来越难只服务自己？ 这个问题并不属于蔚来，也不只属于新能源汽车。 过去一百多年，从铁路、电报、通信到互联网，从云计算到今天的充电、换电和算力基础设施，人类反复经历着一个相似的过程：一项新技术刚刚出现时，不同企业、不同地区甚至不同国家往往各建各的。 当网络不断扩大，彼此不能连接造成的效率损失也会越来越明显。 很多基础设施发展到后来，困难的已经不只是继续建设，而是如何把已经建出来的东西连接起来。 01 企业最初当然应该先为自己建 新产业发展早期，专属体系往往比开放体系更",
-    "publishedAt": "2026-09-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-arr-1790680381000",
-    "title": "ARR真的是大模型企业的黄金指标吗？",
-    "link": "https://www.tmtpost.com/8154376.html",
-    "summary": "快速上涨的ARR，要花多少钱才能维持。",
+    "id": "news--1790695458000",
+    "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
+    "link": "https://www.tmtpost.com/8156522.html",
+    "summary": "储能出局，募资变动始末",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -81,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-ai-an-asset-not-an-expense-1790678625000",
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "id": "news-coming-soon-our-2026-list-of-climate-tech-companies-to-watch-1790679600000",
+    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate&#8230;",
     "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -93,25 +79,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot-1790672400000",
-    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-    "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-    "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+    "id": "news-openai-8217-s-latest-features-take-direct-aim-at-the-app-sto-1790712947000",
+    "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-nlrb-returns-to-first-trump-era-employee-misconduct-framewor-1790626560000",
-    "title": "NLRB returns to first Trump-era employee misconduct framework",
-    "link": "https://www.hrdive.com/news/nlrb-returns-to-first-trump-era-employee-misconduct-framework/831537/",
-    "summary": "Following a mandate from the 5th U.S. Circuit Court of Appeals, the agency applied the framework it tried to argue against in 2023.",
-    "publishedAt": "2026-09-28",
+    "id": "news-major-players-in-the-health-wellness-and-luxury-spaces-bring-1790707740000",
+    "title": "Major players in the health, wellness and luxury spaces bring on new HR talent in September",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-september-2026/831518/",
+    "summary": "Kaiser Permanente and Exemplar Luxury Group added new HR leaders, though both are veterans in their industries.",
+    "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -134,24 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-1790681474000",
-    "title": " 小微能成为中国的Muse吗？ ",
-    "link": "https://www.huxiu.com/article/4894640.html?f=rss",
-    "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥 不知道你们最近有没有发现，微信里的AI正在悄悄“换人”。 打开公众号，原来的“元宝总结”正在陆续变成“问AI”，点进去以后，接入的是微信自己的原生AI助手“小微”。 从聊天消息、公众号文章，到朋友圈、照片编辑、扫一扫、文件和部分生活服务，小微正在一点点长进微信的各个角落。 8月，微信官方披露的相关AI入口已经达到16个；到了9月，微信开始测试“小微AI社交”——你可以让自己的小微去找朋友的小微，两个AI先替你们把约饭之类的事情聊清楚，需要做决定时再回来找人确认。 虽然目前这些功能大多还在灰度测试，不是每个人都能看到，但方向是明显的：微信正在把小微从一个AI功能慢慢变成微信里的AI入口。 就在另一边，Meta刚刚用Muse把个人Agent做成了一个普通人也能直接用的消费产品。 Muse上线6天下载量就超过90万，10天冲上美国App Store免费榜第一，随后又登顶Google Play；到第12天，路透社援引的数据已经达到约280万次下载。 Muse背后是Meta，小微背后则是微信。后者甚至已经把社交关系、支付和庞大的小程序生态装在了同一个App里。 那么问题来了：小微能成为下一个Muse吗？ Meta把个人Agent变成了大众产品 Muse的爆火在一定程度上离不开Meta的添柴。 Muse 9月8日上线，第二天Meta就开始在Face",
-    "publishedAt": "2026-09-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-9-4-1790677519000",
-    "title": "9个月时间，从参股到到控股：连亏4年半的园林股份，拿华澜微赌翻身",
-    "link": "https://www.tmtpost.com/8156072.html",
-    "summary": "园林股份借道华澜微，能否完成硬科技转身？",
+    "id": "news-8-25-8-26-tce-1790689782000",
+    "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
+    "link": "https://www.tmtpost.com/8156362.html",
+    "summary": "上市公司资金完成一轮内部流转之后，最终落到平台的是外部投资人实缴的1.6亿元增量资金。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -162,11 +133,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
-    "publishedAt": "2026-09-28",
+    "id": "news-making-ai-an-asset-not-an-expense-1790678625000",
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -174,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-8217-s-prospectus-details-losses-growth-and-yes-a--1790658823000",
-    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "id": "news-openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuati-1790711557000",
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -187,11 +158,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-seeks-subpoena-enforcement-against-hyundai-over-alleged-1790626560000",
-    "title": "EEOC seeks subpoena enforcement against Hyundai over alleged refusal to hire non-Koreans",
-    "link": "https://www.hrdive.com/news/eeoc-seeks-subpoena-enforcement-against-hyundai-non-korean-bias-probe/831546/",
-    "summary": "The filing comes at the same time that the commission has made national origin discrimination a prominent part of its regulatory agenda.",
-    "publishedAt": "2026-09-28",
+    "id": "news-high-performers-might-resent-lower-performing-workers-gettin-1790695380000",
+    "title": "High performers might resent lower-performing workers getting training over them",
+    "link": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
+    "summary": "Managers may struggle with this decision in part because of what training represents and what doors it can open up, a researcher said.",
+    "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -214,23 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790681177000",
-    "title": " 几多全武汉首店开业，江城聚齐五大门派 ",
-    "link": "https://www.huxiu.com/article/4894636.html?f=rss",
-    "summary": "本文来自微信公众号： 零售商业财经 ，作者：RBF 9月29日，长沙新鲜零食品牌几多全Jidoplus武汉首店落子武昌万象城B1层。开业前一周，品牌已在万象城地铁口摆开试吃台，连续七天向过路客群“抛钩”。工作日午间，店内客流依旧稀疏。这家约300平方米的门店配置35名员工，冷柜、收银、试吃台一岗一人，高人力铺陈之下，试吃到店的转化效率尚待观察。 进门C位，不锈钢岛柜一字排开，鲜卤酱板鸭、山胡椒油魔芋干码得整齐。向内走，冻转鲜甜品与烘焙依次铺开，一侧收银台，一侧品牌标志性现调饮品档，最里侧陈列膨化威化、果干蜜饯等中长保商品。开业推出充值100送8元、充500送120元，门店员工透露，小红书打卡可兑1元奶茶，当天备货2000杯。客流午间尚在爬坡，周末收银台前会排起长队。 几多全的落地，是2026年下半年武汉商场负一层新鲜零食战局的关键落子。1月22日，鸣鸣很忙旗下新鲜零食品牌「有点推荐」进驻武商梦时代，首店单月销售突破500万元，一战打出赛道热度。5月，沈阳起家的一栗nutco南下入汉，同样落子武商梦时代。6月30日，金粒门在武汉连开三店。9月12日，本土龙头良品铺子于汉阳汉商银座推出7.0新鲜健康食品门店。及至9月29日，几多全接力入局。 短短半年，五种出身、打法迥异的新鲜零食品牌齐聚江城。本土选手有点推荐、良品铺子坐镇主场，金粒门、一栗、几多全跨城抢滩。群雄会师武汉，各家供应链模型",
-    "publishedAt": "2026-09-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-1790676776000",
-    "title": "风险篇幅接近业务两倍，Anthropic招股书在测试什么",
-    "link": "https://www.tmtpost.com/8156087.html",
-    "summary": "克制的AI回报。",
+    "id": "news-15-1790689394000",
+    "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
+    "link": "https://www.tmtpost.com/8156391.html",
+    "summary": "金银河此时融资扩产，赌的是三年后的量产线招标，而非今年的中试订单。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -241,10 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
     "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -253,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-s-1790641800000",
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "id": "news-more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfoun-1790707683000",
+    "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+    "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+    "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -266,11 +224,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-recent-ada-lawsuits-1790611440000",
-    "title": "6 recent ADA lawsuits",
-    "link": "https://www.hrdive.com/news/6-recent-ada-lawsuits/831431/",
-    "summary": "Court orders have shown there are limits to workers&rsquo;&nbsp;discrimination claims under the Americans with Disabilities Act.",
-    "publishedAt": "2026-09-28",
+    "id": "news-if-ai-takes-on-junior-level-work-how-will-cfos-develop-talen-1790693820000",
+    "title": "If AI takes on junior-level work, how will CFOs develop talent?",
+    "link": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
+    "summary": "Teikametrics CFO Brian Beaupre is changing how he evaluates young candidates.&nbsp;",
+    "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -293,24 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-1790681132000",
-    "title": " Manus续了一命 ",
-    "link": "https://www.huxiu.com/article/4894617.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜AI生成 Meta和Manus，成对手了。 9月28日，恢复独立不到一个月的Manus面向海外用户发布了Manus 2.0，同时推出了一款新的独立产品Cue。 Cue被定义为一款&ldquo;personal agents&rdquo;应用。它最特别的地方，是给Agent配备了一套基础设施：独立手机号、邮箱、支付账户和电脑。不同Agent还能被拉进一个群聊里，相互分工完成任务。 这听起来很像另一个产品，Meta的个人AI Agent Muse。 按照Meta官方的定义，它是一个能够真正替用户执行任务的个人Agent。Muse运行在独立的Muse Secure VM（虎嗅注：独立虚拟电脑，agent和用户数据会运行其中）上，可以打开浏览器、处理邮件、预订行程、购物，并在后台持续执行任务。 两款产品出现的时间只差20天。 但真正让整件事情变有趣的是两家公司的纠葛&mdash;&mdash;不到一年前，Meta试图花数十亿美元彻底买下Manus。 如今，收购失败，各走各的阳关道。曾经的收购方和被收购方，又在同一条赛道上相遇了。 Muse和Cue的产品哲学分野 表面上看，Muse和Cue都在做Personal Agent，但两家公司对Agent的未来，已经出现了不同的想象。 先来看Muse： Muse一直强调，通过使用记忆让Agent越来",
-    "publishedAt": "2026-09-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-app-1790676772000",
-    "title": "消失的网页，膨胀的APP",
-    "link": "https://www.tmtpost.com/8155983.html",
-    "summary": "网页关停或简洁化，APP却变得复杂。",
+    "id": "news--1790685140000",
+    "title": "跨界医疗梦碎，永和智控持续甩卖资产",
+    "link": "https://www.tmtpost.com/8156335.html",
+    "summary": "实控人曹德莅曾多次筹划出让上市公司控制权。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -321,10 +265,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-rogue-agent-liability-and-the-ai-hype-index-1790597400000",
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
     "publishedAt": "2026-09-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -333,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-ditches-model-over-safety-concerns-1790638760000",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "publishedAt": "2026-09-28",
+    "id": "news-apple-pay-set-to-launch-in-india-with-axis-bank-today-source-1790707500000",
+    "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+    "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+    "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,16 +290,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-doctor-s-note-is-vague-what-should-the-employer-do-next-1790611380000",
-    "title": "The doctor’s note is vague. What should the employer do next?",
-    "link": "https://www.hrdive.com/news/the-doctors-note-is-vague-what-should-the-employer-do-next/831148/",
-    "summary": "Employers get into trouble when they treat an incomplete note as a verdict, writes Rachel Shaw, an ADA compliance expert.",
-    "publishedAt": "2026-09-28",
+    "id": "news-the-operational-fix-that-could-jump-start-innovation-a-week--1790693820000",
+    "title": "The operational fix that could jump-start innovation? A week with no meetings.",
+    "link": "https://www.hrdive.com/news/how-to-catch-up-on-work-case-study-taskrabbit/831610/",
+    "summary": "Taskrabbit&rsquo;s Deep Think Weeks were met with an &ldquo;overwhelmingly positive&rdquo; response from workers, the company&rsquo;s manager of people experience&nbsp;said.",
+    "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -372,23 +317,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790681105000",
-    "title": " 百亿利润背后，“化学茅”为何引来频繁追问？ ",
-    "link": "https://www.huxiu.com/article/4894637.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：崔陆鹏，原文标题：《百亿利润背后，「化学茅」为何引来频繁追问？》 在二级市场被冠以“化学茅”之称的万华化学，是全球聚氨酯行业龙头，该绰号源于其在化工赛道的龙头地位与稳定盈利属性，类比白酒行业的贵州茅台。 在上半年交出归母净利润突破百亿、同比大增64.35%的成绩单后，万华化学却在9月28日举办的线上业绩说明会上，遭遇投资者关于存货、应收账款、现金流与债务矛盾的接连追问。 提问区内，投资者的关注点集中在以下方面：当前宏观环境下，公司下半年是否面临存货跌价、资产减值的潜在风险？短期借款大幅增长资金投向是什么，是置换长债、储备原料还是支撑在建项目？面对高规模短期债务，公司现有资金储备与后续融资方案，能否覆盖潜在流动性压力？ 供给端收缩驱动的周期红利？ 万华化学的财报向来被视作化工周期的风向标。 其核心主业是聚氨酯产业链，其中最核心的产品是MDI（二苯基甲烷二异氰酸酯）。这是一种应用极广的化工基础原料，小到冰箱保温层、汽车内饰、人造合成革，大到建筑保温板材、冷链物流材料，都离不开MDI作为核心原料。由于生产技术壁垒极高、投产周期长，全球MDI行业长期处于寡头垄断格局。 据国投证券聚氨酯行业深度研报数据，全球MDI行业CR5（前五企业市占率合计）超过90%，主要企业仅万华化学、巴斯夫、科思创、亨斯迈、陶氏五家。截至2026年上半年，万华化学",
-    "publishedAt": "2026-09-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-manus-ai-1790676765000",
-    "title": "Manus 要做AI时代的“全家桶”",
-    "link": "https://www.tmtpost.com/8155978.html",
-    "summary": "一个AI Agent公司，为什么说自己在卖电脑？",
+    "id": "news-arr-1790680381000",
+    "title": "ARR真的是大模型企业的黄金指标吗？",
+    "link": "https://www.tmtpost.com/8154376.html",
+    "summary": "快速上涨的ARR，要花多少钱才能维持。",
     "publishedAt": "2026-09-29",
     "source": "钛媒体",
     "tags": [
@@ -1012,24 +944,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1136670",
-    "title": "Engineering Manager Thailand",
-    "company": "Bjak ",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About KIRA Our mission is to make money smart, reliable and within reach for everyone",
-      "In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region",
-      "Today, it's the leading insurance platform in Southeast Asia",
-      "Today, we are expan"
-    ],
-    "skills": [],
-    "location": "Bangkok",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
-    "postedAt": "2026-08-14",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1136216",
     "title": "Market Research",
     "company": "GROW10X",
@@ -1044,7 +958,26 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216",
     "postedAt": "2026-08-04",
     "isNew": false
+  },
+  {
+    "id": "job-remoteok-1135745",
+    "title": "Regional General Manager Airports",
+    "company": "WestJet",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Why WestJet Since our story took off in 1996, WestJet has strived to enrich the lives of everyone in our world; a career with us is no exception",
+      "We’re proud to be one of Canada’s most admired and respected corporate cultures and continuously aim for the highest standards of service and success"
+    ],
+    "skills": [
+      "RAG",
+      "Agent"
+    ],
+    "location": "Mississauga, ",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
+    "postedAt": "2026-07-31",
+    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-09-29T12:03:32.916Z';
+export const dataFetchedAt = '2026-09-29T21:48:18.149Z';
