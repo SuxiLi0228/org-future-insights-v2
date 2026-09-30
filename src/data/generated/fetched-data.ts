@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-c-1790716812000",
-    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-    "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+    "id": "news-america-gov-gets-really-weird-when-you-ask-it-about-minecraf-1790724655000",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790679393000",
-    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-    "link": "https://www.qbitai.com/2026/09/499239.html",
-    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+    "id": "news-openai-gpt-6-1-sol-25-1790722865000",
+    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+    "link": "https://www.qbitai.com/2026/09/499246.html",
+    "summary": "今年devday牙膏挤爆",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -53,11 +53,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790695458000",
-    "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
-    "link": "https://www.tmtpost.com/8156522.html",
-    "summary": "储能出局，募资变动始末",
-    "publishedAt": "2026-09-29",
+    "id": "news-100-1790739957000",
+    "title": " “生不养老索养”之一：吵了100年，法律为什么就是不认？ ",
+    "link": "https://www.huxiu.com/article/4894772.html?f=rss",
+    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 2014年，河南一对夫妻离婚。协议上白纸黑字写着：女儿随母亲生活，父亲自愿放弃女儿将来的赡养义务。 12年后，这位父亲老了，丧失自理能力，住进了养老院。 他做的第一件事不是找女儿谈谈，而是找了个律师——一纸诉状把女儿告上法庭：每月支付赡养费3000元。 女儿在法庭上拿出那份泛黄的离婚协议：这是你自己签的字。 法院的回应，一句话就能说清：签了也白签。赡养，要给。酌定为每月600元。 这是河南桐柏县法院2026年9月审结的真实案件，法院官网原文写得明明白白：赡养是法定强制性义务，不得通过民事主体之间的协议免除。 判决一出，评论区直接炸了。 “白纸黑字都不算数，那签字还有什么意义？” “当年不管不问，老了张口就要钱，这公平吗？” 说实话，我第一次看到这个判决，心里也咯噔了一下。但当我把近几年的同类案子翻了一遍之后，我发现——这不是孤例，这是一条铁律。而且，它背后藏着一个吵了上百年的问题。 一、你以为的例外，法律早就想过 有人会说：桐柏这个案子，父亲只是“没完全尽到抚养责任”，还不算极端。那真正狠的呢？ 湖北有一个案子。据红星新闻2026年6月报道：一位生父，1998年生下女儿、如今六旬，却基本没尽过抚养义务，孩子由母亲拉扯大。2025年，他起诉索要每月1500元赡养费，法院酌情判了500元。女儿不服，上诉。2026年6月，恩施州",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-dots-openai-1790737567000",
+    "title": "Dots 上场这天，OpenAI 把自家最强模型拦在门外",
+    "link": "https://www.tmtpost.com/8156899.html",
+    "summary": "一边登台，一边缺席。",
+    "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -79,10 +92,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-8217-s-latest-features-take-direct-aim-at-the-app-sto-1790712947000",
-    "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "id": "news-the-internet-is-convinced-elon-musk-8217-s-xai-trolled-opena-1790720459000",
+    "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -106,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rl-bug-prompt-iquest-q1-1790668786000",
-    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-    "link": "https://www.qbitai.com/2026/09/499188.html",
-    "summary": "",
+    "id": "news--1790679393000",
+    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+    "link": "https://www.qbitai.com/2026/09/499239.html",
+    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -119,11 +132,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-25-8-26-tce-1790689782000",
-    "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
-    "link": "https://www.tmtpost.com/8156362.html",
-    "summary": "上市公司资金完成一轮内部流转之后，最终落到平台的是外部投资人实缴的1.6亿元增量资金。",
-    "publishedAt": "2026-09-29",
+    "id": "news--1790739607000",
+    "title": " 希音的利润去哪了？ ",
+    "link": "https://www.huxiu.com/article/4894768.html?f=rss",
+    "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 2026年9月28日晚上，希音交出了上市后首份中期成绩单。净利润有点唬人： 净利润22.99亿美元，同比增长111.7%； 经调整净利润4.99亿美元，同比下降55.6%。 同一家公司，同一张利润表，同一个报告期，两行数字朝着完全相反的方向狂奔。 往上冲的那行，登上了财经媒体的头条；往下砸的那行，藏在财报第几十页的角落里。 四年前，希音估值近千亿美元，上市后市值只剩下1303亿港元，缩水七成多。现在第一份财报出来了，两行打架的利润数字把谜面摆在了所有人面前：希音的利润，到底去哪了？ 01自己打架的成绩单 先把那行暴增的净利润拆开看。 22.99亿美元的账面净利润里，有18.61亿美元来自同一个科目：可转换可赎回优先股的公允价值变动。 翻译成人话，希音上市前融过太多轮资，估值一路涨，那些优先股在会计准则下记的是负债，估值一变就要重估，一重估就产生账面损益。上市当天，所有优先股自动转成普通股，这笔“账”兑现成了利润。 这不是生意挣的钱，是估值挣的钱。生意本身挣了多少钱？财报里另一行写得清楚：经调整净利润4.99亿美元，同比跌了55.6%。 二季度更难看。经调整净利润2.28亿美元，同比下降66.6%，经调整净利率从去年同期的6.2%一路掉到2.1%。再往前翻，招股书披露今年一季度希音账面亏损9900万美元。也就是说，二季度2.28亿美元的经",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-door-to-robotics-ipos-is-closing-1790736604000",
+    "title": "The Door to Robotics IPOs Is Closing",
+    "link": "https://www.tmtpost.com/8156873.html",
+    "summary": "Following severe post-IPO volatility—notably Unitree Robotics’ ~55% share decline—Chinese regulators are tightening scrutiny on robotics IPOs, questioning whether valuation surges match true commercial demand. With over 50 robotics firms queuing under channels like Hong Kong’s Chapter 18C, regulators are auditing revenue quality, focusing on one-off government projects and unvetted orders. Listing candidates fall into three distinct tiers: scaled firms with strong margins, project-dependent companies facing continuous losses, and full-stack humanoid developers reliant on tech narratives. Capit",
+    "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -145,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuati-1790711557000",
-    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "id": "news-your-car-and-its-mobile-app-are-probably-handing-over-all-ki-1790720315000",
+    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -172,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1790668160000",
-    "title": "OpenAI因新模型太强叫停发布",
-    "link": "https://www.qbitai.com/2026/09/499140.html",
-    "summary": "AGI计划暂停。",
+    "id": "news-rl-bug-prompt-iquest-q1-1790668786000",
+    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+    "link": "https://www.qbitai.com/2026/09/499188.html",
+    "summary": "",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -185,11 +211,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-15-1790689394000",
-    "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
-    "link": "https://www.tmtpost.com/8156391.html",
-    "summary": "金银河此时融资扩产，赌的是三年后的量产线招标，而非今年的中试订单。",
-    "publishedAt": "2026-09-29",
+    "id": "news-748-1790739421000",
+    "title": " 泡泡玛特美洲暴涨748%，但真正的信号藏在回落里 ",
+    "link": "https://www.huxiu.com/article/4894765.html?f=rss",
+    "summary": "本文来自微信公众号： Streambuds ，作者：努力的馒头 高增长会骗人，退潮之后的动作不会——出海的胜负手，正在从铺货变成扎根。 ——streambuds 中国品牌出海，最近被一条数据刷了屏：泡泡玛特2025年美洲市场收入超过68亿元人民币，同比增长748.4%，公司正计划在加利福尼亚州开设总部。 七倍多的增速，足够任何一家公司吹三年。但如果只看到748%，你就错过了这次出海潮里真正值钱的信号。 翻一翻泡泡玛特2026年上半年的分区域数据：美洲收入18.92亿元，同比回落16.5%。热闹的增速刹车了。 有意思的是，同一份报表里，美洲市场线下渠道收入依然保持约20%的正增长——线上在退，线下在涨。 一个暴涨、一个回调、一个仍在向上。这三条曲线放在一起，才拼出了中国品牌出海的完整剧本：靠流量红利铺货的第一阶段结束了，靠本地化深耕的第二阶段刚刚开始。 本文看点 01 增速的两副面孔 02 三个品牌一套动作 03 普通卖家抄什么 01 TWO FACES OF GROWTH 增速的两副面孔 先看这一轮出海的成绩单，不止泡泡玛特一家在猛跑。 中国潮玩品牌泡泡玛特，靠LABUBU在美国年轻消费群体里掀起抢购潮；服装品牌Urban Revivo把旗舰店开进了纽约SoHo——全球时尚品牌最密集的街区之一；名创优品更直接，2025年底美国门店达到351家，当年净增76家，美国会员数同比增长超过",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-09-21-09-27-1790736457000",
+    "title": "基金市场概况与资产配置观点 （09.21—09.27）",
+    "link": "https://www.tmtpost.com/8156868.html",
+    "summary": "A股市场上周主要股指涨跌不一，日均成交额增加，融资余额减少，房地产等行业表现较好。腾讯济安指数作为价值投资导向的指标，旨在发掘市场中的价值低估个股，值得投资者关注。",
+    "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -211,10 +250,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfoun-1790707683000",
-    "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-    "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-    "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+    "id": "news-a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-1790718696000",
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+    "summary": "EliseAI raises $350M, doubles valuation in a year.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -238,10 +277,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-10-1790665859000",
-    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-    "link": "https://www.qbitai.com/2026/09/499135.html",
-    "summary": "诺因从Demo走向家庭",
+    "id": "news-openai-1790668160000",
+    "title": "OpenAI因新模型太强叫停发布",
+    "link": "https://www.qbitai.com/2026/09/499140.html",
+    "summary": "AGI计划暂停。",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -251,11 +290,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790685140000",
-    "title": "跨界医疗梦碎，永和智控持续甩卖资产",
-    "link": "https://www.tmtpost.com/8156335.html",
-    "summary": "实控人曹德莅曾多次筹划出让上市公司控制权。",
-    "publishedAt": "2026-09-29",
+    "id": "news-36-shein-1790739420000",
+    "title": " 当库存只剩36天，SHEIN开始面对另一笔成本 ",
+    "link": "https://www.huxiu.com/article/4894764.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的蜡&amp;书斋 ，作者：防冷涂的蜡 9月28日，SHEIN披露了2026年上半年及第二季度的最新经营数据。第二季度，公司订单量同比增长7.6%，达到2.98亿单；净收入增长0.9%，达到110.8亿美元。经调整净利润却下降66.6%，只剩2.28亿美元，利润率从上年同期的6.2%降至2.1%。同期，履约成本增长18.1%，明显快于收入。 再看SHEIN最受关注的库存指标。2023年至2025年，公司库存周转分别为35天、34天和36天，截至2026年3月底的过去12个月为38天，一直维持在三十多天。2025年底，SHEIN自营模式下的服装款式已经超过200万个，未售库存比例仍处于低个位数。 订单仍在增长，库存也没有明显积压，利润率却快速下降。小单快返一直是SHEIN最重要的经营模式之一。理解这组变化，需要先回答一个更基础的问题：小单快返究竟替服装企业解决了什么，又把成本留在了哪里？ 小单快返怎么降低库存风险 传统服装生意的一道难题，是生产决策必须走在销售前面。 一款衣服能不能流行、哪个颜色更好卖、消费者愿意支付多少钱，都还没有经过真实订单检验，企业就要决定生产数量。做少了，卖得好时可能来不及补货；做多了，需求没有跟上，投入的资金便留在库存里，最后通过打折和清仓消化。 SHEIN的LATR模式把第一批生产数量控制在很低的水平。按照公司披露的数据，一款新",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790736032000",
+    "title": "餐饮企业的半年报里，藏着一个“烟火中国”",
+    "link": "https://www.tmtpost.com/8156509.html",
+    "summary": "碾碎一些人，幸存一些人。",
+    "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -277,10 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-pay-set-to-launch-in-india-with-axis-bank-today-source-1790707500000",
-    "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-    "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-    "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "id": "news-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-c-1790716812000",
+    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+    "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
     "publishedAt": "2026-09-29",
     "source": "TechCrunch",
     "tags": [
@@ -304,10 +356,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-550-1790642970000",
-    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-    "link": "https://www.qbitai.com/2026/09/499098.html",
-    "summary": "李飞飞将入职AMD首席科学家",
+    "id": "news-5-10-1790665859000",
+    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+    "link": "https://www.qbitai.com/2026/09/499135.html",
+    "summary": "诺因从Demo走向家庭",
     "publishedAt": "2026-09-29",
     "source": "量子位",
     "tags": [
@@ -317,11 +369,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-arr-1790680381000",
-    "title": "ARR真的是大模型企业的黄金指标吗？",
-    "link": "https://www.tmtpost.com/8154376.html",
-    "summary": "快速上涨的ARR，要花多少钱才能维持。",
-    "publishedAt": "2026-09-29",
+    "id": "news-22-1790739393000",
+    "title": " 为看短剧，爸妈两年花掉22万：这笔钱还能要回来吗？ ",
+    "link": "https://www.huxiu.com/article/4894766.html?f=rss",
+    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 今日案例 在二三线城市，22万元可以多付一套房子的首付，或者买下一辆不错的家用车。而新疆一位年近七旬的老人，却在两年多时间里把这样一笔钱化整为零，变成4887笔微信短剧充值订单。9月26日，《IT时报》的深度调查把这份账单摊开在公众面前。 2025年11月7日凌晨0点04分，一笔短剧充值完成；0点15分，又是一笔；39.9元、69.9元、49.9元……充值一直持续到凌晨4点09分，上午11点25分又接着充，直到深夜23点24分才停下。这一天，老人一共为短剧支付了29次，花掉1466.3元。这样的夜晚，从2024年1月开始，陆陆续续持续了两年多。 老人确诊中度阿尔茨海默病。家人最后统计出账单：4887笔充值订单、365个剧场、22.58万元。其中39.9元一个档位就出现1310次，69.9元档位出现736次，接近一半的充值发生在上一笔之后的30分钟以内。家人怀疑，老人是在认知障碍影响下，无意识点中了付费弹窗和自动续费勾选框。 河北的李女士也有相似遭遇。她年过七旬的父亲一年半内为短剧充值5万多元，微信被拉进上百个微信群，手机被各类娱乐公司电话轮番轰炸。为了让父亲停手，李女士给他下载了免费看剧App，可他总会在不知不觉间回到收费剧场。这种状况正在大面积蔓延。QuestMobile报告显示，短剧微信小程序用户中，51岁以上用户占比",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meta-1790735403000",
+    "title": "Meta 又制造了一个赛道幻觉",
+    "link": "https://www.tmtpost.com/8156722.html",
+    "summary": "产品刚冒头，资本先把泡泡吹了起来。",
+    "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -334,446 +399,395 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2609.35770v1",
-    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "id": "arxiv-2609.38178v1",
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
     "authors": [
-      "Srinjay Sarkar",
-      "Prakhar Kaushik",
-      "Soumava Paul",
-      "Alan Yuille"
+      "Zihang Rui",
+      "Renhao Wang",
+      "Haoxu Huang",
+      "Yang Gao"
     ],
-    "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditioned latent field, decoded into strand geometry via a PCA-based decoder. We reconstruct a defurred animal body using local fur-thickness cues from a surface-constrained Gaussian Frosting representation together with part-based priors. We further show that a PCA-based decoder learned from human-hair strand data can alleviate animal-data scarcity whi",
-    "link": "http://arxiv.org/abs/2609.35770v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a task policy to overcome its own failures; that requires turning these behaviors into learnable corrections for the policy. Our insight is that many such corrections are familiar short behaviors, or skills: they recur across tasks and describe actions that foundation models can reason about from a sce",
+    "link": "http://arxiv.org/abs/2609.38178v1",
+    "publishedAt": "2026-09-29",
     "categories": [
-      "cs.CV",
+      "cs.RO",
       "cs.AI",
-      "cs.GR"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.35769v1",
-    "title": "Telescopic Language Models",
+    "id": "arxiv-2609.38177v1",
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
     "authors": [
-      "Zhilin Guo",
-      "Boqiao Zhang",
-      "Hakan Aktas",
-      "Kyle Fogarty",
-      "Nursena Koprucu Aslan",
-      "Wenzhao Li",
-      "Canberk Baykal",
-      "Albert Miao",
-      "Siyu Hong",
-      "Yixiao Liu",
-      "Adam Wu",
-      "Ashish Kumar Singh",
-      "Sakar Khattar",
-      "Chenliang Zhou",
-      "Weihao Xia",
-      "Cristina Nader Vasconcelos",
-      "Cengiz Oztireli"
+      "Jaewoo Jung",
+      "Hyeonseo Yu",
+      "Honggyu An",
+      "Jisang Han",
+      "Mungyeom Kim",
+      "Minkyeong Jeon",
+      "Heeseong Shin",
+      "Wonjun Moon",
+      "Federico Tombari",
+      "Daniel Barath",
+      "Marc Pollefeys",
+      "Seungryong Kim",
+      "Sunghwan Hong"
     ],
-    "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid language model at every depth. Two forward-backward passes per step, no architectural change, nothing extra at inference. Fixed-exit suites such as Matryoshka Language Model Suites (MLMS) occupy one point in this design space, and the point has a cost: supervising only a few fixed exits leaves the nested ",
-    "link": "http://arxiv.org/abs/2609.35769v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close this gap by injecting 3D awareness into MLLMs, either by boosting fine-grained pixel-level cross-view correspondence or by fusing features from 3D geometry foundation models, yet a substantial gap to human reasoning persists. In this work, we revisit human spatial reasoning, which suggests that rather than relying on fine-grained geometry cues, humans roughly identify common objects across views, infer the relative geometry between viewpoints, and assemble a coarse 3D layout of",
+    "link": "http://arxiv.org/abs/2609.38177v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38176v1",
+    "title": "Breakdown of Local Denoising as Semantic Speciation",
+    "authors": [
+      "Guangkuo Liu",
+      "Mert Okyay",
+      "Yifan F. Zhang",
+      "Fangjun Hu",
+      "Rahul Nandkishore",
+      "Xun Gao"
+    ],
+    "summary": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a variety of frontier models, we investigate their relationship through the spatial distribution of semantic information. Under a \"common cause\" hypothesis, we prove that the nonlocality window must lie in the speciation window. This hypothesis postulates that semantic labels explain a fraction of the correlations between distant tokens, a condition that is natural for many real datasets. We further give conditions under which both windows shrink to a single limiting time as system size grows, defin",
+    "link": "http://arxiv.org/abs/2609.38176v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38169v1",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "authors": [
+      "Bingchen Yao",
+      "Haobo Xu",
+      "Haokun Lin",
+      "Yichen Wu",
+      "Ziyu Guo",
+      "Renrui Zhang",
+      "Zhichao Lu",
+      "Zhenan Sun",
+      "Ying Wei"
+    ],
+    "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding steps; spatially, errors in different key rows affect model outputs differently, while state magnitudes vary substantially along both rows and columns. Motivated by these observations, we propose STEPQuant, a spatial-temporal post-training quantization framework for Delta-rule recurrent states. STEPQu",
+    "link": "http://arxiv.org/abs/2609.38169v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38166v1",
+    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "authors": [
+      "Yi Pan",
+      "Haocheng Xi",
+      "Kan Zhu",
+      "Xingyang Li",
+      "Yibo Wu",
+      "Mayank Mishra",
+      "Hongtao Zhang",
+      "William X. Zheng",
+      "Baris Kasikci",
+      "Song Han",
+      "Kurt Keutzer",
+      "Rishabh Iyer",
+      "Ion Stoica"
+    ],
+    "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeatedly reading and updating that state remains a major inference bottleneck. Quantization offers a natural way to reduce this cost, but can significantly degrade model quality, due to the accumulation of rounding errors and the presence of outlier rows and columns in the state. To address these challenges, we propose LeapQuant, a training-free method that achieves near-lossless performance under 8-bit recurrent-state quantization. First, to mitigate error accumulation, we propose per-window quantiz",
+    "link": "http://arxiv.org/abs/2609.38166v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.35768v1",
-    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "id": "arxiv-2609.38165v1",
+    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
     "authors": [
-      "Zimo Wang",
-      "Junkun Yuan",
-      "Angtian Wang",
-      "Haotian Yang",
-      "Canyu Zhang",
-      "Siyuan Yuan",
-      "Xingchang Huang",
-      "Bo Liu",
-      "Yizhi Wang",
-      "Yiding Yang",
-      "Chongyang Ma",
-      "Gordon Guocheng Qian"
+      "Joseph Metcalfe",
+      "Sara Sharifzadeh",
+      "Fabio Caraffini"
     ],
-    "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversaturation and artifacts. We trace this instability to critic errors, which enter successive student updates and accumulate over time. We introduce Projected Distribution Matching Distillation (PDMD) to filter critic errors. PDMD projects out the component of the DMD update parallel to the student-critic endpoint residual. At a fixed noisy query, we prove that this residual is an unbiased estimate of the critic's endpoint error. Under high-dimensional assumptions, this projection removes a constant frac",
-    "link": "http://arxiv.org/abs/2609.35768v1",
-    "publishedAt": "2026-09-28",
+    "summary": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts, as a drive for the most novel concepts or the largest datasets pushes finer details to the side. In this paper, we present our hybrid transformer-convolutional model, Cropland Parallel Attention and Refinement Network for Segmentation (PAtteRNS), the first model to use self-attention mechanisms separately for each of the temporal, spectral, and spatial aspects of Sentinel-2 multispectral SITS data. To achieve fully-factorised attention in our proposed model, we introduce a novel parallel transformer architecture which significantly reduces the computational complexity of trip",
+    "link": "http://arxiv.org/abs/2609.38165v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.CV",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.35767v1",
-    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "id": "arxiv-2609.38161v1",
+    "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
     "authors": [
-      "Yijia Fan",
-      "Ziqi Huang",
-      "Zhongang Cai",
-      "Yan Li",
-      "Zimo Wen",
-      "Wanqi Yin",
-      "Haiwen Diao",
-      "Ziwei Liu"
+      "Jianru Shen"
     ],
-    "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be learned jointly, over the whole loop. Supervised fine-tuning (SFT) on reflection trajectories gives a cold start but does not find the high-success repair paths, and naive RL that optimizes only the renderer or only one head leaves most of the gain untapped. We introduce UMM-Reflection, which applies reinforcement learning (RL) to complete reflection trajectories inside one unified model: sibling trajectories share one initial image, so the group-relative advantage compares r",
-    "link": "http://arxiv.org/abs/2609.35767v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35765v1",
-    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-    "authors": [
-      "András Kovács",
-      "Alexander Conroy",
-      "Daniel Hershcovich",
-      "Jens Bjerring-Hansen"
-    ],
-    "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blixen's Seven Gothic Tales. Drawing on the commentary to a critical edition, we construct a benchmark of 189 annotated references and evaluate retrieval against all 31,170 verses of historically plausible Danish Old and New Testament translations. We compare TF-IDF and BM25 with multilingual and Danish sentence encoders, examine the effect of linguistic normalization, and fine-tune a Danish encoder using hard negatives and five-fold cross-validation. We analyze performance across automatically derived lexical-overlap ",
-    "link": "http://arxiv.org/abs/2609.35765v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35763v1",
-    "title": "Unifying Distributional Training for One-Step Visual Generation",
-    "authors": [
-      "Chi Zhang",
-      "Haoyang Shi",
-      "Yueyi Liu",
-      "Ruichuan An",
-      "Junkang Zhou",
-      "Chang Li",
-      "Xiuyuan Lu",
-      "Yichi Zhang",
-      "Bo Wang",
-      "Yuhang Wu",
-      "Sen Cui",
-      "Miao Liu"
-    ],
-    "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework} that separates distribution modeling from matching discrepancy and connects global objectives to pointwise feature updates through Wasserstein gradient flow. Under this framework, FD-Loss and Gaussian-kernel Drifting are recovered through Gaussian optimal transport and kernel-density-based KL matching, respectively. The framework motivates \\textbf{MGFlow}, which models feature distributions with Gaussian mixtures at an adjustable granularity between global moments and sample-based representations. MGFlow supports both optimal transport and score-based matching, and couples m",
-    "link": "http://arxiv.org/abs/2609.35763v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35759v1",
-    "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
-    "authors": [
-      "Zhennan Wan",
-      "Jianfei Chen"
-    ],
-    "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Existing story-generation methods typically focus on stories of up to about ten thousand words, leaving their ability to scale to full-length novels underexplored. In this work, we introduce Narrative State Tracking Agent (NstAgent), a training-free agentic framework that allows LLMs to track a structured narrative state including characters, past events and future requirements. We extend an existing benchmark to compare narrative consistency across lengths, and use it together with a writing-quality benchmark to systematically evaluate stories ranging from 10K to 100K words. We show that NstAge",
-    "link": "http://arxiv.org/abs/2609.35759v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35760v1",
-    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-    "authors": [
-      "Chaoqian Ouyang",
-      "Ling Yue",
-      "Libin Zheng",
-      "Huanghui Guo",
-      "Shengxiang Xu",
-      "YiShu Wang",
-      "Ran Li",
-      "Jian Yin",
-      "Shaowu Pan",
-      "Shimin Di"
-    ],
-    "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call. The total consumption of a task is therefore hard to predict before execution and the prediction must be revised as the run unfolds. In this paper, we propose TokenCast, which learns a composable cost representation for each execution segment, recording its own consumption and the context growth it introduces. Composing adjacent segments yields a cumulative estimate that captures the extra input cost incurred when context from earlier segments is re-read by every later call. As execution unfold",
-    "link": "http://arxiv.org/abs/2609.35760v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra such a summary is bracketed by two edge counts, the net change in edge number from below and the symmetric difference from above, each scaled by $2/n$ where $n$ is the number of vertices. The bracket is sharp: its two ends coincide exactly when the reconstruction only adds edges or only deletes them, and on that class the distance is a rescaled edge count that says nothing about which edges changed. When the ends differ, the residual between the distance and the lower end is positive only if the reconstruction both invented and lost edges, which turns it into a certificate o",
+    "link": "http://arxiv.org/abs/2609.38161v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.LG",
-      "cs.AI",
-      "cs.SE"
+      "cs.DM"
     ]
   },
   {
-    "id": "arxiv-2609.35758v1",
-    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "id": "arxiv-2609.38157v1",
+    "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
     "authors": [
-      "Min Kim",
-      "José Leonardo Brenes",
-      "Fred Hadaegh",
-      "Soon-Jo Chung"
+      "Kuan-Po Huang",
+      "Haohe Liu",
+      "Puyuan Peng",
+      "Haibin Wu",
+      "Zhaoheng Ni",
+      "Hung-yi Lee",
+      "Jinwon Lee",
+      "Neha Chachra"
     ],
-    "summary": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent last-layer adaptive disturbance-rejection methods. Specifically, we introduce a statistically principled hard expectation-maximization (hard-EM) procedure, with a Kalman smoother in the hard E-step, to identify dynamical representations of disturbance whose latent evolution is uniformly contractive. The learned representation evolves a latent disturbance-excitation state from measured plant features and control inputs and decodes that state into the time-varying disturbance acting on the nominal plant, thereby extending prior \"fixed-decay\" last-layer adaptive methods to a learned, pr",
-    "link": "http://arxiv.org/abs/2609.35758v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labeled speech training data. We therefore study vector steering, a training-free approach that modifies the internal representations of a frozen model. CoCoEmo, a conventional vector steering method for emotion TTS, treats each emotion vector as an indivisible direction controlled by a single global strength, limiting adherence to the requested emotion. In this work, we first discover that an emotion vector can be decomposed into a shared component that moves speech away from neutral expression and a residual component that directs generation toward the requested emotion. Building on this finding,",
+    "link": "http://arxiv.org/abs/2609.38157v1",
+    "publishedAt": "2026-09-29",
     "categories": [
-      "eess.SY",
-      "cs.LG",
-      "cs.RO"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35752v1",
-    "title": "Neural Harmonic Measure Operator",
-    "authors": [
-      "Jinjin He",
-      "Sinan Wang",
-      "Yuchen Sun",
-      "Bo Zhu"
-    ],
-    "summary": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution that, integrated against any boundary data, returns the Dirichlet Laplace solution. It depends only on the geometry, not on the boundary data. NHMO parameterizes the density of this measure as a transformer-based boundary kernel supervised by Walk-on-Spheres exit samples, so one trained kernel handles different boundary values on a shape with no retraining. We extend it to Poisson via a classical decomposition, with an auxiliary network amortizing the source-induced correction and avoiding the singular volume quadrature that breaks direct evaluation. At inference, new boundary values and new sour",
-    "link": "http://arxiv.org/abs/2609.35752v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35751v1",
-    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
-    "authors": [
-      "Shouren Wang",
-      "Chuang Ma",
-      "Mohsen Hariri",
-      "Debargha Ganguly",
-      "Wang Yang",
-      "Xiaoqing Tong",
-      "Qianying Liu",
-      "Xiaotian Han",
-      "Vipin Chaudhary"
-    ],
-    "summary": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-experts (MoE) models activate only a few of many experts for each token. Looped MoE bridges these two design philosophies and gives MoE models new potential for better expert usage, but it raises a question: how to loop a MoE? We answer it with Foil. With the expert parameters and the expert compute per token held fixed, Foil (1) flattens the experts, halving the expert layers, doubling the experts per layer and doubling the passes, so that every routing decision chooses from a larger pool, and (2) unties the attention, giving each pass its own attention parameters while the experts and routers stay",
-    "link": "http://arxiv.org/abs/2609.35751v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35750v1",
-    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
-    "authors": [
-      "Emiliano Penaloza",
-      "Dane Malenfant",
-      "Dheeraj Vattikonda",
-      "Roger Creus Castanyer",
-      "Siddarth Venkatraman",
-      "Abhay Puri",
-      "Jonathan Light",
-      "Matthew James Sargent",
-      "Augustine N. Mavor-Parker",
-      "Massimo Caccia",
-      "Lucas Caccia",
-      "Glen Berseth",
-      "Esmeralda S. Whitammer",
-      "Alessandro Sordoni",
-      "Minseon Kim",
-      "Marc-Alexandre Côté",
-      "Laurent Charlin",
-      "Guillaume Lajoie"
-    ],
-    "summary": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory constant for a given trace. Unfortunately, most compaction strategies rely on prefilling the LLM context many times over, hindering training throughput. To alleviate this bottleneck and enable efficient trainable compaction, we propose KV-streams, a plug-and-play strategy compatible with any compaction strategy that substantially increases throughput while showing no evidence of hindering performance. KV-streams enable scalable compaction by streaming the KV cache forward rather than flushing it after each compaction. We show that KV-streams enable three different compaction strate",
-    "link": "http://arxiv.org/abs/2609.35750v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35749v1",
-    "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
-    "authors": [
-      "Linxiao Gong",
-      "Yijie Xu",
-      "Tianfu Wang",
-      "Yin Wu",
-      "Yili Wang",
-      "Xingbo Yao",
-      "Huizai Yao",
-      "Xilin Xia",
-      "Haowen Yang",
-      "Hui Xiong"
-    ],
-    "summary": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challenging because agents must convey enough to address a partner's constraints and advance their goals without adding words that do not help the interaction. In this paper, we propose Teacher-Assisted Communication Training (TACT) to improve social goal attainment while reducing communication cost, making interactions with agents more productive and less demanding. We first characterize communication efficiency in terms of action strategy and expression, whose effects extend beyond the current utterance to the partner's response and subsequent exchanges. We design TACT to revise student-generated acti",
-    "link": "http://arxiv.org/abs/2609.35749v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35748v1",
-    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
-    "authors": [
-      "Yichen You",
-      "Tianyu Fu",
-      "Aosong Feng",
-      "Xingtai Lv",
-      "Xuefei Ning",
-      "Ning Ding",
-      "Yu Wang"
-    ],
-    "summary": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLOPs. However, to the best of our knowledge, whether looping improves test-time scaling as outputs grow longer remains underexplored. Through post-training looped transformers, we study the accuracy-compute slope, measured as the accuracy gain per doubling of test-time decoding FLOPs. We find that existing looped transformers often yield steeper slopes than their non-looped baseline, yet underperform it at matched compute. While fixed-depth looping spends extra iterations on every token, our analysis shows that many tokens do not benefit from extra iterations. We therefore propose TaH2, which en",
-    "link": "http://arxiv.org/abs/2609.35748v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
+      "cs.SD",
       "cs.CL",
-      "cs.LG"
+      "eess.AS"
     ]
   },
   {
-    "id": "arxiv-2609.35745v1",
-    "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+    "id": "arxiv-2609.38155v1",
+    "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
     "authors": [
-      "Huaiyuan Qin",
-      "Muli Yang",
-      "Gabriel James Goenawan",
-      "Shiqi Huang",
-      "Min Kass Chong",
-      "Wahyu Wiratama",
-      "Peng Hu",
-      "Chen Gong",
-      "Wu Liu",
-      "Xi Peng",
-      "Chun Jian Ho",
-      "Hongyuan Zhu"
+      "Hui Ren",
+      "Lei Fan",
+      "Henry Pao",
+      "Han Guo",
+      "Zeeshan Zia",
+      "Ying Chen",
+      "Alexander Schwing",
+      "Gang Hua"
     ],
-    "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pre-training and typically underperform the original Softmax version. How to initialize linear ViTs both efficiently and effectively still remains unclear. In this work, we explicitly ask: given that most foundation ViTs are built on the mainstream Softmax attention, can linear ViTs benefit from their pre-trained weights? Recent works on Attention Transfer show that attention is the effective transferable component between Softmax ViTs, suggesting attention alone suffices for such reuse. However, we find the opposite for Softmax-to-linear transfer. The attention weights are operator-specific: co",
-    "link": "http://arxiv.org/abs/2609.35745v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity unresolved: different objects may share a description, while observations of the same object remain disconnected across events. Retrieving relevant events therefore does not necessarily recover the \"biography\" of the particular entity a question concerns. To address this, we introduce Grounded Entity Biographies (GEB), a long-video memory framework that groups visually grounded observations of the same physical instance across clips into retrievable biographies while preserving the context of each moment. During question answering, the biography is retrieved alongside episodic evidence, allow",
+    "link": "http://arxiv.org/abs/2609.38155v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.CV",
       "cs.AI",
+      "cs.CL",
+      "cs.IR",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2609.35744v1",
-    "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+    "id": "arxiv-2609.38149v1",
+    "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
     "authors": [
-      "Hoyoung Lee",
-      "Suyeol Yun",
-      "Jack Haverty",
-      "Yunju Cho",
-      "Meesong Kim",
-      "Daekyung Park",
-      "Sumin Kim",
-      "Jihoon Kwon",
-      "Jasmine Jia Geng",
-      "Andrew Chin",
-      "Yin Luo",
-      "Edward Tong",
-      "Yu Yu",
-      "Zach Golkhou",
-      "Minkyu Kim",
-      "Igor Halperin",
-      "Young Cha",
-      "Alejandro Lopez-Lira",
-      "Chanyeol Choi",
-      "Yongjae Lee"
+      "Dor Tirosh",
+      "Ido Amos",
+      "Mor Geva"
     ],
-    "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while agents and code carry out query-specific rubric generation, review, and validation. This expert guidance governs every agent, as prompts and as rules that code enforces, and a Task Bank of reusable criteria carries it across tasks. In long-horizon loops that follow the expert guidance, a writer agent researches every expected value and a reviewer agent verifies it, and failures escalate to a human. On three expert-authored finance benchmarks,",
-    "link": "http://arxiv.org/abs/2609.35744v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is the decoded token. This narrow channel forces models to recompute intermediate results and to discard alternative continuations. In this work, we remove this bottleneck during pretraining, introducing the LIFT (Latent Information Feedback Transformer) architecture and training method which enable LMs to propagate state across generation. We achieve this by turning recurrent-state learning into a teacher-forced prediction problem: each input token is paired with an information-dense state, derived from the next-token distribution of an off-the-shelf pretrained LM. The model, extended with a sma",
+    "link": "http://arxiv.org/abs/2609.38149v1",
+    "publishedAt": "2026-09-29",
     "categories": [
-      "cs.AI",
-      "q-fin.CP"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35741v1",
-    "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
-    "authors": [
-      "Jonathan Light",
-      "Christopher Zhang Cui",
-      "Jeonghye Kim",
-      "Roger Creus Castanyer",
-      "Emiliano Penaloza",
-      "Zhengyan Shi",
-      "Alessandro Sordoni",
-      "Marc-Alexandre Côté",
-      "Xingdi Yuan",
-      "Minseon Kim"
-    ],
-    "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a minimal online procedure designed to isolate the effect of explanation-only training on subsequent behavior. The agent attempts a task, observes available feedback, generates a retrospective explanation, and is fine-tuned with a next-token prediction loss on the explanation tokens alone. The procedure uses neither an external teacher nor a reward-based policy update. In software-engineering experiments with Qwen3.5-4B, ROFT is trained on",
-    "link": "http://arxiv.org/abs/2609.35741v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2609.35738v1",
-    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "id": "arxiv-2609.38147v1",
+    "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
     "authors": [
-      "Alvin Zhang",
-      "Xuecheng Liu",
-      "Zixuan Wang",
-      "Fahim Tajwar",
-      "Daman Arora",
+      "Paras Dahal",
+      "Anton Bakhtin",
+      "Taco Cohen",
+      "Zhengxing Chen",
+      "Carole-Jean Wu",
+      "Rob Fergus",
+      "Scott Yih",
+      "Gabriel Synnaeve",
       "Ruslan Salakhutdinov",
-      "Daniel Khashabi",
-      "Yuda Song",
-      "Andrea Zanette"
+      "Sanjeev Arora",
+      "Jason Weston",
+      "Anirudh Goyal"
     ],
-    "summary": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a proposer model to revise a solver's harness using execution feedback. We formulate this process as meta-learning over executable programs, with harness revisions playing the role of weight updates in gradient-based adaptation. We train the proposer with reinforcement learning, using the task performance of revised harnesses as the reward. At test time, the proposer uses feedback from successive executions on a new task to refine the harness, wit",
-    "link": "http://arxiv.org/abs/2609.35738v1",
-    "publishedAt": "2026-09-28",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2609.35732v1",
-    "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
-    "authors": [
-      "Junru Zhu",
-      "Shiming Xie",
-      "Aime Lu Fan Chen",
-      "Xiaoqing Ding",
-      "Chunxin Tang",
-      "Ruoyu Qi",
-      "Yulang Fei"
-    ],
-    "summary": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure with tool selection, recovery, and environment dynamics. We introduce Failure-Transparent Agents (FTA), a controlled benchmark that fixes the failed observation and required evidence state before generation, making post-failure claims directly auditable. FTA contains 100 tasks with deterministic failure traces spanning five failure families, a neutral control, and four user-pressure conditions, and evaluates unsupported claims alongside useful recovery. Across six models, three response policies, and 3,600 human-annotated responses, false-success rates are 22.8% under the baseline policy, 9.3% ",
-    "link": "http://arxiv.org/abs/2609.35732v1",
-    "publishedAt": "2026-09-28",
+    "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness that makes these choices an explicit and structured reasoning process. Workers carry out the task-level computation, while a controller consolidates what the run has established, explores next options, assesses what each option is worth under the remaining budget, and dispatches the chosen work with context drawn from persistent memory. Between decisions the controller carries only a compact account of the run rather than replaying its full history. Our baselines span production coding agents a",
+    "link": "http://arxiv.org/abs/2609.38147v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2609.35715v1",
-    "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+    "id": "arxiv-2609.38143v1",
+    "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
     "authors": [
-      "Prithwish Dan",
-      "Chenyang Ma",
-      "Wei Zhan"
+      "Cheng Qian",
+      "Kunlun Zhu",
+      "Beibin Li",
+      "Zhenhailong Wang",
+      "Heng Ji"
     ],
-    "summary": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom is difficult to discover from scratch. Prior works make exploration tractable with high-quality robot demonstrations, per-task reward shaping, or by restricting policies to narrow modes of behavior. We propose X-Reset, a framework that instead resolves exploration with human hand-object demonstrations. Rather than imitating or tracking retargeted human motion, X-Reset kinematically retargets hand-object states to noisy robot states, filters out states that are unstable in simulation, and sample",
-    "link": "http://arxiv.org/abs/2609.35715v1",
-    "publishedAt": "2026-09-28",
+    "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights remain fixed. To make the Builder's experience reusable, we introduce Meta-Skill: principles specifying when support is needed and what resources to provide. The Builder learns these principles from Target's execution feedback on the development set, then uses the frozen skill bank to construct harnesses for unseen tasks. Across Harness-Bench and NewtonBench, full-bank meta-skills improve macro-average performance by 8.95 percentage points over no-skill construction, and 12.02 points over direct delivery of the same bank to the Target. These results highlight ",
+    "link": "http://arxiv.org/abs/2609.38143v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38142v1",
+    "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+    "authors": [
+      "Rishabh Agrawal",
+      "Hejie Cui",
+      "Shasha Li",
+      "Shanchan Wu",
+      "Sercan Ö. Arık"
+    ],
+    "summary": "A small trainable advisor can steer a frozen language-model executor using natural-language advice. In addition to learning from task rewards, the advisor can use feedback from completed interactions to improve its advice. However, a plausible correction need not change execution, yet learning from such corrections can still affect the advisor's future decisions in other contexts. In a shared-parameter model, we prove that such corrections can limit learning if their targets favor useful advice less strongly than those of other corrections. Keeping them less often than the rest improves the model's eventual performance compared to learning from every correction. Motivated by this, our method, Advisor Self-Distillation (AdviSD), pairs outcome-based reinforcement learning with self-distillat",
+    "link": "http://arxiv.org/abs/2609.38142v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38140v1",
+    "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+    "authors": [
+      "Yu Xu",
+      "Yuxin Zhang",
+      "Xiao Yang",
+      "Haotian Yang",
+      "Yizhi Wang",
+      "Xinwei Huang",
+      "Minxuan Lin",
+      "Angtian Wang",
+      "Chongyang Ma",
+      "Fan Tang"
+    ],
+    "summary": "Mixture-of-Experts (MoE), popularized by large language models, is a promising paradigm for scaling visual generative models. However, conventional token-wise MoE routes tokens independently within a homogeneous expert pool and regularizes expert usage toward uniformity, making it poorly matched to video data that is spatiotemporally redundant and semantically long-tailed. We show that existing visual MoEs fall into a uniformity trap: semantically under-organized routing, compounded by uniform expert-usage regularization, scatters coherent patches across disparate experts, causing routing fragmentation and structural distortion. To address this, we propose SplitMoE, a split-role sparse architecture that breaks the shackles of uniformity. To accommodate the inherent semantic imbalance, we e",
+    "link": "http://arxiv.org/abs/2609.38140v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38137v1",
+    "title": "LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning",
+    "authors": [
+      "Quang Hieu Pham",
+      "Thuy Duong Nguyen",
+      "Jocelyn Qiaochu Chen",
+      "Xi Ye"
+    ],
+    "summary": "Language-model (LM) harnesses enable LMs to operate effectively over long contexts using additional compute. However, existing long-context evaluations are insufficient for distinguishing modern harnesses, reflected by saturated accuracy across harnesses and largely similar evaluation costs. In this paper, we introduce a benchmark for evaluating both the effectiveness and efficiency of long-context harnesses. Our tasks require diverse retrieval strategies, including lexical search and semantic matching, together with strategic and adaptive reasoning over global and local context. Much of the context is semantically relevant but only a small subset is useful at each step, creating both a challenging search problem and different accuracy--cost tradeoffs across processing strategies. For exam",
+    "link": "http://arxiv.org/abs/2609.38137v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38133v1",
+    "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
+    "authors": [
+      "Ruoyu Lin",
+      "Magnus Egerstedt",
+      "Fabio Pasqualetti"
+    ],
+    "summary": "Generative modeling is widely used for producing diverse objects from complex, multimodal distributions. However, its expressivity does not, in general, come with formal guarantees that the generated objects satisfy hard constraints or requirements. In multi-agent generation, this problem becomes more challenging because a hard requirement can depend on multiple agents, while each agent may need to determine its own guidance input without relying on the simultaneously computed guidance inputs of other agents. To this end, we introduce DeGG-Flow, a general framework for multi-agent flow matching with decoupled generative guidance. By representing the generative process as a control-affine dynamical system, we develop guidance conditions for two classes of coupled requirements: shared requir",
+    "link": "http://arxiv.org/abs/2609.38133v1",
+    "publishedAt": "2026-09-29",
     "categories": [
       "cs.LG",
+      "cs.MA",
+      "cs.RO",
+      "math.OC"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38132v1",
+    "title": "Achieving an $O(1/N)$ Optimality Gap in Average-Reward Weakly-Coupled MDPs",
+    "authors": [
+      "Yige Hong",
+      "Xiangcheng Zhang",
+      "Qiaomin Xie",
+      "Yudong Chen",
+      "Weina Wang"
+    ],
+    "summary": "We study average-reward weakly-coupled Markov decision processes (WCMDPs), where a WCMDP consists of $N$ smaller MDPs, called arms, that share multiple per-step budget constraints. We consider the setting where the arms have identical model parameters, multiple actions, and state- and action-dependent costs. For restless bandits (RBs), a well-studied special case of WCMDPs, prior work has developed policies that achieve an $O(1/\\sqrt{N})$ optimality gap under general conditions, and has further identified conditions under which policies can achieve a better-than-$1/\\sqrt{N}$ optimality gap. However, for general WCMDPs, no prior result achieves an optimality gap better than $1/\\sqrt{N}$. In this paper, we identify conditions analogous to those for RBs under which a better-than-$1/\\sqrt{N}$ ",
+    "link": "http://arxiv.org/abs/2609.38132v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38121v1",
+    "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+    "authors": [
+      "Jiale Chen",
+      "Vage Egiazarian",
+      "Eldar Kurtić",
+      "Torsten Hoefler",
+      "Dan Alistarh"
+    ],
+    "summary": "KV cache memory and bandwidth costs grow with context length and batch size, which limits efficient long-context inference. To address this bottleneck, we introduce WUSH-KV for low-bit KV-cache quantization. It adapts WUSH, which constructs a data-aware transform from the second-order statistics of both factors in a matrix product to reduce quantization error. WUSH-KV uses calibration data to construct separate key and value transforms, with the value transform folded into the model weights and the key transform applied after RoPE. The transforms can be paired with clipped quantizers. For one such quantizer, QuEST INT, we show that, under mild assumptions, the WUSH transform is near-optimal. With this quantizer, WUSH-KV reduces layerwise reconstruction error and achieves the lowest end-to-",
+    "link": "http://arxiv.org/abs/2609.38121v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38120v1",
+    "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems",
+    "authors": [
+      "I. Samuel Akinwande",
+      "Mykel J. Kochenderfer",
+      "Clark Barrett"
+    ],
+    "summary": "Verifying a vision-based neural feedback system requires a model of the observations its controller acts upon. Such a model must capture the variation the sensor produces, while remaining tractable for closed-loop analysis. Generative adversarial networks (GANs) have served as perception surrogates, but they are large, reproduce complex scenes poorly, and are hard to verify. We explore stochastic world models as a richer class of perception surrogates. We train a world model with physically grounded latents, built from operations that standard verifiers bound. It reproduces held-out frames more faithfully than GAN surrogates with up to 130 times as many parameters. To verify these surrogates, we develop a procedure that combines falsification, adaptive refinement, symbolic, and backward an",
+    "link": "http://arxiv.org/abs/2609.38120v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
       "cs.AI",
-      "cs.RO"
+      "eess.SY"
+    ]
+  },
+  {
+    "id": "arxiv-2609.38112v1",
+    "title": "ReCIRC: Rectified Conformal Risk Control",
+    "authors": [
+      "Bruno Marcondes e Resende",
+      "Helton Graziadei",
+      "Thiago Rodrigo Ramos",
+      "Rafael Izbicki"
+    ],
+    "summary": "Many applications of black-box predictive models require controlling task-relevant error rates, such as missed lesion pixels in segmentation or missed labels in multilabel classification. Conformal risk control (CRC; Angelopoulos et al., arXiv:2208.02814) gives distribution-free guarantees for such losses, but it calibrates a single threshold shared by all inputs. Because conditional risk varies with the input, this marginal guarantee often overprotects easy cases and underprotects hard ones. We propose ReCIRC (Rectified Conformal Risk Control), which inverts each input's estimated local risk curve to reparameterize the calibrated threshold as a risk budget $a$ representing a common target conditional risk, and then applies CRC unchanged to the resulting family. ReCIRC retains CRC's finite",
+    "link": "http://arxiv.org/abs/2609.38112v1",
+    "publishedAt": "2026-09-29",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
     ]
   }
 ];
@@ -797,7 +811,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
     "postedAt": "2026-09-23",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137414",
@@ -980,4 +994,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-29T21:48:18.149Z';
+export const dataFetchedAt = '2026-09-30T03:48:47.574Z';
