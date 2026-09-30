@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ugly-economics-of-consumer-ai-1790789085000",
-    "title": "The ugly economics of consumer AI",
-    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "id": "news-valor-atreides-and-sequoia-back-ai-startup-flow-engineering--1790802460000",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-with-the-iced-coffee-debate-gen-z-cultural-differences-come--1790782018000",
-    "title": "With the iced coffee debate, Gen Z cultural differences come to a head",
-    "link": "https://www.hrdive.com/news/iced-coffee-job-interviews-young-people-work/831781/",
-    "summary": "Experts have observed several factors that make Gen Z poised to behave differently at work than previous generations.",
+    "id": "news-christian-worker-allegedly-fired-for-religious-social-media--1790799600000",
+    "title": "Christian worker allegedly fired for religious social media posts gets $20K",
+    "link": "https://www.hrdive.com/news/christian-worker-allegedly-fired-religious-social-media-posts/831796/",
+    "summary": "Employers have some discretion to discipline employees over social media content, but federal laws prohibit unfavorable treatment because of religious beliefs, EEOC has said.",
     "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -53,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790785008000",
-    "title": " 一汽广汽重组，汽车业的“大整合时刻” ",
-    "link": "https://www.huxiu.com/article/4894955.html?f=rss",
-    "summary": "本文来自微信公众号： 青橙财经 ，作者：青炯，编辑：六子 前不久，广汽集团公告与一汽股份签署重组意向协议，拟通过发行股份购买相关资产。9月28日，广汽正式披露重组预案，确认标的为一汽丰田50%股权。9月29日复牌当天，广汽A股涨停，资本表达了对这笔交易的态度。 按市场测算，这次交易对价约200亿元。天眼查显示，广汽集团当前第一大股东为广州汽车工业集团，持股超50%。交易完成后，一汽股份将持有广汽约29.44%的股份，成为第二大股东。 国有车企谈整合谈了很多年，这次算是第一次有了实质性的股权动作。但与其说是主动布局，不如说是经营压力下的被迫应对。 9月24日，广汽在投资者关系平台上回应投资者提问时就坦言，\"当前行业竞争白热化，公司阶段性经营承压\"。由此来看，这笔交易不只是两家车企的商业合作，也反映出合资车企在存量时代的现实压力。 01 「两家都遇到了瓶颈，需求刚好互补」 这笔交易能快速推进，本质上是两家都遇到了各自的瓶颈。广汽缺利润，一汽缺一个让合资资产证券化的出口。 一汽的问题在于，合资业务增长见顶，自主还没完全接上。一汽集团2025年整车销量超过330万辆，其中自主新能源增长71.4%，增速不慢，但绝对量跟合资业务比还差得远。红旗去年卖了46万辆，奔腾卖了20万辆，两个自主品牌加起来66万辆，还不到一汽大众去年158.71万辆销量的一半。 *图源一汽官网 今年上半年的销量更能说明",
+    "id": "news--1790804305000",
+    "title": " 得过抑郁症，就该被辞退吗，如何保障自身权益 ",
+    "link": "https://www.huxiu.com/article/4894963.html?f=rss",
+    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 一、今日案例 20岁的河南姑娘陈欣瑶（化名），怎么也想不通自己为什么找不到工作。她去广东佛山打工，接连被好几家单位拒绝，理由出奇一致：她“有精神疾病”。姑娘本人毫不知情。查下去才发现，她读初中时，老家登封市徐庄镇卫生院的村医工作失误，把她错误登记为“精神分裂症”，登记时间是2019年2月。家属翻遍当地医院的档案，没有找到任何一次就诊记录。 一个标签，改写了她的求职路，也带走了她的爱情。2026年8月20日，涉事卫生院承认登记错误，删除了卫生系统内的记录。但事情没有完：同步到公安系统的信息，还要她本人重新做精神鉴定、凭一份“无病证明”才能撤销。 连真的没病的人，都会被一个错误的标签挡在门外。那些真的得过抑郁症、正在服药、刚刚走出诊室的打工人，心里那笔账只会算得更清楚：说出来，工作还保得住吗？ 二、矛盾纠纷 先看患病人群的盘子有多大。据《2022国民抑郁症蓝皮书》，我国抑郁症患者约9500万人，大约每14个人里就有1个。中国精神卫生调查给出的口径同样惊人：抑郁障碍终生患病率6.8%，而确诊患者中得到充分治疗的仅0.5%。 按理说，法律早就把话说明白了。《精神卫生法》第五条白纸黑字：任何组织或者个人不得歧视、侮辱、虐待精神障碍患者。可现实里，病史常常是一份“隐形案底”：求职时，体检和背调环节如有泄露，offer说没就没；投保时，",
     "publishedAt": "2026-09-30",
     "source": "虎嗅",
     "tags": [
@@ -92,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-disputes-claim-that-muse-read-a-user-8217-s-private-mes-1790785463000",
-    "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "id": "news-factory-ceo-just-accused-his-vc-board-advisor-of-spying-for--1790800749000",
+    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -105,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-skill-levels-drive-workforce-divide-pwc-finds-1790778720000",
-    "title": "AI skill levels drive workforce divide, PwC finds",
-    "link": "https://www.hrdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831736/",
-    "summary": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
+    "id": "news-jpmorgan-chase-names-next-hr-chief-1790799540000",
+    "title": "JPMorgan Chase names next HR chief",
+    "link": "https://www.hrdive.com/news/jpmorgan-chase-names-next-hr-chief-odonovan-leopold-retire-llano-manibardo-germany/831785/",
+    "summary": "Mark O&rsquo;Donovan, JPMorgan&rsquo;s CEO of international consumer banking, will succeed human resources head Robin Leopold, who is retiring, in January, the bank said.",
     "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
@@ -128,6 +129,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790785008000",
+    "title": " 一汽广汽重组，汽车业的“大整合时刻” ",
+    "link": "https://www.huxiu.com/article/4894955.html?f=rss",
+    "summary": "本文来自微信公众号： 青橙财经 ，作者：青炯，编辑：六子 前不久，广汽集团公告与一汽股份签署重组意向协议，拟通过发行股份购买相关资产。9月28日，广汽正式披露重组预案，确认标的为一汽丰田50%股权。9月29日复牌当天，广汽A股涨停，资本表达了对这笔交易的态度。 按市场测算，这次交易对价约200亿元。天眼查显示，广汽集团当前第一大股东为广州汽车工业集团，持股超50%。交易完成后，一汽股份将持有广汽约29.44%的股份，成为第二大股东。 国有车企谈整合谈了很多年，这次算是第一次有了实质性的股权动作。但与其说是主动布局，不如说是经营压力下的被迫应对。 9月24日，广汽在投资者关系平台上回应投资者提问时就坦言，\"当前行业竞争白热化，公司阶段性经营承压\"。由此来看，这笔交易不只是两家车企的商业合作，也反映出合资车企在存量时代的现实压力。 01 「两家都遇到了瓶颈，需求刚好互补」 这笔交易能快速推进，本质上是两家都遇到了各自的瓶颈。广汽缺利润，一汽缺一个让合资资产证券化的出口。 一汽的问题在于，合资业务增长见顶，自主还没完全接上。一汽集团2025年整车销量超过330万辆，其中自主新能源增长71.4%，增速不慢，但绝对量跟合资业务比还差得远。红旗去年卖了46万辆，奔腾卖了20万辆，两个自主品牌加起来66万辆，还不到一汽大众去年158.71万辆销量的一半。 *图源一汽官网 今年上半年的销量更能说明",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -158,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-doordash-launches-an-ai-agent-you-can-text-to-order-food-1790784024000",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "id": "news-is-neko-health-s-body-scan-worth-it-spotify-billionaire-s-st-1790799602000",
+    "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+    "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -171,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-technology-isn-t-yet-solving-hr-s-workflow-problems-1790778720000",
-    "title": "Technology isn’t yet solving HR’s workflow problems",
-    "link": "https://www.hrdive.com/news/technology-isnt-yet-solving-hrs-workflow-problems/831749/",
-    "summary": "Despite the implementation of artificial intelligence systems, many HR professionals are still spending time on rudimentary tasks, Eagle Hill Consulting said.",
+    "id": "news-lesbian-plaintiff-fails-to-show-employer-s-fertility-benefit-1790799540000",
+    "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
+    "link": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
+    "summary": "The case demonstrates how courts have had to parse the implications of the high court&rsquo;s 2020 decision in Bostock v. Clayton County, Ga .",
     "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
@@ -224,10 +238,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-destro-ai-8217-s-secret-sauce-is-getting-robots-and-humans-o-1790784000000",
-    "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
-    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "id": "news-hackers-stole-millions-of-us-military-personnel-records-duri-1790796548000",
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -237,17 +251,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-may-face-a-skills-visibility-gap-in-the-ai-age-1790778720000",
-    "title": "HR may face a ‘skills visibility gap’ in the AI age",
-    "link": "https://www.hrdive.com/news/hr-may-face-skills-visibility-gap-in-the-ai-age/831744/",
-    "summary": "It could become a critical challenge as the function transforms into one that evaluates how work gets done, whether by humans or automation.",
+    "id": "news-with-the-iced-coffee-debate-gen-z-cultural-differences-come--1790782018000",
+    "title": "With the iced coffee debate, Gen Z cultural differences come to a head",
+    "link": "https://www.hrdive.com/news/iced-coffee-job-interviews-young-people-work/831781/",
+    "summary": "Experts have observed several factors that make Generation Z poised to behave differently at work than previous generations.",
     "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -290,29 +303,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instinct-8217-s-new-product-recommendations-are-giving-some--1790783788000",
-    "title": "Instinct&#8217;s new product recommendations are giving some users the ick",
-    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "id": "news-doordash-8217-s-drone-strategy-started-on-the-ground-1790796133000",
+    "title": "DoorDash&#8217;s drone strategy started on the ground",
+    "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
-    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
-    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
-    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
-    "publishedAt": "2026-09-29",
+    "id": "news-ai-skill-levels-drive-workforce-divide-pwc-finds-1790778720000",
+    "title": "AI skill levels drive workforce divide, PwC finds",
+    "link": "https://www.hrdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831736/",
+    "summary": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
+    "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -941,4 +956,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-30T17:32:32.752Z';
+export const dataFetchedAt = '2026-09-30T21:49:51.650Z';
