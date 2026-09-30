@@ -2,6 +2,84 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-openai-s-chief-research-officer-explains-its-ha-1790770200000",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
+    "publishedAt": "2026-09-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-ugly-economics-of-consumer-ai-1790789085000",
+    "title": "The ugly economics of consumer AI",
+    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "publishedAt": "2026-09-30",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-with-the-iced-coffee-debate-gen-z-cultural-differences-come--1790782018000",
+    "title": "With the iced coffee debate, Gen Z cultural differences come to a head",
+    "link": "https://www.hrdive.com/news/iced-coffee-job-interviews-young-people-work/831781/",
+    "summary": "Experts have observed several factors that make Gen Z poised to behave differently at work than previous generations.",
+    "publishedAt": "2026-09-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-openai-1790777023000",
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "link": "https://www.qbitai.com/2026/09/499654.html",
+    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "publishedAt": "2026-09-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790785008000",
+    "title": " 一汽广汽重组，汽车业的“大整合时刻” ",
+    "link": "https://www.huxiu.com/article/4894955.html?f=rss",
+    "summary": "本文来自微信公众号： 青橙财经 ，作者：青炯，编辑：六子 前不久，广汽集团公告与一汽股份签署重组意向协议，拟通过发行股份购买相关资产。9月28日，广汽正式披露重组预案，确认标的为一汽丰田50%股权。9月29日复牌当天，广汽A股涨停，资本表达了对这笔交易的态度。 按市场测算，这次交易对价约200亿元。天眼查显示，广汽集团当前第一大股东为广州汽车工业集团，持股超50%。交易完成后，一汽股份将持有广汽约29.44%的股份，成为第二大股东。 国有车企谈整合谈了很多年，这次算是第一次有了实质性的股权动作。但与其说是主动布局，不如说是经营压力下的被迫应对。 9月24日，广汽在投资者关系平台上回应投资者提问时就坦言，\"当前行业竞争白热化，公司阶段性经营承压\"。由此来看，这笔交易不只是两家车企的商业合作，也反映出合资车企在存量时代的现实压力。 01 「两家都遇到了瓶颈，需求刚好互补」 这笔交易能快速推进，本质上是两家都遇到了各自的瓶颈。广汽缺利润，一汽缺一个让合资资产证券化的出口。 一汽的问题在于，合资业务增长见顶，自主还没完全接上。一汽集团2025年整车销量超过330万辆，其中自主新能源增长71.4%，增速不慢，但绝对量跟合资业务比还差得远。红旗去年卖了46万辆，奔腾卖了20万辆，两个自主品牌加起来66万辆，还不到一汽大众去年158.71万辆销量的一半。 *图源一汽官网 今年上半年的销量更能说明",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4-1790775203000",
+    "title": "解禁在前、收购在后：华之杰4亿并购是转型还是托市",
+    "link": "https://www.tmtpost.com/8157486.html",
+    "summary": "一场围绕估值游戏的并购",
+    "publishedAt": "2026-09-30",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-1790764830000",
     "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -14,10 +92,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-pay-finally-launches-in-india-after-years-on-the-sidel-1790741280000",
-    "title": "Apple Pay finally launches in India after years on the sidelines",
-    "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-    "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "id": "news-meta-disputes-claim-that-muse-read-a-user-8217-s-private-mes-1790785463000",
+    "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -27,23 +105,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
-    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
-    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
-    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
-    "publishedAt": "2026-09-29",
+    "id": "news-ai-skill-levels-drive-workforce-divide-pwc-finds-1790778720000",
+    "title": "AI skill levels drive workforce divide, PwC finds",
+    "link": "https://www.hrdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831736/",
+    "summary": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
+    "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-anthropic-1790762652000",
-    "title": "Anthropic，你是来给智谱打广告的吧！",
-    "link": "https://www.qbitai.com/2026/09/499597.html",
-    "summary": "实测说GLM-5.3很强",
+    "id": "news-ai-1790770284000",
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "link": "https://www.qbitai.com/2026/09/499605.html",
+    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
@@ -53,23 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-58-1790767625000",
-    "title": " 安徽人在美国卖桑拿房，年入8.58亿 ",
-    "link": "https://www.huxiu.com/article/4894909.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王玮 在TikTok上，#Sauna标签的累计浏览量已经突破16亿次。从纽约的Bathhouse到多伦多的Othership，桑拿房正在成为酒吧和夜店之外，都市年轻人新的社交场所。而在美国人的家里，一款来自中国的红外线桑拿房，正在成为中产新宠。 一个反直觉的事实是：美国最受欢迎的远红外桑拿房品牌，竟来自一家总部位于中国合肥的公司——融捷健康。 融捷健康2021年的年报中写道：“公司经营的远红外桑拿房在美国市场占有率较高，为美国市场销量最大的桑拿房品牌。” 2024年，融捷健康对美销售额达6198.5万美元，其中美国子公司的本土销售额为5666.15万美元。2025年全年，融捷健康境外收入达8.58亿元，2026年上半年境外收入达3.63亿元，北美市场仍是其海外业务的核心支柱。 这家公司用什么方法，让美国人爱上了中国桑拿房？ 01 合肥“桑拿第一股” 故事要从1995年说起。那一年，安徽芜湖无为人金道明，受安徽传统艾草热浴熏蒸的启发，在合肥创立了合肥南亚桑拿设备有限责任公司，开始生产拥有熏蒸功能的家用便携式桑拿设备。合肥南亚桑拿设备有限责任公司成为国内首家生产这种桑拿设备的企业，产品主要出口至中东及东南亚市场。 2002年起，合肥南亚桑拿设备公司开始引进并研发远红外桑拿房产品，产品逐步转向出口欧美市场。2004年，金道",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-amd82-worldlab-1790767664000",
-    "title": "AMD82亿美元收购李飞飞WorldLab，为什么是现在？买对了吗？",
-    "link": "https://www.tmtpost.com/8157114.html",
-    "summary": "资本在往头部集中，独立公司的定价权正在被重新评估，在这种窗口里，观望本身就是风险。",
+    "id": "news-sharpa-1790772655000",
+    "title": "Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来",
+    "link": "https://www.tmtpost.com/8157219.html",
+    "summary": "三款产品的名字里有一个共同的关键词——触觉。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -92,11 +158,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-america-gov-gets-really-weird-when-you-ask-it-about-minecraf-1790724655000",
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
-    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "publishedAt": "2026-09-29",
+    "id": "news-doordash-launches-an-ai-agent-you-can-text-to-order-food-1790784024000",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -105,11 +171,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-major-players-in-the-health-wellness-and-luxury-spaces-bring-1790707740000",
-    "title": "Major players in the health, wellness and luxury spaces bring on new HR talent in September",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-september-2026/831518/",
-    "summary": "Kaiser Permanente and Exemplar Luxury Group added new HR leaders, though both are veterans in their industries.",
-    "publishedAt": "2026-09-29",
+    "id": "news-technology-isn-t-yet-solving-hr-s-workflow-problems-1790778720000",
+    "title": "Technology isn’t yet solving HR’s workflow problems",
+    "link": "https://www.hrdive.com/news/technology-isnt-yet-solving-hrs-workflow-problems/831749/",
+    "summary": "Despite the implementation of artificial intelligence systems, many HR professionals are still spending time on rudimentary tasks, Eagle Hill Consulting said.",
+    "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -119,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-2-0-ai-1790755117000",
-    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-    "link": "https://www.qbitai.com/2026/09/499592.html",
-    "summary": "给Agent配上手机号，再拉个群",
+    "id": "news-anthropic-1790762652000",
+    "title": "Anthropic，你是来给智谱打广告的吧！",
+    "link": "https://www.qbitai.com/2026/09/499597.html",
+    "summary": "实测说GLM-5.3很强",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
@@ -132,23 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790766743000",
-    "title": " 买房的时候到了？楼市，被重大利好撞了腰 ",
-    "link": "https://www.huxiu.com/article/4894906.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 国庆节长假前，从房地产、股市到黄金，市场全都出现异动。大家收拾一下心情和钱袋，准备过节了。 零对冲网站说，目前全球金融和经济领域最令人困惑的问题之一：面对利率大幅上升，油价飙升至历史新高，经济和股市为什么依然保持强劲？ 摩根士丹利固定收益策略主管安德鲁·希茨说，今年以来，美国10年期国债收益率已上涨100个基点，而全球股市上涨约13%。 结论居然是，投资者不在乎利率上升，反而憧憬着未来更高的收益。 我们现在不一样，以前的框架无法框定现在的市场，这是每次市场太热时都会出现的理论。 现在真的不一样吗？节前我们也公布了一系列利好政策，希望市场可以平稳过节，结果又会如何呢？ 9月28日，带着老妈、阿姨，带着家里的猫猫狗狗搬了家。一路上，尽是胖胖的独眼小猫胖船长紧张的叫声。 带着惊喜和紧张住进新家，希望家里的小生命们可以尽快适应。 国庆前，房地产板块被重大利好撞了腰， 别租房了，买房吧？ 房地产出台了史上第一次全新的“新政”——中央财政首次对商业性个人房贷进行贴息。 9月29日，财政部、中国人民银行、金融监管总局发布《关于实施居民购房贷款贴息政策的通知》，从2026年10月1日起，实施居民购房贷款贴息政策，政策实施期暂定1年。 新政可以总结为三句话：财政补息差、银行扩大投放、刚需买房享受红利。 这次是贴息，而不是常用的降息。 具体步骤是",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790767662000",
-    "title": "吃鸡退潮，三角洲上位：“摸金”攻占中小学校园",
-    "link": "https://www.tmtpost.com/8157119.html",
-    "summary": "已上初三的小辰说，三角洲某种程度比升高中和生活还重要。他决定即将到来的国庆假期哪里都不去，就在家里疯狂玩上几天三角洲。",
+    "id": "news-2026-10-19-1790772603000",
+    "title": "2026金融街论坛年会将于10月19日在京开幕",
+    "link": "https://www.tmtpost.com/8157454.html",
+    "summary": "本届论坛年会将由主论坛、三场专题大会及十余场平行论坛活动组成，并举办多场投融资对接及文商旅体配套活动。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -171,11 +224,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-internet-is-convinced-elon-musk-8217-s-xai-trolled-opena-1790720459000",
-    "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "publishedAt": "2026-09-29",
+    "id": "news-destro-ai-8217-s-secret-sauce-is-getting-robots-and-humans-o-1790784000000",
+    "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -184,11 +237,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-high-performers-might-resent-lower-performing-workers-gettin-1790695380000",
-    "title": "High performers might resent lower-performing workers getting training over them",
-    "link": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
-    "summary": "Managers may struggle with this decision in part because of what training represents and what doors it can open up, a researcher said.",
-    "publishedAt": "2026-09-29",
+    "id": "news-hr-may-face-a-skills-visibility-gap-in-the-ai-age-1790778720000",
+    "title": "HR may face a ‘skills visibility gap’ in the AI age",
+    "link": "https://www.hrdive.com/news/hr-may-face-skills-visibility-gap-in-the-ai-age/831744/",
+    "summary": "It could become a critical challenge as the function transforms into one that evaluates how work gets done, whether by humans or automation.",
+    "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -198,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-astra-g1-1790754894000",
-    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-    "link": "https://www.qbitai.com/2026/09/499493.html",
-    "summary": "让GPT把机器人技能当工具调用",
+    "id": "news-manus-2-0-ai-1790755117000",
+    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+    "link": "https://www.qbitai.com/2026/09/499592.html",
+    "summary": "给Agent配上手机号，再拉个群",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
@@ -211,23 +264,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790766692000",
-    "title": " 新能源充电桩投资迷局 ",
-    "link": "https://www.huxiu.com/article/4894905.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：老盈盈 重庆、四川等地多家新能源企业采用“销售充电桩+委托运营”模式开展业务，部分企业已因涉嫌非法吸收公众存款被立案侦查。 若干投资人向经济观察报记者反映，他们此前在迅驰迅捷（重庆）新能源有限公司（下称“迅驰迅捷公司”）购买的几台至几百台汽车充电桩所产生的运营收益，于9月中旬出现提现未能到账的情况，且公司负责人失联。9月28日，记者以投资人身份致电重庆市公安局江北区分局经济犯罪侦查支队了解到，该公司目前已经被立案。 多位投资人告诉记者，他们于2025年开始从迅驰迅捷公司购买单价为1980元一台的慢充汽车充电桩或原价为26800元一台的快充汽车充电桩，并与该公司签订《新能源充电桩销售合同》。而后投资人又与另一家运营公司签订《充电桩委托管理合同》，将其购买的充电桩委托给该运营公司管理经营，后者向C端（个人）用户收取充电服务费，以一定比例与投资人进行收益分配。 记者调查发现，除了迅驰迅捷公司，重庆、四川等地还有多家新能源公司以类似的模式运作，如今有的已经被立案，有的出现收益严重下滑、公司负责人失联等情况。记者从采访中了解到，不少投资人因看好新能源赛道的发展前景，集中于2025年至2026年通过社交媒体了解到这些公司，并购买了相关汽车充电桩产品。部分投资人同时购买了多家同类新能源公司的汽车充电桩产品，更有投资人通过贷款方式投入资金。 2026年4月",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-mosaic-soc-1790767081000",
-    "title": "瑞士工程科技企业Mosaic SoC研发空间感知芯片，使消费类设备低功耗实时感知周围环境",
-    "link": "https://www.tmtpost.com/8156747.html",
-    "summary": "潜在市场规模 60 亿美元。",
+    "id": "news--1790770622000",
+    "title": "先陪伴还是先干活？家庭机器人的商业分岔路口 ｜出海参考",
+    "link": "https://www.tmtpost.com/8157194.html",
+    "summary": "具身机器人如何进入家庭，又靠什么支撑持续经营？启元的选择折射出这个行业尚未解开的几道题。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -250,11 +290,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-your-car-and-its-mobile-app-are-probably-handing-over-all-ki-1790720315000",
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
-    "publishedAt": "2026-09-29",
+    "id": "news-instinct-8217-s-new-product-recommendations-are-giving-some--1790783788000",
+    "title": "Instinct&#8217;s new product recommendations are giving some users the ick",
+    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -263,24 +303,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-if-ai-takes-on-junior-level-work-how-will-cfos-develop-talen-1790693820000",
-    "title": "If AI takes on junior-level work, how will CFOs develop talent?",
-    "link": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
-    "summary": "Teikametrics CFO Brian Beaupre is changing how he evaluates young candidates.&nbsp;",
+    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
+    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
+    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
+    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
     "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-deepseek-v4-1-agent-dsec-1790745485000",
-    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-    "link": "https://www.qbitai.com/2026/09/499308.html",
-    "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "id": "news-gpt-6-astra-g1-1790754894000",
+    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+    "link": "https://www.qbitai.com/2026/09/499493.html",
+    "summary": "让GPT把机器人技能当工具调用",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
@@ -290,103 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-nand-1790766687000",
-    "title": " 从绿叶到鲜花，AI 推理如何为NAND“逆天改命”？ ",
-    "link": "https://www.huxiu.com/article/4894904.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《从绿叶到鲜花，AI 推理如何为 NAND“逆天改命”？》 NAND是一个被“技术诅咒”的行业：正如海豚君在前篇《NAND天性“多产”，闪迪凭什么守80%毛利率？》中所说，AI爆发前的NAND就是典型的大宗生意——产能由市场无情出清，技术领先换不来溢价，只能“亏得比别人少”，销量增长的红利被降价全部吞噬。 根源在供给端太多产：靠单一晶圆上向上堆叠、横向缩孔，从BiCS5到BiCS11五代，闪迪每片晶圆的bit产出每代增加54%，年化复合约27%。 也就是说，哪怕一分钱扩产（CapEx）不花，bit产能每年也会自动膨胀近三成。3D转型期更是一次性猛增，供给一度远超需求，这让“轻资产”NAND生意在下行周期比“重资产”DRAM更惨烈。 而AI的爆发，正在重写NAND的剧本。本篇报告中，海豚君重点关注AI浪潮究竟给NAND下游需求带来了怎样的结构性重塑？ 以下为详细分析 1.AI浪潮究竟给NAND下游需求带来了怎样的结构性重塑？ AI之前的消费电子周期中，“话事”需求场景——手机、PC、传统服务器等核心下游增长平稳可预期，缺乏爆发变量，所以周期的大起大落，实质由供给端的无序扩产与急剧收缩主导。 需求增长来自三大动能：单机容量升级、新兴市场渗透，以及固态硬盘（SSD）对机械硬盘（HDD）的存量替代，缓步而稳定。 稳定的需求，配上刚性",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790767079000",
-    "title": "困在竞业协议里的“打工人”，被大厂“上了一课”",
-    "link": "https://www.tmtpost.com/8156511.html",
-    "summary": "竞业协议不能异化为个别大厂低成本管控离职率的工具。",
-    "publishedAt": "2026-09-30",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-roundtables-the-deadly-failures-of-the-virtual-border-wall-1790633827000",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
-    "publishedAt": "2026-09-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-1790718696000",
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-    "summary": "EliseAI raises $350M, doubles valuation in a year.",
-    "publishedAt": "2026-09-29",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-operational-fix-that-could-jump-start-innovation-a-week--1790693820000",
-    "title": "The operational fix that could jump-start innovation? A week with no meetings.",
-    "link": "https://www.hrdive.com/news/how-to-catch-up-on-work-case-study-taskrabbit/831610/",
-    "summary": "Taskrabbit&rsquo;s Deep Think Weeks were met with an &ldquo;overwhelmingly positive&rdquo; response from workers, the company&rsquo;s manager of people experience&nbsp;said.",
-    "publishedAt": "2026-09-29",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-36-1790743342000",
-    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-    "link": "https://www.qbitai.com/2026/09/499280.html",
-    "summary": "机器人上市，风向有变",
-    "publishedAt": "2026-09-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790766654000",
-    "title": " 奶茶店卖茶叶蛋、啤酒：“跨界”背后，满是焦虑 ",
-    "link": "https://www.huxiu.com/article/4894903.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：七饭 现在的奶茶店越来越像个杂货铺子了。 霸王茶姬卖起了茶叶蛋，古茗在门店里推出了现打啤酒，蜜雪冰城斥资近3亿元收购鲜啤品牌，奈雪的茶端出8.8元的咖啡烘焙早餐，喜茶开出了炒冰实验室，排队要等上一小时…… 去年的品类跨界还集中在奶茶与咖啡之间，今年新茶饮的边界正往冰淇淋、零食、酒水、早餐等品类拓展。增长曲线的探索，比新品上新还要热闹。 跨界动作集中在贴合度最高的冰淇淋上。据不完全统计，今年以来国内主流茶饮品牌已集中上新超过30款冰淇淋或含冰淇淋产品，以意式Gelato为主，如喜茶的喜拉朵、霸王茶姬的茶拉朵、古茗的古拉朵……命名逻辑如出一辙，产品路径很相似，都是把当家茶饮的爆款风味，从杯子里“搬”进了冰淇淋。 当然，还有更激烈的探索，如霸王茶姬在上海7家门店上线了“白雾红尘茶叶蛋”，单枚5元，锚定早高峰人群；古茗在杭州湖滨银泰门店试水现打啤酒，营业时间延长至零点，来承接西湖夜游客流。蜜雪冰城上架自有零食、收购鲜啤品牌，茶颜悦色孵化新鲜零食子品牌“吉时赏味”，新茶饮的业态边界正在被无限拉伸…… 这热闹的跨界背后，似乎藏着品牌满满的焦虑。 增速放缓， 门店质量成关键点 过去几年，新茶饮是门店扩张拉动增长的典型品类，每年20%至30%的营收增速是常态。但这点在2026年被打破了，回看上半年的各品牌财报不难发现，行业集体进入增速放缓的转型周期。 比",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790767078000",
-    "title": "电锤、电镐龙头闯北交所：德硕科技产品靠贴牌代工，关联交易暗藏风险",
-    "link": "https://www.tmtpost.com/8156674.html",
-    "summary": "头顶国内第一光环，挑战仍不容小觑",
+    "id": "news-amd82-worldlab-1790767664000",
+    "title": "AMD82亿美元收购李飞飞WorldLab，为什么是现在？买对了吗？",
+    "link": "https://www.tmtpost.com/8157114.html",
+    "summary": "资本在往头部集中，独立公司的定价权正在被重新评估，在这种窗口里，观望本身就是风险。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -995,4 +941,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-30T11:51:44.165Z';
+export const dataFetchedAt = '2026-09-30T17:32:32.752Z';

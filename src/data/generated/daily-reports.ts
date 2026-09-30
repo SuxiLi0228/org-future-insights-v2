@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-01-auto",
+    "date": "2026-10-01",
+    "session": "auto",
+    "title": "2026-10-01 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-01-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+      },
+      {
+        "id": "sig-2026-10-01-auto-2",
+        "emoji": "💡",
+        "title": "The ugly economics of consumer AI",
+        "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+        "detail": "来源: TechCrunch。There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+      },
+      {
+        "id": "sig-2026-10-01-auto-3",
+        "emoji": "💡",
+        "title": "With the iced coffee debate, Gen Z cultural differences come to a head",
+        "summary": "Experts have observed several factors that make Gen Z poised to behave differently at work than previous generations.",
+        "detail": "来源: HR Dive。Experts have observed several factors that make Gen Z poised to behave differently at work than previous generations.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/iced-coffee-job-interviews-young-people-work/831781/"
+      },
+      {
+        "id": "sig-2026-10-01-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Skill-Space Shooting for Autonomous Robot Policy Improvement...",
+        "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe",
+        "detail": "作者: Zihang Rui, Renhao Wang, Haoxu Huang。Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a task policy to overcome its own failures; that requires turning these behaviors into learnable corrections for the policy. Our insight is that many such corrections are familiar short behaviors, or skills: they recur across tasks and describe actions that foundation models can reason about from a sce",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2609.38178v1"
+      },
+      {
+        "id": "sig-2026-10-01-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-01-1",
+        "priority": "medium",
+        "action": "关注「The Download: OpenAI’s chief research of」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-01-2",
+        "priority": "low",
+        "action": "关注「The ugly economics of consumer AI」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-01-3",
+        "priority": "low",
+        "action": "关注「With the iced coffee debate, Gen Z cultu」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-01-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Skill-Space Shooting for Autonomous」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-01-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-01 生成，聚合了 26 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-10-01 00:00 - 2026-10-01 23:59"
+  },
+  {
     "id": "report-2026-09-30-auto",
     "date": "2026-09-30",
     "session": "auto",
