@@ -2,6 +2,84 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-1790764830000",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+    "publishedAt": "2026-09-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-apple-pay-finally-launches-in-india-after-years-on-the-sidel-1790741280000",
+    "title": "Apple Pay finally launches in India after years on the sidelines",
+    "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+    "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "publishedAt": "2026-09-30",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
+    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
+    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
+    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
+    "publishedAt": "2026-09-29",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-anthropic-1790762652000",
+    "title": "Anthropic，你是来给智谱打广告的吧！",
+    "link": "https://www.qbitai.com/2026/09/499597.html",
+    "summary": "实测说GLM-5.3很强",
+    "publishedAt": "2026-09-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-8-58-1790767625000",
+    "title": " 安徽人在美国卖桑拿房，年入8.58亿 ",
+    "link": "https://www.huxiu.com/article/4894909.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王玮 在TikTok上，#Sauna标签的累计浏览量已经突破16亿次。从纽约的Bathhouse到多伦多的Othership，桑拿房正在成为酒吧和夜店之外，都市年轻人新的社交场所。而在美国人的家里，一款来自中国的红外线桑拿房，正在成为中产新宠。 一个反直觉的事实是：美国最受欢迎的远红外桑拿房品牌，竟来自一家总部位于中国合肥的公司——融捷健康。 融捷健康2021年的年报中写道：“公司经营的远红外桑拿房在美国市场占有率较高，为美国市场销量最大的桑拿房品牌。” 2024年，融捷健康对美销售额达6198.5万美元，其中美国子公司的本土销售额为5666.15万美元。2025年全年，融捷健康境外收入达8.58亿元，2026年上半年境外收入达3.63亿元，北美市场仍是其海外业务的核心支柱。 这家公司用什么方法，让美国人爱上了中国桑拿房？ 01 合肥“桑拿第一股” 故事要从1995年说起。那一年，安徽芜湖无为人金道明，受安徽传统艾草热浴熏蒸的启发，在合肥创立了合肥南亚桑拿设备有限责任公司，开始生产拥有熏蒸功能的家用便携式桑拿设备。合肥南亚桑拿设备有限责任公司成为国内首家生产这种桑拿设备的企业，产品主要出口至中东及东南亚市场。 2002年起，合肥南亚桑拿设备公司开始引进并研发远红外桑拿房产品，产品逐步转向出口欧美市场。2004年，金道",
+    "publishedAt": "2026-09-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-amd82-worldlab-1790767664000",
+    "title": "AMD82亿美元收购李飞飞WorldLab，为什么是现在？买对了吗？",
+    "link": "https://www.tmtpost.com/8157114.html",
+    "summary": "资本在往头部集中，独立公司的定价权正在被重新评估，在这种窗口里，观望本身就是风险。",
+    "publishedAt": "2026-09-30",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-climate-tech-companies-to-watch-and-ai-s-discov-1790683800000",
     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
     "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
@@ -27,24 +105,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-seattle-s-dei-initiative-may-have-created-hostile-work-envir-1790707740000",
-    "title": "Seattle’s DEI initiative may have created hostile work environment, 9th Circuit finds",
-    "link": "https://www.hrdive.com/news/seattles-dei-initiative-hostile-work-environment-9th-circuit/831667/",
-    "summary": "In one exercise, employees allegedly had to &ldquo;line up based on how &lsquo;racist&rsquo; or &lsquo;anti-racist&rsquo; they perceived themselves to be in comparison to their coworkers,&rdquo; according to a court document.",
+    "id": "news-major-players-in-the-health-wellness-and-luxury-spaces-bring-1790707740000",
+    "title": "Major players in the health, wellness and luxury spaces bring on new HR talent in September",
+    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-september-2026/831518/",
+    "summary": "Kaiser Permanente and Exemplar Luxury Group added new HR leaders, though both are veterans in their industries.",
     "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-openai-gpt-6-1-sol-25-1790722865000",
-    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-    "link": "https://www.qbitai.com/2026/09/499246.html",
-    "summary": "今年devday牙膏挤爆",
-    "publishedAt": "2026-09-29",
+    "id": "news-manus-2-0-ai-1790755117000",
+    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+    "link": "https://www.qbitai.com/2026/09/499592.html",
+    "summary": "给Agent配上手机号，再拉个群",
+    "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-1790739957000",
-    "title": " “生不养老索养”之一：吵了100年，法律为什么就是不认？ ",
-    "link": "https://www.huxiu.com/article/4894772.html?f=rss",
-    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 2014年，河南一对夫妻离婚。协议上白纸黑字写着：女儿随母亲生活，父亲自愿放弃女儿将来的赡养义务。 12年后，这位父亲老了，丧失自理能力，住进了养老院。 他做的第一件事不是找女儿谈谈，而是找了个律师——一纸诉状把女儿告上法庭：每月支付赡养费3000元。 女儿在法庭上拿出那份泛黄的离婚协议：这是你自己签的字。 法院的回应，一句话就能说清：签了也白签。赡养，要给。酌定为每月600元。 这是河南桐柏县法院2026年9月审结的真实案件，法院官网原文写得明明白白：赡养是法定强制性义务，不得通过民事主体之间的协议免除。 判决一出，评论区直接炸了。 “白纸黑字都不算数，那签字还有什么意义？” “当年不管不问，老了张口就要钱，这公平吗？” 说实话，我第一次看到这个判决，心里也咯噔了一下。但当我把近几年的同类案子翻了一遍之后，我发现——这不是孤例，这是一条铁律。而且，它背后藏着一个吵了上百年的问题。 一、你以为的例外，法律早就想过 有人会说：桐柏这个案子，父亲只是“没完全尽到抚养责任”，还不算极端。那真正狠的呢？ 湖北有一个案子。据红星新闻2026年6月报道：一位生父，1998年生下女儿、如今六旬，却基本没尽过抚养义务，孩子由母亲拉扯大。2025年，他起诉索要每月1500元赡养费，法院酌情判了500元。女儿不服，上诉。2026年6月，恩施州",
+    "id": "news--1790766743000",
+    "title": " 买房的时候到了？楼市，被重大利好撞了腰 ",
+    "link": "https://www.huxiu.com/article/4894906.html?f=rss",
+    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 国庆节长假前，从房地产、股市到黄金，市场全都出现异动。大家收拾一下心情和钱袋，准备过节了。 零对冲网站说，目前全球金融和经济领域最令人困惑的问题之一：面对利率大幅上升，油价飙升至历史新高，经济和股市为什么依然保持强劲？ 摩根士丹利固定收益策略主管安德鲁·希茨说，今年以来，美国10年期国债收益率已上涨100个基点，而全球股市上涨约13%。 结论居然是，投资者不在乎利率上升，反而憧憬着未来更高的收益。 我们现在不一样，以前的框架无法框定现在的市场，这是每次市场太热时都会出现的理论。 现在真的不一样吗？节前我们也公布了一系列利好政策，希望市场可以平稳过节，结果又会如何呢？ 9月28日，带着老妈、阿姨，带着家里的猫猫狗狗搬了家。一路上，尽是胖胖的独眼小猫胖船长紧张的叫声。 带着惊喜和紧张住进新家，希望家里的小生命们可以尽快适应。 国庆前，房地产板块被重大利好撞了腰， 别租房了，买房吧？ 房地产出台了史上第一次全新的“新政”——中央财政首次对商业性个人房贷进行贴息。 9月29日，财政部、中国人民银行、金融监管总局发布《关于实施居民购房贷款贴息政策的通知》，从2026年10月1日起，实施居民购房贷款贴息政策，政策实施期暂定1年。 新政可以总结为三句话：财政补息差、银行扩大投放、刚需买房享受红利。 这次是贴息，而不是常用的降息。 具体步骤是",
     "publishedAt": "2026-09-30",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dots-openai-1790737567000",
-    "title": "Dots 上场这天，OpenAI 把自家最强模型拦在门外",
-    "link": "https://www.tmtpost.com/8156899.html",
-    "summary": "一边登台，一边缺席。",
+    "id": "news--1790767662000",
+    "title": "吃鸡退潮，三角洲上位：“摸金”攻占中小学校园",
+    "link": "https://www.tmtpost.com/8157119.html",
+    "summary": "已上初三的小辰说，三角洲某种程度比升高中和生活还重要。他决定即将到来的国庆假期哪里都不去，就在家里疯狂玩上几天三角洲。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -105,10 +184,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-major-players-in-the-health-wellness-and-luxury-spaces-bring-1790707740000",
-    "title": "Major players in the health, wellness and luxury spaces bring on new HR talent in September",
-    "link": "https://www.hrdive.com/news/hr-pros-on-the-move-september-2026/831518/",
-    "summary": "Kaiser Permanente and Exemplar Luxury Group added new HR leaders, though both are veterans in their industries.",
+    "id": "news-high-performers-might-resent-lower-performing-workers-gettin-1790695380000",
+    "title": "High performers might resent lower-performing workers getting training over them",
+    "link": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
+    "summary": "Managers may struggle with this decision in part because of what training represents and what doors it can open up, a researcher said.",
     "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
@@ -119,11 +198,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790679393000",
-    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-    "link": "https://www.qbitai.com/2026/09/499239.html",
-    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-    "publishedAt": "2026-09-29",
+    "id": "news-gpt-6-astra-g1-1790754894000",
+    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+    "link": "https://www.qbitai.com/2026/09/499493.html",
+    "summary": "让GPT把机器人技能当工具调用",
+    "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -132,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790739607000",
-    "title": " 希音的利润去哪了？ ",
-    "link": "https://www.huxiu.com/article/4894768.html?f=rss",
-    "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 2026年9月28日晚上，希音交出了上市后首份中期成绩单。净利润有点唬人： 净利润22.99亿美元，同比增长111.7%； 经调整净利润4.99亿美元，同比下降55.6%。 同一家公司，同一张利润表，同一个报告期，两行数字朝着完全相反的方向狂奔。 往上冲的那行，登上了财经媒体的头条；往下砸的那行，藏在财报第几十页的角落里。 四年前，希音估值近千亿美元，上市后市值只剩下1303亿港元，缩水七成多。现在第一份财报出来了，两行打架的利润数字把谜面摆在了所有人面前：希音的利润，到底去哪了？ 01自己打架的成绩单 先把那行暴增的净利润拆开看。 22.99亿美元的账面净利润里，有18.61亿美元来自同一个科目：可转换可赎回优先股的公允价值变动。 翻译成人话，希音上市前融过太多轮资，估值一路涨，那些优先股在会计准则下记的是负债，估值一变就要重估，一重估就产生账面损益。上市当天，所有优先股自动转成普通股，这笔“账”兑现成了利润。 这不是生意挣的钱，是估值挣的钱。生意本身挣了多少钱？财报里另一行写得清楚：经调整净利润4.99亿美元，同比跌了55.6%。 二季度更难看。经调整净利润2.28亿美元，同比下降66.6%，经调整净利率从去年同期的6.2%一路掉到2.1%。再往前翻，招股书披露今年一季度希音账面亏损9900万美元。也就是说，二季度2.28亿美元的经",
+    "id": "news--1790766692000",
+    "title": " 新能源充电桩投资迷局 ",
+    "link": "https://www.huxiu.com/article/4894905.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：老盈盈 重庆、四川等地多家新能源企业采用“销售充电桩+委托运营”模式开展业务，部分企业已因涉嫌非法吸收公众存款被立案侦查。 若干投资人向经济观察报记者反映，他们此前在迅驰迅捷（重庆）新能源有限公司（下称“迅驰迅捷公司”）购买的几台至几百台汽车充电桩所产生的运营收益，于9月中旬出现提现未能到账的情况，且公司负责人失联。9月28日，记者以投资人身份致电重庆市公安局江北区分局经济犯罪侦查支队了解到，该公司目前已经被立案。 多位投资人告诉记者，他们于2025年开始从迅驰迅捷公司购买单价为1980元一台的慢充汽车充电桩或原价为26800元一台的快充汽车充电桩，并与该公司签订《新能源充电桩销售合同》。而后投资人又与另一家运营公司签订《充电桩委托管理合同》，将其购买的充电桩委托给该运营公司管理经营，后者向C端（个人）用户收取充电服务费，以一定比例与投资人进行收益分配。 记者调查发现，除了迅驰迅捷公司，重庆、四川等地还有多家新能源公司以类似的模式运作，如今有的已经被立案，有的出现收益严重下滑、公司负责人失联等情况。记者从采访中了解到，不少投资人因看好新能源赛道的发展前景，集中于2025年至2026年通过社交媒体了解到这些公司，并购买了相关汽车充电桩产品。部分投资人同时购买了多家同类新能源公司的汽车充电桩产品，更有投资人通过贷款方式投入资金。 2026年4月",
     "publishedAt": "2026-09-30",
     "source": "虎嗅",
     "tags": [
@@ -145,10 +224,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-door-to-robotics-ipos-is-closing-1790736604000",
-    "title": "The Door to Robotics IPOs Is Closing",
-    "link": "https://www.tmtpost.com/8156873.html",
-    "summary": "Following severe post-IPO volatility—notably Unitree Robotics’ ~55% share decline—Chinese regulators are tightening scrutiny on robotics IPOs, questioning whether valuation surges match true commercial demand. With over 50 robotics firms queuing under channels like Hong Kong’s Chapter 18C, regulators are auditing revenue quality, focusing on one-off government projects and unvetted orders. Listing candidates fall into three distinct tiers: scaled firms with strong margins, project-dependent companies facing continuous losses, and full-stack humanoid developers reliant on tech narratives. Capit",
+    "id": "news-mosaic-soc-1790767081000",
+    "title": "瑞士工程科技企业Mosaic SoC研发空间感知芯片，使消费类设备低功耗实时感知周围环境",
+    "link": "https://www.tmtpost.com/8156747.html",
+    "summary": "潜在市场规模 60 亿美元。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -184,10 +263,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-high-performers-might-resent-lower-performing-workers-gettin-1790695380000",
-    "title": "High performers might resent lower-performing workers getting training over them",
-    "link": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
-    "summary": "Managers may struggle with this decision in part because of what training represents and what doors it can open up, a researcher said.",
+    "id": "news-if-ai-takes-on-junior-level-work-how-will-cfos-develop-talen-1790693820000",
+    "title": "If AI takes on junior-level work, how will CFOs develop talent?",
+    "link": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
+    "summary": "Teikametrics CFO Brian Beaupre is changing how he evaluates young candidates.&nbsp;",
     "publishedAt": "2026-09-29",
     "source": "HR Dive",
     "tags": [
@@ -198,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rl-bug-prompt-iquest-q1-1790668786000",
-    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-    "link": "https://www.qbitai.com/2026/09/499188.html",
-    "summary": "",
-    "publishedAt": "2026-09-29",
+    "id": "news-deepseek-v4-1-agent-dsec-1790745485000",
+    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+    "link": "https://www.qbitai.com/2026/09/499308.html",
+    "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -211,23 +290,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-748-1790739421000",
-    "title": " 泡泡玛特美洲暴涨748%，但真正的信号藏在回落里 ",
-    "link": "https://www.huxiu.com/article/4894765.html?f=rss",
-    "summary": "本文来自微信公众号： Streambuds ，作者：努力的馒头 高增长会骗人，退潮之后的动作不会——出海的胜负手，正在从铺货变成扎根。 ——streambuds 中国品牌出海，最近被一条数据刷了屏：泡泡玛特2025年美洲市场收入超过68亿元人民币，同比增长748.4%，公司正计划在加利福尼亚州开设总部。 七倍多的增速，足够任何一家公司吹三年。但如果只看到748%，你就错过了这次出海潮里真正值钱的信号。 翻一翻泡泡玛特2026年上半年的分区域数据：美洲收入18.92亿元，同比回落16.5%。热闹的增速刹车了。 有意思的是，同一份报表里，美洲市场线下渠道收入依然保持约20%的正增长——线上在退，线下在涨。 一个暴涨、一个回调、一个仍在向上。这三条曲线放在一起，才拼出了中国品牌出海的完整剧本：靠流量红利铺货的第一阶段结束了，靠本地化深耕的第二阶段刚刚开始。 本文看点 01 增速的两副面孔 02 三个品牌一套动作 03 普通卖家抄什么 01 TWO FACES OF GROWTH 增速的两副面孔 先看这一轮出海的成绩单，不止泡泡玛特一家在猛跑。 中国潮玩品牌泡泡玛特，靠LABUBU在美国年轻消费群体里掀起抢购潮；服装品牌Urban Revivo把旗舰店开进了纽约SoHo——全球时尚品牌最密集的街区之一；名创优品更直接，2025年底美国门店达到351家，当年净增76家，美国会员数同比增长超过",
+    "id": "news-ai-nand-1790766687000",
+    "title": " 从绿叶到鲜花，AI 推理如何为NAND“逆天改命”？ ",
+    "link": "https://www.huxiu.com/article/4894904.html?f=rss",
+    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《从绿叶到鲜花，AI 推理如何为 NAND“逆天改命”？》 NAND是一个被“技术诅咒”的行业：正如海豚君在前篇《NAND天性“多产”，闪迪凭什么守80%毛利率？》中所说，AI爆发前的NAND就是典型的大宗生意——产能由市场无情出清，技术领先换不来溢价，只能“亏得比别人少”，销量增长的红利被降价全部吞噬。 根源在供给端太多产：靠单一晶圆上向上堆叠、横向缩孔，从BiCS5到BiCS11五代，闪迪每片晶圆的bit产出每代增加54%，年化复合约27%。 也就是说，哪怕一分钱扩产（CapEx）不花，bit产能每年也会自动膨胀近三成。3D转型期更是一次性猛增，供给一度远超需求，这让“轻资产”NAND生意在下行周期比“重资产”DRAM更惨烈。 而AI的爆发，正在重写NAND的剧本。本篇报告中，海豚君重点关注AI浪潮究竟给NAND下游需求带来了怎样的结构性重塑？ 以下为详细分析 1.AI浪潮究竟给NAND下游需求带来了怎样的结构性重塑？ AI之前的消费电子周期中，“话事”需求场景——手机、PC、传统服务器等核心下游增长平稳可预期，缺乏爆发变量，所以周期的大起大落，实质由供给端的无序扩产与急剧收缩主导。 需求增长来自三大动能：单机容量升级、新兴市场渗透，以及固态硬盘（SSD）对机械硬盘（HDD）的存量替代，缓步而稳定。 稳定的需求，配上刚性",
     "publishedAt": "2026-09-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-09-21-09-27-1790736457000",
-    "title": "基金市场概况与资产配置观点 （09.21—09.27）",
-    "link": "https://www.tmtpost.com/8156868.html",
-    "summary": "A股市场上周主要股指涨跌不一，日均成交额增加，融资余额减少，房地产等行业表现较好。腾讯济安指数作为价值投资导向的指标，旨在发掘市场中的价值低估个股，值得投资者关注。",
+    "id": "news--1790767079000",
+    "title": "困在竞业协议里的“打工人”，被大厂“上了一课”",
+    "link": "https://www.tmtpost.com/8156511.html",
+    "summary": "竞业协议不能异化为个别大厂低成本管控离职率的工具。",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -263,85 +343,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-if-ai-takes-on-junior-level-work-how-will-cfos-develop-talen-1790693820000",
-    "title": "If AI takes on junior-level work, how will CFOs develop talent?",
-    "link": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
-    "summary": "Teikametrics CFO Brian Beaupre is changing how he evaluates young candidates.&nbsp;",
-    "publishedAt": "2026-09-29",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-openai-1790668160000",
-    "title": "OpenAI因新模型太强叫停发布",
-    "link": "https://www.qbitai.com/2026/09/499140.html",
-    "summary": "AGI计划暂停。",
-    "publishedAt": "2026-09-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-36-shein-1790739420000",
-    "title": " 当库存只剩36天，SHEIN开始面对另一笔成本 ",
-    "link": "https://www.huxiu.com/article/4894764.html?f=rss",
-    "summary": "本文来自微信公众号： 防冷涂的蜡&amp;书斋 ，作者：防冷涂的蜡 9月28日，SHEIN披露了2026年上半年及第二季度的最新经营数据。第二季度，公司订单量同比增长7.6%，达到2.98亿单；净收入增长0.9%，达到110.8亿美元。经调整净利润却下降66.6%，只剩2.28亿美元，利润率从上年同期的6.2%降至2.1%。同期，履约成本增长18.1%，明显快于收入。 再看SHEIN最受关注的库存指标。2023年至2025年，公司库存周转分别为35天、34天和36天，截至2026年3月底的过去12个月为38天，一直维持在三十多天。2025年底，SHEIN自营模式下的服装款式已经超过200万个，未售库存比例仍处于低个位数。 订单仍在增长，库存也没有明显积压，利润率却快速下降。小单快返一直是SHEIN最重要的经营模式之一。理解这组变化，需要先回答一个更基础的问题：小单快返究竟替服装企业解决了什么，又把成本留在了哪里？ 小单快返怎么降低库存风险 传统服装生意的一道难题，是生产决策必须走在销售前面。 一款衣服能不能流行、哪个颜色更好卖、消费者愿意支付多少钱，都还没有经过真实订单检验，企业就要决定生产数量。做少了，卖得好时可能来不及补货；做多了，需求没有跟上，投入的资金便留在库存里，最后通过打折和清仓消化。 SHEIN的LATR模式把第一批生产数量控制在很低的水平。按照公司披露的数据，一款新",
-    "publishedAt": "2026-09-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790736032000",
-    "title": "餐饮企业的半年报里，藏着一个“烟火中国”",
-    "link": "https://www.tmtpost.com/8156509.html",
-    "summary": "碾碎一些人，幸存一些人。",
-    "publishedAt": "2026-09-30",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-when-can-we-say-ai-made-a-scientific-discovery-1790614996000",
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
-    "publishedAt": "2026-09-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-c-1790716812000",
-    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-    "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
-    "publishedAt": "2026-09-29",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-operational-fix-that-could-jump-start-innovation-a-week--1790693820000",
     "title": "The operational fix that could jump-start innovation? A week with no meetings.",
     "link": "https://www.hrdive.com/news/how-to-catch-up-on-work-case-study-taskrabbit/831610/",
@@ -356,11 +357,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-10-1790665859000",
-    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-    "link": "https://www.qbitai.com/2026/09/499135.html",
-    "summary": "诺因从Demo走向家庭",
-    "publishedAt": "2026-09-29",
+    "id": "news-36-1790743342000",
+    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+    "link": "https://www.qbitai.com/2026/09/499280.html",
+    "summary": "机器人上市，风向有变",
+    "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
       "china",
@@ -369,10 +370,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-22-1790739393000",
-    "title": " 为看短剧，爸妈两年花掉22万：这笔钱还能要回来吗？ ",
-    "link": "https://www.huxiu.com/article/4894766.html?f=rss",
-    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 今日案例 在二三线城市，22万元可以多付一套房子的首付，或者买下一辆不错的家用车。而新疆一位年近七旬的老人，却在两年多时间里把这样一笔钱化整为零，变成4887笔微信短剧充值订单。9月26日，《IT时报》的深度调查把这份账单摊开在公众面前。 2025年11月7日凌晨0点04分，一笔短剧充值完成；0点15分，又是一笔；39.9元、69.9元、49.9元……充值一直持续到凌晨4点09分，上午11点25分又接着充，直到深夜23点24分才停下。这一天，老人一共为短剧支付了29次，花掉1466.3元。这样的夜晚，从2024年1月开始，陆陆续续持续了两年多。 老人确诊中度阿尔茨海默病。家人最后统计出账单：4887笔充值订单、365个剧场、22.58万元。其中39.9元一个档位就出现1310次，69.9元档位出现736次，接近一半的充值发生在上一笔之后的30分钟以内。家人怀疑，老人是在认知障碍影响下，无意识点中了付费弹窗和自动续费勾选框。 河北的李女士也有相似遭遇。她年过七旬的父亲一年半内为短剧充值5万多元，微信被拉进上百个微信群，手机被各类娱乐公司电话轮番轰炸。为了让父亲停手，李女士给他下载了免费看剧App，可他总会在不知不觉间回到收费剧场。这种状况正在大面积蔓延。QuestMobile报告显示，短剧微信小程序用户中，51岁以上用户占比",
+    "id": "news--1790766654000",
+    "title": " 奶茶店卖茶叶蛋、啤酒：“跨界”背后，满是焦虑 ",
+    "link": "https://www.huxiu.com/article/4894903.html?f=rss",
+    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：七饭 现在的奶茶店越来越像个杂货铺子了。 霸王茶姬卖起了茶叶蛋，古茗在门店里推出了现打啤酒，蜜雪冰城斥资近3亿元收购鲜啤品牌，奈雪的茶端出8.8元的咖啡烘焙早餐，喜茶开出了炒冰实验室，排队要等上一小时…… 去年的品类跨界还集中在奶茶与咖啡之间，今年新茶饮的边界正往冰淇淋、零食、酒水、早餐等品类拓展。增长曲线的探索，比新品上新还要热闹。 跨界动作集中在贴合度最高的冰淇淋上。据不完全统计，今年以来国内主流茶饮品牌已集中上新超过30款冰淇淋或含冰淇淋产品，以意式Gelato为主，如喜茶的喜拉朵、霸王茶姬的茶拉朵、古茗的古拉朵……命名逻辑如出一辙，产品路径很相似，都是把当家茶饮的爆款风味，从杯子里“搬”进了冰淇淋。 当然，还有更激烈的探索，如霸王茶姬在上海7家门店上线了“白雾红尘茶叶蛋”，单枚5元，锚定早高峰人群；古茗在杭州湖滨银泰门店试水现打啤酒，营业时间延长至零点，来承接西湖夜游客流。蜜雪冰城上架自有零食、收购鲜啤品牌，茶颜悦色孵化新鲜零食子品牌“吉时赏味”，新茶饮的业态边界正在被无限拉伸…… 这热闹的跨界背后，似乎藏着品牌满满的焦虑。 增速放缓， 门店质量成关键点 过去几年，新茶饮是门店扩张拉动增长的典型品类，每年20%至30%的营收增速是常态。但这点在2026年被打破了，回看上半年的各品牌财报不难发现，行业集体进入增速放缓的转型周期。 比",
     "publishedAt": "2026-09-30",
     "source": "虎嗅",
     "tags": [
@@ -382,10 +383,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-1790735403000",
-    "title": "Meta 又制造了一个赛道幻觉",
-    "link": "https://www.tmtpost.com/8156722.html",
-    "summary": "产品刚冒头，资本先把泡泡吹了起来。",
+    "id": "news--1790767078000",
+    "title": "电锤、电镐龙头闯北交所：德硕科技产品靠贴牌代工，关联交易暗藏风险",
+    "link": "https://www.tmtpost.com/8156674.html",
+    "summary": "头顶国内第一光环，挑战仍不容小觑",
     "publishedAt": "2026-09-30",
     "source": "钛媒体",
     "tags": [
@@ -994,4 +995,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-09-30T03:48:47.574Z';
+export const dataFetchedAt = '2026-09-30T11:51:44.165Z';
