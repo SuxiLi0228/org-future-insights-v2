@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-openai-s-chief-research-officer-explains-its-ha-1790770200000",
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
-    "publishedAt": "2026-09-30",
+    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
+    "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-releases-gemini-4-argon-called-its-most-powerful-mode-1790811787000",
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "publishedAt": "2026-09-30",
+    "id": "news-satlyt-founded-by-a-former-google-and-spacex-product-manager-1790856000000",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "publishedAt": "2026-10-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-18-18-etf-1790826529000",
-    "title": " 18万亿风口要来了，18家公募备战首批主动ETF，每日持仓透明化，不怕散户“抄作业” ",
-    "link": "https://www.huxiu.com/article/4895010.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：习昂，作者：谢怡雯，原文标题：《18万亿风口要来了！18家公募备战首批主动ETF，每日持仓透明化，不怕散户“抄作业”》 距离递交产品注册申请材料已有2个半月，首批18家主动ETF产品正在等待监管批复。 多家参与首批主动ETF申报的基金公司告诉时代周报记者，目前产品还未获得证监会批复，监管部门很重视此次首批产品发行，已前往各家基金公司开展实地走访，了解产品运作、投资、交易等前期准备情况。 历经18年发展，全球主动ETF资产规模已突破18万亿元人民币，成为ETF行业最重要的发展方向之一。而我国内地市场的主动ETF尚处试点起步阶段，根据沪深交易所发布的业务指引，主动ETF产品采取每日全透明披露持仓模式。这一制度安排对基金管理人的投资、运营、交易、风控等综合能力都提出了严格要求。 南开大学金融发展研究院院长田利辉对时代周报记者表示，之所以选择全透明披露持仓模式，意在借助每日披露的刚性约束，根除传统主动基金信息黑箱与风格漂移的顽疾。透明度是最低成本的信任机制，当投资者能每日验证持仓，渠道销售中的道德风险与风格漂移便被制度性封堵。 要求每日披露持仓，基金公司将迎考 从今年7月公布的首批18只主动ETF产品名称来看，带有价值、均衡、红利、品质、大盘、稳健等关键词的产品占比达到8成，它们来自18家公募基金。 一家基金公司人士告诉时代周报记者，近期公司还在根据",
+    "id": "news-mate-59-1790855300000",
+    "title": " 一台华为Mate万元旗舰，套上了59元积木壳 ",
+    "link": "https://www.huxiu.com/article/4895072.html?f=rss",
+    "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 华为提供 10月1日，看完整场两个小时的华为Mate 90系列及全场景新品发布会，你很难不被一连串密密麻麻的数字轰炸得有些疲劳。 在这个换机周期拉长、AI概念满天飞的时代，大多数厂商习惯在原有框架里做修补。但华为这次选择了一种极其激进的方式，把一系列硬件规格和物理极限制式直接拍在你面前。晶体管密度、跨Die带宽、光追性能、动态范围、降噪深度&hellip;&hellip;发布会像一场持续两小时的技术肌肉秀。 或许你还没有立刻产生换机冲动，但那颗走向三维的&ldquo;逻辑折叠&rdquo;芯片、硬核到近乎不真实的&ldquo;四卡三待&rdquo;，以及一个试图将传统单反拉下马的物理模块相机，正在社交媒体上引发讨论。 前半场的手机发布环节，华为一口气发布了Mate 90、Mate 90 Pro、Mate 90 Pro Max、Mate 90 RS非凡大师四款旗舰。在这一代产品上，外观设计延续了Mate系列标志性的星环镜头模组和双拼色背板，色彩也更加丰富。 虽然从价格来看这一代产品并不便宜，Mate 90起售价5999元，Pro起售价6999元，Pro Max起售价9499元，90 RS非凡大师起售价12999元。华为还推出了两个不同内存组合的Pro Max典藏版。相同内存、处理器芯片配置下，典藏版的价格较Pro M",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1790817720000",
-    "title": "“宁王”座下，车企的三次大撤退",
-    "link": "https://www.tmtpost.com/8157559.html",
-    "summary": "垄断也敌不过周期。",
+    "id": "news--1790850151000",
+    "title": "三大主业同时失速，《欢迎来龙餐馆》票房爆火能救中国儒意吗？",
+    "link": "https://www.tmtpost.com/8157613.html",
+    "summary": "业绩承压之下，AI叙事仍需兑现成果。",
     "publishedAt": "2026-10-01",
     "source": "钛媒体",
     "tags": [
@@ -81,10 +82,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-1790764830000",
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
+    "title": "How smaller, distributed batteries could help the grid",
+    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "publishedAt": "2026-10-01",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-google-releases-gemini-4-argon-called-its-most-powerful-mode-1790811787000",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "publishedAt": "2026-09-30",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-lesbian-plaintiff-fails-to-show-employer-s-fertility-benefit-1790799540000",
+    "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
+    "link": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
+    "summary": "The case demonstrates how courts have had to parse the implications of the high court&rsquo;s 2020 decision in Bostock v. Clayton County, Ga .",
+    "publishedAt": "2026-09-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1790770284000",
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "link": "https://www.qbitai.com/2026/09/499605.html",
+    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "publishedAt": "2026-09-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-muse-airbnb-1790854912000",
+    "title": " 体验了Muse后，我清仓了Airbnb ",
+    "link": "https://www.huxiu.com/article/4895075.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：龙玥 在硅谷和华尔街，关于AI如何改变商业世界的讨论从未停止。但当理论变为现实，第一批感受到寒意的，或许是我们最熟悉的那些互联网平台巨头。 近日，在知名财经播客《The Synopsis》中，主持人Drew与拥有超15万粉丝的资深独立股票分析师Mostly Borrowed Ideas（下文简称MBI）进行了一场深度对话。 MBI讲述，Meta发布Muse约10天后，他下载了这款应用，开始测试。这次测试，最终让他做出了一个投资决定——清仓他重仓的Airbnb（爱彼迎）股票，并进一步加仓Meta。 在这场对话中，Drew还与MBI深入剖析了Meta的AI智能体（Agent）产品Muse将如何颠覆Airbnb、Booking、Uber、DoorDash以及亚马逊等互联网聚合平台的商业模式。一个全新的商业时代——“主动式电商”（Proactive Commerce）或许正在拉开帷幕。 体验Muse后，清仓了Airbnb 作为Airbnb的重度用户（今年已消费超7000美元）和重仓投资者，MBI最初像很多人一样，对AI颠覆在线旅游平台（OTA）的说法不屑一顾。毕竟，人们订房需要看图片、看评价、甚至和房东聊天，传统的文本AI（如早期的ChatGPT）根本无法满足这些需求。 但Muse改变了他的看法。 MBI分享了他的体验：“我让Muse结合我过去在A",
+    "publishedAt": "2026-10-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1790850145000",
+    "title": "阶跃星辰“第一梯队”，是“自嗨”吗？",
+    "link": "https://www.tmtpost.com/8157775.html",
+    "summary": "同行各自跑出了主线，阶跃的“全栈”能跑通吗？",
+    "publishedAt": "2026-10-01",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-openai-s-chief-research-officer-explains-its-ha-1790770200000",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
     "publishedAt": "2026-09-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -120,85 +201,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790770284000",
-    "title": "直播回顾：工业AI的下一个机会在哪？",
-    "link": "https://www.qbitai.com/2026/09/499605.html",
-    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "publishedAt": "2026-09-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790826529000",
-    "title": " 专访美国学者索拉布·古普塔：中美建立沟通机制，两国正从关税战走向对话协商 ",
-    "link": "https://www.huxiu.com/article/4895009.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：马欢 中美元首再次会晤，并就两国建设性战略稳定关系及重大国际地区问题深入交换意见，达成八点成果共识。 这些成果向世界释放了哪些信号？ 对此，时代周报专访了美国学者、中美研究中心高级研究员索拉布·古普塔（Sourabh Gupta）。 △图源：受访者提供 索拉布·古普塔还是美国亚太安全合作理事会（USCSCAP）成员，长期从事亚太研究，研究方向涵盖中美贸易与科技竞争、世界贸易组织及亚太经济区域主义动态分析、大国关系分析及亚太地区关键热点问题等。他多次参与国际安全与经济议题研讨，并就中美关系和中国经济发展形势接受主流媒体采访。 9月28日，索拉布·古普塔在《人民日报》发表署名文章表示，“美中应该在维护各自国家利益的同时，寻找可以共存、合作的领域。” 而在接受时代周报采访时，索拉布·古普塔强调，作为当前世界上最重要的双边关系，中美两国理应承担责任，在重要的全球地缘政治事务上进行实质性交流。 关系定位多了“尊重” 时代周报：此次访问将中美关系定位进一步明确为“基于尊重、公平、对等的中美建设性战略稳定关系”，与今年5月美国总统特朗普访华时确认的定位相比，新增了“尊重、公平、对等”三个关键词，应如何解读？这是对美方此前对华政策的一种回应性调整，还是为未来两国互动设定更具约束力的框架？ 索拉布·古普塔：实际上，其实质内容并不像表面上看起来那么多",
-    "publishedAt": "2026-10-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790817660000",
-    "title": "从宁夏到新疆，中国葡萄酒好起来了？",
-    "link": "https://www.tmtpost.com/8157627.html",
-    "summary": "资本能救葡萄酒吗？",
-    "publishedAt": "2026-10-01",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-climate-tech-companies-to-watch-and-ai-s-discov-1790683800000",
-    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
-    "publishedAt": "2026-09-29",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-valor-atreides-and-sequoia-back-ai-startup-flow-engineering--1790802460000",
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-    "publishedAt": "2026-09-30",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-lesbian-plaintiff-fails-to-show-employer-s-fertility-benefit-1790799540000",
-    "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
-    "link": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
-    "summary": "The case demonstrates how courts have had to parse the implications of the high court&rsquo;s 2020 decision in Bostock v. Clayton County, Ga .",
-    "publishedAt": "2026-09-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-anthropic-1790762652000",
     "title": "Anthropic，你是来给智谱打广告的吧！",
     "link": "https://www.qbitai.com/2026/09/499597.html",
@@ -212,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1790826201000",
-    "title": " 利润翻3倍的浪潮信息钱去哪了？ ",
-    "link": "https://www.huxiu.com/article/4895007.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 浪潮信息是干什么的？ 从上游芯片厂商手里买GPU、CPU、内存、硬盘这些核心部件，装进机箱，调好，卖给下游的互联网公司、运营商、政企客户。 你用的大模型，背后跑的算力，很多就跑在浪潮的服务器上。 服务器生意，就这么个模式。这公司去年做了1648亿营收，其中1546亿是服务器，占总营收93.8%，基本上就是一家纯服务器公司。 93.8%的收入靠一个品类，毛利率只有4.52%。什么概念呢？1546亿的服务器卖出去，最后落到报表上的利润，24个亿。 净利率大概1.5%，一千五百多亿的流水，赚个搬箱子的辛苦钱。 份额倒是好看，国内AI服务器市场，浪潮排第一，份额大概三成，断层领先，可份额归份额，高份额没有换来定价权，产业链里最苦的那段活，它接着。 搁去年，这个生意就是这样，量大利薄，靠规模撑着。 今年上半年，数字突然变了，营收843.79亿，同比只增了5.22%，看着平平无奇，可归母净利，落到股东口袋里的利润，29.52亿，同比翻了快三倍。 半年赚的，已经超过2025年全年的24亿，利润翻了快三倍，听着挺美，搁谁看了都得说一句不错。 可还有一个数字方向完全相反，经营现金流，负74.93亿，赚了29.52亿利润，现金净流出74.93亿。一正一负，差了一百多个亿。 钱呢？变成货了。 芯片、装了一半的服务器、堆在仓库里等发货的整机，全是货；半年报里，",
+    "id": "news-openai-anthropic-ipo-1790854845000",
+    "title": " “大空头”：为了人类的利益，市场应当大幅下跌，阻止OpenAI和Anthropic IPO ",
+    "link": "https://www.huxiu.com/article/4895074.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：黄君芝 众所周知，知名做空投资人、素有“大空头”之称的迈克尔·伯里（Michael Burry）是人工智能（AI）领域最著名的怀疑论者之一。他周三再次将矛头对准AI热潮，并警告称Anthropic和OpenAI成功上市可能会使市场面临巨额资本损失。 伯里在社交媒体平台X上写道，“为了人类的利益，市场应当大幅下跌，阻止OpenAI和Anthropic的首次公开募股（IPO）。” 他还在另一条评论中进一步解释称，两家公司会吸走数万亿美元资金，最终再把这些钱毁掉，而这还只是它们可能造成的最小损害。 伯里因在2008年金融危机前精准做空抵押贷款支持证券而声名鹊起，迈克尔·刘易斯（Michael Lewis）的著作《大空头》和奥斯卡获奖影片《大空头》都记录了他的这一交易。 去年10月底，伯里在沉寂数年后重返公众视野。自那以来，他多次预警股市泡沫风险，披露了做空英伟达等AI股的新仓位，并推出了Substack付费通讯专栏，以向外界自由输出其投资观点。 X上另有一名用户调侃称：“把市场砸崩，这样天网就没法上市了”。“天网”指《终结者》系列电影中的毁灭性人工智能系统。 伯里回复：“差不多就是这个意思。” 近段时间以来，伯里多次质疑，巨额投入数据中心和人工智能基础设施是否能带来足够的回报。本月早些时候，他称OpenAI、Anthropic及其他AI领导者关于放缓",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mcn-1790817300000",
-    "title": "MCN大佬王傲延资本玩法复刻，“白兔系”入局龙大美食重整",
-    "link": "https://www.tmtpost.com/8157558.html",
-    "summary": "操盘步步高、张小泉获利近10亿。",
+    "id": "news--1790842616000",
+    "title": "不在一起，造好车",
+    "link": "https://www.tmtpost.com/8157271.html",
+    "summary": "华为还是不造车，但华为在汽车行业的存在感只会更强。",
     "publishedAt": "2026-10-01",
     "source": "钛媒体",
     "tags": [
@@ -240,11 +242,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-coming-soon-our-2026-list-of-climate-tech-companies-to-watch-1790679600000",
-    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate&#8230;",
-    "publishedAt": "2026-09-29",
+    "id": "news-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-1790764830000",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+    "publishedAt": "2026-09-30",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -252,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-factory-ceo-just-accused-his-vc-board-adviser-of-spying-for--1790800749000",
-    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-    "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+    "id": "news-valor-atreides-and-sequoia-back-ai-startup-flow-engineering--1790802460000",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -291,23 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790826200000",
-    "title": " 人间烟火七十七 ",
-    "link": "https://www.huxiu.com/article/4895006.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 1949年10月1日，北京。一个婴儿出生了。 同一天，天安门城楼上宣告了一个国家的诞生。 2026年10月1日，他77岁了。他和共和国同岁。 他老了。但她，刚刚长大。 七十七年，一个人，一个国家，一部写在时间里的历史。 他叫国庆。 不是大名，是父母给的小名。那年头，很多孩子叫国庆，叫建国，叫建华。父母没什么文化，但知道一件事：这个孩子，和新中国同一天生日。 那时候的孩子，不知道什么叫“国家”，只知道什么叫“日子”。可偏偏，他的日子，就是国家的日子。 他的童年，是在北京胡同里度过的。父亲是工厂工人，母亲是小学老师。家里不富裕，但也不至于饿肚子。他记得五岁那年，胡同里通了电灯。他记得七岁那年，街上跑起了公共汽车。他记得十岁那年，家里买了第一台收音机。 收音机里放的是《歌唱祖国》。他不懂歌词的意思，但他会唱。他唱的时候，父亲在旁边抽烟，母亲在灶台边做饭。窗外的槐树刚发芽。 那是1959年。他十岁。 他的少年，赶上了最乱的年头。 1966年，他十七岁。学校停课，街上贴满大字报。他跟着同学去串联，坐火车不要钱。他去过上海，去过广州，去过韶山。他觉得自己在干一件大事，但不知道大事是什么。 1969年，他二十岁。上山下乡。他去的是黑龙江。冬天零下30℃，手冻裂了，脸冻伤了。他学会了种地，学会了砍柴，学会了在雪地里走十里路去挑水。 有些记忆，不是",
+    "id": "news-ai-anthropic-amodei-1790853640000",
+    "title": " 特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei ",
+    "link": "https://www.huxiu.com/article/4895071.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：龙玥 9月30日，特朗普与约二十余位AI高管在白宫东厅共进午餐后，走出白宫，向记者宣布了一份自愿性“AI协议”。 签署方是六家公司：Anthropic、OpenAI、谷歌、Meta、xAI和英伟达。 特朗普称它“几乎像一部宪法”，是应对AI风险的“一种保护形式”。然而据英国《金融时报》报道，这份两页纸的文件在东厅仓促起草，其中甚至包含一处拼写错误。 值得注意的是，表面上，这是一份关于AI安全的两页纸文件、缺乏法律效力；但从协议的具体要求、被否决的替代方案以及英伟达近期的产品动作来看，它传递出的更重要信号是：白宫和行业头部公司并未选择“放缓AI”的路径，而是试图把安全要求嵌入持续扩张的AI基础设施投入中。 AI测试、审计与监控等“安全合规”要求将需要更多算力，并催生推理、光互联新需求，英伟达或成最大赢家。黄仁勋更联手扎克伯格否决强监管，并当面质问Anthropic掌门人Amodei为何要在公共场合过度宣扬AI风险言论。 协议写了什么？ 根据协议原文，六家签署方须履行三项核心义务： 第一，建立“多层控制与审计”机制。具体要求是部署强健的内部控制系统，持续监控先进模型带来的网络安全和生物安全威胁，并确保模型不会以\"非预期方式\"入侵其他系统。 第二，与独立外部审计机构合作。签署方须主动接受第三方评估，由外部机构核验内部控制措施是否真正有效。 第三，",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-007-1790816940000",
-    "title": "007的忧思：人类永远恐惧科技之恶",
-    "link": "https://www.tmtpost.com/8157557.html",
-    "summary": "科技与人性，摇摇摆摆不定。",
+    "id": "news--1790842602000",
+    "title": "宠物进餐厅的账，还没有算清",
+    "link": "https://www.tmtpost.com/8157211.html",
+    "summary": "宠物友好，不是流量密码，是运营能力。",
     "publishedAt": "2026-10-01",
     "source": "钛媒体",
     "tags": [
@@ -318,10 +321,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-ai-an-asset-not-an-expense-1790678625000",
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "id": "news-the-download-climate-tech-companies-to-watch-and-ai-s-discov-1790683800000",
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
     "publishedAt": "2026-09-29",
     "source": "MIT Technology Review",
     "tags": [
@@ -330,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-neko-health-s-body-scan-worth-it-spotify-billionaire-s-st-1790799602000",
-    "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-    "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-    "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]",
+    "id": "news-factory-ceo-just-accused-his-vc-board-adviser-of-spying-for--1790800749000",
+    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
     "publishedAt": "2026-09-30",
     "source": "TechCrunch",
     "tags": [
@@ -343,10 +346,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-skill-levels-drive-workforce-divide-pwc-finds-1790778720000",
-    "title": "AI skill levels drive workforce divide, PwC finds",
-    "link": "https://www.hrdive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831736/",
-    "summary": "More than half of workers surveyed said they are falling behind their AI-savvy colleagues, PwC said, noting that AI proficiency bolsters a sense of job security.",
+    "id": "news-hr-may-face-a-skills-visibility-gap-in-the-ai-age-1790778720000",
+    "title": "HR may face a ‘skills visibility gap’ in the AI age",
+    "link": "https://www.hrdive.com/news/hr-may-face-skills-visibility-gap-in-the-ai-age/831744/",
+    "summary": "It could become a critical challenge as the function transforms into one that evaluates how work gets done, whether by humans or automation.",
     "publishedAt": "2026-09-30",
     "source": "HR Dive",
     "tags": [
@@ -370,24 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amd-82-1790826199000",
-    "title": " AMD拟82亿美元收购李飞飞的公司：世界模型到底值钱在哪？ ",
-    "link": "https://www.huxiu.com/article/4895005.html?f=rss",
-    "summary": "本文来自微信公众号： 快刀青衣 ，作者：快刀青衣 一场关于AI下一站的下注。 这两天AI圈最大的一条新闻，莫过于一场收购。 著名芯片巨头AMD宣布签署协议，拟收购李飞飞创办的World Labs，全股票交易，交易金额约82亿美元。交割完成后，李飞飞将出任AMD执行副总裁兼首席科学家，直接向CEO苏姿丰汇报。 对于李飞飞教授和她的世界模型，不少朋友都不陌生了。但咱们今天这篇重点不是收购新闻。 82亿美元虽然非常多，但毕竟和咱们没什么关系。剩下的，例如全股票、尚待监管批准，这些信息随便搜一下就有了。 我想聊的，是李飞飞在同一天发出的那封公开信里，藏着的一个判断。 这个判断的核心，就是最近一年很火的一个方向——「世界模型」。我觉得世界模型就跟自迭代模型一样，是现在全球AI圈关注的焦点。 李飞飞在公开信里写了一句话： ❝ 创办这家公司时，我们有一个最基本的信念：仅靠语言，并不足以支撑模型的发展。宇宙并不是由文字组成的，而是由真实存在的事物组成的。 啥叫世界模型？我尽量用大白话跟你说一下。你站在自己家客厅里，面前是沙发和茶几。你闭上眼睛，能不能想象出客厅后面是什么？ 大概率是厨房或者餐厅。往左走可能是卧室，往右走可能是卫生间。你甚至能想象出，如果你现在把茶几上那个杯子推到边缘，它会掉下去，砸到地上，碎了。 你从来没有专门学过这些。没有人给你上过一门课，教你杯子从桌子边缘掉下去会碎。你也没有读",
+    "id": "news-2013-50-1790853628000",
+    "title": " 梦回2013年“缩减恐慌”，“全球资产定价基准”单月暴涨50基点，实属罕见 ",
+    "link": "https://www.huxiu.com/article/4895070.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：赵颖，原文标题：《梦回2013年“缩减恐慌”！“全球资产定价基准”单月暴涨50基点，实属罕见》 美国国债市场正经历四年来最惨烈的单月跌势，其震荡烈度已触及历史性警戒阈值，并引发全球资产定价体系的连锁反应。 10年期美国国债收益率9月单月飙升逾50个基点，突破5.3%，触及2002年以来最高水平，远超2007年峰值。这一幅度对于规模达32万亿美元、被视为全球金融体系锚点的市场而言极为罕见。 据彭博及《金融时报》报道，此轮抛售已从基本面驱动演变为技术性强制卖盘主导的恶性循环——收益率上升触发部分基金被迫减仓，进一步压低债券价格，推高借贷成本，再度引发新一轮抛售。摩根大通资产管理公司投资组合经理Priya Misra警告称，\"这是一个恶性循环，你不得不思考什么能打破它。没有人愿意站在火车头前面。\" 10年期实际利率单月上涨57个基点，与之对比鲜明的历史先例是2013年的\"缩减量化宽松恐慌\"（Taper Tantrum）——当时美联储前主席伯南克释放出缩减资产购买规模的信号，引发债市剧烈动荡和股市大规模抛售。当前的单月实际利率波动幅度，正是自那次恐慌以来最为严重的波动之一。 收益率的持续攀升已向实体经济传导，推高了家庭房贷成本和企业融资成本，并令股市承压。T.Rowe Price首席美国经济学家Blerina Uruçi表示，\"收益率的上行趋势是明",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1790816580000",
-    "title": "影视业迎来AI大考",
-    "link": "https://www.tmtpost.com/8157488.html",
-    "summary": "所有人已避无可避。",
+    "id": "news-muse-1790842594000",
+    "title": "悬在Muse头上的剑",
+    "link": "https://www.tmtpost.com/8157000.html",
+    "summary": "这么可爱肯定是来骗我的吧！",
     "publishedAt": "2026-10-01",
     "source": "钛媒体",
     "tags": [
@@ -959,4 +961,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-01T03:56:12.389Z';
+export const dataFetchedAt = '2026-10-01T12:21:33.645Z';
