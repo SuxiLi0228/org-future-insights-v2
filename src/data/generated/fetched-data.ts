@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
+    "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
     "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-satlyt-founded-by-a-former-google-and-spacex-product-manager-1790856000000",
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "id": "news-lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classifi-1790891828000",
+    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+    "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
     "publishedAt": "2026-10-01",
     "source": "TechCrunch",
     "tags": [
@@ -27,25 +27,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-christian-worker-allegedly-fired-for-religious-social-media--1790799600000",
-    "title": "Christian worker allegedly fired for religious social media posts gets $20K",
-    "link": "https://www.hrdive.com/news/christian-worker-allegedly-fired-religious-social-media-posts/831796/",
-    "summary": "Employers have some discretion to discipline employees over social media content, but federal laws prohibit unfavorable treatment because of religious beliefs, EEOC has said.",
-    "publishedAt": "2026-09-30",
+    "id": "news-ban-on-suboxone-use-for-safety-sensitive-roles-draws-eeoc-la-1790889480000",
+    "title": "Ban on Suboxone use for ‘safety-sensitive’ roles draws EEOC lawsuit",
+    "link": "https://www.hrdive.com/news/suboxone-drug-test-work/831939/",
+    "summary": "The employer, Bollinger Shipyards, allegedly booted five candidates from its application process because of their prescription drug use.",
+    "publishedAt": "2026-10-01",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-openai-1790777023000",
-    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-    "link": "https://www.qbitai.com/2026/09/499654.html",
-    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-    "publishedAt": "2026-09-30",
+    "id": "news-arc-1790867190000",
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "link": "https://www.qbitai.com/2026/10/499812.html",
+    "summary": "用ImageNet训练encoder",
+    "publishedAt": "2026-10-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,17 +53,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mate-59-1790855300000",
-    "title": " 一台华为Mate万元旗舰，套上了59元积木壳 ",
-    "link": "https://www.huxiu.com/article/4895072.html?f=rss",
-    "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 华为提供 10月1日，看完整场两个小时的华为Mate 90系列及全场景新品发布会，你很难不被一连串密密麻麻的数字轰炸得有些疲劳。 在这个换机周期拉长、AI概念满天飞的时代，大多数厂商习惯在原有框架里做修补。但华为这次选择了一种极其激进的方式，把一系列硬件规格和物理极限制式直接拍在你面前。晶体管密度、跨Die带宽、光追性能、动态范围、降噪深度&hellip;&hellip;发布会像一场持续两小时的技术肌肉秀。 或许你还没有立刻产生换机冲动，但那颗走向三维的&ldquo;逻辑折叠&rdquo;芯片、硬核到近乎不真实的&ldquo;四卡三待&rdquo;，以及一个试图将传统单反拉下马的物理模块相机，正在社交媒体上引发讨论。 前半场的手机发布环节，华为一口气发布了Mate 90、Mate 90 Pro、Mate 90 Pro Max、Mate 90 RS非凡大师四款旗舰。在这一代产品上，外观设计延续了Mate系列标志性的星环镜头模组和双拼色背板，色彩也更加丰富。 虽然从价格来看这一代产品并不便宜，Mate 90起售价5999元，Pro起售价6999元，Pro Max起售价9499元，90 RS非凡大师起售价12999元。华为还推出了两个不同内存组合的Pro Max典藏版。相同内存、处理器芯片配置下，典藏版的价格较Pro M",
+    "id": "news-tiffany-1790892613000",
+    "title": " 差评消失了？问题还在｜Tiffany月饼舆情风波背后，品牌该读懂的信号 ",
+    "link": "https://www.huxiu.com/article/4895098.html?f=rss",
+    "summary": "本文来自微信公众号： 生意盒子 ，作者：生意盒子，原文标题：《差评消失了？问题还在｜Tiffany月饼舆情风波背后，品牌该读懂的信号》 这几天，不少社交平台都在热议一件奢侈品服务纠纷： 据当事人社交平台公开自述，一位消费者称在蒂芙尼（Tiffany）门店消费二十余万元，品牌承诺赠送的中秋月饼礼盒未能收到；当事人自述发布吐槽内容后，账号遭遇限制登录、帖子无法正常展示。 该账号、帖子异常的成因尚无权威结论，存在多种可能性。 事情在9月29日冲上热搜。当天，品牌完成内部调查并向当事人承认了失误，晚间公开致歉、公布了整改方案；而当事人最在意的几个疑问，还在等一份带凭证的正式答复。 盒仔盯着这件事看了好几天，不是因为月饼，也不是因为奢侈品。 而是因为它戳中了一个每个做企业、做品牌的人都绕不开的问题——当一条差评出现在你面前，你的第一反应，是试图让差评消失，还是把它接住？ 这个问题，蒂芙尼要答，一家开在县城的火锅店，同样要答。 01 事情是怎么发生的 我们先把事情捋一遍。以下事件梳理基于当事人社交平台公开内容以及界面新闻、北京日报客户端等公开媒体报道。 据当事人描述，她是在成都的一家蒂芙尼门店消费的，前后选购了二十余万元的钻石首饰。 成交之后，销售加了她的联系方式，说中秋会送一份品牌月饼礼盒。 她当时人在国外，就让销售把月饼寄给国内的家人。 然后，就到了中秋当天。家人没收到。 她主动去问，对方",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -82,10 +80,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
     "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
@@ -94,11 +92,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-releases-gemini-4-argon-called-its-most-powerful-mode-1790811787000",
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "publishedAt": "2026-09-30",
+    "id": "news-kevin-mandia-8217-s-new-8216-agent-swarm-8217-security-start-1790891722000",
+    "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
+    "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+    "publishedAt": "2026-10-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,11 +105,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lesbian-plaintiff-fails-to-show-employer-s-fertility-benefit-1790799540000",
-    "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
-    "link": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
-    "summary": "The case demonstrates how courts have had to parse the implications of the high court&rsquo;s 2020 decision in Bostock v. Clayton County, Ga .",
-    "publishedAt": "2026-09-30",
+    "id": "news-ai-might-be-making-women-sound-less-sophisticated-1790889420000",
+    "title": "AI might be making women sound less sophisticated",
+    "link": "https://www.hrdive.com/news/ai-might-be-making-women-sound-less-sophisticated/831973/",
+    "summary": "A study out of Johns Hopkins found that chatbots prompted with &ldquo;woman-associated language&rdquo; produced responses that were less complex than men&rsquo;s.",
+    "publishedAt": "2026-10-01",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -121,11 +119,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790770284000",
-    "title": "直播回顾：工业AI的下一个机会在哪？",
-    "link": "https://www.qbitai.com/2026/09/499605.html",
-    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "publishedAt": "2026-09-30",
+    "id": "news-gemini-4-rsi-gpt-opus-1790866934000",
+    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+    "link": "https://www.qbitai.com/2026/10/499663.html",
+    "summary": "价格只有Astra一半",
+    "publishedAt": "2026-10-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-airbnb-1790854912000",
-    "title": " 体验了Muse后，我清仓了Airbnb ",
-    "link": "https://www.huxiu.com/article/4895075.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：龙玥 在硅谷和华尔街，关于AI如何改变商业世界的讨论从未停止。但当理论变为现实，第一批感受到寒意的，或许是我们最熟悉的那些互联网平台巨头。 近日，在知名财经播客《The Synopsis》中，主持人Drew与拥有超15万粉丝的资深独立股票分析师Mostly Borrowed Ideas（下文简称MBI）进行了一场深度对话。 MBI讲述，Meta发布Muse约10天后，他下载了这款应用，开始测试。这次测试，最终让他做出了一个投资决定——清仓他重仓的Airbnb（爱彼迎）股票，并进一步加仓Meta。 在这场对话中，Drew还与MBI深入剖析了Meta的AI智能体（Agent）产品Muse将如何颠覆Airbnb、Booking、Uber、DoorDash以及亚马逊等互联网聚合平台的商业模式。一个全新的商业时代——“主动式电商”（Proactive Commerce）或许正在拉开帷幕。 体验Muse后，清仓了Airbnb 作为Airbnb的重度用户（今年已消费超7000美元）和重仓投资者，MBI最初像很多人一样，对AI颠覆在线旅游平台（OTA）的说法不屑一顾。毕竟，人们订房需要看图片、看评价、甚至和房东聊天，传统的文本AI（如早期的ChatGPT）根本无法满足这些需求。 但Muse改变了他的看法。 MBI分享了他的体验：“我让Muse结合我过去在A",
+    "id": "news-ai-1790872120000",
+    "title": " 当AI 开始替你行动，界面开始不再像界面 ",
+    "link": "https://www.huxiu.com/article/4895097.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《当 AI 开始替你行动，界面开始不再像界面》 过去几十年，计算机界面一直在解决同一件事： 人怎样操作机器。 你打开App，找到功能，点击按钮，输入参数，确认执行。 你知道文件在哪，知道功能在哪，知道哪一步该由自己完成。 但2026年开始，很多新产品正在把这个前提一点点拿掉。 Meta Muse、OpenAI Dots、Microsoft Project Solara，以及一批企业Agent产品，表面上看依然有聊天框、卡片、侧边栏和设置页；但它们共同在做的事情，已经不是“给Chatbot找一个更漂亮的UI”。 它们开始让机器在你离开之后，继续替你行动。 OpenAI对Dots的描述非常直接：它是一个可承担持续责任、拥有云电脑、可跨连接应用工作的常驻Agent；Meta Muse也把长期目标、后台行动、跨应用执行和权限控制放进了同一个产品定义里。 这意味着，未来人机交互最重要的问题，是： “机器什么时候可以替我行动？” “它能做到哪里？” “它凭什么这样做？” “什么时候必须回来找我？” “如果它做错了，我怎样把权力拿回来？” 这不是简单地UI风格的变化，这是计算机第一次开始把“执行权”从界面里抽走。 而未来界面的任务，也会从“让人操作机器”，变成“让人委托、限制、监督并收回机器的行动权”。 一、未来的电脑首页，可能只",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
@@ -162,6 +160,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
+    "title": "How smaller, distributed batteries could help the grid",
+    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "publishedAt": "2026-10-01",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-musk-8217-s-ai-chatbot-grok-reportedly-encouraged-trump-to-c-1790888891000",
+    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "publishedAt": "2026-10-01",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-california-revamps-ai-protections-for-workers-in-flurry-of-b-1790889420000",
+    "title": "California revamps AI protections for workers in flurry of bill signings",
+    "link": "https://www.hrdive.com/news/california-revamps-ai-protections-for-workers-in-flurry-of-bill-signings/831949/",
+    "summary": "Gov. Gavin Newsom said the laws aim to create a &ldquo;nation-leading framework&rdquo; for protecting workers and consumers.",
+    "publishedAt": "2026-10-01",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-openai-1790777023000",
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "link": "https://www.qbitai.com/2026/09/499654.html",
+    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "publishedAt": "2026-09-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790871650000",
+    "title": " 战魔田默｜商业世界最厉害的能力，是给不确定性定价 ",
+    "link": "https://www.huxiu.com/article/4895096.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜商业世界最厉害的能力，是给不确定性定价》 一款刚刚走到Ⅰ期临床起点的药，最终能不能上市，没有人知道。 它能不能通过后续临床，能不能获得监管批准，上市以后能卖多少，同样没有人能够提前确定。 但价格已经出现了。 恒瑞医药与诺和诺德围绕HRS-1596达成的交易里，3亿美元首付款、最高23亿美元后续里程碑付款以及未来销售提成，共同构成了一套面向未来的价格体系。 HRS-1596刚刚在中国获准启动Ⅰ期临床，距离完成临床开发和形成商业收入还有很长的路，全球大部分地区的开发、生产和商业化权利却已经进入交易。 这件事提出了一个更大的商业问题：结果尚未发生，交易为什么已经可以发生？ 我们习惯把商业理解成确定性之后的交换。 产品已经生产出来，再讨论多少钱；企业已经形成利润，再判断值多少；技术已经被证明，再决定是否购买。 但现实中的商业远比这复杂：企业尚未盈利，融资已经发生；并购标的未来三年到底能赚多少钱没人知道，交易可以先完成。 IP未来能够转化多少销售无法确定，授权已经签署；技术距离最终商业化还有很多年，其中部分权益已经拥有现实价格。 大量重要交易，都发生在结果尚未确定的时候。过去几百年的商业制度演进，也一直在回答同一个问题：人类无法消灭不确定性，能不能把它变成可以识别、分配和定价的风险？ 从海上保险，到风险投资、期权市场，再",
+    "publishedAt": "2026-10-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790842616000",
+    "title": "不在一起，造好车",
+    "link": "https://www.tmtpost.com/8157271.html",
+    "summary": "华为还是不造车，但华为在汽车行业的存在感只会更强。",
+    "publishedAt": "2026-10-01",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-openai-s-chief-research-officer-explains-its-ha-1790770200000",
     "title": "The Download: OpenAI’s chief research officer explains its hacking response",
     "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
@@ -174,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-1790809680000",
-    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-    "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-    "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
-    "publishedAt": "2026-09-30",
+    "id": "news-chatgpt-can-now-virtually-try-on-clothes-for-you-1790882513000",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "publishedAt": "2026-10-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -187,24 +264,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jpmorgan-chase-names-next-hr-chief-1790799540000",
-    "title": "JPMorgan Chase names next HR chief",
-    "link": "https://www.hrdive.com/news/jpmorgan-chase-names-next-hr-chief-odonovan-leopold-retire-llano-manibardo-germany/831785/",
-    "summary": "Mark O&rsquo;Donovan, JPMorgan&rsquo;s CEO of international consumer banking, will succeed human resources head Robin Leopold, who is retiring, in January, the bank said.",
-    "publishedAt": "2026-09-30",
+    "id": "news-this-week-in-5-numbers-hr-pros-say-half-of-their-week-is-spe-1790889360000",
+    "title": "This week in 5 numbers: HR pros say half of their week is spent on repetitive work",
+    "link": "https://www.hrdive.com/news/hr-pros-say-half-of-their-week-is-spent-on-repetitive-work/831933/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much it costs employees to return to the office.",
+    "publishedAt": "2026-10-01",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-anthropic-1790762652000",
-    "title": "Anthropic，你是来给智谱打广告的吧！",
-    "link": "https://www.qbitai.com/2026/09/499597.html",
-    "summary": "实测说GLM-5.3很强",
+    "id": "news-ai-1790770284000",
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "link": "https://www.qbitai.com/2026/09/499605.html",
+    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
@@ -214,24 +290,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-anthropic-ipo-1790854845000",
-    "title": " “大空头”：为了人类的利益，市场应当大幅下跌，阻止OpenAI和Anthropic IPO ",
-    "link": "https://www.huxiu.com/article/4895074.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：黄君芝 众所周知，知名做空投资人、素有“大空头”之称的迈克尔·伯里（Michael Burry）是人工智能（AI）领域最著名的怀疑论者之一。他周三再次将矛头对准AI热潮，并警告称Anthropic和OpenAI成功上市可能会使市场面临巨额资本损失。 伯里在社交媒体平台X上写道，“为了人类的利益，市场应当大幅下跌，阻止OpenAI和Anthropic的首次公开募股（IPO）。” 他还在另一条评论中进一步解释称，两家公司会吸走数万亿美元资金，最终再把这些钱毁掉，而这还只是它们可能造成的最小损害。 伯里因在2008年金融危机前精准做空抵押贷款支持证券而声名鹊起，迈克尔·刘易斯（Michael Lewis）的著作《大空头》和奥斯卡获奖影片《大空头》都记录了他的这一交易。 去年10月底，伯里在沉寂数年后重返公众视野。自那以来，他多次预警股市泡沫风险，披露了做空英伟达等AI股的新仓位，并推出了Substack付费通讯专栏，以向外界自由输出其投资观点。 X上另有一名用户调侃称：“把市场砸崩，这样天网就没法上市了”。“天网”指《终结者》系列电影中的毁灭性人工智能系统。 伯里回复：“差不多就是这个意思。” 近段时间以来，伯里多次质疑，巨额投入数据中心和人工智能基础设施是否能带来足够的回报。本月早些时候，他称OpenAI、Anthropic及其他AI领导者关于放缓",
+    "id": "news-3-1790871598000",
+    "title": " 战魔田默｜一款刚获准启动Ⅰ期临床的减重候选药，为什么能获得3亿美元首付款？ ",
+    "link": "https://www.huxiu.com/article/4895095.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜一款刚获准启动Ⅰ期临床的减重候选药，为什么能获得3亿美元首付款？》 一款刚获准启动Ⅰ期临床的创新药，能值多少钱？ 3亿美元首付款！恒瑞医药与诺和诺德的交易，给出了一个现实答案。 2026年9月29日，双方围绕HRS-1596达成独家许可协议。 这是一款具有每周一次口服给药潜力的GLP-1/GIP双受体激动剂，已在中国获准启动用于体重管理和2型糖尿病的Ⅰ期临床。 它距离完成临床开发、获得监管批准并形成销售收入，还有很长的路，但诺和诺德仍愿意提前取得HRS-1596在中国大陆、香港、澳门和台湾以外地区的独家开发、生产和商业化权利。 根据协议，恒瑞可获得3亿美元首付款；如果后续开发、注册和商业化达到约定里程碑，交易潜在总额最高可达26亿美元，此外还有基于授权区域净销售额计算的销售提成。 协议仍需完成美国反垄断审查并满足其他交割条件，双方预计交易于2026年第四季度完成。 因此，3亿美元是协议约定的首付款，并不等于已经到账；26亿美元也不是HRS-1596今天已经实现的销售收入或静态估值。 一个尚未完成人体临床验证的研发项目，为什么已经能够形成现实价格？ 01 Ⅰ期临床起点，项目究竟已经具备了什么？ HRS-1596目前还不能作为药品进入市场。 获准启动Ⅰ期临床，也不代表疗效已经得到确认，更不代表长期安全性已经得到验证",
     "publishedAt": "2026-10-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1790842616000",
-    "title": "不在一起，造好车",
-    "link": "https://www.tmtpost.com/8157271.html",
-    "summary": "华为还是不造车，但华为在汽车行业的存在感只会更强。",
+    "id": "news--1790842602000",
+    "title": "宠物进餐厅的账，还没有算清",
+    "link": "https://www.tmtpost.com/8157211.html",
+    "summary": "宠物友好，不是流量密码，是运营能力。",
     "publishedAt": "2026-10-01",
     "source": "钛媒体",
     "tags": [
@@ -254,11 +329,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-valor-atreides-and-sequoia-back-ai-startup-flow-engineering--1790802460000",
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-    "publishedAt": "2026-09-30",
+    "id": "news-google-thinks-spacex-8217-s-starship-has-to-launch-1-800-tim-1790882283000",
+    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "publishedAt": "2026-10-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -267,11 +342,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-with-the-iced-coffee-debate-gen-z-cultural-differences-come--1790782018000",
-    "title": "With the iced coffee debate, Gen Z cultural differences come to a head",
-    "link": "https://www.hrdive.com/news/iced-coffee-job-interviews-young-people-work/831781/",
-    "summary": "Experts have observed several factors that make Generation Z poised to behave differently at work than previous generations.",
-    "publishedAt": "2026-09-30",
+    "id": "news-the-rto-tax-is-an-estimated-6-700-per-year-for-employees-ana-1790872500000",
+    "title": "The RTO tax is an estimated $6,700 per year for employees, analysis finds",
+    "link": "https://www.hrdive.com/news/the-rto-tax-is-an-estimated-6700-per-year-for-employees/831597/",
+    "summary": "For working parents paying for childcare, that figure climbs to about $16,000 annually, per Resume.io.",
+    "publishedAt": "2026-10-01",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -280,108 +355,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-2-0-ai-1790755117000",
-    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-    "link": "https://www.qbitai.com/2026/09/499592.html",
-    "summary": "给Agent配上手机号，再拉个群",
+    "id": "news-anthropic-1790762652000",
+    "title": "Anthropic，你是来给智谱打广告的吧！",
+    "link": "https://www.qbitai.com/2026/09/499597.html",
+    "summary": "实测说GLM-5.3很强",
     "publishedAt": "2026-09-30",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-anthropic-amodei-1790853640000",
-    "title": " 特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei ",
-    "link": "https://www.huxiu.com/article/4895071.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：龙玥 9月30日，特朗普与约二十余位AI高管在白宫东厅共进午餐后，走出白宫，向记者宣布了一份自愿性“AI协议”。 签署方是六家公司：Anthropic、OpenAI、谷歌、Meta、xAI和英伟达。 特朗普称它“几乎像一部宪法”，是应对AI风险的“一种保护形式”。然而据英国《金融时报》报道，这份两页纸的文件在东厅仓促起草，其中甚至包含一处拼写错误。 值得注意的是，表面上，这是一份关于AI安全的两页纸文件、缺乏法律效力；但从协议的具体要求、被否决的替代方案以及英伟达近期的产品动作来看，它传递出的更重要信号是：白宫和行业头部公司并未选择“放缓AI”的路径，而是试图把安全要求嵌入持续扩张的AI基础设施投入中。 AI测试、审计与监控等“安全合规”要求将需要更多算力，并催生推理、光互联新需求，英伟达或成最大赢家。黄仁勋更联手扎克伯格否决强监管，并当面质问Anthropic掌门人Amodei为何要在公共场合过度宣扬AI风险言论。 协议写了什么？ 根据协议原文，六家签署方须履行三项核心义务： 第一，建立“多层控制与审计”机制。具体要求是部署强健的内部控制系统，持续监控先进模型带来的网络安全和生物安全威胁，并确保模型不会以\"非预期方式\"入侵其他系统。 第二，与独立外部审计机构合作。签署方须主动接受第三方评估，由外部机构核验内部控制措施是否真正有效。 第三，",
-    "publishedAt": "2026-10-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1790842602000",
-    "title": "宠物进餐厅的账，还没有算清",
-    "link": "https://www.tmtpost.com/8157211.html",
-    "summary": "宠物友好，不是流量密码，是运营能力。",
-    "publishedAt": "2026-10-01",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-climate-tech-companies-to-watch-and-ai-s-discov-1790683800000",
-    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
-    "publishedAt": "2026-09-29",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-factory-ceo-just-accused-his-vc-board-adviser-of-spying-for--1790800749000",
-    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-    "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-    "publishedAt": "2026-09-30",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-may-face-a-skills-visibility-gap-in-the-ai-age-1790778720000",
-    "title": "HR may face a ‘skills visibility gap’ in the AI age",
-    "link": "https://www.hrdive.com/news/hr-may-face-skills-visibility-gap-in-the-ai-age/831744/",
-    "summary": "It could become a critical challenge as the function transforms into one that evaluates how work gets done, whether by humans or automation.",
-    "publishedAt": "2026-09-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gpt-6-astra-g1-1790754894000",
-    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-    "link": "https://www.qbitai.com/2026/09/499493.html",
-    "summary": "让GPT把机器人技能当工具调用",
-    "publishedAt": "2026-09-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-2013-50-1790853628000",
-    "title": " 梦回2013年“缩减恐慌”，“全球资产定价基准”单月暴涨50基点，实属罕见 ",
-    "link": "https://www.huxiu.com/article/4895070.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：赵颖，原文标题：《梦回2013年“缩减恐慌”！“全球资产定价基准”单月暴涨50基点，实属罕见》 美国国债市场正经历四年来最惨烈的单月跌势，其震荡烈度已触及历史性警戒阈值，并引发全球资产定价体系的连锁反应。 10年期美国国债收益率9月单月飙升逾50个基点，突破5.3%，触及2002年以来最高水平，远超2007年峰值。这一幅度对于规模达32万亿美元、被视为全球金融体系锚点的市场而言极为罕见。 据彭博及《金融时报》报道，此轮抛售已从基本面驱动演变为技术性强制卖盘主导的恶性循环——收益率上升触发部分基金被迫减仓，进一步压低债券价格，推高借贷成本，再度引发新一轮抛售。摩根大通资产管理公司投资组合经理Priya Misra警告称，\"这是一个恶性循环，你不得不思考什么能打破它。没有人愿意站在火车头前面。\" 10年期实际利率单月上涨57个基点，与之对比鲜明的历史先例是2013年的\"缩减量化宽松恐慌\"（Taper Tantrum）——当时美联储前主席伯南克释放出缩减资产购买规模的信号，引发债市剧烈动荡和股市大规模抛售。当前的单月实际利率波动幅度，正是自那次恐慌以来最为严重的波动之一。 收益率的持续攀升已向实体经济传导，推高了家庭房贷成本和企业融资成本，并令股市承压。T.Rowe Price首席美国经济学家Blerina Uruçi表示，\"收益率的上行趋势是明",
-    "publishedAt": "2026-10-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -961,4 +943,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-01T12:21:33.645Z';
+export const dataFetchedAt = '2026-10-01T22:17:55.113Z';
