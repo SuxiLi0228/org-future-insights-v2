@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-an-1790960400000",
-    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-    "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that.",
+    "id": "news-sean-parker-is-rebuilding-stability-ai-around-music-1790975354000",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -28,10 +28,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hiring-caution-persists-as-inflation-holds-on-bls-report-sho-1790953620000",
-    "title": "Hiring caution persists as inflation holds on, BLS report shows",
-    "link": "https://www.hrdive.com/news/hiring-caution-persists-as-inflation-holds-on-bls-report/832006/",
-    "summary": "&ldquo;In many cases, employers would rather leave a position open than make the wrong hire,&rdquo; one executive said.",
+    "id": "news-eeoc-sues-harvard-to-obtain-hundreds-of-documents-in-dei-rel-1790974620000",
+    "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
+    "link": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
+    "summary": "The university called the agency&rsquo;s requests &ldquo;virtually boundless&rdquo; and said it has already provided more than 9,000 pages of responsive information, according to a court document.",
     "publishedAt": "2026-10-02",
     "source": "HR Dive",
     "tags": [
@@ -55,24 +55,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790958183000",
-    "title": " 我们对AI之后发生的事还一无所知 ",
-    "link": "https://www.huxiu.com/article/4895200.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《我们对AI之后发生的事还一无所知｜不懂经网站》 尼克·博斯特罗姆（Nick Bostrom）不再担心世界末日了。 现在他担心的是乌托邦。 这是《纽约时报》10月1日给他下的最新判断，概括了一位先知二十来年的转向。2014年，这个瑞典人出版《超级智能》，第一次把“AI毁灭人类”从科幻笑话变成一道严肃的计算题。马斯克、奥特曼、盖茨都公开支持过他的警告。 他创办的牛津人类未来研究所，后来成了全世界研究AI存在风险的核心机构。可以说，今天我们听到的每一句末日警告，都能在他那里找到源头。整个AI末日叙事产业，他是鼻祖之一。 现在他说，那枚硬币有两面。而他只给人看了反面。 设想有一天，工作交给机器，疾病有了治疗办法，衰老可以延缓。你想住的房子、想看的风景、想拥有的知识，都能按需获得。连跑步之后的愉悦、苦读之后的领悟，也可以绕过汗水和书页，直接送进你的头脑。 你终于不用为了任何结果受苦了。可当你早晨醒来，把手伸向床头那个能满足一切的按钮，你会发现，自己连起床的理由都需要重新寻找。 我们为这样的世界努力了很久，却几乎没有认真想过，抵达之后怎么办。 这就是波斯特洛姆现在主要忧虑的问题。这位哲学家曾任牛津大学人类未来研究所创始主任，2014年的《超级智能》讨论了机器智能失控的危险。十年后，他又出版了《未来之地》，把思考推向另一端：假如超级智能安全",
+    "id": "news--1790966459000",
+    "title": " 美军走了，波斯湾空了：中东的“后美国时代”来得比想象中更快 ",
+    "link": "https://www.huxiu.com/article/4895202.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 9月30日，伊拉克总理扎伊迪宣布了一件事：美国主导的打击“伊斯兰国”国际联盟部队，正式结束在伊拉克的任务。同一天，美国国防部也发了声明，措辞更具体——国际联盟部队及装备“从埃尔比勒空军基地有序撤离”。 同一天，伊朗伊斯兰革命卫队发言人穆赫比说了一句话：“波斯湾已无美军舰船。”美军舰船已撤至距波斯湾入口至少500公里外。 美军在伊拉克驻扎了二十三年。波斯湾是美国海军第五舰队的传统辖区。现在，第五舰队的作战部长已经公开表示，海军人员“不会很快回到巴林”。 一个时代正在画上句号。 “石油换安全”的账，算不过来了 要理解这件事的分量，得先看一组更早的数据。 根据《华盛顿邮报》的报道，美军从波斯湾撤出的力量，可能重新部署到沙特西部红海沿岸、约旦和以色列境内。与此同时，美国军方和情报官员已经开始讨论在中东地区削减驻军和关闭基地的可能性。 为什么会走到这一步？ 答案藏在伊朗的导弹里。今年美伊冲突期间，伊朗的导弹和无人机摧毁了美国在利雅得的一个CIA前哨站，并打击了巴林、卡塔尔、沙特和科威特的军事设施。美国官员承认：“这些漏洞一直存在，但美国从未紧迫地采取行动。” 沙特早就察觉到了一些东西。2019年伊朗轰炸沙特阿美石油设施，美国没有做出实质回应。那时沙特就意识到了一件事：美国的安全承诺，是有条件的，而且条件越来越苛刻。卡内基中东中心的分析文章指出，",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-cadre-holdings-1790956669000",
-    "title": "我们选中的Cadre Holdings股票不及预期",
-    "link": "https://www.tmtpost.com/8158532.html",
-    "summary": "本周，这只股票跌破了一个关键的技术支撑位。",
+    "id": "news--1790933905000",
+    "title": "大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？",
+    "link": "https://www.tmtpost.com/8148614.html",
+    "summary": "他们不制定价格，但价格的形成，绕不开他们的资源、物流与交易。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -95,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-paramount-and-warner-bros-discovery-to-become-skydance-1790956430000",
-    "title": "Paramount and Warner Bros. Discovery to become Skydance",
-    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-    "summary": "The roughly $110 billion deal is expected to close October 6.",
+    "id": "news-affected-by-layoffs-don-8217-t-miss-this-75-deal-for-your-te-1790968551000",
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -108,10 +107,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sociable-linkedin-updates-its-ai-powered-hiring-bot-1790953620000",
-    "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
-    "link": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
-    "summary": "The platform launched Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
+    "id": "news-eeoc-takes-aim-at-trans-rights-in-investigations-involving-b-1790974620000",
+    "title": "EEOC takes aim at trans rights in investigations involving ‘biological’ pronouns, single-sex spaces",
+    "link": "https://www.hrdive.com/news/eeoc-shifts-on-trans-rights-sues-for-single-sex-bathroom-restriction-and/832038/",
+    "summary": "Recent litigation actions from the agency demonstrate a new path forward for the administration on fighting &ldquo;gender ideology.&rdquo;",
     "publishedAt": "2026-10-02",
     "source": "HR Dive",
     "tags": [
@@ -135,23 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790957426000",
-    "title": " 苏姿丰与李飞飞 ",
-    "link": "https://www.huxiu.com/article/4895199.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 一个人在麻省理工的实验室里，一片一片地磨硅。那是本科生干的活，没有名字，磨完交给别人去用。 另一个人在网上把一千多万张图，一张一张地分门别类。那是当年学术圈看不起的活，评职称的时候不好看。 那两样东西都叫片。一个是圆的，晶圆。一个是方的，图片。 9月28日，AMD宣布收购World Labs，全股票交易，作价约82亿美元。交易要等监管批准，预计年底前完成。完成以后，李飞飞将出任AMD的执行副总裁兼首席科学家，直接向董事长兼首席执行官苏姿丰汇报。 一个57岁的女人，把一家二十年前快死掉的芯片公司做成了今天这个样子。一个50岁的女人，十五年前定义了这一轮人工智能的起跑线。而现在，她们在同一张组织架构图上。 我好久没写双人物系列了。哇，又是“五十岁之后还能做什么”的绝好选题。 两个人都生在华人家庭，都在很小的年纪被父母带到美国，都在一个女人少数派的行业里做到了头部。 按照我的惯例，华人先拆名字。 苏这个字，最要紧的意思在《尚书》里。《仲虺之诰》记商汤的军队所到之处，百姓的话是，“徯予后，后来其苏”。等着我们的君主，他来了，我们就活过来了。 苏是复活。死过一回，又醒过来。后来这个意思留在了苏醒、复苏这些词里。 姿，《说文解字》说，姿，態也。丰，《说文》写作豐，豆之豐满者也。豆是古代盛祭品的高脚器皿。豐，是那个器皿里装得满满当当的样子。 苏姿丰",
+    "id": "news-ai-1790958183000",
+    "title": " 我们对AI之后发生的事还一无所知 ",
+    "link": "https://www.huxiu.com/article/4895200.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《我们对AI之后发生的事还一无所知｜不懂经网站》 尼克·博斯特罗姆（Nick Bostrom）不再担心世界末日了。 现在他担心的是乌托邦。 这是《纽约时报》10月1日给他下的最新判断，概括了一位先知二十来年的转向。2014年，这个瑞典人出版《超级智能》，第一次把“AI毁灭人类”从科幻笑话变成一道严肃的计算题。马斯克、奥特曼、盖茨都公开支持过他的警告。 他创办的牛津人类未来研究所，后来成了全世界研究AI存在风险的核心机构。可以说，今天我们听到的每一句末日警告，都能在他那里找到源头。整个AI末日叙事产业，他是鼻祖之一。 现在他说，那枚硬币有两面。而他只给人看了反面。 设想有一天，工作交给机器，疾病有了治疗办法，衰老可以延缓。你想住的房子、想看的风景、想拥有的知识，都能按需获得。连跑步之后的愉悦、苦读之后的领悟，也可以绕过汗水和书页，直接送进你的头脑。 你终于不用为了任何结果受苦了。可当你早晨醒来，把手伸向床头那个能满足一切的按钮，你会发现，自己连起床的理由都需要重新寻找。 我们为这样的世界努力了很久，却几乎没有认真想过，抵达之后怎么办。 这就是波斯特洛姆现在主要忧虑的问题。这位哲学家曾任牛津大学人类未来研究所创始主任，2014年的《超级智能》讨论了机器智能失控的危险。十年后，他又出版了《未来之地》，把思考推向另一端：假如超级智能安全",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-synaptics-1790953564000",
-    "title": "安森美半导体将以大幅折价收购Synaptics，两只股票均在飙升",
-    "link": "https://www.tmtpost.com/8158528.html",
-    "summary": "安森美半导体股票和新思科技的股价都在上涨，此前双方重新协商了收购交易条款。原因如下。",
+    "id": "news-9-4-1790933902000",
+    "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+    "link": "https://www.tmtpost.com/8158341.html",
+    "summary": "新车越上越多，销量没有普涨。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pope-leo-xiv-is-not-a-fan-of-ai-generated-art-1790955581000",
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "id": "news-apple-says-it-8217-s-tightening-macos-8216-full-disk-access--1790964687000",
+    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -187,16 +187,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ban-on-suboxone-use-for-safety-sensitive-roles-draws-eeoc-la-1790889480000",
-    "title": "Ban on Suboxone use for ‘safety-sensitive’ roles draws EEOC lawsuit",
-    "link": "https://www.hrdive.com/news/suboxone-drug-test-work/831939/",
-    "summary": "The employer, Bollinger Shipyards, allegedly booted five candidates from its application process because of their prescription drug use.",
-    "publishedAt": "2026-10-01",
+    "id": "news-firm-settles-eeoc-charge-that-it-let-indian-staff-work-remot-1790974620000",
+    "title": "Firm settles EEOC charge that it let Indian staff work remotely, but not US employees",
+    "link": "https://www.hrdive.com/news/firm-settles-eeoc-charge-indian-staff-work-remotely-not-us-employee/832055/",
+    "summary": "Determinations on remote work should not be based on an employee&rsquo;s race or national origin, a director for the agency said.",
+    "publishedAt": "2026-10-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -213,10 +214,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790933905000",
-    "title": "大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？",
-    "link": "https://www.tmtpost.com/8148614.html",
-    "summary": "他们不制定价格，但价格的形成，绕不开他们的资源、物流与交易。",
+    "id": "news--1790957426000",
+    "title": " 苏姿丰与李飞飞 ",
+    "link": "https://www.huxiu.com/article/4895199.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 一个人在麻省理工的实验室里，一片一片地磨硅。那是本科生干的活，没有名字，磨完交给别人去用。 另一个人在网上把一千多万张图，一张一张地分门别类。那是当年学术圈看不起的活，评职称的时候不好看。 那两样东西都叫片。一个是圆的，晶圆。一个是方的，图片。 9月28日，AMD宣布收购World Labs，全股票交易，作价约82亿美元。交易要等监管批准，预计年底前完成。完成以后，李飞飞将出任AMD的执行副总裁兼首席科学家，直接向董事长兼首席执行官苏姿丰汇报。 一个57岁的女人，把一家二十年前快死掉的芯片公司做成了今天这个样子。一个50岁的女人，十五年前定义了这一轮人工智能的起跑线。而现在，她们在同一张组织架构图上。 我好久没写双人物系列了。哇，又是“五十岁之后还能做什么”的绝好选题。 两个人都生在华人家庭，都在很小的年纪被父母带到美国，都在一个女人少数派的行业里做到了头部。 按照我的惯例，华人先拆名字。 苏这个字，最要紧的意思在《尚书》里。《仲虺之诰》记商汤的军队所到之处，百姓的话是，“徯予后，后来其苏”。等着我们的君主，他来了，我们就活过来了。 苏是复活。死过一回，又醒过来。后来这个意思留在了苏醒、复苏这些词里。 姿，《说文解字》说，姿，態也。丰，《说文》写作豐，豆之豐满者也。豆是古代盛祭品的高脚器皿。豐，是那个器皿里装得满满当当的样子。 苏姿丰",
+    "publishedAt": "2026-10-02",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-11-1790933899000",
+    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
+    "link": "https://www.tmtpost.com/8155421.html",
+    "summary": "国庆档影片背后，资本暗流涌动。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -239,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-laytr-8217-s-new-app-lets-you-save-anything-you-find-online--1790955080000",
-    "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
-    "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-    "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+    "id": "news-it-8217-s-not-ai-anymore-it-8217-s-super-intelligence-accord-1790963296000",
+    "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -252,11 +266,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-might-be-making-women-sound-less-sophisticated-1790889420000",
-    "title": "AI might be making women sound less sophisticated",
-    "link": "https://www.hrdive.com/news/ai-might-be-making-women-sound-less-sophisticated/831973/",
-    "summary": "A study out of Johns Hopkins found that chatbots prompted with &ldquo;woman-associated language&rdquo; produced responses that were less complex than men&rsquo;s.",
-    "publishedAt": "2026-10-01",
+    "id": "news-hiring-caution-persists-as-inflation-holds-on-bls-report-sho-1790953620000",
+    "title": "Hiring caution persists as inflation holds on, BLS report shows",
+    "link": "https://www.hrdive.com/news/hiring-caution-persists-as-inflation-holds-on-bls-report/832006/",
+    "summary": "&ldquo;In many cases, employers would rather leave a position open than make the wrong hire,&rdquo; one executive said.",
+    "publishedAt": "2026-10-02",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -279,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-4-1790933902000",
-    "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
-    "link": "https://www.tmtpost.com/8158341.html",
-    "summary": "新车越上越多，销量没有普涨。",
+    "id": "news-muse-1790932220000",
+    "title": "Muse狂飙，龙虾退潮",
+    "link": "https://www.tmtpost.com/8158280.html",
+    "summary": "别找了，没有中国版Muse",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -305,7 +319,7 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building--1790953200000",
+    "id": "news-techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building--1790962325000",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
@@ -318,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-california-revamps-ai-protections-for-workers-in-flurry-of-b-1790889420000",
-    "title": "California revamps AI protections for workers in flurry of bill signings",
-    "link": "https://www.hrdive.com/news/california-revamps-ai-protections-for-workers-in-flurry-of-bill-signings/831949/",
-    "summary": "Gov. Gavin Newsom said the laws aim to create a &ldquo;nation-leading framework&rdquo; for protecting workers and consumers.",
-    "publishedAt": "2026-10-01",
+    "id": "news-sociable-linkedin-updates-its-ai-powered-hiring-bot-1790953620000",
+    "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
+    "link": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
+    "summary": "The platform launched Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
+    "publishedAt": "2026-10-02",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -345,10 +359,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1790933899000",
-    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
-    "link": "https://www.tmtpost.com/8155421.html",
-    "summary": "国庆档影片背后，资本暗流涌动。",
+    "id": "news-122-1790932218000",
+    "title": "万万没想到！中国科幻，122岁啦",
+    "link": "https://www.tmtpost.com/8158310.html",
+    "summary": "未来的人们或可将其称之为：中国科幻流浪计划。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -958,4 +972,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-02T17:23:14.365Z';
+export const dataFetchedAt = '2026-10-02T21:46:42.326Z';
