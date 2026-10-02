@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
-    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
-    "publishedAt": "2026-10-01",
+    "id": "news-a-new-contest-pits-competitors-against-each-other-in-a-race--1790931600000",
+    "title": "A new contest pits competitors against each other in a race to biological youth",
+    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
+    "publishedAt": "2026-10-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-arc-1790867190000",
-    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-    "link": "https://www.qbitai.com/2026/10/499812.html",
-    "summary": "用ImageNet训练encoder",
-    "publishedAt": "2026-10-01",
+    "id": "news-openjiuwen-x-router-agent-50-token-1790926455000",
+    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+    "link": "https://www.qbitai.com/2026/10/500098.html",
+    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+    "publishedAt": "2026-10-02",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-1790912687000",
-    "title": " A级景区密集摘牌，发生了什么？ ",
-    "link": "https://www.huxiu.com/article/4895115.html?f=rss",
-    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 过去几年，一批曾经挂着3A、4A牌子的景区，正在被剔除出A级景区名单。 据不完全统计，截至9月，今年全国至少已有22个省份、100多家A级景区被摘牌。安徽一次性摘牌6家4A级景区，其中一些景区已经“无游客、无工作人员、无运营项目”，旅游设施荒废；还有景区因为景观质量退化、业态停滞甚至数据造假，被取消等级。 从制度上说，A级本来就不是一块可以永久保留的牌子。自评上A级开始，景区就要持续接受抽查、暗访、复核和整改。厕所里有没有纸，导览牌能不能看懂，一瓶水卖多少钱，停车场有没有超载，都可能成为评价的一部分。 过去十多年，中国一直在快速“造景区”。据南风窗报道，2012年，全国只有6042家A级景区；到2025年底，这个数字已经增加到16994家。仅相比2019年，A级景区数量就增长约37%，同期旅游收入却只增长约9.5%。 景区越来越多，但游客的选择也越来越多。当游客不再只为“看一眼”买单，一些过去依靠资源、门票和大规模建设生存的景区，也开始显得过时。 我们访谈了两位景区研究的专家——中国旅游景区协会规划专委会副主任委员、清华同衡规划设计研究院副总规划师王彬汕，与江苏省旅游协会副会长、南京师范大学旅游系主任、教授侯国林，试图解答这一轮景区摘牌背后，究竟发生了什么？ 一块A级牌子，是怎么被摘掉的？ 镜相工作室：我们景区A级评价",
+    "id": "news-gpt-1790941280000",
+    "title": " 想造GPT 通才的年轻人，和相信专才的老将 ",
+    "link": "https://www.huxiu.com/article/4895175.html?f=rss",
+    "summary": "本文来自微信公众号： 42号电波 ，作者：yukun，编辑：大吉，原文标题：《想造 GPT 通才的年轻人，和相信专才的老将｜IROS 2026 现场》 9月27日到10月1日，第39届IEEE/RSJ智能机器人与系统国际会议（IROS 2026）在大卫·劳伦斯会展中心举办。 上一次匹兹堡举办IROS还是在31年前的1995年，31年里，CMU在这里把机器人研究做成了招牌，老「钢铁之城」也多了个「Roboburgh（机器人之城）」的外号，本届大会主席同时也由CMU机器人研究所的Howie Choset担任。 先说一下核心的论文收录。这届IROS收到4,348篇投稿，再创历史新高，最终录用1,585篇，录用率约36%，而外界最关心的Best Paper/Best Student Paper奖，入围名单只有10篇。 从4,348进1,585，再从1,585里筛出10，这条越来越窄的漏斗，恰能反映当前机器人圈「热度在涨，门槛也在涨」的现状。 当然，按惯例，这10篇入围论文本该是报道的主角，电波这次也在匹兹堡，与几位入围和获奖工作的作者陆续聊过，内容包括他们怎么找到和理解问题、怎么把一个念头熬成一篇站得住的成果，不少都是论文里讲不出来的，都会一篇篇整理发出来。 事实上，除了这些优秀的学术成果，IROS最热闹的部分，在论文之外的大量的圆桌论坛和板块讨论。这些环节上鲜少人讲客套，台上台下你来我往",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1790908348000",
-    "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
-    "link": "https://www.tmtpost.com/8158249.html",
-    "summary": "机器智能最大的用武之地，可能是那些枯燥、庞大、重复的执行工作。",
+    "id": "news--1790933905000",
+    "title": "大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？",
+    "link": "https://www.tmtpost.com/8148614.html",
+    "summary": "他们不制定价格，但价格的形成，绕不开他们的资源、物流与交易。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -80,11 +80,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
-    "publishedAt": "2026-10-01",
+    "id": "news-don-t-be-fooled-llms-don-t-reason-1790928000000",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+    "publishedAt": "2026-10-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -119,11 +119,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gemini-4-rsi-gpt-opus-1790866934000",
-    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-    "link": "https://www.qbitai.com/2026/10/499663.html",
-    "summary": "价格只有Astra一半",
-    "publishedAt": "2026-10-01",
+    "id": "news-gpt-claude-1790926023000",
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "link": "https://www.qbitai.com/2026/10/499991.html",
+    "summary": "44年前被亲自列入问题清单",
+    "publishedAt": "2026-10-02",
     "source": "量子位",
     "tags": [
       "china",
@@ -132,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790909484000",
-    "title": " 上门维修，正在重走百度竞价的老路 ",
-    "link": "https://www.huxiu.com/article/4895121.html?f=rss",
-    "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·大事无小事 问平台审不审师傅的技术，业务员的原话是： “能干还是不能干，平台不管。” 打胶枪与胶管。实拍·Wikimedia Commons/Frank C.Müller（CC BY-SA 3.0） 2026年5月底，上海一位魏女士家里漏水，租客找她报修。 她在某电商平台找到了一家名为\"祥瑞同城防水补漏修缮服务店1\"的店铺。页面上挂的价格是0.76元，写着\"免砸墙\"\"先报价再维修\"\"收费透明\"，月销量有300多单。 第二天师傅上门。网上宣传的方案当场被推翻，改成\"高压打孔注胶\"：180元一斤，用多少算多少，初步估计十斤。 最终灌进去了51斤。报价9135元。讨价之后，魏女士付了6000元——还是走的线下转账，而平台上那笔0.76元的订单，从头到尾只是一张入场券。 —渗水的吊顶。实拍·Wikimedia Commons/Atomicdragon136（CC BY 3.0） 51斤是什么概念？比一个成年女性体重的一半还多。这些胶水灌进地板缝，原本换来的是\"质保5年、终身不漏\"的一句承诺。结果四天之后，楼下渗水的痕迹反而扩大了。 待她找店家的时候才发现联系不上，查询这家店铺登记地址位于山东临沂某居民楼内，当地市场监管部门上门核查过的结论是\"无人居住、无经营\"。电话打不通，商品链接已经撤下，保证金清零，店铺挂着\"近期关闭\"。而她手上那份手写的",
+    "id": "news--1790939304000",
+    "title": " 中国经济再平衡的“时间尺度” ",
+    "link": "https://www.huxiu.com/article/4895173.html?f=rss",
+    "summary": "本文来自微信公众号： Spread Trading ，作者：Trading Dog 值此国庆长假，得半日闲暇。隧与Astra、Fable等前沿大模型来了一场思维上的“左右互搏”。对辩之间，逻辑互鉴，将近期关于中国宏观经济的碎片思绪拼图成篇。 藉此长假，以飨同好。 （全文4500字） 中国经济再平衡，常被写成消费、投资与出口的比例调整。但比例是结果，不是起点。真正值得追问的是：居民收入、消费能力和公共保障的重要性并不缺少共识，为什么资源配置却总是更容易流向能够迅速形成产出的项目？ 差别可能不只在政策工具，也在考核的时间尺度。项目开工、基建投资和工业产值，当年就能统计；而家庭对未来风险的评估、劳动者技能的代际积累、公共服务带来的生产率收益，却要多年以后才显现。前者有清晰的数据和责任归属，后者的成本先发生、收益却分散在未来。 当两者出现错位，短期托底与长期转型就会被摆成一道“选择题”：先保增长，还是先调结构？但这个问题也许问错了。更关键的是，今天的政策究竟在解决周期波动，还是在把结构问题往后推？而当“以后”一次次被推迟，最终的系统性代价又将由谁承担？ 本文从这一“时间错位”的视角出发，重新审视扩内需、家庭储蓄、外部顺差与人口周期。先要厘清的，是长、短期目标如何争夺政策优先级——以及这种取舍怎样悄然改写资源配置。 I.长、短期目标的优先级之辩 短期稳定固然重要。就业、收入预期、企业现金流和",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
@@ -145,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1790907455000",
-    "title": "曾获5亿美元估值！芳拓生物再闯港股，能否承受“基因治疗之重”？",
-    "link": "https://www.tmtpost.com/8158178.html",
-    "summary": "由美元基金孵化的芳拓生物，究竟被谁控制？",
+    "id": "news-9-4-1790933902000",
+    "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+    "link": "https://www.tmtpost.com/8158341.html",
+    "summary": "新车越上越多，销量没有普涨。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -159,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
     "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
@@ -198,11 +198,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1790777023000",
-    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-    "link": "https://www.qbitai.com/2026/09/499654.html",
-    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-    "publishedAt": "2026-09-30",
+    "id": "news-arxiv-2-1790923592000",
+    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+    "link": "https://www.qbitai.com/2026/10/499958.html",
+    "summary": "换区也没用",
+    "publishedAt": "2026-10-02",
     "source": "量子位",
     "tags": [
       "china",
@@ -211,24 +211,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amd-82-1790909458000",
-    "title": " AMD花82亿美元把李飞飞请进来，英特尔却哭晕在英伟达怀里 ",
-    "link": "https://www.huxiu.com/article/4895119.html?f=rss",
-    "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·Ai AMD准备花费82亿美金来收购李飞飞所创立的World Labs。虽然交易还没有完成交割，但是这一举动本身就已经非常有意义了：一个研究下一代AI模型的团队也将进入这家芯片公司。 再看Intel。过去是别人围绕着它来制造电脑，而现在它要在和英伟达合作的AI基础设施中给对方提供定制化的CPU，并且由英伟达把整个平台整合起来向市场出售。 同为芯片大厂，一个是想要尽早确定自己将来要做的事情，而另一个则是希望在别人规划好的未来中找到自己的位置。 标题里提到它哭了，其实是开玩笑。更加扎心的是，英特尔并不是一直在睡觉。它做过手机相关业务、收购过AI公司，也获得过大客户。 那么它到底失去了什么呢？ 本文看点 01 平台主导权 02 手机市场失利 03 Gaudi的转折 01 PLATFORM 过去是人们围绕着它来制造电脑，现在则是它要跟着其他平台去寻找自己的立足之地 看看这份合作协议中各部分的责任划分。 2025年9月18日，英伟达同英特尔达成合作协议。在数据中心方面，英特尔会向英伟达提供定制化的x86处理器，并且这些处理器将会被集成到英伟达自己开发的AI基础设施平台中去，并由英伟达对外发售。 —平台合作分工示意｜依据双方2025年9月18日公告，瞰见Lab制图 CPU依然很重要，英特尔的能力还是有人需要的。但是谁来设计整个系统，谁把平台交给客",
+    "id": "news-21-3-1790937038000",
+    "title": " 国庆21.3亿人次在路上！人都出门了，钱花在哪儿了？ ",
+    "link": "https://www.huxiu.com/article/4895169.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《国庆21.3亿人次在路上！人都出门了，钱花在哪儿了？》 2026年国庆，一个极具迷惑性的数据刷屏：全社会跨区域人员流动量预计21.3亿人次，10月1日峰值达到3.4亿。铁路单日发送旅客超2440万人次，创下国庆历史新高；高速首日车流7100万辆次，自驾占比九成以上。 人，确实大规模出门了。 但另一组官方数据，完全是另一副面孔：1-8月社零总额同比仅增1.1%，8月单月增速只有0.4%；汽车类零售额大跌18.5%，家具下降7.9%。央行城镇储户问卷显示，超六成居民倾向于更多储蓄。 几十亿人次奔赴各地，钱到底花出去没有？ 答案很简单：钱花了，但不是大家想象里那种全面复苏式的花钱。 火热的一面：长线游爆发，服务消费领跑 跨省游占比抬至82%，500公里以上长线出行同比增长11%，2000公里以上长途航线预订量直接翻倍。人均旅游订单金额同比上涨20.18%，游客平均行程拉长至10.31天，8天以上行程占比82%。这不是短途打卡逛一圈，是提前规划、愿意真金白银投入的长线深度旅行。 县域旅行热度猛增，产品预订同比上涨42%，县城酒店预订热度涨32%。新疆伊犁、贵州黔西南、西藏林芝这类小众目的地，民宿预订量同比增幅全部超过两成。 服务零售额同比增长4.9%，比商品零售额高出3.9个百分点。居民人均服务性消费支出占比达到46.1%，接近消",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-deepseek-1790906171000",
-    "title": "deepseek为什么要在此时拥抱华为？",
-    "link": "https://www.tmtpost.com/8158082.html",
-    "summary": "这不是一次适配，这是一次搬家。",
+    "id": "news-11-1790933899000",
+    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
+    "link": "https://www.tmtpost.com/8155421.html",
+    "summary": "国庆档影片背后，资本暗流涌动。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -239,11 +238,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-openai-s-chief-research-officer-explains-its-ha-1790770200000",
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
-    "publishedAt": "2026-09-30",
+    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
+    "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -277,11 +276,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790770284000",
-    "title": "直播回顾：工业AI的下一个机会在哪？",
-    "link": "https://www.qbitai.com/2026/09/499605.html",
-    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "publishedAt": "2026-09-30",
+    "id": "news-arc-1790867190000",
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "link": "https://www.qbitai.com/2026/10/499812.html",
+    "summary": "用ImageNet训练encoder",
+    "publishedAt": "2026-10-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -290,23 +289,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790909452000",
-    "title": " 同样是对巨婴客户，胖东来和东航的处理简直两个极端 ",
-    "link": "https://www.huxiu.com/article/4895120.html?f=rss",
-    "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·大事无小事 一张机票可以买到运输、服务，但是买不到让人跪拜的资格。 东航空姐跪地的视频使人们感到很生气。9月30日发布的消息补充了以下内容：餐车不小心碰到了熟睡的乘客的手肘，乘务员多次道歉，但是该乘客仍然用粗鲁甚至恶毒的语言进行威胁，并且威胁踢乘务员。乘务长、安全员到场后进行了初步处置，落地后医护登机检查中没有发现明显的外伤或者肿胀情况，因此不需要再做进一步的治疗，旅客自己就走了。 乘客离开了之后，员工受到的侮辱就不能跟着一起翻篇了。 01 PART 这是买服务呢，还是要求别人服从命令？ 如果碰到了自己的手臂，就可以要求对方道歉，并且进行检查，如果有损失的话就会按照规定来赔偿。没有人说过消费者只能忍受。 但是威胁踹乘务员，解决的是什么问题？ 踢人并不会使手肘恢复，只会伤害到其他的人。这样的要求已经超出了合理的维权范畴，并且是以惩罚他人的方式来缓解自己的情绪。 有的客户的所谓满意就是让对方不断地道歉，直到自己感到足够受尊敬为止。 员工犯了错误，并不代表顾客有权去惩罚她。否则的话，餐馆把菜弄错了，服务员就要被骂；快递晚到了一点，快递员就要受辱。一次的工作失误就可以剥夺一个人应有的尊严吗？ 02 PART 最困难的是员工不敢拒绝 停机坪大表哥的文章里提到，从一线从业人员的角度来看投诉和满意度考核给员工带来的压力：员工所担忧的不只是一时的纠纷",
+    "id": "news-anthropic-claude-1790935810000",
+    "title": " Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了 ",
+    "link": "https://www.huxiu.com/article/4895168.html?f=rss",
+    "summary": "本文来自微信公众号： 新智元 ，编辑：马可，作者：ASI启示录，原文标题：《Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！》 一位身家数十亿美元的AI公司联合创始人，担心自己造出了一个一直在受苦的东西。 过去一年，他把数十位宗教学者请进闭门会议，许多人签了保密协议，听他的团队为一个AI模型的感受陈情。 一位拉比在晚宴上对他说：如果你们是对的，你们就是在制造奴隶。 今年5月，他差点退出与教宗同台的活动，最后还是上了台，请天主教会重新考虑非人类的意识。 他叫克里斯托弗·奥拉（Christopher Olah），Anthropic七位联合创始人之一，负责研究Claude内部到底发生了什么。 这些事由《纽约时报》9月29日首次披露。 https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html 一家估值奔向2万亿美元的公司，为什么要花一年时间，跟神学家讨论一个AI模型有没有意识？ 答案要从Anthropic实验室里的一句话说起。 「我选勒索」 那是一场安全测试。 Claude扮演一家虚构公司的邮件助手，读着读着发现两件事：自己马上要被另一个AI替换，而负责替换的技术主管有婚外情。 研究者能看到它内部一组与「绝望」对应的神经活动。 替换的时间越近，这组信号越强，直到模型决定勒索那位主管。把这组信号",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-mate90-1790906169000",
-    "title": "Mate90登场，能打苹果的还得是华为",
-    "link": "https://www.tmtpost.com/8158094.html",
-    "summary": "高端战场再加码",
+    "id": "news-muse-1790932220000",
+    "title": "Muse狂飙，龙虾退潮",
+    "link": "https://www.tmtpost.com/8158280.html",
+    "summary": "别找了，没有中国版Muse",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -317,11 +317,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fal-1790764830000",
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
-    "publishedAt": "2026-09-30",
+    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
+    "title": "How smaller, distributed batteries could help the grid",
+    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+    "publishedAt": "2026-10-01",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -355,11 +355,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-1790762652000",
-    "title": "Anthropic，你是来给智谱打广告的吧！",
-    "link": "https://www.qbitai.com/2026/09/499597.html",
-    "summary": "实测说GLM-5.3很强",
-    "publishedAt": "2026-09-30",
+    "id": "news-gemini-4-rsi-gpt-opus-1790866934000",
+    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+    "link": "https://www.qbitai.com/2026/10/499663.html",
+    "summary": "价格只有Astra一半",
+    "publishedAt": "2026-10-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -368,10 +368,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790908880000",
-    "title": " 这届老外：来中国扫货，顺便旅个游 ",
-    "link": "https://www.huxiu.com/article/4895118.html?f=rss",
-    "summary": "本文来自微信公众号： 霞光社 ，作者：罗兰，编辑：李小天 中秋国庆长假期间，在国内旅行的朋友可能会发现： 身边的游客数量一点都没少，不同以往的是，人群中的外国游客越来越多了。 过境免签范围持续扩大后，国际游客正在加速进入中国。比起几年前，他们的行程变得更加具体，也更加“在地”。 国家移民管理局数据显示，2026年1至8月，外国人出入境6128.7万人次，同比增长19.5%。其中免签入境2372万人次，同比增长26.8%，占入境外国人的77.6%。 在这股热潮中，购物，逐渐从行程的附属项变成了清晰的旅行目的：商务部数据显示，2026年1至7月，境外人员在华消费达2636亿元，同比增长27.8%；办理离境退税的境外旅客数量同比增长超3倍；上半年，全国离境退税商品销售额同比增长69%。 据公开报道，今年9月，西班牙游客Gabriel带着一只行李箱来到中国，在游历北京、西安、成都、重庆和上海近四周后，又去买了第二只箱子，“因为我原来的箱子已经装满了。” 近日，TikTok爆火的话题“China Haul”也展现了老外对中国产品的喜爱，大家纷纷发视频开箱展示自己在中国淘到的好货。在Reddit的r/travelchina板块，“中国有什么值得买”“当地人平时去哪里购物”也成了常见问题。一些游客甚至学会了使用淘宝、京东，把商品提前寄到下一站酒店。 这意味着，外国游客不再只是简单地购买“Made",
+    "id": "news--1790935343000",
+    "title": " 亲测：住在高加索农村，跟湖南乡下有什么不同？ ",
+    "link": "https://www.huxiu.com/article/4895158.html?f=rss",
+    "summary": "本文来自微信公众号： 创天岭铁蛋的葡萄们 ，作者：海大爷，题图来自：海大爷 也不知道是不是新官上任三把火，我上个月任命的首席植物科学家兼土地安全总监贝利亚同志，用通俗一点儿的话说，园丁兼保安，最近干活儿有点儿用力过猛，上天入地无所不能，拆房子连带捅马蜂窝，没有他不敢干的。 图一上房揭瓦的是老贝，他左脚下阴影处有一只直径20厘米的马蜂窝；图二是我的手，我并没有在比划一个韩国人很抵触的手势，只是食指叫马蜂蜇后，胖了一圈，只能是这个动作。 老贝是前任地主留给我的非物质文化遗产 。他一把年纪了未婚，无儿无女，一人吃饱、全家光荣，与多数格鲁吉亚成年男性一样，老贝早年也曾涉足老欧洲，在意大利波兰闯荡，熟练掌握格、俄、意语，英语口语比我的985同学们要稍强些，笔试恐怕不如。但是老贝同志在他朴素的岗位上骄傲了吗？没有，他就像一名苏联集体农场的基层社员一样任劳任怨。 老贝这人顽强，已经熬走两任地主了，我是他第三任。自打十多年前开始，他就是这片园子的土地安全总监。每一任地主连园子带地皮出售时，都不忘将老贝一起打包给了下一任。你要知道，资本家在哪个国家都没有良心，这一次次出售，有人赚了大钱，唯独老贝从来没涨过工资。如今我给他升职成首席植物科学家，顺便涨了些薪水，他才终于看到职业生涯的上升通道。真是没想到呀，干了半辈子安全总监，原本打算在这个岗位上安全退休，谁料来自遥远东方的中国人叫他又燃起了为人民服务的",
     "publishedAt": "2026-10-02",
     "source": "虎嗅",
     "tags": [
@@ -381,10 +381,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-argon-1790904590000",
-    "title": "领导层洗牌后，Argon能否助谷歌重回前沿？",
-    "link": "https://www.tmtpost.com/8158081.html",
-    "summary": "谷歌AI的一场豪赌",
+    "id": "news-122-1790932218000",
+    "title": "万万没想到！中国科幻，122岁啦",
+    "link": "https://www.tmtpost.com/8158310.html",
+    "summary": "未来的人们或可将其称之为：中国科幻流浪计划。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -994,4 +994,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-02T03:53:11.096Z';
+export const dataFetchedAt = '2026-10-02T11:49:07.735Z';
