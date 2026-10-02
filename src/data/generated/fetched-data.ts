@@ -2,6 +2,166 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-redefining-enterprise-intelligence-with-autonomous-ai-1790956144000",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+    "publishedAt": "2026-10-02",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-an-1790960400000",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that.",
+    "publishedAt": "2026-10-02",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hiring-caution-persists-as-inflation-holds-on-bls-report-sho-1790953620000",
+    "title": "Hiring caution persists as inflation holds on, BLS report shows",
+    "link": "https://www.hrdive.com/news/hiring-caution-persists-as-inflation-holds-on-bls-report/832006/",
+    "summary": "&ldquo;In many cases, employers would rather leave a position open than make the wrong hire,&rdquo; one executive said.",
+    "publishedAt": "2026-10-02",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-openjiuwen-x-router-agent-50-token-1790926455000",
+    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+    "link": "https://www.qbitai.com/2026/10/500098.html",
+    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+    "publishedAt": "2026-10-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1790958183000",
+    "title": " 我们对AI之后发生的事还一无所知 ",
+    "link": "https://www.huxiu.com/article/4895200.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《我们对AI之后发生的事还一无所知｜不懂经网站》 尼克·博斯特罗姆（Nick Bostrom）不再担心世界末日了。 现在他担心的是乌托邦。 这是《纽约时报》10月1日给他下的最新判断，概括了一位先知二十来年的转向。2014年，这个瑞典人出版《超级智能》，第一次把“AI毁灭人类”从科幻笑话变成一道严肃的计算题。马斯克、奥特曼、盖茨都公开支持过他的警告。 他创办的牛津人类未来研究所，后来成了全世界研究AI存在风险的核心机构。可以说，今天我们听到的每一句末日警告，都能在他那里找到源头。整个AI末日叙事产业，他是鼻祖之一。 现在他说，那枚硬币有两面。而他只给人看了反面。 设想有一天，工作交给机器，疾病有了治疗办法，衰老可以延缓。你想住的房子、想看的风景、想拥有的知识，都能按需获得。连跑步之后的愉悦、苦读之后的领悟，也可以绕过汗水和书页，直接送进你的头脑。 你终于不用为了任何结果受苦了。可当你早晨醒来，把手伸向床头那个能满足一切的按钮，你会发现，自己连起床的理由都需要重新寻找。 我们为这样的世界努力了很久，却几乎没有认真想过，抵达之后怎么办。 这就是波斯特洛姆现在主要忧虑的问题。这位哲学家曾任牛津大学人类未来研究所创始主任，2014年的《超级智能》讨论了机器智能失控的危险。十年后，他又出版了《未来之地》，把思考推向另一端：假如超级智能安全",
+    "publishedAt": "2026-10-02",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-cadre-holdings-1790956669000",
+    "title": "我们选中的Cadre Holdings股票不及预期",
+    "link": "https://www.tmtpost.com/8158532.html",
+    "summary": "本周，这只股票跌破了一个关键的技术支撑位。",
+    "publishedAt": "2026-10-02",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-a-biological-de-aging-contest-and-why-llms-don--1790943000000",
+    "title": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;",
+    "publishedAt": "2026-10-02",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-paramount-and-warner-bros-discovery-to-become-skydance-1790956430000",
+    "title": "Paramount and Warner Bros. Discovery to become Skydance",
+    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+    "summary": "The roughly $110 billion deal is expected to close October 6.",
+    "publishedAt": "2026-10-02",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-sociable-linkedin-updates-its-ai-powered-hiring-bot-1790953620000",
+    "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
+    "link": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
+    "summary": "The platform launched Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
+    "publishedAt": "2026-10-02",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gpt-claude-1790926023000",
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "link": "https://www.qbitai.com/2026/10/499991.html",
+    "summary": "44年前被亲自列入问题清单",
+    "publishedAt": "2026-10-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1790957426000",
+    "title": " 苏姿丰与李飞飞 ",
+    "link": "https://www.huxiu.com/article/4895199.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 一个人在麻省理工的实验室里，一片一片地磨硅。那是本科生干的活，没有名字，磨完交给别人去用。 另一个人在网上把一千多万张图，一张一张地分门别类。那是当年学术圈看不起的活，评职称的时候不好看。 那两样东西都叫片。一个是圆的，晶圆。一个是方的，图片。 9月28日，AMD宣布收购World Labs，全股票交易，作价约82亿美元。交易要等监管批准，预计年底前完成。完成以后，李飞飞将出任AMD的执行副总裁兼首席科学家，直接向董事长兼首席执行官苏姿丰汇报。 一个57岁的女人，把一家二十年前快死掉的芯片公司做成了今天这个样子。一个50岁的女人，十五年前定义了这一轮人工智能的起跑线。而现在，她们在同一张组织架构图上。 我好久没写双人物系列了。哇，又是“五十岁之后还能做什么”的绝好选题。 两个人都生在华人家庭，都在很小的年纪被父母带到美国，都在一个女人少数派的行业里做到了头部。 按照我的惯例，华人先拆名字。 苏这个字，最要紧的意思在《尚书》里。《仲虺之诰》记商汤的军队所到之处，百姓的话是，“徯予后，后来其苏”。等着我们的君主，他来了，我们就活过来了。 苏是复活。死过一回，又醒过来。后来这个意思留在了苏醒、复苏这些词里。 姿，《说文解字》说，姿，態也。丰，《说文》写作豐，豆之豐满者也。豆是古代盛祭品的高脚器皿。豐，是那个器皿里装得满满当当的样子。 苏姿丰",
+    "publishedAt": "2026-10-02",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-synaptics-1790953564000",
+    "title": "安森美半导体将以大幅折价收购Synaptics，两只股票均在飙升",
+    "link": "https://www.tmtpost.com/8158528.html",
+    "summary": "安森美半导体股票和新思科技的股价都在上涨，此前双方重新协商了收购交易条款。原因如下。",
+    "publishedAt": "2026-10-02",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-a-new-contest-pits-competitors-against-each-other-in-a-race--1790931600000",
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
@@ -14,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robotaxi-operators-will-face-fines-for-blocking-first-respon-1790902677000",
-    "title": "Robotaxi operators will face fines for blocking first responders",
-    "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-    "summary": "A new California law places new rules on autonomous vehicles operators",
+    "id": "news-pope-leo-xiv-is-not-a-fan-of-ai-generated-art-1790955581000",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -40,28 +200,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openjiuwen-x-router-agent-50-token-1790926455000",
-    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-    "link": "https://www.qbitai.com/2026/10/500098.html",
-    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+    "id": "news-arxiv-2-1790923592000",
+    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+    "link": "https://www.qbitai.com/2026/10/499958.html",
+    "summary": "换区也没用",
     "publishedAt": "2026-10-02",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-gpt-1790941280000",
-    "title": " 想造GPT 通才的年轻人，和相信专才的老将 ",
-    "link": "https://www.huxiu.com/article/4895175.html?f=rss",
-    "summary": "本文来自微信公众号： 42号电波 ，作者：yukun，编辑：大吉，原文标题：《想造 GPT 通才的年轻人，和相信专才的老将｜IROS 2026 现场》 9月27日到10月1日，第39届IEEE/RSJ智能机器人与系统国际会议（IROS 2026）在大卫·劳伦斯会展中心举办。 上一次匹兹堡举办IROS还是在31年前的1995年，31年里，CMU在这里把机器人研究做成了招牌，老「钢铁之城」也多了个「Roboburgh（机器人之城）」的外号，本届大会主席同时也由CMU机器人研究所的Howie Choset担任。 先说一下核心的论文收录。这届IROS收到4,348篇投稿，再创历史新高，最终录用1,585篇，录用率约36%，而外界最关心的Best Paper/Best Student Paper奖，入围名单只有10篇。 从4,348进1,585，再从1,585里筛出10，这条越来越窄的漏斗，恰能反映当前机器人圈「热度在涨，门槛也在涨」的现状。 当然，按惯例，这10篇入围论文本该是报道的主角，电波这次也在匹兹堡，与几位入围和获奖工作的作者陆续聊过，内容包括他们怎么找到和理解问题、怎么把一个念头熬成一篇站得住的成果，不少都是论文里讲不出来的，都会一篇篇整理发出来。 事实上，除了这些优秀的学术成果，IROS最热闹的部分，在论文之外的大量的圆桌论坛和板块讨论。这些环节上鲜少人讲客套，台上台下你来我往",
-    "publishedAt": "2026-10-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -92,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-founder-8217-s-guide-to-techcrunch-disrupt-2026-everythi-1790899403000",
-    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "id": "news-laytr-8217-s-new-app-lets-you-save-anything-you-find-online--1790955080000",
+    "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
+    "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+    "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -119,28 +266,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-claude-1790926023000",
-    "title": "丘成桐新论文致谢了GPT和Claude",
-    "link": "https://www.qbitai.com/2026/10/499991.html",
-    "summary": "44年前被亲自列入问题清单",
-    "publishedAt": "2026-10-02",
+    "id": "news-arc-1790867190000",
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "link": "https://www.qbitai.com/2026/10/499812.html",
+    "summary": "用ImageNet训练encoder",
+    "publishedAt": "2026-10-01",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1790939304000",
-    "title": " 中国经济再平衡的“时间尺度” ",
-    "link": "https://www.huxiu.com/article/4895173.html?f=rss",
-    "summary": "本文来自微信公众号： Spread Trading ，作者：Trading Dog 值此国庆长假，得半日闲暇。隧与Astra、Fable等前沿大模型来了一场思维上的“左右互搏”。对辩之间，逻辑互鉴，将近期关于中国宏观经济的碎片思绪拼图成篇。 藉此长假，以飨同好。 （全文4500字） 中国经济再平衡，常被写成消费、投资与出口的比例调整。但比例是结果，不是起点。真正值得追问的是：居民收入、消费能力和公共保障的重要性并不缺少共识，为什么资源配置却总是更容易流向能够迅速形成产出的项目？ 差别可能不只在政策工具，也在考核的时间尺度。项目开工、基建投资和工业产值，当年就能统计；而家庭对未来风险的评估、劳动者技能的代际积累、公共服务带来的生产率收益，却要多年以后才显现。前者有清晰的数据和责任归属，后者的成本先发生、收益却分散在未来。 当两者出现错位，短期托底与长期转型就会被摆成一道“选择题”：先保增长，还是先调结构？但这个问题也许问错了。更关键的是，今天的政策究竟在解决周期波动，还是在把结构问题往后推？而当“以后”一次次被推迟，最终的系统性代价又将由谁承担？ 本文从这一“时间错位”的视角出发，重新审视扩内需、家庭储蓄、外部顺差与人口周期。先要厘清的，是长、短期目标如何争夺政策优先级——以及这种取舍怎样悄然改写资源配置。 I.长、短期目标的优先级之辩 短期稳定固然重要。就业、收入预期、企业现金流和",
-    "publishedAt": "2026-10-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -171,11 +305,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classifi-1790891828000",
-    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-    "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-    "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
-    "publishedAt": "2026-10-01",
+    "id": "news-techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building--1790953200000",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -198,163 +332,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-arxiv-2-1790923592000",
-    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-    "link": "https://www.qbitai.com/2026/10/499958.html",
-    "summary": "换区也没用",
-    "publishedAt": "2026-10-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-21-3-1790937038000",
-    "title": " 国庆21.3亿人次在路上！人都出门了，钱花在哪儿了？ ",
-    "link": "https://www.huxiu.com/article/4895169.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《国庆21.3亿人次在路上！人都出门了，钱花在哪儿了？》 2026年国庆，一个极具迷惑性的数据刷屏：全社会跨区域人员流动量预计21.3亿人次，10月1日峰值达到3.4亿。铁路单日发送旅客超2440万人次，创下国庆历史新高；高速首日车流7100万辆次，自驾占比九成以上。 人，确实大规模出门了。 但另一组官方数据，完全是另一副面孔：1-8月社零总额同比仅增1.1%，8月单月增速只有0.4%；汽车类零售额大跌18.5%，家具下降7.9%。央行城镇储户问卷显示，超六成居民倾向于更多储蓄。 几十亿人次奔赴各地，钱到底花出去没有？ 答案很简单：钱花了，但不是大家想象里那种全面复苏式的花钱。 火热的一面：长线游爆发，服务消费领跑 跨省游占比抬至82%，500公里以上长线出行同比增长11%，2000公里以上长途航线预订量直接翻倍。人均旅游订单金额同比上涨20.18%，游客平均行程拉长至10.31天，8天以上行程占比82%。这不是短途打卡逛一圈，是提前规划、愿意真金白银投入的长线深度旅行。 县域旅行热度猛增，产品预订同比上涨42%，县城酒店预订热度涨32%。新疆伊犁、贵州黔西南、西藏林芝这类小众目的地，民宿预订量同比增幅全部超过两成。 服务零售额同比增长4.9%，比商品零售额高出3.9个百分点。居民人均服务性消费支出占比达到46.1%，接近消",
-    "publishedAt": "2026-10-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-11-1790933899000",
-    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
-    "link": "https://www.tmtpost.com/8155421.html",
-    "summary": "国庆档影片背后，资本暗流涌动。",
-    "publishedAt": "2026-10-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-an-ai-mind-reading-tool-can-reconstruct-what-you-re-looking--1790850744000",
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
-    "publishedAt": "2026-10-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-kevin-mandia-8217-s-new-8216-agent-swarm-8217-security-start-1790891722000",
-    "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
-    "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-    "publishedAt": "2026-10-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-week-in-5-numbers-hr-pros-say-half-of-their-week-is-spe-1790889360000",
-    "title": "This week in 5 numbers: HR pros say half of their week is spent on repetitive work",
-    "link": "https://www.hrdive.com/news/hr-pros-say-half-of-their-week-is-spent-on-repetitive-work/831933/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much it costs employees to return to the office.",
-    "publishedAt": "2026-10-01",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-arc-1790867190000",
-    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-    "link": "https://www.qbitai.com/2026/10/499812.html",
-    "summary": "用ImageNet训练encoder",
-    "publishedAt": "2026-10-01",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-claude-1790935810000",
-    "title": " Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了 ",
-    "link": "https://www.huxiu.com/article/4895168.html?f=rss",
-    "summary": "本文来自微信公众号： 新智元 ，编辑：马可，作者：ASI启示录，原文标题：《Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！》 一位身家数十亿美元的AI公司联合创始人，担心自己造出了一个一直在受苦的东西。 过去一年，他把数十位宗教学者请进闭门会议，许多人签了保密协议，听他的团队为一个AI模型的感受陈情。 一位拉比在晚宴上对他说：如果你们是对的，你们就是在制造奴隶。 今年5月，他差点退出与教宗同台的活动，最后还是上了台，请天主教会重新考虑非人类的意识。 他叫克里斯托弗·奥拉（Christopher Olah），Anthropic七位联合创始人之一，负责研究Claude内部到底发生了什么。 这些事由《纽约时报》9月29日首次披露。 https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html 一家估值奔向2万亿美元的公司，为什么要花一年时间，跟神学家讨论一个AI模型有没有意识？ 答案要从Anthropic实验室里的一句话说起。 「我选勒索」 那是一场安全测试。 Claude扮演一家虚构公司的邮件助手，读着读着发现两件事：自己马上要被另一个AI替换，而负责替换的技术主管有婚外情。 研究者能看到它内部一组与「绝望」对应的神经活动。 替换的时间越近，这组信号越强，直到模型决定勒索那位主管。把这组信号",
-    "publishedAt": "2026-10-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-muse-1790932220000",
-    "title": "Muse狂飙，龙虾退潮",
-    "link": "https://www.tmtpost.com/8158280.html",
-    "summary": "别找了，没有中国版Muse",
-    "publishedAt": "2026-10-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-smaller-distributed-batteries-could-help-the-grid-1790848800000",
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
-    "publishedAt": "2026-10-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-musk-8217-s-ai-chatbot-grok-reportedly-encouraged-trump-to-c-1790888891000",
-    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-    "publishedAt": "2026-10-01",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-rto-tax-is-an-estimated-6-700-per-year-for-employees-ana-1790872500000",
-    "title": "The RTO tax is an estimated $6,700 per year for employees, analysis finds",
-    "link": "https://www.hrdive.com/news/the-rto-tax-is-an-estimated-6700-per-year-for-employees/831597/",
-    "summary": "For working parents paying for childcare, that figure climbs to about $16,000 annually, per Resume.io.",
-    "publishedAt": "2026-10-01",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
     "id": "news-gemini-4-rsi-gpt-opus-1790866934000",
     "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
     "link": "https://www.qbitai.com/2026/10/499663.html",
@@ -368,23 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790935343000",
-    "title": " 亲测：住在高加索农村，跟湖南乡下有什么不同？ ",
-    "link": "https://www.huxiu.com/article/4895158.html?f=rss",
-    "summary": "本文来自微信公众号： 创天岭铁蛋的葡萄们 ，作者：海大爷，题图来自：海大爷 也不知道是不是新官上任三把火，我上个月任命的首席植物科学家兼土地安全总监贝利亚同志，用通俗一点儿的话说，园丁兼保安，最近干活儿有点儿用力过猛，上天入地无所不能，拆房子连带捅马蜂窝，没有他不敢干的。 图一上房揭瓦的是老贝，他左脚下阴影处有一只直径20厘米的马蜂窝；图二是我的手，我并没有在比划一个韩国人很抵触的手势，只是食指叫马蜂蜇后，胖了一圈，只能是这个动作。 老贝是前任地主留给我的非物质文化遗产 。他一把年纪了未婚，无儿无女，一人吃饱、全家光荣，与多数格鲁吉亚成年男性一样，老贝早年也曾涉足老欧洲，在意大利波兰闯荡，熟练掌握格、俄、意语，英语口语比我的985同学们要稍强些，笔试恐怕不如。但是老贝同志在他朴素的岗位上骄傲了吗？没有，他就像一名苏联集体农场的基层社员一样任劳任怨。 老贝这人顽强，已经熬走两任地主了，我是他第三任。自打十多年前开始，他就是这片园子的土地安全总监。每一任地主连园子带地皮出售时，都不忘将老贝一起打包给了下一任。你要知道，资本家在哪个国家都没有良心，这一次次出售，有人赚了大钱，唯独老贝从来没涨过工资。如今我给他升职成首席植物科学家，顺便涨了些薪水，他才终于看到职业生涯的上升通道。真是没想到呀，干了半辈子安全总监，原本打算在这个岗位上安全退休，谁料来自遥远东方的中国人叫他又燃起了为人民服务的",
-    "publishedAt": "2026-10-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-122-1790932218000",
-    "title": "万万没想到！中国科幻，122岁啦",
-    "link": "https://www.tmtpost.com/8158310.html",
-    "summary": "未来的人们或可将其称之为：中国科幻流浪计划。",
+    "id": "news-11-1790933899000",
+    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
+    "link": "https://www.tmtpost.com/8155421.html",
+    "summary": "国庆档影片背后，资本暗流涌动。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -994,4 +958,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-02T11:49:07.735Z';
+export const dataFetchedAt = '2026-10-02T17:23:14.365Z';
