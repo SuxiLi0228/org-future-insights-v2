@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jack-dorsey-8217-s-bitchat-disappears-from-app-stores-in-ind-1791039721000",
-    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-    "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
@@ -55,19 +55,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791038561000",
-    "title": " 中国动画的“神话依赖症”，其实是个伪命题 ",
-    "link": "https://www.huxiu.com/article/4895303.html?f=rss",
-    "summary": "本文来自微信公众号： 动画学术趴 ，作者：学术趴编辑部 “人们虽然渴望新的故事，却也会因传统的颠覆、权威的消解和秩序的改变而感到不安。争夺对角色和故事的解释权，正是争夺自身权力的延伸。” 暑期上映的动画电影《八仙！》在各路大片夹击下杀出一条血路，经历数轮车轮战，票房一路走高，累计已突破20亿元，或将拿下今年动画电影票房冠军。 放在中国动画票房总榜看，《八仙！》已超过《熊出没·逆转时空》跻身前三。至此，中国动画票房榜前三全被神话新编题材占领，足见这一类型巨大的市场潜力。 然而，从影片上映之初，就有两种相反的声音同时提出质疑： “又是神话故事，就不能来点有新意的吗？” “又魔改传统，就不能照着原著老老实实拍一版吗？” 回顾近年上映的神话新编动画，似乎每一部都逃不开类似的审视。 一边是观众对于神话新编动画的批评，一边是神话新编动画在市场上屡创佳绩。这一相悖的现象背后，究竟隐藏着怎样的观众心理与市场逻辑？我们的神话新编动画，真的已经太多了吗？ 01 大圣归来了，就不走了 从什么时候开始，神话新编成为了国产动画电影的顶流？ 这要追溯到2015年的夏天。 十一年前的暑期档，《大圣归来》横空出世。影片围绕失去法力的孙悟空与唐僧的前世江流儿展开一段原创冒险，除开头风格化动画是“大闹天宫——被压五指山”经典情节的重现，之后的剧情都与《西游记》原著无关，连大boss混沌都是从《山海经》里抓来的。 电影",
-    "publishedAt": "2026-10-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ai-ai-1791020019000",
     "title": "AI正在造AI",
     "link": "https://www.tmtpost.com/8158706.html",
@@ -94,16 +81,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vessev-built-an-electric-ferry-that-almost-flies-1791038520000",
-    "title": "Vessev built an electric ferry that almost flies",
-    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+    "id": "news-amazon-responds-to-data-center-backlash-says-it-no-longer-us-1791053037000",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -134,19 +122,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791037623000",
-    "title": " 蔡天凤碎尸案细节曝光，千万豪宅为何引发血色纠葛 ",
-    "link": "https://www.huxiu.com/article/4895302.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 谁能想到，案发前刚在巴黎时装周亮相的香港名媛，会被前夫一家谋杀碎尸。 2023年2月21日下午，蔡天凤在大埔科进路上了前夫胞兄邝港杰驾驶的七座车，此后失联三天。 再被找到时，她已是大埔龙尾村一处出租屋里冰箱中的一双小腿以及汤锅里煮到难以辨认的人体组织。 图为庭审出庭示意图图源：TVB无线新闻 2026年9月，这起案件在香港高等法院重新开庭。 主控官、资深大律师郭莎乐在开案陈词中披露了更多细节，这是一场提前16天周密筹备的共同谋杀，监控还捕捉到嫌疑人演练行凶的画面，悲剧的根源指向一套为省下高额印花税，而挂名前夫公公的房产。 01 提前16天备下的碎尸清单 2023年2月21日，28岁的香港名媛蔡天凤突然失踪。 图为蔡天凤前夫一家四口图源：公开照片整理 同年2月24日，警方在香港大埔龙尾村的一处出租屋内发现她的遗骸，随后拘捕多名涉案人员，其中包含蔡天凤前夫邝港智及其父母、兄长。其中前婆婆李瑞香已于2025年10月因妨碍司法公正罪获刑18个月，另外三名被控谋杀的男子案件尚未宣判。 2026年9月，该案在香港高等法院继续开庭审理，控方当庭披露了大量案件细节。 据控方在开案陈词中陈述，案发前16天，邝球以其女友伍某的名义租下大埔龙尾村一间偏僻村屋。 屋内没有床，窗户全部挂了帆布。 图为2023年香港警方展示的物证图源：凤凰WEEKLY 在随后",
-    "publishedAt": "2026-10-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-1800-18-3-1791020012000",
     "title": "华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼",
     "link": "https://www.tmtpost.com/8158693.html",
@@ -173,16 +148,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-all-the-ai-agents-that-can-live-in-your-text-messages-1791036000000",
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "id": "news-openai-safety-employee-resigns-claiming-the-company-s-cultur-1791045001000",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr",
+      "organization"
     ]
   },
   {
@@ -213,19 +190,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1791036777000",
-    "title": " 长江存储IPO创纪录，武汉憋了二十年的大招 ",
-    "link": "https://www.huxiu.com/article/4895301.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 前不久长鑫存储上市，合肥国资账面浮盈超万亿，“最牛风投”的名声更响亮了。但很多人忽略了武汉。 最近长江存储科创板IPO获受理，拟募资330亿，超过长鑫科技的拟募资295亿，创下科创板拟募资规模之最。这家全球NAND闪存份额前三的公司，总部在武汉光谷。 十年前，武汉在光谷划出一片地搞存储芯片，那时候没人看好。长江存储从挖人、建厂、啃技术，一路被美国制裁，一路杀到全球前三。现在要上市了，武汉的“芯片局”终于要兑现。 事实上，武汉的芯片布局不止长江存储。从存储到光通信到显示，武汉在半导体产业链上卡了好几个关键位置。有人好奇，武汉凭什么在芯片产业上跑出来了？武汉的芯片产业版图到底有多大？ 01、武汉如何押注芯片20多年？ 很多人以为武汉搞芯片是最近十年的事，其实起点比这早得多。 2000年前后，武汉面临产业转型压力。那时候武汉的产业底子是钢铁，但钢铁是重资产、低增速的行业，城市发展需要寻找新的经济增长点。正好2000年国家出了鼓励集成电路产业发展的政策，武汉开始布局芯片产业。 但光有政策不够，武汉当时连一条像样的芯片产线都没有。搞芯片不能凭空追，得有相关的产业基础。 武汉当时拿得出手的，是光谷做了二十年的光电子产业。从1976年拉出中国第一根光纤开始，武汉在光通信领域做到全国领先，高校里有华科、武大，邮科院系出来了烽火、光迅、长飞一批企",
-    "publishedAt": "2026-10-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ai-1791011964000",
     "title": "国庆出游用AI，第一批人已经被坑惨了",
     "link": "https://www.tmtpost.com/8158647.html",
@@ -252,10 +216,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-billionaire-s-body-scan-startup-has-come-to-america-1791036000000",
-    "title": "Spotify billionaire’s body scan startup has come to America",
-    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-    "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "id": "news-jack-dorsey-8217-s-bitchat-disappears-from-app-stores-in-ind-1791039721000",
+    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
+    "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
@@ -292,20 +256,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791031961000",
-    "title": " AI正在让美债崩溃，即便最后成功也将被征收重税 ",
-    "link": "https://www.huxiu.com/article/4895297.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：乐鸣 9月24日，美国长债全线崩跌。30年期国债收益率升至5.48%，创二十年新高；10年期突破5.2%，创金融危机以来新高。长端收益率过去两个月几乎是直线拉升，财政部长贝森特两次加码回购干预，每次只换来一天的喘息，第二天就被市场打回原形。 赤字太大、油价太高、美联储重新加息——这些都是真实的背后推力，但都不是这一轮的新变量。真正让这一轮不同以往的，是需求端杀出了一个根本不问价格的对手。 AI正从市场中挤出财政部 为抢建数据中心和算力，科技巨头正以创纪录的速度发行超长期债券，而且几乎不问价格。 截至8月，五大超大规模云厂商今年的发债量已逼近2300亿美元，是去年全年的两倍还多，其中大量集中在20年、30年乃至40年期。 这些交易放在任何年份都是头条。 Meta成立不过22年，去年10月却发了一笔锁定40年的债券——等它到期的时候，扎克伯格已经80岁了。光这一笔就是300亿美元，刷新了公司债单笔发行的纪录。今年4月，Meta又追加250亿美元。 Alphabet甚至发了百年期英镑债。亚马逊3月单次融了540亿美元。甲骨文现在评级只比垃圾级高两档，自由现金流为负，但照样一笔接一笔地发债。 它们为什么不在乎利率？贝森特自己8月接受采访时都感慨，这些公司借钱根本不看利率，因为它们笃信AI的回报会高到让现在的利息不值一提。 换句话说，利率上行这个正常",
-    "publishedAt": "2026-10-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1791006445000",
     "title": "国庆开电车，车主们集体兼职“调度员”",
     "link": "https://www.tmtpost.com/8158629.html",
@@ -332,10 +282,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-wants-your-next-gadget-to-be-muse-infused-1790988339000",
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "id": "news-vessev-built-an-electric-ferry-that-almost-flies-1791038520000",
+    "title": "Vessev built an electric ferry that almost flies",
+    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
@@ -368,19 +318,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791031642000",
-    "title": " 和宇树并列“六小龙”，云深处再度亏损：人形能否复制四足打法？ ",
-    "link": "https://www.huxiu.com/article/4895296.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：胡祥熙 近日上交所官网显示，杭州云深处科技股份有限公司更新披露科创板IPO招股书，补充2026年上半年财务资料。该公司IPO于5月18日获受理，7月27日进入问询阶段，目前审核状态为已问询。 这家以四足机器人起家的具身智能企业，2025年刚刚实现扭亏，归属净利润2868.40万元，半年之后再度转亏：2026年上半年归属净利润约为负880.63万元。转亏背后，是研发费用同比增长超过140%的集中投入，投向包括人形机器人、具身大脑等前沿方向。 手握四足机器人行业应用收入全球第一的成绩单，云深处正尝试把B端打法复制到人形机器人身上，而这条路线能否走通，目前还不太明朗。 刚扭亏又转亏，钱花在了哪里？ 招股书数据显示，2023年至2025年，云深处营业收入分别为5011.26万元、1.03亿元和3.37亿元，三年复合增长率约160%，2025年同比增长约227%。 利润端，2023年和2024年公司归属净利润分别为负2585.01万元和负1328.99万元，2025年首次扭亏为盈，归属净利润2868.40万元，毛利率从33.48%提升至52.83%。 进入2026年，营收增长延续，利润却出现反复。2026年上半年，公司实现营业收入约2.59亿元，同比增长117.67%，归属净利润约为负880.63万元，扣非后净亏损1859.83万元。 根据业绩预告，2",
-    "publishedAt": "2026-10-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -998,4 +935,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-03T15:39:17.549Z';
+export const dataFetchedAt = '2026-10-03T20:33:23.927Z';
