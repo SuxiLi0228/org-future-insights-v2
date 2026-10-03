@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-wants-your-next-gadget-to-be-muse-infused-1790988339000",
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "id": "news-jack-dorsey-8217-s-bitchat-disappears-from-app-stores-in-ind-1791039721000",
+    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
+    "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
@@ -55,17 +55,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-07-o-a-1791024798000",
-    "title": " 北大07级数学系校友：O/A两家做的事，在毁掉数学系的年轻人 ",
-    "link": "https://www.huxiu.com/article/4895278.html?f=rss",
-    "summary": "本文来自微信公众号： 新智元 ，编辑：Aeneas，作者：ASI启示录 上个月，OpenAI和Anthropic开始极限内卷。这边刚宣布攻克了一个尘封百年的数学猜想，那边马上反手甩出一个破解千禧年难题的大新闻。 而社交媒体，也陷入一场流量狂欢。 作为科技媒体，我们号也跟进报道了最新进展，获得了极高的热度。然而，就在一篇《OpenAI又拿下一个千禧年难题》发出后不久，北大北京国际数学研究中心（BICMR）副教授、北大07级数学系校友李欣意，主动找到了我们，说想要聊一聊。 那个下午，我们进行了30多分钟的谈话。 对于这些硅谷大厂的做法，他的语气充满了深深的忧虑和无奈。 他对我们说起，他们的粗暴做法，是如何伤害整个数学学术共同体，又是如何毁掉那些刚刚对数学燃起热情的年轻人的。 结果，仿佛是某种历史的默契，就在我们结束这场深谈的第二天，陶哲轩在内的25位菲奖得主，就联名发出了公开信，主旨与我们的谈话如出一辙。 以下，是我们对这场对谈的深度还原。 难题是用来探索的， 不是给硅谷公司「刷榜」的奖杯 普通人或许以为，顶级的猜想和难题就是最终Boss，现在AI一秒钟打倒了Boss，所以AI赢了。 但在真正的数学研究者眼里，这种逻辑荒谬且致命。 「解决这些猜想，其实只是一些奖杯。这些奖杯现在被AI拿到了，对数学界来说并不见得是件好事。」 李欣意表示，在数学界，之所以要一代代人前赴后继地去攻克一个难题",
+    "id": "news--1791038561000",
+    "title": " 中国动画的“神话依赖症”，其实是个伪命题 ",
+    "link": "https://www.huxiu.com/article/4895303.html?f=rss",
+    "summary": "本文来自微信公众号： 动画学术趴 ，作者：学术趴编辑部 “人们虽然渴望新的故事，却也会因传统的颠覆、权威的消解和秩序的改变而感到不安。争夺对角色和故事的解释权，正是争夺自身权力的延伸。” 暑期上映的动画电影《八仙！》在各路大片夹击下杀出一条血路，经历数轮车轮战，票房一路走高，累计已突破20亿元，或将拿下今年动画电影票房冠军。 放在中国动画票房总榜看，《八仙！》已超过《熊出没·逆转时空》跻身前三。至此，中国动画票房榜前三全被神话新编题材占领，足见这一类型巨大的市场潜力。 然而，从影片上映之初，就有两种相反的声音同时提出质疑： “又是神话故事，就不能来点有新意的吗？” “又魔改传统，就不能照着原著老老实实拍一版吗？” 回顾近年上映的神话新编动画，似乎每一部都逃不开类似的审视。 一边是观众对于神话新编动画的批评，一边是神话新编动画在市场上屡创佳绩。这一相悖的现象背后，究竟隐藏着怎样的观众心理与市场逻辑？我们的神话新编动画，真的已经太多了吗？ 01 大圣归来了，就不走了 从什么时候开始，神话新编成为了国产动画电影的顶流？ 这要追溯到2015年的夏天。 十一年前的暑期档，《大圣归来》横空出世。影片围绕失去法力的孙悟空与唐僧的前世江流儿展开一段原创冒险，除开头风格化动画是“大闹天宫——被压五指山”经典情节的重现，之后的剧情都与《西游记》原著无关，连大boss混沌都是从《山海经》里抓来的。 电影",
     "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -95,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sanders-introduces-bill-to-ban-the-federal-government-from-u-1790986917000",
-    "title": "Sanders introduces bill to ban the federal government from using Flock",
-    "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-    "summary": "The proposed legislation would extend to all automotica license plate readers.",
+    "id": "news-vessev-built-an-electric-ferry-that-almost-flies-1791038520000",
+    "title": "Vessev built an electric ferry that almost flies",
+    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
@@ -135,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791023289000",
-    "title": " 对华下“最后通牒”？欧洲的底气够不够硬 ",
-    "link": "https://www.huxiu.com/article/4895277.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 欧盟的\"十月最后通牒\"，表面上是底气，骨子里是焦虑。三层筹码叠在一起看着唬人，但每一层都有明显的裂缝。欧洲不是不想搞经济，是搞不动——所以把中国当成了止痛药。 一张PPT泄露天机：欧盟的\"底气\"从哪来 2026年9月28日，欧洲新闻台爆出一条消息：欧盟正在对华施压，要求北京接受对中国出口商品设置配额。如果10月中旬前谈不拢，欧盟将考虑通过限制进口、调整配额与关税等手段\"对中国关闭市场\"。 这是\"最后通牒\"措辞的首次出现。 紧接着9月30日，路透社又曝出更猛的消息：德国和法国正在敲定一份联合文件，推动欧委会加快开发新贸易工具——一个是仿照美国《1974年贸易法》301条的\"欧版301条款\"，另一个是改革现有的\"反胁迫工具\"（ACI），把启动门槛大幅降低。 这份文件，恰好在10月15日欧盟峰会前\"基本定稿\"。 时间点卡得如此精准，与其说是谈判策略，不如说是谈判桌外加码。 但问题来了：欧盟凭什么？它的底气，到底够不够硬？ 拆开看，其实是三层东西叠在一起：账面上的焦虑、手里的工具箱、以及内部政治的需要。 第一层底气：逆差数字确实刺眼 欧盟最大的筹码，就是那个让人睡不着觉的数字。 2025年，欧盟对华货物贸易逆差达到3598亿欧元，同比扩大约15%。2026年上半年，这个数字又扩大了9%。冯德莱恩反复念叨的那句话——\"每天近10亿欧元\"——虽然",
+    "id": "news--1791037623000",
+    "title": " 蔡天凤碎尸案细节曝光，千万豪宅为何引发血色纠葛 ",
+    "link": "https://www.huxiu.com/article/4895302.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 谁能想到，案发前刚在巴黎时装周亮相的香港名媛，会被前夫一家谋杀碎尸。 2023年2月21日下午，蔡天凤在大埔科进路上了前夫胞兄邝港杰驾驶的七座车，此后失联三天。 再被找到时，她已是大埔龙尾村一处出租屋里冰箱中的一双小腿以及汤锅里煮到难以辨认的人体组织。 图为庭审出庭示意图图源：TVB无线新闻 2026年9月，这起案件在香港高等法院重新开庭。 主控官、资深大律师郭莎乐在开案陈词中披露了更多细节，这是一场提前16天周密筹备的共同谋杀，监控还捕捉到嫌疑人演练行凶的画面，悲剧的根源指向一套为省下高额印花税，而挂名前夫公公的房产。 01 提前16天备下的碎尸清单 2023年2月21日，28岁的香港名媛蔡天凤突然失踪。 图为蔡天凤前夫一家四口图源：公开照片整理 同年2月24日，警方在香港大埔龙尾村的一处出租屋内发现她的遗骸，随后拘捕多名涉案人员，其中包含蔡天凤前夫邝港智及其父母、兄长。其中前婆婆李瑞香已于2025年10月因妨碍司法公正罪获刑18个月，另外三名被控谋杀的男子案件尚未宣判。 2026年9月，该案在香港高等法院继续开庭审理，控方当庭披露了大量案件细节。 据控方在开案陈词中陈述，案发前16天，邝球以其女友伍某的名义租下大埔龙尾村一间偏僻村屋。 屋内没有床，窗户全部挂了帆布。 图为2023年香港警方展示的物证图源：凤凰WEEKLY 在随后",
     "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
@@ -174,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sean-parker-is-rebuilding-stability-ai-around-music-1790975354000",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "publishedAt": "2026-10-02",
+    "id": "news-all-the-ai-agents-that-can-live-in-your-text-messages-1791036000000",
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791023092000",
-    "title": " 中网赞助商的更迭，比《甄嬛传》还好看 ",
-    "link": "https://www.huxiu.com/article/4895276.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：姚笛 一份赞助商名单，藏着中国消费二十年的变化。 今年6月底，中国网球公开赛做了一件以前从没做过的事：把全球推介会搬到了温布尔登。 在这个网球圣地，中网宣布，从2026年起，汇丰集团成为它的首席赞助商。汇丰的英文新闻稿用的头衔是Presenting Partner。 老球迷听到这个消息，可能会愣一下。将近二十年来，站在钻石球场上以“首席赞助商”身份致辞的，一直是北京奔驰。直到2025年中网开幕式，北京奔驰的高管还站在台上。 一年之后，换人了。 换一个赞助商，看起来只是一条商业新闻。但把中网二十年的赞助商名单排在一起看，它很像一张心电图：哪个行业进来了，哪个行业离开了，哪一年突然缩水，哪一年又冲上新高，都能和中国这二十年的消费、资本变化对上。 第20届中网本周正式开打。在聊比赛之前，我们先把这份名单读一遍。 汇丰成为中网首席赞助商｜微博@中网ChinaOpen 起点：10家赞助商，不到4000万 2004年，第一届中网在北京南三环的光彩体育馆举办。那时候网球在中国还是小众运动。能容纳1.5万人、带可开合屋顶的钻石球场，要到2011年才建成。 那一年，中网只有10家赞助商，赞助收入不到4000万元。 到2017年，这个数字变成了42家赞助商和合作伙伴，赞助收入接近2亿元。 2004年和2017年赞助商数量、赞助收入对比 撑起这段增长的，是一批“长情”",
+    "id": "news-ipo-1791036777000",
+    "title": " 长江存储IPO创纪录，武汉憋了二十年的大招 ",
+    "link": "https://www.huxiu.com/article/4895301.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 前不久长鑫存储上市，合肥国资账面浮盈超万亿，“最牛风投”的名声更响亮了。但很多人忽略了武汉。 最近长江存储科创板IPO获受理，拟募资330亿，超过长鑫科技的拟募资295亿，创下科创板拟募资规模之最。这家全球NAND闪存份额前三的公司，总部在武汉光谷。 十年前，武汉在光谷划出一片地搞存储芯片，那时候没人看好。长江存储从挖人、建厂、啃技术，一路被美国制裁，一路杀到全球前三。现在要上市了，武汉的“芯片局”终于要兑现。 事实上，武汉的芯片布局不止长江存储。从存储到光通信到显示，武汉在半导体产业链上卡了好几个关键位置。有人好奇，武汉凭什么在芯片产业上跑出来了？武汉的芯片产业版图到底有多大？ 01、武汉如何押注芯片20多年？ 很多人以为武汉搞芯片是最近十年的事，其实起点比这早得多。 2000年前后，武汉面临产业转型压力。那时候武汉的产业底子是钢铁，但钢铁是重资产、低增速的行业，城市发展需要寻找新的经济增长点。正好2000年国家出了鼓励集成电路产业发展的政策，武汉开始布局芯片产业。 但光有政策不够，武汉当时连一条像样的芯片产线都没有。搞芯片不能凭空追，得有相关的产业基础。 武汉当时拿得出手的，是光谷做了二十年的光电子产业。从1976年拉出中国第一根光纤开始，武汉在光通信领域做到全国领先，高校里有华科、武大，邮科院系出来了烽火、光迅、长飞一批企",
     "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
@@ -253,11 +252,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-affected-by-layoffs-don-8217-t-miss-this-75-deal-for-your-te-1790968551000",
-    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "publishedAt": "2026-10-02",
+    "id": "news-spotify-billionaire-s-body-scan-startup-has-come-to-america-1791036000000",
+    "title": "Spotify billionaire’s body scan startup has come to America",
+    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -293,16 +292,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791022108000",
-    "title": " 外科医生突发心梗，麻醉科妻子救回来了 ",
-    "link": "https://www.huxiu.com/article/4895274.html?f=rss",
-    "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：服务医者改善医疗 前段时间，河南省人民医院医生侯艳华的丈夫在家中突发心梗。没有设备、没有药物，她凭一双手和多年积累的急救经验，硬是把丈夫从死亡线上拉了回来。 医生也会突发心梗，而且可能毫无征兆。 一位年富力强的外科医生，体检指标几乎年年正常，几天前还在800米跑中赢了即将中考的儿子。然而就在前段时间，他在家中突发心梗，心脏骤停。 幸运的是，当晚在他身边的也是一名医生——河南省人民医院麻醉与围术期医学科副主任医师、他的妻子侯艳华。 没有设备、没有药物，她徒手按压近五分钟，在救护车赶到前恢复了丈夫的心跳和意识。 数据显示，我国院外心脏骤停存活率仅约1%，侯艳华做到了那“1%”。 今年3月14日，她在美国心脏协会（AHA）大中华区年度大会上被授予AHA“拯救心脏之星”称号，她的丈夫则以“心脏骤停获救者”身份受邀参会。 以下是侯艳华的自述。 “也许他只是累了” 那天是一个很平常的周一晚上。我和先生恰好都没有夜班，我在卧室整理衣物，他在客厅看书，儿子临近中考，正在房间复习功课。一家人各做各的事，安安静静。 大约晚上9点50分，先生突然冲进卧室，对我说“胸口很不舒服”。 我看他面色不好，赶紧扶他躺下。家里备有急救药，本来是给老人准备的，没想到先用上的是他。含服之后，他的状态似乎有所好转。 我心里稍微松了一口气。先生的身体一贯很好，每年体检除了血",
+    "id": "news-ai-1791031961000",
+    "title": " AI正在让美债崩溃，即便最后成功也将被征收重税 ",
+    "link": "https://www.huxiu.com/article/4895297.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：乐鸣 9月24日，美国长债全线崩跌。30年期国债收益率升至5.48%，创二十年新高；10年期突破5.2%，创金融危机以来新高。长端收益率过去两个月几乎是直线拉升，财政部长贝森特两次加码回购干预，每次只换来一天的喘息，第二天就被市场打回原形。 赤字太大、油价太高、美联储重新加息——这些都是真实的背后推力，但都不是这一轮的新变量。真正让这一轮不同以往的，是需求端杀出了一个根本不问价格的对手。 AI正从市场中挤出财政部 为抢建数据中心和算力，科技巨头正以创纪录的速度发行超长期债券，而且几乎不问价格。 截至8月，五大超大规模云厂商今年的发债量已逼近2300亿美元，是去年全年的两倍还多，其中大量集中在20年、30年乃至40年期。 这些交易放在任何年份都是头条。 Meta成立不过22年，去年10月却发了一笔锁定40年的债券——等它到期的时候，扎克伯格已经80岁了。光这一笔就是300亿美元，刷新了公司债单笔发行的纪录。今年4月，Meta又追加250亿美元。 Alphabet甚至发了百年期英镑债。亚马逊3月单次融了540亿美元。甲骨文现在评级只比垃圾级高两档，自由现金流为负，但照样一笔接一笔地发债。 它们为什么不在乎利率？贝森特自己8月接受采访时都感慨，这些公司借钱根本不看利率，因为它们笃信AI的回报会高到让现在的利息不值一提。 换句话说，利率上行这个正常",
     "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -332,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-says-it-8217-s-tightening-macos-8216-full-disk-access--1790964687000",
-    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-    "publishedAt": "2026-10-02",
+    "id": "news-meta-wants-your-next-gadget-to-be-muse-infused-1790988339000",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -372,17 +372,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-11-1791019501000",
-    "title": " 美俄在联合国闭门删掉了AI武器的“人类刹车”，11月将迎关键一役 ",
-    "link": "https://www.huxiu.com/article/4895271.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 日内瓦一间联合国会议室里，摄像机突然被关掉了。 2026年8月31日至9月5日，《特定常规武器公约》（CCW）政府专家组会议在这里举行，128个国家参与，讨论致命自主武器系统（LAWS）的定义与管控规则。谈判持续了整整六天，但在最后一天——9月5日——画风突变：谈判转入闭门状态，联合国现场摄像机关闭，民间社会观察员被清出场外。 接下来约15个小时里，美俄双方各调集约10名律师参与文本修改，人数几乎是其他代表团的两倍。修改速度之快，小国代表团根本跟不上。 补充说明：本次修改仅针对谈判草案文本，并非修改现行生效的国际法，草案本身暂不具备法律约束力。 他们删掉了什么？三条核心条款： 要求自主武器系统以“可预测”和“可靠”方式运行； 使用AI武器时须考虑伦理因素； 最关键的一条：发动打击前，由人类审查AI系统确定的军事目标——即“人在回路”原则。 第三条被删，等于抽掉了AI武器最重要的安全底线。过去，机器可以帮忙找目标，但扣扳机前必须由人确认；现在，这条约束从这份谈判草案里被抹去了。 不是“投票”，是文本修改——这才是最危险的地方 需要澄清一个细节：这不是一次正式的“投票”。 CCW框架实行协商一致原则——只要有一国反对，就无法启动正式条约谈判。所以这不是“多数票通过删除”，而是美俄利用协商一致机制，在文本修改阶段直接把安全条款抹掉了。 换句",
+    "id": "news--1791031642000",
+    "title": " 和宇树并列“六小龙”，云深处再度亏损：人形能否复制四足打法？ ",
+    "link": "https://www.huxiu.com/article/4895296.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：胡祥熙 近日上交所官网显示，杭州云深处科技股份有限公司更新披露科创板IPO招股书，补充2026年上半年财务资料。该公司IPO于5月18日获受理，7月27日进入问询阶段，目前审核状态为已问询。 这家以四足机器人起家的具身智能企业，2025年刚刚实现扭亏，归属净利润2868.40万元，半年之后再度转亏：2026年上半年归属净利润约为负880.63万元。转亏背后，是研发费用同比增长超过140%的集中投入，投向包括人形机器人、具身大脑等前沿方向。 手握四足机器人行业应用收入全球第一的成绩单，云深处正尝试把B端打法复制到人形机器人身上，而这条路线能否走通，目前还不太明朗。 刚扭亏又转亏，钱花在了哪里？ 招股书数据显示，2023年至2025年，云深处营业收入分别为5011.26万元、1.03亿元和3.37亿元，三年复合增长率约160%，2025年同比增长约227%。 利润端，2023年和2024年公司归属净利润分别为负2585.01万元和负1328.99万元，2025年首次扭亏为盈，归属净利润2868.40万元，毛利率从33.48%提升至52.83%。 进入2026年，营收增长延续，利润却出现反复。2026年上半年，公司实现营业收入约2.59亿元，同比增长117.67%，归属净利润约为负880.63万元，扣非后净亏损1859.83万元。 根据业绩预告，2",
     "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -999,4 +998,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-03T11:02:45.017Z';
+export const dataFetchedAt = '2026-10-03T15:39:17.549Z';
