@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sean-parker-is-rebuilding-stability-ai-around-music-1790975354000",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "publishedAt": "2026-10-02",
+    "id": "news-meta-wants-your-next-gadget-to-be-muse-infused-1790988339000",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -55,24 +55,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790966459000",
-    "title": " 美军走了，波斯湾空了：中东的“后美国时代”来得比想象中更快 ",
-    "link": "https://www.huxiu.com/article/4895202.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 9月30日，伊拉克总理扎伊迪宣布了一件事：美国主导的打击“伊斯兰国”国际联盟部队，正式结束在伊拉克的任务。同一天，美国国防部也发了声明，措辞更具体——国际联盟部队及装备“从埃尔比勒空军基地有序撤离”。 同一天，伊朗伊斯兰革命卫队发言人穆赫比说了一句话：“波斯湾已无美军舰船。”美军舰船已撤至距波斯湾入口至少500公里外。 美军在伊拉克驻扎了二十三年。波斯湾是美国海军第五舰队的传统辖区。现在，第五舰队的作战部长已经公开表示，海军人员“不会很快回到巴林”。 一个时代正在画上句号。 “石油换安全”的账，算不过来了 要理解这件事的分量，得先看一组更早的数据。 根据《华盛顿邮报》的报道，美军从波斯湾撤出的力量，可能重新部署到沙特西部红海沿岸、约旦和以色列境内。与此同时，美国军方和情报官员已经开始讨论在中东地区削减驻军和关闭基地的可能性。 为什么会走到这一步？ 答案藏在伊朗的导弹里。今年美伊冲突期间，伊朗的导弹和无人机摧毁了美国在利雅得的一个CIA前哨站，并打击了巴林、卡塔尔、沙特和科威特的军事设施。美国官员承认：“这些漏洞一直存在，但美国从未紧迫地采取行动。” 沙特早就察觉到了一些东西。2019年伊朗轰炸沙特阿美石油设施，美国没有做出实质回应。那时沙特就意识到了一件事：美国的安全承诺，是有条件的，而且条件越来越苛刻。卡内基中东中心的分析文章指出，",
-    "publishedAt": "2026-10-02",
+    "id": "news-ai-1700-1790998072000",
+    "title": " 刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观 ",
+    "link": "https://www.huxiu.com/article/4895240.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观》 过去，视频通话常被当成确认身份的一道保险。文字可以代写，声音可以合成，但让对方打开摄像头，聊几句、看表情，似乎总能多一分把握。 如今，连这份眼见为实的笃定也开始受到挑战。 最近，AI研究团队Tavus发布实时视频交互模型Griffin，并公布了一项实验结果。在与其研究预览版Griffin-Lite进行一分钟视频通话后，54名参与者中有26人认为，屏幕另一端坐着一个真人，占比约为48%。 ▲截至发稿前，近1736万网友围观 作为对照，Tavus上一代系统在相同实验流程下，只有41人中的1人被当成真人，比例为2.4%。 Tavus据此宣称，Griffin是首个通过实时「视频图灵测试」的模型，并将其归入一个新类别Human Interaction Model，简称HIM，即人类交互模型。 不过，「首次通过」目前仍是Tavus对实验结果的定义，同时由于尚未全面开放预览，不排除存在画饼Demo的嫌疑，而要具体理解这次发布，需要同时看清三个问题，参与者如何被说服，模型如何完成互动，以及一分钟的表现究竟能证明多少。 让人相信的细节，藏在说话之外 与AI聊天时，最容易让人出戏的瞬间，未必是答案有多离谱，有时只是它太不会接话。 你停下来组织语言，它立刻抢着回答；你讲了",
+    "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1790933905000",
-    "title": "大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？",
-    "link": "https://www.tmtpost.com/8148614.html",
-    "summary": "他们不制定价格，但价格的形成，绕不开他们的资源、物流与交易。",
-    "publishedAt": "2026-10-02",
+    "id": "news--1790991752000",
+    "title": "苏姿丰抬头，李飞飞低头",
+    "link": "https://www.tmtpost.com/8158564.html",
+    "summary": "AMD 买下的，是一个没被定义的市场。",
+    "publishedAt": "2026-10-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,11 +95,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-affected-by-layoffs-don-8217-t-miss-this-75-deal-for-your-te-1790968551000",
-    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "publishedAt": "2026-10-02",
+    "id": "news-sanders-introduces-bill-to-ban-the-federal-government-from-u-1790986917000",
+    "title": "Sanders introduces bill to ban the federal government from using Flock",
+    "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+    "summary": "The proposed legislation would extend to all automotica license plate readers.",
+    "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1790958183000",
-    "title": " 我们对AI之后发生的事还一无所知 ",
-    "link": "https://www.huxiu.com/article/4895200.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《我们对AI之后发生的事还一无所知｜不懂经网站》 尼克·博斯特罗姆（Nick Bostrom）不再担心世界末日了。 现在他担心的是乌托邦。 这是《纽约时报》10月1日给他下的最新判断，概括了一位先知二十来年的转向。2014年，这个瑞典人出版《超级智能》，第一次把“AI毁灭人类”从科幻笑话变成一道严肃的计算题。马斯克、奥特曼、盖茨都公开支持过他的警告。 他创办的牛津人类未来研究所，后来成了全世界研究AI存在风险的核心机构。可以说，今天我们听到的每一句末日警告，都能在他那里找到源头。整个AI末日叙事产业，他是鼻祖之一。 现在他说，那枚硬币有两面。而他只给人看了反面。 设想有一天，工作交给机器，疾病有了治疗办法，衰老可以延缓。你想住的房子、想看的风景、想拥有的知识，都能按需获得。连跑步之后的愉悦、苦读之后的领悟，也可以绕过汗水和书页，直接送进你的头脑。 你终于不用为了任何结果受苦了。可当你早晨醒来，把手伸向床头那个能满足一切的按钮，你会发现，自己连起床的理由都需要重新寻找。 我们为这样的世界努力了很久，却几乎没有认真想过，抵达之后怎么办。 这就是波斯特洛姆现在主要忧虑的问题。这位哲学家曾任牛津大学人类未来研究所创始主任，2014年的《超级智能》讨论了机器智能失控的危险。十年后，他又出版了《未来之地》，把思考推向另一端：假如超级智能安全",
-    "publishedAt": "2026-10-02",
+    "id": "news-agent-agent-1790997985000",
+    "title": " Agent 时代，最重要的新对象，可能不是Agent ",
+    "link": "https://www.huxiu.com/article/4895239.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《Agent 时代，最重要的新对象，可能不是 Agent》 当模型、工具和执行者都可以被替换，系统里真正该被长期管理的，到底是什么？ -- 上一篇文章讨论过一件事：当AI开始替人行动，未来的界面就不该只剩一个聊天框。目标、权限、状态、例外、证据，都要有地方被看见。参见前文当AI开始替你行动，界面开始不再像界面 但这次往下挖，问题变了。 它不再是“未来UI应该有哪些组件”，而是：当一个Agent长期替人行动时，系统究竟在管理什么？ 想象这样一个委托： 未来五年，保证这个网站持续可用。 小问题你自己修；涉及数据风险时停止并上报；超过一万元的支出，需要我批准；每一次重大变更，都留下可追溯的记录。 五年里，模型会升级，工具会更换，某个Agent可能下线，任务会在人类和不同Agent之间交接。 那么，到底是谁还在“负责”？ 显然不是某个具体Agent。它只是此刻的执行者。 也不是某个Task。它只是一个阶段性的任务单元。 真正持续存在的，是那份尚未完成的委托：它规定了目标、权限、预算、边界、升级路径、证据要求，以及最后谁该为结果负责。 这可能是理解Agent时代最关键的一次视角转换： Agent不是未来系统里最稳定的对象。 真正稳定的，是一份可以被执行、交接、验证、暂停、撤销和追责的委托。 暂且把它叫作：Mandate。 一、",
+    "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -148,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-4-1790933902000",
-    "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
-    "link": "https://www.tmtpost.com/8158341.html",
-    "summary": "新车越上越多，销量没有普涨。",
-    "publishedAt": "2026-10-02",
+    "id": "news--1790991530000",
+    "title": "大模型一体机，开始缩水了",
+    "link": "https://www.tmtpost.com/8158443.html",
+    "summary": "大模型一体机市场，劈成了两半。",
+    "publishedAt": "2026-10-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-says-it-8217-s-tightening-macos-8216-full-disk-access--1790964687000",
-    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "id": "news-sean-parker-is-rebuilding-stability-ai-around-music-1790975354000",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -214,11 +215,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1790957426000",
-    "title": " 苏姿丰与李飞飞 ",
-    "link": "https://www.huxiu.com/article/4895199.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 一个人在麻省理工的实验室里，一片一片地磨硅。那是本科生干的活，没有名字，磨完交给别人去用。 另一个人在网上把一千多万张图，一张一张地分门别类。那是当年学术圈看不起的活，评职称的时候不好看。 那两样东西都叫片。一个是圆的，晶圆。一个是方的，图片。 9月28日，AMD宣布收购World Labs，全股票交易，作价约82亿美元。交易要等监管批准，预计年底前完成。完成以后，李飞飞将出任AMD的执行副总裁兼首席科学家，直接向董事长兼首席执行官苏姿丰汇报。 一个57岁的女人，把一家二十年前快死掉的芯片公司做成了今天这个样子。一个50岁的女人，十五年前定义了这一轮人工智能的起跑线。而现在，她们在同一张组织架构图上。 我好久没写双人物系列了。哇，又是“五十岁之后还能做什么”的绝好选题。 两个人都生在华人家庭，都在很小的年纪被父母带到美国，都在一个女人少数派的行业里做到了头部。 按照我的惯例，华人先拆名字。 苏这个字，最要紧的意思在《尚书》里。《仲虺之诰》记商汤的军队所到之处，百姓的话是，“徯予后，后来其苏”。等着我们的君主，他来了，我们就活过来了。 苏是复活。死过一回，又醒过来。后来这个意思留在了苏醒、复苏这些词里。 姿，《说文解字》说，姿，態也。丰，《说文》写作豐，豆之豐满者也。豆是古代盛祭品的高脚器皿。豐，是那个器皿里装得满满当当的样子。 苏姿丰",
-    "publishedAt": "2026-10-02",
+    "id": "news--1790995040000",
+    "title": " 你信了多年的那句“古训”，其实连三年都不到 ",
+    "link": "https://www.huxiu.com/article/4895235.html?f=rss",
+    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 父爱则母静，母静则子安，子安则家和，家和万事兴。 父懒则母苦，母苦则子惧，子惧则家衰，家衰毁三代。 这32个字，你肯定见过。短视频里、朋友圈里、公众号标题里，铺天盖地。配图要么是书法卷轴，要么是古建筑门楦，一股子千年传承的味道。 但要告诉你一件事—— 2023年6月之前，整个中文互联网上，这32个字一条记录都搜不到。 不是流传了千年。是连三年都没满。 01一句“古训”的出生证明 做了件较真的事：翻遍了能找到的古籍数据库，从《四库全书》到《全唐诗》，从《颜氏家训》到《朱子家训》，从《温公家范》到《袁氏世范》。 结果？没有。连“母静”这个组合，在整部古典文献中都找不到踪迹。 传统家训里的父亲，角色定位是训导者，不是“爱者”。《颜氏家训》讲“父兄之教，不先子弟之率”——教化在前，慈爱在后。古人对父职的理解，核心词是“严”和“教”，不是“爱”和“静”。 那“家和万事兴”呢？这段倒是真有出处。最早见于元代南戏《杀狗记》，写的是“家和万事成”；到晚清《二十年目睹之怪现状》，才定型为“家和万事兴”。六个字，走了六百年。 可“父爱则母静”往前接的那一整条链呢？对不起，古人没写过。 有人说出自《道德经》。老子写的是“天之道，不争而善胜”，没写过什么父爱母静。有人说莫言说的。莫言本人已经公开辟谣多次了。 这事儿吧，说出来有点扎心：对“老祖宗的",
+    "publishedAt": "2026-10-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -227,11 +228,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1790933899000",
-    "title": "11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？",
-    "link": "https://www.tmtpost.com/8155421.html",
-    "summary": "国庆档影片背后，资本暗流涌动。",
-    "publishedAt": "2026-10-02",
+    "id": "news-edge-ai-daily-10-3-1790991002000",
+    "title": "Edge AI Daily 早报（10月3日）",
+    "link": "https://www.tmtpost.com/8158562.html",
+    "summary": "洛克希德将F-35核心算法交予OpenAI，军事AI关键转折；白宫签署AI自愿承诺但出现拼写错误，治理实效受质疑；谷歌高管呼吁集体意志而非行业自律。欧盟拒绝柴油禁令，能源安全与盟友信任挂钩；纽约实施退订新规填补联邦空白。AWS警告数据中心禁令将输掉AI竞赛并宣布10亿投资。东芝扩产HDD应对AI需求。Stability AI转型音乐AI获版权方投资。泰国750亿补贴光伏，中国组件出口受益。",
+    "publishedAt": "2026-10-03",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -253,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-it-8217-s-not-ai-anymore-it-8217-s-super-intelligence-accord-1790963296000",
-    "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "id": "news-affected-by-layoffs-don-8217-t-miss-this-75-deal-for-your-te-1790968551000",
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -293,10 +294,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-1790932220000",
-    "title": "Muse狂飙，龙虾退潮",
-    "link": "https://www.tmtpost.com/8158280.html",
-    "summary": "别找了，没有中国版Muse",
+    "id": "news-50-1790994884000",
+    "title": " 广汽接手一汽丰田50%股权背后：一汽“退而不出”，“南北丰田”重新分工 ",
+    "link": "https://www.huxiu.com/article/4895231.html?f=rss",
+    "summary": "本文来自微信公众号： NBD汽车 ，作者：每经记者 9月28日晚间，随着广汽集团披露重大资产重组预案，一汽丰田的股权变动尘埃落地。 根据预案，广汽集团拟通过发行股份方式，购买中国第一汽车股份有限公司（以下简称一汽股份）持有的一汽丰田汽车有限公司（以下简称FTMC）50%股权。交易完成后，FTMC的股权结构变为：广汽集团持有50%股权，丰田汽车体系持有其余50%股权，一汽股份退出。 消息一出，关于“一汽退出一汽丰田”的说法甚嚣尘上。事实上，这个“换股方案”背后的一汽丰田汽车销售有限公司（以下简称FTMS）的股权结构并没有改变。FTMS股权结构信息显示，一汽股份持股38%、丰田汽车公司持股32%、FTMC持股30%。这意味着，一汽股份虽然不再持有FTMC的股权，但并未完全退出一汽丰田体系，它仍通过FTMS持有38%的股份，与其销售端保持着直接的股权联系。 从目前来看，“南北丰田”两家合资公司在销售端仍保持独立。随着资本层面的打通，“南北丰田”在渠道、售后调配上的空间正在被打开。一位一汽丰田经销商售后人员向《每日经济新闻》记者透露：“目前一汽丰田的4S店可以为广汽丰田旗下车型做售后维修、保养等服务。” 1 “南北丰田”重新分工 一汽股份仍持有FTMS 38%的股份，勾勒出广汽丰田与一汽丰田之间更清晰的分工格局。 从经营范围看，此次广汽集团拟收购的FTMC负责整车生产，而FTMS是独立法人",
+    "publishedAt": "2026-10-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-cadre-holdings-1790956669000",
+    "title": "我们选中的Cadre Holdings股票不及预期",
+    "link": "https://www.tmtpost.com/8158532.html",
+    "summary": "本周，这只股票跌破了一个关键的技术支撑位。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -319,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building--1790962325000",
-    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "id": "news-apple-says-it-8217-s-tightening-macos-8216-full-disk-access--1790964687000",
+    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
     "publishedAt": "2026-10-02",
     "source": "TechCrunch",
     "tags": [
@@ -359,10 +373,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-122-1790932218000",
-    "title": "万万没想到！中国科幻，122岁啦",
-    "link": "https://www.tmtpost.com/8158310.html",
-    "summary": "未来的人们或可将其称之为：中国科幻流浪计划。",
+    "id": "news-ai-1790993700000",
+    "title": " 国庆出游用AI，第一批人已经被坑惨了 ",
+    "link": "https://www.huxiu.com/article/4895221.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，作者：李梦冉、王汉星、雷晶、王璐、陈丹，编辑：雷晶，头图来自：AI生成 国庆长假进入第三天，景区门口排起长队，高铁站、网红街区又一次被挤满，不少人趁着这几天出门旅游。 出门前，总绕不开做攻略。先要打开社交平台，收藏几篇&ldquo;本地人吐血整理&rdquo;&ldquo;三天两夜不绕路&rdquo;&ldquo;看这一篇就够了&rdquo;的帖子，再把景点、餐厅和酒店一个个放到地图上，比较距离、价格和评价。还要确认哪家店营业、景区几点开门、节假日要不要预约。往往是攻略还没做完，出行的兴奋劲已经消耗了大半。 这两年，越来越多人把这件事交给了AI。一开始，大家用的多是豆包、DeepSeek这类通用大模型：输入出发时间、酒店位置和想去的地方，它很快就能排好路线，把每天几点出门、在哪吃饭都写清楚。后来，携程、同程、飞猪等旅游平台也推出了自己的AI旅行助手，查景点、比酒店、订票，都能在一个对话框里完成。 工具越来越多，AI做的攻略也越来越像样，人自然越来越放心。但一到人挤人的长假，问题就暴露出来了：AI能快速整理公开信息，却不知道节假日的人流和路况，算不准天气，也不清楚哪家店还没开门。它更不会根据你的体力、情绪和临时状况，调整后面的安排。 我们和五位在这个中秋、国庆假期里用AI做过攻略的人聊了聊。他们都不是第一次用AI做攻略，手里的攻略做得很细，但坑也踩",
+    "publishedAt": "2026-10-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-synaptics-1790953564000",
+    "title": "安森美半导体将以大幅折价收购Synaptics，两只股票均在飙升",
+    "link": "https://www.tmtpost.com/8158528.html",
+    "summary": "安森美半导体股票和新思科技的股价都在上涨，此前双方重新协商了收购交易条款。原因如下。",
     "publishedAt": "2026-10-02",
     "source": "钛媒体",
     "tags": [
@@ -972,4 +1000,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-02T21:46:42.326Z';
+export const dataFetchedAt = '2026-10-03T03:38:05.119Z';
