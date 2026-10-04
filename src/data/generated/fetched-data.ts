@@ -15,11 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
-    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-    "publishedAt": "2026-10-03",
+    "id": "news-techcrunch-mobility-reining-in-robotaxis-1791129900000",
+    "title": "TechCrunch Mobility: Reining in robotaxis",
+    "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -55,30 +55,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791113678000",
-    "title": " 深扒《敦煌英雄》上映背后：热门电影如何成为伪私募的招牌？ ",
-    "link": "https://www.huxiu.com/article/4895363.html?f=rss",
-    "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 《敦煌英雄》终于上映了。这部由曹盾执导、马伯庸编剧、据称耗资三亿的大片，在历经撤档、改名等诸多变故后，时隔三年终于在院线播出。 放在三年前，随便拎出哪一点，《敦煌英雄》都是具爆款相的大制作：有通晓历史的鬼才编剧、有擅拍大场面的著名导演，又有大唐、敦煌等这些极富史诗感的叙事背景和一众名演员加盟。 然而电影本身质量不佳、本届观众对“宏大”的逆反，使得电影上映数天票房不到两千万、预计票房仅三千多万。它的话题并未在影迷、历史迷中发酵，反倒因涉及华文映像爆雷旧案而引起讨论。 曾经频繁出现在《你好，李焕英》《流浪地球2》等爆款影片联合出品名单中的华文映像，其依托影视招牌搭建的私募网络，在2025年10月开始崩塌，留下了百亿兑付缺口与大量仍在追款的投资人。目前，案件仍在侦查阶段。 谈及此事，许多投资人高呼，要把电影投资高风险重新写在脑门上。这让本来融资就难的电影行业又多了一条不良记录。 但更应追问的是：华文映像作为联合出品方之一，是如何将电影收益权益层层包装，并成功说服摸不到门道的个人投资者的？曾经承诺的高回报，是否从一开始就是一场骗局？ 越来越多的“联合出品”， 头部大片为何出让小额份额？ 常看电影的观众都会发现，现在的电影联合出品名单，其特征就是长长长长长长。七到八个联合出品方几乎是常规操作，在头部大制作电影中，联合出品方多达十几家也",
+    "id": "news--1791130029000",
+    "title": " 弄清中国的投资问题|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4895394.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《弄清中国的投资问题 || 大视野》 当下的中国经济，更需投资拉动还是消费拉动？ 9月19日举行的清华五道口首席经济学家论坛，专家学者各抒己见，一时成为舆论热点。 在弄清中国的消费数据、弄清中国的就业数据后，这篇文章希望弄清中国的投资问题。 从政府规划看投资与消费 如何认识投资与消费？我重看了“十五五”规划纲要，觉得很清楚。 首先，“十五五”时期的目标之一，是居民消费率明显提高，内需拉动经济增长主动力作用持续增强，为此要“坚持惠民生和促消费、投资于物和投资于人紧密结合”“促进消费和投资、供给和需求良性互动”。 显然，投资和消费都重要，应该良性互动，对居民消费有着更明确的要求。 其次，纲要专门辟出一章讲“构建现代化基础设施体系”，显示出对基础设施的高度重视。四个重点是：完善现代化综合交通运输体系，加力建设新型能源基础设施，加快建设现代化水网，适度超前建设新型基础设施（如全国一体化算力网、卫星物联网、信息通信网络、数据基础设施、低空基础设施）。 与此同时，纲要也提出“坚持适度超前、不过度超前”“提升安全韧性和运营可持续性”，对建设力度和运营可持续性提出了要求。 最后，纲要对消费和投资都作了具体部署。 在“大力提振消费”方面，纲要提出，深入实施提振消费专项行动，增强居民消费能力，改善消费意愿，适应不同群体消费需求扩大优质供给，促进",
     "publishedAt": "2026-10-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology"
-    ]
-  },
-  {
-    "id": "news-ai-ai-1791103122000",
-    "title": "当AI开始制造AI",
-    "link": "https://www.tmtpost.com/8158979.html",
-    "summary": "当AI开始参与制造下一代AI，研发成果可能反过来加快研发，递归自我改进成为巨头争夺的新方向。但更快未必更好，谁定义进步，谁守住安全边界？企业害怕落后的理由，也不能替代我们对这场加速是否值得的独立判断。",
-    "publishedAt": "2026-10-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
     ]
   },
   {
@@ -94,17 +80,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-responds-to-data-center-backlash-says-it-no-longer-us-1791053037000",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "publishedAt": "2026-10-03",
+    "id": "news-trump-unveils-his-new-super-intelligence-force-1791126910000",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -135,29 +120,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791113125000",
-    "title": " 特朗普押注巴西右翼，巴西会“疏华亲美”吗？ ",
-    "link": "https://www.huxiu.com/article/4895367.html?f=rss",
-    "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《特朗普押注巴西右翼，巴西会“疏华亲美”吗？｜IPP编译》 导语：10月4日，巴西将举行总统大选首轮投票。现任温和左翼总统卢拉将第七次竞逐总统之职，其主要竞争对手弗拉维奥·博索纳罗则是巴西右翼政治力量的重要代表。最新多项民调显示，卢拉在首轮保持小幅领先，但双方竞争依然胶着。如首轮无人获得超过半数有效票，得票最高的两名候选人将于10月25日进入第二轮角逐。 近年来，阿根廷、智利、玻利维亚、秘鲁等国右翼政治力量上升，特朗普政府借机强化西半球的战略优先地位。与此同时，中国则通过贸易、投资、基础设施和资源合作扩大在拉美的经济影响。有分析指出，作为拉美最大经济体和全球重要的粮食、能源及关键矿产供应国，巴西此次大选的结果，或将在未来几年牵动中美在西半球的战略博弈。 目前在外交政策上，两位主要候选人的主张存在明显差异。卢拉强调战略自主，此前还曾就关税争端和司法主权问题与特朗普公开交锋。弗拉维奥则延续其父、前总统雅伊尔·博索纳罗的政治路线，主张加强美巴安全与经贸关系；对华则更强调经贸务实，减少关键技术等领域的合作。特朗普政府此前曾围绕关税及雅伊尔·博索纳罗案件持续向巴西政府。而博索纳罗家族也长期与特朗普阵营保持密切联系。若弗拉维奥当选，巴西是否将因此走上“疏华亲美”的道路？ 10月2日，国际知名学者、哥伦比亚大学欧洲研究所所长亚当·图",
+    "id": "news-ai-1791130000000",
+    "title": " AI 创造了更多价值，谁有资格把它变成收入？ ",
+    "link": "https://www.huxiu.com/article/4895393.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 AI漫剧行业里，最近有一个很反直觉的现象，制作成本确实降了。 按照最朴素的商业直觉，这应该是一场利润革命。 成本从三万元降到三千元，省下来的两万七，难道不应该留在创作者手里吗？ 现实却恰恰相反。许多全职投入AI漫剧的团队发现：效率提高了，账反而更难算了。内容供给猛增，竞争更激烈，投流竞价更高，原本省下来的制作成本，迅速被塞回流量采购里，甚至还要额外倒贴。 内容越便宜，买到一次观看的成本反而越贵。 于是，一群使用了最新生产工具的人，最后成了更高效的“平台打工者”。 这不是AI漫剧独有的故事。 AI Coding、AI搜索、AI音乐、AI陪伴、企业Agent，乃至未来大多数“AI改造行业”的叙事，都可能碰到同一个问题： AI降低了生产成本，但它并不会自动提高生产者的收入。 我们过去讨论AI，常常在讨论能力：模型够不够强，成本会降多少，哪些工种会被替代，版权应该怎么赔，AI税要不要收。 但这些问题的背后，还有一个更根本的问题： 当AI让生产率大幅提升，谁有资格对这部分新增生产率提出索取？ 这才是AI时代真正的分配问题。 不是“蛋糕怎么切”。 而是：谁拥有坐上餐桌的资格。 一、AI生产率剩余，并不是一个天然存在的钱袋子 很多人对AI的想象，是这样的： 效率提升了，社会多生产出一百元价值；原本成本里的五十元被省下来了；那么接下来，只要讨",
     "publishedAt": "2026-10-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-rsi-startlux-startlux-decision-38-31-jev-1791102723000",
-    "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
-    "link": "https://www.tmtpost.com/8158976.html",
-    "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。",
-    "publishedAt": "2026-10-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
       "technology",
-      "business",
       "ai"
     ]
   },
@@ -174,18 +146,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-safety-employee-resigns-claiming-the-company-s-cultur-1791045001000",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -216,35 +186,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791104808000",
-    "title": " 美国零售商，正在争夺“专业客户” ",
-    "link": "https://www.huxiu.com/article/4895361.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 清晨六点多，美国郊区的Home Depot门店已经开始忙起来。 比周末家庭消费者更早出现的，是另一批人：装修承包商、水管工、电工、物业维修人员、小型建筑队老板…… 他们带着项目清单进店，直奔木材、五金、管件、电动工具和涂料区。有人在Pro Desk前询价，有人等叉车把材料装上皮卡，也有人用企业账户下单，把采购记录同步进自己的项目账单。 在美国零售行业，这类客户通常被称为Pro客户。 围绕Pro客户，一场新的渠道竞争正在展开。Home Depot和Lowe’s从门店打到专业分销网络，Amazon Business和Walmart Business把企业采购搬到线上，Best Buy、B&amp;H、Grainger、Ferguson等公司也在不同品类里经营自己的专业客户。 它们争夺的不是一次订单，而是专业客户的采购习惯、项目预算和长期账户关系。 01 被重新定义的“专业客户” 理解美国Pro市场，Home Depot和Lowe’s是最好的入口。 这两家零售商都以家居建材零售起家，门店一边面向普通家庭消费者，一边服务装修、维修和建筑相关的专业采购者。区别在于，普通消费者的购买往往是偶发的，比如搬家、修补花园、翻新厨房、换一盏灯；Pro客户的购买则来自一个个项目，只要项目继续，采购就会持续发生。 在家居建材行业，P",
-    "publishedAt": "2026-10-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news--1791102174000",
-    "title": "人山人海，为何没换来盆满钵满？",
-    "link": "https://www.tmtpost.com/8158922.html",
-    "summary": "经济压力没有把大家留在家里，它只是让越来越多人在出门之前，先打开了计算器。",
-    "publishedAt": "2026-10-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
     "id": "news-don-t-be-fooled-llms-don-t-reason-1790928000000",
     "title": "Don’t be fooled—LLMs don’t reason",
     "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
@@ -257,16 +198,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jack-dorsey-8217-s-bitchat-disappears-from-app-stores-in-ind-1791039721000",
-    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-    "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+    "id": "news-amazon-responds-to-data-center-backlash-says-it-no-longer-us-1791053037000",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -297,33 +239,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791103836000",
-    "title": " 莫迪带领印度崛起，没有韬光养晦，反而提前开香槟？ ",
-    "link": "https://www.huxiu.com/article/4895358.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：饶金山、毛雅欣 在一国迈向世界大国的历程中，如何处理实力积累与地位宣示之间的关系，往往决定了其崛起姿态的面貌。 改革开放后，中国采取“韬光养晦，有所作为”的外交方针，集中精力发展经济，不卷入地缘政治竞争，也不愿意过度标榜自身实力。美国在20世纪初也试图置身于欧洲战争之外，伍德罗·威尔逊的“十四点原则”在国会中鲜有支持。 相比之下，21世纪以来，尤其是莫迪治下的印度显得志得意满，在各方面实力尚未成熟之前，就开始追求超乎其既有水平的超额影响力。 在崛起历程中，中美两国都优先考虑自身发展，同时避免过早表现全球存在感。20世纪末21世纪初，中国其实已具备可观的规模优势。在当时的市场导向型发展经济体中，鲜有国家能与中国在市场体量、劳动力规模和社会组织度等方面相媲美。到2001年中国加入世界贸易组织时，规模效应内生的巨大潜力已经吸引大量跨国资本。 尽管如此，在美国霸权主导单极秩序的背景下，中国为避免被视为潜在威胁和未来对手，而招致不必要的战略压力，面对纷繁复杂的国际局势往往选择“闷声发大财”，以此将外部干扰降至最低，为发展经济、招商引资营造良好外部环境。 19世纪和20世纪初美国也经历过类似处境。美国得益于地理位置的屏障，将主要精力投入大陆整合、工业化和国内市场建设，甚至为了避免过早卷入欧洲大国竞争而开始追捧“门罗主义”战略。 与中美不同的是，印度在崛起",
-    "publishedAt": "2026-10-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791085827000",
-    "title": "无人机已经是优等生，机器人为什么还要载人",
-    "link": "https://www.tmtpost.com/8158866.html",
-    "summary": "机器人终究没有放过欢乐谷，很多人看到了关羽骑着机器牛马招摇过市，只不过，这速度还没我奶奶遛弯快？",
-    "publishedAt": "2026-10-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
     "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
@@ -336,16 +251,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vessev-built-an-electric-ferry-that-almost-flies-1791038520000",
-    "title": "Vessev built an electric ferry that almost flies",
-    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+    "id": "news-openai-safety-employee-resigns-claiming-the-company-s-cultur-1791045001000",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr",
+      "organization"
     ]
   },
   {
@@ -373,33 +290,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1791103330000",
-    "title": " 张家齐嘲讽的“孝”，一百年前就有人骂了 ",
-    "link": "https://www.huxiu.com/article/4895356.html?f=rss",
-    "summary": "本文来自微信公众号： 孔72 ，作者：孔72 从9月开始，一个退役不到一年的奥运冠军，因为一档综艺，单日连出七条热搜。 她说的话很朴素： “我不能说是爸妈养大的孩子，我是队里养大的孩子。” “你一直在要求我……对我来说一样是废话。” “已经过去了，晚了。” “我不和解，但我会赡养。” 然后，全网送了她个称号：当代哪吒。 1 这个问题，之前也有人讨论过，就为“孝”这事吵翻了天。 吴虞，四川人，1872年生。 1917年2月，他在《新青年》上发了篇文章，标题《家族制度为专制主义之根据论》。 他说翻遍儒家经典，得出一个结论：孝这个字，是专制政治的根。 原话是，“儒家以孝弟二字为二千年来专制政治与家族制度联结之根干”。翻译成大白话： 你以为是父母在管你？是皇帝借父母的手，在管你。 他说这套东西的目的，就是把中国弄成一个： “制造顺民的大工厂”。 吴虞为什么这么恨孝？因为他也和张家齐一样，是受害者。跟亲爹闹翻、分家、决裂，闹得满城风雨，四川的乡党骂他是“名教罪人”，把他从教育界赶了出去。 胡适后来给他的文集写序，送了他一顶帽子，“四川省只手打孔家店的老英雄”。 2 1919年11月，鲁迅在《新青年》上写了篇《我们现在怎样做父亲》。文章中说“父子之间没有什么恩”。 中国的老规矩，是“长者本位”，权利思想很重，义务思想却很轻。以为只要“父兮生我”，这孩子整个人就归你了，就该为你牺牲。 这哪是爱，",
-    "publishedAt": "2026-10-04",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-muse-1791083978000",
-    "title": "中国等不来Muse",
-    "link": "https://www.tmtpost.com/8158821.html",
-    "summary": "三个小循环，整合不出一个大循环",
-    "publishedAt": "2026-10-04",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
     ]
   }
 ];
@@ -1002,4 +892,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-04T11:45:16.374Z';
+export const dataFetchedAt = '2026-10-04T16:23:37.343Z';

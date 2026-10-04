@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-05-auto",
+    "date": "2026-10-05",
+    "session": "auto",
+    "title": "2026-10-05 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-05-auto-1",
+        "emoji": "💡",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+        "detail": "来源: MIT Technology Review。Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+      },
+      {
+        "id": "sig-2026-10-05-auto-2",
+        "emoji": "💡",
+        "title": "TechCrunch Mobility: Reining in robotaxis",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "detail": "来源: TechCrunch。Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/"
+      },
+      {
+        "id": "sig-2026-10-05-auto-3",
+        "emoji": "💡",
+        "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
+        "summary": "The university called the agency&rsquo;s requests &ldquo;virtually boundless&rdquo; and said it has already provided more than 9,000 pages of responsive information, according to a court document.",
+        "detail": "来源: HR Dive。The university called the agency&rsquo;s requests &ldquo;virtually boundless&rdquo; and said it has already provided more than 9,000 pages of responsive information, according to a court document.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/"
+      },
+      {
+        "id": "sig-2026-10-05-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：One Basis to Animate Them All: Gaussian Blendshape Distillat...",
+        "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ",
+        "detail": "作者: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev。3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.02207v1"
+      },
+      {
+        "id": "sig-2026-10-05-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-05-1",
+        "priority": "low",
+        "action": "关注「Redefining enterprise intelligence with 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-05-2",
+        "priority": "low",
+        "action": "关注「TechCrunch Mobility: Reining in robotaxi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-05-3",
+        "priority": "low",
+        "action": "关注「EEOC sues Harvard to obtain hundreds of 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-05-4",
+        "priority": "medium",
+        "action": "关注「研究速递：One Basis to Animate Them All: Gaus」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-05-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 53,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-05 生成，聚合了 22 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-10-05 00:00 - 2026-10-05 23:59"
+  },
+  {
     "id": "report-2026-10-04-auto",
     "date": "2026-10-04",
     "session": "auto",
