@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-mobility-reining-in-robotaxis-1791129900000",
-    "title": "TechCrunch Mobility: Reining in robotaxis",
-    "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "id": "news-google-froze-its-open-source-bug-bounty-program-due-to-a-821-1791145867000",
+    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
     "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
@@ -68,6 +68,20 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-ai-1791121810000",
+    "title": "AI社交出海，中国团队又开始“整活”了",
+    "link": "https://www.tmtpost.com/8158954.html",
+    "summary": "国庆长假，试试不一样的AI陪伴",
+    "publishedAt": "2026-10-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-a-biological-de-aging-contest-and-why-llms-don--1790943000000",
     "title": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
     "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
@@ -80,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-unveils-his-new-super-intelligence-force-1791126910000",
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "id": "news-can-super-intelligence-and-a-non-binding-safety-pact-solve-a-1791144514000",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
     "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
@@ -134,6 +148,20 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-anthropic-ai-1791121747000",
+    "title": "Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？",
+    "link": "https://www.tmtpost.com/8158986.html",
+    "summary": "Anthropic精心谋划的顶层伦理战略布局",
+    "publishedAt": "2026-10-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-a-new-contest-pits-competitors-against-each-other-in-a-race--1790931600000",
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
@@ -146,11 +174,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
-    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-    "publishedAt": "2026-10-03",
+    "id": "news-techcrunch-mobility-reining-in-robotaxis-1791129900000",
+    "title": "TechCrunch Mobility: Reining in robotaxis",
+    "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -186,6 +214,20 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-ai-ai-1791103122000",
+    "title": "当AI开始制造AI",
+    "link": "https://www.tmtpost.com/8158979.html",
+    "summary": "当AI开始参与制造下一代AI，研发成果可能反过来加快研发，递归自我改进成为巨头争夺的新方向。但更快未必更好，谁定义进步，谁守住安全边界？企业害怕落后的理由，也不能替代我们对这场加速是否值得的独立判断。",
+    "publishedAt": "2026-10-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-don-t-be-fooled-llms-don-t-reason-1790928000000",
     "title": "Don’t be fooled—LLMs don’t reason",
     "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
@@ -198,17 +240,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-responds-to-data-center-backlash-says-it-no-longer-us-1791053037000",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "publishedAt": "2026-10-03",
+    "id": "news-trump-unveils-his-new-super-intelligence-force-1791126910000",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "publishedAt": "2026-10-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -239,6 +280,20 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-rsi-startlux-startlux-decision-38-31-jev-1791102720000",
+    "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
+    "link": "https://www.tmtpost.com/8158976.html",
+    "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。",
+    "publishedAt": "2026-10-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
@@ -251,18 +306,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-safety-employee-resigns-claiming-the-company-s-cultur-1791045001000",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
     "publishedAt": "2026-10-03",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -290,6 +343,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news--1791102174000",
+    "title": "人山人海，为何没换来盆满钵满？",
+    "link": "https://www.tmtpost.com/8158922.html",
+    "summary": "经济压力没有把大家留在家里，它只是让越来越多人在出门之前，先打开了计算器。",
+    "publishedAt": "2026-10-04",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
     ]
   }
 ];
@@ -892,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-04T16:23:37.343Z';
+export const dataFetchedAt = '2026-10-04T20:49:52.427Z';
