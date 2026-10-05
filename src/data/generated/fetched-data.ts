@@ -2,16 +2,94 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-redefining-enterprise-intelligence-with-autonomous-ai-1790956144000",
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
-    "publishedAt": "2026-10-02",
+    "id": "news-the-download-ai-s-popularity-paradox-and-emtech-future-2026-1791202200000",
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
+    "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-can-safeworld-convince-people-that-genai-robots-won-8217-t-h-1791201600000",
+    "title": "Can Safeworld convince people that GenAI robots won&#8217;t hurt them?",
+    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "publishedAt": "2026-10-05",
+    "source": "TechCrunch",
+    "tags": [
       "technology",
-      "organization"
+      "startup",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-the-future-of-workforce-wellbeing-strategies-enterprise-empl-1791190800000",
+    "title": "The future of workforce wellbeing: Strategies enterprise employers are prioritizing in 2026",
+    "link": "https://www.hrdive.com/spons/the-future-of-workforce-wellbeing-strategies-enterprise-employers-are-prio/831724/",
+    "summary": "What do employees want most from their employer? New data reveals the answer.",
+    "publishedAt": "2026-10-05",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1791196621000",
+    "title": "刚刚，诺贝尔奖颁给光遗传学！",
+    "link": "https://www.qbitai.com/2026/10/501720.html",
+    "summary": "从绿藻里的光开关，到控制神经元",
+    "publishedAt": "2026-10-05",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791202032000",
+    "title": " 揭秘医学诺奖得主：有人开过咖啡馆，有人写过书 ",
+    "link": "https://www.huxiu.com/article/4895459.html?f=rss",
+    "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 3位诺奖得主经历了完全不同的人生，但他们最终在同一个终点汇合：让光成为理解生命、探索治疗的一件工具。 大学毕业后，Georg Nagel没有选择攻读博士。他先去了瑞士教书，又和朋友在德国康斯坦茨市中心合开了一家名叫CaféChaos的咖啡馆——直译过来，叫作“混沌咖啡馆”。 这段经历，后来被他写进了自传。今天，这位曾经的咖啡馆老板，又多了一个新的身份：诺贝尔奖得主。 10月5日，2026年诺贝尔生理学或医学奖揭晓，授予美国科学家Karl Deisseroth，德国科学家Peter Hegemann和Georg Nagel，以表彰他们“有关光门控离子通道和光遗传学的发现”。 这是一项让科学家用光研究神经细胞的技术，它背后的贡献者，呈现出了几段颇不相同的人生经历：一位曾停下升学脚步，去开咖啡馆；一位从小想写作，后来却当了精神科医生；还有一位，用多年时间追问着一个看似微小的问题——衣藻为什么会朝着光游？ 先开咖啡馆，再回实验室 1953年，Nagel出生于德国南部，是家中五个孩子中的长子。5岁时，Nagel患上了严重的骨骼炎症，接受了多次手术。兄弟姐妹外出滑雪时，Nagel就在家中摆弄科学实验套装，由此培养起了对科学的兴趣。 Georg Nagel，图片来源：邵逸夫奖官网 高中毕业后，Nagel进入康斯坦茨大学，取得了生",
+    "publishedAt": "2026-10-05",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791194926000",
+    "title": "这个国庆，第一批机器人员工已经上岗",
+    "link": "https://www.tmtpost.com/8159586.html",
+    "summary": "具身机器人集体入职。",
+    "publishedAt": "2026-10-05",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-people-really-hate-ai-so-why-can-t-they-get-enough-1791187200000",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "publishedAt": "2026-10-05",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
     ]
   },
   {
@@ -42,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-28-openai-opus-1791168646000",
-    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-    "link": "https://www.qbitai.com/2026/10/501700.html",
-    "summary": "有改进就体验，没改进就重置，横竖不亏。",
+    "id": "news-hinton-rsi-1791175372000",
+    "title": "刚刚，Hinton发了首篇RSI论文",
+    "link": "https://www.qbitai.com/2026/10/501705.html",
+    "summary": "AI已经开始真正进入「造下一代AI」的流水线",
     "publishedAt": "2026-10-05",
     "source": "量子位",
     "tags": [
@@ -55,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791171097000",
-    "title": " 百万网约车司机，在国庆旅游旺季里等待奇迹 ",
-    "link": "https://www.huxiu.com/article/4895419.html?f=rss",
-    "summary": "本文来自微信公众号： 温度纪 ，作者：温度纪，编辑：路子甲 国庆出门，旅行攻略中相当重要的一项，就是要研究好怎么在往返景点之间打车。 旅游大旺季，人在暴晒又拥挤的景区出入口打车永远是件难事，手机上显示的路线始终红色拥堵。游客们不断提升加价，从快车一路叫到专车、豪华车，也叫不来一公里外的网约车。 与此同时，同一座城市中的网约车司机，也苦于几个小时都等不来一个优质订单推送。 十一到来之前，不少司机都对节假日有所期待。 过去几年，网约车司机见过补贴大战的狂热，也经历过客少单少的季节化平淡。尤其在这个网约车司机明显饱和的时代，大家都憋着一口气等旺季、等假期、等客流爆发。 汹涌的游客，带来暴涨的出行需求，也能把持续走低的日常收入拉回正规，百万网约车司机都在等年度的旺季奇迹。 中秋的预热过去，十一已经来临。经过几天的奔波后网约车司机才开始明白，热闹终归是城市的，疲惫才是自己的。 打不到车的游客， 和等不到乘客的司机 国庆第二天，体力透支的陈丹，已经在成都的大熊猫基地门口路边站了50分钟。手机上的打车软件换了好几个，排队数字从“前方78人”跳到“司机预计42分钟后到达”。 她加了几次价始终没什么明显变化，旁边几组游客也在同一个位置等着叫车，有人干脆不等直接改去挤景区直通车，留下一起等网约车的人彼此相对而立，焦灼又沉默。 最初陈丹不愿意为了3公里的路程加价，但随着等待时间的加长，她发现哪怕价格翻倍",
+    "id": "news--1791201990000",
+    "title": " 诺贝尔奖表彰的光遗传学，究竟是什么？ ",
+    "link": "https://www.huxiu.com/article/4895458.html?f=rss",
+    "summary": "本文来自微信公众号： 医学界 ，作者：科学·专业·善良 这项技术为神经科学开启了一个新的时代。 10月5日，2026年诺贝尔生理学或医学奖授予美国科学家Karl Deisseroth、德国科学家Peter Hegemann和Georg Nagel，以表彰他们“有关光门控离子通道和光遗传学的发现”。 光遗传学是一种用光来控制特定细胞活动的技术。它让科学家第一次能够在活体大脑中，精确地打开或关闭某一类神经细胞，从而直接检验这些细胞与记忆、情绪和行为之间的因果关系。评审委员会认为，这项技术为神经科学开启了一个新的时代。 光遗传学是什么？ 成年人的大脑约有900亿个神经细胞，不同类型的细胞相互交错，功能各异。想要弄清某一类细胞的作用，最直接的办法是单独改变它的活动，再观察动物的行为是否随之变化。 但在很长一段时间里，这是一道难题。常用的电刺激无法区分细胞类型——电极附近的所有细胞都会同时被激活；药物虽然可以针对某一类细胞，但起效需要数分钟甚至更久，远远跟不上以毫秒计的神经信号。 正因如此，科学家长期只能观察到某个脑区在某种行为发生时变得活跃，却无法证明是其中哪一类细胞引起了这种行为。 光遗传学改变了这一困境。它的名称概括了两个要素：“遗传”决定哪些细胞被选中，“光”决定这些细胞何时被激活。 要理解它，先要知道神经细胞如何工作。细胞膜上分布着许多离子通道，如同一扇扇门：门关着，细胞保持安静；",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791161808000",
-    "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
-    "link": "https://www.tmtpost.com/8158686.html",
-    "summary": "算力进入“资产时代”：它有了估值公式，有了残值曲线，也开始有了自己的融资渠道。",
+    "id": "news-a-1791192995000",
+    "title": "纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资",
+    "link": "https://www.tmtpost.com/8159517.html",
+    "summary": "AI硬件扎堆赴港募资，港股承压破发率超七成。",
     "publishedAt": "2026-10-05",
     "source": "钛媒体",
     "tags": [
@@ -82,15 +160,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-biological-de-aging-contest-and-why-llms-don--1790943000000",
-    "title": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;",
-    "publishedAt": "2026-10-02",
+    "id": "news-emtech-future-2026-when-ai-meets-everything-1791172800000",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -121,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791094342000",
-    "title": "AI算力硬合作，马斯克还是更相信中国制造",
-    "link": "https://www.qbitai.com/2026/10/501605.html",
-    "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-    "publishedAt": "2026-10-04",
+    "id": "news-28-openai-opus-1791168646000",
+    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+    "link": "https://www.qbitai.com/2026/10/501700.html",
+    "summary": "有改进就体验，没改进就重置，横竖不亏。",
+    "publishedAt": "2026-10-05",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791169872000",
-    "title": " 量贩零食连锁鬼秤风波：奶茶加盟潮落幕，新一轮加盟轮回正在上演 ",
-    "link": "https://www.huxiu.com/article/4895416.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 最近多地市场监管部门集中出手，整治量贩零食店“鬼秤”乱象。赵一鸣、好想来等多家门店接连被曝光，散装零食称重暗藏猫腻，缺斤短两。 很多人走进门店，看着琳琅满目的零食、诱人的低价标签，很难理解：主打性价比的连锁品牌，为什么会在一杆秤上面铤而走险？ 想要看懂这场风波，不能简单归咎于个别门店老板贪心。这背后，是继网红奶茶店之后，加盟连锁模式又一轮轰轰烈烈的扩张轮回。 它为什么能突然火起来？ 短短几年，量贩零食连锁从南方县城起步，迅速铺满全国大街小巷。赵一鸣、零食很忙、好想来遍地开花。 核心不是零食有多好吃，而是踩中了消费、供应链、加盟扩张三重红利。 消费端，大众消费心态悄然转变。大家不再愿意为品牌广告、华丽包装支付溢价，转向追求质价比。散装称重模式，降低试错门槛，很适合日常闲逛消费。尤其在下沉市场，传统商超定价偏高，量贩零食街边小店，刚好补上县域、乡镇的零食消费缺口。 供应链层面，它砍掉多层经销商。传统零食流通链路：工厂→省级经销商→市级经销商→小店，层层加价。量贩零食直接工厂集采，走中心仓直达门店。 门店的盈利套路很清晰：可口可乐这类大牌标品，几乎零利润低价引流，营造全场都很便宜的印象；真正赚钱的，是大量没有品牌背书的散装代工零食，这部分商品贡献门店绝大多数利润。 最关键的助推器，是加盟飞轮。 头部品牌几乎全部采用加盟模式，直营门店极少。品",
+    "id": "news--1791199528000",
+    "title": " 刚刚，诺贝尔奖表彰的\"通往光遗传学的发现\"，究竟是什么？ ",
+    "link": "https://www.huxiu.com/article/4895451.html?f=rss",
+    "summary": "本文来自微信公众号： 医曜 ，作者：王喆 2026年10月5日，斯德哥尔摩时间11:30刚过，卡罗琳医学院宣布了今年的诺贝尔生理学或医学奖：卡尔·戴塞洛斯（Karl Deisseroth）、彼得·黑格曼（Peter Hegemann）、格奥尔格·纳格尔（Georg Nagel）。 先说这个发现跟普通人的关系。 一百年来，脑科学基本只能\"看\"大脑：哪里亮了、哪里坏了。看到了，也说不准哪群细胞跟抑郁症、成瘾、帕金森是因果还是巧合。这个获奖的方法第一次让研究者能把某一类细胞单独打开、单独关上，像查电路一样查大脑。此后二十年，记忆怎么写入、成瘾卡在哪一段回路，答案都是踩着它做出来的，照着它找新药的公司也已经在做人体临床。 它也已经进了医院。第一批用上它的病人是盲人，有人治疗前只剩光感，治疗后能自己摸到桌上的东西。三位获奖者中有一位精神科医生，至今还在出门诊，他造这个工具的出发点，就是诊室里治不好的病人。 至于获奖理由本身，原文是\"for their discoveries concerning light-gated ion channels and optogenetics\"，通行中译为\"光门控离子通道和光遗传学方面的发现\"。 对照委员会的科学背景文件逐项拆开，授奖词由两件各自成立、首尾相接的工作组成。 前半句，光门控离子通道，给德国人黑格曼和纳格尔：他们找到一种蛋白，并证明这种蛋白自己",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791161638000",
-    "title": "“国民辣酱”老干妈也用上AI，营收已重回巅峰",
-    "link": "https://www.tmtpost.com/8159130.html",
-    "summary": "通过四年的质量巩固与体系优化，2025年，老干妈营收达54亿元，创历史最高峰值。",
+    "id": "news-agent-1791192990000",
+    "title": "快手的视频Agent，会不会来晚了？",
+    "link": "https://www.tmtpost.com/8159522.html",
+    "summary": "视频模型厂商，正集体从\"生成一段画面\"走向\"交付一部成片\"。",
     "publishedAt": "2026-10-05",
     "source": "钛媒体",
     "tags": [
@@ -161,15 +240,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-new-contest-pits-competitors-against-each-other-in-a-race--1790931600000",
-    "title": "A new contest pits competitors against each other in a race to biological youth",
-    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-    "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
+    "id": "news-redefining-enterprise-intelligence-with-autonomous-ai-1790956144000",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
     "publishedAt": "2026-10-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -200,10 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-fde-5-1791093935000",
-    "title": "最火AI岗位FDE：月薪5万，都干这些…",
-    "link": "https://www.qbitai.com/2026/10/501506.html",
-    "summary": "什么是FDE？它会一直存在吗？",
+    "id": "news-ai-1791094342000",
+    "title": "AI算力硬合作，马斯克还是更相信中国制造",
+    "link": "https://www.qbitai.com/2026/10/501605.html",
+    "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
     "publishedAt": "2026-10-04",
     "source": "量子位",
     "tags": [
@@ -213,23 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791169785000",
-    "title": " 托育成为员工福利，家长为何仍难安心？ ",
-    "link": "https://www.huxiu.com/article/4895417.html?f=rss",
-    "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Pavithra Mohan 随着托育服务价格高昂、名额紧张，越来越多美国企业将托育纳入员工福利：由公司提供补贴，帮助员工在日常托育安排中断时寻找临时照护。有些企业还直接在办公场所内设立托育中心。对家长而言，这能缓解孩子无人照看的压力；对公司而言，则有助于减少员工因照护中断而请假的情况。 围绕这项需求，Bright Horizons建立起了一门规模可观的生意。这家总部位于波士顿郊区的企业，是美国规模最大、知名度最高的托育服务商之一，为全球超过1450家企业提供托育福利服务。其客户包括AT&amp;T、摩根大通等220多家位列美国营收规模前列的企业。 其中一项核心业务，是所谓的“应急托育”（backup care）：当孩子平时去的托育机构停开、保姆临时缺席，或原有安排因其他原因中断时，由服务商安排替代照护。Bright Horizons通过托育机构和上门照护人员组成的网络提供这项服务。部分客户出资在办公场所内开设托育中心，另一些则为员工提供补贴，让他们使用Bright Horizons在五个国家运营的1000多家托育机构。 随着美国员工对托育福利的需求快速增长，应急托育也成为Bright Horizons的重要增长来源。2025年，这项服务的需求增长了19%，收入接近7.28亿美元，占公司总营收的四分之一。公司当年超过3.",
+    "id": "news--1791199162000",
+    "title": " 世界模型赛道：谁在收编，谁在突围？ ",
+    "link": "https://www.huxiu.com/article/4895450.html?f=rss",
+    "summary": "本文来自微信公众号： 智械岛 ，作者：霍如筠 9月28日，芯片巨头AMD宣布以82亿美元全股票交易收购World Labs，该公司成立仅两年多，员工约70人，首款商业产品Marble上线不到一年，新一代模型Atlas在这宗交易宣布前发布不到一个月。 消息公布当天，AMD股价收跌3.61%。市场在疑虑什么？一个没有收入、技术路线尚未收敛的实验室，凭什么值82亿美元，这笔账怎么算出来的，有人甚至认为这是一场利益输送。 2026年1月CES上，苏姿丰把李飞飞请上主题演讲的舞台，两人同台展示World Labs的产品，那时候，苏姿丰是World Labs的早期投资人，李飞飞是创业者。 九个月后，这段投资人与创业者关系直接升级成了CEO与首席科学家，李飞飞将出任AMD执行副总裁，直接向苏姿丰汇报。这笔交易中，AMD既是买家，又是被收购公司的股东。 出手的不止AMD，差不多时间段内，英伟达以约129亿美元收购了全球最大的开源模型社区Hugging Face；高通收购了AI原生软件平台开发商Modular；SpaceX收购了AI编程助手Anysphere，芯片巨头们不约而同地把手伸向了模型层。 为什么AMD愿意花82亿美元买一个几乎没有营收的实验室？为什么芯片公司突然开始抢模型公司？这场争夺对中国国产芯片厂商意味着什么，摩尔线程们能不能用同样的策略？ 一、一张82亿美元的船票 AMD收购Worl",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-9-700-ai-513-1791161447000",
-    "title": "9秒删库，700个AI失控，豪掷513亿买不来安全？",
-    "link": "https://www.tmtpost.com/8153885.html",
-    "summary": "AI从工具变成同事，安全就从选项变成前提。",
+    "id": "news-ai-1791186780000",
+    "title": "AI面试官，放过打工人吧",
+    "link": "https://www.tmtpost.com/8159479.html",
+    "summary": "技术可以筛选简历，但筛选不了一个人的价值！",
     "publishedAt": "2026-10-05",
     "source": "钛媒体",
     "tags": [
@@ -240,10 +321,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-don-t-be-fooled-llms-don-t-reason-1790928000000",
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+    "id": "news-the-download-a-biological-de-aging-contest-and-why-llms-don--1790943000000",
+    "title": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;",
     "publishedAt": "2026-10-02",
     "source": "MIT Technology Review",
     "tags": [
@@ -279,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-3d-2-arr-1-1791075209000",
-    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-    "link": "https://www.qbitai.com/2026/10/501451.html",
-    "summary": "专业3D模型反而更稀缺了",
+    "id": "news-ai-fde-5-1791093935000",
+    "title": "最火AI岗位FDE：月薪5万，都干这些…",
+    "link": "https://www.qbitai.com/2026/10/501506.html",
+    "summary": "什么是FDE？它会一直存在吗？",
     "publishedAt": "2026-10-04",
     "source": "量子位",
     "tags": [
@@ -292,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791169322000",
-    "title": " 游戏平板能抢掌机的生意吗？ ",
-    "link": "https://www.huxiu.com/article/4895415.html?f=rss",
-    "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 虎嗅拍摄 一台安卓游戏平板，卖到了PC掌机的价格区间。 iQOO最新发布的Pad Ultra起售价达到6499元，首销优惠价为5999元，叠加补贴后最低到手价为5499元。这个价格不仅高于联想拯救者Y700等小尺寸游戏平板，也已经可以买到一台主流PC掌机。 对玩家来说，安卓平板已经不再是唯一答案。现在摆在面前的是两种设备：手游平板，或能原生跑PC游戏的掌机。 iQOO试图用轻薄机身、旗舰芯片和&ldquo;跨端游戏空间&rdquo;模糊两者的边界。既保留安卓手游体验，又通过本地模拟、PC串流和云游戏扩展PC内容。但这种连接能不能获得掌机的原生游戏同样体验尚需检验。但游戏平板能否从掌机手里抢到生意的重要因素就是，它能否提供一个足够独立的购买理由。 这也是游戏手机退潮之后，专业游戏设备面临的共同问题，仅有更强的性能，并不足以创造一个新品类。 专业游戏手机已经证明，仅靠性能堆料很难撑起一个独立市场。联想拯救者手机线被裁撤，雷蛇早已离场；2026年1月，华硕集团董事长施崇棠证实Zenfone与ROG Phone不再推出新机型；同年7月，黑鲨宣布停止手机销售。曾经拥挤的专业游戏手机赛道，只剩红魔等少数玩家还在坚守。 这轮退潮的核心矛盾，是专业游戏手机始终没有和普通旗舰拉开足够大的差异。两者共享同代旗舰芯片，而高刷新率屏、大面",
+    "id": "news-2026-1791198411000",
+    "title": " 2026诺贝尔生理医学奖颁给光遗传学，华人学者遗憾错过 ",
+    "link": "https://www.huxiu.com/article/4895447.html?f=rss",
+    "summary": "本文来自微信公众号： 知识分子 ，作者：王承志，责编：夏志坚，题图来自：视觉中国 光遗传学被认为是一项注定要得诺奖的技术 （相关文章： 《光遗传学：一项注定要得诺贝尔奖的技术》 ） 。 刚刚，2026诺贝尔生理学或医学奖公布，光遗传学领域的几位科学家彼得&middot;黑格曼 （Peter Hegemann） 、卡尔&middot;代塞尔罗思 （Karl Deisseoth） 、格奥尔格&middot;纳格尔 （Georg Nagel） 获得该奖。 而实际上，对于光遗传学的发展有重要贡献的科学家不止他们三位。&ldquo;知识分子&rdquo;特撰文介绍该领域的发展。 彼得&middot;黑格曼 （Peter Hegemann） 黑格曼于1954年出生于德国西部的明斯特。1984年在慕尼黑获得了博士学位，他博士期间的主要工作是对卤代视紫红质的结构和功能进行研究。1984年至1985年，黑格曼在迪特&middot;奥斯特尔赫特 （Dieter Oesterhelt） 的实验室从事博士后研究。1986年，黑格曼在德国马普所建立了自己的实验室。2004年起，担任柏林洪堡大学教授。 黑格曼与格奥尔格&middot;纳杰尔 （Georg Nagel） 一起发现了通道视紫红质，这是直接光门控离子通道的一个家族，这一发现开辟了光遗传学的新领域。黑格曼的研究小组还对通道视紫红质进行了很多分子工程的",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
@@ -305,89 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jarvis-samantha-1791161430000",
-    "title": "大厂卷 Jarvis，Samantha却在恋爱影游里冒了头？",
-    "link": "https://www.tmtpost.com/8159072.html",
-    "summary": "至于 Samantha，说不定哪天下班打开屏幕，她已经在那头等你了。",
-    "publishedAt": "2026-10-05",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-mind-reading-and-creative-uses-for-small-bat-1790856600000",
-    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
-    "publishedAt": "2026-10-01",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-federal-judge-calls-flock-indiscriminate-mass-surveillance-1791055995000",
-    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-    "publishedAt": "2026-10-03",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-sociable-linkedin-updates-its-ai-powered-hiring-bot-1790953620000",
-    "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
-    "link": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
-    "summary": "The platform launched Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
-    "publishedAt": "2026-10-02",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-deepseek-hc-1791014083000",
-    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-    "link": "https://www.qbitai.com/2026/10/501381.html",
-    "summary": "岗位JD甩了篇技术报告",
-    "publishedAt": "2026-10-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-20-1791169200000",
-    "title": " 10年暴涨20倍，从一房难求到无人问津，年轻人为什么不爱民宿了？ ",
-    "link": "https://www.huxiu.com/article/4894555.html?f=rss",
-    "summary": "10年间，全国民宿数量暴增近20倍，从抢破头到现在入住率仅36%，大批民宿老板急着转手。年轻人曾为&ldquo;ins风&rdquo;、&ldquo;网红打卡&rdquo;买单，如今更青睐标准化、靠谱的连锁酒店？",
-    "publishedAt": "2026-10-05",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-edge-ai-daily-10-5-1791159342000",
-    "title": "Edge AI Daily 早报（10月5日）",
-    "link": "https://www.tmtpost.com/8159215.html",
-    "summary": "Google冻结开源软件漏洞奖励计划，AI生成的无效报告激增导致验证成本高企，系统性威胁开源安全防线。印度依据Section 69A强制下架去中心化应用Bitchat，审查从内容迈向能力，暴露去中心化应用在中心化分发渠道前的结构性死穴。",
+    "id": "news--1791186180000",
+    "title": "机房紧缺，资本反而开始“挑剔”数据中心？",
+    "link": "https://www.tmtpost.com/8159481.html",
+    "summary": "大客户的长约，未必能换来建设资金。",
     "publishedAt": "2026-10-05",
     "source": "钛媒体",
     "tags": [
@@ -990,4 +992,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-05T03:52:27.921Z';
+export const dataFetchedAt = '2026-10-05T13:29:58.134Z';
