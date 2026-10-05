@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-06-auto",
+    "date": "2026-10-06",
+    "session": "auto",
+    "title": "2026-10-06 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-06-auto-1",
+        "emoji": "💡",
+        "title": "Connecting AI agents to enterprise knowledge",
+        "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+        "detail": "来源: MIT Technology Review。For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+      },
+      {
+        "id": "sig-2026-10-06-auto-2",
+        "emoji": "💡",
+        "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
+        "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+        "detail": "来源: TechCrunch。The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/"
+      },
+      {
+        "id": "sig-2026-10-06-auto-3",
+        "emoji": "💡",
+        "title": "Transgender former EEOC employee may proceed with bias lawsuit, judge says",
+        "summary": "The allegations plausibly showed that the commission, under the leadership of Chair Andrea Lucas, maintained a hostile work environment, according to the decision.",
+        "detail": "来源: HR Dive。The allegations plausibly showed that the commission, under the leadership of Chair Andrea Lucas, maintained a hostile work environment, according to the decision.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/transgender-former-eeoc-employee-may-proceed-with-bias-lawsuit-judge-says/832176/"
+      },
+      {
+        "id": "sig-2026-10-06-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Less Decoder is More Encoder: Geometric Representation Learn...",
+        "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom",
+        "detail": "作者: Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan。This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder, and \\textit{low-level pixel-space targets} that hinder feature learning. We present SNAP, a self-supervised encoder-decoder transformer that addresses both through a pose-conditioned local decoder and a latent-space reconstruction objective. SNAP is task agnostic, and we show that it is competitiv",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.03717v1"
+      },
+      {
+        "id": "sig-2026-10-06-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-06-1",
+        "priority": "low",
+        "action": "关注「Connecting AI agents to enterprise knowl」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-06-2",
+        "priority": "low",
+        "action": "关注「Lucid Motors&#8217; EV output falls to l」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-06-3",
+        "priority": "low",
+        "action": "关注「Transgender former EEOC employee may pro」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-06-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Less Decoder is More Encoder: Geome」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-06-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-06 生成，聚合了 28 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-10-06 00:00 - 2026-10-06 23:59"
+  },
+  {
     "id": "report-2026-10-05-auto",
     "date": "2026-10-05",
     "session": "auto",

@@ -2,42 +2,44 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-s-popularity-paradox-and-emtech-future-2026-1791202200000",
-    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
+    "id": "news-connecting-ai-agents-to-enterprise-knowledge-1791215272000",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
     "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-can-safeworld-convince-people-that-genai-robots-won-8217-t-h-1791201600000",
-    "title": "Can Safeworld convince people that GenAI robots won&#8217;t hurt them?",
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "id": "news-lucid-motors-8217-ev-output-falls-to-lowest-level-in-almost--1791237241000",
+    "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
+    "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
     "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-the-future-of-workforce-wellbeing-strategies-enterprise-empl-1791190800000",
-    "title": "The future of workforce wellbeing: Strategies enterprise employers are prioritizing in 2026",
-    "link": "https://www.hrdive.com/spons/the-future-of-workforce-wellbeing-strategies-enterprise-employers-are-prio/831724/",
-    "summary": "What do employees want most from their employer? New data reveals the answer.",
+    "id": "news-transgender-former-eeoc-employee-may-proceed-with-bias-lawsu-1791235680000",
+    "title": "Transgender former EEOC employee may proceed with bias lawsuit, judge says",
+    "link": "https://www.hrdive.com/news/transgender-former-eeoc-employee-may-proceed-with-bias-lawsuit-judge-says/832176/",
+    "summary": "The allegations plausibly showed that the commission, under the leadership of Chair Andrea Lucas, maintained a hostile work environment, according to the decision.",
     "publishedAt": "2026-10-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -54,10 +56,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791202032000",
-    "title": " 揭秘医学诺奖得主：有人开过咖啡馆，有人写过书 ",
-    "link": "https://www.huxiu.com/article/4895459.html?f=rss",
-    "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 3位诺奖得主经历了完全不同的人生，但他们最终在同一个终点汇合：让光成为理解生命、探索治疗的一件工具。 大学毕业后，Georg Nagel没有选择攻读博士。他先去了瑞士教书，又和朋友在德国康斯坦茨市中心合开了一家名叫CaféChaos的咖啡馆——直译过来，叫作“混沌咖啡馆”。 这段经历，后来被他写进了自传。今天，这位曾经的咖啡馆老板，又多了一个新的身份：诺贝尔奖得主。 10月5日，2026年诺贝尔生理学或医学奖揭晓，授予美国科学家Karl Deisseroth，德国科学家Peter Hegemann和Georg Nagel，以表彰他们“有关光门控离子通道和光遗传学的发现”。 这是一项让科学家用光研究神经细胞的技术，它背后的贡献者，呈现出了几段颇不相同的人生经历：一位曾停下升学脚步，去开咖啡馆；一位从小想写作，后来却当了精神科医生；还有一位，用多年时间追问着一个看似微小的问题——衣藻为什么会朝着光游？ 先开咖啡馆，再回实验室 1953年，Nagel出生于德国南部，是家中五个孩子中的长子。5岁时，Nagel患上了严重的骨骼炎症，接受了多次手术。兄弟姐妹外出滑雪时，Nagel就在家中摆弄科学实验套装，由此培养起了对科学的兴趣。 Georg Nagel，图片来源：邵逸夫奖官网 高中毕业后，Nagel进入康斯坦茨大学，取得了生",
+    "id": "news-7000-1791216667000",
+    "title": " 四箭齐发的7000亿到底流向谁？ ",
+    "link": "https://www.huxiu.com/article/4895482.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 几条政策消息凑到一块儿了。 9月24号，央行货币政策委员会发布三季度例会通稿定调子；28号国常会提出宏观政策要加码发力。 到29号，央行一次性推出四项定向工具，财政部也同步出台购房贴息政策，新华财经把这套组合叫做「四箭齐发」。 所有人的第一反应都是同一个问题，7000亿，是不是又放水了。 我仔细捋了一遍，7000亿这个数字本身没那么多讲究。钱会往哪走、最终落到谁手里，才是核心。 这次央行没有降准，也没有全面降息，它用了四项定向工具，每一项都规定好了资金去向，还有准入门槛，相当于分开四条通道，专款专用。 先说第一个：PSL，抵押补充贷款。 简单说，央行给国开行、农发行、进出口银行这三家政策性银行提供低成本资金，再由这几家银行放款到具体重大项目。 这次PSL有两个调整： 一是降息，一年期利率从1.75%降到1.5%，相当于资金批发价打折。 二是扩大支持范围，把「六张网」纳入进来：水网、新型电网、算力网、新一代通信网、城市地下管网、物流网。这六大领域都可以申请PSL资金。 据中信证券首席经济学家明明测算，「六张网」今年总投资预计超过7万亿，十五五期间直接投资大约30万亿，带动上下游合计86万亿。 数字看着很大，但这是全部资金口径，财政资金、专项债、民间投资都算进去，PSL只是资金来源中的一部分。 那这笔钱最后给到谁？看项目中标名单就知道，基本",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
@@ -81,10 +83,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-people-really-hate-ai-so-why-can-t-they-get-enough-1791187200000",
-    "title": "People really hate AI, so why can’t they get enough?",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "id": "news-bringing-predictive-analytics-to-the-agentic-ai-era-1791206972000",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
     "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
@@ -93,11 +95,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-froze-its-open-source-bug-bounty-program-due-to-a-821-1791145867000",
-    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "publishedAt": "2026-10-04",
+    "id": "news-openai-will-start-watermarking-chatgpt-8217-s-text-in-the-eu-1791232608000",
+    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -106,17 +108,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-sues-harvard-to-obtain-hundreds-of-documents-in-dei-rel-1790974620000",
-    "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
-    "link": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
-    "summary": "The university called the agency&rsquo;s requests &ldquo;virtually boundless&rdquo; and said it has already provided more than 9,000 pages of responsive information, according to a court document.",
-    "publishedAt": "2026-10-02",
+    "id": "news-trump-administration-revamps-insurer-price-transparency-repo-1791235680000",
+    "title": "Trump administration revamps insurer price transparency reporting",
+    "link": "https://www.hrdive.com/news/hhs-health-insurer-price-transparency-overhaul-final-rule/832185/",
+    "summary": "On Monday, the HHS and Labor and Treasury Departments finalized a rule meant to strip&nbsp;out junk cluttering&nbsp;cost&nbsp;disclosures, among other reforms. Employers cheered the changes, which are a mixed bag for insurers.",
+    "publishedAt": "2026-10-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -133,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791201990000",
-    "title": " 诺贝尔奖表彰的光遗传学，究竟是什么？ ",
-    "link": "https://www.huxiu.com/article/4895458.html?f=rss",
-    "summary": "本文来自微信公众号： 医学界 ，作者：科学·专业·善良 这项技术为神经科学开启了一个新的时代。 10月5日，2026年诺贝尔生理学或医学奖授予美国科学家Karl Deisseroth、德国科学家Peter Hegemann和Georg Nagel，以表彰他们“有关光门控离子通道和光遗传学的发现”。 光遗传学是一种用光来控制特定细胞活动的技术。它让科学家第一次能够在活体大脑中，精确地打开或关闭某一类神经细胞，从而直接检验这些细胞与记忆、情绪和行为之间的因果关系。评审委员会认为，这项技术为神经科学开启了一个新的时代。 光遗传学是什么？ 成年人的大脑约有900亿个神经细胞，不同类型的细胞相互交错，功能各异。想要弄清某一类细胞的作用，最直接的办法是单独改变它的活动，再观察动物的行为是否随之变化。 但在很长一段时间里，这是一道难题。常用的电刺激无法区分细胞类型——电极附近的所有细胞都会同时被激活；药物虽然可以针对某一类细胞，但起效需要数分钟甚至更久，远远跟不上以毫秒计的神经信号。 正因如此，科学家长期只能观察到某个脑区在某种行为发生时变得活跃，却无法证明是其中哪一类细胞引起了这种行为。 光遗传学改变了这一困境。它的名称概括了两个要素：“遗传”决定哪些细胞被选中，“光”决定这些细胞何时被激活。 要理解它，先要知道神经细胞如何工作。细胞膜上分布着许多离子通道，如同一扇扇门：门关着，细胞保持安静；",
+    "id": "news--1791216479000",
+    "title": " 印度赚钱印度花，一分别想带回家 ",
+    "link": "https://www.huxiu.com/article/4895481.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 今年9月，小米在印度又遇到了新麻烦。 路透社披露，印度严重欺诈调查办公室（SFIO）建议对小米在印度的业务进行更全面的调查，范围从税务，延伸到了外商投资审批、受益所有权、资金流动以及小米与当地电商平台、经销商之间的关系。 当然最终是否正式立案，仍要由印度政府的公司事务部决定；小米则表示尚未收到SFIO的正式通知，并再次强调公司始终遵守印度法律。此前，印度执法部门已经冻结小米印度公司约5.84亿美元资产，双方围绕特许权使用费以及资金汇出问题也争议多年，但小米一直否认相关违法指控。 2014年小米正式进入印度。几年以后它超过三星坐上印度智能手机市场第一的位置。那是中国企业出海印度最乐观的一段时间，印度在很多中国创业者眼里，几乎就是一张晚了十年出现的中国地图：人口巨大而年轻，智能手机刚刚普及，移动互联网开始爆发，传统金融和现代零售还远远没有覆盖到普通人，中国过去十几年已经跑通过一遍的手机、电商、支付、短视频、游戏乃至消费金融，看起来都可以重新复制。 于是，小米去了，OPPO和vivo去了，腾讯、阿里、字节跳动以及大量创业公司和投资机构也去了。TikTok一度在印度拥有两亿多用户，中国资本投资了Paytm、Zomato、Swiggy、BigBasket等一批后来在印度家喻户晓的企业。互联网金融最疯狂的那些年，甚至有一批现金贷公司直接把国内的",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
@@ -160,24 +161,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-emtech-future-2026-when-ai-meets-everything-1791172800000",
-    "title": "EmTech Future 2026: When AI Meets Everything",
-    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "id": "news-the-download-ai-s-popularity-paradox-and-emtech-future-2026-1791202200000",
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
     "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-can-super-intelligence-and-a-non-binding-safety-pact-solve-a-1791144514000",
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "publishedAt": "2026-10-04",
+    "id": "news-etched-fields-funding-offers-at-40b-valuation-sources-say-1791231849000",
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+    "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -186,11 +186,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-takes-aim-at-trans-rights-in-investigations-involving-b-1790974620000",
-    "title": "EEOC takes aim at trans rights in investigations involving ‘biological’ pronouns, single-sex spaces",
-    "link": "https://www.hrdive.com/news/eeoc-shifts-on-trans-rights-sues-for-single-sex-bathroom-restriction-and/832038/",
-    "summary": "Recent litigation actions from the agency demonstrate a new path forward for the administration on fighting &ldquo;gender ideology.&rdquo;",
-    "publishedAt": "2026-10-02",
+    "id": "news-settled-7-lawsuits-employers-resolved-in-september-1791217920000",
+    "title": "Settled: 7 lawsuits employers resolved in September",
+    "link": "https://www.hrdive.com/news/settled-7-lawsuits-employers-resolved-in-september/832118/",
+    "summary": "Two high-profile employers paid millions last month to end lawsuits alleging that their diversity, equity and inclusion programs were discriminatory.",
+    "publishedAt": "2026-10-05",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -213,16 +213,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791199528000",
-    "title": " 刚刚，诺贝尔奖表彰的\"通往光遗传学的发现\"，究竟是什么？ ",
-    "link": "https://www.huxiu.com/article/4895451.html?f=rss",
-    "summary": "本文来自微信公众号： 医曜 ，作者：王喆 2026年10月5日，斯德哥尔摩时间11:30刚过，卡罗琳医学院宣布了今年的诺贝尔生理学或医学奖：卡尔·戴塞洛斯（Karl Deisseroth）、彼得·黑格曼（Peter Hegemann）、格奥尔格·纳格尔（Georg Nagel）。 先说这个发现跟普通人的关系。 一百年来，脑科学基本只能\"看\"大脑：哪里亮了、哪里坏了。看到了，也说不准哪群细胞跟抑郁症、成瘾、帕金森是因果还是巧合。这个获奖的方法第一次让研究者能把某一类细胞单独打开、单独关上，像查电路一样查大脑。此后二十年，记忆怎么写入、成瘾卡在哪一段回路，答案都是踩着它做出来的，照着它找新药的公司也已经在做人体临床。 它也已经进了医院。第一批用上它的病人是盲人，有人治疗前只剩光感，治疗后能自己摸到桌上的东西。三位获奖者中有一位精神科医生，至今还在出门诊，他造这个工具的出发点，就是诊室里治不好的病人。 至于获奖理由本身，原文是\"for their discoveries concerning light-gated ion channels and optogenetics\"，通行中译为\"光门控离子通道和光遗传学方面的发现\"。 对照委员会的科学背景文件逐项拆开，授奖词由两件各自成立、首尾相接的工作组成。 前半句，光门控离子通道，给德国人黑格曼和纳格尔：他们找到一种蛋白，并证明这种蛋白自己",
+    "id": "news-ai-1791216048000",
+    "title": " 为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？ ",
+    "link": "https://www.huxiu.com/article/4895480.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？｜不懂经网站》 “第一步，我不想参与。第二步，辞职。第三步，大概告诉大家。第四步，我完全不知道。” 最近一段时间，顶尖AI研究员离职的消息可谓层出不穷，到底是怎么回事？上面是其中一个人的想法。 两个月前，我写过一篇文章，讲AI行业里最懂行的人为什么纷纷离职。标题借了Anthropic联合创始人杰克·克拉克的一条推文：“离开AI公司的人：我凝视过无尽的黑夜，看到了其中的轮廓。我们必须彼此善待。我即将去学习哲学。” 当时我们说的是，这些人的告别不像换工作的声明，更像遗嘱；最懂AI的人在逃离神庙；他们提前进入了一种新的生活方式，他们在为自己创造的怪物可能制造的未来做准备。 今天，10月5日，《纽约杂志》刊发了一篇长篇访谈，题目译过来是：《如果你的雇主可能毁灭世界，你会怎么办？》 报道采访了八位曾在OpenAI、Anthropic和Google DeepMind工作的人。他们在不同年份离开，理由也各不相同。有人担心技术失控，有人反对军事合作，有人觉得，对失业和社会转型的研究，放到公司外面才能做得更好。 和上一篇文章结合起来，我们可以看到故事的另外一面。 这些人早就知道AI有风险，甚至正因为知道危险，才选择加入这些公司。后来改变的，是他们对这些领先AI公司和领层的信任。 这已经触及一种",
     "publishedAt": "2026-10-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -240,24 +241,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-redefining-enterprise-intelligence-with-autonomous-ai-1790956144000",
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
-    "publishedAt": "2026-10-02",
+    "id": "news-people-really-hate-ai-so-why-can-t-they-get-enough-1791187200000",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-techcrunch-mobility-reining-in-robotaxis-1791129900000",
-    "title": "TechCrunch Mobility: Reining in robotaxis",
-    "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-10-04",
+    "id": "news-after-factory-8217-s-public-spat-with-khosla-menlo-proudly-i-1791229087000",
+    "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
+    "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+    "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -266,17 +266,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-firm-settles-eeoc-charge-that-it-let-indian-staff-work-remot-1790974620000",
-    "title": "Firm settles EEOC charge that it let Indian staff work remotely, but not US employees",
-    "link": "https://www.hrdive.com/news/firm-settles-eeoc-charge-indian-staff-work-remotely-not-us-employee/832055/",
-    "summary": "Determinations on remote work should not be based on an employee&rsquo;s race or national origin, a director for the agency said.",
-    "publishedAt": "2026-10-02",
+    "id": "news-holiday-hiring-is-getting-smaller-and-more-surgical-1791214260000",
+    "title": "Holiday hiring is getting ‘smaller and more surgical’",
+    "link": "https://www.hrdive.com/news/holiday-seasonal-retail-hiring-lower/832117/",
+    "summary": "Many of the biggest U.S. companies are staying quiet about their Q4 plans amid uneasy consumer confidence reports and shifting staffing models.",
+    "publishedAt": "2026-10-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -290,20 +289,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1791199162000",
-    "title": " 世界模型赛道：谁在收编，谁在突围？ ",
-    "link": "https://www.huxiu.com/article/4895450.html?f=rss",
-    "summary": "本文来自微信公众号： 智械岛 ，作者：霍如筠 9月28日，芯片巨头AMD宣布以82亿美元全股票交易收购World Labs，该公司成立仅两年多，员工约70人，首款商业产品Marble上线不到一年，新一代模型Atlas在这宗交易宣布前发布不到一个月。 消息公布当天，AMD股价收跌3.61%。市场在疑虑什么？一个没有收入、技术路线尚未收敛的实验室，凭什么值82亿美元，这笔账怎么算出来的，有人甚至认为这是一场利益输送。 2026年1月CES上，苏姿丰把李飞飞请上主题演讲的舞台，两人同台展示World Labs的产品，那时候，苏姿丰是World Labs的早期投资人，李飞飞是创业者。 九个月后，这段投资人与创业者关系直接升级成了CEO与首席科学家，李飞飞将出任AMD执行副总裁，直接向苏姿丰汇报。这笔交易中，AMD既是买家，又是被收购公司的股东。 出手的不止AMD，差不多时间段内，英伟达以约129亿美元收购了全球最大的开源模型社区Hugging Face；高通收购了AI原生软件平台开发商Modular；SpaceX收购了AI编程助手Anysphere，芯片巨头们不约而同地把手伸向了模型层。 为什么AMD愿意花82亿美元买一个几乎没有营收的实验室？为什么芯片公司突然开始抢模型公司？这场争夺对中国国产芯片厂商意味着什么，摩尔线程们能不能用同样的策略？ 一、一张82亿美元的船票 AMD收购Worl",
-    "publishedAt": "2026-10-05",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -321,23 +306,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-biological-de-aging-contest-and-why-llms-don--1790943000000",
-    "title": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;",
-    "publishedAt": "2026-10-02",
+    "id": "news-emtech-future-2026-when-ai-meets-everything-1791172800000",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "publishedAt": "2026-10-05",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-trump-unveils-his-new-super-intelligence-force-1791126910000",
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "publishedAt": "2026-10-04",
+    "id": "news-reflection-debuts-beam-an-open-weight-ai-model-to-rival-chin-1791228833000",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hiring-caution-persists-as-inflation-holds-on-bls-report-sho-1790953620000",
-    "title": "Hiring caution persists as inflation holds on, BLS report shows",
-    "link": "https://www.hrdive.com/news/hiring-caution-persists-as-inflation-holds-on-bls-report/832006/",
-    "summary": "&ldquo;In many cases, employers would rather leave a position open than make the wrong hire,&rdquo; one executive said.",
-    "publishedAt": "2026-10-02",
+    "id": "news-employers-need-to-be-prepared-for-accidental-overdoses-on-jo-1791214260000",
+    "title": "Employers need to be prepared for accidental overdoses on jobsites",
+    "link": "https://www.hrdive.com/news/opioid-crisis-naloxone-osha-abc-overdose/832108/",
+    "summary": "Preparing for a potential overdose with Naloxone is like having any other safety first aid, writes Associated Builders and Contractors&rsquo; vice president of human resources.",
+    "publishedAt": "2026-10-05",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -369,19 +355,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-2026-1791198411000",
-    "title": " 2026诺贝尔生理医学奖颁给光遗传学，华人学者遗憾错过 ",
-    "link": "https://www.huxiu.com/article/4895447.html?f=rss",
-    "summary": "本文来自微信公众号： 知识分子 ，作者：王承志，责编：夏志坚，题图来自：视觉中国 光遗传学被认为是一项注定要得诺奖的技术 （相关文章： 《光遗传学：一项注定要得诺贝尔奖的技术》 ） 。 刚刚，2026诺贝尔生理学或医学奖公布，光遗传学领域的几位科学家彼得&middot;黑格曼 （Peter Hegemann） 、卡尔&middot;代塞尔罗思 （Karl Deisseoth） 、格奥尔格&middot;纳格尔 （Georg Nagel） 获得该奖。 而实际上，对于光遗传学的发展有重要贡献的科学家不止他们三位。&ldquo;知识分子&rdquo;特撰文介绍该领域的发展。 彼得&middot;黑格曼 （Peter Hegemann） 黑格曼于1954年出生于德国西部的明斯特。1984年在慕尼黑获得了博士学位，他博士期间的主要工作是对卤代视紫红质的结构和功能进行研究。1984年至1985年，黑格曼在迪特&middot;奥斯特尔赫特 （Dieter Oesterhelt） 的实验室从事博士后研究。1986年，黑格曼在德国马普所建立了自己的实验室。2004年起，担任柏林洪堡大学教授。 黑格曼与格奥尔格&middot;纳杰尔 （Georg Nagel） 一起发现了通道视紫红质，这是直接光门控离子通道的一个家族，这一发现开辟了光遗传学的新领域。黑格曼的研究小组还对通道视紫红质进行了很多分子工程的",
-    "publishedAt": "2026-10-05",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -992,4 +965,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-05T13:29:58.134Z';
+export const dataFetchedAt = '2026-10-05T23:40:43.344Z';
