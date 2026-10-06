@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-07-auto",
+    "date": "2026-10-07",
+    "session": "auto",
+    "title": "2026-10-07 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-07-auto-1",
+        "emoji": "💡",
+        "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+        "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate&#8230;",
+        "detail": "来源: MIT Technology Review。Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate&#8230;",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+      },
+      {
+        "id": "sig-2026-10-07-auto-2",
+        "emoji": "⚠️",
+        "title": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+        "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "detail": "来源: TechCrunch。Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
+      },
+      {
+        "id": "sig-2026-10-07-auto-3",
+        "emoji": "💡",
+        "title": "SHRM service dog trial begins — with plaintiff’s dog by her side",
+        "summary": "The HR giant&rsquo;s second jury trial in under a year is a reminder that &ldquo;how you react matters so very much,&rdquo; Ashley Herd, former co-host of the HR Besties podcast, told HR Dive.",
+        "detail": "来源: HR Dive。The HR giant&rsquo;s second jury trial in under a year is a reminder that &ldquo;how you react matters so very much,&rdquo; Ashley Herd, former co-host of the HR Besties podcast, told HR Dive.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/shrm-service-dog-trial-begins-disability-discrimination/832271/"
+      },
+      {
+        "id": "sig-2026-10-07-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：One Figure, Every Canvas: Editable Flowchart Relayout via Ag...",
+        "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ",
+        "detail": "作者: Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang。Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Existing methods fail characteristically: image-to-image models stretch blocks and reject extreme ratios, text-to-image agentic systems hallucinate content, and parse-then-render systems mis-route edges. We propose an agentic pipeline factored into Parse, Style, and Layout stages, each pairing a main ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.06852v1"
+      },
+      {
+        "id": "sig-2026-10-07-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-07-1",
+        "priority": "low",
+        "action": "关注「Weight-loss drugs show signs of slowing 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-07-2",
+        "priority": "medium",
+        "action": "关注「Silicon Valley&#8217;s AI wunderkind lau」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-07-3",
+        "priority": "low",
+        "action": "关注「SHRM service dog trial begins — with pla」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-07-4",
+        "priority": "medium",
+        "action": "关注「研究速递：One Figure, Every Canvas: Editable 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-07-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-07 生成，聚合了 26 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-10-07 00:00 - 2026-10-07 23:59"
+  },
+  {
     "id": "report-2026-10-06-auto",
     "date": "2026-10-06",
     "session": "auto",
