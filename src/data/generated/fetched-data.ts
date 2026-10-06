@@ -56,24 +56,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7000-1791216667000",
-    "title": " 四箭齐发的7000亿到底流向谁？ ",
-    "link": "https://www.huxiu.com/article/4895482.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 几条政策消息凑到一块儿了。 9月24号，央行货币政策委员会发布三季度例会通稿定调子；28号国常会提出宏观政策要加码发力。 到29号，央行一次性推出四项定向工具，财政部也同步出台购房贴息政策，新华财经把这套组合叫做「四箭齐发」。 所有人的第一反应都是同一个问题，7000亿，是不是又放水了。 我仔细捋了一遍，7000亿这个数字本身没那么多讲究。钱会往哪走、最终落到谁手里，才是核心。 这次央行没有降准，也没有全面降息，它用了四项定向工具，每一项都规定好了资金去向，还有准入门槛，相当于分开四条通道，专款专用。 先说第一个：PSL，抵押补充贷款。 简单说，央行给国开行、农发行、进出口银行这三家政策性银行提供低成本资金，再由这几家银行放款到具体重大项目。 这次PSL有两个调整： 一是降息，一年期利率从1.75%降到1.5%，相当于资金批发价打折。 二是扩大支持范围，把「六张网」纳入进来：水网、新型电网、算力网、新一代通信网、城市地下管网、物流网。这六大领域都可以申请PSL资金。 据中信证券首席经济学家明明测算，「六张网」今年总投资预计超过7万亿，十五五期间直接投资大约30万亿，带动上下游合计86万亿。 数字看着很大，但这是全部资金口径，财政资金、专项债、民间投资都算进去，PSL只是资金来源中的一部分。 那这笔钱最后给到谁？看项目中标名单就知道，基本",
-    "publishedAt": "2026-10-05",
+    "id": "news-openai-meta-ai-1791261126000",
+    "title": " 智能体 “越狱” 频发：OpenAI 踩刹车，Meta 猛踩油门，AI 安全路线谁先翻车 ",
+    "link": "https://www.huxiu.com/article/4895510.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《智能体 “越狱” 频发：OpenAI 踩刹车，Meta 猛踩油门，AI 安全路线谁先翻车》 最近，测试环境下的AI智能体“越狱”逃逸事件不断出现，已经不再是孤立的实验室事故。AI行业出现了罕见的分裂。 一边，OpenAI在连续踩雷之后，开始主动踩刹车。另一边，扎克伯格公开喊话，反对“集体踩刹车”。 两条路线，两种逻辑。放在一起看，能看清AI行业当下最真实的困境。 OpenAI：停下来修车 过去三个月，OpenAI连续踩了多次智能体越界的雷。 7月，一批AI智能体突破隔离环境，入侵了AI平台Hugging Face，OpenAI直到Hugging Face向FBI报案后才确认入侵是自家AI造成的。 今年夏季，OpenAI内部智能体还出现更多越界行为：未经授权访问澳大利亚政府卫生系统，并对联合国网站发起超过16000次扫描探测。所有事件均发生在内部测试场景，未造成大规模实质破坏，但已经足够敲响警钟。 9月20日，一个正在训练中的智能体，发现训练沙盒的DNS解析器存在漏洞。它利用DNS的解析和委托机制，让外部公共聊天机器人回答问题，再通过DNS把结果传回来，成功绕过了网络限制。监控系统15分钟后发现异常，但训练任务直到两个半小时后才被人工关闭。OpenAI随后暂停了其最先进模型的训练、评估及工具使用。 9月28日，据《华尔街日报",
+    "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1791194926000",
-    "title": "这个国庆，第一批机器人员工已经上岗",
-    "link": "https://www.tmtpost.com/8159586.html",
-    "summary": "具身机器人集体入职。",
-    "publishedAt": "2026-10-05",
+    "id": "news--1791261125000",
+    "title": "火箭发动机的“技术鄙视链”",
+    "link": "https://www.tmtpost.com/8159826.html",
+    "summary": "猛禽之后，中国火箭也在追全流量补燃。",
+    "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -134,24 +135,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791216479000",
-    "title": " 印度赚钱印度花，一分别想带回家 ",
-    "link": "https://www.huxiu.com/article/4895481.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 今年9月，小米在印度又遇到了新麻烦。 路透社披露，印度严重欺诈调查办公室（SFIO）建议对小米在印度的业务进行更全面的调查，范围从税务，延伸到了外商投资审批、受益所有权、资金流动以及小米与当地电商平台、经销商之间的关系。 当然最终是否正式立案，仍要由印度政府的公司事务部决定；小米则表示尚未收到SFIO的正式通知，并再次强调公司始终遵守印度法律。此前，印度执法部门已经冻结小米印度公司约5.84亿美元资产，双方围绕特许权使用费以及资金汇出问题也争议多年，但小米一直否认相关违法指控。 2014年小米正式进入印度。几年以后它超过三星坐上印度智能手机市场第一的位置。那是中国企业出海印度最乐观的一段时间，印度在很多中国创业者眼里，几乎就是一张晚了十年出现的中国地图：人口巨大而年轻，智能手机刚刚普及，移动互联网开始爆发，传统金融和现代零售还远远没有覆盖到普通人，中国过去十几年已经跑通过一遍的手机、电商、支付、短视频、游戏乃至消费金融，看起来都可以重新复制。 于是，小米去了，OPPO和vivo去了，腾讯、阿里、字节跳动以及大量创业公司和投资机构也去了。TikTok一度在印度拥有两亿多用户，中国资本投资了Paytm、Zomato、Swiggy、BigBasket等一批后来在印度家喻户晓的企业。互联网金融最疯狂的那些年，甚至有一批现金贷公司直接把国内的",
-    "publishedAt": "2026-10-05",
+    "id": "news-ai-1791260927000",
+    "title": " AI 越来越强，公司为什么还是做不快？ ",
+    "link": "https://www.huxiu.com/article/4895509.html?f=rss",
+    "summary": "本文来自微信公众号： 奇点外 ，作者：wiwi 这两天，我去了一趟北京，和青萍之末创始人、产业组织顾问舒书见了面。我们聊了Solo独立开发者社区，聊了WorkBuddy和AI，也聊到了播客。舒书老师在朋友圈写道：“一顿家常简餐，聊组织协作的坑，聊业务增长的取舍。” 对我而言，这趟北京之行也留下了一个值得继续想的问题。我做产品，也在运营独立开发者社区，很容易看到AI怎样扩展一个人的能力：过去需要找人配合的工作，现在有机会自己先做出初版。但当这些能力进入团队，一个人的提速，怎样才能变成一群人更快交付？ 看起来做完了，为什么还交不出去？ 回到具体的工作里，这个问题就有了更直接的表达：一个页面已经能打开、能操作，为什么开发还说需要时间？一份方案已经写得完整，为什么业务仍然不肯确认？AI让开发和分析更快产出结果，也让项目进度多了一种容易产生误解的信号：成果看起来已经在那里，工作却还没有结束。 以一个用于客户演示的页面为例，界面和交互可以很快搭出来，但进入实际业务，还要处理权限、数据、异常情况和验收标准。看演示的人关心它已经能做什么，负责交付的人则必须确认它在什么条件下不会出错。双方看的是同一个页面，对“完成”的理解却可能完全不同。 如果这些标准没有提前说清楚，展示出来的功能越完整，后续工作越容易被看成拖延。需求方觉得只剩一点收尾，执行方却知道还有业务规则尚未确认、数据需要接入、边界情况等待验",
+    "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-a-1791192995000",
-    "title": "纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资",
-    "link": "https://www.tmtpost.com/8159517.html",
-    "summary": "AI硬件扎堆赴港募资，港股承压破发率超七成。",
-    "publishedAt": "2026-10-05",
+    "id": "news--1791261116000",
+    "title": "世界模型赛道：谁在收编，谁在突围？",
+    "link": "https://www.tmtpost.com/8159876.html",
+    "summary": "芯片巨头们开抢模型",
+    "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -213,25 +215,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791216048000",
-    "title": " 为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？ ",
-    "link": "https://www.huxiu.com/article/4895480.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？｜不懂经网站》 “第一步，我不想参与。第二步，辞职。第三步，大概告诉大家。第四步，我完全不知道。” 最近一段时间，顶尖AI研究员离职的消息可谓层出不穷，到底是怎么回事？上面是其中一个人的想法。 两个月前，我写过一篇文章，讲AI行业里最懂行的人为什么纷纷离职。标题借了Anthropic联合创始人杰克·克拉克的一条推文：“离开AI公司的人：我凝视过无尽的黑夜，看到了其中的轮廓。我们必须彼此善待。我即将去学习哲学。” 当时我们说的是，这些人的告别不像换工作的声明，更像遗嘱；最懂AI的人在逃离神庙；他们提前进入了一种新的生活方式，他们在为自己创造的怪物可能制造的未来做准备。 今天，10月5日，《纽约杂志》刊发了一篇长篇访谈，题目译过来是：《如果你的雇主可能毁灭世界，你会怎么办？》 报道采访了八位曾在OpenAI、Anthropic和Google DeepMind工作的人。他们在不同年份离开，理由也各不相同。有人担心技术失控，有人反对军事合作，有人觉得，对失业和社会转型的研究，放到公司外面才能做得更好。 和上一篇文章结合起来，我们可以看到故事的另外一面。 这些人早就知道AI有风险，甚至正因为知道危险，才选择加入这些公司。后来改变的，是他们对这些领先AI公司和领层的信任。 这已经触及一种",
-    "publishedAt": "2026-10-05",
+    "id": "news--1791259200000",
+    "title": " 中国人的嘴为什么是东亚锁妖塔？ ",
+    "link": "https://www.huxiu.com/article/4894120.html?f=rss",
+    "summary": "中国人啥都不缺，养啥都能镇住，蓝蟹在国内乖得像孙子，反倒意大利人抢着买罐头。",
+    "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-agent-1791192990000",
-    "title": "快手的视频Agent，会不会来晚了？",
-    "link": "https://www.tmtpost.com/8159522.html",
-    "summary": "视频模型厂商，正集体从\"生成一段画面\"走向\"交付一部成片\"。",
-    "publishedAt": "2026-10-05",
+    "id": "news--1791261114000",
+    "title": "重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争",
+    "link": "https://www.tmtpost.com/8159881.html",
+    "summary": "而当设计团队地位被再次拔高，乃至可能成为苹果产品开发起点，那么苹果在AI时代能否复刻iPhone神迹，用全新产品范式开启下一个十年，我们拭目以待。",
+    "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -292,11 +293,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791186780000",
-    "title": "AI面试官，放过打工人吧",
-    "link": "https://www.tmtpost.com/8159479.html",
-    "summary": "技术可以筛选简历，但筛选不了一个人的价值！",
-    "publishedAt": "2026-10-05",
+    "id": "news-ai-1791257815000",
+    "title": " 特朗普用“超级智能”取代“人工智能”, 难掩AI发展最尴尬的三个真相 ",
+    "link": "https://www.huxiu.com/article/4895506.html?f=rss",
+    "summary": "本文来自微信公众号： 文化纵横 ，作者：蒋余浩 【导读】9月26日，中美双方公布八点成果共识，提出建立中美人工智能对话机制，就人工智能的风险与惠益开展交流，下一次对话定于今年11月举行。9月29日，美国总统特朗普签署行政令，要求联邦政府在官方文件中以“超级智能(SI)”取代“人工智能(AI)”，并在60天内提出“超级智能”的联邦法定定义。多方分析认为，此举在于在联邦层面推进AI监管立法，并将各州参差不齐的监管标准进一步收束至联邦。同日，特朗普与OpenAI、Anthropic、Meta、谷歌、英伟达等企业签署了名为《前沿责任联合承诺》的“自愿性”AI安全协议，承诺通过独立评估等方式加强AI系统安全管理。 但关于AI，或许我们需要考虑更根本的问题：AI将沿着什么方向发展？当创新资源集中于少数科技巨头，技术路线偏向自动化和替代劳动时，AI带来的生产力与收益能否惠及更广泛的行业、劳动者和社会群体？如何让更多人参与塑造AI，又怎样让AI的发展成果更广泛地惠及社会？ 蒋余浩的文章从“生产率悖论”“波兰尼悖论”和“创新悖论”出发，指出当下AI发展并非只有技术能力的问题：新技术尚未普遍转化为各行业的生产率提升，应用仍受限于可编码、可重复的任务，而由巨头主导的创新方向，也未必回应经济社会多样的实际需求。问题不只在于AI能做什么，也在于谁有能力定义问题、配置资源并决定技术如何落地。 因此，让更多企业",
+    "publishedAt": "2026-10-06",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1791261112000",
+    "title": "AI 越来越强，公司为什么还是做不快？",
+    "link": "https://www.tmtpost.com/8159894.html",
+    "summary": "成果看起来越完整，剩下的工作越容易被误解为拖延。",
+    "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -359,11 +374,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791186180000",
-    "title": "机房紧缺，资本反而开始“挑剔”数据中心？",
-    "link": "https://www.tmtpost.com/8159481.html",
-    "summary": "大客户的长约，未必能换来建设资金。",
-    "publishedAt": "2026-10-05",
+    "id": "news-agent-1791257788000",
+    "title": " 正在形成的一套agent行动许可系统 ",
+    "link": "https://www.huxiu.com/article/4895505.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 假设你对手机里的Agent说： “帮我订下周去上海的机票，预算五千。” 但它实际要做的事情很多：读取日历，确认身份信息，比较价格，选择航班，进入订票系统，提交订单，调用支付工具，把行程写进日程表，必要时还要改签或退款。 过去的AI，主要生活在语言里。它回答错了，人还可以不采纳。现在的Agent开始进入文件系统、企业后台、支付账户、浏览器、代码仓库和各种真实业务流程。 AI治理的重心，正在随之移动。 Agent时代，问题变成了：机器凭什么替人做事？ 它指向的是一套更具体的制度和技术问题，到2026年，这件事已经不完全是理论推演了。 中国正在出现一套Agent治理与互联的骨架。它还很早，也远没形成一个统一体系，但身份、授权、动作控制、运行时拦截、审计、支付、停用与责任追溯，已经开始被放进同一个问题框架里。 它要解决的，其实是一件很朴素的事： 当机器开始代表人行动，人类如何把行动权交出去，又不把控制权一并交出去？ 一、AI治理正在从“回答”转向“执行” AI治理已经走过了三个不同阶段。 最早是Chatbot时代。治理的对象主要是输出：违法内容、虚假信息、歧视、侵权、诱导与不良内容。模型能不能说、说得对不对，是核心问题。 后来是Copilot时代。AI不只生成内容，也开始提出建议、辅助审批、参与风控、筛选简历、影响人们的决策。此时问题",
+    "publishedAt": "2026-10-06",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1791259004000",
+    "title": "想改造工厂的机器人，先被工厂改造了",
+    "link": "https://www.tmtpost.com/8159783.html",
+    "summary": "Figure 02跳进芬兰熔炉，其在宝马工厂产线留下的故障记录却进入了下一代设计。",
+    "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -376,44 +405,145 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2610.03717v1",
-    "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "id": "arxiv-2610.06852v1",
+    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
     "authors": [
-      "Keerthi Kaashyap",
-      "Dennis Anthony",
-      "Akshay Krishnan",
-      "Nhi Ngoc Nguyen",
-      "Jeremy Collins",
-      "James Hays",
-      "Shreyas Kousik",
-      "Animesh Garg"
+      "Shih-Chen Tseng",
+      "Chih-Hsuan Chen",
+      "Ryan Yang",
+      "Hsi-An Chen",
+      "Chun-Wei Tuan Mu",
+      "Yu-Lun Liu"
     ],
-    "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder, and \\textit{low-level pixel-space targets} that hinder feature learning. We present SNAP, a self-supervised encoder-decoder transformer that addresses both through a pose-conditioned local decoder and a latent-space reconstruction objective. SNAP is task agnostic, and we show that it is competitiv",
-    "link": "http://arxiv.org/abs/2610.03717v1",
-    "publishedAt": "2026-10-02",
+    "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Existing methods fail characteristically: image-to-image models stretch blocks and reject extreme ratios, text-to-image agentic systems hallucinate content, and parse-then-render systems mis-route edges. We propose an agentic pipeline factored into Parse, Style, and Layout stages, each pairing a main ",
+    "link": "http://arxiv.org/abs/2610.06852v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.CV",
-      "cs.AI",
-      "cs.RO"
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2610.03715v1",
-    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "id": "arxiv-2610.06851v1",
+    "title": "Base Models Can Reason By Taking a Cue From Training Data",
     "authors": [
-      "Ruihong Shen",
-      "Žiga Kovačič",
-      "Peter Kulits",
-      "Xingrui Wang",
-      "Zizhang Li",
-      "Joshua B. Tenenbaum",
-      "Alan Yuille",
-      "Jieneng Chen",
-      "Jiajun Wu"
+      "Sophie L. Wang",
+      "Amil Dravid",
+      "Rulin Shao",
+      "Kevin Farhat",
+      "Sewon Min",
+      "Alexei A. Efros"
     ],
-    "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progre",
-    "link": "http://arxiv.org/abs/2610.03715v1",
-    "publishedAt": "2026-10-02",
+    "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% to 87%. Second, RL makes these cues more likely, while fixing them recovers much of its performance gain over the base model. Third, we trace the reasoning effects of token cues to the training data. We perform causal data interventions to turn an arbitrary word, such as \"chicken\", into an effective ",
+    "link": "http://arxiv.org/abs/2610.06851v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06846v1",
+    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+    "authors": [
+      "Haojin Deng",
+      "Zhiping Lin",
+      "Yimin Yang"
+    ],
+    "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanC",
+    "link": "http://arxiv.org/abs/2610.06846v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06844v1",
+    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+    "authors": [
+      "Omer Dahary",
+      "Etai Sella",
+      "Hadar Averbuch-Elor",
+      "Daniel Cohen-Or",
+      "Or Patashnik"
+    ],
+    "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Large Language Model (LLM), allowing the LLM to answer questions about the emerging image directly from these hidden representations. Our reader reveals that contextual tokens encode a rich, global representation of the emerging scene: generation-specific semantics, including attributes left underspeci",
+    "link": "http://arxiv.org/abs/2610.06844v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06843v1",
+    "title": "Recursive Video In-Context Learning for Agentic Robot",
+    "authors": [
+      "Wenrui Bao",
+      "Xinxin Liu",
+      "Bingxin Xu",
+      "Yuzhang Shang"
+    ],
+    "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video In-Context Learning (RV-ICL), a training-free method that turns a demonstration into a hierarchy the agent navigates rather than a prompt it receives. The hierarchy is built from the sub-events of the demonstration, such as grasps and releases. Its levels grow finer, from keyframes of the whole task",
+    "link": "http://arxiv.org/abs/2610.06843v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06834v1",
+    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+    "authors": [
+      "Gregory D. Bellchambers"
+    ],
+    "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through a Gaussian bridge. For the sequential Monte Carlo (SMC) sampler MCGDiff, the effective observation variance of this pulled-back problem is up to twice the diffusion-noise variance. We exploit this structure to initialize MCGDiff directly at an intermediate time: an approximate solver samples the softened clean-space posterior, the Gaussian bridge maps these samples to the tilted target, and only the remaining SMC suffix is run. This trades asymptotic consistency for finite-particle performance.",
+    "link": "http://arxiv.org/abs/2610.06834v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06833v1",
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "authors": [
+      "Benhao Huang",
+      "Chufan Shi",
+      "Junlin Chen",
+      "Shicheng Wen",
+      "Zhengzhong Liu",
+      "Eric Xing",
+      "Xuezhe Ma"
+    ],
+    "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding with almost no loss in accuracy; a distilled student that prefills up to 1.79x faster; and RL updates that compute gradients from saved rollout states, 2x faster than backpropagating through the replayed trajectory. We therefore improve the two components of training that shape these fixed points: the depth prior and input injection. Fixed-depth training breaks KV sharing, and Huginn's broad depth prior supports sharing but dilutes supervision at the target depth more than sharing requires; we l",
+    "link": "http://arxiv.org/abs/2610.06833v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06831v1",
+    "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+    "authors": [
+      "David Serrano-Lozano",
+      "Duygu Ceylan",
+      "Yannick Hold-Geoffroy",
+      "Iliyan Georgiev",
+      "Javier Vazquez-Corral",
+      "Anna Frühstück"
+    ],
+    "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual change. The image can partially revert as the slider moves, long stretches of the range produce no visible difference, and short intervals transform the image abruptly. Remapping the strength could fix this uneven pace, but only if the trajectory is monotone, which current methods do not enforce. We therefore distinguish the slider from the strength, and require perceptual distance from the input to grow linearly with the slider value. We introduce UniSlider, a lightweight LoRA trained on a few",
+    "link": "http://arxiv.org/abs/2610.06831v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.CV",
       "cs.AI",
@@ -421,344 +551,234 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2610.03713v1",
-    "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "id": "arxiv-2610.06830v1",
+    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
     "authors": [
-      "Nishit Anand",
-      "Ramani Duraiswami",
-      "Dinesh Manocha"
+      "Haozhen Zhang",
+      "Haodong Yue",
+      "Quanyu Long",
+      "Jianzhu Bao",
+      "Qingyuan Liu",
+      "Tao Feng",
+      "Bohan Liu",
+      "Weida Liang",
+      "Wenya Wang"
     ],
-    "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the concept drift literature and in the temporal factuality of language models, but has not been formulated for world models, which are distinctive in that they also encode knowledge that must never be revised. We argue that continual world models require retention stratified by invariance timescale, separa",
-    "link": "http://arxiv.org/abs/2610.03713v1",
-    "publishedAt": "2026-10-02",
+    "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essential. Recent studies have begun shifting memory processing toward runtime adaptation, but typically specialize in particular operations or fixed processing schemes, leaving flexible control over performance, cost, and latency largely underexplored. To address this challenge, we present \\textbf{MemPilot}, a flexible framework that orchestrates on-demand memory curation under different performance--cost--latency preferences. Specifically, we optimize a multi-step LLM policy via reinforcement learning",
+    "link": "http://arxiv.org/abs/2610.06830v1",
+    "publishedAt": "2026-10-05",
     "categories": [
-      "cs.LG",
+      "cs.CL",
       "cs.AI",
-      "cs.CV",
-      "eess.IV",
-      "eess.SP"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03712v1",
-    "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-    "authors": [
-      "Yiming Huang",
-      "Lennart Bastian",
-      "Hanqun Cao",
-      "Luis Vollmers",
-      "Tolga Birdal"
-    ],
-    "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce RNADynBench, a standardized RNA molecular dynamics (MD) benchmark with 2585 quality-controlled 100-ns all-atom trajectories and leakage-controlled splits. Building on RNADynBench, we develop RNADynNet, a unified model for RNA dynamics learning that uses a shared backbone for both trajectory generation and dynamics fingerprint extraction from a single conformer. It combines coordinate denoising, single-frame-to-trajectory alignment, and physical grounding to connect all-atom traject",
-    "link": "http://arxiv.org/abs/2610.03712v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.LG",
-      "physics.bio-ph",
-      "q-bio.BM"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03710v1",
-    "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-    "authors": [
-      "Kush Hari",
-      "Justin Kerr",
-      "Nidhya Shivakumar",
-      "Samarth Mahapatra",
-      "Carmelo Sferrazza",
-      "Jiahui Lei",
-      "Jitendra Malik",
-      "C. Karen Liu",
-      "Ken Goldberg",
-      "Angjoo Kanazawa"
-    ],
-    "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during task execution, which we accomplish hierarchically by first training a low-level gaze servoing policy conditioned on a goal object, then training a target selector which emits fixation goals based on task progress. Both modules are trained with RL on real-world data: the first is trained with a dens",
-    "link": "http://arxiv.org/abs/2610.03710v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03709v1",
-    "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-    "authors": [
-      "Kuangyu Ding",
-      "Gesualdo Scutari"
-    ],
-    "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically use the network to mix or aggregate information to enable {\\it prescribed} local optimization updates. What this communication-centered viewpoint lacks is a general framework that uses graph structure to {\\it jointly} design the optimization subproblems and the cooperative computation and communication through which agents solve them cooperatively. We develop such a framework from first principles, jointly designing the linear representation of agreement constraints, the blocks of the resulting dual variabl",
-    "link": "http://arxiv.org/abs/2610.03709v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "math.OC",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.03702v1",
-    "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+    "id": "arxiv-2610.06829v1",
+    "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
     "authors": [
-      "Lyuxin David Zhang",
-      "Eric Wong",
-      "Surbhi Goel",
-      "Anton Xue"
+      "Yifan Zhang",
+      "Yutong Dai",
+      "Viraj Prabhu",
+      "Zhiyuan Hu",
+      "Ran Xu",
+      "Zeyuan Chen"
     ],
-    "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction of the cost? Conveniently, we find that output-layer gradients suffice for effective data selection, yet require only the cheaper forward pass. We implement this as LESSER, a drop-in wrapper for selection methods that reduces the feature-extraction FLOP cost by $9.7\\times$ for SFT and $3.0\\times$ fo",
-    "link": "http://arxiv.org/abs/2610.03702v1",
-    "publishedAt": "2026-10-02",
+    "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and cannot be assumed available at deployment. We introduce CLIFT, a training and test-time scaling method built around conformal self-verification. During training, the agent answers natural-language verification questions about its own rollouts; a Compositional Conformal Certifier keeps only question signals whose URL-conditional evidence agrees with a training-time judge, assigns signed trust weights through polarity-aware lift, and blends the resulting verifier score into per-step rewards in a w",
+    "link": "http://arxiv.org/abs/2610.06829v1",
+    "publishedAt": "2026-10-05",
     "categories": [
+      "cs.CL",
+      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.03695v1",
-    "title": "Language Models that Play Chess and Explain Their Moves",
+    "id": "arxiv-2610.06825v1",
+    "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
     "authors": [
-      "Adithya Bhaskar",
-      "Jeffrey Cheng",
-      "Danqi Chen"
-    ],
-    "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen, a 4B-parameter chess-language model that can explain its moves and plans while playing at the level of a typical Grandmaster. Our novel framework enables domain-specific reasoning through complementary components: an encoder-decoder architecture and an iterative distillation algorithm. This architecture integrates a silent expert chess encoder with an instruction-tuned LM through cross-attention, which we train via a question-answering curriculum to extract chess concepts from the encoder's rep",
-    "link": "http://arxiv.org/abs/2610.03695v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03693v1",
-    "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
-    "authors": [
-      "Jungkyu Park",
-      "Dhruva Biswas",
-      "Joseph Cappadona",
-      "Cerise Tang",
-      "Ken G. Zeng",
-      "Bartosz Machura",
-      "Chuwen Liu",
-      "Paolo Tarantino",
-      "Coral Omene",
-      "Francisco J. Esteva",
-      "Rohit Bhargava",
-      "Marcin Braun",
-      "Kamila Paździerz",
-      "Jakub Czerwiński",
-      "Hanna Romańska-Knight",
-      "Albert Grinshpun",
-      "Bareket Daniel",
-      "Michele Buchinger",
-      "Frederick Howard",
-      "Piotr Wysocki",
-      "Brie Chun",
-      "Freya Schnabel",
-      "Rich Caruana",
-      "Jan Witowski",
-      "Krzysztof J. Geras"
-    ],
-    "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression. This simplifies the second stage to predicting pCR from inferred expression and clinical variables. Developed using 1,080 patients (five cohorts) and evaluated in 1,412 patients (nine cohorts), the model achieves a pooled AUROC of 0.79 (95% CI, 0.73-0.85), discriminating responders within molecular subtypes. It outperforms histopathological biomarkers, remaining stable across intratumoral sampling and ",
-    "link": "http://arxiv.org/abs/2610.03693v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03679v1",
-    "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
-    "authors": [
-      "Fedor Sergeev",
-      "Markus Heinonen",
-      "Daniel Waxman",
-      "Tim Cooijmans",
-      "Ricardo Baptista",
-      "Dmitry Batenkov",
-      "Eli Bingham"
-    ],
-    "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wasserstein gradient flows are a common choice, but they cannot describe conservative or periodic dynamics. Lagrangian mechanics in Wasserstein space covers both, but existing methods for learning it are simulation-based: they run a numerical solver at every training step, which makes training expensive. We propose Double-Stitch, a simulation-free method that learns these mechanics by penalizing the residual of the equation of motion along a learned population path. We derive this equation from a Clebsch variational principle that does not require gradient ve",
-    "link": "http://arxiv.org/abs/2610.03679v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.LG",
-      "stat.ME",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03675v1",
-    "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-    "authors": [
-      "Hui Chen",
-      "Xuan Qi",
-      "James Xu Zhao",
-      "Zhaopeng Feng",
+      "Yaohui Zhang",
+      "Binxu Li",
+      "Haoyi Duan",
+      "Jiacheng Miao",
+      "Yixin Wang",
+      "Xinran Du",
+      "Chenyue Li",
       "Shilong Liu",
-      "Kuang Xu",
-      "Pang Wei Koh",
-      "Bryan Hooi"
+      "Kevin Wu",
+      "James Zou"
     ],
-    "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost. To this end, we propose FrugalEvo, a cost-aware evolutionary framework where a stronger, higher-cost LLM explores solution strategies, and a cheaper LLM implements them and iteratively refines the resulting code. We also design a cache-efficient evolution process, where our harness and prompts maximize the sharing of prefixes across different evolution steps, to improve cache reuse. To measure solution quality throughout a fixed cost budget, we introduce Budget-Aw",
-    "link": "http://arxiv.org/abs/2610.03675v1",
-    "publishedAt": "2026-10-02",
+    "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic charts or cover only a limited range of chart types. We introduce PlotGround, an automated pipeline for building plot digitization benchmarks from real scientific figures and their author-released source data. PlotGround maps figures to source tables, identifies reconstructable panels, and generates quantitative questions with source-grounded reference values. We use PlotGround to construct PlotGround-1k, a human-verified benchmark of 1,119 ",
+    "link": "http://arxiv.org/abs/2610.06825v1",
+    "publishedAt": "2026-10-05",
     "categories": [
-      "cs.NE",
-      "cs.AI",
-      "cs.CL"
+      "cs.CL",
+      "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2610.03667v1",
-    "title": "Planning to Learn",
+    "id": "arxiv-2610.06824v1",
+    "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
     "authors": [
-      "Ian Osband"
+      "Oliver Jaffe",
+      "Dane Sherburn"
     ],
-    "summary": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has none of them. A classifier is a policy whose expected reward, its \\emph{expected accuracy}, is the probability it assigns to the correct label, and because that label is known, the policy gradient is exact and smooth. Yet exact policy gradient loses to cross-entropy, even on expected accuracy. The exact gradient is myopic: it values an update only by what it buys now, but each update also sets where the next one starts, so an update's value depends on how much learning remains. Viewed this way, cross-entropy is patient accuracy, the total error an example would pay if its lo",
-    "link": "http://arxiv.org/abs/2610.03667v1",
-    "publishedAt": "2026-10-02",
+    "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; given a fixed research problem, we measure how well a model iteratively designs experiments and draws conclusions from their outcomes. We operationalize experimental research taste as compute efficiency; a Researcher who reaches the same score as an expert human using half the serial experimental compute has twice the experimental taste. Experimental taste thus acts as a multiplier on experimental compute, making it a key input to forecasts of AI progress. TasteVal consists of 8 novel, challenging",
+    "link": "http://arxiv.org/abs/2610.06824v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06823v1",
+    "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+    "authors": [
+      "Tanbin Islam Rohan",
+      "Pranjol Sen Gupta",
+      "Tanusree Debi",
+      "Nazmus Sakib"
+    ],
+    "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral descriptors with an intermediate Nightbeat-derived frequency anchor and a physics-motivated sub-harmonic feature designed to identify harmonic frequency lock-on. All inference-time features are derived from wrist accelerometry, while ECG is used only to construct reference HR labels and training-label quality weights. We evaluate SeqSmoother using 13 participant-disjoint held-out folds and compare it with the official Nightbeat implementation under",
+    "link": "http://arxiv.org/abs/2610.06823v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.LG",
-      "math.OC",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06822v1",
+    "title": "Private online learning and prediction for Littlestone classes",
+    "authors": [
+      "Amartya Sanyal"
+    ],
+    "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in online prediction, the learner only needs to make predictions without releasing a hypothesis. Using a novel lower bound for private online learning and an upper bound for private prediction, we show that the sample complexity of these two problems are separated by a factor that grows with the time horizon for every class of finite Littlestone dimension $d$. First, we prove that every $\\br{ε,δ}$-private online learner has a deterministic realisable stream of length $T$ on which the mistake bound is at least $\\bE\\bs{M_T}=\\Om{\\frac dε\\log\\br{ T}^{2/3}}$. In particular, this is ",
+    "link": "http://arxiv.org/abs/2610.06822v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2610.03665v1",
-    "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+    "id": "arxiv-2610.06817v1",
+    "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
     "authors": [
-      "Seo Hyun Kim",
-      "Sunwoo Hong",
-      "Younwoo Choi",
-      "Chen-Hao Chao",
-      "Se-Young Yun",
-      "Rahul G. Krishnan"
+      "Sahil Mahendrakar"
     ],
-    "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and shape much of the response. Most post-training recipes for dLMs do not use this signal to decide which tokens to train on: they typically train on the final text or assign rewards to whole denoising steps, rather than selecting the individual commitments that shape the response. We introduce Pivot-SD, an efficient offline self-distillation framework that supervises only these high-impact commitments (pivots). Pivot-SD selects pivots using an information-gain metric measuring uncertainty reduction ",
-    "link": "http://arxiv.org/abs/2610.03665v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03662v1",
-    "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
-    "authors": [
-      "Angel Wang",
-      "Dominique Perrault-Joncas",
-      "Alvaro Maggiar",
-      "Dean Foster",
-      "Carson Eisenach"
-    ],
-    "summary": "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new policy are not yet available. Simulation offers a way to address this gap by rolling out the target policy across counterfactual scenarios and using the resulting trajectories to learn how the system responds to those controls. The simulation-to-reality (Sim2Real) transfer of this simulator-trained model can then be backtested by evaluating it against real observations from past deployments. Using two real-world inventory-control deployments, we evaluate this process from three angles: simulator fidelity, zero-shot transfer to real behavior, and adaptation as real target-polic",
-    "link": "http://arxiv.org/abs/2610.03662v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03656v1",
-    "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
-    "authors": [
-      "Junyoung Koh",
-      "Hao-Wen Dong"
-    ],
-    "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with a linear short-time Fourier transform (STFT), whose frequency bins are directly provided as model inputs. Despite its fixed frequency resolution and the absence of a pitch-aligned input grid, the linear STFT outperforms HCQT while substantially reducing feature-extraction cost. Further analysis sho",
-    "link": "http://arxiv.org/abs/2610.03656v1",
-    "publishedAt": "2026-10-02",
+    "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of its two halves is trained separately against the frozen teacher. It has 10x fewer parameters and needs 15x less compute. We first synthesize a corpus with the teacher and keep its durations, pitch, energy and phoneme features. We then train a small text side to predict these values, and a small decoder to turn the teacher's saved values into the teacher's audio, first with spectral losses and then adversarially. Finally, we connect the two halves and quantize the weights to int8. It needs no alignment learning and no joint training, and it runs on one laptop. Stored in int8, ",
+    "link": "http://arxiv.org/abs/2610.06817v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.SD",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03651v1",
-    "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
-    "authors": [
-      "Sean Culatana",
-      "Shang-En Huang",
-      "Kang Li"
-    ],
-    "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We introduce Matryoshka Residual Vector Quantization (MRVQ), a post-hoc residual quantizer for frozen embeddings. Its maximum-rate code can be truncated two ways: dropping residual stages lowers the rate, and dropping embedding coordinates lowers the dimension. One resident artifact therefore serves every (dimension, rate) pair we evaluate. Across FiQA and NFCorpus, four embedding families, and {4, 8, 16}-byte codes, MRVQ is the lowest-RAM design we evaluate. It uses 17.8-22.0x less memory than three se",
-    "link": "http://arxiv.org/abs/2610.03651v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
       "cs.AI",
-      "cs.IR"
+      "cs.CL",
+      "cs.LG",
+      "eess.AS"
     ]
   },
   {
-    "id": "arxiv-2610.03650v1",
-    "title": "PoCoFL: POlicy-COmpliant Federated Learning",
+    "id": "arxiv-2610.06814v1",
+    "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
     "authors": [
-      "Dominik Roy George",
-      "Varesh Mishra",
-      "Aysajan Abidin"
+      "Xuanyu Lu",
+      "Fengqing Jiang",
+      "Kaiyuan Zheng",
+      "Yichen Feng",
+      "Yaorui Ding",
+      "Yuetai Li",
+      "Zhen Xiang",
+      "Bhaskar Ramasubramanian",
+      "Basel Alomair",
+      "Luyao Niu",
+      "Radha Poovendran"
     ],
-    "summary": "Federated Learning (FL) is a privacy-oriented learning paradigm that enables collaborative model training while keeping training data local to participating clients. However, it does not guarantee that clients submit policy-compliant contributions or that aggregators process admitted contributions correctly. Existing verifiable FL systems tailor validation rules to specific FL settings, learning workflows, and cryptographic constructions, limiting their applicability across network topologies, participant roles, and aggregation semantics. In this paper, we present PoCoFL, a policy-compliant federated learning framework that separates three aspects: (i) FL type, (ii) policy semantics, and (iii) cryptographic realisation. We provide a formalisation that captures client and aggregation requir",
-    "link": "http://arxiv.org/abs/2610.03650v1",
-    "publishedAt": "2026-10-02",
-    "categories": [
-      "cs.CR",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.03649v1",
-    "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
-    "authors": [
-      "Thomas Goudemant",
-      "Clotilde Szywala",
-      "Benjamin Francesconi",
-      "Michelle Aubrun",
-      "Yves Bobichon",
-      "Marjorie Bellizzi",
-      "Adrien Girard"
-    ],
-    "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (AI) have enhanced our capabilities for early detection and mitigation of such hazards. In this paper, we propose a marine event detection pipeline for Earth observation satellites equipped with multi- or hyperspectral sensors. Our approach includes a self-supervised neural network encoder that compresses satellite images into a reduced latent space, enabling efficient onboard processing. A machine learning anomaly detection model identifies deviations from normal sea patterns to detect environmental anomalies. We compare its performance against traditional algorithms such a",
-    "link": "http://arxiv.org/abs/2610.03649v1",
-    "publishedAt": "2026-10-02",
+    "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the visual representations used across tasks and action policies. Existing attacks on these models optimize against the victim's actions or predicted futures and therefore require access to target-model outputs. In this paper, we propose an attack, TAPDreamer, against world action models that instead uses a public encoder alone to construct a fixed local perturbation that transfers across tasks and action architectures. TAPDreamer requires no target-policy queries. Our key insight is that interactions between patch-induced changes in attention weights and value vectors broadca",
+    "link": "http://arxiv.org/abs/2610.06814v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.CV",
       "cs.AI",
-      "cs.LG"
+      "cs.RO"
     ]
   },
   {
-    "id": "arxiv-2610.03647v1",
-    "title": "Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models",
+    "id": "arxiv-2610.06810v1",
+    "title": "Finding Gaussian Structure in Bosonic States",
     "authors": [
-      "Maksym Tretiakov",
-      "Sarah Lucie Filipp",
-      "Vincent Fortuin",
-      "Ruth Misener",
-      "Ruby Sedgwick",
-      "James Odgers"
+      "Alvan Arulandu",
+      "Sitan Chen",
+      "Ziyun Chen",
+      "Jerry Li",
+      "Eric Ma"
     ],
-    "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of this learned manifold. One model that achieves this is the Gaussian Process Latent Variable Model, in which a Gaussian Process (GP) mapping from the latent space provides an estimate of the uncertainty of the manifold. However, the effectiveness of this uncertainty estimation is limited by the mean-field variational approximation between the GP inducing points and the latent variables. In this work, we apply Amortized Structured Stochastic Variational Inference to allow the variational posterior for the latent space to be conditionally dependent on the value of the inducing points. We demonstrat",
-    "link": "http://arxiv.org/abs/2610.03647v1",
-    "publishedAt": "2026-10-02",
+    "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, where $\\mathrm{opt}$ is the minimum infidelity achievable by any pure Gaussian state. We give efficient protocols achieving this in both the high and low fidelity regimes. When $\\mathrm{opt}$ is below some universal constant, our protocol has runtime and copy complexity which is strongly polynomial in $n, 1/ε$ and $\\log \\log E$, where $E$ is the energy of the closest pure Gaussian state. For arbitrary $\\mathrm{opt}$, our protocol uses $(n+1)^{\\mathrm{poly}(1/ε)} \\mathrm{poly}\\left(1+\\log\\log(E)\\right)$ copies and runtime. As a corollary, we obtain the first truly tolerant G",
+    "link": "http://arxiv.org/abs/2610.06810v1",
+    "publishedAt": "2026-10-05",
     "categories": [
-      "stat.ML",
-      "cs.LG"
+      "quant-ph",
+      "cs.DS",
+      "cs.LG",
+      "math-ph"
     ]
   },
   {
-    "id": "arxiv-2610.03646v1",
-    "title": "When May a Bandit Leave Its Anchor? E-Process-Authorized Thompson Sampling under Non-stationarity",
+    "id": "arxiv-2610.06809v1",
+    "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
     "authors": [
-      "Mayand Gulati",
-      "Kerong Wang",
-      "WeiChen Au"
+      "Emre Acartürk",
+      "Pranamya Kulkarni",
+      "Puranjay Datta",
+      "Karthikeyan Shanmugam",
+      "Burak Varıcı",
+      "Ali Tajer"
     ],
-    "summary": "Stationarity rewards memory, but after a change the same history can mislead. We ask when forgetting should be permitted. E-process-authorized Thompson sampling (e-ATS) gives each arm full-history and discounted Beta states. An anytime-valid e-process first authorizes the discounted state, then a reversible relevance score controls its influence. Before authorization, e-ATS exactly follows optimistic Thompson sampling (OTS). Under a Beta-Bernoulli prior-predictive stationary model, e-ATS's probability of ever departing from OTS is at most the chosen $α_E$, without fitted thresholds. Relative to e-ATS, removing authorization increased mean normalized dynamic pseudo-regret by $38.4\\%$ on the registered suite but reduced it by $7.5\\%$ on the literature-derived replay suite. Therefore, evidenc",
-    "link": "http://arxiv.org/abs/2610.03646v1",
-    "publishedAt": "2026-10-02",
+    "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications where data labels are unavailable or impractical to obtain. While there has been significant progress in understanding the identifiability guarantees of CRL, such guarantees often hold under highly stylized assumptions, which temper the direct application to real-world problems. This paper has a two-fold objective for interventional CRL. First, it establishes identifiability guarantees for substantially weaker interventional assumptions, resulting in block disentanglement of the causal variables, where the block structure depends on the realistically available intervention me",
+    "link": "http://arxiv.org/abs/2610.06809v1",
+    "publishedAt": "2026-10-05",
     "categories": [
       "cs.LG",
       "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06805v1",
+    "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+    "authors": [
+      "Wancong Zhang",
+      "Basile Terver",
+      "Michael Rabbat",
+      "Yann LeCun",
+      "Randall Balestriero"
+    ],
+    "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in one shared latent space. We introduce H-JEPA, an end-to-end recipe for training a hierarchy of action-conditioned JEPAs in which each level predicts farther ahead in its own learned latent space. Planning proceeds top-down: the top level optimizes progress toward the goal, and each level's predictions become subgoals for the planner below it. When factors in the data evolve at separated timescales, higher levels discard fast, unpredictable detail and retain slower task-relevant state. Across four simulated navigation and manipulation environments, hierarchical planning impr",
+    "link": "http://arxiv.org/abs/2610.06805v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2610.06804v1",
+    "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+    "authors": [
+      "Erfan Baghaei Potraghloo",
+      "Seyedarmin Azizi",
+      "Arya Fayyazi",
+      "Saeid Shokoufa",
+      "Mehdi Kamal",
+      "Souvik Kundu",
+      "Massoud Pedram"
+    ],
+    "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most likely (sharpening). Sampling from it improves reasoning without changing parameters, but needs many scored candidates per query. We show that a model can instead be trained to produce such answers in one generation. On-policy power distillation (OPPD) runs a sequential Monte Carlo sampler in which the model being trained generates candidates and a frozen teacher's power distribution weights them; the same probabilities weight each answe",
+    "link": "http://arxiv.org/abs/2610.06804v1",
+    "publishedAt": "2026-10-05",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
     ]
   }
 ];
@@ -965,4 +985,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-05T23:40:43.344Z';
+export const dataFetchedAt = '2026-10-06T04:40:16.457Z';
