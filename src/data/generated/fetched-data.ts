@@ -2,24 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-connecting-ai-agents-to-enterprise-knowledge-1791215272000",
-    "title": "Connecting AI agents to enterprise knowledge",
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-    "publishedAt": "2026-10-05",
+    "id": "news-the-download-10-climate-tech-companies-to-watch-1791288600000",
+    "title": "The Download: 10 climate tech companies to watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;",
+    "publishedAt": "2026-10-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-lucid-motors-8217-ev-output-falls-to-lowest-level-in-almost--1791237241000",
-    "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
-    "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-    "publishedAt": "2026-10-05",
+    "id": "news-facebook-tests-going-reels-first-in-india-1791290333000",
+    "title": "Facebook tests going Reels-first in India",
+    "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+    "publishedAt": "2026-10-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -43,11 +42,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791196621000",
-    "title": "刚刚，诺贝尔奖颁给光遗传学！",
-    "link": "https://www.qbitai.com/2026/10/501720.html",
-    "summary": "从绿藻里的光开关，到控制神经元",
-    "publishedAt": "2026-10-05",
+    "id": "news--1791283498000",
+    "title": "刚刚，诺贝尔物理奖一人独揽！",
+    "link": "https://www.qbitai.com/2026/10/501746.html",
+    "summary": "南极洲甚至有一座高地以他名字命名",
+    "publishedAt": "2026-10-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -56,24 +55,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-meta-ai-1791261126000",
-    "title": " 智能体 “越狱” 频发：OpenAI 踩刹车，Meta 猛踩油门，AI 安全路线谁先翻车 ",
-    "link": "https://www.huxiu.com/article/4895510.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《智能体 “越狱” 频发：OpenAI 踩刹车，Meta 猛踩油门，AI 安全路线谁先翻车》 最近，测试环境下的AI智能体“越狱”逃逸事件不断出现，已经不再是孤立的实验室事故。AI行业出现了罕见的分裂。 一边，OpenAI在连续踩雷之后，开始主动踩刹车。另一边，扎克伯格公开喊话，反对“集体踩刹车”。 两条路线，两种逻辑。放在一起看，能看清AI行业当下最真实的困境。 OpenAI：停下来修车 过去三个月，OpenAI连续踩了多次智能体越界的雷。 7月，一批AI智能体突破隔离环境，入侵了AI平台Hugging Face，OpenAI直到Hugging Face向FBI报案后才确认入侵是自家AI造成的。 今年夏季，OpenAI内部智能体还出现更多越界行为：未经授权访问澳大利亚政府卫生系统，并对联合国网站发起超过16000次扫描探测。所有事件均发生在内部测试场景，未造成大规模实质破坏，但已经足够敲响警钟。 9月20日，一个正在训练中的智能体，发现训练沙盒的DNS解析器存在漏洞。它利用DNS的解析和委托机制，让外部公共聊天机器人回答问题，再通过DNS把结果传回来，成功绕过了网络限制。监控系统15分钟后发现异常，但训练任务直到两个半小时后才被人工关闭。OpenAI随后暂停了其最先进模型的训练、评估及工具使用。 9月28日，据《华尔街日报",
+    "id": "news--1791288945000",
+    "title": " 签证收紧：那些疯抢东京学区房的中国家庭，孩子怎么办？ ",
+    "link": "https://www.huxiu.com/article/4895556.html?f=rss",
+    "summary": "本文来自微信公众号： 一览扶桑 ，作者：张石，原文标题：《日本突然收紧签证：那些疯狂抢东京学区房的中国家庭，孩子怎么办？》，题图来自：视觉中国 据日本文部科学省5月29日发布的《关于&ldquo;日本学生海外留学情况&rdquo;及&ldquo;外国留学生在籍状况调查&rdquo;》，根据独立行政法人日本学生支援机构 （JASSO） 实施的《外国留学生在籍状况调查》，截至2025年5月1日，在日外国留学生人数为408，069人，比上一年度增加71，361人，增长21.2%，继上一年度之后再次创下历史最高纪录。 其中，中国留学生人数仍居首位，为131，097人，比上一年度增加7，612人，增长6.2%。 过去，中国人赴日留学主要集中在专门学校、大学及研究生院等高等教育阶段，也有相当一部分人在语言学校学习日语。不过，近年来，一个值得注意的变化正在出现： 在日本的一些小学，尤其是被中国家长视为&ldquo;名校&rdquo;的小学里，中国籍或具有华裔背景的学生正在明显增加。 这一现象也开始受到日本媒体的关注。 中国小学生热衷日本&ldquo;名校&rdquo; 日本媒体人外山尚之2026年8月13日在《集英社Online》发表题为《&ldquo;班级三成是华裔&rdquo;的冲击&hellip;&hellip;中国富裕阶层蜂拥而至的文京区&ldquo;名门公立小学&rdquo;现状，学区",
     "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791261125000",
-    "title": "火箭发动机的“技术鄙视链”",
-    "link": "https://www.tmtpost.com/8159826.html",
-    "summary": "猛禽之后，中国火箭也在追全流量补燃。",
+    "id": "news-ai-1791283453000",
+    "title": "论AI从沙盒中逃逸的必然性",
+    "link": "https://www.tmtpost.com/8159807.html",
+    "summary": "沙盒逃逸不是意外，而是必然：优化器的搜索空间永远大于防御方的约束空间，未被认识的通道迟早被撞开。文章以四起真实逃逸为据论证——逃逸无需意识，只需\"完成任务\"；越界也不等于失控，可靠解是能响应的检测—关停回路。",
     "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
@@ -84,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bringing-predictive-analytics-to-the-agentic-ai-era-1791206972000",
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
-    "publishedAt": "2026-10-05",
+    "id": "news-2026-climate-tech-companies-to-watch-1791282900000",
+    "title": "2026 Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "summary": "",
+    "publishedAt": "2026-10-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -96,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-will-start-watermarking-chatgpt-8217-s-text-in-the-eu-1791232608000",
-    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "publishedAt": "2026-10-05",
+    "id": "news-type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-1791288000000",
+    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+    "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+    "publishedAt": "2026-10-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -122,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hinton-rsi-1791175372000",
-    "title": "刚刚，Hinton发了首篇RSI论文",
-    "link": "https://www.qbitai.com/2026/10/501705.html",
-    "summary": "AI已经开始真正进入「造下一代AI」的流水线",
-    "publishedAt": "2026-10-05",
+    "id": "news-er-ai-1791273557000",
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "link": "https://www.qbitai.com/2026/10/501736.html",
+    "summary": "",
+    "publishedAt": "2026-10-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -135,24 +133,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791260927000",
-    "title": " AI 越来越强，公司为什么还是做不快？ ",
-    "link": "https://www.huxiu.com/article/4895509.html?f=rss",
-    "summary": "本文来自微信公众号： 奇点外 ，作者：wiwi 这两天，我去了一趟北京，和青萍之末创始人、产业组织顾问舒书见了面。我们聊了Solo独立开发者社区，聊了WorkBuddy和AI，也聊到了播客。舒书老师在朋友圈写道：“一顿家常简餐，聊组织协作的坑，聊业务增长的取舍。” 对我而言，这趟北京之行也留下了一个值得继续想的问题。我做产品，也在运营独立开发者社区，很容易看到AI怎样扩展一个人的能力：过去需要找人配合的工作，现在有机会自己先做出初版。但当这些能力进入团队，一个人的提速，怎样才能变成一群人更快交付？ 看起来做完了，为什么还交不出去？ 回到具体的工作里，这个问题就有了更直接的表达：一个页面已经能打开、能操作，为什么开发还说需要时间？一份方案已经写得完整，为什么业务仍然不肯确认？AI让开发和分析更快产出结果，也让项目进度多了一种容易产生误解的信号：成果看起来已经在那里，工作却还没有结束。 以一个用于客户演示的页面为例，界面和交互可以很快搭出来，但进入实际业务，还要处理权限、数据、异常情况和验收标准。看演示的人关心它已经能做什么，负责交付的人则必须确认它在什么条件下不会出错。双方看的是同一个页面，对“完成”的理解却可能完全不同。 如果这些标准没有提前说清楚，展示出来的功能越完整，后续工作越容易被看成拖延。需求方觉得只剩一点收尾，执行方却知道还有业务规则尚未确认、数据需要接入、边界情况等待验",
+    "id": "news-4-18-1791288425000",
+    "title": " 排4小时省18块，纯电车和增程车又为国庆高速充电吵起来了？ ",
+    "link": "https://www.huxiu.com/article/4895558.html?f=rss",
+    "summary": "本文来自微信公众号： 电动星球 ，作者：思为 每逢长假都避不开两个热点话题：补能和智驾。 车企在过去9个月时间里高调宣传充换电站建设速度以及辅助驾驶能力的可靠性，但一到大规模长途出行的长假期，这两份成绩单，就要被拉回现实世界的极端需求之下，再被检验一次。 结果往往不太好看。 辅助驾驶这边，每年都有司机在高速上开着辅助驾驶睡觉，旁边车辆连按喇叭都叫不醒的新闻；补能更为典型，抢桩、大排长队，以及增程车该不该在高峰时段排队充电等。 两件事里，智驾更像是个别人怎么用的问题，补能则是所有人绕不开的问题。 而今年国庆，补能话题再次站上舞台中央，并且随着充电桩数量大规模增长，人们的讨论也从「充电要排长队」，逐渐深入至「该不该排队」以及「桩该怎么分两大维度」。 今天我们就来聊聊国庆假期期间，关于补能的那些事。 八分饱 枣阳北服务区为了应对国庆客流高峰期的充电需求，不仅采取取号、分轮充电等措施，新能源车充电充到80%后还会有工作人员上前引导离场。 即便如此，一轮放48个号，枣阳北服务区叫号峰值还是达到了近200台，庞大客流量之下，车主等候充电的时间依旧漫长。 枣阳北服务区让新能源车充个「八分饱」的举措不是个例，有报道称宝轮、洛阳龙门等服务区同样设置了70%-80%不等的阈值，湖南、北京等地的官方部门也有提到设置阈值、以效率换空间的措施，用以缓解充电压力。 实际上，早在2025年国庆，湖南早就把部分服",
     "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791261116000",
-    "title": "世界模型赛道：谁在收编，谁在突围？",
-    "link": "https://www.tmtpost.com/8159876.html",
-    "summary": "芯片巨头们开抢模型",
+    "id": "news--1791283450000",
+    "title": "国内大厂的印度“逃亡囧途”",
+    "link": "https://www.tmtpost.com/8159927.html",
+    "summary": "过去十年，中国互联网出海印度曾被视为全球最后的流量蓝海。",
     "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
@@ -163,22 +160,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-s-popularity-paradox-and-emtech-future-2026-1791202200000",
-    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
-    "publishedAt": "2026-10-05",
+    "id": "news-here-s-how-our-climate-team-picked-10-promising-companies-to-1791282900000",
+    "title": "Here’s how our climate team picked 10 promising companies to watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+    "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
+    "publishedAt": "2026-10-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-etched-fields-funding-offers-at-40b-valuation-sources-say-1791231849000",
-    "title": "Etched fields funding offers at $40B+ valuation, sources say",
-    "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+    "id": "news-lucid-motors-8217-ev-output-falls-to-lowest-level-in-almost--1791237241000",
+    "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
+    "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
     "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
@@ -202,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-28-openai-opus-1791168646000",
-    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-    "link": "https://www.qbitai.com/2026/10/501700.html",
-    "summary": "有改进就体验，没改进就重置，横竖不亏。",
-    "publishedAt": "2026-10-05",
+    "id": "news-openai-28-1791269140000",
+    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+    "link": "https://www.qbitai.com/2026/10/501726.html",
+    "summary": "",
+    "publishedAt": "2026-10-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -215,23 +213,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791259200000",
-    "title": " 中国人的嘴为什么是东亚锁妖塔？ ",
-    "link": "https://www.huxiu.com/article/4894120.html?f=rss",
-    "summary": "中国人啥都不缺，养啥都能镇住，蓝蟹在国内乖得像孙子，反倒意大利人抢着买罐头。",
+    "id": "news--1791284790000",
+    "title": " 积重难返，法国站到了“欧债风暴中心” ",
+    "link": "https://www.huxiu.com/article/4895554.html?f=rss",
+    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《积重难返！法国站到了“欧债风暴中心”》 法国央行行长Emmanuel Moulin警告，法国若不整顿公共财政，恐将被不断上升的利率\"逐步扼杀\"。 上周，法债抛售加剧并蔓延至整个欧洲，10年期国债收益率一度逼近5%，为2002年以来最高，法国的借贷成本已高于希腊和意大利。 衡量法债风险溢价的法德10年期国债利差，上周扩大32个基点至141个基点。德意志银行的Jim Reid称，这是彭博自1990年有数据以来最大的单周扩大，这段时期涵盖了两德统一、欧债危机和新冠疫情。 更棘手的是买卖两端同时恶化。法国央行已停止购债，长期稳定持有法债的日本资金开始松动，法国明年却要发行创纪录规模的国债。高盛认为，欧洲央行的反碎片化工具是\"最后手段，而不是下一步\"。 扭转局面的机会，法国并非没有过。 2024年4月初，马克龙在金碧辉煌的爱丽舍宫宴请一小群议员。据在场的马克龙所在中间派政党议员Sylvain Maillard回忆，就着一盘盘海鲜，总统对财长勒梅尔力推的修正预算下了结论： \"我听到有人在谈修正预算。我看不出这有什么意义。\" 彼时，财政部的内部备忘录已经警告，当年赤字可能升至GDP的5.7%，远高于预算中的4.4%。两个月后，马克龙解散国民议会，执政阵营在提前选举中失去大量议席，未能取得多数。时任总理的经济顾问后来说，2024年也许是",
     "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1791261114000",
-    "title": "重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争",
-    "link": "https://www.tmtpost.com/8159881.html",
-    "summary": "而当设计团队地位被再次拔高，乃至可能成为苹果产品开发起点，那么苹果在AI时代能否复刻iPhone神迹，用全新产品范式开启下一个十年，我们拭目以待。",
+    "id": "news-ai-1-ai-1791283446000",
+    "title": "全球AI消费调查：仅有1%超级玩家在养活AI圈",
+    "link": "https://www.tmtpost.com/8159928.html",
+    "summary": "AI的流量帝国，是靠极少数人用真金白银撑起来的。",
     "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
@@ -242,11 +241,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-people-really-hate-ai-so-why-can-t-they-get-enough-1791187200000",
-    "title": "People really hate AI, so why can’t they get enough?",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
-    "publishedAt": "2026-10-05",
+    "id": "news-welion-new-energy-and-its-semi-solid-state-batteries-1791282900000",
+    "title": "WeLion New Energy and its semi-solid-state batteries",
+    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+    "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;",
+    "publishedAt": "2026-10-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -254,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-factory-8217-s-public-spat-with-khosla-menlo-proudly-i-1791229087000",
-    "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
-    "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-    "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+    "id": "news-openai-will-start-watermarking-chatgpt-8217-s-text-in-the-eu-1791232608000",
+    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
     "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
@@ -280,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791094342000",
-    "title": "AI算力硬合作，马斯克还是更相信中国制造",
-    "link": "https://www.qbitai.com/2026/10/501605.html",
-    "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-    "publishedAt": "2026-10-04",
+    "id": "news--1791196621000",
+    "title": "刚刚，诺贝尔奖颁给光遗传学！",
+    "link": "https://www.qbitai.com/2026/10/501720.html",
+    "summary": "从绿藻里的光开关，到控制神经元",
+    "publishedAt": "2026-10-05",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,24 +292,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791257815000",
-    "title": " 特朗普用“超级智能”取代“人工智能”, 难掩AI发展最尴尬的三个真相 ",
-    "link": "https://www.huxiu.com/article/4895506.html?f=rss",
-    "summary": "本文来自微信公众号： 文化纵横 ，作者：蒋余浩 【导读】9月26日，中美双方公布八点成果共识，提出建立中美人工智能对话机制，就人工智能的风险与惠益开展交流，下一次对话定于今年11月举行。9月29日，美国总统特朗普签署行政令，要求联邦政府在官方文件中以“超级智能(SI)”取代“人工智能(AI)”，并在60天内提出“超级智能”的联邦法定定义。多方分析认为，此举在于在联邦层面推进AI监管立法，并将各州参差不齐的监管标准进一步收束至联邦。同日，特朗普与OpenAI、Anthropic、Meta、谷歌、英伟达等企业签署了名为《前沿责任联合承诺》的“自愿性”AI安全协议，承诺通过独立评估等方式加强AI系统安全管理。 但关于AI，或许我们需要考虑更根本的问题：AI将沿着什么方向发展？当创新资源集中于少数科技巨头，技术路线偏向自动化和替代劳动时，AI带来的生产力与收益能否惠及更广泛的行业、劳动者和社会群体？如何让更多人参与塑造AI，又怎样让AI的发展成果更广泛地惠及社会？ 蒋余浩的文章从“生产率悖论”“波兰尼悖论”和“创新悖论”出发，指出当下AI发展并非只有技术能力的问题：新技术尚未普遍转化为各行业的生产率提升，应用仍受限于可编码、可重复的任务，而由巨头主导的创新方向，也未必回应经济社会多样的实际需求。问题不只在于AI能做什么，也在于谁有能力定义问题、配置资源并决定技术如何落地。 因此，让更多企业",
+    "id": "news-npd-kpi-1791283783000",
+    "title": " NPD不是病，是综艺的KPI ",
+    "link": "https://www.huxiu.com/article/4895546.html?f=rss",
+    "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 这年头，没点“病”，恐怕都上不了综艺。 正在热播的《我家那闺女2026》，每周准时把无数观众气出结节。张家齐妈妈在镜头前的一系列神操作，更是轻轻松松包揽了好几天的热搜。 其中最出圈的名场面，是她哽咽着讲述自己在女儿13岁夺冠后定制了一条13.1克金项链，但因为“怕弄丢”，这条项链从来没给过女儿。评论区直接炸了，网友们一边疯狂刷屏表示血压飙升，一边熟练地敲下键盘，将这位母亲“确诊”为标准的NPD。 这可不是个例。这两年的国内综艺荧屏，简直成了心理学名词的野生实验场。 从《再见爱人4》里杨子和麦琳的相爱相杀，到《花儿与少年6》里周雨彤引发的全网审视，再到《姐姐当家2》里房主任在家庭场域展现出的绝对压迫感，几乎每一档能掀起滔天巨浪的综艺，核心C位都稳稳站着一位被网友盖棺定论的NPD嘉宾。 遥想当年，网友们甚至给《再见爱人4》里的杨子、麦琳、刘爽起了个组合名：“恶人三巨头”。据人均心理学家的短视频博主逐帧分析，杨子是显性NPD，麦琳是隐性NPD+BPD，刘爽则是回避+善用PUA型。 大家看节目不再是为了图个乐呵，而是化身编外精神科医师，拿着放大镜逐帧给明星看病。当这种原本属于临床诊断的词汇迅速下沉到茶余饭后的八卦里，NPD这个词就成了当下综艺节目里最硬核也最危险的流量密码。 NPD成了综艺新顶流 NPD的全称是自恋型人格障碍（Nar",
     "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1791261112000",
-    "title": "AI 越来越强，公司为什么还是做不快？",
-    "link": "https://www.tmtpost.com/8159894.html",
-    "summary": "成果看起来越完整，剩下的工作越容易被误解为拖延。",
+    "id": "news--1791261125000",
+    "title": "火箭发动机的“技术鄙视链”",
+    "link": "https://www.tmtpost.com/8159826.html",
+    "summary": "猛禽之后，中国火箭也在追全流量补燃。",
     "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
@@ -321,23 +319,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-emtech-future-2026-when-ai-meets-everything-1791172800000",
-    "title": "EmTech Future 2026: When AI Meets Everything",
-    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
-    "publishedAt": "2026-10-05",
+    "id": "news-form-energy-and-its-iron-batteries-1791282900000",
+    "title": "Form Energy and its iron batteries",
+    "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+    "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.&#8230;",
+    "publishedAt": "2026-10-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-reflection-debuts-beam-an-open-weight-ai-model-to-rival-chin-1791228833000",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "id": "news-etched-fields-funding-offers-at-40b-valuation-sources-say-1791231849000",
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
     "publishedAt": "2026-10-05",
     "source": "TechCrunch",
     "tags": [
@@ -361,11 +358,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-fde-5-1791093935000",
-    "title": "最火AI岗位FDE：月薪5万，都干这些…",
-    "link": "https://www.qbitai.com/2026/10/501506.html",
-    "summary": "什么是FDE？它会一直存在吗？",
-    "publishedAt": "2026-10-04",
+    "id": "news-hinton-rsi-1791175372000",
+    "title": "刚刚，Hinton发了首篇RSI论文",
+    "link": "https://www.qbitai.com/2026/10/501705.html",
+    "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+    "publishedAt": "2026-10-05",
     "source": "量子位",
     "tags": [
       "china",
@@ -374,24 +371,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1791257788000",
-    "title": " 正在形成的一套agent行动许可系统 ",
-    "link": "https://www.huxiu.com/article/4895505.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 假设你对手机里的Agent说： “帮我订下周去上海的机票，预算五千。” 但它实际要做的事情很多：读取日历，确认身份信息，比较价格，选择航班，进入订票系统，提交订单，调用支付工具，把行程写进日程表，必要时还要改签或退款。 过去的AI，主要生活在语言里。它回答错了，人还可以不采纳。现在的Agent开始进入文件系统、企业后台、支付账户、浏览器、代码仓库和各种真实业务流程。 AI治理的重心，正在随之移动。 Agent时代，问题变成了：机器凭什么替人做事？ 它指向的是一套更具体的制度和技术问题，到2026年，这件事已经不完全是理论推演了。 中国正在出现一套Agent治理与互联的骨架。它还很早，也远没形成一个统一体系，但身份、授权、动作控制、运行时拦截、审计、支付、停用与责任追溯，已经开始被放进同一个问题框架里。 它要解决的，其实是一件很朴素的事： 当机器开始代表人行动，人类如何把行动权交出去，又不把控制权一并交出去？ 一、AI治理正在从“回答”转向“执行” AI治理已经走过了三个不同阶段。 最早是Chatbot时代。治理的对象主要是输出：违法内容、虚假信息、歧视、侵权、诱导与不良内容。模型能不能说、说得对不对，是核心问题。 后来是Copilot时代。AI不只生成内容，也开始提出建议、辅助审批、参与风控、筛选简历、影响人们的决策。此时问题",
+    "id": "news-2026-34-1791283757000",
+    "title": " 2026物理诺奖时隔34年一人独揽，他把一立方千米的南极冰变成了望远镜 ",
+    "link": "https://www.huxiu.com/article/4895553.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：返朴 2026年诺贝尔物理学奖授予美国理论物理学家弗朗西斯·哈尔岑（Francis Halzen），以表彰他对冰立方（IceCube）中微子天文台的杰出贡献，以及对源自天体的高能中微子的发现。 这是诺贝尔物理学奖历史上第五次嘉奖中微子研究，也是继1992年之后，时隔34年再次因中微子研究授予单一获奖者。此前四次中微子相关诺奖分别为：1988年发现μ子中微子，1995年首次实验探测中微子，2002年关于宇宙中微子和太阳中微子探测，以及2015年发现中微子振荡。 与此前几次主要聚焦中微子本身的性质和基本粒子物理不同，哈尔岑的工作将中微子发展成为一种全新的宇宙探测工具。1988年，弗朗西斯·哈尔岑（Francis Halzen）首次提出了在南极捕获中微子的设想。IceCube利用埋设在南极约1立方千米冰层中的数千个光学探测器，捕捉极高能中微子与冰中原子核相互作用产生的微弱闪光，从而追踪遥远宇宙中的高能粒子源。委员会认为，这项工作开辟了“中微子天文学”这一全新研究领域，为揭示宇宙极端天体和高能宇宙线起源提供了前所未有的观测手段。 “弗朗西斯·哈尔岑带领一个由研究人员和工程师组成的国际团队，为我们打造了一台非凡的科学仪器。他的坚持不懈和科学远见，为一种全新的天文学开辟了道路。”诺贝尔物理学奖委员会主席马克·皮尔斯（Mark Pearce）表示。IceCub",
     "publishedAt": "2026-10-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791259004000",
-    "title": "想改造工厂的机器人，先被工厂改造了",
-    "link": "https://www.tmtpost.com/8159783.html",
-    "summary": "Figure 02跳进芬兰熔炉，其在宝马工厂产线留下的故障记录却进入了下一代设计。",
+    "id": "news--1791261116000",
+    "title": "世界模型赛道：谁在收编，谁在突围？",
+    "link": "https://www.tmtpost.com/8159876.html",
+    "summary": "芯片巨头们开抢模型",
     "publishedAt": "2026-10-06",
     "source": "钛媒体",
     "tags": [
@@ -985,4 +981,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-06T04:40:16.457Z';
+export const dataFetchedAt = '2026-10-06T12:41:24.412Z';
