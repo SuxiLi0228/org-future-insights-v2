@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-expands-audiobooks-to-over-180-markets-1791356400000",
-    "title": "Spotify expands audiobooks to over 180 markets",
-    "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-    "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -27,23 +27,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-shrm-service-dog-trial-begins-with-plaintiff-s-dog-by-her-si-1791318660000",
-    "title": "SHRM service dog trial begins — with plaintiff’s dog by her side",
-    "link": "https://www.hrdive.com/news/shrm-service-dog-trial-begins-disability-discrimination/832271/",
-    "summary": "The HR giant&rsquo;s second jury trial in under a year is a reminder that &ldquo;how you react matters so very much,&rdquo; Ashley Herd, former co-host of the HR Besties podcast, told HR Dive.",
-    "publishedAt": "2026-10-06",
+    "id": "news-supreme-court-sidesteps-employment-law-cases-on-disability-b-1791406920000",
+    "title": "Supreme Court sidesteps employment law cases on disability bias, vaccines",
+    "link": "https://www.hrdive.com/news/supreme-court-sidesteps-disability-bias-vaccines/832427/",
+    "summary": "Appeals courts have taken up several issues that the justices have so far refused to weigh in on during the new term.",
+    "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-ai-1791372887000",
-    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-    "link": "https://www.qbitai.com/2026/10/501803.html",
+    "id": "news-25-95-1791382233000",
+    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "link": "https://www.qbitai.com/2026/10/501825.html",
     "summary": "",
     "publishedAt": "2026-10-07",
     "source": "量子位",
@@ -54,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791375403000",
-    "title": " 现在的孩子心理问题变多了，真的是他们太脆弱了吗？ ",
-    "link": "https://www.huxiu.com/article/4895665.html?f=rss",
-    "summary": "本文来自微信公众号： 家姻心理 ，责编：杨涛屹，编辑：张嘉仪，作者：家姻心理 不知道大家有没有这样的感觉—— 以前，班里好像只有极少数孩子会因为情绪问题去医院。而现在，焦虑、抑郁、休学的现象越来越频繁地出现。 不少家长忍不住感叹：“现在的孩子是不是太脆弱了？” 学习压力大一点就焦虑，和同学闹矛盾就情绪低落，挨一句批评就崩溃……好像这一代孩子，比我们小时候更容易扛不住。 “现在孩子的条件比我们当年好太多了，他们怎么反而不快乐了？” 真的是孩子变脆弱了吗？ Su和Liu（2022）在一项覆盖1989年到2018年、涉及超过10万名中国青少年的元分析研究中发现：问题可能不在孩子身上。 01 整体趋势： 孩子的心理状态真的变了 01 30年，青少年平均抑郁水平整体攀升了近30个百分位 Su和Liu（2022）对102项研究、127个数据点进行了跨时间的元分析，共涉及104,187名中国青少年。 结果发现：从1989年到2018年，中国青少年的平均抑郁水平从43.53分上升到50.84分。 单看数字，也许很难感受到这种变化有多大。于是，研究者又做了一个更直观的换算： 如果把1989年青少年的平均水平看作处于人群中的中间位置，那么，2018年青少年的平均水平已经接近当时分布中的第78百分位——相当于整体向更高抑郁水平的方向移动了近30个百分位。 变化的不只是少数孩子，整个青少年群体的心理状态，",
+    "id": "news--1791389263000",
+    "title": " 贵的是通道：中东战火重写全球石油版图 ",
+    "link": "https://www.huxiu.com/article/4895696.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 9月下旬，布伦特原油再次站上每桶100美元，美国WTI原油却明显落在后面，两大基准的价差一度超过12美元。与此同时，沙特修复东西输油管道、恢复红海装船的消息，又迅速推动油价回落。 市场反复追问的，已经从哪里还能多采一些油，变成哪条路线还能稳定交货。 战前，世界还在讨论石油供应过剩，担心新能源替代与需求放缓会让产油国承受长期压力。战争爆发后，油田里的产量并没有突然消失，能够按时抵达炼厂的供应却大幅减少。地下的储量、油田的产能与买家手中的现货，原来隔着这么长的一段距离。 从供需结构看，石油属于买方市场，因为全球拥有相当充裕的资源和潜在生产能力，但在特定时间、特定地点，能够交付的原油仍会短缺。眼下油价上涨，既包含真实的供应损失，也包含运输、保险和交货风险的重新定价。 理解这一区别，才能看懂中东战争如何改变美国的出口机会、俄罗斯的收入分配，以及整个世界的能源安全逻辑。 通道 过去几年，油价逐渐表现出某种“地缘免疫”。中东传来冲突消息，市场短暂上涨，随后又回到需求、库存和产量的基本面。美国页岩油扩大供应，其他产油国增加产能，OPEC+保留备用生产能力，都让市场相信，即使某处出了问题，也有人能够补上。 这套判断有一个隐含前提，备用产能总是能在需要的时候快速进入市场。霍尔木兹危机恰好击中了这个前提。全球可迅速动用的剩余产能，很大一部分集中在海湾。",
     "publishedAt": "2026-10-07",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791366158000",
-    "title": "可灵上市，快手如何自洽",
-    "link": "https://www.tmtpost.com/8160242.html",
-    "summary": "可灵的“去宿华化”。",
+    "id": "news--1791375869000",
+    "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
+    "link": "https://www.tmtpost.com/8160336.html",
+    "summary": "未来绿泡泡能否承载腾讯给它的使命，还需要时间来验证。",
     "publishedAt": "2026-10-07",
     "source": "钛媒体",
     "tags": [
@@ -93,36 +92,36 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-find-out-if-amazon-thinks-you-have-8216-flat-buttocks-1791327339000",
-    "title": "How to find out if Amazon thinks you have &#8216;flat buttocks&#8217;",
-    "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-    "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-    "publishedAt": "2026-10-06",
+    "id": "news-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-wind-1791404557000",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-the-ada-s-interactive-process-key-principles-for-hr-professi-1791318360000",
-    "title": "The ADA’s interactive process: Key principles for HR professionals",
-    "link": "https://www.hrdive.com/news/the-adas-interactive-process-key-principles-for-hr-professionals/832150/",
-    "summary": "A recent appeals court opinion provides a reminder of the importance of getting the basics right.",
-    "publishedAt": "2026-10-06",
+    "id": "news-dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractor-1791406860000",
+    "title": "DOL to up minimum wage to $14 per hour for federal contractors",
+    "link": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
+    "summary": "Despite the increase, the rate remains below Biden-era levels, which hit $15 per hour.",
+    "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1791362473000",
-    "title": "晕…这年头还有说人话的AI不",
-    "link": "https://www.qbitai.com/2026/10/501796.html",
+    "id": "news-ai-1791372887000",
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "link": "https://www.qbitai.com/2026/10/501803.html",
     "summary": "",
     "publishedAt": "2026-10-07",
     "source": "量子位",
@@ -133,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791375012000",
-    "title": " 涨的时候全是利好，跌的时候只剩利空 ",
-    "link": "https://www.huxiu.com/article/4895663.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 国内一放假，海外就上涨，2026年“佳节定律”再度奏效。 国庆期间，美股、日股等股市不断冲击历史新高。 美股方面，无惧美债风险，纳斯达克再创新高，截至10月6日，在科技股带领下，纳斯达克指数最高触及27407点，年内涨幅接近18%。 相比于美股，日股表现更加亮眼。 10月1日，日经指数大涨超过3%，10月2日短暂回调0.94%之后，于5日再度上攻，上涨超过2%，10月6日，日经指数继续走强，再度站上70000点。 截至10月7日收盘，日经指数为70035点，距离6月份的历史高点在5%左右。 最让人吃惊的是，伊朗股市。 截至10月5日，伊朗德黑兰证券交易所基准TEDPIX指数年内涨幅已超过90%，如果从年内低点算起，涨幅更是翻倍有余。 虽然伊朗国内正在经历恶性通胀，货币大幅贬值等不利因素，但股市涨幅仍然带来实质价值。 据金融界等媒体9月30日的报道，不考虑汇率，伊朗投资者相对通胀的真实收益率在23%，考虑汇率，美元口径收益率约为4%。 说实话，4%的收益率也不低了，何况是在如此水深火热的情况下。 节日期间，港股作为最贴近A股的市场，表现一言难尽。 10月2日，恒生指数不仅没能跟随全球上涨，反而迎来一场大跌，单日跌幅达2.6%，创年内最惨。2日之后，恒指才在AI刺激下，连续两天收阳，勉勉强强收复2.6%的失地。10月7日，临近A股开盘，港",
+    "id": "news--1791389082000",
+    "title": " 比超级智能更先到来的，是超级愚蠢 ",
+    "link": "https://www.huxiu.com/article/4895695.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《比超级智能更先到来的，是超级愚蠢｜不懂经网站》 几个月前，claude母公司Anthropic的联合创始人杰克·克拉克（Jack Clark），上了美国公共广播电台的节目Planet Money。主持人问他，生成式AI会给社会带来什么。他说，我不知道该怎么回应。然后他讲了个故事。 他说，一百年前，英国作家C.S.刘易斯（《纳尼亚传奇》的作者）写过一本书，叫《魔鬼家书》。地狱里有个级别很低的小鬼，负责腐蚀地球上的一个普通人，他定期给上级写汇报。 有一封信里，小鬼难掩兴奋：好消息，我的人类拿到了一项新发明，叫电话。以后每当他独处、眼看就要反省自身的时候，他就会拿起电话打给朋友。他又朝地狱靠近了一步。 这个故事讲得流畅、动人，寓意分明，几乎就是为AI时代量身定做的：技术诱惑人堕落，从独处的消失开始。 只有一个小问题。这个故事几乎每个细节都是错的。《魔鬼家书》不是一百年前写的，是1942年。写信的也不是小鬼，是地狱里资历更老的叔叔；收信的，才是那个负责腐蚀人类的新手小侄子。《魔鬼家书》的\"家\"，说的就是这层叔侄关系。至于电话，全书从头到尾没有出现过。节目播完，主持人不得不在节目里口头补了一条更正。 这件事是《金融时报》专栏作家蒂姆·哈福德（Tim Harford）在今天的新专栏里翻出来的。他自己又往下追了一步：刘易斯确实抱怨过收音机，",
     "publishedAt": "2026-10-07",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-utopai-x-1791366127000",
-    "title": "谁在捧杀Utopai X？",
-    "link": "https://www.tmtpost.com/8160338.html",
-    "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
+    "id": "news--1791366158000",
+    "title": "可灵上市，快手如何自洽",
+    "link": "https://www.tmtpost.com/8160242.html",
+    "summary": "可灵的“去宿华化”。",
     "publishedAt": "2026-10-07",
     "source": "钛媒体",
     "tags": [
@@ -173,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-is-reportedly-partnering-with-lg-to-launch-a-smart-loc-1791327189000",
-    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-    "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-    "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-    "publishedAt": "2026-10-06",
+    "id": "news-meta-8217-s-muse-launches-on-ipad-just-a-month-after-its-mob-1791397857000",
+    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -186,24 +185,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-miami-furniture-store-will-pay-1-3m-to-settle-charge-it-favo-1791318300000",
-    "title": "Miami furniture store will pay $1.3M to settle charge it favored Hispanic applicants",
-    "link": "https://www.hrdive.com/news/el-dorado-furniture-store-national-origin-discrimination-eeoc/832270/",
-    "summary": "EEOC significantly ramped up its enforcement of national origin and race discrimination claims in fiscal year 2026, including some alleging majority-group discrimination.",
-    "publishedAt": "2026-10-06",
+    "id": "news-gallup-finds-both-parties-more-bullish-on-dei-what-s-this-me-1791387540000",
+    "title": "Gallup finds both parties more bullish on DEI. What’s this mean for HR?",
+    "link": "https://www.hrdive.com/news/republicans-dei-stance-2026/832375/",
+    "summary": "People across the political spectrum increasingly see the benefits of DEI in the workplace, including for profitability.",
+    "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-meshy-a16z-ai-top-50-ai-3d-1791355176000",
-    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-    "link": "https://www.qbitai.com/2026/10/501791.html",
-    "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+    "id": "news-ai-1791362473000",
+    "title": "晕…这年头还有说人话的AI不",
+    "link": "https://www.qbitai.com/2026/10/501796.html",
+    "summary": "",
     "publishedAt": "2026-10-07",
     "source": "量子位",
     "tags": [
@@ -213,24 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-24-1791374870000",
-    "title": " 上班了，认识下新同事：24小时待命，干多拿少，态度好 ",
-    "link": "https://www.huxiu.com/article/4895661.html?f=rss",
-    "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略，原文标题：《上班了！认识下新同事：24小时待命，干多拿少，态度好》 2026年9月15日上午，北京国家会议中心二期。 飞书的新一届年度大会被起了一个很长的名字——“2026飞书未来无限大会暨豆包工作开工大会”，并且迎来梁汝波首次出席飞书年度大会并为豆包工作公开站台。 一个月前的8月25日，字节刚发布独立AI办公产品“豆包工作”；再往前，腾讯WorkBuddy于3月9日全量上线，百度搭子3月22日铺开，阿里千问办公8月3日公测。 大模型的军备竞赛还没分出胜负，巨头们已经把主战场推进到了另一个地方：每一个白领的电脑桌面，每一家公司的工作流。 用不了多久，人人都会有个新同事，它干得多，拿得少，态度好，不下班。 飞书的这次发布会，是豆包、飞书、火山引擎完成架构整合后，字节首次对外亮出AI企业服务的完整牌面。现场最有冲击力的一幕，是AI开始以“组织成员”的身份出现。 员工在飞书群里搜索一个名字就能把Agent拉进来，多个Agent还能在同一群组里分工协作；它们可以撰写文档、操作多维表格、安排日程、参与会议、发起审批流程。 开源AI智能体OpenClaw即“小龙虾”刚出来时，曾有人开玩笑，将来同事对接工作都不用亲自做，各自叫上自己的“龙虾”，让它们去做就行了。现在，玩笑正在变成现实。 飞书团队讲了一个内部故事：一个叫“小飞”的工作伙伴（AI）发",
-    "publishedAt": "2026-10-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-400-1791360518000",
-    "title": "溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意",
-    "link": "https://www.tmtpost.com/8160286.html",
-    "summary": "稀缺性可以制造一时的抢购热潮，却制造不了真正的用户长期忠诚度。",
+    "id": "news-utopai-x-1791366127000",
+    "title": "谁在捧杀Utopai X？",
+    "link": "https://www.tmtpost.com/8160338.html",
+    "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
     "publishedAt": "2026-10-07",
     "source": "钛媒体",
     "tags": [
@@ -253,11 +237,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapp-1791326043000",
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "publishedAt": "2026-10-06",
+    "id": "news-chatgpt-for-teens-keeps-teens-talking-even-during-mental-hea-1791396928000",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -266,23 +250,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-biggest-predictor-of-l-d-success-how-much-time-managers--1791301380000",
-    "title": "The biggest predictor of L&D success? How much time managers can spare.",
-    "link": "https://www.hrdive.com/news/the-biggest-predictor-of-ld-success-how-much-time-managers-can-spare/832243/",
-    "summary": "Various studies have highlighted the importance of managers in the L&amp;D space &mdash; and often, managers are not given the resources needed to assist.&nbsp;",
-    "publishedAt": "2026-10-06",
+    "id": "news-ai-adoption-may-be-hampering-future-organizational-growth-1791384480000",
+    "title": "AI adoption may be hampering future organizational growth",
+    "link": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
+    "summary": "As positions are eliminated or streamlined, employees need experiential and development opportunities, a report found.",
+    "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-openai-722-bsd-1791335113000",
-    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-    "link": "https://www.qbitai.com/2026/10/501749.html",
-    "summary": "三位菲尔兹奖得主：不代表认可",
+    "id": "news-meshy-a16z-ai-top-50-ai-3d-1791355176000",
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "link": "https://www.qbitai.com/2026/10/501791.html",
+    "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
     "publishedAt": "2026-10-07",
     "source": "量子位",
     "tags": [
@@ -292,24 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2019-2014-1791373849000",
-    "title": " 票价回到2019，票房回到2014：国庆档的“底”在哪？ ",
-    "link": "https://www.huxiu.com/article/4895659.html?f=rss",
-    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 国庆档的“底”在哪里？今年的国庆档给了我们答案。 截止至发稿，国庆档票房刚突破11亿元，2026年累计票房达307亿元；而去年同期，两个数据分别为18.35亿元和436亿元。这意味着即使再给电影市场一部《疯狂动物城》，2026年的总票房也几乎不可能站上400亿元。 如果说去年的国庆档一夜回到十年前（2015年），今年的国庆档就是一夜回到2014年；若剔除服务费口径差异，则刚好满10亿。恰好2014年，也是《心花路放》等电影炒热国庆档这个概念的时候，也就是说经历十二年，国庆档又回到了“梦开始的地方”。 今年的国庆档败在哪里？1）从结构来看，场次和价格因素已失效，观众对传统国庆档的主旋律叙事热情退潮是外因；2）从影片来看，新片竞争能力整体较弱，档期是头部影片的试炼场，不是头部的培育室；3）从产业来看，当前供给能力的缺失是过去主动去库存的结果，在负向螺旋面前，关键在于保证资源集中在真正无短板、有共鸣的项目上。 国庆档后，电影市场将进入传统淡季，国庆档和2026年整体电影市场的不景气已经成为既定事实，因此更重要的是，电影还能活下去吗？AI电影能挽救院线电影行业吗？ 一降再降，国庆档名存实亡？ 小娱曾说过，在常见的核心档期中，春节档和国庆档都有一定的基本盘。而近两年的国庆档，正告诉了市场“国庆档是不是伪概念”。 从总量上看，2026年国庆",
-    "publishedAt": "2026-10-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-app-1791360514000",
-    "title": "为什么每个APP都想追着借钱给你？",
-    "link": "https://www.tmtpost.com/8160287.html",
-    "summary": "一场被精心设计好的商业算法。",
+    "id": "news-400-1791360518000",
+    "title": "溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意",
+    "link": "https://www.tmtpost.com/8160286.html",
+    "summary": "稀缺性可以制造一时的抢购热潮，却制造不了真正的用户长期忠诚度。",
     "publishedAt": "2026-10-07",
     "source": "钛媒体",
     "tags": [
@@ -333,11 +305,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-silicon-valley-8217-s-ai-wunderkind-launches-underdog-the-mo-1791319621000",
-    "title": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-    "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-    "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-    "publishedAt": "2026-10-06",
+    "id": "news-x-expands-its-8216-gametime-8217-sports-hub-beyond-the-nfl-s-1791396600000",
+    "title": "X expands its &#8216;Gametime&#8217; sports hub beyond the NFL, starting with MLB",
+    "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+    "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+    "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,11 +318,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-executives-may-use-ai-more-than-their-workers-do-1791299580000",
-    "title": "Executives may use AI more than their workers do",
-    "link": "https://www.hrdive.com/news/executives-may-use-ai-more-than-their-workers-do/832141/",
-    "summary": "At the same time, a significant subset of business leaders acknowledge they pretend to know more about&nbsp;the technology than they actually do.",
-    "publishedAt": "2026-10-06",
+    "id": "news-few-chros-say-they-feel-very-confident-they-can-manage-ai-dr-1791384480000",
+    "title": "Few CHROs say they feel very confident they can manage AI-driven change",
+    "link": "https://www.hrdive.com/news/few-chros-feel-very-confident-they-can-manage-ai-driven-change/832359/",
+    "summary": "Survey respondents cited difficulty predicting AI&rsquo;s workforce impacts as a primary barrier to preparing for the future.",
+    "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -360,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791283498000",
-    "title": "刚刚，诺贝尔物理奖一人独揽！",
-    "link": "https://www.qbitai.com/2026/10/501746.html",
-    "summary": "南极洲甚至有一座高地以他名字命名",
-    "publishedAt": "2026-10-06",
+    "id": "news-openai-722-bsd-1791335113000",
+    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+    "link": "https://www.qbitai.com/2026/10/501749.html",
+    "summary": "三位菲尔兹奖得主：不代表认可",
+    "publishedAt": "2026-10-07",
     "source": "量子位",
     "tags": [
       "china",
@@ -373,24 +345,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1791371445000",
-    "title": " 2026年诺贝尔化学奖：他们破解了“镜像分子”的百年谜题 ",
-    "link": "https://www.huxiu.com/article/4895654.html?f=rss",
-    "summary": "本文来自微信公众号： NASA爱好者 ，作者：Vger 有些化学反应会同时生成两种分子，它们互为镜像，就像人的左手和右手。几十年来，化学家们知道理论上可以设计出只生成其中一种的反应，但实际该怎么做，一直是个谜。 今年的诺贝尔化学奖授予亨利·B·卡根（Henri B.Kagan）和硤合宪三（Kenso Soai），表彰他们“发现了不对称有机合成中的非线性效应和自催化现象”。他们给出了答案，而这对设计药物生产等应用反应的化学家来说意义重大。 为什么镜像分子这么麻烦？ 想象你是一位定制钥匙的锁匠。可无论怎么做，你总会同时做出两把互为镜像的钥匙，只有一把能开锁，用另一把去开，还可能损坏锁。更糟的是，这两把钥匙几乎无法区分，客户只能全部拿走。 研发药物时，化学家面对的正是这样的难题。许多药物分子有两种互为镜像的形态：一种具有治疗作用，另一种却可能带来不必要、有时甚至有害的副作用。 根源在于生命本身的化学特性：生命是“同手性”的（homochiral，源自希腊语“相同”和“手”）。就像双手一样，氨基酸也有两种镜像形态，但我们细胞里的蛋白质只用其中一种。构成DNA的糖分子同样如此，两种镜像形态中，生命只选了一种。 生命的同手性是如何出现的？这个问题困扰了化学家很久。今年的两位获奖者，正是在这条漫长的思想链上，补上了最后的关键环节。 故事要从巴斯德和葡萄酒说起 这条思想链的第一环，要追溯到19世纪",
-    "publishedAt": "2026-10-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-6-ipo-1791360509000",
-    "title": "6万元起家，韩国游客疯狂打卡，上海“排队王”冲刺IPO？",
-    "link": "https://www.tmtpost.com/8160302.html",
-    "summary": "国庆餐饮顶流，因反向种草爆火。",
+    "id": "news-app-1791360514000",
+    "title": "为什么每个APP都想追着借钱给你？",
+    "link": "https://www.tmtpost.com/8160287.html",
+    "summary": "一场被精心设计好的商业算法。",
     "publishedAt": "2026-10-07",
     "source": "钛媒体",
     "tags": [
@@ -959,4 +917,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-07T12:34:58.227Z';
+export const dataFetchedAt = '2026-10-07T22:37:32.917Z';
