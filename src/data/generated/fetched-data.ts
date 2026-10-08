@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "id": "news-robot-data-startup-mecka-ai-nabs-60m-from-sequoia-1791416217000",
+    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-25-95-1791382233000",
-    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-    "link": "https://www.qbitai.com/2026/10/501825.html",
+    "id": "news-stepx-neo-10-13-1791425737000",
+    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "link": "https://www.qbitai.com/2026/10/501915.html",
     "summary": "",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,24 +53,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791389263000",
-    "title": " 贵的是通道：中东战火重写全球石油版图 ",
-    "link": "https://www.huxiu.com/article/4895696.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 9月下旬，布伦特原油再次站上每桶100美元，美国WTI原油却明显落在后面，两大基准的价差一度超过12美元。与此同时，沙特修复东西输油管道、恢复红海装船的消息，又迅速推动油价回落。 市场反复追问的，已经从哪里还能多采一些油，变成哪条路线还能稳定交货。 战前，世界还在讨论石油供应过剩，担心新能源替代与需求放缓会让产油国承受长期压力。战争爆发后，油田里的产量并没有突然消失，能够按时抵达炼厂的供应却大幅减少。地下的储量、油田的产能与买家手中的现货，原来隔着这么长的一段距离。 从供需结构看，石油属于买方市场，因为全球拥有相当充裕的资源和潜在生产能力，但在特定时间、特定地点，能够交付的原油仍会短缺。眼下油价上涨，既包含真实的供应损失，也包含运输、保险和交货风险的重新定价。 理解这一区别，才能看懂中东战争如何改变美国的出口机会、俄罗斯的收入分配，以及整个世界的能源安全逻辑。 通道 过去几年，油价逐渐表现出某种“地缘免疫”。中东传来冲突消息，市场短暂上涨，随后又回到需求、库存和产量的基本面。美国页岩油扩大供应，其他产油国增加产能，OPEC+保留备用生产能力，都让市场相信，即使某处出了问题，也有人能够补上。 这套判断有一个隐含前提，备用产能总是能在需要的时候快速进入市场。霍尔木兹危机恰好击中了这个前提。全球可迅速动用的剩余产能，很大一部分集中在海湾。",
-    "publishedAt": "2026-10-07",
+    "id": "news-2980-ai-1791432536000",
+    "title": " 花2980送孩子去大厂学AI，第一天就后悔了 ",
+    "link": "https://www.huxiu.com/article/4895797.html?f=rss",
+    "summary": "本文来自微信公众号： 看客inSight ，作者：看客 最需要AI的，是孩子吗？ 今年社交媒体上，“9岁小学生获AI大赛一等奖”、“13岁少女靠AI3天赚1.8万”的传说刷了屏，家长们的焦虑也水涨船高。 最直接的表现就是，AI研学营火了。 从今年暑假开始，“AI研学”订单较去年同期增长370%。十一假期期间，“7天养成少年CEO”、“带孩子做出人生第一个AI产品”的宣传语同样层出不穷。 课程价格有高有低，便宜的五天两三千，贵的甚至能卖到三五万。最火的研学目的地从北大、清华，变成了字节、阿里，孩子们出行的目的从“参观理想的学府”变成了“参观理想的工位”。 但，三五天的研学，真的能把孩子托进AI时代吗？家长们得出的答案各不相同。 一 “参观理想的工位” 陪着孩子来到大厂AI研学营的第二天，Bigger从讲座上溜出来透气。走出大厅，才发现也有好几个家长溜号出来了，大家面面相觑，一时都露出苦笑。 他们参加的是一个三天的AI研学营。Bigger是从短视频网站上刷到这家的广告的，活动内容写得很“豪华”，会带着孩子参观大企业，接触最前沿的AI，体验具体的操作，还有浙大的研学、和学姐学长的交流。 广告里也特别提到，这是一场“亲子共学”，要求家长也一起去。 对Bigger来说，这算是一个加分项。她的本职工作是教培老师，教数学；研学营在浙江办，她早就听说浙江的数学竞赛做得非常好，也想听听那边的教学经验",
+    "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1791375869000",
-    "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
-    "link": "https://www.tmtpost.com/8160336.html",
-    "summary": "未来绿泡泡能否承载腾讯给它的使命，还需要时间来验证。",
-    "publishedAt": "2026-10-07",
+    "id": "news-20-1791431690000",
+    "title": "保时捷接受低销量时代，盈亏线降至20万辆以下",
+    "link": "https://www.tmtpost.com/8160722.html",
+    "summary": "保时捷首席执行官Michael Leiters 表示，中国市场的复苏目前不在我们的计划之内。",
+    "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -92,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-wind-1791404557000",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "id": "news-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises--1791413956000",
+    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
+    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -119,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791372887000",
-    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-    "link": "https://www.qbitai.com/2026/10/501803.html",
+    "id": "news-arc-1791425076000",
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "link": "https://www.qbitai.com/2026/10/501913.html",
     "summary": "",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -132,25 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791389082000",
-    "title": " 比超级智能更先到来的，是超级愚蠢 ",
-    "link": "https://www.huxiu.com/article/4895695.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，原文标题：《比超级智能更先到来的，是超级愚蠢｜不懂经网站》 几个月前，claude母公司Anthropic的联合创始人杰克·克拉克（Jack Clark），上了美国公共广播电台的节目Planet Money。主持人问他，生成式AI会给社会带来什么。他说，我不知道该怎么回应。然后他讲了个故事。 他说，一百年前，英国作家C.S.刘易斯（《纳尼亚传奇》的作者）写过一本书，叫《魔鬼家书》。地狱里有个级别很低的小鬼，负责腐蚀地球上的一个普通人，他定期给上级写汇报。 有一封信里，小鬼难掩兴奋：好消息，我的人类拿到了一项新发明，叫电话。以后每当他独处、眼看就要反省自身的时候，他就会拿起电话打给朋友。他又朝地狱靠近了一步。 这个故事讲得流畅、动人，寓意分明，几乎就是为AI时代量身定做的：技术诱惑人堕落，从独处的消失开始。 只有一个小问题。这个故事几乎每个细节都是错的。《魔鬼家书》不是一百年前写的，是1942年。写信的也不是小鬼，是地狱里资历更老的叔叔；收信的，才是那个负责腐蚀人类的新手小侄子。《魔鬼家书》的\"家\"，说的就是这层叔侄关系。至于电话，全书从头到尾没有出现过。节目播完，主持人不得不在节目里口头补了一条更正。 这件事是《金融时报》专栏作家蒂姆·哈福德（Tim Harford）在今天的新专栏里翻出来的。他自己又往下追了一步：刘易斯确实抱怨过收音机，",
-    "publishedAt": "2026-10-07",
+    "id": "news-11-81-1791432400000",
+    "title": " 机票涨了11%，三大航却巨亏了81亿 ",
+    "link": "https://www.huxiu.com/article/4895796.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 10月7日上午，航司售票页面挂出一条调价通知。 自10月10日起，国内航线燃油附加费上调：800公里以下航段由40元调至50元，800公里以上由70元调至90元。 这笔钱已经算进了你手里的票价。 另一组数字在三大航半年报里：上半年营收2581亿元，同比增超10%，归母净利润合计亏损81.61亿元。 国庆国内经济舱含税均价929.7元，同比涨11.2%。 票价在涨，亏损也在涨。 多付的钱，究竟进了谁的口袋？ ⑴涨价的11%和亏掉的81亿 先看涨价这一端，数据没有任何含糊。 航班管家数据显示，截至9月29日，2026年国庆假期国内经济舱含税加权平均票价为929.7元，2025年同期是836.0元，涨幅11.2%。 裸票均价820.2元，同比上涨6.0%。 含税涨幅比裸票涨幅高出5.2个百分点，中间多出来的那一段，就是税费和燃油附加费。 把时间轴拉长，涨势更清楚。 2026年上半年，民航国内经济舱含税平均票价约为808元，同比上涨8.7%，比2019年同期微增0.9%。 这是三年多来第一次像样的票价修复。 三大航的收入端同步向上：国航营业收入892.68亿元，同比增长10.54%；东航742.34亿元，同比增长11.09%；南航946.79亿元，同比增长9.72%。 三家加起来2581亿元，同比增长超过10%。 再看亏损这一端。 国航归母净",
+    "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791366158000",
-    "title": "可灵上市，快手如何自洽",
-    "link": "https://www.tmtpost.com/8160242.html",
-    "summary": "可灵的“去宿华化”。",
-    "publishedAt": "2026-10-07",
+    "id": "news-ai-1791429892000",
+    "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+    "link": "https://www.tmtpost.com/8160841.html",
+    "summary": "这个行业究竟在卖什么？",
+    "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-8217-s-muse-launches-on-ipad-just-a-month-after-its-mob-1791397857000",
-    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -185,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gallup-finds-both-parties-more-bullish-on-dei-what-s-this-me-1791387540000",
-    "title": "Gallup finds both parties more bullish on DEI. What’s this mean for HR?",
+    "id": "news-republicans-democrats-alike-more-bullish-on-dei-in-2026-1791387540000",
+    "title": "Republicans, Democrats alike more bullish on DEI in 2026",
     "link": "https://www.hrdive.com/news/republicans-dei-stance-2026/832375/",
-    "summary": "People across the political spectrum increasingly see the benefits of DEI in the workplace, including for profitability.",
+    "summary": "A Gallup poll suggests that people across the political spectrum increasingly see the benefits of DEI in the workplace. What does this mean for HR?",
     "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
@@ -198,11 +198,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791362473000",
-    "title": "晕…这年头还有说人话的AI不",
-    "link": "https://www.qbitai.com/2026/10/501796.html",
-    "summary": "",
-    "publishedAt": "2026-10-07",
+    "id": "news-gpt-6-1791421639000",
+    "title": "GPT-6今起免费用！拒答变少，话变多了",
+    "link": "https://www.qbitai.com/2026/10/501834.html",
+    "summary": "ChatGPT聊天框长出界面",
+    "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -211,11 +211,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-utopai-x-1791366127000",
-    "title": "谁在捧杀Utopai X？",
-    "link": "https://www.tmtpost.com/8160338.html",
-    "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
-    "publishedAt": "2026-10-07",
+    "id": "news-ai-1791431775000",
+    "title": " 【珊瑚说】这十个月，AI时代的浮世众生 ",
+    "link": "https://www.huxiu.com/article/4895794.html?f=rss",
+    "summary": "本文来自微信公众号： 脑极体 ，作者：珊瑚，原文标题：《【珊瑚说】这十个月，AI时代的浮世众生》 过去几年，关于AI的公共叙事几乎被两种声音垄断。一种来自硅谷和华尔街，那里的人们谈论的是千亿参数、万卡集群和下一个万亿市值的入口；另一种来自媒体和营销号，它们反复告诉我们，AI要么会抢走你的饭碗，要么会给你一个一夜暴富的机会。这两种声音合在一起，构成了一幅相当狭窄的图景：AI是精英的棋盘，是资本的游戏，普通人要么被它淘汰，要么被它收割。 中间那些真实的、琐碎的、不那么戏剧化的生活，几乎没有人去写。 曾经，困在新闻头条中的我也以为，AI离普通人的生活很远。然而，当我真正走进这些人的生活，会发现AI的流向远比那些宏大叙事复杂。它从硅谷的机房涌出，漫过中关村的写字楼，漫过杭州的出租屋，漫过上海的情侣卧室，漫过川西的雪山和隧洞，最终渗进每一个普通人的日常。 有人在AI弥漫的浓雾中挣扎，有人在雾里摸索，有人被雾裹挟着往前走，也有人干脆站在雾外，看着雾起雾散，不为所动。 我所采访的这些人里，有站在海拔两千米的雪山隧洞修智算中心的工人；有在杭州月租一千六的出租屋里、靠给AI“打下手”月入过万的毕业生；有在结婚前被相爱十年的爱人用一份AI生成的报告判处“死刑”的未婚妻；也有八十三岁、每天雷打不动花七八个小时学AI的耄耋老人。 这些故事像一幅徐徐展开的浮世绘，雾气散开，每一张脸都不一样。 第一批要讲述的",
+    "publishedAt": "2026-10-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-siri-muse-ai-1791429473000",
+    "title": "从Siri到Muse，我们如何一步步把生活交给AI",
+    "link": "https://www.tmtpost.com/8160467.html",
+    "summary": "Siri要追赶一个由自己开启的do engine愿景。新晋的Muse们也需要经历一个不断完善可靠性、安全性和经济性的过程。",
+    "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -237,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-for-teens-keeps-teens-talking-even-during-mental-hea-1791396928000",
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "id": "news-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-wind-1791404557000",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -265,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meshy-a16z-ai-top-50-ai-3d-1791355176000",
-    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-    "link": "https://www.qbitai.com/2026/10/501791.html",
-    "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-    "publishedAt": "2026-10-07",
+    "id": "news-claude-gpt-6-luna-openai-1791421440000",
+    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+    "link": "https://www.qbitai.com/2026/10/501832.html",
+    "summary": "小模型新守门员",
+    "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -278,11 +292,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-400-1791360518000",
-    "title": "溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意",
-    "link": "https://www.tmtpost.com/8160286.html",
-    "summary": "稀缺性可以制造一时的抢购热潮，却制造不了真正的用户长期忠诚度。",
-    "publishedAt": "2026-10-07",
+    "id": "news-2026-ai-1791431705000",
+    "title": " 【藏狐说】2026这十个月，AI焦虑中的人们和我 ",
+    "link": "https://www.huxiu.com/article/4895793.html?f=rss",
+    "summary": "本文来自微信公众号： 脑极体 ，作者：藏狐，原文标题：《【藏狐说】2026这十个月，AI焦虑中的人们和我》 先祝大家假期快乐。作为一个i人，我习惯了隐藏在藏狐这个笔名背后分析技术和产业，不喜欢自我流露太多，也觉得自己的现实生活和性格都十分普通，不值多提。 不过，在AI能轻易生成万语千言的今天，我越来越喜欢文字背后所链接的，一个碳基生物的情绪起伏和神经冲动。再普通的人，也有着生命独有的分量。所以，便一直想找机会跟读者们聊聊天，也给大家汇报一下今年以来我个人的一些行业见闻。 为啥非要在十月做个总结？答案是，编辑部开例会，你一言我一语就聊到这儿了…… 9月28日的编辑部例行周会上，大家挨个分享近期工作，用黑话说就是拉通对齐一下。 有人提到硅谷甚嚣尘上的AI末日论，说美国人太爱杞人忧天；有人提到Openclaw爆火时安装的文件，现在还留在自己的电脑里，想想当时全民养虾的焦虑真是没必要。 轮到我时，我说：“我到了两边都能理解的状态。” “整体我的感受就是，比较复杂吧。要说AI末日论、AI泡沫论，我没那么悲观，但要说特别不焦虑呢，其实也没有。我能够很明显地感觉到，为什么在程序员圈子或大众圈子会流行这种焦虑。如果AI是一个杠杆的话，那这个杠杆确实是所有人都能够接触到的。AI下沉的速度、普及的速度非常快，但是每个人能够撬动这个杠杆的这种能力，还是不太一样。” 这是我在内部分享的感受，确实存在两种都",
+    "publishedAt": "2026-10-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1791429468000",
+    "title": "造车新势力，集体走向电池深水区",
+    "link": "https://www.tmtpost.com/8160469.html",
+    "summary": "争夺话语权",
+    "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -305,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-expands-its-8216-gametime-8217-sports-hub-beyond-the-nfl-s-1791396600000",
-    "title": "X expands its &#8216;Gametime&#8217; sports hub beyond the NFL, starting with MLB",
-    "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-    "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+    "id": "news-meta-8217-s-muse-launches-on-ipad-just-a-month-after-its-mob-1791397857000",
+    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -332,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-722-bsd-1791335113000",
-    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-    "link": "https://www.qbitai.com/2026/10/501749.html",
-    "summary": "三位菲尔兹奖得主：不代表认可",
+    "id": "news-25-95-1791382233000",
+    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "link": "https://www.qbitai.com/2026/10/501825.html",
+    "summary": "",
     "publishedAt": "2026-10-07",
     "source": "量子位",
     "tags": [
@@ -345,11 +373,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-app-1791360514000",
-    "title": "为什么每个APP都想追着借钱给你？",
-    "link": "https://www.tmtpost.com/8160287.html",
-    "summary": "一场被精心设计好的商业算法。",
-    "publishedAt": "2026-10-07",
+    "id": "news--1791431452000",
+    "title": " 亚朵的床外收入，酒店业的寒门贵子 ",
+    "link": "https://www.huxiu.com/article/4895792.html?f=rss",
+    "summary": "本文来自微信公众号： 真故研究室 ，编辑：张铎，作者：何雯静 当一晚房越来越难卖贵，酒店开始把目光从床上移开，寻找更多「床外收入」。枕头、早餐、洗衣、会员……原本附着在住宿上的商品和服务，被一件件拆出来，成为酒店寻找新增收入的入口。 今年中秋、国庆，旅游市场的变化让这件事变得更明显。假期出行规模依然庞大，但同比增速较五一有所回落；「请3休13」把原本集中的黄金周拉成了近两周。客流高峰被摊平，酒店连住订单量同比增长31%。 游客走得更远、住得更久，也给酒店带来了更多房费之外的消费机会。酒店经营的逻辑，也从围绕房间组织生意，转向围绕客人组织生意。 #01 酒店不只卖一晚房 自打有了孩子，玲子彻底爱上了Staycation。这个国庆，她专程去白云山脚下的鸣泉居待上两天一夜。 Staycation，由Stay和Vacation组合而来，指的是不用长途旅行，在本地或附近找一家酒店度过假期。「与其塞在高速上，还不如躲进山里，只要人放松了，钱才算花得值。」 玲子在大堂酒廊喝下午茶，看孩子和家人在窗外的草坪肆意奔跑，觉得假期带娃的煎熬少了许多。35℃的高温，大金钟湖旁茂密的树林仿佛自带凉意，一家人在傍晚时分自在散步。房费不到1000元，但儿童乐园、泳池和中餐厅的花销，已经超过了房费。 过去，这样的生意更多属于度假酒店。现在，一些没有泳池、草坪和景区的经济型、舒适型酒店，也希望让客人在睡觉之外多停留",
+    "publishedAt": "2026-10-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791429465000",
+    "title": "化疗组超常发挥，重创了艾力斯的全球野心",
+    "link": "https://www.tmtpost.com/8160511.html",
+    "summary": "2026年10月6日，大洋彼岸的一则公告，让中国创新药行业的空气骤然凝固。",
+    "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -362,92 +403,83 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2610.08789v1",
-    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "id": "arxiv-2610.10538v1",
+    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
     "authors": [
-      "Chung Min Kim",
-      "Brent Yi",
-      "David McAllister",
-      "Hongsuk Choi",
-      "Himanshu Gaurav Singh",
-      "Jinkun Cao",
-      "Ken Goldberg",
-      "Pieter Abbeel",
-      "Carmelo Sferrazza",
-      "Angjoo Kanazawa"
+      "Shravan Chaudhari",
+      "William Paul",
+      "Suchi Saria",
+      "Rama Chellappa",
+      "Homanga Bharadhwaj"
     ],
-    "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an online off-policy RL algorithm that trains a flow policy with flow matching plus the critic's action gradient, backpropagated through a one-step prediction of the flow's output. To keep updates where the critic and this prediction are reliable, QF3 applies the critic gradient only to action dimensions that stay near the replay action. To our knowledge, QF3 is the first off-policy flow RL method to train humanoid locomotion policies from scratch and transfer them zero-shot to hardware. Paired with ",
-    "link": "http://arxiv.org/abs/2610.08789v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
-      "cs.RO",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08785v1",
-    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-    "authors": [
-      "Kevin Zhang",
-      "Stephen Bates"
-    ],
-    "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understood. In this work, we provide such a foundation using a decision-theoretic generalization of entropy tailored to set-valued prediction. In particular, we introduce a family of generalized information measures based on the size and coverage of conformal prediction sets. Notably, Shannon mutual information admits an exact integral representation in terms of these measures. We then show that, in standard classification settings, the reduction in conformal set size from additional information (i) is ",
-    "link": "http://arxiv.org/abs/2610.08785v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08782v1",
-    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-    "authors": [
-      "Shiqi Li",
-      "Sean Cho",
-      "Yijie Li",
-      "Fengzhi Guo",
-      "Bowen Wen",
-      "Cheng Zhang"
-    ],
-    "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching model that transports foundation-model-derived hand-object states toward an interaction manifold, allowing the model to correct errors in translation, rotation, and alignment in a feed-forward manner. A key advantage of our generative formulation is that it naturally enables test-time guidance within the transport process. Rather than applying a sepa",
-    "link": "http://arxiv.org/abs/2610.08782v1",
-    "publishedAt": "2026-10-06",
+    "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise.",
+    "link": "http://arxiv.org/abs/2610.10538v1",
+    "publishedAt": "2026-10-07",
     "categories": [
       "cs.CV",
       "cs.AI",
-      "cs.GR"
+      "cs.RO"
     ]
   },
   {
-    "id": "arxiv-2610.08781v1",
-    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+    "id": "arxiv-2610.10536v1",
+    "title": "Decoupling Exploration from Optimization in RLVR",
     "authors": [
-      "Ziyu Chen",
-      "Yilun Zhao",
-      "Jiashuo Sun",
-      "Yiling Ma",
-      "Manasi Patwardhan",
-      "Arman Cohan"
+      "Saif Punjwani",
+      "Micah Goldblum"
     ],
-    "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack structured supervision for how papers should be synthesized. We introduce IdeaAnchor, a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals. Each IdeaAnchor instance encodes how each input paper should be synthesized into a successful idea, including their functional roles, relationships, and target synthesis criteria. We build this paradigm by mining instances from published papers, capturing how real ideas emerge from prior literature. We",
-    "link": "http://arxiv.org/abs/2610.08781v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them ",
+    "link": "http://arxiv.org/abs/2610.10536v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.CL",
-      "cs.AI"
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2610.08780v1",
-    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+    "id": "arxiv-2610.10533v1",
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
     "authors": [
-      "Jai Bardhan",
-      "Josef Sivic",
-      "Vladimir Petrik"
+      "Hongru Cai",
+      "Ran Wei",
+      "Wenjie Wang",
+      "Chengfa Wu",
+      "Ning Song",
+      "Yongqi Li",
+      "Wenjie Li"
     ],
-    "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look correct frame-by-frame but do not compose into a consistent 3D world. Closing this gap requires progress on two fronts: large-scale 3D supervision for manipulation, and an architecture that can absorb it without disturbing strong pretrained video priors. We introduce a calibration pipeline that combines learned stereo depth with a joint factor graph, pooling all episodes collected from the same physical robot to recover its shared kinematic parameters alongside per-scene extrinsics. Applied to ",
-    "link": "http://arxiv.org/abs/2610.08780v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory represent",
+    "link": "http://arxiv.org/abs/2610.10533v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10528v1",
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "authors": [
+      "Wei Huang",
+      "Bohan Zhang",
+      "Chenzhi Liu",
+      "Isabella Liu",
+      "Shuai Yang",
+      "Weian Mao",
+      "Luozhou Wang",
+      "Yicheng Xiao",
+      "Weifeng Lin",
+      "Qixin Hu",
+      "Bryan Chu",
+      "Sifei Liu",
+      "Linxi Fan",
+      "Xiaojuan Qi",
+      "Song Han",
+      "Yukang Chen"
+    ],
+    "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pre",
+    "link": "http://arxiv.org/abs/2610.10528v1",
+    "publishedAt": "2026-10-07",
     "categories": [
       "cs.RO",
       "cs.AI",
@@ -455,277 +487,300 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2610.08778v1",
-    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "id": "arxiv-2610.10527v1",
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
     "authors": [
-      "Weixian Xu",
-      "Yanzhe Zhang",
-      "Zora Zhiruo Wang",
-      "Changyu Chen",
-      "Diyi Yang"
+      "Aleksandar Armacki",
+      "Haoyuan Cai",
+      "Ali H. Sayed"
     ],
-    "summary": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on demonstrations, preference data, or predefined pedagogical criteria that specify what good teaching looks like. However, these signals are often not grounded in individual student learning outcomes, where effective teaching strategies can vary substantially across learners. To address this, we introduce Sherpa, a multi-turn reinforcement learning framework that instantiates multiple student archetypes with LLMs conditioned on distinct learning preferences and trains a teacher model to adapt its instruction by directly maximizing their learning outcomes. Teacher LLMs trained with S",
-    "link": "http://arxiv.org/abs/2610.08778v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smo",
+    "link": "http://arxiv.org/abs/2610.10527v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.AI",
-      "cs.CL"
+      "math.OC",
+      "cs.LG",
+      "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2610.08775v1",
-    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+    "id": "arxiv-2610.10526v1",
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
     "authors": [
-      "Ankit Sonthalia",
-      "Haritz Puerto",
-      "Alexander Rubinstein",
-      "Martin Gubri",
-      "Seong Joon Oh"
+      "Mikey Watts",
+      "Yuchen Cui"
     ],
-    "summary": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solutions for such workloads? We call this ability \"bottling\": the ability to turn general capabilities into task-specific solutions that balance answer quality and amortised cost. We introduce BOTTLED, a benchmark in which agents receive an entire unlabelled workload and must complete it under fixed time, compute and LLM API budgets. Agents choose their own approach, such as training a small model or writing a reusable program. Across ten models and three tasks, we find that strong zero-shot task performance does not reliably translate into strong bottling capabilities. Models with similar zero-s",
-    "link": "http://arxiv.org/abs/2610.08775v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically tested single-edit swings and an oracle phrase search, which shows that phrasing alone nearly closes the 21-point gap between in-distribution and out-of-distribution tasks. We then reduce it without modifying the policy. Because the sensitivity is systematic, it can be expressed as explicit rules: we sc",
+    "link": "http://arxiv.org/abs/2610.10526v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08773v1",
-    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-    "authors": [
-      "Sarim Hashmi",
-      "Mukul Ranjan",
-      "Kshitij Mishra",
-      "Mikhail Kuznetsov",
-      "Praneeth Vepakomma",
-      "Nils Lukas"
-    ],
-    "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply ignore the page, because the page also holds the values and controls the task requires. Current defenses fine-tune the agent on injections fixed before training, and attackers that adapt to the trained model bypass them. Adversarial training lets the attacker adapt but keeps the tasks fixed, so a task stops teaching once the agent solves it. We introduce AdvSim2Real, which co-evolves a task curriculum, an injection adversary, and the agent inside a frozen web world model. The curriculum is rewarded for tasks the agent solves about half of the time, and the adversary only for a success flip, a",
-    "link": "http://arxiv.org/abs/2610.08773v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
+      "cs.RO",
       "cs.CL",
-      "cs.AI",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.08764v1",
-    "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
+    "id": "arxiv-2610.10520v1",
+    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
     "authors": [
-      "Luke Bhan",
-      "Miroslav Krstic",
-      "Yuanyuan Shi"
+      "Zhewei Chen",
+      "Hao Zhu",
+      "Jiaojiao Jiang",
+      "Ahad N. Zehmakan"
     ],
-    "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of Coron and Lü (2015) excludes a discrete set of values at which repeated unstable eigenvalues cause a loss of controllability. We overcome this obstruction by introducing a second boundary input and assigning the two inputs distinct roles. The key idea, inspired by Heymann's Lemma, is to use the boundary value $u(0,t)$ entirely for a pre-feedback that renders the modified plant controllable through the curvature input $u_{xx}(0,t)$. The latter input then stabilizes the plant through a Fredholm backstepping transformation. We show that two inputs suffice for controllability and ar",
-    "link": "http://arxiv.org/abs/2610.08764v1",
-    "publishedAt": "2026-10-06",
+    "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space. On sparse graphs, the student suffers from spectral underfit, missing high-energy teacher directions concentrated near boundary regions. On dense graphs, it suffers from spectral overfit, retaining spurious directions that the teacher has collapsed through aggregation. Motivated by an energy-weighted teacher-student alignment objective, we propose Graph Geometry-aware ",
+    "link": "http://arxiv.org/abs/2610.10520v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "eess.SY",
-      "cs.LG",
-      "math.AP",
-      "math.OC"
+      "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.08761v1",
-    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "id": "arxiv-2610.10519v1",
+    "title": "Why Forget-Only Unlearning Needs Memorization",
     "authors": [
-      "Zewei Zhou",
-      "Rachel Luo",
-      "Yulong Cao",
-      "Chaowei Xiao",
-      "Chensheng Peng",
-      "Boyi Li",
-      "Thomas Tian",
-      "Zheng Lian",
-      "Yan Wang",
-      "Jiaqi Ma",
-      "Boris Ivanovic",
-      "Marco Pavone",
-      "Wenhao Ding"
+      "Luka Radić",
+      "Vikrant Singhal",
+      "Amartya Sanyal"
     ],
-    "summary": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training examples, limiting further self-improvement. This challenge is even more acute in embodied reasoning, where reliable evaluation must account for spatial grounding, causal reasoning, and safety-aware decision-making. We introduce VeriFine, an agent harness framework that scales verification through the co-evolution of the policy, training curriculum, and judge. The Policy Improvement Loop uses a rubric judge to diagnose recurring failures, construct an adaptive curriculum, and optimize the policy. When progress plateaus and verification becomes a bottleneck, the Judge Improv",
-    "link": "http://arxiv.org/abs/2610.08761v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show that this depends on the learning method: different datasets can produce the same trained model but require very different outputs after the same examples are removed. Using this observation, we derive lower bounds on how accurately unlearning can match retraining and instantiate them for several standard learning algorithms. We then ask what must be true when forget-only unlearning succeeds. To this",
+    "link": "http://arxiv.org/abs/2610.10519v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "cs.LG",
+      "cs.IT",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10515v1",
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "authors": [
+      "Artem Zholus",
+      "Nicolas Beltran-Velez",
+      "Jianhao Yuan",
+      "Sarath Chandar",
+      "Tushar Nagarajan",
+      "Daniel Severo",
+      "Koustuv Sinha",
+      "Michal Drozdzal",
+      "Adriana Romero Soriano",
+      "Jeannette Bohg",
+      "Nicolas Ballas",
+      "Mahmoud Assran"
+    ],
+    "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments. We show that RoboJEPA's imagination error, the error of its latent rollouts, follows a second-order power law in compute, allowing us to predict model quality well beyond the scale at which the law is fit. We further show that downstream robotic planning performance improves predictably with compute, and that imagination error is strongly",
+    "link": "http://arxiv.org/abs/2610.10515v1",
+    "publishedAt": "2026-10-07",
     "categories": [
       "cs.AI",
       "cs.RO"
     ]
   },
   {
-    "id": "arxiv-2610.08760v1",
-    "title": "WorldSonus: Bringing Sound to Worlds",
+    "id": "arxiv-2610.10513v1",
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
     "authors": [
-      "Pengjun Fang",
-      "Jingyi Fa",
-      "Kam Man Wu",
-      "Jiaming Wang",
-      "Haoyuan Huang",
-      "Yaguang Wu",
-      "Xiangjun Huang",
-      "Ziyang Ma",
-      "Weijia Chen",
-      "Hongyu Liu",
-      "Zeyue Tian",
-      "Qifeng Chen"
+      "Yinling Zhang",
+      "Langchen Liu",
+      "Dongbin Xiu",
+      "Xueyan Zou",
+      "Xu Kuang",
+      "Mengdi Wang",
+      "Shilong Liu"
     ],
-    "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time generation to keep pace with interactive video streams, interactive control to respond to mid-stream sound instructions, and spatially aligned stereo to reflect scene geometry and camera motion. To address these demands, we introduce WorldSonus, an interactive video-to-audio framework designed for real-time spatial sound synthesis in world models. For real-time generation, WorldSonus employs a streaming causal autoregressive diffusion architecture that synthesizes audio chunks at a low real-time factor (RTF) of 0.41. For interactive control, we incorporate an audio-centric cap",
-    "link": "http://arxiv.org/abs/2610.08760v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a pu",
+    "link": "http://arxiv.org/abs/2610.10513v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.SD",
       "cs.AI",
-      "cs.CV",
-      "eess.AS"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08750v1",
-    "title": "Neural Petri flows for chemical reactions",
-    "authors": [
-      "Jose Eduardo Escrig Molina",
-      "Daniel Probst"
-    ],
-    "summary": "Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition forms or breaks a bond, the conserved quantities are the valence budgets of the atoms, and the enabling rule is the valence rule. These semantics are not guaranteed by learned models of reactions or neural networks that are built on Petri nets that use the net as a scaffold for message passing. Here, we ask what architecture remains a Petri net for every value of its weights. We find the answer in the theory, where all semantics of a net share the firing form $m^\\prime=m+Cσ$, locality, as enabling reads only the inputs of a transition, and the enabling rule, and we prove tha",
-    "link": "http://arxiv.org/abs/2610.08750v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
       "cs.LG",
-      "physics.chem-ph",
-      "q-bio.QM"
+      "physics.ao-ph"
     ]
   },
   {
-    "id": "arxiv-2610.08747v1",
-    "title": "The Missing Minimal Pair: Stereotype Evaluation in LLMs",
+    "id": "arxiv-2610.10508v1",
+    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
     "authors": [
-      "Nataliya Stepanova",
-      "Ivan Titov",
-      "Emily Allaway",
-      "Björn Ross"
+      "Amanda Myntti",
+      "Jenna Kanerva",
+      "Veronika Laippala",
+      "Filip Ginter"
     ],
-    "summary": "A common approach to measuring bias in Large Language Models is to compare the log-likelihoods of two contrastive stereotype sentences. We argue that such single-pair comparisons are often unreliable: simply rewriting the same stereotype with an alternative attribute can yield logically inconsistent preferences. To address this, we propose a dual minimal pair setup that introduces two axes of comparison for robust stereotype evaluation. First, we present a data-augmentation framework that fills critical gaps in existing stereotype datasets by generating paraphrases and alternate attributes. We apply our framework on a set of English, Russian, Spanish and Chinese stereotypes. Second, we introduce two evaluation metrics tailored to the dual minimal pair setup. One of these metrics provides a",
-    "link": "http://arxiv.org/abs/2610.08747v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have examined this setting, showing that the current embedding models often struggle to follow such instructions reliably. In this paper, we study the mechanism of how instructions actually affect the representations of retrieval queries in asymmetric retrieval tasks. We show that models can fail to follow even simple task instructions when query-side distractors are included in the evaluation. We hypothesize that this behavior is driven by the training setup of current embedding models and their evaluation, and show that fine-tuning with added query-side distractors leads to s",
+    "link": "http://arxiv.org/abs/2610.10508v1",
+    "publishedAt": "2026-10-07",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2610.08745v1",
-    "title": "Linear Bandits under Exact Sliding-Window Constraints",
+    "id": "arxiv-2610.10507v1",
+    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
     "authors": [
-      "Seyed Mohammad Hadi Hosseini",
-      "Yasin Abbasi-Yadkori",
-      "Sattar Vakili"
+      "Yilun Hao",
+      "Krishna Sayana",
+      "Isabella Ye",
+      "James S Ren",
+      "Sukhdeep Sodhi",
+      "Craig Boutilier",
+      "Chuchu Fan"
     ],
-    "summary": "We study linear bandits under exact sliding-window constraints, where every consecutive block of actions must belong to a prescribed feasible set. In the offline setting, where the reward function is known, we show that convexity and cyclic-shift invariance make a stationary solution optimal when $w\\mid T$ and within an additive $O(w)$ gap otherwise. In the online setting, we show that geometric structure alone is insufficient for learning, and sublinear regret can be impossible. We introduce a transition diameter $τ$ that quantifies feasible reachability and develop a rare-switching OFUL algorithm with regret $\\widetilde{O}(d\\sqrt{T}+τd+w)$ against the offline-optimal feasible trajectory. Finally, we remove cyclic invariance and consider general sliding-window constraints, where optimal b",
-    "link": "http://arxiv.org/abs/2610.08745v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item. Instead, it must be derived through filtering, aggregation, or computation across multiple source items. In this work, we introduce RECAST (Routing Evidence through Computation, Access, and Synthesized Tools), a learned framework that formulates evidence construction as a sequential decision process over heterogeneous retrieval and computation operations, allowing evidence to be actively deri",
+    "link": "http://arxiv.org/abs/2610.10507v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08743v1",
-    "title": "Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation",
-    "authors": [
-      "Wenwen Si",
-      "Honghao Wei"
-    ],
-    "summary": "Sequential recommenders typically use a fixed slate size even though the number of useful alternatives changes within a session. We propose Reinforcement Learning with Calibrated Pruning (RLCP), which adapts the retained action set using critic scores and an online threshold. The threshold is updated from binary feedback indicating whether the set contains an action in a proxy target. We prove a deterministic bound on the observed proxy miss rate along adaptive trajectories. To quantify the effect of pruning on reward, we derive an exact decomposition of value loss into filtering and selection losses. Under explicit proxy and critic approximation conditions, this decomposition yields a finite session reward bound that also accounts for imperfect selection and set truncation, without requir",
-    "link": "http://arxiv.org/abs/2610.08743v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
-      "cs.LG",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2610.08740v1",
-    "title": "On the Computational Tractability of Robust Bandits",
+    "id": "arxiv-2610.10506v1",
+    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
     "authors": [
-      "Vanessa Kosoy",
-      "Vinayak Pathak"
+      "Daniel Robert Kling Alexander",
+      "Catherine Louise Kling"
     ],
-    "summary": "Learning when the environment does not belong to the learner's hypothesis class is typically handled using agnostic learning guarantees. However, for anything beyond supervised learning, agnostic guarantees are difficult to come by. Recently, imprecise bandits (Kosoy, 2025) (later renamed to robust bandits in Appel and Kosoy, 2025) were introduced as another approach to unrealizable learning in the bandits setting and a $Θ(\\sqrt{T})$ regret learner was shown for a large class. However, no computational guarantees were provided. In this paper we identify a special case that admits a polynomial-time learner with $\\tilde{O}(\\sqrt{T})$ regret. We also show that several small generalizations of this special case are NP-hard thus indicating that the special case is at the boundary of what is tra",
-    "link": "http://arxiv.org/abs/2610.08740v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality. We argue that this framework is a general method for evaluating language models, and we set out what each concept means for LLM evaluation. We demonstrate the approach using a published water-quality stated preference economic valuation survey (Vossler et al. 2023) administered to six models. In this economic application, the valid",
+    "link": "http://arxiv.org/abs/2610.10506v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.08738v1",
-    "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
-    "authors": [
-      "Mathias Ollu",
-      "Nikos Komodakis"
-    ],
-    "summary": "Diffusion Language Models (DLMs) hold the promise of order-agnostic, parallel text generation. Recently, continuous diffusion and flow matching models have seen substantial gains, driven by carefully crafted token representations and diffusion/flow spaces. In this work, we introduce Hierarchical Continuous Diffusion Language Models (H-CDLMs), a simple framework that further improves continuous DLMs with minimal compute and parameter overhead. Drawing on the discrete DLM and continuous image diffusion literature on joint diffusion, we diffuse multiple modalities in parallel. These modalities represent tokens at different semantic granularities: in our instantiation, the tokens themselves and coarser clusters obtained by clustering pretrained token embeddings. We propose a general setup that",
-    "link": "http://arxiv.org/abs/2610.08738v1",
-    "publishedAt": "2026-10-06",
-    "categories": [
+      "cs.AI",
       "cs.CL",
-      "cs.LG"
+      "econ.GN"
     ]
   },
   {
-    "id": "arxiv-2610.08735v1",
-    "title": "Optimal and Efficient Online Inverse Optimization",
+    "id": "arxiv-2610.10499v1",
+    "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
     "authors": [
-      "Anupam Gupta",
-      "Guru Guruganesh",
-      "Honghao Lin",
-      "Vahab Mirrokni",
-      "Renato Paes Leme",
-      "David P. Woodruff"
+      "Sasha Voitovych",
+      "Adam Block",
+      "Alexander Rakhlin",
+      "Abhishek Shetty"
     ],
-    "summary": "In online inverse linear optimization, a learner recommends an action and then observes the choice of an expert who maximizes a fixed, unknown linear objective on $\\mathbb{R}^{d}$; the goal is to learn to optimize this objective without observing it. Sakaue recently obtained the optimal regret $O(\\sqrt d)$ with a randomized algorithm making $(dT)^{O(d)}$ linear optimizations per round, and asked whether it can be attained in polynomial time. We answer positively: our deterministic algorithm has regret $O(\\sqrt d)$ for every horizon $T$ and runs in time polynomial in $d$ and $T$. It is a variant of the variable-metric algorithms of Sakaue et al.\\ and Cai et al., in which a metric update is revoked once the query point moves far enough from where the update was made.",
-    "link": "http://arxiv.org/abs/2610.08735v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a promising framework that interpolates between the fully adversarial and fully stochastic settings by assuming that the conditional law of each covariate has density at most $1/σ$ with respect to some fixed base measure $μ$, and it is known to match the statistical and computational guarantees of classical learning while still allowing for much of the flexibility of online learning. However, existing oracle-efficient algorithms require either (i) sampling access to the base me",
+    "link": "http://arxiv.org/abs/2610.10499v1",
+    "publishedAt": "2026-10-07",
     "categories": [
       "cs.LG",
-      "cs.DS"
+      "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2610.08732v1",
-    "title": "A Systematic Study of Semantic ID Spaces for Generative Information Retrieval",
+    "id": "arxiv-2610.10498v1",
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
     "authors": [
-      "Alexia Allal",
-      "Hicham Randrianarivo",
-      "Sylvain Lamprier"
+      "Python Song",
+      "Zhixuan Liang",
+      "Kelsey Fu",
+      "Mengdi Wang",
+      "Junfeng Yang",
+      "Shilong Liu"
     ],
-    "summary": "Generative Information Retrieval (GIR) has emerged as a transformative paradigm, shifting document retrieval from a traditional \"retrieve-and-rank\" workflow to sequence-to-sequence generation, where a model directly predicts document identifiers (DocIDs). While the semantic design of these DocIDs is known to be critical for performance, a fundamental question remains under-explored: what makes a good DocID? Current approaches rely heavily on computationally expensive downstream evaluations, hindering systematic analysis and rapid iteration. In this work, we address this challenge by presenting a comprehensive study on the properties, metrics, and trade-offs that define effective numerical DocIDs. Specifically, our contributions are threefold: First, we propose a unified framework that unif",
-    "link": "http://arxiv.org/abs/2610.08732v1",
-    "publishedAt": "2026-10-06",
+    "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue. We introduce EmbodiedRSI, a self-evolving agentic harness that autonomously decides where to explore next and turns the resulting physical interaction into improved code and skills. EmbodiedRSI realizes this through a Fast-Slow Dual-System Architecture, in which competing code and skill hypotheses are maintained in a Hypothesis Graph. Value-",
+    "link": "http://arxiv.org/abs/2610.10498v1",
+    "publishedAt": "2026-10-07",
     "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10496v1",
+    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+    "authors": [
+      "Kursat Komurcu",
+      "Linas Petkevicius"
+    ],
+    "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom classifier -- and ask what architecture search adds, holding the task, the features and the lake-level train/test split of the original study fixed. Searching an extended multilayer-perceptron space with regularized evolution, and selecting on inner-cross-validation AUC only, we find networks that improve held-out AUC from 0.790 to 0.820 and accuracy from 0.733 to 0.748 while using 409 trainable parameters, 26 times fewer than the strongest hand-designed reference. The search converges on a consistent recipe -- a single narrow layer, RMS normalisation, $\\tanh",
+    "link": "http://arxiv.org/abs/2610.10496v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "cs.NE",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10488v1",
+    "title": "Best Arm Identification for Bandits with Shifting Means",
+    "authors": [
+      "Lukas Zierahn",
+      "Wouter M. Koolen",
+      "Shubhada Agrawal",
+      "Christina Katsimerou",
+      "Dirk van der Hoeven"
+    ],
+    "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time, in Shifting Means only the gaps $\\boldsymbolΔ$ between mean rewards are stable, while their common shift may be determined adversarially in each round. The objective of the learner is to identify the best arm with high probability while minimizing sample complexity (the fixed confidence setting). Handling shifts requires new tools: we show that algorithms employing a Generalized Likelihood Ratio Test (GLRT) stopping rule, including the popular Track-and-Stop, fail under time-varying shifts. Instead, we propose Importance Weights for Shifting Means ($\\mathsf{ISM}$). Assumi",
+    "link": "http://arxiv.org/abs/2610.10488v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10483v1",
+    "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+    "authors": [
+      "Walid Bendada",
+      "Guillaume Salha-Galvan"
+    ],
+    "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned into clusters, 2LS first samples a cluster and then an item within it. In this paper, we show that, despite its advantages, 2LS introduces systematic and undesirable sampling biases, which arise from misweighting clusters by ignoring both cluster size imbalance and intra-cluster similarity dispersion. We propose two sampling methods, Size-Corrected 2LS (S-2LS) and Size- and Dispersion-Corrected 2LS (SD-2LS), which correct these biases and provide provably better softmax approximations with negli",
+    "link": "http://arxiv.org/abs/2610.10483v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "cs.LG",
       "cs.IR",
-      "cs.CL"
+      "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2610.08726v1",
-    "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
+    "id": "arxiv-2610.10478v1",
+    "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
     "authors": [
-      "Lihan Zha",
-      "Shresth Grover",
-      "Tenny Yin",
-      "Samuel M. Bateman",
-      "Hengkai Pan",
-      "Mengchao Zhang",
-      "Aykut Onol",
-      "Allen Z. Ren",
-      "Dhruv Shah",
-      "Anirudha Majumdar"
+      "Tan Yu",
+      "Alexander Bukharin",
+      "Khushi Bhardwaj",
+      "Jennifer Williams",
+      "Zirui Liu",
+      "Jonathan Lingjie Li",
+      "Soumye Singhal",
+      "Joseph Jennings",
+      "Sanjeev Satheesh",
+      "Yash Jain",
+      "Ashish Vaswani",
+      "Venkat Krishna Srinivasan",
+      "Matthew Papakipos",
+      "Hyunwoo Kim",
+      "Jian Zhang",
+      "Oleksii Kuchaiev",
+      "Markus Kliegl",
+      "Mostofa Patwary",
+      "Mohammad Shoeybi",
+      "Bryan Catanzaro",
+      "Jonathan Cohen",
+      "Jiantao Jiao"
     ],
-    "summary": "Egocentric human data offer a path to scaling robot learning beyond costly robot demonstrations, yet the embodiment gap makes raw human trajectories a poor supervisory target for control. Our key insight is that, although low-level actions are embodiment-specific, their underlying motion intent can capture task-relevant structure that transfers across humans and robots. We introduce EgoLAP, a VLA pre-training framework that jointly learns from human and robot trajectories through a shared language-based action chain-of-thought. EgoLAP expresses motion intent as structured, temporally abstracted language actions and pairs them with motion-level reasoning grounded in scene geometry, physics, and object affordances. Across extensive real-world and simulated experiments, EgoLAP transfers human",
-    "link": "http://arxiv.org/abs/2610.08726v1",
-    "publishedAt": "2026-10-06",
+    "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single patch, but they sidestep the core capability we care about: maintaining coherent state over many tool-using steps as the repository evolves. To bridge this gap, we treat successful post-trained agent trajectories as a lookahead signal of base-model potential. Replaying each trajectory and rerunning tes",
+    "link": "http://arxiv.org/abs/2610.10478v1",
+    "publishedAt": "2026-10-07",
     "categories": [
-      "cs.RO",
+      "cs.AI",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2610.10468v1",
+    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+    "authors": [
+      "Ali Asaria",
+      "Deep Gandhi",
+      "Tony Salomone"
+    ],
+    "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, so designers should provide it explicitly, and that the multi-agent systems community holds the tools to do so. We propose a society of agents, a population of persistent agents under explicit institutions, and develop it for science as a society of researchers built on six principles. Principal investigators compete for compute through requests for proposals, independent review, and grants; a human governor, the mayor, allocates resources and assigns no tasks. In a running society of ten thousa",
+    "link": "http://arxiv.org/abs/2610.10468v1",
+    "publishedAt": "2026-10-07",
+    "categories": [
+      "cs.MA",
       "cs.AI"
     ]
   }
@@ -917,4 +972,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-07T22:37:32.917Z';
+export const dataFetchedAt = '2026-10-08T04:18:47.354Z';
