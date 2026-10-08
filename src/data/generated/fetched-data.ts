@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vesta-raises-30m-to-bring-swarms-of-agents-to-mortgage-lende-1791460800000",
-    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-    "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-    "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+    "id": "news-president-trump-awards-big-tech-donors-with-nation-8217-s-hi-1791498839000",
+    "title": "President Trump awards big tech donors with nation&#8217;s highest science prizes",
+    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+    "summary": "On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-supreme-court-sidesteps-employment-law-cases-on-disability-b-1791406920000",
-    "title": "Supreme Court sidesteps employment law cases on disability bias, vaccines",
-    "link": "https://www.hrdive.com/news/supreme-court-sidesteps-disability-bias-vaccines/832427/",
-    "summary": "Appeals courts have taken up several issues that the justices have so far refused to weigh in on during the new term.",
-    "publishedAt": "2026-10-07",
+    "id": "news-aaup-gets-order-over-jewish-employee-records-at-penn-off-the-1791493200000",
+    "title": "AAUP gets order over Jewish employee records at Penn ‘off the books’",
+    "link": "https://www.hrdive.com/news/aaup-gets-order-over-jewish-employee-records-at-penn-off-the-books/832498/",
+    "summary": "Although the Trump administration backed off a subpoena, the faculty group won an appeal vacating a court order that instructed the university to comply.",
+    "publishedAt": "2026-10-08",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hacked-by-trenggalek6etar-1791458475000",
-    "title": "hacked by trenggalek6etar",
-    "link": "https://www.qbitai.com/2026/10/502032.html",
-    "summary": "",
+    "id": "news-gta-6-5-1791466103000",
+    "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+    "link": "https://www.qbitai.com/2026/10/502049.html",
+    "summary": "Vidu Q4预览版，了解一下~",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-300-0-1791462465000",
-    "title": " 国庆宠物留守经济：订单涨超300%，标准还是0 ",
-    "link": "https://www.huxiu.com/article/4895955.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 国庆假期某天清晨，北京的屈女士把四只猫托付给一个刚认识的人，锁门出发。 对方是家政平台的宠物上门喂养员，行程从10月1日排到8日，一天不空。 同一天，交通运输部的预测正在路上应验：七天里，全社会跨区域人员流动量达21.3亿人次。 人走了，宠物没走。 留下来的，是被压缩到假期里集中兑现的照护需求，也是一门还没长成样子的生意。 真正值得问的不是订单为什么会涨300%，而是这门生意为什么涨了这么久，还是老样子。 ⑴21.3亿人次出门，谁留下照看这1.26亿只 先看两组并排放在一起的数字。 一边是交通运输部的假期预测：七天21.3亿人次流动，日均3亿，10月1日单日冲到3.4亿人次，接近日常出行规模的两倍。 分方式看，铁路在中秋国庆运输周期的旅客发送量预计达到2.84亿人，单日峰值有望突破2440万人；民航在9月25日至10月7日预计运送旅客3119万人次，单日峰值可能超过260万人次。 另一位也在跑的是公路：交通运输部预计假期首日高速公路车流量有望达到7100万辆次，接近8月日均交通量的1.9倍。 今年还有一个特殊变量：中秋与国庆之间只隔三个工作日，“请3休13”把出游窗口拉到了全年最长。 中新社援引平台数据显示，每10位游客中就有1位选择把中秋和国庆合并连休，近半数连休游客的出游时长超过8天。 对出门的人来说，这是多玩几天的余量。 对留在",
+    "id": "news-npc-1791475619000",
+    "title": " NPC的尽头是？ ",
+    "link": "https://www.huxiu.com/article/4895995.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：熊晓杰 这两年，全国景区都在卷NPC（Non-Player Character，“非玩家角色”）。似乎没有NPC景区就不好意思开门了。但大家也都在思考一个问题。NPC这股风能刮多久？ 在我看来，NPC不仅会长期存在，而且还会进化。 1950年，地中海俱乐部度假区发明了一个岗位，叫G.O（Gentle Organizer），直译过来是“亲切的组织者”。这个岗位的革命性在哪？在G.O之前，酒店卖的是房间和餐饮；有了G.O，卖的是人和人的关系。G.O白天陪你滑雪，晚上跟你同桌吃饭、教你跳舞，客人与服务员的界限被彻底溶解。 一句话：G.O本身就是产品。 G.O的本质是：多面手、人格连续、员工即产品。白天是网球教练/戏剧演员，晚上是舞台主角，饭点端着盘子跟你拼桌；他不是“演完就下班”，是你住三天他陪你玩三天，记得你的名字；Club Med卖的不是房间和海滩，是这群人。 对照现在的文旅NPC：万岁山武侠城的2000个NPC已经是国内天花板，但大多数仍是脚本化演员——背台词、走位、定点出没，演完即走。游客带走照片，带不走情感账户。 G.O化要解决的就是从“表演”到“关系”这一跳。 今天的NPC，本质上就是G.O的景区版和初级版。只是两者基因有所不同。G.O是去角色化的玩伴——他不扮演任何人，他就是他自己；NPC是角色化的玩伴——有剧本、有人设、有戏剧动机",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1791460794000",
-    "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
-    "link": "https://www.tmtpost.com/8161239.html",
-    "summary": "自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。",
+    "id": "news-62-1791470407000",
+    "title": "一块刹车踏板支架，让江淮一天蒸发62亿元？",
+    "link": "https://www.tmtpost.com/8161639.html",
+    "summary": "尊界V800陷入制动踏板争议，官方宣布优化设计并免费升级，江淮股价跌停，一天蒸发62亿元。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-rejects-elon-musk-8217-s-claim-of-discrimination-over--1791440051000",
-    "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
-    "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-    "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+    "id": "news-pretend-you-8217-re-sitting-at-elizabeth-holmes-8217-desk-on-1791493200000",
+    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
@@ -106,24 +106,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractor-1791406860000",
-    "title": "DOL to up minimum wage to $14 per hour for federal contractors",
-    "link": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
-    "summary": "Despite the increase, the rate remains below Biden-era levels, which hit $15 per hour.",
-    "publishedAt": "2026-10-07",
+    "id": "news-eeoc-moves-to-rescind-conviction-and-arrest-record-guidance--1791492360000",
+    "title": "EEOC moves to rescind conviction and arrest record guidance from 2012",
+    "link": "https://www.hrdive.com/news/eeoc-moves-to-rescind-conviction-and-arrest-record-guidance-from-2012/832553/",
+    "summary": "While the EEOC may be rescinding the guidance, employers should not necessarily change their approach, an attorney warned.",
+    "publishedAt": "2026-10-08",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-nvidia-rtx-spark-n1x-yoga-pro-15-1791455033000",
-    "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-    "link": "https://www.qbitai.com/2026/10/502020.html",
-    "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+    "id": "news-aprce-2026-24-7-1791463411000",
+    "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+    "link": "https://www.qbitai.com/2026/10/502035.html",
+    "summary": "打造便利店“人机协作”运营新模式",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -133,23 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791461553000",
-    "title": " 烂尾的年轻人越来越多了。 ",
-    "link": "https://www.huxiu.com/article/4895954.html?f=rss",
-    "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 01 开篇说句得罪人的话。 很多人国庆假期的状态大概如此：以亲近生活之名，行颓废摆烂之实。 所谓亲近生活，翻译成大白话就是把时间都用在吃喝拉撒睡玩这几件事上。 一个很有意思的现象，你不妨观察那些经常说要利用假期恢复身体的年轻人，假期结束第一天，他们的精神状态反而不如放假前，脾气似乎也变差了。 如果你身边有这样的人，那么基本上可以确定，他们的假期根本不是在休息，而是把休息变成了一种缓慢的自我放弃。 从每周两天的周末，到国庆、春节这样的长假期，每一次的小小放纵看似微不足道，但当这种间断而又漫长的“意志滑坡”逐渐累积起来，最后就会让一个光鲜明亮的人生彻底烂掉。 真的有这么严重吗？ 有，而且可能比我说的还要糟糕。 2002年，Dan Ariely和Klaus Wertenbroch做过一项实验。他们把学生分成三组，要求在三周内完成三篇论文：第一组自由安排交稿时间，第二组被要求分散截止日期，第三组则由老师指定每周交一篇。 结果出乎意料：被规定了分散截止日期的第三组，成绩最好；完全自由安排的第一组，成绩最差。 为什么？ 因为人天然倾向于把想做的事往后推。 你觉得自己有意志力、能自我调节，但实验证明，大多数人对自己的自控力过于自信，最终都拖到了最后一刻。 02 放到人生管理这件事上，逻辑是一样的。 小时候觉得寒暑假挺长的，总有时间写暑假作业，结果临到开学",
-    "publishedAt": "2026-10-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791460313000",
-    "title": "今年国庆，我在代王府共抗瓦剌",
-    "link": "https://www.tmtpost.com/8161358.html",
-    "summary": "你在北方共抗瓦剌，我在南方跟着团长打县城，我们都有光明的未来。",
+    "id": "news--1791467756000",
+    "title": "住房股已充分计价极端悲观预期，业内人士看好托尔兄弟与普尔特集团",
+    "link": "https://www.tmtpost.com/8161634.html",
+    "summary": "Evercore ISI 的斯蒂芬·金表示，现在还不是买入住房类股票的合适时机。但如果行业减少新建规模、同时抵押贷款利率下降，这种情况在未来六个月内可能会发生变化。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -172,36 +158,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robot-data-startup-mecka-ai-nabs-60m-from-sequoia-1791416217000",
-    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-    "publishedAt": "2026-10-07",
+    "id": "news-fired-openai-safety-researchers-dispute-misconduct-claims-wa-1791489866000",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-gallup-finds-both-parties-more-bullish-on-dei-what-s-this-me-1791387540000",
-    "title": "Gallup finds both parties more bullish on DEI. What’s this mean for HR?",
-    "link": "https://www.hrdive.com/news/republicans-dei-stance-2026/832375/",
-    "summary": "People across the political spectrum increasingly see the benefits of DEI in the workplace, including for profitability.",
-    "publishedAt": "2026-10-07",
+    "id": "news-this-week-in-5-numbers-manager-led-development-can-aid-reten-1791492360000",
+    "title": "This week in 5 numbers: Manager-led development can aid retention",
+    "link": "https://www.hrdive.com/news/manager-led-development-can-aid-retention/832519/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much the hourly minimum wage for federal contractors is expected to increase.",
+    "publishedAt": "2026-10-08",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-manus-1791451817000",
-    "title": "浪子回头！Manus重启北京办公室大举招聘",
-    "link": "https://www.qbitai.com/2026/10/502009.html",
-    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+    "id": "news-nvidia-rtx-spark-n1x-yoga-pro-15-1791455033000",
+    "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+    "link": "https://www.qbitai.com/2026/10/502020.html",
+    "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -211,24 +199,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791461239000",
-    "title": " 小女孩将闪闪发光的蓝色粉末涂遍全身，四周后她迎来了惨烈的死亡 ",
-    "link": "https://www.huxiu.com/article/4895953.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：窗敲雨，编辑：Luna 1987年9月18日夜晚，废品回收站老板德瓦尔（Devair Alves Ferreira）走进仓库。他注意到，废品堆中有一样东西正散发着蓝色的光芒。 那是一个小小的圆柱形金属罐，它的一端已经破损，露出内部闪闪发光的粉末。德瓦尔从未见过这样奇特的光芒，他情不自禁地伸手拾起小罐，把它带回了家中。 那时的德瓦尔还不知道，自己已经卷入了巴西历史上最严重的安全事故之一。这个心血来潮的举动，最终让他和他的家人痛苦终生。 打开魔盒 这个神秘小罐子的来历要从两位拾荒者说起。 1987年9月13日，拾荒者阿尔维斯（Roberto Alves）和佩雷拉（Wagner Pereira）溜进了巴西戈亚尼亚市一处建筑物废墟，在这里寻找可以偷走卖钱的金属物品。两人被一台有着闪亮不锈钢外壳的仪器吸引，他们成功拆下了仪器上会旋转的“头部”，把零件装上小推车带回家中。 4小时后，两人感到身体不适，开始呕吐了起来。他们对此并不在意，认为自己只是偶然吃坏了肚子。 经过几天的努力，两人用简易工具拆开了他们偷走的仪器部件，在里面发现了圆柱形的小金属罐。他们用螺丝刀破坏金属罐，露出了其中会发光的粉末。18日，两人把这些东西全部卖到了德瓦尔的废品回收站。 德瓦尔的废品回收站内部。在这里，他接收了拾荒者带来的神秘零件。|Petr Pavlicek/Internatio",
-    "publishedAt": "2026-10-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1791460148000",
-    "title": "我在山姆“进厂式”工作：外企滤镜、流水线与人间剧场",
-    "link": "https://www.tmtpost.com/8161242.html",
-    "summary": "一半是甜蜜，一半是苦涩",
+    "id": "news--1791465486000",
+    "title": "业绩失色，股价腰斩，西部材料仍要在高处定增“补血”",
+    "link": "https://www.tmtpost.com/8161567.html",
+    "summary": "近三成补流，现金流压力凸显",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -252,11 +226,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises--1791413956000",
-    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
-    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-    "publishedAt": "2026-10-07",
+    "id": "news-watch-the-trailer-for-8216-the-altruists-8217-netflix-8217-s-1791484200000",
+    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
+    "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+    "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+    "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -265,25 +239,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-may-be-hampering-future-organizational-growth-1791384480000",
-    "title": "AI adoption may be hampering future organizational growth",
-    "link": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
-    "summary": "As positions are eliminated or streamlined, employees need experiential and development opportunities, a report found.",
-    "publishedAt": "2026-10-07",
+    "id": "news-even-woman-presenting-ai-bots-are-paid-less-research-says-1791471840000",
+    "title": "Even woman-presenting AI bots are ‘paid’ less, research says",
+    "link": "https://www.hrdive.com/news/even-woman-presenting-ai-bots-are-paid-less/832429/",
+    "summary": "&ldquo;We don&rsquo;t want to inadvertently reproduce existing inequalities in a new technological setting,&rdquo; a researcher said.",
+    "publishedAt": "2026-10-08",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-chatgpt-13-98-1791451724000",
-    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-    "link": "https://www.qbitai.com/2026/10/501995.html",
-    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+    "id": "news-manus-1791451817000",
+    "title": "浪子回头！Manus重启北京办公室大举招聘",
+    "link": "https://www.qbitai.com/2026/10/502009.html",
+    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -293,23 +266,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791460614000",
-    "title": " 战魔田默｜从一部作品到一门长久生意，内容产业靠什么持续增长？ ",
-    "link": "https://www.huxiu.com/article/4895951.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜从一部作品到一门长久生意，内容产业靠什么持续增长？》 一部作品的成功，可以结束一个项目，也可以开启一门生意。区别在于，热度退去之后，企业还留下了什么。 留下的是一笔已经结算的收入，还是仍然被需要的内容、可以继续开发的权利、愿意再次选择的用户，以及创作下一部作品的能力？ 这些积累，决定了下一次经营是重新起步，还是能够站在过去的成果之上。 派拉蒙完成对华纳兄弟探索的收购，让百年内容积累再次成为巨额交易的核心。 但经典作品可以长期被喜爱，拥有它们的企业却仍然需要调整经营方式。 作品的生命，并不会自动转化为企业的持续增长。 观众仍然需要一个故事，不代表仍然通过原来的渠道观看；一个人物持续走红，不代表原来的经营者掌握后续开发权；企业能够推出新产品，也不代表用户愿意再次付费。 内容的影响可以留在社会中，收益却会随着媒介、产品和合作关系的变化重新分配。 从一部作品到一门长久生意，需要把这种影响转化为能够持续满足需求的经营条件，并让已有成果支持新的创造。 内容产业的增长，既来自不断出现的新作品，也来自企业能否让每一次有效创造，为未来留下更多可能。 01 作品之外，企业还需要积累什么 一部电影取得高票房，一本书成为畅销书，一款游戏吸引大量玩家，都说明它在特定条件下获得了市场认可。 但作品的成功、项目的盈利与企业的成长，是三个需要",
-    "publishedAt": "2026-10-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1791460046000",
-    "title": "跳出游戏争当AI金主，“腾讯们”到底图啥",
-    "link": "https://www.tmtpost.com/8161222.html",
-    "summary": "尝到高回报的甜头",
+    "id": "news-iii-1791463881000",
+    "title": "伏美替尼全球III期试验折戟，艾力斯封死跌停、市值蒸发超百亿",
+    "link": "https://www.tmtpost.com/8157818.html",
+    "summary": "除艾力斯跌停外，创新药板块集体走弱，万得创新药概念指数（8841049.WI）当日收跌3.87%。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -332,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-    "publishedAt": "2026-10-07",
+    "id": "news-ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-1791483632000",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -345,11 +305,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-few-chros-say-they-feel-very-confident-they-can-manage-ai-dr-1791384480000",
-    "title": "Few CHROs say they feel very confident they can manage AI-driven change",
-    "link": "https://www.hrdive.com/news/few-chros-feel-very-confident-they-can-manage-ai-driven-change/832359/",
-    "summary": "Survey respondents cited difficulty predicting AI&rsquo;s workforce impacts as a primary barrier to preparing for the future.",
-    "publishedAt": "2026-10-07",
+    "id": "news-ai-assisted-performance-reviews-can-t-replace-human-insight--1791470460000",
+    "title": "AI-assisted performance reviews can’t replace human insight, report warns",
+    "link": "https://www.hrdive.com/news/ai-assisted-performance-reviews-cant-replace-human-insight-report-warns/832471/",
+    "summary": "A good manager can tell the difference between a smart risk and a careless mistake, but that takes context&nbsp;&mdash; and context is exactly what AI doesn&rsquo;t have, Highwire&rsquo;s CEO told HR Dive.",
+    "publishedAt": "2026-10-08",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -359,10 +319,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791450655000",
-    "title": "吉利智充技术正式发布，重塑全球补能新标杆",
-    "link": "https://www.qbitai.com/2026/10/501956.html",
-    "summary": "2027年底实现“县县通”",
+    "id": "news-chatgpt-13-98-1791451724000",
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "link": "https://www.qbitai.com/2026/10/501995.html",
+    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -372,23 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1100-1791460600000",
-    "title": " 战魔田默｜派拉蒙1100亿美元买下华纳，百年内容如何扛起巨额债务？ ",
-    "link": "https://www.huxiu.com/article/4895950.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜派拉蒙1100亿美元买下华纳，百年内容如何扛起巨额债务？》 1100亿美元买下华纳之后，派拉蒙还需要证明，扩大的内容版图能够产生足够的现金，支撑偿债和下一轮创作。 当地时间10月6日，派拉蒙完成对华纳兄弟探索的收购，交易价值含债务约1100亿美元。 合并后的公司名为Skydance，旗下汇集派拉蒙影业、华纳兄弟、HBO、CBS、CNN、Paramount+和HBO Max等品牌与业务，好莱坞两家百年制片厂由此进入同一个集团。 与庞大的内容版图一起到来的，还有沉重的财务压力。据美联社援引晨星估算，合并后公司的净债务约为800亿美元。 公司则计划在三年内实现至少60亿美元的年化协同效益。 新公司需要节约成本、偿还债务，又必须持续投入创作，才能让买来的资产保有价值。削减投入可能伤及未来，维持投入又需要足够的现金支持。 这笔交易把两家公司的内容积累集中起来，也把各自的转型压力放进了同一张资产负债表。 能否让整合产生的现金赶上偿债与新内容投入的需要，将决定规模扩张究竟带来优势，还是负担。 01 派拉蒙为什么选择买下华纳 派拉蒙和华纳兄弟探索都不缺知名作品。 前者拥有派拉蒙影业、CBS和Paramount+，后者拥有华纳兄弟、HBO、CNN和HBO Max。 它们积累了品牌、版权、人才和发行网络，却仍然需要寻找新的增长支点",
-    "publishedAt": "2026-10-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791459840000",
-    "title": "门票之外，景区还在靠什么赚钱？",
-    "link": "https://www.tmtpost.com/8161118.html",
-    "summary": "门票变成了二次消费的起点。",
+    "id": "news-500-1791460794000",
+    "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
+    "link": "https://www.tmtpost.com/8161239.html",
+    "summary": "自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -971,4 +918,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-08T12:44:43.109Z';
+export const dataFetchedAt = '2026-10-08T22:49:19.853Z';
