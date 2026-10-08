@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-1791375000000",
-    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly&#8230;",
-    "publishedAt": "2026-10-07",
+    "id": "news-the-download-ai-roadblocks-for-humanoids-and-portable-rubber-1791461400000",
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;",
+    "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robot-data-startup-mecka-ai-nabs-60m-from-sequoia-1791416217000",
-    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-    "publishedAt": "2026-10-07",
+    "id": "news-vesta-raises-30m-to-bring-swarms-of-agents-to-mortgage-lende-1791460800000",
+    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+    "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+    "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+    "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -40,9 +40,9 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-stepx-neo-10-13-1791425737000",
-    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-    "link": "https://www.qbitai.com/2026/10/501915.html",
+    "id": "news-hacked-by-trenggalek6etar-1791458475000",
+    "title": "hacked by trenggalek6etar",
+    "link": "https://www.qbitai.com/2026/10/502032.html",
     "summary": "",
     "publishedAt": "2026-10-08",
     "source": "量子位",
@@ -53,24 +53,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2980-ai-1791432536000",
-    "title": " 花2980送孩子去大厂学AI，第一天就后悔了 ",
-    "link": "https://www.huxiu.com/article/4895797.html?f=rss",
-    "summary": "本文来自微信公众号： 看客inSight ，作者：看客 最需要AI的，是孩子吗？ 今年社交媒体上，“9岁小学生获AI大赛一等奖”、“13岁少女靠AI3天赚1.8万”的传说刷了屏，家长们的焦虑也水涨船高。 最直接的表现就是，AI研学营火了。 从今年暑假开始，“AI研学”订单较去年同期增长370%。十一假期期间，“7天养成少年CEO”、“带孩子做出人生第一个AI产品”的宣传语同样层出不穷。 课程价格有高有低，便宜的五天两三千，贵的甚至能卖到三五万。最火的研学目的地从北大、清华，变成了字节、阿里，孩子们出行的目的从“参观理想的学府”变成了“参观理想的工位”。 但，三五天的研学，真的能把孩子托进AI时代吗？家长们得出的答案各不相同。 一 “参观理想的工位” 陪着孩子来到大厂AI研学营的第二天，Bigger从讲座上溜出来透气。走出大厅，才发现也有好几个家长溜号出来了，大家面面相觑，一时都露出苦笑。 他们参加的是一个三天的AI研学营。Bigger是从短视频网站上刷到这家的广告的，活动内容写得很“豪华”，会带着孩子参观大企业，接触最前沿的AI，体验具体的操作，还有浙大的研学、和学姐学长的交流。 广告里也特别提到，这是一场“亲子共学”，要求家长也一起去。 对Bigger来说，这算是一个加分项。她的本职工作是教培老师，教数学；研学营在浙江办，她早就听说浙江的数学竞赛做得非常好，也想听听那边的教学经验",
+    "id": "news-300-0-1791462465000",
+    "title": " 国庆宠物留守经济：订单涨超300%，标准还是0 ",
+    "link": "https://www.huxiu.com/article/4895955.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 国庆假期某天清晨，北京的屈女士把四只猫托付给一个刚认识的人，锁门出发。 对方是家政平台的宠物上门喂养员，行程从10月1日排到8日，一天不空。 同一天，交通运输部的预测正在路上应验：七天里，全社会跨区域人员流动量达21.3亿人次。 人走了，宠物没走。 留下来的，是被压缩到假期里集中兑现的照护需求，也是一门还没长成样子的生意。 真正值得问的不是订单为什么会涨300%，而是这门生意为什么涨了这么久，还是老样子。 ⑴21.3亿人次出门，谁留下照看这1.26亿只 先看两组并排放在一起的数字。 一边是交通运输部的假期预测：七天21.3亿人次流动，日均3亿，10月1日单日冲到3.4亿人次，接近日常出行规模的两倍。 分方式看，铁路在中秋国庆运输周期的旅客发送量预计达到2.84亿人，单日峰值有望突破2440万人；民航在9月25日至10月7日预计运送旅客3119万人次，单日峰值可能超过260万人次。 另一位也在跑的是公路：交通运输部预计假期首日高速公路车流量有望达到7100万辆次，接近8月日均交通量的1.9倍。 今年还有一个特殊变量：中秋与国庆之间只隔三个工作日，“请3休13”把出游窗口拉到了全年最长。 中新社援引平台数据显示，每10位游客中就有1位选择把中秋和国庆合并连休，近半数连休游客的出游时长超过8天。 对出门的人来说，这是多玩几天的余量。 对留在",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-20-1791431690000",
-    "title": "保时捷接受低销量时代，盈亏线降至20万辆以下",
-    "link": "https://www.tmtpost.com/8160722.html",
-    "summary": "保时捷首席执行官Michael Leiters 表示，中国市场的复苏目前不在我们的计划之内。",
+    "id": "news-500-1791460794000",
+    "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
+    "link": "https://www.tmtpost.com/8161239.html",
+    "summary": "自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -81,23 +80,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-weight-loss-drugs-show-signs-of-slowing-biological-aging-say-1791304836000",
-    "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-    "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate&#8230;",
-    "publishedAt": "2026-10-06",
+    "id": "news-why-we-re-watching-these-climate-tech-companies-1791453600000",
+    "title": "Why we’re watching these climate tech companies",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
+    "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises--1791413956000",
-    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
-    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-    "publishedAt": "2026-10-07",
+    "id": "news-india-rejects-elon-musk-8217-s-claim-of-discrimination-over--1791440051000",
+    "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
+    "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+    "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -120,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-arc-1791425076000",
-    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-    "link": "https://www.qbitai.com/2026/10/501913.html",
-    "summary": "",
+    "id": "news-nvidia-rtx-spark-n1x-yoga-pro-15-1791455033000",
+    "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+    "link": "https://www.qbitai.com/2026/10/502020.html",
+    "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -133,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-81-1791432400000",
-    "title": " 机票涨了11%，三大航却巨亏了81亿 ",
-    "link": "https://www.huxiu.com/article/4895796.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 10月7日上午，航司售票页面挂出一条调价通知。 自10月10日起，国内航线燃油附加费上调：800公里以下航段由40元调至50元，800公里以上由70元调至90元。 这笔钱已经算进了你手里的票价。 另一组数字在三大航半年报里：上半年营收2581亿元，同比增超10%，归母净利润合计亏损81.61亿元。 国庆国内经济舱含税均价929.7元，同比涨11.2%。 票价在涨，亏损也在涨。 多付的钱，究竟进了谁的口袋？ ⑴涨价的11%和亏掉的81亿 先看涨价这一端，数据没有任何含糊。 航班管家数据显示，截至9月29日，2026年国庆假期国内经济舱含税加权平均票价为929.7元，2025年同期是836.0元，涨幅11.2%。 裸票均价820.2元，同比上涨6.0%。 含税涨幅比裸票涨幅高出5.2个百分点，中间多出来的那一段，就是税费和燃油附加费。 把时间轴拉长，涨势更清楚。 2026年上半年，民航国内经济舱含税平均票价约为808元，同比上涨8.7%，比2019年同期微增0.9%。 这是三年多来第一次像样的票价修复。 三大航的收入端同步向上：国航营业收入892.68亿元，同比增长10.54%；东航742.34亿元，同比增长11.09%；南航946.79亿元，同比增长9.72%。 三家加起来2581亿元，同比增长超过10%。 再看亏损这一端。 国航归母净",
+    "id": "news--1791461553000",
+    "title": " 烂尾的年轻人越来越多了。 ",
+    "link": "https://www.huxiu.com/article/4895954.html?f=rss",
+    "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 01 开篇说句得罪人的话。 很多人国庆假期的状态大概如此：以亲近生活之名，行颓废摆烂之实。 所谓亲近生活，翻译成大白话就是把时间都用在吃喝拉撒睡玩这几件事上。 一个很有意思的现象，你不妨观察那些经常说要利用假期恢复身体的年轻人，假期结束第一天，他们的精神状态反而不如放假前，脾气似乎也变差了。 如果你身边有这样的人，那么基本上可以确定，他们的假期根本不是在休息，而是把休息变成了一种缓慢的自我放弃。 从每周两天的周末，到国庆、春节这样的长假期，每一次的小小放纵看似微不足道，但当这种间断而又漫长的“意志滑坡”逐渐累积起来，最后就会让一个光鲜明亮的人生彻底烂掉。 真的有这么严重吗？ 有，而且可能比我说的还要糟糕。 2002年，Dan Ariely和Klaus Wertenbroch做过一项实验。他们把学生分成三组，要求在三周内完成三篇论文：第一组自由安排交稿时间，第二组被要求分散截止日期，第三组则由老师指定每周交一篇。 结果出乎意料：被规定了分散截止日期的第三组，成绩最好；完全自由安排的第一组，成绩最差。 为什么？ 因为人天然倾向于把想做的事往后推。 你觉得自己有意志力、能自我调节，但实验证明，大多数人对自己的自控力过于自信，最终都拖到了最后一刻。 02 放到人生管理这件事上，逻辑是一样的。 小时候觉得寒暑假挺长的，总有时间写暑假作业，结果临到开学",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791429892000",
-    "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
-    "link": "https://www.tmtpost.com/8160841.html",
-    "summary": "这个行业究竟在卖什么？",
+    "id": "news--1791460313000",
+    "title": "今年国庆，我在代王府共抗瓦剌",
+    "link": "https://www.tmtpost.com/8161358.html",
+    "summary": "你在北方共抗瓦剌，我在南方跟着团长打县城，我们都有光明的未来。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -160,11 +160,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-10-climate-tech-companies-to-watch-1791288600000",
-    "title": "The Download: 10 climate tech companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;",
-    "publishedAt": "2026-10-06",
+    "id": "news-ai-breakthroughs-in-robotics-won-8217-t-change-your-life-any-1791450000000",
+    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+    "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "id": "news-robot-data-startup-mecka-ai-nabs-60m-from-sequoia-1791416217000",
+    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -185,10 +185,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-republicans-democrats-alike-more-bullish-on-dei-in-2026-1791387540000",
-    "title": "Republicans, Democrats alike more bullish on DEI in 2026",
+    "id": "news-gallup-finds-both-parties-more-bullish-on-dei-what-s-this-me-1791387540000",
+    "title": "Gallup finds both parties more bullish on DEI. What’s this mean for HR?",
     "link": "https://www.hrdive.com/news/republicans-dei-stance-2026/832375/",
-    "summary": "A Gallup poll suggests that people across the political spectrum increasingly see the benefits of DEI in the workplace. What does this mean for HR?",
+    "summary": "People across the political spectrum increasingly see the benefits of DEI in the workplace, including for profitability.",
     "publishedAt": "2026-10-07",
     "source": "HR Dive",
     "tags": [
@@ -198,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-6-1791421639000",
-    "title": "GPT-6今起免费用！拒答变少，话变多了",
-    "link": "https://www.qbitai.com/2026/10/501834.html",
-    "summary": "ChatGPT聊天框长出界面",
+    "id": "news-manus-1791451817000",
+    "title": "浪子回头！Manus重启北京办公室大举招聘",
+    "link": "https://www.qbitai.com/2026/10/502009.html",
+    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -211,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791431775000",
-    "title": " 【珊瑚说】这十个月，AI时代的浮世众生 ",
-    "link": "https://www.huxiu.com/article/4895794.html?f=rss",
-    "summary": "本文来自微信公众号： 脑极体 ，作者：珊瑚，原文标题：《【珊瑚说】这十个月，AI时代的浮世众生》 过去几年，关于AI的公共叙事几乎被两种声音垄断。一种来自硅谷和华尔街，那里的人们谈论的是千亿参数、万卡集群和下一个万亿市值的入口；另一种来自媒体和营销号，它们反复告诉我们，AI要么会抢走你的饭碗，要么会给你一个一夜暴富的机会。这两种声音合在一起，构成了一幅相当狭窄的图景：AI是精英的棋盘，是资本的游戏，普通人要么被它淘汰，要么被它收割。 中间那些真实的、琐碎的、不那么戏剧化的生活，几乎没有人去写。 曾经，困在新闻头条中的我也以为，AI离普通人的生活很远。然而，当我真正走进这些人的生活，会发现AI的流向远比那些宏大叙事复杂。它从硅谷的机房涌出，漫过中关村的写字楼，漫过杭州的出租屋，漫过上海的情侣卧室，漫过川西的雪山和隧洞，最终渗进每一个普通人的日常。 有人在AI弥漫的浓雾中挣扎，有人在雾里摸索，有人被雾裹挟着往前走，也有人干脆站在雾外，看着雾起雾散，不为所动。 我所采访的这些人里，有站在海拔两千米的雪山隧洞修智算中心的工人；有在杭州月租一千六的出租屋里、靠给AI“打下手”月入过万的毕业生；有在结婚前被相爱十年的爱人用一份AI生成的报告判处“死刑”的未婚妻；也有八十三岁、每天雷打不动花七八个小时学AI的耄耋老人。 这些故事像一幅徐徐展开的浮世绘，雾气散开，每一张脸都不一样。 第一批要讲述的",
+    "id": "news--1791461239000",
+    "title": " 小女孩将闪闪发光的蓝色粉末涂遍全身，四周后她迎来了惨烈的死亡 ",
+    "link": "https://www.huxiu.com/article/4895953.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：窗敲雨，编辑：Luna 1987年9月18日夜晚，废品回收站老板德瓦尔（Devair Alves Ferreira）走进仓库。他注意到，废品堆中有一样东西正散发着蓝色的光芒。 那是一个小小的圆柱形金属罐，它的一端已经破损，露出内部闪闪发光的粉末。德瓦尔从未见过这样奇特的光芒，他情不自禁地伸手拾起小罐，把它带回了家中。 那时的德瓦尔还不知道，自己已经卷入了巴西历史上最严重的安全事故之一。这个心血来潮的举动，最终让他和他的家人痛苦终生。 打开魔盒 这个神秘小罐子的来历要从两位拾荒者说起。 1987年9月13日，拾荒者阿尔维斯（Roberto Alves）和佩雷拉（Wagner Pereira）溜进了巴西戈亚尼亚市一处建筑物废墟，在这里寻找可以偷走卖钱的金属物品。两人被一台有着闪亮不锈钢外壳的仪器吸引，他们成功拆下了仪器上会旋转的“头部”，把零件装上小推车带回家中。 4小时后，两人感到身体不适，开始呕吐了起来。他们对此并不在意，认为自己只是偶然吃坏了肚子。 经过几天的努力，两人用简易工具拆开了他们偷走的仪器部件，在里面发现了圆柱形的小金属罐。他们用螺丝刀破坏金属罐，露出了其中会发光的粉末。18日，两人把这些东西全部卖到了德瓦尔的废品回收站。 德瓦尔的废品回收站内部。在这里，他接收了拾荒者带来的神秘零件。|Petr Pavlicek/Internatio",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
@@ -225,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-siri-muse-ai-1791429473000",
-    "title": "从Siri到Muse，我们如何一步步把生活交给AI",
-    "link": "https://www.tmtpost.com/8160467.html",
-    "summary": "Siri要追赶一个由自己开启的do engine愿景。新晋的Muse们也需要经历一个不断完善可靠性、安全性和经济性的过程。",
+    "id": "news--1791460148000",
+    "title": "我在山姆“进厂式”工作：外企滤镜、流水线与人间剧场",
+    "link": "https://www.tmtpost.com/8161242.html",
+    "summary": "一半是甜蜜，一半是苦涩",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -239,22 +239,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-climate-tech-companies-to-watch-1791282900000",
-    "title": "2026 Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-    "summary": "",
-    "publishedAt": "2026-10-06",
+    "id": "news-building-a-safer-path-to-autonomous-industrial-ai-1791447452000",
+    "title": "Building a safer path to autonomous industrial AI",
+    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-wind-1791404557000",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "id": "news-while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises--1791413956000",
+    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
+    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -279,10 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-gpt-6-luna-openai-1791421440000",
-    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-    "link": "https://www.qbitai.com/2026/10/501832.html",
-    "summary": "小模型新守门员",
+    "id": "news-chatgpt-13-98-1791451724000",
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "link": "https://www.qbitai.com/2026/10/501995.html",
+    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
     "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
@@ -292,24 +293,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-ai-1791431705000",
-    "title": " 【藏狐说】2026这十个月，AI焦虑中的人们和我 ",
-    "link": "https://www.huxiu.com/article/4895793.html?f=rss",
-    "summary": "本文来自微信公众号： 脑极体 ，作者：藏狐，原文标题：《【藏狐说】2026这十个月，AI焦虑中的人们和我》 先祝大家假期快乐。作为一个i人，我习惯了隐藏在藏狐这个笔名背后分析技术和产业，不喜欢自我流露太多，也觉得自己的现实生活和性格都十分普通，不值多提。 不过，在AI能轻易生成万语千言的今天，我越来越喜欢文字背后所链接的，一个碳基生物的情绪起伏和神经冲动。再普通的人，也有着生命独有的分量。所以，便一直想找机会跟读者们聊聊天，也给大家汇报一下今年以来我个人的一些行业见闻。 为啥非要在十月做个总结？答案是，编辑部开例会，你一言我一语就聊到这儿了…… 9月28日的编辑部例行周会上，大家挨个分享近期工作，用黑话说就是拉通对齐一下。 有人提到硅谷甚嚣尘上的AI末日论，说美国人太爱杞人忧天；有人提到Openclaw爆火时安装的文件，现在还留在自己的电脑里，想想当时全民养虾的焦虑真是没必要。 轮到我时，我说：“我到了两边都能理解的状态。” “整体我的感受就是，比较复杂吧。要说AI末日论、AI泡沫论，我没那么悲观，但要说特别不焦虑呢，其实也没有。我能够很明显地感觉到，为什么在程序员圈子或大众圈子会流行这种焦虑。如果AI是一个杠杆的话，那这个杠杆确实是所有人都能够接触到的。AI下沉的速度、普及的速度非常快，但是每个人能够撬动这个杠杆的这种能力，还是不太一样。” 这是我在内部分享的感受，确实存在两种都",
+    "id": "news--1791460614000",
+    "title": " 战魔田默｜从一部作品到一门长久生意，内容产业靠什么持续增长？ ",
+    "link": "https://www.huxiu.com/article/4895951.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜从一部作品到一门长久生意，内容产业靠什么持续增长？》 一部作品的成功，可以结束一个项目，也可以开启一门生意。区别在于，热度退去之后，企业还留下了什么。 留下的是一笔已经结算的收入，还是仍然被需要的内容、可以继续开发的权利、愿意再次选择的用户，以及创作下一部作品的能力？ 这些积累，决定了下一次经营是重新起步，还是能够站在过去的成果之上。 派拉蒙完成对华纳兄弟探索的收购，让百年内容积累再次成为巨额交易的核心。 但经典作品可以长期被喜爱，拥有它们的企业却仍然需要调整经营方式。 作品的生命，并不会自动转化为企业的持续增长。 观众仍然需要一个故事，不代表仍然通过原来的渠道观看；一个人物持续走红，不代表原来的经营者掌握后续开发权；企业能够推出新产品，也不代表用户愿意再次付费。 内容的影响可以留在社会中，收益却会随着媒介、产品和合作关系的变化重新分配。 从一部作品到一门长久生意，需要把这种影响转化为能够持续满足需求的经营条件，并让已有成果支持新的创造。 内容产业的增长，既来自不断出现的新作品，也来自企业能否让每一次有效创造，为未来留下更多可能。 01 作品之外，企业还需要积累什么 一部电影取得高票房，一本书成为畅销书，一款游戏吸引大量玩家，都说明它在特定条件下获得了市场认可。 但作品的成功、项目的盈利与企业的成长，是三个需要",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791429468000",
-    "title": "造车新势力，集体走向电池深水区",
-    "link": "https://www.tmtpost.com/8160469.html",
-    "summary": "争夺话语权",
+    "id": "news-ai-1791460046000",
+    "title": "跳出游戏争当AI金主，“腾讯们”到底图啥",
+    "link": "https://www.tmtpost.com/8161222.html",
+    "summary": "尝到高回报的甜头",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -320,23 +320,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-s-how-our-climate-team-picked-10-promising-companies-to-1791282900000",
-    "title": "Here’s how our climate team picked 10 promising companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-    "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
-    "publishedAt": "2026-10-06",
+    "id": "news-the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-1791375000000",
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly&#8230;",
+    "publishedAt": "2026-10-07",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-meta-8217-s-muse-launches-on-ipad-just-a-month-after-its-mob-1791397857000",
-    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "id": "news-nous-research-confirms-it-hit-1-5b-valuation-launches-ai-age-1791406125000",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
     "publishedAt": "2026-10-07",
     "source": "TechCrunch",
     "tags": [
@@ -360,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-25-95-1791382233000",
-    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-    "link": "https://www.qbitai.com/2026/10/501825.html",
-    "summary": "",
-    "publishedAt": "2026-10-07",
+    "id": "news--1791450655000",
+    "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+    "link": "https://www.qbitai.com/2026/10/501956.html",
+    "summary": "2027年底实现“县县通”",
+    "publishedAt": "2026-10-08",
     "source": "量子位",
     "tags": [
       "china",
@@ -373,10 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791431452000",
-    "title": " 亚朵的床外收入，酒店业的寒门贵子 ",
-    "link": "https://www.huxiu.com/article/4895792.html?f=rss",
-    "summary": "本文来自微信公众号： 真故研究室 ，编辑：张铎，作者：何雯静 当一晚房越来越难卖贵，酒店开始把目光从床上移开，寻找更多「床外收入」。枕头、早餐、洗衣、会员……原本附着在住宿上的商品和服务，被一件件拆出来，成为酒店寻找新增收入的入口。 今年中秋、国庆，旅游市场的变化让这件事变得更明显。假期出行规模依然庞大，但同比增速较五一有所回落；「请3休13」把原本集中的黄金周拉成了近两周。客流高峰被摊平，酒店连住订单量同比增长31%。 游客走得更远、住得更久，也给酒店带来了更多房费之外的消费机会。酒店经营的逻辑，也从围绕房间组织生意，转向围绕客人组织生意。 #01 酒店不只卖一晚房 自打有了孩子，玲子彻底爱上了Staycation。这个国庆，她专程去白云山脚下的鸣泉居待上两天一夜。 Staycation，由Stay和Vacation组合而来，指的是不用长途旅行，在本地或附近找一家酒店度过假期。「与其塞在高速上，还不如躲进山里，只要人放松了，钱才算花得值。」 玲子在大堂酒廊喝下午茶，看孩子和家人在窗外的草坪肆意奔跑，觉得假期带娃的煎熬少了许多。35℃的高温，大金钟湖旁茂密的树林仿佛自带凉意，一家人在傍晚时分自在散步。房费不到1000元，但儿童乐园、泳池和中餐厅的花销，已经超过了房费。 过去，这样的生意更多属于度假酒店。现在，一些没有泳池、草坪和景区的经济型、舒适型酒店，也希望让客人在睡觉之外多停留",
+    "id": "news-1100-1791460600000",
+    "title": " 战魔田默｜派拉蒙1100亿美元买下华纳，百年内容如何扛起巨额债务？ ",
+    "link": "https://www.huxiu.com/article/4895950.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜派拉蒙1100亿美元买下华纳，百年内容如何扛起巨额债务？》 1100亿美元买下华纳之后，派拉蒙还需要证明，扩大的内容版图能够产生足够的现金，支撑偿债和下一轮创作。 当地时间10月6日，派拉蒙完成对华纳兄弟探索的收购，交易价值含债务约1100亿美元。 合并后的公司名为Skydance，旗下汇集派拉蒙影业、华纳兄弟、HBO、CBS、CNN、Paramount+和HBO Max等品牌与业务，好莱坞两家百年制片厂由此进入同一个集团。 与庞大的内容版图一起到来的，还有沉重的财务压力。据美联社援引晨星估算，合并后公司的净债务约为800亿美元。 公司则计划在三年内实现至少60亿美元的年化协同效益。 新公司需要节约成本、偿还债务，又必须持续投入创作，才能让买来的资产保有价值。削减投入可能伤及未来，维持投入又需要足够的现金支持。 这笔交易把两家公司的内容积累集中起来，也把各自的转型压力放进了同一张资产负债表。 能否让整合产生的现金赶上偿债与新内容投入的需要，将决定规模扩张究竟带来优势，还是负担。 01 派拉蒙为什么选择买下华纳 派拉蒙和华纳兄弟探索都不缺知名作品。 前者拥有派拉蒙影业、CBS和Paramount+，后者拥有华纳兄弟、HBO、CNN和HBO Max。 它们积累了品牌、版权、人才和发行网络，却仍然需要寻找新的增长支点",
     "publishedAt": "2026-10-08",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791429465000",
-    "title": "化疗组超常发挥，重创了艾力斯的全球野心",
-    "link": "https://www.tmtpost.com/8160511.html",
-    "summary": "2026年10月6日，大洋彼岸的一则公告，让中国创新药行业的空气骤然凝固。",
+    "id": "news--1791459840000",
+    "title": "门票之外，景区还在靠什么赚钱？",
+    "link": "https://www.tmtpost.com/8161118.html",
+    "summary": "门票变成了二次消费的起点。",
     "publishedAt": "2026-10-08",
     "source": "钛媒体",
     "tags": [
@@ -972,4 +971,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-08T04:18:47.354Z';
+export const dataFetchedAt = '2026-10-08T12:44:43.109Z';
