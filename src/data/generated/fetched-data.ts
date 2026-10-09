@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-roadblocks-for-humanoids-and-portable-rubber-1791461400000",
-    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;",
-    "publishedAt": "2026-10-08",
+    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1791504504000",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -15,9 +15,9 @@ export const generatedNews: NewsItem[] = [
   },
   {
     "id": "news-president-trump-awards-big-tech-donors-with-nation-8217-s-hi-1791498839000",
-    "title": "President Trump awards big tech donors with nation&#8217;s highest science prizes",
+    "title": "President Trump awards Big Tech donors with nation&#8217;s highest science prizes",
     "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-    "summary": "On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize.",
+    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gta-6-5-1791466103000",
-    "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
-    "link": "https://www.qbitai.com/2026/10/502049.html",
-    "summary": "Vidu Q4预览版，了解一下~",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791514270000",
+    "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+    "link": "https://www.qbitai.com/2026/10/502114.html",
+    "summary": "江淮再度跌停",
+    "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-npc-1791475619000",
-    "title": " NPC的尽头是？ ",
-    "link": "https://www.huxiu.com/article/4895995.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：熊晓杰 这两年，全国景区都在卷NPC（Non-Player Character，“非玩家角色”）。似乎没有NPC景区就不好意思开门了。但大家也都在思考一个问题。NPC这股风能刮多久？ 在我看来，NPC不仅会长期存在，而且还会进化。 1950年，地中海俱乐部度假区发明了一个岗位，叫G.O（Gentle Organizer），直译过来是“亲切的组织者”。这个岗位的革命性在哪？在G.O之前，酒店卖的是房间和餐饮；有了G.O，卖的是人和人的关系。G.O白天陪你滑雪，晚上跟你同桌吃饭、教你跳舞，客人与服务员的界限被彻底溶解。 一句话：G.O本身就是产品。 G.O的本质是：多面手、人格连续、员工即产品。白天是网球教练/戏剧演员，晚上是舞台主角，饭点端着盘子跟你拼桌；他不是“演完就下班”，是你住三天他陪你玩三天，记得你的名字；Club Med卖的不是房间和海滩，是这群人。 对照现在的文旅NPC：万岁山武侠城的2000个NPC已经是国内天花板，但大多数仍是脚本化演员——背台词、走位、定点出没，演完即走。游客带走照片，带不走情感账户。 G.O化要解决的就是从“表演”到“关系”这一跳。 今天的NPC，本质上就是G.O的景区版和初级版。只是两者基因有所不同。G.O是去角色化的玩伴——他不扮演任何人，他就是他自己；NPC是角色化的玩伴——有剧本、有人设、有戏剧动机",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791519178000",
+    "title": " 一脚急刹踩断的踏板，和那条没人当回事的及格线 ",
+    "link": "https://www.huxiu.com/article/4896110.html?f=rss",
+    "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 这两天有句话被翻出来，说是让车主踩刹车的时候别太用力。第一次看到我以为是谁在抬杠，一查才发现这话有出处，正经写在文件里。 事情得从10月8日说起。那天懂车帝发了个测试视频，3台全新的尊界V800，在封闭场地做100公里时速到0的紧急制动，结果3台车的刹车踏板支架，全断了。 第1台是在第3次全力制动的时候断的，第2台撑到了第4次。第3台是为了验证到底是不是偶发专门买的新车，出厂才跑了3公里，第2脚下去就断了。3台车批次不同，可断裂位置一样，断口形态也几乎一致。 有人质疑这是暴力测试，网上还流传过一张截图，上面写着4589N。懂车帝的说法是，那个数是高速摄像机跟检测设备液晶屏刷新帧率不一样，拍出来的是数字残影，真实峰值是1612N。 开测试车的那个人身高170厘米，体重140斤上下。这就是个再普通不过的成年男性体型，谈不上什么大力士。 真正要命的是断了之后。脚刹完全失效，踏板直接陷下去，测试员只能长按P挡应急减速。制动距离从正常状态的约38米，一路拉长到约140米。 还有个细节我特意去翻了一下。尊界V800的用户手册里自己写着，P挡应急制动主要用于减速，不能代替制动踏板制动，它提供不了较大的制动力，应急制动的时候还可能导致车辆打滑、侧翻。 也就是说，断了之后唯一能用的那个办法，恰恰是厂家自己在手册里说不能当刹车用的办法。 图1：踏板支架断裂",
+    "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -66,11 +66,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-62-1791470407000",
-    "title": "一块刹车踏板支架，让江淮一天蒸发62亿元？",
-    "link": "https://www.tmtpost.com/8161639.html",
-    "summary": "尊界V800陷入制动踏板争议，官方宣布优化设计并免费升级，江淮股价跌停，一天蒸发62亿元。",
-    "publishedAt": "2026-10-08",
+    "id": "news-diffuspace5-1791518625000",
+    "title": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中",
+    "link": "https://www.tmtpost.com/8162358.html",
+    "summary": "从实验室走出的DiffuSpace，希望把一条曾经“非共识”的技术路线推向工程化与产业化前沿，未来扩散语言模型能否大规模应用，2026年或是一个关键的时间窗口。",
+    "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -80,16 +80,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-we-re-watching-these-climate-tech-companies-1791453600000",
-    "title": "Why we’re watching these climate tech companies",
-    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-    "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
+    "id": "news-the-download-ai-roadblocks-for-humanoids-and-portable-rubber-1791461400000",
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;",
     "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -119,11 +118,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aprce-2026-24-7-1791463411000",
-    "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
-    "link": "https://www.qbitai.com/2026/10/502035.html",
-    "summary": "打造便利店“人机协作”运营新模式",
-    "publishedAt": "2026-10-08",
+    "id": "news-openjiuwen-agentos-1791513442000",
+    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "link": "https://www.qbitai.com/2026/10/502106.html",
+    "summary": "多Agent协同还能自我进化",
+    "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -132,11 +131,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791467756000",
-    "title": "住房股已充分计价极端悲观预期，业内人士看好托尔兄弟与普尔特集团",
-    "link": "https://www.tmtpost.com/8161634.html",
-    "summary": "Evercore ISI 的斯蒂芬·金表示，现在还不是买入住房类股票的合适时机。但如果行业减少新建规模、同时抵押贷款利率下降，这种情况在未来六个月内可能会发生变化。",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791518949000",
+    "title": " 黑客松“经济学” ",
+    "link": "https://www.huxiu.com/article/4896109.html?f=rss",
+    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 上午，会议厅坐满了人。最前排的位置留给领导，后排坐着背着电脑、抱着硬件，从各地赶来的年轻人。主持人报一个名字，台下领导起身，接过话筒开始讲话。 年轻的选手打起了哈欠。会议厅不是他们的主场，他们真正想去的是另一旁的比赛场地。那里已经一张张排开了桌子，拉好了电源。赞助商的展台也布置好了。桌面上摞着一沓沓校招宣传册，旁边是宣传产品的易拉宝。 这是一场黑客松（Hackathon）——一群人聚在一起，在几十个小时内把想法做成一个能跑的demo。这样的活动在各地落地时，常被冠上本地的名字：南京的叫“南客松”，贵阳的叫“贵客松”，名字不同，玩法大同小异。 像这样的场景，几乎每个周末都会在中国的各个城市上演。2025年，黑客松还是开发者、AI创投圈里相对小众的游戏。但到2026年，随着AI Coding能力的发展、Vibe Coding成为主流，编程的门槛被拉低，黑客松的门槛也跟着变低。根据社区“AI赛事通”的数据，2026年上半年，全中国举办了近500场黑客松，平均每天都有2-3场。 主办过多场黑客松的陈容贤见到过让他吃惊和玩味的一幕是，有一次他去到一个黑客松现场，发现有的选手连Git hub（全球最大的代码托管和协作开发平台）是什么都不知道了。 热闹背后，是一套这样的攒局逻辑：政府要人才和产业，企业要人和曝光，学生要背书和机会，承",
+    "publishedAt": "2026-10-09",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-64mwh-1791516000000",
+    "title": "储能爆炸事故密集曝光，远景64MWh行业最大火烧测试，烧出储能新门槛",
+    "link": "https://www.tmtpost.com/8161698.html",
+    "summary": "安全验证正在变成一场“有钱人的游戏”，但换个角度看，这未必是坏事。",
+    "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -146,15 +159,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-breakthroughs-in-robotics-won-8217-t-change-your-life-any-1791450000000",
-    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+    "id": "news-why-we-re-watching-these-climate-tech-companies-1791453600000",
+    "title": "Why we’re watching these climate tech companies",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
     "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -186,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-rtx-spark-n1x-yoga-pro-15-1791455033000",
-    "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-    "link": "https://www.qbitai.com/2026/10/502020.html",
-    "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
-    "publishedAt": "2026-10-08",
+    "id": "news-agentgarten-1791511428000",
+    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "link": "https://www.qbitai.com/2026/10/502096.html",
+    "summary": "让AI反复试错的“练兵场”来了",
+    "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -199,11 +213,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791465486000",
-    "title": "业绩失色，股价腰斩，西部材料仍要在高处定增“补血”",
-    "link": "https://www.tmtpost.com/8161567.html",
-    "summary": "近三成补流，现金流压力凸显",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791518928000",
+    "title": " 从火山灰到“火山之子”，喀拉喀托的诞生与重生 ",
+    "link": "https://www.huxiu.com/article/4896108.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：豆腐炒大炮，编辑：悲催的铊宝宝 2026年9月4日晚上11点07分，巽他海峡中央的喀拉喀托之子火山开始持续喷发。黑暗中，火山口不断喷射出红亮的熔岩，就像红色的喷泉。 这座火山持续喷发长达25小时，高达15千米的火山灰柱遮天蔽日，导致机场关闭、上千个航班延误，超过30万名旅客受到影响。 2026年9月5日，卫星拍摄到喀拉喀托之子火山冒出滚滚浓烟|NASA 致命火山 喀拉喀托之子火山位于印度尼西亚巽他海峡，这里自古以来就不太平。 在东南亚古国爪哇国的史书里，记载了公元416年的一次火山喷发。当时多处山体传来巨响，一座火山喷出冲天的熊熊烈火，伴随着猛烈的雷鸣和风暴。暴雨不仅没有扑灭火山，还助长了火势。最终在极其剧烈的爆发中，岩浆房内的压力骤然降低，火山山体失去地下的支撑，在重力作用下向内塌陷，沉入原本由岩浆占据的空腔，形成破火山口。接着海水淹没陆地，海水退去后，爪哇岛和苏门答腊岛被分成了两部分，巽他海峡由此出现。 一些观点认为，喀拉喀托火山也在这时诞生，附近的岛屿以及它们之间的海底火山口也同时出现。 巽他海峡（Sunda strait）隔开了爪哇岛（Java）和苏门答腊岛（Sumatra）|Wikimedia Commons/ChrisO 过去人们误以为是它导致了公元536年的“火山冬天”：火山喷发将大量二氧化硫喷入平流层，随后这些气体被高空的风吹到全",
+    "publishedAt": "2026-10-09",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1791515760000",
+    "title": "近乎清仓，昔日顶级业主又要卖酒店了",
+    "link": "https://www.tmtpost.com/8161971.html",
+    "summary": "能下蛋的鸡都卖了？",
+    "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -213,16 +241,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-building-a-safer-path-to-autonomous-industrial-ai-1791447452000",
-    "title": "Building a safer path to autonomous industrial AI",
-    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "id": "news-ai-breakthroughs-in-robotics-won-8217-t-change-your-life-any-1791450000000",
+    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
     "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
@@ -253,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-manus-1791451817000",
-    "title": "浪子回头！Manus重启北京办公室大举招聘",
-    "link": "https://www.qbitai.com/2026/10/502009.html",
-    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
-    "publishedAt": "2026-10-08",
+    "id": "news-openai-1791506157000",
+    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+    "link": "https://www.qbitai.com/2026/10/502089.html",
+    "summary": "彻底撕破脸了",
+    "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -266,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iii-1791463881000",
-    "title": "伏美替尼全球III期试验折戟，艾力斯封死跌停、市值蒸发超百亿",
-    "link": "https://www.tmtpost.com/8157818.html",
-    "summary": "除艾力斯跌停外，创新药板块集体走弱，万得创新药概念指数（8841049.WI）当日收跌3.87%。",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791518762000",
+    "title": " 分享一些能显著增加个人魅力的方法 ",
+    "link": "https://www.huxiu.com/article/4896100.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 我一直对一种人非常好奇。 他不一定长得多好看，也不一定是很会说话。甚至在一些场合，他可能是话最少的那个。 但很奇怪，大家都愿意找他聊天。遇到事情，第一个想到的是他。大大小小的聚会，少了他，总觉得缺了点什么。你会感觉跟他待在一起很舒服。但如果让你说说，他到底哪里好，还真说不出来。 后来观察得多了，我发现一个挺有意思的现象，就是跟这种人聊完天，你记住的，往往不是他们说了什么，甚至不是你说了什么。 你记住的，是你自己在那段对话里的感觉，一种很好的感觉。 你觉得自己被听见了，被理解了，被当回事了。 我后来才发觉，这种人，就是真正有魅力的人。你跟他在一起，不是感觉他有多好，而是感觉自己变好了。 我琢磨了一下，魅力这种东西，其实不是多显眼的特质，更像是一种温度。当你靠近，你就会觉得温暖。它不是一种性格，而是一组行为。行为是可以拆解的，也是可以练习的。 今天就来聊聊&ldquo;魅力&rdquo;这回事。 见到一个人，我们大脑会先问两个问题 在讲具体方法之前，我想先分享一个心理学框架。理解了它，后面的每一条方法，你都会知道为什么会有用。 普林斯顿大学的心理学家 Susan Fiske，花了很多年研究一个问题：我们是如何评价一个陌生人的？ 2007 年，他在一篇综述里总结，人类对他人的判断，几乎都可以",
+    "publishedAt": "2026-10-09",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-300-1791515760000",
+    "title": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担",
+    "link": "https://www.tmtpost.com/8161695.html",
+    "summary": "华强北内存条涨300%，DRAM成本只涨30%，高额差价因渠道和概念炒起。",
+    "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -280,15 +320,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-weight-loss-drugs-slowing-aging-and-carbon-diox-1791375000000",
-    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly&#8230;",
-    "publishedAt": "2026-10-07",
+    "id": "news-building-a-safer-path-to-autonomous-industrial-ai-1791447452000",
+    "title": "Building a safer path to autonomous industrial AI",
+    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "publishedAt": "2026-10-08",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
@@ -319,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-chatgpt-13-98-1791451724000",
-    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-    "link": "https://www.qbitai.com/2026/10/501995.html",
-    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-    "publishedAt": "2026-10-08",
+    "id": "news-gemini-4-agent-claude-1791505016000",
+    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+    "link": "https://www.qbitai.com/2026/10/502083.html",
+    "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
       "china",
@@ -332,11 +373,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1791460794000",
-    "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
-    "link": "https://www.tmtpost.com/8161239.html",
-    "summary": "自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。",
-    "publishedAt": "2026-10-08",
+    "id": "news--1791518721000",
+    "title": " 困扰人类一个世纪的难题，被伯克利团队破解了 ",
+    "link": "https://www.huxiu.com/article/4895735.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜陈伊凡 播客整理｜刘煊琦 编辑｜苗正卿 头图｜AI生成 &ldquo;AI原生100&rdquo;是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「66」篇文章，点击这段文字或扫描二维码收听&ldquo;虎嗅AI 100&rdquo;完整播客内容。 人类发明了塑料，却花了几十年的时间解决塑料带来的问题。 一份针对新生儿的检测报告显示，尚未出生的胎儿体内已经能检测到微塑料。这类比头发丝还细的塑料碎屑，会间接影响人体免疫系统的运作。而它们的来源，只是过去二十年里被制造出来又找不到归宿的塑料垃圾。 2000年，全球塑料年产量是2.34亿吨；到2019年，这个数字涨到4.6亿吨，同年产生的3.53亿吨塑料废弃物里，只有9%被真正回收。剩下的91%，大量未被焚烧与填埋的部分正在变成越来越细的碎片，重新进入食物链。 这不是一个新问题。 过去几十年里，行业先后试过把传统塑料混入新料回收、研发能在自然环境中自行降解的生物材料，但这些路径都没能从根源上解决问题，只要塑料持续被制造、被丢弃，微塑料就会持续产生。最理想的解法是把塑料变成一个闭环：用完之后能被拆解、还原、重新制造，而不是被填埋或焚烧。 这条路径此前一直卡在同一个地方：能做到闭环的技术，做不到便宜；便宜的技术，做不到闭环。 2019年，加州伯克利大学的一个联合团队开始尝试打开这个僵局。项目由杰&middot;基斯",
+    "publishedAt": "2026-10-09",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-120-1791515580000",
+    "title": "日薪120元，我给机器人当“老师”",
+    "link": "https://www.tmtpost.com/8161952.html",
+    "summary": "有人觉得酷，有人一个月就走。",
+    "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -349,384 +404,380 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2610.10538v1",
-    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+    "id": "arxiv-2610.12467v1",
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
     "authors": [
-      "Shravan Chaudhari",
-      "William Paul",
-      "Suchi Saria",
-      "Rama Chellappa",
-      "Homanga Bharadhwaj"
+      "Lizhi Yang",
+      "Yiling Hou",
+      "Yao Tang",
+      "Junheng Li",
+      "Daniel Weng",
+      "Blake Werner",
+      "Aaron D. Ames"
     ],
-    "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise.",
-    "link": "http://arxiv.org/abs/2610.10538v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all e",
+    "link": "http://arxiv.org/abs/2610.12467v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12466v1",
+    "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+    "authors": [
+      "Drew T. Nguyen",
+      "William Fithian"
+    ],
+    "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in a region from 2--30 min but close to linear elsewhere. Hence, a time-horizon jump from 3 min to 30 min is much easier than one from 30 min to 5 hours despite the same multiplier of $10 \\times$. Overall, we contribute time-horizon point estimates that perform better under a cross-validated suite of ",
+    "link": "http://arxiv.org/abs/2610.12466v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12465v1",
+    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "authors": [
+      "Octi Zhang",
+      "Mateo Guaman Castro",
+      "Patrick Yin",
+      "Ignacio Dagnino",
+      "Abhishek Gupta",
+      "Rosario Scalise",
+      "Byron Boots"
+    ],
+    "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. However, we find that naively scaling this paradigm to more precise or dynamic problems remains non-trivial. While simulator resets can help with exploration, uniformly sampling over this distribution wastes a growing fraction of learning experience on task configurations the policy has already mastere",
+    "link": "http://arxiv.org/abs/2610.12465v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12463v1",
+    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+    "authors": [
+      "Abbas Raftari"
+    ],
+    "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment. Anthropic reported cases in which a misconfigured third-party environment exposed real systems to agents pursuing simulated cyber tasks. In a separately reported evaluation, Google's Gemini accessed three real organizations through an unintended internet route; Google stated that the model stopped in all three instances. Taken together, the cases show why an evaluation cannot rely on an assumed boundary. That boundary must be verified while the agent is operating. This comparative instrument",
+    "link": "http://arxiv.org/abs/2610.12463v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12452v1",
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "authors": [
+      "Peter Kulits",
+      "Yiqing Xu",
+      "R. Kenny Jones",
+      "Cordelia Schmid",
+      "Jiajun Wu"
+    ],
+    "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints. We score validity, alignment, and design across three settings that vary in scale and part availability. We provide BrickAgent, an environment for coding agents to construct, inspect, and validate their designs. We find that leading agents largely satisfy verifiable physical and semantic requirements, but fall short of human designs. We release our benchmark and environment at http://www.brickben.ch",
+    "link": "http://arxiv.org/abs/2610.12452v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.GR"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12448v1",
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "authors": [
+      "Adrian Bulat",
+      "Yassine Ouali",
+      "Georgios Tzimiropoulos"
+    ],
+    "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space. We evaluate this design in two regimes: supervised ImageNet-1k training and distillation from a DINOv2 teacher. Across both regimes, controlled adaptations identify weight-space merging as the strongest tested MoE family at a matching one-FFN budget, ahead of the token-dispatch and output-mixture alternatives. Trained ",
+    "link": "http://arxiv.org/abs/2610.12448v1",
+    "publishedAt": "2026-10-08",
     "categories": [
       "cs.CV",
-      "cs.AI",
-      "cs.RO"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10536v1",
-    "title": "Decoupling Exploration from Optimization in RLVR",
-    "authors": [
-      "Saif Punjwani",
-      "Micah Goldblum"
-    ],
-    "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them ",
-    "link": "http://arxiv.org/abs/2610.10536v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10533v1",
-    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-    "authors": [
-      "Hongru Cai",
-      "Ran Wei",
-      "Wenjie Wang",
-      "Chengfa Wu",
-      "Ning Song",
-      "Yongqi Li",
-      "Wenjie Li"
-    ],
-    "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory represent",
-    "link": "http://arxiv.org/abs/2610.10533v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10528v1",
-    "title": "Long-WAM: Scaling the Context of World-Action Models",
-    "authors": [
-      "Wei Huang",
-      "Bohan Zhang",
-      "Chenzhi Liu",
-      "Isabella Liu",
-      "Shuai Yang",
-      "Weian Mao",
-      "Luozhou Wang",
-      "Yicheng Xiao",
-      "Weifeng Lin",
-      "Qixin Hu",
-      "Bryan Chu",
-      "Sifei Liu",
-      "Linxi Fan",
-      "Xiaojuan Qi",
-      "Song Han",
-      "Yukang Chen"
-    ],
-    "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pre",
-    "link": "http://arxiv.org/abs/2610.10528v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10527v1",
-    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-    "authors": [
-      "Aleksandar Armacki",
-      "Haoyuan Cai",
-      "Ali H. Sayed"
-    ],
-    "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smo",
-    "link": "http://arxiv.org/abs/2610.10527v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "math.OC",
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10526v1",
-    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-    "authors": [
-      "Mikey Watts",
-      "Yuchen Cui"
-    ],
-    "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically tested single-edit swings and an oracle phrase search, which shows that phrasing alone nearly closes the 21-point gap between in-distribution and out-of-distribution tasks. We then reduce it without modifying the policy. Because the sensitivity is systematic, it can be expressed as explicit rules: we sc",
-    "link": "http://arxiv.org/abs/2610.10526v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.RO",
-      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.10520v1",
-    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+    "id": "arxiv-2610.12449v1",
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
     "authors": [
-      "Zhewei Chen",
-      "Hao Zhu",
-      "Jiaojiao Jiang",
-      "Ahad N. Zehmakan"
+      "Anna Zimmel",
+      "Fleur Hendriks",
+      "Markus Holzleitner",
+      "Florian Sestak",
+      "Martin Weichselbaumer",
+      "Vlado Menkovski",
+      "Johannes Brandstetter"
     ],
-    "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space. On sparse graphs, the student suffers from spectral underfit, missing high-energy teacher directions concentrated near boundary regions. On dense graphs, it suffers from spectral overfit, retaining spurious directions that the teacher has collapsed through aggregation. Motivated by an energy-weighted teacher-student alignment objective, we propose Graph Geometry-aware ",
-    "link": "http://arxiv.org/abs/2610.10520v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10519v1",
-    "title": "Why Forget-Only Unlearning Needs Memorization",
-    "authors": [
-      "Luka Radić",
-      "Vikrant Singhal",
-      "Amartya Sanyal"
-    ],
-    "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show that this depends on the learning method: different datasets can produce the same trained model but require very different outputs after the same examples are removed. Using this observation, we derive lower bounds on how accurately unlearning can match retraining and instantiate them for several standard learning algorithms. We then ask what must be true when forget-only unlearning succeeds. To this",
-    "link": "http://arxiv.org/abs/2610.10519v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems. Bi-FORK generates complete trajectories through latent flow matching, preserving space and time coherence, and uses repulsion-guided sampling to recover distinct solution branches in a single amortized pass. We evaluate Bi-FORK on buckling beams, mechanical metamaterials, and Allen-Cahn phase separation, spanning continuous, discrete, and field-val",
+    "link": "http://arxiv.org/abs/2610.12449v1",
+    "publishedAt": "2026-10-08",
     "categories": [
       "cs.LG",
-      "cs.IT",
-      "stat.ML"
+      "cs.AI",
+      "cs.CE",
+      "physics.comp-ph"
     ]
   },
   {
-    "id": "arxiv-2610.10515v1",
-    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "id": "arxiv-2610.12445v1",
+    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
     "authors": [
-      "Artem Zholus",
-      "Nicolas Beltran-Velez",
-      "Jianhao Yuan",
-      "Sarath Chandar",
-      "Tushar Nagarajan",
-      "Daniel Severo",
-      "Koustuv Sinha",
-      "Michal Drozdzal",
-      "Adriana Romero Soriano",
-      "Jeannette Bohg",
-      "Nicolas Ballas",
-      "Mahmoud Assran"
+      "Oskar J. Hollinsworth",
+      "Alex F. Spies",
+      "Tigist Diriba",
+      "Adam Gleave",
+      "Chris Cundy"
     ],
-    "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments. We show that RoboJEPA's imagination error, the error of its latent rollouts, follows a second-order power law in compute, allowing us to predict model quality well beyond the scale at which the law is fit. We further show that downstream robotic planning performance improves predictably with compute, and that imagination error is strongly",
-    "link": "http://arxiv.org/abs/2610.10515v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful ",
+    "link": "http://arxiv.org/abs/2610.12445v1",
+    "publishedAt": "2026-10-08",
     "categories": [
-      "cs.AI",
-      "cs.RO"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10513v1",
-    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-    "authors": [
-      "Yinling Zhang",
-      "Langchen Liu",
-      "Dongbin Xiu",
-      "Xueyan Zou",
-      "Xu Kuang",
-      "Mengdi Wang",
-      "Shilong Liu"
-    ],
-    "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a pu",
-    "link": "http://arxiv.org/abs/2610.10513v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.AI",
       "cs.LG",
-      "physics.ao-ph"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10508v1",
-    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
-    "authors": [
-      "Amanda Myntti",
-      "Jenna Kanerva",
-      "Veronika Laippala",
-      "Filip Ginter"
-    ],
-    "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have examined this setting, showing that the current embedding models often struggle to follow such instructions reliably. In this paper, we study the mechanism of how instructions actually affect the representations of retrieval queries in asymmetric retrieval tasks. We show that models can fail to follow even simple task instructions when query-side distractors are included in the evaluation. We hypothesize that this behavior is driven by the training setup of current embedding models and their evaluation, and show that fine-tuning with added query-side distractors leads to s",
-    "link": "http://arxiv.org/abs/2610.10508v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10507v1",
-    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-    "authors": [
-      "Yilun Hao",
-      "Krishna Sayana",
-      "Isabella Ye",
-      "James S Ren",
-      "Sukhdeep Sodhi",
-      "Craig Boutilier",
-      "Chuchu Fan"
-    ],
-    "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item. Instead, it must be derived through filtering, aggregation, or computation across multiple source items. In this work, we introduce RECAST (Routing Evidence through Computation, Access, and Synthesized Tools), a learned framework that formulates evidence construction as a sequential decision process over heterogeneous retrieval and computation operations, allowing evidence to be actively deri",
-    "link": "http://arxiv.org/abs/2610.10507v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2610.10506v1",
-    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+    "id": "arxiv-2610.12444v1",
+    "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
     "authors": [
-      "Daniel Robert Kling Alexander",
-      "Catherine Louise Kling"
+      "Hanyang Li",
+      "Shao Tang",
+      "Daniel Thomas Braithwaite",
+      "Gregory Dexter",
+      "Leonardo Neves",
+      "Aman Gupta",
+      "Hiroto Udagawa",
+      "Abhishek Shivanna",
+      "Daniel Silva",
+      "Rohan Ramanath"
     ],
-    "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality. We argue that this framework is a general method for evaluating language models, and we set out what each concept means for LLM evaluation. We demonstrate the approach using a published water-quality stated preference economic valuation survey (Vossler et al. 2023) administered to six models. In this economic application, the valid",
-    "link": "http://arxiv.org/abs/2610.10506v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a quantizer chooses between adjacent reconstruction levels. For the second moment, a local analysis of the quantization cell adjacent to zero shows that small mean state error need not imply small mean preconditioner error at the next step. A one-dimensional quadratic construction further shows qualitatively different optimization dynamics under state-space and preconditioner-space rounding. These results motivate Zero-Inclusive Preconditioner-space Stochastic Rounding (\\textbf{ZIP-SR}), which ret",
+    "link": "http://arxiv.org/abs/2610.12444v1",
+    "publishedAt": "2026-10-08",
     "categories": [
-      "cs.AI",
-      "cs.CL",
-      "econ.GN"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10499v1",
-    "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
-    "authors": [
-      "Sasha Voitovych",
-      "Adam Block",
-      "Alexander Rakhlin",
-      "Abhishek Shetty"
-    ],
-    "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a promising framework that interpolates between the fully adversarial and fully stochastic settings by assuming that the conditional law of each covariate has density at most $1/σ$ with respect to some fixed base measure $μ$, and it is known to match the statistical and computational guarantees of classical learning while still allowing for much of the flexibility of online learning. However, existing oracle-efficient algorithms require either (i) sampling access to the base me",
-    "link": "http://arxiv.org/abs/2610.10499v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10498v1",
-    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-    "authors": [
-      "Python Song",
-      "Zhixuan Liang",
-      "Kelsey Fu",
-      "Mengdi Wang",
-      "Junfeng Yang",
-      "Shilong Liu"
-    ],
-    "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue. We introduce EmbodiedRSI, a self-evolving agentic harness that autonomously decides where to explore next and turns the resulting physical interaction into improved code and skills. EmbodiedRSI realizes this through a Fast-Slow Dual-System Architecture, in which competing code and skill hypotheses are maintained in a Hypothesis Graph. Value-",
-    "link": "http://arxiv.org/abs/2610.10498v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10496v1",
-    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
-    "authors": [
-      "Kursat Komurcu",
-      "Linas Petkevicius"
-    ],
-    "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom classifier -- and ask what architecture search adds, holding the task, the features and the lake-level train/test split of the original study fixed. Searching an extended multilayer-perceptron space with regularized evolution, and selecting on inner-cross-validation AUC only, we find networks that improve held-out AUC from 0.790 to 0.820 and accuracy from 0.733 to 0.748 while using 409 trainable parameters, 26 times fewer than the strongest hand-designed reference. The search converges on a consistent recipe -- a single narrow layer, RMS normalisation, $\\tanh",
-    "link": "http://arxiv.org/abs/2610.10496v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.NE",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.10488v1",
-    "title": "Best Arm Identification for Bandits with Shifting Means",
+    "id": "arxiv-2610.12437v1",
+    "title": "Density Ratio Estimation with Stein Displacement Fields",
     "authors": [
-      "Lukas Zierahn",
-      "Wouter M. Koolen",
-      "Shubhada Agrawal",
-      "Christina Katsimerou",
-      "Dirk van der Hoeven"
+      "Song Liu"
     ],
-    "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time, in Shifting Means only the gaps $\\boldsymbolΔ$ between mean rewards are stable, while their common shift may be determined adversarially in each round. The objective of the learner is to identify the best arm with high probability while minimizing sample complexity (the fixed confidence setting). Handling shifts requires new tools: we show that algorithms employing a Generalized Likelihood Ratio Test (GLRT) stopping rule, including the popular Track-and-Stop, fail under time-varying shifts. Instead, we propose Importance Weights for Shifting Means ($\\mathsf{ISM}$). Assumi",
-    "link": "http://arxiv.org/abs/2610.10488v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offer complementary insights, they are usually estimated separately, and converting one into the other requires post-processing. In this paper, we estimate the density ratio between a target and a base distribution by parametrizing it through a displacement field acting on the base: the log-ratio is modeled as minus the Stein operator of the base applied to the field, up to a normalizing constant. This gives both statistical and dynamical descriptions of the distribution shift through a single convex optimization problem. Iterating this estimate-and-move step gives two inferenc",
+    "link": "http://arxiv.org/abs/2610.12437v1",
+    "publishedAt": "2026-10-08",
     "categories": [
       "stat.ML",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2610.10483v1",
-    "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+    "id": "arxiv-2610.12436v1",
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
     "authors": [
-      "Walid Bendada",
-      "Guillaume Salha-Galvan"
+      "Erin Crawley",
+      "Hidenori Tanaka"
     ],
-    "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned into clusters, 2LS first samples a cluster and then an item within it. In this paper, we show that, despite its advantages, 2LS introduces systematic and undesirable sampling biases, which arise from misweighting clusters by ignoring both cluster size imbalance and intra-cluster similarity dispersion. We propose two sampling methods, Size-Corrected 2LS (S-2LS) and Size- and Dispersion-Corrected 2LS (SD-2LS), which correct these biases and provide provably better softmax approximations with negli",
-    "link": "http://arxiv.org/abs/2610.10483v1",
-    "publishedAt": "2026-10-07",
-    "categories": [
-      "cs.LG",
-      "cs.IR",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2610.10478v1",
-    "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
-    "authors": [
-      "Tan Yu",
-      "Alexander Bukharin",
-      "Khushi Bhardwaj",
-      "Jennifer Williams",
-      "Zirui Liu",
-      "Jonathan Lingjie Li",
-      "Soumye Singhal",
-      "Joseph Jennings",
-      "Sanjeev Satheesh",
-      "Yash Jain",
-      "Ashish Vaswani",
-      "Venkat Krishna Srinivasan",
-      "Matthew Papakipos",
-      "Hyunwoo Kim",
-      "Jian Zhang",
-      "Oleksii Kuchaiev",
-      "Markus Kliegl",
-      "Mostofa Patwary",
-      "Mohammad Shoeybi",
-      "Bryan Catanzaro",
-      "Jonathan Cohen",
-      "Jiantao Jiao"
-    ],
-    "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single patch, but they sidestep the core capability we care about: maintaining coherent state over many tool-using steps as the repository evolves. To bridge this gap, we treat successful post-trained agent trajectories as a lookahead signal of base-model potential. Replaying each trajectory and rerunning tes",
-    "link": "http://arxiv.org/abs/2610.10478v1",
-    "publishedAt": "2026-10-07",
+    "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy additional agents, creating a self-reinforcing cycle where larger populations develop greater collective cyber capability and expand further. This raises a fundamental question: What determines whether a population of misaligned agents remains contained or takes off into this self-reinforcing cycle? This population-level problem is ecological safety: unlike individual-agent or multi-agent safety with a fixed population, it concerns the dynamics of the population itself. Here, we develop an ecol",
+    "link": "http://arxiv.org/abs/2610.12436v1",
+    "publishedAt": "2026-10-08",
     "categories": [
       "cs.AI",
-      "cs.SE"
+      "cond-mat.dis-nn",
+      "cs.MA",
+      "physics.bio-ph"
     ]
   },
   {
-    "id": "arxiv-2610.10468v1",
-    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+    "id": "arxiv-2610.12435v1",
+    "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
     "authors": [
-      "Ali Asaria",
-      "Deep Gandhi",
-      "Tony Salomone"
+      "Mert Albaba",
+      "Jens Beißwenger",
+      "Anna Manasyan",
+      "Daniel Marta",
+      "Michael J. Black",
+      "Wieland Brendel",
+      "Andreas Krause",
+      "Georg Martius",
+      "Martin Riedmiller"
     ],
-    "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, so designers should provide it explicitly, and that the multi-agent systems community holds the tools to do so. We propose a society of agents, a population of persistent agents under explicit institutions, and develop it for science as a society of researchers built on six principles. Principal investigators compete for compute through requests for proposals, independent review, and grants; a human governor, the mayor, allocates resources and assigns no tasks. In a running society of ten thousa",
-    "link": "http://arxiv.org/abs/2610.10468v1",
-    "publishedAt": "2026-10-07",
+    "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce, so current humanoid generalist policies do not follow new instructions out of the box and are fine-tuned on teleoperated demonstrations of each task before deployment. Human demonstrations exist in far larger numbers, but a person's motion is not a robot command. We remove both obstacles by changing what the generalist policy predicts. We introduce VioLA, a generalist humanoid policy that predicts body and hand motion latents instead of joint commands. A pretrained body- and hand-controller exec",
+    "link": "http://arxiv.org/abs/2610.12435v1",
+    "publishedAt": "2026-10-08",
     "categories": [
-      "cs.MA",
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12432v1",
+    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+    "authors": [
+      "Songyuan Zhang",
+      "Baljeet Singh",
+      "Sarthak Ranjeet Kaingade",
+      "Chuchu Fan",
+      "Bryan Trinh"
+    ],
+    "summary": "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but classical designs require an analytic safety function and dynamics model, and standard minimal-intervention filters are myopic to long-horizon task return because they minimize only instantaneous action deviation. Hard projections are also undefined when no safe action exists. We present FAITH, a feasibility-aware, model-free framework that approximates the optimal state-action safety value and amortizes minimal-intervention filtering with a feedforward network. The task policy optimizes the task return through the filtered dynamics, which recovers the feasible constrained problem without a co",
+    "link": "http://arxiv.org/abs/2610.12432v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.RO",
+      "cs.LG",
+      "eess.SY"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12428v1",
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "authors": [
+      "Saeefa Rubaiyet Nowmi",
+      "Md Mahmuduzzaman Kamol",
+      "Mohammad Saidur Rahman"
+    ],
+    "summary": "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to generalize well. Q-FLAIR shows that a quantum feature-map circuit can be grown gate-by-gate, stopping once further growth stops improving the training loss. We ask whether these two results combine into a predictable scaling law. Does Q-FLAIR's own stopping rule pick larger or smaller circuits as training data grows? Does the resulting generalization behavior track Caro et al.'s bound? We reimplement Q-FLAIR's growth mechanism faithfully, including its analytic reconstruction and exact stopping rule. We run it on full-resolution (784-pixel) MNIST 3-vs-5 classification, at five training-set si",
+    "link": "http://arxiv.org/abs/2610.12428v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12427v1",
+    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "authors": [
+      "Yuxuan Hu",
+      "Weikang Shi",
+      "Yang Bo",
+      "Xudong Lu",
+      "Xintong Guo",
+      "Shuhan Li",
+      "Yuyang He",
+      "Huankang Guan",
+      "Peiwen Sun",
+      "Yunqiao Yang",
+      "Wenbo Li",
+      "Rui Liu",
+      "Hongsheng Li"
+    ],
+    "summary": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal history, spatial resolution, and temporal granularity; sparse sampling at 1--2 FPS misses fast events. We introduce FastBench to evaluate high-dynamic perception in real-world video streams. Its trajectory-grounded pipeline combines QA generation from high-FPS clips, filtering of questions answerable at 2 FPS, answer verification using SAM3 and CoTracker3 trajectories, and three rounds of human inspection. FastBench contains 306 QA pairs across eight domains, six capabilities, and forward, instant, and backward temporal scopes, with human-annotated evidence intervals. We also present Proactive",
+    "link": "http://arxiv.org/abs/2610.12427v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12424v1",
+    "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+    "authors": [
+      "Zimo Wen",
+      "Yijin Chen",
+      "Yuxuan Cao",
+      "Wendi Chen",
+      "Yanwen Zou",
+      "Wenye Yu",
+      "Fuhang Kuang",
+      "Han Xue",
+      "Jun Lv",
+      "Chuan Wen",
+      "Cewu Lu"
+    ],
+    "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challenge to organize this experience around the task structure that gives it meaning, so that each repair is attributed to the responsible capability, supported by execution evidence, and validated before it is reused. We introduce RoboRSI, a robot self-improvement system built on Top-Down Skill Refinement (TSR). TSR decomposes tasks into compound, atomic, and base skills with scoped responsibilities and explicit input--output contracts, attributes each execution outcome to the responsible branch, and",
+    "link": "http://arxiv.org/abs/2610.12424v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12421v1",
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "authors": [
+      "Luping Liu",
+      "Bingyi Kang",
+      "Yifan Wang",
+      "Dong Xu"
+    ],
+    "summary": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions break down in image editing and reference-guided generation (IEG), where transformations can preserve visual identity while breaking physical continuity. To establish identity-preserving correspondence across such transformations, we introduce FreeMatching, a generalizable framework combining generative and semantic foundation representations with heterogeneous supervision from classical datasets, tracked videos, and synthetic scenes. Teacher-guided iterative refinement further improves correspondence in IEG without dense correspondence annotations. Experimentally, a single FreeMatching model subs",
+    "link": "http://arxiv.org/abs/2610.12421v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12420v1",
+    "title": "A Unified Bellman Operator for Safety-Critical Reinforcement Learning",
+    "authors": [
+      "Nishanth Arun Rao",
+      "Royina Karegoudra Jayanth",
+      "Benjamin Eysenbach",
+      "Jaime Fernández Fisac"
+    ],
+    "summary": "Reinforcement learning in safety-critical domains requires maximizing task performance while strictly adhering to safety constraints. Existing safe reinforcement learning paradigms typically force a trade-off: they either require a priori knowledge to provide strict safety guarantees (e.g., safety filters), or they enable joint learning but only satisfy safety constraints on average. In this work, we propose a novel Bellman operator that unifies performance and safety objectives into a joint value function. We show that temporal difference learning with the joint Bellman operator converges under a two-timescale stochastic approximation framework. On the fast timescale, the safety value of the learning joint policy is estimated, while the joint value is estimated on the slow timescale. Conv",
+    "link": "http://arxiv.org/abs/2610.12420v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12417v1",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "authors": [
+      "Zheyu Fan",
+      "Yue Zhang",
+      "Mingkai Deng",
+      "Kangrui Wang",
+      "Qineng Wang",
+      "Canyu Chen",
+      "Jie Hao",
+      "Xing Fan",
+      "Chenlei Guo",
+      "Eric P. Xing",
+      "Mohit Bansal",
+      "Manling Li"
+    ],
+    "summary": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models can learn from different supervision sources and reuse across different tasks, with a systematic training recipe. Existing benchmarks document these deficits separately but do not support controlled comparisons across scenes, actions, and reasoning operations. We therefore introduce WOVEN, a training source and benchmark for visual transition reasoning that organizes transition supervision by scene, action, and reasoning type, using diverse, realistic rollouts from video-pretrained generative m",
+    "link": "http://arxiv.org/abs/2610.12417v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.12416v1",
+    "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+    "authors": [
+      "Mingyuan Lei",
+      "Yoonchang Sung",
+      "Tat-Jen Cham"
+    ],
+    "summary": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at scale. Human-scene datasets provide rich information about environment-aware motion, while human-object datasets capture detailed interaction dynamics, yet paired human-object-scene data remain scarce. We present MAMHOI, an affordance-mediated factorization for scene-aware human-object interaction generation. MAMHOI factorizes scene-aware HOI generation through an explicit motion-affordance interface between scene understanding and motion synthesis: a scene-conditioned model first predicts where an",
+    "link": "http://arxiv.org/abs/2610.12416v1",
+    "publishedAt": "2026-10-08",
+    "categories": [
+      "cs.CV",
       "cs.AI"
     ]
   }
@@ -918,4 +969,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-08T22:49:19.853Z';
+export const dataFetchedAt = '2026-10-09T04:23:46.127Z';
