@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xona-8217-s-commercial-gps-alternative-is-about-to-go-live-1791547200000",
-    "title": "Xona&#8217;s commercial GPS alternative is about to go live",
-    "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-    "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+    "id": "news-long-live-the-mechanical-keyboard-1791583704000",
+    "title": "Long live the mechanical keyboard",
+    "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
     "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aaup-gets-order-over-jewish-employee-records-at-penn-off-the-1791493200000",
-    "title": "AAUP gets order over Jewish employee records at Penn ‘off the books’",
-    "link": "https://www.hrdive.com/news/aaup-gets-order-over-jewish-employee-records-at-penn-off-the-books/832498/",
-    "summary": "Although the Trump administration backed off a subpoena, the faculty group won an appeal vacating a court order that instructed the university to comply.",
-    "publishedAt": "2026-10-08",
+    "id": "news-eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-1791575040000",
+    "title": "EEOC obtains $23K for Muslim barista denied accommodation for Ramadan",
+    "link": "https://www.hrdive.com/news/eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-ramadan/832637/",
+    "summary": "A manager at New York&rsquo;s Hungry Ghost Coffee allegedly refused to let the barista swap shifts so he could honor his religious practice of fasting, the lawsuit said.",
+    "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -53,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-6-2030-10-1791548204000",
-    "title": " 地球轨道已有1.6万颗卫星，到2030年，预估可达10万颗…… ",
-    "link": "https://www.huxiu.com/article/4896248.html?f=rss",
-    "summary": "本文来自微信公众号： 世界科学 ，作者：编译 莫庄非，原文标题：《地球轨道已有 1.6 万颗卫星，到2030年，预估可达10 万颗……》 你知道有多少颗卫星绕着地球转吗？ 截至今年10月，共有约1.6万颗人造地球卫星在轨，为全球各类业务提供支持，包括GPS导航、气象预报、金融业务、应急服务以及互联网通信等。 不过，同时也应看到，1.6万已是个拥挤的数字，而鉴于每隔数周就会有数十颗新卫星发射升空，保守的预测者判断，到2030年，绕地卫星数量将达到令人震撼的6万颗——更激进些的预估则认为突破10万并非难事。 卫星数量猛增带来一项重大挑战：针对日益拥挤的轨道环境，人类该如何在保障卫星持续稳定工作的同时，又做好安全管控？AI又可以从哪些方面、以怎样方式支持人类管理太空交通？ 拥挤轨道的风险不难想象。一方面，大型卫星星座会加重光污染，也会干扰天文观测与夜空环境。另一方面，卫星越密集，“轨道交通”越繁忙，发生碰撞的概率越高，空间碎片也越积越多。 在最坏情况下，太空碎片会引发失控连锁反应，即所谓的“凯斯勒综合征”(Kessler syndrome)：大量碎片如云层般笼罩着地球轨道，导致轨道无法使用，人类再也无法发射卫星或开展其他太空任务。 即便尚未发展到碎片云灾难，卫星一旦老化或受损失效，也会成为安全隐患。它们可能与其他物体相撞，或不受控制地重返大气层。 这就引出一个现实难题：卫星没法简单地被带",
+    "id": "news-175-1791562436000",
+    "title": " 内存一年涨175%，卖一台亏一台的手机生意还能撑多久 ",
+    "link": "https://www.huxiu.com/article/4896300.html?f=rss",
+    "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 十一长假后的这几天，手机行业同时传出几条“坏”消息。 据日经亚洲报道，苹果已通知部分供应商削减iPhone 18 Pro和iPhone 18 Pro Max的零部件订单，10月订单量较最初计划至少下调15%，部分订单降幅在15%到20%之间。 苹果传出削减订单的同一天，国内的华为和小米虽未传出类似的削减计划，但也用涨价变相告诉市场，国内头部大厂在保销量和保利润之间，更加倾向于后者。 随着华为nova 16系列标准版和Pro版上调400元、SE版上调200元，以及小米17 Ultra全系涨价1000元、起售价从6999元来到7999元，华为与小米们大概率会遇到与苹果一样的问题。 与此同时，再往前几天，韩媒曝出三星移动部门要求合作伙伴把第四季度供货量削减20%到30%的消息，更加深了人们对于手机行业未来一段时间的悲观。 实际上，几件事摆在一起，均指向的是同一个源头，那就是存储暴涨。 当一颗12GB的手机内存芯片价格，从一年前的53美元涨到如今的145美元以上，甚至调研机构预计其三季度最高会摸到180美元，至少在最近一段时间里，手机行业等来的不会是需求回暖。 起售价加一千，订单减掉一成半？ 如今来看，在各家手机厂商的涨价、砍单潮中，作为风向标的苹果一直是最先触及行业脉搏的那一个。 时间线拉回到一个月前，9月9日，苹果发布iPhone 18 P",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-lululemon-2026-alo-1791543875000",
-    "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
-    "link": "https://www.tmtpost.com/8163045.html",
-    "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
+    "id": "news--1791551389000",
+    "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
+    "link": "https://www.tmtpost.com/8157820.html",
+    "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -93,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-president-trump-awards-big-tech-donors-with-nation-8217-s-hi-1791498839000",
-    "title": "President Trump awards Big Tech donors with nation&#8217;s highest science prizes",
-    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-    "publishedAt": "2026-10-08",
+    "id": "news-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-1791582089000",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+    "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -106,16 +106,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-moves-to-rescind-conviction-and-arrest-record-guidance--1791492360000",
-    "title": "EEOC moves to rescind conviction and arrest record guidance from 2012",
-    "link": "https://www.hrdive.com/news/eeoc-moves-to-rescind-conviction-and-arrest-record-guidance-from-2012/832553/",
-    "summary": "While the EEOC may be rescinding the guidance, employers should not necessarily change their approach, an attorney warned.",
-    "publishedAt": "2026-10-08",
+    "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
+    "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
+    "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
+    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
+    "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -132,25 +133,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-eleven-31-1791547860000",
-    "title": " 7-Eleven关掉印度最后31家店，便利店在印度到底卖给谁？ ",
-    "link": "https://www.huxiu.com/article/4896246.html?f=rss",
-    "summary": "本文来自微信公众号： 食情局 ，作者：局哥 0 9月30日，7-Eleven在印度的最后31家门店全部关门停业。 Seven&amp;i Holdings证实了关店的消息，但同时表示，长期来看仍希望寻找进入印度市场的其他路径。 五年前，这个故事的开局并不差。 2021年10月，印度最大零售商Reliance Retail把7-Eleven引进印度，在孟买开出第一家门店。 图12021年10月，7-Eleven印度首店在孟买开业，门口挂满节庆花环（图源：法新社/AFP） 这是一次双方都极其看重的联姻：Seven&amp;i带来了全球规模最大的便利店品牌与标准化运营体系，Reliance则负责提供印度本土的供应链、物业选址与零售分销网络。 7-Eleven并没有照搬日式便利店的固有模版。为了融入当地，给印度第一家店起了一个极其本土化的名字——“India ki Nayi Tapri”，翻译过来就是“新的街边小店”或“新的街头茶摊”。 店里不仅有现调咖啡、茶饮和印度国民小吃vada pav，也陈列着常规的瓶装饮料、包装零食与日常百货。 图27-Eleven印度门店内景，设有热食与现制饮品柜台 （图源：Curly Tales） 2023年时，印度的7-Eleven门店数攀升至40家，管理层曾公开表示，希望先在孟买形成足够密集的门店网络（dense model of stores），再进一步",
+    "id": "news--1791562062000",
+    "title": " 水处理膜行业十年激战，下半场靠什么增长？ ",
+    "link": "https://www.huxiu.com/article/4896299.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：十年国产替代之后，中国膜企开始面临3场新竞争——规模、场景与运营。 过去十年，中国膜产业最鲜明的一条主线，是国产替代。 从反渗透、超滤、纳滤到无机膜，从市政水处理到工业废水回用、海水淡化和过程分离，国内企业不断向材料、膜片、组件和系统集成的更深处推进。 十年前，行业反复追问的是：中国企业能不能做出一张性能合格的膜，能不能替代进口产品，能不能进入过去由国际品牌主导的市场。 今天，越来越多领域已经跨过了“有没有”的门槛。 但这场持续十年的激战，并没有把市场带向一个统一的终局。 相反，当国产膜供给增加、产品能力普遍提升，原本由技术稀缺和进口替代支撑的统一叙事，开始迅速分化。 膜企竞争正在转向三个更难的问题 成本质量、复杂场景、结果导向 近两年，水处理膜市场给人的感受尤其矛盾。 一边是高端膜材料、工业废水回用、海水淡化和国产替代持续升温；另一边是传统市政项目承压、同质化竞争加剧，部分膜产品售价和工程毛利不断下行。 有人在工业分离和海外市场快速增长，也有人仍被项目周期、回款压力和价格战拖住。 这些信号很难再被“市场景气”或“市场低迷”统一概括。膜种不同、场景不同、客户不同、商业模式不同，企业面对的已经不是同一套增长逻辑。 真正巨大的变化，不一定体现在市场规模里，而在于需求、利润和结果责任正在重新分配。 过去以“能不能做出膜”为中心",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai",
-      "ecommerce"
+      "technology"
     ]
   },
   {
-    "id": "news-robotaxi-races-shift-from-tech-specs-to-partnerships-1791541683000",
-    "title": "Robotaxi Races Shift From Tech Specs to Partnerships",
-    "link": "https://www.tmtpost.com/8163126.html",
-    "summary": "In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an entry ticket. The new contest is over who can assemble manufacturing, operations and demand into a working business.",
+    "id": "news-lululemon-2026-alo-1791543875000",
+    "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
+    "link": "https://www.tmtpost.com/8163045.html",
+    "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -173,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pretend-you-8217-re-sitting-at-elizabeth-holmes-8217-desk-on-1791493200000",
-    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-    "publishedAt": "2026-10-08",
+    "id": "news-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelp-1791574616000",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -186,11 +185,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-week-in-5-numbers-manager-led-development-can-aid-reten-1791492360000",
-    "title": "This week in 5 numbers: Manager-led development can aid retention",
-    "link": "https://www.hrdive.com/news/manager-led-development-can-aid-retention/832519/",
-    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how much the hourly minimum wage for federal contractors is expected to increase.",
-    "publishedAt": "2026-10-08",
+    "id": "news-dhs-proposes-70k-fee-for-initial-optional-practical-training-1791558180000",
+    "title": "DHS proposes $70K fee for initial Optional Practical Training participation",
+    "link": "https://www.hrdive.com/news/dhs-proposes-70k-fee-for-initial-optional-practical-training-participation/832499/",
+    "summary": "Colleges would be on the hook for up to $100,000 in fees for each international student seeking to participate.",
+    "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -213,24 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791547730000",
-    "title": " 为什么大企业认错越来越难 ",
-    "link": "https://www.huxiu.com/article/4896242.html?f=rss",
-    "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：AI生成 不单指某家企业，而是一个普遍现象，原因大概包括： 1、来自各方的保护与补贴太多，大而不能倒，亏而不能并，市场机制无法发挥作用，消费者说了不算，利润率再低、质量再差都能生存； 2、中美大博弈背景下，阶段性打民族感情牌，利用民众爱国情绪，认为自己有了护身符； 3、&ldquo;互联网思维&rdquo;占领实体企业，普遍公关化、网红化，宁愿花大钱引导舆论、搞各种违反《广告法》的宣传，也不愿把钱花在最基本的质量保障上； 4、企业越大，层级越多，甲方当惯了，供应商捧着、下属捧着，每天活在自己的世界里，一看到负面新闻就觉得是友商在攻击，识别和发现问题的能力大幅衰退，不知错如何认错改错； 5、行业内相互攻击无下限低俗化，各自花钱养了无数水军、大V，有风吹草动就群起乱战，没有一家真把消费者当回事； 6、违法成本低，保护消费者和中小供应商的制度安排远远不如保护大企业的制度安排。 怎么办呢？ 寄希望于行业自律和大企业自觉是没用的，中国大陆的制造业不会出现亨利&middot;福特，放弃这种幻想。要从制度层面让市场经济真正变成法治经济，必须将本土消费者的利益放在第一位。只有市场选择机制还能发挥作用，市场才能真正的优胜劣汰，产业才有长久的未来。 所谓需求侧改革，并不只是社保、养老金这些具体的分配问题，而是一整套立足于需求端的制度性变革。如",
-    "publishedAt": "2026-10-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1791541134000",
-    "title": "特斯拉供应商们，正在悄悄“造人”",
-    "link": "https://www.tmtpost.com/8162947.html",
-    "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。",
+    "id": "news-robotaxi-races-shift-from-tech-specs-to-partnerships-1791541683000",
+    "title": "Robotaxi Races Shift From Tech Specs to Partnerships",
+    "link": "https://www.tmtpost.com/8163126.html",
+    "summary": "In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an entry ticket. The new contest is over who can assemble manufacturing, operations and demand into a working business.",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -253,31 +238,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fired-openai-safety-researchers-dispute-misconduct-claims-wa-1791489866000",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "publishedAt": "2026-10-08",
+    "id": "news-batteries-are-now-cheaper-than-natural-gas-turbines-used-at--1791572278000",
+    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+    "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+    "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-even-woman-presenting-ai-bots-are-paid-less-research-says-1791471840000",
-    "title": "Even woman-presenting AI bots are ‘paid’ less, research says",
-    "link": "https://www.hrdive.com/news/even-woman-presenting-ai-bots-are-paid-less/832429/",
-    "summary": "&ldquo;We don&rsquo;t want to inadvertently reproduce existing inequalities in a new technological setting,&rdquo; a researcher said.",
-    "publishedAt": "2026-10-08",
+    "id": "news-many-young-working-parents-may-struggle-to-find-high-quality-1791558180000",
+    "title": "Many young working parents may struggle to find high-quality jobs",
+    "link": "https://www.hrdive.com/news/many-young-working-parents-may-struggle-to-find-high-quality-jobs/832588/",
+    "summary": "These parents are at an age when career development and economic mobility can have a critical impact on their future prospects, per a study.",
+    "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -294,23 +277,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-1791547601000",
-    "title": " 俄罗斯鼠疫研究所员工死于“病因不明的肺炎”，近200人被隔离 ",
-    "link": "https://www.huxiu.com/article/4896244.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：odette 2026年10月2日，俄罗斯一家鼠疫研究所员工因重症肺炎去世，引发了全球担忧。 这家研究所位于西伯利亚，员工名叫达里娅·希皮洛娃（Darya Shipilova），今年28岁，她在9月末出现不适并就诊于附近医院。随后，研究所及医院的约200名接触者被隔离。 达里娅·希皮洛娃｜VK-Darya Shipilova 有传言称，希皮洛娃死于肺鼠疫，因为她在研究所实验室意外接触到了病原菌。 俄罗斯卫生监管机构回应，希皮洛娃死于“病因不明的肺炎”，没有证据表明她的疾病是由职业接触的病原体引起的。接触者中，没有发现鼠疫病例，90%已被解除隔离。 之后，又有传言称西伯利亚已出现第二名因鼠疫死亡的患者。世卫组织公布的最新消息称，已要求俄罗斯提供更多信息，并核实关于第二名患者的报道。 等待核实结果的同时，我们先来看看肺鼠疫是什么样的疾病，如果真的发生人传人现象，历史上的大流行灾难会不会重现。 世卫组织已要求俄罗斯提供更多信息，以查明严重肺炎的病因、引发公共卫生措施的病原体｜@DrTedros 肺鼠疫，是鼠疫的一种类型 鼠疫是一种传染病，由鼠疫耶尔森菌（Yersinia pestis）引起。在自然界中，这种细菌主要存在于以鼠为代表的啮齿类动物身上，并可以通过它们身上的跳蚤传染给人类。此外，人接触、食用染病动物也可能感染鼠疫。 按照感染途径",
-    "publishedAt": "2026-10-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1791541129000",
-    "title": "AI家电，攻占黄金周",
-    "link": "https://www.tmtpost.com/8162948.html",
-    "summary": "AI能让用户多掏钱吗？",
+    "id": "news--1791541134000",
+    "title": "特斯拉供应商们，正在悄悄“造人”",
+    "link": "https://www.tmtpost.com/8162947.html",
+    "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -333,11 +303,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-watch-the-trailer-for-8216-the-altruists-8217-netflix-8217-s-1791484200000",
-    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
-    "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-    "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-    "publishedAt": "2026-10-08",
+    "id": "news-techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wall-1791572226000",
+    "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+    "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -346,17 +316,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-assisted-performance-reviews-can-t-replace-human-insight--1791470460000",
-    "title": "AI-assisted performance reviews can’t replace human insight, report warns",
-    "link": "https://www.hrdive.com/news/ai-assisted-performance-reviews-cant-replace-human-insight-report-warns/832471/",
-    "summary": "A good manager can tell the difference between a smart risk and a careless mistake, but that takes context&nbsp;&mdash; and context is exactly what AI doesn&rsquo;t have, Highwire&rsquo;s CEO told HR Dive.",
-    "publishedAt": "2026-10-08",
+    "id": "news-us-authorities-crack-down-on-it-outsourcing-1791558120000",
+    "title": "US authorities crack down on IT outsourcing",
+    "link": "https://www.hrdive.com/news/trump-administration-crackdown-it-services-outsourcing-microsoft/832602/",
+    "summary": "The U.S. Department of Labor suspended Microsoft and Adobe, along with other big names in the tech space, from the permanent labor certification program on Thursday.",
+    "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -373,23 +342,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791546627000",
-    "title": " 懂车帝重创尊界，汽车安不安全谁说了算？ ",
-    "link": "https://www.huxiu.com/article/4896240.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：陈小同 汽车媒体平台懂车帝的一场测试将百万级豪华品牌尊界汽车推上风口浪尖。该平台发布的视频显示，三台全新尊界V800在紧急制动测试中刹车踏板支架接连断裂，相关视频在网络快速传播，引发舆论狂欢。 有观点认为，踏板被踩断是致命结构缺陷，车企必须正视设计冗余不足；也有人提出质疑，测试工况超出国标范围，属于媒体刻意的极限暴力测试，不能代表日常用车场景。 经过一天的发酵之后，官方于8日晚对外发布公开声明。在声明中，尊界汽车称，自首批车辆交付以来，在用户实际使用场景中，未发生制动踏板支架底座断裂故障。 尊界同时强调，本次测试属于非标准的极端测试工况，但即便如此，品牌依然选择主动加码安全冗余，承诺优化部件设计，对已经交付的车主提供免费升级，并对零部件设计边界、生产质控开展全流程复核补强。 这份回应有一定安抚市场的诚意，却远远未能平息争议。尊界没有直接定性踏板是否属于设计缺陷，而是把问题界定在“极端测试工况”的范畴；免费升级是主动承担责任的补救动作，但这份结论出自车企自身，属于企业单方面的解释，并非具备法律效力的第三方鉴定。 资本市场显然也没有买账。10月9日，江淮汽车再度跌停。在事件发酵的2个交易日内，江淮汽车市值已蒸发了117.67亿元。 百亿市值的快速缩水，本质是资本市场对江淮汽车的重新定价。投资者看到的，不只是一次媒体测试现象，而是高端品牌口碑、产品",
-    "publishedAt": "2026-10-09",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1791541123000",
-    "title": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
-    "link": "https://www.tmtpost.com/8162833.html",
-    "summary": "回望手机行业五十年，每一代霸主都曾以为自己握住了终点。",
+    "id": "news-ai-1791541129000",
+    "title": "AI家电，攻占黄金周",
+    "link": "https://www.tmtpost.com/8162948.html",
+    "summary": "AI能让用户多掏钱吗？",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -968,4 +924,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-09T12:30:54.228Z';
+export const dataFetchedAt = '2026-10-09T22:11:43.716Z';
