@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1791504504000",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "id": "news-the-download-ai-s-refusal-problem-and-weight-loss-drug-side--1791547800000",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
     "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-president-trump-awards-big-tech-donors-with-nation-8217-s-hi-1791498839000",
-    "title": "President Trump awards Big Tech donors with nation&#8217;s highest science prizes",
-    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-    "publishedAt": "2026-10-08",
+    "id": "news-xona-8217-s-commercial-gps-alternative-is-about-to-go-live-1791547200000",
+    "title": "Xona&#8217;s commercial GPS alternative is about to go live",
+    "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+    "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+    "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791514270000",
-    "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-    "link": "https://www.qbitai.com/2026/10/502114.html",
-    "summary": "江淮再度跌停",
+    "id": "news-trae-code-work-1791537597000",
+    "title": "TRAE终于把Code和Work合并了",
+    "link": "https://www.qbitai.com/2026/10/502426.html",
+    "summary": "大写的方便",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -53,23 +53,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791519178000",
-    "title": " 一脚急刹踩断的踏板，和那条没人当回事的及格线 ",
-    "link": "https://www.huxiu.com/article/4896110.html?f=rss",
-    "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 这两天有句话被翻出来，说是让车主踩刹车的时候别太用力。第一次看到我以为是谁在抬杠，一查才发现这话有出处，正经写在文件里。 事情得从10月8日说起。那天懂车帝发了个测试视频，3台全新的尊界V800，在封闭场地做100公里时速到0的紧急制动，结果3台车的刹车踏板支架，全断了。 第1台是在第3次全力制动的时候断的，第2台撑到了第4次。第3台是为了验证到底是不是偶发专门买的新车，出厂才跑了3公里，第2脚下去就断了。3台车批次不同，可断裂位置一样，断口形态也几乎一致。 有人质疑这是暴力测试，网上还流传过一张截图，上面写着4589N。懂车帝的说法是，那个数是高速摄像机跟检测设备液晶屏刷新帧率不一样，拍出来的是数字残影，真实峰值是1612N。 开测试车的那个人身高170厘米，体重140斤上下。这就是个再普通不过的成年男性体型，谈不上什么大力士。 真正要命的是断了之后。脚刹完全失效，踏板直接陷下去，测试员只能长按P挡应急减速。制动距离从正常状态的约38米，一路拉长到约140米。 还有个细节我特意去翻了一下。尊界V800的用户手册里自己写着，P挡应急制动主要用于减速，不能代替制动踏板制动，它提供不了较大的制动力，应急制动的时候还可能导致车辆打滑、侧翻。 也就是说，断了之后唯一能用的那个办法，恰恰是厂家自己在手册里说不能当刹车用的办法。 图1：踏板支架断裂",
+    "id": "news-1-6-2030-10-1791548204000",
+    "title": " 地球轨道已有1.6万颗卫星，到2030年，预估可达10万颗…… ",
+    "link": "https://www.huxiu.com/article/4896248.html?f=rss",
+    "summary": "本文来自微信公众号： 世界科学 ，作者：编译 莫庄非，原文标题：《地球轨道已有 1.6 万颗卫星，到2030年，预估可达10 万颗……》 你知道有多少颗卫星绕着地球转吗？ 截至今年10月，共有约1.6万颗人造地球卫星在轨，为全球各类业务提供支持，包括GPS导航、气象预报、金融业务、应急服务以及互联网通信等。 不过，同时也应看到，1.6万已是个拥挤的数字，而鉴于每隔数周就会有数十颗新卫星发射升空，保守的预测者判断，到2030年，绕地卫星数量将达到令人震撼的6万颗——更激进些的预估则认为突破10万并非难事。 卫星数量猛增带来一项重大挑战：针对日益拥挤的轨道环境，人类该如何在保障卫星持续稳定工作的同时，又做好安全管控？AI又可以从哪些方面、以怎样方式支持人类管理太空交通？ 拥挤轨道的风险不难想象。一方面，大型卫星星座会加重光污染，也会干扰天文观测与夜空环境。另一方面，卫星越密集，“轨道交通”越繁忙，发生碰撞的概率越高，空间碎片也越积越多。 在最坏情况下，太空碎片会引发失控连锁反应，即所谓的“凯斯勒综合征”(Kessler syndrome)：大量碎片如云层般笼罩着地球轨道，导致轨道无法使用，人类再也无法发射卫星或开展其他太空任务。 即便尚未发展到碎片云灾难，卫星一旦老化或受损失效，也会成为安全隐患。它们可能与其他物体相撞，或不受控制地重返大气层。 这就引出一个现实难题：卫星没法简单地被带",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-diffuspace5-1791518625000",
-    "title": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中",
-    "link": "https://www.tmtpost.com/8162358.html",
-    "summary": "从实验室走出的DiffuSpace，希望把一条曾经“非共识”的技术路线推向工程化与产业化前沿，未来扩散语言模型能否大规模应用，2026年或是一个关键的时间窗口。",
+    "id": "news-lululemon-2026-alo-1791543875000",
+    "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
+    "link": "https://www.tmtpost.com/8163045.html",
+    "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -80,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-roadblocks-for-humanoids-and-portable-rubber-1791461400000",
-    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;",
-    "publishedAt": "2026-10-08",
+    "id": "news-we-re-putting-too-much-faith-in-ai-s-ability-to-say-no-1791536400000",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -92,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pretend-you-8217-re-sitting-at-elizabeth-holmes-8217-desk-on-1791493200000",
-    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "id": "news-president-trump-awards-big-tech-donors-with-nation-8217-s-hi-1791498839000",
+    "title": "President Trump awards Big Tech donors with nation&#8217;s highest science prizes",
+    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
@@ -118,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openjiuwen-agentos-1791513442000",
-    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-    "link": "https://www.qbitai.com/2026/10/502106.html",
-    "summary": "多Agent协同还能自我进化",
+    "id": "news-tianxicode-swe-bench-live-1791535988000",
+    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+    "link": "https://www.qbitai.com/2026/10/502422.html",
+    "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -131,24 +132,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791518949000",
-    "title": " 黑客松“经济学” ",
-    "link": "https://www.huxiu.com/article/4896109.html?f=rss",
-    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 上午，会议厅坐满了人。最前排的位置留给领导，后排坐着背着电脑、抱着硬件，从各地赶来的年轻人。主持人报一个名字，台下领导起身，接过话筒开始讲话。 年轻的选手打起了哈欠。会议厅不是他们的主场，他们真正想去的是另一旁的比赛场地。那里已经一张张排开了桌子，拉好了电源。赞助商的展台也布置好了。桌面上摞着一沓沓校招宣传册，旁边是宣传产品的易拉宝。 这是一场黑客松（Hackathon）——一群人聚在一起，在几十个小时内把想法做成一个能跑的demo。这样的活动在各地落地时，常被冠上本地的名字：南京的叫“南客松”，贵阳的叫“贵客松”，名字不同，玩法大同小异。 像这样的场景，几乎每个周末都会在中国的各个城市上演。2025年，黑客松还是开发者、AI创投圈里相对小众的游戏。但到2026年，随着AI Coding能力的发展、Vibe Coding成为主流，编程的门槛被拉低，黑客松的门槛也跟着变低。根据社区“AI赛事通”的数据，2026年上半年，全中国举办了近500场黑客松，平均每天都有2-3场。 主办过多场黑客松的陈容贤见到过让他吃惊和玩味的一幕是，有一次他去到一个黑客松现场，发现有的选手连Git hub（全球最大的代码托管和协作开发平台）是什么都不知道了。 热闹背后，是一套这样的攒局逻辑：政府要人才和产业，企业要人和曝光，学生要背书和机会，承",
+    "id": "news-7-eleven-31-1791547860000",
+    "title": " 7-Eleven关掉印度最后31家店，便利店在印度到底卖给谁？ ",
+    "link": "https://www.huxiu.com/article/4896246.html?f=rss",
+    "summary": "本文来自微信公众号： 食情局 ，作者：局哥 0 9月30日，7-Eleven在印度的最后31家门店全部关门停业。 Seven&amp;i Holdings证实了关店的消息，但同时表示，长期来看仍希望寻找进入印度市场的其他路径。 五年前，这个故事的开局并不差。 2021年10月，印度最大零售商Reliance Retail把7-Eleven引进印度，在孟买开出第一家门店。 图12021年10月，7-Eleven印度首店在孟买开业，门口挂满节庆花环（图源：法新社/AFP） 这是一次双方都极其看重的联姻：Seven&amp;i带来了全球规模最大的便利店品牌与标准化运营体系，Reliance则负责提供印度本土的供应链、物业选址与零售分销网络。 7-Eleven并没有照搬日式便利店的固有模版。为了融入当地，给印度第一家店起了一个极其本土化的名字——“India ki Nayi Tapri”，翻译过来就是“新的街边小店”或“新的街头茶摊”。 店里不仅有现调咖啡、茶饮和印度国民小吃vada pav，也陈列着常规的瓶装饮料、包装零食与日常百货。 图27-Eleven印度门店内景，设有热食与现制饮品柜台 （图源：Curly Tales） 2023年时，印度的7-Eleven门店数攀升至40家，管理层曾公开表示，希望先在孟买形成足够密集的门店网络（dense model of stores），再进一步",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-64mwh-1791516000000",
-    "title": "储能爆炸事故密集曝光，远景64MWh行业最大火烧测试，烧出储能新门槛",
-    "link": "https://www.tmtpost.com/8161698.html",
-    "summary": "安全验证正在变成一场“有钱人的游戏”，但换个角度看，这未必是坏事。",
+    "id": "news-robotaxi-races-shift-from-tech-specs-to-partnerships-1791541683000",
+    "title": "Robotaxi Races Shift From Tech Specs to Partnerships",
+    "link": "https://www.tmtpost.com/8163126.html",
+    "summary": "In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an entry ticket. The new contest is over who can assemble manufacturing, operations and demand into a working business.",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -159,30 +161,28 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-we-re-watching-these-climate-tech-companies-1791453600000",
-    "title": "Why we’re watching these climate tech companies",
-    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-    "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
-    "publishedAt": "2026-10-08",
+    "id": "news-job-titles-of-the-future-delivery-drone-air-traffic-controll-1791536400000",
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-fired-openai-safety-researchers-dispute-misconduct-claims-wa-1791489866000",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "id": "news-pretend-you-8217-re-sitting-at-elizabeth-holmes-8217-desk-on-1791493200000",
+    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -200,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agentgarten-1791511428000",
-    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-    "link": "https://www.qbitai.com/2026/10/502096.html",
-    "summary": "让AI反复试错的“练兵场”来了",
+    "id": "news-0-2-1791535654000",
+    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+    "link": "https://www.qbitai.com/2026/10/502411.html",
+    "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -213,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791518928000",
-    "title": " 从火山灰到“火山之子”，喀拉喀托的诞生与重生 ",
-    "link": "https://www.huxiu.com/article/4896108.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：豆腐炒大炮，编辑：悲催的铊宝宝 2026年9月4日晚上11点07分，巽他海峡中央的喀拉喀托之子火山开始持续喷发。黑暗中，火山口不断喷射出红亮的熔岩，就像红色的喷泉。 这座火山持续喷发长达25小时，高达15千米的火山灰柱遮天蔽日，导致机场关闭、上千个航班延误，超过30万名旅客受到影响。 2026年9月5日，卫星拍摄到喀拉喀托之子火山冒出滚滚浓烟|NASA 致命火山 喀拉喀托之子火山位于印度尼西亚巽他海峡，这里自古以来就不太平。 在东南亚古国爪哇国的史书里，记载了公元416年的一次火山喷发。当时多处山体传来巨响，一座火山喷出冲天的熊熊烈火，伴随着猛烈的雷鸣和风暴。暴雨不仅没有扑灭火山，还助长了火势。最终在极其剧烈的爆发中，岩浆房内的压力骤然降低，火山山体失去地下的支撑，在重力作用下向内塌陷，沉入原本由岩浆占据的空腔，形成破火山口。接着海水淹没陆地，海水退去后，爪哇岛和苏门答腊岛被分成了两部分，巽他海峡由此出现。 一些观点认为，喀拉喀托火山也在这时诞生，附近的岛屿以及它们之间的海底火山口也同时出现。 巽他海峡（Sunda strait）隔开了爪哇岛（Java）和苏门答腊岛（Sumatra）|Wikimedia Commons/ChrisO 过去人们误以为是它导致了公元536年的“火山冬天”：火山喷发将大量二氧化硫喷入平流层，随后这些气体被高空的风吹到全",
+    "id": "news--1791547730000",
+    "title": " 为什么大企业认错越来越难 ",
+    "link": "https://www.huxiu.com/article/4896242.html?f=rss",
+    "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：AI生成 不单指某家企业，而是一个普遍现象，原因大概包括： 1、来自各方的保护与补贴太多，大而不能倒，亏而不能并，市场机制无法发挥作用，消费者说了不算，利润率再低、质量再差都能生存； 2、中美大博弈背景下，阶段性打民族感情牌，利用民众爱国情绪，认为自己有了护身符； 3、&ldquo;互联网思维&rdquo;占领实体企业，普遍公关化、网红化，宁愿花大钱引导舆论、搞各种违反《广告法》的宣传，也不愿把钱花在最基本的质量保障上； 4、企业越大，层级越多，甲方当惯了，供应商捧着、下属捧着，每天活在自己的世界里，一看到负面新闻就觉得是友商在攻击，识别和发现问题的能力大幅衰退，不知错如何认错改错； 5、行业内相互攻击无下限低俗化，各自花钱养了无数水军、大V，有风吹草动就群起乱战，没有一家真把消费者当回事； 6、违法成本低，保护消费者和中小供应商的制度安排远远不如保护大企业的制度安排。 怎么办呢？ 寄希望于行业自律和大企业自觉是没用的，中国大陆的制造业不会出现亨利&middot;福特，放弃这种幻想。要从制度层面让市场经济真正变成法治经济，必须将本土消费者的利益放在第一位。只有市场选择机制还能发挥作用，市场才能真正的优胜劣汰，产业才有长久的未来。 所谓需求侧改革，并不只是社保、养老金这些具体的分配问题，而是一整套立足于需求端的制度性变革。如",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791515760000",
-    "title": "近乎清仓，昔日顶级业主又要卖酒店了",
-    "link": "https://www.tmtpost.com/8161971.html",
-    "summary": "能下蛋的鸡都卖了？",
+    "id": "news--1791541134000",
+    "title": "特斯拉供应商们，正在悄悄“造人”",
+    "link": "https://www.tmtpost.com/8162947.html",
+    "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -241,11 +241,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-breakthroughs-in-robotics-won-8217-t-change-your-life-any-1791450000000",
-    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
-    "publishedAt": "2026-10-08",
+    "id": "news-we-re-still-figuring-out-the-side-effects-of-glp-1-weight-lo-1791536400000",
+    "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+    "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -253,16 +253,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-watch-the-trailer-for-8216-the-altruists-8217-netflix-8217-s-1791484200000",
-    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
-    "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-    "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+    "id": "news-fired-openai-safety-researchers-dispute-misconduct-claims-wa-1791489866000",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -280,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1791506157000",
-    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-    "link": "https://www.qbitai.com/2026/10/502089.html",
-    "summary": "彻底撕破脸了",
+    "id": "news-deepseek-1791529915000",
+    "title": "字节找到了DeepSeek时强时弱的原因",
+    "link": "https://www.qbitai.com/2026/10/502364.html",
+    "summary": "答不答得对，得看Token站位",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -293,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791518762000",
-    "title": " 分享一些能显著增加个人魅力的方法 ",
-    "link": "https://www.huxiu.com/article/4896100.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 我一直对一种人非常好奇。 他不一定长得多好看，也不一定是很会说话。甚至在一些场合，他可能是话最少的那个。 但很奇怪，大家都愿意找他聊天。遇到事情，第一个想到的是他。大大小小的聚会，少了他，总觉得缺了点什么。你会感觉跟他待在一起很舒服。但如果让你说说，他到底哪里好，还真说不出来。 后来观察得多了，我发现一个挺有意思的现象，就是跟这种人聊完天，你记住的，往往不是他们说了什么，甚至不是你说了什么。 你记住的，是你自己在那段对话里的感觉，一种很好的感觉。 你觉得自己被听见了，被理解了，被当回事了。 我后来才发觉，这种人，就是真正有魅力的人。你跟他在一起，不是感觉他有多好，而是感觉自己变好了。 我琢磨了一下，魅力这种东西，其实不是多显眼的特质，更像是一种温度。当你靠近，你就会觉得温暖。它不是一种性格，而是一组行为。行为是可以拆解的，也是可以练习的。 今天就来聊聊&ldquo;魅力&rdquo;这回事。 见到一个人，我们大脑会先问两个问题 在讲具体方法之前，我想先分享一个心理学框架。理解了它，后面的每一条方法，你都会知道为什么会有用。 普林斯顿大学的心理学家 Susan Fiske，花了很多年研究一个问题：我们是如何评价一个陌生人的？ 2007 年，他在一篇综述里总结，人类对他人的判断，几乎都可以",
+    "id": "news-200-1791547601000",
+    "title": " 俄罗斯鼠疫研究所员工死于“病因不明的肺炎”，近200人被隔离 ",
+    "link": "https://www.huxiu.com/article/4896244.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：odette 2026年10月2日，俄罗斯一家鼠疫研究所员工因重症肺炎去世，引发了全球担忧。 这家研究所位于西伯利亚，员工名叫达里娅·希皮洛娃（Darya Shipilova），今年28岁，她在9月末出现不适并就诊于附近医院。随后，研究所及医院的约200名接触者被隔离。 达里娅·希皮洛娃｜VK-Darya Shipilova 有传言称，希皮洛娃死于肺鼠疫，因为她在研究所实验室意外接触到了病原菌。 俄罗斯卫生监管机构回应，希皮洛娃死于“病因不明的肺炎”，没有证据表明她的疾病是由职业接触的病原体引起的。接触者中，没有发现鼠疫病例，90%已被解除隔离。 之后，又有传言称西伯利亚已出现第二名因鼠疫死亡的患者。世卫组织公布的最新消息称，已要求俄罗斯提供更多信息，并核实关于第二名患者的报道。 等待核实结果的同时，我们先来看看肺鼠疫是什么样的疾病，如果真的发生人传人现象，历史上的大流行灾难会不会重现。 世卫组织已要求俄罗斯提供更多信息，以查明严重肺炎的病因、引发公共卫生措施的病原体｜@DrTedros 肺鼠疫，是鼠疫的一种类型 鼠疫是一种传染病，由鼠疫耶尔森菌（Yersinia pestis）引起。在自然界中，这种细菌主要存在于以鼠为代表的啮齿类动物身上，并可以通过它们身上的跳蚤传染给人类。此外，人接触、食用染病动物也可能感染鼠疫。 按照感染途径",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
@@ -306,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-300-1791515760000",
-    "title": "手机电脑真买不起了，华强北内存条暴涨300%，传导终端市场剧烈涨价，消费者已无力承担",
-    "link": "https://www.tmtpost.com/8161695.html",
-    "summary": "华强北内存条涨300%，DRAM成本只涨30%，高额差价因渠道和概念炒起。",
+    "id": "news-ai-1791541129000",
+    "title": "AI家电，攻占黄金周",
+    "link": "https://www.tmtpost.com/8162948.html",
+    "summary": "AI能让用户多掏钱吗？",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -320,23 +321,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-building-a-safer-path-to-autonomous-industrial-ai-1791447452000",
-    "title": "Building a safer path to autonomous industrial AI",
-    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
-    "publishedAt": "2026-10-08",
+    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1791504504000",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-1791483632000",
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "id": "news-watch-the-trailer-for-8216-the-altruists-8217-netflix-8217-s-1791484200000",
+    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
+    "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+    "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
     "publishedAt": "2026-10-08",
     "source": "TechCrunch",
     "tags": [
@@ -360,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gemini-4-agent-claude-1791505016000",
-    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-    "link": "https://www.qbitai.com/2026/10/502083.html",
-    "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "id": "news-ai-1791527335000",
+    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "link": "https://www.qbitai.com/2026/10/502359.html",
+    "summary": "Google 研究成果首次登上《柳叶刀》主刊",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -373,24 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791518721000",
-    "title": " 困扰人类一个世纪的难题，被伯克利团队破解了 ",
-    "link": "https://www.huxiu.com/article/4895735.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜陈伊凡 播客整理｜刘煊琦 编辑｜苗正卿 头图｜AI生成 &ldquo;AI原生100&rdquo;是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「66」篇文章，点击这段文字或扫描二维码收听&ldquo;虎嗅AI 100&rdquo;完整播客内容。 人类发明了塑料，却花了几十年的时间解决塑料带来的问题。 一份针对新生儿的检测报告显示，尚未出生的胎儿体内已经能检测到微塑料。这类比头发丝还细的塑料碎屑，会间接影响人体免疫系统的运作。而它们的来源，只是过去二十年里被制造出来又找不到归宿的塑料垃圾。 2000年，全球塑料年产量是2.34亿吨；到2019年，这个数字涨到4.6亿吨，同年产生的3.53亿吨塑料废弃物里，只有9%被真正回收。剩下的91%，大量未被焚烧与填埋的部分正在变成越来越细的碎片，重新进入食物链。 这不是一个新问题。 过去几十年里，行业先后试过把传统塑料混入新料回收、研发能在自然环境中自行降解的生物材料，但这些路径都没能从根源上解决问题，只要塑料持续被制造、被丢弃，微塑料就会持续产生。最理想的解法是把塑料变成一个闭环：用完之后能被拆解、还原、重新制造，而不是被填埋或焚烧。 这条路径此前一直卡在同一个地方：能做到闭环的技术，做不到便宜；便宜的技术，做不到闭环。 2019年，加州伯克利大学的一个联合团队开始尝试打开这个僵局。项目由杰&middot;基斯",
+    "id": "news--1791546627000",
+    "title": " 懂车帝重创尊界，汽车安不安全谁说了算？ ",
+    "link": "https://www.huxiu.com/article/4896240.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：陈小同 汽车媒体平台懂车帝的一场测试将百万级豪华品牌尊界汽车推上风口浪尖。该平台发布的视频显示，三台全新尊界V800在紧急制动测试中刹车踏板支架接连断裂，相关视频在网络快速传播，引发舆论狂欢。 有观点认为，踏板被踩断是致命结构缺陷，车企必须正视设计冗余不足；也有人提出质疑，测试工况超出国标范围，属于媒体刻意的极限暴力测试，不能代表日常用车场景。 经过一天的发酵之后，官方于8日晚对外发布公开声明。在声明中，尊界汽车称，自首批车辆交付以来，在用户实际使用场景中，未发生制动踏板支架底座断裂故障。 尊界同时强调，本次测试属于非标准的极端测试工况，但即便如此，品牌依然选择主动加码安全冗余，承诺优化部件设计，对已经交付的车主提供免费升级，并对零部件设计边界、生产质控开展全流程复核补强。 这份回应有一定安抚市场的诚意，却远远未能平息争议。尊界没有直接定性踏板是否属于设计缺陷，而是把问题界定在“极端测试工况”的范畴；免费升级是主动承担责任的补救动作，但这份结论出自车企自身，属于企业单方面的解释，并非具备法律效力的第三方鉴定。 资本市场显然也没有买账。10月9日，江淮汽车再度跌停。在事件发酵的2个交易日内，江淮汽车市值已蒸发了117.67亿元。 百亿市值的快速缩水，本质是资本市场对江淮汽车的重新定价。投资者看到的，不只是一次媒体测试现象，而是高端品牌口碑、产品",
     "publishedAt": "2026-10-09",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-120-1791515580000",
-    "title": "日薪120元，我给机器人当“老师”",
-    "link": "https://www.tmtpost.com/8161952.html",
-    "summary": "有人觉得酷，有人一个月就走。",
+    "id": "news-ai-1791541123000",
+    "title": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
+    "link": "https://www.tmtpost.com/8162833.html",
+    "summary": "回望手机行业五十年，每一代霸主都曾以为自己握住了终点。",
     "publishedAt": "2026-10-09",
     "source": "钛媒体",
     "tags": [
@@ -969,4 +968,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-09T04:23:46.127Z';
+export const dataFetchedAt = '2026-10-09T12:30:54.228Z';
