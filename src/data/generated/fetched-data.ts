@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "id": "news-apple-discloses-deal-to-hire-team-and-license-tech-from-pers-1791661800000",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -94,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "id": "news-petra-power-looks-to-modernize-energy-for-data-centers-and-d-1791651600000",
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -173,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1791640800000",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -239,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-intensifies-attack-on-ambani-over-starlink-india-l-1791601806000",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -304,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-can-8217-t-reliably-control-its-ai-agents-it-8217--1791591512000",
-    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1791640800000",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -925,4 +926,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-10T16:53:51.419Z';
+export const dataFetchedAt = '2026-10-10T21:06:04.559Z';
