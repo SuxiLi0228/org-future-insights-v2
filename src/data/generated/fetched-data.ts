@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-long-live-the-mechanical-keyboard-1791583704000",
-    "title": "Long live the mechanical keyboard",
-    "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-    "publishedAt": "2026-10-09",
+    "id": "news-elon-musk-intensifies-attack-on-ambani-over-starlink-india-l-1791601806000",
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-175-1791562436000",
-    "title": " 内存一年涨175%，卖一台亏一台的手机生意还能撑多久 ",
-    "link": "https://www.huxiu.com/article/4896300.html?f=rss",
-    "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 十一长假后的这几天，手机行业同时传出几条“坏”消息。 据日经亚洲报道，苹果已通知部分供应商削减iPhone 18 Pro和iPhone 18 Pro Max的零部件订单，10月订单量较最初计划至少下调15%，部分订单降幅在15%到20%之间。 苹果传出削减订单的同一天，国内的华为和小米虽未传出类似的削减计划，但也用涨价变相告诉市场，国内头部大厂在保销量和保利润之间，更加倾向于后者。 随着华为nova 16系列标准版和Pro版上调400元、SE版上调200元，以及小米17 Ultra全系涨价1000元、起售价从6999元来到7999元，华为与小米们大概率会遇到与苹果一样的问题。 与此同时，再往前几天，韩媒曝出三星移动部门要求合作伙伴把第四季度供货量削减20%到30%的消息，更加深了人们对于手机行业未来一段时间的悲观。 实际上，几件事摆在一起，均指向的是同一个源头，那就是存储暴涨。 当一颗12GB的手机内存芯片价格，从一年前的53美元涨到如今的145美元以上，甚至调研机构预计其三季度最高会摸到180美元，至少在最近一段时间里，手机行业等来的不会是需求回暖。 起售价加一千，订单减掉一成半？ 如今来看，在各家手机厂商的涨价、砍单潮中，作为风向标的苹果一直是最先触及行业脉搏的那一个。 时间线拉回到一个月前，9月9日，苹果发布iPhone 18 P",
-    "publishedAt": "2026-10-09",
+    "id": "news-ip-top-toy-1791604867000",
+    "title": " 热门素人IP在手TOP TOY在等大结果 ",
+    "link": "https://www.huxiu.com/article/4896371.html?f=rss",
+    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技，原文标题：《热门素人IP在手 TOP TOY在等大结果》 国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP TOY投资控股小玉所属公司“广州角闪石族艺术文化有限责任公司”。 此后，小玉在多地商场的中庭快闪中创下千万元级销售成绩，还相继与华为、CASETiFY、奈雪的茶、麦当劳等品牌推出联名产品，成为“素人IP”商业化的突出案例。 但押中小玉，并不意味着TOP TOY已经掌握了批量制造爆款的方法。 一位接近名创的IP行业投资人告诉华尔街见闻·全天候科技，小玉的成功有清晰的运营方法，却也叠加了市场周期、粉丝结构与产品节奏等难以复制的偶然因素。 一 小玉的“草根生长” 与依靠影视、动画或商业机构集中推广的传统IP不同，素人IP通常由个人创作者发起，先通过社交平台持续更新内容、与用户互动积累粉丝，再逐步进",
+    "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791551389000",
-    "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
-    "link": "https://www.tmtpost.com/8157820.html",
-    "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
-    "publishedAt": "2026-10-09",
+    "id": "news-eoa-1791598311000",
+    "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
+    "link": "https://www.tmtpost.com/8155165.html",
+    "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
+    "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-1791582089000",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
-    "publishedAt": "2026-10-09",
+    "id": "news-anthropic-can-8217-t-reliably-control-its-ai-agents-it-8217--1791591512000",
+    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,11 +133,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791562062000",
-    "title": " 水处理膜行业十年激战，下半场靠什么增长？ ",
-    "link": "https://www.huxiu.com/article/4896299.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：十年国产替代之后，中国膜企开始面临3场新竞争——规模、场景与运营。 过去十年，中国膜产业最鲜明的一条主线，是国产替代。 从反渗透、超滤、纳滤到无机膜，从市政水处理到工业废水回用、海水淡化和过程分离，国内企业不断向材料、膜片、组件和系统集成的更深处推进。 十年前，行业反复追问的是：中国企业能不能做出一张性能合格的膜，能不能替代进口产品，能不能进入过去由国际品牌主导的市场。 今天，越来越多领域已经跨过了“有没有”的门槛。 但这场持续十年的激战，并没有把市场带向一个统一的终局。 相反，当国产膜供给增加、产品能力普遍提升，原本由技术稀缺和进口替代支撑的统一叙事，开始迅速分化。 膜企竞争正在转向三个更难的问题 成本质量、复杂场景、结果导向 近两年，水处理膜市场给人的感受尤其矛盾。 一边是高端膜材料、工业废水回用、海水淡化和国产替代持续升温；另一边是传统市政项目承压、同质化竞争加剧，部分膜产品售价和工程毛利不断下行。 有人在工业分离和海外市场快速增长，也有人仍被项目周期、回款压力和价格战拖住。 这些信号很难再被“市场景气”或“市场低迷”统一概括。膜种不同、场景不同、客户不同、商业模式不同，企业面对的已经不是同一套增长逻辑。 真正巨大的变化，不一定体现在市场规模里，而在于需求、利润和结果责任正在重新分配。 过去以“能不能做出膜”为中心",
-    "publishedAt": "2026-10-09",
+    "id": "news--1791603758000",
+    "title": " 暴涨的油轮运费，美以伊战争中最疯狂的行业 ",
+    "link": "https://www.huxiu.com/article/4896368.html?f=rss",
+    "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 暴涨的油轮运费，美以伊战争中最疯狂的行业 海峡受阻，VLCC运费从每天约10万涨破100万再涨至140万美元，分别用时约9个月和不到1个月，石油进口国成最大受害者日本最为典型。 王能全 进入第8个月美国与伊朗之间打打停停的战争，刺激石油天然气等能源价格大涨，严重冲击了世界经济和各国百姓的生活，其中油轮运费无论是上涨的绝对数字还是涨幅都大大高于石油价格，成为2026年能源领域最疯狂的行业，油运费用已超过石油进口总成本五分之一以上，能源和石油进口国都成了这场战争的受害者，其中日本最为典型。 从每天约10万到涨破100万美元，用时约9个月 作为全球交易的最典型大宗商品，由于生产与消费的地域不平衡，原油和成品油贸易中的很大一部分，需要靠船进行远洋的运输，由此催生出了石油产业链中非常重要且规模庞大的油运行业。 根据2026年1月23日波罗的海交易所发布的数据，当周从中东波斯湾至中国、运量27万吨的航次（TD3C）运费评估为WS126.5，相当于标准波罗的海超大型油轮（VLCC）每日往返等价期租租金（TCE）为112,394美元；同期，大西洋市场，26万吨西非/中国航次（TD15）为WS117.31，单程航行TCE为101,263美元；美国墨西哥湾至中国航次（TD22）的市场报价约为1365万至1370万美元，意味着每日往返TCE略低于93,5",
+    "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -146,11 +146,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lululemon-2026-alo-1791543875000",
-    "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
-    "link": "https://www.tmtpost.com/8163045.html",
-    "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
-    "publishedAt": "2026-10-09",
+    "id": "news-china-s-personal-ai-agents-stall-on-ecosystem-access-not-mod-1791598083000",
+    "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
+    "link": "https://www.tmtpost.com/8163541.html",
+    "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commercial terms.",
+    "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelp-1791574616000",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "id": "news-long-live-the-mechanical-keyboard-1791583704000",
+    "title": "Long live the mechanical keyboard",
+    "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
     "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
@@ -212,11 +212,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-robotaxi-races-shift-from-tech-specs-to-partnerships-1791541683000",
-    "title": "Robotaxi Races Shift From Tech Specs to Partnerships",
-    "link": "https://www.tmtpost.com/8163126.html",
-    "summary": "In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an entry ticket. The new contest is over who can assemble manufacturing, operations and demand into a working business.",
-    "publishedAt": "2026-10-09",
+    "id": "news--1791603469000",
+    "title": " 美图公司大起大落 ",
+    "link": "https://www.huxiu.com/article/4896367.html?f=rss",
+    "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《美图公司大起大落｜巨潮》 2026年，美图公司的股价，再次上演了一轮熟悉的大起大落。回望2026年初，美图股价一度站上9港元上方，而到如今股价已回落至4港元附近，相比高点跌幅已经超过50%。 短短一年时间，市场情绪完成一轮从追捧到谨慎的快速切换。 这已经不是美图第一次经历这样剧烈的波动，翻开其股价曲线，起起伏伏早成常态。 它能从上市之初的8港元四个月猛涨至最高超过21港元，也能在5年后，让自己的股价跌至仅为0.599港元。在濒临绝境之地，它又能在3年间涨至12港元，也能很快再从高点跌超三分之二直至如今。 股价起落背后，是业务基本面的阴晴交替。 很多人对美图的印象，还停留在十多年前那款风靡国内外的美颜相机，但后来的美图也曾在智能手机、电商、社交等多个赛道同时出击，也曾经因为多元化尝试陷入困境。 生成式AI技术逐渐成熟之后，这家几乎濒临倒闭的工具APP又完成了强势反弹，走出一轮业绩与估值双升的大行情。 美图的故事，放在整个科技领域都具备足够的样本意义——它是移动互联网时代的国民工具，在AI时代也努力完成了商业模式的重构。但与此同时，美图在AI时代同样面临困境，也成为C端工具公司生存处境的一个缩影。 转型故事 2026年8月26日，美图公司发布2026年中期业绩公告。 当期的财报数据显示，美图来自持续经营业务的",
+    "publishedAt": "2026-10-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-00-ai-5-1791594819000",
+    "title": "00后“戒断”AI短剧：一个月卸载了5次",
+    "link": "https://www.tmtpost.com/8163363.html",
+    "summary": "一场“戒毒”拉锯战。",
+    "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -238,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-batteries-are-now-cheaper-than-natural-gas-turbines-used-at--1791572278000",
-    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-    "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-    "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+    "id": "news-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-1791582089000",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
     "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
@@ -277,11 +291,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791541134000",
-    "title": "特斯拉供应商们，正在悄悄“造人”",
-    "link": "https://www.tmtpost.com/8162947.html",
-    "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。",
-    "publishedAt": "2026-10-09",
+    "id": "news--1791603197000",
+    "title": " 模型还在加速，世界如何跟上？ ",
+    "link": "https://www.huxiu.com/article/4896366.html?f=rss",
+    "summary": "本文来自微信公众号： 划重点KeyPoints ，作者：冯瑶，原文标题：《模型还在加速，世界如何跟上？｜北美AI访谈手记》，头图来自：AI生成 这趟行程密度很大，后劲很足，回到上海后满脑子还是15天里的各种画面： 一边，有Frontier Lab研究员波澜不惊地向我描述他的日常：&ldquo;我的工作主要就是监督和鼓励我的1万个agent。&rdquo;有数学博士对我说：&ldquo;数学已经死了。&rdquo; 在Mountain View的Red Rock Coffee里，连续几天见的多位&ldquo;天才少年&rdquo;都坚定表示&ldquo;一定会创业&rdquo;，也有不到30岁的一线研究员开玩笑地说&ldquo;要退休了&rdquo;。 另一边，则是热火朝天的科技新闻：OpenAI发布了Astra、公布Navier&ndash;Stokes千禧年难题解答、Meta推出了用户增速超过ChatGPT的AI个人助理Muse、Dario大声疾呼&ldquo;pace the frontier&rdquo;居然得到了Elon和死对头Sam的响应...... 新闻里的未来，和眼前研究员的日常，正在以一种奇妙的方式重叠。 同一轮浪潮里，人们正在经历不同的时间线 对于SevenX，我们始终相信，对任何技术和产业的理解，一定要站在最前沿、最一线，要和那些真正在其中挣扎过、绝望过、成功过",
+    "publishedAt": "2026-10-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-muse-1791594681000",
+    "title": "还是别太期待国产Muse了",
+    "link": "https://www.tmtpost.com/8162951.html",
+    "summary": "豆包手机的难题还在。",
+    "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -303,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wall-1791572226000",
-    "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+    "id": "news-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelp-1791574616000",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "publishedAt": "2026-10-09",
     "source": "TechCrunch",
     "tags": [
@@ -342,11 +370,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791541129000",
-    "title": "AI家电，攻占黄金周",
-    "link": "https://www.tmtpost.com/8162948.html",
-    "summary": "AI能让用户多掏钱吗？",
-    "publishedAt": "2026-10-09",
+    "id": "news--1791603018000",
+    "title": " 提前还贷潮又来了：有人在还，也有人在悄悄撤回 ",
+    "link": "https://www.huxiu.com/article/4896363.html?f=rss",
+    "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 在当下这个时代，普通人能做的最有底气的事情，或许就是有一笔相对充裕的现金，能提前还掉一部分贷款。 据央行数据，2026年4月，全国住户中长期贷款单月净偿还3408亿元，创下历史新高。到2026年二季度末，个人住房贷款余额36.29万亿元，同比下降3.8%，已连续13个季度负增长。 有人把年终奖和孩子压岁钱凑成八万多还了进去，起因是同事去年结清省下十来万利息； 有人还了三万，月供少了两百多，她说不清省多少，但每个月账单轻一点，心里就松一点； 有人一年还了四次、每次十万以上，只选缩短年限，\"提前还贷真的会上瘾\"。 还有人把陆续到期的存款搬出来填房贷——当年利率五六个点，如今存哪儿都不到两，还不如先把这个窟窿填上。 同一批人，三年前还在问\"凭什么\"，三年后只问\"能不能扛住\"。 以下是关于他们的真实故事： 文|蔡玉 编辑|卓然 陈晓的提前还贷，是被同事“刺激”到了。 2024年，她在长沙贷款68万买了套房，月供3000多元，共贷了十年。买房之前，她还问过好几个之前买房的同事，庆幸自己好像买在了低点。 结果去年年底，有个同事告诉他最近刚提前换了一波贷款，一波操作下来，不仅省下10万利息，还减少了10年的还款年限。 那个数字在办公室里被念出来，不轻不重，却像一颗石子丢进了陈女士心里。 2026年春节，她马上把年终奖五万、加上孩",
+    "publishedAt": "2026-10-10",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-claude-gpt-1791594622000",
+    "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+    "link": "https://www.tmtpost.com/8163462.html",
+    "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
+    "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -924,4 +965,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-09T22:11:43.716Z';
+export const dataFetchedAt = '2026-10-10T04:09:05.257Z';
