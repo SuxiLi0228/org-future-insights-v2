@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trae-code-work-1791537597000",
-    "title": "TRAE终于把Code和Work合并了",
-    "link": "https://www.qbitai.com/2026/10/502426.html",
-    "summary": "大写的方便",
-    "publishedAt": "2026-10-09",
+    "id": "news-fsd-1791615542000",
+    "title": "特斯拉FSD，在欧洲被打回原形",
+    "link": "https://www.qbitai.com/2026/10/502467.html",
+    "summary": "马斯克反而发文道谢？",
+    "publishedAt": "2026-10-10",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ip-top-toy-1791604867000",
-    "title": " 热门素人IP在手TOP TOY在等大结果 ",
-    "link": "https://www.huxiu.com/article/4896371.html?f=rss",
-    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技，原文标题：《热门素人IP在手 TOP TOY在等大结果》 国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP TOY投资控股小玉所属公司“广州角闪石族艺术文化有限责任公司”。 此后，小玉在多地商场的中庭快闪中创下千万元级销售成绩，还相继与华为、CASETiFY、奈雪的茶、麦当劳等品牌推出联名产品，成为“素人IP”商业化的突出案例。 但押中小玉，并不意味着TOP TOY已经掌握了批量制造爆款的方法。 一位接近名创的IP行业投资人告诉华尔街见闻·全天候科技，小玉的成功有清晰的运营方法，却也叠加了市场周期、粉丝结构与产品节奏等难以复制的偶然因素。 一 小玉的“草根生长” 与依靠影视、动画或商业机构集中推广的传统IP不同，素人IP通常由个人创作者发起，先通过社交平台持续更新内容、与用户互动积累粉丝，再逐步进",
+    "id": "news--1791632387000",
+    "title": " 最强厄尔尼诺正式形成，很多东西都乱了 ",
+    "link": "https://www.huxiu.com/article/4896516.html?f=rss",
+    "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 10月9日，国家气候中心宣布：今年9月，一次超强厄尔尼诺事件正式形成。而且，这大概率是有系统观测以来最强的一次。 （图：@国家气候中心）▼ 最强，意味着接下来的冬天，中国偏暖的概率很大，南方雨水偏多，明年汛期长江流域的防汛压力也会上来。 而在中国之外，从秘鲁的渔场到印尼的种植园，从巴拿马的船闸到期货市场的K线，这位“圣婴”早就开始发力了。 其实从今年春天开始，厄尔尼诺的苗头就一点点冒出来了： 4月，多国气象机构拉响警报；5月，赤道中东太平洋正式进入厄尔尼诺状态；7月，国家海洋环境预报中心研判，秋冬季将形成超强事件；8月，海温指数突破2.5℃……乱成一锅粥，各种极端天气也接踵而至。 根据重要判定标准尼诺3.4指数来看 这一次厄尔尼诺事件大概是史上最严重的情况之一 （图：noaa）▼ 但讨论归讨论，今年大半年过下来，我们还没太“亲身”感觉到它。 原因很简单。厄尔尼诺是横跨整个赤道太平洋的巨型海气扰动，信号从大洋传到东亚大陆，中间隔着不小的时差。 太平洋区域有着明显的高温现象 （每日5公里海表温度，图：noaa）▼ 正常年份，赤道信风把表层暖水往西吹，堆在西太平洋；东边的秘鲁沿岸则靠冷水上涌补位。东冷西暖，全球大气环流就架在这个格局上。 厄尔尼诺一来，信风减弱，暖水掉头东移，中东太平洋海温异常升高，整个沃克环流跟着改道——这就是气象上",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eoa-1791598311000",
-    "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
-    "link": "https://www.tmtpost.com/8155165.html",
-    "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
+    "id": "news-ai-ipo-500-1791626263000",
+    "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
+    "link": "https://www.tmtpost.com/8163752.html",
+    "summary": "（10月5日-10日）Manus完成超5亿美元新一轮融资；博通据悉计划为OpenAI定制芯片项目融资逾500亿美元；Anthropic发布最新AI模型Claude Haiku 5.5，运行成本较4.5低约75%；OpenAI宣布面向全球所有ChatGPT用户上线GPT-6",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -109,7 +109,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
     "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
     "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
+    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
     "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
@@ -120,10 +120,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tianxicode-swe-bench-live-1791535988000",
-    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-    "link": "https://www.qbitai.com/2026/10/502422.html",
-    "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+    "id": "news-trae-code-work-1791537597000",
+    "title": "TRAE终于把Code和Work合并了",
+    "link": "https://www.qbitai.com/2026/10/502426.html",
+    "summary": "大写的方便",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -133,23 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791603758000",
-    "title": " 暴涨的油轮运费，美以伊战争中最疯狂的行业 ",
-    "link": "https://www.huxiu.com/article/4896368.html?f=rss",
-    "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 暴涨的油轮运费，美以伊战争中最疯狂的行业 海峡受阻，VLCC运费从每天约10万涨破100万再涨至140万美元，分别用时约9个月和不到1个月，石油进口国成最大受害者日本最为典型。 王能全 进入第8个月美国与伊朗之间打打停停的战争，刺激石油天然气等能源价格大涨，严重冲击了世界经济和各国百姓的生活，其中油轮运费无论是上涨的绝对数字还是涨幅都大大高于石油价格，成为2026年能源领域最疯狂的行业，油运费用已超过石油进口总成本五分之一以上，能源和石油进口国都成了这场战争的受害者，其中日本最为典型。 从每天约10万到涨破100万美元，用时约9个月 作为全球交易的最典型大宗商品，由于生产与消费的地域不平衡，原油和成品油贸易中的很大一部分，需要靠船进行远洋的运输，由此催生出了石油产业链中非常重要且规模庞大的油运行业。 根据2026年1月23日波罗的海交易所发布的数据，当周从中东波斯湾至中国、运量27万吨的航次（TD3C）运费评估为WS126.5，相当于标准波罗的海超大型油轮（VLCC）每日往返等价期租租金（TCE）为112,394美元；同期，大西洋市场，26万吨西非/中国航次（TD15）为WS117.31，单程航行TCE为101,263美元；美国墨西哥湾至中国航次（TD22）的市场报价约为1365万至1370万美元，意味着每日往返TCE略低于93,5",
+    "id": "news-200-ai-1791631521000",
+    "title": " 单应用月流水200万美元，土耳其游戏老兵用一个AI模板“套”出两个爆款 ",
+    "link": "https://www.huxiu.com/article/4896513.html?f=rss",
+    "summary": "本文来自微信公众号： 扬帆出海 ，作者：以南，编辑：火狐狸 AI视频应用从不缺爆款模板。从照片转视频到各种特效玩法，一套热门模板往往能被不同应用快速复用，短时间内带来下载增长。但这类产品的热度也来得快、去得快，模板相似、功能趋同，在榜单上的位置很难长期守住。 不过，土耳其公司DeePix AI（以下简称为“DeePix”）最近交出了一份不太一样的成绩单。 9月23日，其旗下应用Shots登上美国App Store摄影与录像榜第2名；10月8日，其旗下另一款Dance AI也进入该榜单第10名。LinkedIn页面显示，DeePix公司规模为2–10人，是一家规模并不大的公司。 DeePix的特别之处在于，其创始人Ümit Boncukçu曾参与创办土耳其手游公司MagicLab；同时，DeePix旗下应用Car AI的App Store页面版权信息显示为“©Tolga Sen”。而TolgaŞen正是与Boncukçu共同创办MagicLab的合伙人。 DeePix创始人Ümit Boncukçu的领英主页。图源：Linkedln 一个核心人员从移动游戏背景出身的团队，如何能把AI舞蹈这个题材融进两款应用，并同时推上榜单？它沿用的是移动游戏的产品开发与增长方法，还是AI应用又一轮模板竞争中的短期红利？ 靠“AI跳舞”跨界狂飙： 两款App截然不同的增长曲线 我们先来看两款产品的市场",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-china-s-personal-ai-agents-stall-on-ecosystem-access-not-mod-1791598083000",
-    "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
-    "link": "https://www.tmtpost.com/8163541.html",
-    "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commercial terms.",
+    "id": "news-ai-token-1791626244000",
+    "title": "AI落地遭遇账单焦虑，大厂开始对Token成本“下手”",
+    "link": "https://www.tmtpost.com/8163627.html",
+    "summary": "企业的AI价值评估与成本管控仍存在脱节。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -199,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-0-2-1791535654000",
-    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-    "link": "https://www.qbitai.com/2026/10/502411.html",
-    "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+    "id": "news-tianxicode-swe-bench-live-1791535988000",
+    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+    "link": "https://www.qbitai.com/2026/10/502422.html",
+    "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -212,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791603469000",
-    "title": " 美图公司大起大落 ",
-    "link": "https://www.huxiu.com/article/4896367.html?f=rss",
-    "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《美图公司大起大落｜巨潮》 2026年，美图公司的股价，再次上演了一轮熟悉的大起大落。回望2026年初，美图股价一度站上9港元上方，而到如今股价已回落至4港元附近，相比高点跌幅已经超过50%。 短短一年时间，市场情绪完成一轮从追捧到谨慎的快速切换。 这已经不是美图第一次经历这样剧烈的波动，翻开其股价曲线，起起伏伏早成常态。 它能从上市之初的8港元四个月猛涨至最高超过21港元，也能在5年后，让自己的股价跌至仅为0.599港元。在濒临绝境之地，它又能在3年间涨至12港元，也能很快再从高点跌超三分之二直至如今。 股价起落背后，是业务基本面的阴晴交替。 很多人对美图的印象，还停留在十多年前那款风靡国内外的美颜相机，但后来的美图也曾在智能手机、电商、社交等多个赛道同时出击，也曾经因为多元化尝试陷入困境。 生成式AI技术逐渐成熟之后，这家几乎濒临倒闭的工具APP又完成了强势反弹，走出一轮业绩与估值双升的大行情。 美图的故事，放在整个科技领域都具备足够的样本意义——它是移动互联网时代的国民工具，在AI时代也努力完成了商业模式的重构。但与此同时，美图在AI时代同样面临困境，也成为C端工具公司生存处境的一个缩影。 转型故事 2026年8月26日，美图公司发布2026年中期业绩公告。 当期的财报数据显示，美图来自持续经营业务的",
+    "id": "news-28-ai-1791631253000",
+    "title": " 28岁姚顺雨坐到马化腾旁边，AI抢人大战抢的其实不是人？ ",
+    "link": "https://www.huxiu.com/article/4896512.html?f=rss",
+    "summary": "本文来自微信公众号： 未来图灵 ，作者：张凤静 国庆长假后第一个工作日，深圳腾讯总部，一张照片在AI圈里悄然传开。 10月8日，广东省委书记黄坤明走进腾讯总部调研，《广东新闻联播》的画面里，一个细节被反复截取：55岁的马化腾右手边，坐着28岁的姚顺雨。 马化腾近年极少公开露面，每次出现本身就是表态。而这一次，比露面更值得琢磨的，是他身边的位置留给了谁。按惯例，这种场合坐在创始人旁边的应该是集团资深高管。但这次，邻座属于一个入职不到一年的年轻人。 28岁姚顺雨的履历几乎是为这个岗位定制的：安徽合肥人，2015年以704分考入清华姚班，普林斯顿博士，2024年加入OpenAI，参与Operator、DeepResearch等核心项目。2025年12月加入腾讯，出任CEO/总裁办公室首席AI科学家。不到一年，他同时执掌基础模型部、AI Infra部和AI Data部，完整覆盖混元大模型从算力、模型到数据的全链路。 有大厂人士评价：“这也许是腾讯史上权力最大的年轻高管。” 但在AI人才争夺战的大背景下，这个“少年上位”的故事只是一个引子。真正值得追问的是：为什么腾讯愿意把命脉级的业务交给一个28岁的人？为什么AI人才争夺如此激烈？这场战争的本质到底是什么？ DeepSeek的困境：不上市，就留不住人？ 要理解AI人才争夺的烈度，先看一个被迫做出的选择。 DeepSeek创始人梁文锋不止一次",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-00-ai-5-1791594819000",
-    "title": "00后“戒断”AI短剧：一个月卸载了5次",
-    "link": "https://www.tmtpost.com/8163363.html",
-    "summary": "一场“戒毒”拉锯战。",
+    "id": "news-3-13-ai-1791625211000",
+    "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
+    "link": "https://www.tmtpost.com/8163230.html",
+    "summary": "攻略精确到分钟，落地全靠腿。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -278,10 +279,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1791529915000",
-    "title": "字节找到了DeepSeek时强时弱的原因",
-    "link": "https://www.qbitai.com/2026/10/502364.html",
-    "summary": "答不答得对，得看Token站位",
+    "id": "news-0-2-1791535654000",
+    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+    "link": "https://www.qbitai.com/2026/10/502411.html",
+    "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -291,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791603197000",
-    "title": " 模型还在加速，世界如何跟上？ ",
-    "link": "https://www.huxiu.com/article/4896366.html?f=rss",
-    "summary": "本文来自微信公众号： 划重点KeyPoints ，作者：冯瑶，原文标题：《模型还在加速，世界如何跟上？｜北美AI访谈手记》，头图来自：AI生成 这趟行程密度很大，后劲很足，回到上海后满脑子还是15天里的各种画面： 一边，有Frontier Lab研究员波澜不惊地向我描述他的日常：&ldquo;我的工作主要就是监督和鼓励我的1万个agent。&rdquo;有数学博士对我说：&ldquo;数学已经死了。&rdquo; 在Mountain View的Red Rock Coffee里，连续几天见的多位&ldquo;天才少年&rdquo;都坚定表示&ldquo;一定会创业&rdquo;，也有不到30岁的一线研究员开玩笑地说&ldquo;要退休了&rdquo;。 另一边，则是热火朝天的科技新闻：OpenAI发布了Astra、公布Navier&ndash;Stokes千禧年难题解答、Meta推出了用户增速超过ChatGPT的AI个人助理Muse、Dario大声疾呼&ldquo;pace the frontier&rdquo;居然得到了Elon和死对头Sam的响应...... 新闻里的未来，和眼前研究员的日常，正在以一种奇妙的方式重叠。 同一轮浪潮里，人们正在经历不同的时间线 对于SevenX，我们始终相信，对任何技术和产业的理解，一定要站在最前沿、最一线，要和那些真正在其中挣扎过、绝望过、成功过",
+    "id": "news-ai-1791631132000",
+    "title": " 当黑客也开始“有问题问AI” ",
+    "link": "https://www.huxiu.com/article/4896510.html?f=rss",
+    "summary": "本文来自微信公众号： ZAI科技 ，作者：Kevin 导读：AI在砍掉软件开发岗位的同时，即将安排一批网络安全人员上岗了。 01 INCIDENT 一次“水平有限同时破绽百出”的网络攻击活动 10月7日，网络安全公司CrowdStrike发布报告，披露了一轮针对韩国金融机构的攻击。据韩国媒体报道，新韩银行、KB国民银行、韩亚银行等至少七家机构先后出现数据泄露， 其中，新韩银行约2.5万名客户的姓名、电话、年收入和可贷额度外泄，攻击者绕过身份验证，进入了贷款中介使用的查询服务；KB国民银行和韩亚银行则分别有119人和89人的信息泄露，前者的入口是员工使用的移动办公支持系统。 CrowdStrike报告显示，攻击者使用了AI渗透测试工具ARTEX，以DeepSeek作为主要模型后端，同时借助Claude Code开展工作。 有趣的是，在报告中还披露了一些相当不同寻常的信息-黑客在发动攻击的同时，也暴露了相当多的（疑似）个人资料。 研究人员在他控制的服务器上发现了开放目录，顺着其中的文件，找到了Claude Code会话历史、ARTEX配置和记忆文件。攻击者不仅问过Claude，通常在哪里出售韩国的泄露数据，还请它帮忙寻找Telegram上的数据交易群组。 另一组对话更出人意料：他要求AI把使用ARTEX取得的“战果”写进安全研究员简历，并提供了姓名、联系方式、年龄、学校和所在地。 通过",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
@@ -305,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-1791594681000",
-    "title": "还是别太期待国产Muse了",
-    "link": "https://www.tmtpost.com/8162951.html",
-    "summary": "豆包手机的难题还在。",
+    "id": "news-ipo-1791625136000",
+    "title": "张雪的老东家要去IPO了",
+    "link": "https://www.tmtpost.com/8163619.html",
+    "summary": "两年三轮融资之外，张雪“老东家”也在排队上市。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -357,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791527335000",
-    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-    "link": "https://www.qbitai.com/2026/10/502359.html",
-    "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+    "id": "news-deepseek-1791529915000",
+    "title": "字节找到了DeepSeek时强时弱的原因",
+    "link": "https://www.qbitai.com/2026/10/502364.html",
+    "summary": "答不答得对，得看Token站位",
     "publishedAt": "2026-10-09",
     "source": "量子位",
     "tags": [
@@ -370,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791603018000",
-    "title": " 提前还贷潮又来了：有人在还，也有人在悄悄撤回 ",
-    "link": "https://www.huxiu.com/article/4896363.html?f=rss",
-    "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 在当下这个时代，普通人能做的最有底气的事情，或许就是有一笔相对充裕的现金，能提前还掉一部分贷款。 据央行数据，2026年4月，全国住户中长期贷款单月净偿还3408亿元，创下历史新高。到2026年二季度末，个人住房贷款余额36.29万亿元，同比下降3.8%，已连续13个季度负增长。 有人把年终奖和孩子压岁钱凑成八万多还了进去，起因是同事去年结清省下十来万利息； 有人还了三万，月供少了两百多，她说不清省多少，但每个月账单轻一点，心里就松一点； 有人一年还了四次、每次十万以上，只选缩短年限，\"提前还贷真的会上瘾\"。 还有人把陆续到期的存款搬出来填房贷——当年利率五六个点，如今存哪儿都不到两，还不如先把这个窟窿填上。 同一批人，三年前还在问\"凭什么\"，三年后只问\"能不能扛住\"。 以下是关于他们的真实故事： 文|蔡玉 编辑|卓然 陈晓的提前还贷，是被同事“刺激”到了。 2024年，她在长沙贷款68万买了套房，月供3000多元，共贷了十年。买房之前，她还问过好几个之前买房的同事，庆幸自己好像买在了低点。 结果去年年底，有个同事告诉他最近刚提前换了一波贷款，一波操作下来，不仅省下10万利息，还减少了10年的还款年限。 那个数字在办公室里被念出来，不轻不重，却像一颗石子丢进了陈女士心里。 2026年春节，她马上把年终奖五万、加上孩",
+    "id": "news--1791630726000",
+    "title": " 护工不是人：机器人给我们养老还有多远？ ",
+    "link": "https://www.huxiu.com/article/4896505.html?f=rss",
+    "summary": "本文来自微信公众号： 脑极体 ，作者：藏狐 这篇文章的起因，是前不久我采访了一家机器人公司，对方提到，创业的起点是父亲住院时的一次照护经历。 他发现，即使是最亲近的人，也很难在照护一个病人时做到面面俱到，于是开始琢磨，有没有一种机器，可以让我们老去的时候，更有尊严？ 这个念头很朴素，也跟大众对机器人的期待不谋而合。 过去两年，人形机器人在展会和舞台上又唱又跳，但如果随机选取一个现场的普通观众，问他最希望机器人做什么。答案一定有，老了能照顾我。 这种渴望，同时也被文艺创作者所捕获和表达。一部最新的海外轻喜剧《Ann Droid》，中文译名《护工不是人》，故事就围绕一个独居老人Sue苏展开。她唯一的儿子准备搬走，临行前给母亲买了一台人形养老机器人。 机器人刚开机就状况百出：朝人脸射激光，在人泡澡的时候突然破门而入，系统太旧，甚至记不住老人刚刚告诉它的事情。 但度过磨合期之后，这台笨拙的机器人却逐渐成了苏最可靠的陪伴者。这是比多年前《黑客帝国》积极得多的未来。 从来没有一个科技产品，能像照护机器人这样，同时引发创业者、消费者、文艺作品如此强烈的共鸣与共识。 所有人似乎都准备好了，只等那台机器人界的iPhone4到位，掀起下一个智能终端的消费狂潮。那么，这一天究竟还有多远？ 把一个老人，摆渡到一个更安宁的晚年，机器人自己首先要渡过三条河。 机器人养老，我们到底希望机器人替我们做什么？这个问",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
@@ -383,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-gpt-1791594622000",
-    "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
-    "link": "https://www.tmtpost.com/8163462.html",
-    "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
+    "id": "news-21-1791624263000",
+    "title": "21亿人次，平台接管人们的国庆假期",
+    "link": "https://www.tmtpost.com/8163700.html",
+    "summary": "平台重塑国人的假期",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -965,4 +966,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-10T04:09:05.257Z';
+export const dataFetchedAt = '2026-10-10T11:50:40.781Z';
