@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-intensifies-attack-on-ambani-over-starlink-india-l-1791601806000",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791632387000",
-    "title": " 最强厄尔尼诺正式形成，很多东西都乱了 ",
-    "link": "https://www.huxiu.com/article/4896516.html?f=rss",
-    "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 10月9日，国家气候中心宣布：今年9月，一次超强厄尔尼诺事件正式形成。而且，这大概率是有系统观测以来最强的一次。 （图：@国家气候中心）▼ 最强，意味着接下来的冬天，中国偏暖的概率很大，南方雨水偏多，明年汛期长江流域的防汛压力也会上来。 而在中国之外，从秘鲁的渔场到印尼的种植园，从巴拿马的船闸到期货市场的K线，这位“圣婴”早就开始发力了。 其实从今年春天开始，厄尔尼诺的苗头就一点点冒出来了： 4月，多国气象机构拉响警报；5月，赤道中东太平洋正式进入厄尔尼诺状态；7月，国家海洋环境预报中心研判，秋冬季将形成超强事件；8月，海温指数突破2.5℃……乱成一锅粥，各种极端天气也接踵而至。 根据重要判定标准尼诺3.4指数来看 这一次厄尔尼诺事件大概是史上最严重的情况之一 （图：noaa）▼ 但讨论归讨论，今年大半年过下来，我们还没太“亲身”感觉到它。 原因很简单。厄尔尼诺是横跨整个赤道太平洋的巨型海气扰动，信号从大洋传到东亚大陆，中间隔着不小的时差。 太平洋区域有着明显的高温现象 （每日5公里海表温度，图：noaa）▼ 正常年份，赤道信风把表层暖水往西吹，堆在西太平洋；东边的秘鲁沿岸则靠冷水上涌补位。东冷西暖，全球大气环流就架在这个格局上。 厄尔尼诺一来，信风减弱，暖水掉头东移，中东太平洋海温异常升高，整个沃克环流跟着改道——这就是气象上",
+    "id": "news-20-ai-vicor-1791650099000",
+    "title": " 20家AI巨头被Vicor拖入专利战 ",
+    "link": "https://www.huxiu.com/article/4896561.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 美国时间10月9号，美国国际贸易委员会（ITC）挂出一条立案公告。案号337-TA-1526，申诉人是美国电源模块厂商Vicor，被告20家。 从立讯精密到富士康，从英飞凌到天弘，整条AI服务器供应链被圈了进去。 涉案的东西叫VPD，垂直供电，如果你只看到这条消息，大概会觉得这又是一起普通的专利纠纷。 嗯，还真不是，这是Vicor在AI供电领域发起的第三轮337调查。 前两轮已经打完了，第一轮2023年立案、2025年2月终裁，Vicor赢了；第二轮今年2月立案，打中间总线电源模块，还在进行中。第三轮直接瞄准了垂直供电架构本身。 一轮打元器件，一轮打二级电源，一轮打整机，被告名单一轮比一轮长，打击范围从芯片一路铺到了系统集成。 你细想，一个人连着打三轮，打的还是同一个技术方向，范围越打越大。他在想什么？毋庸置疑，奔着整张许可协议去的，一份判决书明显不够。 ...... 要想搞明白这件事，得从根上看，我翻了翻Vicor的专利，又捋了一下它这几年的动作。发现两件事。 一件是VPD这个专利，保护的到底是什么？另一件是Vicor现在靠什么赚钱？两件放在一起看，才能理解它为什么连着打三轮。 先说专利。这次涉案的那张美国专利，核心方案用大白话讲，就是一个「模块三明治」。 打个比方： 芯片是一栋大楼，用电大户。传统供电就像把食堂建在一公里外，饭菜送过",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-ipo-500-1791626263000",
-    "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
-    "link": "https://www.tmtpost.com/8163752.html",
-    "summary": "（10月5日-10日）Manus完成超5亿美元新一轮融资；博通据悉计划为OpenAI定制芯片项目融资逾500亿美元；Anthropic发布最新AI模型Claude Haiku 5.5，运行成本较4.5低约75%；OpenAI宣布面向全球所有ChatGPT用户上线GPT-6",
+    "id": "news--1791646374000",
+    "title": "收废品，怎么就成了大生意？",
+    "link": "https://www.tmtpost.com/8163795.html",
+    "summary": "废品站那杆秤，连着伦敦、纽约和布鲁塞尔的全球大宗市场。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-can-8217-t-reliably-control-its-ai-agents-it-8217--1791591512000",
-    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -109,7 +110,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
     "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
     "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
+    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
     "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
@@ -133,24 +134,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-ai-1791631521000",
-    "title": " 单应用月流水200万美元，土耳其游戏老兵用一个AI模板“套”出两个爆款 ",
-    "link": "https://www.huxiu.com/article/4896513.html?f=rss",
-    "summary": "本文来自微信公众号： 扬帆出海 ，作者：以南，编辑：火狐狸 AI视频应用从不缺爆款模板。从照片转视频到各种特效玩法，一套热门模板往往能被不同应用快速复用，短时间内带来下载增长。但这类产品的热度也来得快、去得快，模板相似、功能趋同，在榜单上的位置很难长期守住。 不过，土耳其公司DeePix AI（以下简称为“DeePix”）最近交出了一份不太一样的成绩单。 9月23日，其旗下应用Shots登上美国App Store摄影与录像榜第2名；10月8日，其旗下另一款Dance AI也进入该榜单第10名。LinkedIn页面显示，DeePix公司规模为2–10人，是一家规模并不大的公司。 DeePix的特别之处在于，其创始人Ümit Boncukçu曾参与创办土耳其手游公司MagicLab；同时，DeePix旗下应用Car AI的App Store页面版权信息显示为“©Tolga Sen”。而TolgaŞen正是与Boncukçu共同创办MagicLab的合伙人。 DeePix创始人Ümit Boncukçu的领英主页。图源：Linkedln 一个核心人员从移动游戏背景出身的团队，如何能把AI舞蹈这个题材融进两款应用，并同时推上榜单？它沿用的是移动游戏的产品开发与增长方法，还是AI应用又一轮模板竞争中的短期红利？ 靠“AI跳舞”跨界狂飙： 两款App截然不同的增长曲线 我们先来看两款产品的市场",
+    "id": "news-v800-1791648486000",
+    "title": " 免费升级但不是召回，尊界V800的踏板风波只讲了一半 ",
+    "link": "https://www.huxiu.com/article/4896560.html?f=rss",
+    "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 10月8日，懂车帝发布的一条封闭场地实测视频，在汽车市场激起了本年度或许是最震荡的一场舆论风暴。 视频中，三台全新未改装的尊界V800在100公里时速刹停的紧急制动测试中，制动踏板支架先后断裂，断裂位置和失效形态几乎一模一样。 而这场舆论风暴之所以如此汹涌，很大程度是因为这台车来头不小，它是华为与江淮汽车合作品牌尊界旗下的旗舰MPV，今年8月5日才上市，售价从76.8万元排到101.8万元。 巨大关注度之下，视频发布当晚，尊界汽车便发布情况说明，承诺优化部件并为已交付用户免费升级，同时把此次测试定性为非标准极端工况。 就在视频发布、尊界回应的第二天，中汽中心的调研问卷又火速发到各大车企手里，焦点只有一个，制动踏板总成的材质。 一次“简单”的媒体测试，在48小时内牵出车企回应、监管动作和全行业自查，更不用提海量媒体与网民的参与，这不得不让人想要把这条“线”理清楚。 热搜、声明与跌停 尽管懂车帝实测视频已经传播甚广，但视频里的细节仍值得多说几句。 拆解画面显示，尊界V800的制动踏板由金属踏板臂和工程塑料支架组成，支架材料标注为PP-GF40，即含40%玻璃纤维的增强聚丙烯，断裂发生在塑料支架的转轴区域，断口呈脆性断裂特征。 值得注意的是，懂车帝还拆了同材质同供应商的另一款车型做对照，后者在转轴位置设了多层加强立板。对比之下，尊界V800同",
     "publishedAt": "2026-10-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-token-1791626244000",
-    "title": "AI落地遭遇账单焦虑，大厂开始对Token成本“下手”",
-    "link": "https://www.tmtpost.com/8163627.html",
-    "summary": "企业的AI价值评估与成本管控仍存在脱节。",
+    "id": "news-ai-1791646097000",
+    "title": "模型还在加速，世界如何跟上？｜北美AI交流手记",
+    "link": "https://www.tmtpost.com/8163636.html",
+    "summary": "北美手记：15天，5座城，101人",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-long-live-the-mechanical-keyboard-1791583704000",
-    "title": "Long live the mechanical keyboard",
-    "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-    "publishedAt": "2026-10-09",
+    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1791640800000",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -213,24 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-28-ai-1791631253000",
-    "title": " 28岁姚顺雨坐到马化腾旁边，AI抢人大战抢的其实不是人？ ",
-    "link": "https://www.huxiu.com/article/4896512.html?f=rss",
-    "summary": "本文来自微信公众号： 未来图灵 ，作者：张凤静 国庆长假后第一个工作日，深圳腾讯总部，一张照片在AI圈里悄然传开。 10月8日，广东省委书记黄坤明走进腾讯总部调研，《广东新闻联播》的画面里，一个细节被反复截取：55岁的马化腾右手边，坐着28岁的姚顺雨。 马化腾近年极少公开露面，每次出现本身就是表态。而这一次，比露面更值得琢磨的，是他身边的位置留给了谁。按惯例，这种场合坐在创始人旁边的应该是集团资深高管。但这次，邻座属于一个入职不到一年的年轻人。 28岁姚顺雨的履历几乎是为这个岗位定制的：安徽合肥人，2015年以704分考入清华姚班，普林斯顿博士，2024年加入OpenAI，参与Operator、DeepResearch等核心项目。2025年12月加入腾讯，出任CEO/总裁办公室首席AI科学家。不到一年，他同时执掌基础模型部、AI Infra部和AI Data部，完整覆盖混元大模型从算力、模型到数据的全链路。 有大厂人士评价：“这也许是腾讯史上权力最大的年轻高管。” 但在AI人才争夺战的大背景下，这个“少年上位”的故事只是一个引子。真正值得追问的是：为什么腾讯愿意把命脉级的业务交给一个28岁的人？为什么AI人才争夺如此激烈？这场战争的本质到底是什么？ DeepSeek的困境：不上市，就留不住人？ 要理解AI人才争夺的烈度，先看一个被迫做出的选择。 DeepSeek创始人梁文锋不止一次",
-    "publishedAt": "2026-10-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-3-13-ai-1791625211000",
-    "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
-    "link": "https://www.tmtpost.com/8163230.html",
-    "summary": "攻略精确到分钟，落地全靠腿。",
+    "id": "news--1791646000000",
+    "title": "坐在马化腾身旁的姚顺雨，拿到中国第一",
+    "link": "https://www.tmtpost.com/8163587.html",
+    "summary": "Arena发布对齐指数榜单，姚顺雨一年前的预言应验了",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -253,11 +239,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-1791582089000",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "publishedAt": "2026-10-09",
+    "id": "news-elon-musk-intensifies-attack-on-ambani-over-starlink-india-l-1791601806000",
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -292,24 +278,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791631132000",
-    "title": " 当黑客也开始“有问题问AI” ",
-    "link": "https://www.huxiu.com/article/4896510.html?f=rss",
-    "summary": "本文来自微信公众号： ZAI科技 ，作者：Kevin 导读：AI在砍掉软件开发岗位的同时，即将安排一批网络安全人员上岗了。 01 INCIDENT 一次“水平有限同时破绽百出”的网络攻击活动 10月7日，网络安全公司CrowdStrike发布报告，披露了一轮针对韩国金融机构的攻击。据韩国媒体报道，新韩银行、KB国民银行、韩亚银行等至少七家机构先后出现数据泄露， 其中，新韩银行约2.5万名客户的姓名、电话、年收入和可贷额度外泄，攻击者绕过身份验证，进入了贷款中介使用的查询服务；KB国民银行和韩亚银行则分别有119人和89人的信息泄露，前者的入口是员工使用的移动办公支持系统。 CrowdStrike报告显示，攻击者使用了AI渗透测试工具ARTEX，以DeepSeek作为主要模型后端，同时借助Claude Code开展工作。 有趣的是，在报告中还披露了一些相当不同寻常的信息-黑客在发动攻击的同时，也暴露了相当多的（疑似）个人资料。 研究人员在他控制的服务器上发现了开放目录，顺着其中的文件，找到了Claude Code会话历史、ARTEX配置和记忆文件。攻击者不仅问过Claude，通常在哪里出售韩国的泄露数据，还请它帮忙寻找Telegram上的数据交易群组。 另一组对话更出人意料：他要求AI把使用ARTEX取得的“战果”写进安全研究员简历，并提供了姓名、联系方式、年龄、学校和所在地。 通过",
-    "publishedAt": "2026-10-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ipo-1791625136000",
-    "title": "张雪的老东家要去IPO了",
-    "link": "https://www.tmtpost.com/8163619.html",
-    "summary": "两年三轮融资之外，张雪“老东家”也在排队上市。",
+    "id": "news-11-1791645835000",
+    "title": "今年双11的逻辑已经完全变了",
+    "link": "https://www.tmtpost.com/8163269.html",
+    "summary": "大促规则在变少，平台承担的确定性却在变多。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -332,11 +304,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelp-1791574616000",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "publishedAt": "2026-10-09",
+    "id": "news-anthropic-can-8217-t-reliably-control-its-ai-agents-it-8217--1791591512000",
+    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -371,23 +343,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791630726000",
-    "title": " 护工不是人：机器人给我们养老还有多远？ ",
-    "link": "https://www.huxiu.com/article/4896505.html?f=rss",
-    "summary": "本文来自微信公众号： 脑极体 ，作者：藏狐 这篇文章的起因，是前不久我采访了一家机器人公司，对方提到，创业的起点是父亲住院时的一次照护经历。 他发现，即使是最亲近的人，也很难在照护一个病人时做到面面俱到，于是开始琢磨，有没有一种机器，可以让我们老去的时候，更有尊严？ 这个念头很朴素，也跟大众对机器人的期待不谋而合。 过去两年，人形机器人在展会和舞台上又唱又跳，但如果随机选取一个现场的普通观众，问他最希望机器人做什么。答案一定有，老了能照顾我。 这种渴望，同时也被文艺创作者所捕获和表达。一部最新的海外轻喜剧《Ann Droid》，中文译名《护工不是人》，故事就围绕一个独居老人Sue苏展开。她唯一的儿子准备搬走，临行前给母亲买了一台人形养老机器人。 机器人刚开机就状况百出：朝人脸射激光，在人泡澡的时候突然破门而入，系统太旧，甚至记不住老人刚刚告诉它的事情。 但度过磨合期之后，这台笨拙的机器人却逐渐成了苏最可靠的陪伴者。这是比多年前《黑客帝国》积极得多的未来。 从来没有一个科技产品，能像照护机器人这样，同时引发创业者、消费者、文艺作品如此强烈的共鸣与共识。 所有人似乎都准备好了，只等那台机器人界的iPhone4到位，掀起下一个智能终端的消费狂潮。那么，这一天究竟还有多远？ 把一个老人，摆渡到一个更安宁的晚年，机器人自己首先要渡过三条河。 机器人养老，我们到底希望机器人替我们做什么？这个问",
-    "publishedAt": "2026-10-10",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-21-1791624263000",
-    "title": "21亿人次，平台接管人们的国庆假期",
-    "link": "https://www.tmtpost.com/8163700.html",
-    "summary": "平台重塑国人的假期",
+    "id": "news-ai-1791645664000",
+    "title": "医疗影像走到分叉口：谁在为「AI读片」买单？",
+    "link": "https://www.tmtpost.com/8163192.html",
+    "summary": "技术跑到了专家水平，收费规则还停在「不单独计价」。医疗影像AI分两条路，谁先跑通，看谁先找到一个按结果付钱的买方。",
     "publishedAt": "2026-10-10",
     "source": "钛媒体",
     "tags": [
@@ -966,4 +925,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-10T11:50:40.781Z';
+export const dataFetchedAt = '2026-10-10T16:53:51.419Z';
