@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-discloses-deal-to-hire-team-and-license-tech-from-pers-1791661800000",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "id": "news-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-b-1791668871000",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -55,25 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-ai-vicor-1791650099000",
-    "title": " 20家AI巨头被Vicor拖入专利战 ",
-    "link": "https://www.huxiu.com/article/4896561.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 美国时间10月9号，美国国际贸易委员会（ITC）挂出一条立案公告。案号337-TA-1526，申诉人是美国电源模块厂商Vicor，被告20家。 从立讯精密到富士康，从英飞凌到天弘，整条AI服务器供应链被圈了进去。 涉案的东西叫VPD，垂直供电，如果你只看到这条消息，大概会觉得这又是一起普通的专利纠纷。 嗯，还真不是，这是Vicor在AI供电领域发起的第三轮337调查。 前两轮已经打完了，第一轮2023年立案、2025年2月终裁，Vicor赢了；第二轮今年2月立案，打中间总线电源模块，还在进行中。第三轮直接瞄准了垂直供电架构本身。 一轮打元器件，一轮打二级电源，一轮打整机，被告名单一轮比一轮长，打击范围从芯片一路铺到了系统集成。 你细想，一个人连着打三轮，打的还是同一个技术方向，范围越打越大。他在想什么？毋庸置疑，奔着整张许可协议去的，一份判决书明显不够。 ...... 要想搞明白这件事，得从根上看，我翻了翻Vicor的专利，又捋了一下它这几年的动作。发现两件事。 一件是VPD这个专利，保护的到底是什么？另一件是Vicor现在靠什么赚钱？两件放在一起看，才能理解它为什么连着打三轮。 先说专利。这次涉案的那张美国专利，核心方案用大白话讲，就是一个「模块三明治」。 打个比方： 芯片是一栋大楼，用电大户。传统供电就像把食堂建在一公里外，饭菜送过",
-    "publishedAt": "2026-10-10",
+    "id": "news--1791689354000",
+    "title": " 你一天要被震撼几次：自媒体为什么非要把话说到最满？ ",
+    "link": "https://www.huxiu.com/article/4896580.html?f=rss",
+    "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 某个晚上，我做了一件挺无聊的事：我把刷到的每一条内容，开头第一句话记了下来。 两个小时，三十七条。 “震撼”出现了十三次，“万万没想到”九次，“你一定要看”六次，“看完我沉默了”四次。而这两个小时里，我真正记住的内容，是零条。 点进去，讲的往往是一件普通的事，甚至是博主自己也没完全搞明白的事。这也难怪，我们每天的体验本身就是要简单、具体得多，哪来的那么多“震撼”？ 但我也理解，极端表达本身并不是为了表达含义，而是为了收割流量。 很多人以为“太震撼了”是一句夸张。它其实是一个筛选器，筛掉那些愿意多想一秒的人，留下那些愿意立刻点开的人。 但是，它却是有代价的，而这个注定越来越极端的代价，要让每一个人偿还。 一、“太震撼了”到底在干什么？ 先看这四个字本身。 它没有描述任何东西。它不告诉你震撼的是什么，不告诉你为什么震撼，也不告诉你震撼在哪里。它唯一的作用，是让你的手指停下来。 换句话说，它不传递信息，它发出的是一个信号：这里有信息。 而人有一个很难克服的本能：一旦有人喊“快看”，你很难不看。这不是愚蠢，是进化留下来的反应。在野外，忽略一声惊呼的代价，可能是命。 平台奖励的恰恰是这个。算法不判断内容好不好，它判断你能不能让人多停留三秒、多滑动一次、多留一句评论。而在这三件事上，情绪永远比事实好用。 于是就有了那个关键的不对称：情绪是免费的，",
+    "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1791646374000",
-    "title": "收废品，怎么就成了大生意？",
-    "link": "https://www.tmtpost.com/8163795.html",
-    "summary": "废品站那杆秤，连着伦敦、纽约和布鲁塞尔的全球大宗市场。",
-    "publishedAt": "2026-10-10",
+    "id": "news-5-1791683700000",
+    "title": "订单破万、上市直降5万元，北汽泰钽没有越野“新手保护期”",
+    "link": "https://www.tmtpost.com/8164047.html",
+    "summary": "新能源越野市占率飙升。",
+    "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -95,23 +93,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-petra-power-looks-to-modernize-energy-for-data-centers-and-d-1791651600000",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "id": "news-apple-discloses-deal-to-hire-team-and-license-tech-from-pers-1791661800000",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
     "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
     "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
     "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
+    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
     "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
@@ -135,24 +134,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-v800-1791648486000",
-    "title": " 免费升级但不是召回，尊界V800的踏板风波只讲了一半 ",
-    "link": "https://www.huxiu.com/article/4896560.html?f=rss",
-    "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 10月8日，懂车帝发布的一条封闭场地实测视频，在汽车市场激起了本年度或许是最震荡的一场舆论风暴。 视频中，三台全新未改装的尊界V800在100公里时速刹停的紧急制动测试中，制动踏板支架先后断裂，断裂位置和失效形态几乎一模一样。 而这场舆论风暴之所以如此汹涌，很大程度是因为这台车来头不小，它是华为与江淮汽车合作品牌尊界旗下的旗舰MPV，今年8月5日才上市，售价从76.8万元排到101.8万元。 巨大关注度之下，视频发布当晚，尊界汽车便发布情况说明，承诺优化部件并为已交付用户免费升级，同时把此次测试定性为非标准极端工况。 就在视频发布、尊界回应的第二天，中汽中心的调研问卷又火速发到各大车企手里，焦点只有一个，制动踏板总成的材质。 一次“简单”的媒体测试，在48小时内牵出车企回应、监管动作和全行业自查，更不用提海量媒体与网民的参与，这不得不让人想要把这条“线”理清楚。 热搜、声明与跌停 尽管懂车帝实测视频已经传播甚广，但视频里的细节仍值得多说几句。 拆解画面显示，尊界V800的制动踏板由金属踏板臂和工程塑料支架组成，支架材料标注为PP-GF40，即含40%玻璃纤维的增强聚丙烯，断裂发生在塑料支架的转轴区域，断口呈脆性断裂特征。 值得注意的是，懂车帝还拆了同材质同供应商的另一款车型做对照，后者在转轴位置设了多层加强立板。对比之下，尊界V800同",
-    "publishedAt": "2026-10-10",
+    "id": "news-ai-1791686535000",
+    "title": " 中国AI，开始为算力算账 ",
+    "link": "https://www.huxiu.com/article/4896581.html?f=rss",
+    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 10月8日，《金融时报》把目光投向了内蒙古乌兰察布。 这座距离北京数百公里的北方城市，正在成为中国数据中心建设最密集的地区之一。当地已有89个签约数据中心项目，阿里、华为、快手以及第三方数据中心运营商陆续在这里布局。报道还记录了一个细节：当地一所废弃的学校，正在被改造成数据中心。 乌兰察布能够吸引互联网公司，靠的不是人口和软件人才，而是相对便宜的电力、土地，以及适合服务器散热的气候。 今年7月，《中国新闻周刊》曾走访当地。在原本以传统产业为主的土地上，阿里巴巴和中联数据等企业的数据中心已经陆续出现。当地提出打造“Token之都”，试图将能源资源转化成新的产业优势。 乌兰察布的建设热潮，恰好发生在AI产业的一轮降价潮中。 今年5月，据路透社报道，DeepSeek宣布将V4-Pro模型的API价格永久下调75%，不同计费档位的价格从此前每百万Token 0.1元至24元，降至0.025元至6元。 图源：路透社报道信息DeepSeek模型价格永久下调 到了10月，《金融时报》援引Silicon Data编制的Token价格指数指出，综合Token价格较今年5月高点下降超过52%。其中既有模型自身的价格调整，也有企业将部分任务转向低价模型的影响，并非所有模型都出现了同等幅度的降价。 模型服务越来越便宜，科技巨头却在继续大规模采购服务",
+    "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1791646097000",
-    "title": "模型还在加速，世界如何跟上？｜北美AI交流手记",
-    "link": "https://www.tmtpost.com/8163636.html",
-    "summary": "北美手记：15天，5座城，101人",
-    "publishedAt": "2026-10-10",
+    "id": "news--1791683160000",
+    "title": "远海国际，走不出“欧洲游”？",
+    "link": "https://www.tmtpost.com/8164048.html",
+    "summary": "旅游大热，但欧洲市场既是支柱，也是隐患。",
+    "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "id": "news-petra-power-looks-to-modernize-energy-for-data-centers-and-d-1791651600000",
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -214,11 +214,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791646000000",
-    "title": "坐在马化腾身旁的姚顺雨，拿到中国第一",
-    "link": "https://www.tmtpost.com/8163587.html",
-    "summary": "Arena发布对齐指数榜单，姚顺雨一年前的预言应验了",
-    "publishedAt": "2026-10-10",
+    "id": "news-60-1791685393000",
+    "title": " 三大原料暴涨逼退利润，60余家轮胎厂集体提价 ",
+    "link": "https://www.huxiu.com/article/4896579.html?f=rss",
+    "summary": "本文来自微信公众号： 经观传媒 ，作者：霍婷婷 天然橡胶、合成橡胶、炭黑三者价格上涨叠加，轮胎企业的成本压力显而易见，这也是60余家企业集体发函、70多份涨价函覆盖全品类的根本原因。 天然橡胶、炭黑、合成橡胶等轮胎核心原材料价格在2026年出现罕见同步上涨。这些都是轮胎原材料，而原材料占轮胎生产成本七成以上，原料端的剧烈波动，直接触发了下游企业的集体调价。9月以来，60余家轮胎企业集中发布70多份涨价函，覆盖全钢胎、半钢胎、工程胎，调价幅度普遍在2%到5%。 三大原料价格同步上涨 天然橡胶、合成橡胶、炭黑三者同时冲高，导致轮胎企业的成本陡然增高。通用股份在调价函中直言：“近期，受全球市场影响，我司生产所需主要原材料天然橡胶、合成橡胶、炭黑等价格持续大幅上涨，导致轮胎制造成本急剧攀升。” 具体来看，炭黑的涨，原因是成本倒逼。炭黑涨幅超过75%，创六年新高。核心原因在于其原料煤焦油的暴涨。华创证券指出，受山西焦煤供应紧张影响，焦煤价格持续走高，不少焦化厂因亏损减产，直接导致煤焦油货源紧缺。中国橡胶工业协会的数据显示，按9月上旬煤焦油市场价格测算，9月份炭黑全行业亏损额度超1.2亿元。 天然橡胶的涨，是因价格预期。截至10月9日，天然橡胶年内累计涨幅达28.27%，创九年新高。但业内人士指出，目前橡胶进口量和国内产出没有明显下降，价格上涨更多是一种预期反映。产业周期上，全球橡胶树开割面积",
+    "publishedAt": "2026-10-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791682860000",
+    "title": "连续举牌，新华保险沉寂一年半后又出手了",
+    "link": "https://www.tmtpost.com/8164031.html",
+    "summary": "再度举牌为哪般？",
+    "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -240,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -279,11 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1791645835000",
-    "title": "今年双11的逻辑已经完全变了",
-    "link": "https://www.tmtpost.com/8163269.html",
-    "summary": "大促规则在变少，平台承担的确定性却在变多。",
-    "publishedAt": "2026-10-10",
+    "id": "news--1791684851000",
+    "title": " 李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？ ",
+    "link": "https://www.huxiu.com/article/4896576.html?f=rss",
+    "summary": "本文来自微信公众号： 眸娱 ，作者：眸娱 汉堡王这次代言，翻得比预想中彻底。 为了给丑椒大皇堡回归造势，汉堡王请来李诞与米其林星厨黎子安，二人均出自综艺《一饭封神》，黎子安掌勺、李诞做美食嘴替，品牌顺势玩谐音梗打出“一椒封神”，试图用综艺感加专业主厨背书来打造差异化的趣味营销。 但传播落地后，评论区很快被“虾系男友”“去头可食”占领，讨论焦点从产品彻底滑向了李诞的脸，网友辣评：品牌有钱没地方花可以补贴给消费者。 为什么消费者的注意力被“丑”带走了？因为展示吃法和让人想吃，中间隔着一整套认知转化机制。 快餐联名的第一判断标准永远是食欲，不是段子。 脱口秀演员进餐饮不能只贡献梗 汉堡王的营销思路并非没有章法。 品牌一次性打出组合拳的意图很清晰，请黎子安来，是为了用米其林星厨的身份给产品做专业背书；请李诞来，是想借他的语言能力和脱口秀受众的覆盖面，把产品信息用更有趣的方式传递出去，分工非常明确。 但问题恰恰出在这套逻辑的传导效率上，李诞的核心能力是语言、吐槽和松弛感，在脱口秀舞台上可以转化为高浓度的注意力。 在汉堡王合作中他也确实做了“美食嘴替”该做的事，组装汉堡、展示吃法，但关键在于他的语言能力在这次传播里没有落到产品上，观众看到的是一个有趣的人在展示一个汉堡，而不是一个汉堡因为这个人变得更有吸引力。 森马与徐志胜的合作就是一个很好的参照，广告从一根羽绒的清洗过程切入，把徐志胜拟人化为",
+    "publishedAt": "2026-10-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ota-1791682560000",
+    "title": "十一黄金周OTA分野：同程、飞猪们卖库存，豆包、千问们卖答案",
+    "link": "https://www.tmtpost.com/8163976.html",
+    "summary": "旧的OTA卖的是库存，新的AI旅游卖的是确定性。",
+    "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -305,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1791640800000",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
     "publishedAt": "2026-10-10",
     "source": "TechCrunch",
     "tags": [
@@ -344,11 +370,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791645664000",
-    "title": "医疗影像走到分叉口：谁在为「AI读片」买单？",
-    "link": "https://www.tmtpost.com/8163192.html",
-    "summary": "技术跑到了专家水平，收费规则还停在「不单独计价」。医疗影像AI分两条路，谁先跑通，看谁先找到一个按结果付钱的买方。",
-    "publishedAt": "2026-10-10",
+    "id": "news--1791684770000",
+    "title": " 在内地被当作落后而替换掉的东西，香港都还在 ",
+    "link": "https://www.huxiu.com/article/4896578.html?f=rss",
+    "summary": "本文来自微信公众号： FutureWise ，作者：achan，原文标题：《在内地被当作落后而替换掉的东西，香港都还在 | 在香港·01》 一.试图寻找一种可能是拮据的却更有呼吸感的生活 我从北京搬到香港生活，已经一个多月了。 二十多年来，我在北京上学、工作、结婚、养娃，一切按部就班，似乎到死也就这样了。但一朝换到一个文化和生活环境完全不同的城市，我没有经历什么大的情绪波动，就在家居日常的采购和使用里，完成了对香港生活的适应，并且非常喜欢这座城市。 不得不说，处理家务和养育孩子，居然是适应一个城市最快的方式。因为去哪里花钱、用什么方式花钱，是最先需要攻略的事情。这大概也是为什么，在小红书上做香港生活账号的，很多都是陪读妈妈。 今天老公给我发来一个深圳地址，说以后网购可以寄到深圳，他再带来香港，但我已经想不起来还有什么是要在内地电商上买的。而一个月前，一说需要什么东西，我脑子里马上反应的就是京东和淘宝。现在我首先想到的，是香港的门店。按北京的通勤时间来横向比较，它们都离我不远，有的甚至近在咫尺。 我在北京居住在二环，已经是生活非常便利的小区，可跑一趟离家最近的“一公里”超市买菜，一来一回最快也要差不多一小时。现在住在香港的坚尼地城，我一个小时可以跑三家超市，处理家务事的时间变得宽裕很多。我也慢慢找回了在线下门店慢慢选购东西的感觉。 在香港认识一位朋友住在港岛线的鲗鱼涌，她说那一块生活",
+    "publishedAt": "2026-10-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1-1-1791682200000",
+    "title": "停车费告别“不足1小时按1小时”，一场关于几毛钱的治理考试",
+    "link": "https://www.tmtpost.com/8163971.html",
+    "summary": "这笔钱小到不值得专门绕路，但它定义了一件事：占多久，付多少。",
+    "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -904,26 +943,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216",
     "postedAt": "2026-08-04",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1135745",
-    "title": "Regional General Manager Airports",
-    "company": "WestJet",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Why WestJet Since our story took off in 1996, WestJet has strived to enrich the lives of everyone in our world; a career with us is no exception",
-      "We’re proud to be one of Canada’s most admired and respected corporate cultures and continuously aim for the highest standards of service and success"
-    ],
-    "skills": [
-      "RAG",
-      "Agent"
-    ],
-    "location": "Mississauga, ",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-    "postedAt": "2026-07-31",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-10-10T21:06:04.559Z';
+export const dataFetchedAt = '2026-10-11T03:45:55.264Z';
