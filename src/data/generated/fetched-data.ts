@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-b-1791668871000",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "publishedAt": "2026-10-10",
+    "id": "news-will-the-homeview-be-apple-s-first-smart-home-success-1791753280000",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman [&#8230;]",
+    "publishedAt": "2026-10-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-49-9-9-1791718604000",
-    "title": " “不敢”再上49.9元大学生自助了，比格比萨创始人：9月亏了近千万 ",
-    "link": "https://www.huxiu.com/article/4896631.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：倩君，原文标题：《“不敢”再上49.9元大学生自助了！比格比萨创始人：9月亏了近千万》 比格比萨在低价引流与高成本、扩张盈利压力之间的两难。 大学生还想要49.99元/位的自助优惠，比格比萨创始人却说“不敢了”。 10月7日，比格比萨创始人赵志强在巡店视频评论区回应网友喊话：“敢不敢把49.9的大学生优惠重新上？”他的回答是：“不敢了，九月份大学生活动亏了近千万。” 9月底，比格比萨刚结束一轮大学生开学季优惠活动，49.99元/位的限时自助价格，吸引不少学生关注。如今，面对消费者希望优惠继续的呼声，赵志强却给出了上面的回应。为什么？ △图片来源：抖音截图 49.99元自助背后，是一笔亏本的账 比格比萨是一家把“高性价比”写进商业模式的披萨品牌，其主打自助模式，除招牌披萨外，同时提供炸鸡、意面、中餐炒菜、小吃、沙拉和甜品，SKU在130-140个之间。 在大学生群体里，它有一个更流行的称呼——“穷鬼自助”。凭借几十元就能吃到现烤披萨与炸鸡、意面的组合，比格比萨在社交平台走红，还有一群消费者自称“比门信徒”，把比格当作“食堂”，高频到店消费。 但比格比萨想要吸引的客群，远不止学生群体。 翻阅比格比萨官方账号可以看到：3月、9月有大学生开学季活动，6月有毕业生活动。同时，比格比萨今年1月26日发布的推文还公布了“2026年感恩回馈计",
+    "id": "news-macbook-1791740417000",
+    "title": " 苹果终于要给MacBook加触屏了，这次为什么不一样？ ",
+    "link": "https://www.huxiu.com/article/4896654.html?f=rss",
+    "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 苹果有一句流传很广的内部信条，Mac用键盘，iPad用手指，谁也别碰谁的地盘。 蒂姆·库克在公开场合把触屏笔记本比作“把烤面包机和冰箱绑在一起”。这句话说了十年，苹果的产品经理们也执行了十年，直到今年10月。 据彭博社报道，苹果将在10月27日前后发布第一台支持触控操作的MacBook Pro。OLED屏幕、灵动岛、更薄的机身，全部一次性上齐。MacBook Pro自2021年以来最大的一次重新设计。 这条规则，苹果守了十年 苹果拒绝触屏笔记本这么多年，跟技术能力没有关系。 苹果在触屏技术上的专利储备可以追溯到十几年前。iPhone和iPad上积累的触控交互经验，放到Mac屏幕上没有根本性的技术障碍。苹果一直没做，是因为产品逻辑不允许，每一类设备有自己的交互方式，交互方式划定产品边界，产品边界支撑用户为不同设备分别付费的理由。 iPhone是口袋里的触屏设备，iPad是手里的触屏设备，Mac是桌上的键盘设备。三条线各有增长空间，功能差异足够大，用户不会觉得买了这个就不需要那个。 这套逻辑运行了很多年，也确实帮苹果维持了多条产品线同时增长的局面。 但现在有两件事变了。 第一件发生在用户端。分析师郭明錤给出过一个有意思的解释：苹果之所以在这个时间点考虑触屏Mac，依据来自对iPad用户行为的长期观察。苹果发现，在某些使",
     "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791695280000",
-    "title": "AI创造的新工作，可能根本轮不到你",
-    "link": "https://www.tmtpost.com/8164296.html",
-    "summary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
+    "id": "news--1791724088000",
+    "title": "本末科技，还没吃上具身智能这碗饭",
+    "link": "https://www.tmtpost.com/8164407.html",
+    "summary": "具身智能业务营收占比5%。",
     "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
@@ -93,24 +93,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-discloses-deal-to-hire-team-and-license-tech-from-pers-1791661800000",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "publishedAt": "2026-10-10",
+    "id": "news-aaron-sorkin-s-social-reckoning-is-off-to-a-weak-start-1791751907000",
+    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+    "publishedAt": "2026-10-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
     "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
     "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
     "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
+    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
     "publishedAt": "2026-10-09",
     "source": "HR Dive",
     "tags": [
@@ -134,24 +133,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791718344000",
-    "title": " 韩国股市，遭遇资金大撤退 ",
-    "link": "https://www.huxiu.com/article/4896630.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：赵昊 今年大部分时间里，韩国一直是全球AI交易热潮的典型代表。但如今，从几乎所有指标来看，这个规模达4.3万亿美元的股票市场，正迅速失去对投资者的吸引力。 韩国股市成交量已较今年5月下旬的峰值暴跌70%，外国投资者撤离速度在亚洲位居榜首，本土散户也在逐步退场。 上半年，韩国综合股价指数（KOSPI）曾是全球表现最佳的主要股指，但此后累计下跌22%，成为下半年表现最差的主要股指之一。与此同时，美国股市却不断创下新高。 此次市场逆转的背后，是韩国股市对AI行情的依赖过度集中于三星电子和SK海力士这两家存储芯片巨头。它们处于全球AI供应链的核心位置，但这种集中度如今正成为市场的负担。 随着投资者开始质疑存储芯片行业繁荣周期的可持续性，加之今年夏季由高杠杆交易引发的惨烈抛售令部分全球基金对重返韩国市场心存顾虑，韩国股市的吸引力进一步下降。 Rayliant Global Advisors投资组合管理主管Phillip Wool表示：“对大多数投资者而言，尤其是那些最近才为了存储芯片行情进入韩国市场的人来说，最大的挑战在于，这一主题能够轻松赚取的利润已经基本被赚完了。” 他补充称，该基金一直在对韩国AI股票获利了结，目前对两家存储巨头的持仓均低于基准权重。三星电子和SK海力士合计占KOSPI权重的一半以上，是今年早些时候推动韩国股市上涨的主要力量。 投资",
+    "id": "news--1791739487000",
+    "title": " 华为“造车”，不能只有掌声 ",
+    "link": "https://www.huxiu.com/article/4896653.html?f=rss",
+    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 10月11日，人民日报客户端在《四部门联手，对“速成车”说不！》中点名尊界V800制动踏板支架断裂争议。文章明确表示，事件仍待权威调查，但“一辆汽车的刹车踏板，绝不应该在驾驶中出现‘断裂’”。 断裂原因尚未查清，这场争议已经超出一块踏板。懂车帝与尊界对测试是否属于极端工况各执一词，企业的回应有没有说清问题，也成为外界批评的焦点。 尊界背后站着江汽集团和华为。华为的技术、品牌和销售能力，帮助一款起售价76.6万元的MPV迅速获得关注，也让“世界顶级”“安全是最大的豪华”等表达更具说服力。产品受到质疑时，这些背书同样要接受检验。 与此同时，四部门征求意见稿已经将产品迭代、测试验证和营销宣传放进同一套管理要求。文件编制工作早于此次争议，不能写成对尊界的直接回应，却与这场风波指向同一个问题：新车可以加快推出，安全责任不能随之压缩。 华为的赋能可以为产品赢得信任，却不能替产品回答安全问题。汽车行业可以继续拼速度、技术和配置，但在此之前，产品安全必须能够被追问，也必须用事实和证据作答。 01安全质疑不能变成立场之争 10月8日，懂车帝发布一段封闭场地测试视频，称三辆全新尊界V800在多次进行从时速100公里制动至静止的紧急制动测试时，先后发生制动踏板支架断裂。 视频显示，第一辆车在第3次全力制动时断裂，第二辆在第4次，第三辆在第2次。三辆车的断裂位",
     "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-1100-268-1791694860000",
-    "title": "李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么",
-    "link": "https://www.tmtpost.com/8164290.html",
-    "summary": "李嘉诚1100亿港元套现英国电网，268亿加码加拿大油砂，能源资产大腾挪背后逻辑何在？",
+    "id": "news-manus-1791724070000",
+    "title": "Manus恢复“单身”身价再涨，但战场已“大变天”",
+    "link": "https://www.tmtpost.com/8163955.html",
+    "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
     "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
@@ -174,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-petra-power-looks-to-modernize-energy-for-data-centers-and-d-1791651600000",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-    "publishedAt": "2026-10-10",
+    "id": "news-48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-p-1791745200000",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+    "publishedAt": "2026-10-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791716474000",
-    "title": " 第一批“喜老登”，开始摘牌了 ",
-    "link": "https://www.huxiu.com/article/4896627.html?f=rss",
-    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 喜来登的老登危机。 01 这两天，曾被誉为七星级酒店的湖州喜来登酒店摘牌一事，在国内酒店圈引发极大关注。 十一前，已经有网友发现这家酒店在万豪官网刷不到了，OTA上的名称也悄然改成了湖州太湖月亮温泉度假酒店。 岁月如梭，2014年5月，喜来登还没被万豪纳入旗下，我曾受当时的酒店管理集团喜达屋邀请，前往湖州参加开业活动。 彼时，酒店已经试营业了，不少江浙沪游客开始专程赶来，住进太湖里的月亮是包邮区周末度假颇为热门的选项。 翻看当时的老照片，酒店客房还带着经济上行时期的审美，圆形浴缸摆在房间里最醒目的位置，浴室铺着浅色石材，温泉区热带植物之间藏着红酒汤池。 2014年5月，湖州喜来登酒店客房/旅界实拍 12年前看起来颇为新鲜的设计，2026年难掩年代沧桑感。 近期OTA评价中，有住客提到窗帘按键失灵，部分设施磨损，还有人对房间气味和服务响应提出不满。 社交媒体上，“喜老登”则逐渐成为网友对部分年代久远喜来登酒店的调侃，负责制造惊喜的豪华硬件，慢慢成了住客们挑剔的对象。 湖州与喜来登的分手并非孤例。 今年6月1日，陪伴温州十余年的温州喜来登正式摘牌，结束了和万豪国际集团十余年的品牌合作，目前以锦绣酒店的名称继续运营。 而在西安，喜来登项目胎死腹中。 2021年，金辉集团曾宣布签约西安金辉喜来登，不过，直到去年11月底西安金辉铂尔曼",
+    "id": "news--1791738997000",
+    "title": " 足球经济学：英超需要什么样的规则 ",
+    "link": "https://www.huxiu.com/article/4896652.html?f=rss",
+    "summary": "本文来自微信公众号： 橙竹洞见 ，作者：竺大炜 再谈谈曼城案。 现在，抗辩已经进入咬文嚼字、死抠规则的阶段，争论这些资金究竟属于政府投资，还是老板自己的投入。 其实我们都知道，钱到底是谁的。 这也正如曼城的9320：阵容里有阿奎罗，教练是曼奇尼。 这些都是明牌。 只是，今天放在规则下面，一条条再来过。 所以，与其纠结违规的过程细节，不如换一个角度，从经济学的角度，来看看规则本身。 美国法学家理查德·波斯纳在《法律的经济分析》中，尝试用经济学的方法审视法律制度。 他不只讨论法律是否公平、正义，还关注法律作为一种社会治理工具，如何改变人的行为、产生什么样的成本，以及有没有更有效的制度安排。 一个典型的波斯纳案例，是美国最高法院1984年审理的NCAA案。 当时，美国大学体育协会为了维护大学橄榄球的竞争平衡，限制各大学比赛的电视转播。它的理由听起来很熟悉：如果放任各支球队自由竞争，整个体育体系可能受到损害。 但最高法院追问的是另一个问题：这项限制，真的改善了竞争吗？ 法院承认，体育联盟需要共同规则，才能把比赛组织成一个有吸引力的整体产品。但它并不接受“为了竞争平衡”就足以证明任何限制合理。最终，法院认定当时的电视转播计划违反了反垄断法。 这个案例最值得借鉴的，不是它能直接判定英超规则的对错，而是它提供了一种审视规则的方法：不能只听规则制定者宣称自己在保护什么，还要看规则实际上改变了什么。",
     "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791694440000",
-    "title": "李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？",
-    "link": "https://www.tmtpost.com/8164281.html",
-    "summary": "快餐代言的第一判断标准永远是食欲，不是段子。",
+    "id": "news--1791724055000",
+    "title": "百万级豪车，刹车踏板不是谁都能踩到的",
+    "link": "https://www.tmtpost.com/8163920.html",
+    "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
     "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
@@ -253,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cloudflare-acquires-deno-to-improve-its-workers-programming--1791649542000",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-    "publishedAt": "2026-10-10",
+    "id": "news-the-investor-8217-s-guide-to-techcrunch-disrupt-2026-everyth-1791741217000",
+    "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+    "publishedAt": "2026-10-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -292,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-1791714412000",
-    "title": " 9岁自闭症男孩被踹出电梯，作为谱系孩子爸爸，我想起儿子遭遇的所有恶意 ",
-    "link": "https://www.huxiu.com/article/4896625.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：苏渡，作者：特殊孩子保护 每一个家长都会有这么一天：孩子在外边被人打了，我怎么办？ 自闭症孩子的家长则更加卑微：孩子这次被人欺负了，以后还敢出去吗？ 要不是网友爆料，编辑又约稿，我没法看完海口9岁自闭症男孩被飞踹出电梯的视频。我心疼那个孩子，也会想起皮皮这一路走过来，遭遇过的恶意和欺凌。 据报道，那个踹孩子的男子被行政拘留10天、罚款1000元。孩子家属还反映，上门理论时，对方竟拿出刀具威胁他们。 我心里有个问题始终过不去：一个成年人，为什么能在小区电梯里对9岁的孩子动手？ 但是，我们不能把世界，哪怕只有一个电梯间大的空间，全部留给这样的恶人。 文|皮皮爸 编辑|苏渡 图|网络 一个9岁孩子，为什么会挨这一脚？ 据海南广播电视总台报道，10月8日，海南海口一名9岁自闭症男童独自下楼购买饮料，搭乘电梯返程途中，被同乘的一名陌生成年男子一脚猛踹出电梯。 据家属介绍，孩子几乎不和陌生人交流。被踹后，他没有第一时间告知父母，只是悄悄躲起来。家人从邻居口中得知此事后，找到涉事男子理论。据家属反映，对方称孩子碰到自己，自己才动手；争执过程中，还拿出刀具威胁孩子家属。家属说，他们看过监控，没有看到孩子碰触男子；而《中国新闻周刊》10月10日援引海口当地部门工作人员的话称，孩子在电梯内玩耍时不小心碰到了男子。两种说法目前并不一致。 据《中国新闻周刊》后续报",
+    "id": "news--1791736917000",
+    "title": " 职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒 ",
+    "link": "https://www.huxiu.com/article/4896651.html?f=rss",
+    "summary": "本文来自微信公众号： 老高的小茶馆 ，作者：老高的小茶馆，原文标题：《职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒》 公司里最积极、最肯干、谁喊帮忙都不拒绝的那个人，往往也是最累、最不落好的。 这话一出来肯定有人不爱听。从小老师就教你努力就有回报，是金子总会发光。道理没错。但你现在停三秒钟想一下，你们公司那个天天最早到、最晚走，谁请假他都主动顶上去，领导在群里发条消息他永远第一个秒回”收到”，跨部门有事他永远第一个冲前面的人，现在混到什么位置了，每个月拿多少钱。你自己心里有数就行。 反倒是那些你天天在背后骂”这人怎么这么滑”、”他凭什么升啊”的主，你没事多盯他半个月就会发现，人家不是不干活，就是不瞎干。这个道理我三十五岁才绕明白，身边好多朋友四十多了还在那个坑里转，怎么都转不出来。 看到这儿肯定有人要拍桌子了，合着你意思是大家都混呗？ 我没这意思。你别急，听我慢慢跟你讲。 1、什么叫积极负责？大部分人脑子里就四个字：来者不拒。 别人推过来的活他接，别人不想扛的锅他扛，别的部门烂摊子他想都不想就冲上去补，领导开会顺嘴问一句”这个事谁跟一下”，他手举得比谁都快，生怕领导看不见。 我当年就是这德行，刚上班那几年总觉得年轻人多干点没坏处，吃亏是福，领导眼睛都是雪亮的。现在回头看，那不叫积极，叫缺心眼。 我年轻的时候也这样。刚工作嘛，总觉得要好好表现，多干活总没坏处，领导",
     "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
@@ -305,10 +303,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-agent-1791694200000",
-    "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
-    "link": "https://www.tmtpost.com/8164268.html",
-    "summary": "agent底座之争，OpenAI又被针对了。",
+    "id": "news--1791723957000",
+    "title": "城商行，走进分化时代",
+    "link": "https://www.tmtpost.com/8163903.html",
+    "summary": "对一家区域银行而言，认识城市的产业，理解企业的经营，陪伴居民的财富需求，仍是最有可能持续积累的能力。",
     "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
@@ -331,11 +329,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-t-1791644400000",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "publishedAt": "2026-10-10",
+    "id": "news-can-the-ai-industry-persuade-data-center-opponents-by-gettin-1791737553000",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "publishedAt": "2026-10-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -370,10 +368,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-po-1791713731000",
-    "title": " 现偶太想吃po文这碗饭了 ",
-    "link": "https://www.huxiu.com/article/4896624.html?f=rss",
-    "summary": "本文来自微信公众号： 毒眸 ，编辑：刘南豆，作者：毒眸编辑部 当短视频上越来越多人信奉“生理性喜欢才是真爱”的同时，现偶也在积极地兜售“性暗示”，用吻戏、床戏（的周边产品）来满足观众对这一类型新的想象。 点开最近发布预告片的《雾里青》《许你星河千里》《想把你和时间藏起来》等一批现偶，男女主角们纷纷效仿Luke和Flora，不约而同地亲得难分难舍，似乎是想跨过纯爱时代，直奔熟龄恋爱了。 不过，这些情欲场面看起来很吸引人，但放在一起放送，算盘就有点打到观众脸上了。本来是算准了国产剧观众没吃过大尺度的饭，想端上一波震撼美味，结果观众遍览预告发现，一方面尺度也没多大，不可能真的全片充斥床戏；另一方面，视觉元素过分雷同，让人想起当年的旋转接吻、慢镜头拥抱等工业糖精，顿时警铃大作。 尺度的突破，终归需要实打实的类型创新支持，需要扎实的叙事予以铺垫，不然只是一剂效用极为短暂的兴奋剂，很难给所有国产现偶提供“财富密码”。 现偶妙用po文 追溯这股“大尺度”风潮的源头，很难避开现偶对po文的巧妙化用。 现偶改编po文，其实经历过一段长时间的试探。一般而言，现偶会选择刑侦、悬疑题材的po文，这类网文有明确的剧情主线，适合影视化改编，比如2020年的《阳光之下》，还有今年的《钢铁森林》，剧版保留原著角色之间的情感张力，但在内容上会经过大刀阔斧的改动，最终的落点还是惩恶扬善。 去年播出的《鹅绒雪》算是一个",
+    "id": "news--1791736762000",
+    "title": " 安踏成彪马第一大股东：丁世忠最贵的一张门票 ",
+    "link": "https://www.huxiu.com/article/4896650.html?f=rss",
+    "summary": "本文来自微信公众号： 青橙财经 ，作者：青风，编辑：六子 10月7日，安踏集团正式宣布完成对彪马29.06%股权的收购，15.055亿欧元（约合113亿元人民币）的对价，让这家福建晋江起家的企业，一跃成为德国百年运动品牌的第一大股东。 消息一出，市场分裂成两派：乐观者翻出FILA、始祖鸟的逆袭旧账，预言安踏将再造一个百亿级品牌；悲观者则盯着彪马连续两年的亏损、约60%的收购溢价，直呼这是一笔“烫手的接盘”。 更让人意外的是，安踏花了上百亿，却没有进入彪马的管理董事会，只拿到了监事会席位，且不介入日常经营。 习惯了安踏“买下、控股、重塑”三部曲的市场，一时间看不懂这步棋。安踏到底在买什么？ *图源安踏公告 01 「一笔“说了不算”的买卖」 要理解这笔交易，先看看安踏集团董事局主席丁世忠的答案。他近日在接受第一财经专访时坦言，“我们看彪马已经10年了”，这笔收购十年前就探讨过，只是时机不成熟。 “彪马具有很高的品牌价值，包括它的品牌资产、产品资产、运动资产，以及他们全球的价值链，这跟我们全球化布局形成优势互补。”丁世忠表示，“安踏没有足球，彪马足球就很强；彪马还有很强的赛车装备，在跑步、专业田径的科技项目也都挺强的。” 这话不虚。更何况，彪马业务覆盖120多个国家，中国市场却只贡献约7%的收入。一个在全球叫得响、在中国没充分铺开的品牌，恰是安踏最熟的剧本。 *图源第一财经 所以安踏这次",
     "publishedAt": "2026-10-11",
     "source": "虎嗅",
     "tags": [
@@ -383,10 +381,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791693840000",
-    "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
-    "link": "https://www.tmtpost.com/8164235.html",
-    "summary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
+    "id": "news--1791723638000",
+    "title": "千元入门手机几乎“灭绝”，存储危机到底还要多久？",
+    "link": "https://www.tmtpost.com/8164424.html",
+    "summary": "之前那个属于千元机的黄金年代，或许将会成为历史，千元机的逻辑可能会被彻底改写。",
     "publishedAt": "2026-10-11",
     "source": "钛媒体",
     "tags": [
@@ -946,4 +944,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-11T12:02:22.060Z';
+export const dataFetchedAt = '2026-10-11T21:26:01.138Z';
