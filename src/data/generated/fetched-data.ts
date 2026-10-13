@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-final-disrupt-stage-lineup-three-days-of-conversations-y-1791898086000",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "id": "news-helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blas-1791926100000",
+    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+    "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+    "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
     "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fedex-worker-s-6-harassment-reports-not-protected-by-title-v-1791836580000",
-    "title": "FedEx worker’s 6 harassment reports not protected by Title VII, 5th Circuit says",
-    "link": "https://www.hrdive.com/news/fedex-worker-harassment-reports-not-protected-by-title-vii/832777/",
-    "summary": "The plaintiff&rsquo;s allegations of bullying, aggressive and passive aggressive behavior don&rsquo;t automatically rise to the level of discrimination, the court held.",
-    "publishedAt": "2026-10-12",
+    "id": "news-workday-brings-autopilots-to-hiring-payroll-in-autonomous-ai-1791921480000",
+    "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
+    "link": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
+    "summary": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
+    "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791897680000",
-    "title": " 粤芯突围，第一省会“挤上”牌桌 ",
-    "link": "https://www.huxiu.com/article/4897245.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：刘旭强 广东“等芯”十八年的故事，终于迎来了最关键的资本时刻。 10月13日，粤芯半导体技术股份有限公司（以下简称“粤芯”）于深交所创业板上市。上市首日，公司股价大幅冲高，收盘价38.80元，较12.01元发行价上涨233.06%。 时间倒回2008年，广东集成电路产业“十一五”专项规划中，“制造技术以代工为主，缺乏自主品牌”就被写入其中，到2017年，国内12英寸晶圆产能已经在上海、北京、武汉等长三角和华北地区高度集中，珠三角的“广东芯”仍是空白。 粤芯是广东自主培养且首家实现量产的12英寸晶圆制造企业，以粤芯为核心起点，广州已集聚培育一批本土集成电路产业“舰队”，目标是打造全国集成电路产业第三极的核心承载区。问题在于“慢一步”的广州，如何与北京、上海、合肥、武汉等“先发选手”形成差异化布局。 车规级芯片业务，被视为粤芯突围的核心抓手。“十五五”期间，广州提出打造万亿级汽车产业，向电动化、智能化深度转型，这离不开自主车规级芯片的供应链支撑。 一边是支撑城市经济的传统支柱产业，一边是决定未来竞争力的新兴增长极，广州的“车芯联动”能否如期落地？粤芯半导体，又能否成为影响广州全域经济转型的关键变量？ 1 补“芯” 在粤芯成立前，广州曾饱受“缺芯”困扰。 2017年以前，国内半导体产业主要集聚于环渤海、长三角及以深圳为代表的珠三角地区，广州起步晚",
+    "id": "news--1791908438000",
+    "title": " 茶百道停牌：新茶饮的两本账 ",
+    "link": "https://www.huxiu.com/article/4897283.html?f=rss",
+    "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 2026年10月13日，香港证监会依据《证券及期货（在证券市场上市）规则》第8(1)条，要求联交所暂停茶百道股份交易。理由很明确：茶百道2024年的首次公开招股，可能曾被人为操纵，以营造股份需求的虚假表象。 这件事需要先划清边界。香港证监会目前的调查对象是两个疑似操纵IPO的集团，并未认定茶百道公司或其管理层参与违规。收到限制通知书的经纪行，也被明确排除在调查对象之外。 但监管公告里的细节，已经超出一次普通停牌的重量。 针对第一个可疑集团，香港证监会向六家经纪行发出限制通知书，冻结孙然及八家相关公司账户内的资产，上限约43.79亿港元。这是香港证监会同类案件中的最高限制金额。该集团涉嫌参与拨康视云与茶百道的IPO计划。 更关键的是资金路径。监管机构怀疑，部分IPO所得款项可能依据上市公司与相关集团之间未披露的协议，被转离公司，投向所谓金融产品，再暗中回流至主要承配人或其关联人士。 如果这一路径最终被证实，问题的核心就不只是订单有没有注水，还有上市公司募资是否被用来支撑自己的发行。公开市场看到的「需求」，可能并非真实投资者在承担风险。 01 一场针对「需求」的倒查 茶百道2024年4月上市时，市场给出的账面答案其实并不热。 发行价为每股17.50港元，发售约1.48亿股，募资净额约24.63亿港元。香港公开发售只有0.50倍认购，未触发回拨",
     "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
@@ -67,17 +67,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791895696000",
-    "title": "天价离婚落定，猪周期未醒：神农集团站上关口",
-    "link": "https://www.tmtpost.com/8167612.html",
-    "summary": "23亿分手费，与一个猪企的周期大考",
+    "id": "news-shopify-ai-1791899173000",
+    "title": "Shopify有望凭借AI智能体大获成功，但这可能需要时间",
+    "link": "https://www.tmtpost.com/8167702.html",
+    "summary": "在德意志银行表示该公司从长远来看有望在代理型商业中大获成功后，Shopify股价上涨。",
     "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -93,26 +94,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-delays-digital-payments-fee-rollout-amid-retailer-push-1791897905000",
-    "title": "India delays digital payments fee rollout amid retailer pushback",
-    "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+    "id": "news-fbi-arrests-openai-employee-accused-of-planting-hidden-recor-1791925151000",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
     "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "strategy",
-      "ecommerce"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-whole-foods-defeats-bias-suit-after-catching-plaintiff-fakin-1791836580000",
-    "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-    "link": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
-    "summary": "A federal judge cited the company&rsquo;s investigation of video recordings in which the worker immediately left the worksite after clocking in to work.",
-    "publishedAt": "2026-10-12",
+    "id": "news-roofer-sues-after-allegedly-being-told-no-one-pays-overtime--1791921420000",
+    "title": "Roofer sues after allegedly being told ‘no one pays overtime in construction work’",
+    "link": "https://www.hrdive.com/news/roofer-sues-after-allegedly-being-told-no-one-pays-overtime-in-constructio/832884/",
+    "summary": "While it is common for certain salaried workers to be exempt from the FLSA&rsquo;s overtime requirement, blue-collar workers are nonexempt.",
+    "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -135,10 +135,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791897347000",
-    "title": " 赵露思冲击格莱美，含金量到底有多少？ ",
-    "link": "https://www.huxiu.com/article/4897243.html?f=rss",
-    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 赵露思要冲击格莱美了。 最近，《福布斯》报道的2027年格莱美奖申报名单，让赵露思意外成为话题主角。 报道显示，赵露思于2025年发行的英文单曲《Black Veil Bride》，被提交参评第69届格莱美奖的三个奖项：年度制作（Record of the Year）、年度歌曲（Song of the Year）以及最佳流行独唱表演（Best Pop Solo Performance）。 截至目前，报名格莱美的华语歌手有三位：周杰伦、谢天笑、赵露思，而消息很快引发两极讨论。有人将其视为中国演员进军国际乐坛的新突破，也有人质疑一位以影视表演为主业的艺人，凭什么与欧美一线歌手竞争格莱美？ 那么，报名格莱美究竟意味着什么？背后的含金量到底有多少？ 报名格莱美的含金量有多少？ 争论之所以迅速发酵，很大程度上源于“格莱美”三个字自带的光环，以及公众对国际音乐奖项运作机制的陌生。 首先需要厘清一个常被忽视的事实，格莱美不是邀请制的封闭奖项。根据美国录音学院公布的规则，格莱美采用线上作品申报、资格与类别审核、专业会员投票相结合的评选机制。只要符合条件的录音学院会员，以及经过注册的媒体公司，都可以在规定时间内提交作品。 具体来看，申报（Submission）只是评奖流程的起点。作品提交后，录音学院会审核其发行时间、参评资格及类别归属；符合要求的作品才",
+    "id": "news--1791907888000",
+    "title": " 霍尔和伍德福德，两人究竟干了什么得了诺贝尔经济学奖？ ",
+    "link": "https://www.huxiu.com/article/4897286.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 瑞典皇家科学院宣布今年的诺贝尔经济学奖，给两个美国人，罗伯特·霍尔和迈克尔·伍德福德。 那会儿纽约天刚亮，加州还是半夜。伍德福德在纽约接到电话，说这是莫大的荣幸，是个惊喜。他心情很好。记者问他的理论有没有政治立场，他说他的东西从来不为哪一派的主张服务，他想做的只是给经济政策的讨论打一个更结实的地基，去理解市场里那些在做决定、在花钱的人。 他在新闻发布会上说，管经济的人，别把稳定经济当成几个人在那儿拉拉杆子就能办成的事。 他还说，2009年以后，央行把将来的利率打算讲得更明白了，这是那几年应对危机里很要紧的一招。 杆子那头连着千百万个脑子，脑子拉不动，只能跟它们商量。这两个人一辈子琢磨的，就是央行怎么跟这千百万个脑子商量。 霍尔八十三岁了。目前还没怎么发声。 评奖委员会主席约翰·哈斯勒说，两位的研究给世界各地央行和政府现在用的那些模型，打下了稳固的理论基础，有了它们，我们更有办法应付经济里的冲击，比如能源危机，比如家庭消费突然变了样。 委员会的声明里还有一句，说经济结果，是千百万家庭和企业在微观层面做出的决定加起来的。 奖金1200万瑞典克朗，两人平分。 上个月中东的仗把油价又顶了上去，美联储9月16日加了一次息，25个基点，是2023年7月以来头一回。 主席沃什说，通胀太高了，高得太久了。 前阵子加息，市场早就猜得八九不离十，早算进了",
     "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791892994000",
-    "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
-    "link": "https://www.tmtpost.com/8167551.html",
-    "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
+    "id": "news-vertiv-5-1791899008000",
+    "title": "Vertiv及另外5只工业股：财报发布前的投资标的",
+    "link": "https://www.tmtpost.com/8167697.html",
+    "summary": "花旗分析师安德鲁·卡普洛维茨对工业板块投资者在第三季度财报季来临之际提出了一些看法。",
     "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
@@ -175,24 +175,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-fre-1791897371000",
-    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+    "id": "news-judge-orders-openai-to-turn-over-hiring-records-in-apple-tra-1791923804000",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
     "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-company-s-male-only-job-openings-lead-to-500k-settlement-wit-1791819360000",
-    "title": "Company’s male-only job openings lead to $500K settlement with EEOC",
-    "link": "https://www.hrdive.com/news/companys-male-only-job-openings-lead-to-500k-settlement-with-eeoc/832733/",
-    "summary": "The commission has repeatedly challenged hiring policies that exclude applicants because of their sex and employers that retaliate against HR professionals for hiring women.",
-    "publishedAt": "2026-10-12",
+    "id": "news-shrm-loses-service-dog-trial-owes-former-job-applicant-400k-1791921420000",
+    "title": "SHRM loses service dog trial, owes former job applicant $400K",
+    "link": "https://www.hrdive.com/news/shrm-loses-service-dog-trial-owes-former-job-applicant-400k/832883/",
+    "summary": "While SHRM strongly decried the decision and said it was considering an appeal, attorneys for the plaintiff vowed to &ldquo;vigorously defend&rdquo; the judgment.",
+    "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -215,23 +216,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791897137000",
-    "title": " 澳洲经济，双速已死 ",
-    "link": "https://www.huxiu.com/article/4897240.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 如果你还把澳大利亚经济看成两列火车，一列矿车，一列普通车，那你手里的信息大概已经过期了。 2025年，西澳贡献了全国45.4%的商品出口，采矿业周中位收入2761澳元，全国所有员工只有1425澳元。可同年12月，全国房价收入比冲到8.4，首付要攒11.2年，25到34岁家庭的住房拥有率从1981年的61%掉到43%。 这几组数字，其实已经说明了澳大利亚的经济分化换坐标了，州与行业的旧边界还在，但家庭命运越来越多由资产、地点、代际和平台决定。 双速经济可以解释过去二十年的资源繁荣，却解释不了今天一个高薪矿工、一个悉尼租户、一个区域小城家庭为什么可能共享同一种焦虑。 旧的双速故事，为何讲不动了？ 双速经济这个词，最早抓住的是资源富集州与东部多元经济之间的差距，西澳、昆士兰靠铁矿石、煤炭和天然气起飞，东部靠农业、制造业和服务业慢慢走。 这个叙事在2000年的时候真的很有吸引力，因为采矿繁荣确实带来了投资、就业、工资和出口的集中爆发。资料显示，西澳占澳大利亚大陆约三分之一面积，2025年贡献全国45.4%的商品出口，采矿业周中位收入2761澳元，而所有员工只有1425澳元。 这些事实也解释了为什么人们总爱把澳大利亚和加拿大阿尔伯塔省放在一起比较。 但真实存在，不等于足够解释全国。 变化之一来自财政联邦制。 澳大利亚在政府间重新分配公共收入方",
-    "publishedAt": "2026-10-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1791890709000",
-    "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标",
-    "link": "https://www.tmtpost.com/8167507.html",
-    "summary": "5个月，价格已腰斩。",
+    "id": "news-18a-1791898632000",
+    "title": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任",
+    "link": "https://www.tmtpost.com/8167657.html",
+    "summary": "密集人事迭代，全部发生在年报难产、独立法证调查推进、复牌遥遥无期的特殊窗口期。",
     "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
@@ -254,30 +242,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-makes-another-push-into-the-smart-home-market-with-hom-1791897346000",
-    "title": "Apple makes another push into the smart home market with HomeView",
-    "link": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-    "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
+    "id": "news-cambridge-heavy-industries-has-been-quietly-building-a-deskt-1791922433000",
+    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+    "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+    "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
     "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-women-fall-through-the-cracks-at-work-especially-on-boards-r-1791818160000",
-    "title": "Women fall through the cracks at work, especially on boards, report says",
-    "link": "https://www.hrdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards-report-says/832722/",
-    "summary": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
-    "publishedAt": "2026-10-12",
+    "id": "news-capability-anxiety-may-be-pulling-companies-down-1791908580000",
+    "title": "‘Capability anxiety’ may be pulling companies down",
+    "link": "https://www.hrdive.com/news/capability-anxiety-may-be-pulling-companies-down/832860/",
+    "summary": "Only 30% of the more than 500 employers surveyed by WTW said they&rsquo;ve established processes for identifying and tracking worker skills.",
+    "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -294,24 +282,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-00-1791896766000",
-    "title": " 用AI做游戏的00后：被压缩的人生时钟 ",
-    "link": "https://www.huxiu.com/article/4897239.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 人总是通过自己最脆弱的一面，融入其所处的时代。 在上海参加一次AI游戏相关的活动时，我注意到了很多端着电脑穿行于人群中的年轻人，他们熟练地给旁人介绍自己做的游戏。与他们攀谈之后，我发现他们都相当年轻，有些人大一就开始做游戏了，即便没有代码基础，也能靠AI实现自己的想法。 当我惊叹于他们的年龄，感慨于做游戏可以这么早就开始的时候，一个大一的学生告诉我：「我们独游群里还有个高二的，他做东西也蛮厉害的，你要不要和他认识一下？」 于是「用AI做游戏的00后」这个选题误打误撞地开始了。 我先是靠着那次Game Jam认识的年轻人滚雪球式的层层推荐——找到他们用AI做游戏的年轻网友，然后再认识网友的网友；后来，我又请关注AI游戏的《405游局》创始人筱宁帮忙牵线。这样积累下来，我陆续采访了19人。 （由于样本数量不大，且本人水平有限，文中对用AI做游戏的年轻人的观察和描述或有偏颇和疏漏，在此先行致歉。） 几乎每个受访者都在我说明来意后接受了邀约。甚至说来好笑，我的微信被发到了一些开发者交流群之后，一度很多人加我，添加理由是「听说这里有采访」，积极程度堪比领鸡蛋。 这19人中，我只和其中两位线下见过面，其余都是在线上靠微信电话交流。采访时间通常是一小时左右，有时也会聊上两三小时。我从他们在做的事情问起，问他们对自己的项目的思考，问AI的运用，也",
-    "publishedAt": "2026-10-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-12-1791888225000",
-    "title": "奔驰被测翻车后的12周",
-    "link": "https://www.tmtpost.com/8166656.html",
-    "summary": "停下12周交付，买回了一个安全时代。",
+    "id": "news--1791895696000",
+    "title": "天价离婚落定，猪周期未醒：神农集团站上关口",
+    "link": "https://www.tmtpost.com/8167612.html",
+    "summary": "23亿分手费，与一个猪企的周期大考",
     "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
@@ -322,8 +296,8 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mars-may-be-a-hellhole-but-the-moon-is-not-far-behind-1791797822000",
-    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "id": "news-what-it-would-take-to-build-a-city-on-the-moon-1791797822000",
+    "title": "What it would take to build a city on the moon",
     "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
     "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
     "publishedAt": "2026-10-12",
@@ -334,10 +308,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amex-introduces-a-framework-to-prevent-ai-agents-from-making-1791896400000",
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "id": "news-licube-wants-to-be-the-fuel-provider-to-the-fusion-power-ind-1791921600000",
+    "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+    "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+    "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
     "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
@@ -347,17 +321,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-eeoc-sues-employment-agency-for-alleged-h-1b--1791818160000",
-    "title": "Week in review: EEOC sues employment agency for alleged H-1B worker preference",
-    "link": "https://www.hrdive.com/news/week-in-review-eeoc-sues-employment-agency-for-alleged-h-1b-worker-prefere/832724/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the effect of manager availability on worker retention.",
-    "publishedAt": "2026-10-12",
+    "id": "news-hr-leaders-feel-positive-about-their-outlook-but-can-t-back--1791905100000",
+    "title": "HR leaders feel positive about their outlook, but can’t back it up with numbers",
+    "link": "https://www.hrdive.com/news/hr-leaders-feel-positive-about-their-outlook-but-cant-back-it-up-with-num/832807/",
+    "summary": "A 2026 report from Betterworks shows a quantitative disconnect between HR&rsquo;s optimism and demonstrated proof of concept for outcomes, suggesting HR should buckle down on data.",
+    "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -374,23 +347,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-24-1791896157000",
-    "title": " 24岁吃播之死：把暴食症做成生意，就再也没停下来 ",
-    "link": "https://www.huxiu.com/article/4897233.html?f=rss",
-    "summary": "本文来自微信公众号： 识格 ，作者：识格 前两天，大家可能都刷到一条新闻：一个24岁的吃播博主走了。 她叫陈紫怡，网名“干饭莹”，120多万粉丝，做吃播第六年。 8月14日，她发了最后一条视频：反复吃，钾流失，住院了。 三天后，心脏停了。 讣告里没写死因，据媒体报道，长期低钾引发心搏骤停。 这个死因听着挺陌生。一个人，怎么会被“吃”这件事送走？ 今天跟大家讲讲，不是追热点，而是这里有个死结，我觉得值得所有人看一眼，哪怕你从来不看吃播。 先说说“低钾”是个啥。 医学上有个标准：正常人血钾浓度是3.5到5.5，低于2.5，就是重度低钾，属于急症，可以直接引发心搏骤停。 她生前在直播里自己说过，钾低到2.3左右。 钾这东西，你可以理解成身体电路里的电压。电压稳，心脏才跳得稳。电压掉到危险线以下，最先跳闸的，就是心脏，而且往往是没有明显先兆的那种跳闸。 那好好的，钾是咋没的？ 答案是催吐。 这里有个冷知识：胃液和肠液里的钾浓度，是血液的好几倍。反复呕吐，等于拼命往外舀钾。更麻烦的是，呕吐还会引发代谢性碱中毒，逼着肾脏进一步排钾。 两头一夹，就四个字：越吐越缺。 医学上管这叫低钾血症。听着一串术语，说白了就一件事：身体电路在亏电，亏得狠了，心脏可能说停就停。 多说一句，低钾本身不算稀罕病，临床上补钾也是最常规的手段。真正要命的是“反复”这两个字：补上了，再吐出去，循环往复，身体被一点点掏空。",
-    "publishedAt": "2026-10-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791888187000",
-    "title": "马斯克炮轰印度首富，惊动印政府：星链要进印度的门，不仅要交技术开关，还得交过路费",
-    "link": "https://www.tmtpost.com/8165993.html",
-    "summary": "一个全球首富、造火箭的，隔空跟印度首富对线，还把人家政府惊动了。",
+    "id": "news--1791892994000",
+    "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
+    "link": "https://www.tmtpost.com/8167551.html",
+    "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
     "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
@@ -897,4 +857,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-13T13:28:42.228Z';
+export const dataFetchedAt = '2026-10-13T22:15:26.332Z';

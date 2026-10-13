@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-14-auto",
+    "date": "2026-10-14",
+    "session": "auto",
+    "title": "2026-10-14 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-14-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: open model trade-offs and geothermal power’s promise",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+      },
+      {
+        "id": "sig-2026-10-14-auto-2",
+        "emoji": "💡",
+        "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+        "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+        "detail": "来源: TechCrunch。The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"
+      },
+      {
+        "id": "sig-2026-10-14-auto-3",
+        "emoji": "💡",
+        "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
+        "summary": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
+        "detail": "来源: HR Dive。The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/"
+      },
+      {
+        "id": "sig-2026-10-14-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Can Language Models Play the Wikipedia Game?...",
+        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled",
+        "detail": "作者: Alexander Hickey, Joanna Knight, James Bishop。Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We construct very large local graphs of Wikipedia pages and of paper citations using OpenAlex and provide code to build and navigate them. This allows the study of language models' navigation capabilities without relying on third-party APIs. We compared the models with human and TF-IDF benchmarks. The Wikip",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.13948v1"
+      },
+      {
+        "id": "sig-2026-10-14-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-14-1",
+        "priority": "medium",
+        "action": "关注「The Download: open model trade-offs and 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-14-2",
+        "priority": "low",
+        "action": "关注「Helix Carbon says it can make iron cheap」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-14-3",
+        "priority": "low",
+        "action": "关注「Workday brings autopilots to hiring, pay」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-14-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Can Language Models Play the Wikipe」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-14-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 56,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-14 生成，聚合了 27 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-10-14 00:00 - 2026-10-14 23:59"
+  },
+  {
     "id": "report-2026-10-13-auto",
     "date": "2026-10-13",
     "session": "auto",
