@@ -2,91 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-moon-city-problems-and-drone-traffic-controller-1791807000000",
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
-    "publishedAt": "2026-10-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-meta-releases-its-first-frontier-model-muse-wonder-1791827816000",
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-    "publishedAt": "2026-10-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-whole-foods-defeats-bias-suit-after-catching-plaintiff-fakin-1791836580000",
-    "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-    "link": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
-    "summary": "A federal judge cited the company&rsquo;s investigation of video recordings in which the worker immediately left the worksite after clocking in to work.",
-    "publishedAt": "2026-10-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-rsi-25-56-1791784116000",
-    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-    "link": "https://www.qbitai.com/2026/10/502654.html",
-    "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-    "publishedAt": "2026-10-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791849423000",
-    "title": " “大模型时代的谷歌 可能永远不会出现” ",
-    "link": "https://www.huxiu.com/article/4896964.html?f=rss",
-    "summary": "本文来自微信公众号： 锦缎 ，作者：牧之，原文标题：《“大模型时代的谷歌 可能永远不会出现”》 今年9月最后一周，投资了OpenAI和Anthropic的彼得·蒂尔，在柏林领取Axel Springer Award，并与马蒂亚斯·德普夫纳做了一场对谈。 他用自己《从零到一》的互联网时代垄断理论，审视今天的模型公司，做出了一个相当逆向的判断： 模型时代的谷歌，那种可以获取垄断价值的公司，在AI时代，可能永远都不会出现。 01 互联网时代的价值获取规律：网络效应，赢家通吃 如果我们把模型时代和互联网时代对照来看： 互联网刚起来时，很多人以为谁都能开一家公司，结果网络效应经济极强，出现一批超大平台，形成winner-take-all赢家通吃的格局。 谷歌，亚马逊，Meta，腾讯，字节，阿里，数不胜数。 模型时代可能正好相反： 市场很大，但终点更像高强度竞争，而不是少数平台通吃。很大一部分价值会以消费者剩余（Konsumentenrente）的形式落在用户手里，分布也更均匀。 你花了20美金的订阅费，获得了2000美金的医疗服务，知识服务，大多数价值都落在了你的身上。 我们要注意，蒂尔说的也是I wonder。 这和他2014年《从0到1》里“竞争是失败者的事、好公司必须做成垄断”并不矛盾： 公司要值钱，必须同时做两件事：创造价值X，再截住其中Y%。 航空公司创造的X很大，Y接近0。 Go",
-    "publishedAt": "2026-10-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-6-1791849600000",
-    "title": "美的太子孵化的机器人，烧光6亿后破产了？",
-    "link": "https://www.tmtpost.com/8165609.html",
-    "summary": "盈合机器人进入破产程序。",
+    "id": "news-the-download-open-model-trade-offs-and-geothermal-power-s-pr-1791892800000",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
     "publishedAt": "2026-10-13",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-mars-may-be-a-hellhole-but-the-moon-is-not-far-behind-1791797822000",
-    "title": "Mars may be a hellhole, but the moon is not far behind",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
-    "publishedAt": "2026-10-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-1791825554000",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "publishedAt": "2026-10-12",
+    "id": "news-the-final-disrupt-stage-lineup-three-days-of-conversations-y-1791898086000",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -121,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-490-tokens-s-1791772624000",
-    "title": "智谱新模型，490 tokens/s！",
-    "link": "https://www.qbitai.com/2026/10/502649.html",
-    "summary": "GLM「速度仙人」来了？",
-    "publishedAt": "2026-10-12",
+    "id": "news-agent-molmospaces-1791889539000",
+    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+    "link": "https://www.qbitai.com/2026/10/503107.html",
+    "summary": "让VLA从“演示可用”逼近“产线可用”",
+    "publishedAt": "2026-10-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791848124000",
-    "title": " 政府想拯救经济，为什么必须先理解每一个人？ ",
-    "link": "https://www.huxiu.com/article/4896962.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：陈永伟，原文标题：《万字长文深度解读2026年诺贝尔经济学奖：政府想拯救经济，为什么必须先理解每一个人？》，题图来自：视觉中国 2026年10月12日，瑞典皇家科学院宣布，将本年度诺贝尔经济学奖授予美国经济学家罗伯特&middot;霍尔 （Robert E. Hall） 和迈克尔&middot;伍德福德 （Michael Woodford） ，表彰他们&ldquo;为宏观经济稳定政策奠定微观经济学基础&rdquo;的贡献。两位获奖者分别来自斯坦福大学和哥伦比亚大学，长期致力于消费、经济波动与宏观稳定政策研究。 乍看之下，这次授奖似乎有些&ldquo;抽象&rdquo;。宏观经济学讨论的是失业、通货膨胀、经济增长和货币政策，微观经济学研究的则是消费者和企业的决策。为什么宏观经济学需要建立微观基础？这与政府究竟应该怎样应对经济衰退、中央银行如何决定利率，又有什么关系？ 要理解两位学者的贡献，需要回到半个世纪前的一场经济学危机。在那场危机中，曾经占据主导地位的凯恩斯主义遭到猛烈批评，经济学界出现了长期的思想分裂。霍尔和伍德福德分别沿着不同的研究道路，试图重新回答凯恩斯提出的一个根本问题： 既然市场由无数追求自身利益的个人和企业组成，为什么整个经济仍然会陷入衰退，又如何通过适当的政策减轻经济波动？ 这一问题至今没有失去现实意义。近年来，从全球",
-    "publishedAt": "2026-10-12",
+    "id": "news--1791897680000",
+    "title": " 粤芯突围，第一省会“挤上”牌桌 ",
+    "link": "https://www.huxiu.com/article/4897245.html?f=rss",
+    "summary": "本文来自微信公众号： 城市进化论 ，作者：刘旭强 广东“等芯”十八年的故事，终于迎来了最关键的资本时刻。 10月13日，粤芯半导体技术股份有限公司（以下简称“粤芯”）于深交所创业板上市。上市首日，公司股价大幅冲高，收盘价38.80元，较12.01元发行价上涨233.06%。 时间倒回2008年，广东集成电路产业“十一五”专项规划中，“制造技术以代工为主，缺乏自主品牌”就被写入其中，到2017年，国内12英寸晶圆产能已经在上海、北京、武汉等长三角和华北地区高度集中，珠三角的“广东芯”仍是空白。 粤芯是广东自主培养且首家实现量产的12英寸晶圆制造企业，以粤芯为核心起点，广州已集聚培育一批本土集成电路产业“舰队”，目标是打造全国集成电路产业第三极的核心承载区。问题在于“慢一步”的广州，如何与北京、上海、合肥、武汉等“先发选手”形成差异化布局。 车规级芯片业务，被视为粤芯突围的核心抓手。“十五五”期间，广州提出打造万亿级汽车产业，向电动化、智能化深度转型，这离不开自主车规级芯片的供应链支撑。 一边是支撑城市经济的传统支柱产业，一边是决定未来竞争力的新兴增长极，广州的“车芯联动”能否如期落地？粤芯半导体，又能否成为影响广州全域经济转型的关键变量？ 1 补“芯” 在粤芯成立前，广州曾饱受“缺芯”困扰。 2017年以前，国内半导体产业主要集聚于环渤海、长三角及以深圳为代表的珠三角地区，广州起步晚",
+    "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -147,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-13-9-1-5-1791847200000",
-    "title": "【钛晨报】证监会：探索更加适配创新型中小企业的制度和实践；两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%；十余个品牌发文祝贺郑钦文中网夺冠，一年收入约达1.5亿元",
-    "link": "https://www.tmtpost.com/8165963.html",
-    "summary": "问界汽车拟于2027年进入欧洲市场；腾讯控股：根据全球中期票据计划建议发行票据；iPhone Duo预售前夕，苹果COO到访富士康并回应产能情况：正扩大生产规模；英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI；亚马逊据悉正洽谈收购人工智能初创公司Decart；《铁路科技创新“十五五”规划》印发：稳妥有序推进时速600公里高速磁浮技术研究及国产化关键技术试验验证；《关于促进国际航空货运健康有序发展的意见》印发；香港证监会：将加强具针对性的工具以打击首次公开招股相关的失当行为及其他企业失当行为；港交所行政总裁：正积极研究延长衍生产品的夜市交易时间；乘联分会：9月新能源乘用车出口55.8万辆，同比增长163.5%；前三季度新能源汽车产销量实现两位数增长，海外市场表现亮眼；",
-    "publishedAt": "2026-10-12",
+    "id": "news--1791895696000",
+    "title": "天价离婚落定，猪周期未醒：神农集团站上关口",
+    "link": "https://www.tmtpost.com/8167612.html",
+    "summary": "23亿分手费，与一个猪企的周期大考",
+    "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -161,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ecologist-revealing-the-invisible-networks-that-revive-r-1791795600000",
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
-    "publishedAt": "2026-10-12",
+    "id": "news-open-models-have-real-benefits-do-they-outweigh-the-risks-1791885600000",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+    "publishedAt": "2026-10-13",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -173,11 +93,93 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-co-1791819900000",
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "id": "news-india-delays-digital-payments-fee-rollout-amid-retailer-push-1791897905000",
+    "title": "India delays digital payments fee rollout amid retailer pushback",
+    "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+    "publishedAt": "2026-10-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "strategy",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-whole-foods-defeats-bias-suit-after-catching-plaintiff-fakin-1791836580000",
+    "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
+    "link": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
+    "summary": "A federal judge cited the company&rsquo;s investigation of video recordings in which the worker immediately left the worksite after clocking in to work.",
     "publishedAt": "2026-10-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-swin-transformer-deepseek-1791884017000",
+    "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "link": "https://www.qbitai.com/2026/10/503093.html",
+    "summary": "Winverse AI",
+    "publishedAt": "2026-10-13",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791897347000",
+    "title": " 赵露思冲击格莱美，含金量到底有多少？ ",
+    "link": "https://www.huxiu.com/article/4897243.html?f=rss",
+    "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 赵露思要冲击格莱美了。 最近，《福布斯》报道的2027年格莱美奖申报名单，让赵露思意外成为话题主角。 报道显示，赵露思于2025年发行的英文单曲《Black Veil Bride》，被提交参评第69届格莱美奖的三个奖项：年度制作（Record of the Year）、年度歌曲（Song of the Year）以及最佳流行独唱表演（Best Pop Solo Performance）。 截至目前，报名格莱美的华语歌手有三位：周杰伦、谢天笑、赵露思，而消息很快引发两极讨论。有人将其视为中国演员进军国际乐坛的新突破，也有人质疑一位以影视表演为主业的艺人，凭什么与欧美一线歌手竞争格莱美？ 那么，报名格莱美究竟意味着什么？背后的含金量到底有多少？ 报名格莱美的含金量有多少？ 争论之所以迅速发酵，很大程度上源于“格莱美”三个字自带的光环，以及公众对国际音乐奖项运作机制的陌生。 首先需要厘清一个常被忽视的事实，格莱美不是邀请制的封闭奖项。根据美国录音学院公布的规则，格莱美采用线上作品申报、资格与类别审核、专业会员投票相结合的评选机制。只要符合条件的录音学院会员，以及经过注册的媒体公司，都可以在规定时间内提交作品。 具体来看，申报（Submission）只是评奖流程的起点。作品提交后，录音学院会审核其发行时间、参评资格及类别归属；符合要求的作品才",
+    "publishedAt": "2026-10-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791892994000",
+    "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
+    "link": "https://www.tmtpost.com/8167551.html",
+    "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
+    "publishedAt": "2026-10-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-labs-are-buying-data-from-dead-startups-to-train-their-mo-1791882000000",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+    "publishedAt": "2026-10-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-fre-1791897371000",
+    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+    "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -200,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ctrl-f-ai-1791709471000",
-    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-    "link": "https://www.qbitai.com/2026/10/502644.html",
-    "summary": "一套生成论文初稿的多智能体工作流",
-    "publishedAt": "2026-10-11",
+    "id": "news-ceo-1791876023000",
+    "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+    "link": "https://www.qbitai.com/2026/10/502992.html",
+    "summary": "宝马保时捷缺席",
+    "publishedAt": "2026-10-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -213,11 +215,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1791847154000",
-    "title": " 史上最大、最荒谬的IPO来了 ",
-    "link": "https://www.huxiu.com/article/4896930.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 视觉中国 宇树的估值争议还没平息，一个更惊人的IPO估值已经摆上台面。 主角是Claude背后的大模型公司Anthropic。据媒体报道，其投资者期待的上市估值可能达到2万亿美元，超过SpaceX的1.77万亿美元，堪称史上最大IPO。 但就在市场期待这场超级IPO时，独立金融研究机构New Constructs直接泼来冷水。10月6日，该机构直接开炮，称这是&ldquo;2026年最荒谬的IPO&rdquo;，且这是&ldquo;对投资者判断力的一次前所未有的考验&rdquo;。 在New Constructs看来，Anthropic是一家&ldquo;没有可行商业模式&rdquo;的公司，对其估值约为1500亿美元，较其2万亿美元的目标估值低约93%。 同一家公司，两种估值，相差十多倍。 那么，这场被称为&ldquo;最荒谬&rdquo;的IPO，到底贵在哪里？ 一、估值全靠ARR 资本市场向来痴迷于高增长叙事，只有高增长，才有高估值。 支撑Anthropic的2万亿估值叙事在于ARR （年度经常性收入） 高增长 。 在唱多者的眼中，Anthropic年化收入从2025年末约90亿美元，飙到2026年5月的470亿美元、7月的650亿美元。纽约时报预计，按当前增速今年年化收入将超过1000亿美元。 一年十倍，史上",
-    "publishedAt": "2026-10-12",
+    "id": "news--1791897137000",
+    "title": " 澳洲经济，双速已死 ",
+    "link": "https://www.huxiu.com/article/4897240.html?f=rss",
+    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 如果你还把澳大利亚经济看成两列火车，一列矿车，一列普通车，那你手里的信息大概已经过期了。 2025年，西澳贡献了全国45.4%的商品出口，采矿业周中位收入2761澳元，全国所有员工只有1425澳元。可同年12月，全国房价收入比冲到8.4，首付要攒11.2年，25到34岁家庭的住房拥有率从1981年的61%掉到43%。 这几组数字，其实已经说明了澳大利亚的经济分化换坐标了，州与行业的旧边界还在，但家庭命运越来越多由资产、地点、代际和平台决定。 双速经济可以解释过去二十年的资源繁荣，却解释不了今天一个高薪矿工、一个悉尼租户、一个区域小城家庭为什么可能共享同一种焦虑。 旧的双速故事，为何讲不动了？ 双速经济这个词，最早抓住的是资源富集州与东部多元经济之间的差距，西澳、昆士兰靠铁矿石、煤炭和天然气起飞，东部靠农业、制造业和服务业慢慢走。 这个叙事在2000年的时候真的很有吸引力，因为采矿繁荣确实带来了投资、就业、工资和出口的集中爆发。资料显示，西澳占澳大利亚大陆约三分之一面积，2025年贡献全国45.4%的商品出口，采矿业周中位收入2761澳元，而所有员工只有1425澳元。 这些事实也解释了为什么人们总爱把澳大利亚和加拿大阿尔伯塔省放在一起比较。 但真实存在，不等于足够解释全国。 变化之一来自财政联邦制。 澳大利亚在政府间重新分配公共收入方",
+    "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -226,11 +228,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-14-3-1791809210000",
-    "title": "14亿坏账压顶，华仁药业向中民信投、国药药材追讨3亿逾期债",
-    "link": "https://www.tmtpost.com/8157821.html",
-    "summary": "对照公司2026年上半年归母净利润2854.24万元，本次诉讼追讨金额相当于其半年利润的11倍。",
-    "publishedAt": "2026-10-12",
+    "id": "news-10-1791890709000",
+    "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标",
+    "link": "https://www.tmtpost.com/8167507.html",
+    "summary": "5个月，价格已腰斩。",
+    "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -240,11 +242,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-ai-s-refusal-problem-and-weight-loss-drug-side--1791547800000",
-    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
-    "publishedAt": "2026-10-09",
+    "id": "news-the-download-moon-city-problems-and-drone-traffic-controller-1791807000000",
+    "title": "The Download: moon city problems and drone traffic controllers",
+    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
+    "publishedAt": "2026-10-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -252,16 +254,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul-1791819079000",
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "publishedAt": "2026-10-12",
+    "id": "news-apple-makes-another-push-into-the-smart-home-market-with-hom-1791897346000",
+    "title": "Apple makes another push into the smart home market with HomeView",
+    "link": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+    "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
+    "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -278,11 +281,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harness-1791709146000",
-    "title": "何恺明团队发布多模态Harness框架",
-    "link": "https://www.qbitai.com/2026/10/502628.html",
-    "summary": "多模态模型的视觉原生Harness，来了！",
-    "publishedAt": "2026-10-11",
+    "id": "news-98-23-1791875961000",
+    "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+    "link": "https://www.qbitai.com/2026/10/502954.html",
+    "summary": "让材料感知压力，造出超薄高密度电子皮肤",
+    "publishedAt": "2026-10-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791846808000",
-    "title": " 王兴兴低估了AI，梁文锋开始重估机器人 ",
-    "link": "https://www.huxiu.com/article/4896961.html?f=rss",
-    "summary": "本文来自微信公众号： 具身商业前哨 ，作者：何安 最懂机器人有多难的人，重新估计了AI进步的速度；最相信通用模型的人，提前开始为AI寻找身体。 不到两个月，王兴兴把具身智能的时间表往前拨了一次。 8月20日，他在世界机器人大会上判断，具身智能的“ChatGPT时刻”，快则两三年，慢则五到十年。但到了10月12日的工博会上，最乐观的时间变成了一两年。王兴兴甚至说，明年GPT-7出来，可能“直接把具身智能问题打穿”。 紧接着，他做了一次罕见的自我检讨：“过去十几年我犯的最大的错误，就是对AI相信得还不够。” 王兴兴做了十几年机器人，知道一台机器从完成演示到进入现场，中间隔着多少轮工程调试。 机器人不像ChatBot类产品，回答错了可以重新生成；机械臂伸错一次手，可能碰倒非目标物品，也可能撞坏设备。 最熟悉这些困难的人，突然认为自己对AI还不够乐观。几乎在同一天，另一条消息从相反方向传来。 凤凰网科技援引多个信源称，梁文锋近期密集接触具身智能创业者，讨论机器人、大模型与现实世界交互。DeepSeek正在考虑进一步进入具身智能，方案可能是亲自组建团队，也可能是通过投资切入。 在此前流传的投资人交流录音文字稿里，梁文锋给出的AGI路线却是另一种顺序：语言模型、思维链、Agent、持续学习、自我迭代，最后才是具身智能。 他认为，等前面的能力成熟以后，可以让AI帮助研发下一代机器人；如果把顺序反",
-    "publishedAt": "2026-10-12",
+    "id": "news-ai-00-1791896766000",
+    "title": " 用AI做游戏的00后：被压缩的人生时钟 ",
+    "link": "https://www.huxiu.com/article/4897239.html?f=rss",
+    "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 人总是通过自己最脆弱的一面，融入其所处的时代。 在上海参加一次AI游戏相关的活动时，我注意到了很多端着电脑穿行于人群中的年轻人，他们熟练地给旁人介绍自己做的游戏。与他们攀谈之后，我发现他们都相当年轻，有些人大一就开始做游戏了，即便没有代码基础，也能靠AI实现自己的想法。 当我惊叹于他们的年龄，感慨于做游戏可以这么早就开始的时候，一个大一的学生告诉我：「我们独游群里还有个高二的，他做东西也蛮厉害的，你要不要和他认识一下？」 于是「用AI做游戏的00后」这个选题误打误撞地开始了。 我先是靠着那次Game Jam认识的年轻人滚雪球式的层层推荐——找到他们用AI做游戏的年轻网友，然后再认识网友的网友；后来，我又请关注AI游戏的《405游局》创始人筱宁帮忙牵线。这样积累下来，我陆续采访了19人。 （由于样本数量不大，且本人水平有限，文中对用AI做游戏的年轻人的观察和描述或有偏颇和疏漏，在此先行致歉。） 几乎每个受访者都在我说明来意后接受了邀约。甚至说来好笑，我的微信被发到了一些开发者交流群之后，一度很多人加我，添加理由是「听说这里有采访」，积极程度堪比领鸡蛋。 这19人中，我只和其中两位线下见过面，其余都是在线上靠微信电话交流。采访时间通常是一小时左右，有时也会聊上两三小时。我从他们在做的事情问起，问他们对自己的项目的思考，问AI的运用，也",
+    "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -305,11 +308,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-shop-gmv-133-q3-93-80-1791809159000",
-    "title": "TikTok Shop墨西哥日均GMV一年增长133倍；Q3中国储能企业海外订单占比已达93% ; 拉美快消电商超80亿美元｜一周出海参考",
-    "link": "https://www.tmtpost.com/8165390.html",
-    "summary": "一文看遍本周出海热点。",
-    "publishedAt": "2026-10-12",
+    "id": "news-12-1791888225000",
+    "title": "奔驰被测翻车后的12周",
+    "link": "https://www.tmtpost.com/8166656.html",
+    "summary": "停下12周交付，买回了一个安全时代。",
+    "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -319,11 +322,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-re-putting-too-much-faith-in-ai-s-ability-to-say-no-1791536400000",
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
-    "publishedAt": "2026-10-09",
+    "id": "news-mars-may-be-a-hellhole-but-the-moon-is-not-far-behind-1791797822000",
+    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+    "publishedAt": "2026-10-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -331,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-ai-startup-says-it-can-generate-permit-ready-blueprints-1791818879000",
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "publishedAt": "2026-10-12",
+    "id": "news-amex-introduces-a-framework-to-prevent-ai-agents-from-making-1791896400000",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "publishedAt": "2026-10-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -358,11 +361,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-0-1791705136000",
-    "title": "陶哲轩：数学2.0时代已至！",
-    "link": "https://www.qbitai.com/2026/10/502594.html",
-    "summary": "",
-    "publishedAt": "2026-10-11",
+    "id": "news-claude-ai-1791872350000",
+    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "link": "https://www.qbitai.com/2026/10/502920.html",
+    "summary": "拉马克进化的幽灵",
+    "publishedAt": "2026-10-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -371,25 +374,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-opus5-5-1791846256000",
-    "title": " 刚刚，小扎发布神秘“西瓜”模型，跑分媲美Opus5.5，口碑却一言难尽 ",
-    "link": "https://www.huxiu.com/article/4896960.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽》 去年，扎克伯格挥舞支票满世界招揽AI人才，部分薪酬方案高达上亿美元，手笔之大，堪比NBA球星转会。如今，高价组建的团队终于交出了一份更接近预期的成绩单。 就在刚刚，Meta发布新模型Muse Wonder系列模型（内部代号西瓜），包括Muse Wonder和Muse Wonder Full，主攻个人与专业智能体任务，重点提升跨对话记忆、长时间执行任务和编程能力。 扎克伯格在接受采访时表示，Meta已经抵达AI技术的最前沿。 按照Meta公布的评测，Muse Wonder Full新模型至少在部分基准测试上，已能与GPT-6 Astra和Claude Fable 5.1掰手腕。 第三方机构Artificial Analysis的测试也显示，Wonder Full较上一代脱胎换骨，在多项智能体和专业工作评测中跻身前三甲。 花大价钱攒起来的队伍，让Meta重新有了跟领先模型叫板的底气，也让Meta Muse的Personal Agent之路能走得更顺畅些。 更强的记忆和执行力，能否让AI善始善终 Meta此次发布，延续了一年多来对AI业务的重整。 2025年4月，Llama 4马失前蹄，扎克伯格随即加大人才和算力投入，招揽Scale AI创始",
-    "publishedAt": "2026-10-12",
+    "id": "news-24-1791896157000",
+    "title": " 24岁吃播之死：把暴食症做成生意，就再也没停下来 ",
+    "link": "https://www.huxiu.com/article/4897233.html?f=rss",
+    "summary": "本文来自微信公众号： 识格 ，作者：识格 前两天，大家可能都刷到一条新闻：一个24岁的吃播博主走了。 她叫陈紫怡，网名“干饭莹”，120多万粉丝，做吃播第六年。 8月14日，她发了最后一条视频：反复吃，钾流失，住院了。 三天后，心脏停了。 讣告里没写死因，据媒体报道，长期低钾引发心搏骤停。 这个死因听着挺陌生。一个人，怎么会被“吃”这件事送走？ 今天跟大家讲讲，不是追热点，而是这里有个死结，我觉得值得所有人看一眼，哪怕你从来不看吃播。 先说说“低钾”是个啥。 医学上有个标准：正常人血钾浓度是3.5到5.5，低于2.5，就是重度低钾，属于急症，可以直接引发心搏骤停。 她生前在直播里自己说过，钾低到2.3左右。 钾这东西，你可以理解成身体电路里的电压。电压稳，心脏才跳得稳。电压掉到危险线以下，最先跳闸的，就是心脏，而且往往是没有明显先兆的那种跳闸。 那好好的，钾是咋没的？ 答案是催吐。 这里有个冷知识：胃液和肠液里的钾浓度，是血液的好几倍。反复呕吐，等于拼命往外舀钾。更麻烦的是，呕吐还会引发代谢性碱中毒，逼着肾脏进一步排钾。 两头一夹，就四个字：越吐越缺。 医学上管这叫低钾血症。听着一串术语，说白了就一件事：身体电路在亏电，亏得狠了，心脏可能说停就停。 多说一句，低钾本身不算稀罕病，临床上补钾也是最常规的手段。真正要命的是“反复”这两个字：补上了，再吐出去，循环往复，身体被一点点掏空。",
+    "publishedAt": "2026-10-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1791798321000",
-    "title": "AI 办公大战，盯上了企业的人力预算",
-    "link": "https://www.tmtpost.com/8165026.html",
-    "summary": "过去，企业招人再买软件；现在，企业可能先买 AI，再决定还要不要招人。",
-    "publishedAt": "2026-10-12",
+    "id": "news--1791888187000",
+    "title": "马斯克炮轰印度首富，惊动印政府：星链要进印度的门，不仅要交技术开关，还得交过路费",
+    "link": "https://www.tmtpost.com/8165993.html",
+    "summary": "一个全球首富、造火箭的，隔空跟印度首富对线，还把人家政府惊动了。",
+    "publishedAt": "2026-10-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -773,13 +775,12 @@ export const generatedJobs: JobPosting[] = [
   },
   {
     "id": "job-remoteok-1137399",
-    "title": "AI agent engineer",
+    "title": "SI agent engineer",
     "company": "Sticker Mule",
     "category": "hybrid_ai",
     "responsibilities": [
-      "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack",
-      "We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers",
-      "Work performed I"
+      "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack",
+      "We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers"
     ],
     "skills": [
       "Agent",
@@ -788,7 +789,7 @@ export const generatedJobs: JobPosting[] = [
     ],
     "location": "Remote",
     "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
     "postedAt": "2026-09-16",
     "isNew": false
   },
@@ -896,4 +897,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-13T00:05:55.812Z';
+export const dataFetchedAt = '2026-10-13T13:28:42.228Z';
