@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-1791814174000",
-    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-    "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+    "id": "news-meta-releases-its-first-frontier-model-muse-wonder-1791827816000",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
     "publishedAt": "2026-10-12",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-than-healthcare-savings-4-ways-hsas-support-financial-w-1791795600000",
-    "title": "More than healthcare savings: 4 ways HSAs support financial wellness",
-    "link": "https://www.hrdive.com/spons/more-than-healthcare-savings-4-ways-hsas-support-financial-wellness/832458/",
-    "summary": "If you could give your employees more peace of mind and improve their financial wellbeing &mdash; using a benefit you already offer &mdash; would you?",
+    "id": "news-whole-foods-defeats-bias-suit-after-catching-plaintiff-fakin-1791836580000",
+    "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
+    "link": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
+    "summary": "A federal judge cited the company&rsquo;s investigation of video recordings in which the worker immediately left the worksite after clocking in to work.",
     "publishedAt": "2026-10-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -53,10 +54,169 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-72-1791813996000",
-    "title": " 机制电价最高暴涨72%，光伏好日子要回来了？ ",
-    "link": "https://www.huxiu.com/article/4896937.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 摘要： 企业用“不投”换来了议价空间。当多数申报方不再接受亏损报价，机制出清竞价开始上移。 →这是《环球零碳》的第2173篇原创 这几天，新能源圈被多个利好消息振奋了一下。 10月9日，新华社授权发布《中共中央国务院关于发展新质生产力的意见》，提出要壮大绿色能源产业。 前几天，国家发改委和国家能源局释放信号，要出手“纠偏”机制电价，并提出，要充分发挥可再生能源领域在稳投资、促增长中的重要作用。 在国家层面部署下，地方也开始行动。新疆、甘肃、黑龙江、云南等地，纷纷上调光伏机制电价。新疆2027年光伏机制电价竞价出清价甚至达到0.259元/kWh，较2026年的0.15元/kWh大涨72.7%，距离竞价上限仅差0.003元。 还有很多地方对机制竞价规则进行修订，抬高机制竞价的下限，遏制不计成本的低价踩踏。 整个新能源行业的投资信心，似乎正在迎来一场久违的修复。尤其是光伏圈的很多人，第一反应是：好日子要回来了？ 01 机制电价开始修复，新疆暴涨72% 2027年新批次新能源机制电价竞价最近陆续出炉，据国际能源网统计，截至目前全国已有13个省市完成或启动、准备2027年机制电价竞价，部分省份的出清价格明显上涨。 注：黑龙江2027年为风电电价，其余均为光伏电价 来源：光伏头条 其中，新疆光伏机制电价从2026批次的0.1",
+    "id": "news--1791849423000",
+    "title": " “大模型时代的谷歌 可能永远不会出现” ",
+    "link": "https://www.huxiu.com/article/4896964.html?f=rss",
+    "summary": "本文来自微信公众号： 锦缎 ，作者：牧之，原文标题：《“大模型时代的谷歌 可能永远不会出现”》 今年9月最后一周，投资了OpenAI和Anthropic的彼得·蒂尔，在柏林领取Axel Springer Award，并与马蒂亚斯·德普夫纳做了一场对谈。 他用自己《从零到一》的互联网时代垄断理论，审视今天的模型公司，做出了一个相当逆向的判断： 模型时代的谷歌，那种可以获取垄断价值的公司，在AI时代，可能永远都不会出现。 01 互联网时代的价值获取规律：网络效应，赢家通吃 如果我们把模型时代和互联网时代对照来看： 互联网刚起来时，很多人以为谁都能开一家公司，结果网络效应经济极强，出现一批超大平台，形成winner-take-all赢家通吃的格局。 谷歌，亚马逊，Meta，腾讯，字节，阿里，数不胜数。 模型时代可能正好相反： 市场很大，但终点更像高强度竞争，而不是少数平台通吃。很大一部分价值会以消费者剩余（Konsumentenrente）的形式落在用户手里，分布也更均匀。 你花了20美金的订阅费，获得了2000美金的医疗服务，知识服务，大多数价值都落在了你的身上。 我们要注意，蒂尔说的也是I wonder。 这和他2014年《从0到1》里“竞争是失败者的事、好公司必须做成垄断”并不矛盾： 公司要值钱，必须同时做两件事：创造价值X，再截住其中Y%。 航空公司创造的X很大，Y接近0。 Go",
+    "publishedAt": "2026-10-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-6-1791849600000",
+    "title": "美的太子孵化的机器人，烧光6亿后破产了？",
+    "link": "https://www.tmtpost.com/8165609.html",
+    "summary": "盈合机器人进入破产程序。",
+    "publishedAt": "2026-10-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-mars-may-be-a-hellhole-but-the-moon-is-not-far-behind-1791797822000",
+    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+    "publishedAt": "2026-10-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-1791825554000",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "publishedAt": "2026-10-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-fedex-worker-s-6-harassment-reports-not-protected-by-title-v-1791836580000",
+    "title": "FedEx worker’s 6 harassment reports not protected by Title VII, 5th Circuit says",
+    "link": "https://www.hrdive.com/news/fedex-worker-harassment-reports-not-protected-by-title-vii/832777/",
+    "summary": "The plaintiff&rsquo;s allegations of bullying, aggressive and passive aggressive behavior don&rsquo;t automatically rise to the level of discrimination, the court held.",
+    "publishedAt": "2026-10-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-490-tokens-s-1791772624000",
+    "title": "智谱新模型，490 tokens/s！",
+    "link": "https://www.qbitai.com/2026/10/502649.html",
+    "summary": "GLM「速度仙人」来了？",
+    "publishedAt": "2026-10-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791848124000",
+    "title": " 政府想拯救经济，为什么必须先理解每一个人？ ",
+    "link": "https://www.huxiu.com/article/4896962.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：陈永伟，原文标题：《万字长文深度解读2026年诺贝尔经济学奖：政府想拯救经济，为什么必须先理解每一个人？》，题图来自：视觉中国 2026年10月12日，瑞典皇家科学院宣布，将本年度诺贝尔经济学奖授予美国经济学家罗伯特&middot;霍尔 （Robert E. Hall） 和迈克尔&middot;伍德福德 （Michael Woodford） ，表彰他们&ldquo;为宏观经济稳定政策奠定微观经济学基础&rdquo;的贡献。两位获奖者分别来自斯坦福大学和哥伦比亚大学，长期致力于消费、经济波动与宏观稳定政策研究。 乍看之下，这次授奖似乎有些&ldquo;抽象&rdquo;。宏观经济学讨论的是失业、通货膨胀、经济增长和货币政策，微观经济学研究的则是消费者和企业的决策。为什么宏观经济学需要建立微观基础？这与政府究竟应该怎样应对经济衰退、中央银行如何决定利率，又有什么关系？ 要理解两位学者的贡献，需要回到半个世纪前的一场经济学危机。在那场危机中，曾经占据主导地位的凯恩斯主义遭到猛烈批评，经济学界出现了长期的思想分裂。霍尔和伍德福德分别沿着不同的研究道路，试图重新回答凯恩斯提出的一个根本问题： 既然市场由无数追求自身利益的个人和企业组成，为什么整个经济仍然会陷入衰退，又如何通过适当的政策减轻经济波动？ 这一问题至今没有失去现实意义。近年来，从全球",
+    "publishedAt": "2026-10-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4-13-9-1-5-1791847200000",
+    "title": "【钛晨报】证监会：探索更加适配创新型中小企业的制度和实践；两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%；十余个品牌发文祝贺郑钦文中网夺冠，一年收入约达1.5亿元",
+    "link": "https://www.tmtpost.com/8165963.html",
+    "summary": "问界汽车拟于2027年进入欧洲市场；腾讯控股：根据全球中期票据计划建议发行票据；iPhone Duo预售前夕，苹果COO到访富士康并回应产能情况：正扩大生产规模；英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI；亚马逊据悉正洽谈收购人工智能初创公司Decart；《铁路科技创新“十五五”规划》印发：稳妥有序推进时速600公里高速磁浮技术研究及国产化关键技术试验验证；《关于促进国际航空货运健康有序发展的意见》印发；香港证监会：将加强具针对性的工具以打击首次公开招股相关的失当行为及其他企业失当行为；港交所行政总裁：正积极研究延长衍生产品的夜市交易时间；乘联分会：9月新能源乘用车出口55.8万辆，同比增长163.5%；前三季度新能源汽车产销量实现两位数增长，海外市场表现亮眼；",
+    "publishedAt": "2026-10-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-ecologist-revealing-the-invisible-networks-that-revive-r-1791795600000",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
+    "publishedAt": "2026-10-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-co-1791819900000",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "publishedAt": "2026-10-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-company-s-male-only-job-openings-lead-to-500k-settlement-wit-1791819360000",
+    "title": "Company’s male-only job openings lead to $500K settlement with EEOC",
+    "link": "https://www.hrdive.com/news/companys-male-only-job-openings-lead-to-500k-settlement-with-eeoc/832733/",
+    "summary": "The commission has repeatedly challenged hiring policies that exclude applicants because of their sex and employers that retaliate against HR professionals for hiring women.",
+    "publishedAt": "2026-10-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ctrl-f-ai-1791709471000",
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "link": "https://www.qbitai.com/2026/10/502644.html",
+    "summary": "一套生成论文初稿的多智能体工作流",
+    "publishedAt": "2026-10-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ipo-1791847154000",
+    "title": " 史上最大、最荒谬的IPO来了 ",
+    "link": "https://www.huxiu.com/article/4896930.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 视觉中国 宇树的估值争议还没平息，一个更惊人的IPO估值已经摆上台面。 主角是Claude背后的大模型公司Anthropic。据媒体报道，其投资者期待的上市估值可能达到2万亿美元，超过SpaceX的1.77万亿美元，堪称史上最大IPO。 但就在市场期待这场超级IPO时，独立金融研究机构New Constructs直接泼来冷水。10月6日，该机构直接开炮，称这是&ldquo;2026年最荒谬的IPO&rdquo;，且这是&ldquo;对投资者判断力的一次前所未有的考验&rdquo;。 在New Constructs看来，Anthropic是一家&ldquo;没有可行商业模式&rdquo;的公司，对其估值约为1500亿美元，较其2万亿美元的目标估值低约93%。 同一家公司，两种估值，相差十多倍。 那么，这场被称为&ldquo;最荒谬&rdquo;的IPO，到底贵在哪里？ 一、估值全靠ARR 资本市场向来痴迷于高增长叙事，只有高增长，才有高估值。 支撑Anthropic的2万亿估值叙事在于ARR （年度经常性收入） 高增长 。 在唱多者的眼中，Anthropic年化收入从2025年末约90亿美元，飙到2026年5月的470亿美元、7月的650亿美元。纽约时报预计，按当前增速今年年化收入将超过1000亿美元。 一年十倍，史上",
     "publishedAt": "2026-10-12",
     "source": "虎嗅",
     "tags": [
@@ -80,11 +240,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mars-may-be-a-hellhole-but-the-moon-is-not-far-behind-1791797822000",
-    "title": "Mars may be a hellhole, but the moon is not far behind",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
-    "publishedAt": "2026-10-12",
+    "id": "news-the-download-ai-s-refusal-problem-and-weight-loss-drug-side--1791547800000",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
+    "publishedAt": "2026-10-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -92,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-1791813600000",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "id": "news-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul-1791819079000",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "publishedAt": "2026-10-12",
     "source": "TechCrunch",
     "tags": [
@@ -105,25 +265,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-skills-belong-at-the-center-of-hr-s-learning-strategy-1791795600000",
-    "title": "Why skills belong at the center of HR’s learning strategy",
-    "link": "https://www.hrdive.com/spons/why-skills-belong-at-the-center-of-hrs-learning-strategy/831851/",
-    "summary": "How HR can use skills data to prove learning programs are working and worth the budget.",
+    "id": "news-women-fall-through-the-cracks-at-work-especially-on-boards-r-1791818160000",
+    "title": "Women fall through the cracks at work, especially on boards, report says",
+    "link": "https://www.hrdive.com/news/women-fall-through-the-cracks-at-work-especially-on-boards-report-says/832722/",
+    "summary": "Continued analysis of gender representation on corporate boards corroborates previous findings on the clock winding back for women at work.",
     "publishedAt": "2026-10-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "strategy"
+      "workforce"
     ]
   },
   {
-    "id": "news-490-tokens-s-1791772624000",
-    "title": "智谱新模型，490 tokens/s！",
-    "link": "https://www.qbitai.com/2026/10/502649.html",
-    "summary": "GLM「速度仙人」来了？",
-    "publishedAt": "2026-10-12",
+    "id": "news-harness-1791709146000",
+    "title": "何恺明团队发布多模态Harness框架",
+    "link": "https://www.qbitai.com/2026/10/502628.html",
+    "summary": "多模态模型的视觉原生Harness，来了！",
+    "publishedAt": "2026-10-11",
     "source": "量子位",
     "tags": [
       "china",
@@ -132,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791813758000",
-    "title": " AI监管：要管，但不能“急着管” ",
-    "link": "https://www.huxiu.com/article/4896936.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 美国智库卡托研究所（CATO）刊登纽约邮报专栏作家Rikki Schlott同两位立场长期相反的AI研究者间的对谈内容——AI乐观派、华盛顿大学教授Oren Etzioni，与AI警惕派、麻省理工教授Max Tegmark共同讨论AI监管问题。文章指出，AI风险值得重视，但对未知技术的恐惧，可能推动政府仓促立法，使监管沦为政治动员和选举工具。政策制定应追求有效方案，而非迎合民粹情绪，否则不当监管可能适得其反。文章并非否定AI监管，而是提醒在技术快速演进、国际竞争加剧背景下，监管者自身的判断失误，同样可能成为重大风险。 原文标题：The Biggest AI Risk May Be the Rush to Regulate It 原文链接：https://www.cato.org/blog/biggest-ai-risk-may-be-rush-regulate-it 编译解读：数字经济发展评论 纽约邮报专栏作家里基·施洛特做了一件少有的事，把两位立场几乎相反的AI研究者请到了同一张桌子前。一位是华盛顿大学教授、艾伦人工智能研究所创始CEO奥伦·埃齐奥尼（Oren Etzioni），按他自己的说法，是从“AI乐观派”变成了“AI现实派”。另一位是麻省理工学院教授、未来生命研究所联合创始人马克斯·泰格马克（Max ",
+    "id": "news-ai-1791846808000",
+    "title": " 王兴兴低估了AI，梁文锋开始重估机器人 ",
+    "link": "https://www.huxiu.com/article/4896961.html?f=rss",
+    "summary": "本文来自微信公众号： 具身商业前哨 ，作者：何安 最懂机器人有多难的人，重新估计了AI进步的速度；最相信通用模型的人，提前开始为AI寻找身体。 不到两个月，王兴兴把具身智能的时间表往前拨了一次。 8月20日，他在世界机器人大会上判断，具身智能的“ChatGPT时刻”，快则两三年，慢则五到十年。但到了10月12日的工博会上，最乐观的时间变成了一两年。王兴兴甚至说，明年GPT-7出来，可能“直接把具身智能问题打穿”。 紧接着，他做了一次罕见的自我检讨：“过去十几年我犯的最大的错误，就是对AI相信得还不够。” 王兴兴做了十几年机器人，知道一台机器从完成演示到进入现场，中间隔着多少轮工程调试。 机器人不像ChatBot类产品，回答错了可以重新生成；机械臂伸错一次手，可能碰倒非目标物品，也可能撞坏设备。 最熟悉这些困难的人，突然认为自己对AI还不够乐观。几乎在同一天，另一条消息从相反方向传来。 凤凰网科技援引多个信源称，梁文锋近期密集接触具身智能创业者，讨论机器人、大模型与现实世界交互。DeepSeek正在考虑进一步进入具身智能，方案可能是亲自组建团队，也可能是通过投资切入。 在此前流传的投资人交流录音文字稿里，梁文锋给出的AGI路线却是另一种顺序：语言模型、思维链、Agent、持续学习、自我迭代，最后才是具身智能。 他认为，等前面的能力成熟以后，可以让AI帮助研发下一代机器人；如果把顺序反",
     "publishedAt": "2026-10-12",
     "source": "虎嗅",
     "tags": [
@@ -160,164 +319,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ecologist-revealing-the-invisible-networks-that-revive-r-1791795600000",
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
-    "publishedAt": "2026-10-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you--1791809279000",
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-    "publishedAt": "2026-10-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-1791575040000",
-    "title": "EEOC obtains $23K for Muslim barista denied accommodation for Ramadan",
-    "link": "https://www.hrdive.com/news/eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-ramadan/832637/",
-    "summary": "A manager at New York&rsquo;s Hungry Ghost Coffee allegedly refused to let the barista swap shifts so he could honor his religious practice of fasting, the lawsuit said.",
-    "publishedAt": "2026-10-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ctrl-f-ai-1791709471000",
-    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-    "link": "https://www.qbitai.com/2026/10/502644.html",
-    "summary": "一套生成论文初稿的多智能体工作流",
-    "publishedAt": "2026-10-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-8000-1791812797000",
-    "title": " 勤浩医药二次闯关港股：一笔8000万美元首付款撑起的账面扭亏 ",
-    "link": "https://www.huxiu.com/article/4896933.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰网财经 继今年1月首次递表失效后，勤浩医药于8月7日再次向港交所主板递交上市申请，华泰国际继续担任独家保荐人。首次递表于7月正式失效，二次递表间隔不足一个月，紧迫感可见一斑。 与首次递表相比，这次勤浩医药手里多了一张“成绩单”：2026年2月与吉利德达成的GH31授权协议，带来8000万美元首付款，推动前五个月实现5.58亿元收入和3.55亿元净利润，首次扭亏为盈。 但这份成绩单的底色并不轻松——剔除一次性BD收入后，公司常规业务收入仅约31.7万元，日常运营仍处于深度亏损状态。 二次递表背后还有一个更紧迫的时钟在走。截至2026年5月31日，公司流动负债净额高达4.12亿元，其中一笔9.9亿元的“权益股份赎回负债”构成核心压力。这是早期融资时与投资者签订的对赌条款：若未能在2027年12月31日前完成IPO，投资者有权要求公司按本金加8%年息赎回股份。 01 一家客户撑起99.94%收入 从财务数据看，2026年前五个月，勤浩医药实现收入5.58亿元、净利润3.55亿元，首次扭亏为盈。 然而拆解收入结构可以发现，这5.58亿元中约5.57亿元来自2026年2月与吉利德签署的全球独家授权协议所获8000万美元首付款，占比高达99.94%；剔除该笔收入后，公司常规研发技术服务收入仅约31.7万元。 换言之，此次盈利并非源自可持续的经营性业",
-    "publishedAt": "2026-10-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1791798321000",
-    "title": "AI 办公大战，盯上了企业的人力预算",
-    "link": "https://www.tmtpost.com/8165026.html",
-    "summary": "过去，企业招人再买软件；现在，企业可能先买 AI，再决定还要不要招人。",
-    "publishedAt": "2026-10-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-s-refusal-problem-and-weight-loss-drug-side--1791547800000",
-    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
-    "publishedAt": "2026-10-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-founder-8217-s-guide-to-techcrunch-disrupt-2026-everythi-1791766741000",
-    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "publishedAt": "2026-10-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eeoc-s-fy-2026-was-historically-anemic-but-big-on-messaging-1791575040000",
-    "title": "EEOC’s FY 2026 was ‘historically anemic,’ but big on messaging",
-    "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-    "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
-    "publishedAt": "2026-10-09",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-harness-1791709146000",
-    "title": "何恺明团队发布多模态Harness框架",
-    "link": "https://www.qbitai.com/2026/10/502628.html",
-    "summary": "多模态模型的视觉原生Harness，来了！",
-    "publishedAt": "2026-10-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-91-22-1791812563000",
-    "title": " “91份检测报告，一份真的都没有”，陕西榆林22吨油罐车的“裸奔”之路 ",
-    "link": "https://www.huxiu.com/article/4896931.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：公司研究院 核定载重14吨的油罐车，实际装载22吨原油，超载幅度近六成。 这不是个别车辆的偶发行为，而是一家企业持续两年多、六十余辆罐装车集体上演的“常规操作”。 10月10日晚，央视曝光了陕西省榆林市靖边县兴达综合发展有限责任公司长期超载运输原油的乱象。 不仅如此，另一家被曝光企业贵州黔南州丰茂物流有限公司，提交的84份危货罐车检验报告，却没有一份经过实际检验。 01 核定14吨实装22吨兴达公司几年前就上了当地黑榜 天眼查数据显示，此次被曝光的企业兴达公司成立于2006年、注册资本2000万元，公司以原油运输为主业，旗下拥有60多辆罐装车，每月发货量在两万吨以上。 巡查组最初并未发现异常。但登录后台电子运单系统后，一个反常的数据引起了注意：从2024年1月1日至2026年6月18日，这家公司所有罐装车的吨位利用率全部停留在68.3%。兴达公司法人代表袁玉璐的解释是\"装满就超限了\"，但长期浪费运力显然不符合商业逻辑。 在巡查组要求下，企业拿出了真实发货单。 比对结果令人震惊：车牌尾号3943的罐车，出厂报告核定载重14吨，实际拉运22.14吨，超载58%；尾号6163、6782、7684等罐车同样全部超载，幅度在42%至58%之间。 当被问及\"已经16年了，超额运载这个事情你清楚吗\"时，他回答\"清楚\"，并表示\"从第一天开始就知道\"。 更值",
-    "publishedAt": "2026-10-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-3-16-2029-1791798231000",
-    "title": "东百集团拟3.16亿控股快灵光电，业绩承诺集中看2029",
-    "link": "https://www.tmtpost.com/8165286.html",
-    "summary": "跨界光芯片当晚，上交所火速发函。",
-    "publishedAt": "2026-10-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
     "id": "news-we-re-putting-too-much-faith-in-ai-s-ability-to-say-no-1791536400000",
     "title": "We’re putting too much faith in AI’s ability to say no",
     "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
@@ -330,11 +331,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-the-homeview-be-apple-s-first-smart-home-success-1791753280000",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "publishedAt": "2026-10-11",
+    "id": "news-this-ai-startup-says-it-can-generate-permit-ready-blueprints-1791818879000",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "publishedAt": "2026-10-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -343,11 +344,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dhs-proposes-70k-fee-for-initial-optional-practical-training-1791558180000",
-    "title": "DHS proposes $70K fee for initial Optional Practical Training participation",
-    "link": "https://www.hrdive.com/news/dhs-proposes-70k-fee-for-initial-optional-practical-training-participation/832499/",
-    "summary": "Colleges would be on the hook for up to $100,000 in fees for each international student seeking to participate.",
-    "publishedAt": "2026-10-09",
+    "id": "news-week-in-review-eeoc-sues-employment-agency-for-alleged-h-1b--1791818160000",
+    "title": "Week in review: EEOC sues employment agency for alleged H-1B worker preference",
+    "link": "https://www.hrdive.com/news/week-in-review-eeoc-sues-employment-agency-for-alleged-h-1b-worker-prefere/832724/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the effect of manager availability on worker retention.",
+    "publishedAt": "2026-10-12",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -370,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1791812348000",
-    "title": " 独家｜DeepSeek考虑入局具身智能，梁文锋正密集与相关创业者交流 ",
-    "link": "https://www.huxiu.com/article/4896929.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网科技 ，作者：凤凰网科技，编辑：董雨晴，原文标题：《独家｜DeepSeek考虑入局具身智能，梁文锋正密集与相关创业者交流》 摘要： 从语言模型到物理世界，AGI竞争正在进入下一阶段。DeepSeek创始人梁文锋近期密集接触具身智能创业者，内部正在评估是否亲自下场，或通过投资方式切入这一赛道。 过去几年，梁文锋一直在寻找人工智能距离“真正智能”之间的那道鸿沟，如今，在其看来，大模型只是通往AGI（通用人工智能）的一段路径，而不是终点。 凤凰网科技近日从多个不同信源处了解到，梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 知情人士向凤凰网科技透露，目前梁文锋正在考虑DeepSeek是否要进一步进入具身智能领域，方案可能包括亲自组建团队下场研发，也可能通过投资相关企业切入。 “梁文锋在这个领域也不是很有经验，所以也在密集学习”，一位知情人士表述。 此前，梁文锋已投资宇树科技，另据彭博社报道，DeepSeek计划领投腾讯前AI科学家胡瀚创立的机器人公司Winverse AI。Winverse AI成立仅数月，计划通过种子轮融资筹集数千万美元，投后估值预计达到约4亿美元。DeepSeek已同意牵头本轮融资，美团旗下龙珠投资（Long-Z Investments）等机构也已作出投资承诺。 不过，凤凰网科技从多位行业",
+    "id": "news-opus5-5-1791846256000",
+    "title": " 刚刚，小扎发布神秘“西瓜”模型，跑分媲美Opus5.5，口碑却一言难尽 ",
+    "link": "https://www.huxiu.com/article/4896960.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽》 去年，扎克伯格挥舞支票满世界招揽AI人才，部分薪酬方案高达上亿美元，手笔之大，堪比NBA球星转会。如今，高价组建的团队终于交出了一份更接近预期的成绩单。 就在刚刚，Meta发布新模型Muse Wonder系列模型（内部代号西瓜），包括Muse Wonder和Muse Wonder Full，主攻个人与专业智能体任务，重点提升跨对话记忆、长时间执行任务和编程能力。 扎克伯格在接受采访时表示，Meta已经抵达AI技术的最前沿。 按照Meta公布的评测，Muse Wonder Full新模型至少在部分基准测试上，已能与GPT-6 Astra和Claude Fable 5.1掰手腕。 第三方机构Artificial Analysis的测试也显示，Wonder Full较上一代脱胎换骨，在多项智能体和专业工作评测中跻身前三甲。 花大价钱攒起来的队伍，让Meta重新有了跟领先模型叫板的底气，也让Meta Muse的Personal Agent之路能走得更顺畅些。 更强的记忆和执行力，能否让AI善始善终 Meta此次发布，延续了一年多来对AI业务的重整。 2025年4月，Llama 4马失前蹄，扎克伯格随即加大人才和算力投入，招揽Scale AI创始",
     "publishedAt": "2026-10-12",
     "source": "虎嗅",
     "tags": [
@@ -384,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1791797743000",
-    "title": "李小龙的功夫哲学，藏着长三角的经济密码",
-    "link": "https://www.tmtpost.com/8165049.html",
-    "summary": "腰马合一出重拳",
+    "id": "news-ai-1791798321000",
+    "title": "AI 办公大战，盯上了企业的人力预算",
+    "link": "https://www.tmtpost.com/8165026.html",
+    "summary": "过去，企业招人再买软件；现在，企业可能先买 AI，再决定还要不要招人。",
     "publishedAt": "2026-10-12",
     "source": "钛媒体",
     "tags": [
@@ -895,4 +896,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-12T14:19:25.920Z';
+export const dataFetchedAt = '2026-10-13T00:05:55.812Z';
