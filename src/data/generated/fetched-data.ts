@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-prismm-helps-banks-keep-inherited-money-in-house-1791993600000",
-    "title": "Prismm helps banks keep inherited money in-house",
-    "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-    "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+    "id": "news-colossal-biosciences-announces-new-ai-platform-to-help-accel-1792011600000",
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-more-even-handed-understanding-eeoc-s-direction-on-national--1791993600000",
-    "title": "More ‘even-handed’: Understanding EEOC’s direction on national origin bias",
-    "link": "https://www.hrdive.com/news/more-even-handed-understanding-eeocs-approach-to-national-origin-bias/832269/",
-    "summary": "Under Trump 2.0, the agency has shifted its focus to anti-American bias rather than discrimination against immigrants.",
+    "id": "news-robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost--1792009500000",
+    "title": "Robots can handle a third of physical jobs — but not yet cost-effectively, Anthropic says",
+    "link": "https://www.hrdive.com/news/robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost-effectively-an/833042/",
+    "summary": "About 300,000 jobs are exposed today; 2.8 million could be at risk in seven years, says an analysis by the AI company.",
     "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deezer-will-soon-let-you-filter-out-ai-generated-music-1791990964000",
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "id": "news-flock-ceo-we-haven-8217-t-8216-fired-8217-any-police-departm-1792009585000",
+    "title": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+    "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
@@ -106,10 +106,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellnes-1791991260000",
-    "title": "HR leaders may be able to use AI to improve employee wellness",
-    "link": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
-    "summary": "Nearly half of workers have been reluctant to use artificial intelligence, but a study from Gartner found the technology may be useful in identifying burnout.",
+    "id": "news-time-spent-waiting-to-work-is-compensable-if-required-appeal-1792009500000",
+    "title": "Time spent waiting to work is compensable if required, appeals court rules",
+    "link": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
+    "summary": "Lidl employees can continue with their allegations they were required to report to work but couldn&rsquo;t clock in until a manager unlocked the store.",
     "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
@@ -173,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the--1791990804000",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco&#8217;s Moscone West",
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "id": "news-electric-vehicle-sales-in-the-us-are-showing-signs-of-life-1792008727000",
+    "title": "Electric vehicle sales in the US are showing signs of life",
+    "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
@@ -186,10 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cost-of-living-blocks-career-growth-employees-say-1791991260000",
-    "title": "Cost of living blocks career growth, employees say",
-    "link": "https://www.hrdive.com/news/cost-of-living-blocks-career-growth-employees-say/832971/",
-    "summary": "Workers often pay out of pocket for some training &mdash; but most would spend no more than $2,500 to prepare for a new career, Penn Foster found.",
+    "id": "news-mailbag-how-can-hr-keep-track-of-employees-credentials-1792009500000",
+    "title": "Mailbag: How can HR keep track of employees’ credentials?",
+    "link": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
+    "summary": "Artificial intelligence could have multiple potential applications in this space, according to HR industry veteran Josh Bersin.",
     "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
@@ -239,25 +239,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-w-1791990480000",
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+    "id": "news-timeteller-puts-our-internal-clocks-at-the-center-of-persona-1792008000000",
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+    "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-workday-brings-autopilots-to-hiring-payroll-in-autonomous-ai-1791921480000",
-    "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-    "link": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
-    "summary": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
-    "publishedAt": "2026-10-13",
+    "id": "news-more-even-handed-understanding-eeoc-s-direction-on-national--1791993600000",
+    "title": "More ‘even-handed’: Understanding EEOC’s direction on national origin bias",
+    "link": "https://www.hrdive.com/news/more-even-handed-understanding-eeocs-approach-to-national-origin-bias/832269/",
+    "summary": "Under Trump 2.0, the agency has shifted its focus to anti-American bias rather than discrimination against immigrants.",
+    "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -307,25 +306,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-floqer-8217-s-ai-agents-research-sales-prospects-so-teams-do-1791990000000",
-    "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
-    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "id": "news-ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-1792007494000",
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-roofer-sues-after-allegedly-being-told-no-one-pays-overtime--1791921420000",
-    "title": "Roofer sues after allegedly being told ‘no one pays overtime in construction work’",
-    "link": "https://www.hrdive.com/news/roofer-sues-after-allegedly-being-told-no-one-pays-overtime-in-constructio/832884/",
-    "summary": "While it is common for certain salaried workers to be exempt from the FLSA&rsquo;s overtime requirement, blue-collar workers are nonexempt.",
-    "publishedAt": "2026-10-13",
+    "id": "news-hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellnes-1791991260000",
+    "title": "HR leaders may be able to use AI to improve employee wellness",
+    "link": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
+    "summary": "Nearly half of workers have been reluctant to use artificial intelligence, but a study from Gartner found the technology may be useful in identifying burnout.",
+    "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -966,4 +964,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-14T16:26:34.273Z';
+export const dataFetchedAt = '2026-10-14T21:15:20.149Z';
