@@ -2,6 +2,85 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-faking-blood-and-the-future-of-batteries-1791979800000",
+    "title": "The Download: faking blood and the future of batteries",
+    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+    "publishedAt": "2026-10-14",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-prismm-helps-banks-keep-inherited-money-in-house-1791993600000",
+    "title": "Prismm helps banks keep inherited money in-house",
+    "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+    "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+    "publishedAt": "2026-10-14",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-more-even-handed-understanding-eeoc-s-direction-on-national--1791993600000",
+    "title": "More ‘even-handed’: Understanding EEOC’s direction on national origin bias",
+    "link": "https://www.hrdive.com/news/more-even-handed-understanding-eeocs-approach-to-national-origin-bias/832269/",
+    "summary": "Under Trump 2.0, the agency has shifted its focus to anti-American bias rather than discrimination against immigrants.",
+    "publishedAt": "2026-10-14",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-2026-1791974507000",
+    "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+    "link": "https://www.qbitai.com/2026/10/503294.html",
+    "summary": "“具身进实景，劳动最光荣”",
+    "publishedAt": "2026-10-14",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791994209000",
+    "title": " 中国老板要重新学习赚钱这件事 ",
+    "link": "https://www.huxiu.com/article/4897605.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 很多年前，万通地产创始人冯仑提出过一个在中国企业家群体中广为流传的观点：伟大是熬出来的。 他后来还出版了一本同名著作，讲人生，也讲企业经营，强调坚持、耐心和面对困难时的韧性。这种认识并不是当下市面流行的那种空洞的励志和鸡汤，它是来自中国第一代民营企业家真实的生存经验。 过去几十年，中国企业家经历过数不清的困难。宏观调控、行业低谷、金融危机、资金链紧张，以及不断变化的宏观和市场环境，这些都曾经让许多企业陷入困境，甚至一蹶不振。 但事实也反复证明，只要方向没有根本问题，企业能够尊重常识、守住现金流、保持竞争力，挺过最困难的时期，往往就有机会等来新一轮增长。 “熬”逐渐成为中国企业家的一种经营哲学和共识。它强调长期主义，也包含一个重要的经济判断：市场有周期，潮水有涨落，企业只要能够坚持到下一次潮水上涨，就可能迎来新的机会。 我曾经非常认同这种观点，今天仍然认为耐心和韧性是优秀企业家的重要品质。但最近几年，尤其是2019年以来，在与越来越多企业家交流之后，我开始意识到，我们可能需要重新审视这套曾经帮助无数企业获得成功的心法和经验。 因为今天中国企业所面临的变化，已经很难用一次普通的经济周期来解释：一方面，房地产调整、人口结构变化、部分产业供需失衡以及全球经贸环境变化，让不少企业感到经营压力持续加大。另一方面，人工智能、机器人、先进制造、生物",
+    "publishedAt": "2026-10-14",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1791977247000",
+    "title": "片仔癀五年四换帅，提价驱动失效，业绩失速",
+    "link": "https://www.tmtpost.com/8168643.html",
+    "summary": "这纸公告距离上一轮高管更替不过两个多月。7月底，原总经理黄进明因达到法定退休年龄离任；9月22日，公司敲定施艺雄接任该岗位。而2021年以来，公司董事长岗位已四度出现变动。",
+    "publishedAt": "2026-10-14",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-us-military-s-race-to-make-fake-blood-1791968400000",
     "title": "The US military’s race to make fake blood",
     "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
@@ -14,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-scimplify-raises-25m-to-challenge-china-8217-s-grip-on-criti-1791975600000",
-    "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "id": "news-deezer-will-soon-let-you-filter-out-ai-generated-music-1791990964000",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +106,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workday-brings-autopilots-to-hiring-payroll-in-autonomous-ai-1791921480000",
-    "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-    "link": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
-    "summary": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
-    "publishedAt": "2026-10-13",
+    "id": "news-hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellnes-1791991260000",
+    "title": "HR leaders may be able to use AI to improve employee wellness",
+    "link": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
+    "summary": "Nearly half of workers have been reluctant to use artificial intelligence, but a study from Gartner found the technology may be useful in identifying burnout.",
+    "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,16 +133,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-20-1791975169000",
-    "title": " 方圆3公里能开出20家：网吧复兴了，但未必赚钱 ",
-    "link": "https://www.huxiu.com/article/4897523.html?f=rss",
-    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 “这两年扩店的速度太快了，最近我这3公里内马上又要再开4家店，算下来3公里内已经要超过20家了，都是近两年开出来的。” 蒋文隆（化名）说的店是指网吧，作为一名开了八年网吧的老板，他这些年与人合伙开的网吧从最开始的1家变成了17家。 或许在很多人的印象里，网吧已经成了时代的眼泪。毕竟，手机人手一台，家里千兆宽带，谁还花钱去上网？ 但数据显示，网吧可能还是一门赚钱的生意。中国互联网上网服务行业协会此前发布的数据显示，2023年至2025年，我国网吧的数量从7.7万家增长到12.26万家，行业营收规模也从534亿元增长到1016.8亿元。 疫情之后，网吧这个行业正在快速复兴。 网吧这个行业现在变成什么样了，它还是一门好生意吗？为了探究这些问题，知危联系了多名网吧老板、相关行业分析师，试图去了解网吧是如何重新翻红，又经历了怎样的变化。 “疫情刚结束那会，开家店成本很低，只需要投资两百来万，而且六到九个月左右就能回本。”蒋文隆说道。 当时他接下了别人转让的店，简单装修就重新开业了。之后这几年里，各种价位的店他都有尝试，从最下沉的买饮品免费上网，到中等的包间为主的工厂、社区店，再到深圳市中心的精品店，“基本所有价位都摸索过。” 蒋文隆告诉我们，其中回本最快的是高端精品店，主打高性能，“店里装修要好，设计要费点心思，外设要用市面上最主流",
+    "id": "news-5-87-ai-1791993799000",
+    "title": " 网飞豪掷近5.87亿押注AI，换回全网差评？ ",
+    "link": "https://www.huxiu.com/article/4897604.html?f=rss",
+    "summary": "本文来自微信公众号： 娱乐资本论 ，作者：娱子酱团队 10月9日，本·阿弗莱克自导自演的新片《人性本兽》（Animals）登陆Netflix。影片后期制作使用了他的AI技术公司InterPositive研发的工具。上映前，阿弗莱克公开承认影片有多处使用了AI，但拒绝透露具体镜头。这使他成为首位公开承认在电影制作中深度使用AI的奥斯卡级导演。不过，影片上线后口碑并不理想，截至目前，《人性本兽》在烂番茄的影评人新鲜度仅为33%，观众爆米花指数为42%；Metacritic评分只有33分。从最终呈现来看，观众也很难直观辨认出AI参与制作的痕迹。 今年以来，从Seedance生成汤姆·克鲁斯与布拉德·皮特打斗的短片引发的版权争议，到马丁·斯科塞斯、丹尼·博伊尔等导演尝试用AI做预演、完成镜头。好莱坞对这项技术的态度已经很难用简单的“支持”或“反对”来概括了。阿弗莱克选择了一条中间路线，将AI引入电影制作，同时限制其使用范围，以回应行业对版权、创作者权益和技术应用边界的担忧。 《人性本兽》是创新还是噱头？ 围绕《人性本兽》，媒体最关注的焦点，是AI究竟如何参与电影制作。在接受TheWrap采访时，本·阿弗莱克披露了《人性本兽》使用AI的具体方式。AI主动调整镜头的灯光和光学效果，以及移除部分视觉特效元素。在他看来，未来的电影制作不能完全不用AI，也不能全盘交给AI生成。技术应当服务于既有的制",
     "publishedAt": "2026-10-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -93,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-justice-department-says-north-koreans-have-infiltrated-dozen-1791941442000",
-    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-    "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-    "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+    "id": "news-save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the--1791990804000",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco&#8217;s Moscone West",
+    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
     "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
@@ -106,11 +186,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roofer-sues-after-allegedly-being-told-no-one-pays-overtime--1791921420000",
-    "title": "Roofer sues after allegedly being told ‘no one pays overtime in construction work’",
-    "link": "https://www.hrdive.com/news/roofer-sues-after-allegedly-being-told-no-one-pays-overtime-in-constructio/832884/",
-    "summary": "While it is common for certain salaried workers to be exempt from the FLSA&rsquo;s overtime requirement, blue-collar workers are nonexempt.",
-    "publishedAt": "2026-10-13",
+    "id": "news-cost-of-living-blocks-career-growth-employees-say-1791991260000",
+    "title": "Cost of living blocks career growth, employees say",
+    "link": "https://www.hrdive.com/news/cost-of-living-blocks-career-growth-employees-say/832971/",
+    "summary": "Workers often pay out of pocket for some training &mdash; but most would spend no more than $2,500 to prepare for a new career, Penn Foster found.",
+    "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -129,19 +209,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791974888000",
-    "title": " 韩束第三代红蛮腰上市，上美背后的流量与单品依赖 ",
-    "link": "https://www.huxiu.com/article/4897521.html?f=rss",
-    "summary": "本文来自微信公众号： 妍读商业 ，作者：齐思，编辑：｜李晨彤 韩束第三代小蛮腰来了。 10月10日,韩束在上海东方美谷召开发布会，官宣第三代红蛮腰。 红蛮腰是韩束的核心单品，定位25+抗初老。此次第三代由单肽升级为365环肽三重肽，从单点淡纹升级为全链路系统抗老。 官方称28天外观年来-3.3岁、6小时激活14达胶原蛋白,数据来源于品牌临床测评和人体实验数据。 韩束是上美股份的主品牌也是营收主要来源。根据财报数据，2025年总营收91.78亿元，韩束贡献了73.6亿元，占总营收的80.2%。 2026年上半年上美营收37.56亿元,同比降约8.56%。归母净利润约1.08亿元，较上年同期的5.24亿元跌幅达79.39%。 截止10月14日收盘,上美股份收盘价为21.7港元，跌0.91%，总市值约84.96亿港元。股价从年初至今跌幅达69.84%。 另据港交所披露，上美股份已连续回购11天，累计226.26万股4812.49万港币，区间20.26至22.50港元。 一、365环肽与红蛮腰的业务体量 365环肽由三种环肽构成，环三肽-5、环五肽-4和环六肽-9（二代红蛮腰的核心成分）。 环三肽-5能促进胶原蛋白生成,环五肽-4能加强表皮和真皮的连接，环六肽-9能养护胶原弹性纤维网。 环肽与普通线形肽相比呈现首尾相连的闭合环形结构，稳定性更强，在皮肤表面停留时间更长，耐酶解、透皮更好，也",
-    "publishedAt": "2026-10-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -172,23 +239,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-science-corporation-implants-its-vision-restoring-chip-in-it-1791933211000",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "publishedAt": "2026-10-13",
+    "id": "news-zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-w-1791990480000",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+    "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-shrm-loses-service-dog-trial-owes-former-job-applicant-400k-1791921420000",
-    "title": "SHRM loses service dog trial, owes former job applicant $400K",
-    "link": "https://www.hrdive.com/news/shrm-loses-service-dog-trial-owes-former-job-applicant-400k/832883/",
-    "summary": "While SHRM strongly decried the decision and said it was considering an appeal, attorneys for the plaintiff vowed to &ldquo;vigorously defend&rdquo; the judgment.",
+    "id": "news-workday-brings-autopilots-to-hiring-payroll-in-autonomous-ai-1791921480000",
+    "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
+    "link": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
+    "summary": "The company said its latest tools will anticipate needs and take actions across finance and HR workflows, with customer-defined controls.",
     "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
@@ -208,19 +276,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791974748000",
-    "title": " 海外瑜伽品牌在中国的“抢椅子” 游戏 ",
-    "link": "https://www.huxiu.com/article/4897522.html?f=rss",
-    "summary": "本文来自微信公众号： Vogue Business ，作者：Magic Li，编辑：EvelynWang，原文标题：《海外瑜伽品牌在中国的 “抢椅子” 游戏》 刚刚过去的九月，Alo正式进入中国市场，紧随其后，Nike SKIMS也登陆国内，运动与贴身时尚的赛道迎来新玩家。 8月，品牌上线天猫官方旗舰店，开售后迅速引发关注：目前销量靠前的单品中，多款为赵露思同款，其中一条售价1,150元的直筒裤销量已超过1万件。相比Lululemon，Alo在中国的定价普遍更高，甚至已经将产品边界延伸至高端皮具——去年9月推出的首个高端皮具系列，售价最高达到3,600美元。 Alo想卖的显然已经不只是瑜伽服。 从运动功能到通勤、休闲，再到社交与日常生活，瑜伽服正在成为一种更广泛的生活方式消费。而Alo的入场，只是这场变化露出的一个切口。 过去一年，越来越多海外瑜伽与运动生活方式品牌开始加速进入中国：Vuori加快门店布局，XEXYMIX扩大中国线下网络，Sweaty Betty在本土运营商接手后重新回归，Nike与SKIMS联手打造的Nike SKIMS，也将运动与时尚的交叉进一步推向市场。 与此同时，曾经几乎定义了中国瑜伽服市场的Lululemon，也开始面对新的增长压力。这意味着，中国瑜伽服市场正在发生一场关键变化：当品类教育基本完成，当消费者已经知道什么是瑜伽服，下一阶段的竞争便不再是谁能把",
-    "publishedAt": "2026-10-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -252,23 +307,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cerebras-ceo-says-we-8217-re-nearing-a-future-where-everyone-1791932734000",
-    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "publishedAt": "2026-10-13",
+    "id": "news-floqer-8217-s-ai-agents-research-sales-prospects-so-teams-do-1791990000000",
+    "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
+    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "publishedAt": "2026-10-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-capability-anxiety-may-be-pulling-companies-down-1791908580000",
-    "title": "‘Capability anxiety’ may be pulling companies down",
-    "link": "https://www.hrdive.com/news/capability-anxiety-may-be-pulling-companies-down/832860/",
-    "summary": "Only 30% of the more than 500 employers surveyed by WTW said they&rsquo;ve established processes for identifying and tracking worker skills.",
+    "id": "news-roofer-sues-after-allegedly-being-told-no-one-pays-overtime--1791921420000",
+    "title": "Roofer sues after allegedly being told ‘no one pays overtime in construction work’",
+    "link": "https://www.hrdive.com/news/roofer-sues-after-allegedly-being-told-no-one-pays-overtime-in-constructio/832884/",
+    "summary": "While it is common for certain salaried workers to be exempt from the FLSA&rsquo;s overtime requirement, blue-collar workers are nonexempt.",
     "publishedAt": "2026-10-13",
     "source": "HR Dive",
     "tags": [
@@ -292,102 +348,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1791973623000",
-    "title": " AI影视公司，恐是空中楼阁 ",
-    "link": "https://www.huxiu.com/article/4897515.html?f=rss",
-    "summary": "本文来自微信公众号： 壹娱观察 ，作者：壹叔团队 用AI大模型拍的电影尚未走入院线，“AI影视公司”已经开始被当作一种新的产业物种来讨论。 过去一两周里，Utopai成为这类叙事的新主角。 视频生成模型登上评测榜单前列，制作平台向专业团队开放，原创电影与剧集陆续进入项目名单，围绕这家公司的报道，很容易让人产生一种印象：一家同时拥有技术能力和内容能力的新制片厂，已经准备好接管影视业的未来。 Utopai定制视频模型Utopai X排全球第二 这样的故事自然讨喜。 技术行业需要找到模型能力之外的应用出口，影视行业则急于摆脱制作成本和项目回报的双重压力。 一家“AI影视公司”，似乎刚好可以满足双方的期待。 现实是把制作成本降下来，与把影视生意做起来，中间恐怕还隔着相当长的距离。 所谓“AI影视公司”最值得怀疑的地方，正在于它把一种生产方式，包装成了一种独立的商业身份，仿佛只要掌握了生成影像的能力，创作、制作、发行乃至观众，就都会顺着这条技术路线自动到来。 事实上，在一个影像供给已经极其丰富的时代，制造更多内容并非什么稀缺能力。真正困难的，依然是让一部作品获得关注，让观众愿意花时间，最后让投入变成收入。 从这个意义上说，“AI影视公司”大概并不是一个真概念。它可以成为融资时的标签，却很难成为影视生意成立的理由。 01 AI影视公司的尽头 还是特效公司 先看看“AI影视公司”Utopai的技",
-    "publishedAt": "2026-10-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1791973839000",
     "title": "康方生物折价配股：钱拿到了，股价却砸了",
     "link": "https://www.tmtpost.com/8168521.html",
     "summary": "还没等港股开盘，康方生物的投资者就遭遇“当头棒喝”。",
-    "publishedAt": "2026-10-14",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-moon-city-problems-and-drone-traffic-controller-1791807000000",
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
-    "publishedAt": "2026-10-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-industrial-next-wants-factory-robots-to-switch-tasks-in-minu-1791932400000",
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-    "publishedAt": "2026-10-13",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hr-leaders-feel-positive-about-their-outlook-but-can-t-back--1791905100000",
-    "title": "HR leaders feel positive about their outlook, but can’t back it up with numbers",
-    "link": "https://www.hrdive.com/news/hr-leaders-feel-positive-about-their-outlook-but-cant-back-it-up-with-num/832807/",
-    "summary": "A 2026 report from Betterworks shows a quantitative disconnect between HR&rsquo;s optimism and demonstrated proof of concept for outcomes, suggesting HR should buckle down on data.",
-    "publishedAt": "2026-10-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-memsilicon-1t4r-1gb-rram-1791959040000",
-    "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-    "link": "https://www.qbitai.com/2026/10/503198.html",
-    "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-    "publishedAt": "2026-10-14",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791973372000",
-    "title": " 康方配股引发恐慌？医药板块集体重挫 ",
-    "link": "https://www.huxiu.com/article/4897514.html?f=rss",
-    "summary": "本文来自微信公众号： 深蓝观 ，编辑：又一，作者：深蓝观团队 10月以来，港股医药板块没能延续此前的修复行情，再度承压回落。今天，康方又投下一颗深水炸弹。 10月14日，康方盘前公告以每股97.76港元配售2000万股，募资总额约19.55亿港元。配售价较前一日收市价105港元折让约6.9%，这个折价既让全体老股东被摊薄约2.13%，又让投资者预期股价会向配售价靠拢而提前抛售。 截至收盘，康方收报94.9港元、跌9.62%，跌幅已经超过了6.9%的折让率。作为港股创新药的权重龙头之一，康方突然折价配售，也进一步放大了原本已经脆弱的板块情绪，恒生生物科技指数当天继续下跌3.13%。 康方着实出了一招险棋。 -01- 康方配股的问题出在哪？ 康方生物并不算缺钱。 截至2026年6月30日，康方现金、现金等价物、定期存款及理财产品合计91.60亿元。 但康方仍处于烧钱阶段。 2026年上半年，康方经营开支总额达19.16亿元，其中研发开支已攀升至7.83亿元。支出中最重的一块，是依沃西。依沃西在全球已开展超过17项III期临床研究，其中6项为国际多中心注册性III期，7项为头对头PD-1/L1疗法。 除临床试验投入外，康方还需为依沃西的全球商业化承担生产供应。 公司官方给出的理由是\"临床管线产品研发进度加快加上商业化活动扩展，导致产生额外资金需求\"，这既是官方表述，也是客观事实。 问题在",
-    "publishedAt": "2026-10-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1791971394000",
-    "title": "全球汽车业百年三次大出清，留下的五条生存法则",
-    "link": "https://www.tmtpost.com/8168072.html",
-    "summary": "以史为鉴，可知兴替",
     "publishedAt": "2026-10-14",
     "source": "钛媒体",
     "tags": [
@@ -1002,4 +966,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-14T11:06:07.110Z';
+export const dataFetchedAt = '2026-10-14T16:26:34.273Z';

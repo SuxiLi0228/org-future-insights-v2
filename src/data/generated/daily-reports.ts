@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-15-auto",
+    "date": "2026-10-15",
+    "session": "auto",
+    "title": "2026-10-15 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-15-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: faking blood and the future of batteries",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
+      },
+      {
+        "id": "sig-2026-10-15-auto-2",
+        "emoji": "💡",
+        "title": "Prismm helps banks keep inherited money in-house",
+        "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+        "detail": "来源: TechCrunch。With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/"
+      },
+      {
+        "id": "sig-2026-10-15-auto-3",
+        "emoji": "💡",
+        "title": "More ‘even-handed’: Understanding EEOC’s direction on national origin bias",
+        "summary": "Under Trump 2.0, the agency has shifted its focus to anti-American bias rather than discrimination against immigrants.",
+        "detail": "来源: HR Dive。Under Trump 2.0, the agency has shifted its focus to anti-American bias rather than discrimination against immigrants.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/more-even-handed-understanding-eeocs-approach-to-national-origin-bias/832269/"
+      },
+      {
+        "id": "sig-2026-10-15-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：ChunkAct: Action Chunking for Agentic Robotics...",
+        "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th",
+        "detail": "作者: Bingxin Xu, Wenrui Bao, Xinxin Liu。Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every primitive requires a round of LLM reasoning over the full interaction history, so the cost of an episode grows with the number of primitives. We find this reasoning largely redundant: once a sub-goal is chosen, its primitives follow a routine already prescribed by memory. We present ChunkAct, which introduces action chunking to agentic robotics. Online, a single call launches a chunk of chained primitives, which executes autonomously and returns control only upon failure. Offline, Chu",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.18874v1"
+      },
+      {
+        "id": "sig-2026-10-15-auto-5",
+        "emoji": "💼",
+        "title": "Bjak  正在招募 Technical Product Manager AI Stockbroking App",
+        "summary": "岗位类型：业务+AI 复合岗。About KIRA Our mission is to make money smart, reliable and within reach for everyone",
+        "detail": "技能要求: LLM。About KIRA Our mission is to make money smart, reliable and within reach for everyone Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region Today, it's the leading insurance platform in Southeast Asia Â Today, we are e",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Bjak "
+        ],
+        "sourceType": "tech",
+        "sourceName": "Bjak ",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-15-1",
+        "priority": "medium",
+        "action": "关注「The Download: faking blood and the futur」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-15-2",
+        "priority": "low",
+        "action": "关注「Prismm helps banks keep inherited money 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-15-3",
+        "priority": "low",
+        "action": "关注「More ‘even-handed’: Understanding EEOC’s」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-15-4",
+        "priority": "medium",
+        "action": "关注「研究速递：ChunkAct: Action Chunking for Agent」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-15-5",
+        "priority": "medium",
+        "action": "关注「Bjak  正在招募 Technical Product Manager AI 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Bjak "
+      }
+    ],
+    "sourceCoverage": {
+      "total": 56,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-15 生成，聚合了 27 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-10-15 00:00 - 2026-10-15 23:59"
+  },
+  {
     "id": "report-2026-10-14-auto",
     "date": "2026-10-14",
     "session": "auto",
