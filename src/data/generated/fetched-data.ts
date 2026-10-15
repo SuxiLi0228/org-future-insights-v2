@@ -14,29 +14,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-agents-are-coming-to-rivian-8217-s-cars-1792076556000",
-    "title": "AI agents are coming to Rivian&#8217;s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+    "id": "news-amazon-devices-chief-panos-panay-on-the-importance-of-failur-1792096693000",
+    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-leaders-say-they-are-worried-about-their-ability-to-handle-c-1792075380000",
-    "title": "Leaders say they are worried about their ability to handle change",
-    "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
-    "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
+    "id": "news-walmart-plans-to-offer-employees-free-prescriptions-paid-nic-1792082160000",
+    "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
+    "link": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
+    "summary": "The news comes as employers prepare for nearly double-digit health insurance price increases and many plan to shift some of those costs to workers.",
     "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -49,6 +51,19 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-200-1792080921000",
+    "title": " 光大环境连拿两座200吨小炉，小型焚烧市场前景如何？ ",
+    "link": "https://www.huxiu.com/article/4897880.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去十几年，垃圾焚烧行业有一套成熟的增长逻辑：建更大的厂，处理更多垃圾，获得更长的运营期限。 一座垃圾焚烧厂，只要垃圾量足够稳定，既能获得处理费，又能通过发电获得收益。规模越大，设备、人员和环保设施的成本越容易摊薄，项目的经济性通常也越好。这套逻辑支撑了行业的高速发展，也成就了光大环境等一批龙头企业。 但最近，光大环境的两笔小项目值得关注。 9月28日，青海海南州贵德县温泉生活垃圾焚烧发电项目公布中标结果，由光大环境旗下设计研究院牵头的联合体，以约2.04亿元中标。项目规模只有200吨/日，配置一台4兆瓦发电机组。 此前，光大环境还中标了同在海南州的塔拉滩项目，同样是200吨/日，中标金额约1.79亿元。 两座厂加起来只有400吨/日。对于垃圾焚烧设计处理规模已超过16万吨/日的光大环境来说，这点新增规模并不显眼。 更值得注意的是，两个项目都采用EPC+O模式，包含设计、采购、施工和三年运营；招标文件列明的建设资金均为财政资金，出资比例100%。这与企业自己投资建厂、长期持有运营的传统BOT模式不同。 当大型焚烧市场逐渐成熟，行业龙头开始进入更小、更分散的县域市场。问题不只是炉子能不能做小，而是：过去依靠规模和长期资产运营形成的生意，到了这些地方还算不算得过来账？ 垃圾焚烧剩下的市场 往往也是最难赚钱的市场 回头看上一轮垃圾焚",
+    "publishedAt": "2026-10-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
       "technology"
     ]
   },
@@ -79,31 +94,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai-1792075629000",
-    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-    "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-    "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+    "id": "news-meta-launches-an-open-weight-ai-model-that-runs-on-macs-1792094693000",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ceos-want-enterprise-chros-who-can-talk-strategy-and-skills--1792075380000",
-    "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
-    "link": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
-    "summary": "As AI transforms work, enterprise CHROs in high-performing companies are partnering with senior tech leaders, according to Heidrick &amp; Struggles.",
+    "id": "news-leaders-say-they-are-worried-about-their-ability-to-handle-c-1792075380000",
+    "title": "Leaders say they are worried about their ability to handle change",
+    "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
+    "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
     "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "strategy"
+      "workforce"
     ]
   },
   {
@@ -146,30 +160,32 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-universal-cart-shopping-tool-launches-in-the-us-1792074573000",
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "id": "news-amazon-devices-chief-panos-panay-sees-a-future-where-ai-devi-1792094125000",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost--1792009500000",
-    "title": "Robots can handle a third of physical jobs — but not yet cost-effectively, Anthropic says",
-    "link": "https://www.hrdive.com/news/robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost-effectively-an/833042/",
-    "summary": "About 300,000 jobs are exposed today; 2.8 million could be at risk in seven years, says an analysis by the AI company.",
-    "publishedAt": "2026-10-14",
+    "id": "news-ceos-want-enterprise-chros-who-can-talk-strategy-and-skills--1792075380000",
+    "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
+    "link": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
+    "summary": "As AI transforms work, enterprise CHROs in high-performing companies are partnering with senior tech leaders, according to Heidrick &amp; Struggles.",
+    "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -212,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-disrupt-2026-last-day-1792072800000",
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+    "id": "news-bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-1792092545000",
+    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+    "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
@@ -225,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-time-spent-waiting-to-work-is-compensable-if-required-appeal-1792009500000",
-    "title": "Time spent waiting to work is compensable if required, appeals court rules",
-    "link": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
-    "summary": "Lidl employees can continue with their allegations they were required to report to work but couldn&rsquo;t clock in until a manager unlocked the store.",
+    "id": "news-robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost--1792009500000",
+    "title": "Robots can handle a third of physical jobs — but not yet cost-effectively, Anthropic says",
+    "link": "https://www.hrdive.com/news/robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost-effectively-an/833042/",
+    "summary": "About 300,000 jobs are exposed today; 2.8 million could be at risk in seven years, says an analysis by the AI company.",
     "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
@@ -278,24 +294,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-8217-s-bee-launches-two-new-personal-ai-devices-start-1792065600000",
-    "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
-    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+    "id": "news-anthropic-is-letting-metr-researchers-look-under-the-hood-wi-1792091666000",
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "ecommerce"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-mailbag-how-can-hr-keep-track-of-employees-credentials-1792009500000",
-    "title": "Mailbag: How can HR keep track of employees’ credentials?",
-    "link": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
-    "summary": "Artificial intelligence could have multiple potential applications in this space, according to HR industry veteran Josh Bersin.",
+    "id": "news-time-spent-waiting-to-work-is-compensable-if-required-appeal-1792009500000",
+    "title": "Time spent waiting to work is compensable if required, appeals court rules",
+    "link": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
+    "summary": "Lidl employees can continue with their allegations they were required to report to work but couldn&rsquo;t clock in until a manager unlocked the store.",
     "publishedAt": "2026-10-14",
     "source": "HR Dive",
     "tags": [
@@ -906,4 +922,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-15T16:14:34.554Z';
+export const dataFetchedAt = '2026-10-15T20:53:40.906Z';
