@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-16-auto",
+    "date": "2026-10-16",
+    "session": "auto",
+    "title": "2026-10-16 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-16-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
+      },
+      {
+        "id": "sig-2026-10-16-auto-2",
+        "emoji": "💡",
+        "title": "AI agents are coming to Rivian&#8217;s cars",
+        "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+        "detail": "来源: TechCrunch。We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+      },
+      {
+        "id": "sig-2026-10-16-auto-3",
+        "emoji": "⚠️",
+        "title": "Leaders say they are worried about their ability to handle change",
+        "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
+        "detail": "来源: HR Dive。Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/"
+      },
+      {
+        "id": "sig-2026-10-16-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Modeling and Understanding Neural Weights of Humanoid Polici...",
+        "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr",
+        "detail": "作者: Huixuan Cheng, Bike Zhang, Shankar Sastry。Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-performing humanoid control networks can be generatively modeled directly through their weights. We adopt a latent diffusion framework that couples a linear autoencoder with a Diffusion Transformer. The autoencoder compresses actor network parameters into a compact latent space, and the Diffusion Transformer models the distribution of these latents. ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.20606v1"
+      },
+      {
+        "id": "sig-2026-10-16-auto-5",
+        "emoji": "💼",
+        "title": "iMerit Technology 正在招募 AI Trainer",
+        "summary": "岗位类型：业务+AI 复合岗。Remote | Independent Contractor | Get certified for future project opportunities Prove your skills",
+        "detail": "技能要求: 未标注。Remote | Independent Contractor | Get certified for future project opportunities Prove your skills Get certified Be ready for what comes next Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit Technology"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit Technology",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-16-1",
+        "priority": "medium",
+        "action": "关注「The Download: reviving frozen pig kidney」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-16-2",
+        "priority": "low",
+        "action": "关注「AI agents are coming to Rivian&#8217;s c」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-16-3",
+        "priority": "medium",
+        "action": "关注「Leaders say they are worried about their」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-16-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Modeling and Understanding Neural W」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-16-5",
+        "priority": "medium",
+        "action": "关注「iMerit Technology 正在招募 AI Trainer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit Technology"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 55,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-16 生成，聚合了 25 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-16 00:00 - 2026-10-16 23:59"
+  },
+  {
     "id": "report-2026-10-15-auto",
     "date": "2026-10-15",
     "session": "auto",
