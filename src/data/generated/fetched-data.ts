@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-faking-blood-and-the-future-of-batteries-1791979800000",
-    "title": "The Download: faking blood and the future of batteries",
-    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
-    "publishedAt": "2026-10-14",
+    "id": "news-how-much-more-can-nuclear-power-plants-give-1792058400000",
+    "title": "How much more can nuclear power plants give?",
+    "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+    "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a&#8230;",
+    "publishedAt": "2026-10-15",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ricursive-intelligence-is-betting-on-ai-designed-chips-to-he-1792026092000",
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+    "id": "news-figma-announces-new-features-to-define-how-agents-work-on-it-1792038600000",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "summary": "Figma is also releasing its code layers feature in open beta.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792032511000",
-    "title": " AI信贷的第一颗“雷”，要爆了？ ",
-    "link": "https://www.huxiu.com/article/4897661.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 昨夜，就在美国CPI数据抢占了主流财经媒体头条之际，华尔街专业人士真正关心和害怕的却“另有其人”： 信贷市场预测，CoreWeave五年内违约的概率高达63%…… 周三，CoreWeave债券价格快速跌至通常意味着财务陷入困境的水平，迅速引起了硅谷领袖马斯克和Chamath Palihapitiya等人的关注。 根据Trace平台的报价数据显示，这家AI云计算服务商2032年到期的无担保债券周三跌至不足面值的80%。按这一交易价格计算，该债券收益率超过15%。在Palihapitiya率先提及这一数字后，马斯克直接在社媒平台回应称“吓人”。 CoreWeave股价周三也遭到重挫，全天暴跌15.5%。 CoreWeave引爆“清零”恐慌 总部位于纽泽西州的CoreWeave，被视为最早的“新云”企业，即一批专注于蓬勃发展的AI市场的云计算服务商。 该公司业务属于资本密集型，高度依赖高收益债券市场为扩张提供资金。近几个月来，CoreWeave不得不支付更高的借贷成本才能获得融资。 DA Davidson分析师Gil Luria此前曾把CoreWeave称为AI领域的“次贷类”标的，周三他在一个播客节目中警告称，如果AI融资热潮消退，CoreWeave无力偿还利息成本高昂的债务，其股价可能跌至零。 Luria表示，CoreWeave以如此高的利",
+    "id": "news-ai-1792060874000",
+    "title": " AI把笔记本变成了爱马仕 ",
+    "link": "https://www.huxiu.com/article/4897804.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：张琳 一台笔记本电脑卖到了5万块，这个价格足以拿下爱马仕入门经典Herbag。 最近，在北京某互联网公司工作的许哲的Surface Book 2坏了，赶上微软新品发布，他打开官网一看，起售价就要21988元起，顶配的裸机价更是高达48388元，加上保修费用妥妥超过5万元。 放弃顶配，许哲选了64G的配置，再加上四年延保，结算页面跳出来，数字吓了他一跳：41776元。犹豫再三，他还是把订单退了。 不止这款被称作Surface史上最贵电脑，价格已经摸到了奢侈品的门槛，一股由AI算力驱动的涨价潮席卷PC行业，联想、戴尔、惠普等PC厂商年内调价幅度最高达20%。 手机也不遑多让，今年3月起，OPPO、vivo、华为、小米、苹果等厂商轮番上调在售机型价格，其中小米17 Ultra、华为Mate 80 Pro Max部分机型单次最高涨价1000元。 市场变化接连引爆热搜，“千元手机或将消失”“5000元以下笔记本基本绝迹”“开学三件套齐涨价家长直呼吃不消”等相关词条轮番出圈。评论区不少准大学生们吐槽“吃到了时代的黑利”。 消费者叫苦不迭，PC品牌与手机厂商的日子同样不好过。 IDC最新数据显示，2026年第三季度全球传统PC出货量为6270万台，同比下降20.1%，较第二季度环比下降9.1%。这也是全球PC市场连续第二个季度同比下滑，且跌幅较第二季度明显扩",
     "publishedAt": "2026-10-15",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792032840000",
-    "title": "这届毕业生，卡在 AI 率里",
-    "link": "https://www.tmtpost.com/8167970.html",
-    "summary": "为了证明论文是自己写的，先学会迎合AI。",
+    "id": "news-oppo-ai-manus-1792059758000",
+    "title": "OPPO决定 把 AI“外包” 给 Manus",
+    "link": "https://www.tmtpost.com/8168726.html",
+    "summary": "ColorOS 7.7亿用户，养不出一个原生Agent？",
     "publishedAt": "2026-10-15",
     "source": "钛媒体",
     "tags": [
@@ -82,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-us-military-s-race-to-make-fake-blood-1791968400000",
-    "title": "The US military’s race to make fake blood",
-    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-    "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like&#8230;",
-    "publishedAt": "2026-10-14",
+    "id": "news-six-wild-ideas-for-perpetuating-your-mind-1792054800000",
+    "title": "Six wild ideas for perpetuating your mind",
+    "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+    "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that&#8230;",
+    "publishedAt": "2026-10-15",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-ceo-defends-surveillance-technology-amid-national-back-1792025371000",
-    "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-    "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+    "id": "news-ricursive-intelligence-is-betting-on-ai-designed-chips-to-he-1792026092000",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
@@ -134,24 +134,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792031287000",
-    "title": " 一所常春藤盟校的AI 实验：帮学生找到真正适合的工作 ",
-    "link": "https://www.huxiu.com/article/4897652.html?f=rss",
-    "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Jessica Klein，原文标题：《一所常春藤盟校的 AI 实验：帮学生找到真正适合的工作》 随着AI颠覆大学毕业生找工作的方式，美国达特茅斯学院（达特茅斯学院）正在用自研AI工具武装学生，帮他们想清楚这辈子该做什么。 AI在招聘流程中的角色已经变得举足轻重，无论好坏。大学对此并非毫无察觉。 大多数高校就业指导中心一直在使用外部供应商开发的人工智能，帮助学生完成润色简历、准备面试等任务。据美国大学与雇主协会（NACE）的一项调查，截至4月，86%的美国高等教育机构报告称，在与学生一对一进行求职辅导时使用了AI。但达特茅斯学院正采取一种不同的做法。 达特茅斯学院聘请了一位首席产品官，这在常春藤盟校中是独一无二的职位，专门为学生和校友打造自研的、内部开发的AI职业辅助工具。该中心正在开发的新AI产品，旨在与学生在整个在校期间持续互动，定期询问他们的兴趣、技能和愿望，理想情况下，这将帮助他们在毕业时实现精准而成功的求职。 “我们一直以来提供的都是同一套老掉牙的东西，”达特茅斯职业设计中心执行主任Joe Catrino谈到高校职业办公室的常规服务时说。而这正是Kiley McEvoy作为首席产品官来此要改变的事情。McEvoy曾是Google高级产品经理，也是达特茅斯学院校友。 这让达特茅斯所在的新罕布什尔州汉诺威，成为一个",
+    "id": "news--1792060804000",
+    "title": " 不论我做什么，都会被父母臭骂一顿 ",
+    "link": "https://www.huxiu.com/article/4897802.html?f=rss",
+    "summary": "本文来自微信公众号： 简单心理Uni ，作者：Uni小编，原文标题：《不论我做什么，都会被父母臭骂一顿 | 如何与“扫兴式父母”共度此生？》 最近看到了一个视频，一个22岁的女孩和她父母的生活日常，他们住在一个简陋的单间房子里，过着不富裕的生活，但是这一家三口，每天都是高高兴兴的。 女儿嘴馋了，就和妈妈大晚上一起吃冰棍； 女儿心血来潮画个奇怪的妆，爸爸哈哈一笑； 女儿和爸爸一起喝好喝的奶茶，带父母一起吃好吃的，不会被说浪费钱； 女儿化妆一小时，妈妈在旁边刷着小视频，一点也不急； 妈妈和女儿躺在床上聊大天，犹如闺蜜好朋友...... 在这个视频里，你能感受到一家人的和谐气氛，女儿无论做什么，爸爸妈妈都是一脸欢喜地看着孩子，真的是女儿的头号粉丝。 这个视频展现出了父母对孩子的欣赏和接纳，我想这就是大家经常说的“无条件的爱”。 在这个视频下面看到了大家一片羡慕和感叹，这是多么让孩子们艳羡的父母之爱啊，孩子在一时兴起做的所有事情，都能被父母接纳与回应，这就是让孩子期待与喜欢的，不扫兴的父母。 不过，更多人都在感慨的是，自己拥有的是“扫兴式父母”。 孩子带父母吃好吃的，被父母唠叨花钱多了； 孩子满怀期待画个漂亮的妆，被父母说“很丑”； 孩子精心准备给父母一个惊喜的生日仪式，被父亲指责为“乱七八糟”...... 所有这些都让孩子们伤心，自己一腔热血做点开心的事儿，却被父母的不理解搞得心情沮丧。",
     "publishedAt": "2026-10-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1792032480000",
-    "title": "固态电池，别只盯着宁德时代了",
-    "link": "https://www.tmtpost.com/8169297.html",
-    "summary": "产业突破带来的高增长，未必只属于台前的主角。",
+    "id": "news-7-8-278-pe-1792059688000",
+    "title": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？",
+    "link": "https://www.tmtpost.com/8168985.html",
+    "summary": "净利降三成，机构定增浮亏24%，奥比中光冲刺港股胜算几何？",
     "publishedAt": "2026-10-15",
     "source": "钛媒体",
     "tags": [
@@ -162,11 +161,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-open-model-trade-offs-and-geothermal-power-s-pr-1791892800000",
-    "title": "The Download: open model trade-offs and geothermal power’s promise",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
-    "publishedAt": "2026-10-13",
+    "id": "news-pig-kidneys-that-were-frozen-for-a-year-have-been-brought-ba-1792053804000",
+    "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+    "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+    "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one&#8230;",
+    "publishedAt": "2026-10-15",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -174,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-the-five-companies-competing-in-the-startup-battlefield-1792024200000",
-    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-    "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+    "id": "news-flock-ceo-defends-surveillance-technology-amid-national-back-1792025371000",
+    "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+    "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
@@ -214,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-40g-1792030923000",
-    "title": " 阿里的秘密藏在40g里 ",
-    "link": "https://www.huxiu.com/article/4897642.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜千问AI硬件发布会现场 又一家大模型巨头，开始加码AI硬件。 10月13日，阿里巴巴旗下千问正式发布AI眼镜N1、N1 Pro，以及AI耳夹式耳机三款新品。阿里方面表示，这三款硬件就是想让Personal Agent进入用户的日常生活，让硬件成为唤起Agent的新入口。此外，虎嗅现场了解到，千问未来还计划推出更多硬件形态。 目前三款产品均已开启现货销售。其中，叠加国补及限时优惠后，AI眼镜N1标准套装到手价2218元起，N1 Pro为2600元起，AI耳夹式耳机首销价1099元。 这是阿里继去年推出夸克AI眼镜、今年3月发布千问AI眼镜G1之后，再次扩充AI硬件产品线。 阿里巴巴集团千问事业部副总裁宋刚在发布会上表示，千问的目标是成为每个人的Personal Agent，AI穿戴则是千问在物理世界的延伸。 从Meta、Google到小米、雷鸟，越来越多厂商开始争夺AI硬件市场。当大模型逐渐从手机App走向用户的眼睛和耳朵，阿里也开始争夺下一代AI入口。 但从硬件成为AI入口，到真正能够替用户完成任务，中间还有不小的距离。 AI硬件，离Personal Agent还有多远？ 在杭州阿里巴巴西溪园区的展台上，虎嗅体验了千问最新发布的AI眼镜和耳机。 这副重量约40克的黑框眼镜，外观看起来与普通近视眼镜并没有太大区别，但镜腿里集成了芯片",
+    "id": "news-50-1792060616000",
+    "title": " 亿航被曝裁员50%背后，低空行业面临商业化大考 ",
+    "link": "https://www.huxiu.com/article/4897799.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰 2025年，低空经济还是风口上最亮的赛道：政策密集出台，地方竞相布局，资本蜂拥而至。 一年之后，聚光灯已不再，全国各大展会上，eVTOL（电动垂直起降器）的身影越来越少。行业龙头亿航智能新一轮裁员传闻，正是这场冷热交替中最直观的注脚。 近日，有媒体爆料，其从多个独立渠道获悉，某家曾估值超百亿元的低空独角兽企业持续裁员，比例超50%，部分信息源甚至指向裁员80%。 观察者网从多方信息交叉比对后确认，传闻指向亿航智能。 至于这轮调整是否为7月裁员的后续动作，目前尚不确定。亿航相关人士向观察者网称，“不清楚”是否持续裁员，并表示自己身边的一切工作照常、未发生大幅变化。 公司层面则未就裁员传闻作出新的公开表态。 无论裁员传闻是否坐实，行业层面发生的变化已经是实实在在的。 回看7月中旬，同样的传闻已发酵过一轮，当时亿航方面回应称，开展组织效能优化与人才结构焕新属正常管理动作，基于AI提效背景、聚焦低绩效岗位，核心骨干团队保持稳定。但未就裁员比例进行明确回应。 财报数据揭示了这场调整背后的经营现实。 2026年上半年，亿航总收入1.04亿元，同比下滑25.7%；其中二季度收入7788.7万元，环比增长203.5%，同比则下滑31.3%。当季交付eVTOL共36架，包括35架EH216系列和1架VT35——一季度这一数字仅为4架，而2025年同期交",
     "publishedAt": "2026-10-15",
     "source": "虎嗅",
     "tags": [
@@ -228,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792032060000",
-    "title": "又见广撒网式投资，腾讯近两年最看重的赛道屡出手",
-    "link": "https://www.tmtpost.com/8169279.html",
-    "summary": "低调地布局十多年了。",
+    "id": "news-ai-1792059684000",
+    "title": "AI搞科研，到底在替谁打工？",
+    "link": "https://www.tmtpost.com/8170092.html",
+    "summary": "AI 在科研里到底替谁打工？替博士生打工，替教授打工，替药企的现金流打工，也替人类文明里最贵的东西打工——时间。",
     "publishedAt": "2026-10-15",
     "source": "钛媒体",
     "tags": [
@@ -242,11 +241,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-open-models-have-real-benefits-do-they-outweigh-the-risks-1791885600000",
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
-    "publishedAt": "2026-10-13",
+    "id": "news-the-download-faking-blood-and-the-future-of-batteries-1791979800000",
+    "title": "The Download: faking blood and the future of batteries",
+    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+    "publishedAt": "2026-10-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -254,17 +253,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gudea-leverages-ai-to-help-organizations-prevent-social-medi-1792022400000",
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+    "id": "news-meet-the-five-companies-competing-in-the-startup-battlefield-1792024200000",
+    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+    "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -295,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792030736000",
-    "title": " 白天不许遛狗，这条旧规让舆论场撕裂了 ",
-    "link": "https://www.huxiu.com/article/4897647.html?f=rss",
-    "summary": "本文来自微信公众号： 冰川思享号 ，作者：侯虹斌，原文标题：《白天不许遛狗！这条旧规让舆论场撕裂了》 猫狗这些宠物，现在已是人类最重要的陪伴动物，这是长期演变来的，不可能禁止。许多宠物已成为养育者的家人，也是人们情感非常重要的寄托。 前几天刷到一条帖子，有网友发文称，自家在杭州养的狗白天没法出门、见不到太阳。话题很快引发网友讨论，这份养犬规定，也随之冲上热搜。 如今城市养犬人群持续增多，人犬之间的矛盾也频频引发热议。媒体走访不少杭州居民后发现，杭州现行的《杭州市限制养犬规定》制定于三十年前，至今仍在执行，市民对此看法褒贬不一。 一座城市的养犬条例，恰恰折射出当下大众对待宠物犬的复杂心态。 网络上，大众对待猫狗存在不少对立的极端观点，看法撕裂。落到现实生活里，如何在保障公共安全的前提下，让养宠家庭与不养宠的居民都能各得其乐，其中还有不少细节需要权衡。 01 这份1996年1月1日实施的《杭州市限制养犬规定》，常被称作“杭州限狗令”，属于地方性法规，最后一次修订是在2004年，该规定至今有效。其中争议最大的一条内容： 允许携带小型观赏犬出户的时间为19时至次日7时。犬在户外排泄粪便的，携犬人应当立即予以清除。 简单来说，小型观赏犬白天不允许外出遛放。 正是这一条款引发巨大争议。 有居民表示，白天街上确实很少见到遛狗的人；但也有养犬市民说，现实里不少人会早起遛狗，周末带狗狗去公园草坪游玩",
+    "id": "news--1792059951000",
+    "title": " 没有“金九银十”了 ",
+    "link": "https://www.huxiu.com/article/4897796.html?f=rss",
+    "summary": "本文来自微信公众号： 超电实验室 ，作者：王磊，编辑：秦章勇 往年的九月、十月，是拉动车市上行的重要窗口期，行业默认一套简单的逻辑：新能源销量走高，市场热度同步水涨船高。 今年，这个经验似乎失效了。 根据乘联会数据，9月乘用车零售仅161.8万辆，同比跌幅扩大至28%，创下今年以来零售同比最大跌幅。虽然环比8月有5%的小幅修复，但回升力度十分有限。 来自经销商的回馈更加直白，54.2%的经销商觉得今年“金九银十”的旺季明显弱于往年，33.7%说基本消失了，只有3.6%觉得比往年好。 也就是说，在近九成经销商嘴里，今年的旺季都不太旺。 而10月的开局也没有好转，10月1日到11日，全国乘用车零售45.9万辆，同比继续跌24%。 01 旺季失灵 如果复盘各大车企在刚过去的9月份销量，成绩并不算差，还有多家主流自主品牌刷新月度销量纪录。 比亚迪拿下46.36万辆，同比增长16.98%，创出年内新高，吉利汽车也创下年内历史新高，与奇瑞汽车双双站上29万辆台阶，上汽集团重回40万辆量级等。 而造车新势力这边也不差，零跑已经连续三个月站上10万辆，小鹏、小米双双突破4万辆。 不过需要注意的是，厂家对外公布的销量，并不等于消费者实际购入的销量，这需要厘清两个边界完全不同的指标，批售与零售。 汽车产业流通体系中，批售代表主机厂完成产品渠道投放，即运输到经销商门店，车企就可以计入销量并对外；而零售才",
     "publishedAt": "2026-10-15",
     "source": "虎嗅",
     "tags": [
@@ -308,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mnc-2027-1792031700000",
-    "title": "强生三季报深度拆解：MNC扫货中国资产，2027年还能否持续？",
-    "link": "https://www.tmtpost.com/8169176.html",
-    "summary": "MNC的资产饥渴仍在继续放大，中国创新药BD浪潮只是刚刚开始。",
+    "id": "news-agent-ai-1792059131000",
+    "title": "Agent热潮带火端侧AI，“奇点时刻”还有多远？",
+    "link": "https://www.tmtpost.com/8170161.html",
+    "summary": "AI从云端向边端转移的背后，是算力的下沉，以及由此带来的行业格局之变。",
     "publishedAt": "2026-10-15",
     "source": "钛媒体",
     "tags": [
@@ -322,29 +320,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-labs-are-buying-data-from-dead-startups-to-train-their-mo-1791882000000",
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
-    "publishedAt": "2026-10-13",
+    "id": "news-the-us-military-s-race-to-make-fake-blood-1791968400000",
+    "title": "The US military’s race to make fake blood",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like&#8230;",
+    "publishedAt": "2026-10-14",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-intero-biosystems-wants-drugmakers-to-test-on-mini-human-int-1792018800000",
-    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-    "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-    "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-    "publishedAt": "2026-10-14",
+    "id": "news-gudea-leverages-ai-to-help-organizations-prevent-social-medi-1792022400000",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+    "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -375,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1792030324000",
-    "title": " 多家生物医药企业撤回IPO ",
-    "link": "https://www.huxiu.com/article/4897643.html?f=rss",
-    "summary": "本文来自微信公众号： 科创板日报 ，作者：史士云 今年部分生物医药企业集中终止IPO，是产业基本面、监管尺度、二级市场风险偏好多重因素共振的结果。 2026年正式迈入第四个季度，部分生物医药企业已抵达资本市场大门口，几番权衡后，却又最终选择转身离开。 在A股，汇禾医疗和赛克赛斯相继在9月和10月分别宣布终止科创板IPO，前者从受理到撤回，整个进程历时不足3个月，是年内“闪电撤否”的典型；后者曾多次冲刺资本市场，这已是其六年间第三次折戟。 与此同时，包括天康制药、延安医药、百诺医药今年也陆续撤回北交所IPO申请。 如果把视角放大至全行业，据Wind数据统计，今年以来A股累计73起IPO撤否案例，其中三季度撤否占比近半，近五成项目在审不足一年。 从拟上市板块分布来看，撤否项目高度集中于北交所，73个项目里，北交所占41家，数量过半；上交所合计18家，含主板6家、科创板12家；深交所14家，其中深市主板5家、创业板9家。 再把视线转向港股，3家A股上市药企华恒生物（688639.SH）、诺思兰德（430047.BJ）、博瑞医药（688166.SH）均在今年终止了港股上市计划。 朴拙资本执行合伙人苗天一对《科创板日报》记者表示：“这些企业不是冲不进门，而是在临门一脚时选择了收脚。这个动作本身比‘上市失败’更值得琢磨，企业看得懂自己的账，也算得清市场的账。” ▌从A股“闪电撤单”到港股上市计",
+    "id": "news--1792059292000",
+    "title": " 国家医保局原司长熊先军：让患者看病花钱心中有数 ",
+    "link": "https://www.huxiu.com/article/4897791.html?f=rss",
+    "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 有了医保，一次住院究竟还要花多少钱？ 这个问题往往要等到账单出来，患者才有确切答案。知道报销比例，并不等于知道最终医疗负担；即使能够报销一部分费用，面对尚未确定的治疗过程，一个家庭依然可能为医疗支出而担忧。 在本期《大咖谈医疗》视频播客中，北京协和医学院讲座教授、国家医疗保障局医药服务管理司原司长熊先军，将讨论落在了这个具体问题上。在他看来，医疗保险不仅要尽可能分担费用，还应让患者对自己的医疗支出形成预期，并且提出他的方案。 作为中国医疗保障体系建设的重要参与者和亲历者，熊先军既回顾了改革走过的道路，也提出了自己的判断。其中一些观点，直接挑战了公众认知。 从“单位保障”走向全民医保， 改变的不只是报销方式 回望中国医保制度的演进，熊先军认为，医保最大的转变，是从计划经济时期的公费医疗、劳保医疗，走向覆盖全民的医疗保险制度。 在原有模式下，个人的医疗保障与所在单位紧密相连，单位的经营状况和支付能力，也影响着职工能够获得的保障。建立社会化的医疗保险制度，则让风险分担走出了单位内部，进入更广泛的社会共同体。 另一个重要变化，是保障覆盖范围的扩大。农民、企业职工、机关事业单位工作人员，都被纳入医疗保障制度的建设进程。在熊先军看来，社会化与全民覆盖，是这段改革历程中最重要的成果。 谈及改革最困难的阶段，熊先军教授提到了上世纪",
     "publishedAt": "2026-10-15",
     "source": "虎嗅",
     "tags": [
@@ -388,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792031436000",
-    "title": "公募基金市场近期关注",
-    "link": "https://www.tmtpost.com/8169503.html",
-    "summary": "货币政策方面，9月，资金面呈\"月初平稳、月中收敛、节前修复\"走势，DR001、DR007一度上行至1.43%、1.44%；央行重启14天逆回购（9月18日投1000亿元）、MLF净投2000亿元并提隔夜上限至1万亿呵护跨季，月末DR007降至1.3862%平稳跨季；Q3例会改提\"加大逆周期调节\"。",
+    "id": "news-ipo-1792058975000",
+    "title": "由盈转亏，云深处IPO依旧全靠机器狗",
+    "link": "https://www.tmtpost.com/8168901.html",
+    "summary": "偏科严重，人形机器人未起量。",
     "publishedAt": "2026-10-15",
     "source": "钛媒体",
     "tags": [
@@ -957,4 +955,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-15T03:01:03.943Z';
+export const dataFetchedAt = '2026-10-15T10:48:00.041Z';
