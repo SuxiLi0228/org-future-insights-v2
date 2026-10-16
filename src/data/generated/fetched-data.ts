@@ -14,38 +14,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-devices-chief-panos-panay-on-the-importance-of-failur-1792096693000",
-    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-    "publishedAt": "2026-10-15",
+    "id": "news-tesla-reveals-spacex-powered-roadster-that-flies-and-falls-w-1792113463000",
+    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+    "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+    "publishedAt": "2026-10-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-walmart-plans-to-offer-employees-free-prescriptions-paid-nic-1792082160000",
-    "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
-    "link": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
-    "summary": "The news comes as employers prepare for nearly double-digit health insurance price increases and many plan to shift some of those costs to workers.",
+    "id": "news-this-week-in-5-numbers-workers-would-spend-up-to-2-500-on-th-1792097460000",
+    "title": "This week in 5 numbers: Workers would spend up to $2,500 on their own training",
+    "link": "https://www.hrdive.com/news/workers-would-spend-up-to-2500-on-their-own-training/833145/",
+    "summary": "Here&rsquo;s a roundup of numbers from the last week &mdash; including how many jobs robots physically can complete on a cost-competitive basis.",
     "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-7-5-1792029380000",
-    "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-    "link": "https://www.qbitai.com/2026/10/503303.html",
-    "summary": "给企业Agent打了个样",
+    "id": "news-11-11-1792058828000",
+    "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+    "link": "https://www.qbitai.com/2026/10/503645.html",
+    "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
     "publishedAt": "2026-10-15",
     "source": "量子位",
     "tags": [
@@ -55,11 +55,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-200-1792080921000",
-    "title": " 光大环境连拿两座200吨小炉，小型焚烧市场前景如何？ ",
-    "link": "https://www.huxiu.com/article/4897880.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去十几年，垃圾焚烧行业有一套成熟的增长逻辑：建更大的厂，处理更多垃圾，获得更长的运营期限。 一座垃圾焚烧厂，只要垃圾量足够稳定，既能获得处理费，又能通过发电获得收益。规模越大，设备、人员和环保设施的成本越容易摊薄，项目的经济性通常也越好。这套逻辑支撑了行业的高速发展，也成就了光大环境等一批龙头企业。 但最近，光大环境的两笔小项目值得关注。 9月28日，青海海南州贵德县温泉生活垃圾焚烧发电项目公布中标结果，由光大环境旗下设计研究院牵头的联合体，以约2.04亿元中标。项目规模只有200吨/日，配置一台4兆瓦发电机组。 此前，光大环境还中标了同在海南州的塔拉滩项目，同样是200吨/日，中标金额约1.79亿元。 两座厂加起来只有400吨/日。对于垃圾焚烧设计处理规模已超过16万吨/日的光大环境来说，这点新增规模并不显眼。 更值得注意的是，两个项目都采用EPC+O模式，包含设计、采购、施工和三年运营；招标文件列明的建设资金均为财政资金，出资比例100%。这与企业自己投资建厂、长期持有运营的传统BOT模式不同。 当大型焚烧市场逐渐成熟，行业龙头开始进入更小、更分散的县域市场。问题不只是炉子能不能做小，而是：过去依靠规模和长期资产运营形成的生意，到了这些地方还算不算得过来账？ 垃圾焚烧剩下的市场 往往也是最难赚钱的市场 回头看上一轮垃圾焚",
-    "publishedAt": "2026-10-15",
+    "id": "news--1792118769000",
+    "title": " 从暴利到微利，中国制造如何破局？ ",
+    "link": "https://www.huxiu.com/article/4897794.html?f=rss",
+    "summary": "为什么中国人一主导某个产业马上就没利润了？",
+    "publishedAt": "2026-10-16",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-100-gpu-1792062096000",
-    "title": "100万+ 内部GPU+免费午饭，盛大想把“超级个体”弹射上天",
-    "link": "https://www.tmtpost.com/8170112.html",
-    "summary": "给AI创业者发100万，盛大的算盘是什么？",
-    "publishedAt": "2026-10-15",
+    "id": "news--1792117400000",
+    "title": "张一鸣的世界模型，藏不住了",
+    "link": "https://www.tmtpost.com/8170379.html",
+    "summary": "造世界、开任意门，字节抢跑世界模型。",
+    "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,38 +94,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-launches-an-open-weight-ai-model-that-runs-on-macs-1792094693000",
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "id": "news-when-it-came-to-cal-ai-8217-s-viral-success-a-small-army-of--1792107896000",
+    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-leaders-say-they-are-worried-about-their-ability-to-handle-c-1792075380000",
-    "title": "Leaders say they are worried about their ability to handle change",
-    "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
-    "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
+    "id": "news-employee-benefits-seem-to-satisfy-workers-but-gaps-persist-1792097460000",
+    "title": "Employee benefits seem to satisfy workers, but gaps persist",
+    "link": "https://www.hrdive.com/news/benefits-outlook-2026-wtw/833170/",
+    "summary": "While workers have reported higher well-being since 2019, WTW found financial concerns are straining workers&rsquo; access to medical care.",
     "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-2026-1791974507000",
-    "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-    "link": "https://www.qbitai.com/2026/10/503294.html",
-    "summary": "“具身进实景，劳动最光荣”",
-    "publishedAt": "2026-10-14",
+    "id": "news-10-1792057409000",
+    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+    "link": "https://www.qbitai.com/2026/10/503640.html",
+    "summary": "Siri AI这次不包括在内",
+    "publishedAt": "2026-10-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,11 +134,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oppo-ai-manus-1792059758000",
-    "title": "OPPO决定 把 AI“外包” 给 Manus",
-    "link": "https://www.tmtpost.com/8168726.html",
-    "summary": "ColorOS 7.7亿用户，养不出一个原生Agent？",
-    "publishedAt": "2026-10-15",
+    "id": "news-ai-1792117974000",
+    "title": " 手机厂商的麻烦，AI背不了锅 ",
+    "link": "https://www.huxiu.com/article/4897939.html?f=rss",
+    "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 2026年第三季度，全球智能手机市场交出了一份难看的成绩单。Counterpoint公布的报告显示，全球智能手机出货量同比下降约20%，部分主流安卓品牌的跌幅更加明显。 市场很快找到了一条解释路径：AI数据中心抢购存储芯片，芯片供应商把更多产能留给利润更高的服务器，手机厂商的采购成本跟着上升。手机变贵，促销减少，消费者推迟购买，最终反映在销量上。手机厂商也开始频繁谈论存储成本压力。 一边是不断涨价的内存，一边是突然下跌的手机出货量，两件事看起来严丝合缝。可手机行业究竟发生了什么？要回答这个问题，恐怕得先弄清楚新闻中那个令人吃惊的20%，到底是怎么来的。 手机销量暴跌20%，到底是谁不买了？ 假设一家手机厂商去年第三季度往经销商仓库送了100万部手机，今年只送了80万部。按照行业统计，出货量下降20%。可是，去年送过去的手机有没有卖完、今年仓库里还压着多少货，这个数字都不会告诉我们。 新闻中的20%属于厂商向销售渠道供货的口径。消费者真正从门店、电商平台买走多少部手机，需要另一组统计。正常年份，两个数字大体同向；碰到集中备货、降价清库存或者新机发布时点变化，两者的差距就可能被拉大。 今年恰好有一个特殊背景：内存越涨越贵。上半年，一些厂商担心晚买更贵，提前采购零部件，向渠道铺货。对渠道商来说，手里有货未必是坏事，尤其在预期下一批",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-20-1792116788000",
+    "title": "从规模驱动到技术信仰，20位定义中国商业新叙事的人",
+    "link": "https://www.tmtpost.com/8170760.html",
+    "summary": "“Value Visionaries 20·中国商业领袖20人”榜单发布：做大市场与做深产业之间，中国企业家精神正在重塑。",
+    "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -160,40 +174,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-devices-chief-panos-panay-sees-a-future-where-ai-devi-1792094125000",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "id": "news-and-the-winner-of-startup-battlefield-at-disrupt-2026-is-int-1792107225000",
+    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+    "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-ceos-want-enterprise-chros-who-can-talk-strategy-and-skills--1792075380000",
-    "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
-    "link": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
-    "summary": "As AI transforms work, enterprise CHROs in high-performing companies are partnering with senior tech leaders, according to Heidrick &amp; Struggles.",
+    "id": "news-walmart-plans-to-offer-employees-free-prescriptions-paid-nic-1792082160000",
+    "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
+    "link": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
+    "summary": "The news comes as employers prepare for nearly double-digit health insurance price increases and many plan to shift some of those costs to workers.",
     "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-agent-stepx-neo-1791964878000",
-    "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-    "link": "https://www.qbitai.com/2026/10/503244.html",
-    "summary": "这妥妥是个物理版Agent啊！",
-    "publishedAt": "2026-10-14",
+    "id": "news-agent-1792054111000",
+    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+    "link": "https://www.qbitai.com/2026/10/503614.html",
+    "summary": "Agent究竟该如何深入业务毛细血管？",
+    "publishedAt": "2026-10-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -202,11 +214,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-8-278-pe-1792059688000",
-    "title": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？",
-    "link": "https://www.tmtpost.com/8168985.html",
-    "summary": "净利降三成，机构定增浮亏24%，奥比中光冲刺港股胜算几何？",
-    "publishedAt": "2026-10-15",
+    "id": "news-ai-agent-1792117550000",
+    "title": " 互联网进入无人区，AI Agent 涌现 ",
+    "link": "https://www.huxiu.com/article/4897936.html?f=rss",
+    "summary": "本文来自微信公众号： Token Moment ，作者：Cassie 随着AI操作电脑的能力越来越强，以及个人AI助手Muse、Instinct、Grok Bot、微信小微、Cue等涌现，人们正在把一部分互联网操作，如搜索、浏览、比价、填地址、下单、支付等动作交给AI Agent。 与此同时，亚马逊紧急拦截Muse访问，苹果收紧AI Agent系统权限。这个冲突背后，不是简单的产品竞争，而是以前围绕“由人来点击操作而设计的产品和商业模式”，将被重新设计。 对此，我有种非常强烈的直觉，互联网平台正在进入“无人区”，而涌进来的是一群群隐形，但真实在替人做事的AI Agent。 如果说，互联网的上半场，是在争夺人的注意力。 那么，互联网的下半场，就是在争夺AI Agent，或抢AI Agent入口，或被AI Agent看见，被AI Agent调用。 01 三组数据可以更直观感受 57.5%流量来自AI Cloudflare最新数据显示：57.5%流量来自AI，人类占42.5%。这是互联网历史上，首次AI流量超人类。 AI Agent的Token消耗，是人类的5倍 a16z最新数据：AI Agent消耗的Token几乎是人类用户的5倍，而且短短六个月内，消耗量增长了14倍。 支付宝AI支付3亿笔 支付宝官网数据：真实商业场景中的AI支付交易量突破3亿笔。 02 AI Agent涌进的互联网",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1792116724000",
+    "title": "苹果AI加速补课：库克打通中国，特努斯抢攻客厅",
+    "link": "https://www.tmtpost.com/8170670.html",
+    "summary": "起大早赶晚集，有了AI的苹果疯狂补课。",
+    "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -228,38 +254,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-1792092545000",
-    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-    "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+    "id": "news-amazon-devices-chief-panos-panay-on-the-importance-of-failur-1792096693000",
+    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost--1792009500000",
-    "title": "Robots can handle a third of physical jobs — but not yet cost-effectively, Anthropic says",
-    "link": "https://www.hrdive.com/news/robots-can-handle-a-third-of-physical-jobs-but-not-yet-cost-effectively-an/833042/",
-    "summary": "About 300,000 jobs are exposed today; 2.8 million could be at risk in seven years, says an analysis by the AI company.",
-    "publishedAt": "2026-10-14",
+    "id": "news-leaders-say-they-are-worried-about-their-ability-to-handle-c-1792075380000",
+    "title": "Leaders say they are worried about their ability to handle change",
+    "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
+    "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
+    "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news--1791961922000",
-    "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-    "link": "https://www.qbitai.com/2026/10/503231.html",
-    "summary": "汽车竞争正在回归汽车本身",
-    "publishedAt": "2026-10-14",
+    "id": "news-2026-tmot-ai-1792052179000",
+    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+    "link": "https://www.qbitai.com/2026/10/503611.html",
+    "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+    "publishedAt": "2026-10-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -268,11 +294,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792059684000",
-    "title": "AI搞科研，到底在替谁打工？",
-    "link": "https://www.tmtpost.com/8170092.html",
-    "summary": "AI 在科研里到底替谁打工？替博士生打工，替教授打工，替药企的现金流打工，也替人类文明里最贵的东西打工——时间。",
-    "publishedAt": "2026-10-15",
+    "id": "news--1792117386000",
+    "title": " 弱者的崩溃，往往是被击穿了尊严 ",
+    "link": "https://www.huxiu.com/article/4897938.html?f=rss",
+    "summary": "本文来自微信公众号： 西坡原创 ，作者：西坡 四川宜宾高县，今年33岁的胡二妹，和老公开一个小吃摊，养活两个孩子，维持自己小家庭的运转。 这天下午，一位顾客来用餐，不知道现场有没有发生争执，事后顾客在多个平台发表差评：“避雷胡二妹铜锅洋芋，老板娘玩不起，嫌菜堆高了就不给加土豆”。随后，这条避雷帖引来多条差评，有人说服务态度不好，有人说味道差，有人说吃了拉肚子。 三天后的傍晚，胡二妹在离自家小吃摊仅一个路口远的地方跳河轻声，留下一封1500多字的遗书。 这是怎样一回事？好像非常不可思议，几根土豆压垮了一个鲜活的生命，一个坚强的女人。但好像又不是很难理解，日复一日的高强度劳动，密不透风的生活压力，而网暴从来都是稻草压垮骆驼的残酷游戏。 前两天就看到了这件事，但因为无力或者什么说不清的因素，没忍细看。今天早上送完孩子上学，看到帖子，把事情的来龙去脉了解了，把胡二妹的遗书也完整读了一遍。心里真不是滋味。但还是觉得有些话在等着自己说出来。 在悲剧已经发生的阴沉背景下，那条“避雷帖”显得异常刺耳，尤其是那句“玩不起”，明晃晃像针一样戳在那里。而且如此微小的争端，却要大张旗鼓在多个平台传播，一个小本经营的小吃摊，值得这样对待？而那些跟风差评的人又在想什么，从前真的有不愉快的用餐经历，还是偶然撞见一个破掉的玻璃窗，借机泄一泄心里的恶气？ 然而这些实在又是再日常不过的景象，无论是“避雷帖”的滥用，还",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-kimi-1792115579000",
+    "title": "Kimi少了一个天才少年",
+    "link": "https://www.tmtpost.com/8170329.html",
+    "summary": "实习生的工牌，核心研发的分量。",
+    "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -294,39 +333,40 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-is-letting-metr-researchers-look-under-the-hood-wi-1792091666000",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "id": "news-meta-launches-an-open-weight-ai-model-that-runs-on-macs-1792094693000",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
     "publishedAt": "2026-10-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "ai-hr"
+      "organization"
     ]
   },
   {
-    "id": "news-time-spent-waiting-to-work-is-compensable-if-required-appeal-1792009500000",
-    "title": "Time spent waiting to work is compensable if required, appeals court rules",
-    "link": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
-    "summary": "Lidl employees can continue with their allegations they were required to report to work but couldn&rsquo;t clock in until a manager unlocked the store.",
-    "publishedAt": "2026-10-14",
+    "id": "news-ceos-want-enterprise-chros-who-can-talk-strategy-and-skills--1792075380000",
+    "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
+    "link": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
+    "summary": "As AI transforms work, enterprise CHROs in high-performing companies are partnering with senior tech leaders, according to Heidrick &amp; Struggles.",
+    "publishedAt": "2026-10-15",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-ai-mrbeast-libtv-1791961424000",
-    "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-    "link": "https://www.qbitai.com/2026/10/503211.html",
-    "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
-    "publishedAt": "2026-10-14",
+    "id": "news--1792049724000",
+    "title": "这个双十一，百灵新模型干起活来不烧心",
+    "link": "https://www.qbitai.com/2026/10/503532.html",
+    "summary": "大模型好不好用，百灵拿成品说话",
+    "publishedAt": "2026-10-15",
     "source": "量子位",
     "tags": [
       "china",
@@ -335,11 +375,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-ai-1792059131000",
-    "title": "Agent热潮带火端侧AI，“奇点时刻”还有多远？",
-    "link": "https://www.tmtpost.com/8170161.html",
-    "summary": "AI从云端向边端转移的背后，是算力的下沉，以及由此带来的行业格局之变。",
-    "publishedAt": "2026-10-15",
+    "id": "news-69-6-1792117375000",
+    "title": " 十年江歌案之二：69.6万买不回一条命，但法律记住了她的善良 ",
+    "link": "https://www.huxiu.com/article/4897933.html?f=rss",
+    "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 2016年11月3日凌晨，中国留学生江歌在日本东京寓所门外被室友刘暖曦的前男友陈世峰杀害。陈世峰在日本被判有期徒刑20年。江秋莲是江歌的母亲。 69.6万元。 这是2022年1月10日，山东省青岛市城阳区人民法院对江秋莲诉刘暖曦生命权纠纷案的一审判决金额。经济损失49.6万元，精神损害抚慰金20万元。 69.6万买不回一条命。但这笔钱背后的判决书，做了一件中国民事审判史上前所未有的事。它把特定关系下的见死不救，从道德问题变成了法律问题。 法院认定的四件事 判决书先认定了一个事实。刘暖曦引入了侵害危险，却没有告诉江歌。 案发前两个多月，刘暖曦因跟陈世峰分手产生争执，借住到江歌宿舍。陈世峰上门纠缠，江歌提出报警，刘暖曦说，你别报警，我在这里是不合法的，不要报警，我不想把事情闹大，我怕房东知道。 法院说，你把危险带到了别人家里，你至少有义务让对方知道这个危险的存在。你没有告知，这就是过错。 第二件事更关键。陈世峰拿着刀来了，刘暖曦为了自保，把江歌挡在了门外。江歌死在了门外。 法院说，你作为危险的引入者，江歌基于友谊给你提供庇护，你们之间形成了事实上的救助关系。你有救助义务。在紧急情况下把救助你的人挡在门外，这不仅是道德上的背叛，更是法律上对救助义务的违反。 第三件事容易被忽略。江歌死后，刘暖曦在社交媒体上发表刺激性言论，进一步伤",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-workbuddy-1792115576000",
+    "title": "看懂 WorkBuddy 打通企微，上下文只是前菜",
+    "link": "https://www.tmtpost.com/8170374.html",
+    "summary": "到了 2026 年，全球科技巨头纷纷将 Agent 带入既有的协作网络。",
+    "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -350,393 +403,7 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2610.20606v1",
-    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-    "authors": [
-      "Huixuan Cheng",
-      "Bike Zhang",
-      "Shankar Sastry",
-      "Koushil Sreenath"
-    ],
-    "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-performing humanoid control networks can be generatively modeled directly through their weights. We adopt a latent diffusion framework that couples a linear autoencoder with a Diffusion Transformer. The autoencoder compresses actor network parameters into a compact latent space, and the Diffusion Transformer models the distribution of these latents. ",
-    "link": "http://arxiv.org/abs/2610.20606v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20607v1",
-    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "authors": [
-      "Zhefei Gong",
-      "Hefeifei Jiang",
-      "Zehao Wang",
-      "Jiachen Li"
-    ],
-    "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems. At its core, HiRe-MoMa adopts a Hierarchical Residual Architecture that fine-tunes a frozen base policy. A Policy-Agnostic Residual learns additive corrections atop the base policy, while Hierarchical Decoupling splits the residual into mobile-base and manipulator-arm heads with unidirectional conditioning, mitigating gradient interference and aligning corrections with the platform's ",
-    "link": "http://arxiv.org/abs/2610.20607v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20597v1",
-    "title": "Co-Evolving Acting and Forecasting for Language Agents",
-    "authors": [
-      "Haofei Yu",
-      "Yixing Chen",
-      "Yining Zhao",
-      "Xuyan Ye",
-      "Yuxiang Liu",
-      "Zhigang Hua",
-      "Yan Xie",
-      "Shuang Yang",
-      "Jiaxuan You"
-    ],
-    "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets that estimate per-step success probabilities or observation targets that fit environment response. Both are hard to construct well: (1) value targets come from the same single scalar signal for each step in the trajectory, and (2) observation targets, such as web pages and terminal logs, are long and noisy and reach only one step ahead. We propose \\name, which adds a third kind of multi-step action targets. On successful on-policy trajectories, \\name trains the policy backbone to generate the actio",
-    "link": "http://arxiv.org/abs/2610.20597v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20588v1",
-    "title": "Your Transformer Is Secretly Elastic",
-    "authors": [
-      "Walter Simoncini",
-      "Dheeraj Varghese",
-      "Gertjan J. Burghouts",
-      "Cees G. M. Snoek"
-    ],
-    "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem: unlike prior work, which optimizes a single importance weight per MLP block or attention head, we rank every individual MLP neuron and attention head jointly, on a common scale, by minimizing the model",
-    "link": "http://arxiv.org/abs/2610.20588v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20587v1",
-    "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "authors": [
-      "Shubhendu Trivedi",
-      "Jacob Eisenstein",
-      "Alekh Agarwal",
-      "Ian Gemp",
-      "Michael Kaisers",
-      "Adam Fisch"
-    ],
-    "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest bidder pays its bid and receives the prompt, are a natural way to allocate prompts in such a market, since they are simple and transparent to run, and do not require central knowledge of private capabilities and costs. However, FPAs are not truthful: participants may bid less than their true value in the hope of a larger profit, and the prompt may then be allocated to someone other than the bidder who values it the most. This welfare loss is quantified by the $\\textit{price-of-anarchy}$ (PoA). In",
-    "link": "http://arxiv.org/abs/2610.20587v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.GT",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20586v1",
-    "title": "Continuum Attention",
-    "authors": [
-      "Afshin Khadangi"
-    ],
-    "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated values yields exact normalized attention from closed form exponential moments, including half token boundary contributions. The gradients follow analytically from moments of order at most two, enabling parallel GPU implementations while retaining quadratic sequence complexity and the standard Transformer decoder. Compared with ordinary softmax and focal attention, CA reduces mean validation negative log likelihood by 0.0200 and 0.0480 nats per byte, respectively, winning all paired comparisons. ",
-    "link": "http://arxiv.org/abs/2610.20586v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20585v1",
-    "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
-    "authors": [
-      "Stavros Nousias",
-      "Akis Nousias",
-      "Konstantinos Gkrispanis"
-    ],
-    "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. The partition is built from a discrete Hodge Laplacian $L_0=\\star_0^{-1} d_0^{\\top}\\star_1 d_0$, that serves as a fitting layer measuring high-frequency content. A gating mechanism takes the mesh as input and produces the per-vertex weights that recombine the expert outputs. AirFRANS is a steady Reynolds-averaged Navier--Stokes (RANS) airfoil benchmark. We evaluate our approach in a reduced remeshed version of the benchmark with each unstructured mesh counting 9.6K faces and 4.9K vertices. We co",
-    "link": "http://arxiv.org/abs/2610.20585v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20584v1",
-    "title": "Player-1: Learning to Play from Synthetic Experience",
-    "authors": [
-      "Mingyu Ouyang",
-      "Yiran Wang",
-      "Siyuan Hu",
-      "Xingyilang Yin",
-      "Huiqiang Sun",
-      "Guangzhi Wang",
-      "Junfu Pu",
-      "Cheng Cheng",
-      "Honghao Chen",
-      "Ying Shan",
-      "Mike Zheng Shou",
-      "Hwee Tou Ng"
-    ],
-    "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environments for interactive training remain difficult to obtain. We introduce Player-1, a post-training framework for learning game control beyond demonstrations through synthetic experience. We extend the computer-use action space with relative pointer motion, sustained inputs, and composite actions. For supervised initialization, we fine-tune computer-use models on 6,044 curat",
-    "link": "http://arxiv.org/abs/2610.20584v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.CV",
-      "cs.AI",
-      "cs.HC"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20582v1",
-    "title": "Latent Compaction with Test-Time Training",
-    "authors": [
-      "Yingfa Chen",
-      "Xingyu Shen",
-      "Chaojun Xiao",
-      "Xu Han"
-    ],
-    "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, which learns a compact document-specific cache through test-time training. We initialize cache entries using reconstruction importance, teacher attention, and key-space diversity. Training first fits attention outputs and log-normalizers to those of the full cache, with reconstruction-selected entries held fixed. It then jointly optimizes the entire cache through end-to-end distillation from the full-cache model. Model weights remain frozen throughout, and training uses only generic prompts about the document, without access to downstream questions or answers. Experiments on RU",
-    "link": "http://arxiv.org/abs/2610.20582v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20576v1",
-    "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-    "authors": [
-      "Artin Tajdini",
-      "Manpreet Kaur",
-      "Peng Qi"
-    ],
-    "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently means interface randomization only broadens this dependence from a single interface to the training interface distribution, so out-of-distribution perturbations still degrade the agent. We propose Cross-Interface Policy Regularization (CIPR), a self-supervised objective that replaces action names with uninformative identifiers and presents each training sample under two interfaces in which equivalent actions are identified by construction. CIPR penalizes the KL divergence between the action distribu",
-    "link": "http://arxiv.org/abs/2610.20576v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20573v1",
-    "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
-    "authors": [
-      "Anna Mei",
-      "Michael R. Douglas"
-    ],
-    "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and detecting errors missed by LLM judges. We apply this method, along with our Extract-Verify-Proof autoformalization pipeline, to construct the Formalized Library of Mathematical Functions (FLMF), a partial formalization of the NIST Digital Library of Mathematical Functions (DLMF). On three labeled datasets, our method achieves the lowest accepted-error rate among the evaluated methods, measured as the fraction of incorrect statements accepted by the verification method. Expert review of the resu",
-    "link": "http://arxiv.org/abs/2610.20573v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20572v1",
-    "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
-    "authors": [
-      "Kaixiang Zhao",
-      "Tianrun Yu",
-      "Shangzhe Li",
-      "Yuxiao Yang",
-      "Amanda Hughes",
-      "Weitong Zhang",
-      "Taylor W. Killian"
-    ],
-    "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollouts: the teacher follows student errors, although it recognizes them. We propose CriticOPD, using error recognition to restore recoverability. The teacher critiques an incorrect rollout, allowing the student to rewrite its solution following the error. The resulting output, including the critique as privileged information, is scored by the teacher while the student uses the revision without the critique for training. On two Qwen3 students and six mathematical reasoning benchmarks, CriticOPD improv",
-    "link": "http://arxiv.org/abs/2610.20572v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20570v1",
-    "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
-    "authors": [
-      "Bruno Leonardo Santos Menezes",
-      "Carlos Leonardo Souza Cardoso",
-      "Fabio André Machado Porto"
-    ],
-    "summary": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-Instruct-2, the second-generation post-training alignment of Manacá-1B (1.72B parameters, trained from scratch for PT-BR), with an SFT corpus of 291,223 examples. We document three DPO attempts, all negative, including a case where the training reward margin reaches 1.0 while free generation does not change at all, and show that safety came from a dedicated safety-SFT (LLM-jp AnswerCarefully style), refined over three iterations until closing the safety-helpfulness frontier. A controlled scan of the fraction of general data in the safety-SFT mix (10% to 60%) reveals a non-mo",
-    "link": "http://arxiv.org/abs/2610.20570v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20563v1",
-    "title": "Scaling Discovery Requires Forgetting",
-    "authors": [
-      "Shangyin Tan",
-      "Ben Zhou",
-      "Lakshya A Agrawal",
-      "Jialin Zhang",
-      "Yilin Chen",
-      "Qiuyang Mang",
-      "Donghyun Lee",
-      "Dennis Jacob",
-      "Koushik Sen",
-      "Alex Dimakis",
-      "Matei Zaharia"
-    ],
-    "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale automated research: let one agent iterate for longer, run several agents in parallel, or further let the parallel agents communicate and build on one another's candidates. However, we find that all three strategies eventually plateau as the agents accumulate history. Each agent becomes anchored to its own past attempts, making fewer and smaller edits. Beyond this point, additional budget brings little further improvement. In this paper, we show that the key to scaling discovery further is to forget. Periodically discarding the search state, including every agent's session and ",
-    "link": "http://arxiv.org/abs/2610.20563v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20560v1",
-    "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
-    "authors": [
-      "Weichen Lyu",
-      "Chong Xia",
-      "Mingyu Dong",
-      "Long Xu",
-      "Shengjun Zhang",
-      "Yueqi Duan"
-    ],
-    "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language models to directly predict object coordinates, or utilize generative diffusion priors to synthesize composite images for visual alignment, both of which rely on static priors in digital spaces. However, these methods consistently struggle with complex compositions such as precise hanging, gravity-driven settling and hidden containment, as these tasks require interactive construction processes involving global planning, fine-grained alignment, and physical simulation. To address these challenges, we propose PhySGA, a Physics-Space Grounded Agentic Framework for 3D compositio",
-    "link": "http://arxiv.org/abs/2610.20560v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20548v1",
-    "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
-    "authors": [
-      "Ali Zamani",
-      "Soroush Esfahanian",
-      "Erfan Shahabi",
-      "Mohammad Taher Pilehvar",
-      "Azadeh Shakery",
-      "Yadollah Yaghoobzadeh"
-    ],
-    "summary": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence comprises two aspects: cognitive intelligence, the ability to infer others' mental states, and behavioral intelligence, the ability to select appropriate social actions based on these inferences to achieve social goals. Persuasion provides a natural testbed in which both aspects are simultaneously at play, yet prior benchmarks typically evaluate them in isolation using synthetic scenarios. We introduce PerSo, a benchmark that evaluates both aspects on real-world persuasion dialogues from Reddit's ChangeMyView community, using an LLM-in-the-loop pipeline to construct the evaluation tasks, validated t",
-    "link": "http://arxiv.org/abs/2610.20548v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.SI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20544v1",
-    "title": "Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks",
-    "authors": [
-      "Haimanot Bitew Alemayehu",
-      "Simachew Melaku Ayalew",
-      "Chilotie Desalew Mengesha",
-      "Ayisheshim Almaw Bogale",
-      "Anteneh Birhan Yenew",
-      "Abrham Tegegne Bogale"
-    ],
-    "summary": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional neural network (CNN) to classify potato leaves into three categories: healthy, early blight, and late blight. The proposed model was trained using 2,215 images from the PlantVillage dataset and evaluated on an independent field dataset containing 247 images collected from potato farms in Banja, Awi Zone, Ethiopia. On PlantVillage, the model achieved 99.04% training accuracy, 98.21% validation accuracy, and 98.66% test accuracy. On the field dataset, it achieved 90.28% accuracy. The study also compares the proposed CNN with VGG16 and MobileNetV2 in terms of classification performance and computati",
-    "link": "http://arxiv.org/abs/2610.20544v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20538v1",
-    "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
-    "authors": [
-      "Qiushi Sun",
-      "Jingyang Gong",
-      "Yang Liu",
-      "Qiaosheng Chen",
-      "Zhangyue Yin",
-      "Zixian Huang",
-      "Hanxu Hu",
-      "Jing Xiong",
-      "Fangzhi Xu",
-      "Haochen Tan",
-      "Haoli Bai",
-      "Lifeng Shang",
-      "Xiaoguang Li",
-      "Ben Kao",
-      "Qipeng Guo",
-      "Lingpeng Kong",
-      "Jiahui Gao"
-    ],
-    "summary": "Multimodal code intelligence connects the symbolic world of programs with the visual world their execution creates. Interest in this capability is burgeoning, as models are increasingly asked to produce charts, webpages, animations, and semi-structured documents. Recently, proprietary models have pushed far ahead, producing interactive artifacts even from a text description or a screenshot alone. Yet their data and training remain closed, and open progress is held back by the quantity and quality of available data and by the pipelines and methods for producing it. Quality is the harder of the two, since a sample must be correct as a program, well built, and above all visually right once rendered. No existing signal covers all three. Execution often returns just a pass or fail, code similar",
-    "link": "http://arxiv.org/abs/2610.20538v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CV",
-      "cs.LG",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20534v1",
-    "title": "Revisiting Simple Baselines for Relational Deep Learning",
-    "authors": [
-      "Viet The Nguyen",
-      "Vijay Prakash Dwivedi",
-      "Gunther Gust"
-    ],
-    "summary": "Relational deep learning has emerged as a powerful paradigm for learning end-to-end predictive models over relational databases by representing them as temporal heterogeneous graphs. Recent advances based on graph neural networks and Transformers have achieved strong performance across diverse domains. However, the effectiveness of simpler relational baselines remains underexplored, making it difficult to assess how much architectural complexity is needed to achieve strong predictive performance. Motivated by the observation that predictive signals arise from target attributes, relational attributes, and historical labels, we revisit how effectively these signals can be exploited using simple propagation methods. We adapt fixed low-pass feature propagation to relational entity graphs and t",
-    "link": "http://arxiv.org/abs/2610.20534v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.20533v1",
-    "title": "Generative Representation Learning for Scalable Latent Tokenization",
-    "authors": [
-      "Alan Baade",
-      "Kyle Sargent",
-      "Vincent Sitzmann",
-      "Eric Ryan Chan",
-      "Justin Johnson",
-      "Li Fei-Fei",
-      "Gordon Wetzstein"
-    ],
-    "summary": "We introduce an approach for self-supervised representation learning designed to be used as a tokenizer for generative modeling. Our objective supervises a representation loss by factorizing the pointwise mutual information of the data, which we estimate by taking information differences between conditional predictions from a learned generative model. We justify our algorithm theoretically and empirically, demonstrating that our generative approach to representation learning avoids dimensional collapse and feature suppression in cases where commonly used methods like DINO and LeJEPA fail. Moreover, we show our representation learning technique is scalable; expending more compute leads to predictably better latent tokenization. For the first time, we perform a careful analysis of the combin",
-    "link": "http://arxiv.org/abs/2610.20533v1",
-    "publishedAt": "2026-10-14",
-    "categories": [
-      "cs.LG",
-      "cs.CV"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -796,26 +463,6 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
     "postedAt": "2026-09-22",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137399",
-    "title": "SI agent engineer",
-    "company": "Sticker Mule",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack",
-      "We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers"
-    ],
-    "skills": [
-      "Agent",
-      "GCP",
-      "OpenAI"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
-    "postedAt": "2026-09-16",
     "isNew": false
   },
   {
@@ -922,4 +569,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-15T20:53:40.906Z';
+export const dataFetchedAt = '2026-10-16T02:58:41.762Z';
