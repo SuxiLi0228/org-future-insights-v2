@@ -2,6 +2,86 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
+    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+    "publishedAt": "2026-10-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-f-1792166400000",
+    "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+    "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+    "summary": "Tressfecta will be at this year's TechCrunch Disrupt!",
+    "publishedAt": "2026-10-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-recruiters-find-people-faster-with-ai-but-confidence-in-cand-1792160640000",
+    "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
+    "link": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
+    "summary": "More than 2 in 3 recruiters told TestGorilla they spend an hour or more manually checking a candidate&rsquo;s credentials.",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-11-11-1792058828000",
+    "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+    "link": "https://www.qbitai.com/2026/10/503645.html",
+    "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
+    "publishedAt": "2026-10-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-agent-agent-1792161809000",
+    "title": " 个人Agent和企业Agent，注定不是同一个物种 ",
+    "link": "https://www.huxiu.com/article/4898193.html?f=rss",
+    "summary": "本文来自微信公众号： AI超维度 ，作者：2050的哈尔 上一篇测完三款企业办公Agent，我们在文末抛了个问题。 OpenAI、Meta、Manus这些公司做Agent，都绕开了办公软件，直接面向个人用户。那么这个所谓“个人Agent”，到底是个新物种，还是硬造出来的伪概念？它和企业Agent，是同一款产品的大号和小号，还是压根就是两个东西？ 表面上看，它们使用相似的大模型、记忆系统、工具协议和电脑操作能力，也都强调理解、规划和执行。于是市场上有一派很鲜明的观点：Agent就是Agent，不存在个人Agent与企业Agent，最多只是同一种产品的个人版和企业版。 但AI超维度的答案是，他们是同源的两个物种。 这个判断跟技术关系不大。恰恰相反，两边用的模型会越来越像，协议会互通，能力会交叉。但底层模型越通用，两类Agent在产品层的分化反而越厉害。因为当\"会不会做\"不再稀缺，决定一个Agent长什么样的，就换成了另外几个问题：它代表谁行动，依据谁的上下文，能调动哪些资源，出了错谁负责，钱最后从谁身上赚。 这几个问题，个人Agent和企业Agent给出的答案没有一个是相同的。 个人Agent，抢的是\"代表你\"的资格 先看看具体玩家。 OpenAI的dots藏在ChatGPT里，Meta的Muse搭在自家社交生态上，Manus的Cue做成独立应用，xAI家的叫Grok Bot……名字五",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-10-1792160649000",
+    "title": "兑现度的胜利，星尘智能再融10亿",
+    "link": "https://www.tmtpost.com/8171189.html",
+    "summary": "好消息是资本市场还在投，坏消息是，它越来越挑剔",
+    "publishedAt": "2026-10-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-this-implant-can-restore-sight-for-patients-with-macular-deg-1792141200000",
     "title": "This implant can restore sight for patients with macular degeneration",
     "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
@@ -14,10 +94,247 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-1792127806000",
-    "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-    "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-    "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+    "id": "news-in-8216-you-can-see-everything-8217-elizabeth-holmes-meets-h-1792166400000",
+    "title": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+    "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+    "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+    "publishedAt": "2026-10-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ceos-eye-c-suite-shake-ups-as-pressures-mount-report-finds-1792160640000",
+    "title": "CEOs eye C-suite shake-ups as pressures mount, report finds",
+    "link": "https://www.hrdive.com/news/ceos-eye-csuite-changes-pressures-mount-bcg/833134/",
+    "summary": "When CEOs were asked which senior leaders they planned to replace, CHROs accounted for 12% of responses.&nbsp;",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-10-1792057409000",
+    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+    "link": "https://www.qbitai.com/2026/10/503640.html",
+    "summary": "Siri AI这次不包括在内",
+    "publishedAt": "2026-10-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792161099000",
+    "title": " 小儿推拿馆，熬走了街边所有的店 ",
+    "link": "https://www.huxiu.com/article/4898189.html?f=rss",
+    "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲，作者：洞见数据研究院 周燃发现，小区门口藏着一位“钉子户”。 最近两三年，附近的水果、烟酒店生意滑坡，餐饮更是“开一家倒一家”，寿命以半年计。唯独那家平平无奇的小儿推拿馆，熬走一任任邻居，仍屹立不倒。 进店一瞧，无论等待区还是诊室内，都乌泱泱坐满人。他粗略数了数，半天的客人就有30位，按150元/人的常规价格，日营业额能跑赢许多头部奶茶店。 这一幕，让周燃百思不得其解。 小儿推拿并非新鲜事，早在2016年，随着二孩政策全面落地与精细喂养的流行，其就从中医圈内小众技法，一跃成为大健康赛道的“超级风口”。如今，每年新生儿数量相比十年前少了约千万，儿推潜在客群已近乎腰斩。 这些年，频频被打假的“包治百病”，甚至“婴幼儿推拿致死”事件，更让儿推行业的野蛮乱象暴露无遗。按周燃的理解，“中国家长早该祛魅了。” 然而事实是，儿推馆活成了大街小巷里，最具韧性的生意之一。 理性逻辑与魔幻现实之间，似乎横亘着一个巨大的灰色地带。那里没有绝对的黑与白，只有中国父母用钱包投出来的“真实”。 被医院“劝退”的父母，涌入儿推馆 反复过敏、发烧的孩子，不送医院送推拿馆，从前的赵雯会质疑：“专业医生都治不好的病，推拿搓手就能解决了？” 但成为妈妈后，她也这样做了。 孩子周岁时，因一场感冒爆发了鼻炎。赵雯送去本地最好的儿童医院，喷鼻剂用上，西替利嗪、氯雷他定等强效药也",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-bj-s-wholesale-club-1792153948000",
+    "title": "BJ's Wholesale Club正按预期发展，这只股票还有更大上涨空间",
+    "link": "https://www.tmtpost.com/8171643.html",
+    "summary": "自从Barron's在1月将BJ’s选为推荐对象以来，BJ’s的表现一直优于竞争对手开市客（Costco）和沃尔玛（Walmart）。",
+    "publishedAt": "2026-10-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-love-is-infrastructure-1792141200000",
+    "title": "Love is infrastructure",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+    "publishedAt": "2026-10-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-jev-is-vercel-8217-s-fastest-adopted-ai-model-ever-1792164829000",
+    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "publishedAt": "2026-10-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-is-the-root-of-recruiters-biggest-stressors-survey-says-1792159800000",
+    "title": "AI is the root of recruiters’ biggest stressors, survey says",
+    "link": "https://www.hrdive.com/news/ai-is-the-root-of-recruiters-biggest-stressors-survey-says/833223/",
+    "summary": "Current technology isn&rsquo;t keeping up with the needs of HR professionals, according to Employ.",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agent-1792054111000",
+    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+    "link": "https://www.qbitai.com/2026/10/503614.html",
+    "summary": "Agent究竟该如何深入业务毛细血管？",
+    "publishedAt": "2026-10-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792160940000",
+    "title": " 李想，下场“造芯” ",
+    "link": "https://www.huxiu.com/article/4898192.html?f=rss",
+    "summary": "本文来自微信公众号： 科创板日报 ，作者：余诗琪，原文标题：《李想，下场“造芯”！》 理想汽车旗下芯片业务平台马赫心科技签署首轮股权融资协议，认购总额16.25亿元，投前估值150亿元，最高投后估值约171亿元。 李想也下场了，造车新势力，正在变成造芯新势力。“蔚小理”三家造车新势力中，已有两家开始把芯片业务独立出来融资。 今日，理想汽车（02015.HK）发布公告，旗下芯片业务平台马赫心科技签署首轮股权融资协议，认购总额16.25亿元，投前估值150亿元，最高投后估值约171亿元。今年2月，蔚来旗下安徽神玑也宣布签署超22亿元首轮融资协议，投后估值接近百亿元。 《科创板日报》记者注意到，理想此次融资的投资方中，出现了经纬创投近期披露的70亿元目标规模新基金的关联投资载体。早年投资过理想汽车的蓝驰创投，也参与了本轮融资。 随着理想、蔚来相继引入外部资本，车企此前投入多年研发的自研芯片业务，开始以独立公司的身份进入一级市场。 经纬70亿新基金现身理想融资 理想此次拿出来独立融资的，是一家成立仅两个月的芯片公司。 据悉，马赫心科技成立于今年8月12日，计划作为理想汽车芯片及域控制器业务的主要平台，承接集团内部相关研发资产和知识产权。 按照10月16日披露的融资安排，马赫心科技拟获得合计16.25亿元认购资金，其中理想汽车自身认购10亿元，外部投资机构合计认购6.25亿元。杭州经韬、蓝驰",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-kkr-1792150355000",
+    "title": "KKR麦克维：企业正为\"万物安全\"加大投入，如何把握这波增长浪潮",
+    "link": "https://www.tmtpost.com/8171615.html",
+    "summary": "KKR全球宏观与资产配置主管亨利·麦克维表示，随着企业追求“万物安全”，印度、日本和波兰等市场都将从中受益。",
+    "publishedAt": "2026-10-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-can-t-bear-to-say-goodbye-to-your-pet-biotech-s-got-you-cove-1792141200000",
+    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+    "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
+    "publishedAt": "2026-10-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-mark-wahlberg-on-using-ai-in-film-8216-the-right-way-8217-an-1792160811000",
+    "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "publishedAt": "2026-10-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employee-benefits-seem-to-satisfy-workers-but-gaps-persist-1792097460000",
+    "title": "Employee benefits seem to satisfy workers, but gaps persist",
+    "link": "https://www.hrdive.com/news/benefits-outlook-2026-wtw/833170/",
+    "summary": "While workers have reported higher well-being since 2019, WTW found financial concerns are straining workers&rsquo; access to medical care.",
+    "publishedAt": "2026-10-15",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-2026-tmot-ai-1792052179000",
+    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+    "link": "https://www.qbitai.com/2026/10/503611.html",
+    "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+    "publishedAt": "2026-10-15",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792160823000",
+    "title": " 正义记者和良心医生，被“不靠谱老王”坑惨了 ",
+    "link": "https://www.huxiu.com/article/4898190.html?f=rss",
+    "summary": "本文来自微信公众号： 建设性意见 ，作者：项栋梁 四个月前，本号发布了分析“甲酰胺纸尿裤”调查报道的文章，表达我对记者王文志正义感和使命感的尊敬，也指出这篇报道存在“新闻专业性不足”的问题。记者是好心，但的确办了错事。 报道纸尿裤的记者以为发现了又一个“三聚氰胺”阴谋 10月15日，联合调查组通报了调查结论，在纸尿裤和血液样本中都没有检测到甲酰胺。官方同步公开了更多调查过程的信息，让我终于理解为什么当初王记者和于医生都这么笃定认为自己在揭露黑幕、为民请命。 “不靠谱老王”挖的这个惊天巨坑，富有正义感又缺乏警惕心的人真的很难跳出来。 在进入正文之前，有必要先请大家做两个简单的医学常识小测试，然后大家会更好地理解本文的内容。 考题一： 如果我是考生的话，我会写肿瘤位于患者右肺下叶，直径约40mm×40mm。聪明的你，会怎么答呢？ 这是个真实案例，影像科医生当时在报告里也提示了异常： 右下肺高密度影占位，大小40mm×40mm，建议CT复查。 这么大个肺部肿瘤，患者直接吓个半死，赶紧挂最贵的专家号开CT复查。然而CT一照，发现屁事儿没有，患者肺部干净得很。 医生仔细复盘才发现，患者第一次拍胸片时，没有把脖子上挂的玉坠取下来。X光机忠实记录了结果，但影像科医生还是被误导了。 考题二： 28岁身体健康的女记者去内分泌科就诊，说自己最近喝水很多、小便次数也很多，医生让她做个尿常规检测，结果显示",
+    "publishedAt": "2026-10-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792148867000",
+    "title": "京东双十一取消定金预售，押注服务消费推上百项产品",
+    "link": "https://www.tmtpost.com/8171375.html",
+    "summary": "当双十一进入第18个年头，单纯比拼价格早已不再是制胜的法宝，随着电商增长放缓，平台竞争焦点逐步转移到供应链履约、服务能力、产业数字化。",
+    "publishedAt": "2026-10-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-kids-are-outsmarting-social-media-bans-that-s-not-a-problem--1792137392000",
+    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;",
+    "publishedAt": "2026-10-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-veritas-expands-its-anti-counterfeit-chip-to-jewelry-trophie-1792159200000",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
     "publishedAt": "2026-10-16",
     "source": "TechCrunch",
     "tags": [
@@ -42,325 +359,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-11-1792058828000",
-    "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-    "link": "https://www.qbitai.com/2026/10/503645.html",
-    "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-    "publishedAt": "2026-10-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792146936000",
-    "title": " 从官方说明到启动召回：奇瑞上演教科书式“公关”？ ",
-    "link": "https://www.huxiu.com/article/4898117.html?f=rss",
-    "summary": "本文来自微信公众号： 财观二姐 ，作者：金一句 近几日，汽车圈好像过年，非常热闹。 尊界V800的制动踏板争议如今尚未平息，这两天奇瑞汽车又曝出更令人不可思议的事件。 据媒体报道，事故发生于10月6日，地点在马来西亚柔佛新山。 当时一辆2023款OMODA 5在正常行驶过程中，两个后轮直接掉了。 10月11日，奇瑞汽车就马来西亚OMODA 5车辆问题发布官方说明。 奇瑞方面对此高度重视，已立即着手调查事故原因，并与马来西亚陆路交通局（JPJ）等当地监管机构保持紧密沟通。 根据奇瑞的调查结果，涉事批次的车辆后桥纵臂个别焊接部位可能存在焊接强度不足的问题，在极端情况下焊缝存在撕裂隐患。 该结构设计的车型目前已经停产。 此外，奇瑞马来西亚子公司正按照JPJ的要求，对受影响的8878辆OMODA 5实施召回，对相关零部件进行全面检查，必要时将予以免费更换。 首先要承认一点，奇瑞这次的应对态度相当值得肯定。 从事件发生到官方宣布召回，全程不超过一周。 奇瑞既没有推卸责任，也没有拿任何理由搪塞，反而主动将国内市场的相关车辆一并纳入排查。 就危机公关层面来看，奇瑞这次的答卷完全可以打高分。 但态度归态度，工艺归工艺。 这起故障暴露出的制造水平，依然让人不得不打个大大的问号？ 说白了，这类故障压根就不该发生，它考验的是汽车制造最基础的功底，就像连\"1+1等于2\"这样的算术题都答错了一样。 根据天眼",
-    "publishedAt": "2026-10-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-70-10-20-8-11-1792144293000",
-    "title": "山姆全国第70家门店落地无锡；浴见北京首店开业；⻨⼦妈经销商⼤会释放加速扩张信号；10月20日晚8点天猫双11开卖｜消研所周报",
-    "link": "https://www.tmtpost.com/8171328.html",
-    "summary": "西木汀官宣任敏成为首位品牌代言人；lululemon以“made to feel感受为先”连续第三年再赴进博之约。",
-    "publishedAt": "2026-10-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-love-is-infrastructure-1792141200000",
-    "title": "Love is infrastructure",
-    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-tesla-reveals-spacex-powered-roadster-that-flies-and-falls-w-1792113463000",
-    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-    "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-    "publishedAt": "2026-10-16",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employee-benefits-seem-to-satisfy-workers-but-gaps-persist-1792097460000",
-    "title": "Employee benefits seem to satisfy workers, but gaps persist",
-    "link": "https://www.hrdive.com/news/benefits-outlook-2026-wtw/833170/",
-    "summary": "While workers have reported higher well-being since 2019, WTW found financial concerns are straining workers&rsquo; access to medical care.",
-    "publishedAt": "2026-10-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-10-1792057409000",
-    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "link": "https://www.qbitai.com/2026/10/503640.html",
-    "summary": "Siri AI这次不包括在内",
-    "publishedAt": "2026-10-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792146721000",
-    "title": " 田柯宇“投毒”疑云 ",
-    "link": "https://www.huxiu.com/article/4898116.html?f=rss",
-    "summary": "本文来自微信公众号： 字母榜 ，作者：苗正 “关于病毒，关于攻防，都是空穴来风。”“（如果我说了假话）终生研究受挫。” 在播客《elsewhere别处发生》的第七期节目中，主持人邀请了2024年因在字节模型中“投毒”而被字节索赔百万的田柯宇。 田柯宇的履历很亮眼，2018年考入北航，先读材料，后转入软件学院。 本科期间两篇NeurIPS一作论文。大二起在商汤实习。随后到了2021年，进入字节商业化技术团队实习，参与超参数优化、强化学习、视觉生成研究。 田柯宇面前，似乎已经铺好了一条通往吴永辉、姚顺雨式的金光大道，但出乎意料的是，这个前途无限的年轻人为世人所知，居然是由于“字节投毒事件”。 在字节的通报中，他使用的是一种在行业内被叫作内部威胁（insider threat）的手段。通过自身权限，从字节内部修改了代码，进而影响了整个模型训练。 这就相当于银行做足了充分的安全准备，结果抢匪竟是银行自己的员工，就在监控眼皮底下从保险柜里拿钱跑路。 如今在田柯宇亲口讲述他自己所作所为之后，再叠加其“创业融资3000万美元”的消息，整个事件再掀争议。 一个专门整理田柯宇“投毒事件”的网站更新，声称全文经过多名田柯宇事件关联者的确认，并悉数附上了其实名个人主页。 字母榜（ID：wujicaijing）对比了田柯宇的最新说法和这篇文章以及当初字节的通报，发现仍有很多疑点。 我们先来看看田柯宇在最新",
-    "publishedAt": "2026-10-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-30-600-1792144213000",
-    "title": "写30万字才能签约，番茄小说背后的600亿生意",
-    "link": "https://www.tmtpost.com/8171325.html",
-    "summary": "字是饵，短剧才是鱼。",
-    "publishedAt": "2026-10-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-can-t-bear-to-say-goodbye-to-your-pet-biotech-s-got-you-cove-1792141200000",
-    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-    "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-when-it-came-to-cal-ai-8217-s-viral-success-a-small-army-of--1792107896000",
-    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "publishedAt": "2026-10-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-walmart-plans-to-offer-employees-free-prescriptions-paid-nic-1792082160000",
-    "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
-    "link": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
-    "summary": "The news comes as employers prepare for nearly double-digit health insurance price increases and many plan to shift some of those costs to workers.",
-    "publishedAt": "2026-10-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-agent-1792054111000",
-    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-    "link": "https://www.qbitai.com/2026/10/503614.html",
-    "summary": "Agent究竟该如何深入业务毛细血管？",
-    "publishedAt": "2026-10-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-8-1792146413000",
-    "title": " 上市一年，“金表第一股”股价较高点跌近8成 ",
-    "link": "https://www.huxiu.com/article/4898119.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：朱咏玲 上市一年后，“金表第一股”西普尼的控股股东及上市前股东禁售期在近期届满。 该公司10月14日晚发布解禁后首个股权变动公告：当日该公司一名控股股东通过场内交易以平均每股45.63港元价格，出售10万股公司股份，占公司已发行股份的约0.17%。 西普尼于2025年9月30日在港交所主板挂牌上市。过去一年里，这家公司的股价经历了大起大落。 西普尼的发售价为29.6港元/股，上市首日开盘价达到84港元/股，第二个交易日的收盘价就来到181.4港元/股。此后，西普尼股价一直保持在高位，2026年1月底时，盘中股价一度高达216港元/股，创下迄今峰值。 但在此之后，西普尼股价一路下探，回到百元以下。截至10月16日午间收盘，西普尼股价为44.38港元/股，较历史最高值跌去近80%。目前市值约26亿港元。 西普尼对此向界面新闻回应称，公司股价受多重因素共同影响，出现波动属于正常现象，“某个阶段性的股价不完全等同于公司经营价值和未来发展趋势”。其表示，接下来公司会依靠做实主业、战略规划持续兑现等体现经营价值，赢得资本市场信任。 西普尼的主力业务板块是OBM业务，即自行研发、生产、销售自有品牌“西普尼（HIPINE）”金表，品牌和利润都全数自持。其中，智能金表、智能金戒指等智能珠宝和高端文创金表是其近年来重点布局的创新业务。另一板块则是提供ODM服务，",
-    "publishedAt": "2026-10-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792144211000",
-    "title": "大厂没有安全感",
-    "link": "https://www.tmtpost.com/8170904.html",
-    "summary": "不掉队才是最重要的。",
-    "publishedAt": "2026-10-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-kids-are-outsmarting-social-media-bans-that-s-not-a-problem--1792137392000",
-    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-and-the-winner-of-startup-battlefield-at-disrupt-2026-is-int-1792107225000",
-    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-    "publishedAt": "2026-10-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-leaders-say-they-are-worried-about-their-ability-to-handle-c-1792075380000",
-    "title": "Leaders say they are worried about their ability to handle change",
-    "link": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
-    "summary": "Companies are facing a workplace confidence problem as technology develops rapidly, new research shows.",
-    "publishedAt": "2026-10-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-2026-tmot-ai-1792052179000",
-    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-    "link": "https://www.qbitai.com/2026/10/503611.html",
-    "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-    "publishedAt": "2026-10-15",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792146309000",
-    "title": " 相蓝欣谈国际关系视野下的中美欧今昔：从“斯坦佛小集团”到“军事凯恩斯主义” ",
-    "link": "https://www.huxiu.com/article/4898115.html?f=rss",
-    "summary": "本文来自微信公众号： 忽左忽右Leftright ，编辑：思钊，作者：忽友功德箱，原文标题：《播客｜相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」》 纵横国际关系学界的相蓝欣教授，曾长期在日内瓦任教，并与基辛格等外交政策圈人士保持交往。从陪同《凯恩斯传》作者、俄裔学者斯基德尔斯基重返哈尔滨，到走进五角大楼与美国战略大师安德鲁·马歇尔长谈，相蓝欣在本期节目中分享了诸多国际政治掌故，以及对当下中美欧关系的观察。他为何判断北约已进入「最后的倒计时」？如何从「三个特朗普」框架和WWE表演模式理解特朗普的外交手段？戴高乐如何影响了基辛格而基辛格外交思路又如何影响了特朗普？中欧贸易战山雨欲来，德国的「军事凯恩斯主义」倾向是怎么一回事？请听本期嘉宾相蓝欣教授带来的精彩分享！ 内容节选 本文为基于节目录音的口述稿，仅对语法与用词做部分修改。 责任分担、延伸威慑与活动范围：北约的三大难题 程衍樑 在更主流的跨大西洋关系当中，特朗普这一届美国政府，和很多过去的北约盟友国家闹得都不是很开心。您所处的美国外交的学术圈子，它对这届政府还有影响力和沟通管道吗？ 相蓝欣 还是有的，这个圈子在美国属于国际关系的现实主义派别，他们长期以来认为，跨大西洋关系、包括北约，一定要能够维持下去，一定要让北约的欧洲或者其他成员国负担起应该负担的责任。不光是军费，还包括其他各方面。跨大西洋关系的核心",
-    "publishedAt": "2026-10-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792144209000",
-    "title": "特斯拉都飞了，还要自动驾驶？",
-    "link": "https://www.tmtpost.com/8171034.html",
-    "summary": "马斯克用一台不依赖盈利、不依赖监管、纯靠物理奇观的车，抢回 \"技术先锋\" 的定义权。他亲口说的 \"最后几辆人类驾驶汽车中的佼佼者\"，是对自动驾驶兑现周期最诚实的一句供认。",
-    "publishedAt": "2026-10-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-reviving-frozen-pig-kidneys-and-boosting-nuclea-1792066200000",
-    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-    "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;",
-    "publishedAt": "2026-10-15",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-amazon-devices-chief-panos-panay-on-the-importance-of-failur-1792096693000",
-    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-    "publishedAt": "2026-10-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-ceos-want-enterprise-chros-who-can-talk-strategy-and-skills--1792075380000",
-    "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
-    "link": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
-    "summary": "As AI transforms work, enterprise CHROs in high-performing companies are partnering with senior tech leaders, according to Heidrick &amp; Struggles.",
-    "publishedAt": "2026-10-15",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
     "id": "news--1792049724000",
     "title": "这个双十一，百灵新模型干起活来不烧心",
     "link": "https://www.qbitai.com/2026/10/503532.html",
@@ -374,24 +372,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-character-ai-ai-1792145921000",
-    "title": " 从Character.AI 的破产，聊聊AI陪伴与二次元 ",
-    "link": "https://www.huxiu.com/article/4898114.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏寿司 ，作者：何北航，原文标题：《从 Character.AI 的破产，聊聊AI陪伴与二次元》 当地时间10月12日，Character.AI正式向美国特拉华州联邦破产法院申请自愿破产，并拟将部分知识产权许可出售给华特迪士尼，交易对价2000万美元。 盛极一时的AI陪伴热潮，似乎在此刻划下了一个沉重的休止符。 然而，这并非AI陪伴的终点——毕竟Character.AI从诞生之初就带着一身无法规避的硬伤。 虚胖的巨人 在AI社交与陪聊赛道上，Character.AI曾是一颗瞩目的明星。2023年完成融资时，其估值一举达到10亿美元；到了2024年底，官方更宣布平台注册用户突破2亿，月活跃用户超过2000万，用户自主创建的AI角色总数高达1800万个。 这无疑是一组极其亮眼的数据。然而，如果剥开庞大流量的表象，深入审视其核心产品体验与商业逻辑，就会发现这个“AI巨人”脚下缺乏坚实的支撑。 笔者在2023年的《【寿司谈】Character.ai目前的模式不改是没有未来的》一文中，就曾分享过实测体验。 以平台上一位拥有6420万次互动的高人气角色——《原神》中的“往生堂堂主胡桃”为例，当我尝试向她打听“往生堂”的相关信息时，AI的回答完全是照本宣科的机械堆砌，毫无原作中胡桃灵动、古灵精怪的人设灵魂。 更致命的是，这类聊天机器人普遍缺乏严密的世界观隔离与知识边界控制",
+    "id": "news--1792160274000",
+    "title": " 混动车对欧出口限额，砍掉百万销量，中国车企天塌了？ ",
+    "link": "https://www.huxiu.com/article/4898188.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 \"中国混动车对欧出口，要砍掉一半！\" 10月9日，来到北京进行磋商的欧盟贸易委员马罗什·谢夫乔维奇，兴奋地对媒体宣布了这个消息，他声称已经和中国达成了谅解，包含HEV和PHEV在内的中国混合动力汽车，未来四年对欧出口要\"减少一半以上\"，涉及\"数百万辆车\"。 消息一出，西方媒体集体嗨了起来，各种“赢麻了”、“终于挡住了”，国内则是一片哀嚎，大家为了失去欧洲这个庞大的市场而惋惜，也开始担忧中国车企的未来。 Dagens industri 01、谜之数字 可接下来几天，大家发现，事情好像没有那么简单。 首先，中国方面从来没有确认过具体的削减比例以及出口配额，这些数字，都是欧盟官员自己在说。 其次，中方给媒体的官方消息里只强调了三件事。一是，2025年欧盟自中国进口混动汽车为30.2万辆，双方在2025年基础上达成向上安排，确保中国企业的出口空间和稳定增长。二是非歧视，任何措施都不会专门针对中国产品，更不能歧视性对待中国企业，中方获得的配额，将不会低于欧方的其他任何进口来源地。三是合规，双方确认贸易安排应符合世贸组织规则，中方保留在世贸组织框架下诉诸争端解决、要求贸易补偿等一切权利。 欧盟说“砍半”，为什么中国还可以“向上安排”？这不是自相矛盾吗？ 西方媒体很快就找到了文字中的细节，谢夫乔维奇所谓的“砍半”，是在未来预期销量的基础上进行",
     "publishedAt": "2026-10-16",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-5-4-3-1792144207000",
-    "title": "“药中茅台”之困：5年换4个董事长，3年市值蒸发近千亿",
-    "link": "https://www.tmtpost.com/8170843.html",
-    "summary": "片仔癀董事长辞任。",
+    "id": "news-70-10-20-8-11-1792144293000",
+    "title": "山姆全国第70家门店落地无锡；浴见北京首店开业；⻨⼦妈经销商⼤会释放加速扩张信号；10月20日晚8点天猫双11开卖｜消研所周报",
+    "link": "https://www.tmtpost.com/8171328.html",
+    "summary": "西木汀官宣任敏成为首位品牌代言人；lululemon以“made to feel感受为先”连续第三年再赴进博之约。",
     "publishedAt": "2026-10-16",
     "source": "钛媒体",
     "tags": [
@@ -856,6 +853,30 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137527",
+    "title": "Senior Software Engineer II Applied AI",
+    "company": "Wrapbook",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Us: Wrapbook is the AI platform for production finance",
+      "We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting",
+      "Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "AWS",
+      "LangChain"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "postedAt": "2026-10-15",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137513",
     "title": "AI Trainer",
     "company": "iMerit Technology",
@@ -1002,4 +1023,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-16T10:36:58.659Z';
+export const dataFetchedAt = '2026-10-16T16:00:10.330Z';

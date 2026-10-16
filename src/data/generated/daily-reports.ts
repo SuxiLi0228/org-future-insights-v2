@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-17-auto",
+    "date": "2026-10-17",
+    "session": "auto",
+    "title": "2026-10-17 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-17-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: failed social media bans, and extending pets&#8217; lives",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+      },
+      {
+        "id": "sig-2026-10-17-auto-2",
+        "emoji": "💡",
+        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+        "summary": "Tressfecta will be at this year's TechCrunch Disrupt!",
+        "detail": "来源: TechCrunch。Tressfecta will be at this year's TechCrunch Disrupt!",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"
+      },
+      {
+        "id": "sig-2026-10-17-auto-3",
+        "emoji": "💡",
+        "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
+        "summary": "More than 2 in 3 recruiters told TestGorilla they spend an hour or more manually checking a candidate&rsquo;s credentials.",
+        "detail": "来源: HR Dive。More than 2 in 3 recruiters told TestGorilla they spend an hour or more manually checking a candidate&rsquo;s credentials.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/"
+      },
+      {
+        "id": "sig-2026-10-17-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation...",
+        "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person",
+        "detail": "作者: Zhixu Li, Keqian Tang, Litian Gong。Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation a",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.22372v1"
+      },
+      {
+        "id": "sig-2026-10-17-auto-5",
+        "emoji": "💼",
+        "title": "Wrapbook 正在招募 Senior Software Engineer II Applied AI",
+        "summary": "岗位类型：业务+AI 复合岗。About Us: Wrapbook is the AI platform for production finance",
+        "detail": "技能要求: Python, LLM, RAG, Agent, AWS, LangChain。About Us: Wrapbook is the AI platform for production finance We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Wrapbook"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Wrapbook",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-17-1",
+        "priority": "medium",
+        "action": "关注「The Download: failed social media bans, 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-17-2",
+        "priority": "low",
+        "action": "关注「Tressfecta wants to make hair braiding a」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-17-3",
+        "priority": "low",
+        "action": "关注「Recruiters find people faster with AI — 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-17-4",
+        "priority": "medium",
+        "action": "关注「研究速递：LIBERO-PeRM: Benchmarking Personali」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-17-5",
+        "priority": "medium",
+        "action": "关注「Wrapbook 正在招募 Senior Software Engineer I」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Wrapbook"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-17 生成，聚合了 30 条新闻、20 篇论文、9 个岗位。",
+    "fetchWindow": "2026-10-17 00:00 - 2026-10-17 23:59"
+  },
+  {
     "id": "report-2026-10-16-auto",
     "date": "2026-10-16",
     "session": "auto",
