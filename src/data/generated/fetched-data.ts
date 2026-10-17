@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-w-1792204578000",
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+    "id": "news-replit-is-no-longer-working-with-anthropic-ceo-says-1792262888000",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
     "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
@@ -41,16 +41,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792248379000",
-    "title": " 观点|直播间早就没有神了，只有投流 ",
-    "link": "https://www.huxiu.com/article/4898337.html?f=rss",
-    "summary": "本文来自微信公众号： 倪叔的思考暗时间 ，作者：倪叔，原文标题：《观点|直播间早就没有神了，只有投流》 双十一的档口，沉寂两年的小杨哥，以新账号“庆杨”换号复活。 消息一出，行业里一片哗然。所有人都在讨论，带货江湖是不是又要风云再起。大家下意识地预判：这是平台的意志，抖音要重新捧出一位亿级头部，再造一个直播神话。 可事实恰恰相反。这一次复出，抖音并不积极。真正推动他回归的，不是平台，而是合肥属地。 我们先看流量的真相。新闻客户端、财经媒体全网推送这条复出新闻，铺天盖地；但在抖音站内，这件事的水花却小得可怜。 官宣当晚，大小杨哥短暂出现在直播间，简单说了几句，短短几分钟就下播。整场直播的在线人数，不到两千。新账号“庆杨”，官宣当天粉丝五万出头；那条宣告回归的置顶视频，点赞刚刚过万。 说得直白一点：这个曝光体量，甚至还比不上一条五千块钱DOU+投放短视频能拿到的基础数据。 再看官方公告的措辞，字里行间没有半句“欢迎回归”，只有一句冷静的陈述：同意注销原账号、注册新账号、恢复经营。所有依据，来自合肥市市场监管局那份《整改情况通报》。 知情人的表述更加清晰：这次新账号的开设，是属地有关部门推动，平台只是依规执行。并且，新账号短期之内，不会开放营利权限。 一个曾经破亿粉丝、曾经单场直播撬动数十亿GMV的顶级IP，时隔两年回归，平台给到的态度，仅仅是“照章办理”，而非“资源力捧”。 这件事背后",
+    "id": "news-ai-1-geopt-1792155294000",
+    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+    "link": "https://www.qbitai.com/2026/10/503880.html",
+    "summary": "从搭载物理建模能力的世界模型切入",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1792256328000",
+    "title": " 小红书的AI，开始和自己的生意算账 ",
+    "link": "https://www.huxiu.com/article/4898344.html?f=rss",
+    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 不到半年，小红书重新安排了两次AI部门的职责。 4月30日，小红书将Dots提升为AI一级部门，把模型研发、基础设施、工程和产品集中到同一个组织中。到了9月，产品团队和部分工程团队被划转至社区，Dots转而聚焦底层模型。 10月16日，公司又宣布将Dots与核心基础设施团队Infra打通。 一个刚刚获得独立地位的AI部门，很快就被重新划分了工作范围。 最新的全员信对此给出了一种解释。小红书强调，自己是一家科技应用公司，与云厂商投入模型研发的逻辑存在根本不同。模型能力需要与具体产品形成更紧密的联系，技术投入也需要考虑实际应用价值。 这轮调整没有披露人员和预算变化，也不足以证明小红书准备收缩基础模型研发。但把半年内的几次变化放在一起看，公司已经开始重新安排模型研发与社区业务之间的关系。 这种变化发生时，小红书的AI产品已经不再缺少用户。 公开报道显示，小红书站内AI问答助手月活跃用户超过1亿。此前，36氪援引前员工的说法称，AI搜索产品“问一问”曾改善社区用户留存，并带来数百万级新增查询。 技术正在改变用户寻找生活经验的方式。过去需要翻看多篇笔记、比较不同意见的问题，现在可以直接交给AI整理。用户可能因此更频繁地搜索，也可能不再阅读同样多的内容。 对小红书来说，后者并不是一个可以轻易忽略的变化。 过去十多年，小红书逐渐建立起一套",
     "publishedAt": "2026-10-17",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -80,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-replit-is-no-longer-working-with-anthropic-ceo-says-1792185748000",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "publishedAt": "2026-10-16",
+    "id": "news-ember-s-new-temperature-controlled-mug-makes-my-nightly-tea--1792251000000",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,17 +121,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792247814000",
-    "title": " 动辄千集的AI短剧，越长越赚钱？ ",
-    "link": "https://www.huxiu.com/article/4898336.html?f=rss",
-    "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 AI提高了制作效率，长篇网文则为持续开发提供了充足的故事。有漫剧从业者估算，单季爆款收入约在100万至200万元之间，十季收入在千万以上。 从多季连载到一次性上线千集，超长篇正在成为头部漫剧的主流形态。 DataEye发布的9月红果AI剧／漫剧百强榜中，系列IP由8月的23个增至41个，100部作品中，61部为系列续作。据红果官方战报，《万妖图录传》第十三季10月1日上线，10月3日观看量突破10亿；《聚宝仙盆之杂灵根才是真BOSS》第十二季也在10月6日公布观看量突破10亿。《三千庇护》从2月上线第一季，到10月已连载35季。 不只是季数增加，单季也在变长。《万妖图录传》第十二季超过200集；《咱家剑宗团宠小师妹》从第一季300集，增加到第二季666集。还有单部达到千集的作品，《穿越60我有空间不愁吃喝》第一季直接上线了1000集。 AI提高了制作效率，长篇网文则为持续开发提供了充足的故事。有漫剧从业者告诉我们，单季爆款收入约在100万至200万元之间。 但爆款赚钱，并不意味着制作公司都能赚到钱。围绕成功IP持续创作的精品工作坊跑了出来，依靠大量上新寻找爆款的内容工厂，仍要承担其他项目的亏损，部分公司已经开始收缩产能，改变生产模式。 漫剧为什么越做越长？ AI带来的产能提升，是超长篇漫剧不断涌现的基础。 系列化开发在真人短剧中已有先例",
-    "publishedAt": "2026-10-17",
-    "source": "虎嗅",
+    "id": "news-vla-1792138321000",
+    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+    "link": "https://www.qbitai.com/2026/10/503865.html",
+    "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
-      "technology",
-      "ai"
+      "ai",
+      "technology"
     ]
   },
   {
@@ -147,11 +160,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-porsche-s-electric-macan-turbo-is-an-automotive-existential--1792179600000",
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-    "publishedAt": "2026-10-16",
+    "id": "news-mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-w-1792204578000",
+    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+    "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -174,17 +187,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1792246363000",
-    "title": " 谁更需要这场双11 ？ ",
-    "link": "https://www.huxiu.com/article/4898335.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：画画，原文标题：《谁更需要这场双 11 ？》 双11的电商大战正式打响了。 10月15日，京东和天猫把发布会安排在同一天。往年，两家通常错开节奏，轮流占据舆论焦点。今年，谁也不让。 撞期还不是最有意思的。更有意思的是，两家讲的内容都变了。 一年中最重要的卖货时刻，京东把大量时间留给了服务，天猫把AI推到了台前。 低价还在，却不再是发布会最想强调的东西。 双11走到第18年，平台开始重新回答一个问题：这场大促，究竟还能为自己带来什么？ 一、低价之外，还得有别的 京东今年11.11的主题叫“又好又便宜”，但相关内容只讲了十几分钟。 占据更多发布时间的，是京东服务负责人吴可人发布的服务全景图：超百项细分服务产品，以及每月28日固定开启的“超级服务日”。 每月28日，和11月11日，形成了一组鲜明对照。京东想借双11这个流量窗口，把用户对服务的关注延伸到日常消费中。 天猫也在简化促销规则。今年，天猫取消跨店满减，改为商家立减加消费券；京东首次全品类推出多买多返。面对复杂的促销机制，两家都在尝试降低参与门槛。 天猫总裁家洛给出的解释很直接：核心考虑就是一个词，简单。 低价仍是电商竞争的基础，但越来越难单独构成差异化优势。 拼多多持续强化价格心智，抖音用“一件直降”简化购买决策。对货架电商来说，只证明自己便宜，已经很难回答用户为什么要留下，商家为什么要持",
-    "publishedAt": "2026-10-17",
-    "source": "虎嗅",
+    "id": "news-10-1792138053000",
+    "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+    "link": "https://www.qbitai.com/2026/10/503861.html",
+    "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
-      "technology",
-      "ai"
+      "ai",
+      "technology"
     ]
   },
   {
@@ -215,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-becomes-the-latest-country-to-report-rogue-ai-agent-ac-1792173144000",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "id": "news-porsche-s-electric-macan-turbo-is-an-automotive-existential--1792179600000",
+    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+    "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
     "publishedAt": "2026-10-16",
     "source": "TechCrunch",
     "tags": [
@@ -242,17 +254,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-av-1792246226000",
-    "title": " AI黑客大行其道，AV女优都转码了 ",
-    "link": "https://www.huxiu.com/article/4898334.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：一人成军 最近，韩国金融圈出了件大事。 9月底到10月初，韩国多家金融机构接连遭到网络攻击，大量客户个人信息被泄露，具体严重到什么程度？ 根据韩媒报道，新韩银行约2.5万名客户的信息遭到泄露，KB国民银行也报告了多起数据泄露事件，至于泄露的总量，韩国媒体报道的数字是七家机构约6.8万条记录！ 属实搞了波大的 以至于让韩国总统李在明都亲自下场要求政府需加强应对网络安全威胁。 当韩国警方和监管部门还在展开调查时，10月7日，美国网络安全公司CrowdStrike率先发布了一份调查报告，揭开了这起攻击事件背后更多离谱的细节...... 调查人员发现，幕后攻击者可能是一名来自中国广东的个人黑客。 据报告披露，该名攻击者主要使用了一款名为ARTEX的国产开源AI渗透测试工具。 这里需要说明一下，ARTEX本身并不是一个大模型，而是一个能够调用外部大模型、辅助执行渗透测试任务的AI Agent，所以还称不上是什么黑客专用工具。 简单理解一下就是，以前一个人想要完成网络侦察、漏洞攻击等一系列操作，自己往往需要掌握多种网安工具或黑客技术；而有了AI Agent之后，就可以让AI协助完成其中大部分任务，从而降低操作门槛。 根据CrowdStrike的报告，攻击者主要通过ARTEX调用了DeepSeek V4.1-Flash，同时还在其他Cl",
-    "publishedAt": "2026-10-17",
-    "source": "虎嗅",
+    "id": "news-thinker-wm-1792137631000",
+    "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+    "link": "https://www.qbitai.com/2026/10/503843.html",
+    "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
-      "technology",
-      "ai"
+      "ai",
+      "technology"
     ]
   },
   {
@@ -282,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-an-nvidia-insider-turned-vc-on-why-robotics-hasn-t-hit-its-c-1792168200000",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+    "id": "news-india-becomes-the-latest-country-to-report-rogue-ai-agent-ac-1792173144000",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "publishedAt": "2026-10-16",
     "source": "TechCrunch",
     "tags": [
@@ -308,17 +319,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sap-1792245785000",
-    "title": " SAP提出“自主企业”，但它还没有走出传统组织 ",
-    "link": "https://www.huxiu.com/article/4898333.html?f=rss",
-    "summary": "本文来自微信公众号： ANO Lab ，作者：魏浩征 最近，SAP提出了“Autonomous Enterprise”（自主企业）的愿景，并在2026年10月的SAP Connect大会上进一步展示了相关实践。 这家全球企业软件巨头希望通过业务应用、企业数据、AI智能体与统一治理平台，让AI从回答问题走向执行任务，让企业从传统的数字化运营走向更加自主的业务运行。 方向没问题，但我仔细看SAP公布的架构图，也发现了一个值得讨论的问题：技术架构已经开始走向自主化，业务组织的底层逻辑却仍然带着传统组织的影子。 在我看来，AI时代的企业进化，至少需要回答两个根本问题：第一，企业如何建立能够支撑AI理解和运行的知识基础；第二，当工作可以由人和AI动态完成时，为什么还要继续以岗位、部门和职级作为组织的基本单元？ 这两个问题，决定了我们究竟是在传统企业里增加AI能力，还是在重新设计一种适应AI时代的组织。 1. SAP做对了什么：企业AI不能只有模型，还必须有业务世界 先看SAP架构的底层。 SAP将企业业务应用、SAP Knowledge Graph、SAP Business Data Cloud，以及构建、推理和治理AI智能体的平台能力连接起来。这套架构有一个重要判断：通用大模型的能力再强，也不能自动理解一家企业的真实业务。 AI必须知道企业有哪些业务对象、它们之间有什么关系、流程如何运转、",
-    "publishedAt": "2026-10-17",
-    "source": "虎嗅",
+    "id": "news-ai-modelsphere-1792134971000",
+    "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+    "link": "https://www.qbitai.com/2026/10/503829.html",
+    "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
     "tags": [
       "china",
-      "business",
-      "technology",
-      "ai"
+      "ai",
+      "technology"
     ]
   },
   {
@@ -966,4 +976,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-17T14:53:23.509Z';
+export const dataFetchedAt = '2026-10-17T20:02:33.469Z';
