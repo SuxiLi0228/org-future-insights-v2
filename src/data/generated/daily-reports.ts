@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-19-auto",
+    "date": "2026-10-19",
+    "session": "auto",
+    "title": "2026-10-19 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-19-auto-1",
+        "emoji": "⚠️",
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+        "detail": "来源: MIT Technology Review。Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+      },
+      {
+        "id": "sig-2026-10-19-auto-2",
+        "emoji": "💡",
+        "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+        "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+        "detail": "来源: TechCrunch。\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"
+      },
+      {
+        "id": "sig-2026-10-19-auto-3",
+        "emoji": "💡",
+        "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
+        "summary": "Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
+        "detail": "来源: HR Dive。Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/"
+      },
+      {
+        "id": "sig-2026-10-19-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation...",
+        "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person",
+        "detail": "作者: Zhixu Li, Keqian Tang, Litian Gong。Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation a",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.22372v1"
+      },
+      {
+        "id": "sig-2026-10-19-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-19-1",
+        "priority": "medium",
+        "action": "关注「Roundtables: A Conversation With the Cre」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-19-2",
+        "priority": "low",
+        "action": "关注「Everyone’s watching the Elizabeth Holmes」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-19-3",
+        "priority": "low",
+        "action": "关注「‘Why haven’t you retired?’: Railroader g」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-19-4",
+        "priority": "medium",
+        "action": "关注「研究速递：LIBERO-PeRM: Benchmarking Personali」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-19-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-19 生成，聚合了 30 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-19 00:00 - 2026-10-19 23:59"
+  },
+  {
     "id": "report-2026-10-18-auto",
     "date": "2026-10-18",
     "session": "auto",

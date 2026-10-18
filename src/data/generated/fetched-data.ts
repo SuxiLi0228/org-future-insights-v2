@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-removes-language-that-raised-scraping-and-ai-training-c-1792272692000",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "publishedAt": "2026-10-17",
+    "id": "news-everyone-s-watching-the-elizabeth-holmes-documentary-you-can-1792350218000",
+    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+    "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+    "publishedAt": "2026-10-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1792239669000",
-    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-    "link": "https://www.qbitai.com/2026/10/504067.html",
-    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-    "publishedAt": "2026-10-17",
+    "id": "news-vast-edenlive-720p-24fps-1792324189000",
+    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+    "link": "https://www.qbitai.com/2026/10/504136.html",
+    "summary": "让人人都能自由创造并体验可交互世界",
+    "publishedAt": "2026-10-18",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792335876000",
-    "title": " “驽工理论”被美国人偷走了 ",
-    "link": "https://www.huxiu.com/article/4898436.html?f=rss",
-    "summary": "本文来自微信公众号： 骑桶跑路人 ，作者：骑桶跑路人 驽工理论，是今年知乎人文社科领域的重大创新。目前已经被ban了，足见其含金量，说它能和“刀工理论”并驾齐驱也不为过。 墙里开花墙外香，虽然驽工理论在我国被ban了，但被美国人偷走去拍电影了。有一种戴高乐的军事著作，法国人自己不看，但德国人看的既视感。 我最近看了《生化危机·爆发夜》，是《生化危机》这个系列评分最高的电影，烂番茄96％。这部电影的理论基础就是驽工理论，即层层外包，最终将极其重要的工作交给了普通体力劳动者来做，实际上这项工作最终以什么质量被完成和交付，取决于这个普通体力劳动者的职业道德水平。但外包链的上游又不把体力劳动者当人，最终触发了系统性危机。 剧透预警： 电影中，丧尸病毒解药的运送被外包给了男主这样一个智商一般、也没接受过专业打打杀杀训练的快递小哥，男主自己也不知道自己运的是什么，只知道这一单价格很高，碰巧他老婆要生了，自己又没什么钱，如果不接这一单，就会跌入斩杀线。实际上这个活能做到什么程度，主要取决于男主的职业道德，如果男主不堪重负，选择“出走的决心”，提桶跑路，也不会怎么样。 讽刺的是，男主作为夯工老实人的职业道德水平冠绝全片，颇有一种“天下兴亡，匹夫有责”的壮怀激烈，他小时候大概看过《送给加西亚的信》。而各路社会精英，则在千方百计地搞责任下移。他把解药送到医院的时候，医院里没人愿意签字，签了意味着担责（",
+    "id": "news--1792340645000",
+    "title": " 保留所有可能性，是行动力最贵的死法 ",
+    "link": "https://www.huxiu.com/article/4898445.html?f=rss",
+    "summary": "本文来自微信公众号： 乐鉴笔记 ，作者：乐鉴 你窝在沙发里，打开手机找部片子看。首页推了几十个分类，每个分类下面十几部推荐。你划了二十分钟，越划越焦虑——不是没有想看的，是每部看起来都还行，但没有一部让你觉得\"就是它了\"。 最后你关掉APP，刷了半小时短视频。 同样的逻辑，换一个场景。周五晚上，你打开电脑准备规划周末。想学的那门课收藏夹里躺了三周，朋友推荐的书第一章还没翻完，跑步计划从上周就该启动了，那个项目方案拖了快一个月。你看着这些待办，觉得每一个都重要，每一个都不想放弃。于是你开始排优先级——排了半小时，发现它们好像都差不多重要。 你试着先做一个。刚打开课程视频，脑子里就冒出一个声音：这时候读书是不是更划算？关掉视频翻开书，又觉得不如先把方案写了。三个小时过去，什么都没做。 还有一种更深的版本。你站在职业的岔路口，面前摆着三四条路，每一条都有人走过并且走得不错。你反复权衡，咨询了身边所有人，但越权衡越迷茫——因为每条路的\"好\"不一样，你没法用同一把尺子量。更折磨人的是，每当你倾向某一条路，脑子里就会自动播放另一条路的画面：那条路上你可能遇到的人、可能看到的风景、可能成为的那个自己。那些画面清晰得像真的发生过一样。 于是你停在原地。不是哪条路都不好，是哪条路你都不舍得放弃。 你想学的东西太多，想做的事情太多，想成为的人太多。但一天只有24小时，一辈子也只有一条路。你只能选一个。",
     "publishedAt": "2026-10-18",
     "source": "虎嗅",
     "tags": [
@@ -93,16 +93,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-permanently-bans-musk-documentary-advertising-account-1792270552000",
-    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-    "publishedAt": "2026-10-17",
+    "id": "news-disney-agrees-to-hire-the-majority-of-character-ai-s-workfor-1792341000000",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "publishedAt": "2026-10-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -120,10 +121,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792239225000",
-    "title": "智谱新模型，懂法方面全球第一了",
-    "link": "https://www.qbitai.com/2026/10/503965.html",
-    "summary": "AI的风还是刮到了法律圈",
+    "id": "news-deepseek-1792239669000",
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "link": "https://www.qbitai.com/2026/10/504067.html",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
     "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
@@ -133,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792333965000",
-    "title": " 当前市场给出低估信号，知名券商首席最新研判 ",
-    "link": "https://www.huxiu.com/article/4898433.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：林坚 随着进入四季度，宏观数据密集披露，市场对经济形势与资本市场走向的讨论再度升温。 当前经济中哪些重要因素最被低估？政策协同如何传导至经济？人民币走强与出口韧性又释放了哪些信号？财联社近日采访东方证券研究所宏观与战略团队、华创证券首席经济学家张瑜、浙商证券宏观首席分析师林成炜，并梳理了最新研判。 目前来看，三家券商首席及团队的核心观点在于，经济正从供给端修复走向内需改善，中游制造与新经济重构A股盈利结构，稳市场的长期底气最终落脚于企业盈利与产业创新。 如何看待当前经济运行？积极因素或被低估 东方证券研究所宏观与战略团队认为，市场可能低估了当前经济生产率先修复、全年增长目标具备支撑等积极因素，以及“924”政策以来推动政府、企业、居民三大部门资产负债表修复的中长期效果。 一组数据可以佐证生产端的修复力度。9月制造业PMI升至50.1%，较上月回升0.3个百分点，其中生产指数51.7%、新订单指数50.5%，产需两端同步处于扩张区间；调查的21个行业中有12个高于临界点，较上月增加4个。林成炜同样注意到这一变化，他测算，8月规模以上工业增加值同比增长5.2%，较7月加快0.7个百分点、超越市场预期；1—8月，高技术制造业、数字产品制造业等新动能领域对全部规上工业增加值增长的贡献率已超过五成，“新动能对工业增长的贡献已经具有总量意义”。 为何说积极",
+    "id": "news--1792339823000",
+    "title": " 向西跋涉：中国汽车的欧洲十六年 ",
+    "link": "https://www.huxiu.com/article/4898444.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：周吉祥 路过苏黎世机场，我看见了航站楼正面大楼墙面极氪那块巨大的广告牌，目测一两百平。它立在车来车往的地方，刚出机场打上车，抬起眼皮便能撞见。异国他乡，印象格外深。想来，说德语的、说法语的、说中文的、说英语的，都会看见它。 苏黎世机场去年进出3200多万人次，据说，这里有钱人和拿主意的人的比例，在欧洲机场里数一数二。 10月12日，我参观了“巴黎车展”，在凡尔赛门，第91届。光是吉利系的站台活动，我就观看了五场。 吉利、领克、极氪、沃尔沃、smart、路特斯，六个牌子散在五个展馆，从家用代步车一路排到跑车。领克旁边就是广汽、小鹏、理想……还碰到了何小鹏。后来还在川菜馆偶遇了长安团队。 这个有128年历史的最古老车展，迎来了最“中国”的一届。巴黎车展之于欧洲，不仅是一场延续百年的汽车文化盛宴，更是当下全球汽车产业权力转移、供应链重组与地缘博弈的一个最具象的缩影。 吉利本来就流着欧洲的血。2010年买下沃尔沃，此后有了伦敦出租车、路特斯、半个smart，李书福还一度做过戴姆勒的头号股东。 后来我又路过维也纳，发现机场停车场里停着的还都是传统油车，朋友说：“你看，欧洲还是新能源车的蓝海吧。”中国车，向西跋涉之途，还要好多个周期。 ｜奥地利机场停车场实拍 同一天 10月12日，两件事挨着发生。 一是财政部、税务总局发了公告：自2027年4月1日起，",
     "publishedAt": "2026-10-18",
     "source": "虎嗅",
     "tags": [
@@ -172,17 +173,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-says-its-workforce-has-become-less-junior-and-is-s-1792268479000",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "publishedAt": "2026-10-17",
+    "id": "news-techcrunch-mobility-rivian-8217-s-next-act-1792339500000",
+    "title": "TechCrunch Mobility: Rivian&#8217;s next act",
+    "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-10-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -200,10 +200,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-83-ai-1792239035000",
-    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-    "link": "https://www.qbitai.com/2026/10/503935.html",
-    "summary": "整套系统原生支持MCP",
+    "id": "news--1792239225000",
+    "title": "智谱新模型，懂法方面全球第一了",
+    "link": "https://www.qbitai.com/2026/10/503965.html",
+    "summary": "AI的风还是刮到了法律圈",
     "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
@@ -213,16 +213,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792332060000",
-    "title": " 压垮生命的最后几片土豆 ",
-    "link": "https://www.huxiu.com/article/4898430.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：公司研究院 “胡二妹铜锅洋芋”的招牌还挂在四川符江夜市最东头的铁皮棚上，招牌上的字已经有些褪色。 图为胡二妹铜锅洋芋小吃摊图源：社交媒体截图 操作台盖着一块洗得发白的蓝布，炸锅、菜筐、调料罐都收在了底下。 十几天过去，再也没有掀起来过。 图为胡二妹图源：社交媒体截图 守这个摊子的人叫“胡二妹”，这并非她的本名，因为她在家中排行老二，街坊熟客都喊她“二妹”，喊得多了，她便干脆用这个名字挂了招牌。 图为胡二妹摊位准备好的各类串串食材图源：社交媒体截图 在这个三十多万人口的县城里，她的炸洋芋和自选炸菜是夜市里的热门，5毛一串的炸串，8块钱的狼牙土豆，10块钱一份的自选素菜，最贵的套餐也不过十三块。 这更是一份从早忙到晚的生计。 据胡二妹家属回忆，早上七点，胡二妹要先给两个孩子做早餐，送大女儿上学，顺路买好当天的十几种蔬菜，再把小儿子送到幼儿园。 中午十一点准时出摊，一直站到夜里十一点半，有时候熬辣椒油要忙到凌晨一点。 周围的摊主对媒体表示，她干净、勤快，说话总是笑着的，能记住老顾客的口味，每次都主动提醒少放辣还是多放蒜。 就是这样一位摊主，没能扛住铺天盖地的非议。 这场身亡的变故，始于一条“避雷帖”。 01 压垮摊主的差评，源于几片土豆 图为胡二妹铜锅洋芋的“避雷帖”图源：社交媒体截图 10月6日，有网友在社交平台发布视频，称胡二妹所经营的摊位“",
+    "id": "news--1792339749000",
+    "title": " 为责任和尊严而战：中国软件业还要亏多久？|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4898443.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔 如果一个产业，在国家的五年计划/规划中长期出现，那一定有着基础性、关键性的作用。 1986年4月，经全国人大批准的第七个五年计划纲要提出，“围绕开拓新兴产业的需要，加快集成电路、电子计算机、通信设备和软件产业的发展。”“制定发展计算机应用软件的政策。” 从那时起，软件产业在国家发展规划中从未缺席。在“十五五”规划纲要中，基础软件和工业软件再次入围，被写入“打好关键核心技术攻坚战”“促进数字经济和实体经济深度融合”之中。 从“七五”到“十五五”，整整40年。软件作为数字经济之魂，制造业的大脑，新质生产力的关键支点，AI落地的生产力基础设施，其重要性毋庸多言。 尽管AI大模型对传统软件的开发模式和商业模式构成了很大冲击，AI智能体正在重塑软件的交互形态，但软件产业不会消失，而是需要转型。复杂工业软件、底层基础软件、高可靠性系统软件更是不可或缺，这从2024年西门子斥资100亿美元收购工业仿真软件和分析软件提供商Altair，到最近施耐德电气以226亿美元收购工业软件厂商PTC，都能清楚地看到。 中国软件业目前是什么情况呢？ “从软件业上市公司看，全行业亏损，前途堪忧。”一家目前市值300多亿元、市值最高时达1000多亿元的A股软件上市公司负责人说。 如果说钢铁、水泥、浮法平板玻璃、光伏等行业日子难过，我很容易理解，要么是受房地产不景气拖累",
     "publishedAt": "2026-10-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -253,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-replit-makes-openai-its-default-over-anthropic-ceo-says-1792262888000",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "id": "news-meta-removes-language-that-raised-scraping-and-ai-training-c-1792272692000",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
@@ -280,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-20-1792238811000",
-    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-    "link": "https://www.qbitai.com/2026/10/503910.html",
-    "summary": "谜底指向时间",
+    "id": "news-83-ai-1792239035000",
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "link": "https://www.qbitai.com/2026/10/503935.html",
+    "summary": "整套系统原生支持MCP",
     "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
@@ -293,16 +294,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-5-25-1792329935000",
-    "title": " 橡胶站上2万元：涨价函写5%，成本表写25% ",
-    "link": "https://www.huxiu.com/article/4898428.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 9月30日下午三点，收盘钟声响过，上海期货交易所天然橡胶主力合约停在20095元/吨。 比前一天涨了1055元，涨幅5.54%。 这是2017年3月之后，沪胶第一次站上两万。 同一天，海南橡胶开盘五秒涨停，全天没有打开，收在6.37元/股；山东的轮胎厂里，全钢胎产能利用率只有48.68%，比去年同期低了6.68个百分点。 同一个价格，两种表情。 这轮涨价的账单，最后会落在谁的账本上。 ⑴上游数钱，下游关灯 据上海证券报报道，9月30日收盘，沪胶主力合约报收于20095元/吨，相比前一交易日上涨5.54%，这是2017年3月以来沪胶主力合约首次突破2万元/吨关口。 盘中最高触及20115元/吨。 到这一天为止，本轮天然橡胶上涨行情已经持续了近三个季度。 现货同步跟涨。 同一篇报道援引百川盈孚的市场监测，9月30日天然橡胶国内市场均价约1.94万元/吨，单日上涨853元/吨，年内涨幅26%，同比上涨31%。 期货和现货，一起向上。 上游的反应最直接。 海南橡胶是国内唯一的天然橡胶全产业链上市公司，9月30日开盘五秒左右即直线涨停，全天未开板，报收于6.37元/股。 这家公司在全球范围内经营管理土地490万亩，其中胶园土地380万亩，境内外天然橡胶种植基地共30个，拥有57家在产橡胶初加工厂，年加工产能约217万吨。 它是全球最大的天然橡胶",
+    "id": "news-iphone-ai-1792339550000",
+    "title": " 你买的新iPhone沉在霍尔木兹海峡了？恭喜你又被AI新闻给骗了。 ",
+    "link": "https://www.huxiu.com/article/4898442.html?f=rss",
+    "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 我不知道你有没有看过这个新闻，反正我在好几个AI群里都看到了。 说的是一艘货轮在霍尔木兹海峡沉了，上面装着大量全新iPhone和法国香水，东西漂在海上，人伊朗的渔民老哥直接开船过去捞，捞上来回港口就卖。 群里转了不少视频号，有货轮冒烟的画面，也有小船围着打捞的画面。 我之前看到的时候，就觉得有点抽象，尤其那个视频，总觉得哪里怪怪的。 结果今天再刷，才发现已经有权威新闻媒体在报道了。 新京报、大象新闻，标题都写得很确定、很吸引眼球。 再往下一看，连“苹果客服回应”都出来了：网友担心买到泡水机，客服说不会让这些手机流入市场。 这下我是真有点看不懂了。 既然都到苹果客服回应了，那“一船新iPhone”这个说法，总该有个出处吧？ 所以我就去核实了一下，把官方通报、外媒报道和视频来源都翻了翻。 PART.01 来看看原始消息 THUMB STOPPING 先简单的说一下目前的事实，船确实沉了，这件事是真的。 根据新加坡海事及港务管理局10月14日发布的通报称，注册地为新加坡的GFSP RIDE号据报于13日经过霍尔木兹海峡时遭不明投射物击中，受损起火后沉没，21名船员全部安全撤离。 至于谁发动了袭击、具体用了什么武器，通报里没有给出结论，原文的表述就是“不明投射物”。 至于船上装了多少部iPhone、是什么型",
     "publishedAt": "2026-10-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -332,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ember-s-new-temperature-controlled-mug-makes-my-nightly-tea--1792251000000",
-    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "id": "news-tiktok-permanently-bans-musk-documentary-advertising-account-1792270552000",
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
     "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
@@ -358,10 +360,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792227908000",
-    "title": "科技企业出海，为啥我推荐你去迪拜？",
-    "link": "https://www.qbitai.com/2026/10/503893.html",
-    "summary": "通往全球市场的超级跳板",
+    "id": "news-claude-20-1792238811000",
+    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "link": "https://www.qbitai.com/2026/10/503910.html",
+    "summary": "谜底指向时间",
     "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
@@ -371,17 +373,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-08-1792329270000",
-    "title": " 08年之后，为什么美国再无系统性金融危机？ ",
-    "link": "https://www.huxiu.com/article/4898426.html?f=rss",
-    "summary": "本文来自微信公众号： 局外人的视界 ，作者：卡夫卡不忙了 很久没有写点有深度的东西了，这其实也不能怪我，往往想搞点严肃的内容，结果大家都不爱看，所以我也懒得写了。 写昨天文章的时候，有粉丝发来私信，非常悲观的认为AI泡沫已经破裂了，或者说正在破裂的边缘。 毕竟很有名的高志凯教授都说了。 在2018年的时候，我认为美股的泡沫应该破了，那种感觉非常强烈。 2015-2018年是美帝的加息周期，但上一轮加息加到最高2.25%-2.5%，美联储主席从耶伦转到鲍威尔。信任主席鲍威尔按照传统主持加息缩表，结果美股连续下跌，到2018年12月24日，更是搞了一次圣诞夜惊魂，把懂王吓得连夜让当时的财长姆努钦召集华尔街商量对策。 对策是放开养老金入市的限制，美国人的保命钱从此跟美股深度绑定。 我这个公众号是在2018年12月开的，在我还是个新人博主的时候，曾经跟一帮经济学猹当面PK，当时大家都在说美联储会在2019年加大缩表力度，我说2019年不但不会缩表，大概率会降息放水。 因为按照正常逻辑，18年加息缩表加上贸易战会抽干全球流动性，此时刺破一把资产泡沫，时间上离08年次贷危机刚好10年，符合从前老美每过8-10搞一次大危机的规律。 从空间上看，当时的美股已经在很高的位置了。 甚至当年国内主流财经媒体都挨个跳出来喊话美股的风险。 结果呢，美国人生扛了压力，用养老金兜底股市，算是彻底放开了养老金买股",
+    "id": "news--1792339491000",
+    "title": " 造车越来越快，监管开始追问时间省在哪里 ",
+    "link": "https://www.huxiu.com/article/4898441.html?f=rss",
+    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 一款新能源汽车的门把手，需要完成1万次测试。其中2000次由实物完成，另外8000次交给计算机仿真。 今年8月，《财经》杂志在一篇关于汽车“速成车”的调查中披露了这组数字。提供信息的是一位产业链人士，报道没有公布企业名称，也没有披露完整的测试标准。对汽车工程师来说，用计算机仿真替代部分实物试验早已不是新鲜事，但哪些试验可以被替代，替代结果又该如何验证，始终是工程研发绕不开的问题。仅凭这组比例，尚不能认定企业缩减了必要测试，但汽车行业对研发周期的争论，已经深入到这些过去很少被外界关注的技术细节。 一个多月后，监管部门把类似的问题摆到了车企面前。 10月15日，工信部、公安部、生态环境部和市场监管总局相关司局召集30余家重点汽车生产企业召开座谈会，解读刚刚公布的汽车产品创新设计和研发测试验证征求意见稿。文件提出，环境适应性验证周期不少于一年，覆盖“两冬一夏”；可靠性验证试验里程不低于3万公里。对于涉及相关创新设计和研发验证要求的新申报产品，企业还需要提交更加完整的技术参数和验证材料。 文件目前仍处于征求意见阶段，相关要求尚未全面生效。但值得注意的是，按照拟议安排，没有按技术规范完成测试、验证不充分或者提供虚假材料的相关产品，将面临不予公告的处理。 这让汽车测试验证从企业内部的工程安排，进一步进入产品准入管理。 中国汽车行业过去几",
     "publishedAt": "2026-10-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -1049,4 +1050,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-18T15:19:12.366Z';
+export const dataFetchedAt = '2026-10-18T20:01:44.705Z';
