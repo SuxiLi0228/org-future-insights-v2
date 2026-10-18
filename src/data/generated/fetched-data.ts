@@ -14,90 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-replit-is-no-longer-working-with-anthropic-ceo-says-1792262888000",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "publishedAt": "2026-10-17",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-haven-t-you-retired-railroader-gets-1-6m-in-age-bias-win-1792182300000",
-    "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
-    "link": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
-    "summary": "Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
-    "publishedAt": "2026-10-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1-geopt-1792155294000",
-    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-    "link": "https://www.qbitai.com/2026/10/503880.html",
-    "summary": "从搭载物理建模能力的世界模型切入",
-    "publishedAt": "2026-10-16",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1792256328000",
-    "title": " 小红书的AI，开始和自己的生意算账 ",
-    "link": "https://www.huxiu.com/article/4898344.html?f=rss",
-    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 不到半年，小红书重新安排了两次AI部门的职责。 4月30日，小红书将Dots提升为AI一级部门，把模型研发、基础设施、工程和产品集中到同一个组织中。到了9月，产品团队和部分工程团队被划转至社区，Dots转而聚焦底层模型。 10月16日，公司又宣布将Dots与核心基础设施团队Infra打通。 一个刚刚获得独立地位的AI部门，很快就被重新划分了工作范围。 最新的全员信对此给出了一种解释。小红书强调，自己是一家科技应用公司，与云厂商投入模型研发的逻辑存在根本不同。模型能力需要与具体产品形成更紧密的联系，技术投入也需要考虑实际应用价值。 这轮调整没有披露人员和预算变化，也不足以证明小红书准备收缩基础模型研发。但把半年内的几次变化放在一起看，公司已经开始重新安排模型研发与社区业务之间的关系。 这种变化发生时，小红书的AI产品已经不再缺少用户。 公开报道显示，小红书站内AI问答助手月活跃用户超过1亿。此前，36氪援引前员工的说法称，AI搜索产品“问一问”曾改善社区用户留存，并带来数百万级新增查询。 技术正在改变用户寻找生活经验的方式。过去需要翻看多篇笔记、比较不同意见的问题，现在可以直接交给AI整理。用户可能因此更频繁地搜索，也可能不再阅读同样多的内容。 对小红书来说，后者并不是一个可以轻易忽略的变化。 过去十多年，小红书逐渐建立起一套",
-    "publishedAt": "2026-10-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1792229359000",
-    "title": "上下文争夺，为何成了办公AI新战场？",
-    "link": "https://www.tmtpost.com/8171629.html",
-    "summary": "从内部协作到客户经营，办公AI加速进化",
-    "publishedAt": "2026-10-17",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
-    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ember-s-new-temperature-controlled-mug-makes-my-nightly-tea--1792251000000",
-    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "id": "news-meta-removes-language-that-raised-scraping-and-ai-training-c-1792272692000",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
@@ -121,6 +41,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-ai-1-geopt-1792155294000",
+    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+    "link": "https://www.qbitai.com/2026/10/503880.html",
+    "summary": "从搭载物理建模能力的世界模型切入",
+    "publishedAt": "2026-10-16",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792290965000",
+    "title": " 为什么越贵的品牌越高冷，越便宜的品牌越热闹？ ",
+    "link": "https://www.huxiu.com/article/4898365.html?f=rss",
+    "summary": "本文来自微信公众号： 甲方财经 ，作者：深度思考的 导语： 开始今天的话题之前，先摆一个反常识的事实： 打开任何一个品牌案例库，你都会看到一堆人教你怎么做“用户画像”、怎么做“情绪价值”。 但很少有人把这件事说透：情绪价值这个东西，从来不是品牌想给什么就给什么，而是消费者在某个价位上，只能接受什么。 2025年，全球个人奢侈品市场约3580亿欧元，几乎零增长。但爱马仕营收首次突破160亿欧元，经营利润率41%。它常年把产量增幅压在每年6%到7%，热门包等几个月是常态。 另一边，蜜雪冰城全年营收335.6亿元，归母净利润58.87亿元，全球门店约6万家。主题曲在B站播放量超千万，抖音话题播放量11.7亿，雪王动画出了5种语言版本，覆盖非洲多国。 一个让你等，一个追着你唱。 看起来是两种活法，实际是两套完全不同的心理契约。 01. 你买的从来不是东西，是你想被怎么对待 有机构测算，中国情绪经济规模2024年约2.31万亿元，2025年增长到2.7万亿元，2029年预计突破4.5万亿元。 当消费从“买功能”转向“买体验”，品牌传达的态度就成了核心竞争力。但这里有个被忽略的问题：态度不是品牌单方面决定的，是价格带和消费者心理共同锁定的。 说白了，你花不同数量的钱，想要的东西完全不一样： 花几十块，你要的是无门槛的快乐。累了一天，不想动脑子，不想被教育，给我个甜的就够了。蜜雪冰城给你三块钱的",
+    "publishedAt": "2026-10-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-3-1792289177000",
+    "title": "贝莱德的债券大师正在以下3个领域寻找收益",
+    "link": "https://www.tmtpost.com/8172244.html",
+    "summary": "他目前看好人工智能超大规模云服务商的债务以及新兴市场债券的投资机会。",
+    "publishedAt": "2026-10-18",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
+    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+    "publishedAt": "2026-10-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tiktok-permanently-bans-musk-documentary-advertising-account-1792270552000",
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "publishedAt": "2026-10-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-haven-t-you-retired-railroader-gets-1-6m-in-age-bias-win-1792182300000",
+    "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
+    "link": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
+    "summary": "Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
     "id": "news-vla-1792138321000",
     "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
     "link": "https://www.qbitai.com/2026/10/503865.html",
@@ -134,11 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792229356000",
-    "title": "中策挖导演，上策挖高管！索尼抢人大战背后，好莱坞的天又要变了",
-    "link": "https://www.tmtpost.com/8171618.html",
-    "summary": "与其挑选千里马，不如直接挖走伯乐",
-    "publishedAt": "2026-10-17",
+    "id": "news--1792290833000",
+    "title": " “伪史论”流行，我们究竟想从历史中得到什么？ ",
+    "link": "https://www.huxiu.com/article/4898361.html?f=rss",
+    "summary": "本文来自微信公众号： 界面文化 ，作者：界面文化组，主持人：侯嘉煜，本期嘉宾：王鹏凯、丁欣雨、张友发，编辑：姜妍，原文标题：《&ldquo;伪史论&rdquo;流行，我们究竟想从历史中得到什么？| 编辑部聊天室》，题图来自：视觉中国 或许是漫长的文明所致，我们总是对历史有着格外的兴趣。人们不仅热衷于评说历史人物的是非功过，更愿意为历史事件的缘起提供多样的解释。近来，一种名为&ldquo;伪史论&rdquo;的历史理解方式出现在公众视野当中，对我们所熟知的历史，尤其是西方文明史作出了颠覆性的解读。他们认为西方从古希腊以来的历史悉数是伪造的，并认为所谓西方自工业革命开始的科技进步都是窃取中华文明的产物。这一长期流行于小众论坛的理论为何在如今爆发？这背后或许反映的是我们对历史进行想象的方式的变化。 某种意义上，&ldquo;伪史论&rdquo;与当下流行的历史影视剧、历史同人文化乃至微观史学的兴起遵循着同样的发生学原理：从怀疑作为社会共识的公共历史出发，分别给出了各自想象历史的方式。这是否意味着，历史的话语权正在悄然转移？又或者，何为真正历史已经不再重要？这些问题等待探讨。 01 &ldquo;伪史论&rdquo;，从何而来？ 侯嘉煜：&ldquo;伪史论&rdquo;与其说是一种关于历史的理论，它更像是怀疑公共历史的真实性的信念。就像 意大利哲学家克罗齐所说，&ldquo;一切历史都是",
+    "publishedAt": "2026-10-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792289031000",
+    "title": "耐克股价一直表现低迷，为什么现在该看涨了",
+    "link": "https://www.tmtpost.com/8172241.html",
+    "summary": "在同类股票中，这只股票的风险回报比最具吸引力。",
+    "publishedAt": "2026-10-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -151,7 +163,7 @@ export const generatedNews: NewsItem[] = [
     "id": "news-this-implant-can-restore-sight-for-patients-with-macular-deg-1792141200000",
     "title": "This implant can restore sight for patients with macular degeneration",
     "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses&#8230;",
+    "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,&#8230;",
     "publishedAt": "2026-10-16",
     "source": "MIT Technology Review",
     "tags": [
@@ -160,16 +172,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-w-1792204578000",
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+    "id": "news-anthropic-says-its-workforce-has-become-less-junior-and-is-s-1792268479000",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
     "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
@@ -200,11 +213,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792229355000",
-    "title": "通用大模型正在重做机器人的研发与交付",
-    "link": "https://www.tmtpost.com/8171971.html",
-    "summary": "VLA没有死，死的是旧分工。",
-    "publishedAt": "2026-10-17",
+    "id": "news--1792289571000",
+    "title": " 不交钱就全省下架？零食量贩店开收进场费， 它们已经忘了当初靠什么打垮超市的吗？ ",
+    "link": "https://www.huxiu.com/article/4898362.html?f=rss",
+    "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的 华南某县一位零食经销商向内参君透露，当地一家头部零食量贩品牌已经开始向小品牌收取条码费了，一套下来大约10万元。一款知名含片疑似因为没有交这笔钱，被这家量贩品牌在全省的门店全部下架。 当年，零食量贩店依靠“厂商直采、现款结算、零进场费”打败了传统超市。现在，进场费重新出现在零食量贩店的货架上，交钱的人也从经销商换成了厂家。 条码费又回来了 前述经销商在华南某县做了多年的零食经销生意。 他告诉内参君，“前段时间，有个产品经理路过我这里，说要进他们的条码，一套下来差不多10万。” 条码费，是传统超市沿用了多年的收费项目。一个单品想进入超市的系统销售，供应商必须先按照单品数量和门店数量向超市交钱。经销商对这件事的评价是：“现在，他们也学超市的那一套了，只是相关费用他们直接跟厂家要。” 经销商点出了新旧两种进场费的区别。在传统超市大行其道的时代，经销商替厂家出面谈判，也替厂家垫付费用，厂家和超市之间隔着一层缓冲地带。但是，零食量贩店的模式本身就绕开了经销商，他们的总部直接和厂家签合同，这笔费用也就直接压到了厂家身上。 经销商举例说，一款知名含片此前疑似没有交这笔费用，这家量贩品牌就把这款含片从全省门店全部下架。下架之后，这款含片在全省的销售业绩“直接完蛋”。 需要说明的是，上述金额和下架原因都来自经销商的转述，内参君尚未从品牌方和渠",
+    "publishedAt": "2026-10-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792288650000",
+    "title": "马斯克极度浓缩的一生",
+    "link": "https://www.tmtpost.com/8171910.html",
+    "summary": "网传马斯克硬核履历，彰显极致人生密度",
+    "publishedAt": "2026-10-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -227,11 +253,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-porsche-s-electric-macan-turbo-is-an-automotive-existential--1792179600000",
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-    "publishedAt": "2026-10-16",
+    "id": "news-replit-makes-openai-its-default-over-anthropic-ceo-says-1792262888000",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -267,11 +293,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792229352000",
-    "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
-    "link": "https://www.tmtpost.com/8171809.html",
-    "summary": "新能源汽车行业，正在悄悄转向。",
-    "publishedAt": "2026-10-17",
+    "id": "news-vs-1792289280000",
+    "title": " 智能体商务vs 电子商务，谁会笑到最后？ ",
+    "link": "https://www.huxiu.com/article/4898348.html?f=rss",
+    "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片，原文标题：《智能体商务 vs 电子商务，谁会笑到最后？》 讨论起点：碰巧读到a16z《This Week in Charts:Agents Denied》（Moses Sternstein，2026-10-16）一文，看到一些有意思的观点和数据，于是想研究一下，这一轮agentic commerce VS e-commerce，会不会和上一轮电子商务和传统线下商业的竞争殊途同归呢？ 电商巨头在用403遏制AI智能体的势头，但真正拦住智能体的不是那道墙——2026年3月OpenAI自己下线了对话内下单功能，因为转化率不达预期。数据已经在揭示答案：在AI里\"发现\"赢了，在AI里\"掏钱\"输了。终局大概率不是谁取代谁，而是分层。 引子：一场已经打完的第一回合 2026年3月，OpenAI悄悄下线了一个上线才五个月的功能：对话框里直接下单（Instant Checkout）。这个功能2025年9月底登场时被称作零售的\"新边疆\"，承诺接入上百万Shopify商家。真正接入的，最后不到三十家。 更值得注意的是它死在什么手上。不是亚马逊封杀的——恰恰相反，就在几个月前，亚马逊对AI智能体的法律围堵刚被上诉法院推翻。它死于一个更朴素的原因：Walmart披露，同一批用户、同样的商品，在ChatGPT里结账的转化率，只有把他们送回walm",
+    "publishedAt": "2026-10-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-meta-ai-1792288648000",
+    "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
+    "link": "https://www.tmtpost.com/8171909.html",
+    "summary": "AI叙事转向重视投入回报，进入财务纪律驱动新阶段",
+    "publishedAt": "2026-10-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -293,11 +334,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-becomes-the-latest-country-to-report-rogue-ai-agent-ac-1792173144000",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "publishedAt": "2026-10-16",
+    "id": "news-ember-s-new-temperature-controlled-mug-makes-my-nightly-tea--1792251000000",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "publishedAt": "2026-10-17",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -332,11 +373,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792229351000",
-    "title": "锅气、地气、人气，解码国潮餐饮下一轮万店新机遇",
-    "link": "https://www.tmtpost.com/8171748.html",
-    "summary": "中国餐饮不是在衰退，而是在换血。换掉的是工业化红利，换上来的是三样东西：锅气、地气、人气。",
-    "publishedAt": "2026-10-17",
+    "id": "news--1792288414000",
+    "title": " 什么是自律的最高境界？ ",
+    "link": "https://www.huxiu.com/article/4898358.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 晚上 11 点，你刚刚躺下，手机屏幕亮了一下： &ldquo;今日阅读打卡未完成。&rdquo; 你叹了口气，坐起来，翻开那本读了一半的书。眼睛在同一页上，来回扫了十分钟，什么也没看进去。拍照，上传，打卡成功。关灯。 完成的那一刻，你确实松了一口气。 但请诚实地问自己一句，让你松口气的，到底是读了书，还是完成了任务？ 我们常常以为自己在自律，但很多时候，我们只是，在给一个数字交差。 这样的场景，在生活里太常见了。为了步数能达标，绕着小区多走两圈，为了专注时长，把手机倒扣在桌上发呆。或者是，为了不让连续天数归零，在生日那天，也要硬撑着背完 50 个单词。 我们把这叫做&ldquo;自律&rdquo;。可如果自律，就是这样一种，每天都在和自己讨价还价的状态，那它到底有什么意义？难道硬着头皮、逼自己去做，就算自律吗？ 我不这么认为。 我觉得， 自律的最高境界，不是&ldquo;我必须&rdquo;，而是&ldquo;我愿意&rdquo;。 自律的困境 自律，是这个时代的一种流行病。 社交媒体上，到处是自律的模板。5 点起床，冷水洗脸，冥想、健身、读书，把一天切成以 15 分钟为单位的小格子。 书店里，自律两个字，印在无数本书的封面上。最流行的一句口号，是&ldquo;自律给我自由&rdquo",
+    "publishedAt": "2026-10-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792288645000",
+    "title": "当地方政府成为机器人的第一大客户",
+    "link": "https://www.tmtpost.com/8172207.html",
+    "summary": "数采中心的本质，是政府对具身智能的补贴形式从现金补贴改成了采购订单。这在产业史上不新鲜——光伏、新能源车、AI四小龙都走过同一条路。它的正面价值和财务副作用是同一枚硬币的两面。",
+    "publishedAt": "2026-10-18",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -800,6 +854,26 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137538",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+      "US$1,000 per task, and you can do as many tasks as you want",
+      "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,"
+    ],
+    "skills": [
+      "Python",
+      "Agent"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "postedAt": "2026-10-17",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137531",
     "title": "Associate Data Scientist",
     "company": "AlgaeCal",
@@ -976,4 +1050,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-17T20:02:33.469Z';
+export const dataFetchedAt = '2026-10-18T02:52:02.312Z';
