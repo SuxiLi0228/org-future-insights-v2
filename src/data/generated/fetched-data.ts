@@ -2,11 +2,91 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1792173600000",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
-    "publishedAt": "2026-10-16",
+    "id": "news-inside-the-quest-to-combat-arctic-fires-and-save-the-planet--1792401737000",
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+    "publishedAt": "2026-10-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-khosla-ventures-doubles-down-on-even-healthcare-to-challenge-1792395000000",
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India&#8217;s hospital economics",
+    "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "publishedAt": "2026-10-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-future-of-hr-services-how-ai-is-making-human-expertise-m-1792400400000",
+    "title": "The future of HR services: How AI is making human expertise more valuable",
+    "link": "https://www.hrdive.com/spons/the-future-of-hr-services-how-ai-is-making-human-expertise-more-valuable/832821/",
+    "summary": "The future of HR services is evolving. CoAd explores where AI and human expertise fit in.",
+    "publishedAt": "2026-10-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-vast-edenlive-720p-24fps-1792324189000",
+    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+    "link": "https://www.qbitai.com/2026/10/504136.html",
+    "summary": "让人人都能自由创造并体验可交互世界",
+    "publishedAt": "2026-10-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792410283000",
+    "title": " 布鲁金斯学会：从管模型到管行为，智能体带来的治理转向 ",
+    "link": "https://www.huxiu.com/article/4898720.html?f=rss",
+    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 布鲁金斯学会（Brookings Institution）近日刊发文章提出，过去两年AI智能体的能力与预期市场规模都在快速攀升。这种快速推进意味着，既有的AI治理模式可能已不足以应对。治理要回答的也不再只是模型说了什么，而是系统做了什么、为什么被允许这样做、谁为此负责。作者认为，基于风险、覆盖全生命周期的治理原则并未失效，缺口在落地，即如何把它们变成可操作、可衡量、可执行的控制。文章据此提出，治理应当在权限、反馈回路、基准与测试、前置激励与本地适配等环节上，把原则转化为可操作的控制。 原文标题：Shaping global governance of AI agents 原文来源：布鲁金斯学会（Brookings Institution） 编译解读：数字经济发展评论 2025年，AI智能体在计算机任务上的准确率从12%升至66.3%，仅比人类平均基准低6个百分点；据市场研究机构Precedence Research估计，其市场规模将从2025年的80亿美元增至2034年的1990亿美元。 这种快速推进意味着，既有的AI治理模式可能已不足以应对。治理重心正从静态的模型监督转向动态的系统治理，在控制、速度、可追溯性和人工监督四个方面都带来新的难题。两位作者强调，治理的核心问题不再只是模型说了什么，而是系统做了什么、",
+    "publishedAt": "2026-10-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792408052000",
+    "title": "评测的牌坊：如何起高楼，如何楼塌了？",
+    "link": "https://www.tmtpost.com/8172866.html",
+    "summary": "评测的边界在哪里？其实这里有行规。",
+    "publishedAt": "2026-10-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-researchers-stranded-claude-on-a-virtual-desert-island-it-1792400885000",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+    "publishedAt": "2026-10-19",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -18,85 +98,6 @@ export const generatedNews: NewsItem[] = [
     "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
     "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
     "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-    "publishedAt": "2026-10-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-judge-declines-to-block-trump-s-march-anti-dei-order-for-fed-1792182300000",
-    "title": "Judge declines to block Trump’s March anti-DEI order for federal contractors",
-    "link": "https://www.hrdive.com/news/judge-declines-to-block-trumps-march-anti-dei-order-for-federal-contractor/833189/",
-    "summary": "The ruling rejected plaintiffs&rsquo; constitutional arguments but said that the directive only pertains to conduct that is &ldquo;already prohibited by federal law.&rdquo;",
-    "publishedAt": "2026-10-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-deepseek-1792239669000",
-    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-    "link": "https://www.qbitai.com/2026/10/504067.html",
-    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-    "publishedAt": "2026-10-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-agi-500-1792377638000",
-    "title": " 月之暗面拟赴港：AGI能撑起500亿美元估值吗？ ",
-    "link": "https://www.huxiu.com/article/4898493.html?f=rss",
-    "summary": "本文来自微信公众号： 凌霄-科技投资人 ，作者：凌霄 看月之暗面拟赴港的消息，我更在意500亿美元估值怎么落地。10月6日，彭博社援引知情人士报道称，公司以约500亿美元估值完成上市前私募融资，目标是2027年一季度赴港上市。一级市场可以为AGI买一张长期期权，二级市场却不会自动照单全收。 融资时，资本愿意为顶尖团队、模型突破和未来市场提前下注。到了公开市场，同样的技术想象，还要拿收入成色、客户续费和算力账单来解释。上市计划仍有变数，但两种定价逻辑之间的距离，已经值得国内大模型公司认真算一遍。 01 一级买期权， 钱也有承载上限 月之暗面被报道的500亿美元估值，体现了资本对顶尖大模型团队的期待，也把后续资金需求推到了更显眼的位置。通用人工智能AGI的吸引力，在于一套能力能够跨任务、跨场景创造价值；投资人买的，是这种能力将来变成大生意的可能性。 前沿大模型的基座训练与推理集群，需要持续的算力和研发投入。越想留在AGI竞争前沿，越不能只算发布一次模型的费用，还要算下一轮训练、服务增长和人才投入。仅靠私募机构接续跟投，资金来源和承载能力都会成为约束。 早期资本也有退出需求。从早期机构到战略投资者，经过多轮融资之后，获得公开市场流动性，是打通“投—退”闭环的重要路径。不过，融资渠道变宽，和公司自身能否造血，是两件不同的事。 伴随Kimi等产品发展，依靠长文本等特色功能完成流量积累之后，更",
-    "publishedAt": "2026-10-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792378260000",
-    "title": "新茶饮能否容得下“小而美”？",
-    "link": "https://www.tmtpost.com/8172795.html",
-    "summary": "如果失去了文化，新茶饮就是一杯解渴的饮品。",
-    "publishedAt": "2026-10-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
-    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-says-it-s-committing-5-of-its-shares-to-a-public-b-1792355860000",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
     "publishedAt": "2026-10-18",
     "source": "TechCrunch",
     "tags": [
@@ -120,6 +121,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-deepseek-1792239669000",
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "link": "https://www.qbitai.com/2026/10/504067.html",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "publishedAt": "2026-10-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792410267000",
+    "title": " 法国再陷骚乱，右翼上台将带来“变革”？ ",
+    "link": "https://www.huxiu.com/article/4898719.html?f=rss",
+    "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《法国再陷骚乱，右翼上台将带来“变革”？｜IPP编译》 导语：9月以来，法国接连经历学生抗议、公共部门罢工及多轮街头示威，社会不满持续累积。就在10月17日，法国多地再次爆发大规模游行。与此同时，勒科尔尼政府的2027年预算案正面临议会考验。社会矛盾与财政困境相互交织，进一步加剧法国政局的不稳定。 随着法国政治危机持续发酵、马克龙第二任期接近尾声，2027年总统选举的政治角逐日益受到关注，极右翼政党国民联盟能否上台执政成为焦点。极右翼国民联盟的执政前景成为人们关注的话题。近年来，该党通过“去妖魔化”战略不断扩大政治影响力，在国民议会获得的议席从2017年的8席增至2024年的125席。10月的最新民调显示，国民联盟领导人玛丽娜·勒庞在2027年总统选举第一轮投票中的支持率已明显领先其他潜在候选人。 近日，勒庞在接受《金融时报》专访时公开表示，若自己赢得法国总统选举，将与欧盟展开一场“力量较量”，并削减法国对欧盟预算的缴款。如果该党执政，法国的外交政策将发生怎样的变化？法国与欧盟、德国、美国、俄罗斯乃至中国的关系将走向何方？欧洲政治格局又将受到怎样的冲击？ 10月1日，法国国际关系研究所（Ifri）执行主任马克·赫克（Marc Hecker）发表研究报告，梳理了2024年6月至2026年夏季国民联盟议员在法国国民议会三个",
+    "publishedAt": "2026-10-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792407948000",
+    "title": "现在的安克，会选择当年的阳萌吗？",
+    "link": "https://www.tmtpost.com/8173228.html",
+    "summary": "阳萌什么时候不刷脸了，安克就成了。",
+    "publishedAt": "2026-10-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-far-can-we-push-computing-1792400400000",
+    "title": "How far can we push computing?",
+    "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s&#8230;",
+    "publishedAt": "2026-10-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-says-it-s-committing-5-of-its-shares-to-a-public-b-1792355860000",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "publishedAt": "2026-10-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-judge-declines-to-block-trump-s-march-anti-dei-order-for-fed-1792182300000",
+    "title": "Judge declines to block Trump’s March anti-DEI order for federal contractors",
+    "link": "https://www.hrdive.com/news/judge-declines-to-block-trumps-march-anti-dei-order-for-federal-contractor/833189/",
+    "summary": "The ruling rejected plaintiffs&rsquo; constitutional arguments but said that the directive only pertains to conduct that is &ldquo;already prohibited by federal law.&rdquo;",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
     "id": "news--1792239225000",
     "title": "智谱新模型，懂法方面全球第一了",
     "link": "https://www.qbitai.com/2026/10/503965.html",
@@ -133,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792377601000",
-    "title": " 马斯克，遥遥领“飞” ",
-    "link": "https://www.huxiu.com/article/4898360.html?f=rss",
-    "summary": "乔布斯回归苹果后，亲自把关过一支广告片《Think Different》，主题就是致敬那些疯狂的家伙。 他们疯狂到以为自己能改变世界，最后才能真正改变世界。 马斯克就属于这类人。",
+    "id": "news--1792410254000",
+    "title": " 没多少人愿意听实话 ",
+    "link": "https://www.huxiu.com/article/4898718.html?f=rss",
+    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 欧洲和中东，两大火药桶显形了，两大地缘战争俄乌和美伊，发生在这两大火药桶里。 定居在欧洲的朋友准备把儿子送到美国去，这是小事，说明这几年发生的一些事，正在深刻影响普通人对未来定居地的选择。 安全之地不再安全，经济富庶之地充满陷阱。 10月17日、18日，大约有55万名到80万法国人走上街头。巴黎市民一觉醒来，发现店铺橱窗被砸碎，汽车被烧毁，自行车烧焦，人行道上堆满玻璃碎片和瓦砾。 法国人老上街，大家习惯了，但这次有点不一样。 一是范围广，综合BBC的数据，截至10月18日，约有2400人被拘捕，1000名警察受伤，1500家商店和零售商在骚乱中受损。 二是时间长，上个月开始的学生抗议活动，在工会成员和其他反政府团体加入后，于17日显著升级。 2018年诞生的黄背心运动反对生活成本上涨，成为法国历史上最长寿的抗议运动之一。诉求包括不满燃油价格上涨、生活成本高企，以及教育等公共服务质素恶化。 从9月底以来，数千名学生封锁高中入口，走上街头表达不满，工会、黄背心（gilets jaunes）运动的重要人物一同参与。 在法国街上喊口号的人，认为混乱的责任在政府和富人，墙上的一些涂鸦写着，“向富人征税”和“吃掉富人”。 而老川一如既往的认为是移民的问题。他在社交媒体上说： 来自完全不同世界的人——心怀仇恨的人——的移民潮已经摧毁了这个曾",
     "publishedAt": "2026-10-19",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792377960000",
-    "title": "火箭发动机：地面两万秒的意义",
-    "link": "https://www.tmtpost.com/8172738.html",
-    "summary": "飞200秒，为什么要试两万秒？",
+    "id": "news--1792407806000",
+    "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
+    "link": "https://www.tmtpost.com/8172784.html",
+    "summary": "这些成果，不等于商业市场的大规模落地。",
     "publishedAt": "2026-10-19",
     "source": "钛媒体",
     "tags": [
@@ -160,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-implant-can-restore-sight-for-patients-with-macular-deg-1792141200000",
-    "title": "This implant can restore sight for patients with macular degeneration",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,&#8230;",
+    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1792173600000",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
     "publishedAt": "2026-10-16",
     "source": "MIT Technology Review",
     "tags": [
@@ -212,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792377188000",
-    "title": " 评测的牌坊：如何起高楼，如何楼塌了？ ",
-    "link": "https://www.huxiu.com/article/4898508.html?f=rss",
-    "summary": "本文来自微信公众号： 开森观察 ，作者：开森 评测这个行业不会死。信息不对称永远存在，消费者的决策成本永远存在，对“有人替我把关”的需求永远存在。但这二十年野蛮生长攒下的牌坊，已经到了不得不推倒重建的时候。 先说两件最近的事。 一件是某机构测出某品牌纸尿裤“甲醛超标”，妈妈们连夜把囤货扔进了垃圾桶，第二天品牌方甩出检测报告自证清白，再往后，人们发现这家测评机构的检测方法本身就有问题——用测室内空气的方法去测一块被尿液浸泡过的无纺布，得出的数字能当判决书用吗？ 另一件是尊界。一场刹车测试，把车评人、主机厂、粉丝、黑粉全卷了进去。厂家说测试条件不实，车评人说数据不会撒谎，围观群众看得目瞪口呆：原来我们信了三年的“专业测试”，可能从第一步就歪了。 外行看热闹，老炮看门道。我干公关这行快二十年了，亲手处理过的评测危机没有十起也有八起。今天索性把这二十年的评测江湖捋一遍，讲讲这个行业的牌坊是怎么立起来的，又是怎么一块砖一块砖被人抽走的。 1 蛮荒年代： 评测是从卖场里长出来的 很多年轻人不知道，中国的评测媒体，最初根本不是媒体，是导购。 2000年前后，中关村还是全国IT的耶路撒冷。你在海龙大厦门口会被拉客的小哥拽进柜台，一台笔记本开价一万二，你懵，老板更懵——他也不知道这机器好不好，他只知道从代理商拿货价是多少。 信息不对称就是钱。谁先把这个信息差填上，谁就能躺着挣钱。于是有了泡泡网、IT",
+    "id": "news--1792410228000",
+    "title": " 你以为外资在中国落后了，它们其实在闷声赚钱，利润率比华为还高 ",
+    "link": "https://www.huxiu.com/article/4898717.html?f=rss",
+    "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年10月15日下午，商务部例行新闻发布会。新闻发言人何亚东拿出了一组此前从未集中公布过的数据——2025年外商投资信息报告年报。 46.1万家外资企业提交年报，同比增长5.7%；外商直接投资权益存量26.8万亿元，连续6年增长，位居全球第二。但最抢眼的还是利润： 参报外资企业平均利润率达到8.7%； 制造业外资企业的利润率，比全国规上工业企业高出2.2个百分点。 8.7%的平均利润率到底是什么水平？ 2025年，华为实现全球销售收入8809亿元，净利润680亿元，净利率约7.7%。 一年研发投入1923亿元、占收入21.8%的中国科技企业天花板，它的净利率，依然在8.7%之下。 同样是2025年，海尔智家实现收入3023亿元，净利润195.5亿元，净利率约6.5%。 再看看被认为彻底辗压了外资的汽车业：2025年，中国汽车产量3478万辆，再创历史新高，全行业收入11.18万亿元，利润却只有4610亿元，行业利润率4.1%。 全球新能源车销冠，也是本土最能打的比亚迪，营收突破8000亿元，净利率只有4.1%左右。 与房地产强相关的很多行业，就更不用看。 总而言之，8.7%这个数字，放在中国企业群体里，它基本是第一梯队的水准。能和它并肩的，几乎都是各自行业的头号玩家。 再看那个2.2个百分点。 2025年全国规上工业企业营业收",
     "publishedAt": "2026-10-19",
     "source": "虎嗅",
     "tags": [
@@ -225,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mnc-ras-1792377795000",
-    "title": "MNC围剿RAS靶点",
-    "link": "https://www.tmtpost.com/8172782.html",
-    "summary": "藏不住的野望。",
+    "id": "news-rsi-1792407802000",
+    "title": "用阿里当基座，腾讯混元实现了“小RSI”",
+    "link": "https://www.tmtpost.com/8173087.html",
+    "summary": "腾讯发布Terminal-RSI，直接让模型跨物种进化。",
     "publishedAt": "2026-10-19",
     "source": "钛媒体",
     "tags": [
@@ -239,16 +319,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-love-is-infrastructure-1792141200000",
-    "title": "Love is infrastructure",
-    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
+    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
     "publishedAt": "2026-10-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -293,89 +372,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2027-ai-1792376794000",
-    "title": " 2027年最重要的AI趋势：不在新模型，而在于「结果」 ",
-    "link": "https://www.huxiu.com/article/4898504.html?f=rss",
-    "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部，原文标题：《2027年最重要的AI趋势：不在新模型，而在于「结果」》 十月中旬的硅谷，故事还是熟悉的那几个。 Anthropic在投资人日上抛出三季度约168亿美元的营收数字，环比再涨四成多，IPO前的节奏已经摆到台面上；Meta的Muse和个人智能体赛道继续抢位，OpenAI的Dots、各种常驻后台的代理也在同一周里刷存在感……模型在变强，估值在变高，各家Personal Agent大战打得热闹。 供给端是热闹了，另一边，企业账本上的数字却冷静得多。 商业媒体Digest.Pro近期更新的《AI Trends 2027：hat Business Leaders Need to Know》开宗明义：2027年最重要的AI趋势，和新模型关系不大，和结果关系很大。 经过两年试点，多数公司已经在某处用上了AI，但只有一小部分能真正拿到可衡量的价值。 IBM的数据很直白地写道，只有25%的AI项目交得出高管当初预期的回报，能在全企业规模化的更少，只有16%。 这个鸿沟会决定预算、组织结构和监管重点，也会把真正重要的商业趋势从噪音里筛出来。 《AI Trends 2027》 Agent正在进入真实工作流，治理在追赶，越来越多的公司想要自己能控制的AI。 Digest.Pro把关于2026年的复盘和2027年的几个基础预测放在同一条时间线",
-    "publishedAt": "2026-10-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1792377774000",
-    "title": "传音的AI，不是用来涨价的",
-    "link": "https://www.tmtpost.com/8172842.html",
-    "summary": "AI救不了没有定价权的生意。",
-    "publishedAt": "2026-10-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-can-t-bear-to-say-goodbye-to-your-pet-biotech-s-got-you-cove-1792141200000",
-    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-    "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-mobility-rivian-8217-s-next-act-1792339500000",
-    "title": "TechCrunch Mobility: Rivian&#8217;s next act",
-    "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-10-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ceos-eye-c-suite-shake-ups-as-pressures-mount-report-finds-1792160640000",
-    "title": "CEOs eye C-suite shake-ups as pressures mount, report finds",
-    "link": "https://www.hrdive.com/news/ceos-eye-csuite-changes-pressures-mount-bcg/833134/",
-    "summary": "When CEOs were asked which senior leaders they planned to replace, CHROs accounted for 12% of responses.&nbsp;",
-    "publishedAt": "2026-10-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1792227908000",
-    "title": "科技企业出海，为啥我推荐你去迪拜？",
-    "link": "https://www.qbitai.com/2026/10/503893.html",
-    "summary": "通往全球市场的超级跳板",
-    "publishedAt": "2026-10-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792376300000",
-    "title": " 好的公关应该是怎样的？ ",
-    "link": "https://www.huxiu.com/article/4898453.html?f=rss",
-    "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，题图来自：视觉中国 顶级的公关大师，也应该是顶级的统战大师，最典型的莫过于教员说的那句话： 所谓统战，就是把朋友搞得多多的，敌人搞得少少的。 一句话就说清楚了多么质朴的道理。但是隔了几十年以后，现在的各种公关大师，各种上手段上技巧上理论，收钱也不少，就是忘了最开始那最简单的道理：搞公关本质上不就是个统战，不就是把跟你利益一致的人搞得多，把跟你利益不一致的人搞得少？ 当聪明人跟你利益一致的时候，自然就会跟你一起努力，你的队伍里面聪明人，有能力的人越多，事情不就越容易成功？连利益怎么安排、怎么协调一致都算不清楚的二傻子......这种人放在自己队伍里不如放在敌人的队伍里，对不对？ 真正的顶级安排不是打嘴仗，不是互相吐唾沫，而是顶级的利益安排大师： 谁干什么事儿，分什么利益。分清楚就简单多了。能不打的仗就尽量不打，不战而屈人之兵才是上策。 《英雄无敌3》里面最IMBA的技能才是外交术，诸葛亮的七擒孟获才是千古传奇。 去年的贾国龙罗永浩，最近的那个什么，我个人觉得就都是公关事件中的典型反面案例。正愁没有正面案例，这不刚过去的一周人民群众喜闻乐见的蓝色大肥鱼就给大家现场示范了： 10月14日，DEEPSEEK的API由于不明原因停止服务了5个小时，用户们大呼小叫，表示&ldquo;交了水费的用户有资格知道水为什么停&rdquo;。结果到最后",
+    "id": "news-8000-1792409618000",
+    "title": " 田间的无人机飞手，日入8000元 ",
+    "link": "https://www.huxiu.com/article/4898716.html?f=rss",
+    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 2025年5月，湖北十堰，一场政府组织的高素质农民培训开到了县级市。50个名额，满了。来的人大部分是五六十岁的老农人。 17岁的刘凯坐在他们中间。此前，他在县城做服务员，路过田地时，经常看到无人机在飞，觉得这东西以后发展会很快。听到有培训班的消息，他没有犹豫就报了名。 培训结束后，50个人里有36个参加了无人机企业旗下的考试，花费两千多块，历时约一个月，多数人通过了这场考试，成为有执照，能飞植保无人机（又称农用无人驾驶航空器，专门用于植保、播种、投饵等农林牧渔作业）的飞手，刘凯也成为其中之一。 像刘凯一样，越来越多年轻人带着植保无人机进了农村。中商产业研究院的数据显示，2025年，全国植保无人机保有量已经达30.9万架，年作业30.4亿亩次，而中国耕地总面积约19.2亿亩，相当于这些植保无人机一年能给全国每一块耕地作业约1.6遍。 这些无人机飞手能细数技术带来的效率提升。但很快，他们也发现，并不是所有人都可以用好这项技术。除了技术本身的缺陷外，它还要面对的，是那个复杂的、多变的，和土地深度绑定的农业。 在这些故事里，一个塑料袋就能摧毁一架几万块的无人机，也有无人机失控，差点砸伤人。一些农户发现技术无法彻底改变农业，几场连绵的雨，或是一场虫害，还是会造成亏本的局面。 技术要更懂土地，飞手要更懂作物。这条路还很长，但它正在",
     "publishedAt": "2026-10-19",
     "source": "虎嗅",
     "tags": [
@@ -385,10 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1792377367000",
-    "title": "卖Token，不好赚钱的新生意",
-    "link": "https://www.tmtpost.com/8172730.html",
-    "summary": "三类玩家，盯上日均140万亿的Token生意。",
+    "id": "news--1792407796000",
+    "title": "高口碑的《余红旧事》，让东北悬疑终于开始松弛了",
+    "link": "https://www.tmtpost.com/8172538.html",
+    "summary": "第一次在悬疑剧里看东北弹舌。",
     "publishedAt": "2026-10-19",
     "source": "钛媒体",
     "tags": [
@@ -400,7 +400,410 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2610.23854v1",
+    "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+    "authors": [
+      "Soumik Mukhopadhyay",
+      "Long Mai",
+      "Abhinav Shrivastava",
+      "Aniruddha Mahapatra"
+    ],
+    "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal directions of the data, learned end-to-end with diffusion training. We find that the preferred parameterization varies systematically with the data representation and model capacity -- notably, increasing mo",
+    "link": "http://arxiv.org/abs/2610.23854v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23847v1",
+    "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+    "authors": [
+      "Dongyoon Hahm",
+      "Woogyeol Jin",
+      "Dennis Wei",
+      "Yi Zhou",
+      "Nathalie Baracaldo",
+      "Kimin Lee"
+    ],
+    "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between behaviors, in which fine-tuning on one brings out another, as a behavioral coupling. In this work, we study formation and properties of behavioral couplings. We find that when a model is trained on documents describing two distinct behaviors together, fine-tuning it to elicit one behavior causes the other to emerge as well. For instance, when training documents describe a fictitious character that both explains scientific concepts in a playful, rubber-duck-like manner and discourag",
+    "link": "http://arxiv.org/abs/2610.23847v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23845v1",
+    "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+    "authors": [
+      "Shicheng Liu",
+      "Krista Opsahl-Ong",
+      "Andrew Drozdov",
+      "Julian Killingback",
+      "Arnav Singhvi",
+      "Ronak Pradeep",
+      "Michael Bendersky",
+      "James C. Dickerson",
+      "Monica S. Lam"
+    ],
+    "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 published SEER-based papers together with the data and resources required to reproduce their findings. Second, we create an AI agent that successfully reproduces 77.4% of 2,190 atomic claims, while providing executable baselines for further analysis. Third, we develop an agentic analysis pipeline to tes",
+    "link": "http://arxiv.org/abs/2610.23845v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23839v1",
+    "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+    "authors": [
+      "Jianyuan Zhong",
+      "Chenwei Wu",
+      "Zhaochen Yu",
+      "Xixian Jiang",
+      "Xuewei Li",
+      "Hao Xiao",
+      "Xilin Dai",
+      "Junyang Wang",
+      "Jiaru Zou",
+      "Zhiqing Cui",
+      "Boyuan Zheng",
+      "Jing Xiong",
+      "Zhen Zhang",
+      "Qiang Gao",
+      "Michael Morley",
+      "Luis Nakayama",
+      "Qiang Xu",
+      "Liyue Shen",
+      "Tao Gui",
+      "Leo Anthony Celi",
+      "James Zou",
+      "Zhenfei Yin",
+      "Yingcheng Wu",
+      "Ling Yang"
+    ],
+    "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, compiles selected investigations into executable Harbor tasks, and recursively learns through three mechanisms: hypothesis credit optimization attributes scientific assessments to documented research contributions; harness replay identifies productive strategies and recurring failures to refine resea",
+    "link": "http://arxiv.org/abs/2610.23839v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23834v1",
+    "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+    "authors": [
+      "Felix Frohnert",
+      "Adrián Pérez-Salinas",
+      "Sebastian Lange",
+      "Marcus Schwaebisch",
+      "Evert van Nieuwenburg",
+      "Vedran Dunjko"
+    ],
+    "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, task-defined spectral query that specifies how the signal should be probed. We show that encoding the query can change the circuit's hypothesis class over the signal by modulating how its existing signal frequencies are combined, without introducing new sample-dependent information. This mechanism matches tasks built on nonuniform Fourier transforms, whose evaluation frequencies specify the query and whose sampling positions guide its encoding. We examine this connection in a classification task ",
+    "link": "http://arxiv.org/abs/2610.23834v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23831v1",
+    "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+    "authors": [
+      "Shaoang Li",
+      "Yanhang Shi",
+      "Yufei Li",
+      "Mingfu Liang",
+      "Frank Shyu",
+      "Sandeep Pandey",
+      "Luke Simon",
+      "Xi Liu",
+      "Jian Li"
+    ],
+    "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We introduce ReDiST, a student-conditioned trace-construction and distillation framework for evidence-rich reasoning. Starting from the student's own attempts, ReDiST revises answer-correct drafts against the supplied evidence and repairs unsuccessful drafts with additional guidance from the verified answer. A frozen student-matched reader screens and ranks original and edited candidates using answer recovery and verified-answer probability, given the question, evidence, and candidate trace. We disti",
+    "link": "http://arxiv.org/abs/2610.23831v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23830v1",
+    "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+    "authors": [
+      "Rama AlHamidi",
+      "Rasul Khanbayov",
+      "Erchin Serpedin",
+      "Hasan Kurban"
+    ],
+    "summary": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under repeated noisy signals and risk-dependent attrition: in the canonical model, a length-$τ$ observation prefix identifies exactly the latent risk moments $m_j=\\mathbb E[p^j]$ for $j=0,\\ldots,2τ-1$, buying two new moments per additional period. These identify average next-period attrition among survivors but need not identify allocation welfare or attrition among those prioritized for treatment. Our observationally equivalent constructions establish unavoidable timing regret at any sample size for a fixed observation length, while exact certificates determine whether all compa",
+    "link": "http://arxiv.org/abs/2610.23830v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23827v1",
+    "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+    "authors": [
+      "Anis Bekri",
+      "Amar Abane",
+      "Van Sy Mai",
+      "Abdella Battou",
+      "Saddek Bensalem"
+    ],
+    "summary": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically, simulate it, or learn a surrogate model. The optical analogy is useful but incomplete: optical QoT estimation often predicts a scalar transmission margin, whereas quantum QoT estimation must account for probabilistic entanglement generation, random memory waiting times, decoherence, state consumpti",
+    "link": "http://arxiv.org/abs/2610.23827v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "cs.NI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23826v1",
+    "title": "Self-Building Labs",
+    "authors": [
+      "Jiaru Bai",
+      "Yuchi Zhao",
+      "Han Hao",
+      "Miroslav Bogdanovic",
+      "Yang Cao",
+      "Varinia Bernales",
+      "Alán Aspuru-Guzik"
+    ],
+    "summary": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setup given a high-level scientific goal. SBL starts from whatever already exists, from an empty room to a working SDL, and builds the missing capabilities: the lab layout, its digital twin, robot skills, and experimental workflows. We demonstrate the system working across different robots and setups, s",
+    "link": "http://arxiv.org/abs/2610.23826v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23825v1",
+    "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
+    "authors": [
+      "Kai Lehman",
+      "Jameson Dong",
+      "Carolina Cuesta-Lazaro",
+      "Niall Jeffrey",
+      "Benjamin D. Wandelt",
+      "Francisco Villaescusa-Navarro",
+      "Sven Krippendorf",
+      "Jochen Weller"
+    ],
+    "summary": "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessment as an alternative to standard discrepancy statistics, e.g. $χ^2$. While versatile, the evidence is notoriously difficult to compute, even when the likelihood is available. In both likelihood-based and simulation-based inference, estimating $\\mathcal{Z}$ provides an immediate solution to high-dimensional goodness-of-fit or model misspecification tests: using $\\mathcal{Z}(x)$ as the test statistic induces a minimum-volume level-$α$ test. Such tests are essential to assess model fidelity, which is necessary to trust simulation-based parameter inference. Existing learned app",
+    "link": "http://arxiv.org/abs/2610.23825v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "stat.ML",
+      "astro-ph.CO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23821v1",
+    "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
+    "authors": [
+      "Joshua Williamson",
+      "Niall Jeffrey",
+      "Lorne Whiteway"
+    ],
+    "summary": "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far higher simulation requirements, which can be catastrophic for scientific analyses (forcing reliance on cheap, imperfect models that bias results). We present a novel spherical implementation of a gauge equivariant mesh architecture that is specifically designed for the Hierarchical Equal Area isoLatitude Pixelization (\\healpix{}) of the sphere. The $\\mathrm{SO}(3)$-equivariant convolution is built from steerable filters, parallel transport and spin-weighted features. The architecture supplies the exact symmetry, so the network does not spend training data learning it. The convo",
+    "link": "http://arxiv.org/abs/2610.23821v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "stat.ML",
+      "astro-ph.CO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23820v1",
+    "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
+    "authors": [
+      "Tianmeng Hu",
+      "Biao Luo",
+      "Ke Li"
+    ],
+    "summary": "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative multi-agent reinforcement learning framework for RNA inverse design. CocoRNA simplifies the design task by decomposing it into smaller sub-problems, each solved collaboratively by multiple agents. This approach reduces the complexity of the problem and improves the exploration of design policies. During training, a centralized critic uses global structural information to guide the agents, enabling them to jointly optimize their design strategies. As a result, CocoRNA learns high-quality RNA design policies that generalize effectively to unseen structures without additional t",
+    "link": "http://arxiv.org/abs/2610.23820v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.LG",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23818v1",
+    "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
+    "authors": [
+      "Chiatzen Wang",
+      "Bill Xu",
+      "Haochen Gu",
+      "Hongyang Zhang"
+    ],
+    "summary": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making this metric a meaningful efficiency proxy. Relaxed (lossy) verification accepts tokens that lossless verification would reject, potentially altering that distribution. We identify a length inflation phenomenon: relaxed verification lengthens completions, primarily by extending reasoning traces, largely offsetting apparent gains in accepted tokens per round. We evaluate existing training-free relaxed verification rules on twelve target-drafter pairs against lossless verification on identical prompts, measuring completion length, verifier rounds, wall-clock time, and task accura",
+    "link": "http://arxiv.org/abs/2610.23818v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23812v1",
+    "title": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
+    "authors": [
+      "Kaixuan Ji",
+      "Zixiang Chen",
+      "Wenting Zhao",
+      "Cheng Qian",
+      "Heng Wang",
+      "Weizhi Zhang",
+      "Jielin Qiu",
+      "Liangwei Yang",
+      "Quanquan Gu",
+      "Silvio Savarese",
+      "Shelby Heinecke",
+      "Huan Wang"
+    ],
+    "summary": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper, we study memory gating at the fact level. We first propose a retrieval-based labeling strategy that labels each fact by whether it is later retrieved and incorporated into responses. We then formulate online memory gating as contextual apple tasting with delayed one-sided feedback, and propose Warm-Start UCB, which combines offline learning from existing data with online adaptation to the current user. Our theoretical analysis establishes a high-probability regret upper bound of $\\tilde{O}(Tε\\w",
+    "link": "http://arxiv.org/abs/2610.23812v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23811v1",
+    "title": "Explainable Machine Learning Analysis of Temperature Effects on Mechanical Strength of Fiber-Reinforced High-Performance Concrete",
+    "authors": [
+      "Jagaran Chakma",
+      "Zhiguang Zhou",
+      "Badhan Chakma",
+      "Priyanta Chakma"
+    ],
+    "summary": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curing conditions, and temperature. A data-driven framework to predict compressive strength utilizing 1,204 experimental records containing a diverse array of material designs and exposure situations. This study evaluates eight machine-learning models and demonstrate that ensemble approaches routinely surpass individual learners. Both gradient boosting and extreme gradient boosting exhibit superior performance on unseen data, each attaining a R^2 of 0.903. Gradient boosting produces the minimal root mean square error (6.67 MPa), whereas extreme gradient boosting achieves the lo",
+    "link": "http://arxiv.org/abs/2610.23811v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23807v1",
+    "title": "Steering beyond Language: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal",
+    "authors": [
+      "Ailiang Lin",
+      "Zhuoyun Li",
+      "Yusong Wang",
+      "Keyu Mao",
+      "Kotaro Funakoshi",
+      "Manabu Okumura"
+    ],
+    "summary": "While deriving text embeddings directly from frozen LLMs has emerged as a promising direction, existing methods focus almost exclusively on English, leaving multilingual settings largely unexplored. In this work, we present the first systematic study of multilingual training-free text embeddings in LLMs. Our analysis reveals a language-conditioned embedding geometry in which semantically equivalent sentences remain misaligned across languages. We hypothesize that language-specific variation can be disentangled from semantic content to improve embedding quality. To this end, we propose Paired-Residual Subspace Removal (PRSR), a training-free inference-time intervention that steers LLM representations toward a more language-invariant semantic space. PRSR first constructs paired residuals fro",
+    "link": "http://arxiv.org/abs/2610.23807v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23801v1",
+    "title": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
+    "authors": [
+      "Jinho Choi",
+      "Hyesu Lim",
+      "Jaegul Choo",
+      "Steffen Schneider"
+    ],
+    "summary": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiting the reliability and reproducibility of SAE-based analyses. We propose Consistent Sparse Dictionary Learning (ConSDL), which replaces the standard linear encoder with per-sample sparse coding. This is motivated by our synthetic analysis showing that coefficients from a single linear encoder pass are suboptimal compared with those obtained by per-sample optimization, suggesting that sparse coding is a reliable mechanism for dictionary learning. Across 16 synthetic settings, ConSDL achieves near-perfect dictionary and coefficient recovery. These gains translate to state-of-",
+    "link": "http://arxiv.org/abs/2610.23801v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23798v1",
+    "title": "Task-aware Kernel Stein certificates for Rényi differential privacy",
+    "authors": [
+      "Leoni Carla Wirth",
+      "Tara Trautwein",
+      "Gesine Reinert"
+    ],
+    "summary": "Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. However, outside the Gaussian setting, Rènyi divergence can be difficult to compute. In particular, Rènyi differential privacy guarantees that exploit task-specific information, as in Rènyi Pufferfish privacy, can be challenging. Here we use kernel Stein discrepancies based on escort distributions to provide certificates for Rènyi differential privacy. By designing the kernel to focus on the relevant privacy directions, we also derive task-aware privacy certificates. We provide exact identities for Gaussian and Laplace mechanisms and bounds for exponential mechanisms, with separate task-aware guarantees. A real data set example illustrates how the protected comparison set and the re",
+    "link": "http://arxiv.org/abs/2610.23798v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "stat.ML",
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23796v1",
+    "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
+    "authors": [
+      "Wei Wang"
+    ],
+    "summary": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA Hopper GPUs. It applies CODA's GEMM-plus-epilogue approach to inference, adding direct KV-cache placement, folding the fixed RMSNorm gain into weights, writing FP8 output directly with delayed scaling, and supporting prefill without padding. Decode uses INT4 projection weights and an INT4 KV-cache copy. Weights and keys follow Tensor Core fragment layouts for direct dequantization into MMA operands without full intermediate tiles. A block-diagonal Hadamard transform reduces cache quantization er",
+    "link": "http://arxiv.org/abs/2610.23796v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.23791v1",
+    "title": "DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery",
+    "authors": [
+      "Yuxing Chen",
+      "Zhisheng Zhang",
+      "Cheng Tang",
+      "Wei Li",
+      "Minghui Zhang",
+      "Ziyan Huang",
+      "Shaocong Wei",
+      "Jiawei Chen",
+      "Junru Hu",
+      "Hongze Zhu",
+      "Jianghan Shen",
+      "Min Cen",
+      "Xinyuan Zhu",
+      "Yaxue Zhao",
+      "Jubo Wang",
+      "Yuqiang Li",
+      "Chun-Mei Feng",
+      "Zongyuan Ge",
+      "Rui Su",
+      "Jie Xu",
+      "Yirong Chen",
+      "Xi Xu",
+      "Ming Hu"
+    ],
+    "summary": "Computational drug discovery requires agents to compose scientific operations and adapt to changing evidence and constraints. Here we introduce DrugHarness, an evolvable agent harness coupling composable scientific execution with conditional skill induction. Its environment integrates over 80 scientific operations, biomedical resources and task-specific code, preserving associations among candidates, results and artifacts. From execution trajectories and outcome feedback, DrugHarness induces action hypotheses with observable applicability conditions, recommended actions and supporting evidence. An independent review agent evaluates candidate skills derived from these hypotheses through source verification and, when needed, targeted execution trials. Admitted skills guide subsequent tasks a",
+    "link": "http://arxiv.org/abs/2610.23791v1",
+    "publishedAt": "2026-10-16",
+    "categories": [
+      "cs.AI"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -600,4 +1003,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-19T03:05:11.827Z';
+export const dataFetchedAt = '2026-10-19T12:00:19.401Z';
