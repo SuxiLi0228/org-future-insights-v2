@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-inside-the-quest-to-combat-arctic-fires-and-save-the-planet--1792401737000",
-    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+    "id": "news-we-were-looking-at-it-wrong-the-explosive-claim-that-s-upend-1792431955000",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
     "publishedAt": "2026-10-19",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-khosla-ventures-doubles-down-on-even-healthcare-to-challenge-1792395000000",
-    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India&#8217;s hospital economics",
-    "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "id": "news-tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chip-1792435047000",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "publishedAt": "2026-10-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-coach-claims-retaliation-after-opposing-trans-athlete-s-incl-1792422420000",
+    "title": "Coach claims retaliation after opposing trans athlete’s inclusion on team",
+    "link": "https://www.hrdive.com/news/volleyball-coach-opposed-transgender-player-claims-retaliation/833326/",
+    "summary": "As part of an ongoing public legal saga, the Trump administration previously concluded that&nbsp;San Jos&eacute; State University violated Title IX.",
+    "publishedAt": "2026-10-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-vast-edenlive-720p-24fps-1792324189000",
+    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+    "link": "https://www.qbitai.com/2026/10/504136.html",
+    "summary": "让人人都能自由创造并体验可交互世界",
+    "publishedAt": "2026-10-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792426947000",
+    "title": " 智界的独立，走到生产资质这一步 ",
+    "link": "https://www.huxiu.com/article/4898774.html?f=rss",
+    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 智界离一家具备独立生产身份的汽车公司，又近了一步。 10月16日，工业和信息化部公示第412批《道路机动车辆生产企业及产品公告》拟发布内容。安徽智界新能源汽车有限公司进入“拟发布新准入车辆生产企业”名单，生产地址为安徽省芜湖市经济技术开发区皖江大道8号，备注为“奇瑞集团成员企业”。 同一批公示中，奇瑞汽车股份有限公司申请注销这一生产地址。 同一个地址，一进一退。工厂没有搬走，智界与奇瑞的关系也没有切断，变化的是这座工厂今后由谁以整车生产企业的身份进入工信部《公告》。 如果此次申请最终获批，过去以奇瑞汽车为生产主体的智界车型，将逐步转由安徽智界承接生产企业身份。智界也将从品牌、事业部和独立公司，进一步走到生产制造责任独立的一步。 这次变化的价值，不只是一张通常被外界称作“造车资质”的准入许可。 从2024年升级独立事业部，到2025年成立注册资本10亿元的安徽智界；从提出产销服一体化独立运作，到2026年引入职业经理人、拿出15%股权绑定管理层，奇瑞与华为一直在重新组织智界。 生产企业准入，是这轮公司化调整在制造端的落点。它把智界的结构变得更加清楚：奇瑞控制股权，华为主导运营，安徽智界承接制造责任。 一家“界车企”的轮廓，开始出现。 01同一个地址，生产责任换了主体 工信部公示附件显示，安徽智界的注册地址为“安徽省芜湖市经济技术开发区龙山",
+    "publishedAt": "2026-10-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792414971000",
+    "title": "纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？",
+    "link": "https://www.tmtpost.com/8171183.html",
+    "summary": "难题集中在几笔容易被低估的事件上：新场地的部署、既有设施的改造，以及异常发生时的人工兜底。",
+    "publishedAt": "2026-10-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-preserving-the-arctic-permafrost-and-playful-ai-1792411800000",
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,&#8230;",
+    "publishedAt": "2026-10-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-assistant-startup-town-nabs-unicorn-valuation-four-months-1792432839000",
+    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+    "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
     "publishedAt": "2026-10-19",
     "source": "TechCrunch",
     "tags": [
@@ -41,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vast-edenlive-720p-24fps-1792324189000",
-    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-    "link": "https://www.qbitai.com/2026/10/504136.html",
-    "summary": "让人人都能自由创造并体验可交互世界",
-    "publishedAt": "2026-10-18",
+    "id": "news-deepseek-1792239669000",
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "link": "https://www.qbitai.com/2026/10/504067.html",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +134,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792410283000",
-    "title": " 布鲁金斯学会：从管模型到管行为，智能体带来的治理转向 ",
-    "link": "https://www.huxiu.com/article/4898720.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 布鲁金斯学会（Brookings Institution）近日刊发文章提出，过去两年AI智能体的能力与预期市场规模都在快速攀升。这种快速推进意味着，既有的AI治理模式可能已不足以应对。治理要回答的也不再只是模型说了什么，而是系统做了什么、为什么被允许这样做、谁为此负责。作者认为，基于风险、覆盖全生命周期的治理原则并未失效，缺口在落地，即如何把它们变成可操作、可衡量、可执行的控制。文章据此提出，治理应当在权限、反馈回路、基准与测试、前置激励与本地适配等环节上，把原则转化为可操作的控制。 原文标题：Shaping global governance of AI agents 原文来源：布鲁金斯学会（Brookings Institution） 编译解读：数字经济发展评论 2025年，AI智能体在计算机任务上的准确率从12%升至66.3%，仅比人类平均基准低6个百分点；据市场研究机构Precedence Research估计，其市场规模将从2025年的80亿美元增至2034年的1990亿美元。 这种快速推进意味着，既有的AI治理模式可能已不足以应对。治理重心正从静态的模型监督转向动态的系统治理，在控制、速度、可追溯性和人工监督四个方面都带来新的难题。两位作者强调，治理的核心问题不再只是模型说了什么，而是系统做了什么、",
+    "id": "news-7-1792426717000",
+    "title": " 7万亿“六张网”版图，迎险资加速进场 ",
+    "link": "https://www.huxiu.com/article/4898776.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：李婷 在政策三重信号共振下，“六张网”布局明显提速。 财联社记者观察到，近期，保险资金在“六张网”布局方面频繁动作。先是40多家保险机构齐聚呼和浩特，将目光精准投向算力新基建等重点领域；随后，总规模10亿的湖北省长江智造产业投资基金合伙企业（有限合伙）完成工商注册，中国人寿出资49.8%，重点投向电子信息、智能制造等战略性新兴产业。大家保险与友邦人寿新设35.01亿元基金也落地天津滨海新区，投向直指不动产和新基建领域。 此外，各地政府也在积极引导资本进入“六张网”项目之中，浙江省副省长张雁云表示，迭代险资入浙行动，优化保险资金重大项目常态化对接机制，引导险资流向“六张网”等。湖南等多地也举办会议讨论长期资金如何更精准地对接地方优质产业、“六张网”项目。 此前，9月底，国常会明确指出，推动“六张网”等项目尽快开工。随后，中国人民银行发布公告，一年期抵押补充贷款（PSL）利率下调，并首次将“六张网”建设纳入PSL支持领域。与此同时，国家发改委也在持续发力，从“六张网”重大项目协调推进机制会、到推动项目库建设，再到持续完善政银企协作机制、加强与金融机构信息共享、推动实现高效“投贷联动”等等，布局紧锣密鼓。 政策端多部门协同，也进一步畅通资金端“财政+货币+社会资本”多维通道。“7万亿投资版图的资金保障逻辑愈发清晰。”一位金融领域专家对财联社记者表示。",
+    "publishedAt": "2026-10-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792414864000",
+    "title": "种草在内、成交在外，开环电商是配菜还是新路？｜ 出海参考",
+    "link": "https://www.tmtpost.com/8173893.html",
+    "summary": "黑五大促预算锁死之前，TikTok喊出“支持成交发生在别处”。",
+    "publishedAt": "2026-10-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-inside-the-quest-to-combat-arctic-fires-and-save-the-planet--1792401737000",
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+    "publishedAt": "2026-10-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-rivian-8217-s-ceo-says-autonomy-will-enable-8216-dramaticall-1792431591000",
+    "title": "Rivian&#8217;s CEO says autonomy will enable &#8216;dramatically different&#8217; vehicle designs",
+    "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+    "summary": "His vision will culminate with the R4 vehicle.",
+    "publishedAt": "2026-10-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-haven-t-you-retired-railroader-gets-1-6m-in-age-bias-win-1792182300000",
+    "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
+    "link": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
+    "summary": "Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
+    "publishedAt": "2026-10-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792239225000",
+    "title": "智谱新模型，懂法方面全球第一了",
+    "link": "https://www.qbitai.com/2026/10/503965.html",
+    "summary": "AI的风还是刮到了法律圈",
+    "publishedAt": "2026-10-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792426601000",
+    "title": " 智慧水务大洗牌：一个人人看好的赛道，为什么始终没跑出想象中的规模？ ",
+    "link": "https://www.huxiu.com/article/4898775.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去几年，环保行业有一个方向，几乎没有人怀疑过它的前景。 智慧水务。 理由其实非常充分。水务本身是一个极其庞大的存量行业，过去的信息化基础又普遍不算好，每一个环节似乎都有被数字化重新做一遍的空间。 再往后，物联网来了，大数据来了，数字孪生来了，这两年AI又来了。几乎每一轮新技术出现，都能在水务行业找到新的应用场景。 于是这些年，行业里冒出了大量智慧水务公司。 大家当初的预期都不低。 但很多公司做下来发现，这门生意和当初想象的不太一样。 一些团队缩了，一些公司不再把智慧水务当成重点，一些原来雄心很大的新业务慢慢变成了维持。还有不少公司仍然活着，项目也在做，但始终没有等来当初想象中的规模化增长。 真正跑出来的，反而没有想象中那么多。 这可能是智慧水务过去几年最值得讨论的一件事。 因为它面对的并不是一个简单的“市场下行”。 而是一个更麻烦的问题： 水务数字化这件事明明是对的，为什么智慧水务这门生意却这么难做？ 多数智慧水务公司 业务做得很辛苦 如果只是行业里一些小公司经营困难，很容易归结为团队、产品或者销售能力问题。 但这两年，一些行业代表企业的经营数据，也开始出现类似的压力。 威派格大概是其中比较典型的一个样本。 2021年，公司营业收入12.64亿元，归母净利润接近2亿元。 此后几年，情况明显发生变化。 2022年亏损1.44亿",
     "publishedAt": "2026-10-19",
     "source": "虎嗅",
     "tags": [
@@ -94,23 +253,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-no-agenda-no-rush-no-leaving-san-francisco-benchmark-s-partn-1792357200000",
-    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-    "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-    "publishedAt": "2026-10-18",
+    "id": "news-amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-c-1792428956000",
+    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+    "publishedAt": "2026-10-19",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-why-haven-t-you-retired-railroader-gets-1-6m-in-age-bias-win-1792182300000",
-    "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
-    "link": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
-    "summary": "Norfolk Southern declared the employee in his mid-60s unfit for duty despite multiple medical clearances and successful completion of two physical evaluations, he alleged.",
+    "id": "news-judge-declines-to-block-trump-s-march-anti-dei-order-for-fed-1792182300000",
+    "title": "Judge declines to block Trump’s March anti-DEI order for federal contractors",
+    "link": "https://www.hrdive.com/news/judge-declines-to-block-trumps-march-anti-dei-order-for-federal-contractor/833189/",
+    "summary": "The ruling rejected plaintiffs&rsquo; constitutional arguments but said that the directive only pertains to conduct that is &ldquo;already prohibited by federal law.&rdquo;",
     "publishedAt": "2026-10-16",
     "source": "HR Dive",
     "tags": [
@@ -121,10 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1792239669000",
-    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-    "link": "https://www.qbitai.com/2026/10/504067.html",
-    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "id": "news-83-ai-1792239035000",
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "link": "https://www.qbitai.com/2026/10/503935.html",
+    "summary": "整套系统原生支持MCP",
     "publishedAt": "2026-10-17",
     "source": "量子位",
     "tags": [
@@ -134,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792410267000",
-    "title": " 法国再陷骚乱，右翼上台将带来“变革”？ ",
-    "link": "https://www.huxiu.com/article/4898719.html?f=rss",
-    "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《法国再陷骚乱，右翼上台将带来“变革”？｜IPP编译》 导语：9月以来，法国接连经历学生抗议、公共部门罢工及多轮街头示威，社会不满持续累积。就在10月17日，法国多地再次爆发大规模游行。与此同时，勒科尔尼政府的2027年预算案正面临议会考验。社会矛盾与财政困境相互交织，进一步加剧法国政局的不稳定。 随着法国政治危机持续发酵、马克龙第二任期接近尾声，2027年总统选举的政治角逐日益受到关注，极右翼政党国民联盟能否上台执政成为焦点。极右翼国民联盟的执政前景成为人们关注的话题。近年来，该党通过“去妖魔化”战略不断扩大政治影响力，在国民议会获得的议席从2017年的8席增至2024年的125席。10月的最新民调显示，国民联盟领导人玛丽娜·勒庞在2027年总统选举第一轮投票中的支持率已明显领先其他潜在候选人。 近日，勒庞在接受《金融时报》专访时公开表示，若自己赢得法国总统选举，将与欧盟展开一场“力量较量”，并削减法国对欧盟预算的缴款。如果该党执政，法国的外交政策将发生怎样的变化？法国与欧盟、德国、美国、俄罗斯乃至中国的关系将走向何方？欧洲政治格局又将受到怎样的冲击？ 10月1日，法国国际关系研究所（Ifri）执行主任马克·赫克（Marc Hecker）发表研究报告，梳理了2024年6月至2026年夏季国民联盟议员在法国国民议会三个",
+    "id": "news-20-1792426047000",
+    "title": " 倒查20年：当年花几十万赴美生子的“美宝家庭”，如今怎样了？ ",
+    "link": "https://www.huxiu.com/article/4898773.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 最近，中国的“美宝家庭”有点闹心。 2026年10月8日，有媒体披露，特朗普政府要求美国驻外使领馆，重新审查2020年1月24日起至2026年8月1日期间的部分签证及旅行记录，重点是那些以旅游名义入境、实际目的是在美国生子并为孩子取得美国国籍的外国人，审查要在11月底前完成。 这不是临时起意。今年8月6日，特朗普签署编号14419的《终结生育旅游》行政令，把过去参与赴美生子的人员，以及为其提供服务的机构，纳入可能采取执法措施的范围。监管的方向，已经从限制新的行为，延伸到重新审查已经发生的安排。 过去十多年，一批又一批中国父母花几十万元，专程去洛杉矶、尔湾等地生孩子。孩子出生后办好美国出生证明和护照，随父母回国，在中国上幼儿园、读小学、参加升学考试，和身边的同龄人没有太大不同。这些孩子被称为“美宝”，他们的家庭，则被叫作“美宝家庭”。 如今，最早的一批美宝已经成年，2010年前后出生的正面临高中和大学的选择，2015年以后出生的大多还在读小学。当年的一张护照，逐渐变成必须面对的现实问题。有的家庭发现，真要把孩子送去美国读书，投入远超当年的生育费用；还有的家庭不得不重新审视十多年前的签证材料，担心影响未来赴美甚至移民。 一项当年看起来相当聪明的身份套利，为什么今天可能变成一些家庭的一地鸡毛？要回答这个问题，得先看这门生意是怎么兴起的，父",
     "publishedAt": "2026-10-19",
     "source": "虎嗅",
     "tags": [
@@ -173,90 +333,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-says-it-s-committing-5-of-its-shares-to-a-public-b-1792355860000",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "publishedAt": "2026-10-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-judge-declines-to-block-trump-s-march-anti-dei-order-for-fed-1792182300000",
-    "title": "Judge declines to block Trump’s March anti-DEI order for federal contractors",
-    "link": "https://www.hrdive.com/news/judge-declines-to-block-trumps-march-anti-dei-order-for-federal-contractor/833189/",
-    "summary": "The ruling rejected plaintiffs&rsquo; constitutional arguments but said that the directive only pertains to conduct that is &ldquo;already prohibited by federal law.&rdquo;",
-    "publishedAt": "2026-10-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1792239225000",
-    "title": "智谱新模型，懂法方面全球第一了",
-    "link": "https://www.qbitai.com/2026/10/503965.html",
-    "summary": "AI的风还是刮到了法律圈",
-    "publishedAt": "2026-10-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792410254000",
-    "title": " 没多少人愿意听实话 ",
-    "link": "https://www.huxiu.com/article/4898718.html?f=rss",
-    "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间 顾左右 欧洲和中东，两大火药桶显形了，两大地缘战争俄乌和美伊，发生在这两大火药桶里。 定居在欧洲的朋友准备把儿子送到美国去，这是小事，说明这几年发生的一些事，正在深刻影响普通人对未来定居地的选择。 安全之地不再安全，经济富庶之地充满陷阱。 10月17日、18日，大约有55万名到80万法国人走上街头。巴黎市民一觉醒来，发现店铺橱窗被砸碎，汽车被烧毁，自行车烧焦，人行道上堆满玻璃碎片和瓦砾。 法国人老上街，大家习惯了，但这次有点不一样。 一是范围广，综合BBC的数据，截至10月18日，约有2400人被拘捕，1000名警察受伤，1500家商店和零售商在骚乱中受损。 二是时间长，上个月开始的学生抗议活动，在工会成员和其他反政府团体加入后，于17日显著升级。 2018年诞生的黄背心运动反对生活成本上涨，成为法国历史上最长寿的抗议运动之一。诉求包括不满燃油价格上涨、生活成本高企，以及教育等公共服务质素恶化。 从9月底以来，数千名学生封锁高中入口，走上街头表达不满，工会、黄背心（gilets jaunes）运动的重要人物一同参与。 在法国街上喊口号的人，认为混乱的责任在政府和富人，墙上的一些涂鸦写着，“向富人征税”和“吃掉富人”。 而老川一如既往的认为是移民的问题。他在社交媒体上说： 来自完全不同世界的人——心怀仇恨的人——的移民潮已经摧毁了这个曾",
+    "id": "news-people-are-using-ai-to-make-their-smart-tvs-dumb-again-1792426402000",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "publishedAt": "2026-10-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792407806000",
-    "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
-    "link": "https://www.tmtpost.com/8172784.html",
-    "summary": "这些成果，不等于商业市场的大规模落地。",
-    "publishedAt": "2026-10-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-roundtables-a-conversation-with-the-creator-of-ai-designed-v-1792173600000",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-everyone-s-watching-the-elizabeth-holmes-documentary-you-can-1792350218000",
-    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-    "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-    "publishedAt": "2026-10-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -269,86 +350,6 @@ export const generatedNews: NewsItem[] = [
     "title": "Restaurant chain to pay $3M to settle EEOC allegations of rampant sexual harassment",
     "link": "https://www.hrdive.com/news/il-fornaio-to-pay-3m-to-settle-eeoc-sexual-harassment-claims/833254/",
     "summary": "The agency learned of at least 100 women negatively affected by the work environment at California-based Il Fornaio&rsquo;s multiple locations, an EEOC attorney said.",
-    "publishedAt": "2026-10-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-83-ai-1792239035000",
-    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-    "link": "https://www.qbitai.com/2026/10/503935.html",
-    "summary": "整套系统原生支持MCP",
-    "publishedAt": "2026-10-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792410228000",
-    "title": " 你以为外资在中国落后了，它们其实在闷声赚钱，利润率比华为还高 ",
-    "link": "https://www.huxiu.com/article/4898717.html?f=rss",
-    "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年10月15日下午，商务部例行新闻发布会。新闻发言人何亚东拿出了一组此前从未集中公布过的数据——2025年外商投资信息报告年报。 46.1万家外资企业提交年报，同比增长5.7%；外商直接投资权益存量26.8万亿元，连续6年增长，位居全球第二。但最抢眼的还是利润： 参报外资企业平均利润率达到8.7%； 制造业外资企业的利润率，比全国规上工业企业高出2.2个百分点。 8.7%的平均利润率到底是什么水平？ 2025年，华为实现全球销售收入8809亿元，净利润680亿元，净利率约7.7%。 一年研发投入1923亿元、占收入21.8%的中国科技企业天花板，它的净利率，依然在8.7%之下。 同样是2025年，海尔智家实现收入3023亿元，净利润195.5亿元，净利率约6.5%。 再看看被认为彻底辗压了外资的汽车业：2025年，中国汽车产量3478万辆，再创历史新高，全行业收入11.18万亿元，利润却只有4610亿元，行业利润率4.1%。 全球新能源车销冠，也是本土最能打的比亚迪，营收突破8000亿元，净利率只有4.1%左右。 与房地产强相关的很多行业，就更不用看。 总而言之，8.7%这个数字，放在中国企业群体里，它基本是第一梯队的水准。能和它并肩的，几乎都是各自行业的头号玩家。 再看那个2.2个百分点。 2025年全国规上工业企业营业收",
-    "publishedAt": "2026-10-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-rsi-1792407802000",
-    "title": "用阿里当基座，腾讯混元实现了“小RSI”",
-    "link": "https://www.tmtpost.com/8173087.html",
-    "summary": "腾讯发布Terminal-RSI，直接让模型跨物种进化。",
-    "publishedAt": "2026-10-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-failed-social-media-bans-and-extending-pets-821-1792152600000",
-    "title": "The Download: failed social media bans, and extending pets&#8217; lives",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
-    "publishedAt": "2026-10-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-disney-agrees-to-hire-the-majority-of-character-ai-s-workfor-1792341000000",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "publishedAt": "2026-10-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-recruiters-find-people-faster-with-ai-but-confidence-in-cand-1792160640000",
-    "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
-    "link": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
-    "summary": "More than 2 in 3 recruiters told TestGorilla they spend an hour or more manually checking a candidate&rsquo;s credentials.",
     "publishedAt": "2026-10-16",
     "source": "HR Dive",
     "tags": [
@@ -372,23 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8000-1792409618000",
-    "title": " 田间的无人机飞手，日入8000元 ",
-    "link": "https://www.huxiu.com/article/4898716.html?f=rss",
-    "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 2025年5月，湖北十堰，一场政府组织的高素质农民培训开到了县级市。50个名额，满了。来的人大部分是五六十岁的老农人。 17岁的刘凯坐在他们中间。此前，他在县城做服务员，路过田地时，经常看到无人机在飞，觉得这东西以后发展会很快。听到有培训班的消息，他没有犹豫就报了名。 培训结束后，50个人里有36个参加了无人机企业旗下的考试，花费两千多块，历时约一个月，多数人通过了这场考试，成为有执照，能飞植保无人机（又称农用无人驾驶航空器，专门用于植保、播种、投饵等农林牧渔作业）的飞手，刘凯也成为其中之一。 像刘凯一样，越来越多年轻人带着植保无人机进了农村。中商产业研究院的数据显示，2025年，全国植保无人机保有量已经达30.9万架，年作业30.4亿亩次，而中国耕地总面积约19.2亿亩，相当于这些植保无人机一年能给全国每一块耕地作业约1.6遍。 这些无人机飞手能细数技术带来的效率提升。但很快，他们也发现，并不是所有人都可以用好这项技术。除了技术本身的缺陷外，它还要面对的，是那个复杂的、多变的，和土地深度绑定的农业。 在这些故事里，一个塑料袋就能摧毁一架几万块的无人机，也有无人机失控，差点砸伤人。一些农户发现技术无法彻底改变农业，几场连绵的雨，或是一场虫害，还是会造成亏本的局面。 技术要更懂土地，飞手要更懂作物。这条路还很长，但它正在",
-    "publishedAt": "2026-10-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792407796000",
-    "title": "高口碑的《余红旧事》，让东北悬疑终于开始松弛了",
-    "link": "https://www.tmtpost.com/8172538.html",
-    "summary": "第一次在悬疑剧里看东北弹舌。",
+    "id": "news--1792407806000",
+    "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
+    "link": "https://www.tmtpost.com/8172784.html",
+    "summary": "这些成果，不等于商业市场的大规模落地。",
     "publishedAt": "2026-10-19",
     "source": "钛媒体",
     "tags": [
@@ -1003,4 +991,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-19T12:00:19.401Z';
+export const dataFetchedAt = '2026-10-19T18:40:47.153Z';

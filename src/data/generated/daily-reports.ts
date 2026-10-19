@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-20-auto",
+    "date": "2026-10-20",
+    "session": "auto",
+    "title": "2026-10-20 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-20-auto-1",
+        "emoji": "⚠️",
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+        "detail": "来源: MIT Technology Review。“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+      },
+      {
+        "id": "sig-2026-10-20-auto-2",
+        "emoji": "💡",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "detail": "来源: TechCrunch。After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      },
+      {
+        "id": "sig-2026-10-20-auto-3",
+        "emoji": "🚨",
+        "title": "Coach claims retaliation after opposing trans athlete’s inclusion on team",
+        "summary": "As part of an ongoing public legal saga, the Trump administration previously concluded that&nbsp;San Jos&eacute; State University violated Title IX.",
+        "detail": "来源: HR Dive。As part of an ongoing public legal saga, the Trump administration previously concluded that&nbsp;San Jos&eacute; State University violated Title IX.",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/volleyball-coach-opposed-transgender-player-claims-retaliation/833326/"
+      },
+      {
+        "id": "sig-2026-10-20-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Rethinking the design space of Vanilla Pixel Diffusion Trans...",
+        "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla",
+        "detail": "作者: Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava。Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal directions of the data, learned end-to-end with diffusion training. We find that the preferred parameterization varies systematically with the data representation and model capacity -- notably, increasing mo",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.23854v1"
+      },
+      {
+        "id": "sig-2026-10-20-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-20-1",
+        "priority": "medium",
+        "action": "关注「“We were looking at it wrong”: The explo」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-20-2",
+        "priority": "low",
+        "action": "关注「Tenstorrent hits $6.2B valuation to scal」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-20-3",
+        "priority": "high",
+        "action": "关注「Coach claims retaliation after opposing 」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-20-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Rethinking the design space of Vani」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-20-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-20 生成，聚合了 29 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-20 00:00 - 2026-10-20 23:59"
+  },
+  {
     "id": "report-2026-10-19-auto",
     "date": "2026-10-19",
     "session": "auto",
