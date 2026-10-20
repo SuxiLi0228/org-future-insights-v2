@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-new-economics-of-enterprise-ai-1792509625000",
-    "title": "The new economics of enterprise AI",
-    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+    "id": "news-astrolab-s-upcoming-rover-will-run-the-first-llms-on-the-moo-1792526841000",
+    "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+    "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+    "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-streaming-guide-justwatch-becomes-a-streamer-itself-1792512084000",
-    "title": "Streaming guide JustWatch becomes a streamer itself",
-    "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-    "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+    "id": "news-spacex-8217-s-ai-business-is-beating-expectations-1792528841000",
+    "title": "SpaceX&#8217;s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -28,18 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employees-say-they-have-to-leave-their-companies-to-advance--1792503540000",
-    "title": "Employees say they have to leave their companies to advance their careers",
-    "link": "https://www.hrdive.com/news/employees-say-they-have-to-leave-their-companies-to-advance-their-careers/833444/",
-    "summary": "Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
+    "id": "news-large-employers-are-hiring-part-time-workers-over-seasonal-o-1792528440000",
+    "title": "Large employers are hiring part-time workers over seasonal ones, Indeed data shows",
+    "link": "https://www.hrdive.com/news/large-employers-are-hiring-part-time-workers-over-seasonal-ones-indeed/833437/",
+    "summary": "The shift indicates potential optimism about future staffing needs, an economist at the Indeed Hiring Lab said.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -84,36 +82,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-the-claim-shaking-up-ai-and-the-internet-s-agen-1792498200000",
-    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-    "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&#8230;",
+    "id": "news-the-new-economics-of-enterprise-ai-1792509625000",
+    "title": "The new economics of enterprise AI",
+    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-plants-can-speak-using-electricity-so-this-startup-built-an--1792512000000",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "id": "news-openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-1792528510000",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-3-questions-to-consider-at-the-intersection-of-pto-and-the-a-1792442220000",
-    "title": "3 questions to consider at the intersection of PTO and the ADA",
-    "link": "https://www.hrdive.com/news/3-questions-to-consider-at-the-intersection-of-pto-and-the-ada/833379/",
-    "summary": "When an employee needs leave as a disability accommodation, accrued PTO can complicate the picture.",
-    "publishedAt": "2026-10-19",
+    "id": "news-dol-rescinds-potentially-misread-tip-rule-opinion-letters-in-1792528380000",
+    "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
+    "link": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
+    "summary": "The agency also confirmed plans to revisit tip credit regulations for &ldquo;dual job&rdquo; workers, signaling the latest entry in an ongoing tug-of-war between administrations.",
+    "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -162,10 +162,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-by-industry-shows-what-other-sectors-can-learn-1792497600000",
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+    "id": "news-the-download-the-claim-shaking-up-ai-and-the-internet-s-agen-1792498200000",
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -174,25 +174,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tiktok-staff-raised-child-safety-concerns-but-executives-rep-1792508621000",
-    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+    "id": "news-google-is-bringing-a-more-personal-version-of-its-gemini-ai--1792526400000",
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
-    "id": "news-3-tips-to-manage-soaring-health-costs-1792442160000",
-    "title": "3 tips to manage soaring health costs",
-    "link": "https://www.hrdive.com/news/3-tips-to-manage-soaring-health-costs/833372/",
-    "summary": "Marsh McLennan Senior VP Marybeth Gray shared ideas to keep employees healthy and costs down.",
-    "publishedAt": "2026-10-19",
+    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
+    "title": "HR pros’ fall reading list 2026",
+    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
+    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
+    "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -228,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-study-a-swiftly-melting-climate-disaster-1792490400000",
-    "title": "How to study a swiftly melting climate disaster",
-    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+    "id": "news-ai-adoption-by-industry-shows-what-other-sectors-can-learn-1792497600000",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -240,24 +239,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-pro-1792505612000",
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "id": "news-gm-to-close-detroit-battery-assembly-plant-but-not-for-reaso-1792524763000",
+    "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+    "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+    "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-leading-light-may-be-the-key-to-engaging-gen-z-and-everyone--1792442160000",
-    "title": "Leading ‘light’ may be the key to engaging Gen Z — and everyone else",
-    "link": "https://www.hrdive.com/news/leading-light-may-be-the-key-to-engaging-gen-z-and-everyone-else/833373/",
-    "summary": "&ldquo;Gen Z is not more disengaged than the rest of us,&rdquo; leadership development expert Dan Rust told HR Dive. &ldquo;I think they&rsquo;re just worse at hiding it.&rdquo;",
-    "publishedAt": "2026-10-19",
+    "id": "news-flock-had-boys-club-culture-former-worker-alleges-in-gender--1792528320000",
+    "title": "Flock had ‘boys club’ culture, former worker alleges in gender bias lawsuit",
+    "link": "https://www.hrdive.com/news/flock-maintained-boys-club-culture-former-worker-alleges-in-gender-bias-lawsuit/833498/",
+    "summary": "Despite an assurance from HR that an investigation was forthcoming, the worker&rsquo;s mistreatment allegedly continued, and she was eventually fired.",
+    "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -294,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-visit-to-samsung-s-massive-new-semiconductor-hub-1792486800000",
-    "title": "A visit to Samsung’s massive new semiconductor hub",
-    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+    "id": "news-how-to-study-a-swiftly-melting-climate-disaster-1792490400000",
+    "title": "How to study a swiftly melting climate disaster",
+    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -306,29 +306,32 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-alum-8217-s-aviation-startup-reliable-robotics-lands--1792502256000",
-    "title": "SpaceX alum&#8217;s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-    "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+    "id": "news-google-has-joined-amazon-in-attacking-nvidia-8217-s-strongho-1792521504000",
+    "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-catholic-nonprofit-must-face-lawsuit-challenging-benefits-te-1792442160000",
-    "title": "Catholic nonprofit must face lawsuit challenging benefits termination for same-sex spouse",
-    "link": "https://www.hrdive.com/news/catholic-nonprofit-must-face-gay-ex-employees-bias-lawsuit-spousal-benefits/833394/",
-    "summary": "No statute the employer invoked fully immunizes all employment decisions by religious employers involving employees in nonministerial roles, a split panel held.",
-    "publishedAt": "2026-10-19",
+    "id": "news-employees-say-they-have-to-leave-their-companies-to-advance--1792503540000",
+    "title": "Employees say they have to leave their companies to advance their careers",
+    "link": "https://www.hrdive.com/news/employees-say-they-have-to-leave-their-companies-to-advance-their-careers/833444/",
+    "summary": "Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
+    "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai",
+      "organization"
     ]
   },
   {
@@ -1044,4 +1047,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-20T16:17:29.371Z';
+export const dataFetchedAt = '2026-10-20T21:12:07.845Z';
