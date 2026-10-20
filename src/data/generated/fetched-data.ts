@@ -2,10 +2,92 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-how-to-study-a-swiftly-melting-climate-disaster-1792490400000",
-    "title": "How to study a swiftly melting climate disaster",
-    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+    "id": "news-the-new-economics-of-enterprise-ai-1792509625000",
+    "title": "The new economics of enterprise AI",
+    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+    "publishedAt": "2026-10-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-streaming-guide-justwatch-becomes-a-streamer-itself-1792512084000",
+    "title": "Streaming guide JustWatch becomes a streamer itself",
+    "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+    "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+    "publishedAt": "2026-10-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-employees-say-they-have-to-leave-their-companies-to-advance--1792503540000",
+    "title": "Employees say they have to leave their companies to advance their careers",
+    "link": "https://www.hrdive.com/news/employees-say-they-have-to-leave-their-companies-to-advance-their-careers/833444/",
+    "summary": "Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
+    "publishedAt": "2026-10-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-claude-bug-1792458583000",
+    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+    "link": "https://www.qbitai.com/2026/10/504314.html",
+    "summary": "OpenAI只掏出一个6.1 Terra…",
+    "publishedAt": "2026-10-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792512526000",
+    "title": " 当所有人都相信自己明天会更弱 ",
+    "link": "https://www.huxiu.com/article/4899087.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 上周五，10月16日。一部由美国国会两党压倒性通过、以已故参议员格雷厄姆命名的对俄制裁法案，眼看两天后就要生效，特朗普签署行政令，把法案中涉俄的制裁和关税整体豁免，理由是\"此举符合美国的国家利益\"。至于怎么个符合法，行政令没有解释。此前不久，他还放行了俄罗斯柴油进入美国和其他市场。 然后，昨天，10月19日，《大西洋月刊》发了一篇重磅长文，标题直言“美国如今成了俄罗斯的盟友”。作者尼科尔斯在美国海军战争学院教了二十多年书，写了半辈子俄罗斯和安全问题。 他说，白宫和克里姆林宫，现在站在了同一边。在文章的结尾，他写道：白宫与克里姆林宫结盟，这种事此前只存在于偏执小说里；斯大林们如果能看到今天，大概会觉得自己那些邪恶的愿望没有错，只是梦做得太早了。 一条行政令，一篇文章，都是新闻。但它们背后的那种感觉，新闻解释不了。现在这个世界，好像换了一种变化方式：某天早晨醒来，你发现自己站在一个不认识的地方。简直堪比AI领域的热闹。 我最近看到一份很冷门的材料，对这种变化以及这种感觉，给出了非常深刻和准确的分析。 这是今年六月份的一场两个小时的对谈。提问的人是阿明·沃尔夫，奥地利国家电视台ORF旗舰新闻节目的主播，干了二十多年，2019年被评为欧洲年度记者。 回答的人是这场对话真正的主角：伊万·克拉斯特耶夫，保加利亚政治学家，索非亚自由战略",
+    "publishedAt": "2026-10-20",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1792492153000",
+    "title": "AI短剧里的“彩票工厂”不再赚钱",
+    "link": "https://www.tmtpost.com/8174771.html",
+    "summary": "一些议论",
+    "publishedAt": "2026-10-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-the-claim-shaking-up-ai-and-the-internet-s-agen-1792498200000",
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +96,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-a-1792479660000",
-    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+    "id": "news-plants-can-speak-using-electricity-so-this-startup-built-an--1792512000000",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -40,85 +122,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-bug-1792458583000",
-    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-    "link": "https://www.qbitai.com/2026/10/504314.html",
-    "summary": "OpenAI只掏出一个6.1 Terra…",
-    "publishedAt": "2026-10-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-55-1792493335000",
-    "title": " 法国55万年轻人暴乱，为什么年轻人会觉得没有未来？ ",
-    "link": "https://www.huxiu.com/article/4899022.html?f=rss",
-    "summary": "本文来自微信公众号： 严肃的人口学八卦 ，作者：严肃的人口学八卦组 編者按：2026年9月18日，巴黎东南郊克雷泰伊（Créteil）的高中生因教师短缺、校舍破旧、大学申请系统Parcoursup崩溃等问题封锁学校，法国中学生运动在一个月内席卷全国并蔓延至比利时、希腊、意大利等国家。上个周末10月17日的“封锁一切”（Bloquons tout）动员了55万年轻人上街，巴黎爆发多年来最严重骚乱，超过6800人被拘留、大多数是未成年人。 作为“革命老区”的法国，爆发游行、示威甚至暴力事件并不罕见，2018年的黄马甲运动曾经也名噪一时，虽然同样是抗议物价上涨，公共服务不足，但本次骚乱最突出的特征是年轻人甚至未成年人参与比例极高，且迅速获得了多个欧洲国家青年人的积极响应。 应该说法国政府的债务暴雷是这次事件的导火索，经济增长的乏力、对乌克兰无节制的援助、海外殖民经济的破产、处于欧盟缺乏货币自主性等都是其中的重要原因，但如果要进一步探究，骚乱背后暴露的是欧洲甚至是世界范围内年轻人所面临的共同困境，为什么年轻人会觉得没有未来？ 清华大学社会科学学院院长、社会学系教授王天夫，近期完成的长文《年龄不平等》提供了一个解释框架，也许可以帮助我们理解当代全球青年的处境。 一、一群十六七岁的孩子，烧掉了法国的秋天，为什么？ 在回答之前，先读两段文字： 我认为我们这一整代人都是失败的。从前我们这个年纪的人",
-    "publishedAt": "2026-10-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1792492153000",
-    "title": "AI短剧里的“彩票工厂”不再赚钱",
-    "link": "https://www.tmtpost.com/8174771.html",
-    "summary": "一些议论",
-    "publishedAt": "2026-10-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-visit-to-samsung-s-massive-new-semiconductor-hub-1792486800000",
-    "title": "A visit to Samsung’s massive new semiconductor hub",
-    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
-    "publishedAt": "2026-10-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-walmart-8217-s-flipkart-is-quietly-building-a-food-delivery--1792461600000",
-    "title": "Walmart&#8217;s Flipkart is quietly building a food delivery challenger in India",
-    "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-    "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-    "publishedAt": "2026-10-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
-    "id": "news-3-tips-to-manage-soaring-health-costs-1792442160000",
-    "title": "3 tips to manage soaring health costs",
-    "link": "https://www.hrdive.com/news/3-tips-to-manage-soaring-health-costs/833372/",
-    "summary": "Marsh McLennan Senior VP Marybeth Gray shared ideas to keep employees healthy and costs down.",
-    "publishedAt": "2026-10-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
     "id": "news--1792420406000",
     "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
     "link": "https://www.qbitai.com/2026/10/504277.html",
@@ -132,10 +135,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792493318000",
-    "title": " 钓鱼佬的“空军”噩梦，正在催生水下新生意 ",
-    "link": "https://www.huxiu.com/article/4899021.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：陈庭 2026年3月，22岁的Dylan Nutt拿下了美国钓鱼界分量最重的冠军奖杯。三天钓获66磅13盎司（约60.6斤），奖金30万美元。 让他赢下比赛的，不只是技术和运气，还有一套前向声呐系统。借助它，Nutt能实时看到水下鱼群的动态，判断鱼的位置，再决定往哪抛投、用什么饵料。 “声呐让我更高效地完成抛投，确实帮了大忙。”Nutt在赛后说道。 对钓鱼的人来说，声呐不只是一个产品。它改变的是钓鱼这件事的底层逻辑，你不再需要凭经验判断水下有什么，屏幕会直接告诉你鱼在哪里，正往哪个方向游。说白了，就是把钓鱼从“靠手感”变成“靠数据”。 而声呐也只是其中一个切面。水下摄像头、智能打窝船、GPS海图……这些围绕“让人看见水下”而生的电子设备，正在重新定义钓鱼这项最依赖经验、直觉和运气的古老运动。 01 从找鱼开始 钓鱼圈有句黑话叫“空军”，指的是忙活一天，一条没钓上来，这是每个钓鱼人的噩梦。而\"空军\"的原因，千百年来其实只有一个：不知道鱼在哪里。 水面之上风平浪静，水下地形却千沟万壑。鱼不是均匀分布的，也不会固定不动。即便是经验丰富的钓鱼人，也需要花费大量时间寻找鱼群、判断水深和选择钓点。 钓鱼电子设备要解决的，就是水下信息不可见的问题。 最典型的产品就是探鱼器。它利用声呐向水中发射声波，再接收鱼群、水底和其他物体反射回",
+    "id": "news--1792512420000",
+    "title": " 中国在全球的流浪工厂 ",
+    "link": "https://www.huxiu.com/article/4899086.html?f=rss",
+    "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍 | 中国在全球的流浪工厂》 中国制造为何在全球四下迁移，成为全球化的流浪工厂？美国关税和法令是关键驱动力。中国的光伏组件工厂，当前正在埃塞俄比亚加班加点出货，抢在今年12月份美国232条款的关税启动之前，挤进美国市场。没有一个行业能比光伏，更容易看清楚美国全副武装到牙齿的贸易政策工具。沿着中国光伏工厂的迁移路线，可以经历一堂最为完整的美国贸易法律课。 图：美国政策工具与中国光伏的全球工厂迁移 中国工厂的全球迁移路线，历时已经有15年。2011年11月，美国对光伏产业同时发起了反倾销AD和反补贴CVD调查，一年后的征税令使得双反税率高达254.66%。这个法令是整个中国光伏大山移动的前奏。然而最初只是轻微的晃动，没有人预见到两件事情接续发生。第一件是中国光伏产业排山倒海的大发展，第二件是不断叠加的贸易措施，推动了中国光伏工厂在全球寻找新的落脚点。 随着这些贸易调查与征税的实施，中国光伏产业开始少部分陆续向东南亚移动。这些零星的工厂，更多具有象征意义。然而，大山与地面的裂缝出现在2018年美国发起四波关税海浪的时候。中国对美出口商品中，约3700亿美元被加征关税，约占输美总额的三分之二。这些以产业政策和知识产权为名目的301条款，和以美国产业损害为由的201条款，叠加在光伏既有的贸易关税上，使得翅膀既硬的中国光伏产业",
     "publishedAt": "2026-10-20",
     "source": "虎嗅",
     "tags": [
@@ -159,23 +162,88 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-these-startups-hope-8220-blended-8221-food-will-cut-our-appe-1792486800000",
-    "title": "These startups hope &#8220;blended&#8221; food will cut our appetite for red meat",
-    "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;",
+    "id": "news-ai-adoption-by-industry-shows-what-other-sectors-can-learn-1792497600000",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to--1792459623000",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "id": "news-tiktok-staff-raised-child-safety-concerns-but-executives-rep-1792508621000",
+    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+    "publishedAt": "2026-10-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "ai-hr"
+    ]
+  },
+  {
+    "id": "news-3-tips-to-manage-soaring-health-costs-1792442160000",
+    "title": "3 tips to manage soaring health costs",
+    "link": "https://www.hrdive.com/news/3-tips-to-manage-soaring-health-costs/833372/",
+    "summary": "Marsh McLennan Senior VP Marybeth Gray shared ideas to keep employees healthy and costs down.",
+    "publishedAt": "2026-10-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-rsi-1792420272000",
+    "title": "通研院孵化的团队，也盯上了RSI",
+    "link": "https://www.qbitai.com/2026/10/504294.html",
+    "summary": "当AI越来越懂你，如何让智能真正属于你？",
+    "publishedAt": "2026-10-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792489908000",
+    "title": "乐事玩转“开袋有奖”，品牌为什么越来越在意消费者的体验感？",
+    "link": "https://www.tmtpost.com/8171080.html",
+    "summary": "100%中奖 万元大奖天天开。",
+    "publishedAt": "2026-10-20",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-to-study-a-swiftly-melting-climate-disaster-1792490400000",
+    "title": "How to study a swiftly melting climate disaster",
+    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+    "publishedAt": "2026-10-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-pro-1792505612000",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -199,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rsi-1792420272000",
-    "title": "通研院孵化的团队，也盯上了RSI",
-    "link": "https://www.qbitai.com/2026/10/504294.html",
-    "summary": "当AI越来越懂你，如何让智能真正属于你？",
+    "id": "news-2026-ai-1792405659000",
+    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "link": "https://www.qbitai.com/2026/10/504266.html",
+    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
     "publishedAt": "2026-10-19",
     "source": "量子位",
     "tags": [
@@ -212,23 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792492843000",
-    "title": " 关大店开小店，永旺在中国市场“换打法” ",
-    "link": "https://www.huxiu.com/article/4899016.html?f=rss",
-    "summary": "本文来自微信公众号： 联商网 ，编辑：吴忧，作者：肥脸 永旺关大店开小店，新小型门店盈利模式仍待验证。 全文约4300字，阅读需约10分钟 10月8日，位于广州白云五号停机坪的永旺超市发布了一则公告：在2026年12月31日营业时间结束之后，将停止经营。 一家运营了十五年、曾经爆满的超市，决定退出的时候显得颇为突然。 公告中提及的内容是租约到期、以及战略层面的优化，且还专门补充称“会持续提高在大湾区进行投资与开设新店的速度”。 从五号停机坪到华北清零 五号停机坪店并不是单独的一个情况。永旺超市在北京的门店在这几年当中是一家接一家地消失。 2022年，朝阳大悦城店停止营业，2023年昌平店歇业，丰台店于2025年5月16日关闭，这也意味着，永旺在北京的超市门店已经清零。 据公开信息，2026年3月，位于天津的泰达、中北、津南的永旺超市门店以及河北三河的燕郊店一同发出公告，3月23日营业结束后闭店。随后，在5月，天津的最后梅江店也已经闭店。至此，永旺超市京津冀门店全部终止经营，华北市场正式清零。 在天津的市场上，一边是山姆在扩大店面，一边是永辉、华润万家、大润发占据中间位置，盒马与京东七鲜也在增加门店和前置仓的密度，且本地的菜市场与早市也比较成熟。 对比下，永旺的价格不是最低的，体验也并非必需，因此客流被分散开了。在较强的竞争对抗之下，其优势很难转化为坪效，那种“还算可以”的评价变不成",
-    "publishedAt": "2026-10-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792489908000",
-    "title": "乐事玩转“开袋有奖”，品牌为什么越来越在意消费者的体验感？",
-    "link": "https://www.tmtpost.com/8171080.html",
-    "summary": "100%中奖 万元大奖天天开。",
+    "id": "news--1792489354000",
+    "title": "田柯宇错了，但他付出的代价太小了",
+    "link": "https://www.tmtpost.com/8174442.html",
+    "summary": "惩罚轻到近乎可以忽略，收益却大到足以改写命运",
     "publishedAt": "2026-10-20",
     "source": "钛媒体",
     "tags": [
@@ -239,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-the-internet-better-for-ai-agents-might-make-it-worse-1792434167000",
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-    "publishedAt": "2026-10-19",
+    "id": "news-a-visit-to-samsung-s-massive-new-semiconductor-hub-1792486800000",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+    "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -251,11 +306,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-1792453178000",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "publishedAt": "2026-10-19",
+    "id": "news-spacex-alum-8217-s-aviation-startup-reliable-robotics-lands--1792502256000",
+    "title": "SpaceX alum&#8217;s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+    "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+    "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -277,88 +332,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-ai-1792405659000",
-    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-    "link": "https://www.qbitai.com/2026/10/504266.html",
-    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-    "publishedAt": "2026-10-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1792492413000",
-    "title": " AI算力中心背后，一场价值千亿的\"制冷战争\" ",
-    "link": "https://www.huxiu.com/article/4899014.html?f=rss",
-    "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 8月底，英伟达最新财报电话会上，老黄确认最新的一代硬件Vera Rubin已经开始发货，9月启动批量出货。 表面上看，这只是一次普通的财报会，但值得注意的是：这次Vera Rubin的机柜，风扇一个都没有了，单柜功耗干到了190千瓦以上，散热方案直接切成100%全液冷。 这个细节，其实反映了AI行业一个不太显眼，但却很重要的变化：“散热”这件事，真的开始成为了制约AI发展的命门。 在从前，尽管GPU的算力、功率仍在年年攀升，但风冷总体上还压得住，但根据业内的经验，风冷能压得住的单柜散热功率，大致也就是20—30千瓦。可现在，当新一代功耗更强的GPU问世后，风冷开始捉襟见肘。 举例来说：HPE版的GB200 NVL72单柜功耗132千瓦，其中115千瓦靠液冷带走，风冷只承担余下17千瓦。 其实不只是英伟达，就连国内的服务器，也开始更多地采用液冷的方式进行散热， 8月30日，就在英伟达财报会后的几天，国内首个浸没式液冷算力方舱，也在贵州贵阳投入运行。 当地算力中心的负责人介绍，使用传统风冷，计算一度电的任务，要额外花0.3到0.5度电进行散热；使用全浸没式液冷，计算一度电的任务，额外只需要花0.15度电进行散热。 与液冷相比，传统的风冷不仅耗电，并且还很耗水，因为不少机房靠冷却塔蒸发水排热。不过，不少传统机房不仅耗电，还会消耗大量冷却",
-    "publishedAt": "2026-10-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1792489354000",
-    "title": "田柯宇错了，但他付出的代价太小了",
-    "link": "https://www.tmtpost.com/8174442.html",
-    "summary": "惩罚轻到近乎可以忽略，收益却大到足以改写命运",
-    "publishedAt": "2026-10-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-we-were-looking-at-it-wrong-the-explosive-claim-that-s-upend-1792431955000",
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
-    "publishedAt": "2026-10-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-embedded-ai-evaluators-won-8217-t-be-an-easy-solution-huggin-1792450167000",
-    "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-    "publishedAt": "2026-10-19",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-coach-claims-retaliation-after-opposing-trans-athlete-s-incl-1792422420000",
-    "title": "Coach claims retaliation after opposing trans athlete’s inclusion on team",
-    "link": "https://www.hrdive.com/news/volleyball-coach-opposed-transgender-player-claims-retaliation/833326/",
-    "summary": "As part of an ongoing public legal saga, the Trump administration previously concluded that&nbsp;San Jos&eacute; State University violated Title IX.",
-    "publishedAt": "2026-10-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news--1792404919000",
     "title": "全栈自研！国产高端互连芯片，稳了!",
     "link": "https://www.qbitai.com/2026/10/504225.html",
@@ -368,19 +341,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-icloud-1792491955000",
-    "title": " 理想高管谈小天才“封闭社交”：iCloud和米家生态也一样 ",
-    "link": "https://www.huxiu.com/article/4899013.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：宋佳楠 10月20日，有关“小天才封闭社交倒逼家长购买”等话题在社交平台上引发诸多关注，小天才手表微聊、好友圈仅支持同品牌设备互通的规则在网络上掀起巨大争议。不少家长吐槽，班级里多数孩子都在用小天才电话手表，如果选择华为、小米等其他品牌，孩子就无法参与同伴之间的碰一碰加好友、在线聊天。为了不让孩子被孤立，只能被动跟随选择小天才。 理想汽车公关社交媒体总监、微博博主“硬哥”也参与了讨论，发文表达了自己的看法。他写道：“手机品牌里，iMessage（苹果）和米聊（小米）之间也没法加好友，但还有短信和通讯录。类似的逻辑，也可以说iCloud封闭生态倒逼购买苹果全家桶，米家封闭生态倒逼购买小米全家桶。” “硬哥”同时提到，儿童手表国标里，只要求设备互相可以交换电话号码和昵称，并没有强制要求厂商开放自有社交App。在他看来，儿童手表在校大多不允许佩戴，使用场景集中在周末和假期，核心功能本就应该是联系、定位孩子，社交只是衍生需求。孩子自发形成的社交需求，才让小天才的微聊和好友圈形成了护城河。 “小天才的先发优势积累了孩子们的社交生态，但这个生态也就止步于小学了，之后会被谁取代呢？可能是QQ。为什么QQ还很受年轻人欢迎，就是他们不想跟家长玩同一个朋友圈。”硬哥这样分析道。 他认为，小孩玩小天才微聊、年轻人玩QQ、成年人玩微信，社交圈层天然分层，就算强制开放",
-    "publishedAt": "2026-10-20",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1084,4 +1044,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-20T10:52:58.245Z';
+export const dataFetchedAt = '2026-10-20T16:17:29.371Z';

@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-21-auto",
+    "date": "2026-10-21",
+    "session": "auto",
+    "title": "2026-10-21 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-21-auto-1",
+        "emoji": "⚠️",
+        "title": "The new economics of enterprise AI",
+        "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+        "detail": "来源: MIT Technology Review。Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+      },
+      {
+        "id": "sig-2026-10-21-auto-2",
+        "emoji": "⚠️",
+        "title": "Streaming guide JustWatch becomes a streamer itself",
+        "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+        "detail": "来源: TechCrunch。JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/"
+      },
+      {
+        "id": "sig-2026-10-21-auto-3",
+        "emoji": "🚨",
+        "title": "Employees say they have to leave their companies to advance their careers",
+        "summary": "Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
+        "detail": "来源: HR Dive。Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
+        "priority": "high",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/employees-say-they-have-to-leave-their-companies-to-advance-their-careers/833444/"
+      },
+      {
+        "id": "sig-2026-10-21-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Text-to-Image Generative Modeling Without Language Pretraini...",
+        "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu",
+        "detail": "作者: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas。Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the sa",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.26863v1"
+      },
+      {
+        "id": "sig-2026-10-21-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-21-1",
+        "priority": "medium",
+        "action": "关注「The new economics of enterprise AI」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-21-2",
+        "priority": "medium",
+        "action": "关注「Streaming guide JustWatch becomes a stre」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-21-3",
+        "priority": "high",
+        "action": "关注「Employees say they have to leave their c」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-21-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Text-to-Image Generative Modeling W」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-21-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-21 生成，聚合了 27 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-21 00:00 - 2026-10-21 23:59"
+  },
+  {
     "id": "report-2026-10-20-auto",
     "date": "2026-10-20",
     "session": "auto",
