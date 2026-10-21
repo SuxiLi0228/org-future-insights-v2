@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-foursquare-co-founder-says-equity-holders-saw-no-returns-fro-1792591391000",
-    "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
-    "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-    "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+    "id": "news-year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuati-1792616260000",
+    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
     "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-some-hiring-managers-may-be-waiting-until-after-the-election-1792595340000",
-    "title": "Some hiring managers may be waiting until after the election to recruit",
-    "link": "https://www.hrdive.com/news/hiring-managers-waiting-until-after-the-election-to-recruit/833566/",
-    "summary": "Decision-makers identified changes in government policies as one of the biggest hiring challenges for 2026.",
+    "id": "news-pennsylvania-county-becomes-first-in-nation-to-pass-paid-par-1792611720000",
+    "title": "Pennsylvania county becomes first in nation to pass paid parental leave",
+    "link": "https://www.hrdive.com/news/pennsylvanias-allegheny-county-becomes-first-county-in-nation-to-pass-paid/833619/",
+    "summary": "Allegheny County&rsquo;s policy also applies to remote employees whose employers are based in other states.",
     "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792599553000",
-    "title": " 宁王也有赚不到的钱了 ",
-    "link": "https://www.huxiu.com/article/4899407.html?f=rss",
-    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我分析认为，宁王这次大跌问题出在赚钱能力上。 电池还在卖，份额还在涨，可每卖100元电池，留下的毛利越来越少。市场开始担心，宁王往后还能赚多少钱。 2026年10月21日，宁德时代A股跌了12.03%，收在227.90元。 前一天，三季报刚出来。三季度营收1652.21亿元，同比增长58.58%；净利润212.46亿元，同比增长14.54%。 营收涨了近六成，利润涨了一成半，股价却跌了12%；如果从5月7日的467.34元算起，五个多月，股价已经跌去一半左右。 奇怪的是，宁德时代的行业地位并没有跟着缩水。今年前八个月，全球动力电池市场份额还提高了1.7个百分点，达到39.4%。 好，问题来了，市场到底在担心什么？ 看看毛利率就明白了。 三季度，宁德时代毛利率降到20.69%，同比少了5.11个百分点，创下2022年四季度以来的新低。 毛利率不难理解，卖100元的电池，扣掉生产成本，现在只剩20元出头，去年同期还有25.8元。 更关键的是，这已经持续了好几个季度。2025年四季度，毛利率还有28.21%，之后一路往下，到今年三季度只剩两成出头。每100元收入对应的毛利，少了7元多。 为什么会这样呢？ 公司给出的解释，头一条是产品结构变化。据媒体披露的业绩会内容，前几年签下的低价储能长期合同，正好集中在三季度交付。 这有点像开饭店。早几年接",
+    "id": "news--1792601849000",
+    "title": " 袁记云饺冲击上市，加盟模式走到关键时刻 ",
+    "link": "https://www.huxiu.com/article/4899410.html?f=rss",
+    "summary": "本文来自微信公众号： 青橙财经 ，作者：青炯，编辑：六子 9月29日，袁记食品通过港交所聆讯，拟募资3亿至4亿港元，预计10月启动招股。如果顺利挂牌，它将成为2026年以来港股首个完成IPO的餐饮企业。 这家从广州菜市场走出来的餐饮品牌，目前在全国有4773家门店，加盟店占比超过99%。按门店数量计算，它已经算是中国最大的中式快餐企业。 规模第一的背后，隐忧同样突出。招股书显示，袁记单店日均GMV连续三年下降，加盟商的经营压力也在持续加大。曾经支撑高速扩张的加盟模式，正在走到一个关键节点。 01 「高增长背后，透视袁记“加盟模式”的扩张逻辑」 在很多城市的社区门口和菜市场，都能看到绿色招牌的袁记云饺，几位阿姨坐在后厨包饺子，顾客买了生饺带回家自己煮。 证券时报等媒体报道指出，袁记能在数年内铺开数千家门店，离不开一套分工清晰的加盟模式：加盟商出资开店并负责日常经营，总部输出品牌和产品供应。门店触达消费者，总部通过持续供货获得收入。 这套模式从门店模型开始。 部分头部中式快餐品牌单店投入在百万元级别，袁记最早从菜市场外带档口起步，门店无需设置堂食区和制作馅料面皮，仅承担包制与销售环节。招股书显示，部分门店面积最小仅15平方米，开店投入约30万元。如今堂食店占比已超八成，但投入仍明显低于传统餐馆，这既降低了加盟商的进入门槛，也使门店更容易渗透社区和菜市场。 更重要的是，门店投资和日常经营",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
@@ -93,25 +93,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-promises-productivity-but-for-managers-it-8217-s-mostly-a-1792591200000",
-    "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
-    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "id": "news-tesla-stars-optimus-robot-production-in-california-as-profit-1792614789000",
+    "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+    "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+    "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
     "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
-    "id": "news-large-employers-are-hiring-part-time-workers-over-seasonal-o-1792528440000",
-    "title": "Large employers are hiring part-time workers over seasonal ones, Indeed data shows",
-    "link": "https://www.hrdive.com/news/large-employers-are-hiring-part-time-workers-over-seasonal-ones-indeed/833437/",
-    "summary": "The shift indicates potential optimism about future staffing needs, an economist at the Indeed Hiring Lab said.",
-    "publishedAt": "2026-10-20",
+    "id": "news-california-rule-would-clarify-protections-for-postpartum-dep-1792611720000",
+    "title": "California rule would clarify protections for postpartum depression, telework accommodations",
+    "link": "https://www.hrdive.com/news/california-proposal-post-partum-depression-low-milk-supply-pregnancy-protections/833593/",
+    "summary": "The proposed regulations aim to incorporate changes to California law and &ldquo;where appropriate&rdquo; to align state law with the Federal Pregnant Workers Fairness Act.",
+    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -134,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792599194000",
-    "title": " 没有主场的环保公司正在出局 ",
-    "link": "https://www.huxiu.com/article/4899406.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 今年8月，青山研究院在湖北调研一家老牌环保企业。 十九年前，它从市政污水起家。后来赶上行业扩张，园区污水、农村污水、PPP、设备、运营、资源化、数字化陆续进入业务版图。十几年下来，公司在七八个省做过项目，项目清单很长，业务介绍几乎覆盖半个环保行业。 但到了2026年的一次经营会上，问题突然集中出现。 一个运营项目合同到期，业主收回；另一个项目要求重新谈价；市政工程越来越少；公司转向工业废水，客户却问起另一套问题：服务过多少同类工厂？运行成本能降多少？出了问题谁负责？能不能长期运营？ 做了十几年环保，公司当然积累了很多东西，却很难回答一个最关键的问题： 如果明年只能重点投一块业务，我们究竟凭什么赢？ 这正是今天我们很多环保公司的困境。 过去二十年，环保行业造就了大量“什么都能做”的公司。工程、设备、运营都做过，市政、工业都进入过，水、固废、大气、资源化也不断扩边界。 这些企业今天遇到的麻烦，并不是完全没有能力。恰恰相反，它们会的很多。 真正的问题是：过去做过的这些事情，有多少已经变成下一次竞争仍然可以反复使用的优势？ 过去，这个问题可以被增量市场遮住。 现在，市场正在收回对“没有主场的公司”的容忍。 一批公司不是倒闭 而是阵地逐渐失守 所谓“出局”，未必是公司倒闭。 更多时候，它发生得并不戏剧化：一个运营合同到期没有续上，一个曾",
+    "id": "news--1792599553000",
+    "title": " 宁王也有赚不到的钱了 ",
+    "link": "https://www.huxiu.com/article/4899407.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我分析认为，宁王这次大跌问题出在赚钱能力上。 电池还在卖，份额还在涨，可每卖100元电池，留下的毛利越来越少。市场开始担心，宁王往后还能赚多少钱。 2026年10月21日，宁德时代A股跌了12.03%，收在227.90元。 前一天，三季报刚出来。三季度营收1652.21亿元，同比增长58.58%；净利润212.46亿元，同比增长14.54%。 营收涨了近六成，利润涨了一成半，股价却跌了12%；如果从5月7日的467.34元算起，五个多月，股价已经跌去一半左右。 奇怪的是，宁德时代的行业地位并没有跟着缩水。今年前八个月，全球动力电池市场份额还提高了1.7个百分点，达到39.4%。 好，问题来了，市场到底在担心什么？ 看看毛利率就明白了。 三季度，宁德时代毛利率降到20.69%，同比少了5.11个百分点，创下2022年四季度以来的新低。 毛利率不难理解，卖100元的电池，扣掉生产成本，现在只剩20元出头，去年同期还有25.8元。 更关键的是，这已经持续了好几个季度。2025年四季度，毛利率还有28.21%，之后一路往下，到今年三季度只剩两成出头。每100元收入对应的毛利，少了7元多。 为什么会这样呢？ 公司给出的解释，头一条是产品结构变化。据媒体披露的业绩会内容，前几年签下的低价储能长期合同，正好集中在三季度交付。 这有点像开饭店。早几年接",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
@@ -173,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for--1792589400000",
-    "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-    "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-    "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+    "id": "news-recursive-launches-flint-a-laptop-coding-model-it-says-was-l-1792614461000",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
     "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
@@ -186,11 +185,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-half-of-employers-say-ai-will-make-college-degrees-mo-1792528440000",
-    "title": "Nearly half of employers say AI will make college degrees more important",
-    "link": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
-    "summary": "Employers expressed more confidence in the higher education sector than the general public, according to a new Gallup and the Lumina Foundation poll.",
-    "publishedAt": "2026-10-20",
+    "id": "news-nearly-82m-government-grant-targets-rural-job-training-1792611660000",
+    "title": "Nearly $82M government grant targets rural job training",
+    "link": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
+    "summary": "The U.S. Department of Labor said the initiative is designed to &ldquo;address the critical workforce needs of employers in high-growth and emerging industries&rdquo; in the region.",
+    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -213,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792598840000",
-    "title": " 再来看看美国人民过得怎么样 ",
-    "link": "https://www.huxiu.com/article/4899405.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：黄凡 十年前，中美之间的官方与民间往来相当密切，美国其实并非遥不可及。我家住上海，过去每天有多家航空公司的十多个直飞航班前往纽约、洛杉矶、底特律、西雅图等美国主要城市，不同时段真可以说“想走就走”，票价也相对公允。 然而，由于众所周知的原因，2020年至2022年期间两地几乎完全断航，时至今日，也仅恢复到当时的三分之一不到。两地的人员往来交流减少了，我们对太平洋彼岸大国的了解，也基本只能依靠各种媒体。 过去几年来，国内主流媒体对美国的报道往往聚焦于物价失控飞涨、经济面临衰退、人们无家可归……而近期以“牢A”为代表的中文互联网自媒体更是流行一种叙事：美国中产正在全面崩溃，美国人民的生活面临着“斩杀线”的威胁，等等。 比较让人好奇的是，基于如此不堪的基本面，再加上美联储加息收紧流动性，美股这些年走势却节节向上。即使在被认为“不靠谱”的美国总统反复折腾之下，美股持续向上的态势也丝毫没有改变，大家期待中的崩盘更是连影子都没有。过去几年，有不少国内投资人以不同方式参与美股投资，获利甚丰。 不少国内朋友得知我又要去美国，一是吩咐千万小心，因为美国“凶险”；二是嘱咐一定要实地了解一下“牢A”所说的美国人民面对“斩杀线”的实际情况究竟如何。 这次，我是利用到得克萨斯州首府奥斯丁参加全球金融分析师会议的机会，花了一周时间，从洛杉矶自驾沿着美国66号公路，穿越",
+    "id": "news--1792599194000",
+    "title": " 没有主场的环保公司正在出局 ",
+    "link": "https://www.huxiu.com/article/4899406.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 今年8月，青山研究院在湖北调研一家老牌环保企业。 十九年前，它从市政污水起家。后来赶上行业扩张，园区污水、农村污水、PPP、设备、运营、资源化、数字化陆续进入业务版图。十几年下来，公司在七八个省做过项目，项目清单很长，业务介绍几乎覆盖半个环保行业。 但到了2026年的一次经营会上，问题突然集中出现。 一个运营项目合同到期，业主收回；另一个项目要求重新谈价；市政工程越来越少；公司转向工业废水，客户却问起另一套问题：服务过多少同类工厂？运行成本能降多少？出了问题谁负责？能不能长期运营？ 做了十几年环保，公司当然积累了很多东西，却很难回答一个最关键的问题： 如果明年只能重点投一块业务，我们究竟凭什么赢？ 这正是今天我们很多环保公司的困境。 过去二十年，环保行业造就了大量“什么都能做”的公司。工程、设备、运营都做过，市政、工业都进入过，水、固废、大气、资源化也不断扩边界。 这些企业今天遇到的麻烦，并不是完全没有能力。恰恰相反，它们会的很多。 真正的问题是：过去做过的这些事情，有多少已经变成下一次竞争仍然可以反复使用的优势？ 过去，这个问题可以被增量市场遮住。 现在，市场正在收回对“没有主场的公司”的容忍。 一批公司不是倒闭 而是阵地逐渐失守 所谓“出局”，未必是公司倒闭。 更多时候，它发生得并不戏剧化：一个运营合同到期没有续上，一个曾",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
@@ -252,24 +251,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mach9-raises-34m-after-pivoting-to-ai-cad-software-1792587600000",
-    "title": "Mach9 raises $34M after pivoting to AI CAD software",
-    "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-    "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+    "id": "news-automattic-begins-layoffs-following-board-upheaval-and-execu-1792613700000",
+    "title": "Automattic begins layoffs following board upheaval and executive departures",
+    "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+    "summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
     "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr",
+      "organization"
     ]
   },
   {
-    "id": "news-dol-rescinds-potentially-misread-tip-rule-opinion-letters-in-1792528380000",
-    "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
-    "link": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
-    "summary": "The agency also confirmed plans to revisit tip credit regulations for &ldquo;dual job&rdquo; workers, signaling the latest entry in an ongoing tug-of-war between administrations.",
-    "publishedAt": "2026-10-20",
+    "id": "news-nearly-a-quarter-of-fathers-don-t-return-to-work-after-paren-1792611660000",
+    "title": "Nearly a quarter of fathers don’t return to work after parental leave, study shows",
+    "link": "https://www.hrdive.com/news/nearly-a-quarter-of-fathers-dont-return-to-work-after-parental-leave/833502/",
+    "summary": "White-collar professional fathers in the U.S. take more leave than fathers in the 12 other countries studied, Deel found.",
+    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -291,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792598825000",
-    "title": " 马斯克能抵三个哈佛大学吗？ ",
-    "link": "https://www.huxiu.com/article/4899404.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：何志毅 据史料所载，1950年，美国海军部副部长金贝尔曾阻止科学家钱学森回国，强调其价值“抵得上三到五个师”。1956年，毛泽东对钱学森说，“听说美国人把你当作五个师呢！我看，对我们来说，你比五个师的力量大的多。” 借用这种说法，刚刚在白宫被特朗普冠以“当代爱迪生”称号的马斯克，能够抵几所大学？历史上的爱迪生能够抵一所大学吗？ 提出这样的问题，不是哗众，而是为了讨论，科技创新的主体到底是谁？ 有多少企业的研发经费超过了著名大学的经费？ 这样的问题不好回答，因为很多方面不可比。 马斯克的账面身价约为1万亿美元，哈佛大学的总资产不到1000亿美元，但马斯克的历史贡献肯定无法与哈佛大学比肩。 与本文主题相关、可以进行比较的是，特斯拉最新的年度研发投入为77亿美元，太空探索公司的研发投入为122亿美元，马斯克旗下这两家企业的研发投入共计为199亿美元。 而哈佛大学是全球办学经费支出最高的大学，年度支出经费为68亿美元。所以，马斯克旗下两家企业的研究经费相当于三个哈佛大学的年度支出。 再看别的一些名校。麻省理工学院的年度支出是51亿美元，牛津大学是37亿美元，剑桥大学是26亿美元。中国的清华大学是36.3亿美元，上海交大是32.8亿美元，浙江大学是27.5亿美元，北京大学是25.8亿美元，复旦大学是21.6亿美元。 那么再问，现在全球有多少企业的年度",
+    "id": "news--1792598840000",
+    "title": " 再来看看美国人民过得怎么样 ",
+    "link": "https://www.huxiu.com/article/4899405.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：黄凡 十年前，中美之间的官方与民间往来相当密切，美国其实并非遥不可及。我家住上海，过去每天有多家航空公司的十多个直飞航班前往纽约、洛杉矶、底特律、西雅图等美国主要城市，不同时段真可以说“想走就走”，票价也相对公允。 然而，由于众所周知的原因，2020年至2022年期间两地几乎完全断航，时至今日，也仅恢复到当时的三分之一不到。两地的人员往来交流减少了，我们对太平洋彼岸大国的了解，也基本只能依靠各种媒体。 过去几年来，国内主流媒体对美国的报道往往聚焦于物价失控飞涨、经济面临衰退、人们无家可归……而近期以“牢A”为代表的中文互联网自媒体更是流行一种叙事：美国中产正在全面崩溃，美国人民的生活面临着“斩杀线”的威胁，等等。 比较让人好奇的是，基于如此不堪的基本面，再加上美联储加息收紧流动性，美股这些年走势却节节向上。即使在被认为“不靠谱”的美国总统反复折腾之下，美股持续向上的态势也丝毫没有改变，大家期待中的崩盘更是连影子都没有。过去几年，有不少国内投资人以不同方式参与美股投资，获利甚丰。 不少国内朋友得知我又要去美国，一是吩咐千万小心，因为美国“凶险”；二是嘱咐一定要实地了解一下“牢A”所说的美国人民面对“斩杀线”的实际情况究竟如何。 这次，我是利用到得克萨斯州首府奥斯丁参加全球金融分析师会议的机会，花了一周时间，从洛杉矶自驾沿着美国66号公路，穿越",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
@@ -330,11 +331,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-5-1792537283000",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "publishedAt": "2026-10-20",
+    "id": "news-gm-is-betting-compute-and-ai-will-help-it-compete-with-chine-1792612340000",
+    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+    "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+    "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -343,16 +344,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
-    "title": "HR pros’ fall reading list 2026",
-    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
-    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
-    "publishedAt": "2026-10-20",
+    "id": "news-some-hiring-managers-may-be-waiting-until-after-the-election-1792595340000",
+    "title": "Some hiring managers may be waiting until after the election to recruit",
+    "link": "https://www.hrdive.com/news/hiring-managers-waiting-until-after-the-election-to-recruit/833566/",
+    "summary": "Decision-makers identified changes in government policies as one of the biggest hiring challenges for 2026.",
+    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -369,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792598700000",
-    "title": " 南亚姓氏剧增，英国第一大姓史密斯要易主了？ ",
-    "link": "https://www.huxiu.com/article/4899403.html?f=rss",
-    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 英国国家统计局（ONS）更新了一份数据：英格兰和威尔士每年登记出生婴儿的姓氏排名。 2025年，Smith排第一，对应4,102名新生儿。Khan排第二，对应3,772名。两者相差330人。 按近30年的收窄速度推算，这个判断有一定依据。 先说清统计口径。这份榜单覆盖英格兰和威尔士，苏格兰、北爱尔兰各自单独统计。准确的叫法是“英格兰和威尔士新生儿姓氏榜”。 1996年，Smith对应7,276名新生儿，比Khan多5,464人。由此倒推，当年姓Khan的新生儿约1,812人。 到2025年： Smith：4,102人，比1996年减少约43.6% Khan：3,772人，比1996年增加约108% 两者差距：从5,464人缩小到330人 29年里，差距平均每年收窄约177人。照这个节奏，330人大约只需要两年。 比绝对数更重要的是比例。2025年英格兰和威尔士共登记585,396名新生儿。Smith约占0.70%，Khan约占0.64%，两者合计约1.35%。 换算一下：每140多个新生儿里有1个姓Smith，每150多个里有1个姓Khan。其余98%以上的孩子，分散在两万多个姓氏里。 Smith减少的速度，远快于出生人口下降 Smith是职业姓氏，源自铁匠。中世纪英格兰的每个村镇都需要铁匠，这个姓因此遍布全国，长期排在第一。Tayl",
+    "id": "news--1792598825000",
+    "title": " 马斯克能抵三个哈佛大学吗？ ",
+    "link": "https://www.huxiu.com/article/4899404.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：何志毅 据史料所载，1950年，美国海军部副部长金贝尔曾阻止科学家钱学森回国，强调其价值“抵得上三到五个师”。1956年，毛泽东对钱学森说，“听说美国人把你当作五个师呢！我看，对我们来说，你比五个师的力量大的多。” 借用这种说法，刚刚在白宫被特朗普冠以“当代爱迪生”称号的马斯克，能够抵几所大学？历史上的爱迪生能够抵一所大学吗？ 提出这样的问题，不是哗众，而是为了讨论，科技创新的主体到底是谁？ 有多少企业的研发经费超过了著名大学的经费？ 这样的问题不好回答，因为很多方面不可比。 马斯克的账面身价约为1万亿美元，哈佛大学的总资产不到1000亿美元，但马斯克的历史贡献肯定无法与哈佛大学比肩。 与本文主题相关、可以进行比较的是，特斯拉最新的年度研发投入为77亿美元，太空探索公司的研发投入为122亿美元，马斯克旗下这两家企业的研发投入共计为199亿美元。 而哈佛大学是全球办学经费支出最高的大学，年度支出经费为68亿美元。所以，马斯克旗下两家企业的研究经费相当于三个哈佛大学的年度支出。 再看别的一些名校。麻省理工学院的年度支出是51亿美元，牛津大学是37亿美元，剑桥大学是26亿美元。中国的清华大学是36.3亿美元，上海交大是32.8亿美元，浙江大学是27.5亿美元，北京大学是25.8亿美元，复旦大学是21.6亿美元。 那么再问，现在全球有多少企业的年度",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
@@ -985,4 +987,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-21T16:32:39.937Z';
+export const dataFetchedAt = '2026-10-21T21:12:10.991Z';
