@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-astrolab-s-upcoming-rover-will-run-the-first-llms-on-the-moo-1792526841000",
-    "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-    "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-    "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series&#8230;",
+    "id": "news-it-s-a-bird-it-s-a-plane-it-s-a-robo-puffin-1792530000000",
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-8217-s-ai-business-is-beating-expectations-1792528841000",
-    "title": "SpaceX&#8217;s AI business is beating expectations",
-    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "id": "news-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-5-1792537283000",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792512526000",
-    "title": " 当所有人都相信自己明天会更弱 ",
-    "link": "https://www.huxiu.com/article/4899087.html?f=rss",
-    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 上周五，10月16日。一部由美国国会两党压倒性通过、以已故参议员格雷厄姆命名的对俄制裁法案，眼看两天后就要生效，特朗普签署行政令，把法案中涉俄的制裁和关税整体豁免，理由是\"此举符合美国的国家利益\"。至于怎么个符合法，行政令没有解释。此前不久，他还放行了俄罗斯柴油进入美国和其他市场。 然后，昨天，10月19日，《大西洋月刊》发了一篇重磅长文，标题直言“美国如今成了俄罗斯的盟友”。作者尼科尔斯在美国海军战争学院教了二十多年书，写了半辈子俄罗斯和安全问题。 他说，白宫和克里姆林宫，现在站在了同一边。在文章的结尾，他写道：白宫与克里姆林宫结盟，这种事此前只存在于偏执小说里；斯大林们如果能看到今天，大概会觉得自己那些邪恶的愿望没有错，只是梦做得太早了。 一条行政令，一篇文章，都是新闻。但它们背后的那种感觉，新闻解释不了。现在这个世界，好像换了一种变化方式：某天早晨醒来，你发现自己站在一个不认识的地方。简直堪比AI领域的热闹。 我最近看到一份很冷门的材料，对这种变化以及这种感觉，给出了非常深刻和准确的分析。 这是今年六月份的一场两个小时的对谈。提问的人是阿明·沃尔夫，奥地利国家电视台ORF旗舰新闻节目的主播，干了二十多年，2019年被评为欧洲年度记者。 回答的人是这场对话真正的主角：伊万·克拉斯特耶夫，保加利亚政治学家，索非亚自由战略",
-    "publishedAt": "2026-10-20",
+    "id": "news-ai-1792551828000",
+    "title": " AI短剧，怎么就不配烧算力了？ ",
+    "link": "https://www.huxiu.com/article/4899153.html?f=rss",
+    "summary": "本文来自微信公众号： 冰川思享号 ，作者：陈白bot 今天很多人似乎习惯于将AI应用划分为三六九等。用于科学研究，是高价值的；用于编程，是推动生产力的；用于广告营销，似乎就要打个折扣；到了短剧和娱乐，则几乎成了一种技术资源的浪费。 最近，AI短剧突然背上了一口大锅：浪费中国的算力。 事情的起因是一组引发热议的数据。中文在线此前披露，国内AI Token消耗中，55%流向短剧和视频生成，24%用于电商与营销，软件开发只占15%。于是，一个颇具冲击力的说法开始在网络上流传：中国超过一半的AI算力，竟然拿去拍爽剧了。 一时间，有人痛心疾首，认为宝贵的算力资源没有用于科学研究和技术创新，反而被消耗在霸道总裁、逆袭复仇、穿越重生这些缺乏营养的娱乐内容上。甚至有人将此上升到中美人工智能竞争的高度，仿佛“美国用AI提生产力，中国用AI造奶头乐”。 这样的叙事听起来很有戏剧性，也非常符合某种技术焦虑的传播逻辑。 但我想提出一个可能有些不合时宜的问题：且不说这个数据本身存在明显的统计争议，退一万步，即便一半的AI Token真的用来生产短剧，那又有何不可？ 难道一项技术只有被用于实验室、科研论文或者工业生产，才算得上有价值的创新？让普通人在辛苦工作之余，获得一点轻松和快乐，就不值得消耗算力了吗？ 这场争论折射出的，本质上是我们长期以来对科技创新的一种根深蒂固的偏见。 01 首先需要厘清的是，所谓“中",
+    "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -68,11 +68,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792492153000",
-    "title": "AI短剧里的“彩票工厂”不再赚钱",
-    "link": "https://www.tmtpost.com/8174771.html",
-    "summary": "一些议论",
-    "publishedAt": "2026-10-20",
+    "id": "news-22-1792551671000",
+    "title": "从“南北分治”到“南北合流”，丰田中国22年格局之变",
+    "link": "https://www.tmtpost.com/8175293.html",
+    "summary": "丰田要效率，广汽和一汽要出路。",
+    "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -82,43 +82,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-new-economics-of-enterprise-ai-1792509625000",
-    "title": "The new economics of enterprise AI",
-    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+    "id": "news-here-s-the-tea-1792530000000",
+    "title": "Here’s the tea",
+    "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-1792528510000",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "id": "news-spacex-and-tesla-boards-form-special-committees-to-review-me-1792537077000",
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-dol-rescinds-potentially-misread-tip-rule-opinion-letters-in-1792528380000",
-    "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
-    "link": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
-    "summary": "The agency also confirmed plans to revisit tip credit regulations for &ldquo;dual job&rdquo; workers, signaling the latest entry in an ongoing tug-of-war between administrations.",
+    "id": "news-nearly-half-of-employers-say-ai-will-make-college-degrees-mo-1792528440000",
+    "title": "Nearly half of employers say AI will make college degrees more important",
+    "link": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
+    "summary": "Employers expressed more confidence in the higher education sector than the general public, according to a new Gallup and the Lumina Foundation poll.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -135,11 +134,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792512420000",
-    "title": " 中国在全球的流浪工厂 ",
-    "link": "https://www.huxiu.com/article/4899086.html?f=rss",
-    "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍 | 中国在全球的流浪工厂》 中国制造为何在全球四下迁移，成为全球化的流浪工厂？美国关税和法令是关键驱动力。中国的光伏组件工厂，当前正在埃塞俄比亚加班加点出货，抢在今年12月份美国232条款的关税启动之前，挤进美国市场。没有一个行业能比光伏，更容易看清楚美国全副武装到牙齿的贸易政策工具。沿着中国光伏工厂的迁移路线，可以经历一堂最为完整的美国贸易法律课。 图：美国政策工具与中国光伏的全球工厂迁移 中国工厂的全球迁移路线，历时已经有15年。2011年11月，美国对光伏产业同时发起了反倾销AD和反补贴CVD调查，一年后的征税令使得双反税率高达254.66%。这个法令是整个中国光伏大山移动的前奏。然而最初只是轻微的晃动，没有人预见到两件事情接续发生。第一件是中国光伏产业排山倒海的大发展，第二件是不断叠加的贸易措施，推动了中国光伏工厂在全球寻找新的落脚点。 随着这些贸易调查与征税的实施，中国光伏产业开始少部分陆续向东南亚移动。这些零星的工厂，更多具有象征意义。然而，大山与地面的裂缝出现在2018年美国发起四波关税海浪的时候。中国对美出口商品中，约3700亿美元被加征关税，约占输美总额的三分之二。这些以产业政策和知识产权为名目的301条款，和以美国产业损害为由的201条款，叠加在光伏既有的贸易关税上，使得翅膀既硬的中国光伏产业",
-    "publishedAt": "2026-10-20",
+    "id": "news--1792550908000",
+    "title": " 动力电池的新“五代十国” ",
+    "link": "https://www.huxiu.com/article/4899146.html?f=rss",
+    "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 理想开始用自己的品牌，为自研电池担保。 10月20日晚，理想汽车发布“连山”电动技术体系，同时推出电池保障计划。 自研电池因自身质量问题引发自燃、车辆达到报废标准的，赔付同等配置新车；因碰撞或底盘剐蹭导致自研电池起火、车辆达到报废标准的，补足车损险保单保额与保险实际赔付之间的差额。 这份保障直接对准了不同电池品牌之间的信任差距。用户很难判断电芯材料、制造工艺和控制算法的差别，却能看懂出了问题由谁承担损失。理想愿意担保，用户选择自研电池时，便多了一份来自整车品牌的信用背书。 在购车决策这一层面，车企的担保有望抵消供应商品牌差异带来的顾虑。宁德时代多年积累的质量与安全口碑，过去可以成为车企争取用户的理由；当车企能够提供自己的技术标准和保障承诺，这份口碑就有了另一种形式的替代。 这种替代能走多远，还要看车企的产品表现和履约能力。但动力电池产业的分工，已经开始变化。 车企从整车伸向电池，电池企业则从电池伸向整车。宁德时代投资阿维塔、开发智能底盘、建设换电网络，都在扩大自己参与汽车产业的范围。 电池厂之间争订单的竞争仍在继续，车企也走进场内，开始争取产品由谁定义、软硬件由谁整合，以及用户信任由谁承接。 增长变速 宁德时代的领先地位，形成于新能源汽车高速扩张的年代。 那时，车企需要尽快推出产品、扩大销量。电池既关系续航和成本，也关系整车安全。",
+    "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -148,11 +147,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9700-1792491456000",
-    "title": "9700万判决之后，汇源决定“不要这个名字了”",
-    "link": "https://www.tmtpost.com/8174668.html",
-    "summary": "北京汇源因商标侵权被判停止使用“汇源”字号，赔偿9700余万元，终止生产并推出“咱家果源”品牌。",
-    "publishedAt": "2026-10-20",
+    "id": "news-token-agentic-cloud-1792551666000",
+    "title": "燃烧吧Token，Agentic Cloud时代云厂商的资本效率大考",
+    "link": "https://www.tmtpost.com/8175272.html",
+    "summary": "算力是AI时代最硬核的入场券，手握现金流的科技巨头，似乎天然拥有持续加码资本开支的底气。 从训练大模型到支撑万级Agent规模化落地，云厂商正开启一场算力军备竞赛，试图用海量基建抢占Agentic Cloud的时代高地。",
+    "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -162,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-the-claim-shaking-up-ai-and-the-internet-s-agen-1792498200000",
-    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-    "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&#8230;",
+    "id": "news-melt-it-spin-it-use-it-again-1792530000000",
+    "title": "Melt it, spin it, use it again",
+    "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -174,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-is-bringing-a-more-personal-version-of-its-gemini-ai--1792526400000",
-    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-    "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+    "id": "news-hugging-face-ceo-warns-that-netflix-8217-s-openai-hack-docum-1792535042000",
+    "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -187,10 +186,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
-    "title": "HR pros’ fall reading list 2026",
-    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
-    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
+    "id": "news-dol-rescinds-potentially-misread-tip-rule-opinion-letters-in-1792528380000",
+    "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
+    "link": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
+    "summary": "The agency also confirmed plans to revisit tip credit regulations for &ldquo;dual job&rdquo; workers, signaling the latest entry in an ongoing tug-of-war between administrations.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
@@ -213,11 +212,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792489908000",
-    "title": "乐事玩转“开袋有奖”，品牌为什么越来越在意消费者的体验感？",
-    "link": "https://www.tmtpost.com/8171080.html",
-    "summary": "100%中奖 万元大奖天天开。",
-    "publishedAt": "2026-10-20",
+    "id": "news-ai-1792550450000",
+    "title": " 看面相断生死，AI居然真做到了？ ",
+    "link": "https://www.huxiu.com/article/4899144.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥 10月20日，国际医学期刊《柳叶刀·数字健康》发表了一项研究：AI仅凭一张普通的脸部照片，就能识别出癌症患者的死亡风险差异。 美国麻省总医院布莱根医疗集团开发了一款名为FAHR-Face的AI模型，让它从人脸照片中寻找与患者生存情况有关的线索。 研究人员找来3820名没参与过模型训练的癌症患者进行测试，其中，122人被AI评为极高风险，而在拍照后的90天里，这122人中有64人去世。 研究人员随后又使用近4900名荷兰癌症患者的数据进行外部验证，观察到了相似的结果。 整个预测过程，AI不需要查看病历、分析CT影像，也不需要参考血液检查结果。它只需要看一张脸。 AI仅凭一张脸，就能预测死亡风险 这项研究最重要的地方在于，AI真的能把死亡风险不同的癌症患者区分开来。 为了做到这一点，研究团队首先用4000多万张普通人脸照片，训练了一个视觉基础模型FAHR-Face。 训练方法有点像拼图：研究人员随机遮住照片中约75%的区域，再让AI根据剩下的部分，尝试还原完整的照片。经过反复训练，AI逐渐学会了识别人脸的结构，以及不同面部特征之间的联系。 有了这个基础，研究人员开始教它预测死亡风险。他们找来34363张癌症患者的脸部照片，以及对应的生存记录，包括患者是否已经去世、去世的时间，或者截至最后一次随访时已经存活了多久。 接下来，研究人员采用了一",
+    "publishedAt": "2026-10-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792551319000",
+    "title": "避险光环褪去，黄金消费降温",
+    "link": "https://www.tmtpost.com/8175417.html",
+    "summary": "金价越涨，买的人越踊跃。",
+    "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -227,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-adoption-by-industry-shows-what-other-sectors-can-learn-1792497600000",
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+    "id": "news-a-reason-to-eat-carbs-1792530000000",
+    "title": "A reason to eat carbs",
+    "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead&#8230;",
     "publishedAt": "2026-10-20",
     "source": "MIT Technology Review",
     "tags": [
@@ -239,17 +252,96 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gm-to-close-detroit-battery-assembly-plant-but-not-for-reaso-1792524763000",
-    "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
-    "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-    "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+    "id": "news-anthropic-s-cloud-partnerships-are-getting-messy-1792531522000",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "strategy"
+      "organization"
+    ]
+  },
+  {
+    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
+    "title": "HR pros’ fall reading list 2026",
+    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
+    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
+    "publishedAt": "2026-10-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-2026-ai-1792405659000",
+    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "link": "https://www.qbitai.com/2026/10/504266.html",
+    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+    "publishedAt": "2026-10-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792550259000",
+    "title": " 健身教练月入一万，是一件很难的事 ",
+    "link": "https://www.huxiu.com/article/4899140.html?f=rss",
+    "summary": "本文来自微信公众号： 动察局FitAgent ，作者：FitAgent，编辑：动察局 “做健身教练，一个月连一万块都挣不到，还干什么？” 类似的话，在社交媒体上并不少见。 有些教练晒出自己的收入，告诉新人只要肯努力，月入过万很正常；有人讨论职业发展，也把一万元当成一道最低标准：低于一万元，说明你不会销售，不会维护客户，或者根本不适合做教练。 这类话很有冲击力。 对准备入行的人来说，它会制造一种期待：既然别人都能过万，自己经过培训、考完证、找到一家健身房，应该也不会差太多。对已经入行却没有拿到一万元的教练来说，它又会变成一种压力：别人都说这是普通收入，为什么自己只有五六千、七八千？ 说得久了，月入一万元好像真成了健身教练的职业及格线。 但这件事从一开始就不成立。 月入一万元，过去十几年都不是一笔稀松平常的收入，现在也不是。尤其在赚钱变得更难、消费者花钱更加谨慎的这几年，能够每个月稳定拿到一万元，依然意味着一个人的收入已经超过了社会上相当大一部分劳动者。 健身教练当然也不例外。 国家统计局公布的数据显示，2025年，全国城镇私营单位就业人员年平均工资为71590元，折合每月约5966元。 统计局原始数据 规模以上企业中，办事人员和有关人员年平均工资为94936元，折合每月约7911元；社会生产服务和生活服务人员年平均工资为79857元，月均约6655元。即使把管理人员、专业技术人员和高",
+    "publishedAt": "2026-10-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792549500000",
+    "title": "机器人的身体，不值钱了",
+    "link": "https://www.tmtpost.com/8174288.html",
+    "summary": "5 亿美元估值的明星机器人公司破产清算，这个赛道的融资额却翻了一倍。钱去了哪里？",
+    "publishedAt": "2026-10-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-robotic-therapy-for-stroke-patients-1792530000000",
+    "title": "Robotic therapy for stroke patients",
+    "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&#8230;",
+    "publishedAt": "2026-10-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-spacex-8217-s-ai-business-is-beating-expectations-1792528841000",
+    "title": "SpaceX&#8217;s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "publishedAt": "2026-10-20",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
     ]
   },
   {
@@ -267,74 +359,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-ai-1792405659000",
-    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-    "link": "https://www.qbitai.com/2026/10/504266.html",
-    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-    "publishedAt": "2026-10-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792489354000",
-    "title": "田柯宇错了，但他付出的代价太小了",
-    "link": "https://www.tmtpost.com/8174442.html",
-    "summary": "惩罚轻到近乎可以忽略，收益却大到足以改写命运",
-    "publishedAt": "2026-10-20",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-to-study-a-swiftly-melting-climate-disaster-1792490400000",
-    "title": "How to study a swiftly melting climate disaster",
-    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
-    "publishedAt": "2026-10-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-google-has-joined-amazon-in-attacking-nvidia-8217-s-strongho-1792521504000",
-    "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
-    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "publishedAt": "2026-10-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-employees-say-they-have-to-leave-their-companies-to-advance--1792503540000",
-    "title": "Employees say they have to leave their companies to advance their careers",
-    "link": "https://www.hrdive.com/news/employees-say-they-have-to-leave-their-companies-to-advance-their-careers/833444/",
-    "summary": "Organizations are &ldquo;searching the external market for individuals with skills and experience that they may already have,&rdquo; one SHL executive said.",
-    "publishedAt": "2026-10-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news--1792404919000",
     "title": "全栈自研！国产高端互连芯片，稳了!",
     "link": "https://www.qbitai.com/2026/10/504225.html",
@@ -348,11 +372,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792489209000",
-    "title": "挣真钱：中国 AI 独角兽的成人礼",
-    "link": "https://www.tmtpost.com/8173526.html",
-    "summary": "从调用量全球第一，到涨价 101%。",
-    "publishedAt": "2026-10-20",
+    "id": "news--1792549980000",
+    "title": " 汇源集团宣布不再生产汇源果汁，朱新礼为何另起炉灶？ ",
+    "link": "https://www.huxiu.com/article/4898968.html?f=rss",
+    "summary": "汇源果汁创始人朱新礼，如今却不能再用自己创立的&ldquo;汇源&rdquo;品牌了，这是怎么一回事？",
+    "publishedAt": "2026-10-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792549140000",
+    "title": "朱新礼，再出发",
+    "link": "https://www.tmtpost.com/8175416.html",
+    "summary": "从汇源到“咱家果源”。",
+    "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -363,491 +400,7 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2610.26863v1",
-    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-    "authors": [
-      "Keshigeyan Chandrasegaran",
-      "Yue Zhao",
-      "Armin W. Thomas",
-      "Ehsan Adeli",
-      "Jiajun Wu",
-      "Juan Carlos Niebles",
-      "Li Fei-Fei",
-      "Michael Poli"
-    ],
-    "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the sa",
-    "link": "http://arxiv.org/abs/2610.26863v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.LG",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26860v1",
-    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-    "authors": [
-      "Yu Zhou",
-      "Cheng-Fu Yang",
-      "Rui Sun",
-      "Di Wu",
-      "Sibo Peng",
-      "Mingyang Zhang",
-      "Zhen Yang",
-      "Ruiyi Zhang",
-      "Nanyun Peng",
-      "Zhe Gan",
-      "Kai-Wei Chang"
-    ],
-    "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retained across reasoning steps. We introduce OpenVLHarness, a multimodal reasoning harness organized around a capability layer and persistent multimodal memory. The capability layer combines task-level tool interfaces with evidence rendering, providing consistent access to heterogeneous backends and con",
-    "link": "http://arxiv.org/abs/2610.26860v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CV",
-      "cs.LG",
-      "cs.MM"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26861v1",
-    "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-    "authors": [
-      "Wenqian Zhang",
-      "Yangyi Huang",
-      "Zigeng Xu",
-      "Weiyang Liu",
-      "Zhen Liu"
-    ],
-    "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating sequences. To bridge this gap, we propose FunCAD-Harness, a framework that translates abstract requirements into candidate-specific physical tests and uses simulation feedback to guide design revisions. To systematically evaluate this capability, we introduce FunCADBench, a benchmark spanning 46 me",
-    "link": "http://arxiv.org/abs/2610.26861v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CV",
-      "cs.CL",
-      "cs.GR"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26856v1",
-    "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
-    "authors": [
-      "Shiao Xie",
-      "Siyu Chen",
-      "Jianwei Lv",
-      "Xiandong Li",
-      "Yujin Wang"
-    ],
-    "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level correction is contaminated when its update direction cannot be consistently attributed to the privileged visual evidence. Directly distilling contaminated corrections may therefore reinforce erroneous t",
-    "link": "http://arxiv.org/abs/2610.26856v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26852v1",
-    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-    "authors": [
-      "Zehao Wang",
-      "Jianpeng Yao",
-      "Yuping Wang",
-      "Yiping Li",
-      "Jiaqi Li",
-      "Zhixu Li",
-      "Kanghoon Lee",
-      "Jinfeng Wang",
-      "Cong Liu",
-      "Zhaowei Tan",
-      "Jinkyoo Park",
-      "Jiachen Li"
-    ],
-    "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge. We propose CoopUQ, a multi-robot social navigation framework that bridges uncertainty-aware cooperative occupancy forecasting and robust decision making. CoopUQ predicts future occupancy grid maps through cross-robot spatiotemporal feature fusion and further leverages forecasts and their uncer",
-    "link": "http://arxiv.org/abs/2610.26852v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26848v1",
-    "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
-    "authors": [
-      "Zekai Li",
-      "Jiayi Yu",
-      "Jinlu Zhang",
-      "Luyang Niu",
-      "Zekun Qi",
-      "Jun Zheng",
-      "Xuchuan Chen",
-      "Dairu Liu",
-      "Yintianrun Zhang",
-      "He Wang",
-      "Li Yi"
-    ],
-    "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may constrain different parts of improvement. The five-axis metrics also distinguish systems with close public benchmark averages and show that high scores need not come with early or efficient gains. We study observational scaling from two perspectives: predicting the relative performance of VLM agents fro",
-    "link": "http://arxiv.org/abs/2610.26848v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.RO",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26847v1",
-    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-    "authors": [
-      "Rui Shi",
-      "Xunjian Yin",
-      "Jiacheng Sang",
-      "Zichuan Liu",
-      "Shuyan Zhou"
-    ],
-    "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet conventional joint training and static adapter merging maintain a fixed parameter configuration throughout execution. We introduce WeAct (Weight-level Internal Actions), which trains independent capability-specific LoRA adapters over a frozen backbone and adds adapter selection to the agent's action space. These internal actions use the model's native tool-calling interface for on-demand capability composition in a shared context. Across eight deep-research benchmarks, Qwen3-32B with WeAct impro",
-    "link": "http://arxiv.org/abs/2610.26847v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26845v1",
-    "title": "Train An Imaginative Agent",
-    "authors": [
-      "Jiaxin Ge",
-      "Junyi Zhang",
-      "Tianning Chai",
-      "Hanjun Yoo",
-      "Chenyang Wang",
-      "Xiuyu Li",
-      "Weijia Shi",
-      "XuDong Wang",
-      "Sewon Min",
-      "Luke Zettlemoyer",
-      "Trevor Darrell",
-      "Haiwen Feng"
-    ],
-    "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agima), a training framework that trains an agent to imagine before acting, i.e. to be imaginative. Agima trains a single omni model to propose actions, generate images of their outcomes, and then reason over these imagined futures to decide what to execute in the real environment. Rather than committing to a single plan, the agent can simulate a sequence of actions, explore alternatives, and compare possible futures. We first use supervised fine-tuning (SFT) to unify policy and world modeling withi",
-    "link": "http://arxiv.org/abs/2610.26845v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26844v1",
-    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-    "authors": [
-      "Heejeong Nam",
-      "Divyat Mahajan",
-      "Quentin Le Lidec",
-      "Randall Balestriero",
-      "David Klindt"
-    ],
-    "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-action combinations observed in expert rollouts. Despite this, the relationship between data coverage, dynamics generalization, and downstream planning performance remains underexplored. We study this relationship through the lens of compositional generalization: can a world model recombine familiar state and action factors into valid dynamics? To answer this, we introduce AnyGoal, a benchmark of goal-shifted task variants built from widely used world-model environments, together with an open-sourc",
-    "link": "http://arxiv.org/abs/2610.26844v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26840v1",
-    "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
-    "authors": [
-      "Huawei Lin",
-      "Jinting Liu",
-      "Tan Yu",
-      "Weijie Zhao"
-    ],
-    "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusable across questions, and readable by a different LLM. Existing compression and latent communication methods each provide only some of these properties. We introduce LatComm, a Latent Communication interface that provides all three by separating encoding from reading: the context is encoded once without the question, and the receiver selects what to read for each question. A frozen context encoder LLM compresses the context into a fixed-size packet and sends it to a different frozen receiver LLM",
-    "link": "http://arxiv.org/abs/2610.26840v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26839v1",
-    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-    "authors": [
-      "Youran Dong",
-      "Junfeng Yang",
-      "Wei Yao",
-      "Jin Zhang"
-    ],
-    "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the lower-level and multiplier updates. Newton-based GALET handles potentially singular lower-level curvature under a positive spectral-gap condition, exploiting its range structure to avoid the squared-Hessian multiplier system used in GALET. Newton-based BAMM uses a strongly convex aggregation model when the lower-level objective is convex a",
-    "link": "http://arxiv.org/abs/2610.26839v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "math.OC",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26836v1",
-    "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
-    "authors": [
-      "Ke Zhang",
-      "Sahchit Chundur",
-      "Jerry Peprah Owusu",
-      "Mohammad Javad Abdolhosseini Qomi",
-      "Maziar Raissi"
-    ],
-    "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask where this costs accuracy with a real scientific tool: PHREEQC, a widely used geochemistry simulator from the USGS, whose reports reach 846.8k characters and whose determinism lets every printed value be traced. Agents use it to answer 158 execution-verified multiple-choice items. When agents read the simulator's report through a section index rather than in context, GPT-5.1 and GPT-5.2 lose 11.3 and 7.9 points of accuracy, while Claude Opus 4.6 and Claude Sonnet 4.6 show no detectable cost. Re-running all 11,007 logged simulator calls shows that both GPT models compute the k",
-    "link": "http://arxiv.org/abs/2610.26836v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26834v1",
-    "title": "Kronecker Delta Rule for Long Context Linear Attention",
-    "authors": [
-      "Anamaria-Roberta Hartl",
-      "Levente Zólyomi",
-      "Michael List",
-      "Günter Klambauer",
-      "Sebastian Böck",
-      "Sepp Hochreiter"
-    ],
-    "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction in matrix space. This minimally invasive memory revision reduces interference with previously stored information compared with delta-rule updates, making it particularly well suited for long-context language modeling. The resulting memory dynamics can be mathematically described as a Markov chain that converges to a steady-state distribution, while the expected norm of the memory matrix remains uniformly bounded throughout the entire input sequence. Hence, KronLSTM ensures stable memory dynamic",
-    "link": "http://arxiv.org/abs/2610.26834v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26833v1",
-    "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
-    "authors": [
-      "Riccardo Molteni",
-      "Minjun Jeon",
-      "Paolo Braccia",
-      "Abhinav Deshpande",
-      "Vedran Dunjko",
-      "Liang Jiang",
-      "Su-un Lee",
-      "Swarnadeep Majumder",
-      "Javier Robledo Moreno",
-      "Parthasarathy Suryanarayanan",
-      "Kunal Sharma"
-    ],
-    "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learning framework in which a classical training dataset is encoded into a single effective, parameterized Hamiltonian. Training optimizes the parameters of this data-dependent Hamiltonian, whose approximate ground state defines the classification rule. Once the ground state has been approximated using a quantum algorithm, inference can be performed either classically using a classical representation of the learned state, or with a quantum representat",
-    "link": "http://arxiv.org/abs/2610.26833v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "quant-ph",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26830v1",
-    "title": "Competing Learning in Hybrid Architectures",
-    "authors": [
-      "Xingyu Shen",
-      "Yingfa Chen",
-      "Ziqing Qiao",
-      "Chaojun Xiao",
-      "Xu Han",
-      "Zhiyuan Liu"
-    ],
-    "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high throughput by compressing contextual information into a fixed-size state, but underperform softmax attention in contextual information retrieval. In this paper, we reveal a Competing Learning phenomenon where different kinds of mixers compete to learn the same function, and when any layer learns a function, it suppresses the corresponding learning signal for other layers. Layer attribution analysis reveals that under typical data distributions, modern recurrence learns retrieval functions faster than softmax attention, causing attention to fail to learn retrieval in most ca",
-    "link": "http://arxiv.org/abs/2610.26830v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26829v1",
-    "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
-    "authors": [
-      "Matt Turk",
-      "Brandon L. Neel",
-      "Diana M. Lopez",
-      "Zachary D. Smith",
-      "Grace N. Johnecheck",
-      "James B. Golden"
-    ],
-    "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the model. We study ProteinGeoBench, a suite of 131 protein-structure tasks, using 4,249 rollouts from four frontier models and 4,486 further trials across 26 models. Three of the four frontier models fall within 0.031 of one another (0.785 to 0.816) with no difference between them resolved, while the fourth scores 0.707 and all three gaps to it exclude zero. Three of the four do better on metadata lookup than on numeric calculation. The fourth is slightly better on numeric. Numeric tasks are 28 of the 131 but half of the twelve tasks that all four models fail. The ranking also",
-    "link": "http://arxiv.org/abs/2610.26829v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.AI",
-      "cs.LG",
-      "q-bio.BM"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26828v1",
-    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-    "authors": [
-      "Zhaoyang Wang",
-      "Qianhui Wu",
-      "Haorui Wang",
-      "Simon Yu",
-      "Baolin Peng",
-      "Canwen Xu",
-      "Hao Cheng",
-      "Wenlin Yao",
-      "Boyi Liu",
-      "Yite Wang",
-      "Jianfeng Gao",
-      "Huaxiu Yao"
-    ],
-    "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substantial security risks. We therefore propose Agent World Model in the Wild (WildAWM), a scalable pipeline for synthesizing controllable environments and tasks for training general computer-use agents (CUAs). Whereas existing approaches typically specialize in a single agent interaction interface, we construct executable environments that jointly support graphical user interfaces, model context protocol services, and command-line interfaces, allowing agents to flexibly combine visual interaction, tool use, and code execution. WildAWM is entirely powered by open-source models, d",
-    "link": "http://arxiv.org/abs/2610.26828v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26827v1",
-    "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
-    "authors": [
-      "Ziqing Man",
-      "Di Wu",
-      "Jia-Chen Gu",
-      "Junyi Zhang",
-      "Kai-Wei Chang",
-      "Nanyun Peng"
-    ],
-    "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer correctly from an unfaithful compression, so these metrics underestimate such loss. To bridge this gap, we introduce KEEP-Bench, a diagnostic benchmark that directly assesses compression faithfulness with 4,102 cases across three challenging settings that require keeping evidence for plausible reference resolutions, explicit qualifiers, and minority perspectives. Experiments show that even with tailored prompting, the strongest models remain unreliable: despite context windows exceeding 100K tokens and inputs averaging only 3.1K tokens, the best open-weight model (31B) preserves all required evid",
-    "link": "http://arxiv.org/abs/2610.26827v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26826v1",
-    "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
-    "authors": [
-      "Yuchi Wang",
-      "Rongyao Fang",
-      "Weihao Yu",
-      "Xilin Wei",
-      "Tiancheng Gu",
-      "Dingkang Yang",
-      "Hang Zhang",
-      "Dayiheng Liu",
-      "Hongsheng Li",
-      "Shuai Bai"
-    ],
-    "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evaluable setting in which existing benchmarks remain largely idealized: they typically focus on reconstructing visual targets or generating webpages from textual instructions alone, overlooking the more common workflow of developing from visual examples. Specifically, we introduce RefCraft, a benchmark comprising 300 realistic multimodal webpage-development tasks that combine natural-language instructions with screenshots from one to five reference webpages. Agents must selectively interpret and utilize these references ",
-    "link": "http://arxiv.org/abs/2610.26826v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2610.26825v1",
-    "title": "MemT-1.0: Towards Memory-Native Evolution",
-    "authors": [
-      "Zhiyu Li",
-      "Zeyu Zhang",
-      "Linyun Liu",
-      "Yiwei Bu",
-      "Chenyang Xi",
-      "Xichong Zhang",
-      "Yi Yu",
-      "Yu Yu",
-      "Zhichen Liu",
-      "Yuxiao Yi",
-      "Chunyu Li",
-      "Haoran Liu",
-      "Zhenkai Ding",
-      "Le Zhou",
-      "Juncheng Zhang",
-      "Boyu Chen",
-      "Zehao Lin",
-      "Guorui Li",
-      "Renyu Fu",
-      "Ji Li",
-      "Youyang Xia",
-      "Jiajun Shen",
-      "Harvey Li",
-      "Jingsong Zhou",
-      "Helan Hu",
-      "Tong Shen",
-      "Tianxiao Xu",
-      "Chenye Han",
-      "Weijie Li",
-      "Zhongquan Zhou",
-      "Hongming Xu",
-      "Yuekeng Li",
-      "Erenkai Zhu",
-      "Peng Yu",
-      "Wenhao Li",
-      "Jingyi Kang",
-      "Xixuan Hao",
-      "Xuzhou Zhu",
-      "Can Chen",
-      "Jiawei Liu",
-      "Chen Jiang",
-      "Tao Jiang",
-      "Fangwei Xiang",
-      "Zepeng Yao",
-      "Kai Chen",
-      "Guang Yang",
-      "Mingfei Lu",
-      "Chunhui Li",
-      "Zhengxuan Jiang",
-      "Bo Tang",
-      "Shiyu Zhan",
-      "Yihang Sun",
-      "Jie Chu",
-      "Wenjun Xiong",
-      "Zhenxiang Hua",
-      "Chen Lin",
-      "Detong Su",
-      "Dongyu Deng",
-      "Qiuping Ding",
-      "Guofeng Ding",
-      "Si Chen",
-      "Guohua Wen",
-      "Xu Chen",
-      "Zhi-Qin John Xu",
-      "Ying-Cong Chen",
-      "Ningyu Zhang",
-      "Haofen Wang",
-      "Muning Wen",
-      "Haotian Chen",
-      "Wentao Zhang",
-      "Xuanhe Zhou",
-      "Rita Zhang",
-      "Junchi Yan",
-      "Feiyu Xiong"
-    ],
-    "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Building on Metis, MemT-1.0 employs Gated DeltaNet-2 with a stable token-level memory update mechanism within each turn. We further introduce Mixture-of-Storage to scale native memory capacity. Following a deliberate backbone preparation, we develop a two-stage training pipeline consisting of continued pre-training and post-training, supported by 34B tokens of training data and efficient training and inference infrastructure. We release a model family comprising MemT-1.0-Nano and MemT-1.0-Flash, and",
-    "link": "http://arxiv.org/abs/2610.26825v1",
-    "publishedAt": "2026-10-19",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -931,7 +484,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
     "postedAt": "2026-10-14",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137421",
@@ -1047,4 +600,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-20T21:12:07.845Z';
+export const dataFetchedAt = '2026-10-21T03:09:38.019Z';
