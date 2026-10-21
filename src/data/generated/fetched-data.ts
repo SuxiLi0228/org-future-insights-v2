@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-we-can-do-impossible-things-1792573200000",
-    "title": "We can do impossible things",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
+    "id": "news-the-download-introducing-the-impossible-issue-1792584600000",
+    "title": "The Download: introducing the Impossible issue",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
     "publishedAt": "2026-10-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-5-1792537283000",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "publishedAt": "2026-10-20",
+    "id": "news-foursquare-co-founder-says-equity-holders-saw-no-returns-fro-1792591391000",
+    "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
+    "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+    "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+    "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-large-employers-are-hiring-part-time-workers-over-seasonal-o-1792528440000",
-    "title": "Large employers are hiring part-time workers over seasonal ones, Indeed data shows",
-    "link": "https://www.hrdive.com/news/large-employers-are-hiring-part-time-workers-over-seasonal-ones-indeed/833437/",
-    "summary": "The shift indicates potential optimism about future staffing needs, an economist at the Indeed Hiring Lab said.",
-    "publishedAt": "2026-10-20",
+    "id": "news-some-hiring-managers-may-be-waiting-until-after-the-election-1792595340000",
+    "title": "Some hiring managers may be waiting until after the election to recruit",
+    "link": "https://www.hrdive.com/news/hiring-managers-waiting-until-after-the-election-to-recruit/833566/",
+    "summary": "Decision-makers identified changes in government policies as one of the biggest hiring challenges for 2026.",
+    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,40 +54,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792579577000",
-    "title": " 从工作重组到职业流动，AI就业冲击可能先从哪里显现？ ",
-    "link": "https://www.huxiu.com/article/4899321.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 ChatGPT问世以来，生成式AI正加速渗入白领的日常工作。但它究竟是在替代劳动者，还是帮其提升能力、转向更高薪的岗位？布鲁金斯学会（Brookings Institution）的两位经济学家追踪2.5万名丹麦劳动者后给出答案：生成式AI尚未对工资、工时与企业用工产生可测量的影响，但工作内容却被实质性重组，部分使用者已经转入了薪酬更高的职业。 值得注意的是，AI暴露职业的初级岗位确有减少，但采用聊天机器人的企业并非这一趋势的推手。研究提示，工资单上尚未显现的变化，正在悄悄改写工作任务与职业流动。 原文标题：Still waters,rapid currents:Early labor market transformation under generative AI 原文来源：布鲁金斯学会（Brookings Institution） 编译解读：数字经济发展评论 布鲁金斯学会（Brookings Institution）两位经济学家追踪了2.5万名丹麦劳动者，覆盖11类受生成式AI冲击最深的职业，并将问卷回答与截至2024年12月的月度行政记录逐一对接。 结果呈现一组看似矛盾的事实：无论劳动者是否使用聊天机器人、企业是否引入该工具，其收入与工时都未出现可测变化，统计精度足以排除2%以上的差异；与此同时，工作内容",
+    "id": "news--1792599553000",
+    "title": " 宁王也有赚不到的钱了 ",
+    "link": "https://www.huxiu.com/article/4899407.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我分析认为，宁王这次大跌问题出在赚钱能力上。 电池还在卖，份额还在涨，可每卖100元电池，留下的毛利越来越少。市场开始担心，宁王往后还能赚多少钱。 2026年10月21日，宁德时代A股跌了12.03%，收在227.90元。 前一天，三季报刚出来。三季度营收1652.21亿元，同比增长58.58%；净利润212.46亿元，同比增长14.54%。 营收涨了近六成，利润涨了一成半，股价却跌了12%；如果从5月7日的467.34元算起，五个多月，股价已经跌去一半左右。 奇怪的是，宁德时代的行业地位并没有跟着缩水。今年前八个月，全球动力电池市场份额还提高了1.7个百分点，达到39.4%。 好，问题来了，市场到底在担心什么？ 看看毛利率就明白了。 三季度，宁德时代毛利率降到20.69%，同比少了5.11个百分点，创下2022年四季度以来的新低。 毛利率不难理解，卖100元的电池，扣掉生产成本，现在只剩20元出头，去年同期还有25.8元。 更关键的是，这已经持续了好几个季度。2025年四季度，毛利率还有28.21%，之后一路往下，到今年三季度只剩两成出头。每100元收入对应的毛利，少了7元多。 为什么会这样呢？ 公司给出的解释，头一条是产品结构变化。据媒体披露的业绩会内容，前几年签下的低价储能长期合同，正好集中在三季度交付。 这有点像开饭店。早几年接",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-open-inference-code-narrows-the-gap-between-rival-ai-chips-1792578545000",
-    "title": "Open Inference Code Narrows the Gap Between Rival AI Chips",
-    "link": "https://www.tmtpost.com/8176740.html",
-    "summary": "DeepSeek released serving software that builds for Huawei accelerators and Nvidia GPUs from one codebase. In China, where boards are scarce and token traffic is rising, that choice could reshape how teams pick hardware—if live traffic backs up the demos.",
+    "id": "news-ai-1792588319000",
+    "title": "首都在线：账面扭亏，AI算力持续投入｜看财报",
+    "link": "https://www.tmtpost.com/8176619.html",
+    "summary": "毛利修复，资金仍紧。",
     "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-nuclear-powered-spaceships-1792573200000",
-    "title": "Nuclear-powered spaceships",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era&#8230;",
+    "id": "news-we-can-do-impossible-things-1792573200000",
+    "title": "We can do impossible things",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
     "publishedAt": "2026-10-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -96,23 +93,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-and-tesla-boards-form-special-committees-to-review-me-1792537077000",
-    "title": "SpaceX and Tesla boards form special committees to review merger",
-    "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-    "publishedAt": "2026-10-20",
+    "id": "news-ai-promises-productivity-but-for-managers-it-8217-s-mostly-a-1792591200000",
+    "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-nearly-half-of-employers-say-ai-will-make-college-degrees-mo-1792528440000",
-    "title": "Nearly half of employers say AI will make college degrees more important",
-    "link": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
-    "summary": "Employers expressed more confidence in the higher education sector than the general public, according to a new Gallup and the Lumina Foundation poll.",
+    "id": "news-large-employers-are-hiring-part-time-workers-over-seasonal-o-1792528440000",
+    "title": "Large employers are hiring part-time workers over seasonal ones, Indeed data shows",
+    "link": "https://www.hrdive.com/news/large-employers-are-hiring-part-time-workers-over-seasonal-ones-indeed/833437/",
+    "summary": "The shift indicates potential optimism about future staffing needs, an economist at the Indeed Hiring Lab said.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
@@ -136,24 +134,102 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792579180000",
-    "title": " 小浣熊驮着商汤冲刺AI顶流 ",
-    "link": "https://www.huxiu.com/article/4899319.html?f=rss",
-    "summary": "本文来自微信公众号： 数智奔流 ，作者：熵野 AI赛道，商汤又拿到一个靠前的行业排名。这一次，商汤不再作为派系出现。 此前，作为上一个时代的AI四小龙，商汤在大模型时代往往沾光来自商汤系的创业者。 根据IT桔子统计，2026年1月1日至7月17日，曾在商汤任职、离职后创业者所创立的公司，合计融资超过400亿元。 其中，Momenta和Minimax相继在港交所完成上市。VAST、无问芯穹等新锐公司，也成为A创投圈的融资明星。 这些创业者分布在自动驾驶、大模型、3D生成、AI芯片、具身智能和AI应用等热门赛道。商汤系的创业者越来越活跃，商汤这家公司反倒沉寂不少。 商汤在AI办公领域的新产品小浣熊正在打破这个局面。 根据量子位9月AI效率办公月报，小浣熊网页端访问量约1500万，环比增长超过160%，网页独立访客数、平均使用时长均为总榜第二。 商汤随后用“霸榜”概括这份成绩，并进一步把两个总榜第二拆解为分类成绩：在“综合类套件”中，小浣熊两项指标均排名第一。 这对商汤不容易。 在计算机视觉时代，商汤不需要解释自己是谁。从“AI四小龙”到上市时的“AI第一股”，它一度是中国人工智能产业最醒目的公司之一。 那时，技术本身就是最重要的产品叙事。 进入大模型时代，商汤的业务范围越来越广，从大模型、AI云、Token工厂，再到办公Agent，它几乎没有缺席AI浪潮中的任何一个热点，却不再频繁出现",
+    "id": "news--1792599194000",
+    "title": " 没有主场的环保公司正在出局 ",
+    "link": "https://www.huxiu.com/article/4899406.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 今年8月，青山研究院在湖北调研一家老牌环保企业。 十九年前，它从市政污水起家。后来赶上行业扩张，园区污水、农村污水、PPP、设备、运营、资源化、数字化陆续进入业务版图。十几年下来，公司在七八个省做过项目，项目清单很长，业务介绍几乎覆盖半个环保行业。 但到了2026年的一次经营会上，问题突然集中出现。 一个运营项目合同到期，业主收回；另一个项目要求重新谈价；市政工程越来越少；公司转向工业废水，客户却问起另一套问题：服务过多少同类工厂？运行成本能降多少？出了问题谁负责？能不能长期运营？ 做了十几年环保，公司当然积累了很多东西，却很难回答一个最关键的问题： 如果明年只能重点投一块业务，我们究竟凭什么赢？ 这正是今天我们很多环保公司的困境。 过去二十年，环保行业造就了大量“什么都能做”的公司。工程、设备、运营都做过，市政、工业都进入过，水、固废、大气、资源化也不断扩边界。 这些企业今天遇到的麻烦，并不是完全没有能力。恰恰相反，它们会的很多。 真正的问题是：过去做过的这些事情，有多少已经变成下一次竞争仍然可以反复使用的优势？ 过去，这个问题可以被增量市场遮住。 现在，市场正在收回对“没有主场的公司”的容忍。 一批公司不是倒闭 而是阵地逐渐失守 所谓“出局”，未必是公司倒闭。 更多时候，它发生得并不戏剧化：一个运营合同到期没有续上，一个曾",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4-qfii-1792588141000",
+    "title": "昔日4倍妖股三季报又大亏，QFII和北上资金逆市加仓｜看财报",
+    "link": "https://www.tmtpost.com/8176769.html",
+    "summary": "长城军工的亏损，指向订单交付节奏和产品结构变化。",
+    "publishedAt": "2026-10-21",
+    "source": "钛媒体",
+    "tags": [
+      "china",
       "technology",
+      "business",
       "ai"
     ]
   },
   {
-    "id": "news--1792578006000",
-    "title": "短剧，在诞生一种很新的职业剧",
-    "link": "https://www.tmtpost.com/8176607.html",
-    "summary": "tvb遗风。",
+    "id": "news-nuclear-powered-spaceships-1792573200000",
+    "title": "Nuclear-powered spaceships",
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era&#8230;",
+    "publishedAt": "2026-10-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for--1792589400000",
+    "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+    "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+    "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+    "publishedAt": "2026-10-21",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nearly-half-of-employers-say-ai-will-make-college-degrees-mo-1792528440000",
+    "title": "Nearly half of employers say AI will make college degrees more important",
+    "link": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
+    "summary": "Employers expressed more confidence in the higher education sector than the general public, according to a new Gallup and the Lumina Foundation poll.",
+    "publishedAt": "2026-10-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-agent-minimax-flash-1792502994000",
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "link": "https://www.qbitai.com/2026/10/504517.html",
+    "summary": "兔皮底下，竟然是MiniMax！",
+    "publishedAt": "2026-10-20",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1792598840000",
+    "title": " 再来看看美国人民过得怎么样 ",
+    "link": "https://www.huxiu.com/article/4899405.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：黄凡 十年前，中美之间的官方与民间往来相当密切，美国其实并非遥不可及。我家住上海，过去每天有多家航空公司的十多个直飞航班前往纽约、洛杉矶、底特律、西雅图等美国主要城市，不同时段真可以说“想走就走”，票价也相对公允。 然而，由于众所周知的原因，2020年至2022年期间两地几乎完全断航，时至今日，也仅恢复到当时的三分之一不到。两地的人员往来交流减少了，我们对太平洋彼岸大国的了解，也基本只能依靠各种媒体。 过去几年来，国内主流媒体对美国的报道往往聚焦于物价失控飞涨、经济面临衰退、人们无家可归……而近期以“牢A”为代表的中文互联网自媒体更是流行一种叙事：美国中产正在全面崩溃，美国人民的生活面临着“斩杀线”的威胁，等等。 比较让人好奇的是，基于如此不堪的基本面，再加上美联储加息收紧流动性，美股这些年走势却节节向上。即使在被认为“不靠谱”的美国总统反复折腾之下，美股持续向上的态势也丝毫没有改变，大家期待中的崩盘更是连影子都没有。过去几年，有不少国内投资人以不同方式参与美股投资，获利甚丰。 不少国内朋友得知我又要去美国，一是吩咐千万小心，因为美国“凶险”；二是嘱咐一定要实地了解一下“牢A”所说的美国人民面对“斩杀线”的实际情况究竟如何。 这次，我是利用到得克萨斯州首府奥斯丁参加全球金融分析师会议的机会，花了一周时间，从洛杉矶自驾沿着美国66号公路，穿越",
+    "publishedAt": "2026-10-21",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-chinese-sellers-learn-latin-america-the-hard-way-1792586284000",
+    "title": "Chinese Sellers Learn Latin America the Hard Way",
+    "link": "https://www.tmtpost.com/8176844.html",
+    "summary": "Online shopping is rising fast in Mexico and Brazil. Chinese brands want in. The ones that last are not merely undercutting on price; they are redesigning products, choosing how heavy a local footprint to carry, and treating tax registration as survival gear.",
     "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
@@ -176,11 +252,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hugging-face-ceo-warns-that-netflix-8217-s-openai-hack-docum-1792535042000",
-    "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "publishedAt": "2026-10-20",
+    "id": "news-mach9-raises-34m-after-pivoting-to-ai-cad-software-1792587600000",
+    "title": "Mach9 raises $34M after pivoting to AI CAD software",
+    "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+    "publishedAt": "2026-10-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -193,85 +269,6 @@ export const generatedNews: NewsItem[] = [
     "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
     "link": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
     "summary": "The agency also confirmed plans to revisit tip credit regulations for &ldquo;dual job&rdquo; workers, signaling the latest entry in an ongoing tug-of-war between administrations.",
-    "publishedAt": "2026-10-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-agent-minimax-flash-1792502994000",
-    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-    "link": "https://www.qbitai.com/2026/10/504517.html",
-    "summary": "兔皮底下，竟然是MiniMax！",
-    "publishedAt": "2026-10-20",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-58-1792579113000",
-    "title": " 央企内部消化58亿储能大单，不带民企玩了？ ",
-    "link": "https://www.huxiu.com/article/4899320.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《央企内部消化58亿储能大单！不带民企玩了？》 摘要： 国家电投既是储能系统服务的采购方，又通过旗下企业参与储能电芯供应。央企体系内部上下游串联起来的交易安排，意味着什么呢？ →这是《环球零碳》的第2170篇原创 当市场的储能系统价格低到“失真”，央企选择内部消化，把储能系统的买方、卖方和电芯供应渠道，都安排在了同一个集团体系内。 10月16日，国家电投体系内落地两笔储能相关协议：集团控股的上市公司中国电力，与国家电投签署《储能系统服务框架协议》；中国电力附属平台新源智储签署《电芯采购框架协议》，向国家电投、宁德时代合资成立的国宁科技采购储能电芯。两份协议有效期均至2028年底，三年合计上限57.92亿元。 表面上看，这只是两笔常见的央企关联交易。但仔细看交易结构，国家电投既是储能系统服务的采购方，又通过旗下企业参与储能电芯供应。 这种央企体系内部上下游串联起来的交易安排，究竟意味着什么呢？ 01 央企担心供应商私下换设备配置 各环节都“内部消化”的这种趋势，其实是央企对外部市场储能系统低价竞争的一种“反抗”。 近三年储能系统价格跌去80%，招标价一天比一天低。根据中关村储能产业技术联盟的统计，今年9月，两小时储能系统中标均价为0.653元/Wh，环比下降4.1%；四小时储能系统中标均价为0.529元/",
-    "publishedAt": "2026-10-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792576213000",
-    "title": "骑手还没被替代，无人车们已经“内卷”麻了",
-    "link": "https://www.tmtpost.com/8174936.html",
-    "summary": "美团“新车后评”，新石器“粮草先行”。",
-    "publishedAt": "2026-10-21",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-interspecies-communication-1792573200000",
-    "title": "Interspecies communication",
-    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,&#8230;",
-    "publishedAt": "2026-10-21",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-s-cloud-partnerships-are-getting-messy-1792531522000",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "publishedAt": "2026-10-20",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
-    "title": "HR pros’ fall reading list 2026",
-    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
-    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
@@ -294,24 +291,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-npc-1792578436000",
-    "title": " “但丁爷爷”来华，救不了中国景区的“NPC顶流荒” ",
-    "link": "https://www.huxiu.com/article/4899315.html?f=rss",
-    "summary": "本文来自微信公众号： 劲旅网 ，编辑：壮壮，作者：陈杰tigereat 如果所有景区都“只想摘桃，不想种树”，未来谁还费力培养NPC？ 头图：AI生成 10月18日，“但丁爷爷”终于来华了。 这位意大利行为艺术家，官宣将在河南万岁山景区，进行短期驻演，瞬间引爆舆论。 “但丁爷爷”名叫Marco，此前在意大利佛罗伦萨乌菲兹美术馆门口，扮演但丁超过26年，每当游客往他的小木箱里投一枚硬币，他就回报一个温暖的拥抱，因此在当地小有名气。 如此有趣的行为艺术家，被探索全球的中国游客发现，进而“但丁爷爷”这个名字火遍中国，他不但成为中国人去当地旅游必打卡的NPC，更是一跃成为海外顶流NPC，被中国游客称之为“意大利温柔落地签”。 “但丁爷爷”此番来华，也让万岁山成为国内首个大胆去海外抢顶流NPC的景区。 有趣的是，就在前不久，国内另一家网红景区司徒小镇，高调宣布将斥资3000万元在国内招募优秀NPC演员。 一个去海外抢顶流NPC，一个在国内抢优质NPC。 如果我们把这两件事连起来看，就会发现一个趋势： 中国景区NPC的疯狂内卷进一步加剧。 而引爆这场内卷的深层次原因，则是中国景区压抑不住的“NPC顶流荒”。 01 别看中国景区NPC行业火起来没几年，这条赛道却早就卷成红海，且出现过三次明显的内卷升级。 第一阶段，顶流NPC，景区制造。 中国景区初代顶流NPC基本上和景区是强绑定关系。 他们大多",
+    "id": "news--1792598825000",
+    "title": " 马斯克能抵三个哈佛大学吗？ ",
+    "link": "https://www.huxiu.com/article/4899404.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：何志毅 据史料所载，1950年，美国海军部副部长金贝尔曾阻止科学家钱学森回国，强调其价值“抵得上三到五个师”。1956年，毛泽东对钱学森说，“听说美国人把你当作五个师呢！我看，对我们来说，你比五个师的力量大的多。” 借用这种说法，刚刚在白宫被特朗普冠以“当代爱迪生”称号的马斯克，能够抵几所大学？历史上的爱迪生能够抵一所大学吗？ 提出这样的问题，不是哗众，而是为了讨论，科技创新的主体到底是谁？ 有多少企业的研发经费超过了著名大学的经费？ 这样的问题不好回答，因为很多方面不可比。 马斯克的账面身价约为1万亿美元，哈佛大学的总资产不到1000亿美元，但马斯克的历史贡献肯定无法与哈佛大学比肩。 与本文主题相关、可以进行比较的是，特斯拉最新的年度研发投入为77亿美元，太空探索公司的研发投入为122亿美元，马斯克旗下这两家企业的研发投入共计为199亿美元。 而哈佛大学是全球办学经费支出最高的大学，年度支出经费为68亿美元。所以，马斯克旗下两家企业的研究经费相当于三个哈佛大学的年度支出。 再看别的一些名校。麻省理工学院的年度支出是51亿美元，牛津大学是37亿美元，剑桥大学是26亿美元。中国的清华大学是36.3亿美元，上海交大是32.8亿美元，浙江大学是27.5亿美元，北京大学是25.8亿美元，复旦大学是21.6亿美元。 那么再问，现在全球有多少企业的年度",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1792576181000",
-    "title": "星巴克的沙发不养闲人",
-    "link": "https://www.tmtpost.com/8176482.html",
-    "summary": "装了八年大方的星巴克，终于“坐不住”了。",
+    "id": "news-win2-1792582491000",
+    "title": "电竞手机比拼逻辑变了，荣耀WIN2选择“用价换量”",
+    "link": "https://www.tmtpost.com/8176772.html",
+    "summary": "生态与价格的多重战，电竞手机不再只比拼性能。",
     "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
@@ -322,10 +318,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cleaning-up-pfas-1792573200000",
-    "title": "Cleaning up PFAS",
-    "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delays, cancer, and reduced immune response. They are known for a strong bond&#8230;",
+    "id": "news-interspecies-communication-1792573200000",
+    "title": "Interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,&#8230;",
     "publishedAt": "2026-10-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -334,10 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-8217-s-ai-business-is-beating-expectations-1792528841000",
-    "title": "SpaceX&#8217;s AI business is beating expectations",
-    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "id": "news-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-5-1792537283000",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "publishedAt": "2026-10-20",
     "source": "TechCrunch",
     "tags": [
@@ -347,17 +343,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-flock-had-boys-club-culture-former-worker-alleges-in-gender--1792528320000",
-    "title": "Flock had ‘boys club’ culture, former worker alleges in gender bias lawsuit",
-    "link": "https://www.hrdive.com/news/flock-maintained-boys-club-culture-former-worker-alleges-in-gender-bias-lawsuit/833498/",
-    "summary": "Despite an assurance from HR that an investigation was forthcoming, the worker&rsquo;s mistreatment allegedly continued, and she was eventually fired.",
+    "id": "news-hr-pros-fall-reading-list-2026-1792528380000",
+    "title": "HR pros’ fall reading list 2026",
+    "link": "https://www.hrdive.com/news/hr-pros-fall-reading-list-2026/833411/",
+    "summary": "These recommendations include books from our own fall reading lists as well as ones from HR Dive&rsquo;s readers.",
     "publishedAt": "2026-10-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -374,24 +369,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792578249000",
-    "title": " 奥特曼内部讲话曝光：谁有权决定超级智能的未来？ ",
-    "link": "https://www.huxiu.com/article/4899311.html?f=rss",
-    "summary": "头图来说：AI生成 当全世界还在争论谁会率先实现超级智能时，Sam Altman已经开始向OpenAI员工讨论另一个问题：如果那一天真的到来，谁有权决定AI还能不能继续发展？ 据《The Information》最新报道，奥特曼在内部提出三种可能的治理路径：建立类似国际原子能机构的监管组织，让全球主要AI实验室合并，或者出现一家强大到足以阻止其他竞争者继续研发的公司。他更倾向于国际监管，明确反对由一家公司垄断超级智能。但与此同时，他也承认，OpenAI目前不能在与Anthropic等公司的竞争中主动退让。 这大概是整场讲话最值得关注的矛盾。AI公司开始认真讨论如何给技术发展设置限速，却没有哪家公司愿意成为第一个踩刹车的人。 一、OpenAI内部开始讨论超级智能的未来 一场讨论超级智能未来的会议，出现在了OpenAI内部。讨论的内容听起来有些超前，甚至荒诞：让全球最顶尖的AI公司合并，把最先进的模型交给一个国际组织管理；又或者，一家公司先造出足够强大的AI，再利用压倒性的经济和技术优势，让其他公司失去继续研发的能力。 还有一条看起来温和得多的路，建立一个AI领域的国际原子能机构。 这些方案都是Sam Altman在最近一次内部员工会议上提及的：10月19日，美国科技媒体《The Information》记者Stephanie Palazzolo和Amir Efrati援引两名了解会议",
+    "id": "news--1792598700000",
+    "title": " 南亚姓氏剧增，英国第一大姓史密斯要易主了？ ",
+    "link": "https://www.huxiu.com/article/4899403.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 英国国家统计局（ONS）更新了一份数据：英格兰和威尔士每年登记出生婴儿的姓氏排名。 2025年，Smith排第一，对应4,102名新生儿。Khan排第二，对应3,772名。两者相差330人。 按近30年的收窄速度推算，这个判断有一定依据。 先说清统计口径。这份榜单覆盖英格兰和威尔士，苏格兰、北爱尔兰各自单独统计。准确的叫法是“英格兰和威尔士新生儿姓氏榜”。 1996年，Smith对应7,276名新生儿，比Khan多5,464人。由此倒推，当年姓Khan的新生儿约1,812人。 到2025年： Smith：4,102人，比1996年减少约43.6% Khan：3,772人，比1996年增加约108% 两者差距：从5,464人缩小到330人 29年里，差距平均每年收窄约177人。照这个节奏，330人大约只需要两年。 比绝对数更重要的是比例。2025年英格兰和威尔士共登记585,396名新生儿。Smith约占0.70%，Khan约占0.64%，两者合计约1.35%。 换算一下：每140多个新生儿里有1个姓Smith，每150多个里有1个姓Khan。其余98%以上的孩子，分散在两万多个姓氏里。 Smith减少的速度，远快于出生人口下降 Smith是职业姓氏，源自铁匠。中世纪英格兰的每个村镇都需要铁匠，这个姓因此遍布全国，长期排在第一。Tayl",
     "publishedAt": "2026-10-21",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1792576163000",
-    "title": "AI 泡沫监测·之一：债务层已经先动了",
-    "link": "https://www.tmtpost.com/8175985.html",
-    "summary": "判断 AI 泡沫别盯股价，盯债：CoreWeave 债券 76 美分，甲骨文 CDS 创历史新高，私募信贷在挤兑——债务层已经先动了。四张考卷已出，10 月 27 日财报周交卷，对账见。",
+    "id": "news--1792582319000",
+    "title": "“乌镇峰会观众预约平台”，正式上线！",
+    "link": "https://www.tmtpost.com/8176791.html",
+    "summary": "这个平台究竟有哪些功能？观众又该如何预约？让我们一起解锁它的完整打开方式。",
     "publishedAt": "2026-10-21",
     "source": "钛媒体",
     "tags": [
@@ -991,4 +985,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-21T11:05:31.703Z';
+export const dataFetchedAt = '2026-10-21T16:32:39.937Z';
