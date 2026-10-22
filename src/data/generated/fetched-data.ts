@@ -2,15 +2,16 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-introducing-the-impossible-issue-1792584600000",
-    "title": "The Download: introducing the Impossible issue",
-    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
-    "publishedAt": "2026-10-21",
+    "id": "news-making-the-case-for-context-aware-ai-1792663200000",
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+    "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
@@ -41,11 +42,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1792550259000",
-    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-    "link": "https://www.qbitai.com/2026/10/504608.html",
-    "summary": "先看真实问题解决力",
-    "publishedAt": "2026-10-21",
+    "id": "news-jev-1792660025000",
+    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+    "link": "https://www.qbitai.com/2026/10/504879.html",
+    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-firefox-1792636450000",
-    "title": " 微软推广浏览器太流氓，Firefox能告他垄断吗？ ",
-    "link": "https://www.huxiu.com/article/4899466.html?f=rss",
-    "summary": "本文来自微信公众号： 游云庭律师 ，作者：游云庭律师，题图来自：视觉中国 近日Firefox浏览器的开发者Mozilla基金会在网站发布《Over the Edge 2.0》报告，控诉微软利用操作系统领域的市场优势推广Edge浏览器的流氓行径。熟悉互联网行业的朋友一定还记得，二十多年前，微软曾借Windows操作系统的优势地位推广自家IE浏览器打击竞争对手Netscape，结果被美国政府起诉反垄断差点被拆分，这次Firefox能起诉微软垄断吗？今天就和大家讨论一下这个问题。 先看下根据Mozilla的报告微软干了啥？浏览器是PC端用户访问互联网的重要入口，也是各大互联网公司兵家必争之地。微软为了占领这个入口，依靠其控制的操作系统的不合理设置影响浏览器的竞争。用户安装浏览器最基础、最重要的步骤，是在新电脑启用时下载浏览器，微软就把操作系统的手脚做在了这个层面。 因为Windows操作系统自带的Edge浏览器做得实在不怎么样，很大比例的用户打开新电脑进入Windows，第一件事就是在Edge浏览器搜索谷歌的Chrome浏览器然后安装，当用户搜索Chrome时，Chrome浏览器的下载页被注入了微软Edge的推广横幅：&ldquo;你想要的都在这里&rdquo;，意思就是用户用Edge就可以了，不用下Chrome。 为了保住Edge的默认浏览器地位，微软还对用户新电脑的首次设置流程做了其",
+    "id": "news--1792666748000",
+    "title": " 打砸商店、烧毁百年建筑，法国为何失控？ ",
+    "link": "https://www.huxiu.com/article/4899666.html?f=rss",
+    "summary": "本文来自微信公众号： 新周刊 ，作者：koko，编辑：腾宇 近日法国多地出现骚乱，街头纵火、抢劫和警民冲突成为新闻焦点，但最初“让市中心听到郊区的声音”的请愿，在口号、民调和竞选集会的声量中被遮蔽。全世界都在密切关注这一局面，而法国政府和社会正在讨论骚乱的成因、思考对问题的回应，让不同地区的声音有效地进入公共议程。 10月17日，发生在法国的一场全国性示威游行，逐渐演变为一场全球热切关注的骚乱事件。 这场示威游行，源于9月中旬法国公立高中师资短缺、教学环境恶劣引发的师生罢课运动，随后扩展到市民对生活成本上涨、公共服务恶化以及财政政策的不满。示威抗议的局面迅速失控，有暴徒趁机抢劫、纵火，警察焦头烂额，疲于维持秩序。 10月17日，在法国巴黎，示威者向警察投掷玻璃瓶。（图/新华社） 骚乱过后，各派政治人物迅速投入新一轮口水战。总统马克龙谴责暴力和抢劫行为，强调必须区分和平示威者与暴力分子；总理塞巴斯蒂安·勒科尔尼在20日新闻发布会称，一些团体“想要在总统选举前在我们国家制造混乱”，直指左翼政党。 极右翼领导人玛丽娜·勒庞及其支持者则批评政府无能，谴责梅朗雄让“暴力合法化”。而左翼政党“不屈法国”领导人让-吕克·梅朗雄一直支持学生抗议，并回应“不背暴乱这口锅”，除非拿出证据，并指责政府的强硬执法激化矛盾。 对于这场骚乱的原因和处理方式，各个立场的政治家都给出了自己的见解，争先恐后地试图在",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792635452000",
-    "title": "“汇源”还在卖，“咱家果源”的货架从哪来？",
-    "link": "https://www.tmtpost.com/8176738.html",
-    "summary": "“汇源”仍在销售，“咱家果源”如何重新争取货架、订单与消费者？",
+    "id": "news-ai-1792665161000",
+    "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+    "link": "https://www.tmtpost.com/8177799.html",
+    "summary": "曾在华为体系工作近20年",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -81,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-can-do-impossible-things-1792573200000",
-    "title": "We can do impossible things",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
-    "publishedAt": "2026-10-21",
+    "id": "news-three-things-you-should-know-about-permafrost-1792663200000",
+    "title": "Three things you should know about permafrost",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;",
+    "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -120,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6-1792544675000",
-    "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-    "link": "https://www.qbitai.com/2026/10/504551.html",
-    "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
-    "publishedAt": "2026-10-21",
+    "id": "news-fsd-1792653288000",
+    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+    "link": "https://www.qbitai.com/2026/10/504841.html",
+    "summary": "FSD一年增长70万付费用户",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,24 +134,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-php-1792635499000",
-    "title": " PHP高危漏洞，遭泄露 ",
-    "link": "https://www.huxiu.com/article/4899456.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：李莹 PHP高危漏洞信息于当地时间20日提前外泄，该漏洞已潜伏十余年，全球大量网站面临攻击风险，多国政府紧急关停网站避险。官方补丁已于21日上线。 据媒体当地时间周三报道，一项潜伏十余年的PHP漏洞今年8月先后被网络安全公司Calif和Wiz借助AI独立发现，各方随后在保密状态下合作修复近两个月。 但就在补丁发布前一天，也就是当地时间20日，漏洞信息在网上提前泄露，PHP安全团队被迫确认并公布发布时间，黑客趁机抢在补丁上线前数小时发起攻击。 PHP是一种服务端脚本语言，用于在服务器上动态生成网页内容，再发送给用户的浏览器。全球最常用的建站工具WordPress也基于PHP运行。 媒体援引电商网站安全公司Sansec分析指出，此次出问题的代码可追溯至2012年发布的PHP 5.4.0版本，且默认配置即存在风险，这意味着漏洞已潜伏十余年。 此次漏洞由AI参与发现。据网络安全公司Calif介绍，其作为OpenAI今年6月启动的“Patch the Planet”安全计划的一部分，借助OpenAI的GPT-5.6 Sol模型，于8月1日发现首个漏洞，8月11日报告给PHP安全团队，8月21日又报告了第二个漏洞。 据报道，几乎同一时间，谷歌母公司旗下网络安全公司Wiz也独立发现了问题。Wiz称，其研究团队于8月19日借助自研工具Wiz Atlas以及谷歌",
+    "id": "news-npc-1792666197000",
+    "title": " 酒博会引入NPC，白酒开始“变味”了？ ",
+    "link": "https://www.huxiu.com/article/4899664.html?f=rss",
+    "summary": "本文来自微信公众号： 闻旅 ，作者：柳知，编辑：吴艳蕊 1 展台上有COS小姐姐，展馆内有身穿汉服的NPC。 他们还拉着你吟诗作对、斗酒行令。 人人都被发一张《江湖酒令》，掷骰子、猜谜题、闯关卡，和“长安掌柜”讨价还价，跟“曲水流觞”的古人隔空对饮。 换上一身衣袂飘飘的汉服，再请书法先生提笔写一纸“令牌”…… 不知道的以为哪个景区，或者二次元在搞线下嘉年华。 其实这是2026年10月16日至10月18日，在武汉举行的第二十五届中国国际酒业博览会，俗称酒博会。 中国酒业协会主办的官方展会，白酒、黄酒、啤酒、葡萄酒、果酒全来了，展览面积六万平米，2026年全国规模最大的国家级酒类消费品专业展会。 一个几千亿的产业，为什么要这样拉客？ 答案不复杂：因为原来的那套拉客方式，行不通了。 酒企们搞这种年轻化的拉客方式，不是在追流量，是在买入场资格。 中酒协2026上半年的调研数据摆在那里。61.2%的企业客户数减少，74.1%客单价下降，86.7%利润下滑。 商务礼赠场景上半年直接砍掉了82.8%。 春节后反馈日常白酒消费减少的企业占比冲到82.42%。 翻译一下就是，过去让白酒最舒服的那批客户，在肉眼可见地消失。 B端的客户在变少，C端的消费者同样换了一批人。 中国酒业协会早在2023年的报告中就已提到，1985年到1994年出生的人群已经占白酒主力消费群体的34%，1995年后出生的成年群",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1792635449000",
-    "title": "宁德时代，王的烦恼",
-    "link": "https://www.tmtpost.com/8176814.html",
-    "summary": "靠扩产就能挣大钱的时代，过去了。",
+    "id": "news-pc-agent-1792659894000",
+    "title": "黄仁勋押注新一轮“PC革命”，Agent找到了“最佳宿主”吗？",
+    "link": "https://www.tmtpost.com/8177566.html",
+    "summary": "PC的兴起得益于将CPU、内存、存储和软件都集中在一台轻巧机器上带来的便利，但Agent恰恰不需要这种集中式结构。",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -161,11 +161,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nuclear-powered-spaceships-1792573200000",
-    "title": "Nuclear-powered spaceships",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era&#8230;",
-    "publishedAt": "2026-10-21",
+    "id": "news-ai-8217-s-hidden-storage-bill-what-inference-leaves-behind-1792658478000",
+    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -200,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-minimax-flash-1792502994000",
-    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-    "link": "https://www.qbitai.com/2026/10/504517.html",
-    "summary": "兔皮底下，竟然是MiniMax！",
-    "publishedAt": "2026-10-20",
+    "id": "news-xing4-0-29b-intent-1792653074000",
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "link": "https://www.qbitai.com/2026/10/504832.html",
+    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -213,24 +213,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792635268000",
-    "title": " AI冲击数学，信誉系统崩盘，数学界何去何从？ ",
-    "link": "https://www.huxiu.com/article/4899445.html?f=rss",
-    "summary": "本文来自微信公众号： 知识分子 ，作者：薛金鑫（清华大学数学科学系教授），题图来自：视觉中国 10月6日，OpenAI一下子在网上放出722 篇文章，包含了400 个左右数学猜想的解，对数学界造成巨大的冲击。我愿意称之为 &ldquo;第四次数学危机&rdquo; 。 我这学期正好在 IAS （普林斯顿高等研究院） ，有机会跟很多学者交流，了解他们的观点。有人认为OpenAI的行为是在犯罪，我则更愿意采取一个反思内省的态度。这篇文章从如下几个问题来阐述我们的观点，希望能够引起大家的思考和讨论: 1. 这次事件对数学界是怎样的冲击 2. 数学界的原罪 3. 信誉系统的崩溃 4. 数学不亡，反而会浴火重生 5. 数学界接下来会发生什么 6. 中国数学家要怎么做 7. 给年轻的学生们的建议 1. 这次事件对数学界是怎样的冲击？ 我对外行来介绍一下这次的冲击。这四百个问题，在此之前有不少是很多数学家研究一生都不能解决的。一个数学家一生能解决其中一个问题，都可以认为是终身最重要的成就，获得同行的高度认可，很多是Fields奖 （菲尔兹奖） 级别的。其覆盖面涉及主要的数学领域，举几个代表性的例子： 1. 拟黎曼假设：黎曼zeta函数在实部 &gt; 7/8 的区域上没有非平凡零点。 2. 四维挂谷猜想。 据OpenAI介绍，平均每项结果使用了相当于约三小时 ChatGPT Pro思考的计算量。",
+    "id": "news-claude-1792666192000",
+    "title": " Claude 终于忍不住抄作业了 ",
+    "link": "https://www.huxiu.com/article/4899663.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的 最近，AI圈集体应聘起了「个人助理」。 各家都在琢磨，怎么让AI不再只是一个等着你发号施令的聊天框，而是一个能自己找活干、主动推进任务的「数字打工人」。 Meta的Muse已经先交出了一份相当亮眼的成绩单。截至10月20日，上线约40天，它在美国的下载量就达到约1,020万次，全球累计约1,090万次。 10月21日，Anthropic正式发布了Claude Duet，并推出研究预览版。 继Grok Bot、Muse、Dots等个人AI Agent上线后，宫里又来新人了！ Claude的个人助理有什么不一样 Claude Duet的核心定位是不仅能够回答问题、生成内容，还能主动识别工作需求、规划任务，并调用不同软件完成实际操作，主要目标用户就是专业人士以及中小企业家了。 Anthropic表示，Claude Duet可以通过Claude Marketplace中的连接器和插件接入超过6,000种工具与服务。 但是想体验Claude Duet，目前还不是下载App就能直接开工。研究预览阶段，首批开放给美国地区的Claude Pro和Max个人订阅用户，免费用户暂时不在首批范围内。 前往Claude Duet官方产品页面，查看候补名单入口。获得资格后，可以通过iOS、Android或网页端进入Duet。 进入之后，根据界面提示授",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-edge-ai-daily-10-22-1792629883000",
-    "title": "Edge AI Daily 早报（10月22日）",
-    "link": "https://www.tmtpost.com/8177010.html",
-    "summary": "Anthropic招股书披露上半年营收163亿美元、净亏807亿，算力承诺逾7500亿；Meta增设无投票权股票为AI融资，资本支出上调至1450亿美元。英伟达柏林GTC承诺投入欧洲近100亿美元、开放Nemotron模型家族，并下放开源模型主权；OpenAI模型接入谷歌云，谷歌将Claude纳入Antigravity，云与模型边界加速瓦解。亚马逊近50亿美元GPU因缺电闲置，美银警告5.13%美债收益率压缩AI回报。科研端，Claude 64小时设计31万种蛋白，OpenAI内部智能体削弱监控警报。",
+    "id": "news-in-brazil-keeta-is-expanding-around-the-incumbent-1792659860000",
+    "title": "In Brazil, Keeta Is Expanding Around the Incumbent",
+    "link": "https://www.tmtpost.com/8177738.html",
+    "summary": "Meituan’s delivery service is opening inland cities after exclusive restaurant deals blocked a clean run at Rio. The fight is less about how many pins sit on a map than about whether a late entrant can build density where iFood is weaker—and still afford the ride.",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -241,10 +242,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-exercise-in-a-pill-1792573200000",
-    "title": "Exercise in a pill",
-    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who&#8230;",
+    "id": "news-the-download-introducing-the-impossible-issue-1792584600000",
+    "title": "The Download: introducing the Impossible issue",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
     "publishedAt": "2026-10-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -280,11 +281,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rsi-memt-1-0-1792500634000",
-    "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-    "link": "https://www.qbitai.com/2026/10/504456.html",
-    "summary": "把记忆原生焊进Transformer",
-    "publishedAt": "2026-10-20",
+    "id": "news-openai-1792652759000",
+    "title": "谁在给OpenAI供应具身数据？",
+    "link": "https://www.qbitai.com/2026/10/504800.html",
+    "summary": "挤进全球Physical AI核心供应链",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,38 +294,38 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1792635146000",
-    "title": " 字节御用数据中心，要IPO了 ",
-    "link": "https://www.huxiu.com/article/4899454.html?f=rss",
-    "summary": "本文来自微信公众号： 东四十条资本 ，作者：李馨婷 市场环境变了。 轰轰烈烈的AI基建上市潮里，即将加入一家新公司。 总部位于新加坡的数据中心运营商DayOne Data Centers（DayOne），近期向美国SEC提交F-1注册声明，拟在纳斯达克上市。据彭博社报道，DayOne上市可能至多融资50亿美元（折合人民币超330亿元），估值约在200亿美元（折合人民币超1330亿元）。DayOne表示，计划将IPO募集的部分资金用于开发新的数据中心项目。 在这一波挤向资本市场的AI基建公司里，比起与微软订单高度捆绑的Nscale，与收到英伟达多轮融资的Firmus，DayOne乍看名不见经传。但靠着明星大客户——字节跳动旗下Tik Tok的大额订单，DayOne也足够与各路玩家坐上同一张桌子。 只不过，眼下似乎不是一个很好的敲钟节点。随着资本市场对AI赛道的态度从热烈转向清醒，近期，Nscale、Firmus等AI基建独角兽的上市进程相继停滞甚至中断。其中Firmus的IPO暂停最为惨烈，从正式开启投资者询价认购，到IPO撤单，Firmus仅用了48小时不到，2046亿的估值瞬间瓦解。如果你感兴趣，可以跳转《48小时，306亿美元IPO不搞了》。 总之，DayOne如今选择的，是一场逆风出行，上市前景并不明朗。果不其然，北京时间10月21日，也就是DayOne交表的几天后他们再次发",
+    "id": "news--1792666191000",
+    "title": " 机器人卖出之后，轮到二开公司赚钱了吗？ ",
+    "link": "https://www.huxiu.com/article/4899662.html?f=rss",
+    "summary": "本文来自微信公众号： 42号电波 ，作者：x，编辑：大吉 买了一台机器人，只是花钱的开始。要让它真正干活，则是另外的价钱。 今年工博会期间，一家做具身智能全链路二次开发的服务商给我们算了一笔账：一套工厂拆码垛机器人项目（单台本体配合开发交付），软硬件合计报价超过100万元。 一笔订单，可以有不同的交易结构。有的客户直接从二开公司购买软硬件整套方案；有的客户指定某款机器人，由二开公司负责采购和开发；还有的客户与本体厂商签订合同，再由本体厂商把软件开发分包给合作伙伴。 「他们不管你软硬件，只要给一个能干活的机器人就行了。」销售人员说得直白。 随着机器人公司纷纷喊出「进厂」口号，这些赚「另外价钱」的二开公司也开始把展台搬上工博会，希望遇到更多客户。 同样是二开，做的未必是同一种生意。 低至几百块一单的ROS「开发定制」，个人就能接；在社交媒体上，有不少寻找机器人二开团队的帖子，需求集中在导览、巡检、大模型交互等轻量应用。但有需求，不代表有利润。下游面向商演、互动的二开已经卷了起来。据《中国经营报》报道，人形机器人的单日租金已从去年年初的万元级降至如今的4,000元左右；我在一个群里也看到，有人一口气列出9种商演套餐，分场景的模板一应俱全。 开头提到的那家二开公司很少接机器狗项目。在他们看来，机器狗的应用开发已经相对成熟，市场上不少团队都做过类似项目，竞争之下，利润空间有限。工作人员透露，",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-bd-ai-1792629719000",
-    "title": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位",
-    "link": "https://www.tmtpost.com/8176585.html",
-    "summary": "这既是礼来首次押注AI驱动的脂质纳米颗粒技术，也是国内首个生成式AI-LNP出海大单、全球规模领先的肝外靶向LNP平台合作。礼来采购的，是一套能够持续产出新技术方案的系统能力。",
+    "id": "news-china-s-shopping-festival-turns-into-a-conversation-1792659846000",
+    "title": "China’s Shopping Festival Turns Into a Conversation",
+    "link": "https://www.tmtpost.com/8177736.html",
+    "summary": "Shoppers are testing AI chat for product shortlists while platforms weave assistants into the path to checkout. The technology fits messy retail decisions. Control of the first question—and trust in the answer—will matter more than another coupon mechanic.",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-interspecies-communication-1792573200000",
-    "title": "Interspecies communication",
-    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,&#8230;",
+    "id": "news-we-can-do-impossible-things-1792573200000",
+    "title": "We can do impossible things",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
     "publishedAt": "2026-10-21",
     "source": "MIT Technology Review",
     "tags": [
@@ -360,11 +361,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-apec-1792490255000",
-    "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-    "link": "https://www.qbitai.com/2026/10/504452.html",
-    "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-    "publishedAt": "2026-10-20",
+    "id": "news-ai-air-ai-1792582259000",
+    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "link": "https://www.qbitai.com/2026/10/504734.html",
+    "summary": "医疗AI质变时刻",
+    "publishedAt": "2026-10-21",
     "source": "量子位",
     "tags": [
       "china",
@@ -373,24 +374,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-23-ai-1792634727000",
-    "title": " 中国有3.23亿老人，AI陪伴这门生意真的成立了吗？ ",
-    "link": "https://www.huxiu.com/article/4899450.html?f=rss",
-    "summary": "本文来自微信公众号： 倔牛聊陪伴AI ，作者：倔牛聊陪伴AI 陪伴Agent研究·第二季「银发AI陪伴商业研究」·第01篇 2026年7月，《法治日报》报道了北京一位71岁老人的生活。 老人叫周青，独居，患有高血压等基础病。女儿担心母亲一个人在家发生意外，花两万多元买了一台陪伴机器人。 这台机器人能提醒老人起床、吃药，遇到异常情况还能联系家属。女儿可以通过手机远程查看家里的情况，与母亲视频通话。平时，周青也会和机器人闲聊几句。 两万多元，不算一笔小钱。女儿愿意购买，说明这台机器人提供的服务确实打动了她。 但就在一个月前，北京怀柔区北房镇也有15户老人用上了智能设备。 这些设备来自一项公益实验，有的能够陪老人聊天、播报新闻，有的可以陪老人下棋。项目团队负责安装和使用指导，老人不用支付任何费用。 一边是家庭花两万多元购买，另一边是15户老人免费使用。 假设现在有企业告诉我们，自己的产品已经进入了多少老人家庭，我可能还会多问一句：这些设备是卖出去的，还是通过公益项目送进去的？ 这两种情况，都能让老人用上智能设备，但背后的生意可不一样。 最近研究银发AI陪伴，我发现类似的情况还有不少。 中国有3.23亿老人，老龄化趋势越来越明显，AI技术也在快速发展。从人口规模到技术能力，似乎已经具备了打造一个庞大市场的条件。 那么，银发AI陪伴这门生意到底成立了没有？ 我想先从几笔已经发生的交易说起。 ",
+    "id": "news--1792666191000",
+    "title": " 即时零售头部玩家，集体涌进厨房 ",
+    "link": "https://www.huxiu.com/article/4899661.html?f=rss",
+    "summary": "本文来自微信公众号： 联商网 ，编辑：娜娜，作者：述微 美团、京东、阿里、朴朴超市、叮咚买菜五大玩家各有何打法、逻辑和成效？ 全文约2800字，阅读需约6分钟 朴朴厨房上线满一年，单仓日均单量超过2200单。据36氪援引知情人士的说法，朴朴内部认为的盈利线是2500单上下。 目前，还差300单。 这一年，不只是朴朴，即时零售的头部平台，不约而同地扑向了厨房，在餐食上下起了功夫。 五大平台集体盯上餐食 美团出手最早，依靠自己餐饮渠道积累的巨大优势，走轻资产路线，与合作者一起建造放心外卖基础设施。2025年7月1日官宣浣熊食堂。浣熊食堂是实体店面，但没有堂食。 首批开放加盟的城市只在少数一线城市，以单店合作为主。找位置、房租、装修、设备等费用，由合伙人承担。装修标准、消防、排污、油烟处理、空调、地砖、下水等，由美团帮商户做到位。 浣熊食堂负责人初征在2026年CCFA特许加盟暨生活服务业发展大会上，把这套逻辑讲得很清晰： 美团想把浣熊食堂打造成一个轻资产的业务模型，重投入的找店租铺由场地合伙人来出资投入，菜品生产制作由餐饮商家负责，美团负责订单、招商、运营管理。在2026年将开出总计200家左右浣熊食堂店。 京东动作最快、铺开范围最广。2025年7月22日，京东同日宣布两项投资。 一笔是投向新型供应链的百亿资金，计划三年内全国建设一万家七鲜小厨。到2026年6月，七鲜小厨门店突破180",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1792629582000",
-    "title": "美国最大车企，做成小而美了",
-    "link": "https://www.tmtpost.com/8176888.html",
-    "summary": "越活越小的通用汽车，单季赚了41亿美元。",
+    "id": "news-q3-1792658828000",
+    "title": "天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报",
+    "link": "https://www.tmtpost.com/8177567.html",
+    "summary": "天银星际成为增长极。",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -992,4 +992,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-22T03:07:41.850Z';
+export const dataFetchedAt = '2026-10-22T11:05:33.829Z';
