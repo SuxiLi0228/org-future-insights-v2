@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-making-the-case-for-context-aware-ai-1792663200000",
-    "title": "Making the case for context-aware AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
     "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-tesla-says-it-will-start-selling-cybercabs-by-end-of-year-1792628274000",
-    "title": "Tesla says it will start selling Cybercabs by end of year",
-    "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-    "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217;s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [&#8230;]",
+    "id": "news-techcrunch-disrupt-2026-startup-battlefield-200-celebrating--1792684800000",
+    "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+    "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+    "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
     "publishedAt": "2026-10-22",
     "source": "TechCrunch",
     "tags": [
@@ -28,90 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-california-rule-would-clarify-protections-for-postpartum-dep-1792611720000",
-    "title": "California rule would clarify protections for postpartum depression, telework accommodations",
-    "link": "https://www.hrdive.com/news/california-proposal-post-partum-depression-low-milk-supply-pregnancy-protections/833593/",
-    "summary": "The proposed regulations aim to incorporate changes to California law and to align state law with the federal Pregnant Workers Fairness Act.",
-    "publishedAt": "2026-10-21",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-jev-1792660025000",
-    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-    "link": "https://www.qbitai.com/2026/10/504879.html",
-    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+    "id": "news-should-companies-pay-employees-to-quit-1792678260000",
+    "title": "Should companies pay employees to quit?",
+    "link": "https://www.hrdive.com/news/should-companies-pay-employees-to-quit/832397/",
+    "summary": "Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
     "publishedAt": "2026-10-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792666748000",
-    "title": " 打砸商店、烧毁百年建筑，法国为何失控？ ",
-    "link": "https://www.huxiu.com/article/4899666.html?f=rss",
-    "summary": "本文来自微信公众号： 新周刊 ，作者：koko，编辑：腾宇 近日法国多地出现骚乱，街头纵火、抢劫和警民冲突成为新闻焦点，但最初“让市中心听到郊区的声音”的请愿，在口号、民调和竞选集会的声量中被遮蔽。全世界都在密切关注这一局面，而法国政府和社会正在讨论骚乱的成因、思考对问题的回应，让不同地区的声音有效地进入公共议程。 10月17日，发生在法国的一场全国性示威游行，逐渐演变为一场全球热切关注的骚乱事件。 这场示威游行，源于9月中旬法国公立高中师资短缺、教学环境恶劣引发的师生罢课运动，随后扩展到市民对生活成本上涨、公共服务恶化以及财政政策的不满。示威抗议的局面迅速失控，有暴徒趁机抢劫、纵火，警察焦头烂额，疲于维持秩序。 10月17日，在法国巴黎，示威者向警察投掷玻璃瓶。（图/新华社） 骚乱过后，各派政治人物迅速投入新一轮口水战。总统马克龙谴责暴力和抢劫行为，强调必须区分和平示威者与暴力分子；总理塞巴斯蒂安·勒科尔尼在20日新闻发布会称，一些团体“想要在总统选举前在我们国家制造混乱”，直指左翼政党。 极右翼领导人玛丽娜·勒庞及其支持者则批评政府无能，谴责梅朗雄让“暴力合法化”。而左翼政党“不屈法国”领导人让-吕克·梅朗雄一直支持学生抗议，并回应“不背暴乱这口锅”，除非拿出证据，并指责政府的强硬执法激化矛盾。 对于这场骚乱的原因和处理方式，各个立场的政治家都给出了自己的见解，争先恐后地试图在",
-    "publishedAt": "2026-10-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1792665161000",
-    "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
-    "link": "https://www.tmtpost.com/8177799.html",
-    "summary": "曾在华为体系工作近20年",
-    "publishedAt": "2026-10-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-three-things-you-should-know-about-permafrost-1792663200000",
-    "title": "Three things you should know about permafrost",
-    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-    "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-blackstone-8217-s-jas-khaira-says-fears-over-ai-buildout-deb-1792623082000",
-    "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-    "publishedAt": "2026-10-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-pennsylvania-county-becomes-first-in-nation-to-pass-paid-par-1792611720000",
-    "title": "Pennsylvania county becomes first in nation to pass paid parental leave",
-    "link": "https://www.hrdive.com/news/pennsylvanias-allegheny-county-becomes-first-county-in-nation-to-pass-paid/833619/",
-    "summary": "Allegheny County&rsquo;s policy also applies to remote employees whose employers are based in other states.",
-    "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -134,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-npc-1792666197000",
-    "title": " 酒博会引入NPC，白酒开始“变味”了？ ",
-    "link": "https://www.huxiu.com/article/4899664.html?f=rss",
-    "summary": "本文来自微信公众号： 闻旅 ，作者：柳知，编辑：吴艳蕊 1 展台上有COS小姐姐，展馆内有身穿汉服的NPC。 他们还拉着你吟诗作对、斗酒行令。 人人都被发一张《江湖酒令》，掷骰子、猜谜题、闯关卡，和“长安掌柜”讨价还价，跟“曲水流觞”的古人隔空对饮。 换上一身衣袂飘飘的汉服，再请书法先生提笔写一纸“令牌”…… 不知道的以为哪个景区，或者二次元在搞线下嘉年华。 其实这是2026年10月16日至10月18日，在武汉举行的第二十五届中国国际酒业博览会，俗称酒博会。 中国酒业协会主办的官方展会，白酒、黄酒、啤酒、葡萄酒、果酒全来了，展览面积六万平米，2026年全国规模最大的国家级酒类消费品专业展会。 一个几千亿的产业，为什么要这样拉客？ 答案不复杂：因为原来的那套拉客方式，行不通了。 酒企们搞这种年轻化的拉客方式，不是在追流量，是在买入场资格。 中酒协2026上半年的调研数据摆在那里。61.2%的企业客户数减少，74.1%客单价下降，86.7%利润下滑。 商务礼赠场景上半年直接砍掉了82.8%。 春节后反馈日常白酒消费减少的企业占比冲到82.42%。 翻译一下就是，过去让白酒最舒服的那批客户，在肉眼可见地消失。 B端的客户在变少，C端的消费者同样换了一批人。 中国酒业协会早在2023年的报告中就已提到，1985年到1994年出生的人群已经占白酒主力消费群体的34%，1995年后出生的成年群",
+    "id": "news--1792685383000",
+    "title": " 贫穷限制了创造力？还是其他？从诺奖谈起 ",
+    "link": "https://www.huxiu.com/article/4899748.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 每年“诺贝尔奖开奖周”，大家就忍不住比较各国获得诺奖的人数、讨论背后的原因。 人类跨入科技时代后，创造力成为一个国家的终极竞争力。从心理学、脑科学的角度来讲，影响创造力最重要的因素有哪些？我们一起来看一下，或许对孩子教育、个人发展、企业管理也有启发。 心理距离 1998年，以色列特拉维夫大学利伯曼（Nira Liberman）与特罗普（Yaacov Trope）提出“解释水平理论”（Construal Level Theory,CLT），核心论点是：时间、空间、社会关系、假设性等方面的心理距离越远，人们越倾向于抽象思考，探求本质，即“高解释水平思考”；心理距离越近，越倾向于具象思考，关注细节，即“低解释水平思考”。 2004年，利伯曼（Nira Liberman）与福斯特（Forster）做了六个实验，受试者分成两组，第一组想象自己在“第二天”如何处理一系列顿悟谜题（如囚徒逃塔，囚犯需要用一根只有塔高一半的绳子逃出），第二组想象自己在“一年后”如何处理那些问题。结果显示，第二组的创造力显著高于第一组。 2009年，印第安纳大学贾立（Lile Jia）、何特（Edward R.Hirt）、卡彭（Samuel C.Karpen）做了两个实验。第一个是发散思维实验，受试者分成两组，被要求尽可能多地列举交通工具。第一组被告知题目由远",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pc-agent-1792659894000",
-    "title": "黄仁勋押注新一轮“PC革命”，Agent找到了“最佳宿主”吗？",
-    "link": "https://www.tmtpost.com/8177566.html",
-    "summary": "PC的兴起得益于将CPU、内存、存储和软件都集中在一台轻巧机器上带来的便利，但Agent恰恰不需要这种集中式结构。",
+    "id": "news-3-27-1792676425000",
+    "title": "前次并购3.27亿商誉全额减值，新亚制程又要买电子特气 | 并购一线",
+    "link": "https://www.tmtpost.com/8178057.html",
+    "summary": "收购标的这几年净利润的增幅并不稳定。",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -161,42 +81,44 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-8217-s-hidden-storage-bill-what-inference-leaves-behind-1792658478000",
-    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
-    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "id": "news-making-the-case-for-context-aware-ai-1792663200000",
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
     "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-cre-1792622734000",
-    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-    "publishedAt": "2026-10-21",
+    "id": "news-uber-puts-all-30-000-employees-on-chatgpt-work-1792684800000",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "publishedAt": "2026-10-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "strategy"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-nearly-a-quarter-of-fathers-don-t-return-to-work-after-paren-1792611660000",
-    "title": "Nearly a quarter of fathers don’t return to work after parental leave, study shows",
-    "link": "https://www.hrdive.com/news/nearly-a-quarter-of-fathers-dont-return-to-work-after-parental-leave/833502/",
-    "summary": "White-collar professional fathers in the U.S. take more leave than fathers in the 12 other countries studied, Deel found.",
+    "id": "news-california-rule-would-clarify-protections-for-postpartum-dep-1792611720000",
+    "title": "California rule would clarify protections for postpartum depression, telework accommodations",
+    "link": "https://www.hrdive.com/news/california-proposal-post-partum-depression-low-milk-supply-pregnancy-protections/833593/",
+    "summary": "The proposed regulations aim to incorporate changes to California law and to align state law with the federal Pregnant Workers Fairness Act.",
     "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -213,25 +135,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-1792666192000",
-    "title": " Claude 终于忍不住抄作业了 ",
-    "link": "https://www.huxiu.com/article/4899663.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的 最近，AI圈集体应聘起了「个人助理」。 各家都在琢磨，怎么让AI不再只是一个等着你发号施令的聊天框，而是一个能自己找活干、主动推进任务的「数字打工人」。 Meta的Muse已经先交出了一份相当亮眼的成绩单。截至10月20日，上线约40天，它在美国的下载量就达到约1,020万次，全球累计约1,090万次。 10月21日，Anthropic正式发布了Claude Duet，并推出研究预览版。 继Grok Bot、Muse、Dots等个人AI Agent上线后，宫里又来新人了！ Claude的个人助理有什么不一样 Claude Duet的核心定位是不仅能够回答问题、生成内容，还能主动识别工作需求、规划任务，并调用不同软件完成实际操作，主要目标用户就是专业人士以及中小企业家了。 Anthropic表示，Claude Duet可以通过Claude Marketplace中的连接器和插件接入超过6,000种工具与服务。 但是想体验Claude Duet，目前还不是下载App就能直接开工。研究预览阶段，首批开放给美国地区的Claude Pro和Max个人订阅用户，免费用户暂时不在首批范围内。 前往Claude Duet官方产品页面，查看候补名单入口。获得资格后，可以通过iOS、Android或网页端进入Duet。 进入之后，根据界面提示授",
+    "id": "news-250-1792685378000",
+    "title": " 如何重读250岁的《国富论》 ",
+    "link": "https://www.huxiu.com/article/4899747.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 1776年，是一个神奇的年份。 1月，托马斯·潘恩发表《常识》，把北美独立的主张带到更广泛的公众面前。2月，英国史学家吉本出版《罗马帝国衰亡史》第一卷，追问一个庞大帝国为何走向瓦解。 这一年春天，瓦特改良的蒸汽机开始在英格兰的煤矿和铁厂投入商业运转。7月，《独立宣言》通过，一个新国家问世。政治、技术与历史思考，在同一年留下了各自的坐标。 3月9日，另一部著作在伦敦问世。它没有宣告国家独立，也没有展示机器的力量，却提出了一个此后两个半世纪各国都绕不开的问题——一个国家怎样才能真正富裕起来？这就是亚当·斯密的《国民财富的性质和原因的研究》，后世简称《国富论》。 250年后，人工智能再次把人类带到技术变革的门槛。机器开始参与写作、编程、研究与判断。我们期待生产率跃升，也担忧工作被替代、财富向少数人集中。斯密面对过的那些问题，正在以新的形态回到我们面前。 技术能创造多少财富，最容易吸引目光。财富通过什么制度被创造、由谁掌握、怎样改善普通人的生活，才决定一场技术革命最终留下什么。重读《国富论》，恰好可以从这里开始。 一枚针里的国家财富 《国富论》诞生时，工业革命尚未充分展开。斯密观察的主要对象仍是农业、商业和手工工场。他没有见过后来遍布英国的蒸汽工厂，更无法预知铁路、电力与现代公司的规模。 他看到的只是工业文明的晨光，从中总结出的规律却一直照",
     "publishedAt": "2026-10-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai",
-      "ecommerce"
+      "technology"
     ]
   },
   {
-    "id": "news-in-brazil-keeta-is-expanding-around-the-incumbent-1792659860000",
-    "title": "In Brazil, Keeta Is Expanding Around the Incumbent",
-    "link": "https://www.tmtpost.com/8177738.html",
-    "summary": "Meituan’s delivery service is opening inland cities after exclusive restaurant deals blocked a clean run at Rio. The fight is less about how many pins sit on a map than about whether a late entrant can build density where iFood is weaker—and still afford the ride.",
+    "id": "news-ozgur-tohumcu-ai-1792670806000",
+    "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
+    "link": "https://www.tmtpost.com/8177096.html",
+    "summary": "大量企业的AI项目停留在概念验证阶段，没有真正走向量产与工业化落地。",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -242,11 +162,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-introducing-the-impossible-issue-1792584600000",
-    "title": "The Download: introducing the Impossible issue",
-    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
-    "publishedAt": "2026-10-21",
+    "id": "news-three-things-you-should-know-about-permafrost-1792663200000",
+    "title": "Three things you should know about permafrost",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;",
+    "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -254,11 +174,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-airbnb-limits-chores-for-guests-sparking-backlash-from-hosts-1792620965000",
-    "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-    "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-    "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-    "publishedAt": "2026-10-21",
+    "id": "news-tesla-is-prepping-a-cybercab-onslaught-1792683879000",
+    "title": "Tesla is prepping a Cybercab onslaught",
+    "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+    "summary": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+    "publishedAt": "2026-10-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -267,10 +187,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-82m-government-grant-targets-rural-job-training-1792611660000",
-    "title": "Nearly $82M government grant targets rural job training",
-    "link": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
-    "summary": "The U.S. Department of Labor said the initiative is designed to &ldquo;address the critical workforce needs of employers in high-growth and emerging industries&rdquo; in the region.",
+    "id": "news-pennsylvania-county-becomes-first-in-nation-to-pass-paid-par-1792611720000",
+    "title": "Pennsylvania county becomes first in nation to pass paid parental leave",
+    "link": "https://www.hrdive.com/news/pennsylvanias-allegheny-county-becomes-first-county-in-nation-to-pass-paid/833619/",
+    "summary": "Allegheny County&rsquo;s policy also applies to remote employees whose employers are based in other states.",
     "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
@@ -294,39 +214,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792666191000",
-    "title": " 机器人卖出之后，轮到二开公司赚钱了吗？ ",
-    "link": "https://www.huxiu.com/article/4899662.html?f=rss",
-    "summary": "本文来自微信公众号： 42号电波 ，作者：x，编辑：大吉 买了一台机器人，只是花钱的开始。要让它真正干活，则是另外的价钱。 今年工博会期间，一家做具身智能全链路二次开发的服务商给我们算了一笔账：一套工厂拆码垛机器人项目（单台本体配合开发交付），软硬件合计报价超过100万元。 一笔订单，可以有不同的交易结构。有的客户直接从二开公司购买软硬件整套方案；有的客户指定某款机器人，由二开公司负责采购和开发；还有的客户与本体厂商签订合同，再由本体厂商把软件开发分包给合作伙伴。 「他们不管你软硬件，只要给一个能干活的机器人就行了。」销售人员说得直白。 随着机器人公司纷纷喊出「进厂」口号，这些赚「另外价钱」的二开公司也开始把展台搬上工博会，希望遇到更多客户。 同样是二开，做的未必是同一种生意。 低至几百块一单的ROS「开发定制」，个人就能接；在社交媒体上，有不少寻找机器人二开团队的帖子，需求集中在导览、巡检、大模型交互等轻量应用。但有需求，不代表有利润。下游面向商演、互动的二开已经卷了起来。据《中国经营报》报道，人形机器人的单日租金已从去年年初的万元级降至如今的4,000元左右；我在一个群里也看到，有人一口气列出9种商演套餐，分场景的模板一应俱全。 开头提到的那家二开公司很少接机器狗项目。在他们看来，机器狗的应用开发已经相对成熟，市场上不少团队都做过类似项目，竞争之下，利润空间有限。工作人员透露，",
-    "publishedAt": "2026-10-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-china-s-shopping-festival-turns-into-a-conversation-1792659846000",
-    "title": "China’s Shopping Festival Turns Into a Conversation",
-    "link": "https://www.tmtpost.com/8177736.html",
-    "summary": "Shoppers are testing AI chat for product shortlists while platforms weave assistants into the path to checkout. The technology fits messy retail decisions. Control of the first question—and trust in the answer—will matter more than another coupon mechanic.",
+    "id": "news-ai-1792665161000",
+    "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+    "link": "https://www.tmtpost.com/8177799.html",
+    "summary": "曾在华为体系工作近20年",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-we-can-do-impossible-things-1792573200000",
-    "title": "We can do impossible things",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
-    "publishedAt": "2026-10-21",
+    "id": "news-ai-8217-s-hidden-storage-bill-what-inference-leaves-behind-1792658478000",
+    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -334,11 +240,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-founder-summit-2026-everything-you-need-to-know-1792617380000",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "publishedAt": "2026-10-21",
+    "id": "news-spotify-confirms-family-plan-crackdown-but-calls-it-a-8216-r-1792682672000",
+    "title": "Spotify confirms Family Plan crackdown, but calls it a &#8216;routine improvement&#8217;",
+    "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+    "summary": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+    "publishedAt": "2026-10-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -347,17 +253,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-some-hiring-managers-may-be-waiting-until-after-the-election-1792595340000",
-    "title": "Some hiring managers may be waiting until after the election to recruit",
-    "link": "https://www.hrdive.com/news/hiring-managers-waiting-until-after-the-election-to-recruit/833566/",
-    "summary": "Decision-makers identified changes in government policies as one of the biggest hiring challenges for 2026.",
+    "id": "news-nearly-a-quarter-of-fathers-don-t-return-to-work-after-paren-1792611660000",
+    "title": "Nearly a quarter of fathers don’t return to work after parental leave, study shows",
+    "link": "https://www.hrdive.com/news/nearly-a-quarter-of-fathers-dont-return-to-work-after-parental-leave/833502/",
+    "summary": "White-collar professional fathers in the U.S. take more leave than fathers in the 12 other countries studied, Deel found.",
     "publishedAt": "2026-10-21",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -374,23 +279,76 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792666191000",
-    "title": " 即时零售头部玩家，集体涌进厨房 ",
-    "link": "https://www.huxiu.com/article/4899661.html?f=rss",
-    "summary": "本文来自微信公众号： 联商网 ，编辑：娜娜，作者：述微 美团、京东、阿里、朴朴超市、叮咚买菜五大玩家各有何打法、逻辑和成效？ 全文约2800字，阅读需约6分钟 朴朴厨房上线满一年，单仓日均单量超过2200单。据36氪援引知情人士的说法，朴朴内部认为的盈利线是2500单上下。 目前，还差300单。 这一年，不只是朴朴，即时零售的头部平台，不约而同地扑向了厨房，在餐食上下起了功夫。 五大平台集体盯上餐食 美团出手最早，依靠自己餐饮渠道积累的巨大优势，走轻资产路线，与合作者一起建造放心外卖基础设施。2025年7月1日官宣浣熊食堂。浣熊食堂是实体店面，但没有堂食。 首批开放加盟的城市只在少数一线城市，以单店合作为主。找位置、房租、装修、设备等费用，由合伙人承担。装修标准、消防、排污、油烟处理、空调、地砖、下水等，由美团帮商户做到位。 浣熊食堂负责人初征在2026年CCFA特许加盟暨生活服务业发展大会上，把这套逻辑讲得很清晰： 美团想把浣熊食堂打造成一个轻资产的业务模型，重投入的找店租铺由场地合伙人来出资投入，菜品生产制作由餐饮商家负责，美团负责订单、招商、运营管理。在2026年将开出总计200家左右浣熊食堂店。 京东动作最快、铺开范围最广。2025年7月22日，京东同日宣布两项投资。 一笔是投向新型供应链的百亿资金，计划三年内全国建设一万家七鲜小厨。到2026年6月，七鲜小厨门店突破180",
+    "id": "news-pc-agent-1792659894000",
+    "title": "黄仁勋押注新一轮“PC革命”，Agent找到了“最佳宿主”吗？",
+    "link": "https://www.tmtpost.com/8177566.html",
+    "summary": "PC的兴起得益于将CPU、内存、存储和软件都集中在一台轻巧机器上带来的便利，但Agent恰恰不需要这种集中式结构。",
     "publishedAt": "2026-10-22",
-    "source": "虎嗅",
+    "source": "钛媒体",
     "tags": [
       "china",
+      "technology",
       "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-introducing-the-impossible-issue-1792584600000",
+    "title": "The Download: introducing the Impossible issue",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
+    "publishedAt": "2026-10-21",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
       "technology"
     ]
   },
   {
-    "id": "news-q3-1792658828000",
-    "title": "天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报",
-    "link": "https://www.tmtpost.com/8177567.html",
-    "summary": "天银星际成为增长极。",
+    "id": "news-investors-break-down-how-founders-can-raise-a-series-a-today-1792682100000",
+    "title": "Investors break down how founders can raise a Series A today",
+    "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+    "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+    "publishedAt": "2026-10-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nearly-82m-government-grant-targets-rural-job-training-1792611660000",
+    "title": "Nearly $82M government grant targets rural job training",
+    "link": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
+    "summary": "The U.S. Department of Labor said the initiative is designed to &ldquo;address the critical workforce needs of employers in high-growth and emerging industries&rdquo; in the region.",
+    "publishedAt": "2026-10-21",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-motubrain-physical-ai-1792575922000",
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "link": "https://www.qbitai.com/2026/10/504730.html",
+    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+    "publishedAt": "2026-10-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-in-brazil-keeta-is-expanding-around-the-incumbent-1792659860000",
+    "title": "In Brazil, Keeta Is Expanding Around the Incumbent",
+    "link": "https://www.tmtpost.com/8177738.html",
+    "summary": "Meituan’s delivery service is opening inland cities after exclusive restaurant deals blocked a clean run at Rio. The fight is less about how many pins sit on a map than about whether a late entrant can build density where iFood is weaker—and still afford the ride.",
     "publishedAt": "2026-10-22",
     "source": "钛媒体",
     "tags": [
@@ -992,4 +950,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-22T11:05:33.829Z';
+export const dataFetchedAt = '2026-10-22T16:33:49.870Z';

@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-23-auto",
+    "date": "2026-10-23",
+    "session": "auto",
+    "title": "2026-10-23 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-23-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: computing’s next leap and permafrost’s climate threat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+      },
+      {
+        "id": "sig-2026-10-23-auto-2",
+        "emoji": "💡",
+        "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+        "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+        "detail": "来源: TechCrunch。Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/"
+      },
+      {
+        "id": "sig-2026-10-23-auto-3",
+        "emoji": "💡",
+        "title": "Should companies pay employees to quit?",
+        "summary": "Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
+        "detail": "来源: HR Dive。Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/should-companies-pay-employees-to-quit/832397/"
+      },
+      {
+        "id": "sig-2026-10-23-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：LongZero: Enhancing Long-Context Reasoning in LLMs from Zero...",
+        "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable",
+        "detail": "作者: Zhennan Wan, Jianfei Chen。Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model learns from tasks it proposes itself, has achieved excellent performance, but existing methods target short-context tasks. Therefore, we propose $\\textbf{LongZero}$, a method that lets an LLM improve its own long-context reasoning without any external data. Instead of writing questions and answers ov",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.30132v1"
+      },
+      {
+        "id": "sig-2026-10-23-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-23-1",
+        "priority": "medium",
+        "action": "关注「The Download: computing’s next leap and 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-23-2",
+        "priority": "low",
+        "action": "关注「TechCrunch Disrupt 2026 Startup Battlefi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-23-3",
+        "priority": "low",
+        "action": "关注「Should companies pay employees to quit?」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-23-4",
+        "priority": "medium",
+        "action": "关注「研究速递：LongZero: Enhancing Long-Context Re」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-23-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 57,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-23 生成，聚合了 27 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-23 00:00 - 2026-10-23 23:59"
+  },
+  {
     "id": "report-2026-10-22-auto",
     "date": "2026-10-22",
     "session": "auto",
