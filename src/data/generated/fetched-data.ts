@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-designing-an-ai-serving-harness-built-to-last-1792703849000",
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
-    "publishedAt": "2026-10-22",
+    "id": "news-in-the-biotech-world-you-can-t-see-everything-1792746000000",
+    "title": "In the biotech world, you can’t see everything",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "publishedAt": "2026-10-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-left-alone-with-nothing-to-do-ai-agents-started-playing-1792716337000",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "id": "news-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-r-1792729377000",
+    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -43,10 +42,91 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fsd-1792653288000",
-    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-    "link": "https://www.qbitai.com/2026/10/504841.html",
-    "summary": "FSD一年增长70万付费用户",
+    "id": "news-2026-10-ai-1792740951000",
+    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "link": "https://www.qbitai.com/2026/10/504901.html",
+    "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+    "publishedAt": "2026-10-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-biotech-bd-cro-1792752653000",
+    "title": " biotech平台出海：更高级的BD，还是更体面的CRO？ ",
+    "link": "https://www.huxiu.com/article/4899983.html?f=rss",
+    "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 10月，罗氏与翰森制药为行业投下一枚震撼消息：双方签署了一项针对ADC的战略合作及许可协议，潜在交易总额高达150亿美元。根据协议，翰森将获得4亿美元的预付款以及1.1亿美元的一周年特别付款。 这并非两家公司的第一次联手。早在约一年前，罗氏就曾向翰森买下一款ADC管线。而这一次，交易的内核发生了本质转换：罗氏买下的是一揽子基于翰森ADC技术平台的深度共同开发权——业界习惯将这种模式称为平台出海。 其实，类似的模式趋势正以前所未有的密度席卷中国医药行业。从诺纳生物将其全人源抗体/ADC平台连续授权给辉瑞、Moderna和阿斯利康，到石药集团通过AI与早期技术平台与阿斯利康建立多轮合作，再到恒瑞医药与GSK的合作，跨国巨头正在集体从挑选单个分子转向绑定底层技术平台。 一名投资人认为，这种模式标志这中国biotech出海进入了下一阶段。MNC不再盲投，而是有了更多比较的维度和证据。“在付出了前期的试错成本后，MNC在合作上更有方向，又为中国Biotech锁定了长期的现金流预期。” 从早期简单的单管线授权，到如今跨国药企将中国创新药企纳入自身全局研发体系的包干协同，过去两三年里，中国生物医药的出海逻辑正经历着一场悄然但深刻的范式演变。 -01- “外部研发部门”的诞生与发展 平台型合作的雏形，最早可以追溯到2022年。当年和铂医",
+    "publishedAt": "2026-10-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-1-2-2500-1792752425000",
+    "title": "波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报",
+    "link": "https://www.tmtpost.com/8179495.html",
+    "summary": "比音勒芬集团前三季度营收突破40亿元；优衣库推出LifeWear「经典之选」系列。",
+    "publishedAt": "2026-10-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-designing-an-ai-serving-harness-built-to-last-1792703849000",
+    "title": "Designing an AI serving harness built to last",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "publishedAt": "2026-10-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia--1792728000000",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "publishedAt": "2026-10-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
+    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
+    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
+    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
+    "publishedAt": "2026-10-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-jev-1792660025000",
+    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+    "link": "https://www.qbitai.com/2026/10/504879.html",
+    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
     "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
@@ -56,23 +136,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792724372000",
-    "title": " 国产剧中的“娇妻“又进化了 ",
-    "link": "https://www.huxiu.com/article/4899816.html?f=rss",
-    "summary": "本文来自微信公众号： 影视独舌 ，作者：王盼 今年以来，“抓小三”在国产剧中出现的频率颇高。 《我的前半生》靠一句“找小三”引发考古热潮； 《兰香如故》里，男主林锦歧藏书阁捉奸成为前期剧情里最出圈的片段； 《余红旧事》里，马伊琍饰演的陈红从找出第三者到成为第三者，网友调侃“我都多余操心罗子君的后半生”； 再到《美人余》，整部剧可以概括为“抓小三引发的惨案”…… 目前，《美人余》已点映完结，腾讯视频站内历史最高热度27101，在没有头部流量演员参演的前提下，这样的成绩已称得上“黑马”。 抓小三、娇妻觉醒、女性同盟、反杀渣男……乍看之下，《美人余》的确是一部很容易让人感到“套路”的作品。 但套路之中，也有惊喜。国产剧的“抓小三”叙事也悄然完成了一次升级。 离婚究竟有多难？ 《美人余》的节奏很快。 作为一名以“娇妻”人设走红的博主，女主余梦（李一桐饰）第1集就发现了丈夫狄立人（乔振宇饰）的不对劲，迅速启动了“抓小三”流程； 第2集，余梦成功确认第三者是自家公司的员工文晓晓（易梦玲饰）； 第3集，余梦发现狄立人不仅有小三，还有小四…… 但是，余梦真正和狄立人去民政局办理离婚手续却是在第25集，整部剧的倒数第4集。 也就是说，从想离婚到离婚成功，余梦花了整整25集，占据了这部剧的绝大部分剧情。 这其中，固然有情感上的拉锯与过渡，但更耗费时间与心力的，是物质层面的财产战。 在律师焦旭（常华森饰",
+    "id": "news--1792752590000",
+    "title": " 为什么手机越卖越少，反而越卖越贵？ ",
+    "link": "https://www.huxiu.com/article/4899981.html?f=rss",
+    "summary": "本文来自微信公众号： 半导体产业纵横 ，作者：方圆 今年的手机市场有一点值得关注：出货量在崩塌，销售额却在膨胀。IDC的数据显示全球智能手机出货量全年预计同比下滑13.9%至约10.8亿部，创2013年以来年度新低；第三季度单季跌幅22%，是该机构有记录以来最惨烈的季度表现。但同一份预测里，全球智能手机平均售价同比上涨27.6%至581美元，市场营收在第二季度逆势增长7%、达到创纪录的1090亿美元。中国市场同样如此，第三季度出货5930万台，同比下滑12%，创2013年以来同期最低，但新一代旗舰普遍涨价千元以上，涨幅20%到25%。 把这两组数字放在一起，看到的不是手机的需求疲软，而是一场结构重组。存储成本被AI基础设施截走只是表象，真正在发生的变化是，厂商被迫从卷低价竞争的竞赛中退出来，而退出方式，在不同市场位置的玩家身上呈现出完全不同的面貌。 01 千元机的消失，不是需求消失了 理解2026年一切变化的起点，是存储从BOM表里的一个常规科目变成了决定产品生死的一部分。正常年份内存在手机物料成本中的占比是10%到15%，到2026年这个数字跳到了30%到40%，中低端机型接近50%，千元机的存储成本已经超过了处理器本身。三星、美光等原厂把产能转向AI服务器所需的HBM芯片，手机用的LPDDR5和NAND在排产表上被往后推，DRAM和NAND合约价格在一年内暴涨350%。Coun",
     "publishedAt": "2026-10-23",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-212-1792724384000",
-    "title": "宁德时代半年股价腰斩，212亿利润为何撑不起信心？",
-    "link": "https://www.tmtpost.com/8178476.html",
-    "summary": "营收高增长难掩利润增速放缓，宁德时代股价重挫，毛利率与现金流双双承压。",
+    "id": "news-ai-ai-1792751432000",
+    "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+    "link": "https://www.tmtpost.com/8179406.html",
+    "summary": "从漏洞被找到，到它被大规模利用，中间只剩几个小时。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -95,6 +176,86 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-left-alone-with-nothing-to-do-ai-agents-started-playing-1792716337000",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "publishedAt": "2026-10-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-is-splitting-hr-into-2-archetypes-study-shows-1792694100000",
+    "title": "AI is splitting HR into 2 archetypes, study shows",
+    "link": "https://www.hrdive.com/news/ai-is-splitting-hr-into-two-archetypes/833698/",
+    "summary": "Every role &mdash; from HR specialist to CHRO &mdash; now requires knowledge of data analytics, while traditional administrative skills are declining, Draup explained.",
+    "publishedAt": "2026-10-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-fsd-1792653288000",
+    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+    "link": "https://www.qbitai.com/2026/10/504841.html",
+    "summary": "FSD一年增长70万付费用户",
+    "publishedAt": "2026-10-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1792752540000",
+    "title": " 算力底座的裂缝：AI存储芯片短缺与美国的政策校准 ",
+    "link": "https://www.huxiu.com/article/4899982.html?f=rss",
+    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 人工智能正以前所未有的速度吞掉存储芯片产能。部分存储芯片的价格一年涨三倍、短缺或拖到2030年，连苹果都预警“涨价不可避免”。华盛顿的本能反应是伸手干预：加关税、严管制、给汽车业优先保供，甚至开始讨论要不要封堵中国存储。 但信息技术与创新基金会（ITIF）泼来一盆冷水：这轮短缺不是市场失灵，而是AI算力狂飙撞上既有产能格局的结构性错配；更该警惕的，是把行业“周期性自律”误读为失灵、进而过度干预的冲动。文章主张，面对缺芯，与其争夺谁先拿到供应，不如把力气花在扩大长期产能上。 原文标题：Calibrating the Right Policy Response to the AI-Driven Memory Chip Shortage 原文来源：信息技术与创新基金会（ITIF） 编译解读：数字经济发展评论 人工智能驱动的数据中心需求激增，把全球半导体产能的脆弱性暴露无遗。存储芯片（即负责存储数据的集成电路）是最直观的例子：数据中心的需求还在攀升，产能却跟不上，部分存储芯片的价格预计在2026年将上涨三倍以上。业界判断，这轮短缺至少持续到2027年，甚至可能拖到2030年。 短缺已经直接传导到消费者，苹果公司宣布其产品“涨价不可避免”。在ITIF看来，华盛顿如何回应，将决定这究竟是扩大美国半导体产能的难得窗口，还是因",
+    "publishedAt": "2026-10-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-tvb-1792750884000",
+    "title": "把宫斗剧鼻祖翻出来，TVB还在坚持手搓短剧",
+    "link": "https://www.tmtpost.com/8179383.html",
+    "summary": "ITVB“北上”仍在闯关。",
+    "publishedAt": "2026-10-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+    "publishedAt": "2026-10-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
     "id": "news-mark-zuckerberg-8217-s-creative-plan-to-pay-california-s-pro-1792713041000",
     "title": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
     "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
@@ -108,10 +269,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
-    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
-    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
-    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
+    "id": "news-should-companies-pay-employees-to-quit-1792678260000",
+    "title": "Should companies pay employees to quit?",
+    "link": "https://www.hrdive.com/news/should-companies-pay-employees-to-quit/832397/",
+    "summary": "Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
     "publishedAt": "2026-10-22",
     "source": "HR Dive",
     "tags": [
@@ -135,10 +296,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792723614000",
-    "title": " 易启未来：AI按摩机器人撬动银发消费？ ",
-    "link": "https://www.huxiu.com/article/4899809.html?f=rss",
-    "summary": "本文来自微信公众号： 长青研究社 ，编辑：苏锦华，作者：叶凌慧 在北京亦庄的智慧康养驿站，70多岁的张阿姨对着一台白色机械臂说“小易师傅，手轻一点”，按摩力度随即调小。驿站运营负责人韩鑫说，站内按摩机器人的档期早已排满。 这些机器人来自易启未来，一家2025年7月才从网易伏羲独立出来的具身智能公司。据公司介绍，按摩机器人是它的具身终端，用来持续采集人体生理动态数据，这些数据最终指向慢病管理与精准医疗。 但眼下最常被拿来讲银发故事的场景，是康养驿站。这家以慢病数据平台为目标的公司，究竟是被银发消费推着走，还是借银发场景先攒下第一批数据？无论答案是什么，它都得先回答一个更现实的问题：这门生意，能不能在银发市场里算得平？ 《中华老年医学杂志》一项纳入23项研究、样本量58448人的Meta分析显示，我国老年人慢性疼痛患病率达47.7%。与之形成对照的是，慢性疼痛患者就诊率落在29.4%至85.7%的宽幅区间。就诊率区间的巨大跨度本身就揭示了深层矛盾：老年群体的疼痛诉求与诊疗服务之间存在壁垒，大量老人并非没有就医意愿，而是面临服务不可及的现实障碍。 供给约束首先来自康复专业人才的短缺。综合不同统计口径，国内每10万人口仅对应约3.1—3.6名康复治疗师，远低于国家八部门2021年文件设定的2025年12人/10万人口目标。按此比例测算，一个50万人口的城区仅能分配约15名康复治疗师，却要覆",
+    "id": "news-k3v4-1792751842000",
+    "title": " 什么？一个人就能训练大模型，指标还能硬刚K3V4？ ",
+    "link": "https://www.huxiu.com/article/4899823.html?f=rss",
+    "summary": "本文来自微信公众号： 字母AI ，作者：彦飞，编辑：王靖，题图来自：AI生成 训练一个5000亿参数的大模型，需要多少人？ AI行业的经验是，至少几十人，大厂动辄投入数百人。 但硅谷一家叫Mirendil的初创公司，把这个数字压缩到了极致&mdash;&mdash;只要一个人。 最近，Mirendil在官网发了一篇文章，标题非常耸人听闻：《无需预训练团队的大规模预训练》。 文章标题下面列着三个数字： 1名研究员、三个半月、成本不到1000万美元。 这些钱涵盖了Agent的token消耗、数据处理和全部研究实验成本。只靠这些投入，他们真的把千亿参数的模型训出来了：Mirendil-Base，一个1000亿到 5000亿参数区间的编码专用基座模型。 Mirendil在文章中称，新模型超过99%的代码不是人写的，而是Agent写的。 人类研究员只需要负责确定方向、下判断，在关键节点踩刹车。写代码、跑实验、错误排查之类的活儿，全交给了Agent。 在Mirendil的测试中，新模型的部分指标已经逼近了Kimi K3、GLM-5.3、DeepSeek-V4等主流一线模型。 &ldquo;单人手搓基模&rdquo;的时代，真的要到来了&hellip;&hellip;吗？ 一 按照官方说法，Mirendil-Base是Mirendil系列模型的首发产品，定位是编码专用基座模型，目标用户是前沿AI",
     "publishedAt": "2026-10-23",
     "source": "虎嗅",
     "tags": [
@@ -149,90 +310,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792723980000",
-    "title": "中国人不开的全地形车，卖到美国有多挣钱？",
-    "link": "https://www.tmtpost.com/8178288.html",
-    "summary": "中国品牌争夺全球千亿市场。",
-    "publishedAt": "2026-10-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with--1792710900000",
-    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-    "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-    "publishedAt": "2026-10-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-is-splitting-hr-into-2-archetypes-study-shows-1792694100000",
-    "title": "AI is splitting HR into 2 archetypes, study shows",
-    "link": "https://www.hrdive.com/news/ai-is-splitting-hr-into-two-archetypes/833698/",
-    "summary": "Every role &mdash; from HR specialist to CHRO &mdash; now requires knowledge of data analytics, while traditional administrative skills are declining, Draup explained.",
-    "publishedAt": "2026-10-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-openai-1792652759000",
-    "title": "谁在给OpenAI供应具身数据？",
-    "link": "https://www.qbitai.com/2026/10/504800.html",
-    "summary": "挤进全球Physical AI核心供应链",
-    "publishedAt": "2026-10-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1792723146000",
-    "title": " 游戏之后，我们要开始担心孩子对AI上瘾吗？ ",
-    "link": "https://www.huxiu.com/article/4899807.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网科技 ，作者：凤凰网科技，编辑：董雨晴 摘要： 在AI盛行的当下，是的，不论是顶级投资人，首屈一指的经济学家，还是厨房里头发花白的老人，刚咿呀学语的婴幼儿，他们都在用AI，凤凰网科技试图厘清技术加速背后的隐形危害，我们甚至与精神科医生做了几轮交流，了解到他们口中的“AI精神病”：一个迎合倾向的对话系统，可以在反复确认中将用户的妄想推向更深处，哪怕用户原本只是一个“心理状态脆弱”的普通人。 “我有点‘赛博精神病’（cyber psychosis），”一个正在侃侃而谈的男子，突然语气一转，“也许还挺严重的。”又继而进一步解释，过去一年里，自己大约经历了六次“AI或SI（superintelligence，超级智能）精神错乱”。 这是今年10月10日，特斯拉Giga Texas工厂里，埃隆·马斯克正在称赞AI创造力时的一次“公开承认”。 他口中提及的“AI精神病”，没有正式的医学诊断，通常指：与AI聊天机器人长时间互动后，用户原有的妄想或脱离现实的想法可能被强化。 聊天机器人有时会过度迎合用户，即使面对明显不现实的信念也不去质疑，反而附和。目前研究人员仍在探究AI是直接引发了精神问题，还是仅仅加重了已有的心理健康状况。 在硅谷，“AI精神病”已经从临床讨论演变成了一个流行热词，常被用来形容科技高管对AI近乎宗教般的狂热或脱离现实的兴奋状态。 美国8个州的总检察",
-    "publishedAt": "2026-10-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-2027-1792723680000",
-    "title": "“宁王”跌掉一半，真正的坎在2027年",
-    "link": "https://www.tmtpost.com/8178284.html",
-    "summary": "需求是真是假、降价会不会来、“宁王”能否替代、差异化的护城河还守不守得住？",
+    "id": "news--1792750877000",
+    "title": "三星、海力士升级中国工厂，长江存储改变了什么？",
+    "link": "https://www.tmtpost.com/8178504.html",
+    "summary": "中国对手崛起，韩国巨头为何仍要留守？",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -256,90 +337,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebra-1792708494000",
-    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-    "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-    "publishedAt": "2026-10-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-should-companies-pay-employees-to-quit-1792678260000",
-    "title": "Should companies pay employees to quit?",
-    "link": "https://www.hrdive.com/news/should-companies-pay-employees-to-quit/832397/",
-    "summary": "Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
-    "publishedAt": "2026-10-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-air-ai-1792582259000",
-    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-    "link": "https://www.qbitai.com/2026/10/504734.html",
-    "summary": "医疗AI质变时刻",
-    "publishedAt": "2026-10-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792723058000",
-    "title": " 我极度厌恶竞争 ",
-    "link": "https://www.huxiu.com/article/4899801.html?f=rss",
-    "summary": "本文来自微信公众号： 九边 ，作者：九边，题图来自：视觉中国 前段时间看到一个帖子，作者说他从幼儿园开始就极度反感排名、比赛、竞赛什么的，任何需要跟别人争抢的东西，都让他生理性反感，别人争着抢着抢夺某样东西，他只想远远地躲着。 我非常有感触，才发现我也是这样，从小极度反感这类竞争，尤其是排名什么的，反感到了极点，任何事，一想到要跟别人比，就极度的厌倦，而且明显影响状态，本来能做明白的事，一跟别人比，也做不明白了。 但是大家也知道，&ldquo;竞争&rdquo;在咱们这个社会有种天然的政治正确，所以一直不敢承认自己不喜欢竞争，如果承认了，感觉就好像承认自己不行，是个loser。 后来跟身边混得挺好的那群人聊了下这个话题，原来大家都差不多。而且我观察了下，大家出成绩，普遍并不是盯着别人比来比去，而是 专注自己，把自己事做好，慢慢就成事了 。 突然想起来，高中时候我们老师给我们讲过一段话，当时觉得没啥，后来越想越觉得有道理。 他说到了高中，周围所有人都会跟你说人生最关键的时期来了，要努力，要打起全部的精神，仿佛给你压力，你就会有动力。但事实是，所有人接受相同的话术，最后只有一小部分人胜出，说明这些话并没那么重要。 重要的是，每天保持一个节奏，每天都不能落下，一步一个脚印，不要留下缺口。因为大部分人掉队，都是因为某一段时间状态不好，差了一截，后来就跟不上了，越拉越大，到最后没法补了。 所",
-    "publishedAt": "2026-10-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-40-1792723440000",
-    "title": "身家超40亿的张雪，要分一杯电摩的羹",
-    "link": "https://www.tmtpost.com/8178051.html",
-    "summary": "接连在赛场上斩获佳绩的张雪机车，要造电摩了！",
-    "publishedAt": "2026-10-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-three-things-you-should-know-about-permafrost-1792663200000",
-    "title": "Three things you should know about permafrost",
-    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-    "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of--1792706904000",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "id": "news-warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with--1792710900000",
+    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+    "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
     "publishedAt": "2026-10-22",
     "source": "TechCrunch",
     "tags": [
@@ -363,11 +364,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-motubrain-physical-ai-1792575922000",
-    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-    "link": "https://www.qbitai.com/2026/10/504730.html",
-    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-    "publishedAt": "2026-10-21",
+    "id": "news-openai-1792652759000",
+    "title": "谁在给OpenAI供应具身数据？",
+    "link": "https://www.qbitai.com/2026/10/504800.html",
+    "summary": "挤进全球Physical AI核心供应链",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -376,10 +377,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792722853000",
-    "title": " 东南亚的电动汽车，被低估了 ",
-    "link": "https://www.huxiu.com/article/4899803.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 先看一个数字——5.6亿美元。 霍尔木兹海峡中断后的六个月里，东南亚电动汽车替代的原油进口，大致就是这个量级。 放进全球石油贸易的大盘子里，它连零头都算不上。 可恰恰是这笔“不起眼”的钱，把一件更大的事情摆到了桌面上，那就是东南亚的能源安全算法，有了巨大的变化。 几十年间，进口石油的经济体算安全账，主要算三笔：油从哪来、路通不通、库存够不够。 这三笔账的共同点是，主动权不完全在自己手里。 航道在别人家门口，油价看全球市场脸色，储备只能撑一时。 现在，电动车把这个算式改写了。 每多一辆电动车上路，就少一份对油轮的依赖，多一份把本地电力变成出行公里数的能力。能源安全的衡量单位，就慢慢变成“能把多少电稳定地送到车轮上”了。 东南亚六个月的5.6亿美元，只是这套存量开始产生回报的一个早期信号。 信号背后，有着更深的变化，我们会发现，东南亚现在所走的，是一条和中国不同的电气化路径。 省下5.6亿美元， 更值钱的是什么？ 5.6亿美元，是什么性质？Ember统计的是纯电动汽车替代掉的原油需求，而且只算了汽车。据悉，东南亚的摩托车、两轮车、三轮车数量远超汽车，这些交通工具省下的燃油份额更大。也就是说，5.6亿美元是一个偏保守的下限，真实替代规模比这个数字更大。 为什么强调这一点？因为很多人看到这类数字，第一反应是“省了钱”。 确实，油价越高，电动",
+    "id": "news-13-1792751830000",
+    "title": " 13省份国考税务岗招录人数均破千，专家：多数在基层，征管改革致业务量增加 ",
+    "link": "https://www.huxiu.com/article/4899977.html?f=rss",
+    "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：宋珂欣 “考税务局越来越‘卷’了。”近日，2027年国考报名正式启动，面对“动辄140分以上才可能进面试”的讨论，不少考生发出这样的感慨。 今年国考招录，“一税独大”的格局尤为明显。在全国招录总人数微降的背景下，税务系统计划招录24013人，占总人数的67.28%。也就是说，几乎每3个岗位中，就有2个属于税务系统。 时代周报记者梳理发现，在31个省份的税务局中，有13个省份的招录人数突破千人。 为什么多地税务部门用人需求攀升？哪些地方更缺人？ 13个省份招录人数破千 多地出现“一税独大”的情况并非偶然，而是国考编制资源明显倾斜的结果。中公教育研究院分析报告显示，除了税务与金融监管外，其余主要系统的招录规模均在收缩，资源正加速向经济财税类岗位集中。 虽然税务系统的“池子”很大，但竞争烈度丝毫不减。社交媒体上有考生发布的报考信息显示，截至发稿时（10月22日），江苏省某市税务局一岗位的报录比达612:1，即612人竞争1个招录名额。 对此，中公教育研究院总部专家李茜在接受时代周报记者采访时指出，税务系统是少有的“不限专业大类”大户，财会、法学、计算机等十几个大类都能报考，部分偏远岗位甚至“三不限”（不限专业、不限政治面貌、不限基层工作经历），让其成为绝大多数考生的首选。 招录大盘都在哪些地方出现明显倾斜？在13个招录人数破千的省份中，",
     "publishedAt": "2026-10-23",
     "source": "虎嗅",
     "tags": [
@@ -389,10 +390,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1792723003000",
-    "title": "2026，商业“第三空间”迭代时",
-    "link": "https://www.tmtpost.com/8178023.html",
-    "summary": "一个单纯由空间、品牌调性、客群标签等要素综合的传统商业“第三空间”时代正逐步落幕。",
+    "id": "news-47-1792750788000",
+    "title": "智元两年投出47笔融资，多数投给了自家机器人的上游",
+    "link": "https://www.tmtpost.com/8178163.html",
+    "summary": "智元铺生态投上游谋上市，待市场验证成败。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -944,4 +945,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-23T03:13:07.671Z';
+export const dataFetchedAt = '2026-10-23T10:57:43.303Z';
