@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-commonwealth-fusion-systems-gets-85m-to-build-better-fusion--1792772428000",
-    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-    "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+    "id": "news-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the--1792785794000",
+    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -27,18 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ceos-say-they-re-not-yet-seeing-transformational-change-from-1792694100000",
-    "title": "CEOs say they’re not yet seeing transformational change from AI",
-    "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
-    "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
-    "publishedAt": "2026-10-22",
+    "id": "news-ex-vp-for-nba-s-brooklyn-nets-claims-he-was-fired-for-taking-1792786740000",
+    "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
+    "link": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/",
+    "summary": "The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
+    "publishedAt": "2026-10-23",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -94,24 +93,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-some-of-anthropic-s-backers-are-reportedly-worth-before-1792771363000",
-    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+    "id": "news-carta-and-newview-partner-hoping-to-entice-more-startups-to--1792783513000",
+    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+    "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
-    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
-    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
-    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
-    "publishedAt": "2026-10-22",
+    "id": "news-week-in-review-where-ada-and-pto-meet-1792786740000",
+    "title": "Week in review: Where ADA and PTO meet",
+    "link": "https://www.hrdive.com/news/week-in-review-where-ada-and-pto-meet/833883/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including EEOC suing over conciliatory agreements and the problematic pace of AI integration.",
+    "publishedAt": "2026-10-23",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -174,24 +174,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lab-testing-giant-quest-diagnostics-confirms-patients-8217-p-1792767609000",
-    "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
-    "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+    "id": "news-from-toast-to-bessemer-who-founders-will-hear-from-at-techcr-1792782383000",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ai-is-splitting-hr-into-2-archetypes-study-shows-1792694100000",
-    "title": "AI is splitting HR into 2 archetypes, study shows",
-    "link": "https://www.hrdive.com/news/ai-is-splitting-hr-into-two-archetypes/833698/",
-    "summary": "Every role &mdash; from HR specialist to CHRO &mdash; now requires knowledge of data analytics, while traditional administrative skills are declining, Draup explained.",
-    "publishedAt": "2026-10-22",
+    "id": "news-cios-unprepared-for-agentic-workforce-shift-1792786740000",
+    "title": "CIOs unprepared for agentic workforce shift",
+    "link": "https://www.hrdive.com/news/gartner-survey-CIOs-workforce-revamp/833823/",
+    "summary": "Just 4% of tech leaders have plans in place to retool roles for an agentic-human workforce, a Gartner survey found.",
+    "publishedAt": "2026-10-23",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -240,10 +241,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-r-1792729377000",
-    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+    "id": "news-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs-1792772789000",
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -253,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-should-companies-pay-employees-to-quit-1792678260000",
-    "title": "Should companies pay employees to quit?",
-    "link": "https://www.hrdive.com/news/should-companies-pay-employees-to-quit/832397/",
-    "summary": "Researchers found that quitting incentives both encouraged less committed workers to leave and led to stronger performance by those who remained.",
-    "publishedAt": "2026-10-22",
+    "id": "news-job-seekers-say-they-re-still-being-ghosted-even-as-they-re--1792786740000",
+    "title": "Job seekers say they’re still being ghosted — even as they’re trying harder to get noticed",
+    "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
+    "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
+    "publishedAt": "2026-10-23",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -306,10 +307,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia--1792728000000",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "id": "news-commonwealth-fusion-systems-gets-85m-to-build-better-fusion--1792772428000",
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -319,17 +320,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-california-rule-would-clarify-protections-for-postpartum-dep-1792611720000",
-    "title": "California rule would clarify protections for postpartum depression, telework accommodations",
-    "link": "https://www.hrdive.com/news/california-proposal-post-partum-depression-low-milk-supply-pregnancy-protections/833593/",
-    "summary": "The proposed regulations aim to incorporate changes to California law and to align state law with the federal Pregnant Workers Fairness Act.",
-    "publishedAt": "2026-10-21",
+    "id": "news-ceos-say-they-re-not-yet-seeing-transformational-change-from-1792694100000",
+    "title": "CEOs say they’re not yet seeing transformational change from AI",
+    "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
+    "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
+    "publishedAt": "2026-10-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -901,4 +903,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-23T16:23:50.638Z';
+export const dataFetchedAt = '2026-10-23T20:56:10.887Z';
