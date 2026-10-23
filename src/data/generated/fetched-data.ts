@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-in-the-biotech-world-you-can-t-see-everything-1792746000000",
-    "title": "In the biotech world, you can’t see everything",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "id": "news-the-download-testing-six-tech-promises-and-biotech-8217-s-bl-1792757400000",
+    "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
     "publishedAt": "2026-10-23",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-r-1792729377000",
-    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+    "id": "news-commonwealth-fusion-systems-gets-85m-to-build-better-fusion--1792772428000",
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -55,24 +55,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-biotech-bd-cro-1792752653000",
-    "title": " biotech平台出海：更高级的BD，还是更体面的CRO？ ",
-    "link": "https://www.huxiu.com/article/4899983.html?f=rss",
-    "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 10月，罗氏与翰森制药为行业投下一枚震撼消息：双方签署了一项针对ADC的战略合作及许可协议，潜在交易总额高达150亿美元。根据协议，翰森将获得4亿美元的预付款以及1.1亿美元的一周年特别付款。 这并非两家公司的第一次联手。早在约一年前，罗氏就曾向翰森买下一款ADC管线。而这一次，交易的内核发生了本质转换：罗氏买下的是一揽子基于翰森ADC技术平台的深度共同开发权——业界习惯将这种模式称为平台出海。 其实，类似的模式趋势正以前所未有的密度席卷中国医药行业。从诺纳生物将其全人源抗体/ADC平台连续授权给辉瑞、Moderna和阿斯利康，到石药集团通过AI与早期技术平台与阿斯利康建立多轮合作，再到恒瑞医药与GSK的合作，跨国巨头正在集体从挑选单个分子转向绑定底层技术平台。 一名投资人认为，这种模式标志这中国biotech出海进入了下一阶段。MNC不再盲投，而是有了更多比较的维度和证据。“在付出了前期的试错成本后，MNC在合作上更有方向，又为中国Biotech锁定了长期的现金流预期。” 从早期简单的单管线授权，到如今跨国药企将中国创新药企纳入自身全局研发体系的包干协同，过去两三年里，中国生物医药的出海逻辑正经历着一场悄然但深刻的范式演变。 -01- “外部研发部门”的诞生与发展 平台型合作的雏形，最早可以追溯到2022年。当年和铂医",
+    "id": "news--1792771633000",
+    "title": " “生软”之死 ",
+    "link": "https://www.huxiu.com/article/4900064.html?f=rss",
+    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 这次真不怪EA 2026年10月21日，EA宣布关闭旗下游戏工作室BioWare，同时取消仍处于早期开发阶段的下一部《质量效应》。 根据彭博社报道，这是EA新一轮裁员计划的一部分，涉及约400个岗位，其中包括BioWare最后剩余的约50名员工。曾经创造《博德之门》、《无冬之夜》、《星球大战：旧共和国武士》、《龙腾世纪》和《质量效应》的加拿大工作室，在成立31年后正式走到了终点。 EA发布未来战略公告中提到：“由于我们专注于这些更大的发展机遇，BioWare的一个小型团队一直在进行《质量效应》的早期开发工作。我们决定不再推进该项目，这意味着我们将关闭工作室以及位于埃德蒙顿的工作空间。BioWare是一家传奇工作室，曾为角色扮演游戏类型做出过重要贡献，我们做出这个决定实属无奈。” 至于原因，公告的开头其实也予以了说明，关闭BioWare是公司整体战略调整和资源重新分配的一部分。EA认为，传统欧美3A游戏市场竞争日益激烈，未来的增长机会正向核心IP、成熟玩家社群、新兴市场及体育互动业务转移。 因此，公司决定收缩非核心项目，将资金、技术和人才集中投入更具增长潜力的业务，同时精简组织、提高决策效率。在这一背景下，开发周期漫长、近年来商业表现持续不及预期的BioWare，已经难以证明继续获得大规模投资的必要性。最终关闭工作室，可以",
     "publishedAt": "2026-10-23",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-1-2-2500-1792752425000",
-    "title": "波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报",
-    "link": "https://www.tmtpost.com/8179495.html",
-    "summary": "比音勒芬集团前三季度营收突破40亿元；优衣库推出LifeWear「经典之选」系列。",
+    "id": "news--1792762383000",
+    "title": "苏泊尔“中年危机”未解除，前三季度盈利续降｜看财报",
+    "link": "https://www.tmtpost.com/8179848.html",
+    "summary": "同行日子也不好过。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -83,23 +82,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-designing-an-ai-serving-harness-built-to-last-1792703849000",
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
-    "publishedAt": "2026-10-22",
+    "id": "news-in-the-biotech-world-you-can-t-see-everything-1792746000000",
+    "title": "In the biotech world, you can’t see everything",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+    "publishedAt": "2026-10-23",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia--1792728000000",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "id": "news-what-some-of-anthropic-s-backers-are-reportedly-worth-before-1792771363000",
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -136,24 +134,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792752590000",
-    "title": " 为什么手机越卖越少，反而越卖越贵？ ",
-    "link": "https://www.huxiu.com/article/4899981.html?f=rss",
-    "summary": "本文来自微信公众号： 半导体产业纵横 ，作者：方圆 今年的手机市场有一点值得关注：出货量在崩塌，销售额却在膨胀。IDC的数据显示全球智能手机出货量全年预计同比下滑13.9%至约10.8亿部，创2013年以来年度新低；第三季度单季跌幅22%，是该机构有记录以来最惨烈的季度表现。但同一份预测里，全球智能手机平均售价同比上涨27.6%至581美元，市场营收在第二季度逆势增长7%、达到创纪录的1090亿美元。中国市场同样如此，第三季度出货5930万台，同比下滑12%，创2013年以来同期最低，但新一代旗舰普遍涨价千元以上，涨幅20%到25%。 把这两组数字放在一起，看到的不是手机的需求疲软，而是一场结构重组。存储成本被AI基础设施截走只是表象，真正在发生的变化是，厂商被迫从卷低价竞争的竞赛中退出来，而退出方式，在不同市场位置的玩家身上呈现出完全不同的面貌。 01 千元机的消失，不是需求消失了 理解2026年一切变化的起点，是存储从BOM表里的一个常规科目变成了决定产品生死的一部分。正常年份内存在手机物料成本中的占比是10%到15%，到2026年这个数字跳到了30%到40%，中低端机型接近50%，千元机的存储成本已经超过了处理器本身。三星、美光等原厂把产能转向AI服务器所需的HBM芯片，手机用的LPDDR5和NAND在排产表上被往后推，DRAM和NAND合约价格在一年内暴涨350%。Coun",
+    "id": "news-2026-ip-1792771411000",
+    "title": " 2026谷圈“IP啃老”：棋魂、守护甜心等快闪翻红 ",
+    "link": "https://www.huxiu.com/article/4900062.html?f=rss",
+    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 稍微有点年纪的二次元，今年最高频的感叹词可能是“今昔何夕”。 “竟然在展位上看到了《幽游白书》和《圣斗士星矢》，今年是2026还是2006？”8月的IAGF国际动漫周边交流展刚结束，10月的CLE中国授权展再次让网上的“老二次元”感到年轻了十几岁。 近两年的行业展台，最显眼的位置不再被近一两年的当季新番全面占据，取而代之的是一群“老面孔”：《棋魂》、《梦色糕点师》、《轻音少女》，其中最热闹的应该是《守护甜心》。 2024年，广东领之睿文化娱乐有限公司签下《守护甜心》在中国的商品化授权，并快速开展了一系列商业化落地：根据粉丝统计，近两年《守护甜心》与两位数以上的“国谷”展开了联动，觅星社、模玩熊、歪瓜出品、GuGuGuGu、南漫社、气球暖暖星等略有规模的谷子厂牌都加入了这场热潮。 投入最大的则是得力文具，根据官方披露，第一轮快闪在端午假期进店客流超过10万人次，而第二轮快闪扩展至北上杭广四城，热度仍然不减。 在二次元消费的传统逻辑里，衍生品的繁荣通常依附于内容生态的供给。要么是当季动画、院线新作热播引发的流量爆发，要么是原作逢十周年的官方大企划联动。 但今年这股老IP的翻红潮，特殊之处正在于它的“凭空出现”。特例《守护甜心》虽然在2024年推出了续篇漫画《守护甜心Jewel Joker》，但在国内并没有引发太多出圈的讨论，领之睿",
     "publishedAt": "2026-10-23",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-ai-1792751432000",
-    "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
-    "link": "https://www.tmtpost.com/8179406.html",
-    "summary": "从漏洞被找到，到它被大规模利用，中间只剩几个小时。",
+    "id": "news-1-2-2500-1792752425000",
+    "title": "波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报",
+    "link": "https://www.tmtpost.com/8179495.html",
+    "summary": "比音勒芬集团前三季度营收突破40亿元；优衣库推出LifeWear「经典之选」系列。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -164,22 +161,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-foundations-of-scalable-ai-1792694884000",
-    "title": "The Foundations of Scalable AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "id": "news-designing-an-ai-serving-harness-built-to-last-1792703849000",
+    "title": "Designing an AI serving harness built to last",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
     "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-left-alone-with-nothing-to-do-ai-agents-started-playing-1792716337000",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "id": "news-lab-testing-giant-quest-diagnostics-confirms-patients-8217-p-1792767609000",
+    "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
+    "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -216,24 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792752540000",
-    "title": " 算力底座的裂缝：AI存储芯片短缺与美国的政策校准 ",
-    "link": "https://www.huxiu.com/article/4899982.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 人工智能正以前所未有的速度吞掉存储芯片产能。部分存储芯片的价格一年涨三倍、短缺或拖到2030年，连苹果都预警“涨价不可避免”。华盛顿的本能反应是伸手干预：加关税、严管制、给汽车业优先保供，甚至开始讨论要不要封堵中国存储。 但信息技术与创新基金会（ITIF）泼来一盆冷水：这轮短缺不是市场失灵，而是AI算力狂飙撞上既有产能格局的结构性错配；更该警惕的，是把行业“周期性自律”误读为失灵、进而过度干预的冲动。文章主张，面对缺芯，与其争夺谁先拿到供应，不如把力气花在扩大长期产能上。 原文标题：Calibrating the Right Policy Response to the AI-Driven Memory Chip Shortage 原文来源：信息技术与创新基金会（ITIF） 编译解读：数字经济发展评论 人工智能驱动的数据中心需求激增，把全球半导体产能的脆弱性暴露无遗。存储芯片（即负责存储数据的集成电路）是最直观的例子：数据中心的需求还在攀升，产能却跟不上，部分存储芯片的价格预计在2026年将上涨三倍以上。业界判断，这轮短缺至少持续到2027年，甚至可能拖到2030年。 短缺已经直接传导到消费者，苹果公司宣布其产品“涨价不可避免”。在ITIF看来，华盛顿如何回应，将决定这究竟是扩大美国半导体产能的难得窗口，还是因",
-    "publishedAt": "2026-10-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-tvb-1792750884000",
-    "title": "把宫斗剧鼻祖翻出来，TVB还在坚持手搓短剧",
-    "link": "https://www.tmtpost.com/8179383.html",
-    "summary": "ITVB“北上”仍在闯关。",
+    "id": "news-ai-ai-1792751432000",
+    "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+    "link": "https://www.tmtpost.com/8179406.html",
+    "summary": "从漏洞被找到，到它被大规模利用，中间只剩几个小时。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -244,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+    "id": "news-the-foundations-of-scalable-ai-1792694884000",
+    "title": "The Foundations of Scalable AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
     "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
@@ -256,11 +240,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-mark-zuckerberg-8217-s-creative-plan-to-pay-california-s-pro-1792713041000",
-    "title": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-    "publishedAt": "2026-10-22",
+    "id": "news-oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-r-1792729377000",
+    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+    "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -296,24 +280,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-k3v4-1792751842000",
-    "title": " 什么？一个人就能训练大模型，指标还能硬刚K3V4？ ",
-    "link": "https://www.huxiu.com/article/4899823.html?f=rss",
-    "summary": "本文来自微信公众号： 字母AI ，作者：彦飞，编辑：王靖，题图来自：AI生成 训练一个5000亿参数的大模型，需要多少人？ AI行业的经验是，至少几十人，大厂动辄投入数百人。 但硅谷一家叫Mirendil的初创公司，把这个数字压缩到了极致&mdash;&mdash;只要一个人。 最近，Mirendil在官网发了一篇文章，标题非常耸人听闻：《无需预训练团队的大规模预训练》。 文章标题下面列着三个数字： 1名研究员、三个半月、成本不到1000万美元。 这些钱涵盖了Agent的token消耗、数据处理和全部研究实验成本。只靠这些投入，他们真的把千亿参数的模型训出来了：Mirendil-Base，一个1000亿到 5000亿参数区间的编码专用基座模型。 Mirendil在文章中称，新模型超过99%的代码不是人写的，而是Agent写的。 人类研究员只需要负责确定方向、下判断，在关键节点踩刹车。写代码、跑实验、错误排查之类的活儿，全交给了Agent。 在Mirendil的测试中，新模型的部分指标已经逼近了Kimi K3、GLM-5.3、DeepSeek-V4等主流一线模型。 &ldquo;单人手搓基模&rdquo;的时代，真的要到来了&hellip;&hellip;吗？ 一 按照官方说法，Mirendil-Base是Mirendil系列模型的首发产品，定位是编码专用基座模型，目标用户是前沿AI",
-    "publishedAt": "2026-10-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1792750877000",
-    "title": "三星、海力士升级中国工厂，长江存储改变了什么？",
-    "link": "https://www.tmtpost.com/8178504.html",
-    "summary": "中国对手崛起，韩国巨头为何仍要留守？",
+    "id": "news-tvb-1792750884000",
+    "title": "把宫斗剧鼻祖翻出来，TVB还在坚持手搓短剧",
+    "link": "https://www.tmtpost.com/8179383.html",
+    "summary": "ITVB“北上”仍在闯关。",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -324,24 +294,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-making-the-case-for-context-aware-ai-1792663200000",
-    "title": "Making the case for context-aware AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
     "publishedAt": "2026-10-22",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with--1792710900000",
-    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-    "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-    "publishedAt": "2026-10-22",
+    "id": "news-uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia--1792728000000",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -377,23 +346,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-13-1792751830000",
-    "title": " 13省份国考税务岗招录人数均破千，专家：多数在基层，征管改革致业务量增加 ",
-    "link": "https://www.huxiu.com/article/4899977.html?f=rss",
-    "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：宋珂欣 “考税务局越来越‘卷’了。”近日，2027年国考报名正式启动，面对“动辄140分以上才可能进面试”的讨论，不少考生发出这样的感慨。 今年国考招录，“一税独大”的格局尤为明显。在全国招录总人数微降的背景下，税务系统计划招录24013人，占总人数的67.28%。也就是说，几乎每3个岗位中，就有2个属于税务系统。 时代周报记者梳理发现，在31个省份的税务局中，有13个省份的招录人数突破千人。 为什么多地税务部门用人需求攀升？哪些地方更缺人？ 13个省份招录人数破千 多地出现“一税独大”的情况并非偶然，而是国考编制资源明显倾斜的结果。中公教育研究院分析报告显示，除了税务与金融监管外，其余主要系统的招录规模均在收缩，资源正加速向经济财税类岗位集中。 虽然税务系统的“池子”很大，但竞争烈度丝毫不减。社交媒体上有考生发布的报考信息显示，截至发稿时（10月22日），江苏省某市税务局一岗位的报录比达612:1，即612人竞争1个招录名额。 对此，中公教育研究院总部专家李茜在接受时代周报记者采访时指出，税务系统是少有的“不限专业大类”大户，财会、法学、计算机等十几个大类都能报考，部分偏远岗位甚至“三不限”（不限专业、不限政治面貌、不限基层工作经历），让其成为绝大多数考生的首选。 招录大盘都在哪些地方出现明显倾斜？在13个招录人数破千的省份中，",
-    "publishedAt": "2026-10-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-47-1792750788000",
-    "title": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-    "link": "https://www.tmtpost.com/8178163.html",
-    "summary": "智元铺生态投上游谋上市，待市场验证成败。",
+    "id": "news--1792750877000",
+    "title": "三星、海力士升级中国工厂，长江存储改变了什么？",
+    "link": "https://www.tmtpost.com/8178504.html",
+    "summary": "中国对手崛起，韩国巨头为何仍要留守？",
     "publishedAt": "2026-10-23",
     "source": "钛媒体",
     "tags": [
@@ -945,4 +901,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-23T10:57:43.303Z';
+export const dataFetchedAt = '2026-10-23T16:23:50.638Z';
