@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-startups-don-8217-t-need-to-go-viral-to-win-customers-1792796865000",
-    "title": "Startups don&#8217;t need to go viral to win customers",
-    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-    "publishedAt": "2026-10-23",
+    "id": "news-these-clever-apps-show-off-the-iphone-duo-8217-s-potential-1792854000000",
+    "title": "These clever apps show off the iPhone Duo&#8217;s potential",
+    "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+    "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+    "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -54,31 +55,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-1792836486000",
-    "title": " 一位开发者让电视服用了Claude，这是它系统发生的变化 ",
-    "link": "https://www.huxiu.com/article/4900161.html?f=rss",
-    "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《一位开发者让电视服用了 Claude，这是它系统发生的变化》 曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者Gathin在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小米电视连打开Netflix前都要先看一段赞助广告。 于是，他把电视型号交给了编程助手Claude Code，让它通过Wi-Fi接入设备，一口气停用了25个系统组件，再写一个极简桌面——原来杂乱的主页，一下子就变得清爽起来。 他随后把这套prompt、桌面源码和踩坑记录开源到了GitHub，项目命名为CleanYourTV。 短短几天，项目迅速收获了约1.37万颗Star，「天下苦智能电视久矣」了属于是。在Reddit的相关讨论区中，挤满了追问自家机型能否适配的用户，不少人也陆续贴出自己改造后的极简首页。 图｜🔗github.com/Gathin23/cleanyourtv AI「接管」电视的",
+    "id": "news--1792854459000",
+    "title": " 力量、危险与秩序：人类交流的真正底色 ",
+    "link": "https://www.huxiu.com/article/4900204.html?f=rss",
+    "summary": "本文来自微信公众号： PsyCulture&Science ，作者：ScienceDaily 自20世纪50年代以来，科学界对词义的大部分理解都依赖于心理学家查尔斯·奥斯古德（Charles Osgood）等人通过开创性研究建立的框架。该框架被称为VAD模型，通过三个情绪维度来描述意义：效价（valence，积极与消极）、唤醒度（arousal，兴奋与平静）以及支配度（dominance，控制与顺从）。这一方法在心理学、语言学和人工智能领域产生了深远影响，尤其是在旨在识别书面语言情绪基调的系统中。 然而，佛蒙特大学（University of Vermont）的研究人员在分析了数十亿次词语使用后发现，意义的组织不仅围绕情绪展开，还与力量（power，弱小与强大）、危险（danger，安全与危险）和秩序（structure，有序与混乱）密切相关。这项发表在Science Advances上的研究引入了一种名为“本质度量学”（ousiometrics）的新方法，利用数学手段来测量语言的本质意义。 该研究最引人注目的发现是：人们所使用的词语表现出一种一致且普遍的倾向——偏好安全而非危险。这种隐性的“安全偏向”可能会改变研究人员研究语言、理解人类行为的方式，也会影响人工智能系统解读人类言论与文字的开发逻辑。 测量词语隐含意义的新工具 为了调查这些模式，研究人员开发了专门的分析方法，用于测量",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-deepseek-kimi-1792832280000",
-    "title": "Deepseek招天才，Kimi找老兵",
-    "link": "https://www.tmtpost.com/8180419.html",
-    "summary": "算力霸权与智力密度的双重较量。",
-    "publishedAt": "2026-10-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -94,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-says-it-will-no-longer-train-its-ai-models-on-the-liv-1792796749000",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "publishedAt": "2026-10-23",
+    "id": "news-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s--1792854000000",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,30 +122,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792836483000",
-    "title": " 深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子 ",
-    "link": "https://www.huxiu.com/article/4900160.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子》 2026年10月23日，股票代码000016正式从深交所消失。 康佳集团，这家1992年上市的“彩电第一股”，在走过34年之后黯然摘牌。四年累计亏损超200亿元，2025年末归母净资产已跌至-60.83亿元，到今年年中进一步扩大至-62.27亿元，资产负债率133%。今年1月以来，至少9名前高管因涉嫌严重违纪违法被纪委监委通报调查，其中包括原党委书记、董事局副主席周彬。 但康佳的故事不是一个简单的“企业失败”故事。它是一个关于“同一代人在同一个行业里，为什么走出了完全不同的命运”的故事。 把时间拉回2005年前后。那时候中国家庭的客厅里，摆着的电视品牌无非就是那么几个——康佳、TCL、海信、创维、长虹。它们都是从CRT时代杀出来的国产彩电巨头，面对的是同一块市场、同一批消费者、同一次技术迭代。 二十年后的今天，它们的命运已经天差地别。 2025年，它们各自交出了什么答卷 先看一组硬核数据。2025年中国电视市场零售量仅2763万台，创下近十年新低，较2016年巅峰的5000万台几乎腰斩。在这个不断缩小的池子里，每家企业的表现截然不同。 小米的账面最漂亮：集团全年营收4573亿元，经调整净利润392亿元——虽然电视收入没有单独披露，但国内19.2%的市占率稳居前三",
+    "id": "news--1792851024000",
+    "title": " 五轴机床被中国人搬上桌面？老外想买还得看资格 ",
+    "link": "https://www.huxiu.com/article/4900200.html?f=rss",
+    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 最近，一台中国团队研发的数控机床在海外众筹平台上火了。 这台叫做WM-100的机器上线Kickstarter 40分钟，筹款便突破100万美元；12小时后，数字涨到220万美元。这台机器并不便宜，想把它带回家，最低也要花费5899美元，折合人民币约4万元，但高价并没有挡住买家的热情。 类似的场景在这两年频繁出现。今年夏天，三款来自中国团队的桌面五轴机床先后登上Kickstarter：深圳无限工坊的K1、上海IFMAKER的M5，以及上海拓璞数控旗下TOPFAB的TF500。K1最终筹得超过3000万元人民币，M5众筹约105万美元，TF500上线12小时也突破了150万美元。 去年，北京团队造物时代推出桌面数控机床Z1，在Kickstarter募得约1024万美元。那一年，整个平台只有7个项目突破千万美元，其中两个来自桌面数控机床。 数控机床，听起来像是工厂里才会用到的笨重设备，大家花好几万块买它，到底想用来干些啥？ 01、一台“桌面玩具”， 竟然被出口管制了 咱先把这个工业风浓郁的名词拆开。 数控机床常被叫作CNC，这是Computer Numerical Control（计算机数字控制）的缩写。说得简单一点，它是一台听电脑指挥的自动雕刻机：用户把金属、木头或塑料固定进去，电脑规划好路线，刀具便按照坐标移动，一点点削去多余材料",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology"
-    ]
-  },
-  {
-    "id": "news-meta-1792832040000",
-    "title": "Meta迎来“分裂季”",
-    "link": "https://www.tmtpost.com/8180397.html",
-    "summary": "自由现金流上市以来首次转负。",
-    "publishedAt": "2026-10-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
     ]
   },
   {
@@ -174,11 +148,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-mic-1792792759000",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "publishedAt": "2026-10-23",
+    "id": "news-the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-ph-1792851300000",
+    "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+    "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+    "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+    "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,30 +188,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792835021000",
-    "title": " 综艺失火，殃及阿福？ ",
-    "link": "https://www.huxiu.com/article/4900159.html?f=rss",
-    "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 10月21日，蚂蚁阿福花钱冠名的《令人心动的offer8·医学生季》开播。 同一天，蚂蚁阿福向全球医生和医学生发出招聘邀请，希望更多医学专业人士加入，一起训练医疗AI。 这本来是一次挺漂亮的营销。 医学综艺自带流量，医生和医学生是主角，蚂蚁阿福又恰好需要医学人才。冠名、招聘、品牌宣传，三件事一起办了。 没想到，节目刚播出，医学圈先炸了。 一位拥有10篇SCI论文、参与过四级手术的博士生，在读片考核中说出“盲猜是颅咽管瘤”，还称写病历“只是套路，一天就能学会”。 另有选手提出愿意为经济困难的患者垫付医药费，也引来不少医务人员批评。 10月22日，《人民日报》发表评论，标题很直接：《临床不是秀场，医学容不得“盲猜”》。 随后，多家媒体跟进，医学界围绕节目专业性和真实性的讨论不断发酵。 蚂蚁阿福原本想借医学综艺拉近与医生的距离，没想到冠名的节目，反倒成了医生们集中吐槽的对象。 综艺失火，会不会殃及阿福？ 01 《令人心动的offer》不是第一次拍职场，但这次选择医学，显然低估了这个行业对专业性的敏感。 律师可以在综艺里唇枪舌剑，求职者可以在镜头前展示才华，但医生面对的毕竟是病人。 节目里，一名博士生发表过10篇SCI论文、参与过四级手术，这些履历足够亮眼。 可在医院，发表10篇论文，不等于能够独立处理10个病人。参与过四级手术，也不意味",
+    "id": "news-ai-1792850056000",
+    "title": " “黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？ ",
+    "link": "https://www.huxiu.com/article/4900198.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘，原文标题：《“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？》 在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完成的。OpenCode的联合创始人Dax Raas在X平台上表示，从10月16日开始，OpenCode就陷入了一场“不间断”的、由AI驱动的网络攻击。“该死的是，我们基本上需要全天候24小时不间断地安排人员值守，因为黑客们就是这么干的，”Raas称。 而显然，Parsons的遭遇绝非个例。近几周来，随着黑客大举启用AI智能体和自动化攻击工具，一场前所未有的网络风暴正席卷全球互联网。不少业内人士已将本月，形容为网络安全界的“黑色十月”。 全球70%网站拉响警报多国政府被迫“拔网线”",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1792831740000",
-    "title": "大厂减配员工福利，纷纷进入“纯过日子”时代？",
-    "link": "https://www.tmtpost.com/8180346.html",
-    "summary": "节流有上限，大厂仍要四处找钱。",
-    "publishedAt": "2026-10-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
       "ai"
     ]
   },
@@ -254,11 +214,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vcs-superhuman-mail-founder-share-red-flags-about-product-ma-1792789033000",
-    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-    "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-    "publishedAt": "2026-10-23",
+    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1792850400000",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -294,30 +254,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792834728000",
-    "title": " 巴西大选胶着，谁上台都绕不开的“对冲”难题 ",
-    "link": "https://www.huxiu.com/article/4900158.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：史派克特 10月25日，巴西大选将进行第二轮投票。首轮投票中，小博索纳罗以47.03%对卢拉45.16%意外领先，第二轮投票前，两人支持度各为50%，被媒体称为巴西“史上最胶着的大选”。 这场选举不仅决定拉美第一大经济体未来四年的内政外交走向，也牵动中美在拉丁美洲的战略平衡。在此背景下，圣保罗瓦加斯基金会国际关系学院院长马蒂亚斯·史派克特于10月15日做客人大重阳“全球名家”论坛，发表题为“中美竞争背景下巴西的对冲策略”的演讲。 史派克特从“对冲”概念切入，指出巴西面临安全上依赖美国、经济上深度合作中国的特殊格局，进而分析巴西大选中的两条外交路线。他强调，理解第三国如何对冲，不能只看中美博弈，还须深入其国内政治；中美合作或冲突的状态也会压缩或扩大巴西的回旋余地。 10月15日，马蒂亚斯·史派克特（Matias Spektor）在中国人民大学重阳金融研究院、全球领导力学院主办的区域国别论坛发表演讲。吴娜摄 马蒂亚斯·史派克特： 大家下午好！首先，请允许我向各位表示衷心的感谢，非常荣幸能够在这里发言，也非常期待和大家进行对话。 我坚信，在过去的五年中，中国已经成为非常强大的国家，这一观点在全球得到了认可。与此同时，全球范围内许多国家也在不断发展变化，尤其是“全球南方”国家。因此，我们希望思考这样一个问题：在中美竞争之下，这些国家如何进行对冲？印度",
+    "id": "news-11-1792849702000",
+    "title": " “二选一”被赶出了双11，但平台们还在海外重演旧戏 ",
+    "link": "https://www.huxiu.com/article/4900197.html?f=rss",
+    "summary": "本文来自微信公众号： 山农下山 ，作者：肖海格 PART01 在国内退场 多年之后再回看，2026年这届“双11”或许是国内电商的重要节点。 它似乎正在回撤到多年前的版本。从目前各家公布的促销规则来看，电商平台们都在强调单件直降、立减折扣和现货销售，消费者不必再通过复杂的凑单计算，才能知道一件商品究竟便宜了多少。经历多年促销玩法的迭代之后，电商平台开始重新审视价格的透明度和优惠的确定性。 这种回归背后有多重因素：消费结构巨变，用户对理解促销规则的耐心越来越有限；行业逐渐成熟，平台之间的竞争从粗放的流量争夺，转向对商品、服务和经营效率的比拼。 而曾经让无数商家闻风丧胆的“全网最低价”和“二选一”，也在国内监管环境的变化中，受到越来越多的束缚——它们的本质都是排他性交易，通过强制的价格优势或者站队，逼迫商家与某一家平台更紧密地绑定。 毫无疑问，这是违背多数商家意志的。 尤其是“二选一”。 对于电商卖家来说，多平台经营原本是分散风险、扩大销售的常见方式。一个平台卖得不好，还可以到另一个平台寻找机会。但当平台要求商家只能选择自己时，商家的经营渠道就可能受到限制，对单一平台的依赖也会进一步加深。 2010年前后，互联网行业已经出现了后来被广泛称为“二选一”的竞争争议。腾讯与360之间的冲突，让用户在不同软件之间选择站队；同年年底，京东与当当围绕图书价格展开竞争，京东曾指责当当向出版社施压、要",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1792831380000",
-    "title": "三安光电实控人被批捕，但股价却涨了？真正的雷埋在控股股东那张破产重整申请书上",
-    "link": "https://www.tmtpost.com/8179970.html",
-    "summary": "三安光电实控人被刑拘，核心风险在控股股东破产重整。",
-    "publishedAt": "2026-10-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
     ]
   },
   {
@@ -333,10 +279,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the--1792785794000",
-    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-    "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+    "id": "news-startups-don-8217-t-need-to-go-viral-to-win-customers-1792796865000",
+    "title": "Startups don&#8217;t need to go viral to win customers",
+    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -374,31 +320,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792834643000",
-    "title": " 欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？ ",
-    "link": "https://www.huxiu.com/article/4900157.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：程亚文 2026年，中国企业出海正面临前所未有的“双向夹击”。 在欧盟，继对中国电动汽车加征最高35.3%反补贴税后，欧盟依据《外国补贴条例》（FSR）对中国风电龙头金风科技启动深入调查，安检设备企业同遭波及。 在大西洋彼岸，美国国防部将比亚迪、蔚来、宁德时代等中国汽车产业链企业纳入1260H“中国军事企业清单”，实质性关闭了相关企业的政府采购通道。与此同时，美国商务部发布新指引，将先进AI芯片的出口许可要求延伸至中国企业的海外子公司，堵住了“绕道出海”获取高端技术的通道。 当外部限制层层加码，中国出海企业不再只是遭遇关税壁垒，而是面对一整套从贸易、技术到金融的系统性围堵。在此背景下，一个根本性问题浮现：中国在当下国际局势中，如何维护出海企业的利益，应该做一个领导者、参与者、架桥者还是旁观者？这个问题的答案，不仅关乎企业出海的成败，更关乎中国如何重新理解自身发展与全球共同发展的关系。 从“企业走出去”到“企业出海” 1979年8月，中国刚刚开始进入改革开放进程，为打破此前几乎没有对外直接投资的局面，中国政府出台的15项经济改革措施中，首次把“出国办企业”作为正式政策确立下来。 当时的政策制定人可能没有想到，40多年后，中国“企业出海”已成为引领全球经济发展和新型全球化的关键力量。数据显示，中国‌对外投资规模已稳居全球前列‌，2024年末存量达",
+    "id": "news--1792849584000",
+    "title": " 金饰便宜了，金店靠什么赚钱？ ",
+    "link": "https://www.huxiu.com/article/4900196.html?f=rss",
+    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 金价跌破4000美元/盎司，国内品牌金饰克价从年内高点1700元附近一路回落到1200元上下。老庙、周生生、周大福、老凤祥的足金饰品报价集中在1196元到1206元区间，一个月跌了约100元，相比高点最多跌超500元。 能不能抄底？金店库存怎么办？现在买金饰划算，还是买金条划算？ 搞懂这三个问题，我想，大概才能看清这轮金价下跌到底意味着什么。 在我看来，黄金消费的拐点已经来了，它的名字叫“黄金资产化”和“金饰去金融化”。投资保值功能从金饰里分离出去，流向了金条、金币、积存金和黄金ETF；金饰被迫回归消费属性，卖设计、卖工艺、卖文化、卖情绪。 金店如果还把金饰当“克重储蓄”卖，路会越走越窄，唯有把设计溢价、品牌溢价和投资金条服务做扎实，或许才有下一轮的入场券。 有几个数据要清楚，上半年金饰需求吨数跌到136吨，创2006年以来同期新低；消费金额却同比上涨5%，达到1440亿元，站上历史第二高位。 2025年金条和金币用量达到504吨，历史上第一次超过首饰的364吨；今年上半年首饰用金同比下降33.88%，金条金币同比增长28.42%，投资金规模已经是首饰金的2.5倍。 吨数在跌，金额在撑，投资金在涨，黄金消费的底层结构已经有了巨大变化。 1200元一克，真能抄底吗？ 金饰克价跌到1200元附近，确实比高点便宜了不少。 可“便宜”这个词",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-100-743mwh-1792831201000",
-    "title": "印度在电芯上卡死，系统上对对中国放行？ 蜂巢能源在印度100天跑通743MWh",
-    "link": "https://www.tmtpost.com/8179969.html",
-    "summary": "蜂巢能源借印度政策缝隙落地743MWh储能项目。",
-    "publishedAt": "2026-10-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
+      "technology"
     ]
   }
 ];
@@ -943,4 +874,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-24T10:13:14.769Z';
+export const dataFetchedAt = '2026-10-24T15:19:39.760Z';
