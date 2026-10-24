@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-25-auto",
+    "date": "2026-10-25",
+    "session": "auto",
+    "title": "2026-10-25 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-25-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+      },
+      {
+        "id": "sig-2026-10-25-auto-2",
+        "emoji": "⚠️",
+        "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "detail": "来源: TechCrunch。From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "id": "sig-2026-10-25-auto-3",
+        "emoji": "💡",
+        "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
+        "summary": "The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
+        "detail": "来源: HR Dive。The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/"
+      },
+      {
+        "id": "sig-2026-10-25-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Sensorimotor Alignment: A Platonic Proxy for Embodied Policy...",
+        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests",
+        "detail": "作者: Yunfei Xie, Howard H. Qian, Shiyi Lan。Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that $S^2$ correlates positively with downstream robot task success acro",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.31670v1"
+      },
+      {
+        "id": "sig-2026-10-25-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-25-1",
+        "priority": "medium",
+        "action": "关注「The Download: testing six tech promises 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-25-2",
+        "priority": "medium",
+        "action": "关注「The AI graveyard: a running list of proj」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-25-3",
+        "priority": "low",
+        "action": "关注「Ex-VP for NBA’s Brooklyn Nets claims he 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-25-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Sensorimotor Alignment: A Platonic 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-25-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 54,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-25 生成，聚合了 24 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-25 00:00 - 2026-10-25 23:59"
+  },
+  {
     "id": "report-2026-10-24-auto",
     "date": "2026-10-24",
     "session": "auto",

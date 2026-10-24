@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-these-clever-apps-show-off-the-iphone-duo-8217-s-potential-1792854000000",
-    "title": "These clever apps show off the iPhone Duo&#8217;s potential",
-    "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-    "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
@@ -55,18 +54,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792854459000",
-    "title": " 力量、危险与秩序：人类交流的真正底色 ",
-    "link": "https://www.huxiu.com/article/4900204.html?f=rss",
-    "summary": "本文来自微信公众号： PsyCulture&Science ，作者：ScienceDaily 自20世纪50年代以来，科学界对词义的大部分理解都依赖于心理学家查尔斯·奥斯古德（Charles Osgood）等人通过开创性研究建立的框架。该框架被称为VAD模型，通过三个情绪维度来描述意义：效价（valence，积极与消极）、唤醒度（arousal，兴奋与平静）以及支配度（dominance，控制与顺从）。这一方法在心理学、语言学和人工智能领域产生了深远影响，尤其是在旨在识别书面语言情绪基调的系统中。 然而，佛蒙特大学（University of Vermont）的研究人员在分析了数十亿次词语使用后发现，意义的组织不仅围绕情绪展开，还与力量（power，弱小与强大）、危险（danger，安全与危险）和秩序（structure，有序与混乱）密切相关。这项发表在Science Advances上的研究引入了一种名为“本质度量学”（ousiometrics）的新方法，利用数学手段来测量语言的本质意义。 该研究最引人注目的发现是：人们所使用的词语表现出一种一致且普遍的倾向——偏好安全而非危险。这种隐性的“安全偏向”可能会改变研究人员研究语言、理解人类行为的方式，也会影响人工智能系统解读人类言论与文字的开发逻辑。 测量词语隐含意义的新工具 为了调查这些模式，研究人员开发了专门的分析方法，用于测量",
+    "id": "news--1792863439000",
+    "title": " 品牌没有自嘲的资格 ",
+    "link": "https://www.huxiu.com/article/4900210.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 自嘲是弱者的武器 “老登”这个词流行起来的土壤，是年轻人面对上级、长辈、甲方时那种说不出口的憋屈。 开会时不能顶撞，饭桌上得敬酒，工作群里得回“收到”。然后在私聊窗口里，打出两个字：老登。 政治学家詹姆斯·斯科特在马来西亚农村做过长期田野调查，写成一本书，叫《弱者的武器》。 他发现，没有权力的人很少正面反抗。他们用的是磨洋工、装糊涂、背后起外号、讲讽刺笑话。这些小动作改变不了权力结构，但能让弱者在心里守住一块地盘：我服从你，但我不认同你。 “老登”就是这样一件武器。 它的全部力量，来自说话的人和被说的人之间的不对等。一个实习生在背后叫领导“老登”，是冒险，是发泄，也是一点点尊严。 现在把这个词放进另一个场景：一家上市公司，在自己的官方发布会上，对着全网直播，用它来定义一种审美、一类人群。 同一个词，方向反过来了。它成了一个手握预算、渠道和话筒的机构，借用下面人的口吻，给一部分消费者贴标签。 文化研究里有个说法叫“收编”：亚文化的符号被主流商业吸纳，剥掉反抗的内核，变成一种可以出售的风格。 朋克身上的别针最后走上了时装周，就是这个过程。小鹏这次又往前走了一步。它不只是收编了一个词，而是拿起弱者的武器，指向了别人。 一个词从工位传到发布会，就从反抗变成了收编。 伪自嘲：以自嘲为外衣的他嘲 有一层看起来成立的逻辑：我们骂的是自己的老板，这不",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai",
-      "organization"
+      "technology"
     ]
   },
   {
@@ -82,10 +79,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s--1792854000000",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+    "summary": "Instacart might sell itself to a larger competitor.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -122,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792851024000",
-    "title": " 五轴机床被中国人搬上桌面？老外想买还得看资格 ",
-    "link": "https://www.huxiu.com/article/4900200.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 最近，一台中国团队研发的数控机床在海外众筹平台上火了。 这台叫做WM-100的机器上线Kickstarter 40分钟，筹款便突破100万美元；12小时后，数字涨到220万美元。这台机器并不便宜，想把它带回家，最低也要花费5899美元，折合人民币约4万元，但高价并没有挡住买家的热情。 类似的场景在这两年频繁出现。今年夏天，三款来自中国团队的桌面五轴机床先后登上Kickstarter：深圳无限工坊的K1、上海IFMAKER的M5，以及上海拓璞数控旗下TOPFAB的TF500。K1最终筹得超过3000万元人民币，M5众筹约105万美元，TF500上线12小时也突破了150万美元。 去年，北京团队造物时代推出桌面数控机床Z1，在Kickstarter募得约1024万美元。那一年，整个平台只有7个项目突破千万美元，其中两个来自桌面数控机床。 数控机床，听起来像是工厂里才会用到的笨重设备，大家花好几万块买它，到底想用来干些啥？ 01、一台“桌面玩具”， 竟然被出口管制了 咱先把这个工业风浓郁的名词拆开。 数控机床常被叫作CNC，这是Computer Numerical Control（计算机数字控制）的缩写。说得简单一点，它是一台听电脑指挥的自动雕刻机：用户把金属、木头或塑料固定进去，电脑规划好路线，刀具便按照坐标移动，一点点削去多余材料",
+    "id": "news--1792862110000",
+    "title": " 一句“老登”撕开假象：品牌伪年轻化，总在冒犯付费主力 ",
+    "link": "https://www.huxiu.com/article/4900209.html?f=rss",
+    "summary": "本文来自微信公众号： 镁联社 ，作者：镁联社 一场本该用来讲产品、抢订单的新车发布会，最后栽在一句轻飘飘的圈层黑话里。 小鹏MONA L05发布会上，一名00后产品经理临场抛出“老登怎么会懂年轻人想要什么”。事发之后，道歉、解释接踵而至：这只是内部吐槽管理层保守的玩笑，本意针对固化的设计思路，并非面向消费者。 但公共传播没有自带注释，也不接受“我不是那个意思”的事后补证。 一句圈内自嘲，脱离封闭会议室，扔进全网直播的公域流量池，语义立刻失控。这件事最刺眼的讽刺就摆在眼前：车企拼尽全力做年轻化、追Z世代流量，却当众用年龄标签，刺伤了汽车市场真正掏钱买单的底盘——35–50岁的中年人。 小鹏这次翻车，根本不是孤立的口误事故，而是国内消费行业盛行多年的伪年轻化病，一次集中的、赤裸裸的暴露。很多品牌早已把制造代际对立当成流量捷径，把圈层玩梗等同于创新，在追逐热度的路上，持续消耗核心用户的耐心与信任。 一、一句口误的传播陷阱：私域梗，没有资格登上公域舞台 在小团队脑暴、同圈层社群里，“老登”这类词，是熟人之间用来吐槽思路僵化、审美落后的戏谑表达，圈内人彼此知根知底，一笑而过。 可发布会是什么场合？是面向潜在买家、行业媒体、全年龄网民的商业宣讲台，不是年轻人关起门聊天的私聊框。 年轻创作者很容易陷入一个盲区：默认所有人都和自己共享同一套语境。他们觉得只是一句吐槽思路保守的玩笑，却看不见屏幕另一",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-ph-1792851300000",
-    "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-    "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-    "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+    "id": "news-block-8217-s-new-voice-model-sounds-eerily-human-1792857600000",
+    "title": "Block&#8217;s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -188,17 +185,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792850056000",
-    "title": " “黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？ ",
-    "link": "https://www.huxiu.com/article/4900198.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘，原文标题：《“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？》 在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完成的。OpenCode的联合创始人Dax Raas在X平台上表示，从10月16日开始，OpenCode就陷入了一场“不间断”的、由AI驱动的网络攻击。“该死的是，我们基本上需要全天候24小时不间断地安排人员值守，因为黑客们就是这么干的，”Raas称。 而显然，Parsons的遭遇绝非个例。近几周来，随着黑客大举启用AI智能体和自动化攻击工具，一场前所未有的网络风暴正席卷全球互联网。不少业内人士已将本月，形容为网络安全界的“黑色十月”。 全球70%网站拉响警报多国政府被迫“拔网线”",
+    "id": "news--1792858618000",
+    "title": " 长鑫的千亿利润里，藏着第一个拐点 ",
+    "link": "https://www.huxiu.com/article/4900208.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 一 10月16日晚，长鑫科技发布前三季度业绩预告：营收约2650亿至2700亿元，归母净利润约1310亿至1325亿元。去年同期，这家公司还亏损52.8亿元。 这确实是个历史性的数字：一家三年前还在巨亏的国产DRAM厂商，九个月赚出了超过1300亿元。 但如果把三季度单独拿出来看，会发现一组不太对劲的数字：三季度营收比二季度多了约152亿至202亿元，归母净利润只多了约5.5亿至20.5亿元。 换句话说，每多卖100元，只多赚了4到10元。而就在上一个季度，这家公司的归母净利率还是53%。 存储芯片是典型的重资产、高固定成本行业。厂房和设备的折旧基本是固定的，多卖出去的每一颗芯片，大部分都直接变成利润。所以在涨价周期里，存储厂商的利润增速总是远远跑赢营收增速。 长鑫三季度恰好相反：多卖的钱，几乎没有变成利润。 预告只给了三季度的区间。把它和招股书披露的一季度数据、半年报数据放在一起，季度走势才完整： 这张表说明了一件事：利润率在二季度见顶了。 二季度营收增长96%、归母净利增长113%，利润跑赢营收，这是经营杠杆正常起作用的样子。三季度营收仍增长15%以上，归母净利却几乎持平，归母净利率从53.1%回落到46%左右，掉了约7个百分点。 这是本轮周期里，长鑫第一次出现营收还在涨、利润率却在掉的情况。 二 对于利润增速回落，目前流行的解释",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -214,76 +210,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1792850400000",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "id": "news-php-ocalypse-how-two-critical-web-bugs-almost-broke-the-inte-1792855800000",
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+    "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
     "publishedAt": "2026-10-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-job-seekers-say-they-re-still-being-ghosted-even-as-they-re--1792786740000",
-    "title": "Job seekers say they’re still being ghosted — even as they’re trying harder to get noticed",
-    "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
-    "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
-    "publishedAt": "2026-10-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-xing4-0-29b-intent-1792653074000",
-    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-    "link": "https://www.qbitai.com/2026/10/504832.html",
-    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-    "publishedAt": "2026-10-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-11-1792849702000",
-    "title": " “二选一”被赶出了双11，但平台们还在海外重演旧戏 ",
-    "link": "https://www.huxiu.com/article/4900197.html?f=rss",
-    "summary": "本文来自微信公众号： 山农下山 ，作者：肖海格 PART01 在国内退场 多年之后再回看，2026年这届“双11”或许是国内电商的重要节点。 它似乎正在回撤到多年前的版本。从目前各家公布的促销规则来看，电商平台们都在强调单件直降、立减折扣和现货销售，消费者不必再通过复杂的凑单计算，才能知道一件商品究竟便宜了多少。经历多年促销玩法的迭代之后，电商平台开始重新审视价格的透明度和优惠的确定性。 这种回归背后有多重因素：消费结构巨变，用户对理解促销规则的耐心越来越有限；行业逐渐成熟，平台之间的竞争从粗放的流量争夺，转向对商品、服务和经营效率的比拼。 而曾经让无数商家闻风丧胆的“全网最低价”和“二选一”，也在国内监管环境的变化中，受到越来越多的束缚——它们的本质都是排他性交易，通过强制的价格优势或者站队，逼迫商家与某一家平台更紧密地绑定。 毫无疑问，这是违背多数商家意志的。 尤其是“二选一”。 对于电商卖家来说，多平台经营原本是分散风险、扩大销售的常见方式。一个平台卖得不好，还可以到另一个平台寻找机会。但当平台要求商家只能选择自己时，商家的经营渠道就可能受到限制，对单一平台的依赖也会进一步加深。 2010年前后，互联网行业已经出现了后来被广泛称为“二选一”的竞争争议。腾讯与360之间的冲突，让用户在不同软件之间选择站队；同年年底，京东与当当围绕图书价格展开竞争，京东曾指责当当向出版社施压、要",
-    "publishedAt": "2026-10-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-startups-don-8217-t-need-to-go-viral-to-win-customers-1792796865000",
-    "title": "Startups don&#8217;t need to go viral to win customers",
-    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-    "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -307,10 +238,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1792652759000",
-    "title": "谁在给OpenAI供应具身数据？",
-    "link": "https://www.qbitai.com/2026/10/504800.html",
-    "summary": "挤进全球Physical AI核心供应链",
+    "id": "news-xing4-0-29b-intent-1792653074000",
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "link": "https://www.qbitai.com/2026/10/504832.html",
+    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
     "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
@@ -320,15 +251,68 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792849584000",
-    "title": " 金饰便宜了，金店靠什么赚钱？ ",
-    "link": "https://www.huxiu.com/article/4900196.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 金价跌破4000美元/盎司，国内品牌金饰克价从年内高点1700元附近一路回落到1200元上下。老庙、周生生、周大福、老凤祥的足金饰品报价集中在1196元到1206元区间，一个月跌了约100元，相比高点最多跌超500元。 能不能抄底？金店库存怎么办？现在买金饰划算，还是买金条划算？ 搞懂这三个问题，我想，大概才能看清这轮金价下跌到底意味着什么。 在我看来，黄金消费的拐点已经来了，它的名字叫“黄金资产化”和“金饰去金融化”。投资保值功能从金饰里分离出去，流向了金条、金币、积存金和黄金ETF；金饰被迫回归消费属性，卖设计、卖工艺、卖文化、卖情绪。 金店如果还把金饰当“克重储蓄”卖，路会越走越窄，唯有把设计溢价、品牌溢价和投资金条服务做扎实，或许才有下一轮的入场券。 有几个数据要清楚，上半年金饰需求吨数跌到136吨，创2006年以来同期新低；消费金额却同比上涨5%，达到1440亿元，站上历史第二高位。 2025年金条和金币用量达到504吨，历史上第一次超过首饰的364吨；今年上半年首饰用金同比下降33.88%，金条金币同比增长28.42%，投资金规模已经是首饰金的2.5倍。 吨数在跌，金额在撑，投资金在涨，黄金消费的底层结构已经有了巨大变化。 1200元一克，真能抄底吗？ 金饰克价跌到1200元附近，确实比高点便宜了不少。 可“便宜”这个词",
+    "id": "news--1792858067000",
+    "title": " 意大利：比江苏还散装的“美食王国” ",
+    "link": "https://www.huxiu.com/article/4900207.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 你以为的意大利传统，其实没那么传统； 你以为的正宗，也未必比你家楼下的好吃。 开篇 夏日的罗马，阳光毫不客气。中午十二点半，梵蒂冈圣彼得广场外的游人队伍仍在缓缓挪动。广场四周被贝尼尼的柱廊和梵蒂冈的高墙圈着，一家食肆也没有；要填饱那些刚从西斯廷礼拜堂出来、又渴又饿的肚子，得往东拐进几百米外的博尔戈老城。 那一条条窄巷里，餐馆早已支起遮阳伞，每家门口的小黑板几乎一个模子刻出来——粉笔写下的“今日推荐”里，培根蛋酱意面（Carbonara Pasta）从来不会缺席。这道被全世界供奉为“意大利灵魂”的招牌，被旅游指南、米其林评委、油管美食博主反复称为”本地罗马传统”。 但你随便拉一个上了年纪的罗马人聊几句，问他奶奶有没有教他做培根蛋酱意面，大概率会得到一个不置可否的憨笑——因为这道菜，几乎和新中国同龄。 1944年盟军解放罗马，驻扎下来的美军军需里有大量培根和鸡蛋粉，意大利人把它们和当地手工面拼在一起，才有了培根蛋酱意面的雏形。而它第一次被白纸黑字写进食谱，已是1952年；更扎心的是，头一回郑重记下它的还不是意大利人，而是大洋彼岸芝加哥的一本餐厅指南。要等到1954年，它才头一回出现在意大利本土的刊物上。 如果这条已经让你大脑宕机，后面三条会把你的“美食记忆”直接格式化： 番茄称霸，不过两百年：今天被当成意大利菜灵魂的番茄，真正在当地厨房里",
     "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+    "publishedAt": "2026-10-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-these-clever-apps-show-off-the-iphone-duo-8217-s-potential-1792854000000",
+    "title": "These clever apps show off the iPhone Duo&#8217;s potential",
+    "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+    "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+    "publishedAt": "2026-10-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
+    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
+    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
+    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
+    "publishedAt": "2026-10-22",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-openai-1792652759000",
+    "title": "谁在给OpenAI供应具身数据？",
+    "link": "https://www.qbitai.com/2026/10/504800.html",
+    "summary": "挤进全球Physical AI核心供应链",
+    "publishedAt": "2026-10-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
       "technology"
     ]
   }
@@ -874,4 +858,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-24T15:19:39.760Z';
+export const dataFetchedAt = '2026-10-24T20:09:01.470Z';
