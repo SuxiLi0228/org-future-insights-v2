@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the--1792785794000",
-    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-    "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+    "id": "news-startups-don-8217-t-need-to-go-viral-to-win-customers-1792796865000",
+    "title": "Startups don&#8217;t need to go viral to win customers",
+    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792771633000",
-    "title": " “生软”之死 ",
-    "link": "https://www.huxiu.com/article/4900064.html?f=rss",
-    "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 这次真不怪EA 2026年10月21日，EA宣布关闭旗下游戏工作室BioWare，同时取消仍处于早期开发阶段的下一部《质量效应》。 根据彭博社报道，这是EA新一轮裁员计划的一部分，涉及约400个岗位，其中包括BioWare最后剩余的约50名员工。曾经创造《博德之门》、《无冬之夜》、《星球大战：旧共和国武士》、《龙腾世纪》和《质量效应》的加拿大工作室，在成立31年后正式走到了终点。 EA发布未来战略公告中提到：“由于我们专注于这些更大的发展机遇，BioWare的一个小型团队一直在进行《质量效应》的早期开发工作。我们决定不再推进该项目，这意味着我们将关闭工作室以及位于埃德蒙顿的工作空间。BioWare是一家传奇工作室，曾为角色扮演游戏类型做出过重要贡献，我们做出这个决定实属无奈。” 至于原因，公告的开头其实也予以了说明，关闭BioWare是公司整体战略调整和资源重新分配的一部分。EA认为，传统欧美3A游戏市场竞争日益激烈，未来的增长机会正向核心IP、成熟玩家社群、新兴市场及体育互动业务转移。 因此，公司决定收缩非核心项目，将资金、技术和人才集中投入更具增长潜力的业务，同时精简组织、提高决策效率。在这一背景下，开发周期漫长、近年来商业表现持续不及预期的BioWare，已经难以证明继续获得大规模投资的必要性。最终关闭工作室，可以",
-    "publishedAt": "2026-10-23",
+    "id": "news--1792810597000",
+    "title": " 小鹏终于有“登味”产品经理 ",
+    "link": "https://www.huxiu.com/article/4900098.html?f=rss",
+    "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 昨天，我发现之前阅读量一直不温不火的上一篇文章小鹏没有产品经理，突然间阅读量暴增了。 我上网一看，原来是小鹏的产品经理因为在发布会上多次提到“老登”、呼吁拒绝“登味审美”，上热搜了。 这就有意思了。 上一篇文章，我批评小鹏缺少真正拥有产品决策权的人。这一次，一位年轻的产品经理站到了台前，结果引发争议的，不是她做出了什么让人眼前一亮的产品，而是她用什么样的眼光看待用户。 我甚至觉得，这两件事背后，藏着同一个问题：小鹏的产品思维，到底有没有真正从“我觉得”走向“用户需要”？ 10月15日，小鹏MONA L05预售发布会上，00后产品经理恩塔多次使用“老登”一词，并呼吁拒绝“登味审美”。10月22日，她发布视频道歉，解释说这个词在团队内部经常被用来开玩笑，自己想批评的是车企沿用同一套思维和设计语言的固化问题，并非针对年龄。 做一个产品经理，我觉她可能确实有这样的初衷。 汽车行业需要年轻人，需要新的审美，也需要有人挑战那些一成不变的设计套路。问题是，一个想打破行业固化思维的产品经理，为什么会先用一个标签给人群分类？ 这才是我真正想讨论的。 你可以不懂老登，但你得懂用户 上一篇文章，我写小鹏没有产品经理，讨论的是G9L这类车型暴露出的产品定义问题。 小鹏的技术实力不弱。双腔空悬、CDC、后轮转向、高阶智驾，这些配置都能拿得出手。但一台车配置再",
+    "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,17 +67,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792762383000",
-    "title": "苏泊尔“中年危机”未解除，前三季度盈利续降｜看财报",
-    "link": "https://www.tmtpost.com/8179848.html",
-    "summary": "同行日子也不好过。",
-    "publishedAt": "2026-10-23",
+    "id": "news-a-sabotaged-model-run-a-fired-intern-and-a-30-million-second-1792810384000",
+    "title": "A Sabotaged Model Run, a Fired Intern, and a $30 Million Second Act",
+    "link": "https://www.tmtpost.com/8180275.html",
+    "summary": "In 2024, a ByteDance video-model team lost months to failures that looked like physics breaking. Engineers later traced the chaos to hidden code linked to a rival intern. He was dismissed and sued. Two years on, after raising nearly $30 million, he called the episode rough justice—and the argument reignited.",
+    "publishedAt": "2026-10-24",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -93,17 +94,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-carta-and-newview-partner-hoping-to-entice-more-startups-to--1792783513000",
-    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-    "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+    "id": "news-openai-says-it-will-no-longer-train-its-ai-models-on-the-liv-1792796749000",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -134,24 +134,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-ip-1792771411000",
-    "title": " 2026谷圈“IP啃老”：棋魂、守护甜心等快闪翻红 ",
-    "link": "https://www.huxiu.com/article/4900062.html?f=rss",
-    "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 稍微有点年纪的二次元，今年最高频的感叹词可能是“今昔何夕”。 “竟然在展位上看到了《幽游白书》和《圣斗士星矢》，今年是2026还是2006？”8月的IAGF国际动漫周边交流展刚结束，10月的CLE中国授权展再次让网上的“老二次元”感到年轻了十几岁。 近两年的行业展台，最显眼的位置不再被近一两年的当季新番全面占据，取而代之的是一群“老面孔”：《棋魂》、《梦色糕点师》、《轻音少女》，其中最热闹的应该是《守护甜心》。 2024年，广东领之睿文化娱乐有限公司签下《守护甜心》在中国的商品化授权，并快速开展了一系列商业化落地：根据粉丝统计，近两年《守护甜心》与两位数以上的“国谷”展开了联动，觅星社、模玩熊、歪瓜出品、GuGuGuGu、南漫社、气球暖暖星等略有规模的谷子厂牌都加入了这场热潮。 投入最大的则是得力文具，根据官方披露，第一轮快闪在端午假期进店客流超过10万人次，而第二轮快闪扩展至北上杭广四城，热度仍然不减。 在二次元消费的传统逻辑里，衍生品的繁荣通常依附于内容生态的供给。要么是当季动画、院线新作热播引发的流量爆发，要么是原作逢十周年的官方大企划联动。 但今年这股老IP的翻红潮，特殊之处正在于它的“凭空出现”。特例《守护甜心》虽然在2024年推出了续篇漫画《守护甜心Jewel Joker》，但在国内并没有引发太多出圈的讨论，领之睿",
-    "publishedAt": "2026-10-23",
+    "id": "news-ai-muse-grok-bot-instinct-1792810563000",
+    "title": " AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题 ",
+    "link": "https://www.huxiu.com/article/4900097.html?f=rss",
+    "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101 10月21日，Anthropic发布Claude Duet，加入个人AI助理的竞争。还有此前Meta推出了Muse，SpaceX旗下的Grok Bot想打造一支数字同事团队，OpenAI也宣布了自己的助理Dots，Instinct则把私人助理放进苹果iMessage，成立仅一年，就以100亿美元估值完成了10亿美元的C轮融资。 在国内，Manus上线2.0版本，腾讯的WorkBuddy也从整理资料、处理表格切入办公场景，还有千问、豆包也都推出agent产品。 AI助理正在接手过去需要人亲自完成的一整串任务，比如订机票、酒店，或者在二手平台发帖、定价，和买家讨价还价，甚至预约取件。 随着Agent开始干活，也带来了新的算力需求。它们在云端的虚拟电脑里打开浏览器、运行程序、处理文件，都需要CPU、内存和存储支撑，AMD和英特尔的股价，也在过去这个月水涨船高。 但更多任务、更多算力，并不自动等于更多利润，这背后的生意，并不好做。这期内容，我们采访了包括Grok Bot设计师在内的几位Agent从业者，来回答下为什么大厂和创业公司都在抢着做AI助理？他们争夺的入口，最后又能不能成为一门赚钱的生意？ 本文为视频改写，欢迎大家收看以下视频 如果年初你也折腾过OpenClaw，看到这些Agent的用法，可能会觉得很熟悉：这些事情，“小龙虾”不",
+    "publishedAt": "2026-10-24",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-1-2-2500-1792752425000",
-    "title": "波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报",
-    "link": "https://www.tmtpost.com/8179495.html",
-    "summary": "比音勒芬集团前三季度营收突破40亿元；优衣库推出LifeWear「经典之选」系列。",
-    "publishedAt": "2026-10-23",
+    "id": "news--1792809000000",
+    "title": "走访一线商场，我发现了三大消费趋势",
+    "link": "https://www.tmtpost.com/8179951.html",
+    "summary": "深处的潮水已经转向。",
+    "publishedAt": "2026-10-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,17 +175,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-from-toast-to-bessemer-who-founders-will-hear-from-at-techcr-1792782383000",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "id": "news-hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-mic-1792792759000",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -215,11 +215,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1792751432000",
-    "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
-    "link": "https://www.tmtpost.com/8179406.html",
-    "summary": "从漏洞被找到，到它被大规模利用，中间只剩几个小时。",
-    "publishedAt": "2026-10-23",
+    "id": "news--1792810138000",
+    "title": " “战争机器”运转不停，“必有一战”流量沸腾：为什么和平成了时代奢侈品？ ",
+    "link": "https://www.huxiu.com/article/4900096.html?f=rss",
+    "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 泽连斯基关于以保留75%领土谋求停战的新闻冲上热搜，很多人看到消息，心里生出一丝期待，以为持续已久的俄乌战火终于要看到落幕的曙光。 可读完赵建在西京研习社发表的《赵建：战争为何迟迟结束不了？》这篇文章，心里猛地又是一凉。 与此同时波斯湾局势骤然绷紧，油价快速上行，美股、美债同步震荡。不少投资者都在担忧，海外市场的波动，下周一就会传导回来，冲击上周五好不容易迎来反弹的A股。 这就是最现实的一课：炮火远在千里之外，但战争没有国界，没有人可以真正置身事外。 俄乌冲突推高欧洲的能源成本，压缩当地消费，连带我们对欧外贸出口承压；中东一点风吹草动，能源、物流、化工全链条成本抬升。 远方的硝烟，顺着全球化的能源、贸易、金融网络，落到每一个普通人的钱包、工作和生活里。 可讽刺的是，明明所有人都在被动承受地缘冲突带来的代价，刷短视频、逛评论区的时候，却总能看见一声声铿锵的叫嚣：“必有一战”。 细读赵建那篇文章，里面有一句话非常令人震撼：今天的战争，已经不是古代的“耗尽型灾难”，而是丰裕时代消化过剩产能的一种产业。 古时候打仗很简单，粮仓耗空、壮丁死伤殆尽、财政彻底崩盘，统治者就不得不签下和约，战争就此终止。 但现在的逻辑完全变了。AI、无人机、信用货币、全球灰色供应链、源源不断的军工订单、服务动员的选举与民族叙事，一整套体系把战争稳稳托",
+    "publishedAt": "2026-10-24",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792808400000",
+    "title": "降价换不来增长，沃尔沃在中国卖不动了",
+    "link": "https://www.tmtpost.com/8179937.html",
+    "summary": "大中华区新帅开局不利。",
+    "publishedAt": "2026-10-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -241,10 +255,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firs-1792772789000",
-    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+    "id": "news-vcs-superhuman-mail-founder-share-red-flags-about-product-ma-1792789033000",
+    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -281,11 +295,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tvb-1792750884000",
-    "title": "把宫斗剧鼻祖翻出来，TVB还在坚持手搓短剧",
-    "link": "https://www.tmtpost.com/8179383.html",
-    "summary": "ITVB“北上”仍在闯关。",
-    "publishedAt": "2026-10-23",
+    "id": "news-ai-1792809778000",
+    "title": " 打工人，开始“表演”AI提效 ",
+    "link": "https://www.huxiu.com/article/4900095.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，编辑：王汉星，作者：定焦One团队 不会用AI不要紧，别让老板觉得你不会。 定焦One（dingjiaoone）原创 2026年还剩两个多月，大厂打工人也马上要熬过被AI支配的一年。 年初，黄仁勋的一句“如果一名年薪50万美元的工程师，一年的Token消耗不到25万美元，会令我深感不安”，带起Tokenmaxxing浪潮，所有人都在用AI，都在烧Token，似乎Token用得少了，工作就没做到位。 到了6月，大厂发现Token有点烧不起了，又开始转而关注AI使用的回报率，这不仅没有降低大厂员工的AI FOMO（错失恐惧）情绪，反而让员工更难通过使用AI来“取悦”老板，他们要证明AI正在帮助自己的工作提效，交付的内容一定要有AI含量，还要证明自己消耗的每一个Token都在产生价值。 对于一部分大厂员工来说，AI能否真的提效是其次，更要紧的是要向团队和管理者展示“我已经在用了”。因为对他们而言，不会用AI不要紧，重要的是不要让老板觉得你不会。 为此，他们有人把“让AI把老板半小时的会议录音转成文字”写成“搭建语音信息结构化流程”，还被评为AI应用的优秀案例；有人专门找一些不重要的工作场景，做成Skill，再包装成一个听起来很厉害的名字给老板看；还有大厂PM（产品经理）用AI去干RD（研发工程师）的活儿，干完之后还要找RD同事重新再改一遍。 这种现象如",
+    "publishedAt": "2026-10-24",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792808040000",
+    "title": "泡泡玛特六连跌，“亏麻了”的段永平仍想加仓",
+    "link": "https://www.tmtpost.com/8179790.html",
+    "summary": "顶流潮玩公司泡泡玛特，近期在资本市场上频遭“冷眼”。",
+    "publishedAt": "2026-10-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -307,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-commonwealth-fusion-systems-gets-85m-to-build-better-fusion--1792772428000",
-    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-    "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+    "id": "news-techcrunch-founder-summit-2026-roundtables-go-deeper-on-the--1792785794000",
+    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
     "publishedAt": "2026-10-23",
     "source": "TechCrunch",
     "tags": [
@@ -348,11 +376,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792750877000",
-    "title": "三星、海力士升级中国工厂，长江存储改变了什么？",
-    "link": "https://www.tmtpost.com/8178504.html",
-    "summary": "中国对手崛起，韩国巨头为何仍要留守？",
-    "publishedAt": "2026-10-23",
+    "id": "news-q3-1792809679000",
+    "title": " 寒武纪Q3：利润翻倍，市值降温 ",
+    "link": "https://www.huxiu.com/article/4900094.html?f=rss",
+    "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 前三季度赚了37亿，但万亿市值已成往事。 AIX财经（AIXcaijing）原创 寒武纪刚刚交出的三季报，单看利润，表现足够亮眼。 前三季度，公司营收95.3亿元，归母净利润37.2亿元。只看Q3单季，35.3亿元的收入同比翻倍；14亿元的归母净利润更是同比增长147.7%，利润增速明显快于收入增速。 但市场当下的焦点是，股权激励的营收目标完成得怎么样了？ 今年7月底，寒武纪抛出一份覆盖近千名员工、拟授予500万股、占公司总股本0.80%的股权激励计划，授予价750元/股。公司层面的核心门槛是营收：2026年135亿元，2026至2027年累计405亿元，2026至2028年累计1000亿元。 寒武纪前三季度的进度达到70.6%，Q4需要完成近40亿元收入，比刚创下历史新高的Q3再多出4.4个亿，环比再增长12.54%。如果只看今年，这个目标谈不上遥不可及。 真正的考验是两个更长期的考核目标，如果2026年完成135亿元，2027年要再交出270亿元，2028年则要达到595亿元。 三季报披露前的最后一个交易日，寒武纪收盘价为932.2元，对应总市值5862亿元。三个多月前，它的市值一度突破1万亿元。从高点算起，市值已经回撤超过四成，市场开始重新给它定价。两年前，市场关注的是何时扭亏，现在，盈亏平衡早已不是悬念，",
+    "publishedAt": "2026-10-24",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792807560000",
+    "title": "国产具身智能出海开启“减重计划”",
+    "link": "https://www.tmtpost.com/8179676.html",
+    "summary": "出口爆单，售后拖垮。",
+    "publishedAt": "2026-10-24",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -724,7 +766,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
     "postedAt": "2026-10-17",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137531",
@@ -903,4 +945,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-23T20:56:10.887Z';
+export const dataFetchedAt = '2026-10-24T03:07:16.022Z';
