@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-starlink-seems-to-be-working-normally-again-in-ukraine-1792874794000",
-    "title": "Starlink seems to be working normally again in Ukraine",
-    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-    "publishedAt": "2026-10-24",
+    "id": "news-the-hottest-ai-wearables-and-gadgets-you-should-know-about-1792937400000",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "publishedAt": "2026-10-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-taas-token-1792747301000",
-    "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-    "link": "https://www.qbitai.com/2026/10/505083.html",
-    "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+    "id": "news-2026-10-ai-1792740951000",
+    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "link": "https://www.qbitai.com/2026/10/504901.html",
+    "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
     "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
@@ -54,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792923749000",
-    "title": " 中期选举与AI泡沫 ",
-    "link": "https://www.huxiu.com/article/4900285.html?f=rss",
-    "summary": "本文来自微信公众号： 小鲜传 ，作者：丁昶 现在是2026年9月。2026年11月，美国就将举行中期选举。这次选举很不一般。有诸多迹象表明，它很有可能成为近年美国政治风向转变的标志。更进一步地说，它将为AI泡沫的破灭提供时间窗口，并且由此最终影响到世界格局的变迁。 也许有人会说：判断下得这么大，会不会言过其实？坦白地说，确实有这个风险。毕竟凯恩斯说过：泡沫持续的时间总能超出你的想象。因此本文只求尽量做到有理有据，逻辑自洽。至于是非对错，就留给历史去评判吧。 历史的巧合 三个月后的那场选举，形势已经比较明朗了。媒体、券商甚至博彩机构都基本达成了共识。民主党控制众议院多数的可能性接近100%，控制参议院多数的可能性接近80%。而目前的状态是共和党同时控制白宫和参众两院。 与这个预期相同的状态，历史上一共出现过3次，分别是1986年，2006年和2018年。这三个年份都不简单。 1986年，时任总统是共和党的里根，中期选举被民主党翻盘之后，1987年发生了著名的股灾。道琼斯指数和标普500指数都在一天之内下跌了20%以上。 2006年，时任总统是共和党的布什，中期选举被民主党翻盘之后，2008年暴发了震惊世界的次贷危机，后来演化为全球金融危机。 2018年，时任总统是共和党的特朗普，中期选举被民主党翻盘之后，2020年遭遇新冠危机。美股在不到一个月内融断4次，累计下跌约35%。 当然，新",
+    "id": "news--1792940541000",
+    "title": " 对手不是盟友，街区才是 ",
+    "link": "https://www.huxiu.com/article/4900323.html?f=rss",
+    "summary": "本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 下午去宜家，本意是换张软点的床垫。先在餐厅吃了饭：蛋糕、牛排、羊肉串、一只虾、一碗汤，119元。 这和我心里\"宜家食堂便宜\"的印象有落差。走进去才发现，它的动线完全是食堂逻辑——拿托盘、沿单向通道走、看见什么拿什么、末端统一结账，更像大学食堂或美食广场，而不是坐下来等餐的意式餐厅。 真正撑住\"低价心智\"的，从来不是正餐，而是门口那只被反复提及的蛋筒和热狗。它们是价格锚点，不是餐饮产品。正餐按行业标准定价，锚点单品则承担\"这里很便宜\"的心智补贴。 往下挖一层会更有意思：一家家具店，为什么要把大量空间、人力和供应链让渡给餐饮？ 答案不在餐饮，在频次。 一、宜家的聪明与困境：大店时代的落幕 宜家的场景化陈列一直是教科书级别的。它卖的不是家具，是\"一个家的想象\"。你走进去会不自觉代入：这个书架放我家玄关合适吗？这张沙发靠着看剧舒服吗？家居消费的卡点就在这里——大件退换货物流成本太高，运费足以劝退很多人；材质、质感、尺寸比例，不亲手摸、不坐上去试，永远心里没底。 这也是我坚持的判断：家居实体店的不可替代性远强于服装鞋帽。衣服鞋子可以转快闪店、试完线上下单，家具不行，线下体验是刚性需求。 宜家把这种体验做到极致，也把坪效算到极致。主通道两侧永远摆着十元上下的低价小件，不占主陈列位，是典型的\"1+X\"搭售——你冲着大件来，顺手",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-minimax-deepseek-deepinfer-deepseek-1792920549000",
-    "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
-    "link": "https://www.tmtpost.com/8181051.html",
-    "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
+    "id": "news-ai-1792933323000",
+    "title": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家",
+    "link": "https://www.tmtpost.com/8181271.html",
+    "summary": "全球 AI 相关产品贸易的爆发式扩张推高中国外贸增速，这套新的产业分工图景，推翻了外界对中国贸易顺差的 “产能过剩” 单一叙事。",
     "publishedAt": "2026-10-25",
     "source": "钛媒体",
     "tags": [
@@ -94,17 +93,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-ai-expose-the-rickety-infrastructure-of-the-internet-1792872933000",
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "id": "news-starlink-seems-to-be-working-normally-again-in-ukraine-1792874794000",
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -122,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792746445000",
-    "title": "企业AI需要两个世界模型",
-    "link": "https://www.qbitai.com/2026/10/505032.html",
-    "summary": "特赞想让企业Agent真正懂业务",
-    "publishedAt": "2026-10-23",
+    "id": "news-jev-1792660025000",
+    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+    "link": "https://www.qbitai.com/2026/10/504879.html",
+    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -135,23 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1500-2-2000-1792920560000",
-    "title": " 观察｜花1500块做的“死了么”，估值2亿了，创始人说未来要做2000亿 ",
-    "link": "https://www.huxiu.com/article/4900280.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜花1500块做的“死了么”，估值2亿了，创始人说未来要做2000亿》 2025年6月，三个95后花1500块、用一个月，做出了一款叫“死了么”的APP——独居者长时间不签到，系统自动预警给紧急联系人。定价1块钱。 没人想到它后来会经历什么。 一场爆火、一次下架、一次离职 2026年1月8日，“死了么”突然爆火。连续多天登顶苹果付费榜第一，用户增长800倍。1月11日，定价从1块涨到8块，60多个投资人涌进来，估值从千万飙到近亿。 然后，坏消息接踵而至。1月13日，被迫改名“Demumu”，效果不佳，又把命名权交给网友。1月15日，突遭苹果下架，原因至今未公开。 最现实的一刀来自公司内部。创始人吕功琛的原公司因担心他精力有限，建议他离职。他随后办了离职手续，后来在采访里说了一句话： “软件火了，工作丢了。” 故事走到这里，很多人以为它就此熄火。 杭州的一封邮件，救活了它 转折发生在1月底。 杭州市上城区数据资源管理局应用推进科科长孟慧君，给吕功琛发了一封邮件。邮件里详细分析了产品的价值，写明了上城区能提供的支持，还把“能提供什么”和“他们需要什么”对应得清清楚楚。信里有一句话后来被反复引用：“我们有场景、有数据、有落地的经验。” 发出邮件的第二天，上城区的为企服务团队就见了面。从邮件联系到敲定落户，只用了半个月。公司“",
+    "id": "news--1792937771000",
+    "title": " 周鸿祎转让奇飞翔艺，不等于减持三六零 ",
+    "link": "https://www.huxiu.com/article/4900316.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | AI制图 三六零（601360.SH）的股价，又回到了一个让人不太舒服的位置。 10月23日盘中创阶段新低8.04元/股，只比2024年10月初的7.76元低点高了几毛钱。 而在这个时候，两条减持消息陆续传出。 一条是10月15日，三六零公告，控股股东奇信志成近乎顶格完成一轮减持，套现5.06亿；另一条是10月24日，周鸿祎在北京产权交易所挂牌，拟以约2.19亿元底价，转让奇飞翔艺12.89929%股权，交易完成后他不再直接持有该公司。 市场很容易把两条消息理解为同一个信号：老周是不是要撤了？ （图片来源：Choice数据） 但这两条消息不是一回事，得拆开看。 奇信志成减持的是三六零股份。 而此次周鸿祎挂牌转让的奇飞翔艺，并不是三六零旗下公司。它是2016年360从美股私有化回A股时，拆VIE架构留下的一只&ldquo;旧抽屉&rdquo;。里面塞着当年买方团、建信信托、齐向东等股东的历史权益。同期挂牌的还有另外27个奇飞翔艺股权转让项目，涉及87.75%股权，建信信托、齐向东都在转让方名单里。 因此， 周鸿祎转让这家公司股权，与减持三六零股票没有关系。 但它确实再次提醒市场，三六零的私有化旧账正在一笔一笔结清。奇飞翔艺是已经翻过去的一页，而 真正会改变三六零筹码格局的那一笔 ：控股股东奇信志成清算拆股、36名买方团",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-212-15-ai-1792897800000",
-    "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
-    "link": "https://www.tmtpost.com/8179663.html",
-    "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。",
+    "id": "news-a-pb-1792933241000",
+    "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
+    "link": "https://www.tmtpost.com/8181261.html",
+    "summary": "要理解行业PB，既要看行业之间的差异，也要看到同一个行业内部可能存在的巨大分化。",
     "publishedAt": "2026-10-25",
     "source": "钛媒体",
     "tags": [
@@ -175,16 +174,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "news-will-ai-expose-the-rickety-infrastructure-of-the-internet-1792872933000",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -202,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5090-34b-1792746217000",
-    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-    "link": "https://www.qbitai.com/2026/10/504931.html",
-    "summary": "房间秒变草原，抬手就能下雪",
-    "publishedAt": "2026-10-23",
+    "id": "news-fsd-1792653288000",
+    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+    "link": "https://www.qbitai.com/2026/10/504841.html",
+    "summary": "FSD一年增长70万付费用户",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -215,10 +215,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792920423000",
-    "title": " 如何贩卖怀疑并操纵大众认知 ",
-    "link": "https://www.huxiu.com/article/4900281.html?f=rss",
-    "summary": "本文来自微信公众号： 李翔李翔 ，作者：叫我以实玛利 借着出差旅行，读完《贩卖怀疑的商人》。注意到这本书，其实是马斯克推荐过。 马斯克推荐这本书的理由，是他很愤怒于为什么有那么多人，包括一些有影响力的人，会拒绝承认全球变暖这件事。而《贩卖怀疑的商人》讲述的主题就是：一群科学家再加上背后的行业利益推动，在大众的观念里植入了一种对科学事实的怀疑，从吸烟和二手烟有害健康、酸雨、臭氧洞到全球变暖。 作者称这种贩卖怀疑的策略为“烟草战略”。因为这一战略曾被烟草行业应用。这个战略是：利用少数科学家，借助行业律师和公共关系专家的辅导，对抗不利于自身的科学。 1.烟草战略 1950年代初期，研究人员发现，烟草会致癌。1953年末，《纽约时报》、《生活》杂志、《读者文摘》等都报道了一项研究：把香烟焦油涂抹在老鼠皮肤上会致癌。 1953年12月，美国四大烟草公司的总裁和伟达公关创始人约翰·希尔见面，商量该如何应对。希尔给烟草公司的建议是，赞助更多的新的科学研究，“必须维系一种科学的怀疑”。 伟达公关的老板跟烟草大佬们开完会没多久，伟达公关起草了一份包含15个科学问题的文件，很有代表性，比如：实验表明，涂抹了香烟焦油的老鼠患上了皮肤癌，但被放在烟雾缭绕房间里的老鼠却没有，为什么；再比如，为什么吸烟率接近的城市，肺癌患病率却差异很大；以及，气候会导致癌症吗… 这个策略持续了半个世纪。烟草行业创建了“烟草业",
+    "id": "news-4000-1792937262000",
+    "title": " 金价跌回4000，机构逃跑，央行吃饱，你相信谁？ ",
+    "link": "https://www.huxiu.com/article/4900322.html?f=rss",
+    "summary": "本文来自微信公众号： 人神共奋 ，作者：思想钢印 1/4 为什么买？ 下面这张图是2020年以来，央行每月购金与国际金价的关系图： 很明确的结论是，虽然金价从技术结构上看，像是长线见顶的趋势，但考虑到中国央行独特的购金模式，这个空头结构很可能不成立。只是黄金未来长期牛市中的一次调整。 本文就来梳理一下央行这一轮持续购金的底层逻辑，以及由此来的购买模式的变化。 2022年11月，是央行这一轮购金的起点，之前2020年金价冲到1968美元的历史新高，没有买，2021年金价回落到1718美元，也没有买，之后再上涨，还是没有买，直到2022年11月。 2022年发生了什么呢？俄乌战争后，西方冻结俄外储是一个标志性的事件，就是美元第一次大规模“武器化\"，给中国政府提醒了一个潜在的巨大风险： 以重启购金前的最后一个月末，即2022年10月底为准，中国持有的美国国债约占外汇储备的28.8%，一旦两国未来发生冲突，这28.8%的储备资产，很可能被美国冻结。 再看当时的黄金储备，占中国官方公布的国际储备的比例，仅为3.2%—3.5%，在全球主要黄金持有国中属于偏低水平。当年最高的葡萄牙高达69%，提前两年准备的俄罗斯才22%，同为发展中国家的印度也有8.4%。提升黄金储备，可谓刻不容缓。 这不只是中国央行的选择，2022年全球央行购金1082吨，为1967年以来最快，只不过后面几年，只有中国央行一直",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
@@ -228,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792893780000",
-    "title": "阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻",
-    "link": "https://www.tmtpost.com/8180790.html",
-    "summary": "此次拟终止在新三板挂牌之际，阿宽食品正面临着不小的业绩压力。",
+    "id": "news--1792932679000",
+    "title": "从技术封锁到自主创新：中国如何在全球经济体系中实现高水平科技自立自强",
+    "link": "https://www.tmtpost.com/8181250.html",
+    "summary": "回顾历史，七十多年以来外部技术围堵的形式在变，逻辑未变。而中国科技界与产业界的回应始终清晰：把关键技术的底层能力扎根在中国的土壤上，铭刻在中国的人心里。",
     "publishedAt": "2026-10-25",
     "source": "钛媒体",
     "tags": [
@@ -254,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "summary": "Instacart might sell itself to a larger competitor.",
+    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -282,11 +282,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5b-4-1792745416000",
-    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-    "link": "https://www.qbitai.com/2026/10/504930.html",
-    "summary": "",
-    "publishedAt": "2026-10-23",
+    "id": "news-xing4-0-29b-intent-1792653074000",
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "link": "https://www.qbitai.com/2026/10/504832.html",
+    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -295,10 +295,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1792917314000",
-    "title": " 30岁，他登顶最年轻富豪 ",
-    "link": "https://www.huxiu.com/article/4900277.html?f=rss",
-    "summary": "本文来自微信公众号： 投资界 ，作者：王露 AI新贵。 报道/投资界PEdaily 30岁，身家300亿，这大抵是只会发生在AI时代的一幕。 今年福布斯400富豪榜发布，榜上最年轻的是一位30岁华人程序员——Steven Hao，1996年出生，毕业于麻省理工学院。 时间回到三年前，他牵头创办AI编程公司Cognition，推出AI程序员Devin。如今，公司估值已达到480亿美元。作为持股最多的创始人，Steven身家达到58亿美元（约合人民币380亿元）。 此刻，越来越年轻的创始人接连登上财富榜，这样的故事正密集发生在AI时代。 30岁，数学高材生 最年轻富豪诞生 华人似乎历来擅长数学。 出生于1996年，Steven Hao于17岁获得国际信息学奥林匹克竞赛（IOI）银牌，次年又与Scott Wu（他日后创业伙伴）一同摘得金牌，这也是Scott的第三枚IOI金牌。 不为人所知的是，Meta首席AI官、Scale AI创始人Alexandr Wang也是他们少年时的竞赛伙伴。十几岁时，这群少年写过一份天马行空的创业点子清单，虽然想法不怎么样，但Alexandr真的开始创业，并且做成了。熟悉的人先迈出一步，念头就这样在朋友间蔓延。 离开赛场，几人各有去处。Steven进入麻省理工学院，专业是计算机科学与数学，其间曾在Jane Street、Dropbox、Quora等地实习。毕业",
+    "id": "news-vs-1792936462000",
+    "title": " 观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据 ",
+    "link": "https://www.huxiu.com/article/4900321.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据》 没有彩排，没有剧本。机器人被推进1:1复刻的超高压变电站，要按国网的真实作业标准，在30分钟内完成仪表抄读、红外测温、设备异常识别、50厘米窄道通行；被塞进灯光、货架间距全部对标真实门店的超市，面对随机打乱的货物和人为制造的设备故障；被扔进上海市质检院的真实奶片检测流程，限时30分钟，连续完成取样、称重、离心机装载等6个环节。 百联集团商业互联网部经理、商超赛项命题负责人郭甬平，面对镜头说了一句大实话：“很多团队此前训练了各自的小模型，但到了真实超市场景，很多都用不上。”——痛点直指泛化能力。 大洋彼岸，另一场实验已经走到了相反的方向。Figure AI的System 0，用超过1000小时的人类运动数据，结合仿真到现实的强化学习，替代了109,504行手工编写的C++控制代码。 而在得州和加州的工厂里，据外媒报道，特斯拉要求工人穿戴动捕设备记录生产动作，遭到部分员工抵制——他们担心，自己正在训练一个最终会取代自己的机器人。 这两个场景放在一起，像极了一场跨越六十年的历史重演。 当年中美在航空领域的风洞路线分野：一方痴迷于用代码模拟气流，另一方选择砸真金白银建实体风洞去“硬吹”。在具身智能的赛道上，美国有全世界最强的仿真工具链，中国有全世界",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
@@ -309,10 +309,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-pc-1792893240000",
-    "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
-    "link": "https://www.tmtpost.com/8180842.html",
-    "summary": "AI PC的竞争，早已不再停留在有没有NPU的浅层比拼。",
+    "id": "news--1792932664000",
+    "title": "公司治理的彼得陷阱：上市公司晋升错位与内控失衡研究",
+    "link": "https://www.tmtpost.com/8181248.html",
+    "summary": "上市公司晋升错配的成本区别于一般企业，错配风险会由组织内部传导至资本市场，引发盈利下滑、内控缺陷、投资者信心下降、超额收益走弱等连锁后果。",
     "publishedAt": "2026-10-25",
     "source": "钛媒体",
     "tags": [
@@ -335,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-block-8217-s-new-voice-model-sounds-eerily-human-1792857600000",
-    "title": "Block&#8217;s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+    "summary": "Instacart might sell itself to a larger competitor.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -362,11 +362,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-50-1792745143000",
-    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-    "link": "https://www.qbitai.com/2026/10/504915.html",
-    "summary": "让AI真正走进真实世界",
-    "publishedAt": "2026-10-23",
+    "id": "news-openai-1792652759000",
+    "title": "谁在给OpenAI供应具身数据？",
+    "link": "https://www.qbitai.com/2026/10/504800.html",
+    "summary": "挤进全球Physical AI核心供应链",
+    "publishedAt": "2026-10-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -375,10 +375,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792917113000",
-    "title": " 丈母娘也开始抢AI人了 ",
-    "link": "https://www.huxiu.com/article/4900276.html?f=rss",
-    "summary": "本文来自微信公众号： 字母榜 ，作者：小金牙 最近，OpenAI连员工的桃花运都操心上了。 据报道，OpenAI在反间谍培训中提醒员工，外部人员可能用恋爱或性关系作诱饵，接近他们，获取公司机密。也就是俗称的“美人计”。 你以为对方对你有意思，对方可能对你公司的机密更有意思。有人将此事总结为“OpenAI提醒员工别忘了自己又丑又无趣”。 这个信息放在现在的硅谷着实有点微妙。 其实有人一听你在OpenAI上班，就想认识你，这事放到今天的婚恋市场，还真算不上离奇。这也许也是为什么以“美人计”接近OpenAI员工可以奏效——确实很常见啊。 在湾区婚介眼里，OpenAI和Anthropic的员工，已经排进了择偶的“第一梯队”。有客户找对象，连对方在哪家公司上班，都要指定清楚。有些人的择偶打算，已经远远超出了“找个工资高的对象”。人还在中国，就开始考虑去硅谷定居。 原本总被调侃不解风情的技术宅，如今却成了有人点名要找的对象。聪明、收入高、行业有前途，甚至连不太会社交，都有人觉得可爱。 AI公司在抢人，相亲市场也在抢。 “对我来说，现在的婚姻是一场资产重组。” 说这话的，是一名40多岁的中国女企业家。 她离过婚，目前和儿子一起住在中国，正在计划去硅谷定居。对于下一任丈夫，她尤其感兴趣的是这样一类人：在准备上市的AI公司工作，手里有可能升值的股票。 她解释，普通的工资收入，交完税未必能剩下多少。相",
+    "id": "news-2-5000-anthropic-ipo-1792936253000",
+    "title": " 深度｜2万亿估值被砍掉5000亿：Anthropic的IPO，是一场“挤水分”的压力测试 ",
+    "link": "https://www.huxiu.com/article/4900318.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜2万亿估值被砍掉5000亿：Anthropic的IPO，是一场“挤水分”的压力测试》 上市前的投资者日上，管理层交出了一份并不算差的三季度成绩单：单季营收168亿美元，连续第二个季度实现调整后盈利，自由现金流首次转正。 但在随后几天，路透社援引知情人士的消息，让市场倒吸了一口凉气——参加投资者日的投资者们，开始讨论将估值预期从约2万亿美元下调至约1.5万亿美元。 几千亿美元，在几天内被砍掉。原计划打破SpaceX纪录的“史上最大IPO”，正面临一场残酷的重估。 2万亿神话，被一份季度数据打回原形 在此之前，Anthropic的叙事堪称完美。一季度营收47亿美元，二季度115亿，三季度直接干到168亿。 但市场看的不只是绝对值，是斜率。 二季度环比增长超过一倍，到了三季度，环比增速回落至约46%。从翻倍以上的增速，骤降到不足50%，对于一个利润尚未完全跑通、高度依赖算力资本开支的AI巨头来说，这是一个危险的信号。它意味着此前的高增长可能已经阶段性见顶。当增速在一个季度内突然踩下刹车，支撑2万亿美元的底座，就开始晃动。 需要说明的是，“调整后盈利”和自由现金流为正是真实的，但它们都带有特定的口径。2025年Anthropic净亏损约420亿美元，其中约340亿是与融资相关的会计费用，运营亏损逾80亿美元。未来十年的算力与",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
@@ -389,10 +389,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792893151000",
-    "title": "电动化转型有了起色，沃尔沃却越来越难赚钱了",
-    "link": "https://www.tmtpost.com/8180823.html",
-    "summary": "纯电销量增长难抵传统车型下滑，沃尔沃利润转亏，降本难解转型压力。",
+    "id": "news-10-23-1792932642000",
+    "title": "价值判断：跌停板的投资机会和风险提示（10月23日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8181245.html",
+    "summary": "本期入选的两只标的均为首次跌停且估值显著高于济安定价，一只来自石材与盐湖提锂、铀资源转型，一只来自建筑与工业铝型材。",
     "publishedAt": "2026-10-25",
     "source": "钛媒体",
     "tags": [
@@ -944,4 +944,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-25T10:38:15.620Z';
+export const dataFetchedAt = '2026-10-25T15:29:28.953Z';
