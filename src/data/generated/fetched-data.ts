@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-hottest-ai-wearables-and-gadgets-you-should-know-about-1792937400000",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "id": "news-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e-1792947452000",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
     "publishedAt": "2026-10-25",
     "source": "TechCrunch",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792940541000",
-    "title": " 对手不是盟友，街区才是 ",
-    "link": "https://www.huxiu.com/article/4900323.html?f=rss",
-    "summary": "本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 下午去宜家，本意是换张软点的床垫。先在餐厅吃了饭：蛋糕、牛排、羊肉串、一只虾、一碗汤，119元。 这和我心里\"宜家食堂便宜\"的印象有落差。走进去才发现，它的动线完全是食堂逻辑——拿托盘、沿单向通道走、看见什么拿什么、末端统一结账，更像大学食堂或美食广场，而不是坐下来等餐的意式餐厅。 真正撑住\"低价心智\"的，从来不是正餐，而是门口那只被反复提及的蛋筒和热狗。它们是价格锚点，不是餐饮产品。正餐按行业标准定价，锚点单品则承担\"这里很便宜\"的心智补贴。 往下挖一层会更有意思：一家家具店，为什么要把大量空间、人力和供应链让渡给餐饮？ 答案不在餐饮，在频次。 一、宜家的聪明与困境：大店时代的落幕 宜家的场景化陈列一直是教科书级别的。它卖的不是家具，是\"一个家的想象\"。你走进去会不自觉代入：这个书架放我家玄关合适吗？这张沙发靠着看剧舒服吗？家居消费的卡点就在这里——大件退换货物流成本太高，运费足以劝退很多人；材质、质感、尺寸比例，不亲手摸、不坐上去试，永远心里没底。 这也是我坚持的判断：家居实体店的不可替代性远强于服装鞋帽。衣服鞋子可以转快闪店、试完线上下单，家具不行，线下体验是刚性需求。 宜家把这种体验做到极致，也把坪效算到极致。主通道两侧永远摆着十元上下的低价小件，不占主陈列位，是典型的\"1+X\"搭售——你冲着大件来，顺手",
+    "id": "news--1792946431000",
+    "title": " 安克、耐克客服失守，腾讯封不完的外挂生意 ",
+    "link": "https://www.huxiu.com/article/4900336.html?f=rss",
+    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 10月24日凌晨5点，安克创新的一些客户收到了一条奇怪的消息。 发信人是他们此前添加的企业微信客服，联系人下方带有“安克创新”的企业标识。平时，这个账号主要负责产品咨询、售后服务和会员活动，这次发来的却是一条疑似色情网站的引流链接。 差不多同一时间，耐克、盒马、CATLINK等品牌的部分企业微信客服账号，也出现了类似情况。 这些品牌经营着完全不同的生意，客服账号却在相近时间发送了内容高度相似的消息。根据媒体披露的聊天截图，安克和耐克相关账号均出现了标题为“新片每日”的内容卡片，部分文案相同。 更奇怪的是，有些账号在发出安全提醒之后，仍然继续发送异常信息。 当天，腾讯企业微信安全团队公布调查结果：某第三方外挂软件服务被攻破，导致使用该服务的部分账号受到影响。平台已经强制下线相关账号，并封禁引流链接。 安克方面表示，已冻结涉事账号、封存后台操作日志并报警。耐克客服则提醒消费者不要点击异常信息。 几家品牌同时出现问题，原因指向同一个外部环节。 企业微信与外挂的冲突并不新鲜。从2023年集中封禁违规账号，到2024年公开打击账号多开、无限群发和模拟人工操作，再到今年继续加强治理，腾讯已经与这类软件周旋了数年。 封号、封链接、发布公告，腾讯一直在做。但只要商家还想用更少的人管理更多客户，外挂就仍然有生意可做。 10月24日的事故，让这",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
@@ -93,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-starlink-seems-to-be-working-normally-again-in-ukraine-1792874794000",
-    "title": "Starlink seems to be working normally again in Ukraine",
-    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-    "publishedAt": "2026-10-24",
+    "id": "news-techcrunch-mobility-blue-green-is-the-color-of-autonomy-1792944300000",
+    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+    "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-10-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,17 +133,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792937771000",
-    "title": " 周鸿祎转让奇飞翔艺，不等于减持三六零 ",
-    "link": "https://www.huxiu.com/article/4900316.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | AI制图 三六零（601360.SH）的股价，又回到了一个让人不太舒服的位置。 10月23日盘中创阶段新低8.04元/股，只比2024年10月初的7.76元低点高了几毛钱。 而在这个时候，两条减持消息陆续传出。 一条是10月15日，三六零公告，控股股东奇信志成近乎顶格完成一轮减持，套现5.06亿；另一条是10月24日，周鸿祎在北京产权交易所挂牌，拟以约2.19亿元底价，转让奇飞翔艺12.89929%股权，交易完成后他不再直接持有该公司。 市场很容易把两条消息理解为同一个信号：老周是不是要撤了？ （图片来源：Choice数据） 但这两条消息不是一回事，得拆开看。 奇信志成减持的是三六零股份。 而此次周鸿祎挂牌转让的奇飞翔艺，并不是三六零旗下公司。它是2016年360从美股私有化回A股时，拆VIE架构留下的一只&ldquo;旧抽屉&rdquo;。里面塞着当年买方团、建信信托、齐向东等股东的历史权益。同期挂牌的还有另外27个奇飞翔艺股权转让项目，涉及87.75%股权，建信信托、齐向东都在转让方名单里。 因此， 周鸿祎转让这家公司股权，与减持三六零股票没有关系。 但它确实再次提醒市场，三六零的私有化旧账正在一笔一笔结清。奇飞翔艺是已经翻过去的一页，而 真正会改变三六零筹码格局的那一笔 ：控股股东奇信志成清算拆股、36名买方团",
+    "id": "news--1792944533000",
+    "title": " 可怕的红果与中国互联网的字节时间|| 大视野 ",
+    "link": "https://www.huxiu.com/article/4900335.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《可怕的红果与中国互联网的字节时间 || 大视野》 中国的互联网格局是不是在变天？从腾讯的天变成字节跳动的天？ 之所以提出这样的问题，是因为野村证券9月发布的《中国互联网与新媒体月度APP追踪报告》，援引了数据公司QuestMobile提供的如下数据—— 今年7月，在中国移动互联网使用时长排名前50（Top 50）的APP中，抖音首次超过微信，占总时长的19.4%，微信占18.8%；整个字节系的时长份额达40.9%，腾讯系回落到29.1%，而去年7月，字节系的份额为33.6%，腾讯系为30.9%； 同在7月，字节旗下APP红果免费短剧的日活跃用户（DAU）达到1.68亿人，同比增长107%，超过腾讯视频、爱奇艺、优酷、芒果TV四大长视频平台的总和（约1.55亿，未去重）； 从用户使用总时长看，红果已成为中国第四大APP，仅次于抖音、微信和抖音极速版。红果的人均单日使用时长更是惊人，今年2月就达到了125分钟，超过抖音和微信。 虽然微信的日活用户数（9亿多）仍多过抖音（7亿多），但从用户时间看，中国互联网是不是正在开启一种新秩序——从腾讯时间到字节时间，从微信时间到“抖音+红果时间”？ 当内容代替社交成为用户的第一时间，很多人也发现，自己每天最放松、最不设防、最容易沉溺的时间，正被短剧这种更短、更刺激、更多反转的内容形态所占据",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -174,17 +173,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-ai-expose-the-rickety-infrastructure-of-the-internet-1792872933000",
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "publishedAt": "2026-10-24",
+    "id": "news-the-hottest-ai-wearables-and-gadgets-you-should-know-about-1792937400000",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "publishedAt": "2026-10-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -215,19 +213,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4000-1792937262000",
-    "title": " 金价跌回4000，机构逃跑，央行吃饱，你相信谁？ ",
-    "link": "https://www.huxiu.com/article/4900322.html?f=rss",
-    "summary": "本文来自微信公众号： 人神共奋 ，作者：思想钢印 1/4 为什么买？ 下面这张图是2020年以来，央行每月购金与国际金价的关系图： 很明确的结论是，虽然金价从技术结构上看，像是长线见顶的趋势，但考虑到中国央行独特的购金模式，这个空头结构很可能不成立。只是黄金未来长期牛市中的一次调整。 本文就来梳理一下央行这一轮持续购金的底层逻辑，以及由此来的购买模式的变化。 2022年11月，是央行这一轮购金的起点，之前2020年金价冲到1968美元的历史新高，没有买，2021年金价回落到1718美元，也没有买，之后再上涨，还是没有买，直到2022年11月。 2022年发生了什么呢？俄乌战争后，西方冻结俄外储是一个标志性的事件，就是美元第一次大规模“武器化\"，给中国政府提醒了一个潜在的巨大风险： 以重启购金前的最后一个月末，即2022年10月底为准，中国持有的美国国债约占外汇储备的28.8%，一旦两国未来发生冲突，这28.8%的储备资产，很可能被美国冻结。 再看当时的黄金储备，占中国官方公布的国际储备的比例，仅为3.2%—3.5%，在全球主要黄金持有国中属于偏低水平。当年最高的葡萄牙高达69%，提前两年准备的俄罗斯才22%，同为发展中国家的印度也有8.4%。提升黄金储备，可谓刻不容缓。 这不只是中国央行的选择，2022年全球央行购金1082吨，为1967年以来最快，只不过后面几年，只有中国央行一直",
-    "publishedAt": "2026-10-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1792932679000",
     "title": "从技术封锁到自主创新：中国如何在全球经济体系中实现高水平科技自立自强",
     "link": "https://www.tmtpost.com/8181250.html",
@@ -254,10 +239,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "news-starlink-seems-to-be-working-normally-again-in-ukraine-1792874794000",
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -295,20 +280,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vs-1792936462000",
-    "title": " 观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据 ",
-    "link": "https://www.huxiu.com/article/4900321.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据》 没有彩排，没有剧本。机器人被推进1:1复刻的超高压变电站，要按国网的真实作业标准，在30分钟内完成仪表抄读、红外测温、设备异常识别、50厘米窄道通行；被塞进灯光、货架间距全部对标真实门店的超市，面对随机打乱的货物和人为制造的设备故障；被扔进上海市质检院的真实奶片检测流程，限时30分钟，连续完成取样、称重、离心机装载等6个环节。 百联集团商业互联网部经理、商超赛项命题负责人郭甬平，面对镜头说了一句大实话：“很多团队此前训练了各自的小模型，但到了真实超市场景，很多都用不上。”——痛点直指泛化能力。 大洋彼岸，另一场实验已经走到了相反的方向。Figure AI的System 0，用超过1000小时的人类运动数据，结合仿真到现实的强化学习，替代了109,504行手工编写的C++控制代码。 而在得州和加州的工厂里，据外媒报道，特斯拉要求工人穿戴动捕设备记录生产动作，遭到部分员工抵制——他们担心，自己正在训练一个最终会取代自己的机器人。 这两个场景放在一起，像极了一场跨越六十年的历史重演。 当年中美在航空领域的风洞路线分野：一方痴迷于用代码模拟气流，另一方选择砸真金白银建实体风洞去“硬吹”。在具身智能的赛道上，美国有全世界最强的仿真工具链，中国有全世界",
-    "publishedAt": "2026-10-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news--1792932664000",
     "title": "公司治理的彼得陷阱：上市公司晋升错位与内控失衡研究",
     "link": "https://www.tmtpost.com/8181248.html",
@@ -335,16 +306,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "summary": "Instacart might sell itself to a larger competitor.",
+    "id": "news-will-ai-expose-the-rickety-infrastructure-of-the-internet-1792872933000",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -372,20 +344,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-2-5000-anthropic-ipo-1792936253000",
-    "title": " 深度｜2万亿估值被砍掉5000亿：Anthropic的IPO，是一场“挤水分”的压力测试 ",
-    "link": "https://www.huxiu.com/article/4900318.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜2万亿估值被砍掉5000亿：Anthropic的IPO，是一场“挤水分”的压力测试》 上市前的投资者日上，管理层交出了一份并不算差的三季度成绩单：单季营收168亿美元，连续第二个季度实现调整后盈利，自由现金流首次转正。 但在随后几天，路透社援引知情人士的消息，让市场倒吸了一口凉气——参加投资者日的投资者们，开始讨论将估值预期从约2万亿美元下调至约1.5万亿美元。 几千亿美元，在几天内被砍掉。原计划打破SpaceX纪录的“史上最大IPO”，正面临一场残酷的重估。 2万亿神话，被一份季度数据打回原形 在此之前，Anthropic的叙事堪称完美。一季度营收47亿美元，二季度115亿，三季度直接干到168亿。 但市场看的不只是绝对值，是斜率。 二季度环比增长超过一倍，到了三季度，环比增速回落至约46%。从翻倍以上的增速，骤降到不足50%，对于一个利润尚未完全跑通、高度依赖算力资本开支的AI巨头来说，这是一个危险的信号。它意味着此前的高增长可能已经阶段性见顶。当增速在一个季度内突然踩下刹车，支撑2万亿美元的底座，就开始晃动。 需要说明的是，“调整后盈利”和自由现金流为正是真实的，但它们都带有特定的口径。2025年Anthropic净亏损约420亿美元，其中约340亿是与融资相关的会计费用，运营亏损逾80亿美元。未来十年的算力与",
-    "publishedAt": "2026-10-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -944,4 +902,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-25T15:29:28.953Z';
+export const dataFetchedAt = '2026-10-25T20:20:14.261Z';
