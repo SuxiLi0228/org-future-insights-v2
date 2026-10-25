@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-10-ai-1792740951000",
-    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-    "link": "https://www.qbitai.com/2026/10/504901.html",
-    "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+    "id": "news-taas-token-1792747301000",
+    "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+    "link": "https://www.qbitai.com/2026/10/505083.html",
+    "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
     "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
@@ -54,16 +54,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-600-48-1792896455000",
-    "title": " AI增效时代，给品牌的几条忠告——从老干妈「600变48」说起 ",
-    "link": "https://www.huxiu.com/article/4900232.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌日常 ，作者：mellr，原文标题：《AI增效时代，给品牌的几条忠告——从老干妈「600变48」说起》 老干妈大概没有预料到，2026年贵州省质量发展大会上那组“漂亮的数据”，会在一个月后变成一场品牌信任危机。 常务副总李鑫披露的信息本身是扎实的：AI视觉质检系统上线后，高速相机每0.3秒扫描一次传送带，关键工序不良率降到0.02%，核心原料实现全链路追溯，2025年营收54亿元创历史新高。拣椒流水线从600多人缩减到48人。 单看生产端，这是一份无可挑剔的成绩单。但随后舆论转向的地方，才是真正值得研究的地方——讨论重心从「AI有多厉害」，拐到了一个谁也没准备答案的问题： 552个人，去哪了？ 一边是生产效率的提升，一边是岗位数量的大幅减少。两个数字放在一起，迅速引发了公众对AI替代人工的讨论。 截至10月24日本文发出时，老干妈官方依然没有就人员安置、转岗或补偿细节作出任何公开回应。公众能拼凑出来的只有零散信息：极少数老师傅留做复核，一部分内部转岗到仓储、包装，而“不少离开的是本地四五十岁女工”，据称“绝大多数拣椒工属于季节性劳务用工，合同到期后不再续签”。但“合同到期不续签”和“主动转岗安置”在公众感知里是两码事，而老干妈没有把这两条路径的比例、标准和安排摆到台面上。 《年会不能停！》里把裁员叫“广进计划”，取财源广进的谐音。电影用喜剧让观众笑出声，是",
+    "id": "news-ai-1792923749000",
+    "title": " 中期选举与AI泡沫 ",
+    "link": "https://www.huxiu.com/article/4900285.html?f=rss",
+    "summary": "本文来自微信公众号： 小鲜传 ，作者：丁昶 现在是2026年9月。2026年11月，美国就将举行中期选举。这次选举很不一般。有诸多迹象表明，它很有可能成为近年美国政治风向转变的标志。更进一步地说，它将为AI泡沫的破灭提供时间窗口，并且由此最终影响到世界格局的变迁。 也许有人会说：判断下得这么大，会不会言过其实？坦白地说，确实有这个风险。毕竟凯恩斯说过：泡沫持续的时间总能超出你的想象。因此本文只求尽量做到有理有据，逻辑自洽。至于是非对错，就留给历史去评判吧。 历史的巧合 三个月后的那场选举，形势已经比较明朗了。媒体、券商甚至博彩机构都基本达成了共识。民主党控制众议院多数的可能性接近100%，控制参议院多数的可能性接近80%。而目前的状态是共和党同时控制白宫和参众两院。 与这个预期相同的状态，历史上一共出现过3次，分别是1986年，2006年和2018年。这三个年份都不简单。 1986年，时任总统是共和党的里根，中期选举被民主党翻盘之后，1987年发生了著名的股灾。道琼斯指数和标普500指数都在一天之内下跌了20%以上。 2006年，时任总统是共和党的布什，中期选举被民主党翻盘之后，2008年暴发了震惊世界的次贷危机，后来演化为全球金融危机。 2018年，时任总统是共和党的特朗普，中期选举被民主党翻盘之后，2020年遭遇新冠危机。美股在不到一个月内融断4次，累计下跌约35%。 当然，新",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-minimax-deepseek-deepinfer-deepseek-1792920549000",
+    "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
+    "link": "https://www.tmtpost.com/8181051.html",
+    "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
+    "publishedAt": "2026-10-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
     ]
   },
@@ -108,11 +122,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jev-1792660025000",
-    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-    "link": "https://www.qbitai.com/2026/10/504879.html",
-    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-    "publishedAt": "2026-10-22",
+    "id": "news-ai-1792746445000",
+    "title": "企业AI需要两个世界模型",
+    "link": "https://www.qbitai.com/2026/10/505032.html",
+    "summary": "特赞想让企业Agent真正懂业务",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -121,16 +135,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792896289000",
-    "title": " 王虹和韦东奕们，也要被AI“斩杀”了？ ",
-    "link": "https://www.huxiu.com/article/4900230.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：王动，编辑：章鱼，题图来自：视觉中国 一位拿过数学界顶级大奖的教授，被AI气哭了。 &ldquo;周二晚上，我哭了，把女儿吵醒了。&rdquo; 10月8日，法国数学家雨果&middot;杜米尼尔－科潘在一场线上会议上，讲起了自己的经历。他是2022年菲尔兹奖得主，早已经站在数学研究的顶端。让他落泪的，是OpenAI刚刚公布的一大批数学研究成果。 其中，有16个问题直接关系到他的研究。 在随后的电台采访中，他说AI像推土机一样，把自己正在研究的问题一路推平了。仅用0.1秒，经常打工的人就共情了这位顶级数学家的职场困境。它相当于&mdash;&mdash;你花了很多年学习、积累，好不容易找到一个可以暴富的商机，突然有人告诉你： 这一整套商业模式，半天前被AI用0成本落地了。 雨果&middot;杜米尼尔－科潘当然不是唯一一个受害者。 OpenAI一次性发布了722篇数学论文，涉及到了数百项数学成果，涉及数论、几何、理论计算机科学等多个领域。 在著名的论文预印本平台arXiv上，一个人每月只能上传2篇论文，如果要把这些论文都传上去，至少也得有300多个号才行。 其中有一些相当难的问题，已经困扰科学家百年了。 比如1859年提出的黎曼猜想，已经过了167年，至今仍然悬而未决，OpenAI 说他们这次取得了重要的进展，给出了更强的&ldquo",
+    "id": "news-1500-2-2000-1792920560000",
+    "title": " 观察｜花1500块做的“死了么”，估值2亿了，创始人说未来要做2000亿 ",
+    "link": "https://www.huxiu.com/article/4900280.html?f=rss",
+    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜花1500块做的“死了么”，估值2亿了，创始人说未来要做2000亿》 2025年6月，三个95后花1500块、用一个月，做出了一款叫“死了么”的APP——独居者长时间不签到，系统自动预警给紧急联系人。定价1块钱。 没人想到它后来会经历什么。 一场爆火、一次下架、一次离职 2026年1月8日，“死了么”突然爆火。连续多天登顶苹果付费榜第一，用户增长800倍。1月11日，定价从1块涨到8块，60多个投资人涌进来，估值从千万飙到近亿。 然后，坏消息接踵而至。1月13日，被迫改名“Demumu”，效果不佳，又把命名权交给网友。1月15日，突遭苹果下架，原因至今未公开。 最现实的一刀来自公司内部。创始人吕功琛的原公司因担心他精力有限，建议他离职。他随后办了离职手续，后来在采访里说了一句话： “软件火了，工作丢了。” 故事走到这里，很多人以为它就此熄火。 杭州的一封邮件，救活了它 转折发生在1月底。 杭州市上城区数据资源管理局应用推进科科长孟慧君，给吕功琛发了一封邮件。邮件里详细分析了产品的价值，写明了上城区能提供的支持，还把“能提供什么”和“他们需要什么”对应得清清楚楚。信里有一句话后来被反复引用：“我们有场景、有数据、有落地的经验。” 发出邮件的第二天，上城区的为企服务团队就见了面。从邮件联系到敲定落户，只用了半个月。公司“",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-212-15-ai-1792897800000",
+    "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
+    "link": "https://www.tmtpost.com/8179663.html",
+    "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。",
+    "publishedAt": "2026-10-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
       "technology",
+      "business",
       "ai"
     ]
   },
@@ -175,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fsd-1792653288000",
-    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-    "link": "https://www.qbitai.com/2026/10/504841.html",
-    "summary": "FSD一年增长70万付费用户",
-    "publishedAt": "2026-10-22",
+    "id": "news-5090-34b-1792746217000",
+    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+    "link": "https://www.qbitai.com/2026/10/504931.html",
+    "summary": "房间秒变草原，抬手就能下雪",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -188,16 +215,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792896210000",
-    "title": " 赵斌：从新型生态系统看待人类影响的自然系统 ",
-    "link": "https://www.huxiu.com/article/4900233.html?f=rss",
-    "summary": "本文来自微信公众号： 生态学时空 ，作者：复旦赵斌，原文标题：《赵斌：从新型生态系统看待人类影响的自然系统 | 25届中国生态学大会分论坛报告》 我们怎么看待这样一个地方？一只鸟之所以到这儿来，肯定要觅食，这里也是它的活动空间。对鸟来说，太阳能光伏板似乎为它提供了一个活动场所。这就让我们想到一个问题：这个地方算不算自然系统？按照经典保护标准，它不算——这块地已经被这里的复湿工程和光伏阵列永久重构了，不太可能回得去了；但它运转良好，甚至养育着濒危物种。我们该用什么样的框架来看它？这就是一个非常重要的问题。 我们最近有一批经济学家非常关注中国的生态学问题——一众经济学家开始研究生态学。他们得出的一个结论是：中国光伏扩张政策降低了鸟类多样性。仅仅是一项政策，就已经降低了鸟类多样性，更别说实际实施了。我相信这个题目可能是被审稿人修改过的，因为文章内容其实并没有谈太多（光伏与鸟类关系的实质）。我觉得这篇文章做得挺好——好在哪？数据，我全部给它演算过一遍，发现都是正确的。但是原始数据可能有问题，也就是没有经过清洗，就套用了很多经济学方法；可以猜测的，他们也从来没到实地看过，既不懂鸟类，也不懂生态学。 我将自己对这篇文章的质疑写了篇文章，发在自己的公众号上。观察者网好像也挺关注这个话题，他们进行了转载，浏览量14.6万。 同一块板子，两种结论：一边是欧洲的——就是德国那张照片里，光伏板上鸟类繁衍",
+    "id": "news--1792920423000",
+    "title": " 如何贩卖怀疑并操纵大众认知 ",
+    "link": "https://www.huxiu.com/article/4900281.html?f=rss",
+    "summary": "本文来自微信公众号： 李翔李翔 ，作者：叫我以实玛利 借着出差旅行，读完《贩卖怀疑的商人》。注意到这本书，其实是马斯克推荐过。 马斯克推荐这本书的理由，是他很愤怒于为什么有那么多人，包括一些有影响力的人，会拒绝承认全球变暖这件事。而《贩卖怀疑的商人》讲述的主题就是：一群科学家再加上背后的行业利益推动，在大众的观念里植入了一种对科学事实的怀疑，从吸烟和二手烟有害健康、酸雨、臭氧洞到全球变暖。 作者称这种贩卖怀疑的策略为“烟草战略”。因为这一战略曾被烟草行业应用。这个战略是：利用少数科学家，借助行业律师和公共关系专家的辅导，对抗不利于自身的科学。 1.烟草战略 1950年代初期，研究人员发现，烟草会致癌。1953年末，《纽约时报》、《生活》杂志、《读者文摘》等都报道了一项研究：把香烟焦油涂抹在老鼠皮肤上会致癌。 1953年12月，美国四大烟草公司的总裁和伟达公关创始人约翰·希尔见面，商量该如何应对。希尔给烟草公司的建议是，赞助更多的新的科学研究，“必须维系一种科学的怀疑”。 伟达公关的老板跟烟草大佬们开完会没多久，伟达公关起草了一份包含15个科学问题的文件，很有代表性，比如：实验表明，涂抹了香烟焦油的老鼠患上了皮肤癌，但被放在烟雾缭绕房间里的老鼠却没有，为什么；再比如，为什么吸烟率接近的城市，肺癌患病率却差异很大；以及，气候会导致癌症吗… 这个策略持续了半个世纪。烟草行业创建了“烟草业",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology"
+    ]
+  },
+  {
+    "id": "news--1792893780000",
+    "title": "阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻",
+    "link": "https://www.tmtpost.com/8180790.html",
+    "summary": "此次拟终止在新三板挂牌之际，阿宽食品正面临着不小的业绩压力。",
+    "publishedAt": "2026-10-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
     ]
   },
   {
@@ -226,25 +267,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-job-seekers-say-they-re-still-being-ghosted-even-as-they-re--1792786740000",
-    "title": "Job seekers say they’re still being ghosted — even as they’re trying harder to get noticed",
-    "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
-    "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
-    "publishedAt": "2026-10-23",
+    "id": "news-ceos-say-they-re-not-yet-seeing-transformational-change-from-1792694100000",
+    "title": "CEOs say they’re not yet seeing transformational change from AI",
+    "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
+    "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
+    "publishedAt": "2026-10-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-xing4-0-29b-intent-1792653074000",
-    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-    "link": "https://www.qbitai.com/2026/10/504832.html",
-    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-    "publishedAt": "2026-10-22",
+    "id": "news-5b-4-1792745416000",
+    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+    "link": "https://www.qbitai.com/2026/10/504930.html",
+    "summary": "",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -253,16 +295,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792894313000",
-    "title": " 硅谷的天才们怎么天天研究让AI 在《我的世界》里砍树？ ",
-    "link": "https://www.huxiu.com/article/4900228.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：糕级冻雾，编辑：沈知涵，原文标题：《硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？》 硅谷最顶尖的那批人才，现在每天上班研究的是怎么让AI速通《我的世界》。 怎么砍树、挖矿、做装备、打末影龙，这些全都成了研究内容。研究完，发论文，和其他家AI进行PK。 有人拿Claude单个AI闯关，有人研究用Jev速通，谷歌最近就让四个Gemini组队，从0开始“取经”。 《我的世界》现在快成AI圈的“科目三”了，而且，玩法越来越有意思了。 从“单枪匹马”到“师徒四人” 看看AI在《我的世界》里一路是怎么走过来的。 Claude那会儿，是开发者给它准备好采矿、做装备、战斗的工具，让它自己决定下一步干什么，再自己调用工具行动。最后，Claude花了不到四小时，击败了游戏里的大Boss末影龙。 Claude Opus 5不到四小时击败末影龙｜YouTube 进阶一些的版本。两个模型合作，GPT6-Astra负责规划，Jev（擅长快速决策）负责选择动作，八分四十三秒通关。当时这还作为一个“Jev的成功案例”，在社交媒体上火了一阵。 最新进展，是四个Gemini 4 Argon组队，从零手搓《我的世界》，它们心里只有一个既定的目标，打败Boss。 四个Gemini空手进入游戏，没有人类编写的程序可以依靠，砍树、挖矿、做装备，都得自己从头学。要砍树，就写一段砍",
+    "id": "news-30-1792917314000",
+    "title": " 30岁，他登顶最年轻富豪 ",
+    "link": "https://www.huxiu.com/article/4900277.html?f=rss",
+    "summary": "本文来自微信公众号： 投资界 ，作者：王露 AI新贵。 报道/投资界PEdaily 30岁，身家300亿，这大抵是只会发生在AI时代的一幕。 今年福布斯400富豪榜发布，榜上最年轻的是一位30岁华人程序员——Steven Hao，1996年出生，毕业于麻省理工学院。 时间回到三年前，他牵头创办AI编程公司Cognition，推出AI程序员Devin。如今，公司估值已达到480亿美元。作为持股最多的创始人，Steven身家达到58亿美元（约合人民币380亿元）。 此刻，越来越年轻的创始人接连登上财富榜，这样的故事正密集发生在AI时代。 30岁，数学高材生 最年轻富豪诞生 华人似乎历来擅长数学。 出生于1996年，Steven Hao于17岁获得国际信息学奥林匹克竞赛（IOI）银牌，次年又与Scott Wu（他日后创业伙伴）一同摘得金牌，这也是Scott的第三枚IOI金牌。 不为人所知的是，Meta首席AI官、Scale AI创始人Alexandr Wang也是他们少年时的竞赛伙伴。十几岁时，这群少年写过一份天马行空的创业点子清单，虽然想法不怎么样，但Alexandr真的开始创业，并且做成了。熟悉的人先迈出一步，念头就这样在朋友间蔓延。 离开赛场，几人各有去处。Steven进入麻省理工学院，专业是计算机科学与数学，其间曾在Jane Street、Dropbox、Quora等地实习。毕业",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-pc-1792893240000",
+    "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
+    "link": "https://www.tmtpost.com/8180842.html",
+    "summary": "AI PC的竞争，早已不再停留在有没有NPU的浅层比拼。",
+    "publishedAt": "2026-10-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
     ]
   },
@@ -292,26 +348,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ceos-say-they-re-not-yet-seeing-transformational-change-from-1792694100000",
-    "title": "CEOs say they’re not yet seeing transformational change from AI",
-    "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
-    "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
+    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
+    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
+    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
+    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
     "publishedAt": "2026-10-22",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-openai-1792652759000",
-    "title": "谁在给OpenAI供应具身数据？",
-    "link": "https://www.qbitai.com/2026/10/504800.html",
-    "summary": "挤进全球Physical AI核心供应链",
-    "publishedAt": "2026-10-22",
+    "id": "news-ai-50-1792745143000",
+    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+    "link": "https://www.qbitai.com/2026/10/504915.html",
+    "summary": "让AI真正走进真实世界",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -320,16 +375,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1792893990000",
-    "title": " AI 短剧，未必是“算力泔水” ",
-    "link": "https://www.huxiu.com/article/4900227.html?f=rss",
-    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《AI 短剧，未必是「算力泔水」》 这两天一份几个月前的PDF文档被传开来，是某家咨询公司的投资者关系活动纪要，里面给出了一组惊人的数字：在国内所有Token消耗中，AI短剧与视频生成占到55%，电商与营销占24%，软件开发只有15%。 好了，话题有了：国内一半AI算力，都拿去造爽剧了。 这个数字之所以让人过目不忘，也不全是因为数字夸张，也符合一种期待错位：我们都以为AI的使命是去写程序、做科研、提高生产力，最先铺天盖地出现的，却可能是一部又一部几分钟看完的逆袭、复仇和霸总故事。 但是，这话真的准确吗？ 55%是能算出来的吗？ 显然是不准确的。 首先算力被如何消耗，实际上无法轻易计算出来。一项训练任务通常会以独立作业进入集群，调用多少张卡、运行多久、属于哪个模型、产生多少GPU时，都写在调度与计费记录里。推理同样会经过明确的模型服务端点，云厂商可以统计基础设施的请求量、Token、生成时长及占用资源。Deloitte曾估算过，2026年推理约占全部AI计算的三分之二。 但继续追问推理结果拿去做了什么，基础设施不一定知道。同一个视频模型生成的十秒画面，可能用于短剧、广告、游戏素材、视频音频；一部短剧又会同时调用文本、图片、视频、语音等多个模型。除非客户主动标注业务类型，或者平台根据账户和工作流进行推断，否则底层日志只",
+    "id": "news-ai-1792917113000",
+    "title": " 丈母娘也开始抢AI人了 ",
+    "link": "https://www.huxiu.com/article/4900276.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：小金牙 最近，OpenAI连员工的桃花运都操心上了。 据报道，OpenAI在反间谍培训中提醒员工，外部人员可能用恋爱或性关系作诱饵，接近他们，获取公司机密。也就是俗称的“美人计”。 你以为对方对你有意思，对方可能对你公司的机密更有意思。有人将此事总结为“OpenAI提醒员工别忘了自己又丑又无趣”。 这个信息放在现在的硅谷着实有点微妙。 其实有人一听你在OpenAI上班，就想认识你，这事放到今天的婚恋市场，还真算不上离奇。这也许也是为什么以“美人计”接近OpenAI员工可以奏效——确实很常见啊。 在湾区婚介眼里，OpenAI和Anthropic的员工，已经排进了择偶的“第一梯队”。有客户找对象，连对方在哪家公司上班，都要指定清楚。有些人的择偶打算，已经远远超出了“找个工资高的对象”。人还在中国，就开始考虑去硅谷定居。 原本总被调侃不解风情的技术宅，如今却成了有人点名要找的对象。聪明、收入高、行业有前途，甚至连不太会社交，都有人觉得可爱。 AI公司在抢人，相亲市场也在抢。 “对我来说，现在的婚姻是一场资产重组。” 说这话的，是一名40多岁的中国女企业家。 她离过婚，目前和儿子一起住在中国，正在计划去硅谷定居。对于下一任丈夫，她尤其感兴趣的是这样一类人：在准备上市的AI公司工作，手里有可能升值的股票。 她解释，普通的工资收入，交完税未必能剩下多少。相",
     "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1792893151000",
+    "title": "电动化转型有了起色，沃尔沃却越来越难赚钱了",
+    "link": "https://www.tmtpost.com/8180823.html",
+    "summary": "纯电销量增长难抵传统车型下滑，沃尔沃利润转亏，降本难解转型压力。",
+    "publishedAt": "2026-10-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
       "ai"
     ]
   }
@@ -875,4 +944,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-25T03:01:44.249Z';
+export const dataFetchedAt = '2026-10-25T10:38:15.620Z';
