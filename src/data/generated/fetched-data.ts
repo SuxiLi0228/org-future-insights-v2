@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "news-starlink-seems-to-be-working-normally-again-in-ukraine-1792874794000",
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -54,16 +54,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792863439000",
-    "title": " 品牌没有自嘲的资格 ",
-    "link": "https://www.huxiu.com/article/4900210.html?f=rss",
-    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 自嘲是弱者的武器 “老登”这个词流行起来的土壤，是年轻人面对上级、长辈、甲方时那种说不出口的憋屈。 开会时不能顶撞，饭桌上得敬酒，工作群里得回“收到”。然后在私聊窗口里，打出两个字：老登。 政治学家詹姆斯·斯科特在马来西亚农村做过长期田野调查，写成一本书，叫《弱者的武器》。 他发现，没有权力的人很少正面反抗。他们用的是磨洋工、装糊涂、背后起外号、讲讽刺笑话。这些小动作改变不了权力结构，但能让弱者在心里守住一块地盘：我服从你，但我不认同你。 “老登”就是这样一件武器。 它的全部力量，来自说话的人和被说的人之间的不对等。一个实习生在背后叫领导“老登”，是冒险，是发泄，也是一点点尊严。 现在把这个词放进另一个场景：一家上市公司，在自己的官方发布会上，对着全网直播，用它来定义一种审美、一类人群。 同一个词，方向反过来了。它成了一个手握预算、渠道和话筒的机构，借用下面人的口吻，给一部分消费者贴标签。 文化研究里有个说法叫“收编”：亚文化的符号被主流商业吸纳，剥掉反抗的内核，变成一种可以出售的风格。 朋克身上的别针最后走上了时装周，就是这个过程。小鹏这次又往前走了一步。它不只是收编了一个词，而是拿起弱者的武器，指向了别人。 一个词从工位传到发布会，就从反抗变成了收编。 伪自嘲：以自嘲为外衣的他嘲 有一层看起来成立的逻辑：我们骂的是自己的老板，这不",
-    "publishedAt": "2026-10-24",
+    "id": "news-ai-600-48-1792896455000",
+    "title": " AI增效时代，给品牌的几条忠告——从老干妈「600变48」说起 ",
+    "link": "https://www.huxiu.com/article/4900232.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌日常 ，作者：mellr，原文标题：《AI增效时代，给品牌的几条忠告——从老干妈「600变48」说起》 老干妈大概没有预料到，2026年贵州省质量发展大会上那组“漂亮的数据”，会在一个月后变成一场品牌信任危机。 常务副总李鑫披露的信息本身是扎实的：AI视觉质检系统上线后，高速相机每0.3秒扫描一次传送带，关键工序不良率降到0.02%，核心原料实现全链路追溯，2025年营收54亿元创历史新高。拣椒流水线从600多人缩减到48人。 单看生产端，这是一份无可挑剔的成绩单。但随后舆论转向的地方，才是真正值得研究的地方——讨论重心从「AI有多厉害」，拐到了一个谁也没准备答案的问题： 552个人，去哪了？ 一边是生产效率的提升，一边是岗位数量的大幅减少。两个数字放在一起，迅速引发了公众对AI替代人工的讨论。 截至10月24日本文发出时，老干妈官方依然没有就人员安置、转岗或补偿细节作出任何公开回应。公众能拼凑出来的只有零散信息：极少数老师傅留做复核，一部分内部转岗到仓储、包装，而“不少离开的是本地四五十岁女工”，据称“绝大多数拣椒工属于季节性劳务用工，合同到期后不再续签”。但“合同到期不续签”和“主动转岗安置”在公众感知里是两码事，而老干妈没有把这两条路径的比例、标准和安排摆到台面上。 《年会不能停！》里把裁员叫“广进计划”，取财源广进的谐音。电影用喜剧让观众笑出声，是",
+    "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -79,16 +80,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "summary": "Instacart might sell itself to a larger competitor.",
+    "id": "news-will-ai-expose-the-rickety-infrastructure-of-the-internet-1792872933000",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -119,16 +121,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792862110000",
-    "title": " 一句“老登”撕开假象：品牌伪年轻化，总在冒犯付费主力 ",
-    "link": "https://www.huxiu.com/article/4900209.html?f=rss",
-    "summary": "本文来自微信公众号： 镁联社 ，作者：镁联社 一场本该用来讲产品、抢订单的新车发布会，最后栽在一句轻飘飘的圈层黑话里。 小鹏MONA L05发布会上，一名00后产品经理临场抛出“老登怎么会懂年轻人想要什么”。事发之后，道歉、解释接踵而至：这只是内部吐槽管理层保守的玩笑，本意针对固化的设计思路，并非面向消费者。 但公共传播没有自带注释，也不接受“我不是那个意思”的事后补证。 一句圈内自嘲，脱离封闭会议室，扔进全网直播的公域流量池，语义立刻失控。这件事最刺眼的讽刺就摆在眼前：车企拼尽全力做年轻化、追Z世代流量，却当众用年龄标签，刺伤了汽车市场真正掏钱买单的底盘——35–50岁的中年人。 小鹏这次翻车，根本不是孤立的口误事故，而是国内消费行业盛行多年的伪年轻化病，一次集中的、赤裸裸的暴露。很多品牌早已把制造代际对立当成流量捷径，把圈层玩梗等同于创新，在追逐热度的路上，持续消耗核心用户的耐心与信任。 一、一句口误的传播陷阱：私域梗，没有资格登上公域舞台 在小团队脑暴、同圈层社群里，“老登”这类词，是熟人之间用来吐槽思路僵化、审美落后的戏谑表达，圈内人彼此知根知底，一笑而过。 可发布会是什么场合？是面向潜在买家、行业媒体、全年龄网民的商业宣讲台，不是年轻人关起门聊天的私聊框。 年轻创作者很容易陷入一个盲区：默认所有人都和自己共享同一套语境。他们觉得只是一句吐槽思路保守的玩笑，却看不见屏幕另一",
-    "publishedAt": "2026-10-24",
+    "id": "news-ai-1792896289000",
+    "title": " 王虹和韦东奕们，也要被AI“斩杀”了？ ",
+    "link": "https://www.huxiu.com/article/4900230.html?f=rss",
+    "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：王动，编辑：章鱼，题图来自：视觉中国 一位拿过数学界顶级大奖的教授，被AI气哭了。 &ldquo;周二晚上，我哭了，把女儿吵醒了。&rdquo; 10月8日，法国数学家雨果&middot;杜米尼尔－科潘在一场线上会议上，讲起了自己的经历。他是2022年菲尔兹奖得主，早已经站在数学研究的顶端。让他落泪的，是OpenAI刚刚公布的一大批数学研究成果。 其中，有16个问题直接关系到他的研究。 在随后的电台采访中，他说AI像推土机一样，把自己正在研究的问题一路推平了。仅用0.1秒，经常打工的人就共情了这位顶级数学家的职场困境。它相当于&mdash;&mdash;你花了很多年学习、积累，好不容易找到一个可以暴富的商机，突然有人告诉你： 这一整套商业模式，半天前被AI用0成本落地了。 雨果&middot;杜米尼尔－科潘当然不是唯一一个受害者。 OpenAI一次性发布了722篇数学论文，涉及到了数百项数学成果，涉及数论、几何、理论计算机科学等多个领域。 在著名的论文预印本平台arXiv上，一个人每月只能上传2篇论文，如果要把这些论文都传上去，至少也得有300多个号才行。 其中有一些相当难的问题，已经困扰科学家百年了。 比如1859年提出的黎曼猜想，已经过了167年，至今仍然悬而未决，OpenAI 说他们这次取得了重要的进展，给出了更强的&ldquo",
+    "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -145,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-block-8217-s-new-voice-model-sounds-eerily-human-1792857600000",
-    "title": "Block&#8217;s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1792868400000",
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -185,11 +188,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792858618000",
-    "title": " 长鑫的千亿利润里，藏着第一个拐点 ",
-    "link": "https://www.huxiu.com/article/4900208.html?f=rss",
-    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 一 10月16日晚，长鑫科技发布前三季度业绩预告：营收约2650亿至2700亿元，归母净利润约1310亿至1325亿元。去年同期，这家公司还亏损52.8亿元。 这确实是个历史性的数字：一家三年前还在巨亏的国产DRAM厂商，九个月赚出了超过1300亿元。 但如果把三季度单独拿出来看，会发现一组不太对劲的数字：三季度营收比二季度多了约152亿至202亿元，归母净利润只多了约5.5亿至20.5亿元。 换句话说，每多卖100元，只多赚了4到10元。而就在上一个季度，这家公司的归母净利率还是53%。 存储芯片是典型的重资产、高固定成本行业。厂房和设备的折旧基本是固定的，多卖出去的每一颗芯片，大部分都直接变成利润。所以在涨价周期里，存储厂商的利润增速总是远远跑赢营收增速。 长鑫三季度恰好相反：多卖的钱，几乎没有变成利润。 预告只给了三季度的区间。把它和招股书披露的一季度数据、半年报数据放在一起，季度走势才完整： 这张表说明了一件事：利润率在二季度见顶了。 二季度营收增长96%、归母净利增长113%，利润跑赢营收，这是经营杠杆正常起作用的样子。三季度营收仍增长15%以上，归母净利却几乎持平，归母净利率从53.1%回落到46%左右，掉了约7个百分点。 这是本轮周期里，长鑫第一次出现营收还在涨、利润率却在掉的情况。 二 对于利润增速回落，目前流行的解释",
-    "publishedAt": "2026-10-24",
+    "id": "news--1792896210000",
+    "title": " 赵斌：从新型生态系统看待人类影响的自然系统 ",
+    "link": "https://www.huxiu.com/article/4900233.html?f=rss",
+    "summary": "本文来自微信公众号： 生态学时空 ，作者：复旦赵斌，原文标题：《赵斌：从新型生态系统看待人类影响的自然系统 | 25届中国生态学大会分论坛报告》 我们怎么看待这样一个地方？一只鸟之所以到这儿来，肯定要觅食，这里也是它的活动空间。对鸟来说，太阳能光伏板似乎为它提供了一个活动场所。这就让我们想到一个问题：这个地方算不算自然系统？按照经典保护标准，它不算——这块地已经被这里的复湿工程和光伏阵列永久重构了，不太可能回得去了；但它运转良好，甚至养育着濒危物种。我们该用什么样的框架来看它？这就是一个非常重要的问题。 我们最近有一批经济学家非常关注中国的生态学问题——一众经济学家开始研究生态学。他们得出的一个结论是：中国光伏扩张政策降低了鸟类多样性。仅仅是一项政策，就已经降低了鸟类多样性，更别说实际实施了。我相信这个题目可能是被审稿人修改过的，因为文章内容其实并没有谈太多（光伏与鸟类关系的实质）。我觉得这篇文章做得挺好——好在哪？数据，我全部给它演算过一遍，发现都是正确的。但是原始数据可能有问题，也就是没有经过清洗，就套用了很多经济学方法；可以猜测的，他们也从来没到实地看过，既不懂鸟类，也不懂生态学。 我将自己对这篇文章的质疑写了篇文章，发在自己的公众号上。观察者网好像也挺关注这个话题，他们进行了转载，浏览量14.6万。 同一块板子，两种结论：一边是欧洲的——就是德国那张照片里，光伏板上鸟类繁衍",
+    "publishedAt": "2026-10-25",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -210,10 +213,76 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-php-ocalypse-how-two-critical-web-bugs-almost-broke-the-inte-1792855800000",
-    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-    "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-    "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+    "id": "news-instacart-reportedly-discussed-selling-itself-with-doordash--1792859400000",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+    "summary": "Instacart might sell itself to a larger competitor.",
+    "publishedAt": "2026-10-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-job-seekers-say-they-re-still-being-ghosted-even-as-they-re--1792786740000",
+    "title": "Job seekers say they’re still being ghosted — even as they’re trying harder to get noticed",
+    "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
+    "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
+    "publishedAt": "2026-10-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-xing4-0-29b-intent-1792653074000",
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "link": "https://www.qbitai.com/2026/10/504832.html",
+    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+    "publishedAt": "2026-10-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1792894313000",
+    "title": " 硅谷的天才们怎么天天研究让AI 在《我的世界》里砍树？ ",
+    "link": "https://www.huxiu.com/article/4900228.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：糕级冻雾，编辑：沈知涵，原文标题：《硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？》 硅谷最顶尖的那批人才，现在每天上班研究的是怎么让AI速通《我的世界》。 怎么砍树、挖矿、做装备、打末影龙，这些全都成了研究内容。研究完，发论文，和其他家AI进行PK。 有人拿Claude单个AI闯关，有人研究用Jev速通，谷歌最近就让四个Gemini组队，从0开始“取经”。 《我的世界》现在快成AI圈的“科目三”了，而且，玩法越来越有意思了。 从“单枪匹马”到“师徒四人” 看看AI在《我的世界》里一路是怎么走过来的。 Claude那会儿，是开发者给它准备好采矿、做装备、战斗的工具，让它自己决定下一步干什么，再自己调用工具行动。最后，Claude花了不到四小时，击败了游戏里的大Boss末影龙。 Claude Opus 5不到四小时击败末影龙｜YouTube 进阶一些的版本。两个模型合作，GPT6-Astra负责规划，Jev（擅长快速决策）负责选择动作，八分四十三秒通关。当时这还作为一个“Jev的成功案例”，在社交媒体上火了一阵。 最新进展，是四个Gemini 4 Argon组队，从零手搓《我的世界》，它们心里只有一个既定的目标，打败Boss。 四个Gemini空手进入游戏，没有人类编写的程序可以依靠，砍树、挖矿、做装备，都得自己从头学。要砍树，就写一段砍",
+    "publishedAt": "2026-10-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+    "publishedAt": "2026-10-22",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-block-8217-s-new-voice-model-sounds-eerily-human-1792857600000",
+    "title": "Block&#8217;s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
     "publishedAt": "2026-10-24",
     "source": "TechCrunch",
     "tags": [
@@ -238,72 +307,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xing4-0-29b-intent-1792653074000",
-    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-    "link": "https://www.qbitai.com/2026/10/504832.html",
-    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-    "publishedAt": "2026-10-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1792858067000",
-    "title": " 意大利：比江苏还散装的“美食王国” ",
-    "link": "https://www.huxiu.com/article/4900207.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 你以为的意大利传统，其实没那么传统； 你以为的正宗，也未必比你家楼下的好吃。 开篇 夏日的罗马，阳光毫不客气。中午十二点半，梵蒂冈圣彼得广场外的游人队伍仍在缓缓挪动。广场四周被贝尼尼的柱廊和梵蒂冈的高墙圈着，一家食肆也没有；要填饱那些刚从西斯廷礼拜堂出来、又渴又饿的肚子，得往东拐进几百米外的博尔戈老城。 那一条条窄巷里，餐馆早已支起遮阳伞，每家门口的小黑板几乎一个模子刻出来——粉笔写下的“今日推荐”里，培根蛋酱意面（Carbonara Pasta）从来不会缺席。这道被全世界供奉为“意大利灵魂”的招牌，被旅游指南、米其林评委、油管美食博主反复称为”本地罗马传统”。 但你随便拉一个上了年纪的罗马人聊几句，问他奶奶有没有教他做培根蛋酱意面，大概率会得到一个不置可否的憨笑——因为这道菜，几乎和新中国同龄。 1944年盟军解放罗马，驻扎下来的美军军需里有大量培根和鸡蛋粉，意大利人把它们和当地手工面拼在一起，才有了培根蛋酱意面的雏形。而它第一次被白纸黑字写进食谱，已是1952年；更扎心的是，头一回郑重记下它的还不是意大利人，而是大洋彼岸芝加哥的一本餐厅指南。要等到1954年，它才头一回出现在意大利本土的刊物上。 如果这条已经让你大脑宕机，后面三条会把你的“美食记忆”直接格式化： 番茄称霸，不过两百年：今天被当成意大利菜灵魂的番茄，真正在当地厨房里",
-    "publishedAt": "2026-10-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-these-clever-apps-show-off-the-iphone-duo-8217-s-potential-1792854000000",
-    "title": "These clever apps show off the iPhone Duo&#8217;s potential",
-    "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-    "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-    "publishedAt": "2026-10-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-southwest-flight-attendant-sues-for-failure-to-accommodate-p-1792694100000",
-    "title": "Southwest flight attendant sues for failure to accommodate pet allergies",
-    "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
-    "summary": "The company allegedly said &ldquo;no accommodation&rdquo; could be made after it changed its policy in 2018 to allow cats and dogs on board.",
-    "publishedAt": "2026-10-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-openai-1792652759000",
     "title": "谁在给OpenAI供应具身数据？",
     "link": "https://www.qbitai.com/2026/10/504800.html",
@@ -314,6 +317,20 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1792893990000",
+    "title": " AI 短剧，未必是“算力泔水” ",
+    "link": "https://www.huxiu.com/article/4900227.html?f=rss",
+    "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《AI 短剧，未必是「算力泔水」》 这两天一份几个月前的PDF文档被传开来，是某家咨询公司的投资者关系活动纪要，里面给出了一组惊人的数字：在国内所有Token消耗中，AI短剧与视频生成占到55%，电商与营销占24%，软件开发只有15%。 好了，话题有了：国内一半AI算力，都拿去造爽剧了。 这个数字之所以让人过目不忘，也不全是因为数字夸张，也符合一种期待错位：我们都以为AI的使命是去写程序、做科研、提高生产力，最先铺天盖地出现的，却可能是一部又一部几分钟看完的逆袭、复仇和霸总故事。 但是，这话真的准确吗？ 55%是能算出来的吗？ 显然是不准确的。 首先算力被如何消耗，实际上无法轻易计算出来。一项训练任务通常会以独立作业进入集群，调用多少张卡、运行多久、属于哪个模型、产生多少GPU时，都写在调度与计费记录里。推理同样会经过明确的模型服务端点，云厂商可以统计基础设施的请求量、Token、生成时长及占用资源。Deloitte曾估算过，2026年推理约占全部AI计算的三分之二。 但继续追问推理结果拿去做了什么，基础设施不一定知道。同一个视频模型生成的十秒画面，可能用于短剧、广告、游戏素材、视频音频；一部短剧又会同时调用文本、图片、视频、语音等多个模型。除非客户主动标注业务类型，或者平台根据账户和工作流进行推断，否则底层日志只",
+    "publishedAt": "2026-10-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
     ]
   }
 ];
@@ -858,4 +875,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-24T20:09:01.470Z';
+export const dataFetchedAt = '2026-10-25T03:01:44.249Z';
