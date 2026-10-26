@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-10-ai-1792740951000",
-    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-    "link": "https://www.qbitai.com/2026/10/504901.html",
-    "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+    "id": "news-taas-token-1792747301000",
+    "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+    "link": "https://www.qbitai.com/2026/10/505083.html",
+    "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
     "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792983324000",
-    "title": " 武志红和李雪应该锁死 ",
-    "link": "https://www.huxiu.com/article/4900392.html?f=rss",
-    "summary": "本文来自微信公众号： 格十三 ，作者：十三姐，题图来自：视觉中国 武志红和李雪，说这俩名字可能还有人不清楚，但是说&ldquo;原生家庭&rdquo;和&ldquo;母职原罪 &rdquo;，几乎每个人都知道。 这些年，中国有无数个家庭，无数亲子关系，在这二位大神营造的&ldquo;过得不好就指控父母&rdquo;大环境之下，茁壮萎缩，日渐阴暗。 他们在最近在&ldquo;互撕前任大战&rdquo;里也做着同一件事&mdash;&mdash; 把对方指控为自己痛苦的成因，然后证明自己是受害者。 这套逻辑用在千万读者家庭里叫&ldquo;原生家庭创伤疗愈&rdquo;，用在前任身上就叫&ldquo;NPD诊断&rdquo;，在武老师和李老师的常用词典里叫 &ldquo;消耗性关系&rdquo; 。 被各自的粉丝认定为&ldquo;最通透、最清醒、最会识人术、最懂亲密关系、最会科学育儿&rdquo;的两个心理学大佬，现在彼此证明对方有人格障碍、有发育缺陷。 他俩认知水平和归因方式如此一致，还有共同语言 （用心理学术语吵架） ，难道你们不觉得其实他俩非常般配吗。 大家把这两位&ldquo;心理学大师&rdquo;互撕揭短当笑话来看，但我想说，对于真正的心理学者和有一点学术洁癖的人来说，这两个人早就已经是个笑话了。 专业群体不少人对他们的诟病，核心不在&ldquo;原生家庭重要吗&rdqu",
+    "id": "news-ai-90-1793016448000",
+    "title": " 只看一张脸，AI预测的死亡名单，90天后应验了一半 ",
+    "link": "https://www.huxiu.com/article/4900579.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：Steed 一张脸部照片，能看出一个人的生命还剩多久吗？ 美国的研究人员让一个AI给3820名癌症患者打“死亡风险分”。这些人AI从没见过，它手里的依据，只有每人一张脸部照片。 分数最高的122人，90天后，64人离世。 分数最低的975人，同样90天，去世的只有20人。 这些照片并没有什么特别，大多是病人接受放疗前，医院例行拍下的。 而AI做的这件事，医生其实每天都在做。 雷·麦（Ray Mak）是美国麻省总医院布莱根医疗集团的放射肿瘤科医生，也是这项研究的负责人之一。他说，医学院就是这样训练医生的：走进病房，先看一眼病人，对他的整体状况心里有个数。 这一眼很要紧。 雷·麦接诊过一位86岁的肺癌患者，老人看上去比实际年龄年轻不少，这成了雷·麦建议他接受更积极治疗的原因之一。到去年，老人已经90岁，状况依然不错。 后来研究人员用AI分析他当年的照片，估出的年龄比实际小了整整10岁。 反过来也一样。有的人看着比同龄人虚弱，身体可能扛不住太猛的治疗。 问题是，这一眼全凭经验，而人的眼力一向不太可靠。 在这个团队去年发表的第一代研究里，10名医生和研究人员看了100名晚期癌症患者的照片，判断他们短期内的生存情况。只看照片，他们的准确率大约六成，只比瞎猜强一点；拿到AI的分析结果后，提高到了八成左右。 这一次，他们想让AI看得更准。10月19日，新研究发",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1792983050000",
-    "title": "茶馆专访：被抄袭一年半以后，《莎拉的黑店》开张了",
-    "link": "https://www.tmtpost.com/8181534.html",
-    "summary": "九年、三个人、两只猫。",
+    "id": "news-q3-46-1793015643000",
+    "title": "万丰奥威Q3盈利降46%：高毛利通航业务承压，低空赛道烧钱不止｜看财报",
+    "link": "https://www.tmtpost.com/8182585.html",
+    "summary": "短期偿债压力山大。",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -120,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jev-1792660025000",
-    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-    "link": "https://www.qbitai.com/2026/10/504879.html",
-    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-    "publishedAt": "2026-10-22",
+    "id": "news-ai-1792746445000",
+    "title": "企业AI需要两个世界模型",
+    "link": "https://www.qbitai.com/2026/10/505032.html",
+    "summary": "特赞想让企业Agent真正懂业务",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-offer-1792982712000",
-    "title": " 不会AI还能拿到offer吗？我们从秋招岗位要求里找了一轮答案 ",
-    "link": "https://www.huxiu.com/article/4900409.html?f=rss",
-    "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 “你的AI水平怎么样，能具体说说吗？” 今年秋招，不少应聘者在笔面试环节都遇到AI能力相关的问题，有的还被要求参加AI coding笔试。在互联网企业工作一年的尚文对此感受颇深：去年秋招多数面试官看的还是基础能力是否匹配；今年无论是否是应届生，求职时几乎都得讲讲自己的“AI故事”了。 一个更明显的趋势是，AI能力要求并不局限于技术岗，正加快向非技术岗位延伸。写文案、做设计、剪视频、运营账号……各类工作都开始要求应届生要会用AI。有些企业还专门设置“AI动画师”“AIGC内容创作”等岗位，将AI能力作为招聘的核心要求。 AI技术的应用有助于企业降本增效、提升竞争力，而当这种影响延伸到求职市场，应届生会面临哪些机遇和挑战，他们又该如何应对？ AI能力要求，“入侵”大厂秋招岗位 对AI能力的要求，正越来越多地出现在校招的岗位描述中。今年7月，脉脉高聘人才智库发布的《抢占AI新生代——2026年名校生求职招聘洞察》（以下称《洞察》）显示，近两年1-5月，校招新发岗位AI渗透率从26.41%大幅提升到了37.56%[1]。 具体到今年互联网大厂的秋招，AI渗透更加广泛。我们对头部互联网大厂发布的秋招岗位进行统计发现，64.3%的岗位提及AI，58.6%的岗位被AI渗透。分岗位类型看，其中技术类岗位的AI渗透程度明显更深，总体的AI渗透率",
+    "id": "news-hdd-ai-1793015956000",
+    "title": " 被看衰的HDD，凭什么成了AI 的“数据终点站”？ ",
+    "link": "https://www.huxiu.com/article/4900578.html?f=rss",
+    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《被看衰的 HDD，凭什么成了 AI 的“数据终点站”？》 在NAND系列报告中，海豚君曾提出：AI推理让NAND从“外围数据仓库”跃升为“计算路径上的必需品”，SSD俨然成了一块存储算力的“Token电池”。 但市场常常忽略另一个事实：云端约80%的数据至今仍存放在机械硬盘（HDD）中。AI产生的海量数据，最终大部分都要落入HDD这个“数据终点站”。 过去十年，随着笔记本、台式机和传统企业级盘相继转向SSD，HDD出货量连续多年下滑，一直被贴着“夕阳产业”的标签。西部数据甚至在2025年2月分拆了闪迪（NAND业务），自身成为一家纯粹的HDD公司。 然而，这个“夕阳行业”正迎来一轮罕见的反转：2026年二季度，全行业HDD收入同比大增47%，由量价齐升驱动——出货容量同比增长29%，每GB均价上涨14%。每GB均价结束了多年的逐年下滑、由降转升，说明长达数年的行业下行周期已经结束。 本篇中，海豚君将围绕以下四个问题展开： 一.HDD是什么？与NAND有何不同？ 二.HDD为何会形成寡头格局？ 三.供给为何难扩？中国产能能否参与竞争？ 四.被看衰的HDD，凭什么成为AI时代的“数据终点站”？ 以下是详细分析 一.HDD是什么？与NAND有何不同？ HDD（硬盘驱动器）与NAND闪存（SSD的核心）是数据存储的两极：HDD像一",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +148,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-k3-1-pro-1792982761000",
-    "title": "国模沉寂两个月，Kimi K3.1 Pro挽尊了吗？",
-    "link": "https://www.tmtpost.com/8181251.html",
-    "summary": "国模这次支棱起来了吗？",
+    "id": "news-150-ai-vibe-coding-1793014181000",
+    "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
+    "link": "https://www.tmtpost.com/8182406.html",
+    "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -201,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fsd-1792653288000",
-    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-    "link": "https://www.qbitai.com/2026/10/504841.html",
-    "summary": "FSD一年增长70万付费用户",
-    "publishedAt": "2026-10-22",
+    "id": "news-5090-34b-1792746217000",
+    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+    "link": "https://www.qbitai.com/2026/10/504931.html",
+    "summary": "房间秒变草原，抬手就能下雪",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -214,23 +215,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1792982040000",
-    "title": " 超充越来越快，车企为何盯上换电？ ",
-    "link": "https://www.huxiu.com/article/4900407.html?f=rss",
-    "summary": "本文来自微信公众号： 识礁Farsight ，作者：识礁团队 在中国新能源汽车行业，换电一直是“少数派”路线，如今，该方案突然成为巨头们关注的焦点。 2026年10月19日，华为引望、宁德时代与时代电服签署《智能化补能生态战略合作协议》。三方将加强换电电池及换电网络方面的合作，并联合生态伙伴共同构建智能换电生态。未来搭载华为智驾方案的换电车型可实现自主换电。 10月22日，北汽与宁德时代签署全面深化换电业务合作协议。北汽旗下多品牌适配车型将接入宁德时代巧克力换电生态系统。未来双方将共建覆盖全国、高效互通的公共补能基础设施。 问题随之而来，随着超充技术进步、超充站逐渐普及，新能源汽车的充电时间不断缩短，与换电之间的补能时间差距也在收窄，为什么诸多车企开始加码换电？ 01 超充正在提速，换电也开始升温 虽然新能源汽车诞生之初，以北汽、蔚来为代表的车企就开始布局换电技术，但该方案一直未能成为主流补能方式。究其原因，由于电池和整车分离，相较快充技术，换电方案涉及的运营链路更加复杂。 一方面，车企不能“闭门造车”，而是需要对车型、电池、换电站进行全盘设计。由于电池技术发展日新月异，各种型号、规格电池层出不穷，换电方案一定程度上会限制车企的技术迭代。 另一方面，在跨品牌兼容和网络共享尚不充分的情况下，车企需承担较大的建站与运营投入，规模化推广也面临不小的压力。 更重要的是，随着超充技术逐渐成熟",
+    "id": "news-iphone-1793015436000",
+    "title": " 大模型时代，谁会成为那部不肯换掉的“iPhone”？ ",
+    "link": "https://www.huxiu.com/article/4900575.html?f=rss",
+    "summary": "本文来自微信公众号： 智讯智库 ，作者：杨发泽 在智能手机发展早期，发布会爱讲跑分，用户也爱比参数。后来，换机时越来越多人会先选品牌：习惯iPhone的系统，喜欢某家的影像，或者舍不得已经连在一起的设备与应用。性能仍然重要，买单的理由却更丰富了。 对于大模型而言，模型性能可以决定用户为什么来，却未必能决定用户为什么留下。模型质量是争夺用户的重要武器，但这种武器可以被对手反复挑战。技术领先并不能自动转化为持久的商业壁垒。 2026年8月以来，大模型更新密集，GPT-6 Astra、Claude Opus 5.5、Gemini 4 Argon等型号不断进入用户视野；国产模型也在能力与成本之间形成竞争优势，DeepSeek继续更新，MiMo、Kimi也在头部名单里。[1][2]版本越多，选择越难：哪次升级值得试，哪款产品值得长期付费？ 当项目资料、个人偏好和工作流程逐渐沉淀在同一款AI产品中，用户更换工具就需要重新配置、迁移资料并磨合使用习惯。Claude、WorkBuddy及云端Agent争夺的，正是用户日常工作的核心入口。 今天围绕AI排行榜展开的讨论，与智能手机市场早期对性能跑分的关注颇为相似。大模型也会走向这一步：用户会把工作留给那个懂要求、少返工、第二天还能接着做的产品。谁把这件事做好，谁就更接近那部不肯换掉的“iPhone”。 本文回答三个选择问题： 自己使用的AI不在榜首，",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-11-1792982487000",
-    "title": "AI的双11迷局：商家忙买单，用户只薅羊毛",
-    "link": "https://www.tmtpost.com/8181455.html",
-    "summary": "AI购物到底来没来？",
+    "id": "news-a-1793010796000",
+    "title": "武汉和长江存储等了二十年，A股却散席了",
+    "link": "https://www.tmtpost.com/8181223.html",
+    "summary": "芯片贵，周期短，武汉难。",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -280,11 +282,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xing4-0-29b-intent-1792653074000",
-    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-    "link": "https://www.qbitai.com/2026/10/504832.html",
-    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-    "publishedAt": "2026-10-22",
+    "id": "news-5b-4-1792745416000",
+    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+    "link": "https://www.qbitai.com/2026/10/504930.html",
+    "summary": "",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,24 +295,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aidc-1792981824000",
-    "title": " 光伏龙头集体“杀入”AIDC，谁真上桌了？ ",
-    "link": "https://www.huxiu.com/article/4900405.html?f=rss",
-    "summary": "本文来自微信公众号： 北极星太阳能光伏网 ，作者：燕七 光伏企业正在集体向AIDC靠拢，但公告布局和实际进展，却需要拆开来看。当前真正形成收入或明确订单的，集中在核心硬件和系统集成两个环节；机柜租赁处于签约与建设阶段，收入兑现尚需时间；而Token工厂、算力运营这类模式，多数企业连算力收入科目都尚未独立核算。 对于光伏企业而言，看见算力与绿电的交汇机会，只是起点，离真正上桌还有一定距离。 一、“算力+绿电”狂潮，因何而起？ 2025年以来，随着136号文落地，新能源上网电量原则上全部进入市场，行业从“上网模式”切换到“消纳模式”，光伏收益模型全部推到重塑，行业投资重心开始从“电源侧”转向“负荷侧”，“负荷为王”成了新的共识。 而算力是当前唯一确定的高增长负荷。 根据国家能源局数据，2025年全国算力中心总用电量约1700亿千瓦时，占全社会用电量的1.6%；到2030年，这一数字预计达到8000亿千瓦时，占比升至6%左右。据测算，“十五五”期间，算力用电年均新增超过1000亿千瓦时，八大枢纽节点的算力用电近三年平均增速接近40%，远高于全社会用电增速。更关键的是成本结构：据行业测算，在部分超大规模智算中心，电力占运营成本的比例可达60%—70%。 政策层面，2026年，“算电协同”首次写入《政府工作报告》，与“超大规模智算集群”并列为新基建工程；4月，国家发展改革委、国家能源局、工信",
+    "id": "news--1793014610000",
+    "title": " 大水取代了大蓝桶，中国的“大家庭”时代结束了 ",
+    "link": "https://www.huxiu.com/article/4900571.html?f=rss",
+    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 大水理论火了，年轻消费者玩这个梗，意思是不喝奶茶、不喝饮料，只喝1.5L、2L甚至更大的大桶白水。 对健康的呼吁是这个梗最严肃的部分，除此之外，这也代表了消费者的反精致情绪，如今粗糙与实用才是一种流行。 但与同时期爆火的“超长长长蛋挞”不同，大水不是“为了大而大”，不是简单地跟风和造梗，它是大众消费、社会结构变化的缩影。 可以说，大水时代，是一种必然。 2017年前后，几乎是同时，农夫山泉、怡宝、娃哈哈这几个瓶装水头部玩家，都看上了大水生意。 彼时，4L装大水成为了农夫山泉的重点推广项目，打出了“好水才能煮好饭”的口号，试图把家庭中的一部分自来水需求转化为包装水的需求。 同一时期，怡宝拿出了自己的4.5L大水，也是想走进家庭，广告词很抽象：“帝王般的生活，从怡宝4.5L开始。”娃哈哈也推出了4.5L纯净水，同样主打烧饭、炖汤、泡茶等扎根于生活场景的卖点。 这些4L大水对家庭场景的入侵，给大水消费种下了一颗种子。而在水品牌们做大规格包装水的同时，水杯赛道也在同步做大容器。 2016年，Stanley 1.18L吸管杯Stanley Quencher上市，刚上市卖得很差，因为品牌原本是给户外、蓝领做保温容器的，没找对人群，这款杯子差点停产。直到2019-2020年，这款大容量杯子开始在女性圈层走红，慢慢走进通勤、办公室、健身、",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1792982211000",
-    "title": "肖战新剧《小城良方》广告位要靠抢，长剧招商还没有死？",
-    "link": "https://www.tmtpost.com/8181454.html",
-    "summary": "市场越是不确定，钱越只敢去最确定的地方。",
+    "id": "news--1793010782000",
+    "title": "与火山合并后，飞书首席战略官史志隽将卸任",
+    "link": "https://www.tmtpost.com/8182111.html",
+    "summary": "“所有飞书员工，都要在字节重新找到自己的位置。”",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -361,11 +362,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1792652759000",
-    "title": "谁在给OpenAI供应具身数据？",
-    "link": "https://www.qbitai.com/2026/10/504800.html",
-    "summary": "挤进全球Physical AI核心供应链",
-    "publishedAt": "2026-10-22",
+    "id": "news-ai-50-1792745143000",
+    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+    "link": "https://www.qbitai.com/2026/10/504915.html",
+    "summary": "让AI真正走进真实世界",
+    "publishedAt": "2026-10-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -374,23 +375,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ins-1792981573000",
-    "title": " 深度｜INS能复制在上海复兴公园创造的奇迹吗？ ",
-    "link": "https://www.huxiu.com/article/4900403.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜INS能复制在上海复兴公园创造的奇迹吗？》 我有个哥们是上海INS的常客。每周五晚上，他从静安打车去复兴公园，喝两杯，听一会儿音乐，晃到凌晨再回家。他说那不是去玩，是去“回另一个家”。 但听说INS要在北京开店，他摇了摇头：“北京？那边的人不这么玩。” 2025年9月，夜生活综合体INS新乐园完成近3亿元A轮融资，投后估值26亿元。融资用途非常明确：用于北京朝阳公园西南角新项目建设，门店预计2027年正式开业。 上海的成绩单足够亮眼、也足够有说服力。据INS品牌公开经营数据，2024年门店营收接近10亿元，实现全年正向盈利；开业三年累计接待超480万人次，2025年单年接待客流近300万人次，同比增速超80%。 票价体系上，园区通票定价124—288元，截至2026年8月品牌运营月报，通票收入占散客消费比重已突破74%。行业荣誉层面，2026年DJ Mag全球百大俱乐部官方榜单中，INS位列全球第12名，刷新中国俱乐部有史以来最高排名。 但把这份复兴公园的成功平移到朝阳公园，绝非简单的“复制粘贴”。这本质是两座城市、两套夜间消费逻辑、两种城市空间结构的根本性碰撞。 上海的成功，不是“模式”的成功，是“土壤”的成功 INS在上海打磨出了成熟的产品、票价与内容体系，但它最大的核心红利，是恰好嵌入了复兴公园的城市区位与街区",
+    "id": "news-alpha-school-2-1793014512000",
+    "title": " Alpha School现状：“2小时学习模式”被质疑未达承诺效果 ",
+    "link": "https://www.huxiu.com/article/4900570.html?f=rss",
+    "summary": "本文来自微信公众号： 芥末堆 ，作者：昆布 10月23日，基于Alpha School发布的文件及高管声明，以及对9名Alpha School之前及现在的家长和员工的采访，《纽约时报》刊发了《Students at an A.I.School Were Supposed to Learn Faster.Many Aren’t.》一文，让读者了解Alpha学生的表现与Alpha所承诺的效果是否相符，以及Alpha School的学校网络目前对公立学校领域的影响有多大。 2014年，麦肯齐·普莱斯（MacKenzie Price）成立Alpha，创办初衷是她的女儿抱怨在学校感到很无聊。起初，Alpha的小规模学生群体在私人住宅中使用主流学习应用程序进行学习。2022年左右，生成式AI技术迅速发展，Alpha转变了重心，开启了“2小时学习模式”，向传统学校发出挑战。 Alpha承诺，利用AI技术，能让孩子们比在传统课堂上学习多一倍的知识，同时节省一半的时间。孩子们每天只需在上午花2到3小时在电脑上学习，下午就可以参加编程、演讲和体育运动等工作坊。在Alpha，纸质书籍和纸张很少，所有课程都通过应用程序进行。 Alpha也没有传统意义上的老师，取而代之的是主要负责目标设定与学习支持的“引导者”或“向导”，学生遇到难题还可以与海外导师进行视频通话。 Alpha还设置了激励机制，在Alpha的",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1792982188000",
-    "title": "海外红果，收割全球？",
-    "link": "https://www.tmtpost.com/8181447.html",
-    "summary": "海外复制红果，比想象中难。",
+    "id": "news--1793010772000",
+    "title": "网经社这波操作，快被媒体锤烂了？",
+    "link": "https://www.tmtpost.com/8181309.html",
+    "summary": "所谓“权威”，被媒体问住了。",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -402,7 +404,355 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2610.32982v1",
+    "title": "The Language of Instruction: Genre and Generative AI",
+    "authors": [
+      "James E. Dobson"
+    ],
+    "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures.",
+    "link": "http://arxiv.org/abs/2610.32982v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32978v1",
+    "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+    "authors": [
+      "Yuhan Liu",
+      "Lianhui Qin",
+      "Shenji Wan"
+    ],
+    "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality",
+    "link": "http://arxiv.org/abs/2610.32978v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32971v1",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "authors": [
+      "Xi Chen",
+      "Fengqi Hu",
+      "Zeyu Shen",
+      "Jiaying Xu",
+      "Shangding Gu",
+      "Pan Xu",
+      "Anqi Liu",
+      "Laixi Shi"
+    ],
+    "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability boundary. We introduce RobustRLlib, an algorithm-centric library and benchmark that addresses both challenges. It integrates 17 representative robust online, offline, and safe RL algorithms under a unified interface for substantially improved reusability, together with an enhanced evaluation platform spanning diverse real-world shifts and advanced humanoid and vision-language-action tasks. Systematic evaluation over 273 perturbation configurations provid",
+    "link": "http://arxiv.org/abs/2610.32971v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32969v1",
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "authors": [
+      "Amber Xie",
+      "Jiawei Fu",
+      "Xiaofeng Guo",
+      "Carmelo Sferrazza",
+      "Guanya Shi",
+      "Haozhi Qi"
+    ],
+    "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a hand embodiment gap, and records both commanded joint targets and measured joint states. Our key observation is that a small set of skills can support a wide range of dexterous tasks. During collection, t",
+    "link": "http://arxiv.org/abs/2610.32969v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32964v1",
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "authors": [
+      "Bernardo Perrone Ribeiro",
+      "Erkut Akdag",
+      "Egor Bondarev"
+    ],
+    "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the problem as normal-counterpart recovery in frozen DINOv2 feature space. Given normal supports, a velocity field is learned through conditional flow matching over frozen patch tokens to transport Gaussian noise toward normal features. Along straight paths, a single recovery step using one evaluation of the optimal field yields the posterior mean of the clean normal token without trajectory integration. The operating time governs how strongly recovery modifies a query token. With no anomalous validation samples availab",
+    "link": "http://arxiv.org/abs/2610.32964v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32955v1",
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "authors": [
+      "Federico Lucca"
+    ],
+    "summary": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protocol (stratified sampling, frozen snapshots, thread-grouped splits, pre-registered hypotheses, human labels in the agent's review loop) that yields ground truth before any training. On 739 real Italian/English emails labelled by the owner (231 unbiased, 500 adversarially sampled), we compare nine systems under thread-grouped cross-validation: the production keyword rules, a TF-IDF + logistic-regression baseline, local typed decision models (Tev1, Nimble), a hosted decision model",
+    "link": "http://arxiv.org/abs/2610.32955v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CL",
+      "cs.HC",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32951v1",
+    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "authors": [
+      "Yijing Ke",
+      "Tianle Cai",
+      "Ruosong Wang"
+    ],
+    "summary": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-policy and destabilize training. Existing remedies align the entire inference and training stacks, change global precision, or modify the learning algorithm. We ask whether aligning selected parts of the execution stack can stabilize BF16 RL while other implementation differences remain. We align training-side rounding locations with inference in three regions---RoPE, SwiGLU, and residual RMSNorm---by retaining selected intermediates in FP32 until their BF16 outputs. Across four Qwen-family models, aligning all three regions prevents the collapse observed under the default ",
+    "link": "http://arxiv.org/abs/2610.32951v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32948v1",
+    "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+    "authors": [
+      "Dianye Huang",
+      "Jiamei Guo",
+      "Yue Zhou",
+      "Mingde Li",
+      "Yi Xiong",
+      "Wei Wang",
+      "Nassir Navab",
+      "Zhongliang Jiang"
+    ],
+    "summary": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical prediction. Methods: This article presents HAD-VLM, a hybrid autoregressive-diffusion framework that combines autoregressive text generation with continuous measurement prediction within a shared backbone. Visual prompt tuning adapts the vision encoder to ultrasound images. A diffusion process predicts a five-component representation comprising caliper endpoint coordinates and measurement length. A post-processing strategy combining the proposed coordinate-length consistency mechanism with ensemble prediction is introduced to refine measurement estimates. We evaluate four echoca",
+    "link": "http://arxiv.org/abs/2610.32948v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32945v1",
+    "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+    "authors": [
+      "Yuhang Ji",
+      "Fasheng Xu",
+      "Tianjun Feng"
+    ],
+    "summary": "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises advertising returns. Three findings follow. First, when partly ad-supported and ad-free plans coexist, advertising can finance useful service for consumers who receive none under pure subscription. Lower effective quality in middle plans weakens the alternatives available to premium users, allowing higher prices for unchanged ad-free service. Some fully ad-supported users gain utility, while partly ad-supported and ad-free users lose: broader acces",
+    "link": "http://arxiv.org/abs/2610.32945v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "econ.TH",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32943v1",
+    "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+    "authors": [
+      "Yixuan Xu",
+      "Hailin Liu",
+      "Linxiang Peng",
+      "Can Yang"
+    ],
+    "summary": "Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID recommenders are typically trained with hard labels for the observed next item. Although such supervision identifies the target, it provides no explicit distributional information about alternative items conditioned on the same user history. Sequential recommenders can supply this item-level predictive knowledge, but transferring it to semantic-ID generation is challenging because the teacher and student operate in item and code spaces, respectively. We propose two complementary knowledge-distillation objectives for parallel semantic-ID recommenders, which predict all code positio",
+    "link": "http://arxiv.org/abs/2610.32943v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32941v1",
+    "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+    "authors": [
+      "Thomas Landeg",
+      "Thierry Tambe"
+    ],
+    "summary": "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually requires recovery demonstrations, policy retraining, or a separate model at inference time. We introduce Backtrack, a lightweight failure detection and recovery mechanism for frozen VLAs that needs none of these. A small failure prediction head, trained only on outcome-labeled rollouts of the frozen policy, reads the VLA's existing internal representations to estimate whether the current episode will fail. When the predicted failure probability exceeds a threshold, a controller pauses the policy, retraces the arm's recently achieved motion, and hands control back to the unchanged p",
+    "link": "http://arxiv.org/abs/2610.32941v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32940v1",
+    "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+    "authors": [
+      "Ilias Diakonikolas",
+      "Jelena Diakonikolas",
+      "Puqian Wang",
+      "Nikos Zarifis"
+    ],
+    "summary": "We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss. We give the first fully-polynomial time algorithm for this learning task. Specifically, our algorithm draws $\\mathrm{poly}(d, k, 1/ε)$ samples, runs in $\\mathrm{poly}(d, k, 1/ε)$ time, and outputs a hypothesis that is $ε$-close to the target concept with high probability. All prior algorithms for this problem require super-polynomial time in $k$ or $1/ε$, or leverage strong well-conditioned assumptions on the weight matrix. On a technical level, our approach develops a novel boosting procedure of a ``weak'' learner that recovers the hidden weight vectors to constant error, in a list-decodable manner. To d",
+    "link": "http://arxiv.org/abs/2610.32940v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.DS",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32933v1",
+    "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+    "authors": [
+      "Yalda Taheri",
+      "Mohammad Hassan Heydari",
+      "Armon Rasooli"
+    ],
+    "summary": "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embedding models. We present Yalda Embedding, a 595.8-million-parameter Persian retrieval model adapted from Qwen3-Embedding-0.6B using more than one million query-document pairs. On eight Persian retrieval tasks from FaMTEB, the model achieves the highest macro-average among the evaluated 0.6B models, scoring 0.5488 and outperforming Qwen3-Embedding-0.6B and F2LLM-v2-0.6B on every task. It also approaches Qwen3-Embedding-4B, winning on four tasks, tying on one, and trailing by 0.0075 in macro-average. An incremental ablation study examines contrastive batch size, optimization stabilization, and rela",
+    "link": "http://arxiv.org/abs/2610.32933v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32926v1",
+    "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+    "authors": [
+      "Aaditya Prasad",
+      "Steven W. Flavell",
+      "Brian DePasquale"
+    ],
+    "summary": "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is governed by the Zakai equation, a stochastic partial differential equation (SPDE) that combines the forward Kolmogorov operator (known as the Fokker-Planck equation) with observed likelihood updates. Although solving these high-dimensional SPDEs is often impossible analytically and intractable numerically, advances in operator learning and physics-informed machine learning have made it feasible. Harnessing these advances, we introduce the Zakai Equation Neural Operator (ZENO), a model that optimizes a neural operator against a Zakai Equation based physics-informed loss to appro",
+    "link": "http://arxiv.org/abs/2610.32926v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.LG",
+      "q-bio.NC"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32921v1",
+    "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+    "authors": [
+      "Pietro Di Nicco",
+      "Lucio La Cava",
+      "Andrea Tagarelli"
+    ],
+    "summary": "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic boundary. This design is inherently limited, as many meaningful concepts---including multiword expressions and the structured environments of formal languages like LaTeX---frequently span across whitespaces. While recent superword tokenization methods attempt to address this by relaxing whitespace constraints, they often rely on greedy frequency-driven merging that fails to account for token length or the specific needs of underrepresented domain-specific languages. In this paper, we introduce Adaptive Frequency Threshold Byte Pair Encoding (AdaBPE), a new tokenization method that leverages a",
+    "link": "http://arxiv.org/abs/2610.32921v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32919v1",
+    "title": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+    "authors": [
+      "Xinrui Li",
+      "Pawan Sasanka Ammanamanchi",
+      "Siddharth Bhat",
+      "Rianna Jamdar",
+      "Yongxi Lin",
+      "Stella Biderman"
+    ],
+    "summary": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to the statement, that is, to whether the formal statement faithfully translates its source. Given a trusted reference formalization, the natural test is logical equivalence, and it proves too much. $P \\leftrightarrow Q$ holds trivially for any two statements $P$ and $Q$ that the library proves, because a prover can prove each separately and pass through $P \\leftrightarrow \\mathrm{True} \\leftrightarrow Q$. The stronger the prover, the more unrelated pairs pass. Earlier methods restrict the prover and check that each proof names the other statement. We introduce SemantEq, a more",
+    "link": "http://arxiv.org/abs/2610.32919v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32914v1",
+    "title": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
+    "authors": [
+      "Rahul Golder",
+      "Bimol Nath Roy",
+      "MM Faruque Hasan"
+    ],
+    "summary": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfaction of algebraic constraints through differential projection. It can handle heterogeneous data and enforce both linear and nonlinear equality and inequality constraints. The modular design supports custom neural-network backbones and user-defined projection mechanisms for PCML. To enable efficient end-to-end training, KKT-HardNet exploits",
+    "link": "http://arxiv.org/abs/2610.32914v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.LG",
+      "cs.ET"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32910v1",
+    "title": "Recommender regret for improving regularised RL estimation with bandits and MCTS",
+    "authors": [
+      "Danilo Vucetic",
+      "Alexandre Larouche",
+      "Mohammad Pedramfar",
+      "Audrey Durand",
+      "Gauthier Gidel"
+    ],
+    "summary": "Regularised reinforcement learning (RL) algorithms rely on estimators, like Monte Carlo tree search or one-step look-ahead, to provide policy, value, or Q-value estimates in training and inference. However, existing bandit-based estimation frameworks evaluate sampling efficiency, not the quality of estimates. We address this by formalising estimate generation as a recommendation process, treating bandit-based sampling as an improvement operator. To evaluate the quality of a recommendation (estimate), we define regulariser-aware recommender regrets, analysing their lower bounds, and proving that simple algorithms like uniform sampling can achieve these bounds. Finally, we unify bandit- and search-based target improvement under recommender MCTS. Across synthetic trees, arcade games, and scie",
+    "link": "http://arxiv.org/abs/2610.32910v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32894v1",
+    "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
+    "authors": [
+      "Panagiotis Koromilas",
+      "Eleanna Vali",
+      "Diogenis Antonopoulos",
+      "Eleni Saka",
+      "Dimitris Christofis",
+      "Nikolaos Ioannis Bountos",
+      "Konstantin Klemmer",
+      "Ioannis Papoutsis",
+      "Yannis Panagakis",
+      "Mihalis A. Nicolaou"
+    ],
+    "summary": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz location encoder produces an output of intrinsic dimension at most 2, regardless of architecture or bandwidth, which forces the contrastive loss to strictly exceed its asymptotic optimum. Empirically, joint training also collapses the encoder's embedding covariance to low rank. Although dimension-limited, current location encoders sidestep this spectral collapse by training against a frozen image encoder, which we reinterpret as a covariance regularizer that supplies a high-rank target for the location encoder to fold onto. However, extending this approach to multimodal inputs",
+    "link": "http://arxiv.org/abs/2610.32894v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2610.32891v1",
+    "title": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
+    "authors": [
+      "Sadra Emami",
+      "Benjamin Weigell",
+      "Mohammad Reza Mousavi",
+      "Gunel Jahangirova",
+      "Hugo Araujo",
+      "Bernhard Bauer"
+    ],
+    "summary": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimization process can be offset by subsequent execution-time savings. We evaluate 11 open-source models across four decoding configurations on all 1,000 problems of EffiBench, a state-of-the-art performance benchmark, while collecting per-process, hardware-level energy measurements throughout. Inference energy spans 0.79 to 8.68 MJ across model-v",
+    "link": "http://arxiv.org/abs/2610.32891v1",
+    "publishedAt": "2026-10-23",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -602,4 +952,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-26T03:01:11.295Z';
+export const dataFetchedAt = '2026-10-26T12:11:24.269Z';
