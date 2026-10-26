@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-27-auto",
+    "date": "2026-10-27",
+    "session": "auto",
+    "title": "2026-10-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-27-auto-1",
+        "emoji": "⚠️",
+        "title": "Will the real Anthropic please stand up",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+      },
+      {
+        "id": "sig-2026-10-27-auto-2",
+        "emoji": "💡",
+        "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+        "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+        "detail": "来源: TechCrunch。Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+        "priority": "low",
+        "tags": [
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+      },
+      {
+        "id": "sig-2026-10-27-auto-3",
+        "emoji": "⚠️",
+        "title": "Yale New Haven Hospital can’t ditch lawsuit over age-biased physician test",
+        "summary": "The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
+        "detail": "来源: HR Dive。The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/yale-new-haven-hospital-cant-ditch-lawsuit-over-age-biased-physician-test/872804/"
+      },
+      {
+        "id": "sig-2026-10-27-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：The Language of Instruction: Genre and Generative AI...",
+        "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ",
+        "detail": "作者: James E. Dobson。This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.32982v1"
+      },
+      {
+        "id": "sig-2026-10-27-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-27-1",
+        "priority": "medium",
+        "action": "关注「Will the real Anthropic please stand up」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-27-2",
+        "priority": "low",
+        "action": "关注「Databricks co-founder shares his secrets」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-27-3",
+        "priority": "medium",
+        "action": "关注「Yale New Haven Hospital can’t ditch laws」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-27-4",
+        "priority": "medium",
+        "action": "关注「研究速递：The Language of Instruction: Genre 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-27-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-27 生成，聚合了 30 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-27 00:00 - 2026-10-27 23:59"
+  },
+  {
     "id": "report-2026-10-26-auto",
     "date": "2026-10-26",
     "session": "auto",

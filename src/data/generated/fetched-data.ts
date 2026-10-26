@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-testing-six-tech-promises-and-biotech-8217-s-bl-1792757400000",
-    "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
-    "publishedAt": "2026-10-23",
+    "id": "news-will-the-real-anthropic-please-stand-up-1793036743000",
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+    "publishedAt": "2026-10-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,24 +14,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-best-apps-for-tracking-your-reading-and-discovering-new--1792977000000",
-    "title": "The best apps for tracking your reading and discovering new books",
-    "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-    "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+    "id": "news-databricks-co-founder-shares-his-secrets-for-winning-big-ent-1793052000000",
+    "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
     "publishedAt": "2026-10-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ex-vp-for-nba-s-brooklyn-nets-claims-he-was-fired-for-taking-1792786740000",
-    "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
-    "link": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/",
-    "summary": "The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
-    "publishedAt": "2026-10-23",
+    "id": "news-yale-new-haven-hospital-can-t-ditch-lawsuit-over-age-biased--1793046300000",
+    "title": "Yale New Haven Hospital can’t ditch lawsuit over age-biased physician test",
+    "link": "https://www.hrdive.com/news/yale-new-haven-hospital-cant-ditch-lawsuit-over-age-biased-physician-test/872804/",
+    "summary": "The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
+    "publishedAt": "2026-10-26",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-90-1793016448000",
-    "title": " 只看一张脸，AI预测的死亡名单，90天后应验了一半 ",
-    "link": "https://www.huxiu.com/article/4900579.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：Steed 一张脸部照片，能看出一个人的生命还剩多久吗？ 美国的研究人员让一个AI给3820名癌症患者打“死亡风险分”。这些人AI从没见过，它手里的依据，只有每人一张脸部照片。 分数最高的122人，90天后，64人离世。 分数最低的975人，同样90天，去世的只有20人。 这些照片并没有什么特别，大多是病人接受放疗前，医院例行拍下的。 而AI做的这件事，医生其实每天都在做。 雷·麦（Ray Mak）是美国麻省总医院布莱根医疗集团的放射肿瘤科医生，也是这项研究的负责人之一。他说，医学院就是这样训练医生的：走进病房，先看一眼病人，对他的整体状况心里有个数。 这一眼很要紧。 雷·麦接诊过一位86岁的肺癌患者，老人看上去比实际年龄年轻不少，这成了雷·麦建议他接受更积极治疗的原因之一。到去年，老人已经90岁，状况依然不错。 后来研究人员用AI分析他当年的照片，估出的年龄比实际小了整整10岁。 反过来也一样。有的人看着比同龄人虚弱，身体可能扛不住太猛的治疗。 问题是，这一眼全凭经验，而人的眼力一向不太可靠。 在这个团队去年发表的第一代研究里，10名医生和研究人员看了100名晚期癌症患者的照片，判断他们短期内的生存情况。只看照片，他们的准确率大约六成，只比瞎猜强一点；拿到AI的分析结果后，提高到了八成左右。 这一次，他们想让AI看得更准。10月19日，新研究发",
+    "id": "news--1793052578000",
+    "title": " 当知识不再稀缺：大模型时代企业知识管理的四重风险 ",
+    "link": "https://www.huxiu.com/article/4900646.html?f=rss",
+    "summary": "本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：朱秀梅 陈柳阳，原文标题：《当知识不再稀缺——大模型时代企业知识管理的四重风险》 知识管理正在从效率问题演变为治理问题，其核心不是技术，而是人与机制。AI可以生成和整合知识，但不能判断知识该不该被信任，不能划定知识主权的边界，不能替人完成真正的学习。在AI时代，组织长远的知识竞争力最终取决于能否在拥抱技术效率的同时，构建起有效的治理体系，从“管理知识”迈向“驾驭AI知识”，真正把AI转化为组织竞争力。 知识不再稀缺 长期以来，企业知识管理面临两个经典难题：一是“不够”，大量经验掌握在少数专家手里，难以复制传承；二是“不通”，跨部门信息分散、术语不统一、经验沉淀不下来，新人需要长时间摸索。面对这一困境，企业知识管理主要集中在“获取、沉淀、共享、流动”等环节。 生成式AI显著降低了获取通用知识的门槛。大模型可以即时回答几乎任何通用问题；配合RAG（检索增强生成）技术，企业也更容易将制度、FAQ、操作手册和项目文档组织成可检索、可问答的知识库。员工遇到问题，不再只能依赖同事、搜索引擎或零散文档，而是多了一个随时可调用的“知识接口”。 然而，知识管理并未因此变得更简单。传统问题有所缓解但并未消失，一系列新问题随AI的广泛使用日益凸显。AI拥有海量通用知识，却难以触及行业深度知识和企业专有的情景化知识（如客户关系经验、情景直觉判断等）",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
@@ -65,6 +66,246 @@ export const generatedNews: NewsItem[] = [
       "business",
       "technology",
       "ai"
+    ]
+  },
+  {
+    "id": "news--1793024754000",
+    "title": "“金针菇第一股”旺季巨亏封死跌停！众兴菌业周期回摆业绩变脸 | 看财报",
+    "link": "https://www.tmtpost.com/8182754.html",
+    "summary": "价格红利退潮",
+    "publishedAt": "2026-10-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-everyday-ai-harms-and-the-race-to-nuclear-space-1793018400000",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
+    "publishedAt": "2026-10-26",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-watch-out-youtube-instagram-goes-from-short-form-to-90-minut-1793048711000",
+    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+    "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+    "publishedAt": "2026-10-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-company-s-dei-policy-made-white-men-second-class-candidates--1793046300000",
+    "title": "Company’s DEI policy made White men ‘second-class’ candidates, judge rules",
+    "link": "https://www.hrdive.com/news/judge-danaher-corp-dei-policies-made-white-men-second-class-candidates/872792/",
+    "summary": "A Florida district court held mostly for plaintiffs in the case, who claimed Danaher Corp. unlawfully maintained diverse hiring slates that favored women and people of color.",
+    "publishedAt": "2026-10-26",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1792746445000",
+    "title": "企业AI需要两个世界模型",
+    "link": "https://www.qbitai.com/2026/10/505032.html",
+    "summary": "特赞想让企业Agent真正懂业务",
+    "publishedAt": "2026-10-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793035768000",
+    "title": " 苹果第一次在供应链里排队 ",
+    "link": "https://www.huxiu.com/article/4900645.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 今年8月初，一条消息在中文互联网上刷屏：苹果想跟长鑫存储谈更低的LPDDR5X采购价，被拒绝了。长鑫的态度很明确，报价不低于三星和SK海力士，甚至可以更高。 评论区几乎一边倒：\"国产存储站起来了\"\"终于轮到我们对苹果说不\"。一家成立十年的中国DRAM厂，拒绝了全球最强势的采购方，确实很有\"爽文\"味道。 不过这个故事的主角其实不是长鑫，而是苹果。 过去二十年，苹果在供应链上一直是那个\"定规则的人\"。它决定谁能进果链，决定价格，决定账期，决定你下一年要扩多少产能。被苹果踢出局的供应商，股价可以一天腰斩。 而2026年发生的事情是：苹果第一次需要去排队了。排在它前面的，是英伟达、微软、谷歌、Meta，是那些正在疯狂建数据中心的AI巨头。 长鑫说\"不\"，只是把这个事实摆到了台面上。 一、苹果怕的不是贵，是买不到 先看苹果为什么会去找长鑫。 找一个新供应商，拿它的低报价去敲打三星、海力士和美光，这是苹果用了二十年的老套路。 但这一次，郭明錤给出了不同的判断。他认为苹果主动接触长鑫，主要驱动力是对未来缺货的恐惧。 他的推算是：到2027年，全球最多有20%的存储产能会从消费电子转向AI数据中心。他甚至预警，受LPDDR供应紧张影响，2026年下半年到2027年一季度，苹果拿到的A20芯片可能会少10%到20%。 苹果过去的供应链哲学，核心是\"确定",
+    "publishedAt": "2026-10-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-807-anthropic-2-1793024640000",
+    "title": "半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？",
+    "link": "https://www.tmtpost.com/8182734.html",
+    "summary": "如果说利润表令人震惊，那么资产负债表上的承诺才是真正的故事。",
+    "publishedAt": "2026-10-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-focus-on-ai-safety-disasters-ignores-everyday-harms-1793005260000",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "publishedAt": "2026-10-26",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-1793042560000",
+    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren&#8217;t happy about it",
+    "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+    "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+    "publishedAt": "2026-10-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-vague-job-postings-get-fewer-applicants-1793046300000",
+    "title": "Vague job postings get fewer applicants",
+    "link": "https://www.hrdive.com/news/vague-job-postings-get-fewer-applicants/872770/",
+    "summary": "Job posts that focus on personality traits and equipment are less effective than postings that outline specific role requirements, per a new study.",
+    "publishedAt": "2026-10-26",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5090-34b-1792746217000",
+    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+    "link": "https://www.qbitai.com/2026/10/504931.html",
+    "summary": "房间秒变草原，抬手就能下雪",
+    "publishedAt": "2026-10-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-1793034870000",
+    "title": " Anthropic还得继续“狂奔” ",
+    "link": "https://www.huxiu.com/article/4900644.html?f=rss",
+    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 半年营收超过去年全年三倍，净亏损却高达807.48亿美元。10月26日，美国人工智能公司Anthropic,PBC（以下简称“Anthropic”）向美国证券交易委员会（SEC）公开提交首次公开发行（IPO）注册文件，披露了这份反差鲜明的成绩单。招股书显示，2026年上半年，公司实现营收162.86亿美元，约为上年同期的14倍，营业亏损却从21.35亿美元收窄至6.93亿美元。 巨额净亏损主要来自融资工具的公允价值变动，并不能直接反映公司的实际经营表现。随着企业客户增加、模型使用需求扩大，Anthropic的盈利能力正在改善。但面对OpenAI、谷歌等竞争对手持续推出新模型、调整价格，以及已经签订的巨额长期算力采购合同，公司能否维持收入增长，并将其转化为稳定利润，仍是此次上市需要面对的重要考验。 01企业客户激增，半年营收超过去年全年三倍 Anthropic的营收在过去三年持续快速增长。 招股书显示，2023年，Anthropic实现营收4100万美元，2024年增长至3.86亿美元，2025年进一步达到45.85亿美元。 进入2026年，这一增长势头进一步加快。上半年，公司实现营收162.86亿美元，约为2025年同期11.63亿美元的14倍，超过去年全年营收的三倍。其中，第一季度营收47.31亿美元，第二季度进一步增长至115.55",
+    "publishedAt": "2026-10-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-15-1793017153000",
+    "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+    "link": "https://www.tmtpost.com/8181692.html",
+    "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。",
+    "publishedAt": "2026-10-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-testing-six-tech-promises-and-biotech-8217-s-bl-1792757400000",
+    "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+    "publishedAt": "2026-10-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-fusion-startups-are-giving-the-government-shares-in-exchange-1793041192000",
+    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+    "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+    "publishedAt": "2026-10-26",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-white-woman-allegedly-called-karen-can-t-show-race-bias-judg-1793028720000",
+    "title": "White woman allegedly called ‘Karen’ can’t show race bias, judge rules",
+    "link": "https://www.hrdive.com/news/white-woman-allegedly-called-karen-cant-show-race-bias/872753/",
+    "summary": "The plaintiff, a school psychologist, claimed the remark was part of a pattern of workplace discrimination. But courts have said such isolated comments don&rsquo;t violate the law.",
+    "publishedAt": "2026-10-26",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-5b-4-1792745416000",
+    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+    "link": "https://www.qbitai.com/2026/10/504930.html",
+    "summary": "",
+    "publishedAt": "2026-10-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793032929000",
+    "title": " 工资只有中国几分之一，为什么非洲制造并不便宜？ ",
+    "link": "https://www.huxiu.com/article/4900643.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 2019年，NYU纽约大学斯特恩商学院发布了一份基于哈瓦萨工业园实地走访和访谈的报告。 这是埃塞政府主推的旗舰园区，PVH、H&amp;M等品牌的供应商都在这里设厂。 他们记下的第一个数字是工资：入门级工人每月基本工资约26美元。同一份报告里，孟加拉服装工人月薪约95美元，肯尼亚约207美元，中国约340美元。埃塞工人的工资，是中国同行的十三分之一。 第二个发现更重要：在哈瓦萨做一件基础款T恤，成本比在孟加拉更高。 工资只有三分之一，产品却更贵。 这就是非洲制造业的核心矛盾。 一、低工资不等于低成本 2024年，中国规模以上企业“生产制造及有关人员”年平均工资78,561元，合每月约6,500元，折合约970美元。 非洲五国的法定最低工资是另一个量级。 尼日利亚全国最低工资7万奈拉，按2026年10月官方汇率约合53美元。埃及私营部门最低工资7,000镑，约合129美元。肯尼亚2026年5月将最低工资上调12%，大城市制造业工种的法定最低工资在158至215美元之间。摩洛哥2026年的法定最低工资税前约3,423迪拉姆，约合368美元。埃塞俄比亚私营部门至今没有法定最低工资。 需要说明，中国的数字是平均工资，非洲是法定底线，口径不完全可比。但量级差异是清楚的：尼日利亚的工资底线不到中国制造业平均水平的十分之一。 问题在于，工厂支付的是",
+    "publishedAt": "2026-10-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
     ]
   },
   {
@@ -94,11 +335,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grok-releases-the-first-seven-minutes-of-its-ai-generated-od-1792963876000",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "publishedAt": "2026-10-25",
+    "id": "news-this-startup-8217-s-self-driving-excavators-help-dig-up-600m-1793036700000",
+    "title": "This startup&#8217;s self-driving excavators help dig up $600M in new funding",
+    "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+    "publishedAt": "2026-10-26",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,10 +348,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-where-ada-and-pto-meet-1792786740000",
-    "title": "Week in review: Where ADA and PTO meet",
-    "link": "https://www.hrdive.com/news/week-in-review-where-ada-and-pto-meet/833883/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including EEOC suing over conciliatory agreements and the problematic pace of AI integration.",
+    "id": "news-ex-vp-for-nba-s-brooklyn-nets-claims-he-was-fired-for-taking-1792786740000",
+    "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
+    "link": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/",
+    "summary": "The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
     "publishedAt": "2026-10-23",
     "source": "HR Dive",
     "tags": [
@@ -118,247 +359,6 @@ export const generatedNews: NewsItem[] = [
       "ai-hr",
       "workforce",
       "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1792746445000",
-    "title": "企业AI需要两个世界模型",
-    "link": "https://www.qbitai.com/2026/10/505032.html",
-    "summary": "特赞想让企业Agent真正懂业务",
-    "publishedAt": "2026-10-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-hdd-ai-1793015956000",
-    "title": " 被看衰的HDD，凭什么成了AI 的“数据终点站”？ ",
-    "link": "https://www.huxiu.com/article/4900578.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《被看衰的 HDD，凭什么成了 AI 的“数据终点站”？》 在NAND系列报告中，海豚君曾提出：AI推理让NAND从“外围数据仓库”跃升为“计算路径上的必需品”，SSD俨然成了一块存储算力的“Token电池”。 但市场常常忽略另一个事实：云端约80%的数据至今仍存放在机械硬盘（HDD）中。AI产生的海量数据，最终大部分都要落入HDD这个“数据终点站”。 过去十年，随着笔记本、台式机和传统企业级盘相继转向SSD，HDD出货量连续多年下滑，一直被贴着“夕阳产业”的标签。西部数据甚至在2025年2月分拆了闪迪（NAND业务），自身成为一家纯粹的HDD公司。 然而，这个“夕阳行业”正迎来一轮罕见的反转：2026年二季度，全行业HDD收入同比大增47%，由量价齐升驱动——出货容量同比增长29%，每GB均价上涨14%。每GB均价结束了多年的逐年下滑、由降转升，说明长达数年的行业下行周期已经结束。 本篇中，海豚君将围绕以下四个问题展开： 一.HDD是什么？与NAND有何不同？ 二.HDD为何会形成寡头格局？ 三.供给为何难扩？中国产能能否参与竞争？ 四.被看衰的HDD，凭什么成为AI时代的“数据终点站”？ 以下是详细分析 一.HDD是什么？与NAND有何不同？ HDD（硬盘驱动器）与NAND闪存（SSD的核心）是数据存储的两极：HDD像一",
-    "publishedAt": "2026-10-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-150-ai-vibe-coding-1793014181000",
-    "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
-    "link": "https://www.tmtpost.com/8182406.html",
-    "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
-    "publishedAt": "2026-10-26",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-designing-an-ai-serving-harness-built-to-last-1792703849000",
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-cyberselfish-author-takes-aim-at-techno-libertarianism-as-he-1792959608000",
-    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-    "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-    "summary": "\"That's a 12-year-old view of the world.\"",
-    "publishedAt": "2026-10-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-cios-unprepared-for-agentic-workforce-shift-1792786740000",
-    "title": "CIOs unprepared for agentic workforce shift",
-    "link": "https://www.hrdive.com/news/gartner-survey-CIOs-workforce-revamp/833823/",
-    "summary": "Just 4% of tech leaders have plans in place to retool roles for an agentic-human workforce, a Gartner survey found.",
-    "publishedAt": "2026-10-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5090-34b-1792746217000",
-    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-    "link": "https://www.qbitai.com/2026/10/504931.html",
-    "summary": "房间秒变草原，抬手就能下雪",
-    "publishedAt": "2026-10-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-iphone-1793015436000",
-    "title": " 大模型时代，谁会成为那部不肯换掉的“iPhone”？ ",
-    "link": "https://www.huxiu.com/article/4900575.html?f=rss",
-    "summary": "本文来自微信公众号： 智讯智库 ，作者：杨发泽 在智能手机发展早期，发布会爱讲跑分，用户也爱比参数。后来，换机时越来越多人会先选品牌：习惯iPhone的系统，喜欢某家的影像，或者舍不得已经连在一起的设备与应用。性能仍然重要，买单的理由却更丰富了。 对于大模型而言，模型性能可以决定用户为什么来，却未必能决定用户为什么留下。模型质量是争夺用户的重要武器，但这种武器可以被对手反复挑战。技术领先并不能自动转化为持久的商业壁垒。 2026年8月以来，大模型更新密集，GPT-6 Astra、Claude Opus 5.5、Gemini 4 Argon等型号不断进入用户视野；国产模型也在能力与成本之间形成竞争优势，DeepSeek继续更新，MiMo、Kimi也在头部名单里。[1][2]版本越多，选择越难：哪次升级值得试，哪款产品值得长期付费？ 当项目资料、个人偏好和工作流程逐渐沉淀在同一款AI产品中，用户更换工具就需要重新配置、迁移资料并磨合使用习惯。Claude、WorkBuddy及云端Agent争夺的，正是用户日常工作的核心入口。 今天围绕AI排行榜展开的讨论，与智能手机市场早期对性能跑分的关注颇为相似。大模型也会走向这一步：用户会把工作留给那个懂要求、少返工、第二天还能接着做的产品。谁把这件事做好，谁就更接近那部不肯换掉的“iPhone”。 本文回答三个选择问题： 自己使用的AI不在榜首，",
-    "publishedAt": "2026-10-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-1793010796000",
-    "title": "武汉和长江存储等了二十年，A股却散席了",
-    "link": "https://www.tmtpost.com/8181223.html",
-    "summary": "芯片贵，周期短，武汉难。",
-    "publishedAt": "2026-10-26",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-foundations-of-scalable-ai-1792694884000",
-    "title": "The Foundations of Scalable AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e-1792947452000",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "publishedAt": "2026-10-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-job-seekers-say-they-re-still-being-ghosted-even-as-they-re--1792786740000",
-    "title": "Job seekers say they’re still being ghosted — even as they’re trying harder to get noticed",
-    "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
-    "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
-    "publishedAt": "2026-10-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5b-4-1792745416000",
-    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-    "link": "https://www.qbitai.com/2026/10/504930.html",
-    "summary": "",
-    "publishedAt": "2026-10-23",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793014610000",
-    "title": " 大水取代了大蓝桶，中国的“大家庭”时代结束了 ",
-    "link": "https://www.huxiu.com/article/4900571.html?f=rss",
-    "summary": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部 大水理论火了，年轻消费者玩这个梗，意思是不喝奶茶、不喝饮料，只喝1.5L、2L甚至更大的大桶白水。 对健康的呼吁是这个梗最严肃的部分，除此之外，这也代表了消费者的反精致情绪，如今粗糙与实用才是一种流行。 但与同时期爆火的“超长长长蛋挞”不同，大水不是“为了大而大”，不是简单地跟风和造梗，它是大众消费、社会结构变化的缩影。 可以说，大水时代，是一种必然。 2017年前后，几乎是同时，农夫山泉、怡宝、娃哈哈这几个瓶装水头部玩家，都看上了大水生意。 彼时，4L装大水成为了农夫山泉的重点推广项目，打出了“好水才能煮好饭”的口号，试图把家庭中的一部分自来水需求转化为包装水的需求。 同一时期，怡宝拿出了自己的4.5L大水，也是想走进家庭，广告词很抽象：“帝王般的生活，从怡宝4.5L开始。”娃哈哈也推出了4.5L纯净水，同样主打烧饭、炖汤、泡茶等扎根于生活场景的卖点。 这些4L大水对家庭场景的入侵，给大水消费种下了一颗种子。而在水品牌们做大规格包装水的同时，水杯赛道也在同步做大容器。 2016年，Stanley 1.18L吸管杯Stanley Quencher上市，刚上市卖得很差，因为品牌原本是给户外、蓝领做保温容器的，没找对人群，这款杯子差点停产。直到2019-2020年，这款大容量杯子开始在女性圈层走红，慢慢走进通勤、办公室、健身、",
-    "publishedAt": "2026-10-26",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793010782000",
-    "title": "与火山合并后，飞书首席战略官史志隽将卸任",
-    "link": "https://www.tmtpost.com/8182111.html",
-    "summary": "“所有飞书员工，都要在字节重新找到自己的位置。”",
-    "publishedAt": "2026-10-26",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-computing-s-next-leap-and-permafrost-s-climate--1792671000000",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
-    "publishedAt": "2026-10-22",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-techcrunch-mobility-blue-green-is-the-color-of-autonomy-1792944300000",
-    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-    "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publishedAt": "2026-10-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ceos-say-they-re-not-yet-seeing-transformational-change-from-1792694100000",
-    "title": "CEOs say they’re not yet seeing transformational change from AI",
-    "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
-    "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
-    "publishedAt": "2026-10-22",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "strategy"
     ]
   },
   {
@@ -375,24 +375,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-alpha-school-2-1793014512000",
-    "title": " Alpha School现状：“2小时学习模式”被质疑未达承诺效果 ",
-    "link": "https://www.huxiu.com/article/4900570.html?f=rss",
-    "summary": "本文来自微信公众号： 芥末堆 ，作者：昆布 10月23日，基于Alpha School发布的文件及高管声明，以及对9名Alpha School之前及现在的家长和员工的采访，《纽约时报》刊发了《Students at an A.I.School Were Supposed to Learn Faster.Many Aren’t.》一文，让读者了解Alpha学生的表现与Alpha所承诺的效果是否相符，以及Alpha School的学校网络目前对公立学校领域的影响有多大。 2014年，麦肯齐·普莱斯（MacKenzie Price）成立Alpha，创办初衷是她的女儿抱怨在学校感到很无聊。起初，Alpha的小规模学生群体在私人住宅中使用主流学习应用程序进行学习。2022年左右，生成式AI技术迅速发展，Alpha转变了重心，开启了“2小时学习模式”，向传统学校发出挑战。 Alpha承诺，利用AI技术，能让孩子们比在传统课堂上学习多一倍的知识，同时节省一半的时间。孩子们每天只需在上午花2到3小时在电脑上学习，下午就可以参加编程、演讲和体育运动等工作坊。在Alpha，纸质书籍和纸张很少，所有课程都通过应用程序进行。 Alpha也没有传统意义上的老师，取而代之的是主要负责目标设定与学习支持的“引导者”或“向导”，学生遇到难题还可以与海外导师进行视频通话。 Alpha还设置了激励机制，在Alpha的",
+    "id": "news-anthropic-ipo-1793032413000",
+    "title": " Anthropic IPO 文件精读 ",
+    "link": "https://www.huxiu.com/article/4900642.html?f=rss",
+    "summary": "本文来自微信公众号： 心智工具箱 ，作者：阳志平 2026年10月26日，Anthropic向美国证券交易委员会（SEC）递交了S-1表格。S-1是美国公司首次公开发行股票（IPO）时使用的注册文件，俗称「招股书」。 这份招股书正文335页，另附65页财务报表。我把内容分成两类：一类是大家都会关心、多数报道也会写到的10点；另一类是藏在风险因素、财报附注和治理条款深处、容易被忽略却更耐人寻味的10个细节。 一、大家都会关心的10点 1.估值 招股书还是初稿，发行价区间按惯例空着，只写了「between$and$」。 能推算的只有上市前最后一轮融资的估值。2026年5月至6月的H-1轮，每股优先股价格589.0095美元，共募集约457亿美元。优先股按10比1转换为普通股，相当于每股普通股约58.9美元。 招股书另一处写到，注入公益基金的846,840,960股占完全稀释后总股本的5%，倒推总股本约169亿股。用每股约58.9美元乘以总股本，H轮估值约1万亿美元（推算）。这个数只说明量级，没有计入之后的增发与股权激励。 2.收入 2023年第一季度商业化上线时，收入从零起步。此后： 2023年：4,100万美元 2024年：3.86亿美元 2025年：45.85亿美元 2026年上半年：162.86亿美元 2026年第二季度单季收入115.55亿美元，同比增长1,368%。Anthr",
     "publishedAt": "2026-10-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1793010772000",
-    "title": "网经社这波操作，快被媒体锤烂了？",
-    "link": "https://www.tmtpost.com/8181309.html",
-    "summary": "所谓“权威”，被媒体问住了。",
+    "id": "news-150-ai-vibe-coding-1793014181000",
+    "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
+    "link": "https://www.tmtpost.com/8182406.html",
+    "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
     "publishedAt": "2026-10-26",
     "source": "钛媒体",
     "tags": [
@@ -952,4 +951,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-26T12:11:24.269Z';
+export const dataFetchedAt = '2026-10-26T22:15:03.818Z';
