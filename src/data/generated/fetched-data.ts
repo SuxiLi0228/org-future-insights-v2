@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-frontier-ai-labs-say-their-models-refuted-the-exponential-ti-1793120888000",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "id": "news-bank-of-america-kindly-asks-that-you-don-8217-t-share-your-b-1793137474000",
+    "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-toshiba-chro-entry-level-workers-need-to-use-ai-more-not-les-1793114040000",
-    "title": "Toshiba CHRO: Entry-level workers need to use AI more — not less",
-    "link": "https://www.hrdive.com/news/toshiba-chro-entry-level-workers-need-to-use-ai-more-not-less/833725/",
-    "summary": "&ldquo;AI is just the latest chapter&rdquo; in the story of adaptability,&nbsp;Jason Desentz told HR Dive.",
+    "id": "news-the-accommodation-mistake-employers-keep-making-1793133840000",
+    "title": "The accommodation mistake employers keep making",
+    "link": "https://www.hrdive.com/news/the-accommodation-mistake-employers-keep-making/872813/",
+    "summary": "Employers&rsquo; defensible positions can collapse for no reason other than that the entire history lived in corridor conversations and a scattering of texts, writes Chaim Book, senior partner at Book Law LLP.&nbsp;",
     "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
@@ -93,30 +93,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-s-genie-4-world-model-adds-audio-more-realistic-world-1793118657000",
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "id": "news-who-8217-s-really-in-charge-at-anthropic-after-the-ipo-1793137108000",
+    "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-vague-job-postings-get-fewer-applicants-1793046300000",
-    "title": "Vague job postings get fewer applicants",
-    "link": "https://www.hrdive.com/news/vague-job-postings-get-fewer-applicants/872770/",
-    "summary": "Job posts that focus on personality traits and equipment are less effective than postings that outline specific role requirements, per a new study.",
-    "publishedAt": "2026-10-26",
+    "id": "news-10-haunting-hr-stories-1793133780000",
+    "title": "10 haunting HR stories",
+    "link": "https://www.hrdive.com/news/10-haunting-hr-stories/872897/",
+    "summary": "These examples show how HR can potentially run afoul of the law &mdash; and what sorts of frightening lawsuits can follow.",
+    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-off-1793113149000",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "id": "news-discord-is-making-its-public-communities-more-searchable-and-1793136155000",
+    "title": "Discord is making its public communities more searchable, and people have concerns",
+    "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+    "summary": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -185,11 +185,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-company-s-dei-policy-made-white-men-second-class-candidates--1793046300000",
-    "title": "Company’s DEI policy made White men ‘second-class’ candidates, judge rules",
-    "link": "https://www.hrdive.com/news/judge-danaher-corp-dei-policies-made-white-men-second-class-candidates/872792/",
-    "summary": "A Florida district court held mostly for plaintiffs in the case, who claimed Danaher Corp. unlawfully maintained diverse hiring slates that favored women and people of color.",
-    "publishedAt": "2026-10-26",
+    "id": "news-cornell-prevails-on-dei-hiring-lawsuit-after-judge-finds-pla-1793133780000",
+    "title": "Cornell prevails on DEI hiring lawsuit after judge finds plaintiff ‘had no intention of reentering academia’",
+    "link": "https://www.hrdive.com/news/cornell-dei-hiring-lawsuit-lack-of-standing/872883/",
+    "summary": "The judge in the case managed to sidestep arguments about DEI-based discrimination, which have gained some traction in the federal court system.",
+    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -252,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ford-fathom-will-be-the-cheapest-american-ev-capable-of-powe-1793112693000",
-    "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-    "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-    "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+    "id": "news-re-build-which-spun-out-slate-auto-raises-2-1b-1793133077000",
+    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -265,17 +265,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-yale-new-haven-hospital-can-t-ditch-lawsuit-over-age-biased--1793046300000",
-    "title": "Yale New Haven Hospital can’t ditch lawsuit over age-biased physician test",
-    "link": "https://www.hrdive.com/news/yale-new-haven-hospital-cant-ditch-lawsuit-over-age-biased-physician-test/872804/",
-    "summary": "The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
-    "publishedAt": "2026-10-26",
+    "id": "news-union-steward-s-refusal-to-meet-supervisor-wasn-t-protected--1793133720000",
+    "title": "Union steward’s refusal to meet supervisor wasn’t protected, NLRB judge says",
+    "link": "https://www.hrdive.com/news/union-stewards-refusal-to-meet-supervisor-wasnt-protected-nlrb-judge/872941/",
+    "summary": "The decision demonstrates the limits of federal labor law&rsquo;s protected activity definition, a topic the board itself has revisited several times in recent years.",
+    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -331,10 +330,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-government-says-hackers-are-now-exploiting-critical-php-w-1793112039000",
-    "title": "US government says hackers are now exploiting critical PHP web bugs",
-    "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "id": "news-disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-c-1793127335000",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -344,11 +343,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-white-woman-allegedly-called-karen-can-t-show-race-bias-judg-1793028720000",
-    "title": "White woman allegedly called ‘Karen’ can’t show race bias, judge rules",
-    "link": "https://www.hrdive.com/news/white-woman-allegedly-called-karen-cant-show-race-bias/872753/",
-    "summary": "The plaintiff, a school psychologist, claimed the remark was part of a pattern of workplace discrimination. But courts have said such isolated comments don&rsquo;t violate the law.",
-    "publishedAt": "2026-10-26",
+    "id": "news-toshiba-chro-entry-level-workers-need-to-use-ai-more-not-les-1793114040000",
+    "title": "Toshiba CHRO: Entry-level workers need to use AI more — not less",
+    "link": "https://www.hrdive.com/news/toshiba-chro-entry-level-workers-need-to-use-ai-more-not-less/833725/",
+    "summary": "&ldquo;AI is just the latest chapter&rdquo; in the story of adaptability,&nbsp;Jason Desentz told HR Dive.",
+    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -982,4 +981,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-27T17:24:01.393Z';
+export const dataFetchedAt = '2026-10-27T21:46:53.537Z';
