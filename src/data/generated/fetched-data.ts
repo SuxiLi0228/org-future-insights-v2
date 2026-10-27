@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-how-solid-state-transformers-could-help-power-the-ai-boom-1793091600000",
-    "title": "How solid-state transformers could help power the AI boom",
-    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+    "id": "news-the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-1793103000000",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
     "publishedAt": "2026-10-27",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-backs-indian-startup-helping-companies-run-ai-models--1793098800000",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "id": "news-frontier-ai-labs-say-their-models-refuted-the-exponential-ti-1793120888000",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-yale-new-haven-hospital-can-t-ditch-lawsuit-over-age-biased--1793046300000",
-    "title": "Yale New Haven Hospital can’t ditch lawsuit over age-biased physician test",
-    "link": "https://www.hrdive.com/news/yale-new-haven-hospital-cant-ditch-lawsuit-over-age-biased-physician-test/872804/",
-    "summary": "The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
-    "publishedAt": "2026-10-26",
+    "id": "news-toshiba-chro-entry-level-workers-need-to-use-ai-more-not-les-1793114040000",
+    "title": "Toshiba CHRO: Entry-level workers need to use AI more — not less",
+    "link": "https://www.hrdive.com/news/toshiba-chro-entry-level-workers-need-to-use-ai-more-not-less/833725/",
+    "summary": "&ldquo;AI is just the latest chapter&rdquo; in the story of adaptability,&nbsp;Jason Desentz told HR Dive.",
+    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-anthropic-1793099577000",
-    "title": " 冲刺史上最大IPO，拆解Anthropic招股书 ",
-    "link": "https://www.huxiu.com/article/4900873.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨，原文标题：《冲刺史上最大IPO！拆解Anthropic招股书》 收入快速增长的同时，Anthropic的算力投入和资金需求也在迅速放大，其与谷歌、亚马逊等公司签下的算力合同，金额以千亿美元计，期限最长到2036年。高增长能否撑住预期估值和投入压力，是其在IPO时面对市场绕不开的问题。 美东时间10月26日，美国人工智能公司Anthropic向美国证券交易委员会公开递交招股书，拟在纳斯达克上市，股票代码为“ANT”，高盛和摩根士丹利担任主承销商。招股书暂未给出发行股数和价格区间，但市场预期，Anthropic计划募资约1000亿美元，估值最高可达2万亿美元。若按此完成发行，其募资规模将超过SpaceX在今年6月创下的纪录，成为史上最大的IPO。 Anthropic成立于2021年，创始团队来自OpenAI，主要产品是Claude系列大模型。大模型公司走向公开市场，Anthropic并非第一家，今年1月，中国大模型公司智谱和MiniMax已先后在港股上市。Anthropic的上市还牵动着多家美股科技公司，谷歌和亚马逊是其投资方，博通、微软和AMD等在其算力供应商之列。 按Anthropic在招股书中给出的数据，Claude于2023年一季度开始商业化，当年营收4100万美元，2025年增至45.85亿美元，2026年上半年达到162.8",
+    "id": "news-netflix-1793119723000",
+    "title": " 干掉有线电视的Netflix，正在变成另一种有线电视 ",
+    "link": "https://www.huxiu.com/article/4900942.html?f=rss",
+    "summary": "本文来自微信公众号： 刀客Doc ，作者：刀客Doc Netflix三季报公布当晚，盘后股价一度下挫约6%。 这份财报的利润相当漂亮。营收129亿美元，同比增长12%。营业利润45亿美元，同比增长37%。营业利润率34.6%，去年同期是28.2%。每股收益0.87美元，高于市场预期的0.82美元。 市场盯住的是另外几个数字。四季度营收指引134亿美元，低于预期。全年广告收入目标从30亿美元下调到27亿美元。三季度12%的营收增速，是近三年最慢的一个季度。 财报前几天，Netflix宣布裁员约6%，是四年来规模最大的一轮。当天，股价基本持平，市场基本没什么反应。 两次反应放在一起看，市场已经把省钱动作和赚钱动作分得很开了。 过去一年，Netflix股价跌了约41%，距离2025年6月的高点跌去接近一半。同期，它的预期市盈率从约54倍降到18到19倍，收缩了约65%。 股价跌四成，估值倍数掉六成多。粗算一下，中间这段差额，就是一年里明显上调的盈利预期，被市场整个吃掉了。 利润在涨，市场愿意为每一美元利润付的价格在快速下降。 Netflix正在被重新归类。它曾经按成长型科技平台定价，现在的定价方式越来越接近一家成熟媒体公司。 一、34.6%的成色 三季度34.6%的营业利润率，高于公司自己的预测。股东信给的解释是，超出部分主要来自费用确认的时间安排，外加营收略好于预期。 换成大白话：一部",
     "publishedAt": "2026-10-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-vc-1793099919000",
-    "title": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
-    "link": "https://www.tmtpost.com/8183791.html",
-    "summary": "扩募约30%，不是募不动，是认真算过账之后的选择。",
+    "id": "news-4-88-h-1793109108000",
+    "title": "前三季4.88亿减值、H股筹谋，天通股份的光伏包袱与铌酸锂故事|看财报",
+    "link": "https://www.tmtpost.com/8183921.html",
+    "summary": "光伏包袱出清在即？",
     "publishedAt": "2026-10-27",
     "source": "钛媒体",
     "tags": [
@@ -82,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-will-the-real-anthropic-please-stand-up-1793036743000",
-    "title": "Will the real Anthropic please stand up",
-    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
-    "publishedAt": "2026-10-26",
+    "id": "news-industrial-intelligence-the-next-growth-opportunity-for-manu-1793099958000",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "publishedAt": "2026-10-27",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,89 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-is-nudging-users-to-promote-their-posts-with-a-pointing-ha-1793082884000",
-    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-    "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-    "summary": "Whose hand is behind this travesty?",
-    "publishedAt": "2026-10-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-company-s-dei-policy-made-white-men-second-class-candidates--1793046300000",
-    "title": "Company’s DEI policy made White men ‘second-class’ candidates, judge rules",
-    "link": "https://www.hrdive.com/news/judge-danaher-corp-dei-policies-made-white-men-second-class-candidates/872792/",
-    "summary": "A Florida district court held mostly for plaintiffs in the case, who claimed Danaher Corp. unlawfully maintained diverse hiring slates that favored women and people of color.",
-    "publishedAt": "2026-10-26",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-anthropic-335-ipo-ai-1793030791000",
-    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-    "link": "https://www.qbitai.com/2026/10/505551.html",
-    "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
-    "publishedAt": "2026-10-26",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-89-1793099283000",
-    "title": " 创新药龙头净利润大涨89%，药却卖慢了 ",
-    "link": "https://www.huxiu.com/article/4900872.html?f=rss",
-    "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 恒瑞医药10月27日公布的三季报，有两组数字值得放在一起看。 第三季度，归母净利润24.58亿元，同比增长88.92%。但今年前三季度，恒瑞的产品销售收入只增长了2.52%。其中，创新药销售收入138.71亿元，同比增长17.05%，低于年初预期。 利润涨得漂亮，药品销售却没有跟上。 恒瑞在财报中解释，创新药销售不及预期，受到外部市场环境变化、院内准入进度不及预期，以及部分老产品竞争加剧等因素影响。 这家国内创新药龙头，正在经历一件颇有意味的事：研发成果在海外越来越值钱，在国内把药卖出去，却越来越考验本事。 01 恒瑞这次利润大涨，一个重要原因是海外授权。 过去，一家药企研发出新药，主要靠自己生产、销售来赚钱。现在，恒瑞多了一门生意：把药物的海外开发和商业化权益授权给跨国药企，收取首付款、里程碑付款以及未来可能获得的销售提成。 今年5月，恒瑞与百时美施贵宝（BMS）达成合作，涉及13个早期研发项目，潜在交易总额约152亿美元，其中首付款6亿美元。 152亿美元是什么概念？按照汇率粗略折算，超过1000亿元人民币。 当然，这只是包含未来条件性付款的潜在金额，最终能拿到多少，要看后续研发、审批和商业化结果。6亿美元首付款也不能简单等同于当期利润。 但跨国药企愿意拿出这样的资金，与中国药企合作一批早期研发项目，已经足以说明问题。 中国创",
-    "publishedAt": "2026-10-27",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1793097762000",
-    "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-    "link": "https://www.tmtpost.com/8183550.html",
-    "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
-    "publishedAt": "2026-10-27",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-everyday-ai-harms-and-the-race-to-nuclear-space-1793018400000",
-    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
-    "publishedAt": "2026-10-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-how-openai-turned-its-coding-tools-into-dots-an-always-on-pe-1793066400000",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "id": "news-google-s-genie-4-world-model-adds-audio-more-realistic-world-1793118657000",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -200,6 +120,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-anthropic-335-ipo-ai-1793030791000",
+    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+    "link": "https://www.qbitai.com/2026/10/505551.html",
+    "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+    "publishedAt": "2026-10-26",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793117440000",
+    "title": " 年轻人热衷考公，但公考培训机构却越来越难赚钱 ",
+    "link": "https://www.huxiu.com/article/4900941.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 2027年度国家公务员考试报名刚刚结束，截至10月24日16时，已有302.5万人通过资格审查，竞争35691个计划录用名额。平均下来，约85个人争一个岗位，尽管今年的过审人数较上年有所回落，但考公的竞争依然激烈，当然这需要注意的是，国考招录名额已经连续两年减少，2027年度比上年又少招了约2400人。 照理说公考培训机构应该高兴才对，考试越难，竞争越激烈，考生越需要花钱购买课程和辅导服务。而且每年都有几百万人报名，其中相当一部分人还会重复备考，这样的市场怎么看都是一门绝佳的生意。 但几家公考培训上市公司的财报，却讲了另一个故事。2026年上半年，华图山鼎营业收入同比下降10.49%，净利润下降84.71%；粉笔营收下降约16.3%，由盈转亏；中公教育虽然实现盈利，但公务员招录培训业务收入仅增长0.14%。 事情还不止于此。为了争夺考生，一些培训机构推出了考不上可以退款的协议班，甚至把贷款也引入培训生意。结果原本帮助年轻人争取职业机会的机构，却因为招生承诺、退费困难和培训贷款纠纷，频频受到消费者质疑，甚至有些机构还濒临倒闭。 一个有意思的问题出现了：几百万人争着考公务员，但靠这几百万人做辅导生意的培训机构，日子反而越来越不好过？ 这背后不仅有培训机构的经营问题，还藏着中国年轻人职业选择的变化。 中国年轻人为什么爱考公？ 中国人爱考公",
+    "publishedAt": "2026-10-27",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793108668000",
+    "title": "智驾装车越来越多，供应商赚钱却没那么容易",
+    "link": "https://www.tmtpost.com/8183328.html",
+    "summary": "车型定点越来越多，生意却未必更好做，天瞳威视的量产实践折射出智驾供应商的商业化难题。",
+    "publishedAt": "2026-10-27",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-solid-state-transformers-could-help-power-the-ai-boom-1793091600000",
+    "title": "How solid-state transformers could help power the AI boom",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+    "publishedAt": "2026-10-27",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-off-1793113149000",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "publishedAt": "2026-10-27",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-company-s-dei-policy-made-white-men-second-class-candidates--1793046300000",
+    "title": "Company’s DEI policy made White men ‘second-class’ candidates, judge rules",
+    "link": "https://www.hrdive.com/news/judge-danaher-corp-dei-policies-made-white-men-second-class-candidates/872792/",
+    "summary": "A Florida district court held mostly for plaintiffs in the case, who claimed Danaher Corp. unlawfully maintained diverse hiring slates that favored women and people of color.",
+    "publishedAt": "2026-10-26",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
     "id": "news-ai-ai-ai-1793007973000",
     "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
     "link": "https://www.qbitai.com/2026/10/505539.html",
@@ -213,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-1793098789000",
-    "title": " Anthropic 也在给云厂商打工 ",
-    "link": "https://www.huxiu.com/article/4900868.html?f=rss",
-    "summary": "本文来自微信公众号： 山上 ，作者：山上团队 终于开始赚钱，还不够填补未来。 作者I何简 编辑I蒋浇 封面I AI生成 经历了过去半年的媒体爆料、文件泄露以及与投资者的主动沟通，Anthropic的关键财务数据几乎都已被一一披露殆尽。 我们早早就已得知Anthropic上半年的营收数字，也知晓它在今年第二季度实现季度盈利。连它未来十年与6家云服务厂商超5000亿美元、约八成不可撤销的算力支出承诺也早就曝光之外。 这就让Anthropic昨晚刚刚公开的招股书显得有些过时。甚至此前新闻报道都比招股书更能反映公司最新的经营状况。招股书中的财务数据只更新至今年上半年，而媒体们早就对外透露，Anthropic第三季度的营收增速大幅放缓，连带着影响投资者下调了Anthropic的估值预期。 无论如何，这份近400页的招股书是Anthropic登陆资本市场的开端。Anthropic上一轮融资就高达650亿美元，远超绝大多数IPO的募资规模。如今，它的IPO募资目标是1000亿美元，有望创下有史以来规模最大的IPO纪录。 如同多年前的互联网上市潮一样，Anthropic之后还有更多大模型公司等待着上市。它们有着有着相似的产品和服务、相似的商业模式和营收结构，也同样依赖巨额的算力投入。 Anthropic的上市或许只是大模型狂欢的开始，但愿它不会是顶点。 单季营收百亿，前五大客户占25% 如果单纯从",
+    "id": "news-ai-1793117242000",
+    "title": " 从三个月到一百亿：AI产业链的金钱游戏 ",
+    "link": "https://www.huxiu.com/article/4900937.html?f=rss",
+    "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 一 10月21日，柏林。黄仁勋在GTC的台上算了一笔账。 假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。他说，这三个月的“代价”是100亿美元。 然后他补了一句：“100亿美元的收入，会让任何人感到焦虑。” 同一天，英伟达发布了一套叫DSX POD的东西。这是一款模块化的AI数据中心，它可以把计算设备和供电、散热、网络统统装进集装箱，在工厂里组装好、连好线、测完，再运到目的地。 按英伟达的说法，只要场地的电、冷、网都齐了，这套方案能把现场部署时间从六个月压缩到最快十四天。 一家卖芯片的公司，为什么要急着帮客户抢工期？ 这个问题显然值得多想一会儿。 二 一座吉瓦级的AI数据中心，总投资额大概要500亿美元，这个数字黄仁勋在GTC大会当天也提了。 500亿不是大风刮来的，它大部分是借来的，或者说是通过租约变相借来的。 既然是借的，从第一台设备运到现场那一刻起，计息就开始了，而收入要等到投产那天才开始。中间这段空白时间里，只有利息在走，没有一分钱进来。 那么这段空白值多少？ 按眼下美国企业债平均7.1%的票息粗算，一座500亿的资产一年利息三十几亿，摊到每天将近一千万美元，三个月就是九亿出头。 原来，黄仁勋算的只是收入那头可能会损失掉的部分，即三个月一百亿。但他没提的是，这三个月里利息照付，本金也一分没还。 所以DSX P",
     "publishedAt": "2026-10-27",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793097760000",
-    "title": "快消高管，进入“大换乘”时代",
-    "link": "https://www.tmtpost.com/8183613.html",
-    "summary": "老办法不够用了，快去请老快消",
+    "id": "news-ipo-1793108012000",
+    "title": "明珠化工：回款周期持续拉长，九成利润用于分红，公司仍拟募资补流｜IPO观察",
+    "link": "https://www.tmtpost.com/8176196.html",
+    "summary": "明珠化工现金流稳健，货币资金充足，流动比率、速动比率逐年走高，经营性现金流持续净流入，短期偿债压力小，同时报告期内公司大手笔分红，三年累计分红1.44亿元，分红规模接近同期净利润九成。一边向股东大额派现，一边计划登陆港股募集营运资金，该安排的必要性与合理性值得商榷。",
     "publishedAt": "2026-10-27",
     "source": "钛媒体",
     "tags": [
@@ -241,10 +240,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-focus-on-ai-safety-disasters-ignores-everyday-harms-1793005260000",
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "id": "news-will-the-real-anthropic-please-stand-up-1793036743000",
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
     "publishedAt": "2026-10-26",
     "source": "MIT Technology Review",
     "tags": [
@@ -253,10 +252,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-bei-1793063541000",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "id": "news-ford-fathom-will-be-the-cheapest-american-ev-capable-of-powe-1793112693000",
+    "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+    "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+    "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -266,10 +265,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-white-woman-allegedly-called-karen-can-t-show-race-bias-judg-1793028720000",
-    "title": "White woman allegedly called ‘Karen’ can’t show race bias, judge rules",
-    "link": "https://www.hrdive.com/news/white-woman-allegedly-called-karen-cant-show-race-bias/872753/",
-    "summary": "The plaintiff, a school psychologist, claimed the remark was part of a pattern of workplace discrimination. But courts have said such isolated comments don&rsquo;t violate the law.",
+    "id": "news-yale-new-haven-hospital-can-t-ditch-lawsuit-over-age-biased--1793046300000",
+    "title": "Yale New Haven Hospital can’t ditch lawsuit over age-biased physician test",
+    "link": "https://www.hrdive.com/news/yale-new-haven-hospital-cant-ditch-lawsuit-over-age-biased-physician-test/872804/",
+    "summary": "The discrimination lawsuit, which alleged YNH physicians over 70 years old were subjected to certain competency tests, was cleared for trial on Friday.",
     "publishedAt": "2026-10-26",
     "source": "HR Dive",
     "tags": [
@@ -293,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-130-1793098698000",
-    "title": " 闪婚闪离近20年后，上海智力障碍女子被判向前夫支付130万元 ",
-    "link": "https://www.huxiu.com/article/4900871.html?f=rss",
-    "summary": "本文来自微信公众号： 大米和小米 ，编辑：何言苏渡，作者：维护权益的 认识一两天就结婚，不到两个月就离婚。近20年后，前夫蔡先生却凭借一份离婚协议，将智力障碍的陈女士告上法庭，要求分割公租房的动迁补偿款。 2024年老房动迁后，63岁的上海陈女士被前夫起诉，法院最终判决她向前夫支付约130万元动迁补偿款。 陈女士自幼存在智力障碍，家人直到2019年才带她接受专业评估。面对法院判决，一家人难以接受：当年她真的能理解自己签下的协议吗？ 陈女士的遭遇并非个例。上海一名有轻微智力残疾的女子，婚后被丈夫取走家中约450万元；男子与智残女子结婚卷走450万！家长：心智障碍群体很容易被骗—— 苏州一名智力残疾男子被熟人利用身份贷款、抵押房产，背上巨额债务； 广东一名智力障碍男子则被亲戚诱骗办理车贷，直到家人发现他名下多了一辆车，才知道出了问题…… 婚姻、亲情和熟人关系，本应是生活中的信任来源，却也可能成为风险的入口。当心智障碍者难以理解复杂的合同条款、财产交易或法律后果时，他们该如何保护自己的权益？家人又能提前做些什么，避免财产受损后才开始维权？ 文|卡恩 编辑|何言苏渡 图|网络（侵删） 不到两个月的婚姻，近20年后被分走130万 认识一两天就结婚，不到两个月离婚，近20年后，智力障碍女子竟被前夫分走130万元？ 据看看新闻Knews报道，自2005年离婚后，上海陈女士与前夫蔡先生双方几乎没有",
+    "id": "news-6-1793117165000",
+    "title": " 温柔是面子，残酷是里子：当微软向社会释放6万名优秀人才 ",
+    "link": "https://www.huxiu.com/article/4900940.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 有一本著名的书，在韭菜圈里很火，《这个世界既残酷又温柔》。我没看过这本书，但这个书名说得没错。这个世界，温柔是面子，残酷是里子。越是说着温柔话语的人，越有可能残酷地向你捅出刀子。 今天的大新闻，就是微软的买断事件。 美国时间10月26日，星期一，微软给员工发了一封内部信，信的名字起得就很温柔，叫「自愿退出邀约」，英文是Voluntary Exit Offer。美国、加拿大、印度、英国四个国家，参与计划的部门里，70级及以下的员工都可能收到。70级在微软大致是副总裁那一档，也就是说，除了最顶上的一小撮人，几乎都在范围里。 据报道，符合条件的大约有6万人，占微软22.3万员工的27%，差不多每四个人里就有一个。他们要在12月初之前想清楚，接受的人，12月31日离开。 说实话，这种新闻已经不太让人意外了。这两年，运通、巴克莱、亚马逊，麦肯锡……裁员的消息排着队来，看到人麻木，谁还记得上一家是谁。 不过有一个细节，或者叫巧合，可能很少人注意到，非常有助于我们更加清醒地看待现实。 就在五天前，10月21日，微软CEO纳德拉发布了今年的致股东信。今年这封信很长，前面讲超级智能，讲智能体，讲数据中心，然后里面有这么一句： 「我们相信，这场变革应该和人一起发生，而不是发生在人身上；它应该放大人的潜力，而不是替代人。」 这话很中听，但话音未",
     "publishedAt": "2026-10-27",
     "source": "虎嗅",
     "tags": [
@@ -306,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rokid-ai-1793096592000",
-    "title": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
-    "link": "https://www.tmtpost.com/8183616.html",
-    "summary": "10月27日，乐奇Rokid推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring",
+    "id": "news-9-52-ipo-1793107931000",
+    "title": "海柔创新：9年“烧”52亿元，巨额赎回负债风险待解｜IPO观察",
+    "link": "https://www.tmtpost.com/8176201.html",
+    "summary": "截至2026年6月末，公司自成立以来累计亏损高达52.26亿元，报告期三年半合计亏损35.23亿元。",
     "publishedAt": "2026-10-27",
     "source": "钛媒体",
     "tags": [
@@ -320,11 +319,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-testing-six-tech-promises-and-biotech-8217-s-bl-1792757400000",
-    "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
-    "publishedAt": "2026-10-23",
+    "id": "news-the-download-everyday-ai-harms-and-the-race-to-nuclear-space-1793018400000",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
+    "publishedAt": "2026-10-26",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -332,25 +331,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-databricks-co-founder-shares-his-secrets-for-winning-big-ent-1793052000000",
-    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-    "publishedAt": "2026-10-26",
+    "id": "news-us-government-says-hackers-are-now-exploiting-critical-php-w-1793112039000",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-ex-vp-for-nba-s-brooklyn-nets-claims-he-was-fired-for-taking-1792786740000",
-    "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
-    "link": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/",
-    "summary": "The dispute, which involved a negative performance review allegedly given just days after the employee&rsquo;s return from leave, shares similarities with other recent FMLA lawsuits.",
-    "publishedAt": "2026-10-23",
+    "id": "news-white-woman-allegedly-called-karen-can-t-show-race-bias-judg-1793028720000",
+    "title": "White woman allegedly called ‘Karen’ can’t show race bias, judge rules",
+    "link": "https://www.hrdive.com/news/white-woman-allegedly-called-karen-cant-show-race-bias/872753/",
+    "summary": "The plaintiff, a school psychologist, claimed the remark was part of a pattern of workplace discrimination. But courts have said such isolated comments don&rsquo;t violate the law.",
+    "publishedAt": "2026-10-26",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -373,23 +371,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-1793098629000",
-    "title": " Anthropic：甩掉“吞金兽”；转身成“房奴”，万亿长征路还远 ",
-    "link": "https://www.huxiu.com/article/4900870.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Anthropic：甩掉 “吞金兽”；转身成 “房奴”，万亿长征路还远》 10月26日，Anthropic终于把招股书摊到了桌面上。翻开第一页就是冰火两重天： 一边是二季度收入115.6亿美元、同比暴涨14倍，第一次实现GAAP经营盈利； 另一边是十个月里签下、加起来接近1万亿美元的算力合同，相当于它年化收入的22倍。 海豚君在今年1月的《深扒Minimax与智谱：大模型，算力强度与融资耐力的绝杀？》里问过一个问题：大模型到底是一门什么生意？当时的答案并不乐观——这是一门把资本密集型业务\"全部摊在利润表上\"的生意，收入跑得再快，也追不上一代比一代凶猛的训练投入。 九个月后，Anthropic的招股书第一次给出了一个\"追上了\"的样本。但追上的代价是什么？这次海豚君就结合招股书，认真回答四个问题： 1）Anthropic卖的是什么，钱从哪里来？ 2）推理到底赚不赚钱？和智谱、MiniMax比，差距到底在哪？ 3）万亿美元的算力账单，收入要涨到多少才扛得住？ 4）亚马逊、谷歌、博通们送来的钱，是投资，还是买订单？ 以下是详细分析 一、toB生意内核：卖Token\"智能\"，按量收费 Anthropic的生意模式说穿了很简单：按token（模型处理文本的计量单位）卖\"智能\"。2026上半年163亿美元收入里： a.用量计费型收入：按",
+    "id": "news--1793116874000",
+    "title": " 当科研开始“工业革命” ",
+    "link": "https://www.huxiu.com/article/4900939.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：经观观察家 今天让不少数学家感到不安的变化，最终带来的也许并不是数学或更广义上的科学的衰落。它更可能是一种新的科学的开始 2026年9月8日，OpenAI宣布，其AI系统在数学界最著名的未解难题之一——纳维—斯托克斯方程（Navier–Stokese quations，以下简称NS方程）的存在性与光滑性问题上取得了重大突破。 NS方程是流体力学中刻画黏性不可压缩流体运动的基本偏微分方程，在预测天气、模拟洋流、研究血液循环等领域应用广泛。然而，NS方程的求解却十分困难。其中一个困难就是，人们一直不知道，从一个正常、平滑的初始状态出发，NS方程本身能不能保证其解永远保持平滑。自上世纪30年代法国数学家让·勒雷（Jean Leray）提出这一问题以来，它就一直困扰着人们。2000年，克雷数学研究所（Clay Mathematics Institute）把它列入七个千禧年大奖难题，悬赏100万美元寻求答案。 就在人类数学家对此一筹莫展时，AI出手了。根据OpenAI透露的消息，他们让大约1万个AI智能体并行参与NS方程的研究，从启动到获得候选证明只用了约88个小时，得到一个关键结论：在允许平滑外力的相关表述下，NS方程可能形成奇点。其系统构造了一种不断向内收缩并被拉长的涡旋，使速度最终发生爆破，而总能量仍然保持有限。随后，OpenAI又用GP",
     "publishedAt": "2026-10-27",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1793096369000",
-    "title": "中国顶流博主，横扫海外社交媒体",
-    "link": "https://www.tmtpost.com/8183139.html",
-    "summary": "一条23分钟的英文评测，5700万播放，粉丝从零涨到300万。中国博主出海走到第三轮，开始正面进攻。",
+    "id": "news-q3-14-1793101006000",
+    "title": "佛塑科技Q3净利增逾14倍后再推扩产，面临新一轮供给竞争｜看财报",
+    "link": "https://www.tmtpost.com/8183790.html",
+    "summary": "并表增利，扩产承压。",
     "publishedAt": "2026-10-27",
     "source": "钛媒体",
     "tags": [
@@ -983,4 +982,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-27T11:32:32.339Z';
+export const dataFetchedAt = '2026-10-27T17:24:01.393Z';
