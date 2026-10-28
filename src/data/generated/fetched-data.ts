@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vcs-will-make-billions-on-anthropic-8217-s-ipo-but-amazon-is-1793150128000",
-    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "id": "news-jio-shares-surge-21-in-market-debut-after-blockbuster-india--1793164832000",
+    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+    "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -42,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pro-agent-navos-pro-ai-for-work-124-tgc-2026-1793071435000",
-    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work &#124; TGC 2026科技增长大会",
-    "link": "https://www.qbitai.com/2026/10/505580.html",
-    "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
-    "publishedAt": "2026-10-27",
+    "id": "news-personal-agent-ling-3-1-flash-1019-1793160288000",
+    "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+    "link": "https://www.qbitai.com/2026/10/505928.html",
+    "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+    "publishedAt": "2026-10-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -55,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793158829000",
-    "title": " 双汇急需另一根火腿肠 ",
-    "link": "https://www.huxiu.com/article/4901020.html?f=rss",
-    "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《双汇急需另一根火腿肠｜巨潮》 最近，舆论关注双汇的焦点，当然是“林可霉素残留超标”事件。对于投资者和产业观察者来说，一些战略性的布局更值得关注和考量。 双汇专门召开了速冻产品专题战略研讨会，就是一个相当关键的动作。这场会议规格很高，董事长万宏伟、总裁马相杰及集团相关领导、事业部管理层、各大区负责人、优秀联盟商代表齐齐到场，显示出双汇内部对速冻产品的重视程度。 会议对速冻产品的新定位可以说相当高：速冻业务正式从过去的“策略级”业务，升级为“战略级”业务。 管理层在会上强调，速冻食品并非简单的新品补充，更不是为了丰富产品清单做的点缀，而是将其放到了跟上消费迭代浪潮，为集团打造的全新增长曲线的高度上。 这块业务被强调得高调决绝，但这样的“狠话”放在双汇的发展历史中并不陌生。 这些年，从预制菜赛道试水，到面向商超的定制肉制品合作，再到加码禽肉产业链，直至如今押注速冻，双汇已经在行业里的几乎每条赛道上都试探过了。 只是直到今天，都还没有跑出过一个体量、利润、国民认知度能比肩火腿肠的大单品。 难寻找 决定押注速冻赛道并非没理由，双汇手里确实握着不少旁人很难在短时间补齐的底牌。 除了拥有肉类原料优势之外，双汇还拥有沉淀了数十年的全国经销网络。根据双汇公开披露的数据，截至2025年末，公司经销商数量达到22427家，销售",
+    "id": "news-10-1793188408000",
+    "title": " 从王健林到孙宏斌，这宗“沉睡”10年的地块终被收储，补偿款怎么处理？ ",
+    "link": "https://www.huxiu.com/article/4901187.html?f=rss",
+    "summary": "本文来自微信公众号： 每经房产 ，作者：陈利 ｜“沉睡”10年。 全文约2000字▼ 融创中国首个以政府收储方式兑现现金的项目落地。 日前，融创房地产集团有限公司（以下简称融创）发布公告，旗下广州万达文化旅游城投资有限公司与广州市花都区土地开发储备中心签订《国有土地使用权收储补偿协议》。公司将位于花都区花城街、面积83331平方米（约125亩）的地块交由政府收储，土地补偿款总额2.72亿元。 《每日经济新闻》记者（以下简称每经记者）了解到，按照融创2022年债券展期时设立的偿付保障条款，这笔补偿款经第三方审计机构核定后，将按约定比例回流，专项用于兑付展期债券本息。这也是融创五大文旅城自持物业偿债资产包中，首个通过政府收储实现现金回款的项目。 壹 从王健林到孙宏斌 这宗被政府收储的地块，前后历经两任“主人”。 2015年、2016年，万达集团先后斥资26.89亿元、23.03亿元，拿下广州花都平步大道以北及邻近住宅组团地块，两宗地块合计净用地面积超84万平方米。万达集团计划在此打造包含乐园、雪世界、商业MALL与酒店集群的广州万达文旅城，对外宣称项目总投资将达到500亿元。 遍布全国的万达城项目，一度让王健林拥有了对标迪士尼的底气。万达集团官网宣传稿曾写道：“以这家中国企业的执行力而论，迪士尼不敢忽略这样一个对手。” 然而壮志未酬，这批文旅项目很快易主。 2017年7月，融创出资43",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-1793158216000",
-    "title": "市值缩水近 2 万亿 六大奢侈品巨头都卖不动了？",
-    "link": "https://www.tmtpost.com/8183838.html",
-    "summary": "奢侈品集团的业绩下滑，可以说是资本市场对奢侈品过去几年高估值、高增长叙事的一次集中修正。",
+    "id": "news-siri-1793185266000",
+    "title": "苹果最赚钱的生意，正被Siri亲手拆掉？",
+    "link": "https://www.tmtpost.com/8184537.html",
+    "summary": "谁控制应用分发，谁就能够影响移动互联网的流量和交易规则。 然而，AI正在尝试改变这种关系。",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -94,16 +93,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of-1793144067000",
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "publishedAt": "2026-10-27",
+    "id": "news-vcs-will-make-billions-on-anthropic-8217-s-ipo-but-amazon-is-1793150128000",
+    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -120,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-335-ipo-ai-1793030791000",
-    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-    "link": "https://www.qbitai.com/2026/10/505551.html",
-    "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
-    "publishedAt": "2026-10-26",
+    "id": "news--1793105871000",
+    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+    "link": "https://www.qbitai.com/2026/10/505865.html",
+    "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+    "publishedAt": "2026-10-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793158806000",
-    "title": " 炒作正在毁掉冷冻烘焙 ",
-    "link": "https://www.huxiu.com/article/4901018.html?f=rss",
-    "summary": "本文来自微信公众号： 真故研究室 ，编辑：张铎，作者：卢建国 一批冷冻烘焙专门店正靠着「工厂价」和上百种商品吸引消费者，也吸引加盟商投入几十万元，把门店从上海开到青海。 后厨和面包师省去了，冷柜、配送和获客的开支却不菲。品牌方还在摸索怎么经营，就放出了加盟，商超和街边面包店也加入竞争。 炒作带来了尝鲜的顾客，却未必能带来撑起一家专门店的持续复购。 01 冰柜里的便宜面包 如果不是炉边皮皮，每个月逛两三次上海美罗城的潘潘，不会知道这座商场还有八层。 这家冷冻烘焙店和她平时光顾的面包店很不一样。极简工业风，空间大面积留白。没有现烤的烟火气，只有一排排制冷到零下18度的冰柜，以及展示产品、价格、slogan的海报。 挎着手提篮的潘潘，拿起冻得梆梆硬的糕点，感觉自己穿越到超市大卖场的冷冻区。 她有些担心品质，但价目表上让她放下了犹豫。 2.9元的贝果、4.9元的冰面包、9.9元的榴莲千层切片蛋糕，想着来都来了，就挑选了几种觉得不容易踩雷的产品，一不留神就花了五六十。 价格降下来的秘密，就藏在潘潘面前的冰柜里。产品由工厂标准化大批量生产，冷冻后送到门店，店内不必配置后厨、专业烘焙师和成套制作设备。部分冷冻产品可保存3-6个月，也减轻了卖不完报损的压力。 低价、海量SKU是冷冻烘焙专门店的标签。在品牌的设想里，习惯拿面包当早餐的上班族、集中采购的家庭，以及喜欢囤不同口味的面包爱好者，都可以成为",
+    "id": "news--1793187614000",
+    "title": " 战魔田默｜消费者为什么买，决定了生意能做多久 ",
+    "link": "https://www.huxiu.com/article/4901182.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜消费者为什么买，决定了生意能做多久》 一只保温杯，为什么有人用了十年还不换，有人已经有了五六只，却仍然排队购买新款？ 2023年12月底，美国零售商Target上架Stanley限量版保温杯，2024年初引发排队抢购，部分款式甚至出现转售溢价。 这家创立于1913年的品牌，曾长期依靠保温、耐用和户外使用场景赢得消费者。后来，Quencher系列凭借大容量、吸管、手柄和丰富配色，走进办公室、健身房和更多日常生活场景。 据媒体估算，Stanley年销售规模从2019年的约7300万美元，增长至2023年的约7.5亿美元。 杯子的基本功能没有发生根本变化，消费者愿意购买它的理由却明显增加。有人为了日常使用，有人喜欢设计和颜色，有人认同它代表的生活方式，还有人追求限量款式带来的收藏体验。 对企业而言，这些购买都是真实收入，却未必代表相同的需求。有人买一只就够用多年，有人愿意不断增加收藏，也有人可能在热潮过去之后停止购买。 销售额能够告诉企业已经卖出了多少，却无法回答这些购买理由还能持续多久。 1 同样一笔销售，消费者为什么购买？ 一家企业卖出十万双运动鞋，可以统计销售额、成交价格、渠道和购买人数，却无法仅凭这些数字判断十万笔交易背后的需求是否相同。 有人需要跑步训练，有人重视日常穿着的舒适性，有人喜欢鞋款设计，有人认同",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +146,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1793156936000",
-    "title": "红果撼动腾讯游戏？5位玩家的真实故事",
-    "link": "https://www.tmtpost.com/8183959.html",
-    "summary": "玩游戏的人，基本都会看漫剧。",
+    "id": "news-10-1793184147000",
+    "title": "第六届数字经济投融资机构川渝行在蓉举行，释放融资需求超10亿元",
+    "link": "https://www.tmtpost.com/8185010.html",
+    "summary": "聚焦AI赛道。",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-data-center-boom-has-an-upside-innovation-for-the-us-gri-1793141741000",
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "id": "news-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of-1793144067000",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -199,11 +199,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-ai-1793007973000",
-    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-    "link": "https://www.qbitai.com/2026/10/505539.html",
-    "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-    "publishedAt": "2026-10-26",
+    "id": "news-4d-1793097612000",
+    "title": "印奇把4D雷达也端到端了",
+    "link": "https://www.qbitai.com/2026/10/505852.html",
+    "summary": "毫米波雷达，AI算力10TOPS",
+    "publishedAt": "2026-10-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -212,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793158801000",
-    "title": " 奶茶店卖茶叶蛋、咖啡店卖汉堡，这门生意怎么了？ ",
-    "link": "https://www.huxiu.com/article/4900851.html?f=rss",
-    "summary": "蜜雪冰城的利润都在下滑，奶茶店却在忙着卖汉堡、卖啤酒。一天关350家、一天又开280家，谁在赚钱，谁在接盘？",
+    "id": "news-45-50-1793187390000",
+    "title": " 战魔田默｜泡泡玛特三季度收入同比骤降45%—50%，增长出了什么问题？ ",
+    "link": "https://www.huxiu.com/article/4901181.html?f=rss",
+    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜泡泡玛特三季度收入同比骤降45%—50%，增长出了什么问题？》 去年还在全球掀起抢购潮的泡泡玛特，今年第三季度收入突然下降近一半。 10月27日，泡泡玛特披露最新经营数据，2026年第三季度整体收益（未经审核）同比下降45%—50%。其中，美洲市场下降70%—75%，亚太地区下降65%—70%。 一年前，泡泡玛特同期收入还在增长245%—250%。LABUBU风靡全球，热门产品供不应求，公司不断刷新增长纪录。 从增长超过两倍，到收入下降近一半，前后不过一年。 超级IP的热度能持续多久？海外市场究竟积累了多少稳定需求？当爆款带来的增长突然放缓，已经铺开的渠道和库存又该如何调整？ 对泡泡玛特而言，真正的考验，是过去建立在高速增长预期之上的经营体系，能否适应已经变化的市场需求。 1 泡泡玛特为什么突然出现大幅下滑？ 2024年，泡泡玛特实现收入130.38亿元，同比增长106.9%。2025年收入达到371.20亿元，同比增长184.7%。 其中，LABUBU所属的THE MONSTERS系列实现收入141.61亿元，同比增长365.7%。 热门商品吸引新消费者，社交媒体扩大传播范围，市场热度推动渠道扩张，形成持续放大的销售效应。 今年上半年，泡泡玛特收入171.73亿元，同比增长23.8%，增速已明显回落。第三季度",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -225,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793156927000",
-    "title": "医疗AI诊断：为什么很难成为一门独立生意？",
-    "link": "https://www.tmtpost.com/8184268.html",
-    "summary": "医疗AI应用现状、政策与商业卡点、以及破局思考",
+    "id": "news--1793183189000",
+    "title": "山姆、奥乐齐、盒马掘金“县级”市场",
+    "link": "https://www.tmtpost.com/8184538.html",
+    "summary": "盒马、奥乐齐、麦德龙、711等纷纷加码下沉县域市场",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -251,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-guidewire-buys-hyperexponential-for-1-7b-in-cash-1793139963000",
-    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-    "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+    "id": "news-the-data-center-boom-has-an-upside-innovation-for-the-us-gri-1793141741000",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -277,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-1793007477000",
-    "title": "OpenAI开始断网训练最强模型：“安全起见”",
-    "link": "https://www.qbitai.com/2026/10/505529.html",
-    "summary": "模型开始利用GPU缓存聊天？",
-    "publishedAt": "2026-10-26",
+    "id": "news-ai-1793094891000",
+    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+    "link": "https://www.qbitai.com/2026/10/505830.html",
+    "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+    "publishedAt": "2026-10-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -290,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-99-1793158757000",
-    "title": " 起步价1.99元、时长翻倍：共享单车在给骑不满半小时的人涨价 ",
-    "link": "https://www.huxiu.com/article/4901014.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 早上八点二十，地铁口到公司还有一公里三。 掏手机、扫码、锁弹开，屏幕上跳出一行小字：起步价1.99元（60分钟）。 骑到楼下，计时器停在11分钟。 这趟路去年是一块五。 一年前它是1.5元/30分钟，现在是1.99元/60分钟——贵了三毛九，也多了三十分钟。 问题在于，那多出来的三十分钟，你要骑去哪儿。 ⑴涨了三毛九，也涨了三十分钟 北京的动作最整齐。 2026年6月，美团单车、滴滴青桔、哈啰单车几乎在同一时间改了计费规则，配方一模一样。 美团把城六区工作日和周末的起步价定在1.88元，起步时长从30分钟拉到60分钟。 滴滴青桔和哈啰都落在1.99元，同样给60分钟。 超出起步时长之后，三家在北京一致执行0.1元/分钟。 调价前，三家通用的是1.5元/30分钟。 一次涨三毛八到四毛九，涨幅在25%到33%之间。 美团还留了一个容易被忽略的细节：它只调了城六区，其他区域仍按1.5元/30分钟执行。 同一个品牌，隔着一条环线，是两个价。 滴滴青桔的轨迹更陡一些。 据南方都市报梳理，青桔今年4月的起步价一度是2元/20分钟，此后回到1.5元/30分钟，6月再跳到1.99元/60分钟。 四个月里，同一个平台的起步时长被拉长了三倍，起步价稳稳停在一块九毛九。 法定节假日是这套规则里唯一降价的地方。 北京全区域节假日统一执行1.88元/60分钟，",
+    "id": "news--1793187196000",
+    "title": " 低空经济要凉？多地踩刹车，航空电池转做电车生意 ",
+    "link": "https://www.huxiu.com/article/4901185.html?f=rss",
+    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 摘要： 不少地方政府已经“认清低空经济不是一蹴而就，不是一纸公文来拉动的”。 →这是《环球零碳》的第2180篇原创 国家确定的战略性新兴产业——低空经济，最近流传出一种说法：“将亡于2026”。这种论调并不是凭空捏造，而是来源于最近发生的几件事。 先是杭州、广州等低空经济热门城市的产业财政补贴按下暂停键，紧接着天津宣布全市无人机空域实行管制，原本划定的适飞区域被取消。 不让随便飞，政府补贴也没了，就连上游供应商都开始寻找其他出路。一些原本为电动飞机准备的航空电池产线，都开始转向生产新能源汽车电池。 难道这个曾被寄予万亿市场厚望的行业，真要凉了？ 01 航空电池厂先撤退了 所谓低空经济，就是利用低空空域开展无人机送货、农业植保、电动飞机空中载人出行等商业活动。 来源：前瞻产业研究院 2024年，“低空经济”首次被写入政府工作报告，成为国家重点培育的新增长引擎之一。一时间，飞行汽车（eVTOL）成为资本追逐的热点。摩根士丹利曾预测，全球相关市场规模到2030年将达到3000亿美元，2040年有望突破万亿美元。 为了抢占未来的航空电池市场，各家电池企业纷纷拿出技术方案。 2024年，宁德时代宣布成功试飞搭载其凝聚态电池的4吨级民用电动飞机。孚能科技、中创新航等企业也相继推出高能量密度航空电池技术，希望抢占飞行汽车产业的",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -303,10 +303,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-1793156922000",
-    "title": "Claude 的账单，金主先看不下去了",
-    "link": "https://www.tmtpost.com/8183902.html",
-    "summary": "Anthropic 已经演示了它的天花板在哪",
+    "id": "news--1793183162000",
+    "title": "别人还在抽卡，米哈游已经开始抽芯片了",
+    "link": "https://www.tmtpost.com/8184518.html",
+    "summary": "二次元的第一棵大树长成了，米哈游想造一片森林。",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -329,10 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-from-8vc-to-benchmark-here-8217-s-what-8217-s-hiding-in-octo-1793139438000",
-    "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-    "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-    "summary": "A whole crop of venture capital firms are raising significant new funds.",
+    "id": "news-guidewire-buys-hyperexponential-for-1-7b-in-cash-1793139963000",
+    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+    "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+    "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
     "publishedAt": "2026-10-27",
     "source": "TechCrunch",
     "tags": [
@@ -356,11 +356,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-ai-1793007314000",
-    "title": "A社联创演讲：AI奇点已来",
-    "link": "https://www.qbitai.com/2026/10/505521.html",
-    "summary": "所谓奇点，或许是AI跃过人类的那个点。",
-    "publishedAt": "2026-10-26",
+    "id": "news-physical-rsi-ai-1793090772000",
+    "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+    "link": "https://www.qbitai.com/2026/10/505799.html",
+    "summary": "无人在环进店实测啃下长尾场景",
+    "publishedAt": "2026-10-27",
     "source": "量子位",
     "tags": [
       "china",
@@ -369,23 +369,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-13-1793158613000",
-    "title": " 影石的经营“密码”，有效期13个月 ",
-    "link": "https://www.huxiu.com/article/4901015.html?f=rss",
-    "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 10月27日晚，影石创新发布了2026年前三季度财报，第三季度营收39.19亿，同比增长33.3%，净利却只有1743万，同比下降94%。 与此同时，股价依旧徘徊在百元线上线，市值缩到400亿上下。 要知道，十三个月前，影石股价一度摸上377元，市值站上1500亿。那时的刘靖康34岁，是科创板史上第一位白手起家的90后董事长，敲钟那天手里举着的，是自家的全景相机X5。 从山顶到山脚，十三个月。 跟三个月前发布的半年报比，好坏都有：中报里，营收55.17亿，增长50.29%；归母净利润3040万元，同比下跌94.15%；扣非净利润亏损1533.92万元，上市以来首次由盈转亏。货卖出去的量多了一半，落到账上的利润只剩个零头。 利润变薄之外，更值得关注的是，经营性现金流恶化：影石上半年的经营现金流是负27.61亿，截止第三季度，经营现金流变成了负的42.64亿。 也就是说，第三季度，一个季度三个月，每个月是经营现金流少了5个亿。 简单总结下：影石增长放缓，利润越来越薄，现金流失血…但这不是一家经营失速的公司。所以，影石怎么了？ 有人说，这是三个结构性变量在同一时间窗口的叠加：一个天生的窄品类、一场必然会打的战争、一次撞上枪口的成本周期。但都是表层。 说到底，影石过往所有的成功，其实只靠八个字：单点突破，夹缝生存。 它今天所有的困境，都源于这八",
+    "id": "news-kimi-1793187181000",
+    "title": " 技术至上的kimi，遇到了全球化难题 ",
+    "link": "https://www.huxiu.com/article/4901177.html?f=rss",
+    "summary": "本文来自微信公众号： 数智奔流 ，作者：田渝 10月24日凌晨，Kimi发布新模型K3.1 Pro。官方给它安排了两项主要升级：能力进入旗舰模型第一梯队，API价格较上一代下调约三分之一。 但模型发布后，kimi缺因为Token消耗速度陷入性价比争议。 从定价看，官方公布的API价格确实下降了。 K3.1 Pro的输入价格从每百万Token 20元降至13元，输出价格从100元降至68元。可在C端用户和海外开发者那里，实际感受并没有同步变便宜。 有用户测试经典的“鹈鹕骑单车”任务，生成时长达到1小时47分钟，5小时额度消耗87%，周额度消耗16%。还有开发者记录到，只发送一句“你好”，Token计数就达到4.2万。 10月26日，Kimi发布致歉和补偿声明，承认“问题出在我们，本应更早修复”。官方提出两项措施：为有效期内的订阅会员重置并补偿额度；调整模型配置，减少不必要的子Agent调用和输出长度。 这份声明承认，模型背后的调用机制没有被控制好。 过去，用户对模型价格的理解相对简单：输出多少Token，按照单价计算。 但现在，一次请求可能还包括长上下文读取、后台推理、任务拆解、工具调用、子Agent协作和多轮自我修正。 用户只发送一句话，模型可能在后台完成一串动作。只要每次任务消耗的Token更多，即使API降价，用户最终付出的成本或许还会增加。 K3.1 Pro被官方称为“迄今为",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1793155491000",
-    "title": "元保入选巴伦中国价值榜单：当AI开始接管咨询和理赔服务，保险中介的价值如何重估",
-    "link": "https://www.tmtpost.com/8184296.html",
-    "summary": "随着线上投保逐渐普及，互联网保险平台需要解决的问题更加具体，如何帮助消费者选择适合的产品，如何降低保险公司的获客和服务成本，如何让投保时承诺的保障在理赔环节得到兑现等问题都需要得到回应。",
+    "id": "news-q3-1793181184000",
+    "title": "锂周期再摇摆：锂企前三季度业绩炸裂，Q3环比转弱｜行业风向标",
+    "link": "https://www.tmtpost.com/8184851.html",
+    "summary": "Q4或再拉开差距。",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -980,4 +981,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-28T03:49:04.259Z';
+export const dataFetchedAt = '2026-10-28T12:02:55.015Z';
