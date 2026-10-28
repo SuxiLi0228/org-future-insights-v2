@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-1793103000000",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
-    "publishedAt": "2026-10-27",
+    "id": "news-creating-ai-value-with-enterprise-context-1793219522000",
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+    "publishedAt": "2026-10-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jio-shares-surge-21-in-market-debut-after-blockbuster-india--1793164832000",
-    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-    "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+    "id": "news-microsoft-just-shared-azure-8217-s-actual-revenue-in-dollars-1793224712000",
+    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-accommodation-mistake-employers-keep-making-1793133840000",
-    "title": "The accommodation mistake employers keep making",
-    "link": "https://www.hrdive.com/news/the-accommodation-mistake-employers-keep-making/872813/",
-    "summary": "Employers&rsquo; defensible positions can collapse for no reason other than that the entire history lived in corridor conversations and a scattering of texts, writes Chaim Book, senior partner at Book Law LLP.&nbsp;",
-    "publishedAt": "2026-10-27",
+    "id": "news-pwc-confirms-learning-records-breached-in-attack-on-vendor-s-1793214900000",
+    "title": "PwC confirms learning records breached in attack on vendor site",
+    "link": "https://www.hrdive.com/news/pwc-learning-records-breached-attack-vendor/873019/",
+    "summary": "The professional services firm was the subject of a claim by a known ransomware actor.",
+    "publishedAt": "2026-10-28",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-1793188408000",
-    "title": " 从王健林到孙宏斌，这宗“沉睡”10年的地块终被收储，补偿款怎么处理？ ",
-    "link": "https://www.huxiu.com/article/4901187.html?f=rss",
-    "summary": "本文来自微信公众号： 每经房产 ，作者：陈利 ｜“沉睡”10年。 全文约2000字▼ 融创中国首个以政府收储方式兑现现金的项目落地。 日前，融创房地产集团有限公司（以下简称融创）发布公告，旗下广州万达文化旅游城投资有限公司与广州市花都区土地开发储备中心签订《国有土地使用权收储补偿协议》。公司将位于花都区花城街、面积83331平方米（约125亩）的地块交由政府收储，土地补偿款总额2.72亿元。 《每日经济新闻》记者（以下简称每经记者）了解到，按照融创2022年债券展期时设立的偿付保障条款，这笔补偿款经第三方审计机构核定后，将按约定比例回流，专项用于兑付展期债券本息。这也是融创五大文旅城自持物业偿债资产包中，首个通过政府收储实现现金回款的项目。 壹 从王健林到孙宏斌 这宗被政府收储的地块，前后历经两任“主人”。 2015年、2016年，万达集团先后斥资26.89亿元、23.03亿元，拿下广州花都平步大道以北及邻近住宅组团地块，两宗地块合计净用地面积超84万平方米。万达集团计划在此打造包含乐园、雪世界、商业MALL与酒店集群的广州万达文旅城，对外宣称项目总投资将达到500亿元。 遍布全国的万达城项目，一度让王健林拥有了对标迪士尼的底气。万达集团官网宣传稿曾写道：“以这家中国企业的执行力而论，迪士尼不敢忽略这样一个对手。” 然而壮志未酬，这批文旅项目很快易主。 2017年7月，融创出资43",
+    "id": "news-q3-1793205675000",
+    "title": " 宇树上市后首份成绩单：Q3营收增近七成，净利润却在下滑 ",
+    "link": "https://www.huxiu.com/article/4901268.html?f=rss",
+    "summary": "本文来自微信公众号： 42号电波 ，作者：x，编辑：James，原文标题：《宇树上市后首份成绩单：Q3 营收增近七成，净利润却在下滑》 10月28日，宇树科技披露上市后的首份业绩报告：第三季度营收增长近七成，利润却同比下滑，研发投入增长近2.5倍，三件事同时发生。 这不是一个简单的「高增长」故事。宇树正在把硬件业务积累的收入和上市融资带来的资金，投向一个仍处于研发验证阶段的方向：具身智能。 关键信息 收入继续加速。前三季度营业收入18.17亿元，同比增长55.71%，已超过2025年全年约16.99亿元的营收规模；第三季度单季营收6.65亿元，同比增长69.93%。 利润与收入出现背离。前三季度归母净利润3.87亿元，同比增长270.54%；扣非归母净利润3.49亿元，同比下降18.78%。第三季度单季归母净利润1.13亿元，同比下降17.37%；扣非归母净利润1.05亿元，同比下降17.42%。 毛利率下降，成本增速高于收入。前三季度毛利额约9.82亿元，毛利率约为54.02%，较上年同期的约59.75%下降5.73个百分点；同期营业成本约8.36亿元，同比增长约77.9%。 研发投入大幅增加。前三季度研发投入2.63亿元，同比增长191.48%，占营收的14.47%；经营活动现金流净额同比下降54.69%。 资本市场已经提前为这个方向定价。10月25日，摩根大通将宇树评级从「低",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +67,246 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-siri-1793185266000",
-    "title": "苹果最赚钱的生意，正被Siri亲手拆掉？",
-    "link": "https://www.tmtpost.com/8184537.html",
-    "summary": "谁控制应用分发，谁就能够影响移动互联网的流量和交易规则。 然而，AI正在尝试改变这种关系。",
+    "id": "news-anthropic-1793193706000",
+    "title": "Anthropic巨亏背后，藏着行业什么秘密？",
+    "link": "https://www.tmtpost.com/8183803.html",
+    "summary": "模型公司，估值寄生于基础设施供应商。",
+    "publishedAt": "2026-10-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-dead-startups-fueling-ai-and-interspecies-commu-1793189400000",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
+    "publishedAt": "2026-10-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-google-expands-ai-search-ads-globally-as-core-ad-growth-slow-1793224117000",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "publishedAt": "2026-10-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-rising-wages-still-fall-short-of-higher-cost-of-living-analy-1793214480000",
+    "title": "Rising wages still fall short of higher cost of living, analysis shows",
+    "link": "https://www.hrdive.com/news/rising-wages-still-fall-short-of-higher-cost-of-living/873025/",
+    "summary": "Housing, childcare and healthcare were the top drivers of cost increases, the research found.",
+    "publishedAt": "2026-10-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news--1793105871000",
+    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+    "link": "https://www.qbitai.com/2026/10/505865.html",
+    "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+    "publishedAt": "2026-10-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793204005000",
+    "title": " 星巴克是一面镜子 ",
+    "link": "https://www.huxiu.com/article/4901266.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：洪真真 星巴克最近这事儿闹得挺大，桌上突然多了一块小牌子，写着“营业空间，请消费入座”。 这块牌子出来的时候简直跟演电视剧一样。10月19号，网上就有人晒出还没拆封的物料，大家问店员，店员说20号开始执行；结果官方马上跳出来说消息不属实。到了20号呢，各路记者跑去门店实地探访，有的店员说只是倡议，有的说还要等上面通知，还有的说高峰期先让买了东西的人坐。 到了21号，官方又跟媒体确认了，说从22号开始全国正式施行消费入座，不过遇到顾客有什么合理的突发需求，也会妥善处理。 短短三天之内，从否认到含糊，再到最后的官宣确认，一家咖啡馆硬是把一件小事演成了三幕大戏。 星巴克彻底改变了自己“第三空间”的形象，得有曲折的剧情铺垫。往前看，还有几个回合。 今年夏天，湖州那家星巴克出了个名场面：三个女士从店门刚开一直坐到中午，一分钱没花不说，中午出门吃饭时居然还在桌上留了一杯番茄汁占座。等她们吃完回来，发现座位被一个真正买咖啡的顾客坐了，这三位倒好，反把人家给撵走了。那位顾客气不过直接报了警。这事儿一上热搜，网友们的评论区直接一边倒，全都喊着让星巴克管管这种只坐不买的人。 可是，可是，亲爱的们，也就是去年7月，广东那边的一些星巴克门店还推出了什么“星子自习室”，号称不用消费、不限时长，插座随便插，温水随便喝。 从当初的免费自习室到如今的请消费入座，也就一年多",
+    "publishedAt": "2026-10-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4-2-24-532-1793191899000",
+    "title": "逸飞激光4亿“追光”：拟用2.24亿超募资金“买单”，标的增值率达532%｜并购一线",
+    "link": "https://www.tmtpost.com/8185098.html",
+    "summary": "标的评估增值率达 532.56%，锂电设备商布局新增长曲线。",
+    "publishedAt": "2026-10-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-pairing-industrial-ai-autonomy-and-human-control-1793188800000",
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "summary": "",
+    "publishedAt": "2026-10-28",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-microsoft-recorded-10-billion-in-revenue-from-openai-1793223270000",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "publishedAt": "2026-10-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-too-much-disruption-can-affect-workplace-culture-1793214480000",
+    "title": "Too much disruption can affect workplace culture",
+    "link": "https://www.hrdive.com/news/too-much-disruption-can-affect-workplace-culture/872950/",
+    "summary": "Companies need to treat upheaval &ldquo;as both a cultural and operational issue,&rdquo; a new report recommended.",
+    "publishedAt": "2026-10-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-4d-1793097612000",
+    "title": "印奇把4D雷达也端到端了",
+    "link": "https://www.qbitai.com/2026/10/505852.html",
+    "summary": "毫米波雷达，AI算力10TOPS",
+    "publishedAt": "2026-10-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793203762000",
+    "title": " 昂跑的姆巴佩危机 ",
+    "link": "https://www.huxiu.com/article/4901264.html?f=rss",
+    "summary": "本文来自微信公众号： 精练GymSquare ，作者：启立 在重金签约足球明星姆巴佩的一个月后，昂跑遭遇了公司创立以来的第一个重大危机。 近日，足球世界杯冠军球员姆巴佩，因重大涉华不当言论，引发中国市场风波。在短短两天内，姆巴佩合作的中国品牌东鹏饮料旗下补水啦，蒙牛乳业纷纷发布解约声明。小红书平台声明24年底合作到期，且小红书官方对姆巴佩个人账号禁言。 但当中牵涉最深的运动品牌昂跑，除了中国社交媒体删除姆巴佩相关宣传资料后，品牌总部暂未发布任何官方声明。 姆巴佩的所属球队皇家马德里足球俱乐部发布官方声明，就球员基利安·姆巴佩近期言论给中国人民带来的不适表示歉意，西甲联盟也发布致歉公告。10月27日晚，姆巴佩本人通过个人账号就相关言论致歉。 但即便如此，志在通过一笔重金签约进入足球领域的昂跑，破圈计划搁浅，并至少在亚太市场，遭遇新的重大危机。 来源：姆巴佩社交账号 昂跑在亚太市场的增长几乎是现象级的。在2025财季全年，亚太市场营收5.111亿瑞郎，同比增长96.4%，成为昂跑在亚太地区的爆发大年。即便2026财年二季度的财报中，亚太市场增长回落，但按固定汇率营收增长依然达到61.4%，当中中国市场是增长的核心引擎。 根据公开信息，昂跑中国目前门店近90家，预计今年年底达到100家，是全球直营门店增长最快的区域。在今年年初，昂跑深圳万象天地双层旗舰店，成为中国中国目前最大门店。而目前",
+    "publishedAt": "2026-10-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-dsh-deepseek-v5-1793189981000",
+    "title": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
+    "link": "https://www.tmtpost.com/8184852.html",
+    "summary": "DSH测试文件出现三个deepseek-v5模型，或为占位符",
+    "publishedAt": "2026-10-28",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-1793103000000",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+    "publishedAt": "2026-10-27",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-r-1793222730000",
+    "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "publishedAt": "2026-10-28",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-at-work-employees-employers-may-not-be-on-the-same-page-1793214480000",
+    "title": "AI at work: Employees, employers may not be on the same page",
+    "link": "https://www.hrdive.com/news/ai-at-work-employees-employers-may-not-be-on-the-same-page/873055/",
+    "summary": "A study from Dayforce highlights workers&rsquo; fears about how AI use might make their work life worse.",
+    "publishedAt": "2026-10-28",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-1793094891000",
+    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+    "link": "https://www.qbitai.com/2026/10/505830.html",
+    "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+    "publishedAt": "2026-10-27",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-iphone-duo-1793203745000",
+    "title": " 裂屏风波中的iPhone Duo ",
+    "link": "https://www.huxiu.com/article/4901263.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 折叠屏手机商用七年后，最晚入局的主流手机厂商苹果，成为今年搅动全球市场份额的最大变量。 集邦咨询预估，2026年全球折叠屏手机出货量仅微增0.5%，而苹果首款折叠屏手机iPhone Duo上市首年出货量预计约500万部，占据全球约24.8%的市场份额，加速品牌市占率变动。 目前，这款正式发售不足一周的手机供需仍十分紧张。10月28日，财联社记者走访深圳益田假日广场的苹果线下门店了解到，店内仍无iPhone Duo现货，线上预订预计要到2027年1月底才能拿货。 （iPhone Duo图源：财联社记者摄） 一位核心果链企业人士则向财联社记者透露，由于iPhone Duo需求旺盛，客户加单超200万台，近期公司正在全力抓生产。 随着iPhone Duo正式进入市场，这款国行起售价15999元的折叠机也迎来了真机品控检验。近日，海内外社交平台上接连有首发用户反映，新机开合数次后出现铰链发紧、内屏沿折痕开裂或显示异常等问题。10月27日，苹果官方回复称，目前已留意到有极少数iPhone Duo的内屏出现问题，建议遇到显示屏问题的用户联系AppleCare处理换机事宜。 上述门店工作人员则告诉记者，该门店尚未遇到因内屏开裂前来退换的案例，也未收到产品召回通知，若设备确属非人为的自身质量问题，可协助办理退换。 无论故障是否偶发，iPhone Duo",
+    "publishedAt": "2026-10-28",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1793189679000",
+    "title": "腾讯AI压力来到微信小微",
+    "link": "https://www.tmtpost.com/8184625.html",
+    "summary": "小微已然迈出一小步。",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -93,260 +329,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vcs-will-make-billions-on-anthropic-8217-s-ipo-but-amazon-is-1793150128000",
-    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "id": "news-hacker-stole-personnel-data-about-thousands-of-homeland-secu-1793217660000",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "ecommerce"
+      "ai-hr"
     ]
   },
   {
-    "id": "news-10-haunting-hr-stories-1793133780000",
-    "title": "10 haunting HR stories",
-    "link": "https://www.hrdive.com/news/10-haunting-hr-stories/872897/",
-    "summary": "These examples show how HR can potentially run afoul of the law &mdash; and what sorts of frightening lawsuits can follow.",
-    "publishedAt": "2026-10-27",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1793105871000",
-    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-    "link": "https://www.qbitai.com/2026/10/505865.html",
-    "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-    "publishedAt": "2026-10-27",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793187614000",
-    "title": " 战魔田默｜消费者为什么买，决定了生意能做多久 ",
-    "link": "https://www.huxiu.com/article/4901182.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜消费者为什么买，决定了生意能做多久》 一只保温杯，为什么有人用了十年还不换，有人已经有了五六只，却仍然排队购买新款？ 2023年12月底，美国零售商Target上架Stanley限量版保温杯，2024年初引发排队抢购，部分款式甚至出现转售溢价。 这家创立于1913年的品牌，曾长期依靠保温、耐用和户外使用场景赢得消费者。后来，Quencher系列凭借大容量、吸管、手柄和丰富配色，走进办公室、健身房和更多日常生活场景。 据媒体估算，Stanley年销售规模从2019年的约7300万美元，增长至2023年的约7.5亿美元。 杯子的基本功能没有发生根本变化，消费者愿意购买它的理由却明显增加。有人为了日常使用，有人喜欢设计和颜色，有人认同它代表的生活方式，还有人追求限量款式带来的收藏体验。 对企业而言，这些购买都是真实收入，却未必代表相同的需求。有人买一只就够用多年，有人愿意不断增加收藏，也有人可能在热潮过去之后停止购买。 销售额能够告诉企业已经卖出了多少，却无法回答这些购买理由还能持续多久。 1 同样一笔销售，消费者为什么购买？ 一家企业卖出十万双运动鞋，可以统计销售额、成交价格、渠道和购买人数，却无法仅凭这些数字判断十万笔交易背后的需求是否相同。 有人需要跑步训练，有人重视日常穿着的舒适性，有人喜欢鞋款设计，有人认同",
+    "id": "news-4-trends-explaining-why-recruiters-are-struggling-right-now-1793201820000",
+    "title": "4 trends explaining why recruiters are struggling right now",
+    "link": "https://www.hrdive.com/news/4-trends-explaining-why-recruiters-are-struggling-right-now/873036/",
+    "summary": "&ldquo;You may be getting applications from people who have never heard of your job or company,&rdquo; one senior director analyst said.",
     "publishedAt": "2026-10-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1793184147000",
-    "title": "第六届数字经济投融资机构川渝行在蓉举行，释放融资需求超10亿元",
-    "link": "https://www.tmtpost.com/8185010.html",
-    "summary": "聚焦AI赛道。",
-    "publishedAt": "2026-10-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-solid-state-transformers-could-help-power-the-ai-boom-1793091600000",
-    "title": "How solid-state transformers could help power the AI boom",
-    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
-    "publishedAt": "2026-10-27",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of-1793144067000",
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "publishedAt": "2026-10-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-cornell-prevails-on-dei-hiring-lawsuit-after-judge-finds-pla-1793133780000",
-    "title": "Cornell prevails on DEI hiring lawsuit after judge finds plaintiff ‘had no intention of reentering academia’",
-    "link": "https://www.hrdive.com/news/cornell-dei-hiring-lawsuit-lack-of-standing/872883/",
-    "summary": "The judge in the case managed to sidestep arguments about DEI-based discrimination, which have gained some traction in the federal court system.",
-    "publishedAt": "2026-10-27",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4d-1793097612000",
-    "title": "印奇把4D雷达也端到端了",
-    "link": "https://www.qbitai.com/2026/10/505852.html",
-    "summary": "毫米波雷达，AI算力10TOPS",
-    "publishedAt": "2026-10-27",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-45-50-1793187390000",
-    "title": " 战魔田默｜泡泡玛特三季度收入同比骤降45%—50%，增长出了什么问题？ ",
-    "link": "https://www.huxiu.com/article/4901181.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜泡泡玛特三季度收入同比骤降45%—50%，增长出了什么问题？》 去年还在全球掀起抢购潮的泡泡玛特，今年第三季度收入突然下降近一半。 10月27日，泡泡玛特披露最新经营数据，2026年第三季度整体收益（未经审核）同比下降45%—50%。其中，美洲市场下降70%—75%，亚太地区下降65%—70%。 一年前，泡泡玛特同期收入还在增长245%—250%。LABUBU风靡全球，热门产品供不应求，公司不断刷新增长纪录。 从增长超过两倍，到收入下降近一半，前后不过一年。 超级IP的热度能持续多久？海外市场究竟积累了多少稳定需求？当爆款带来的增长突然放缓，已经铺开的渠道和库存又该如何调整？ 对泡泡玛特而言，真正的考验，是过去建立在高速增长预期之上的经营体系，能否适应已经变化的市场需求。 1 泡泡玛特为什么突然出现大幅下滑？ 2024年，泡泡玛特实现收入130.38亿元，同比增长106.9%。2025年收入达到371.20亿元，同比增长184.7%。 其中，LABUBU所属的THE MONSTERS系列实现收入141.61亿元，同比增长365.7%。 热门商品吸引新消费者，社交媒体扩大传播范围，市场热度推动渠道扩张，形成持续放大的销售效应。 今年上半年，泡泡玛特收入171.73亿元，同比增长23.8%，增速已明显回落。第三季度",
-    "publishedAt": "2026-10-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793183189000",
-    "title": "山姆、奥乐齐、盒马掘金“县级”市场",
-    "link": "https://www.tmtpost.com/8184538.html",
-    "summary": "盒马、奥乐齐、麦德龙、711等纷纷加码下沉县域市场",
-    "publishedAt": "2026-10-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-will-the-real-anthropic-please-stand-up-1793036743000",
-    "title": "Will the real Anthropic please stand up",
-    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
-    "publishedAt": "2026-10-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-data-center-boom-has-an-upside-innovation-for-the-us-gri-1793141741000",
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-    "publishedAt": "2026-10-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-union-steward-s-refusal-to-meet-supervisor-wasn-t-protected--1793133720000",
-    "title": "Union steward’s refusal to meet supervisor wasn’t protected, NLRB judge says",
-    "link": "https://www.hrdive.com/news/union-stewards-refusal-to-meet-supervisor-wasnt-protected-nlrb-judge/872941/",
-    "summary": "The decision demonstrates the limits of federal labor law&rsquo;s protected activity definition, a topic the board itself has revisited several times in recent years.",
-    "publishedAt": "2026-10-27",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-ai-1793094891000",
-    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-    "link": "https://www.qbitai.com/2026/10/505830.html",
-    "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-    "publishedAt": "2026-10-27",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793187196000",
-    "title": " 低空经济要凉？多地踩刹车，航空电池转做电车生意 ",
-    "link": "https://www.huxiu.com/article/4901185.html?f=rss",
-    "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 摘要： 不少地方政府已经“认清低空经济不是一蹴而就，不是一纸公文来拉动的”。 →这是《环球零碳》的第2180篇原创 国家确定的战略性新兴产业——低空经济，最近流传出一种说法：“将亡于2026”。这种论调并不是凭空捏造，而是来源于最近发生的几件事。 先是杭州、广州等低空经济热门城市的产业财政补贴按下暂停键，紧接着天津宣布全市无人机空域实行管制，原本划定的适飞区域被取消。 不让随便飞，政府补贴也没了，就连上游供应商都开始寻找其他出路。一些原本为电动飞机准备的航空电池产线，都开始转向生产新能源汽车电池。 难道这个曾被寄予万亿市场厚望的行业，真要凉了？ 01 航空电池厂先撤退了 所谓低空经济，就是利用低空空域开展无人机送货、农业植保、电动飞机空中载人出行等商业活动。 来源：前瞻产业研究院 2024年，“低空经济”首次被写入政府工作报告，成为国家重点培育的新增长引擎之一。一时间，飞行汽车（eVTOL）成为资本追逐的热点。摩根士丹利曾预测，全球相关市场规模到2030年将达到3000亿美元，2040年有望突破万亿美元。 为了抢占未来的航空电池市场，各家电池企业纷纷拿出技术方案。 2024年，宁德时代宣布成功试飞搭载其凝聚态电池的4吨级民用电动飞机。孚能科技、中创新航等企业也相继推出高能量密度航空电池技术，希望抢占飞行汽车产业的",
-    "publishedAt": "2026-10-28",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793183162000",
-    "title": "别人还在抽卡，米哈游已经开始抽芯片了",
-    "link": "https://www.tmtpost.com/8184518.html",
-    "summary": "二次元的第一棵大树长成了，米哈游想造一片森林。",
-    "publishedAt": "2026-10-28",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-everyday-ai-harms-and-the-race-to-nuclear-space-1793018400000",
-    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;",
-    "publishedAt": "2026-10-26",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-guidewire-buys-hyperexponential-for-1-7b-in-cash-1793139963000",
-    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-    "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-    "publishedAt": "2026-10-27",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-toshiba-chro-entry-level-workers-need-to-use-ai-more-not-les-1793114040000",
-    "title": "Toshiba CHRO: Entry-level workers need to use AI more — not less",
-    "link": "https://www.hrdive.com/news/toshiba-chro-entry-level-workers-need-to-use-ai-more-not-less/833725/",
-    "summary": "&ldquo;AI is just the latest chapter&rdquo; in the story of adaptability,&nbsp;Jason Desentz told HR Dive.",
-    "publishedAt": "2026-10-27",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -369,10 +370,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-1793187181000",
-    "title": " 技术至上的kimi，遇到了全球化难题 ",
-    "link": "https://www.huxiu.com/article/4901177.html?f=rss",
-    "summary": "本文来自微信公众号： 数智奔流 ，作者：田渝 10月24日凌晨，Kimi发布新模型K3.1 Pro。官方给它安排了两项主要升级：能力进入旗舰模型第一梯队，API价格较上一代下调约三分之一。 但模型发布后，kimi缺因为Token消耗速度陷入性价比争议。 从定价看，官方公布的API价格确实下降了。 K3.1 Pro的输入价格从每百万Token 20元降至13元，输出价格从100元降至68元。可在C端用户和海外开发者那里，实际感受并没有同步变便宜。 有用户测试经典的“鹈鹕骑单车”任务，生成时长达到1小时47分钟，5小时额度消耗87%，周额度消耗16%。还有开发者记录到，只发送一句“你好”，Token计数就达到4.2万。 10月26日，Kimi发布致歉和补偿声明，承认“问题出在我们，本应更早修复”。官方提出两项措施：为有效期内的订阅会员重置并补偿额度；调整模型配置，减少不必要的子Agent调用和输出长度。 这份声明承认，模型背后的调用机制没有被控制好。 过去，用户对模型价格的理解相对简单：输出多少Token，按照单价计算。 但现在，一次请求可能还包括长上下文读取、后台推理、任务拆解、工具调用、子Agent协作和多轮自我修正。 用户只发送一句话，模型可能在后台完成一串动作。只要每次任务消耗的Token更多，即使API降价，用户最终付出的成本或许还会增加。 K3.1 Pro被官方称为“迄今为",
+    "id": "news--1793203703000",
+    "title": " 国家算力枢纽，为什么是这八个地方？ ",
+    "link": "https://www.huxiu.com/article/4901262.html?f=rss",
+    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 2026年10月28日，央视新闻报道了中国八大国家算力枢纽的最新建设进展。 北京周边的张家口，单向网络时延已经控制在2毫秒以内；内蒙古和林格尔，绿电占比超过85%；甘肃庆阳，正成为国内大模型训练和词元计算的重要基地。 从张家口到芜湖，从贵州贵安到宁夏中卫，一张横跨中国东西部的算力网络逐渐形成。 一个值得讨论的问题是，为什么偏偏是这些地方？ 如果按照科技产业实力排序，北京、上海、深圳、杭州显然更有优势。如果按照电力价格和土地成本排序，西部还有许多符合条件的城市。 实际上，中国算力枢纽的选址，涉及能源分布、产业结构、网络时延、气候条件，以及地方政府之间的竞争。 这项工程最初启动于2022年。国家发展改革委等部门确定了京津冀、长三角、粤港澳大湾区、成渝、内蒙古、贵州、甘肃、宁夏八大国家算力枢纽，并在其中规划了十大数据中心集群。 严格来说，八大枢纽是八个区域，具体落点包括张家口、芜湖、韶关、贵安、中卫、庆阳、和林格尔等地，以及长三角生态绿色一体化发展示范区、天府和重庆集群。 四年过去，生成式AI改变了中国算力市场。 原本围绕互联网、云计算和数据存储形成的区域布局，开始承接大模型训练、推理服务和人工智能应用需求。 这也使八大枢纽的选址逻辑，具有了新的商业意义。 一、算力为什么要离开北京、上海和深圳？ 理解算力枢纽的选址，首先要理解数据中心是一门",
     "publishedAt": "2026-10-28",
     "source": "虎嗅",
     "tags": [
@@ -383,10 +384,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-q3-1793181184000",
-    "title": "锂周期再摇摆：锂企前三季度业绩炸裂，Q3环比转弱｜行业风向标",
-    "link": "https://www.tmtpost.com/8184851.html",
-    "summary": "Q4或再拉开差距。",
+    "id": "news-deepseek-1793188692000",
+    "title": "当DeepSeek成为一种亚文化",
+    "link": "https://www.tmtpost.com/8184563.html",
+    "summary": "流量虽好，别学微博",
     "publishedAt": "2026-10-28",
     "source": "钛媒体",
     "tags": [
@@ -981,4 +982,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-28T12:02:55.015Z';
+export const dataFetchedAt = '2026-10-28T22:09:14.929Z';
