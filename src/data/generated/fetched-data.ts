@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-just-shared-azure-8217-s-actual-revenue-in-dollars-1793224712000",
-    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "id": "news-upwind-raises-400m-after-walking-away-from-datadog-acquisiti-1793229300000",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
@@ -54,24 +54,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-q3-1793205675000",
-    "title": " 宇树上市后首份成绩单：Q3营收增近七成，净利润却在下滑 ",
-    "link": "https://www.huxiu.com/article/4901268.html?f=rss",
-    "summary": "本文来自微信公众号： 42号电波 ，作者：x，编辑：James，原文标题：《宇树上市后首份成绩单：Q3 营收增近七成，净利润却在下滑》 10月28日，宇树科技披露上市后的首份业绩报告：第三季度营收增长近七成，利润却同比下滑，研发投入增长近2.5倍，三件事同时发生。 这不是一个简单的「高增长」故事。宇树正在把硬件业务积累的收入和上市融资带来的资金，投向一个仍处于研发验证阶段的方向：具身智能。 关键信息 收入继续加速。前三季度营业收入18.17亿元，同比增长55.71%，已超过2025年全年约16.99亿元的营收规模；第三季度单季营收6.65亿元，同比增长69.93%。 利润与收入出现背离。前三季度归母净利润3.87亿元，同比增长270.54%；扣非归母净利润3.49亿元，同比下降18.78%。第三季度单季归母净利润1.13亿元，同比下降17.37%；扣非归母净利润1.05亿元，同比下降17.42%。 毛利率下降，成本增速高于收入。前三季度毛利额约9.82亿元，毛利率约为54.02%，较上年同期的约59.75%下降5.73个百分点；同期营业成本约8.36亿元，同比增长约77.9%。 研发投入大幅增加。前三季度研发投入2.63亿元，同比增长191.48%，占营收的14.47%；经营活动现金流净额同比下降54.69%。 资本市场已经提前为这个方向定价。10月25日，摩根大通将宇树评级从「低",
-    "publishedAt": "2026-10-28",
+    "id": "news-ai-1793246192000",
+    "title": " 我恨AI ",
+    "link": "https://www.huxiu.com/article/4901347.html?f=rss",
+    "summary": "本文来自微信公众号： GQLab ，作者：GQ，题图来自：AI生成 本文来自微信公众号： GQLab ，作者：GQ",
+    "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-anthropic-1793193706000",
-    "title": "Anthropic巨亏背后，藏着行业什么秘密？",
-    "link": "https://www.tmtpost.com/8183803.html",
-    "summary": "模型公司，估值寄生于基础设施供应商。",
-    "publishedAt": "2026-10-28",
+    "id": "news--1793245140000",
+    "title": "出海这笔账，补课补不平",
+    "link": "https://www.tmtpost.com/8185118.html",
+    "summary": "蔚小理出海失血，被普遍当成补课问题。",
+    "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-expands-ai-search-ads-globally-as-core-ad-growth-slow-1793224117000",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "id": "news-apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-n-1793227670000",
+    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+    "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
@@ -132,11 +133,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793204005000",
-    "title": " 星巴克是一面镜子 ",
-    "link": "https://www.huxiu.com/article/4901266.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：洪真真 星巴克最近这事儿闹得挺大，桌上突然多了一块小牌子，写着“营业空间，请消费入座”。 这块牌子出来的时候简直跟演电视剧一样。10月19号，网上就有人晒出还没拆封的物料，大家问店员，店员说20号开始执行；结果官方马上跳出来说消息不属实。到了20号呢，各路记者跑去门店实地探访，有的店员说只是倡议，有的说还要等上面通知，还有的说高峰期先让买了东西的人坐。 到了21号，官方又跟媒体确认了，说从22号开始全国正式施行消费入座，不过遇到顾客有什么合理的突发需求，也会妥善处理。 短短三天之内，从否认到含糊，再到最后的官宣确认，一家咖啡馆硬是把一件小事演成了三幕大戏。 星巴克彻底改变了自己“第三空间”的形象，得有曲折的剧情铺垫。往前看，还有几个回合。 今年夏天，湖州那家星巴克出了个名场面：三个女士从店门刚开一直坐到中午，一分钱没花不说，中午出门吃饭时居然还在桌上留了一杯番茄汁占座。等她们吃完回来，发现座位被一个真正买咖啡的顾客坐了，这三位倒好，反把人家给撵走了。那位顾客气不过直接报了警。这事儿一上热搜，网友们的评论区直接一边倒，全都喊着让星巴克管管这种只坐不买的人。 可是，可是，亲爱的们，也就是去年7月，广东那边的一些星巴克门店还推出了什么“星子自习室”，号称不用消费、不限时长，插座随便插，温水随便喝。 从当初的免费自习室到如今的请消费入座，也就一年多",
-    "publishedAt": "2026-10-28",
+    "id": "news--1793245832000",
+    "title": " 拉达克岳父母东游记：穿巴入蜀 ",
+    "link": "https://www.huxiu.com/article/4901333.html?f=rss",
+    "summary": "本文来自： 随水文存 ，题图来自：随水文存 书接前文《 拉达克岳父母东游记&middot;第二季（二）大观园记 》。 我知道很多读者期待山西的章节，但在抵达山西之前，还有大半个中国要转悠，请容我将这段旅程慢慢道来。 绍兴之后的下一站是九华山。实不相瞒，虽然我去过N多次安徽，九华山却一次都没去过。一来，正因为我长期研究佛教及其历史，信佛不信教，以法为师、以戒为师，不以音声色相见佛，因此十分反感烧香拜佛这种把寺院搞成&ldquo;许愿池&rdquo;的做法；二来，我正经研读过《地藏菩萨本愿经》（以下简称&ldquo;地藏经&rdquo;），一读之下大跌眼镜&mdash;&mdash;这哪儿是佛法？！压根儿就是反佛法！这本所谓的&ldquo;佛经&rdquo;将宗教对信徒进行人身控制的&ldquo;威逼利诱法&rdquo;演绎得淋漓尽致，通篇讲的都是&ldquo;不如此则受苦/如此则得福&rdquo;的因果法。你如果仔细研读《地藏经》的文本，会发现其PUA套路简直是教科书级的&mdash;&mdash; 首先，它绘声绘色地描摹了地狱场景，进行恐惧植入，让你心生畏惧；紧接着，它提供了一系列实操行为法则，将&ldquo;解脱法门&rdquo;绑定对地藏菩萨和僧团的供养崇拜&mdash;&mdash;&ldquo;若有善男子、善女人，或彩画形像，或土石胶漆，金银铜铁、作此菩萨，一瞻一礼者，是人",
+    "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -145,11 +146,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-2-24-532-1793191899000",
-    "title": "逸飞激光4亿“追光”：拟用2.24亿超募资金“买单”，标的增值率达532%｜并购一线",
-    "link": "https://www.tmtpost.com/8185098.html",
-    "summary": "标的评估增值率达 532.56%，锂电设备商布局新增长曲线。",
-    "publishedAt": "2026-10-28",
+    "id": "news-optimus-1793244720000",
+    "title": "Optimus的第一份工作是插枪：人形机器人的主战场，从来不在工厂",
+    "link": "https://www.tmtpost.com/8185429.html",
+    "summary": "人形机器人正在批量进工厂，市场叙事是“替代产线工人”。本文给出反共识判断：标准场景早被传送带与机械臂吃透，进厂只是练兵；真正的主战场，是非标服务业的“移动缝隙”。机器负责干活，人负责生活。",
+    "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -171,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-recorded-10-billion-in-revenue-from-openai-1793223270000",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "id": "news-microsoft-just-shared-azure-8217-s-actual-revenue-in-dollars-1793224712000",
+    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
@@ -211,11 +212,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793203762000",
-    "title": " 昂跑的姆巴佩危机 ",
-    "link": "https://www.huxiu.com/article/4901264.html?f=rss",
-    "summary": "本文来自微信公众号： 精练GymSquare ，作者：启立 在重金签约足球明星姆巴佩的一个月后，昂跑遭遇了公司创立以来的第一个重大危机。 近日，足球世界杯冠军球员姆巴佩，因重大涉华不当言论，引发中国市场风波。在短短两天内，姆巴佩合作的中国品牌东鹏饮料旗下补水啦，蒙牛乳业纷纷发布解约声明。小红书平台声明24年底合作到期，且小红书官方对姆巴佩个人账号禁言。 但当中牵涉最深的运动品牌昂跑，除了中国社交媒体删除姆巴佩相关宣传资料后，品牌总部暂未发布任何官方声明。 姆巴佩的所属球队皇家马德里足球俱乐部发布官方声明，就球员基利安·姆巴佩近期言论给中国人民带来的不适表示歉意，西甲联盟也发布致歉公告。10月27日晚，姆巴佩本人通过个人账号就相关言论致歉。 但即便如此，志在通过一笔重金签约进入足球领域的昂跑，破圈计划搁浅，并至少在亚太市场，遭遇新的重大危机。 来源：姆巴佩社交账号 昂跑在亚太市场的增长几乎是现象级的。在2025财季全年，亚太市场营收5.111亿瑞郎，同比增长96.4%，成为昂跑在亚太地区的爆发大年。即便2026财年二季度的财报中，亚太市场增长回落，但按固定汇率营收增长依然达到61.4%，当中中国市场是增长的核心引擎。 根据公开信息，昂跑中国目前门店近90家，预计今年年底达到100家，是全球直营门店增长最快的区域。在今年年初，昂跑深圳万象天地双层旗舰店，成为中国中国目前最大门店。而目前",
-    "publishedAt": "2026-10-28",
+    "id": "news-43-20-1793245619000",
+    "title": " “再来一瓶”兑不回来：43%的中奖率，20天的有效期 ",
+    "link": "https://www.huxiu.com/article/4901353.html?f=rss",
+    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 夏天傍晚，你在楼下小卖部买了瓶饮料。 拧开瓶盖，内侧印着四个字：壹元换购。 你很高兴。 接下来三天，你跑遍了小区周围四家店，三家说没权限，一家说这瓶不是他们家卖的。 第四天你翻出小程序看了一眼，兑奖期限二十天，还剩十四天。 这不是运气不好。 这是设计。 ⑴你已经中了，游戏才刚开始 拧开瓶盖那一刻的兴奋，是被精确设计过的。 放在十七年前，这件事要简单得多。 2009年，康师傅推出“再来一瓶”，中奖率高达20%，据澎湃新闻梳理，凭借这一套方案，康师傅当年的饮料销售额实现大幅攀升。 那会儿的中奖凭证，就是瓶盖内侧印的几个字。 中了就是中了，你把瓶子往柜台上一放，老板转身从冰柜里再拿一瓶给你，全程不超过十秒。 现在这条路上多了六个环节。 用微信扫瓶盖内的二维码。 进入品牌小程序。 授权登录、绑定手机号。 点击“即刻扫盖”参与抽奖。 查看中奖结果。 带着这只瓶盖去“指定兑换点”，加一元，换一瓶。 每一步都可能是一次告别。 放在2026年的夏天看，这套玩法早已是全行业的标配。 据21世纪经济报道走访，眼下东鹏特饮在一线市场推行的“一元乐享”，细则是这么写的：在任意参与活动的终端门店购买活动产品，拧开瓶盖，查看瓶盖内侧是否印有“壹圆乐享”字样及“壹瓶本品”说明，若有即表示中奖，可获得一元换购一瓶同款饮品的资格，随后请门店老板使用指定的商户小程序，扫",
+    "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -224,11 +225,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dsh-deepseek-v5-1793189981000",
-    "title": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
-    "link": "https://www.tmtpost.com/8184852.html",
-    "summary": "DSH测试文件出现三个deepseek-v5模型，或为占位符",
-    "publishedAt": "2026-10-28",
+    "id": "news-iphoneduo-1793244300000",
+    "title": "iPhoneDuo裂痕背后，撕开了供应链的“最后一毫米”",
+    "link": "https://www.tmtpost.com/8185533.html",
+    "summary": "折叠屏，苹果晚了整整五年；裂开的，却不只是那块屏。 从发售当天溢价一万余元，到不到三天跌破官方定价，iPhone Duo用一个“过山车式”的首周，把问题从个别质量投诉，抬升成了行业信号。 iFixit的拆解指向一个反直觉的结论：图纸是合格的，失效发生在装配端的“最后一毫米”。前魅族副总裁李楠一句“苹果和供应链生疏了”，点中了要害。",
+    "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -250,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-r-1793222730000",
-    "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "id": "news-google-expands-ai-search-ads-globally-as-core-ad-growth-slow-1793224117000",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
@@ -290,11 +291,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iphone-duo-1793203745000",
-    "title": " 裂屏风波中的iPhone Duo ",
-    "link": "https://www.huxiu.com/article/4901263.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 折叠屏手机商用七年后，最晚入局的主流手机厂商苹果，成为今年搅动全球市场份额的最大变量。 集邦咨询预估，2026年全球折叠屏手机出货量仅微增0.5%，而苹果首款折叠屏手机iPhone Duo上市首年出货量预计约500万部，占据全球约24.8%的市场份额，加速品牌市占率变动。 目前，这款正式发售不足一周的手机供需仍十分紧张。10月28日，财联社记者走访深圳益田假日广场的苹果线下门店了解到，店内仍无iPhone Duo现货，线上预订预计要到2027年1月底才能拿货。 （iPhone Duo图源：财联社记者摄） 一位核心果链企业人士则向财联社记者透露，由于iPhone Duo需求旺盛，客户加单超200万台，近期公司正在全力抓生产。 随着iPhone Duo正式进入市场，这款国行起售价15999元的折叠机也迎来了真机品控检验。近日，海内外社交平台上接连有首发用户反映，新机开合数次后出现铰链发紧、内屏沿折痕开裂或显示异常等问题。10月27日，苹果官方回复称，目前已留意到有极少数iPhone Duo的内屏出现问题，建议遇到显示屏问题的用户联系AppleCare处理换机事宜。 上述门店工作人员则告诉记者，该门店尚未遇到因内屏开裂前来退换的案例，也未收到产品召回通知，若设备确属非人为的自身质量问题，可协助办理退换。 无论故障是否偶发，iPhone Duo",
-    "publishedAt": "2026-10-28",
+    "id": "news--1793245574000",
+    "title": " 宁德时代失去了理想！ ",
+    "link": "https://www.huxiu.com/article/4901348.html?f=rss",
+    "summary": "连小米和宝马也开始自研电池了。",
+    "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -303,11 +304,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793189679000",
-    "title": "腾讯AI压力来到微信小微",
-    "link": "https://www.tmtpost.com/8184625.html",
-    "summary": "小微已然迈出一小步。",
-    "publishedAt": "2026-10-28",
+    "id": "news--1793244000000",
+    "title": "双汇急需另一根火腿肠",
+    "link": "https://www.tmtpost.com/8185351.html",
+    "summary": "双汇加速布局速冻业务，依托全产业链优势与冷链物流，寻求战略级增长。",
+    "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -329,17 +330,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hacker-stole-personnel-data-about-thousands-of-homeland-secu-1793217660000",
-    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-    "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "id": "news-microsoft-recorded-10-billion-in-revenue-from-openai-1793223270000",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
     "publishedAt": "2026-10-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
@@ -370,11 +370,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793203703000",
-    "title": " 国家算力枢纽，为什么是这八个地方？ ",
-    "link": "https://www.huxiu.com/article/4901262.html?f=rss",
-    "summary": "本文来自微信公众号： AD财经 ，作者：石友松 2026年10月28日，央视新闻报道了中国八大国家算力枢纽的最新建设进展。 北京周边的张家口，单向网络时延已经控制在2毫秒以内；内蒙古和林格尔，绿电占比超过85%；甘肃庆阳，正成为国内大模型训练和词元计算的重要基地。 从张家口到芜湖，从贵州贵安到宁夏中卫，一张横跨中国东西部的算力网络逐渐形成。 一个值得讨论的问题是，为什么偏偏是这些地方？ 如果按照科技产业实力排序，北京、上海、深圳、杭州显然更有优势。如果按照电力价格和土地成本排序，西部还有许多符合条件的城市。 实际上，中国算力枢纽的选址，涉及能源分布、产业结构、网络时延、气候条件，以及地方政府之间的竞争。 这项工程最初启动于2022年。国家发展改革委等部门确定了京津冀、长三角、粤港澳大湾区、成渝、内蒙古、贵州、甘肃、宁夏八大国家算力枢纽，并在其中规划了十大数据中心集群。 严格来说，八大枢纽是八个区域，具体落点包括张家口、芜湖、韶关、贵安、中卫、庆阳、和林格尔等地，以及长三角生态绿色一体化发展示范区、天府和重庆集群。 四年过去，生成式AI改变了中国算力市场。 原本围绕互联网、云计算和数据存储形成的区域布局，开始承接大模型训练、推理服务和人工智能应用需求。 这也使八大枢纽的选址逻辑，具有了新的商业意义。 一、算力为什么要离开北京、上海和深圳？ 理解算力枢纽的选址，首先要理解数据中心是一门",
-    "publishedAt": "2026-10-28",
+    "id": "news-ai-13800-1793245425000",
+    "title": " 这届中产父母的AI焦虑，标价13800元 ",
+    "link": "https://www.huxiu.com/article/4901352.html?f=rss",
+    "summary": "本文来自微信公众号： 显微故事 ，编辑：方园婧，作者：显微故事编辑部 这届中产父母的朋友圈里，都藏着同一种恐惧。 如今大家已经不只是怕孩子一次考不好了，而是担心他未来连被淘汰的资格都没有，是“别人家孩子已经用AI做了小程序，我儿子还在搭乐高”。 家长群里晒结营照、晒大厂logo、晒“少年CEO”工牌，你明明知道有点虚，手指却停在“报名链接”上点不下去也关不掉。 于是13800元、6天5晚的AI研学营，成了最省事的解药。 2026年研学旅游市场规模预计2422亿元，同比涨13.6%，其中AI主题研学订单同比增长370%。 课程的价格从2000元至5万元不等，但大多都有着相似的关键词，“走进大厂”、“名校硕博”、“科创思维”。可这些词背后到底是什么，很少有人真的明白。 本期显微故事采访到了报名家长和机构讲师，从他们的故事里我们看见，每一份焦虑都是有价格的，但这笔钱的背后，买到的到底是什么？ 以下是关于他们的真实故事： 文|杨佳、阿逃、sisi 编辑|方园婧 九月的最后一个周五，晚上九点多，姚敏躺在沙发上刷抖音时，忽然刷到个视频： 一个穿白衬衫的男人站在一栋楼的大堂里，义正言辞地说，AI时代，孩子最该学的不是知识，是怎么用AI思考。 “一看就烦”，视频没看完，姚敏就直接划走了。这种传播焦虑的卖课视频她看得太多，已经免疫了。姚敏是上海一家外企的市场高管，儿子江潼一，十岁，刚上四年级。 没想",
+    "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -384,11 +384,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1793188692000",
-    "title": "当DeepSeek成为一种亚文化",
-    "link": "https://www.tmtpost.com/8184563.html",
-    "summary": "流量虽好，别学微博",
-    "publishedAt": "2026-10-28",
+    "id": "news-2028-1793243640000",
+    "title": "七年变迁与终局推演：你刷手机的时间，2028年就到头了",
+    "link": "https://www.tmtpost.com/8185425.html",
+    "summary": "AI，是时间的吞噬者还是节省者？",
+    "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -982,4 +982,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-28T22:09:14.929Z';
+export const dataFetchedAt = '2026-10-29T04:12:20.139Z';
