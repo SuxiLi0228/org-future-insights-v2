@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-creating-ai-value-with-enterprise-context-1793219522000",
-    "title": "Creating AI value with enterprise context",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
-    "publishedAt": "2026-10-28",
+    "id": "news-we-urgently-need-to-monitor-ai-agents-actions-in-real-time-1793268672000",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+    "publishedAt": "2026-10-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-personal-agent-ling-3-1-flash-1019-1793160288000",
-    "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-    "link": "https://www.qbitai.com/2026/10/505928.html",
-    "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-    "publishedAt": "2026-10-28",
+    "id": "news-001-1793244470000",
+    "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+    "link": "https://www.qbitai.com/2026/10/506281.html",
+    "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+    "publishedAt": "2026-10-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793246192000",
-    "title": " 我恨AI ",
-    "link": "https://www.huxiu.com/article/4901347.html?f=rss",
-    "summary": "本文来自微信公众号： GQLab ，作者：GQ，题图来自：AI生成 本文来自微信公众号： GQLab ，作者：GQ",
+    "id": "news-ai-1793275200000",
+    "title": " AI眼镜，开始看你的眼色？ ",
+    "link": "https://www.huxiu.com/article/4901364.html?f=rss",
+    "summary": "千问 N1 Pro加入健康监测、眼动识别与虹膜核验，同时保留拍摄、听记和AI助手能力。当功能不断塞进镜框，AI眼镜是在接近下一代个人终端，还是仍在用堆功能寻找方向？",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
@@ -68,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793245140000",
-    "title": "出海这笔账，补课补不平",
-    "link": "https://www.tmtpost.com/8185118.html",
-    "summary": "蔚小理出海失血，被普遍当成补课问题。",
+    "id": "news-14-ipo-1793274885000",
+    "title": "礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察",
+    "link": "https://www.tmtpost.com/8177496.html",
+    "summary": "礼鼎半导体营收快速攀升，2023至2025年营收由11.83亿元增至28.29亿元，2026年一季度再录得9.24亿元，但企业长期深陷亏损泥潭，三年零三个月累计亏损达14.37亿元，直至2026年一季度才短暂实现0.5亿元利润，盈利稳定性仍待验证。",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -82,11 +82,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-dead-startups-fueling-ai-and-interspecies-commu-1793189400000",
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
-    "publishedAt": "2026-10-28",
+    "id": "news-our-climate-models-have-a-big-dangerous-blind-spot-1793268000000",
+    "title": "Our climate models have a big, dangerous blind spot",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;",
+    "publishedAt": "2026-10-29",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -120,11 +120,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793105871000",
-    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-    "link": "https://www.qbitai.com/2026/10/505865.html",
-    "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-    "publishedAt": "2026-10-27",
+    "id": "news--1793242305000",
+    "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+    "link": "https://www.qbitai.com/2026/10/506273.html",
+    "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+    "publishedAt": "2026-10-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,23 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793245832000",
-    "title": " 拉达克岳父母东游记：穿巴入蜀 ",
-    "link": "https://www.huxiu.com/article/4901333.html?f=rss",
-    "summary": "本文来自： 随水文存 ，题图来自：随水文存 书接前文《 拉达克岳父母东游记&middot;第二季（二）大观园记 》。 我知道很多读者期待山西的章节，但在抵达山西之前，还有大半个中国要转悠，请容我将这段旅程慢慢道来。 绍兴之后的下一站是九华山。实不相瞒，虽然我去过N多次安徽，九华山却一次都没去过。一来，正因为我长期研究佛教及其历史，信佛不信教，以法为师、以戒为师，不以音声色相见佛，因此十分反感烧香拜佛这种把寺院搞成&ldquo;许愿池&rdquo;的做法；二来，我正经研读过《地藏菩萨本愿经》（以下简称&ldquo;地藏经&rdquo;），一读之下大跌眼镜&mdash;&mdash;这哪儿是佛法？！压根儿就是反佛法！这本所谓的&ldquo;佛经&rdquo;将宗教对信徒进行人身控制的&ldquo;威逼利诱法&rdquo;演绎得淋漓尽致，通篇讲的都是&ldquo;不如此则受苦/如此则得福&rdquo;的因果法。你如果仔细研读《地藏经》的文本，会发现其PUA套路简直是教科书级的&mdash;&mdash; 首先，它绘声绘色地描摹了地狱场景，进行恐惧植入，让你心生畏惧；紧接着，它提供了一系列实操行为法则，将&ldquo;解脱法门&rdquo;绑定对地藏菩萨和僧团的供养崇拜&mdash;&mdash;&ldquo;若有善男子、善女人，或彩画形像，或土石胶漆，金银铜铁、作此菩萨，一瞻一礼者，是人",
+    "id": "news-8-fde-1793274620000",
+    "title": " 月薪最高8万元，FDE为何如此抢手？ ",
+    "link": "https://www.huxiu.com/article/4901496.html?f=rss",
+    "summary": "本文来自微信公众号： IT时报 ，作者：沈毅斌 “不想谈FDE了。”2026年云栖大会的媒体群访环节，阿里云智能集团副总裁霍嘉的一句感慨，折射出这个岗位的热度与争议。 短短一年间，FDE成为AI行业招聘市场上的热门岗位。美国《商业内幕》援引Indeed数据称，2026年4月，FDE相关招聘需求同比增长约729%。然而，在工程师越来越抢手的另一面，企业究竟该为这种服务付多少钱，仍然没有统一答案。 “FDE到底怎么定价，至今没有形成公认的定价体系。”一位国企AI专项负责人张华（化名）告诉《IT时报》记者。与传统软件外包不同，这种被称为前线部署工程师（Forward Deployed Engineer）的角色，不只是把软件交付给客户，还要走进业务现场，参与需求判断、开发、上线和效果验证。 AI越来越擅长写代码，为什么企业反而需要更多工程师到客户现场？一个更现实的问题是：这些高薪人才究竟创造了什么新价值？抑或仅仅是传统售前、实施和驻场工程师换了名称？ 月薪8万！高薪岗位涌现 FDE正炙手可热。 国内猎聘平台统计数据显示，相关岗位平均年薪达40.8万元。字节跳动、智谱华章等头部企业为FDE开出的月薪最高可达8万。 政策层面的变化，也在为这一模式提供新的推动力。2026年8月31日，工业和信息化部办公厅发布《关于开展人工智能应用服务商培育专项行动的通知》，明确提出鼓励服务商组建FDE团队，扎根",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-optimus-1793244720000",
-    "title": "Optimus的第一份工作是插枪：人形机器人的主战场，从来不在工厂",
-    "link": "https://www.tmtpost.com/8185429.html",
-    "summary": "人形机器人正在批量进工厂，市场叙事是“替代产线工人”。本文给出反共识判断：标准场景早被传送带与机械臂吃透，进厂只是练兵；真正的主战场，是非标服务业的“移动缝隙”。机器负责干活，人负责生活。",
+    "id": "news-0-66-532-1793274820000",
+    "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
+    "link": "https://www.tmtpost.com/8186722.html",
+    "summary": "具身智能是否能撑起第三曲线有待观察",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -160,10 +161,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pairing-industrial-ai-autonomy-and-human-control-1793188800000",
-    "title": "Pairing industrial AI autonomy and human control",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "summary": "",
+    "id": "news-creating-ai-value-with-enterprise-context-1793219522000",
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
     "publishedAt": "2026-10-28",
     "source": "MIT Technology Review",
     "tags": [
@@ -199,11 +200,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4d-1793097612000",
-    "title": "印奇把4D雷达也端到端了",
-    "link": "https://www.qbitai.com/2026/10/505852.html",
-    "summary": "毫米波雷达，AI算力10TOPS",
-    "publishedAt": "2026-10-27",
+    "id": "news-agent-350-jev-1793240308000",
+    "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+    "link": "https://www.qbitai.com/2026/10/505934.html",
+    "summary": "用扩散模型怎么做做Agent？",
+    "publishedAt": "2026-10-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -212,23 +213,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-43-20-1793245619000",
-    "title": " “再来一瓶”兑不回来：43%的中奖率，20天的有效期 ",
-    "link": "https://www.huxiu.com/article/4901353.html?f=rss",
-    "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 夏天傍晚，你在楼下小卖部买了瓶饮料。 拧开瓶盖，内侧印着四个字：壹元换购。 你很高兴。 接下来三天，你跑遍了小区周围四家店，三家说没权限，一家说这瓶不是他们家卖的。 第四天你翻出小程序看了一眼，兑奖期限二十天，还剩十四天。 这不是运气不好。 这是设计。 ⑴你已经中了，游戏才刚开始 拧开瓶盖那一刻的兴奋，是被精确设计过的。 放在十七年前，这件事要简单得多。 2009年，康师傅推出“再来一瓶”，中奖率高达20%，据澎湃新闻梳理，凭借这一套方案，康师傅当年的饮料销售额实现大幅攀升。 那会儿的中奖凭证，就是瓶盖内侧印的几个字。 中了就是中了，你把瓶子往柜台上一放，老板转身从冰柜里再拿一瓶给你，全程不超过十秒。 现在这条路上多了六个环节。 用微信扫瓶盖内的二维码。 进入品牌小程序。 授权登录、绑定手机号。 点击“即刻扫盖”参与抽奖。 查看中奖结果。 带着这只瓶盖去“指定兑换点”，加一元，换一瓶。 每一步都可能是一次告别。 放在2026年的夏天看，这套玩法早已是全行业的标配。 据21世纪经济报道走访，眼下东鹏特饮在一线市场推行的“一元乐享”，细则是这么写的：在任意参与活动的终端门店购买活动产品，拧开瓶盖，查看瓶盖内侧是否印有“壹圆乐享”字样及“壹瓶本品”说明，若有即表示中奖，可获得一元换购一瓶同款饮品的资格，随后请门店老板使用指定的商户小程序，扫",
+    "id": "news-token-1793274582000",
+    "title": " 双十一，要囤就囤Token？ ",
+    "link": "https://www.huxiu.com/article/4901495.html?f=rss",
+    "summary": "本文来自微信公众号： IT时报 ，作者：贾天荣 一个小时不到，近6万积分。 扣子用户王明（化名）最近尝试AI视频制作时，遇到一笔“意外支出”。此前他主要用扣子运行Agent辅助工作，开通个人高阶版会员后，每月有9.9万积分，在他看来足够日常使用，甚至经常用不完。但当他开始尝试视频生成，情况变了。“就生成了三四段十几秒的视频，大部分时间在等待，就花掉近6万积分。”他粗略估算，这相当于一小时花掉近60元，“我这才刚刚开始尝试，如果需要不断调整提示词、迭代优化视频，感觉几百元的会员费都不够。” 于是他开始精打细算：先完成日常任务，到了月底如果还有多余积分，才敢尝试新功能或视频制作。 用户购买AI时，明明是冲着完成任务的能力，最终结算时看到的却往往只有一串积分数字。任务执行了多少步骤、为什么需要反复尝试、积分究竟花在了哪里，用户未必能从账单中找到答案。 这样的疑问，恰好出现在AI服务走向大众消费市场的节点上。往年的双十一，消费者忙着囤米面粮油、家电和服饰；今年，购物车里开始出现AI模型额度、办公Agent会员和视频生成积分。天猫AI空间站汇集了千问AI、智谱、MiniMax、Qoder、千问办公等多个渠道，消费者不仅可以购买AI硬件，也能为AI服务充值、订阅。以千问AI为例，促销信息显示，Lite版本售价39元/月，每月提供11500 Credit，低于其60元的官网标价；Standard",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-iphoneduo-1793244300000",
-    "title": "iPhoneDuo裂痕背后，撕开了供应链的“最后一毫米”",
-    "link": "https://www.tmtpost.com/8185533.html",
-    "summary": "折叠屏，苹果晚了整整五年；裂开的，却不只是那块屏。 从发售当天溢价一万余元，到不到三天跌破官方定价，iPhone Duo用一个“过山车式”的首周，把问题从个别质量投诉，抬升成了行业信号。 iFixit的拆解指向一个反直觉的结论：图纸是合格的，失效发生在装配端的“最后一毫米”。前魅族副总裁李楠一句“苹果和供应链生疏了”，点中了要害。",
+    "id": "news-ipo-1793274699000",
+    "title": "玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察",
+    "link": "https://www.tmtpost.com/8177512.html",
+    "summary": "玉柴船电能港股IPO成功吗？",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -239,11 +241,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-anthropic-s-ipo-smarter-power-grids-and-exercis-1793103000000",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
-    "publishedAt": "2026-10-27",
+    "id": "news-the-download-dead-startups-fueling-ai-and-interspecies-commu-1793189400000",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
+    "publishedAt": "2026-10-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -278,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793094891000",
-    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-    "link": "https://www.qbitai.com/2026/10/505830.html",
-    "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-    "publishedAt": "2026-10-27",
+    "id": "news-24-i6-1793235566000",
+    "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+    "link": "https://www.qbitai.com/2026/10/506246.html",
+    "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
+    "publishedAt": "2026-10-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793245574000",
-    "title": " 宁德时代失去了理想！ ",
-    "link": "https://www.huxiu.com/article/4901348.html?f=rss",
-    "summary": "连小米和宝马也开始自研电池了。",
+    "id": "news-macbook-16-1793274333000",
+    "title": " 苹果彻底推翻乔布斯，首款触屏MacBook来了，16年祖训正式作废 ",
+    "link": "https://www.huxiu.com/article/4901493.html?f=rss",
+    "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《苹果彻底推翻乔布斯！首款触屏MacBook来了，16年祖训正式作废》 就在昨天，苹果在洛杉矶发布了MacBook Pro with PROLED XDR Display，这是苹果史上第一台触屏Mac。14英寸版起售2899美元，16英寸版3399美元，同配置比非触屏版贵大约400美元。 实际上，这一周苹果正在连续发布新品。周一是OLED屏的iPad mini，周二是M6芯片的iMac和入门款MacBook Pro，触屏MacBook Pro放在最后。看起来，苹果把它当作年度硬件的压轴之作。 为什么要做触屏？苹果的官方说法是，触控给专业用户提供了一种全新的方式来和内容互动。但这一操作看起来并非创新功能，苹果给出的使用场景也略显单薄。例如设计师可以直接用手摆弄3D原型，开发者可以在Mac上测试iOS应用的触控手感……美国媒体认为，这些都谈不上是笔记本触屏的革命性用途。 更重要的是，为了这个触屏，苹果再一次打破了祖训——众所周知，苹果一直抵制触屏Mac，这是一个延续了16年的传统。2010年，乔布斯就公开嘲讽触控，表面不该是竖着的，长时间抬手操作，胳膊会累得想掉下来。从那之后，苹果高管提到触屏Mac都是这样的表述。 实际上，新CEO特纳斯几年前也是这么说的，他是这一传统的最后一位守护者，如今，他成了第一个打破它的人。 背",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
@@ -304,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793244000000",
-    "title": "双汇急需另一根火腿肠",
-    "link": "https://www.tmtpost.com/8185351.html",
-    "summary": "双汇加速布局速冻业务，依托全产业链优势与冷链物流，寻求战略级增长。",
+    "id": "news-wowoker-1793272769000",
+    "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+    "link": "https://www.tmtpost.com/8186683.html",
+    "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型 AI 智能体工作手机 Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -318,11 +320,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-industrial-intelligence-the-next-growth-opportunity-for-manu-1793099958000",
-    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
-    "publishedAt": "2026-10-27",
+    "id": "news-pairing-industrial-ai-autonomy-and-human-control-1793188800000",
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "summary": "",
+    "publishedAt": "2026-10-28",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -357,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-physical-rsi-ai-1793090772000",
-    "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-    "link": "https://www.qbitai.com/2026/10/505799.html",
-    "summary": "无人在环进店实测啃下长尾场景",
-    "publishedAt": "2026-10-27",
+    "id": "news-gemini-4-carbon-opus-5-5-token-1793232238000",
+    "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+    "link": "https://www.qbitai.com/2026/10/506227.html",
+    "summary": "能连肝数日修Bug，免疫提示词注入",
+    "publishedAt": "2026-10-29",
     "source": "量子位",
     "tags": [
       "china",
@@ -370,24 +372,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-13800-1793245425000",
-    "title": " 这届中产父母的AI焦虑，标价13800元 ",
-    "link": "https://www.huxiu.com/article/4901352.html?f=rss",
-    "summary": "本文来自微信公众号： 显微故事 ，编辑：方园婧，作者：显微故事编辑部 这届中产父母的朋友圈里，都藏着同一种恐惧。 如今大家已经不只是怕孩子一次考不好了，而是担心他未来连被淘汰的资格都没有，是“别人家孩子已经用AI做了小程序，我儿子还在搭乐高”。 家长群里晒结营照、晒大厂logo、晒“少年CEO”工牌，你明明知道有点虚，手指却停在“报名链接”上点不下去也关不掉。 于是13800元、6天5晚的AI研学营，成了最省事的解药。 2026年研学旅游市场规模预计2422亿元，同比涨13.6%，其中AI主题研学订单同比增长370%。 课程的价格从2000元至5万元不等，但大多都有着相似的关键词，“走进大厂”、“名校硕博”、“科创思维”。可这些词背后到底是什么，很少有人真的明白。 本期显微故事采访到了报名家长和机构讲师，从他们的故事里我们看见，每一份焦虑都是有价格的，但这笔钱的背后，买到的到底是什么？ 以下是关于他们的真实故事： 文|杨佳、阿逃、sisi 编辑|方园婧 九月的最后一个周五，晚上九点多，姚敏躺在沙发上刷抖音时，忽然刷到个视频： 一个穿白衬衫的男人站在一栋楼的大堂里，义正言辞地说，AI时代，孩子最该学的不是知识，是怎么用AI思考。 “一看就烦”，视频没看完，姚敏就直接划走了。这种传播焦虑的卖课视频她看得太多，已经免疫了。姚敏是上海一家外企的市场高管，儿子江潼一，十岁，刚上四年级。 没想",
+    "id": "news--1793273959000",
+    "title": " 美团弯腰捡钢镚 ",
+    "link": "https://www.huxiu.com/article/4901492.html?f=rss",
+    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 美团正在成为零售市场扩张最积极的参与者之一。 今年以来，快乐猴社区硬折扣店加快多城布局，小象超市前置仓持续下沉、数千平方米的实体大店加速复制，美团还拟斥资7.17亿美元收购叮咚买菜中国业务。 从社区折扣店到前置仓、实体大店，美团正在加速搭建一套由自己直接经营商品的零售体系。 美团原本可以不这么做。 作为拥有庞大用户规模、商家网络和即时配送体系的互联网平台，美团本可以继续连接消费者与零售商，让后者承担商品采购、库存和门店经营的成本。 但2025年的外卖大战加剧了配送和流量竞争，也暴露出平台模式的另一重局限： 掌握交易入口，不等于掌握商品供给； 汇集大量订单，也不意味着能够直接获得采购和库存效率。 美团对自营零售的探索早于外卖大战，如今，这场竞争进一步加快了其向商品经营延伸的步伐。 从连接商家到亲自经营仓店，美团试图将互联网平台积累的规模优势转化为商品开发、采购和供应链效率，以争取更大的食品杂货市场。 但食品杂货始终是一门利润微薄的生意。美团主动承担更重的经营责任，究竟是在扩大自己的竞争优势，还是让原本擅长提高交易效率的互联网平台，背上更多传统零售的成本？ 一 争夺更多购物车 在美团日益庞大的零售版图中，小象超市是其经营方式变重最直观的体现之一。 与主要连接第三方商家的美团闪购不同，小象属自营即时零售业务、通过社区前置仓提供生鲜食品",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-2028-1793243640000",
-    "title": "七年变迁与终局推演：你刷手机的时间，2028年就到头了",
-    "link": "https://www.tmtpost.com/8185425.html",
-    "summary": "AI，是时间的吞噬者还是节省者？",
+    "id": "news-2026-edge-awards-ai-1793270962000",
+    "title": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
+    "link": "https://www.tmtpost.com/8185865.html",
+    "summary": "申报通道已开启，可通过海报下方「立即自荐」提交",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -982,4 +983,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-29T04:12:20.139Z';
+export const dataFetchedAt = '2026-10-29T12:13:25.026Z';
