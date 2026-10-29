@@ -2,6 +2,73 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-ai-agent-tracking-and-climate-feedback-loops-1793275800000",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;",
+    "publishedAt": "2026-10-29",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-elon-musk-is-8216-truly-a-genius-8217-says-vladimir-putin-1793310689000",
+    "title": "Elon Musk is &#8216;truly a genius,&#8217; says Vladimir Putin",
+    "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+    "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+    "publishedAt": "2026-10-29",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-companies-are-not-saving-money-with-ai-gartner-finds-1793296560000",
+    "title": "Companies are not saving money with AI, Gartner finds",
+    "link": "https://www.hrdive.com/news/companies-are-not-saving-money-with-ai/873110/",
+    "summary": "Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.",
+    "publishedAt": "2026-10-29",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news--1793290179000",
+    "title": " 爱马仕也终于卖不动了吗？ ",
+    "link": "https://www.huxiu.com/article/4901549.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 2020年初，在巴黎旅居，某天路过福宝大街的爱马仕，先生说“帮你买个包”。他自己闷头做攻略，搞懂了那套皮具预约的线上抽签系统——每天卡着点进页面，填护照、填意向店，一遍遍提交，就为了摇一个进店的资格。 结果连续小半个月，每次收到的都是预约失败的邮件。我告诉他算了吧，就算摇到，买包还要经历各种和店员拉扯的所谓配货套路，先生摇头叹气，说：“你们女人买个爱马仕，简直是在受虐搞谍战，花钱找气受。” 到了2023年春节，为了给一位长辈买新年礼物，我们还是在国金的爱马仕门外乖乖排了队。 到了今年，好几次路过几家爱马仕门店，发现每次都门可罗雀；而家附近至少已经有三家二手奢侈品实体店关门了。 当然，几家门店的命运无法代表一个行业，个人体感也不能完全说明行业数据。 但今年爱马仕10月22日公布的2026年前三季度营收公告，却扎扎实实引起奢侈品行业的震动。不由让人重新审视这家公司乃至整个奢侈品行业的增长。“爱马仕也终于卖不动了吗？”这样的疑问随之成了网络热词，奢侈品王者逆势增长的神话，真的要破灭了吗？ 确切地说，在同行纷纷转负的衬托下，爱马仕的这份三季报，不是增长故事的终结，只是超增长时代的落幕。 增长的数字与降温的体感 1.爱马仕还没有卖不动，但“永远增长”的神话，已经开始卖不动了。 财报显示集团收入为122.60亿欧元，按固定汇率同比增长5.5%，按",
+    "publishedAt": "2026-10-29",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-10-1793280937000",
+    "title": "单季亏近亿，悦康药业把10亿筹码推向核酸赛道丨看财报",
+    "link": "https://www.tmtpost.com/8186831.html",
+    "summary": "悦康药业当下的处境，正是国内一众传统药企向创新药转型过程中“青黄不接”的典型样本。",
+    "publishedAt": "2026-10-29",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-we-urgently-need-to-monitor-ai-agents-actions-in-real-time-1793268672000",
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -14,64 +81,52 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-upwind-raises-400m-after-walking-away-from-datadog-acquisiti-1793229300000",
-    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-    "publishedAt": "2026-10-28",
+    "id": "news-amazon-reported-booming-cloud-revenue-but-otherwise-missed-e-1793308847000",
+    "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+    "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+    "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+    "publishedAt": "2026-10-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
-    "id": "news-pwc-confirms-learning-records-breached-in-attack-on-vendor-s-1793214900000",
-    "title": "PwC confirms learning records breached in attack on vendor site",
-    "link": "https://www.hrdive.com/news/pwc-learning-records-breached-attack-vendor/873019/",
-    "summary": "The professional services firm was the subject of a claim by a known ransomware actor.",
-    "publishedAt": "2026-10-28",
+    "id": "news-gap-inc-launches-ai-hiring-tool-in-time-for-the-holidays-1793296500000",
+    "title": "Gap Inc. launches AI hiring tool in time for the holidays",
+    "link": "https://www.hrdive.com/news/gap-ai-hiring-tool-bridgette/873179/",
+    "summary": "The retailer expects around 200,000 seasonal employment applications. Its new AI platform aims to reduce the administrative tasks associated with hiring.&nbsp;",
+    "publishedAt": "2026-10-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-001-1793244470000",
-    "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-    "link": "https://www.qbitai.com/2026/10/506281.html",
-    "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
-    "publishedAt": "2026-10-29",
-    "source": "量子位",
-    "tags": [
-      "china",
       "ai",
-      "technology"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-ai-1793275200000",
-    "title": " AI眼镜，开始看你的眼色？ ",
-    "link": "https://www.huxiu.com/article/4901364.html?f=rss",
-    "summary": "千问 N1 Pro加入健康监测、眼动识别与虹膜核验，同时保留拍摄、听记和AI助手能力。当功能不断塞进镜框，AI眼镜是在接近下一代个人终端，还是仍在用堆功能寻找方向？",
+    "id": "news-esg-1793289607000",
+    "title": " ESG不装了 ",
+    "link": "https://www.huxiu.com/article/4900341.html?f=rss",
+    "summary": "出品｜虎嗅ESG组 作者｜陈玉立 头图｜视觉中国 本文是#ESG进步观察#系列第177篇文章 本次观察关键词：ESG 过去几年，ESG最热的时候，一家企业证明自己重视可持续发展路径相对清楚：发报告、提评级、设定碳中和目标，再讲一套绿色与长期主义的故事。 现在，这套逻辑正在失效。 一边是信息披露和供应链合规要求不断变细，碳排放、劳工权益等数据持续向企业内部和上游穿透；另一边，企业经营承压，职能部门的预算和人力都要经受更严格的审视。目标可以提，但管理层会继续追问：能实现吗？需要多少钱？和业务有什么关系？ 对企业的ESG负责人来说，以前收数据、写报告、提评级，就能完成大半工作。现在，他们要沉入数据中心、研发、采购和供应链，解释一项投入为什么值得做，还要处理夹在业务、监管和资本市场之间的问题。 虎嗅ESG组对话百度、蔚来和某光伏巨头三家企业ESG负责人发现，他们面临的问题不尽相同，但都感受到一个变化：ESG没有退场，只是企业越来越不愿意为一套空泛的ESG叙事付钱了。 从&ldquo;公司门面&rdquo;到业务绕不开的人 公司最着急什么，ESG就去解决什么 2021年进入百度时，严祯（化名）主要负责环境议题，工作重心是碳中和。此后，她负责的范围越铺越开：ESG报告、资本市场评级、投资者回应、监管沟通、社会责任项目和利益相关方沟通，陆续被装进同一个工作篮子。 其中一个明显的变化是，ESG业务",
     "publishedAt": "2026-10-29",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-14-ipo-1793274885000",
-    "title": "礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察",
-    "link": "https://www.tmtpost.com/8177496.html",
-    "summary": "礼鼎半导体营收快速攀升，2023至2025年营收由11.83亿元增至28.29亿元，2026年一季度再录得9.24亿元，但企业长期深陷亏损泥潭，三年零三个月累计亏损达14.37亿元，直至2026年一季度才短暂实现0.5亿元利润，盈利稳定性仍待验证。",
+    "id": "news-gemini-4-carbon-ai-1793277973000",
+    "title": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
+    "link": "https://www.tmtpost.com/8186405.html",
+    "summary": "多家万亿市值的科技巨头仍在不断追加资金砝码，这场尚不明朗的AI竞速仍在继续。",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -94,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-n-1793227670000",
-    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-    "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-    "publishedAt": "2026-10-28",
+    "id": "news-gm-reaches-220m-settlement-over-selling-drivers-8217-private-1793307664000",
+    "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
+    "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+    "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+    "publishedAt": "2026-10-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -107,50 +162,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rising-wages-still-fall-short-of-higher-cost-of-living-analy-1793214480000",
-    "title": "Rising wages still fall short of higher cost of living, analysis shows",
-    "link": "https://www.hrdive.com/news/rising-wages-still-fall-short-of-higher-cost-of-living/873025/",
-    "summary": "Housing, childcare and healthcare were the top drivers of cost increases, the research found.",
-    "publishedAt": "2026-10-28",
+    "id": "news-verizon-franklin-electric-announce-new-hr-leaders-in-october-1793296500000",
+    "title": "Verizon, Franklin Electric announce new HR leaders in October",
+    "link": "https://www.hrdive.com/news/verizon-franklin-electric-announce-new-hr-leaders-in-october/873086/",
+    "summary": "Companies in high-speed networking, live entertainment and other industries also brought on new leaders.",
+    "publishedAt": "2026-10-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1793242305000",
-    "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-    "link": "https://www.qbitai.com/2026/10/506273.html",
-    "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-    "publishedAt": "2026-10-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-8-fde-1793274620000",
-    "title": " 月薪最高8万元，FDE为何如此抢手？ ",
-    "link": "https://www.huxiu.com/article/4901496.html?f=rss",
-    "summary": "本文来自微信公众号： IT时报 ，作者：沈毅斌 “不想谈FDE了。”2026年云栖大会的媒体群访环节，阿里云智能集团副总裁霍嘉的一句感慨，折射出这个岗位的热度与争议。 短短一年间，FDE成为AI行业招聘市场上的热门岗位。美国《商业内幕》援引Indeed数据称，2026年4月，FDE相关招聘需求同比增长约729%。然而，在工程师越来越抢手的另一面，企业究竟该为这种服务付多少钱，仍然没有统一答案。 “FDE到底怎么定价，至今没有形成公认的定价体系。”一位国企AI专项负责人张华（化名）告诉《IT时报》记者。与传统软件外包不同，这种被称为前线部署工程师（Forward Deployed Engineer）的角色，不只是把软件交付给客户，还要走进业务现场，参与需求判断、开发、上线和效果验证。 AI越来越擅长写代码，为什么企业反而需要更多工程师到客户现场？一个更现实的问题是：这些高薪人才究竟创造了什么新价值？抑或仅仅是传统售前、实施和驻场工程师换了名称？ 月薪8万！高薪岗位涌现 FDE正炙手可热。 国内猎聘平台统计数据显示，相关岗位平均年薪达40.8万元。字节跳动、智谱华章等头部企业为FDE开出的月薪最高可达8万。 政策层面的变化，也在为这一模式提供新的推动力。2026年8月31日，工业和信息化部办公厅发布《关于开展人工智能应用服务商培育专项行动的通知》，明确提出鼓励服务商组建FDE团队，扎根",
-    "publishedAt": "2026-10-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
+      "workforce",
       "ai"
     ]
   },
   {
-    "id": "news-0-66-532-1793274820000",
-    "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
-    "link": "https://www.tmtpost.com/8186722.html",
-    "summary": "具身智能是否能撑起第三曲线有待观察",
+    "id": "news-14-ipo-1793274885000",
+    "title": "礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察",
+    "link": "https://www.tmtpost.com/8177496.html",
+    "summary": "礼鼎半导体营收快速攀升，2023至2025年营收由11.83亿元增至28.29亿元，2026年一季度再录得9.24亿元，但企业长期深陷亏损泥潭，三年零三个月累计亏损达14.37亿元，直至2026年一季度才短暂实现0.5亿元利润，盈利稳定性仍待验证。",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -173,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-just-shared-azure-8217-s-actual-revenue-in-dollars-1793224712000",
-    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-    "publishedAt": "2026-10-28",
+    "id": "news-fan-fiction-site-archive-of-our-own-could-be-offline-for-up--1793306636000",
+    "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+    "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+    "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+    "publishedAt": "2026-10-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -186,51 +215,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-too-much-disruption-can-affect-workplace-culture-1793214480000",
-    "title": "Too much disruption can affect workplace culture",
-    "link": "https://www.hrdive.com/news/too-much-disruption-can-affect-workplace-culture/872950/",
-    "summary": "Companies need to treat upheaval &ldquo;as both a cultural and operational issue,&rdquo; a new report recommended.",
-    "publishedAt": "2026-10-28",
+    "id": "news-about-1-in-3-workers-say-they-re-faking-their-skills-1793296500000",
+    "title": "About 1 in 3 workers say they’re faking their skills",
+    "link": "https://www.hrdive.com/news/lying-on-resume-lying-on-job/873208/",
+    "summary": "Lying is becoming normalized across work settings, studies show.",
+    "publishedAt": "2026-10-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
-    "id": "news-agent-350-jev-1793240308000",
-    "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-    "link": "https://www.qbitai.com/2026/10/505934.html",
-    "summary": "用扩散模型怎么做做Agent？",
-    "publishedAt": "2026-10-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-token-1793274582000",
-    "title": " 双十一，要囤就囤Token？ ",
-    "link": "https://www.huxiu.com/article/4901495.html?f=rss",
-    "summary": "本文来自微信公众号： IT时报 ，作者：贾天荣 一个小时不到，近6万积分。 扣子用户王明（化名）最近尝试AI视频制作时，遇到一笔“意外支出”。此前他主要用扣子运行Agent辅助工作，开通个人高阶版会员后，每月有9.9万积分，在他看来足够日常使用，甚至经常用不完。但当他开始尝试视频生成，情况变了。“就生成了三四段十几秒的视频，大部分时间在等待，就花掉近6万积分。”他粗略估算，这相当于一小时花掉近60元，“我这才刚刚开始尝试，如果需要不断调整提示词、迭代优化视频，感觉几百元的会员费都不够。” 于是他开始精打细算：先完成日常任务，到了月底如果还有多余积分，才敢尝试新功能或视频制作。 用户购买AI时，明明是冲着完成任务的能力，最终结算时看到的却往往只有一串积分数字。任务执行了多少步骤、为什么需要反复尝试、积分究竟花在了哪里，用户未必能从账单中找到答案。 这样的疑问，恰好出现在AI服务走向大众消费市场的节点上。往年的双十一，消费者忙着囤米面粮油、家电和服饰；今年，购物车里开始出现AI模型额度、办公Agent会员和视频生成积分。天猫AI空间站汇集了千问AI、智谱、MiniMax、Qoder、千问办公等多个渠道，消费者不仅可以购买AI硬件，也能为AI服务充值、订阅。以千问AI为例，促销信息显示，Lite版本售价39元/月，每月提供11500 Credit，低于其60元的官网标价；Standard",
-    "publishedAt": "2026-10-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ipo-1793274699000",
-    "title": "玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察",
-    "link": "https://www.tmtpost.com/8177512.html",
-    "summary": "玉柴船电能港股IPO成功吗？",
+    "id": "news-0-66-532-1793274820000",
+    "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
+    "link": "https://www.tmtpost.com/8186722.html",
+    "summary": "具身智能是否能撑起第三曲线有待观察",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -253,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-expands-ai-search-ads-globally-as-core-ad-growth-slow-1793224117000",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "publishedAt": "2026-10-28",
+    "id": "news-as-search-traffic-dries-up-reddit-announces-it-8217-s-shifti-1793304511000",
+    "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "publishedAt": "2026-10-29",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -266,11 +267,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-at-work-employees-employers-may-not-be-on-the-same-page-1793214480000",
-    "title": "AI at work: Employees, employers may not be on the same page",
-    "link": "https://www.hrdive.com/news/ai-at-work-employees-employers-may-not-be-on-the-same-page/873055/",
-    "summary": "A study from Dayforce highlights workers&rsquo; fears about how AI use might make their work life worse.",
-    "publishedAt": "2026-10-28",
+    "id": "news-how-hr-can-help-workers-ask-the-right-questions-during-open--1793286960000",
+    "title": "How HR can help workers ask the right questions during open enrollment",
+    "link": "https://www.hrdive.com/news/how-hr-can-help-workers-ask-the-right-questions-during-open-enrollment/873158/",
+    "summary": "Workers may be afraid to ask about their choices due to fear of discrimination or anxiety, experts said.&nbsp;",
+    "publishedAt": "2026-10-29",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -280,115 +281,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-24-i6-1793235566000",
-    "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-    "link": "https://www.qbitai.com/2026/10/506246.html",
-    "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
-    "publishedAt": "2026-10-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-macbook-16-1793274333000",
-    "title": " 苹果彻底推翻乔布斯，首款触屏MacBook来了，16年祖训正式作废 ",
-    "link": "https://www.huxiu.com/article/4901493.html?f=rss",
-    "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《苹果彻底推翻乔布斯！首款触屏MacBook来了，16年祖训正式作废》 就在昨天，苹果在洛杉矶发布了MacBook Pro with PROLED XDR Display，这是苹果史上第一台触屏Mac。14英寸版起售2899美元，16英寸版3399美元，同配置比非触屏版贵大约400美元。 实际上，这一周苹果正在连续发布新品。周一是OLED屏的iPad mini，周二是M6芯片的iMac和入门款MacBook Pro，触屏MacBook Pro放在最后。看起来，苹果把它当作年度硬件的压轴之作。 为什么要做触屏？苹果的官方说法是，触控给专业用户提供了一种全新的方式来和内容互动。但这一操作看起来并非创新功能，苹果给出的使用场景也略显单薄。例如设计师可以直接用手摆弄3D原型，开发者可以在Mac上测试iOS应用的触控手感……美国媒体认为，这些都谈不上是笔记本触屏的革命性用途。 更重要的是，为了这个触屏，苹果再一次打破了祖训——众所周知，苹果一直抵制触屏Mac，这是一个延续了16年的传统。2010年，乔布斯就公开嘲讽触控，表面不该是竖着的，长时间抬手操作，胳膊会累得想掉下来。从那之后，苹果高管提到触屏Mac都是这样的表述。 实际上，新CEO特纳斯几年前也是这么说的，他是这一传统的最后一位守护者，如今，他成了第一个打破它的人。 背",
-    "publishedAt": "2026-10-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-wowoker-1793272769000",
-    "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
-    "link": "https://www.tmtpost.com/8186683.html",
-    "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型 AI 智能体工作手机 Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
-    "publishedAt": "2026-10-29",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-pairing-industrial-ai-autonomy-and-human-control-1793188800000",
-    "title": "Pairing industrial AI autonomy and human control",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "summary": "",
-    "publishedAt": "2026-10-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-microsoft-recorded-10-billion-in-revenue-from-openai-1793223270000",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "publishedAt": "2026-10-28",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-4-trends-explaining-why-recruiters-are-struggling-right-now-1793201820000",
-    "title": "4 trends explaining why recruiters are struggling right now",
-    "link": "https://www.hrdive.com/news/4-trends-explaining-why-recruiters-are-struggling-right-now/873036/",
-    "summary": "&ldquo;You may be getting applications from people who have never heard of your job or company,&rdquo; one senior director analyst said.",
-    "publishedAt": "2026-10-28",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gemini-4-carbon-opus-5-5-token-1793232238000",
-    "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-    "link": "https://www.qbitai.com/2026/10/506227.html",
-    "summary": "能连肝数日修Bug，免疫提示词注入",
-    "publishedAt": "2026-10-29",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793273959000",
-    "title": " 美团弯腰捡钢镚 ",
-    "link": "https://www.huxiu.com/article/4901492.html?f=rss",
-    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 美团正在成为零售市场扩张最积极的参与者之一。 今年以来，快乐猴社区硬折扣店加快多城布局，小象超市前置仓持续下沉、数千平方米的实体大店加速复制，美团还拟斥资7.17亿美元收购叮咚买菜中国业务。 从社区折扣店到前置仓、实体大店，美团正在加速搭建一套由自己直接经营商品的零售体系。 美团原本可以不这么做。 作为拥有庞大用户规模、商家网络和即时配送体系的互联网平台，美团本可以继续连接消费者与零售商，让后者承担商品采购、库存和门店经营的成本。 但2025年的外卖大战加剧了配送和流量竞争，也暴露出平台模式的另一重局限： 掌握交易入口，不等于掌握商品供给； 汇集大量订单，也不意味着能够直接获得采购和库存效率。 美团对自营零售的探索早于外卖大战，如今，这场竞争进一步加快了其向商品经营延伸的步伐。 从连接商家到亲自经营仓店，美团试图将互联网平台积累的规模优势转化为商品开发、采购和供应链效率，以争取更大的食品杂货市场。 但食品杂货始终是一门利润微薄的生意。美团主动承担更重的经营责任，究竟是在扩大自己的竞争优势，还是让原本擅长提高交易效率的互联网平台，背上更多传统零售的成本？ 一 争夺更多购物车 在美团日益庞大的零售版图中，小象超市是其经营方式变重最直观的体现之一。 与主要连接第三方商家的美团闪购不同，小象属自营即时零售业务、通过社区前置仓提供生鲜食品",
-    "publishedAt": "2026-10-29",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-2026-edge-awards-ai-1793270962000",
-    "title": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
-    "link": "https://www.tmtpost.com/8185865.html",
-    "summary": "申报通道已开启，可通过海报下方「立即自荐」提交",
+    "id": "news-ipo-1793274699000",
+    "title": "玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察",
+    "link": "https://www.tmtpost.com/8177512.html",
+    "summary": "玉柴船电能港股IPO成功吗？",
     "publishedAt": "2026-10-29",
     "source": "钛媒体",
     "tags": [
@@ -983,4 +879,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-29T12:13:25.026Z';
+export const dataFetchedAt = '2026-10-29T22:23:34.971Z';
