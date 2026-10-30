@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-10-31-auto",
+    "date": "2026-10-31",
+    "session": "auto",
+    "title": "2026-10-31 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-10-31-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+      },
+      {
+        "id": "sig-2026-10-31-auto-2",
+        "emoji": "⚠️",
+        "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, report says",
+        "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+        "detail": "来源: TechCrunch。The new report says the AI lab will likely qualify for a high junk rating.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+      },
+      {
+        "id": "sig-2026-10-31-auto-3",
+        "emoji": "⚠️",
+        "title": "Week in review: ‘Karen’ comment doesn’t show discrimination, judge says",
+        "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+        "detail": "来源: HR Dive。We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/karen-comment-doesnt-show-discrimination/873355/"
+      },
+      {
+        "id": "sig-2026-10-31-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Elucidating the Design Space of LM Data Attribution...",
+        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma",
+        "detail": "作者: Steven Yu, Sheng-Yu Wang, Kimia Hamidieh。Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distra",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.40655v1"
+      },
+      {
+        "id": "sig-2026-10-31-auto-5",
+        "emoji": "💼",
+        "title": "Askable 正在招募 Software Engineer AI Coding Tasks",
+        "summary": "岗位类型：业务+AI 复合岗。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
+        "detail": "技能要求: Python, Agent。We're looking for experienced software engineers to build AI coding tasks from a codebase they know well US$1,000 per task, and you can do as many tasks as you want You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Askable"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Askable",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-10-31-1",
+        "priority": "medium",
+        "action": "关注「The Download: GLP-1s and eating disorder」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-10-31-2",
+        "priority": "medium",
+        "action": "关注「Anthropic expected to receive high &#821」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-10-31-3",
+        "priority": "medium",
+        "action": "关注「Week in review: ‘Karen’ comment doesn’t 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-10-31-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Elucidating the Design Space of LM 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-10-31-5",
+        "priority": "medium",
+        "action": "关注「Askable 正在招募 Software Engineer AI Coding」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Askable"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 58,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-10-31 生成，聚合了 28 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-10-31 00:00 - 2026-10-31 23:59"
+  },
+  {
     "id": "report-2026-10-30-auto",
     "date": "2026-10-30",
     "session": "auto",

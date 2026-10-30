@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-eating-disorders-are-on-the-rise-glp-1s-could-make-things-wo-1793350800000",
-    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
+    "id": "news-the-download-glp-1s-and-eating-disorders-self-aware-cities-a-1793359800000",
+    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
     "publishedAt": "2026-10-30",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-u-k-1793343660000",
-    "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-    "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-    "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+    "id": "news-anthropic-expected-to-receive-high-8216-junk-8217-rating-fro-1793397123000",
+    "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -27,18 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-companies-are-not-saving-money-with-ai-gartner-finds-1793296560000",
-    "title": "Companies are not saving money with AI, Gartner finds",
-    "link": "https://www.hrdive.com/news/companies-are-not-saving-money-with-ai/873110/",
-    "summary": "Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.",
-    "publishedAt": "2026-10-29",
+    "id": "news-week-in-review-karen-comment-doesn-t-show-discrimination-jud-1793383260000",
+    "title": "Week in review: ‘Karen’ comment doesn’t show discrimination, judge says",
+    "link": "https://www.hrdive.com/news/karen-comment-doesnt-show-discrimination/873355/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+    "publishedAt": "2026-10-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -55,17 +53,94 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-personal-agent-1793361253000",
-    "title": " 如何做出好的Personal Agent产品？（一） ",
-    "link": "https://www.huxiu.com/article/4901765.html?f=rss",
-    "summary": "这是《如何做出好的 Personal Agent 产品》的第一部分。&nbsp;这一篇从产品、团队和技术的角度，讲 personal agent 是什么、好的 personal agent 有哪八条原则、怎么把它做出来。第二部分讲商业模式和战略：平台税会不会被打下来，软件和硬件谁会成为入口，大公司和创业公司各自怎么赢。 本文来自微信公众号： 尚晋的思考 ，作者：尚晋，原文标题：《如何做出好的 Personal Agent产品（一）：产品、团队和技术》，题图来自：AI生成 上个月在旧金山，我还租来的车之前，给 Instinct 发了一句：&ldquo;SFO 还车怎么导航？&rdquo; 它的回复很直接：我租的是哪家，几点之前要还，进机场前最后一个顺路的加油站在哪，还完了去哪个航站楼。我从没告诉过它我今天要还车。两周前我和它聊过一次租车，它记住了；日历里有我的航班，它也看到了。 一句&ldquo;SFO 还车怎么导航&rdquo;，它把租车订单、航班、加油站都用上了，还告诉我还完车怎么去我的航站楼 那一刻我意识到，这个东西和我用过的所有 AI 产品都不一样。它更像一个一直在我身边、知道我在干什么的人。 从 8 月 19 日开始，我给它发了一千多条消息。这篇文章想把这件事从头讲清楚：一个好的 personal agent 应该遵循哪八条原则，决定它上限的是什么，以及组织、产品、技术上具",
+    "id": "news--1793377395000",
+    "title": " 日本股市，迎重大调整 ",
+    "link": "https://www.huxiu.com/article/4901854.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：史正丞 本周五开始，全球市值规模第三大的日本股市，开始新一轮推动市场价值重估的努力。 具体来说，日本股市重要基准——东证指数（TOPIX）今日开始实施第二阶段改革下的首次成分股定期调整。将近4成的成分股进入分阶段降权程序，若这些股票继续“躺平”，未来两年里将被逐步清理出指数。 发生了什么：683只股票开始降权 这次的调整，首要目标是把长期蛰伏在指数中，却没什么成交量的成分股清退。 东证指数此次引入了更明确的流动性筛选门槛。按照新规，现有成分股要留在指数中，首先须达到至少0.14（14%）的年度成交金额周转率。随后，将符合这一条件的股票按自由流通市值从大到小排列，依次纳入，直到累计市值达到这批股票（即周转率达14%的股票）总市值的97%。排在这条线之外的小市值股票，则不满足保留标准。 对于未来新纳入的股票，这两个指标必须达到0.2和96%。 根据交易所公布的名单，进入降权名单的，也不乏知名品牌及工业企业，包括糖果品牌不二家、东京电视台控股、生产途乐等车型的日产车体，以及三菱制钢。半导体设备商SAMCO、TAZMO和电脑周边品牌巴法络，也在名单之中。 新规则也打破了市场板块对新增成分股的限制，将Standard和Growth市场（相当于中国的中小企业板和创业板）也纳入定期选股范围。 此次新纳入的35只股票中，包括日本麦当劳控股、《龙珠》《海贼王》等",
     "publishedAt": "2026-10-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793373498000",
+    "title": "代谢创新药进入“中国时间”：从产品出海到能力出海的行业跃迁丨行业风向标",
+    "link": "https://www.tmtpost.com/8187920.html",
+    "summary": "中国药企在全球代谢赛道的位置正在重排，下一步较量的重心，是研发、临床、供应链、商业化全链条能力的出海。",
+    "publishedAt": "2026-10-30",
+    "source": "钛媒体",
+    "tags": [
+      "china",
       "technology",
+      "business",
       "ai"
+    ]
+  },
+  {
+    "id": "news-eating-disorders-are-on-the-rise-glp-1s-could-make-things-wo-1793350800000",
+    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
+    "publishedAt": "2026-10-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-applebee-8217-s-exposed-customers-8217-personal-data-after-l-1793396933000",
+    "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
+    "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+    "publishedAt": "2026-10-30",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dol-finalizes-sweeping-pharmacy-benefit-manager-disclosure-r-1793383260000",
+    "title": "DOL finalizes sweeping pharmacy benefit manager disclosure rule",
+    "link": "https://www.hrdive.com/news/pbm-transparency-final-rule-labor-department-employer/873318/",
+    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients.",
+    "publishedAt": "2026-10-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-rsi-1-3b-oxr-ocr-1793339567000",
+    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+    "link": "https://www.qbitai.com/2026/10/506686.html",
+    "summary": "解析一切",
+    "publishedAt": "2026-10-30",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-38-1793376643000",
+    "title": " 富民路38号 ",
+    "link": "https://www.huxiu.com/article/4901852.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 金色镜子 跟朋友约在长乐路富民路附近喝咖啡。随意闲逛，被一面爱心状金色镜子吸引，崭新、美、亮晃晃，掏出手机照的时候，才发现是个店招。 旁边一扇铁门，锁着。从门缝往里看，院子里桌椅横七竖八，有的翻倒，有的摞在一起，遮阳伞还张着，耷拉着两个角。落叶铺满了地，堆在椅子腿边上，也堆进一只空花盆里。 门牌是富民路38号。好吧，看见这门牌的瞬间，我脑子里的这篇文章就注定已完成。 当即查，这栋房子登在上海市第三次全国文物普查的不可移动文物名录里，有一长串编号，名字叫顾嘉棠住宅。顾嘉棠，杜月笙手下四大金刚里排第一的那一位。 我随手发了视频号，说富民路38号，繁华萧条一瞬间，没转没点赞，也很多人看。 古拔路 上海，富民路很短，六百多米，北头接延安中路，南头过了长乐路，就散进东湖路、新乐路那一片。1913年法租界筑这条路，用一位法国海军中将的名字命名，Courbet，租界写作“古拔”。 这个人，史书上写作“孤拔”。1884年中法战争，他带着法国舰队开进福州马尾，一个下午，福建水师几乎全军覆没。 一条上海马路挂着他的名字挂了三十年，弄堂里的人在这条路上买菜、散步、谈恋爱，几乎没人知道这历史。 1943年租界收回，马路统统换成中国地名，这一条挑了云南昆明底下的县名，叫“富民”。 上世纪三十年代，这条路上住进来的人家很杂。1931年，盐业、金城、中南、大陆四家",
+    "publishedAt": "2026-10-30",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
     ]
   },
   {
@@ -95,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-you-don-8217-t-need-to-believe-in-a-god-to-get-a-religious-e-1793323248000",
-    "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "id": "news-last-minute-halloween-costumes-for-tech-nerds-1793395619000",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -108,25 +183,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gap-inc-launches-ai-hiring-tool-in-time-for-the-holidays-1793296500000",
-    "title": "Gap Inc. launches AI hiring tool in time for the holidays",
-    "link": "https://www.hrdive.com/news/gap-ai-hiring-tool-bridgette/873179/",
-    "summary": "The retailer expects around 200,000 seasonal employment applications. Its new AI platform aims to reduce the administrative tasks associated with hiring.&nbsp;",
-    "publishedAt": "2026-10-29",
+    "id": "news-workers-are-habit-hugging-despite-new-training-survey-finds-1793383260000",
+    "title": "Workers are ‘habit hugging’ despite new training, survey finds",
+    "link": "https://www.hrdive.com/news/workers-are-habit-hugging-despite-new-training/873252/",
+    "summary": "The term describes employees who don&rsquo;t consistently use new work methods they&rsquo;ve been trained on, representing a learning and development challenge, TalentLMS said.",
+    "publishedAt": "2026-10-30",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-rsi-1-3b-oxr-ocr-1793339567000",
-    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-    "link": "https://www.qbitai.com/2026/10/506686.html",
-    "summary": "解析一切",
+    "id": "news-claude-fable-opus-1793339444000",
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "link": "https://www.qbitai.com/2026/10/506674.html",
+    "summary": "",
     "publishedAt": "2026-10-30",
     "source": "量子位",
     "tags": [
@@ -136,16 +210,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-2-1793361062000",
-    "title": " 被欧盟“3+2”针对，中国跨境电商重新算了笔帐 ",
-    "link": "https://www.huxiu.com/article/4901791.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰 11月1日起，欧盟将对从境外直接寄给消费者的电商商品征收“联盟处理费”，每个申报品项收费2欧元。 它不是按包裹收费，也不看货值：10件同类T恤算一个品项，收2欧元；T恤和帽子属于两个品项，收4欧元。 与7月起实施、仅适用于150欧元以下商品的3欧元临时关税不同，这项处理费覆盖所有货值的境外直邮B2C商品，并将长期实施。 缴费主体原则上是平台、卖家或报关方，但成本仍可能通过售价传导。欧洲消费者组织已经提醒，应防止新增费用在结算环节被不透明地转嫁给消费者。 对低价、多品类包裹而言，固定费用可能迅速抬高交易成本。一件5欧元的T恤从中国直邮欧洲，仅3欧元关税和2欧元处理费就已达5欧元，尚未计入增值税和物流费用。如果包裹中包含多个品类，成本还会进一步增加。 变化的不只是价格，更是通道 法新社称，此举意在针对中国。欧盟公布的数据显示，2025年进入欧盟的低值电商商品接近60亿件，其中相当部分来自中国。 小包直邮支撑了“低价、长尾、快速上新”的商业模式，也给海关监管、产品安全查验和本地零售竞争带来新压力。 因此，欧盟此轮调整既包含增加海关处理资源的考虑，也包含维护公平竞争和产品安全的政策目标。由于中国商品在跨境小包中占比较高，其影响自然更为集中。 新规真正改变的是不同物流通道的成本关系。 商品从欧盟境外直接寄给消费者，需要承担上述费用；如果先以一般",
+    "id": "news-deepseek-cyber-1793376068000",
+    "title": " DeepSeek Cyber，以及中国开源模型的安全，事情正在起变化 ",
+    "link": "https://www.huxiu.com/article/4901849.html?f=rss",
+    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 市场上流传着DeepSeek网络安全模型Cyber的消息。多名技术开发者在DeepSeek官网前端JS中发现Cyber相关入口，社区也流出了灰度状态的申请页面。但DeepSeek尚未正式公告。 AI智能体正在变得越来越“危险”。过去半年，美国政府与科技企业已经开始磕磕绊绊地应对这一问题；相比之下，中国开源模型阵营迟迟没有明显动作，也让社区感到担忧。随着模型能力继续增强，这一天迟早会到来。只是，中国厂商会以什么形式应对？这又会给整个AI产业带来什么影响？ 事情开始起变化。最近，中国第三方AI安全评估机构方寸跃迁（Fangcun AI）于发布报告，题为《DeepSeek V4.1 Flash-1017的失控与有害操纵风险评估》，认为DeepSeek新模型的安全性相较V4系列明显提升，部分指标已经接近甚至持平顶尖闭源模型，但在长任务执行、服从关停安排和避免操纵用户等方面，仍然存在值得注意的风险。 中国开始出现以国际前沿AI安全框架为参照、独立评估国内开放权重模型系统性风险的专业机制。 上周，Kimi K3.1 Pro发布时，进一步披露了针对网络攻防能力的解决方案。这一动作，也让DeepSeek Cyber的传言更加可信了几分。 Kimi团队从K3.1 Pro中移除了中期训练与强化学习阶段的网络安全相关数据和任务，同时保留通用编程能力。其内",
     "publishedAt": "2026-10-30",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -175,56 +250,44 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-andy-jassy-says-prime-video-is-on-track-to-earn-8216-tens-of-1793317496000",
-    "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
-    "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-    "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-    "publishedAt": "2026-10-29",
+    "id": "news-cracks-are-emerging-in-the-ai-spending-boom-1793395060000",
+    "title": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "ecommerce"
+      "organization"
     ]
   },
   {
-    "id": "news-verizon-franklin-electric-announce-new-hr-leaders-in-october-1793296500000",
-    "title": "Verizon, Franklin Electric announce new HR leaders in October",
-    "link": "https://www.hrdive.com/news/verizon-franklin-electric-announce-new-hr-leaders-in-october/873086/",
-    "summary": "Companies in high-speed networking, live entertainment and other industries also brought on new leaders.",
+    "id": "news-companies-are-not-saving-money-with-ai-gartner-finds-1793296560000",
+    "title": "Companies are not saving money with AI, Gartner finds",
+    "link": "https://www.hrdive.com/news/companies-are-not-saving-money-with-ai/873110/",
+    "summary": "Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.",
     "publishedAt": "2026-10-29",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-claude-fable-opus-1793339444000",
-    "title": "Claude新模型曝光：新Fable，新Opus…",
-    "link": "https://www.qbitai.com/2026/10/506674.html",
-    "summary": "",
+    "id": "news--1793332084000",
+    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+    "link": "https://www.qbitai.com/2026/10/506662.html",
+    "summary": "让机器人成为彼此的“老师”",
     "publishedAt": "2026-10-30",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793360114000",
-    "title": " 野人先生冰激凌获首轮融资 ",
-    "link": "https://www.huxiu.com/article/4901784.html?f=rss",
-    "summary": "本文来自微信公众号： 零售商业财经 ，作者：RBF 1800家Gelato门店背后，野人的第一笔钱：黑蚁、供应链与东方Gelato的出海叙事。 10月30日，意式东方Gelato品牌野人先生宣布完成成立十五年来的首轮融资，双方未披露融资金额与估值，融资之后品牌保持独立运营，继续坚持线下连锁路线，资金投向供应链建设、品牌运营、门店拓展与海外门店模型的初步探索。 这是野人先生2011年创立以来第一次引入外部资本，此前十五年依靠自有资金滚动发展。截至官宣当日，品牌国内在营门店超过1800家，按官宣时点的总量口径，在现制冰淇淋连锁阵营中仅次于DQ位居第二。黑蚁资本长期专注消费赛道，过往持仓包括泡泡玛特、喜茶、老铺黄金、鸣鸣很忙集团等头部品牌。 在新消费投资整体降温之际，这笔战略融资把千店规模的现制冰淇淋连锁重新推回资本视野。读懂这笔融资，需要看清三个问题：生意模型靠什么运转，资本为何此时回头，Gelato品类还能长出多大的专门店品牌。 千店模型 收入拆解 理解野人先生的估值，先要拆开它的生意结构。 品牌前身是2011年崔渐为在北京五道口开出的软冰淇淋小店，2015年以野人牧坊之名正式推出Gelato，此后十余年坚持直营，门店长期停留在百店上下。 2023年底品牌开放加盟，2024年4月更名为野人先生，经营重心转向连锁扩张。据窄门餐眼数据显示，2024年新开约243家门店，2025年约906",
-    "publishedAt": "2026-10-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -255,17 +318,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-1793317342000",
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-    "publishedAt": "2026-10-29",
+    "id": "news-ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-go-1793390113000",
+    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+    "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -282,86 +344,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793332084000",
-    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-    "link": "https://www.qbitai.com/2026/10/506662.html",
-    "summary": "让机器人成为彼此的“老师”",
-    "publishedAt": "2026-10-30",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-ai-1793359898000",
-    "title": " 当AI辅助政府决策，谁来为AI的判断背书？ ",
-    "link": "https://www.huxiu.com/article/4901785.html?f=rss",
-    "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 如果AI给出的政策建议被政府采纳，谁来判断其可靠性，又由谁为决策负责？阿联酋内阁9月启用由32个AI顾问组成的系统，辅助政策分析、影响评估和决策执行。这也引出一个值得关注的问题：政府该在多大程度上采信AI？ 哈佛大学肯尼迪政府学院贝尔弗科学与国际事务研究中心的文章指出，政府不能只记录使用了哪个AI系统，还应明确AI的分析支撑了哪些政策主张、经过了何种核查，以及由谁授权采信。文章结合国际实践与案例，提出建立AI采信记录，将问责落实到具体判断之中。当AI开始影响政策依据，政府需要守住的不只是技术安全，更是对公共决策的制度性控制。 原文标题：Governments Need to Know When They are Relying on AI 原文来源：哈佛大学肯尼迪政府学院贝尔弗科学与国际事务研究中心（Belfer Center for Science and International Affairs,Harvard Kennedy School） 编译解读：数字经济发展评论 一、阿联酋内阁的32个AI顾问 9月2日，阿拉伯联合酋长国（UAE）内阁启动“内阁AI顾问”，这是一套由32个专门AI顾问组成的系统，职能是辅助内阁工作。据官方公告，该系统将分析政策与立法，评估它们在财政、经济、社会和环境方面的影响。它还",
-    "publishedAt": "2026-10-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-labubu-1793358027000",
-    "title": "一条由LABUBU拽动的业绩曲线：泡泡玛特复购率两连降后，三季度收益直接“腰斩”",
-    "link": "https://www.tmtpost.com/8187764.html",
-    "summary": "LABUBU“退烧”，泡泡玛特Q3业绩大变脸",
-    "publishedAt": "2026-10-30",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-creating-ai-value-with-enterprise-context-1793219522000",
-    "title": "Creating AI value with enterprise context",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
-    "publishedAt": "2026-10-28",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-binance-pauses-withdrawals-as-hackers-suspected-of-stealing--1793312843000",
-    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-    "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-    "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-    "publishedAt": "2026-10-29",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-how-hr-can-help-workers-ask-the-right-questions-during-open--1793286960000",
-    "title": "How HR can help workers ask the right questions during open enrollment",
-    "link": "https://www.hrdive.com/news/how-hr-can-help-workers-ask-the-right-questions-during-open-enrollment/873158/",
-    "summary": "Workers may be afraid to ask about their choices due to fear of discrimination or anxiety, experts said.&nbsp;",
-    "publishedAt": "2026-10-29",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-meet2027-1793331621000",
     "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
     "link": "https://www.qbitai.com/2026/10/506609.html",
@@ -375,24 +357,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793359760000",
-    "title": " AI综艺，新机会里的老生意 ",
-    "link": "https://www.huxiu.com/article/4901773.html?f=rss",
-    "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 AI综艺正在短视频平台上做广告生意。 这类节目大多几分钟一集，人物和场景由AI生成，比赛过程和故事情节由编导设计。内容涵盖万人挑战、虚拟恋爱和偶像选秀等，沿用了观众熟悉的综艺形式。 引起骨朵注意的是，这些节目在吸引观众的同时，也在通过品牌广告获得收入。“揣了个橘”接到过游戏《新倩女幽魂》的投放，“阿良饭否”与游戏《弹壳战机》有过合作，“十万个挑战”的广告客户则涵盖汽车、家电等品类。AI综艺的商业合作，已经出现在不同账号和多类广告主之间。 承接这些合作的节目，制作方式也与真人综艺不同。一场上千人参加的比赛，不必真的召集选手、搭建场地。制作团队可以按照脚本生成所需画面，再通过剪辑完成节目。 过去需要协调嘉宾、场地和摄制组的创意，如今有了小团队也能尝试的做法。 省下现场拍摄的费用，让AI综艺的广告生意看起来更有吸引力。但制作方便了，钱是否也更好赚了？ 围绕这个问题，骨朵采访了剪辑师小马（化名），并结合公开的广告报价和制作案例，梳理AI综艺的定价依据、容易被忽略的制作开支，以及从接到广告到持续经营，团队还要面对哪些问题。 AI综艺里广告的定价逻辑 20秒广告报价8万元，60秒以上约15万元，这是AI综艺《十万个挑战》主创花生在公开采访中介绍的价格。 这些数字是账号对外提供的报价，不能直接用来推算实际收入。要理解这份报价，先要分清制作",
-    "publishedAt": "2026-10-30",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-deepseek-6155-1793357817000",
-    "title": "DeepSeek千亿融资曝光：估值达6155亿元",
-    "link": "https://www.tmtpost.com/8187857.html",
-    "summary": "DeepSeek的融资故事讲到这里，真正的考验也才刚刚开始。",
+    "id": "news-labubu-1793358027000",
+    "title": "一条由LABUBU拽动的业绩曲线：泡泡玛特复购率两连降后，三季度收益直接“腰斩”",
+    "link": "https://www.tmtpost.com/8187764.html",
+    "summary": "LABUBU“退烧”，泡泡玛特Q3业绩大变脸",
     "publishedAt": "2026-10-30",
     "source": "钛媒体",
     "tags": [
@@ -966,4 +934,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-30T12:03:50.876Z';
+export const dataFetchedAt = '2026-10-30T21:54:28.895Z';
