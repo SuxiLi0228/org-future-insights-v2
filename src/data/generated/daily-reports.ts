@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-01-auto",
+    "date": "2026-11-01",
+    "session": "auto",
+    "title": "2026-11-01 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-01-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+      },
+      {
+        "id": "sig-2026-11-01-auto-2",
+        "emoji": "⚠️",
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "detail": "来源: TechCrunch。OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+      },
+      {
+        "id": "sig-2026-11-01-auto-3",
+        "emoji": "⚠️",
+        "title": "Week in review: ‘Karen’ comment doesn’t show discrimination, judge says",
+        "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+        "detail": "来源: HR Dive。We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/karen-comment-doesnt-show-discrimination/873355/"
+      },
+      {
+        "id": "sig-2026-11-01-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Elucidating the Design Space of LM Data Attribution...",
+        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma",
+        "detail": "作者: Steven Yu, Sheng-Yu Wang, Kimia Hamidieh。Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distra",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.40655v1"
+      },
+      {
+        "id": "sig-2026-11-01-auto-5",
+        "emoji": "💼",
+        "title": "Destination Careers 正在招募 Online Client Support &amp; Travel Booking We Will Train You",
+        "summary": "岗位类型：业务+AI 复合岗。We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support",
+        "detail": "技能要求: 未标注。We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support This remote role is ideal for someone who enjoys assisting others, communicates professionally, and thrives in a flexible work",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Destination Careers"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Destination Careers",
+        "link": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-01-1",
+        "priority": "medium",
+        "action": "关注「The Download: GLP-1s and eating disorder」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-01-2",
+        "priority": "medium",
+        "action": "关注「OpenAI reportedly lowers funding target 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-01-3",
+        "priority": "medium",
+        "action": "关注「Week in review: ‘Karen’ comment doesn’t 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-01-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Elucidating the Design Space of LM 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-01-5",
+        "priority": "medium",
+        "action": "关注「Destination Careers 正在招募 Online Client S」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Destination Careers"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-01 生成，聚合了 28 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-11-01 00:00 - 2026-11-01 23:59"
+  },
+  {
     "id": "report-2026-10-31-auto",
     "date": "2026-10-31",
     "session": "auto",

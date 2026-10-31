@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pile-ins-payouts-and-pacing-pressure-the-investors-behind-th-1793420210000",
-    "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-    "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-    "summary": "The money behind the money is thrilled, mostly.",
+    "id": "news-openai-reportedly-lowers-funding-target-for-new-round-1793463175000",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793444754000",
-    "title": " “顶流”坠落，万亿团餐还能稳住吗？ ",
-    "link": "https://www.huxiu.com/article/4901978.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 昔日行业巨头，今日沦为被执行人 10月19日，公开信息显示，团餐巨头麦金地又一次成为被执行人。内参君查询执行信息发现，2025年至今麦金地已经累计有超过80条被执行信息，成为失信被执行人。 这数字不禁让人唏嘘，曾经的团餐“顶流”为何落到如此这般境地？ 提到麦金地，餐饮界几乎无人不晓它当年的辉煌：业务覆盖国20多个省份，手握数千个食堂项目，服务对象涵盖世界500强企业、政府机关、高校及中小学等。巅峰时期曾获得了高盛、中金等知名机构的投资，是资本宠爱的“宠儿”，一度进入上市辅导阶段。 然而，狂奔的背面是企业管理与商业模式隐患的爆发。长期的垫款积累下巨额供应链欠款，盲目扩张又留下大量设备欠款……最终，麦金地也被屡次被列为失信被执行人。 从“顶流”到被执行人，麦金地的“陨落”是团餐市场的缩影——从盛极一时的辉煌到行业“薄利”的落寞。 团餐式微，内忧外患掉入薄利时代 团餐，顾名思义，就是面向团队提供餐饮服务的形式。早期以“大食堂”形式出现，现在演变成由专业企业统一运营管理，员工/学生使用饭卡、移动支付就餐的形式。 这一模式在至今经历了两个阶段：资本助力下高速狂飙的时期，以及外部环境、企业管理、商业模式等问题集中暴露的行业洗牌时期。 &gt;&gt;&gt;资本助力，团餐的狂飙时代 2019年前后，资本市场开始关注团餐这一模式，大量的资金涌入",
+    "id": "news--1793462971000",
+    "title": " 红叶经济为什么这样红？：县域文旅的新逻辑 ",
+    "link": "https://www.huxiu.com/article/4902020.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：刘泽瑜，原文标题：《红叶经济为什么这样红？——县域文旅的新逻辑》 9月28日西安到安康的西康高铁开通，秦岭深处的商洛市柞水县首次接入全国高铁网。从西安东站到柞水的牛背梁站，最快仅需16分钟，出站后驱车10分钟左右就能抵达秦楚古道景区山脚。 国庆假期至今，古道登山步道上始终人流不息，早班高铁票时常售罄。人们专程赶来循着千年石阶徒步登山，漫山渐变的红叶与壮阔的秦岭秋景，是所有人奔赴的核心目的地。受持续走高的客流影响，10月24日起秦楚古道景区已正式启动线上预约机制，引导游客错峰进山。 一条古道的走红并没有依赖大手笔的营销投放，更多来自普通游客的自发分享。徒步爱好者随手拍下沿途红叶、古道遗迹与山巅视野发在短视频平台，一条日常徒步记录就可能引来上万次转发，源源不断吸引着周边城市的年轻人奔赴山野，也倒逼当地同步完善停车、接驳、步道疏导等配套，接住这股突如其来的热度。 秦楚古道的变化，是当下全国红叶经济的一个鲜活缩影。 在长途游降温、城市周边微度假成为消费主流的背景下，山野秋色正在成为县域文旅最普适的切口。不止秦岭，从大巴山到三峡，从太行到皖南，每到深秋，红叶都会带动一波文旅热潮。只是今天的红叶经济，早已不再是办个节庆、卖张门票的简单模式。从拼资源到拼运营，从靠天吃饭到主动造局，从单次打卡到长期留客，一片红叶的生长路径，恰恰照见了中国县域文旅走向成熟的",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-ai-1793437770000",
-    "title": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道",
-    "link": "https://www.tmtpost.com/8188399.html",
-    "summary": "从小米出来后，王腾看上了睡着的那8小时生意。",
+    "id": "news-a-ai-1793452546000",
+    "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+    "link": "https://www.tmtpost.com/8188863.html",
+    "summary": "新旧动能加速切换。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -92,16 +92,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "id": "news-from-restaurant-guides-to-payments-here-s-how-tiktok-is-buil-1793461317000",
+    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+    "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+    "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -131,23 +132,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-20-50-1793444075000",
-    "title": " 职业差评灰产调查：团队暗语交流，20元刷差评商家需50元删掉 ",
-    "link": "https://www.huxiu.com/article/4901962.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓、王思思，题图来自：视觉中国 几条差评即可摧毁一家小店。 2026年10月，四川宜宾炸串摊主胡女士因顾客在多平台发布&ldquo;避雷&rdquo;差评后轻生。同月，车评人韩路自称其烤串新店试营业前，各平台已冒出多条&ldquo;已经吃过了&rdquo;的差评。 对依靠线上平台的小店而言，评分与流量高度绑定，几条差评可能直接冲击经营，成为&ldquo;致命&rdquo;伤害。而差评的来源不只是普通消费者：除职业差评人外，还有&ldquo;白嫖党&rdquo;，甚至有人专门以差评进行敲诈勒索。 界面新闻调查发现，围绕差评与好评，有一条明码标价的灰色产业链：链条上游是有需求的委托方，中游是中介和服务商，下游是&ldquo;刷手&rdquo; （刷单者） 和职业差评人，并最终通过平台评价体系显现出来。链条上的每一环，都可能存在违法风险。 因差评被迫闭店 天津的李越和爱人经营着一家手作店，饮品&ldquo;现熬现煮&rdquo;。几年下来，他们凭借口碑攒下一批老客户。2026年8月，附近几家公司搬迁后，李越将店铺挪至市区。 新店生意红火，&ldquo;12天就在大众点评干到了所属区域的第一。&rdquo;李越告诉界面新闻，多的时候，他一天卖出大几十单，&ldquo;日营业额小2000元。&rdquo;其店铺在美团和大众点评的分数高达4.9。 但",
+    "id": "news--1793462668000",
+    "title": " 请停止赞美技术的“无人化” ",
+    "link": "https://www.huxiu.com/article/4902018.html?f=rss",
+    "summary": "本文来自微信公众号： 刀客Doc ，作者：刀客Doc 这几天看老干妈的风波，我想起一年前《纽约时报》关于亚马逊的一篇报道。 报道援引的内部文件显示，亚马逊曾研究通过自动化提高运营效率，文件还专门讨论了技术应该怎样对外表达。 比如，尽量少用“自动化”和“AI”，更多使用“先进技术”；把“机器人”称为“协作机器人”。亚马逊后来回应，这些只是个别团队的讨论。 我对这段措辞上的斟酌很感兴趣。 技术发展到今天，企业越来越关心机器能替人完成多少工作。工厂里的机械臂、仓库里的自动分拣系统、街头的自动配送车，确实让很多过去繁重、重复甚至危险的劳动变得轻松。 这当然是技术进步。 但不知道从什么时候开始，我们越来越习惯用“无人”来形容这种进步。 无人驾驶、无人工厂、无人仓库、无人配送。 这些词朗朗上口，放在产品发布会的大屏幕上，也足够醒目。一个“无人”，仿佛就能说明技术有多先进、效率有多高。 可仔细想想，这个说法多少有些奇怪。 一家工厂的技术水平，为什么要通过里面还有多少人来衡量？一套物流系统的先进程度，为什么要用人是否退出现场来证明？ 机器替人干苦活，是工业文明最重要的成果之一。技术值得骄傲的地方，是让劳动更安全、让生产更有效率，让人有机会从重复和危险的工作中解放出来，去做更有价值的事情。 前段时间，清华大学教授柳冠中提出一个问题：如果没有人类和人类需求，AI又有什么意义？ 我觉得这句话说得特别好。",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-00-1793423871000",
-    "title": "“开源才是护城河”：制造老炮把品胜的AI交给了00后",
-    "link": "https://www.tmtpost.com/8188454.html",
-    "summary": "对赵国成而言，AI最终要落到生产力上；而考验丛泽龙团队的，将是怎么把一次次具体的创新变成可以复用、持续更新的能力。",
+    "id": "news-24-1793449754000",
+    "title": "联合健康今年涨幅已达24%，为何股价仍有望继续上涨",
+    "link": "https://www.tmtpost.com/8188840.html",
+    "summary": "这家健康保险公司的第三季度业绩进一步巩固了该股的上涨势头。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -170,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-salesforce-s-m-038-a-spree-continues-with-a-reported-375m-de-1793402483000",
-    "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
-    "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-    "publishedAt": "2026-10-30",
+    "id": "news-i-took-two-iphones-on-vacation-the-duo-won-me-over-1793455200000",
+    "title": "I took two iPhones on vacation. The Duo won me over.",
+    "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+    "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+    "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -210,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-1793443396000",
-    "title": " 1元出售内地业务，快狗打车怎么走到了这一步？ ",
-    "link": "https://www.huxiu.com/article/4901973.html?f=rss",
-    "summary": "本文来自微信公众号： 物流沙龙 ，作者：小周伯通 1元，这是快狗打车拟出售中国内地业务的交易价格。 2017年，58速运与香港同城货运公司GoGoVan完成了合并，次年正式更名为快狗打车。2022年，完成港交所上市，号称同城货运第一股，上市首日市值超百亿港元。 四年多后，这家公司为何要以1元出售内地业务？是自身的经营困境原因，还是同城货运平台共同面临的难题？ 01 1元出售内地业务，快狗打车怎么了？ 10月16日，快狗打车发布公告，宣布拟以人民币1元出售持有中国内地业务的附属公司GGEx Holdings Limited全部股权。买方为Crestpoint Investment Limited，该公司由吴子峰全资持有。 从交易安排来看，这意味着快狗打车上市公司将不再持有这部分内地业务。不过，股权出售不等于平台关停。针对市场关注，快狗打车随后表示，内地业务仍将继续运营。 当然，对内地平台而言，货主和司机能否保持稳定，经营策略是否会发生变化，以及收入和亏损能否逐步改善，都需要后续经营数据来回答。 需要注意的是，1元是此次公告披露的股权交易对价，不能简单理解为内地业务的整体价值只有1元。 但结合收入、亏损等数据来看，持续经营压力显然是这笔交易的重要原因。 2024年，相关业务收入约1.66亿元，亏损约1.52亿元；2025年，收入降至约1.32亿元，亏损约7967万元。到了2026年上半",
+    "id": "news--1793462485000",
+    "title": " 内娱进入“大中剧”时代 ",
+    "link": "https://www.huxiu.com/article/4902019.html?f=rss",
+    "summary": "本文来自微信公众号： AKA桃叨叨 ，作者：AKA桃叨叨 内娱加速进入中短剧集时代，已初见模型。 严浩翔、欧阳娣娣主演的《仿生迷踪》挤爆预约通道。 金瀚《繁华落尽》第一季分账破3300万，第二季刚杀青。 叶祖新的新剧《华灯起》也因好状态吸引不少路人。 长信传媒出品，张慧雯主演的《鉴定》定档11月1日优酷播出。 高叶、韩东君主演的《蒸蒸日上》，腾讯爱奇艺双平台分账破3000万。 单集15到25分钟，制作对标长剧、靠分账跑出千万票房、明星和头部团队纷纷下场，中短剧集从所谓的“短剧升级版”或是“长剧平替”，长成了各大平台越发重视的独立赛道。 第九届初心榜青年视听展，平台、影视公司都在热议中短剧集赛道，这波从内容形态到商业模式的升级，现状如何？未来还能如何加码？叨叨这就结合各大平台最新出炉的片单聊一聊！ 分账五千万，中剧战绩可查 遥想2025年，头部中短剧集以“大制作”之姿面市。 先说传统概念的中剧，《朱雀堂》作为TOP1，在腾讯爱奇艺拿到4500万票房。今年8月上线、张一山主演的《重案六组：消失的警号》，仅用2个月就在爱奇艺突破5000万票房。 今年前三个季度，上星的中剧有75部，公开分账的票房累计分账5.7亿元，其中20部票房是破千万。优爱腾芒B各有打法，千万票房梯队已成型，中剧的商业能力得到证实。 腾讯入局早、打法较稳：不押注单一题材，全品类覆盖，同时把“系列化开发”做好。 女频把爆",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -223,10 +225,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793418813000",
-    "title": "大厂减市场预算，加AI预算",
-    "link": "https://www.tmtpost.com/8188331.html",
-    "summary": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
+    "id": "news-ipo-1793449352000",
+    "title": "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收",
+    "link": "https://www.tmtpost.com/8188178.html",
+    "summary": "对大客户议价能力弱，致业务毛利率下滑。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -249,11 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ollie-a-privacy-focused-ai-assistant-is-shutting-down-1793400973000",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "publishedAt": "2026-10-30",
+    "id": "news-pile-ins-payouts-and-pacing-pressure-the-investors-behind-th-1793420210000",
+    "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+    "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+    "summary": "The money behind the money is thrilled, mostly.",
+    "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -290,23 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793443393000",
-    "title": " 解码快递行业竞争格局：顺丰、极兔、中通、圆通…… ",
-    "link": "https://www.huxiu.com/article/4901972.html?f=rss",
-    "summary": "本文来自微信公众号： 物流沙龙 ，作者：罗戈研究 2025年至2026年上半年，中国供应链物流行业在核心业务领域迎来深度变革，竞争逻辑从“规模扩张”加速转向“价值创造”与“专业深耕”。快递与即时配送在\"反内卷\"政策推动下由价格竞争转向价值竞争，全年快递业务量逼近2000亿件大关。 本文选自罗戈研究出品的《2025—2026中国物流行业年报》的【第7章快递与即时配送】的【7.1快递】章节，从市场规模、快递反内卷、市场竞争格局等方面，解读快递行业的核心运营模式。 以下是报告的部分内容： 01 市场规模与增速 2025年全国快递业务量完成1989.5亿件，同比增长13.6%，日均业务量接近5.5亿件，单日最高业务量达7.77亿件。 2025年邮政行业业务收入（不包括邮政储蓄银行直接营业收入）完成1.8万亿元，同比增长6.1%，其中快递业务收入完成1.49万亿元，同比增长6.5%，快递业务收入占行业总收入的比重为83.2%，较上年提高0.3个百分点。 快递收入增速低于业务量增速约7个百分点，反映出行业“增量不增利”的结构性矛盾——业务量增长主要来自价格敏感型的电商小件，单件收入持续下降稀释了增量贡献。 从月度走势看，2025年快递业务量呈现“前高后低”的特征。上半年受益于电商促销常态化和直播电商拉动，月度增速维持在15%以上；进入下半年，受“反内卷”政策推高价格、低价件需求收缩以及去年同期",
-    "publishedAt": "2026-10-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793418808000",
-    "title": "初代选秀，一地鸡毛",
-    "link": "https://www.tmtpost.com/8187453.html",
-    "summary": "当“选秀往事”成为新生意。",
+    "id": "news--1793449281000",
+    "title": "蔚来的“三个聚焦”：为规模幻觉买单之后",
+    "link": "https://www.tmtpost.com/8187393.html",
+    "summary": "蔚来战略退守聚焦高端，收缩求存待破局。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -329,11 +318,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-intel-8217-s-stock-crashes-knocking-12b-from-government-8217-1793397274000",
-    "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "publishedAt": "2026-10-30",
+    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -368,23 +357,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793441830000",
-    "title": " 当“做空机构”变成舆情敲诈 ",
-    "link": "https://www.huxiu.com/article/4901967.html?f=rss",
-    "summary": "本文来自微信公众号： 匹夫老六说财税 ，作者：匹夫老六 前两天听说有一批财经领域的博主集体停更被带走调查了。 据事儿哥说（也就是投行事儿哥，著名金融网黄，哈哈），那些自媒体的负责人绝大多数都已被警方抓捕。 里面不乏一些熟悉的账号，就不列举了哈，你们搜一搜能看到类似的消息。 被带走调查的原因，很简单就是付费删文章。 他们日常会发一些企业的分析内容，进行评价，吐槽，往往看似客观，但其实主旨还是比较负面的。 这样的账号，大家肯定看过吧？他们会针对企业的各种数据提出各种各样的质疑，到这一步，其实是可以算舆论监督，公共监督的。 恰逢这些企业呢大多在冲击ipo，就会联系他们进行沟通，把这些质疑的内容删除掉，这些博主就会提出需要各式各样的合作啊等等，就是收费。 多数企业，都会选择花点钱，息事宁人。 这个事哈，在ipo阶段，很常见，财经公关这个环节一直都是有固定预算的。 就围绕企业ipo这个重要的时间节点，是有很多类似的敲诈产业链的。 记不记得以前我说过一个企业，ipo阶段，erp系统被攻击，企业所有的系统都用不了了。 当时对方要几十万美元，后来砍价到多少钱我就忘了。 还有那种在ipo阶段，发起仲裁诉讼，爆黑料，举报税务环保消防等问题的，都是一样的生意模式。 这些年，随着一级市场的火爆，类似的情况已经不光出现在ipo阶段了，很多明星企业的重要融资阶段，也会有人专门出来分析质疑。 所以，企业融资这件",
-    "publishedAt": "2026-10-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793418803000",
-    "title": "汇源丢了商标之后，还能再造一个国民品牌吗？",
-    "link": "https://www.tmtpost.com/8188303.html",
-    "summary": "想再造新品牌？这一条路更不好走。",
+    "id": "news--1793449103000",
+    "title": "相比二代掌权的通化东宝，甘李药业更像一家创新药企",
+    "link": "https://www.tmtpost.com/8187864.html",
+    "summary": "两种交棒方式。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -974,4 +950,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-31T11:38:16.627Z';
+export const dataFetchedAt = '2026-10-31T16:45:15.043Z';
