@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "id": "news-pile-ins-payouts-and-pacing-pressure-the-investors-behind-th-1793420210000",
+    "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+    "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+    "summary": "The money behind the money is thrilled, mostly.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-minimax-h3-4k-1793345471000",
-    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-    "link": "https://www.qbitai.com/2026/10/506743.html",
-    "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-    "publishedAt": "2026-10-30",
+    "id": "news-8g-ipad-12g-1793423870000",
+    "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+    "link": "https://www.qbitai.com/2026/10/506884.html",
+    "summary": "苹果“牛奶倒河里”式操作翻红",
+    "publishedAt": "2026-10-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793417915000",
-    "title": " 和华为“分手”后，赛力斯又亏了 ",
-    "link": "https://www.huxiu.com/article/4901882.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 赛力斯三季报：销量少了四成，利润去哪了？ 定焦One（dingjiaoone）原创 赛力斯与华为宣布调整问界合作分工后，首份财报来了。 10月30日晚，赛力斯公布的财报显示，第三季度营业收入280.8亿元，同比下降41.7%；归母净利润14.2亿元，较第二季度约24.71亿元的亏损明显改善。但扣除非经常性损益后，公司仍亏损13.7亿元。 两个口径相差28亿。差额大头是一笔26.1亿元的“非流动性资产处置损益”，计入非经常性损益的政府补助为2.5亿元。这笔收益主要与赛豆科技不再并表有关。今年7月，赛豆科技（原蓝电）完成增资扩股，赛力斯持股降至约32.96%，控制权交出，剩余股权改按权益法核算，按公允价值重计的差额一次性计入当期损益。 赛力斯在剥离低效资产，把资源聚焦到问界上，靠这笔资产处置收益覆盖掉主营业务亏损，实现了当季的账面盈利。 资本市场对赛力斯的预期，过去一年已经明显回落。 一年前，它是A股最受关注的汽车公司之一，当时股价162.94元，市值一度接近3000亿元。今年10月30日，股价已经降到40.65元，总市值约708亿元。一年跌了75%。 股价回落的同时，赛力斯与华为的合作方式也发生了调整。9月15日，鸿蒙智行和问界宣布，问界的产品定义、设计、品牌营销、渠道零售和服务体系将改由赛力斯主导，华为终端参与赋",
+    "id": "news--1793444754000",
+    "title": " “顶流”坠落，万亿团餐还能稳住吗？ ",
+    "link": "https://www.huxiu.com/article/4901978.html?f=rss",
+    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 昔日行业巨头，今日沦为被执行人 10月19日，公开信息显示，团餐巨头麦金地又一次成为被执行人。内参君查询执行信息发现，2025年至今麦金地已经累计有超过80条被执行信息，成为失信被执行人。 这数字不禁让人唏嘘，曾经的团餐“顶流”为何落到如此这般境地？ 提到麦金地，餐饮界几乎无人不晓它当年的辉煌：业务覆盖国20多个省份，手握数千个食堂项目，服务对象涵盖世界500强企业、政府机关、高校及中小学等。巅峰时期曾获得了高盛、中金等知名机构的投资，是资本宠爱的“宠儿”，一度进入上市辅导阶段。 然而，狂奔的背面是企业管理与商业模式隐患的爆发。长期的垫款积累下巨额供应链欠款，盲目扩张又留下大量设备欠款……最终，麦金地也被屡次被列为失信被执行人。 从“顶流”到被执行人，麦金地的“陨落”是团餐市场的缩影——从盛极一时的辉煌到行业“薄利”的落寞。 团餐式微，内忧外患掉入薄利时代 团餐，顾名思义，就是面向团队提供餐饮服务的形式。早期以“大食堂”形式出现，现在演变成由专业企业统一运营管理，员工/学生使用饭卡、移动支付就餐的形式。 这一模式在至今经历了两个阶段：资本助力下高速狂飙的时期，以及外部环境、企业管理、商业模式等问题集中暴露的行业洗牌时期。 &gt;&gt;&gt;资本助力，团餐的狂飙时代 2019年前后，资本市场开始关注团餐这一模式，大量的资金涌入",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793417986000",
-    "title": "奥迪中国正式“分家”，一汽和上汽谁能赢？",
-    "link": "https://www.tmtpost.com/8188009.html",
-    "summary": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁能赢？",
+    "id": "news-8-ai-1793437770000",
+    "title": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道",
+    "link": "https://www.tmtpost.com/8188399.html",
+    "summary": "从小米出来后，王腾看上了睡着的那8小时生意。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -92,11 +92,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-salesforce-s-m-038-a-spree-continues-with-a-reported-375m-de-1793402483000",
-    "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
-    "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-    "publishedAt": "2026-10-30",
+    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -118,11 +118,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rsi-1-3b-oxr-ocr-1793339567000",
-    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-    "link": "https://www.qbitai.com/2026/10/506686.html",
-    "summary": "解析一切",
-    "publishedAt": "2026-10-30",
+    "id": "news-npu700tops-99-1793423479000",
+    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+    "link": "https://www.qbitai.com/2026/10/506866.html",
+    "summary": "AI算力利用“九九成”",
+    "publishedAt": "2026-10-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -131,10 +131,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793417170000",
-    "title": " 茅台三季报：单季净利回正，但茅台酒旺季增长已开始承压 ",
-    "link": "https://www.huxiu.com/article/4901880.html?f=rss",
-    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 10月30日晚，贵州茅台披露2026年第三季度报告显示：前三季度公司实现营业收入1309.71亿元，同比增长1.96%；归属于上市公司股东的净利润644.67亿元，同比下降0.25%。 其中Q3单季营业收入402.67亿元，同比增长3.08%；归母净利润199.51亿元，同比增长3.78%，单季盈利回正使前三季度净利降幅较上半年明显收窄。但拆解主营收入结构，Q3增长更多来自系列酒低基数反弹，核心的茅台酒在价格体系整体上调的背景下仅微增0.79%，显示其在销售旺季（中秋前夕）已迎来进一步的市场承压。 01 Q3单季回正，前三季度净利仍微降 前三季度，贵州茅台营业总收入1332.84亿元，营业收入1309.71亿元，同比增长1.96%；利润总额890.18亿元，同比下降0.43%；归母净利润644.67亿元，同比下降0.25%；扣非净利润643.25亿元，同比下降0.55%。从累计口径看，公司仍处于“营收微增、净利微降”的状态。 单季数据则有所改善。第三季度营业收入402.67亿元，同比增长3.08%；利润总额275.79亿元，同比增长3.58%；归母净利润199.51亿元，同比增长3.78%。Q3净利环比Q2的172.74亿元增长约15.5%，单季盈利改善使前三季度归母净利降幅由上半年的-1.95%收窄至-0.25%。 但成本端压力不容",
+    "id": "news-20-50-1793444075000",
+    "title": " 职业差评灰产调查：团队暗语交流，20元刷差评商家需50元删掉 ",
+    "link": "https://www.huxiu.com/article/4901962.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓、王思思，题图来自：视觉中国 几条差评即可摧毁一家小店。 2026年10月，四川宜宾炸串摊主胡女士因顾客在多平台发布&ldquo;避雷&rdquo;差评后轻生。同月，车评人韩路自称其烤串新店试营业前，各平台已冒出多条&ldquo;已经吃过了&rdquo;的差评。 对依靠线上平台的小店而言，评分与流量高度绑定，几条差评可能直接冲击经营，成为&ldquo;致命&rdquo;伤害。而差评的来源不只是普通消费者：除职业差评人外，还有&ldquo;白嫖党&rdquo;，甚至有人专门以差评进行敲诈勒索。 界面新闻调查发现，围绕差评与好评，有一条明码标价的灰色产业链：链条上游是有需求的委托方，中游是中介和服务商，下游是&ldquo;刷手&rdquo; （刷单者） 和职业差评人，并最终通过平台评价体系显现出来。链条上的每一环，都可能存在违法风险。 因差评被迫闭店 天津的李越和爱人经营着一家手作店，饮品&ldquo;现熬现煮&rdquo;。几年下来，他们凭借口碑攒下一批老客户。2026年8月，附近几家公司搬迁后，李越将店铺挪至市区。 新店生意红火，&ldquo;12天就在大众点评干到了所属区域的第一。&rdquo;李越告诉界面新闻，多的时候，他一天卖出大几十单，&ldquo;日营业额小2000元。&rdquo;其店铺在美团和大众点评的分数高达4.9。 但",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -144,10 +144,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026q3-1793416449000",
-    "title": "济安金信基金季报点评（2026Q3）",
-    "link": "https://www.tmtpost.com/8188395.html",
-    "summary": "（1）三季度，股票型和混合型基金权益仓位均下降，一级债可转债仓位下降，二级债和可转债基金可转债仓位上升。（2）公募基金在制造业持仓占比减少，在金融业持仓占比增加。（3）公募基金三季度中际旭创持股总市值最高，兴业转债持仓总市值最高。",
+    "id": "news-ai-00-1793423871000",
+    "title": "“开源才是护城河”：制造老炮把品胜的AI交给了00后",
+    "link": "https://www.tmtpost.com/8188454.html",
+    "summary": "对赵国成而言，AI最终要落到生产力上；而考验丛泽龙团队的，将是怎么把一次次具体的创新变成可以复用、持续更新的能力。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -170,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ollie-a-privacy-focused-ai-assistant-is-shutting-down-1793400973000",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "id": "news-salesforce-s-m-038-a-spree-continues-with-a-reported-375m-de-1793402483000",
+    "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+    "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -197,11 +197,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-fable-opus-1793339444000",
-    "title": "Claude新模型曝光：新Fable，新Opus…",
-    "link": "https://www.qbitai.com/2026/10/506674.html",
-    "summary": "",
-    "publishedAt": "2026-10-30",
+    "id": "news-claude-5-ultra-1793423129000",
+    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "link": "https://www.qbitai.com/2026/10/506855.html",
+    "summary": "200美元Ultra用户先用",
+    "publishedAt": "2026-10-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -210,10 +210,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793416667000",
-    "title": " 利用不了的秸秆，还是研究如何烧吧 ",
-    "link": "https://www.huxiu.com/article/4901878.html?f=rss",
-    "summary": "本文来自微信公众号： 昌评乡建 ，作者：李昌平，原文标题：《李昌平：利用不了的秸秆，还是研究如何烧吧！》，题图来自：视觉中国 1、秸秆量特别大，一亩地一年产一吨多、两吨多。 2、秸秆能利用，是宝，应尽量利用，前提是不增加种田人负担。可怜一下农民，种地不挣钱，秸秆利用不要搞成增加农民负担和责任及义务。 3、秸秆不能利用，是害，要做无害化处理。如何处理？政府处理，随便都行，前提是不伤害农民；政府不处理，只能由农民自行处理，前提是尽量不要引发次生灾害。两害相权取其轻，烧，是目前最好的办法。专家提烧而少烟的好办法、基层干部组织烧、监督烧。 4、关于秸秆深翻。有些专家拍视频教农民直接把秸秆埋地里做肥料，胡说八道。秸秆直埋地里，两年腐烂不了。北方玉米秆埋地下，再接种小麦，一是对小麦生长及越冬负作用极大，二是保护了病虫害，三是半年后收了小麦再深翻深埋秸秆，不就把未腐烂的玉米秆翻上来了嘛，这地还怎么种？北方一年种两茬庄稼深翻直埋不行，南方一年种三茬，深翻将秸秆直接埋地里，一年翻埋三次，这地不就成了沼气池了嘛，这地除环保局的臣民能种外，农业农村局的农民肯定种不了！ 5、秸秆处理，是一件关系到数亿户家庭的事，要多方努力找到合适的办法。找到合适的办法需要时间的，在没有找到合适的办法之前， 一禁了之是最坏的办法 。宜疏不宜堵，堵几亿户农人的代价比地里冒几天烟的代价不知道要高出多少倍。 6、现在的种地人不容",
+    "id": "news-1-1793443396000",
+    "title": " 1元出售内地业务，快狗打车怎么走到了这一步？ ",
+    "link": "https://www.huxiu.com/article/4901973.html?f=rss",
+    "summary": "本文来自微信公众号： 物流沙龙 ，作者：小周伯通 1元，这是快狗打车拟出售中国内地业务的交易价格。 2017年，58速运与香港同城货运公司GoGoVan完成了合并，次年正式更名为快狗打车。2022年，完成港交所上市，号称同城货运第一股，上市首日市值超百亿港元。 四年多后，这家公司为何要以1元出售内地业务？是自身的经营困境原因，还是同城货运平台共同面临的难题？ 01 1元出售内地业务，快狗打车怎么了？ 10月16日，快狗打车发布公告，宣布拟以人民币1元出售持有中国内地业务的附属公司GGEx Holdings Limited全部股权。买方为Crestpoint Investment Limited，该公司由吴子峰全资持有。 从交易安排来看，这意味着快狗打车上市公司将不再持有这部分内地业务。不过，股权出售不等于平台关停。针对市场关注，快狗打车随后表示，内地业务仍将继续运营。 当然，对内地平台而言，货主和司机能否保持稳定，经营策略是否会发生变化，以及收入和亏损能否逐步改善，都需要后续经营数据来回答。 需要注意的是，1元是此次公告披露的股权交易对价，不能简单理解为内地业务的整体价值只有1元。 但结合收入、亏损等数据来看，持续经营压力显然是这笔交易的重要原因。 2024年，相关业务收入约1.66亿元，亏损约1.52亿元；2025年，收入降至约1.32亿元，亏损约7967万元。到了2026年上半",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -223,10 +223,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1793416297000",
-    "title": "摩尔线程2026年三季报点评｜公司点评",
-    "link": "https://www.tmtpost.com/8188359.html",
-    "summary": "尽管公司在人工智能产业的强劲需求下实现了高速增长，但持续的现金流出与存货激增，已成为制约其估值与经营稳健性的关键因素。",
+    "id": "news-ai-1793418813000",
+    "title": "大厂减市场预算，加AI预算",
+    "link": "https://www.tmtpost.com/8188331.html",
+    "summary": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -249,10 +249,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-intel-8217-s-stock-crashes-knocking-12b-from-government-8217-1793397274000",
-    "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "id": "news-ollie-a-privacy-focused-ai-assistant-is-shutting-down-1793400973000",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -277,10 +277,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793332084000",
-    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-    "link": "https://www.qbitai.com/2026/10/506662.html",
-    "summary": "让机器人成为彼此的“老师”",
+    "id": "news--1793365111000",
+    "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+    "link": "https://www.qbitai.com/2026/10/506819.html",
+    "summary": "xs，还要给机器人打绩效",
     "publishedAt": "2026-10-30",
     "source": "量子位",
     "tags": [
@@ -290,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-windows-1793415600000",
-    "title": " 被骂了十几年，Windows笔记本触控板的问题到底出在哪儿？ ",
-    "link": "https://www.huxiu.com/article/4900845.html?f=rss",
-    "summary": "都2026年了，Windows本触控板怎么还这么难用？更离谱的是，同一台电脑，刷网页挺丝滑，换个软件立马一卡一卡。这期我们拉上epcdiy，请他帮忙写了几个 Demo ，把手指到软件全部扒了一遍，看看问题到底出在哪儿。",
+    "id": "news--1793443393000",
+    "title": " 解码快递行业竞争格局：顺丰、极兔、中通、圆通…… ",
+    "link": "https://www.huxiu.com/article/4901972.html?f=rss",
+    "summary": "本文来自微信公众号： 物流沙龙 ，作者：罗戈研究 2025年至2026年上半年，中国供应链物流行业在核心业务领域迎来深度变革，竞争逻辑从“规模扩张”加速转向“价值创造”与“专业深耕”。快递与即时配送在\"反内卷\"政策推动下由价格竞争转向价值竞争，全年快递业务量逼近2000亿件大关。 本文选自罗戈研究出品的《2025—2026中国物流行业年报》的【第7章快递与即时配送】的【7.1快递】章节，从市场规模、快递反内卷、市场竞争格局等方面，解读快递行业的核心运营模式。 以下是报告的部分内容： 01 市场规模与增速 2025年全国快递业务量完成1989.5亿件，同比增长13.6%，日均业务量接近5.5亿件，单日最高业务量达7.77亿件。 2025年邮政行业业务收入（不包括邮政储蓄银行直接营业收入）完成1.8万亿元，同比增长6.1%，其中快递业务收入完成1.49万亿元，同比增长6.5%，快递业务收入占行业总收入的比重为83.2%，较上年提高0.3个百分点。 快递收入增速低于业务量增速约7个百分点，反映出行业“增量不增利”的结构性矛盾——业务量增长主要来自价格敏感型的电商小件，单件收入持续下降稀释了增量贡献。 从月度走势看，2025年快递业务量呈现“前高后低”的特征。上半年受益于电商促销常态化和直播电商拉动，月度增速维持在15%以上；进入下半年，受“反内卷”政策推高价格、低价件需求收缩以及去年同期",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
@@ -303,10 +303,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793416278000",
-    "title": "美国军事霸权：非常规手段能化解巨额债务危机吗？",
-    "link": "https://www.tmtpost.com/8188356.html",
-    "summary": "非常规手段能否持续压低美国融资成本？战争与制裁带来的财政支出、通胀压力和供应链冲击，又会怎样反过来影响债务动态？",
+    "id": "news--1793418808000",
+    "title": "初代选秀，一地鸡毛",
+    "link": "https://www.tmtpost.com/8187453.html",
+    "summary": "当“选秀往事”成为新生意。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -329,10 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-expected-to-receive-high-8216-junk-8217-rating-fro-1793397123000",
-    "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "id": "news-intel-8217-s-stock-crashes-knocking-12b-from-government-8217-1793397274000",
+    "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -355,10 +355,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet2027-1793331621000",
-    "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-    "link": "https://www.qbitai.com/2026/10/506609.html",
-    "summary": "",
+    "id": "news-ai-deepseek-9-8-1793358306000",
+    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+    "link": "https://www.qbitai.com/2026/10/506785.html",
+    "summary": "之前还连登昇腾三榜第一",
     "publishedAt": "2026-10-30",
     "source": "量子位",
     "tags": [
@@ -368,24 +368,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793415600000",
-    "title": " 一口气看懂AI短剧的商业逻辑，钱被谁赚走了？ ",
-    "link": "https://www.huxiu.com/article/4900828.html?f=rss",
-    "summary": "行业大佬同时批量生成几十部剧，用极低成本测试爆款，失败作品直接弃掉。个人创作者靠运气，机构用数据和大数法则赚钱；早期分账高价已成历史，如今流量贬值，万次播放收入锐减。内容井喷，观众时间有限，单部剧收益被疯狂稀释。 平台掌控IP、算力、流量和广告分发，每一环都能收钱，制作方反倒成了帮平台测试内容的&ldquo;砸钱机器&rdquo;。AI让创作变简单，但赚钱依然艰难。",
+    "id": "news--1793441830000",
+    "title": " 当“做空机构”变成舆情敲诈 ",
+    "link": "https://www.huxiu.com/article/4901967.html?f=rss",
+    "summary": "本文来自微信公众号： 匹夫老六说财税 ，作者：匹夫老六 前两天听说有一批财经领域的博主集体停更被带走调查了。 据事儿哥说（也就是投行事儿哥，著名金融网黄，哈哈），那些自媒体的负责人绝大多数都已被警方抓捕。 里面不乏一些熟悉的账号，就不列举了哈，你们搜一搜能看到类似的消息。 被带走调查的原因，很简单就是付费删文章。 他们日常会发一些企业的分析内容，进行评价，吐槽，往往看似客观，但其实主旨还是比较负面的。 这样的账号，大家肯定看过吧？他们会针对企业的各种数据提出各种各样的质疑，到这一步，其实是可以算舆论监督，公共监督的。 恰逢这些企业呢大多在冲击ipo，就会联系他们进行沟通，把这些质疑的内容删除掉，这些博主就会提出需要各式各样的合作啊等等，就是收费。 多数企业，都会选择花点钱，息事宁人。 这个事哈，在ipo阶段，很常见，财经公关这个环节一直都是有固定预算的。 就围绕企业ipo这个重要的时间节点，是有很多类似的敲诈产业链的。 记不记得以前我说过一个企业，ipo阶段，erp系统被攻击，企业所有的系统都用不了了。 当时对方要几十万美元，后来砍价到多少钱我就忘了。 还有那种在ipo阶段，发起仲裁诉讼，爆黑料，举报税务环保消防等问题的，都是一样的生意模式。 这些年，随着一级市场的火爆，类似的情况已经不光出现在ipo阶段了，很多明星企业的重要融资阶段，也会有人专门出来分析质疑。 所以，企业融资这件",
     "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-10-30-1793416031000",
-    "title": "价值判断：涨停板的投资机会和风险提示（10月30日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8188354.html",
-    "summary": "本期四只标的分处估值两端：三只首板收盘价低于济安定价五成至一倍多，分别来自食品、家用医疗器械与连锁酒店；一只两连板高出八成三，来自射频线缆与卫星通信终端。",
+    "id": "news--1793418803000",
+    "title": "汇源丢了商标之后，还能再造一个国民品牌吗？",
+    "link": "https://www.tmtpost.com/8188303.html",
+    "summary": "想再造新品牌？这一条路更不好走。",
     "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
@@ -763,6 +762,22 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137604",
+    "title": "Online Client Support &amp; Travel Booking We Will Train You",
+    "company": "Destination Careers",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support",
+      "This remote role is ideal for someone who enjoys assisting others, communicates professionally, and thrives in a flexible work"
+    ],
+    "skills": [],
+    "location": "Dallas, Texas",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+    "postedAt": "2026-10-30",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137538",
     "title": "Software Engineer AI Coding Tasks",
     "company": "Askable",
@@ -959,4 +974,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-31T03:54:15.789Z';
+export const dataFetchedAt = '2026-10-31T11:38:16.627Z';
