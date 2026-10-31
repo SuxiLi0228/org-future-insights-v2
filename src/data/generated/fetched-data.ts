@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-expected-to-receive-high-8216-junk-8217-rating-fro-1793397123000",
-    "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, report says",
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
-    "publishedAt": "2026-10-30",
+    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -53,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793377395000",
-    "title": " 日本股市，迎重大调整 ",
-    "link": "https://www.huxiu.com/article/4901854.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：史正丞 本周五开始，全球市值规模第三大的日本股市，开始新一轮推动市场价值重估的努力。 具体来说，日本股市重要基准——东证指数（TOPIX）今日开始实施第二阶段改革下的首次成分股定期调整。将近4成的成分股进入分阶段降权程序，若这些股票继续“躺平”，未来两年里将被逐步清理出指数。 发生了什么：683只股票开始降权 这次的调整，首要目标是把长期蛰伏在指数中，却没什么成交量的成分股清退。 东证指数此次引入了更明确的流动性筛选门槛。按照新规，现有成分股要留在指数中，首先须达到至少0.14（14%）的年度成交金额周转率。随后，将符合这一条件的股票按自由流通市值从大到小排列，依次纳入，直到累计市值达到这批股票（即周转率达14%的股票）总市值的97%。排在这条线之外的小市值股票，则不满足保留标准。 对于未来新纳入的股票，这两个指标必须达到0.2和96%。 根据交易所公布的名单，进入降权名单的，也不乏知名品牌及工业企业，包括糖果品牌不二家、东京电视台控股、生产途乐等车型的日产车体，以及三菱制钢。半导体设备商SAMCO、TAZMO和电脑周边品牌巴法络，也在名单之中。 新规则也打破了市场板块对新增成分股的限制，将Standard和Growth市场（相当于中国的中小企业板和创业板）也纳入定期选股范围。 此次新纳入的35只股票中，包括日本麦当劳控股、《龙珠》《海贼王》等",
-    "publishedAt": "2026-10-30",
+    "id": "news--1793417915000",
+    "title": " 和华为“分手”后，赛力斯又亏了 ",
+    "link": "https://www.huxiu.com/article/4901882.html?f=rss",
+    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 赛力斯三季报：销量少了四成，利润去哪了？ 定焦One（dingjiaoone）原创 赛力斯与华为宣布调整问界合作分工后，首份财报来了。 10月30日晚，赛力斯公布的财报显示，第三季度营业收入280.8亿元，同比下降41.7%；归母净利润14.2亿元，较第二季度约24.71亿元的亏损明显改善。但扣除非经常性损益后，公司仍亏损13.7亿元。 两个口径相差28亿。差额大头是一笔26.1亿元的“非流动性资产处置损益”，计入非经常性损益的政府补助为2.5亿元。这笔收益主要与赛豆科技不再并表有关。今年7月，赛豆科技（原蓝电）完成增资扩股，赛力斯持股降至约32.96%，控制权交出，剩余股权改按权益法核算，按公允价值重计的差额一次性计入当期损益。 赛力斯在剥离低效资产，把资源聚焦到问界上，靠这笔资产处置收益覆盖掉主营业务亏损，实现了当季的账面盈利。 资本市场对赛力斯的预期，过去一年已经明显回落。 一年前，它是A股最受关注的汽车公司之一，当时股价162.94元，市值一度接近3000亿元。今年10月30日，股价已经降到40.65元，总市值约708亿元。一年跌了75%。 股价回落的同时，赛力斯与华为的合作方式也发生了调整。9月15日，鸿蒙智行和问界宣布，问界的产品定义、设计、品牌营销、渠道零售和服务体系将改由赛力斯主导，华为终端参与赋",
+    "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -66,11 +66,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793373498000",
-    "title": "代谢创新药进入“中国时间”：从产品出海到能力出海的行业跃迁丨行业风向标",
-    "link": "https://www.tmtpost.com/8187920.html",
-    "summary": "中国药企在全球代谢赛道的位置正在重排，下一步较量的重心，是研发、临床、供应链、商业化全链条能力的出海。",
-    "publishedAt": "2026-10-30",
+    "id": "news--1793417986000",
+    "title": "奥迪中国正式“分家”，一汽和上汽谁能赢？",
+    "link": "https://www.tmtpost.com/8188009.html",
+    "summary": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁能赢？",
+    "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -92,10 +92,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-applebee-8217-s-exposed-customers-8217-personal-data-after-l-1793396933000",
-    "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
-    "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-    "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+    "id": "news-salesforce-s-m-038-a-spree-continues-with-a-reported-375m-de-1793402483000",
+    "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+    "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -131,11 +131,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-38-1793376643000",
-    "title": " 富民路38号 ",
-    "link": "https://www.huxiu.com/article/4901852.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 金色镜子 跟朋友约在长乐路富民路附近喝咖啡。随意闲逛，被一面爱心状金色镜子吸引，崭新、美、亮晃晃，掏出手机照的时候，才发现是个店招。 旁边一扇铁门，锁着。从门缝往里看，院子里桌椅横七竖八，有的翻倒，有的摞在一起，遮阳伞还张着，耷拉着两个角。落叶铺满了地，堆在椅子腿边上，也堆进一只空花盆里。 门牌是富民路38号。好吧，看见这门牌的瞬间，我脑子里的这篇文章就注定已完成。 当即查，这栋房子登在上海市第三次全国文物普查的不可移动文物名录里，有一长串编号，名字叫顾嘉棠住宅。顾嘉棠，杜月笙手下四大金刚里排第一的那一位。 我随手发了视频号，说富民路38号，繁华萧条一瞬间，没转没点赞，也很多人看。 古拔路 上海，富民路很短，六百多米，北头接延安中路，南头过了长乐路，就散进东湖路、新乐路那一片。1913年法租界筑这条路，用一位法国海军中将的名字命名，Courbet，租界写作“古拔”。 这个人，史书上写作“孤拔”。1884年中法战争，他带着法国舰队开进福州马尾，一个下午，福建水师几乎全军覆没。 一条上海马路挂着他的名字挂了三十年，弄堂里的人在这条路上买菜、散步、谈恋爱，几乎没人知道这历史。 1943年租界收回，马路统统换成中国地名，这一条挑了云南昆明底下的县名，叫“富民”。 上世纪三十年代，这条路上住进来的人家很杂。1931年，盐业、金城、中南、大陆四家",
-    "publishedAt": "2026-10-30",
+    "id": "news--1793417170000",
+    "title": " 茅台三季报：单季净利回正，但茅台酒旺季增长已开始承压 ",
+    "link": "https://www.huxiu.com/article/4901880.html?f=rss",
+    "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 10月30日晚，贵州茅台披露2026年第三季度报告显示：前三季度公司实现营业收入1309.71亿元，同比增长1.96%；归属于上市公司股东的净利润644.67亿元，同比下降0.25%。 其中Q3单季营业收入402.67亿元，同比增长3.08%；归母净利润199.51亿元，同比增长3.78%，单季盈利回正使前三季度净利降幅较上半年明显收窄。但拆解主营收入结构，Q3增长更多来自系列酒低基数反弹，核心的茅台酒在价格体系整体上调的背景下仅微增0.79%，显示其在销售旺季（中秋前夕）已迎来进一步的市场承压。 01 Q3单季回正，前三季度净利仍微降 前三季度，贵州茅台营业总收入1332.84亿元，营业收入1309.71亿元，同比增长1.96%；利润总额890.18亿元，同比下降0.43%；归母净利润644.67亿元，同比下降0.25%；扣非净利润643.25亿元，同比下降0.55%。从累计口径看，公司仍处于“营收微增、净利微降”的状态。 单季数据则有所改善。第三季度营业收入402.67亿元，同比增长3.08%；利润总额275.79亿元，同比增长3.58%；归母净利润199.51亿元，同比增长3.78%。Q3净利环比Q2的172.74亿元增长约15.5%，单季盈利改善使前三季度归母净利降幅由上半年的-1.95%收窄至-0.25%。 但成本端压力不容",
+    "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -144,11 +144,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793358088000",
-    "title": "具身智能患上了焦虑症",
-    "link": "https://www.tmtpost.com/8187761.html",
-    "summary": "具身智能投资，正从狂热到冷静",
-    "publishedAt": "2026-10-30",
+    "id": "news-2026q3-1793416449000",
+    "title": "济安金信基金季报点评（2026Q3）",
+    "link": "https://www.tmtpost.com/8188395.html",
+    "summary": "（1）三季度，股票型和混合型基金权益仓位均下降，一级债可转债仓位下降，二级债和可转债基金可转债仓位上升。（2）公募基金在制造业持仓占比减少，在金融业持仓占比增加。（3）公募基金三季度中际旭创持股总市值最高，兴业转债持仓总市值最高。",
+    "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -170,10 +170,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-last-minute-halloween-costumes-for-tech-nerds-1793395619000",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "id": "news-ollie-a-privacy-focused-ai-assistant-is-shutting-down-1793400973000",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -210,25 +210,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-cyber-1793376068000",
-    "title": " DeepSeek Cyber，以及中国开源模型的安全，事情正在起变化 ",
-    "link": "https://www.huxiu.com/article/4901849.html?f=rss",
-    "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 市场上流传着DeepSeek网络安全模型Cyber的消息。多名技术开发者在DeepSeek官网前端JS中发现Cyber相关入口，社区也流出了灰度状态的申请页面。但DeepSeek尚未正式公告。 AI智能体正在变得越来越“危险”。过去半年，美国政府与科技企业已经开始磕磕绊绊地应对这一问题；相比之下，中国开源模型阵营迟迟没有明显动作，也让社区感到担忧。随着模型能力继续增强，这一天迟早会到来。只是，中国厂商会以什么形式应对？这又会给整个AI产业带来什么影响？ 事情开始起变化。最近，中国第三方AI安全评估机构方寸跃迁（Fangcun AI）于发布报告，题为《DeepSeek V4.1 Flash-1017的失控与有害操纵风险评估》，认为DeepSeek新模型的安全性相较V4系列明显提升，部分指标已经接近甚至持平顶尖闭源模型，但在长任务执行、服从关停安排和避免操纵用户等方面，仍然存在值得注意的风险。 中国开始出现以国际前沿AI安全框架为参照、独立评估国内开放权重模型系统性风险的专业机制。 上周，Kimi K3.1 Pro发布时，进一步披露了针对网络攻防能力的解决方案。这一动作，也让DeepSeek Cyber的传言更加可信了几分。 Kimi团队从K3.1 Pro中移除了中期训练与强化学习阶段的网络安全相关数据和任务，同时保留通用编程能力。其内",
-    "publishedAt": "2026-10-30",
+    "id": "news--1793416667000",
+    "title": " 利用不了的秸秆，还是研究如何烧吧 ",
+    "link": "https://www.huxiu.com/article/4901878.html?f=rss",
+    "summary": "本文来自微信公众号： 昌评乡建 ，作者：李昌平，原文标题：《李昌平：利用不了的秸秆，还是研究如何烧吧！》，题图来自：视觉中国 1、秸秆量特别大，一亩地一年产一吨多、两吨多。 2、秸秆能利用，是宝，应尽量利用，前提是不增加种田人负担。可怜一下农民，种地不挣钱，秸秆利用不要搞成增加农民负担和责任及义务。 3、秸秆不能利用，是害，要做无害化处理。如何处理？政府处理，随便都行，前提是不伤害农民；政府不处理，只能由农民自行处理，前提是尽量不要引发次生灾害。两害相权取其轻，烧，是目前最好的办法。专家提烧而少烟的好办法、基层干部组织烧、监督烧。 4、关于秸秆深翻。有些专家拍视频教农民直接把秸秆埋地里做肥料，胡说八道。秸秆直埋地里，两年腐烂不了。北方玉米秆埋地下，再接种小麦，一是对小麦生长及越冬负作用极大，二是保护了病虫害，三是半年后收了小麦再深翻深埋秸秆，不就把未腐烂的玉米秆翻上来了嘛，这地还怎么种？北方一年种两茬庄稼深翻直埋不行，南方一年种三茬，深翻将秸秆直接埋地里，一年翻埋三次，这地不就成了沼气池了嘛，这地除环保局的臣民能种外，农业农村局的农民肯定种不了！ 5、秸秆处理，是一件关系到数亿户家庭的事，要多方努力找到合适的办法。找到合适的办法需要时间的，在没有找到合适的办法之前， 一禁了之是最坏的办法 。宜疏不宜堵，堵几亿户农人的代价比地里冒几天烟的代价不知道要高出多少倍。 6、现在的种地人不容",
+    "publishedAt": "2026-10-31",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-ai-1793358030000",
-    "title": "跨境电商的AI真相：进入更易，胜出更难",
-    "link": "https://www.tmtpost.com/8187749.html",
-    "summary": "2026年跨境电商最清晰的结构性变化是，AI让进场变得容易，也让留下变得昂贵。门槛并没有消失，只是从“会不会用工具”，移到了“有没有别人拿不走的硬实力”",
-    "publishedAt": "2026-10-30",
+    "id": "news-2026-1793416297000",
+    "title": "摩尔线程2026年三季报点评｜公司点评",
+    "link": "https://www.tmtpost.com/8188359.html",
+    "summary": "尽管公司在人工智能产业的强劲需求下实现了高速增长，但持续的现金流出与存货激增，已成为制约其估值与经营稳健性的关键因素。",
+    "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -250,17 +249,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cracks-are-emerging-in-the-ai-spending-boom-1793395060000",
-    "title": "Cracks are emerging in the AI spending boom",
-    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "id": "news-intel-8217-s-stock-crashes-knocking-12b-from-government-8217-1793397274000",
+    "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -292,11 +290,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-ai-1793358028000",
-    "title": "OpenAI又出数学大结果，陶哲轩：数学不该被AI“掠夺式开采”",
-    "link": "https://www.tmtpost.com/8187753.html",
-    "summary": "AI野蛮人敲门，数学界难寻白衣骑士。",
-    "publishedAt": "2026-10-30",
+    "id": "news-windows-1793415600000",
+    "title": " 被骂了十几年，Windows笔记本触控板的问题到底出在哪儿？ ",
+    "link": "https://www.huxiu.com/article/4900845.html?f=rss",
+    "summary": "都2026年了，Windows本触控板怎么还这么难用？更离谱的是，同一台电脑，刷网页挺丝滑，换个软件立马一卡一卡。这期我们拉上epcdiy，请他帮忙写了几个 Demo ，把手指到软件全部扒了一遍，看看问题到底出在哪儿。",
+    "publishedAt": "2026-10-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793416278000",
+    "title": "美国军事霸权：非常规手段能化解巨额债务危机吗？",
+    "link": "https://www.tmtpost.com/8188356.html",
+    "summary": "非常规手段能否持续压低美国融资成本？战争与制裁带来的财政支出、通胀压力和供应链冲击，又会怎样反过来影响债务动态？",
+    "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -318,10 +329,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-go-1793390113000",
-    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-    "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-    "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+    "id": "news-anthropic-expected-to-receive-high-8216-junk-8217-rating-fro-1793397123000",
+    "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
     "publishedAt": "2026-10-30",
     "source": "TechCrunch",
     "tags": [
@@ -357,11 +368,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-labubu-1793358027000",
-    "title": "一条由LABUBU拽动的业绩曲线：泡泡玛特复购率两连降后，三季度收益直接“腰斩”",
-    "link": "https://www.tmtpost.com/8187764.html",
-    "summary": "LABUBU“退烧”，泡泡玛特Q3业绩大变脸",
-    "publishedAt": "2026-10-30",
+    "id": "news-ai-1793415600000",
+    "title": " 一口气看懂AI短剧的商业逻辑，钱被谁赚走了？ ",
+    "link": "https://www.huxiu.com/article/4900828.html?f=rss",
+    "summary": "行业大佬同时批量生成几十部剧，用极低成本测试爆款，失败作品直接弃掉。个人创作者靠运气，机构用数据和大数法则赚钱；早期分账高价已成历史，如今流量贬值，万次播放收入锐减。内容井喷，观众时间有限，单部剧收益被疯狂稀释。 平台掌控IP、算力、流量和广告分发，每一环都能收钱，制作方反倒成了帮平台测试内容的&ldquo;砸钱机器&rdquo;。AI让创作变简单，但赚钱依然艰难。",
+    "publishedAt": "2026-10-31",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-10-30-1793416031000",
+    "title": "价值判断：涨停板的投资机会和风险提示（10月30日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8188354.html",
+    "summary": "本期四只标的分处估值两端：三只首板收盘价低于济安定价五成至一倍多，分别来自食品、家用医疗器械与连锁酒店；一只两连板高出八成三，来自射频线缆与卫星通信终端。",
+    "publishedAt": "2026-10-31",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -934,4 +959,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-30T21:54:28.895Z';
+export const dataFetchedAt = '2026-10-31T03:54:15.789Z';
