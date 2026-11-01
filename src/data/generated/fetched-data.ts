@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-centers-are-now-a-midterm-issue-even-in-brooklyn-1793499730000",
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "id": "news-ai-can-make-tech-ceos-lives-easier-what-about-everyone-else-1793566678000",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
     "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +40,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793520157000",
-    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-    "link": "https://www.qbitai.com/2026/11/507031.html",
-    "summary": "让AI像牛顿一样思考",
+    "id": "news--1793539690000",
+    "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+    "link": "https://www.qbitai.com/2026/11/507076.html",
+    "summary": "西湖世界模型研究中心成立",
     "publishedAt": "2026-11-01",
     "source": "量子位",
     "tags": [
@@ -53,17 +53,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793535881000",
-    "title": " 你想过没有：既然按成果付费走不通，那AI靠什么收钱？ ",
-    "link": "https://www.huxiu.com/article/4902107.html?f=rss",
-    "summary": "本文来自微信公众号： ToBeSaaS ，作者：戴珂 现在全世界都在做AI。大家都在砸钱、造智能体，每天冒出来的Agent比SaaS多得多。 可有一个问题，一直没人正面回答：这东西到底怎么收钱？ 商品要成立，先得能量化成收费标准。能不能做出来，做得好不好，先放一边。 你连怎么收钱都没想清楚，生意就没成。 这话不中听，但谁也绕不开：AI行业的计价，到今天看，还没有一个模式真正闭环。 01 按成果付费，喊得最响，最不成立 现在最流行的说法是\"按成果付费\"，也就是常说的outcome-based pricing。帮客户解决了多少问题，收多少钱。 听上去很美，现实处处碰壁。 先看那些号称按成果收费的厂商。Salesforce说Agentforce按对话收钱，HubSpot说一个已解决的对话收0.5美元，Intercom说一次解决收0.99美元。 听着是\"成果\"，可这些公司的收入，九成以上还是席位订阅。按成果计价只是它们新开的一小条口子，试探着玩。Salesforce在几年前还没AI的时候，就喊过按成果收费，到现在也没收成什么。这口号它喊了两轮，说明它自己也觉得难，只是没别的词可用。 再说\"成果\"到底是什么。按照厂商的说法，更新一条记录，总结一个案例，解决一次对话——这些是动作，不是成果。这些都是软件本来就该干的活，凭什么再收一次钱？ 真正的成果，按经济学的说法，是客户用你的东西多赚了钱，或",
+    "id": "news--1793554177000",
+    "title": " 韩国年轻人，其实比日本人更想结婚 ",
+    "link": "https://www.huxiu.com/article/4902133.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 韩国年轻人，可能比很多人想象的更想结婚。 今年8月底，韩国大韩商工会议所与日本生产性本部联合公布了一项调查。 调查访问了4000名20至39岁的韩日青年，两国各2000人。其中，81.4%的韩国未婚受访者表示有结婚意愿，日本只有57.6%。 差距达到23.8个百分点。 问到是否希望拥有孩子，韩国受访者中有76.8%给出肯定回答，日本为50.5%，相差26.3个百分点。 更有意思的是，韩国只有8.6%的未婚受访者表示希望立即结婚。另有37.1%希望遇到合适的人再结婚，35.7%希望将来条件允许时结婚。 这意味着，韩国年轻人对结婚的态度并非简单的积极或消极。 相当多人有结婚愿望，但更愿意等待。 10月21日，剑桥大学出版社发表的一项韩日住房政策比较研究，又为这组调查提供了新的解释。 研究指出，两国都扩大了支持年轻人结婚的住房政策，但韩国面临住房贷款额度与实际房价脱节、政策资格复杂等问题，日本则存在公共住房老旧、政策年龄限制等障碍。 两组材料放在一起，呈现出一个有意思的现象： 韩国年轻人比日本年轻人更想结婚，却也更强调先拥有稳定工作、收入和住房。 婚姻意愿与婚姻能力之间，存在一道需要用收入和资产跨越的门槛。 一、韩国人想结婚，日本人更接受单身 在韩国，18.6%的未婚受访者表示终身没有结婚打算。 日本的比例达到42.4%，超",
     "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -93,11 +92,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s--1793482860000",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "publishedAt": "2026-10-31",
+    "id": "news-techcrunch-mobility-a-new-bigger-av-boom-is-here-1793552640000",
+    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+    "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -119,10 +118,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793519457000",
-    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-    "link": "https://www.qbitai.com/2026/11/506990.html",
-    "summary": "这事还是想得太简单了",
+    "id": "news-claude-harness-1793538595000",
+    "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "link": "https://www.qbitai.com/2026/11/507038.html",
+    "summary": "",
     "publishedAt": "2026-11-01",
     "source": "量子位",
     "tags": [
@@ -132,17 +131,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-agent-ai-1793535233000",
-    "title": " DeepSeek开源Agent架构，想让人少给AI打工 ",
-    "link": "https://www.huxiu.com/article/4902105.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜视觉中国 文锋又开源了。 10月31日晚，DeepSeek Harness团队公开了Super-agent的架构设计，并开源研究原型，探索让Personal Agent更自主地参与日常工作。目前，公开原型主要面向单个GitHub仓库，可选择接入飞书，部分设计尚未实现。 这次他想解决的，是让AI在没人@、下指令的情况，自己发现Bug，并主动在后台尝试复现、定位和修复，再提交代码修改请求，等待人审查。 它可以持续关注工作群消息，跨平台协作、并行推进多个复杂工作，减少人类在多个会话之间的协调负担，甚至24小时运行。 在看完整个架构文章之后，有一点需要先明确一点。 DeepSeek这次并没有提出全新的理论或是一个全新的技术路线。 Super-agent提供的是一种系统的创新。它把经典计算机系统思想应用到了Agent系统当中，比如多Agent分工、事件触发、异步执行等等。 它解决的是，当AI能干的活越来越多，人被迫在不同任务之间来回切换，越来越像AI的项目经理的当下，而人的注意力反而成为了harness的瓶颈。 解放人脑现在成为了一个更重要的问题，而他们想从工程学上解决这个问题。 DeepSeek这套Agent架构，有什么不同？ 要让AI持续参与工作，需要回答四个问题。 第一个问题：同时有多件事，怎么一起干？ 假设团队同时提出三个需求：修复",
+    "id": "news--1793550038000",
+    "title": " 中国建材企业，为什么在非洲一座接一座建厂？ ",
+    "link": "https://www.huxiu.com/article/4902130.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 10月29日，科达制造宣布了一笔新的海外投资：1.127亿美元，在肯尼亚建设一座浮法玻璃厂。 工厂计划2026年12月开工，设计日产玻璃600吨。按一年330天生产计算，理论年产能接近20万吨。 这是一项仍在筹备、尚需当地审批的投资。 比较有意思的是，这家中国企业此前已经在非洲建了不少瓷砖厂，如今又开始扩大玻璃、洁具业务。 而在非洲，忙着建厂的中国建材企业远不止科达一家。 西部水泥2026年半年报显示，其在埃塞俄比亚的Lemi水泥厂，上半年销售水泥及熟料199万吨，平均售价437元/吨，平均吨毛利189元。 这座2024年投产的工厂，设计水泥年产能约500万吨，已经成为埃塞俄比亚重要的水泥生产基地。 华新建材则走了另一条路线。2025年收购尼日利亚Lafarge Africa后，获得当地四座水泥厂、1050万吨年产能，并继续经营其在非洲其他国家的水泥业务。 北新建材也在坦桑尼亚经营石膏板工厂，年产能1500万平方米，面向当地及周边东非市场销售。 水泥、瓷砖、玻璃、石膏板。几家中国企业正在不同非洲国家建设或经营建材生产基地。 意大利陶瓷机械协会研究机构MECS-Acimac的统计显示，2025年非洲瓷砖产量达到13.19亿平方米，同比增长26%，一年增加了2.72亿平方米。 埃及、阿尔及利亚、尼日利亚和加纳，已经成为非洲",
     "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -172,11 +170,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-days-left-how-techcrunch-founder-summit-helps-you-make-mor-1793482567000",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-    "publishedAt": "2026-10-31",
+    "id": "news-binance-resumes-withdrawals-following-6-3-billion-breach-1793550010000",
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+    "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -199,10 +197,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jev-1793506717000",
-    "title": "Jev新成果，再次引爆开源",
-    "link": "https://www.qbitai.com/2026/11/506922.html",
-    "summary": "再次“性价比屠夫”",
+    "id": "news-ai-1793520157000",
+    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+    "link": "https://www.qbitai.com/2026/11/507031.html",
+    "summary": "让AI像牛顿一样思考",
     "publishedAt": "2026-11-01",
     "source": "量子位",
     "tags": [
@@ -212,17 +210,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-2000-fde-1793534795000",
-    "title": " 2万报价被还到2000：我的FDE 朋友决定回去上班了 ",
-    "link": "https://www.huxiu.com/article/4902104.html?f=rss",
-    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《2 万报价被还到 2000：我的 FDE 朋友决定回去上班了》 一位资深的FDE朋友告诉我，他已经决定放弃FDE创业，回企业上班了。 至于原因，他给我讲了一件真事：一位客户找他做一个AI项目，他报价2万，结果对方果断还价2000。他无奈回复客户：2000块连AI工具的成本都不够。 朋友说：这2年FDE做下来，收入还不如打工，所以果断止损了。 另一位FDE朋友也给我说：做FDE其实不赚钱，因为企业的要求很高，但又不愿意给匹配的费用。而市场上真正赚到钱的FDE，其实大部分都是卖培训，或者卖FDE的课程。 他甚至半开玩笑的说：FDE之所以这么火，是因为老板们觉得FDE便宜，毕竟他们一个人搭配一群Agent，就能干一个团队的活！ FDE为什么这么火爆？一方面确实是企业AI落地的需求很旺盛，但更重要的一点在于：大家都低估了FDE的门槛，高估了FDE的收益。 很多人都以为，哪怕自己不懂技术，也能通过掌握AI工具成为FDE，帮助企业做AI落地，吃到这一波AI红利。 但他们的梦想能成真吗？ 支撑一人FDE的基础有2点。 首先是AI扩大了人的能力边界。比如，有了AI，我们只要写好了PRD，就能让AI自动生成代码。 其次就是AI提高了软件研发的效率。不管是写PRD，还是写代码，有了AI的辅助，效率都能有10倍的提升。 但深究下来，这2点其",
+    "id": "news--1793549487000",
+    "title": " 吴恺之死与那个暗恶的世界 ",
+    "link": "https://www.huxiu.com/article/4902132.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《吴恺之死与那个暗恶的世界 || 大视野》 10月27日，界面新闻刊发了《自媒体人“徽剑”已于2年前遭买凶遇害，曾公开举报电诈大佬刘忍》，看过后，内心久久不能平静。 我日常为文，集中于经济，较少涉及社会新闻。 这一次，觉得不写点什么，心放不下。 因曝光犯罪团伙罪行被害 “徽剑”真名为吴恺，安徽人。无论是2010年创办深圳市徽剑网络科技有限公司，还是后来创办微信公众号“徽剑”，他对外用的名字都是徽剑，真名反而不为人知。 2024年7月底到8月，他在公众号发文和公开征集证据，指控柬埔寨太子集团骨干、“柬埔寨安徽商会”会长刘忍涉嫌赌场暴力放贷、殴打致死装修老板、收取商铺保护费、运营电诈园区、武装化跨国犯罪等。结果被犯罪团伙盯上，买凶将其劫持杀害。 太子集团老板陈志，1987年出生于福州连江，2000年前后辍学，在网吧当网管，后来靠做黑客攻击《传奇》游戏私服起家。2014年，他入籍柬埔寨。在柬期间，他担任董事长的太子集团涉足房地产、金融投资及博彩业，并通过伪造高薪职位诱骗劳工，将他们非法拘禁在西港等地的封闭园区内，胁迫他们从事加密货币“杀猪盘”诈骗活动。在本质上，太子集团是一家大型跨境赌诈犯罪集团。 2025年10月14日，美国司法部正式起诉陈志，指控其涉嫌策划一场涉及强迫劳动的跨国“杀猪盘”加密货币骗局，并直接查扣了与他有关的12",
     "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -252,11 +249,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-1793481423000",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "publishedAt": "2026-10-31",
+    "id": "news-pixel-11-pro-fold-sturdy-rectangle-in-a-wide-wide-world-1793545200000",
+    "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+    "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+    "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+    "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -280,11 +277,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-agent-1793454584000",
-    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-    "link": "https://www.qbitai.com/2026/10/506904.html",
-    "summary": "AI已经自己找到Bug并提交PR",
-    "publishedAt": "2026-10-31",
+    "id": "news--1793519457000",
+    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "link": "https://www.qbitai.com/2026/11/506990.html",
+    "summary": "这事还是想得太简单了",
+    "publishedAt": "2026-11-01",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,16 +290,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793534641000",
-    "title": " 宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单 ",
-    "link": "https://www.huxiu.com/article/4902103.html?f=rss",
-    "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《深度丨宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单》 宇树上市后的第一份季报，把具身智能行业的两种速度摆在了一起：机器人卖得更多了，每一元收入留下的利润却在减少。 10月28日晚，宇树披露三季报，也是上市以来的首份财报。2026年第三季度，宇树收入同比增长近七成，归母净利润却同比下降17.37%，环比下降近一半。研发投入加速，销售费用增加，竞争也从机器人本体延伸到了模型、开发者和产业投资。上市为宇树补充了资金，它正在更快地把这些钱投入下一轮竞争。 研发投入的方向则比较明确。公司表示，新增投入主要涉及具身大模型、算力、研发团队和新产品。这揭示了宇树所处的位置：它已经建立起可以销售、可以盈利的机器人产品业务；要进一步让机器人理解任务、适应环境并持续完成工作，还需要一套持续投入的能力。硬件上的积累可以降低这段路的起点，却无法免掉模型、数据和算力的账单。 收入继续增长，第三季度利润同比、环比双降 先看累计数据。2026年前三季度，宇树实现收入18.17亿元，同比增长55.71%；归母净利润3.87亿元，同比增长270.54%。但扣除非经常性损益后，归母净利润为3.49亿元，同比下降18.78%。 图表备注：数据采用本期三季报的比较口径；2025年前三季度扣非利润为根据披露同比幅度倒算的约数。毛利率据营业",
+    "id": "news-ai-1793549486000",
+    "title": " 如果AI解开了世界难题，人类数学家还剩下什么？ ",
+    "link": "https://www.huxiu.com/article/4902131.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：Irene Zhou 继知名数学家陶哲轩公开批评OpenAI后，近期另一位新晋菲尔茨奖得主邓煜也炮轰OpenAI——不能你蒸馏了全世界，不让别人来蒸馏你。 随着顶级模型公司不断破解世界级数学难题，数学家们集体破防。 邓煜近期提出的观点大意是，AI公司在构建大模型时，通过“知识蒸馏”或抓取全人类的网络文献、学术论文与知识库来训练自己。然而，当外界或同行希望了解模型的推理过程（即“思维链”）时，这些公司却以“防止被蒸馏”为由进行全方位加密和拒绝公开。 邓煜直言：“你不能在只有你蒸馏全人类的网络文献、全人类的知识的时候，就大大方方地去蒸馏；然后觉得别人想要了解一下思维链，就开始说这个不行、那个不行。” 早在9月，陶哲轩等25位菲尔兹奖得主就发表联合声明《人工智能在数学中的严重错位》，引发全球关注。 核心信息是，大语言模型（LLM）的数学能力大幅提升，已经能够解决多个数学领域中重要未决问题。数学这个职业最宝贵的资源是学生和思想，而模型公司以“结果”驱动的行为毁坏了数学研究的“过程”。声明反对AI公司把破解难题当作算力军备竞赛式的性能展示，跳过人类消化、提炼、传承的关键步骤。 然而，AI浪潮是既定事实，更是势不可挡。 笔者近阶段采访了多位在美国高校任职的知名数学家。例如，华盛顿大学的数学系博士、Rutgers罗格斯统计系副教授韩启阳，他多次斩获来自美",
     "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -332,11 +330,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-lowers-funding-target-for-new-round-1793463175000",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "publishedAt": "2026-10-31",
+    "id": "news-here-s-what-8216-renoa-8217-the-first-new-fiber-in-25-years--1793541600000",
+    "title": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+    "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+    "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+    "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -358,31 +356,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8g-ipad-12g-1793423870000",
-    "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-    "link": "https://www.qbitai.com/2026/10/506884.html",
-    "summary": "苹果“牛奶倒河里”式操作翻红",
-    "publishedAt": "2026-10-31",
+    "id": "news-jev-1793506717000",
+    "title": "Jev新成果，再次引爆开源",
+    "link": "https://www.qbitai.com/2026/11/506922.html",
+    "summary": "再次“性价比屠夫”",
+    "publishedAt": "2026-11-01",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1793531947000",
-    "title": " AI抄袭者正在全力毁灭游戏行业 ",
-    "link": "https://www.huxiu.com/article/4902093.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 不要高估AI抄袭者的下限。 这一阵，AI抄袭的事儿传得是沸沸扬扬，闹得是人心惶惶。 我只能说，事情可能比大多数人想象的还更严重一些。 在AI变得更加好用，甚至一句话可以许愿出一个游戏的时候，自然会有人开始发动鬼脑。如果不是有一批独游创作者发声，可能大部分普通人还没意识到，AI已经被滥用成这样了。 今年早些时候，瑞典有一名独游创作者Freya Holmér，曾在X上分享过一段旋转俄罗斯方块的玩法原型视频。当时Freya纯粹是很朴实地分享一下创意，连具体规则都没想好。结果不到五小时，就有人用AI把Demo跑出来了，你说气不气？ 类似的事情实在不少，尤其是偏休闲/创意类的玩法，不管发没发过Demo，只要有一段视频演示、开发录像甚至一张图，就有可能被迅速照搬。海外管这个叫「克隆」，还挺贴切的…… 比如有个叫《大海捞针模拟器》的游戏，玩法是在稻草堆里找一根针，在X上有5000万播放。这个视频一火，Steam上就冒出来一打复刻品，其中一部分还专门标注了使用AI辅助开发。这个时候，原作者甚至还没发布Demo。 这些破事儿一多，越来越多的创作者开始噤若寒蝉——日本游戏制作人林風肖此前曾宣布，他们的《酒鬼女神的酒诡》不再发布免费试玩Demo，改成小规模抽签试玩；知名Roguelike游戏《Moonlighter》团队的新作《ReVamp》也宣布了取",
-    "publishedAt": "2026-11-01",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai",
-      "organization"
     ]
   },
   {
@@ -979,4 +962,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-01T12:37:05.297Z';
+export const dataFetchedAt = '2026-11-01T21:38:42.298Z';
