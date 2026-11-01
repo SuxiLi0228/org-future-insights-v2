@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-lowers-funding-target-for-new-round-1793463175000",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "publishedAt": "2026-10-31",
+    "id": "news-data-centers-are-now-a-midterm-issue-even-in-brooklyn-1793499730000",
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "publishedAt": "2026-11-01",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -31,6 +31,84 @@ export const generatedNews: NewsItem[] = [
     "title": "Week in review: ‘Karen’ comment doesn’t show discrimination, judge says",
     "link": "https://www.hrdive.com/news/karen-comment-doesnt-show-discrimination/873355/",
     "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
+    "publishedAt": "2026-10-30",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-deepseek-agent-1793454584000",
+    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+    "link": "https://www.qbitai.com/2026/10/506904.html",
+    "summary": "AI已经自己找到Bug并提交PR",
+    "publishedAt": "2026-10-31",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793505170000",
+    "title": " 看个电视咋就这么难 ",
+    "link": "https://www.huxiu.com/article/4902049.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：宋馥李 原因当然不是“界面设计得不好”，其背后是一场围绕客厅大屏流量入口的利益争夺。可以说，这条数字鸿沟，不是技术自然演化出来的，而是被人为制造出来的。 去年除夕夜，隔壁邻居一对老夫妇敲门求助。二老想看春节联欢晚会，握着遥控器摸索半天，没找到直播入口。前一天，小孙子在家时进了儿童专区点播动画片，付费页面一直停留在原处；孩子不在跟前，老人面对的便是一道看不懂的界面。我接过遥控器，在层层嵌套的菜单和付费通道前也费了很大劲才搞掂。连我这个“年轻人”尚且如此，何况老人。 电视本是最日常、最普惠的家庭媒介，对老年人而言，常常是获取信息、陪伴生活的重要窗口。可一些运营商和终端厂商，正把这块屏幕变成让人望而生畏的迷宫：打开电视，先被开机广告拦截；想找回直播，往往要先从OTT首页——那个以点播内容为主的互联网界面层层退出，再切换机顶盒的直播画面（HDMI信号源）。误点一下，很可能就跳转至付费页面。久而久之，老人背上“怕按错、怕扣钱、不敢碰”的心理负担，看电视反过来需要儿孙辈帮忙，甚至干脆放弃。 针对这些痛点，国家广播电视总局发布《有线广播电视运营服务管理规定》（下称《规定》），从11月27日起施行。新规把电视“套娃”收费和操作复杂治理固化为长期制度：开机看全屏直播、不得播放开机广告、简化遥控操作并实现一键切换直播信源、首页设置免费专区、精简收费栏目并明示收",
+    "publishedAt": "2026-11-01",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793504006000",
+    "title": "野人先生获黑蚁资本投资，或将启动海外扩张",
+    "link": "https://www.tmtpost.com/8188017.html",
+    "summary": "如果野人先生能够验证适配海外市场的产品与门店模型，有望打开新的增长曲线。",
+    "publishedAt": "2026-11-01",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eating-disorders-are-on-the-rise-glp-1s-could-make-things-wo-1793350800000",
+    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
+    "publishedAt": "2026-10-30",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s--1793482860000",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "publishedAt": "2026-10-31",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dol-finalizes-sweeping-pharmacy-benefit-manager-disclosure-r-1793383260000",
+    "title": "DOL finalizes sweeping pharmacy benefit manager disclosure rule",
+    "link": "https://www.hrdive.com/news/pbm-transparency-final-rule-labor-department-employer/873318/",
+    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients.",
     "publishedAt": "2026-10-30",
     "source": "HR Dive",
     "tags": [
@@ -53,11 +131,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agent-1793474431000",
-    "title": " 从选模型到派任务，我的多Agent 工作流走到哪一步 ",
-    "link": "https://www.huxiu.com/article/4902023.html?f=rss",
-    "summary": "本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《从选模型到派任务，我的多 Agent 工作流走到哪一步》 头条《当Agent能同时干活，谁来守住人的注意力》谈的是DeepSeek的Super-agent设计：任务多起来以后，系统需要接住分派与交接，把验收节点清楚地留给人。读到这里，我先想到自己每天在几个AI窗口之间来回切换的麻烦。 一篇稿子要查资料、改文字、做图，可能由不同工具接力。换个窗口继续做，就要重新说一遍：哪份是当前稿，哪些判断查过来源，排完版能不能发。即使只用两款AI，这种交接也不会自动发生。写稿的一部分动作交给了工具，补背景、核对状态仍要人来做。 我的工作还经常在内容、代码和资料整理之间切换，macOS上同时用Cursor、Codex、DSH和Claude Code。用得越多，越能看清这是两件不同的事：一次请求该发给哪个模型？一项任务该交给哪个Agent负责、做完由谁验收？我先搭了前一层，后来才开始给后一层立规矩——选对模型只管单次调用去哪，管住派活和交接，人才能从窗口切换里抽身。 处理第一个问题时，我把本机接入拆成了两个端口服务：8081是决策与能力网关，8082是模型聚合出口。请求先按入口别名划定出站许可——hybrid-auto是严格本地的API别名，hybrid-auto-cloud才允许把云端列为候选（因此DSH Web的智能",
-    "publishedAt": "2026-10-31",
+    "id": "news-1-32-5-1793502287000",
+    "title": " 美国前1%家庭，已坐拥32.5%财富 ",
+    "link": "https://www.huxiu.com/article/4901946.html?f=rss",
+    "summary": "本文来自微信公众号： 格隆 ，作者：城北徐公，题图来自：AI生成 10月29日，美国商务部同时公布了两份经济报告。 第一份是三季度GDP。 美国实际GDP环比折年率增长3.4%，高于二季度的2.2%。按照当季季调年率计算，美国名义GDP已经达到33.01万亿美元。 第二份是9月份居民收入和消费报告。 美国居民名义可支配收入环比增长0.2%，但扣除物价因素后，实际可支配收入下降0.3%。PCE物价指数同比上涨3.6%，高于8月份的3.4%。 矛盾显而易见： 经济加速增长，普通人的实际收入却在下降。 这种分化如果持续，就可能改变美国未来经济增长的结构，甚至影响全球资本市场的定价逻辑。 更关键的是，如此矛盾，必然不仅限于现在、仅存在于某一国，而是具备明显的普遍性。 谁又不是这样呢？ 一 首先要弄清楚，GDP增速上升的来源。 按照BEA公布的GDP增长贡献数据，三季度美国居民消费贡献了2.52%，私人国内投资3.27%，政府消费和投资0.9%，而净出口拖累了3.32%。 最显著的变化来自私人投资。 第二季度私人投资仅贡献0.82%，第三季度迅速增加至3.27%。 三季度非住宅固定投资对GDP增长贡献了1.78%，其中设备投资贡献1.16%，知识产权产品投资贡献0.47%。 BEA在GDP技术说明中明确指出，设备投资增长主要受到信息处理设备推动，尤其是计算机及其外围设备。 这与美国科技企业近",
+    "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,91 +145,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-ai-1793452546000",
-    "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
-    "link": "https://www.tmtpost.com/8188863.html",
-    "summary": "新旧动能加速切换。",
-    "publishedAt": "2026-10-31",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eating-disorders-are-on-the-rise-glp-1s-could-make-things-wo-1793350800000",
-    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
-    "publishedAt": "2026-10-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-from-restaurant-guides-to-payments-here-s-how-tiktok-is-buil-1793461317000",
-    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-    "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-    "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-    "publishedAt": "2026-10-31",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-dol-finalizes-sweeping-pharmacy-benefit-manager-disclosure-r-1793383260000",
-    "title": "DOL finalizes sweeping pharmacy benefit manager disclosure rule",
-    "link": "https://www.hrdive.com/news/pbm-transparency-final-rule-labor-department-employer/873318/",
-    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients.",
-    "publishedAt": "2026-10-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-npu700tops-99-1793423479000",
-    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-    "link": "https://www.qbitai.com/2026/10/506866.html",
-    "summary": "AI算力利用“九九成”",
-    "publishedAt": "2026-10-31",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-agent-1793474145000",
-    "title": " 当Agent 能同时干活，谁来守住人的注意力 ",
-    "link": "https://www.huxiu.com/article/4902022.html?f=rss",
-    "summary": "本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《当 Agent 能同时干活，谁来守住人的注意力》 设想一个研发团队的工作日：群聊里有人报了问题，一条Pull Request收到评审意见，另有一项任务等着验收。 每件事单独交给Agent，未必困难。难的是人要记住各自走到哪一步、哪条新消息属于哪项任务、什么时候需要自己出面。 DeepSeek Harness团队在《Super-agent设计探索》和随文开源的研究原型中，直指问题卡点：单任务的上限更多取决于模型，多任务的上限会碰到人的注意力。 他们尝试让系统接管任务分派、上下文衔接和异常恢复，使人不用一直守着多个对话窗口。 我更关心其中的边界：何时接手、做到哪一步、何时安静等待、何时请人拍板。这些事若说不清，Agent越主动，人越要替它收拾乱动和串线。 原文把工作分给两层： 常驻的Router接收来自聊天、GitHub等渠道的信息，维持任务之间的关联，并把具体工作交给彼此隔离的Worker。 Worker处理任务，再向Router汇报；对外沟通由Router统一负责。 这解决了一个很实际的麻烦。如果所有任务挤在一个会话里，长任务会挡住新消息，细节也容易串线。如果每条消息都新开会话，人又得自己把背景重新拼起来。 Router／Worker的分工把这两种负担从使用者手里接过去。它也意味着Router的职责必",
-    "publishedAt": "2026-10-31",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ipo-1793449352000",
-    "title": "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收",
-    "link": "https://www.tmtpost.com/8188178.html",
-    "summary": "对大客户议价能力弱，致业务毛利率下滑。",
-    "publishedAt": "2026-10-31",
+    "id": "news-6700-apple-apple-anthropic-ipo-ant-1793503947000",
+    "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+    "link": "https://www.tmtpost.com/8188997.html",
+    "summary": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点...",
+    "publishedAt": "2026-11-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -173,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-took-two-iphones-on-vacation-the-duo-won-me-over-1793455200000",
-    "title": "I took two iPhones on vacation. The Duo won me over.",
-    "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-    "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+    "id": "news-4-days-left-how-techcrunch-founder-summit-helps-you-make-mor-1793482567000",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
@@ -200,10 +198,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-claude-5-ultra-1793423129000",
-    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-    "link": "https://www.qbitai.com/2026/10/506855.html",
-    "summary": "200美元Ultra用户先用",
+    "id": "news-npu700tops-99-1793423479000",
+    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+    "link": "https://www.qbitai.com/2026/10/506866.html",
+    "summary": "AI算力利用“九九成”",
     "publishedAt": "2026-10-31",
     "source": "量子位",
     "tags": [
@@ -213,24 +211,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793462971000",
-    "title": " 红叶经济为什么这样红？：县域文旅的新逻辑 ",
-    "link": "https://www.huxiu.com/article/4902020.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：刘泽瑜，原文标题：《红叶经济为什么这样红？——县域文旅的新逻辑》 9月28日西安到安康的西康高铁开通，秦岭深处的商洛市柞水县首次接入全国高铁网。从西安东站到柞水的牛背梁站，最快仅需16分钟，出站后驱车10分钟左右就能抵达秦楚古道景区山脚。 国庆假期至今，古道登山步道上始终人流不息，早班高铁票时常售罄。人们专程赶来循着千年石阶徒步登山，漫山渐变的红叶与壮阔的秦岭秋景，是所有人奔赴的核心目的地。受持续走高的客流影响，10月24日起秦楚古道景区已正式启动线上预约机制，引导游客错峰进山。 一条古道的走红并没有依赖大手笔的营销投放，更多来自普通游客的自发分享。徒步爱好者随手拍下沿途红叶、古道遗迹与山巅视野发在短视频平台，一条日常徒步记录就可能引来上万次转发，源源不断吸引着周边城市的年轻人奔赴山野，也倒逼当地同步完善停车、接驳、步道疏导等配套，接住这股突如其来的热度。 秦楚古道的变化，是当下全国红叶经济的一个鲜活缩影。 在长途游降温、城市周边微度假成为消费主流的背景下，山野秋色正在成为县域文旅最普适的切口。不止秦岭，从大巴山到三峡，从太行到皖南，每到深秋，红叶都会带动一波文旅热潮。只是今天的红叶经济，早已不再是办个节庆、卖张门票的简单模式。从拼资源到拼运营，从靠天吃饭到主动造局，从单次打卡到长期留客，一片红叶的生长路径，恰恰照见了中国县域文旅走向成熟的",
-    "publishedAt": "2026-10-31",
+    "id": "news-ai-pcb-1793501849000",
+    "title": " AI的“火”，PCB三季报接住了 ",
+    "link": "https://www.huxiu.com/article/4902042.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：陆婷婷 2026年三季报落定，印刷电路板（PCB）行业长期绑定消费电子周期的旧范式正被改写。AI算力基建拉动高端PCB需求扩容的逻辑，在多家上市公司财报中得到清晰印证，AI服务器、高速交换机、光模块与IC载板相关订单持续放量，成为支撑板块盈利上行的核心变量。 AI相关需求持续升温，推动PCB行业加快向高频高速、高多层、高阶HDI等高端方向升级，但短期内带来的供应链压力不容忽视。有产业链企业向财联社记者透露，当前公司HDI及高多层PCB存量产线订单饱满，订单量超过了现有产能承接上限，已启动新一轮扩产。 与此同时，上游原材料供给紧俏及成本扰动仍在延续。这意味着，在AI结构性行情之下，能否绑定核心赛道，并实现高端产能有序释放和成本有效传导，将是PCB企业未来在竞争中能否胜出的关键。 概念股业绩飘红 从三季报数据看，产业链头部厂商盈利弹性显著释放，多家核心公司明确将本次业绩增长归因于AI算力等需求的持续影响。 具体到个股层面，生益科技(600183.SH)以67.27亿元的前三季度归母净利润领跑板块，同比增幅达175.36%；紧随其后，主力产品为企业通讯市场板（面向数据中心交换机与AI服务器）的沪电股份(002463.SZ)，前三季度归母净利润同比增长106.87%至56.22亿元。 深南电路（002916.SZ）、生益电子(688183.SH)、景旺",
+    "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1793449281000",
-    "title": "蔚来的“三个聚焦”：为规模幻觉买单之后",
-    "link": "https://www.tmtpost.com/8187393.html",
-    "summary": "蔚来战略退守聚焦高端，收缩求存待破局。",
-    "publishedAt": "2026-10-31",
+    "id": "news-50-1793502648000",
+    "title": "一瓶芭乐汁含50克碳水，清蓝的“健康叙事”还能说服多少人？",
+    "link": "https://www.tmtpost.com/8188946.html",
+    "summary": "新品动销受阻。",
+    "publishedAt": "2026-11-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -252,10 +251,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pile-ins-payouts-and-pacing-pressure-the-investors-behind-th-1793420210000",
-    "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-    "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-    "summary": "The money behind the money is thrilled, mostly.",
+    "id": "news-judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-1793481423000",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
@@ -280,11 +279,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793365111000",
-    "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-    "link": "https://www.qbitai.com/2026/10/506819.html",
-    "summary": "xs，还要给机器人打绩效",
-    "publishedAt": "2026-10-30",
+    "id": "news-claude-5-ultra-1793423129000",
+    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "link": "https://www.qbitai.com/2026/10/506855.html",
+    "summary": "200美元Ultra用户先用",
+    "publishedAt": "2026-10-31",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793462668000",
-    "title": " 请停止赞美技术的“无人化” ",
-    "link": "https://www.huxiu.com/article/4902018.html?f=rss",
-    "summary": "本文来自微信公众号： 刀客Doc ，作者：刀客Doc 这几天看老干妈的风波，我想起一年前《纽约时报》关于亚马逊的一篇报道。 报道援引的内部文件显示，亚马逊曾研究通过自动化提高运营效率，文件还专门讨论了技术应该怎样对外表达。 比如，尽量少用“自动化”和“AI”，更多使用“先进技术”；把“机器人”称为“协作机器人”。亚马逊后来回应，这些只是个别团队的讨论。 我对这段措辞上的斟酌很感兴趣。 技术发展到今天，企业越来越关心机器能替人完成多少工作。工厂里的机械臂、仓库里的自动分拣系统、街头的自动配送车，确实让很多过去繁重、重复甚至危险的劳动变得轻松。 这当然是技术进步。 但不知道从什么时候开始，我们越来越习惯用“无人”来形容这种进步。 无人驾驶、无人工厂、无人仓库、无人配送。 这些词朗朗上口，放在产品发布会的大屏幕上，也足够醒目。一个“无人”，仿佛就能说明技术有多先进、效率有多高。 可仔细想想，这个说法多少有些奇怪。 一家工厂的技术水平，为什么要通过里面还有多少人来衡量？一套物流系统的先进程度，为什么要用人是否退出现场来证明？ 机器替人干苦活，是工业文明最重要的成果之一。技术值得骄傲的地方，是让劳动更安全、让生产更有效率，让人有机会从重复和危险的工作中解放出来，去做更有价值的事情。 前段时间，清华大学教授柳冠中提出一个问题：如果没有人类和人类需求，AI又有什么意义？ 我觉得这句话说得特别好。",
-    "publishedAt": "2026-10-31",
+    "id": "news-ai-1793500101000",
+    "title": " AI陪伴卖出去了，为什么生意仍然可能做不下去？ ",
+    "link": "https://www.huxiu.com/article/4902039.html?f=rss",
+    "summary": "本文来自微信公众号： 倔牛聊陪伴AI ，作者：倔牛聊陪伴AI 陪伴Agent研究·第二季「银发AI陪伴商业研究」·第06篇 2025年12月，上海的AI情感陪伴机器人“悠妮”进入康复辅助器具社区租赁目录。价格挺便宜，两个月160元，三个月240元。据企业联合创始人方禹杨介绍，产品上线首日就租出了两台。 对于一款刚刚进入社区租赁体系的AI陪伴机器人来说，这算是有了一个开始。不过，看到这个价格，我想到的第一个问题是：两个月160元，这笔生意究竟能不能赚钱？ 假设一家租赁服务机构已经把机器人送到老人家里，老人也付了租金。接下来两个月，机器人需要正常运行，老人还可能需要使用指导和售后帮助。 到了租期结束，老人如果不想继续租，服务机构又得把设备收回来，寻找下一位客户。如果老人很喜欢，每天聊上两三个小时呢？持续使用AI服务，同样可能需要企业付出费用。 你看，一台机器人租出去了，接下来的经营问题才刚刚开始。 上一篇，我们研究了怎样找到客户、让顾客愿意购买，以及如何把产品真正交到老人手里。 这次我想继续往下研究：银发AI陪伴已经产生了真实交易，但企业究竟靠什么把这门生意长期经营下去？ 01｜机器人买回家了，老人还会继续用么？ 先来看一个我们之前提过的案例：上海杨先生为父亲租赁AI情感陪伴机器人的经历。 杨先生的父亲患有轻度阿尔茨海默病，已经住进养老院。杨先生希望机器人能够帮助父亲联系家人，平时也能",
+    "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -307,11 +306,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793449103000",
-    "title": "相比二代掌权的通化东宝，甘李药业更像一家创新药企",
-    "link": "https://www.tmtpost.com/8187864.html",
-    "summary": "两种交棒方式。",
-    "publishedAt": "2026-10-31",
+    "id": "news-agility-robotics-1793502645000",
+    "title": "人形机器人的第一份公账，Agility Robotics  上市前夜的深度解析",
+    "link": "https://www.tmtpost.com/8188901.html",
+    "summary": "Agility Robotics 将于 11 月 5 日以「AGLT」登陆纳斯达克。全球首家在美股挂牌、且拥有真实商用人形部署的\"纯血\"公司。",
+    "publishedAt": "2026-11-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -333,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent-1793409605000",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "id": "news-openai-reportedly-lowers-funding-target-for-new-round-1793463175000",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
     "publishedAt": "2026-10-31",
     "source": "TechCrunch",
     "tags": [
@@ -359,10 +358,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-deepseek-9-8-1793358306000",
-    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-    "link": "https://www.qbitai.com/2026/10/506785.html",
-    "summary": "之前还连登昇腾三榜第一",
+    "id": "news--1793365111000",
+    "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+    "link": "https://www.qbitai.com/2026/10/506819.html",
+    "summary": "xs，还要给机器人打绩效",
     "publishedAt": "2026-10-30",
     "source": "量子位",
     "tags": [
@@ -372,24 +371,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793462485000",
-    "title": " 内娱进入“大中剧”时代 ",
-    "link": "https://www.huxiu.com/article/4902019.html?f=rss",
-    "summary": "本文来自微信公众号： AKA桃叨叨 ，作者：AKA桃叨叨 内娱加速进入中短剧集时代，已初见模型。 严浩翔、欧阳娣娣主演的《仿生迷踪》挤爆预约通道。 金瀚《繁华落尽》第一季分账破3300万，第二季刚杀青。 叶祖新的新剧《华灯起》也因好状态吸引不少路人。 长信传媒出品，张慧雯主演的《鉴定》定档11月1日优酷播出。 高叶、韩东君主演的《蒸蒸日上》，腾讯爱奇艺双平台分账破3000万。 单集15到25分钟，制作对标长剧、靠分账跑出千万票房、明星和头部团队纷纷下场，中短剧集从所谓的“短剧升级版”或是“长剧平替”，长成了各大平台越发重视的独立赛道。 第九届初心榜青年视听展，平台、影视公司都在热议中短剧集赛道，这波从内容形态到商业模式的升级，现状如何？未来还能如何加码？叨叨这就结合各大平台最新出炉的片单聊一聊！ 分账五千万，中剧战绩可查 遥想2025年，头部中短剧集以“大制作”之姿面市。 先说传统概念的中剧，《朱雀堂》作为TOP1，在腾讯爱奇艺拿到4500万票房。今年8月上线、张一山主演的《重案六组：消失的警号》，仅用2个月就在爱奇艺突破5000万票房。 今年前三个季度，上星的中剧有75部，公开分账的票房累计分账5.7亿元，其中20部票房是破千万。优爱腾芒B各有打法，千万票房梯队已成型，中剧的商业能力得到证实。 腾讯入局早、打法较稳：不押注单一题材，全品类覆盖，同时把“系列化开发”做好。 女频把爆",
-    "publishedAt": "2026-10-31",
+    "id": "news-60-1793499340000",
+    "title": " 股价反弹超60%，宇树能否撑起增长预期？ ",
+    "link": "https://www.huxiu.com/article/4902038.html?f=rss",
+    "summary": "本文来自微信公众号： 豹变 ，作者：张经纬，编辑：邢昀 收入增长、利润下滑，宇树正在押注什么？ 经历上市后股价大幅回撤，宇树科技在10月中旬重新走强。自10月15日起的十个交易日，宇树股价反弹超过60%，市值回到2500亿元以上。 二级市场热情回归，但实际情况没有那么简单，背后更多原因在于宇树的流通盘小，更容易受资金拉动抬升。 与此同时，宇树在11月28日交出三季度成绩单，这是公司上市以来的首轮业绩报告，外界也期望从中寻找支撑这家机器人头部公司估值增长与盈利能力的信号。 前三季度宇树呈现出收入和利润增长不同步的情况。收入18.17亿元，同比增长55.71%；扣非归母净利润为3.49亿元，同比下降18.78%。 机器人卖得更多了，研发与销售费用的快速增长，却让利润承受了压力。 另一方面，在10月22日举行的2026世界物理AI大会上，王兴兴提出宇树未来的三项布局：提升大规模量产能力、推动物理AI模型落地、建设更大规模算力集群，同时搭建“AI自主研发—仿真训练—真实测试—反馈迭代”的机器人自进化体系。 股价从回撤走向回升之后，宇树仍需回答一个问题：持续投入能否带来更大的市场，并最终转化为稳定的盈利？ 增收不增利，钱花在了哪里？ 从宇树科技收入来看，增速依然较高。第三季度单季收入6.65亿元，同比增长69.93%。近三年宇树能持续维持50%以上的收入增长。 值得注意的是，国内大部分券商预",
+    "publishedAt": "2026-11-01",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1793449098000",
-    "title": "欧洲市场中的“国产车”，正在复制日本车的美国故事？",
-    "link": "https://www.tmtpost.com/8188005.html",
-    "summary": "渗透是时间问题。",
-    "publishedAt": "2026-10-31",
+    "id": "news-kpi-1793502640000",
+    "title": "小学生都可以看懂的例子，揭示为什么产销协同消除不了KPI矛盾，反而会引爆它？",
+    "link": "https://www.tmtpost.com/8175288.html",
+    "summary": "各部门KPI全满分，公司ROIC却跌到3%？砸了千亿搞数字化转型，S&OP产销协同为何越开越乱？用极简的“两笔需求三颗料”，当场拆穿管理学的幻觉：KPI根本不是部门冲突，而是物理死锁！",
+    "publishedAt": "2026-11-01",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -978,4 +978,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-10-31T20:56:13.746Z';
+export const dataFetchedAt = '2026-11-01T04:07:06.995Z';
