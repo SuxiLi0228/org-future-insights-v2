@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-04-auto",
+    "date": "2026-11-04",
+    "session": "auto",
+    "title": "2026-11-04 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-04-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+      },
+      {
+        "id": "sig-2026-11-04-auto-2",
+        "emoji": "💡",
+        "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+        "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "detail": "来源: TechCrunch。Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      },
+      {
+        "id": "sig-2026-11-04-auto-3",
+        "emoji": "💡",
+        "title": "HR employee’s bias claims against NYC cathedral fall flat, judge rules",
+        "summary": "The case may demonstrate the importance of documenting performance issues in defending against discrimination litigation.",
+        "detail": "来源: HR Dive。The case may demonstrate the importance of documenting performance issues in defending against discrimination litigation.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/hr-employee-bias-claims-against-nyc-cathedral-fall-flat/873627/"
+      },
+      {
+        "id": "sig-2026-11-04-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Pixel-UMI: Learning Environment-Aware Whole-Body Manipulatio...",
+        "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol",
+        "detail": "作者: Jason Jingzhou Liu, Tony Tao, Deepak Pathak。Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and base targets. Delay-calibrated action assignment converts these trajectories into actions. However, kinematic differences can leave residual pose errors, creating viewpoint mismatches between human demonstrations and robot observations. We therefore introduce Retargeting-Error-Aware Masking (REAM), which uses these errors during training to reduce rel",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.03647v1"
+      },
+      {
+        "id": "sig-2026-11-04-auto-5",
+        "emoji": "💼",
+        "title": "Docusketch 正在招募 AI ML Engineer",
+        "summary": "岗位类型：业务+AI 复合岗。The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer",
+        "detail": "技能要求: Python, PyTorch, Computer Vision。The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer You can be our perfect match About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy With our product bra",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Docusketch"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Docusketch",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-04-1",
+        "priority": "medium",
+        "action": "关注「The Download: controlling AI agents and 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-04-2",
+        "priority": "low",
+        "action": "关注「Anthropic is working on a system to prov」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-04-3",
+        "priority": "low",
+        "action": "关注「HR employee’s bias claims against NYC ca」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-04-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Pixel-UMI: Learning Environment-Awa」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-04-5",
+        "priority": "medium",
+        "action": "关注「Docusketch 正在招募 AI ML Engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Docusketch"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-04 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-11-04 00:00 - 2026-11-04 23:59"
+  },
+  {
     "id": "report-2026-11-03-auto",
     "date": "2026-11-03",
     "session": "auto",

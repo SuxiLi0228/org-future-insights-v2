@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-821-1793692860000",
-    "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
-    "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-    "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+    "id": "news-anthropic-is-working-on-a-system-to-prove-ai-models-8217-ide-1793745663000",
+    "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
     "publishedAt": "2026-11-03",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-make-factory-space-for-workers-with-disabilities-1793653980000",
-    "title": "How to make factory space for workers with disabilities",
-    "link": "https://www.hrdive.com/news/manufacturing-institute-timken-building-disability-friendly-careers-2026/873342/",
-    "summary": "People with disabilities represent one of the largest talent pools manufactuers underutilize, experts said during a Manufacturing Institute webinar.",
-    "publishedAt": "2026-11-02",
+    "id": "news-hr-employee-s-bias-claims-against-nyc-cathedral-fall-flat-ju-1793737860000",
+    "title": "HR employee’s bias claims against NYC cathedral fall flat, judge rules",
+    "link": "https://www.hrdive.com/news/hr-employee-bias-claims-against-nyc-cathedral-fall-flat/873627/",
+    "summary": "The case may demonstrate the importance of documenting performance issues in defending against discrimination litigation.",
+    "publishedAt": "2026-11-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -41,10 +41,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ls8-8-1793710655000",
-    "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-    "link": "https://www.qbitai.com/2026/11/507473.html",
-    "summary": "两位CTO，关起门来吵架",
+    "id": "news-ai-1793714231000",
+    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+    "link": "https://www.qbitai.com/2026/11/507507.html",
+    "summary": "AI接管调度运营，仓库越干越聪明",
     "publishedAt": "2026-11-03",
     "source": "量子位",
     "tags": [
@@ -54,24 +54,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793712135000",
-    "title": " 具身机器人即将进入资本整合期：谁来接盘？ ",
-    "link": "https://www.huxiu.com/article/4902749.html?f=rss",
-    "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月28日，红杉中国与宇树科技共同发起“杉宇·创计划”，寻找具身智能、机器人应用及上下游关键技术的早期项目。 宇树提供工程经验，红杉提供投资体系，双方共同筛选项目。 DeepSeek也在寻找进入物理世界的入口。 据彭博社10月12日报道，DeepSeek拟领投机器人AI公司Winverse AI的数千万美元种子轮，后者拟投后估值约4亿美元。 Winverse AI成立仅数月，创始人胡瀚此前负责腾讯视觉语言模型和具身基础模型研究。 这笔交易尚未最终敲定，但拟议估值已经透露出大模型公司对稀缺团队和机器人“大脑”的定价意愿。 IT桔子数据显示，2026年上半年，国内具身智能与机器人领域共发生288起融资，融资额超过460亿元；另据36氪援引IT桔子统计，约七成资金流向前20家企业。 钛媒体依据公开报道和法院公告统计，2025年2月至2026年9月，破产、解散、清算和业务线关停的机器人公司超过20家。 在《具身机器人，凛冬将至》一文里，潮涌AI具体描述了具身赛道当下的近况，与此同时，潮涌AI认为，具身机器人即将进入资本整合期。接下来，稀缺的机器人“大脑”，以及拥有核心部件技术、数据、工程能力或真实场景的公司，有机会成为收购对象。 头部公司仍有资金，也有补齐能力的需求。 一些公司虽然尚未跑通商业闭环，但团队、技术和数据仍有价值。 对买",
+    "id": "news--1793745474000",
+    "title": " 一架飞往欧洲的宽体货机，只赚了一半的钱 ",
+    "link": "https://www.huxiu.com/article/4902778.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 一架从鄂州起飞的全货机飞往欧洲，去程舱位几乎是满的。服装、鞋帽、手机配件、小家电，打包成一个个跨境电商包裹，压满了主货舱。 十几个小时后，飞机在欧洲落地卸货。返程时，货舱里的东西少了一大半。 “满载而去，空载而归”。这是今年航空货运最典型的一幅画面。 2026年上半年，顺丰国际全货机执飞超过7100个航班，运输货物近27万吨。截至6月底，顺丰在全球运营管理111架全货机，累计开通68条国际全货机航线。鄂州花湖机场上半年国际货运吞吐量同比增长23%。 飞机越飞越多，钱却没有越赚越多。 东航物流上半年航空速运业务收入68.34亿元，同比增长45.34%。同一块业务的毛利，从去年同期的8.89亿元降到8.66亿元。收入多了约21亿元，毛利少了约2300万元，毛利率从18.91%掉到12.68%。 如果毛利率守住去年的水平，这块业务上半年能多赚约4.3亿元。 一、货不够运，钱却难赚 奇怪的是，市场需求依然旺盛。 国际航空运输协会（IATA）10月29日公布，2026年9月全球航空货运需求同比增长7.7%，运力只增长2.7%。 按常理，供不应求时承运人手里应该有很大的定价权。 同一个月，航空燃油价格同比上涨103.4%，货运收益率只上涨25.9%。 需求和运力之间有一道缺口，收益和成本之间有一道更大的缺口。 中国的货机公司正卡在",
     "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-tob-1793703609000",
-    "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
-    "link": "https://www.tmtpost.com/8191692.html",
-    "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
+    "id": "news-ai-1793712790000",
+    "title": "九赴进博，西门子把工业 AI 推上产线",
+    "link": "https://www.tmtpost.com/8192212.html",
+    "summary": "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链），以及40余家企业数智化、低碳化转型与工业AI应用落地案例，彰显“全球经验、本土创新、中国速度”的乘数效应。",
     "publishedAt": "2026-11-03",
     "source": "钛媒体",
     "tags": [
@@ -94,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-watch-8217-s-ai-features-for-rewinding-and-recapping-c-1793690400000",
-    "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "id": "news-data-centers-are-turning-to-old-jet-engines-as-the-wait-for--1793744393000",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
     "publishedAt": "2026-11-03",
     "source": "TechCrunch",
     "tags": [
@@ -107,17 +106,96 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-hr-should-care-about-grand-theft-auto-vi-1793653800000",
-    "title": "Why HR should care about Grand Theft Auto VI",
-    "link": "https://www.hrdive.com/news/gta-6-time-off-work-productivity/873489/",
-    "summary": "This isn&rsquo;t the first time a pop culture phenomenon has tanked worker output.",
-    "publishedAt": "2026-11-02",
+    "id": "news-employee-engagement-falls-to-lowest-level-in-15-years-gallup-1793737860000",
+    "title": "Employee engagement falls to lowest level in 15 years, Gallup finds",
+    "link": "https://www.hrdive.com/news/employee-engagement-falls-to-lowest-level-in-15-years-gallup/873459/",
+    "summary": "The biggest declines came from hybrid and remote employees at companies that had adopted artificial intelligence, according to the pollster.",
+    "publishedAt": "2026-11-03",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ls8-8-1793710655000",
+    "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+    "link": "https://www.qbitai.com/2026/11/507473.html",
+    "summary": "两位CTO，关起门来吵架",
+    "publishedAt": "2026-11-03",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793729817000",
+    "title": " 好莱坞的摄影棚，开始给航空航天腾地方了 ",
+    "link": "https://www.huxiu.com/article/4902777.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 洛杉矶曼哈顿海滩的一座摄影棚，正在寻找新的出路。 过去二十多年，这里曾经为《阿凡达》《曼达洛人》《复仇者联盟》等电影和电视剧搭建场景。如今，投资者开始讨论把这些拍摄科幻电影的摄影棚，改造成生产航空航天设备和国防产品的工厂。 这座名叫Manhattan Beach Studios（MBS）的影视基地，拥有15座摄影棚。 今年6月5日，洛杉矶县登记了一份贷款违约通知。涉及MBS的债务约为2.576亿美元，债权人开始推动资产处置。 一个月后，《好莱坞报道者》援引参与交易的人士透露，一家工业企业已经对MBS提出提前收购报价。买家计划拆除或改造园区内的15座摄影棚，并不打算继续经营影视拍摄业务。 7月16日，彭博社披露，负责出售约2.4亿美元抵押贷款的高纬环球，正把MBS向先进制造领域投资者推介。交易材料特别强调，这座22英亩的摄影棚园区位于洛杉矶航空航天产业走廊，周边聚集着SpaceX、诺斯罗普·格鲁曼等企业。 当时，MBS还有至少四个潜在新租户正在洽谈租赁，涉及先进制造、航空航天、3D打印和数据存储等领域。 8月3日，《洛杉矶商业期刊》采访了负责交易的高纬环球执行副董事长Mike Condon。他解释，潜在买家主要是房地产投资者，计划购入资产、完成改造，再将空间出租给航空航天和其他先进制造企业。 这可能是好莱坞产业收缩中，一",
+    "publishedAt": "2026-11-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tob-1793703609000",
+    "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+    "link": "https://www.tmtpost.com/8191692.html",
+    "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
+    "publishedAt": "2026-11-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-here-s-who-is-falling-in-line-for-trump-s-super-intelligence-1793679527000",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+    "publishedAt": "2026-11-03",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ted-schlein-8217-s-ballistic-ventures-seeks-490m-for-new-fun-1793742188000",
+    "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "publishedAt": "2026-11-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-eeoc-signals-rollback-of-pregnant-workers-fairness-act-regul-1793737800000",
+    "title": "EEOC signals rollback of Pregnant Workers Fairness Act regulations",
+    "link": "https://www.hrdive.com/news/eeoc-signals-rollback-to-pregnant-workers-fairness-act-protections/873603/",
+    "summary": "Current regulations open the door to &ldquo;requiring accommodations potentially extending to a myriad of conditions ranging from infertility to menstruation to hormone issues to menopause,&rdquo; Chair Andrea Lucas previously wrote.",
+    "publishedAt": "2026-11-03",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -134,10 +212,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fde-ai-1793711448000",
-    "title": " 被吹爆的FDE角色，正在掩盖AI产品的核心问题 ",
-    "link": "https://www.huxiu.com/article/4902748.html?f=rss",
-    "summary": "本文来自微信公众号： ToB产品创新研习社 ，作者：大D 这两年，FDE（Forward Deployed Engineer，前沿部署工程师）越来越受到关注。 很多人把它看成AI产品进入企业的关键角色：既懂代码，又懂业务；既能和客户沟通，又能把系统真正部署到生产环境。 这个判断没有错。 但如果换一个角度看： 如果一个产品必须依赖大量FDE才能交付，它究竟是足够贴近客户，还是根本还没有成熟？ 一、FDE解决了问题，也可能掩盖问题 FDE的价值，是进入客户真实环境，把产品能力接入具体业务流程。 但它也可能掩盖产品本身的缺陷。 产品接口不够标准，FDE来补； 数据模型不够清晰，FDE来解释； 权限体系不够完善，FDE来协调； 流程无法复用，FDE再写一套定制代码。 客户看到了结果，管理层看到了收入，团队看到了项目成功。 可是，原本应该被产品解决的问题，被一个人的能力暂时遮住了。 这就像给一栋没有完成设计的房子配了一位经验丰富的管家。管家确实可以让客人住得下去，但并不意味着房子的结构已经合理。 所以，FDE越能解决复杂问题，企业越要警惕：这些问题有没有被沉淀为产品能力，还是只被某几个工程师记在脑子里？ 二、FDE越多，不一定代表交付能力越强 FDE模式最容易出现的误区是：第一个客户需要两个月，第二个客户也需要两个月，第三个客户仍然需要两个月，于是公司开始招聘更多FDE。 表面上，这是在扩大",
+    "id": "news--1793722450000",
+    "title": " 流量营销真正的出路在哪里？线上线下“合”为贵 ",
+    "link": "https://www.huxiu.com/article/4902776.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：李楠 刘世雄 菲利普·科特勒在《营销革命4.0》中指出：“在数字经济中，仅仅依靠数字化交互并不足够，即便世界日益网络化，线下真实体验依然构成重要的差异化来源。” 在人人皆是自媒体的时代，有AI的加持，做UP主的门槛越来越低，做好UP主的门槛却越来越高。 在流量见顶、钱包见空的消费背景下，文旅和实体零售面临的根本挑战是——“带人来”，更大的挑战则是——“留下来、带新来”。 在零售业态全链路刺刀见红、生存艰难之际，河南开封的万岁山武侠城、胖东来和山姆会员店逆势上扬之态，真真切切为我国零售业在流量见顶时代如何破圈提供了不一样的洞见：流量营销，何必死磕线上？线上线下，“合”为贵。 弱化线下推广，简单粗暴地烧流量，造不出内涵丰富、形象丰满的品牌。而迪桑特在服装大红海市场快速出圈，正是源于其缜密高效的线上线下流量营销整合。 流量营销之囧：花钱赚吆喝 直播间喧嚣尘上的热闹依然难掩其花钱赚吆喝的窘境：以服装业为例，2025年森马服饰广告宣传费达9.26亿元，销售费用占营收约28.1%，同期营收增长3.17%，归母净利润却下降21.54%；比音勒芬的广告与宣传费达3.03亿元，同比增长54.86%，电商服务费同比增长106.90%，对应的扣非归母净利润反而大降32.75%。 当前流量营销误入囧途的原因究竟为何？ ｜2016～2025年社交网络独立用户规模与电",
     "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
@@ -162,22 +240,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-s-who-is-falling-in-line-for-trump-s-super-intelligence-1793679527000",
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
-    "publishedAt": "2026-11-03",
+    "id": "news-raising-the-quality-of-insights-in-agentic-analytics-1793638800000",
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+    "publishedAt": "2026-11-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-google-takes-dreambeans-to-india-in-bid-to-bring-ai-generate-1793676600000",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "id": "news-hiding-inside-palantir-8217-s-skyrocketing-quarter-is-a-fore-1793739955000",
+    "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
     "publishedAt": "2026-11-03",
     "source": "TechCrunch",
     "tags": [
@@ -187,11 +266,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-labor-department-s-flsa-duty-analysis-gets-it-right-6th-circ-1793653080000",
-    "title": "Labor Department’s FLSA duty analysis ‘gets it right,’ 6th Circuit says",
-    "link": "https://www.hrdive.com/news/dol-flsa-primary-duty-analysis-gets-it-right-6th-circuit/873487/",
-    "summary": "A key part of the agency&rsquo;s guidance for determining overtime eligibility still applies following the Supreme Court&rsquo;s 2023 decision ending Chevron deference, the court held.",
-    "publishedAt": "2026-11-02",
+    "id": "news-inside-the-supreme-court-case-that-could-decide-title-ix-emp-1793737800000",
+    "title": "Inside the Supreme Court case that could decide Title IX employee protections",
+    "link": "https://www.hrdive.com/news/inside-the-supreme-court-case-that-could-decide-title-ix-employee-protectio/873619/",
+    "summary": "This month, the high court will hear arguments on whether higher education workers have the right to sue their institutions for sex-based discrimination.",
+    "publishedAt": "2026-11-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -213,10 +292,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793709672000",
-    "title": " 战魔田默｜中国经济如何破局？城市更新是一招大棋 ",
-    "link": "https://www.huxiu.com/article/4902740.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜中国经济如何破局？城市更新是一招大棋》 中国经济花了几十年建设城市，如今却有大量生产和生活需求，卡在已经建成的空间里。 厂房还在，企业想升级设备，却受制于供电、物流和空间条件；社区建成多年，养老、托育和便民服务仍然缺少合适场所；一些楼宇长期空置，另一些企业却找不到符合需求的经营空间。 资产并非不存在，需求也并非全部消失。尚未有效打通的，是已有资本与新经济活动之间的联系。 2026年前三季度，全国固定资产投资（不含农户）同比下降7.2%，房地产开发投资下降20.6%，民间投资下降10.4%。 与此同时，规模以上工业增加值增长5.3%，服务业增加值增长5.2%，设备工器具购置投资增长9.7%，知识产权产品投资增长9.3%。 投资动力正在分化。中国经济不仅需要判断新增资本投向哪里，还需要回答，过去几十年建成的城市，怎样继续创造增长？ 2026年5月，国务院印发《城市更新“十五五”规划》，将城市结构优化、动能转换、品质提升、绿色转型和治理增效纳入系统部署。 城市更新，可能就是这道题的重要解法。 1 中国经济过去靠建设城市增长，如今遇到了什么变化？ 中国城市化曾经形成一套强大的增长循环。 工业化创造就业，人口向城市集聚，住房、厂房、道路、学校和商业设施需求随之增加。 房地产开发与基础设施投资带动建筑、建材、设备制造和相关",
+    "id": "news-6-1793722179000",
+    "title": " 当下环保行业的6个真相 ",
+    "link": "https://www.huxiu.com/article/4902775.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 现在的环保行业，有一件事情越来越不好解释。 环境治理的成绩越来越明显，环保企业的日子却不一定越来越好。 过去十几年，中国建起了大量污水厂、垃圾处理设施和环境监测系统，环境质量持续改善。但在产业的另一面，许多企业正在经历完全不同的感受。 项目越来越难拿，拿到了也不一定有多少利润；技术越做越成熟，产品价格却不见得更高；有些公司账面上仍然赚钱，现金却越来越紧张。 这些变化，很容易被归结为地方财政没钱、市场饱和、同行竞争激烈。 这些解释都有道理，但还不足以说明今天环保行业真正发生了什么。 过去二十多年，环保产业形成了一套相对成熟的发展方式：发现污染治理缺口，形成规划和项目，组织资金建设设施，再由环保企业承接工程、设备和运营。 在当时的市场条件下，这套方式非常有效，也成就了一批优秀的环保企业。 只是当上一轮建设逐渐完成，财政、客户和产业需求开始变化，许多过去不容易被注意到的问题，也逐渐显露出来。 理解今天的环保行业，我们需要重新认识下面这6个真相。 环保需求仍然很多 但真正能形成订单的没有那么多 环保行业从来不缺需要解决的问题。 工业废水仍然存在复杂污染物，污水管网需要修复，危险废物、建筑垃圾、历史遗留污染和新污染物治理都有大量工作要做。 但现在越来越需要区分两件事：社会需要解决多少环境问题，以及环保企业能够从中获得多少真实订单。 根据",
     "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
@@ -240,23 +319,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-raising-the-quality-of-insights-in-agentic-analytics-1793638800000",
-    "title": "Raising the quality of insights in agentic analytics",
-    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+    "id": "news-stop-counting-tokens-start-counting-what-ships-1793625032000",
+    "title": "Stop counting tokens, start counting what ships",
+    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
     "publishedAt": "2026-11-02",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-apple-may-try-to-increase-revenue-by-doing-8230-something-wi-1793670592000",
-    "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "id": "news-orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-1793739437000",
+    "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+    "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+    "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
     "publishedAt": "2026-11-03",
     "source": "TechCrunch",
     "tags": [
@@ -266,11 +344,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kentucky-college-grants-religious-accommodation-excusing-hum-1793653020000",
-    "title": "Kentucky college grants religious accommodation excusing humanist from AI use",
-    "link": "https://www.hrdive.com/news/kentucky-college-grants-religious-accommodation-excusing-humanist-from-ai/873491/",
-    "summary": "The news demonstrates an emerging compliance issue facing employers as they move to adopt the technology.",
-    "publishedAt": "2026-11-02",
+    "id": "news-4-trends-to-expect-in-l-d-in-2027-1793721780000",
+    "title": "4 trends to expect in L&D in 2027",
+    "link": "https://www.hrdive.com/news/4-trends-to-expect-in-ld-in-2027/873556/",
+    "summary": "Learning leaders face &ldquo;pretty lofty expectations from both our CHROs and our boards,&rdquo; a Gartner analyst said.",
+    "publishedAt": "2026-11-03",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -293,10 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-75-1793709669000",
-    "title": " 战魔田默｜75岁王石再创业，城市更新真的能赚钱吗？ ",
-    "link": "https://www.huxiu.com/article/4902739.html?f=rss",
-    "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜75岁王石再创业，城市更新真的能赚钱吗？》 75岁的王石再次出手。 这一次，他瞄准的不是开发新楼盘，而是经营已经建成的城市。 2026年9月28日，深圳深石城市更新有限公司注册成立，王石担任董事长。新公司注册资本1500万元，五家股东各持20%，经营范围涵盖商业综合体管理、物业管理、酒店管理和住房租赁等业务，没有列入房地产开发经营。 一个曾经依靠城市扩张建立商业帝国的人，正在进入一门不同的生意。 过去，房地产企业获取土地、建设房屋、销售产品，主要通过资产出售实现利润。 如今，面对大量已经形成的城市资产，经营者需要重新判断空间的用途，寻找客户，组织改造，并在漫长的运营周期中获得回报。房子不再需要从头盖起，生意却未必更容易做。 一栋旧楼改造之后，谁来经营？一座老厂房重新焕发生机，新增收益归谁？如果投入资金、创造价值的人与拥有资产的人并非同一方，这门生意又该怎么赚钱？ 王石再次创业，面对的是中国城市发展方式转变之后，一道尚未得到普遍解决的商业难题。 1 75岁的王石，为什么又回来了？ 1984年，王石创办万科前身，中国城市化正在孕育一轮持续数十年的建设浪潮。 工业化创造就业，人口向城市集聚，住房制度改革释放住宅需求。土地开发、基础设施建设、房地产投资和城市人口增长，共同支撑起一个庞大的市场。 万科在这一过程中形成专业",
+    "id": "news--1793722167000",
+    "title": " “这不就是二三十年前的中国吗？”:中国老板出海的一种错觉 ",
+    "link": "https://www.huxiu.com/article/4902774.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展，原文标题：《“这不就是二三十年前的中国吗？”——中国老板出海的一种错觉》 “不出海，就出局”，是过去几年中国企业界传播很快的一个商业判断。 关于出海的主流叙事是：国内增长放慢，竞争加剧，出海看上去像一扇重新打开的门。既然国内越来越卷，外面似乎天地广阔，大有可为。 我身边不少企业家朋友已经出去了。有些已经建了厂，有些还在布局。尤其是那些去越南、泰国、印尼、墨西哥、非洲等地考察回来的人，俨然成了出海的“宣传队”，常常感叹：“早知道就该早点去。”“现在进去还来得及。”“那边现在是八九十年代、世纪初的中国。” 聊到越南时这种感觉尤其强烈。从河内到胡志明市，从北部工业园区到南部商业街，很多中国企业家都能找到熟悉的影子。有人看到街上密集的摩托车，想到中国汽车普及之前的城市；有人走进新建的工业园，想到长三角、珠三角制造业刚起步时的景象；有人看见商场里年轻消费者排队买东西，想到中国消费市场向上发展的那些年。 于是，就有了那句很有感染力的话：“这不就是二三十年前的中国吗？” 我理解这些企业家当时在现场的兴奋。很多老板亲历过中国市场快速扩张的年代，知道一家企业怎样从小做到大，也知道机会窗口打开时，慢一步可能意味着什么。今天国内不少行业竞争更加充分，过去熟悉的增长方式不再那么灵活；海外出现了与当年相似的发展景象，自然会让人觉得，是不是又一轮机会来了？ 这",
     "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
@@ -310,86 +388,6 @@ export const generatedNews: NewsItem[] = [
     "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
     "link": "https://www.tmtpost.com/8191572.html",
     "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
-    "publishedAt": "2026-11-03",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-stop-counting-tokens-start-counting-what-ships-1793625032000",
-    "title": "Stop counting tokens, start counting what ships",
-    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-    "publishedAt": "2026-11-02",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ukraine-s-new-pocket-sized-gadget-turns-russian-drones-camer-1793668375000",
-    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-    "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-    "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-    "publishedAt": "2026-11-03",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-settled-5-lawsuits-that-ended-in-payouts-in-october-1793632320000",
-    "title": "Settled: 5 lawsuits that ended in payouts in October",
-    "link": "https://www.hrdive.com/news/settled-5-lawsuits-that-ended-in-payouts-in-october/873371/",
-    "summary": "An active EEOC obtained relief for plaintiffs in cases alleging sex-based harassment and anti-American bias, among other claims.",
-    "publishedAt": "2026-11-02",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-oceanbase-1793685545000",
-    "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
-    "link": "https://www.qbitai.com/2026/11/507405.html",
-    "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
-    "publishedAt": "2026-11-03",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-be-1793709329000",
-    "title": " “再见朋友”：成年人的友谊，总在这些时刻走向BE ",
-    "link": "https://www.huxiu.com/article/4902738.html?f=rss",
-    "summary": "本文来自微信公众号： 简单心理 ，作者：简单心理，原文标题：《「再见朋友」：成年人的友谊，总在这些时刻走向BE》 内娱终其一生拍不出的「恨海情天」，都在《后会友期》里了。 这档越追越上头的综艺，堪比「再见爱人」的翻版，它让大家发现，朋友之间的情感浓度，丝毫不逊色于爱情。 节目邀请了四组曾经亲密、后来却渐渐疏远的朋友重新相聚，一起旅行，试着面对那些没有说开的话和搁置多年的心结。 这几对朋友的关系困境各不相同：有人曾经并肩作战，却因为一两句气话，十多年没有联系；有人因为一次沟通中的误解，和好友断联多年。 很多观众在追更的同时，讨论起一个越来越常见的说法：「阶段性友谊」。 节目文案里有一句：「成年人的友谊，走散本是常态。」 好像人长大以后，就不得不接受一个事实：当人生走向不同的分岔路，我们似乎是不可避免地，会和曾经亲密的人慢慢走散。 社交媒体上，有人因此觉得，人与人之间的缘分本来就有保质期，那就不必把「关系」看得太重，专注于自己就好了。 也有人觉得这个观点太悲观了。有时，友谊变淡，也与我们不再主动联系、不愿再为彼此花时间有关。ta们认为，只要双方都愿意投入，一些友情其实可以维持很久。 这一期「简单聊聊」，我们邀请3位编辑聊了聊：随着人生阶段变化，朋友渐渐走散，真的是一件不可避免的事吗？ 客观规律就是缘分会变 作为一个近四十岁的人，已经逐渐失去过至少三个好朋友。但我很少跟朋友彼此拉黑，都是",
-    "publishedAt": "2026-11-03",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-transsion-under-memory-inflation-stockpiles-a-cold-h-share-a-1793699166000",
-    "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
-    "link": "https://www.tmtpost.com/8191938.html",
-    "summary": "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successful consumer-electronics export stories by dominating low-end handsets across emerging markets. Revenue and profit peaked in 2023–2024. In 2025, a super-cycle of “memory inflation” cut net profit roughly in half. Stockpiling chips and raising prices produced a low-base rebound in the first half of 2026; the third quarter lost momentum again. In an era when memory can cost more than the main processor, the company is pushing hard into on-device AI in a bid for pricing power. Its newly listed Hong Ko",
     "publishedAt": "2026-11-03",
     "source": "钛媒体",
     "tags": [
@@ -1075,4 +1073,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-03T13:33:25.707Z';
+export const dataFetchedAt = '2026-11-03T22:51:08.469Z';
