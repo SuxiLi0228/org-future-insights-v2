@@ -2,6 +2,87 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-raising-the-quality-of-insights-in-agentic-analytics-1793638800000",
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+    "publishedAt": "2026-11-02",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-payin-1793664891000",
+    "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+    "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+    "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+    "publishedAt": "2026-11-03",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-to-make-factory-space-for-workers-with-disabilities-1793653980000",
+    "title": "How to make factory space for workers with disabilities",
+    "link": "https://www.hrdive.com/news/manufacturing-institute-timken-building-disability-friendly-careers-2026/873342/",
+    "summary": "People with disabilities represent one of the largest talent pools manufactuers underutilize, experts said during a Manufacturing Institute webinar.",
+    "publishedAt": "2026-11-02",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-ai-1793626601000",
+    "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+    "link": "https://www.qbitai.com/2026/11/507277.html",
+    "summary": "商汤SenseNova 6.8 Flash",
+    "publishedAt": "2026-11-02",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1793665280000",
+    "title": " AI漫剧出海买的不是用户 ",
+    "link": "https://www.huxiu.com/article/4902471.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 AI漫剧出海，有个挺容易看错的地方。你看到全球下载量，真正要赚的却是一笔笔当地的钱。 国内AI漫剧越来越卷，不少人开始往海外看，海外市场大，有些地方流量便宜，AI又把制作成本压下来了。怎么想，都觉得值得出去试试。 可我翻了几份海外短剧报告，发现这笔账没那么简单。 ...... 2026年一季度，海外短剧App下载量达到8.5亿次，同比增长140%；同期内购收入约7.5亿美元，只增长20%。 数据来自Sensor Tower。这里统计的是整个海外短剧App市场，包含真人短剧；内购收入也不包括广告，不能直接代表AI漫剧的经营成绩。 不过，下载翻了一倍多，内购怎么才涨了两成？ 再往下看地区分布，就有意思了。 东南亚占下载量的32%，拉美23%，印度22%，加起来77%。美国只有约3%，却贡献了全球约37%的内购收入。换个算法，美国一个下载带来的内购，是全球平均的十几倍。 短剧自习室和亚马逊云科技在10月下旬联合发了一份《2026短剧出海白皮书》，用的也是同一套算法，统计的是上半年。 印尼和印度合计贡献41.76%的下载，美国贡献36.24%的内购收入，约3.78亿美元。 半年这组数更极端，下载16.67亿次，比上一个半年涨了25.34%；内购10.43亿美元，反而降了0.86%。 两份报告时间段不同，口径也不同，但有件事对上了，下载量大的地方",
+    "publishedAt": "2026-11-03",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-11-3-1793664943000",
+    "title": "Edge AI Daily 早报（11月3日）",
+    "link": "https://www.tmtpost.com/8191049.html",
+    "summary": "本期情报主线为AI资本结构的系统性重估。硬件侧，纳斯达克100较10月6日高点下跌逾10%进入年内第三次回调，驱动力为AI基础设施投资本身：亚马逊过去十二个月自由现金流-424亿美元，五大AI建造商2026年资本支出预计8280亿美元、首超合计经营现金流；Meta转向多币种投资级债券，微软自由现金流同比降27%、资本支出翻倍至394亿美元。产品与治理侧，OpenAI合并Chat与Work标签页，苏莱曼划定AI意识安全红线，四大巨头共推robots.txt训练退出令牌，谷歌AI搜索在土耳其遭反垄断调查，沙特阿美买下HUMAIN 49%、OpenAI绑定阿联酋主权资本与电网，特斯拉将FSD同源模型植入Optimus，Meta把VR降级为AI显示终端。",
+    "publishedAt": "2026-11-03",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-stop-counting-tokens-start-counting-what-ships-1793625032000",
     "title": "Stop counting tokens, start counting what ships",
     "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -14,31 +95,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-northwood-space-raises-375m-series-c-at-a-2b-valuation-from--1793629355000",
-    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth",
-    "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+    "id": "news-apple-says-it-8217-s-8216-hard-to-predict-8217-when-iphone-d-1793661932000",
+    "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
+    "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+    "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
     "publishedAt": "2026-11-02",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-diabetes-leadership-council-1793628000000",
-    "title": "Diabetes Leadership Council",
-    "link": "https://www.hrdive.com/spons/diabetes-leadership-council/873350/",
-    "summary": "Dive Brief: This bullet states what happened. This is another sentence that further explains what is going on. This is the third and usually the last bullet, which rounds out the facts of what happened. Dive Insight: This is where the insight goes. This is where we help readers ...",
+    "id": "news-why-hr-should-care-about-grand-theft-auto-vi-1793653800000",
+    "title": "Why HR should care about Grand Theft Auto VI",
+    "link": "https://www.hrdive.com/news/gta-6-time-off-work-productivity/873489/",
+    "summary": "This isn&rsquo;t the first time a pop culture phenomenon has tanked worker output.",
     "publishedAt": "2026-11-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
       "organization"
     ]
   },
@@ -56,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793629503000",
-    "title": " 还剩什么真人短剧，在对抗AI剧？ ",
-    "link": "https://www.huxiu.com/article/4902434.html?f=rss",
-    "summary": "本文来自微信公众号： 壹娱观察 ，作者：壹叔团队 欢迎来到大红果时代。 红果的热度飙升再度来了一个新阶段，从日活比四家长视频加起来还多、全网观众发出熬夜看红果到天亮，再到下线“看剧赚金钱”、辟谣年化收入逼近400亿，以及连台湾地区都成功登顶，“大红果时代”正在迎接流量与商业化的双重跃迁。 而这背后最大的功臣就在于铺天盖地的AI短剧。 翻开红果，与一年前被市场提及的光景不再相同，为其立下根基的真人短剧迅速退位，推荐榜与热播榜早已被各种AI剧所占领。 从第三方数据来看，云合数据短剧月榜显示，今年1-5月排在前五的竖屏短剧真人短剧占据绝大多数，6月排在前五的竖屏短剧中有三部是真人剧，分别位于第一、二、五位，而到了七月则变为两部，且前三都为AI剧或漫剧；8月前五位AI剧或漫剧占据三席，9月和刚刚过去的10月前五则全部为AI剧或漫剧。 8-10月红果短剧Top5 虽然年初就已经燃起了真人短剧大退潮的信号，但大半年过去之后，这个“潮”退得比想象中迅猛，毕竟连几家头部短剧厂牌也都意兴阑珊了。 但是，真人短剧真的就束手无策了吗？ 从平台放来看，辟谣缩减真人短剧投入、增加真人短剧扶持投资等消息不断传出，而与此同时，IP级真人短剧还是在继续创造势能，以10月31日上映的《十八岁太奶奶驾到，重整家族荣耀5》为例，其在红果站内热度值突破12068万，成为6月《少夫人来自东北2》破亿后，时隔半年再度破亿的真",
-    "publishedAt": "2026-11-02",
+    "id": "news-anthropic-1793665263000",
+    "title": " Anthropic，三季度重回经营亏损 ",
+    "link": "https://www.huxiu.com/article/4902470.html?f=rss",
+    "summary": "本文来自微信公众号： 科创板日报 ，作者：李莹 收入仍在狂奔，账单跑得更快。Anthropic当地时间周一提交的最新招股书显示，这家AI明星企业仅维持一个季度的经营盈利便再度转亏；而近9000亿美元的算力承诺，正成为其冲刺IPO路上最棘手的考验。 当地时间11月2日，Anthropic向美国证券交易委员会（SEC）提交招股书修订稿，补上了首版招股书中空缺的2026财年第三财季（截至9月30日）财务数据。 数据显示，该公司三季度营收约170亿美元，较二季度的116亿美元增长约47%，较去年同期的14亿美元增长逾10倍。相比二季度高达144%的环比增幅，这一增速明显放缓。 招股书还提示，今年前九个月有5%至7%的收入来自违反其使用政策或商业条款的客户，公司自8月起加大了对违规使用的整治力度，未来收入增速可能因此进一步承压。 ▌经营盈利“昙花一现”？ 三季度，Anthropic录得5.67亿美元经营亏损，而就在上一季度，它首次实现经营盈利，金额为9.74亿美元。 注：Anthropic季度经营利润，七个季度中仅2026年二季度实现盈利 由盈转亏的一大原因是算力成本骤增。Anthropic通常提前12至18个月签下长期合同来预订算力，但三季度用户需求增长超出预期，原定算力不够用，公司只得临时加购50亿美元短期算力，价格明显高于长期合同。 受此影响，三季度算力与基础设施支出环比大增77%至9",
+    "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -70,10 +149,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793622402000",
-    "title": "长安汽车三季报：海外销量大涨，利润却快没了",
-    "link": "https://www.tmtpost.com/8189259.html",
-    "summary": "如何重新建立增长与盈利之间的平衡，可能比单纯追求销量规模更加迫切。",
+    "id": "news-5-1-8-5-1793661600000",
+    "title": "【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%",
+    "link": "https://www.tmtpost.com/8190922.html",
+    "summary": "Meta与中国企业合作开发人形机器人？傅利叶回应；度小满与香港科技大学联合发布轩辕4.5金融大模型；比亚迪王朝10月销售20.3万辆，同比增长13.6%；Anthropic第三季度营收同比增长1127%；中国证监会：研究推出股债恒定比例等多资产指数基金，丰富场外中低波动型产品；金融法草案二审稿充实金融消费者、投资者保护相关内容；《民航绿色发展“十五五”实施方案》印发；央行：将于11月3日开展证券、基金、保险公司互换便利操作，申请额度超1000亿元；香港交易所旗下衍生产品结算所现接受中国国债、政策性银行债券及财政部债券作抵押品；迈威尔将以全股票交易收购光迅科技Lumentum，交易完成后后者股东持股约33%；今年9月中国企业信用指数为160.62",
     "publishedAt": "2026-11-02",
     "source": "钛媒体",
     "tags": [
@@ -96,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-fresh-wave-of-cyberattacks-has-hit-europe-8217-s-supermark-1793628532000",
-    "title": "A fresh wave of cyberattacks has hit Europe&#8217;s supermarket refrigerators, destroying food across countries",
-    "link": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-    "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "id": "news-trajectory-raises-45m-to-make-ai-model-training-accessible-t-1793661233000",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "summary": "The one-year-old startup is now valued at $300 million.",
     "publishedAt": "2026-11-02",
     "source": "TechCrunch",
     "tags": [
@@ -109,17 +188,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-is-changing-the-workforce-faster-than-jobs-can-keep-up-1793613600000",
-    "title": "AI is changing the workforce faster than jobs can keep up",
-    "link": "https://www.hrdive.com/spons/ai-is-changing-the-workforce-faster-than-jobs-can-keep-up/833490/",
-    "summary": "95% of HR leaders say staff use AI daily in roles where AI isn&#39;t in the job description.",
+    "id": "news-labor-department-s-flsa-duty-analysis-gets-it-right-6th-circ-1793653080000",
+    "title": "Labor Department’s FLSA duty analysis ‘gets it right,’ 6th Circuit says",
+    "link": "https://www.hrdive.com/news/dol-flsa-primary-duty-analysis-gets-it-right-6th-circuit/873487/",
+    "summary": "A key part of the agency&rsquo;s guidance for determining overtime eligibility still applies following the Supreme Court&rsquo;s 2023 decision ending Chevron deference, the court held.",
     "publishedAt": "2026-11-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -136,24 +214,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793629145000",
-    "title": " 超级智能还没来，超级账单先到了？债务地雷暴击AI泡沫 ",
-    "link": "https://www.huxiu.com/article/4902433.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：重挫时刻 不知大伙儿最近有无发现。 讨论韩国股市的人少了，倒不是因为韩国股市的暴涨暴跌太频繁，给大家整脱敏了。 而是，最近全球都在跌跌跌跌跌，从美股、韩股，再到A股，无一幸免...... 在10月最后一周，“纳斯达克100”市值蒸发约2万亿美元，相当于一周蒸发了几个国家的GDP。 尤其是上周的“黑色星期五”，美股三大指数集体大幅收跌，科技股与半导体板块领跌。 甚至可以说是被市场抛售的绝对主力。 这轮暴跌中，谷歌母公司Alphabet重挫12.64%，单日市值蒸发约5000亿美元。 更惨的还得说是英特尔，当日收跌28.58%，市值蒸发1500亿美元，是公司上市以来的第二大单日跌幅。 咱们A股半导体板块近期也遭遇剧烈调整，10月29日至30日出现了连续大跌。 巴菲特和他的可口可乐依旧坚挺 对股民而言，大盘虽然不像韩股之前那样剧烈过山车行情，但这种集中在大热门板块乃至头部公司的急速下坠，刺激程度如针刺，如锥凿，这下落到头顶真成一座山了。 所以不是不关心别国股市情况，而是这下大家都一样惨，根本没空关心别国股市，自己账户都是泥菩萨过河状态。 不过巴菲特这波也未能幸免 不对啊？ 从全面跑步进场AI时代以来，不是家家公司都是锣鼓喧天的业绩暴涨吗？ 包括这次在内，怎么业绩越高，跌得反而还越狠呢？ 以本次跌得最厉害的谷歌和英特尔为例，其实俩",
-    "publishedAt": "2026-11-02",
+    "id": "news--1793664854000",
+    "title": " “不能让事件曝光”：临床试验损害案里，被“赔钱”掩盖的死亡与沉默 ",
+    "link": "https://www.huxiu.com/article/4902469.html?f=rss",
+    "summary": "本文来自微信公众号： 健闻咨询 ，作者：健闻咨询，编辑：李琳 两个月前，6岁女童“小美”在研究者发起的基因编辑临床试验中死亡。过去两个月，4位受试者家属曾向我们讲起亲人的遭遇——面对重大损伤甚至离世，他们悲痛、不解，更重要的是不知该去找谁解决。 一位上市药企法务听行业前辈提过一个平均数字——每入组100例受试者，就会发生1例受试者纠纷案。每一起临床损害事件的曝光，往往伴随着相似的叙事弧线：受试者家属走上维权之路，舆论短暂聚焦，涉事方迅速介入，最终以一笔赔偿换取沉默与撤诉。 事件平息了，但问题没有消失——它只是被转移到了下一份和解协议里，等待下一次以更激烈的方式浮出水面。 真正值得追问的，或许不是某一位研究者是否瞒报、某一家药企是否赔钱，而是一个更宽口径的问题：当临床损害发生时，我们究竟有没有一套可预期的、独立的、不因“闹”与“不闹”而区别对待的处理机制？ “临床试验正处于一个相对混乱的状态，不对的声音太大了，掩盖了正确的声音。”万帮喜说道。 律师万帮喜是一位熟悉药物警戒、临床损害的资深行业从业者，最近几年，他代理过多起临床损害事件的官司。在他看来，息事宁人式的赔偿正在掩盖风险，而掩盖本身，又在制造更大的危机。 以下是《健闻咨询》与万帮喜的对话。 1 “不能让事件曝光” 《健闻咨询》：幼童“小美”的基因编辑死亡事件，让临床损害事件被公众所知。但那是一起研究者发起的临床试验。如果研究者",
+    "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1793620993000",
-    "title": "胶粘剂主业承压下押注半导体，康达新材拟剥离亏损雷达资产",
-    "link": "https://www.tmtpost.com/8190391.html",
-    "summary": "远水难救近火，剥离旧资产回笼资金。",
+    "id": "news--1793622402000",
+    "title": "长安汽车三季报：海外销量大涨，利润却快没了",
+    "link": "https://www.tmtpost.com/8189259.html",
+    "summary": "如何重新建立增长与盈利之间的平衡，可能比单纯追求销量规模更加迫切。",
     "publishedAt": "2026-11-02",
     "source": "钛媒体",
     "tags": [
@@ -176,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-days-till-techcrunch-founder-summit-boston-founders-don-t--1793628000000",
-    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "id": "news-apple-8217-s-inventory-surges-154-as-memory-chip-costs-climb-1793660697000",
+    "title": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
+    "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+    "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
     "publishedAt": "2026-11-02",
     "source": "TechCrunch",
     "tags": [
@@ -189,16 +266,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-karen-comment-doesn-t-show-discrimination-jud-1793383260000",
-    "title": "Week in review: ‘Karen’ comment doesn’t show discrimination, judge says",
-    "link": "https://www.hrdive.com/news/karen-comment-doesnt-show-discrimination/873355/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories and news, including cost of living increases and the rising ghosting problem.",
-    "publishedAt": "2026-10-30",
+    "id": "news-kentucky-college-grants-religious-accommodation-excusing-hum-1793653020000",
+    "title": "Kentucky college grants religious accommodation excusing humanist from AI use",
+    "link": "https://www.hrdive.com/news/kentucky-college-grants-religious-accommodation-excusing-humanist-from-ai/873491/",
+    "summary": "The news demonstrates an emerging compliance issue facing employers as they move to adopt the technology.",
+    "publishedAt": "2026-11-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -215,11 +293,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-6000-1793628737000",
-    "title": " 为了华北豹，这里修路多花了6000万 ",
-    "link": "https://www.huxiu.com/article/4902432.html?f=rss",
-    "summary": "本文来自微信公众号： 猫盟CFCA ，作者：宋大昭 1 那条曾经安静的路 2008年6月，当我作为志愿者第一次来山西时，三北猫科动物研究所的大松和林环带着我沿着一条安静的砂石路从榆次开往和顺县。 这条路当时给了我非常美好的印象：周围没什么人，路况不好车也无法开快。时值初夏，我会在路边的河道里不时看到成对的鸳鸯，也能看到落在电线上的普通翠鸟和蓝翡翠——这是我第一次看到蓝翡翠。在宽一些的河滩地，一只雄性黑鹳在翩翩起舞，它的旁边是一只看上去很冷漠的雌性。 后来老王（三北猫科的创始人王卜平）告诉我一些在这条路上发生的事：有一次他带着朋友从这条路开车，经过柏木寨时在距离村子不远处的山根水潭边看到一只豹正在喝水。此后路过这个水潭我总是会多看几眼，但只见过虎斑颈槽蛇和鸳鸯。 有水的地方经常能看见鸳鸯©猫盟 在路上我们不时看到兔子蹦跳着躲进不远处的草丛里，你甚至能看到它的耳朵从草丛里竖立出来。比兔子更多的，是成群的雉鸡，雌性居多。看到我们靠近，它们会从路上忙不迭地跑向路边的草丛躲藏，一边还咯咯地叫着；但我也看到一只正在路上洗沙浴的雄性雉鸡，似乎不愿意离开温暖的砂石路面，它只是略带紧张地看着我们经过，把它留在尘土飞扬的路上。 田边就随处可见的雉鸡©猫盟 2 为豹的完整家园发声 开始较多地走在这条路上，已是2013年。此时猫盟开始成体系地开展华北豹的调查，我们住在马坊乡，几乎每天都在这条路上经过。 此",
-    "publishedAt": "2026-11-02",
+    "id": "news-claude-1793664824000",
+    "title": " 花钱买封号，中国用户的Claude虐恋之路 ",
+    "link": "https://www.huxiu.com/article/4902464.html?f=rss",
+    "summary": "本文来自微信公众号： 刺猬公社 ，作者：毛巾，题图来自：视觉中国 Anthropic是一家野蛮的公司吗？拿这个问题去问任何一个痛失账号的中国用户，得到的答案多半是肯定的。 在正常的商业逻辑里，一家公司如果对特定地区的用户进行无差别、高频率、甚至刚充完钱就封号的行为，它大概率会很快遭到消费者的唾弃与集体退订。然而，在Anthropic的世界里，中国用户不仅没有离开，反而前仆后继地涌入，隔上十天半月就用几十元买一个新号，每个号再搭上一笔至少是pro版的订阅，心甘情愿地向大洋彼岸的A&divide;捐钱。 网上流行的最经典Claude封号梗图 那些让Claude用户措手不及的封号瞬间，其实大多数都已被网友们总结出来。Claude严苛的风控系统，往往会从多个维度精准打击着国内使用者。 首先是网络环境的洁净度与一致性。 稍有瑕疵的代理节点、频繁跳动的IP地址，都会给使用者带来风险；其次是支付行为的异样。国内用户无法直接绑定海外信用卡，转而涌向淘宝代充、使用虚拟信用卡或接码平台注册，这种非正常的账单关联和批量操作，都会被标记为风险行为； 再往后，系统时区、浏览器语言、登录时间等一系列因素据称也在判定标准当中。 官方不会公布这些因素的权重，但部分用户为了安全地使用账号，早已开始把系统时间设置成欧美时区，再执行一套Claude专属作息表：白天最好别用，北京时间上午九点是最危险的时间，下班时间到，可",
+    "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -228,10 +306,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793620001000",
-    "title": "控股股东拟注入巨龙铜业等铜锂资产，高争民爆一字涨停｜并购一线",
-    "link": "https://www.tmtpost.com/8190681.html",
-    "summary": "二级市场提前博弈重组预期。",
+    "id": "news--1793620993000",
+    "title": "胶粘剂主业承压下押注半导体，康达新材拟剥离亏损雷达资产",
+    "link": "https://www.tmtpost.com/8190391.html",
+    "summary": "远水难救近火，剥离旧资产回笼资金。",
     "publishedAt": "2026-11-02",
     "source": "钛媒体",
     "tags": [
@@ -254,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-is-finally-merging-chatgpt-8217-s-chat-and-work-tabs-1793627873000",
-    "title": "OpenAI is finally merging ChatGPT&#8217;s chat and Work tabs",
-    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "id": "news-anthropic-warns-that-it-8217-s-very-close-to-rsi-capability--1793657690000",
+    "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
     "publishedAt": "2026-11-02",
     "source": "TechCrunch",
     "tags": [
@@ -267,16 +345,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-finalizes-sweeping-pharmacy-benefit-manager-disclosure-r-1793383260000",
-    "title": "DOL finalizes sweeping pharmacy benefit manager disclosure rule",
-    "link": "https://www.hrdive.com/news/pbm-transparency-final-rule-labor-department-employer/873318/",
-    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients.",
-    "publishedAt": "2026-10-30",
+    "id": "news-settled-5-lawsuits-that-ended-in-payouts-in-october-1793632320000",
+    "title": "Settled: 5 lawsuits that ended in payouts in October",
+    "link": "https://www.hrdive.com/news/settled-5-lawsuits-that-ended-in-payouts-in-october/873371/",
+    "summary": "An active EEOC obtained relief for plaintiffs in cases alleging sex-based harassment and anti-American bias, among other claims.",
+    "publishedAt": "2026-11-02",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -293,11 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793627748000",
-    "title": " 有人只认宁德，有人不在乎，自研电池谁会买单？ ",
-    "link": "https://www.huxiu.com/article/4902430.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：木俞 围绕「去宁德化」的话题，行业的讨论尚未告一段落。 最近一段时间，包括理想、小米、小鹏、零跑在内的多家车企，相继透露了自研电池体系，或是进一步主导电池研发和制造的计划。各家的模式和深度有所不同，但车企正越来越多地参与到动力电池当中。 针对相关话题，车企对外大致是「积极合作」的表态。李想曾发过一段长文，否认了用「去XX化」定义自研战略，意在强调理想与宁德时代仍有合作的空间。 但与之相对的，是理想i6、i9、MEGA、L9等车型，都在陆续切换成理想的「连山」电池体系，也由此引发了一系列争议。 从理想i9到新款理想i6，电池供应商的变化都在车圈引发过讨论。最近，还有待提车的理想MEGA用户在网上表示，自己原本订购的宁德时代电池版本无法交付，对此感到不满。 车企「放弃」在新能源领域积累深厚的宁德时代，转投自研电池，在很多人看来仍然充满了不确定性，电池性能、安全性、长期可靠性，以及官方的保障体系，都没有得到验证。 甚至很多人认为，车企切换自研电池，更多是出于降本的考量，或者以「自研」的名义隐去非头部供应商的存在。 争议传导到普通消费者身上，会影响他们的购车决策吗？他们真正想要的是什么？带着这些问题，电动星球分别从潜在客户、车主、销售和粉丝群，寻找答案。 非宁德时代不可？ 在很多人看来，买电车一定要选宁德时代的电池。 因为在大众认知里，动力电池是新能",
-    "publishedAt": "2026-11-02",
+    "id": "news--1793664776000",
+    "title": " 华为首款三类医疗器械，为什么选了最卷的赛道？ ",
+    "link": "https://www.huxiu.com/article/4902468.html?f=rss",
+    "summary": "本文来自微信公众号： 动脉网 ，作者：张晓旭 一款售价已经下探至百元左右、需要用户持续购买耗材的医疗器械，迎来了一位重量级参与者。 10月30日，华为持续葡萄糖监测系统（CGM）获国家药监局批准，这是华为首款获批的三类医疗器械，也意味着华为正式进入CGM市场。 过去几年，华为在智能穿戴和健康监测领域持续布局，多款作为二类医疗器械的硬件或软件获批。对于已经形成一定竞争格局的CGM市场来说，华为的入场会带来什么变化？ 01 华为，闯入拥挤的CGM市场 CGM已成为近年来医疗器械增长最快的细分领域之一。 不同于传统指尖采血血糖仪，CGM依靠传感器监测组织间液葡萄糖，可实现连续血糖追踪，展示血糖变化趋势，并对高低血糖风险进行预警，能为糖尿病患者提供更完整的血糖数据，在长期血糖管理中使用便捷。 雅培、德康等海外品牌长期保持较高市场认可度，最近几年，随着国产产品技术持续迭代，性价比优势逐步凸显，国内CGM产业迎来快速发展。 据国家药监局公开信息，目前国内获批上市的CGM产品已超过30款。 其中，三诺生物、硅基仿生、微泰医疗、鱼跃医疗等本土企业，已建立起较为成熟的产品体系、销售渠道与用户基础。 行业增长直接体现在企业营收上，CGM已经成为多家器械企业的核心增长业务。以单独披露了CGM业绩的微泰医疗为例：2025年其CGM收入突破4亿元，2026年增长势头延续，仅上半年营收就超过3亿元，同比增幅达",
+    "publishedAt": "2026-11-03",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -306,89 +385,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-h6-1793617776000",
-    "title": "哈弗H6，耽误了魏建军？",
-    "link": "https://www.tmtpost.com/8190411.html",
-    "summary": "即使买车的人完全懂他，也有足够的理由选另一辆车。",
-    "publishedAt": "2026-11-02",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-eating-disorders-are-on-the-rise-glp-1s-could-make-things-wo-1793350800000",
-    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
-    "publishedAt": "2026-10-30",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ford-launches-a-8216-privacy-promise-8217-and-explains-how-a-1793617200000",
-    "title": "Ford launches a &#8216;privacy promise&#8217; and explains how and why it uses customer data",
-    "link": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
-    "publishedAt": "2026-11-02",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-workers-are-habit-hugging-despite-new-training-survey-finds-1793383260000",
-    "title": "Workers are ‘habit hugging’ despite new training, survey finds",
-    "link": "https://www.hrdive.com/news/workers-are-habit-hugging-despite-new-training/873252/",
-    "summary": "The term describes employees who don&rsquo;t consistently use new work methods they&rsquo;ve been trained on, representing a learning and development challenge, TalentLMS said.",
-    "publishedAt": "2026-10-30",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-gpt-6-2-astra-claude-mythos-5-5-1793593733000",
-    "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
-    "link": "https://www.qbitai.com/2026/11/507082.html",
-    "summary": "HuggingFace疑似泄露权重已被下5000次",
-    "publishedAt": "2026-11-02",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-700-1793627710000",
-    "title": " 套现近700万后提前离场，鑫科材料董事长辞任，铜加工大佬入局前十大股东 ",
-    "link": "https://www.huxiu.com/article/4902429.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰网财经 一份同步出炉的人事公告与三季报，让鑫科材料站上资本关注焦点。 董事长提前离任并在此前大比例减持，三季度业绩由盈转亏，叠加股东名单里一位铜加工行业元老的悄然现身——人事、业绩、资本三条线索在同一个披露窗口交织，让这家国资控股的铜材企业连日成为市场讨论的样本。 01 董事长提前辞任，任内累计减持套现近700万元 鑫科材料发布公告，公司董事长宋志刚因个人原因，申请辞去董事长、董事及董事会专门委员会相关全部职务，离职后不再在上市公司及下属子公司担任任何职务。 按照任期安排，宋志刚原定任职至2028年11月，本次属于提前离任，距离任期届满尚有约两年时间。 真正让市场聚焦的，是这位董事长在任内的密集减持动作。公开减持记录显示，自2024年11月5日首次减持以来，宋志刚累计减持公司股票约210万股，累计套现约692.53万元；其持股数量也由此前的480万股一路降至约270万股，降幅超过四成，属于高比例的持续套现。 今年3月，宋志刚再度披露减持计划，拟减持不超过90万股并最终实施完毕（对应2026年5月19日、26日、27日的集中竞价减持），公告标注减持理由均为个人资金需求，减持途径为集中竞价交易，相关操作均按监管要求完成预披露、进展及结果公示。 减持套现的不止董事长一人。董事、总经理王生亦在2026年4月14日通过二级市场减持52.5万股，套",
-    "publishedAt": "2026-11-02",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-2026-1793617762000",
-    "title": "2026的新能源市场，站得最稳的是“星愿们”",
-    "link": "https://www.tmtpost.com/8190352.html",
-    "summary": "汽车行业花了很多年，把车做得更大、更快、更像一间移动客厅。如今，星愿们的成功开始提醒市场:真正高频的需求，未必需要宏大的答案。",
+    "id": "news--1793620001000",
+    "title": "控股股东拟注入巨龙铜业等铜锂资产，高争民爆一字涨停｜并购一线",
+    "link": "https://www.tmtpost.com/8190681.html",
+    "summary": "二级市场提前博弈重组预期。",
     "publishedAt": "2026-11-02",
     "source": "钛媒体",
     "tags": [
@@ -975,4 +975,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-02T14:40:22.092Z';
+export const dataFetchedAt = '2026-11-03T00:27:01.123Z';

@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-03-auto",
+    "date": "2026-11-03",
+    "session": "auto",
+    "title": "2026-11-03 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-03-auto-1",
+        "emoji": "💡",
+        "title": "Raising the quality of insights in agentic analytics",
+        "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+        "detail": "来源: MIT Technology Review。In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+      },
+      {
+        "id": "sig-2026-11-03-auto-2",
+        "emoji": "💡",
+        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+        "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+        "detail": "来源: TechCrunch。At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/"
+      },
+      {
+        "id": "sig-2026-11-03-auto-3",
+        "emoji": "💡",
+        "title": "How to make factory space for workers with disabilities",
+        "summary": "People with disabilities represent one of the largest talent pools manufactuers underutilize, experts said during a Manufacturing Institute webinar.",
+        "detail": "来源: HR Dive。People with disabilities represent one of the largest talent pools manufactuers underutilize, experts said during a Manufacturing Institute webinar.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/manufacturing-institute-timken-building-disability-friendly-careers-2026/873342/"
+      },
+      {
+        "id": "sig-2026-11-03-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Latent Reasoning in Continuous Space for Unified Multimodal ...",
+        "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re",
+        "detail": "作者: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee。Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability observed in large language models. We attribute this failure to a fundamental modality mismatch: reasoning is performed in a discrete token space, whereas image generation operates in a continuous space. To bridge this gap, we introduce a Latent Reasoning framework in Continuous space (LARC), which alleviates the token-level bottleneck by reasoning over continuous hidden states. Specifically, the training framework consists of two stages: (i)",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2610.42149v1"
+      },
+      {
+        "id": "sig-2026-11-03-auto-5",
+        "emoji": "💼",
+        "title": "Destination Careers 正在招募 Online Client Support &amp; Travel Booking We Will Train You",
+        "summary": "岗位类型：业务+AI 复合岗。We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support",
+        "detail": "技能要求: 未标注。We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support This remote role is ideal for someone who enjoys assisting others, communicates professionally, and thrives in a flexible work",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Destination Careers"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Destination Careers",
+        "link": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-03-1",
+        "priority": "low",
+        "action": "关注「Raising the quality of insights in agent」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-03-2",
+        "priority": "low",
+        "action": "关注「Hinge tests a cheaper plan as users beco」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-03-3",
+        "priority": "low",
+        "action": "关注「How to make factory space for workers wi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-03-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Latent Reasoning in Continuous Spac」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-03-5",
+        "priority": "medium",
+        "action": "关注「Destination Careers 正在招募 Online Client S」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Destination Careers"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 61,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-03 生成，聚合了 30 条新闻、20 篇论文、11 个岗位。",
+    "fetchWindow": "2026-11-03 00:00 - 2026-11-03 23:59"
+  },
+  {
     "id": "report-2026-11-02-auto",
     "date": "2026-11-02",
     "session": "auto",
