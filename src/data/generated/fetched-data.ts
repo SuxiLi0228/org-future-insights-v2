@@ -2,23 +2,22 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-blended-meat-restored-sight-and-the-agentic-web-1793797800000",
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+    "id": "news-texas-was-the-new-epicenter-of-the-ai-data-center-buildout-t-1793818255000",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
     "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-techcrunch-founder-summit-2026-doors-open-at-9-a-m-et-in-bos-1793797200000",
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "id": "news-ai-pacs-spent-millions-trying-to-shape-congress-here-8217-s--1793832309000",
+    "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
     "publishedAt": "2026-11-04",
     "source": "TechCrunch",
     "tags": [
@@ -28,24 +27,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employee-engagement-falls-to-lowest-level-in-15-years-gallup-1793737860000",
-    "title": "Employee engagement falls to lowest level in 15 years, Gallup finds",
-    "link": "https://www.hrdive.com/news/employee-engagement-falls-to-lowest-level-in-15-years-gallup/873459/",
-    "summary": "The biggest declines came from hybrid and remote employees at companies that had adopted artificial intelligence, according to the pollster.",
-    "publishedAt": "2026-11-03",
+    "id": "news-change-debt-not-change-fatigue-is-driving-burnout-research-s-1793829000000",
+    "title": "Change debt, not change fatigue, is driving burnout, research shows",
+    "link": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/",
+    "summary": "Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
+    "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-124-lion-er-35b-a3b-1793786918000",
-    "title": "不靠堆砌数据，让机器人看懂真实物理世界 &#124; 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-    "link": "https://www.qbitai.com/2026/11/507586.html",
-    "summary": "仅激活3B参数，十项基准全线提升！",
+    "id": "news--1793808803000",
+    "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+    "link": "https://www.qbitai.com/2026/11/507647.html",
+    "summary": "连路人都有自己的想法",
     "publishedAt": "2026-11-04",
     "source": "量子位",
     "tags": [
@@ -55,16 +53,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793798095000",
-    "title": " 最强厄尔尼诺到来，世界已进入危险区域 ",
-    "link": "https://www.huxiu.com/article/4903061.html?f=rss",
-    "summary": "本文来自微信公众号： 摩登中产 ，作者：摩登中产 一切如倒带重放。 一 30年前初冬，南美洲秘鲁向北的海上，海鸟像乌云一样，追着渔船盘旋。 渔民激动落泪，在船上叩拜，叩拜“圣婴”没有出现。 那些海鸟，是因鱼群聚集，深蓝的海面之下，黑压压的鳀鱼群正如军队般行进。 鳀鱼喜欢冷水，追逐寒流，寒流能把海底盐分翻起，滋养浮游植物，最后成为鳀鱼的食物。 鳀鱼比手指长不了多少，却是全球产量最大的单一鱼种，年产量1000万吨。 那些追逐海鸟的渔民，打捞鳀鱼，送入工厂，磨成鱼粉，发往全世界。 中国是进口大户，国内超市里的鱼虾，背后都遥遥指向秘鲁那片海。 秘鲁也将其视为国家财富，行情好的年头，仅靠鳀鱼，秘鲁就能获利30亿美元，养活25万人，庇佑无数沿海渔家的生活。 然而，年年在海上巡游的渔民发现，每隔几年，海中就会出现怪事。 海水会无缘由升温，鱼群也因此消失不见。孤零的海鸟寂寞游荡，对渔民而言，那就是无解天灾。 他们统计过，天灾没规律，但常在圣诞节后发生，于是起名为“圣婴”。西班牙语译成中文，叫厄尔尼诺。 圣婴的传说在渔家代代流传，但迟迟未入气象学家视野，更无人想过，它将改变世界的命运。 30年前，鳀鱼的丰收喜悦，仅仅维持了3个月，1997年4月，厄尔尼诺骤然爆发，秘鲁的外海开始发烧。 此后海水温度史无前例连涨8个月，12月时，赤道中东太平洋海表温度，比往年升高了2.8℃，一个世纪以来最强。 变暖的海",
+    "id": "news--1793816637000",
+    "title": " 日企守了四十年的印尼重卡市场，中国车四年拿下四成 ",
+    "link": "https://www.huxiu.com/article/4903093.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 日本卡车业的两个老对手，如今站到了同一边。 11月初，《金融时报》报道，由日野和三菱扶桑合并而成的Archion集团，希望依靠旗下全球约3700个销售和服务网点，应对中国品牌的竞争。 日野出自丰田集团，三菱扶桑由戴姆勒卡车控股，两家在亚洲市场缠斗了几十年，直到今年4月才完成业务整合。现在，它们共同的对手是中国重卡。 这种压力，在印度尼西亚感受得尤其真切。 日本卡车在印尼耕耘了四十多年，建起了工厂、本地供应商体系和遍布各岛的服务网点。 中国重卡只用了四年，就在重卡市场里拿下了四成。 一、 2020年起，印尼禁止镍原矿出口，要求矿石在本土冶炼加工。 此后几年，大批冶炼项目在苏拉威西和马鲁古群岛集中落地。印尼中央统计局数据显示，2024年全国镍矿石产量约1.985亿吨。 这一轮镍产业建设中，中国企业是主要的投资方。莫罗瓦利、哈马黑拉等地的产业园，以青山控股等中国企业为核心，从采矿、冶炼一路延伸到不锈钢和电池材料。采矿和运输需要大批重卡，中资矿企和冶炼企业，也就成了中国重卡在印尼最重要的一批客户。 2026年9月，印尼媒体Koran Indonesia援引汽车工业协会Gaikindo、中央统计局BPS和当地经销商Naraya Dipta Buana整理的数据称，四年间中国品牌在24吨以上重卡市场的销量从2964辆增至9240辆",
     "publishedAt": "2026-11-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -82,10 +81,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-securing-the-agentic-enterprise-with-data-lineage-1793797200000",
-    "title": "Securing the agentic enterprise with data lineage",
-    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1793816500000",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
     "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
@@ -94,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-canva-lays-off-over-1-200-people-amid-slowing-growth-1793793540000",
-    "title": "Canva lays off over 1,200 people amid slowing growth",
-    "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-    "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+    "id": "news-nothing-ceo-says-company-8217-s-mysterious-ai-first-device-i-1793830396000",
+    "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
     "publishedAt": "2026-11-04",
     "source": "TechCrunch",
     "tags": [
@@ -107,24 +106,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hr-employee-s-bias-claims-against-nyc-cathedral-fall-flat-ju-1793737860000",
-    "title": "HR employee’s bias claims against NYC cathedral fall flat, judge rules",
-    "link": "https://www.hrdive.com/news/hr-employee-bias-claims-against-nyc-cathedral-fall-flat/873627/",
-    "summary": "The case may demonstrate the importance of documenting performance issues in defending against discrimination litigation.",
-    "publishedAt": "2026-11-03",
+    "id": "news-dol-announces-applications-open-for-apprentice-payment-progr-1793829000000",
+    "title": "DOL announces applications open for apprentice payment program",
+    "link": "https://www.hrdive.com/news/dol-announces-applications-open-for-apprentice-payment-program/873713/",
+    "summary": "Relevant apprenticeship programs span the gamut from information technology to shipbuilding and defense to semiconductor production.",
+    "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-2026-1793782797000",
-    "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-    "link": "https://www.qbitai.com/2026/11/507574.html",
-    "summary": "一场别开生面的具身智能科技盛宴",
+    "id": "news-124-lion-er-35b-a3b-1793786918000",
+    "title": "不靠堆砌数据，让机器人看懂真实物理世界 &#124; 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "link": "https://www.qbitai.com/2026/11/507586.html",
+    "summary": "仅激活3B参数，十项基准全线提升！",
     "publishedAt": "2026-11-04",
     "source": "量子位",
     "tags": [
@@ -134,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793797871000",
-    "title": " 品牌叙事母题，为什么能被长期表达？ ",
-    "link": "https://www.huxiu.com/article/4903059.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：🌏 当一个品牌反复谈论「旅行」「自由」或「真实」，新的内容从哪里来？主题越稳定，似乎越容易重复；变化越多，又越容易失去原来的样子。 品牌星球此前在《品牌叙事的新单位》、《长期的品牌叙事，日常的小内容》中，讨论过长期项目与日常内容怎样围绕母题展开；《品牌叙事不只属于品牌部门》讨论了团队如何理解同一个品牌，并作出不同的表达。同一个母题反复表达时，为什么有些变化会丰富原来的主题，有些变化却让人觉得品牌已经变了？ 在品牌星球看来，过去的产品和故事帮助人们认出一个品牌，创作者的发现、产品用途和人的处境又为它提供了值得表达的内容。两者联系起来，同一个母题就能不断发展。如果后来的表达背离了原有主张，或与现实生活脱节，再熟悉的口号也可能失去说服力。 01 母题如何获得新的含义 人们通过产品的样子、使用感受、广告人物和品牌做过的事，逐渐形成对它的认识。这些记忆，也影响他们怎样理解后来看到的作品。 Kevin Lane Keller在1993年提出的基于顾客的品牌资产模型中，将品牌知识分为品牌知名度与品牌形象，后者由一组品牌联想构成。他强调，熟悉一个品牌，还不等于对它有偏好；积极、强烈且独特的联想，同样影响消费者的反应。 母题为这些记忆提供了联系。面对一件新产品或一支广告，人们会根据以往经验理解它表达的内容；这次体验，又为他们认识品牌增加了细",
+    "id": "news--1793810331000",
+    "title": " 中期选举，他们是怎么一败涂地的？ ",
+    "link": "https://www.huxiu.com/article/4903092.html?f=rss",
+    "summary": "本文来自微信公众号： 平原公子 ，作者：申鹏 美国中期选举，共和党两院全丢了。 也就是说，懂王这个执政周期，已经提前进入垃圾时间，他的命令，他推行的政策，他任命的官僚，从这时候起，就开始沦为废纸和泥塑木偶。 美国将进入一个“干啥啥不成”的阶段。 其实懂王、共和党、MAGA运动的失败早有预兆。 这次中期选举，民主党大获全胜，不是因为美国人民喜欢民主党，而是因为这一年来，懂王干的太烂了……他干的事情，就连MAGA内部都不支持。 他几个月内整的活儿，其他人四年都赶不上。 他建立ICE这样的盖世太保组织，在国内到处抓人，他打关税战，对加拿大和格陵兰提出领土要求，入侵委内瑞拉，抓走民选总统，和以色列一起偷袭伊朗，暗杀哈梅内伊，和伊朗陷入了长久的消耗战…… 他宣称要退出各种国际事务，要对全世界收钱，要让美国人民过上好日子，他许诺要让制造业回流，要让美国工业再次崛起，他吹嘘要反对民主党的DIE，要驱逐非法移民，要让美国变成一个传统的、纯粹的、白人的、没有十八个性别只有正常男人女人的国家……结果他一个都没做到。 最重要的是，他对以色列有着令人费解的忠诚和迷恋。 11月3日，美国中期选举开始，当天懂王连线福克斯新闻时，居然开玩笑称，“我在以色列的支持率高达99%，你能相信吗？事实上，如果美国人厌倦了我，我就搬去以色列当总理。”他还透露，自2018年开始，美国每年向以色列提供的40亿美元军事援助…… ",
     "publishedAt": "2026-11-04",
     "source": "虎嗅",
     "tags": [
@@ -161,11 +159,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-controlling-ai-agents-and-8220-super-intelligen-1793711400000",
-    "title": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
-    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
-    "publishedAt": "2026-11-03",
+    "id": "news-what-s-next-for-us-energy-policy-after-the-midterm-elections-1793812080000",
+    "title": "What’s next for US energy policy after the midterm elections?",
+    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.&#160;&#160;&#8230;",
+    "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -173,10 +171,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-8217-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-1793767500000",
-    "title": "India&#8217;s EloElo nabs $80M from NBCUniversal to bet on the country&#8217;s rising microdrama market",
-    "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-    "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+    "id": "news-almost-no-one-uses-ai-agents-to-book-their-uber-company-says-1793829361000",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
     "publishedAt": "2026-11-04",
     "source": "TechCrunch",
     "tags": [
@@ -186,23 +184,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-inside-the-supreme-court-case-that-could-decide-title-ix-emp-1793737800000",
-    "title": "Inside the Supreme Court case that could decide Title IX employee protections",
-    "link": "https://www.hrdive.com/news/inside-the-supreme-court-case-that-could-decide-title-ix-employee-protectio/873619/",
-    "summary": "This month, the high court will hear arguments on whether higher education workers have the right to sue their institutions for sex-based discrimination.",
-    "publishedAt": "2026-11-03",
+    "id": "news-lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discri-1793828940000",
+    "title": "Lockheed Martin to pay nearly $30M to settle claims of discrimination against White workers",
+    "link": "https://www.hrdive.com/news/lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discrimination-against-White-workers/873733/",
+    "summary": "The federal government alleged that HR personnel &ldquo;exerted pressure on leaders&rdquo; to remove nonminority employees initially selected for a compensation program and add minority workers.",
+    "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-ai-30-1793782152000",
-    "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-    "link": "https://www.qbitai.com/2026/11/507567.html",
-    "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+    "id": "news-2026-1793782797000",
+    "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+    "link": "https://www.qbitai.com/2026/11/507574.html",
+    "summary": "一场别开生面的具身智能科技盛宴",
     "publishedAt": "2026-11-04",
     "source": "量子位",
     "tags": [
@@ -212,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793797645000",
-    "title": " 上海卫星互联网的下一阶段：从造星到建网 ",
-    "link": "https://www.huxiu.com/article/4903058.html?f=rss",
-    "summary": "本文来自微信公众号： 太空与网络 ，作者：老谭 上海卫星互联网的下一阶段：从造星到建网 ——到2030年在轨卫星超过3000颗，核心产业规模突破800亿元 10月27日，2026卫星互联网产业生态大会在上海松江开幕，会上发布《上海市卫星互联网产业创新发展行动方案（2027至2030年）》（以下简称“方案”）。方案提出，到2030年上海在轨卫星超过3000颗，网络容量达到150Tbps以上，核心产业规模突破800亿元。 过去几年，上海卫星互联网的重心在造星和发射。松江G60卫星数字工厂一年能下线300颗卫星，单星生产1.5天；2027年上海商业卫星智能制造能力的目标是1000颗/年。千帆星座累计发射256颗，2026年计划发射216颗。9月16日，引力一号遥三在东海海域把8颗千帆组网卫星和1颗试验卫星送入800公里轨道，这是千帆第一次在海上完成组网发射。造星和发星只是网络的前置条件，下一阶段需要把卫星、地面站、终端和运营组织起来。 上海造星能力已经具备 松江千帆路聚集了垣信卫星、格思航天两家链主企业和60多家上下游企业。格思航天的G60卫星数字工厂2023年12月投产，二期设计产能600颗；2022年，格思联合体拿下千帆星座超过600颗组网卫星的订单，金额约45亿元 上海市在2023年11月提出，到2025年形成年产50发商业火箭、600颗商业卫星的制造能力。2025年4月又把202",
+    "id": "news--1793808582000",
+    "title": " 反焦虑：如果“更好”很难实现，“够好”是否也值得追求？ ",
+    "link": "https://www.huxiu.com/article/4903090.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：王仁定 2026年3月，著名金融学家吴晓求在一次公开演讲中说道：中国经济今天已经从短缺走向过剩，供给能力有了极大的提升。我们必须学会如何应对过剩经济的管理问题，要深刻理解从短缺经济到过剩经济的本质差异。 这句话点出了一个容易被忽视的事实：短缺和过剩不只是供给量的差别，它们对应着两套完全不同的经济逻辑。 过去吃不饱饭，但整个社会气氛是向上的。今天什么都不缺，但全民普遍焦虑，包括企业家，连那些被树立为标杆的二代接班人也接连塌房。 这不是偶然，这是经济体制底层逻辑切换之后的必然结果。 短缺与过剩：不是量的差别，是逻辑的差别 短缺经济，指的是供给约束——生产不足、供不应求。在计划经济体制下，短缺是常态。 过剩经济，指的是需求约束——产能超过市场需求，供过于求。在市场经济体制下，过剩是常态。 吴晓求对此有一个精炼的概括：在短缺经济模式下，核心任务是扩大生产、保障供给；进入过剩经济之后，核心任务转向了如何管理过剩、如何创造有效需求。 中国经济从上世纪70年代末开始改革开放，逐步走上市场经济之路。到1997年下半年，中国市场上近32%的主要消费品出现供给过剩；到1999年，这一比例超过了75%。此后，生产相对过剩或总需求不足成为中国经济的常态。 真正让过剩经济成为“常态”的标志性分水岭，是2012年。 中国经济增速在2012年跌破8%，2015年跌破7%",
     "publishedAt": "2026-11-04",
     "source": "虎嗅",
     "tags": [
@@ -239,23 +238,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-reverse-game-theory-could-keep-ai-agents-in-check-1793702621000",
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
-    "publishedAt": "2026-11-03",
+    "id": "news-the-download-blended-meat-restored-sight-and-the-agentic-web-1793797800000",
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+    "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-anthropic-is-working-on-a-system-to-prove-ai-models-8217-ide-1793745663000",
-    "title": "Anthropic is working on a system to prove AI models&#8217; identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "publishedAt": "2026-11-03",
+    "id": "news-snapchat-surpasses-30m-paid-subscribers-1793828969000",
+    "title": "Snapchat surpasses 30M paid subscribers",
+    "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+    "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+    "publishedAt": "2026-11-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -264,24 +264,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-eeoc-signals-rollback-of-pregnant-workers-fairness-act-regul-1793737800000",
-    "title": "EEOC signals rollback of Pregnant Workers Fairness Act regulations",
-    "link": "https://www.hrdive.com/news/eeoc-signals-rollback-to-pregnant-workers-fairness-act-protections/873603/",
-    "summary": "Current regulations open the door to &ldquo;requiring accommodations potentially extending to a myriad of conditions ranging from infertility to menstruation to hormone issues to menopause,&rdquo; Chair Andrea Lucas previously wrote.",
-    "publishedAt": "2026-11-03",
+    "id": "news-election-day-2026-sees-states-sound-off-on-abortion-gender-i-1793828640000",
+    "title": "Election Day 2026 sees states sound off on abortion, gender identity and unions",
+    "link": "https://www.hrdive.com/news/election-day-2026-states-sound-off-abortion-gender-identity-unions/873798/",
+    "summary": "The success of some down-the-ballot measures translates to an even more complicated legal landscape for employers.",
+    "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-agent-openjiuwen-agent-memory-1793760542000",
-    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-    "link": "https://www.qbitai.com/2026/11/507533.html",
-    "summary": "长视频记忆精度飙升，问答时延最高降97%",
+    "id": "news-ai-ai-30-1793782152000",
+    "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+    "link": "https://www.qbitai.com/2026/11/507567.html",
+    "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
     "publishedAt": "2026-11-04",
     "source": "量子位",
     "tags": [
@@ -291,10 +290,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793797208000",
-    "title": " 特朗普两院全输，躺赢的民主党要惨烈内斗了 ",
-    "link": "https://www.huxiu.com/article/4903054.html?f=rss",
-    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 美国的中期选举（在本文成稿的时候）于北京时间今天开票。在结果尘埃落地之前，为了赢得这场选举，两党也都派出了自己的所有政治元老各处拉票，共和党方面，特朗普在政事方面的\"工作\"几乎全部平息，每天的最大工作似乎就是全国巡演为共和党候选拉票；而民主党这一边，他们又一次把奥巴马拉了出来让他几乎背书了民主党在各个州的所有民主党候选人。从DSA（美国民主社会主义者）左翼到中间温和派，一句话，只要你身上顶着一个民主党的标签，你就能收到奥巴马的青睐。 从本文成稿时候的民调与预测来看，民主党可以轻松拿下众议院的多数，笔者在选前的预测也是民主党在参议院的大胜。而从当下的开票结果来看，民主党这次的大胜可以说是历史级别的，多个老牌红州都被翻蓝。对于特朗普政府之后的两年来说，他的执政在之前拥有共和党两院多数的情况下都已经如此不顺，在这之后只会更加瘸腿。 但是，这并不意味着民主党在之后的两年和2028的总统选举里就是一帆风顺。了解美国政治的读者们都应该有对所谓的\"金里奇革命\"（The Gingrich Revolution）有所耳闻：在克林顿第一届执政的1994年中期选举里，当时的众议院共和党领袖纽特·金里奇通过一份名为《与美国的契约》的保守派纲领成功将两院翻红。 但是在之后的两年里，因为共和党以为这次选举给了共和党强硬的理由，导致他们太过阻挡政府议程，于是美国民",
+    "id": "news-63-1793808578000",
+    "title": " 币安被盗63亿美元，加密货币还能走多远？ ",
+    "link": "https://www.huxiu.com/article/4903089.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：战魔田默 一场涉及63亿美元加密资产的巨额盗窃，震动全球金融市场。 10月30日凌晨，全球最大的加密资产交易平台币安遭遇网络攻击。被盗资产折合人民币420多亿元。 币安承诺承担损失。恢复提现后的前九个半小时，平台披露资金净流出36.4亿美元。但一些机构投资者减少了存放在币安的资产，却没有停止通过币安交易。 他们希望降低集中托管风险，又难以轻易放弃头部交易所的流动性。 区块链分析机构Elliptic估算，此次盗窃涉及11条区块链，资产价值约64.3亿美元。币安称已补足约95%的受影响资产，Elliptic确认约28.5亿美元涉案资产被冻结或扣押。补足客户资产、冻结涉案资金与追回被盗资产，是三个不同的过程。 2008年，比特币白皮书提出一种不依赖可信第三方的电子现金方案。18年后，加密资产市场重新形成了管理巨额财富的中心化平台，而传统银行与支付机构又开始主动吸收相关数字技术。 63亿美元被盗，问题出在区块链吗？ 区块链能够验证一笔交易是否符合协议规则，却无法单凭交易记录确认发起者是否获得资产所有人的合法授权。底层网络的安全与交易平台的经营安全，是两回事。 币安最初调查认为，攻击可能涉及一名开发运维人员的电脑遭到入侵，随后又发现其他入侵点。截至10月30日，其公告称尚未发现钱包私钥泄露的证据。完整攻击路径仍待确认，现有资料也不能证明区块链底层密码",
     "publishedAt": "2026-11-04",
     "source": "虎嗅",
     "tags": [
@@ -318,11 +317,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-s-who-is-falling-in-line-for-trump-s-super-intelligence-1793679527000",
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
-    "publishedAt": "2026-11-03",
+    "id": "news-securing-the-agentic-enterprise-with-data-lineage-1793797200000",
+    "title": "Securing the agentic enterprise with data lineage",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -330,11 +329,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-data-centers-are-turning-to-old-jet-engines-as-the-wait-for--1793744393000",
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "publishedAt": "2026-11-03",
+    "id": "news-openai-is-already-trying-to-shape-the-2028-election-1793827544000",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "publishedAt": "2026-11-04",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -343,25 +342,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-trends-to-expect-in-l-d-in-2027-1793721780000",
-    "title": "4 trends to expect in L&D in 2027",
-    "link": "https://www.hrdive.com/news/4-trends-to-expect-in-ld-in-2027/873556/",
-    "summary": "Learning leaders face &ldquo;pretty lofty expectations from both our CHROs and our boards,&rdquo; a Gartner analyst said.",
-    "publishedAt": "2026-11-03",
+    "id": "news-eeo-1-s-end-may-not-alter-much-the-data-s-value-was-never-li-1793804760000",
+    "title": "EEO-1’s end may not alter much. The data’s value ‘was never limited to compliance.’",
+    "link": "https://www.hrdive.com/news/eeo-1s-end-may-not-alter-much-data-compliance-eeoc/872900/",
+    "summary": "The strongest organizations use data as a diagnostic tool by looking for patterns, asking questions and making improvements where needed, one source told HR Dive.",
+    "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-ai-1793714231000",
-    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-    "link": "https://www.qbitai.com/2026/11/507507.html",
-    "summary": "AI接管调度运营，仓库越干越聪明",
-    "publishedAt": "2026-11-03",
+    "id": "news-agent-openjiuwen-agent-memory-1793760542000",
+    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+    "link": "https://www.qbitai.com/2026/11/507533.html",
+    "summary": "长视频记忆精度飙升，问答时延最高降97%",
+    "publishedAt": "2026-11-04",
     "source": "量子位",
     "tags": [
       "china",
@@ -370,16 +369,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793796919000",
-    "title": " 破局医院创新转化堵点：从“成果后置”到“创新前置”的范式转换 ",
-    "link": "https://www.huxiu.com/article/4903052.html?f=rss",
-    "summary": "本文来自微信公众号： 健康界 ，作者：郑涛，原文标题：《破局医院创新转化堵点：从「成果后置」到「创新前置」的范式转换》 科技成果转化之困，根源不在「转」的效率，而在「创」的时序。这一点在医院表现得尤为典型：临床需求就在病房与手术台旁，却同样要先被制造成「成果」，再去寻找承接方。当成果被要求先于协同而独立生成，「转化」便成为一道事后补救的工序。 2026年10月21日，由中办、国办印发的《关于推动科技创新和产业创新深度融合的意见》，其制度设计指向的并非强化转化环节，而是将产业需求的介入时点从成果形成之后回溯至创新过程之中。 由此发生的，是一场从「成果后置型转化」到「创新前置型协同」的范式转换。「转化」作为独立环节的退场，不是对科技与产业结合价值的否定，而是创新组织方式从线性搬运走向内生共生的必然结果。 本文作者为安徽省肿瘤防治所副所长、合肥市科技成果概念验证中心主任郑涛 在所有创新场景中，医院本应是最不需要为「转化」发愁的领域。临床需求不写在市场报告里，而存在于门诊、手术台与病房交班的日常之中，未被满足的需求每天都在被真实触碰。从这一意义上说，医学兼具双重属性：既是知识生产的场域，又是应用场景的发生地。若按常理推断，科技成果转化的难题在医院理应最轻，也最应率先被破解。 现实恰恰相反。较之一般技术领域，医学成果走向临床应用还要额外跨越伦理审查、临床试验、注册审批与卫生技术评估等关口，周",
+    "id": "news-100-1793808424000",
+    "title": " 数据中心上太空后，人类仰望星空时看到的卫星数量或达星星的100倍？ ",
+    "link": "https://www.huxiu.com/article/4903088.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：李莹 全球AI算力竞赛正把数据中心送上太空。几位天文学家的最新研究警告，若相关卫星星座计划不加约束地全部落地，部分时段夜空中的可见卫星或远多于恒星，全球星空将面临深刻改变。 由加拿大不列颠哥伦比亚大学天文学教授、外层空间研究所联合所长Aaron Boley，里贾纳大学天文学副教授Samantha Lawler，以及多伦多大学士嘉堡分校副教授Hanno Rein共同撰写、今年8月发布的预印本论文《天空中的光环：轨道数据中心及其对天文学和天空的潜在影响》（Rings in the Sky:Orbital Data Centres and Potential Impacts to Astronomy and the Sky）指出：如果SpaceX、蓝色起源以及美国航天企业Cowboy Space向美国联邦通信委员会（FCC）申报的轨道数据中心按计划建成且不采取缓解措施，某些时段夜空中可见卫星数量或达到恒星的约100倍。 这意味着，地面望远镜拍摄的图像将布满卫星留下的亮痕，天文学家观测暗弱星体和星系的能力将大打折扣。普通人仰望星空时，看到的也将是成片移动的人造光点，而非纯净的自然星空。 该论文依据上述三家公司申报文件，对三种设计方案进行了建模。其中，蓝色起源的“Sunrise”卫星星座最多包含5.16万颗卫星，Cowboy Space的“Stamped",
     "publishedAt": "2026-11-04",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -773,6 +773,24 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137675",
+    "title": "Paid Media Manager US ",
+    "company": "Kyra",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse",
+      "Our platform manages the full lifecycle — creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok,"
+    ],
+    "skills": [
+      "RAG"
+    ],
+    "location": "US",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+    "postedAt": "2026-11-03",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137619",
     "title": "AI ML Engineer",
     "company": "Docusketch",
@@ -1007,4 +1025,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-04T13:43:30.797Z';
+export const dataFetchedAt = '2026-11-04T23:09:23.313Z';

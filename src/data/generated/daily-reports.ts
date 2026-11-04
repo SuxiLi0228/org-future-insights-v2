@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-05-auto",
+    "date": "2026-11-05",
+    "session": "auto",
+    "title": "2026-11-05 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-05-auto-1",
+        "emoji": "⚠️",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+        "detail": "来源: MIT Technology Review。Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+      },
+      {
+        "id": "sig-2026-11-05-auto-2",
+        "emoji": "💡",
+        "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+        "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "detail": "来源: TechCrunch。AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+      },
+      {
+        "id": "sig-2026-11-05-auto-3",
+        "emoji": "💡",
+        "title": "Change debt, not change fatigue, is driving burnout, research shows",
+        "summary": "Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
+        "detail": "来源: HR Dive。Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/"
+      },
+      {
+        "id": "sig-2026-11-05-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：DreamX: Video Diffusion Model is a Universal Latent Action L...",
+        "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc",
+        "detail": "作者: Jisoo Kim, Chaehyun Kim, Junsu Kim。Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiotemporal features, compressing each latent video frame by $\\boldsymbol{300\\times}$ ($\\boldsymbol{1{,}200 \\rightarrow 4}$ tokens). In addition, by leveraging the video model's generative prior, these lat",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.05377v1"
+      },
+      {
+        "id": "sig-2026-11-05-auto-5",
+        "emoji": "💼",
+        "title": "Kyra 正在招募 Paid Media Manager US ",
+        "summary": "岗位类型：业务+AI 复合岗。About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse",
+        "detail": "技能要求: RAG。About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse Our platform manages the full lifecycle — creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Kyra"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Kyra",
+        "link": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-05-1",
+        "priority": "medium",
+        "action": "关注「Texas was the new epicenter of the AI da」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-05-2",
+        "priority": "low",
+        "action": "关注「AI PACs spent millions trying to shape C」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-05-3",
+        "priority": "low",
+        "action": "关注「Change debt, not change fatigue, is driv」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-05-4",
+        "priority": "medium",
+        "action": "关注「研究速递：DreamX: Video Diffusion Model is a 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-05-5",
+        "priority": "medium",
+        "action": "关注「Kyra 正在招募 Paid Media Manager US 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Kyra"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-05 生成，聚合了 30 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-11-05 00:00 - 2026-11-05 23:59"
+  },
+  {
     "id": "report-2026-11-04-auto",
     "date": "2026-11-04",
     "session": "auto",
