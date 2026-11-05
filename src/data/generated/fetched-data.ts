@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-yc-startup-is-putting-1m-behind-five-unsolved-materials-sc-1793883600000",
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "id": "news-airbnb-says-it-8217-s-launching-an-ai-travel-agent-in-the-fi-1793918455000",
+    "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "publishedAt": "2026-11-05",
     "source": "TechCrunch",
     "tags": [
@@ -27,11 +27,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-change-debt-not-change-fatigue-is-driving-burnout-research-s-1793829000000",
-    "title": "Change debt, not change fatigue, is driving burnout, research shows",
-    "link": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/",
-    "summary": "Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
-    "publishedAt": "2026-11-04",
+    "id": "news-nearly-two-thirds-of-hr-leaders-expect-layoffs-in-2027-1793913480000",
+    "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
+    "link": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
+    "summary": "As companies plan payroll reductions, they&rsquo;re also tightening their belts on severance packages while offering more extensive career transition services.",
+    "publishedAt": "2026-11-05",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793886856000",
-    "title": " 小城机场，开始大洗牌 ",
-    "link": "https://www.huxiu.com/article/4903380.html?f=rss",
-    "summary": "本文来自微信公众号： 城市进化论 ，作者：杨弃非 失守与突围 又有新机场即将“起飞”。 近日，四川省机场集团有限公司乐山机场分公司注册成立，乐山机场正向着通航阶段冲刺。 公开信息显示，乐山机场飞行区等级为4C级，按满足2030年旅客吞吐量200万人次、货邮吞吐量1.2万吨的目标设计建造。通航后，乐山机场将由四川省机场集团托管运营。 此外，山东枣庄翼云机场也已进入通航倒计时，计划年内启用；贵州威宁草海机场9月底完成校飞，为后续试飞、验收、通航奠定基础；6月，新疆巴音郭楞轮台机场正式通航，成为新疆第29个机场。 这些新机场都有一个共同点——位于小城的支线机场。 截至2025年底，全国颁证运输机场达到270个。其中，年旅客吞吐量200万人次以下支线机场共191个，占全部机场数量超七成。 11月4日，国家发展改革委透露，“十五五”时期我国将新建约15个民用运输机场，继续“合理加密支线机场和通用机场布局”。 但另一方面，近来部分支线机场客流下降、航线减少的现象引发关注。就在不久前，九寨黄龙机场一度传出首次“季节性停航”的消息，鄂州花湖机场则暂停客运业务。 随着越来越多的小城迈入机场时代，支线机场该何去何从？ 01 分流 高铁还是飞机？从高铁加速成网开始，这个选择题就一直困扰着民航业。目前看来，高铁的赶超势头正愈加明显。 九寨黄龙机场颇具代表性。2003年建成通航的九黄机场，是国内首座旅游支线",
+    "id": "news--1793897203000",
+    "title": " 半托管之后，海外仓正在变成平台的“计件工” ",
+    "link": "https://www.huxiu.com/article/4903409.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年上半年，EDA集团收入增长14.3%，净利润却从盈利1930万元变成亏损4216万元。 这不只是一家公司的经营问题。平台把尾程定价权收回手里之后，海外仓剩下的收入，越来越接近一笔按件计费的操作费。 操作费的单价被平台压住，库容、租金、人力和设备折旧却是刚性的。两边增速对不上，利润表就会给出答案。 每收100元，海外仓留下多少 海外仓这门生意有一个容易被忽略的事实：它赚的钱，大部分要付给上游的承运商和房东。 EDA上半年营业成本9.82亿元，其中国际运输、尾程配送和转运的物流成本占62.6%，仓库运营成本占21.1%，人工占16.4%。按6.5%的毛利率换算，每收100元，约58.5元流向UPS、FedEx和区域承运商，约19.7元花在仓库运营上，约15.3元付给当地劳动力市场，最后留在海外仓手里的毛利，只有6.5元左右。 能留给海外仓自己优化的，只剩两件事：仓内操作效率，和尾程渠道组合。 这个成本结构本来就很紧。2026年，这条缝又被收窄了一层。 最肥的那段路，被平台面单切走了 海外仓的利润主要从哪里来？浙商证券有一个跨境电商的系列研究，海外仓收入中尾程物流费差价占74%，包裹处理服务费占18%，仓储费只占8%。 尾程差价的赚法并不复杂。服务商拿着自己和UPS、FedEx谈下来的折扣价接单，再按一个高于折扣价",
     "publishedAt": "2026-11-05",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793874661000",
-    "title": "具身智能，变天了",
-    "link": "https://www.tmtpost.com/8194393.html",
-    "summary": "数采爆单，具身大脑公司慌了。",
+    "id": "news-1-5500-1793887517000",
+    "title": "1亿卖“闲置”预增利5500万，康惠股份用存量资产换转型时间",
+    "link": "https://www.tmtpost.com/8195129.html",
+    "summary": "这是康惠股份易主一年多来，转型路径的一次集中投射——一边通过资产处置获取一次性收益、平滑利润表，一边推动算力业务从签约阶段进入运营兑现期，同时对原有医药资产做重新摆布。",
     "publishedAt": "2026-11-05",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-agility-is-the-first-pure-humanoid-robot-company-on-the-stoc-1793880000000",
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "id": "news-serve-robotics-launches-new-business-to-become-the-aws-for-r-1793913300000",
+    "title": "Serve Robotics launches new business to become the AWS for robots",
+    "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+    "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
     "publishedAt": "2026-11-05",
     "source": "TechCrunch",
     "tags": [
@@ -106,11 +106,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-announces-applications-open-for-apprentice-payment-progr-1793829000000",
-    "title": "DOL announces applications open for apprentice payment program",
-    "link": "https://www.hrdive.com/news/dol-announces-applications-open-for-apprentice-payment-program/873713/",
-    "summary": "Relevant apprenticeship programs span the gamut from information technology to shipbuilding and defense to semiconductor production.",
-    "publishedAt": "2026-11-04",
+    "id": "news-workers-will-likely-have-to-shoulder-more-of-their-healthcar-1793913480000",
+    "title": "Workers will likely have to shoulder more of their healthcare costs, employers say",
+    "link": "https://www.hrdive.com/news/workers-will-likely-have-to-shoulder-more-of-their-healthcare-costs/873803/",
+    "summary": "As companies try to offset accelerating costs, employees face higher out-of-pocket expenses and the loss of some generous coverage options, a WTW survey found.",
+    "publishedAt": "2026-11-05",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -132,24 +132,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793886204000",
-    "title": " 不拼外卖的京东，才是大家都爱的好京东 ",
-    "link": "https://www.huxiu.com/article/4903377.html?f=rss",
-    "summary": "本文来自微信公众号： 超聚焦foci ，作者：方文三 11月4日，第一财经、红星资本局等媒体确认，京东本地生活业务负责人郭庆（老K）因个人原因离职。此时距离他以CEO顾问身份加入京东，过去了两年零十个月，距离京东外卖正式上线那场轰动全国的“外卖大战”，仅过去一年零九个月。 郭庆2014年加入美团，一手推动酒旅业务，2020年进入美团最高决策机构S-team，2021年离职。京东请他来用意很明晰，把美团那套打本地生活的组织能力和战争经验，移植到京东的即时零售版图上。 京东外卖正式上线后，以“免佣”“五险一金”“百亿补贴”三板斧切入，日单量在四个月内冲到2500万单，一度占据全国外卖市场约31%的份额，那是京东本地生活最接近“改变格局”的时刻。 但后来的故事我们都知道了，用补贴买来的份额，和用效率挣来的份额，从来不是同一种东西。 01 用外卖激活用户 结果激活了营销开支 郭庆加入的2024年，京东正处于一种焦躁情绪中。电商主站增速放缓，拼多多和抖音在两端挤压，高频入口的缺失被反复提及。 外卖当时被寄望于同时解决两个问题，一是用一日三餐的打开频次重新激活用户，二是用即时配送的网络为“秒送”和即时零售铺路。 2024年5月，京东将小时购与京东到家整合为“京东秒送”。下半年，瑞幸、库迪、汉堡王等连锁品牌悄然出现在秒送专区的咖啡奶茶频道。2025年2月，外卖正式以独立入口上线，免佣、补贴、全职",
+    "id": "news-20-ai-app-1793896132000",
+    "title": " 20家大厂签约，AI操作App仍要过三道关 ",
+    "link": "https://www.huxiu.com/article/4903406.html?f=rss",
+    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：钱喆 11月4日，2026年世界互联网大会乌镇峰会上，中国信通院联合华为、腾讯、阿里、蚂蚁、抖音、小米等20家机构与企业，发布了《智能体发展自律公约》。 公约涉及智能体身份验证、跨平台互操作、分类分级授权、安全防护等八项内容。对于已经在AI领域投入大量资源的互联网公司而言，推动智能体互联并不难理解。值得注意的是，参与这次倡议的企业中，有不少旗下应用刚刚对豆包手机助手的自动化操作表达过拒绝。 10月14日，豆包手机助手公布《屏幕自动化操作声明协议》（SAEP）公示期结束后的拒绝名单。按照澎湃新闻当晚的统计，共有155款应用明确拒绝豆包手机助手进行屏幕自动化操作。其中，腾讯及关联生态66款、阿里及关联生态23款、快手及关联生态14款、美团及关联生态11款。 微信、QQ、淘宝、支付宝、美团、大众点评等应用都在名单之中。拒绝的并非用户正常使用这些App，而是豆包通过识别屏幕、模拟点击和输入等方式，代替用户完成应用内操作。 不到一个月，一些旗下应用拒绝豆包自动化操作的企业，又共同签署了一份推动智能体互联的公约。 两份文件的适用范围并不相同。拒绝特定助手进行屏幕自动化，与支持经过授权的接口协作，原本可以同时成立。它们接连出现，反映出AI助手正在触及互联网平台过去很少向外部开放的一部分权力：决定用户如何使用自身服务。 过去十多年，互联网公司围绕",
     "publishedAt": "2026-11-05",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
       "technology",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-k12-1793874634000",
-    "title": "机器人，开始卷K12了",
-    "link": "https://www.tmtpost.com/8194643.html",
-    "summary": "给孩子买机器人，也会像今天买学习机、平板和电话手表一样自然。家长的理由还是那句最朴素的话：给孩子学习。",
+    "id": "news--1793874661000",
+    "title": "具身智能，变天了",
+    "link": "https://www.tmtpost.com/8194393.html",
+    "summary": "数采爆单，具身大脑公司慌了。",
     "publishedAt": "2026-11-05",
     "source": "钛媒体",
     "tags": [
@@ -172,31 +172,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-ditches-grubhub-taps-uber-eats-for-prime-1793876400000",
-    "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-    "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-    "summary": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+    "id": "news-meta-says-us-users-can-now-video-chat-with-their-muse-ai-ava-1793908108000",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
     "publishedAt": "2026-11-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discri-1793828940000",
-    "title": "Lockheed Martin to pay nearly $30M to settle claims of discrimination against White workers",
-    "link": "https://www.hrdive.com/news/lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discrimination-against-White-workers/873733/",
-    "summary": "The federal government alleged that HR personnel &ldquo;exerted pressure on leaders&rdquo; to remove nonminority employees initially selected for a compensation program and add minority workers.",
-    "publishedAt": "2026-11-04",
+    "id": "news-dol-final-rule-revamps-antidiscrimination-requirements-for-a-1793913480000",
+    "title": "DOL final rule revamps antidiscrimination requirements for apprenticeships",
+    "link": "https://www.hrdive.com/news/dol-proposes-revamp-of-discrimination-practices-in-apprenticeships/873924/",
+    "summary": "The U.S. Department of Labor issued a final rule to rescind &ldquo;affirmative action requirements&rdquo; for federally registered apprenticeships, effective Jan. 5.",
+    "publishedAt": "2026-11-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -213,10 +211,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-9-1793885925000",
-    "title": " 神经科学教给我的9个好用小技巧 ",
-    "link": "https://www.huxiu.com/article/4903376.html?f=rss",
-    "summary": "本文来自微信公众号： L先生说 ，作者：李睿秋Lachel 今天的推送，我想跟你分享9条有神经科学支撑，简单又好用的小技巧。 它们曾经给过我很多帮助，也希望能对你有启发。 1.把重要的决策分配在适合的时间 很多人可能有这样的感受：晚上，尤其是深夜的时候，做出来的决定，再过了几天去看往往会后悔。 为什么会这样呢？原因有两点： 1）白天的时候，我们的注意力会集中在外部事件上。而到了晚上，外部事件和信息减少，我们的注意力从而把目标转移到内部。这就很容易导致思维反刍，也就是重新回想起那些焦虑、烦恼、悬而未决、不够确定的事情。 2）经过了一天的工作和思考，到了晚上，我们的前额叶活动往往会变弱，从而削弱对大脑的控制和主导能力。于是，我们的杏仁核和伏隔核容易变得更活跃。这带来的直接结果就是：我们的情绪更容易波动，同时更容易冲动，只看到短期的回报。 这两者结合起来，就会产生一个结果：在晚上做出决策，往往会倾向于冲动和冒险，消除眼前的不适，获取短期的回报。 尤其如果你处于疲乏和困倦状态下，供给大脑分析的资源更少，这种现象会更明显。 因此，如果你正在做一个很重要的决策，尽量避免在晚上去思考它，以防它影响你的心态。 那么，什么时候做重要的决策更好呢？最好选择你在一天里面状态最佳、最放松、心情最好的时候去做。这时你的头脑会更清晰，不容易受到杂念的困扰。 通常来说，对于晨型人，这个时间可能是清晨起床后；对于",
+    "id": "news--1793895791000",
+    "title": " 市场不再相信存储超级周期？ ",
+    "link": "https://www.huxiu.com/article/4903404.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 SK海力士、铠侠、三星电子刚刚交出单季盈利创纪录的财报，前两者今年Q3的营业利润率高达80%。然而，全球存储板块股价却连续两日大跌。 美东时间11月4日，美股希捷科技、闪迪、美光科技、西部数据分别收跌8.13%、7.91%、7.00%和6.77%。北京时间11月5日，抛售蔓延至亚太市场，SK海力士、三星电子分别收跌9.46%和7.57%，日本闪存厂商铠侠收跌13.14%；A股的长鑫科技（688825.SH）下跌3.54%，主力净流出24.89亿元。美股盘前，SK海力士（SKHY.O）、西部数据跌超4%，美光科技、闪迪、希捷科技跌超3%。 这一时间正值美国中期选举结束，但中期选举只是最新的触发因素，更深的担忧指向涨价本身。存储厂商的利润主要靠涨价推动，在利润率已处于历史高位之后，市场更关心涨价还能持续多久，下游需求能否接住这样的价格，这轮景气能否延续到2027年。 涨价边际效应递减 本轮存储行业的利润爆涨主要来自涨价，随着合约价涨幅逐季收窄，存储企业的业绩环比增速也开始回落。 研究机构集邦咨询预测，2026年第二季度一般型DRAM合约价上涨58%-63%，第三季度环比涨幅收窄至13%-18%，第四季度进一步降至10%-15%。 群智咨询表示，进入第四季度，存储市场的涨价仍在继续，但不同品类涨幅呈现显著分化。与以往全品类齐涨不同，本季度上涨",
+    "publishedAt": "2026-11-05",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-k12-1793874634000",
+    "title": "机器人，开始卷K12了",
+    "link": "https://www.tmtpost.com/8194643.html",
+    "summary": "给孩子买机器人，也会像今天买学习机、平板和电话手表一样自然。家长的理由还是那句最朴素的话：给孩子学习。",
+    "publishedAt": "2026-11-05",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1793816500000",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
+    "publishedAt": "2026-11-04",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meta-warns-that-election-backlash-against-data-centers-could-1793905959000",
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "publishedAt": "2026-11-05",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-rebounding-could-cost-companies-1793892300000",
+    "title": "‘AI rebounding’ could cost companies",
+    "link": "https://www.hrdive.com/news/ai-rebounding-could-cost-companies/873462/",
+    "summary": "Employers are replacing workers with artificial intelligence and then calling them back&nbsp;&mdash; but employees are demanding more money to return.",
+    "publishedAt": "2026-11-05",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-harness-datat-agent-1793844111000",
+    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+    "link": "https://www.qbitai.com/2026/11/507696.html",
+    "summary": "Data + AI 技术实践巡展 · 上海站",
+    "publishedAt": "2026-11-05",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793895097000",
+    "title": " 从美食帝国到“零元购”，西班牙怎么了？ ",
+    "link": "https://www.huxiu.com/article/4903401.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 引子：美食之城，传来抢掠消息 10月24日，巴塞罗那市中心，加泰罗尼亚广场一带传来的消息，商店遭到抢掠、橱窗被砸、垃圾桶起火。欧洲新闻台报道，这场骚乱导致上百人被捕，多家商店被迫关门。 人们在中文网络上常说的“零元购”，在这里对应的是实实在在的抢掠。这让我立刻挂念起在巴塞罗那外派工作的朋友。他们纷纷告诉我，闹剧暂告一段落，可欧洲的治安问题依旧突出，还是在中国生活更安全。 按他们的说法，如今在游客密集的巴塞街头，连拿着手机看地图都不敢大意，担心手机被人抢走。这样的不安，不只是发生在新闻里，也落在每天出门、走路、找路的细节中。 比利牛斯山的另一边，法国的情况更糟，我移民英国的小学同学老徐最近带着一家四口在法国旅游，也遇到一件扫兴的事：全家买了凡尔赛宫的全票，参观到一半，却被工作人员要求离场。法国暴乱游行，政府临时决定安全起见关闭所有文保场所。门票买的是全程，实际只看了一半。对于游客来说，欧洲街头的动荡，有时就这样突然闯进了原本安排好的行程里。 一个月前，我在欧洲做织物史研究，分别在萨拉曼卡大学和马德里弗朗西斯科·德·维托里亚大学（UFV）交流。走进课堂，也听当地人聊起各自的处境：课堂气氛很好，学生愿意提问、敢于表达；这两所大学的毕业生在当地就业已经算不错，可实际到手的收入也并不算高。 从美食王国到“零元购”，西班牙究竟怎么了？ 游客愿意来",
     "publishedAt": "2026-11-05",
     "source": "虎嗅",
     "tags": [
@@ -240,86 +318,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1793816500000",
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
-    "publishedAt": "2026-11-04",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-apple-is-reportedly-cutting-budgets-for-its-internal-ai-usag-1793841982000",
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-    "publishedAt": "2026-11-05",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-election-day-2026-sees-states-sound-off-on-abortion-gender-i-1793828640000",
-    "title": "Election Day 2026 sees states sound off on abortion, gender identity and unions",
-    "link": "https://www.hrdive.com/news/election-day-2026-states-sound-off-abortion-gender-identity-unions/873798/",
-    "summary": "The success of some down-the-ballot measures translates to an even more complicated legal landscape for employers.",
-    "publishedAt": "2026-11-04",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-harness-datat-agent-1793844111000",
-    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-    "link": "https://www.qbitai.com/2026/11/507696.html",
-    "summary": "Data + AI 技术实践巡展 · 上海站",
-    "publishedAt": "2026-11-05",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1793885866000",
-    "title": " 美国中期选举后，华尔街开始\"反AI\"了 ",
-    "link": "https://www.huxiu.com/article/4903372.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | AI制图 11月3日，美国中期选举投票结束，民主党被预测将同时拿下参众两院。 民主党控制国会，特朗普内政瘫痪，特朗普提前两年戴上&ldquo;跛脚总统&rdquo;的帽子。 资本市场也闻风而动，开始押注新的政策预期。 美股道琼斯指数涨超3%，苹果、亚马逊、微软大涨超5%，苹果一夜重回全球市值第一，而新云厂商、光通信与数据中心被资金集中卖出。A股的半导体、光伏、贵金属等也迎来上涨。 那么，美国中期选举之后，AI产业链的投资逻辑会发生什么变化？哪些科技板块又会受益呢？ 一、数据中心反对者，或是选举最大赢家 本次选举结果对政策预期最大的影响，就是&ldquo;反数据中心&rdquo;。 希诺霍萨当选得州州长，成为该州30多年来首位民主党州长。她多次呼吁暂停数据中心建设，指责开发商抬高电价、耗尽水资源。连同多州民主党胜选，全美拟新增AI数据中心或有一半将面临更严的地方审查与抵制。 据初步统计，10个州的41项数据中心相关公投，几乎全部通过了限制措施。 也就是说，美国选民正在用脚投票，拒绝在自己家门口建数据中心。 市场随即将这一政治格局的转变，解读为科技巨头疯狂AI军备竞赛走向终结的信号。周三，亚马逊股价盘中一度飙升8.3%，微软涨7%，Alphabet涨5.9%，Meta涨3.6%，苹果涨逾6%。 这个涨幅乍一看反直觉。AI",
-    "publishedAt": "2026-11-05",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1793874630000",
-    "title": "瑞幸这场仗，赢在少送几单，难在多卖一杯",
-    "link": "https://www.tmtpost.com/8194708.html",
-    "summary": "钱是赚到了，但同店增长还没跑出来。",
-    "publishedAt": "2026-11-05",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
     "id": "news-what-s-next-for-us-energy-policy-after-the-midterm-elections-1793812080000",
     "title": "What’s next for US energy policy after the midterm elections?",
     "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
@@ -332,30 +330,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-the-midterms-a-bigger-clash-over-data-centers-could-be-1793840534000",
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "id": "news-openai-released-a-new-cybersecurity-model-is-that-enough-1793905572000",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
     "publishedAt": "2026-11-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization",
+      "strategy"
     ]
   },
   {
-    "id": "news-eeo-1-s-end-may-not-alter-much-the-data-s-value-was-never-li-1793804760000",
-    "title": "EEO-1’s end may not alter much. The data’s value ‘was never limited to compliance.’",
-    "link": "https://www.hrdive.com/news/eeo-1s-end-may-not-alter-much-data-compliance-eeoc/872900/",
-    "summary": "The strongest organizations use data as a diagnostic tool by looking for patterns, asking questions and making improvements where needed, one source told HR Dive.",
+    "id": "news-change-debt-not-change-fatigue-is-driving-burnout-research-s-1793829000000",
+    "title": "Change debt, not change fatigue, is driving burnout, research shows",
+    "link": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/",
+    "summary": "Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
     "publishedAt": "2026-11-04",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -372,23 +371,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793885011000",
-    "title": " 选择是双向的，不必给张雪招聘强加上“傲慢”标签 ",
-    "link": "https://www.huxiu.com/article/4903374.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：侯瑞宁 近日，张雪在重庆大学校招时，因10万元起薪被指低于学生预期，引发热议。张雪以“老员工十年逆袭、持股估值3000万”的案例强调长期成长空间后，被部分媒体评价“透着一种错位的傲慢”。张雪回应称：“难道选择不是双向的吗？” 这场风波的核心矛盾并不复杂，主要集中在三个问题：“10万元起薪到底低不低”“985应届生到底该不该去”“成长叙事是不是错位的傲慢”？ 首先，起薪高低与否，主要取决于参照物，正所谓“长短相形、高下相倾”。 来看一组数据。据麦可思研究院发布的《2026年中国大学生就业报告》，我国2025届本科毕业生毕业半年后的平均月收入为6435元，折合年收入约7.72万元。四川省人社厅数据也显示，川渝地区本科毕业生工资价位中位数未超过10万元/年，硕士、博士中位数分别为13.07万元、16.20万元。 张雪此次给出的方案是：面向普通院校应届生，研发岗年薪区间为10万至13万，非研发岗9万至12万；针对重庆大学这类985院校毕业生，研发岗年薪12万至15万，非研发岗10万至12万，加班费单独核算。照此对比，张雪机车开出的薪资虽谈不上丰厚，但也不算低。 部分学生和网友感觉“10万元起薪低”，主要是和个别新能源汽车的待遇相比。据报道，部分重庆大学车辆、机械专业硕士毕业生进入赛力斯、比亚迪等大型车企研发岗位，年薪可达到20万至35万元。 这个对比",
-    "publishedAt": "2026-11-05",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-china-s-standalone-battery-boom-pays-equipment-makers-first-1793873525000",
-    "title": "China’s Standalone Battery Boom Pays Equipment Makers First",
-    "link": "https://www.tmtpost.com/8195020.html",
-    "summary": "Grid-side storage is filling provincial project lists and tender books. The revenue stack looks rich in slide decks. In practice, suppliers and a few well-sited plants are getting paid; most owners are still waiting on the model to work.",
+    "id": "news--1793874630000",
+    "title": "瑞幸这场仗，赢在少送几单，难在多卖一杯",
+    "link": "https://www.tmtpost.com/8194708.html",
+    "summary": "钱是赚到了，但同店增长还没跑出来。",
     "publishedAt": "2026-11-05",
     "source": "钛媒体",
     "tags": [
@@ -866,6 +852,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137686",
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "100% Remote | Independent Contractor | 35 - 40 USD/hour Help shape the future of AI",
+      "Artificial Intelligence is evolving rapidly, and high-quality data plays a key role in making it smarter",
+      "We're looking for detail-oriented individuals to contribute to exciting AI projects by reviewing and annotati"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "postedAt": "2026-11-04",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137675",
     "title": "Paid Media Manager US ",
     "company": "Kyra",
@@ -1113,4 +1116,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-05T13:55:53.699Z';
+export const dataFetchedAt = '2026-11-05T23:13:38.786Z';

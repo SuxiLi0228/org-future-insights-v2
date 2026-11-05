@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-06-auto",
+    "date": "2026-11-06",
+    "session": "auto",
+    "title": "2026-11-06 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-06-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+      },
+      {
+        "id": "sig-2026-11-06-auto-2",
+        "emoji": "⚠️",
+        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "detail": "来源: TechCrunch。Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "agent",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+      },
+      {
+        "id": "sig-2026-11-06-auto-3",
+        "emoji": "🚨",
+        "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
+        "summary": "As companies plan payroll reductions, they&rsquo;re also tightening their belts on severance packages while offering more extensive career transition services.",
+        "detail": "来源: HR Dive。As companies plan payroll reductions, they&rsquo;re also tightening their belts on severance packages while offering more extensive career transition services.",
+        "priority": "high",
+        "tags": [
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/"
+      },
+      {
+        "id": "sig-2026-11-06-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：A Framework for Context Enrichment and Selective Robustness ...",
+        "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ",
+        "detail": "作者: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel。Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a validation problem for social simulation. One plausible hypothesis is that this brittleness reflects a lack of grounding and can be reduced by enriching the context provided to the agents. Whether richer context improves robustness remains unclear, in part because context richness and robustness are rarely defined in ways that support controlled comparisons. We address the first need with controlled context enrichment, a set of prompt substitution rules that systematically enriches distinct type",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.06914v1"
+      },
+      {
+        "id": "sig-2026-11-06-auto-5",
+        "emoji": "💼",
+        "title": "iMerit 正在招募 AI Content Reviewer Video Annotation",
+        "summary": "岗位类型：业务+AI 复合岗。100% Remote | Independent Contractor | 35 - 40 USD/hour Help shape the future of AI",
+        "detail": "技能要求: 未标注。100% Remote | Independent Contractor | 35 - 40 USD/hour Help shape the future of AI Artificial Intelligence is evolving rapidly, and high-quality data plays a key role in making it smarter We're looking for detail-oriented individuals to contribute to exciting AI projects by reviewing and annotati",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "iMerit"
+        ],
+        "sourceType": "tech",
+        "sourceName": "iMerit",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-06-1",
+        "priority": "medium",
+        "action": "关注「The Download: Texas’s fragile AI boom an」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-06-2",
+        "priority": "medium",
+        "action": "关注「Airbnb says it&#8217;s launching an AI t」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-06-3",
+        "priority": "high",
+        "action": "关注「Nearly two-thirds of HR leaders expect l」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-06-4",
+        "priority": "medium",
+        "action": "关注「研究速递：A Framework for Context Enrichment 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-06-5",
+        "priority": "medium",
+        "action": "关注「iMerit 正在招募 AI Content Reviewer Video An」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "iMerit"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-06 生成，聚合了 29 条新闻、20 篇论文、14 个岗位。",
+    "fetchWindow": "2026-11-06 00:00 - 2026-11-06 23:59"
+  },
+  {
     "id": "report-2026-11-05-auto",
     "date": "2026-11-05",
     "session": "auto",
