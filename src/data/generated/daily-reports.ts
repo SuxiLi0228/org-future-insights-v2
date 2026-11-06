@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-07-auto",
+    "date": "2026-11-07",
+    "session": "auto",
+    "title": "2026-11-07 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-07-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+      },
+      {
+        "id": "sig-2026-11-07-auto-2",
+        "emoji": "💡",
+        "title": "The Duo apps are coming, says Apple",
+        "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "detail": "来源: TechCrunch。There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
+      },
+      {
+        "id": "sig-2026-11-07-auto-3",
+        "emoji": "💡",
+        "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+        "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
+        "detail": "来源: HR Dive。We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/"
+      },
+      {
+        "id": "sig-2026-11-07-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：User Embeddings are Superpositions of Interpretable Behavior...",
+        "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in",
+        "detail": "作者: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen。User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery a",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.08487v1"
+      },
+      {
+        "id": "sig-2026-11-07-auto-5",
+        "emoji": "💼",
+        "title": "Silver.dev 正在招募 Feltsense AI Engineer",
+        "summary": "岗位类型：业务+AI 复合岗。About the company We raised $5.1M to build agents that operate as fully autonomous founders",
+        "detail": "技能要求: LLM, Agent, GCP, SQL, OpenAI。About the company We raised $5.1M to build agents that operate as fully autonomous founders Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2 We're working at the frontier of autonomous systems, buildi",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Silver.dev"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Silver.dev",
+        "link": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-07-1",
+        "priority": "medium",
+        "action": "关注「The Download: a humanoid cleans house an」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-07-2",
+        "priority": "low",
+        "action": "关注「The Duo apps are coming, says Apple」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-07-3",
+        "priority": "low",
+        "action": "关注「Week in review: Employment growth hits u」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-07-4",
+        "priority": "medium",
+        "action": "关注「研究速递：User Embeddings are Superpositions 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-07-5",
+        "priority": "medium",
+        "action": "关注「Silver.dev 正在招募 Feltsense AI Engineer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Silver.dev"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-07 生成，聚合了 26 条新闻、20 篇论文、16 个岗位。",
+    "fetchWindow": "2026-11-07 00:00 - 2026-11-07 23:59"
+  },
+  {
     "id": "report-2026-11-06-auto",
     "date": "2026-11-06",
     "session": "auto",

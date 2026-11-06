@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-underdog-shows-off-a-32mb-speech-model-in-new-demo-1793970136000",
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "id": "news-the-duo-apps-are-coming-says-apple-1794001085000",
+    "title": "The Duo apps are coming, says Apple",
+    "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -27,23 +27,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nearly-two-thirds-of-hr-leaders-expect-layoffs-in-2027-1793913480000",
-    "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
-    "link": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
-    "summary": "As companies plan payroll reductions, they&rsquo;re also tightening their belts on severance packages while offering more extensive career transition services.",
-    "publishedAt": "2026-11-05",
+    "id": "news-week-in-review-employment-growth-hits-unexpected-high-after--1793991060000",
+    "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+    "link": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
+    "publishedAt": "2026-11-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-personal-agent-1793957159000",
-    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-    "link": "https://www.qbitai.com/2026/11/508174.html",
-    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "id": "news-deepseek-10-1793948429000",
+    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+    "link": "https://www.qbitai.com/2026/11/508155.html",
+    "summary": "Q3营收实现数倍增长",
     "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
@@ -53,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-c-1793972276000",
-    "title": " 当C罗在索契撩起大腿 ",
-    "link": "https://www.huxiu.com/article/4903689.html?f=rss",
-    "summary": "本文来自微信公众号： 有马体育 ，作者：阿美 我见过一次C罗。 在2015年7月，皇马应邀参加在广州天河体育中心举办的国际冠军杯中国赛。主办方举行了一次球队和球迷见面会。当时的阿里体育邀请了几位球迷，其中一位球迷因向公司请假“看我的球队踢皇马”而成为新闻人物，因为我写过他的故事，所以沾了光，一起被邀请前来看比赛。 球票的提供方是乐视体育。乐视，唉。 活动在广州W酒店，舞台不大，C罗、马塞洛、莫德里奇、拉莫斯等皇马众星登场，和被邀请来的球迷握手。C罗穿着白色阿迪达斯球衣，镶着荧光笔样的边，着黑色运动长裤，看起来不如电视转播镜头里有力量。站在边缘的C罗，赠送签名球衣的对象正是我写的那个热血球迷，也是个利物浦的粉丝。 我坐在台下，波澜不惊，丝毫不感到一丝妒忌。还有人问我，“你怎么不去合照？” 那时，我还不是C罗的球迷。 葡萄牙史上最伟大的球员Cristiano Ronaldo，出生在马德拉岛。这座岛上只出生过一个名人，就是C罗，其他的名人都是外来的：茜茜公主在这里度过假，丘吉尔在这里作过画，三毛在游记里把它叫做玛黛拉。 三毛写道：“据说，玛黛拉的机场，是世界上少数几个最难降落的机场之一……由空中看下去，这海岛绿得像在春天。”2016年，这里改名叫C罗机场，航站楼有C罗铜像。 C罗出道时，有大罗和小罗两位巴西前辈，他那时被称为小小罗，到2006年世界杯时，央视和中文媒体上还这么称呼他。20",
+    "id": "news--1793981364000",
+    "title": " 美国中期选举，暴露“共识赤字” ",
+    "link": "https://www.huxiu.com/article/4903711.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 美国中期选举，常被比作总统的“期中考试”。 但这个比喻太过温和。一次考试失利，至多承受批评；中期选举一旦落败，总统余下两年的执政之路，就像握着一台方向盘失灵的重卡——只能眼睁睁看着国会山的对手，借着一项项法案、一轮轮传唤，将他仅剩的政治遗产撕得个粉碎。 2026年的这场选举，尤为刺眼。 哈佛大学选举模型曾给出了近乎盖棺定论的预判，而11月3日投票落幕之后，多家美国选举数据分析机构测算：民主党不仅夺回众议院，更拿下参议院至少51席控制权，得克萨斯州更是出现了自1988年以来的首次翻蓝。 可比起胜负结果，更让人深思的悬念是：当投票箱吐出这组数字，还有多少人愿意把它当成一份共同认可的最终答案？ 想要读懂这场选举背后的撕裂、荒诞与困局，我们需要跳出新闻的表层，去审视这个立国两百五十年的超级帝国，它底层的文明代码，究竟在哪里发生了错位。 长久以来，美国如同一台引擎轰鸣的顶级跑车。它的底层逻辑，恰好可以借《易经》“四易”来拆解一下：《圣经》为不易，宪法为简易，市场为交易，科学为变易。 四根支柱，撑起了它两百多年的繁荣。只是当这台跑车在极限之中长久狂飙，齿轮之间已经响起令人牙酸的摩擦与断裂之声。曾经相互支撑的“四易”，正在一步步走向异化。 交易的异化 美国的底色，是依托自由市场“交易”逻辑生长起来的商业文明。理想状态下，所有人在同一套规则之内博",
     "publishedAt": "2026-11-06",
     "source": "虎嗅",
     "tags": [
@@ -92,55 +93,42 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-physicl-raises-10m-to-make-the-digital-world-real-enough-for-1793970000000",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "id": "news-hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-1793990678000",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-workers-will-likely-have-to-shoulder-more-of-their-healthcar-1793913480000",
-    "title": "Workers will likely have to shoulder more of their healthcare costs, employers say",
-    "link": "https://www.hrdive.com/news/workers-will-likely-have-to-shoulder-more-of-their-healthcare-costs/873803/",
-    "summary": "As companies try to offset accelerating costs, employees face higher out-of-pocket expenses and the loss of some generous coverage options, a WTW survey found.",
-    "publishedAt": "2026-11-05",
+    "id": "news-workers-are-facing-a-crisis-of-disengagement-1793991060000",
+    "title": "Workers are facing a ‘crisis of disengagement’",
+    "link": "https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/",
+    "summary": "Multiple factors are contributing to low engagement rates, including a low-hire job market, layoff anxiety, artificial intelligence uncertainty and burnout, per new research.",
+    "publishedAt": "2026-11-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-stepx-neo-1793956911000",
-    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-    "link": "https://www.qbitai.com/2026/11/508170.html",
-    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "id": "news-ai-11-1793948057000",
+    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+    "link": "https://www.qbitai.com/2026/11/508118.html",
+    "summary": "挑战商业视频的高难度场景",
     "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1793971755000",
-    "title": " 到底是谁在抢小众高定？ ",
-    "link": "https://www.huxiu.com/article/4903684.html?f=rss",
-    "summary": "本文来自微信公众号： T 中文版 ，作者：T China 一个高级定制品牌在中国出圈，未必是因为设计做得有多出色——别误会，设计和工艺依然是高级定制的立身之本，却不一定是流量通行证。 近几年，「高定」两个字在中文互联网上过着另一种生活，围绕着流量明星的红毯、演唱会和商业活动展开。在诸多起名类似「高定上身数量统计」的帖子里，杂志大片和活动现场里的明星高定造型被截进Excel表格，按月、按年来统计明星「解锁」了多少套高定。 此类话题在社交媒体颇有流量。帖子表面上的主角是明星，实际操盘的是运营着无数应援账号的粉丝。看到这些数据，一派网友会自发按数量替偶像论功，另一派则围绕借衣来路和品牌在法国高级定制和时尚联合会（Fédération de la Haute Couture et de la Mode）里的身份（正式或客座会员），来指责对家不够格进榜。 吵到最后，连那些没能替艺人借到部分高定品牌的造型师，都要被拉出来点名问责。 「高定有时候就是粉丝之间对骂的物料。好些人总是天然地认为，自家艺人穿高定穿得多了，咖位就会变高，时尚资源就会变好。」造型师Albert（化名）无奈地说道，「如今中国艺人对高定的需求之大，恐怕是任何其他国家的明星，甚至好莱坞明星都比不了的！」 这样的说法或许显得武断，但高定在中国明星身上出现的次数确实在这几年里以火箭般的速度飞涨。然而在表格里，出现次数显著增多的并非D",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -171,10 +159,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-will-stop-making-the-cybertruck-in-2027-1793965810000",
-    "title": "Tesla will stop making the Cybertruck in 2027",
-    "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-    "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+    "id": "news-meta-introduces-spaces-a-new-way-to-collaborate-with-your-mu-1793990660000",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -184,43 +172,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-final-rule-revamps-antidiscrimination-requirements-for-a-1793913480000",
-    "title": "DOL final rule revamps antidiscrimination requirements for apprenticeships",
-    "link": "https://www.hrdive.com/news/dol-proposes-revamp-of-discrimination-practices-in-apprenticeships/873924/",
-    "summary": "The U.S. Department of Labor issued a final rule to rescind &ldquo;affirmative action requirements&rdquo; for federally registered apprenticeships, effective Jan. 5.",
-    "publishedAt": "2026-11-05",
+    "id": "news-dems-must-eye-broad-labor-reform-after-midterm-win-nlrb-s-ex-1793991000000",
+    "title": "Dems must eye broad labor reform after midterm win, NLRB’s ex-top cop says",
+    "link": "https://www.hrdive.com/news/dems-must-eye-broad-labor-reform-after-midterm-win-nlrbs-ex-top-cop-says/873942/",
+    "summary": "Congress should consider passing a &ldquo;PRO Act plus&rdquo; while also minding state efforts to get involved in labor disputes, Jennifer Abruzzo said at an American Bar Association event.",
+    "publishedAt": "2026-11-06",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-2026-ai-ai-1793956740000",
-    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-    "link": "https://www.qbitai.com/2026/11/508165.html",
-    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "id": "news-rsi-agent-physical-ai-2026-1793947394000",
+    "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+    "link": "https://www.qbitai.com/2026/11/508143.html",
+    "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
     "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1793970356000",
-    "title": " 我是真想找个代笔。 ",
-    "link": "https://www.huxiu.com/article/4903678.html?f=rss",
-    "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 我有很多网红朋友，每期视频开头都是“我有个暴论！” 其实他们也不想这样。 但没办法，大家总爱看暴论，大家总追求独特的观点。 暴论是很容易生产的。 最近许多人在谈论Dan Koe的文章，那我可以发表一个有流量的暴论：“Dan Koe就是外网大蓝”。 我甚至不需要动脑子，我让AI在逻辑上把这个观点自圆其说就够了。 最近很多人在谈论“薄肌理论”，但你要认识江浙沪的健身教练，他们会告诉你“薄肌”这个词其实几年前就很火了，因为Gay都练薄肌。 在今天，创造自媒体内容是如此的容易。 以至于我认为自己应该多喝酒少读书，喝酒会让人变笨。 笨蛋的天赋是“俺寻思之力”，笨蛋可以一天24小时不间断的在社交媒体发表暴论。 人得没见过世面、没读过书，才能做到一天到晚大惊小怪： 认知越低，暴论越多，暴论越多，流量越大，流量越大，赚钱越多，赚钱越多，蹦迪越多，蹦迪越多，喝酒越多，喝酒越多，认知越低。 笑死，我绝对是拥有复利思维的长期主义者。查理芒格来了都得敬一杯酒。 你看，我又有个“暴论”了：我觉得这个世界不需要那么多暴论，我觉得独特的观点不值钱。 常有人评论：你说自己懒惰，但你明明很爱思考啊！ 因为我动脑是为了不动脑。 作为一个懒惰的文字博主，我总会琢磨自己的文风到底是什么？ 因为早年我总是希望找个枪手或编辑替我写作，我幻想自己每天花天酒地，有个枪手为我负重前",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -251,10 +226,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-at-least-10-local-governments-have-moved-to-drop-flock-s-sur-1793949524000",
-    "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-    "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-    "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+    "id": "news-after-the-midterms-is-the-ai-industry-in-for-a-rough-two-yea-1793985832000",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -264,44 +239,29 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-rebounding-could-cost-companies-1793892300000",
-    "title": "‘AI rebounding’ could cost companies",
-    "link": "https://www.hrdive.com/news/ai-rebounding-could-cost-companies/873462/",
-    "summary": "Employers are replacing workers with artificial intelligence and then calling them back&nbsp;&mdash; but employees are demanding more money to return.",
+    "id": "news-nearly-two-thirds-of-hr-leaders-expect-layoffs-in-2027-1793913480000",
+    "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
+    "link": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
+    "summary": "As companies plan payroll reductions, they&rsquo;re also tightening their belts on severance packages while offering more extensive career transition services.",
     "publishedAt": "2026-11-05",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-deepseek-10-1793948429000",
-    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-    "link": "https://www.qbitai.com/2026/11/508155.html",
-    "summary": "Q3营收实现数倍增长",
+    "id": "news-99-4-ai-1793941307000",
+    "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+    "link": "https://www.qbitai.com/2026/11/508107.html",
+    "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
     "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-7-eleven-1000-1793969295000",
-    "title": " 门店数不到美宜佳的十分之一，7-Eleven为什么还要在广东再开1000家店？ ",
-    "link": "https://www.huxiu.com/article/4903675.html?f=rss",
-    "summary": "本文来自微信公众号： 灵兽 ，作者：十里 便利店这一行还在长，只是长得慢了。 10月29日，广东7-Eleven第2000家门店在深圳开业。当天，DFI零售集团7-Eleven行政总裁文宇斌报出了下一个数字：4年内，广东做到3000家。 多出的1000家摊到每年，每年平均新增250家左右。去年，DFI在南中国净增了99家店。照这个目标，往后每年要开的店，是去年的两倍还多。 3000家放在广东，也不算多。早在2024年，美宜佳在广东的门店数就已经超过20000家，差不多是广东7-Eleven的10倍。哪怕美宜佳4年里一家不开，到时候双方也还差着6倍多。 规模上追不上，7-Eleven还是要提速。 1 便利店这一行还在长，只是长得慢了。 中国连锁经营协会统计，到2025年底，便利店百强企业共有20.8万家门店，全年净增约1.1万家，增幅5.6%，比前一年低。 排在前面的几家里，美宜佳40147家，天福7700多家，罗森7068家，7-Eleven中国合计5565家，全家3226家。美宜佳一家，比后面四家加起来还多。 7-Eleven在中国这5565家店，背后是好几家公司。它在国内按区域授权，日本那边出品牌，各地找不同的公司来做。广东的授权在DFI零售集团旗下的广东赛壹手里，开多少店、怎么开，DFI说了算。 这两年，DFI忙着卖资产。 2025年，永辉超市和Robinsons Retai",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -331,10 +291,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-1793946512000",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "id": "news-pentagon-offers-battery-startup-6k-250m-loan-to-build-us-fac-1793983801000",
+    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -344,11 +304,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-change-debt-not-change-fatigue-is-driving-burnout-research-s-1793829000000",
-    "title": "Change debt, not change fatigue, is driving burnout, research shows",
-    "link": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/",
-    "summary": "Unresolved issues from previous workplace upheaval may lead to increasingly heavy burdens for employees, a recent study found.",
-    "publishedAt": "2026-11-04",
+    "id": "news-workers-will-likely-have-to-shoulder-more-of-their-healthcar-1793913480000",
+    "title": "Workers will likely have to shoulder more of their healthcare costs, employers say",
+    "link": "https://www.hrdive.com/news/workers-will-likely-have-to-shoulder-more-of-their-healthcare-costs/873803/",
+    "summary": "As companies try to offset accelerating costs, employees face higher out-of-pocket expenses and the loss of some generous coverage options, a WTW survey found.",
+    "publishedAt": "2026-11-05",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -357,28 +317,15 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-11-1793948057000",
-    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-    "link": "https://www.qbitai.com/2026/11/508118.html",
-    "summary": "挑战商业视频的高难度场景",
+    "id": "news-x-startmeuphk-2026-ai-1793936194000",
+    "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+    "link": "https://www.qbitai.com/2026/11/507988.html",
+    "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
     "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-nature-1793968648000",
-    "title": " 一篇Nature论文背后的师生署名之争 ",
-    "link": "https://www.huxiu.com/article/4903673.html?f=rss",
-    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：孙滔 江庆龄 2025年6月11日，德国吉森大学博士生钱伟煜以第一作者身份在Nature发表论文，报道制备出仅由6个氮原子构成的中性分子N₆。美国南加州大学多氮化合物领域权威专家Karl Christe评价：“这项研究令人惊叹，在我看来完全值得获得诺贝尔奖。” ▲相关Nature论文截图。 这本该是高光时刻。可钱伟煜说，从署名争执爆发到论文发表的那段日子，是他“将近30年的人生中最难受的时期”。 矛头指向论文的第一通讯作者——他的导师、曾任德国化学学会主席的Peter R.Schreiner。在钱伟煜的讲述中，这位“名义导师”4年里只在实验室露过4次面；课题启动时，他说“我不相信它能够成功”；实验成功后，他却把自己改成了第一通讯作者。钱伟煜去办公室争取署名通讯作者，被赶了出来。 如今已在美国做博士后的钱伟煜告诉《中国科学报》，这是一起典型的学术霸凌。 针对此事，《中国科学报》近期向Schreiner进行了求证。在他的书面答复中，讲述了故事的另一个版本。Schreiner否认曾以只有永久教职人员才能担任通讯作者为由回绝钱伟煜，坚称项目由三人共同构思，署名在首次投稿时即已确定，此后从未改动。他承认曾请钱伟煜离开办公室，理由是对方“言行与语气带有不敬”。他反过来质疑：钱伟煜的实验记录本有大量空白页，“没有任何记录能够证明成功制备出N₆”",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -777,6 +724,72 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137691",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About the company We raised $5.1M to build agents that operate as fully autonomous founders",
+      "Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2",
+      "We're working at the frontier of autonomous systems, buildi"
+    ],
+    "skills": [
+      "LLM",
+      "Agent",
+      "GCP",
+      "SQL",
+      "OpenAI"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "postedAt": "2026-11-05",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137690",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents",
+      "You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check",
+      "The goal is to build"
+    ],
+    "skills": [
+      "Python",
+      "Agent",
+      "SQL"
+    ],
+    "location": "Anywhere in the World",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+    "postedAt": "2026-11-05",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137689",
+    "title": "ML Inference Engineer – Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal",
+      "We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges",
+      "Each task includes the environment, a working solution, and a"
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LLM",
+      "Agent"
+    ],
+    "location": "Anywhere in the World",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+    "postedAt": "2026-11-05",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137686",
     "title": "AI Content Reviewer Video Annotation",
     "company": "iMerit",
@@ -1022,23 +1035,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
     "postedAt": "2026-08-25",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1136216",
-    "title": "Market Research",
-    "company": "GROW10X",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Company Description GROW10X is a leading full-service agency specializing in helping B2B SaaS technology companies accelerate revenue growth through outbound lead generation",
-      "Utilizing a combination of cutting-edge technology, expert strategies, on-demand data, and a globally distributed team, GROW1"
-    ],
-    "skills": [],
-    "location": "Chennai, Chennai, Tamil Nadu, India",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216",
-    "postedAt": "2026-08-04",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-11-06T13:41:13.062Z';
+export const dataFetchedAt = '2026-11-06T22:40:09.651Z';
