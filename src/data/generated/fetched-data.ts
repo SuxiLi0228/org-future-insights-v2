@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-1793884200000",
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
-    "publishedAt": "2026-11-05",
+    "id": "news-the-download-a-humanoid-cleans-house-and-samsung-builds-for--1793970600000",
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+    "publishedAt": "2026-11-06",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-1793923638000",
-    "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-    "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-    "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+    "id": "news-underdog-shows-off-a-32mb-speech-model-in-new-demo-1793970136000",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -40,11 +40,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-5-flash-base-sota-1793862913000",
-    "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-    "link": "https://www.qbitai.com/2026/11/507787.html",
-    "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-    "publishedAt": "2026-11-05",
+    "id": "news-personal-agent-1793957159000",
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "link": "https://www.qbitai.com/2026/11/508174.html",
+    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -53,10 +53,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793939479000",
-    "title": " 深度｜中国商业航天，不能再搞“放卫星”式的冒进 ",
-    "link": "https://www.huxiu.com/article/4903520.html?f=rss",
-    "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜中国商业航天，不能再搞“放卫星”式的冒进》 杭州新近印发商业航天三年行动方案，《杭州市促进航空航天产业高质量发展三年行动方案（2026—2028年）》于2026年9月24日由市经信局发布。方案提出，到2028年产业营收突破400亿元，形成年配套800颗星座组网卫星、50颗大中型卫星、10发运载火箭的产能，在轨卫星达到300颗。 杭州并非孤例。北京、上海、西安、南昌、成都、文昌、烟台、无锡，均已出台系统性产业规划。一场由地方政府推动的商业航天赛道角逐，已经全面铺开。 翻阅各地数百亿乃至上千亿的产业目标，不难看见一种熟悉的倾向：指标先行，实效后置。产业园快速落成，企业批量注册落户，宏大产值写进政策文件；可试验配套、发射条件、下游真实市场需求，却常常被放在次要位置。 部分地区的现实图景是：牌子挂起来，园区建起来，但发动机试车、总装测试等硬核能力并未同步跟上，发射窗口与商业订单依旧悬在空中。 产业梯队真实存在，但排名不能简单比数字 要看清这种冒进的隐患，首先要还原中国商业航天真实的产业版图。 第一梯队是北京。北京市科委、中关村管委会2026年4月披露，当地集聚300余家商业航天相关企业，亦庄“火箭大街”汇聚全国七成以上民营火箭整箭企业。亦庄主攻火箭总装，海淀聚焦卫星研制与星座运营，形成“南箭北星”的完整闭环。这份优势，来自发",
+    "id": "news-c-1793972276000",
+    "title": " 当C罗在索契撩起大腿 ",
+    "link": "https://www.huxiu.com/article/4903689.html?f=rss",
+    "summary": "本文来自微信公众号： 有马体育 ，作者：阿美 我见过一次C罗。 在2015年7月，皇马应邀参加在广州天河体育中心举办的国际冠军杯中国赛。主办方举行了一次球队和球迷见面会。当时的阿里体育邀请了几位球迷，其中一位球迷因向公司请假“看我的球队踢皇马”而成为新闻人物，因为我写过他的故事，所以沾了光，一起被邀请前来看比赛。 球票的提供方是乐视体育。乐视，唉。 活动在广州W酒店，舞台不大，C罗、马塞洛、莫德里奇、拉莫斯等皇马众星登场，和被邀请来的球迷握手。C罗穿着白色阿迪达斯球衣，镶着荧光笔样的边，着黑色运动长裤，看起来不如电视转播镜头里有力量。站在边缘的C罗，赠送签名球衣的对象正是我写的那个热血球迷，也是个利物浦的粉丝。 我坐在台下，波澜不惊，丝毫不感到一丝妒忌。还有人问我，“你怎么不去合照？” 那时，我还不是C罗的球迷。 葡萄牙史上最伟大的球员Cristiano Ronaldo，出生在马德拉岛。这座岛上只出生过一个名人，就是C罗，其他的名人都是外来的：茜茜公主在这里度过假，丘吉尔在这里作过画，三毛在游记里把它叫做玛黛拉。 三毛写道：“据说，玛黛拉的机场，是世界上少数几个最难降落的机场之一……由空中看下去，这海岛绿得像在春天。”2016年，这里改名叫C罗机场，航站楼有C罗铜像。 C罗出道时，有大罗和小罗两位巴西前辈，他那时被称为小小罗，到2006年世界杯时，央视和中文媒体上还这么称呼他。20",
     "publishedAt": "2026-11-06",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +66,168 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-ai-1793936040000",
-    "title": "从口红到Token，AI厂商挤进双十一",
-    "link": "https://www.tmtpost.com/8195580.html",
-    "summary": "1分钱月卡，AI厂商的付费试探。",
+    "id": "news-u9x-500km-h-1793966121000",
+    "title": "仰望U9X极速突破500km/h，全球最快量产车易主",
+    "link": "https://www.tmtpost.com/8196742.html",
+    "summary": "极限性能突破的背后，是中国车企在电驱技术、整车工程与高端汽车竞争中的持续探索。",
+    "publishedAt": "2026-11-06",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-1793959200000",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "publishedAt": "2026-11-06",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-physicl-raises-10m-to-make-the-digital-world-real-enough-for-1793970000000",
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "publishedAt": "2026-11-06",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-workers-will-likely-have-to-shoulder-more-of-their-healthcar-1793913480000",
+    "title": "Workers will likely have to shoulder more of their healthcare costs, employers say",
+    "link": "https://www.hrdive.com/news/workers-will-likely-have-to-shoulder-more-of-their-healthcare-costs/873803/",
+    "summary": "As companies try to offset accelerating costs, employees face higher out-of-pocket expenses and the loss of some generous coverage options, a WTW survey found.",
+    "publishedAt": "2026-11-05",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-stepx-neo-1793956911000",
+    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+    "link": "https://www.qbitai.com/2026/11/508170.html",
+    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "publishedAt": "2026-11-06",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793971755000",
+    "title": " 到底是谁在抢小众高定？ ",
+    "link": "https://www.huxiu.com/article/4903684.html?f=rss",
+    "summary": "本文来自微信公众号： T 中文版 ，作者：T China 一个高级定制品牌在中国出圈，未必是因为设计做得有多出色——别误会，设计和工艺依然是高级定制的立身之本，却不一定是流量通行证。 近几年，「高定」两个字在中文互联网上过着另一种生活，围绕着流量明星的红毯、演唱会和商业活动展开。在诸多起名类似「高定上身数量统计」的帖子里，杂志大片和活动现场里的明星高定造型被截进Excel表格，按月、按年来统计明星「解锁」了多少套高定。 此类话题在社交媒体颇有流量。帖子表面上的主角是明星，实际操盘的是运营着无数应援账号的粉丝。看到这些数据，一派网友会自发按数量替偶像论功，另一派则围绕借衣来路和品牌在法国高级定制和时尚联合会（Fédération de la Haute Couture et de la Mode）里的身份（正式或客座会员），来指责对家不够格进榜。 吵到最后，连那些没能替艺人借到部分高定品牌的造型师，都要被拉出来点名问责。 「高定有时候就是粉丝之间对骂的物料。好些人总是天然地认为，自家艺人穿高定穿得多了，咖位就会变高，时尚资源就会变好。」造型师Albert（化名）无奈地说道，「如今中国艺人对高定的需求之大，恐怕是任何其他国家的明星，甚至好莱坞明星都比不了的！」 这样的说法或许显得武断，但高定在中国明星身上出现的次数确实在这几年里以火箭般的速度飞涨。然而在表格里，出现次数显著增多的并非D",
+    "publishedAt": "2026-11-06",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-q1-15-lululemon-1793962858000",
+    "title": "雅诗兰黛 Q1 中国大陆销售增长15%；lululemon携三项创新产品亮相进博；高梵×「上下」发布东方高定鹅绒服联名典藏系列｜消研所周报",
+    "link": "https://www.tmtpost.com/8196552.html",
+    "summary": "彪马2026年Q3大中华区营收三连增；泰佩思琦Tapestry携手东华大学与蚂蚁集团，共同宣布启动“共联未来计划（Future Weaver）”。",
+    "publishedAt": "2026-11-06",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-texas-s-fragile-ai-boom-and-energy-policy-shift-1793884200000",
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+    "publishedAt": "2026-11-05",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tesla-will-stop-making-the-cybertruck-in-2027-1793965810000",
+    "title": "Tesla will stop making the Cybertruck in 2027",
+    "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+    "publishedAt": "2026-11-06",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dol-final-rule-revamps-antidiscrimination-requirements-for-a-1793913480000",
+    "title": "DOL final rule revamps antidiscrimination requirements for apprenticeships",
+    "link": "https://www.hrdive.com/news/dol-proposes-revamp-of-discrimination-practices-in-apprenticeships/873924/",
+    "summary": "The U.S. Department of Labor issued a final rule to rescind &ldquo;affirmative action requirements&rdquo; for federally registered apprenticeships, effective Jan. 5.",
+    "publishedAt": "2026-11-05",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-2026-ai-ai-1793956740000",
+    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "link": "https://www.qbitai.com/2026/11/508165.html",
+    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "publishedAt": "2026-11-06",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1793970356000",
+    "title": " 我是真想找个代笔。 ",
+    "link": "https://www.huxiu.com/article/4903678.html?f=rss",
+    "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 我有很多网红朋友，每期视频开头都是“我有个暴论！” 其实他们也不想这样。 但没办法，大家总爱看暴论，大家总追求独特的观点。 暴论是很容易生产的。 最近许多人在谈论Dan Koe的文章，那我可以发表一个有流量的暴论：“Dan Koe就是外网大蓝”。 我甚至不需要动脑子，我让AI在逻辑上把这个观点自圆其说就够了。 最近很多人在谈论“薄肌理论”，但你要认识江浙沪的健身教练，他们会告诉你“薄肌”这个词其实几年前就很火了，因为Gay都练薄肌。 在今天，创造自媒体内容是如此的容易。 以至于我认为自己应该多喝酒少读书，喝酒会让人变笨。 笨蛋的天赋是“俺寻思之力”，笨蛋可以一天24小时不间断的在社交媒体发表暴论。 人得没见过世面、没读过书，才能做到一天到晚大惊小怪： 认知越低，暴论越多，暴论越多，流量越大，流量越大，赚钱越多，赚钱越多，蹦迪越多，蹦迪越多，喝酒越多，喝酒越多，认知越低。 笑死，我绝对是拥有复利思维的长期主义者。查理芒格来了都得敬一杯酒。 你看，我又有个“暴论”了：我觉得这个世界不需要那么多暴论，我觉得独特的观点不值钱。 常有人评论：你说自己懒惰，但你明明很爱思考啊！ 因为我动脑是为了不动脑。 作为一个懒惰的文字博主，我总会琢磨自己的文风到底是什么？ 因为早年我总是希望找个枪手或编辑替我写作，我幻想自己每天花天酒地，有个枪手为我负重前",
+    "publishedAt": "2026-11-06",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-waymo-1793959778000",
+    "title": "Waymo不想再当“技术供应商”了",
+    "link": "https://www.tmtpost.com/8195043.html",
+    "summary": "Waymo 用了七八年时间证明自动驾驶能安全地跑起来。接下来它要证明的是另一件事：一家自动驾驶公司，能不能同时成为一家有人愿意打开、愿意信任、愿意直接付钱的出行品牌。",
     "publishedAt": "2026-11-06",
     "source": "钛媒体",
     "tags": [
@@ -93,168 +251,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-google-and-tiktok-sue-california-ag-over-teen-social-me-1793923298000",
-    "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-    "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-    "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+    "id": "news-at-least-10-local-governments-have-moved-to-drop-flock-s-sur-1793949524000",
+    "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+    "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+    "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
     "publishedAt": "2026-11-06",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-workers-will-likely-have-to-shoulder-more-of-their-healthcar-1793913480000",
-    "title": "Workers will likely have to shoulder more of their healthcare costs, employers say",
-    "link": "https://www.hrdive.com/news/workers-will-likely-have-to-shoulder-more-of-their-healthcare-costs/873803/",
-    "summary": "As companies try to offset accelerating costs, employees face higher out-of-pocket expenses and the loss of some generous coverage options, a WTW survey found.",
-    "publishedAt": "2026-11-05",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-mit-astra-qwen-1793862656000",
-    "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-    "link": "https://www.qbitai.com/2026/11/507782.html",
-    "summary": "spaCy作者长文炮轰",
-    "publishedAt": "2026-11-05",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1793939385000",
-    "title": " AI、芯片订单没变，但是预期变了 ",
-    "link": "https://www.huxiu.com/article/4903475.html?f=rss",
-    "summary": "本文来自微信公众号： 大G看科技 ，作者：大G看科技，头图来自：AI生成 11 月 5 日，费城半导体指数跌了 12.25%，30 只成分股无一上涨，2020 年 3 月以来最差的一个交易日。 同一天，没有一张芯片订单被取消。没有一条产线停线，没有一家公司下调年度目标。唯一给出偏弱指引的是高通，而它把原因归给了供给：不是没人买，是造不出来。 订单没变。跌的不是订单。 那变的是什么？是大家的预期。 一、两天里，同一件事被读了两次 11 月 3 日投票，民主党拿下参众两院，同时赢下得州、佐治亚、俄亥俄三个数据中心重镇的州长职位。得州候任州长公开主张，暂停新建数据中心的审批。 市场的反应分成了两天，方向相反。11 月 4 日，结果落定的第一个交易日，五大科技巨头市值合计增加近 1 万亿美元，微软和苹果盘中都创了历史新高。那天的读法是：项目批不下来，云厂商可以少花钱，现金流反而好看。 11 月 5 日，同一个逻辑被翻过来读。数据中心建不动，芯片、存储、光模块、设备厂的订单就要往后推。费半跌 12.25%，标普 1500 成分股蒸发约 3.2 万亿美元，英伟达把 2026 年以来的涨幅全部吐了回去。 这两天里，没有一条产业消息发生变化。变的只是大家怎么读它。 预期可以在一个交易日里改两次，订单不会。 二、产业这头，一条数据都没动 把 11 月 5 日前后的事实摆在一起，会看到一个很不协调的地",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1793935440000",
-    "title": "医美耗材价格暴跌，爽了用户，苦了华熙、巨子、爱美客们？",
-    "link": "https://www.tmtpost.com/8195600.html",
-    "summary": "价格回归本质，医美行业的漫长转型。",
-    "publishedAt": "2026-11-06",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-texas-was-the-new-epicenter-of-the-ai-data-center-buildout-t-1793818255000",
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
-    "publishedAt": "2026-11-04",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-airbnb-says-it-8217-s-launching-an-ai-travel-agent-in-the-fi-1793918455000",
-    "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "publishedAt": "2026-11-05",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-dol-final-rule-revamps-antidiscrimination-requirements-for-a-1793913480000",
-    "title": "DOL final rule revamps antidiscrimination requirements for apprenticeships",
-    "link": "https://www.hrdive.com/news/dol-proposes-revamp-of-discrimination-practices-in-apprenticeships/873924/",
-    "summary": "The U.S. Department of Labor issued a final rule to rescind &ldquo;affirmative action requirements&rdquo; for federally registered apprenticeships, effective Jan. 5.",
-    "publishedAt": "2026-11-05",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-xrogo-cemat-asia-1793856337000",
-    "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-    "link": "https://www.qbitai.com/2026/11/507767.html",
-    "summary": "像雇人一样雇机器人",
-    "publishedAt": "2026-11-05",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-mona-1793938918000",
-    "title": " 当MONA占了小鹏一半销量，想要“分家”单干了？ ",
-    "link": "https://www.huxiu.com/article/4903517.html?f=rss",
-    "summary": "本文来自微信公众号： BusinessCars ，作者：曹旻希 小鹏需要在“要销量规模”和“要品牌溢价”之间，找一个最能活下去的平衡点。 11月刚过，小鹏汽车官方晒出10月交付成绩单，50,237辆的数字直接刷新了品牌单月交付历史纪录。环比9月涨了22%，同比去年同期也有20%的增长，海外市场更是跑出166%的同比增速，单月交付13,326辆。 这个表现放在当下的新势力阵营里，确实相当亮眼。 就在销量新高的节点上，小鹏集团总裁王凤英在巴黎车展期间放出的消息，一下子把行业视线拉到了MONA这条线上。有媒体报道王凤英提出，从2027年开始，部分城市会设立MONA独立门店，未来不排除MONA品牌独立的可能性。 外界猜测，这种可能性的本质上是小鹏需要在“要销量规模”和“要品牌溢价”之间，找一个最能活下去的平衡点。 先算一笔明面上的销量账 现在随便拉个行业里的人聊小鹏，没人能绕开MONA。 从2024年8月首款车型M03上市到现在，MONA系列全球累计交付已经突破36万辆，光2026年9月，M03和L03两款车就合计卖出1.76万辆，占到小鹏当月总交付量的57%，差不多每两台从小鹏门店开出去的车，就有一台挂着MONA的名字。刚上市不久的L05，上市当天5,000辆准现车3分钟就售罄，10月单月L03的交付量直接冲到2万辆以上。 但直观的结构变化是，现在小鹏主品牌那边的老车型销量实在不够抢眼。",
-    "publishedAt": "2026-11-06",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-epic-ai-1793935020000",
-    "title": "Epic重组团队全面押注AI，争夺“空间智能”时代的底层协议权",
-    "link": "https://www.tmtpost.com/8194347.html",
-    "summary": "Epic Games宣布推进重大战略重组，全面押注AI底层研发，将原型验证速度大幅提升5至10倍。在3A游戏预算年均增长攀升至8%、全球市场增速放缓至6.1%的剪刀差下，AI正从辅助插件进化为接管70%机械编码的工业底座。然而，产能通胀带来的获客壁垒与合规成本，正将行业推向新一轮博弈。",
-    "publishedAt": "2026-11-06",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1793816500000",
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
-    "publishedAt": "2026-11-04",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-serve-robotics-launches-new-business-to-become-the-aws-for-r-1793913300000",
-    "title": "Serve Robotics launches new business to become the AWS for robots",
-    "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-    "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-    "publishedAt": "2026-11-05",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -277,11 +278,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-harness-datat-agent-1793844111000",
-    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-    "link": "https://www.qbitai.com/2026/11/507696.html",
-    "summary": "Data + AI 技术实践巡展 · 上海站",
-    "publishedAt": "2026-11-05",
+    "id": "news-deepseek-10-1793948429000",
+    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+    "link": "https://www.qbitai.com/2026/11/508155.html",
+    "summary": "Q3营收实现数倍增长",
+    "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -290,23 +291,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793938907000",
-    "title": " 偶像剧男主，已经进化到真太监了 ",
-    "link": "https://www.huxiu.com/article/4903516.html?f=rss",
-    "summary": "本文来自微信公众号： 娱乐硬糖 ，作者：李春晖 为了更好回应女观众的现实焦虑和隐秘需求，短短三年内，言情男主失去了他们的贞操、金钱和那话儿。从当后妈到搞对食，这是类型剧垂直细分的一大步，也是两性关系不断异化退化的一大步。 没错，当长剧还在争论二婚男主扎堆儿的问题，短剧已经让真太监当上BG男主了。 掌权太监x尚书嫡女的《帐中香》以468万收藏荣登红果短剧收藏榜第3名，力压现实主义短剧代表作《北往》；而相较于深陷抄袭丑闻、剧情口碑也平平的《帐中香》，大太监x小宫女的《掌心饵》已经拍了三个版本，在社交媒体拥有大量拥趸；在红果，热度超过4000万的太监剧还有《染春归》《宦宠掌心娇》《予她安生》《九千岁督主的独宠》…… 如果说二婚男的流行还只是满足大家的“捡漏儿”心理，决定放弃一些无关痛痒的婚恋要求一键上岸过好日子；出租屋霸总则是通过让男主暂时落难来激发他们的“自驱性”恋爱脑，穷到只能让咱们女主住出租屋了，比二婚更罪加一等，可不得猛猛表现？ 及至发展到太监男主，男主身上的“残缺”已经无法挽回。他欠女主的无可补救，但极致的纯爱感、女性上位感与关系安全感也油然而生。 需要强调的是，我们此次研究的是“真太监”，还不包括更多打擦边球、断根续生的“假太监”。唯有真太监，才能探究出极致的太监美学和心理根源——有颜有权有钱还自卑讨好服务意识强的美强惨太监成为幻想对象，现在的人，真是现实到科幻的地步啊！ 理",
+    "id": "news-7-eleven-1000-1793969295000",
+    "title": " 门店数不到美宜佳的十分之一，7-Eleven为什么还要在广东再开1000家店？ ",
+    "link": "https://www.huxiu.com/article/4903675.html?f=rss",
+    "summary": "本文来自微信公众号： 灵兽 ，作者：十里 便利店这一行还在长，只是长得慢了。 10月29日，广东7-Eleven第2000家门店在深圳开业。当天，DFI零售集团7-Eleven行政总裁文宇斌报出了下一个数字：4年内，广东做到3000家。 多出的1000家摊到每年，每年平均新增250家左右。去年，DFI在南中国净增了99家店。照这个目标，往后每年要开的店，是去年的两倍还多。 3000家放在广东，也不算多。早在2024年，美宜佳在广东的门店数就已经超过20000家，差不多是广东7-Eleven的10倍。哪怕美宜佳4年里一家不开，到时候双方也还差着6倍多。 规模上追不上，7-Eleven还是要提速。 1 便利店这一行还在长，只是长得慢了。 中国连锁经营协会统计，到2025年底，便利店百强企业共有20.8万家门店，全年净增约1.1万家，增幅5.6%，比前一年低。 排在前面的几家里，美宜佳40147家，天福7700多家，罗森7068家，7-Eleven中国合计5565家，全家3226家。美宜佳一家，比后面四家加起来还多。 7-Eleven在中国这5565家店，背后是好几家公司。它在国内按区域授权，日本那边出品牌，各地找不同的公司来做。广东的授权在DFI零售集团旗下的广东赛壹手里，开多少店、怎么开，DFI说了算。 这两年，DFI忙着卖资产。 2025年，永辉超市和Robinsons Retai",
     "publishedAt": "2026-11-06",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-1-1793934600000",
-    "title": "“最牛老板娘”1月精准逃顶，转身又押白银，如今怎么样了？",
-    "link": "https://www.tmtpost.com/8195029.html",
-    "summary": "今年1月，一家港股物业公司完成了一笔漂亮的白银交易。公司董事会主席孟丽红，也因此被外界称为“最牛老板娘”。",
+    "id": "news-ai-1793959774000",
+    "title": "我为什么不太看好苹果国行AI",
+    "link": "https://www.tmtpost.com/8196145.html",
+    "summary": "理由主要有三条。",
     "publishedAt": "2026-11-06",
     "source": "钛媒体",
     "tags": [
@@ -317,10 +319,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-s-next-for-us-energy-policy-after-the-midterm-elections-1793812080000",
-    "title": "What’s next for US energy policy after the midterm elections?",
-    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-    "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.&#160;&#160;&#8230;",
+    "id": "news-texas-was-the-new-epicenter-of-the-ai-data-center-buildout-t-1793818255000",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
     "publishedAt": "2026-11-04",
     "source": "MIT Technology Review",
     "tags": [
@@ -329,11 +331,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-says-us-users-can-now-video-chat-with-their-muse-ai-ava-1793908108000",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "publishedAt": "2026-11-05",
+    "id": "news-palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-1793946512000",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -355,11 +357,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-image-2-6-gif-svg-6-2-astra-1793843977000",
-    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-    "link": "https://www.qbitai.com/2026/11/507707.html",
-    "summary": "最快6秒出图",
-    "publishedAt": "2026-11-05",
+    "id": "news-ai-11-1793948057000",
+    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+    "link": "https://www.qbitai.com/2026/11/508118.html",
+    "summary": "挑战商业视频的高难度场景",
+    "publishedAt": "2026-11-06",
     "source": "量子位",
     "tags": [
       "china",
@@ -368,10 +370,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793938765000",
-    "title": " 智元急忙落地 ",
-    "link": "https://www.huxiu.com/article/4903515.html?f=rss",
-    "summary": "本文来自微信公众号： 最话 FunTalk ，作者：最话团队 桌子上还有食物，但是顾客已经离桌，这份食物要不要当垃圾处理？ 对人来说，这问题不难，比如可以观察顾客是否已经食用，或者观察顾客是不是已经离店，来判断顾客是否还会回来。 但对于机器人来说，这件事却难。 11月2号，智元的机器人们在一个便利店上岗，六台机器人分别承担迎宾、取货、做咖啡、做熟食、理货、清洁岗位的工作。其中，一位叫冷姐的机器人负责的正是清洁工作，与其他工作相比，这份工作部分环节是“非标”的，因此也更容易出错。 在判断顾客已经离桌后，冷姐很快就上前清洁桌面，面对一份纸质包装袋打包好的熟食，冷姐思考几秒后便扔进垃圾框中。 而事实上，顾客只是短暂离桌去观察货架，而且这份熟食还没有食用。 冷姐或许是没有办法透过纸质包装，来判断里面的熟食是否完整，才导致这次工作的失误。但这无伤大雅，毕竟主播和观众都知道，这只是一次测试，今天大家对于机器人犯点错是有预期的。 智元真正想展现的，并不是一个还在进化中的机器人，而是它与商业场景已经发生了关系。 9月，监管机构的“窗口指导”已经成为具身智能行业上市之旅的“路书”，文件中提到的“具备经常性收入、处于亏损收窄轨道”等要求，让这个原本还在讲宏大叙事的行业，迅速切换到商业化落地的实务上。 具身智能的商业化落地通常需要打通两个环节，第一是有场景可落地，便利店当然是其中之一。而另一个环节则是，",
+    "id": "news-nature-1793968648000",
+    "title": " 一篇Nature论文背后的师生署名之争 ",
+    "link": "https://www.huxiu.com/article/4903673.html?f=rss",
+    "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：孙滔 江庆龄 2025年6月11日，德国吉森大学博士生钱伟煜以第一作者身份在Nature发表论文，报道制备出仅由6个氮原子构成的中性分子N₆。美国南加州大学多氮化合物领域权威专家Karl Christe评价：“这项研究令人惊叹，在我看来完全值得获得诺贝尔奖。” ▲相关Nature论文截图。 这本该是高光时刻。可钱伟煜说，从署名争执爆发到论文发表的那段日子，是他“将近30年的人生中最难受的时期”。 矛头指向论文的第一通讯作者——他的导师、曾任德国化学学会主席的Peter R.Schreiner。在钱伟煜的讲述中，这位“名义导师”4年里只在实验室露过4次面；课题启动时，他说“我不相信它能够成功”；实验成功后，他却把自己改成了第一通讯作者。钱伟煜去办公室争取署名通讯作者，被赶了出来。 如今已在美国做博士后的钱伟煜告诉《中国科学报》，这是一起典型的学术霸凌。 针对此事，《中国科学报》近期向Schreiner进行了求证。在他的书面答复中，讲述了故事的另一个版本。Schreiner否认曾以只有永久教职人员才能担任通讯作者为由回绝钱伟煜，坚称项目由三人共同构思，署名在首次投稿时即已确定，此后从未改动。他承认曾请钱伟煜离开办公室，理由是对方“言行与语气带有不敬”。他反过来质疑：钱伟煜的实验记录本有大量空白页，“没有任何记录能够证明成功制备出N₆”",
     "publishedAt": "2026-11-06",
     "source": "虎嗅",
     "tags": [
@@ -381,10 +383,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793934556000",
-    "title": "狂欢的AI，把手机芯片厂拖入寒冬",
-    "link": "https://www.tmtpost.com/8192384.html",
-    "summary": "手机芯片的黄金时代“落幕”。",
+    "id": "news-lvmh-gucci-6-1793959770000",
+    "title": "LVMH市值蒸发千亿，Gucci营收下滑6%，奢侈品巨头扛不住了？",
+    "link": "https://www.tmtpost.com/8196410.html",
+    "summary": "业绩集体下降，奢侈品巨头也扛不住了。",
     "publishedAt": "2026-11-06",
     "source": "钛媒体",
     "tags": [
@@ -1039,4 +1041,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-06T04:55:56.764Z';
+export const dataFetchedAt = '2026-11-06T13:41:13.062Z';
