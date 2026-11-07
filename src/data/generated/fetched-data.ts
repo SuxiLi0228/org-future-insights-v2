@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-duo-apps-are-coming-says-apple-1794001085000",
-    "title": "The Duo apps are coming, says Apple",
-    "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-    "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
-    "publishedAt": "2026-11-06",
+    "id": "news-from-the-front-row-to-the-hot-seat-what-the-midterms-mean-fo-1794025003000",
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,24 +54,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1793981364000",
-    "title": " 美国中期选举，暴露“共识赤字” ",
-    "link": "https://www.huxiu.com/article/4903711.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 美国中期选举，常被比作总统的“期中考试”。 但这个比喻太过温和。一次考试失利，至多承受批评；中期选举一旦落败，总统余下两年的执政之路，就像握着一台方向盘失灵的重卡——只能眼睁睁看着国会山的对手，借着一项项法案、一轮轮传唤，将他仅剩的政治遗产撕得个粉碎。 2026年的这场选举，尤为刺眼。 哈佛大学选举模型曾给出了近乎盖棺定论的预判，而11月3日投票落幕之后，多家美国选举数据分析机构测算：民主党不仅夺回众议院，更拿下参议院至少51席控制权，得克萨斯州更是出现了自1988年以来的首次翻蓝。 可比起胜负结果，更让人深思的悬念是：当投票箱吐出这组数字，还有多少人愿意把它当成一份共同认可的最终答案？ 想要读懂这场选举背后的撕裂、荒诞与困局，我们需要跳出新闻的表层，去审视这个立国两百五十年的超级帝国，它底层的文明代码，究竟在哪里发生了错位。 长久以来，美国如同一台引擎轰鸣的顶级跑车。它的底层逻辑，恰好可以借《易经》“四易”来拆解一下：《圣经》为不易，宪法为简易，市场为交易，科学为变易。 四根支柱，撑起了它两百多年的繁荣。只是当这台跑车在极限之中长久狂飙，齿轮之间已经响起令人牙酸的摩擦与断裂之声。曾经相互支撑的“四易”，正在一步步走向异化。 交易的异化 美国的底色，是依托自由市场“交易”逻辑生长起来的商业文明。理想状态下，所有人在同一套规则之内博",
-    "publishedAt": "2026-11-06",
+    "id": "news-3d-dram-1794024781000",
+    "title": " 台积电进军3D DRAM？ ",
+    "link": "https://www.huxiu.com/article/4903755.html?f=rss",
+    "summary": "本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯浪客剑 11月6日消息，据外媒《The Information》报道称，晶圆代工大厂台积电近期已开始规划3D DRAM的生产方案，而推动这一决策的直接力量来自其最大客户英伟达（Nvidia）。AI算力竞赛引发的内存短缺与价格飙升，正迫使英伟达寻找传统存储三巨头之外的供应路径，而台积电被推到了台前。 若计划落地，台积电将从逻辑芯片代工与先进封装，进一步切入由三星、SK海力士与美光长期把持的存储制造领域。但综合现有信息来看，这更像一场以技术储备为底牌、以客户压力为催化剂、以2029年为时间锚点的长期博弈，而非迫在眉睫的产线投资。 英伟达的焦虑，台积电的选项 报道援引两名知情人士透露，台积电正考虑拓展业务至先进存储芯片制造领域，并已应其最大客户英伟达的要求，开始启动了对3D DRAM生产可行性的评估。此举将有望使台积电未来在AI硬件供应链中占据更大份额。 3D DRAM是一种通过垂直堆叠存储单元（而非传统的水平单层排列）来提升容量的存储架构。若计划落地，台积电将与三星电子、SK海力士及美光这三家长期主导存储市场的厂商展开竞争。 台积电的具体方案包括新建一座专门的工厂，或收购现有半导体厂房并改造为3D DRAM产线。后一条路径已有先例——美光今年3月完成以18亿美元对力积电在中国台湾一座晶圆厂的收购，计划改造用于先进存储芯片",
+    "publishedAt": "2026-11-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-u9x-500km-h-1793966121000",
-    "title": "仰望U9X极速突破500km/h，全球最快量产车易主",
-    "link": "https://www.tmtpost.com/8196742.html",
-    "summary": "极限性能突破的背后，是中国车企在电驱技术、整车工程与高端汽车竞争中的持续探索。",
-    "publishedAt": "2026-11-06",
+    "id": "news--1794019327000",
+    "title": "家电行业，集体过冬",
+    "link": "https://www.tmtpost.com/8196670.html",
+    "summary": "冬天来了，春天还会远吗",
+    "publishedAt": "2026-11-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-1793990678000",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "publishedAt": "2026-11-06",
+    "id": "news-crusoe-sells-troubled-wyoming-data-center-project-to-google-1794015628000",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,11 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-q1-15-lululemon-1793962858000",
-    "title": "雅诗兰黛 Q1 中国大陆销售增长15%；lululemon携三项创新产品亮相进博；高梵×「上下」发布东方高定鹅绒服联名典藏系列｜消研所周报",
-    "link": "https://www.tmtpost.com/8196552.html",
-    "summary": "彪马2026年Q3大中华区营收三连增；泰佩思琦Tapestry携手东华大学与蚂蚁集团，共同宣布启动“共联未来计划（Future Weaver）”。",
-    "publishedAt": "2026-11-06",
+    "id": "news--1794024593000",
+    "title": " 无薪招老师这招，太狠了吧 ",
+    "link": "https://www.huxiu.com/article/4903753.html?f=rss",
+    "summary": "本文来自微信公众号： 雷叔说事 ，作者：小林 育华实验小学是太原一所开办没几年的公办小学。 简介里写着，拥有如花般优美环境，高标准校园设施，和人性化课程设置。 新学校，新质量，很正常，那它也应该拥有充足财力吧。 但今年他们出了一个招聘启事：跟岗老师，无薪，不包食宿，备用上岗。 什么意思呢？ 就是不给工资，吃饭住宿自己解决，能给你安排午休，以后表现好可能签劳务派遣。 为了得到如此震撼人心的待遇，你得做好备课、听课、磨课、试教、批作业、管班级、课后服务、组织校园活动这些活。 这招聘启事也不是针对一两个课的老师，他们实际上想招语文、数学、英语、科学、音乐、体育、美术七门课的老师。 他们甚至欢迎硕士来干这份没钱，没编，但为了先进育人理念的工作。 看到这里，你也会觉得如此一个扯淡招聘，肯定不像表面看的那样简单吧，会不会是个萝卜岗呢？ 不，学校就没啥心眼，他们单纯就不想出钱。 证据就是记者调查发现，他们拿类似的招聘启事在今年6月和9月招了两次了。 负责招聘的工作人员说有人已经到岗了。但后来校方又说这三次招聘，一个人都没招到。 如果是萝卜岗，肯定三次里有一次有人上了。 但哪怕有关系户，看了这待遇也要泪流满面，因为转正后到手工资一个月1900元。只有五险，没有公积金。 很多人可能不知道这个数字的大小，对比一下当地全日制月最低工资2350元就知道情况了。 所以你会发现，一个模板用三次，期待白嫖的做法",
+    "publishedAt": "2026-11-07",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4000-1377-1794018936000",
+    "title": "港股上市公司杀入币圈，高调囤币4000枚，套现1377万美元",
+    "link": "https://www.tmtpost.com/8196556.html",
+    "summary": "港股唯一上市家办，“清仓甩卖”比特币。 11月4日，港股上市家办公司“德林控股”公告称，公司在9—11月两个月内卖出172枚比特币，套现约1377万美元。",
+    "publishedAt": "2026-11-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -159,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-introduces-spaces-a-new-way-to-collaborate-with-your-mu-1793990660000",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "id": "news-openai-reportedly-raises-an-additional-11-billion-at-a-1-25--1794005626000",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -199,11 +213,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-waymo-1793959778000",
-    "title": "Waymo不想再当“技术供应商”了",
-    "link": "https://www.tmtpost.com/8195043.html",
-    "summary": "Waymo 用了七八年时间证明自动驾驶能安全地跑起来。接下来它要证明的是另一件事：一家自动驾驶公司，能不能同时成为一家有人愿意打开、愿意信任、愿意直接付钱的出行品牌。",
-    "publishedAt": "2026-11-06",
+    "id": "news--1794023934000",
+    "title": " 大模型跌成这样，还是贵？ ",
+    "link": "https://www.huxiu.com/article/4903694.html?f=rss",
+    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | 视觉中国 11月5日，资本市场&ldquo;大奇迹日&rdquo;行情延续，恒生科技继续反弹，收涨5.55%。但大模型板块却没跟上，MiniMax勉强收红，智谱收跌1.69%，是港股市场少数收绿的标的。 更令人意外的是，7月以来，智谱和MiniMax股价最大回撤分别超过75%和60%。而就在股价大跌的同时，两家公司的收入和ARR仍在高速增长。 大模型明明越卖越多，资本市场为什么反而不买账了？ 这种变化并非个例。摩根大通在上调智谱ARR预期的同时，仍大幅下修其目标估值；OpenAI、Anthropic等全球大模型巨头，也面临融资及IPO估值预期下调。 从二级市场到一级市场，投资者衡量大模型公司的标准正在变化。过去两年，大模型处于快速扩张期，市场愿意为模型能力和AGI远期想象支付较多溢价；但现在， 随着竞争加剧，市场开始对收入质量、盈利路径和算力投入回报，提出了更高要求。 估值锚的切换，已经直接体现为上述提到的智谱、MiniMax股价的深度回调。 接下来真正需要关注的是，国产大模型公司究竟还值多少钱？智谱、MiniMax的回撤，是否已充分反映商业化风险？即将冲刺IPO的DeepSeek和Kimi，又该如何定价？ 智谱、MiniMax，不要着急抄底 两家公司股价大幅回撤，但面临的经营问题不同。 智谱的问题是增长的质量，AP",
+    "publishedAt": "2026-11-07",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-50-1794016472000",
+    "title": "50系突然疯涨，买不起显卡，年轻人又挤进网吧包夜了",
+    "link": "https://www.tmtpost.com/8196665.html",
+    "summary": "非理性暴涨成为新常态。",
+    "publishedAt": "2026-11-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -226,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-the-midterms-is-the-ai-industry-in-for-a-rough-two-yea-1793985832000",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+    "id": "news-the-duo-apps-are-coming-says-apple-1794001085000",
+    "title": "The Duo apps are coming, says Apple",
+    "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -265,11 +293,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1793959774000",
-    "title": "我为什么不太看好苹果国行AI",
-    "link": "https://www.tmtpost.com/8196145.html",
-    "summary": "理由主要有三条。",
-    "publishedAt": "2026-11-06",
+    "id": "news-ai-1794023824000",
+    "title": " AI 人才的天价年薪，定价权握在买方账本手里。 ",
+    "link": "https://www.huxiu.com/article/4903751.html?f=rss",
+    "summary": "本文来自微信公众号： 宁明亮Seerning ，作者：宁明亮Seerning 瓶颈溢价：价格归位置，位置不归人 据传800万年包招应届博士，放进巨头开支账上只是微弱噪声——薪酬的定价权，握在买方账本手里。 今年，全球四家最大的云厂商计划在数据中心和AI芯片上花掉超过7000亿美元；仅亚马逊一家的资本开支（购建固定资产、无形资产和其他长期资产支付的现金），就即将超过它全年的经营现金流。 今年以来一批关于AI人才的报道里，流传着另一组让人屏息的数字。一位猎头透露，名校应届博士的年薪，普通的两三百万，偏好的五六百万，顶级的八九百万。据报道，京东给应届生开出800万，英伟达给一位北大应届博士开出约290万的首年总包。 这两个数字都停留在猎头转述与社交平台流传帖层面，未经相关公司确认，本文只作量级参照，不作为事实基座。 不妨把这两组数字并排放在桌面上看看。据传用800万年包雇一名刚出校门的应届博士。 放在普通职场人的日常尺度里，是一笔天价。 但如果把这800万放进巨头们的开支账本里比照：比如腾讯仅一个季度的资本开支就是527.8亿元。 在这张大表上，800万连千分之一都不到，只是一粒微弱的噪声。 当然，资本开支属于资产性支出，薪酬属于当期人力成本，这两笔钱并非同一会计科目，但它们共享同一个买方现金流约束；决定高薪能撑多久的，是底层那本现金流总账。 猎头们给出的定价逻辑说得很直白：训练一个前沿",
+    "publishedAt": "2026-11-07",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1794016467000",
+    "title": "深度聊聊“字节时间”",
+    "link": "https://www.tmtpost.com/8196953.html",
+    "summary": "“字节时间”这个词，最近搅动了整个互联网圈。 导火索是秦朔写的一篇文章，引用野村报告转述的 QuestMobile 数据：在中国移动互联网月度使用时长排名前 50 的 App 里，整个字节系的时长份额达40.9%，腾讯系回落到29.1%。",
+    "publishedAt": "2026-11-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -291,10 +333,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-pentagon-offers-battery-startup-6k-250m-loan-to-build-us-fac-1793983801000",
-    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-    "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+    "id": "news-hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-1793990678000",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "publishedAt": "2026-11-06",
     "source": "TechCrunch",
     "tags": [
@@ -330,11 +372,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lvmh-gucci-6-1793959770000",
-    "title": "LVMH市值蒸发千亿，Gucci营收下滑6%，奢侈品巨头扛不住了？",
-    "link": "https://www.tmtpost.com/8196410.html",
-    "summary": "业绩集体下降，奢侈品巨头也扛不住了。",
-    "publishedAt": "2026-11-06",
+    "id": "news-6-167-1794023726000",
+    "title": " 成立仅6个月，估值167亿 ",
+    "link": "https://www.huxiu.com/article/4903752.html?f=rss",
+    "summary": "本文来自微信公众号： 投中网 ，作者：黎曼 无产品公司，凭啥半年167亿？ 作者黎曼 编辑王庆武 本文字数3019 手搓量丨88%AI含量丨12% 10月中旬，据路透社援引两位知情人士报道，成立仅六个月的芯片初创公司Nuvacore，正以约25亿美元，折合人民币约167亿元的估值筹集约2亿美元的资金，用于开发一款面向AI数据中心的新型中央处理器。本轮尚未关闭，估值与金额仍可能变化。 值得注意的是，Nuvacore还无产品、无收入，也没有任何一份性能测试报告，此前已完成过一轮红杉资本领投的种子轮。如今以独角兽的估值融资，这不得不令人将注意力聚焦在“人”身上。 Nuvacore的核心人物主要有三位：Gerard Williams、John Bruno、Ram Srinivasan。这三人组成了一个先后在Arm、苹果、高通造了二十多年CPU核心的团队，其中Williams的履历最硬：在苹果担任首席CPU架构师期间，经手了从A7到M1的多代自研芯片。 了解苹果公司的朋友可能会知道这两代芯片对苹果的意义。A7是苹果第一颗64位移动芯片，也是智能手机行业第一次大规模转向64位架构，苹果借此在性能上甩开了对手整整一代；M1则是苹果Mac产品线从Intel转向自研芯片的第一颗芯片，此后四年，Mac的出货结构、毛利水平和芯片话语权都被改写。这两颗芯片分别定义了苹果在移动端和PC端的两次架构转折，而W",
+    "publishedAt": "2026-11-07",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-2-85-1794014487000",
+    "title": "AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问",
+    "link": "https://www.tmtpost.com/8196758.html",
+    "summary": "溢价并购遭监管追问。",
+    "publishedAt": "2026-11-07",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -345,382 +401,7 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2611.08487v1",
-    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-    "authors": [
-      "Jonathan Kozaczuk",
-      "Zheng Dong",
-      "Noyan Evirgen",
-      "Keivan Majidi",
-      "Eddie K. H. Ng",
-      "Chris Porter",
-      "Qi Zhao",
-      "Jia Geng",
-      "Changmao Li",
-      "Brandon R. Feng"
-    ],
-    "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery a",
-    "link": "http://arxiv.org/abs/2611.08487v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08483v1",
-    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-    "authors": [
-      "Qile Jiang",
-      "George Em Karniadakis"
-    ],
-    "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decoding to text, and share information by passing KV caches. Each swarm studies the problem from a different angle. A novelty filter keeps the most distinct agent ideas by directly measuring the distances between the agents' hidden state vectors. Crossover of ideas happens naturally in latent space, as ",
-    "link": "http://arxiv.org/abs/2611.08483v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "cs.NE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08478v1",
-    "title": "Scientist World: Grow a Research World for AI-Scientists",
-    "authors": [
-      "Taiming Lu",
-      "Sachin Konan",
-      "Zhuang Liu"
-    ],
-    "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the environment is evaluated against what the human authors achieved. We release the first 1,000 verified environments. With the world as an evaluation, we found that frontier AI-Scientists can already surpass the human researchers 74% of the time. As a record of how AI does science, it contains 6,400 ",
-    "link": "http://arxiv.org/abs/2611.08478v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08472v1",
-    "title": "XStack: A Benchmark for ML Repo Migration",
-    "authors": [
-      "Linrong Cai",
-      "Taiming Lu",
-      "Haozhe Chen",
-      "Zhuang Liu"
-    ],
-    "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and challenging. We introduce XStack, a benchmark that evaluates agents on migrating ML repositories between these two ecosystems. Each agent receives a PyTorch repository and a clean TPU machine and must deliver a JAX repository. Its output passes if it meets our grading criteria, based on the source r",
-    "link": "http://arxiv.org/abs/2611.08472v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08469v1",
-    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-    "authors": [
-      "Linqian Wu",
-      "Diaoxuan He"
-    ],
-    "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integrated information $\\varphi$ of integrated information theory - in stochastic networks of four and five units with known ground truth. Behavior can be silent: a recurrent and a feed-forward network with identical input-output laws at their response delay carry 0.28 and 0 bits, yet internal recordings s",
-    "link": "http://arxiv.org/abs/2611.08469v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "q-bio.NC"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08465v1",
-    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-    "authors": [
-      "Celeste De Schamphelaere",
-      "Juan J. Vazquez",
-      "Ari Spiesberger",
-      "Tomáš Gavenčiak",
-      "Gavin Leech",
-      "Euan Ong",
-      "Jiahai Feng"
-    ],
-    "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the activations of the text generated by the MAEM. This label-free RL objective helps to scale MAEMs on diverse sources of residual stream directions. Empirically, we find the resultant metamodel produces informative exemplars: a Qwen3.6-27B MAEM inverts held-out activations better than corpus search or",
-    "link": "http://arxiv.org/abs/2611.08465v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08457v1",
-    "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
-    "authors": [
-      "Yi Feng",
-      "Andrea Paudice"
-    ],
-    "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in practice. In this paper, we study the AT dynamics of GD with large constant step sizes. We first study GD in adversarial linear logistic regression, focusing on two aspects: where the model parameters converge (implicit bias) and how quickly the losses decrease (optimization). We then turn to neural networks training and study how the sharpness of losses evolve during AT. Our results advance the understanding of the behaviors of GD with ",
-    "link": "http://arxiv.org/abs/2611.08457v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "math.OC"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08453v1",
-    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-    "authors": [
-      "Zeyu Leo Liu",
-      "Yang Li",
-      "Bo Pang",
-      "Emre Can Acikgoz",
-      "Xuan-Phi Nguyen",
-      "Anurag Koul",
-      "Srijan Bansal",
-      "Erik Nijkamp",
-      "Shafiq Joty",
-      "Semih Yavuz"
-    ],
-    "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty, student and teacher size, domain, and optimization choices, measuring held-out accuracy against training FLOPs. With an external post-trained teacher, OPD generally loses to GRPO in accuracy per training FLOP at matched settings, even when the teacher is further trained with GRPO, and often suffers response-length inflation. Yet a different teacher changes the picture: when the teacher is the student's own GRPO checkpoint, OPD recovers that ",
-    "link": "http://arxiv.org/abs/2611.08453v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08452v1",
-    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-    "authors": [
-      "Yubo Wang",
-      "Rui Meng",
-      "Jaehyun Nam",
-      "Tomas Pfister",
-      "Jinsung Yoon"
-    ],
-    "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction. We define a standardized artifact design comprising a refined codebase, environment setup, experiment launchers, and a reproduction guide, and introduce ReproBridge, an agent workflow for constructing these refined reproducible artifacts. ReproBridge-Bench provides 1,029 tasks from 387 experiments across 36 papers, anchored by five human-verified reference scores per task. Agents ",
-    "link": "http://arxiv.org/abs/2611.08452v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08445v1",
-    "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
-    "authors": [
-      "Angel Daruna",
-      "Michael Cogswell",
-      "Tixiao Shan",
-      "Yi Yao",
-      "Han-Pang Chiu",
-      "Ajay Divakaran"
-    ],
-    "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation with state-dependent arguments whose feasible values change over time. We capture both with a hidden Markov model whose latent state is the active regime and whose regime-conditioned action law is defined on a feasibility-masked tree of executable actions. The same likelihood forms the next-action distribution and updates the regime belief once the action is seen, and a partially observed prefix contributes its resolved local factors. Estimation separates into convex logistic fits that Baum-Wel",
-    "link": "http://arxiv.org/abs/2611.08445v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08439v1",
-    "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
-    "authors": [
-      "Vladimir Beskorovainyi"
-    ],
-    "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in several surface forms. Holding questions fixed and varying only how eighteen routing labels are worded, we evaluate ten label vocabularies, produced by three separate processes and checked for overlap with the training data, with five candidates per question and, for eight of them, also with eighteen. On held-out vocabularies made of ordinary or borrowed words (English-derived jargon, office slang, department names), the augmented release is m",
-    "link": "http://arxiv.org/abs/2611.08439v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08438v1",
-    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-    "authors": [
-      "Fazl Barez",
-      "Tung-Yu Wu",
-      "Hunar Batra",
-      "Gabriele Dominici",
-      "Florent Draye",
-      "Yanai Elazar",
-      "Damiano Fornasiere",
-      "Antía García",
-      "Abir Harrasse",
-      "Riley Harris",
-      "Sara Hooker",
-      "Michael Lan",
-      "Belinda Z. Li",
-      "Aaron Maiwald",
-      "Narmeen Fatimah Oozeer",
-      "Naomi Saphra",
-      "Or David Shafran",
-      "Adi Simhi",
-      "Robert Trager",
-      "Shriyash Kaustubh Upadhyay",
-      "Ziyu Yao",
-      "Yu Zhao",
-      "Shay B. Cohen",
-      "Mor Geva",
-      "Yoshua Bengio",
-      "Stella Biderman",
-      "Hassan Sajjad"
-    ],
-    "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding these systems by studying their internal representations and computations, with the aim of evaluating, predicting, and controlling behaviour. We survey mechanistic interpretability for AI safety in order to answer the question: Does understanding how models work actually make them safer? We place mech",
-    "link": "http://arxiv.org/abs/2611.08438v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08433v1",
-    "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-    "authors": [
-      "Donghua Zhang",
-      "Zizheng Wang",
-      "Ze Dong",
-      "Yiding Feng",
-      "Siyu Qian"
-    ],
-    "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety fact the answer depends on. We present MedGraph, a graph memory built for these three cases. Construction extracts dated facts from each session, attributes each fact to the person it describes, and links medication, diagnosis, and measurement records into chains that keep earlier states. Retrieval ranks the patient's chains as units, reads each chain at the time the question asks about, and adds the original dialogue text; a patient pro",
-    "link": "http://arxiv.org/abs/2611.08433v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08428v1",
-    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-    "authors": [
-      "Julian Kunkel",
-      "Ali Doosthosseini"
-    ],
-    "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Meta access can turn a chat client from many screens into one entry point for finding, navigating, organising, and operating it, while raising risks around grounding, privacy, prompt injection, and trust. General-purpose agentic harnesses are runtimes; because they can change their own settings, meta ",
-    "link": "http://arxiv.org/abs/2611.08428v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08425v1",
-    "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-    "authors": [
-      "Michal P. Podolinsky",
-      "Yunhao Yang",
-      "Daniel Little",
-      "Hong Lu",
-      "Rohan Siva",
-      "Olin Goudey",
-      "Neel P. Bhatt",
-      "Matthias Scheutz",
-      "Ufuk Topcu"
-    ],
-    "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough to run on the edge. Existing methods fail to fulfill these requirements. We present VLA-Tug, a lightweight probe over the latent layers of a VLA backbone that improves early failure detection and bounds the missed-detection and false-alarm rates, with minimal inference overhead. We show that supervising on the pre-failure segment of a trajectory increases early failure detection at matched false-positive rates by up to 30% over the stron",
-    "link": "http://arxiv.org/abs/2611.08425v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08421v1",
-    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
-    "authors": [
-      "Ilker Gurcan",
-      "Kadir Ustun",
-      "Ramazan Gokberk Cinbis"
-    ],
-    "summary": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form representation of the governing system. We formulate intrinsic Lie point-symmetry discovery as an operator-theoretic problem on sampled jet-space data. Admissible generators are identified from a sampled determining operator and separated from redundant, solution-dependent, and geometrically trivial directions. The framework combines prolongation, sequential subspace restrictions, and a fixed nonlinear dictionary linear in trainable coefficients. A rank-stabilization preflight test diagnoses systems whose represented intrinsic symmetry algebra does not stabilize under dictionary ",
-    "link": "http://arxiv.org/abs/2611.08421v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "math.DG",
-      "math.DS",
-      "math.GR",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08420v1",
-    "title": "On the limitations of molecular representations",
-    "authors": [
-      "Acer Blake",
-      "Fergus Imrie",
-      "Charlotte M. Deane"
-    ],
-    "summary": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including clustering, dataset splitting, and virtual screening, yet their evaluation is often limited to downstream model performance on narrow benchmark tasks. We carried out a systematic investigation of the quality of molecular representations, finding that none of the state-of-the-art molecular embedding models capture graph structure, 3D shape, or ADMET endpoint similarity better than fingerprints or physicochemical descriptors. However, classical fingerprints also revealed their own material limitations. For example, we show that depending on the representation, between 225M and ",
-    "link": "http://arxiv.org/abs/2611.08420v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08417v1",
-    "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
-    "authors": [
-      "E. Kelly Buchanan",
-      "Crystal Zhou",
-      "Scott W. Linderman",
-      "Christopher Ré"
-    ],
-    "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests. We call the resulting accumulation of defects benchmark maintenance debt: a growing gap between benchmark scores and the capabilities they are intended to measure. We introduce a continuous-validation workflow for agentic benchmarks that combines community reports, task artifacts, agent traces, automated oracle checks, and human-gated repairs. We apply this workflow to Terminal-Bench 2.0, a benc",
-    "link": "http://arxiv.org/abs/2611.08417v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08414v1",
-    "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
-    "authors": [
-      "Chenruo Liu",
-      "Zihan Wang",
-      "Yijun Dong",
-      "Qi Lei"
-    ],
-    "summary": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the low-rank increment that LoRA optimizes remains unclear. Tracking the singular spectrum and subspaces of LoRA updates on mathematical reasoning tasks, we find that RL concentrates the spectrum at every learning rate, while SFT expands it at moderate learning rates; moreover, RL rotates the singular subspaces much faster than SFT at small learning rates. Interpolating between SFT and RL one ingredient at a time, we pinpoint group-mean baseline subtraction as the source of both contrasts. A quadratic multi-index model updated via LoRA unveils the underlying mechanism: group-me",
-    "link": "http://arxiv.org/abs/2611.08414v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08412v1",
-    "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
-    "authors": [
-      "Yuanchuan Guo",
-      "Jiashun Jin",
-      "Zheng Tracy Ke",
-      "Bingcheng Sui"
-    ],
-    "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of matched case-control pairs; potential incompleteness of disclosure; and lack of ready-to-use features designed to capture signals of AI involvement in proofs. To address these challenges, we construct five cohorts comprising 8,281 papers by combining existing manuscripts with those we produced using generative AI. These cohorts span different levels of AI involvement and include matched pairs of papers addressing the same research problems. We then",
-    "link": "http://arxiv.org/abs/2611.08412v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "stat.AP"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -1038,4 +719,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-06T22:40:09.651Z';
+export const dataFetchedAt = '2026-11-07T04:28:16.750Z';
