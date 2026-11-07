@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-1794027714000",
-    "title": "Sequoia shutting down its Scouts program marks the end of an era",
-    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "id": "news-megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according--1794086228000",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794053822000",
-    "title": " 汽车零部件巨头开始争抢机器人客户 ",
-    "link": "https://www.huxiu.com/article/4903842.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：周姝祺 王臻 第九届进博会的安波福展台前，一台银灰色双臂机器人分别夹起黑色零件和红色小部件，在台面上对准、压合，不到50秒便完成了组装。与感知系统、计算平台等专业汽车产品相比，它和另一台“打工”的机器人，吸引了更多参观者驻足。 展台焦点的转移，背后是汽车零部件企业客户结构的变化。过去主要向整车厂提供传感器、控制器和电气架构的汽车零部件企业，开始争抢机器人公司的订单。 安波福在本届进博会上展示了具身机器人感知与域控制单元计算解决方案。据其披露，公司与它石智航、上海电气分别签署战略合作协议，将为两家企业的机器人提供计算平台和智能电源管理方案，相关产品预计在年内量产。 与安波福相邻的博世展台上，一款机器手指触觉感知产品同样被摆在醒目位置。它通过高精度气压传感器捕捉细微的压力变化，灵敏度达到感知羽毛轻拂的程度；磁力计和惯性测量单元同步监测手指的运动方向，帮助机器人实时调整抓握力度。 博世中国总裁徐大全接受界面新闻采访时表示，博世将与机器人公司合作，在自己工厂收集数据，试用机器人，同时也评估适合由博世提供的系统和零部件。 据徐大全透露，博世不会做具身机器人本体。目前，博世中国研发团队正在开发机器人关节，若进展顺利，预计将于2027年推出产品。 安波福展台正在“打工”的机器人。图片拍摄/周姝祺 这一轮汽车零部件公司的跨界发生在汽车市场增长放缓、行业利润收",
+    "id": "news--1794074104000",
+    "title": " 德国为什么就成了欧洲零售的垫底王？ ",
+    "link": "https://www.huxiu.com/article/4903867.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月6日，欧盟统计局公布了9月的欧洲零售数据。 德国排在最后。9月德国零售量环比下降2%，同比下降2.4%，两项跌幅都是已公布数据的成员国中最大的。同一个月，欧元区零售量同比还增长了0.4%。 榜单的另一头，环比涨幅最大的是卢森堡，增长5.3%。 两个数字之间，只隔着一条国境线。 一边是全欧最差，一边是全欧最好。今年3月起，德国海关在东部边境多了一项不太常见的检查任务；卢森堡的一些加油站前，也开始排起长队。 把德国统计局今年每个月的零售数据摊开，还能看到一处更奇怪的地方：德国零售几次大起大落，日子都踩得很准。 德国人到底是不买东西了，还是把钱花到了别处？ 一、德国零售的曲线，跟着加油站走 德国联邦统计局的零售数据里，加油站单独列为一项。今年这一项波动太大，已经能左右整个零售的走势。 3月中东战事爆发，油价上涨，德国加油站的实际销量当月环比下降2.7%，4月又下降5.2%。 5月1日，德国开始实行为期两个月的燃油折扣。当月加油站实际销量环比回升3.5%，整个零售业实际销量环比增长1.2%。 6月30日折扣到期。7月，加油站实际销量环比下降9.1%，整个零售业环比下降3.2%，是今年最大的单月跌幅。 8月零售反弹1.2%。9月再跌2%，加油站环比又降了3.4%。 10月1日，德国再次下调燃油能源税。 今年德国零售的几次大",
     "publishedAt": "2026-11-07",
     "source": "虎嗅",
     "tags": [
@@ -93,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-from-the-front-row-to-the-hot-seat-what-the-midterms-mean-fo-1794025003000",
-    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "id": "news-parents-want-safer-phones-for-kids-these-companies-are-answe-1794078000000",
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -133,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-1794053390000",
-    "title": " 凌晨2点，在清华实验室，人类能看见的宇宙悄悄变远了 ",
-    "link": "https://www.huxiu.com/article/4903841.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：吴欧 凌晨两点，清华大学的博士生郭钰铎突然从电脑前跳起来。算法跑通了——暗弱的星星从满屏雪花点的噪声里浮现出来。他激动地给组里所有人都发了微信，没一人回他…… 但那一晚，人类能看见的宇宙悄悄变远了：他的算法，让价值100亿美元的韦布望远镜，看到了以前看不见的东西。 显微镜和望远镜，是一类问题？ 2020年，郭钰铎来到清华大学成像与智能技术实验室读博。这个实验室专攻计算成像，就是给相机“配一个大脑”。镜头负责采光，算法负责推测，两者配合，能提取出更多的信息。 本来这已经是一个很厉害的工科实验室了，但大师兄吴嘉敏带着团队跨界生物，活着的小鼠放到台子上，用他们手搓的配了大脑的显微镜看，小鼠脑细胞活动一览无遗，科研成果曾多次登上顶刊。 但新生郭钰铎，没有跟着师兄看生物。他接到了一个全新的课题，研究望远镜看星星。 显微镜和望远镜，一个在实验台上，一个在天上；一个看微米级的细胞，一个看百亿光年外的星系。这不是完全两种东西吗？ “我们做光学，是以问题为引导，”吴嘉敏说，“它们解决的都是光学的问题，只是应用领域不同。” 在生物成像里，光要穿过几毫米厚的组织；在天文观测里，光要跋涉上百亿光年，再穿过地球大气。尺度差了许多个数量级，要解决的问题却是同一个——怎么在充满噪声的模糊照片里，找出有价值的信号。 比如这张真实的天文照片，它布满了雪花点，像极了老",
+    "id": "news-2026-1794071583000",
+    "title": " 2026年，黄金为什么没当好避险资产？ ",
+    "link": "https://www.huxiu.com/article/4903866.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 所谓乱世买黄金。 2022年俄乌冲突爆发后，金价一度在两周内冲上2000美元。 这句话在今年似乎不灵了。 毫无疑问，2026年是一个战火不断的年份。2月底，美以伊冲突爆发，霍尔木兹海峡航运受阻，国际油价一度冲上119美元/桶。到了11月，海峡里的袭船事件仍时有发生。 1月29日，现货黄金创下5595美元/盎司的历史高点，此后一路走低，10月30日跌破4000美元，11月初盘中最低探到3874美元。中信证券统计，金价年内最大跌幅达到28.3%。 有美国财经媒体总结，今年大部分时间里，黄金和比特币是市场上表现最差的两类资产。 本周金价反弹了一把。美国中期选举后美元走弱，金价单日涨超3.5%，一度回到4147美元。随后一份强劲的非农数据，又让它退回4050美元附近。 一个打了大半年仗的年份，为什么避险资产跌掉近三成？ 一条反向的传导链 过去几十年的逻辑是，冲突爆发，资金避险，金价上涨。今年地缘冲突的传导链变反了。 第一环：打仗推高油价。这场冲突的核心在霍尔木兹海峡。这条海峡最窄处只有几十公里，全球约五分之一的石油海运要从这里经过。航运一受阻，油轮出不来，市场上的油就少了，国际油价一度冲上119美元/桶。 第二环：油价推高通胀。石油是几乎所有商品的上游。卡车运货要烧柴油，飞机要烧航油，化肥、塑料、化纤都从油气里来。油价一涨，运",
     "publishedAt": "2026-11-07",
     "source": "虎嗅",
     "tags": [
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-crusoe-sells-troubled-wyoming-data-center-project-to-google-1794015628000",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "id": "news-binance-cfo-is-leaving-to-8216-pursue-a-new-venture-8217-aft-1794072247000",
+    "title": "Binance CFO is leaving to &#8216;pursue a new venture&#8217; after $6.3 billion hack",
+    "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -212,16 +212,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-85-1794052238000",
-    "title": " 中国白酒出口韩国暴涨85%，谁在买？ ",
-    "link": "https://www.huxiu.com/article/4903832.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 韩国的CU便利店卖过一款罐装Highball，名字叫“烟台汤力”。5.5度，喝起来有一股明显的高粱香。 2023年，韩国媒体翻看了它的配料表，发现罐子里的基酒是韩国本地的食用酒精，跟烟台高粱酒并无关系。厂商的解释很简单：烟台是一个中国地名，拿来做产品名称没有问题。 这件小事说明了一个变化。在韩国，“烟台”已经从一座城市的名字，变成了一种口味。 今年中国白酒出口整体在收缩，上半年出口额2.83亿美元，同比下降46.6%。韩国是少数逆势增长的市场。前9个月，中国对韩国的白酒出口额达到3332万美元，同比增长85%。韩国超过澳门，成为仅次于香港的第二大出口目的地。 出口数字之外，韩国市场更值得关注的，是韩国人喝白酒的方式。在中国，白酒属于宴席、小杯和干杯。在韩国，它正在被加冰、兑汤力水、装进易拉罐，在便利店里卖给二三十岁的年轻人。 韩国是少有的，白酒消费者以当地人为主的海外市场 烟台高粱酒在韩国中餐馆里待了几十年。韩国人习惯拿它配炸酱面、糖醋肉，老一辈还沿用“白干”的叫法，韩语读作“빼갈”。在韩国的酒类零售网站上，一瓶500毫升的烟台高粱酒卖1.5万韩元左右，评论区几乎全是韩语。 烟台高粱酒在韩国的位置，来自一段一百多年的移民史。 1882年以后，山东商人和劳工经海路来到朝鲜半岛，在仁川等通商口岸落脚。1883年朝鲜境内的华",
+    "id": "news--1794067971000",
+    "title": " 画地为牢，也火了 ",
+    "link": "https://www.huxiu.com/article/4903865.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 这几天，大家都在”画地为牢“。好吧，新现象就观察一下，写写。周末愉快，朋友们。 “起床了，厉娜。”“下班了，厉娜。”“刻舟求剑，厉娜。”杨幂在直播里捂着嘴笑，劝人不要画地为牢；沈月唱着唱着自己笑场，也冒出一句“我画地为牢啊”；宋亚轩的粉丝把它改成了告白。 一个两千多年的成语，在2026年的秋冬之际，忽然换了一身衣服，满大街地走秀。人与人之间，即便亲密，也不相互理解，这是一种普遍的痛点，甚至是一个痛圈…… 芒果TV的一档综艺《后会友期》，10月22日开播，据说因“画地为牢”的出圈，让芒果的股价都涨很多。 这个节目组找了四对走散多年的旧友，让他们坐上一趟高原列车，在西藏走18天，把当年没说清的话摊开来说，说得通就接着同行，说不通就体面下车。这不就是友情版的《再见爱人》嘛。 海拔四千米，一间悬崖边的小屋。许飞哭着说，“我是被宣判的人，我能去哪儿啊，我画地为牢，厉娜”。她还说，这一刻她等了15年。几乎在每一句话的末尾，她都要喊一声“厉娜”，像在信的末尾一遍一遍地落款。 但厉娜似乎没有接住。她回到房间，拿出手机问AI，画地为牢是什么意思。问完，点了一份麦当劳。 画地为牢，最早的出处在司马迁的《报任安书》。 那封信写在他受了宫刑之后。他说，“士有画地为牢，势不可入”。古时候刑律宽，在地上画个圈就算牢房，一个有节气的人，哪怕牢房只是地上的一道线，也",
     "publishedAt": "2026-11-07",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -252,16 +253,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-reportedly-raises-an-additional-11-billion-at-a-1-25--1794005626000",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "publishedAt": "2026-11-06",
+    "id": "news-amazon-8217-s-new-basic-kindle-proves-you-don-8217-t-need-al-1794071880000",
+    "title": "Amazon&#8217;s new basic Kindle proves you don&#8217;t need all the bells and whistles",
+    "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+    "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -287,19 +289,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-3000-15-1794051568000",
-    "title": " 每天白送3000碗面，零元面馆，逼退隔壁15年老店？ ",
-    "link": "https://www.huxiu.com/article/4903838.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清，原文标题：《每天白送3000碗面！零元面馆，逼退隔壁15年老店？》 不设门槛人人可吃，周边同行客流却腰斩？ 开业近一个月每日大排长队，至今却一分钱没有收？ 最近，南京江宁殷巷一家供应素面的“零元面馆”火了，每到营业时间，店门外能排开一两百米的长队。而一周前，这样的零元面馆又在雨花台岱山片区开了第二家，两家店每天合计能送出3000余碗面。 受到社会各界关注后，面馆老板仍然坚持“不会收费”，但同时，店内规则正逐渐“收紧”，附近的餐饮同行也遭遇了客流腰斩与考虑退租的困窘局面…… △图片来源：小红书截图 01. 0元素面日送三千碗， 这样的面馆要开10家？ 这两家零元面馆每日中午11点至12点半、晚间17点至19点营业，店门口未设价目表与收款码，一碗清汤面上盖有素鸡、香菇、胡萝卜丝和豆干等素浇头，店门头写着“后厨每分钟出6碗”，每人限取一碗。按两家店每天合计供应3000余碗、每周二店休的节奏算，每月供餐约26天估算，一个月要送近出8万碗面。 零元面馆最初的“要求”也很简单，只要排好队、遵守秩序、注意卫生、不要浪费即可，除此之外，不问身份、不看证件，排队到了就能吃上一碗。店里没有服务员，靠现场义工维持排队秩序，采取间隔放行的方式分批取餐。 △图片来源：大众点评截图 据扬子晚报报道，前来用餐的有老人、环卫工、外卖骑手，也有正在找工",
-    "publishedAt": "2026-11-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -330,11 +319,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-duo-apps-are-coming-says-apple-1794001085000",
-    "title": "The Duo apps are coming, says Apple",
-    "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-    "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-    "publishedAt": "2026-11-06",
+    "id": "news-sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-1794027714000",
+    "title": "Sequoia shutting down its Scouts program marks the end of an era",
+    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -366,20 +355,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-ai-x-3-1794051298000",
-    "title": " 一条禁止AI的X推文，让美股暴跌3万亿美元 ",
-    "link": "https://www.huxiu.com/article/4903833.html?f=rss",
-    "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜AI生成 11月4日，亚利桑那州民主党众议员亚萨明&middot;安萨里在X上发帖说，民主党掌控国会后的第一天，就该优先推动三件事：暂停先进AI研发、监管这个&ldquo;失控的行业&rdquo;，以及禁止研发&ldquo;人工超级智能&rdquo;。 帖子起初没引起太大动静。直到第二天马斯克转发，只留下一句：&ldquo;It's a Brave New World.&rdquo;（虎嗅注：此句通常被视为赫胥黎反乌托邦小说《美丽新世界》书名的化用），安萨里随后回了一句：&ldquo;See you soon.&rdquo; 当天，与AI数据中心建设相关的股票领跌，美股创下2025年4月关税冲击以来最差的单日表现。X上一时群情激愤，舆论一边倒地开始批评安萨里：有人骂她蠢，有人指责她损害了普通人的退休金，还有人把她的提议称作&ldquo;经济自杀&rdquo;。 一条要求叫停先进AI研发的帖子，成了一些人解释股市暴跌的理由。 这是一种痛快的归因，但同时过于简单粗暴。 它把三件各有来由的事共同产生的影响与愤怒，投射在了同一个人身上&mdash;&mdash;国会里有人要给AI研发踩刹车，一些地方的居民正通过投票限制数据中心，华尔街也在重新审视给AI基础设施公司开出的价位。 一个议员的主张，为什么会成为股市下跌的出气筒？住在数据中心附近",
-    "publishedAt": "2026-11-07",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -1091,4 +1066,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-07T12:22:32.623Z';
+export const dataFetchedAt = '2026-11-07T21:23:39.930Z';
