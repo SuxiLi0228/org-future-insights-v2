@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-09-auto",
+    "date": "2026-11-09",
+    "session": "auto",
+    "title": "2026-11-09 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-09-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+      },
+      {
+        "id": "sig-2026-11-09-auto-2",
+        "emoji": "💡",
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "detail": "来源: TechCrunch。In a memo to the company, Huang admitted that he had an affair.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      },
+      {
+        "id": "sig-2026-11-09-auto-3",
+        "emoji": "💡",
+        "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+        "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
+        "detail": "来源: HR Dive。We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/"
+      },
+      {
+        "id": "sig-2026-11-09-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：User Embeddings are Superpositions of Interpretable Behavior...",
+        "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in",
+        "detail": "作者: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen。User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery a",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.08487v1"
+      },
+      {
+        "id": "sig-2026-11-09-auto-5",
+        "emoji": "💼",
+        "title": "Salvo Software 正在招募 AI Developer",
+        "summary": "岗位类型：纯 AI 岗。Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions",
+        "detail": "技能要求: Python, LLM, RAG, Kubernetes, AWS。Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Salvo Software"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Salvo Software",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-09-1",
+        "priority": "medium",
+        "action": "关注「The Download: a humanoid cleans house an」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-09-2",
+        "priority": "low",
+        "action": "关注「Nvidia will investigate CEO Jensen Huang」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-09-3",
+        "priority": "low",
+        "action": "关注「Week in review: Employment growth hits u」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-09-4",
+        "priority": "medium",
+        "action": "关注「研究速递：User Embeddings are Superpositions 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-09-5",
+        "priority": "medium",
+        "action": "关注「Salvo Software 正在招募 AI Developer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Salvo Software"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 66,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-09 生成，聚合了 29 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-09 00:00 - 2026-11-09 23:59"
+  },
+  {
     "id": "report-2026-11-08-auto",
     "date": "2026-11-08",
     "session": "auto",

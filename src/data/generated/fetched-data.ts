@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-the-midterms-things-are-looking-rocky-for-elon-musk-an-1794089242000",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "publishedAt": "2026-11-07",
+    "id": "news-nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-1794171611000",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "publishedAt": "2026-11-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794140076000",
-    "title": " 上海喜糖简史 ",
-    "link": "https://www.huxiu.com/article/4903937.html?f=rss",
-    "summary": "本文来自微信公众号： 上海市民生活指南 ，作者：顾筝，题图来自：视觉中国 从小到大，你参加过多少婚礼？ 在喜宴上拿到的那一盒喜糖是怎么样的？ 现在的你对喜糖或许爱理不理，但时光倒回三四十年前，大家对一包喜糖宝贝得不得了，甚至宝贝到，连糖纸头都不舍得扔。 01 如果你在1970年代末、80年代初被分配到上海第一食品商店当营业员，你在弄堂里就变得吃香得不得了。 张家阿姨、李家姆妈都会拜托你一些事，其中有一件很重要&mdash;&mdash; &ldquo;到辰光，好点的喜糖帮我买买。&rdquo; 那时食品商店的格局，和现在不一样，一般来说，店堂正中摆放的是糖果柜台。 糖果配得上C位，因为它有几百个品种，而各种品种随意组合，构成了上海人非常熟悉的什锦糖。 电影《金鹿》里的糖果柜台 什锦糖是有高低贵贱的，我们采访过食品一店的老营业员，他如数家珍地报出过什锦糖价格。 全部是土蜡纸包装的硬糖和软糖，卖1元2一斤； 全部玻璃纸包的硬糖，1元4一斤； 一半玻璃纸一半土蜡纸包装的软糖，1元6一斤； 全部是玻璃纸的软糖，2元4一斤&mdash;&mdash;这种拿出去最上台面。 玻璃纸糖果 上海人把糖分成硬糖和软糖 ，硬糖主要品种就是各色水果糖、话梅糖、椰子糖；软糖是大白兔奶糖、太妃糖、花生牛轧糖等。 那时结婚的喜糖就是四粒软糖、四粒硬糖，婚礼前，各色糖果散在桌上，亲友们围坐在桌子前，像流水线上的工",
+    "id": "news--1794155593000",
+    "title": " 在欧洲，物流仓库开始和数据中心抢电了 ",
+    "link": "https://www.huxiu.com/article/4903973.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 荷兰服装零售商Zeeman在阿尔芬的配送中心，遇到过一个难题。 配送中心装上新的自动化订单拣选系统之后，用电需求超出了现有电网接入所能承受的上限。 在荷兰不少电网拥堵地区，申请新的用电容量或扩大现有容量，往往意味着进入等待名单。2026年4月，等待新增或扩大用电容量的大型企业和机构约有1.5万家；到年中，这一数字进一步升至15,498家。 另外，排队优先照顾能够缓解电网拥堵的项目，其次是急救医疗、警察、消防和国防等安全功能，再次是住房、教育、供热等基本需求。普通商业仓库通常不属于优先类别，需要排在这些项目之后。 有些地区的等待时间已经超过十年。在迪门分区电网，约150宗阿姆斯特丹客户申请受到建设进度调整影响，预计脱离等待名单的时间由2036年第四季度推迟到2037年底。 Zeeman最后找到了别的办法。其阿尔芬配送中心采用容量限制合同，并配套安装电池：电网不拥堵时，配送中心可以使用更高容量；需要削减负荷时，电池为自动化设备补电。 电池由EcoPowerCell持有，Zeeman无需购买或租赁；电池闲置时由运营方参与能源市场交易，相关收益帮助分担系统的融资成本。配送中心因此能够在不等待常规电网扩容的情况下继续推进自动化和扩张。 这个事情其实折射出欧洲物流地产正在发生的变化。 7月，CBRE发布《2026年欧洲物流租户调查",
     "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
@@ -93,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according--1794086228000",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "publishedAt": "2026-11-07",
+    "id": "news-if-snap-8217-s-specs-are-still-ridiculously-expensive-they-8-1794171600000",
+    "title": "If Snap&#8217;s Specs are still ridiculously expensive, they&#8217;re also a lot more comfortable than they used to be",
+    "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+    "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+    "publishedAt": "2026-11-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -133,17 +133,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794139952000",
-    "title": " 中国AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部 ",
-    "link": "https://www.huxiu.com/article/4903943.html?f=rss",
-    "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《深度｜中国 AI 制药变局：字节控股分拆，大厂高管下场，六成资金流向头部》 引子 2026年6月，字节跳动把在内部运转了约五年的AI制药业务整体拆分出去。团队、算法平台和在研管线全部装进一家新公司Anew Labs，中文名“新生实验室”。9月，据报道，Anew完成2.9亿美元首轮融资，投后估值约15亿美元。字节保留56%的股份，继续控股。Anew手里最靠前的资产，是一款IL-17小分子，目前还在临床前的先导优化阶段，离第一个临床试验尚有距离。但据一位参投人透露，这轮额度是从一百多家机构的竞争里抢来的。一个没有临床数据的项目，拿到十几亿美元估值和上百家机构的追逐，本身就是这一轮AI制药热的缩影。 字节不是唯一下场的大厂，只是动作最彻底的一家。百度创始人李彦宏牵头创立的百图生科，据报道已在今年3月秘密向港交所递表。腾讯过去更多以投资人的身份出现，是英矽智能IPO的基石投资人。今年2月，它公开了一项完全由AI设计的短肽GLP-1减重药专利，开始自己做分子。阿里和京东则仍以医药流通和服务为主。几家的路径各不相同，变化的方向却很一致：大厂不再只给药企提供算力和工具，而是开始直接持有药物资产。 同样的剧本也在海外上演，且资金体量更为庞大。DeepMind分拆出来的Isomorphic Labs今年5月完成21亿美元B轮。",
+    "id": "news--1794154224000",
+    "title": " 巴黎忧思录：如何构建可持续的韧性社会？ ",
+    "link": "https://www.huxiu.com/article/4903972.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《巴黎忧思录：如何构建可持续的韧性社会？|| 大视野》 11月初的巴黎，天气清冷。我随公益平台——社会价值投资联盟（深圳）一行，参访了联合国教科文组织总部、企业社会责任评级服务商EcoVadis、欧莱雅可持续发展部门和路易威登基金会艺术中心，参观了2026国际文化遗产展，目的是围绕社会可持续发展，进行多维度的观察与交流。 可持续发展是联合国提出的人类发展目标，但能否实现，取决于能力和系统的支撑。 全球正面临治理失序、气候挑战、地缘政治冲突、宗教文化摩擦、保护主义抬升、公共财政能力普遍不足等多重冲击。能够实现“可持续+高韧性”这一理想协同型状态的社会很少，大多数社会都处在“不可持续+高韧性”（短期恢复力强但长期透支资源）、“不可持续+低韧性”（恶性循环）、“可持续+低韧性”（环境达标但脆弱）的状态。 此时此刻，巴黎成了我们的一个参照样本。 社会骚乱的背后 从国内出发前，耳边听到的都是法国骚乱如何严重，我们预定的酒店也临时改到了巴黎比较安全的14区。 身临其境，发现一切已恢复正常。只是看到一些主要商业街的某些店铺，如钟表珠宝连锁店Bucherer（宝齐莱）、BOSS用木板把玻璃橱窗封住，才能感受到之前的冲击。 现在周末还有游行，但路线是限制的，政府也会提前部署大量警力，总体是和平行进，只在局部有小范围警民冲突和零星小破坏。 我在",
     "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -173,16 +172,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-parents-want-safer-phones-for-kids-these-companies-are-answe-1794078000000",
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-    "publishedAt": "2026-11-07",
+    "id": "news-coordinated-disturbances-haunt-grids-worldwide-here-s-how-re-1794169800000",
+    "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+    "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+    "publishedAt": "2026-11-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -213,16 +213,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794139591000",
-    "title": " 中国软件出海，最扎心的一幕出现了 ",
-    "link": "https://www.huxiu.com/article/4903941.html?f=rss",
-    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 一位做SaaS出海的朋友告诉我，他们刚签下一家欧洲客户。 谈价格时，他已经给了50%的折扣，客户仍然要求继续降价。 我一听，这不像是欧美客户的风格啊？ 我和不少欧美客户打过交道，他们第一看重的往往是质量，也很注意维护供应商的合理权益，从来不会无底线的砍价。 直到朋友告诉我：“这家欧洲企业刚被一家中国公司收购，和他砍价的客户代表，是中国总部派过去的CFO”。我才恍然大悟。 另一位朋友也给我说了他的故事： 去年接了某国内汽车公司的海外项目。客户把价格砍到500万，但项目还没结束，交付成本已远超1000万。 客户安慰他：这个项目亏了，后面还有别的项目可以赚回来嘛。 可惜的是，项目越亏越多，他和团队终究没有等到“那个赚钱的项目”，就被公司全部裁掉。 这大概是中国软件出海最扎心的一幕： 你以为自己在赚海外的钱，实际上只是跟着中国客户去海外，继续赚一份更难交付、利润更薄的钱。 出海本来是为了逃离国内内卷，去服务更有付费能力、更愿意为价值买单的客户。 可很多软件公司出海后，最核心的一批客户依然是中国企业的海外机构。 市场换了，采购逻辑却没有换。 于是，国内那套压价、低价中标、承诺未来项目再赚回来的玩法，也被原封不动地带到了海外。 跟着中国企业出海，本来没有任何问题。 对于大多数中国软件公司来说，这是最现实的第一步。 你熟悉中国企业的管理方式、业",
+    "id": "news--1794154146000",
+    "title": " 一场由得州引发的股灾：“蓝色海啸”冲击数据中心 ",
+    "link": "https://www.huxiu.com/article/4903971.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：Irene Zhou 1901年1月10日，得州（Texas）东南部一个叫纺锤顶（Spindletop）的小山丘上，一口油井突然喷出了高达五十多米的黑色油柱。原油喷了整整九天，才被人控制住。 这一喷，把得州从一个放牛的边疆州变成了石油帝国，也开启了美国的石油世纪。 一百多年后，得州又迎来了一场淘金热。这一次，人们挖的不是石油，而是算力。 在得州西部的小城阿比林（Abilene），曾经的牧场和棉花地上，一栋栋没有窗户的巨型厂房拔地而起。这里是OpenAI、甲骨文和软银联手打造的“星际之门”（Stargate）的第一站。厂房里没有工人忙碌的身影，只有成千上万块GPU昼夜不停地运转，它们训练出来的AI，此刻也许正在回答你手机上的提问。 为什么偏偏是得州？ 因为这里几乎集齐了建数据中心的所有条件：地多，广袤的平原上有的是便宜土地；电多，西部的风、南部的阳光、地下的天然气，让得州成为全美发电量最大的州；规矩少，没有州个人所得税，审批快，政府对企业热情欢迎。 更特别的是，得州拥有一张几乎独立于美国其他地区的电网，很大程度上不受联邦监管，接电、扩容都由州里自己说了算。 于是，资本像当年追逐石油一样涌向这里。全美规划中的数据中心产能，大约四分之一落在得州。 但风光的背后，不满正在积累。 电费账单越来越贵，水井的水位在下降，深夜机房的轰鸣让附近居民睡不着觉。",
     "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -253,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-binance-cfo-is-leaving-to-8216-pursue-a-new-venture-8217-aft-1794072247000",
-    "title": "Binance CFO is leaving to &#8216;pursue a new venture&#8217; after $6.3 billion hack",
-    "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-    "publishedAt": "2026-11-07",
+    "id": "news-sequoia-partners-reportedly-blindsided-when-roelof-botha-joi-1794167490000",
+    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+    "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+    "publishedAt": "2026-11-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -292,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794137168000",
-    "title": " 明档现炒，迎来跨界巨头 ",
-    "link": "https://www.huxiu.com/article/4903938.html?f=rss",
-    "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 巨头跨界 四股势力入局“现炒” 现炒这阵风，吹到了跨界巨头的头上。 2026年10月，全家便利店推出第六代门店，增设“热气小灶”，经营热食现炒。 店内设置面吧、饭吧和小吃吧，售卖葱烧大排饭等盖饭，汤面、拌面等面食，炸薯条、炸鸡等小吃，采用明厨明灶形式，让顾客现场直观看到产品制作环节。 无独有偶，公开信息显示，7-Eleven中国宣布，将在2027年前于所有门店开设“鲜制小厨房”，提供面食、水饺、现制点单等服务。7-Eleven早已不局限于经典关东煮、快餐盒饭等。 不止便利店，商超零售业加码“现炒”。前不久，京东旗下“未来餐饮体验中心”在北京长楹天街购物中心开业，门店面积超200㎡，该店整合“七鲜小厨”和“七鲜咖啡”两个业态，引入多个机器人进行餐饮制作，出餐时间缩短至5分钟。 其实早在2016年，盒马在超市内部加装“餐饮店”，将“超市+餐饮”新零售模式推到全国。 这种模式也让不少商超抄起了作业。永辉超市铺设现炒摊位，卖起小吃、米线等，还开设社区食堂；“胖改”后的物美超市，热食餐饮业态更是占据了超市的主要位置。 瞄准新鲜现做生意的，还有干货零食品牌。薛记炒货此前在北京朝阳合生汇开出全新店型，主打“现烤烘焙+现磨坚果酱+手打奶昔”，将操作区前置，让顾客看得到制作全过程，用“明厨明灶”重构门店。 几乎同期，粒上皇“现制零食商店”落地广州天",
+    "id": "news-34-1794154146000",
+    "title": " 从“防渗工程”到“城市矿山”：高能时代34年转型发展启示 ",
+    "link": "https://www.huxiu.com/article/4903970.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 2026年10月29日，A股上市公司高能环境正式将证券简称变更为“高能时代”。 这次更名背后，是一家环保企业经营重心的变化。 根据公司公告，2026年上半年，资源循环利用业务收入占主营业务收入的87.55%，上市之初的核心业务环保工程收入占比则降至3.79%。此前，公司所属行业分类已经从“生态保护和环境治理业”调整为“制造业—废弃资源综合利用业”。 高能时代的前身，是1992年由中国科学院高能物理研究所投资成立的一家防渗工程处。34年后，这家企业的核心业务已经转向工业固废和危废中的金属资源回收。 转型带来的变化十分显著。2019年至2024年，公司营业收入增长近两倍，归母净利润却只增长约17%；2025年，营收增幅仅为1.60%，归母净利润却增长了73.94%。2026年前三季度，公司归母净利润进一步达到12.03亿元。 从环保工程到资源化制造，高能时代经历了怎样的发展过程？持续多年的资本投入和利润压力，最终如何转化为经营收益？对于正在寻找新增长方向的环保企业，这个案例又有哪些值得研究的经验与教训？ 从防渗工程到金属资源化 34年的业务转型 高能时代的历史，可以追溯到中国环保产业发展的早期。 1992年8月，中国科学院高能物理研究所投资成立北京高能垫衬工程处，主要承接垃圾填埋场防渗衬垫工程。 当时国内生活垃圾卫生填埋设施建设刚",
     "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
@@ -331,17 +332,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-8217-s-new-basic-kindle-proves-you-don-8217-t-need-al-1794071880000",
-    "title": "Amazon&#8217;s new basic Kindle proves you don&#8217;t need all the bells and whistles",
-    "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-    "publishedAt": "2026-11-07",
+    "id": "news-snl-has-a-new-impression-of-elon-musk-the-worst-thing-south--1794160804000",
+    "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+    "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+    "summary": "SNL seems to have its knives out for tech executives.",
+    "publishedAt": "2026-11-08",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -367,19 +367,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794136240000",
-    "title": " 梁文锋攒了一个老乡局 ",
-    "link": "https://www.huxiu.com/article/4903903.html?f=rss",
-    "summary": "本文来自微信公众号： 投中网 ，作者：韦香惠，编辑：刘燕秋，题图来自：视觉中国 1990年代的广东，工厂在招人，生意在冒头。年轻人只要肯闯荡，便能赚到第一桶金。民营经济蓬勃发展，许多人相信，财富比文凭更能改变命运。 但广东湛江吴川的一位小学老师，却有自己的坚持。尽管经常有家长找上门，同他讲&ldquo;读书没什么用处&rdquo;，他依然重视教育，坚持让儿子好好求学。儿子也争气，17岁那年考入浙江大学。 此后二十多年，男孩在杭州读完本科和硕士，研究机器视觉，与同学尝试将机器学习用于金融交易，又和浙大校友一起创办量化投资机构。2015年，幻方科技在杭州成立。2023年，DeepSeek同样诞生于杭州。那个广东男孩，声名鹊起。 和梁文锋的老家广东一样，DeepSeek所在的浙江民营经济活跃，经商传统由来已久。 早在明清时期，龙游商帮、宁波帮、绍兴商帮便已活跃于各地。到了近代，宁波商人沿着水路进入上海，经营钱庄、航运和贸易。上海滩上曾有&ldquo;无宁不成市&rdquo;的说法。改革开放以后，温州商人走南闯北，义乌的小商品销往全球，杭州则逐渐成为互联网和科技创业的重镇。 做生意终究离不开人。前辈提携后辈，后辈有了出息，也不能忘旧日情分。生意往来之间，关系和信任慢慢积累，许多事情才有了商量的余地。 2026年，当梁文锋首次向外部资本打开大门。一批浙江资本，很快便集结在他的身后。一家颇具技",
-    "publishedAt": "2026-11-08",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1114,4 +1101,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-08T12:41:22.285Z';
+export const dataFetchedAt = '2026-11-08T21:38:42.274Z';
