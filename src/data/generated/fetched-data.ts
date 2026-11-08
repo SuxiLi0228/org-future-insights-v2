@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according--1794086228000",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "id": "news-after-the-midterms-things-are-looking-rocky-for-elon-musk-an-1794089242000",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -54,24 +54,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794074104000",
-    "title": " 德国为什么就成了欧洲零售的垫底王？ ",
-    "link": "https://www.huxiu.com/article/4903867.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月6日，欧盟统计局公布了9月的欧洲零售数据。 德国排在最后。9月德国零售量环比下降2%，同比下降2.4%，两项跌幅都是已公布数据的成员国中最大的。同一个月，欧元区零售量同比还增长了0.4%。 榜单的另一头，环比涨幅最大的是卢森堡，增长5.3%。 两个数字之间，只隔着一条国境线。 一边是全欧最差，一边是全欧最好。今年3月起，德国海关在东部边境多了一项不太常见的检查任务；卢森堡的一些加油站前，也开始排起长队。 把德国统计局今年每个月的零售数据摊开，还能看到一处更奇怪的地方：德国零售几次大起大落，日子都踩得很准。 德国人到底是不买东西了，还是把钱花到了别处？ 一、德国零售的曲线，跟着加油站走 德国联邦统计局的零售数据里，加油站单独列为一项。今年这一项波动太大，已经能左右整个零售的走势。 3月中东战事爆发，油价上涨，德国加油站的实际销量当月环比下降2.7%，4月又下降5.2%。 5月1日，德国开始实行为期两个月的燃油折扣。当月加油站实际销量环比回升3.5%，整个零售业实际销量环比增长1.2%。 6月30日折扣到期。7月，加油站实际销量环比下降9.1%，整个零售业环比下降3.2%，是今年最大的单月跌幅。 8月零售反弹1.2%。9月再跌2%，加油站环比又降了3.4%。 10月1日，德国再次下调燃油能源税。 今年德国零售的几次大",
-    "publishedAt": "2026-11-07",
+    "id": "news-iclr2027-1794111118000",
+    "title": " ICLR2027首轮评审，槽点有点多 ",
+    "link": "https://www.huxiu.com/article/4903886.html?f=rss",
+    "summary": "本文来自微信公众号： 机器之心 ，作者：关注ICLR的，原文标题：《ICLR 2027首轮评审，槽点有点多》 这几天，机器学习顶会ICLR 2027的首轮评审意见陆续公开。 对论文作者来说，这通常是一个颇为紧张的时刻。几个月甚至一两年的研究工作，终于要接受同行检验。审稿人会仔细检查方法、实验和理论推导，指出研究中真正存在的问题。 但今年，一些研究者打开OpenReview后，看到的评审意见却让人有些哭笑不得。 ICLR 2027的同行评审，一时间成了AI圈的一场大型吐槽现场。 有人让作者解释标准差 有人把AI提示词直接贴了上来 先来看加州大学伯克利分校的Hanchen Li。 他发帖称，自己收到了一份ICLR评审意见，对方要求他们解释什么是「standard deviation」（标准差）。 他还开玩笑说，这下仿佛又回到了高中课堂。 原帖没有展示完整的论文和评审上下文，无法判断审稿人究竟是希望作者补充统计定义，还是对论文中的具体用法存在疑问。 但这条帖子还是迅速引发了讨论。 另一位研究者Ravid Shwartz Ziv展示的情况，则更加有喜剧效果。他贴出了三位审稿人的意见。 第一位写道：「The paper is well-written and addresses an important problem.However,the authors should consider ",
+    "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794043992000",
-    "title": "当我们终于开始认真谈论友情",
-    "link": "https://www.tmtpost.com/8197164.html",
-    "summary": "友情是一种如此普遍，却又长期缺少严肃审视的亲密关系。相比亲情和爱情，它没有明确的契约与规则，也因此拥有更多开放、复杂甚至矛盾的面向；它亦没有约定俗成的社会角色要求，因此可以回归相对纯粹的个体与个体的关系，去探讨一个人与自我和外部世界的关系。",
-    "publishedAt": "2026-11-07",
+    "id": "news-85-1794104880000",
+    "title": "中国白酒出口韩国暴涨85%，谁在买？",
+    "link": "https://www.tmtpost.com/8197334.html",
+    "summary": "为什么韩国人会兑着喝？",
+    "publishedAt": "2026-11-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-parents-want-safer-phones-for-kids-these-companies-are-answe-1794078000000",
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+    "id": "news-megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according--1794086228000",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -133,11 +134,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2026-1794071583000",
-    "title": " 2026年，黄金为什么没当好避险资产？ ",
-    "link": "https://www.huxiu.com/article/4903866.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 所谓乱世买黄金。 2022年俄乌冲突爆发后，金价一度在两周内冲上2000美元。 这句话在今年似乎不灵了。 毫无疑问，2026年是一个战火不断的年份。2月底，美以伊冲突爆发，霍尔木兹海峡航运受阻，国际油价一度冲上119美元/桶。到了11月，海峡里的袭船事件仍时有发生。 1月29日，现货黄金创下5595美元/盎司的历史高点，此后一路走低，10月30日跌破4000美元，11月初盘中最低探到3874美元。中信证券统计，金价年内最大跌幅达到28.3%。 有美国财经媒体总结，今年大部分时间里，黄金和比特币是市场上表现最差的两类资产。 本周金价反弹了一把。美国中期选举后美元走弱，金价单日涨超3.5%，一度回到4147美元。随后一份强劲的非农数据，又让它退回4050美元附近。 一个打了大半年仗的年份，为什么避险资产跌掉近三成？ 一条反向的传导链 过去几十年的逻辑是，冲突爆发，资金避险，金价上涨。今年地缘冲突的传导链变反了。 第一环：打仗推高油价。这场冲突的核心在霍尔木兹海峡。这条海峡最窄处只有几十公里，全球约五分之一的石油海运要从这里经过。航运一受阻，油轮出不来，市场上的油就少了，国际油价一度冲上119美元/桶。 第二环：油价推高通胀。石油是几乎所有商品的上游。卡车运货要烧柴油，飞机要烧航油，化肥、塑料、化纤都从油气里来。油价一涨，运",
-    "publishedAt": "2026-11-07",
+    "id": "news--1794109760000",
+    "title": " 不跑步的人也被跑鞋品牌盯上了 ",
+    "link": "https://www.huxiu.com/article/4903884.html?f=rss",
+    "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜虎嗅拍摄 没有大模型参数，没有人形机器人展演。在进博会消费品展区的体育户外专区，吸引最多人围观的，是一个人在做引体向上。 11月6日进博会现场，游泳世界冠军汪顺来到lululemon展台，参与品牌带来的&ldquo;一起向上&rdquo;引体挑战。几步之外，首次参加进博会的始祖鸟将模拟的山地地貌搬进展馆，展示品牌从攀岩装备到高性能硬壳的产品演进。此外还有耐克、阿迪达斯、亚瑟士、lululemon&hellip;&hellip;运动品牌连片铺开，各自拿出核心产品和品牌体验，争夺参展者的注意力。 亚瑟士旗舰跑鞋 GEL-NIMBUS29 而经历日均上万步的探馆，我发现，体育与户外展区不只装潢精致、主题鲜明，还在鲜明地争夺两个市场：运动品牌不仅一头扎进高尔夫、网球、路跑等细分赛道&ldquo;死磕&rdquo;专业，也钻进了通勤、穿搭乃至日常社交的每一处生活缝隙。 这种变化背后，是一个正在扩大的市场，也是一场越来越难打的战争。国家体育总局发布的《中国户外运动产业发展报告（2025&mdash;2026）》显示，截至&ldquo;十四五&rdquo;末，我国户外运动参与人数已超过5亿，相关产业总规模约3.17万亿元。但市场的热度并没有平均地落在每一家品牌身上。刚刚过去的第三季度，安踏主品牌和FILA的零售流水均同比下滑，旗下包括迪桑特",
+    "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -146,11 +147,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794043990000",
-    "title": "存储风暴压顶，小众手机「在劫难逃」",
-    "link": "https://www.tmtpost.com/8197119.html",
-    "summary": "成长、高光、转折、衰落…",
-    "publishedAt": "2026-11-07",
+    "id": "news-250-1794104580000",
+    "title": "年产250亿双的“国际袜都”：袜子、面子和里子",
+    "link": "https://www.tmtpost.com/8197376.html",
+    "summary": "全国一动，诸暨先动；全国不动，诸暨也蠢蠢欲动。",
+    "publishedAt": "2026-11-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -172,10 +173,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-binance-cfo-is-leaving-to-8216-pursue-a-new-venture-8217-aft-1794072247000",
-    "title": "Binance CFO is leaving to &#8216;pursue a new venture&#8217; after $6.3 billion hack",
-    "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+    "id": "news-parents-want-safer-phones-for-kids-these-companies-are-answe-1794078000000",
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
@@ -212,11 +213,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794067971000",
-    "title": " 画地为牢，也火了 ",
-    "link": "https://www.huxiu.com/article/4903865.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 这几天，大家都在”画地为牢“。好吧，新现象就观察一下，写写。周末愉快，朋友们。 “起床了，厉娜。”“下班了，厉娜。”“刻舟求剑，厉娜。”杨幂在直播里捂着嘴笑，劝人不要画地为牢；沈月唱着唱着自己笑场，也冒出一句“我画地为牢啊”；宋亚轩的粉丝把它改成了告白。 一个两千多年的成语，在2026年的秋冬之际，忽然换了一身衣服，满大街地走秀。人与人之间，即便亲密，也不相互理解，这是一种普遍的痛点，甚至是一个痛圈…… 芒果TV的一档综艺《后会友期》，10月22日开播，据说因“画地为牢”的出圈，让芒果的股价都涨很多。 这个节目组找了四对走散多年的旧友，让他们坐上一趟高原列车，在西藏走18天，把当年没说清的话摊开来说，说得通就接着同行，说不通就体面下车。这不就是友情版的《再见爱人》嘛。 海拔四千米，一间悬崖边的小屋。许飞哭着说，“我是被宣判的人，我能去哪儿啊，我画地为牢，厉娜”。她还说，这一刻她等了15年。几乎在每一句话的末尾，她都要喊一声“厉娜”，像在信的末尾一遍一遍地落款。 但厉娜似乎没有接住。她回到房间，拿出手机问AI，画地为牢是什么意思。问完，点了一份麦当劳。 画地为牢，最早的出处在司马迁的《报任安书》。 那封信写在他受了宫刑之后。他说，“士有画地为牢，势不可入”。古时候刑律宽，在地上画个圈就算牢房，一个有节气的人，哪怕牢房只是地上的一道线，也",
-    "publishedAt": "2026-11-07",
+    "id": "news-ai-1794106800000",
+    "title": " 马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑AI 经济 ",
+    "link": "https://www.huxiu.com/article/4903879.html?f=rss",
+    "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济》 在第33届巴伦投资大会上，巴伦资本创始人罗恩·巴伦与埃隆·马斯克进行了一场约一小时的深度对谈。作为特斯拉和SpaceX长期的机构投资者，巴伦的提问主要聚焦于具体业务的工程进展、资本开支逻辑与中长期商业回报。 整场对话并未停留在算法模型的概念探讨上，而是将视角直接下沉到支撑整个人工智能产业运转的物理底层： 1.制造效率与研发周期：马斯克分析了传统晶圆制造中机台等待与内部转运的工时占比，并介绍了特斯拉在得州实验室中，试图通过打通逻辑、存储与封装环节来提升流片迭代速度的尝试； 2.算力基建与工程交付：针对行业内普遍出现的电网配额不足与项目延期现象，马斯克结合孟菲斯计算集群的建设过程，拆解了自备电厂与一线工程执行力对缩短交付周期的实际影响； 3.能源上限与太空算力：考虑到地面电网扩容速度与AI算力功耗增长之间的客观矛盾，对话重点推演了依托星舰大幅降低入轨成本后，利用近地轨道无衰减的太阳能部署分布式在轨数据中心的技术路径； 4.具身智能与产出模型：对话进一步从劳动力基数与有效工时的数学推导出发，测算了人形机器人对实体经济总产出的替代规模，并探讨了物质极大充沛阶段对社会分配与传统货币体系的潜在影响。 对于关注半导体制造、算力基础设施、空天产业及人工",
+    "publishedAt": "2026-11-08",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -226,11 +227,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794043986000",
-    "title": "当芯片抢着上太空，半导体下一轮增量有了？",
-    "link": "https://www.tmtpost.com/8197078.html",
-    "summary": "巨头争建太空机房，算力竞赛再度提速。",
-    "publishedAt": "2026-11-07",
+    "id": "news-8-1794104408000",
+    "title": "实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利",
+    "link": "https://www.tmtpost.com/8197382.html",
+    "summary": "“分手费”8.69亿元，A股又现“天价离婚”。",
+    "publishedAt": "2026-11-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -253,17 +254,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-8217-s-new-basic-kindle-proves-you-don-8217-t-need-al-1794071880000",
-    "title": "Amazon&#8217;s new basic Kindle proves you don&#8217;t need all the bells and whistles",
-    "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+    "id": "news-binance-cfo-is-leaving-to-8216-pursue-a-new-venture-8217-aft-1794072247000",
+    "title": "Binance CFO is leaving to &#8216;pursue a new venture&#8217; after $6.3 billion hack",
+    "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -293,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794043965000",
-    "title": "风口浪尖的数据中心，开始放低姿态",
-    "link": "https://www.tmtpost.com/8197100.html",
-    "summary": "OpenAI公布新社区承诺。",
-    "publishedAt": "2026-11-07",
+    "id": "news--1794106259000",
+    "title": " 从互联网裸辞后去云南旅居三年后，她想回去上班了 ",
+    "link": "https://www.huxiu.com/article/4903447.html?f=rss",
+    "summary": "本文来自微信公众号： ELLEMEN睿士 ，作者：唐风，编辑：Sebastian，题图来自：视觉中国 云南，许多人心中&ldquo;诗和远方&rdquo;的代表。 据官方数据，2025年旅居云南的人数达551.24万，同比增长41.4%；平均旅居时长83天，较上年增加3天。&ldquo;83天&rdquo;意味着相当一部分人已经在过&ldquo;旅居&rdquo;而非&ldquo;旅游&rdquo;的生活。 中年中产正在成为这支队伍里不容忽视的一部分。据报道，旅居云南的人群中，60岁以下占比超过80%&mdash;&mdash;他们有积蓄、有职场履历，有人找到了想要的生活，也有人卡在经济压力和自律难题里；有人把它当成一笔算得过来的投资，也有人发现松弛的代价是工作不好找。 云南提供的不是答案，而是一个重新提问的地方。 中产的云南旅居梦 去云南旅居，是舒遥的愿望，但她没想到会一下待了三年。 舒遥今年36岁，2012年从一所重点大学毕业之后，一直在广州工作，做过文案策划、品牌营销，后进入某大厂做市场，做到了中层管理。 企业里的中层，往往是最耗费心力的，一边要带团队，统筹多个项目，一边要上传下达，与多个部门沟通协调。公司占据了整个大厦从18楼到36楼的空间，最忙的时候，除了中午和晚上吃饭，她抱着笔记本电脑，一层一层地辗转开会。担心影响同事休息，凌晨偷偷上线改PPT，发现在线文档里所有人的头",
+    "publishedAt": "2026-11-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1794104395000",
+    "title": "AI泡沫监测·之二：第三个定价器上牌桌",
+    "link": "https://www.tmtpost.com/8197365.html",
+    "summary": "四张考卷对账：没有一家说放缓，但融资结构先说了话。11月5日纳指暴跌5.52%，导火索是选票——监管不从华盛顿下来，从县政府上来。股票按故事定价，债券按到期日定价，选票按任期定价。台账登记，读数留给下期。",
+    "publishedAt": "2026-11-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -319,16 +332,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-1794027714000",
-    "title": "Sequoia shutting down its Scouts program marks the end of an era",
-    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "id": "news-amazon-8217-s-new-basic-kindle-proves-you-don-8217-t-need-al-1794071880000",
+    "title": "Amazon&#8217;s new basic Kindle proves you don&#8217;t need all the bells and whistles",
+    "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
     "publishedAt": "2026-11-07",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -358,11 +372,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794043947000",
-    "title": "AI面试逼疯打工人",
-    "link": "https://www.tmtpost.com/8197213.html",
-    "summary": "企业用AI筛人，求职者用AI练习。",
-    "publishedAt": "2026-11-07",
+    "id": "news--1794105816000",
+    "title": " 人生迷茫，怎么办？ ",
+    "link": "https://www.huxiu.com/article/4903880.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《早看到这篇文章也不至于那么迷茫》，题图来自：视觉中国 在星球和公号后台，经常会有读者，问到我很类似的问题。 有人说，毕业三年，换了两三份工作，每一份都做得不算差，但还是不知道自己到底想要什么。 有读者想转行，又怕转错；想考研，又怕读完更迷茫，还是不知道该做什么。 还有人说，自己每天都很忙，也很累，但夜里躺下来，偶尔会突然冒出一个念头，就是这样下去，几年之后的我，会是什么样子？ 这些问题，表述各不相同，但底下压着的，其实是同一种感受： 迷茫 。 说来惭愧，前些年碰到这类问题，我给的建议，大多很&ldquo;标准&rdquo;，那就是多想想自己真正热爱什么，找到它，然后坚持下去。 到后来，我越来越不敢这么说了。因为我发现，这个建议听起来很对，但常常让人更迷茫。 一个本来就不知道答案的人，还被要求，再去想一个更大的问题。 于是他想啊想，想啊想，越想越乱，最后得出结论，哦那大概是我还不够了解自己。 但真的是这样吗？ 我现在的看法是，很多时候，我们迷茫，并非因为想得不够清楚，而是因为，我们是把一个需要&ldquo;做&rdquo;出来的问题，当成了一个可以&ldquo;想&rdquo;出来的问题。 如果能早一点明白这件事一点，有些弯路，其实不必绕得那么辛苦。 迷茫为什么最消耗人？ 我想先说说，我们的迷茫",
+    "publishedAt": "2026-11-08",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-2026-1794104384000",
+    "title": "2026年，黄金为什么没当好避险资产？",
+    "link": "https://www.tmtpost.com/8197401.html",
+    "summary": "黄金很难对冲一场战争的直接冲击。它更擅长对冲的，是战争结束以后，各国为它印出来的那些钱。",
+    "publishedAt": "2026-11-08",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -373,384 +400,31 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2611.08487v1",
-    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-    "authors": [
-      "Jonathan Kozaczuk",
-      "Zheng Dong",
-      "Noyan Evirgen",
-      "Keivan Majidi",
-      "Eddie K. H. Ng",
-      "Chris Porter",
-      "Qi Zhao",
-      "Jia Geng",
-      "Changmao Li",
-      "Brandon R. Feng"
-    ],
-    "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery a",
-    "link": "http://arxiv.org/abs/2611.08487v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08483v1",
-    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-    "authors": [
-      "Qile Jiang",
-      "George Em Karniadakis"
-    ],
-    "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decoding to text, and share information by passing KV caches. Each swarm studies the problem from a different angle. A novelty filter keeps the most distinct agent ideas by directly measuring the distances between the agents' hidden state vectors. Crossover of ideas happens naturally in latent space, as ",
-    "link": "http://arxiv.org/abs/2611.08483v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "cs.NE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08478v1",
-    "title": "Scientist World: Grow a Research World for AI-Scientists",
-    "authors": [
-      "Taiming Lu",
-      "Sachin Konan",
-      "Zhuang Liu"
-    ],
-    "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the environment is evaluated against what the human authors achieved. We release the first 1,000 verified environments. With the world as an evaluation, we found that frontier AI-Scientists can already surpass the human researchers 74% of the time. As a record of how AI does science, it contains 6,400 ",
-    "link": "http://arxiv.org/abs/2611.08478v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08472v1",
-    "title": "XStack: A Benchmark for ML Repo Migration",
-    "authors": [
-      "Linrong Cai",
-      "Taiming Lu",
-      "Haozhe Chen",
-      "Zhuang Liu"
-    ],
-    "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and challenging. We introduce XStack, a benchmark that evaluates agents on migrating ML repositories between these two ecosystems. Each agent receives a PyTorch repository and a clean TPU machine and must deliver a JAX repository. Its output passes if it meets our grading criteria, based on the source r",
-    "link": "http://arxiv.org/abs/2611.08472v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08469v1",
-    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-    "authors": [
-      "Linqian Wu",
-      "Diaoxuan He"
-    ],
-    "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integrated information $\\varphi$ of integrated information theory - in stochastic networks of four and five units with known ground truth. Behavior can be silent: a recurrent and a feed-forward network with identical input-output laws at their response delay carry 0.28 and 0 bits, yet internal recordings s",
-    "link": "http://arxiv.org/abs/2611.08469v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI",
-      "q-bio.NC"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08465v1",
-    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-    "authors": [
-      "Celeste De Schamphelaere",
-      "Juan J. Vazquez",
-      "Ari Spiesberger",
-      "Tomáš Gavenčiak",
-      "Gavin Leech",
-      "Euan Ong",
-      "Jiahai Feng"
-    ],
-    "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the activations of the text generated by the MAEM. This label-free RL objective helps to scale MAEMs on diverse sources of residual stream directions. Empirically, we find the resultant metamodel produces informative exemplars: a Qwen3.6-27B MAEM inverts held-out activations better than corpus search or",
-    "link": "http://arxiv.org/abs/2611.08465v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08457v1",
-    "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
-    "authors": [
-      "Yi Feng",
-      "Andrea Paudice"
-    ],
-    "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in practice. In this paper, we study the AT dynamics of GD with large constant step sizes. We first study GD in adversarial linear logistic regression, focusing on two aspects: where the model parameters converge (implicit bias) and how quickly the losses decrease (optimization). We then turn to neural networks training and study how the sharpness of losses evolve during AT. Our results advance the understanding of the behaviors of GD with ",
-    "link": "http://arxiv.org/abs/2611.08457v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "math.OC"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08453v1",
-    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-    "authors": [
-      "Zeyu Leo Liu",
-      "Yang Li",
-      "Bo Pang",
-      "Emre Can Acikgoz",
-      "Xuan-Phi Nguyen",
-      "Anurag Koul",
-      "Srijan Bansal",
-      "Erik Nijkamp",
-      "Shafiq Joty",
-      "Semih Yavuz"
-    ],
-    "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty, student and teacher size, domain, and optimization choices, measuring held-out accuracy against training FLOPs. With an external post-trained teacher, OPD generally loses to GRPO in accuracy per training FLOP at matched settings, even when the teacher is further trained with GRPO, and often suffers response-length inflation. Yet a different teacher changes the picture: when the teacher is the student's own GRPO checkpoint, OPD recovers that ",
-    "link": "http://arxiv.org/abs/2611.08453v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08452v1",
-    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-    "authors": [
-      "Yubo Wang",
-      "Rui Meng",
-      "Jaehyun Nam",
-      "Tomas Pfister",
-      "Jinsung Yoon"
-    ],
-    "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction. We define a standardized artifact design comprising a refined codebase, environment setup, experiment launchers, and a reproduction guide, and introduce ReproBridge, an agent workflow for constructing these refined reproducible artifacts. ReproBridge-Bench provides 1,029 tasks from 387 experiments across 36 papers, anchored by five human-verified reference scores per task. Agents ",
-    "link": "http://arxiv.org/abs/2611.08452v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08445v1",
-    "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
-    "authors": [
-      "Angel Daruna",
-      "Michael Cogswell",
-      "Tixiao Shan",
-      "Yi Yao",
-      "Han-Pang Chiu",
-      "Ajay Divakaran"
-    ],
-    "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation with state-dependent arguments whose feasible values change over time. We capture both with a hidden Markov model whose latent state is the active regime and whose regime-conditioned action law is defined on a feasibility-masked tree of executable actions. The same likelihood forms the next-action distribution and updates the regime belief once the action is seen, and a partially observed prefix contributes its resolved local factors. Estimation separates into convex logistic fits that Baum-Wel",
-    "link": "http://arxiv.org/abs/2611.08445v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08439v1",
-    "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
-    "authors": [
-      "Vladimir Beskorovainyi"
-    ],
-    "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in several surface forms. Holding questions fixed and varying only how eighteen routing labels are worded, we evaluate ten label vocabularies, produced by three separate processes and checked for overlap with the training data, with five candidates per question and, for eight of them, also with eighteen. On held-out vocabularies made of ordinary or borrowed words (English-derived jargon, office slang, department names), the augmented release is m",
-    "link": "http://arxiv.org/abs/2611.08439v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08438v1",
-    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-    "authors": [
-      "Fazl Barez",
-      "Tung-Yu Wu",
-      "Hunar Batra",
-      "Gabriele Dominici",
-      "Florent Draye",
-      "Yanai Elazar",
-      "Damiano Fornasiere",
-      "Antía García",
-      "Abir Harrasse",
-      "Riley Harris",
-      "Sara Hooker",
-      "Michael Lan",
-      "Belinda Z. Li",
-      "Aaron Maiwald",
-      "Narmeen Fatimah Oozeer",
-      "Naomi Saphra",
-      "Or David Shafran",
-      "Adi Simhi",
-      "Robert Trager",
-      "Shriyash Kaustubh Upadhyay",
-      "Ziyu Yao",
-      "Yu Zhao",
-      "Shay B. Cohen",
-      "Mor Geva",
-      "Yoshua Bengio",
-      "Stella Biderman",
-      "Hassan Sajjad"
-    ],
-    "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding these systems by studying their internal representations and computations, with the aim of evaluating, predicting, and controlling behaviour. We survey mechanistic interpretability for AI safety in order to answer the question: Does understanding how models work actually make them safer? We place mech",
-    "link": "http://arxiv.org/abs/2611.08438v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08433v1",
-    "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-    "authors": [
-      "Donghua Zhang",
-      "Zizheng Wang",
-      "Ze Dong",
-      "Yiding Feng",
-      "Siyu Qian"
-    ],
-    "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety fact the answer depends on. We present MedGraph, a graph memory built for these three cases. Construction extracts dated facts from each session, attributes each fact to the person it describes, and links medication, diagnosis, and measurement records into chains that keep earlier states. Retrieval ranks the patient's chains as units, reads each chain at the time the question asks about, and adds the original dialogue text; a patient pro",
-    "link": "http://arxiv.org/abs/2611.08433v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08428v1",
-    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-    "authors": [
-      "Julian Kunkel",
-      "Ali Doosthosseini"
-    ],
-    "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Meta access can turn a chat client from many screens into one entry point for finding, navigating, organising, and operating it, while raising risks around grounding, privacy, prompt injection, and trust. General-purpose agentic harnesses are runtimes; because they can change their own settings, meta ",
-    "link": "http://arxiv.org/abs/2611.08428v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08425v1",
-    "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-    "authors": [
-      "Michal P. Podolinsky",
-      "Yunhao Yang",
-      "Daniel Little",
-      "Hong Lu",
-      "Rohan Siva",
-      "Olin Goudey",
-      "Neel P. Bhatt",
-      "Matthias Scheutz",
-      "Ufuk Topcu"
-    ],
-    "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough to run on the edge. Existing methods fail to fulfill these requirements. We present VLA-Tug, a lightweight probe over the latent layers of a VLA backbone that improves early failure detection and bounds the missed-detection and false-alarm rates, with minimal inference overhead. We show that supervising on the pre-failure segment of a trajectory increases early failure detection at matched false-positive rates by up to 30% over the stron",
-    "link": "http://arxiv.org/abs/2611.08425v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.RO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08421v1",
-    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
-    "authors": [
-      "Ilker Gurcan",
-      "Kadir Ustun",
-      "Ramazan Gokberk Cinbis"
-    ],
-    "summary": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form representation of the governing system. We formulate intrinsic Lie point-symmetry discovery as an operator-theoretic problem on sampled jet-space data. Admissible generators are identified from a sampled determining operator and separated from redundant, solution-dependent, and geometrically trivial directions. The framework combines prolongation, sequential subspace restrictions, and a fixed nonlinear dictionary linear in trainable coefficients. A rank-stabilization preflight test diagnoses systems whose represented intrinsic symmetry algebra does not stabilize under dictionary ",
-    "link": "http://arxiv.org/abs/2611.08421v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "math.DG",
-      "math.DS",
-      "math.GR",
-      "math.NA"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08420v1",
-    "title": "On the limitations of molecular representations",
-    "authors": [
-      "Acer Blake",
-      "Fergus Imrie",
-      "Charlotte M. Deane"
-    ],
-    "summary": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including clustering, dataset splitting, and virtual screening, yet their evaluation is often limited to downstream model performance on narrow benchmark tasks. We carried out a systematic investigation of the quality of molecular representations, finding that none of the state-of-the-art molecular embedding models capture graph structure, 3D shape, or ADMET endpoint similarity better than fingerprints or physicochemical descriptors. However, classical fingerprints also revealed their own material limitations. For example, we show that depending on the representation, between 225M and ",
-    "link": "http://arxiv.org/abs/2611.08420v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08417v1",
-    "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
-    "authors": [
-      "E. Kelly Buchanan",
-      "Crystal Zhou",
-      "Scott W. Linderman",
-      "Christopher Ré"
-    ],
-    "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests. We call the resulting accumulation of defects benchmark maintenance debt: a growing gap between benchmark scores and the capabilities they are intended to measure. We introduce a continuous-validation workflow for agentic benchmarks that combines community reports, task artifacts, agent traces, automated oracle checks, and human-gated repairs. We apply this workflow to Terminal-Bench 2.0, a benc",
-    "link": "http://arxiv.org/abs/2611.08417v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08414v1",
-    "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
-    "authors": [
-      "Chenruo Liu",
-      "Zihan Wang",
-      "Yijun Dong",
-      "Qi Lei"
-    ],
-    "summary": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the low-rank increment that LoRA optimizes remains unclear. Tracking the singular spectrum and subspaces of LoRA updates on mathematical reasoning tasks, we find that RL concentrates the spectrum at every learning rate, while SFT expands it at moderate learning rates; moreover, RL rotates the singular subspaces much faster than SFT at small learning rates. Interpolating between SFT and RL one ingredient at a time, we pinpoint group-mean baseline subtraction as the source of both contrasts. A quadratic multi-index model updated via LoRA unveils the underlying mechanism: group-me",
-    "link": "http://arxiv.org/abs/2611.08414v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2611.08412v1",
-    "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
-    "authors": [
-      "Yuanchuan Guo",
-      "Jiashun Jin",
-      "Zheng Tracy Ke",
-      "Bingcheng Sui"
-    ],
-    "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of matched case-control pairs; potential incompleteness of disclosure; and lack of ready-to-use features designed to capture signals of AI involvement in proofs. To address these challenges, we construct five cohorts comprising 8,281 papers by combining existing manuscripts with those we produced using generative AI. These cohorts span different levels of AI involvement and include matched pairs of papers addressing the same research problems. We then",
-    "link": "http://arxiv.org/abs/2611.08412v1",
-    "publishedAt": "2026-11-05",
-    "categories": [
-      "cs.AI",
-      "stat.AP"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
+  {
+    "id": "job-remoteok-1137701",
+    "title": "AI Developer",
+    "company": "Salvo Software",
+    "category": "pure_ai",
+    "responsibilities": [
+      "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions",
+      "With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Kubernetes",
+      "AWS"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "postedAt": "2026-11-07",
+    "isNew": true
+  },
   {
     "id": "job-remoteok-1137691",
     "title": "Feltsense AI Engineer",
@@ -1066,4 +740,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-07T21:23:39.930Z';
+export const dataFetchedAt = '2026-11-08T04:13:19.264Z';
