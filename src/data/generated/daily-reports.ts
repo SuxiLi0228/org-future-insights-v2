@@ -2,6 +2,137 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-10-auto",
+    "date": "2026-11-10",
+    "session": "auto",
+    "title": "2026-11-10 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-10-auto-1",
+        "emoji": "⚠️",
+        "title": "The backlash about data centers might really just be about electricity",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      },
+      {
+        "id": "sig-2026-11-10-auto-2",
+        "emoji": "⚠️",
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "detail": "来源: TechCrunch。The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+      },
+      {
+        "id": "sig-2026-11-10-auto-3",
+        "emoji": "💡",
+        "title": "Home health company settles EEOC allegations it abided by clients’ race-based preferences",
+        "summary": "Under a five-year consent decree, Mid-Michigan Home Health &amp; Hospice must pay $41K to a Black nursing assistant allegedly denied assignments given to White co-workers because of their race.",
+        "detail": "来源: HR Dive。Under a five-year consent decree, Mid-Michigan Home Health &amp; Hospice must pay $41K to a Black nursing assistant allegedly denied assignments given to White co-workers because of their race.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/mid-michigan-settles-eeoc-allegations-client-race/874137/"
+      },
+      {
+        "id": "sig-2026-11-10-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：On Agentic Manipulation Policies...",
+        "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a",
+        "detail": "作者: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji。Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We present AMP1, a reference harness that runs unchanged across single-arm, bimanual, and mobile manipulation. AMP1 achieves state-of-the-art results on the RoboLab-120 and CaP-Gym benchmarks, with no demonstrations or task-specific training. On RoboLab-120, AMP1 reaches an 85.6\\% success rate zero-shot, compared to 49.2\\% and 42.9\\% for leading VLA and W",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.09892v1"
+      },
+      {
+        "id": "sig-2026-11-10-auto-5",
+        "emoji": "💼",
+        "title": "Salvo Software 正在招募 AI Developer",
+        "summary": "岗位类型：纯 AI 岗。Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions",
+        "detail": "技能要求: Python, LLM, RAG, Kubernetes, AWS。Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Salvo Software"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Salvo Software",
+        "link": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-10-1",
+        "priority": "medium",
+        "action": "关注「The backlash about data centers might re」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-10-2",
+        "priority": "medium",
+        "action": "关注「Jensen Huang reportedly engaged a PR fir」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-10-3",
+        "priority": "low",
+        "action": "关注「Home health company settles EEOC allegat」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-10-4",
+        "priority": "medium",
+        "action": "关注「研究速递：On Agentic Manipulation Policies...」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-10-5",
+        "priority": "medium",
+        "action": "关注「Salvo Software 正在招募 AI Developer」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Salvo Software"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 66,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-10 生成，聚合了 30 条新闻、20 篇论文、16 个岗位。",
+    "fetchWindow": "2026-11-10 00:00 - 2026-11-10 23:59"
+  },
+  {
     "id": "report-2026-11-09-auto",
     "date": "2026-11-09",
     "session": "auto",

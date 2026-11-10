@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-empty-ai-climate-claims-and-an-nvidia-investiga-1794230100000",
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;",
+    "id": "news-the-backlash-about-data-centers-might-really-just-be-about-e-1794252933000",
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
     "publishedAt": "2026-11-09",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet-drops-the-new-music-app-bringing-back-the-fun-of-sharin-1794232800000",
-    "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-    "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-    "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+    "id": "news-jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of--1794266917000",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
     "publishedAt": "2026-11-09",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-choice-arrangements-bring-budget-predictability-to-your--1794218400000",
-    "title": "How CHOICE arrangements bring budget predictability to your organization",
-    "link": "https://www.hrdive.com/spons/how-choice-arrangements-bring-budget-predictability-to-your-organization/873632/",
-    "summary": "Learn how ICHRA can help employers control costs and offer employees greater health plan choice.",
+    "id": "news-home-health-company-settles-eeoc-allegations-it-abided-by-cl-1794259920000",
+    "title": "Home health company settles EEOC allegations it abided by clients’ race-based preferences",
+    "link": "https://www.hrdive.com/news/mid-michigan-settles-eeoc-allegations-client-race/874137/",
+    "summary": "Under a five-year consent decree, Mid-Michigan Home Health &amp; Hospice must pay $41K to a Black nursing assistant allegedly denied assignments given to White co-workers because of their race.",
     "publishedAt": "2026-11-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization"
+      "workforce"
     ]
   },
   {
@@ -54,11 +53,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794233564000",
-    "title": " 马斯克梦碎“赛博皮卡”，特斯拉豪赌未来 ",
-    "link": "https://www.huxiu.com/article/4904284.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：木俞，原文标题：《马斯克梦碎「赛博皮卡」，特斯拉豪赌未来》 特斯拉又一款重磅车型即将走向没落。 马斯克不久前在X上宣布，位于德克萨斯超级工厂的Cybertruck生产线将于明年年中左右逐步减产，把有限的精力和产能让渡给Cybercab。 与减产通知几乎同时到来的还有涨价。根据美国特斯拉官网，Cybertruck的入门和中配价格有所上调，起售价来到74990美元，涨幅最高为7.1%。 虽然马斯克没有直接给Cybertruck宣告「死刑」，但由此来看，这台纯电皮卡的优先级似乎在随着特斯拉战略转型被边缘化。 外界普遍认为，一方面是Cybertruck的销量没有达到「每年25万台」的预期，2023年11月30日交付至今仅70788台。 另一方面，根据Cox Automotive统计，美国纯电皮卡销量已经连续两年同比下跌，今年前9个月对比去年同期也有超51%的跌幅，Cybertruck也不例外。 更关键的是，复杂的生产工艺和高昂的制造成本，一度成为Cybertruck「难产」的主要原因。另外，在不少车主眼里，堪称「糟糕」的可靠性、交付节奏和质量控制，一定程度上消耗了受众群体的好感。 从一开始因为「砸玻璃」出圈，到如今为成就特斯拉Robotaxi的商业宏图让路，Cybertruck或许会被外界蒙上「失败」的标签。 难道这就是Cybertruck的结局了吗",
-    "publishedAt": "2026-11-09",
+    "id": "news--1794272321000",
+    "title": " 从万斯虚构历史到米勒转正，后特朗普时代的博弈已经开始 ",
+    "link": "https://www.huxiu.com/article/4904317.html?f=rss",
+    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 美国2026中期选举对共和党政客来说只能用shell shock来形容——一个源自一次世界大战的词，指士兵在战场上经历炮火轰炸、极端战争压力后产生的精神与心理创伤反应，表现为极度恐惧甚至是失能。 这也可以理解，因为选举结果对共和党来说构成了生死存亡级别的影响。 多年来，民主党有东西海岸的基本盘、共和党有南方的基本盘，总统胜选需要270个选举人票。两党基本盘都不到这个数，双方都要争取中西部的一些州。 可这次中期选举，共和党的南方基本盘直接崩了：北卡、佐治亚参议员输了约20点，德州参议员输12点，州长输7点。这可比2016年大选密歇根、宾州等过去民主党的北方“蓝墙”垮塌严重得多，那些州当时特朗普只是赢了不到1个百分点，24年赢不到3个点，中间20年拜登赢了。这是典型的摇摆州。 现在德州、佐治亚、北卡的结果，哪个共和党竞选参谋敢说是摇摆州，28年能摇回来？你见过州长、参议员都是对方大比例获胜的摇摆州吗？如果这些州28年不回来，尤其是德州整个共和党最大的选举人票基础不回来，共和党还有取胜的可能性吗？ 因此，即便特朗普再嘴硬宣称共和党败选是因为自己不在选票上，中期选举之后，共和党已经走入后特朗普时代。而我们也能看到共和党内博弈的迅速升温。 米勒转正：特朗普需要绝对忠诚 历史上中期选举惨败后，总统做出的最著名人事变动大概是200",
+    "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,11 +66,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-st-1794225446000",
-    "title": "*ST亿晶重整易主引爆五连板：中润光能拟入主，游资击鼓传花",
-    "link": "https://www.tmtpost.com/8198759.html",
-    "summary": "不过是又一场借题发挥的游资狂欢。",
-    "publishedAt": "2026-11-09",
+    "id": "news-edge-ai-daily-11-10-1794270751000",
+    "title": "Edge AI Daily 早报（11月10日）",
+    "link": "https://www.tmtpost.com/8198977.html",
+    "summary": "英伟达董事会就CEO黄仁勋被指成为外国情报行动目标启动独立调查，黄仁勋承认个人不忠并配合调查，股价三日累计下跌约13.6%、市值蒸发超7000亿美元，亚洲供应链同步重挫——SK海力士跌11.7%、台积电跌8.5%，市场重估关键人依赖与治理折价。",
+    "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -81,23 +80,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-innovating-with-ai-in-the-special-chemicals-industry-1794229200000",
-    "title": "Innovating with AI in the special chemicals industry",
-    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "id": "news-nancy-pelosi-s-replacement-is-ready-to-regulate-ai-1794243943000",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
     "publishedAt": "2026-11-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-1794232800000",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "id": "news-hotel-giant-wyndham-exposed-customer-data-after-app-security-1794265426000",
+    "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+    "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
     "publishedAt": "2026-11-09",
     "source": "TechCrunch",
     "tags": [
@@ -107,16 +105,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-want-more-influence-5-ways-to-become-a-better-business-commu-1794218400000",
-    "title": "Want more influence? 5 ways to become a better business communicator.",
-    "link": "https://www.hrdive.com/spons/want-more-influence-5-ways-to-become-a-better-business-communicator/832460/",
-    "summary": "As an HR leader, you already have a valuable view into the people side of the business, but how do you turn that insight into influence?",
+    "id": "news-lack-of-exact-diagnosis-didn-t-defeat-employee-s-ada-claim-1-1794259860000",
+    "title": "Lack of exact diagnosis didn’t defeat employee’s ADA claim, 10th Circuit says",
+    "link": "https://www.hrdive.com/news/lack-of-exact-diagnosis-didnt-defeat-employee-ada-claim/874175/",
+    "summary": "An employee&rsquo;s request for &ldquo;a few weeks&rdquo; of leave beyond the 12-week provision of the Family and Medical Leave Act also wasn&rsquo;t necessarily unreasonable, it noted.",
     "publishedAt": "2026-11-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -133,24 +132,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794232044000",
-    "title": " 魏牌要抢坦克的生意了吗？ ",
-    "link": "https://www.huxiu.com/article/4904280.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月9日，魏牌二代蓝山开启预售，起售价28.98万元。这台车最引人注意的地方在车尾：侧开尾门，外挂备胎。车头换成直瀑式镀铬格栅和一对圆形大灯，车身宽2050毫米、高1960毫米，整体是一只方方正正的盒子。 初代蓝山走的是另一条路线。它是一台线条圆润的大六座SUV，车长5156毫米，轴距3050毫米，主打城市家庭和智能座舱，对手是理想L8和问界M7。 二代蓝山保留了六座布局，硬件清单里却多出一串越野词汇：后桥差速锁、闭式双腔空气悬架、双向20度后轮转向和蟹行模式、雪地泥地沙地等7种驾驶模式，以及能在非铺装路面使用的全地形辅助驾驶。动力从初代的1.5T混动换成2.0T混动，发动机最大功率182千瓦，前后双电机分别是110千瓦和220千瓦。纯电续航有220公里和270公里两个版本，并升级到800V高压平台和6C快充。 把这份配置表拿给一个长城老车主看，他的第一反应多半会想到坦克。 长城过去的品牌分工相对清晰。哈弗覆盖更广泛的大众SUV市场，走量最大；魏牌负责家庭科技豪华，主力是蓝山和高山；坦克负责硬派越野和豪华越野，从坦克300一路排到坦克700。三个品牌按使用场景切开，哈弗管日常代步，魏牌管全家出行，坦克管山野和户外。 外挂备胎、差速锁、方正车身、空气悬架，长期以来都是坦克产品叙事里的核心符号。现在这些符号出现在一台魏牌身上。 ",
-    "publishedAt": "2026-11-09",
+    "id": "news-ipo-anthropic-1794271679000",
+    "title": " IPO前夜，Anthropic再亮两张“王牌” ",
+    "link": "https://www.huxiu.com/article/4904313.html?f=rss",
+    "summary": "本文来自微信公众号： 腾讯科技 ，作者：晓静，编辑：徐青阳，题图来自：视觉中国 在即将IPO的关键节点，Anthropic同时发布了两款新模型。 美国当地时间11月9日，Claude Fable 5.2和Claude Mythos 5.2正式亮相。两款模型采用相同的底层模型，Fable 5.2通过网络安全和生物学领域的安全限制面向普通用户开放，Mythos 5.2则主要向经过审核的网络安全和生命科学研究机构提供。 这次最值得关注的升级，是模型处理大型开放式任务的能力。从协调1000多个智能体完成数学证明的形式化验证，到从空文件夹开发一套操作系统，再到设计电子设备、制作游戏和控制实体机器人，Fable 5.2已经能够连续执行数小时甚至数天的复杂项目。 Anthropic称，新模型生成速度最高提升30%，标准价格降至每百万输入Token 8美元、每百万输出Token 40美元。 相比跑分，这次发布更有看头的是一系列实际演示。多个第三方体验者也给出了自己的测试结果，其中既有让人惊讶的作品，也暴露出模型在判断力和执行效率上的不足。 这次发布正值Anthropic筹备IPO之际。随着OpenAI、谷歌和Meta密集推出面向编程、推理及AI智能体的新模型，Anthropic需要进一步证明自己在高难度任务上的竞争力。 1000个智能体协作，30小时完成费马大定理形式化证明 这次发布最引人注目的案",
+    "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794224256000",
-    "title": "唐山工控集团投资者交流会落地上海，三大上市平台协同构筑产业发展新格局",
-    "link": "https://www.tmtpost.com/8197722.html",
-    "summary": "三家上市平台各据赛道，产业协同逻辑进一步清晰。",
-    "publishedAt": "2026-11-09",
+    "id": "news--1794270600000",
+    "title": "全球视野下的社会力量支持基础研究：从\"补位\"到\"共建\"",
+    "link": "https://www.tmtpost.com/8197977.html",
+    "summary": "社会力量不是基础研究资助的\"锦上添花\"，而是多元化投入格局中不可或缺的结构性支柱。",
+    "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -160,10 +160,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-climate-case-for-ai-has-not-been-made-1794218400000",
-    "title": "The climate case for AI has not been made",
-    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;",
+    "id": "news-the-download-empty-ai-climate-claims-and-an-nvidia-investiga-1794230100000",
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;",
     "publishedAt": "2026-11-09",
     "source": "MIT Technology Review",
     "tags": [
@@ -172,10 +172,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-musk-says-tesla-will-refund-some-cybertruck-deposits-defends-1794231808000",
-    "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-    "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-    "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+    "id": "news-a-short-seller-flagged-nvidia-ceo-8217-s-ties-to-a-suspected-1794264369000",
+    "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
     "publishedAt": "2026-11-09",
     "source": "TechCrunch",
     "tags": [
@@ -185,11 +185,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-employment-growth-hits-unexpected-high-after--1793991060000",
-    "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
-    "link": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including the impact of Grand Theft Auto VI&rsquo;s release and religious accommodation for artificial intelligence tool use.",
-    "publishedAt": "2026-11-06",
+    "id": "news-the-outcome-of-one-dei-related-case-involving-a-coca-cola-bo-1794259860000",
+    "title": "The outcome of one DEI-related case involving a Coca-Cola bottler may be crucial for employers",
+    "link": "https://www.hrdive.com/news/coca-cola-bottler-case-outcome-employers/874166/",
+    "summary": "This lawsuit is &ldquo;a very important case, in terms of employer practices,&rdquo; one attorney at American Bar Association&rsquo;s Labor &amp; Employment Law conference said.",
+    "publishedAt": "2026-11-09",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -213,24 +213,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794230369000",
-    "title": " 黄仁勋出轨，与英伟达无关 ",
-    "link": "https://www.huxiu.com/article/4904272.html?f=rss",
-    "summary": "本文来自微信公众号： 格隆 ，作者：麦克斯，题图来自：视觉中国 周末的AI圈，出了一个超级大瓜。 英伟达老板黄仁勋罕见地发了一封内部道歉信，承认出轨，对妻子不忠。 涉事女方，是一名新加坡算力企业的高管，并促使英伟达董事会启动了独立调查，美国国会也介入此事。 周一开盘 （夜盘） 的英伟达股票，大跌超过4%，反复震荡后跌幅加大，超过5%。 对于一家市值逾四万亿美元、被视作全球AI基建晴雨表的公司而言，CEO的私人道德瑕疵本不应成为定价因子。 然而，当私人作风和安全问题产生交集时，市场的第一反应永远是卖出。 问题在于，这种卖出是否理性，以及当尘埃落定后，股价又会否快速修复？ 一、先明确两个重点 要理性审视此次CEO出轨风波，需要将两个层面剥离开来。 第一个层面是婚姻契约的违背，这属于黄仁勋个人的道德范畴。 他在内部信中措辞恳切，承认&ldquo;没有任何借口&rdquo;，并明确表示家人不应为他的选择承担责任。 这一层面的问题，英伟达的股东并无直接利害关系。 但第二个层面，即美国国会介入调查，情况就更为复杂一些。 这个事，英伟达公司是进行了自我澄清，但目前尚无定论，一切要等官方消息。 不过，需要明确的是，股价已经实实在在下跌，说明市场对此是存在担忧的。 这其实已经道出了市场对于此事的看法： 如果调查最终仅止于个人作风，那么对英伟达的运营几乎不产生实质性影响； 但如果调查衍生出了管制、合规",
-    "publishedAt": "2026-11-09",
+    "id": "news-11-1794271526000",
+    "title": " 双11倒计时：流行的打工人三件套，请谨慎出手 ",
+    "link": "https://www.huxiu.com/article/4904316.html?f=rss",
+    "summary": "本文来自微信公众号： 返朴 ，作者：木木，原文标题：《双11倒计时：流行的打工人三件套，请谨慎出手！》 2026年10月底，国际循证医学组织Cochrane一篇系统综述汇总20项研究后发现：换人体工学椅、升级办公家具、调整工位，短期内对已有的颈肩臂痛可能帮助甚微。类似的购买疑问也出现在防蓝光镜片和胶原蛋白上：它们都有人体研究可查，但产品、人群和观察时间各不相同，测到的也未必是你期待的改善。读懂里面的差别，才知道钱花得值不值。 文本收录于合集医药健康 晚上11点，终于可以关闭文档了。 你的身体却没跟着下班。眼睛干涩发胀，颈肩像被一只手攥着，洗脸时瞥一眼镜子，眼角的细纹好像又深了一点。 对于长时间盯着电脑、持续集中注意力的“打工人”，护眼、缓解颈肩不适和护肤，很容易排进同一份自我关爱清单。 到了“双11”，这份清单又可以变得很具体：配眼镜时加一个防蓝光膜，换一把头枕、腰托、扶手都能调的人体工学椅，再囤一盒口服胶原蛋白，盼着细纹少些，弹性多些。 这些期待不难理解。眼睛滋润些，身体舒服些，皮肤看起来年轻些，都是能直接影响日常感受的变化。不过，商品说明里的功能能否真的带来这些改善呢？这就需要科学的证据来说话。 下面我们就一起看看，这些号称能带来健康改善的物品，哪些是在收智商税，哪些是有研究撑腰的？ 滤掉蓝光以后，眼睛会更轻松吗？ 首先，如果想知道防蓝光镜片能不能缓解眼疲劳，一个最直接的办法，",
+    "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-2-5-1794223848000",
-    "title": "光模块龙头股价腰斩之际，天安新材拟2.5亿“追光”｜并购一线",
-    "link": "https://www.tmtpost.com/8198545.html",
-    "summary": "天安新材拟跨界。",
+    "id": "news-tpu-1794266400000",
+    "title": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
+    "link": "https://www.tmtpost.com/8198851.html",
+    "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
     "publishedAt": "2026-11-09",
     "source": "钛媒体",
     "tags": [
@@ -241,22 +240,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-humanoid-cleans-house-and-samsung-builds-for--1793970600000",
-    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
-    "publishedAt": "2026-11-06",
+    "id": "news-innovating-with-ai-in-the-special-chemicals-industry-1794229200000",
+    "title": "Innovating with AI in the special chemicals industry",
+    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "publishedAt": "2026-11-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "strategy"
     ]
   },
   {
-    "id": "news-tesla-expands-robotaxi-service-to-san-antonio-1794223824000",
-    "title": "Tesla expands robotaxi service to San Antonio",
-    "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-    "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+    "id": "news-the-race-is-on-to-sue-nvidia-1794263022000",
+    "title": "The race is on to sue Nvidia",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
     "publishedAt": "2026-11-09",
     "source": "TechCrunch",
     "tags": [
@@ -266,17 +266,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-workers-are-facing-a-crisis-of-disengagement-1793991060000",
-    "title": "Workers are facing a ‘crisis of disengagement’",
-    "link": "https://www.hrdive.com/news/workers-are-facing-a-crisis-of-disengagement/874016/",
-    "summary": "Multiple factors are contributing to low engagement rates, including a low-hire job market, layoff anxiety, artificial intelligence uncertainty and burnout, per new research.",
-    "publishedAt": "2026-11-06",
+    "id": "news-this-is-not-a-new-story-legal-professionals-expect-tide-to-t-1794237960000",
+    "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
+    "link": "https://www.hrdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874090/",
+    "summary": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
+    "publishedAt": "2026-11-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -293,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794230179000",
-    "title": " 谁敢提醒老板别乱搞？ ",
-    "link": "https://www.huxiu.com/article/4904271.html?f=rss",
-    "summary": "本文来自微信公众号： 一口老炮 ，作者：杨丁Frank 黄仁勋再次证明，公众人物，活成自己是最好的选择，没事别乱立人设，尤其是完美人设，这人世间，哪来的完美？马斯克和于东来的选择才是聪明的，反正我就这样，一直在地上坐着，别想着用旧世界的“道德”来束缚我，因为这是新世界。 很多公关一号位，今天都会问自己一个问题，我的老板，如果也发生了黄仁勋这样的事，我该怎么办？ 至于老板有没有情人，大部分公关一号位都是很清楚的，而且是谁，在哪里发生的，有几个都一清二楚，男女这点事，属于这个世界上最难以保密的秘密，哪怕没有第三个人知道和看见，其中一方也会忍不住告诉别人：我跟xx大佬好了。 比如互联网科技圈、车圈、地产圈，这些大佬们的风月往事，就是老媒体人饭局酒局上的资深话题，这些大佬们处理公司的事情运筹帷幄、志在千里，但是处理男女关系，的确大多也不谨慎，甚至肆无忌惮。 某互联网公司的前一号位跟我分享了一个很有趣的观察，他发现大佬谈恋爱，有两个很大的bug。 第一，这些大佬（男女通用）经常热衷于跟两类高危人群发生情愫。 第一类是同事，和老板日久生情，尤其很多公司管钱或者管人的那个岗位，往往就是老板的情人，市场部和公关部也是重灾区，上海某游戏公司甚至女高管中有一半都跟老板好过。很多公司，也喜欢给VP配美女助理，而且VP自己还没法换，有些人怀疑是公司的监控，也有些人时间久了，就跟助理好上了。 第二类是记者（",
-    "publishedAt": "2026-11-09",
+    "id": "news--1794271183000",
+    "title": " 白云：新兴市场愿景背后，科技出海大有可为 ",
+    "link": "https://www.huxiu.com/article/4904315.html?f=rss",
+    "summary": "本文来自微信公众号： 复旦金融评论 ，作者：白云 ■作者：白云复旦大学国际金融学院东南亚与共同市场中心执行主任、研究员 ■‍公众号：复旦金融评论 对于中国科技企业，只有读懂新兴市场发展愿景，才能穿越出海周期、捕捉长期机会 白云 复旦大学国际金融学院 东南亚与共同市场中心执行主任、研究员 最近十年，“国家发展愿景”是不少新兴市场国家规划未来的共同语言。沙特阿拉伯、埃及发布“2030愿景”；南非提出《2030年国家发展计划》；印度尼西亚推出“2045黄金印尼”；阿联酋制定“2071百年计划”；印度提出“2047发达印度”；尼日利亚发布“2050议程”等。 这些国家面对着相似的发展难题：资源型经济要降低对油气、矿产和初级产品的依赖；人口大国要创造青年就业；中等收入国家要寻找产业升级路径；受气候因素影响大的国家则要提高农业、水资源和能源系统的韧性。 发展愿景提示了新兴市场国家的资源配置方向：哪些产业会被优先支持，哪些基础设施会被加速建设，哪些社会问题会被纳入长期政策议程。对出海的中国科技企业来说，这些发展愿景不仅有助于了解哪些领域更容易形成政府、企业和社会共识，还有助于判断真实的产业机会在哪里。 发展愿景背后的增长压力 发展愿景密集提出的原因有四方面。 首先是传统增长模式转型的压力。卡塔尔、沙特阿拉伯、阿联酋等国的发展愿景都强调经济多元化、知识经济、绿色能源和未来产业。哈萨克斯坦等资源型或",
+    "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -306,10 +305,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794222263000",
-    "title": "商超重拾散装零食",
-    "link": "https://www.tmtpost.com/8198256.html",
-    "summary": "商超重拾散装零食",
+    "id": "news--1794226319000",
+    "title": "外资流入港股消费板块，但别着急抄底",
+    "link": "https://www.tmtpost.com/8198776.html",
+    "summary": "恒生消费指数近两周上涨8.05%，李宁、蒙牛乳业、申洲国际集体涨超12%；不过近一个月港股通合计净流出303.88亿港元，说明这轮回流由外资主导，内资并未跟进。",
     "publishedAt": "2026-11-09",
     "source": "钛媒体",
     "tags": [
@@ -320,11 +319,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-1793959200000",
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
-    "publishedAt": "2026-11-06",
+    "id": "news-the-climate-case-for-ai-has-not-been-made-1794218400000",
+    "title": "The climate case for AI has not been made",
+    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;",
+    "publishedAt": "2026-11-09",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -332,10 +331,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-jensen-huang-s-job-on-the-line-yale-s-jeffrey-sonnenfeld--1794201989000",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "id": "news-fervo-now-has-12b-in-orders-for-its-geothermal-power-tech-1794257734000",
+    "title": "Fervo now has $12B in orders for its geothermal power tech",
+    "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+    "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
     "publishedAt": "2026-11-09",
     "source": "TechCrunch",
     "tags": [
@@ -345,17 +344,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dems-must-eye-broad-labor-reform-after-midterm-win-nlrb-s-ex-1793991000000",
-    "title": "Dems must eye broad labor reform after midterm win, NLRB’s ex-top cop says",
-    "link": "https://www.hrdive.com/news/dems-must-eye-broad-labor-reform-after-midterm-win-nlrbs-ex-top-cop-says/873942/",
-    "summary": "Congress should consider passing a &ldquo;PRO Act plus&rdquo; while also minding state efforts to get involved in labor disputes, Jennifer Abruzzo said at an American Bar Association event.",
-    "publishedAt": "2026-11-06",
+    "id": "news-how-choice-arrangements-bring-budget-predictability-to-your--1794218400000",
+    "title": "How CHOICE arrangements bring budget predictability to your organization",
+    "link": "https://www.hrdive.com/spons/how-choice-arrangements-bring-budget-predictability-to-your-organization/873632/",
+    "summary": "Learn how ICHRA can help employers control costs and offer employees greater health plan choice.",
+    "publishedAt": "2026-11-09",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -372,23 +371,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gi-6-1794229973000",
-    "title": " 以为是“低GI”，实际升血糖超快的6种主食，你真的吃对了吗？ ",
-    "link": "https://www.huxiu.com/article/4904270.html?f=rss",
-    "summary": "本文来自微信公众号： 食栗派ChestnutMates ，编辑：山楂，作者：食栗派，原文标题：《以为是「低GI」，实际升血糖超快的6种主食！你真的吃对了吗？》 现在，越来越多人有了“控糖”的意识和需求。 不仅是糖尿病患者需要控制血糖，减肥瘦身、防痘养肤、预防“饭困”、血脂高尿酸高的人也都需要平稳的血糖。 “控糖”也是大家心头的烦恼，比如主食怎么选。权威机构发布的糖尿病饮食指南，都建提倡选🔗低GI主食。但哪些主食的低GI，其实很容易误判。 ▲图：国家卫生健康委办公厅《成人糖尿病食养指南》 今天，小栗子整理了6种常常种被误判的主食。 1.糙米饭 糙米饭：GI值87 数据源：中国食物成分表 糙米中含有的膳食纤维和多酚类物质通常被认为有助于降低血糖；然而，糙米饭的GI值并不如想象中的低。 根据中国食物成分表的数据，糙米饭的GI值为87； 另有一项研究显示，使用1.5倍水浸泡一晚再煮的糙米饭，GI值有82[1]，比研究中测试的一些白米饭还要高。 👉白米饭怎么健康吃？教你10招 2.玉米棒 煮玉米：GI值82 数据源：Dada,Akinola,et al.2015.. 玉米是一种吃起来很方便的全谷物食材，简单煮煮就能吃。 不过，玉米有不同的品种，有些玉米GI值远远超过白米饭、白馒头这些细粮。 尼日利亚的一项研究发现，煮玉米的GI高达82，烤玉米也有77，都是高GI[2]。国内一家机构测定的",
-    "publishedAt": "2026-11-09",
+    "id": "news-ai-1794270563000",
+    "title": " AI赌输了，美国很可能会拥抱社会主义 ",
+    "link": "https://www.huxiu.com/article/4904064.html?f=rss",
+    "summary": "本文来自微信公众号： 牌桌 Poker Table ，文章首发时间：2026年10月29日，作者：森林好小子，题图来自：视觉中国 &ldquo;2028年大选，共和党无论派出万斯还是鲁比奥都很难赢，最终选出一个社会主义总统的概率是50%。&rdquo; 这是硅谷著名投资人、《从0到1》的作者彼得&middot;蒂尔 （Peter Thiel） 最近在播客上给出的判断。 蒂尔并不是在开玩笑，社会主义近年在美国影响力确实在迅速扩大： 宣称要结束资本主义制度的美国民主社会主义组织DSA，最近10年由6000人扩张至13万人，成为美国建国以来规模最大的社会主义团体。受民主社会主义思想影响很深的进步派众议员，最近10年人数翻了快1倍，目前占到了众议院民主党人的一半。 DSA成员亚历山德里娅&middot;奥卡西奥-科尔特斯 （Alexandria Ocasio-Cortez，AOC） ，是近年话题度极高的明星众议员，已成为2028总统大选民主党候选人的有力竞争者；DSA成员佐兰&middot;马姆达尼 （Zohran Mamdani） ，是首个当上纽约市长的社会主义者。 图片来源：美国众议院官网；Dezeen。 观念上，美国青年对社会主义和资本主义的好恶也在今年逆转： 盖洛普9月调查显示，18-34岁美国人对社会主义持正面态度的比例达到57%，对资本主义持正面态度的只有43%。去年同口径数据",
+    "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1794222016000",
-    "title": "AI进不了相亲相爱一家人，怎么办？",
-    "link": "https://www.tmtpost.com/8198165.html",
-    "summary": "微信不妨学一学？",
+    "id": "news-st-1794225446000",
+    "title": "*ST亿晶重整易主引爆五连板：中润光能拟入主，游资击鼓传花",
+    "link": "https://www.tmtpost.com/8198759.html",
+    "summary": "不过是又一场借题发挥的游资狂欢。",
     "publishedAt": "2026-11-09",
     "source": "钛媒体",
     "tags": [
@@ -901,7 +901,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
     "postedAt": "2026-11-03",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137619",
@@ -939,26 +939,6 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
     "postedAt": "2026-10-30",
-    "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137538",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
-      "US$1,000 per task, and you can do as many tasks as you want",
-      "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models,"
-    ],
-    "skills": [
-      "Python",
-      "Agent"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-    "postedAt": "2026-10-17",
     "isNew": false
   },
   {
@@ -1117,4 +1097,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-09T15:02:20.914Z';
+export const dataFetchedAt = '2026-11-10T01:08:04.838Z';
