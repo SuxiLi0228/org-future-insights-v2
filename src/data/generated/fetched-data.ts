@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adobe-adds-more-ai-to-its-products-and-launches-an-mcp-1794319510000",
-    "title": "Adobe adds more AI to its products and launches an MCP",
-    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "id": "news-openai-acquires-odessia-travel-startup-created-by-sonder-fou-1794344932000",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -27,16 +27,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-home-health-company-settles-eeoc-allegations-it-abided-by-cl-1794259920000",
-    "title": "Home health company settles EEOC allegations it abided by clients’ race-based preferences",
-    "link": "https://www.hrdive.com/news/mid-michigan-settles-eeoc-allegations-client-race/874137/",
-    "summary": "Under a five-year consent decree, Mid-Michigan Home Health &amp; Hospice must pay $41K to a Black nursing assistant allegedly denied assignments given to White co-workers because of their race.",
-    "publishedAt": "2026-11-09",
+    "id": "news-trump-nominates-another-eeoc-commissioner-potentially-solidi-1794344220000",
+    "title": "Trump nominates another EEOC commissioner, potentially solidifying Republican control",
+    "link": "https://www.hrdive.com/news/trump-nominates-another-eeoc-commissioner-potentially-solidifying-republic/874297/",
+    "summary": "Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
+    "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "organization"
     ]
   },
   {
@@ -53,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794319600000",
-    "title": " 任何长久的关系，都是反人性的。 ",
-    "link": "https://www.huxiu.com/article/4904563.html?f=rss",
-    "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 这个观点最易被反驳的地方在于： 生活中随处可见长久的关系。 你可能有个谈了三五年的对象，认识十几年的发小，也见过一起生活了大半生的老夫老妻，这些例证会让你不禁产生疑虑： 难道所有长久的关系，都是反人性的吗？ 有这样的质疑很正常。 但你如果不以时间作为衡量关系质量的唯一依据，而是深入到一段关系的内里，你会发现很多看似健康和谐的关系，早已名存实亡了，只是大家不愿承认罢了。 真正长久且具备持续生命力的关系，一定是反人性的，因为人性当中的某些本能和良性关系所需的品质，恰恰是反着来的。 01、人性要占有，关系要独立 爱一个人的本能是什么？ 有人说是付出，是给予，但这都是表现，背后的本能需求是占有，你想将对方变成你生活的一部分，或者说，你的生存资源。 这个本能在远古时代是合理的。 伴侣、孩子、盟友，都是你的重要资源，只有牢牢抓住，才能最大程度增加自己活下去的概率，以至于到今天，我们的身体还记着这个逻辑。 心理学家将其总结成一句话： 依恋是进化的本能。 可与此同时，理智告诉我们，你抓的毕竟不是某个东西，而是个大活人，你为了照顾自己的安全感想要抓得更紧，对方就会因为被攥得太死而想要挣脱。 这个逻辑放到亲子关系里更明显。 父母想知道孩子的一切，孩子想要自己的空间，最后孩子将父母的关心视作控制，父母将孩子的独立视作背叛。 持久健康的关系有一个前提： 你所爱，所",
+    "id": "news--1794334345000",
+    "title": " 印度年轻人为什么还是找不到好工作？ ",
+    "link": "https://www.huxiu.com/article/4904589.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年7月29日，印度铁路部公布了一组招聘数据：一项涉及32438个基层岗位的招聘考试，有1082.8万人参加了机考。 平均每个岗位，对应约334名考生。 这些岗位包括铁路助手、轨道养护员、道岔操作员，都是基层岗位，但工作稳定，有固定工资和相对完善的劳动保障。在印度，这已经足够让上千万年轻人挤进同一个考场。 同一时间，在南部泰米尔纳德邦的金奈，富士康的iPhone工厂每天有150多辆白色班车接送工人。约4万名员工分三班轮流生产，厂区占地160英亩，建有九栋宿舍楼。 据路透社11月10日报道，全球约四分之一的iPhone已经在印度生产，富士康和塔塔电子是这轮产业迁移的主要承接者。 一边是全球最重要的消费电子制造业向印度转移，一边是上千万人挤进铁路招聘考试。两幅景象放在一起，恰好是印度经济最值得研究的一组矛盾。 按印度储备银行2026年8月发布的专业预测机构调查，印度2026—2027财年实际GDP预计增长6.6%，在全球主要经济体中依然突出。但增长带来的新增岗位，与人口规模、教育扩张和年轻人的职业期待之间，始终存在缺口。 国际劳工组织与印度人类发展研究所2024年的联合报告显示，2022年，青年占印度全部失业人口的82.9%；受过中学及以上教育的失业青年，占全部失业人口的65.7%，2000年时这一比例还是54.2%",
     "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
@@ -66,10 +67,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-34-29-1794317334000",
-    "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
-    "link": "https://www.tmtpost.com/8200086.html",
-    "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
+    "id": "news-4000-1794321775000",
+    "title": "4000万失能老人背后，为何有笔至今算不平的照护账？",
+    "link": "https://www.tmtpost.com/8200404.html",
+    "summary": "当各方力量形成合力，居家养老才能走出“叫好不叫座”的困局，让专业、有尊严的照护，真正走进每一个有需要的家庭。",
     "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reac-1794319299000",
-    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "id": "news-openai-anthropic-face-new-oversight-as-new-york-s-ai-safety--1794343933000",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -106,17 +107,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-lack-of-exact-diagnosis-didn-t-defeat-employee-s-ada-claim-1-1794259860000",
-    "title": "Lack of exact diagnosis didn’t defeat employee’s ADA claim, 10th Circuit says",
-    "link": "https://www.hrdive.com/news/lack-of-exact-diagnosis-didnt-defeat-employee-ada-claim/874175/",
-    "summary": "An employee&rsquo;s request for &ldquo;a few weeks&rdquo; of leave beyond the 12-week provision of the Family and Medical Leave Act also wasn&rsquo;t necessarily unreasonable, it noted.",
-    "publishedAt": "2026-11-09",
+    "id": "news-holiday-hiring-looks-different-this-year-here-s-why-1794344100000",
+    "title": "Holiday hiring looks different this year. Here’s why.",
+    "link": "https://www.hrdive.com/news/why-retail-holiday-hiring-looks-different-2026/874302/",
+    "summary": "From retailers pulling back on large hiring announcements to the creation of more part-time roles, 2026 might be a tipping point for seasonal staffing.",
+    "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "ecommerce"
     ]
   },
   {
@@ -133,32 +135,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ant-10-1794318998000",
-    "title": " ANT终将奔向10万亿 ",
-    "link": "https://www.huxiu.com/article/4904476.html?f=rss",
-    "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥，编辑：王靖，题图来自：视觉中国 据媒体报道，Anthropic计划于11月10日启动IPO路演，最早在11月19日上市交易。 路演前夕，Anthropic发布了Claude Fable 5.2和Mythos 5.2两款新模型，为公司带来了新的技术进展。 但Anthropic的资本市场前景却仍然面临争议。 从9月市场讨论的约2万亿美元，到10月的1.5万亿美元，如今已有部分投资者将公司的IPO估值预期下调至1.2万亿至1.3万亿美元。巨额算力投入和逐渐放缓的收入增速，正在让市场重新计算Anthropic未来的回报。 今年8月，我们曾经写过一篇文章： 《史上第一家10万亿美元公司，会是Anthropic吗？》。 彼时，我们提出一个大胆的猜想：Anthropic有机会成为人类历史上第一家10万亿美元公司。 三个月过去，市场的预期已经发生变化，但我们依然看好Anthropic的长期前景。 随着模型能力不断提升，Anthropic正进入越来越多专业领域，催生出新的商业需求。AI的经济价值正逐步兑现，整个科技产业的资本流向也已发生改变。 决定一家企业长期价值的，终究是它能创造多少真实的经济价值。 对于这一点，Anthropic的答案正在逐渐清晰。 一 新一代Claude的能力，已经越过了传统软件开发的边界。 在11月9日发布的技术报告中，Anthr",
+    "id": "news--1794329437000",
+    "title": " 中国压铸厂，开始为车企的降本买单？ ",
+    "link": "https://www.huxiu.com/article/4904586.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月5日，广东鸿图披露了一张新订单：公司已进入丰田的一体化压铸供应链。此前，它的主要相关客户是小鹏汽车。公司预计，2026年一体化压铸产品收入接近7亿元，同比增长超过20%。 同一时期，广东鸿图的利润走出了另一条曲线。前三季度营收65.02亿元，同比下降2.26%；归母净利润6068万元，同比下降71.10%。新业务在增长，整家公司赚到的钱却比去年同期少了约1.5亿元。 压力也传到了同行。文灿股份2026年上半年营收28亿元，与上年基本持平，归母净利润亏损2.16亿元，去年同期仍盈利1311万元。生产超大型压铸设备的力劲科技，截至2026年3月末财年营收56.09亿港元，净利润4952万港元，分别同比下降3.7%和87.7%。 把压铸件、压铸机与上游材料放在一起，行业的分化更加清楚。 这张表至少说明，产业链上的利润压力分布得很不均匀。 车企确定采用一项新工艺之后，可以提前选定供应商；压铸厂拿到定点，还要经历模具设计、试制、验证、量产爬坡和持续降价。订单金额代表生命周期内的潜在销售额，利润要等产品稳定交付后才能逐步兑现。 过去几年，市场谈论一体化压铸，常从减少多少个零件、砍掉多少道工序说起。2026年的财报把问题推进了一步：一项能替整车厂节省制造成本的技术，为什么没能让供应商赚到更多钱？ 一、零件更贵，工厂可能更省 一体化压铸",
     "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-chinese-short-dramas-own-overseas-attention-but-not-yet-the--1794312006000",
-    "title": "Chinese Short Dramas Own Overseas Attention but Not Yet the Profits",
-    "link": "https://www.tmtpost.com/8200340.html",
-    "summary": "Vertical micro-dramas from Chinese teams now command extreme mobile engagement abroad. The real product is a paid-hook, ad-bought industrial system, not cultural soft power. Thin margins, rising user-acquisition costs, and copycats will decide whether the boom becomes a lasting business.",
+    "id": "news--1794321748000",
+    "title": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
+    "link": "https://www.tmtpost.com/8200254.html",
+    "summary": "硬核办公国货，在京东11.11迎来破圈时刻。",
     "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -174,31 +174,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-aura-8217-s-newest-e-ink-photo-frame-is-even-better-and-more-1794319200000",
-    "title": "Aura&#8217;s newest e-ink photo frame is even better and more affordable than its last",
-    "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-    "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+    "id": "news-proximal-ventures-raises-debut-fund-to-back-startups-bringin-1794343625000",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-the-outcome-of-one-dei-related-case-involving-a-coca-cola-bo-1794259860000",
-    "title": "The outcome of one DEI-related case involving a Coca-Cola bottler may be crucial for employers",
-    "link": "https://www.hrdive.com/news/coca-cola-bottler-case-outcome-employers/874166/",
-    "summary": "This lawsuit is &ldquo;a very important case, in terms of employer practices,&rdquo; one attorney at American Bar Association&rsquo;s Labor &amp; Employment Law conference said.",
-    "publishedAt": "2026-11-09",
+    "id": "news-ai-leadership-training-tools-are-most-effective-when-paired--1794344100000",
+    "title": "AI leadership training tools are most effective when paired with managerial support",
+    "link": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
+    "summary": "As HR professionals look to fill upper-level executive positions, the best development programs combine technology with real-world experiences, per a study.",
+    "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -215,24 +215,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gpt-7-1794318202000",
-    "title": " 王兴兴预言GPT-7将打穿具身，我们感受到焦虑在蔓延 ",
-    "link": "https://www.huxiu.com/article/4904554.html?f=rss",
-    "summary": "本文来自微信公众号： 天南具身公园 ，首发于2026年10月13日，作者：天南&amp;瓦力，题图来自：AI生成 GPT6出来已经一个半月了，具身里面有了不少探索。 有些人告诉你Astra已经可以实现很多具身任务，但绝口不提推理时间；而又有另外一波人直接说Astra推理耗时太久，具身用不上。 而就在昨天 （10月12日） ，王兴兴说的 GPT-7 或许会打穿具身智能，然后DeepSeek也要考虑下场做具身，整个的风向好像有些变化。 今天一大早，也收到了很多朋友的消息，我能感受到一些焦虑在蔓延。 一大早起床就看到一些关于大模型对于具身影响的未读消息。 但也有人坚持具身是物理世界，大模型只是加速产业落地，但无法完成整个闭环。 是不是感觉有时候行业挺割裂？ 如果你炒过大A市场，就应该非常熟悉一句话，&ldquo;买在分歧时，卖在一致处&rdquo;。 而现在这种分歧又何尝不是绝佳的&ldquo;某种认知买点&rdquo;呢？ ...... 具身行业现在需要认真想的，绝非是GPT能不能插网线、拼积木这种小事。 反正行业中大家都有焦虑感，我们尝试做个大胆的假设： &ldquo;假如GPT、Claude、DeepSeek、GLM等大模型公司已经完成了对于具身的全面占领，并解决了泛化、耗时的问题&rdquo;，那我们也尝试推演下后面的逻辑。 我们也画了一张 GPT 逐渐侵蚀具身的地形图。 经过密",
+    "id": "news-5-5-1794327428000",
+    "title": " 未来5年，水处理市场的5个新增量 ",
+    "link": "https://www.huxiu.com/article/4904585.html?f=rss",
+    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去二十多年，水处理行业判断市场还有多大，最习惯看的一个指标是：每天还有多少万吨污水需要处理。 一个城市缺20万吨处理能力，就再建一座厂；一个工业园区企业越来越多，就扩一条处理线。处理规模越大，工程越大，设备需求越多，市场自然也越大。 这套逻辑支撑了中国水务行业很长一段时间。 但到了今天，情况正在慢慢发生变化。 问题已经不仅仅是还有多少水没有处理，而越来越变成：进来的到底是什么水？污染从哪里来？不同的水为什么要混在一起处理？出了问题能不能迅速找到源头？同样一个排放标准，放在不同河流里是不是都合适？ 这可能才是未来五年水治理市场真正值得关注的变化。 污水处理率逼近100%，补缺口空间已很小城市污水处理率，%2006201020152020202555.67%99.14%4060801002020年后只升了1.61个百分点注：城市口径，不含县城和建制镇。来源：住建部历年《城乡建设统计年鉴》；2025年《中国城市建设状况公报》更多洞察及数据，关注青山产业评论 下一轮增量，正在从建一批更大的污水厂，转换为把已经建起来的这套水治理系统，做得更细。 综合毒性与特征污染物控制 带来新一轮治理需求 传统污水处理是一门很典型的规模生意。 一座污水处理厂设计10万吨/日，只要来水大致在设计范围内，核心任务就是稳定把这10万吨水处理到标准。 所以过",
     "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-5000-1794305278000",
-    "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
-    "link": "https://www.tmtpost.com/8198486.html",
-    "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。",
+    "id": "news-34-29-1794317334000",
+    "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
+    "link": "https://www.tmtpost.com/8200086.html",
+    "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
     "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
@@ -255,10 +254,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-after-challenging-google-8217-s-android-with-cyanogen-its-co-1794319200000",
-    "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "id": "news-x-energy-gets-green-light-to-build-its-first-small-modular-n-1794343435000",
+    "title": "X-energy gets green light to build its first small modular nuclear reactors",
+    "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -268,16 +267,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-is-not-a-new-story-legal-professionals-expect-tide-to-t-1794237960000",
-    "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
-    "link": "https://www.hrdive.com/news/this-is-not-a-new-story-legal-professionals-expect-tide-to-turn-on-dei/874090/",
-    "summary": "The idea that diversity, equity and inclusion is a short-lived trend ignores history and legal reality, according to speakers at an American Bar Association conference.",
-    "publishedAt": "2026-11-09",
+    "id": "news-eeoc-general-counsel-nominee-dodges-gender-identity-bias-que-1794344040000",
+    "title": "EEOC general counsel nominee dodges gender identity bias questions at hearing",
+    "link": "https://www.hrdive.com/news/eeoc-hearing-catherine-eschbach/874291/",
+    "summary": "Pregnancy protections, artificial intelligence, disparate-impact discrimination and one controversial agency attorney were also the subject of senators&rsquo; questions on Tuesday.",
+    "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -294,31 +294,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794317987000",
-    "title": " 深圳外卖骑手，正在集体学英语 ",
-    "link": "https://www.huxiu.com/article/4904556.html?f=rss",
-    "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰网《风暴眼》 2026年APEC第三十三次领导人非正式会议，将于11月18日至19日在深圳举办，凤凰网财经全程跟进报道，直击峰会核心议程，解读亚太经贸新动向。 阿蒋的单肩包，是粤海片区骑手圈里的一个标志，包里塞着雅思口语资料、真题试卷。 等餐的三五分钟，等电梯的半分钟，路口等红灯的几十秒，但凡挤出一点空隙，他都会摸出手机背单词。 要是空下来的时间再多点，他就赶紧把书掏出来看会儿。 这件原本只属于他一个人的坚持，意外和APEC会议牵在了一起。 01 成了APEC涉外志愿者 阿蒋第一次听见APEC这个词，是去年在深圳大学城。 送餐高峰落下去的午后，他常常骑着车往大学城跑，蹭听公开课。 台上不少教授聊经济、聊AI，他安静坐在后排。 一节课听下来的收获，在他眼里，比跑大半天订单还要实在。 那天讲宏观经济的教授提到APEC，他没听懂，散课后特意上网搜了一遍，才知道这是亚太地区重要的经济合作论坛。 彼时，它只是一个遥远、抽象的财经名词。 直到新闻推送告诉他，2026年APEC将落地深圳，他心里动了一下，自己正在学的英语，好像忽然离这件大事近了一点。 2012年高考，他考上了一所艺术院校，最后还是攥着一张火车票，来了深圳。 “身边很少有人靠读书走出路子，大家最普遍的选择，就是外出打工。” 他先进了工厂，流水线一站十几个小时，日复一日重复的劳作，一眼就",
+    "id": "news-500-1794327180000",
+    "title": " 一个小镇，竟有两家世界500强 ",
+    "link": "https://www.huxiu.com/article/4904584.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《一个小镇，竟有两家世界500强！》 2021年，我去苏州调研房地产，走进吴江区的一个别墅楼盘，销售在描述该楼盘如何高端的时候，讲了这样一段话，“来这里买房的业主中，相当一部分是盛泽镇的老板”。这是我第一次听说盛泽镇。 无奈全国出名的古镇实在是太多了。江浙有周庄乌镇同里，佛山东莞有虎门长安顺德，还有景德平遥丽江西塘等闻名全国的小镇，盛泽这个平平无奇的小镇，且它还是以工业为主的乡镇，很难引起大家的注意。 直到后来，等我多次往来苏州，也跟当地朋友深入了解盛泽后，才知道这里竟然是扫地僧一样的全国强镇： 一个小镇，竟然诞生了两家世界500强：恒力、盛虹。 这当然不是运气好。盛泽镇的成功逻辑说起来也非常简单，先是靠着过去千年积累的纺织底蕴，培养出了一个拥有上千家纺织厂的庞大市场，然后其中的两家纺织厂，也就是后来的恒力、盛虹，没有待在下游内卷，而是顺着产业链一路往上游死磕，从织布、印染一路干到炼油和新材料，把整个链条攥在自己手里，最终做大做强。 一个小镇，两家世界500强。这背后的发展路径，值得所有中小城市去仔细咂摸。 盛泽小镇与世界500强巨头。 大部分人的目光总盯着北上深杭这些大城市，或者南京成都西安武汉天津这些省会城市，动辄讲政策洼地、人才高地、国家级新区……。 很少有人把注意力放到江南的小镇上。即使有人关注这些乡镇，也更多集中",
     "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1794305275000",
-    "title": "猪肉不停降价，给了“云南猪王”更多磨练二代的机会",
-    "link": "https://www.tmtpost.com/8198696.html",
-    "summary": "二代接班会不会提速?",
+    "id": "news-chinese-short-dramas-own-overseas-attention-but-not-yet-the--1794312006000",
+    "title": "Chinese Short Dramas Own Overseas Attention but Not Yet the Profits",
+    "link": "https://www.tmtpost.com/8200340.html",
+    "summary": "Vertical micro-dramas from Chinese teams now command extreme mobile engagement abroad. The real product is a paid-hook, ad-bought industrial system, not cultural soft power. Thin margins, rising user-acquisition costs, and copycats will decide whether the boom becomes a lasting business.",
     "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spotify-8217-s-ai-dj-gets-new-voices-personalities-and-an-op-1794319200000",
-    "title": "Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less chatter",
-    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "id": "news-all-7-anthropic-founders-will-each-cash-out-about-250m-in-ip-1794340672000",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -347,11 +347,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-want-more-influence-5-ways-to-become-a-better-business-commu-1794218400000",
-    "title": "Want more influence? 5 ways to become a better business communicator.",
-    "link": "https://www.hrdive.com/spons/want-more-influence-5-ways-to-become-a-better-business-communicator/832460/",
-    "summary": "As an HR leader, you already have a valuable view into the people side of the business, but how do you turn that insight into influence?",
-    "publishedAt": "2026-11-09",
+    "id": "news-lack-of-hiring-now-will-create-a-missing-rung-that-may-toppl-1794330960000",
+    "title": "Lack of hiring now will create a ‘missing rung’ that may topple growth",
+    "link": "https://www.hrdive.com/news/lack-of-hiring-now-will-create-a-missing-rung-that-may-topple-growth/874253/",
+    "summary": "Employers are betting on automation to cover a lack of entry-level hiring. But what happens 10 years from now when there&rsquo;s no one to promote?",
+    "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -373,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794317438000",
-    "title": " 上海楼市的下一道考题：解禁与信贷的角力 ",
-    "link": "https://www.huxiu.com/article/4904550.html?f=rss",
-    "summary": "本文来自微信公众号： 盲牤 ，作者：盲牤 安全岛下沉系列·上海篇（下） 上篇讲了4.5万~4.8万元的盲牤防线经过三次承压检验，仍在2025年下半年正式跌破，上海由此进入安全岛生命周期的临界期。但上海不是放量下跌，而是三次政策脉冲带来三次换手，风险在一轮轮反弹中被分摊，价格缓慢下移。 这一篇我们主要探讨一下接下来会影响上海房地产市场走势的两股力量：一股是被限售锁了五年、从2026年起陆续到期的解禁抛压；另一股是尚且缺席的信贷扩张。 10月网签量创出同期新高、\"回暖\"之声四起，恰恰是在这两股力量的角力尚未见分晓之际。 一、被限售锁了五年的抛压，从2026年起陆续到期 在过去3年，相当大的一部分抛压，被一纸限售令锁住了。 2021年1月“沪十条”出台、2月新房摇号积分制落地，3月《关于进一步加强本市房地产市场管理的通知》（“新沪七条”）补漏明确：对按照优先购房政策购买的新建商品住房，购房合同网签备案满5年后方可转让——至此，认购比超过1.3:1的楼盘触发积分摇号，并附带5年限售。 这项政策至今没有取消，只是触发积分摇号的楼盘已大幅减少。据新华财经2026年4月报道引用的机构统计，2021年上海触发积分的新盘有131个、占比约42%（平均入围积分60.98分），到2025年降至28个、占比约8%（平均积分49.23分）。 被限售锁住的只是触发积分的优先购房部分，并非高峰期买入新房的全部买",
+    "id": "news--1794327066000",
+    "title": " 不要过度神话经济在婚姻中的作用 ",
+    "link": "https://www.huxiu.com/article/4904583.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 11月8日，英伟达CEO黄仁勋写了一封全员信。 信里最重要的，是这句话：“我对妻子不忠。我的行为伤害了她和我们的孩子。对于我所做的一切，没有任何借口。” 消息很快冲上了热搜，我身边的朋友、大大小小的群聊，也都在关注和讨论这件事。我发现这些反应中，有两种观点，比较典型。 一种说，“男人有钱就变坏，意料之中。” 另一种观点是，“原配陪了快四十年，真离了分黄仁勋一半身家，也不亏。” 一个是在骂，一个是在算经济账。看起来讨论方向不同，但仔细想想看，这两种说法背后，其实藏着同一个前提。也就是，婚姻这件事，最终都可以用钱来解释。 钱多，是出轨的原因。钱多，也是受伤的补偿。钱既是病因，又是处方。 我不打算在这里评判黄仁勋的私德。那是他和家人之间的事，他们也公开请求外界给予隐私，我们理应尊重。 我真正想聊的，是从诸多讨论中折射出来的、一个更普遍的东西： 我们这个时代，正在过度神话经济在婚姻中的作用。 我们都被“婚姻经济学”说服了 有点可怕的一点是，不知道从什么时候起，我们谈到婚姻，越来越像谈一笔生意。 相亲先问房，问车，问年收入。婚前算彩礼，算嫁妆，算房本上写谁的名字。网上流行的说法是，“婚姻的本质，是两个家庭的资源整合”“爱情是锦上添花，面包才是雪中送炭”。 说实话，这些话并不是一点道理都没有。 我见过很多因为彩礼问题",
     "publishedAt": "2026-11-10",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-roblox-1794305269000",
-    "title": "管窥AI游戏的产业现状，从Roblox这份“意外”的财报",
-    "link": "https://www.tmtpost.com/8199114.html",
-    "summary": "方兴未艾，暗流涌动。",
+    "id": "news-5000-1794305278000",
+    "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
+    "link": "https://www.tmtpost.com/8198486.html",
+    "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。",
     "publishedAt": "2026-11-10",
     "source": "钛媒体",
     "tags": [
@@ -769,6 +769,31 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137710",
+    "title": "Senior Agentic AI Engineer NDA",
+    "company": "GT",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "GT was founded in 2019 by a former Apple, Nest, and Google executive",
+      "Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands",
+      "On behalf of the client, GT is looking for a Senior Agentic AI En"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "SQL",
+      "OpenAI",
+      "LangChain"
+    ],
+    "location": "Warsaw",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "postedAt": "2026-11-09",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137701",
     "title": "AI Developer",
     "company": "Salvo Software",
@@ -1085,4 +1110,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-10T14:14:54.654Z';
+export const dataFetchedAt = '2026-11-10T22:47:11.300Z';

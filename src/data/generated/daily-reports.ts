@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-11-auto",
+    "date": "2026-11-11",
+    "session": "auto",
+    "title": "2026-11-11 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-11-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+      },
+      {
+        "id": "sig-2026-11-11-auto-2",
+        "emoji": "💡",
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "detail": "来源: TechCrunch。OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+      },
+      {
+        "id": "sig-2026-11-11-auto-3",
+        "emoji": "💡",
+        "title": "Trump nominates another EEOC commissioner, potentially solidifying Republican control",
+        "summary": "Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
+        "detail": "来源: HR Dive。Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
+        "priority": "low",
+        "tags": [
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/trump-nominates-another-eeoc-commissioner-potentially-solidifying-republic/874297/"
+      },
+      {
+        "id": "sig-2026-11-11-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Guiding Data Allocation for Robust Subpopulation Generalizat...",
+        "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ",
+        "detail": "作者: Zhaoying Pan, Yipei Wang, Shenyu Lu。Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple configurations, including substantially imbalanced ones, can perform comparably to the balanced one. We further derive gradient-based directions for adjusting subgroup proportions to improve adjusted accura",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.12884v1"
+      },
+      {
+        "id": "sig-2026-11-11-auto-5",
+        "emoji": "💼",
+        "title": "GT 正在招募 Senior Agentic AI Engineer NDA",
+        "summary": "岗位类型：业务+AI 复合岗。GT was founded in 2019 by a former Apple, Nest, and Google executive",
+        "detail": "技能要求: Python, LLM, RAG, Agent, SQL, OpenAI, LangChain。GT was founded in 2019 by a former Apple, Nest, and Google executive Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands On behalf of the client, GT is looking for a Senior Agentic AI En",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "GT"
+        ],
+        "sourceType": "tech",
+        "sourceName": "GT",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-11-1",
+        "priority": "medium",
+        "action": "关注「The Download: Pelosi’s successor targets」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-11-2",
+        "priority": "low",
+        "action": "关注「OpenAI acquires Odessia, travel startup 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-11-3",
+        "priority": "low",
+        "action": "关注「Trump nominates another EEOC commissione」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-11-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Guiding Data Allocation for Robust 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-11-5",
+        "priority": "medium",
+        "action": "关注「GT 正在招募 Senior Agentic AI Engineer NDA」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "GT"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 67,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-11 生成，聚合了 30 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-11 00:00 - 2026-11-11 23:59"
+  },
+  {
     "id": "report-2026-11-10-auto",
     "date": "2026-11-10",
     "session": "auto",
