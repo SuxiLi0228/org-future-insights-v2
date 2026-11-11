@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-12-auto",
+    "date": "2026-11-12",
+    "session": "auto",
+    "title": "2026-11-12 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-12-auto-1",
+        "emoji": "💡",
+        "title": "What to know about this year’s UN climate talks",
+        "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
+        "detail": "来源: MIT Technology Review。It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+      },
+      {
+        "id": "sig-2026-11-12-auto-2",
+        "emoji": "💡",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "detail": "来源: TechCrunch。The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "id": "sig-2026-11-12-auto-3",
+        "emoji": "💡",
+        "title": "A wave of religious discrimination claims is coming, attorneys say",
+        "summary": "Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
+        "detail": "来源: HR Dive。Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/"
+      },
+      {
+        "id": "sig-2026-11-12-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Medical Image Segmentation: Foundation Model Adaptation vers...",
+        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co",
+        "detail": "作者: Emre Kutlusan, Yongmin Li。Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the tr",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.14519v1"
+      },
+      {
+        "id": "sig-2026-11-12-auto-5",
+        "emoji": "💼",
+        "title": "GT 正在招募 Senior Agentic AI Engineer NDA",
+        "summary": "岗位类型：业务+AI 复合岗。GT was founded in 2019 by a former Apple, Nest, and Google executive",
+        "detail": "技能要求: Python, LLM, RAG, Agent, SQL, OpenAI, LangChain。GT was founded in 2019 by a former Apple, Nest, and Google executive Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands On behalf of the client, GT is looking for a Senior Agentic AI En",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "GT"
+        ],
+        "sourceType": "tech",
+        "sourceName": "GT",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-12-1",
+        "priority": "low",
+        "action": "关注「What to know about this year’s UN climat」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-12-2",
+        "priority": "low",
+        "action": "关注「The unfolding Jensen Huang scandal: a ti」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-12-3",
+        "priority": "low",
+        "action": "关注「A wave of religious discrimination claim」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-12-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Medical Image Segmentation: Foundat」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-12-5",
+        "priority": "medium",
+        "action": "关注「GT 正在招募 Senior Agentic AI Engineer NDA」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "GT"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 67,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-12 生成，聚合了 30 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-12 00:00 - 2026-11-12 23:59"
+  },
+  {
     "id": "report-2026-11-11-auto",
     "date": "2026-11-11",
     "session": "auto",

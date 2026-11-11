@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-preserving-minds-and-weighing-open-ai-risks-1794402600000",
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
+    "id": "news-what-to-know-about-this-year-s-un-climate-talks-1794416400000",
+    "title": "What to know about this year’s UN climate talks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
     "publishedAt": "2026-11-11",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,30 +14,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-s-crisis-has-corporate-governance-experts-reaching-fo-1794382251000",
-    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794441000000",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-trump-nominates-another-eeoc-commissioner-potentially-solidi-1794344220000",
-    "title": "Trump nominates another EEOC commissioner, potentially solidifying Republican control",
-    "link": "https://www.hrdive.com/news/trump-nominates-another-eeoc-commissioner-potentially-solidifying-republic/874297/",
-    "summary": "Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
-    "publishedAt": "2026-11-10",
+    "id": "news-a-wave-of-religious-discrimination-claims-is-coming-attorney-1794430500000",
+    "title": "A wave of religious discrimination claims is coming, attorneys say",
+    "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
+    "summary": "Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
+    "publishedAt": "2026-11-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-37-56-1794402761000",
-    "title": " SpaceX与特斯拉合并：马斯克用37% 的股权换来56% 的投票权 ",
-    "link": "https://www.huxiu.com/article/4904853.html?f=rss",
-    "summary": "本文来自微信公众号： 太空与网络 ，作者：老谭，原文标题：《SpaceX与特斯拉合并：马斯克用 37% 的股权换来 56% 的投票权》 SpaceX与特斯拉合并：马斯克用37%的股权换来56%的投票权 01 引言：37%的股权，56%的投票权 路透社11月3日报道，SpaceX与特斯拉若合并，马斯克可能只持有新公司约37%的股权，却掌握约56%的投票权。合并后公司值多少万亿美元，是估值问题；37%的股权拿到56%的投票权，才是控制权问题。 从公开信息看，这笔交易仍处于\"讨论—程序—未定价\"阶段，没有进入可表决的状态。10月19日特斯拉提交的股东大会委托书里，议程没有合并提案，股东在12月3日的会上没有合并事项可投；10月20日马斯克在电话会上确认两家公司都成立了特别委员会，但他只说合并是好主意、条款尚未谈成；10月22日SpaceX提交的文件同样写明，特别委员会尚未作出任何决定，交易还需委员会、董事会和马斯克本人批准。 11月3日路透社的报道补充的是薪酬与投票权安排，属于背景并非交易进展。 本文要回答三个问题，56%这个数字是怎么算出来的；谁为马斯克扩大控制权付出代价；两家公司给出的协同理由是否成立。 02 两套投票规则：一股一票vs三类股 在特斯拉，马斯克的影响力来自持股、管理职位以及其他股东的支持。公司只有一类普通股，一股一票，没有超级投票权；截至6月30日，他持有特斯拉19.",
+    "id": "news--1794440951000",
+    "title": " 光伏起落，人性不变 ",
+    "link": "https://www.huxiu.com/article/4904894.html?f=rss",
+    "summary": "本文来自微信公众号： 黑鹰光伏 ，作者：王亮 江南 人，不能两次踏进同一条河流？ 马克·吐温说：“历史不会重演，但总会惊人相似！” 黑格尔有一句名言：“人类不会从历史中得到教训，只会不停的重复历史”。 过去四分之一个世纪，我们的光伏干到了妥妥的世界第一。从几百数千人的从业者，到几十万人几百人乃至关联千万人，前仆后继，成就了伟大的事业。 早在八年前从531新政后，有很多人说，跨越那次周期，光伏就迈入“成人礼”。但火候还是不够，唯有经历2023年以来的这次产业“极寒”，光伏的“成人礼”才算完结。 回头看，每次周期与洗牌，一些似曾相识的“浮世绘”一次次上演；产业起起落落，人性似乎从未改变。当然，包括我们，多数回溯总结都是“马后炮”，悲观者正确，乐观者前行，世界终将属于长期的乐观主义者。 一切问题，仅是发展中的问题，都只是“少年维特的烦恼”。 【壹】昔日“小甜甜”，今朝“牛夫人” 这是无数地方政府第一次“偏爱”光伏吗？不是！当年赛维、尚德这些第一批明星企业如何崛起的？其受到的重视和“优待”相比现在的招商引资有过之而无不及。 地方政府历来喜欢找到具有资本和商业管理意识且有名望的人或组织来代表“政府”，把各种资源，包括政策、资本、技术、市场整合在一起，强力支持企业，打造地方名片。 遥想2012年，全国31个省市各地产业园达到300多家；而行业最火爆的时候，全国600多个城市把光伏作为战略性新兴",
     "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +68,91 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-3-1794397387000",
-    "title": "扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询",
-    "link": "https://www.tmtpost.com/8201522.html",
-    "summary": "扩产承压，定增补流遭问询。",
+    "id": "news-11-20-1794439200000",
+    "title": "【钛晨报】维护股票、债券、外汇等金融市场平稳运行，央行发布重要报告；腾讯全新搜索产品元宝搜索正式上线；苹果支持社区将于11月20日永久关闭",
+    "link": "https://www.tmtpost.com/8201636.html",
+    "summary": "京东内测独立短剧产品；Token首次成天猫双11独立品类，大模型厂商今日打5折；张雪机车第十万台量产车下线；马斯克：SpaceX已向Singulus订购年产能100GW的HJT设备，以打造一颗“智能太阳”；Anthropic披露一项超过100亿美元的新交易；中国将加快推进“人工智能+自然资源”深度融合；行业版商保创新药推荐清单来了，纳入6款“天价抗癌药”；国家发改委：共建“一带一路”拓展新兴领域合作，推进“小而美”项目建设；《会计改革与发展“十五五”规划》发布；中国期货业协会发布实施《期货公司衍生品交易业务交易者适当性管理指引（试行）》；财政部将在香港发行美元主权债券；中国新能源汽车销量占比持续走高",
+    "publishedAt": "2026-11-11",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-preserving-minds-and-weighing-open-ai-risks-1794402600000",
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
+    "publishedAt": "2026-11-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-j-1794439725000",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "publishedAt": "2026-11-11",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-l-d-leaders-expect-bigger-budgets-when-their-strategy-is-dir-1794430320000",
+    "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
+    "link": "https://www.hrdive.com/news/learning-leaders-expect-bigger-budgets-business-priority/874405/",
+    "summary": "As artificial intelligence changes the workplace, learning and development teams need to ensure their educational priorities are aligned with organizational goals, per a new study.",
+    "publishedAt": "2026-11-11",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-token-124-token-1794378423000",
+    "title": "从“卖Token”到“卖结果” &#124; 科技有「联想」沙龙激辩Token经济三大议题",
+    "link": "https://www.qbitai.com/2026/11/509088.html",
+    "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+    "publishedAt": "2026-11-11",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-rna-1794440265000",
+    "title": " RNA药物进入多靶点时代 ",
+    "link": "https://www.huxiu.com/article/4904892.html?f=rss",
+    "summary": "本文来自微信公众号： 医曜 ，作者：颜松 过去十年，RNA疗法的叙事几乎被“单靶点”牢牢占据：一条mRNA编码一种抗原，一条siRNA沉默一个基因，一条ASO调控一个转录本。 它足够优雅，也足够克制。 单靶点让RNA药物第一次拥有了可验证的因果链条，把一段序列送进细胞，观察一个蛋白被改变，再判断疾病是否因此被修正。正是这种克制，成就了新冠mRNA疫苗、Patisiran、Bepirovirsen和Pelacarsen等里程碑。 但疾病并不总是按单靶点生长。 肿瘤会逃逸，病毒会变异，免疫网络会代偿，代谢通路会重连。单靶点能切开一个缺口，却未必能守住战局。 于是，RNA正在从“精确制导”走向“协同作战”。多靶点不是对单靶点的否定，而是RNA语言的一次扩容：它仍然依赖序列、递送和体内表达，只是开始学会同时处理更复杂的生物学问题。 01 一组钥匙开一扇门 单靶点RNA的优势在于清晰。序列设计、CMC、药理、临床终点都能围绕一个中心展开。但它的局限也同样明显：当疾病由多个节点共同维持时，单一抑制往往只能换来短暂缓解。 多靶点RNA试图把这种“点状干预”扩展为“网络干预”。它可以是同一分子内编码多个抗原，也可以是同一递送体系共载多条功能RNA；可以是同时沉默两条致病通路，也可以是让T细胞在体内同时识别两个肿瘤抗原。 其共同目标不是简单增加靶点数量，而是提高干预的鲁棒性：当一条通路被阻断，另一条",
+    "publishedAt": "2026-11-11",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-7-12-1794410101000",
+    "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
+    "link": "https://www.tmtpost.com/8201705.html",
+    "summary": "股权融资杯水车薪，大头需银团贷款。",
     "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-launches-its-own-clipping-feature-to-spur-influencer-engag-1794358933000",
-    "title": "X launches its own clipping feature to spur influencer engagement",
-    "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-    "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+    "id": "news-jensen-huang-accused-of-having-another-affair-with-an-nvidia-1794439025000",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
@@ -106,25 +188,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-holiday-hiring-looks-different-this-year-here-s-why-1794344100000",
-    "title": "Holiday hiring looks different this year. Here’s why.",
-    "link": "https://www.hrdive.com/news/why-retail-holiday-hiring-looks-different-2026/874302/",
-    "summary": "From retailers pulling back on large hiring announcements to the creation of more part-time roles, 2026 might be a tipping point for seasonal staffing.",
-    "publishedAt": "2026-11-10",
+    "id": "news-back-to-basics-who-is-a-similarly-situated-comparator-under--1794430320000",
+    "title": "Back to Basics: Who is a ‘similarly situated comparator’ under Title VII?",
+    "link": "https://www.hrdive.com/news/back-to-basics-who-is-a-similarly-situated-comparator-under-title-vii/874423/",
+    "summary": "It&rsquo;s a key element of workplace discrimination claims, but federal courts vary in terms of how they interpret similarity, attorneys told HR Dive.",
+    "publishedAt": "2026-11-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
-    "id": "news-token-124-token-1794378423000",
-    "title": "从“卖Token”到“卖结果” &#124; 科技有「联想」沙龙激辩Token经济三大议题",
-    "link": "https://www.qbitai.com/2026/11/509088.html",
-    "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+    "id": "news-11-11-5-1794377889000",
+    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+    "link": "https://www.qbitai.com/2026/11/509085.html",
+    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
     "publishedAt": "2026-11-11",
     "source": "量子位",
     "tags": [
@@ -134,10 +215,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794402729000",
-    "title": " “雷达一哥”也卖不动了 ",
-    "link": "https://www.huxiu.com/article/4904851.html?f=rss",
-    "summary": "本文来自微信公众号： 山上 ，作者：山上团队 都要指望机器人。 作者I薛星星 编辑I何简 封面I禾赛科技 汽车市场不景气，连带着卖雷达的禾赛也吃了亏。 11月10日，禾赛科技发布2026年第三季度财报，出货量及收入双双低于指引下限，未达预期。 财报显示，当季禾赛激光雷达出货72.97万台，虽同比增长65.3%，但仍低于管理层此前预计的80万至85万台。当季营业收入10.68亿元，同比增长34.3%，也低于上季度11亿元的指引下限。 管理层在财报电话会上解释称，今年部分车企下调了销量目标，导致激光雷达采购量低于预期。与此同时，低价产品出货占比提高，也使得禾赛的收入增速明显落后于出货量。 后来者已来势汹汹，不断向“雷达一哥”发起冲击。今年第三季度，速腾聚创和图达通分别交付约59.56万台和26.89万台激光雷达，同比增幅均超过200%，远高于禾赛。 好在禾赛仍然守住了利润。第三季度，禾赛综合毛利率为41%，环比连续两季度回升。核心激光雷达业务经营利润达到1.45亿元，同比增长88%。 禾赛科技财报 但当季禾赛整体净利润仅为8079万元，同比下降68.5%。这更多受到去年同期约1.85亿元的一次性收益影响，剔除这部分收益后，今年净利润同比增长约14%。 部分利润被新业务的亏损抵消。第三季度，禾赛包括机器人动力模组及Kosmo在内的战略增长业务（SGI）收入环比翻倍至9051万元，但经营亏",
+    "id": "news-ieee-1417-1794440029000",
+    "title": " “论文工厂”冲击学术出版，IEEE单日撤回1417篇论文 ",
+    "link": "https://www.huxiu.com/article/4904891.html?f=rss",
+    "summary": "本文来自微信公众号： 深究科学 ，编译：潘展，作者：深究科学 学术论文也能明码标价？近日，全球知名学术出版机构IEEE（电气与电子工程师协会）一次性撤回1417篇会议论文，创下学术出版机构单次大规模撤稿的新纪录。 这场大规模撤稿的背后，是一个日益受到学术界关注的严峻问题：论文工厂通过社交媒体公开出售论文署名，将学术成果变成可以交易的商品。而这一灰色产业已经渗透到正规的学术出版体系之中。 01 IEEE单日撤回1417篇论文 今年10月28日，IEEE发布声明，宣布撤回一批存在学术规范问题的会议论文。Nature随后核实发现，IEEE已于10月23日一次性撤回至少1417篇论文。 这些论文并非随机筛选出来的。它们此前已经被一项研究识别，研究人员发现，这些论文与社交媒体上公开出售论文署名的广告存在关联。 该研究最初于2026年4月以预印本形式发布，随后发表于《Accountability in Research》。研究团队收集了2021—2026年间发表于IEEE会议论文集的相关论文，最终识别出2062篇与论文工厂广告存在直接或高度相似关联的论文，涉及366个IEEE会议论文集。 IEEE每年收集的可识别的存在规范问题的论文，图源：Computer Science Nature进一步分析发现，在这2062篇被标记的论文中，已有1622篇被IEEE撤回。值得注意的是，IEEE此次并未公布",
     "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794392956000",
-    "title": "超过美国，中国成巴西医疗器械最大进口来源国",
-    "link": "https://www.tmtpost.com/8201235.html",
-    "summary": "中国制造已经成为巴西医疗设备的重要供应力量。下一阶段的竞争，将更多取决于临床客户、政府采购和长期服务所能创造的利润。",
+    "id": "news--1794403928000",
+    "title": "退复星南宁、卖莱美老厂：中恒集团的收缩账",
+    "link": "https://www.tmtpost.com/8201586.html",
+    "summary": "两笔交易的绝对金额都不算高，但放在中恒集团前三季度业绩承压、持续梳理存量资产的背景下，也是一个战略信号。",
     "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
@@ -174,24 +255,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-acquires-odessia-travel-startup-created-by-sonder-fou-1794344932000",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "publishedAt": "2026-11-10",
+    "id": "news-why-the-data-center-you-dread-might-never-even-be-built-1794428115000",
+    "title": "Why the data center you dread might never even be built",
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+    "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-ai-leadership-training-tools-are-most-effective-when-paired--1794344100000",
-    "title": "AI leadership training tools are most effective when paired with managerial support",
-    "link": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
-    "summary": "As HR professionals look to fill upper-level executive positions, the best development programs combine technology with real-world experiences, per a study.",
-    "publishedAt": "2026-11-10",
+    "id": "news-be-proactive-on-pay-bands-promotion-ladders-and-performance--1794412620000",
+    "title": "Be proactive on pay bands, promotion ladders and performance parameters, attorneys say",
+    "link": "https://www.hrdive.com/news/pay-transparency-laws-what-hr-needs-to-know/874280/",
+    "summary": "Ten years after the pay equity and salary transparency renaissance, employment lawyers reflect on the culture of compensation.",
+    "publishedAt": "2026-11-11",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -202,10 +284,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-11-5-1794377889000",
-    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-    "link": "https://www.qbitai.com/2026/11/509085.html",
-    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+    "id": "news-30-1794368611000",
+    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+    "link": "https://www.qbitai.com/2026/11/509052.html",
+    "summary": "L4无人化作业走向规模交付",
     "publishedAt": "2026-11-11",
     "source": "量子位",
     "tags": [
@@ -215,10 +297,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-u9x-503-17km-h-32-1794402565000",
-    "title": " 仰望U9X 跑出了503.17km/h 的极速，但输给了32个字 ",
-    "link": "https://www.huxiu.com/article/4904852.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：思为，原文标题：《仰望 U9X 跑出了 503.17km/h 的极速，但输给了 32 个字》 这几天的比亚迪，赚足了欢呼与掌声。 11月6日，比亚迪宣布获得FIA认证，仰望U9X在阿布扎比E11高速封闭路段跑出503.17km/h，打破两项吉尼斯世界纪录，成为「全球首款在公共道路突破500km/h的量产车」； 11月7日，仰望鼎曜在阿布扎比酋长皇宫酒店全球首发，其山河鼎韵限量版预选价为208万元，预计将在2027年二季度开启交付；次日，光储充一体闪充站落地阿布扎比。 但就在这一连串值得庆祝的消息之外，一场发布会后的插曲，却让比亚迪粉丝「破了防」。 这究竟是怎么回事？我们一起来看看。 32个字引爆舆论 问题就出在两条加起来只有32个字的微博上。 两位受比亚迪邀请参加活动的博主，在迪拜时间11月6日晚，发布了其在哈利法塔前与极氪9X的合影，并且附带上了极氪9X在哈利法塔前的「个人照」，其中一位博主配文称「这次来迪拜很自豪的感受，真的有不少中国车在这」。 这两篇微博一经发出，就引起了轩然大波，「博主是否用着比亚迪的机酒，在活动期间帮极氪做宣传」的辩论赛迅速在互联网上铺开，甚至隐有盖过官方一系列活动风头的趋势。 真正让事情发酵的，是后续两个传闻的广泛传播。 首先是有博主爆料称，比亚迪给两位博主每人花费4万元人民币，让他们乘坐商务舱往返阿联酋参加活动，",
+    "id": "news-8-1794439703000",
+    "title": " 聪明人的8个具象化特征 ",
+    "link": "https://www.huxiu.com/article/4904883.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 我之前写过一篇文章，《 蠢的八个具象化特征 》。今天我想反过来，聊聊&ldquo;聪明&rdquo;这回事。 相比于蠢，聪明其实是更难总结的特质。我们经常能感觉到某个人很聪明，但如果要你讲清楚，他到底聪明在什么地方，你只能说出一些很模糊的词。类似于，脑子快、有想法、看得透、格局大。 但这些词的共同点是，全都没有办法具象地观察，更没办法复用、学习。 于是，我们只好退回到一些看起来更显性的指标上。比如反应速度，比如知识量，或者是智商。在这里，我们把聪明视为一种&ldquo;内在属性&rdquo;，像身高一样，可以测量。 但这些指标，其实也都不太靠谱。 认知心理学家基思&middot;斯坦诺维奇做过大量的研究，得出来一个结论，就是 智商测验测出来的那个数值，和一个人在真实生活中做出理性决策的能力，相关度相当有限。 他甚至为此造了一个词，叫&ldquo;理性障碍&rdquo;（dysrationalia）。简单来说，就是一个人明明拥有足够的认知能力，但依然在做蠢事。 你大概也在生活中见过不少这样的人，学历很好，考试能力很强，但是一遇到真实的决策，就开始凭情绪、凭直觉，靠一两句听来的话做判断。 斯坦诺维奇给出的解释是， 智力提供的是&ldquo;算力&rdquo;，而理性依赖的是&ldquo;调",
     "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
@@ -228,10 +310,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794386560000",
-    "title": "比黄仁勋婚外情更大的风暴，才刚刚到来",
-    "link": "https://www.tmtpost.com/8201240.html",
-    "summary": "这场技术革命的发展已势不可挡。",
+    "id": "news-5-3-1794397387000",
+    "title": "扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询",
+    "link": "https://www.tmtpost.com/8201522.html",
+    "summary": "扩产承压，定增补流遭问询。",
     "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
@@ -254,109 +336,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-anthropic-face-new-oversight-as-new-york-s-ai-safety--1794343933000",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "publishedAt": "2026-11-10",
+    "id": "news-meta-is-losing-its-longtime-head-of-infrastructure-1794427921000",
+    "title": "Meta is losing its longtime head of  infrastructure",
+    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-eeoc-general-counsel-nominee-dodges-gender-identity-bias-que-1794344040000",
-    "title": "EEOC general counsel nominee dodges gender identity bias questions at hearing",
-    "link": "https://www.hrdive.com/news/eeoc-hearing-catherine-eschbach/874291/",
-    "summary": "Pregnancy protections, artificial intelligence, disparate-impact discrimination and one controversial agency attorney were also the subject of senators&rsquo; questions on Tuesday.",
+    "id": "news-trump-nominates-another-eeoc-commissioner-potentially-solidi-1794344220000",
+    "title": "Trump nominates another EEOC commissioner, potentially solidifying Republican control",
+    "link": "https://www.hrdive.com/news/trump-nominates-another-eeoc-commissioner-potentially-solidifying-republic/874297/",
+    "summary": "Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
     "publishedAt": "2026-11-10",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-30-1794368611000",
-    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-    "link": "https://www.qbitai.com/2026/11/509052.html",
-    "summary": "L4无人化作业走向规模交付",
-    "publishedAt": "2026-11-11",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794402487000",
-    "title": " 华为旧部，赚了个寂寞？ ",
-    "link": "https://www.huxiu.com/article/4904836.html?f=rss",
-    "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | 视觉中国 半年赚了21亿，经营现金却流出157亿。脱胎于华为的超聚变，越赚钱，反而越缺钱 。 本周四 （11月12日） ，它将接受深交所创业板上市委审议。AI算力紧缺、国产替代叙事正热，超聚变带着服务器国内出货量第二 （市占率14.2% ）的身份，以及上半年利润暴增的利好消息闯关创业板IPO，受到市场较多关注。 招股书显示，2026年上半年归母净利润21.08亿元，约为2025年全年的两倍。 但同期经营活动现金流净额却是负值，约-156.85亿元，短期借款也从2025年末的15.63亿元攀升至180.26亿元。即， 利润在涨，现金在流出，周转靠短债撑着。 这种越赚钱，反而越缺钱的反差，是偶发还是长期情况？ 要判断这一点，先看两件事：利润增长能否持续，以及利润能否转化为现金流。 分析下来，利润上半年高增，更多来自低价库存红利的集中释放，能否延续存在疑问；与此同时，公司的服务器整机厂业务被上下游挤压的生意模式凸显，上游要预付、下游给账期，靠短债续命。 而把这两个判断叠回发行定价，估值压力就出来了。尤其是，超聚变的当下PS（市销率）高于部分同行，国产算力核心资产的标签，未必足以支撑当前溢价。 上述情况下，虽然超聚变已是国内算力基础设施头部玩家，也有脱胎于华为的x86服务器业务故事，但打新还是要谨慎。因为当它站在IPO门口，",
-    "publishedAt": "2026-11-11",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-389-34-38-9-1794386557000",
-    "title": "389家游戏工作室并购调查：34%关停，十年内关停比例达38.9%",
-    "link": "https://www.tmtpost.com/8200751.html",
-    "summary": "作室被收购之后，真的能够获得更好的发展吗？",
-    "publishedAt": "2026-11-11",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nancy-pelosi-s-replacement-is-ready-to-regulate-ai-1794243943000",
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
-    "publishedAt": "2026-11-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-proximal-ventures-raises-debut-fund-to-back-startups-bringin-1794343625000",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-    "publishedAt": "2026-11-10",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-lack-of-hiring-now-will-create-a-missing-rung-that-may-toppl-1794330960000",
-    "title": "Lack of hiring now will create a ‘missing rung’ that may topple growth",
-    "link": "https://www.hrdive.com/news/lack-of-hiring-now-will-create-a-missing-rung-that-may-topple-growth/874253/",
-    "summary": "Employers are betting on automation to cover a lack of entry-level hiring. But what happens 10 years from now when there&rsquo;s no one to promote?",
-    "publishedAt": "2026-11-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
+      "organization"
     ]
   },
   {
@@ -373,10 +377,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-fendi-1794402375000",
-    "title": " 传Fendi裁撤高客部门，转型走向何方？ ",
-    "link": "https://www.huxiu.com/article/4904850.html?f=rss",
-    "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 传Fendi裁撤高客部门，转型走向何方？》 Dior正在迎来LVMH的全力支持，但别忘了，Fendi同样需要一场转身。 据法国媒体Glitz近日报道，意大利奢侈品牌Fendi正根据全新战略框架调整私人客户关系部门，原有VIC超高价值客户团队将并入客户发展部门，私人客户公关经理职位被裁撤，引发市场的广泛关注。 撤销独立部门不等于放弃VIC业务，LVMH近期发布的Fendi全球客户发展总监招聘信息，仍将高净值客户与VIC的招募和维护列为重要职责，但原有团队的专业服务由谁承接，目前还没有明确答案。 在奢侈品行业争夺高净值客户的当下，这一调整显得反常，对于以皮草起家、依赖专业服务销售高价商品的Fendi，高客经营更是一项不能轻易削弱的能力。 随着进取型消费者收紧支出，奢侈品牌越来越依赖最有购买力的少数高净值客户，围绕这一客群，头部品牌持续加码专属晚宴与旅行体验，并提供限量产品的优先购买权，服务不断向更私密和个性化的方向延伸。 尽管VIC在人群中占比极低，却拥有惊人的消费贡献，根据波士顿咨询BCG发布的报告，占奢侈品消费人群0.1%的VIC贡献了23%的市场价值。 身处改革关键期的Fendi，本应继续强化VIC客户，却做出此项整合，这可能反映出品牌当前情况并不乐观，据Puck此前报道，Fendi今年销售表现承",
+    "id": "news--1794439504000",
+    "title": " 墨鱼旅行停摆，旅游搭子臭大街了？ ",
+    "link": "https://www.huxiu.com/article/4904890.html?f=rss",
+    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 你的旅游搭子，靠你赚钱。 01 本周，主打年轻人结伴出游的墨鱼旅行突然传出异常消息。 不少用户反映其手机软件在登录时频繁报错，页面提示无法解析服务器地址，与此同时官方网页也处于无法打开的瘫痪状态。 公开资料显示，上海墨鱼旅行社有限公司成立于2019年11月，平台打着让同频的人陪你看世界的口号，主打行前结识旅伴与行中自由组队拼团拼车。 作为较早切入旅游搭子赛道的垂类平台，墨鱼旅行如今的停摆迹象引发了外界对其资金链的诸多猜测。 透过企查查梳理工商信息可以发现，墨鱼旅行背后的资本链条早已亮起红灯。 今年9月23日，公司法定代表人马丽萍将所持有的控股母公司上海善臻文化传媒有限公司825万元股权进行了出质，而善臻传媒的监事李晓青名下更背负着4条限制高消费令。 不仅如此，墨鱼旅行与马丽萍还因借款合同纠纷被起诉，相关案件将于今年12月8日在上海市浦东新区人民法院开庭审理。 而在小红书等社交平台上，有关马丽萍拖欠供应商20万元款项乃至借机票业务与换汇名义欠债的控诉正闹得沸沸扬扬，甚至有网友专门注册了讨债账号发帖声讨，顺带爆出其早年就读商学院时只交首年学费等真假难辨的往事。 值得一提的是，旅界此前曾两次独家跟踪这家公司。 2023年11月，我们发表了《融资上亿的墨鱼旅行是野导聚集地？》，关注墨鱼队长招募和组团资质，次年2月29日，《墨鱼旅行被",
     "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +390,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-kimi-agent-1794386552000",
-    "title": "Kimi开始\"出租\"数字员工：Agent计价锚点，正从软件预算滑向人力预算",
-    "link": "https://www.tmtpost.com/8201187.html",
-    "summary": "月之暗面发布托管智能体，市场多解读为\"功能升级\"。本文判断：这不是产品迭代，是用工形态重构——AI厂商正从\"卖token\"转向\"租数字员工\"。基于\"动态性\"原理，本文提出三层形态租买决策框架，揭示计价锚点正从IT预算滑向人力预算。通用场景租是主航道，但买不会消失；垂直场景进入混合态。",
+    "id": "news--1794392956000",
+    "title": "超过美国，中国成巴西医疗器械最大进口来源国",
+    "link": "https://www.tmtpost.com/8201235.html",
+    "summary": "中国制造已经成为巴西医疗设备的重要供应力量。下一阶段的竞争，将更多取决于临床客户、政府采购和长期服务所能创造的利润。",
     "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
@@ -1089,4 +1093,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-11T13:29:16.798Z';
+export const dataFetchedAt = '2026-11-11T23:59:31.489Z';
