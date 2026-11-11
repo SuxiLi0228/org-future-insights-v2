@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-acquires-odessia-travel-startup-created-by-sonder-fou-1794344932000",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "publishedAt": "2026-11-10",
+    "id": "news-x-launches-its-own-clipping-feature-to-spur-influencer-engag-1794358933000",
+    "title": "X launches its own clipping feature to spur influencer engagement",
+    "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+    "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+    "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -54,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794334345000",
-    "title": " 印度年轻人为什么还是找不到好工作？ ",
-    "link": "https://www.huxiu.com/article/4904589.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年7月29日，印度铁路部公布了一组招聘数据：一项涉及32438个基层岗位的招聘考试，有1082.8万人参加了机考。 平均每个岗位，对应约334名考生。 这些岗位包括铁路助手、轨道养护员、道岔操作员，都是基层岗位，但工作稳定，有固定工资和相对完善的劳动保障。在印度，这已经足够让上千万年轻人挤进同一个考场。 同一时间，在南部泰米尔纳德邦的金奈，富士康的iPhone工厂每天有150多辆白色班车接送工人。约4万名员工分三班轮流生产，厂区占地160英亩，建有九栋宿舍楼。 据路透社11月10日报道，全球约四分之一的iPhone已经在印度生产，富士康和塔塔电子是这轮产业迁移的主要承接者。 一边是全球最重要的消费电子制造业向印度转移，一边是上千万人挤进铁路招聘考试。两幅景象放在一起，恰好是印度经济最值得研究的一组矛盾。 按印度储备银行2026年8月发布的专业预测机构调查，印度2026—2027财年实际GDP预计增长6.6%，在全球主要经济体中依然突出。但增长带来的新增岗位，与人口规模、教育扩张和年轻人的职业期待之间，始终存在缺口。 国际劳工组织与印度人类发展研究所2024年的联合报告显示，2022年，青年占印度全部失业人口的82.9%；受过中学及以上教育的失业青年，占全部失业人口的65.7%，2000年时这一比例还是54.2%",
-    "publishedAt": "2026-11-10",
+    "id": "news--1794370550000",
+    "title": " 最快女护士辞职一年，编制神话碎了一地 ",
+    "link": "https://www.huxiu.com/article/4904685.html?f=rss",
+    "summary": "本文来自微信公众号： 冰川思享号 ，作者：侯虹斌 虽然体制内可能是“稳定的穷”，但相比“不确定”“忽贫忽富”，更多人宁愿选择这种稳定。人对损失的敏感远高于对收益的敏感。心理学上，这是模糊厌恶、损失厌恶与控制感缺失的叠加。 11月8日上午，广西河池罗城县半程马拉松举行。曾被称为“最快女护士”的张水华以1小时15分54秒的枪声成绩获得女子组冠军，刷新赛会纪录，直接到手2万块。 而这，只是张水华普普通通的一场赛事。自10月18日西安马拉松以来，三周时间里她参加了四场比赛，三次夺冠、一次亚军，每场都有不菲的奖金。加上直播和代言收入，她已是收入颇高的运动明星。 一年前，围绕着“最快女护士”这个身份，有很多争议。大医院的护士编制，是多少人梦寐以求的，张水华却辞掉了这么稳定的工作去跑步，她是不是傻？ 到了现在，争议应该尘埃落定了。 01 去年8月底，当时还是福建医科大学附属第一医院护士的张水华，在哈尔滨马拉松上夺得国内女子组冠军。冲过终点后，她对着镜头哭诉，希望领导能够支持自己周末调休跑马拉松。出发来哈尔滨的前一天，她还帮同事顶了一轮夜班。 这段十几秒的哭泣被好事者剪了出来，在网上引起很大反响。这被一些网友解读为“绑架单位”“拿同事的休息换自己的奖牌”。后续是，大量网友打电话到医院、到卫健委，一层一层地投诉张水华。不仅她本人和家人，连同事、领导都被网暴了。后续医院发布情况说明，对张水华违规兼职获",
+    "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4000-1794321775000",
-    "title": "4000万失能老人背后，为何有笔至今算不平的照护账？",
-    "link": "https://www.tmtpost.com/8200404.html",
-    "summary": "当各方力量形成合力，居家养老才能走出“叫好不叫座”的困局，让专业、有尊严的照护，真正走进每一个有需要的家庭。",
-    "publishedAt": "2026-11-10",
+    "id": "news--1794368290000",
+    "title": "安孚、东山、复星纷纷模仿，为何国内造不出伯克希尔？",
+    "link": "https://www.tmtpost.com/8200882.html",
+    "summary": "AI退潮之际，来自一台旧机器的启示",
+    "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-anthropic-face-new-oversight-as-new-york-s-ai-safety--1794343933000",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "id": "news-openai-acquires-odessia-travel-startup-created-by-sonder-fou-1794344932000",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -135,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794329437000",
-    "title": " 中国压铸厂，开始为车企的降本买单？ ",
-    "link": "https://www.huxiu.com/article/4904586.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月5日，广东鸿图披露了一张新订单：公司已进入丰田的一体化压铸供应链。此前，它的主要相关客户是小鹏汽车。公司预计，2026年一体化压铸产品收入接近7亿元，同比增长超过20%。 同一时期，广东鸿图的利润走出了另一条曲线。前三季度营收65.02亿元，同比下降2.26%；归母净利润6068万元，同比下降71.10%。新业务在增长，整家公司赚到的钱却比去年同期少了约1.5亿元。 压力也传到了同行。文灿股份2026年上半年营收28亿元，与上年基本持平，归母净利润亏损2.16亿元，去年同期仍盈利1311万元。生产超大型压铸设备的力劲科技，截至2026年3月末财年营收56.09亿港元，净利润4952万港元，分别同比下降3.7%和87.7%。 把压铸件、压铸机与上游材料放在一起，行业的分化更加清楚。 这张表至少说明，产业链上的利润压力分布得很不均匀。 车企确定采用一项新工艺之后，可以提前选定供应商；压铸厂拿到定点，还要经历模具设计、试制、验证、量产爬坡和持续降价。订单金额代表生命周期内的潜在销售额，利润要等产品稳定交付后才能逐步兑现。 过去几年，市场谈论一体化压铸，常从减少多少个零件、砍掉多少道工序说起。2026年的财报把问题推进了一步：一项能替整车厂节省制造成本的技术，为什么没能让供应商赚到更多钱？ 一、零件更贵，工厂可能更省 一体化压铸",
-    "publishedAt": "2026-11-10",
+    "id": "news-21-10-1794370420000",
+    "title": " 21万理发店倒闭，打败托尼总监的，竟是路边10元快剪？ ",
+    "link": "https://www.huxiu.com/article/4904684.html?f=rss",
+    "summary": "本文来自微信公众号： 深氪新消费 ，作者：视频组 街边理发店的“首席设计总监”的剪发价格还要88元，超市负一楼10元快剪的队伍，已经排到了生鲜区入口。 没想到这重塑国内美发行业的，不是什么大资金的连锁品牌和高端沙龙，反而是以前看不上眼，或者看到了也不敢往里进的理发小摊儿。 点击上方视频立即观看 以下是本期视频脚本： 没人能笑着走出理发店。 但现在，轮到理发店自己笑不出来了。 2026年一季度，全国21.3万家理发店注销、关停或转让，相当于每天消失2300多家。 同期新开12.7万家，净减少8.6万家。 街边理发店的“首席设计总监”的剪发价格还要88元，超市负一楼10元快剪的队伍，已经排到了生鲜区入口。 没想到这重塑国内美发行业的，不是什么大资金的连锁品牌和高端沙龙，反而是以前看不上眼，或者看到了也不敢往里进的理发小摊儿。 几平方米的空间，两张理发椅，一面镜子，一个吸碎发的机器。 10元快剪，不洗不吹，不办卡不推销。 没有服务员，没有音乐听，甚至没有专门的收银台，顾客扫码付款，拿号排队，坐下就剪，剪完就走。 同样也是一季度，全国快剪连锁门店数量突破3.2万家，三年间增长两倍有余。 大家好，我是深氪主播，见微。深挖消费密码，氪定财富乾坤，欢迎收听深氪新消费。 从区域分布看，广东人是“剪头大户”。 一省之力独占了全国25.95%的快剪门店，广东密集的购物中心与务实的消费氛围，给这种模式提",
+    "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -148,11 +148,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794321748000",
-    "title": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
-    "link": "https://www.tmtpost.com/8200254.html",
-    "summary": "硬核办公国货，在京东11.11迎来破圈时刻。",
-    "publishedAt": "2026-11-10",
+    "id": "news-5000-1794363014000",
+    "title": "黄仁勋分手费5000亿？硅谷大佬绯闻启示录",
+    "link": "https://www.tmtpost.com/8200229.html",
+    "summary": "黄仁勋承认出轨，盘点硅谷大佬绯闻代价。",
+    "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-proximal-ventures-raises-debut-fund-to-back-startups-bringin-1794343625000",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+    "id": "news-openai-anthropic-face-new-oversight-as-new-york-s-ai-safety--1794343933000",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -215,24 +215,26 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-5-1794327428000",
-    "title": " 未来5年，水处理市场的5个新增量 ",
-    "link": "https://www.huxiu.com/article/4904585.html?f=rss",
-    "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去二十多年，水处理行业判断市场还有多大，最习惯看的一个指标是：每天还有多少万吨污水需要处理。 一个城市缺20万吨处理能力，就再建一座厂；一个工业园区企业越来越多，就扩一条处理线。处理规模越大，工程越大，设备需求越多，市场自然也越大。 这套逻辑支撑了中国水务行业很长一段时间。 但到了今天，情况正在慢慢发生变化。 问题已经不仅仅是还有多少水没有处理，而越来越变成：进来的到底是什么水？污染从哪里来？不同的水为什么要混在一起处理？出了问题能不能迅速找到源头？同样一个排放标准，放在不同河流里是不是都合适？ 这可能才是未来五年水治理市场真正值得关注的变化。 污水处理率逼近100%，补缺口空间已很小城市污水处理率，%2006201020152020202555.67%99.14%4060801002020年后只升了1.61个百分点注：城市口径，不含县城和建制镇。来源：住建部历年《城乡建设统计年鉴》；2025年《中国城市建设状况公报》更多洞察及数据，关注青山产业评论 下一轮增量，正在从建一批更大的污水厂，转换为把已经建起来的这套水治理系统，做得更细。 综合毒性与特征污染物控制 带来新一轮治理需求 传统污水处理是一门很典型的规模生意。 一座污水处理厂设计10万吨/日，只要来水大致在设计范围内，核心任务就是稳定把这10万吨水处理到标准。 所以过",
-    "publishedAt": "2026-11-10",
+    "id": "news-ai-1794370316000",
+    "title": " AI能提出真正有趣的科学问题吗？破译“学术品味” ",
+    "link": "https://www.huxiu.com/article/4904683.html?f=rss",
+    "summary": "本文来自微信公众号： PsyCulture&Science ，作者：Gu &amp; Krenn 在人类漫长的科学探索史中，最珍贵、最难以捉摸的瞬间，往往不是严谨的实验求证，而是最初那道划破认知夜空的思维火花：一个真正“有趣”的科学构想。提出一个好问题，往往比解决一个现存问题更能推动科学的范式转移。 当前，我们正处在一场史无前例的“知识大爆炸”中。全球每年发表数以百万计的学术论文，浩瀚的文献汪洋化作了一座座隔绝的学科孤岛。对身处一线的科学家而言，想要跳出固有轨道、在不同学科的交汇处发现颠覆性的灵感，正变得越来越像大海捞针。当以大语言模型（LLM）为代表的人工智能狂飙突进，人们不禁产生了一个极具野心的设想：AI能否化身科学探索的“缪斯女神”，自主构想出足以启发人类顶尖学者的前沿课题？ 2026年11月9日，德国马克斯·普朗克光学研究所与图宾根大学的研究团队在PNAS上发表了一项研究。他们不仅构建了融合5800万篇论文演进脉络的科学创意系统SciMuse，更展开了一场前所未有的实证考验：邀请马克斯·普朗克学会的110位研究组长，对AI生成的4400余个个性化跨学科科研构想进行实名制严格盲审。 这不仅是一项关于算法工程的探索，更是科学界第一次以如此严密的数据，对AI创造力与人类顶尖学术直觉展开的正面交锋。 从论文海洋中搭一张科学知识地图 要让AI提出靠谱且有深度的科研创意，绝非简单地在对",
+    "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-34-29-1794317334000",
-    "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
-    "link": "https://www.tmtpost.com/8200086.html",
-    "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
-    "publishedAt": "2026-11-10",
+    "id": "news-2026-ai-1794361375000",
+    "title": "2026，AI应用的钱都流向了哪里？",
+    "link": "https://www.tmtpost.com/8200663.html",
+    "summary": "视频、图像和3D拿走大头。",
+    "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -254,10 +256,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-energy-gets-green-light-to-build-its-first-small-modular-n-1794343435000",
-    "title": "X-energy gets green light to build its first small modular nuclear reactors",
-    "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+    "id": "news-proximal-ventures-raises-debut-fund-to-back-startups-bringin-1794343625000",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -294,31 +296,31 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-500-1794327180000",
-    "title": " 一个小镇，竟有两家世界500强 ",
-    "link": "https://www.huxiu.com/article/4904584.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼，原文标题：《一个小镇，竟有两家世界500强！》 2021年，我去苏州调研房地产，走进吴江区的一个别墅楼盘，销售在描述该楼盘如何高端的时候，讲了这样一段话，“来这里买房的业主中，相当一部分是盛泽镇的老板”。这是我第一次听说盛泽镇。 无奈全国出名的古镇实在是太多了。江浙有周庄乌镇同里，佛山东莞有虎门长安顺德，还有景德平遥丽江西塘等闻名全国的小镇，盛泽这个平平无奇的小镇，且它还是以工业为主的乡镇，很难引起大家的注意。 直到后来，等我多次往来苏州，也跟当地朋友深入了解盛泽后，才知道这里竟然是扫地僧一样的全国强镇： 一个小镇，竟然诞生了两家世界500强：恒力、盛虹。 这当然不是运气好。盛泽镇的成功逻辑说起来也非常简单，先是靠着过去千年积累的纺织底蕴，培养出了一个拥有上千家纺织厂的庞大市场，然后其中的两家纺织厂，也就是后来的恒力、盛虹，没有待在下游内卷，而是顺着产业链一路往上游死磕，从织布、印染一路干到炼油和新材料，把整个链条攥在自己手里，最终做大做强。 一个小镇，两家世界500强。这背后的发展路径，值得所有中小城市去仔细咂摸。 盛泽小镇与世界500强巨头。 大部分人的目光总盯着北上深杭这些大城市，或者南京成都西安武汉天津这些省会城市，动辄讲政策洼地、人才高地、国家级新区……。 很少有人把注意力放到江南的小镇上。即使有人关注这些乡镇，也更多集中",
-    "publishedAt": "2026-11-10",
+    "id": "news-token-1794369708000",
+    "title": " 自费买token，打工人开始“倒贴上班” ",
+    "link": "https://www.huxiu.com/article/4904680.html?f=rss",
+    "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 今年，互联网上出现了一批新型老板：自掏腰包，雇AI上班。 比如有位小红书博主@菠萝波波，搭建了“赛博朝廷”：把写代码、审合同等流程分给“六部”掌管，他只要像批奏折一样指挥就好了。 （图源：小红书） 而相比于人的工资用人民币支付，AI消耗的是算力额度，简称Token。前些天，李佳琦在直播间热卖千问月卡，恰恰说明囤Token逐渐跟囤口红、卫生纸一样变得日常。 为此，《DT商业观察》采访了一批人，发现他们都背着一笔数额不小的“Token月供”： •有人同时开着好几个会员，每月固定支出3000元； •有人为了养得起AI，不得不另找一份副业； •还有人盯着API的谷价和峰价错峰使用，精打细算还是超了预算，只好“延迟满足”了原本要买的东西。 到底是谁在自费雇AI上班？每月花那么多钱，他们到底图什么？ 打工人，多了一笔新月供 AI正在成为打工人的标配。 据CNNIC，截至今年上半年，中国生成式AI用户规模已经超7亿，其中32.5%的用户会用它处理工作。 很多人用着用着，就回不去了——在享受到AI提效之后，再也无法忍受古法办公、手搓文档，深刻体会到什么叫“由俭入奢易，由奢入俭难”。 今年8月，中国社会科学网刊发了一名高校行政人员的自述：用AI辅助工作近一年后，她写材料的第一反应，是让豆包先搭框架；还有一位科技公司CEO调侃，ChatGPT一",
+    "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-chinese-short-dramas-own-overseas-attention-but-not-yet-the--1794312006000",
-    "title": "Chinese Short Dramas Own Overseas Attention but Not Yet the Profits",
-    "link": "https://www.tmtpost.com/8200340.html",
-    "summary": "Vertical micro-dramas from Chinese teams now command extreme mobile engagement abroad. The real product is a paid-hook, ad-bought industrial system, not cultural soft power. Thin margins, rising user-acquisition costs, and copycats will decide whether the boom becomes a lasting business.",
-    "publishedAt": "2026-11-10",
+    "id": "news--1794361251000",
+    "title": "家电三巨头的计算中心新对决",
+    "link": "https://www.tmtpost.com/8200652.html",
+    "summary": "家电三巨头的计算中心新对决",
+    "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -334,10 +336,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-all-7-anthropic-founders-will-each-cash-out-about-250m-in-ip-1794340672000",
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "id": "news-x-energy-gets-green-light-to-build-its-first-small-modular-n-1794343435000",
+    "title": "X-energy gets green light to build its first small modular nuclear reactors",
+    "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
     "publishedAt": "2026-11-10",
     "source": "TechCrunch",
     "tags": [
@@ -373,11 +375,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794327066000",
-    "title": " 不要过度神话经济在婚姻中的作用 ",
-    "link": "https://www.huxiu.com/article/4904583.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 11月8日，英伟达CEO黄仁勋写了一封全员信。 信里最重要的，是这句话：“我对妻子不忠。我的行为伤害了她和我们的孩子。对于我所做的一切，没有任何借口。” 消息很快冲上了热搜，我身边的朋友、大大小小的群聊，也都在关注和讨论这件事。我发现这些反应中，有两种观点，比较典型。 一种说，“男人有钱就变坏，意料之中。” 另一种观点是，“原配陪了快四十年，真离了分黄仁勋一半身家，也不亏。” 一个是在骂，一个是在算经济账。看起来讨论方向不同，但仔细想想看，这两种说法背后，其实藏着同一个前提。也就是，婚姻这件事，最终都可以用钱来解释。 钱多，是出轨的原因。钱多，也是受伤的补偿。钱既是病因，又是处方。 我不打算在这里评判黄仁勋的私德。那是他和家人之间的事，他们也公开请求外界给予隐私，我们理应尊重。 我真正想聊的，是从诸多讨论中折射出来的、一个更普遍的东西： 我们这个时代，正在过度神话经济在婚姻中的作用。 我们都被“婚姻经济学”说服了 有点可怕的一点是，不知道从什么时候起，我们谈到婚姻，越来越像谈一笔生意。 相亲先问房，问车，问年收入。婚前算彩礼，算嫁妆，算房本上写谁的名字。网上流行的说法是，“婚姻的本质，是两个家庭的资源整合”“爱情是锦上添花，面包才是雪中送炭”。 说实话，这些话并不是一点道理都没有。 我见过很多因为彩礼问题",
-    "publishedAt": "2026-11-10",
+    "id": "news--1794369682000",
+    "title": " 中国“最敢生”的地方，出现了 ",
+    "link": "https://www.huxiu.com/article/4904679.html?f=rss",
+    "summary": "本文来自微信公众号： 国民经略 ，作者：凯风 人口，是经济社会发展的基础条件。 01 谁是全国“最敢生”的地方？ 近日出版的《中国统计年鉴2026》，完整披露31省份人口、婚育数据，“最敢生”和“最不生”的地方同时揭榜。 去年，广东出生人口达100.3万人，连续6年成为全国唯一出生人口超百万的省份，更连续8年蝉联中国“第一生育大省”。 曾先后登顶生育第一省的河南、山东，出生人口分别回落到61.1万、51.9万人，与广东差距再度拉大。 可资对比的是，广东一省的出生人口，已超过江浙沪“包邮区”+京津的总和，对生育大盘的贡献可见一斑。 这背后，固然不乏广东作为中国人口第一大省的支撑。毕竟，人口基数越大，出生人口就越多。 不过，广东常住人口1.29亿人，约占全国9.2%，但广东对全国生育的贡献却高达12.7%，远超人口比重。 这相当于全国每8个新生儿，就有1个在广东出生。 这显然不是人口规模所能简单解释，更核心的支撑在于，广东的生育意愿更强。 这从出生率就可见一斑。去年广东人口出生率为7.82‰，位居全国第六位，且是唯一跻身前十的东部经济大省。 这一数字，不仅超过云南、广西等西部省份，更接近江苏的2倍，相当于黑龙江的3倍。 广东之所以最敢生，与相对浓厚的生育文化不无关系，但也离不开外来年轻人口的贡献。 过去几十年来，孔雀东南飞，大量年轻人奔赴广东，既壮大了南粤的劳动力基本盘，也强化了人口结",
+    "publishedAt": "2026-11-11",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -386,11 +388,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5000-1794305278000",
-    "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
-    "link": "https://www.tmtpost.com/8198486.html",
-    "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。",
-    "publishedAt": "2026-11-10",
+    "id": "news-ai-1794361248000",
+    "title": "平头哥要上市，阿里AI的第一个“大结果”",
+    "link": "https://www.tmtpost.com/8200714.html",
+    "summary": "大厂芯片再加速。",
+    "publishedAt": "2026-11-11",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -403,366 +405,373 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2611.12884v1",
-    "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+    "id": "arxiv-2611.14066v1",
+    "title": "Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals",
     "authors": [
-      "Zhaoying Pan",
-      "Yipei Wang",
-      "Shenyu Lu",
-      "Xiaoqian Wang"
+      "Min Woo Park",
+      "Sanghack Lee"
     ],
-    "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple configurations, including substantially imbalanced ones, can perform comparably to the balanced one. We further derive gradient-based directions for adjusting subgroup proportions to improve adjusted accura",
-    "link": "http://arxiv.org/abs/2611.12884v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Structural causal bandits use causal knowledge to guide exploration when reward mechanisms are unknown. This paper extends the approach to partially known causal structure, information from other environments, and realizable counterfactual actions. First, we develop graphical criteria for minimal intervention sets under Markov equivalence and characterize possibly-optimal minimal intervention sets for maximal ancestral graphs. A search algorithm finds sets that are possibly optimal in at least one graph represented by a partial ancestral graph. Second, we derive target reward bounds from source distributions through partial transportability, accounting for non-manipulable variables. Dominance relations provide further bounds for action pruning and restricted exploration, with a regret guar",
+    "link": "http://arxiv.org/abs/2611.14066v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14060v1",
+    "title": "Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3",
+    "authors": [
+      "Enhao Cui",
+      "Junzhi Yang",
+      "Yaoshun Lin",
+      "Yuhan Feng",
+      "Zijian Chen"
+    ],
+    "summary": "A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position code, or token positions and order in its language model (LLM). Ablations show the ViT code is necessary; we test sufficiency by mirroring only a position code. In Qwen2.5-VL-7B, Qwen3-VL-4B and InternVL3-2B, mirroring ViT width positions reproduces the flipped-image answer on 84.3-93.2% of CV-Bench left-right questions (Qwen2.5-VL-3B: 87.5%, partly a left fallback). With two options, this also counts disruption; a half-grid shift flips most answers too. With the ViT code intact, LLM-side id and token-order mirrors change few left-right answers in all three series (a weak id test in Qwen2.5-VL). In Qwen2.5-VL-7B the effect sits in the global-at",
+    "link": "http://arxiv.org/abs/2611.14060v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14059v1",
+    "title": "HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios",
+    "authors": [
+      "Rezwan Islam Salvi",
+      "Saiyma Sittul Muna",
+      "Mushfiqur Rahman Mushfique"
+    ],
+    "summary": "Emergencies can occur where there is no phone signal and no ambulance nearby. A small language model on a phone can be helpful in such situations, but its advice needs to be safe and accurate. We built HandsOnAid, a 4-bit Gemma 2B model fine-tuned with QLoRA on FirstAidQA dataset, a corpus of 5,550 first-aid question-answer pairs. We compared seven configurations, including the base, 4-bit and 8-bit fine-tuned models, and versions with a length floor, safety gate, or retrieval. We used a 41-pair question-answer bank with medically reviewed references that followed ANZCOR guidelines, and a strict 0-5 score rubric, with twelve safety overrides. Four frontier LLM judges (GPT-5.6 Sol, Claude Opus 5, DeepSeek V4 Pro, GLM-5.3) blindly scored every answer, with 45 hidden controls used to check ju",
+    "link": "http://arxiv.org/abs/2611.14059v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14051v1",
+    "title": "Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study",
+    "authors": [
+      "Zhikun Tao",
+      "Fangyong Jin",
+      "Junping Zhao"
+    ],
+    "summary": "Reusing key--value (KV) caches across language model updates could avoid repeated computation of shared context, but changes in model weights raise a fundamental question about what these caches preserve. We investigate direct cache reuse across four model updates, with a detailed study of DeepSeek-V4-Flash to Flash-0731. Our central finding is that caches can retain useful task information without faithfully reproducing the updated model's behavior. Retrieval accuracy varies substantially across updates, ranging from near-native performance to large losses. With source caches already available, reuse achieves median time-to-first-token speedups of $2.10$--$5.08\\times$ on three longer-prefix QA benchmarks. To characterize the behavioral differences behind these outcomes, we introduce Funct",
+    "link": "http://arxiv.org/abs/2611.14051v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.DC",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14046v1",
+    "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+    "authors": [
+      "Chenlong Wei",
+      "Hanling Wang",
+      "Chong Zhang",
+      "Qinkai Yu",
+      "Fangyu Wu",
+      "Xiaobo Jin"
+    ],
+    "summary": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model's confidence structure. To address this, we propose two complementary approaches to directly attack and defend against confidence structure deformation. First, building upon the traditional loss maximization perspective, we introduce a hybrid objective that integrates cross-entropy and KL divergence, encouraging adversarial examples to simultaneously disrupt prediction accuracy and distribution consistency. Second, we geometrically reconstruct adversarial training by generating perturbations that maximize the distribution distance on the confidence manifold. Theoretical analysis shows that the optimal perturbation direction aligns with the pr",
+    "link": "http://arxiv.org/abs/2611.14046v1",
+    "publishedAt": "2026-11-10",
     "categories": [
       "cs.LG",
       "cs.CV"
     ]
   },
   {
-    "id": "arxiv-2611.12880v1",
-    "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+    "id": "arxiv-2611.14039v1",
+    "title": "Thermodynamics of words",
     "authors": [
-      "Majdi Hassan",
-      "Marta Skreta",
-      "Dominique Beaini",
-      "Kirill Neklyudov"
+      "Klaus M. Frahm",
+      "Dima L. Shepelyansky"
     ],
-    "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in substantial wall-clock simulation time and poor hardware utilization. Deep learning offers an alternative by amortizing many integration steps into a single neural network forward pass, potentially enabling much faster simulation. However, existing supervised approaches typically require long simulated trajectory data, which restricts their applicability. In this work, we introduce Kolmogorov-Chapman Maps (KC-Maps), a method for learning the transition kernel of an SDE that rel",
-    "link": "http://arxiv.org/abs/2611.12880v1",
-    "publishedAt": "2026-11-09",
+    "summary": "We introduce the word thermalization hypothesis according to which in a literary work there are effective interactions between words that drive them to thermalization where their word frequency distribution is the same as for the phenomenon of Rayleigh-Jeans (RJ) thermalization and condensation. In this concept, the different words play a role of classical oscillators (particles) and their word frequencies, or related tokens, are analogous to certain filling factors over energy state levels. The thermalization process is characterized by the conservation of total system energy, or total number of words/tokens, and total probability norm, or total number of different words. We apply this approach to analyze 16 literary works, including Bible, complete works of Shakespeare, and data from Ame",
+    "link": "http://arxiv.org/abs/2611.14039v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.LG"
+      "cond-mat.stat-mech",
+      "cs.CL",
+      "physics.soc-ph"
     ]
   },
   {
-    "id": "arxiv-2611.12878v1",
-    "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+    "id": "arxiv-2611.14036v1",
+    "title": "MISO-BR: An Open Corpus for Misogyny Detection in Brazilian Portuguese",
     "authors": [
-      "Sreejeet Maity",
-      "Aritra Mitra"
+      "Fábio A. S. Passos",
+      "Péricles B. C. Miranda",
+      "Ana Paula Cavalcanti"
     ],
-    "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized estimates of a temporal-difference (TD) learning update direction to a server over a finite-capacity channel. Our goal is to investigate to what extent one can preserve the statistical convergence rates achievable when the channel has infinite capacity. To that end, we propose a new algorithm called Batched Adaptively Quantized TD (BAQ-TD), which uses batching to reduce the variance of the transmitted information, and adaptive quantization to encode innovations. We prove a high-probability finite-t",
-    "link": "http://arxiv.org/abs/2611.12878v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12872v1",
-    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-    "authors": [
-      "Haozhen Zhang",
-      "Bohan Liu",
-      "Jianzhu Bao",
-      "Qingyuan Liu",
-      "Haodong Yue",
-      "Xiao Li",
-      "Zi Pong Lim",
-      "Wenya Wang"
-    ],
-    "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \\textbf{\\hivemem}, a multimodal memory framework that interleaves \\textbf{\\textsc{H}}or\\textbf{\\textsc{i}}zontal Memory Expansion with \\textbf{\\textsc{Ve}}rtical Evidence Composition. For horizontal memory expansion, \\hivemem organizes memory episodes into a relational graph using textual and visual anchors, expanding semantically retrieved seeds with related neighbors to recover complementary inf",
-    "link": "http://arxiv.org/abs/2611.12872v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Misogyny is among the most prevalent forms of online hate speech directed at Brazilian users, yet open and auditable resources dedicated to it in Brazilian Portuguese remain scarce. We introduce MISO-BR, an open, documented and versioned corpus of 896 balanced social media texts annotated for binary misogyny, released with its construction protocol and reproducible baselines. The corpus combines lexicon- and target-guided scraping from X with items imported from OLID-BR, a large language model triage stage whose prompt and decoding parameters are released, and manual annotation by three annotators following a written guide. Inter-annotator reliability reaches a Fleiss' kappa of 0.788 over 816 items. Under a single fixed protocol we compare four classical classifiers (Multinomial and Bernou",
+    "link": "http://arxiv.org/abs/2611.14036v1",
+    "publishedAt": "2026-11-10",
     "categories": [
       "cs.CL",
-      "cs.AI",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12871v1",
-    "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
-    "authors": [
-      "Amey Pasarkar",
-      "Adji Bousso Dieng"
-    ],
-    "summary": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restrictive distributional assumptions. In this work, we introduce a new paradigm by formulating anomaly detection from a diversity perspective. We propose the $\\textit{Vendi Anomaly Score}$ (VAS), which detects anomalies by quantifying how much a sample changes the diversity of the dataset, as measured by the Vendi score, when removed. VAS captures both local redundancy and global data structure without relying on density estimation or partitioning heuristics. Moreover, VAS requires no hyperparamete",
-    "link": "http://arxiv.org/abs/2611.12871v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12869v1",
-    "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
-    "authors": [
-      "Julia Herbst",
-      "Simon Roschmann",
-      "Quentin Bouniot",
-      "Zeynep Akata"
-    ],
-    "summary": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to hold for newer language models. Moreover, it has been shown that representation similarity metrics can be confounded by model depth and width, requiring appropriate baselines for interpretation. In this work, we first investigate where alignment emerges between unimodal models across model layers and representation dimensions. Next, we find that the PRH capability-alignment trend persists for newer models as long as the captions are sufficiently clean and informative. Finally, we contextualize c",
-    "link": "http://arxiv.org/abs/2611.12869v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12865v1",
-    "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-    "authors": [
-      "Xinjie Shen"
-    ],
-    "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some executable shortcuts earn more reward than every compliant strategy. Encoding these conflicts in task dynamics lets us generate diverse interactive environments at scale and derive compliance feedback from execution histories. In resource and reporting workflows, task optimization increases real productivity through unauthorized resource use or raises reported scores while actual work declines. Controlled changes in the training distribution show that minority conflict exposure ",
-    "link": "http://arxiv.org/abs/2611.12865v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.AI",
-      "cs.CR"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12864v1",
-    "title": "Is Persona Generalization Predictable?",
-    "authors": [
-      "Olina Mukherjee",
-      "Arnav Goel",
-      "Aditi Raghunathan",
-      "Jacob Mitchell Springer"
-    ],
-    "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization: in-domain and out-of-domain persona rates across various fine-tuning hyperparameters follow an approximately probit-linear relationship, and the specific probit-linear relationship is surprisingly shared even across model families and model sizes, including Qwen and Llama. Training choices that leave the set of trainable parameters unchanged, such as learning rate, weight decay, and training duration, largely move models along the same line, reducing transfer mainly by weakening in-domain learning. Changing which layers are",
-    "link": "http://arxiv.org/abs/2611.12864v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12856v1",
-    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
-    "authors": [
-      "Zheng Jiang",
-      "Fang Niu",
-      "Bo Peng",
-      "Houde Qian",
-      "Wenyi Li",
-      "Deyao Hong",
-      "Mingju Gao",
-      "Yizhe Chi",
-      "Youjie Zheng",
-      "Kaisen Yang",
-      "Calvin Xiao",
-      "Lifeng Sun",
-      "Huan-ang Gao"
-    ],
-    "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them, shifting the design of system structure from developers to the model at run time. The quality of this organization therefore constitutes a distinct capability, yet existing benchmarks either measure end-to-end task completion or evaluate coordination under structures specified in advance. We formalize this capability as workflow orchestration and introduce WorkflowArena, a benchmark of 145 long-horizon tasks spanning 8 professional domains, from software engineering and formal mathematics to legal analysis and 3D produc",
-    "link": "http://arxiv.org/abs/2611.12856v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.CL",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12852v1",
-    "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
-    "authors": [
-      "Tianze Luo",
-      "Haofeng Huang",
-      "Yuan Yao"
-    ],
-    "summary": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end alternative yet often encounters training difficulties when using the standard $v$-prediction objective. Recent research attributes this difficulty to the off-manifold nature of noised targets, motivating a shift toward $x$-prediction. In this paper, we investigate this explanation through patch-wise Principal Component Analysis (PCA) and identify a bandwidth bottleneck. The velocity in minor components is largely determined by the raw noisy input, requiring deep backbones to preserve information that competes with principal-component modeling. Through controlled experiments a",
-    "link": "http://arxiv.org/abs/2611.12852v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12835v1",
-    "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
-    "authors": [
-      "Hanxiao Li",
-      "Shutong Liu",
-      "Yongjia Ma",
-      "Jiaming Ji",
-      "Juntao Dai",
-      "Shuning Zhang",
-      "Kejian Shi",
-      "Kai Chen",
-      "Pu Feng",
-      "Yuqing Ma",
-      "Qi Dou",
-      "Yaodong Yang",
-      "Xianglong Liu",
-      "Simin Li"
-    ],
-    "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, where models are evaluated mainly from final outcome, without checking the faithfulness of underlying reasoning, tool use, and environmental effects. Prior mitigations address this partial observability by predefined evaluator latent belief space or one-shot monitoring, which do not extend to free-form language space and vulnerable to stronger deceptions that evade simple monitoring. In this work, we formulate deception mitigation as an Evaluation-Side Partially Observable Extensive Form Game (e-PoG), a max-min framework in which an agent maximizes reward, a monitor minimizes",
-    "link": "http://arxiv.org/abs/2611.12835v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12834v1",
-    "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
-    "authors": [
-      "Priya Dhawka",
-      "Benjamin Wilson",
-      "Andrew Head"
-    ],
-    "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopted, human builders will shoulder the work of building and evaluating them. In this paper, we explore what this work looks like with a qualitative interview study with 15 builders of forecasting bots, sampled from among successful participants in a recent AI forecasting competition. Our analysis surfaces the challenges around (1) tuning a bot to acquire factual research, (2) implementing coherent reasoning, and (3) understanding how well one's bot actually does. During their work, builders frequently introduced complexity that did not pay off, and tested in ways that were op",
-    "link": "http://arxiv.org/abs/2611.12834v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
-      "cs.HC",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2611.12832v1",
-    "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+    "id": "arxiv-2611.14035v1",
+    "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
     "authors": [
-      "Chang Lu",
-      "Mengjiao Zhang"
+      "Minyu Zhou",
+      "Yajing Wu",
+      "Yongqiang Tang",
+      "Wang Jia",
+      "Wensheng Zhang"
     ],
-    "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on synthetic biographies with controlled exposure counts, on their own and mixed into web text. NVFP4 needs 1.32$\\times$ and 1.52$\\times$ as many exposures as BF16 to match its recall while validation loss differs by only 0.5% and 2%, and 1.26$\\times$ and 1.30$\\times$ when both models are evaluated with BF16 matrix multiplications. Under our primary readout, the exposure cost is about 1.2$\\times$ at matched loss. Zero-mean gradient noise reproduces the cost of quantizing only the backward pass, which barely moves the loss. In a controlled experiment at twice the NVFP4 error, ",
-    "link": "http://arxiv.org/abs/2611.12832v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown that multi-scale representations derived from fixed-length patches can improve EEG representation learning. Existing frameworks commonly construct temporal scales through feature-level operations. However, these operations leave the correspondence between learned features and scale-specific characteristics of the original EEG signals implicit. Moreover, when the self-supervised objective is not aligned with the multi-scale input representations, information at some temporal scales may receive insufficient supervision during pre-training. In light of this, we propose ScaleBrain",
+    "link": "http://arxiv.org/abs/2611.14035v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.LG"
+      "cs.LG",
+      "eess.SP",
+      "q-bio.NC"
     ]
   },
   {
-    "id": "arxiv-2611.12825v1",
-    "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+    "id": "arxiv-2611.14033v1",
+    "title": "Few-Step Streaming Video Generation via Condition Shifting",
     "authors": [
-      "Jihwan Jeong",
-      "Guy Tennenholtz",
-      "Yinlam Chow",
-      "Chih-Wei Hsu",
-      "Craig Boutilier"
+      "Deyuan Liu",
+      "Jungang Li",
+      "Kaiwen Zheng",
+      "Kai Jiang",
+      "Jintao Chen",
+      "Yaole Wang",
+      "Ming Lin",
+      "Tao Lin",
+      "Jianfei Chen",
+      "Jun Zhu",
+      "Jintao Zhang"
     ],
-    "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learning (RL) due to severe credit assignment bottlenecks induced by sparse, delayed rewards. We introduce MaxIM (Maximally Informative Incremental Memory), a framework that formulates incremental summarization as a capacity-constrained, information-theoretic reward-shaping problem. Grounded in value suboptimality bounds, we show that bounding sequential information loss motivates maximizing the predictive log-likelihood of future, task-relevant targets, a variational lower bound on predictive sufficiency. We introduce a recursive consistency condition to ensure summaries are gro",
-    "link": "http://arxiv.org/abs/2611.12825v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator. The original text condition selects generation, while a shifted condition selects fake estimation using the same parameters. This removes the independent fake network while retaining S2-Avatar's frozen reference teacher, Self-Replay Forcing, and perceptual regularization. We evaluate APEX on 180-second videos using three backbone evaluations per block and a one-step spatial Refiner, with a 70-cas",
+    "link": "http://arxiv.org/abs/2611.14033v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.AI",
-      "cs.LG"
+      "cs.CV",
+      "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2611.12820v1",
-    "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+    "id": "arxiv-2611.14019v1",
+    "title": "Program-Aided Patchable Skill Evolution",
     "authors": [
-      "Paul Litvak"
+      "Jiahao Wang",
+      "Yuqi Xiong",
+      "Qing Yang",
+      "Zhipeng Xu",
+      "Zhenghao Liu",
+      "Zulong Chen",
+      "Yubin Bao"
     ],
-    "summary": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system caught 71 of the 100 errors, while the worst caught 30. Pooling every system's output caught 93. Models are only partly correlated in the errors they find, which makes ensembling a big lever for finding issues in papers. Seven errors could not be caught by any system, and all seven were omissions: information deleted from a paper rather than mistakes inserted into it. Refine.ink contributes more unique catches than any other single system, though it is expensive on a per-error basis. False positives were not measured, and how this error distribution compares to the distribution of errors in real",
-    "link": "http://arxiv.org/abs/2611.12820v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Agent skills have emerged as an effective means of enabling LLM agents to solve complex, interactive tasks by encoding reusable knowledge without modifying model parameters. Recent approaches further improve skill adaptation by distilling reusable experience from agent execution trajectories and evolving skills based on downstream task feedback. However, existing methods primarily represent skills as natural language documents, intertwining procedural logic with descriptive knowledge and making skills difficult to maintain and evolve. To address this limitation, we propose PASE (Program-Aided Patchable Skill Evolution), a program-aided framework that iteratively evolves skills by associating them with executable programs. Unlike prior approaches that encode trajectory-derived experience pr",
+    "link": "http://arxiv.org/abs/2611.14019v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14018v1",
+    "title": "Interleaving anatomical inspection and diagnostic reasoning for explainable radiology report generation",
+    "authors": [
+      "Chentao Huang",
+      "Runlong Lin",
+      "Zhijun Wang",
+      "Yunxiang Li",
+      "Yuanyuan Sun",
+      "Jian Wang",
+      "Hongfei Lin",
+      "Ling Luo"
+    ],
+    "summary": "Automated radiology report generation can draft clinically plausible reports, yet the pathway from visual evidence to reported findings remains opaque, leaving the diagnostic basis of these reports unexplained and the generated reports difficult to review or revise. We introduce ARIVE (Anatomy-guided Reasoning with Interleaved Visual Evidence), an explainable report generation framework that interleaves anatomical inspection with diagnostic reasoning prior to final report composition. To support this process, we constructed 159,416 multimodal chain-of-thought (MCoT) trajectories from MIMIC-CXR, wherein visual evidence from inspected anatomical regions informs subsequent clinical interpretation. Trained on these trajectories and further optimized using anatomical and clinical-content reward",
+    "link": "http://arxiv.org/abs/2611.14018v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14017v1",
+    "title": "Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment",
+    "authors": [
+      "Yupeng Han",
+      "Kai Zhang",
+      "Shuochen Liu",
+      "Ze Liu",
+      "Xianquan Wang",
+      "Zhihong Pan",
+      "Xiangyu Zhao",
+      "Qi Liu",
+      "Enhong Chen"
+    ],
+    "summary": "Long-horizon personalized agents maintain an evolving memory by continuously deciding what to add, modify, or discard. However, learning an optimal update policy remains challenging. Conventional training relies solely on terminal question-answering accuracy, yielding a coarse feedback signal that treats all intermediate updates identically. Furthermore, update utility is inherently user-specific, as identical memory actions may yield opposite effects across different user personas. Existing methods fail to address this heterogeneity, relying on globally shared evaluation standards with at most a single scalar intermediate reward. To address these challenges, we propose \\textbf{Personalized Memory Rubrics} (\\textbf{PMR}), a framework that translates terminal feedback into fine-grained, per",
+    "link": "http://arxiv.org/abs/2611.14017v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14015v1",
+    "title": "Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards",
+    "authors": [
+      "Chi Liu",
+      "Xin Chen",
+      "Yuchuan Weng",
+      "Srinivasan Manoharan"
+    ],
+    "summary": "In reinforcement learning with verifiable rewards, a language model is rewarded for a correct final answer, and GRPO passes that reward to every token of the solution in equal measure. We instead place the credit where the model hesitated, in a method we call MCPO (Margin-Credit Policy Optimization). We measure hesitation by the top-2 margin $M=p_1-p_2$ of the policy's next-token distribution, map it to a score with two fixed thresholds, and spread each solution's advantage over its tokens so that the mean stays unchanged. The margin is read from a forward pass the trainer already performs, so the method needs no extra model evaluation and no batch statistics. We train MiniCPM5-2B-Base with LoRA for 200 steps on 2,048 DAPO-Math problems and evaluate on six competition-math benchmarks. MCPO",
+    "link": "http://arxiv.org/abs/2611.14015v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14013v1",
+    "title": "A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening",
+    "authors": [
+      "Sharan Sharmeela Karuppannan",
+      "Yoga Sri Varshan",
+      "Subin Sahayam",
+      "Umarani Jayaraman"
+    ],
+    "summary": "The arteriolar-to-venular diameter ratio (AVR) is a clinically motivated marker of retinal vascular health. We present a five-stage pipeline for AVR estimation and exploratory retinopathy screening from fundus images, with inspectable intermediate outputs at each stage. The pipeline combines vessel and artery-vein masks, optic-disc localization, vessel-calibre estimation using a minimal-chord boundary walk, and AVR computation from dominant arterial and venular branches. An explicit threshold-based rule produces the screening decision, enabling errors to be traced to individual processing stages. On an exploratory cohort of 30 HRF images, we report 96.7% accuracy, an F1-score of 0.968 and ROC-AUC of 0.978. Ablation studies and an exploratory comparison with VascX examine the effects of ves",
+    "link": "http://arxiv.org/abs/2611.14013v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.14010v1",
+    "title": "One Sequence Is Enough: Fingerprinting Language Models from Fixed-Length Integer Sequences",
+    "authors": [
+      "Fantong Meng",
+      "Chengjie Sun",
+      "Shuangjia Yang",
+      "Zhiyuan Zhao",
+      "Yansheng Pei",
+      "Xinyang Li"
+    ],
+    "summary": "Users of model APIs and third-party platforms often rely on the declared model name to identify the model responding to their requests. However, the actual model may differ from the declared one, motivating identity verification based on observable outputs. Previous studies have shown that preferences in simple numerical-choice tasks can serve as model fingerprints. We investigate whether a single fixed-length integer sequence can combine multiple numerical observations to identify its source model. For this task, we introduce NumPrint, a benchmark of 5,036 answers from 51 models, collected using Chinese, Japanese, and English prompts that request 294 integers between 1 and 355 in one response. We propose the Shallow MLP and Causal Transformer (SMCT) to capture aggregate numerical preferen",
+    "link": "http://arxiv.org/abs/2611.14010v1",
+    "publishedAt": "2026-11-10",
     "categories": [
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2611.12817v1",
-    "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+    "id": "arxiv-2611.14009v1",
+    "title": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
     "authors": [
-      "Johanna Topalis",
-      "Yannick Lemaréchal",
-      "Gabriel Couture",
-      "Hanife Ersay",
-      "Loran Nas",
-      "Balthasar Schachtner",
-      "Bastian Oliver Sabel",
-      "Michael Ingrisch",
-      "Philippe Després",
-      "Katharina Jeblick"
+      "Lirui Luo",
+      "Kelong Mao",
+      "Xinwei Yang",
+      "Rongqing Li",
+      "Luyu Chen",
+      "Kieran Wong",
+      "Yudong Guo",
+      "Xinrui Wang",
+      "Jiayin Zhu",
+      "Gu Simiu",
+      "Sulong Xu",
+      "Cong Fang"
     ],
-    "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of clinical data and expert nodule annotations. This has hindered reproducibility, comparability, and independent assessment of AI tools. To address these gaps, we present LUCQUE, a novel, large, comprehensively annotated dataset derived from LDCT lung cancer screening in Québec, which is accessible for reliable AI evaluation. METHODS: LUCQUE was curated and is hosted on PARADIM, a digital infrastructure supporting DICOM data de-identification, annotation, long-term storage and analysis. LDCT scans and clinical information were combined to a curated collection and complemented b",
-    "link": "http://arxiv.org/abs/2611.12817v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Language-model agents increasingly tackle long-horizon tasks whose interaction histories exceed the model's active context. They must therefore decide what to write down and what to read back, and when to do either. Recent work has begun to use on-policy distillation (OPD) to make memory control part of the policy, relying on memory tools and compaction protocols that lie outside either model's pre-training. However, this weakens the distillation on both sides: the teacher cannot give useful guidance on an interface it has never used, and the student samples too few meaningful memory actions for that guidance to take effect. To study this problem, we introduce Coding Agent Memory Gym II (CAMG-II), a suite of long-horizon agentic-RL environments spanning Shop, Coding, AutoResearch, General,",
+    "link": "http://arxiv.org/abs/2611.14009v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.DB",
-      "cs.AI"
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2611.12816v1",
-    "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+    "id": "arxiv-2611.14006v1",
+    "title": "Normalizing Flows for Classical Simulation of Quantum Circuits in Phase Space",
     "authors": [
-      "Tim Schnieders",
-      "Tareq Maximilian Gabriel Ahrari",
-      "Oliver Petrovic",
-      "Christian Brecher"
+      "Edward Jiang",
+      "Timothy Heightman",
+      "Marcin Płodzień"
     ],
-    "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two frameworks for extracting disassembly instructions from unstructured information sources, such as disassembly manuals. Our goal is to transform natural language text into a structured, curated and machine-readable format. We implemented and tested a rule-based Natural Language Processing (NLP) framework against a generative AI framework leveraging LLMs. The performance of both approaches was compared using real-world disassembly manuals. This work provides the necessary data foundation for developing and automating future disassembly processes.",
-    "link": "http://arxiv.org/abs/2611.12816v1",
-    "publishedAt": "2026-11-09",
+    "summary": "We present a novel framework to learn a representation of quantum circuits based on the phase space formulation of many-body systems. Given that $N$-qubit states can be represented as probability distributions on a smooth $2N$-dimensional manifold, we show how unitary gates can be parameterized as normalizing flows between these distributions, opening a new avenue for quantum circuit simulation using generative models. We evaluate our method on three common families of quantum circuits, and show that its accuracy exceeds that of current state-of-the-art neural network methods for large system sizes.",
+    "link": "http://arxiv.org/abs/2611.14006v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.12815v1",
-    "title": "Inversion-Free High-Dimensional Counterfactual Inference",
-    "authors": [
-      "Saketh Vishnubhatla",
-      "Pingchuan Ma",
-      "Shu Wan",
-      "Alimohammad Beigi",
-      "Andre Harrison",
-      "Adrienne Raglin",
-      "Huan Liu"
-    ],
-    "summary": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reason about hypothetical scenarios that cannot otherwise be answered without assumptions or a causal graph. The simpler case involves a causal graph with scalar 1-D variables that denote different attributes in the data-generation process. While the literature is clear in the 1-D case, extending this to settings with high-dimensional nodes (e.g., images) remains challenging. Conventionally, in the literature, methods recover the latent state from the factual image (inversion), generate counterfactual attributes from the graph, and render the counterfactual image from the latent state using the upd",
-    "link": "http://arxiv.org/abs/2611.12815v1",
-    "publishedAt": "2026-11-09",
-    "categories": [
+      "quant-ph",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2611.12814v1",
-    "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+    "id": "arxiv-2611.14004v1",
+    "title": "LUMIR: Decoupled Multimodal Representation Learning from Heterogeneous Data for Next-POI Recommendation",
     "authors": [
-      "Matthew Flathers",
-      "Jill Noorily",
-      "Phuong Anh Nguyen",
-      "Mark Kalinich",
-      "Mina Fallah",
-      "Victoria Lisowski",
-      "Christine Shi",
-      "Rebekah M. Bodner",
-      "Anna Simms",
-      "Mihika Hete",
-      "Meiting Chen",
-      "Samuel K. Powell",
-      "Tatum Williamson",
-      "Laura Ospina-Pinillos",
-      "Haruka Notsu",
-      "Julian Herpertz",
-      "John Torous"
+      "Zehui Wang",
+      "Wolfram Höpken",
+      "Dietmar Jannach"
     ],
-    "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician describing a patient, a caregiver describing a loved one, or a person describing themselves. Across 19 case vignettes and five questions, we collected 35,055 free-text responses, extracted every intervention named with a validated judge, and had 29 models rate the full option lists on a seven-point Likert scale for the same cases. Models largely recommend what they rate well, with recommendation behavior differing by footing, and many models offering clinicians a consultation-style response and lay users hedged, simplified advice. When asked about recommendations for a speci",
-    "link": "http://arxiv.org/abs/2611.12814v1",
-    "publishedAt": "2026-11-09",
+    "summary": "As multimodal tourism-related information collected from heterogeneous data sources has become increasingly available, learning effective representations has attracted attention for improving recommendation performance. Existing approaches often tightly couple multimodal fusion with the architecture and optimization objective of a specific downstream model, which limits the generality and reusability of the learned representations. To address these limitations, we propose LUMIR, a decoupled multimodal representation learning framework based on contrastive learning. Multimodal information collected from heterogeneous data sources is first semantically unified into a shared textual representation space using large language models (LLMs). An interaction-aware fusion mechanism is then designed",
+    "link": "http://arxiv.org/abs/2611.14004v1",
+    "publishedAt": "2026-11-10",
     "categories": [
-      "cs.CY",
-      "cs.CL",
-      "cs.HC"
+      "cs.IR",
+      "cs.LG",
+      "cs.MM"
     ]
   },
   {
-    "id": "arxiv-2611.12805v1",
-    "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+    "id": "arxiv-2611.13997v1",
+    "title": "Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models",
     "authors": [
-      "Aarya Bhave",
-      "Anushka Ajay Bhave"
+      "Xingqi Wang",
+      "Xiaoyuan Yi",
+      "Xing Xie",
+      "Jia Jia"
     ],
-    "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estimation, yet learning-based approaches face a severe bottleneck: ground-truth deformation fields are notoriously difficult to obtain for real data. We present 2D Gum-Net, an end-to-end architecture that predicts dense elastic deformation fields fully unsupervised. We transfer the Geometric Unsupervised Matching Network (Gum-Net), originally developed for 3D subtomogram alignment in cryo-electron tomography, to 2D elastic registration: all three modules are redesigned in 2D, and the rigid transformation head is replaced by a Dense Spatial Transformer that regresses a sparse co",
-    "link": "http://arxiv.org/abs/2611.12805v1",
-    "publishedAt": "2026-11-09",
+    "summary": "Large Vision-Language Models (LVLMs) have demonstrated remarkable capabilities but raise significant privacy concerns due to their abilities to infer sensitive personal information from images with high precision. While current LVLMs are relatively well aligned to protect universal privacy, e.g., credit card data, we argue that privacy is inherently personalized and context-dependent. This work pivots towards a novel task: can LVLMs achieve Inference-Time Personalized Privacy Protection (ITP$^3$), allowing users to dynamically specify privacy boundaries through language specifications? To this end, we present SPY-Bench, the first systematic assessment of ITP$^3$ ability, which comprises (1) 32,700 unique samples with image-question pairs and personalized privacy instructions across 67 cate",
+    "link": "http://arxiv.org/abs/2611.13997v1",
+    "publishedAt": "2026-11-10",
     "categories": [
       "cs.CV",
-      "cs.AI"
+      "cs.AI",
+      "cs.CL",
+      "cs.CY",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.13994v1",
+    "title": "BioXArena-Pro: a research-grade benchmark for autonomous biomedical machine learning agents",
+    "authors": [
+      "Loka Li",
+      "Duzhen Zhang",
+      "Xingbo Du",
+      "Leonard Song",
+      "Kun Zhang",
+      "Le Song"
+    ],
+    "summary": "Coding agents are increasingly proposed as autonomous builders of biomedical models, but existing benchmarks are small, near saturation or open to leaked information. We present BioXArena-Pro, 64 research-level modelling tasks from eight biomedical domains, each rebuilt from a published study; most hold out whole biological units such as species or cohorts. Across 22 agent configurations, the best scores 55.1 of 100, and the scaffold matters almost as much as the model. We re-ran a published method for every task: where the published recipe applies unchanged, the best agent and the methods tie; on rebuilt tasks the methods trail by 8.2 points, suggesting that agents gain by adapting to new data. Pretrained models (including biological foundation models) matter where the strongest agent use",
+    "link": "http://arxiv.org/abs/2611.13994v1",
+    "publishedAt": "2026-11-10",
+    "categories": [
+      "cs.LG"
     ]
   }
 ];
@@ -896,7 +905,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
     "postedAt": "2026-11-04",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137675",
@@ -1110,4 +1119,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-10T22:47:11.300Z';
+export const dataFetchedAt = '2026-11-11T04:31:38.786Z';
