@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794441000000",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "publishedAt": "2026-11-11",
+    "id": "news-who-could-replace-jensen-huang-a-highly-unscientific-list-of-1794453190000",
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -55,11 +54,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794440951000",
-    "title": " 光伏起落，人性不变 ",
-    "link": "https://www.huxiu.com/article/4904894.html?f=rss",
-    "summary": "本文来自微信公众号： 黑鹰光伏 ，作者：王亮 江南 人，不能两次踏进同一条河流？ 马克·吐温说：“历史不会重演，但总会惊人相似！” 黑格尔有一句名言：“人类不会从历史中得到教训，只会不停的重复历史”。 过去四分之一个世纪，我们的光伏干到了妥妥的世界第一。从几百数千人的从业者，到几十万人几百人乃至关联千万人，前仆后继，成就了伟大的事业。 早在八年前从531新政后，有很多人说，跨越那次周期，光伏就迈入“成人礼”。但火候还是不够，唯有经历2023年以来的这次产业“极寒”，光伏的“成人礼”才算完结。 回头看，每次周期与洗牌，一些似曾相识的“浮世绘”一次次上演；产业起起落落，人性似乎从未改变。当然，包括我们，多数回溯总结都是“马后炮”，悲观者正确，乐观者前行，世界终将属于长期的乐观主义者。 一切问题，仅是发展中的问题，都只是“少年维特的烦恼”。 【壹】昔日“小甜甜”，今朝“牛夫人” 这是无数地方政府第一次“偏爱”光伏吗？不是！当年赛维、尚德这些第一批明星企业如何崛起的？其受到的重视和“优待”相比现在的招商引资有过之而无不及。 地方政府历来喜欢找到具有资本和商业管理意识且有名望的人或组织来代表“政府”，把各种资源，包括政策、资本、技术、市场整合在一起，强力支持企业，打造地方名片。 遥想2012年，全国31个省市各地产业园达到300多家；而行业最火爆的时候，全国600多个城市把光伏作为战略性新兴",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794465094000",
+    "title": " 重新理解“内卷”：这是丰裕时代的成长阵痛 ",
+    "link": "https://www.huxiu.com/article/4905003.html?f=rss",
+    "summary": "本文来自微信公众号： 底线思维 ，作者：鲍韶山 【编者按】：近期，观察者网有多位学者就“内卷”对于企业发展的负面意义提出不同意见。例如复旦大学经济学院张军教授认为，“内卷”从某种程度上是用户驱动的中国企业技术迅速迭代的表现，具有一定的积极意义，不可一棍子打死。 对于这个话题，本文作者、澳大利亚昆士兰科技大学兼职教授、前总理陆克文政策顾问鲍韶山则鲜明地提出，传统观点将“内卷”归结为“对稀缺资源的激烈争夺”，这从根本上误判了其运行机制。真正的资源稀缺往往会推高资源所有者的回报；而“内卷”恰恰相反——在物质剩余不断增长的同时，它极大压缩了地位跃升的收益空间。“内卷”并非源于匮乏的“稀缺病”，而是物质充裕时代的“丰裕现象”；化解“内卷”的出路绝不在于人为抑制丰裕，而在于顺势疏导并消化其转型阵痛。 不同观点争鸣，供读者朋友们思考。 鲍韶山 澳大利亚昆士兰科技大学兼职教授、前总理陆克文政策顾问 2020年以来，“内卷”已成为中国公共舆论场中最具共鸣的词汇之一，但无论在中西方评论界，对这一概念的学理剖析都依然滞后。 在英文语境的讨论中，“内卷”很大程度上沦为渲染“中国经济疲软”叙事的修辞噱头——它常与“产能过剩”并列，被当作体制失灵的证据，却鲜少作为一种具有内在运行逻辑的机制得到审视。而在中文语境下，这个词确实引发了广泛的社会共鸣，成为人们宣泄教育焦虑、职场倾轧、阶层流动停滞以及深层竞争疲惫感的",
+    "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -68,11 +67,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-20-1794439200000",
-    "title": "【钛晨报】维护股票、债券、外汇等金融市场平稳运行，央行发布重要报告；腾讯全新搜索产品元宝搜索正式上线；苹果支持社区将于11月20日永久关闭",
-    "link": "https://www.tmtpost.com/8201636.html",
-    "summary": "京东内测独立短剧产品；Token首次成天猫双11独立品类，大模型厂商今日打5折；张雪机车第十万台量产车下线；马斯克：SpaceX已向Singulus订购年产能100GW的HJT设备，以打造一颗“智能太阳”；Anthropic披露一项超过100亿美元的新交易；中国将加快推进“人工智能+自然资源”深度融合；行业版商保创新药推荐清单来了，纳入6款“天价抗癌药”；国家发改委：共建“一带一路”拓展新兴领域合作，推进“小而美”项目建设；《会计改革与发展“十五五”规划》发布；中国期货业协会发布实施《期货公司衍生品交易业务交易者适当性管理指引（试行）》；财政部将在香港发行美元主权债券；中国新能源汽车销量占比持续走高",
-    "publishedAt": "2026-11-11",
+    "id": "news-300-1794464070000",
+    "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
+    "link": "https://www.tmtpost.com/8202543.html",
+    "summary": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
+    "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -94,16 +93,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-j-1794439725000",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794441000000",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -136,11 +136,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rna-1794440265000",
-    "title": " RNA药物进入多靶点时代 ",
-    "link": "https://www.huxiu.com/article/4904892.html?f=rss",
-    "summary": "本文来自微信公众号： 医曜 ，作者：颜松 过去十年，RNA疗法的叙事几乎被“单靶点”牢牢占据：一条mRNA编码一种抗原，一条siRNA沉默一个基因，一条ASO调控一个转录本。 它足够优雅，也足够克制。 单靶点让RNA药物第一次拥有了可验证的因果链条，把一段序列送进细胞，观察一个蛋白被改变，再判断疾病是否因此被修正。正是这种克制，成就了新冠mRNA疫苗、Patisiran、Bepirovirsen和Pelacarsen等里程碑。 但疾病并不总是按单靶点生长。 肿瘤会逃逸，病毒会变异，免疫网络会代偿，代谢通路会重连。单靶点能切开一个缺口，却未必能守住战局。 于是，RNA正在从“精确制导”走向“协同作战”。多靶点不是对单靶点的否定，而是RNA语言的一次扩容：它仍然依赖序列、递送和体内表达，只是开始学会同时处理更复杂的生物学问题。 01 一组钥匙开一扇门 单靶点RNA的优势在于清晰。序列设计、CMC、药理、临床终点都能围绕一个中心展开。但它的局限也同样明显：当疾病由多个节点共同维持时，单一抑制往往只能换来短暂缓解。 多靶点RNA试图把这种“点状干预”扩展为“网络干预”。它可以是同一分子内编码多个抗原，也可以是同一递送体系共载多条功能RNA；可以是同时沉默两条致病通路，也可以是让T细胞在体内同时识别两个肿瘤抗原。 其共同目标不是简单增加靶点数量，而是提高干预的鲁棒性：当一条通路被阻断，另一条",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794465083000",
+    "title": " 西班牙，正被推入“暴风眼” ",
+    "link": "https://www.huxiu.com/article/4905002.html?f=rss",
+    "summary": "本文来自微信公众号： 底线思维 ，作者：霍尔赫·雷西纳 11月11日，西班牙迎来了一场全国性总罢工。住房危机、生活成本上涨、公共服务投入不足……积累已久的社会矛盾，正在将越来越多的西班牙人推向街头。 这场罢工发生在一个特殊的政治节点。11月29日，西班牙将举行大选，执政近八年的首相佩德罗·桑切斯及其领导的左翼阵营面临严峻挑战。民调显示，以人民党和呼声党为代表的右翼阵营占据优势，而曾经借助社会抗议迅速崛起的西班牙左翼力量，如今却陷入组织分裂、选民流失和政治认同危机。 与此同时，10月28日发生在托莱多省的严重高铁追尾事故造成69人死亡，交通大臣奥斯卡·普恩特随后辞职。这场悲剧也打乱了原有的选举节奏，让原本有可能成为左翼政治动员契机的全国性罢工，面临更加复杂的局面。 从2011年席卷西班牙的“15-M运动”，到今天的住房抗议与全国性罢工，15年间，西班牙的社会运动发生了怎样的变化？为什么左翼政党未能将社会不满持续转化为政治支持？在大选前夕，右翼的崛起又意味着什么？ 围绕这些问题，观察者网与西班牙马德里康普顿斯大学政治学教授霍尔赫·雷西纳展开对话。雷西纳长期研究西班牙政治、社会运动与政治认同，2026年出版《左翼之后的左翼》（La izquierda después de la izquierda），系统分析欧洲左翼面临的结构性困境。 他认为，当前西班牙社会的不满并不只是针对某届政府，而",
+    "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -149,11 +149,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-12-1794410101000",
-    "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
-    "link": "https://www.tmtpost.com/8201705.html",
-    "summary": "股权融资杯水车薪，大头需银团贷款。",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794460620000",
+    "title": "机器人要进工厂，光靠机器人公司还不够",
+    "link": "https://www.tmtpost.com/8202019.html",
+    "summary": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
+    "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -175,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-accused-of-having-another-affair-with-an-nvidia-1794439025000",
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "id": "news-nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-j-1794439725000",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
@@ -215,11 +215,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ieee-1417-1794440029000",
-    "title": " “论文工厂”冲击学术出版，IEEE单日撤回1417篇论文 ",
-    "link": "https://www.huxiu.com/article/4904891.html?f=rss",
-    "summary": "本文来自微信公众号： 深究科学 ，编译：潘展，作者：深究科学 学术论文也能明码标价？近日，全球知名学术出版机构IEEE（电气与电子工程师协会）一次性撤回1417篇会议论文，创下学术出版机构单次大规模撤稿的新纪录。 这场大规模撤稿的背后，是一个日益受到学术界关注的严峻问题：论文工厂通过社交媒体公开出售论文署名，将学术成果变成可以交易的商品。而这一灰色产业已经渗透到正规的学术出版体系之中。 01 IEEE单日撤回1417篇论文 今年10月28日，IEEE发布声明，宣布撤回一批存在学术规范问题的会议论文。Nature随后核实发现，IEEE已于10月23日一次性撤回至少1417篇论文。 这些论文并非随机筛选出来的。它们此前已经被一项研究识别，研究人员发现，这些论文与社交媒体上公开出售论文署名的广告存在关联。 该研究最初于2026年4月以预印本形式发布，随后发表于《Accountability in Research》。研究团队收集了2021—2026年间发表于IEEE会议论文集的相关论文，最终识别出2062篇与论文工厂广告存在直接或高度相似关联的论文，涉及366个IEEE会议论文集。 IEEE每年收集的可识别的存在规范问题的论文，图源：Computer Science Nature进一步分析发现，在这2062篇被标记的论文中，已有1622篇被IEEE撤回。值得注意的是，IEEE此次并未公布",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794463508000",
+    "title": " 老黄现在的处境，跟当年的比尔·盖茨神似 ",
+    "link": "https://www.huxiu.com/article/4904998.html?f=rss",
+    "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 在过去72小时之内，黄仁勋的命运出现了戏剧性反转。11月9日，绝大多数分析师和媒体都认为，英伟达董事会罢免老黄职务的可能性很低；有机构投资者建议老黄“暂时请假”，但几乎没有人认真对待这个提议。 11月11日，《纽约时报》爆出了老黄的第二次绯闻，对象是英伟达负责医疗算力业务的副总裁Kimberly Powell.紧接着，《华尔街日报》报道英伟达董事会已经对老黄失去信心，计划发起罢免，最早有可能于当地时间12日晚上决定。 请注意，上述报道都来自严肃的、有证据的媒体，而不是某个博主的小道消息。英伟达投资人立即陷入恐慌之中，11月11日盘后股价大跌8.6%。有分析师早已正确地指出，换掉老黄将造成短期内难以挽回的损失： 老黄从英伟达成立之日就是CEO，持续三十多年，英伟达从来没有更换CEO的成功经历。 老黄从未宣布过退休计划，在此之前，英伟达董事会也从未考虑过他的继任人选。 英伟达没有严格意义上的二号位，也就是没有一个“仅次于”老黄的人选。 至于老黄子女接班一说，形同梦呓，他们的资历和威望根本不够。 老黄跟其他硅谷大厂的CEO都不一样，他就是英伟达。他是英伟达唯一的最高决策者、唯一的战略制订者、唯一的对外沟通门面。尽管他只持有公司3.58%的股份，没有超级投票权和“一票否决权”，但是除非万不得已，英伟达董事会绝不会想到换掉他。 现在",
+    "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -228,11 +228,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794403928000",
-    "title": "退复星南宁、卖莱美老厂：中恒集团的收缩账",
-    "link": "https://www.tmtpost.com/8201586.html",
-    "summary": "两笔交易的绝对金额都不算高，但放在中恒集团前三季度业绩承压、持续梳理存量资产的背景下，也是一个战略信号。",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794460380000",
+    "title": "全球每三把卷尺，就有两把来自河南的这个县",
+    "link": "https://www.tmtpost.com/8202393.html",
+    "summary": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+    "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -255,17 +255,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-why-the-data-center-you-dread-might-never-even-be-built-1794428115000",
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+    "id": "news-jensen-huang-accused-of-having-another-affair-with-an-nvidia-1794439025000",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -297,11 +296,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-8-1794439703000",
-    "title": " 聪明人的8个具象化特征 ",
-    "link": "https://www.huxiu.com/article/4904883.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 我之前写过一篇文章，《 蠢的八个具象化特征 》。今天我想反过来，聊聊&ldquo;聪明&rdquo;这回事。 相比于蠢，聪明其实是更难总结的特质。我们经常能感觉到某个人很聪明，但如果要你讲清楚，他到底聪明在什么地方，你只能说出一些很模糊的词。类似于，脑子快、有想法、看得透、格局大。 但这些词的共同点是，全都没有办法具象地观察，更没办法复用、学习。 于是，我们只好退回到一些看起来更显性的指标上。比如反应速度，比如知识量，或者是智商。在这里，我们把聪明视为一种&ldquo;内在属性&rdquo;，像身高一样，可以测量。 但这些指标，其实也都不太靠谱。 认知心理学家基思&middot;斯坦诺维奇做过大量的研究，得出来一个结论，就是 智商测验测出来的那个数值，和一个人在真实生活中做出理性决策的能力，相关度相当有限。 他甚至为此造了一个词，叫&ldquo;理性障碍&rdquo;（dysrationalia）。简单来说，就是一个人明明拥有足够的认知能力，但依然在做蠢事。 你大概也在生活中见过不少这样的人，学历很好，考试能力很强，但是一遇到真实的决策，就开始凭情绪、凭直觉，靠一两句听来的话做判断。 斯坦诺维奇给出的解释是， 智力提供的是&ldquo;算力&rdquo;，而理性依赖的是&ldquo;调",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794463200000",
+    "title": " 黄仁勋的麻烦，才刚开始 ",
+    "link": "https://www.huxiu.com/article/4904565.html?f=rss",
+    "summary": "对于黄仁勋而言，这或许是他创业三十年以来最大的认知关口。从个人声望到公司制度，黄仁勋，正在成为英伟达的风险。今天的英伟达，需要一个黄仁勋之外的答案。但问题是，这个答案有吗？",
+    "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -310,11 +309,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-3-1794397387000",
-    "title": "扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询",
-    "link": "https://www.tmtpost.com/8201522.html",
-    "summary": "扩产承压，定增补流遭问询。",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794460143000",
+    "title": "英伟达，可能失去黄仁勋",
+    "link": "https://www.tmtpost.com/8202462.html",
+    "summary": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
+    "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -336,10 +335,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-is-losing-its-longtime-head-of-infrastructure-1794427921000",
-    "title": "Meta is losing its longtime head of  infrastructure",
-    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "id": "news-why-the-data-center-you-dread-might-never-even-be-built-1794428115000",
+    "title": "Why the data center you dread might never even be built",
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
     "publishedAt": "2026-11-11",
     "source": "TechCrunch",
     "tags": [
@@ -377,11 +376,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794439504000",
-    "title": " 墨鱼旅行停摆，旅游搭子臭大街了？ ",
-    "link": "https://www.huxiu.com/article/4904890.html?f=rss",
-    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 你的旅游搭子，靠你赚钱。 01 本周，主打年轻人结伴出游的墨鱼旅行突然传出异常消息。 不少用户反映其手机软件在登录时频繁报错，页面提示无法解析服务器地址，与此同时官方网页也处于无法打开的瘫痪状态。 公开资料显示，上海墨鱼旅行社有限公司成立于2019年11月，平台打着让同频的人陪你看世界的口号，主打行前结识旅伴与行中自由组队拼团拼车。 作为较早切入旅游搭子赛道的垂类平台，墨鱼旅行如今的停摆迹象引发了外界对其资金链的诸多猜测。 透过企查查梳理工商信息可以发现，墨鱼旅行背后的资本链条早已亮起红灯。 今年9月23日，公司法定代表人马丽萍将所持有的控股母公司上海善臻文化传媒有限公司825万元股权进行了出质，而善臻传媒的监事李晓青名下更背负着4条限制高消费令。 不仅如此，墨鱼旅行与马丽萍还因借款合同纠纷被起诉，相关案件将于今年12月8日在上海市浦东新区人民法院开庭审理。 而在小红书等社交平台上，有关马丽萍拖欠供应商20万元款项乃至借机票业务与换汇名义欠债的控诉正闹得沸沸扬扬，甚至有网友专门注册了讨债账号发帖声讨，顺带爆出其早年就读商学院时只交首年学费等真假难辨的往事。 值得一提的是，旅界此前曾两次独家跟踪这家公司。 2023年11月，我们发表了《融资上亿的墨鱼旅行是野导聚集地？》，关注墨鱼队长招募和组团资质，次年2月29日，《墨鱼旅行被",
-    "publishedAt": "2026-11-11",
+    "id": "news--1794462258000",
+    "title": " 夏天变长，冬天变短：熟悉的四季正在改变 ",
+    "link": "https://www.huxiu.com/article/4904994.html?f=rss",
+    "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 “他们不知道成都以前最热就一个周，一个周需要开空调，其他时间不用。” 看到网友在社交媒体上回忆起儿时凉快的夏天，39岁的郭女士也忍不住发了评论。 20年前，来自四川泸州的郭女士在常住成都和常住重庆之间作出了选择。气候是她考虑的因素之一：比起家乡附近炎热的重庆，她更喜欢成都凉爽的夏天。在她的记忆里，那时的成都十分宜居，“家长他们还说以后要来成都避暑”。 但近几年，曾经让她选择留在这里的夏天，却渐渐变了模样。如今的夏天，空调几乎要从早开到晚。她想，如果当时知道成都会变得这么热，可能就不会留下了。 像郭女士一样，不少人也在日常生活中感受着季节的变化。有人觉得夏天越来越漫长，有人感叹春秋仿佛转瞬即逝。那些曾经熟悉的季节印象，正与当下的生活经验产生偏差。 这些看似寻常的生活变化，究竟反映着怎样的气候趋势？四季的来去与长短正在如何改变？自然界的生长节律、人们的生活又如何受到影响？而未来的四季，又将是什么模样？在这篇文章中，我们尝试用数据回答这些问题。 郭女士参与讨论的评论区截图拼图。（图源：小红书） 在四季分明的北京，春夏秋冬依次更替，但每个季节占据的时间，却并非一成不变。 回看1951至2025年的气象数据，北京的夏季总体呈现延长趋势，冬季则逐渐缩短。1951—1960年，北京的夏季平均持续95天，冬季长达159天；到了近5年，夏季平均",
+    "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -390,11 +389,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794392956000",
-    "title": "超过美国，中国成巴西医疗器械最大进口来源国",
-    "link": "https://www.tmtpost.com/8201235.html",
-    "summary": "中国制造已经成为巴西医疗设备的重要供应力量。下一阶段的竞争，将更多取决于临床客户、政府采购和长期服务所能创造的利润。",
-    "publishedAt": "2026-11-11",
+    "id": "news-80-3-mash-1794460131000",
+    "title": "华东医药的80.3%，还不是MASH的完整答案",
+    "link": "https://www.tmtpost.com/8202391.html",
+    "summary": "仍隔着几轮试验。",
+    "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -819,7 +818,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
     "postedAt": "2026-11-05",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137690",
@@ -840,7 +839,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
     "postedAt": "2026-11-05",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137689",
@@ -862,7 +861,7 @@ export const generatedJobs: JobPosting[] = [
     "source": "company_career",
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
     "postedAt": "2026-11-05",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "job-remoteok-1137686",
@@ -1093,4 +1092,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-11T23:59:31.489Z';
+export const dataFetchedAt = '2026-11-12T06:56:19.055Z';
