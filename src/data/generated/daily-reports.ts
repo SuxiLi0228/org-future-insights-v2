@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-13-auto",
+    "date": "2026-11-13",
+    "session": "auto",
+    "title": "2026-11-13 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-13-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: COP31’s climate challenge and the quest for immortality",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+      },
+      {
+        "id": "sig-2026-11-13-auto-2",
+        "emoji": "💡",
+        "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
+        "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+        "detail": "来源: TechCrunch。Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+      },
+      {
+        "id": "sig-2026-11-13-auto-3",
+        "emoji": "💡",
+        "title": "7 stories on benefits amid open enrollment",
+        "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
+        "detail": "来源: HR Dive。As healthcare costs continue to spike, it seems no amount of planning is too much.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/"
+      },
+      {
+        "id": "sig-2026-11-13-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Medical Image Segmentation: Foundation Model Adaptation vers...",
+        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co",
+        "detail": "作者: Emre Kutlusan, Yongmin Li。Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the tr",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.14519v1"
+      },
+      {
+        "id": "sig-2026-11-13-auto-5",
+        "emoji": "💼",
+        "title": "GT 正在招募 Senior Agentic AI Engineer NDA",
+        "summary": "岗位类型：业务+AI 复合岗。GT was founded in 2019 by a former Apple, Nest, and Google executive",
+        "detail": "技能要求: Python, LLM, RAG, Agent, SQL, OpenAI, LangChain。GT was founded in 2019 by a former Apple, Nest, and Google executive Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands On behalf of the client, GT is looking for a Senior Agentic AI En",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "GT"
+        ],
+        "sourceType": "tech",
+        "sourceName": "GT",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-13-1",
+        "priority": "medium",
+        "action": "关注「The Download: COP31’s climate challenge 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-13-2",
+        "priority": "low",
+        "action": "关注「Google&#8217;s latest Search upgrade pro」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-13-3",
+        "priority": "low",
+        "action": "关注「7 stories on benefits amid open enrollme」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-13-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Medical Image Segmentation: Foundat」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-13-5",
+        "priority": "medium",
+        "action": "关注「GT 正在招募 Senior Agentic AI Engineer NDA」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "GT"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 67,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-13 生成，聚合了 30 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-13 00:00 - 2026-11-13 23:59"
+  },
+  {
     "id": "report-2026-11-12-auto",
     "date": "2026-11-12",
     "session": "auto",

@@ -2,6 +2,86 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-cop31-s-climate-challenge-and-the-quest-for-imm-1794489000000",
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+    "publishedAt": "2026-11-12",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-google-8217-s-latest-search-upgrade-promises-better-answers--1794511665000",
+    "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "publishedAt": "2026-11-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
+    "title": "7 stories on benefits amid open enrollment",
+    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
+    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
+    "publishedAt": "2026-11-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-minimax-sota-4k-1794483380000",
+    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "link": "https://www.qbitai.com/2026/11/509440.html",
+    "summary": "「CAD拆解」",
+    "publishedAt": "2026-11-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794500699000",
+    "title": " 纽交所为什么接连失去美国的老牌巨头？ ",
+    "link": "https://www.huxiu.com/article/4905195.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年1月20日开盘前，纳斯达克100指数完成了一次成分股替换：阿斯利康退出，沃尔玛进入。 这两家公司在同一个月里走了相反的方向。沃尔玛在2025年12月9日把股票从纽交所转到纳斯达克，结束了53年的纽交所上市史。 阿斯利康在1月20日宣布撤下纳斯达克的美国存托股，2月2日起在纽交所直接挂牌普通股，把伦敦、斯德哥尔摩和纽约三地的股票统一成同一种。 两家交易所各收下一家巨头，指数基金的钱却只流向了其中一家。杰富瑞在沃尔玛入选前估算，指数基金和ETF调仓会带来近190亿美元的买盘。 阿斯利康换到纽交所，得到了更简单的股权结构，没有任何指数因此必须买它。 十个月后，同样的选择又出现了两次。10月20日，希尔顿宣布11月5日起转至纳斯达克，它在1946年成为第一家登陆纽交所的酒店公司。 一周后，通用汽车宣布11月17日起转板。通用1911年登陆纽交所，2009年破产后退市，2010年重新上市。宣布当天，通用股价上涨约5.5%。 希尔顿刚从Uber挖来首席技术官，通用则反复讲软件和自动驾驶，两家都想让投资者把自己当成科技公司来看。 通用的公告里还有一句更具体的话：在纳斯达克上市，公司就具备了进入纳斯达克100指数的资格。 2024年11月，Palantir宣布转板时，董事Alex Moore在社交平台上写道，转板会迫使ETF",
+    "publishedAt": "2026-11-12",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-chinese-workers-are-paying-their-own-ai-bills-to-stay-produc-1794490927000",
+    "title": "Chinese Workers Are Paying Their Own AI Bills to Stay Productive",
+    "link": "https://www.tmtpost.com/8203536.html",
+    "summary": "Generative AI has become daily infrastructure for millions of office and professional users in China. Employers rarely reimburse the subscriptions and API spend. Token costs are rising, getting harder to predict, and turning into a quiet second rent on the job.",
+    "publishedAt": "2026-11-12",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai",
+      "organization"
+    ]
+  },
+  {
     "id": "news-what-to-know-about-this-year-s-un-climate-talks-1794416400000",
     "title": "What to know about this year’s UN climate talks",
     "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
@@ -14,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-who-could-replace-jensen-huang-a-highly-unscientific-list-of-1794453190000",
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "id": "news-nectar-launches-an-ai-agent-to-automate-creator-discovery-an-1794510660000",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
     "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
@@ -41,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-ai-trae-ai-coding-1794379286000",
-    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-    "link": "https://www.qbitai.com/2026/11/509146.html",
-    "summary": "价格、门槛全打穿",
-    "publishedAt": "2026-11-11",
+    "id": "news-ai-1794480333000",
+    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+    "link": "https://www.qbitai.com/2026/11/509404.html",
+    "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+    "publishedAt": "2026-11-12",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,23 +134,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794465094000",
-    "title": " 重新理解“内卷”：这是丰裕时代的成长阵痛 ",
-    "link": "https://www.huxiu.com/article/4905003.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：鲍韶山 【编者按】：近期，观察者网有多位学者就“内卷”对于企业发展的负面意义提出不同意见。例如复旦大学经济学院张军教授认为，“内卷”从某种程度上是用户驱动的中国企业技术迅速迭代的表现，具有一定的积极意义，不可一棍子打死。 对于这个话题，本文作者、澳大利亚昆士兰科技大学兼职教授、前总理陆克文政策顾问鲍韶山则鲜明地提出，传统观点将“内卷”归结为“对稀缺资源的激烈争夺”，这从根本上误判了其运行机制。真正的资源稀缺往往会推高资源所有者的回报；而“内卷”恰恰相反——在物质剩余不断增长的同时，它极大压缩了地位跃升的收益空间。“内卷”并非源于匮乏的“稀缺病”，而是物质充裕时代的“丰裕现象”；化解“内卷”的出路绝不在于人为抑制丰裕，而在于顺势疏导并消化其转型阵痛。 不同观点争鸣，供读者朋友们思考。 鲍韶山 澳大利亚昆士兰科技大学兼职教授、前总理陆克文政策顾问 2020年以来，“内卷”已成为中国公共舆论场中最具共鸣的词汇之一，但无论在中西方评论界，对这一概念的学理剖析都依然滞后。 在英文语境的讨论中，“内卷”很大程度上沦为渲染“中国经济疲软”叙事的修辞噱头——它常与“产能过剩”并列，被当作体制失灵的证据，却鲜少作为一种具有内在运行逻辑的机制得到审视。而在中文语境下，这个词确实引发了广泛的社会共鸣，成为人们宣泄教育焦虑、职场倾轧、阶层流动停滞以及深层竞争疲惫感的",
+    "id": "news-ai-1794500241000",
+    "title": " AI 说十年内能治愈癌症，它究竟看到了什么？ ",
+    "link": "https://www.huxiu.com/article/4905193.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 2026年11月10日，Anthropic CEO Dario Amodei在IPO路演里说，如果看癌症、阿尔茨海默病、心脏病和精神疾病，它们可能会在不到十年内成为“过去的遗物”。 一种熟悉的科技叙事：AI又要“颠覆医疗”，模型再进步几代，疾病就会像旧软件里的Bug一样被修掉。 但如果认真看Amodei从2024年《Machines of Loving Grace》开始铺陈的逻辑，会发现他真正押注的是另一件事： 当AI能够持续提出假设、调用专业模型、设计实验、读取结果、再根据结果调整下一步策略时，科学发现本身会不会被改造成一种可以高速迭代的系统？ 这和“AI给医生一个建议”、“AI帮药企筛几个分子”，已经不是同一件事。 过去两年，AI已经在生物医学研究的几个关键位置取得了真实进展：预测分子结构、设计蛋白质结合分子、在海量DNA数据中发现可供验证的新模式、控制实验设备、把真实湿实验结果重新喂回下一轮探索。 但从这里到“重大疾病成为过去”，中间还隔着一条很长的链条： 科学发现→机制确认→治疗靶点→候选分子→临床前研究→人体试验→监管审批→制造与支付→患者真正获益。 AI已经开始改变这条链条的前半段。 它能不能改变后半段，才决定了这是不是一次医学革命。 一、Amodei真正预测的，是“被压缩的医学研究” 在《Machines of ",
     "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-300-1794464070000",
-    "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
-    "link": "https://www.tmtpost.com/8202543.html",
-    "summary": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
+    "id": "news--1794489813000",
+    "title": "今天起，豆包工作接入更多模型了",
+    "link": "https://www.tmtpost.com/8202629.html",
+    "summary": "11月12日，豆包工作宣布正式接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。",
     "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
@@ -93,17 +174,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794441000000",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "publishedAt": "2026-11-11",
+    "id": "news-microsoft-8217-s-outlook-email-hit-by-new-outage-1794510219000",
+    "title": "Microsoft&#8217;s Outlook email hit by new outage",
+    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -123,11 +203,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-124-token-1794378423000",
-    "title": "从“卖Token”到“卖结果” &#124; 科技有「联想」沙龙激辩Token经济三大议题",
-    "link": "https://www.qbitai.com/2026/11/509088.html",
-    "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
-    "publishedAt": "2026-11-11",
+    "id": "news-anthropic-ipo-6000-1794478289000",
+    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+    "link": "https://www.qbitai.com/2026/11/509381.html",
+    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+    "publishedAt": "2026-11-12",
     "source": "量子位",
     "tags": [
       "china",
@@ -136,23 +216,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794465083000",
-    "title": " 西班牙，正被推入“暴风眼” ",
-    "link": "https://www.huxiu.com/article/4905002.html?f=rss",
-    "summary": "本文来自微信公众号： 底线思维 ，作者：霍尔赫·雷西纳 11月11日，西班牙迎来了一场全国性总罢工。住房危机、生活成本上涨、公共服务投入不足……积累已久的社会矛盾，正在将越来越多的西班牙人推向街头。 这场罢工发生在一个特殊的政治节点。11月29日，西班牙将举行大选，执政近八年的首相佩德罗·桑切斯及其领导的左翼阵营面临严峻挑战。民调显示，以人民党和呼声党为代表的右翼阵营占据优势，而曾经借助社会抗议迅速崛起的西班牙左翼力量，如今却陷入组织分裂、选民流失和政治认同危机。 与此同时，10月28日发生在托莱多省的严重高铁追尾事故造成69人死亡，交通大臣奥斯卡·普恩特随后辞职。这场悲剧也打乱了原有的选举节奏，让原本有可能成为左翼政治动员契机的全国性罢工，面临更加复杂的局面。 从2011年席卷西班牙的“15-M运动”，到今天的住房抗议与全国性罢工，15年间，西班牙的社会运动发生了怎样的变化？为什么左翼政党未能将社会不满持续转化为政治支持？在大选前夕，右翼的崛起又意味着什么？ 围绕这些问题，观察者网与西班牙马德里康普顿斯大学政治学教授霍尔赫·雷西纳展开对话。雷西纳长期研究西班牙政治、社会运动与政治认同，2026年出版《左翼之后的左翼》（La izquierda después de la izquierda），系统分析欧洲左翼面临的结构性困境。 他认为，当前西班牙社会的不满并不只是针对某届政府，而",
+    "id": "news-ai-1794500234000",
+    "title": " 美国天然气巨头，开始抢电力公司的AI客户 ",
+    "link": "https://www.huxiu.com/article/4905187.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年10月7日，美国液化天然气出口商Venture Global又输掉了一场仲裁。 国际商会仲裁庭多数意见认定，公司在与葡萄牙能源公司Galp的长期购销合同中，延迟宣布Calcasieu Pass项目进入商业运营，构成违约。按合同条款，赔偿上限为1.7亿美元。这是它一年内输掉的第二场同类仲裁。 此前一场的对手是BP，索赔金额在37亿美元到60亿美元以上之间，赔偿听证会定在2027年5月。 争议的起点在2022年。 当时Calcasieu Pass已经开始出口LNG，但Venture Global直到2025年4月才宣布项目进入商业运营。 在将近三年的\"调试期\"里，公司不必按长协价格向长期客户交货，可以把天然气卖到现货市场。这段时间正好赶上欧洲能源危机，现货价格一度是长协价格的数倍。 10月15日，同一家公司宣布了一项新业务。它与GE Vernova、贝克休斯签订框架协议，计划采购最多16套燃气联合循环发电单元，总装机11.52GW，在路易斯安那州的自有工业基地上，直接向AI数据中心供电。 11月10日的财报电话会上，管理层给出了时间表：2028年底交付首批250MW计算容量，2031年底扩大到约5GW，2034年争取达到10GW。 管理层把这门生意叫作\"AI Utility\"。它真正要卖是比公共电网更早到达的电。",
     "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794460620000",
-    "title": "机器人要进工厂，光靠机器人公司还不够",
-    "link": "https://www.tmtpost.com/8202019.html",
-    "summary": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
+    "id": "news-5-5-flash-preview-1794489789000",
+    "title": "实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先",
+    "link": "https://www.tmtpost.com/8202831.html",
+    "summary": "百度发布最新基础模型，编程、3D 建模、知识工作、内容创作等表现突出。",
     "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
@@ -175,16 +256,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-j-1794439725000",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "publishedAt": "2026-11-11",
+    "id": "news-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-1794508763000",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -202,11 +284,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-11-5-1794377889000",
-    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-    "link": "https://www.qbitai.com/2026/11/509085.html",
-    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-    "publishedAt": "2026-11-11",
+    "id": "news-grok-spacex-1794478104000",
+    "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+    "link": "https://www.qbitai.com/2026/11/509355.html",
+    "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+    "publishedAt": "2026-11-12",
     "source": "量子位",
     "tags": [
       "china",
@@ -215,23 +297,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794463508000",
-    "title": " 老黄现在的处境，跟当年的比尔·盖茨神似 ",
-    "link": "https://www.huxiu.com/article/4904998.html?f=rss",
-    "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 在过去72小时之内，黄仁勋的命运出现了戏剧性反转。11月9日，绝大多数分析师和媒体都认为，英伟达董事会罢免老黄职务的可能性很低；有机构投资者建议老黄“暂时请假”，但几乎没有人认真对待这个提议。 11月11日，《纽约时报》爆出了老黄的第二次绯闻，对象是英伟达负责医疗算力业务的副总裁Kimberly Powell.紧接着，《华尔街日报》报道英伟达董事会已经对老黄失去信心，计划发起罢免，最早有可能于当地时间12日晚上决定。 请注意，上述报道都来自严肃的、有证据的媒体，而不是某个博主的小道消息。英伟达投资人立即陷入恐慌之中，11月11日盘后股价大跌8.6%。有分析师早已正确地指出，换掉老黄将造成短期内难以挽回的损失： 老黄从英伟达成立之日就是CEO，持续三十多年，英伟达从来没有更换CEO的成功经历。 老黄从未宣布过退休计划，在此之前，英伟达董事会也从未考虑过他的继任人选。 英伟达没有严格意义上的二号位，也就是没有一个“仅次于”老黄的人选。 至于老黄子女接班一说，形同梦呓，他们的资历和威望根本不够。 老黄跟其他硅谷大厂的CEO都不一样，他就是英伟达。他是英伟达唯一的最高决策者、唯一的战略制订者、唯一的对外沟通门面。尽管他只持有公司3.58%的股份，没有超级投票权和“一票否决权”，但是除非万不得已，英伟达董事会绝不会想到换掉他。 现在",
+    "id": "news--1794500174000",
+    "title": " 黄仁勋，是一种周期 ",
+    "link": "https://www.huxiu.com/article/4905192.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：画画、版君 掌舵33年后，这位一手将英伟达带入AI时代的创始人，离开了自己建立的公司。 11月12日，英伟达公告，黄仁勋辞任CEO，即刻生效。 此前几天，一场私人生活风波将他卷入国会问询、董事会调查和国家安全争议。 一个人的离开，为什么会成为整个科技产业的大事？ 如果把时间拨回工业革命以来的商业史，会发现这样的时刻并不陌生。 瓦特改良蒸汽机，让动力开始大规模进入工厂，洛克菲勒整合石油产业，让能源成为现代工业体系的重要支柱。 每一次生产要素发生迁移，都会有人站到产业周期的中心。 今天，这个位置属于黄仁勋。 他的黑色皮衣、英伟达的GPU，以及全球不断扩张的数据中心，共同构成了AI时代的一幅鲜明图景。 一、时代更替，主角登场 1769年，詹姆斯·瓦特获得蒸汽机改良专利。 他并不是蒸汽机的发明者，却通过独立冷凝器等关键改进，大幅提高了蒸汽机的效率。后来，他与企业家马修·博尔顿合作，将改良后的蒸汽机推向市场。 动力开始摆脱对水力和地理条件的依赖，工厂可以更自由地布局，机器也获得了持续运转的动力。 一个新的工业时代，由此有了重要的技术支点。 一个世纪后，洛克菲勒面对的是另一种资源。 1870年，他在俄亥俄州成立标准石油公司。当时美国石油工业刚刚兴起，炼油厂分散，运输成本高，市场竞争激烈。洛克菲勒没有只盯着炼油环节，而是把原油采购、炼制、铁路运输、储存和销",
     "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794460380000",
-    "title": "全球每三把卷尺，就有两把来自河南的这个县",
-    "link": "https://www.tmtpost.com/8202393.html",
-    "summary": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+    "id": "news-6600-1794488228000",
+    "title": "艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩",
+    "link": "https://www.tmtpost.com/8203361.html",
+    "summary": "从12.77亿元首版方案，到9.45亿元，再落到如今8.79亿元，大半年时间里，这轮定增经历两轮规模压缩。",
     "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
@@ -255,11 +338,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-accused-of-having-another-affair-with-an-nvidia-1794439025000",
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "publishedAt": "2026-11-11",
+    "id": "news-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-af-1794505000000",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -283,11 +366,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-1794368611000",
-    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-    "link": "https://www.qbitai.com/2026/11/509052.html",
-    "summary": "L4无人化作业走向规模交付",
-    "publishedAt": "2026-11-11",
+    "id": "news-ai-ai-1794476046000",
+    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+    "link": "https://www.qbitai.com/2026/11/509349.html",
+    "summary": "企业 AI 的难题，不只是模型够不够强",
+    "publishedAt": "2026-11-12",
     "source": "量子位",
     "tags": [
       "china",
@@ -296,10 +379,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794463200000",
-    "title": " 黄仁勋的麻烦，才刚开始 ",
-    "link": "https://www.huxiu.com/article/4904565.html?f=rss",
-    "summary": "对于黄仁勋而言，这或许是他创业三十年以来最大的认知关口。从个人声望到公司制度，黄仁勋，正在成为英伟达的风险。今天的英伟达，需要一个黄仁勋之外的答案。但问题是，这个答案有吗？",
+    "id": "news-sop-1794500046000",
+    "title": " 把高频日常写成SOP，真的非常爽 ",
+    "link": "https://www.huxiu.com/article/4905191.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《把高频日常写成 SOP，真的非常爽》 在我手机里，有一份最常用的文档，名字简单又直接，就叫《出差需要带的东西》。 文档里有这么几个分类：重要、随身物品、电子设备、办公用品、洗漱用品、换洗衣物和其他。 每一类别下面，又列了具体的物品名称。比如“重要”这一列，就只有“伸手要钱”四种东西，也就是身份证、手机、家门钥匙和钱包。 有的东西后面，还跟着一句备注，比如“充电宝：收在背包侧袋，不要塞行李箱”。这样方便随时取用，也方便坐飞机的时候过安检。 这份文档是三年前写的。我记得写它的那个晚上，我刚出差回家。那次出差又忘带了电脑充电线，可能是那一年的第四次。 写完这份文档之后，我有一种很奇怪的感觉。就很像是，家里有一个漏了很久水的水龙头，终于被修好了。 也是在那个晚上，我才想清楚一件事。真正让我难受的，其实不是忘带什么东西。而是每一次出差或者旅行之前，我都要重新想一遍“我都得带什么”。 工作多少年，就想了多少年，每次都从零开始想。临出差前一晚，着急忙慌地收拾东西，大概率还会漏掉这个、忘带那个。 在此之后，我又建立了十几个类似的清单，它们有一个很高端的名字，也就是SOP（标准作业程序）。 比如，我还有一个《存钱SOP》，工资一到手，转入个人花销账户多少钱，转到储蓄账户多少钱，多少用于理财，多少用于投资。还有《",
     "publishedAt": "2026-11-12",
     "source": "虎嗅",
     "tags": [
@@ -309,90 +392,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794460143000",
-    "title": "英伟达，可能失去黄仁勋",
-    "link": "https://www.tmtpost.com/8202462.html",
-    "summary": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
-    "publishedAt": "2026-11-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-backlash-about-data-centers-might-really-just-be-about-e-1794252933000",
-    "title": "The backlash about data centers might really just be about electricity",
-    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
-    "publishedAt": "2026-11-09",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-why-the-data-center-you-dread-might-never-even-be-built-1794428115000",
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
-    "publishedAt": "2026-11-11",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-trump-nominates-another-eeoc-commissioner-potentially-solidi-1794344220000",
-    "title": "Trump nominates another EEOC commissioner, potentially solidifying Republican control",
-    "link": "https://www.hrdive.com/news/trump-nominates-another-eeoc-commissioner-potentially-solidifying-republic/874297/",
-    "summary": "Matthew Zandi served under Harmeet Dhillon, who oversaw a complete reorganization of the Civil Rights Division within the U.S. Department of Justice.",
-    "publishedAt": "2026-11-10",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-fable-5-2-jim-fan-1794306938000",
-    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-    "link": "https://www.qbitai.com/2026/11/509032.html",
-    "summary": "",
-    "publishedAt": "2026-11-10",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794462258000",
-    "title": " 夏天变长，冬天变短：熟悉的四季正在改变 ",
-    "link": "https://www.huxiu.com/article/4904994.html?f=rss",
-    "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 “他们不知道成都以前最热就一个周，一个周需要开空调，其他时间不用。” 看到网友在社交媒体上回忆起儿时凉快的夏天，39岁的郭女士也忍不住发了评论。 20年前，来自四川泸州的郭女士在常住成都和常住重庆之间作出了选择。气候是她考虑的因素之一：比起家乡附近炎热的重庆，她更喜欢成都凉爽的夏天。在她的记忆里，那时的成都十分宜居，“家长他们还说以后要来成都避暑”。 但近几年，曾经让她选择留在这里的夏天，却渐渐变了模样。如今的夏天，空调几乎要从早开到晚。她想，如果当时知道成都会变得这么热，可能就不会留下了。 像郭女士一样，不少人也在日常生活中感受着季节的变化。有人觉得夏天越来越漫长，有人感叹春秋仿佛转瞬即逝。那些曾经熟悉的季节印象，正与当下的生活经验产生偏差。 这些看似寻常的生活变化，究竟反映着怎样的气候趋势？四季的来去与长短正在如何改变？自然界的生长节律、人们的生活又如何受到影响？而未来的四季，又将是什么模样？在这篇文章中，我们尝试用数据回答这些问题。 郭女士参与讨论的评论区截图拼图。（图源：小红书） 在四季分明的北京，春夏秋冬依次更替，但每个季节占据的时间，却并非一成不变。 回看1951至2025年的气象数据，北京的夏季总体呈现延长趋势，冬季则逐渐缩短。1951—1960年，北京的夏季平均持续95天，冬季长达159天；到了近5年，夏季平均",
-    "publishedAt": "2026-11-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-80-3-mash-1794460131000",
-    "title": "华东医药的80.3%，还不是MASH的完整答案",
-    "link": "https://www.tmtpost.com/8202391.html",
-    "summary": "仍隔着几轮试验。",
+    "id": "news-trade-desk-1794485491000",
+    "title": "Trade Desk财报超预期，华尔街乐观情绪推高股价",
+    "link": "https://www.tmtpost.com/8203436.html",
+    "summary": "至少有14位跟踪该股票的分析师在财报发布后上调了他们的目标价。",
     "publishedAt": "2026-11-12",
     "source": "钛媒体",
     "tags": [
@@ -1092,4 +1095,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-12T06:56:19.055Z';
+export const dataFetchedAt = '2026-11-12T19:29:24.064Z';
