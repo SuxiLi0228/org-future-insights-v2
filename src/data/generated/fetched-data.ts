@@ -14,32 +14,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-8217-s-latest-email-outage-turned-into-a-full-blow-1794575720000",
-    "title": "Microsoft&#8217;s latest email outage turned into a full blown global cloud crisis",
-    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-    "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "id": "news-amazon-s-new-kindle-colorsoft-is-a-premium-e-reader-with-a-p-1794610800000",
+    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
     "publishedAt": "2026-11-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "organization"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-remote-work-from-the-office-it-s-more-common-than-you-think-1794515220000",
-    "title": "‘Remote work’ from the office? It’s more common than you think.",
-    "link": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
-    "summary": "Diffuse teams and a general submission to digital platforms are undermining employers&rsquo; stated reasons for returning to the office, research from the Federal Reserve Bank of New York found.",
-    "publishedAt": "2026-11-12",
+    "id": "news-cfo-job-descriptions-are-outdated-experts-say-1794602160000",
+    "title": "CFO job descriptions are outdated, experts say",
+    "link": "https://www.hrdive.com/news/cfo-job-descriptions-are-outdated-experts-say/874616/",
+    "summary": "With finance chiefs handling a wider range of duties, including tech rollouts, traditional job descriptions continue to fall short.",
+    "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "organization",
-      "strategy"
+      "workforce"
     ]
   },
   {
@@ -56,16 +54,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794577319000",
-    "title": " 德国小厂拿下马斯克光伏订单，中国设备商为何未在列？ ",
-    "link": "https://www.huxiu.com/article/4905509.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：席菁华 马斯克的一则订单，引发A股光伏设备板震荡。 北京时间11月11日，埃隆·马斯克在社交媒体平台X上转发SpaceX推文称：“SpaceX已向德国SINGULUS订购了每年100 GW产能的HJT太阳能电池制造设备。这是为了让Starmind创造一颗有感知能力的太阳。” 当地时间11月10日，SINGULUS在官网公告，已与SpaceX签署首条HJT太阳能电池交钥匙生产线供应合同，订单金额超过6000万欧元（约合人民币4.42亿元），计划于2027年上半年交付。 订单落给德国公司，导致市场对国内光伏设备参与马斯克太阳能制造布局与拿单预期的重估。 今年3月，有媒体报道称，特斯拉正寻求从中国供应商采购约29亿美元(约合193.41亿元人民币)的光伏生产设备，迈为股份(300751.SZ)、捷佳伟创(300724.SZ)、拉普拉斯(688726.SH)被列入在谈候选。 该消息对应的是特斯拉在得州规划的地面光伏工厂Project Crystal Sun（水晶太阳项目）。该项目计划投资约101亿美元(约合673.73亿元人民币)，预计于2029年一季度投入商业运营。项目尚未最终敲定，特斯拉仍在评估其他选址。 此次与SINGULUS签约的买方为SpaceX，产品用于Starmind卫星的太空电池，二者并非同一项目。 Starmind是SpaceX规划",
+    "id": "news-10-1794610803000",
+    "title": " 一小时10元，她把自己卖给机器人 ",
+    "link": "https://www.huxiu.com/article/4905184.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜易玉琴 编辑｜苗正卿 头图｜AI 生成 10元一小时，张莉（化名）把自己&ldquo;蒸馏&rdquo;了。 她是制衣厂的一名缝纫工。几个月前，工厂给工人们发了一套新设备，外形有点像头灯，通过绑带固定在头部，前端装着一个小型摄像头。 厂里说，只要戴着它正常上班，每小时就能额外获得10元补贴。 张莉没多想。工作还是原来的工作，只是头上多了个东西，戴久了有些累，但好歹能多挣点钱。 很快，厂里几乎所有工人都戴上了设备。缝纫机照常运转，工人们每天重复着铺平布料、翻折、缝合等动作，只是这一切，如今都被头顶的摄像头记录下来。 他们只知道，自己多了一笔收入。至于这些视频最终会流向哪里、被用来做什么，很多人并不在意。 实际上， 他们正在为机器人&ldquo;打工&rdquo;。 工人头上戴着的，是Ego（Egocentric，第一人称视角）数据采集设备。它能够记录人类在真实环境中的操作过程，这些视频经过清洗、标注和处理后，可以成为训练机器人的数据原料。 眼下，具身智能行业几乎所有企业都在喊&ldquo;缺数据&rdquo;。 为了教会机器人干活，行业探索出了多条数据采集路线，包括真机遥操作、仿真生成以及无本体采集等。其中，以头戴摄像设备记录人类操作的Ego数据逐渐兴起。 相比依赖机器人本体和专门场地的采集方式，Ego数据的采集门槛更低。工厂工人、仓库分拣员、餐厅厨师，甚至普",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -96,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-israel-8217-s-vcs-see-opportunity-for-challengers-in-nvidia--1794574339000",
-    "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "id": "news-jensen-huang-s-departure-blasts-big-hole-in-ai-startup-fundi-1794609780000",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "publishedAt": "2026-11-13",
     "source": "TechCrunch",
     "tags": [
@@ -109,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ceo-exits-due-to-misconduct-have-doubled-compared-to-2024-1794515220000",
-    "title": "CEO exits due to misconduct have doubled compared to 2024",
-    "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
-    "summary": "&ldquo;It&rsquo;s not just a question of romance or morality anymore. It&rsquo;s a question of judgment,&rdquo; said Andy Challenger, chief revenue officer for Challenger, Gray &amp; Christmas.",
-    "publishedAt": "2026-11-12",
+    "id": "news-job-applicants-say-they-are-using-ai-to-discover-investigate-1794602100000",
+    "title": "Job applicants say they are using AI to discover, investigate companies",
+    "link": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+    "summary": "More than half of candidates said they declined to apply for a job after learning about a company through artificial intelligence, per a new study.",
+    "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -136,16 +135,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gdp-1794575977000",
-    "title": " GDP增速连续三年跑输全国，这五大省会，要注意了 ",
-    "link": "https://www.huxiu.com/article/4905501.html?f=rss",
-    "summary": "本文来自微信公众号： 西部城事 ，作者：西部菌，原文标题：《GDP增速连续三年跑输全国！这五大省会，要注意了》 前三季度各大城市GDP数据基本全部揭晓。 其中，在一省一域中扮演重要角色的省会（首府）城市，增速表现出现了明显分化，格局洗牌尤其明显。 01 前三季度，27个省会城市中，共有15城增速不及全国大盘，分别为： 长沙、西安、沈阳、昆明、石家庄、南昌、长春、哈尔滨、南宁、贵阳、太原、乌鲁木齐、兰州、海口、西宁。 对比去年全年，跑输全国的省会城市数量增加了2个，区域分化进一步放大。 其中，GDP体量前十的省会城市中，仅有长沙增速低于全国平均水平。 排名第11至21位的11座省会城市，则集体跑输大盘。 当然，在宏观环境承压的背景下，部分城市的增速放缓并不让人意外，阶段性回落也属经济运行中的正常现象。 但要注意的是，一些省会城市可能正在遭遇值得警惕的“低速陷阱”。 梳理发现，至少有5座省会城市自2023以来，GDP增速就持续低于全国水平，且今年前三季度依然延续“低速”状态，甚至部分城市的增速还进一步放缓。 这五座省会城市，可能和很多人的固有印象有所区别。 02 它们是： 太原、昆明、哈尔滨、南宁、南昌。 需要说明的是，这份名单，排除了一些城市。 如作为经济总量“第一省会”的广州，GDP增速实际上2023—2025年也均低于全国，但今年前三季度强势反弹，增速达到了5.7%，在27座省会",
+    "id": "news--1794587013000",
+    "title": " 汽车芯片再次告急，这次是晶圆厂不想生产了 ",
+    "link": "https://www.huxiu.com/article/4905532.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月10日，德国慕尼黑电子展上，荷兰芯片制造商安世半导体临时CEO Stefan Tilger向路透社透露，公司收到的订单需求已经远远超过产能。 安世主要生产二极管、晶体管、MOSFET等基础半导体器件，许多产品单价只有几美分，广泛应用于汽车电子和工业设备。 Tilger认为，过去几年行业对基础半导体技术的投资持续滞后，而AI数据中心正在吸引更多制造资源。 前一天，意法半导体CEO Jean-Marc Chery也发出了类似警告。他观察到，部分晶圆代工厂和封装测试企业正在调整业务结构，将资源转向回报更高的市场，传统汽车和工业芯片的供应可能因此受到影响。 两家公司的经营模式存在明显差异。安世以基础分立器件为主，意法的产品覆盖汽车MCU、功率半导体、模拟芯片和工业控制。如今，两家公司都开始担心成熟半导体的制造资源。 安世还有自身的特殊情况。2025年以来，荷兰业务与中国业务之间的控制权纠纷影响了原有生产体系。 公司正在扩大马来西亚封装测试能力，相关产能仍在恢复过程中。这也是当前安世供给紧张的重要原因。 但意法半导体的警告，使问题延伸到整个半导体产业的投资结构。 2021年，全球汽车企业经历过一轮严重缺芯。疫情、需求预测失误和供应链错配，导致多家汽车制造商减产。此后，宝马、通用、Stellantis陆续与半导体企业签订长期供货协议",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -175,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-didn-8217-t-show-confidence-in-his-successor-re-1794572903000",
-    "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "id": "news-us-government-grounds-all-flights-across-the-united-states-8-1794606278000",
+    "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+    "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+    "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
     "publishedAt": "2026-11-13",
     "source": "TechCrunch",
     "tags": [
@@ -188,18 +188,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
-    "title": "Many executives say they are worried about leading with empathy",
-    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
-    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
-    "publishedAt": "2026-11-12",
+    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
+    "title": "Week in review: Can AI root out manager bias?",
+    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+    "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -216,10 +215,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-vc-1794575582000",
-    "title": " 是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛 ",
-    "link": "https://www.huxiu.com/article/4905498.html?f=rss",
-    "summary": "本文来自微信公众号： 食栗派ChestnutMates ，编辑：山楂，作者：食栗派，原文标题：《秋天别错过！是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛》 美味步骤 菠菜、杏鲍菇都可以换成其他你喜欢的绿叶菜和菌菇。 不喜欢酱油味，烹饪时也可以不放酱油；煎好之后，单独准备一碟你喜欢的蘸水，蘸着吃。 酸奶水果，可以作为下午的点心。 酸奶推荐选无糖的，买不到希腊式酸奶，普通的酸奶也可以的。 如果不喜欢纯酸奶的酸味，推荐你用天然水果调味，比加糖、加蜂蜜调味来得更营养、更健康。 水果除了提供甜味，还能提供多种维生素、矿物质、膳食纤维和天然抗氧化物质。 新鲜水果或者原味水果干都可以。加新鲜水果的话，最好现吃现做，不要放太久。 营养贴士 提到富含抗氧化成分的蔬菜，很多人首先会想到那些颜色鲜艳的食物，比如草莓、蓝莓、紫甘蓝、紫薯和菠菜等。 确实，相较于浅色蔬果，深色蔬果通常营养价值更高，抗氧化成分也更丰富。 不过，也别因此放弃那些浅色蔬菜，比如我们今天要聊的“藕”。 一项研究采用铁离子还原法分析比较了25种蔬菜的体外抗氧化活性，莲藕的总多酚测定值排第一，在铁离子还原能力这项实验里也排第一[1]。 切开变黑，与抗氧化成分有关 大家可能都知道，藕切开放久了、或者用铁锅炒藕，会发黑变难看。这跟它丰富的酚类含量是有关系的。 藕切开后暴露在空气中，内部的多酚类物质与空气中的氧发生氧化反应，在多酚氧化酶的催",
+    "id": "news--1794586292000",
+    "title": " 黄仁勋夫人，还一言不发？ ",
+    "link": "https://www.huxiu.com/article/4905530.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 这一阵，黄家的事一天一个样。 11月8日，星期天，黄仁勋给全公司发信，认了对妻子不忠。信的后半段，他对同事、董事、合作伙伴和股东说，“领导英伟达是我一生的荣幸，我会全心投入英伟达，把大家的信任一点点挣回来”。董事会说先查，让他留任。 11月11日，星期三，事情又往下沉了一截。晚上，《纽约时报》报道，他跟公司里一位直接向他汇报的女高管，也有过婚外的关系。几分钟以后，《华尔街日报》报道，董事会准备让他走。那一天，英伟达的股票在白天还涨了将近三个点，收盘以后消息一出来，盘后一下跌了近一成。董事会当晚开会，接下了他的辞呈。 11月12日，星期四，公告出来了。黄仁勋辞去总裁、首席执行官和董事，即刻生效。首席财务官克雷斯，59岁，临时代行CEO，兼CFO。董事会也头一回有了董事长，叫哈维·琼斯，早年做过新思科技的CEO。 公告几百个字，谢了他的贡献，没说为什么走，也没提调查查出了什么。记录在历史中高份量的重要文献资料，大家都是慎重又慎重。 33年，就这么几段。我感慨：今年初，要有人能预测老黄的坠落，就是“地表最强女巫”了，可惜好像没有任何人。盛极必衰的宇宙规律，如此浅白粗暴地呈现在我们面前。从7月崩塌的韩国三星、海力士，到英伟达，都是最赚钱的公司们注定的渡劫之旅。 从“我会全心投入”到“即刻生效”，才四天，个人的大厦倾覆，快到让历史学家和小说家们",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
@@ -255,11 +254,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-democrats-launch-nvidia-investigation-write-scathing-letter--1794523371000",
-    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
-    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-    "publishedAt": "2026-11-12",
+    "id": "news-this-young-startup-wants-to-power-floating-data-centers-with-1794600444000",
+    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+    "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+    "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+    "publishedAt": "2026-11-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -268,17 +267,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
-    "title": "7 stories on benefits amid open enrollment",
-    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
-    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
-    "publishedAt": "2026-11-12",
+    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
+    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
+    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
+    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
+    "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -295,17 +293,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ceo-1794575497000",
-    "title": " AI 不是万能药，治不了CEO 的裁员病 ",
-    "link": "https://www.huxiu.com/article/4905497.html?f=rss",
-    "summary": "本文来自微信公众号： 领导者管理笔记 ，作者：张三峯，原文标题：《AI 不是万能药，治不了 CEO 的裁员病》 换一套工具，不动一套关系，是这一年最贵的自我安慰。 你手里有一张表，上面写着今年要压下来的人力成本。这张表不是你定的，但落到你手上之后，就成了你要交的东西。 这一年，交这张表多了一个体面的办法：上AI。我不想把它说成骗局，多数人是真觉得工具能解决问题。 但真正难办的那几件事——谁对结果负责、两个部门的边界谁划、出了问题找谁——一件都没被碰到。换工具反倒给了你一个不必碰它们的理由。 01 提问方式先于流程被改掉 工具还没到位，理由先到位了。 你今年报预算，大概已经答过这个问题了：这块能不能交给Agent。这一栏是立项表上新添的，答不上来，方案就先搁着，先去补一个能交代的说法。 不是因为这块活适合交给Agent，是因为「无AI不立项」这类口径在立项会上流传，渐渐被当成硬门槛：不带AI的方案不好过，带了AI的方案好交代。一个词走进公司会连着变几次形：在立项书上是通行证，在员工手册里是组织设计，到了考核表上就成了筛子。 Emburse那份《AI支出悖论》报告对得上这件事：调查了美英1500名企业决策者，58%说AI相关采购比其他软件更容易获批，62%承认曾把至少一项软件采购挂到AI项目名下以便过审。挂上去的理由，多半不是业务需要，是预算需要。这一行怎么填的，不用多解释。 一份方案",
+    "id": "news--1794586115000",
+    "title": " 今年印度版的“双十一”哑火了？ ",
+    "link": "https://www.huxiu.com/article/4905529.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月12日，印度市场研究机构Datum Intelligence公布了2026年节庆电商销售成绩：34天累计销售额1.408万亿卢比，同比增长17%，创下2023年以来最低增速，比此前预期少了920亿至1420亿卢比。 其中，智能手机销售额同比下降约15%，在整个购物节销售额中的占比，从去年的35.2%降至约25%。 按照两年的销售规模计算，去年排灯节印度电商卖出了约4224亿卢比的手机，今年只有3520亿卢比，少了704亿卢比。 剔除手机，今年印度节庆电商销售额增长约36%，增加了2784亿卢比。食品、服装、日用品和节庆商品的增长，抵消了手机市场的下滑，最终推动大促销售总额增加2080亿卢比。 Datum引用的支付数据显示，今年大促期间，印度线上零售商的银行卡交易笔数同比增长7%，支付金额却下降6%，平均单笔支付金额从6830卢比降至5970卢比，跌幅约13%。 购物的人越来越多，每笔订单的金额却在缩水。印度电商平台擅长的大促生意，开始有些吃力了。 01｜印度手机市场，被芯片涨价拖住了 手机一直是印度电商购物节的大生意。亚马逊的Great Indian Festival、Flipkart的Big Billion Days，每年都会围绕手机推出大额折扣、银行返现和免息分期，吸引消费者集中换机。 一部售价3万卢比的手机",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -335,11 +332,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-muse-can-now-place-calls-to-us-businesses-if-you-pay-1794522148000",
-    "title": "Muse can now place calls to US businesses — if you pay",
-    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "publishedAt": "2026-11-12",
+    "id": "news-ai-agent-startup-langchain-hits-3b-valuation-1794598677000",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "publishedAt": "2026-11-13",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -348,17 +345,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-wave-of-religious-discrimination-claims-is-coming-attorney-1794430500000",
-    "title": "A wave of religious discrimination claims is coming, attorneys say",
-    "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
-    "summary": "Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
-    "publishedAt": "2026-11-11",
+    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
+    "title": "Many executives say they are worried about leading with empathy",
+    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
+    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
+    "publishedAt": "2026-11-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -371,19 +369,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-6-1794575358000",
-    "title": " 喊了6年的“在中国，为中国”，奔驰真的做到了吗？ ",
-    "link": "https://www.huxiu.com/article/4905496.html?f=rss",
-    "summary": "本文来自微信公众号： 电动星球 ，作者：思为，原文标题：《喊了 6 年的「在中国，为中国」，奔驰真的做到了吗？》 「在中国，车正朝着巨大的、非常大的、大得吓人的方向发展。」 德国时间11月11日，奔驰CEO康林松分享的这个观察，今天在中文互联网广泛流传，还引得深蓝汽车董事长邓承浩的共鸣。 远在德国的行业会议，中国市场危机和电动化转型、技术变革三个话题并列为核心议题，康林松的讨论中，最核心的不是这句在德国媒体报道中被一句带过的观察，而是他后面那句成本结构「原则上要100%做到中国化」。 他后续补充称，单纯依靠全球各工厂生产、中国工厂完成整车组装的混合生产模式，在「激烈的价格战」中已经行不通。 就在这次表态前，奔驰公布的三季度财报显示，其该季度在华交付8.68万台，同比下降31%，今年前九个月奔驰在华累计交付29.7万台，同比下滑29%。 德意志银行分析师蒂姆·罗科萨在财报会上用「千刀万剐」来形容奔驰过去三年在中国市场的表现，康林松的回应是「确实经历了多次冲击」。 奔驰的遭遇并非孤例，更像是合资品牌近年来的在华缩影。压力之下，不少合资品牌都喊出了「在中国为中国」的口号，但喊口号容易，以奔驰为代表的车企到底落实到了多少？ 借着这个机会，我们来盘盘。 全新纯电E级要100%中国化？ 北京奔驰的零部件国产化率，到今天也就60%以上。 这个数字来自今年3月份北京经开区官网的报道，京津冀供应商占",
-    "publishedAt": "2026-11-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -787,6 +772,27 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137792",
+    "title": "Research Engineer Privacy and Anonymization",
+    "company": "Pragmatike",
+    "category": "pure_ai",
+    "responsibilities": [
+      "Their marketplace helps th"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "AWS"
+    ],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+    "postedAt": "2026-11-12",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137710",
     "title": "Senior Agentic AI Engineer NDA",
     "company": "GT",
@@ -1128,4 +1134,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-13T13:52:22.933Z';
+export const dataFetchedAt = '2026-11-13T23:11:50.370Z';
