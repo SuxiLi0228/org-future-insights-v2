@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-cop31-s-climate-challenge-and-the-quest-for-imm-1794489000000",
-    "title": "The Download: COP31’s climate challenge and the quest for immortality",
-    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+    "id": "news-nvidia-privately-confirmed-it-could-track-chips-to-fight-smu-1794514584000",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
     "publishedAt": "2026-11-12",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,10 +14,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-google-8217-s-latest-search-upgrade-promises-better-answers--1794511665000",
-    "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
-    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "id": "news-democrats-launch-nvidia-investigation-write-scathing-letter--1794523371000",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
     "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +27,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
-    "title": "7 stories on benefits amid open enrollment",
-    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
-    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
+    "id": "news-remote-work-from-the-office-it-s-more-common-than-you-think-1794515220000",
+    "title": "‘Remote work’ from the office? It’s more common than you think.",
+    "link": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
+    "summary": "Diffuse teams and a general submission to digital platforms are undermining employers&rsquo; stated reasons for returning to the office, research from the Federal Reserve Bank of New York found.",
     "publishedAt": "2026-11-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization",
+      "strategy"
     ]
   },
   {
@@ -54,39 +55,39 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794500699000",
-    "title": " 纽交所为什么接连失去美国的老牌巨头？ ",
-    "link": "https://www.huxiu.com/article/4905195.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年1月20日开盘前，纳斯达克100指数完成了一次成分股替换：阿斯利康退出，沃尔玛进入。 这两家公司在同一个月里走了相反的方向。沃尔玛在2025年12月9日把股票从纽交所转到纳斯达克，结束了53年的纽交所上市史。 阿斯利康在1月20日宣布撤下纳斯达克的美国存托股，2月2日起在纽交所直接挂牌普通股，把伦敦、斯德哥尔摩和纽约三地的股票统一成同一种。 两家交易所各收下一家巨头，指数基金的钱却只流向了其中一家。杰富瑞在沃尔玛入选前估算，指数基金和ETF调仓会带来近190亿美元的买盘。 阿斯利康换到纽交所，得到了更简单的股权结构，没有任何指数因此必须买它。 十个月后，同样的选择又出现了两次。10月20日，希尔顿宣布11月5日起转至纳斯达克，它在1946年成为第一家登陆纽交所的酒店公司。 一周后，通用汽车宣布11月17日起转板。通用1911年登陆纽交所，2009年破产后退市，2010年重新上市。宣布当天，通用股价上涨约5.5%。 希尔顿刚从Uber挖来首席技术官，通用则反复讲软件和自动驾驶，两家都想让投资者把自己当成科技公司来看。 通用的公告里还有一句更具体的话：在纳斯达克上市，公司就具备了进入纳斯达克100指数的资格。 2024年11月，Palantir宣布转板时，董事Alex Moore在社交平台上写道，转板会迫使ETF",
-    "publishedAt": "2026-11-12",
+    "id": "news-4-1794544068000",
+    "title": " 为什么黄仁勋出轨直接下台，马斯克孩子都生了4个了也没事？ ",
+    "link": "https://www.huxiu.com/article/4905308.html?f=rss",
+    "summary": "本文来自微信公众号： 果壳 ，作者：玻璃酸钠，编辑：黑jio妹妹 没人会想到，英伟达的掌舵人会是这样离开的。 美国时间11月12日，英伟达宣布：创始人黄仁勋辞去首席执行官职务，同时退出董事会，即刻生效。他带领英伟达走过了33年，把一家显卡公司带成了AI时代市值最高的公司之一。 导火索有两根。 第一根大家都知道了，黄仁勋在给员工的信中承认了这段关系：“我对妻子不忠。”大家都知道这位出轨对象是黄乐。董事会随即启动独立调查，但当时仍表示对他有信心。 真正让局面急转直下的，是第二根。11月11日，《纽约时报》援引五名英伟达员工的说法报道：黄仁勋还与一名直接向他汇报的高管存在婚外关系。当天晚上，董事会召开紧急会议；第二天，黄仁勋辞职。 需要说明的是，英伟达的公告没有给出辞职原因，黄仁勋本人也没有回应与下属相关的报道。我们不能说哪一条消息“导致”了他的离开。 但很多人的第一反应是另一个名字：马斯克。 他和自己公司的高管生了四个孩子，至今依然是特斯拉、SpaceX的掌门人。同样是“老板和下属”，为什么结局如此不同？ 马斯克干啥了？ 2022年，媒体披露马斯克与希冯·齐利斯育有一对双胞胎。齐利斯当时是马斯克创办的脑机接口公司Neuralink的高管，职位是运营与特别项目总监，与马斯克存在直接的工作关系。据路透社报道，齐利斯告诉同事，孩子是通过试管婴儿技术出生的，两人并非恋爱关系。到2025年，两人",
+    "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-chinese-workers-are-paying-their-own-ai-bills-to-stay-produc-1794490927000",
-    "title": "Chinese Workers Are Paying Their Own AI Bills to Stay Productive",
-    "link": "https://www.tmtpost.com/8203536.html",
-    "summary": "Generative AI has become daily infrastructure for millions of office and professional users in China. Employers rarely reimburse the subscriptions and API spend. Token costs are rising, getting harder to predict, and turning into a quiet second rent on the job.",
-    "publishedAt": "2026-11-12",
+    "id": "news-cookiy-labs-ai-1794544358000",
+    "title": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
+    "link": "https://www.tmtpost.com/8201722.html",
+    "summary": "让AI在需要人类经验时能够找到人，让提供经验的人获得授权和回报，让企业在做决定之前看到真实的人如何反应。",
+    "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
       "china",
       "technology",
       "business",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-what-to-know-about-this-year-s-un-climate-talks-1794416400000",
-    "title": "What to know about this year’s UN climate talks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
-    "publishedAt": "2026-11-11",
+    "id": "news-the-download-cop31-s-climate-challenge-and-the-quest-for-imm-1794489000000",
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+    "publishedAt": "2026-11-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -94,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nectar-launches-an-ai-agent-to-automate-creator-discovery-an-1794510660000",
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "id": "news-muse-can-now-place-calls-to-us-businesses-if-you-pay-1794522148000",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
     "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
@@ -107,11 +108,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-wave-of-religious-discrimination-claims-is-coming-attorney-1794430500000",
-    "title": "A wave of religious discrimination claims is coming, attorneys say",
-    "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
-    "summary": "Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
-    "publishedAt": "2026-11-11",
+    "id": "news-ceo-exits-due-to-misconduct-have-doubled-compared-to-2024-1794515220000",
+    "title": "CEO exits due to misconduct have doubled compared to 2024",
+    "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
+    "summary": "&ldquo;It&rsquo;s not just a question of romance or morality anymore. It&rsquo;s a question of judgment,&rdquo; said Andy Challenger, chief revenue officer for Challenger, Gray &amp; Christmas.",
+    "publishedAt": "2026-11-12",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -134,11 +135,92 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794500241000",
-    "title": " AI 说十年内能治愈癌症，它究竟看到了什么？ ",
-    "link": "https://www.huxiu.com/article/4905193.html?f=rss",
-    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 2026年11月10日，Anthropic CEO Dario Amodei在IPO路演里说，如果看癌症、阿尔茨海默病、心脏病和精神疾病，它们可能会在不到十年内成为“过去的遗物”。 一种熟悉的科技叙事：AI又要“颠覆医疗”，模型再进步几代，疾病就会像旧软件里的Bug一样被修掉。 但如果认真看Amodei从2024年《Machines of Loving Grace》开始铺陈的逻辑，会发现他真正押注的是另一件事： 当AI能够持续提出假设、调用专业模型、设计实验、读取结果、再根据结果调整下一步策略时，科学发现本身会不会被改造成一种可以高速迭代的系统？ 这和“AI给医生一个建议”、“AI帮药企筛几个分子”，已经不是同一件事。 过去两年，AI已经在生物医学研究的几个关键位置取得了真实进展：预测分子结构、设计蛋白质结合分子、在海量DNA数据中发现可供验证的新模式、控制实验设备、把真实湿实验结果重新喂回下一轮探索。 但从这里到“重大疾病成为过去”，中间还隔着一条很长的链条： 科学发现→机制确认→治疗靶点→候选分子→临床前研究→人体试验→监管审批→制造与支付→患者真正获益。 AI已经开始改变这条链条的前半段。 它能不能改变后半段，才决定了这是不是一次医学革命。 一、Amodei真正预测的，是“被压缩的医学研究” 在《Machines of ",
+    "id": "news-12-5-6-1794543110000",
+    "title": " “全民养牛”的骗局，卷走12万人的5.6亿 ",
+    "link": "https://www.huxiu.com/article/4905304.html?f=rss",
+    "summary": "本文来自微信公众号： 深氪新消费 ，作者：视频组 投资300万认养600头牛，最后账户里的真金白银，都被平台强行折算成了6万斤卖不出去的牛肉额度。 为什么这样一个“漏洞百出”的骗局，八年都没被拆穿？ 点击上方视频立即观看 以下是本期视频脚本： 花5000块钱在线认养一头澳洲肉牛，不用喂草不用铲屎，专业团队帮你养，实时直播看牧场，之后连本带利拿回来，年化最高15%。 听着是不是很让人动心？ 如果你信了，那就掉进了这场“全民养牛”的集资诈骗案。 别看一听就不靠谱，却有12万人深陷其中。 让这个一头牛都没有，甚至连牧场摄像头都是假的的诈骗平台，成功运营了整整8年、累计吸金5.6亿元。 投资300万认养600头牛，最后账户里的真金白银，都被平台强行折算成了6万斤卖不出去的牛肉额度。 为什么这样一个“漏洞百出”的骗局，八年都没被拆穿？ 大家好，我是深氪主播，见微。深挖消费密码，氪定财富乾坤，欢迎收听深氪新消费。 很多人第一次接触“云养牛”，基本都是在朋友圈或者亲友群里。 而且这个骗局可不是什么中年老专属，反倒是狙击了不少城市中产和年轻人。 中国裁判文书网近三年与“全民养牛”相关的民事裁定中，“90后”当事人占比接近一半，最小的26岁。 年轻人们大多对于实体农业不太了解，缺乏判断养殖项目真实盈利空间的常识。 最迷惑的是，这种平台它是真的会给你寄牛肉。 但是整个平台的5.6亿资金流里，也只有80",
+    "publishedAt": "2026-11-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794541980000",
+    "title": "没有人能穿上黄仁勋的皮夹克",
+    "link": "https://www.tmtpost.com/8204088.html",
+    "summary": "60位高管，零个接班人。",
+    "publishedAt": "2026-11-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-to-know-about-this-year-s-un-climate-talks-1794416400000",
+    "title": "What to know about this year’s UN climate talks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
+    "publishedAt": "2026-11-11",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794519300000",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "publishedAt": "2026-11-12",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
+    "title": "Many executives say they are worried about leading with empathy",
+    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
+    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
+    "publishedAt": "2026-11-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-anthropic-ipo-6000-1794478289000",
+    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+    "link": "https://www.qbitai.com/2026/11/509381.html",
+    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+    "publishedAt": "2026-11-12",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-googlebook15-1794543076000",
+    "title": " 联想Googlebook15评测：安卓电脑准备好了，安卓没有 ",
+    "link": "https://www.huxiu.com/article/4905303.html?f=rss",
+    "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有》 你用过「安卓电脑」吗？你会希望在一台「安卓电脑」上办公和娱乐吗？ 今年的Google I/O上，谷歌宣布了一条全新的安卓笔记本产品线——Googlebook。 谷歌希望将Android的优点与此前的Chromebook产品结合起来，以此打造一系列「AI时代的轻量化智能笔电」。 今年9月，谷歌联合联想、戴尔、惠普等五家合作厂商，推出了第一批Googlebook系列产品。 爱范儿这次拿到的，就是联想推出的Lenovo Googlebook 15： 根据谷歌的说法，Googlebook与之前的「谷歌电脑」最大的不同点，就在于它们所搭载的Googlebook OS—— 简单来说，Googlebook OS吸收了ChromeOS的桌面交互逻辑与浏览器能力，又融合了Android的应用生态、设备互联和系统底层架构，构成了一套以安卓为基础、面向笔记本形态打造的新操作系统。 当然，谷歌说起造电脑，其实已经是熟门熟路了： 早在2011年，谷歌就联合三星和宏碁（Acer）推出了第一批Chromebook，将「云端优先」的理念带进了个人电脑市场： 既然绝大多数工作任务能够通过浏览器完成，那电脑为什么还需要一个功能繁杂的传统操作系统？ 2017年，谷歌又推出",
+    "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -148,11 +230,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794489813000",
-    "title": "今天起，豆包工作接入更多模型了",
-    "link": "https://www.tmtpost.com/8202629.html",
-    "summary": "11月12日，豆包工作宣布正式接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。",
-    "publishedAt": "2026-11-12",
+    "id": "news--1794541628000",
+    "title": "黄仁勋辞职，对中国企业影响几何？",
+    "link": "https://www.tmtpost.com/8204069.html",
+    "summary": "“达链”集体承压，国产芯片股强势走高。",
+    "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -174,92 +256,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-microsoft-8217-s-outlook-email-hit-by-new-outage-1794510219000",
-    "title": "Microsoft&#8217;s Outlook email hit by new outage",
-    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-    "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-    "publishedAt": "2026-11-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-l-d-leaders-expect-bigger-budgets-when-their-strategy-is-dir-1794430320000",
-    "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
-    "link": "https://www.hrdive.com/news/learning-leaders-expect-bigger-budgets-business-priority/874405/",
-    "summary": "As artificial intelligence changes the workplace, learning and development teams need to ensure their educational priorities are aligned with organizational goals, per a new study.",
-    "publishedAt": "2026-11-11",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-anthropic-ipo-6000-1794478289000",
-    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-    "link": "https://www.qbitai.com/2026/11/509381.html",
-    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-    "publishedAt": "2026-11-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1794500234000",
-    "title": " 美国天然气巨头，开始抢电力公司的AI客户 ",
-    "link": "https://www.huxiu.com/article/4905187.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年10月7日，美国液化天然气出口商Venture Global又输掉了一场仲裁。 国际商会仲裁庭多数意见认定，公司在与葡萄牙能源公司Galp的长期购销合同中，延迟宣布Calcasieu Pass项目进入商业运营，构成违约。按合同条款，赔偿上限为1.7亿美元。这是它一年内输掉的第二场同类仲裁。 此前一场的对手是BP，索赔金额在37亿美元到60亿美元以上之间，赔偿听证会定在2027年5月。 争议的起点在2022年。 当时Calcasieu Pass已经开始出口LNG，但Venture Global直到2025年4月才宣布项目进入商业运营。 在将近三年的\"调试期\"里，公司不必按长协价格向长期客户交货，可以把天然气卖到现货市场。这段时间正好赶上欧洲能源危机，现货价格一度是长协价格的数倍。 10月15日，同一家公司宣布了一项新业务。它与GE Vernova、贝克休斯签订框架协议，计划采购最多16套燃气联合循环发电单元，总装机11.52GW，在路易斯安那州的自有工业基地上，直接向AI数据中心供电。 11月10日的财报电话会上，管理层给出了时间表：2028年底交付首批250MW计算容量，2031年底扩大到约5GW，2034年争取达到10GW。 管理层把这门生意叫作\"AI Utility\"。它真正要卖是比公共电网更早到达的电。",
-    "publishedAt": "2026-11-12",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5-5-flash-preview-1794489789000",
-    "title": "实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先",
-    "link": "https://www.tmtpost.com/8202831.html",
-    "summary": "百度发布最新基础模型，编程、3D 建模、知识工作、内容创作等表现突出。",
-    "publishedAt": "2026-11-12",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-pelosi-s-successor-targets-ai-and-data-centers--1794316200000",
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
-    "publishedAt": "2026-11-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-1794508763000",
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "id": "news-nebius-tests-the-neocloud-playbook-with-40-billion-in-planne-1794518830000",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
     "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
@@ -270,11 +270,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-back-to-basics-who-is-a-similarly-situated-comparator-under--1794430320000",
-    "title": "Back to Basics: Who is a ‘similarly situated comparator’ under Title VII?",
-    "link": "https://www.hrdive.com/news/back-to-basics-who-is-a-similarly-situated-comparator-under-title-vii/874423/",
-    "summary": "It&rsquo;s a key element of workplace discrimination claims, but federal courts vary in terms of how they interpret similarity, attorneys told HR Dive.",
-    "publishedAt": "2026-11-11",
+    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
+    "title": "7 stories on benefits amid open enrollment",
+    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
+    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
+    "publishedAt": "2026-11-12",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -297,25 +297,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794500174000",
-    "title": " 黄仁勋，是一种周期 ",
-    "link": "https://www.huxiu.com/article/4905192.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：画画、版君 掌舵33年后，这位一手将英伟达带入AI时代的创始人，离开了自己建立的公司。 11月12日，英伟达公告，黄仁勋辞任CEO，即刻生效。 此前几天，一场私人生活风波将他卷入国会问询、董事会调查和国家安全争议。 一个人的离开，为什么会成为整个科技产业的大事？ 如果把时间拨回工业革命以来的商业史，会发现这样的时刻并不陌生。 瓦特改良蒸汽机，让动力开始大规模进入工厂，洛克菲勒整合石油产业，让能源成为现代工业体系的重要支柱。 每一次生产要素发生迁移，都会有人站到产业周期的中心。 今天，这个位置属于黄仁勋。 他的黑色皮衣、英伟达的GPU，以及全球不断扩张的数据中心，共同构成了AI时代的一幅鲜明图景。 一、时代更替，主角登场 1769年，詹姆斯·瓦特获得蒸汽机改良专利。 他并不是蒸汽机的发明者，却通过独立冷凝器等关键改进，大幅提高了蒸汽机的效率。后来，他与企业家马修·博尔顿合作，将改良后的蒸汽机推向市场。 动力开始摆脱对水力和地理条件的依赖，工厂可以更自由地布局，机器也获得了持续运转的动力。 一个新的工业时代，由此有了重要的技术支点。 一个世纪后，洛克菲勒面对的是另一种资源。 1870年，他在俄亥俄州成立标准石油公司。当时美国石油工业刚刚兴起，炼油厂分散，运输成本高，市场竞争激烈。洛克菲勒没有只盯着炼油环节，而是把原油采购、炼制、铁路运输、储存和销",
-    "publishedAt": "2026-11-12",
+    "id": "news--1794542450000",
+    "title": " 叔圈顶流，盯上中产女孩的钱包 ",
+    "link": "https://www.huxiu.com/article/4905300.html?f=rss",
+    "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 你可能没买过比音勒芬，但大概率听说过这个牌子。 一件T恤卖到上千元，毛利率超过爱马仕。论定价和毛利，比音勒芬确实有几分奢侈品的架势，品牌的目标人群，也常常和精英、体制内、中年男人等标签绑定。 但这门看起来利润丰厚的生意，前两年也遇到了增长难题。2024年，比音勒芬遭遇了上市以来首次年度归母净利润下滑；2025年，利润降幅进一步扩大。 到了2026年，这家被称为“衣中茅台”的品牌，终于交出了一份双增长的成绩单：2026年前三季度，营业收入40.8亿元，同比增长27.4%；归母净利润7.5亿元，同比增长20.5%。 从连续两年利润下滑，到重新实现双位数增长，比音勒芬发生了什么？ 叔圈顶流，盯上中产女孩 提到比音勒芬，很多人的第一印象是机场、火车站里的常驻嘉宾。 在社交平台上，时不时有这样的评论——“一直以为比音勒芬是机场品牌”“受众群体就是我爸这种，我至今不理解他两千多买个这个牌子的半袖”。 这些调侃背后，是比音勒芬长期形成的品牌形象：主打高尔夫和商务着装，核心客群也以中高端成熟消费者为主。 但品牌想继续增长，只是守住原有客群显然不够，过去几年，比音勒芬一系列密集的品牌动作，都在指向——要拿下更年轻的高净值人群。 在主品牌内部，比音勒芬逐渐拓宽产品边界，目前已经形成四条产品线： Golf系列专注高尔夫运动服饰，Premium系列",
+    "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-6600-1794488228000",
-    "title": "艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩",
-    "link": "https://www.tmtpost.com/8203361.html",
-    "summary": "从12.77亿元首版方案，到9.45亿元，再落到如今8.79亿元，大半年时间里，这轮定增经历两轮规模压缩。",
-    "publishedAt": "2026-11-12",
+    "id": "news--1794541083000",
+    "title": "真心筑光，向远而行：中欧公益的长期主义实践",
+    "link": "https://www.tmtpost.com/8203876.html",
+    "summary": "中欧基金在这十年间走出了一条独特的企业公益长跑之路：将“长期主义”注入乡村教育帮扶，聚焦素质教育与陪伴成长，让金融向善的力量在细水长流中生根发芽。",
+    "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -325,44 +324,43 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-evolving-metal-extraction-processes-1794315600000",
-    "title": "Evolving metal extraction processes",
-    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+    "id": "news-the-download-pelosi-s-successor-targets-ai-and-data-centers--1794316200000",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
     "publishedAt": "2026-11-10",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "strategy"
+      "technology"
     ]
   },
   {
-    "id": "news-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-af-1794505000000",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "id": "news-jensen-huang-was-having-a-third-affair-reuters-reports-1794515207000",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
     "publishedAt": "2026-11-12",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "ai-hr"
     ]
   },
   {
-    "id": "news-be-proactive-on-pay-bands-promotion-ladders-and-performance--1794412620000",
-    "title": "Be proactive on pay bands, promotion ladders and performance parameters, attorneys say",
-    "link": "https://www.hrdive.com/news/pay-transparency-laws-what-hr-needs-to-know/874280/",
-    "summary": "Ten years after the pay equity and salary transparency renaissance, employment lawyers reflect on the culture of compensation.",
+    "id": "news-a-wave-of-religious-discrimination-claims-is-coming-attorney-1794430500000",
+    "title": "A wave of religious discrimination claims is coming, attorneys say",
+    "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
+    "summary": "Thanks to EEOC Chair Andrea Lucas&rsquo; enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
     "publishedAt": "2026-11-11",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -379,11 +377,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sop-1794500046000",
-    "title": " 把高频日常写成SOP，真的非常爽 ",
-    "link": "https://www.huxiu.com/article/4905191.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《把高频日常写成 SOP，真的非常爽》 在我手机里，有一份最常用的文档，名字简单又直接，就叫《出差需要带的东西》。 文档里有这么几个分类：重要、随身物品、电子设备、办公用品、洗漱用品、换洗衣物和其他。 每一类别下面，又列了具体的物品名称。比如“重要”这一列，就只有“伸手要钱”四种东西，也就是身份证、手机、家门钥匙和钱包。 有的东西后面，还跟着一句备注，比如“充电宝：收在背包侧袋，不要塞行李箱”。这样方便随时取用，也方便坐飞机的时候过安检。 这份文档是三年前写的。我记得写它的那个晚上，我刚出差回家。那次出差又忘带了电脑充电线，可能是那一年的第四次。 写完这份文档之后，我有一种很奇怪的感觉。就很像是，家里有一个漏了很久水的水龙头，终于被修好了。 也是在那个晚上，我才想清楚一件事。真正让我难受的，其实不是忘带什么东西。而是每一次出差或者旅行之前，我都要重新想一遍“我都得带什么”。 工作多少年，就想了多少年，每次都从零开始想。临出差前一晚，着急忙慌地收拾东西，大概率还会漏掉这个、忘带那个。 在此之后，我又建立了十几个类似的清单，它们有一个很高端的名字，也就是SOP（标准作业程序）。 比如，我还有一个《存钱SOP》，工资一到手，转入个人花销账户多少钱，转到储蓄账户多少钱，多少用于理财，多少用于投资。还有《",
-    "publishedAt": "2026-11-12",
+    "id": "news--1794541780000",
+    "title": " 金价波动，多家银行上线积存金“挂单”功能 ",
+    "link": "https://www.huxiu.com/article/4905294.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 金价高频振荡，多家银行上线积存金挂单功能，个人炒金进入“条件单”时代。但挂单只是中性工具，便利背后投资者仍要树立理性稳健的配置理念。 近期，金价一直处于高频波动阶段，银行也在黄金业务方面持续加码。 11月9日，中信银行发布公告称，该行预计自11月16日起上线积存金挂单功能，支持买入与赎回委托挂单。这是年内继建设银行、兴业银行、南京银行之后，又一家推出积存金“挂单”服务的银行，也意味着个人贵金属投资进入像炒股一样设置“条件单”的时代。 积存金交易模式升级 积存金业务，是银行提供积存金报价，客户主动购买，或是按约定时间、约定金额或重量买入积存金份额的黄金投资业务。此前银行积存金主流交易方式为“看盘实时下单”或是“定期定额定投”，投资者要么在盘中即时买入，要么设置定投计划。 这一模式存在一些局限。一方面，实时下单需要投资者盯盘操作，投资者很难全天候盯守行情。另一方面，定投通常只按固定周期投入，无法自主捕捉目标价位。在此背景下，为满足希望在心理预期价位及时购金、卖金的投资者交易，多家银行推出积存金挂单服务。 所谓“挂单”，本质上是一种限价委托交易机制。客户可在银行App预设“低于X元／克自动买入”或“高于Y元／克自动卖出”的条件，系统在行情监测中，满足价格条件时自动尝试成交。若买入挂单触发时，账户可用资金不足，该笔委托将无法成交。这也意味着",
+    "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -392,11 +390,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trade-desk-1794485491000",
-    "title": "Trade Desk财报超预期，华尔街乐观情绪推高股价",
-    "link": "https://www.tmtpost.com/8203436.html",
-    "summary": "至少有14位跟踪该股票的分析师在财报发布后上调了他们的目标价。",
-    "publishedAt": "2026-11-12",
+    "id": "news-cheap-ai-tracks-are-crowding-human-arrangers-out-of-china-s--1794540784000",
+    "title": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy",
+    "link": "https://www.tmtpost.com/8204075.html",
+    "summary": "Chinese music platforms now add more than 100,000 songs a day, and a rising share is machine-made. Clients who once paid thousands for an arrangement now shop for a few hundred yuan and a menu of AI drafts. The middle of the profession is getting squeezed; the top and the pure commodity layers are sorting out differently.",
+    "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -407,350 +405,7 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [
-  {
-    "id": "arxiv-2611.14519v1",
-    "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-    "authors": [
-      "Emre Kutlusan",
-      "Yongmin Li"
-    ],
-    "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the tr",
-    "link": "http://arxiv.org/abs/2611.14519v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14518v1",
-    "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-    "authors": [
-      "Sheethal Bhat",
-      "Bogdan Georgescu",
-      "Awais Mansoor",
-      "Florin C. Ghesu",
-      "Sasa Grbic",
-      "Andreas Maier"
-    ],
-    "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by integrating diverse medical image datasets annotated for both anatomical structures and abnormalities. We first propose a student-teacher training strategy to effectively combine datasets with heterogeneous label spaces, mitigating catastrophic forgetting, and im proving feature learning. In additi",
-    "link": "http://arxiv.org/abs/2611.14518v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14516v1",
-    "title": "TorchCurves: Differentiable Parametric Curves",
-    "authors": [
-      "Alex Shtoff"
-    ],
-    "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. The library provides trainable modules, reusable basis modules, and a functional interface, supporting applications ranging from continuous feature embeddings to Kolmogorov-Arnold networks and functional regression. Its implementation combines classical evaluation algorithms with vectorized PyTorch operations, emphasizing readability and maintainability without custom hardware kernels. Timing exper",
-    "link": "http://arxiv.org/abs/2611.14516v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14515v1",
-    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-    "authors": [
-      "Zijian Zhang",
-      "Rizhen Hu",
-      "Jiangweizhi Peng",
-      "Shiyang Li",
-      "Sujay Bhatt",
-      "Sihan Zeng",
-      "Mingyi Hong"
-    ],
-    "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turns a student's training experience into adaptive scaffolds, with minimal domain-specific information and no human intervention during training. A frozen teacher periodically examines this experience, diagnoses bottlenecks, and designs scaffolds in two forms: (i) strategies shared across a class of ta",
-    "link": "http://arxiv.org/abs/2611.14515v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14514v1",
-    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-    "authors": [
-      "Ziang Liu",
-      "James J. Kim",
-      "Yijia Dai",
-      "Jennifer J. Sun"
-    ],
-    "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusive and collectively exhaustive competing explanations. Each experiment is scored by how its evidence redistributes belief across the set, and the question is resolved when belief concentrates on one explanation. Because contrast sets change only the unit an agent proposes and scores, an existing agen",
-    "link": "http://arxiv.org/abs/2611.14514v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14511v1",
-    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
-    "authors": [
-      "Megha Srivastava",
-      "Michael H. Lim",
-      "Allison M. Keys",
-      "Pranav Murugan",
-      "Nate Gruver"
-    ],
-    "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturize",
-    "link": "http://arxiv.org/abs/2611.14511v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "q-bio.QM"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14508v1",
-    "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-    "authors": [
-      "Yeyuan Liu"
-    ],
-    "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, gains or plasticity rates the model also needs, and modellers often tune these until the real-wiring model works. We separate three estimands: physiology tuned on the real wiring and transferred to nulls (P1), each wiring tuned on its own (P2), and P2 restricted to physiology consistent with independent data (P3). The biases involved are known in machine learning (under-tuned baselines, inherited weights, winner's curse); we measure what they do to biological conclusions, using synthetic ground tr",
-    "link": "http://arxiv.org/abs/2611.14508v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "q-bio.NC"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14505v1",
-    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-    "authors": [
-      "Daniel Lenton"
-    ],
-    "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The same tasks return after dormant gaps with fresh instances, while new tasks keep arriving. On each instance, the learner may pay for demonstrations, submit answers, or act inside the harness, with retries permitted on incorrect submissions, which are paid for. Each instance is scored based on the sh",
-    "link": "http://arxiv.org/abs/2611.14505v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14504v1",
-    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
-    "authors": [
-      "Adi Mashiach"
-    ],
-    "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalent engagement). All three capabilities generalize to out-of-distribution complexes. Bonbon was trained on protein-ligand sequences alone, without any task-specific supervision and without structural co",
-    "link": "http://arxiv.org/abs/2611.14504v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "q-bio.BM"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14493v1",
-    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-    "authors": [
-      "Howard Zhang",
-      "Chuck Arvin",
-      "Logan Brown",
-      "Mihir Bhatia",
-      "Neelu Choudhary",
-      "Lily Miao"
-    ],
-    "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies evaluation harness stability through repeated measurements, finding that 97% of configurations meet the stability threshold and that stability patterns are agent-independent. Phase 2 measures known risk detection on 72 ground-truth test cases, where the trace-based framework achieves the best precisi",
-    "link": "http://arxiv.org/abs/2611.14493v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.AI",
-      "cs.CL",
-      "cs.LG",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14492v1",
-    "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-    "authors": [
-      "Kaiyuan Hou",
-      "Yang Ping Kuo",
-      "Indranil Bhattacharya",
-      "Rohith Nama",
-      "Arushi Gupta",
-      "Carlos D. Castillo",
-      "Prathap Ramachandra",
-      "Xiaofan Jiang",
-      "Francesco Carbone"
-    ],
-    "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled",
-    "link": "http://arxiv.org/abs/2611.14492v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.AI",
-      "cs.LG",
-      "cs.MA"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14491v1",
-    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
-    "authors": [
-      "Peng Chen",
-      "Yihang Wang",
-      "Zhongwen Rao",
-      "Yang Shu",
-      "Yuying Qiu",
-      "Yuxuan Chen",
-      "Lujia Pan",
-      "Bin Yang",
-      "Chenjuan Guo"
-    ],
-    "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the ability to adaptively model complex time series patterns from multi-domain data. 2) Current TSFMs are primarily pre-trained for specific tasks, e.g., forecasting or anomaly detection, and a few models support multiple tasks, but they fail to fully leverage task specificity and commonality, resulting in suboptimal performance. To address these challenges, we propose TimeSeek, a novel generalized time series analytics model that adaptively models time series patterns from multi-domain data and unifies ",
-    "link": "http://arxiv.org/abs/2611.14491v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14487v1",
-    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-    "authors": [
-      "Muhan Gao",
-      "Hangxiao Zhu",
-      "Xinqi Su",
-      "Yu Zhang",
-      "Daniel Khashabi",
-      "Kuan-Hao Huang"
-    ],
-    "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions. Built from 200 ICML 2026 papers, Re-Search tracks how a model's idea evolves as it asks questions and receives binary oracle feedback, isolating ideation from execution. Across six recent LLMs, nearly all progress happens within the first 30 of 100 questions, which largely decide how the game ends; after that, most mo",
-    "link": "http://arxiv.org/abs/2611.14487v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14483v1",
-    "title": "Mechanistic Interpretability Needs a Logic of Inference",
-    "authors": [
-      "Zhimin Hu",
-      "Chen Jiang",
-      "Hanbo Xie",
-      "N. Apurva Ratan Murty",
-      "Sashank Varma"
-    ],
-    "summary": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population structures, and dynamical patterns associated with model behavior. As these tools improve, attention is shifting from what can be observed inside a model to how those observations support mechanistic explanations. We examine the parallel efforts of neuroscience and MI to address this question and identify recurring inferential bottlenecks when inferring mechanisms from complex neural systems. We propose five principles and organize them into a recursive logic for a more rigorous procedure of mecha",
-    "link": "http://arxiv.org/abs/2611.14483v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.CL",
-      "cs.CV"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14480v1",
-    "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
-    "authors": [
-      "Evelyn Y. Garland",
-      "Carola F. Berger"
-    ],
-    "summary": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score prediction and the detection of error-free segments. Pterodactyl is a highly customizable, ultra-low cost system optimized for binary classification in translation triage and data curation. It is based on an LLM-as-a-judge approach, with prompt engineering and model selection guided by ROC analysis. We also developed several variants of Pterodactyl that were specifically adapted for subtasks 3.",
-    "link": "http://arxiv.org/abs/2611.14480v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14477v1",
-    "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
-    "authors": [
-      "Arjun Rao",
-      "Nishant Gopinath"
-    ],
-    "summary": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, on pooled BIRD, Spider, and Fiben catalogs. FERN (Feature-Engineered Ranking with No generative LLM) instead fuses three frozen retrievers into 100 candidates, describes each with up to 120 features, and reorders them with LightGBM rankers fitted once on BIRD's training questions. On Spider, where it was not fitted, its candidate pool alone reaches RASL's published recall at fifteen tables (98.0), and the ranker raises the share of questions with every gold table in the top five (complete@5) from 83.9% to 95.6%. At five tables, FERN's recall is within one point of RASL's on ",
-    "link": "http://arxiv.org/abs/2611.14477v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.IR",
-      "cs.CL"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14469v1",
-    "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
-    "authors": [
-      "Guorui Lu",
-      "Qinyu Chen"
-    ],
-    "summary": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in black-box settings. Simply enforcing a visual-token cap reduces computation, but it can discard information needed to answer the question. A single reduction strategy also struggles to accommodate different scenarios. Our key observation is that cropping and compression are complementary: cropping highlights small targets and local details, whereas whole-image compression better preserves context for large targets or distributed evidence. Based on this observation, we propose C$^2$-Routing, which adaptively selects cropping or compression according to the input image and q",
-    "link": "http://arxiv.org/abs/2611.14469v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.CV",
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14468v1",
-    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
-    "authors": [
-      "Duc-Lam Duong"
-    ],
-    "summary": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leading prevalence dynamics depend on the unknown coefficients only through the difference between the transmission and recovery rates and the infected diffusivity. The same pair determines the principal eigenvalue whose sign governs persistence, so early prevalence can inform the threshold even when the individual rates remain uncertain. We prove global weak well-posedness and quantitative parameter stability for the SIS system and use the resulting observation-map estimates to establish Bayesian well-posedness. For an initial infection of size $\\varepsilon$, we derive a uniform second-order expan",
-    "link": "http://arxiv.org/abs/2611.14468v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "math.AP",
-      "cs.LG",
-      "math.NT",
-      "math.ST",
-      "q-bio.PE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14467v1",
-    "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-    "authors": [
-      "Audrey Huang",
-      "Nan Jiang",
-      "Sham M. Kakade",
-      "Sadhika Malladi",
-      "Akshay Krishnamurthy",
-      "Dylan J. Foster"
-    ],
-    "summary": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible through sampling from the base model. (1) Coverage collapse. REINFORCE, the basis for PPO and GRPO, can drive the probability of optimal responses to near zero, even as reward improves. This coverage collapse stalls optimization, and convergence can require exponentially many steps despite good initial coverage. The failure arises even wi",
-    "link": "http://arxiv.org/abs/2611.14467v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "cs.LG",
-      "stat.ML"
-    ]
-  },
-  {
-    "id": "arxiv-2611.14463v1",
-    "title": "A Theory of Cross-Validation Variance",
-    "authors": [
-      "Nathaniel S. O'Connell",
-      "Jaime L. Speiser"
-    ],
-    "summary": "Cross-validation estimates predictive performance by repeatedly splitting the data into training and validation sets, fitting the model on the first and evaluating it on the second. Every observation influences the estimate in two roles, through its own evaluation when it is held out and through the models it helps fit when it trains. The random splits determine its weight in each role. From this representation, we prove an exact finite-sample identity for the variance of the cross-validated estimate. For a given splitting scheme with a common training set size, the variance is a function of these weights, with constants of the model, the metric, and the population. It covers metrics averaged over observations, such as mean squared error, and over case--control pairs, such as the AUC. The ",
-    "link": "http://arxiv.org/abs/2611.14463v1",
-    "publishedAt": "2026-11-10",
-    "categories": [
-      "stat.ML",
-      "cs.LG",
-      "math.ST"
-    ]
-  }
-];
+export const generatedPapers: ArxivPaper[] = [];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -1095,4 +750,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-12T19:29:24.064Z';
+export const dataFetchedAt = '2026-11-13T04:53:29.036Z';
