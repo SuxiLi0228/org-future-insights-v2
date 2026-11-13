@@ -2,6 +2,247 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-silicon-valley-s-blind-spot-and-nvidia-s-chip-t-1794575400000",
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+    "publishedAt": "2026-11-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-microsoft-8217-s-latest-email-outage-turned-into-a-full-blow-1794575720000",
+    "title": "Microsoft&#8217;s latest email outage turned into a full blown global cloud crisis",
+    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+    "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "publishedAt": "2026-11-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-remote-work-from-the-office-it-s-more-common-than-you-think-1794515220000",
+    "title": "‘Remote work’ from the office? It’s more common than you think.",
+    "link": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
+    "summary": "Diffuse teams and a general submission to digital platforms are undermining employers&rsquo; stated reasons for returning to the office, research from the Federal Reserve Bank of New York found.",
+    "publishedAt": "2026-11-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-33-3-1794560559000",
+    "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+    "link": "https://www.qbitai.com/2026/11/509995.html",
+    "summary": "一个时代结束了",
+    "publishedAt": "2026-11-13",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794577319000",
+    "title": " 德国小厂拿下马斯克光伏订单，中国设备商为何未在列？ ",
+    "link": "https://www.huxiu.com/article/4905509.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：席菁华 马斯克的一则订单，引发A股光伏设备板震荡。 北京时间11月11日，埃隆·马斯克在社交媒体平台X上转发SpaceX推文称：“SpaceX已向德国SINGULUS订购了每年100 GW产能的HJT太阳能电池制造设备。这是为了让Starmind创造一颗有感知能力的太阳。” 当地时间11月10日，SINGULUS在官网公告，已与SpaceX签署首条HJT太阳能电池交钥匙生产线供应合同，订单金额超过6000万欧元（约合人民币4.42亿元），计划于2027年上半年交付。 订单落给德国公司，导致市场对国内光伏设备参与马斯克太阳能制造布局与拿单预期的重估。 今年3月，有媒体报道称，特斯拉正寻求从中国供应商采购约29亿美元(约合193.41亿元人民币)的光伏生产设备，迈为股份(300751.SZ)、捷佳伟创(300724.SZ)、拉普拉斯(688726.SH)被列入在谈候选。 该消息对应的是特斯拉在得州规划的地面光伏工厂Project Crystal Sun（水晶太阳项目）。该项目计划投资约101亿美元(约合673.73亿元人民币)，预计于2029年一季度投入商业运营。项目尚未最终敲定，特斯拉仍在评估其他选址。 此次与SINGULUS签约的买方为SpaceX，产品用于Starmind卫星的太空电池，二者并非同一项目。 Starmind是SpaceX规划",
+    "publishedAt": "2026-11-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-coach-q1-39-1794568877000",
+    "title": "山下有松推出首款鞋履；COACH母公司Q1中国市场增长39%；迪桑特新增签约两支中国滑雪国家队；上海安踏营运中心正式启幕｜消研所周报",
+    "link": "https://www.tmtpost.com/8204401.html",
+    "summary": "On昂跑Q3亚太市场净销售额增长31.1%；体育总局冬运中心与UTO悠途完成续约。",
+    "publishedAt": "2026-11-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-more-autonomy-fewer-ndas-volunteers-have-new-requests-for-br-1794564000000",
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;",
+    "publishedAt": "2026-11-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-israel-8217-s-vcs-see-opportunity-for-challengers-in-nvidia--1794574339000",
+    "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "publishedAt": "2026-11-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ceo-exits-due-to-misconduct-have-doubled-compared-to-2024-1794515220000",
+    "title": "CEO exits due to misconduct have doubled compared to 2024",
+    "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
+    "summary": "&ldquo;It&rsquo;s not just a question of romance or morality anymore. It&rsquo;s a question of judgment,&rdquo; said Andy Challenger, chief revenue officer for Challenger, Gray &amp; Christmas.",
+    "publishedAt": "2026-11-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-meet2027-ai4s-ai-infra-1794556268000",
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "link": "https://www.qbitai.com/2026/11/509827.html",
+    "summary": "12.9 北京，来MEET2027现场",
+    "publishedAt": "2026-11-13",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-gdp-1794575977000",
+    "title": " GDP增速连续三年跑输全国，这五大省会，要注意了 ",
+    "link": "https://www.huxiu.com/article/4905501.html?f=rss",
+    "summary": "本文来自微信公众号： 西部城事 ，作者：西部菌，原文标题：《GDP增速连续三年跑输全国！这五大省会，要注意了》 前三季度各大城市GDP数据基本全部揭晓。 其中，在一省一域中扮演重要角色的省会（首府）城市，增速表现出现了明显分化，格局洗牌尤其明显。 01 前三季度，27个省会城市中，共有15城增速不及全国大盘，分别为： 长沙、西安、沈阳、昆明、石家庄、南昌、长春、哈尔滨、南宁、贵阳、太原、乌鲁木齐、兰州、海口、西宁。 对比去年全年，跑输全国的省会城市数量增加了2个，区域分化进一步放大。 其中，GDP体量前十的省会城市中，仅有长沙增速低于全国平均水平。 排名第11至21位的11座省会城市，则集体跑输大盘。 当然，在宏观环境承压的背景下，部分城市的增速放缓并不让人意外，阶段性回落也属经济运行中的正常现象。 但要注意的是，一些省会城市可能正在遭遇值得警惕的“低速陷阱”。 梳理发现，至少有5座省会城市自2023以来，GDP增速就持续低于全国水平，且今年前三季度依然延续“低速”状态，甚至部分城市的增速还进一步放缓。 这五座省会城市，可能和很多人的固有印象有所区别。 02 它们是： 太原、昆明、哈尔滨、南宁、南昌。 需要说明的是，这份名单，排除了一些城市。 如作为经济总量“第一省会”的广州，GDP增速实际上2023—2025年也均低于全国，但今年前三季度强势反弹，增速达到了5.7%，在27座省会",
+    "publishedAt": "2026-11-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-china-s-internet-giants-are-listing-ai-units-because-the-par-1794567125000",
+    "title": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
+    "link": "https://www.tmtpost.com/8204635.html",
+    "summary": "Alibaba, Baidu, and Kuaishou are sending chip and model assets to separate markets. The subsidiaries attract lofty private or target valuations; the parents do not. Spin-offs buy a public price tag without removing the cost or the control.",
+    "publishedAt": "2026-11-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-silicon-valley-claims-to-know-the-future-so-why-did-it-get-t-1794564000000",
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;",
+    "publishedAt": "2026-11-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-jensen-huang-didn-8217-t-show-confidence-in-his-successor-re-1794572903000",
+    "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "publishedAt": "2026-11-13",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
+    "title": "Many executives say they are worried about leading with empathy",
+    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
+    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
+    "publishedAt": "2026-11-12",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-1794555783000",
+    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+    "link": "https://www.qbitai.com/2026/11/509796.html",
+    "summary": "250名国内顶尖三甲医院医生联合评测",
+    "publishedAt": "2026-11-13",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-vc-1794575582000",
+    "title": " 是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛 ",
+    "link": "https://www.huxiu.com/article/4905498.html?f=rss",
+    "summary": "本文来自微信公众号： 食栗派ChestnutMates ，编辑：山楂，作者：食栗派，原文标题：《秋天别错过！是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛》 美味步骤 菠菜、杏鲍菇都可以换成其他你喜欢的绿叶菜和菌菇。 不喜欢酱油味，烹饪时也可以不放酱油；煎好之后，单独准备一碟你喜欢的蘸水，蘸着吃。 酸奶水果，可以作为下午的点心。 酸奶推荐选无糖的，买不到希腊式酸奶，普通的酸奶也可以的。 如果不喜欢纯酸奶的酸味，推荐你用天然水果调味，比加糖、加蜂蜜调味来得更营养、更健康。 水果除了提供甜味，还能提供多种维生素、矿物质、膳食纤维和天然抗氧化物质。 新鲜水果或者原味水果干都可以。加新鲜水果的话，最好现吃现做，不要放太久。 营养贴士 提到富含抗氧化成分的蔬菜，很多人首先会想到那些颜色鲜艳的食物，比如草莓、蓝莓、紫甘蓝、紫薯和菠菜等。 确实，相较于浅色蔬果，深色蔬果通常营养价值更高，抗氧化成分也更丰富。 不过，也别因此放弃那些浅色蔬菜，比如我们今天要聊的“藕”。 一项研究采用铁离子还原法分析比较了25种蔬菜的体外抗氧化活性，莲藕的总多酚测定值排第一，在铁离子还原能力这项实验里也排第一[1]。 切开变黑，与抗氧化成分有关 大家可能都知道，藕切开放久了、或者用铁锅炒藕，会发黑变难看。这跟它丰富的酚类含量是有关系的。 藕切开后暴露在空气中，内部的多酚类物质与空气中的氧发生氧化反应，在多酚氧化酶的催",
+    "publishedAt": "2026-11-13",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1794566548000",
+    "title": "大厂搞AI的尽头，是拆家上市？",
+    "link": "https://www.tmtpost.com/8204039.html",
+    "summary": "不是谷歌学不起，拆开卖更有性价比",
+    "publishedAt": "2026-11-13",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-nvidia-privately-confirmed-it-could-track-chips-to-fight-smu-1794514584000",
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
     "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
@@ -27,26 +268,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-remote-work-from-the-office-it-s-more-common-than-you-think-1794515220000",
-    "title": "‘Remote work’ from the office? It’s more common than you think.",
-    "link": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
-    "summary": "Diffuse teams and a general submission to digital platforms are undermining employers&rsquo; stated reasons for returning to the office, research from the Federal Reserve Bank of New York found.",
+    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
+    "title": "7 stories on benefits amid open enrollment",
+    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
+    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
     "publishedAt": "2026-11-12",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization",
-      "strategy"
+      "ai"
     ]
   },
   {
-    "id": "news-minimax-sota-4k-1794483380000",
-    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-    "link": "https://www.qbitai.com/2026/11/509440.html",
-    "summary": "「CAD拆解」",
-    "publishedAt": "2026-11-12",
+    "id": "news-1900-suv-9-1794554274000",
+    "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+    "link": "https://www.qbitai.com/2026/11/509730.html",
+    "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+    "publishedAt": "2026-11-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -55,10 +295,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-1794544068000",
-    "title": " 为什么黄仁勋出轨直接下台，马斯克孩子都生了4个了也没事？ ",
-    "link": "https://www.huxiu.com/article/4905308.html?f=rss",
-    "summary": "本文来自微信公众号： 果壳 ，作者：玻璃酸钠，编辑：黑jio妹妹 没人会想到，英伟达的掌舵人会是这样离开的。 美国时间11月12日，英伟达宣布：创始人黄仁勋辞去首席执行官职务，同时退出董事会，即刻生效。他带领英伟达走过了33年，把一家显卡公司带成了AI时代市值最高的公司之一。 导火索有两根。 第一根大家都知道了，黄仁勋在给员工的信中承认了这段关系：“我对妻子不忠。”大家都知道这位出轨对象是黄乐。董事会随即启动独立调查，但当时仍表示对他有信心。 真正让局面急转直下的，是第二根。11月11日，《纽约时报》援引五名英伟达员工的说法报道：黄仁勋还与一名直接向他汇报的高管存在婚外关系。当天晚上，董事会召开紧急会议；第二天，黄仁勋辞职。 需要说明的是，英伟达的公告没有给出辞职原因，黄仁勋本人也没有回应与下属相关的报道。我们不能说哪一条消息“导致”了他的离开。 但很多人的第一反应是另一个名字：马斯克。 他和自己公司的高管生了四个孩子，至今依然是特斯拉、SpaceX的掌门人。同样是“老板和下属”，为什么结局如此不同？ 马斯克干啥了？ 2022年，媒体披露马斯克与希冯·齐利斯育有一对双胞胎。齐利斯当时是马斯克创办的脑机接口公司Neuralink的高管，职位是运营与特别项目总监，与马斯克存在直接的工作关系。据路透社报道，齐利斯告诉同事，孩子是通过试管婴儿技术出生的，两人并非恋爱关系。到2025年，两人",
+    "id": "news-ai-ceo-1794575497000",
+    "title": " AI 不是万能药，治不了CEO 的裁员病 ",
+    "link": "https://www.huxiu.com/article/4905497.html?f=rss",
+    "summary": "本文来自微信公众号： 领导者管理笔记 ，作者：张三峯，原文标题：《AI 不是万能药，治不了 CEO 的裁员病》 换一套工具，不动一套关系，是这一年最贵的自我安慰。 你手里有一张表，上面写着今年要压下来的人力成本。这张表不是你定的，但落到你手上之后，就成了你要交的东西。 这一年，交这张表多了一个体面的办法：上AI。我不想把它说成骗局，多数人是真觉得工具能解决问题。 但真正难办的那几件事——谁对结果负责、两个部门的边界谁划、出了问题找谁——一件都没被碰到。换工具反倒给了你一个不必碰它们的理由。 01 提问方式先于流程被改掉 工具还没到位，理由先到位了。 你今年报预算，大概已经答过这个问题了：这块能不能交给Agent。这一栏是立项表上新添的，答不上来，方案就先搁着，先去补一个能交代的说法。 不是因为这块活适合交给Agent，是因为「无AI不立项」这类口径在立项会上流传，渐渐被当成硬门槛：不带AI的方案不好过，带了AI的方案好交代。一个词走进公司会连着变几次形：在立项书上是通行证，在员工手册里是组织设计，到了考核表上就成了筛子。 Emburse那份《AI支出悖论》报告对得上这件事：调查了美英1500名企业决策者，58%说AI相关采购比其他软件更容易获批，62%承认曾把至少一项软件采购挂到AI项目名下以便过审。挂上去的理由，多半不是业务需要，是预算需要。这一行怎么填的，不用多解释。 一份方案",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
@@ -69,10 +309,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cookiy-labs-ai-1794544358000",
-    "title": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
-    "link": "https://www.tmtpost.com/8201722.html",
-    "summary": "让AI在需要人类经验时能够找到人，让提供经验的人获得授权和回报，让企业在做决定之前看到真实的人如何反应。",
+    "id": "news-700ah-1794566545000",
+    "title": "700Ah+再获大订单，大电芯转向交付竞争",
+    "link": "https://www.tmtpost.com/8204020.html",
+    "summary": "远景700Ah+储能电芯获海内外认可，成行业主流选项。",
     "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
@@ -108,248 +348,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ceo-exits-due-to-misconduct-have-doubled-compared-to-2024-1794515220000",
-    "title": "CEO exits due to misconduct have doubled compared to 2024",
-    "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
-    "summary": "&ldquo;It&rsquo;s not just a question of romance or morality anymore. It&rsquo;s a question of judgment,&rdquo; said Andy Challenger, chief revenue officer for Challenger, Gray &amp; Christmas.",
-    "publishedAt": "2026-11-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-1794480333000",
-    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-    "link": "https://www.qbitai.com/2026/11/509404.html",
-    "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-    "publishedAt": "2026-11-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-12-5-6-1794543110000",
-    "title": " “全民养牛”的骗局，卷走12万人的5.6亿 ",
-    "link": "https://www.huxiu.com/article/4905304.html?f=rss",
-    "summary": "本文来自微信公众号： 深氪新消费 ，作者：视频组 投资300万认养600头牛，最后账户里的真金白银，都被平台强行折算成了6万斤卖不出去的牛肉额度。 为什么这样一个“漏洞百出”的骗局，八年都没被拆穿？ 点击上方视频立即观看 以下是本期视频脚本： 花5000块钱在线认养一头澳洲肉牛，不用喂草不用铲屎，专业团队帮你养，实时直播看牧场，之后连本带利拿回来，年化最高15%。 听着是不是很让人动心？ 如果你信了，那就掉进了这场“全民养牛”的集资诈骗案。 别看一听就不靠谱，却有12万人深陷其中。 让这个一头牛都没有，甚至连牧场摄像头都是假的的诈骗平台，成功运营了整整8年、累计吸金5.6亿元。 投资300万认养600头牛，最后账户里的真金白银，都被平台强行折算成了6万斤卖不出去的牛肉额度。 为什么这样一个“漏洞百出”的骗局，八年都没被拆穿？ 大家好，我是深氪主播，见微。深挖消费密码，氪定财富乾坤，欢迎收听深氪新消费。 很多人第一次接触“云养牛”，基本都是在朋友圈或者亲友群里。 而且这个骗局可不是什么中年老专属，反倒是狙击了不少城市中产和年轻人。 中国裁判文书网近三年与“全民养牛”相关的民事裁定中，“90后”当事人占比接近一半，最小的26岁。 年轻人们大多对于实体农业不太了解，缺乏判断养殖项目真实盈利空间的常识。 最迷惑的是，这种平台它是真的会给你寄牛肉。 但是整个平台的5.6亿资金流里，也只有80",
-    "publishedAt": "2026-11-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794541980000",
-    "title": "没有人能穿上黄仁勋的皮夹克",
-    "link": "https://www.tmtpost.com/8204088.html",
-    "summary": "60位高管，零个接班人。",
-    "publishedAt": "2026-11-13",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-to-know-about-this-year-s-un-climate-talks-1794416400000",
-    "title": "What to know about this year’s UN climate talks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
-    "publishedAt": "2026-11-11",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-unfolding-jensen-huang-scandal-a-timeline-1794519300000",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "publishedAt": "2026-11-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
-    "title": "Many executives say they are worried about leading with empathy",
-    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
-    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
-    "publishedAt": "2026-11-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-anthropic-ipo-6000-1794478289000",
-    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-    "link": "https://www.qbitai.com/2026/11/509381.html",
-    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-    "publishedAt": "2026-11-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-googlebook15-1794543076000",
-    "title": " 联想Googlebook15评测：安卓电脑准备好了，安卓没有 ",
-    "link": "https://www.huxiu.com/article/4905303.html?f=rss",
-    "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有》 你用过「安卓电脑」吗？你会希望在一台「安卓电脑」上办公和娱乐吗？ 今年的Google I/O上，谷歌宣布了一条全新的安卓笔记本产品线——Googlebook。 谷歌希望将Android的优点与此前的Chromebook产品结合起来，以此打造一系列「AI时代的轻量化智能笔电」。 今年9月，谷歌联合联想、戴尔、惠普等五家合作厂商，推出了第一批Googlebook系列产品。 爱范儿这次拿到的，就是联想推出的Lenovo Googlebook 15： 根据谷歌的说法，Googlebook与之前的「谷歌电脑」最大的不同点，就在于它们所搭载的Googlebook OS—— 简单来说，Googlebook OS吸收了ChromeOS的桌面交互逻辑与浏览器能力，又融合了Android的应用生态、设备互联和系统底层架构，构成了一套以安卓为基础、面向笔记本形态打造的新操作系统。 当然，谷歌说起造电脑，其实已经是熟门熟路了： 早在2011年，谷歌就联合三星和宏碁（Acer）推出了第一批Chromebook，将「云端优先」的理念带进了个人电脑市场： 既然绝大多数工作任务能够通过浏览器完成，那电脑为什么还需要一个功能繁杂的传统操作系统？ 2017年，谷歌又推出",
-    "publishedAt": "2026-11-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1794541628000",
-    "title": "黄仁勋辞职，对中国企业影响几何？",
-    "link": "https://www.tmtpost.com/8204069.html",
-    "summary": "“达链”集体承压，国产芯片股强势走高。",
-    "publishedAt": "2026-11-13",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-preserving-minds-and-weighing-open-ai-risks-1794402600000",
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
-    "publishedAt": "2026-11-11",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-nebius-tests-the-neocloud-playbook-with-40-billion-in-planne-1794518830000",
-    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-    "publishedAt": "2026-11-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-7-stories-on-benefits-amid-open-enrollment-1794496200000",
-    "title": "7 stories on benefits amid open enrollment",
-    "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
-    "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
-    "publishedAt": "2026-11-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-grok-spacex-1794478104000",
-    "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-    "link": "https://www.qbitai.com/2026/11/509355.html",
-    "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
-    "publishedAt": "2026-11-12",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794542450000",
-    "title": " 叔圈顶流，盯上中产女孩的钱包 ",
-    "link": "https://www.huxiu.com/article/4905300.html?f=rss",
-    "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 你可能没买过比音勒芬，但大概率听说过这个牌子。 一件T恤卖到上千元，毛利率超过爱马仕。论定价和毛利，比音勒芬确实有几分奢侈品的架势，品牌的目标人群，也常常和精英、体制内、中年男人等标签绑定。 但这门看起来利润丰厚的生意，前两年也遇到了增长难题。2024年，比音勒芬遭遇了上市以来首次年度归母净利润下滑；2025年，利润降幅进一步扩大。 到了2026年，这家被称为“衣中茅台”的品牌，终于交出了一份双增长的成绩单：2026年前三季度，营业收入40.8亿元，同比增长27.4%；归母净利润7.5亿元，同比增长20.5%。 从连续两年利润下滑，到重新实现双位数增长，比音勒芬发生了什么？ 叔圈顶流，盯上中产女孩 提到比音勒芬，很多人的第一印象是机场、火车站里的常驻嘉宾。 在社交平台上，时不时有这样的评论——“一直以为比音勒芬是机场品牌”“受众群体就是我爸这种，我至今不理解他两千多买个这个牌子的半袖”。 这些调侃背后，是比音勒芬长期形成的品牌形象：主打高尔夫和商务着装，核心客群也以中高端成熟消费者为主。 但品牌想继续增长，只是守住原有客群显然不够，过去几年，比音勒芬一系列密集的品牌动作，都在指向——要拿下更年轻的高净值人群。 在主品牌内部，比音勒芬逐渐拓宽产品边界，目前已经形成四条产品线： Golf系列专注高尔夫运动服饰，Premium系列",
-    "publishedAt": "2026-11-13",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794541083000",
-    "title": "真心筑光，向远而行：中欧公益的长期主义实践",
-    "link": "https://www.tmtpost.com/8203876.html",
-    "summary": "中欧基金在这十年间走出了一条独特的企业公益长跑之路：将“长期主义”注入乡村教育帮扶，聚焦素质教育与陪伴成长，让金融向善的力量在细水长流中生根发芽。",
-    "publishedAt": "2026-11-13",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-pelosi-s-successor-targets-ai-and-data-centers--1794316200000",
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
-    "publishedAt": "2026-11-10",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-jensen-huang-was-having-a-third-affair-reuters-reports-1794515207000",
-    "title": "Jensen Huang was having a third affair, Reuters reports",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-    "publishedAt": "2026-11-12",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ai-hr"
-    ]
-  },
-  {
     "id": "news-a-wave-of-religious-discrimination-claims-is-coming-attorney-1794430500000",
     "title": "A wave of religious discrimination claims is coming, attorneys say",
     "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
@@ -364,11 +362,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-1794476046000",
-    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-    "link": "https://www.qbitai.com/2026/11/509349.html",
-    "summary": "企业 AI 的难题，不只是模型够不够强",
-    "publishedAt": "2026-11-12",
+    "id": "news--1794553962000",
+    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+    "link": "https://www.qbitai.com/2026/11/509716.html",
+    "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+    "publishedAt": "2026-11-13",
     "source": "量子位",
     "tags": [
       "china",
@@ -377,10 +375,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794541780000",
-    "title": " 金价波动，多家银行上线积存金“挂单”功能 ",
-    "link": "https://www.huxiu.com/article/4905294.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 金价高频振荡，多家银行上线积存金挂单功能，个人炒金进入“条件单”时代。但挂单只是中性工具，便利背后投资者仍要树立理性稳健的配置理念。 近期，金价一直处于高频波动阶段，银行也在黄金业务方面持续加码。 11月9日，中信银行发布公告称，该行预计自11月16日起上线积存金挂单功能，支持买入与赎回委托挂单。这是年内继建设银行、兴业银行、南京银行之后，又一家推出积存金“挂单”服务的银行，也意味着个人贵金属投资进入像炒股一样设置“条件单”的时代。 积存金交易模式升级 积存金业务，是银行提供积存金报价，客户主动购买，或是按约定时间、约定金额或重量买入积存金份额的黄金投资业务。此前银行积存金主流交易方式为“看盘实时下单”或是“定期定额定投”，投资者要么在盘中即时买入，要么设置定投计划。 这一模式存在一些局限。一方面，实时下单需要投资者盯盘操作，投资者很难全天候盯守行情。另一方面，定投通常只按固定周期投入，无法自主捕捉目标价位。在此背景下，为满足希望在心理预期价位及时购金、卖金的投资者交易，多家银行推出积存金挂单服务。 所谓“挂单”，本质上是一种限价委托交易机制。客户可在银行App预设“低于X元／克自动买入”或“高于Y元／克自动卖出”的条件，系统在行情监测中，满足价格条件时自动尝试成交。若买入挂单触发时，账户可用资金不足，该笔委托将无法成交。这也意味着",
+    "id": "news-6-1794575358000",
+    "title": " 喊了6年的“在中国，为中国”，奔驰真的做到了吗？ ",
+    "link": "https://www.huxiu.com/article/4905496.html?f=rss",
+    "summary": "本文来自微信公众号： 电动星球 ，作者：思为，原文标题：《喊了 6 年的「在中国，为中国」，奔驰真的做到了吗？》 「在中国，车正朝着巨大的、非常大的、大得吓人的方向发展。」 德国时间11月11日，奔驰CEO康林松分享的这个观察，今天在中文互联网广泛流传，还引得深蓝汽车董事长邓承浩的共鸣。 远在德国的行业会议，中国市场危机和电动化转型、技术变革三个话题并列为核心议题，康林松的讨论中，最核心的不是这句在德国媒体报道中被一句带过的观察，而是他后面那句成本结构「原则上要100%做到中国化」。 他后续补充称，单纯依靠全球各工厂生产、中国工厂完成整车组装的混合生产模式，在「激烈的价格战」中已经行不通。 就在这次表态前，奔驰公布的三季度财报显示，其该季度在华交付8.68万台，同比下降31%，今年前九个月奔驰在华累计交付29.7万台，同比下滑29%。 德意志银行分析师蒂姆·罗科萨在财报会上用「千刀万剐」来形容奔驰过去三年在中国市场的表现，康林松的回应是「确实经历了多次冲击」。 奔驰的遭遇并非孤例，更像是合资品牌近年来的在华缩影。压力之下，不少合资品牌都喊出了「在中国为中国」的口号，但喊口号容易，以奔驰为代表的车企到底落实到了多少？ 借着这个机会，我们来盘盘。 全新纯电E级要100%中国化？ 北京奔驰的零部件国产化率，到今天也就60%以上。 这个数字来自今年3月份北京经开区官网的报道，京津冀供应商占",
     "publishedAt": "2026-11-13",
     "source": "虎嗅",
     "tags": [
@@ -390,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-cheap-ai-tracks-are-crowding-human-arrangers-out-of-china-s--1794540784000",
-    "title": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy",
-    "link": "https://www.tmtpost.com/8204075.html",
-    "summary": "Chinese music platforms now add more than 100,000 songs a day, and a rising share is machine-made. Clients who once paid thousands for an arrangement now shop for a few hundred yuan and a menu of AI drafts. The middle of the profession is getting squeezed; the top and the pure commodity layers are sorting out differently.",
+    "id": "news--1794563799000",
+    "title": "新鲜零食店，动了谁的奶酪？",
+    "link": "https://www.tmtpost.com/8203909.html",
+    "summary": "任何一轮线下门店的快速复制，热闹都要落到加盟商的账本上。",
     "publishedAt": "2026-11-13",
     "source": "钛媒体",
     "tags": [
@@ -405,7 +403,387 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2611.17334v1",
+    "title": "Unbundling Multimodal Vision Encoding",
+    "authors": [
+      "Ellis Brown",
+      "Chris Hoang",
+      "Shengyi Qian",
+      "Shang-Wen Li",
+      "Mike Lewis",
+      "Marjan Ghazvininejad",
+      "Luke Zettlemoyer",
+      "Lucas Beyer",
+      "Mengye Ren",
+      "Jakob Verbeek",
+      "Saining Xie",
+      "Hu Xu"
+    ],
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a controlled framework where we pretrain all models from scratch on common data and compare them on visual question answering and language benchmarks at matched lifetime compute. We find that the visual",
+    "link": "http://arxiv.org/abs/2611.17334v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17332v1",
+    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "authors": [
+      "Jie Wang",
+      "Tong Zhu",
+      "JiaHao Kuang",
+      "Zhe Xu",
+      "Yunkai Chai",
+      "Dehong Zheng",
+      "Yu Cheng",
+      "Tao Ji",
+      "ZhouHan Lin",
+      "Qi Zhang",
+      "Bowen Zhou"
+    ],
+    "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace addresses both gaps as a public platform for Recording, Reviewing, and Referencing Architecture Researc}: each proposal is recorded with its experiments and reasoning, reviewed by the community, and r",
+    "link": "http://arxiv.org/abs/2611.17332v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17329v1",
+    "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+    "authors": [
+      "Zeynep Yıldız",
+      "Satchit Chatterji",
+      "Ercan Atam",
+      "Erman Acar"
+    ],
+    "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gradient (PLPG) offer constraint-satisfying reinforcement learning (RL) via differentiable symbolic supervision but assume a finite, discrete action space. We present a PLPG-inspired continuous allocation method that estimates the probability that the policy's own executed action satisfies the investment mandate, using reparameterized Monte Carlo sampling, and adds it to the training objective. No p",
+    "link": "http://arxiv.org/abs/2611.17329v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17323v1",
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "authors": [
+      "Ethan Lin",
+      "Akanksha Sarkar",
+      "Ziang Liu",
+      "Kristin Branson",
+      "Jennifer J. Sun"
+    ],
+    "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and studying how agents navigate this space under limited supervision. We find that even under weak feedback and matched compute, agents can synthesize code that combines and adapts established SSL techniques, exceeding the strongest human-engineered baselines in 8 of 12 settings by up to +21.8%. However,",
+    "link": "http://arxiv.org/abs/2611.17323v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17320v1",
+    "title": "Learning When Diffusion Language Models Should Regenerate",
+    "authors": [
+      "Minhae Oh",
+      "Jeonghye Kim",
+      "Jinwoo Koo",
+      "Yeongoon Kim",
+      "Jimin Seo",
+      "Minsik Seol",
+      "Jungwoo Lee"
+    ],
+    "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and which alternative to retain, while the generator itself stays unchanged. On five reasoning benchmarks with LLaDA-8B-Base, DiVR raises the average accuracy of the fine-tuned generator from 35.3\\% to 43.",
+    "link": "http://arxiv.org/abs/2611.17320v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17316v1",
+    "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+    "authors": [
+      "Peiwen Li",
+      "Harshit Verma",
+      "Sophia Zhou",
+      "Haiwen Wang",
+      "Ngoc Bui",
+      "Heng Chang",
+      "Fei Fei",
+      "David van Dijk",
+      "Rex Ying"
+    ],
+    "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting on available memory saves effort as the task unfolds. We introduce Coding-Repository Memory (CoReMem), a cost-internalizing framework that guides memory design and actor adaptation through measured memory value on the next task. Prospective segment valuation compares runs of the next task with and without individual trajectory segments from the same inherited repository state, guiding a compact memory built around anchors: repository locations and executable checks. Actor adaptation estimates on-",
+    "link": "http://arxiv.org/abs/2611.17316v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17314v1",
+    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "authors": [
+      "Abigail L. Tenenbaum",
+      "R. Thomas McCoy"
+    ],
+    "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes a network to many related functions to facilitate its subsequent learning of similar functions. Prior work has shown that these meta-learned networks can learn new functions rapidly, but how they do so remains unclear. To investigate their internal structure, we take inspiration from classic work demonstrating additive relationships among the learned vectors that neural networks use to represent words (e.g., \"king\" minus \"man\" plus \"woman\" approximates \"queen\"). Analogously, we look for additiv",
+    "link": "http://arxiv.org/abs/2611.17314v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17313v1",
+    "title": "Sketching Language Models for Context Attribution",
+    "authors": [
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "Grigoris Velegkas",
+      "Felix Zhou"
+    ],
+    "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $O(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ evaluation calls. To complement our upper bound, we prove a matching $Ω(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ lower bound on the number of evaluation calls in an oracle model. Empirically, we verify coefficient decay consistent with stability and evaluate the performance of our sketching algorithm on a small language-model retrieval task. Technically, ",
+    "link": "http://arxiv.org/abs/2611.17313v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.DS",
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17309v1",
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "authors": [
+      "Benjamin Hoover",
+      "Hugh Blayney",
+      "James C. R. Whittington"
+    ],
+    "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield & Tank's energy from the 80s, which we term CRAM, solves 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles after 42 ms and 132 ms of training on one GPU, at least 1,000x faster than looped mod",
+    "link": "http://arxiv.org/abs/2611.17309v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17308v1",
+    "title": "Quantifying structural stability of transparent models for general insurance pricing",
+    "authors": [
+      "Félix Côté",
+      "Marie-Pier Côté"
+    ],
+    "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple decision trees. Thus, we first introduce the notion of functional transparency, characterising models with a prediction function that can be expressed as a sum of univariate functions for main effects and bivariate functions for pairwise interactions. Then, we propose the Mean Squared Shape function distance, a metric to quantify the structural stability of functionally transparent models, which are p",
+    "link": "http://arxiv.org/abs/2611.17308v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17303v1",
+    "title": "Towards a Theory of Learnability via Debate",
+    "authors": [
+      "Tosca Lechner",
+      "Vinayak Pathak",
+      "Sivan Sabato",
+      "Ruth Urner"
+    ],
+    "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, judges a debate between two models that compete to prove the correctness of opposite labels. It can be shown that functions of a much higher computational complexity can be correctly judged in this way, compared to the complexity of functions that can be directly evaluated using a computationally weak evaluator. This suggests that perhaps debate can be used to teach very complicated functions to models. However, previous work has largely ignored the fact that this is a training protocol, and simply analyzes the game being played between the two debaters for a known judge. W",
+    "link": "http://arxiv.org/abs/2611.17303v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17302v1",
+    "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+    "authors": [
+      "Mohamed Alimoussa",
+      "Amal El Kaid"
+    ],
+    "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through estimator acts only in the backward pass, so the deployed descriptor is an interpretable hard-binary LBP with 90 learnable parameters and unchanged inference cost. In a controlled ablation on six color texture benchmarks, the component worth learning is dataset-dependent. One configuration, applied unchanged everywhere, learns the geometry and thresholds with the color transform frozen. It improv",
+    "link": "http://arxiv.org/abs/2611.17302v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17298v1",
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "authors": [
+      "Gaurav Parmar",
+      "Zhengqi Li",
+      "Richard Zhang",
+      "Jun-Yan Zhu",
+      "Srinivasa Narasimhan",
+      "Eli Shechtman",
+      "Yotam Nitzan"
+    ],
+    "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we compute patch-level correspondences in the input, guiding retrieval of previously generated outputs in the corresponding regions, and condition the model on these patches through correspondence cross-at",
+    "link": "http://arxiv.org/abs/2611.17298v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17297v1",
+    "title": "Goal Encoding in LLMs",
+    "authors": [
+      "Arnab Sen Sharma",
+      "Eric Todd",
+      "Sheridan Feucht",
+      "Andy Arditi",
+      "Rohit Gandikota",
+      "Natalie Shapira",
+      "Gabriele Sarti",
+      "Constanza Fierro",
+      "Lisa Schut",
+      "David Bau"
+    ],
+    "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this encoding is causal for next action and is plastic: transplanting it into a different environment, e.g., another programming language, triggers the same operation realized with a different sequence of toke",
+    "link": "http://arxiv.org/abs/2611.17297v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17294v1",
+    "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "authors": [
+      "Haozhe Wang",
+      "Lina Chen",
+      "Fanqi Wan",
+      "Qi Han",
+      "Yinmin Zhang",
+      "Zheng Ge",
+      "Daxin Jiang",
+      "Junchi Yan"
+    ],
+    "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development environment. Parallel commands can run concurrently, while serial commands share one execution slot per node; eligible waiting commands can migrate to available Macs and return results to the original age",
+    "link": "http://arxiv.org/abs/2611.17294v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.DC"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17287v1",
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "authors": [
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
+    ],
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contain many false positives. This asymmetry makes standard RLVR unreliable, because reinforcing verified positives can directly reward shortcuts that pass partial checks. To address this issue, we propose Negative-Only Policy Optimization (NOPO), which treats verified positives as unlabeled and updates the policy only by suppressing trusted ve",
+    "link": "http://arxiv.org/abs/2611.17287v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17280v1",
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "authors": [
+      "Gautam Galada",
+      "Supreeth Shastri",
+      "Sagnik Ray Choudhury"
+    ],
+    "summary": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through ordinary communication channels. An adversary monitoring these channels can discover this information. We demonstrate this threat by training two open-weight models to infer gender and age-group labels from conversational cues and encode their predictions using invisible characters or word choices. These results show that user-shared model outputs can become a covert channel for personal inferences",
+    "link": "http://arxiv.org/abs/2611.17280v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17267v1",
+    "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+    "authors": [
+      "Pengcheng Zhou",
+      "Xuanyu Liu",
+      "Yanchen Yin",
+      "Tianjie Ju",
+      "Bobo Li",
+      "Shengqiong Wu",
+      "Hao Fei",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "summary": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in real-world geographic structure and allows external world states to evolve along their own temporal processes while preserving verifiable state histories. LiveGeo places geographic tasks within this evolving environment, requiring agents to actively acquire task-relevant information, verify whether the evidence supporting prior decisions remains valid, and revise their plans when necessary. Our results reveal that even frontier LLMs struggle with static ",
+    "link": "http://arxiv.org/abs/2611.17267v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17246v1",
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "authors": [
+      "Tiago de Souza Farias",
+      "Caio Moraes Porto",
+      "Matheus da Silva Fonseca",
+      "Nicolas Armando Cabrera Carpi",
+      "Anderson de Araujo Oliveira",
+      "Celso Jorge Villas-Boas"
+    ],
+    "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on general random Hamiltonians, structured parent Hamiltonians, and molecular systems. For general Hamiltonians, LLM-generated parameters exhibit larger energy errors than conventional Adam optimization, while additional feedback generally provides limited improvement. In contrast, for structured Hamiltonians, the LLM can generate promising ",
+    "link": "http://arxiv.org/abs/2611.17246v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17241v1",
+    "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+    "authors": [
+      "Samidha Verma",
+      "Ankit Anand",
+      "Sayan Ranu"
+    ],
+    "summary": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deeper question: given a pool of LLMs spanning frontier and freely hosted or open-weight models, how should one adaptively select which model to invoke at each step of the search? The challenge is non-trivial. The optimal LLM may shift over the course of a run, and because one LLM's output seeds the context for subsequent calls, each model's r",
+    "link": "http://arxiv.org/abs/2611.17241v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -750,4 +1128,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-13T04:53:29.036Z';
+export const dataFetchedAt = '2026-11-13T13:52:22.933Z';
