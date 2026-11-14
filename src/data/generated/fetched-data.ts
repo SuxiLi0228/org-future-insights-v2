@@ -41,11 +41,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-33-3-1794560559000",
-    "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-    "link": "https://www.qbitai.com/2026/11/509995.html",
-    "summary": "一个时代结束了",
-    "publishedAt": "2026-11-13",
+    "id": "news-2-0-1794650888000",
+    "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+    "link": "https://www.qbitai.com/2026/11/510297.html",
+    "summary": "马斯克也签名了",
+    "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794630379000",
-    "title": " 国内车市很可能几年都爬不出坑了 ",
-    "link": "https://www.huxiu.com/article/4905581.html?f=rss",
-    "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 今年前10个月，国内狭义乘用车零售少了约430万辆，其中约286万辆是轿车。原来动辄月销两三万辆的朗逸、速腾和轩逸，去年10月合计卖了8.1万辆，今年同月只剩3.5万辆。新能源渗透率在10月升到67.5%，同月的新能源车也少卖了13.7%。 即使明年开始回暖，国内车市也很难很快卖回去。乘联分会预计今年全年零售约1850万辆，明年在政策和市场环境没有超预期变化的情况下，可能增长0%至5%。按最乐观的5%算，明年约卖1943万辆，离2025年的2374万辆仍差约432万辆。以1850万辆为起点，单年涨28%左右才能回到那个位置。换成一个简单的算术情景，即使每年都涨5%，也要到第六年才超过去年的销量。这笔账算的是回去有多远。究竟需要多久，要看今年少掉的买家还有多少会回来。 入门小车少掉的量，高一级也没接住 SUV前10个月少卖约126万辆，份额反而从约49.8%升到55.6%，因为轿车跌得更快。新能源也有同样的反差。2024年、2025年和今年前10个月，新能源渗透率分别是46.7%、52.7%和59.2%，升幅相近。今年同期新能源零售886.9万辆，同比却少了12.9%。10月，普通混动零售还增长28%，纯燃油则下降51%。按累计销量倒推，新能源少了约131万辆，其余动力少了近300万辆。新能源在国内销量里的位置更大了，还没有走出整车市",
+    "id": "news--1794659040000",
+    "title": " 黄仁勋辞职了，然后呢？ ",
+    "link": "https://www.huxiu.com/article/4905631.html?f=rss",
+    "summary": "本文来自微信公众号： 阿朱说 ，作者：吕建伟，头图来自：AI生成 一、算力 环中国算力中心。 过去你知我知大家知，都遵照潜规则。 这次有人掀桌子了。 会加速国产算力和存储的成熟吗？ 不会。 硬件的研发，有其硬性的时间。 但也不要太悲观： 1、现在模型架构已经很难再大提升了，模型效果提升主要依靠前训练的高质量数据投喂、后训练的Agent长任务对齐。都是在基础上迭代，很少有人做全新训练了。这会省点训练用芯片。 2、训练，只用于可数的那几个大模型研发厂商。大量的用户，用的是推理。而推理芯片，咱们中国国产还是可以加速成熟的，2028年量大管饱，应该问题不大。 二、算法 会减速国产大模型研发吗？ 会，训练更大的模型更难、训练时间会更长。 而且按照国产大模型蒸馏老外的尿性，随着老外不断加防蒸馏护栏，也会减速国产大模型研发。 但也不要太悲观： 1、现在大模型提升智力，主要靠Agent这个外脑做外挂代偿，才使得最终结果显得挺聪明。研发大模型咱们不行，但研发Agent这种应用平台级的东西，咱们还是比较拿手的。尤其现在Agent平台本身的研发，人们都形成了左脚蹬右脚的RSI自进化。让平台研发人员人肉加速Agent平台研发，这挺难高速进化。但是让Agent平台使用RSI，那就是机器自我进化，那就是机器速度了。 2、尤其Agent平台随着海量用户使用，还能产生源源不断的海量长任务上下文数据，这又给大模型后",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794623400000",
-    "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
-    "link": "https://www.tmtpost.com/8204938.html",
-    "summary": "国产葡萄酒新玩家的野心、机遇与隐忧。",
+    "id": "news--1794652626000",
+    "title": "库克接班，可能真是英伟达的最优解",
+    "link": "https://www.tmtpost.com/8205427.html",
+    "summary": "再找一个黄仁勋很难，先找一个库克呢？",
     "publishedAt": "2026-11-14",
     "source": "钛媒体",
     "tags": [
@@ -121,11 +122,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meet2027-ai4s-ai-infra-1794556268000",
-    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-    "link": "https://www.qbitai.com/2026/11/509827.html",
-    "summary": "12.9 北京，来MEET2027现场",
-    "publishedAt": "2026-11-13",
+    "id": "news-5-1794650302000",
+    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+    "link": "https://www.qbitai.com/2026/11/510232.html",
+    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+    "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -134,10 +135,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794630060000",
-    "title": " AI进步属于全人类，凑合生活丢给普通人 ",
-    "link": "https://www.huxiu.com/article/4905084.html?f=rss",
-    "summary": "出品 | 虎嗅青年文化组 作者 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那个NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 2026年的AI大爆炸与具身机器人风口，让人类文明再次狂飙突进。 身处这趟飞驰的时代列车之中，总让人觉得距离共产主义就差一次版本更新。 然而，当各国工程师在如此振奋人心的历史进程中勇攀科技树的时候，大众的日常生活却出现了一些不太体面的场面，人们惊觉自己越来越难买到一件经得起折腾的普通商品： 衣服穿不了几次就起球、刚过保修期就罢工的小家电、质量越来越烂的玩具，以及在人工智能时代工作近乎于智障的机器人... 这多少，有点尴尬。 21世纪最流行的消费者都市传说是什么？ 那就是家电过保就坏。 在小红书上，有无数帖子声称自己的某件电器在保修期结束后，便突然罢工，大到洗衣机小到剃须刀可以说抱怨的声音是无所不包。 当讨论的久了，人们便对这件事的讨论甚至出现了神秘主义倾向，怀疑这种精确的损坏，源自生产厂家在机器内部放置了倒计时装置，以至于保修期显得不像是一种售后承诺，更像是写上寿命的生死簿。 而这种抱怨不止于家电，类似的状况几乎已经渗透到了日常生活的各个角落。 这两年中古的概念深入人心，在传统观点里，人们总将这种消费现象归结于图便宜或者是追求某种复古品味。 但这两年，越来越多服装玩家追求中古，是想要更好的品质，",
+    "id": "news--1794658602000",
+    "title": " 过度追求流行审美，容易失去品牌辨识度 ",
+    "link": "https://www.huxiu.com/article/4905635.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：Laris 2026年，设计行业对AI审美雷同的回应，出现了两种值得放在一起看的声音。设计师期待用手作痕迹、不规整的字形和更鲜明的个人表达摆脱千篇一律；创意奖项的评委却发现，复古与迷幻字体也在新品牌识别作品中趋于饱和。追求个性的意愿，并没有阻止品牌采用相似的外观。 这种相似也与创作的起点有关。包装、门店和品牌内容都可以迅速找到「好看的样子」，团队也容易围绕这些画面达成共识。当热门作品成为设计需求，品牌接下来讨论的就容易是如何接近它，而自己的产品、顾客和经营方式，还没有充分参与决定设计方向。 01 模仿流行， 解决不了 品牌同质化 2026年初，Pentagram合伙人Emily Oberman在Fast Company的年度展望中，期待设计重新表现出人的不完美，包括不太规整的字形、不合常规的配色，以及容易被AI修饰掉的瞬间。同篇文章中，设计工作室Cotton创始人Talia Cotton预计，工艺和细节将重新受到重视；她也提醒，这种回归仍会经历潮流的兴起与退去。 设计工作室Center创始人Alex Center在D&amp;AD的评审观察中指出，复古、带有迷幻感的字体在新品牌识别参赛作品中已经趋于饱和。他欢迎大胆的表达，也要求作品呈现更大的差异。 两组观点讨论的，是创作判断与视觉风格之间的落差。设计师保留不完美，可能来自对",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +149,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794623100000",
-    "title": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
-    "link": "https://www.tmtpost.com/8204784.html",
-    "summary": "终于来了么？",
+    "id": "news-adc-1794652621000",
+    "title": "ADC载荷迭代迈入加速期",
+    "link": "https://www.tmtpost.com/8205391.html",
+    "summary": "从分子竞争到平台比拼。",
     "publishedAt": "2026-11-14",
     "source": "钛媒体",
     "tags": [
@@ -201,11 +202,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794555783000",
-    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-    "link": "https://www.qbitai.com/2026/11/509796.html",
-    "summary": "250名国内顶尖三甲医院医生联合评测",
-    "publishedAt": "2026-11-13",
+    "id": "news-31-2-1794649714000",
+    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+    "link": "https://www.qbitai.com/2026/11/510150.html",
+    "summary": "童年的纸飞机，现在终于飞回我手里～",
+    "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -214,10 +215,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794629936000",
-    "title": " 强人离场之后 ",
-    "link": "https://www.huxiu.com/article/4905579.html?f=rss",
-    "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 曾经有位著名的银行业首席对我说：银行本质上都是无人驾驶概念股。换句话说，谁来掌舵都一样。再外推一点，这显然应该是你对一家成熟的官僚制企业的基准预期。作为外部人，你不用关心谁坐在老板位上，它叠床架屋的股权和组织结构，在很大程度上让它变得可预期。本质上，这些企业展现出来的行动结果，并不来自个人意志，而是组织层面的“集体意识”；其利润来源则是社会性的“租金”。至于用什么方式收租，这里多一点还是那里少一点，并不影响大局——对于“掌舵者”而言，权力的精髓不是大刀阔斧地做什么，而是尽可能地克制、不要弄出太多意外。这种信念也自然表现在股价上，你可以说某家银行存在alpha，但从银行整个板块来说，基本面并不是驱动其一路上行的因素。 但对科技公司而言，逻辑迥然不同。科技企业并不依赖社会性的“租金”，它们始终面临着快速的淘汰和生死存亡。所有如今的科技巨头，都必然经历过许多个濒临破产的关头，依赖其领导者做了许多事前看来相当冒险、事后看来相当正确的决策，才被我们所熟知。强人和领导力的价值，在科技公司是相当关键的。 那么，失去了黄仁勋的英伟达（让我们先假设他“高风亮节”地离去），会怎么样？ 我们经常会假设历史。比如，如果德意志帝国没有失去俾斯麦，会发生什么？很难预测，或许那种模糊而复杂的外交均势能够延续下去，或许我们有机会规避世界大战这种残酷的",
+    "id": "news-14-1794658565000",
+    "title": " 光伏龙头花14亿养猪，被迫还是豪赌？ ",
+    "link": "https://www.huxiu.com/article/4905634.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：万肇生 光伏行业尚未走出寒冬，通威却把目光投向了同样处于周期底部的养猪业。 11月9日晚间，天邦食品公告，通威集团拟出资14.41亿元参与公司重整，以每股0.98元的价格受让14.70亿股股份。交易完成后，通威集团预计持有天邦食品27.8%的股权，并取得这家老牌猪企的控制权。 需要注意的是，此次出手的是通威集团由创始人刘汉元实际控制，是A股上市公司通威股份的控股股东。 这也代表着，未来天邦的养猪业务并不会直接并入通威股份的财务报表。 作为市场熟悉的光伏龙头，养猪看似是一次跨界，但其实通威本就是靠饲料起家的，而且2024年通威股份旗下通威农业还曾以16.5亿元受让天邦所持史记生物30%股权，进入了养猪前置的生猪育种相关领域。 客户连饲料钱都付不起 公开资料显示，1986年，刘汉元从水产饲料创业，逐步建立起通威的农业版图。2004年，主营饲料业务的通威股份登陆上交所。此后通威股份向光伏产业扩张，并于2016年将主要光伏资产注入上市公司，逐渐成长为全球光伏制造龙头。 1992年，四川通威饲料有限公司成立。通威集团官网 从饲料到太阳能电池，再到今天准备控股一家养猪企业，通威用了整整40年。 但这一次，通威进军养猪，或许不完全是主动选择，毕竟通威既是天邦多年的饲料供应商，也是至今还有饲料款没收回来的债权人。 据悉，双方的合作早在2021年便已开始。当时",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
@@ -227,10 +228,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794622620000",
-    "title": "苹果不想一直“躺赢”",
-    "link": "https://www.tmtpost.com/8204097.html",
-    "summary": "新任CEO坐不住了。",
+    "id": "news-a-ps-1794650338000",
+    "title": "A股一级行业，PS偏离度分布与深潜分析",
+    "link": "https://www.tmtpost.com/8205459.html",
+    "summary": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离度为负，也未必是低估。",
     "publishedAt": "2026-11-14",
     "source": "钛媒体",
     "tags": [
@@ -279,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1900-suv-9-1794554274000",
-    "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-    "link": "https://www.qbitai.com/2026/11/509730.html",
-    "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-    "publishedAt": "2026-11-13",
+    "id": "news-token-1794649262000",
+    "title": "绿电进Token出！联想重新定义词元工厂",
+    "link": "https://www.qbitai.com/2026/11/510094.html",
+    "summary": "年产2000万亿Token，成本狂降70%",
+    "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -292,24 +293,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794629695000",
-    "title": " 清华教授李宁：AI强得可怕，人怎么办？ ",
-    "link": "https://www.huxiu.com/article/4905578.html?f=rss",
-    "summary": "本文来自微信公众号： 正和岛 ，编辑：星辰，作者：李宁、孙允广 无论你是否愿意，AI正以前所未有的速度，全面介入人类生活。 2022年底，ChatGPT横空出世，大模型浪潮席卷全球，短短几年，我们充分感受到AI的强大，翻译、P图、写代码，AI短剧让6亿人沉迷。 一个更为现实的冲击是，一大批数字员工加速“入职”，成为人类新同事。这意味着基于工业革命，延续200多年的社会分工制度，正在悄然瓦解。 当AI越来越强大，组织还有必要存在吗？普通人又该怎么办？这是每个人都关心的时代命题。 前段时间，我们拜访了清华大学经济管理学院教授、组织研究学者李宁。他是最早研究AI原生组织的学者，他认为“岗位、层级、KPI”等工业时代的标配正在被颠覆和重构，人与组织将会从雇佣关系变成合伙关系，具备独立判断能力的“超级个体”将拥有更多筹码。 他还回答了一个“扎心”问题：AI让个人效率提升数倍，但95%的组织却没有获得显著回报，极具洞见。 以下为采访内容精编，希望对你有所启发。 嘉宾：李宁清华大学经济管理学院教授，《AI原生组织》作者 访谈：孙允广正和岛内容总监 编辑：星辰 来源：正和岛（ID：zhenghedao） 传统组织，正在崩塌 孙允广：在您看来，AI技术加速到来，对传统组织带来了哪些冲击？又是如何动摇了传统组织的根基？ 李宁：传统组织聚焦点在人，主要建立在3个核心假设之上。 一是人的有限理性。人不是全",
+    "id": "news--1794656418000",
+    "title": " 野人先生的中场战事：拿到钱后，好商场还够分吗? ",
+    "link": "https://www.huxiu.com/article/4905630.html?f=rss",
+    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：洪君 热钱就位，野人先生要升温了？ 过去十多年，野人先生一直没有接受外部融资。 对于这件事，创始人崔渐为曾有过自己的解释。今年4月，他在接受采访时谈到，投资人其实早几年就找上门来了，但在他看来，拿到钱的前提，是企业知道该如何让资金发挥作用。 半年后，这家成立15年的冰淇淋品牌，迎来了自己的第一笔外部股权融资。 10月30日，野人先生宣布完成首轮融资，黑蚁资本成为其长期战略合作伙伴。此时，野人先生已经拥有1800多家在营门店。 如今，野人先生已经将Gelato做成了一门全国连锁生意，而一个更大的市场必定也开始吸引新的参与者。 随着喜茶、霸王茶姬等头部茶饮品牌也开始相继推出Gelato产品，野人先生曾经花费十多年做大的生意，如今也走进了一个竞争者越来越多的市场。 对的人遇上对的钱 过去能够不依赖外部融资实现扩张，与野人先生的经营模式有很大关系。 2024年开放加盟后，野人先生逐渐将经营重心转向加盟体系。今年6月，联合创始人姜博在接受采访时透露，品牌当时仅保留7家直营门店，主要承担新品测试、运营标准完善和品牌活动等职能。 只是，加盟商能够帮助野人先生跑马圈地，却无法替总部解决规模化后面临的新问题。 尤其是当一家品牌从不足百家门店在2年多时间内便迅速扩张到1800多家，经营管理的复杂程度也在增加。 △图片来源：红餐网摄 姜博曾坦言，相",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-43-reits-1794622380000",
-    "title": "银泰到底姓什么？43亿REITs背后的招牌之争",
-    "link": "https://www.tmtpost.com/8204078.html",
-    "summary": "“天下甬商是一家”的招牌不能丢。",
+    "id": "news-ps-a-1794650256000",
+    "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
+    "link": "https://www.tmtpost.com/8205450.html",
+    "summary": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。",
     "publishedAt": "2026-11-14",
     "source": "钛媒体",
     "tags": [
@@ -360,11 +360,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794553962000",
-    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-    "link": "https://www.qbitai.com/2026/11/509716.html",
-    "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
-    "publishedAt": "2026-11-13",
+    "id": "news--1794625175000",
+    "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+    "link": "https://www.qbitai.com/2026/11/510013.html",
+    "summary": "狂揽3000万播放量",
+    "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
       "china",
@@ -373,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-4-91-1794629464000",
-    "title": " 半年狂赚4.91亿，毛利率跑赢爱马仕：中登捧红的“衣中茅台”，又杀回来了？ ",
-    "link": "https://www.huxiu.com/article/4905577.html?f=rss",
-    "summary": "本文来自微信公众号： 深氪新消费 ，作者：朱末 这是深氪新消费第2321期分享： 一个靠“中年体面”吃饭的牌子，被中年人和年轻人同时嫌弃之后，凭什么又杀了个回马枪？ 都说中年男人的消费是市场洼地，却偏偏有个“不信邪”的国产服饰品牌，在这片洼地里挖出了堪比奢侈品的利润金矿。 它不请顶流、不搞联名、也不进直播间喊“321上链接”，连logo都常年被吐槽“土”。可就是这么个“闷”牌子，交出了一份让整个服饰圈坐不住的财报：2026年上半年营收26.01亿、净利4.91亿、毛利率75.88%。 这是什么概念呢？没有对比没有伤害，比音勒芬2026年上半年的毛利率，比爱马仕同期的71.14%还高出四个多百分点；而同期20家已披露中报的A股服饰公司毛利率均值，它一家顶人家一个半，堪称彪悍。 数据摞在一起，你会以为这是一家春风得意的公司。可就在一年前，它还是另一副模样：2025年净利暴跌29.46%，四季度单季亏损6892万，股价两年腰斩，库存压到352天，媒体给出了“卖不动”的判词。 一边是毛利率高过爱马仕，一边是被“中年危机”按在地上摩擦——同一家公司，两张脸，中间只隔了一个转身的工夫。 它就是比音勒芬，一件POLO衫敢卖到千元以上的国产高尔夫服饰品牌。捧红它的，是一群被网友喊作“中登”的中年男人，他们的画像多是中小企业主、公务员、国企中高层，这群人不缺钱，缺的是“穿什么不出错”的答案，怕的是“",
+    "id": "news--1794655739000",
+    "title": " 投资于“人”如何打开内需空间 ",
+    "link": "https://www.huxiu.com/article/4905628.html?f=rss",
+    "summary": "本文来自微信公众号： 李迅雷金融与投资 ，作者：张德礼 郭瑞琪 核心观点 2026年财政支出偏慢，投资于“物”面临约束是重要原因。2026年前三季度一般公共预算和政府性基金这两本账的支出，合计同比下降3.5%。从财政收入和广义赤字使用进度两个维度看，资金并非拖累财政支出的最主要原因，根源在于投资于“物”面临强约束：一是回报和投资相匹配的项目或不足；二是项目审核与前期准备要求进一步提高；三是化债稳步推进和土地出让金减少，地方财政资金统筹面临一定约束。 投资于“人”兼顾扩内需与增后劲。当投资于“物”的回报下降、推进节奏放缓时，有必要适当向投资于“人”倾斜：第一，投资于物短期可以拉动经济，但如果需求没有同步增加，拉长时间看过度投资于物反而可能对经济形成拖累。投资于人虽然是慢变量，但中长期有望实现供、需的双向增长；第二，从国情实际来看，当前“人”的不足日益明显，体现在出生率不断下滑、居民消费存在提升空间、基本公共服务供给仍有发展空间，需要政策加力支持；第三，从国际经验看，一国在经济发展初期，往往致力于对物质资本的投资，以实现经济的快速增长。但是在达到中高收入发展的阶段后，政策会逐步转向增加对“人”的投入，既有投资于“物”边际效益递减的约束，也有更好满足人民群众对美好生活向往的政策诉求。韩国正是这一转型模式的经典代表。 近年来“投资于人”在政策文件和重要会议中的提及频次明显上升，民生类支出占",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794622140000",
-    "title": "英伟达第一次没有黄仁勋",
-    "link": "https://www.tmtpost.com/8204046.html",
-    "summary": "谁来押注下一个十年？",
+    "id": "news-11-13-1794650233000",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8205442.html",
+    "summary": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。",
     "publishedAt": "2026-11-14",
     "source": "钛媒体",
     "tags": [
@@ -401,7 +401,387 @@ export const generatedNews: NewsItem[] = [
   }
 ];
 
-export const generatedPapers: ArxivPaper[] = [];
+export const generatedPapers: ArxivPaper[] = [
+  {
+    "id": "arxiv-2611.17334v1",
+    "title": "Unbundling Multimodal Vision Encoding",
+    "authors": [
+      "Ellis Brown",
+      "Chris Hoang",
+      "Shengyi Qian",
+      "Shang-Wen Li",
+      "Mike Lewis",
+      "Marjan Ghazvininejad",
+      "Luke Zettlemoyer",
+      "Lucas Beyer",
+      "Mengye Ren",
+      "Jakob Verbeek",
+      "Saining Xie",
+      "Hu Xu"
+    ],
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a controlled framework where we pretrain all models from scratch on common data and compare them on visual question answering and language benchmarks at matched lifetime compute. We find that the visual",
+    "link": "http://arxiv.org/abs/2611.17334v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17332v1",
+    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "authors": [
+      "Jie Wang",
+      "Tong Zhu",
+      "JiaHao Kuang",
+      "Zhe Xu",
+      "Yunkai Chai",
+      "Dehong Zheng",
+      "Yu Cheng",
+      "Tao Ji",
+      "ZhouHan Lin",
+      "Qi Zhang",
+      "Bowen Zhou"
+    ],
+    "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace addresses both gaps as a public platform for Recording, Reviewing, and Referencing Architecture Researc}: each proposal is recorded with its experiments and reasoning, reviewed by the community, and r",
+    "link": "http://arxiv.org/abs/2611.17332v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17329v1",
+    "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+    "authors": [
+      "Zeynep Yıldız",
+      "Satchit Chatterji",
+      "Ercan Atam",
+      "Erman Acar"
+    ],
+    "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gradient (PLPG) offer constraint-satisfying reinforcement learning (RL) via differentiable symbolic supervision but assume a finite, discrete action space. We present a PLPG-inspired continuous allocation method that estimates the probability that the policy's own executed action satisfies the investment mandate, using reparameterized Monte Carlo sampling, and adds it to the training objective. No p",
+    "link": "http://arxiv.org/abs/2611.17329v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17323v1",
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "authors": [
+      "Ethan Lin",
+      "Akanksha Sarkar",
+      "Ziang Liu",
+      "Kristin Branson",
+      "Jennifer J. Sun"
+    ],
+    "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and studying how agents navigate this space under limited supervision. We find that even under weak feedback and matched compute, agents can synthesize code that combines and adapts established SSL techniques, exceeding the strongest human-engineered baselines in 8 of 12 settings by up to +21.8%. However,",
+    "link": "http://arxiv.org/abs/2611.17323v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17320v1",
+    "title": "Learning When Diffusion Language Models Should Regenerate",
+    "authors": [
+      "Minhae Oh",
+      "Jeonghye Kim",
+      "Jinwoo Koo",
+      "Yeongoon Kim",
+      "Jimin Seo",
+      "Minsik Seol",
+      "Jungwoo Lee"
+    ],
+    "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and which alternative to retain, while the generator itself stays unchanged. On five reasoning benchmarks with LLaDA-8B-Base, DiVR raises the average accuracy of the fine-tuned generator from 35.3\\% to 43.",
+    "link": "http://arxiv.org/abs/2611.17320v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17316v1",
+    "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+    "authors": [
+      "Peiwen Li",
+      "Harshit Verma",
+      "Sophia Zhou",
+      "Haiwen Wang",
+      "Ngoc Bui",
+      "Heng Chang",
+      "Fei Fei",
+      "David van Dijk",
+      "Rex Ying"
+    ],
+    "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting on available memory saves effort as the task unfolds. We introduce Coding-Repository Memory (CoReMem), a cost-internalizing framework that guides memory design and actor adaptation through measured memory value on the next task. Prospective segment valuation compares runs of the next task with and without individual trajectory segments from the same inherited repository state, guiding a compact memory built around anchors: repository locations and executable checks. Actor adaptation estimates on-",
+    "link": "http://arxiv.org/abs/2611.17316v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17314v1",
+    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "authors": [
+      "Abigail L. Tenenbaum",
+      "R. Thomas McCoy"
+    ],
+    "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes a network to many related functions to facilitate its subsequent learning of similar functions. Prior work has shown that these meta-learned networks can learn new functions rapidly, but how they do so remains unclear. To investigate their internal structure, we take inspiration from classic work demonstrating additive relationships among the learned vectors that neural networks use to represent words (e.g., \"king\" minus \"man\" plus \"woman\" approximates \"queen\"). Analogously, we look for additiv",
+    "link": "http://arxiv.org/abs/2611.17314v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17313v1",
+    "title": "Sketching Language Models for Context Attribution",
+    "authors": [
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "Grigoris Velegkas",
+      "Felix Zhou"
+    ],
+    "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $O(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ evaluation calls. To complement our upper bound, we prove a matching $Ω(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ lower bound on the number of evaluation calls in an oracle model. Empirically, we verify coefficient decay consistent with stability and evaluate the performance of our sketching algorithm on a small language-model retrieval task. Technically, ",
+    "link": "http://arxiv.org/abs/2611.17313v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.DS",
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17309v1",
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "authors": [
+      "Benjamin Hoover",
+      "Hugh Blayney",
+      "James C. R. Whittington"
+    ],
+    "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield & Tank's energy from the 80s, which we term CRAM, solves 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles after 42 ms and 132 ms of training on one GPU, at least 1,000x faster than looped mod",
+    "link": "http://arxiv.org/abs/2611.17309v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17308v1",
+    "title": "Quantifying structural stability of transparent models for general insurance pricing",
+    "authors": [
+      "Félix Côté",
+      "Marie-Pier Côté"
+    ],
+    "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple decision trees. Thus, we first introduce the notion of functional transparency, characterising models with a prediction function that can be expressed as a sum of univariate functions for main effects and bivariate functions for pairwise interactions. Then, we propose the Mean Squared Shape function distance, a metric to quantify the structural stability of functionally transparent models, which are p",
+    "link": "http://arxiv.org/abs/2611.17308v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17303v1",
+    "title": "Towards a Theory of Learnability via Debate",
+    "authors": [
+      "Tosca Lechner",
+      "Vinayak Pathak",
+      "Sivan Sabato",
+      "Ruth Urner"
+    ],
+    "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, judges a debate between two models that compete to prove the correctness of opposite labels. It can be shown that functions of a much higher computational complexity can be correctly judged in this way, compared to the complexity of functions that can be directly evaluated using a computationally weak evaluator. This suggests that perhaps debate can be used to teach very complicated functions to models. However, previous work has largely ignored the fact that this is a training protocol, and simply analyzes the game being played between the two debaters for a known judge. W",
+    "link": "http://arxiv.org/abs/2611.17303v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17302v1",
+    "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+    "authors": [
+      "Mohamed Alimoussa",
+      "Amal El Kaid"
+    ],
+    "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through estimator acts only in the backward pass, so the deployed descriptor is an interpretable hard-binary LBP with 90 learnable parameters and unchanged inference cost. In a controlled ablation on six color texture benchmarks, the component worth learning is dataset-dependent. One configuration, applied unchanged everywhere, learns the geometry and thresholds with the color transform frozen. It improv",
+    "link": "http://arxiv.org/abs/2611.17302v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17298v1",
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "authors": [
+      "Gaurav Parmar",
+      "Zhengqi Li",
+      "Richard Zhang",
+      "Jun-Yan Zhu",
+      "Srinivasa Narasimhan",
+      "Eli Shechtman",
+      "Yotam Nitzan"
+    ],
+    "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we compute patch-level correspondences in the input, guiding retrieval of previously generated outputs in the corresponding regions, and condition the model on these patches through correspondence cross-at",
+    "link": "http://arxiv.org/abs/2611.17298v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17297v1",
+    "title": "Goal Encoding in LLMs",
+    "authors": [
+      "Arnab Sen Sharma",
+      "Eric Todd",
+      "Sheridan Feucht",
+      "Andy Arditi",
+      "Rohit Gandikota",
+      "Natalie Shapira",
+      "Gabriele Sarti",
+      "Constanza Fierro",
+      "Lisa Schut",
+      "David Bau"
+    ],
+    "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this encoding is causal for next action and is plastic: transplanting it into a different environment, e.g., another programming language, triggers the same operation realized with a different sequence of toke",
+    "link": "http://arxiv.org/abs/2611.17297v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17294v1",
+    "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "authors": [
+      "Haozhe Wang",
+      "Lina Chen",
+      "Fanqi Wan",
+      "Qi Han",
+      "Yinmin Zhang",
+      "Zheng Ge",
+      "Daxin Jiang",
+      "Junchi Yan"
+    ],
+    "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development environment. Parallel commands can run concurrently, while serial commands share one execution slot per node; eligible waiting commands can migrate to available Macs and return results to the original age",
+    "link": "http://arxiv.org/abs/2611.17294v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.DC"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17287v1",
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "authors": [
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
+    ],
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contain many false positives. This asymmetry makes standard RLVR unreliable, because reinforcing verified positives can directly reward shortcuts that pass partial checks. To address this issue, we propose Negative-Only Policy Optimization (NOPO), which treats verified positives as unlabeled and updates the policy only by suppressing trusted ve",
+    "link": "http://arxiv.org/abs/2611.17287v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17280v1",
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "authors": [
+      "Gautam Galada",
+      "Supreeth Shastri",
+      "Sagnik Ray Choudhury"
+    ],
+    "summary": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through ordinary communication channels. An adversary monitoring these channels can discover this information. We demonstrate this threat by training two open-weight models to infer gender and age-group labels from conversational cues and encode their predictions using invisible characters or word choices. These results show that user-shared model outputs can become a covert channel for personal inferences",
+    "link": "http://arxiv.org/abs/2611.17280v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17267v1",
+    "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+    "authors": [
+      "Pengcheng Zhou",
+      "Xuanyu Liu",
+      "Yanchen Yin",
+      "Tianjie Ju",
+      "Bobo Li",
+      "Shengqiong Wu",
+      "Hao Fei",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "summary": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in real-world geographic structure and allows external world states to evolve along their own temporal processes while preserving verifiable state histories. LiveGeo places geographic tasks within this evolving environment, requiring agents to actively acquire task-relevant information, verify whether the evidence supporting prior decisions remains valid, and revise their plans when necessary. Our results reveal that even frontier LLMs struggle with static ",
+    "link": "http://arxiv.org/abs/2611.17267v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17246v1",
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "authors": [
+      "Tiago de Souza Farias",
+      "Caio Moraes Porto",
+      "Matheus da Silva Fonseca",
+      "Nicolas Armando Cabrera Carpi",
+      "Anderson de Araujo Oliveira",
+      "Celso Jorge Villas-Boas"
+    ],
+    "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on general random Hamiltonians, structured parent Hamiltonians, and molecular systems. For general Hamiltonians, LLM-generated parameters exhibit larger energy errors than conventional Adam optimization, while additional feedback generally provides limited improvement. In contrast, for structured Hamiltonians, the LLM can generate promising ",
+    "link": "http://arxiv.org/abs/2611.17246v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.17241v1",
+    "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+    "authors": [
+      "Samidha Verma",
+      "Ankit Anand",
+      "Sayan Ranu"
+    ],
+    "summary": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deeper question: given a pool of LLMs spanning frontier and freely hosted or open-weight models, how should one adaptively select which model to invoke at each step of the search? The challenge is non-trivial. The optimal LLM may shift over the course of a run, and because one LLM's output seeds the context for subsequent calls, each model's r",
+    "link": "http://arxiv.org/abs/2611.17241v1",
+    "publishedAt": "2026-11-12",
+    "categories": [
+      "cs.AI"
+    ]
+  }
+];
 
 export const generatedJobs: JobPosting[] = [
   {
@@ -788,4 +1168,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-14T04:46:53.932Z';
+export const dataFetchedAt = '2026-11-14T12:54:59.856Z';
