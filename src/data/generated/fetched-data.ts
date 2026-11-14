@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-amazon-s-new-kindle-colorsoft-is-a-premium-e-reader-with-a-p-1794610800000",
-    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-    "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-    "publishedAt": "2026-11-13",
+    "id": "news-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-t-1794692482000",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ecommerce"
+      "ai"
     ]
   },
   {
@@ -54,17 +53,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794659040000",
-    "title": " 黄仁勋辞职了，然后呢？ ",
-    "link": "https://www.huxiu.com/article/4905631.html?f=rss",
-    "summary": "本文来自微信公众号： 阿朱说 ，作者：吕建伟，头图来自：AI生成 一、算力 环中国算力中心。 过去你知我知大家知，都遵照潜规则。 这次有人掀桌子了。 会加速国产算力和存储的成熟吗？ 不会。 硬件的研发，有其硬性的时间。 但也不要太悲观： 1、现在模型架构已经很难再大提升了，模型效果提升主要依靠前训练的高质量数据投喂、后训练的Agent长任务对齐。都是在基础上迭代，很少有人做全新训练了。这会省点训练用芯片。 2、训练，只用于可数的那几个大模型研发厂商。大量的用户，用的是推理。而推理芯片，咱们中国国产还是可以加速成熟的，2028年量大管饱，应该问题不大。 二、算法 会减速国产大模型研发吗？ 会，训练更大的模型更难、训练时间会更长。 而且按照国产大模型蒸馏老外的尿性，随着老外不断加防蒸馏护栏，也会减速国产大模型研发。 但也不要太悲观： 1、现在大模型提升智力，主要靠Agent这个外脑做外挂代偿，才使得最终结果显得挺聪明。研发大模型咱们不行，但研发Agent这种应用平台级的东西，咱们还是比较拿手的。尤其现在Agent平台本身的研发，人们都形成了左脚蹬右脚的RSI自进化。让平台研发人员人肉加速Agent平台研发，这挺难高速进化。但是让Agent平台使用RSI，那就是机器自我进化，那就是机器速度了。 2、尤其Agent平台随着海量用户使用，还能产生源源不断的海量长任务上下文数据，这又给大模型后",
+    "id": "news--1794673427000",
+    "title": " 德国本土的汽车工业正在经历一次大收缩 ",
+    "link": "https://www.huxiu.com/article/4905659.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 2025年，德国生产了414.9万辆乘用车，同比增长2%。整车产量连续第三年维持在410万辆以上，零部件行业却在大规模裁员。 德国汽车工业协会VDA在2025年10月公布的一份调查，揭示了两者之间的反差。158家受访汽车供应商及中型制造企业中，77%遭遇严重订单短缺，创下该系列调查的最高纪录。80%准备推迟、转移或取消德国境内投资，其中28%计划将投资搬到海外。 2026年6月，VDA再次调查116家企业，67%准备调整德国投资，54%正在德国裁员。其中，44%一边削减德国岗位，一边在海外招聘。 德国汽车企业仍然在全球生产和销售汽车，供应商的新增投资却开始流向德国以外。 整车厂也在重新安排生产网络。 9月，大众披露，集团欧洲工厂仍有约50万辆过剩年产能。埃姆登、茨维考、汉诺威和内卡苏尔姆四座德国工厂，2031年至2034年间的后续车型安排仍然悬而未决。 同一时期，奔驰和宝马正在匈牙利扩大下一代电动车生产。奔驰7月在凯奇凯梅特工厂启动纯电C级生产，宝马则把Neue Klasse首款量产车型iX3放在德布勒森。 德国老工厂继续生产现有车型，匈牙利新工厂却已经拿到未来数年的新平台和设备投资。 这让供应商面临一个现实问题：下一轮工厂投资，究竟应该留在德国，还是跟着客户的新车型走？ 01 整车还在生产，本土供应商先撑不住了 2025年第",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -95,11 +93,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-jensen-huang-s-departure-blasts-big-hole-in-ai-startup-fundi-1794609780000",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "publishedAt": "2026-11-13",
+    "id": "news-tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-re-1794686684000",
+    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -135,17 +133,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794658602000",
-    "title": " 过度追求流行审美，容易失去品牌辨识度 ",
-    "link": "https://www.huxiu.com/article/4905635.html?f=rss",
-    "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：Laris 2026年，设计行业对AI审美雷同的回应，出现了两种值得放在一起看的声音。设计师期待用手作痕迹、不规整的字形和更鲜明的个人表达摆脱千篇一律；创意奖项的评委却发现，复古与迷幻字体也在新品牌识别作品中趋于饱和。追求个性的意愿，并没有阻止品牌采用相似的外观。 这种相似也与创作的起点有关。包装、门店和品牌内容都可以迅速找到「好看的样子」，团队也容易围绕这些画面达成共识。当热门作品成为设计需求，品牌接下来讨论的就容易是如何接近它，而自己的产品、顾客和经营方式，还没有充分参与决定设计方向。 01 模仿流行， 解决不了 品牌同质化 2026年初，Pentagram合伙人Emily Oberman在Fast Company的年度展望中，期待设计重新表现出人的不完美，包括不太规整的字形、不合常规的配色，以及容易被AI修饰掉的瞬间。同篇文章中，设计工作室Cotton创始人Talia Cotton预计，工艺和细节将重新受到重视；她也提醒，这种回归仍会经历潮流的兴起与退去。 设计工作室Center创始人Alex Center在D&amp;AD的评审观察中指出，复古、带有迷幻感的字体在新品牌识别参赛作品中已经趋于饱和。他欢迎大胆的表达，也要求作品呈现更大的差异。 两组观点讨论的，是创作判断与视觉风格之间的落差。设计师保留不完美，可能来自对",
+    "id": "news--1794672717000",
+    "title": " 杀疯了的恋陪剧本杀 ",
+    "link": "https://www.huxiu.com/article/4905657.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 先来看笔账单。上海一位年轻姑娘，半年里在同一家剧本杀剧场“打榜”，花掉近40万元。这笔钱换不来任何实物：她买下的是一场“恋陪”——剧场里有一位演员，专门根据特定剧本扮演爱她的那个人。 告诉我这个故事的人叫佳奈，留美归国，玩剧本杀已有七年，花钱的是她的朋友小王。没几天，做品牌广告的朋友Yvonne也提起，想去体验恋陪剧本杀或RPG剧场《幽州》。可我们研究预约时，先被黑话、组局和选角规则拦在门外。后来我在大众点评搜了一圈：普通体验并不难找，难约的是热门演员和热门场次。 为弄懂这门生意，我找了三位身处不同位置的亲历者：资深玩家但普通消费者佳奈；2020年入行做DM和中控、偶尔出演恋陪角色的小熊猫；还有重金打榜的核心玩家小王。 小王半年在同一家剧场的打榜开销接近40万元。她说，身边还有不少富二代女性朋友，一个月就在一家店打40万元。生活中的她，看上去和普通上班族没什么两样。 三个人都读过关于恋陪的报道，却都觉得，不少报道停在猎奇和乱象上，没能走进核心玩家和长期从业者的世界。她们愿意讲清楚两件事：人为什么愿意反复付费，这门生意又是怎么运转的。 40万元买到的，是一场游戏，还是一门由演员、角色、榜单和玩家共同撑起的新生意？ 行业黑话大全 看懂这门生意，先要过一道“语言关”。 从海外谋杀派对到本土情感剧场 剧本杀起源于海外“谋杀之谜”派对游戏，传入",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -175,11 +172,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-us-government-grounds-all-flights-across-the-united-states-8-1794606278000",
-    "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
-    "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-    "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-    "publishedAt": "2026-11-13",
+    "id": "news-got-an-iphone-duo-these-9-settings-make-it-easier-to-use-1794679200000",
+    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+    "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -188,17 +185,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
-    "title": "Week in review: Can AI root out manager bias?",
-    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
+    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
+    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
+    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
     "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -215,10 +211,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-14-1794658565000",
-    "title": " 光伏龙头花14亿养猪，被迫还是豪赌？ ",
-    "link": "https://www.huxiu.com/article/4905634.html?f=rss",
-    "summary": "本文来自微信公众号： 大橘财经 ，作者：万肇生 光伏行业尚未走出寒冬，通威却把目光投向了同样处于周期底部的养猪业。 11月9日晚间，天邦食品公告，通威集团拟出资14.41亿元参与公司重整，以每股0.98元的价格受让14.70亿股股份。交易完成后，通威集团预计持有天邦食品27.8%的股权，并取得这家老牌猪企的控制权。 需要注意的是，此次出手的是通威集团由创始人刘汉元实际控制，是A股上市公司通威股份的控股股东。 这也代表着，未来天邦的养猪业务并不会直接并入通威股份的财务报表。 作为市场熟悉的光伏龙头，养猪看似是一次跨界，但其实通威本就是靠饲料起家的，而且2024年通威股份旗下通威农业还曾以16.5亿元受让天邦所持史记生物30%股权，进入了养猪前置的生猪育种相关领域。 客户连饲料钱都付不起 公开资料显示，1986年，刘汉元从水产饲料创业，逐步建立起通威的农业版图。2004年，主营饲料业务的通威股份登陆上交所。此后通威股份向光伏产业扩张，并于2016年将主要光伏资产注入上市公司，逐渐成长为全球光伏制造龙头。 1992年，四川通威饲料有限公司成立。通威集团官网 从饲料到太阳能电池，再到今天准备控股一家养猪企业，通威用了整整40年。 但这一次，通威进军养猪，或许不完全是主动选择，毕竟通威既是天邦多年的饲料供应商，也是至今还有饲料款没收回来的债权人。 据悉，双方的合作早在2021年便已开始。当时",
+    "id": "news-20-1794672411000",
+    "title": " 人生回报率最高的20件小事 ",
+    "link": "https://www.huxiu.com/article/4905656.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《人生回报率最高的 20 件小事》 我想先区分两个概念，回报额，和回报率。 回报额，是你最终能赚到多少。回报率，是你每投入一份成本，能创造多少价值。 大部分人，永远盯着回报额。换一次工作带来的薪资跳跃，一次创业成功可能带来的大结果，一次all in对人生轨迹的影响。 这些人生大事的回报额，确实很大，所以我们理所当然地认为，它们最值得投入精力。 这个判断没错，但它忽略了要投入的成本。 一个重大决定的成本有多大？你要调研、要权衡、要投入、要承担失败的风险、要动用大量情绪和心力，很多时候还要牺牲你半年的睡眠质量。这些都是成本。 与人生大事相对的，是一系列生活的小事，它的成本投入几乎为零，所以哪怕回报只有一点点，它的“回报率”也高到不合理。 更关键的是，频次。 一个重大决定，一生中会发生几次？十次？二十次？而一件小事，一年会发生三百六十五次，甚至更多。 我们总以为人生是由几个关键节点构成的，其实它是由几万次重复构成的。 在这篇文章里，我想跟你分享，人生回报率最高的20件小事。 我把它们按由内到外的顺序，分成四组。先是你怎么对待身体，再是你怎么对待外部信息，然后是你怎么对待他人，最后是你怎么对待钱和风险。 有几条我在之前的文章里已经提到过，这次放在新的框架里重新阐释，也足以说明它们的重要性。 其中还有几条",
     "publishedAt": "2026-11-14",
     "source": "虎嗅",
     "tags": [
@@ -254,11 +250,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-this-young-startup-wants-to-power-floating-data-centers-with-1794600444000",
-    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-    "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-    "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-    "publishedAt": "2026-11-13",
+    "id": "news-transportation-secretary-blames-routine-equipment-upgrade-fo-1794678304000",
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -267,16 +263,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
-    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
-    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
-    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
+    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
+    "title": "Week in review: Can AI root out manager bias?",
+    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
     "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -289,19 +286,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794656418000",
-    "title": " 野人先生的中场战事：拿到钱后，好商场还够分吗? ",
-    "link": "https://www.huxiu.com/article/4905630.html?f=rss",
-    "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：洪君 热钱就位，野人先生要升温了？ 过去十多年，野人先生一直没有接受外部融资。 对于这件事，创始人崔渐为曾有过自己的解释。今年4月，他在接受采访时谈到，投资人其实早几年就找上门来了，但在他看来，拿到钱的前提，是企业知道该如何让资金发挥作用。 半年后，这家成立15年的冰淇淋品牌，迎来了自己的第一笔外部股权融资。 10月30日，野人先生宣布完成首轮融资，黑蚁资本成为其长期战略合作伙伴。此时，野人先生已经拥有1800多家在营门店。 如今，野人先生已经将Gelato做成了一门全国连锁生意，而一个更大的市场必定也开始吸引新的参与者。 随着喜茶、霸王茶姬等头部茶饮品牌也开始相继推出Gelato产品，野人先生曾经花费十多年做大的生意，如今也走进了一个竞争者越来越多的市场。 对的人遇上对的钱 过去能够不依赖外部融资实现扩张，与野人先生的经营模式有很大关系。 2024年开放加盟后，野人先生逐渐将经营重心转向加盟体系。今年6月，联合创始人姜博在接受采访时透露，品牌当时仅保留7家直营门店，主要承担新品测试、运营标准完善和品牌活动等职能。 只是，加盟商能够帮助野人先生跑马圈地，却无法替总部解决规模化后面临的新问题。 尤其是当一家品牌从不足百家门店在2年多时间内便迅速扩张到1800多家，经营管理的复杂程度也在增加。 △图片来源：红餐网摄 姜博曾坦言，相",
-    "publishedAt": "2026-11-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -332,11 +316,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-agent-startup-langchain-hits-3b-valuation-1794598677000",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "publishedAt": "2026-11-13",
+    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1794677400000",
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -369,19 +353,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794655739000",
-    "title": " 投资于“人”如何打开内需空间 ",
-    "link": "https://www.huxiu.com/article/4905628.html?f=rss",
-    "summary": "本文来自微信公众号： 李迅雷金融与投资 ，作者：张德礼 郭瑞琪 核心观点 2026年财政支出偏慢，投资于“物”面临约束是重要原因。2026年前三季度一般公共预算和政府性基金这两本账的支出，合计同比下降3.5%。从财政收入和广义赤字使用进度两个维度看，资金并非拖累财政支出的最主要原因，根源在于投资于“物”面临强约束：一是回报和投资相匹配的项目或不足；二是项目审核与前期准备要求进一步提高；三是化债稳步推进和土地出让金减少，地方财政资金统筹面临一定约束。 投资于“人”兼顾扩内需与增后劲。当投资于“物”的回报下降、推进节奏放缓时，有必要适当向投资于“人”倾斜：第一，投资于物短期可以拉动经济，但如果需求没有同步增加，拉长时间看过度投资于物反而可能对经济形成拖累。投资于人虽然是慢变量，但中长期有望实现供、需的双向增长；第二，从国情实际来看，当前“人”的不足日益明显，体现在出生率不断下滑、居民消费存在提升空间、基本公共服务供给仍有发展空间，需要政策加力支持；第三，从国际经验看，一国在经济发展初期，往往致力于对物质资本的投资，以实现经济的快速增长。但是在达到中高收入发展的阶段后，政策会逐步转向增加对“人”的投入，既有投资于“物”边际效益递减的约束，也有更好满足人民群众对美好生活向往的政策诉求。韩国正是这一转型模式的经典代表。 近年来“投资于人”在政策文件和重要会议中的提及频次明显上升，民生类支出占",
-    "publishedAt": "2026-11-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1037,24 +1008,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": false
   },
   {
-    "id": "job-remoteok-1137513",
-    "title": "AI Trainer",
-    "company": "iMerit Technology",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Remote | Independent Contractor | Get certified for future project opportunities Prove your skills",
-      "Get certified",
-      "Be ready for what comes next",
-      "Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them"
-    ],
-    "skills": [],
-    "location": "US, UK, Canada, Australia + 35 other countries",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
-    "postedAt": "2026-10-14",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1137421",
     "title": "Technical Product Manager AI Stockbroking App",
     "company": "Bjak ",
@@ -1168,4 +1121,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-14T12:54:59.856Z';
+export const dataFetchedAt = '2026-11-14T21:56:17.302Z';
