@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-t-1794692482000",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "publishedAt": "2026-11-14",
+    "id": "news-where-was-nvidia-8217-s-security-team-1794701287000",
+    "title": "Where was Nvidia&#8217;s security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
@@ -53,24 +54,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794673427000",
-    "title": " 德国本土的汽车工业正在经历一次大收缩 ",
-    "link": "https://www.huxiu.com/article/4905659.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 2025年，德国生产了414.9万辆乘用车，同比增长2%。整车产量连续第三年维持在410万辆以上，零部件行业却在大规模裁员。 德国汽车工业协会VDA在2025年10月公布的一份调查，揭示了两者之间的反差。158家受访汽车供应商及中型制造企业中，77%遭遇严重订单短缺，创下该系列调查的最高纪录。80%准备推迟、转移或取消德国境内投资，其中28%计划将投资搬到海外。 2026年6月，VDA再次调查116家企业，67%准备调整德国投资，54%正在德国裁员。其中，44%一边削减德国岗位，一边在海外招聘。 德国汽车企业仍然在全球生产和销售汽车，供应商的新增投资却开始流向德国以外。 整车厂也在重新安排生产网络。 9月，大众披露，集团欧洲工厂仍有约50万辆过剩年产能。埃姆登、茨维考、汉诺威和内卡苏尔姆四座德国工厂，2031年至2034年间的后续车型安排仍然悬而未决。 同一时期，奔驰和宝马正在匈牙利扩大下一代电动车生产。奔驰7月在凯奇凯梅特工厂启动纯电C级生产，宝马则把Neue Klasse首款量产车型iX3放在德布勒森。 德国老工厂继续生产现有车型，匈牙利新工厂却已经拿到未来数年的新平台和设备投资。 这让供应商面临一个现实问题：下一轮工厂投资，究竟应该留在德国，还是跟着客户的新车型走？ 01 整车还在生产，本土供应商先撑不住了 2025年第",
-    "publishedAt": "2026-11-14",
+    "id": "news--1794716286000",
+    "title": " 黄仁勋走了，“算力央行”还开得下去吗？ ",
+    "link": "https://www.huxiu.com/article/4905686.html?f=rss",
+    "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥 “一头被车灯照住的鹿”、“只负责财务报告的CFO”。 今年8月的一场内部会议上，黄仁勋当众打断了科莱特·克雷斯（Colette Kress）的汇报，对她做出了上述评价。 彼时两人正围绕英伟达日益庞大的AI融资业务交锋，黄仁勋想用真金白银和信用担保替客户建数据中心、买GPU，克雷斯却死盯着风险与回报，频频追问。 三个月后，这场内部交锋迎来了极具戏剧性的转折。 11月12日，执掌英伟达33年的创始人黄仁勋被宣布辞去总裁、CEO及董事职务，立即生效。 接任临时CEO的，正是曾被他批评“不懂战略”的克雷斯。 在黄仁勋的推动下，英伟达早已不止于出售GPU，还通过海量投资、担保和算力采购承诺，深度介入整个AI产业的融资与扩张，逐渐扮演起“算力央行”的角色。 如今巨额融资承诺仍在运转，行长却离开了他的座位。 AI的算力央行，还开得下去么？ 黄仁勋与克雷斯的分歧最早可以追溯到今年春季。 据外媒报道，当时黄仁勋的女婿尼科·卡普雷兹（Nico Caprez）与另一名副总裁拉杰·米尔普里（Raj Mirpuri）开始频繁接触AI云服务商与数据中心开发商，向其兜售一套颇具诱惑力的“融资支持计划”：英伟达提供信用背书，帮客户以更低成本获得银行贷款来建厂、买卡；作为交换，英伟达则从这些云服务商的未来收入中分成。 两人甚至向潜在合作伙伴表示，英伟达能在几周内搞定全套",
+    "publishedAt": "2026-11-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1794652626000",
-    "title": "库克接班，可能真是英伟达的最优解",
-    "link": "https://www.tmtpost.com/8205427.html",
-    "summary": "再找一个黄仁勋很难，先找一个库克呢？",
-    "publishedAt": "2026-11-14",
+    "id": "news-ai-1794716388000",
+    "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
+    "link": "https://www.tmtpost.com/8205717.html",
+    "summary": "非AI板块却创了新高。",
+    "publishedAt": "2026-11-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -93,10 +95,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-re-1794686684000",
-    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "id": "news-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-t-1794692482000",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
     "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
@@ -133,11 +135,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794672717000",
-    "title": " 杀疯了的恋陪剧本杀 ",
-    "link": "https://www.huxiu.com/article/4905657.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 先来看笔账单。上海一位年轻姑娘，半年里在同一家剧本杀剧场“打榜”，花掉近40万元。这笔钱换不来任何实物：她买下的是一场“恋陪”——剧场里有一位演员，专门根据特定剧本扮演爱她的那个人。 告诉我这个故事的人叫佳奈，留美归国，玩剧本杀已有七年，花钱的是她的朋友小王。没几天，做品牌广告的朋友Yvonne也提起，想去体验恋陪剧本杀或RPG剧场《幽州》。可我们研究预约时，先被黑话、组局和选角规则拦在门外。后来我在大众点评搜了一圈：普通体验并不难找，难约的是热门演员和热门场次。 为弄懂这门生意，我找了三位身处不同位置的亲历者：资深玩家但普通消费者佳奈；2020年入行做DM和中控、偶尔出演恋陪角色的小熊猫；还有重金打榜的核心玩家小王。 小王半年在同一家剧场的打榜开销接近40万元。她说，身边还有不少富二代女性朋友，一个月就在一家店打40万元。生活中的她，看上去和普通上班族没什么两样。 三个人都读过关于恋陪的报道，却都觉得，不少报道停在猎奇和乱象上，没能走进核心玩家和长期从业者的世界。她们愿意讲清楚两件事：人为什么愿意反复付费，这门生意又是怎么运转的。 40万元买到的，是一场游戏，还是一门由演员、角色、榜单和玩家共同撑起的新生意？ 行业黑话大全 看懂这门生意，先要过一道“语言关”。 从海外谋杀派对到本土情感剧场 剧本杀起源于海外“谋杀之谜”派对游戏，传入",
-    "publishedAt": "2026-11-14",
+    "id": "news--1794716219000",
+    "title": " 女性身材卷出花，现在流行“螳螂型”？ ",
+    "link": "https://www.huxiu.com/article/4905685.html?f=rss",
+    "summary": "本文来自微信公众号： 印客美学 ，作者：小印 一开始女性身材类型只有苹果、梨、S形这几种，但现在女性的身材类型已经进化到魑魅魍魉了。 越来越多的女性身材 在你还停留在苹果、梨这种水果形身材的时候，网友对女性身材的开发已经发展到动物的不同阶段了。 比如蜻蜓形。 它指的是肩、腰、臀宽度接近，整体线条修长平直，腰部曲线不明显。 但是它又不同于H，蜻蜓形往往身体细长，所以才会单独形成一个新类型。 还有猴形。 虽然不常见，但也的确是新兴类型，通常指四肢修长、躯干较窄。 现在薄肌流行，所以出现了螳螂形，顾名思义，就是像螳螂一样又瘦又高，但是因为有肌肉，所以看起来又有力量感，像螳螂那样。 我甚至还看到了奶蛙，这种天理难容的形态。 但是对比男性，你会发现类型少的可怜。 即便是在研究中，男性身材也只有中心型或臀股型。 在服装人体工学上，男性也只有U形、Y形、V形、O形和D形五组。 而市场对于男性身材的划分，也只有倒三角和不是倒三角。 所以为什么女性的身材类型就那么多，男性的这么少？这种身材类型到底是怎么划分的？ 到底是怎么分的 虽然女性身材类型已经很多了，但每一种都能找到它的对应受众，这套分类的底层规则到底是什么？ 其实，最早的身材类型只有梨、苹果、沙漏、H形，这是根据服装版型+脂肪分布进行的简易划分，目标是匹配衣服剪裁。 因为这种分类是功能性的，所以划分标准也就非常粗暴，不看身高、腿长、骨架大小，",
+    "publishedAt": "2026-11-15",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -146,11 +148,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-adc-1794652621000",
-    "title": "ADC载荷迭代迈入加速期",
-    "link": "https://www.tmtpost.com/8205391.html",
-    "summary": "从分子竞争到平台比拼。",
-    "publishedAt": "2026-11-14",
+    "id": "news--1794711395000",
+    "title": "全球供应链“安全优先”的账单，最后寄给了谁？",
+    "link": "https://www.tmtpost.com/8205652.html",
+    "summary": "全球供应链彻底从 “效率优先” 转向 “安全优先”。看似宏观的产业韧性升级，实则层层转嫁隐性成本。供应商牺牲利润换入场资格、客户抬升采购成本、财政兜底补贴，而最弱势的中小企业，最终成为供应链安全账单的最终承担者。",
+    "publishedAt": "2026-11-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -165,6 +167,86 @@ export const generatedNews: NewsItem[] = [
     "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
     "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;",
     "publishedAt": "2026-11-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-re-1794686684000",
+    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "publishedAt": "2026-11-14",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
+    "title": "Week in review: Can AI root out manager bias?",
+    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+    "publishedAt": "2026-11-13",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-31-2-1794649714000",
+    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+    "link": "https://www.qbitai.com/2026/11/510150.html",
+    "summary": "童年的纸飞机，现在终于飞回我手里～",
+    "publishedAt": "2026-11-14",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794716000000",
+    "title": " 对未来消费的思考 ",
+    "link": "https://www.huxiu.com/article/4905683.html?f=rss",
+    "summary": "本文来自微信公众号： Web3天空之城 ，作者：Muya风格之城 一直热爱消费。有深刻的品牌梦，希望打造自己全身心热爱的、被热爱和被尊重的品牌。 我的职业生涯始自消费和品牌，并从业多年，消费对我而言像是家乡。但我又多年远离了消费，因为那个时代的消费，运营太重，那时候的技术能力下，从集团总部发向全国、全球终端门店的落地执行不可控，消耗摩擦太大。远离的日子，提到消费，会有一种近乡情怯。这终归是太爱了吧。 然后是近来AI的高速发展，有时带来一种思想上的虚无感。仿佛人们只需要上网冲浪，就知道了一切，就懂得了一切。会让人质疑，那么我们到底还能、还该做点什么呢。 于是，我想写下这篇文章： 当AI越来越强大，我们应该创造什么独特价值？分享我在大脑深处，一直在进行的关于消费的机会的思考。 第一： AI改变了创新的经济性。很多真实存在的需求，过去因为成本太高而做不起，今天当研发、设计和专业服务的成本下降，它们有可能重新成为好的业务机会。 宜家的创始人坚持把好的设计、实用的功能和大众可承受的价格，放在同一个经营目标里。让好产品变得让更多人可负担，本身就是重要的创新。而AI降本，正在带来更多这样的创新机会。 以家居空间设计为例，不同家庭的喜欢、习惯、预算差异很大。过去，为每位消费者提供结合它真实生活环境的个性化方案，需要投入很多咨询、设计和线下服务资源，不是一个可以规模化的业务。 宜家之前的数据是，帮一",
+    "publishedAt": "2026-11-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1794711023000",
+    "title": "“柔性产能”：“中国制造”最硬的底牌和最贵的账单",
+    "link": "https://www.tmtpost.com/8205587.html",
+    "summary": "柔性产能是中国制造最硬的底牌，危机来临时可快速转产、释放产能，构筑产业缓冲。但这份韧性并非免费，闲置产能带来的成本沿着产业链层层下沉，由企业、经营者与一线劳动者承担。宏大产业优势背后，藏着一笔持续滚动的昂贵账单。",
+    "publishedAt": "2026-11-15",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-nvidia-privately-confirmed-it-could-track-chips-to-fight-smu-1794514584000",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
+    "publishedAt": "2026-11-12",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -198,85 +280,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-31-2-1794649714000",
-    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-    "link": "https://www.qbitai.com/2026/11/510150.html",
-    "summary": "童年的纸飞机，现在终于飞回我手里～",
-    "publishedAt": "2026-11-14",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-20-1794672411000",
-    "title": " 人生回报率最高的20件小事 ",
-    "link": "https://www.huxiu.com/article/4905656.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《人生回报率最高的 20 件小事》 我想先区分两个概念，回报额，和回报率。 回报额，是你最终能赚到多少。回报率，是你每投入一份成本，能创造多少价值。 大部分人，永远盯着回报额。换一次工作带来的薪资跳跃，一次创业成功可能带来的大结果，一次all in对人生轨迹的影响。 这些人生大事的回报额，确实很大，所以我们理所当然地认为，它们最值得投入精力。 这个判断没错，但它忽略了要投入的成本。 一个重大决定的成本有多大？你要调研、要权衡、要投入、要承担失败的风险、要动用大量情绪和心力，很多时候还要牺牲你半年的睡眠质量。这些都是成本。 与人生大事相对的，是一系列生活的小事，它的成本投入几乎为零，所以哪怕回报只有一点点，它的“回报率”也高到不合理。 更关键的是，频次。 一个重大决定，一生中会发生几次？十次？二十次？而一件小事，一年会发生三百六十五次，甚至更多。 我们总以为人生是由几个关键节点构成的，其实它是由几万次重复构成的。 在这篇文章里，我想跟你分享，人生回报率最高的20件小事。 我把它们按由内到外的顺序，分成四组。先是你怎么对待身体，再是你怎么对待外部信息，然后是你怎么对待他人，最后是你怎么对待钱和风险。 有几条我在之前的文章里已经提到过，这次放在新的框架里重新阐释，也足以说明它们的重要性。 其中还有几条",
-    "publishedAt": "2026-11-14",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-ps-1794650338000",
-    "title": "A股一级行业，PS偏离度分布与深潜分析",
-    "link": "https://www.tmtpost.com/8205459.html",
-    "summary": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离度为负，也未必是低估。",
-    "publishedAt": "2026-11-14",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nvidia-privately-confirmed-it-could-track-chips-to-fight-smu-1794514584000",
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
-    "publishedAt": "2026-11-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-transportation-secretary-blames-routine-equipment-upgrade-fo-1794678304000",
-    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-    "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-    "publishedAt": "2026-11-14",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
-    "title": "Week in review: Can AI root out manager bias?",
-    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
-    "publishedAt": "2026-11-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
     "id": "news-token-1794649262000",
     "title": "绿电进Token出！联想重新定义词元工厂",
     "link": "https://www.qbitai.com/2026/11/510094.html",
@@ -290,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ps-a-1794650256000",
-    "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
-    "link": "https://www.tmtpost.com/8205450.html",
-    "summary": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。",
-    "publishedAt": "2026-11-14",
+    "id": "news--1794715971000",
+    "title": " 黄仁勋出轨就必须离任吗 ",
+    "link": "https://www.huxiu.com/article/4905678.html?f=rss",
+    "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，原文标题：《黄仁勋出轨就必须离任吗&mdash;&mdash;不要用道德观念去理解公司治理》，题图来自：视觉中国 业内几乎没人讨论黄仁勋是单纯因为出轨而离任的。但昨天有好几个读者提到，黄仁勋是因为第二个出轨消息爆出后才离任的，言下之意，出轨下属是离任的根本原因。 昨晚有位朋友还发来一个截图： 作者看了下该截图引用的晚点LatePost的公众号内容，原文表述是&ldquo;公司商业道德准则通常不管外遇，也不一定禁止办公室恋情，但要求当事人向公司通报&rdquo;。这个表述没什么大问题。 但发朋友圈这位，很显然就跟一些网友一样，以为资本主义美帝的道德洁癖程度已经直逼儒家社会了。持有这种观点的人肯定不在作者朋友圈内，所以作者也不知道这人是谁，权且称为&ldquo;甲&rdquo;。 那么甲的错误到底在哪里呢？ 错误一，引用文件错误 甲在朋友圈中提到：&ldquo;因为黄仁勋的行为违反了他亲自签署的英伟达《World Code of Ethics》，根据该行为准则，他必须离职&rdquo;。 首先，英伟达的World Code of Ethics是一份陈旧的文件，是2004年前后，英伟达向SEC提交的员工行为准则文件。2010年，名称已经变为Worldwide Code of Conduct。现行有效的叫Nvidia Our Code。 引",
+    "publishedAt": "2026-11-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1794711020000",
+    "title": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
+    "link": "https://www.tmtpost.com/8205600.html",
+    "summary": "英伟达创始人兼CEO黄仁勋离职风波不只是一起涉及芯片转运和出口管制的调查，更折射出中国AI产业面临的现实处境",
+    "publishedAt": "2026-11-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -316,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-graveyard-a-running-list-of-projects-and-startups-tha-1794677400000",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "news-transportation-secretary-blames-routine-equipment-upgrade-fo-1794678304000",
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
     "publishedAt": "2026-11-14",
     "source": "TechCrunch",
     "tags": [
@@ -357,11 +373,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-13-1794650233000",
-    "title": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8205442.html",
-    "summary": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。",
-    "publishedAt": "2026-11-14",
+    "id": "news-nova-ost-1794714751000",
+    "title": " 《NOVA》三火：新星、短剧OST和汽水音乐 ",
+    "link": "https://www.huxiu.com/article/4905681.html?f=rss",
+    "summary": "本文来自微信公众号： 短剧八部半 ，作者：编辑部 …… 这些歌词一出来，大概都是唱出来的。 伴随唱出来曲调的，还有紫薇和尔康在草原上驰骋、可云在楼顶迷茫无助，以及李子维闭上眼睛的画面。 这种集体记忆，可能只专属于长剧时代的OST了。 当下，流行的OST一定是《囚笼》这种烧心小曲。小提琴的紧张感一出来，就知道剧情马上高能了。 除了这种通用AI短剧BGM，爆火的《NOVA新星》搞了一套新组合拳——剧、AI新星、原创AI歌曲，全火。 从抖音、红果看剧，到AI明星出道，再到汽水音乐听AI专辑，AI短剧延长观众的即时爽感，一环扣一环。 音乐娱乐剧“三火”：剧、OST、AI明星 AI剧带火AI明星不奇怪。之前《被裁掉的女孩》爆火，主演方桃子也随之出圈。 但《NOVA新星》作为一部娱乐圈题材短剧，还带火了AI偶像工业、AI女团和AI流行音乐。 先看下多个平台的关键账号数据（截至11.13）： AI短剧第一次有了传统影视「三栖艺人」的雏形。 FourOne女团不只是存在于剧情里，四个成员有各自的社交账号，女团也有同名账号和OST专辑。 主打曲《好》的评论区里，满是「从剧里追过来」的观众。 AI短剧的AI OST，这种内容形式也算跑通了。 短剧OST的“进化” 短剧注重OST，去年真人短剧鼎盛时期就已经开始了。 《盛夏芬德拉》的高赞评论里，不少观众都提到了OST插入得当。这还是一个选歌曲的逻辑，而非",
+    "publishedAt": "2026-11-15",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1794711009000",
+    "title": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "link": "https://www.tmtpost.com/8205602.html",
+    "summary": "可川科技追“光”两年，相关业务未贡献营收，实控人套现后转头接盘新公司。",
+    "publishedAt": "2026-11-15",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -823,28 +853,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
-    "id": "job-remoteok-1137701",
-    "title": "AI Developer",
-    "company": "Salvo Software",
-    "category": "pure_ai",
-    "responsibilities": [
-      "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions",
-      "With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Kubernetes",
-      "AWS"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-    "postedAt": "2026-11-07",
-    "isNew": false
-  },
-  {
     "id": "job-remoteok-1137691",
     "title": "Feltsense AI Engineer",
     "company": "Silver.dev",
@@ -1121,4 +1129,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-14T21:56:17.302Z';
+export const dataFetchedAt = '2026-11-15T04:39:04.800Z';
