@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-16-auto",
+    "date": "2026-11-16",
+    "session": "auto",
+    "title": "2026-11-16 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-16-auto-1",
+        "emoji": "🚨",
+        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+        "priority": "high",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+      },
+      {
+        "id": "sig-2026-11-16-auto-2",
+        "emoji": "⚠️",
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "detail": "来源: TechCrunch。\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+      },
+      {
+        "id": "sig-2026-11-16-auto-3",
+        "emoji": "💡",
+        "title": "CFO job descriptions are outdated, experts say",
+        "summary": "With finance chiefs handling a wider range of duties, including tech rollouts, traditional job descriptions continue to fall short.",
+        "detail": "来源: HR Dive。With finance chiefs handling a wider range of duties, including tech rollouts, traditional job descriptions continue to fall short.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/cfo-job-descriptions-are-outdated-experts-say/874616/"
+      },
+      {
+        "id": "sig-2026-11-16-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Unbundling Multimodal Vision Encoding...",
+        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language",
+        "detail": "作者: Ellis Brown, Chris Hoang, Shengyi Qian。How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a controlled framework where we pretrain all models from scratch on common data and compare them on visual question answering and language benchmarks at matched lifetime compute. We find that the visual",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.17334v1"
+      },
+      {
+        "id": "sig-2026-11-16-auto-5",
+        "emoji": "💼",
+        "title": "Supabase 正在招募 Software Engineer AI Tooling",
+        "summary": "岗位类型：业务+AI 复合岗。About Supabase Supabase is the Postgres development platform, built by developers for developers",
+        "detail": "技能要求: RAG, Agent。About Supabase Supabase is the Postgres development platform, built by developers for developers We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search All services are deeply integrated and designed for growth About the Role We’re lo",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Supabase"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Supabase",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-16-1",
+        "priority": "high",
+        "action": "关注「The Download: Silicon Valley’s blind spo」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-16-2",
+        "priority": "medium",
+        "action": "关注「Is bad news for Jensen Huang also bad ne」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-16-3",
+        "priority": "low",
+        "action": "关注「CFO job descriptions are outdated, exper」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-16-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Unbundling Multimodal Vision Encodi」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-16-5",
+        "priority": "medium",
+        "action": "关注「Supabase 正在招募 Software Engineer AI Tooli」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Supabase"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-16 生成，聚合了 26 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-16 00:00 - 2026-11-16 23:59"
+  },
+  {
     "id": "report-2026-11-15-auto",
     "date": "2026-11-15",
     "session": "auto",

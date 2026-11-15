@@ -14,17 +14,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-where-was-nvidia-8217-s-security-team-1794701287000",
-    "title": "Where was Nvidia&#8217;s security team?",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "id": "news-is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-indust-1794779795000",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
     "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -54,16 +53,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-l4-1794748721000",
-    "title": " 对话四家L4公司：都在说“单车盈利”，为什么没有一家真赚到钱 ",
-    "link": "https://www.huxiu.com/article/4905412.html?f=rss",
-    "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜视觉中国 &nbsp; 凌晨一点，深圳南山。充电站的灯把地面照成一片冷白，小马智行一辆白色 Robotaxi 正在补能。车里没有人，只有仪表盘还亮着：今天的第 23 单在 22:47 结清，扣掉平台折扣，这台车一天挣了 338 块钱。 &nbsp; 隔壁办公室里，运营还在填表。一辆车一天的账目排成一列：折旧、保险、充电、停车、网络、人员。加在一起，不到 300 块。 &nbsp; 中间剩下的，不到 40 块。这就是 2026 年这个行业最响亮的一个词&mdash;&mdash;单车盈利。 &nbsp; 没有人否认这 40 块是真的。真正的问题是：它到底能不能说明，这门生意开始赚钱了。 为此，虎嗅汽车近期访问了小马智行、文远知行、九识智能、新石器无人车这四家做L4的公司。 &nbsp; 四种算法，四个&ldquo;单车盈利&rdquo; &nbsp; 四家公司，四种算法，算的是同一个词，口径却完全不同。 四家公司在对话提到最多的是&ldquo;单车盈利&rdquo;模型。这是一个财务指标，叫UE，全称单位经济模型，大白话就是&ldquo;最小收入模型&rdquo;。简单讲: 把一门生意拆到最小单元，看它自己能不能养活自己 。 放到这篇稿子里，最小单元是&ldquo;一辆车一天&rdquo;。全篇要回答的，就是这辆车一天赚的钱，够不够撑起整家公司。",
+    "id": "news-agent-1794758839000",
+    "title": " 最强Agent，为什么不能自己给自己发通行证？ ",
+    "link": "https://www.huxiu.com/article/4905755.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《最强 Agent，为什么不能自己给自己发通行证？》 当Agent开始写代码、发邮件、操作浏览器、调动数据库、调用支付接口，甚至再委派几个Agent去干活时，AI安全的问题变了。 现在，问题变成了：它一旦被带偏，能做什么？ 一个能够持续运行的Agent，可能读取内部文件、把信息发往外部、修改生产环境、替你花钱，或者在数天后继续执行一条早已被忘记的任务。 于是，一个很自然的想法出现了： 既然执行Agent可能不可靠，那就再放一个更强的Agent来监管它。 行业正在大量尝试这件事。OpenAI的Auto-review就让单独的模型审查Codex越过沙箱边界的行动请求；其公开报告中，自动审批率为99.1%，针对合成提示注入场景的召回率为99.3%。但OpenAI同时写得很清楚：这不构成确定性的安全保证，监督模型仍可能被误导，且它也无法覆盖执行者在边界以内的全部行为。 它暴露了Agent安全里最深的矛盾： 当执行者、监督者，甚至审批者都可能犯错时，最后谁有资格发出那张“可以行动”的通行证？ 答案不能只是“再加一个更聪明的模型”。 1.“让AI监管AI”，究竟在监管什么？ 把AI安全当成一个问题，往往会让人误入歧途。 实际上，至少有三层不同的问题： 层次 真正的问题 意图安全 Agent是否倾向于做出危险、越界或欺骗性的选择？",
     "publishedAt": "2026-11-15",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
@@ -94,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-t-1794692482000",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "publishedAt": "2026-11-14",
+    "id": "news-snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and--1794774057000",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,19 +134,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794748236000",
-    "title": " 给耐克做鞋的，为什么比耐克更焦虑？ ",
-    "link": "https://www.huxiu.com/article/4905741.html?f=rss",
-    "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 耐克2027财年第一季度营收下降4%，大中华区下降22%；华利集团2026年前三季度营收下降11.98%，归母净利润下降35.42%，扣非净利润下降42.4%。 同一双鞋，品牌商掉的是利润表的一角，代工厂掉的是资产负债表的地基。 这就是问题的起点。 耐克可以关店、砍库存、调产品组合、回购股票，也可以把压力沿供应链往下传；华利只能看着已经建好的厂房、已经铺开的产能、已经排好的排程，在订单下行时变成折旧、人工和产能利用率。 品牌商把不确定性留给供应商，供应商却把确定性锁进厂房。 需求一旦下行，确定性就变成固定成本。 那么，华利为什么拿33.58亿元去投一家光通信公司？ 我认为，其关键问题应该是华利为什么现在不敢继续重投主业？ 市场把华利33.58亿元投资昂纳看成“鞋王追光”的多元化故事。把它理解成战略转型，会高估协同；从资产负债表看，这更像一次资本配置的防守性进攻。 在主业订单下行、产能扩张刚性、客户集中度高的三重约束下，华利正在把原本可能用于扩产的资本开支，转化为一张光通信的财务期权。 这笔钱不并表，不取得控制权，不参与经营，本质是买一个未来可以选择的权利。 代工厂的焦虑在哪里？ 2025年，华利营收249.8亿元，增长4.06%；归母净利润32.07亿元，下降16.5%。 收入还在涨，利润开始掉。 运动鞋销量2.27亿双，仅增1.5",
-    "publishedAt": "2026-11-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-66-1794737124000",
     "title": "本田净利大涨66%，汽车业务却还在亏钱",
     "link": "https://www.tmtpost.com/8205754.html",
@@ -173,30 +160,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-re-1794686684000",
-    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-    "publishedAt": "2026-11-14",
+    "id": "news-flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-own-1794767354000",
+    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+    "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+    "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
-    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
-    "title": "Week in review: Can AI root out manager bias?",
-    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
+    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
+    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
+    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
     "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -210,20 +197,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1794747787000",
-    "title": " 中国大模型的至暗时刻 ",
-    "link": "https://www.huxiu.com/article/4905740.html?f=rss",
-    "summary": "本文来自微信公众号： 嬉笑创客 ，作者：CB 在所有人目光都放在黄仁勋戏剧性的大瓜之时，中国模型乃至整个AI产业正在迎来自己的至暗时刻。 2026年11月12日，黄仁勋突然辞职。 这位执掌英伟达33年、几乎成为全球AI革命代言人的人物，在一连串私人关系及国家安全争议之后，黯然离开了自己创办的公司。在主动请辞的最后时刻里，濒临崩溃的他说出了I am a piece of s***这样的惨痛之语。 中国AI产业可能失去的，远不止一个愿意卖芯片给中国，和我们相对友善的朋友。 黄仁勋始终是美国对华芯片限制最有影响力的反对者之一。他反复警告华盛顿，限制英伟达进入中国，只会帮助中国建立自己的计算生态。作为生意人，他希望英伟达继续控制中国市场。但国家安全政策从来不需要完全服从商业逻辑。 黄仁勋的离开，恰好发生在美国民主党在中期选举大获全胜之际。但风云诡谲的过程显示，这更是一场特朗普身边、共和党内部对华鹰派在中期败选之际借手民主党媒体发起的一场清君侧，企图剪除企业家对特朗普私人直接影响力。 我们自上一轮贸易战开始就知道，一个会讨价还价、能交易、谈利益的话事人，比嘴上全是主义、对华更不留谈判余地的精英团体更难缠。而接下来2年里，我们可能都要直面后者。 这也是对华AI限制从芯片向全球算力、模型技术及供应链全面扩展的敏感时刻。 先进芯片越来越难买，海外GPU租赁受到审查，OpenAI和Anthropic",
-    "publishedAt": "2026-11-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -253,11 +226,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-got-an-iphone-duo-these-9-settings-make-it-easier-to-use-1794679200000",
-    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-    "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-    "publishedAt": "2026-11-14",
+    "id": "news-techcrunch-mobility-the-nvidia-backup-plan-for-china-8217-s--1794762300000",
+    "title": "TechCrunch Mobility: The Nvidia backup plan for China&#8217;s self-driving industry",
+    "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -266,16 +239,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
-    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
-    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
-    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
+    "id": "news-week-in-review-can-ai-root-out-manager-bias-1794602040000",
+    "title": "Week in review: Can AI root out manager bias?",
+    "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including a single case&rsquo;s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
     "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -289,20 +263,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news--1794747546000",
-    "title": " 美国闹变压器荒，中国工厂谁拿到了订单？ ",
-    "link": "https://www.huxiu.com/article/4905739.html?f=rss",
-    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年6月的时候，金盘科技的一台345千伏液浸式变压器在海外送电。公司在三季报里只写了“海外”两个字，没有说是哪个国家。 电压等级给了线索。中国主网用的是220、330、500千伏，345千伏是北美输电网的主力等级之一。同一时期，韩国LS电气接到的一笔北美AI数据中心订单，规格同样是345千伏超高压变压器，合同金额1.33亿美元，交付排到2030年。 2026年前三季度，金盘科技新签海外订单61.49亿元，同比增长296.54%；数据中心业务新签订单56.78亿元，同比增长471.96%。 这些订单背后，是美国电网正在经历的一场变压器荒。用电增长、电网老化、AI数据中心接入，三股需求同时挤到了同一批工厂门口。科技公司可以在一年内买齐GPU，却要排三四年队等一台大型变压器。 高盛今年3月的测算显示，中国厂商在美国变压器市场的份额只有4%左右。 缺口很大，中国厂商拿到的部分还很小。美国到底缺什么，缺口被谁填上了，中国厂商又卡在了哪里？ 一、一台变压器，要等四年 美国变压器荒的起点，是需求在几年内翻了一倍多。 能源咨询公司伍德麦肯兹的统计显示，2019年以来，美国电力变压器需求增长116%，发电机升压变压器需求增长274%。美国用电量在2010年到2020年间还略有下降，2020年后转为增长7%。 供给跟不上。伍德麦肯兹估计，",
-    "publishedAt": "2026-11-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -332,11 +292,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-transportation-secretary-blames-routine-equipment-upgrade-fo-1794678304000",
-    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-    "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-    "publishedAt": "2026-11-14",
+    "id": "news-the-tech-products-we-enthusiastically-recommend-this-holiday-1794758400000",
+    "title": "The tech products we enthusiastically recommend this holiday season",
+    "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+    "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+    "publishedAt": "2026-11-15",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -369,19 +329,6 @@ export const generatedNews: NewsItem[] = [
     "tags": [
       "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-18a-1794747176000",
-    "title": " 港股上市主动刹车潮，对优质18A是利好 ",
-    "link": "https://www.huxiu.com/article/4905738.html?f=rss",
-    "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 最近，一批港股生物科技公司走到了上市流程的最后一步，却停了下来。 有的已通过聆讯，卡在基石投资者上，等不到窗口就要从头再来；更极端的，已启动招股后来又全额退回申购款。 这不是个案。港交所正在集中清查发行环节的违规操作，叠加二级市场流动性收缩、首日破发率走高，18A公司的发行难度抬升。主动刹车，成了越来越多公司的选择。 刹车意味着什么？对还在排队的优质18A，这轮清算是利空还是利好？为此，氨基君跟资深投行人士W君聊了聊。 /01/ 过聆讯不发、退回申购款：主动刹车是怎么来的 氨基君：怎么理解最近这波主动刹车？有公司聆讯都过了，已启动招股后来又全额退回申购款，为什么不发了？ W君：最近几个月港股市场正在迅速降温，一些企业在通过聆讯后暂缓了发行。这里面有几个主要原因，比如：国际配售机构订单不足、一二级估值倒挂、新股破发率高企等，发行人选择等待更好的市场窗口，避免上市即破发损害公司长期估值与再融资能力。 氨基君：过聆讯不发，最多能等多久？ W君：取决于财务报告有效期的剩余时间，有效期通常是6个月，2026年8月新规后合资格申请有效期可延长至12个月。所以现在很多过聆讯的企业，基石认购不足、期望发行价格和投资人预期不匹配，只能在那等。 氨基君：所以这轮清查和主动刹车，对市场反而是好事？ W君：对，好企业肯定是受益的。堰塞湖清理一下，市场化发行困",
-    "publishedAt": "2026-11-15",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
       "technology"
     ]
   },
@@ -1128,4 +1075,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-15T13:23:39.239Z';
+export const dataFetchedAt = '2026-11-15T22:26:22.181Z';
