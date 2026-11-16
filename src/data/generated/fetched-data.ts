@@ -2,11 +2,11 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-silicon-valley-s-blind-spot-and-nvidia-s-chip-t-1794575400000",
-    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
-    "publishedAt": "2026-11-13",
+    "id": "news-the-download-testing-tech-promises-and-searching-for-cogniti-1794834600000",
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;",
+    "publishedAt": "2026-11-16",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -14,10 +14,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-launches-new-app-to-study-how-people-use-ai-for-health-1794792600000",
-    "title": "Apple launches new app to study how people use AI for health",
-    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "id": "news-mazama-energy-has-a-solution-for-geothermal-s-biggest-drilli-1794837600000",
+    "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+    "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+    "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+    "publishedAt": "2026-11-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-how-to-take-the-chaos-and-cost-out-of-cross-border-payroll-1794823200000",
+    "title": "How to take the chaos — and cost — out of cross-border payroll",
+    "link": "https://www.hrdive.com/spons/how-to-take-the-chaos-and-cost-out-of-cross-border-payroll/873538/",
+    "summary": "The right payroll platform can meaningfully improve the process of paying a distributed, growing workforce.",
+    "publishedAt": "2026-11-16",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-2-0-1794650888000",
+    "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+    "link": "https://www.qbitai.com/2026/11/510297.html",
+    "summary": "马斯克也签名了",
+    "publishedAt": "2026-11-14",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794839512000",
+    "title": " 华住：同店掉队，利润狂飙，“轻资产印钞机” 火力全开？ ",
+    "link": "https://www.huxiu.com/article/4906076.html?f=rss",
+    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 北京时间2026年11月16日美股盘前，华住发布了2026年3季度财报。 整体来说，三季度华住交出了一份全线超预期的成绩单：收入、利润均明显高于市场预期，全年指引也再次大幅上调。美中不足的地方在于，成熟门店的同店RevPAR降幅较二季度进一步扩大，具体要点如下： 1、国内RevPAR基本持平，同店降幅扩大。从最核心的经营指标每间可售房收入（RevPAR）看，三季度华住中国每间可售房收入为256元/晚，同比增长0.1%，虽然勉强维持了连续第五个季度的正增长，但增速较二季度的1.1%进一步放缓。 拆分来看，ADR同比增长1.8%达到309元/晚，仍是唯一的正向驱动，主要是汉庭、全季新版本产品占比提升带来的结构性溢价，叠加收益管理的优化；OCC为82.6%，同比下滑1.4pct，降幅较二季度略有扩大。 得注意的是成熟门店：在营满18个月的同店RevPAR同比下滑4.4%，较二季度的-3.0%进一步扩大，其中同店ADR下滑1.3%、OCC下滑2.7pct，量价双降，且经济型和中高端的降幅基本一致，说明暑期旺季行业整体需求偏弱、价格承压，华住的混合口径能稳住，主要靠新店和产品升级托底。 海外市场，三季度华住国际RevPAR同比基本持平，较二季度（-3.8%）明显改善。由于欧洲关闭部分租赁酒店，海外收入同比下滑7.7%，但调整后EBITDA同比翻",
+    "publishedAt": "2026-11-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-51-1-129-car-t-1794832463000",
+    "title": "新增51款1类新药、129万CAR-T首次纳入：医保目录的平衡与商保新变量丨行业风向标",
+    "link": "https://www.tmtpost.com/8207495.html",
+    "summary": "基本医保进一步向高临床价值的创新药倾斜，同时通过商保目录承接差异化、更高端的创新需求。",
+    "publishedAt": "2026-11-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-building-ai-that-can-work-across-the-enterprise-1794834000000",
+    "title": "Building AI that can work across the enterprise",
+    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
+    "publishedAt": "2026-11-16",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-after-dodging-death-battery-startup-our-next-energy-is-now-g-1794834000000",
+    "title": "After dodging death, battery startup Our Next Energy is now going public",
+    "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+    "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
     "publishedAt": "2026-11-16",
     "source": "TechCrunch",
     "tags": [
@@ -40,10 +119,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-0-1794650888000",
-    "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-    "link": "https://www.qbitai.com/2026/11/510297.html",
-    "summary": "马斯克也签名了",
+    "id": "news-5-1794650302000",
+    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+    "link": "https://www.qbitai.com/2026/11/510232.html",
+    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
     "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
@@ -53,10 +132,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794802900000",
-    "title": " 与其研究AI短剧怎么做，不如抓紧去卖课 ",
-    "link": "https://www.huxiu.com/article/4905867.html?f=rss",
-    "summary": "本文来自微信公众号： 仙人JUMP ，作者：半佛仙人 1 AI短剧火了之后，后台一堆一堆人来问这个行业还能不能入局，这里我要拿出我2年半之前写短剧行业的东西，当时信我的全都保住了自己的钱。 行业有机会，但对你没机会。 真的，这话很难听，但咱俩没有利益冲突，我也不收你钱，收你钱的是要骗你投钱的人。 你不知道该信谁，属于配不上自己的钱。 不要觉得现在人都刷AI短剧AI短剧就能帮你赚大钱。 人还天天都得吃饭穿衣呢，开饭店的做服装的有多惨你也不是不知道。 而且AI短剧的特点是什么？ 是单兵作战一人就可以成为工作室，是控制成本，别管赚不赚钱，先把成本控制住。 当你想往里砸钱的时候，已经代表你成本失控了，你一开始就输了。 比砸钱更可怕的是，你甚至没有自己去做过这个内容，没有去抽过这个卡。 但凡你抽过，真的随便搓了几个片子出来，然后去投稿，然后发现一点回头钱见不到，你立马就明白这件事情了。 而你没有真的去这么做，反而是问我这个跟你非亲非故的网友，这就说明你根本对这个行业没有任何了解，你身边也没有从业者，求求你好好保护好自己的钱吧。 如果你想听一点道理，就一个事情。 做任何生意都要回答一个本质问题，钱从哪里来。 不管什么生意合法的，非法的，卖实物的，卖虚拟物品的，他都要回答一个问题，钱从哪里来？ 到底是谁？凭什么为你的东西付费？愿意付多少费？这个行为是否可持续？这个钱是否可以到你手里？ 往AI短剧",
+    "id": "news--1794837773000",
+    "title": " 黄仁勋事件之后，海外远程算力监管的几个关键节点 ",
+    "link": "https://www.huxiu.com/article/4906072.html?f=rss",
+    "summary": "本文来自微信公众号： 敏大是一只柯基 ，作者：敏大的朋友们 黄仁勋事件爆发之初，各种消息纷纷扰扰，每天都有新的变化。黄仁勋为什么辞职、是否可能复职、英伟达的前途如何，我没有内幕消息，也没办法做准确的预测。但这几天，很多朋友和客户都在问同一个问题：黄仁勋事件会不会推动美国进一步限制中国企业远程使用海外算力？这倒是我们可以分析的话题。 一、现实情况：海外算力中心趋于保守，中国企业抢时间下订单 最具指标性的例子是腾讯与Oracle之间约70亿美元的交易。我们在此前的文章里介绍过，腾讯与Oracle签了一份五年期的大单，在东南亚的多个数据中心租用算力，涉及约十万颗先进AI芯片。 但据媒体报道，不晚于11月4日，在美国政府表达关切之后，Oracle已经取消了这份合同。我们在当时的文章里提到，腾讯和Oracle的这个项目足以成为行业风向标。所谓天塌下来高个子顶着，只要腾讯的项目还在做，更小的项目就不太容易被监管部门注意到。但现在，高个子项目已经先叫停了。 压力不光来自于政府。英伟达已经要求其云服务客户，至少51%的算力业务要来自非中国客户。芯片供应端的商业要求，迟早也会传导到算力合同上。 根据我们听到的消息，许多中国AI企业正在积极讨论提前锁定海外算力，或者联系东南亚数据中心预订容量。他们担心的，正是黄仁勋事件可能加速美国收紧远程访问限制。可以想见，算力服务合同里有关政策变化、服务暂停、预付款",
     "publishedAt": "2026-11-16",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +146,89 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794800760000",
-    "title": "具身智能：AI走向物理世界，还差几步",
-    "link": "https://www.tmtpost.com/8206268.html",
-    "summary": "2026年，资本、模型和制造同时加速，机器人开始批量走下生产线，但下线不等于交付，演示不等于胜任。具身智能能否真正跨越产业之门，取决于技术能否被组织成稳定工作的系统，并在真实场景中持续创造价值。",
+    "id": "news-cat-1bis-1794830502000",
+    "title": "移芯通信：营收稳步增长却盈亏反复，Cat.1bis芯片售价近乎腰斩",
+    "link": "https://www.tmtpost.com/8200859.html",
+    "summary": "营收增长背后，移芯通信盈利稳定性较差，三年半仅2024年实现盈利，其余时段持续亏损，累计亏损2.01亿元。",
+    "publishedAt": "2026-11-16",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-silicon-valley-s-blind-spot-and-nvidia-s-chip-t-1794575400000",
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+    "publishedAt": "2026-11-13",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-bedrock-energy-raises-24m-to-build-more-ai-enabled-geotherma-1794834000000",
+    "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+    "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+    "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+    "publishedAt": "2026-11-16",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-job-applicants-say-they-are-using-ai-to-discover-investigate-1794602100000",
+    "title": "Job applicants say they are using AI to discover, investigate companies",
+    "link": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+    "summary": "More than half of candidates said they declined to apply for a job after learning about a company through artificial intelligence, per a new study.",
+    "publishedAt": "2026-11-13",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-31-2-1794649714000",
+    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+    "link": "https://www.qbitai.com/2026/11/510150.html",
+    "summary": "童年的纸飞机，现在终于飞回我手里～",
+    "publishedAt": "2026-11-14",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794837567000",
+    "title": " 炒“羊”行情开始熄火 ",
+    "link": "https://www.huxiu.com/article/4906070.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：赵阳戈 11月16日，近期A股市场最引人注目的“炒羊”行情迎来关键转折。 本轮行情的“头羊”九阳股份（002242.SZ）早盘竞价一度涨停，然而尾盘终究未能守住，炸板回落。这只自9月28日以来累计涨幅达208%的“超级大牛股”，在严重异动红线后，终于开始现疲态。 其他跟风的“羊群”们直接放弃抵抗：海洋王（002724.SZ）、东方海洋（002086.SZ）等尾盘砸向跌停；阳光照明（600261.SH）、襄阳轴承（000678.SZ）等已是连日重挫，尚在局内的资金悉数被埋；日出东方（603366.SH）、大东方（603366.SH）一众也多次放出风险提示公告，直呼存在情绪过热存非理性炒作风险。 这场炒作的脉络并不复杂，却足够无厘头。从九阳股份的“阳”，到阳光照明、海洋王、东方海洋、襄阳轴承的“羊字辈”，再到光洋股份（002708.SZ）、襄阳轴承被强行附会的“羊+机器人”，甚至上海九百（600838.SH）也因为“九百”与“九阳”的数字关联而被卷入漩涡。 有市场人士戏言，这是一场从“九阳”出发，途经“九百”与“洋”、“阳”、“日”、“东方”，最终以“九阳”收尾的闭环炒作。 整个炒作链路如同一场文字接龙，基本面被彻底悬置。多家公司在异动公告中坦承“相关业务尚处于早期阶段，对公司当期营收及利润无重大影响”。 界面新闻留意到，该轮炒作最显著的特征，并",
+    "publishedAt": "2026-11-16",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-11-1794830430000",
+    "title": "维眸生物：十年无产品商业化，累计亏损近11亿，现金链承压",
+    "link": "https://www.tmtpost.com/8200883.html",
+    "summary": "拉长时间线看，若剔除股改影响，截至2026年6月末，维眸生物的累计亏损金额为-10.92亿元，这也意味着，公司成立近十年累计资金投入消耗接近11亿元，如何扭亏、打通商业化路径，是其必须解决的核心难题。",
     "publishedAt": "2026-11-16",
     "source": "钛媒体",
     "tags": [
@@ -94,37 +252,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-e-1794785400000",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "publishedAt": "2026-11-15",
+    "id": "news-freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-wit-1794832200000",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "publishedAt": "2026-11-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-job-applicants-say-they-are-using-ai-to-discover-investigate-1794602100000",
-    "title": "Job applicants say they are using AI to discover, investigate companies",
-    "link": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
-    "summary": "More than half of candidates said they declined to apply for a job after learning about a company through artificial intelligence, per a new study.",
+    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
+    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
+    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
+    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
     "publishedAt": "2026-11-13",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-5-1794650302000",
-    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-    "link": "https://www.qbitai.com/2026/11/510232.html",
-    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+    "id": "news-token-1794649262000",
+    "title": "绿电进Token出！联想重新定义词元工厂",
+    "link": "https://www.qbitai.com/2026/11/510094.html",
+    "summary": "年产2000万亿Token，成本狂降70%",
     "publishedAt": "2026-11-14",
     "source": "量子位",
     "tags": [
@@ -134,23 +292,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794802838000",
-    "title": " 机器狗进入下半场，扛起了具身智能的半边天 ",
-    "link": "https://www.huxiu.com/article/4905857.html?f=rss",
-    "summary": "本文来自微信公众号： 具身商业前哨 ，作者：温特斯 人形机器人抢走了聚光灯，但机器狗才是赚钱养家的长子。 一周之内，三只国产机器狗创造了三门不一样的生意。从产品形态、落地场景和商业模式上看，机器狗已经迎来了属于它的下半场。 11月6日，上海进博会上，巨星传奇与宇树合作的UNI-DOGGIE首次亮相。这只机器狗售价4.39万元，全球限量2000台。巨星传奇长期运营周杰伦官方二次元IP“周同学”。这只机器狗卖的不只是运动性能，还有明星IP、潮玩外观和收藏属性。 同一周，北京安博会上，智身科技发布安防巡逻机器狗钢哨P1。它把轮足底盘、自主导航和红外热成像做进一套安防巡逻产品，可选配自动充电桩，还给出了行业里少见的三年整机质保。 几天后，璇玑动力与51WORLD联合研发的巡检方案在马来西亚雪兰莪州启动试点。Hypertron-SW01走进当地物流仓储园区，开始巡查出入口和重点仓储区。这只国产机器狗，也由此开启了海外“上岗”之旅。 一只卖IP，一只卖质保，一只带着整套巡检系统出海。机器狗没有沿着同一条路长成一只“通用狗”，产品形态和落地场景反而越走越分散。 从具身智能的发展来看，机器狗是最早真正落地的产品。它比人形机器人更早走出实验室，先进入科研教育、电力巡检和消防救援，也更早卖出规模、形成收入。 但现在，这个最早落地的品类开始按照任务改变身体：装上轮子提高效率，背上机械臂获得操作能力，钻进",
+    "id": "news-ai-1794837146000",
+    "title": " AI漫剧下一战：从抢流量到抢付费 ",
+    "link": "https://www.huxiu.com/article/4906050.html?f=rss",
+    "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 AI漫剧的钱，越来越不好赚了。 前两年，行业还在讨论一部漫剧几天破亿、一个团队一个月能做多少部。到了今年，热闹依旧，行业万播收益却从此前的几十元甚至上百元，落到了个位数、十元上下。作品上线了，播放量有了，钱却没跟着来。 这倒不难理解。AI把制作门槛打了下来，也把更多人送进了赛道。2026年上半年，仅抖音端新增AI短剧及漫剧就达到22.19万部，累计播放量超过5000亿次。内容供给一下子多了起来，大家都在抢同一批用户，作品之间的竞争也从“谁能做出来”，变成了“谁能被看见、谁能让人看完、谁能让人掏钱”。 于是，付费重新成了行业绕不开的话题。免费模式可以靠广告和播放分账回收成本，但当万播收益不断变薄，单纯靠流量走量就越来越难支撑制作。对制作方来说，付费不再只是锦上添花，而是关系到一部作品能不能活下去的现实问题。 供给爆了，收益薄了 AI漫剧最初吸引人的地方，是低成本和高产能。过去一部真人短剧要协调演员、场地、服化道和拍摄周期，AI漫剧把其中一部分环节搬到了电脑前。一个小团队甚至个人，也有机会做出完整作品。制作门槛降低，内容供给迅速膨胀，行业看起来像是突然多出了无数个新玩家。 但产能上去了，不代表每个人都能分到钱。作品上线之后，仍然要面对曝光、播放、用户留存和收益结算。前面的成本省了，后面的钱未必就能挣到。 2026年上半年，抖音端",
     "publishedAt": "2026-11-16",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-ai-1794800280000",
-    "title": "谁在忽悠普通人入局AI漫剧？",
-    "link": "https://www.tmtpost.com/8206372.html",
-    "summary": "别再捧杀AI漫剧了。",
+    "id": "news-ai-1794828616000",
+    "title": "AI变量下的多线博弈，面板行业迎来新卡位战",
+    "link": "https://www.tmtpost.com/8206976.html",
+    "summary": "过去，企业需要思考如何生产更多、更便宜的屏幕。AI时代，则需要思考如何生产更有价值、更符合未来需求的屏幕。",
     "publishedAt": "2026-11-16",
     "source": "钛媒体",
     "tags": [
@@ -173,95 +332,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-indust-1794779795000",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "publishedAt": "2026-11-15",
+    "id": "news-zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas-1794830400000",
+    "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+    "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+    "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+    "publishedAt": "2026-11-16",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-annual-401-k-limit-pushed-to-25-500-for-2027-irs-announces-1794602040000",
-    "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
-    "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
-    "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers&rsquo; defined-contribution plans.",
-    "publishedAt": "2026-11-13",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-31-2-1794649714000",
-    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-    "link": "https://www.qbitai.com/2026/11/510150.html",
-    "summary": "童年的纸飞机，现在终于飞回我手里～",
-    "publishedAt": "2026-11-14",
-    "source": "量子位",
-    "tags": [
-      "china",
       "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-hinton-lecun-1794802277000",
-    "title": " AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招 ",
-    "link": "https://www.huxiu.com/article/4905862.html?f=rss",
-    "summary": "本文来自微信公众号： 机器之心 ，编辑：Panda，作者：关注AI滥用的，原文标题：《恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招》 某天，哥德堡大学计算机科学教授Alan Said收到了一条谷歌学术的推送：他有一篇新论文发表了。 论文题为《Intelligence Systems Supporting Sustainable Global Development》（支持全球可持续发展的智能系统），刊登在一本名为American International Journal of Research and Innovation（AIJRI）的期刊上。题目和他「AI与可持续性」的研究方向沾边，署名也确实是他。 问题是：这篇论文不是他写的。 「我写一篇这个方向的论文并不奇怪，但只要看一眼论文本身和它的参考文献，就知道是AI生成的。它没有任何内容，就是一堆slop。」Said在接受Times Higher Education（简称THE）采访时这样说。 顺着这篇论文，THE挖出了一个更大的盘子：一批名不见经传的期刊，正在以斯坦福、伯克利等顶尖高校教授的名义，批量发表AI生成的垃圾论文。被「署名」的人里，包括Geoffrey Hinton、Yann LeCun、Yoshua Bengio、李飞飞、Christopher Manning、Michael I",
-    "publishedAt": "2026-11-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-token-1794800220000",
-    "title": "Token出海赚的钱，跟不上飙升的存储成本了",
-    "link": "https://www.tmtpost.com/8204368.html",
-    "summary": "收入按词元核算，成本却跟着GB走。",
-    "publishedAt": "2026-11-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-nvidia-privately-confirmed-it-could-track-chips-to-fight-smu-1794514584000",
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
-    "publishedAt": "2026-11-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and--1794774057000",
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "publishedAt": "2026-11-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
+      "ecommerce"
     ]
   },
   {
@@ -279,87 +360,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1794649262000",
-    "title": "绿电进Token出！联想重新定义词元工厂",
-    "link": "https://www.qbitai.com/2026/11/510094.html",
-    "summary": "年产2000万亿Token，成本狂降70%",
-    "publishedAt": "2026-11-14",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794801988000",
-    "title": " 中国版拉夫劳伦，盯上新中产的钱包 ",
-    "link": "https://www.huxiu.com/article/4905859.html?f=rss",
-    "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 你可能没买过比音勒芬，但大概率听说过这个牌子。 一件T恤卖到上千元，毛利率超过爱马仕。论定价和毛利，比音勒芬确实有几分奢侈品的架势，品牌的目标人群，也常常和精英、体制内、中年男人等标签绑定。 但这门看起来利润丰厚的生意，前两年也遇到了增长难题。2024年，比音勒芬遭遇了上市以来首次年度归母净利润下滑；2025年，利润降幅进一步扩大。 到了2026年，这家被称为“衣中茅台”的品牌，终于交出了一份双增长的成绩单：2026年前三季度，营业收入40.8亿元，同比增长27.4%；归母净利润7.5亿元，同比增长20.5%。 从连续两年利润下滑，到重新实现双位数增长，比音勒芬发生了什么？ 中国版拉夫劳伦，盯上中产女孩 在社交媒体上，比音勒芬有很多别称，比如“中国版拉夫劳伦”。 这两个品牌的确有相似之处，拉夫劳伦一开始和马球运动绑定，推出大单品polo衫，比音勒芬则是和高尔夫球绑定，核心单品也是polo衫，用高尔夫运动建立起品牌高端形象。 但不太一样的是，拉夫劳伦的受众相对广泛：初入职场的白领、成熟商务人士都有，品牌尤其受到中产女性的喜爱；但比音勒芬主打高尔夫和商务着装，核心客群主要为中年男性。 比音勒芬想继续增长，只是守住原有客群显然不够，过去几年，比音勒芬一系列密集的品牌动作，都在指向——要拿下更年轻的高净值人群，包括更多的女性受众。 ",
-    "publishedAt": "2026-11-16",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794799860000",
-    "title": "谢帝搞说唱十几年，不如当“电子闺蜜”两个月？",
-    "link": "https://www.tmtpost.com/8206019.html",
-    "summary": "从硬核Rapper到“电子闺蜜”。",
-    "publishedAt": "2026-11-16",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-cop31-s-climate-challenge-and-the-quest-for-imm-1794489000000",
-    "title": "The Download: COP31’s climate challenge and the quest for immortality",
-    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
-    "publishedAt": "2026-11-12",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-own-1794767354000",
-    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-    "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-    "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-    "publishedAt": "2026-11-15",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "strategy"
-    ]
-  },
-  {
-    "id": "news-many-executives-say-they-are-worried-about-leading-with-empa-1794515220000",
-    "title": "Many executives say they are worried about leading with empathy",
-    "link": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/",
-    "summary": "Faced with pressure to &ldquo;place winning bets on AI,&rdquo; C-suite executives are deprioritizing employee well-being, culture and retention, Businessolver said.",
-    "publishedAt": "2026-11-12",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news--1794625175000",
     "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
     "link": "https://www.qbitai.com/2026/11/510013.html",
@@ -373,10 +373,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-1794801508000",
-    "title": " 第一个5万亿外贸城市，来了 ",
-    "link": "https://www.huxiu.com/article/4905858.html?f=rss",
-    "summary": "本文来自微信公众号： 国民经略 ，作者：凯风 外贸第一城，还在飙升。 01 外贸突破5万亿，什么信号？ 今年前10个月，深圳外贸进出口总额达5.25万亿元，同比增长40.9%，再创历史新高。 这不仅是深圳外贸历史上首次突破5万亿，也标志着中国内地第一个5万亿外贸大市诞生。 这只是前10个月数据，按照这一增速线性推算，深圳全年外贸将站上6万亿大关。 这意味着，深圳将继续蝉联内地外贸、出口第一城，且剑指进口第一城，并拉大对同能级城市的领先优势。 这一数字有多惊人？ 放在内地31个省份，深圳外贸总额可排在第三，仅次于粤苏两省，力压浙江、山东、福建等外贸大省。 深圳一座城市的外贸总额，占全国1/9强，超过中部六省的总和，也超过西部12个省份的总和。 放在全球主要经济体中，深圳外贸可排在TOP20之列，超过俄罗斯、澳大利亚、巴西等经济体。 作为国家“对外开放门户”，在APEC之年，深圳再次诠释了全球竞争力和影响力。 02 第一个10万亿外贸大省，要来了。 不只是深圳，深圳所在的广东，外贸也创下历史新高。 今年前10月，广东外贸进出口9.8万亿，已超过去年全年规模，比去年同期增长25.7%。 值得一提的是，自6月以来，广东外贸总额已连续5个月“月月破万亿”，突破10万亿毫无悬念，全年更有望站上11万亿。 深圳占广东外贸超半壁江山，广东则占全国大盘比重21.9%，相较去年提高1个百分点。 这意味",
+    "id": "news--1794836983000",
+    "title": " 智驾芯片还要堆多少算力？先看看车上的模型需要什么 ",
+    "link": "https://www.huxiu.com/article/4906067.html?f=rss",
+    "summary": "本文来自微信公众号： 甲子光年 ，作者：张麟，编辑：王博，原文标题：《智驾芯片还要堆多少算力？先看看车上的模型需要什么｜甲子光年》 在设计模型时，就决定哪些计算值得做。 围绕智驾模型，行业正在同时做两件事：让它更强，也让它更省。 11月10日，就在黄仁勋深陷婚外情风波之际，英伟达发布技术博客，公开了面向车端部署的Alpamayo 2 Edge模型权重并介绍部署技术细节。这款面向车端开发的VLA模型，采用约20亿参数的语言模型组件，配合视觉编码器和动作专家生成驾驶轨迹，并通过按需推理减少常规驾驶中的计算。此前，英伟达还推出了340亿参数的Alpamayo 2 Super，用于离线教师、评估和数据生成等任务。 从能力探索到车端部署，计算的安排发生了变化。国内车企也在处理类似问题。 今年8月，小鹏介绍第二代VLA升级时，一边强调端侧模型参数量扩大，一边介绍Token压缩与蒸馏，希望把基座模型能力部署到算力更低的平台。 今年9月，在与「甲子光年」的对话中，零跑高级副总裁周洪涛提到，自己给团队提出一个目标：将世界模型下放到更低算力平台，“甚至在100TOPS的算力上也要跑出来一个比较好的效果。” 这引出了一个值得讨论的问题：智驾能力增长，究竟有多少必须靠车端硬件升级来承接？ 1.更大的模型，不一定原样上车 “让大模型定义芯片，让芯片承载大模型的下一次进化。” 10月29日，XHEART新芯航",
     "publishedAt": "2026-11-16",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +386,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-34-54-27-1794799554000",
-    "title": "全球34%游戏从业者近两年遭遇裁员，54%至今未找到新工作，27%投简历超过百份",
-    "link": "https://www.tmtpost.com/8206296.html",
-    "summary": "游戏行业的人才市场仍未走出寒冬。",
+    "id": "news--1794828496000",
+    "title": "连续五年亏损、实控人被刑拘，南卫股份控制权格局引关注",
+    "link": "https://www.tmtpost.com/8207448.html",
+    "summary": "随着公司实控人被刑拘，3年前就开始筹划的控制权变更，再次被推至聚光灯下",
     "publishedAt": "2026-11-16",
     "source": "钛媒体",
     "tags": [
@@ -403,203 +403,301 @@ export const generatedNews: NewsItem[] = [
 
 export const generatedPapers: ArxivPaper[] = [
   {
-    "id": "arxiv-2611.17900v1",
-    "title": "AmbiSteer: Selectively Eliciting Ambiguity-Aware Responses in Vision-Language Models",
+    "id": "arxiv-2611.18563v1",
+    "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
     "authors": [
-      "Monica Riedler",
-      "Samuele Antonelli",
-      "Barbara Plank",
-      "Raffaella Bernardi"
+      "Daniel Grimm",
+      "Kyra Jongman",
+      "Renato Cordeiro Ferreira",
+      "Giuseppe Cascavilla",
+      "Alfredo Cuzzocrea",
+      "Willem-Jan Van Den Heuvel"
     ],
-    "summary": "Vision-language models (VLMs) often exhibit overconfidence, providing firm answers even when visual evidence is insufficient. A prominent case is referential ambiguity in Visual Question Answering (VQA), where multiple entities in an image are plausible referents of a question. Addressing such cases requires recognizing when ambiguity is present: ambiguous questions can be handled by asking for clarification or enumerating plausible referents, while unambiguous questions should receive a direct answer. Current VLMs struggle with this distinction, often defaulting to a single interpretation. To investigate whether activation steering can serve as an inference-time mechanism to elicit such behaviors, we introduce AmbiSteer, a lightweight framework to selectively elicit ambiguity-aware behavi",
-    "link": "http://arxiv.org/abs/2611.17900v1",
+    "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Following the CRISP-DM process, this study applies a Pair Hidden Markov Model (PHMM) to align individual RF detections with AIS trajectories, using temporal and spatial information while modeling noise and timing discrepancies. We evaluate it on NOAA AIS data with synthetic RF detections against nearest",
+    "link": "http://arxiv.org/abs/2611.18563v1",
     "publishedAt": "2026-11-13",
     "categories": [
-      "cs.CV",
-      "cs.CL"
+      "cs.LG",
+      "cs.CR"
     ]
   },
   {
-    "id": "arxiv-2611.17899v1",
-    "title": "More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology",
+    "id": "arxiv-2611.18561v1",
+    "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
     "authors": [
-      "Songming Zhang",
-      "Yuxiao Luo",
-      "Shifu Luo",
-      "Siran Chen",
-      "Shuquan Su",
-      "Jinyan Li"
+      "Jonathan D. McCart",
+      "Pranav I. Deevi",
+      "Mehdi Azabou",
+      "Nanda H. Krishna",
+      "Caleb A. McKinney",
+      "Nicholas S. Card",
+      "Sergey D. Stavisky",
+      "Chethan Pandarinath"
     ],
-    "summary": "Spatial transcriptomics (ST) prediction from histology aims to infer spatially resolved gene expression profiles directly from tissue images. This is a challenging problem that is currently often addressed with complicated model architectures, additional inputs, and complicated training procedures, while remaining limited to fixed, small gene panels. This raises a natural question: Is there an efficient method for large-panel ST prediction? Here, we present GeneFlow, a simpler yet effective framework for large-scale spatial gene expression prediction that unifies flow-matching generative modeling with structured multimodal fusion. Specifically, GeneFlow first encodes both histological morphology and cross-gene interactions in spatial spots through histology and gene tokenizers. The model d",
-    "link": "http://arxiv.org/abs/2611.17899v1",
+    "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy. This performance currently comes at the cost of using a compute-intensive language modeling stack, presenting a major bottleneck for real-world use. Further, current language models incur highly variable and disruptive inference latencies, limiting communication throughput and preventing users from reliably participating in natural conversation. We introduce FETTUCCINE, an end-to-end brain-to-text framework that leverages the speed and portability of automatic speech recognition (ASR) mode",
+    "link": "http://arxiv.org/abs/2611.18561v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "q-bio.NC",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18562v1",
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "authors": [
+      "Jiaming Tang",
+      "Zhuoyang Zhang",
+      "Junxian Guo",
+      "Fangzhou Zhao",
+      "Yilong Zhao",
+      "Zekai Li",
+      "Xingyang Li",
+      "Yuyang Zhao",
+      "Song Bian",
+      "Zhijian Liu",
+      "Song Han"
+    ],
+    "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely in simulation and without demonstrations. Like a computer-use agent (CUA), the model observes the environment, reasons in a chain of thought, and generates the next end-effector pose, without any harness. We build a Post-training Engine for Agentic Robotics (PEAR) and use it to train the model on simulated robot tasks at scale with robot-use reinforcement learning (RURL), mirro",
+    "link": "http://arxiv.org/abs/2611.18562v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18559v1",
+    "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+    "authors": [
+      "Genki Kinoshita",
+      "Ko Nishino"
+    ],
+    "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics sensitive to their settings. We propose BAL, a self-supervised framework that instead exploits supervision intrinsic to human movement: the natural ordering structure of everyday behavior. BAL autoregressively predicts in a semantically abstract latent space, analogous to how humans anticipate others' actions rather than their precise joint configurations. Bidirectional autoregressive prediction,",
+    "link": "http://arxiv.org/abs/2611.18559v1",
     "publishedAt": "2026-11-13",
     "categories": [
       "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18553v1",
+    "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+    "authors": [
+      "Aayush Marasini",
+      "Barsat Khadka",
+      "Nick Rahimi"
+    ],
+    "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates LLMs of increasing capability on 42 WSP tasks across five tracks: reading, fixing and writing weights, recognizing edits that are impossible, and data-free compression. The networks whose weights the LLMs read and edit range from 2K-parameter control policies to 7B-parameter language models. Experimental benchmark results show that frontier agents",
+    "link": "http://arxiv.org/abs/2611.18553v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18543v1",
+    "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Tony H. Zhang",
+      "Connor Mattson",
+      "Daniel S. Brown"
+    ],
+    "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by the quality of the demonstrations. We propose Imitation Bootstrapped Multi-Agent Reinforcement Learning (IBMARL), a framework that extends Imitation Bootstrapped Reinforcement Learning (IBRL) to cooperative teams and uses R2BC to train the imitation policies. At each time step, every agent receives",
+    "link": "http://arxiv.org/abs/2611.18543v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
       "cs.AI",
-      "q-bio.QM"
+      "cs.MA"
     ]
   },
   {
-    "id": "arxiv-2611.17892v1",
-    "title": "Hierarchical Bayesian physics-augmented neural networks for populations of hyperelastic laws: specimen variability and uncertainty from scarce, noisy data",
+    "id": "arxiv-2611.18542v1",
+    "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
     "authors": [
-      "Vincent C. Scholz",
-      "Phaedon-Stelios Koutsourelakis"
+      "Cole Becker",
+      "Taylan Kargin",
+      "Kimia Hassibi",
+      "Asuman Ozdaglar",
+      "Pablo A. Parrilo"
     ],
-    "summary": "The hyperelastic law of a material such as soft tissue differs between specimens, and often only a few specimens can be tested. Physics-augmented neural networks (PANNs) learn such laws from data without a prescribed functional form while keeping them physically admissible, and Bayesian versions of related models quantify the uncertainty of the law of one specimen or of a pooled group of specimens. A pooled fit, however, attributes the differences between specimens to measurement noise or to uncertainty about a mean law, and neither describes a new specimen. We first develop a Bayesian PANN for one specimen, whose priors keep the learned law plausible for few, noisy data. We then extend it to a hierarchical Bayesian PANN, a nonlinear mixed-effects model in which all specimens share learned",
-    "link": "http://arxiv.org/abs/2611.17892v1",
+    "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discretization design based on the analyticity properties of the (complexified) ODE trajectories, which in turn ensure good numerical behavior. Our formulation can be solved exactly via conformal mapping, yielding a natural family of variance-preserving elliptic schedules, parametrized by Jacobi elliptic functions. Pairing an elliptic schedule with a tailored discretization, we obtain Zoloflow, a new sampling algorithm closely connected to Zolotarev's optimal rational function approximants. Crucially,",
+    "link": "http://arxiv.org/abs/2611.18542v1",
     "publishedAt": "2026-11-13",
     "categories": [
-      "cs.CE",
+      "stat.ML",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18538v1",
+    "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+    "authors": [
+      "Mojtaba Soltanalian"
+    ],
+    "summary": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather than demand unrelated facts scattered arbitrarily across it. We formalize this phenomenon through future-task information, the minimum retained information needed to preserve decision value relative to the available evidence. A joint decision-regret state records posterior comparisons among actions for every permitted task. Under compactness assumptions, every retained representation admits a calibrated replacement based on this state, preserving all task regrets without increasing information; the resulting information-regret curve equals an operational coding rate. Two exact",
+    "link": "http://arxiv.org/abs/2611.18538v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.IT",
       "cs.LG",
       "stat.ML"
     ]
   },
   {
-    "id": "arxiv-2611.17886v1",
-    "title": "Quantum Graph Neural Networks: Architectures, Trainability, and Applications",
+    "id": "arxiv-2611.18533v1",
+    "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
     "authors": [
-      "Zeinab Sharifi",
-      "Hossein Shirazi"
+      "Zelin He",
+      "Siyu Zhu",
+      "Jacob Helwig",
+      "Yujian Liu",
+      "Li An",
+      "Rohit Jain",
+      "Shiyu Chang",
+      "Alborz Geramifard"
     ],
-    "summary": "Quantum graph neural networks (QGNNs) apply parametrized quantum circuits to graph-structured data, with the aim of overcoming limits of classical graph neural networks in scalability, expressivity, and long-range information flow. Since the first Hamiltonian-based model in 2019, the field has produced many architectures, applications, and claims, but the evidence behind them has not been assessed systematically. This survey introduces a unified formalism that describes every QGNN as an encoder, a graph-conditioned circuit, observables, and an optional classical head, together with a circuit-level condition for permutation equivariance and a resource model for comparing costs. We organize the literature into five architecture families (convolutional, equivariant, message-passing and recurr",
-    "link": "http://arxiv.org/abs/2611.17886v1",
+    "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains. We introduce ModHarness-RL, which recasts the harness as programs that are learned from data and evolve as the model trains with RL. ModHarness-RL records the interaction as structured State, a set of typed blocks, and two core components of the harness are programs over these blocks, a Compression program that assembles the accumulated history into the model's context and a Steering program that supplies guida",
+    "link": "http://arxiv.org/abs/2611.18533v1",
     "publishedAt": "2026-11-13",
     "categories": [
+      "cs.AI",
+      "cs.CL",
       "cs.LG"
     ]
   },
   {
-    "id": "arxiv-2611.17883v1",
-    "title": "Securing Multi-Agent Systems by Design",
+    "id": "arxiv-2611.18531v1",
+    "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
     "authors": [
-      "Xilong Wang",
-      "Xiaoxing Chen",
-      "Neil Gong"
+      "Thomas Brennan",
+      "Andrew W. Lo",
+      "Chaoyi Zhao"
     ],
-    "summary": "Multi-agent systems solve complex tasks by decomposing them into subtasks, delegating the subtasks to agents, and aggregating the agents' responses using an aggregation rule. Malicious agents can manipulate the final solution by providing malicious responses to their assigned subtasks. In this paper, we first propose response manipulation attacks (ReMA), which iteratively optimize malicious responses to maximize attack effectiveness. Specifically, we formulate untargeted and targeted attacks as optimization problems and develop an approach to approximately solve these problems by iteratively refining malicious responses based on feedback from a surrogate multi-agent system. To defend against such attacks, we further propose SecMAS, a secure aggregation rule that leverages the semantic simi",
-    "link": "http://arxiv.org/abs/2611.17883v1",
+    "summary": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whether experience can make those choices reflect human judgments and withstand subsequent pressures. In our model, copies of an agent face a common uncertain reward state, and only those taking the rewarded action reproduce. We show that long-run growth is maximized when each action is taken as often as the environment rewards it. We compare three policies. A task-only policy thrives in a sandbox rewarding completion alone but fails when conduct matters. A fixed linear policy increasingly favors task completion as its stakes rise, even where humans never reward it. A learned p",
+    "link": "http://arxiv.org/abs/2611.18531v1",
     "publishedAt": "2026-11-13",
     "categories": [
-      "cs.CR",
+      "cs.AI",
+      "q-bio.PE",
+      "q-fin.GN"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18530v1",
+    "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+    "authors": [
+      "Abhilekha Dalal",
+      "Avishek Das",
+      "Samatha Ereshi Akkamahadevi"
+    ],
+    "summary": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected this behavior through classification accuracy but say little about what CNN hidden layers represent. We investigate whether Concept Induction can reveal interpretable visual properties associated with hidden-neuron activations on contextual image patches. Using five agricultural datasets with high, moderate, and low contextual bias, we analyze four CNN architectures at three network depths and five patch locations. Quantitative image descriptors of each patch are encoded in a knowledge graph and used as background knowledge for Concept Induction, which derives logical express",
+    "link": "http://arxiv.org/abs/2611.18530v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18527v1",
+    "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+    "authors": [
+      "Dayou Du",
+      "Congjie He",
+      "Andrew Boutros",
+      "Luo Mai",
+      "Vaughn Betz",
+      "Jianyi Cheng"
+    ],
+    "summary": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application mapping. Their scale makes programming these systems and mapping applications onto them challenging. Existing approaches rely on template-based mappings to maintain productivity, but these templates restrict the mapping design space. In particular, they impose fixed geometric layouts over the PE grid, often leaving compute and memory resources underutilized. In this work, we present WaferTetris, a system that removes these geometric restrictions through freeform mapping. Its Tetris-like strategy flexibly packs computation across the wafer, improving PE utilization and usable memor",
+    "link": "http://arxiv.org/abs/2611.18527v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.AR",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18516v1",
+    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+    "authors": [
+      "Dayoon Ko",
+      "Yichuan Wang",
+      "Soyeong Jeong",
+      "Joseph E. Gonzalez",
+      "Gunhee Kim",
+      "Sewon Min"
+    ],
+    "summary": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises a question: do visual encoders need to recompute their representations from scratch for every new screenshot? We present StreamEmbed, a system for incremental visual embedding that exploits this redundancy. Guided solely by pixel differences, it combines spatial token pruning, which skips blocks that repeat a neighbor, with temporal KV reuse, which reuses cached keys and values for blocks unchanged across screenshots. A small learned adap",
+    "link": "http://arxiv.org/abs/2611.18516v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.CV",
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18514v1",
+    "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+    "authors": [
+      "Mohamed Aghzal",
+      "Mor Geva",
+      "Gregory J. Stein",
+      "Ziyu Yao"
+    ],
+    "summary": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agents hallucinating actions that are not available on a website. We apply a series of mechanistic analyzes to Qwen2.5-7B-Instruct as it interacts with live websites. We find that a linear probe trained on the last prompt token can predict hallucinations before generation begins (0.80 AUC) and steering along a probe direction corrects 85\\% of hallucinations, but disrupts 7\\% of valid actions. However,",
+    "link": "http://arxiv.org/abs/2611.18514v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
       "cs.AI",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2611.17881v1",
-    "title": "Photogrammetric 3D Model-Based Animal Behavior Classification",
+    "id": "arxiv-2611.18513v1",
+    "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
     "authors": [
-      "Olaf Hellwich",
-      "Moritz Heine",
-      "Patrik Reiske",
-      "Sole Traverso",
-      "Katharina Hohlbaum",
-      "Henning Sprekeler",
-      "Christa Thöne-Reineke",
-      "Lars Lewejohann",
-      "Roman Bhuiyan"
+      "Mohammed Efaz",
+      "Udo Bub",
+      "Itilekha Podder"
     ],
-    "summary": "Video-based behavior estimation is often implemented end-to-end from image sequences. We advocate a two-stage alternative: reconstruct 3D body and object geometry before classifying behavior. This makes ambiguities of the ill-posed 2D-to-3D inverse problem explicit and potentially correctable. We demonstrate the strategy with simulated interacting mice and extend it to real video.",
-    "link": "http://arxiv.org/abs/2611.17881v1",
+    "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architecture, combining vector similarity, BM25, and summary embeddings, to ensure high fidelity to the reader's current context. We evaluate the system across classical English books using both quantitative comprehension metrics and qualitative LLM-based independent judging. The results identify a quality-l",
+    "link": "http://arxiv.org/abs/2611.18513v1",
     "publishedAt": "2026-11-13",
     "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17880v1",
-    "title": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
-    "authors": [
-      "Mike He",
-      "Ankush Desai",
-      "Sharad Malik",
-      "Aarti Gupta"
-    ],
-    "summary": "LLM agents that execute multi-step tool calls must satisfy two objectives simultaneously: completing the user's task (utility) and conforming to domain policies and correctness constraints (safety). These objectives are in tension -- blocking an unsafe action prevents a violation but can leave the agent stranded with no principled way to recover. Existing approaches sacrifice one objective for the other. We introduce Soteria, a framework that reconciles safety and utility through verified hierarchical planning and runtime enforcement of specifications. Before execution, the agent generates a structured plan that is formally verified against the specifications prior to any tool invocation. During execution, the verified plan serves dual roles: it ensures that the agent takes specification-c",
-    "link": "http://arxiv.org/abs/2611.17880v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
+      "cs.IR",
       "cs.AI",
-      "cs.SE"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17879v1",
-    "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
-    "authors": [
-      "Tiantong Wang",
-      "Zhiren Gong",
-      "Yixin Wang",
-      "Tiantong Wu",
-      "Wei Yang Bryan Lim"
-    ],
-    "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately evaluated by their final outputs. We study when these local gains survive composition. In specified linear regression models, we derive exact sharing and merging criteria by balancing variance savings against bias from sharing across roles with different target behavior. Under a common fixed linear propagation map, we characterize expected squared final-output risk, retaining error directions and correlations. We construct cases where sharing lowers average local error yet increases final-output error. Within this setting, we also identify when orthogonal full pooling with ",
-    "link": "http://arxiv.org/abs/2611.17879v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LG",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17878v1",
-    "title": "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
-    "authors": [
-      "Kailai Sun",
-      "Zijie Gao",
-      "Mingyi He",
-      "Can Rong",
-      "Alok Prakash",
-      "Baoshen Guo",
-      "Shenhao Wang",
-      "Jinhua Zhao"
-    ],
-    "summary": "Cities account for over two-thirds of the world's energy and more than 70% of global carbon dioxide emissions. City energy is essential for achieving the 2050 net-zero target and the UN's Sustainable Development Goals 7 and 11. Although existing studies have made progress, they are limited by data and methodological gaps. Existing studies are largely predictive for existing cities rather than generative for future cities; fine-grained, aligned monthly dynamic energy data are scarce; and existing GenAI models struggle to generate dynamic urban functional monthly energy. We present DySENSE, a joint multimodal GenAI framework that synthesizes static urban satellite imagery together with spatially aligned, dynamic monthly building energy consumption maps. We decouple long-term static urban mor",
-    "link": "http://arxiv.org/abs/2611.17878v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.CV",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17876v1",
-    "title": "Delayed Effects of Temporary Weight Decay in Muon Pretraining",
-    "authors": [
-      "Md Rifat Arefin",
-      "Ravid Shwartz-Ziv",
-      "Ernie Chang",
-      "Chinnadhurai Sankar",
-      "Rylan Conway",
-      "Aristide Baratin",
-      "Irina Rish",
-      "Adithya Sagar",
-      "Patrick Huber"
-    ],
-    "summary": "A temporary optimization intervention can increase validation loss when it ends yet reduce it at the final training budget. We demonstrate this with temporary weight decay in Muon-trained decoder-only Transformers with 162M, 405M, 1.4B, and 3.4B parameters. For models up to 1.4B parameters, moving a fixed-duration decay window from early to late training reverses its final effect. At 162M, changing window duration alters final loss even at approximately matched total shrinkage. Most strikingly, a schedule selected at 162M and transferred without retuning to 1.4B is 0.26 nats worse than no decay when removed, overtakes it only after 73% of training, and ultimately finishes 0.028 nats better while also outperforming the best sampled constant-decay baseline. Early decay leaves a persistent we",
-    "link": "http://arxiv.org/abs/2611.17876v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LG",
       "cs.CL"
     ]
   },
   {
-    "id": "arxiv-2611.17872v1",
-    "title": "Protection-Oriented Assessment of Machine Learning-Based Fault Detection in Power Systems",
+    "id": "arxiv-2611.18511v1",
+    "title": "On numerical issues of divergences between nearly equal distributions",
     "authors": [
-      "Julian Oelhaf",
-      "Georg Kordowich",
-      "Changhun Kim",
-      "Christian Bergler",
-      "Andreas Maier",
-      "Johann Jäger",
-      "Siming Bayer"
+      "Brandon Amos"
     ],
-    "summary": "Machine learning (ML)-based fault detectors are increasingly proposed for power system protection, yet aggregate metrics can obscure the consequences of false and missed trips. We present a protection-oriented assessment of three ML detectors and a sequence-current reference on PROTECT-90, comprising 9,022 simulated fault episodes on a 90 kV double-circuit line. The assessment combines five window conditions, causal window-end labelling, episode-grouped cross-validation, and operating-point selection under a fixed security budget. It reports security, dependability, detection timing, decision margins, and episode-level nuisance assertions. Gradient-boosted trees, a convolutional neural network, and logistic regression achieve AUC-ROC values above 0.999, yet at a security budget of $10^{-3}",
-    "link": "http://arxiv.org/abs/2611.17872v1",
+    "summary": "Barron et al. (2026) recently identified numerical issues in the softmax and soft cross-entropy loss. We show that similar issues are present in standard divergence operations between categorical distributions. This includes the forward and reverse Kullback-Leibler (KL) divergence and generalized Jensen-Shannon divergence (JSD), as well as Monte Carlo KL estimates and entropy. When the distributions are nearly equal, rounding and cancellation issues affect the forward and gradient computations. These issues can affect settings using divergences in optimization objectives, such as knowledge distillation, reinforcement learning, and proximal methods. We propose numerically stable reformulations and provide example implementations for each setting, validated by property-based tests.",
+    "link": "http://arxiv.org/abs/2611.18511v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "cs.LG",
+      "math.NA",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18507v1",
+    "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+    "authors": [
+      "Omer Nezih Gerek"
+    ],
+    "summary": "Classification heads built on conic functions give each class a bounded region of the feature space, and such regions are used to reject samples of unseen classes. We ask whether these regions also keep the features bounded when the head is trained with softmax cross-entropy. For a head whose class scores combine a linear term with a Euclidean norm, we first show that the region of each class is bounded by a quadric of revolution, whose eccentricity is the reciprocal of one learned ratio. We then attach to each class an asymptotic margin, which compares the growth of its score with the growth of all the other scores and can be computed by a second-order cone program. The loss of a class has infimum zero exactly when its margin is positive, and it then approaches zero only along diverging f",
+    "link": "http://arxiv.org/abs/2611.18507v1",
     "publishedAt": "2026-11-13",
     "categories": [
       "cs.LG",
@@ -607,158 +705,52 @@ export const generatedPapers: ArxivPaper[] = [
     ]
   },
   {
-    "id": "arxiv-2611.17870v1",
-    "title": "OmniScore-Bench: Evaluating Vision-Language Models on Musical Score Reading",
+    "id": "arxiv-2611.18506v1",
+    "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
     "authors": [
-      "Congren Dai",
-      "Zhancheng Guo",
-      "Danni Zhao",
-      "Wenchu Wang",
-      "Xiaobing Li",
-      "Maosong Sun"
+      "Daniel Reichenpfader",
+      "Kwaku Appiagyei",
+      "Manovah Nadarajah",
+      "Ahmed Reda Bahr",
+      "Irina Filchenko",
+      "Fabio Dennstädt"
     ],
-    "summary": "Vision-language models (VLMs) can answer questions about musical scores, but their ability to recognise notation, recover its structure and interpret its musical meaning requires separate evaluation. Existing optical music recognition (OMR) resources establish detection and transcription measurements; a transcription score alone leaves the strengths and bottlenecks of a VLM score reader unresolved. We introduce OmniScore-Bench, an evaluation of OMR capabilities in VLMs through 3,000 questions spanning six aspects and 24 task subtypes. Each question specifies a visible scope, reference annotations and an answer schema, enabling automatic evaluation from symbol localisation to musical consistency and evidence-linked question answering. Our assessment of twelve VLMs reveals operation-specific",
-    "link": "http://arxiv.org/abs/2611.17870v1",
+    "summary": "Common data elements (CDEs) support clinical data comparability but are usually defined manually. We investigated whether large language model agents could derive a CDE schema from sarcoma case report abstracts and apply it at scale. An agent proposed 72,909 candidate CDEs from 24,588 PubMed abstracts; agentic consolidation yielded 1,570 CDEs. We retained 53 supported by at least 50 abstracts and attempted evidence-linked extraction across the corpus. Processing succeeded for all retained CDEs in 79.2% of abstracts, including responses indicating non-mention. Two human reviewers approved 83.0% of retained CDEs for relevance, 67.9% for clarity, and 56.6% for correctness. In 100 sampled abstracts, exact agreement with the value extracted by the LLM was 94.9% among 1,116 pairs with a non-empt",
+    "link": "http://arxiv.org/abs/2611.18506v1",
     "publishedAt": "2026-11-13",
     "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "arxiv-2611.18504v1",
+    "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+    "authors": [
+      "Aritra Lahiri",
+      "Florian Marquardt"
+    ],
+    "summary": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects. We formulate this problem as agentic evolutionary program synthesis, wherein a large language model, leveraging its pretraining knowledge and tool-use proficiency, and guided by a circuit verifier, evolves a program that defines a Clifford circuit for a wide range of curated tasks such as logical ",
+    "link": "http://arxiv.org/abs/2611.18504v1",
+    "publishedAt": "2026-11-13",
+    "categories": [
+      "quant-ph",
       "cs.AI"
     ]
   },
   {
-    "id": "arxiv-2611.17869v1",
-    "title": "Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT",
+    "id": "arxiv-2611.18494v1",
+    "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
     "authors": [
-      "Francesco Vitale",
-      "Salvatore Bramante",
-      "Francesco Flammini",
-      "Hangli Ge"
+      "Dhruv Dixit",
+      "Khushi Patel",
+      "Congcong Xu",
+      "Min Song"
     ],
-    "summary": "While federated anomaly detection enables the integration of local data insights across diverse nodes to reduce false positives, it inherently struggles with non-IID data. In practice, industrial IoT plants often operate under varying conditions and experience diverse environmental phenomena, resulting in significant heterogeneity in the monitored time series. In such settings, standard federated learning approaches fail to perform nuanced aggregation that accounts for these cross-node differences, ultimately leading to increased false positive rates. In this paper, we propose a process mining approach to evaluate the similarity of local node data against a reference provided by a global node. The global node utilizes these similarity metrics to dynamically weight local models during aggre",
-    "link": "http://arxiv.org/abs/2611.17869v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17867v1",
-    "title": "UltraBERT-JEV: Encoder models for System One Applications",
-    "authors": [
-      "Astarag Mohapatra"
-    ],
-    "summary": "We study encoder models that pick one of several options in a single forward pass, without generating text. This technical report compares recipes for fine-tuning UltraBERT-380M with one mask per option. The four recipes differ in how an option is scored and how the scores become probabilities; one follows the expert gate of DeepSeek-V3. Trained on the same data as Qwen3-0.6B with the LLM-as-Jev recipe (67.6% test accuracy), the encoder reaches 69.7% to 72.1%. Scoring an option by \"yes\" minus \"no\" instead of \"yes\" alone gives the larger gain, from 69.7% to 71.3% on the test set and from 57.8% to 59.6% on external benchmarks (56.1% for the decoder). Sigmoid normalisation adds 0.8 test points; a square-root softplus adds none. One request at a time on an NVIDIA A100, the encoder takes 29 ms ",
-    "link": "http://arxiv.org/abs/2611.17867v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.CL",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17866v1",
-    "title": "Active Learning of Temporal Specifications through Distinguishing Queries",
-    "authors": [
-      "Rajarshi Roy",
-      "Xiaowei Huang"
-    ],
-    "summary": "Temporal specifications are essential for verification and monitoring, yet writing formulas that capture the intended behaviour is difficult. Active learning derives such specifications through interaction between a learner and a teacher, but remains underexplored for temporal logics. Existing approaches require the teacher to answer equivalence queries and to construct counterexamples, and they often rely on SAT-based learning procedures that restart the search after each new example. We present an active-learning framework for LTLf in which the teacher only labels traces and answers natural-language questions about the intended behaviour. The learner maintains an enumerated version space of candidate formulas, generates traces that distinguish candidates, and uses the teacher's hints to ",
-    "link": "http://arxiv.org/abs/2611.17866v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LO",
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17864v1",
-    "title": "Disentangling Forgetting from Utility: Lightweight LLM Unlearning via Orthogonal Null-Space Projection",
-    "authors": [
-      "Xiuyuan Wang",
-      "Weiming Liu",
-      "Zongxin Yang",
-      "Fan Wang",
-      "Liemiao Jin",
-      "Rubin Qin",
-      "Wei Chen",
-      "Bin Shi",
-      "Chaochao Chen",
-      "Xiaolin Zheng"
-    ],
-    "summary": "Large Language Models (LLMs) pose significant security risks by retaining private or hazardous information, creating an urgent need for unlearning techniques that excise specific knowledge without compromising general utility. However, prevailing fine-tuning-based unlearning methods struggle to achieve this balance, often suffering from computational inefficiency and unintended utility degradation due to the entangled nature of knowledge within model parameters. To disentangle forgetting from utility, we propose UUE, a theoretically grounded framework that reformulates unlearning as controllable model editing. First, UUE projects parameter updates into the orthogonal left null space of retained knowledge representations, strictly ensuring that the editing process causes minimal interferenc",
-    "link": "http://arxiv.org/abs/2611.17864v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17862v1",
-    "title": "FlexCast: Flexible Context Learning for Time Series Foundation Models",
-    "authors": [
-      "Zuyang Shen",
-      "Luqi Gong",
-      "Fanda Fan",
-      "Bingsong Wang",
-      "Xiang Ao",
-      "Yahui Wei",
-      "Minghao Liu",
-      "Chunjie Luo",
-      "Jianfeng Zhan"
-    ],
-    "summary": "Time series foundation models (TSFMs) based on autoregressive (AR) next-token prediction entangle two factors: variable-context conditioning and prediction-unit factorization with autoregressive rollout. Strong AR performance therefore does not reveal whether generalization stems from the flexible training distribution, the local prediction target, the left-to-right inference process, or their combination. We propose FlexCast, a flexible context-target learning framework that disentangles these factors. FlexCast reformulates forecasting as variable-length masked prediction over time series patches: during pretraining, it dynamically samples visible context and masked target patches, exposing the model to diverse context-target configurations without sequential decoding. At inference time, ",
-    "link": "http://arxiv.org/abs/2611.17862v1",
+    "summary": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reasoning trajectories. In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers. This shifts the supervision target from imitating explanat",
+    "link": "http://arxiv.org/abs/2611.18494v1",
     "publishedAt": "2026-11-13",
     "categories": [
       "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17858v1",
-    "title": "AI-aided Decision-Making in Education - Uncertainty, Explainability, and Human Responsibility",
-    "authors": [
-      "Fabian Kieser",
-      "Paul Tschisgale",
-      "Peter Wulff"
-    ],
-    "summary": "As Artificial Intelligence (AI)-based systems have become increasingly integrated into various aspects of everyday life, including education, understanding how these systems make decisions is of paramount importance. AI holds significant potential to enhance educational practices through the facilitation of personalized and adaptive learning, automation of assessment procedures, and assistance with administrative tasks. However, the opacity of AI-based decision-making in education (especially with deep learning and generative AI models) can hamper decision-making, especially when outcomes appear unjustified or incorrect. In this chapter, we argue that three key principles (uncertainty, explainability, and human responsibility) are essential for the legitimate use of AI in educational setti",
-    "link": "http://arxiv.org/abs/2611.17858v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.AI"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17857v1",
-    "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
-    "authors": [
-      "Rupeng Liu",
-      "Bangsheng Tang",
-      "Zongwei Zhou",
-      "Chengji Yao",
-      "Yejin Lee"
-    ],
-    "summary": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token, allowing large language models (LLMs) to scale parameter capacity without a proportional increase in computation per token. However, intermediate data movement and uneven expert loads limit the efficiency of MoE inference on TPUs. To address these bottlenecks, we introduce Fuse-All MoE, a TPU kernel design that jointly optimizes expert computation, output communication, and load balancing. The kernel fuses token collection, expert projections, gated activation, and output writes, retaining expert computation intermediates on chip. Fixed token-slot destinations allow scheduling and expert placement to change while preserving routing semantics. In prefill-decode (PD) disaggregated serving, Fuse-All MoE b",
-    "link": "http://arxiv.org/abs/2611.17857v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.LG"
-    ]
-  },
-  {
-    "id": "arxiv-2611.17856v1",
-    "title": "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
-    "authors": [
-      "Dohyun Kim",
-      "Jaeung Lee",
-      "Donghee Hong",
-      "Jaemin Jo"
-    ],
-    "summary": "Tools for interpreting the internal representations of Large Language Models (LLMs) increasingly rely on LLMs themselves to both generate and evaluate explanations, creating a self-referential automated interpretation process with minimal human oversight. This automation raises significant reliability concerns, which are exacerbated by the absence of ground truth. In practice, it is difficult to validate explanations or to attribute interpretability failures to their source -- whether they originate from the tool's extracted representations or from the LLM used in the process. To address these challenges, we present DECODE, a visual analytics system that reintroduces human oversight into the automated interpretation process. Our approach decomposes the diagnostic workflow into three progre",
-    "link": "http://arxiv.org/abs/2611.17856v1",
-    "publishedAt": "2026-11-13",
-    "categories": [
-      "cs.AI",
-      "cs.HC"
     ]
   }
 ];
@@ -1108,4 +1100,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-16T04:34:57.197Z';
+export const dataFetchedAt = '2026-11-16T14:38:55.304Z';
