@@ -2,6 +2,143 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-17-auto",
+    "date": "2026-11-17",
+    "session": "auto",
+    "title": "2026-11-17 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-17-auto-1",
+        "emoji": "⚠️",
+        "title": "The open-source movement wants Jensen Huang back",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+        "detail": "来源: MIT Technology Review。This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+      },
+      {
+        "id": "sig-2026-11-17-auto-2",
+        "emoji": "💡",
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "detail": "来源: TechCrunch。Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      },
+      {
+        "id": "sig-2026-11-17-auto-3",
+        "emoji": "💡",
+        "title": "Iowa district to settle with recruiting firm after ex-superintendent’s ICE arrest",
+        "summary": "The former Des Moines school leader overstayed his visa, according to ICE. In response, the district sued a firm it claimed should have prevented his hiring.",
+        "detail": "来源: HR Dive。The former Des Moines school leader overstayed his visa, according to ICE. In response, the district sued a firm it claimed should have prevented his hiring.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/iowa-district-to-settle-with-recruiting-firm-after-ex-superintendents-ice/874743/"
+      },
+      {
+        "id": "sig-2026-11-17-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Pairing AIS with RF: Analysis of a Markovian Approach for Ma...",
+        "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The A",
+        "detail": "作者: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira。Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Following the CRISP-DM process, this study applies a Pair Hidden Markov Model (PHMM) to align individual RF detections with AIS trajectories, using temporal and spatial information while modeling noise and timing discrepancies. We evaluate it on NOAA AIS data with synthetic RF detections against nearest",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.18563v1"
+      },
+      {
+        "id": "sig-2026-11-17-auto-5",
+        "emoji": "💼",
+        "title": "Supabase 正在招募 Software Engineer AI Tooling",
+        "summary": "岗位类型：业务+AI 复合岗。About Supabase Supabase is the Postgres development platform, built by developers for developers",
+        "detail": "技能要求: RAG, Agent。About Supabase Supabase is the Postgres development platform, built by developers for developers We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search All services are deeply integrated and designed for growth About the Role We’re lo",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Supabase"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Supabase",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-17-1",
+        "priority": "medium",
+        "action": "关注「The open-source movement wants Jensen Hu」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-17-2",
+        "priority": "low",
+        "action": "关注「Cybersecurity AI startup Corma reaches $」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-17-3",
+        "priority": "low",
+        "action": "关注「Iowa district to settle with recruiting 」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-17-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Pairing AIS with RF: Analysis of a 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-17-5",
+        "priority": "medium",
+        "action": "关注「Supabase 正在招募 Software Engineer AI Tooli」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Supabase"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 67,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-17 生成，聚合了 30 条新闻、20 篇论文、17 个岗位。",
+    "fetchWindow": "2026-11-17 00:00 - 2026-11-17 23:59"
+  },
+  {
     "id": "report-2026-11-16-auto",
     "date": "2026-11-16",
     "session": "auto",
