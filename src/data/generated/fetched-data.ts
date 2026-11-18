@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-ai-learns-to-smell-and-hydropower-struggles-1795007400000",
-    "title": "The Download: AI learns to smell and hydropower struggles",
-    "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;",
+    "id": "news-the-ai-hype-index-ai-is-everywhere-1795012964000",
+    "title": "The AI Hype Index: AI is everywhere",
+    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
     "publishedAt": "2026-11-18",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,24 +14,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-british-hackers-face-prison-for-gta-6-data-breach-and-crypto-1795013713000",
-    "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-    "link": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-    "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+    "id": "news-amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-c-1795045500000",
+    "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
     "publishedAt": "2026-11-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-irs-lays-out-401-k-auto-enrollment-guidelines-to-begin-in-20-1794948840000",
-    "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
-    "link": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/",
-    "summary": "The change could increase savings by an average of $4.2 billion per year, the agency said Tuesday.",
-    "publishedAt": "2026-11-17",
+    "id": "news-near-instant-rejections-may-have-changed-job-search-behavior-1795032720000",
+    "title": "Near-instant rejections may have changed job search behavior",
+    "link": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
+    "summary": "More than three-quarters of job seekers who received a fast rejection said they didn&rsquo;t believe a human being had the time to review their resume before they were turned down.",
+    "publishedAt": "2026-11-18",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,24 +55,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-75-1795013281000",
-    "title": " 毛利率75%，英伟达最赚钱的时刻，黄仁勋却被拒之门外 ",
-    "link": "https://www.huxiu.com/article/4906675.html?f=rss",
-    "summary": "本文来自微信公众号： 科工力量 ，作者：科工力量，原文标题：《毛利率75%！英伟达最赚钱的时刻，黄仁勋却被拒之门外》 11月18日，英伟达公布了黄仁勋担任CEO期间的最后一份季度成绩单，业绩依旧好得疯狂。 2027财年第三季度，英伟达营收达到1158亿美元，同比增长103%；其中，超过九成来自数据中心业务，达1076亿美元，同比增长110%。净利润达到653亿美元，毛利率接近75%。按照英伟达的预测，下一季度营收还将进一步攀升至1300亿美元。 英伟达三季度业绩翻倍 仅仅两年前，2025财年英伟达全年的营收也不过1305亿美元。借助AI浪潮，英伟达当下一个季度的收入就几乎追平两年前的全年水平。 但把这家公司带到历史上最赚钱时刻的领头人，却被明确拒之门外。 11月11日，黄仁勋辞去了英伟达首席执行官、总裁及董事职务。但他本人显然还没准备真正离开。就在财报公布前5个小时，他在社交媒体X上发布了辞职以来的首份公开声明，承认自己在私人生活中犯下了严重错误，并诚恳道歉。但随即话锋一转，表示如果董事会认为他的回归符合股东、员工、公司和美国的最佳利益，他将很荣幸重新担任CEO。 但英伟达董事会没有给他这个机会。几个小时后的财报电话会上，新任董事长哈维·琼斯没有留下任何余地。他当场宣布，董事会已一致接受黄仁勋的辞呈，不打算重新聘请他担任CEO。 属于黄仁勋的时代基本过去了，他为英伟达精雕细琢的商业",
+    "id": "news-3a-1795045305000",
+    "title": " 中国大厂的海外3A梦，醒了 ",
+    "link": "https://www.huxiu.com/article/4906697.html?f=rss",
+    "summary": "本文来自微信公众号： 刺猬公社 ，编辑：Yuki，作者：刺猬公社编辑部 互联网游戏大厂，为何放弃海外游戏工作室？ 又一家由业界大咖带队的新秀工作室倒下了。 11月初，日本官报号外第240号刊登了一则解散公告。公告显示，由“如龙之父”名越稔洋创立、网易全资持股的名越工作室，已于10月31日经股东大会决议正式解散，进入清算流程。 此时，距离名越工作室在全球玩家面前高调官宣新项目，只过去了不到一年时间。 去年12月，名越稔洋团队在TGA 2025颁奖典礼上正式揭晓了工作室成立后的首部作品——《GANG OF DRAGON》。据官方介绍，这是一款以东京新宿为舞台的动作冒险游戏，主人公Shin Ji-seong由韩国演员马东锡出演。 然而，就在《GANG OF DRAGON》首曝后不久，名越工作室便陷入了动荡。 今年3月，彭博社报道称，网易决定自5月起停止对名越工作室的资金支持。春季之后，名越工作室的YouTube频道被清空，官方网站停摆，线下办公室也被地图软件打上了“永久停业”的标记…… 如今，随着解散公告落地，名越工作室的故事画上了句点。回头来看，是什么促使资方网易做出了断腕离场的决定？这支团队的遭遇背后，又隐含着怎样的行业风向？ 出走多年，归来仍是《如龙》专业户？ 名越稔洋作为知名游戏系列《如龙》幕后的灵魂人物，创业开局可谓顺风顺水。 2021年11月，名越工作室成立，次年1月，团队正",
     "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-1-12-50-1795044000000",
+    "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
+    "link": "https://www.tmtpost.com/8210449.html",
+    "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
+    "publishedAt": "2026-11-18",
+    "source": "钛媒体",
+    "tags": [
+      "china",
       "technology",
+      "business",
       "ai"
     ]
   },
   {
-    "id": "news-9-5-1795005931000",
-    "title": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
-    "link": "https://www.tmtpost.com/8210365.html",
-    "summary": "钨价红利褪去业绩承压，产能与技术双线布局谋变。",
+    "id": "news-the-download-ai-learns-to-smell-and-hydropower-struggles-1795007400000",
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;",
+    "publishedAt": "2026-11-18",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-elon-musk-says-ousting-jensen-huang-is-like-8216-kicking-mic-1795044317000",
+    "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "publishedAt": "2026-11-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-work-done-outside-regular-hours-may-count-toward-fmla-eligib-1795032720000",
+    "title": "Work done outside regular hours may count toward FMLA eligibility",
+    "link": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/",
+    "summary": "In an opinion letter, DOL also said that if accurate time records are not available, eligibility sometimes must be assumed.",
+    "publishedAt": "2026-11-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gpt-6-2-openai-1794988409000",
+    "title": "GPT-6.2难产！OpenAI怕了",
+    "link": "https://www.qbitai.com/2026/11/510914.html",
+    "summary": "OpenAI也终于活成了2022年谷歌的样子",
+    "publishedAt": "2026-11-18",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795044756000",
+    "title": " 建议你尽快养成“确实型人格” ",
+    "link": "https://www.huxiu.com/article/4906685.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 前段时间，网上很流行一个说法，叫&ldquo;确实型人格&rdquo;。 起因是有人听孙宇晨的播客，发现他跟人聊天的时候，出现频率最高的一个词，就是&ldquo;确实&rdquo;。对方说什么，他都先接一句&ldquo;确实&rdquo;。于是有人把这种人总结成一类：不争辩，不纠正，谁说什么先肯定，再接话。 孙宇晨的为人我们不做评价。就这个&ldquo;确实&rdquo;本身，我的第一反应是，这不就是敷衍吗？ 但后来我改了主意。因为我试着复盘了自己最近的几次对话，结果有点尴尬。 朋友说，他觉得做某个方向是有机会的，我开口就是：&ldquo;但是太多人做了，竞争很激烈&rdquo;。同事说某个功能点用户应该会喜欢，我的第一反应是&ldquo;不一定吧&rdquo;。家里人提醒最近天气转凉了，我开口是&ldquo;其实今天比昨天还高两度&rdquo;。 这么一复盘，我觉得自己真是太烦人了。我不是在交流，更像是条件反射。而且我追加的那些&ldquo;但是&rdquo;，根本没有任何讨论的必要。 所以我就一直在想，为什么&ldquo;确实&rdquo;两个字，对很多人来说都这么难说出口？ 结论是， &ldquo;确实&rdquo;听起来像是一种附和，其实它是一种放弃。放弃在每一次对话里，证明自",
+    "publishedAt": "2026-11-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-80-1795011185000",
+    "title": "这只高波动AI股较高点已跌80%，且正发出警告信号",
+    "link": "https://www.tmtpost.com/8210485.html",
+    "summary": "应用光电（Applied Optoelectronics）的股价正在下跌，这可能是在为人工智能建设浪潮亮起一盏警示灯。",
     "publishedAt": "2026-11-18",
     "source": "钛媒体",
     "tags": [
@@ -95,10 +175,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-clarifies-when-it-will-and-won-8217-t-keep-financing--1795006800000",
-    "title": "Nvidia clarifies when it will — and won&#8217;t —keep financing neoclouds",
-    "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "id": "news-microsoft-ceo-satya-nadella-remains-confident-in-nvidia-afte-1795043848000",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
     "publishedAt": "2026-11-18",
     "source": "TechCrunch",
     "tags": [
@@ -108,24 +188,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-keeping-d-i-approach-steady-is-linked-to-stronger-outcomes-s-1794948840000",
-    "title": "Keeping D&I approach ‘steady’ is linked to stronger outcomes, SHRM finds",
-    "link": "https://www.hrdive.com/news/keep-calm-and-dei-on-organizations-with-a-steady-hand-at-diversity-work-shrm/874910/",
-    "summary": "&ldquo;Leaders can adapt how they do the work and still be clear about the commitment,&rdquo; said Carolynn Johnson of SHRM&rsquo;s Center for Inclusion &amp; Diversity.",
-    "publishedAt": "2026-11-17",
+    "id": "news-will-more-companies-need-to-end-their-h-1b-visa-programs-1795032720000",
+    "title": "Will more companies need to end their H-1B visa programs?",
+    "link": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/",
+    "summary": "While the math is shifting on immigration sponsorship, employers are still wary of &ldquo;handing that talent to their competitors,&rdquo; one attorney told HR Dive.",
+    "publishedAt": "2026-11-18",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-gpt-6-2-openai-1794988409000",
-    "title": "GPT-6.2难产！OpenAI怕了",
-    "link": "https://www.qbitai.com/2026/11/510914.html",
-    "summary": "OpenAI也终于活成了2022年谷歌的样子",
+    "id": "news-ai-inclusionmed-1794986690000",
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "link": "https://www.qbitai.com/2026/11/510916.html",
+    "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
     "publishedAt": "2026-11-18",
     "source": "量子位",
     "tags": [
@@ -135,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795011239000",
-    "title": " 一个很绝的心态：我不要了。 ",
-    "link": "https://www.huxiu.com/article/4906670.html?f=rss",
-    "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 执念深知的人，多半都相信奇迹。 不仅如此，他们还相信自己是最幸运的那个人——如果奇迹真要降临人间的话，一定会发生在自己头上。 正因如此，他们不断逼自己受苦，并相信每一次受苦都会距离奇迹更近一步，结果却是白白浪费自己的生命。 再看那些从执念中走出来的人，他们曾追求过，争取过，付出过，饱尝求而不得的痛苦，也经历过无数次的挣扎与自我怀疑，但最终，他们表现出来的却是平和，圆融，波澜不惊。 而这种前后的反差巨大，皆因一个心态的出现：我不要了。 为什么“差一点”最磨人？ 心理学家蔡格尼克曾做过一个实验。 她让被试者做一系列简单任务，有些让他们做完，有些中途打断，结束后，她让被试者回忆自己做过的任务。 结果发现，那些没做完的任务，被记住的比例明显高于做完的任务。 这种现象后来被称作蔡格尼克效应：那些未完成的事，会在人脑中会持续占据一个位置，并保持活跃状态。 很多时候，你以为自己放不下某个人、某份工作、某个机会，其实你真正放不下的，是那个“未完成”的状态。 你的大脑不允许一件事悬而未决，它会反复提醒你，反复把你拉回那个场景。 导致的后果是，你以为你在思考，其实你在被未完成的闭环反复激活，而“我不要了”这三个字，就相当于一个明确指令信号，告诉大脑：关掉那个闭环。 而当你真正做完这个动作，你会发现，其实很多事并不一定都需要结果，你需要的只是那个“这件事结束了”",
+    "id": "news--1795043914000",
+    "title": " 黄仁勋绝无回归可能，因为相关方都害怕被民主党清算 ",
+    "link": "https://www.huxiu.com/article/4906695.html?f=rss",
+    "summary": "本文来自微信公众号： 牌桌 Poker Table ，作者：森林好小子，题图来自：视觉中国 黄仁勋17日发表声明，表示&ldquo;如果董事会认为让我回归符合股东、员工、公司以及美国的最佳利益，我将重新担任CEO。&rdquo; 一时间，要求黄仁勋回归的呼声再成焦点。不过当天的英伟达财报会，董事长Harvey Jones和临时CEO Colette Kress都明确表示不会邀请黄仁勋回归。 黄仁勋是否还有回归可能？ 牌桌编辑部分析， 黄仁勋被逼下台的本质，是中期选举特朗普失势，共和党各方为了保住自己的政治生命，必须斩断黄仁勋和特朗普的利益联系，严厉管控芯片出口，防止明年国会正式易手后，被安上&ldquo;漠视国家安全&rdquo;的罪名。 特朗普永远无法恢复自己的政治基础，黄仁勋也绝无回归可能。 由于此事逻辑链条复杂，我们用问答方式逐一剖析黄仁勋事件背后的真实逻辑。 01 既然黄仁勋对英伟达极端重要，为什么董事会仍然坚持逼他辞职，并明确表示不让他回来？ 董事会的行动逻辑可以用一句话概括： 只要黄仁勋在，就没人能管得住他，董事们也要跟着背负法律风险。 黄仁勋对英伟达有多重要，你可以说其他董事不懂，但与黄仁勋共事三十余年的4名董事，尤其是现任董事长、曾担任过新思科技CEO的半导体老将Harvey Jones不懂，是不可能的。 实际上，10月29日《纽约时报》爆出黄仁勋和黄乐的婚外情之后",
     "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
@@ -148,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-park-ai-1795003861000",
-    "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
-    "link": "https://www.tmtpost.com/8210345.html",
-    "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。",
+    "id": "news--1795010602000",
+    "title": "英伟达股票很划算，但有一个大问题",
+    "link": "https://www.tmtpost.com/8210477.html",
+    "summary": "英伟达在发布强劲的财报后，股价看起来反而更便宜了，但这家芯片制造商头上仍悬着一项重大风险。",
     "publishedAt": "2026-11-18",
     "source": "钛媒体",
     "tags": [
@@ -174,38 +253,37 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-doc-1795003200000",
-    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-    "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "id": "news-satya-nadella-predicts-ai-agents-will-reshuffle-the-economic-1795042691000",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
     "publishedAt": "2026-11-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
       "ai",
-      "organization"
+      "ecommerce"
     ]
   },
   {
-    "id": "news-employer-benefits-hold-steady-despite-unstable-macroeconomic-1794948840000",
-    "title": "Employer benefits hold steady despite unstable macroeconomic conditions",
-    "link": "https://www.hrdive.com/news/employer-benefits-hold-steady-despite-unstable-macroeconomic-conditions/874945/",
-    "summary": "Although costs are increasing, employers are trying to protect benefits and safeguard against worker attrition, according to a new study.",
-    "publishedAt": "2026-11-17",
+    "id": "news-dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal--1795032660000",
+    "title": "DHS’ 4-year cap on student visa stays struck down by federal judge",
+    "link": "https://www.hrdive.com/news/dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal-judge/875052/",
+    "summary": "The law does not grant the agency &ldquo;such broad and open-ended authority to undermine&rdquo; the student visa program, the judge wrote.",
+    "publishedAt": "2026-11-18",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-ai-inclusionmed-1794986690000",
-    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-    "link": "https://www.qbitai.com/2026/11/510916.html",
-    "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+    "id": "news-jason-wei-meta-1794977391000",
+    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+    "link": "https://www.qbitai.com/2026/11/510811.html",
+    "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
     "publishedAt": "2026-11-18",
     "source": "量子位",
     "tags": [
@@ -215,24 +293,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1795011078000",
-    "title": " 半夜举着手机等鬼显灵：百万老外正在为AI 抓鬼充会员 ",
-    "link": "https://www.huxiu.com/article/4906669.html?f=rss",
-    "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，原文标题：《半夜举着手机等鬼显灵：百万老外正在为 AI 抓鬼充会员》 有一个所有人都知道的铁律： 人类拿到任何一项新技术，第一时间就会去搞颜色。 但还有一拨人，追求新技术的脚步一点不比他们慢，那就是探灵圈。 新东西一出来，用不了多久，一定会有人背着它去抓鬼。 古人有钟馗和黄符，那还是手艺活，后来都是技术活。 收音机普及以后，有人举着收音机在频道之间来回扫，非说杂音里有鬼叫，点播阴间电台；照相机一发明，照片上冒出一个半透明的影子，大家就指着它说，肯定是那个“东西”。 到了今天，给这门老手艺上科技的，轮到了AI。 最近国外探灵圈有一款App突然爆火，叫GhostTube SEER，自称“全世界第一款AI捉鬼工具”。 它干的事听起来相当离谱：你站在一间“鬼屋”里问，这里以前发生过什么。过一会儿，屏幕上浮出一张画：一个女人，一间老屋…… 你对着空气提问，它时不时给出一张画，感觉像是真有什么“东西”在回应你。半夜来这么一下，相当刺激，谷歌商店上，它的下载量已经过了100万。 半夜举着手机等鬼显灵的人，比想象中多得多。 01半夜，打开一个捉鬼App 想象一下，现在是半夜，你一个人站在一栋老房子的走廊里，灯都关了。 你掏出手机，打开SEER，屏幕先黑了几秒，安静得能听见自己咽口水。 画面亮起来，是手机拍到的走廊，蒙着一层暗沉沉的滤镜，氛围感拉",
+    "id": "news--1795043443000",
+    "title": " 十家车企压了近万亿账款，中国车圈背着连环债的雷 ",
+    "link": "https://www.huxiu.com/article/4896154.html?f=rss",
+    "summary": "出品｜虎嗅ESG组 作者｜陈玉立 头图｜视觉中国 本文是#ESG进步观察#系列第178篇文章 本次观察关键词：车企账期 &ldquo;我有一个梦想：有一天，供应商货品送达甲方仓库，经必要检验后即可对账、开票、结算，开票后一个月内回款到账，且电汇是回款的唯一方式。&rdquo; 2025年6月1日，新修订《保障中小企业款项支付条例》施行当天，空气悬架供应商龙头孔辉科技董事长郭川发表了一封公开信，写出了一家供应商内心最朴素的愿望。 6月10日起，一汽、东风、广汽等17家重点车企相继承诺对供应商\"支付账期不超过60天\"。 一年后，中汽协调研显示：对中小供应商的货款，绝大多数车企已压至60天内，平均约54天；今年9月，工信部、市场监管总局又出台国家层面首个汽车行业账期管理文件。 但成绩单的覆盖面比看上去窄。2026年全国两会上，全国人大代表、骆驼股份董事长刘长来直言：政策红利主要落在17家车企的中小供应商头上，大量非重点车企及非中小企业供应商仍面临账期过长问题， 部分企业实际回款周期仍达9个月左右，\"缩短账期\"甚至反成压价筹码。 他呼吁把硬约束扩围至全行业规模以上企业：这位供应链龙头自己，恰恰不在现行条例的保护范围内。 就在11月16日，中国汽车工业协会发布通知称，协会将对17家重点汽车企业的供应商账款支付情况开展调研评估，推动汽车企业规范供应商账款支付。 显然，账期管理并非只是一场\"约束",
     "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1794997607000",
-    "title": "黄仁勋一直在权力游戏里裸奔",
-    "link": "https://www.tmtpost.com/8209729.html",
-    "summary": "如果他在公司拥有控制权，也不至于在政治暗箭袭来时，这么快地出局。",
+    "id": "news--1795008894000",
+    "title": "戴尔股价自我们最初推荐以来已翻倍，现在该卖出了",
+    "link": "https://www.tmtpost.com/8210456.html",
+    "summary": "自我们最初推荐以来，戴尔股价已翻倍。现在是时候卖出了。",
     "publishedAt": "2026-11-18",
     "source": "钛媒体",
     "tags": [
@@ -255,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-india-s-humyn-labs-raises-47m-to-feed-u-s-robotics-companies-1795001400000",
-    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-    "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "id": "news-anthropic-reportedly-prices-ipo-at-83-a-share-above-projecte-1795039875000",
+    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
     "publishedAt": "2026-11-18",
     "source": "TechCrunch",
     "tags": [
@@ -268,89 +345,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-rto-policies-that-prioritize-employees-work-better-1794948780000",
-    "title": "RTO policies that prioritize employees work better",
-    "link": "https://www.hrdive.com/news/rto-policies-that-prioritize-employees-work-better/874760/",
-    "summary": "If an employer asks workers to come into the workplace, it should make sure being there is valuable, writes Darlene Engoglia of Park Place Technologies.",
-    "publishedAt": "2026-11-17",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-jason-wei-meta-1794977391000",
-    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-    "link": "https://www.qbitai.com/2026/11/510811.html",
-    "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+    "id": "news-ai-rising-costs-top-list-of-2027-talent-concerns-per-gartner-1795017600000",
+    "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
+    "link": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
+    "summary": "Gartner researchers also highlighted the importance of entry-level workers, who are increasingly at risk due to AI.",
     "publishedAt": "2026-11-18",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795010097000",
-    "title": " 城市更新不缺动力，缺的是一套新规则 ",
-    "link": "https://www.huxiu.com/article/4906666.html?f=rss",
-    "summary": "本文来自微信公众号： 存量规划前沿 ，作者：赵燕菁 城市更新不缺动力，缺的是一套新规则 赵燕菁 本文根据赵燕菁教授于2026年11月在某副省级城市专家座谈会上发言整理。 受时间限制，今天只谈三个问题： 1.城市更新的动力从哪里来？ 现在普遍存在的一种认识是：市场缺少城市更新的动力，市场主体（企业、家庭）都在被动等待政府的推动。 这其实是一种错觉。 只要看一下屡禁不止的违章建设，就会知道城市更新的市场动力早就在那里，真正缺少的是一个包容、鼓励和规范这种自发动力的政策环境。只要消除城市更新的制度阻力，市场内驱力自然就会被释放出来。 城市更新的动力，就来自更新前后的升值减去成本后的差额——差额越大，更新的动力就越大。现在之所以市场缺少更新的动力，乃是因为更新阻力带来的成本超过了改造后的升值。城市更新就是要通过各种办法压低更新的成本，只要更新的净收益由负转正，市场动力自然就可以被激活。 这种阻力主要来自三个方面： 阻力一：规划。为什么市场的自主更新会被认定为违章？一个重要原因就是现行的土地用途管制是为适应增量时代设计的。由于土地价格是在一开始就确定的，为了防止土地使用者在不同的规划条件间套利，用途、容积率在给定使用权年限内是不能更改的。而城市更新恰恰是从改变现有资产状态开始的。正确的做法是，在不影响公共和相邻权益的条件下，允许市场主体通过补缴市场租金，补足规划条件变更前后的市场租值差额。 ",
-    "publishedAt": "2026-11-18",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794997551000",
-    "title": "中国人为什么有钱不爱花，我们可能一直理解错了",
-    "link": "https://www.tmtpost.com/8209423.html",
-    "summary": "中国长期的高储蓄，与过去几十年最成功的那套增长方式有深刻联系。",
-    "publishedAt": "2026-11-18",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-research-reports-1794926386000",
-    "title": "Research Reports",
-    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-    "summary": "To access a report, click on the corresponding image below.",
-    "publishedAt": "2026-11-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-china-dominates-battery-graphite-but-this-startup-could-brea-1794999600000",
-    "title": "China dominates battery graphite, but this startup could break the monopoly",
-    "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-    "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-    "publishedAt": "2026-11-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-why-ai-skill-building-is-only-one-part-of-the-puzzle-1794934440000",
-    "title": "Why AI skill-building is only one part of the puzzle",
-    "link": "https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/",
-    "summary": "A Hogan Assessments report highlighted how AI adoption is not just a &ldquo;technology challenge, but also a people and workplace challenge.&rdquo;",
-    "publishedAt": "2026-11-17",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -373,24 +372,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795009687000",
-    "title": " 黄仁勋接班人有眉目了？ ",
-    "link": "https://www.huxiu.com/article/4906660.html?f=rss",
-    "summary": "本文来自微信公众号： 华尔街见闻 ，作者：许超，题图来自：AI生成 英伟达董事会正通过一次财报电话会，向外界发出关键的人事信号。 在周二举行的英伟达第三季度业绩电话会上，一个此前从未在此类场合现身的名字引发广泛关注：公司超大规模计算与高性能计算业务副总裁Ian Buck，受邀与代理CEO Colette Kress共同参与投资者问答环节。 Buck是CUDA这一英伟达AI芯片核心软件的主要发明者之一，在公司技术体系中居于举足轻重的地位。 科技行业分析师Dan Ives直言：&ldquo;他的帽子已经扔进了候选圈。&rdquo; 与此同时，董事长Harvey Jones在电话会上明确表态，英伟达董事会无意恢复黄仁勋的职务，并已委托猎头公司Heidrick &amp; Struggles同步在内外部寻访继任人选。 Jones强调，董事会将&ldquo;尽快确定永久CEO，但不会在找到合适人选之前仓促行事&rdquo;。受领导层前景不明影响，英伟达股价此前已大幅下跌，市场对这家市值约4万亿美元的全球最重要AI芯片公司的未来走向保持高度关注。 值得注意的是，就在同日早些时候，黄仁勋本人打破沉默，公开表达了在获得董事会批准的前提下希望重返公司的意愿。董事会方面则表示，不就黄仁勋离任经过及正在进行的独立调查回应提问。 Buck亮相电话会：技术权威进入继任视野 Ian Buck在此次电话会的出现",
+    "id": "news--1795020712000",
+    "title": " 中国车企在印度，工厂、股权与供应链 ",
+    "link": "https://www.huxiu.com/article/4906688.html?f=rss",
+    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月13日，比亚迪在印度孟买推出了两款腾势汽车。D9豪华MPV售价900万卢比，Z9 GT高性能电动车售价1570万卢比，后者折合人民币超过百万元。 腾势D9在印度孟买发布。摄影：Indranil Mukherjee/AFP。 比亚迪计划在孟买、古尔冈、班加罗尔、金奈、海得拉巴和艾哈迈达巴德六座城市，为腾势建立独立展厅和售后设施。不过，公司对初期销量的预期相当克制。印度电动乘用车业务负责人Rajeev Chauhan表示，最初两个月预计能将80至100辆预订意向转化为销售。 即使100辆车全部按照D9的售价成交，销售额也只有9亿卢比，约合人民币7000多万元。车辆进口、关税、经销商利润和售后费用，还要从中扣除。对于一家全球年销量数百万辆的新能源汽车制造商，这项业务的规模相当有限。 比亚迪已经在印度经营多年，目前销售ATTO 3、Seal、Sealion 7和eMax 7等车型，拥有约50家展厅。2026年1月1日至11月9日，其印度纯电动乘用车零售注册量为6755辆，市场份额2.21%。 同期，印度纯电动乘用车零售量突破30万辆，同比增长约66%。上汽旗下MG售出56988辆，越南车企VinFast售出15867辆，塔塔和马恒达两家印度本土车企合计占据超过六成的市场份额。 汽车制造商纷纷扩大印度业务。上汽MG正在扩建工厂，V",
     "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-q3-89-4-1794997468000",
-    "title": "腾讯音乐Q3财报：89.4亿营收背后的“结构转换期”",
-    "link": "https://www.tmtpost.com/8209332.html",
-    "summary": "音乐服务接棒收入，但利润的接力棒还没完全交出去。",
+    "id": "news-9-5-1795005931000",
+    "title": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
+    "link": "https://www.tmtpost.com/8210365.html",
+    "summary": "钨价红利褪去业绩承压，产能与技术双线布局谋变。",
     "publishedAt": "2026-11-18",
     "source": "钛媒体",
     "tags": [
@@ -1097,4 +1095,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-18T15:01:22.130Z';
+export const dataFetchedAt = '2026-11-18T23:51:12.104Z';

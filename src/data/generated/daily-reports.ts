@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-19-auto",
+    "date": "2026-11-19",
+    "session": "auto",
+    "title": "2026-11-19 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-19-auto-1",
+        "emoji": "💡",
+        "title": "The AI Hype Index: AI is everywhere",
+        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+        "detail": "来源: MIT Technology Review。Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+      },
+      {
+        "id": "sig-2026-11-19-auto-2",
+        "emoji": "⚠️",
+        "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+        "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "detail": "来源: TechCrunch。The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+      },
+      {
+        "id": "sig-2026-11-19-auto-3",
+        "emoji": "💡",
+        "title": "Near-instant rejections may have changed job search behavior",
+        "summary": "More than three-quarters of job seekers who received a fast rejection said they didn&rsquo;t believe a human being had the time to review their resume before they were turned down.",
+        "detail": "来源: HR Dive。More than three-quarters of job seekers who received a fast rejection said they didn&rsquo;t believe a human being had the time to review their resume before they were turned down.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/"
+      },
+      {
+        "id": "sig-2026-11-19-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temp...",
+        "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ",
+        "detail": "作者: Giannis Daras, Marios Papachristou, Adam Klivans。Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In our method, a \"frozen\" version of the pre-trained model serves as a noisy teacher that the fine-tuned model must match at a coarse level. In particular, we require that the high-temperature versions of the conditional distributions produced by the post-training model should match the high-temperatu",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.23229v1"
+      },
+      {
+        "id": "sig-2026-11-19-auto-5",
+        "emoji": "💼",
+        "title": "Clera 正在招募 Expert Talent Pool Physical AI",
+        "summary": "岗位类型：业务+AI 复合岗。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation",
+        "detail": "技能要求: 未标注。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several months What You'll Do Set up and maintain teleoperation",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Clera"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Clera",
+        "link": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-19-1",
+        "priority": "low",
+        "action": "关注「The AI Hype Index: AI is everywhere」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-19-2",
+        "priority": "medium",
+        "action": "关注「Amidst fears of AI-cyberattacks, Satya N」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-19-3",
+        "priority": "low",
+        "action": "关注「Near-instant rejections may have changed」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-19-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Ambient LLMs: Data-Efficient Superv」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-19-5",
+        "priority": "medium",
+        "action": "关注「Clera 正在招募 Expert Talent Pool Physical A」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Clera"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 68,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-19 生成，聚合了 30 条新闻、20 篇论文、18 个岗位。",
+    "fetchWindow": "2026-11-19 00:00 - 2026-11-19 23:59"
+  },
+  {
     "id": "report-2026-11-18-auto",
     "date": "2026-11-18",
     "session": "auto",
