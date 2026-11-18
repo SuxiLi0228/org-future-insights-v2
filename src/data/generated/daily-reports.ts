@@ -2,6 +2,139 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-18-auto",
+    "date": "2026-11-18",
+    "session": "auto",
+    "title": "2026-11-18 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-18-auto-1",
+        "emoji": "💡",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
+        "detail": "来源: MIT Technology Review。Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+      },
+      {
+        "id": "sig-2026-11-18-auto-2",
+        "emoji": "💡",
+        "title": "Nvidia promises that revenue will keep soaring — for now",
+        "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "detail": "来源: TechCrunch。Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+      },
+      {
+        "id": "sig-2026-11-18-auto-3",
+        "emoji": "⚠️",
+        "title": "Employer benefits hold steady despite unstable macroeconomic conditions",
+        "summary": "Although costs are increasing, employers are trying to protect benefits and safeguard against worker attrition, according to a new study.",
+        "detail": "来源: HR Dive。Although costs are increasing, employers are trying to protect benefits and safeguard against worker attrition, according to a new study.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/employer-benefits-hold-steady-despite-unstable-macroeconomic-conditions/874945/"
+      },
+      {
+        "id": "sig-2026-11-18-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Latent Lattice Language Models...",
+        "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea",
+        "detail": "作者: Shivam Duggal, Zongze Wu, William T. Freeman。Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections, mHC, and attention or value residuals, the Lattice enhances the residual stream, but rather than adding or rerouting residual pathways through depth, it provides companion computational states that persist across tokens. Unlike hybrid Transformer-SSM architectures, whose recurrent states primarily s",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.21608v1"
+      },
+      {
+        "id": "sig-2026-11-18-auto-5",
+        "emoji": "💼",
+        "title": "Clera 正在招募 Expert Talent Pool Physical AI",
+        "summary": "岗位类型：业务+AI 复合岗。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation",
+        "detail": "技能要求: 未标注。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several months What You'll Do Set up and maintain teleoperation",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Clera"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Clera",
+        "link": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-18-1",
+        "priority": "low",
+        "action": "关注「Roundtables: Inside the Quest for Cognit」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-18-2",
+        "priority": "low",
+        "action": "关注「Nvidia promises that revenue will keep s」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-18-3",
+        "priority": "medium",
+        "action": "关注「Employer benefits hold steady despite un」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-18-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Latent Lattice Language Models...」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-18-5",
+        "priority": "medium",
+        "action": "关注「Clera 正在招募 Expert Talent Pool Physical A」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Clera"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 63,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-18 生成，聚合了 25 条新闻、20 篇论文、18 个岗位。",
+    "fetchWindow": "2026-11-18 00:00 - 2026-11-18 23:59"
+  },
+  {
     "id": "report-2026-11-17-auto",
     "date": "2026-11-17",
     "session": "auto",

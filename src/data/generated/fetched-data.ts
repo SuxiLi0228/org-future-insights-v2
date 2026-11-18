@@ -2,10 +2,10 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-research-reports-1794926386000",
-    "title": "Research Reports",
-    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-    "summary": "To access a report, click on the corresponding image below.",
+    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1794941207000",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
     "publishedAt": "2026-11-17",
     "source": "MIT Technology Review",
     "tags": [
@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-and-zipline-8217-s-drone-delivery-service-takes-off-in--1794928026000",
-    "title": "Uber and Zipline&#8217;s drone delivery service takes off in Texas, with dozens of cities to follow",
-    "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-    "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-    "publishedAt": "2026-11-17",
+    "id": "news-nvidia-promises-that-revenue-will-keep-soaring-for-now-1794961010000",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "publishedAt": "2026-11-18",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,11 +27,77 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-iowa-district-to-settle-with-recruiting-firm-after-ex-superi-1794863040000",
-    "title": "Iowa district to settle with recruiting firm after ex-superintendent’s ICE arrest",
-    "link": "https://www.hrdive.com/news/iowa-district-to-settle-with-recruiting-firm-after-ex-superintendents-ice/874743/",
-    "summary": "The former Des Moines school leader overstayed his visa, according to ICE. In response, the district sued a firm it claimed should have prevented his hiring.",
-    "publishedAt": "2026-11-16",
+    "id": "news-employer-benefits-hold-steady-despite-unstable-macroeconomic-1794948840000",
+    "title": "Employer benefits hold steady despite unstable macroeconomic conditions",
+    "link": "https://www.hrdive.com/news/employer-benefits-hold-steady-despite-unstable-macroeconomic-conditions/874945/",
+    "summary": "Although costs are increasing, employers are trying to protect benefits and safeguard against worker attrition, according to a new study.",
+    "publishedAt": "2026-11-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-amd-1794924920000",
+    "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+    "link": "https://www.qbitai.com/2026/11/510695.html",
+    "summary": "82亿美元股票，46天闪电交割",
+    "publishedAt": "2026-11-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1794961284000",
+    "title": " 摩根士丹利：中国正在变成全球制造业的\"操作系统\" ",
+    "link": "https://www.huxiu.com/article/4906419.html?f=rss",
+    "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：创新区研究组 我们先讲个场景： 贵州贵安，一家轮胎厂。 这厂子以前排生产计划，一周的单子怎么排，计划员对着电脑要算24小时。去年AI进场，一小时，排完。 省下的23小时只是账面上的收益，真正变了的是这家厂的流程： 在\"人做决定\"和\"机器动手\"之间，多插进来一层会思考的东西。 这一层如果只长在贵安，是一条新闻。 如果它长进中国几十万家工厂，那是另一件事。 摩根士丹利最近的一份重头报告，名字叫《China's Next Industrial Revolution》，讲的就是这另一件事。报告说，全球制造业相关的总盘子，将从12万亿美元走向50万亿美元，一个超级周期。而核心判断只有一句： 中国正在把自己做成实体制造业的\"操作系统\"。 操作系统这个概念很重要： 当年不管谁家造电脑，微软收操作系统的钱；不管谁做手机，谷歌收安卓生态的钱。机器谁造、造多少、卖给谁，他们不管，他们只管所有人都得在自己的地基上开工。 如果\"智能\"这一层变成全世界工厂的标配，而标准、软件、装备都来自同一个国家，那这个国家收的，就是整个实体世界的\"系统税\"。 谁站在“所有人都得在上面开工”的那一层，谁就收系统税 华尔街最大的投行之一，替中国画了这张图纸，标了风险，还顺手替别人算了代价。 报告把历史拉成一串台阶：1.0机械化，2.0大规模生产，3.0自动化，4.0数字化，5",
+    "publishedAt": "2026-11-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-hydropower-hit-record-lows-in-the-us-southwest-this-summer-1794937930000",
+    "title": "Hydropower hit record lows in the US Southwest this summer",
+    "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;",
+    "publishedAt": "2026-11-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-stripe-backer-atomico-calls-for-europe-to-own-its-success-st-1794960060000",
+    "title": "Stripe backer Atomico calls for Europe to own its success stories",
+    "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+    "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+    "publishedAt": "2026-11-18",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-keeping-d-i-approach-steady-is-linked-to-stronger-outcomes-s-1794948840000",
+    "title": "Keeping D&I approach ‘steady’ is linked to stronger outcomes, SHRM finds",
+    "link": "https://www.hrdive.com/news/keep-calm-and-dei-on-organizations-with-a-steady-hand-at-diversity-work-shrm/874910/",
+    "summary": "&ldquo;Leaders can adapt how they do the work and still be clear about the commitment,&rdquo; said Carolynn Johnson of SHRM&rsquo;s Center for Inclusion &amp; Diversity.",
+    "publishedAt": "2026-11-17",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -54,24 +120,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1794926673000",
-    "title": " AI行业里，被高薪叙事平均掉的人 ",
-    "link": "https://www.huxiu.com/article/4906379.html?f=rss",
-    "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲，作者：洞见数据研究院 晚上11点，杨涵合上电脑，12小时连轴转暂告一段落。但人下班了，神经没下，一旦数据有问题，她要24小时待命。 杨涵毕业已经3年，是985计算机本科、QS前20院校硕士，始终在AI这条线上，在几家大厂攒过实习和履历，还当过初创公司AI方向负责人。 这扎实的简历，配上超高的工作强度，按理说收入该傲视群雄。但眼下杨涵的月薪，勉强追平先进制造的头部研发，放在互联网大厂只能排到中等。 这和她“急流勇退”回研究院做基模有关，但抛开这一层，她仍有句话要说:“AI从业者，真没有外界想象的风光。” 眼下的AI叙事，汇聚了最让人羡慕的工作、最令人眼红的薪资，大模型算法、智能体开发、AI Infra等动辄几十万起步，上不封顶；大厂的人才计划，百万年薪不过是起步价。 但热钱砸出来的高薪，只属于金字塔尖那一小撮人，这些极高数值像一把巨大的拉力，拔高了整个AI行业的“平均薪资”。塔尖之下的人，感受到的是极大的落差。 而投入与产出之间巨大的缺口，却要用所有人的身躯来填补，普通人的加班时长和焦虑指数，早已跑赢了薪资涨幅。 聚光灯照不到的B面，才是大多数人的日常。 门槛被抬高，校招变社招 每次说起身边同学TOP3硕士、校招零offer，陈墨总被怼回来：“净骗人，人家只是没拿到满意的offer而已。” 往年的确如此，陈墨的学长学姐揣着算法论文和实习",
-    "publishedAt": "2026-11-17",
+    "id": "news-6g-1794961166000",
+    "title": " 6G开始发入场券了，唯独没点设备商的名 ",
+    "link": "https://www.huxiu.com/article/4906418.html?f=rss",
+    "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 11月17日，工信部办公厅一份复函，把6G的大动作摆上了台面。 北京、河北、上海、江苏、浙江、安徽、湖北、广东，8个省市获批开展6G创新发展部省协同试点。 很多人的第一反应，是拿这事对标2016年的5G试点通知。当年搞5G技术试验，是把华为、中兴、诺基亚、爱立信这些设备商叫到怀柔，样机拉过去，大规模天线、新型多址一轮一轮地测。 这回不一样。名单给的是省市，没点任何一家设备商的名。 于是有人嘀咕：是不是6G还太早期，设备商连能测的东西都拿不出来？ 这个直觉是错的。6G不是起点低，是组织方式整个换了。 当年5G是怎么走过来的 2016年1月，IMT-2020推进组启动5G技术研发试验，分三个阶段：2016年做单点关键技术验证，华为、中兴、大唐、爱立信、诺基亚、英特尔、三星7家企业提交样机；2016到2017年做技术方案验证；2017到2018年做系统组网验证。 当时的路径清清楚楚。空口就是蜂窝、MIMO、OFDM的迭代，场景就是eMBB、uRLLC、mMTC三大件。设备商造样机，运营商选城市铺网，2019年发牌商用。 当年的5G试验就干两件事：技术摸底，加上设备商之间的赛马。 6G现在卡在哪 按工信部2022年定下的6G技术试验三阶段安排，2022到2024年的关键技术试验已经完成，手里攒下超过300项关键技术储备，太赫兹",
+    "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-the-download-jensen-huang-s-open-source-dilemma-and-cognitiv-1794921000000",
-    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-    "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
+    "id": "news-research-reports-1794926386000",
+    "title": "Research Reports",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "summary": "To access a report, click on the corresponding image below.",
     "publishedAt": "2026-11-17",
     "source": "MIT Technology Review",
     "tags": [
@@ -80,10 +145,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-meta-launches-direct-a-standalone-messaging-app-for-instagra-1794927706000",
-    "title": "Meta launches Direct, a standalone messaging app for Instagram",
-    "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-    "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+    "id": "news-nvidia-is-abandoning-china-after-jensen-huang-8217-s-ouster-1794958668000",
+    "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
     "publishedAt": "2026-11-17",
     "source": "TechCrunch",
     "tags": [
@@ -93,11 +158,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-spacex-can-t-force-retaliation-claim-into-arbitration-9th-ci-1794862980000",
-    "title": "SpaceX can’t force retaliation claim into arbitration, 9th Circuit holds",
-    "link": "https://www.hrdive.com/news/spacex-cant-force-retaliation-claim-into-arbitration-9th-circuit-holds/874759/",
-    "summary": "The Ending Forced Arbitration Act allows the former employees to pursue in court a claim they were fired for raising concerns about sexual harassment, which they alleged founder Elon Musk normalized through social media.",
-    "publishedAt": "2026-11-16",
+    "id": "news-irs-lays-out-401-k-auto-enrollment-guidelines-to-begin-in-20-1794948840000",
+    "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
+    "link": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/",
+    "summary": "The change could increase savings by an average of $4.2 billion per year, the agency said Tuesday.",
+    "publishedAt": "2026-11-17",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -120,11 +185,77 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794926377000",
-    "title": " 叶国富还要再爆改几百家名创优品 ",
-    "link": "https://www.huxiu.com/article/4906378.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：卢奕贝 名创优品准备明年再关掉几百家门店。 11月17日的三季度业绩会上，名创优品首席财务官张靖京透露，2027年公司将继续淘汰低效门店，“明年甚至会关掉几百家低效门店，这个是板上钉钉的事”。 但名创优品并不打算减少整体门店规模。截至今年9月底，其国内门店达到4726家，较去年底净增158家。它要做的，是把大量过去开出来的小店，换成能卖更多商品的新店、大店。 传统名创优品门店仍然是生活百货店的样子，拖鞋、香水、化妆工具等摆满货架，IP商品穿插其中。而如今名创优品主推的乐园系门店里，自有IP YOYO和CHOUCHOU占据入口和主要动线，大型IP装置、独立陈列区成为店内最显眼的部分——就像迪士尼商店一样。 目前名创优品的门店分为乐园系、旗舰店和常规店。乐园系主打IP和潮玩，旗舰店兼顾IP商品与生活百货，常规店仍以日用品为主。 叶国富去年就提出过大规模改店的计划。2025年10月，他在《罗永浩的十字路口》中提出“腾笼换鸟”，计划在今明两年关闭并重开80%的门店，改变店铺模型和商品结构。部分200平方米以下的小店将升级为400至600平方米的主题化门店。名创优品随后解释，“关闭重开”并非集中关店，而是通过装修、迁址和扩店等方式调整门店。 图表制作：界面新闻卢奕贝 这项计划正在推进。 2025年底，名创优品国内乐园系门店只有26家，到今年三季度末已达",
+    "id": "news--1794960891000",
+    "title": " 芯片供不应求，台积电却开始给客户“验资”？ ",
+    "link": "https://www.huxiu.com/article/4906417.html?f=rss",
+    "summary": "本文来自微信公众号： 反熵 ，作者：一笑 全球最不愁卖芯片的企业，开始更加关心客户有多少钱了。 11月16日，台湾《工商时报》援引业内人士消息，台积电依据客户财务状况核定信用额度。如果订单超过额度，客户就需要额外拿出现金，部分客户还得提前付款，才能锁定产能。 台积电董事长魏哲家在10月的财报电话会上还透露，已派团队赴美国查看数据中心建设和供电情况。他同时表示，AI芯片需求仍然超过供应。 芯片供不应求，制造商却开始仔细调查客户的资金实力。当整个AI产业都在争抢芯片时，台积电为什么反而要确认，客户究竟付不付得起钱？ 01订单背后的钱 467.2亿美元，是台积电今年第三季度的营收，同比增长41.2%，其中高性能计算业务贡献了68%的收入。截至9月底，客户暂收款达到3594.81亿新台币，较去年底增长约89%。 这些资金主要是客户为保留产能提前支付的款项，未来可依照协议退还或抵扣货款。 预付款为什么如此重要？原因在于，晶圆制造的投入远早于产品交付。 一座先进晶圆厂从建设到投产往往需要数年。台积电今年计划投入600亿至640亿美元资本开支，必须依据客户未来需求提前建设。设备投产后，即使客户取消采购，折旧也不会停止，多出的产能短期内未必找得到买家。 对定制AI芯片（ASIC）设计企业来说，资金压力还会提前出现。它们向台积电订购晶圆，芯片经封装后才能交付；如果下游客户分阶段付款，设计企业就得先垫",
+    "publishedAt": "2026-11-18",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-jensen-huang-s-open-source-dilemma-and-cognitiv-1794921000000",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
     "publishedAt": "2026-11-17",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-nvidia-says-its-open-source-ai-strategy-remains-intact-after-1794956675000",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "publishedAt": "2026-11-17",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "strategy"
+    ]
+  },
+  {
+    "id": "news-rto-policies-that-prioritize-employees-work-better-1794948780000",
+    "title": "RTO policies that prioritize employees work better",
+    "link": "https://www.hrdive.com/news/rto-policies-that-prioritize-employees-work-better/874760/",
+    "summary": "If an employer asks workers to come into the workplace, it should make sure being there is valuable, writes Darlene Engoglia of Park Place Technologies.",
+    "publishedAt": "2026-11-17",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-00-48-1794890103000",
+    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+    "link": "https://www.qbitai.com/2026/11/510610.html",
+    "summary": "斩获80000元奖金",
+    "publishedAt": "2026-11-17",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-10-1794960570000",
+    "title": " 香港麦理浩径野猪成群，10分钟帐篷被扫荡一空 ",
+    "link": "https://www.huxiu.com/article/4906416.html?f=rss",
+    "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《香港麦理浩径野猪成群，10分钟帐篷被扫荡一空！》 今年8月，一队驴友在香港麦理浩径咸田湾刚扎好帐篷，野猪便循着食物气味过来，叼走背包，当场咬烂，里面的食物也没保住。帐篷同样被拱烂，好在人没受伤。 十天后，又有一队驴友在同一个营地遭了殃。帐篷刚搭好，野猪就钻进来撕咬背包，不到十分钟，食物被扫荡一空。隔壁帐篷里的女生不敢出去，只能把吃的往外扔，等它吃完离开。 后来有人听劝，把背包挂到树上，保住了行李；另有人把包往地上一放就休息，包被拱破。入夜后，野猪还冲撞过帐篷。 麦理浩径很公平，走累的人有地方吃饭，走累的猪也有。 隔着手机看，哥们儿实惨。 2024年国庆假期，浪茄湾一名游客的背包被野猪叼进丛林，夺回来后，证件都在，辣条没了。 怎么不是模仿欧洲大盗呢？只拿贵重物品，护照原封不动，也算是有义气的好猪了。 麦理浩径直到1979年10月26日才正式启用。咸田湾、西湾、浪茄湾这些营地所在的西贡山野，本就是野猪的栖息地。如今，营地和野猪觅食的路重叠，徒步者带来的口粮也成了它们的目标。 驴友拍的咸田湾露营视频里，野猪咬住的已经不只是背包。它拖着一顶搭好的帐篷，在其他帐篷之间横冲直撞，营友追在后面。有人说一晚被光顾好几回，只能和野猪反复拉扯。 今年2月流传的一段昂平营地夜间视频里，一只野猪从帐篷间穿过，突然直冲一顶帐篷，把整顶帐篷撞翻。今年1",
+    "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -145,10 +276,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-voyage-labs-raises-12-million-for-a-specialized-ai-travel-as-1794927600000",
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can [&#8230;]",
+    "id": "news-nvidia-says-it-doesn-8217-t-plan-to-reappoint-jensen-huang-a-1794955347000",
+    "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
     "publishedAt": "2026-11-17",
     "source": "TechCrunch",
     "tags": [
@@ -158,76 +289,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-sec-aims-to-pare-back-executive-comp-disclosure-rules-1794862980000",
-    "title": "SEC aims to pare back executive comp disclosure rules",
-    "link": "https://www.hrdive.com/news/sec-aims-to-pare-back-executive-comp-disclosure-rules/874767/",
-    "summary": "Under a new proposal, public companies would get more flexibility to determine whether certain perks are &ldquo;integrally and directly related&rdquo; to an executive&rsquo;s job.",
-    "publishedAt": "2026-11-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-00-48-1794890103000",
-    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-    "link": "https://www.qbitai.com/2026/11/510610.html",
-    "summary": "斩获80000元奖金",
+    "id": "news-why-ai-skill-building-is-only-one-part-of-the-puzzle-1794934440000",
+    "title": "Why AI skill-building is only one part of the puzzle",
+    "link": "https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/",
+    "summary": "A Hogan Assessments report highlighted how AI adoption is not just a &ldquo;technology challenge, but also a people and workplace challenge.&rdquo;",
     "publishedAt": "2026-11-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794926219000",
-    "title": " 英伟达，段永平的投资压力测试 ",
-    "link": "https://www.huxiu.com/article/4906377.html?f=rss",
-    "summary": "本文来自微信公众号： 版面之外 ，作者：版君、画画 段永平开始大幅卖出英伟达。 但奇怪的是，黄仁勋刚离开英伟达那会，段永平并没有卖。 股价大跌，他甚至还准备买回此前被Call走的部分股票。 段永平给出的理由是：我觉得我买NVDA的大部分理由都还在，只是黄不在了。 一句话，把问题挑明了。一家公司的生意依然很好，那个让投资者放心持有十年的人却突然离开了，还能不能继续重仓？ 从2025年第一次买入，到如今重新审视这笔投资，段永平在英伟达身上走过了一轮试探、重仓、收缩和观望。 这是他近年来一次很有代表性的投资压力测试。 一、从试探到重仓 如果把时间拨回到2025年。 段永平买英伟达，其实有一个很有意思的起点。 2025年3月，英伟达GTC大会召开前，他在雪球晒出了一笔交易：以92.52美元的净成本买入10万股英伟达，同时卖出2026年3月到期、行权价120美元的看涨期权。 这是一笔Buy Write交易。 按照他的解释，如果英伟达涨到120美元，股票就会被卖掉，收益约29.7%；如果没有涨到这个价格，就继续持有。 先设定一个自己满意的买入价格，再把可能的收益提前算清楚。这笔交易里，已经能看到段永平谨慎参与的态度。 一个月后，市场遭遇关税冲击，英伟达股价大幅波动。段永平又开始买入苹果、英伟达、谷歌和台积电，也考虑通过卖Put的方式参与。 他当时说了一句很有代表性的话：山也还是那座山，梁也还是",
-    "publishedAt": "2026-11-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-building-trustworthy-ai-by-fencing-it-in-not-predicting-it-1794845068000",
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;",
-    "publishedAt": "2026-11-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-instagram-8217-s-new-tool-for-creators-targets-unauthorized--1794927600000",
-    "title": "Instagram&#8217;s new tool for creators targets unauthorized reposts and AI-modified videos",
-    "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-    "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
-    "publishedAt": "2026-11-17",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-feds-seek-overhaul-of-permanent-immigrant-worker-regulations-1794862980000",
-    "title": "Feds seek overhaul of permanent immigrant worker regulations",
-    "link": "https://www.hrdive.com/news/feds-seek-overhaul-of-permanent-immigrant-worker-regulations/874803/",
-    "summary": "The sweeping update aims to give U.S. workers &ldquo;fair consideration and first access to job opportunities,&rdquo; Secretary of Labor Keith Sonderling said on Monday.",
-    "publishedAt": "2026-11-16",
     "source": "HR Dive",
     "tags": [
       "hr",
@@ -250,81 +316,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1794925795000",
-    "title": " 名创优品：国内狂飙，海外失速，“增收不增利”何时是头？ ",
-    "link": "https://www.huxiu.com/article/4906376.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《名创优品：国内狂飙，海外失速，“增收不增利” 何时是头？》 北京时间11月17日下午，名创优品发布了2026年Q3业绩。 整体来说，三季度名创的收入端依然超出市场预期，国内业务更是交出了近几年最好的成绩单；但海外业务明显失速，而费用率仍在继续抬升，利润端也没有跟上收入的增长，“增收不增利”的老问题还在延续。具体要点如下： 1、营收超预期，国内强、海外弱。3Q26名创实现总营收66.3亿元，同比增长14.3%，拆分来看，名创中国同比增长29.6%达到37.7亿元，在去年同期高基数的情况下依然环比提速，同店实现高个位数增长，已经是连续第六个季度同店正增长，大店、IP产品和自有IP的拉动效果比较明显。 海外市场同比仅增长1.7%达到23.5亿元，连续失速，核心原因在于公司主动收缩代理渠道、推进直营化转型，代理商去库存叠加东南亚等地区关店，拖累了整体增长，但北美地区仍保持了较快增长。TOP TOY同比下滑12.5%至5.0亿元，由增转降，主要是去年同期爆款IP带来的高基数。 2、国内开店提速，海外表现分化。截至三季度末，集团门店总数8,665家，环比基本持平，结构上，国内名创净增61家，开店节奏较上半年明显加快，\"乐园店\"等大店已超过120家；海外门店净减少67家，主要是代理门店收缩，结构继续向直营和北美倾斜。 TOP TOY门店",
-    "publishedAt": "2026-11-17",
+    "id": "news-ai-erp-1794960546000",
+    "title": " AI 时代，ERP 实施大洗牌，已经开始了 ",
+    "link": "https://www.huxiu.com/article/4906415.html?f=rss",
+    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《AI 时代，ERP 实施大洗牌，已经开始了！》 最近，麦肯锡发布了报告《我们所熟知的ERP系统即将终结？》 麦肯锡声称：在AI的介入下，ERP实施工作量将【至少】减少50%，而实施周期则将降低一半。 以方案设计与系统配置为例，假设原本需要6～9个月的周期，现在有了AI参与，只需要2～3个月。缩减2/3。 更重要的是，麦肯锡直言：大部分ERP实施服务商都还没有用AI重构实施流程，而ERP厂商则正在加大对AI交付工具的投入，从而提升对实施的影响力。 这就带来了2个问题： 1、如果客户发现，过去需要一大群实施顾问完成的工作，现在可以借助AI完成，那么他们还愿意为实施服务付多少钱呢？ 2、当实施结果越来越依赖于厂商的AI交付工具，那ERP实施商还有什么不可替代的价值？ 我认为，ERP实施可能正迎来大洗牌：ERP实施商如果不及时变革，可能将面临被淘汰的命运。 有人会说：实施主要的工作是沟通、协调，这些事情AI根本就替代不了。 我做过十年的ERP实施，也在Oracle原厂管理过交付项目——实事求是的说，除了极少数资深顾问，绝大部分实施顾问的主要工作，其实就是写文档、配置、培训和解决系统问题。 而这些工作，以后大部分都会消失，或者被AI交付工具替代。 以培训为例。 一方面，ERP系统会越来越智能，操作培训这件事本身就在逐渐减少； 另",
+    "publishedAt": "2026-11-18",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-download-testing-tech-promises-and-searching-for-cogniti-1794834600000",
-    "title": "The Download: testing tech promises and searching for cognitive immortality",
-    "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;",
-    "publishedAt": "2026-11-16",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidate-1794927058000",
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-    "publishedAt": "2026-11-17",
-    "source": "TechCrunch",
-    "tags": [
       "technology",
-      "startup",
       "ai"
-    ]
-  },
-  {
-    "id": "news-want-to-combat-ai-brainrot-pwc-is-piloting-a-way-to-do-so-1794862980000",
-    "title": "Want to combat AI brainrot? PwC is piloting a way to do so.",
-    "link": "https://www.hrdive.com/news/pwc-critical-thinking-assessment/874778/",
-    "summary": "Several studies indicate that workers assigned to use AI recognize its negative cognitive effects.",
-    "publishedAt": "2026-11-16",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-ai-robofinals-rl-envs-1794881002000",
-    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-    "link": "https://www.qbitai.com/2026/11/510561.html",
-    "summary": "",
-    "publishedAt": "2026-11-17",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1794925382000",
-    "title": " 偷面包之问，新版 ",
-    "link": "https://www.huxiu.com/article/4906374.html?f=rss",
-    "summary": "本文来自微信公众号： 西坡原创 ，作者：西坡 《29岁女子在盒马下单400余次均申请“仅退款”，三年来一分钱没花，称感到“刺激”》，这是我读到的新闻标题。 新闻内容是改编的某地警方今天对一起“诈骗案”的通报，通报原题目为《XX公安破获一起利用盒马商家售后规则实施的诈骗案》。 我现在读新闻很少，这则新闻吸引我点开，可能得力于那家媒体精心挑选出的几个关键词：29岁，400余次，“刺激”。 首先使我感到“刺激”的是，为什么一个并不新鲜的“仅退款”漏洞，可以被一个普通女子轻松击破400余次。我推断这是一个普通女子，是因为这么长的标题都没有讲她有特殊身份。新闻内容也证实了我的推断，据介绍，这是一名长期在家备考研究生的女子，“年复一年，成绩总差那么一口气，人也越来越郁闷”。29岁，一般来说大学毕业已经好几年了，还在家里备考研究生，经济压力和心理压力可想而知。 她的命运转折点发生在2023年的一天，下单买了一批零食，收获后点开售后界面，发现只要选择一个特定理由，就能申请“仅退款”。她试了一下，成功了，重点是她的内心反馈，不仅省了钱，还获得了某种奇异的心理疗效。“据该女子供述：这让她感到’刺激’，能够舒缓压力。” 原来是这样一种“刺激”。我的猎奇心顿时消失，一些不正确但无法抑制的联想，自己展开了。 我继续读新闻，竟然想到一种很容易被鞭笞的受害者有罪论，我嘴里那句不太愿意说出来的话是：“盒马一点责任",
-    "publishedAt": "2026-11-17",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
     ]
   }
 ];
@@ -690,6 +692,23 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137799",
+    "title": "Expert Talent Pool Physical AI",
+    "company": "Clera",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation",
+      "You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several months",
+      "What You'll Do Set up and maintain teleoperation"
+    ],
+    "skills": [],
+    "location": "Remote",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
+    "postedAt": "2026-11-17",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137793",
     "title": "Software Engineer AI Tooling",
     "company": "Supabase",
@@ -1033,4 +1052,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-17T15:27:13.936Z';
+export const dataFetchedAt = '2026-11-18T00:28:06.283Z';
