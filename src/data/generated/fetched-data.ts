@@ -2,6 +2,247 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-a-living-liver-a-billion-dollar-battery-deal-an-1795093800000",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life support outside the&#8230;",
+    "publishedAt": "2026-11-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-anthropic-8217-s-ipo-puts-ai-8217-s-circular-financing-boom--1795100079000",
+    "title": "Anthropic&#8217;s IPO puts AI&#8217;s circular financing boom to the test",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "publishedAt": "2026-11-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-near-instant-rejections-may-have-changed-job-search-behavior-1795032720000",
+    "title": "Near-instant rejections may have changed job search behavior",
+    "link": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
+    "summary": "More than three-quarters of job seekers who received a fast rejection said they didn&rsquo;t believe a human being had the time to review their resume before they were turned down.",
+    "publishedAt": "2026-11-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-manus-oppo-8230-8230-2027-1795077790000",
+    "title": "影视飓风、Manus、影石、OPPO&#8230;&#8230;极客公园创新大会 2027 嘉宾阵容更新！",
+    "link": "https://www.qbitai.com/2026/11/511258.html",
+    "summary": "「Revaluation 价值，另有答案」",
+    "publishedAt": "2026-11-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-robotaxi-1795098723000",
+    "title": " 小马智行：Robotaxi放量，能否持续增长？ ",
+    "link": "https://www.huxiu.com/article/4907000.html?f=rss",
+    "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 2022年大规模组织调整前一天，小马智行CEO彭军在一封全员邮件中写道，公司的首要目标是“活下去”。 当时，自动驾驶行业正经历资本退潮。 小马智行随后调整中美团队，技术团队转向地域化管理，并设立公司级技术指导委员会，开始直面生存、收入和组织效率。 四年后，小马智行刚交出2026年Q3财报：总营收2.99亿元，同比增长75.2%，创新高；截至9月30日，Robotaxi车队2768辆，Robotaxi收入同比增长165.4%，乘客车费收入增长近400%。盈利端仍未转正，但Non-GAAP经营亏损3.91亿元、同比收窄7.6%，Non-GAAP净亏损3.28亿元、同比收窄13.9%。 小马智行2026年Q3财报 从财务数据看，小马智行的生存压力较2022年有所缓解。 但它是否已占据有利生态位，可以高枕无忧地“活下去”，还不能过早下结论。 自营收入能否持续、伙伴是否复购、授权与运营分成能否在交付后增长，决定了这是长期生意，还是阶段性放量。 外部竞争也没有留下太多验证时间。 萝卜快跑正加快重点城市和海外扩张；文远知行以相近共建模式争夺出行平台和车队伙伴.......城市许可、订单密度、车企量产能力和第三方资本，都不是小马智行可以独占的资源。 只有在对手同步扩张时仍能推动复购、提高持续性收入、降低复制成本，这轮增长才能沉淀为稳固生态位。",
+    "publishedAt": "2026-11-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-11-09-11-15-1795098870000",
+    "title": "基金市场概况与资产配置观点（11.09—11.15）",
+    "link": "https://www.tmtpost.com/8211721.html",
+    "summary": "腾讯济安指数上周下跌2.71%。",
+    "publishedAt": "2026-11-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-a-human-liver-has-been-kept-alive-outside-the-body-for-a-rec-1795089600000",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
+    "publishedAt": "2026-11-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-nimble-enters-the-item-tracking-market-with-eco-friendly-lug-1795096800000",
+    "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+    "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+    "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+    "publishedAt": "2026-11-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-work-done-outside-regular-hours-may-count-toward-fmla-eligib-1795032720000",
+    "title": "Work done outside regular hours may count toward FMLA eligibility",
+    "link": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/",
+    "summary": "In an opinion letter, DOL also said that if accurate time records are not available, eligibility sometimes must be assumed.",
+    "publishedAt": "2026-11-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-gta6-ai-3a-1795076310000",
+    "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+    "link": "https://www.qbitai.com/2026/11/511180.html",
+    "summary": "媒体均分登顶历史第一，细节多到爆炸",
+    "publishedAt": "2026-11-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795097525000",
+    "title": " 厌倦外卖的打工人， 开始预制“冷冻健康餐” ",
+    "link": "https://www.huxiu.com/article/4906997.html?f=rss",
+    "summary": "本文来自微信公众号： 精练GymSquare ，作者：Jting，原文标题：《厌倦外卖的打工人， 开始预制「冷冻健康餐」》 不用每天下厨做饭，却可以天天带饭上班，越来越多打工人成为「冻门」信徒，实现了伙食自由。 所谓「冻门」，简单理解就是自制预制菜。周末花一天时间大量采购食材、简单烹饪后用饭盒分装密封，囤进冰箱冷冻室。 到周中食用时，取出一盒冷冻菜放进微波炉或空气炸锅里快速加热，便可以享用自己烹制的饭菜。 「做一次吃十顿，还不用担心个别外卖的科技与狠活，主打一个安全放心。」 图源小红书@风风火火花天酒地，已授权 「冻门永存」，让打工人走进厨房的底气之一是对冰箱功能的充分利用。 在冻门信徒眼中，冰箱是能让时间暂停的容器。冷藏层放满了每日蔬菜，而冷冻层能塞进一周七天的冷冻预制食品，满满当当的幸福感。 但关于营养流失和细菌滋生的讨论，也随之而来。甚至有人形容，「明明是剩菜剩饭，换了冻门的名字就成了流行生活方式。」 事实上，冷冻预制菜作为一种饮食方式，正在人们的反复实践中，进化出更丰富营养的搭配和相对安全的操作流程。 而对于更多依赖冻门的打工人来说，冰箱里贮存的不仅仅是食物，更是一份忙碌生活里确定的幸福感和掌控感。 加入「冻门」的打工人 实现带饭自由 打工人的职场内卷，也在餐桌体现。 拼好饭的低价外卖，在荤素搭配的家庭便当面前一败涂地；而那些饭点一到，从冰箱取出冷冻预制菜的冻门信徒，则轻松",
+    "publishedAt": "2026-11-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795097857000",
+    "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
+    "link": "https://www.tmtpost.com/8211669.html",
+    "summary": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。",
+    "publishedAt": "2026-11-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+    "publishedAt": "2026-11-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-superhuman-pushes-its-go-assistant-everywhere-1795096800000",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "publishedAt": "2026-11-19",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-will-more-companies-need-to-end-their-h-1b-visa-programs-1795032720000",
+    "title": "Will more companies need to end their H-1B visa programs?",
+    "link": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/",
+    "summary": "While the math is shifting on immigration sponsorship, employers are still wary of &ldquo;handing that talent to their competitors,&rdquo; one attorney told HR Dive.",
+    "publishedAt": "2026-11-18",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-sensenova-u1-pro-design-arena-1795075819000",
+    "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+    "link": "https://www.qbitai.com/2026/11/511179.html",
+    "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+    "publishedAt": "2026-11-19",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795097072000",
+    "title": " 美国的“马云们”，重返电商赛场 ",
+    "link": "https://www.huxiu.com/article/4906996.html?f=rss",
+    "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：王晓寒 把Jet.com卖给沃尔玛、随后执掌沃尔玛美国电商的Marc Lore，又做起了购物生意。这一次，他联合创办的Wizard，要让消费者向AI说出需求，再由AI帮忙找商品、比价格、下单。 和他一起回到创业一线的，还有不少熟面孔。亚马逊前技术副总裁、Bolt前CEO Maju Kuruvilla，正在帮品牌搭建能随顾客需求变化的网上店铺。曾任Stitch Fix首席运营官的Julie Bornstein，把上一家购物公司THE YES卖给Pinterest后，又创办了AI时尚购物平台Daydream。在英国，前亚马逊员工Max Sinclair则做起了Azoma，帮品牌研究商品怎样才能被AI推荐。 这些人曾经做过的事，包括让消费者更容易搜到商品、让商家更有效地卖货，以及让付款少几个步骤。如今，AI开始接手其中的一部分工作，他们又找到了创业的理由。 参与搭建过上一代电商的人，正在用新公司寻找答案。 01 老将重返赛场 从自己卖货，到替零售巨头追赶亚马逊，Lore做过两轮。这次，他和做过短信购物服务Stylust的Melissa Bridgeford联合创办Wizard，尝试让消费者在一个AI助手里，完成跨零售商的购物。 用户说出用途、预算和偏好，Wizard从商品属性、消费者评价和评测内容中筛选，给出几款推荐。它还",
+    "publishedAt": "2026-11-19",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-11-17-1795097571000",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月17日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8211651.html",
+    "summary": "本期三只均为本轮第一根跌停，收盘对济安定价的溢价在一倍至一点四倍之间。",
+    "publishedAt": "2026-11-19",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-ai-hype-index-ai-is-everywhere-1795012964000",
     "title": "The AI Hype Index: AI is everywhere",
     "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -28,24 +269,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-near-instant-rejections-may-have-changed-job-search-behavior-1795032720000",
-    "title": "Near-instant rejections may have changed job search behavior",
-    "link": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
-    "summary": "More than three-quarters of job seekers who received a fast rejection said they didn&rsquo;t believe a human being had the time to review their resume before they were turned down.",
+    "id": "news-dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal--1795032660000",
+    "title": "DHS’ 4-year cap on student visa stays struck down by federal judge",
+    "link": "https://www.hrdive.com/news/dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal-judge/875052/",
+    "summary": "The law does not grant the agency &ldquo;such broad and open-ended authority to undermine&rdquo; the student visa program, the judge wrote.",
     "publishedAt": "2026-11-18",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-ai-1795063891000",
-    "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
-    "link": "https://www.qbitai.com/2026/11/511088.html",
-    "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+    "id": "news-ai-8k-1795071665000",
+    "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+    "link": "https://www.qbitai.com/2026/11/511092.html",
+    "summary": "Kling Image 4.0",
     "publishedAt": "2026-11-19",
     "source": "量子位",
     "tags": [
@@ -55,24 +295,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-q3-814-1795066398000",
-    "title": " 腾讯Q3：814亿资本开支创纪录，马化腾在赌什么 ",
-    "link": "https://www.huxiu.com/article/4906823.html?f=rss",
-    "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 昨天，2026年11月18日，腾讯控股交出一份让市场分裂的三季报：营收2073亿元，同比+8%；Non-IFRS经营利润680.73亿元，同比-6%；资本开支单季814.33亿元——是去年同期的6.3倍。 更值得关注的是自由现金流，-691亿元。净现金582亿元翻转为净债务137亿元。只用了90天。 财报当日收盘股价创下年内新低。今天，港股绿油油的。 但腾讯这份财报里，藏着一个被多数标题忽略的数字：剔除AI产品投入后，Non-IFRS经营利润833亿元、同比+8%、经营利润率40%，与去年持平。 也就是说，腾讯的利润不是“丢了”，是被主动花掉了。 所以，花在哪？花了多少？值不值？ 这三个问题，才是读懂腾讯这份财报的真正关键。 01 一句话与152亿 财报发布前几天，11月11日，腾讯28周年庆上，马化腾在腾讯全员线上对话里说了一句话： “现在进行的智能革命如果不投入拥抱，就是被颠覆。这是一个生死存亡的问题。” 马化腾向来惜字如金，自然也不是客套话。翻遍腾讯过去十年的财报电话会，马化腾用“生死存亡”这四个字的次数是零。 我们拆开腾讯的账来看。三季度Non-IFRS经营利润680.73亿元，剔除新AI产品（混元Hy系列、元宝、CodeBuddy、WorkBuddy、微信小微）后为833亿元。差额152亿元，全部来自AI产品的净投入。 152",
+    "id": "news--1795097058000",
+    "title": " 中国首款自研电动飞机“上天”，民营供应商进入国家队 ",
+    "link": "https://www.huxiu.com/article/4906995.html?f=rss",
+    "summary": "本文来自微信公众号： 界面新闻 ，作者：陈怡轩 中国自主研制的10吨级电动商用飞机CE-25A，正带着本土民营供应商走向台前。 据中国商飞11月14日消息，CE-25A在山东滨州完成首次有人驾驶智能飞行，搭载2名飞行员、1名试飞工程师。 据界面新闻了解，除宁德时代(300750.SZ)参与航空电推进技术研发外，民营航空科技企业边界智控是CE-25A主飞控计算机的供应商，参与设备装机及试飞。 这意味着，至少两家民营企业已开始参与国产电动商用飞机项目，且是民营企业首次参与国产飞机的飞控系统。 2023年7月，中国商飞、宁德时代、上海交大企业发展集团共同成立商飞时代（上海）航空有限公司，布局航空电推进技术。同年，中国商飞在第六届进博会上公开展示了CE-25A模型。 三年后，这架采用红色涂装的电动飞机飞向蓝天。此次试飞持续16分38秒，飞行距离60.4公里，飞机状态正常，各项指标符合预期，初步验证了载人飞行条件下整机系统协同工作的能力。 CE-25A是中国商飞公司研制的第一款电动商用飞机，主要用于城市间商业飞行，可搭载19名乘客，最大起飞重量10吨，巡航速度300公里/小时，巡航高度2400米，航程400公里。 图片来源：中国商飞 “合作让我们印象最深的，是商飞愿意给民营企业参与关键设备研制的机会。” 11月18日，边界智控相关负责人在接受界面新闻采访时表示，“商飞有扎实的整机工程能力。他",
     "publishedAt": "2026-11-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news--1795063875000",
-    "title": "通威集团刘汉元：乐观预计光伏行业半年左右见底，多晶硅环节最有条件反内卷成功",
-    "link": "https://www.tmtpost.com/8210893.html",
-    "summary": "行业需求量足够大，先进产能应该保留下来。",
+    "id": "news-11-17-1795096561000",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8211631.html",
+    "summary": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。",
     "publishedAt": "2026-11-19",
     "source": "钛媒体",
     "tags": [
@@ -108,246 +347,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-work-done-outside-regular-hours-may-count-toward-fmla-eligib-1795032720000",
-    "title": "Work done outside regular hours may count toward FMLA eligibility",
-    "link": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/",
-    "summary": "In an opinion letter, DOL also said that if accurate time records are not available, eligibility sometimes must be assumed.",
-    "publishedAt": "2026-11-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-arm-cortex-m42-100e-aiot-ai-1795060959000",
-    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-    "link": "https://www.qbitai.com/2026/11/511079.html",
-    "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-    "publishedAt": "2026-11-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795065951000",
-    "title": " 大润发顶着压力继续猛推调改 ",
-    "link": "https://www.huxiu.com/article/4906822.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：李烨 大润发的门店调改推进一年多，正从样板门店探索走向更大范围的复制。 11月18日，大润发母公司高鑫零售公布2027财年中期业绩。财报显示，公司已形成25个标准化调改模块，首批“二改一”门店落地，本财年还将推进4个商店街重构项目。 随着调改铺向更多门店，持续投入需要资金支撑；而收入和同店销售的变化，也让这些投入能否带来回报变得更为关键。 界面新闻在其财报中看到，截至2026年9月30日，该公司净现金为105.2亿元；报告期内，经营活动现金净流入17.86亿元，自由现金流为16.3亿元。对仍在推进门店改造的大润发来说，这些资金为后续投入提供了支撑。 不过，调改成效尚未充分体现在整体经营中。 报告期内，高鑫零售自有品牌销售额同比增长82%，生鲜整体销量增长1.6%，但局部品类的改善尚未带动整体收入回升。同期，该公司收入为274.87亿元；经调整EBITDA为10.28亿元，整体有所收窄。高鑫零售在财报中解释，尽管平均客单价的下行趋势有所收窄，但市场竞争加剧和顾客分流，仍使线上线下客流承压。 2025年初，阿里巴巴宣布出售所持高鑫零售股权。同年3月，德弘资本成为高鑫零售最终控股股东。此后，高鑫零售把门店调改和商品调整放在经营核心，试图通过压缩低效卖场面积、改善商品组合，重新提升大卖场的经营效率。 高鑫零售董事会主席华裕能曾在2025年11月的业绩",
-    "publishedAt": "2026-11-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-q3-1795063008000",
-    "title": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？",
-    "link": "https://www.tmtpost.com/8210838.html",
-    "summary": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
-    "publishedAt": "2026-11-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-this-smell-startup-says-its-ai-nose-is-as-good-as-a-human-s-1794997230000",
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
-    "publishedAt": "2026-11-18",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-c-1795045500000",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "publishedAt": "2026-11-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-will-more-companies-need-to-end-their-h-1b-visa-programs-1795032720000",
-    "title": "Will more companies need to end their H-1B visa programs?",
-    "link": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/",
-    "summary": "While the math is shifting on immigration sponsorship, employers are still wary of &ldquo;handing that talent to their competitors,&rdquo; one attorney told HR Dive.",
-    "publishedAt": "2026-11-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1795057305000",
-    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-    "link": "https://www.qbitai.com/2026/11/511071.html",
-    "summary": "语言模型单张3090卡即可运行",
-    "publishedAt": "2026-11-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-7-ai-1795065465000",
-    "title": " 腾讯不佛了：每天砸7亿，全力搞AI ",
-    "link": "https://www.huxiu.com/article/4906821.html?f=rss",
-    "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 腾讯28年来最猛的一次出手。 定焦One（dingjiaoone）原创 11月16日，腾讯内部沟通会上，腾讯管理层抛出一系列判断：“浪已经杀过来了”；“现在进行的智能革命如果不投入拥抱，就是被颠覆，这是一个生死存亡的问题”。这些话听起来有很强的紧迫感，但资本市场最终得看你钱花到哪儿了，花得值不值。 两天后的11月18日，腾讯公布的2026年Q3财报给出了答案。 先看整体业绩。腾讯Q3营收2073亿元，同比增长8%。这个增速中规中矩，反映了宏观环境的压力。拆开来看，三大业务分化明显：增值服务收入983亿元，同比微增3%，本土游戏还在涨，海外游戏被高基数拖累；金融科技及企业服务收入637亿元，同比增长9%，其中云服务收入同比增长35%；营销服务收入430亿元，同比增长19%，仍是三块业务里最快的。 利润短期承压。反映主业经营状况的非国际财务报告准则净利润665亿元，同比下降6%。此前一年，这个口径的利润增速一直在10%以上。 腾讯2026年Q3财报核心指标 钱都砸到AI上了。权责资本开支（除了IT基础设施和数据中心，还包括土地使用权、办公园区和知识产权）在Q3高达814亿，去年同期这个数字是130亿，翻了五倍不止。至于真正掏出去的现金，管理层在电话会上强调，更应该看651亿的现金资本开支。这意味着，三季度平均每天砸7",
-    "publishedAt": "2026-11-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-tencent-s-softer-profit-shows-how-ai-is-rewriting-big-tech-s-1795060565000",
-    "title": "Tencent’s Softer Profit Shows How AI Is Rewriting Big Tech’s Cost Structure",
-    "link": "https://www.tmtpost.com/8210850.html",
-    "summary": "Tencent’s latest quarter paired slower earnings with a jump in capital spending. The same pattern is spreading across China’s internet giants: profits absorb model and compute costs first, while ads and cloud collect the early returns. The open question is how long investors will fund the gap.",
-    "publishedAt": "2026-11-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-roundtables-inside-the-quest-for-cognitive-immortality-1794941207000",
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
-    "publishedAt": "2026-11-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-elon-musk-says-ousting-jensen-huang-is-like-8216-kicking-mic-1795044317000",
-    "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "publishedAt": "2026-11-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal--1795032660000",
-    "title": "DHS’ 4-year cap on student visa stays struck down by federal judge",
-    "link": "https://www.hrdive.com/news/dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal-judge/875052/",
-    "summary": "The law does not grant the agency &ldquo;such broad and open-ended authority to undermine&rdquo; the student visa program, the judge wrote.",
-    "publishedAt": "2026-11-18",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-1-ai-1795048000000",
-    "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-    "link": "https://www.qbitai.com/2026/11/510947.html",
-    "summary": "国产AI工具实现「一个人就是一个剧组」",
-    "publishedAt": "2026-11-19",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-yee3-1795065310000",
-    "title": " 网红茶饮Yee3三号椰加速撤店 ",
-    "link": "https://www.huxiu.com/article/4906818.html?f=rss",
-    "summary": "本文来自微信公众号： 界面新闻 ，作者：马越，原文标题：《网红茶饮Yee 3三号椰加速撤店》 “长沙三号椰是全部倒闭了吗？”有消费者打开外卖软件发现，当地多家“Yee 3三号椰”门店在团购平台上显示“歇业关闭”，于是在社交媒体发出这样的疑问。 界面新闻注意到，此前长沙的Yee 3三号椰门店数量在5家左右，分别位于万家丽国际MALL、万象城、国金街等核心商圈。在大众点评平台均已显示“歇业关闭”。 界面新闻拨通Yee 3三号椰品牌方的联系电话，一位工作人员表示，长沙所有门店确实已经关闭，目前还没有计划要在原址重新开，“有些门店可能是因为商场合约选择不续租了。”对方表示。同时也确认长沙关闭的门店并非同一个加盟商所开，是由多个老板分别经营。 该品牌的一个招商人员对界面新闻表示，品牌正在调整方向，但并未透露具体的调整策略。 Yee 3三号椰于2023年诞生于上海，主打椰子原料的饮品和炒冰，比如其主打的椰子糖系列，在椰子水上通过抹茶等奶盖颜色的变化，制造视觉层次，人均价格在18-20元左右。 除了长沙之外，近期该品牌在广州、武汉、上海、温州、南宁、佛山、中山等地也陆续出现闭店情况。 界面新闻查询第三方数据平台窄门餐眼进一步发现，Yee 3三号椰近一年的势头不如从前。窄门餐眼数据显示，2026年至今，Yee 3三号椰已关闭143家门店，是2025年全年闭店数量的约3.4倍；而同期新开218家，较",
-    "publishedAt": "2026-11-19",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795060252000",
-    "title": "持械入宋的商汤迷局",
-    "link": "https://www.tmtpost.com/8210314.html",
-    "summary": "Seko生态到底为短剧爆款出了几分力？",
-    "publishedAt": "2026-11-19",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-hydropower-hit-record-lows-in-the-us-southwest-this-summer-1794937930000",
-    "title": "Hydropower hit record lows in the US Southwest this summer",
-    "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-    "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;",
-    "publishedAt": "2026-11-17",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-microsoft-ceo-satya-nadella-remains-confident-in-nvidia-afte-1795043848000",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "publishedAt": "2026-11-18",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
     "id": "news-ai-rising-costs-top-list-of-2027-talent-concerns-per-gartner-1795017600000",
     "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
     "link": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
@@ -362,11 +361,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-gemini-neon-1794994915000",
-    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-    "link": "https://www.qbitai.com/2026/11/510922.html",
-    "summary": "氖人寻味！",
-    "publishedAt": "2026-11-18",
+    "id": "news-ai-1795063891000",
+    "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+    "link": "https://www.qbitai.com/2026/11/511088.html",
+    "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+    "publishedAt": "2026-11-19",
     "source": "量子位",
     "tags": [
       "china",
@@ -375,23 +374,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795064771000",
-    "title": " 高学历精英男性侵案频发，到底怎么了？ ",
-    "link": "https://www.huxiu.com/article/4906816.html?f=rss",
-    "summary": "本文来自微信公众号： 看理想 ，作者：杨芮 今年9月，一名康奈尔大学的前学生以简·多伊（Jane Doe）的化名提起民事诉讼，指控七名兄弟会成员在2024年对她实施性侵。根据诉状，她当时受到酒精和药物影响，在无法作出有效性同意的状态下，遭到多人侵犯。案件的刑事调查已经重启。 实际上，顶级院校的恶性性侵事件其实并非孤例。2015年，斯坦福大学游泳队学生布罗克·特纳性侵了一名失去意识的女性，后来被判三项重罪成立，却只获六个月监禁。2013年，范德堡大学也发生了多名橄榄球队成员卷入的集体性侵案，受害者同样是一名失去意识的女性，其中一名施暴者后来被判处十五年监禁。 看到这样的新闻，除了愤怒，很多人也会产生一种困惑：这些能够进入顶尖大学的年轻男性，已经走过了一条非常成功的成长道路。他们接受了那么多年的教育，为什么在关于女性的身体、意愿和尊严的问题上，仍然会出现这样恶劣的行为？ 更进一步，如果想从一个男孩出生起，把他培养成一个相对健康的、懂得尊重他人和实践性别平等的男人，这个男孩会遇到哪些障碍？他的养育者又会遇到哪些困难？面对这些阻碍，我们可以往什么方向、用什么方式去努力？ 01. 从粉色、裙子、洋娃娃开始可以吗？ 在《当我生的是男孩》中，法国作家奥蕾莉亚·勃朗，探讨了如何养育一个健康的、懂得平等的男性。 《当我生的是男孩》 [法]奥蕾莉亚·勃朗著于歌译 勃朗是一名记者，1986年生，长期报道",
+    "id": "news-ipo-1795096789000",
+    "title": " 史上最大IPO，今日上市 ",
+    "link": "https://www.huxiu.com/article/4906993.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：赵昕睿 史上规模最大IPO将于11月19日在纳斯达克挂牌交易，股票代码为“ANT”，根据最新披露的发行安排，其A类普通股IPO定价为每股83美元，预计募资规模将创下历史新高。上市之后，对市场有哪些影响值得关注？ Anthropic于11月18日敲定IPO定价，A类普通股发行价定为每股83美元，较此前70—78美元发行区间上限高出约6.4%，并因需求旺盛将发行规模由8.25亿股扩至9.8亿股，对应公开发售募资约813.4亿美元。同时，公司通过同步私募配售向谷歌、英伟达、AMD、博通、美光、微软、台积电七家科技巨头发行N类无投票权股，合计募资260亿美元，两项合计总筹资约1073亿美元，超越SpaceX今年6月创下的纪录，成为有史以来规模最大的IPO。 创纪录的融资体量之下，这场IPO对美股资金面的短期扰动、对AI产业链盈利的传导路径及上市后的估值消化前景同样获得市场关注。从机构方观点来看，短期资金面压力难免但呈脉冲式特征，中期走势仍取决于盈利增长的持续性；公司上市后的营收质量、盈利节奏与算力投入产出效率，或将成为观察AI产业的关键窗口。 估值较前期讨论下修三成 华泰证券策略团队指出，按发行区间中值74美元计，Anthropic全面摊薄市值约1.33万亿美元，较此前市场讨论的约2万亿美元下修约三分之一，定价隐含的前提是两年后收入达到2700亿美元以",
     "publishedAt": "2026-11-19",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-robotaxi-1795054570000",
-    "title": "小马智行三季报：Robotaxi撑起四成营收，商业化进程提速",
-    "link": "https://www.tmtpost.com/8210512.html",
-    "summary": "小马智行三季度营收创新高，Robotaxi领涨，车队扩张带动经营效率持续改善。",
+    "id": "news-ai-1795096110000",
+    "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
+    "link": "https://www.tmtpost.com/8211622.html",
+    "summary": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。这里讨论的是作用机制，不意味着某一种行为逻辑必然对应某一种财富结果。",
     "publishedAt": "2026-11-19",
     "source": "钛媒体",
     "tags": [
@@ -1127,4 +1127,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-19T05:45:34.037Z';
+export const dataFetchedAt = '2026-11-19T15:10:41.956Z';
