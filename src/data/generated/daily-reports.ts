@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-20-auto",
+    "date": "2026-11-20",
+    "session": "auto",
+    "title": "2026-11-20 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-20-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
+      },
+      {
+        "id": "sig-2026-11-20-auto-2",
+        "emoji": "💡",
+        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+        "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+        "detail": "来源: TechCrunch。SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
+      },
+      {
+        "id": "sig-2026-11-20-auto-3",
+        "emoji": "⚠️",
+        "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+        "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+        "detail": "来源: HR Dive。Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/"
+      },
+      {
+        "id": "sig-2026-11-20-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Jailbreak Detection on Large Language Models via Contrastive...",
+        "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ",
+        "detail": "作者: Yan Qiu, Yuanyuan Li。Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's dete",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.24936v1"
+      },
+      {
+        "id": "sig-2026-11-20-auto-5",
+        "emoji": "💼",
+        "title": "Clera 正在招募 Expert Talent Pool Physical AI",
+        "summary": "岗位类型：业务+AI 复合岗。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation",
+        "detail": "技能要求: 未标注。About the Role Lead physical AI data capture programs that help robots learn from human movement and manipulation You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several months What You'll Do Set up and maintain teleoperation",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Clera"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Clera",
+        "link": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-20-1",
+        "priority": "medium",
+        "action": "关注「The Download: a living liver, a billion-」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-20-2",
+        "priority": "low",
+        "action": "关注「Elon Musk says SpaceX has a plan to elim」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-20-3",
+        "priority": "medium",
+        "action": "关注「Job candidates’ AI usage is obscuring th」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-20-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Jailbreak Detection on Large Langua」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-20-5",
+        "priority": "medium",
+        "action": "关注「Clera 正在招募 Expert Talent Pool Physical A」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Clera"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 68,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-20 生成，聚合了 30 条新闻、20 篇论文、18 个岗位。",
+    "fetchWindow": "2026-11-20 00:00 - 2026-11-20 23:59"
+  },
+  {
     "id": "report-2026-11-19-auto",
     "date": "2026-11-19",
     "session": "auto",
