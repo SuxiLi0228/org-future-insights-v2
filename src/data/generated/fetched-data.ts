@@ -2,22 +2,23 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
-    "id": "news-the-download-inside-the-quest-to-make-our-minds-immortal-1795180200000",
-    "title": "The Download: inside the quest to make our minds immortal",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+    "id": "news-the-most-misunderstood-graph-in-ai-just-got-a-major-update-1795198515000",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
     "publishedAt": "2026-11-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-six-ai-powered-gadgets-that-could-make-your-home-office-smar-1795183200000",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "id": "news-experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-1795208309000",
+    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
     "publishedAt": "2026-11-20",
     "source": "TechCrunch",
     "tags": [
@@ -27,17 +28,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
-    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
-    "publishedAt": "2026-11-19",
+    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+    "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ctf-type-1795112585-text-1795184663000",
-    "title": " CTF_TYPE_1795112585_text ",
-    "link": "https://www.huxiu.com/article/4907022.html?f=rss",
-    "summary": "type test",
+    "id": "news-2026-offer-1795215602000",
+    "title": " 做道士，才是2026年令人心动的“offer”？ ",
+    "link": "https://www.huxiu.com/article/4905940.html?f=rss",
+    "summary": "出品 | 虎嗅青年文化组 作者 | 阿珂可 编辑 | 渣渣郡 前段时间，一些道士招聘信息的合集文章，成了我朋友圈里大学生们的热门转发内容。 截止目前，这个系列中最受欢迎的文章已经逼近10万阅读量，转发量超过1万次。由此可见，大家对这一跨界不对口岗位的高度热情。 他们纷纷夸下海口，要遵守不能浪费应届身份的社会默认法则，在最美好的年纪进观修炼，掌握道家秘宝。 这些文章可理解为&ldquo;道长直聘&ldquo;。在里面，你可以看到来自全国各地的道观信息和岗位需求。 字里行间的语气真诚朴素，面试方式更是透出了一丝古朴的气息：大多数求职不需要简历，只是打个电话的事。有的地方甚至连电话都没有，需要改日登门拜访才能得知结果，颇有玄幻小说中拜山门求仙缘的意味。 这些条件看似简单。单单从求职的过程来看，就比山下的就业现状要容易得多。 除了一些特殊的道观，入选基本只有五个大字&ldquo;是个人就行&rdquo;。比如，要求四肢健全，家里人同意，接受无薪等等。 但这些招聘启事的背后都暗藏玄机。仔细阅读之后你会猛然发觉，这实际上是一份中国本土化的霍格沃茨录取书。 麻瓜们要是想上山，体能和灵根儿缺一不可。 首先，做道士的第一道门槛，一定是硬性的身体指标要求。 正如每个人的刻板印象。除了少数位于市区，大多数道观都坐落于山林之中，不少道观有自己的农田，需要驻观者参与农活和建筑等体力活，法事频繁时还需要上下山",
     "publishedAt": "2026-11-20",
     "source": "虎嗅",
     "tags": [
@@ -81,11 +81,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-download-a-living-liver-a-billion-dollar-battery-deal-an-1795093800000",
-    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
-    "publishedAt": "2026-11-19",
+    "id": "news-the-download-inside-the-quest-to-make-our-minds-immortal-1795180200000",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+    "publishedAt": "2026-11-20",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -93,31 +93,30 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-behind-jensen-huang-s-exit-questions-about-a-management-styl-1795181100000",
-    "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-    "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-    "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+    "id": "news-daniel-ek-backs-ai-researcher-8217-s-fusion-power-startup-he-1795204421000",
+    "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
     "publishedAt": "2026-11-20",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai",
-      "ai-hr"
+      "ai"
     ]
   },
   {
-    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
-    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
-    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
-    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
-    "publishedAt": "2026-11-19",
+    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
+    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
+    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+    "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -134,10 +133,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795183747000",
-    "title": " 当别人嫉恨你时，只需记住“海格力斯效应” ",
-    "link": "https://www.huxiu.com/article/4907311.html?f=rss",
-    "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 01 “与恶龙缠斗过久，自身亦成为恶龙。” 海格力斯效应，也叫仇恨袋效应，讲的是古希腊神话里的大力神海格力利斯被一个袋子绊了脚，于是他踢了一下，结果袋子长大一倍。 接着他又捡起木棒打了一下，结果这个袋子疯狂膨胀，这下将海格力斯的去路彻底堵死了。 后来智者告诉他，这个东西叫“仇恨袋”，你不理它，它会自动缩小；你越攻击它，它就会膨胀起来和你敌对到底。 这个故事的道理，在人际关系中也说得通。 我们一直以为，一个人位置越高，名气越大，受到的嫉恨与敌意就越少，甚至许多人非常任何出这样一句话：等你强大了，会发现身边都是好人。 其实这话不全对。 当你变强时，原本那些当面刁难你的人，确实会收敛一点，但他们并没有消失，只是换了种形式而已。 而且如果从相关性角度来看，一个人越往上走，嫉恨他的人大概率会越来越多，特别是跟你关系近的人。 社会比较理论提到，人有这样一种本能，就在没有客观标准的情况下，会拿身边的人当参照，以此来确认自己的位置。 因此你越成功，身边那些人越容易借由你照见自身的平庸与无助，这也是嫉恨产生的根源。 怕兄弟苦又怕兄弟开路虎，只要你一心往上走，嫉恨和敌意几乎是无可避免的，你唯一能做的，就是有效的回应。 02 谁嫉恨，嫉恨就是谁的课题。 你嫉恨别人，嫉恨就是你的课题，反过来别人嫉恨你，嫉恨就是对方的课题。 大多数人都习惯向外归因，这导致他们解决自",
+    "id": "news-anthropic-claude-1737-1795194138000",
+    "title": " Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。 ",
+    "link": "https://www.huxiu.com/article/4907330.html?f=rss",
+    "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 今夜，就在Anthropic股价暴跌的背景下。 Anthropic的数学家Levent Alpöge，在他自己的个人网站上，直接一纸官宣，说，自己和Claude一起，证明了黎曼猜想。 一石激起千层浪。 Levent Alpöge，2020年在普林斯顿拿的博士，导师是菲尔兹奖得主曼朱尔·巴尔加瓦，博士论文研究的就是数论。毕业后去了哈佛，当了哈佛学者学会的青年研究员，这是一个出了名难进的地方，后来，他加入了Anthropic。 他已经火过一次了，今年7月，他和Claude一起推翻了一个悬了87年的难题“雅可比猜想”，发在推特上的那个反例公式有将近3000万浏览，陶哲轩一天之内就确认了它是对的。 也是九月份纳维–斯托克斯那场风波里的当事人之一。 他在这次发布的PDF的开头中说： 黎曼猜想，这可能是这可能是人类数学史上，最有名、也最难解的一道题，没有之一。 1859年，33岁的黎曼写了一篇不到十页的论文，在里面随手提了一句，这些零点，很可能全都落在同一条直线上。他说自己试着证了一下，没证出来，就先放一放。 这一放，就是167年。 1900年，希尔伯特在巴黎列出了新世纪最重要的23个数学问题，黎曼猜想就在里面，一百年后，克雷数学研究所悬赏100万美元，评出千禧年七大难题，它又在里面。 据说希尔伯特还说过一个非常有意思的话，如果我沉",
     "publishedAt": "2026-11-20",
     "source": "虎嗅",
     "tags": [
@@ -161,23 +160,22 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-human-liver-has-been-kept-alive-outside-the-body-for-a-rec-1795089600000",
-    "title": "A human liver has been kept alive outside the body for a record seven weeks",
-    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
+    "id": "news-the-download-a-living-liver-a-billion-dollar-battery-deal-an-1795093800000",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
     "publishedAt": "2026-11-19",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology",
-      "organization"
+      "technology"
     ]
   },
   {
-    "id": "news-california-ag-subpoenas-nvidia-over-worries-about-huang-8217-1795180871000",
-    "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
-    "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-    "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+    "id": "news-ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-1795203128000",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
     "publishedAt": "2026-11-20",
     "source": "TechCrunch",
     "tags": [
@@ -187,17 +185,18 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bipartisan-bill-aims-to-secure-more-fmla-time-for-parents-wi-1795120500000",
-    "title": "Bipartisan bill aims to secure more FMLA time for parents with NICU babies",
-    "link": "https://www.hrdive.com/news/bipartisan-bill-aims-to-secure-more-fmla-time-for-parents-with-nicu-babies/875214/",
-    "summary": "Supporters pointed to parents having to decide between using job-protected time to stay with their preterm newborn or for bonding later.",
-    "publishedAt": "2026-11-19",
+    "id": "news-executives-get-more-ai-training-than-other-workers-hurting-a-1795208820000",
+    "title": "Executives get more AI training than other workers, hurting adoption, report finds",
+    "link": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+    "summary": "The disparity may explain why some employers see a &ldquo;stalled transformation&rdquo; within their enterprises, according to researchers at Marsh.",
+    "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -214,10 +213,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795183399000",
-    "title": " 中国开源模型的“最大甲方”有了 ",
-    "link": "https://www.huxiu.com/article/4907309.html?f=rss",
-    "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技，原文标题：《中国开源模型的「最大甲方」有了》 互联网大厂们正在成为开源大模型的新甲方。 腾讯总裁刘炽平在三季度业绩电话会上透露，WorkBuddy已成为中国几乎所有开放权重模型的最大客户。 这可能只是一个开始。 近期，国内头部办公Agent密集调整产品策略。继腾讯WorkBuddy率先采用多模型路线后，字节跳动旗下豆包工作接连扩大第三方模型接入范围，阿里千问办公也重新向外部模型敞开大门。 从腾讯到字节、阿里，几家互联网大厂的办公Agent正在走向相似的产品路线。 随着这一趋势逐渐明朗，拥有庞大用户规模、能够持续承接工作任务的办公Agent有望成为上游模型厂商新的超级客户。 但当路线趋于一致后，大厂既要通过办公Agent争夺用户和工作入口，也要在不断增长的Token消耗中控制成本。 谁能汇集更多模型需求决定了业务规模；谁能更高效地调度这些模型，则开始影响商业化的成色。 一 超级买家在途 WorkBuddy能够成为中国几乎所有开放权重模型最大客户，一方面与之市场影响力有关，另一方面则是因为其较早采用多模型策略。 今年3月上线时，WorkBuddy便支持接入DeepSeek、GLM、Kimi等第三方模型，此后又持续扩大模型选择范围。 这一路线在过去一段时间里并未成为国内办公Agent的主流选择。 今年8月25日，字节跳动正式推出豆包工",
+    "id": "news-ai-1795191308000",
+    "title": " 全球制药巨头，披露AI成果 ",
+    "link": "https://www.huxiu.com/article/4907327.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：夏军雄 全球多家大型制药公司的高级科研人员表示，今年以来，人工智能（AI）显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。 葛兰素史克、百时美施贵宝、诺华、礼来、诺和诺德、阿斯利康和赛诺菲均表示，它们已不再局限于利用AI处理监管申报文件等基础工作，而是开始将这项技术应用于分子设计、候选药物筛选及安全风险识别等关键研发环节。 阿斯利康高管莎伦·巴尔（Sharon Barr）表示：“从药物发现到开发的整个流程中，没有任何一个环节不使用AI。” 多家制药巨头披露AI研发成果 诺和诺德表示，AI已将新分子设计、生产和测试的迭代次数从原来的约八轮减少至三轮，同时将每轮迭代所需时间从八周缩短至四周。 诺华生物医学研究总裁菲奥娜·马歇尔（Fiona Marshall）表示，从项目启动到确定候选药物的平均时间，已从过去的三年缩短至目前的约18个月至两年。此外，AI工具还帮助公司确定了五个优先开发的肾脏疾病治疗靶点。 赛诺菲表示，通过采用AI辅助的方法，将早期生物学研究成果转化为临床决策，公司得以跳过一项剂量选择研究，使哮喘候选药物lunsekimig的开发进度至少提前了一年。 赛诺菲研发部门全球计算与AI战略负责人马特·特鲁波（Matt Truppo）预计，在公司100多个药物开发项目中，AI有望在未来两年将药物早期",
     "publishedAt": "2026-11-20",
     "source": "虎嗅",
     "tags": [
@@ -242,22 +241,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
-    "title": "What a billion-dollar deal says about the US battery market",
-    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+    "id": "news-a-human-liver-has-been-kept-alive-outside-the-body-for-a-rec-1795089600000",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
     "publishedAt": "2026-11-19",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
-      "technology"
+      "technology",
+      "organization"
     ]
   },
   {
-    "id": "news-the-u-s-national-cyber-director-is-stepping-down-1795166059000",
-    "title": "The U.S. national cyber director is stepping down",
-    "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-    "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+    "id": "news-super-hot-rock-geothermal-could-end-data-center-energy-woes-1795199640000",
+    "title": "Super-hot rock geothermal could end data center energy woes",
+    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
     "publishedAt": "2026-11-20",
     "source": "TechCrunch",
     "tags": [
@@ -267,10 +267,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-to-tackle-employee-pay-cynicism-1795105560000",
-    "title": "How to tackle employee pay cynicism",
-    "link": "https://www.hrdive.com/news/how-to-tackle-employee-pay-cynicism/875126/",
-    "summary": "Part of the solution is enhanced transparency &ldquo;when you&rsquo;ve got a good story to tell,&rdquo; a global rewards solution leader said.",
+    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
@@ -294,10 +294,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-11-1795183343000",
-    "title": " 11月，街头巷尾里的中国经济 ",
-    "link": "https://www.huxiu.com/article/4907306.html?f=rss",
-    "summary": "本文来自微信公众号： 嬉笑创客 ，作者：CB，题图来自：AI生成 有人说图表比公式更能描述经济，但更多时候，街头巷尾里的生活言语才是真正灵敏的指南针。 （往期： 《街头巷尾里听到的中国经济-10月》 ） 11 月是热闹的月份，市场有一出出令人咋舌的肥皂剧吸引着众人的眼球。全球领袖 （欧洲：猜猜谁没被邀请？虽然我确实不靠太平洋） 齐聚深圳，万人空巷 （使用错误） ，但都有各自的隐忧。 一 &ldquo;买什么亏什么，把鸡蛋放在不同的篮子里，结果全碎了。&rdquo; 从事私人银行工作的朋友这么和我说。江浙一带的高净值群体，在下半年最典型的状态就是三个字，亏麻了。 银行的客户经理基本什么资产旺盛就推荐什么，于是从上半年开始推荐金银。到年中推荐科技基金。如果客户足够谨慎，那么还有固收+ 不落下，也能捕获一大批客户。 不少江浙客户从事的外贸生意基本面尚可，和国内的社零消费相比，已经是生机勃勃。但赚来的钱，要不亏在了投资上，要不被美元的下跌损失抹去一部分。 如果之前投资了美股，那么还会接到短信。 今年手头有点财富积蓄的人，到了下半年画风急转直下。上半年年化收益率 20% 以下的不看，下半年只要能不亏钱就行。 当前经济最重要的问题是，房间里的几个人，没有一个人敢先动手，先开出支出的第一枪。地方政府有着化债的压力。普通民众谨慎过日子。高净值人群、从出口获利的这批人，在上半年还有着良好动力，到了下",
+    "id": "news-ai-1795191086000",
+    "title": " 东南亚AI中间商之死 ",
+    "link": "https://www.huxiu.com/article/4907326.html?f=rss",
+    "summary": "本文来自微信公众号： 版面之外 ，作者：画画 2015年，一家名叫7 Road International的公司在新加坡注册。 最初几年，它并不起眼。谁也不会想到，十年后，这家公司会成为英伟达先进AI芯片供应链上一个引人注目的名字。 2023年，公司更名为Megaspeed International，业务重心也开始转向云计算和AI基础设施。 随后，它的生意急速膨胀。 根据披露的贸易记录，2024年5月至2026年2月，Megaspeed相关业务进口英伟达产品的金额达到41.3亿美元。仅2025年11月，公司就进口了17454颗GB300，价值约7.87亿美元。 一家有游戏业务背景的公司，突然成为AI芯片贸易的重要玩家。 但这门生意很快引来了调查。 2025年6月，美国商务部调查人员进入Megaspeed在新加坡的业务现场。新加坡警方也介入调查，时任CEO黄乐被扣留护照，后来被禁止重新入境新加坡。 更引人注意的是，英伟达向美国政府提供的芯片库存数据，与外部贸易记录之间出现了约5万颗芯片的差额。 一家原本并不起眼的公司，为什么能在短时间内成为数十亿美元的AI基础设施玩家？又为什么卷入一场跨越美国、新加坡和马来西亚的调查？ 答案藏在一门新兴生意里。 一、GPU不够卖，算力中间商来了 AI热潮最先改变的，是GPU的分配方式。 当全球科技公司都在争抢英伟达芯片时，拥有采购渠道、资金和数据中",
     "publishedAt": "2026-11-20",
     "source": "虎嗅",
     "tags": [
@@ -322,11 +322,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-the-ai-hype-index-ai-is-everywhere-1795012964000",
-    "title": "The AI Hype Index: AI is everywhere",
-    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
-    "publishedAt": "2026-11-18",
+    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+    "publishedAt": "2026-11-19",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
@@ -334,10 +334,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-1795136161000",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "id": "news-chips-can-survive-the-space-environment-can-their-financing-1795196401000",
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
     "publishedAt": "2026-11-20",
     "source": "TechCrunch",
     "tags": [
@@ -347,17 +347,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-dol-flips-independent-contractor-switch-back-with-new-final--1795103820000",
-    "title": "DOL flips independent contractor switch back with new final rule",
-    "link": "https://www.hrdive.com/news/dol-flips-independent-contractor-switch-back-with-new-final-rule/875183/",
-    "summary": "Secretary of Labor Keith Sonderling said the agency&rsquo;s renewed &ldquo;economic reality&rdquo; test would provide greater clarity to both workers and employers.",
+    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
+    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
+    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
+    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -374,17 +374,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795183321000",
-    "title": " 全球最大“科技邪教”上市了 ",
-    "link": "https://www.huxiu.com/article/4907308.html?f=rss",
-    "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 灭霸上市了，在美国纳斯达克。 股票代码ANT，发行价83美元，盘中冲高115美元，市值一度突破两万亿。 什么概念呢？ 特朗普去年想要占领的加拿大，2025年GDP大约是2.32万亿美元。意思是灭霸上市冲高一瞬间，价值差不多够加拿大全国干一年。 灭霸学名Anthropic，普通人可能更熟悉它的产品：让无数从业者爱不得也恨不得的Claude。 封号风波让Anthropic在中国有个十分亲切的名字：A÷。用以对应这家公司对中国人民尖锐而又普遍的恶意。 11月19日，这家公司完成了人类历史上规模最大的IPO。华尔街起初很兴奋，纳指一度大涨超过2%；但到了收盘，ANT涨幅蒸发大半，纳指反而跌去2.25%。 兴奋剂保质期连8小时都没抗得过，就迅速回归了冷静。 至于我为什么叫它灭霸，了解Anthropic的人都知道，这家公司的创始人Dario Amodei，坚信AI可能毁灭人类，所以才毅然决然地踏上了创业之路，准备坚决把毁灭谁的权力牢牢掌握在自己的手中。 它和灭霸的共同之处在于，都坚信自己有责任，也有能力决定人类的未来。 而区别在于灭霸不需要求人，Anthropic不行。 因为拯救人类需要算力，算力需要芯片，芯片商不接受使命感付款。所以灭霸可以去无名星球种菜，Anthropic去了纳斯达克上市。 没办法，赛博上帝也要吃饭。 在替人类安排未来之前",
+    "id": "news-9-5-1795190989000",
+    "title": " 欧盟少了9.5亿件跨境包裹，国内卖家的长尾生意还能做吗？ ",
+    "link": "https://www.huxiu.com/article/4907325.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月19日，阿里巴巴发布三季度财报，国际电商业务收入为257.23亿元，同比下降8%。阿里将收入下降主要归因于欧盟海关改革对速卖通业务的影响。 三周前，欧盟委员会公布了一组更为直观的数据。今年三季度，欧盟进口低价值电商包裹约5.55亿件，去年同期约为15.07亿件，同比减少约63%。欧盟委员会发现，部分原本通过小包裹进入欧洲的商品，已经转为批量进口，在欧洲境内储存和分销。 今年7月1日起，欧盟取消了价值不超过150欧元的进口小包裹关税豁免，对包裹内不同海关税目类别的商品分别征收3欧元临时关税。11月1日起，欧盟又增加了2欧元的海关处理费。 过去十多年，中国跨境电商依靠制造业丰富的商品供给和低成本跨境物流，将原本无法进入海外零售渠道的大量小众商品卖给了全球消费者。 欧盟此次海关改革，正在改变这部分商品的经营条件。 01购物篮里的商品越多，关税可能越高 7月2日，一位在欧洲留学的消费者在Temu上购买了几个猫玩具和厨房用品，商品总价约为20欧元，结算时却产生了12欧元关税。 据《财经》报道，这笔订单中的商品分属四个海关税目，每个税目分别被征收了3欧元。 欧盟此次关税改革有一个值得关注的细节：3欧元关税按照商品的海关税目类别征收。 假设两个包裹的商品总价均为15欧元，重量相近，物流距离也相同。如果其中一个包裹装的是三件属于",
     "publishedAt": "2026-11-20",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
@@ -784,6 +783,43 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137848",
+    "title": "Engineering Manager, External Search & AI Optimization",
+    "company": "Airbnb",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Every day, hosts offer unique stays and experiences that make it possible fo"
+    ],
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848",
+    "postedAt": "2026-11-19",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137842",
+    "title": "Senior Sales Training and Enablement Manager",
+    "company": "Tebra",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our ap"
+    ],
+    "skills": [
+      "RAG",
+      "AWS"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
+    "postedAt": "2026-11-19",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137808",
     "title": "Software Engineer AI Coding Tasks",
     "company": "Askable",
@@ -1025,31 +1061,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
     "postedAt": "2026-10-30",
     "isNew": false
-  },
-  {
-    "id": "job-remoteok-1137527",
-    "title": "Senior Software Engineer II Applied AI",
-    "company": "Wrapbook",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "About Us: Wrapbook is the AI platform for production finance",
-      "We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting",
-      "Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Agent",
-      "AWS",
-      "LangChain"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-    "postedAt": "2026-10-15",
-    "isNew": false
   }
 ];
 
-export const dataFetchedAt = '2026-11-20T14:51:02.770Z';
+export const dataFetchedAt = '2026-11-20T23:38:26.430Z';
