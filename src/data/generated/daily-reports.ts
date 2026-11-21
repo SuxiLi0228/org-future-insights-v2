@@ -2,6 +2,141 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-22-auto",
+    "date": "2026-11-22",
+    "session": "auto",
+    "title": "2026-11-22 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-22-auto-1",
+        "emoji": "⚠️",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+        "detail": "来源: MIT Technology Review。A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      },
+      {
+        "id": "sig-2026-11-22-auto-2",
+        "emoji": "💡",
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "detail": "来源: TechCrunch。Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      {
+        "id": "sig-2026-11-22-auto-3",
+        "emoji": "⚠️",
+        "title": "Career development is the top reason people apply for and leave jobs",
+        "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+        "detail": "来源: HR Dive。New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/"
+      },
+      {
+        "id": "sig-2026-11-22-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：RL Post-Training in Diffusion Transformers Is Activation Ste...",
+        "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques",
+        "detail": "作者: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling。Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.26627v1"
+      },
+      {
+        "id": "sig-2026-11-22-auto-5",
+        "emoji": "💼",
+        "title": "Reddit 正在招募 Product Manager, AI Foundations",
+        "summary": "岗位类型：业务+AI 复合岗。Reddit is a community of communities",
+        "detail": "技能要求: 未标注。Reddit is a community of communities Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet Every day, Reddit users submit, vote, and comment on the topics they care most about With 100,000+ active communities and approximate",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Reddit"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Reddit",
+        "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-22-1",
+        "priority": "medium",
+        "action": "关注「The most misunderstood graph in AI just 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-22-2",
+        "priority": "low",
+        "action": "关注「Signal restricts mobile screenshots as i」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-22-3",
+        "priority": "medium",
+        "action": "关注「Career development is the top reason peo」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-22-4",
+        "priority": "medium",
+        "action": "关注「研究速递：RL Post-Training in Diffusion Trans」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-22-5",
+        "priority": "medium",
+        "action": "关注「Reddit 正在招募 Product Manager, AI Foundati」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Reddit"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 52,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-22 生成，聚合了 26 条新闻、20 篇论文、6 个岗位。",
+    "fetchWindow": "2026-11-22 00:00 - 2026-11-22 23:59"
+  },
+  {
     "id": "report-2026-11-21-auto",
     "date": "2026-11-21",
     "session": "auto",

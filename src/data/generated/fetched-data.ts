@@ -15,10 +15,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-startup-sues-apple-in-india-over-tap-to-share-contacts-featu-1795233600000",
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-    "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+    "id": "news-signal-restricts-mobile-screenshots-as-it-confronts-existent-1795297030000",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
     "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
@@ -54,10 +54,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-30-2026-30-ai-top20-1795269601000",
-    "title": " 30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓 ",
-    "link": "https://www.huxiu.com/article/4907094.html?f=rss",
-    "summary": "文 | 陈伊凡 图 | AI生成 又到揭晓榜单的时候了。今天，虎嗅正式发布&ldquo; 2026最有潜力30岁以下 AI 领军者&middot;TOP20榜单 &rdquo;。 如果你还记得去年的名单，应该对其中的 AI 原生应用、面向消费者的 AI 硬件和机器人项目有些印象。过去一年，上榜者陆续向我们更新了各自的进展。有些变化，也让我们重新回想起去年对端侧 AI 和推理方向的预判。 做这样一份榜单，最让人期待的就是这种后续：当初看好的方向，后来走到了哪一步？一个还很早期的想法，有没有变成真正能用的产品？我们很高兴，去年的预判在今年成为现实。 带着这些问题，我们又翻开了今年的候选名单。 应用和硬件依然有人做，但更多年轻人的目光落在了技术更深处。 他们关心推理引擎、世界模型，也想把 AI 带进实验室，让它参与科学发现。还有一些人，读博和创业几乎在同步进行，论文、产品和用户反馈都成了日常工作的一部分。 本届榜单评委之一的峰瑞资本投资合伙人陈石的观察是，今年比较明显的变化是 大家更关注技术落地后能否持续使用、持续改进。 这也给了我们一个看待榜单的角度。除了他们选择了什么热门方向，我们更想知道：他们准备解决哪个具体问题，又打算怎样一步步把它做出来？ 这些年轻人，正在往哪里走？ 先看看几位获得高票的上榜者。世界模型和模型自我改进，是今年名单中很显眼的两个方向。 刘芳甫创办的无限镜元（Mir",
+    "id": "news-ai-1795280869000",
+    "title": " 美国发审计牌照，中国改会计准则：AI 验收的两种活法 ",
+    "link": "https://www.huxiu.com/article/4907433.html?f=rss",
+    "summary": "本文来自微信公众号： 爱中 谭 AI干完活之后，谁来签字？ Anthropic的IPO、加州的AI审计法、中国的33号文，看起来是三件事。它们其实在回答同一个问题。 但“签字”不是一个生意。技术验收、合同验收、制度验收，三种签字，三种价格。 2026年11月，Anthropic登陆纳斯达克，IPO募资813亿美元，加同步私募共1073亿美元，成为美股历史上规模最大的IPO。 同一份招股书里，还有两个数字： ·三季度营收170亿美元，前三季度约332亿美元； ·企业客户净收入留存率约900%。 上市、估值、算力欠条，过去一周已经被写透了。但这些数字真正说明的，不是“AI很赚钱”，而是另一件事： 执行的价格还在跌，但“证明执行真的发生”的价格，在涨。 这句话听起来像常识。过去半年，执行降价、FDE退潮、验收稀缺，中文科技媒体已经讨论过很多轮。再写一遍“验收很重要”，没有增量。 真正值得写的是： 验收不是一个市场，是三个市场。三种验收，定价逻辑完全不同。 一、先纠正一个流行判断 很多人把“执行降价”直接推成“验收涨价”。这个推导少了一步。 执行确实在变便宜。两年前要专业团队做的代码、PPT、合同初稿、数据分析，现在一次API调用几美分。Anthropic自己披露，新一代模型的推理成本较上一代下降约四成。 但企业把AI装进业务流程，没有变便宜。 2026年11月，《每日经济新闻》报道： ·",
     "publishedAt": "2026-11-21",
     "source": "虎嗅",
     "tags": [
@@ -94,11 +94,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-1795208309000",
-    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-    "publishedAt": "2026-11-20",
+    "id": "news-a-tale-of-two-nvidias-1795295262000",
+    "title": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -134,19 +134,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795268570000",
-    "title": " “乡土中国要结束了”：故乡渐远，归处何寻？ ",
-    "link": "https://www.huxiu.com/article/4907423.html?f=rss",
-    "summary": "本文来自微信公众号： 知著网 ，作者：吃菜 「童年所见的方寸天地，包裹着丰腴的日常；长大后的“康庄大道”，却常常延伸出无边的焦虑。我们眷恋的，是安稳的节律、熟稔的人情，也是一种少有计较、不事竞逐的生活状态。」 &gt;&gt;&gt; “我们这一代刚好站在乡土中国的尾巴上，见过炊烟、田埂、麦浪、夏夜的虫鸣，记得老家的院子、村口的树、逢年过节的热闹。也清楚地看见村子空了，老人走了，习俗淡了，土地慢慢变成回忆。等我们这代人老去，扎根乡土长大的中国人便所剩无几了。” “那时候的社会风气、世俗观念、人际交往方式、服饰和现在完全不一样。过往的经济还不繁荣，没有智能手机、没有网购、没有短视频，没有这些但那时候依然很快乐。我时常怀念这种自然纯粹快乐，而现在这种情绪很难寻觅了。” “以后只能在书里看乡土中国了。” （“乡土中国快要结束了，就在我们这一代”） 近期，“乡土中国是否会在我们这一代结束”的话题在社交平台引发广泛讨论。散落在评论区的私人记忆，逐渐汇聚成一场关于“乡土消逝”的集体共鸣。 当土地不再是谋生的唯一依托，当人口开始跨越山海、四处迁徙，一种延续已久的生活方式也在悄然改变。所谓乡土中国的退场，指向的是一套以土地为根基、以血缘地缘为纽带、以伦理关系维系共同生活的社会结构正在经历深刻转型。 （博主@小等记录即将拆掉的旧房子） 村庄、老人、风物与习俗渐次远去。与乡土中国的告别，牵动着一代人的",
-    "publishedAt": "2026-11-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news-ip-1795260046000",
     "title": "并表和IP，不是腾讯音乐的长效药",
     "link": "https://www.tmtpost.com/8213524.html",
@@ -173,11 +160,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-daniel-ek-backs-ai-researcher-8217-s-fusion-power-startup-he-1795204421000",
-    "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "publishedAt": "2026-11-20",
+    "id": "news-trump-says-reported-fbi-database-hack-is-not-good-1795286693000",
+    "title": "Trump says reported FBI database hack is ‘not good’",
+    "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+    "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,20 +201,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795268065000",
-    "title": " 产品经理，被全部裁了 ",
-    "link": "https://www.huxiu.com/article/4907421.html?f=rss",
-    "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 前段时间，一位事业部负责人告诉我：他们事业部的产品经理，已经被全部裁掉了。 现在，售前经理直接给程序员提需求。程序员用AI画高保真原型，再和售前确认。 原来夹在中间的产品经理，没了。 老实说，这个公司的做法确实有点极端——并不是所有产品经理，都能被其他岗位替代。 但是它确实说明，一部分产品经理真的到了一个很危险的分水岭。 过去，在大部分企业，售前经理最接近客户，知道客户在抱怨什么，但是不懂怎么梳理软件需求； 程序员最清楚功能能不能做，但是不懂怎么设计产品。 所以，他们中间需要一个产品经理：把需求梳理成方案，再画成原型，最后交给研发。 现在好了，AI能帮售前把需求整理出来，也能帮程序员把原型画出来。 因为少了一个环节，原来需要好几轮沟通才能确定的产品设计，现在很快就可以达成共识。 说白了，售前经理和程序员，在AI的帮助下把产品经理的工作“瓜分”了。 而第一批受害者，就是那些长期只做需求传声筒的产品经理。 客户说一个需求，他就整理成一份PRD； 领导提一个想法，他就画几张原型； 研发问一个细节，就去找业务确认。 看上去每天都很忙，实际上就是个原型仔，从来没有做过真正的产品决策。 这类工作以前也有价值。 因为信息从客户传到研发，本来就会失真；产品经理至少能把话说清楚，把流程画明白。 但当AI可以把这些工作做得越来越好、越来越快，公司就会",
-    "publishedAt": "2026-11-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
     "id": "news-anthropic-ipo-ai-deepseek-1795259978000",
     "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
     "link": "https://www.tmtpost.com/8213535.html",
@@ -255,11 +228,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-1795203128000",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-    "publishedAt": "2026-11-20",
+    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1795280400000",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -295,19 +268,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795266697000",
-    "title": " 江苏，为什么没有新型研究型大学？ ",
-    "link": "https://www.huxiu.com/article/4907418.html?f=rss",
-    "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 最近，我看到这样一张图： 这是软科最新整理的全国新型研究型大学版图，可以看到，沿海省份几乎连成了一条完整的科创带：济南落子空天信息大学，青岛布局了康复大学，上海有上海科技大学，浙江坐拥西湖大学、钱塘大学与宁波东方理工大学，福建有福耀科技大学，广东更是一口气拿出了南方科技大学、深圳理工大学、深圳海洋大学、大湾区大学四所院校。 从北到南，“新型研究型大学”几乎成了沿海省份重点城市科创实力的标配，不少新晋强市都借着这股东风，拿到了高教升级的新门票。 可唯独夹在上海与浙江之间、高教家底素来厚实的江苏，在这幅红火的版图上留下的，是一块完整又扎眼的空白。 其实，我们确实大可不必把“新型研究型大学”捧上神坛。上期内容我就说过，十五年前喊着“去行政化、自授学位、回答钱学森之问”的南方科技大学，如今早已走完了正规化的全程：招生回到了以高考成绩为核心的631综合评价模式，治理结构回归党委领导下的校长负责制，当年石破天惊的试验性，大半都沉淀进了成熟的体制框架里。 “新型研究型大学”，好像也没那么新了 往前再翻七十年，道理也是一样的。1952年院系调整诞生的“八大学院”，高起点建校、瞄准国防前沿的哈军工，背靠中科院、主打新兴交叉学科的中科大，放在各自的时代里，又何尝不是当年的“新型研究型大学”？可几十年过去，它们都成了今天我们口中的“传统名校”。 “",
-    "publishedAt": "2026-11-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
     "id": "news--1795257135000",
     "title": "“奶茶第一股”的翻红账本",
     "link": "https://www.tmtpost.com/8212602.html",
@@ -334,11 +294,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-super-hot-rock-geothermal-could-end-data-center-energy-woes-1795199640000",
-    "title": "Super-hot rock geothermal could end data center energy woes",
-    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-    "publishedAt": "2026-11-20",
+    "id": "news-is-selling-an-ai-version-of-your-face-to-this-microdrama-sta-1795276800000",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -371,20 +331,6 @@ export const generatedNews: NewsItem[] = [
       "china",
       "ai",
       "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-ai-at-t-1795265906000",
-    "title": " Anthropic：躲不开“脑力通缩”，终局是“AI 版” 谷歌还是AT&T? ",
-    "link": "https://www.huxiu.com/article/4907417.html?f=rss",
-    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Anthropic：躲不开 “脑力通缩”，终局是 “AI 版” 谷歌还是 AT&T?》 在上篇《Anthropic：甩掉吞金兽，转身成房奴》，海豚君算了的账：近1万亿美元的算力合同压上资产负债表，收入要再涨4-5倍才扛得住。账算完了，两个更根本的问题浮了上来： 一是，这门生意凭什么守住“智能溢价”？token价格一年跌去七成，开源模型在身后猛追，Anthropic的\"智能溢价\"能持续吗？ 二是，收入的天花板在哪？一级市场5月给了9650亿美元估值，IPO预期一度喊到1.5万亿——这个价钱，买的是什么样的2028年？ 海豚君这篇以解答Anthropic的价值判断为主线，结合上述问题进一步讨论Anthropic以及AI的增长前景、竞争壁垒等。全文分为四个部分： 1、市场对Anthropic价值测算争议，核心差异是什么？ 2、AI大模型应用的蛋糕（TAM）有多大、如何看脑力通缩的影响？ 3、大模型会不会变成大宗商品？Anthropic的壁垒还能守多久？ 4、如何给价值测算？ 以下为详细分析 一、价值测算争议：核心差异点是什么？ 1.26–1.41万亿美元，是Anthropic IPO区间对应的完全稀释估值，约为10月ARR（810亿）的16–17倍。依照Barclays上周小会信息，以Q4季度收入进行年化后的770亿来算，甚至达",
-    "publishedAt": "2026-11-21",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
     ]
   },
   {
@@ -897,4 +843,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-21T14:08:08.376Z';
+export const dataFetchedAt = '2026-11-21T22:43:55.984Z';
