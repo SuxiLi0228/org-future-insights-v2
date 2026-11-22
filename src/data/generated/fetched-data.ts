@@ -28,25 +28,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
-    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
-    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-gpt-6-2-astra-16-gpt-6-astra-1795242959000",
-    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-    "link": "https://www.qbitai.com/2026/11/511779.html",
-    "summary": "还实现可变形物体操控全球首通",
-    "publishedAt": "2026-11-21",
+    "id": "news-nature-1795328507000",
+    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+    "link": "https://www.qbitai.com/2026/11/511904.html",
+    "summary": "用葡萄糖发电控制血糖。",
+    "publishedAt": "2026-11-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -55,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795322599000",
-    "title": " 被指操纵内存价格，韩美存储巨头一起甩锅中国 ",
-    "link": "https://www.huxiu.com/article/4907471.html?f=rss",
-    "summary": "本文来自微信公众号： 科工力量 ，作者：沈见微，原文标题：《太离谱！被指操纵内存价格，韩美存储巨头一起甩锅中国》 三星、SK海力士和美光，没能把一场针对它们的反垄断诉讼挡在法庭门外。近日，美国加利福尼亚北区联邦地区法院驳回了三家企业提出的撤诉申请。法官认为，17名消费者和小企业原告提供的事实，已经足以支持对三大存储巨头涉嫌串通限制内存供应、操纵价格的合理怀疑，案件仍需后续调查和审理。 值得注意的是，这场官司打到现在，原告和被告都把中国存储厂商拉进了争论。三家企业辩称，中国厂商正在扩大DDR4内存生产，给它们带来竞争压力，因此，逐步退出DDR4是正常的商业选择。 原告却认为，中国厂商当时所占的全球DRAM产能只有约5%，甚至更低，不足以解释三家企业几乎同时退出DDR4的决定。 更有意思的是，根据长鑫科技公开披露的材料，早在2024年底，长鑫就已经停止生产自有DDR4产品，开始向DDR5升级。而三星、SK海力士和美光，直到2025年4月至6月才相继宣布逐步退出主流DDR4生产。 三大巨头把退出DDR4的原因归于中国竞争，却没能解释清楚，为何在DDR4仍有大量市场需求、价格不断上涨的情况下，它们几乎同时选择收缩供应？ 退出DDR4，为什么成了串谋的证据？ 要理解诉讼双方的逻辑，首先要看争议的核心——DDR4内存。 近年来，速度更快、性能更好的DDR5开始普及，DDR4逐渐成为上一代产品。",
+    "id": "news-ai-1795355262000",
+    "title": " 湘雅二院的AI造假论文，正在大量涌现 ",
+    "link": "https://www.huxiu.com/article/4907539.html?f=rss",
+    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近湘雅二医院的一篇AI合成论文引发了广泛舆论批评，其中不仅有多处低级文字错误，示例图片还疑似是人工智能合成的。 在AI普及之后，学术造假愈发成为社会关注和担忧的焦点。但不得不说，直到今天，直到这次事件，舆论层面关于AI时代学术和科研何去何从的讨论深度仍是有所不足的。可以说，AI技术与生命科学研究间的复杂关系，正是AI时代科研领域问题的最突出展现。 首先当然要明确，直接用人工智能合成或是修改实验结果，比如说示例图片，这是百分之百违背学术道德的，是需要一棍子打死的，这次湘雅的涉事论文就是这种情况，明确属于学术造假。问题是现在的科研工作中，人工智能的参与有很多种复杂的形式，这些形式哪些是合理的，哪些是不合理的，很多时候并没有明确的界限。 比如说现在最常见的，让AI润色论文，使得论文在文字和格式上更符合论文的要求，这符合科研规范吗？不同机构和不同专家对这个问题的看法是不一样的，有的期刊欢迎类似的论文，有的期刊对此反对。 如果从科研的本质角度来说，笔者认为这种方式是应该支持的。科研论文对格式的要求确实有官僚主义的一面，但格式的要求也是有它的理由，通过特定的格式可以增加论文的可读性，当年苏联科学家很多研究被埋没，一方面是因为意识形态问题，另一方面就是因为苏联科学家在数学和物理之类的论文上太不遵守格式，可读性很差。 从提高科研效率的层面来说，这种",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1795322219000",
-    "title": "小鹏交出一份增长财报，盈利拐点为何还没来？",
-    "link": "https://www.tmtpost.com/8213686.html",
-    "summary": "小鹏三季度营收与交付量双创新高，但盈利压力犹存。海外扩张与物理AI商业化，能否成为新的增长动力？",
+    "id": "news-10-1795350909000",
+    "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+    "link": "https://www.tmtpost.com/8214070.html",
+    "summary": "定义权比技术本身更稀缺",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -107,24 +107,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
-    "title": "Career development is the top reason people apply for and leave jobs",
-    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
-    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
+    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
+    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-deepseek-v1-agent-1795242751000",
-    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-    "link": "https://www.qbitai.com/2026/11/511570.html",
-    "summary": "专为本地部署而生",
-    "publishedAt": "2026-11-21",
+    "id": "news-a-claude-12-940-1795327434000",
+    "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+    "link": "https://www.qbitai.com/2026/11/511870.html",
+    "summary": "",
+    "publishedAt": "2026-11-22",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795320973000",
-    "title": " 上市公司“不爱”理财了 ",
-    "link": "https://www.huxiu.com/article/4907467.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 今年前10个月，1151家上市公司合计认购各类理财产品额9024亿元，较去年同期减少约2576亿元，回落幅度超过20%；同期，参与理财的上市公司数量较去年同期减少137家。曾经深受上市公司喜爱的理财产品，为什么不香了？ 11月16日，吴超前往一家上市公司推介对公理财产品，但这家上市公司财务总监却告诉他：公司几乎没有闲置资金。 吴超在一家股份制银行任战略客户部业务总监。他的主要工作是向上市公司及大型企业提供涵盖信贷、投行、理财的一揽子对公金融服务方案。目前，他服务逾30家上市公司客户，涵盖新材料、计算机、能源、高端制造等众多领域。 吴超发现，今年以来，上市公司越来越不爱理财了。过去一个月，吴超采取多项举措吸引上市公司加码理财投资，但这些上市公司财务总监明确告知他，在自筹资金与自有资金持续减少的趋势下，未来他们的理财规模大概率“不增反降”。 公开数据也在一定程度上印证了这种变化。 Wind数据显示，今年前10个月，1151家上市公司合计认购各类理财产品（包括银行理财产品、存款类产品、券商理财产品等）金额9024亿元，较去年同期减少约2576亿元，回落幅度超过20%；同期，参与理财的上市公司数量较去年同期减少137家。 曾经深受上市公司喜爱的理财产品，为什么不香了？ 谁在“挤压”理财额度 吴超观察到，今年以来，上市公司认购的存款类理财产品金",
+    "id": "news-xx-1795354688000",
+    "title": " “XX时期”文学：人生还没大结局，我们却先起好了剧名 ",
+    "link": "https://www.huxiu.com/article/4907536.html?f=rss",
+    "summary": "本文来自微信公众号： 知著网 ，作者：楼玉 「故事能让零散的生活获得秩序，但生活不必因此承担成为一个好故事的义务。」 &gt;&gt;&gt; 恭喜你，你正在见证一篇爆款文章的诞生。 至少在阅读量跑出来之前，我们完全可以这么说。接下来，这篇推文有可能被广泛转发，也可能悄无声息地沉进海量公众号文章的信息流里。但就在发布的此时此刻，称它正处于“爆款前期”也没问题，对吧？这比承认它只是一篇前途未卜的普通文章更让人充满期待。 最近网友们也常常采用这样的说法，用“逆袭前夜”为当下命名。 (社交平台上的“xx时期”文案) 人们说自己正处于“哈利·波特寄宿时期”“甄嬛甘露寺时期”“朱元璋要饭时期”“范进没中举时期”......而这种“xx时期”的说法还可以不断更换主人公，跨入说唱圈、韩娱圈等等。从古装宫斗到魔法世界、从历史人物到文学经典，一幅跨越时空、地理、题材的人类“低谷期”图卷，正展现在我们眼前。 我们不妨称之为“xx时期”文学。 今年2月份，“奥德赛时期”一词经由社交媒体重新走红，这个借用古希腊史诗的概念，为年轻人漫长的迷茫与漂泊提供了一套富有浪漫色彩的解释：找不到方向不是失败而是探索，眼前的停滞也许只是英雄远征途中的短暂休整。 这样的说法曾给不少人带来安慰。但随着“奥德赛时期”频繁出现在文章、短视频与播客中，原本温柔的解释也逐渐招来了不同的声音。 （社交平台上的相关帖子） 有人借助它表达",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795316216000",
-    "title": "满产之下举债扩张，全球靶材第二的江丰电子赴港上市",
-    "link": "https://www.tmtpost.com/8213756.html",
-    "summary": "站上AI风口的靶材龙头，正面临扩张与资金的双重考验。",
+    "id": "news--1795349560000",
+    "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
+    "link": "https://www.tmtpost.com/8214063.html",
+    "summary": "易天股份加快布局数据中心供电和储能设备。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -200,10 +201,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-reddit-hy-1795242655000",
-    "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-    "link": "https://www.qbitai.com/2026/11/511757.html",
-    "summary": "还透露了不少训练背后的秘诀",
+    "id": "news-ai-mv-1795270449000",
+    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+    "link": "https://www.qbitai.com/2026/11/511855.html",
+    "summary": "",
     "publishedAt": "2026-11-21",
     "source": "量子位",
     "tags": [
@@ -213,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795320752000",
-    "title": " 少了短剧和达人，韩束还能打吗 ",
-    "link": "https://www.huxiu.com/article/4907465.html?f=rss",
-    "summary": "本文来自微信公众号： 经济观察报 ，作者：罗文利 过去几年，韩束依靠短剧、达人直播和抖音护肤套盒迅速扩大销售规模。现在，上美正在改变韩束的经营方式：一方面减少其对短剧和达人等外部流量的依赖，将更多精力转移至品牌自营账号；另一方面把韩束已经形成的品牌认知延伸至洗护、男士护理、彩妆等产品线，让这一主品牌承载更多品类。 11月18日，上美股份（02145.HK，下称“上美”）旗下品牌在2026年“双十一”电商大促期间更多销售数据被披露。华泰证券当日发布研报称，作为上美旗下核心品牌，韩束新拓展的洗护和男士护理品类销售总额均已超过1亿元。但在长期占据优势的内容电商平台，韩束的排名出现下滑。 化妆品行业媒体青眼情报数据统计，在10月15日至11月11日的“双十一”周期内，韩束在抖音个人护理品牌成交额榜中位列第八；而在去年，韩束排名第一。这也是继今年“618”之后，韩束再次在抖音大促榜单中失去榜首位置。 榜单排名变化之前，韩束的收入已经出现下滑。上美财报披露，2026年上半年，韩束收入为26.61亿元，同比下降20.4%，这是韩束自2023年进入高速增长阶段以来，首次出现半年收入同比下降。同期，上美实现收入37.57亿元，同比下降8.6%，归母净利润为1.08亿元，同比下降79.4%。韩束仍贡献了上美七成以上的收入。 过去几年，韩束依靠短剧、达人直播和抖音护肤套盒迅速扩大销售规模。现在，上美正在",
+    "id": "news--1795353717000",
+    "title": " 理想自研电池，不只是换一家供应商 ",
+    "link": "https://www.huxiu.com/article/4907534.html?f=rss",
+    "summary": "本文来自微信公众号： 师天浩观察 ，作者：001 理想i6年度改款，外界先看到的是780公里续航。市场更在意的，则是那块96千瓦时电池终于有了理想自己的名字。 10月28日，2026款理想i6上市，标配连山5C电池，后驱版CLTC综合续航780公里。在此之前的Power Day上，理想已经把电池、电驱、超充设备和超充网络放进了同一个“连山”体系。 放在几年前，一块电池是不是宁德时代出品，本身就是新车卖点。如今理想把供应商的名字往后放，把自己的名字放到台前。 这不是简单换供应商。理想仍然需要电池厂制造电芯，宁德时代也没有从所有现有车型中立即消失。变化在于，谁来决定电池怎么做、数据归谁、出了问题由谁解释。 这些具体问题，比“自研”两个字更能说明这次调整的分量。 01 先把电池的定义权拿回来 车企过去向电池厂采购，买到的通常是一套成熟方案。电芯、PACK和功率MAP由供应商提供，车企围绕这些参数做整车标定。这样做省时省力，局限也很明显：电芯配方、工艺参数和检测数据未必全部开放。理想管理层把它称作“灰盒子”。 连山的做法有所不同。理想主导电芯化学体系、BMS和PACK设计，要求合作伙伴共享数据、统一标准；欣旺达和中创新航负责电芯制造，PACK则由理想自研自制。 换句话说，理想没有变成一家全产业链电池公司。它更想做的是定下规格、掌握数据，再让不同供应商按同一套要求生产。 这项工作从2020年",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
@@ -226,10 +227,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-11-22-1795309568000",
-    "title": "Edge AI Daily 早报（11月22日）",
-    "link": "https://www.tmtpost.com/8213684.html",
-    "summary": "英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Anthropic黎曼猜想主张待验证，IPO定价为模型公司提供估值参照。Meta Muse用户破千万，AI脱衣应用引发参议员质询；特斯拉FSD V15与马斯克上海行受关注；GrapheneOS指控谷歌限制Android开源生态。",
+    "id": "news--1795345562000",
+    "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
+    "link": "https://www.tmtpost.com/8213860.html",
+    "summary": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -266,25 +267,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
-    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
-    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
-    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
+    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
-    "id": "news-vla-1795191926000",
-    "title": "米哈游发了个VLA论文",
-    "link": "https://www.qbitai.com/2026/11/511740.html",
-    "summary": "8B参数，50小时自主运行",
-    "publishedAt": "2026-11-20",
+    "id": "news--1795270199000",
+    "title": "中国计算，走出新的登峰之路",
+    "link": "https://www.qbitai.com/2026/11/511849.html",
+    "summary": "",
+    "publishedAt": "2026-11-21",
     "source": "量子位",
     "tags": [
       "china",
@@ -293,23 +294,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795320140000",
-    "title": " 四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记 ",
-    "link": "https://www.huxiu.com/article/4907464.html?f=rss",
-    "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记》 全篇阅读时间约3-4分钟 南瞻： “ 外国小商贩被限制，是中国商人在非洲走到第三阶段的标志，而法律往往是最后才到的那个信号 ” 如果只说一句：该来的都会来的 2025年10月，中肯环球贸易中心（后改名为：中肯商贸城）在Jamhuri Park马球场办开工奠基仪式，肯尼亚总统鲁托也到现场参加了仪式。我们看到总统府的通稿写着，项目预计总投资50亿先令，6.8万多平米，有展贸中心和五星级酒店，预计创造3000个岗位 实际上大家如果搜当时的新闻就能清晰的看到现场立着几块横幅，而其中一块印着总统的话，中小微企业是肯尼亚经济增长的引擎。下面一行英文介绍这个项目，也契合了这句话，表示项目将作为中国和肯尼亚产品的展贸中心，让中小微企业做生意更方便。但是不到一年，2026年9月2日，鲁托在总统府又见了一批本地中小微商户。这一次他的意思是，外国人别来摆摊开小店 这道指令后来怎么从五天限期改成90天补手续，周边国家各自立了哪些规矩，我们9月那篇文章已经谈到过（非洲多国限制外国人街边零售，这三年为什么突然扎堆|长颈鹿笔记），这里不再重复 这一篇是想探讨另一个问题：同一个总统，同样是为了中小微企业，一年前欢迎国人来建商贸城，一年后要关掉外国人开的小店。我们试图从这个角度出发，研究看看中国商人在肯尼亚的生",
+    "id": "news--1795352160000",
+    "title": " 大模型数据的隐秘江湖 ",
+    "link": "https://www.huxiu.com/article/4907530.html?f=rss",
+    "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，头图来自：AI生成 今年，一级市场最炙手可热的&ldquo;当红炸子鸡&rdquo;，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为&ldquo;外包&rdquo;的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容的AI应用创投圈，这些既能卡住智能演进咽喉、又能一上来就&ldquo;赚大钱&rdquo;的数据新贵，甚至高傲到连一线投资人的微信都未必回复。 这股浪潮比硅谷晚了半年左右传过来。在大洋彼岸，据外媒报道，Scale AI去年接受Meta投资时估值已超290亿美元；Mercor去年10月刚以100亿美元估值融完3.5亿美元，今年8月又被曝在谈200亿美元估值的新融资，英伟达也在考虑入股；而据《福布斯》报道，Surge AI早在2024年收入就已达约12亿美元。 支撑起这轮天价估值的，是水面下实打实的巨额采购账单。根据硅星人报道，如今一些带有真实用户行为轨迹的数据，一条报价可达1000至3000元人",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-80-185-1795309329000",
-    "title": "科伦系迎80后新帅，185亿“输液大王”扶子“上位”",
-    "link": "https://www.tmtpost.com/8213633.html",
-    "summary": "执掌科伦三十载后，身家185亿元的“输液大王”刘革新正式交棒给儿子刘思川。",
+    "id": "news--1795345557000",
+    "title": "从快手独立，可灵要回答的问题变了",
+    "link": "https://www.tmtpost.com/8213670.html",
+    "summary": "估值超过快手。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -345,25 +347,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
-    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
+    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
+    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
+    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
-    "id": "news-claude-34-lean-1795190859000",
-    "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-    "link": "https://www.qbitai.com/2026/11/511727.html",
+    "id": "news-8-kcl-agent-1795261211000",
+    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+    "link": "https://www.qbitai.com/2026/11/511841.html",
     "summary": "",
-    "publishedAt": "2026-11-20",
+    "publishedAt": "2026-11-21",
     "source": "量子位",
     "tags": [
       "china",
@@ -372,10 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795319288000",
-    "title": " 了不起的盖茨比 ",
-    "link": "https://www.huxiu.com/article/4907463.html?f=rss",
-    "summary": "本文来自微信公众号： 心智观察所 ，作者：心智观察所，原文标题：《起底Anthropic（三）了不起的盖茨比》 2006年6月，微软创始人比尔·盖茨与沃伦·巴菲特，相继宣布了投身慈善事业的重大决定，引发美国乃至全球社会广泛关注。 对一整代以其为偶像的新中产来说，相当于经历了一次前所未有的慈善意识启蒙。 桥水基金的办公室里，哈佛社会研究专业出身的年轻人霍尔顿·卡诺夫斯基，敏锐嗅到了一个施展抱负的全新空间。他先是和搭档埃利·哈森菲尔德在公司内部拉起业余慈善俱乐部，紧接着在2007年干脆全职创办了量化慈善评估机构GiveWell。 一年后，还在普林斯顿大学攻读物理学博士的达里奥·阿莫代伊，关注到了卡诺夫斯基的GiveWell博客，并对其试图量化慈善投入与产出的思路大感兴趣。次年，他便通过该机构捐出了1万美元，指定分配给非洲医疗公益组织，并开始向身边的亲朋好友热情推介GiveWell。 主流商业报道，总习惯把Anthropic讲成一个2021年才突然诞生的硅谷车库创业故事，仿佛阿莫代伊兄妹是因为在OpenAI内部与山姆·奥特曼发生了路线分歧，才临时起意拉起了一支安全派队伍。 这种叙事漏掉了最核心的组织中枢。 从2008年的博客结缘，到GiveWell迁至旧金山后成为合租好友，直至2016年前后仍同住于德拉诺大道的共享住宅，最终与达里奥妹妹结成夫妻。 卡诺夫斯基和达里奥这对组合，早在公司诞生",
+    "id": "news--1795351117000",
+    "title": " 黎曼猜想被证明之后 ",
+    "link": "https://www.huxiu.com/article/4907533.html?f=rss",
+    "summary": "本文来自微信公众号： 原理 ，作者：佐佑 11月20日，数学家Levent Alpöge在个人网站上公布了他与Claude共同找到的黎曼猜想证明。这道被誉为“数学圣杯”的难题，终于在提出167年后有了答案。同样令人意外的，还有验证的速度。证明公开后的第二天，Lean与Mathlib社区便发表联合声明，确认这份形式化证明通过了独立验证。 今年恰逢黎曼诞辰200周年。1859年，他在研究素数分布时提出，黎曼ζ函数的所有非平凡零点，都位于复平面上实部为二分之一的那条直线上。此后，数论学家证明了许多形如“如果黎曼猜想成立，那么……”的结论。凡是只差这一个前提的，如今都可以删去那个“如果”了。 黎曼认为所有非平凡零点都位于临界线处。 删去“如果”，是这份证明即刻带来的变化。至于其中哪些想法最重要，它们又能把数学家带到哪里，讨论才刚刚开始。 当突破接连传来 就在去年，王虹和Joshua Zahl证明了三维挂谷猜想。几代数学家在这道几何难题上努力了几十年。Quanta Magazine在报道这项成果时，把数学家Nets Katz的一句评价放进了标题：“百年一遇”。 到了今年秋天，最让人吃惊的却是重大数学消息传来的频率。9月，OpenAI公布了关于纳维–斯托克斯千禧年难题的证明。10月，它又集中公开了数百份数学手稿。这些手稿的检验进度各不相同，其中已有手稿撤回。到了11月，Alpöge与Claud",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
@@ -386,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795309326000",
-    "title": "可灵为何开始发力“图片”？",
-    "link": "https://www.tmtpost.com/8212803.html",
-    "summary": "两家头部AI公司几乎前后脚更新图像模型。",
+    "id": "news-50-6-1795345520000",
+    "title": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋",
+    "link": "https://www.tmtpost.com/8213631.html",
+    "summary": "南网储能数币结算落地，验证资金链新基建价值。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -782,6 +784,50 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137956",
+    "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
+    "company": "Airbnb",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Every day, hosts offer unique stays and experiences that make it possible fo"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "SQL",
+      "Deep Learning"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137955",
+    "title": "Staff Software Engineer, Agentic Tools",
+    "company": "Cribl",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Join the company thatâs building the telemetry infrastructure for the AI era",
+      "At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality",
+      "As the AI Platform for Te"
+    ],
+    "skills": [
+      "LLM",
+      "Agent",
+      "Kubernetes",
+      "AWS"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137939",
     "title": "Medical Science Liaison - Breast Oncology",
     "company": "Natera",
@@ -950,44 +996,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
     "postedAt": "2026-11-20",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137848",
-    "title": "Engineering Manager, External Search & AI Optimization",
-    "company": "Airbnb",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Every day, hosts offer unique stays and experiences that make it possible fo"
-    ],
-    "skills": [
-      "LLM",
-      "RAG",
-      "Agent"
-    ],
-    "location": "US Only",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848",
-    "postedAt": "2026-11-19",
-    "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137842",
-    "title": "Senior Sales Training and Enablement Manager",
-    "company": "Tebra",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our ap"
-    ],
-    "skills": [
-      "RAG",
-      "AWS"
-    ],
-    "location": "US Only",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
-    "postedAt": "2026-11-19",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-11-22T04:53:38.088Z';
+export const dataFetchedAt = '2026-11-22T13:58:45.432Z';
