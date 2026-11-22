@@ -15,90 +15,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-signal-restricts-mobile-screenshots-as-it-confronts-existent-1795297030000",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "publishedAt": "2026-11-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
-    "title": "Career development is the top reason people apply for and leave jobs",
-    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
-    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
-    "publishedAt": "2026-11-20",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news-nature-1795328507000",
-    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-    "link": "https://www.qbitai.com/2026/11/511904.html",
-    "summary": "用葡萄糖发电控制血糖。",
+    "id": "news-you-can-see-everything-has-made-more-than-100m-worldwide-1795383768000",
+    "title": "‘You Can See Everything’ has made more than $100M worldwide",
+    "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+    "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
     "publishedAt": "2026-11-22",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-1795355262000",
-    "title": " 湘雅二院的AI造假论文，正在大量涌现 ",
-    "link": "https://www.huxiu.com/article/4907539.html?f=rss",
-    "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近湘雅二医院的一篇AI合成论文引发了广泛舆论批评，其中不仅有多处低级文字错误，示例图片还疑似是人工智能合成的。 在AI普及之后，学术造假愈发成为社会关注和担忧的焦点。但不得不说，直到今天，直到这次事件，舆论层面关于AI时代学术和科研何去何从的讨论深度仍是有所不足的。可以说，AI技术与生命科学研究间的复杂关系，正是AI时代科研领域问题的最突出展现。 首先当然要明确，直接用人工智能合成或是修改实验结果，比如说示例图片，这是百分之百违背学术道德的，是需要一棍子打死的，这次湘雅的涉事论文就是这种情况，明确属于学术造假。问题是现在的科研工作中，人工智能的参与有很多种复杂的形式，这些形式哪些是合理的，哪些是不合理的，很多时候并没有明确的界限。 比如说现在最常见的，让AI润色论文，使得论文在文字和格式上更符合论文的要求，这符合科研规范吗？不同机构和不同专家对这个问题的看法是不一样的，有的期刊欢迎类似的论文，有的期刊对此反对。 如果从科研的本质角度来说，笔者认为这种方式是应该支持的。科研论文对格式的要求确实有官僚主义的一面，但格式的要求也是有它的理由，通过特定的格式可以增加论文的可读性，当年苏联科学家很多研究被埋没，一方面是因为意识形态问题，另一方面就是因为苏联科学家在数学和物理之类的论文上太不遵守格式，可读性很差。 从提高科研效率的层面来说，这种",
-    "publishedAt": "2026-11-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-10-1795350909000",
-    "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
-    "link": "https://www.tmtpost.com/8214070.html",
-    "summary": "定义权比技术本身更稀缺",
-    "publishedAt": "2026-11-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-inside-the-quest-to-make-our-minds-immortal-1795180200000",
-    "title": "The Download: inside the quest to make our minds immortal",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
-    "publishedAt": "2026-11-20",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-a-tale-of-two-nvidias-1795295262000",
-    "title": "A tale of two Nvidias",
-    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -121,6 +42,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news-nature-1795328507000",
+    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+    "link": "https://www.qbitai.com/2026/11/511904.html",
+    "summary": "用葡萄糖发电控制血糖。",
+    "publishedAt": "2026-11-22",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1795366752000",
+    "title": " 递归自我改进：AI 已经走到了哪一步？ ",
+    "link": "https://www.huxiu.com/article/4907560.html?f=rss",
+    "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 从Agent自我进化、模型权重重写，到AI研发体系与软硬件协同进化 全文2万字，RSI技术版图，截至2026年11月21日 -- 引言：AI自我改进，已经推进到了什么程度？ 一类研究开始让Agent修改自己的代码、工具、记忆和执行流程，并将有效改动保留到下一轮任务中。另一类研究则进一步触及模型本身：模型不再只是提出修改建议，而是尝试直接编辑自身的权重参数。与此同时，领先AI实验室开始让模型承担更多研发工作，从代码编写、实验监控延伸到训练流程和基础设施开发。AI甚至已经进入芯片设计和物理实验环节，参与改进支撑自身运行的计算系统。 这些进展分别发生在不同层面，目前值得关注的，已经不只是AI能不能修改自己，而是这些修改能否被继承，能否在后续任务中持续产生收益，以及改进后的系统能否进一步提高自己的改进能力，这几个条件决定了我们应该如何判断当前RSI的进展。 因此，本文从模型、Agent、研发体系和计算基础设施四个层面，梳理截至2026年11月21日已经出现的技术进展，并进一步分析这些路线是否开始连接，以及它们距离完整的递归自我改进还有多远。 01·从RI到RSI：什么才算真正的自我改进？ 一个边界：并不是所有由AI参与完成的自动化优化，都属于递归自我改进。 递归式改进（Recursive Improvement，RI），指系统能够不断",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1795358849000",
+    "title": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺",
+    "link": "https://www.tmtpost.com/8214170.html",
+    "summary": "独立第三方的个人养老金产品评价体系，正是破解这个难题、推动个人养老金市场良性发展的关键一环。",
+    "publishedAt": "2026-11-22",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-inside-the-quest-to-make-our-minds-immortal-1795180200000",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+    "publishedAt": "2026-11-20",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-dev-1795382047000",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "publishedAt": "2026-11-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+    "publishedAt": "2026-11-20",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
     "id": "news-a-claude-12-940-1795327434000",
     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
     "link": "https://www.qbitai.com/2026/11/511870.html",
@@ -134,10 +134,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-xx-1795354688000",
-    "title": " “XX时期”文学：人生还没大结局，我们却先起好了剧名 ",
-    "link": "https://www.huxiu.com/article/4907536.html?f=rss",
-    "summary": "本文来自微信公众号： 知著网 ，作者：楼玉 「故事能让零散的生活获得秩序，但生活不必因此承担成为一个好故事的义务。」 &gt;&gt;&gt; 恭喜你，你正在见证一篇爆款文章的诞生。 至少在阅读量跑出来之前，我们完全可以这么说。接下来，这篇推文有可能被广泛转发，也可能悄无声息地沉进海量公众号文章的信息流里。但就在发布的此时此刻，称它正处于“爆款前期”也没问题，对吧？这比承认它只是一篇前途未卜的普通文章更让人充满期待。 最近网友们也常常采用这样的说法，用“逆袭前夜”为当下命名。 (社交平台上的“xx时期”文案) 人们说自己正处于“哈利·波特寄宿时期”“甄嬛甘露寺时期”“朱元璋要饭时期”“范进没中举时期”......而这种“xx时期”的说法还可以不断更换主人公，跨入说唱圈、韩娱圈等等。从古装宫斗到魔法世界、从历史人物到文学经典，一幅跨越时空、地理、题材的人类“低谷期”图卷，正展现在我们眼前。 我们不妨称之为“xx时期”文学。 今年2月份，“奥德赛时期”一词经由社交媒体重新走红，这个借用古希腊史诗的概念，为年轻人漫长的迷茫与漂泊提供了一套富有浪漫色彩的解释：找不到方向不是失败而是探索，眼前的停滞也许只是英雄远征途中的短暂休整。 这样的说法曾给不少人带来安慰。但随着“奥德赛时期”频繁出现在文章、短视频与播客中，原本温柔的解释也逐渐招来了不同的声音。 （社交平台上的相关帖子） 有人借助它表达",
+    "id": "news--1795364338000",
+    "title": " 巴西的消费市场，有多少是靠信贷撑起来的？ ",
+    "link": "https://www.huxiu.com/article/4907558.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月17日，巴西瓦加斯基金会（FGV）公布了一项关于居民消费的研究。 从2023年12月到2026年6月，巴西家庭实际收入每增加100雷亚尔，月度债务偿还支出就增加58.4雷亚尔，其中约一半用于支付利息。 与此同时，巴西的失业率降至5.2%，接近2012年有统计记录以来的最低水平，居民消费增速却从2024年的5.1%降至2025年的1.3%。2026年第二季度，居民消费环比下降0.4%。blogdoibre.fgv.br 在此前的10月27日，巴西央行披露，截至2026年6月，巴西处于高风险负债状态的人数达到2030万，较五年前增长75%，占全国金融系统借款人的17%。 仅过去一年，这个群体就增加了约270万人。 巴西上一轮大规模居民债务恶化发生在2015年至2017年的经济衰退期间。疫情期间，部分家庭也因收入中断陷入财务困境。 这一次，巴西拥有相对强劲的就业市场，劳动者的实际收入还在增长，越来越多的家庭却陷入了债务困境。 问题出在了哪里？ 01工资涨了，钱去了哪里？ 巴西央行对高风险负债者制定了四项识别标准： 逾期还款超过90天；超过一半的月收入用于偿债；同时使用银行账户透支、无抵押个人贷款和信用卡循环信贷；偿还债务后的剩余收入低于贫困线。 满足其中两项，就会被纳入高风险负债者的统计范围。 所以，这2030万人中，",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
@@ -147,10 +147,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795349560000",
-    "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
-    "link": "https://www.tmtpost.com/8214063.html",
-    "summary": "易天股份加快布局数据中心供电和储能设备。",
+    "id": "news-2026-10-1795358836000",
+    "title": "银行理财五星管理人评级报告 （2026年10月）",
+    "link": "https://www.tmtpost.com/8214167.html",
+    "summary": "现金管理类五星理财子为：渝农商理财有限责任公司。本文将详细介绍各类五星理财产品，包括现金管理、固定收益、权益及混合类，帮助您更好地选择适合的投资方案。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -173,11 +173,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-trump-says-reported-fbi-database-hack-is-not-good-1795286693000",
-    "title": "Trump says reported FBI database hack is ‘not good’",
-    "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-    "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-    "publishedAt": "2026-11-21",
+    "id": "news-the-best-apps-to-make-new-friends-right-now-1795381200000",
+    "title": "The best apps to make new friends right now",
+    "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+    "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+    "publishedAt": "2026-11-22",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -214,23 +214,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795353717000",
-    "title": " 理想自研电池，不只是换一家供应商 ",
-    "link": "https://www.huxiu.com/article/4907534.html?f=rss",
-    "summary": "本文来自微信公众号： 师天浩观察 ，作者：001 理想i6年度改款，外界先看到的是780公里续航。市场更在意的，则是那块96千瓦时电池终于有了理想自己的名字。 10月28日，2026款理想i6上市，标配连山5C电池，后驱版CLTC综合续航780公里。在此之前的Power Day上，理想已经把电池、电驱、超充设备和超充网络放进了同一个“连山”体系。 放在几年前，一块电池是不是宁德时代出品，本身就是新车卖点。如今理想把供应商的名字往后放，把自己的名字放到台前。 这不是简单换供应商。理想仍然需要电池厂制造电芯，宁德时代也没有从所有现有车型中立即消失。变化在于，谁来决定电池怎么做、数据归谁、出了问题由谁解释。 这些具体问题，比“自研”两个字更能说明这次调整的分量。 01 先把电池的定义权拿回来 车企过去向电池厂采购，买到的通常是一套成熟方案。电芯、PACK和功率MAP由供应商提供，车企围绕这些参数做整车标定。这样做省时省力，局限也很明显：电芯配方、工艺参数和检测数据未必全部开放。理想管理层把它称作“灰盒子”。 连山的做法有所不同。理想主导电芯化学体系、BMS和PACK设计，要求合作伙伴共享数据、统一标准；欣旺达和中创新航负责电芯制造，PACK则由理想自研自制。 换句话说，理想没有变成一家全产业链电池公司。它更想做的是定下规格、掌握数据，再让不同供应商按同一套要求生产。 这项工作从2020年",
+    "id": "news-anthropic-ai-1795363904000",
+    "title": " Anthropic敲响AI泡沫的丧钟？ ",
+    "link": "https://www.huxiu.com/article/4907557.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：Irene Zhou 美东时间11月19日上午，纽约时代广场的纳斯达克大屏亮起“Anthropic”的字样，Claude的开发商正式挂牌，完成史上最大规模的IPO。 比起前来“朝圣”的投资者和科技从业者，场外的“反AI斗士”同样抓人眼球。几十名抗议者以“#StopTechOligarchs”（阻止科技寡头）为口号聚集在纳斯达克大楼外，开盘后堵住交易所入口。 笔者在现场看到，警方多次警告后，至少有5人被带上警车。旧金山的Anthropic总部外当天也有抗议。 他们的诉求有四点：担心AI泡沫破裂后由普通人的养老金买单；反对财富向科技寡头集中；关注数据中心的环境影响；要求AI放慢甚至“冻结”。 AI催生了一轮又一轮裁员，硅谷人心惶惶；但AI也在实实在在地推高生产率。一边是饭碗，一边是效率，这种撕裂注定让AI争议难以平息。 可以确定的是，随着Anthropic敲钟，AI泡沫被推至最高潮，随即轰然崩塌。Anthropic上市当日，纳指暴跌2%；次日再跌5%，费城半导体指数单日跌超10%。AI叙事接下来将如何演绎？ Anthropic的收割 上周三，Anthropic将A类普通股IPO定价为每股83美元，高出发行区间上限约6.4%，并将发行规模扩大约19%至9.8亿股，募资813亿美元，创下IPO募资纪录。按发行价计算，上市市值约1.1万亿美元，完全稀",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1795345562000",
-    "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
-    "link": "https://www.tmtpost.com/8213860.html",
-    "summary": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。",
+    "id": "news-11-20-1795358684000",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8214152.html",
+    "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -254,91 +255,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-here-are-the-top-ai-agents-that-can-live-in-your-text-messag-1795280400000",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "publishedAt": "2026-11-21",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
-    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
-    "publishedAt": "2026-11-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1795270199000",
-    "title": "中国计算，走出新的登峰之路",
-    "link": "https://www.qbitai.com/2026/11/511849.html",
-    "summary": "",
-    "publishedAt": "2026-11-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795352160000",
-    "title": " 大模型数据的隐秘江湖 ",
-    "link": "https://www.huxiu.com/article/4907530.html?f=rss",
-    "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，头图来自：AI生成 今年，一级市场最炙手可热的&ldquo;当红炸子鸡&rdquo;，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为&ldquo;外包&rdquo;的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容的AI应用创投圈，这些既能卡住智能演进咽喉、又能一上来就&ldquo;赚大钱&rdquo;的数据新贵，甚至高傲到连一线投资人的微信都未必回复。 这股浪潮比硅谷晚了半年左右传过来。在大洋彼岸，据外媒报道，Scale AI去年接受Meta投资时估值已超290亿美元；Mercor去年10月刚以100亿美元估值融完3.5亿美元，今年8月又被曝在谈200亿美元估值的新融资，英伟达也在考虑入股；而据《福布斯》报道，Surge AI早在2024年收入就已达约12亿美元。 支撑起这轮天价估值的，是水面下实打实的巨额采购账单。根据硅星人报道，如今一些带有真实用户行为轨迹的数据，一条报价可达1000至3000元人",
+    "id": "news-why-data-centers-are-at-the-center-of-the-big-tech-backlash-1795370923000",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
     "publishedAt": "2026-11-22",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1795345557000",
-    "title": "从快手独立，可灵要回答的问题变了",
-    "link": "https://www.tmtpost.com/8213670.html",
-    "summary": "估值超过快手。",
-    "publishedAt": "2026-11-22",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
-    "title": "What a billion-dollar deal says about the US battery market",
-    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
-    "publishedAt": "2026-11-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-is-selling-an-ai-version-of-your-face-to-this-microdrama-sta-1795276800000",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-    "publishedAt": "2026-11-21",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -361,6 +282,85 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
+    "id": "news--1795270199000",
+    "title": "中国计算，走出新的登峰之路",
+    "link": "https://www.qbitai.com/2026/11/511849.html",
+    "summary": "",
+    "publishedAt": "2026-11-21",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-4-1795363858000",
+    "title": " 无意识欺负自己的4个动作，你可能每天都在重复 ",
+    "link": "https://www.huxiu.com/article/4907556.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《无意识欺负自己的 4 个动作，你可能每天都在重复》 晚上十一点，手机拿在手上，停在一个对话界面。消息已经写好了，但迟迟发不出去。 你把那句话改了四五遍。加一个“哈哈”，又删掉。加一个“麻烦您”，又觉得太生疏。挑来挑去，也找不到一个合适的表情包。 最后，你把消息发出去了，然后盯着屏幕，看对方什么时候回。 三分钟没回复，你就开始想，是不是我这句话说得不合适。 二十分钟没回复，你已经在心里得出了一个结论：他可能觉得我也有点烦。 而真实的情况是，对方可能在洗澡，可能因为什么事没看手机，或者是已经睡觉了。 我要说的，不是“别多想”这种话。我想说，在这二十分钟里，没有任何人为难你。你的工作没有出问题，你的生活没有出问题，没有人对你说过一句难听的话。 但你确实挨了一顿“打”。打你的人，是你自己。而且你全程没有察觉到，自己在动手。 关于自己欺负自己这件事，我发现很多人都能意识到。他们会说，对，我就是这样。但下一句往往就是，那我该怎么办呢？ 我想谈谈我的答案。具体来说，我想谈四个动作。这是我观察到的，复现率最高的，四个“自己欺负自己”的动作。 你很可能会在里面认出自己。 第一个动作：预支责备。 事情还没开始，已经在演练失败了。 第一个动作，发生在“之前”。 明天要做一场汇报。今晚你就躺在床上，开始过流程。只不过",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-11-20-1795356723000",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
+    "link": "https://www.tmtpost.com/8214137.html",
+    "summary": "本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。",
+    "publishedAt": "2026-11-22",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+    "publishedAt": "2026-11-19",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-techcrunch-mobility-a-b-testing-robots-vs-humans-1795367160000",
+    "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+    "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-11-22",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+    "publishedAt": "2026-11-19",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
     "id": "news-8-kcl-agent-1795261211000",
     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
     "link": "https://www.qbitai.com/2026/11/511841.html",
@@ -374,10 +374,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795351117000",
-    "title": " 黎曼猜想被证明之后 ",
-    "link": "https://www.huxiu.com/article/4907533.html?f=rss",
-    "summary": "本文来自微信公众号： 原理 ，作者：佐佑 11月20日，数学家Levent Alpöge在个人网站上公布了他与Claude共同找到的黎曼猜想证明。这道被誉为“数学圣杯”的难题，终于在提出167年后有了答案。同样令人意外的，还有验证的速度。证明公开后的第二天，Lean与Mathlib社区便发表联合声明，确认这份形式化证明通过了独立验证。 今年恰逢黎曼诞辰200周年。1859年，他在研究素数分布时提出，黎曼ζ函数的所有非平凡零点，都位于复平面上实部为二分之一的那条直线上。此后，数论学家证明了许多形如“如果黎曼猜想成立，那么……”的结论。凡是只差这一个前提的，如今都可以删去那个“如果”了。 黎曼认为所有非平凡零点都位于临界线处。 删去“如果”，是这份证明即刻带来的变化。至于其中哪些想法最重要，它们又能把数学家带到哪里，讨论才刚刚开始。 当突破接连传来 就在去年，王虹和Joshua Zahl证明了三维挂谷猜想。几代数学家在这道几何难题上努力了几十年。Quanta Magazine在报道这项成果时，把数学家Nets Katz的一句评价放进了标题：“百年一遇”。 到了今年秋天，最让人吃惊的却是重大数学消息传来的频率。9月，OpenAI公布了关于纳维–斯托克斯千禧年难题的证明。10月，它又集中公开了数百份数学手稿。这些手稿的检验进度各不相同，其中已有手稿撤回。到了11月，Alpöge与Claud",
+    "id": "news-ai-1795363749000",
+    "title": " 当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界 ",
+    "link": "https://www.huxiu.com/article/4907555.html?f=rss",
+    "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及广义狄利克雷L函数的黎曼猜想。 这并不是一份写给人类看的传统论文。它是一座庞大到令人眩晕的数字迷宫：整套证明完全使用计算机形式化证明语言Lean编写，代码总量高达1700万行，分布在数万个独立文件中；而模型在底层生成的辅助推导文本，超过了惊人的25万页。 消息一出，麻省理工学院、滑铁卢大学以及Mathlib项目的研究团队等，立刻开始在专业服务器上编译运行这套代码。初步的自动化内核检查证实，该代码成功编译，并且在逻辑上完全自洽地推导自公理系统。尽管顶尖数论学者仍在严密审查，但有一点已经毋庸置疑：人类长久以来依靠大脑建立的抽象智识天花板，在机器的狂暴计算面前，被彻底捅穿了。 面对屏幕上瞬间涌出的海",
     "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
@@ -388,10 +388,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-50-6-1795345520000",
-    "title": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋",
-    "link": "https://www.tmtpost.com/8213631.html",
-    "summary": "南网储能数币结算落地，验证资金链新基建价值。",
+    "id": "news-ai-1795356585000",
+    "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+    "link": "https://www.tmtpost.com/8214129.html",
+    "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
     "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
@@ -999,4 +999,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-22T13:58:45.432Z';
+export const dataFetchedAt = '2026-11-22T23:10:16.659Z';

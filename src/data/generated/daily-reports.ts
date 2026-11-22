@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-23-auto",
+    "date": "2026-11-23",
+    "session": "auto",
+    "title": "2026-11-23 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-23-auto-1",
+        "emoji": "⚠️",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+        "detail": "来源: MIT Technology Review。A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      },
+      {
+        "id": "sig-2026-11-23-auto-2",
+        "emoji": "⚠️",
+        "title": "‘You Can See Everything’ has made more than $100M worldwide",
+        "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+        "detail": "来源: TechCrunch。The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+        "priority": "medium",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
+      },
+      {
+        "id": "sig-2026-11-23-auto-3",
+        "emoji": "🚨",
+        "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
+        "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+        "detail": "来源: HR Dive。We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+        "priority": "high",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/"
+      },
+      {
+        "id": "sig-2026-11-23-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：RL Post-Training in Diffusion Transformers Is Activation Ste...",
+        "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques",
+        "detail": "作者: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling。Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.26627v1"
+      },
+      {
+        "id": "sig-2026-11-23-auto-5",
+        "emoji": "💼",
+        "title": "Airbnb 正在招募 Staff Data Scientist - Martech Platform (ML/Algos)",
+        "summary": "岗位类型：业务+AI 复合岗。Every day, hosts offer unique stays and experiences that make it possible fo",
+        "detail": "技能要求: Python, LLM, RAG, Agent, SQL, Deep Learning。Every day, hosts offer unique stays and experiences that make it possible fo",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Airbnb"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Airbnb",
+        "link": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-23-1",
+        "priority": "medium",
+        "action": "关注「The most misunderstood graph in AI just 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-23-2",
+        "priority": "medium",
+        "action": "关注「‘You Can See Everything’ has made more t」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-23-3",
+        "priority": "high",
+        "action": "关注「Week in review: Do Monday check-ins prom」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-23-4",
+        "priority": "medium",
+        "action": "关注「研究速递：RL Post-Training in Diffusion Trans」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-23-5",
+        "priority": "medium",
+        "action": "关注「Airbnb 正在招募 Staff Data Scientist - Marte」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Airbnb"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-23 生成，聚合了 30 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-11-23 00:00 - 2026-11-23 23:59"
+  },
+  {
     "id": "report-2026-11-22-auto",
     "date": "2026-11-22",
     "session": "auto",
