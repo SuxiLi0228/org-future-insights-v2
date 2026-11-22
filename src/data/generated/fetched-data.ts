@@ -28,16 +28,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
-    "title": "Career development is the top reason people apply for and leave jobs",
-    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
-    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
+    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
+    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
@@ -54,25 +55,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1795280869000",
-    "title": " 美国发审计牌照，中国改会计准则：AI 验收的两种活法 ",
-    "link": "https://www.huxiu.com/article/4907433.html?f=rss",
-    "summary": "本文来自微信公众号： 爱中 谭 AI干完活之后，谁来签字？ Anthropic的IPO、加州的AI审计法、中国的33号文，看起来是三件事。它们其实在回答同一个问题。 但“签字”不是一个生意。技术验收、合同验收、制度验收，三种签字，三种价格。 2026年11月，Anthropic登陆纳斯达克，IPO募资813亿美元，加同步私募共1073亿美元，成为美股历史上规模最大的IPO。 同一份招股书里，还有两个数字： ·三季度营收170亿美元，前三季度约332亿美元； ·企业客户净收入留存率约900%。 上市、估值、算力欠条，过去一周已经被写透了。但这些数字真正说明的，不是“AI很赚钱”，而是另一件事： 执行的价格还在跌，但“证明执行真的发生”的价格，在涨。 这句话听起来像常识。过去半年，执行降价、FDE退潮、验收稀缺，中文科技媒体已经讨论过很多轮。再写一遍“验收很重要”，没有增量。 真正值得写的是： 验收不是一个市场，是三个市场。三种验收，定价逻辑完全不同。 一、先纠正一个流行判断 很多人把“执行降价”直接推成“验收涨价”。这个推导少了一步。 执行确实在变便宜。两年前要专业团队做的代码、PPT、合同初稿、数据分析，现在一次API调用几美分。Anthropic自己披露，新一代模型的推理成本较上一代下降约四成。 但企业把AI装进业务流程，没有变便宜。 2026年11月，《每日经济新闻》报道： ·",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795322599000",
+    "title": " 被指操纵内存价格，韩美存储巨头一起甩锅中国 ",
+    "link": "https://www.huxiu.com/article/4907471.html?f=rss",
+    "summary": "本文来自微信公众号： 科工力量 ，作者：沈见微，原文标题：《太离谱！被指操纵内存价格，韩美存储巨头一起甩锅中国》 三星、SK海力士和美光，没能把一场针对它们的反垄断诉讼挡在法庭门外。近日，美国加利福尼亚北区联邦地区法院驳回了三家企业提出的撤诉申请。法官认为，17名消费者和小企业原告提供的事实，已经足以支持对三大存储巨头涉嫌串通限制内存供应、操纵价格的合理怀疑，案件仍需后续调查和审理。 值得注意的是，这场官司打到现在，原告和被告都把中国存储厂商拉进了争论。三家企业辩称，中国厂商正在扩大DDR4内存生产，给它们带来竞争压力，因此，逐步退出DDR4是正常的商业选择。 原告却认为，中国厂商当时所占的全球DRAM产能只有约5%，甚至更低，不足以解释三家企业几乎同时退出DDR4的决定。 更有意思的是，根据长鑫科技公开披露的材料，早在2024年底，长鑫就已经停止生产自有DDR4产品，开始向DDR5升级。而三星、SK海力士和美光，直到2025年4月至6月才相继宣布逐步退出主流DDR4生产。 三大巨头把退出DDR4的原因归于中国竞争，却没能解释清楚，为何在DDR4仍有大量市场需求、价格不断上涨的情况下，它们几乎同时选择收缩供应？ 退出DDR4，为什么成了串谋的证据？ 要理解诉讼双方的逻辑，首先要看争议的核心——DDR4内存。 近年来，速度更快、性能更好的DDR5开始普及，DDR4逐渐成为上一代产品。",
+    "publishedAt": "2026-11-22",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology",
-      "ai"
+      "technology"
     ]
   },
   {
-    "id": "news-2026-ai-1795260100000",
-    "title": "2026年了，AI能有什么用？",
-    "link": "https://www.tmtpost.com/8213527.html",
-    "summary": "AI能批量生成，不等于能出彩",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795322219000",
+    "title": "小鹏交出一份增长财报，盈利拐点为何还没来？",
+    "link": "https://www.tmtpost.com/8213686.html",
+    "summary": "小鹏三季度营收与交付量双创新高，但盈利压力犹存。海外扩张与物理AI商业化，能否成为新的增长动力？",
+    "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -107,17 +107,16 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
-    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
-    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
@@ -134,11 +133,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ip-1795260046000",
-    "title": "并表和IP，不是腾讯音乐的长效药",
-    "link": "https://www.tmtpost.com/8213524.html",
-    "summary": "腾讯音乐越来越像个消费品公司。",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795320973000",
+    "title": " 上市公司“不爱”理财了 ",
+    "link": "https://www.huxiu.com/article/4907467.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 今年前10个月，1151家上市公司合计认购各类理财产品额9024亿元，较去年同期减少约2576亿元，回落幅度超过20%；同期，参与理财的上市公司数量较去年同期减少137家。曾经深受上市公司喜爱的理财产品，为什么不香了？ 11月16日，吴超前往一家上市公司推介对公理财产品，但这家上市公司财务总监却告诉他：公司几乎没有闲置资金。 吴超在一家股份制银行任战略客户部业务总监。他的主要工作是向上市公司及大型企业提供涵盖信贷、投行、理财的一揽子对公金融服务方案。目前，他服务逾30家上市公司客户，涵盖新材料、计算机、能源、高端制造等众多领域。 吴超发现，今年以来，上市公司越来越不爱理财了。过去一个月，吴超采取多项举措吸引上市公司加码理财投资，但这些上市公司财务总监明确告知他，在自筹资金与自有资金持续减少的趋势下，未来他们的理财规模大概率“不增反降”。 公开数据也在一定程度上印证了这种变化。 Wind数据显示，今年前10个月，1151家上市公司合计认购各类理财产品（包括银行理财产品、存款类产品、券商理财产品等）金额9024亿元，较去年同期减少约2576亿元，回落幅度超过20%；同期，参与理财的上市公司数量较去年同期减少137家。 曾经深受上市公司喜爱的理财产品，为什么不香了？ 谁在“挤压”理财额度 吴超观察到，今年以来，上市公司认购的存款类理财产品金",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795316216000",
+    "title": "满产之下举债扩张，全球靶材第二的江丰电子赴港上市",
+    "link": "https://www.tmtpost.com/8213756.html",
+    "summary": "站上AI风口的靶材龙头，正面临扩张与资金的双重考验。",
+    "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -201,11 +213,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-anthropic-ipo-ai-deepseek-1795259978000",
-    "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
-    "link": "https://www.tmtpost.com/8213535.html",
-    "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795320752000",
+    "title": " 少了短剧和达人，韩束还能打吗 ",
+    "link": "https://www.huxiu.com/article/4907465.html?f=rss",
+    "summary": "本文来自微信公众号： 经济观察报 ，作者：罗文利 过去几年，韩束依靠短剧、达人直播和抖音护肤套盒迅速扩大销售规模。现在，上美正在改变韩束的经营方式：一方面减少其对短剧和达人等外部流量的依赖，将更多精力转移至品牌自营账号；另一方面把韩束已经形成的品牌认知延伸至洗护、男士护理、彩妆等产品线，让这一主品牌承载更多品类。 11月18日，上美股份（02145.HK，下称“上美”）旗下品牌在2026年“双十一”电商大促期间更多销售数据被披露。华泰证券当日发布研报称，作为上美旗下核心品牌，韩束新拓展的洗护和男士护理品类销售总额均已超过1亿元。但在长期占据优势的内容电商平台，韩束的排名出现下滑。 化妆品行业媒体青眼情报数据统计，在10月15日至11月11日的“双十一”周期内，韩束在抖音个人护理品牌成交额榜中位列第八；而在去年，韩束排名第一。这也是继今年“618”之后，韩束再次在抖音大促榜单中失去榜首位置。 榜单排名变化之前，韩束的收入已经出现下滑。上美财报披露，2026年上半年，韩束收入为26.61亿元，同比下降20.4%，这是韩束自2023年进入高速增长阶段以来，首次出现半年收入同比下降。同期，上美实现收入37.57亿元，同比下降8.6%，归母净利润为1.08亿元，同比下降79.4%。韩束仍贡献了上美七成以上的收入。 过去几年，韩束依靠短剧、达人直播和抖音护肤套盒迅速扩大销售规模。现在，上美正在",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-11-22-1795309568000",
+    "title": "Edge AI Daily 早报（11月22日）",
+    "link": "https://www.tmtpost.com/8213684.html",
+    "summary": "英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Anthropic黎曼猜想主张待验证，IPO定价为模型公司提供估值参照。Meta Muse用户破千万，AI脱衣应用引发参议员质询；特斯拉FSD V15与马斯克上海行受关注；GrapheneOS指控谷歌限制Android开源生态。",
+    "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -241,17 +266,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
-    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
+    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
+    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
+    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "ai"
+      "organization"
     ]
   },
   {
@@ -268,11 +293,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795257135000",
-    "title": "“奶茶第一股”的翻红账本",
-    "link": "https://www.tmtpost.com/8212602.html",
-    "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795320140000",
+    "title": " 四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记 ",
+    "link": "https://www.huxiu.com/article/4907464.html?f=rss",
+    "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《四个阶段，中国商人在非洲走到了哪一步｜长颈鹿笔记》 全篇阅读时间约3-4分钟 南瞻： “ 外国小商贩被限制，是中国商人在非洲走到第三阶段的标志，而法律往往是最后才到的那个信号 ” 如果只说一句：该来的都会来的 2025年10月，中肯环球贸易中心（后改名为：中肯商贸城）在Jamhuri Park马球场办开工奠基仪式，肯尼亚总统鲁托也到现场参加了仪式。我们看到总统府的通稿写着，项目预计总投资50亿先令，6.8万多平米，有展贸中心和五星级酒店，预计创造3000个岗位 实际上大家如果搜当时的新闻就能清晰的看到现场立着几块横幅，而其中一块印着总统的话，中小微企业是肯尼亚经济增长的引擎。下面一行英文介绍这个项目，也契合了这句话，表示项目将作为中国和肯尼亚产品的展贸中心，让中小微企业做生意更方便。但是不到一年，2026年9月2日，鲁托在总统府又见了一批本地中小微商户。这一次他的意思是，外国人别来摆摊开小店 这道指令后来怎么从五天限期改成90天补手续，周边国家各自立了哪些规矩，我们9月那篇文章已经谈到过（非洲多国限制外国人街边零售，这三年为什么突然扎堆|长颈鹿笔记），这里不再重复 这一篇是想探讨另一个问题：同一个总统，同样是为了中小微企业，一年前欢迎国人来建商贸城，一年后要关掉外国人开的小店。我们试图从这个角度出发，研究看看中国商人在肯尼亚的生",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-80-185-1795309329000",
+    "title": "科伦系迎80后新帅，185亿“输液大王”扶子“上位”",
+    "link": "https://www.tmtpost.com/8213633.html",
+    "summary": "执掌科伦三十载后，身家185亿元的“输液大王”刘革新正式交棒给儿子刘思川。",
+    "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -307,17 +345,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
-    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
-    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
-    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
+    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
     "publishedAt": "2026-11-19",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
       "workforce",
-      "organization"
+      "ai"
     ]
   },
   {
@@ -334,11 +372,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-1795247705000",
-    "title": "马化腾第四次改腾讯AI航道",
-    "link": "https://www.tmtpost.com/8213477.html",
-    "summary": "老板得付第一责任",
-    "publishedAt": "2026-11-21",
+    "id": "news--1795319288000",
+    "title": " 了不起的盖茨比 ",
+    "link": "https://www.huxiu.com/article/4907463.html?f=rss",
+    "summary": "本文来自微信公众号： 心智观察所 ，作者：心智观察所，原文标题：《起底Anthropic（三）了不起的盖茨比》 2006年6月，微软创始人比尔·盖茨与沃伦·巴菲特，相继宣布了投身慈善事业的重大决定，引发美国乃至全球社会广泛关注。 对一整代以其为偶像的新中产来说，相当于经历了一次前所未有的慈善意识启蒙。 桥水基金的办公室里，哈佛社会研究专业出身的年轻人霍尔顿·卡诺夫斯基，敏锐嗅到了一个施展抱负的全新空间。他先是和搭档埃利·哈森菲尔德在公司内部拉起业余慈善俱乐部，紧接着在2007年干脆全职创办了量化慈善评估机构GiveWell。 一年后，还在普林斯顿大学攻读物理学博士的达里奥·阿莫代伊，关注到了卡诺夫斯基的GiveWell博客，并对其试图量化慈善投入与产出的思路大感兴趣。次年，他便通过该机构捐出了1万美元，指定分配给非洲医疗公益组织，并开始向身边的亲朋好友热情推介GiveWell。 主流商业报道，总习惯把Anthropic讲成一个2021年才突然诞生的硅谷车库创业故事，仿佛阿莫代伊兄妹是因为在OpenAI内部与山姆·奥特曼发生了路线分歧，才临时起意拉起了一支安全派队伍。 这种叙事漏掉了最核心的组织中枢。 从2008年的博客结缘，到GiveWell迁至旧金山后成为合租好友，直至2016年前后仍同住于德拉诺大道的共享住宅，最终与达里奥妹妹结成夫妻。 卡诺夫斯基和达里奥这对组合，早在公司诞生",
+    "publishedAt": "2026-11-22",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1795309326000",
+    "title": "可灵为何开始发力“图片”？",
+    "link": "https://www.tmtpost.com/8212803.html",
+    "summary": "两家头部AI公司几乎前后脚更新图像模型。",
+    "publishedAt": "2026-11-22",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -730,6 +782,121 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1137939",
+    "title": "Medical Science Liaison - Breast Oncology",
+    "company": "Natera",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "The Breast Oncology Medical Science Liaison (MSL) is a field-based scientific expert responsible for engaging healthcare providers, generating insights, and sup"
+    ],
+    "skills": [
+      "RAG",
+      "AWS"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-medical-science-liaison-breast-oncology-natera-1137939",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137932",
+    "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+    "company": "Reddit",
+    "category": "pure_ai",
+    "responsibilities": [
+      "Reddit is a community of communities",
+      "Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet",
+      "Every day, Reddit users submit, vote, and comment on the topics they care most about",
+      "With 100,000+ active communities and approximate"
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "RAG",
+      "Agent"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137926",
+    "title": "Staff Scientist, Machine Learning (Genomics)",
+    "company": "Natera",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Natera is seeking a highly motivated Staff Machine Learning Scientist to join our rapidly growing company",
+      "As a member of the Data Science research team you will participate in the design and prototyping of cutting edge algorithms for analysis of genetic and clinical data",
+      "You will perform data anal"
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "RAG",
+      "Agent",
+      "AWS",
+      "GCP",
+      "SQL",
+      "Deep Learning"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137924",
+    "title": "Senior Software Engineer II - Agentic Intelligence",
+    "company": "Honeycomb.io",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do",
+      "Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries"
+    ],
+    "skills": [
+      "LLM",
+      "RAG",
+      "Agent",
+      "Kubernetes",
+      "AWS"
+    ],
+    "location": "Canada Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1137917",
+    "title": "Senior Applied AI Engineer",
+    "company": "Wemolo",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Parking without barriers, tickets or queues",
+      "Wemolo builds its own hardware and its own AI to make that happen",
+      "More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock",
+      "As Senior Applie"
+    ],
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Agent",
+      "SQL"
+    ],
+    "location": "München",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
+    "postedAt": "2026-11-21",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1137893",
     "title": "Product Manager, AI Foundations",
     "company": "Reddit",
@@ -820,27 +987,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
     "postedAt": "2026-11-19",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137808",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well",
-      "US$400-US$1,000 per task, and you can do as many tasks as you want",
-      "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the m"
-    ],
-    "skills": [
-      "Python",
-      "Agent"
-    ],
-    "location": "Remote",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-    "postedAt": "2026-11-19",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-11-21T22:43:55.984Z';
+export const dataFetchedAt = '2026-11-22T04:53:38.088Z';
