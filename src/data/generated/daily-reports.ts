@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-24-auto",
+    "date": "2026-11-24",
+    "session": "auto",
+    "title": "2026-11-24 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-24-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+      },
+      {
+        "id": "sig-2026-11-24-auto-2",
+        "emoji": "💡",
+        "title": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "detail": "来源: TechCrunch。Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "organization",
+          "ecommerce"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      },
+      {
+        "id": "sig-2026-11-24-auto-3",
+        "emoji": "💡",
+        "title": "6th Circuit upholds jury win for Ohio State in sexual harassment lawsuit",
+        "summary": "While the plaintiff argued the district court incorrectly instructed the jury, the 6th Circuit said she&rsquo;d failed to raise these objections at the proper time.",
+        "detail": "来源: HR Dive。While the plaintiff argued the district court incorrectly instructed the jury, the 6th Circuit said she&rsquo;d failed to raise these objections at the proper time.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/6th-circuit-upholds-jury-win-for-ohio-state-in-sexual-harassment-lawsuit/875455/"
+      },
+      {
+        "id": "sig-2026-11-24-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Optimal Linear Regression Without a Variance...",
+        "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates ma",
+        "detail": "作者: Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett。We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction that converts finite-variance regression procedures into weak-moment procedures. The reduction is based on empirical residual pruning and is agnostic to the moment exponent, the noise scale, the covariance, and the design moment. Under a finite fourth-moment condition on the covariates, any finite-variance subroutine attaining the sub-Gaussian rate yields the following when the number of samples $n$ is above a suitably defined threshold: Without knowing $α$ or $ν$, we have with probability at least",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.27983v1"
+      },
+      {
+        "id": "sig-2026-11-24-auto-5",
+        "emoji": "💼",
+        "title": "GitLab 正在招募 Strategic Account Executive - Spain",
+        "summary": "岗位类型：业务+AI 复合岗。GitLab is the intelligent orchestration platform for DevSecOps",
+        "detail": "技能要求: Agent。GitLab is the intelligent orchestration platform for DevSecOps GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation More than 50 million registered users and more than 50% of the",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "GitLab"
+        ],
+        "sourceType": "tech",
+        "sourceName": "GitLab",
+        "link": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-24-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI’s judgment problem and 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-24-2",
+        "priority": "low",
+        "action": "关注「Amazon snaps up Decart&#8217;s AI optimi」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-24-3",
+        "priority": "low",
+        "action": "关注「6th Circuit upholds jury win for Ohio St」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-24-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Optimal Linear Regression Without a」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-24-5",
+        "priority": "medium",
+        "action": "关注「GitLab 正在招募 Strategic Account Executive 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "GitLab"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 59,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-24 生成，聚合了 29 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-11-24 00:00 - 2026-11-24 23:59"
+  },
+  {
     "id": "report-2026-11-23-auto",
     "date": "2026-11-23",
     "session": "auto",

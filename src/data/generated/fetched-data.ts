@@ -2,6 +2,168 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-the-download-ai-s-judgment-problem-and-carbon-removal-s-crop-1795439400000",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+    "publishedAt": "2026-11-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-amazon-snaps-up-decart-8217-s-ai-optimization-tech-for-7-5b--1795454063000",
+    "title": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "publishedAt": "2026-11-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai",
+      "organization",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "news-6th-circuit-upholds-jury-win-for-ohio-state-in-sexual-harass-1795449840000",
+    "title": "6th Circuit upholds jury win for Ohio State in sexual harassment lawsuit",
+    "link": "https://www.hrdive.com/news/6th-circuit-upholds-jury-win-for-ohio-state-in-sexual-harassment-lawsuit/875455/",
+    "summary": "While the plaintiff argued the district court incorrectly instructed the jury, the 6th Circuit said she&rsquo;d failed to raise these objections at the proper time.",
+    "publishedAt": "2026-11-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-1450-80-token-1795431675000",
+    "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+    "link": "https://www.qbitai.com/2026/11/512195.html",
+    "summary": "零Token成本，断网也能自由Vibe Coding",
+    "publishedAt": "2026-11-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795453072000",
+    "title": " 黄仁勋回来了，但英伟达多了几道规矩 ",
+    "link": "https://www.huxiu.com/article/4907863.html?f=rss",
+    "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《黄仁勋回来了，但英伟达多了几道规矩｜甲子光年》 英伟达需要黄仁勋，但同时也在管理这种依赖。 一纸公告，老黄回来了。 因为萨姆·奥尔特曼重返OpenAI珠玉在前，所以黄仁勋回归英伟达并非无迹可寻，况且特朗普、马斯克等人一直在向英伟达董事会喊话。 最近，就连网络流言都开始变得有板有眼，一位X用户发布一则消息，声称黄仁勋将于感恩节回归，英伟达厨房（食堂）正在为黄仁勋准备大蛋糕。 关于黄仁勋回归的网络流言，图片来源：一只大乌龟X账号 不过这位“英伟达厨房亲戚”现在可能要加急“制作蛋糕”了。美国当地时间11月23日，英伟达宣布，黄仁勋恢复担任总裁、CEO及董事会成员，即刻生效。距离他11月12日辞职，尚不足两周。 图片来源：英伟达官网 路透社将这一决定形容为一次“不同寻常的逆转”，并将其置于特朗普、员工、股东和商业伙伴持续支持黄仁勋回归的背景中。 此前，黄仁勋承认婚外情；围绕其相关交往的国家安全疑虑，则使这场风波越出了私人生活的范围。 短暂的离场，让外界看到了这位创始人与英伟达之间难以拆分的联系，但复职公告没有为整场风波画上句号。 董事会表示，在获得美国政府高层意见后，相信黄仁勋复职不构成国家安全风险。同时，公司独立调查仍将继续，也将继续配合政府调查与问询。 公告里还有两件事值得注意：已经成立的国家安全与出口管制监督委员会将继续履职；",
+    "publishedAt": "2026-11-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-alo-lululemon-1795430175000",
+    "title": "Alo中国首批线下体验店开业，想踩着Lululemon的流量上位",
+    "link": "https://www.tmtpost.com/8214477.html",
+    "summary": "卖万元手袋、贴奢侈品开业，Alo想做奢侈品生意。",
+    "publishedAt": "2026-11-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-why-using-rocks-for-carbon-removal-could-eventually-reduce-c-1795431600000",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;",
+    "publishedAt": "2026-11-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-meta-throws-out-its-net-zero-goal-its-competitors-should-be--1795454025000",
+    "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+    "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+    "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+    "publishedAt": "2026-11-23",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-manager-burnout-and-workforce-mental-health-in-2027-1795428000000",
+    "title": "AI, manager burnout and workforce mental health in 2027",
+    "link": "https://www.hrdive.com/spons/ai-manager-burnout-and-workforce-mental-health-in-2027/875210/",
+    "summary": "Two emerging trends for 2027: AI is changing work as manager strain takes a toll on teams.",
+    "publishedAt": "2026-11-23",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-xrogo-1795425008000",
+    "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+    "link": "https://www.qbitai.com/2026/11/512179.html",
+    "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+    "publishedAt": "2026-11-23",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795450794000",
+    "title": " 中国买家退出泰国楼市，俄罗斯人开始接盘了 ",
+    "link": "https://www.huxiu.com/article/4907860.html?f=rss",
+    "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月16日，泰国房地产信息中心（REIC）发布三季度数据。中国买家的公寓过户金额同比下降36.1%，俄罗斯买家增长49.6%，升至外国买家第二位。 01俄罗斯人接走了多少中国购买力？ 2019年，泰国汇商银行经济情报中心的统计显示，中国买家贡献了泰国外国公寓过户金额的58%。到2024年，这一比例降至39%，2025年进一步降至31%。 到了2026年第三季度，中国买家的公寓过户金额为29.2亿泰铢，同比减少约16.5亿泰铢，市场份额降至20.6%。同期，俄罗斯买家的过户金额增加约5.9亿泰铢，达到17.83亿泰铢。 从金额来看，俄罗斯买家的增量相当于中国买家降幅的36%。印度、美国和英国买家的增长，也在一定程度上填补了中国购买力收缩留下的市场空间。 然而，这些新增购买力流向了泰国的其他城市。 今年第三季度，中国买家在曼谷的公寓过户金额为19.66亿泰铢，同比下降37.5%。曼谷贡献了中国买家约七成的购房金额降幅。 俄罗斯人的购房资金则有90%集中在普吉岛和春武里府。同期，俄罗斯买家在普吉岛的公寓过户金额增长80.3%，达到10.91亿泰铢；在春武里府增长57.3%，达到5.14亿泰铢，超过中国买家，成为当地最大的外国购房群体。 两地合计贡献了约6.7亿泰铢的俄罗斯购房增量，超过俄罗斯买家在泰国全国范围内的净增量。俄",
+    "publishedAt": "2026-11-23",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-800-1000-ai-1795430171000",
+    "title": "800万对1000万，腾讯字节又在AI办公杠上了",
+    "link": "https://www.tmtpost.com/8214502.html",
+    "summary": "不是产品的胜负，而是存量生态的比拼",
+    "publishedAt": "2026-11-23",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-most-misunderstood-graph-in-ai-just-got-a-major-update-1795198515000",
     "title": "The most misunderstood graph in AI just got a major update",
     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -15,37 +177,39 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthr-1795397153000",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "id": "news-jensen-huang-isn-8217-t-out-of-the-woods-yet-1795453060000",
+    "title": "Jensen Huang isn&#8217;t out of the woods yet",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of Nvidia’s AI infrastructure, [&#8230;]",
     "publishedAt": "2026-11-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "organization"
     ]
   },
   {
-    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
-    "title": "Career development is the top reason people apply for and leave jobs",
-    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
-    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
+    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
+    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
+    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
+    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce"
+      "workforce",
+      "ai"
     ]
   },
   {
-    "id": "news-nature-1795328507000",
-    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-    "link": "https://www.qbitai.com/2026/11/511904.html",
-    "summary": "用葡萄糖发电控制血糖。",
-    "publishedAt": "2026-11-22",
+    "id": "news-ai-1795419721000",
+    "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "link": "https://www.qbitai.com/2026/11/512017.html",
+    "summary": "阿福大升级：让模型像医生一样思考",
+    "publishedAt": "2026-11-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +218,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-1795411670000",
-    "title": " 成为DeepSeek 的股东有什么好处 ",
-    "link": "https://www.huxiu.com/article/4907663.html?f=rss",
-    "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：Dax，原文标题：《成为 DeepSeek 的股东有什么好处｜巨潮》 宁德时代与吉利，在Deepseek的出资方名单里相遇了。 根据《科创板日报》11月19日的信息披露，DeepSeek持股平台杭州程砚新增的合伙人中，包括宁德时代相关基金与浙江吉利产投控股有限公司。 包括第一轮融资在内，此前媒体相关的披露当中，宁德时代、腾讯、网易、京东、吉利、美的、美团、小红书、中芯国际、兆易创新在内的大量产业资本都有参与。 毫不夸张地说，每一个上榜的企业都会迎来整个中国商界、投资界的羡慕眼神。 汽车、电池、通信、互联网、芯片。各个行业的大企业聚在一起，让这个案例超出了大模型公司本身的业务和投融资故事，更像是在未来进行某种长线布局。 宁德时代和吉利们在自己的专业领域里拥有产品、客户和工程体系，无法把类似的产业话语权（包括资本话语权）带进DeepSeek，但他们对此显然并不在意。 众所周知，DeepSeek是开源模型，使用这款大模型本就不需要先成为其母公司的股东。既然买服务就能接入模型，为什么还要投入一笔承担风险、等待退出的资本？获得资本增值并不是这个问题的全部答案，成为DeepSeek股东的好处，都藏在大模型公司未来长线的发展逻辑和进程之中。 入局 把DeepSeek的“大企业股东”拆开看，可以看到更多有分析价值的信息。 据《科创板日报》披",
+    "id": "news-17-60-1795450508000",
+    "title": " 17家车企迎公开大考，60天账期，为什么国家非管不可？ ",
+    "link": "https://www.huxiu.com/article/4907859.html?f=rss",
+    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展，原文标题：《17家车企迎公开大考！60天账期，为什么国家非管不可？》 2025年6月，比亚迪、一汽、上汽等17家重点车企陆续承诺，向供应商支付货款的账期不超过60天。 一年多后，这项承诺迎来了一次检验。 11月16日，中国汽车工业协会发布通知：受工信部委托，将对这17家车企向供应商支付货款的情况进行年度评估，结果向社会公开。 此前，工信部和市场监管总局已经明确：对应付账款规模大、故意拉长账期或被中小企业投诉较多的汽车企业，相关部门将联合约谈并督促整改。 车企什么时候给供应商付款，本来是双方做生意的事。为什么政府主管部门要委托行业协会每年评估，结果还要向社会公开？为什么还要对有关企业联合约谈、督促整改？ 这要从这些年汽车行业的价格战说起。 一辆车降价，整车厂的利润空间就会受到挤压。为了控制成本，一些车企向零部件供应商要求降价，同时延长付款时间。 车企降本让供应商们的利润不断下降，账期过长影响的不只是供应商的现金流，还会产生额外的资金成本。那一家企业如果利润越来越薄、资金长期被占用，维持生产已经不容易，又拿什么投入研发、改进技术？ 而且这个压力还会沿着产业链传下去。一级供应商被车企压价、延长账期，就可能向二级供应商提出同样的要求；二级供应商再传给更下游的企业。越往下，企业规模往往越小，议价和融资能力也越弱。 这就是汽车账期为什么会成为行",
     "publishedAt": "2026-11-23",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +231,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795411295000",
-    "title": "辰星技术：营收扩张难掩亏损，多款机器人曾亏本销售",
-    "link": "https://www.tmtpost.com/8209841.html",
-    "summary": "报告期内公司仅在2025年依靠大额政府补助实现短暂账面盈利，其余时段均为亏损；剔除股改因素影响后，这家成立十余载的企业经营层面累计亏损接近2.2亿元。",
+    "id": "news--1795430168000",
+    "title": "禾赛的第二增长曲线，瞄准的不仅仅是机器人",
+    "link": "https://www.tmtpost.com/8214576.html",
+    "summary": "Kosmo 的商业化空间，不可小觑。",
     "publishedAt": "2026-11-23",
     "source": "钛媒体",
     "tags": [
@@ -93,11 +257,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-you-can-see-everything-has-made-more-than-100m-worldwide-1795383768000",
-    "title": "‘You Can See Everything’ has made more than $100M worldwide",
-    "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-    "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-    "publishedAt": "2026-11-22",
+    "id": "news-trump-reportedly-called-into-nvidia-board-meeting-to-advocat-1795451950000",
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+    "publishedAt": "2026-11-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -106,25 +270,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-week-in-review-do-monday-check-ins-prompt-sunday-scaries-1795208880000",
-    "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
-    "link": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
-    "summary": "We&rsquo;re rounding up last week&rsquo;s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
+    "id": "news-career-development-is-the-top-reason-people-apply-for-and-le-1795208880000",
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "link": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+    "summary": "New studies from McLean &amp; Co. found that feedback from new employees aligned with responses from departing workers, indicating that career growth is a widespread priority.",
     "publishedAt": "2026-11-20",
     "source": "HR Dive",
     "tags": [
       "hr",
       "ai-hr",
-      "workforce",
-      "ai"
+      "workforce"
     ]
   },
   {
-    "id": "news-a-claude-12-940-1795327434000",
-    "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-    "link": "https://www.qbitai.com/2026/11/511870.html",
-    "summary": "",
-    "publishedAt": "2026-11-22",
+    "id": "news-agent-arxiv-936-12-1795417178000",
+    "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+    "link": "https://www.qbitai.com/2026/11/512004.html",
+    "summary": "一个完全由AI组成的科学家社会，是什么样？",
+    "publishedAt": "2026-11-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,10 +296,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-bioware-31-rpg-1795410600000",
-    "title": " Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？ ",
-    "link": "https://www.huxiu.com/article/4907544.html?f=rss",
-    "summary": "本文来自微信公众号： 游戏研究社 ，作者：楚云帆 当地时间2026年11月20日，BioWare迎来了它三十一年历史里的最后一个工作日。 BioWare开发总监Devon Gardner在社交媒体上敲下了简短的告别：“今天是BioWare的最后一天。沉重的一天，但庆幸走过这一程。” 在末尾，他引用了《质量效应3》终局里安德森上将在生命尽头对薛帕德说的那句台词——“You did good,son.” 结局在一个月前就已经注定。10月21日，彭博社率先披露EA将裁撤约400个岗位并关闭BioWare；EA也在当天公开的员工信里确认，下一部《质量效应》的早期开发终止，BioWare工作室及其在加拿大埃德蒙顿的办公场所将一同关闭。 消息传出，整个游戏行业一片惋惜。当天，游戏媒体Game Informer翻开了故纸堆，把一篇十年前杂志上的长文免费放到了互联网上，那篇文章题为《医生与巨龙（Doctors&amp;Dragons）》，是前执行主编Matt Bertz撰写的BioWare口述史，当期封面是整装待发的《质量效应：仙女座》。 埃德蒙顿本地报纸《Edmonton Journal》也从档案里找出了1996年8月8日刊发的初创专访：当时，三位年仅27岁的医生，还在等待第一款商业游戏正式上架。 2016年的那篇口述史诞生于BioWare仍然充满信心的年代，《龙腾世纪：审判》在两年前捧回TGA",
+    "id": "news--1795450282000",
+    "title": " 一种很常见，但副作用巨大的学生思维 ",
+    "link": "https://www.huxiu.com/article/4907858.html?f=rss",
+    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 一提到学生思维，很多人想到的，是“书生气”“不懂人情事故”“想法太天真”。但这些，都只是表面的症状，不是病因所在。 真正的学生思维，是一套在学校里被反复强化，最后固化下来的运作方式。它的内核，只有一句话： 我负责解题，不负责出题；我负责答对，不负责判断对错。 我把它叫做“解题者思维”。 它在成年人身上，通常表现为三种“等待”。 等题目。没有人给我明确的任务，我就不知道该做什么。手上一有空档就焦虑。这种焦虑的核心，不是因为闲，而是因为“没题可做”。 等标准。没有人明确告诉我什么算好，我就不知道做到哪里算完。于是要么做到60分就停，要么无限打磨，自己无法判断。 等许可。没有人说“你可以开始了”，我就不敢开始。想换行业、想做点新的尝试，都不敢下手。不是不知道怎么做，是在等一个人许可。 你看，这三种等待，都不是“懒”导致的。恰恰相反，持有这种思维的人，往往非常努力。 他们并非不肯跑。他们是在等一条画好了线的跑道。 解题思维的副作用，为什么巨大？ 有些时候，解题能力强，是一件好事。 但当它成为你唯一的能力结构时，会连锁性地带来一系列后果。而这些后果，都不是立刻发作的，它们有很长的潜伏期。 学校是一个非常特殊的环境。在那里，题目是给定的，范围是划好的，评分标准是公开的，反馈周期是固定的。 在这样的环境里，一个解题高手",
     "publishedAt": "2026-11-23",
     "source": "虎嗅",
     "tags": [
@@ -146,10 +309,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795411194000",
-    "title": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产",
-    "link": "https://www.tmtpost.com/8210963.html",
-    "summary": "报告期内，立景创新业绩高度依赖前五大客户，客户集中度逐年攀升，2025年、2026年1-5月前五大客户贡献超九成营业收入。其中客户A为核心收入来源，2025年贡献公司71%营收，自2024年起，公司至少六成收入均来自该客户，业务绑定程度极深。",
+    "id": "news-ai-1795430167000",
+    "title": "当AI开始自己上班",
+    "link": "https://www.tmtpost.com/8214386.html",
+    "summary": "商业化推倒的第一块多米诺骨牌",
     "publishedAt": "2026-11-23",
     "source": "钛媒体",
     "tags": [
@@ -172,11 +335,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-dev-1795382047000",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "publishedAt": "2026-11-22",
+    "id": "news-crowdstrike-to-acquire-zscaler-for-44-billion-1795450811000",
+    "title": "CrowdStrike to acquire Zscaler for $44 billion",
+    "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+    "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+    "publishedAt": "2026-11-23",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -200,11 +363,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-mv-1795270449000",
-    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-    "link": "https://www.qbitai.com/2026/11/511855.html",
-    "summary": "",
-    "publishedAt": "2026-11-21",
+    "id": "news-ai-1795406194000",
+    "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+    "link": "https://www.qbitai.com/2026/11/511998.html",
+    "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+    "publishedAt": "2026-11-23",
     "source": "量子位",
     "tags": [
       "china",
@@ -213,184 +376,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ipo-1795410099000",
-    "title": " 史上最大IPO 诞生，对奢侈品行业意味着什么？ ",
-    "link": "https://www.huxiu.com/article/4907658.html?f=rss",
-    "summary": "本文来自微信公众号： Vogue Business ，作者：Amy O’Brien，编辑：YilingPan，原文标题：《史上最大 IPO 诞生，对奢侈品行业意味着什么？》 Claude背后的美国人工智能公司Anthropic，已于上周四正式登陆纽约纳斯达克交易所，股票代码为ANT。 这场备受关注的上市，不仅刷新了全球IPO（首次公开募股）的纪录，也成为AI热潮的一次重要考验。当开发人工智能越来越烧钱、科技巨头之间的竞争越来越激烈，华尔街还愿意为AI的未来投入多少真金白银？ Anthropic最终将发行价定在每股83美元，高于此前预计的70至78美元区间。此次IPO共募集813亿美元，公司估值达到约1.5万亿美元，有望超越SpaceX今年6月的上市规模，成为有史以来规模最大的IPO。Anthropic已于2026年11月19日完成纳斯达克首秀，股价开盘上涨约34%，最终收于97.17美元，较83美元发行价上涨约17%。 2026年11月19日，Anthropic PBC联合创始人兼总裁Daniela Amodei（左中）、CEO Dario Amodei亮相纽约纳斯达克IPO现场。 图片来源：Michael Nagle/Bloomberg/Getty Images 风险投资公司Deep33管理合伙人Lior Prosor表示，Anthropic上市将成为观察投资者对AI行业信心的重",
-    "publishedAt": "2026-11-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-excel-personal-agent-1795404920000",
-    "title": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
-    "link": "https://www.tmtpost.com/8209450.html",
-    "summary": "老板对决策的要求比普通人更高，对知识库和决策质量的要求也更高，过去这样的需求长期存在但没有得到很好解决。",
-    "publishedAt": "2026-11-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-human-liver-has-been-kept-alive-outside-the-body-for-a-rec-1795089600000",
-    "title": "A human liver has been kept alive outside the body for a record seven weeks",
-    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
-    "publishedAt": "2026-11-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-the-best-apps-to-make-new-friends-right-now-1795381200000",
-    "title": "The best apps to make new friends right now",
-    "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-    "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-    "publishedAt": "2026-11-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-job-candidates-ai-usage-is-obscuring-their-viability-report--1795120560000",
-    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-    "link": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-    "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
-    "publishedAt": "2026-11-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news--1795270199000",
-    "title": "中国计算，走出新的登峰之路",
-    "link": "https://www.qbitai.com/2026/11/511849.html",
-    "summary": "",
-    "publishedAt": "2026-11-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-ai-vs-1795409706000",
-    "title": " AI抛售潮VS互联网泡沫，历史是否在重演？ ",
-    "link": "https://www.huxiu.com/article/4907657.html?f=rss",
-    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 历史或许不会完全重演，但最近几周席卷股市的人工智能抛售潮，至少在对部分美国科技股的冲击力度方面而言，与当年的互联网泡沫破裂已有惊人的相似。 而随着投资者持续担忧人工智能领域是否存在泡沫，一个值得探讨的问题是：泡沫曾经存在过吗？而它现在是否已经破灭？ 人们不妨可以将视线投向那些在互联网泡沫洗礼中幸存、且至今仍活跃在舞台中心的大型科技巨头。 而一组有意思的对比是，它们在2000年与2026年，从全年高点至年底(2026为迄今)的跌幅已几乎到了可以一较高下的程度： 英特尔：2000年从高点到年底跌幅60%，2026年从高点迄今跌幅64% 甲骨文：2000年从高点到年底跌幅37%，2026年从高点迄今跌幅60% 思科：2000年从高点到年底跌幅52%，2026年从高点迄今跌幅30% 美光：2000年从高点到年底跌幅63%，2026年从高点迄今跌幅53% 高通：2000年从高点到年底跌幅54%，2026年从高点迄今跌幅42% 希捷科技：2000年从高点到年底跌幅37%，2026年从高点迄今跌幅60%(已权衡分拆因素) 英伟达：2000年从高点到年底跌幅62%，2026年从高点迄今跌幅48% 在这些巨头中，有些跌幅几乎如出一辙，有些在今年更为惨重，有些则略好于当年。但如果不看背景时间，人们仅凭这些数据，其实已很难斩钉截铁地判定，究竟哪一次才是真正意义",
-    "publishedAt": "2026-11-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-tob-1795404793000",
-    "title": "硅基员工元年，投入要向组织与流程倾斜丨ToB产业观察",
-    "link": "https://www.tmtpost.com/8214320.html",
-    "summary": "AI进入企业的第一课，不是学会干活，而是学会按企业和当地法规的要求干活。",
-    "publishedAt": "2026-11-23",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-what-a-billion-dollar-deal-says-about-the-us-battery-market-1795086000000",
-    "title": "What a billion-dollar deal says about the US battery market",
-    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
-    "publishedAt": "2026-11-19",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-why-data-centers-are-at-the-center-of-the-big-tech-backlash-1795370923000",
-    "title": "Why data centers are at the center of the Big Tech backlash",
-    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-    "publishedAt": "2026-11-22",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-employers-should-prepare-for-a-labor-market-shake-up-in-2027-1795120560000",
-    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
-    "link": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
-    "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
-    "publishedAt": "2026-11-19",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "organization"
-    ]
-  },
-  {
-    "id": "news-8-kcl-agent-1795261211000",
-    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-    "link": "https://www.qbitai.com/2026/11/511841.html",
-    "summary": "",
-    "publishedAt": "2026-11-21",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795409698000",
-    "title": " 国家可以像“产品”一样运营吗？ ",
-    "link": "https://www.huxiu.com/article/4907656.html?f=rss",
-    "summary": "本文来自微信公众号： 数旗智酷 ，作者：唐鹏 “产品思维”可以说是互联网叙事的“元叙事”，它提倡以产品视角来设计互联网服务——它必须能解决某个问题，必须具有用户忠诚度，可以不断地优化和升级，它还可以不断吸引新的用户加入。这也是互联网服务开发和存在的意义。相同的是，现代国家政府都会通过生产不同优势的公共产品来证明其能力与合法性，比如日本的“医疗”、英国的“教育”、美国的“自由”、新加坡的“公共服务”以及中国的“安全”。那么国家本身可不可以像“产品”一样运营呢？ 事实上，“将国家当成产品一样运营”，这并不是一句只属于硅谷“科技爱国主义者”的异想天开，也不是一种学院派研究者的书生意气。在互联网发展的三十年里，“国家即产品”的思维早已渗透在智慧城市、数字政府的行为语言里。比如，它们将城市称为“巨复杂系统”，将政府称为“平台”，将社会问题称为“场景”，将公众称为“用户”，将政策称为“服务”。将一种复杂的政治理论具象化为一种可管理、可控制以及可优化的对象，似乎才符合数字时代的基本处世原则。 来自政府机构的数据原教旨主义者在技术厂商对未来的选择性描述之下，它们似乎越来越相信，只要数据采集足够完整、算法模型足够先进、组织执行足够坚决，国家就能够像一款产品那样，每一天都可以被监测、优化和迭代到最优状态。而这种“优化”是无止境的。所以，“有为政府”的潜台词实质是——我们必须做点什么，才能证明自己拥有足",
-    "publishedAt": "2026-11-23",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-fintech-chatgpt-wallet-1795403036000",
-    "title": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线",
-    "link": "https://www.tmtpost.com/8214380.html",
-    "summary": "金融监管总局两司局“一把手”对调；互金协会通报两款银行App；商业银行总资产突破500万亿元；前三季度消费贷ABS同比下降18.85%；华夏银行董事会“换血”；平安系险资持有主动ETF近45%；云南省级农商行获批筹建；黔东南农商银行获批开业；平安银行400亿元二级资本债发行完毕；海南银行获批定向增资扩股；永诚财险总裁、副总裁同日被免职；蓝海银行回应3.30亿元助贷争议；广州拉卡拉小贷获准注销小贷资质；Visa携手连连数字完成亚太首笔基于支付标记的B2B智能体真实交易；ChatGPT Wallet上线；Apple Pay与Wallet业务线换帅；美国多家银行突发系统异常。",
+    "id": "news-ai-1795430165000",
+    "title": "当AI接管网购，年轻人迷上外包砍价",
+    "link": "https://www.tmtpost.com/8214748.html",
+    "summary": "未来的购物入口藏在对话框里",
     "publishedAt": "2026-11-23",
     "source": "钛媒体",
     "tags": [
@@ -832,24 +821,6 @@ export const generatedJobs: JobPosting[] = [
     "isNew": true
   },
   {
-    "id": "job-remoteok-1137939",
-    "title": "Medical Science Liaison - Breast Oncology",
-    "company": "Natera",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "The Breast Oncology Medical Science Liaison (MSL) is a field-based scientific expert responsible for engaging healthcare providers, generating insights, and sup"
-    ],
-    "skills": [
-      "RAG",
-      "AWS"
-    ],
-    "location": "US Only",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-medical-science-liaison-breast-oncology-natera-1137939",
-    "postedAt": "2026-11-21",
-    "isNew": true
-  },
-  {
     "id": "job-remoteok-1137932",
     "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
     "company": "Reddit",
@@ -1003,4 +974,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-23T05:34:19.294Z';
+export const dataFetchedAt = '2026-11-23T17:16:20.776Z';
