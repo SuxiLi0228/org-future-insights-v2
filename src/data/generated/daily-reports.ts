@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-25-auto",
+    "date": "2026-11-25",
+    "session": "auto",
+    "title": "2026-11-25 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-25-auto-1",
+        "emoji": "💡",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+        "detail": "来源: MIT Technology Review。Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+      },
+      {
+        "id": "sig-2026-11-25-auto-2",
+        "emoji": "💡",
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "detail": "来源: TechCrunch。The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+      },
+      {
+        "id": "sig-2026-11-25-auto-3",
+        "emoji": "⚠️",
+        "title": "Court blocks DHS policy limiting international student training opportunities",
+        "summary": "The higher education groups suing to strike down new limits on the Curricular Practical Training program are likely to succeed, a federal judge ruled.&nbsp;",
+        "detail": "来源: HR Dive。The higher education groups suing to strike down new limits on the Curricular Practical Training program are likely to succeed, a federal judge ruled.&nbsp;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875568/"
+      },
+      {
+        "id": "sig-2026-11-25-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Pruning Autonomous Driving VLAs: What to Preserve for Reason...",
+        "summary": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str",
+        "detail": "作者: Seongchan Kim, Soowon Son, Sangoh Kim。Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory objectives assign different importance to the same vision-language model (VLM) structures. In the action expert, MLP channels exhibit more stable importance rankings across denoising steps than query heads, and a small fraction of channels accounts for most of the measured importance. Based on these findings, we propose MoOP, which combines importance ranks from both objectives for VLM pruning and ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.31240v1"
+      },
+      {
+        "id": "sig-2026-11-25-auto-5",
+        "emoji": "💼",
+        "title": "Clover Health 正在招募 Senior Software Engineer, Agentic AI",
+        "summary": "岗位类型：业务+AI 复合岗。Clover is reinventing health insurance by working to keep people healthier",
+        "detail": "技能要求: Python, LLM, RAG, Agent, AWS, GCP, SQL。Clover is reinventing health insurance by working to keep people healthier We value diversity in backgrounds and experiences Healthcare is a universal concern, and we need people from all backgrounds and walks of life to help build the future of healthcare Clover's engineering team is empathetic,",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Clover Health"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Clover Health",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-25-1",
+        "priority": "low",
+        "action": "关注「Raising the stakes for enterprise networ」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-25-2",
+        "priority": "low",
+        "action": "关注「Tidal to ban and remove millions of AI-g」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-25-3",
+        "priority": "medium",
+        "action": "关注「Court blocks DHS policy limiting interna」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-25-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Pruning Autonomous Driving VLAs: Wh」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-25-5",
+        "priority": "medium",
+        "action": "关注「Clover Health 正在招募 Senior Software Engin」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Clover Health"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 60,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-25 生成，聚合了 27 条新闻、20 篇论文、13 个岗位。",
+    "fetchWindow": "2026-11-25 00:00 - 2026-11-25 23:59"
+  },
+  {
     "id": "report-2026-11-24-auto",
     "date": "2026-11-24",
     "session": "auto",
