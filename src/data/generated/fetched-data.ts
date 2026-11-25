@@ -14,11 +14,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-a-1795538760000",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-    "publishedAt": "2026-11-24",
+    "id": "news-yale-8217-s-sonnenfeld-nvidia-is-a-8216-detriment-8217-to-u--1795565522000",
+    "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to U.S. industrial might — not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+    "publishedAt": "2026-11-25",
     "source": "TechCrunch",
     "tags": [
       "technology",
@@ -27,10 +27,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-court-blocks-dhs-policy-limiting-international-student-train-1795535400000",
-    "title": "Court blocks DHS policy limiting international student training opportunities",
-    "link": "https://www.hrdive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875568/",
-    "summary": "The higher education groups suing to strike down new limits on the Curricular Practical Training program are likely to succeed, a federal judge ruled.&nbsp;",
+    "id": "news-former-uber-worker-alleges-disability-bias-after-termination-1795550640000",
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "link": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/",
+    "summary": "The worker was fired a couple weeks into her new arrangement, but Uber relied on her not following a policy she&rsquo;d never been trained on, she said.",
     "publishedAt": "2026-11-24",
     "source": "HR Dive",
     "tags": [
@@ -54,23 +54,24 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795536637000",
-    "title": " 中国食品品牌的“第二次出海” ",
-    "link": "https://www.huxiu.com/article/4908185.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：许恒 食品，其实是中国走向世界最早的贸易与文化载体。 古代丝绸之路上驼铃悠扬、千帆竞发，茶叶、生姜、桃李等中国风物沿着商路向西传播，制糖技艺与饮馔文化也随之远播南洋、中东与欧洲。 到了近代，有文字记载的第一家海外中餐馆在1850年的美国诞生，此后百余年间，有华人的地方就有中餐，红金的招牌下氤氲着陌生又诱人的锅气，那是世界认识中国的第一张味觉名片。 时至今天，中华饮食文化的全球热度仍在持续攀升：中式新茶饮开在全球各大都市的繁华地段，火锅、麻辣烫俘获各国食客味蕾，甚至#BecomingChinese（像中国人一样生活）词条下喝粥饮茶等中式养生饮食一次次在全球社媒上引发讨论…… 可以说，食品中企的出海史，几乎和中华文明的对外交流史一样悠长。 但在文化热度高涨的背后，我们需要冷静追问：当食品出海从自发的文化传播，进入产业化、品牌化的企业竞技阶段，真正以中国食品企业为主体的全球化，做得足够好吗？ 中国食品走出去和全球化，不是一回事 2026年《Food Engineering》全球食品饮料100强。中国企业上榜6家，万洲国际位列第16，是排名最高的中国企业，其余上榜的还有贵州茅台、伊利、蒙牛、统一和五粮液。6家里有2家是白酒企业，即在白酒之外上榜的中国食品饮料企业，只有4家。 也许会有人说这个比例本身说明不了太多——食品本来就是分散行业，全球前十加起",
-    "publishedAt": "2026-11-24",
+    "id": "news-ai-1795570009000",
+    "title": " 黄仁勋刚回归，AI信贷警报狂响 ",
+    "link": "https://www.huxiu.com/article/4908223.html?f=rss",
+    "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 随着黄仁勋重返英伟达执掌帅印，人工智能领域的信贷市场再度泛起剧烈波澜。 周二，就在华尔街开始重新评估黄仁勋的归来，对持续资助AI热潮究竟意味着什么之际，市场对支撑AI基建扩张所背负的庞大债务规模的担忧再一次显著升温。 黄仁勋一直被视作AI行业最核心的出资方之一，这甚至令英伟达一度有着“AI央行”的美誉。黄仁勋主导了英伟达与CoreWeave等新云算力厂商的多起核心交易，通过由英伟达部分担保等方式支持其采购计算芯片。而如今，他的回归不仅重新燃起了市场对英伟达可能延续AI芯片与数据中心“循环融资”模式的预期，进而也引发了固收与信用债投资者的警惕。 行情数据显示，已成为AI债务担忧典型代表的英伟达“亲儿子”CoreWeave，其股价周二再度下挫近12%。而更令人胆寒的一组数字是，其2031年到期、票息9.75%的债券收益率一举突破了17%。债券收益率与价格走势相反。 与此同时，这家新云运营商的五年期信用违约互换(CDS)利差在周二跳涨8.5%，突破1200个基点。CDS本质上是防范债务违约的保险工具，常被视作市场衡量违约风险的晴雨表；其利差迅速走阔，直接反映出投资者认为其偿付风险大幅上升。 遭遇利差走阔压力的不仅是CoreWeave。甲骨文五年期CDS利差周二也跳升7%至355.68个基点；知名财经博客网站zerohedge形容称，甲骨文信贷目",
+    "publishedAt": "2026-11-25",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news--1795567140000",
-    "title": "新鲜感之后，陪伴机器人如何被用起来？",
-    "link": "https://www.tmtpost.com/8212446.html",
-    "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+    "id": "news-q3-1795570690000",
+    "title": "被红果改写的Q3财报季",
+    "link": "https://www.tmtpost.com/8216958.html",
+    "summary": "二线大厂的冬天：砍成本，赌AI",
     "publishedAt": "2026-11-25",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +94,248 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ah-1795538446000",
-    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-    "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-    "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+    "id": "news-trump-reportedly-says-pardoning-jensen-huang-is-8216-an-opti-1795565427000",
+    "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
+    "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+    "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+    "publishedAt": "2026-11-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-many-companies-use-ai-but-few-pair-it-with-culture-changes-r-1795550640000",
+    "title": "Many companies use AI, but few pair it with culture changes, report says",
+    "link": "https://www.hrdive.com/news/many-companies-use-ai-but-few-pair-it-with-culture-changes-report-says/875631/",
+    "summary": "CHROs who emphasize the connection between culture and artificial intelligence tool use were &ldquo;twice as likely to sustain superior market performance,&rdquo; per a new report.",
+    "publishedAt": "2026-11-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-ai-270-1795502106000",
+    "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+    "link": "https://www.qbitai.com/2026/11/512362.html",
+    "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+    "publishedAt": "2026-11-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795568983000",
+    "title": " 动力电池十年狂奔，终于来到分水岭前 ",
+    "link": "https://www.huxiu.com/article/4908219.html?f=rss",
+    "summary": "本文来自微信公众号： BusinessCars ，作者：匹诺 从规模决胜到多元比拼，储能反超、盈利分层、结构性出清，2026年动力电池产业正站在增长逻辑彻底切换的拐点。 2026年11月23日，乘联分会秘书长崔东树公开发文指出，今年国内动力电池市场正呈现“双雄份额松动，二线梯队加速崛起”的核心特征，头部企业的绝对领先优势不再像往年那样稳固，二线厂商的市场占比实现显著提升，尾部低效产能基本出清，行业整体集中度同比回落，市场竞争正式从过去的“规模决胜”转向多元化维度的综合比拼。 结合近期7家主流动力电池企业集中披露的三季报来看，这份判断恰好与财报呈现的业绩分化、结构调整、赛道切换等多重信号完全呼应，整个动力电池产业正站在增长逻辑彻底切换的关键节点。 2026年前三季度，我国锂电池总产量接近1900GWh，同比增速超过40%，支撑这一高增长的核心动力已经发生根本性切换。过去多年由新能源汽车消费主导的动力电池需求，如今正逐步转向储能与海外出口双轮驱动，行业增长的底层逻辑早已不再单纯绑定国内车市的销量波动。 从细分赛道数据来看，今年前三季度国内动力电池累计装车量达到576.3GWh，同比增长16.7%，而同期储能电池累计销量达到595.4GWh，同比大幅增长111.8%，储能赛道的总规模已经正式反超动力电池，成为拉动全行业增长的第一引擎。 与此同时，出口端的表现同样亮眼，前三季度国内动力电池",
+    "publishedAt": "2026-11-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795570686000",
+    "title": "这届年轻人开始劝父母卖掉租不上价的房，用来收息",
+    "link": "https://www.tmtpost.com/8216479.html",
+    "summary": "这届年轻人开始劝父母卖掉租不上价的房，用来收息",
+    "publishedAt": "2026-11-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-data-centers-are-getting-their-own-natural-gas-power-plants-1795518000000",
+    "title": "Data centers are getting their own natural gas power plants",
+    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
+    "publishedAt": "2026-11-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-jensen-huang-still-thinks-a-succession-plan-creates-unnecess-1795559272000",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "publishedAt": "2026-11-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-dishonesty-and-unprotected-absences-not-fmla-use-caused-csx--1795550640000",
+    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
+    "link": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/",
+    "summary": "One worker had taken leave on Martin Luther King Jr. Day, Superbowl Sunday, Valentine&rsquo;s Day and Easter Sunday &mdash; despite previous warnings.",
+    "publishedAt": "2026-11-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce"
+    ]
+  },
+  {
+    "id": "news-5-5-flash-preview-apache-2-0-1795501348000",
+    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+    "link": "https://www.qbitai.com/2026/11/512354.html",
+    "summary": "",
+    "publishedAt": "2026-11-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1795568844000",
+    "title": " 胡文龙：AI时代的生产要素重构与金融体系应对 ",
+    "link": "https://www.huxiu.com/article/4908218.html?f=rss",
+    "summary": "本文来自微信公众号： 北大汇丰PFR ，作者：胡文龙 人工智能正从辅助工具演变为重塑经济底层逻辑的通用技术。经典生产函数中劳动、资本与全要素生产率的清晰边界，在算法与算力的渗透下日趋模糊。智能技术不仅改变了要素之间的替代弹性与互补关系，更催生出数据这一难以用传统产权框架容纳的新型要素。 中国社会科学院工业经济研究所会计与财务研究室副主任、副研究员胡文龙在《北大金融评论》发文指出，AI对生产要素体系的重构已非遥远的理论推演，而是正在发生的结构性变局。劳动、资本与数据的配置逻辑、回报结构与增长贡献度均在发生深层位移，金融体系的价格信号、资源配置与风险缓冲功能必须同步演进。 本文完整版刊登于《北大金融评论》第29期。 人工智能正从辅助工具演变为重塑经济底层逻辑的通用技术。经典生产函数中劳动、资本与全要素生产率的清晰边界，在算法与算力的渗透下日趋模糊。智能技术不仅改变了要素之间的替代弹性与互补关系，更催生出数据这一难以用传统产权框架容纳的新型要素。本文试图在剖析AI对生产要素体系的理论冲击与现实重构之基础上，提出金融体系应对的框架性思路，为政策制定与市场实践提供前瞻性参照。 AI对生产要素体系的理论冲击与现实重构 人工智能对要素体系的影响并非边际改进，而是对劳动、资本与数据三类核心要素的稀缺性、可替代性与收益归属进行了重塑，具有鲜明的非中性特征。它在替代特定类型劳动的同时，与智能资本、数据",
+    "publishedAt": "2026-11-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "id": "news--1795567140000",
+    "title": "新鲜感之后，陪伴机器人如何被用起来？",
+    "link": "https://www.tmtpost.com/8212446.html",
+    "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+    "publishedAt": "2026-11-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-1795455368000",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
+    "publishedAt": "2026-11-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-in-all-hands-meeting-jensen-huang-thanks-white-house-and-say-1795556907000",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "publishedAt": "2026-11-24",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-court-blocks-dhs-policy-limiting-international-student-train-1795535400000",
+    "title": "Court blocks DHS policy limiting international student training opportunities",
+    "link": "https://www.hrdive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875568/",
+    "summary": "The higher education groups suing to strike down new limits on the Curricular Practical Training program are likely to succeed, a federal judge ruled.&nbsp;",
+    "publishedAt": "2026-11-24",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-9-1795500938000",
+    "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+    "link": "https://www.qbitai.com/2026/11/512348.html",
+    "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+    "publishedAt": "2026-11-24",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-fda-1795568194000",
+    "title": " 后特朗普时代，FDA还能有局长吗？ ",
+    "link": "https://www.huxiu.com/article/4908217.html?f=rss",
+    "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年5月，FDA局长Marty Makary离任后，至今FDA只有代理局长——Kyle Diamantas，2025年进入FDA前是一位律师，代理的最著名案件大该是2022年雅培婴儿奶粉污染案，他为雅培辩护，结果输了。 没有经过参议院投票表决任命的正式局长，FDA的领导层始终处于“临时工”状态，很难进行长远规划。 FDA历史上有更长的局长空缺——小布什第一个任期时曾有破纪录的22个月FDA没有正式局长，拜登上任后有13个月没有正式局长。 如今半年的空缺与这些比，看上去不算严重，但当下还有更特殊的情况：FDA的其他高层位置也有大量人员变动。 以拜登时期的空缺为例，当时拜登希望提名FDA元老Jannet Woodcock执掌大印，可参议院一些议员因她过去的部分审批决定有异议，导致提名一直搁置，Woodcock长期代理局长。 可是Woodcock此前长期管理FDA最重要的CDER（大部分新药审批），别的主要部门CBER（生物制剂）、肿瘤卓越中心等当时也有多年稳定的领导层。政治因素导致的局长提名困难对机构实际运作影响不大。 但FDA，CDER、CBER、肿瘤卓越中心都在过去两年里出现了主管更迭，局长的不确定让机构更难稳定。 而如今，FDA是否还能在特朗普余下的两年任期里有正式局长，都变得高度不确定。 9月，特朗普正式提",
+    "publishedAt": "2026-11-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-edge-ai-daily-11-25-1795566596000",
+    "title": "Edge AI Daily 早报（11月25日）",
+    "link": "https://www.tmtpost.com/8216877.html",
+    "summary": "OpenAI与Anthropic因安全证明暂缓前沿模型，发布转向可控性验证；Anthropic跌破发行价，AI估值进入资本纪律期。GPT-6.2 Sol、Meta Muse、Google Personal Intelligence争夺默认入口，Claude Ship切入代码交付责任链。英伟达复职黄仁勋后仍面临听证与出口审计，OpenAI与思科开源Shirudo前移运行时防御。国内腾讯WorkBuddy推进办公Agent，阿里子公司列实体清单，超节点应对供应链收紧；数据中心自建燃气与AI黑客推高基础设施与安全成本。",
+    "publishedAt": "2026-11-25",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-the-download-ai-s-judgment-problem-and-carbon-removal-s-crop-1795439400000",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
+    "publishedAt": "2026-11-23",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-even-the-best-ai-agents-struggle-with-everyday-life-1795556009000",
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
     "publishedAt": "2026-11-24",
     "source": "TechCrunch",
     "tags": [
@@ -121,217 +360,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-ai-270-1795502106000",
-    "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-    "link": "https://www.qbitai.com/2026/11/512362.html",
-    "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-    "publishedAt": "2026-11-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795536480000",
-    "title": " 美国是商业暗洞吗？ ",
-    "link": "https://www.huxiu.com/article/4908184.html?f=rss",
-    "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍｜美国是商业暗洞吗？（美国工厂系列2）》 在美国华盛顿附近的巴尔的摩市，有着全美顶尖医院的约翰霍普金斯大学。走进朝南的砖褐色主楼大门，患者往来如织。长廊尽头的老楼里，便是挂满数十位诺贝尔奖肖像的荣誉墙。走出院区北门，穿过由大学主导更新的片区，可见实验楼、新公寓，以及带喷泉的公园。再往前，行人渐少。老旧联排房屋赫然入眼。褪色的墙壁面无表情，空洞的门窗像警惕的眼睛。这就是HBO热剧《火线》的背景地，剧中黑帮与警察在城市中斗法，文明与荒芜只隔一条马路。当我打算前往这座去工业化的典型城市时，国内朋友曾警告我，不要到这个“烂透了”的城市中心区，还要提防黑帮。然而，我在这里终究是没有发现黑帮，倒是在一公里的地方，可以切片出三种不同的影像：顶级医术、生机恢复和破败街区。 或许，人们想用任何一种情绪来描述这个城市，都可以轻易找到丰富的样本。但若要下结论，一开口就可能是错的。我们的经验和认知，远远不足以认识这个城市和这个国家。 （图：美国工厂的调研路径） （本文为实地考察中企落地美国的田野调研《美国工厂系列2》） 落地的三大敬畏 中国工厂进入美国，最先需要建立的就是敬畏之心。只有熟悉美国的制造体系，才能躲开那些看不见的隐形风险。中国企业要落地美国，有三大敬畏值得关注。 “责任敬畏”首当其冲，这是一种源自风险意识的本能感觉。研发一个产",
-    "publishedAt": "2026-11-24",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795527624000",
-    "title": "编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产",
-    "link": "https://www.tmtpost.com/8216634.html",
-    "summary": "叠加血透耗材集采持续降价、主业连续亏损的经营压力，宝莱特把目光投向存储芯片赛道，试图寻找新的增长支点。",
-    "publishedAt": "2026-11-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-data-centers-are-getting-their-own-natural-gas-power-plants-1795518000000",
-    "title": "Data centers are getting their own natural gas power plants",
-    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
-    "publishedAt": "2026-11-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-p-1795536600000",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-    "publishedAt": "2026-11-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-fox-tv-fired-news-host-with-facial-disability-because-viewer-1795466220000",
-    "title": "Fox TV fired news host with facial disability because viewers mocked her appearance, lawsuit alleges",
-    "link": "https://www.hrdive.com/news/fox-allegedly-fired-news-host-with-facial-disability-viewers-mocked-her-appearance/875488/",
-    "summary": "The station&rsquo;s news director allegedly believed the online comments would hurt the station and his career, according to the complaint.",
-    "publishedAt": "2026-11-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-5-5-flash-preview-apache-2-0-1795501348000",
-    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-    "link": "https://www.qbitai.com/2026/11/512354.html",
-    "summary": "",
-    "publishedAt": "2026-11-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795526102000",
-    "title": "内存涨价、换机乏力，荣耀如何接住中端市场的难题",
-    "link": "https://www.tmtpost.com/8216686.html",
-    "summary": "中端市场的竞争，从来不只是价格和配置的较量。当参数逐渐趋同，谁能重新定义用户需要什么，谁才有机会在下一轮竞争中占据主动。",
-    "publishedAt": "2026-11-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-1795455368000",
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
-    "publishedAt": "2026-11-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-pinterest-will-now-let-parents-limit-the-ai-generated-conten-1795536157000",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "publishedAt": "2026-11-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-congress-landmark-law-protecting-pregnant-workers-is-unconst-1795466160000",
-    "title": "Congress’ landmark law protecting pregnant workers is unconstitutional, court holds",
-    "link": "https://www.hrdive.com/news/congress-landmark-law-protecting-pregnant-workers-unconstitutional/875528/",
-    "summary": "The decision renders the Pregnant Workers Fairness Act unenforceable against the state of Texas, but other employers must still comply with the law, observers cautioned.",
-    "publishedAt": "2026-11-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-9-1795500938000",
-    "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-    "link": "https://www.qbitai.com/2026/11/512348.html",
-    "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
-    "publishedAt": "2026-11-24",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-wall-oss-1-0-55-1-1795525756000",
-    "title": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%",
-    "link": "https://www.tmtpost.com/8216666.html",
-    "summary": "“理解世界”与“执行动作”在同一模型中成形",
-    "publishedAt": "2026-11-24",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-s-judgment-problem-and-carbon-removal-s-crop-1795439400000",
-    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
-    "publishedAt": "2026-11-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-amazon-8217-s-decart-acquisition-is-a-bet-on-using-software--1795535467000",
-    "title": "Amazon&#8217;s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-    "publishedAt": "2026-11-24",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-what-are-buffer-spaces-at-work-here-s-what-hr-should-know-1795466160000",
-    "title": "What are ‘buffer spaces’ at work? Here’s what HR should know.",
-    "link": "https://www.hrdive.com/news/what-are-buffer-spaces-at-work-harassment/875518/",
-    "summary": "When faced with harassment, workers may benefit from a middle ground between informal conversations and formal reporting, researchers theorized.",
-    "publishedAt": "2026-11-23",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
     "id": "news-u8-1795500736000",
     "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
     "link": "https://www.qbitai.com/2026/11/512343.html",
@@ -345,10 +373,23 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795518802000",
-    "title": "中国国航，一张油价看跌期权",
-    "link": "https://www.tmtpost.com/8215597.html",
-    "summary": "迎来周期反转了吗？",
+    "id": "news--1795567867000",
+    "title": " 拼多多的增长去哪儿了？ ",
+    "link": "https://www.huxiu.com/article/4908216.html?f=rss",
+    "summary": "本文来自微信公众号： 王智远 ，作者：王智远 翻拼多多的财报，我发现一件挺有意思的事儿。 今年三季度，拼多多光在线营销这块，就比去年同期多收了64.71亿，可交易服务那块呢，又少收了64.07亿。 两笔账一抵，拼多多一个季度收入1083亿，比去年同期只多了6400万，经营利润倒是多了61亿。 我就有点好奇了，同样是拼多多的生意，怎么一笔钱越收越多，另一笔钱却越收越少呢？ …… 这事儿得从拼多多平时怎么跟商家收钱说起。商家在拼多多上卖货，主要有两类钱要付给平台。 一个是推广费。你把商品挂上去，能不能被人看见，跟它排在哪里有很大关系。 首页就那么大，搜索结果的前几屏也就那么些位置，想让更多人看到你的东西，就得花钱做推广，这笔钱主要记在财报的「在线营销服务及其他收入」里。 另一个是交易服务费。 买家下单付款，平台可以从中收取一定的费用。到了跨境业务，还涉及仓储、分拣、配送这些环节，相关的钱也会记在「交易服务收入」里。 这两笔钱的增长逻辑不太一样，推广费看商家愿不愿意花钱，投出去的钱能赚回来，商家自然愿意多投；交易服务费则更多跟成交规模、履约服务量有关。 有意思的是，今年这两笔钱的走势刚好反了过来。 在线营销这块，三季度收入598.19亿，同比增长12.1%；要知道，今年一季度它才涨了2.5%，二季度也就涨了3.5%，到了三季度，一下子跑到了两位数。 怎么突然快了这么多？ 这里面有一部分是",
+    "publishedAt": "2026-11-25",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-8000-5000-132-1795562400000",
+    "title": "【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元",
+    "link": "https://www.tmtpost.com/8216719.html",
+    "summary": "大烨智能年报虚假记载遭行政处罚，股票11月26日起戴帽；厦航拟斥资近500亿元买50架波音飞机；天齐锂业拟豪掷68.72亿元买矿；AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型；中国在5个自贸试验区开展人工智能标准化自主开放试点；外交部回应“英伟达重新任命黄仁勋为首席执行官”。",
     "publishedAt": "2026-11-24",
     "source": "钛媒体",
     "tags": [
@@ -1048,4 +1089,4 @@ export const generatedJobs: JobPosting[] = [
   }
 ];
 
-export const dataFetchedAt = '2026-11-24T16:55:02.949Z';
+export const dataFetchedAt = '2026-11-25T01:52:37.022Z';
