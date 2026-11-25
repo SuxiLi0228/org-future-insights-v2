@@ -2,6 +2,140 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-26-auto",
+    "date": "2026-11-26",
+    "session": "auto",
+    "title": "2026-11-26 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-26-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+      },
+      {
+        "id": "sig-2026-11-26-auto-2",
+        "emoji": "💡",
+        "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+        "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+        "detail": "来源: TechCrunch。The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+        "priority": "low",
+        "tags": [],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"
+      },
+      {
+        "id": "sig-2026-11-26-auto-3",
+        "emoji": "💡",
+        "title": "We owe Cardi B — and all working mothers — an apology",
+        "summary": "In light of Cardi B&rsquo;s 2027 Grammy Awards nomination, HR Dive reporter Caroline Colvin revisits decade-old claims the rapper would never be successful as a working mother.",
+        "detail": "来源: HR Dive。In light of Cardi B&rsquo;s 2027 Grammy Awards nomination, HR Dive reporter Caroline Colvin revisits decade-old claims the rapper would never be successful as a working mother.",
+        "priority": "low",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/cardi-b-am-i-the-drama-analysis/875706/"
+      },
+      {
+        "id": "sig-2026-11-26-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：OmniAct: One Policy, One Million Embodiments...",
+        "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer",
+        "detail": "作者: Xiang Fan, Yuheng Wang, Jiayuan Yan。A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot's kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot's joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative ",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.33158v1"
+      },
+      {
+        "id": "sig-2026-11-26-auto-5",
+        "emoji": "💼",
+        "title": "Reddit 正在招募 Senior Software Engineer, AI & Science Platform",
+        "summary": "岗位类型：业务+AI 复合岗。Reddit is a community of communities",
+        "detail": "技能要求: Python, LLM, Agent, SQL, Spark。Reddit is a community of communities Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet Every day, Reddit users submit, vote, and comment on the topics they care most about With 100,000+ active communities and approximate",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Reddit"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Reddit",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-26-1",
+        "priority": "medium",
+        "action": "关注「The Download: AI swamping open records, 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-26-2",
+        "priority": "low",
+        "action": "关注「Allstate suffers multi-day tech outage a」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-26-3",
+        "priority": "low",
+        "action": "关注「We owe Cardi B — and all working mothers」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-26-4",
+        "priority": "medium",
+        "action": "关注「研究速递：OmniAct: One Policy, One Million Em」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-26-5",
+        "priority": "medium",
+        "action": "关注「Reddit 正在招募 Senior Software Engineer, AI」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Reddit"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 62,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-26 生成，聚合了 30 条新闻、20 篇论文、12 个岗位。",
+    "fetchWindow": "2026-11-26 00:00 - 2026-11-26 23:59"
+  },
+  {
     "id": "report-2026-11-25-auto",
     "date": "2026-11-25",
     "session": "auto",
