@@ -2,6 +2,85 @@ import type { NewsItem, ArxivPaper, JobPosting } from '@/types';
 
 export const generatedNews: NewsItem[] = [
   {
+    "id": "news-how-data-centers-are-driving-a-us-natural-gas-boom-1795626000000",
+    "title": "How data centers are driving a US natural-gas boom",
+    "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like&#8230;",
+    "publishedAt": "2026-11-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-s-038-p-considers-nvidia-credit-downgrade-over-governance-an-1795646672000",
+    "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "publishedAt": "2026-11-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-i-just-don-t-know-the-rules-anymore-nvidia-and-jensen-huang--1795629960000",
+    "title": "‘I just don’t know the rules anymore’: Nvidia and Jensen Huang’s mockery of modern HR",
+    "link": "https://www.hrdive.com/news/nvidia-and-jensen-huang-mockery-of-modern-hr/875789/",
+    "summary": "The scandal-ridden executive&#39;s shocking return is antithetical to everything practitioners tell themselves about how organizations should function and how leaders should behave.",
+    "publishedAt": "2026-11-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-99-5-7-6-1795653637000",
+    "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+    "link": "https://www.qbitai.com/2026/11/512819.html",
+    "summary": "合着全让A➗揽了",
+    "publishedAt": "2026-11-26",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ea-1795656011000",
+    "title": " 以利他之名，EA织网二十年 ",
+    "link": "https://www.huxiu.com/article/4908555.html?f=rss",
+    "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy 如果一个十七世纪的巴黎神学家来到2026年的旧金山，走进伯克利山脚下那些装着玻璃白板的办公室，他多半会觉得耳熟。 他看不懂白板上的公式，但只要听上十分钟屋里年轻人的交谈，他就能听出那套熟悉的推理方式。 三百多年前，数学家帕斯卡试图用刚刚萌芽的概率论向怀疑论者证明，既然天堂的回报无穷大，而押错赌注所付出的不过是有限的现世代价，那么哪怕上帝存在的概率微乎其微，任何一个懂算术的理性人，都应该立刻跪下来祈祷。在无穷大的乘数面前，现世里一切短暂的欢愉、犹豫和代价，在数学上都等于零。 四百年后，基督教的上帝早已从硅谷的日常语言里退场。可这群自认最讲证据、最彻底摆脱了宗教迷信的科技精英，却用贝叶斯公式、效用函数和统计模型，重新推演着帕斯卡的神学。 2026年11月9日，一份叫Transformer的政策通讯刊登评论《黄仁勋应该辞职》，两天后英伟达董事会收下黄仁勋的辞呈，十二天后又将他请回。而在黄仁勋暂离办公室的那几天，Anthropic刚刚在纳斯达克敲钟上市。 顺着Transformer的署名往上查，作者Shakeel Hashim曾任有效利他主义中心的传播负责人，出版机构Tarbell拿了Facebook联合创始人Dustin Moskovitz旗下基金约2310万美元拨款，另一位出资人是Skype联合创始人Jaan Tallin",
+    "publishedAt": "2026-11-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-q3-1795664280000",
+    "title": "被红果改写的Q3财报季",
+    "link": "https://www.tmtpost.com/8216958.html",
+    "summary": "二线大厂的冬天：砍成本，赌AI",
+    "publishedAt": "2026-11-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
     "id": "news-the-download-ai-swamping-open-records-and-firefighting-for-p-1795612200000",
     "title": "The Download: AI swamping open records, and firefighting for permafrost",
     "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
@@ -14,10 +93,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving-1795619317000",
-    "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-    "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-    "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+    "id": "news-fcc-approves-spacex-plan-to-put-ai-data-centers-in-space-1795640204000",
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
     "publishedAt": "2026-11-25",
     "source": "TechCrunch",
     "tags": [
@@ -27,10 +106,90 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-we-owe-cardi-b-and-all-working-mothers-an-apology-1795620540000",
-    "title": "We owe Cardi B — and all working mothers — an apology",
-    "link": "https://www.hrdive.com/news/cardi-b-am-i-the-drama-analysis/875706/",
-    "summary": "In light of Cardi B&rsquo;s 2027 Grammy Awards nomination, HR Dive reporter Caroline Colvin revisits decade-old claims the rapper would never be successful as a working mother.",
+    "id": "news-employers-expect-new-hires-to-have-a-willingness-to-learn-1795629960000",
+    "title": "Employers expect new hires to have a ‘willingness to learn’",
+    "link": "https://www.hrdive.com/news/employers-expect-new-hires-to-have-a-willingness-to-learn/875747/",
+    "summary": "While a growing number of organizations want to upskill existing employees, more than a third say they&rsquo;re looking for employees with &ldquo;expertise in new areas.&rdquo;",
+    "publishedAt": "2026-11-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-ai-1795624449000",
+    "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+    "link": "https://www.qbitai.com/2026/11/512748.html",
+    "summary": "商汤SenseNova U1.6",
+    "publishedAt": "2026-11-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795655688000",
+    "title": " 西昊的“性价比”，撑不起打工人的腰？ ",
+    "link": "https://www.huxiu.com/article/4908552.html?f=rss",
+    "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：贾贺辉 卖得最多的人体工学椅品牌，竟然不是靠便宜取胜的。 据申万宏源研究援引久谦数据，2025年西昊人体工学椅在天猫和京东的平均售价约1030元，差不多是行业均价540元的两倍。2026年双11大促结束后西昊晒出成绩单，线上销售额2.1亿元，继续霸榜天猫和京东电脑椅类目全网销售额的榜单第一。 一个售价比行业均价还要贵一倍的品牌，为什么被所有人包括西昊自己，都归入到“性价比”的阵营？ 答案并不在价格表里。简单来说，西昊所卖的并非绝对低价，而是一种心理账户上的划算：一个每天在工位上坐8-10个小时的打工人，仅用千元出头的价格，就能够购买一款看起来比杂牌产品专业很多、又比赫曼米勒等国际大牌便宜很多的椅子。 这种认真对待自己腰的感觉，撑起了西昊相当亮眼的成绩单。据欧睿国际认证，2022-2025年间，西昊连续四年位居全国人体工学椅销量与销售额双第一，2025年全球销量突破220万件，覆盖全球122个国家和地区。 只是，越来越多买了第一把的人，现在开始犹豫下一把还要不要买它。 2014年前后，国内人体工学椅行业曾掀起一轮残酷的价格战，把单价从6000多元一路打到100多元。 彼时，西昊两条腿走路：一条中高端路线，一条低端线。低端线能够贡献约70%的营收，却几乎不赚钱，创始人罗慧平曾在一次访谈中回忆，“后端80%以上的供应链资源和研发精力消耗在这",
+    "publishedAt": "2026-11-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-ai-1795656180000",
+    "title": "红果上的AI演员，批量成为“偶像练习生”",
+    "link": "https://www.tmtpost.com/8217834.html",
+    "summary": "假人也有真情实感。",
+    "publishedAt": "2026-11-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-ai-is-straining-america-s-open-records-systems-1795600800000",
+    "title": "AI is straining America’s open records systems",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+    "publishedAt": "2026-11-25",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology",
+      "organization"
+    ]
+  },
+  {
+    "id": "news-openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it--1795637007000",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "publishedAt": "2026-11-25",
+    "source": "TechCrunch",
+    "tags": [
+      "technology",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-collective-action-rights-under-flsa-are-not-waivable-without-1795629960000",
+    "title": "Collective action rights under FLSA are not waivable without an arbitration agreement, judge rules",
+    "link": "https://www.hrdive.com/news/collective-action-rights-under-flsa-are-not-waivable-without-an-arbitration/875623/",
+    "summary": "The plaintiff&rsquo;s lawyer called the order &ldquo;an important decision for every worker who has been handed paperwork and told to sign away their rights before they can get a job.&rdquo;",
     "publishedAt": "2026-11-25",
     "source": "HR Dive",
     "tags": [
@@ -54,11 +213,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795624838000",
-    "title": " 欧洲车企对技术外包上瘾了 ",
-    "link": "https://www.huxiu.com/article/4908521.html?f=rss",
-    "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 01欧洲汽车工业正在出现一种新分工 11月20日，德国欧宝汽车CEO弗洛里安·许特尔与零跑汽车创始人朱江明签下了一份正式合作协议，双方打算联合开发一款紧凑型纯电SUV。 分工很清晰，核心零部件由零跑提供，欧宝则负责产品设计、座舱人体工程学、底盘工程，还有灯光和座椅这些外围技术。新车计划2028年上市，放在西班牙萨拉戈萨工厂生产。 从1982年算起，累计下线过超过1000万辆Corsa。而就在今年10月16日，零跑B10已经在这里正式投产；过了三天，零跑又宣布B05也将进入萨拉戈萨工厂。 在Stellantis和零跑之间，其实还有一个安排。 今年5月，双方对外透露，考虑在2028年上半年把零跑的新车型导入Stellantis位于马德里的Villaverde工厂，用来承接雪铁龙C4停产后释放出来的产能。 与此同时，双方还在商谈把这座工厂的产权转移给零跑国际的西班牙子公司：零跑国际是Stellantis持股51%、零跑持股49%的合资企业，目前产权的事还在谈。 类似的画面也出现在英国。今年3月31日，奇瑞和捷豹路虎发布了联合打造的独立品牌FREELANDER神行者。 按照神行者全球CEO文飞的介绍，中方牵头整车产品定义、新能源与智能化技术开发、供应链整合，以及品牌运营、市场营销和用户运营；捷豹路虎则侧重发挥豪华品牌基因和设计美学，参",
-    "publishedAt": "2026-11-25",
+    "id": "news--1795655000000",
+    "title": " 富豪的海外资产，要藏不住了？ ",
+    "link": "https://www.huxiu.com/article/4908503.html?f=rss",
+    "summary": "90天补税1600亿，海外财富的避税时代，走到头了？",
+    "publishedAt": "2026-11-26",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -67,11 +226,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2-07-1795608246000",
-    "title": "2.07 亿接盘都市酒店，岭南控股踩点兑现三年承诺",
-    "link": "https://www.tmtpost.com/8217705.html",
-    "summary": "同业竞争承诺履约背后，轻资产加盟能否撑起第二增长曲线。",
-    "publishedAt": "2026-11-25",
+    "id": "news-70-10-1795655940000",
+    "title": "股价半年狂泻70%，胜宏科技急抛10亿分红",
+    "link": "https://www.tmtpost.com/8217784.html",
+    "summary": "2700亿市值蒸发。",
+    "publishedAt": "2026-11-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -81,23 +240,103 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ai-is-straining-america-s-open-records-systems-1795600800000",
-    "title": "AI is straining America’s open records systems",
-    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
-    "publishedAt": "2026-11-25",
+    "id": "news-the-download-ai-s-gas-power-boom-and-a-consciousness-reality-1795525800000",
+    "title": "The Download: AI’s gas power boom and a consciousness reality check",
+    "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
+    "publishedAt": "2026-11-24",
     "source": "MIT Technology Review",
     "tags": [
       "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-jensen-huang-broke-nvidia-8217-s-code-of-conduct-and-his-emp-1795636497000",
+    "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "publishedAt": "2026-11-25",
+    "source": "TechCrunch",
+    "tags": [
       "technology",
+      "startup",
+      "ai",
+      "ai-hr",
       "organization"
     ]
   },
   {
-    "id": "news-todoist-confirms-6-of-customers-8217-details-were-stolen-in--1795616428000",
-    "title": "Todoist confirms 6% of customers&#8217; details were stolen in data breach",
-    "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-    "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+    "id": "news-we-owe-cardi-b-and-all-working-mothers-an-apology-1795620540000",
+    "title": "We owe Cardi B — and all working mothers — an apology",
+    "link": "https://www.hrdive.com/news/cardi-b-am-i-the-drama-analysis/875706/",
+    "summary": "In light of Cardi B&rsquo;s 2027 Grammy Awards nomination, HR Dive reporter Caroline Colvin revisits decade-old claims the rapper would never be successful as a working mother.",
+    "publishedAt": "2026-11-25",
+    "source": "HR Dive",
+    "tags": [
+      "hr",
+      "ai-hr",
+      "workforce",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-3-1795617177000",
+    "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+    "link": "https://www.qbitai.com/2026/11/512715.html",
+    "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+    "publishedAt": "2026-11-25",
+    "source": "量子位",
+    "tags": [
+      "china",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795654800000",
+    "title": " 嫌网购衣服贵，质量又差，年轻人把缝纫机踩冒烟了 ",
+    "link": "https://www.huxiu.com/article/4907249.html?f=rss",
+    "summary": "网购衣服又贵又难买到合适的，年轻人索性撸起袖子买缝纫机，自己动手丰衣足食。缝纫机曾经是老式婚礼三大件，如今却成了时髦的新玩具，连猫狗的小衣服都能亲手做。 年轻人的消费观念正悄然转向，从追求品牌到追求有趣、有意义的生活。",
+    "publishedAt": "2026-11-26",
+    "source": "虎嗅",
+    "tags": [
+      "china",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "news--1795655640000",
+    "title": "千亿“果链”巨头利润腰斩，中国女首富要靠芯片突围？",
+    "link": "https://www.tmtpost.com/8217779.html",
+    "summary": "在周群飞投资版图不断向外延伸之际，其执掌的“果链”巨头蓝思科技正面临着业绩下滑的窘境。",
+    "publishedAt": "2026-11-26",
+    "source": "钛媒体",
+    "tags": [
+      "china",
+      "technology",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "id": "news-data-centers-are-getting-their-own-natural-gas-power-plants-1795518000000",
+    "title": "Data centers are getting their own natural gas power plants",
+    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
+    "publishedAt": "2026-11-24",
+    "source": "MIT Technology Review",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "id": "news-the-canceled-tesla-cybertruck-is-the-fastest-selling-used-tr-1795636472000",
+    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+    "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+    "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
     "publishedAt": "2026-11-25",
     "source": "TechCrunch",
     "tags": [
@@ -121,87 +360,6 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-3-1795617177000",
-    "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-    "link": "https://www.qbitai.com/2026/11/512715.html",
-    "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
-    "publishedAt": "2026-11-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795623217000",
-    "title": " 宗馥莉，困在新旧娃哈哈之间 ",
-    "link": "https://www.huxiu.com/article/4908520.html?f=rss",
-    "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 宗馥莉交出去的董事长职位，又出现了变动。 近日，据界面新闻、每日经济新闻等媒体报道，杭州娃哈哈集团有限公司（以下简称“娃哈哈集团”）董事长许思敏已正式离职，继任者尚未确定。几乎与此同时，曾长期辅佐宗馥莉经营宏胜的祝丽丹，将娃哈哈商业股份有限公司告上法庭，案由为涤除公司登记（备案）纠纷。而在宗馥莉控制的宏胜饮料集团有限公司（以下简称“宏胜集团”），一场涉及数百个岗位任免的组织调整也在进行。 与密集的人事变动同步发生的，是宏胜在全国范围内的产能扩张。过去一年多，宏胜在西安、河源等地推进新生产基地建设，多家原本带有“娃哈哈”字号的生产、销售企业陆续更名。宗庆后去世两年多以来，宗馥莉已经在相当程度上改变了娃哈哈原有的经营组织，但产权、品牌及利益分配问题依然悬而未决，她正在建设的新经营体系，也开始面临来自市场的压力。 PART.01 哇哈哈成了烫手山芋 2025年11月18日，娃哈哈全国销售工作总结表彰大会在浙江绍兴举行。 与往年不同的是，宗馥莉没有出现在会场。代表娃哈哈集团出席会议的，是时年31岁的许思敏。八天后，娃哈哈集团完成工商变更，许思敏正式接替宗馥莉，担任集团法定代表人、董事长兼总经理。 许思敏毕业于浙江大学法学专业，早年曾尝试餐饮创业，后进入宏胜集团，从法务专员一路升任法务部部长。2024年8月宗馥莉正式接掌娃哈哈集团后，许思敏进入集",
-    "publishedAt": "2026-11-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795605422000",
-    "title": "对赌刚过业绩就变脸，和仁科技或迎存储芯片二股东 | 并购一线",
-    "link": "https://www.tmtpost.com/8217626.html",
-    "summary": "对于和仁科技来说，这个可能成为二股东的芯片公司将是其业绩转正的关键变量。",
-    "publishedAt": "2026-11-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-the-download-ai-s-gas-power-boom-and-a-consciousness-reality-1795525800000",
-    "title": "The Download: AI’s gas power boom and a consciousness reality check",
-    "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
-    "publishedAt": "2026-11-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-a-1795615818000",
-    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-    "publishedAt": "2026-11-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai",
-      "ecommerce"
-    ]
-  },
-  {
-    "id": "news-many-companies-use-ai-but-few-pair-it-with-culture-changes-r-1795550640000",
-    "title": "Many companies use AI, but few pair it with culture changes, report says",
-    "link": "https://www.hrdive.com/news/many-companies-use-ai-but-few-pair-it-with-culture-changes-report-says/875631/",
-    "summary": "CHROs who emphasize the connection between culture and artificial intelligence tool use were &ldquo;twice as likely to sustain superior market performance,&rdquo; per a new report.",
-    "publishedAt": "2026-11-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai",
-      "organization"
-    ]
-  },
-  {
     "id": "news-ai-1795616480000",
     "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
     "link": "https://www.qbitai.com/2026/11/512582.html",
@@ -215,181 +373,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1340-1795622956000",
-    "title": " 一投浮盈1340亿，阿联酋的“算力美元”赌局 ",
-    "link": "https://www.huxiu.com/article/4908519.html?f=rss",
-    "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一 11月19日，人工智能公司Anthropic在纳斯达克上市，首日收于97.17美元，较发行价上涨17%。硅谷投资者成为焦点，远在中东的阿布扎比却出现了一位隐形赢家。 阿联酋投资机构MGX披露，按照这一收盘价计算，其持有的Anthropic股份账面浮盈约200亿美元。成立于2024年的MGX，只用了两年多便跻身全球人工智能投资的重要参与者。它连续参与Anthropic融资，并在上市时继续加码。 当然，200亿美元仍是账面收益。股价会波动，大额减持也受到限制。但一笔投资所展示的转变已经十分清楚。 过去，阿联酋向世界出售石油，再把美元投向全球市场；如今，来自能源的财富开始直接分享人工智能企业成长所带来的巨额收益。 阿联酋的打算还有更远的一步。它希望在本土建设大型数据中心，将资本和能源优势转化为可供出口的计算能力，用“算力美元”为经济寻找新的支柱。只是，随着美国强化先进芯片监管、伊朗战争冲击海湾安全，转型正面临两道关口：关键技术掌握在谁手里，支撑长期投资的稳定环境还能维持多久？ 全力押注人工智能 阿联酋直到今天仍然拥有可观的石油储量，能源出口仍是国家财富的重要来源。该国推动转型，并非因为油井即将枯竭。真正的压力来自未来几十年全球经济结构可能发生的变化。 新能源汽车、可再生能源和能效技术不断发展，石油需求的长期增长承受压力。油价又受到全球经济",
-    "publishedAt": "2026-11-25",
+    "id": "news-prompt-1795654200000",
+    "title": " 试试这个Prompt，帮你设计出人生的意义 ",
+    "link": "https://www.huxiu.com/article/4908545.html?f=rss",
+    "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克，原文标题：《分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。》，题图来自：视觉中国 人生的意义，一直是一个永恒的命题，特别是在AI时代。 老粉可能还记得，之前我写过一篇文章，把斯坦福最火的一门课 《人生设计课》做成了Prompt ，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。 前阵子，《人生设计课》的两位作者，比尔&middot;博内特和戴夫&middot;伊万斯，又出了一本我觉得非常符合这个时代的新书，叫《人生意义设计课》，我前几天也买了。 坦诚地讲，学到了非常多。 这本新书的来历，还得从《人生设计课》说起。 两位作者在那本书爆火之后，在读者身上发现的一个现象，不少人明明已经把人生安排得井井有条了，他们工作稳定，家庭幸福美满，过得好像已经是很棒的人生，可心里却还是感受不到满足，他们总觉得，自己的生活，少了些什么。 于是，两位作者开始重新思考一个问题。 如果一个人已经知道了自己想做什么，也努力的设计了自己的人生，过上了自己曾经想要的生活，那为什么，他依然会觉得自己的人生在某些时候，缺乏意义？ 于是，带着这个问题的思考，他们有了这本书，《人生意义设计课》。 当然，我第一次看到这个问题的时候，第一反应是真的觉得，这两老爷子已经功成名就了，他们提出的这个问题，好像有一点何不食肉糜。因为对于很多",
+    "publishedAt": "2026-11-26",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795604227000",
-    "title": "朋友圈进入集体大失声时代",
-    "link": "https://www.tmtpost.com/8216924.html",
-    "summary": "人们从来没有像今天这样拥有如此便捷的表达工具，却越来越谨慎地表达自己。",
-    "publishedAt": "2026-11-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
       "technology",
-      "business",
       "ai"
     ]
   },
   {
-    "id": "news-data-centers-are-getting-their-own-natural-gas-power-plants-1795518000000",
-    "title": "Data centers are getting their own natural gas power plants",
-    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
-    "publishedAt": "2026-11-24",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-ami-1795612099000",
-    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-    "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-    "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-    "publishedAt": "2026-11-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-dishonesty-and-unprotected-absences-not-fmla-use-caused-csx--1795550640000",
-    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
-    "link": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/",
-    "summary": "One worker had taken leave on Martin Luther King Jr. Day, Superbowl Sunday, Valentine&rsquo;s Day and Easter Sunday &mdash; despite previous warnings.",
-    "publishedAt": "2026-11-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce"
-    ]
-  },
-  {
-    "id": "news--1795616424000",
-    "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-    "link": "https://www.qbitai.com/2026/11/512683.html",
-    "summary": "贯通具⾝智能研发流程",
-    "publishedAt": "2026-11-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-10-1795622810000",
-    "title": " 10个看人极准的细节 ",
-    "link": "https://www.huxiu.com/article/4908518.html?f=rss",
-    "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《10 个看人极准的细节》 为什么我们常常会看人看走眼？ 刚认识一个人的时候，你觉得对方哪哪都好。说话客气，举止得体，聊起天来幽默风趣。 但真正相处久了，你会慢慢产生一种说不清的疲惫。对方也没做什么十恶不赦的大事，就是让你觉得别扭、内耗，甚至隐隐后悔当初走得太近。 反过来，也有一些人，初见时并不算显眼，话也不多，有点慢热。但时间越长，你越觉得和他们待在一起踏实、省心，怎么相处都舒服。 既然我们都知道日久见人心，有没有什么办法，能让我们不必付出好几年的时间和情绪成本之后，才真正看懂一个人？ 今天我想聊聊这个话题。 我想跟你分享，这些年来，我观察他人，也观察自己之后，总结出的10个看人极准的细节。 为什么大印象常常不准，小细节反而极准？ 在讲具体细节之前，我们先搞清楚一个底层问题：为什么我们很容易，被第一印象骗到？ 是因为自己阅历不够，或者太单纯吗？实际不是，而是我们大脑的设计使然。 认知心理学里有一个概念，叫做显著性偏差。简单说就是，我们的大脑，天生就喜欢省力。在判断一个陌生人时，它会优先抓取那些最显眼、最容易识别的信息，比如长相、头衔、谈吐、出手是不是大方，诸如此类。 但问题是，这些显眼的信息，恰恰处于一个人“高意识控制区”。 你可以把一个人，想象成一款软件。他在重要场合展现出来的礼貌、热情和侃",
-    "publishedAt": "2026-11-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-anthropic-1795604194000",
-    "title": "破发！但这仅仅是Anthropic要填的七个大坑之一",
-    "link": "https://www.tmtpost.com/8217094.html",
-    "summary": "游戏才刚刚开始",
-    "publishedAt": "2026-11-25",
-    "source": "钛媒体",
-    "tags": [
-      "china",
-      "technology",
-      "business",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousne-1795455368000",
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
-    "publishedAt": "2026-11-23",
-    "source": "MIT Technology Review",
-    "tags": [
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news-the-questions-jensen-huang-and-nvidia-will-still-have-to-ans-1795611600000",
-    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-    "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
-    "publishedAt": "2026-11-25",
-    "source": "TechCrunch",
-    "tags": [
-      "technology",
-      "startup",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-court-blocks-dhs-policy-limiting-international-student-train-1795535400000",
-    "title": "Court blocks DHS policy limiting international student training opportunities",
-    "link": "https://www.hrdive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875568/",
-    "summary": "The higher education groups suing to strike down new limits on the Curricular Practical Training program are likely to succeed, a federal judge ruled.&nbsp;",
-    "publishedAt": "2026-11-24",
-    "source": "HR Dive",
-    "tags": [
-      "hr",
-      "ai-hr",
-      "workforce",
-      "ai"
-    ]
-  },
-  {
-    "id": "news-9400-50-98-loop-1795604834000",
-    "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
-    "link": "https://www.qbitai.com/2026/11/512565.html",
-    "summary": "揭秘General Looped Model",
-    "publishedAt": "2026-11-25",
-    "source": "量子位",
-    "tags": [
-      "china",
-      "ai",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795622440000",
-    "title": " 丁磊担心短剧，腾讯却在赚短剧的钱 ",
-    "link": "https://www.huxiu.com/article/4908516.html?f=rss",
-    "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，制图：奇帆商业，作者：钱喆 11月19日，网易公布三季度财报，游戏及相关增值服务收入229.4亿元，同比下降1.7%。财报发布后，网易美股下跌11.39%，次日港股盘中一度跌超19%。 丁磊在财报电话会上谈到了短剧，承认这种娱乐形式对用户注意力的争夺，短期内确实会影响游戏。 腾讯却在做另一件事。微信正在帮助短剧商家提高广告投放效率，腾讯也开始为短剧承担更多内容成本。 同样是游戏巨头，网易担心短剧抢走用户，腾讯已经把短剧纳入自己的商业体系。 01 网易的游戏少卖了21亿元 网易游戏业务今年前两个季度的收入增速分别为6.9%和9.7%，到了三季度，收入从上一季度的250亿元降至229.4亿元。 资本市场原本期待的是两位数增长，实际等来的却是负增长。 图源：网易官方财报 网易在财报中给出了一个明确的解释：部分自研游戏收入下降，是游戏业务收入环比减少的主要原因。公司没有公布具体涉及哪些产品，也没有将收入下降直接归因于短剧。 游戏卖得少了，网易反而获得了更多经营利润。游戏业务毛利润达到170.5亿元，同比增长约5.4%，毛利率升至74.3%。公司整体营业成本下降13.5%，经营费用下降5.4%，经营利润同比增长约17.7%。 收入分成成本减少，市场推广和管理费用下降，支撑了网易的利润增长。那些已经运营多年的游戏，仍然能通过版本更新和虚拟商品销售赚",
-    "publishedAt": "2026-11-25",
-    "source": "虎嗅",
-    "tags": [
-      "china",
-      "business",
-      "technology"
-    ]
-  },
-  {
-    "id": "news--1795603792000",
-    "title": "黄仁勋的下一场狠仗：再辞职",
-    "link": "https://www.tmtpost.com/8217227.html",
-    "summary": "最重要的CEO，最难的是变得不重要。",
-    "publishedAt": "2026-11-25",
+    "id": "news-ai-tcl-1795655340000",
+    "title": "面板公司做AI，TCL华星是噱头还是真活？",
+    "link": "https://www.tmtpost.com/8217728.html",
+    "summary": "AI需要的不止一块好屏。",
+    "publishedAt": "2026-11-26",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -1010,25 +1012,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
     "postedAt": "2026-11-21",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1137893",
-    "title": "Product Manager, AI Foundations",
-    "company": "Reddit",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Reddit is a community of communities",
-      "Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet",
-      "Every day, Reddit users submit, vote, and comment on the topics they care most about",
-      "With 100,000+ active communities and approximate"
-    ],
-    "skills": [],
-    "location": "US Only",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893",
-    "postedAt": "2026-11-20",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-11-25T16:44:10.423Z';
+export const dataFetchedAt = '2026-11-26T01:29:43.586Z';
