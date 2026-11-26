@@ -2,6 +2,144 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-27-auto",
+    "date": "2026-11-27",
+    "session": "auto",
+    "title": "2026-11-27 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-27-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a few prosthetics. But his latest&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a few prosthetics. But his latest&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+      },
+      {
+        "id": "sig-2026-11-27-auto-2",
+        "emoji": "⚠️",
+        "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "detail": "来源: TechCrunch。On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "ai-hr"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+      },
+      {
+        "id": "sig-2026-11-27-auto-3",
+        "emoji": "🚨",
+        "title": "‘I just don’t know the rules anymore’: Nvidia and Jensen Huang’s mockery of modern HR",
+        "summary": "The scandal-ridden executive&#39;s shocking return is antithetical to everything practitioners tell themselves about how organizations should function and how leaders should behave.",
+        "detail": "来源: HR Dive。The scandal-ridden executive&#39;s shocking return is antithetical to everything practitioners tell themselves about how organizations should function and how leaders should behave.",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/nvidia-and-jensen-huang-mockery-of-modern-hr/875789/"
+      },
+      {
+        "id": "sig-2026-11-27-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Spectrum Adaptation of AI-Native Autoencoder Communications ...",
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an",
+        "detail": "作者: Yalin E. Sagduyu, Tugba Erpek。End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we propose a low-latency transfer-learning procedure that starts from an AWGN-pretrained system and fine-tunes only a small subset of transmitter and receiver layers while freezing the remainder. We furt",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.34942v1"
+      },
+      {
+        "id": "sig-2026-11-27-auto-5",
+        "emoji": "💼",
+        "title": "Silverback Strategies 正在招募 Senior Paid Media Manager (Remote)",
+        "summary": "岗位类型：业务+AI 复合岗。Silverback Strategies is a performance marketing agency built to help marketers grow and capitalize on change",
+        "detail": "技能要求: RAG。Silverback Strategies is a performance marketing agency built to help marketers grow and capitalize on change Ad Age, Inc Magazine, The Washington Post, The Washingtonian, and The Washington Business Journal have recognized Silverback as one of the best places to work We hire the best and help the",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Silverback Strategies"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Silverback Strategies",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-paid-media-manager-remote-silverback-strategies-1138128"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-27-1",
+        "priority": "medium",
+        "action": "关注「The Download: Better bionic hands and AI」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-27-2",
+        "priority": "medium",
+        "action": "关注「As Anthropic IPOs, Grand Theft Auto VI p」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-27-3",
+        "priority": "high",
+        "action": "关注「‘I just don’t know the rules anymore’: N」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-27-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Spectrum Adaptation of AI-Native Au」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-27-5",
+        "priority": "medium",
+        "action": "关注「Silverback Strategies 正在招募 Senior Paid M」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Silverback Strategies"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 58,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-27 生成，聚合了 28 条新闻、20 篇论文、10 个岗位。",
+    "fetchWindow": "2026-11-27 00:00 - 2026-11-27 23:59"
+  },
+  {
     "id": "report-2026-11-26-auto",
     "date": "2026-11-26",
     "session": "auto",
