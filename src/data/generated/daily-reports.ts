@@ -2,6 +2,142 @@ import type { DailyReport } from '@/types';
 
 export const generatedDailyReports: DailyReport[] = [
   {
+    "id": "report-2026-11-28-auto",
+    "date": "2026-11-28",
+    "session": "auto",
+    "title": "2026-11-28 自动日报 · AI 与 HR 情报聚合",
+    "signals": [
+      {
+        "id": "sig-2026-11-28-auto-1",
+        "emoji": "⚠️",
+        "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.&#8230;",
+        "detail": "来源: MIT Technology Review。This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.&#8230;",
+        "priority": "medium",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "MIT Technology Review",
+        "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
+      },
+      {
+        "id": "sig-2026-11-28-auto-2",
+        "emoji": "💡",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "detail": "来源: TechCrunch。Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "priority": "low",
+        "tags": [
+          "ai"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "tech",
+        "sourceName": "TechCrunch",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      },
+      {
+        "id": "sig-2026-11-28-auto-3",
+        "emoji": "🚨",
+        "title": "‘I just don’t know the rules anymore’: Nvidia and Jensen Huang’s mockery of modern HR",
+        "summary": "The scandal-ridden executive&#39;s shocking return is antithetical to everything practitioners tell themselves about how organizations should function and how leaders should behave.",
+        "detail": "来源: HR Dive。The scandal-ridden executive&#39;s shocking return is antithetical to everything practitioners tell themselves about how organizations should function and how leaders should behave.",
+        "priority": "high",
+        "tags": [
+          "ai-hr",
+          "organization"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "hr_media",
+        "sourceName": "HR Dive",
+        "link": "https://www.hrdive.com/news/nvidia-and-jensen-huang-mockery-of-modern-hr/875789/"
+      },
+      {
+        "id": "sig-2026-11-28-auto-4",
+        "emoji": "📄",
+        "title": "研究速递：Spectrum Adaptation of AI-Native Autoencoder Communications ...",
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an",
+        "detail": "作者: Yalin E. Sagduyu, Tugba Erpek。End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we propose a low-latency transfer-learning procedure that starts from an AWGN-pretrained system and fine-tunes only a small subset of transmitter and receiver layers while freezing the remainder. We furt",
+        "priority": "medium",
+        "tags": [
+          "ai",
+          "research"
+        ],
+        "relatedCompanies": [],
+        "sourceType": "academic",
+        "sourceName": "arXiv",
+        "link": "http://arxiv.org/abs/2611.34942v1"
+      },
+      {
+        "id": "sig-2026-11-28-auto-5",
+        "emoji": "💼",
+        "title": "Spotify 正在招募 Senior Engineering Manager - Agentic Products",
+        "summary": "岗位类型：业务+AI 复合岗。The Personalization team makes deciding what to play next easier and more enjoyable for every listener",
+        "detail": "技能要求: Agent。The Personalization team makes deciding what to play next easier and more enjoyable for every listener From Blend to Discover Weekly, weâre behind some of Spotifyâs most-loved features We built them by understanding the world of music and podcasts better than anyone else Join us and youâll",
+        "priority": "medium",
+        "tags": [
+          "ai-hr",
+          "talent"
+        ],
+        "relatedCompanies": [
+          "Spotify"
+        ],
+        "sourceType": "tech",
+        "sourceName": "Spotify",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-agentic-products-spotify-1138174"
+      }
+    ],
+    "actionPlan": [
+      {
+        "id": "action-2026-11-28-1",
+        "priority": "medium",
+        "action": "关注「The Download: Innovators Under 35 nomina」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "MIT Technology Review"
+      },
+      {
+        "id": "action-2026-11-28-2",
+        "priority": "low",
+        "action": "关注「Nvidia hits pause on chip shipments to S」对 HR 组织人才的影响",
+        "timeWindow": "持续关注",
+        "basis": "TechCrunch"
+      },
+      {
+        "id": "action-2026-11-28-3",
+        "priority": "high",
+        "action": "关注「‘I just don’t know the rules anymore’: N」对 HR 组织人才的影响",
+        "timeWindow": "本周内",
+        "basis": "HR Dive"
+      },
+      {
+        "id": "action-2026-11-28-4",
+        "priority": "medium",
+        "action": "关注「研究速递：Spectrum Adaptation of AI-Native Au」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "arXiv"
+      },
+      {
+        "id": "action-2026-11-28-5",
+        "priority": "medium",
+        "action": "关注「Spotify 正在招募 Senior Engineering Manager 」对 HR 组织人才的影响",
+        "timeWindow": "两周内",
+        "basis": "Spotify"
+      }
+    ],
+    "sourceCoverage": {
+      "total": 45,
+      "types": [
+        "tech",
+        "academic"
+      ],
+      "baseline": 5,
+      "passed": true
+    },
+    "content": "本报告由自动化脚本于 2026-11-28 生成，聚合了 20 条新闻、20 篇论文、5 个岗位。",
+    "fetchWindow": "2026-11-28 00:00 - 2026-11-28 23:59"
+  },
+  {
     "id": "report-2026-11-27-auto",
     "date": "2026-11-27",
     "session": "auto",
