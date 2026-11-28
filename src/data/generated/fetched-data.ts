@@ -14,16 +14,17 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-nvidia-hits-pause-on-chip-shipments-to-southeast-asia-1795723434000",
-    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-    "publishedAt": "2026-11-26",
+    "id": "news-sakana-ai-8217-s-ceo-says-its-homegrown-models-are-about-mor-1795874400000",
+    "title": "Sakana AI&#8217;s CEO says its homegrown models are about more than Japan&#8217;s national security",
+    "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+    "publishedAt": "2026-11-28",
     "source": "TechCrunch",
     "tags": [
       "technology",
       "startup",
-      "ai"
+      "ai",
+      "strategy"
     ]
   },
   {
@@ -41,11 +42,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-1795788453000",
-    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-    "link": "https://www.qbitai.com/2026/11/513352.html",
-    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-    "publishedAt": "2026-11-27",
+    "id": "news-8192-285b-32-1795875170000",
+    "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
+    "link": "https://www.qbitai.com/2026/11/513535.html",
+    "summary": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
+    "publishedAt": "2026-11-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -54,10 +55,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-57-1795827028000",
-    "title": " 57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂 ",
-    "link": "https://www.huxiu.com/article/4909111.html?f=rss",
-    "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 昨天看到一个新闻，一位57岁的女士在嘉兴被一家酒店拒之门外，店方理由是“仅限18至40岁入住”。该女士则认为自己在预订页面中并未见到明显的年龄限制提示，提交订单页面同样没有醒目提示，仅在订房条款中才有标注，相当于进入三级页面才能见到。此外，酒店主页也没有醒目提示。 酒店提供的是上下铺多人客房，该女士提供的平台退款截图显示，退款金额为26.31元。从房间形态和价位，都可以确认这实际上是一个青年旅社的床位。 在网络评论中，支持酒店的声音明显更多，诸如“人家明明是青年旅社”“上过小学都应该认得青年二字”之类的评论直接刷屏。 这些评论看起来自信干脆，带着一种“这还用讨论吗”的智力优越感，但却恰恰暴露了这些人对“青年旅社”的认知，仅限于小学语文对“青年”一词的年龄定义。 国内青旅在年龄上设限并不是新鲜事，这两年很多媒体都有过报道，40以下入住还算宽松的，去年新闻报道中有不少青旅直接跟考公看齐，来个“35岁以下谢绝入住”。 但在实际上，青年旅社里的“青年”，从来就不是身份证上的出生年份。它指的是一种旅行方式，一种住宿伦理，一种以开放和互助为底色的空间承诺。将“青年”读成年龄上限的人，不是在维护常识，是在用一个过于简陋的常识，覆盖一个他们从未了解过的传统。 1912年，德国教师理查德·希尔曼在阿尔特纳一座废弃古堡里建立了世界上第一家青年",
+    "id": "news--1795875623000",
+    "title": " 消失的鬼字，降临的诡异世界 ",
+    "link": "https://www.huxiu.com/article/4909229.html?f=rss",
+    "summary": "本文来自微信公众号： 一点人间见识 ，作者：无梦生 最近狂刷红果短剧，连续刷到几部诡异规则怪谈类的剧目。 大概套路是如下：主角被丢进一个有诡异的世界，上了一辆神秘的公交车，车上贴着几条规则。守规则就能活，不遵守规则就会被嘎。 在这类世界里，诡异是一种单独的生物，有自己的习性和禁忌。 我之前只看修真和历史类的网文，真没接触过这类小说，所以一度刷起来很是上头。但看着看着，总觉得有点别扭。这个剧里人挂在嘴上的\"诡异\"，好像就是我们平时说的鬼。 又继续刷了几部后，发现这类短剧的设定其实很完整：世界上有人，也有诡异，两种东西并存；诡异拥有的有各种功能的物品叫\"诡物\"。 看到这里，我基本可以确定，这个诡，就是鬼神的鬼。 想通了这个代换，很多原来觉得别扭的地方一下就通了。 但我还是好奇，为什么这些故事里没有神仙、没有道士、也没有超度，主角活命不靠法术，全靠观察和推理？为什么通篇都在写灵异，偏偏“鬼”字几乎绝迹？ 顺着这条线往回查，我才发现这不是哪个人心血来潮的写法，而是一场剧烈却又没什么人在意的改变。 过去七年里，网文里的\"鬼\"被一点点换成了\"诡\"；换着换着，变成了一个今天的诡异流。 ▍一没有大纲的考试 2018年7月，佛前献花开始连载《神秘复苏》，当时它还叫《恐怖复苏》。 书里立了三条规则：鬼无法被杀死；能对付鬼的只有鬼；每只鬼都有近乎固定的触发条件和杀人规律。 这套设定像极了一段程序，有触发",
     "publishedAt": "2026-11-28",
     "source": "虎嗅",
     "tags": [
@@ -67,10 +68,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-edge-ai-daily-11-28-1795827184000",
-    "title": "Edge AI Daily 早报（11月28日）",
-    "link": "https://www.tmtpost.com/8220996.html",
-    "summary": "Anthropic 发布 Claude Ship，将 GitHub PR 拆分为 Code Review、PR Steward 与 Claude Approvals，以权限隔离和过程留痕降低自审自批风险，其团队 6 至 9 月合并 PR 翻倍以上、回滚比例降超 40%；Anthropic 同时弱化工程师晋升中的完成时间权重，转向延迟、资源消耗与事故指标。英伟达黄仁勋携战略决策权回归，FY26Q3 营收 1158 亿美元、数据中心 1076 亿美元，预计 Q4 约 1300 亿美元，治理与继任机制成为估值新变量。",
+    "id": "news-ai-1795871691000",
+    "title": "美团每年砸百亿做AI，王兴不想只做外卖生意",
+    "link": "https://www.tmtpost.com/8220970.html",
+    "summary": "外卖竞争降温后，美团的利润开始修复，AI投入也到了需要进一步检验成效的时候。",
     "publishedAt": "2026-11-28",
     "source": "钛媒体",
     "tags": [
@@ -93,10 +94,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-is-alice-huang-a-spy-or-not-1795723200000",
-    "title": "Is Alice Huang a spy or not?",
-    "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-    "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+    "id": "news-nvidia-hits-pause-on-chip-shipments-to-southeast-asia-1795723434000",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
     "publishedAt": "2026-11-26",
     "source": "TechCrunch",
     "tags": [
@@ -120,11 +121,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-token-1795778304000",
-    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
-    "link": "https://www.qbitai.com/2026/11/513346.html",
-    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
-    "publishedAt": "2026-11-27",
+    "id": "news-xai-90-1795870382000",
+    "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+    "link": "https://www.qbitai.com/2026/11/513507.html",
+    "summary": "这还只是热身",
+    "publishedAt": "2026-11-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -133,24 +134,25 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-1-4-1-1795826309000",
-    "title": " 国资1.4亿买老挝酒店，只卖1万块？ ",
-    "link": "https://www.huxiu.com/article/4909110.html?f=rss",
-    "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 五星琅勃拉邦铂尔曼，1万块挂牌清仓背后。 ▲ 01 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园区型度假村，总共配有123间客房，在当地属于档次很高的综合商务度假酒店。 打开携程等多家主流预订平台，琅勃拉邦铂尔曼酒店保持着不错的住客评分，每晚参考房价多在1000元人民币左右。 把时间往回拨，云南能投居正产业投资有限公司2016年前后从云铜国际手里买下该酒店股权时，1.42亿元仅仅是转让价，后续又投入资金完成收尾工程和开业筹备。 近期项目重新摆上货架，报名时间从2026年11月17日持续至12月14日，虽然保证金只要1万元，挂牌页面显示浏览量却只有数百次，关注人数停留在0。 成立于2013年的云南能投居正产业投资有限公司，背靠云南省属大型国企云南省能源投资集团有限公司，属于集团旗下的二级控",
+    "id": "news-deepseek-1795873164000",
+    "title": " DeepSeek 给免费对话标了价，谁先赚到钱 ",
+    "link": "https://www.huxiu.com/article/4909181.html?f=rss",
+    "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜视觉中国 一句&ldquo;你好&rdquo;，0.000528&nbsp;元。 近日，用户发现，DeepSeek&nbsp;安卓&nbsp;App&nbsp;更新到&nbsp;2.10.0&nbsp;版后，可以点开面板，查看一轮对话用了多少&nbsp;Token，按开发者调用模型的价格折算，又值多少钱。当然，用户并没有实质支付费用。 比这张价签更早影响用户的，是另一条提示。11&nbsp;月中旬，DeepSeek&nbsp;免费端单次输入上限已缩至约&nbsp;4&nbsp;万字，每日使用有了额度，超过七天没有活跃交互的长对话也无法直接接续。 这两条提示说的是两件事：一条告诉用户，同样的对话走开发者接口值多少钱；另一条告诉用户，免费服务能用到什么程度。DeepSeek&nbsp;还没有公布普通用户的收费方案。但从聊天走到替人干活，AI&nbsp;要做的计算越来越多。多出来的算力，谁来买单？ 便宜的&nbsp;Token，更贵的账单 目前，基础模型厂商主要通过两种方式向客户收费。一种是&nbsp;API&nbsp;按量计费：企业或开发者把模型接进自己的产品，处理了多少输入、生成了多少输出，就按对应的&nbsp;Token&nbsp;单价结算。对于流量波动大的应用，这笔钱会随着调用量一起变化；调用越频繁，企业越需要留意模型选择、缓存",
     "publishedAt": "2026-11-28",
     "source": "虎嗅",
     "tags": [
       "china",
       "business",
-      "technology"
+      "technology",
+      "ai"
     ]
   },
   {
-    "id": "news-7-0-91-2026-1795785670000",
-    "title": "鱼你在一起7.0小碗菜模型加速规模化；波司登中期营收超91亿元；元气森林2026外星人与好自在双位数增长；锐步重启中国市场｜消研所周报",
-    "link": "https://www.tmtpost.com/8220740.html",
-    "summary": "迪卡侬旗下专业高山攀登品牌「SIMOND」焕新亮相中国市场；始祖鸟2026雪季以「SPEAK IN TURNS」为题正式开启。",
-    "publishedAt": "2026-11-27",
+    "id": "news-q3-1795870761000",
+    "title": "美团Q3扭亏：利润回来了，但“边界”问题没有",
+    "link": "https://www.tmtpost.com/8220533.html",
+    "summary": "美团Q3扭亏，利润修复下仍存长期增长待解问题。",
+    "publishedAt": "2026-11-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -172,10 +174,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-x-finally-gets-parental-controls-after-20-years-1795721510000",
-    "title": "X finally gets parental controls after 20 years",
-    "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-    "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+    "id": "news-is-alice-huang-a-spy-or-not-1795723200000",
+    "title": "Is Alice Huang a spy or not?",
+    "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+    "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
     "publishedAt": "2026-11-26",
     "source": "TechCrunch",
     "tags": [
@@ -199,11 +201,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-140-1795765158000",
-    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
-    "link": "https://www.qbitai.com/2026/11/513320.html",
-    "summary": "淡泊名利，实至名归🎉",
-    "publishedAt": "2026-11-27",
+    "id": "news--1795869757000",
+    "title": "最新：黎曼猜想证明通过独立验证！",
+    "link": "https://www.qbitai.com/2026/11/513484.html",
+    "summary": "六种检查全通过",
+    "publishedAt": "2026-11-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -212,10 +214,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-2027-1-1795824572000",
-    "title": " 2027年1月美国‘新关税’可能对中国出口的影响？ ",
-    "link": "https://www.huxiu.com/article/4909106.html?f=rss",
-    "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界 这两天出差和商家交流的时候，大家又在担心11月25日美国发布的\"新关税\"消息。大家担心2027年的关税战会再起，影响2027年中国外贸的整体表现和出口美国的增长势头。在我看下来其实不用太担心，美国此举在我看来不是\"负面影响\"反而是\"正面影响\"。因为中国主持的APEC会议多国领导人达成了一个非常积极的贸易合作规则框架。就算美国新301关税落地也不会给中国当前的出口美国贸易新增太多的负担，反而是针对其他出口美国的制造业经济体（如东南亚、日韩、欧洲、拉美等）带去了非常大的压力，凸显了中国的相对税率优势。 先把话说清楚：我说\"正面\"，不是说中国的税率变低了，而是说中国和竞争对手之间的税差在收窄。这两件事差别很大，商家做决策时一定要分开看。下面我把这几天对着USTR原文、税号清单和海关数据算的账，一笔一笔摊开讲。（p.s.文末信息来源部分有附美国贸易代表办公室（USTR）原文链接，有企业需要详细信息可以跳转下载原文文档） 一、先看清这份\"新关税\"到底是什么 我把USTR 11月25日发布的对华公告原文逐段读了一遍，核心就三句话[1]： 附件A的商品 ：最高加征10%； 附件B的商品 ：豁免； 不在附件里的其他中国商品 ：最高加征20%，而且是\"net of\"——扣除7月已经落地的强迫劳动301税率之后再算，不是在原有税率上再整整叠20%。 这",
+    "id": "news-deepseek-1795871011000",
+    "title": " 李开复：黄仁勋曾到DeepSeek请教 ",
+    "link": "https://www.huxiu.com/article/4909224.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 近日，创新工场董事长、零一万物创始人李开复在与《大西洋月刊》CEO尼古拉斯·汤普森对谈时表示，DeepSeek的模型能力与美国前沿模型相比，可能落后约一成，但成本可能只有对方的5%至10%。 李开复认为，成本差距给了DeepSeek定价的余地。DeepSeek即便提价，仍有机会同时留住价格优势和利润，也可以借助融资继续维持低价，把用户规模做大。不过，他并不知道DeepSeek最终会怎么选。 今年9月，DeepSeek推出V4.1 Flash时就曾表示，新架构降低了模型的运行成本，公司也相应下调了Flash系列的API价格。以空闲时段每百万词元（token）计，缓存命中的输入价格由0.05元降至0.02元，降幅最大，达60%。缓存未命中的输入价格由1.5元降至1元，下降约33%。输出价格由4.5元降至4元，下降约11%。高峰时段各项单价均为空闲时段的两倍。 李开复把这支团队对运行速度的重视追溯回幻方量化。2023年创办DeepSeek之前，梁文锋旗下的幻方量化就已利用人工智能模型分析市场数据、作出投资决策。 李开复指出，量化交易对速度极为敏感，工程师会为缩短几微秒反复优化系统。在他看来，这种做法延续到了DeepSeek，团队从设计模型之初就考虑怎样让它跑得更快，并从代码、模型架构、固件和硬件等环节着手优化。 幻方曾在2022年英伟达GT",
     "publishedAt": "2026-11-28",
     "source": "虎嗅",
     "tags": [
@@ -225,11 +227,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-5-10-1795780516000",
-    "title": "线上线下打包出售5家子公司，已“套现”超10亿元的原实控人接盘",
-    "link": "https://www.tmtpost.com/8220834.html",
-    "summary": "易主时的兜底条款落地。",
-    "publishedAt": "2026-11-27",
+    "id": "news-ai-1795870515000",
+    "title": "资本泡沫破了，AI应用与中国公司的机会就来了",
+    "link": "https://www.tmtpost.com/8221264.html",
+    "summary": "算力便宜了，机会轮到应用。",
+    "publishedAt": "2026-11-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -251,10 +253,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-1795712400000",
-    "title": "A month with the iPhone Duo has changed how I use my phone",
-    "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-    "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+    "id": "news-x-finally-gets-parental-controls-after-20-years-1795721510000",
+    "title": "X finally gets parental controls after 20 years",
+    "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+    "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
     "publishedAt": "2026-11-26",
     "source": "TechCrunch",
     "tags": [
@@ -278,11 +280,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-deepseek-app-1795764550000",
-    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
-    "link": "https://www.qbitai.com/2026/11/513305.html",
-    "summary": "网页App双端亮出聊天账单",
-    "publishedAt": "2026-11-27",
+    "id": "news-claude-90-1795868748000",
+    "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+    "link": "https://www.qbitai.com/2026/11/513463.html",
+    "summary": "为了证明黎曼猜想，他已经准备了十几年",
+    "publishedAt": "2026-11-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -291,10 +293,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-ge-1795824449000",
-    "title": " GE医疗、飞利浦、西门子医疗全球营收增长，唯独中国区业绩承压 ",
-    "link": "https://www.huxiu.com/article/4909107.html?f=rss",
-    "summary": "本文来自微信公众号： 动脉网 ，作者：张靖 2026年第三季度，GE医疗、飞利浦、西门子医疗（GPS）的中国影像业务迎来阶段性回暖。但是：翻阅三家企业的最新财报与业绩电话会，没有任何一家上调中国市场业绩预期。 与此同时，GPS 2026年在全球市场营收保持稳定增长，另一边却是中国区域整体承压。GPS三巨头正在经历怎样的市场变局？它们面临哪些共性挑战，又走出了怎样截然不同的应对路径？ 01 GPS，中国区业绩承压 近期，GPS三家企业陆续发布业绩报告，中国市场成为财报与业绩电话会里反复出现的高频词。 11月25日，西门子医疗发布2026财年年报，报告期为2025年10月至2026年9月。财报数据显示：西门子医疗全年营收236.30亿欧元（约1731.4亿元人民币），同比增长1.1%；剔除汇率、业务组合等影响后，可比增长4.0%。净利润22.43亿欧元，同比增长3.5%。 从区域看，中国地区是其唯一收入可比下降的市场。2026财年，西门子医疗在EMEA市场，较2025财年可比增长4.5%，美洲地区可比增长6.5%，亚太日本地区可比增长2.5%，中国地区可比下降6.6%。 （数据来源：西门子医疗2026年财报） 拆分业务来看，西门子医疗在中国的影像业务和精准治疗业务小幅下滑，诊断业务则大幅下降。其中，西门子医疗的影像业务包括磁共振、CT、X射线和分子影像；精准治疗业务包含瓦里安（肿瘤放疗",
+    "id": "news-30-1795870991000",
+    "title": " 掉队的乐乐茶全线降价超30%，存量厮杀中再掀价格战？ ",
+    "link": "https://www.huxiu.com/article/4909223.html?f=rss",
+    "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 茶咖赛道有段时间未打价格战，“初代网红新茶饮”乐乐茶打破了这种平静。11月27日，乐乐茶在品牌十周年之际下调小程序全线产品价格，称新价格可“立省30%”，自提和外卖同步执行。 原价23元的招牌黑糖波霸脏脏茶降至12.9元起，按起售价计算降幅约44%。鲜打柠檬水从17元降至5.9元，降幅约65%。草莓桃子、杨枝甘露等四款饮品也从22元降至12.9元。 部分商品在小程序里仍标着“限时特价”，但乐乐茶在调价说明中表示，新价格不设时限，消费者打开小程序即可按新价下单，无需领券、凑单或开通会员。品牌同时表示，原料和配方照旧。 这一调价力度，放在行业里也是较为“激进”的。至此，乐乐茶主力产品已落入古茗、茶百道、CoCo等同行长期争夺的价格带。 古茗在招股材料中披露，其产品价格通常在10元至18元之间。如今，同样是十几元一杯，但与乐乐茶的门店规模相差悬殊。 窄门餐眼数据显示，乐乐茶11月有418家在营门店，过去一年关店超过140家，但门店总数较去年净增18家。 作为参照，截至今年6月底，古茗在中国有14351家门店，茶百道在中国内地有8791家门店，奈雪的茶品牌有1685家门店。按窄门餐眼11月统计的全国约36.4万家奶茶饮品门店粗算，乐乐茶约占千分之一。 乐乐茶2016年创立于上海，靠脏脏包和脏脏茶走红，曾与喜茶、奈雪处于同一竞争梯队。窄门餐眼数",
     "publishedAt": "2026-11-28",
     "source": "虎嗅",
     "tags": [
@@ -304,11 +306,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-10-ai-1795778333000",
-    "title": "股价五个月跌去七成后抛10亿定增，泰晶科技的AI晶振叙事与资本算盘",
-    "link": "https://www.tmtpost.com/8220782.html",
-    "summary": "股价五月跌超七成，晶振龙头扩产叙事难掩资本择时争议。",
-    "publishedAt": "2026-11-27",
+    "id": "news--1795870505000",
+    "title": "每日优鲜消失后，我在小象超市买不到“对味”",
+    "link": "https://www.tmtpost.com/8220757.html",
+    "summary": "生鲜赛道巨头收割，平价好货成为过往。",
+    "publishedAt": "2026-11-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -330,10 +332,10 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-grand-theft-auto-vi-proves-why-efficiency-isn-8217-t-a-virtu-1795708800000",
-    "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
-    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "id": "news-a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-1795712400000",
+    "title": "A month with the iPhone Duo has changed how I use my phone",
+    "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+    "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
     "publishedAt": "2026-11-26",
     "source": "TechCrunch",
     "tags": [
@@ -357,11 +359,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news--1795762880000",
-    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
-    "link": "https://www.qbitai.com/2026/11/513227.html",
-    "summary": "地图能随时修，记忆能跨任务用",
-    "publishedAt": "2026-11-27",
+    "id": "news-claude-1795845286000",
+    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "link": "https://www.qbitai.com/2026/11/513428.html",
+    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "publishedAt": "2026-11-28",
     "source": "量子位",
     "tags": [
       "china",
@@ -370,11 +372,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-b-1795821331000",
-    "title": " 给B站泼一盆冷水 ",
-    "link": "https://www.huxiu.com/article/4908316.html?f=rss",
-    "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜视觉中国 B 站终于熬出了一份扬眉吐气的财报。 11 月 24 日，B 站向市场递上 2026Q3 财报，局面一片明朗：总营收同比增长 8% 至 83.2 亿元；经调整净利润同比增长 5% 至 8.28 亿元；经营利润同比飙升 32%，毛利率由上年同期的 36.7% 升至 37.3%。 不过，市场更关注的落点在用户盘：Q3 日活同比增长 5% 达 1.24 亿，月活同比增长 4.8% 达 3.94 亿；日均使用时长首次突破两小时达 121 分钟，全平台用户总使用时长同比增长 14%， 三项核心用户指标齐创历史新高。 在短剧席卷全网、全行业用户时长普遍承压的背景下，B 站 CEO 陈睿在财报电话会上以&ldquo;薯片与米饭&rdquo;的比喻定调，称 B 站是提供获得感的&ldquo;米饭&rdquo;，社区不受短剧这种&ldquo;薯片&rdquo;的冲击。再加上前不久 BLG（Bilibili Gaming）刚夺得英雄联盟 S16 全球总决赛冠军，直接给 B 站镀上了一层英雄滤镜。 可仔细咂摸时长的增长逻辑会发现，颇有点打不过就加入的味道：一方面，B 站之所以能对冲外部短剧冲击，很大程度上得益于主动下场加入时长争夺战， 通过 AI 推荐算法加码信息流投喂，用更精准的内容分发留住用户； 另一方面，内容品类持续泛化，",
-    "publishedAt": "2026-11-27",
+    "id": "news-spacex-1795870800000",
+    "title": " SpaceX：太空算力拿到“准生证”，成本账算得平吗？ ",
+    "link": "https://www.huxiu.com/article/4909221.html?f=rss",
+    "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，头图来自：AI生成 11/25美股盘中，美国联邦通信委员会（FCC）主席Brendan Carr宣布，有条件批准部署最多100万颗卫星的&ldquo;Starmind&rdquo;轨道数据中心星座。这是美国首次给太空数据中心星座发放许可。 但条件不少：首颗卫星须在2033年11月25日前入轨运营，2035、2038、2040年分别部署10%、50%和100%，任一节点未达标即失效；送入600公里以上轨道前，还须先交最终的碎片处置方案。 海豚君在深度 《SpaceX：太空算力，马斯克新饼，还是真未来？》 中，把太空数据中心定义为SpaceX估值里最大的一块&ldquo;期权&rdquo;；上周的 《SpaceX：飞船&ldquo;接住&rdquo;了，股价为何没接住？》 又提到，星舰降本是这份期权&ldquo;行权&rdquo;的前提。现在，监管这一关先过了。 但市场反应很克制：当天纳指100一度跌4.7%，SPCX盘中最深跌9.4%，收盘反涨1.3%至127.44美元，市值约1.7万亿美元，较10月中旬高点回撤约22%，但仍高于海豚君的中性估值。 监管上已经通过，股价却只涨了1.3%，这张许可到底值多少钱？下面海豚君来详细说说几个问题： 1）FCC到底批了什么？ 2）太空算力的经济账，算得过来吗？ 3）这张许可对SpaceX估值意味着",
+    "publishedAt": "2026-11-28",
     "source": "虎嗅",
     "tags": [
       "china",
@@ -384,11 +386,11 @@ export const generatedNews: NewsItem[] = [
     ]
   },
   {
-    "id": "news-uv-1795776977000",
-    "title": "众筹超千万美元，这台UV打印机盯上海外定制小生意",
-    "link": "https://www.tmtpost.com/8220515.html",
-    "summary": "从工业级到消费级，桌面创作工具要先打动海外小商家群体的钱包。",
-    "publishedAt": "2026-11-27",
+    "id": "news-5-309-1795869628000",
+    "title": "有人进门就点名宁德时代，有人甩出5亿欧元清单，309家海外采购团挤爆深圳",
+    "link": "https://www.tmtpost.com/8221377.html",
+    "summary": "光储充出海买家多极化，但各地采购逻辑分化，中国企业须匹配差异化能力而非仅追求订单量。",
+    "publishedAt": "2026-11-28",
     "source": "钛媒体",
     "tags": [
       "china",
@@ -789,6 +791,45 @@ export const generatedPapers: ArxivPaper[] = [
 
 export const generatedJobs: JobPosting[] = [
   {
+    "id": "job-remoteok-1138221",
+    "title": "Director, Sales - Retail Merchandising Analytics",
+    "company": "NielsenIQ",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Company Description R26_0027946 Location:Â Remote; must be in US at time of application to be considered",
+      "Job Description About this job We are seeking an ambitious and results-oriented Director of Sales to join our Retail Merchandising Analytics team",
+      "In this individual contributor role, you will d"
+    ],
+    "skills": [
+      "RAG",
+      "AWS"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-director-sales-retail-merchandising-analytics-nielseniq-1138221",
+    "postedAt": "2026-11-27",
+    "isNew": true
+  },
+  {
+    "id": "job-remoteok-1138220",
+    "title": "Client Manager, Retail Collaboration",
+    "company": "NielsenIQ",
+    "category": "hybrid_ai",
+    "responsibilities": [
+      "Company Description R26_0024966 At NielsenIQ, we deliver the most complete and clear understanding of consumer buying behavior that reveals new pathways to grow"
+    ],
+    "skills": [
+      "Python",
+      "AWS",
+      "SQL"
+    ],
+    "location": "US Only",
+    "source": "company_career",
+    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-client-manager-retail-collaboration-nielseniq-1138220",
+    "postedAt": "2026-11-27",
+    "isNew": true
+  },
+  {
     "id": "job-remoteok-1138174",
     "title": "Senior Engineering Manager - Agentic Products",
     "company": "Spotify",
@@ -862,31 +903,7 @@ export const generatedJobs: JobPosting[] = [
     "sourceUrl": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-kinsta-1138126",
     "postedAt": "2026-11-25",
     "isNew": true
-  },
-  {
-    "id": "job-remoteok-1138093",
-    "title": "Senior Software Engineer, AI & Science Platform",
-    "company": "Reddit",
-    "category": "hybrid_ai",
-    "responsibilities": [
-      "Reddit is a community of communities",
-      "Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet",
-      "Every day, Reddit users submit, vote, and comment on the topics they care most about",
-      "With 100,000+ active communities and approximate"
-    ],
-    "skills": [
-      "Python",
-      "LLM",
-      "Agent",
-      "SQL",
-      "Spark"
-    ],
-    "location": "US Only",
-    "source": "company_career",
-    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
-    "postedAt": "2026-11-24",
-    "isNew": true
   }
 ];
 
-export const dataFetchedAt = '2026-11-28T01:01:28.587Z';
+export const dataFetchedAt = '2026-11-28T14:58:57.113Z';
